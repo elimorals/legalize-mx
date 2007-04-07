@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2007-03-24"
+last_updated: "2007-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -639,9 +639,9 @@ II. Proponer a la Asamblea, la integración de comisiones y comités, con el se�
 
 III. Proponer a la Asamblea el nombramiento para su designación de los servidores públicos del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2007)</small>
 
-IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación, del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares de los Órganos Técnicos de: Hacienda Pública, de Responsabilidades, de Educación, de Desarrollo Humano, de Asuntos Metropolitanos y de Puntos Constitucionales y Técnica Legislativa;
+IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación, del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares de los órganos técnicos de: Hacienda Pública, de Responsabilidades, de Educación, de Desarrollo Humano, de Asuntos Metropolitanos, de Seguridad Pública y de Puntos Constitucionales y Técnica Legislativa;
 
 V. Proponer a la Asamblea, en los términos de la presente ley, el nombramiento de los servidores públicos del Instituto de Investigación y Estudios Legislativos, en su caso;
 
@@ -1131,23 +1131,63 @@ V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, rel
 
 VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 24 DE MARZO DE 2007)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ABRIL DE 2007)</small>
 
-### CAPÍTULO X. De las Propuestas de los Órganos Auxiliares
+### CAPÍTULO X. Órgano Técnico de Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2007)</small>
+
+Artículo 62 I.
+
+1. El Órgano Técnico de Seguridad Pública del Congreso del Estado es el auxiliar de la Comisión de Seguridad Pública y Protección Civil, que bajo los principios de especialidad e imparcialidad asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de seguridad pública que deba conocer dicha comisión.
+
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Seguridad Pública y Protección Civil. Durará en su encargo el término de cada Legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+3. Para ser designado titular del Órgano Técnico de Seguridad Pública se requiere:
+
+I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
+
+II. Presentar título profesional legalmente expedido;
+
+III. Acreditar conocimientos y experiencia en seguridad pública, protección civil y materias afines de por lo menos tres años, pudiendo contar, preferentemente con algún postgrado en dicha materia; y
+
+IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2007)</small>
+
+Artículo 62 J.
+
+1. El Órgano Técnico de Seguridad Pública tiene las siguientes atribuciones:
+
+I. Colaborar con las tareas de la Comisión Legislativa de Seguridad Pública y Protección Civil y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
+
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones asistenciales o relativas a la seguridad pública o protección civil;
+
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de seguridad pública o protección civil;
+
+IV. Realizar estudios permanentes en materia de seguridad pública o protección civil, y estar en contacto permanente con las instituciones de seguridad pública y de protección civil, tanto estatales como municipales;
+
+V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, relativos a los asuntos de seguridad pública y protección civil; y
+
+VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
+
+(REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 7 DE ABRIL DE 2007)
+
+### CAPÍTULO XI. De las Propuestas de los Órganos Auxiliares
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2007)</small>
 
 ### CAPÍTULO I. Comisiones Legislativas
 
 ### CAPÍTULO II. Procedimiento En Comisiones Legislativas
 
-### CAPÍTULO III. Comités
-
 ###### Artículo 63.
 
-1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la Comisión Legislativa o Comité correspondiente para que esta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
+1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la Comisión Legislativa o Comité correspondiente para que ésta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
 
 ## TÍTULO SEXTO. COMISIONES LEGISLATIVAS Y COMITÉS
 
-### CAPÍTULO I. Forma y Periodicidad de las Sesiones
+### CAPÍTULO III. Comités
 
 ###### Artículo 64.
 
@@ -1887,15 +1927,27 @@ VIII. La legislación en materia de responsabilidades de los servidores público
 
 ###### Artículo 100.
 
-1. Corresponde a la Comisión de Seguridad Pública y Protección Civil el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2007)</small>
+
+1. Corresponde a la Comisión de Seguridad Pública y Protección Civil, el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación en materia de seguridad pública y protección civil;
 
 II. Los planes y programas de seguridad pública, orden, tranquilidad y protección jurídica de las personas, sus propiedades y derechos;
 
-III. Los convenios de coordinación que se celebren entre la Federación, el Estado y los municipios, en materia de seguridad pública y protección civil; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2007)</small>
 
-IV. Las políticas, planes y programas (sic) la difusión y fortalecimiento de la Seguridad Pública y Protección Civil.
+III. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Seguridad Pública;
+
+IV. Las políticas, planes y programas (sic) la difusión y fortalecimiento de la Seguridad Pública y Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2007)</small>
+
+V. La supervisión y coordinación del Órgano Técnico de Seguridad Pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2007)</small>
+
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Seguridad Pública.
 
 ###### Artículo 101.
 
@@ -1939,7 +1991,7 @@ V. La construcción y funcionamiento de las vías de comunicación estatales; y
 
 VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
 
-### CAPÍTULO II. Ceremonial
+### CAPÍTULO I. Forma y Periodicidad de las Sesiones
 
 ###### Artículo 104.
 
@@ -2051,7 +2103,7 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 
 1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
-### CAPÍTULO III. Salón de Sesiones
+### CAPÍTULO II. Ceremonial
 
 ###### Artículo 117.
 
@@ -2141,7 +2193,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ## TÍTULO SÉPTIMO. SESIONES
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO III. Salón de Sesiones
 
 ###### Artículo 125.
 
@@ -2231,7 +2283,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las sesiones del Congreso del Estado son públicas, por regla general, salvo aquellas que por causas justificadas y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
-### CAPÍTULO II. Iniciativas
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 134.
 
@@ -2263,7 +2315,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 2. De igual forma, siempre se destina un lugar especial en el Recinto, a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Consejo Electoral del Estado, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Iniciativas
 
 ###### Artículo 140.
 
@@ -2289,7 +2341,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO LEGISLATIVO ORDINARIO
 
-### CAPÍTULO IV. Lecturas de dictámenes
+### CAPÍTULO III. Dictámenes
 
 ###### Artículo 145.
 
@@ -2301,7 +2353,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las decisiones del Congreso del Estado que, para su validez y eficacia plenas requieren ser sancionadas, promulgadas y publicadas por el Ejecutivo, no generan obligación o derecho alguno en tanto no se efectúen tales condiciones, salvo lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO IV. Lecturas de dictámenes
 
 ###### Artículo 147.
 
@@ -2397,7 +2449,7 @@ III. Disposiciones transitorias.
 
 2. Las leyes y decretos deben ser publicados por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco", en los plazos que señala la ley.
 
-### CAPÍTULO VI. Mociones
+### CAPÍTULO V. Discusiones
 
 ###### Artículo 157.
 
@@ -2437,7 +2489,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 3. En el caso de que se rechace un dictamen y no se solicite que regrese a comisión o que siendo solicitado no sea aprobado por la Asamblea, se tiene por desechada la iniciativa.
 
-### CAPÍTULO VII. Votaciones
+### CAPÍTULO VI. Mociones
 
 ###### Artículo 161.
 
@@ -2473,7 +2525,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 4. Aprobada la moción, el dictamen se presenta a la Asamblea y se procede a su discusión y a su votación.
 
-### CAPÍTULO VIII. Minutas
+### CAPÍTULO VII. Votaciones
 
 ###### Artículo 166.
 
@@ -2609,7 +2661,7 @@ III. Por desórdenes en el Recinto Oficial.
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. Minutas
 
 ###### Artículo 187.
 
@@ -2653,7 +2705,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 1. La moción de orden, en el supuesto de que algún diputado esté en el uso de la voz, se regula de conformidad con lo establecido en la presente ley.
 
-### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 191.
 
@@ -2737,7 +2789,7 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Para los casos de los párrafos 2, 3 y 4 del presente artículo, se entiende que es cuando menos la cantidad señalada.
 
-### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
+### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
 
 ###### Artículo 204.
 
@@ -2801,7 +2853,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
+### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
 
 ###### Artículo 210.
 
@@ -2817,7 +2869,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. Cualquier procedimiento relativo al Congreso del Estado establecido en otro ordenamiento legal se regula conforme a esa ley, y en todo lo no previsto, por este título y por el procedimiento legislativo ordinario.
 
-### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
+### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
 
 ###### Artículo 213.
 
@@ -2835,7 +2887,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 2. Cuando el Congreso del Estado acepte en su totalidad las observaciones realizadas por el Ejecutivo, la aprobación debe realizarse por mayoría simple.
 
-### CAPÍTULO VI. Glosa del Informe
+### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
 ###### Artículo 216.
 
@@ -2845,7 +2897,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 3. La declaratoria a que se refiere el presente artículo debe publicarse en el Periódico Oficial "El Estado de Jalisco".
 
-### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+### CAPÍTULO VI. Glosa del Informe
 
 ###### Artículo 217.
 
@@ -2855,7 +2907,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. En el caso de dictámenes relativos a proyectos de decreto sobre la designación de Gobernador Interino o Sustituto, la Mesa Directiva, en atención a la urgencia, puede establecer la agenda para su aprobación, mediante la dispensa de trámites y el estrechamiento de términos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
 
 ###### Artículo 219.
 
@@ -2872,6 +2924,8 @@ I. La comisión competente, con base en el análisis de los expedientes o dictá
 II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables están obligadas a desahogar la agenda del proceso legislativo a los tiempos establecidos por la Constitución Política del Estado y la legislación aplicable; para la elección o ratificación y, en su caso, evitar la ratificación tácita.
 
 2. En caso de que no se alcance la votación requerida para efectuar la elección, o en su caso ratificación, de los servidores públicos, la comisión competente debe actuar conforme a lo establecido en la Constitución Política del Estado y las leyes aplicables.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 221.
 
@@ -3214,3 +3268,9 @@ DECRETO No. 21842/LVIII/07
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La Comisión de Desarrollo Humano deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Desarrollo Humano dentro de los 5 días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los 10 días siguientes.
+
+P.O. 7 DE ABRIL DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La Comisión de Seguridad Pública y Protección Civil deberá enviar a la Junta de Coordinación Política la terna de candidatos a ocupar la titularidad del Órgano Técnico de Seguridad Pública dentro de los cinco días naturales siguientes a la entrada en vigor de la presente reforma. La Junta de Coordinación Política deberá poner a consideración de la Asamblea su propuesta dentro de los diez días siguientes.
