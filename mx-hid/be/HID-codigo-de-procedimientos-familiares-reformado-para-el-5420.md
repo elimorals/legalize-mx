@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-familiares-reformado-para-el-5420"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-08"
-last_updated: "1986-12-08"
+last_updated: "2007-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS FAMILIARES REFORMADO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DELCODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de diciembre de 1986.
 
@@ -2238,3 +2240,23 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el
 Dado en el Palacio del Poder Ejecutivo en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de noviembre de mil novecientos ochenta y seis.
 
 El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL.- El Secretario General de Gobierno.- PROF. JOSE GUADARRAMA MARQUEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 9 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Código entrará en vigor sesenta días después de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código de Procedimientos Familiares reformado para el Estado de Hidalgo contenido en Decreto Número 158 de fecha 21 de noviembre de 1986, Publicado en fecha 8 de diciembre del mismo año en Alcance al Periódico Oficial del Gobierno de Estado.
+
+###### ARTICULO TERCERO.
+
+La substanciación de los negocios que estén pendientes en primera o segunda instancia al entrar en vigor este Código, se sujetarán a las disposiciones del anterior hasta pronunciarse sentencia ejecutoriada.
+
+###### ARTICULO CUARTO.
+
+A partir de la iniciación de la vigencia del presente Código subsiste la vigencia del Artículo 4° Transitorio del Código de Procedimientos Familiares reformado de los juicios sucesorios, de los efectos de ausencia y presunción de muerte y de la administración de los bienes del cónyuge casado que conocerán los Jueces de lo Civil.
