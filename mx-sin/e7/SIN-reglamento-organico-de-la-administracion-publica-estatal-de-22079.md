@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2006-05-31"
+last_updated: "2007-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -157,9 +157,17 @@ VII. Secretaría de Seguridad Pública;
 
 VIII. Secretaría de Desarrollo Económico;
 
-IX. Secretaría de Salud; y,
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2007)</small>
 
-X. Secretaría de la Contraloría y Desarrollo Administrativo.
+IX. Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2007)</small>
+
+X. Secretaría de la Contraloría y Desarrollo Administrativo; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2007)</small>
+
+XI. Secretaría de Turismo.
 
 ###### Artículo 16.
 
@@ -643,11 +651,15 @@ XIX. Los demás que se deriven de las leyes y reglamentos aplicables o que le en
 
 A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
 
-I. Promover, fomentar, regular y evaluar el desarrollo de la actividad económica del Estado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2007)</small>
+
+I. Promover, fomentar, regular y evaluar el desarrollo de la actividad económica del Estado, en sus diversos sectores con excepción del ramo turístico;
 
 II. Diseñar, coordinar, fomentar y ejecutar los programas de desarrollo económico del Estado a corto, mediano Largo plazo;
 
-III. Promover el desarrollo económico del Estado con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2007)</small>
+
+III. Promover el desarrollo económico del Estado, en los diversos procesos productivos y de inversión, con excepción del sector turismo, buscando la participación de los sectores social y privado;
 
 IV. Promover la inversión local, nacional y extranjera, así como las coinversiones, en los términos de las disposiciones jurídicas aplicables;
 
@@ -793,6 +805,62 @@ XXVI. Coordinar y evaluar los institutos para la atención especializada que det
 
 XXVII. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2007)</small>
+
+###### Artículo 26 Bis.
+
+A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
+
+I. Instrumentar las políticas y programas para la planeación, inversión, desarrollo, promoción y operación del sector turístico estatal en sus diversas modalidades y destinos turísticos.
+
+II. Coordinar acciones con los fondos, fideicomisos y organismos del Estado, que tengan a su cargo acciones de promoción del turismo y de los destinos turísticos;
+
+III. Instrumentar campañas de concientización en todas aquellas comunidades motivo de programas institucionales, que sensibilicen a la población residente sobre la importancia de la actividad turística, y generen una actitud positiva ante el cambio que experimentan;
+
+IV. Fijar los criterios para el desarrollo de estudios de tendencias turísticas y de evaluación del mercado turístico nacional e internacional, con el objeto de identificar e impulsar aquellos productos o servicios de mayor demanda y potencial en el Estado;
+
+V. Instrumentar, mantener y actualizar la información estadística relacionada con el turismo estatal y difundirla; así como operar y optimizar el Sistema de Información Turística Estatal;
+
+VI. Establecer las estrategias de promoción de los atractivos turísticos que ofrecen los destinos turísticos sinaloenses, con un enfoque integral;
+
+VII. Participar en aquellas actividades sectoriales, organizadas para fortalecer la actividad turística;
+
+VIII. Implementar, con la participación de las etnias y otros grupos, programas de promoción turística que propicien la integración directa de los grupos marginados y de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas;
+
+IX. Participar en el Consejo Consultivo Turístico del Estado de Sinaloa, en la promoción, la concertación y la difusión de programas de desarrollo turístico;
+
+X. Instrumentar acciones para incrementar el flujo de turistas al Estado, con los prestadores de servicios turísticos nacionales y extranjeros;
+
+XI. Promover el impulso de una cultura de calidad, higiene y seguridad en la distribución, preparación y consumo de alimentos entre los prestadores de servicios turísticos de alimentos y bebidas, y participar en los procesos de certificación de los mismos;
+
+XII. Promover que en el ámbito estatal, se presten servicios turísticos de calidad, impulsando la clasificación de los servicios;
+
+XIII. Establecer las políticas de capacitación, formación y desarrollo de la cultura turística, dirigida a los prestadores de servicio y su capital humano, para lograr acciones innovadoras y procesos de certificación de calidad que permitan mejorar la oferta turística estatal;
+
+XIV. Investigar las diversas fuentes de apoyo y financiamiento de organismos nacionales y extranjeros para el desarrollo turístico del Estado en sus diversas modalidades y para los destinos turísticos;
+
+XV. Orientara los prestadores de servicios turísticos sobre fondos y recursos para el desarrollo turístico que otorguen las dependencias y organismos, nacionales y extranjeros;
+
+XVI. Establecer las prioridades para la planeación estratégica del desarrollo turístico estatal, enmarcado en la planeación regional y nacional;
+
+XVII. Establecer esquemas de fomento para la diversificación de actividades turísticas en los centros y regiones turísticas del Estado;
+
+XVIII. Definir los proyectos prioritarios y detonadores del turismo en el Estado;
+
+XIX. Coordinar la ejecución de los programas contemplados en los convenios de coordinación que para el efecto sean suscritos con los gobiernos Federal y municipales en materia de turismo, atendiendo el cumplimiento programático y presupuestal correspondiente;
+
+XX. Fomentar el desarrollo y la modernización de la pequeña y mediana empresa de servicios turísticos;
+
+XXI. Instrumentar estrategias que impulsen el desarrollo de líneas de producto turísticas como el turismo alternativo, de salud, deportivo, cultural, de negocios, náutico, entre otros, que otorguen valor agregado a los diversos destinos turísticos, en coordinación con los sectores público, social y privado;
+
+XXII. Establecer las políticas y programas de información, orientación, atención y protección al turista, con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal, Estatal y de los municipios;
+
+XXIII. Administrar y operar los fondos que sean necesarios para el cumplimiento de sus funciones y atribuciones, cuando así lo determine el Gobernador del Estado;
+
+XXIV. Coordinar y evaluar los institutos para la atención especializada que determine el Ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
+
+XXV. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+
 ### CAPÍTULO II. DISPOSICIONES COMUNES A LAS SECRETARÍAS
 
 ###### Artículo 27.
@@ -927,9 +995,7 @@ VI. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal
 
 VII. La Unidad para el Fomento a la Vivienda;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
-
-VIII. La Unidad de Apoyo Técnico a Proyectos; y,
+VIII. (DEROGADA, P.O. 9 DE ABRIL DE 2007)
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -1195,31 +1261,17 @@ VII. Los demás que se deriven de las leyes y reglamentos aplicables o que le en
 
 1.- Al titular de esta entidad administrativa se le denominará Vocal Ejecutivo de la Unidad para el Fomento a la Vivienda. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos necesarios para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2007)</small>
 
 ### CAPÍTULO VI TER. DE LA UNIDAD DE APOYO TÉCNICO A PROYECTOS
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
-
 ###### Artículo 54 Ter.
 
-A la Unidad de Apoyo Técnico a Proyectos le corresponde el despacho de los siguientes asuntos:
-
-I. Auxiliar al titular del Poder Ejecutivo del Estado en la elaboración de proyectos en los distintos rubros de la administración pública, que permitan el crecimiento y desarrollo del Estado en sus diversos aspectos;
-
-II. Promover, gestionar y ejecutar las acciones necesarias para la implementación y desarrollo de los proyectos que determine el titular del Poder Ejecutivo del Estado;
-
-III. Realizar ante las autoridades de los distintos órdenes de gobierno, las gestiones necesarias para la ejecución de los proyectos y programas encomendados por el titular del Poder Ejecutivo Estatal;
-
-IV. Proporcionar asesoría técnica al titular del Poder Ejecutivo Estatal en todos aquellos asuntos que éste le encomiende; y,
-
-V. Las demás que le atribuyan expresamente las leyes y reglamentos, y las que le encomiende el titular del Poder Ejecutivo del Estado.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
+(DEROGADO, P.O. 9 DE ABRIL DE 2007)
 
 ###### Artículo 54 Ter-A.
 
-Al titular de esta entidad administrativa se le denominará Coordinador de la Unidad de Apoyo Técnico a Proyectos. Para el despacho de los asuntos de su competencia, se auxiliará del personal técnico especializado y administrativo que señale su reglamento interior o que determine el presupuesto de egresos.
+(DEROGADO, P.O. 9 DE ABRIL DE 2007)
 
 ### CAPÍTULO VII. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
 
@@ -1393,7 +1445,7 @@ P.O. 16 DE FEBRERO DE 2000.
 
 Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-P.O. 13 DE MARZO DE 2002.
+P.O. 13 DE MARZO DE 2002
 
 Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
@@ -1432,3 +1484,27 @@ P.O. 31 DE MAYO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE ABRIL DE 2007.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abrogan el Decreto que crea el Organismo Descentralizado del Gobierno del Estado denominado Coordinación General de Turismo del Estado de Sinaloa, publicado en o! Periódico Oficial "El Estado de Sinaloa" número 66, de fecha 3 de junio de 1994 y el Reglamento Interior de la Coordinación General de Turismo, publicado en el Periódico Oficial "El Estado de Sinaloa" número 78, de fecha 1 de julio de 1994, así como todas sus reformas y adiciones publicadas en este mismo medio.
+
+Artículo Tercero.- La Coordinación General de Turismo, la Unidad de Apoyo Técnico a Proyectos y las unidades y áreas administrativas de la Secretaría de Desarrollo Económico que a la fecha de entrada en vigor del presente Decreto, lleven asuntos en materia de turismo, deberán entregar en un plaza de treinta días, los asuntos a su cargo en esta materia, a la Secretaría de Turismo.
+
+Artículo Cuarto.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Coordinación General de Turismo o a su Titular, se entenderán hechas a la Secretaría de Turismo o a su Titular.
+
+Articulo Quinto.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, otorgan a la Coordinación General de Turismo o a su Titular, se entenderán otorgadas a la Secretaría de Turismo o a su Titular.
+
+Artículo Sexto.- La Secretaría de Administración y Finanzas, conforme a la normatividad vigente, transferirá los subsidios asignados y los recursos presupuestados, tanto para la Coordinación General de Turismo, como para la Unidad de Apoyo Técnico a Proyectos, a la Secretaría de Turismo que se crea.
+
+Artículo Séptimo.- La Secretaría de Administración y Finanzas y la Secretaría de la Contraloría y Desarrollo Administrativo, establecerán las bases y procedimientos para la entrega-recepción del presupuesto y demás bienes muebles de la Unidad de Apoyo Técnico a Proyectos, a la Secretaría de Turismo.
+
+Artículo Octavo.- La Secretaria de Administración y Finanzas y la Secretaría de la Contraloría y Desarrollo Administrativo, establecerán el proceso de entrega-recepción de los bienes del organismo, e integrarán una comisión para liquidar a la Coordinación General de Turismo.
+
+La comisión liquidadora levantará un inventario de todos los bienes del organismo en forma detallada, de ser necesario se asistirá de peritos; y en caso de existir, procederá a liquidar a los acreedores.
+
+El proceso de liquidación que se menciona, durará lo necesario para que la comisión liquidadora cumpla con su encargo y al final del mismo, los activos consistentes en bienes muebles e inmuebles pasarán a propiedad de Gobierno del Estado.
+
+La Comisión que se integre ejercerá las funciones necesarias y proveerá lo conducente a fin de resolver todo lo inherente al organismo que se liquida.
