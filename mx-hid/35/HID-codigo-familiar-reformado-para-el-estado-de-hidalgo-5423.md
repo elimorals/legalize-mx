@@ -4,7 +4,7 @@ identifier: "HID-codigo-familiar-reformado-para-el-estado-de-hidalgo-5423"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-08"
-last_updated: "1996-08-19"
+last_updated: "2007-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CODIGO FAMILIAR REFORMADO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de diciembre de 1986.
 
@@ -2616,3 +2618,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos para efectos de la constitución del patrimonio familiar, que se encuentren en proceso a partir de la vigencia del presente Decreto, podrán continuarse de conformidad con las disposiciones contenidas en el presente.
+
+P.O. 9 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor sesenta días después de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código Familiar Reformado para el Estado de Hidalgo contenido en Decreto Número 157 de fecha 14 de noviembre de 1986, publicado en fecha 8 de diciembre del mismo año en Alcance al Periódico Oficial del Gobierno de Estado.
+
+###### ARTICULO TERCERO.
+
+Las controversias del orden familiar que están tramitándose en el momento de la iniciación de vigencia de esta Ley, se resolverán conforme a lo dispuesto en el Código que se abroga.
+
+###### ARTICULO CUARTO.
+
+Seguirán vigentes los siguientes Artículos del Código Civil, correspondientes al Libro Primero, Título Undécimo, Capítulos III, IV, V, VI y VII: Artículo (sic) 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 781, 782, 783, 784, 785, 786, 787, 790, 791, 792, 793, 794, 795, 796, 797.
+
+Estos Artículos regularán los efectos de las sucesiones, ausencia, presunción de muerte y administración de los bienes del ausente casado ante los Juzgados Civiles y Oficiales del Registro del Estado Familiar.
+
+###### ARTICULO QUINTO.
+
+El contenido del título décimo tercero, será objeto de mayor regulación en el Reglamento Administrativo de las Actas del Registro del Estado Familiar, que deberá expedirse en un término de seis meses a partir de la Publicación en el Periódico Oficial de esta Ley.
