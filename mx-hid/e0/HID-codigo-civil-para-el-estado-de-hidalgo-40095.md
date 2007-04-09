@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2004-09-06"
+last_updated: "2007-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, ENTRARA VIGOR A LOS SESENTA DIAS POSTERIORES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2007.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -3477,11 +3479,15 @@ De la Declaración de Ausencia.
 
 De los Efectos de la Declaración de Ausencia.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 754.
 
 Declarada la ausencia, si apareciere testamento público u ológrafo, la persona en cuyo poder se encuentre, lo presentará al juez dentro de quince días contados desde la última publicación de la sentencia que declare la ausencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3489,11 +3495,15 @@ Declarada la ausencia, si apareciere testamento público u ológrafo, la persona
 
 El Juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia, y con las demás solemnidades prescritas para la apertura de esta clase de testamento.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 756.
 
 Los herederos testamentarios, y en su defecto, los que fueren legítimos al tiempo de la desaparición de un ausente, o al tiempo en que se hayan recibido las últimas noticias, si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando fianza que asegure las resultas de la administración. Si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3501,11 +3511,15 @@ Los herederos testamentarios, y en su defecto, los que fueren legítimos al tiem
 
 Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 758.
 
 Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez le nombrará, escogiéndole de entre los mismos herederos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3513,11 +3527,15 @@ Si los bienes no admiten cómoda división, los herederos elegirán de entre ell
 
 Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta, se nombrará el administrador general.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 760.
 
 Los herederos que no administren, podrán nombrar un interventor; que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que le fijen los que le nombren y se pagará por éstos.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3525,11 +3543,15 @@ Los herederos que no administren, podrán nombrar un interventor; que tendrá la
 
 El que entre en la posesión provisional, tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 762.
 
 En el caso del artículo 757, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3537,11 +3559,15 @@ En el caso del artículo 757, cada heredero dará la garantía que corresponda a
 
 En el caso del artículo 758, el administrador general será quien dé la garantía legal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 764.
 
 Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependan de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 603.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3549,17 +3575,23 @@ Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausen
 
 Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 766.
 
 Si no pudiere darse la garantía prevista en los artículos anteriores, el juez según las circunstancias de las personas y de los bienes y concediendo el plazo de un año, podrá disminuir al 50% el importe de aquella.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 767.
 
 Mientras no se dé la expresada garantía, no cesará la administración del representante.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3573,11 +3605,15 @@ II.- El ascendiente que en ejercicio de la patria potestad administre bienes que
 
 Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división, ni administrador general.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 769.
 
 Los que entren en la posesión provisional tienen derecho a pedir cuentas al representante del ausente y éste entregará los bienes por inventario y dará las cuentas especificando en detalle la administración que haya realizado sobre dichos bienes. Las cuentas deberán ser aprobadas por el juez.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3585,11 +3621,15 @@ Los que entren en la posesión provisional tienen derecho a pedir cuentas al rep
 
 Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública, entre en la posesión provisional, conforme a los artículos que anteceden.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 771.
 
 Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3607,11 +3647,15 @@ De la Administración de los Bienes del Ausente Casado.
 
 (DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 774.
 
 Declarada la ausencia, se procederá, con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deben corresponder al cónyuge ausente.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3619,11 +3663,15 @@ Declarada la ausencia, se procederá, con citación de los herederos presuntivos
 
 El cónyuge presente recibirá desde luego los bienes que le correspondan hasta el día en que la declaración de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 776.
 
 Los bienes del ausente se entregarán a sus herederos, en los términos prevenidos en el capítulo anterior.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3649,11 +3697,15 @@ De la Presunción de Muerte del Ausente.
 
 (DEROGADO POR EL ARTICULO 4º. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE NOVIEMBRE DE 1983)
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 781.
 
 Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 755, los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 769, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado quedará cancelada.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3661,11 +3713,15 @@ Declarada la presunción de muerte, se abrirá el testamento del ausente, si no 
 
 Si se llega a probar la muerte del ausente, la herencia se defiere a los que debieran heredar al tiempo de ella pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 772 y todos ellos, desde que obtuvieron la posesión definitiva.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 783.
 
 Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3673,11 +3729,15 @@ Si el ausente se presentare o se probare su existencia después de otorgada la p
 
 Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declara por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 772 y 783 debiera hacerse al ausente si se presentara.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 785.
 
 Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3692,6 +3752,8 @@ II.- Con la noticia cierta de su existencia;
 III.- Con la certidumbre de su muerte;
 
 IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 784.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3713,11 +3775,15 @@ En el caso segundo del artículo anterior, los poseedores definitivos serán con
 
 De los Efectos de la Ausencia respecto de los Derechos Eventuales del Ausente.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 790.
 
 Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3725,17 +3791,23 @@ Cualquiera que reclame un derecho referente a una persona cuya existencia no est
 
 Si se defiere una herencia a la que sea llamado un individuo declarado ausente o respecto de quien se haya hecho la declaración de presunción de muerte, entrarán sólo en ellas los que debían ser coherederos de aquél o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 792.
 
 En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por la herencia debían corresponder al ausente, según la época en que la herencia se defiera.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 793.
 
 Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores, o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -3749,17 +3821,23 @@ Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena
 
 Disposiciones Generales.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 795.
 
 El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
+
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 796.
 
 Por causa de ausencia no se suspenden los términos que fija la ley para la prescripción.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2007, EL PRESENTE ARTICULO SEGUIRA VIGENTE.</small>
 
 > <small>(ADICIONADO POR EL ARTICULO 4o. TRANSITORIO DEL CODIGO FAMILIAR PARA EL ESTADO DE HIDALGO, P.O. 8 DE DICIEMBRE DE 1986)</small>
 
@@ -15802,3 +15880,27 @@ CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 P.O. 6 DE SEPTIEMBRE DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor sesenta días después de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Código Familiar Reformado para el Estado, de Hidalgo contenido en Decreto Número 157 de fecha 14 de noviembre de 1986, publicado en fecha 8 de diciembre del mismo año en Alcance al Periódico Oficial del Gobierno de Estado.
+
+###### ARTICULO TERCERO.
+
+Las controversias del orden familiar que están tramitándose en el momento de la iniciación de vigencia de esta Ley, se resolverán conforme a lo dispuesto en el Código que se abroga.
+
+###### ARTICULO CUARTO.
+
+Seguirán vigentes los siguientes Artículos del Código Civil, correspondientes al Libro Primero, Titulo Undécimo Capítulos III, IV, V, VI y VII: Articulo 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 781, 782, 783, 784, 785, 786, 787, 790, 791, 792, 793, 794, 795, 796, 797.
+
+Estos Artículos regularán los efectos de las, sucesiones, ausencia, presunción de muerte y administración de los bienes del ausente casado ante los juzgados civiles y oficiales del Registro del Estado Familiar.
+
+###### ARTICULO QUINTO.
+
+El contenido del título décimo tercero, será objeto de mayor regulación en el Reglamento Administrativo de las Actas del Registro del Estado Familiar, que deberá expedirse en un término de seis meses a partir de la Publicación en el Periódico Oficial de esta Ley.
