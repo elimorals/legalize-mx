@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2007-03-27"
+last_updated: "2007-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2007.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -3425,9 +3425,11 @@ Si se tratare de auto de formal prisión o de sujeción a proceso, o de orden de
 
 La reposición del procedimiento se decretará a petición de parte, debiendo expresarse los agravios en que se apoye la petición. No se podrán alegar aquellos con los que la parte agraviada se hubiere conformado expresamente, ni los que cause alguna resolución contra la que no se hubiere intentado el recurso que la ley conceda o, si no hay recurso, si no se protesta contra dichos agravios al tenerse conocimiento de ellos en la instancia en que se causaron.
 
+> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 387.
 
-No obstante lo dispuesto en el artículo anterior, si el tribunal de apelación encuentra que hubo violación manifiesta del procedimiento que haya dejado sin defensa al procesado, y que sólo por torpeza o negligencia de su defensor no fue combatida debidamente, podrá suplir la deficiencia del agravio y ordenar que se reponga dicho procedimiento.
+No obstante lo dispuesto en el artículo anterior si el tribunal de apelación encuentra que hubo violación manifiesta del procedimiento, que haya dejado sin defensa al procesado, y que sólo por torpeza o negligencia de su defensor no fue combatida debidamente, deberá suplir la deficiencia y ordenar que se reponga dicho procedimiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -5022,3 +5024,7 @@ D.O.F. 22 DE JUNIO DE 2006.
 D.O.F. 27 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ABRIL DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
