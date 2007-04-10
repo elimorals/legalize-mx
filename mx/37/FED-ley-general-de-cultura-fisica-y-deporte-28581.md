@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2005-07-21"
+last_updated: "2007-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -48,25 +48,33 @@ La presente Ley es de orden e interés público y observancia general en toda la
 
 Esta Ley y su Reglamento tienen por objeto establecer las bases generales de coordinación y colaboración entre la Federación, los Estados, el Distrito Federal y los Municipios, así como de la concertación para la participación de los sectores social y privado en materia de Cultura Física y Deporte, teniendo las siguientes finalidades generales:
 
-I. Fomentar el óptimo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2007)</small>
+
+I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
 
 II. Elevar, por medio de la cultura física y el deporte, el nivel de vida social y cultural de los habitantes en las Entidades Federativas, Distrito Federal y Municipios;
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y el deporte;
 
-IV. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito;
+> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2007)</small>
 
-V. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
+IV. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades;
 
-VI. Promover las medidas necesarias para erradicar la violencia y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+V. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito;
 
-VII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Deportivo-Recreativas, del deporte en la Rehabilitación y de Cultura Física-Deportiva;
+VI. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
-VIII. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+VII. Promover las medidas necesarias para erradicar la violencia y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
 
-IX. Garantizar a todas las personas, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, y
+VIII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Deportivo-Recreativas, del deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
-X. Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad.
+IX. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2007)</small>
+
+X. Garantizar a todas las personas sin distinción de género, edad, capacidades diferentes, condición social, religión, opiniones, preferencias o estado civil la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, y
+
+XI. Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad.
 
 ###### Artículo 3.
 
@@ -112,9 +120,11 @@ VI. Rehabilitación Física: Actividades para restablecer a una persona sus capa
 
 La Federación, los Estados, el Distrito Federal, y los Municipios, fomentarán la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2007)</small>
+
 ###### Artículo 6.
 
-La Federación, los Estados, el Distrito Federal, y los Municipios, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los mexicanos a la cultura física y a la práctica del deporte.
+La Federación, los Estados, el Distrito Federal, y los Municipios, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los mexicanos y las mexicanas a la cultura física y a la práctica del deporte.
 
 ###### Artículo 7.
 
@@ -1307,3 +1317,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 21 DE JULIO DE 2005.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ABRIL DE 2007.
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las modificaciones al Estatuto Orgánico de la Comisión Nacional de Cultura Física y Deporte y al Reglamento de la Ley General de Cultura Física y Deporte, deberán expedirse dentro de un plazo no mayor a 90 días siguientes a la entrada en vigor del presente Decreto.
