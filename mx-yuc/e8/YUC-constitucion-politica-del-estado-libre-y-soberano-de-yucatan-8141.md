@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2007-03-30"
+last_updated: "2007-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2007.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -55,11 +55,31 @@ Tratándose de niñas, niños y adolescentes, las leyes garantizarán la protecc
 
 Se garantizará el desarrollo pleno e integral de las niñas, niños y adolescentes, mediante el fomento del respeto a los derechos de la infancia y la cultura de su protección.
 
-> <small>(REFORMADO, D.O. 1 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
 ###### Artículo 2.
 
-El Estado de Yucatán por medio de sus Poderes Públicos y Organismos Autónomos, garantizará a toda persona que se encuentre en su territorio y sin discriminación alguna, el respeto de los derechos y prerrogativas referidas en el artículo anterior.
+El Estado de Yucatán por medio de sus Poderes Públicos y Organismos Autónomos, garantizará a toda persona que se encuentre en su territorio el respeto de sus derechos y prerrogativas referidos en el artículo anterior.
+
+Queda prohibida toda discriminación por raza, origen étnico o nacionalidad, género, edad, condición física, social, económica o lingüística, preferencias, filiación, instrucción, creencia religiosa, ideología política o cualquier otra que menoscabe la dignidad humana, los derechos y libertades de las personas.
+
+El Estado tiene una composición pluricultural sustentada originalmente en el pueblo maya, el cual desciende de la población que habitaba la península yucateca, al iniciarse la colonización; que conserva sus propios conocimientos, manifestaciones e idioma, así como, sus instituciones sociales, económicas y culturales o parte de ellas.
+
+La conciencia de la identidad maya de Yucatán es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
+
+Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas.
+
+Los Poderes Públicos del Estado, establecerán en coordinación con la (sic) autoridades federales, las políticas públicas para proteger a los migrantes, tanto en el territorio nacional como en el extranjero, en los términos de la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales, las Convenciones diplomáticas, los acuerdos federales y esta Constitución; mediante acciones que velen por el respeto de sus derechos humanos, y la promoción y difusión de la cultura maya.
+
+El Estado establecerá las políticas públicas para hacer efectivo el acceso del pueblo maya a los medios de comunicación masiva, conforme a las leyes correspondientes.
+
+Los servicios de salud que se proporcionen a las comunidades mayas, se planearán en coordinación con éstas, teniendo en cuenta su propio idioma y cultura. El Estado apoyara la preservación, protección y evolución contemporánea de la medicina maya; de igual modo, el manejo sustentable del entorno y de sus recursos naturales utilizables, las técnicas tradicionales, su uso y desarrollo endógeno.
+
+Las leyes establecerán los mecanismos que garanticen la efectiva participación del pueblo maya, en los distintos ámbitos y niveles de gobierno; en la toma de decisiones públicas que se vean afectados, en la elaboración del Plan Estatal de Desarrollo y los planes de desarrollo municipales, y cuando se prevean medidas legislativas relacionadas con éste.
+
+Se establecerá un organismo que definirá, ejecutará y evaluará las políticas públicas que garanticen la vigencia de los derechos del pueblo maya, y de las comunidades indígenas de otras entidades federativas, que se encuentren transitoria o permanentemente en territorio estatal, en los términos de las disposiciones legales aplicables.
+
+El Estado garantizará al pueblo maya la aplicación de sus propias formas de regulación para la solución de conflictos internos, como medio alternativo de justicia; sujetándose a los principios jurídicos de oralidad, publicidad, inmediación, contradicción, economía y concentración, con pleno respeto a sus derechos y garantías y de manera relevante, la dignidad de las mujeres, sin contravenir las leyes vigentes.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -144,6 +164,24 @@ III.- asociarse para tratar los asuntos políticos del Estado; y
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 IV.- tomar las armas para la defensa del Estado o sus Instituciones, en los términos que prescriban las leyes.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+###### Artículo 7 Bis.
+
+Se reconoce el derecho a la libre determinación del pueblo maya, bajo un marco autonómico en armonía con la unidad Estatal, conforme a las siguientes prerrogativas y atribuciones:
+
+I.- Decidir sus formas internas de convivencia, organización social, económica, política y cultural;
+
+II.- Preservar y enriquecer el idioma maya peninsular, los conocimientos y todos los elementos que constituyan la cultura e identidad del pueblo maya yucateco; para tal efecto, el Estado garantizará, la promoción, difusión, preservación y desarrollo de la lengua maya, por lo que a través de los Poderes públicos y órdenes de gobierno, en el ámbito de sus respectivas competencias, reconocerá, protegerá y promoverá su preservación, uso y desarrollo, en los términos de ley.
+
+III.- Acceder al uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestre de los lugares y sitios que habiten o en los que se encuentren ubicadas las comunidades; la libre asociación, y los derechos adquiridos por terceros o integrantes de su comunidad, en los términos y formas que para la propiedad y tenencia de la tierra establece la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas de la materia; salvo los casos que correspondan a las áreas estratégicas que se encuentran determinadas por las leyes.
+
+IV.- Elegir a sus autoridades y demás representantes que integran su forma de gobierno interno, con arreglo a los procedimientos y prácticas tradicionales; procurando en todo caso, la participación efectiva de las mujeres en igualdad de condiciones respecto a los varones.
+
+V.- Los integrantes del pueblo maya serán considerados como sujetos de derecho público, tendrán acceso pleno a la jurisdicción del estado, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, por lo que se deberán tomar en cuenta sus prácticas jurídicas y especificidades culturales, respetando los preceptos de esta Constitución; con derecho a ser asistidos por intérprete y defensor, en su propio idioma y cultura.
+
+Asimismo, compurgarán las penas preferentemente en los establecimientos más cercanos a su domicilio, de modo que se propicie su reintegración a la comunidad, como mecanismo esencial de rehabilitación social.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -481,11 +519,11 @@ El Congreso para tratar y resolver los asuntos programados y los demás que se l
 
 En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 11 DE ABRIL DE 2007)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará sesión solemne el tercer domingo de octubre de cada uno de los 5 primeros años de gestión del Titular del Ejecutivo del Estado y, el primer domingo de septiembre, del sexto año; en la cual deberá comparecer personalmente y rendir un informe por escrito, acerca del estado general que guarda la administración pública, en sus distintos ámbitos de competencia. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, con una antelación no menor de 20 días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
+El Congreso celebrará el tercer domingo de octubre de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la administración, el cual deberá contener un apartado que comprenda de manera sucinta el resumen del informe en lengua maya, en sus distintos ámbitos de competencia. En dicho informe podrán dar respuesta además a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, con una antelación no menor a veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
 
 > <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
@@ -527,9 +565,13 @@ f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras 
 
 Para el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un núcleo poblacional a otro municipio, se estará a lo dispuesto por la ley respectiva;
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
 
-II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia;
+En la creación de nuevos municipios, los integrantes de las comunidades del pueblo maya, cuya distribución territorial se vea afectada, deberán ser previamente escuchados;
+
+> <small>(REFORMADA, D.O. 11 DE ABRIL DE 2007)</small>
+
+II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia, tomando en consideración la opinión de las comunidades del pueblo maya, cuando resultaren afectados;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -594,6 +636,14 @@ XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado
 XV.- Expedir leyes sobre Educación Pública, con sujeción a las bases siguientes:
 
 a) La educación que imparta el Estado será: nacionalista, democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la Nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura y además será laica manteniéndose ajena a cualquier doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; el criterio que orientará a esta educación se basará en los resultados del progreso científico y tecnológico y luchará contra la ignorancia y sus efectos;
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+La educación del pueblo maya será objeto de atención especial del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento y defensa de la cultura maya.
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+Cuando se tratare de programas educativos de contenido regional, el estado deberá consultar al pueblo maya para su definición y desarrollo.
 
 > <small>(REFORMADO, D.O. 18 DE ABRIL DE 2005)</small>
 
@@ -1317,7 +1367,7 @@ Los Jueces de Primera Instancia durarán en su encargo cuatro años y sólo podr
 
 La Ley establecerá y organizará los Juzgados de Primera Instancia y los demás que se creyeren convenientes, y el Ministerio Público del Estado.
 
-((REFORMADO, D.O. 30 DE MARZO DE 2007)
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2007)</small>
 
 ###### Artículo 72.
 
@@ -1798,6 +1848,26 @@ El matrimonio es una institución jurídica dirigida a organizar la reproducció
 ###### Artículo 95.
 
 (DEROGADO, D.O. 12 DE DICIEMBRE DE 1997)
+
+> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+###### Artículo 95 Bis.
+
+El Estado garantizará, protegerá y promoverá el desarrollo social, económico, político y cultural del pueblo maya. El Estado y sus municipios, dentro del ámbito de sus respectivas competencias, con la participación de las comunidades mayas y en coordinación con las mismas, deberán:
+
+I.- Procurar la incorporación de las mujeres mayas al desarrollo, mediante programas de capacitación y apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+II.- Establecer las politicas, medidas, programas y proyectos específicos, para promover los productos y servicios que generen las comunidades mayas, asi como estimular y fortalecer la asociación de éstas para la comercialización y la creación de infraestructura, que permita elevar su capacidad competitiva en los mercados;
+
+III.- Crear, con base en un programa de desarrollo comunitario, los proyectos, las obras o los servicios prioritarios, en las partidas presupuestales que les sean asignados;
+
+IV.- En los planes de desarrollo municipal y programas que de ellos se deriven, los Municipios darán participación a los integrantes de las comunidades mayas, situadas en sus respectivas jurisdicciones, en los términos que establezca la ley, con el fin de impulsar su desarrollo integral, fortalecer las economías locales y mejorar sus condiciones de vida, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación activa de las comunidades mayas.
+
+V.- Instituir las políticas necesarias para garantizar que en los poderes públicos del Estado, sus organismos autónomos y en los municipios, existan funcionarios conocedores de la cultura maya y sean maya-hablantes.
+
+VI.- Implementar las políticas necesarias para garantizar la vigencia de los derechos del pueblo maya y el desarrollo integral de sus comunidades.
+
+En cada municipio se establecerán mecanismos de participación ciudadana para coadyuvar con los ayuntamientos en la programación, ejercicio, evaluación y control de los recursos, que se destinen al desarrollo social.
 
 > <small>(REFORMADO, D.O. 31 DE MARZO DE 1988)</small>
 
@@ -2748,3 +2818,25 @@ D.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo establecido en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas y adiciones a las leyes relativas deberán realizarse dentro del plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La ley reglamentaria en materia de Derechos y Cultura Maya deberá emitirse dentro del plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El organismo público, que definirá, ejecutará y evaluará las políticas de atención al pueblo maya, deberá crearse dentro del plazo de seis meses, contados a partir de la entrada en vigor del presente Decreto.
