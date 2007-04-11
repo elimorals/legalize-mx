@@ -4,7 +4,7 @@ identifier: "YUC-decreto-que-crea-la-medalla-de-honor-hector-victoria-aguilar-59
 country: "mx"
 rank: "decreto"
 publication_date: "1988-08-10"
-last_updated: "1988-08-10"
+last_updated: "2007-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 DECRETO QUE CREA LA MEDALLA DE HONOR "HÉCTOR VICTORIA AGUILAR" DEL H. CONGRESO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2007.
 
 Decreto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 10 de agosto de 1988.
 
@@ -37,35 +37,47 @@ Que el "LI" Congreso Constitucional del Estado Libre y Soberano de Yucatán, DEC
 
 Se crea la Medalla de Honor "Héctor Victoria Aguilar del H. Congreso del Estado de Yucatán" y se establecen las bases para otorgarla.
 
-###### ARTICULO PRIMERO.
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
-Se crea la Medalla de Honor, "HECTOR VICTORIA AGUILAR, del H. Congreso del Estado de Yucatán", para premiar a los hombres y mujeres yucatecos que se hayan distinguido por su ciencia o su virtud en grado eminente, como servidores de nuestro Estado, de la Patria o de la Humanidad.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+Se crea la Medalla de Honor "HÉCTOR VICTORIA AGUILAR, del H. Congreso del Estado de Yucatán", para premiar a los hombres y mujeres yucatecos que se hubieren distinguido por su ciencia, aportación al campo del derecho, arte, cultura, promoción y defensa de los derechos humanos, preservación del medio ambiente y cualquier otra actividad humanista en beneficio del Estado, la Nación o la Comunidad Universal.
 
-La presea "Héctor Victoria Aguilar" del Congreso del Estado, constará del Diploma alusivo y medalla de oro, pendiente de una cinta de seda para fijarse al cuello, y en la que luzca el tricolor nacional; el Escudo del Estado en medio de la inscripción: H. Congreso del Estado de Yucatán 1988 - 1990.- figurará en el anverso de aquella, y la efigie del Constituyente Héctor Victoria Aguilar, en medio de la inscripción: presea Héctor Victoria Aguilar, 1886 - 1926 quedarán grabados en su reverso.
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado de Yucatán convocará cada año a los Poderes del Estado, a las organizaciones de enseñanza superior, a las organizaciones sociales, científicas y culturales, a los medios de difusión y demás instituciones que representen el ambiente de cultura de la Entidad, para que presenten sus candidatos capaces de merecer tan preciada recompensa.
+La medalla "Héctor Victoria Aguilar", constará del correspondiente Diploma y medalla de oro alusivos, misma que contendrá en su anverso, el Escudo del Estado; en la parte central, la inscripción H. Congreso del Estado de Yucatán, con el correspondiente número de la Legislatura en turno. Y en el reverso la efigie del Constituyente Héctor Victoria Aguilar con la respectiva Leyenda: Presea Héctor Victoria Aguilar 1886-1926. Dicha presea será sostenida con una cinta de seda, para asirla al cuello del Recipiendario, y en la que luzca el tricolor nacional.
 
-###### ARTICULO CUARTO.
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
-El registro de presentaciones quedará comprendido entre los días primero y treinta y uno de diciembre de cada año.
+###### ARTÍCULO TERCERO.
 
-###### ARTICULO QUINTO.
+El Congreso del Estado de Yucatán, convocará cada año a los demás poderes y organismos públicos autónomos del Estado, a las entidades de enseñanza superior, a las organizaciones no gubernamentales de carácter social, y demás relacionadas con los ámbitos previstos en el Artículo Primero, para que presenten las candidaturas que consideren y que en el campo de la ciencia, el derecho, el arte, la cultura, la promoción y defensa de los derechos humanos, la preservación del medio ambiente y cualquier otra actividad humanista, hubieren destacado de manera eminente
 
-La condecoración de la Medalla de Honor "Héctor Victoria Aguilar, del H. Congreso del Estado de Yucatán" se otorgará en cada caso por acuerdo tomado en sesión pública celebrada en la primera semana del mes de enero, previo dictamen de la Comisión de Postulaciones y de la designación de los méritos de las personas propuestas.
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
-###### ARTICULO SEXTO.
+###### ARTÍCULO CUARTO.
 
-Las Medallas y los Diplomas respectivos, serán impuestas y otorgados en la sesión solemne que el 11 de enero de cada año celebre el Congreso del Estado para conmemorar la expedición de la Constitución Política del Estado, que en esa fecha, en el año de 1918 suscribió Héctor Victoria Aguilar, como presidente del XXV Congreso Constitucional del Estado, en funciones de Constituyente y por su relevante actuación en el Congreso de Querétaro de 1916 - 1917.
+En la primera quincena de Noviembre, el Pleno de los Diputados, aprobará la convocatoria referida en el Artículo Tercero, para que dentro de los cinco días hábiles posteriores, sea publicada en los medios de difusión que se considere; a partir de ese momento, y hasta el 11 de Diciembre, sean recepcionadas las distintas candidaturas. Transcurrido el plazo anterior, y hasta el 15 de Diciembre el Pleno designará dicha distinción.
 
-###### ARTICULO SEPTIMO.
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+###### ARTÍCULO QUINTO.
+
+La condecoración de la Medalla de Honor "Héctor Victoria Aguilar", se otorgará en cada caso por acuerdo tomado en sesión pública celebrada a más tardar el 15 de Diciembre y previo dictamen de la Comisión de Postulaciones, que incluye los méritos del propuesto por la Comisión.
+
+> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+
+###### ARTÍCULO SEXTO.
+
+La medalla será impuesta por el Presidente de la Mesa Directiva, al igual que el diploma, en la Sesión Solemne que para ese único fin, realice el Congreso del Estado, el día 11 de Enero de cada año.
+
+###### ARTÍCULO SÉPTIMO.
 
 Todos los diplomas estarán autorizados con las firmas de los Ciudadanos Presidente y Secretarios del H. Congreso del Estado.
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
 El Secretario del Congreso llevará en libros autorizados por la Gran Comisión los registros de las personas condecoradas con las anotaciones correspondientes, el libro de actas y el archivo de todos los documentos relativos al proceso de selección y conservará además las insignias, de las cuales llevará un inventario minucioso, procediendo a la distribución de las mismas, cuando así lo determinare el Congreso, acompañando el diploma correspondiente.
 
@@ -84,3 +96,15 @@ LIC. VICTOR MANZANILLA SCHAFFER
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 11 DE ABRIL DE 2007.
+
+PRIMERO.- Por esta única ocasión, la entrega de la Medalla de Honor "Héctor Victoria Aguilar, del H. Congreso del Estado de Yucatán", se llevará a cabo el 30 de Marzo de 2007, en Sesión Solemne.
+
+SEGUNDO.- La ceremonia de entrega deberá llevarse a cabo, en el Recinto del Poder Legislativo, no pudiendo trasladarse provisionalmente a otro sitio, requiriendo para ello del acuerdo de las dos terceras partes de los diputados presentes.
+
+TERCERO.- La Convocatoria deberá ser expedida la primera quincena del mes de Noviembre de cada año.
+
+CUARTO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
