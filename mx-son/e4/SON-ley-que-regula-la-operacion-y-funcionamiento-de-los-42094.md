@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2005-06-30"
+last_updated: "2007-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE ABRIL DE 2007.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -495,6 +495,18 @@ Recibida la solicitud acompañada de todos los documentos, así como cumplidos l
 
 En caso de que transcurrido el plazo a que se refiere este artículo no exista respuesta de la autoridad competente, se entenderá que la solicitud ha sido negada.
 
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2007)</small>
+
+###### Artículo 43 Bis.
+
+Para el otorgamiento de la licencia solicitada, la Secretaría contará con un Comité de Evaluación de Trámites y Licencias.
+
+Dicho Comité se integrará por el Director General de Bebidas Alcohólicas, quien lo presidirá, y de seis vocales designados por los titulares de las Secretarías de Salud, de Educación y Cultura, de Infraestructura y Desarrollo Urbano y del Secretario Ejecutivo de Seguridad Pública, así como un representante de la Unidad Estatal de Protección Civil y de la Comisión de Ecología y Desarrollo Sustentable del Estado, y tendrá a su cargo las funciones que le establece esta Ley.
+
+El Comité analizará el expediente integrado con motivo de la solicitud de la licencia con el fin de constatar si el interesado cumple con lo dispuesto en esta Ley y demás disposiciones legales a que se refiere la fracción XII del artículo 40 del presente ordenamiento, debiendo remitir su opinión a la Secretaría.
+
+Si el Comité considera, que la solicitud no cumple con los requisitos establecidos e (sic) esta Ley y demás disposiciones legales, la Secretaría negará la misma.
+
 ###### Artículo 44.
 
 Las licencias que se hayan otorgado conforme a la presente Ley, dejarán de surtir sus efectos, cuando se compruebe que su titular no inició la operación del establecimiento en un plazo de noventa días naturales, contados a partir de la fecha de expedición de la misma, o bien, cuando en el mismo plazo de noventa días, se deje de operar el giro amparado en la licencia en el establecimiento correspondiente sin haber obtenido previamente de la Secretaría la autorización correspondiente, misma que a petición del permisionario se podrá otorgar por un plazo de 90 días, siempre y cuando exista causa justificada a juicio de la propia Secretaría. Vencido este plazo y si subsiste la causa que dio origen a la suspensión, se podrá conceder un nuevo plazo improrrogable de 45 días más.
@@ -513,7 +525,9 @@ I.- Copia simple de la licencia; y
 
 II.- El comprobante de pago del derecho respectivo.
 
-Una vez recibida la solicitud y la documentación antes referida, la Secretaría podrá efectuar visitas para verificar que el solicitante cumple con lo establecido en la presente Ley; realizado lo anterior y verificado el cumplimiento de la normatividad se expedirá la revalidación respectiva.
+> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+
+Una vez recibida la solicitud y la documentación antes referida, la Secretaría podrá efectuar visitas para verificar si el solicitante cumple con lo establecido en la presente Ley; realizando lo anterior y emitida la opinión favorable del Comité de Evaluación de Trámites y Licencias, se expedirá la revalidación respectiva.
 
 El Ejecutivo del Estado, por conducto de la Secretaría, deberá informar a los ayuntamientos dentro de los quince días siguientes a la fecha del vencimiento para la revalidación, sobre las licencias revalidadas y de las no autorizadas a los establecimientos regulados por esta Ley y que se encuentren ubicados en el territorio del Municipio respectivo.
 
@@ -673,13 +687,17 @@ IV.- Anuencia por escrito de la autoridad municipal, expedida conforme a las dis
 
 A la solicitud mencionada en el artículo anterior se acompañarán los documentos mencionados en el artículo 40, fracciones III, IV, V, VI, VII y XI, en su caso, de esta Ley.
 
+> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2007)</small>
+
 ###### Artículo 61.
 
-El Ejecutivo, por conducto de la Secretaría, autorizará el cambio si se le comprueba que el solicitante ha cumplido con lo establecido por esta Ley
+El Ejecutivo, por conducto de la Secretaría, autorizará el cambio si el solicitante ha cumplido con lo establecido dispuesto (sic) en esta Ley y el Comité de Evaluación de Trámites y Licencias ha emitido opinión favorable en ese sentido.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 12 DE ABRIL DE 2007)</small>
 
 ###### Artículo 62.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, podrá disponer el cambio de domicilio a los titulares de licencia cuando así lo requiera el orden público y el interés general. Para este efecto se procederá como sigue:
+Cuando la opinión del Comité de Evaluación de Trámites y Licencias se vulnere el orden público o el interés general, el Ejecutivo Estatal por conducto de la Secretaría, podrá disponer el cambio de domicilio de los titulares de licencias. Para este efecto se procederá como sigue:
 
 I.- Se le notificará al interesado con 30 días de anticipación a la fecha que deba realizarse el cambio;
 
@@ -1242,3 +1260,13 @@ B.O. 30 DE JUNIO DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través del Secretario de Hacienda, dispondrá lo conducente a efecto de integrar debidamente el Comité de Evaluación de Trámites y Licencias.
