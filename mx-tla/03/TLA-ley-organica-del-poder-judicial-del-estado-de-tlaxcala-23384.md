@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2006-09-25"
+last_updated: "2007-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2007.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -51,11 +51,15 @@ El Poder Judicial garantizará la supremacía y el control de la Constitución P
 
 El ejercicio del Poder Judicial del Estado se deposita en:
 
-I. El Tribunal Superior de Justicia; y
+I. El Tribunal Superior de Justicia; y (sic)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2007)</small>
 
-II. Los Juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes.
+II. Los juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2007)</small>
+
+III. En una Unidad de Mediación y Conciliación.
 
 ###### Artículo 3.
 
@@ -116,6 +120,12 @@ II. SANCHEZ PIEDRAS, con sede en la Ciudad de Apizaco, que comprenderá los Muni
 ###### Artículo 8 Bis.
 
 En materia de administración de justicia para adolescentes los juzgados ejercerán su competencia en todo el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2007)</small>
+
+###### Artículo 8 Ter.
+
+El procedimiento de mediación y la conciliación en sede judicial estarán a cargo de la Unidad de Mediación y Conciliación, a través de los mediadores y conciliadores adscritos a dicha unidad y del juez municipal de cada Municipio.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
@@ -610,6 +620,12 @@ Los Jueces de Administración de Justicias para Adolescentes conocerán y resolv
 I. Los asuntos de administración de justicia para adolescentes que les sean planteados, y
 
 II. Los demás asuntos que les encomienden las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2007)</small>
+
+###### Artículo 50 Ter.
+
+La Unidad de Mediación y Conciliación conocerá de los asuntos que la ley de la materia le confiere y contará con el personal necesario para su funcionamiento.
 
 ###### Artículo 51.
 
@@ -1470,3 +1486,21 @@ La designación y nombramiento del Magistrado de la Sala Unitaria de Administrac
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se contrapongan con el contenido de este Decreto.
+
+P.O. 13 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios arbitrales que se encuentren en trámite se concluirán de conformidad con los numerales que se derogan, salvo disposición expresa de las partes de sujetarse al procedimiento de mediación y conciliación previsto en la Ley que Regula el Sistema de Mediación y Conciliación en el Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Los presidentes municipales del Estado, enviarán al Presidente del Tribunal Superior de Justicia, su propuesta de Juez Municipal a efecto de que éste le extienda el nombramiento respectivo, en un plazo no mayor a veinte días hábiles posteriores a la publicación de la Ley que regula el Sistema de Mediación y Conciliación en el Estado de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que contravengan al contenido de este Decreto.
