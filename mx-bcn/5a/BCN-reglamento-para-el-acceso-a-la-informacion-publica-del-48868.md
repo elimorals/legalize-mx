@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-acceso-a-la-informacion-publica-del-48868"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-03"
-last_updated: "2006-02-03"
+last_updated: "2007-04-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. EL 13 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de febrero de 2006.
 
@@ -566,3 +568,15 @@ SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 RÚBRICA
 
 MEXICALI, BAJA CALIFONIRA (SIC), A 18 DE ENERO DE 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ABRIL DE 2007.
+
+PRIMERO. Se deja sin efecto el Reglamento de Acceso a la Información Pública del Poder Judicial del Estado de Baja California, publicado en fecha 03 de febrero de 2006, en el Periódico Oficial del Estado, así como en el Boletín Judicial No. 10,883 de fecha 25 de mayo de 2006 y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, y en el Boletín Judicial, así como la publicación que se hizo en el Boletín Judicial Número 10,805, volumen XLI, de fecha 27 de enero de 2006, por no haber entrado en vigor, ante la falta de publicación en el Periódico Oficial, de conformidad con el artículo Cuarto, transitorio de dicho reglamento, con las modalidades que establecen los siguientes artículos:
+
+SEGUNDO. El Consejo de la Judicatura del Estado de Baja California, emitirá los lineamientos generales para la clasificación, desclasificación y custodia de la información y documentos, la organización de sus archivos, así como del trámite correspondiente a las solicitudes de información, dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento.
+
+TERCERO. Los Plenos del Consejo y del Tribunal Superior de Justicia del Estado de Baja California, adoptarán conforme al ámbito de su competencia, las medidas adecuadas para hacer cumplir las disposiciones establecidas en el artículo 41 de este reglamento, dentro del plazo de 30 días contados a partir de la entrada en vigor esta ordenamiento.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado, así como en el Boletín Judicial, y difúndase entre los órganos jurisdiccionales de la entidad y dependencias administrativas del Consejo de la Judicatura del Poder Judicial del Estado de Baja California.
