@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2007-03-27"
+last_updated: "2007-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2007.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3911,10 +3911,6 @@ Delitos contra la paz y seguridad de las personas
 
 ### CAPITULO III. Calumnia
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
-
 ###### ARTICULO 282.
 
 Se aplicará sanción de tres días a un año de prisión o de 180 a 360 días multa:
@@ -4399,59 +4395,29 @@ Delitos electorales y en materia de registro nacional de ciudadanos
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 350.
 
-El delito de difamación se castigará con prisión hasta de dos años o multa de cincuenta a trescientos pesos, o ambas sanciones a juicio del juez.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-La difamación consiste: en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral en los casos previstos por la ley, de un hecho cierto o falso, determinado, o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
-
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 343 bis y 343 ter, en este último caso siempre y cuando habite en el mismo domicilio con la víctima, la pena se aumentará en un tercio.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 351.
 
-Al acusado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación, sino en dos casos:
-
-I.- Cuando aquélla se haya hecho a un depositario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones, y
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y el acusado obre por motivo de interés público o por interés privado, pero legítimo, y sin ánimo de dañar.
-
-En estos casos se librará de toda sanción el acusado, si probare su imputación.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 352.
 
-No se aplicará sanción alguna como reo de difamación ni de injuria:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
-
-II.- Al que manifestare su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas calumniosamente, y
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la ley.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 353.
 
-Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la injuria, de la difamación o de la calumnia.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 354.
 
-El injuriado o difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de injuria, de difamación o de calumnia, según le conviniere.
-
-Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputación, y si ésta quedare probada, se librará aquél de toda sanción, excepto en el caso del artículo 358.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 355.
 
-No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ### CAPITULO UNICO
 
@@ -4459,33 +4425,19 @@ No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputad
 
 ###### ARTICULO 356.
 
-Por el delito de calumnia se castigará con prisión de seis meses a dos años o multa de dos a trescientos pesos, o ambas sanciones a juicio del juez:
-
-I.- Al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
-
-> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
-
-II.- Al que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquel no se ha cometido; y
-
-III.- Al que, para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-En los casos de las dos últimas fracciones, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 357.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él errónea o falsamente les haya atribuido ese carácter.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 358.
 
-No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 359.
 
-Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ### CAPITULO PRIMERO. De las actividades tecnológicas y peligrosas
 
@@ -4493,33 +4445,19 @@ Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguie
 
 ###### ARTICULO 360.
 
-No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida, excepto en los casos siguientes:
-
-I.- Si el ofendido ha muerto y la injuria, la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Cuando la injuria, la difamación y la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos, y
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Cuando la ofensa sea contra la nación mexicana o contra una nación o gobierno extranjeros, o contra sus agentes diplomáticos en este país. En el primer caso, corresponderá hacer la acusación al Ministerio Público; pero será necesaria excitativa en los demás casos.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 361.
 
-La injuria, la difamación y la calumnia contra el Congreso, contra una de las Cámaras, contra un tribunal o contra cualquier otro cuerpo colegiado o institución oficial, se castigará con sujeción a las reglas de este título, sin perjuicio de lo dispuesto en el artículo 190 de este Código.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 362.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán, a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
-
-En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 ###### ARTICULO 363.
 
-Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -6306,5 +6244,9 @@ DECRETO QUE REFORMA EL ARTICULO 214 DEL CODIGO PENAL.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 27 DE MARZO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
