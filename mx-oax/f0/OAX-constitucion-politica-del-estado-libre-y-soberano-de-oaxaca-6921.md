@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2006-09-28"
+last_updated: "2007-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2007.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -553,7 +553,7 @@ I.- Sólo los ciudadanos podrán afiliarse libre e individualmente a los partido
 
 II.- Los partidos políticos recibirán, de acuerdo con las disponibilidades presupuestales, en forma equitativa, financiamiento público para su sostenimiento y contarán, durante los procesos electorales, con apoyos para sus actividades de promoción de candidaturas a cargos de elección popular y de fomento del sufragio. Los fondos del financiamiento público, bajo ninguna circunstancia podrán aplicarse a la promoción de precandidatos dentro de los procedimientos internos de selección;
 
-III.- Los partidos políticos registrarán fórrmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
+III.- Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
 
 IV.- La ley establecerá las reglas a las que se sujetarán el financiamiento, el acceso equitativo a los medios de información y las campañas electorales.
 
@@ -2281,7 +2281,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3080,6 +3080,10 @@ DECIMO.- Con la finalidad de homologar los calendarios de los procesos electoral
 UNDECIMO.- El Honorable Congreso del Estado, contará con un plazo de hasta seis meses para reformar el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, emitir la normatividad correspondiente a los medios de impugnación en materia electoral y demás ordenamientos relativos.
 
 DUODECIMO.- Se derogan todas las disposiciones constitucionales y legales que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
