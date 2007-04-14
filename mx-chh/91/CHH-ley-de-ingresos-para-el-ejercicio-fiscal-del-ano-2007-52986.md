@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-para-el-ejercicio-fiscal-del-ano-2007-52986"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-27"
-last_updated: "2006-12-27"
+last_updated: "2007-04-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -613,11 +613,13 @@ alcohólicas en envase cerrado, abierto o al copeo:
 
 7.5 Asignación de denominación. 4,679.22
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
 7.6.- Cuando se trate de cambio de giro, se
 
 causarán los derechos por expedición de
 
-licencia a que se refiere el numeral 6 del
+licencia a que se refiere el numeral 5 del
 
 Apartado I de la presente Tarifa que
 
@@ -779,6 +781,8 @@ protocolo abierto especial. 103.54
 
 cada volumen de protocolo abierto. 55.38
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
 8.- Por la expedición de testimonio de
 
 escrituras asentadas en protocolos
@@ -787,9 +791,11 @@ notariales depositados en el archivo
 
 notarial de la Dirección, además del
 
-concepto señalado en el numeral 47.2,
+concepto señalado en el numeral 48.2,
 
 del Apartado II, de esta Tarifa. 215.50
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
 
 9.- Por la autorización definitiva de escrituras
 
@@ -799,7 +805,7 @@ en el archivo notarial de la Dirección, además
 
 del concepto señalado en el numeral 8, así
 
-como el 47.2, del Apartado II, de esta Tarifa 196.25
+como el 48.2, del Apartado II, de esta Tarifa 196.25
 
 10 Por búsquedas en el archivo notarial de
 
@@ -1231,6 +1237,8 @@ oficina para ser realizado en otra,
 
 incluyendo los avisos preventivos 375.63
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
 31.- Por cada certificado de existencia de
 
 inscripción, existencia o inexistencia de
@@ -1241,33 +1249,13 @@ agraria solicitado en las oficinas,
 
 independientemente de la oficina donde
 
-esté inscrito el inmueble. 121.21
+se encuentre inscrito el inmueble, o a
 
-32 Por cada certificado de existencia
+través de la red electrónica mundial, o en
 
-de inscripción, existencia o inexistencia
+centros digitales de trámites y servicios 121.21
 
-de gravamen de sección séptima o
-
-cláusula agraria o de inexistencia de bienes
-
-solicitado en oficina distinta de aquella donde
-
-esté o deba estar inscrito el inmueble: 152.25
-
-32.1 Por cada certificado de existencia de
-
-inscripción, existencia o inexistencia de
-
-gravamen, de sección séptima o cláusula
-
-agraria o de inexistencia de bienes solicitado
-
-a través de Internet, independientemente de
-
-la oficina donde se encuentre inscrito el
-
-inmueble. 152.25
+32.- (DEROGADO, P.O. 14 DE ABRIL DE 2007)
 
 32.1 Por cada certificado de existencia de
 
@@ -1299,11 +1287,19 @@ legales de las ciudades. 95.11
 
 33.2 En todos los demás casos. 272.09
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2007)</small>
+
 34.- Por cada certificado de inexistencia de
 
-bienes solicitado en las oficinas en que el
+bienes solicitado en las oficinas,
 
-inmueble debe estar inscrito. 46.96
+independientemente de la oficina donde se
+
+solicite, o a través de la red electrónica
+
+mundial, o en centros digitales de trámites
+
+y servicios. 46.96
 
 En el caso de dos personas casadas entre sí
 
@@ -2069,6 +2065,8 @@ manejadores de alimentos, dirigido a personal
 
 directivo, por persona. 736.81
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
 c).- Expedición de constancia de no
 
 inconveniente para el funcionamiento de
@@ -2097,7 +2095,7 @@ ciento) sobre los derechos que se generen
 
 por la prestación de los servicios a que se
 
-refieren los numerales 6, 8, 9 y 10 del
+refieren los numerales 5, 7, 8 y 9 del
 
 Apartado I de la presente Tarifa, según
 
@@ -2733,7 +2731,9 @@ Tránsito. 133.63
 
 identificación vehicular:
 
-a).- Modelos 2007-2005 2,310.00
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2007)</small>
+
+a).- Modelos 2008-2005 2,310.00
 
 b). Modelos 2004-2002. 2,205.00
 
@@ -3070,3 +3070,11 @@ cada uno 8.00
 1.6 Disco DVD grabable (DVD+R)
 
 cada uno 11.00
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ABRIL DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
