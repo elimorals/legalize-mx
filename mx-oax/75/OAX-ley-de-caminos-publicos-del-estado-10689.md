@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-publicos-del-estado-10689"
 country: "mx"
 rank: "ley"
 publication_date: "1927-01-22"
-last_updated: "1927-01-22"
+last_updated: "2007-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE CAMINOS PUBLICOS DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CAMINOS, CARRETERAS Y PUENTES PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 14 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de enero de 1927.
 
@@ -186,3 +188,13 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- Carreteras y Escuelas.- Oaxaca de Juárez, a veintiuno de Enero de mil novecientos veintisiete.- El Secretario General del Despacho, Fidel Sandoval.- Rúbrica.
 
 Al C.........
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE ABRIL DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la LEY DE CAMINOS PUBLICOS DEL ESTADO DE OAXACA, aprobada por la XXXI Legislatura Constitucional al Congreso del Estado de Oaxaca el día 21 de enero de 1927 y publicada en el Periódico Oficial del Gobierno del Estado al día siguiente de su aprobación.
+
+TERCERO.- Se abroga la LEY QUE ESTABLECE EL DERECHO DE VIA DE UNA CARRETERA O CAMINO LOCAL aprobada por la LI Legislatura al Congreso del Estado de Oaxaca el día 28 de junio de 1983 y publicada en el Periódico Oficial del Gobierno del Estado el día 16 de junio de 1984.
