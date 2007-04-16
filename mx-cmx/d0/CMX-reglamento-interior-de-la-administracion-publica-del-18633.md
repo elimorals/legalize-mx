@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-02-28"
+last_updated: "2007-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -210,7 +210,9 @@ VI. A la Secretaría de Desarrollo Social:
 
 2.- (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
-3.- Dirección General de Equidad y Desarrollo Social;
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2007)</small>
+
+3.- Dirección General de Igualdad y Diversidad Social;
 
 4.- Dirección General del Servicio Público de Localización Telefónica (LOCATEL);
 
@@ -484,9 +486,13 @@ XVII. A la Secretaría de Trabajo y Fomento al Empleo:
 
 XVIII. A la Secretaría de Educación:
 
-1.- Dirección de Educación Básica; y
+1.- Dirección de Educación Básica; y (sic)
 
-2.- Dirección de Planeación.
+2.- Dirección de Planeación;
+
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2007)</small>
+
+3.- Dirección General de Atención Integral al Estudiante.
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -2988,9 +2994,11 @@ DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ABRIL DE 2007)</small>
+
 ###### Artículo 63.
 
-Corresponde a la Dirección General de Equidad y Desarrollo Social:
+Corresponde a la Dirección General de Igualdad y Diversidad Social:
 
 I. Formular, promover y ejecutar políticas y programas sociales que favorezcan la equidad, reduzcan las desigualdades y eliminen los mecanismos de exclusión social de los grupos de atención prioritaria;
 
@@ -7102,6 +7110,26 @@ XI. Intervenir en la evaluación de las diferentes acciones que en materia educa
 
 XII. Elaborar los análisis necesarios para la formulación de políticas educativas que coadyuven al cumplimiento de los objetivos planeados por la Dirección General.
 
+> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2007)</small>
+
+Artículo 119 Novenus A.- Corresponde a la Dirección General de Atención Integral al Estudiante:
+
+I. Planear, establecer, desarrollar, coordinar, ejecutar y evaluar las políticas públicas necesarias para atender de forma integral a los estudiantes de las escuelas públicas de nivel básico del Distrito Federal;
+
+II. Atender, orientar, canalizar y dar seguimiento a los servicios psicológicos, sociales, culturales, deportivos, pedagógicos, médicos y artísticos que el Gobierno del Distrito Federal ofrezca a los estudiantes de las escuelas públicas de nivel básico;
+
+III. Planear, desarrollar, ejecutar, supervisar y evaluar la atención en materia de educación física que se otorga a las escuelas públicas de nivel básico del Distrito Federal;
+
+IV. Establecer los mecanismos de coordinación y vinculación institucional para ofrecer servicios integrales a los estudiantes de educación de nivel básico en el Distrito Federal;
+
+V. Desarrollar proyectos y acciones sociales para garantizar la participación de las comunidades, padres de familia y estudiantes en el ámbito de la educación pública de nivel básico en el Distrito Federal;
+
+VI. Capacitar a los especialistas en los ámbitos psicológico, social, pedagógico, médico, deportivo, artístico y cultural que atenderán a los estudiantes de educación pública de nivel básico;
+
+VII. Planear y organizar territorialmente los servicios y acciones de la Dirección General; y
+
+VIII. Crear mecanismos de seguimiento de los servicios que otorgue la Dirección General a través de la cartilla del estudiante y los demás que al efecto se establezcan.
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 #### SECCION XVIII
@@ -11029,3 +11057,11 @@ SEXTO.- Cuando con motivo de la aplicación de este decreto los trabajadores de 
 SÉPTIMO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a unidades administrativas que por virtud de este decreto hubieren dejado de tener competencia en las materia (sic) que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 OCTAVO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+G.O. 16 DE ABRIL DE 2007.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. - A la Dirección General de Atención Integral al Estudiante se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
