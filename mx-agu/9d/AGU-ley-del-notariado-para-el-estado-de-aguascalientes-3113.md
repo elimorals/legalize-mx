@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2005-08-08"
+last_updated: "2007-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -143,177 +143,197 @@ Los notarios deben cumplir con las obligaciones que les imponen ésta y las dem�
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 15.
 
-El protocolo está constituído por los libros o volúmenes en los cuales el notario debe asentar las escrituras públicas y las actas notariales que, respectivamente, contengan los actos o hechos jurídicos sometidos a su autorización.
+Protocolo es el conjunto de folios formados o que se formarán en libros o volúmenes, numerados, sellados y autorizados en los que el notario, observando las formalidades que establece la presente ley, debe asentar las escrituras públicas y las actas notariales que, respectivamente, contengan los actos o hechos jurídicos sometidos a su autorización, con sus apéndices, índices y libros o registros de control correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 16.
 
-No podrán pasar de seis los libros del protocolo que se lleven al mismo tiempo en una notaría. El notario libremente podrá optar por el número que para sí estime conveniente, dentro de la limitación dicha, procediendo siempre con la autorización del Gobernador del Estado.
+El Notario asentará los instrumentos, es decir las escrituras públicas o actas notariales, en folios. Cuando hubiere completado ciento cincuenta folios formará un libro, el cual se integrará al principio con la hoja a que se refiere el Artículo 21 y con otra hoja al final destinada al cierre en los términos del Artículo 27 de esta ley. Los libros deberán numerarse progresivamente.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 17.
 
-Los libros en blanco del protocolo serán absolutamente uniformes, adquiridos y pagados por el notario interesado. Estos libros, encuadernados y empastados sólidamente, constarán de ciento cincuenta fojas o sea trescientas páginas y una foja más al principio y sin numerar destinada al título del libro.
+Los folios son las hojas numeradas, selladas y autorizadas que serán utilizadas conforme a su orden progresivo y en forma cronológica. Cada folio se utilizará por ambas caras, constituyéndose por dos páginas.
 
-Las hojas del protocolo tendrán treinta y cinco centímetros de largo por veinticuatro de ancho en su parte utilizable. Al escribirse en ellas las escrituras y actas notariales, se dejará en blanco una tercera parte a la izquierda, separada por medio de una línea de tinta roja para poner en dicha parte las razones y anotaciones que legalmente puedan asentarse allí.
+Los folios son bienes públicos del Estado pero su manejo queda bajo el depósito y estricta responsabilidad del notario, durante el tiempo que deba conservarlos en términos de esta ley.
 
-Además se dejará siempre en blanco una faja de un centímetro y medio de ancho por el lado del doblez del libro y otra igual a la orilla para proteger lo escrito.
-
-Cuando se escribe en máquina en el protocolo se podrá reducir el margen interno de la página izquierda del mismo libro en un centímetro y medio más, aumentando en igual extensión el margen externo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 18.
 
-En la primera página útil de cada libro, el Gobernador del Estado pondrá la razón en que consten el lugar y la fecha; el número que corresponda al volumen, según los que vayan recibiendo el notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número ordinal, nombre y apellido del notario; el lugar en que debe residir y en el que está situada la notaría y, por último; la expresión de que ese libro solamente debe utilizarse por el notario o por la persona que legalmente lo substituye en funciones.
+Los folios serán adquiridos previo pago de los derechos correspondientes en la Secretaría de Finanzas del Estado, serán autorizados por la Secretaría General de Gobierno mediante actas, perforaciones, código de barras o cualquier otro medio indubitable que impida su falsificación, serán numerados progresivamente respecto de cada notaría, anteponiendo el número de la notaría en la cual serán utilizados y tendrán impreso, grabado o estampado el sello de la propia Secretaría General de Gobierno. La entrega de folios no podrá exceder de mil quinientos y deberá realizarse mediante recibo especial por parte del notario.
 
-En la última página del libro pondrá una razón análoga. Dichas razones serán selladas y suscritas por el C. Gobernador del Estado.
+Cuando se trate de folios destinados a la elaboración de escrituras de interés social a solicitud de organismos públicos de vivienda del Estado, serán entregados a los notarios sin costo y sin pago de derechos. Para este fin, les serán anticipados ciento cincuenta folios a cada notario quienes justificarán, a satisfacción de la Secretaría General de Gobierno, su utilización a fin de que se les entreguen los siguientes ciento cincuenta folios para el mismo destino.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 19.
 
-El notario abrirá cada volumen de su protocolo, cuando vaya a usar de él, poniendo inmediatamente después de la razón del Gobernador del Estado, otra en la que exprese su nombre, apellido y número que le corresponde, así como el lugar y la fecha en que abre el libro y el número que a éste corresponde en el juego de los que use, todo calzado con su sello y firma.
+La formación del libro debe hacerse por el orden riguroso de la numeración de los instrumentos. La numeración de los instrumentos será progresiva desde el primer libro, aun cuando algunos de ellos sean anotados con la razón de “No pasó” en términos de esta ley.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 20.
 
-Al comenzar a hacerse uso de una foja, en su frente, se le pondrá a la cabeza, hacia el lado derecho de la misma, el sello del notario. No se escribirán más de cuarenta líneas por página o llana a igual distancia unas de otras. Deberán escribirse con tinta firme e indeleble, a mano o con máquina.
+Los folios tendrán las características que por acuerdo fije el Titular del Poder Ejecutivo del Estado. Las razones o anotaciones que legalmente deban insertarse, se asentarán al calce de los instrumentos. Si en el último folio donde conste el instrumento no hay espacio para dichas razones o anotaciones, se pondrán la razón de que las mismas se continuarán en hoja por separado, la cual deberá ser firmada y sellada por el notario y se agregará como documento al apéndice en los términos de esta ley.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 21.
 
-El uso de los libros debe hacerse por el orden riguroso de la numeración de las escrituras y actas notariales, yendo de un libro al otro en cada escritura o acta, hasta llegar al último, y volviendo de éste al primero, para lo cual serán numerados los libros.
+El Notario cuando vaya a hacer uso de los folios que conformarán un libro, asentará una razón en la que hará constar su nombre, apellidos, número de la notaría y lugar donde esté situada, la fecha en que se inicia y el número del libro que le corresponda dentro de la serie de los que, sucesivamente, se han abierto en la notaría a su cargo. La hoja en la que se asiente la razón a que se refiere este artículo no irá foliada y se encuadernará antes del primer folio del libro, y deberá ser firmada por el Notario o por quien lo sustituya en sus funciones e imprimirá el sello de autorizar.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 22.
 
-La numeración de los instrumentos o sea, de las escrituras y de las actas notariales será progresiva desde el primer volumen en adelante, es decir, sin interrumpirla de un volumen a otro, incluyendo aún las escrituras o actas que no pasen.
+Cuando por cualquier circunstancia no actúe el titular de la notaría, el que va a actuar asentará, a continuación del último instrumento otorgado ante el Notario titular, razón en la que se hará constar, su nombre, apellidos, firma, sello de autorizar y fecha de su actuación.
 
-Entre uno y otro de los instrumentos, en un mismo volumen, no habrá más espacio que el indispensable para las firmas, autorización y sello.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 23.
 
-El notario cuando calcule que ya no puede dar cabida a otra escritura más en el libro del protocolo o juego de libros, sin contrariar en éstos últimos lo dispuesto en el Artículo 21, los cerrará poniendo la razón de clausura, expresando en ella el número de fojas utilizadas, el número de instrumentos autorizados en el libro y el lugar, día y hora en que se cierra; así como los instrumentos autorizados, los que no pasaron y los que quedaron pendientes de autorización, enumerando aquéllos y expresando el motivo de estar pendientes éstos. Inmediatamente que ponga esta razón autorizada con su sello y firma, conservará en su poder el libro hasta cuarenta y cinco días hábiles después de su clausura y si durante ese lapso fueren autorizados alguna o algunas escrituras o se anotaren como no pasadas, se pondrá razón adicional a la clausura, haciendo constar tales hechos. Y hecho lo anterior enviará el libro o juego de libros al Registro Público de la Propiedad, en los cuales el Director extenderá certificación de ser exacta la razón que cierra cada libro, autorizándola con su firma y sello, y devolverá el libro o libros al notario, inutilizando por medio de líneas cruzadas y perforaciones convenientes, las fojas en blanco que hayan sobrado.
+Los instrumentos deberán asentarse en los folios que integran el protocolo, manuscritos, a máquina o por cualquier procedimiento mecánico, electrónico o de reproducción legible e indeleble, y no deberá por ningún concepto, una vez asentada una escritura pública o acta notarial en el folio correspondiente, borrarse o sustituirse por otra.
 
-Los notarios guardarán en su archivo de libros cerrados de su protocolo, durante cincuenta años contados desde la fecha en que el Registro Público de la Propiedad puso la certificación de cierre. A la expiración de este término, el notario entregará los libros respectivos a las oficinas del Registro Público de la Propiedad en donde quedarán definitivamente.
-
-El Director del Registro Público de la Propiedad dará aviso a la Secretaría General de Gobierno cuando no cumplan los notarios con lo dispuesto en este Artículo.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 24.
 
-Cuando esté por concluirse el libro del protocolo o el juego de libros que tenga el notario, éste enviará a la Secretaría de Gobierno el nuevo libro o libros en que habrá de continuar actuando y dicha oficina los legalizará y entregará al notario interesado en el momento en que éste los solicite por escrito, manifestando la fecha en que ha clausurado sus anteriores libros de protocolo.
+El Notario podrá llevar un libro o registro de control por duplicado en el que, una vez asentado un instrumento en el protocolo, el Notario deberá hacerlo constar de inmediato en el registro o libro de control correspondiente, indicando el número de instrumento y el del libro que conformará, fecha de protocolización, folios utilizados, naturaleza del acto, nombre de los otorgantes por apellidos y la fecha en que se asentaron las autorizaciones y razones a que se refieren los Artículos 42, 43, 45 y 46 de esta ley.
+
+Llegada la ocasión de entregar los libros o volúmenes del protocolo y sus apéndices al Registro Público de la Propiedad y del Comercio para su certificación o guarda definitiva, según sea el caso, se acompañarán de un ejemplar de dicho registro o libro de control y el otro lo conservará el Notario.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 25.
 
-No podrán sacarse de la notaría los libros del protocolo, ya sea que estén en uso o ya concluídos, si no es por el mismo notario y sólo en los casos determinados por la presente ley y para recoger firmas a las partes, cuando éstas no puedan asistir a la notaría.
+Todo instrumento deberá iniciar en el anverso del folio. No se escribirán más de cuarenta líneas por página o llana, las cuales deberán quedar a igual distancia unas de otras, salvo el caso de los entrerrenglonados que deban hacerse en términos de ley.
+
+Entre un instrumento y otro no habrá más espacio que el indispensable para las firmas, autorizaciones y sellos teniendo presente lo dispuesto por el Artículo 20 de esta ley. Si después de estos quedare algún espacio en blanco, el mismo deberá inutilizarse con líneas trazadas con tina que eviten el uso de dicho espacio.
+
+Cuando de los ciento cincuenta folios que conformarán un libro se aprecie o calcule que los que están por utilizarse serán insuficientes para asentar completo el siguiente instrumento, el Notario inutilizará dichos folios en los términos señalados en el párrafo que antecede y procederá a asentarlo en los folios que correspondan al próximo libro o volumen.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 26.
 
-Los notarios, al concluir los libros de su protocolo, previo el trámite del Artículo 23, harán entrega de ellos al encargado del Registro Público de la Propiedad, quien les extenderá el correspondiente recibo.
+En caso de pérdida, extravío o destrucción total de los libros o folios, el Notario o quien lo sustituya en sus funciones, bajo pena de incurrir en responsabilidad por omisión, deberá dar aviso en el segundo día hábil siguiente al descubrimiento del hecho al titular del Poder Ejecutivo y, con el acuse de dicho aviso, levantará el acta circunstanciada o la denuncia correspondiente ante, el Ministerio Público. En caso de alteración o destrucción parcial dentro del mismo término, deberá dar aviso a la Secretaría General de Gobierno, al Registro Público de la Propiedad y del Comercio. En caso de inutilización total o parcial de los folios, en el mismo plazo, deberá presentar el aviso correspondiente a la Secretaría General de Gobierno y al Registro Público de la Propiedad y del Comercio. Encontrándose en los anteriores supuestos el Notario o quien lo sustituya en funciones deberá hacer la aclaración en el cierre del libro correspondiente formado con los folios inutilizados inclusive o, en su caso, con los que le corresponden, dando cuenta de la fecha en que se dieron los avisos señalados.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 27.
 
-El notario, en relación con los libros del protocolo, llevará una carpeta por cada volumen en donde irá depositando los documentos que se refieren a las escrituras y a las actas. El contenido de estas carpetas se llama "Apéndice", el cual se considerará como parte integrante del protocolo.
+Cuando el Notario advierta que ha asentado el último instrumento que conformará el libro, lo cerrará expresando el lugar, día y hora en que se cierra, el número de libro, el número de folios utilizados, las aclaraciones a que se refiere el artículo anterior, el número de instrumentos asentados, el de los autorizados y de los que no pasaron por falta de firma, así como el de los que quedan pendientes de autorización relacionando aquellos y expresando el motivo de estar pendientes estos, haciendo referencia de la fecha y número ordinal del último instrumento del libro objeto del cierre y autorizará con su firma y sello. Inmediatamente que ponga esta razón autorizada con su sello y firma, conservará en su poder el libro hasta cuarenta y cinco días hábiles después de su cierre y si, durante ese lapso, fueren autorizados algún o algunos instrumentos o se anotaren como no pasados, se pondrá razón adicional al cierre, haciendo constar tales hechos.
+
+A partir de la fecha del cierre del volumen, el Notario dispondrá de un plazo de cuatro meses para encuadernarlos sólidamente y empastarlo.
+
+Dentro de los quince días hábiles siguientes a la fecha en que deba estar encuadernado y empastado el libro, el Notario lo enviará al Registro Público de la Propiedad y del Comercio, para el efecto de que, previa verificación de la exactitud de las razones del cierre, se extienda la certificación que corresponda. Hecho lo anterior, el Registro Público de la Propiedad y del Comercio devolverá el libro al notario.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Los documentos del Apéndice se arreglarán por legajos, poniéndose en cada uno de éstos, el número que corresponda al de las escrituras o actas a que se refiera y en cada uno de los documentos se pondrá una letra que los señale y distinga de los otros que forman el legajo. Los expedientes que deban protocolizarse por mandato judicial podrán sacarse del Apéndice del volumen respectivo, dejándose copia certificada del mismo, cuando así lo requiera una autoridad judicial y siempre que la petición sea fundada en derecho. En todo caso el expediente o la copia del mismo que obre en el apéndice se considerará como un solo documento.
+Cuando estén por utilizarse los últimos folios que tenga el notario, éste solicitará por escrito a la Secretaría General de Gobierno la autorización de nuevos folios en los que habrá de continuar actuando. Dicha oficina los legalizará y entregará al notario interesado en el momento en que éste los solicite por escrito, manifestando la fecha en que ha cerrado sus libros anteriores, excepto la del cierre del libro que conformarán los folios que se encuentran en uso.
+
+Los requisitos establecidos en este artículo y en el que antecede, deberán cumplirse por el notario o en su defecto por la persona que lo sustituya en sus funciones en el momento en que se haga necesario tanto el cierre de libro, como la autorización para la utilización de nuevos folios.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 29.
 
-Los apéndices se encuadernarán ordenadamente y se empastarán al concluir el libro del protocolo a que pertenezcan, o antes si han llegado a trescientos documentos. En hojas agregadas al principio y al fin de cada apéndice, se hará constar el número de documentos y a qué volumen del protocolo pertenecen.
+Sólo el Notario o por orden judicial podrá sacar de la notaría los folios, libros o sus apéndices exclusivamente en los casos determinados por la presente ley.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Los documentos del apéndice no podrán desglosarse salvo el caso a que se refiere el Artículo 28. Los conservará el notario y seguirán a su libro respectivo del protocolo, cuando éste deba ser entregado al Registro Público de la Propiedad.
+El Notario llevará una carpeta por cada libro en donde irá depositando los documentos que se refieren a las escrituras públicas y actas notariales asentadas dentro del protocolo a su cargo. El contenido de estas carpetas se llama “apéndice”, el cual se considera como parte integrante del protocolo.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 31.
 
-Independientemente del protocolo, los notarios tendrán obligación de llevar un índice duplicado de cada libro, de todos los instrumentos que autoricen, por orden alfabético por apellidos de cada otorgante y de su representado, con expresión del número del acta, naturaleza del acto o hecho, folio, volumen y fecha. Cuando llegue la vez de entregar los libros del protocolo al Registro Público de la Propiedad, se entregará un ejemplar de dicho índice al mismo registro, y el otro, lo conservará el Notario.
+Los documentos del apéndice se arreglarán por legajos, poniéndose en cada uno de aquellos el número de notaría, el número del libro o volumen al que pertenecerá y el número de instrumento al que se refiere. En cada uno de dichos documentos se pondrá, además, una letra que los señale y distinga de los otros que forman el legajo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 1987)</small>
+Los expedientes que se protocolicen por mandato judicial se devolverán al juzgado de su procedencia agregando al apéndice copia certificada de lo conducente, a juicio del notario, en la inteligencia de que en este último caso se marcarán con una sola letra aunque consten de más de un cuaderno.
+
+Los apéndices deberán encuadernarse ordenadamente y empastarse sólidamente en uno o más libros, con un máximo de trescientas hojas cada uno. En hojas agregadas al principio y al final de cada apéndice, se hará constar el libro del protocolo a que pertenece y el número de documentos que lo conforman.
+
+Estos apéndices, seguirán a su libro cuando éste sea entregado al Registro Público de la Propiedad y del Comercio para su certificación o, en su caso, archivo definitivo; en este último supuesto, los apéndices ya deberán estar empastados sólidamente.
+
+No pueden desglosarse los documentos del apéndice, de los cuales el notario sólo podrá expedir las copias certificadas que procedan.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE ABRIL DE 2007)</small>
 
 ### CAPITULO SEGUNDO BIS
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+###### ARTICULO 31
+
+1.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-1.- Los Notarios llevarán un protocolo abierto especial para los actos, contratos o convenios que celebren los organismos públicos de vivienda, que tengan por objeto derechos reales sobre lotes, viviendas o unidades habitacionales, de propiedad exclusiva en fraccionamientos de interés social o condominios habitacionales de orden público.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+2.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-2.- El protocolo abierto especial se formará con las hojas sueltas debidamente foliadas, selladas y autorizadas que entregue la Secretaría General de Gobierno a los Notarios. Estas, ordenadas, se agruparán formando volúmenes de ciento cincuenta hojas como en el protocolo ordinario. Los instrumentos y volúmenes del protocolo abierto especial se numerarán progresivamente con numeración independiente del protocolo ordinario, asentado antes del número las siglas PAE.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+3.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-3.- Las hojas que integren el protocolo abierto tendrán las características que por acuerdo fije el Ejecutivo del Estado y se entregarán mediante recibo especial a los Notarios sin cargo de derechos.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+4.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-4.- Por cada volumen del PAE, el Notario llevará un libro de control, encuadernado y empastado. Asentado un instrumento en el PAE, el Notario deberá hacerlo constar de inmediato en el libro de control, indicando número, fecha, fojas utilizadas, naturaleza del acto y nombre de las partes.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+5.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-5.- Cuando se inutilice alguna hoja antes de que el instrumento sea autorizado previamente, el Notario podrá sustituirla por otra aún cuando no sea de numeración sucesiva, debiendo asentar la nota en el libro de control, y al pie del instrumento correspondiente anotando la foja inutilizada, y la empleada con sustitución. En la foja que siga a la intercalada se asentará la mención de que la faltante entre aquélla y la que precede se usó en sustitución de otro, precisando los números de las hojas intercaladas y los números de las fojas entre las cuales se intercaló. Las hojas inutilizadas deberán entregarse a la Secretaría General de Gobierno.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+6.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-6.- Todo instrumento se iniciará al principio de una hoja, y después de la autorización definitiva el Notario asentará como notas al calce las que en protocolo cerrado se asientan al margen. Si la parte de la hoja no fuere suficiente, las anotaciones se harán en hojas comunes que se agregarán al apéndice, selladas y firmadas por el Notario consignando el número del instrumento correspondiente.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+7.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-7.- Cuando se vayan a otorgar diversos actos con un mismo antecedente, el Notario podrá optar por el procedimiento siguiente:
-
-a).- En un primer instrumento que se denominará de certificación de antecedentes y de personalidad, a solicitud de persona interesada, se relacionarán los títulos y documentos necesarios para el otorgamiento de los actos;
-
-b).- En los instrumentos subsecuentes ya no se relacionarán los antecedentes ni la personalidad, sino se hará mención de su otorgamiento y que conforme al mismo, quien dispone, puede hacerlo legítimamente, citando siempre el antecedente registral y los gravámenes que existieren;
-
-c).- Cuando las escrituras de lotificación o las de constitución del régimen de condominio se hayan otorgado ante el mismo Notario ante quien se vayan a otorgar los actos sucesivos, aquéllas surtirán los efectos de instrumento de certificación de antecedentes; y
-
-d).- Al expedir los testimonios de instrumentos el Notario deberá anexar una certificación que contenga en lo conducente, la relación de antecedentes que obren en el instrumento de certificación respectivo.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+8.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-8.- El Notario, al utilizar la hoja ciento cincuenta, cerrará el volumen, procediendo para su clausura en lo conducente, en los términos del Artículo 23 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+9.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-9.- A partir de la fecha en que se haga la anotación de clausura de volumen, el Notario dispondrá de un término de tres meses para encuadernarlo y empastarlo.
-
-Dentro del término de treinta días hábiles siguientes a la fecha en que debe estar encuadernado cada volumen, el Notario deberá enviarlo al Registro Público de la Propiedad. Dicha oficina revisará la exactitud de las anotaciones y razones que contenga con arreglo al Artículo 23 de esta Ley, cuyas disposiciones serán aplicables en lo conducente.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
+10.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ###### ARTICULO 31
 
-10.- Previo acuerdo con el Gobierno del Estado, el Notario podrá utilizar el PAE para programas de escrituración de interés social aún cuando no intervengan organismos públicos.
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1987)</small>
-
-###### ARTICULO 31
-
-11.- Serán aplicables al PAE en lo que no se opongan las demás disposiciones de la presente Ley.
+11.- (DEROGADO, P.O. 16 DE ABRIL DE 2007)
 
 ### CAPITULO TERCERO. DE LAS ESCRITURAS
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 32.
 
-Escritura es el instrumento original que el notario asienta en el protocolo para hacer constar un acto jurídico y que tiene la firma y el sello del notario.
+Los notarios tendrán obligación de llevar un índice de todos los instrumentos que autoricen. Los índices se formarán por duplicado de cada libro o volumen y se llevarán por orden alfabético por apellidos o denominación de cada otorgante y de su representado, en su caso, con expresión del número del instrumento, naturaleza del acto o hecho, folio, libro y fecha.
+
+Un ejemplar de dicho índice deberá integrarse a los folios correspondientes, llegado el momento, el mismo deberá encuadernarse y empastarse sólidamente con el libro o volumen al que corresponda en los términos señalados por el segundo párrafo del Artículo 27 de esta ley. El otro ejemplar, lo conservará el notario.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 33.
 
-Las escrituras se asentarán empleándose tinta indeleble, letra clara, sin abreviaturas, salvo el caso de inserción de documentos que serán transcritos con las abreviaturas y guarismos que contengan. Tampoco se usarán guarismos a no ser que la misma cantidad se asiente en letras, excepción de aquellos casos en que sea preciso para mayor claridad usar solamente guarismos. Los blancos o huecos, si los hubiere, se cubrirán con líneas de tinta fuertemente grabadas, precisamente antes de que se firme la escritura. Las palabras equivocadas o inútiles, se testarán cruzándolas con una línea que las deje legibles; las faltantes, se entrerrenglonarán indicando con una línea el lugar a que corresponden; unas y otras se salvarán al final del acta reproduciéndolas íntegramente, anotando las testadas como no válidas y las entrerrenglonadas, como valederas. Se prohiben las enmendaturas (sic) y raspaduras.
+Los notarios guardarán en su archivo los libros en los que conste la razón de cierre en los términos del Artículo 27 de esta Ley y sus apéndices e índices, durante el período de dos años contados a partir de la fecha de la certificación relativa a la mencionada razón de cierre.
+
+A la expiración de dicho término, el notario entregará junto con los apéndices e índices, los libros de protocolo al Registro Público de la Propiedad y del Comercio, donde quedarán definitivamente guardados, y en el cual los interesados podrán obtener ulteriores testimonios, copias de los mismos y certificaciones que puedan entregarse de acuerdo a la Ley.
 
 ###### ARTICULO 34.
 
@@ -439,9 +459,31 @@ El notario no podrá autorizar acto alguno, sino haciéndolo constar en el proto
 
 La obligación que tiene el notario de redactar las cláusulas de los testamentos públicos abiertos, no implica el deber de escribirlas el notario, por sí mismo.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 54.
 
-Siempre que se otorgue un testamento público abierto o cerrado, los notarios darán en seguida aviso al Registro Público de la Propiedad, expresando la fecha, nombre del testador y sus generales; y si el testamento fuere cerrado, además el lugar o persona en cuyo poder se deposite. Si el testador expresare en su testamento el nombre de sus padres, también se dará este dato al Registro. Este llevará un libro especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan. Los jueces ante quienes se denuncie un intestado recabarán del Registro, desde luego, la noticia de si hay anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trata.
+Siempre que se otorgue un testamento público abierto o cerrado, los notarios darán dentro de los dos días hábiles siguientes aviso al Registro Público de la Propiedad y del Comercio del Estado, mediante documento que deberá reunir los requisitos siguientes:
+
+a) Generales del otorgante;
+
+b) Nombre completo del padre y la madre del otorgante;
+
+c) Tipo de testamento;
+
+d) Número de escritura, fecha y lugar de otorgamiento;
+
+e) Nombre completo del notario, carácter del nombramiento con el que actúa y número de la notaría a su cargo;
+
+f) Si se establecieron disposiciones de contenido irrevocable; y
+
+g) Si el testamento fuere cerrado, además el lugar o persona en cuyo poder se deposite.
+
+El Registro Público del Estado llevará un control especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan y, a su vez, los remitirá al Registro Nacional de Avisos de Testamento de conformidad a las disposiciones legales aplicables.
+
+Los jueces y notarios ante quienes se tramite una sucesión recabarán del Registro Público del Estado, desde luego, la noticia de si hay anotación en dicho control, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trata, informando además de la existencia de disposiciones otorgadas con carácter de irrevocables.
+
+Recibidas dichas solicitudes, el Registro Público del Estado solicitará el reporte de búsqueda al Registro Nacional de Avisos de Testamentos e incluirá su resultado en los informes correspondientes.
 
 ###### ARTICULO 55.
 
@@ -699,13 +741,13 @@ Los notarios asociados abrirán el protocolo común poniendo en él, inmediatame
 
 ### CAPITULO SEGUNDO. DE LOS NOTARIOS DE NUMERO Y SUPERNUMERARIOS
 
-> <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
+(REFORMADO, P.O. 16 DE ABRIL DE 2007) (F. DE E., P.O. 28 DE MAYO DE 2007)
 
 ###### ARTICULO 86.
 
-En el Estado de Aguascalientes, habrá una notaría de número por cada veinticinco mil habitantes o fracción que exceda de diez mil, tomándose como base el último censo oficial; y, cuando los datos de éste sean inoperantes, se estará a aquellos que proporcione el Departamento de Información y Estadística del Gobierno del Estado. Los notarios tendrán su residencia en el partido judicial que les asigne el Gobernador del Estado, conforme a la división que de éstos se establece en el Artículo 33 de la Ley Orgánica del Poder Judicial del Estado.
+En el Estado de Aguascalientes, habrá una notaría de número por cada veinte mil habitantes, tomándose como base el último Censo General de Población, actualizado por la Dependencia encargada de asuntos de población del Gobierno del Estado.
 
-El Ejecutivo designará a los notarios supernumerarios que estime convenientes.
+Los notarios tendrán su residencia en el Partido Judicial que les asigne el Titular del Poder Ejecutivo, conforme a la división que de éstos se establece en el Artículo 33 de la Ley Orgánica del Poder Judicial del Estado. El Titular del Poder Ejecutivo designará a los notarios supernumerarios que estime convenientes.
 
 > <small>(F. DE E., P.O. 22 DE JUNIO DE 1980)</small>
 
@@ -1086,3 +1128,21 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 16 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Las reformas contenidas en el presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Poder Ejecutivo deberá proveer administrativamente lo conducente, en la esfera de su competencia, en relación con la implementación del sistema de Protocolo Abierto, así como de los demás artículos cuyas reformas iniciarán su vigencia dentro del término a que se refiere el artículo que antecede.
+
+###### ARTICULO TERCERO.
+
+Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecido en el artículo primero. Los notarios podrán optar por el uso de Protocolo Abierto o Cerrado, hasta el día treinta y uno de diciembre del año en curso, toda vez que a partir del día primero de enero del año dos mil ocho, será obligatorio la utilización del Protocolo Abierto.
+
+###### ARTICULO CUARTO.
+
+El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
