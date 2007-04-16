@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-coordinadora-de-turismo-para-el-estado-de-15184
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "1999-07-11"
+last_updated: "2007-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY QUE CREA LA COORDINADORA DE TURISMO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 11 de julio de 1999.
 
@@ -382,3 +384,19 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley que crea la Coordinadora de Turismo para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 11 de julio de 1999, y la Ley que crea el Organismo Público Descentralizado "Operadora de Servicios Turísticos de Aguascalientes", publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 18 de mayo de 1980.
+
+###### ARTICULO TERCERO.
+
+La Secretaría deberá emitir el reglamento correspondiente dentro de los 120 días siguientes a la entrada en vigor de la presente Ley.
