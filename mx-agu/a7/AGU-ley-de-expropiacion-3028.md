@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-expropiacion-3028"
 country: "mx"
 rank: "ley"
 publication_date: "1945-09-02"
-last_updated: "1945-09-02"
+last_updated: "2007-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de septiembre de 1945.
 
@@ -216,3 +218,15 @@ Al C. Gobernador Constitucional del Estado.- Presente.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Palacio de Gobierno del Estado. Aguascalientes, 30 de agosto de 1945.- J.M. Rodríguez.- El Srio., Gral. de Gobierno, M. Hinojosa Ortiz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la ley de Expropiación aprobada por la XXXVI Legislatura del Congreso del Estado, con fecha 29 de agosto de 1945 y publicada en el Periódico Oficial del Estado del 2 de septiembre de 1945, así como las disposiciones que se opongan al presente ordenamiento.
