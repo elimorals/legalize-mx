@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2006-04-10"
+last_updated: "2007-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2007.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1263,7 +1263,7 @@ II.- Que alguno de ellos traslade su domicilio a un país extranjero, a no ser q
 
 III.- Que uno de los cónyuges realice actos de violencia familiar contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
-En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más conveniente.
+En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más convenientes.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
@@ -7935,6 +7935,8 @@ DE LA FORMA DE LOS TESTAMENTOS.
 
 DEL TESTAMENTO PUBLICO ABIERTO.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### Artículo 1411.
 
 El testamento, en cuanto a su forma, es ordinario o especial.
@@ -7977,9 +7979,11 @@ VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuges o he
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### Artículo 1415.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma español, concurrirá al acto y firmará el testamento, además de los testigos y el notario, un intérprete nombrado por el mismo testador, debiendo el testador estampar su huella digital.
 
 ###### Artículo 1416.
 
@@ -8015,7 +8019,7 @@ DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 1423.
 
-Testamento público abierto, es el que se otorga ante Notario y tres testigos idóneos.
+Testamento público abierto, es el que se otorga ante notario y dos testigos idóneos.
 
 ###### Artículo 1424.
 
@@ -8025,9 +8029,11 @@ El testador expresará de un modo claro y terminante su voluntad al Notario y a 
 
 Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### Artículo 1426.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+Si el testador no pudiere o no supiere firmar, intervendrá otro testigo mas, que firme a su ruego, debiendo imprimir el testador su huella digital.
 
 ###### Artículo 1427.
 
@@ -8037,17 +8043,19 @@ En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará 
 
 El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### Artículo 1429.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1424 y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+Cuando el testador sea ciego o no sabe o puede leer, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el Artículo 1424 y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### Artículo 1430.
 
-Cuando el testador ignore el español, si puede, escribir de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1415. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
+Cuando el testador ignore el español, si puede, escribirá de su puño y letra su testamento, que será traducido al español por el intérprete a que se refiere el Artículo 1415. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe leer o escribir, el intérprete, escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
 
 ###### Artículo 1431.
 
@@ -11515,7 +11523,7 @@ Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que s
 
 ###### Artículo 2131.
 
-Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
+Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, u ocultare en él especies de inferior clase y calidad de las que están a la vista.
 
 ###### Artículo 2132.
 
@@ -12315,7 +12323,7 @@ El arrendatario está obligado a poner en conocimiento del arrendador, a la brev
 
 ###### Artículo 2287.
 
-Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento que se establezca en el Código de Procedimientos Civiles.
+Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento que establezca el Código de Procedimientos Civiles.
 
 ###### Artículo 2288.
 
@@ -12663,7 +12671,7 @@ Cuando se arrienden dos o más animales que forman un todo, como una yunta o un 
 
 ###### Artículo 2345.
 
-El que contrate uno o más animales especificados individualmente, que antes de ser entregados al arrendatario se inutilizaren sin culpa del arrendador, quedará enteramente libre de la obligación si ha avisado al arrendatario inmediatamente después que se inutilizó el animal; pero si éste se ha inutilizado por culpa del arrendador o si no se ha dado el aviso, estará sujeto al pago de daños y perjuicios, o a reemplazar el animal, a elección del arrendatario.
+El que contrate uno o más animales especificados individualmente, que antes de ser entregados al arrendatario se inutilizaren sin culpa del arrendador, quedará enteramente libre de la obligación se ha avisado al arrendatario inmediatamente después que se inutilizó el animal; pero si éste si ha inutilizado por culpa del arrendador o si no se ha dado el aviso, estará sujeto al pago de daños y perjuicios, o a reemplazar el animal, a elección del arrendatario.
 
 ###### Artículo 2346.
 
@@ -15619,19 +15627,23 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
 ###### Artículo 2891.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, excepto en el caso previsto en el Artículo 2187 en que el fedatario está obligado a hacerlo, dar a la Oficina del Registro Público de la Propiedad un primer aviso preventivo al solicitar el certiifcado (sic) sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos. Dicho aviso deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de 30 días naturales contados a partir de la fecha de su presentación.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, deberá solicitar del Registro Público de la Propiedad el certificado sobre la existencia o inexistencia de la inscripción a favor del titular registral, sobre las anotaciones preventivas y los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos.
 
-Si mientras tanto se presentaren al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días hábiles posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+En dicha solicitud, que surtirá efectos de primer aviso preventivo, deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir el antecedente registral. El registrador, con esta solicitud, y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de cincuenta días naturales contados a partir de la fecha de su presentación.
 
-Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo primero, el Notario o autoridad ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo primero, la fecha de la escritura y la de su firma. El Registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de treinta días a que se contrae el párrafo primero, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+Derivado de la solicitud referida, se deberá expedir a costa del solicitante el Certificado correspondiente, en el que se hagan constar las anotaciones a que se refiere el primer párrafo de este artículo.
+
+Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los cincuenta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+
+Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo primero, la fecha de la escritura y la de su firma. El Registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto y una vigencia por un término de noventa días naturales a partir de la fecha de su presentación para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan.
+
+En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de cincuenta días a que se contrae el párrafo primero, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
 Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los párrafos primero y segundo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
-
-Si el documento en que conste alguna de las operaciones que se mencionan en párrafos anteriores, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este artículo, el Notario, el Registrador, o la Autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes y el mencionado aviso producirá los mismos efectos que el dado por el Notario en caso de escrituras públicas.
 
 ###### Artículo 2892.
 
@@ -15984,3 +15996,21 @@ P.O. 10 DE ABRIL DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Las reformas contenidas en el presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Poder Ejecutivo deberá proveer administrativamente lo conducente, en la esfera de su competencia, en relación con la implementación del sistema de Protocolo Abierto, así como de los demás artículos cuyas reformas iniciarán su vigencia dentro del término a que se refiere el artículo que antecede.
+
+###### ARTICULO TERCERO.
+
+Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecido en el artículo primero, los notarios podrán optar por el uso del Protocolo Abierto o Cerrado, hasta el día treinta y uno de diciembre del año en curso, toda vez que a partir del día primero de enero del año dos mil ocho, será obligatorio la utilización del Protocolo Abierto.
+
+###### ARTICULO CUARTO.
+
+El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
