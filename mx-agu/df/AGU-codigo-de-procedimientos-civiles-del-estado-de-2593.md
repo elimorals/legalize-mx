@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2006-12-11"
+last_updated: "2007-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2007.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -4197,9 +4197,11 @@ Los herederos o legatarios que no se presenten al juicio de la sucesión, tienen
 
 Las resoluciones que el juez dicte en los juicios hereditarios, cuando exista interés fiscal, se notificará también a los representantes de la Hacienda Pública Federal y del Estado, según corresponda, para que promuevan lo que competa al ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 672.
 
-Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquel, para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formación.
+El juez competente ante quien se inicie un procedimiento sucesorio deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de la búsqueda correspondiente al Registro Público de la Propiedad y del Comercio del Estado, quien incluirá en su informe el reporte de búsqueda que a su vez solicite al Registro Nacional de Avisos de Testamento, siempre y cuando el promoverte no haya exhibido este informe con su denuncia. Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél, para abrir el juicio de testamentaria, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formación.
 
 ###### ARTICULO 673.
 
@@ -4793,19 +4795,23 @@ Contra la sentencia que apruebe o repruebe la partición, procede el recurso de 
 
 Cuando todos los herederos fueren mayores de edad y hubieran sido instituídos en un testamento público abierto, la testamentaría podrá ser extrajudicial con intervención de un Notario, mientras no hubiere controversia alguna, con arreglo a lo que se establece en los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 775.
 
 El albacea, si lo hubiera y los herederos, exhibiendo el atestado de registro civil relativo a la defunción del autor de la herencia y un testimonio del testamento, se presentarán ante Notario para hacer constar:
 
-I.- Que se reconocen entre sí sus derechos hereditarios;
+I. Que se reconocen entre sí sus derechos hereditarios;
 
-II.- Que aceptan la herencia;
+II. Que aceptan la herencia;
 
-III.- Que hacen designación de albacea, en su caso; y,
+III. Que hacen designación de albacea, en su caso; y
 
-IV.- Aceptación del albacea del cargo.
+IV. Aceptación del albacea del cargo.
 
 El Notario dará a conocer estas declaraciones por medio de una publicación en el Periódico Oficial y en un diario de los de circulación estatal.
+
+El Notario ante quien se inicie extrajudicialmente una testamentaria tendrá la obligación de recabar el informe de que el testamento exhibido es el último otorgado por el autor de la herencia mediante la solicitud de la búsqueda correspondiente al Registro Público de la Propiedad y del Comercio del Estado, quien incluirá en su informe el reporte de búsqueda que, a su vez, solicite al Registro Nacional de Avisos de Testamento.
 
 ###### ARTICULO 776.
 
@@ -5646,3 +5652,21 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 11 DE DICIEMBRE DE 2006.
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ABRIL DE 2007.
+
+###### ARTICULO PRIMERO.
+
+Las reformas contenidas en el presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Poder Ejecutivo deberá proveer administrativamente lo conducente, en la esfera de su competencia, en relación con la implementación del sistema de Protocolo Abierto, así como de los demás artículos cuyas reformas iniciarán su vigencia dentro del término a que se refiere el artículo que antecede.
+
+###### ARTICULO TERCERO.
+
+Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecido en el artículo primero, los notarios podrán optar por el uso del Protocolo Abierto o Cerrado, hasta el día treinta y uno de diciembre del año en curso, toda vez que a partir del día primero de enero del año dos mil ocho, será obligatorio la utilización del Protocolo Abierto.
+
+###### ARTICULO CUARTO.
+
+El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
