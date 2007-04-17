@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-del-estado-de-34827"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2003-11-04"
+last_updated: "2007-04-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 4 de noviembre de 2003.
 
@@ -621,6 +621,10 @@ III. Identificación de los datos e informaciones que requiere.
 
 IV. Lugar o medio señalado para recibir la información.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
+
+En caso de que el peticionario realice la solicitud por medios remotos de comunicación, no será necesario incluir firma autógrafa, si no que podrá ser sustituida por un nombre de usuario en los términos de las disposiciones reglamentarias que para tal efecto se expidan.
+
 ###### ARTÍCULO 41.
 
 LA SUBSANABILIDAD DE LA SOLICITUD. Si la solicitud es obscura o no contiene todos los datos requeridos, la entidad pública deberá hacérselo saber por escrito al solicitante, en un plazo no mayor de tres días hábiles después de recibida aquélla, a fin de que la aclare o complete.
@@ -657,13 +661,17 @@ LA INADMISIÓN DE LA SOLICITUD. En el caso de que la solicitud sea rechazada, se
 
 Si los vicios o irregularidades de la solicitud son inesenciales, la entidad pública deberá proveer lo necesario para que la persona pueda acceder en forma efectiva a la información pública solicitada.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 46.
 
-LA GARANTÍA DE CONTESTACIÓN DE LA SOLICITUD DE ACCESO A LA INFORMACIÓN PÚBLICA. Toda solicitud de información pública deberá ser contestada en forma positiva o negativa en un plazo no mayor de diez días hábiles a su presentación.
+LA GARANTÍA DE CONTESTACIÓN DE LA SOLICITUD DE ACCESO A LA INFORMACIÓN PÚBLICA. Toda solicitud de información pública presentada por escrito o en forma verbal, deberá ser contestada en forma positiva o negativa en un plazo no mayor de diez días hábiles contados a partir del día siguiente de su presentación.
 
 El plazo se podrá prorrogar en forma excepcional por otros diez días hábiles de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la entidad pública deberá comunicar al interesado, antes del vencimiento del plazo de diez días, las razones por las cuales hará uso de la prórroga excepcional.
 
 En ningún caso el plazo excederá de veinte días hábiles.
+
+Las solicitudes realizadas por medios remotos de comunicación deberán ser contestadas en forma positiva o negativa en un plazo no mayor a veinte días hábiles. El plazo se podrá prorrogar en forma excepcional por diez días hábiles más, cuando medien circunstancias que hagan difícil reunir la información solicitada. En ningún caso este plazo excederá de treinta días hábiles.
 
 ###### ARTÍCULO 47.
 
@@ -946,3 +954,17 @@ SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA.
 EL SECRETARIO DE FINANZAS.
 
 LIC. JAVIER GUERRERO GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2007)</small>
+
+SEGUNDO. Los sujetos obligados a proporcionar la información según lo previsto en la Ley de Acceso a la Información Pública, contarán con trescientos días naturales después de la publicación del presente Decreto, para que en el ámbito de su capacidad técnica y presupuestal, realicen las acciones necesarias para dar cumplimiento al presente.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2007)</small>
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
