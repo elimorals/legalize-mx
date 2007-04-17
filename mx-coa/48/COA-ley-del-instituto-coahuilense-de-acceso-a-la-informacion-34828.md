@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2006-12-12"
+last_updated: "2007-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -301,6 +301,10 @@ VII. El Congreso del Estado, con base en el dictamen de la Comisión de Gobernac
 
 VIII. En caso de que no se obtenga la votación calificada, el Congreso del Estado solicitará de nueva cuenta a la Comisión de Gobernación y Puntos Constitucionales, que elabore una nueva propuesta de dictamen, en forma parcial o total, según se acuerde.
 
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2007)</small>
+
+IX. El Congreso del Estado, podrá convocar al Instituto Electoral y de Participación Ciudadana para decidir, por el voto de las dos terceras partes de los diputados presentes, la posible ratificación de los consejeros que se encuentren en funciones, para lo cual tomará en consideración el desempeño durante el encargo.
+
 ###### ARTÍCULO 34.
 
 LOS REQUISITOS PARA SER CONSEJEROS. Para ser designado consejero del Instituto, se deberán cumplir los requisitos siguientes:
@@ -323,9 +327,11 @@ VIII. No tener antecedentes de una militancia activa o pública y notoria en alg
 
 IX. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 35.
 
-LA TOMA DE PROTESTA DE LOS CONSEJEROS. Los consejeros rendirán la protesta de ley ante el Congreso del Estado, o en sus recesos, ante la Diputación Permanente, y durarán en su encargo siete años a partir del día en que surta efectos su designación.
+LA TOMA DE PROTESTA DE LOS CONSEJEROS. Los consejeros rendirán la protesta de ley ante el Congreso del Estado, o en sus recesos, ante la Diputación Permanente, y durarán en su encargo siete años a partir del día en que surta efectos su designación, podrán ser reelectos por una sola vez para un periodo igual, en los términos previstos por el artículo 33 de ésta ley.
 
 ###### ARTÍCULO 36.
 
@@ -924,3 +930,9 @@ P.O. 12 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
