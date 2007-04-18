@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-52692"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2007-04-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Sinaloa, el viernes 29 de diciembre de 2007.
 
@@ -39,9 +39,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TÍTULO PRIMERO. DE LOS INGRESOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2007, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $19,544,316,045 (Diecinueve mil quinientos cuarenta y cuatro millones trescientos dieciséis mil cuarenta y cinco pesos 00/100 M.N.).
+En el ejercicio fiscal del año 2007, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $20'472'227,407 (Veinte mil cuatrocientos setenta y dos millones doscientos veintisiete mil cuatrocientos siete pesos 00/100 M.N.).
 
 Concepto Montos
 
@@ -299,13 +301,17 @@ Fortalecimiento de las Entidades Federativas 651,280,154
 
 b) Alimentación de Reos Federales 36,822,500
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2007)</small>
+
 IX.- INGRESOS DERIVADOS
 
-DE ENDEUDAMIENTO 0
+DE ENDEUDAMIENTO 927,911,362
 
-a) Empréstitos, hasta la cantidad de: 0
+a) Empréstitos, hasta la cantidad de: 927,911,362
 
-T O T A L: 19,544,316,045
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+T O T A L: $20,472,227,407
 
 El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas informará al H. Congreso del Estado respecto de los ingresos reales que se obtengan en los términos y modalidades que establece la fracción VI del Artículo 65 de la Constitución Política del Estado, al remitir, antes de la apertura del primero y segundo periodo ordinario de sesiones, la cuenta pública correspondiente.
 
@@ -423,9 +429,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPÍTULO SEGUNDO. DE LAS EROGACIONES
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-El gasto neto total previsto en el presente Presupuesto, importa la cantidad de $19,544,316,045 (Diecinueve mil quinientos cuarenta y cuatro millones trescientos dieciséis mil cuarenta y cinco pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2007 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente Presupuesto, importa la cantidad de $20,472'227,407 (Veinte mil cuatrocientos setenta y dos millones doscientos veintisiete mil cuatrocientos siete pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2007 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 16.
 
@@ -437,7 +445,9 @@ Subfunción
 
 Programa Montos
 
-Total $19,544,316,045
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+Total $20,472,227,407
 
 01 Legislación 140,896,761
 
@@ -529,7 +539,9 @@ Procesos Electorales 286,116,322
 
 28 Procesos Electorales 286,116,322
 
-06 Hacienda Pública 3,791,541,761
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2007)</small>
+
+06 Hacienda Pública $4,719,453,123
 
 01 Administrar los Ingresos 213,134,759
 
@@ -541,9 +553,13 @@ Procesos Electorales 286,116,322
 
 Hacienda Pública 30,409,427
 
-03 Deuda Pública 204,057,975
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2007)</small>
 
-33 Deuda Pública 204,057,975
+03 Deuda Pública 1,131,969,337
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2007)</small>
+
+33 Deuda Pública 1,131,969,337
 
 04 Administrar los Recursos para el
 
@@ -2815,7 +2831,25 @@ Vialidades (FEIEF) 132,067,044
 
 0902200901 Ingresos Excedentes 75,786,000
 
-10 Deuda Pública 204,057,975
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2007)</small>
+
+10 Deuda Pública 1,131,969,337
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+1001 Deuda Pública 1,131,969,337
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+100121 Amortización 927,911,362
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+10012101 Amortización 927,911,362
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+1001210102 Amortización 927,911,362
 
 1002 Intereses y Gastos 204,057,975
 
@@ -2831,13 +2865,15 @@ Así mismo, el monto referido en la clasificación administrativa por capítulo,
 
 El Presupuesto clasificado por Gasto Corriente y de Capital es el siguiente:
 
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2007)</small>
+
 Concepto Montos
 
-Total $ 19,544,316,045
+Total $ 20,472,227,407
 
 Gasto Corriente 16,857,886,425
 
-Gasto de Capital 2,686,429,620
+Gasto de Capital 3,614,340,982
 
 ###### ARTÍCULO 19.
 
@@ -2845,7 +2881,9 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Capítulo Montos
 
-Total $ 19,544,316,045
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+Total $ 20,472,227,407
 
 Servicios Personales 3,906,419,944
 
@@ -2865,7 +2903,9 @@ Inversiones Financieras 1,338,285,318
 
 Participaciones a Municipios 1,604,684,045
 
-Deuda Pública 204,057,975
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+Deuda Pública 1,131,969,337
 
 ###### ARTÍCULO 20.
 
@@ -3663,6 +3703,12 @@ de México 6,698,922
 
 Convergencia 6,712,638
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+###### ARTÍCULO 26 Bis.
+
+Los ingresos derivados de endeudamiento a que se refiere el artículo 1, fracción IX, inciso a) de esta Ley, serán destinados exclusivamente al refinanciamiento de la deuda pública directa aprobada con anterioridad por el Congreso del Estado y contraída por el Ejecutivo Estatal, para inversión pública productiva.
+
 ### CAPÍTULO TERCERO. DISPOSICIONES DE RACIONALIDAD Y AUSTERIDAD PRESUPUESTARIA
 
 ###### ARTÍCULO 27.
@@ -3942,3 +3988,9 @@ El Secretario de Administración y Finanzas
 Lic. Oscar J. Lara Aréchiga.
 
 > <small>N. DE E. VEASE ANEXOS DE LA CLASIFICACION ADMINISTRATIVA POR UNIDAD RESPONSABLE Y CAPITULO POR OBJETO DEL GASTO PARA EL EJERCICIO FISCAL 2007, EN LA SEGUNDA SECCION DEL P.O. DE 29 DE DICIEMBRE DE 2006, PAGS. 64-118.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE ABRIL DE 2007.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
