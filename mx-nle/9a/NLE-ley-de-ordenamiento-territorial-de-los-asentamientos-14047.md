@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ordenamiento-territorial-de-los-asentamientos-14047"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-03"
-last_updated: "2006-12-28"
+last_updated: "2007-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de marzo de 1999.
 
@@ -2873,7 +2873,9 @@ I.- Sujetarse a los planes y programas de desarrollo urbano y la zonificación e
 
 II.- Respetar los alineamientos de las vías públicas o de comunicación con su anchura correspondiente o prevista. Queda prohibida la obstrucción de esas vías, así como la de cauces pluviales y cañadas;
 
-III.- En la autorización de nuevas edificaciones en terrenos no comprendidos en fraccionamiento autorizado o regularizado, se cederá una superficie a favor del municipio en los términos del artículo 149.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2007)</small>
+
+III.- En nuevas edificaciones en terrenos no comprendidos en fraccionamiento autorizado o regularizado, se cederá una superficie a favor del municipio en los términos del Artículo 149 de esta Ley.
 
 Se pagarán también los derechos o cuotas de incorporación a los servicios públicos que corresponda. Ambos requisitos se tendrán por satisfechos, si el terreno estuviera incluido en fraccionamiento u otras formas a través de las cuales se hubieren cumplido tales obligaciones;
 
@@ -3940,3 +3942,7 @@ P.O. 28 DE DICIEMBRE DE 2006.
 DECRETO Núm. 31
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
+
+P.O. 18 DE ABRIL DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
