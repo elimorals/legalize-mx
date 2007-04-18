@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2006-10-20"
+last_updated: "2007-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1203,33 +1203,25 @@ Para los efectos de los capítulos I, II y III de este Título, se entiende por 
 
 ###### ARTICULO 132.
 
-Se le impondrá de tres días a dos años de prisión, al que comunique dolosamente a una o más personas la imputación que se hace a una persona física o moral de un hecho cierto o falso, determinado o indeterminado que pueda causarle deshonra o afecte su reputación.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 133.
 
-Al acusado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación salvo en dos casos:
-
-I.- Cuando la imputación se haya hecho a un Servidor Público o Agente de la Autoridad y esté relacionado con el ejercicio de sus funciones, y
-
-II.- Cuando el acusado obre con motivo de interés público o por interés privado, pero legítimo y sin ánimo de dañar.
-
-En estos dos casos se librará de sanción al acusado si probare su imputación.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ### CAPITULO PRIMERO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
 ###### ARTICULO 134.
 
-Se aplicará prisión de tres meses a tres años y multa de veinte a doscientos días multa, al que públicamente impute a otro un delito cuando el hecho sea falso, o sea inocente la persona a quien imputa.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 135.
 
-No se admitirá prueba de la imputación al acusado de calumnia cuando exista sentencia ejecutoria que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 136.
 
-Cuando haya pendiente un proceso que se instruya por un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que se dicte resolución irrevocable que ponga fin al mismo.
-
-En este caso, la prescripción comenzará a correr cuando termine el juicio.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ### CAPITULO II. RETENCION Y SUSTRACCIÓN DE PERSONAS MENORES DE EDAD O QUE NO TENGAN LA CAPACIDAD DE COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -1237,23 +1229,23 @@ En este caso, la prescripción comenzará a correr cuando termine el juicio.
 
 ###### ARTICULO 137.
 
-No se procederá contra el autor de difamación o calumnia, sino por querella del ofendido o su legítimo representante.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 138.
 
-Los escritos, estampas o cualesquiera otra cosa que hubiere servido de medio para causar la difamación o la calumnia, se decomisarán e inutilizarán a menos que se trate de algún documento o transmisión de derechos.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 139.
 
-Siempre que sea condenado el responsable de un delito de difamación o calumnia, se hará publicación de la sentencia, si lo solicita la parte ofendida.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 140.
 
-No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya difundido por cualquier medio de comunicación.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ###### ARTICULO 141.
 
-Siempre que sea condenado el responsable de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en los periódicos de mayor circulación en la Entidad a costa de aquél.
+(DEROGADO, P.O. 18 DE ABRIL DE 2007)
 
 ## TITULO SEXTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -2604,3 +2596,7 @@ TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 20 DE OCTUBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
