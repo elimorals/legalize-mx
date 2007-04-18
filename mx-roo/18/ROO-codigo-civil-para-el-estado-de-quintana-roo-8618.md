@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2006-09-29"
+last_updated: "2007-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -679,11 +679,13 @@ Se considerará invariablemente la existencia de daño moral, siempre que el da�
 
 Además de lo dispuesto en el párrafo anterior, el Juez podrá acordar a favor de la víctima, un incremento de hasta el ochenta por ciento del monto que se fije en los parámetros de lesiones o de muerte previstos en la Ley Federal del Trabajo, atendiendo a las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2007)</small>
 
 ###### Artículo 133.
 
-En otros casos donde exista daño moral, el Juez determinará el monto de la reparación de éste tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso. Sin embargo, dicha reparación en ningún caso podrá exceder del monto equivalente a mil quinientos días de salario mínimo general en el Estado.
+En otros casos donde exista daño moral, el Juez determinará el monto de la reparación de éste tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 Independientemente de lo anterior, cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 
@@ -11665,6 +11667,32 @@ El daño puede ser material o moral.
 
 Daño material es el que se causa en los términos del artículo 123, y daño moral, llamado también agravio moral, es todo ataque contra una persona en su honor, en su reputación y prestigio, en su consideración, en sus sentimientos y afectos, en su estimación hacia sus bienes y recuerdos de familia, y aun en su integridad corporal, cuando independientemente de que disminuyan o no su capacidad de trabajo, las heridas o cicatrices que se le causen afectan a su estética personal.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su autor imputa un delito a una persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido; y
+
+IV. Al que ofenda al honor, ataque la vida privada o la imagen propia de una persona.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+La reparación del daño con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida, con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo segundo del Artículo 133.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de una persona, pues no constituye una responsabilidad para el que difunde dicha información siempre y cuando se cite la fuente de donde se obtuvo la información.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2007)</small>
+
+Artículo 2299 bis.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
 ###### Artículo 2300.
 
 Perjuicio es lo que el damnificado deja de ganar lícitamente, en los términos del mismo artículo 123, como consecuencia del daño sufrido.
@@ -16870,3 +16898,7 @@ TERCERO.- Los efectos del presente decreto de reforma, se retrotraen al veintid�
 P.O. 29 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 18 DE ABRIL DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
