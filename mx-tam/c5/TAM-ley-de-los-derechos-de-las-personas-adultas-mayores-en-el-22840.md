@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2006-09-06"
+last_updated: "2007-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -43,9 +43,11 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 1º.
 
-Esta ley es de orden público, de interés social y de observancia general en el Estado. Tiene por objeto proteger, garantizar y difundir los derechos de las personas adultas mayores, sin distinción alguna, para propiciarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural.
+Esta ley es de orden público, de interés social y de observancia general en el Estado. Tiene por objeto proteger, garantizar y difundir los derechos de las personas adultas mayores, sin distinción alguna, para propiciarles una mejor calidad de vida y garantizarles su permanencia como sector estratégico y de experiencia para el desarrollo social, económico, político y cultural.
 
 ###### ARTICULO 2º.
 
@@ -53,11 +55,15 @@ La vigilancia y aplicación de esta ley, estará a cargo de:
 
 I.- El Ejecutivo del Estado;
 
-II.- Las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias y jurisdicción;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+II.- La Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, las Instituciones de Salud, y demás dependencias y entidades de la Administración Pública estatal, en el ámbito de sus respectivas competencias y jurisdicción;
 
 III.- La familia de la persona adulta mayor; y
 
-IV.- Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+IV.- Los Ayuntamientos, los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
 
 Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias federales correspondientes que realicen alguna o varias actividades que constituyen los objetivos de esta ley.
 
@@ -65,7 +71,9 @@ Los sectores público, social y privado, en términos de lo dispuesto por este a
 
 Para los efectos de esta ley, se entenderá por:
 
-I.- Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas adultas mayores su desarrollo integral, así como la protección física, mental y social de ellos cuando se encuentren en estado de necesidad, desprotección o desventaja física y mental;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+I.- Asistencia Social.- Al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social para que no impidan a las personas adultas mayores su desarrollo integral, así como la protección física, mental y social de ellos cuando se encuentren en estado de necesidad, desprotección o desventaja física y mental;
 
 II.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
 
@@ -75,7 +83,9 @@ IV.- Geriatría.- Al servicio brindado para la atención de la salud de las pers
 
 V.- Gerontología.- Al Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial;
 
-VI.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+VI.- Integración social.- Al conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores desplazadas, su permanencia a los sectores productivos y estratégicos de la sociedad organizada, incrementando así su desarrollo integral;
 
 VII.- Ley.- La presente Ley de los Derechos de las Personas Adultas Mayores en el Estado de Tamaulipas; y
 
@@ -103,9 +113,13 @@ II.- Participación: La intervención de las personas adultas mayores en la vida
 
 III.- Equidad: El trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
 
-IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y
+IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y (sic)
 
-V.- Atención diferenciada: Aquella que obliga a las autoridades del Gobierno del Estado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+V.- Atención diferenciada: Aquella que obliga a las autoridades del Gobierno del Estado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+VI.- Atención preferencial: Aquélla que obliga a directivos, personal de salud y administrativos de las instituciones que prestan servicios de salud; así como al resto de las dependencias y entidades de la Administración Pública estatal, a dar a la persona adulta mayor la preferencia en el turno y la atención por sobre los demás grupos de edad a manera de que las personas adultas mayores accedan a estos servicios de calidad cómodamente y perciban un trato amable y de amplia calidez.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -147,7 +161,9 @@ a).- Tener acceso a los satisfactores necesarios, para su atención integral;
 
 b).- Tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos; y
 
-c).- Recibir orientación y capacitación en materia de salud, nutrición e higiene.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2007)</small>
+
+c).- Recibir atención preferencial, orientación y capacitación en materia de salud, nutrición e higiene.
 
 IV.- A la educación, recreación, información y participación:
 
@@ -187,7 +203,9 @@ II.- Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor p
 
 III.- Conocer los derechos de las personas adultas mayores, previstos en la presente ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia; y
 
-IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo su persona, bienes y derechos.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+IV.- Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o los que pongan en riesgo a la persona adulta mayor, así como sus bienes y derechos.
 
 ###### ARTICULO 9º.
 
@@ -263,17 +281,35 @@ XI.- Promover, ante las instancias correspondientes, que en los eventos cultural
 
 Corresponde a la Secretaría de Salud, en materia de personas adultas mayores, de conformidad con las disposiciones jurídicas aplicables:
 
-I.- Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada para las personas adultas mayores;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
 
-II.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y las de iniciativa privada, a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud;
+I.- Garantizar el acceso a la atención médica en las clínicas y hospitales con una orientación especializada y preferencial para las personas adultas mayores; fomentar el establecimiento de áreas de geriatría y clínicas de control de la persona adulta mayor, en las unidades de segundo y tercer nivel de atención;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+II.- Gestionar recursos humanos de alta especialidad en la atención para la salud de las personas adultas mayores, entre ellos médicos geriatras, y promover su inclusión en la plantilla laboral de las instituciones de salud pública de segundo y tercer nivel de atención; implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y las de iniciativa privada, a fin de que las personas adultas mayores puedan tener acceso preferencial a los servicios de atención médica que proporcione el Sistema Salud;
 
 III.- Proporcionar, a las personas adultas mayores, una cartilla médica de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas;
 
-IV.- Implementar programas, en coordinación con el Sistema para el Desarrollo Integral de la Familia de Tamaulipas, con el objeto de proporcionar los medicamentos que necesiten las personas adultas mayores para mantener un buen estado de salud;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
 
-V.- Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores; y
+IV.- Implementar programas, en coordinación con el Sistema para el Desarrollo Integral de la Familia de Tamaulipas, con el objeto de proporcionar los medicamentos que necesiten las personas adultas mayores para mantener un buen estado de salud; de igual manera, implementar entre ambos el programa de visitas domiciliarias para el control de las personas adultas mayores. La Secretaría de Salud colaborará al bienestar social de la persona adulta mayor que se encuentre en situación de desamparo y propiciará su reincorporación a una vida equilibrada;
 
-VI.- Fomentar la formación y capacitación de auxiliares de personas adultas mayores.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+V.- Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores; capacitar a la familia mediante la realización de talleres en el que participen en forma conjunta con las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+VI.- Fomentar la formación y capacitación de auxiliares de personas adultas mayores. Asimismo, promover en coordinación con las autoridades educativas, la formación y desarrollo de recursos humanos especializados en Geriatría y Gerontología;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+VII.- La Secretaría no permitirá actos de investigación clínica en el organismo vivo de las personas adultas mayores que por cualquier circunstancia no pudieran resistirse a la realización de la misma;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2007)</small>
+
+VIII.- Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a las personas adultas mayores sometidas a cualquier forma de maltrato que ponga en peligro su salud, física y mental. Asimismo, darán esa atención a las personas de ésta edad, que hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental. En éstos casos las instituciones de Salud, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las personas adultas mayores, sin perjuicio de dar intervención a las autoridades competentes.
 
 ### CAPITULO IV. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
@@ -297,9 +333,11 @@ VII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualqui
 
 VIII.- Procurar que las personas adultas mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
 
-IX.- Vigilar que las instituciones presten el cuidado y atención adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte; y
+IX.- Vigilar que las Dependencias, y Entidades de la Administración Pública estatal, y las instituciones de salud públicas y privadas, presten el cuidado y atención preferencial adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte; y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
 
 X.- Las demás que le confieran otros ordenamientos jurídicos.
 
@@ -512,3 +550,7 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2007.
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
