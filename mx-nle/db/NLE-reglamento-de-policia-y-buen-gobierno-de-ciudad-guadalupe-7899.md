@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2007-03-16"
+last_updated: "2007-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -511,6 +511,8 @@ DE LOS MENORES DE EDAD.
 
 DE LAS INFRACCIONES COMETIDAS POR MENORES DE EDAD.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 22.
 
 El objeto del presente Capítulo, es el de regular la conducta que se debe de tomar en relación con los menores de edad. Además de mantener un estricto orden y vigilancia de los establecimientos comerciales que venden al público en general químicos inhalantes, pinturas en aerosol y demás sustancias que debido a su composición afectan a la salud del individuo; con el fin, de reducir y abatir el índice de drogadicción que propicia la comisión de delitos llevados a cabo por menores de edad.
@@ -537,19 +539,41 @@ DE LAS SANCIONES.
 
 ###### ARTICULO 27.
 
-Cuando un menor sea presentado ante la Autoridad Municipal, por haber cometido alguna infracción, se le hará comparecer a su padre, tutor, representante legítimo, o a la persona a cuyo cargo se encuentre. Mientras aparece el responsable del menor, éste esperará en una Área Especial para menores.
+Cuando un menor de edad sea presentado ante la Autoridad Municipal, por haber cometido alguna infracción, deberá ser recluido en espera en un Área Especial para menores infractores. Para efecto de lo anterior, la Coordinación de Jueces Calificadores contará con una Sección Juvenil, la cual estará integrada por un Juez Calificador especializado en menores, un Trabajador Social y una persona experta en tratamiento de la problemática de menores, para la mejor atención y seguimiento de los casos que se presenten.
+
+La Autoridad Municipal competente procurará hacer comparecer a los padres, tutores representantes legítimos o la persona a cuyo cargo se encuentre la guarda, custodia o quien ejerza la patria potestad, para que junto con ellos se tomen las medidas pertinentes para que el menor se integre al seno familiar y a la sociedad. En caso que los menores infractores ameriten rehabilitación, la Autoridad deberá canalizarlos a la dependencia que corresponda, para su desarrollo integral, guardando sus derechos.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 28.
 
-Una vez que el responsable del menor haya comparecido ante la Autoridad Municipal, se procederá de acuerdo con el Artículo 12 de este Reglamento; en la inteligencia de que debido a su falta o infracción, le correspondiera alguna sanción económica, ésta deberá ser cubierta por el representante del menor.
+Antes de conceder la audiencia de Ley, deberá estar presente un representante del menor, o persona digna de confianza, procurando que esté presente quien ejerza la patria potestad o custodia, para proceder en los términos del artículo 12 del presente reglamento.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 29.
 
-En caso de que debido a la infracción cometida por un menor, éste deba de permanecer arrestado, se procurara que dicho arresto se cumpla en un lugar que se encuentre separado de aquél destinado para las personas mayores detenidas.
+Cuando el Juez Calificador, encuentre negligencia o descuido hacia el menor, de parte de quien ejerza la patria potestad o custodia, podrá igualmente amonestarlos sobre el incumplimiento de sus obligaciones, llevando el registro correspondiente en la sección juvenil para su debido seguimiento.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Cuando la Autoridad Municipal, encuentre descuido por parte de los representantes del menor para con éste, podrá también amonestarlos sobre el cumplimiento de sus obligaciones.
+Para la aplicación de las sanciones a los menores de edad se tomará el siguiente criterio, en cuanto a los segmentos de edad
+
+1 - Los niños menores de 12 años no deberán ser detenidos por cometer infracción al reglamento de Policía y Buen Gobierno, más sin embargo serán amonestados los padres o tutores o quien tenga la guarda o custodia del menor
+
+2 - Los niños adolescentes mayores de 12 años y menores de 14 años se les aplicará como sanción administrativa una amonestación, en caso de que se cometa alguna falta al Reglamento de Policía y Buen Gobierno, y si se detecta alguna adicción o trastorno mental, será turnado a la sección juvenil para ser canalizado a algún centro de atención para su tratamiento integral.
+
+> <small>(F. DE E., P.O. 23 DE ABRIL DE 2007)</small>
+
+3 - A los adolescentes mayores de 14 años y menores de 18 años se les aplicará una sanción económica, arresto administrativo, o amonestación según el caso, de conformidad con las reglas establecidas para menores en el presente reglamento, en la inteligencia de que debido a su falta o infracción, le correspondiera alguna sanción económica, ésta deberá ser cubierta por el representante del menor.
+
+La sanción económica que se aplique por la Autoridad será de entre 1 a 50 cuotas, y se atenderá siempre a la condición socio-económica de quien asuma la responsabilidad por el menor. La Autoridad procurará, a través del procedimiento conciliatorio, establecer acuerdos para la reparación del daño, si lo hubiere, como resultado de la infracción cometida por el menor.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
+
+ARTICULO 30 BIS.- En caso de que debido a la infracción cometida por un menor, éste deba permanecer bajo arresto administrativo, se procurará que el mismo se cumpla en un lugar que se encuentre separado de aquél destinado para las personas mayores detenidas, y en ningún caso excederá de 24 horas a partir de que fuere puesto a disposición del Juez Calificador.
 
 ## TITULO IV
 
@@ -826,6 +850,16 @@ P.O. 16 DE MARZO DE 2007.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes reformas entrarán en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+P.O. 20 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ###### ARTÍCULO SEGUNDO.
 
