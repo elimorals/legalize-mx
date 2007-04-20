@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2005-11-18"
+last_updated: "2007-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -55,25 +55,31 @@ III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados
 
 Las instituciones de Educación Superior autónomas por Ley se regularán por sus propios ordenamientos jurídicos y normas administrativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 3.
 
-La educación es un medio fundamental, para que en la libertad y en la solidaridad se formen y desarrollen integralmente los seres humanos en sus responsabilidades sociales, cívicas, económicas y de respeto a la naturaleza; para que se les instruya y capacite para el futuro, para que tengan una vida digna y conozcan el sentido de la misma; por ello, la educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, cualquiera que sea su tipo y modalidad, promoverá entre otros, el conocimiento de la cultura del Estado; de sus valores arqueológicos, históricos y artísticos; de las tradiciones, lenguas y creencias de sus culturas indígenas; de su geografía, así como del papel que la Entidad Federativa ha representado en la configuración y desarrollo de la historia e identidad de la Nación Mexicana.
+La educación es un medio fundamental, para que en la libertad y en la solidaridad se formen y desarrollen integralmente los seres humanos en sus responsabilidades y derechos sociales, cívicos, económicos, culturales y de respeto al medio ambiente para que se les instruya y capacite para el futuro, para que tengan una vida digna y conozcan el sentido de la misma; por ello, la educación que impartan el Estado, los municipios y demás organismos públicos y los particulares con autorización o reconocimiento de validez oficial de estudios promoverá el conocimiento de la cultura regional, de sus valores arqueológicos, históricos y artísticos, de las tradiciones, lenguas y creencias de sus culturas indígenas, de su geografía y del papel que Baja California ha representado en la configuración y desarrollo de la historia de la nación mexicana.
 
 Por ello, el estado pugnará que la búsqueda por la excelencia del quehacer educativo se aplique con respeto de los derechos humanos.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 4.
 
 La educación constituye una prioridad en la planeación y programación del desarrollo integral del Estado y es un derecho fundamental de todos los habitantes del mismo.
 
-El Gobierno del Estado, los gobiernos municipales, sus organismos descentralizados y las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios, establecerán los medios para que todos los individuos tengan las mismas oportunidades de acceso al sistema educativo estatal, sin más limitaciones que los requisitos previstos por las normas aplicables.
+El Gobierno del Estado, los gobiernos municipales, sus organismos descentralizados y las personas físicas o morales particulares con autorización o reconocimiento de validez oficial de estudios, establecerán los medios para que todos los individuos ejerzan plenamente su derecho a la educación y tengan las mismas oportunidades de acceso al sistema educativo estatal, sin más limitaciones que los requisitos previstos por las normas aplicables.
 
 El Gobierno del Estado y los gobiernos municipales destinarán presupuestos suficientes y complementarios de la concurrencia señalada en el artículo 25 de la Ley General de Educación, para el cumplimiento cabal del derecho de sus habitantes a la educación. Asimismo, podrán convenir con la Federación formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
 
 El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveerá lo conducente para que cada Ayuntamiento reciba recursos para el cumplimiento de las atribuciones consignadas en el Artículo 16.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 5.
 
-El Ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria y la secundaria.
+El ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria y secundaria bajo el criterio de la mayor calidad y equidad.
 
 I.- Atenderá de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones.
 
@@ -91,6 +97,8 @@ VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobe
 
 VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 El Estado también promoverá el desarrollo de programas asistenciales, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
@@ -99,7 +107,7 @@ El Estado también promoverá el desarrollo de programas asistenciales, campaña
 
 Todos los habitantes del Estado tienen derecho a recibir educación. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria y secundaria.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 6.
 
@@ -107,7 +115,7 @@ Todos los habitantes del Estado tienen derecho a recibir educación. Es obligaci
 
 ###### ARTICULO 7.
 
-Toda la educación que imparta el Estado será gratuita. Las donaciones destinadas a la misma en ningún caso se entenderán como contraprestaciones del servicio educativo.
+Toda la educación que el Estado imparta será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
 
 ###### ARTICULO 8.
 
@@ -117,9 +125,11 @@ La educación que impartan los Gobiernos Estatal, Municipal, sus organismos desc
 
 El gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativos, incluidas la educación superior, la investigación científica y tecnológica y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 10.
 
-La educación que se imparta en el sistema educativo estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+La educación que se imparta en el sistema educativo estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los perjuicios, la formación de estereotipos y la discriminación. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
 ###### ARTICULO 11.
 
@@ -132,6 +142,8 @@ Son de interés social las actividades e inversiones de cualquier tipo que en ma
 ###### ARTICULO 13.
 
 El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplicación de esta Ley, respetando los derechos adquiridos por los trabajadores de la educación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 14.
 
@@ -163,7 +175,7 @@ XII.- Fomentar y encausar (sic) el desarrollo y la aplicación del avance cient�
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
-XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro;
+XIII.- Fomentar actitudes solidarias y positivas para alcanzar el bienestar general, mediante el trabajo y el ahorro.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2000)</small>
 
@@ -171,9 +183,15 @@ XIV.- Inculcar en el educando, una cultura de cumplimiento a la obligación cons
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
 
-XV.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad; y
+XV.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad; y (sic)
 
-XVI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+XVI.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2007)</small>
+
+XVII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -227,11 +245,15 @@ XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura
 
 XX.- Las demás atribuciones que emanen del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 16.
 
 En materia de educación pública, el Estado y los Municipios, podrán celebrar convenios de colaboración, para lo cual los Ayuntamientos tendrán las siguientes facultades:
 
-I.- Crear planteles educativos de acuerdo a los tipos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán en congruencia técnica y administrativa con la Secretaría de Educación y Bienestar Social, y sujetos a esta Ley y demás disposiciones, los que en ningún caso podrán concesionar la prestación del servicio educativo a ninguna persona física o moral.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+I.- Prestar servicios educativos de cualquier tipo y modalidad sin perjuicio de la concurrencia de las autoridades educativas federal y estatal y crear planteles educativos de acuerdo a los tipos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán en congruencia técnica y administrativa con la Secretaría de Educación y Bienestar Social, y sujetos a esta Ley y demás disposiciones, los que en ningún caso podrán concesionar la prestación del servicio educativo a ninguna persona física o moral.
 
 II.- Proporcionar en la medida de sus recursos, terrenos para la construcción de edificios escolares.
 
@@ -247,19 +269,29 @@ V.- Promover permanentemente la investigación que sirva como base a la innovaci
 
 VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social previendo lo necesario a su integración oportuna y proveyéndolo de los recursos necesarios para el despacho de sus asuntos; así como la existencia de los patronatos para la construcción, conservación y funcionamiento de las escuelas, de acuerdo con las disposiciones respectivas.
 
-VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y
+VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y (sic)
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 VIII.- Promover programas de fomento a la cultura de la prevención del delito y a la no violencia.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
 IX.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de esta Ley y los reglamentos que de ella emanen, vigilando que los servicios educativos que otorga el Estado guarden equilibrio y concuerden con las demandas que plantean las comunidades municipales.
 
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+X.- Fomentar y fundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+XI.- Editar libros y materiales didácticos distintos a los textos gratuitos otorgados por la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 17.
 
-El Ejecutivo del Estado, sin menoscabo de su propia obligación, promoverá la participación directa de cada ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas.
+El Ejecutivo del Estado sin menoscabo de su propia obligación promoverá la participación directa de cada ayuntamiento para dar a las escuelas públicas, mantenimiento y proveer de equipo básico y materiales adecuados de acuerdo a los avances de la ciencia y la tecnología.
 
 ###### ARTICULO 18.
 
@@ -337,15 +369,17 @@ b) La educación comercial, técnica y de capacitación para el trabajo serán t
 
 IV.- El tipo superior comprende la educación normal, la tecnológica y la universitaria; incluye estudios encaminados a obtener los grados de licenciatura, maestría y doctorado, así como cursos de actualización y especialización posteriores a la licenciatura.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 23.
 
-La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar.
+La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar, así como favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del educando. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la sociabilización de la persona a partir de los cuatro años de edad, atendiendo, mediante personal especializado con TITULO académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad.
+La educación preescolar tendrá como propósito fundamental la sociabilización de la persona a partir de los tres años de edad, atendiendo, mediante personal especializado con TITULO académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad, además de la orientación a los padres de familia o tutores.
 
 ###### ARTICULO 25.
 
@@ -401,9 +435,13 @@ Las finalidades de la educación indígena son:
 
 I.- Contribuir a la consolidación de su identidad étnica y nacional.
 
-II.- Ofrecer al indígena la oportunidad de ser educado, respetando su personalidad y su cultura, capacitándolo para que pueda ser factor decisivo en la construcción de su conocimiento.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
-III.- Formar un individuo conocedor de su realidad sociocultural que le capacite para incorporarse a la vida productiva de la comunidad y haga de él un ser participativo.
+II.- Ofrecer al indígena la oportunidad de educarse, respetando su personalidad y su cultura, capacitándose para que pueda ser factor decisivo en la construcción de su conocimiento.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+III.- Formar un individuo conocedor de su realidad sociocultural que le facilite al educando su integración y participación en el desarrollo de la entidad.
 
 IV.- Fomentar el interés en el educando para que continúe estudiando en otros niveles educativos.
 
@@ -423,13 +461,21 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 34.
 
-La educación especial es la dirigida a personas con capacidades diferentes, así como aquellas con aptitudes sobresalientes.
+La educación especial está destinada a individuos con capacidades diferentes transitorias o definitivas, así como aquéllas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 La educación especial tendrá como objetivo proporcionar la integración de niños, niñas y jóvenes a los planteles de educación inicial, preescolar, primaria, secundaria en sus distintas modalidades y a las instituciones de educación media-superior, aplicando métodos, técnicas y materiales específicos, así como dando orientación a padres de familia y a personal docente de las escuelas regulares, que atiendan a alumnos con necesidades educativas especiales.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
+Esta educación incluye capacitación a los padres y madres así como también a maestros y personal de educación básica regular que integren alumnas y alumnos con necesidades especiales de educación.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 La autoridad educativa responsable, proporcionará a los alumnos los apoyos educativos indispensables dentro de un marco de equidad, pertenencia y calidad, que les permita desarrollar sus capacidades al máximo e integrarse educativa, social y laboralmente.
 
@@ -437,17 +483,21 @@ La educación especial tendrá las siguientes finalidades:
 
 I.- Favorecer el acceso y permanencia en el sistema educativo a niños, niñas y jóvenes que presenten necesidades educativas especiales;
 
-II.- Preservar el derecho a la educación de las personas con capacidades diferentes en el Estado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+II.- Preservar el derecho a la educación de las personas con necesidades de educación especial en el Estado;
 
 III.- Brindar mayores oportunidades de desarrollo educativo y laboral a niños, niñas y jóvenes con necesidades educativas especiales; y
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
 IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumnos con necesidades educativas especiales, desarrollar al máximo sus capacidades.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 35.
 
-En la impartición de la educación para personas menores de dieciocho años de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, sexual, afectiva, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar será compatible con su edad.
 
 ###### ARTICULO 36.
 
@@ -553,10 +603,6 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 ### CAPITULO IV. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
-###### ARTICULO 7o.
-
-La educación preescolar, primaria y secundaria que imparta el Estado será gratuita, por lo que queda prohibido condicionar o restringir los derechos del educando, al pago de cuotas o cualquier tipo de contraprestación.
-
 ###### ARTICULO 50.
 
 El Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, administrará, planeará, organizará y vigilará el desarrollo educativo del Estado, en los términos de las normas federales y estatales sin menoscabo de la competencia que las leyes otorgan a otras autoridades.
@@ -629,9 +675,17 @@ IV.- Formar parte de las asociaciones de padres de familia y de los consejos de 
 
 V.- Colaborar con las autoridades escolares para la superación de los educandos, en los términos del Proyecto Educativo del Estado, así como coadyuvar en el mejoramiento de los planteles escolares.
 
-VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativas, de los aciertos o irregularidades que observen en la prestación del servicio educativo, y
+VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativas, de los aciertos o irregularidades que observen en la prestación del servicio educativo, y (sic)
 
 VII.- Opinar ante las autoridades educativas en relación a las tarifas y demás contraprestaciones que las escuelas particulares fijen.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
+
+VIII.- Conocer las calificaciones, resultados de las evaluaciones parciales y finales de sus hijos o pupilos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
+
+IX.- Obtener la información de los resultados de la evaluación al sistema Educativo Estatal realizada por las autoridades educativas y por el Instituto Estatal de Investigación y Evaluación Educativa.
 
 ###### ARTICULO 61.
 
@@ -641,9 +695,15 @@ Son obligaciones de quienes ejercen la patria potestad o tutela:
 
 I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria.
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado, y
+II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado, y (sic)
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas y sociales que las mismas realicen, así como cumplir la Ley sobre el Escudo, Bandera e Himno Nacionales.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas, culturales y sociales que las mismas realicen; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
+
+IV.- Participar en los programas de escuela de padres.
 
 ###### ARTICULO 62.
 
@@ -653,7 +713,9 @@ En cada establecimiento educativo habrá una asociación integrada por padres de
 
 Las asociaciones de padres de familia tendrán por objeto:
 
-I.- Representar los intereses que en materia educativa sean comunes a los asociados.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados.
 
 II.- Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades las medidas que estimen conducentes.
 
@@ -933,6 +995,30 @@ III.- Que de otorgarse, no implique la continuación o consumación de actos u o
 
 IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley o de las disposiciones que de ella emanen.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2007)</small>
+
+### CAPITULO IX. DE LA DEFENSA DE LOS DERECHOS EN MATERIA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
+
+###### ARTICULO 97.
+
+Todos los miembros del Sistema Educativo Estatal a que se refiere el Capítulo III de esta ley están obligados a cumplir los deberes que ésta les impone, y podrán exigir el cumplimiento de los derechos que a la misma les otorga.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
+
+###### ARTICULO 98.
+
+Para los efectos del artículo anterior todo interesado podrá pedir por escrito, de manera respetuosa y pacífica a las autoridades educativas o a los particulares a que esta ley se refiere, que cumplan los deberes a su cargo, o en su caso, pedir que aquéllas obliguen a éstos a cumplir sus deberes en que estén siendo omisos.
+
+Cuando la solicitud fuere dirigida a una autoridad educativa, la falta de respuesta dentro de los treinta días hábiles siguientes, o la respuesta negativa, dejará al peticionario en aptitud jurídica de acudir al Tribunal de lo Contencioso Administrativo del Estado para exigir el cumplimiento de sus derechos; si la solicitud hubiere sido dirigida a un particular, el solicitante podrá acudir ante el juez de lo civil que corresponda.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2007)</small>
+
+###### ARTICULO 99.
+
+Previas las formalidades esenciales del procedimiento previstas para cada caso, los tribunales impondrán a los demandados, autoridades o particulares, el cumplimiento de los deberes que a su cargo impone esta ley, y las consecuencias que su incumplimiento hubiere generado.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
@@ -1004,3 +1090,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 20 DE ABRIL DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
