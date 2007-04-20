@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2006-12-22"
+last_updated: "2007-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -209,11 +209,11 @@ XIV.- La adquisición de la propiedad de bienes inmuebles en virtud de remate ju
 
 XV.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato por mutuo acuerdo, o la reversión en caso de expropiaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### Artículo 24.
 
-No se causa el impuesto a que se refiere este Capítulo:
+No se causa el impuesto a que se refiere este artículo (sic):
 
 I.- En las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio Público;
 
@@ -225,15 +225,19 @@ IV.- En las adquisiciones de inmuebles fideicomitidos que hagan los fideicomisar
 
 V.- En la transmisión del usufructo que se de por causa de muerte;
 
-VI.- En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges, ascendientes y descendientes en línea recta, sin limitación de grado y que dicho inmueble sea única propiedad del autor de la sucesión.
+VI.- En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges, ascendientes y descendientes en línea recta, sin limitación de grado y que dicho inmueble sea única propiedad del autor de la sucesión;
 
-VII.- En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del Artículo 23 de esta Ley.
+VII.- En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del Artículo 23 de esta Ley;
 
-VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula.
+VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-IX.- En las adquisiciones que hagan las personas físicas de predios que provengan de propiedad federal, estatal o municipal, y que hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT).
+IX.- En las adquisiciones que hagan las personas físicas de predios que provengan de propiedad federal, estatal o municipal, y que hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT);
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2007)</small>
+
+X.- En la Adquisición que se realice por transmisión hereditaria en los términos del artículo 921 Bis del Código de Procedimientos Civiles del Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -261,15 +265,21 @@ Dichos criterios generales serán aplicables a todos los interesados que reúnan
 
 Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, y quedará sin efecto el descuento por falta de uno de ellos.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### Artículo 25.
 
-Serán bases gravables de este impuesto el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial del inmueble a la fecha de operación, éste último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Ejecutivo del Estado o en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avalúo practicado en los términos de la Ley Agraria.
+Será base gravable de este impuesto, el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial del inmueble a la fecha de operación, este último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Ejecutivo del Estado el cual tendrá una vigencia de seis meses o en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avalúo practicado en los términos de la Ley Agraria.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 Cuando no se pacte precio o monto de la operación, el impuesto se calculará tomando en cuenta el valor catastral y el valor comercial conforme al párrafo anterior.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+
 En la adquisición de bienes por remate, el avalúo fiscal deberá referirse a la fecha en que quede firme la aprobación del mismo.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
 Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y cinco veces el salario mínimo mensual en el Estado, realizada con financiamiento otorgado o relacionado con algún programa de fomento de vivienda auspiciado por organismos descentralizados de la Federación o del Estado, el valor comercial podrá ser determinado por el avalúo practicado en los términos de la legislación que regula las actividades y servicios financieros para el otorgamiento de crédito garantizado, y como base del impuesto, el formulado por perito valuador autorizado por el Ejecutivo del Estado, quien será responsable del contenido del mismo, conforme a lo señalado en este capítulo.
 
@@ -277,15 +287,13 @@ Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y c
 
 Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias de impuestos que resulten.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### Artículo 27.
 
-Cuando no se cubra el impuesto sobre traslado de dominio en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando el impuesto no se hubiere pagado dentro de su plazo ordinario legal, éste se actualizará multiplicándolo por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se realice el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectúe la adquisición.
 
-La actualización se calculará con base en el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes anterior al más reciente del periodo, entre el citado índice correspondiente, al mes anterior al más antiguo de dicho periodo. El índice nacional de precios al consumidor referido se determinará conforme a lo dispuesto por el artículo 20 Bis del Código Fiscal de la Federación, resultando aplicable lo dispuesto por el artículo 17 A del citado Código, en lo previsto por el Código Fiscal del Estado.
-
-Las contribuciones no se actualizarán por fracción de mes, además deberán pagarse recargos por concepto de indemnización al fisco estatal por la falta de pago oportuno. Los recargos se aplicarán cada mes sobre el monto de las contribuciones actualizadas y se calcularán según las tasas que para el pago a plazo y por moras publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
+Las contribuciones no se actualizarán por fracción de mes, además deberán pagarse recargos por concepto de indemnización al fisco municipal por falta de pago oportuno. Los recargos se aplicarán cada mes sobre el monto de las contribuciones actualizadas y se calcularán según las tasas que para el pago a plazo y por mora publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
 
 ###### Artículo 28.
 
@@ -385,9 +393,9 @@ II.- Cuando se trate de actos o contratos que se hagan constar en documentos pri
 
 III.- En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia en su caso, de la fecha en que fue declarada firme;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
-IV.- Acompañar recibo o constancia de estar al corriente en el pago de impuestos predial o cualesquier otro gravamen fiscal derivados de los bienes inmuebles, espedida (sic) dentro de los treinta días anteriores a la fecha de presentación del aviso de traslado de dominio en las oficinas municipales correspondientes;
+IV. Acompañar recibo o constancia de estar al corriente en el pago de impuesto predial a la fecha de operación y cualesquier otro gravamen fiscal derivados de los bienes inmuebles, expedida dentro de los seis meses anteriores a la fecha de presentación del aviso de traslado de dominio en las oficinas catastrales correspondientes;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -401,9 +409,9 @@ VI.- Cuando la dependencia encargada de las finanzas públicas estime necesario,
 
 VII.- Las oficinas de la dependencia encargada de las finanzas públicas recibirán las declaraciones y demás documentos tal y como se presenten, siempre que cumplan con los requisitos señalados en el presente artículo y lo establecido en el artículo 35 de este mismo ordenamiento, en caso de que falte algún documento se tendrá por no ingresado el trámite;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
 
-VIII.- El encargado de las finanzas públicas municipales podrá autorizar el pago provisional del Impuesto Sobre Traslado de Dominio, siempre y cuando se encuentren al corriente en el pago del Impuesto predial y que la presentación del Aviso de traslado de Dominio contenga firma y sello original cuando sea por escrito.
+VIII.- El encargado de las finanzas públicas municipales podrá autorizar el pago provisional del Impuesto Sobre Traslado de Dominio, siempre y cuando se encuentren al corriente en el pago del Impuesto Predial en los Términos señalados en la fracción IV del presente artículo y que la presentación del Aviso de traslado de Dominio contenga firma y sello original cuando sea por escrito.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -465,9 +473,11 @@ Habrá división real de un inmueble cuando se realicen total o parcialmente obr
 
 Habrá división legal de un inmueble, cuando se celebre cualquier acto o contrato que implique enajenación de una o más porciones del mismo.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+
 ###### Artículo 45.
 
-Para determinar el valor del inmueble se estará en lo conducente, a lo dispuesto por los Artículos 27 al 30 de esta Ley.
+Para determinar el valor del inmueble se estará en lo conducente, a lo dispuesto por los artículos del 25 al 30 de esta Ley.
 
 ###### Artículo 46.
 
@@ -1720,3 +1730,19 @@ La presente Ley entrará en vigor a partir del día 01 de Enero de 2007, ordenan
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2007)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los trámites en proceso del pago del Impuesto de Traslado de Dominio o empadronados se llevarán a cabo atendiendo a lo que dispone la presente ley.
