@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2006-12-11"
+last_updated: "2007-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2007.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -497,11 +497,13 @@ Comete secuestro exprés el que para ejecutar los delitos de robo, extorsión, p
 
 Al responsable de secuestro exprés se le impondrá de 7 a 20 años de prisión y de cien a cuatrocientos días multa, y el pago total de la reparación de los daños y perjuicios ocasionados, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+
 ###### Artículo 42.
 
-El Allanamiento de Morada consiste en la introducción furtiva, violenta, con engaño o sin permiso de la persona autorizada para darlo, a una casa-habitación o sus dependencias, o en establecimientos públicos mientras permanezcan cerrados, sin orden de autoridad competente.
+El Allanamiento de Morada consiste en la introducción furtiva, violenta, con engaño o sin permiso de la persona autorizada para darlo, a una casa-habitación o sus dependencias, o en establecimientos públicos mientras permanezcan cerrados, estando habitados o deshabitados, a cualquier hora del día, por una o varias personas, sin orden de autoridad competente y fuera de los casos que la Ley lo permita.
 
-Al responsable de Allanamiento de Morada se le aplicarán de 3 meses a 2 años de prisión y de 10 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Allanamiento de Morada se le aplicarán de 2 a 7 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 43.
 
@@ -637,7 +639,7 @@ XII. Causar un perjuicio público o privado por sí o por interpósita persona, 
 
 Al responsable de Fraude se le aplicarán de:
 
-I. 6 meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
 
 II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
 
@@ -1373,19 +1375,39 @@ No serán punibles las conductas descritas en este artículo, si se trata de med
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-ARTICULO 91 E.- La Explotación de Grupos Socialmente Desfavorecidos consiste en obtener un lucro o ganancias ilícitas mediante la exhibición o explotación de personas vulnerables por razón de su edad, condición social o discapacidad.
+Artículo 91 E.- La Explotación de Grupos Socialmente Desfavorecidos consiste en obtener un lucro o ganancias ilícitas mediante la exhibición o explotación de personas vulnerables por razón de su edad, condición social o discapacidad.
 
 Al responsable de la explotación de grupos socialmente desfavorecidos se le aplicarán de 6 meses a 2 años de prisión y de 15 a 50 días multa.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE ABRIL DE 2007)</small>
+
+### CAPITULO VIGESIMO. Tipos Penales Protectores de la Salud Pública
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+Artículo 91 F.- Los atentados a la Salud Pública consisten en:
+
+I. Comerciar o expender sustancias beta-agonistas para fines distintos a los médico-terapéuticos;
+
+II. Administrar sustancias beta-agonistas a los animales cuyas carnes o productos se destinen al consumo humano;
+
+III. Sacrificar animales o destinar los productos de animales de abasto para consumo humano, a los que se les haya administrado sustancias beta-agonistas;
+
+IV. Comerciar o expender carnes o productos de animales para consumo humano, a los que se les haya administrado sustancias beta-agonistas; y
+
+V. Expedir certificados oficiales de no presencia de sustancias beta-agonistas en animales o productos destinados al consumo humano, a los cuales se les haya administrado.
+
+En el caso de los atentados a la Salud Pública a que se refieren las fracciones I, II y III se le aplicará al responsable de 3 a 6 años de prisión y de 400 a 800 días multa; en el caso de la Fracción IV se le aplicará al responsable de 1 a 3 años de prisión y de 250 a 500 días multa; y en el caso de la Fracción V, se le aplicará al responsable de 4 a 8 años de prisión y de 500 a 1000 días multa; en todos los casos, el responsable deberá hacer el pago total de los daños y perjuicios ocasionados.
+
+Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, cuando demuestre que no tenía conocimiento de que la carne o productos animales para consumo humano que comercializa o expende se encuentren contaminados con sustancias beta-agonistas.
+
 ### CAPITULO PRIMERO. Tipos Penales Protectores de la Vida y la Salud Personales
+
+## TITULO SEGUNDO. DE LAS FIGURAS TIPICAS CULPOSAS
 
 ### CAPITULO SEGUNDO. Tipos Penales Protectores del Patrimonio
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
-
-## TITULO SEGUNDO. DE LAS FIGURAS TIPICAS CULPOSAS
-
-### CAPITULO TERCERO. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
 ###### Artículo 92.
 
@@ -1425,7 +1447,7 @@ Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en
 
 Las lesiones culposas, previstas en las fracciones I y II del presente artículo, sólo se perseguirán por la denuncia que formule la víctima o su representante legal.
 
-### CAPITULO CUARTO. Tipos Penales Protectores del Equilibrio Ecológico
+### CAPITULO TERCERO. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
 ###### Artículo 95.
 
@@ -1439,7 +1461,7 @@ Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de m
 
 El daño en las cosas culposo, previsto en los párrafos primero y segundo del presente artículo, sólo se perseguirá por la denuncia que formule la víctima o su representante legal.
 
-### CAPITULO PRIMERO. La Víctima y Ofendido
+### CAPITULO CUARTO. Tipos Penales Protectores del Equilibrio Ecológico
 
 ###### Artículo 96.
 
@@ -1449,7 +1471,7 @@ Para la adecuada aplicación de la presente figura típica, se entiende por vía
 
 Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Culposos se le aplicarán de 3 meses a 2 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPITULO SEGUNDO. El Ministerio Público
+### CAPITULO PRIMERO. La Víctima y Ofendido
 
 ###### Artículo 97.
 
@@ -1841,7 +1863,7 @@ Los procedimientos especiales que se den con motivo de hechos punibles clarament
 
 ## TITULO SEGUNDO. SUJETOS Y AUXILIARES DEL PROCEDIMIENTO
 
-### CAPITULO TERCERO. La Policía
+### CAPITULO SEGUNDO. El Ministerio Público
 
 ###### Artículo 145.
 
@@ -1865,7 +1887,7 @@ La víctima u ofendido del hecho punible, o sus representantes legítimos, coady
 
 Reconocida la personalidad procesal de la víctima u ofendidos del hecho punible por el tribunal que conozca del asunto, o de sus representantes legítimos, formularán conclusiones y podrán interponer los recursos que esta Legislación señala.
 
-### CAPITULO CUARTO. Los Peritos Oficiales
+### CAPITULO TERCERO. La Policía
 
 ###### Artículo 149.
 
@@ -1899,7 +1921,7 @@ La resolución no dará lugar a recurso alguno y sólo podrá renovarse el reque
 
 Si la resolución establece el apartamiento, el reemplazo será definitivo, aunque posteriormente desaparezcan sus motivos.
 
-### CAPITULO QUINTO. Los Tribunales
+### CAPITULO CUARTO. Los Peritos Oficiales
 
 ###### Artículo 155.
 
@@ -1941,7 +1963,7 @@ c) Suspensión de sus labores hasta por 30 días.
 
 Lo anterior sin perjuicio de iniciar persecución penal cuando corresponda.
 
-### CAPITULO SEXTO. El Inculpado
+### CAPITULO QUINTO. Los Tribunales
 
 ###### Artículo 159.
 
@@ -1955,7 +1977,7 @@ Al momento de recaudar los elementos materiales de prueba o indicios, se debe de
 
 Al solicitarse un procedimiento de análisis técnico o científico, o para la elaboración de dictámenes periciales, la recolección la debe de efectuar el personal calificado, capacitado o entrenado para tal actividad. En consecuencia, toda transferencia de custodia debe quedar registrada en el expediente que corresponda, indicando fecha, hora, nombre, firma de quien recibe y de quien entrega, descripción del elemento material, y el lugar donde habrá de depositarse.
 
-### CAPITULO SEPTIMO. La Defensa
+### CAPITULO SEXTO. El Inculpado
 
 ###### Artículo 161.
 
@@ -2109,7 +2131,7 @@ IV. Cuando se interponga durante el término constitucional fijado para resolver
 
 Contra las resoluciones que califiquen un impedimento o decidan sobre la procedencia o no de la recusación, no cabe recurso alguno.
 
-### CAPITULO PRIMERO. Reglas Generales
+### CAPITULO SEPTIMO. La Defensa
 
 ###### Artículo 180.
 
@@ -2243,7 +2265,7 @@ Cuando hubiera varios inculpados, se recibirán las declaraciones, evitando que 
 
 El inculpado no será obligado a carearse con testigos u otros inculpados.
 
-### CAPITULO SEGUNDO. Términos
+### CAPITULO PRIMERO. Reglas Generales
 
 ###### Artículo 202.
 
@@ -2345,7 +2367,7 @@ VIII. Solicitar, en la etapa de ejecución, el trámite de los beneficios y est�
 
 ## TITULO TERCERO. ACTIVIDAD PROCESAL
 
-### CAPITULO TERCERO. Autos y Resoluciones
+### CAPITULO SEGUNDO. Términos
 
 ###### Artículo 215.
 
@@ -2451,7 +2473,7 @@ Para sacar copia de algún auto o diligencia se requiere autorización del Minis
 
 Las actuaciones serán nulas cuando carezcan de alguna de las formalidades esenciales que prevenga la ley, de manera que se cause perjuicio a cualquiera de los sujetos procesales interesados, así como cuando la ley expresamente determine la nulidad. Esta no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará por quien la promueva, en la actuación subsiguiente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste. Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables.
 
-### CAPITULO CUARTO. Exhortos, Notificaciones y Citaciones
+### CAPITULO TERCERO. Autos y Resoluciones
 
 ###### Artículo 233.
 
@@ -2491,7 +2513,7 @@ II. Actividad omitida y la expresión de voluntad de llevarla a cabo.
 
 Analizada la solicitud, el Tribunal señalará día y hora para el desahogo de las pruebas ofrecidas y la resolución que corresponda, la cual no será recurrible. Si se acepta la reposición del término, el mismo comenzará a correr al día siguiente de dictada la resolución.
 
-### CAPITULO QUINTO. Audiencias Judiciales
+### CAPITULO CUARTO. Exhortos, Notificaciones y Citaciones
 
 ###### Artículo 240.
 
@@ -2567,7 +2589,7 @@ No se estimarán consentidas las resoluciones, sino cuando los sujetos procesale
 
 Ninguna resolución judicial se ejecutará sin que previamente se haya notificado de la misma al Ministerio Público y a quien corresponda, conforme a la ley.
 
-### CAPITULO SEXTO. Correcciones Disciplinarias y Medios de Apremio
+### CAPITULO QUINTO. Audiencias Judiciales
 
 ###### Artículo 250.
 
@@ -2699,7 +2721,7 @@ El empleado del tribunal o de la Procuraduría General de Justicia dará cuenta,
 
 La falta de cumplimiento de esta disposición será sancionada por el tribunal o por la Procuraduría General de Justicia con multa de hasta 10 días de salario mínimo vigente en el Estado.
 
-### CAPITULO SEPTIMO. Prisión Preventiva
+### CAPITULO SEXTO. Correcciones Disciplinarias y Medios de Apremio
 
 ###### Artículo 277.
 
@@ -2739,7 +2761,7 @@ En las audiencias judiciales y de desahogo de pruebas, el orden y disciplina est
 
 Respecto de las diligencias de desahogo de pruebas, éstas se desarrollarán conforme a las reglas que establece la presente Legislación en el título correspondiente a medios probatorios.
 
-### CAPITULO OCTAVO. Arraigo
+### CAPITULO SEPTIMO. Prisión Preventiva
 
 ###### Artículo 282.
 
@@ -2765,7 +2787,7 @@ Contra cualquier providencia en la que se imponga una corrección disciplinaria,
 
 El Ministerio Público en la fase de la averiguación previa y los tribunales en las fases de averiguación procesal y juicio, podrán emplear como medios de apremio para hacer cumplir sus determinaciones, las correcciones disciplinarias establecidas en el artículo 282 de esta Legislación y el auxilio de la fuerza pública. Cuando a juicio de la autoridad que haya empleado los medios de apremio, el o los usados resultaren ineficaces para hacer cumplir su determinación, pondrá el hecho en conocimiento del Ministerio Público para los efectos legales que correspondan.
 
-### CAPITULO NOVENO. Restitución
+### CAPITULO OCTAVO. Arraigo
 
 ###### Artículo 285.
 
@@ -2793,7 +2815,7 @@ Cuando se ejecute una orden de aprehensión dictada contra una persona que manej
 
 Al ser aprehendido un servidor público, empleado o encargado de un servicio público, se comunicará la detención, sin demora, al superior jerárquico respectivo.
 
-### CAPITULO DECIMO. Cateos
+### CAPITULO NOVENO. Restitución
 
 ###### Artículo 291.
 
@@ -2801,7 +2823,7 @@ Cuando con motivo de la integración de una averiguación previa el Ministerio P
 
 El arraigo consiste en la vigilancia de la autoridad que ejercerá el Ministerio Público y sus auxiliares sobre la persona del inculpado, para que este no salga del territorio del Estado y sin que deje de asistir diariamente a su domicilio, y que se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días hábiles.
 
-### CAPITULO DECIMO PRIMERO. Inspección Personal
+### CAPITULO DECIMO. Cateos
 
 ###### Artículo 292.
 
@@ -2813,7 +2835,7 @@ Si la entrega del bien pudiere lesionar derechos de terceros, de la víctima u o
 
 Cuando el inculpado se encuentre privado de su libertad, la restitución a la víctima u ofendido en el goce de sus derechos, sólo podrá decretarse hasta después de dictado el auto de término constitucional, en que se resuelva sobre su situación jurídica.
 
-### CAPITULO DECIMO SEGUNDO. Embargo Precautorio
+### CAPITULO DECIMO PRIMERO. Inspección Personal
 
 ###### Artículo 293.
 
@@ -2865,13 +2887,13 @@ Para la práctica de un cateo en la residencia o despacho de otro de los Poderes
 
 El incumplimiento de los requisitos y formalidades señaladas en este capítulo, produce la nulidad absoluta de la diligencia de cateo.
 
-### CAPITULO DECIMO TERCERO. Aseguramiento
+### CAPITULO DECIMO SEGUNDO. Embargo Precautorio
 
 ###### Artículo 299.
 
 Cuando fuere de absoluta necesidad para averiguar la existencia del hecho punible o para aprehender al inculpado, se procederá a la inspección corporal de cualquier otra persona, así como a su observación, separadamente, y cuidando que se respete su pudor. Tal inspección será practicada por una persona del mismo sexo.
 
-### CAPITULO PRIMERO. Averiguación Previa o Fase Inicial del Procedimiento
+### CAPITULO DECIMO TERCERO. Aseguramiento
 
 ###### Artículo 300.
 
@@ -2889,7 +2911,7 @@ El embargo no se decretará o en su caso se levantará, cuando el embargado u ot
 
 El embargo también se levantará si se decreta la libertad del inculpado, y en el caso del tercero obligado, si es legalmente desligado de la obligación.
 
-### CAPITULO SEGUNDO. Pre-Instrucción
+### CAPITULO PRIMERO. Averiguación Previa o Fase Inicial del Procedimiento
 
 ###### Artículo 303.
 
@@ -2897,7 +2919,7 @@ La autoridad ministerial o jurisdiccional competente, que esté conociendo del p
 
 ## TITULO CUARTO. EL PROCEDIMIENTO PENAL ORDINARIO
 
-### CAPITULO TERCERO. Instrucción
+### CAPITULO SEGUNDO. Pre-Instrucción
 
 ###### Artículo 304.
 
@@ -3137,7 +3159,7 @@ Las reglas establecidas en el artículo anterior, también podrán ser aplicadas
 
 Si se trata de delitos calificados como graves y la afectación haya sido de carácter estrictamente patrimonial, las autoridades judiciales y ejecutoras, podrán promover la realización de tales convenios, tomando en cuenta sobre todo el beneficio de la víctima, y que ello no se traduzca en riesgo social, dadas las características del sentenciado.
 
-### CAPITULO CUARTO. Juicio
+### CAPITULO TERCERO. Instrucción
 
 ###### Artículo 324.
 
@@ -3239,7 +3261,7 @@ VI. Las referencias o modalidades que puedan presentarse en las descripciones t�
 
 La probable responsabilidad del inculpado se tendrá por acreditada cuando se deduzca su autoría, participación o complicidad en los hechos constitutivos del cuerpo del delito demostrado y que su acción u omisión haya provocado el resultado de afectación o puesta en peligro del bien jurídico tutelado o haya contribuido eficazmente en tal provocación.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO CUARTO. Juicio
 
 ###### Artículo 338.
 
@@ -3263,7 +3285,7 @@ Una vez concluido el término establecido para la instrucción, se procederá a 
 
 Si dictado auto de formal prisión los sujetos procesales interesados manifiestan expresamente su conformidad con el mismo o no hicieron valer los recursos correspondientes de impugnación, si a juicio del juez obran en el expediente pruebas suficientes para acreditar el monto de la reparación de los daños y perjuicios ocasionados a que pudiera ser condenado el inculpado, o tales daños y perjuicios han quedado cubiertos a satisfacción de la víctima u ofendidos, se pondrá el expediente a la vista por el término de tres días para ofrecimiento de pruebas. En caso de no promoción o concluido el desahogo de las admitidas, se dictará el auto que declara cerrada la instrucción y se citará a la audiencia final de juicio, en la que el Ministerio Público, la víctima u ofendido, el acusado y su defensor, expresen las conclusiones que correspondan. El juez dictará sentencia en la misma audiencia o en un término no mayor de diez días, tomando en cuenta para la individualización de la pena, las circunstancias atenuantes descritas en la presente legislación.
 
-### CAPITULO SEGUNDO. Comprobación Inmediata y Medios Auxiliares
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 343.
 
@@ -3343,7 +3365,9 @@ b) Informar el inculpado de la existencia del hecho punible a las autoridades co
 
 c) Reparar el inculpado los daños y perjuicios ocasionados, o disminuir sus efectos, antes de que se dicte sentencia, o se encuentre en el supuesto procesal establecido en el artículo 342.
 
-Para el efecto, se consideran circunstancias Agravantes, aplicables a todos los hechos punibles:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2007)</small>
+
+Par (sic) efecto, se consideran circunstancias Agravantes, aplicables a todos los hechos punibles:
 
 a) Realizar la conducta con Alevosía, mediante disfraz, con abuso de superioridad o aprovechando las circunstancias de lugar, tiempo o falta de auxilio, que debiliten la defensa de la víctima o la impunidad del inculpado;
 
@@ -3353,9 +3377,19 @@ c) Aumentar deliberadamente el sufrimiento de la víctima, causando a ésta pade
 
 d) Obrar con abuso de confianza;
 
-e) Pertenecer o haber pertenecido el inculpado a un cuerpo de seguridad pública o privada; y
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+e) Pertenecer o haber pertenecido el inculpado a un cuerpo de seguridad pública o privada;
 
 f) Tener el inculpado antecedentes de ser persona conflictiva para la sociedad, según informes que proporcionen al respecto las autoridades policíacas, o ser reincidente, según informes que proporcione al respecto la autoridad encargada de la aplicación de las penas y medidas de seguridad previstas en la presente legislación, a las que la propia autoridad jurisdiccional obtenga por informes de las instituciones del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+g) Portar cualquier tipo de arma; y
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+h) Realizar la conducta en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
 
 ###### Artículo 354.
 
@@ -3521,7 +3555,7 @@ Con tal notificación se les hará entrega de las copias autorizadas de la sente
 
 ## TITULO QUINTO. MEDIOS PROBATORIOS
 
-### CAPITULO TERCERO. Testimonios
+### CAPITULO SEGUNDO. Comprobación Inmediata y Medios Auxiliares
 
 ###### Artículo 378.
 
@@ -3551,7 +3585,7 @@ Durante la fase de Instrucción, las pruebas deben ser recibidas por el Juez con
 
 Toda persona en cuyo poder se hallen cosas o documentos que deban servir de prueba, tienen la obligación de exhibirlos, cuando para ello sea requerido en forma por el Ministerio Público, durante la fase de la averiguación previa, o por el juez, durante las fases de la averiguación procesal, con las salvedades que establezcan las leyes.
 
-### CAPITULO CUARTO. Pericial
+### CAPITULO TERCERO. Testimonios
 
 ###### Artículo 382.
 
@@ -3601,7 +3635,7 @@ Los objetos asegurados que no estén sometidos a decomiso, restitución o embarg
 
 Cuando para la averiguación de un hecho punible fuera indispensable la clausura de un local o la inmovilización de cosas muebles, que por su naturaleza o dimensiones no puedan ser mantenidas en depósito, se ordenará lo conducente para su realización, en la medida que contribuya esto para el éxito de la investigación.
 
-### CAPITULO QUINTO. Documental
+### CAPITULO CUARTO. Pericial
 
 ###### Artículo 391.
 
@@ -3697,7 +3731,7 @@ Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alg
 
 El servidor público que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
 
-### CAPITULO SEXTO. Confesión
+### CAPITULO QUINTO. Documental
 
 ###### Artículo 409.
 
@@ -3767,7 +3801,7 @@ Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no s
 
 Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse o decretarse el cotejo de letras o firmas, que se practicará con documentos indubitables o con los que los sujetos procesales interesados reconozcan como tales; con aquellos cuya firma o letra haya sido reconocida judicialmente, y con el escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique.
 
-### CAPITULO SEPTIMO. Medios Complementarios
+### CAPITULO SEXTO. Confesión
 
 ###### Artículo 424.
 
@@ -3813,15 +3847,13 @@ Si la traducción fuere objetada, se ordenará que sean traducidos por los perit
 
 Los sujetos procesales interesados tienen el derecho para redargüir de falsedad los documentos públicos que obran en autos y para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
 
-### CAPITULO OCTAVO. Valoración de la Prueba
+### CAPITULO SEPTIMO. Medios Complementarios
 
 ###### Artículo 433.
 
 La confesión es la aceptación voluntaria llevada a cabo por el inculpado del hecho punible que se le imputa, que haya sido motivo de investigación y previamente acreditado por medios probatorios diversos. Tal aceptación sólo será válida si la emite persona mayor de dieciséis años, en pleno uso de sus facultades mentales, ante el Ministerio Público o el juez de la causa, en presencia de su Defensor y emitida además con las formalidades señaladas por el apartado A del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y de la presente legislación. Se admitirá en cualquiera de las etapas del procedimiento previas al dictado de sentencia irrevocable.
 
-### CAPITULO PRIMERO. Recursos
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+### CAPITULO OCTAVO. Valoración de la Prueba
 
 ###### Artículo 434.
 
@@ -3907,7 +3939,9 @@ En el procedimiento penal, los sujetos procesales interesados podrán hacer vale
 
 Esta prueba podrá ser ofrecida, analizada y valorada, para determinar la existencia de todos y cada uno de los elementos del delito que corresponda en relación con los hechos investigados, siempre y cuando los datos conocidos y demostrados se hayan obtenido con apego irrestricto a las disposiciones de la presente normatividad.
 
-### CAPITULO SEGUNDO. Incidentes
+### CAPITULO PRIMERO. Recursos
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 450.
 
@@ -3945,7 +3979,7 @@ Los tribunales, en sus resoluciones, expondrán los razonamientos que hayan teni
 
 ## TITULO SEXTO. IMPUGNACIONES E INCIDENTES
 
-### CAPITULO TERCERO. Sobreseimiento
+### CAPITULO SEGUNDO. Incidentes
 
 ###### Artículo 456.
 
@@ -4111,7 +4145,7 @@ Siempre que el tribunal de apelación encuentre que se retardó indebidamente el
 
 Cuando el tribunal de apelación notare que el defensor faltó a sus deberes, por no haber interpuesto los recursos que procedían, por haber abandonado los interpuestos, cuando de las constancias de autos apareciere que debían prosperar, por no haber alegado circunstancias probadas en el procedimiento y que hayan favorecido notablemente al procesado, o por haber alegado hechos no probados en autos, podrán imponerle una corrección disciplinaria. Si el defensor fuere de Oficio, el tribunal deberá además, dar cuenta al superior de aquél, llamándole la atención sobre la negligencia o ineptitud de dicho defensor.
 
-### CAPITULO CUARTO. Incidentes No Especificados
+### CAPITULO TERCERO. Sobreseimiento
 
 ###### Artículo 480.
 
@@ -4167,9 +4201,17 @@ XVII. Rebelión, prevista en el artículo 83; y
 
 XVIII. Homicidio Culposo, prevista en el artículo 92, párrafo tercero;
 
-XIX. Aborto Culposo, prevista en el artículo 93, párrafo tercero; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
 
-XX. Lesiones Culposas, previstas en el artículo 94, último párrafo, en relación al artículo 10, fracciones IV, V y VI.
+XIX.- Aborto culposo, prevista en el Artículo 93, párrafo tercero;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+XX.- Lesiones culposas previstas en el Artículo 94, penúltimo párrafo, en relación al Artículo 10 fracciones IV, V y VI; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+XXI.- Lesiones previstas en el Artículo 10, cuando se cometan con la circunstancia agravante señalada en el inciso h), párrafo tercero del Artículo 353.
 
 En lo que se refiere a la figura típica de Atentados a la Estética Urbana, se podrá conceder el beneficio de la libertad provisional bajo caución, si el inculpado repara el daño causado, dentro de los diez días siguientes a la fecha en que haya sido puesto a disposición de la autoridad judicial.
 
@@ -4392,6 +4434,8 @@ Transcurrido el plazo a que se refiere el párrafo anterior y recabadas las cons
 ###### Artículo 512.
 
 El responsable de la pérdida o sustracción de algún expediente o constancia del mismo, tendrá la obligación de pagar los daños y perjuicios que se hayan ocasionado, independientemente de la responsabilidad de carácter penal o administrativo que pudiere surgir.
+
+### CAPITULO CUARTO. Incidentes No Especificados
 
 ###### Artículo 513.
 
@@ -5086,3 +5130,23 @@ P.O. 11 DE DICIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2007.
+
+DECRETO NUMERO 313
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+El Artículo 42 de la Legislación Penal para el Estado de Aguascalientes, vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia; asimismo, seguirán aplicándose a las personas indiciadas, procesadas o sentenciadas por los delitos previstos y sancionados por dicho Artículo.
+
+P.O. 23 DE ABRIL DE 2007.
+
+DECRETO NUMERO 314
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
