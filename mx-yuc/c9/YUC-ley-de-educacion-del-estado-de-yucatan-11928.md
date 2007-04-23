@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-11928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-30"
-last_updated: "1995-06-30"
+last_updated: "2007-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE EDUCACION DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 23 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 30 de junio de 1995.
 
@@ -453,9 +455,9 @@ La educación a que se refiere la presente sección tendrá, las modalidades de 
 
 Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos mediante exámenes parciales o globales, conforme a las disposiciones legales aplicables.
 
-#### SECCION 2.-. DE LA EDUCACION INFORMAL Y DE LOS MEDIOS
+#### SECCION 2.-
 
-DE DIFUSION EDUCATIVA.
+DE LA EDUCACION INFORMAL Y DE LOS MEDIOS DE DIFUSION EDUCATIVA.
 
 ###### ARTICULO 53.
 
@@ -864,3 +866,31 @@ ING. FEDERICO GRANJA RICALDE
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 23 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los treinta días de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación del Estado de Yucatán publicada en el Diario Oficial del Gobierno del Estado de fecha 30 de junio de 1995.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones contrarias a esta ley.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones reglamentarias que deriven de esta ley, deberán emitirse a más tardar en un plazo de ciento ochenta días naturales siguientes a la fecha de entrada en vigor de esta ley.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones de esta ley relativas a la obligatoriedad de la educación preescolar, entrarán en vigor en los términos del artículo quinto transitorio del Decreto por el que se aprueba el diverso por el que se adiciona el artículo Tercero en su párrafo primero, fracciones III, V, VI y el artículo 31 en su fracción I, de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 12 de noviembre de 2002. En los plazos señalados el Estado habrá de universalizar en la entidad con calidad, la oferta de este servicio educativo.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos administrativos que se encuentren en tramitación a la entrada en vigor de esta ley, se resolverán en los términos de las disposiciones de la ley que se abroga.
