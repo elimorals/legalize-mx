@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2007-03-15"
+last_updated: "2007-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -189,6 +189,10 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+El Estado regulará un Sistema de Justicia Alternativa, cuyo servicio también será gratuito.
+
 Las leyes locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
@@ -198,6 +202,10 @@ Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trasce
 Toda persona reducida a prisión tiene derecho a la readaptación social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
 
 El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+El Estado implementará un Sistema Integral de Justicia para Adolescentes, en los términos de la Ley en la materia.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 1992)</small>
 
@@ -459,7 +467,9 @@ IV. Para garantizar la legalidad de los actos y resoluciones electorales, se est
 
 En materia electoral la interposición de los medios de impugnación no producirán efectos suspensivos sobre la resolución o el acto impugnado.
 
-La Ley Electoral tipificará los delitos y determinará las faltas en esa materia, así como las sanciones que por ellos deban imponerse.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+El Código Penal tipificará los delitos y determinará las faltas en esa materia, así como las sanciones que por ellos deban imponerse.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -507,11 +517,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
 
 ###### Artículo 29.
 
-El Congreso se integra con dieciocho diputados de mayoría electos por votación directa, secreta y uninominal en dieciocho distritos electorales y once diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
+El Congreso se integra con dieciocho Diputados de mayoría electos por votación directa, secreta y uninominal en dieciocho distritos electorales y doce Diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -553,7 +563,9 @@ II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
 III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, los Consejeros del Consejo de la Judicatura, el Procurador General de Justicia del Estado, el Subprocurador General de Justicia y los Servidores Públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos sesenta días antes del día de la elección;
 
-Los Magistrados del Tribunal Electoral del Estado, el Subprocurador de Asuntos Electorales y los Consejeros Ciudadanos del Instituto Estatal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del día de la elección;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+Los Consejeros Electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
@@ -1021,7 +1033,9 @@ V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seg
 
 VI. No ser Servidor Público Federal o Local, Secretario de Despacho del Ejecutivo, Procurador General de Justicia del Estado, Subprocurador General de Justicia, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, Consejero del Consejo de la Judicatura, Diputado Local o Presidente Municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
 
-No ser Magistrado del Tribunal Electoral del Estado, Subprocurador de Asuntos Electorales o Consejero Ciudadano del Consejo General del Instituto Estatal Electoral, a menos que se separen de su cargo un año antes de la fecha de la elección.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+No ser Consejero Electoral, Subprocurador de Asuntos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y Magistrado del Tribunal Electoral del Poder Judicial del Estado, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1389,7 +1403,7 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2007)</small>
 
 ###### Artículo 89.
 
@@ -1439,7 +1453,7 @@ Solo podrán ser removidos en los términos previstos por esta Constitución; po
 
 ###### Artículo 93.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Consejo de la Judicatura, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de ésta Constitución y su Ley Orgánica.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común, en un Tribunal Fiscal Administrativo y en un Tribunal Electoral, en los términos de esta Constitución y su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -1707,7 +1721,15 @@ V.- Implementar las medidas adecuadas para la formación de funcionarios y el de
 
 VI.- Expedir los acuerdos generales para su adecuado funcionamiento. El Tribunal Superior de Justicia podrá solicitar al Consejo, que expida los acuerdos generales que considere necesarios, para el adecuado ejercicio de la función jurisdiccional, así como revisar y revocar los acuerdos del Consejo;
 
-VII.- Conocer de las acusaciones o quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas.
+VII.- Conocer de las acusaciones o quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial, con excepción de los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2007)</small>
+
+VIII.- Implementar el Sistema de Justicia Alternativa;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2007)</small>
+
+IX.- Las demás que señale la Ley.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1993,7 +2015,9 @@ VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiás
 
 VII. Saber leer y escribir y
 
-VIII. En el caso de Los Magistrados del Tribunal Electoral, el subprocurador de asuntos electorales y los consejeros ciudadanos del Consejo General del Instituto Estatal Electoral, deberán separarse de su encargo cuando menos un año antes del día de la elección.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+VIII. En el caso de los Consejeros electorales, el Subprocurador de Asuntos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2077,7 +2101,7 @@ I. Administrarán libremente su Hacienda, la cual se formará de los rendimiento
 
 II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
 
-III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado, y
+III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos, que anualmente se determinen por la Legislatura del Estado y
 
 IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
 
@@ -2954,3 +2978,19 @@ P.O. 15 DE MARZO DE 2007.
 DECRETO NUM. 349 QUE REFORMA EL ARTICULO 71 DE LA CONSTITUCION.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2007.
+
+DECRETO NUM. 359, QUE REFORMA Y ADICIONA LOS ARTICULOS 9, 93 Y 100 TER DE LA CONSTITUCION.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La Ley relativa a la Justicia Alternativa deberá emitirse dentro del año siguiente a que entre en vigor este Decreto.
+
+P.O. 23 DE ABRIL DE 2007.
+
+DECRETO NUM. 361, QUE REFORMA LOS ARTICULOS 24, 29, 32, 63 Y 128 DE LA CONSTITUCION.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
