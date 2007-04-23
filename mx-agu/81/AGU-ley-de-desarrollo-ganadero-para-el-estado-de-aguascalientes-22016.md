@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2001-07-23"
+last_updated: "2007-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -85,13 +85,23 @@ Serán autoridades auxiliares para aplicar esta Ley:
 
 I. Comité Estatal de Fomento y Protección Pecuaria del Estado de Aguascalientes;
 
-II. Unión Ganadera Regional de Aguascalientes;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+II. Unión Ganadera Regional de Aguascalientes; Unión Ganadera Regional General Hidrocálida; y Organización de Industriales de la Carne, Anexos y Similares, A.C.;
 
 III. Asociaciones Apícolas de Aguascalientes;
 
-IV. Dirección General de Seguridad Pública y Vialidad Estatal; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
 
-V. Las demás que se señalen en el reglamento derivado de esta Ley.
+IV. Secretaría de Agricultura Ganadería y Desarrollo Rural, Pesca y Alimentación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2007)</small>
+
+V. Instituto de Salud del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ABRIL DE 2007)</small>
+
+VI. Las demás que establezca esta Ley y su Reglamento.
 
 ### CAPITULO III. De las Facultades de las Autoridades Competentes
 
@@ -115,21 +125,63 @@ VII. Coordinarse con el Gobierno Federal para vigilar la aplicación de las norm
 
 VIII. Imponer las sanciones que prevé la presente Ley en el ámbito de sus competencias, así como resolver el recurso administrativo que se interponga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 8o.
 
-Las autoridades competentes se coordinarán con la SEMARNAT y la SAGARPA a fin de:
+La Comisión se coordinará con la SAGARPA; Instituto de Salud del Estado de Aguascalientes; CEFOPPA, y con las autoridades Federales, Estatales y Municipales a fin de cumplir con el objeto de la presente Ley, así como para evitar el uso de Clenbuterol en los animales que se destinen para el consumo humano, para lo cual deberá:
 
 I. Realizar inspecciones y estudios en predios ganaderos con el objeto de rendir dictámenes sobre las condiciones que se encuentren los recursos naturales. Tales dictámenes establecerán en su caso, las medidas y recomendaciones que deban tomarse para el uso adecuado de los recursos en el predio de que se trate;
 
 II. Vigilar el uso de los recursos naturales de los pastizales;
 
-III. Coadyuvar al cumplimiento de la ley forestal en relación a la tramitación y autorización de las solicitudes que se presenten para desmontes, cortes de postes, ramas, así como el establecimiento de las vedas que sean necesarias;
+III. (DEROGADA, P.O. 23 DE ABRIL DE 2007)
 
 IV. Coadyuvar en la aplicación y cumplimiento de las Leyes Federales en la materia;
 
-V. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y
+V. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y (sic)
 
-VI. Proteger la fauna silvestre.
+VI. Proteger la fauna silvestre;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+VII. Detectar e impedir el uso de sustancias beta-agonistas, como el clorhidrato de Clenbuterol, entre otros, en los animales que se destinen para consumo humano; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+VIII. Activar y coordinar el Dispositivo Estatal de Emergencia de Salud Pública y Animal para tomar las medidas zoosanitarias de aplicación permanente y urgente para la detección de sustancias beta-agonistas, como el clorhidrato de Clenbuterol, entre otros, e impedir su uso como promotor de crecimiento de la masa muscular en el ganado para abasto; las cuales serán:
+
+a) Establecer un programa interinstitucional de coadyuvancia entre la Comisión Para el Desarrollo Agropecuario del Estado de Aguascalientes, el Instituto de Salud del Estado, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Dirección General de Seguridad Pública y Vialidad Estatal, las Presidencias Municipales y el Comité de Fomento y Protección Pecuaria de Aguascalientes S. C., con la participación activa de la población, para la verificación de las unidades de producción pecuaria, establecimientos que expendan productos para la alimentación de animales, establecimientos que expendan productos y subproductos cárnicos para consumo humano, establecimientos dedicados al sacrificio de animales y demás relacionados con el sector pecuario en el Estado;
+
+b) La implementación de un programa de difusión sobre las consecuencias legales y las sanciones administrativas y penales a que pueden hacerse acreedores quienes introduzcan, posean, transporten o comercien con animales destinados al consumo humano y hayan sido alimentados con clorhidrato de Clenbuterol, así como los productos o subproductos, que contengan clorhidrato de Clenbuterol, o cualquier otro tipo o clase de sustancias, producto químico, farmacéutico, biológico, alimenticio o de cualquier otra índole no permitidas;
+
+c) Vigilar y prevenir la introducción, transportación, distribución, comercialización de Clenbuterol, o cualquier tipo o clase de sustancias, producto químico, farmacéutico, biológico, alimenticio o de cualquier otra índole no permitida en la alimentación del ganado para consumo humano;
+
+d) La implementación de un sistema de certificación estatal de los lotes de animales para consumo humano, en las unidades de producción pecuaria, mediante un aretado distintivo y/o marca de herrar que los identifique como libres de clorhidrato de Clenbuterol, sin que esto exima a los propietarios y/o poseedores de los animales de ser verificados en los distintos centros de sacrificio o procesamiento;
+
+e) Evitar el sacrificio de animales de abasto para consumo humano, en los rastros del Estado, lugares o establecimientos autorizados para matanza de animales, cuando se detecte la presencia de clorhidrato de Clenbuterol en los resultados de laboratorio;
+
+f) Establecer un programa de vigilancia en los principales puntos de verificación interna (PVI'S) que opera el Comité Estatal de Fomento y Protección Pecuaria en el Estado, para evitar que ingresen al territorio Estatal animales vivos, productos y subproductos cárnicos contaminados con clorhidrato de Clenbuterol, mediante la solicitud del certificado zoosanitario;
+
+g) Las autoridades de Seguridad Pública en el Estado coadyuvarán en la vigilancia y evitarán la movilización de animales que no cuenten con la certificación de hato libre de Clenbuterol y cumplimiento de las demás disposiciones legales;
+
+h) La implementación de un programa interinstitucional de inspección en los rastros en el Estado a fin de verificar y tomar muestras aleatorias e indistintamente en sangre, orina, pelo, retina, músculo e hígado en animales presentados por los productores e introductores de ganado para su sacrificio y destino para consumo humano;
+
+i) El horario de servicio del sacrificio de animales en los distintos rastros del Estado, lugares o establecimientos autorizados para la matanza de animales, incluyendo las plantas TIF, será de las 8:00 a las 18:00 horas, de lunes a viernes;
+
+j) Retención del ganado y no sacrificio del mismo, si no cumple con la requisición completa de la información y entrega de la guía de tránsito o la constancia de identificación de ganado, la identificación oficial del productor o introductor de animales para consumo humano, que estos presenten ante los Rastros del Estado, lugares o establecimientos autorizados para matanza de animales;
+
+k) Establecer gabinetes móviles y fijos para el análisis de muestras aleatorias e indistintamente en sangre, orina, pelo, retina, músculo e hígado, para verificar la presencia de clorhidrato de Clenbuterol en animales destinados al consumo humano;
+
+l) Restringir la movilización y sacrificio de lotes de animales destinados al consumo humano, en los que exista sospecha fundada de que han sido alimentados con clorhidrato de Clenbuterol, hasta en tanto se cuenten con resultados libres de Clenbuterol, sin que la restricción exceda de noventa días;
+
+En el caso de que se determine el origen del ganado dentro del Estado, se procederá a la realización de la visita de verificación en la unidad de producción pecuaria a efecto de constatar la presencia de clorhidrato de Clenbuterol en el ganado existente y en la dieta de los animales para consumo humano;
+
+m) La destrucción por cualquier medio, de productos y subproductos cárnicos para consumo humano, así como de alimentos para ganado en los que se confirme la presencia del clorhidrato de Clenbuterol;
+
+n) La implementación de un programa de difusión sobre las unidades de producción pecuaria y de sacrificio de animales para consumo humano y de los establecimientos que comercialicen o distribuyan productos o subproductos cárnicos para consumo humano y se encuentren certificados como expendedores de productos libres de clorhidrato de Clenbuterol; y
+
+o) Con la información recibida sobre el uso de clorhidrato de Clenbuterol, la Comisión dará cuenta a los tres niveles de gobierno para que instrumenten los procedimientos administrativos de calificación de infracciones e impongan las sanciones administrativas correspondientes, asimismo hará del conocimiento de las autoridades competentes, la existencia de hechos que pudieran ser constitutivos de figuras típicas constitutivas de un hecho punible previstas en la Legislación Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 9o.
 
@@ -159,21 +211,39 @@ X. Vigilar la aplicación de las normas oficiales mexicanas en la materia, y dic
 
 Son atribuciones de la Comisión, sin perjuicio de otras que le otorgue la presente Ley:
 
-I. Determinar el formato único que deberán cumplir las Constancias de Identificación de Ganado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+I. Determinar los formatos únicos que deberán cumplir las Constancias de Identificación de Ganado y de las Guías de Tránsito establecidas en esta Ley, las cuales serán entregadas a las personas autorizadas y certificadas por la Comisión;
 
 II. Nombrar inspectores que sean necesarias (sic) para la correcta aplicación de la presente Ley;
 
-III. Llevar permanentemente un expediente por año y por Municipio, con los ejemplares de las patentes registradas y un libro en el que consten los datos que caractericen su registro;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+III. Llevar permanentemente un expediente por año y por Municipio, con los ejemplares de los fierros o marcas distintivas para la identificación de propiedad de ganado y un libro en el que consten los datos que caractericen su registro y demás elementos de distinción de cada uno de ellos;
 
 IV. Declarar a un animal como mostrenco si no se encuentra en el Registro General de Fierros y Marcas las señales que ostenta el animal; así como llevar el registro general de los animales mostrencos;
 
-V. Verificar exámenes médicos y realizar las pruebas de diagnóstico que considere necesarias en los animales que sean introducidos al Estado;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+V. Llevar a cabo exámenes médicos y realizar las pruebas de diagnóstico que considere necesarias en los animales que sean introducidos al Estado con el fin de evitar la presencia de plagas, enfermedades y sustancias prohibidas presentes en los animales;
 
 VI. Autorizar los libros de registro a los propietarios de saladeros, tenerías y las personas que se dediquen al comercio de pieles crudas;
 
-VII. Levantar actas circunstanciadas con motivo de la violación de la presente Ley; y
+VII. Levantar actas circunstanciadas con motivo de la violación de la presente Ley; y (sic)
 
-VIII. Evaluar el desarrollo de los programas y acciones concertadas entre la Federación y el Estado.
+VIII. Evaluar el desarrollo de los programas y acciones concertadas entre la Federación y el Estado;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+IX. Designar y publicar en el Periódico Oficial a las personas que expedirán los documentos a que se refiere la Fracción I de este Artículo, y llevar un registro pormenorizado respecto de los documentos entregados para su expedición en materia de la normatividad pecuaria;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+X. Cancelar la autorización a la persona responsable por un indebido manejo de los documentos señalados en las fracciones I y IX de este Artículo y, en su caso, formular la denuncia de hechos correspondiente; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+XI. Revisar los libros de registro de los rastros, donde se identificará plenamente al introductor o propietario del ganado, y se constará el origen, destino y estado zoosanitario del animal sacrificado y las acciones efectuadas ante las irregularidades detectadas.
 
 ###### ARTICULO 11.
 
@@ -181,7 +251,9 @@ Son Facultades de los Municipios:
 
 I. Llevar un registro de los medios de identificación de ganado;
 
-II. Respetar el formato único de las Constancias de Identificación de Ganado que determine la Comisión;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+II. Respetar el formato único de las Constancias de Identificación de Ganado y de Guías de Tránsito que determine la Comisión;
 
 III. Fijar en los lugares de costumbre la solicitud de registro de fierros, marcas y señales;
 
@@ -193,13 +265,17 @@ VI. Llevar el registro general de los animales mostrencos;
 
 VII. Rematar en pública subasta el animal cuya acreditación de propiedad no se realice;
 
-VIII. Autorizar el sacrificio de un animal en donde no exista rastro público o cuando se destine al consumo doméstico;
+VIII. (DEROGADA, P.O. 23 DE ABRIL DE 2007)
 
-IX. Autorizar el funcionamiento de los rastros y lugares de matanza, oyendo la opinión de las autoridades competentes;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+IX. Autorizar el funcionamiento de los rastros y lugares de matanza, sujetándose a los procedimientos y normatividades para el sacrificio de animales que emitan las autoridades competentes;
 
 X. Autorizar al rastro el Libro de entrada de animales para su sacrificio;
 
-XI. Revisar los libros de registro de los rastros;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+
+XI. Revisar los libros de registro de los rastros, donde se identificará plenamente al introductor o propietario del ganado, y se hará constar el origen, destino y estado zoosanitario del animal sacrificado y las acciones efectuadas ante las irregularidades detectadas;
 
 XII. Otorgar permisos para sacrificio de animales en el campo por ser broncos o por cualquier otra circunstancia; y
 
@@ -713,6 +789,10 @@ Todo propietario de ganado tiene la obligación de colaborar en el financiamient
 
 Queda prohibida la salida del Estado o la movilización interior, de animales atacados de enfermedades infectocontagiosas, o que se sospeche de que lo están.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+
+ARTICULO 118 A.- Se prohíbe el uso de sustancias beta-agonistas, como el clorhidrato de Clenbuterol, entre otros, que tengan como finalidad un uso distinto al médico-terapéutico en animales que se destinen al consumo humano.
+
 ###### ARTICULO 119.
 
 Solo podrán entrar al Estado animales o subproductos procedentes de zonas en las que esté comprobada la inexistencia de una enfermedad infectocontagiosa; además cumplir con los requisitos marcados por la normatividad oficial en materia de sanidad animal, por representar un riesgo zoosanitario para la ganadería estatal.
@@ -868,3 +948,11 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
