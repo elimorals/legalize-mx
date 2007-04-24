@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-33623"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2003-08-30"
+last_updated: "2007-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -567,83 +567,125 @@ Las sanciones previstas en las fracciones I y II serán aplicadas por el superio
 
 ### CAPITULO VII. De las Comisiones de Honor y Justicia
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 52.
 
-Todos los cuerpos de seguridad pública contarán con una Comisión de Honor y Justicia, que será el órgano colegiado que deberá conocer y resolver en el ámbito de su competencia, las sanciones a que se hagan merecedores los elementos en el ejercicio de sus funciones; aplicando las sanciones y hasta baja en esta relación administrativa, con exclusión del director general, directores de área, subdirectores o sus equivalentes.
+La Comisión de Honor y Justicia es un órgano colegiado de carácter permanente, encargado de conocer sobre infracciones o faltas a los deberes previstos en la ley, sus reglamentos, o a los ordenamientos jurídicos de la materia, cometidas por los integrantes de los cuerpos de seguridad, así como de imponer las sanciones correspondientes; tratándose de conductas probablemente constitutivas de delitos, deberá hacerlas del conocimiento, sin demora, de la autoridad competente.
 
-Esta comisión además conocerá y dictaminará sobre la actuación y comportamiento a observar de los cuerpos de seguridad, así como proponer las distinciones y recompensas que deban otorgárseles en los términos que fijen los reglamentos respectivos.
-
-La Comisión de Honor y Justicia tendrá la obligación de poner a disposición de la autoridad competente, a los elementos que cometan actos presuntamente constitutivos de delitos.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 53.
 
-La Comisión de Honor y Justicia de la Dirección se integrará por acuerdo del Secretario, y estará formada por:
+Todos los cuerpos de seguridad pública contarán con una Comisión de Honor y Justicia.
 
-I. Un Presidente, que será el Director de Estado Mayor de la Dirección;
+La Comisión de Honor y Justicia contará, por lo menos, con un Presidente, un Secretario y tres vocales; siendo sus nombramientos honoríficos, por lo que en su ejercicio no generarán percepción alguna.
 
-II. Un Secretario, que será el Director de Inspección General de la propia Dirección, y
+Los titulares de los cuerpos de seguridad, con sujeción a lo dispuesto en la ley, deberán expedir el reglamento respectivo, en el que se señalará la forma en que se integrará y funcionará la correspondiente Comisión de Honor y Justicia, la cual en todo caso presidirán.
 
-III. Tres vocales que serán:
-
-a) Primer vocal, un representante del Secretario.
-
-b) Segundo vocal, un jefe de área de la Dirección.
-
-c) Tercer vocal, un jefe de área de la Dirección.
-
-Esta Comisión tendrá la facultad de designar sustituto o suplente, en caso de ausencia temporal o ausencia definitiva de los titulares.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 54.
 
-Las comisiones de Honor y Justicia en los municipios tendrán en el ámbito de sus respectivas competencias, las mismas atribuciones de la Comisión de Honor y Justicia de la Dirección, y se integrarán por acuerdo del presidente y estarán formadas por:
+La Comisión de Honor y Justicia tendrá las atribuciones siguientes:
 
-I. Un Presidente, que será designado por el presidente municipal;
+l. Realizar el análisis de las probables infracciones cometidas por los integrantes de los cuerpos de seguridad, escuchando en todo caso los argumentos del presunto infractor;
 
-II. Un Secretario, que será el Director, subjefe o equivalente del propio cuerpo de seguridad pública municipal de policía o tránsito, según corresponda, y
+II. Imponer, cuando actúe como autoridad, las correcciones o medidas disciplinarias que disponga la presente Ley;
 
-III. Un Vocal, que será el secretario del ayuntamiento, o el funcionario municipal que éste designe como su representante.
+III. Determinar la aplicación de sanciones a los infractores, de conformidad con la ley y su reglamento, y
 
-Cuando el elemento que sea sometido a procedimiento ante la Comisión pertenezca a la corporación de tránsito, integrará la Comisión el Director de Policía Preventiva o su equivalente; y cuando se trate de un elemento que pertenezca a la corporación de policía preventiva, integrará la Comisión el Director de Tránsito o su equivalente.
-
-Los miembros de la Comisión señalados en las fracciones I y II de este artículo deberán nombrar un suplente, mismo que cubrirá sus ausencias temporales. Cuando sea alguno de ellos quien promueva el proceso de algún elemento de la corporación, el suplente se integrará a la Comisión en sustitución de aquél.
+IV. Proponer las distinciones y recompensas que deban otorgárseles a los integrantes de los cuerpos de seguridad, en los términos que fijen los reglamentos respectivos.
 
 ### CAPITULO VIII. El Procedimiento Ante las Comisiones de Honor y Justicia
 
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 55.
 
-Las Comisiones de Honor y Justicia sesionarán cuando menos una vez al mes, y cuando el ejercicio de sus funciones así lo requiera; debiendo ser convocadas por sus respectivos presidentes.
+En cualquier supuesto que amerite una sanción, se deberá respetar en todo momento, las garantías de audiencia y debido proceso.
 
-Los cargos de los integrantes de las Comisiones de Honor y Justicia son honoríficos.
+En consecuencia, cualquier infracción, ya sea que se cometa por acción u omisión, que constituya falta sancionable de acuerdo a la presente Ley, sus reglamentos, o a los ordenamientos jurídicos de la materia, se someterá ante la Comisión de Honor y Justicia, conforme al siguiente procedimiento:
+
+l. Se iniciará por solicitud escrita del superior del presunto infractor; el titular de la unidad administrativa a la cual se encuentre adscrito éste; o cualquiera de los integrantes de la propia Comisión de Honor y Justicia que conozca o tenga conocimiento de la infracción que se imputa.
+
+La denuncia deberá contener el lugar, fecha y hora en que se firma; la imputación que se atribuye al presunto infractor; las pruebas que sustenten la imputación; la motivación para su formulación; y la fundamentación de la falta que se comete;
+
+II. La Comisión de Honor y Justicia, dentro de las veinticuatro horas siguientes, contadas a partir del momento en que reciba el escrito de denuncia, asignará el número progresivo que corresponda al expediente y dictará acuerdo de radicación, en el que señalará día y hora para la celebración de una audiencia, que deberá efectuarse dentro de los treinta días hábiles siguientes al en que se haya recibido la denuncia.
+
+En el mismo acuerdo la Comisión de Honor y Justicia, decretará:
+
+a) Se notifique personalmente a las partes, cuando menos con cinco días de anticipación a la audiencia.
+
+b) Que en el acto de notificación, al demandado se le entregué copia cotejada del escrito de denuncia, así como de las constancias y actuaciones que obren en el expediente, con excepción de la información reservada o confidencial prevista en la fracción III del presente artículo, la cual únicamente se le permitirá consultarla en el local de la instancia y ante la presencia del personal actuante, pudiendo en tal caso tomar las anotaciones que considere pertinentes.
+
+c) Se apercibirá al denunciado que la imputación se tendrá por consentida y aceptada, y por perdido el derecho de ofrecer pruebas si no concurre a la audiencia por causa injustificada.
+
+d) Se haga saber al denunciado el derecho que tiene para exponer su defensa por sí mismo; o bien, para asistirse durante la substanciación del procedimiento, de un abogado o persona de su confianza; así como para ofrecer las pruebas que a su derecho convenga.
+
+En los escritos de denuncia y contestación, las partes ofrecerán sus pruebas, relacionándolas con los puntos controvertidos;
+
+III. Se considerará como reservada o confidencial, la información que pueda comprometer la seguridad pública; poner en riesgo la vida, la seguridad o la salud de cualquier persona; causar un serio perjuicio a las actividades de verificación del cumplimiento de las leyes, prevención o persecución de delitos; la impartición de la justicia; la recaudación de contribuciones; y aquella que sea considerada como tal por la ley.
+
+La resolución que determine una información como confidencial deberá estar debidamente fundada; y tal carácter no podrá ser impedimento para que dicha información sea puesta a disposición de las autoridades jurisdiccionales competentes;
+
+IV. La notificación al presunto infractor se realizará de conformidad con las leyes supletorias aplicables.
+
+El notificador requerirá al denunciado para que señale domicilio para oí r y recibir notificaciones, dentro del lugar de residencia de la instancia que conozca del asunto; apercibiéndolo que en caso de no hacerlo, las subsecuentes notificaciones se realizarán en un lugar visible al público, dentro de las instalaciones que ocupe la Comisión de Honor y Justicia;
+
+V. La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes podrán intervenir en el momento en que se presenten, siempre y cuando la Comisión de Honor y Justicia no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
+
+La audiencia podrá diferirse por causa de fuerza mayor, plenamente acreditada en autos, en cuyo caso deberá notificarse personalmente a las partes, la resolución fundada y motivada que así lo determine, así como la nueva fecha y hora fijadas para la celebración de la audiencia;
+
+VI. El día y hora señalados para la celebración de la audiencia a la que se refieren las fracciones II y V del presente artículo, se procederá conforme a lo siguiente:
+
+a).-El presidente declarará formalmente abierta la sesión y, enseguida, el secretario tomará las generales del presunto infractor, y de su defensor; protestando al primero conducirse con verdad, y discriminándole el cargo al segundo.
+
+b) En caso de no haber comparecido el denunciado, verificándose su legal emplazamiento, de oficio se hará efectivo el apercibimiento a que se refieren las fracciones II y IV del presente artículo, y seguirá el procedimiento en rebeldía.
+
+c) Acto seguido, de haber comparecido el presunto infractor, se procederá a conceder el uso de la palabra, primero al denunciante o a la persona que haya designado mediante oficio como representante, para que haga la ratificación o desistimiento del escrito de denuncia. En caso de desistimiento, el presidente decretará sobreseer el procedimiento y, ordenará, se archive el expediente como asunto total y definitivamente concluido.
+
+d) A continuación, se concederá el uso de la palabra al denunciado y a su defensor, para que den contestación a dicho escrito. El presunto infractor en su comparecencia podrá presentar su defensa por escrito, acompañando copia del mismo para la parte denunciante.
+
+e) Concluida la ratificación del escrito de denuncia y su contestación, si la hubiere, la Comisión analizará y ponderará las pruebas ofrecidas por las partes, resolviendo cuáles son aceptadas o desechadas por no tener relación con los hechos, ser inconducentes o contrarias a derecho; notificando dicha determinación, personalmente, en el acto a las partes, previo al cierre del acta.
+
+f) Los miembros de la instancia están facultados para cuestionar a los comparecientes; solicitar informes u otros elementos de prueba, por conducto del secretario, previa autorización del presidente, con la finalidad de allegarse de datos necesarios para el esclarecimiento del asunto;
+
+VII. Si las pruebas ofrecidas requieren preparación, el presidente establecerá un término probatorio de quince días para su desahogo. En caso contrario, se declarará agotada la instrucción y se dará curso al procedimiento;
+
+VIII. Para el desahogo de las pruebas ofrecidas por las partes, el presidente podrá hacer uso de las siguientes correcciones disciplinarias o medidas de apremio, en su caso:
+
+a) Apercibimiento.
+
+b) Multa hasta por el importe de veinte días de salario mínimo vigente en el momento que se haya cometido la supuesta falta de la que se está conociendo.
+
+c) Suspensión hasta por quince días, que sólo se aplicará a servidores públicos.
+
+d) Auxilio de la fuerza pública.
+
+e) Arresto hasta por treinta y seis horas;
+
+IX. Desahogadas las pruebas, se decretará auto declarando agotada la instrucción, y se citará a las partes para la audiencia de alegatos, señalando fecha, lugar y hora; dicho proveído será notificado personalmente.
+
+En la audiencia de alegatos se concederá en primer lugar la participación a la parte acusadora y, en segundo término, al acusado; las partes podrán formular verbalmente o por escrito sus planteamientos; sin que los alegatos verbales puedan exceder de media hora por cada parte; en todo caso se harán constar en el acta correspondiente;
+
+X. Evacuado el periodo de alegatos, el presidente de la comisión de Honor y Justicia declarará cerrada la instrucción y, dictará, auto de citación para resolución definitiva, y
+
+XI. La Comisión de Honor y Justicia, dentro del término de diez días hábiles, contados a partir del día siguiente al en que se notifique a las partes el cierre de instrucción, procederá a dictar la resolución que corresponda; la cual será notificada personalmente al interesado y al denunciante dentro de los tres días siguientes. Al elemento sujeto a procedimiento declarado en rebeldía, se le notificará por estrados, surtiendo desde ese momento sus efectos.
+
+La resolución definitiva que dicte la Comisión de Honor y Justicia deberá estar debidamente fundada y motivada; contener una relación suscinta de los hechos; así como una valoración de todas y cada una de las pruebas aportadas; ser clara, precisa y congruente con la denuncia, contestación y demás pretensiones deducidas oportunamente en el procedimiento.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 56.
 
-El procedimiento ante las comisiones de Honor y Justicia se sujetará a las siguientes formalidades:
+Las resoluciones por las que se impongan sanciones disciplinarias no admiten recurso alguno, pero podrán ser impugnadas ante el Tribunal Estatal de lo Contencioso Administrativo, en los términos establecidos por la Ley de Justicia Administrativa del Estado de San Luis Potosí.
 
-I. El titular del cuerpo de seguridad pública respectivo, presentará ante el presidente de la Comisión de Honor y Justicia que corresponda, un escrito en el que puntualice los hechos que se atribuyan al elemento o elementos de dicho cuerpo que vayan a ser sometidos al procedimiento; anexando las probanzas que sirvan de apoyo;
-
-II. La Comisión de Honor y Justicia dentro de las veinticuatro horas siguientes a la recepción del escrito, dictará acuerdo de radicación en el que se fijará fecha y hora para la celebración de una audiencia, que deberá efectuarse dentro de los diez días hábiles siguientes a aquél en que fue dictado el acuerdo. En el mismo acuerdo ordenará se notifique personalmente al titular de la corporación policial respectiva, y se emplace al elemento o elementos del cuerpo de seguridad pública a quienes se atribuyan los hechos materia del procedimiento, con una anticipación a la fecha de la audiencia de cuando menos cinco días hábiles, corriéndoles traslado y emplazándolos con una copia del escrito de puntualización de hechos y sus anexos, con el apercibimiento de que en caso de no presentarse personalmente a la audiencia se le declarará en rebeldía y se tendrán por ciertos los hechos imputados;
-
-III. La audiencia se desarrollará sin abogados patronos, asesores o apoderados de las partes, con o sin la asistencia personal del elemento sujeto a procedimiento; la misma podrá diferirse por causa de fuerza mayor, notificándose a las partes personalmente la nueva fecha y hora de celebración de la audiencia, la cual se sujetará a las normas siguientes:
-
-a) El titular del cuerpo de seguridad pública que corresponda o la persona que designe como representante, hará la ratificación del escrito inicial. Acto seguido, el elemento sujeto a procedimiento dará contestación a dicho escrito, pudiendo hacerlo oralmente o por escrito. En este último caso, deberá entregar copia del mismo al titular del cuerpo de seguridad pública o a su representante.
-
-b) Las partes podrán, por una sola vez, replicar y contrarreplicar brevemente; asentándose en actas sus argumentos.
-
-c) Al concluir la fase anterior se pasará a la de ofrecimiento y admisión de pruebas, en la cual el titular del cuerpo de seguridad pública o su representante ofrecerá sus pruebas, e inmediatamente después el elemento sujeto a procedimiento ofrecerá, en su caso, las que estime pertinentes.
-
-d) Concluido el ofrecimiento de pruebas la Comisión de Honor y Justicia resolverá sobre las que admita y las que deseche.
-
-A continuación se procederá a desahogar las pruebas que así lo ameriten, comenzando con las ofrecidas por el titular del cuerpo de seguridad pública o su representante. La audiencia podrá ser suspendida por una sola vez y por un lapso que no excederá de cinco días hábiles, para aquellas pruebas que requieran un desahogo especial.
-
-Una vez desahogadas las pruebas se declarará cerrada la instrucción, y dentro de los diez días hábiles siguientes se pronunciará la resolución que corresponda.
-
-La resolución se notificará en el domicilio señalado por el elemento y en estrados, surtiendo desde ese momento sus efectos. Contra dicha resolución no procederá ningún recurso ordinario, pero podrá ser combatida ante el Tribunal Estatal de lo Contencioso Administrativo, en los términos de la Ley de Justicia Administrativa del Estado.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 57.
 
-En cualquier etapa del procedimiento, la Comisión de Honor y Justicia atendiendo las causas que lo motivan, podrá determinar la suspensión preventiva del elemento, la cual no prejuzga sobre su responsabilidad.
-
-En caso de que el elemento resulte declarado sin responsabilidad, se le entregarán los haberes y prestaciones que hubiese dejado de percibir hasta ese momento con motivo de la suspensión, siempre y cuando ésta haya sido por actos u omisiones cometidos en el ejercicio de sus funciones.
+Para lo no previsto en el presente Capítulo, se aplicará de manera supletoria, por su orden, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; y el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
 ## TITULO QUINTO. DE LA COORDINACION DEL ESTADO Y LOS MUNICIPIOS
 
@@ -1252,3 +1294,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE ABRIL DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
