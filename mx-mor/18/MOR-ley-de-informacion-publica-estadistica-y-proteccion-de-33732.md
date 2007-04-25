@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2003-08-27"
+last_updated: "2007-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -599,9 +599,11 @@ El Sistema Estatal de Documentación y Archivos y las unidades administrativas r
 
 Ninguna autoridad podrá requerir a las personas información que exceda los fines para los cuales se solicita.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 61.
 
-Las unidades de información pública deberán recibir y dar curso a todas las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación, guardar confidencialidad o suprimir total o parcialmente los datos personales. Todas las respuestas negativas a las solicitudes realizadas en ejercicio de la acción de habeas data deberán ser notificadas de oficio al instituto, para que éste proceda y requiera a la autoridad que corresponda, acerca del fundamento y motivación legal en que sustenta su negativa. En caso de que desestime las razones de la autoridad, la emplazará a realizar el acto solicitado.
+Las unidades de información pública deberán recibir y dar curso, por escrito o vía electrónica, a todas las solicitudes de las personas que tengan por objeto la corrección, sustitución, rectificación, guardar confidencialidad o suprimir total o parcialmente los datos personales. Todas las respuestas negativas a las solicitudes realizadas en ejercicio de la acción de habeas data deberá ser notificadas de oficio al instituto, por escrito o vía electrónica, para que éste proceda y requiera a la autoridad, que corresponda, acerca del fundamento y motivación legal en que sustenta su negativa. En caso de que desestime las razones de la autoridad, la emplazará el acto solicitado.
 
 ###### Artículo 62.
 
@@ -631,13 +633,17 @@ Los trámites que se realicen en ejercicio de la acción de habeas data serán g
 
 Todas las unidades administrativas que posean datos personales deberán informarlo al instituto, del mismo modo y mensualmente deberán informarle acerca de la actualización de los sistemas de archivo de los datos personales en su poder. Además, deberán tomar las medidas técnicas para proteger los archivos y sistemas de archivo que resguarden datos personales, contra los riesgos naturales, la pérdida por siniestro o accidentes y contra el riesgo de que se acceda a ellos sin autorización, se utilicen de manera encubierta o se contaminen por virus informático.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 66.
 
-Las personas interesadas o sus representantes legales, previa identificación, podrán solicitar los datos personales. La autoridad tendrá un plazo de diez días contados a partir de recibida la solicitud para responder si tienen o no la información solicitada. La autoridad deberá entregar la información en un plazo no mayor de diez días naturales contados a partir de la fecha del oficio de respuesta. En caso de que los datos personales no se encuentren en la unidad administrativa requerida, el interesado podrá recurrir conforme a su derecho al instituto.
+Las personas interesadas o sus representantes legales, podrán solicitar los datos personales por los medios previstos en el artículo 77 de esta Ley, requiriendo para su entrega acreditar previamente su personalidad. La autoridad tendrá un plazo de diez días contados a partir de recibida un plazo de diez días contados a partir de recibida la solicitud para responder si tienen o no la información solicitada. La autoridad deberá entregar la información en un plazo no mayor de diez días naturales contados a partir de la fecha del oficio de respuesta. En caso de que los datos personales no se encuentren en la unidad administrativa requerida, el interesado podrá recurrir conforme a su derecho al instituto.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### Artículo 67.
 
-Las personas interesadas o sus representantes legales, previa identificación, podrán solicitar ante la unidad administrativa responsable que se modifiquen los datos personales que se encuentren en los archivos de la entidad requerida. Para que proceda la solicitud, el interesado deberá precisar las modificaciones que deben realizarse y aportar, en su caso, la documentación necesaria. La autoridad tendrá un plazo de 30 días naturales desde la presentación de la solicitud para realizar las modificaciones, o demostrar las razones, fundadas y motivadas, por las que no procedieron las modificaciones solicitadas. En ambos casos deberá notificarlo al interesado en un plazo no mayor de 10 días naturales.
+Las personas interesadas o sus representantes legales, previa identificación, podrán solicitar ante la autoridad administrativa responsable que se modifiquen los datos personales que se encuentren en los archivos de la entidad requerida, a través de los medios previstos en el artículo 77 de esta Ley, requiriendo para su entrega acreditar previamente su personalidad. Para que proceda la solicitud, el interesado deberá precisar las modificaciones que deben realizarse y aportar, en su caso, la documentación necesaria. La autoridad tendrá un plazo de 30 días naturales desde la presentación de la solicitud para realizar las modificaciones, o demostrar las razones, fundadas y motivadas, por las que no procedieron las modificaciones solicitadas. En ambos casos deberá notificarlo al interesado en un plazo no mayor de 10 días naturales.
 
 ## TÍTULO V.. ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -733,9 +739,11 @@ El consejo requiere para sesionar un quórum mínimo de cuatro de sus integrante
 
 ### CAPÍTULO TERCERO.. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 77.
 
-Cualquier persona podrá ejercer el derecho de acceso a la información ante la entidad pública que corresponda. Este derecho se activa con la presentación de una solicitud en escrito libre o en los formatos sencillos que apruebe el Instituto. La solicitud deberá contener, por lo menos:
+Cualquier persona podrá ejercer el derecho de acceso a la información ante la entidad pública que corresponda. Este derecho se activa con la presentación de una solicitud en escrito libre, en los formatos sencillos que apruebe el Instituto, vía electrónica o a través del sistema que éste establezca. La solicitud deberá contener, por lo menos:
 
 1. Nombre completo, domicilio u otro medio para recibir la información y notificaciones, como correo electrónico.
 
@@ -745,9 +753,11 @@ Cualquier persona podrá ejercer el derecho de acceso a la información ante la 
 
 4. Modalidad en la que solicita recibir la información.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 78.
 
-La unidad de información pública hará saber por escrito y por única vez al solicitante, en un plazo no mayor de tres días hábiles, si requiere completar, corregir o ampliar los datos de la solicitud. En todo momento la oficina correspondiente brindará el apoyo técnico necesario en la formulación de las solicitudes y en general, respecto del ejercicio del derecho de acceso a la información pública.
+La unidad de información pública hará saber por escrito, vía electrónica o en el sistema que ésta determine y por única vez al solicitante, en un plazo no mayor de tres días hábiles, si requiere completar, corregir o ampliar los datos de la solicitud. En todo momento la oficina correspondiente brindará el apoyo técnico necesario en la formulación de la solicitud. En todo momento la oficina correspondiente brindará el apoyo técnico necesario en la formulación de las solicitudes y en general, respecto del ejercicio del derecho de acceso a la información pública.
 
 ###### Artículo 79.
 
@@ -761,17 +771,21 @@ En ningún caso se exigirá motivación alguna, justificación jurídica, o leg�
 
 La búsqueda y localización de la información serán gratuitas. La reproducción o copiado de la información requiere el pago previo de derechos conforme al tabulador establecido en las leyes correspondientes. En ningún caso el costo deberá exceder el costo de los recursos utilizados.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 82.
 
-La unidad de información pública será la encargada de realizar las gestiones internas dentro de la entidad para facilitar el acceso a la información. Le corresponde hacer las notificaciones a que haya lugar, así como comunicar por escrito al solicitante dentro de los diez días hábiles siguientes a la recepción de la solicitud, si se ha localizado la información. Este plazo podrá ampliarse por otros diez días, siempre que existan razones para ello, y deberá notificarse por escrito al solicitante.
+La unidad de información pública será la encargada de realizar las gestiones internas dentro de la entidad para facilitar el acceso a la información. Le corresponde hacer las notificaciones a que haya lugar, así como comunicar por escrito o a través del sistema electrónico que establezca el Instituto al solicitante, dentro de los diez días hábiles siguientes a la recepción de la solicitud, si se ha localizado la información. Este plazo podrá ampliarse por otros diez días, siempre que existan razones para ello, y deberá notificarse por escrito o a través del sistema electrónico que establezca el Instituto al solicitante.
 
 ###### Artículo 83.
 
 A partir de que se notifique la ubicación de la información solicitada, la unidad de información pública dispondrá de una plazo de diez días hábiles para entregar la información requerida, que podrán prorrogarse en forma excepcional por otros diez días hábiles. En este caso, la unidad administrativa deberá informar antes del primer vencimiento las razones de la prórroga y notificarlo al solicitante. En ningún caso el plazo de entrega podrá exceder de veinte días hábiles.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 84.
 
-En el caso de que la respuesta sea negativa, la unidad administrativa deberá comunicarlo al solicitante en un escrito fundado y motivado, en un plazo que no excederá de diez días hábiles contados a partir de la solicitud.
+En el caso de que la respuesta sea negativa, la unidad administrativa deberá comunicarlo al solicitante por escrito o deberá comunicarlo al solicitante por escrito o vía electrónica de manera fundada y motivada, en un plazo que no excederá de diez días hábiles contados a partir de la solicitud.
 
 ###### Artículo 85.
 
@@ -979,19 +993,23 @@ En el caso de la acción de habeas data, el recurso de inconformidad procederá 
 
 3. El sujeto obligado se niegue a efectuar las modificaciones, correcciones o el resguardo de confidencialidad de los datos personales.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+
 ###### Artículo 108.
 
-El escrito en el que se presente el recurso de inconformidad debe contener:
+El escrito o el formato electrónico en el que se presente el recurso de inconformidad debe contener:
 
 1. El nombre del recurrente o de su representante legal.
 
 2. La dependencia o entidad ante la cual se presentó la solicitud.
 
-3. Domicilio para recibir notificaciones y en su caso, señalar a la persona que las pueda recibir en su nombre.
+3. Domicilio para recibir notificaciones y en su caso, señalar a la persona que las pueda recibir en su nombre, en caso de presentarlo por escrito.
 
 4. Precisar el acto objeto de la inconformidad, así como la autoridad responsable y la fecha en la que se notificó o tuvo conocimiento del mismo.
 
-5. Firma del recurrente.
+5. Firma del recurrente, en caso de presentarlo por escrito.
+
+El cumplimiento de los requisitos establecidos en los numerales 3 y 5 no será necesario en caso de que el recurso se interponga a través de sistema electrónico.
 
 ###### Artículo 109.
 
@@ -1250,3 +1268,23 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor a los seis meses posteriores a su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO SEGUNDO.
+
+Las unidades administrativas de acceso a la información en todos los niveles de gobierno, que no cuenten actualmente con sistemas electrónicos para dar respuesta a solicitudes de acceso a la información deberán instrumentarlo en un plazo no mayor a los 60 días posteriores a la entrada en vigor del presente ordenamiento; en tanto lo implementan seguirán dando cumplimiento a las solicitudes por escrito.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
