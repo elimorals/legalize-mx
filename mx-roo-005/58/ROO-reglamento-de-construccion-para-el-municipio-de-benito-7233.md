@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-7233"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-02-28"
-last_updated: "1991-02-28"
+last_updated: "2007-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE JUAREZ QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADO EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 28 de febrero de 1991.
 
@@ -5212,3 +5214,23 @@ SEGUNDO.- Con apoyo en lo estipulado en el artículo 115, fracción II, de la Co
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 Dado en el Salón de Cabildos del Palacio Municipal, en la Ciudad de Cancún, Cabecera del Municipio de Benito Juárez al primer día del mes de agosto de mil novecientos noventa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE RGLAMENTO.</small>
+
+P.O. 25 DE ABRIL DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Quintana Roo.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo, publicado el 28 de febrero de 1991 en el Periódico Oficial del Estado y deroga cualquier disposición en materia de construcciones que haya estado vigente en el Municipio de Benito Juárez, Quintana Roo.
+
+TERCERO.- Se abroga el Reglamento para la Ubicación, Construcción y Funcionamiento de las Estaciones de Servicio de Almacenamiento y Venta de Gasolina y Diesel para Vehículos Automotores, Terrestres y Acuáticos en el Municipio de Benito Juárez, Quintana Roo, publicado en el Periódico Oficial del Gobierno del estado de Quintana Roo, el 11 de febrero de 2002.
+
+CUARTO.- Todas las solicitudes de licencia, permisos y demás trámites, así como aquellos relacionados con la ubicación, construcción y funcionamiento de las estaciones de servicio de combustible, que se hayan recepcionadas antes de la publicación del presente Reglamento, deberán resolverse mediante los lineamientos y procedimientos administrativos vigentes en esa fecha, o bien el interesado podrá optar por efectuar el trámite establecido en el presente Reglamento.
+
+QUINTO.- Los procedimientos relacionados con la inspección, vigilancia, medidas de seguridad, sanciones y recursos que se encuentren en trámite a la entrada en vigor del presente Reglamento, deberán substanciarse y resolverse de conformidad con el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo, publicado el 28 de febrero de 1991 en el Periódico Oficial del Estado.
+
+SEXTO.- A partir de la vigencia del presente Reglamento, las estaciones de servicio en funcionamiento, contarán con un plazo de sesenta días hábiles para presentar sus programas de adecuación de instalaciones y medidas de seguridad a las Direcciones Municipales de Ecología, Protección Civil y Bomberos con el objeto de que las mismas dictaminen si se cumplen con las disposiciones del presente Reglamento en materia de seguridad y protección civil y ambiental.
+
+Los dictámenes favorables de las Direcciones Municipales de Ecología, Protección Civil y Bomberos, serán requisito para la renovación de la licencia de funcionamiento de los establecimientos comerciales respectivos.
+
+SÉPTIMO.- Los registros de Directores Responsables de Obra, Corresponsables y demás peritos a que se refiere el presente Reglamento, deberán integrarse a más tardar en los 30 días siguientes a la publicación del presente.
