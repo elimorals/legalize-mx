@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-obras-publicas-del-estado-de-yucatan-8170"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-18"
-last_updated: "1988-08-18"
+last_updated: "2007-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PUBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 25 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 18 de agosto de 1988.
 
@@ -596,3 +598,35 @@ LIC. VICTOR MANZANILLA SCHAFFER
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 25 DE ABRIL DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor a los treinta días de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Obras Públicas del Estado de Yucatán, contenida en el Decreto Número 43, publicado en el Diario Oficial del Gobierno del Estado el 18 de agosto de 1988.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento en que entre en vigor este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expidan las que deban sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal expedirá el Reglamento de esta ley en un plazo no mayor a ciento ochenta días naturales, contados a partir del día siguiente al en el que entre en vigor el presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+###### ARTÍCULO SEXTO.
+
+Los contratos de obra pública y de servicios conexos, que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las rescisiones de los contratos por causas imputables al contratista que se hubieren determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas del Estado de Yucatán que se abroga, quedarán firmes en los términos de esta ley.
