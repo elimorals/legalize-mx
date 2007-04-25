@@ -4,7 +4,7 @@ identifier: "ROO-acuerdo-para-reglamentar-la-ubicacion-construccion-y-25602"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-02-11"
-last_updated: "2002-02-11"
+last_updated: "2007-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,6 +21,12 @@ state: "ROO"
 # ACUERDO PARA REGLAMENTAR LA UBICACION, CONSTRUCCION Y FUNCIONAMIENTO DE LAS ESTACIONES DE SERVICIO DE ALMACENAMIENTO Y VENTA DE GASOLINA Y DISEL PARA VEHICULOS AUTOMOTORES TERRESTRES Y ACUATICOS
 
 Acuerdo Mediante el cual se Somete a Aprobación las Bases Para Reglamentar la Ubicación, Construcción y Funcionamiento de las Estaciones de Servicio de Almacenamiento y Venta de Gasolina y Diesel para Vehículos Automotores Terrestres y Acuáticos en el Municipio de Benito Juárez, Quintana Roo.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+
+Acuerdo publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 11 de febrero de 2002.
 
 El H. Ayuntamiento de Benito Juárez, Quintana Roo, con fundamento en los artículos 27 y 115 de la Constitución Política de los Estados Unidos Mexicanos; los artículos 1, 126, 128, 144, 160, 162, 163, de la Constitución Política del Estado Libre y Soberano de Quintana Roo; los artículos 3, 31, 32, Fracción I, inciso C), J), y Q), Fracción II, incisos F) y G), 35, 62, 63, 64, 65, 66, 67 y 112, de la Ley Orgánica Municipal del Estado de Quintana Roo; el artículo 120 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo; los artículos 5, 21, 42, 43, 49, 50, 51, 52, 53 y demás relativos del Bando de Policía y Buen Gobierno del Municipio de Benito Juárez, Quintana Roo; los artículos 1, 2, 30 del Reglamento Interior del Ayuntamiento de Benito Juárez, Quintana Roo; los artículos 4, 15, 22, 23, 24, 25 del Reglamento de la Administración Pública del Municipio de Benito Juárez, Quintana Roo; y
 
@@ -641,3 +647,23 @@ NOVENO.- Solo se expedirá constancia, autorización o licencia a las estaciones
 DÉCIMO.- Se derogan las disposiciones reglamentarias y administrativas que en lo relacionado a las estaciones de servicio, contravengan el presente Acuerdo Reglamentario.
 
 Lo que se expide en la Ciudad de Cancún, Quintana Roo, a los veintiún días del mes de diciembre del dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE ABRIL DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Quintana Roo.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo, publicado el 28 de febrero de 1991 en el Periódico Oficial del Estado y deroga cualquier disposición en materia de construcciones que haya estado vigente en el Municipio de Benito Juárez, Quintana Roo.
+
+TERCERO.- Se abroga Reglamento para la Ubicación, Construcción y Funcionamiento de las Estaciones de Servicio de Almacenamiento y Venta de Gasolina y Diesel para Vehículos Automotores, Terrestres y Acuáticos en el Municipio de Benito Juárez, Quintana Roo, publicado en el Periódico Oficial del Gobierno del estado de Quintana Roo, el 11 de febrero del 2002.
+
+CUARTO.- Todas las solicitudes de licencias, permisos y demás trámites, así como aquellos relacionados con la ubicación, construcción y funcionamiento de las estaciones de servicio de combustible, que se hayan recepcionadas (sic) antes del (sic) la publicación del presente Reglamento, deberán resolverse mediante los lineamientos y procedimientos administrativos vigentes en esa fecha, o bien el interesado podrá optar por efectuar el trámite establecido en el presente Reglamento.
+
+QUINTO.- Los procedimientos relacionados con la inspección, vigilancia, medidas de seguridad, sanciones y recursos que se encuentren en trámite a la entrada en vigor del presente Reglamento, deberán substanciarse y resolverse de conformidad con el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo, publicado el 28 de febrero de 1991 en el Periódico Oficial del Estado.
+
+SEXTO.- A partir de la vigencia del presente Reglamento, las estaciones de servicio en funcionamiento, contarán con un plazo de sesenta días hábiles para presentar sus programas de adecuación de instalaciones y medidas de seguridad a las Direcciones Municipales de Ecología, Protección Civil y Bomberos con el objeto de que las mismas dictaminen si se cumplen con las disposiciones del presente Reglamento en materia de seguridad y protección civil y ambiental.
+
+Los dictámenes favorables de las Direcciones Municipales de Ecología, Protección Civil y Bomberos, serán requisito para la renovación de la licencia de funcionamiento de los establecimientos comerciales respectivos.
+
+SÉPTIMO.- Los registros de Directores Responsables de Obra, Corresponsables y demás peritos a que se refiere el presente Reglamento, deberán integrarse a más tardar en los 30 días siguientes a la publicación del presente.
