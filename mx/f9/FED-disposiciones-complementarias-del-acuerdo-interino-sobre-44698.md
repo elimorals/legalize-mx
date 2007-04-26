@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2007-02-20"
+last_updated: "2007-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,47 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+TERCERA RESOLUCION DE MODIFICACIONES A LA RESOLUCION EN MATERIA ADUANERA DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA Y SUS ANEXOS 1 Y 2
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 20 de febrero de 2007.
+Resolución publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de abril de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 1/2005 del Consejo Conjunto UE-México; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+La Secretaría de Hacienda y Crédito Público, con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal; 1o. y 144 fracciones XXIII y XXV de la Ley Aduanera; 1o. y 6o. fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados miembros, el 1 de julio de 2000 entró en vigor la Decisión 2/2000 del Consejo Conjunto CE-México que establece, entre otros, las disposiciones que regulan el comercio de bienes originarios entre las Partes;
+Que el Decreto Promulgatorio de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, se publicó en el Diario Oficial de la Federación el 26 de junio de 2000 y la Resolución en materia aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, fue publicada en el Diario Oficial de la Federación el 30 de junio de 2000, misma que fue abrogada por la Resolución en materia aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea y sus anexos 1 y 2, publicada en el mismo órgano informativo el 31 de diciembre de 2002 y reformada mediante la Primera Resolución de Modificaciones a la Resolución en Materia Aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea y sus anexos 1 y 2, publicada en el Diario Oficial de la Federación el 30 de abril de 2004 y la Segunda Resolución de Modificaciones a la Resolución en Materia Aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea y sus anexos 1 y 2, publicada en el Diario Oficial de la Federación el 14 de diciembre de 2006.
 
-Que la Decisión 2/2000 del Consejo Conjunto CE-México, prevé en su artículo 3 la posibilidad de que las Partes acuerden reducir sus aranceles aduaneros más rápido de lo previsto y que en este supuesto el acuerdo alcanzado por las Partes prevalecerá sobre los términos establecidos en la propia Decisión;
+Que el 2 de abril de 2004, nuestro país firmó el Primer Protocolo del Acuerdo de Asociación para permitir la adhesión de diez nuevos Estados miembros a la Comunidad Europea (la República Checa, la República de Estonia, la República de Chipre, la República de Hungría, la República de Letonia, la República de Lituania, la República de Malta, la República de Polonia, la República de Eslovenia y la República Eslovaca) y fue aprobado por el Senado de la República el 22 de abril de 2004, tal y como se desprende del Decreto Promulgatorio publicado en el Diario Oficial de la Federación de 30 de abril de 2004.
 
-Que la Decisión 4/2004 del Consejo Conjunto CE-México por la que se modifica la Decisión 2/2001 del Consejo Conjunto CE-México y la Decisión No. 3/2004 del Consejo Conjunto CE-México por la que se modifica la Decisión 2/2000 del Consejo Conjunto CE-México, se publicó el 30 de abril de 2004 en el Diario Oficial de la Federación, con objeto de reflejar la adhesión de los nuevos Estados miembros a la Unión Europea, la cual entró en vigor el 1 de mayo de 2004;
+Que el 25 de abril de 2005, se firmó en Luxemburgo, Luxemburgo, el tratado referente a las condiciones de adhesión de dos nuevos Estados miembros a la Comunidad Europea: la República de Bulgaria y Rumania.
 
-Que con fundamento en el artículo 1 de la Decisión 1/2005 del Consejo Conjunto UE-México relativa al corrigendo de la Decisión 3/2004 del Consejo Conjunto UE-México, publicada el 21 de febrero de 2005 en el Diario Oficial de la Federación, los contingentes arancelarios contemplados en los anexos I y II de la Decisión 3/2004 permanecerán abiertos del 1 de mayo de 2004 al 31 de diciembre de 2004 y del 1 de enero al 31 de diciembre de cada año calendario siguiente, mientras el contingente siga siendo aplicable;
+Que el 29 de noviembre de 2006, nuestro país firmó el Segundo Protocolo Adicional al Acuerdo de Asociación Económica, Concertación Política y Cooperación entre los Estados Unidos Mexicanos, por una Parte, y la Comunidad Europea y sus Estados miembros, para permitir la adhesión de la República de Bulgaria y Rumania a la Comunidad Europea y fue aprobado por el Senado de la República el 29 de noviembre de 2006, según Decreto aprobatorio publicado en el Diario Oficial de la Federación de fecha 8 de enero de 2007, entrando en vigor el 1 de marzo de 2007 conforme al Decreto Promulgatorio publicado en el mismo órgano informativo el 28 de febrero de 2007.
 
-Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
+Que derivado de la actualización de diversas disposiciones resulta necesario adecuar la Resolución antes indicada, para que sus preceptos sean acordes con las leyes aplicables al comercio exterior, ha tenido a bien expedir la:
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+TERCERA RESOLUCION DE MODIFICACIONES A LA RESOLUCION EN MATERIA ADUANERA DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA Y SUS ANEXOS 1 Y 2
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, MATERIAS PECTICAS, PECTINATOS Y PECTATOS EN POLVO ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+Unico. Se reforman las reglas 1.5. y 2.2.1. de la Resolución en materia aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea y sus anexos 1 y 2, publicada en el Diario Oficial de la Federación el 31 de diciembre de 2002.
+
+Se reforman:
+
+- el primer párrafo de la regla 1.5.
+
+- el segundo párrafo de la regla 2.2.1.
+
+Las modificaciones anteriores quedan como sigue:
+
+1. DISPOSICIONES GENERALES
+
+1.5. De conformidad con el artículo 29(1) del Anexo III de la Decisión y las reglas 2.3.1. rubro B, y 2.5.1. de la presente Resolución, las cantidades que se expresen en la moneda nacional del país de exportación equivalentes a los importes expresados en euros en la presente Resolución, serán las siguientes:
+
+(VEASE ARCHIVO ANEXO)
+
+2.2.1. …
+
+El Certificado podrá ser emitido en cualquiera de los siguientes idiomas: alemán, búlgaro, checo, danés, eslovaco, esloveno, español, estonio, finés, francés, griego, holandés, húngaro, inglés, italiano, letón, lituano, maltés, polaco, portugués, rumano y sueco. En caso de presentarse en un idioma diferente al español o inglés, deberá acompañarse de la traducción correspondiente al español o inglés.
 
 ###### ARTÍCULO 1.
 
@@ -157,28 +175,14 @@ a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”: 
 
 b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”: http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-## TRANSITORIO
+## Transitorios
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+Primero. La presente Resolución entra en vigor el 1 de marzo de 2007.
 
-México, D.F., a 19 de enero de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Segundo. Se podrán importar aplicando trato preferencial, los productos provenientes de alguno de los nuevos Estados miembros de la Comunidad que cumplan con las disposiciones del Anexo III de la Decisión, y que a partir de la entrada en vigor de la presente Resolución, se encuentren en tránsito hacia territorio nacional, en depósito ante la aduana o depósito fiscal en territorio nacional, siempre que dentro de los cuatro meses siguientes a la fecha antes mencionada, se efectúe su importación definitiva al amparo del Certificado expedido con posterioridad a su exportación, en el que se indique en el campo 7, la leyenda "Expedido a Posteriori" o "Issued Retrospectively", acompañado de los documentos que demuestren que las mercancías han sido transportadas a territorio nacional, en los términos del artículo 13 del Anexo III de la Decisión, del Estado Miembro de la Comunidad Europea que lo haya expedido y se cumpla con las disposiciones de la Decisión y de la presente Resolución.
 
-ANEXO
+Atentamente
 
-SECRETARIA DE ECONOMIA
+Sufragio Efectivo. No Reelección.
 
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-HOJA DE REQUISITOS PARA LA ASIGNACION DEL CUPO DE EXPORTACION A LA COMUNIDAD EUROPEA 2007
-
-Materias pécticas, pectinatos y pectatos en polvo.
-
-Fracción arancelaria en la Comunidad Europea: 1302.20.10
-
-Asignación Directa
-
-Modalidad:
-
-“Primero en tiempo, primero en derecho.”
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 13 de abril de 2007.- En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, y con fundamento en el artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, Fernando Sánchez Ugarte.- Rúbrica.
