@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2006-09-07"
+last_updated: "2007-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -939,9 +939,7 @@ El Contralor designará al personal que deberá efectuar las notificaciones rela
 
 V. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
-
-VI. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
+VI. (DEROGADA, D.O.F. 26 DE ABRIL DE 2007)
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
@@ -1478,3 +1476,9 @@ PRIMERO. Las presentes reformas, adiciones y derogación entrarán en vigor a pa
 D.O.F. 7 DE SEPTIEMBRE DE 2006.
 
 UNICO. La presente reforma al Reglamento Interior del Banco de México, entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE ABRIL DE 2007.
+
+PRIMERO. La presente derogación entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias hechas al Contralor del Banco de México en cualquier disposición de carácter interno, relativas a la atribución aquí derogada, quedan sin efectos a partir de la fecha de entrada en vigor de la citada derogación.
