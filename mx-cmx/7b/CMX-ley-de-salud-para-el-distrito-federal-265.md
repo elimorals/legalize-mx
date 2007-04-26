@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2007-02-09"
+last_updated: "2007-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2007.
 
-Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987
+Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -476,11 +476,25 @@ Las instituciones públicas de salud del Gobierno del Distrito Federal, gratuita
 
 La interrupción del embarazo deberá realizarse en un término de cinco días, contados a partir de que sea presentada la solicitud y satisfechos los requisitos establecidos en la legislación aplicable.
 
+> <small>(ADICIONADO, G.O. 26 DE ABRIL DE 2007)</small>
+
+Las instituciones públicas de salud del gobierno del Distrito Federal atenderán las solicitudes de interrupción del embarazo a las mujeres solicitantes aún cuando cuenten con algún otro servicio de salud público o privado.
+
 > <small>(ADICIONADO, G.O. 27 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 16 Bis 7.
 
 Los prestadores de los servicios de salud a quienes corresponda practicar la interrupción del embarazo en los casos permitidos por el Nuevo Código Penal para el Distrito Federal, y cuyas creencias religiosas o convicciones personales sean contrarias a tal interrupción, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en la interrupción del embarazo, debiendo referir a la mujer con un médico no objetor. Cuando sea urgente la interrupción del embarazo para salvaguardar la salud o la vida de la mujer, no podrá invocarse la objeción de conciencia. Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor de conciencia en la materia.
+
+> <small>(ADICIONADO, G.O. 26 DE ABRIL DE 2007)</small>
+
+###### ARTICULO 16 Bis 8.
+
+La atención de la salud sexual y reproductiva tiene carácter prioritario. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos.
+
+El gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas integrales, tendientes a la educación y capacitación sobre la salud sexual, los derechos reproductivos, así como la maternidad y la paternidad responsables. Sus servicios de planificación familiar y anticoncepción tienen como propósito principal reducir el índice de abortos, a través de la prevención de embarazos no planeados y no deseados, disminuir el riesgo reproductivo, evitar la propagación de las enfermedades de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos de las personas con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para las niñas y niños, adolescentes y jóvenes.
+
+El gobierno del Distrito Federal otorgará servicios de consejería médica y social en materia de la atención a la salud sexual y reproductiva, funcionando de manera permanente con servicios gratuitos que ofrecerán la información, difusión y orientación en la materia, así como el suministro de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente. Asimismo, proporcionarán a la mujer que solicite la interrupción de su embarazo la información a que se refiere el último párrafo del artículo 148 del Código Penal para el Distrito Federal. Los servicios de consejería también ofrecerán apoyo médico a la mujer que decida practicarse la interrupción del embarazo después del procedimiento de aborto, particularmente en materia de planificación familiar y anticoncepción.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1617,3 +1631,15 @@ G.O. 9 DE FEBRERO DE 2007.
 PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE ABRIL DE 2007.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal, deberá expedir la adecuación a los Lineamientos Generales de Organización y Operación de los Servicios de Salud relacionados con la interrupción del embarazo en el Distrito Federal, en un lapso de 60 días hábiles.
+
+CUARTO. El Jefe de Gobierno del Distrito Federal promoverá convenios de colaboración para obtener recursos adicionales que permitan atender el derecho de la mujer a la salud sexual y reproductiva.
+
+QUINTO. La Asamblea Legislativa del Distrito Federal realizará una amplia campaña informativa sobre las reformas aprobadas en este decreto.
