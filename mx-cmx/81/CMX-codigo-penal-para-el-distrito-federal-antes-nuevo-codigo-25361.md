@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2007-02-02"
+last_updated: "2007-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2007.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1028,6 +1028,8 @@ III. (DEROGADA, G.O. 13 DE SEPTIEMBRE DE 2004)
 
 ### CAPÍTULO V. ABORTO
 
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2007)</small>
+
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
 
 ###### ARTÍCULO 136.
@@ -1118,23 +1120,31 @@ Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuv
 
 ###### ARTÍCULO 144.
 
-Aborto es la muerte del producto de la concepción en cualquier momento del embarazo.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 145.
 
-Al que hiciere abortar a una mujer, se le impondrá de uno a tres años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella.
+Se impondrá de tres a seis meses de prisión o de 100 a 300 días de trabajo a favor de la comunidad, a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar, después de las doce semanas de embarazo. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
 
-> <small>(REFORMADO, G.O. 27 ENERO DE 2004)</small>
+Al que hiciere abortar a una mujer, con el consentimiento de ésta, se le impondrá de uno a tres años de prisión.
 
-Cuando falte el consentimiento, la prisión será de cinco a ocho años. Si mediare violencia física o moral se impondrá de ocho a diez años de prisión.
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 146.
 
-Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá por un tiempo igual al de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
+Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada.
+
+Pare (sic) efectos de este artículo, al que hiciere abortar a una mujer por cualquier medio sin su consentimiento, se le impondrá de cinco a ocho años de prisión. Si mediare violencia física o moral, se impondrá de ocho a diez años de prisión
+
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 147.
 
-Se impondrá de uno a tres años de prisión a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
+Si el aborto o aborto forzado lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las sanciones que le correspondan conforme a este capítulo, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 27 ENERO DE 2004)</small>
 
@@ -3841,3 +3851,15 @@ G.O. 2 DE FEBRERO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE ABRIL DE 2007.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Jefe de Gobierno del Distrito Federal, deberá expedir la adecuación a los Lineamientos Generales de Organización y Operación de los Servicios de Salud relacionados con la interrupción del embarazo en el Distrito Federal, en un lapso de 60 días hábiles.
+
+CUARTO. El Jefe de Gobierno del Distrito Federal promoverá convenios de colaboración para obtener recursos adicionales que permitan atender el derecho de la mujer a la salud sexual y reproductiva.
+
+QUINTO. La Asamblea Legislativa del Distrito Federal realizará una amplia campaña informativa sobre las reformas aprobadas en este decreto.
