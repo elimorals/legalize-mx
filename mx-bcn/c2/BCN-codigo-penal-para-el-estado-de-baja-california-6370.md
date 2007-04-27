@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-04-06"
+last_updated: "2007-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3229,7 +3229,7 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ### CAPITULO UNICO
 
@@ -3495,27 +3495,57 @@ Abandono de defensa.- Al defensor de oficio o particular de un inculpado que no 
 
 ###### Artículo 339.
 
-Para proceder penalmente por los delitos previstos en este capítulo, será necesario que previamente las autoridades de ecología formulen la querella respectiva, salvo que se trate de flagrante delito.
+Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en este capítulo.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+En los casos en que las autoridades ambientales municipales o estatales, como resultado del ejercicio de sus atribuciones, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en este capítulo, formulará ante el Ministerio Público la denuncia correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ###### Artículo 340.
 
-Se impondrá sanción de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que, sin contar con la autorización respectiva o violando las normas de seguridad y operación aplicables, efectúe, autorice u ordene la realización de actividades que conforme a las disposiciones legales se consideren riesgosas o que ocasionen graves daños a la salud pública o a los ecosistemas.
+Se impondrá prisión de uno a siete años y multa de cincuenta a tres mil quinientos días de salario mínimo vigente en la entidad, al que:
 
-Cuando las actividades a que se refiere el párrafo anterior, se lleven acabo en un centro de población, se elevará la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la entidad.
+I.- Ilícitamente o sin aplicar las medidas de prevención o seguridad, autorice, ordene, emita, despida o descargue en la atmósfera, gases, humos, polvos, líquidos o partículas contaminantes provenientes de fuentes fijas de competencia estatal o municipal;
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+II.- Ilícitamente realice, ordene o autorice la descarga o depósito de aguas residuales, químicos o bioquímicos, desechos, residuos o sustancias contaminantes en el territorio del Estado o en aguas de competencia estatal o municipal que rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes; y
+
+III.- Ilícitamente o sin aplicar las medidas de prevención o seguridad, o violentando las normas de seguridad u operación aplicables, realice, ordene o autorice la realización de actividades riesgosas en los términos de la Ley de Protección al Ambiente para el Estado de Baja California y su reglamento.
+
+Cuando las actividades a que se refiere esta fracción se lleven acabo (sic) en un centro de población, se elevará la pena hasta tres años más de prisión y la multa de cien hasta diez mil días de salario mínimo vigente en la entidad.
+
+Las mismas penas se impondrán a quien auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques del Estado, derivados de la comisión de las conductas previstas en la fracción III de este artículo, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra.
+
+En el caso de que las actividades descritas en las fracciones I y II anteriores se lleven a cabo en un área protegida de competencia estatal, se elevará la pena hasta tres años más de prisión y la multa hasta diez mil días de salario mínimo vigente en la entidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2007)</small>
+
+###### Artículo 340
+
+BIS.- A quien sin autorización de autoridad ambiental competente, extraiga, corte, tale o trasplante uno o varios árboles ubicados en áreas públicas de competencia estatal o municipal o en terrenos estatales forestales, se le impondrá pena de prisión de seis meses a siete años y multa de cincuenta a dos mil quinientos días de salario mínimo vigente en la entidad.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
 
 ###### Artículo 341.
 
-Se impondrá sanción de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que con violación en lo dispuesto en la Ley de la materia, sus reglamentos, normas técnicas y parámetros estatales aplicables, realice, autorice u ordene la emisión de gases, humos y polvos a la atmósfera, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o a los ecosistemas.
+Se impondrá prisión de uno a tres años y multa por el equivalente de cincuenta a mil quinientos días de salario mínimo vigente en la entidad al que:
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+I.- Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal o municipal;
+
+II.- Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental estatal o municipal;
+
+III.- Ordene, autorice el incumplimiento o vulnere una medida de seguridad impuesta por la autoridad ambiental competente propiciando desequilibrio ecológico o casos de contaminación con repercusiones o daños al medio ambiente, la salud pública, la flora, la fauna o a los ecosistemas;
+
+IV.- No implemente las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga;
+
+V.- Proporcione documentos o información falsa u omita datos con el objeto de que las autoridades ambientales competentes otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo; y
+
+VI.- Sea sancionado por la autoridad ambiental estatal competente, por incurrir en la misma conducta, en tres o más ocasiones dentro del periodo de dos años.
+
+Cuando las conductas a que se refiere este artículo se lleven a cabo por los auditores ambientales, prestadores de servicio, peritos en monitoreo, señalados en la Ley de Protección al Ambiente para el Estado de Baja California, la pena correspondiente se aumentará de tres hasta siete años de prisión y multa hasta cinco mil quinientos días de salario mínimo vigente en la entidad.
 
 ###### Artículo 342.
 
-Se impondrá sanción de tres meses a cinco años de prisión y multa por el equivalente de cinco a diez mil días de salario mínimo general vigente en el Estado de Baja California, al que sin autorización expedida por autoridad competente, y en contravención a las disposiciones de la ley de la materia, sus reglamentos, normas técnicas y parámetros estatales aplicables, deposite, infiltre, autorice, ordene o descargue aguas residuales, desechos contaminantes en suelos, ríos, cuencas, vasos, demás depósitos o corrientes de agua asignadas al Estado o al Municipio, que ocasionen o puedan ocasionar graves daños a la salud pública, flora, fauna y a los ecosistemas.
+(REFORMADO [N. DE E. DEROGADO], P.O. 27 DE ABRIL DE 2007)
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
 
@@ -4152,3 +4182,7 @@ P.O. 6 DE ABRIL DE 2007.
 DECRETO No. 321
 
 ÚNICO: La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE ABRIL DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
