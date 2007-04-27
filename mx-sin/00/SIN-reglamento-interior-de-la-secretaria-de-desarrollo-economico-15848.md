@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-economico-15
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-28"
-last_updated: "2000-02-28"
+last_updated: "2007-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 28 de febrero del 2000.
 
@@ -121,7 +121,9 @@ V. Promover la aplicación de los beneficios fiscales y demás estímulos previs
 
 VI. Coordinar las acciones de fomento, promoción y financiamiento de las instituciones públicas y privadas que operen en Sinaloa;
 
-VII. Coordinar las acciones de fomento y promoción de inversiones, así como las de fortalecimiento en el sector industrial, comercial, turístico y de servicios;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+VII. Coordinar las acciones de fomento y promoción de inversiones, así como las de fortalecimiento en el sector industrial, comercial, y de servicios, con excepción del sector turístico;
 
 VIII. Apoyar y fomentar la minería y promover la inversión en proyectos de este sector;
 
@@ -137,7 +139,9 @@ XIII. Impulsar la instalación de espacios, parques y zonas industriales conform
 
 XIV. Promover la incorporación de tecnología moderna para mejorar la calidad y aumentar la productividad de las empresas sinaloenses;
 
-XV. Planear y coordinar las misiones que presidirá el Gobernador del Estado en el país y en el exterior para atraer inversiones al Estado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+XV. Planear y coordinar las misiones que presidirá el Gobernador del Estado en el país y en el exterior para atraer inversiones al Estado, excepto cuando se refieran exclusivamente a proyectos turísticos;
 
 XVI. Formular anualmente el anteproyecto del presupuesto de egresos correspondiente a la Secretaría, remitiéndolo a la Secretaría de Administración y Finanzas;
 
@@ -537,7 +541,9 @@ Departamento de Minería
 
 Además de las facultades genéricas de los subsecretarios, al Subsecretario de Promoción Económica le corresponde:
 
-I. Promover las inversiones, coinversiones y alianzas estratégicas locales, nacionales y extranjeras, buscando incrementar la inversión directa del Estado y estableciendo las políticas de inversión;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+I. Promover las inversiones, coinversiones y alianzas estratégicas locales, nacionales y extranjeras, buscando incrementar la inversión directa del Estado y estableciendo las políticas de inversión, con excepción de las destinadas al sector turismo;
 
 II. Promover la creación y utilización de la infraestructura industrial, comercial y de servicios que permita dar soporte a la promoción de inversión;
 
@@ -545,9 +551,13 @@ III. Promover la exportación de productos locales y la instalación de empresas
 
 IV. Coordinar la promoción de misiones comerciales y de inversión a nuestro Estado, para dar a conocer las ventajas y oportunidades de negocios e inversión que ofrece Sinaloa;
 
-V. Promover, asistir, organizar y/o participar en exposiciones, congresos, ferias, seminarios, misiones comerciales tanto en el extranjero como en otros Estados de la República Mexicana;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
 
-VI. Propiciar y participar de manera coordinada en la elaboración de materiales de promoción y difusión, necesarios para dar a conocer las potencialidades de desarrollo económico que ofrece nuestro Estado;
+V. Promover, asistir, organizar y/o participar en exposiciones, congresos, ferias, seminarios, misiones comerciales tanto en el extranjero como en otros Estados de la República Mexicana, excepción de aquellos que se refieran a la actividad turística;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+VI. Propiciar y participar de manera coordinada, con la Coordinación General de Comunicación Social y la Secretaría de Turismo, en su caso, en la elaboración de materiales de promoción y difusión, necesarios para dar a conocer las potencialidades de desarrollo económico que ofrece nuestro Estado;
 
 VII. Atender y orientar a los grupos de inversionistas potenciales interesados en invertir en nuestro Estado;
 
@@ -565,7 +575,9 @@ XIII. Identificar la oferta disponible de terrenos, áreas, espacios y naves ind
 
 XIV. Instrumentar programas para incrementar la capacidad exportadora del Estado, ofreciendo asesoría y seguimiento a las acciones que se deriven de los mismos;
 
-XV. Definir conjuntamente con el CODESIN y los comités regionales de promoción económica, las acciones de promoción y de desarrollo económico de interés para los inversionistas potenciales, así como coordinar su ejecución;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+XV. Coordinarse con la Secretaría de Turismo, el CODESIN y los comités regionales de promoción económica, en las acciones de promoción y de desarrollo económico de interés para los inversionistas potenciales, así como definir las de su competencia;
 
 XVI. Establecer criterios de competitividad estatal haciendo énfasis en los otros Estados de la República y en el extranjero, de los estímulos fiscales y de todo tipo, que se ofrecen a los inversionistas; y,
 
@@ -589,7 +601,9 @@ Corresponde a la Dirección de Proyectos el ejercicio de las siguientes atribuci
 
 I. Promover nuevos proyectos de inversión que contribuyan a la generación de empleo y por ende al desarrollo económico del Estado y darles seguimiento para su implementación;
 
-II. Promover y atender la visita de inversionistas potenciales nacionales y extranjeros para presentarles las oportunidades y ventajas que ofrece el Estado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2007)</small>
+
+II. Promover y atender la visita de inversionistas potenciales nacionales y extranjeros para presentarles las oportunidades y ventajas que ofrece el Estado, excepto cuando se refieran a la inversión turística;
 
 III. Coordinar la elaboración de una base de datos sobre los perfiles de inversión viables en las diferentes regiones del Estado;
 
@@ -713,4 +727,10 @@ GONZALO M. ARMIENTA CALDERÓN
 
 EL SECRETARIO DE DESARROLLO ECONÓMICO
 
-HERIBERTO FÉLIX GUERRA
+HERIBERTO FÉLIX GUERRA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE ABRIL DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
