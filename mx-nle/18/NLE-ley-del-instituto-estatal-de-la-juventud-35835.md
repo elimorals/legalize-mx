@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2003-12-24"
+last_updated: "2007-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -89,7 +89,9 @@ b. Un sistema de empleo y bolsa de trabajo, capacitación laboral, recursos econ
 
 c. Acciones para garantizar la determinación de normas especiales de protección al empleo para los jóvenes menores de edad y una supervisión exhaustiva de las mismas;
 
-d. Un sistema de becas, estímulos e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
+
+d. Un sistema de becas, estímulos e intercambios académicos y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud, con base en el reglamento respectivo presentado por el Director General y aprobado por la Junta de Gobierno del Instituto;
 
 e. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de interés general prioritarias para las y los jóvenes;
 
@@ -528,3 +530,11 @@ NAPOLEÓN CANTÚ CERNA
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ABRIL DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Junta de Gobierno del Instituto Estatal de la Juventud dispondrá de un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para aprobar o en su caso modificar el Reglamento respectivo en los términos a que se refiere el Artículo 5 fracción I inciso d).
