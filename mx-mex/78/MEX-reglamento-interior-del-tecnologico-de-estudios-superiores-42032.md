@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4203
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-02"
-last_updated: "2004-12-02"
+last_updated: "2007-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 27 DE ABRIL DE 2007.
 
 Reglamento publicado en la Sección Segunda de la Gaceta de Gobierno del Estado de México, el jueves 2 de diciembre de 2004.
 
@@ -89,9 +89,11 @@ Corresponde a la Junta Directiva el ejercicio de las atribuciones señaladas en 
 
 ### CAPITULO III. DEL DIRECTOR
 
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2007)</small>
+
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social.
+Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación.
 
 ###### Artículo 11.
 
@@ -111,7 +113,9 @@ VI. Resolver las dudas que se susciten con motivo de la interpretación y aplica
 
 VII. Proponer acciones para la modernización administrativa del Tecnológico.
 
-VIII. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración del Tecnológico.
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+VIII. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Tecnológico.
 
 IX. Gestionar la publicación en el órgano informativo del Tecnológico o en el periódico oficial Gaceta del Gobierno, de los reglamentos, acuerdos y documentos de observancia general que expida la Junta.
 
@@ -129,9 +133,17 @@ III. División de Ingeniería en Sistemas Computacionales.
 
 IV. División de Licenciatura en Informática.
 
-V. Departamento de Vinculación.
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
 
-VI. Departamento de Actividades Culturales y Deportivas.
+V. División de Ingeniería Electrónica.
+
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+VI. Departamento de Vinculación.
+
+> <small>(ADICIONADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+VII. Departamento de Actividades Culturales y Deportivas.
 
 El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización, así mismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -171,19 +183,29 @@ XII. Proponer al Director la suscripción de acuerdos, convenios y contratos ori
 
 XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
 
-XIV. Las demás que les confieran las disposiciones aplicables y aquellas que les encomiende el Director.
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+XIV. Proponer a su superior jerárquico programas, proyectos y acciones orientadas a la modernización administrativa, mejora regulatoria y gestión de la calidad de la unidad administrativa a su cargo y llevar a cabo su ejecución y evaluación.
+
+> <small>(ADICIONADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+XV. Las demás que les confieren otras disposiciones aplicables y aquellas que les encomiende el Director.
 
 ### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y DEPARTAMENTOS
 
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2007)</small>
+
 ###### Artículo 15.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de la carrera de Ingeniería en Sistemas Computacionales y de la Licenciatura en Informática, así como coordinar las actividades de control escolar del Tecnológico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de Ingeniería en Sistemas Computacionales y de Ingeniería Electrónica, así como de la Licenciatura en Informática y coordinar las funciones de control escolar del Tecnológico.
 
-Quedan adscritos a la Subdirección Académica:
+Quedan adscritas a la Subdirección Académica:
 
 I. División de Ingeniería en Sistemas Computacionales.
 
 II. División de Licenciatura en Informática.
+
+III. División de Ingeniería Electrónica.
 
 ###### Artículo 16.
 
@@ -245,9 +267,11 @@ XV. Supervisar el registro, mantenimiento y conservación de los bienes muebles 
 
 XVI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE ABRIL DE 2007)</small>
+
 ###### Artículo 19.
 
-Corresponde a las Divisiones de Ingeniería en Sistemas Computacionales y de Licenciatura en Informática:
+Corresponde a las Divisiones, en su respectivo ámbito de competencia:
 
 I. Coordinar y difundir los planes y programas académicos y de investigación de la carrera a su cargo, así como los eventos académicos y de actualización.
 
@@ -355,7 +379,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los programas y proyectos académicos presentados a la Junta Directiva y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, Cultura y Bienestar Social, a través del Director.
+> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+
+I. Dictaminar los programas y proyectos académicos presentados a la Junta Directiva y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director.
 
 II. Supervisar que el Tecnológico cumpla con los planes y programas de estudio aprobados por las autoridades educativas.
 
@@ -404,3 +430,13 @@ ING. MARTIN CONTRERAS SOTO
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA Y SECRETARIO DE LA H. JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 27 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
