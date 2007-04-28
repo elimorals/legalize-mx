@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2007-02-08"
+last_updated: "2007-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -531,9 +531,11 @@ Respecto de los instrumentos, bienes, objetos y productos a que se refieren los 
 
 PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 53.
 
-Tomando en cuenta las circunstancias del delito y las propias del sentenciado y de la víctima, el juez podrá disponer que aquél no vaya a un lugar determinado o resida en él. La prohibición tendrá una duración máxima de cinco años y se contará a partir de que el sentenciado obtenga su libertad o desde que cause ejecutoria la sentencia, según el caso.
+Tomando en cuenta las circunstancias del delito y las propias del sentenciado y de la víctima, así como al cónyuge de esta y demás parientes consanguíneos en línea recta o colateral hasta el segundo grado, el juez podrá disponer que aquél no vaya a un lugar determinado o resida en él. La prohibición tendrá una duración máxima de cinco años y se contará a partir de que el sentenciado obtenga su libertad o desde que cause ejecutoria la sentencia, según el caso.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1121,6 +1123,10 @@ Al que ante la autoridad judicial se conduzca con falsedad u oculte la verdad, s
 
 Si se retracta de su declaración falsa antes de que se pronuncie resolución, la pena será hasta dos años de prisión y multa hasta por 20 unidades.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Cuando la falsedad o el ocultamiento de la verdad se hagan en procedimientos que versen sobre alimentos se le impondrán de uno a cinco años de prisión y multa hasta por 60 unidades.
+
 ###### ARTICULO 117.
 
 Cuando se otorgue valor probatorio a la falsedad y el imputado siendo inocente resulte condenado, se aplicarán a su autor de dos a quince años de prisión.
@@ -1539,7 +1545,17 @@ Al que destruya, inutilice, quite o cambie un dispositivo o señal de seguridad 
 
 Se impondrán de tres días a tres años de prisión y multa hasta por 30 unidades e inhabilitación de derechos para conducir vehículos hasta por tres años al que conduzca un vehículo sin observar los deberes de cuidado que le incumben de acuerdo con las circunstancias y sus condiciones personales y ponga en peligro la vida o la salud personal o los bienes de alguien.
 
-Si este delito se comente por conductores de vehículos de servicio público estatal o municipal, las sanciones serán de tres días a cinco años de prisión y multa hasta por 50 unidades.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Cuando la inobservancia de los deberes de cuidado consista en conducir vehículos en estado de ebriedad o bajo el influjo de algún tipo de estupefaciente, psicotrópico o vegetales que determine la Ley General de Salud como ilegales, se impondrán de tres días a cuatro años de prisión y multa hasta por 50 unidades e inhabilitación de derechos para conducir vehículos hasta por cuatro años.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Para los efectos del párrafo anterior se entenderá por estado de ebriedad quien se encuentre a partir del 2º Grado de intoxicación etílica.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Si el delito se comete por conductores de vehículos de servicio público, las sanciones serán de uno a cinco años de prisión y multa hasta por 100 unidades e inhabilitación de derechos para conducir vehículos hasta por cinco años.
 
 ### CAPITULO I.
 
@@ -1965,11 +1981,11 @@ Cuando se cometa homicidio culposo en estado de ebriedad o bajo el influjo de es
 
 En caso de que en estado de ebriedad o bajo el influjo de estupefacientes o cualquier sustancia psicotrópica, se ocasionen de manera culposa lesiones de las consideradas en las fracciones IV, V, VI y VII del artículo 174, al responsable se le impondrá pena de prisión de hasta el término medio aritmético de la pena que en cada caso corresponda, así como multa hasta por setenta y cinco unidades e inhabilitación hasta por cinco años para realizar la actividad por la cual se ocasionó el delito.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 185.
 
-Además de las sanciones que señalen los Artículos anteriores, una vez decretada la formal prisión o sentenciado que sea el agente activo, para preservar a la víctima del delito cuando sea necesario, los jueces impondrán al procesado como medida preventiva, o sentenciado en su caso, la prohibición de ir a una circunscripción territorial determinada o de residir en ella.
+Además de las sanciones que señalen los artículos anteriores, una vez decretada la formal prisión o sentenciado que sea el agente activo, para preservar a la víctima del delito cuando sea necesario, así como al cónyuge de esta y demás parientes consanguíneos en línea recta o colateral hasta el segundo grado, los jueces impondrán al procesado como medida preventiva, o sentenciado en su caso, la prohibición de ir a una circunscripción territorial determinada o de residir en ella.
 
 ### CAPITULO I.
 
@@ -2295,6 +2311,14 @@ DAÑOS.
 
 Al que amenace a otro con causarle un daño en su persona, bienes, derechos o en la de otra persona con la que esté ligada por algún vínculo, se le impondrán de uno a cuatro años de prisión y multa hasta por 50 unidades.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Igual pena se impondrá al que a través de escritos intimide a otro con motivo del cobro de una deuda.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Para efectos del párrafo anterior se entenderá por intimidación el exagerar las acciones y consecuencias jurídicas que pudieran proceder por el incumplimiento en el pago del adeudo, que causen inquietud o zozobra en el ánimo del deudor.
+
 Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le impondrán de dos a seis años de prisión y multa hasta por 80 unidades.
 
 ### CAPITULO VI.
@@ -2591,7 +2615,15 @@ I.- Enajene o traspase una negociación sin autorización de los acreedores de e
 
 II.- Por sí o por interpósita persona, cause perjuicio público o privado, al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio, con o sin construcciones, sin previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados.
 
-Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa o del derecho transmitido.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2007)</small>
+
+III.- Cuando el deudor alimentista renuncie a su trabajo para eludir la obligación de pagar la pensión a favor de los acreedores alimentistas serán sancionados con prisión de tres días a cuatro años.
+
+Para los efectos del párrafo anterior se presume que el deudor alimentista elude su obligación, cuando éste no garantice su cumplimiento.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2007)</small>
+
+Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa, del derecho transmitido o de la obligación alimentaria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2003)</small>
 
@@ -3120,3 +3152,7 @@ P.O. 18 DE JULIO DE 2006.
 P.O. 8 DE FEBRERO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ABRIL DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
