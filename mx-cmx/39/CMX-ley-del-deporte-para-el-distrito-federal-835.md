@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2006-04-28"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 13 de noviembre de 1995.
 
@@ -86,15 +86,11 @@ Corresponde al Jefe de Gobierno del Distrito Federal ser el órgano rector de la
 
 Se establece el Sistema del Deporte del Distrito Federal que estará constituido por el conjunto de instrumentos, métodos, acciones, recursos y procedimientos que los individuos, agrupaciones sociales y organismos deportivos de los sectores público, social y privado del Distrito Federal establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
-###### ARTICULO 8.
-
-Las funciones que conforme a esta Ley corresponden al Sistema del Deporte del Distrito Federal, estarán a cargo del Jefe de Gobierno del Distrito Federal quien las ejercerá por conducto de la Secretaría de Desarrollo Social a través del Instituto del Deporte del Distrito Federal.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 8o.
 
-Las funciones que conforme a esta Ley corresponden al Sistema del Deporte del Distrito Federal, estarán a cargo del Jefe de Gobierno del Distrito Federal quien las ejercerá por conducto de la Secretaría de Salud y Desarrollo Social, a través de la Dirección General de Promoción Deportiva.
+Las funciones que conforme a esta Ley corresponden al Sistema del Deporte del Distrito Federal, estarán a cargo del Jefe de Gobierno del Distrito Federal quien las ejercerá por conducto de la Secretaría de Educación a través del Instituto del Deporte del Distrito Federal.
 
 ###### ARTICULO 9o.
 
@@ -656,11 +652,15 @@ Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberá
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
+ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 42 Bis.
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 42 Ter.
 
@@ -668,13 +668,9 @@ Los responsables administrativos de las instalaciones deportivas realizadas con 
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
-ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 43.
 
-Las instalaciones deportivas de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal deberán contar con las adecuaciones arquitectónicas para la práctica del deporte adaptado que realizan las personas con discapacidad, debiendo contemplarse por los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal como por la Secretaría de Desarrollo Social, por conducto del Instituto del Deporte del Distrito Federal, los presupuestos que se ejercerán cada año para dar cumplimiento a las adecuaciones que resulten necesarias.
+Las instalaciones deportivas de los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal deberán contar con las adecuaciones arquitectónicas para la práctica del deporte adaptado que realizan las personas con discapacidad, debiendo contemplarse por los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal como por la Secretaría de Educación por conducto del Instituto del Deporte del Distrito Federal, los presupuestos que se ejercerán cada año para dar cumplimiento a las adecuaciones que resulten necesarias.
 
 Se procederá en las nuevas construcciones de instalaciones deportivas y en la rehabilitación de los actuales espacios, al acondicionamiento arquitectónico, de acceso y servicios, para la realización del deporte adaptado.
 
@@ -836,11 +832,11 @@ Son consideradas personas con discapacidad, todo ser humano que padece temporal 
 
 Las personas a que se refiere este título recibirán sin discriminación alguna, los estímulos y demás beneficios que se establecen en esta ley y su reglamento.
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 60.
 
-El Jefe de Gobierno del Distrito Federal, a través de la Secretaria de Desarrollo Social del Gobierno del Distrito Federal por conducto del Instituto del Deporte del Distrito Federal y de los Jefes de los Órganos Político-Administrativos cada una de las Demarcaciones Territoriales del Distrito Federal, deberán alentar la práctica de nuevas disciplinas y modalidades del deporte adaptado en las instalaciones deportivas donde se cuente con la infraestructura necesaria contando para ello, con la colaboración de las diferentes organizaciones del deporte adaptado.
+El Jefe de Gobierno del Distrito Federal, a través de la Secretaría de Educación del Gobierno del Distrito Federal por conducto del Instituto del Deporte del Distrito Federal y de los Jefes de los Órganos Político-Administrativos cada una de las Demarcaciones Territoriales del Distrito Federal, deberán alentar la práctica de nuevas disciplinas y modalidades del deporte adaptado en las instalaciones deportivas donde se cuente con la infraestructura necesaria contando para ello, con la colaboración de las diferentes organizaciones del deporte adaptado.
 
 > <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
 
@@ -860,11 +856,11 @@ Los aspirantes a ingresar a cualquiera de las disciplinas del deporte adaptado, 
 
 La Secretaría de Desarrollo Social, deberá difundir y promover entre la población discapacitada, la práctica deportiva con el objeto de apoyar su integración a la sociedad y propiciar su bienestar.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 64.
 
-La Secretaría de Desarrollo Social del Gobierno del Distrito Federal por conducto del Instituto del Deporte del Distrito Federal, deberá contar dentro de la Dirección de Promoción y Desarrollo Deportivo con un área especifica que se encargue de la elaboración, programación, ejecución, difusión y en su caso de la supervisión de los programas que con relación al deporte adaptado sean elaborados para su aplicación en el Distrito Federal.
+La Secretaría de Educación del Gobierno del Distrito Federal por conducto del Instituto del Deporte del Distrito Federal, deberá contar dentro de la Dirección de Promoción y Desarrollo Deportivo con un área específica que se encargue de la elaboración, programación, ejecución, difusión y en su caso de la supervisión de los programas que con relación al deporte adaptado sean elaborados para su aplicación en el Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -884,11 +880,11 @@ Los Órganos Político-Administrativos de cada una de las Demarcaciones Territor
 
 El Jefe de Gobierno del Distrito Federal, promoverá la creación del Fondo para el Fomento y Apoyo al Deporte Adaptado, el cuál tendrá como finalidad captar recursos financieros y materiales para apoyar las prioridades que se establezcan en los programa específicos que se deriven de la fracción III del artículo 27 bis del presente ordenamiento legal.
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 68.
 
-El Jefe de Gobierno del Distrito Federal a través de la Secretaría de Desarrollo Social y por conducto del Instituto del Deporte del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal, promoverá la creación y puesta en marcha de un Programa de Becas para los deportistas con discapacidad sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores.
+El Jefe de Gobierno del Distrito Federal a través de la Secretaría de Educación y por conducto del Instituto del Deporte del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal, promoverá la creación y puesta en marcha de un Programa de Becas para los deportistas con discapacidad sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores.
 
 ## TRANSITORIOS
 
@@ -951,3 +947,9 @@ PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgació
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese también en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
