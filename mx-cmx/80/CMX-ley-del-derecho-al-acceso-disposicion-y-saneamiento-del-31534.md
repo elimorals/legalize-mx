@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2006-05-31"
+last_updated: "2007-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -202,33 +202,23 @@ El ejercicio de las facultades que esta Ley confiere al Sistema de Aguas de la C
 
 El Sistema de Aguas contará con un Consejo Directivo, así como con la estructura administrativa que requiera la atención adecuada de sus funciones y que le sea autorizada en los términos del Reglamento Interior de la Administración Pública de Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO 2005)</small>
-
-###### Artículo 9°.
-
-El Consejo Directivo del Sistema de Aguas estará integrado por once miembros propietarios y sus respectivos suplentes, conforme a lo siguiente:
-
-> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
-
-I. El titular de la Secretaría del Medio Ambiente, quien lo presidirá; de Obras y Servicios; de Salud; de Desarrollo Urbano y Vivienda; de Gobierno; de Finanzas; de la Tesorería; de la Procuraduría Ambiental y de Ordenamiento Territorial; y del Sistema de Aguas de la Ciudad de México.
-
-II. Un representante de organizaciones sociales legalmente constituidas, un representante de organizaciones del sector privado y un representante de instituciones académicas o de investigación, relacionados con la materia de la presente Ley, propuestos por la Secretaría del Medio Ambiente, mismos que durarán en su encargo 3 años y su participación será de carácter honorario, con derecho a voz.
-
-> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
-
-Las y los integrantes del Consejo Directivo referidos en la fracción I del presente Artículo tendrán derecho a voz y voto en las sesiones. El Consejo Directivo podrá invitar a las y los representantes de las delegaciones, organismos autónomos, dependencias y entidades de la Administración Pública del Distrito Federal y de la Administración Pública Federal, de la Asamblea Legislativa del Distrito Federal y representantes de los usuarios que considere.
-
-> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 9º.
 
-El Consejo de Gobierno del Sistema de Aguas estará integrado por once integrantes propietarios y sus respectivos suplentes, conforme a lo siguiente:
+El Consejo Directivo del Sistema de Aguas estará integrado por trece miembros propietarios y sus respectivos suplentes, conforme a lo siguiente:
 
-I. Las y los titulares de las Secretarías del Medio Ambiente, quien lo presidirá; de Obras y Servicios; de Salud; de Desarrollo Urbano y Vivienda; de Gobierno; de Finanzas; de la Tesorería, y de la Procuraduría Ambiental y del Ordenamiento Territorial; y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I. El titular de la Secretaría del Medio Ambiente, quien lo presidirá; de Obras y Servicios; de Salud; de Desarrollo Urbano y Vivienda; de Gobierno; de Finanzas; de Desarrollo Rural y Equidad para las Comunidades, de la Tesorería; de la Procuraduría Ambiental y de Ordenamiento Territorial; y del Sistema de Aguas de la Ciudad de México; y
 
 II. Un representante de organizaciones sociales legalmente constituidas, un representante de organizaciones del sector privado y un representante de instituciones académicas o de investigación, relacionados con la materia de la presente Ley, propuestos por la Secretaría del Medio Ambiente, mismos que durarán en su encargo 3 años y su participación será de carácter honorario, con derecho a voz.
 
-Las y los integrantes del Consejo de Gobierno referidos en la fracción I del presente artículo tendrán derecho a voz y voto en las sesiones. A las sesiones de este Consejo asistirá la o el Director General del Sistema de Aguas quien tendrá derecho a voz pero no a voto. El Consejo de Gobierno podrá invitar a las y los representantes de las delegaciones, organismos autónomos, dependencias y entidades de la administración pública del Distrito Federal y de la administración pública federal, de la Asamblea Legislativa del Distrito Federal y representantes de los usuarios que considere.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+Las y los integrantes del Consejo Directivo referidos en la fracción I del presente artículo tendrán derecho a voz y voto en las sesiones, en caso de empate el titular de la Secretaría de Medio Ambiente contará con el voto de calidad. El Consejo Directivo podrá invitar a las y los representantes de las delegaciones, organismos autónomos, dependencias y entidades de la Administración Pública del Distrito Federal y de la Administración Pública Federal, de la Asamblea Legislativa del Distrito Federal y representantes de los usuarios que considere.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
 ###### Artículo 10.
 
@@ -342,7 +332,9 @@ I. Integrar a la política ambiental las disposiciones que esta Ley establece en
 
 II. Proteger las cuencas fluviales del agotamiento y degradación de sus suelos y cubierta forestal, así como de actividades perjudiciales que incluyan en sus cauces;
 
-III. Promover la investigación sobre la contribución de los recursos forestales al desarrollo sustentable de los recursos hídricos;
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. Promover, conjuntamente con la Secretaría de Desarrollo Rural y Equidad para las Comunidades, la investigación sobre la contribución de los recursos forestales al desarrollo sustentable de los recursos hídricos;
 
 IV. Establecer y operar sistemas de monitoreo de la calidad del agua en el Distrito Federal;
 
@@ -1507,3 +1499,9 @@ PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 SEGUNDO.- Túrnese al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias a los reglamentos respectivos para la correcta aplicación de la Ley.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
