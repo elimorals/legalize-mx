@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-836"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-29"
-last_updated: "2006-08-11"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996.
 
@@ -552,9 +552,9 @@ XXXV. Presentar a la Asamblea los informes trimestrales del avance cualitativo d
 
 XXXVI. Enviar a la Asamblea los acuerdos que dicte en la materia de esta Ley;
 
-> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-XXXVII. Coordinarse con la Secretaría de Gobierno, con el objeto de incluir criterios de protección civil destacando la constante prevención-mitigación y la variable riesgo-vulnerabilidad;
+XXXVII. Coordinarse con la Secretaría de Protección Civil, con el objeto de incluir criterios de protección civil destacando la constante prevención-mitigación y la variable riesgo-vulnerabilidad;
 
 > <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -1604,7 +1604,9 @@ Sin el cumplimiento de este requisito no podrá otorgarse ninguna licencia. El c
 
 El estudio de impacto urbano o urbano-ambiental será elaborado por los peritos autorizados, el cual deberá contar con la responsiva otorgada por el Director Responsable de Obra y el Corresponsable, en su caso.
 
-La Secretaría emitirá el dictamen de impacto urbano, e integrará y emitirá, junto con la Secretaría de Medio Ambiente, el dictamen de impacto urbano-ambiental con base en la evaluación del estudio de impacto correspondiente y de la opinión que al respecto emita la Delegación y, en su caso, la Dirección General de Protección Civil.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+La Secretaría emitirá el dictamen de impacto urbano, e integrará y emitirá, junto con la Secretaría de Medio Ambiente, el dictamen de impacto urbano-ambiental con base en la evaluación del estudio de impacto correspondiente y de la opinión que al respecto emita la Delegación y, en su caso, la Secretaría de Protección Civil.
 
 Las personas físicas o morales que deseen realizar cualquier construcción, ampliación, reparación o modificación de una obra en términos de lo señalado en el presente artículo, deberán responder de cualquier impacto. Para ello efectuarán el pago de aprovechamientos y derechos, en términos de lo dispuesto por el Código Financiero del Distrito Federal.
 
@@ -2066,7 +2068,9 @@ b) El Comité estará integrado por:
 
 Un representante del titular de la Delegación correspondiente.
 
-Un representante por cada una de las dependencias siguientes: Secretaría de Desarrollo Urbano y Vivienda, Secretaría de Transportes y Vialidad, Secretaría de Desarrollo Económico, Sistema de Aguas de la Ciudad de México y de la Dirección General de Protección Civil.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+Un representante por cada una de las dependencias siguientes: Secretaría de Desarrollo Urbano y Vivienda, Secretaría de Transportes y Vialidad, Secretaría de Desarrollo Económico, Sistema de Aguas de la Ciudad de México y de la Secretaría de Protección Civil.
 
 Un representante de la instancia de representación vecinal designado por los miembros del mismo, conforme a lo establecido en la Ley de la materia, de la zona de influencia en donde se ubica la solicitud de cambio de uso del suelo.
 
@@ -3163,3 +3167,9 @@ PRIMERO.- El presente Decreto surtirá sus efectos al día siguiente de su publi
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se solicita al Jefe de Gobierno del Distrito Federal, se lleven a cabo las modificaciones necesarias al Reglamento de la Ley de Desarrollo Urbano del Distrito Federal, en función de la presente modificación a la Ley indicada.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
