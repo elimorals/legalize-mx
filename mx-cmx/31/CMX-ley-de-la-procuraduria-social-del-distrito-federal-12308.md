@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-del-distrito-federal-12308"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "1998-09-28"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12308&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -188,7 +188,9 @@ I. El Jefe de Gobierno del Distrito Federal o la persona que este designe, quié
 
 II. El titular de la Secretaria de Gobierno o la persona que este designe;
 
-III. Un representante por cada uno de los titulares de las Secretarías de Desarrollo Urbano y Vivienda, Obras y Servicios, Medio Ambiente, Transportes y Vialidad, Finanzas, Seguridad Pública, y de la Oficialía Mayor; y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. Un representante por cada uno de los titulares de las Secretarías de Desarrollo Urbano y Vivienda, Obras y Servicios, Medio Ambiente, Transportes y Vialidad, Finanzas, Seguridad Pública, Desarrollo Rural y Equidad para las Comunidades, Protección Civil y de la Oficialía Mayor; y
 
 IV. Seis ciudadanos mexicanos, que gocen de reconocido prestigio y buena reputación y que cuenten con conocimientos o experiencia en las materias relacionadas con las funciones de la Procuraduría, quienes serán nombrados, a convocatoria del Jefe de Gobierno.
 
@@ -731,3 +733,11 @@ NOVENO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a veintiocho de abril de mil novecientos noventa y ocho.- Por la Mesa Directiva, Dip. Sara Isabel Castellanos Cortes, Presidenta.- Dip. Guillermina Martínez Parra, Secretaria.- Dip. Irma Islas León, Prosecretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto en la residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre de mil novecientos noventa y ocho.- El Jefe de Gobierno del Distrito Federal, Cuauhtémoc Cárdenas Solorzano.- Rúbrica.- La Secretaria de Gobierno, Rosario Robles Berlanga.- Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
