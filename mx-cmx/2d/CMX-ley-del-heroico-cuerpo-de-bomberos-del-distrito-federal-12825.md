@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-heroico-cuerpo-de-bomberos-del-distrito-federal-12825"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-24"
-last_updated: "2005-01-10"
+last_updated: "2007-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-06"
 
 LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de diciembre de 1998.
 
@@ -48,7 +48,9 @@ LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
 Las disposiciones de esta Ley son de orden público e interés general, y tienen por objeto:
 
-I. Crear el Organismo Descentralizado de la Administración Pública del Distrito Federal denominado Heroico Cuerpo de Bomberos del Distrito Federal, el cual para los efectos del artículo 102 del Estatuto de Gobierno del Distrito Federal, conducirá su relación con el Jefe de Gobierno a través de la Secretaría de Gobierno la que fungirá como Coordinadora Sectorial;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I. Crear el Organismo Descentralizado de la Administración Pública del Distrito Federal denominado Heroico Cuerpo de Bomberos del Distrito Federal, el cual para los efectos del artículo 102 del Estatuto de Gobierno del Distrito Federal, conducirá su relación con el Jefe de Gobierno a través de la Secretaría de Protección Civil la que fungirá como Coordinadora Sectorial;
 
 > <small>(ADICIONADA, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -260,7 +262,9 @@ XI. CONTRALORÍA INTERNA. Es el órgano de vigilancia integrado por un Contralor
 
 La Junta de Gobierno, en su carácter de máxima autoridad del Organismo, se integrará de la siguiente manera:
 
-I. Dos funcionarios designados por el Secretario de Gobierno del Distrito Federal, uno de los cuales será el presidente de la Junta;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I. Dos funcionarios designados por el Secretario de Protección Civil del Distrito Federal, uno de los cuales será el presidente de la Junta;
 
 II. Dos personas de la sociedad civil con experiencia y conocimientos en Protección Civil y en labores de bomberos, nominados por la Asamblea Legislativa del Distrito Federal;
 
@@ -286,7 +290,9 @@ Por cada uno de los miembros electos se nombrará un suplente por las propias au
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I. Ratificar la propuesta de presupuesto de egresos así como de los ingresos anuales del organismo, que haga el Director General, para que sean enviados a los Secretarios de Gobierno y de Finanzas del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I. Ratificar la propuesta de presupuesto de egresos así como de los ingresos anuales del organismo, que haga el Director General, para que sean enviados a los Secretarios de Protección Civil y de Finanzas del Distrito Federal;
 
 II. Analizar y aprobar los proyectos de inversión y crediticios que el Organismo requiera para que se proceda conforme a las disposiciones aplicables;
 
@@ -378,7 +384,9 @@ VIII. Poner a consideración de la Junta de Gobierno los nombramientos de Jefes 
 
 IX. Proporcionar información al Consejo del Heroico Cuerpo de Bomberos del Distrito Federal, sobre la situación que guarda el Organismo;
 
-X. Elaborar Atlas de Riesgo que pondrá a disposición de la Dirección General de Protección Civil del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+X. Elaborar Atlas de Riesgo que pondrá a disposición de la Secretaría de Protección Civil del Distrito Federal;
 
 XI. Expedir en su caso, copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia;
 
@@ -634,7 +642,9 @@ II. El Director de la Academia de Bomberos;
 
 III. Tres Diputados miembros de la Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal;
 
-IV. El Director General de Protección Civil del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+IV. El Secretario de Protección Civil del Distrito Federal;
 
 V. Un representante de cada una de las siguientes instituciones: Universidad Nacional Autónoma de México, Universidad Autónoma Metropolitana, Instituto Politécnico Nacional y Universidad de la Ciudad de México.
 
@@ -690,9 +700,11 @@ VIII. Cualquiera otra percepción respecto de la cual el organismo resulte benef
 
 El presupuesto del Organismo Descentralizado del Heroico Cuerpo de Bomberos del Distrito Federal, se determinará en el Presupuesto de Egresos del Distrito Federal que apruebe la Asamblea Legislativa del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 28.
 
-La Junta de Gobierno del Heroico Cuerpo de Bomberos, del Distrito Federal, hará llegar al Jefe de Gobierno, por conducto de la Secretaría de Gobierno, el presupuesto que estime necesario de conformidad con sus necesidades programáticas, y con sujeción a los lineamientos que en materia de gasto establezca la legislación correspondiente a efecto de su consideración para la formulación del Proyecto de Presupuesto de Egresos que el Jefe de Gobierno envíe a la Asamblea Legislativa del Distrito Federal.
+La Junta de Gobierno del Heroico Cuerpo de Bomberos del Distrito Federal, hará llegar al Jefe de Gobierno, por conducto de la Secretaría de Protección Civil, el presupuesto que estime necesario de conformidad con sus necesidades programáticas, y con sujeción a los lineamientos que en materia de gasto establezca la legislación correspondiente a efecto de su consideración para la formulación del Proyecto de Presupuesto de Egresos que el Jefe de Gobierno envíe a la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1120,7 +1132,7 @@ El número de bomberos voluntarios estará determinado por las condiciones mater
 
 Con el propósito de implementar en la Ciudad de México una Cultura de la Protección Civil, la Academia de Bomberos instrumentará un programa permanente de capacitación para la prevención de incendios, fugas, derrames, dirigido a niños y jóvenes de la ciudad a quienes se les darán cursos básicos para que prevean situaciones de peligro y aprendan a denunciarlas.
 
-### CAPITULO II. DEL FUNCIONAMIENTO DEL PATRONATO
+### CAPITULO I. DE LA MISION DEL PATRONATO
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1128,7 +1140,7 @@ Con el propósito de implementar en la Ciudad de México una Cultura de la Prote
 
 DE LA COOPERACION QUE DEBEN LOS PARTICULARES AL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL Y LAS RESPONSABILIDADES POR DAÑOS A TERCEROS EN EL ATAQUE Y EXTINCION DE SINIESTROS, EMERGENCIAS Y DEMAS SERVICIOS QUE PRESTA EL ORGANISMO
 
-### CAPITULO I. DE LA MISION DEL PATRONATO
+### CAPITULO II. DEL FUNCIONAMIENTO DEL PATRONATO
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1142,9 +1154,11 @@ Las intervenciones de los servicios que presta el Organismo, se entenderán just
 
 Los particulares están obligados a prestar ayuda sin restricciones a los miembros del Organismo cuando se encuentren prestando servicio, aún en los casos en los que por las situaciones de emergencia específicas tengan que causarse daños al patrimonio de terceros, quienes podrán reclamar la reparación de los daños a quien haya resultado causante del origen de la emergencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO X. DEL PATRONATO DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 70.
 
@@ -1164,13 +1178,15 @@ A través del Patronato se propiciará la adquisición de equipo especializado y
 
 El Patronato organizará campañas de donación, colectas, rifas, sorteos y otras actividades lícitas con el propósito de obtener recursos en apoyo de proyectos específicos para el cumplimiento de las funciones del Organismo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 73.
 
 El Patronato está integrado por:
 
-I. El Titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I. El Titular de la Secretaría de Protección Civil.
 
 II. El Titular de la Secretaría de Desarrollo Económico;
 
@@ -1228,8 +1244,6 @@ El Patronato expedirá sus reglas internas de operación y funcionamiento, que s
 
 La aplicación de los recursos que obtenga el Patronato, deberá cumplir con las especificaciones técnicas del Organismo en su caso, y ser aprobada por la Junta de Gobierno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
-
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor a los noventa días de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -1275,3 +1289,9 @@ CUARTO: Los miembros de la Junta de Gobierno deberán ser nombrados y/o ratifica
 QUINTO: Los dictámenes a que se refiere el Título Séptimo de la presente Ley los expedirá el Heroico Cuerpo de Bomberos del Distrito Federal, a partir de que sean fijados los derechos en el Código Financiero del Distrito Federal.
 
 SEXTO: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su más amplia difusión.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
