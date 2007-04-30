@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2007-02-09"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -338,7 +338,9 @@ La administración pública local será la encargada de formular la política de
 
 La Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento, establecerán el sistema de delegación de facultades.
 
-De conformidad con lo que dispone el artículo 22 de la Ley de Planeación del Desarrollo del Distrito Federal, el Comité de Planeación establecerá la Comisión del Ordenamiento Territorial del Distrito Federal, copresidida por los Titulares de la Secretaría de Medio Ambiente y de la Secretaría de Desarrollo Urbano y Vivienda.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+De conformidad con lo que dispone el artículo 22 de la Ley de Planeación del Desarrollo del Distrito Federal, el Comité de Planeación establecerá la Comisión del Ordenamiento Territorial del Distrito Federal, copresidida por los Titulares de las Secretarías de Medio Ambiente, Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades.
 
 Esta Comisión, de conformidad con la Ley de Planeación del Desarrollo del Distrito Federal, será el órgano de coordinación para la aplicación del ordenamiento ecológico territorial, de sus programas y del Programa General de Desarrollo Urbano y demás programas de Desarrollo Urbano, disposiciones que serán el elemento territorial que esa Ley prevé para el Programa General de Desarrollo del Distrito Federal.
 
@@ -384,7 +386,11 @@ I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, a
 
 II. Formular, ejecutar y evaluar el programa sectorial ambiental del Distrito Federal;
 
-III. Formular y ejecutar los programas de ordenamiento ecológico del Distrito Federal, y los programas que de éstos se deriven, así como vigilar su cumplimiento, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y en su momento, proponer las adecuaciones pertinentes al mismo;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. Formular y ejecutar los programas de ordenamiento ecológico del Distrito Federal, y los programas que de éstos se deriven, así como vigilar su cumplimiento, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades y en su momento, proponer las adecuaciones pertinentes al mismo;
+
+La vigilancia y las propuestas de adecuaciones que formulen la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades, las efectuarán en el ámbito de sus atribuciones;
 
 IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, para conservar y restaurar el equilibrio ecológico y proteger al ambiente en materias de su competencia;
 
@@ -706,9 +712,11 @@ IV. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reu
 
 ### CAPÍTULO III. PLANEACIÓN DEL DESARROLLO SUSTENTABLE
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-En la planeación del desarrollo del Distrito Federal se deberá incluir la política de desarrollo sustentable y el ordenamiento ecológico. En la planeación y ejecución de acciones a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal, se observarán los lineamientos, criterios e instrumentos de política ambiental, el Programa General de Desarrollo del Distrito Federal, el Programa Sectorial Ambiental y los programas correspondientes.
+En la planeación del desarrollo del Distrito Federal se deberá incluir la política de desarrollo sustentable, desarrollo rural y el ordenamiento ecológico. En la planeación y ejecución de acciones a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal, se observarán los lineamientos, criterios e instrumentos de política ambiental, el Programa General de Desarrollo del Distrito Federal, el Programa Sectorial Ambiental y los programas correspondientes.
 
 En concordancia con lo que dispone el artículo 16 de la Ley de Desarrollo Urbano del Distrito Federal, la planeación del Desarrollo sustentable y el ordenamiento ecológico del territorio, serán junto con el Programa General de Desarrollo Urbano, y demás programas de Desarrollo Urbano, el sustento territorial para la planeación económica y social para el Distrito Federal, de conformidad con lo señalado en la Ley de Planeación del Desarrollo del Distrito Federal.
 
@@ -734,7 +742,9 @@ I. El cumplimiento y observancia del Programa General de Ordenamiento Ecológico
 
 II. El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a habitación, los servicios y en general otras actividades, siendo responsabilidad de las autoridades y de los habitantes del Distrito Federal la forestación y reforestación;
 
-III. La conservación de las áreas de uso agropecuario y forestal, evitando su fraccionamiento para fines de desarrollo urbano;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. La conservación de las áreas rurales, de uso agropecuario y forestal, evitando su fraccionamiento para fines de desarrollo urbano;
 
 IV. La integración de inmuebles de alto valor histórico, arquitectónico y cultural con áreas verdes y áreas de valor ambiental;
 
@@ -780,7 +790,9 @@ La elaboración, aprobación e inscripción de los programas de ordenamiento eco
 
 I. La Secretaría publicará el aviso del inicio del proceso de elaboración del proyecto de programas o de sus modificaciones en la Gaceta Oficial y en un diario de mayor circulación en el Distrito Federal, por una vez;
 
-II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, definirán los elementos de articulación de dichos programas con los de desarrollo urbano para asentamientos humanos en suelo de conservación;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y de Desarrollo Rural y Equidad para las Comunidades, definirán los elementos de articulación de dichos programas con los de desarrollo urbano para asentamientos humanos en suelo de conservación;
 
 III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta Oficial y en un diario de mayor circulación, de acuerdo con las siguientes bases:
 
@@ -822,9 +834,17 @@ I. Las autorizaciones en materia de impacto ambiental, y en general en los proye
 
 II. El aprovechamiento de los recursos naturales en el Distrito Federal;
 
-III. La creación de áreas naturales protegidas de competencia del Distrito Federal; y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-IV. Los programas de desarrollo urbano.
+III. La creación de áreas naturales protegidas de competencia del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+IV. Los programas de desarrollo urbano; y
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+V. La elaboración de políticas y programas en materia de promoción y fomento agrícola, agropecuario, turismo alternativo y programas del sector rural.
 
 ### CAPÍTULO V. NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL
 
@@ -928,7 +948,9 @@ El procedimiento de evaluación de impacto ambiental se inicia mediante la prese
 
 En los casos de aquellas obras y actividades donde además de la autorización de impacto ambiental requiera la de impacto urbano, se estará a lo dispuesto en la presente Ley, en la Ley de Desarrollo Urbano del Distrito Federal y al reglamento que sobre estas materias al efecto se emita.
 
-La Secretaría y la Secretaría de Desarrollo Urbano y Vivienda podrán interpretar y aplicar para efectos administrativos en la esfera de sus respectivas competencias, las disposiciones de esta Ley y de los programas de ordenamiento ecológico territorial, así como, de la Ley de Desarrollo Urbano del Distrito Federal, y de los Programas de Desarrollo Urbano, respectivamente, y del Reglamento al que se refiere el párrafo anterior, emitiendo para tal efecto, de manera conjunta los dictámenes, circulares y recomendaciones en materia de impacto urbano y ambiental.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+La Secretaría y las Secretarías de Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades podrán interpretar y aplicar para efectos administrativos en la esfera de sus respectivas competencias, las disposiciones de esta Ley y de los programas de ordenamiento ecológico territorial, así como, de la Ley de Desarrollo Urbano del Distrito Federal, y de los Programas de Desarrollo Urbano, respectivamente, y del Reglamento al que se refiere el párrafo anterior, emitiendo para tal efecto, de manera conjunta los dictámenes, circulares y recomendaciones en materia de impacto urbano y ambiental.
 
 ###### ARTÍCULO 46.
 
@@ -1822,7 +1844,9 @@ En el establecimiento, administración, manejo y vigilancia de las áreas de val
 
 Los programas de manejo de las áreas de valor ambiental que elabore la Secretaría, con la participación de la o las delegaciones correspondientes y demás participantes que determine el reglamento, deberán de contener, además de los requisitos establecidos en las fracciones II, V, VI y VII del artículo 95 de esta Ley, los siguientes:
 
-I.- Las características físicas, biológicas, culturales, sociales, recreativas y económicas del área;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I.- Las características físicas, biológicas, rurales, culturales, sociales, recreativas y económicas del área;
 
 II.- La regulación del uso del suelo y, en su caso, del manejo de recursos naturales y de la realización de actividades en el área, y
 
@@ -2124,7 +2148,9 @@ VII. Los mecanismos de financiamiento del área, incluido el programa de inversi
 
 El programa de manejo del Área Comunitaria de Conservación Ecológica será elaborado por el ejido o comunidad que corresponda, quien podrá ser asistido en el proceso por instituciones u organizaciones con experiencia en la conservación y manejo de recursos naturales. Su contenido deberá tener el consenso y validación de los miembros del pueblo, comunidad o ejido, expresada mediante asamblea.
 
-El programa de manejo deberá ser aprobado por la Secretaría y publicado en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+El programa de manejo deberá ser aprobado conjuntamente por la Secretaría y por la Secretaría de Desarrollo Rural y Equidad para las Comunidades y publicado en la Gaceta Oficial del Distrito Federal.
 
 Las disposiciones del programa de manejo se integrarán en los programas de Ordenamiento Ecológico del Distrito Federal.
 
@@ -2868,7 +2894,9 @@ I. Generación, manejo y disposición final de residuos de baja peligrosidad;
 
 II. Características de las edificaciones que alberguen dichas instalaciones;
 
-III. Tránsito dentro de las zonas urbanas y centros de población;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. Tránsito dentro de las zonas urbanas, rurales y centros de población;
 
 IV. Aquellas necesarias para evitar o prevenir contingencias ambientales; y
 
@@ -3545,3 +3573,9 @@ G.O. 9 DE FEBRERO DE 2007
 PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
