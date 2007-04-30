@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-15945"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2006-06-09"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15945&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -56,13 +56,15 @@ La aplicación y vigilancia del cumplimiento de esta Ley compete al Jefe de Gobi
 
 El Instituto de Ciencia y Tecnología del Distrito Federal tiene el objeto de asesorar y auxiliar al Jefe de Gobierno del Distrito Federal en la fijación, instrumentación y evaluación de la política de ciencia y tecnología. Así como ser medio de vinculación con los centros e institutos de investigación públicos y privados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 3.
 
-El Instituto de Ciencia y Tecnología del Distrito Federal, a través de su Director General, tiene las siguientes atribuciones:
+El Instituto de Ciencia y Tecnología del Distrito Federal tiene las siguientes atribuciones:
 
-I.- Ser asesor del Jefe de Gobierno del Distrito Federal y de la Secretaría de Desarrollo Social en la planeación, programación, coordinación, orientación, sistematización, promoción y dirección de las actividades relacionadas con la ciencia y tecnología;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+I.- Ser asesor del Jefe de Gobierno del Distrito Federal y de la Secretaría de Educación en la planeación, programación, coordinación, orientación, sistematización, promoción y dirección de las actividades relacionadas con la ciencia y tecnología;
 
 II.- Ser organismo de consulta obligatoria para todas las dependencias y entidades de la administración pública del Distrito Federal en todo lo concerniente a ciencia y tecnología;
 
@@ -70,7 +72,9 @@ II.- Ser organismo de consulta obligatoria para todas las dependencias y entidad
 
 III.- Celebrar convenios con la Administración Pública Local, con instituciones y organismo públicos federales, estatales e internacionales así como de la iniciativa privada, de asesoría, inversión, investigación, divulgación, formación, modernización, promoción y desarrollo de actividades, enfocadas al impulso de la ciencia y tecnología;
 
-IV.- Formular los programas de investigación científica, tecnológica y aplicada, relacionados con el desarrollo económico y social del Distrito Federal, procurando la participación de la comunidad científica, de los organismos públicos, de las Instituciones de educación superior y de los usuarios de la investigación;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+IV.- Formular los programas de investigación científica, tecnológica, y aplicada, relacionados con el desarrollo económico, rural y social del Distrito Federal, procurando la participación de la comunidad científica, de los organismos públicos, de las instituciones de Educación Superior y de los usuarios de la investigación;
 
 V.- Promover la más amplia relación, vinculación y coordinación entre los centros de investigación y de enseñanza superior radicados en el Distrito Federal, y el Gobierno del Distrito Federal y los usuarios de la investigación; para fomentar áreas comunes de investigación, programas interdisciplinarios respecto de investigaciones relacionadas con los problemas que enfrenta el Distrito Federal, eliminar duplicaciones en programas, proyectos y presupuestos y ayudar a la formación y capacitación de investigadores;
 
@@ -94,7 +98,9 @@ XIII.- Promover cursos de capacitación, especialización y actualización en ci
 
 XIV.- Asesorar a las autoridades competentes en materia de normas técnicas de los bienes que se produzcan en el Distrito Federal o deban ingresar en su territorio;
 
-XV.- Promover las publicaciones científicas, la difusión de las investigaciones sobre el Distrito Federal, así como informar periódicamente de los avances en ciencia y tecnología, en coordinación con la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+XV.- Promover las publicaciones científicas, la difusión de las investigaciones sobre el Distrito Federal, así como informar periódicamente de los avances en ciencia y tecnología, en coordinación con la Secretaría de Educación;
 
 XVI.- Proporcionar asesoría en materia de intercambio académico, de investigadores, programas de becas, sistemas de información y documentación, y servicios de apoyo a la investigación;
 
@@ -132,17 +138,21 @@ La Junta de Gobierno podrá delegar facultades en uno de los miembros permanente
 
 Los miembros permanentes de la Junta de Gobierno son el Secretario de Desarrollo Social del Distrito Federal, quien será el Presidente de la misma, el Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente.
 
-Los miembros permanentes sólo podrán hacerse representar por un Subsecretario.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+Los miembros permanentes de la Junta de Gobierno son el Secretario de Educación del Distrito Federal, quien será el Presidente de la misma, el Secretario de Finanzas, el Secretario de Desarrollo Económico, el Secretario de Desarrollo Rural y Equidad para las Comunidades y el Secretario del Medio Ambiente. Los miembros permanentes sólo podrán hacerse representar por un Subsecretario.
 
 ###### Artículo 6.
 
 Los miembros temporales lo serán por periodos bianuales irrevocables, y serán uno de los rectores de las instituciones de educación superior sitas en el Distrito Federal, un representante de alguna de las cámaras de la industria o comercio de la Ciudad de México y un representante de uno de los centros de investigación sitos en el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
 Los miembros temporales podrán hacerse representar por la persona de mayor jerarquía del organismo de que se trate.
 
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
-Los miembros temporales deberán ser elegidos por el Secretario de Desarrollo Social, a propuesta del Secretario de finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente.
+Los miembros temporales deberán ser elegidos por el Secretario (sic) Educación, a propuesta del Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente.
 
 ### Capítulo III. De las sesiones de la Junta de Gobierno
 
@@ -289,3 +299,9 @@ CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General 
 QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
 
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
