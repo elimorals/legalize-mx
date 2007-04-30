@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-los-criterios-del-comite-44917
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-06-07"
-last_updated: "2005-08-15"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-06-01"
 
 ACUERDO POR EL QUE SE ESTABLECEN LOS CRITERIOS DEL COMITE DE INFORMACION SOBRE LA CLASIFICACION DE LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LOS CRITERIOS DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION SOBRE LA CLASIFICACION DE LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 7 de junio de 2005.
 
@@ -289,10 +291,18 @@ CUARTO. Las Unidades Administrativas de la Auditoría Superior de la Federación
 
 México, D.F., a 1 de junio de 2005.- El Presidente del Comité de Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Benjamín Fuentes Castro, Julián Alfonso Olivas Ugalde, César Marttelo Díaz.- Rúbricas.
 
-México, D.F., a 1 de junio de 2005.- El Presidente del Comité de Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Benjamín Fuentes Castro, Julián Alfonso Olivas Ugalde, César Marttelo Díaz.- Rúbricas.
-
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 15 DE AGOSTO DE 2005.
 
 Unico.- Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 2007.
+
+PRIMERO. El Acuerdo por el que se establecen los Criterios del Comité de Transparencia y Acceso a la Información sobre la Clasificación de la Información de la Auditoría Superior de la Federación, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, abrogando el "Acuerdo por el que se establecen los criterios del Comité de Información sobre la Clasificación de la Información de la Auditoría Superior de la Federación", publicado el 7 de junio de 2005 y el "Acuerdo por el que se modifican los criterios contenidos en la disposición Vigésimo Quinta y los Transitorios Tercero y Cuarto del Acuerdo por el que se establecen los criterios del Comité de Información sobre la Clasificación de la Información de la Auditoría Superior de la Federación, publicado el 7 de junio de 2005", el cual se publicó el 15 de agosto de 2005.
+
+La información relacionada con Cuentas Públicas anteriores a la emisión de los presentes Criterios y que se refiere a acciones de naturaleza jurídica pendientes de resolución, solventación o conclusión se regirá por estos Criterios.
+
+SEGUNDO. Se reitera el carácter público de los Informes sobre el Resultado de la Revisión de las Cuentas Públicas 2000 y anteriores; así como de los Informes del Resultado de la Revisión y Fiscalización Superior de las Cuentas Públicas 2001, 2002, 2003, 2004 y 2005, de conformidad con lo establecido en las disposiciones vigentes en los ejercicios correspondientes.
+
+TERCERO. Los servidores públicos de la ASF y los profesionales de auditoría independientes contratados y habilitados deberán incluir en sus expedientes y documentación de naturaleza reservada o confidencial, el "Formato de Clasificación", a partir del 1o. de julio de 2007, además de la identificación del expediente, conforme a lo establecido por el Comité de Transparencia y Acceso a la Información para los archivos de trámite y concentración.
