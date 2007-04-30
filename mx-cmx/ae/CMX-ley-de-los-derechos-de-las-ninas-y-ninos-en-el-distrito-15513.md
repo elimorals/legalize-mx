@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2006-06-09"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -484,7 +484,9 @@ Se crea el Consejo Promotor de los Derechos de las Niñas y niños en el Distrit
 
 El Consejo Promotor se integrará por 11 integrantes titulares:
 
-El Jefe de Gobierno del Distrito Federal quien presidirá y tendrá voto de calidad; los responsables de las siguientes entidades y dependencias del Distrito Federal: Secretaría de Gobierno, Secretaría de Desarrollo Social, Secretaría de Salud, Secretaría de Seguridad Pública, Procuraduría General de Justicia del Distrito Federal, Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el Presidente del Tribunal Superior de Justicia del Distrito Federal quienes nombrarán a un representante del nivel jerárquico inmediato quienes asistirán en forma permanente. Así como por tres Diputados de la Asamblea Legislativa del Distrito Federal de las Comisiones relacionadas con el tema de las niñas y niños.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+El Jefe de Gobierno del Distrito Federal quien presidirá y tendrá voto de calidad; los responsables de las siguientes entidades y dependencias del Distrito Federal: Secretaría de Gobierno, Secretaría de Protección Civil, Secretaría de Desarrollo Rural y Equidad para las Comunidades, Secretaría de Desarrollo Social, Secretaría de Salud, Secretaría de Seguridad Pública, Procuraduría General de Justicia del Distrito Federal, Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el Presidente del Tribunal Superior de Justicia del Distrito Federal quienes nombrarán a un representante del nivel jerárquico inmediato quienes asistirán en forma permanente. Así como por tres Diputados de la Asamblea Legislativa del Distrito Federal de las Comisiones relacionadas con el tema de las niñas y niños.
 
 De igual forma, el Consejo podrá invitar a sus reuniones a un representante responsable del sector educativo del Distrito Federal, dos representantes de instituciones académicas, dos representantes del sector empresarial, dos representantes de los medios de comunicación, cuatro representantes de las organizaciones sociales, así como a cualquier persona física o moral, pública o privada de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso en materia de niñas y niños.
 
@@ -801,3 +803,9 @@ CUARTO.- El Jefe de Gobierno del Distrito Federal nombrará al Director General 
 QUINTO.- El Secretario de Finanzas, el Secretario de Desarrollo Económico y el Secretario del Medio Ambiente, deberán enviar las propuestas al Secretario de Desarrollo Social, para que éste elija a los Miembros Temporales de la Junta de Gobierno a más tardar el 1º de octubre de 2006, debiendo el Secretario de Desarrollo Social elegir a los tres Miembros Temporales a más tardar el 31 de octubre de 2006.
 
 SEXTO.- El Jefe de Gobierno del Distrito Federal deberá incluir en el Presupuesto de Egresos del Distrito Federal para el año 2007 la partida que corresponda al Instituto de Ciencia y Tecnología del Distrito Federal para que éste inicie operaciones el 2º de enero de 2007.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
