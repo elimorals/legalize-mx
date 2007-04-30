@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-del-distrito-federal-14948"
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-22"
-last_updated: "2004-05-17"
+last_updated: "2007-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-05-20"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 22 de mayo de 1998.
 
@@ -318,7 +318,9 @@ XVI. El establecimiento de políticas para impulsar la concientización de la po
 
 XVII. El apoyo a los estudios e investigaciones relacionadas a la actividad turística;
 
-XVIII. El fomento de la participación de las comunidades rurales propietarias de los bosques y demás recursos naturales en suelo de conservación, así como de las áreas naturales protegidas, para el desarrollo de destinos de turismo social y turismo alternativo;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+XVIII. El fomento de la participación de las comunidades rurales y étnicas propietarias de los bosques y demás recursos naturales en suelo de conservación, así como de las áreas naturales protegidas, para el desarrollo de destinos de turismo social y turismo alternativo;
 
 > <small>(F. DE E., G. O. 2 DE ENERO DE 2003)</small>
 
@@ -542,7 +544,9 @@ d) Que presten servicios turísticos de calidad verificable; y
 
 e) Buscar continuidad en el desarrollo de las labores propias del Fondo.
 
-También serán invitados permanentes a participar en las labores propias del Comité, con derecho a voz pero sin voto, el Director General del Fondo Mixto de Promoción Turística, el Director General del Instituto de Promoción Turística del Distrito Federal, la Contraloría General del Gobierno del Distrito Federal, la Asamblea Legislativa del Distrito Federal a través del Diputado Presidente de la Comisión de Turismo y la Secretaría de Turismo Federal. Cada representante propietario acreditará ante el Comité a un suplente.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+También serán invitados permanentes a participar en las labores propias del Comité, con derecho a voz pero sin voto, el Director General del Fondo Mixto de Promoción Turística, el Director General del Instituto de Promoción Turística del Distrito Federal, la Contraloría General del Gobierno del Distrito Federal, la Asamblea Legislativa del Distrito Federal a través del Diputado Presidente de la Comisión de Turismo, la Secretaría de Desarrollo Rural y Equidad para las Comunidades, la Secretaría de Turismo Federal. Cada representante propietario acreditará ante el Comité a un suplente.
 
 Igualmente, se deberá invitar a participar en el Comité a los Jefes Delegacionales relacionados con el asunto a tratar y a representantes del sector académico y otras organizaciones sectoriales del turismo de la iniciativa privada, cuando a juicio de sus integrantes sea necesario.
 
@@ -684,7 +688,9 @@ IV. Las demás que establezca el reglamento de la presente Ley.
 
 En todo lo no dispuesto en el presente capítulo serán aplicables las disposiciones que las Normas Oficiales Mexicanas establecen sobre la materia.
 
-Para todo lo previsto en el presente capítulo, la Secretaría, la Secretaría del Medio Ambiente, la Secretaría de Desarrollo Urbano y Vivienda y, en su caso las demarcaciones territoriales involucradas, elaborarán un mecanismo de coordinación con el objeto de evitar la duplicidad de funciones y la invasión de facultades que para cada una establece la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+Para todo lo previsto en el presente capítulo, la Secretaría, la Secretaría del Medio Ambiente, la Secretaría de Desarrollo Rural y Equidad para las Comunidades, la Secretaría de Desarrollo Urbano y Vivienda y, en su caso las demarcaciones territoriales involucradas, elaborarán un mecanismo de coordinación con el objeto de evitar la duplicidad de funciones y la invasión de facultades que para cada una establece la presente Ley y demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 37 TER], G.O. 17 DE MAYO DE 2004)</small>
 
@@ -692,7 +698,9 @@ Para todo lo previsto en el presente capítulo, la Secretaría, la Secretaría d
 
 Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas o las áreas de valor ambiental, la Secretaría del Medio Ambiente será la encargada de otorgar los permisos correspondientes, siguiendo el mismo procedimiento que establece el Reglamento.
 
-En todos lo (sic) casos, la Secretaría del Medio Ambiente definirá las áreas potenciales para el desarrollo del turismo alternativo en suelo de conservación, a las cuales se sujetará la aprobación del permiso correspondiente. Esta información deberá ser remitida anualmente a la Secretaría y a la Secretaría de Desarrollo Urbano y Vivienda, para los efectos que correspondan.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+
+En todos lo (sic) casos, la Secretaría del Medio Ambiente definirá las áreas potenciales para el desarrollo del turismo alternativo en suelo de conservación, a las cuales se sujetará la aprobación del permiso correspondiente. Esta información deberá ser remitida anualmente a la Secretaría, a la Secretaría de Desarrollo Rural y Equidad para las Comunidades y a la Secretaría de Desarrollo Urbano y Vivienda, para los efectos que correspondan.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 37 QUATER], G.O. 17 DE MAYO DE 2004)</small>
 
@@ -744,13 +752,13 @@ VIII. La prohibición a los prestadores de servicios turísticos y turistas de i
 
 Para los efectos de este capítulo, queda prohibido todo tipo de actividad turística cinegética, de conformidad con las disposiciones de la Ley de Protección a los Animales del Distrito Federal.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTICULO 37 SEPTIMUS], G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 50.
 
-La Secretaría, en coordinación con la Secretaría del Medio Ambiente, y ambas con las demarcaciones territoriales cuando corresponda, fomentarán la promoción de las actividades del turismo alternativo a través de programas y convenios en la materia. Asimismo, ambas Secretarías de manera coordinada, propondrán al Jefe de Gobierno del Distrito Federal la expedición de criterios técnicos de carácter obligatorio que todo prestador de servicios o desarrollador de actividades debe cumplir al dedicarse a cualquiera de las categorías de turismo alternativo.
+La Secretaría, en coordinación con las Secretarías del Medio Ambiente y Desarrollo Rural y Equidad para las Comunidades, y con las demarcaciones territoriales cuando corresponda, fomentarán la promoción de las actividades del turismo alternativo a través de programas y convenios en la materia. Asimismo, dichas Secretarías de manera coordinada, propondrán al Jefe de Gobierno del Distrito Federal la expedición de criterios técnicos de carácter obligatorio que todo prestador de servicios o desarrollador de actividades debe cumplir al dedicarse a cualquiera de las categorías de turismo alternativo.
 
-En todos los casos, ambas Secretarías elaborarán programas de concientización dirigida a las comunidades rurales, pueblos originarios involucrados, los prestadores de servicios turísticos y los visitantes a las áreas en donde se realicen actividades de turismo alternativo, de manera que se evite la afectación al patrimonio turístico, natural y cultural.
+En todos los casos, dichas Secretarías elaboraran programas de concientización dirigida a las comunidades rurales, pueblos originarios involucrados, los prestadores de servicios turísticos y los visitantes a las áreas en donde se realicen actividades de turismo alternativo, de manera que se evite la afectación al patrimonio turístico, natural y cultural.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTICULO 37 OCTAVUS], G.O. 17 DE MAYO DE 2004)</small>
 
@@ -987,3 +995,9 @@ G.O. 27 DE MAYO DE 2003.
 G.O. 17 DE MAYO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE ABRIL DE 2007.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
