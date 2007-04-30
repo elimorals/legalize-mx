@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2007-02-12"
+last_updated: "2007-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2007.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -2211,11 +2211,13 @@ III. El presente Reglamento Interior de Trabajo.
 
 En lo no previsto por los ordenamientos mencionados, se aplicarán supletoriamente y en su orden, La Ley Federal del Trabajo, el Código Federal de Procedimientos Civiles, las leyes de orden común, las costumbres, el uso, los principios generales de derecho y la equidad.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 149.
 
 Los Trabajadores se clasificarán conforme al Catálogo de Puestos que fije la Ley Orgánica Municipal, así como en base en lo señalado por el catálogo general de puestos del Municipio y en los términos de la Ley.
 
-En la formulación, aplicación y actualización del Catálogo de Puestos, participarán conjuntamente el Presidente y el Director de Finanzas y Administración, así como los directores de área. Los puestos no contenidos en la ley Orgánica Municipal, serán propuestos y justificados por cada director de área de conformidad a las propias necesidades de las Direcciones y serán aprobados por el Cabildo, siempre y cuando sean éstos justificados.
+En la formulación, aplicación y actualización del Catálogo de Puestos, participarán conjuntamente el Presidente y el Director General de Finanzas y Administración, así como los directores de área. Los puestos no contenidos en la Ley Orgánica Municipal, serán propuestos y justificados por cada director de área de conformidad a las propias necesidades de las Direcciones y serán aprobados por el Cabildo, siempre y cuando sean éstos justificados.
 
 ###### ARTICULO 150.
 
@@ -2257,13 +2259,15 @@ Los requisitos anteriores deberán comprobarse con los documentos correspondient
 
 ### CAPITULO III. Del Nombramiento
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 153.
 
 El nombramiento es instrumento jurídico que formaliza la relación de trabajo entre el Municipio y los trabajadores.
 
 En ningún caso el cambio de administración de un trienio a otro, podrá afectar los derechos de los trabajadores.
 
-El nombramiento se expedirá por el Presidente y el Secretario del H. Ayuntamiento y su tramitación estará a cargo la Subdirección de administración y Recursos Humanos, debiendo extender copia al interesado y al Sindicato en el caso correspondiente.
+El nombramiento se expedirá por el Presidente y el Secretario del H. Ayuntamiento y su tramitación estará a cargo la Dirección Jurídica, debiendo extender copia a Recursos Humanos, al interesado y al Sindicato en el caso correspondiente.
 
 ###### ARTICULO 154.
 
@@ -2313,6 +2317,8 @@ A fin de mejorar la calidad e intensidad del trabajo, el Municipio, de acuerdo a
 
 ### CAPITULO V. Del Salario
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 162.
 
 El sueldo o salario que se asigna en los tabuladores de la nómina para cada puesto, constituye el sueldo total que se pagará al trabajador a cambio de los servicios prestados, sin perjuicio de otras prestaciones establecidas.
@@ -2321,15 +2327,19 @@ Los días en que el trabajador incurra en faltas de inasistencias injustificadas
 
 En caso que el trabajador se ausente tres días hábiles en un mismo mes sin justificación válida, salvo con permiso escrito de su superior, será considerado como abandono de trabajo y en su caso, la suspensión será definitiva.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 163.
 
-En ningún caso el salario que pague el Municipio podrá se inferior al mínimo legal, procediendo en caso de modificación de éstos, a realizar los ajustes correspondientes a los tabuladores.
+En ningún caso el salario que pague el Municipio podrá se (sic) inferior al mínimo legal, procediendo en caso de modificación de éstos, a realizar los ajustes correspondientes a los tabuladores.
 
-Por cada cinco años de servicio afectivo prestados, los trabajadores tanto sindical izados como basificados, excepto los de confianza, tendrán derecho a una prima pagadera en efectivo, como complemento a su salario, denominada Quinquenio, de conformidad a lo establecido por el Estatuto.
+Por cada cinco años de servicio afectivo prestados, los trabajadores tanto sindicalizados como basificados, excepto los de confianza, tendrán derecho a una prima pagadera en efectivo, como complemento a su salario, POR EL EQUIVALENTE A 1 SALARIO MINIMO GENERAL DE LA ZONA ECONOMICA, denominada Quinquenio.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 164.
 
-El salario se pagará los días quince y último de cada mes, en la Dirección General de Finanzas y Administración. Y se hará en moneda de curso legal o cheque, pudiendo a su vez hacerse depósito del mismo en la cuenta bancaria que al afecto designe la Presidencia, de conformidad a convenios previamente establecidos con alguna institución bancaria.
+El salario se pagará los días quince y último de cada mes mediante tarjeta bancaria emitida por la Institución Financiera que elija la Presidencia Municipal, con excepción de los pagos a Eventuales en cuyo caso, el pago se hará en efectivo en el departamento de recursos humanos.
 
 En caso que el día de pago no sea laborable, el salario se cubrirá el día hábil anterior al mismo.
 
@@ -2340,6 +2350,8 @@ En los días de descanso obligatorio y en los períodos de vacaciones, los traba
 ###### ARTICULO 166.
 
 Los trabajadores que tengan derecho a disfrutar de un periodo vacacional, percibirán una prima adicional de un 25% sobre el sueldo o salario que le corresponda durante dicho periodo, de conformidad a la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 167.
 
@@ -2353,9 +2365,9 @@ III. Por descuentos ordenados por el lSSSSPEA con motivos de las obligaciones co
 
 IV. Por descuentos ordenados por autoridad judicial competente para cubrir pensiones alimenticias que fueren exigidos al trabajador;
 
-V. Para pagos de abonos para cubrir préstamos provenientes del Fondo de la Vivienda, destinados a la adquisición de vivienda; y
+V. Descuentos de Créditos FONACOT, Seguros de Vida entre otros.
 
-VI. Por los pagos de impuestos derivados de la relación laboral con el Municipio.
+VI. Por las retenciones que las Leyes Federales establecen en materia de impuesto Sobre Salarios y en general por la prestación de un servicio personal subordinado, derivados de la relación laboral con el Municipio.
 
 ###### ARTICULO 168.
 
@@ -2367,23 +2379,29 @@ El Municipio queda liberado de cualquier responsabilidad de pago al apoderado, s
 
 ### CAPITULO VI. Del Horario y Control de Asistencia
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 169.
 
 Los trabajadores del Municipio atenderán los siguientes horarios:
 
-I. PERSONAL ADMINISTRATIVO, DE OFICINAS, TECNICOS OPERATIVOS, DE OBRAS Y SERVICIOS PUBLICOS, el horario de trabajo será de 8:00 a 15:00 horas. De tal manera que la jornada de trabajo consta de 7 horas, contando con 30 minutos para tomar alimentos;
+I. PERSONAL ADMINISTRATIVO, DE OFICINAS, TECNICOS OPERATIVOS, DE OBRAS Y SERVICIOS PUBLlCOS, el horario de trabajo será de 8:00 a 15:00 horas. De tal manera que la jornada de trabajo consta de 7 horas, contando con 30 minutos para tomar alimentos;
 
 II. INTENDENCIA: El horario será de 7:00 a 14:00 horas, contando con 30 minutos para tomar alimentos;
 
-III. RECOLECCION DE BASURA: TURNO MATUTINO: La entrada será a las 6:30 horas. Y no hay horario de salida, ya que éste se considerará terminado al finalizar la ruta de recolección asignada por la Dirección respectiva TURNO VESPERTINO: La entrada será a las 13:00 horas, y se estará a lo mismo que en el horario matutino;
+III. FOMENTO DEPORTIVO Y ACCION CIVICA Y CULTURAL: El horario será de lunes a viernes (sic) 17:00 a 21:00 Horas de Lunes A Viernes; sábados y domingos de 8:00 a 14:00, excepto cuado (sic) haya eventos que ameriten su permanencia fuera de este horario.
 
-IV. TEMPORALES DE OBRA PUBLICA: El horario será de 8:00 a 17:00 horas, de lunes a viernes, contando con una hora de comer y el sábado de 8:00 a 13:00 horas; y
+IV. RECOLECCION DE BASURA: TURNO MATUTINO: La entrada será a las 6:30 horas. Y no hay horario de salida, ya que éste se considerará terminado al finalizar la ruta de recolección asignada por la Dirección respectiva. TURNO VESPERTINO: La entrada será a las 13:00 horas, y se estará a lo mismo que en el horario matutino;
 
-V. LOS VELADORES: El turno designado y previamente convenido por la Dirección correspondiente, de conformidad a las necesidades propias de la misma.
+V. TEMPORALES DE OBRA PUBLICA: El horario será de El horario será de (sic) 7:00 a.m. a 5:00 p.m. de lunes a viernes; y
+
+VI. LOS VELADORES: El turno designado y previamente convenido por la Dirección correspondiente, de conformidad a las necesidades propias de la misma.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 170.
 
-El control o registro de asistencia de los trabajadores se llevará a cabo por medio de tarjetas de control individual y en ellas registrarán personalmente todas sus entradas y salidas en el reloj checador que les corresponda. Asimismo, aquel trabajador que sea sorprendido pasando, checando o registrando la salida o entrada en la tarjeta de otro trabajador, será suspendido la primera vez por tres días sin goce de sueldo, la segunda se le rescindirá la relación laboral sin perjuicio para el Patrón. Y al trabajador que se le checó la tarjeta, le será descontado el día.
+El control o registro de asistencia de los trabajadores se llevará a cabo por medio de tarjetas de control individual O DEL CONTROL DIGITAL ESTABLECIDO PARA TALES FINES EN EL AREA DE RECURSOS HUMANOS y en ellas registrarán personalmente todas sus entradas y salidas en el reloj checador que les corresponda, O CONTROL DIGITAL. Asimismo, aquel trabajador que sea sorprendido pasando, checando o registrando la salida o entrada en la tarjeta de otro trabajador, será suspendido la primera vez por tres días sin goce de sueldo, la segunda se le rescindirá la relación laboral sin perjuicio para el Patrón. Y al trabajador que se le checó la tarjeta, le será descontado el día.
 
 ###### ARTICULO 171.
 
@@ -2413,9 +2431,11 @@ I. Cuando el trabajador abandone sus labores antes de la hora de salida reglamen
 
 II. Cuando injustificadamente no registre su salida o ésta se hace antes de la hora correspondiente sin autorización del Director de área o jefe inmediato.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 175.
 
-El trabajador que por enfermedad o por algún motivo no pueda asistir a sus labores, está obligado a informar este hecho al Departamento de Recursos Humanos durante el transcurso del horario laboral del primer día de su inasistencia, salvo que exista alguna causa que lo justifique y con posterioridad podrá presentar la incapacidad correspondiente, emitida por el órgano de salud pública que lo emita.
+El trabajador que por enfermedad o por algún motivo no pueda asistir a sus labores, está obligado a informar este hecho al Departamento de Recursos Humanos durante el transcurso del horario laboral del primer día de su inasistencia, salvo que exista alguna causa que lo justifique y con posterioridad podrá presentar la incapacidad correspondiente, emitida por el órgano de salud pública que lo emita O EN SU CASO POR EL MEDICO PARTICULAR O INSTITUCION PRIVADA QUE LO HUBIERA EMITIDO.
 
 ### CAPITULO VII. Descanso, Vacaciones y Licencias
 
@@ -2423,29 +2443,31 @@ El trabajador que por enfermedad o por algún motivo no pueda asistir a sus labo
 
 Por cada cinco días de labores, el trabajador disfrutará de dos días de descanso continuo, de preferencia sábado y domingo, excepto en los trabajadores de servicio de Limpia, que por su condición, disfrutarán un solo día de descanso por cada seis días de trabajo. Asimismo, si las necesidades de la Presidencia requieren de laborar dichos días de descanso, se computarán por otros días de la semana, previo acuerdo y comunicación al Departamento de Recursos Humanos, con goce de salario íntegro.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 177.
 
 Son días de descanso obligatorio los siguientes:
 
-a) El 1° de enero;
+a) El 1º de enero;
 
-b) El 5 de Febrero;
+b) El PRIMER LUNES DE FEBRERO EN CONMEMORACION DEL 5 de Febrero;
 
-c) El 21 de marzo;
+c) El TERCER LUNES DE MARZO EN CONMEMORACION DEL 21 de marzo;
 
-d) El 1° de mayo;
+d) El 1º de mayo;
 
 e) El 23 de junio;
 
 f) El 16 de septiembre;
 
-g) El 20 de noviembre;
+g) El TERCER LUNES DE NOVIEMBRE EN CONMEMORACION DEL 20 de noviembre;
 
-h) El 1° de diciembre de cada seis años cuando corresponda el cambio del poder del Ejecutivo Federal;
+h) El 1º de diciembre de cada seis años cuando corresponda el cambio del poder del Ejecutivo Federal;
 
 i) El 25 de diciembre; y
 
-j) Los demás que se acuerden dentro del Municipio.
+j) Opcionales los demás que se acuerden dentro del Municipio.
 
 ###### ARTICULO 178.
 
@@ -2509,17 +2531,23 @@ III. Para el desempeño de comisiones sindicales, que se acuerden entre el Munic
 
 IV. Por contraer matrimonio. En este caso la licencia se otorgará por un periodo máximo de 5 días hábiles. Será comprobable una copia del acta de matrimonio y ésta se podrá mostrar después de dicho período, siempre y cuando el matrimonio se haya llevado a cabo con fecha razonable anterior a la solicitud de licencia.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 186.
 
-Cualquier trabajador tendrá derecho a tres días económicos con goce de sueldo por cada seis meses de trabajo de manera consecutiva. Estos días económicos no podrán otorgarse de manera continua a las vacaciones del trabajador o en aquellos días que se encuentren unidos a cualquier día festivo e inhábil que marque el presente Reglamento. Asimismo, estos días no serán acumulativos ni transferibles. Deberán solicitarse con tres días de anticipación al Director del área correspondiente. El Director de cada área tendrá la facultad de analizar la situación propia e individual del trabajador para efecto de otorgar el permiso con un menor número de días de anticipación.
+Cualquier trabajador, con excepción de directores, subdirectores o jefes de departamento, tendrán derecho a tres días económicos con goce de sueldo por cada seis meses de trabajo de manera consecutiva. Estos días económicos no podrán otorgarse de manera continua a las vacaciones del trabajador o en aquellos días que se encuentren unidos a cualquier día festivo e inhábil que marque el presente Reglamento. Asimismo, estos días no serán acumulativos ni transferibles. Deberán solicitarse con tres días de anticipación al Director del área correspondiente. El Director de cada área tendrá la facultad de analizar la situación propia e individual del trabajador para efecto de otorgar el permiso con un menor número de días de anticipación.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 187.
 
 La Dirección de Administración recibirá el aviso de día económico por lo menos tres días antes de que se disfrute.
 
-La Dirección de Administración rechazará un aviso de permiso económico que no cumpla con los requisitos mencionados y lo remitirá a la Dirección que lo solicita para los efectos correspondientes.
+La Dirección de Administración rechazará un aviso de permiso económico que no cumpla con los requisitos mencionados y lo remitirá a la Dirección que lo solicita para los efectos correspondientes, con excepción de los casos en que el motivo del rechazo sea por haberse presentado el aviso dentro de los tres días y que cuente con el aval y autorización del Director.
 
 ### CAPITULO VIII. Derechos, Obligaciones y Prohibiciones de los Trabajadores
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 188.
 
@@ -2529,7 +2557,7 @@ I. A recibir del Municipio de manera oportuna, los elementos necesarios para la 
 
 II. Percibir el salario que les corresponda de conformidad con el catálogo de puestos por la prestación de los servicios, sin más descuentos que los legales o aquellos convenidos por las partes;
 
-III. Recibir un aguinaldo anual de cuarenta días de conformidad a lo establecido por el Estatuto Jurídico;
+III. Recibir un aguinaldo anual de TREINTA Y CINCO días de conformidad a lo establecido por el Estatuto Jurídico; PUDIENDO SER HASTA DE 40 DÍAS PREVIA AUTORIZACION DEL H. CABILDO.
 
 IV. Disfrutar de licencias con o sin goce de sueldo, de descansos y vacaciones de conformidad a lo establecido en este Reglamento;
 
@@ -2537,7 +2565,7 @@ V. Gozar de los servicios sociales que realice el Municipio;
 
 VI. Poder participar en las actividades deportivas, recreativas y culturales que sean compatibles con sus aptitudes, edad y condición de salud cuando estas actividades sean organizadas por el Municipio;
 
-VII. Ocupar el puesto que desempeñaban en los casos de que se reintegren al servicio después de ausencias motivadas por las licencias otorgadas por el IMSS, por enfermedad o maternidad, por el desempeño de comisiones sindicales, licencias sin goce de sueldo o bien en los casos de suspensión de la relación laboral en los términos de la Ley Federal del Trabajo y del presente Reglamento Interior de Trabajo;
+VII. Ocupar el puesto que desempeñaban en los casos de que se reintegren al servicio después de ausencias motivadas por las licencias otorgadas por el IMSS, por enfermedad o maternidad, por el desempeño de comisiones sindicales, licencias sin goce de sueldo o bien en los casos de suspensión de la relación laboral en los términos de la Ley Federal del Trabajo y del Presente Reglamento Interior de Trabajo;
 
 VIII. No ser separados de su empleo si no por alguna de las causas previstas en el presente Reglamento;
 
@@ -2553,7 +2581,7 @@ b) Que se les justifique su inasistencia hasta por cinco días naturales en un m
 
 c) Que se les justifique ausentarse del centro de trabajo cuando se les notifique que el menor debe ser retirado de la estancia de bienestar infantil o escuela respectiva, sujeto a la comprobación respectiva.
 
-XII. En caso de defunción de padres, cónyuge e hijos a que se les conceda tres días económicos con goce de sueldo.
+XII. En caso de defunción de padres, abuelos, hermanos, cónyuge e hijos a que se les conceda tres días económicos con goce de sueldo.
 
 ###### ARTICULO 189.
 
@@ -2887,17 +2915,23 @@ Los trabajadores que tengan encomendado el manejo de fondos, valores o bienes, p
 
 ### CAPITULO XVII. De las Disposiciones Disciplinarias
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 220.
 
-El incumplimiento de los trabajadores a las disposiciones contenidas en la Ley y en el presente Reglamento, que no ameritan demandar la baja, dará lugar a la imposición de las siguientes sanciones administrativas:
+El incumplimiento de los trabajadores a las disposiciones contenidas en la Ley y en el presente Reglamento, que no ameritan de mandar la baja, dará lugar a la imposición de las siguientes sanciones administrativas:
 
 Amonestación por escrito, por apercibimiento de sanción mayor;
+
+Tratándose de aquellos trabajadores que NO acudan a firmar la nomina en tiempo y tengan en un periodo de un mes dos omisiones, serán suspendidos por un día sin goce de sueldo.
 
 Suspensión de sueldo y funciones hasta por cinco días;
 
 Remoción a Dirección Administrativa u operativa distinta; y
 
 Cese inmediato de las funciones a desempeñar sin posibilidad de reinstalación en área alguna del Municipio.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 221.
 
@@ -2909,15 +2943,17 @@ La acumulación de dos suspensiones en sueldo y funciones dará lugar a la reubi
 
 ### CAPITULO XVIII. Terminación de los Efectos del Nombramiento
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+
 ###### ARTICULO 223.
 
-Para pedir el cese de un trabajador ante el Presidente Municipal, con fundamento en lo dispuesto en este Reglamento se considera que los trabajadores han incurrido en faltas comprobadas de cumplimiento de este Reglamento, entre otros casos, cuando durante un año administrativo:
+Para pedir el cese de un trabajador ante el Presidente Municipal, con fundamento en lo dispuesto en este Reglamento se considera que los trabajadores han incurrido en faltas comprobadas de cumplimiento de este Reglamento, entre otros casos, cuando durante un año Administrativo:
 
 I. Acumulen más de tres suspensiones;
 
 II. Sin necesidad de acumulación, en los casos que a continuación se señalen, debidamente comprobados:
 
-a) Tengan tres faltas continuas en un periodo de treinta días sin causa justificada;
+a) Tengan tres faltas continuas en un periodo de treinta días sin causa justificada, inclusive los casos que se consideran abandono de trabajo en los términos del artículo 162 del presente reglamento;
 
 b) Actúe como procurador, gestor o agente particular tome a su cuidado el trámite de asuntos relacionados con el Municipio aún fuera del horario de trabajo;
 
@@ -20204,3 +20240,9 @@ San Francisco de los Romo, Ags., 29 de noviembre de 2006.
 EL SECRETARIO DEL H. AYUNTAMIENTO Y DIRECTOR GENERAL DE GOBIERNO,
 
 Ing. José Juan Aguiñaga Medina.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ABRIL DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
