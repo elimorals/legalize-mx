@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2006-10-26"
+last_updated: "2007-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -381,11 +381,11 @@ Los Consejos Municipales estarán integrados con el mismo número de miembros y 
 
 ### CAPITULO V. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 42.
 
-Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán ordinariamente cuando menos una vez al mes y cuantas veces sea necesario para tratar asuntos de urgente solución o a petición de la tercera parte de sus miembros. Asimismo, pueden declararse en sesión permanente cuando la importancia del asunto lo requiera.
+Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán ordinariamente cuando menos una vez a la semana y cuantas veces sea necesario para tratar asuntos de urgente resolución o a petición de la tercera parte de sus miembros. Así mismo, pueden declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
 ###### ARTICULO 43.
 
@@ -3283,7 +3283,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III 38, 39 y 40 de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3293,7 +3293,7 @@ Los municipios actuales seguirán subsistiendo aunque no reúnan los requisitos 
 
 ###### ARTICULO SEXTO.
 
-El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de los Municipios para el ejercicio fiscal de 1984; se regirán por lo dispuesto en el Título Segundo del presente Código.
+El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de los Municipios para el ejercicio fiscal de 1984, se regirán por lo dispuesto en el Título Segundo del presente Código.
 
 ###### ARTICULO SEPTIMO.
 
@@ -3323,7 +3323,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
-N DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1987.
 
@@ -3612,6 +3612,12 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE OCTUBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MAYO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
