@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2003-10-15"
+last_updated: "2007-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -299,7 +299,9 @@ Competencia exclusiva de los juzgadores de primera instancia
 
 Cualquiera que sea el valor del negocio, los jueces de primera instancia, con exclusión de los jueces de paz, conocerán de los siguientes asuntos:
 
-I.- Del estado civil y la capacidad de las personas;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
+
+I.- Del estado civil y la capacidad de las personas, a excepción de los juicios del registro extemporáneo de actas del estado civil;
 
 II.- De informaciones ad perpétuam o de dominio;
 
@@ -889,13 +891,13 @@ XIII.- La división, el orden y la exclusión; y
 
 XIV.- Las demás a que den ese carácter las leyes o que las califiquen como dilatorias.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 68.
 
-Trámite de las excepciones previas
+Trámite de las excepciones previas.
 
-Las excepciones previas deberán oponerse precisamente en el escrito de contestación a la demanda; se tramitarán con un traslado a la parte actora para que dé respuesta dentro de un plazo igual al de la contestación a la demanda y se resolverán en la audiencia previa y de conciliación, salvo la incompetencia del juzgador.
+Las excepciones previas deberán oponerse precisamente en el escrito de contestación de la demanda, se tramitarán con un traslado a la parte actora para que dé respuesta dentro de un plazo de seis días y se resolverán en la audiencia previa y de conciliación, salvo la incompetencia del juzgador.
 
 ## TITULO QUINTO. PARTES
 
@@ -2957,13 +2959,13 @@ Excepción de falta de legitimación procesal o cualquier otro defecto subsanabl
 
 Cuando las excepciones se funden en la falta de legitimación procesal o en cualquier otro defecto procesal que pueda subsanarse para encauzar legalmente el desarrollo del proceso, podrá el interesado solucionarlo en cualquier estado del juicio hasta antes de que dicte resolución en la audiencia previa y de conciliación, y ésta tomará en cuenta tales circunstancias.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 226.
 
-Resolución de excepciones previas
+Resolución de excepciones previas.
 
-Las excepciones previas se deberán tramitar conforme a lo prevenido en el artículo 68 y deberán ser resueltas en la audiencia previa y de conciliación.
+Las excepciones previas se deberán tramitar conforme a lo prevenido en el artículo 68 y 231, fracción IV, las que deberán ser resueltas en la audiencia previa y de conciliación.
 
 ### CAPITULO IV. FIJACION DEL DEBATE
 
@@ -3077,13 +3079,13 @@ Si por causa que sea imputable a alguna de las partes se retrasa la resolución 
 
 ### CAPITULO V. AUDIENCIA PREVIA Y DE CONCILIACION
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 234.
 
-Audiencia previa y de conciliación
+Audiencia previa y de conciliación.
 
-Una vez contestada la demanda y, en su caso, la reconvención, el juzgador señalará fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los treinta días siguientes, dando vista a la parte que corresponda con las excepciones previas que se hubieren opuesto en su contra, por un plazo igual al de la contestación a la demanda.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2007)</small>
+
+Una vez contestada la demanda y, en su caso, la reconvención, el juzgador señalará fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los treinta días siguientes, dando vista a la parte que corresponda con las excepciones previas que se hubieren opuesto en su contra, por un plazo de seis días.
 
 En el día y hora fijados para la celebración de la audiencia, el juzgador hará constar la presencia de las partes. Si una de las partes o ambas no concurren sin causa justificada, se les sancionará con multa hasta por el monto señalado en el artículo 107, fracción II. En todo caso, el juzgador procederá a examinar las excepciones previas y a pronunciar su resolución sobre estas cuestiones, con base en las pruebas aportadas.
 
@@ -4483,7 +4485,9 @@ II.- Los autos, cuando expresamente lo disponga este Código, y
 
 III.- Las resoluciones que dicten los jueces para resolver las reclamaciones que se hagan valer contra las medidas cautelares, conforme al artículo 185.
 
-No serán apelables las sentencias y demás resoluciones que se dicten en los juicios de la competencia de los juzgados de paz.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
+
+No serán apelables las sentencias' y demás resoluciones que se dicten en los juicios de la competencia de los juzgados de paz, con excepción de las que se dicten en los juicios del registro extemporáneo de actas del estado civil, en los términos previstos en el segundo párrafo, del artículo 528 de este Código.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6083,6 +6087,10 @@ En el Estado de Tabasco habrá los juzgados de paz que determine la Ley Orgánic
 
 La competencia de los jueces de paz en materia civil será la que no exceda de 182 veces el salario mínimo diario general vigente en el Estado, a excepción de todo lo relativo a la materia de arrendamiento de inmuebles que será competencia de los jueces de primera instancia.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+Los jueces de paz serán competentes para conocer de los juicios del registro extemporáneo de actas del estado civil.
+
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 458.
@@ -6281,13 +6289,13 @@ Costas
 
 En los asuntos ante los jueces de paz no se causarán costas, cualquiera que sea la naturaleza del juicio.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 475.
 
-Irrecurribilidad de las resoluciones
+Irrecurribilidad de las resoluciones.
 
-Contra las resoluciones pronunciadas por los jueces de paz no procederá ningún recurso.
+A excepción de las sentencias que se dicten en los juicios de registro extemporáneo de actas del estado civil, contra las resoluciones pronunciadas por los jueces de paz no procederá recurso alguno.
 
 ### CAPITULO IV. EJECUCION DE LAS SENTENCIAS
 
@@ -6351,11 +6359,49 @@ Nulidad de actuaciones
 
 Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, o por defectos u omisiones procesales, serán resueltas de plano por el juzgador, sin formar artículo ni suspender el procedimiento.
 
-### CAPITULO VI. REGLAS GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2007)</small>
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+### CAPITULO VI. DEL REGISTRO EXTEMPORANEO DE LAS ACTAS DEL ESTADO CIVIL
 
-### CAPITULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+###### ARTICULO 481 Bis.
+
+Legitimación.
+
+Podrán pedir el registro extemporáneo de un acta del estado civil, las personas mayores de trece y menores de sesenta años, de conformidad con lo que establece el artículo 87 del Código Civil para el Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+###### ARTICULO 481 Bis 1.
+
+Tramitación del juicio.
+
+En el escrito de demanda de registro extemporáneo de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil, por el término de cinco días hábiles para que se produzca su contestación.
+
+Una vez contestada la demanda o dada por contestada en sentido afirmativo al no haber contestación, se citará a las partes para el desahogo de pruebas y alegatos, debiéndose fijar la audiencia en un plazo que no exceda de diez días hábiles a partir de que venza el término para contestar la demanda.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+###### ARTICULO 481 Bis 2.
+
+Sentencia y medios de de (sic) impugnación.
+
+La sentencia definitiva se pronunciará de manera breve y concisa, en el mismo momento de la audiencia, de ser así posible, o dentro de los ocho días hábiles siguientes.
+
+La sentencia será apelable en efecto suspensivo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+###### ARTICULO 481 Bis 3.
+
+Comunicación oficial del Registro Civil.
+
+Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se enviará copia autorizada al Oficial del Registro Civil para que levante el acta respectiva.
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO VI], P.O. 2 DE MAYO DE 2007)</small>
+
+### CAPITULO VII. REGLAS GENERALES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6399,7 +6445,7 @@ Los jueces de paz no serán recusables, pero deberán excusarse cuando estén im
 
 ## TITULO SEGUNDO. JUICIOS DEL ORDEN FAMILIAR Y DEL ESTADO CIVIL DE LAS PERSONAS
 
-### CAPITULO II. CUESTIONES MATRIMONIALES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6447,7 +6493,7 @@ Aplicación del Código
 
 En todo lo no previsto en este Título, y en cuanto no se opongan a lo ordenado por el mismo, se aplicarán las disposiciones pertinentes de los Libros Primero y Segundo de este Código.
 
-### CAPITULO III. NULIDAD DE MATRIMONIO
+### CAPITULO II. CUESTIONES MATRIMONIALES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6501,7 +6547,7 @@ Autorización judicial para que la mujer contrate con su marido
 
 Cuando se pida autorización judicial para que la mujer contrate con su marido, el juzgador recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la mujer y oyendo al Ministerio Público, resolverá lo que proceda.
 
-### CAPITULO IV. JUICIO DE DIVORCIO
+### CAPITULO III. NULIDAD DE MATRIMONIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6567,7 +6613,7 @@ Inscripción de la sentencia
 
 Ejecutoriada la sentencia, el juzgador enviará copia certificada al oficial del Registro Civil ante quien se celebró el matrimonio para su anotación.
 
-### CAPITULO V. JUICIOS SOBRE PATERNIDAD, FILIACION Y PATRIA POTESTAD
+### CAPITULO IV. JUICIO DE DIVORCIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6673,7 +6719,7 @@ Impugnación
 
 La sentencia definitiva es apelable en el efecto suspensivo, por lo que no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
 
-### CAPITULO VI. JUICIO DE INTERDICCION
+### CAPITULO V. JUICIOS SOBRE PATERNIDAD, FILIACION Y PATRIA POTESTAD
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6751,7 +6797,7 @@ La pérdida de la patria potestad sólo podrá decretarse mediante sentencia dec
 
 En cualquier estado del juicio, el juzgador podrá ordenar de oficio o a petición de parte que la custodia del hijo quede al cuidado de uno de los padres o de tercera persona y podrá además acordar las medidas cautelares que juzgue adecuadas.
 
-### CAPITULO VII. DE LA RECTIFICACION Y DEL REGISTRO EXTEMPORANEO DE ACTAS DEL ESTADO CIVIL
+### CAPITULO VI. JUICIO DE INTERDICCION
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6867,7 +6913,7 @@ Sanciones en caso del ejercicio doloso de la acción
 
 El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de quinientas veces el salario mínimo. El demandante deberá, además, pagar los gastos y costas del juicio.
 
-### CAPITULO VIII. JUICIO DE ALIMENTOS
+### CAPITULO VII. DE LA RECTIFICACION Y DEL REGISTRO EXTEMPORANEO DE ACTAS DEL ESTADO CIVIL
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6875,7 +6921,9 @@ El que promueva dolosamente el juicio de interdicción, incurrirá en las penas 
 
 Legitimación
 
-Podrán pedir la rectificación de un acta y el registro extemporáneo de un acta del estado civil:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MAYO DE 2007)</small>
+
+Podrán pedir la rectificación de un acta del estado civil:
 
 I.- Las personas de cuyo estado se trate;
 
@@ -6903,17 +6951,19 @@ Sentencia y medios de impugnación
 
 Concluida la audiencia a que se refiere el artículo anterior de oficio se citará para oír sentencia definitiva, la que se pronunciará dentro del término de quince días.
 
-La sentencia en el caso de registro extemporáneo de acta será apelable en el efecto suspensivo. Y la relativa a rectificación de actas, será revisable de oficio.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+La sentencia será revisable de oficio.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 529.
 
-Comunicación al oficial del Registro Civil
+Comunicación al Oficial del Registro Civil
 
-Una vez que la sentencia haya adquirido autoridad de cosa juzgada se comunicará al oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación. De la que conceda el registro extemporáneo de un acta, se enviará copia autorizada al oficial del Registro Civil para que levante el acta respectiva.
+Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-### CAPITULO I. INTERDICTOS
+### CAPITULO VIII. JUICIO DE ALIMENTOS
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6967,7 +7017,7 @@ En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente C
 
 ## TITULO TERCERO. JUICIOS SOBRE POSESION Y PROPIEDAD
 
-### CAPITULO II. JUICIO PLENARIO DE POSESION
+### CAPITULO I. INTERDICTOS
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7087,7 +7137,7 @@ Compete la misma acción a quienes tengan derecho privado o público de paso por
 
 El juzgador que conozca del negocio podrá, mediante caución que otorgue el actor para responder de los daños y perjuicios que se causen al demandado, ordenar desde luego y sin esperar la sentencia, que el demandado suspenda la obra o realice las obras indispensables para evitar daños al actor.
 
-### CAPITULO III. JUICIO REIVINDICATORIO
+### CAPITULO II. JUICIO PLENARIO DE POSESION
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7175,7 +7225,7 @@ Sentencia
 
 El actor o el demandado que resulten vencidos en un juicio plenario sobre posesión, perderán la definitiva en beneficio de su contraparte y quedarán impedidos legalmente para hacer uso de interdictos sobre los bienes que fueron objeto del litigio.
 
-### CAPITULO I. JUICIO EJECUTIVO
+### CAPITULO III. JUICIO REIVINDICATORIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7273,9 +7323,9 @@ Los juicios sobre reivindicación se ventilarán en la vía ordinaria, a la que 
 
 ## TITULO CUARTO. JUICIOS EJECUTIVOS
 
-### CAPITULO II. JUICIO HIPOTECARIO
+### CAPITULO I. JUICIO EJECUTIVO
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 563.
 
@@ -7371,9 +7421,9 @@ Consignación del importe del adeudo
 
 Cuando el demandado consignare la cantidad reclamada para evitar los gastos y molestias del embargo reservándose el derecho de oponerse, se suspenderá el embargo, y la cantidad se depositará conforme a la ley; si la cantidad consignada no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
 
-### CAPITULO III. JUICIO ESPECIAL DE DESAHUCIO
+### CAPITULO II. JUICIO HIPOTECARIO
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 571.
 
@@ -7537,7 +7587,7 @@ Las resoluciones que se dicten en esta vía especial hipotecaria podrán ser ape
 
 Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO III. JUICIO ESPECIAL DE DESAHUCIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7645,7 +7695,7 @@ La diligencia de lanzamiento se entenderá con el ejecutado si se encontrare pre
 
 ## TITULO QUINTO. JUICIOS CONCURSALES
 
-### CAPITULO II. RECONOCIMIENTO Y GRADUACION DE CREDITOS
+### CAPITULO I. REGLAS GENERALES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7779,7 +7829,9 @@ II.- Presentar dentro de los cinco días de la notificación del auto que declar
 
 III.- Se abstendrá de seguir administrando sus bienes, así como de continuar cualquier otra administración que por ley le corresponda.
 
-### CAPITULO III. ADMINISTRACION DEL CONCURSO
+### CAPITULO II. RECONOCIMIENTO Y GRADUACION DE CREDITOS
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 599.
 
@@ -7875,9 +7927,7 @@ Concurso especial de acreedores hipotecarios
 
 Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, podrán formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del plazo legal, o según el orden en que se hayan registrado los gravámenes, si la inscripción se hizo fuera del plazo de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. DEUDOR COMUN
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+### CAPITULO III. ADMINISTRACION DEL CONCURSO
 
 ###### ARTICULO 607.
 
@@ -7939,7 +7989,7 @@ Remoción del síndico
 
 El síndico será removido de plano si dejare de rendir la cuenta mensual o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. DEUDOR COMUN
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7975,7 +8025,9 @@ La demanda incidental de rehabilitación se presentará ante el mismo juzgador q
 
 ## TITULO SEXTO. JUICIOS SUCESORIOS
 
-### CAPITULO II. TESTAMENTARIAS
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 616.
 
@@ -8203,9 +8255,7 @@ Los procedimientos de las secciones segunda y cuarta son comunes para todos los 
 
 Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y a la vez desempeñe el cargo de albacea.
 
-### CAPITULO III. INTESTADOS
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+### CAPITULO II. TESTAMENTARIAS
 
 ###### ARTICULO 633.
 
@@ -8275,7 +8325,7 @@ Trámites posteriores del juicio testamentario
 
 Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites de juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las secciones de inventarios, administración y partición.
 
-### CAPITULO IV. INVENTARIO
+### CAPITULO III. INTESTADOS
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8397,7 +8447,7 @@ Renuncia a la junta y designación del albacea
 
 Cuando todos los interesados estén conformes o el heredero sea único, podrán renunciar a la junta y hacer por escrito la designación de albacea. El heredero único será siempre nombrado albacea.
 
-### CAPITULO V. AVALUO
+### CAPITULO IV. INVENTARIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8491,7 +8541,7 @@ El inventario perjudica a los que lo hicieron y a los que lo aprobaron.
 
 Aprobado el inventario por el juzgador o por el consentimiento de todos los interesados, no podrá reformarse sino por error o dolo declarados por sentencia definitiva pronunciada en juicio; pero siempre se entenderá aprobado con la reserva de que si aparecieren nuevos bienes o deudas, se agreguen como corresponda.
 
-### CAPITULO VI. ADMINISTRACION
+### CAPITULO V. AVALUO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8547,7 +8597,7 @@ Avalúo fiscal
 
 El avalúo se practicará de acuerdo con las reglas establecidas en este Capítulo y sujetándose a lo que al efecto dispongan las leyes fiscales. Si el practicado conforme a las leyes fiscales no fuere satisfactorio para los herederos, por no corresponder al valor comercial de los bienes, deberá practicarse de común acuerdo otro que sirva de base para la partición.
 
-### CAPITULO VII. LIQUIDACION Y PARTICION DE LA HERENCIA
+### CAPITULO VI. ADMINISTRACION
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8657,7 +8707,7 @@ VIII.- Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juzg
 
 IX.- El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO VIII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+### CAPITULO VII. LIQUIDACION Y PARTICION DE LA HERENCIA
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8803,7 +8853,7 @@ Apelación de la sentencia
 
 La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo.
 
-### CAPITULO IX. TRAMITACION ANTE NOTARIO
+### CAPITULO VIII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -8837,7 +8887,7 @@ VII.- El acta o actas en que consten las adjudicaciones servirán de título a l
 
 VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IX. TRAMITACION ANTE NOTARIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9171,7 +9221,7 @@ Es competente para todos los actos relativos al juicio arbitral en lo que se ref
 
 ## TITULO OCTAVO. PROCEDIMIENTOS JUDICIALES NO CONTENCIOSOS
 
-### CAPITULO II. DIVORCIO VOLUNTARIO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9279,7 +9329,7 @@ Costas
 
 Las costas que se ocasionen en los procedimientos judiciales no contenciosos son a cargo del promovente.
 
-### CAPITULO III. ADOPCION
+### CAPITULO II. DIVORCIO VOLUNTARIO
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9371,7 +9421,7 @@ Efectos de la sentencia ejecutoriada
 
 Ejecutoriada la sentencia de divorcio, el juzgador mandará remitir copia de ella al oficial del Registro Civil de su jurisdicción para que levante el acta correspondiente y al oficial del lugar en que el matrimonio se efectuó para que haga la anotación de que el vínculo matrimonial quedó disuelto en el acta respectiva.
 
-### CAPITULO IV. NOMBRAMIENTO DE TUTORES Y CURADORES
+### CAPITULO III. ADOPCION
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9411,7 +9461,7 @@ Impugnación de la resolución
 
 La impugnación de la adopción y la revocación, se tramitarán en juicio contradictorio.
 
-### CAPITULO V. AUTORIZACION PARA VENDER, GRAVAR BIENES Y TRANSIGIR DERECHOS DE MENORES, INCAPACITADOS Y AUSENTES
+### CAPITULO IV. NOMBRAMIENTO DE TUTORES Y CURADORES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9525,7 +9575,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no podrán ser removidos sin que se siga el juicio contradictorio de que habla este artículo, ni tampoco podrán aceptarse sus excusas sin que se substancie el incidente respectivo.
 
-### CAPITULO VI. DECLARACION DE AUSENCIA O DE PRESUNCION DE MUERTE
+### CAPITULO V. AUTORIZACION PARA VENDER, GRAVAR BIENES Y TRANSIGIR DERECHOS DE MENORES, INCAPACITADOS Y AUSENTES
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9595,7 +9645,7 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 En igual forma se procederá para llevar a cabo transacciones sobre bienes o derechos que pertenezcan a menores o incapacitados, y para dar en arrendamiento por más de cinco años sus bienes.
 
-### CAPITULO VII. INFORMACIONES AD PERPETUAM REI MEMORIAM
+### CAPITULO VI. DECLARACION DE AUSENCIA O DE PRESUNCION DE MUERTE
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9661,7 +9711,7 @@ Reglas aplicables a los bienes de los ausentes
 
 Las reglas del Capítulo anterior serán aplicables en lo conducente para el gravamen, enajenación, transacción y arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
 
-### CAPITULO VIII. APEO O DESLINDE
+### CAPITULO VII. INFORMACIONES AD PERPETUAM REI MEMORIAM
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -9682,6 +9732,10 @@ II.- Los testigos deben ser, por lo menos tres y de notorio arraigo en el lugar 
 III.- No se recibirá la información sin que previamente se haya dado una amplia publicidad a la solicitud del promovente por medio de la prensa y de avisos fijados en los lugares públicos;
 
 IV.- Las informaciones se protocolizarán por el Notario que designe el promovente y aquel extenderá testimonio al interesado para su inscripción en el Registro Público de la Propiedad.
+
+### CAPITULO VIII. APEO O DESLINDE
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 756.
 
@@ -9800,3 +9854,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos judiciales y recursos que se encuentren en trámite a la entrada en vigor de este Decreto, continuarán substanciándose conforme a las disposiciones anteriores. Salvo el caso en que las partes se sometan voluntariamente a las nuevas disposiciones.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
