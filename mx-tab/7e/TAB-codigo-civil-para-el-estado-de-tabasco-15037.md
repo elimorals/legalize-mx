@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2006-10-07"
+last_updated: "2007-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -675,11 +675,11 @@ Declaración de nacimiento
 
 Las declaraciones de nacimiento se harán dentro de los 365 días siguientes a éste, presentando a la persona ante el Oficial del Registro Civil en su oficina y, en los casos en que circunstancialmente sea necesario, el Oficial acudirá al lugar en que se encuentre la persona.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 87.
 
-Extemporáneo
-
-Si pasados los 365 días no se hubiere registrado el nacimiento, éste será extemporáneo y podrá hacerse en la forma siguiente: hasta los trece años de edad, el registro se hará con autorización del Director del Registro Civil. En cualquier otro caso deberá observarse lo previsto, al efecto, por el Código de Procedimientos Civiles de la Entidad.
+Extemporáneo, si pasados los 365 días no se hubiere registrado el nacimiento, éste será extemporáneo y podrá hacerse en la forma siguiente: Los menores de trece años y mayores de sesenta podrán realizar su registro previa autorización del Director del Registro Civil. En cualquier otro caso deberá observarse lo previsto, al efecto, por el Código de Procedimientos Civiles de la Entidad.
 
 ###### ARTICULO 88.
 
@@ -25324,3 +25324,13 @@ PRIMERO.- El Presente Decreto entrará en vigor 30 días después del día en qu
 SEGUNDO.- A partir de la vigencia del Decreto que se aprueba se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a sus disposiciones.
 
 TERCERO.- Las solicitudes de Declaración de Patrimonio de Familia que se hayan promovido antes de la vigencia del presente Decreto se resolverán conforme a las disposiciones aplicables en ese momento.
+
+P.O. 2 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
