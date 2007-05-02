@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2006-09-12"
+last_updated: "2007-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -597,7 +597,9 @@ II.- De los Juicios contenciosos relativos al matrimonio, a la ilicitud o nulida
 
 III.- De los Juicios Sucesorios;
 
-IV.- De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
+
+IV.- De los asuntos concernientes a otras acciones relativas al estado civil, a la capacidad de las personas y a las derivadas del parentesco; con excepción de las relacionadas al registro extemporáneo de las actas del estado civil;
 
 V.- De las diligencia de consignación de todo lo relativo al derecho familiar;
 
@@ -709,15 +711,31 @@ Para el despacho de los asuntos de su competencia, cada juzgado contará con el 
 
 Los jueces de paz conocerán de la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada. Además, de los siguientes asuntos:
 
-I.- De los Juicios Civiles cuyo monto no exceda del importe de ciento ochenta y dos veces el salario mínimo diario general vigente en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2007)</small>
 
-Se exceptúan los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, los posesorios y los que versen sobre estado y condición de las personas y derecho de familia;
+I.- De los Juicios Civiles cuyo monto no exceda del importe de ciento ochenta y dos veces el salario mínimo diario general vigente en el Estado de Tabasco;
 
 II.- De las diligencias preliminares de consignación cuando el valor de la cosa o la cantidad no exceda del monto fijado en la fracción anterior;
 
 III.- De los delitos cuya pena no exceda de dos años de prisión independientemente de la sanción pecuniaria y los sancionados con pena no corporal; así como de los delitos de amenazas, difamación, calumnias y robo de aves de corral;
 
-IV.- Los demás asuntos que le correspondan de acuerdo a la Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2007)</small>
+
+IV.- De los juicios de registro extemporáneo de actas del estado civil; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MAYO DE 2007)</small>
+
+V.- Los demás asuntos que les correspondan de acuerdo a la Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+
+###### ARTICULO 43 Bis 4.
+
+Los jueces de paz no son competentes para conocer:
+
+I. De los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmueble y de los posesorios; y
+
+II. De los que versen sobre el estado y condición de las personas y derecho de familia, con excepción de lo establecido en la fracción IV del artículo anterior.
 
 ### CAPITULO UNICO. DEL CONSEJO DE LA JUDICATURA
 
@@ -1437,7 +1455,7 @@ Para ser Director de Contraloría, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento;
 
-II.- Tener preferentemente, Título Profesional de Licenciado en Contaduría Pública, Licenciado en Administración u otro equivalente a juicio del Consejo de la Judicatura;
+II.- Tener preferentemente, Titulo Profesional de Licenciado en Contaduría Pública, Licenciado en Administración u otro equivalente a juicio del Consejo de la Judicatura;
 
 III.- Tener práctica profesional en el ejercicio de las tareas propias o afines del control interno, no menor de tres años;
 
@@ -2314,3 +2332,11 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 2 DE MAYO DE 2007.
+
+ARTÍCULO RIMERO.- El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de registro extemporáneo de actas del estado civil, que al momento de la entrada en vigor del correspondiente Decreto estén en trámite, continuarán su procedimiento hasta su total conclusión ante la autoridad jurisdiccional que conoce de los mismos.
