@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-02-13"
+last_updated: "2007-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -209,15 +209,17 @@ El Ejecutivo del Estado publicará, en el Periódico Oficial del Gobierno Consti
 
 El ejercicio del gasto público con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá ajustarse a la asignación de cada unidad programática presupuestaria, en los términos de lo dispuesto por el artículo 13 de esta Ley, con base en la estacionalidad de los ingresos estimados por la Tesorería.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2007)</small>
 
 ###### Artículo 21.
 
-Con excepción de lo señalado en la presente Ley, el Ejecutivo del Estado informará al Congreso sobre las transferencias, ampliación, reducción, modificación, creación o supresión de partidas que afecten el Presupuesto de Egresos del Estado aprobado.
+Con excepción de lo señalado en la presente Ley, el Ejecutivo del Estado presentará iniciativa de autorización al Congreso, para efectuar transferencias, ampliación, reducción, modificación, creación o supresión de partidas que afecten el Presupuesto de Egresos del Estado aprobado, antes de ejercer la afectación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2007)</small>
 
 ###### Artículo 22.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2006)
+A la Iniciativa de autorización para efectuar transferencias, ampliación, reducción, modificación, creación o supresión de partidas que afecten el Presupuesto de Egresos del Estado aprobado, se deberá acompañar la información y documentación relativa a los programas y subprogramas involucrados.
 
 ###### Artículo 23.
 
@@ -600,3 +602,9 @@ El Gobernador del Estado, deberá adecuar los reglamentos y manuales que deriven
 P.O. 13 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 3 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
