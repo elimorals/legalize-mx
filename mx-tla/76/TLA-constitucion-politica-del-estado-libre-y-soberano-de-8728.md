@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2007-01-12"
+last_updated: "2007-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -837,7 +837,9 @@ BIS.- La Comisión de Acceso a la Información Pública y Protección de Datos P
 
 La Comisión contará con un Consejo General integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los miembros integrantes de la legislatura que corresponda, mediante convocatoria pública abierta, expedida por el propio Congreso en la forma y términos que la ley señale.
 
-Los comisionados durarán en su encargo seis, cinco y cuatro años, respectivamente, y no podrán ser reelectos. Los comisionados no podrán ser cesados de sus cargos durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del estado, conforme lo disponga la Ley de Responsabilidades de los Servidores Públicos para el Estado. Este cargo es incompatible con cualquier otro empleo o actividad, con excepción de la docencia y la investigación académica.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2007)</small>
+
+Los comisionados durarán en su encargo tres años, respectivamente, y no podrán ser reelectos. Los comisionados no serán cesados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado conforme lo disponga la Ley de Responsabilidades. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
 
 (REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 18 DE MAYO DE 2001)
 
@@ -2924,3 +2926,13 @@ El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanz
 ###### ARTÍCULO QUINTO.
 
 Las disposiciones vigentes de leyes secundarias y de los reglamentos que hagan referencia a la Comisión de Transparencia del Estado de Tlaxcala, se entenderán hechas a la Comisión de Acceso a la Información Pública y Protección de Datos Personales.
+
+P.O. 4 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor este Decreto, se establecerán los plazos para elegir a los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales en el Estado de Tlaxcala; quienes rendirán la protesta ante el Pleno de este Congreso del Estado, y ejercerán sus funciones.
