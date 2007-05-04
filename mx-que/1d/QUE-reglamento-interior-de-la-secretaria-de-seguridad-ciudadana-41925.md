@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2004-12-03"
+last_updated: "2007-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD CIUDADANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 3 de diciembre de 2004.
 
@@ -43,9 +43,11 @@ El titular de la Secretaría de Seguridad Ciudadana será el Secretario, quien c
 
 En el presente ordenamiento se entenderá por Secretaría, a la Secretaría de Seguridad Ciudadana.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Seguridad Ciudadana contará con las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría contará con las siguientes unidades y órganos:
 
 I. Dirección de Prevención;
 
@@ -61,11 +63,33 @@ VI. Dirección de Informática y Telecomunicaciones;
 
 VII. Coordinación de Relaciones con el Público;
 
-VIII. Coordinación de Planeación y Evaluación; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
 
-IX. Coordinación de Asuntos Internos.
+VIII. Coordinación de Planeación y Evaluación;
 
-La Secretaría de Seguridad Ciudadana contará con un Órgano Interno de Control, que dependerá operativamente de la Secretaría de Seguridad Ciudadana y normativamente de la Secretaría de la Contraloría.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+IX. Coordinación Jurídica;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+X. Órgano Interno de Control, que dependerá operativamente de la Secretaría de Seguridad Ciudadana y normativamente de la Secretaría de la Contraloría;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XI. Consejo de Honor y Justicia;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XII. Comisión de Carrera Policial; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XIII. Comité de Estándares Profesionales.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2007)</small>
+
+Los órganos a que se refieren las fracciones XI, XII y XIII, funcionarán y ejercerán sus respectivas atribuciones conforme lo establezcan, en su caso, la Ley de Seguridad Pública para el Estado de Querétaro y sus respectivos reglamentos.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES
 
@@ -81,7 +105,9 @@ I. Establecer y dirigir la política de la Secretaría en forma congruente con l
 
 II. Proponer al Titular del Poder Ejecutivo la solicitud de Declaratoria de Emergencia o Desastre, según el caso;
 
-III. Desempeñar las comisiones que le asigne el Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2007)</small>
+
+III. Someter a la consideración del Titular del Poder Ejecutivo los asuntos encomendados a la Secretaría y a las entidades paraestatales del sector, y desempeñar las comisiones especiales que el mismo le confiera;
 
 IV. Proponer al Titular del Poder Ejecutivo los proyectos de leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones relativas al ámbito de competencia de la Secretaría;
 
@@ -89,7 +115,9 @@ V. Refrendar los reglamentos, decretos y acuerdos del Titular del Poder Ejecutiv
 
 VI. Proponer al Titular del Poder Ejecutivo la suscripción de acuerdos con otras instancias del Gobierno federal, estatal y municipal, en el ámbito de la competencia de la Secretaría;
 
-VII. Designar y expedir los nombramientos de los servidores públicos de la Secretaría, hasta el nivel de jefe de departamento, a excepción del Director de Gestión de Emergencias, quien será nombrado por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2007)</small>
+
+VII. Designar y expedir los nombramientos de los Directores y Coordinadores a que se refiere este reglamento. Los nombramientos de los policías de carrera se sujetarán a lo que establezcan las disposiciones de la ley de la materia;
 
 VIII. Proponer al Titular del Poder Ejecutivo la creación o modificación de las direcciones o departamentos administrativos, necesarios para el buen funcionamiento de la Secretaría;
 
@@ -99,13 +127,17 @@ X. Establecer las unidades de coordinación, asesoría y apoyo técnico que requ
 
 XI. Aprobar los anteproyectos del programa anual de trabajo y presupuesto anual de la Secretaría, así como los de las entidades paraestatales del sector que coordina, a efecto de que sean presentados a la Secretaría de Planeación y Finanzas, en los términos de la legislación aplicable;
 
-XII. Determinar rutas e itinerarios a que debe sujetarse el servicio público de transporte y sus servicios auxiliares, así como la ubicación de sitios, bases o terminales y todo aquello relacionado con su operación eficiente;
+XII. (DEROGADA, P.O. 4 DE MAYO DE 2007)
 
-XIII. Aplicar las sanciones previstas en el Reglamento para la Prestación de Servicios de Seguridad Privada en el Estado de Querétaro.
+XIII. (DEROGADA, P.O. 4 DE MAYO DE 2007)
 
 XIV. Establecer los criterios de interpretación que se den con motivo de la aplicación de este Reglamento, y sobre los casos de su competencia no previstos en el mismo;
 
 XV. Ejercer las demás facultades que los ordenamientos legales y reglamentarios le confieran expresamente, así como aquellas otras que, con el carácter de no delegables, le asigne el Titular del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2007)</small>
+
+Sin perjuicio de lo que dispone este reglamento, la facultad para individualizar e imponer sanciones en materia de tránsito y transporte público, seguridad privada, protección civil y demás materias cuya supervisión y control se encomienden a la Secretaría por las leyes aplicables, corresponde en forma originaria al Secretario, quien la ejerce por conducto de las unidades administrativas auxiliares en los términos de este reglamento o mediante su personal subalterno, sin perjuicio de hacerlo directamente.
 
 ### CAPÍTULO TERCERO. DE LAS DIRECCIONES Y COORDINACIONES
 
@@ -113,9 +145,11 @@ XV. Ejercer las demás facultades que los ordenamientos legales y reglamentarios
 
 Al frente de cada Dirección y Coordinación habrá un titular, quien asumirá la responsabilidad, ante su superior jerárquico, del funcionamiento de la unidad administrativa a su cargo, y será auxiliado por los jefes de departamento y demás personal que requiera el servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 7.
 
-Son atribuciones de los Directores y Coordinadores las siguientes:
+Son facultades de los Directores y Coordinadores, las siguientes:
 
 I. Planear, desarrollar, ejecutar, controlar y evaluar los programas relacionados con el área de su competencia o que les sean encomendados;
 
@@ -135,15 +169,29 @@ VIII. Ejercer los presupuestos autorizados de las unidades administrativas a su 
 
 IX. Dar asesoría técnica, en asuntos de su competencia, a los servidores públicos de la Secretaría;
 
-X. Proporcionar la información que les sea requerida por otras dependencias y unidades administrativas; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
 
-XI. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso les delegue el Secretario.
+X. Coordinar sus actividades con los titulares de otras unidades administrativas de la Secretaría y proporcionar informes, datos o la cooperación técnica requeridos por las propias unidades de la Secretaría y por las demás dependencias del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XI. Coadyuvar en el ámbito de sus facultades, al cumplimiento de los trabajos y resoluciones de los órganos colegiados a que se refiere el artículo 3, fracciones XI, XII y XIII, de este reglamento;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XII. Expedir a solicitud de autoridad competente, constancias de cotejo de documentos oficiales que obren en sus archivos, siempre que hubiesen sido expedidos por el área respectiva; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XIII. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso les delegue el Secretario.
 
 ### CAPÍTULO CUARTO. DE LAS COMPETENCIAS ESPECÍFICAS DE LAS DIRECCIONES Y COORDINACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 8.
 
-Son funciones de la Dirección de Prevención:
+Son atribuciones de la Dirección de Prevención:
 
 I. Estudiar el origen y comportamiento de los fenómenos que impliquen o puedan implicar un riesgo a la integridad de las personas y su patrimonio, a efecto de diseñar políticas tendientes a prevenirlos;
 
@@ -151,9 +199,13 @@ II. Desarrollar e impulsar programas y acciones tendientes a prevenir la comisi�
 
 III. Administrar el sistema de expedición de permisos de circulación, licencias y permisos para conducir vehículos automotores;
 
-IV. Llevar el control de expedientes de manejo, a través del registro de infracciones al reglamento de tránsito y de los accidentes de los ciudadanos con licencia para conducir;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
 
-V. Calificar las infracciones al reglamento de tránsito, en las vías de jurisdicción estatal;
+IV. Llevar el control de expedientes de manejo, a través del registro de infracciones a las leyes y reglamentos en materia de tránsito y transporte público y de los accidentes viales de los que conozca la Secretaría y en su caso, de los de competencia federal y municipal que ocurran en territorio del Estado y sean hechos del conocimiento de la Secretaría por las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+V. Individualizar para su aplicación, las sanciones por infracción a las leyes y reglamentos en materia de tránsito, de conformidad con los ordenamientos aplicables y los convenios sobre vialidades que al efecto se celebren;
 
 VI. Planear, implementar, coordinar y evaluar programas o acciones de educación vial en el Estado de Querétaro;
 
@@ -161,17 +213,31 @@ VII. Instrumentar convenios y lineamientos generales de coordinación y apoyo in
 
 VIII. Desarrollar los instrumentos e implementar los mecanismos de apoyo a las diversas corporaciones de protección civil, policía preventiva y tránsito en el Estado;
 
-IX. Promover y difundir la cultura de prevención de riesgos, accidentes de tránsito y delitos, por todos los medios disponibles; y
+IX. Promover y difundir la cultura de prevención de riesgos, accidentes de tránsito y delitos, por todos los medios disponibles; y (sic)
 
-X. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+X. Expedir dictámenes de factibilidad vial relativos a proyectos que impliquen el tránsito sobre vías de competencia estatal, de conformidad con las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XI. Ejercer las facultades de control, vigilancia y aplicación de sanciones que prevean las leyes y reglamentos aplicables, en materia de seguridad privada, coordinándose en lo necesario con la Dirección de Policía Estatal y la Coordinación Jurídica;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XII. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
 
 ###### Artículo 9.
 
-Son funciones de la Dirección de Policía Estatal:
+Son atribuciones de la Dirección de Policía Estatal:
 
-I. Expedir el nombramiento de los mandos medios y de todo el personal operativo de la policía estatal;
+I. (DEROGADA, P.O. 4 DE MAYO DE 2007)
 
-II. Organizar, coordinar y supervisar la operación de los recursos humanos y materiales de la Policía Estatal;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+II. Organizar, coordinar y supervisar los recursos humanos y materiales de la Policía Estatal, en los aspectos operativos relacionados con la función policial y en coordinación con la Dirección de Servicios Administrativos;
 
 III. Proponer los operativos en materia de seguridad pública y coordinar su realización, a fin de disminuir las incidencias registradas;
 
@@ -179,25 +245,35 @@ IV. Mantener comunicación y relación constante con las instituciones o corpora
 
 V. Participar en la elaboración y supervisión de programas para la inspección de armamento y municiones de la Secretaría y los municipios;
 
-VI. Controlar la asignación del armamento, municiones, equipo de trabajo y equipo de radiocomunicación del personal a su cargo;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+VI. Controlar la asignación del armamento, municiones, vehículos, equipo de trabajo y equipo de radiocomunicación del personal a su cargo;
 
 VII. Emitir las órdenes generales y particulares dirigidas al personal operativo a su cargo;
 
-VIII. Aplicar las sanciones a que el personal de la Dirección se haga acreedor, en los términos de la ley en la materia;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
 
-IX. Vigilar el cumplimiento del reglamento de tránsito en las vías de jurisdicción estatal;
+VIII. Aplicar correctivos disciplinarios al personal de la Dirección que se haga acreedor a ellos, en los términos de la ley en la materia;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+IX. Vigilar el cumplimiento de las leyes y reglamentos del ámbito de competencia de la Secretaría y ejecutar actos de inspección a solicitud y con la asistencia técnica de otras unidades de la Secretaría, en materia de tránsito, gestión de emergencias, transporte público e instalaciones y servicios de seguridad privada, o bien como coadyuvantes de otras autoridades en el ámbito de sus respectivas competencias;
 
 X. Llevar a cabo la inspección y vigilancia necesarias, para el cumplimiento de las leyes y reglamentos del ámbito de competencia de la Secretaría;
 
 XI. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 10.
 
-Son funciones de la Dirección de Gestión de Emergencias:
+Son atribuciones de la Dirección de Gestión de Emergencias:
 
-I. Asumir la titularidad de la Unidad Estatal de Protección Civil;
+I. (DEROGADA, P.O. 4 DE MAYO DE 2007)
 
-II. Proponer al Secretario Ejecutivo del Consejo de Protección Civil, los objetivos, acciones, estrategias y demás mecanismos que deban ser considerados para integrar el Programa Estatal de Protección Civil; tomando en cuenta las necesidades propias del Estado así como las interacciones necesarias con los estados vecinos, e instrumentar su ejecución;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+II. Proponer al Secretario los objetivos, acciones, estrategias y demás mecanismos que deban ser considerados para integrar el Programa Estatal de Protección Civil; tomando en cuenta las necesidades propias del Estado así como las interacciones necesarias con los estados vecinos, e instrumentar su ejecución;
 
 III. Mantener la vinculación con el Sistema Nacional de Protección Civil, con la interacción necesaria de información y apoyo, para las declaratorias de emergencia o de desastres, así como la corresponsabilidad en los programas estatales y federales correspondientes;
 
@@ -213,9 +289,13 @@ VIII. Diseñar, planear y ejecutar los trabajos para la elaboración del Atlas E
 
 IX. Elaborar y mantener actualizado el Atlas Estatal de Riesgos, la Agenda de Riesgos y el Inventario Estatal de Recursos para la Atención de Emergencias;
 
-X. Planear, supervisar, operar, evaluar y administrar un Centro Estatal que coordine, durante las emergencias, los recursos humanos, técnicos y materiales de las dependencias e instituciones, para que funja como grupo de toma de decisiones, a fin de asegurar una atención táctica eficiente de cualquier contingencia;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
 
-XI. Planear, supervisar y operar el servicio telefónico de emergencia 066;
+X. Planear, supervisar, operar, evaluar y administrar el centro estatal que se encargue de la coordinación y atención de emergencias y que fungirá como grupo de toma de decisiones entre las instituciones competentes, para la atención eficaz de cualquier contingencia;
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XI. Planear, coordinar, supervisar u operar, en su caso, los servicios telefónicos de emergencia 066 y de denuncias anónimas 089, con el apoyo de las autoridades competentes;
 
 XII. Realizar las investigaciones necesarias en materia de protección civil, que permitan el diseño, desarrollo e implementación de planes de emergencia, protocolos de atención y sistemas de alertamiento;
 
@@ -227,15 +307,31 @@ XV. Coordinar los servicios de rescate, combate de incendios y atención médica
 
 XVI. Convocar y coordinar a las diferentes instituciones que, por su esfera de competencia, sean necesarias para planear y ejecutar dispositivos de protección civil, durante eventos de concentración masiva;
 
-XVII. Convocar, registrar, controlar y coordinar a los grupos de voluntarios y capacitadores en materia de protección civil en el Estado, en sus diferentes especialidades;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XVII. Convocar, registrar, controlar y coordinar a las organizaciones, corporaciones y grupos de voluntarios, bomberos, paramédicos, instituciones privadas de protección civil lucrativas o no lucrativas, capacitadores en la materia y demás organismos sociales o técnicos individuales especializados en la atención de emergencias en el Estado, en sus diferentes especialidades o modalidades, así como a los grupos locales de ayuda mutua que se establezcan en los parques industriales de la Entidad;
 
 XVIII. Informar y mantener informada a la población sobre el estado de la emergencia o desastre;
 
 XIX. Participar en la planeación y desarrollo de actividades que permitan generar una cultura de protección civil;
 
-XX. Coordinar la Unidad Interna de Protección Civil de la Secretaría y colaborar con las otras dependencias cuando lo requieran; y
+XX. Coordinar la Unidad Interna de Protección Civil de la Secretaría y colaborar con las otras dependencias cuando lo requieran; y (sic)
 
-XXI. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XXI. Intervenir en coordinación con otras unidades de la Secretaría, cuando se requiera para la atención de emergencias, en el despacho operativo de todo tipo de unidades vehiculares adscritas a la misma;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XXII. Ordenar revisiones e inspecciones bajo su asistencia técnica en materia de protección civil, con el apoyo del personal autorizado de la Policía Estatal; y brindar apoyo técnico para inspecciones, opiniones y dictámenes técnicos en esta materia, a las autoridades competentes en materia de almacenaje, venta, porteo y consumo de bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XXIII. Aplicar las sanciones que prevean las leyes y reglamentos aplicables en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XXIV. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
 
 ###### Artículo 11.
 
@@ -255,7 +351,9 @@ VI. Controlar y vigilar la prestación del servicio, tanto público como privado
 
 VII. Vigilar el cumplimiento de las condiciones previstas en las concesiones y permisos del servicio público de transporte urbano y suburbano, así como la observancia de las obligaciones adquiridas por los concesionarios;
 
-VIII. Proponer al Secretario las rutas e itinerarios a que debe sujetarse el servicio público de transporte y sus servicios auxiliares, así como la ubicación de sitios, bases o terminales y todo aquello relacionado con su operación eficiente;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+VIII. Fijar, con autorización del Secretario, las rutas e itinerarios a que deba sujetarse el servicio público de transporte y sus servicios auxiliares, así como la ubicación de sitios, bases o terminales y todo aquello relacionado con su operación eficiente;
 
 IX. Proponer al Secretario, cuando resulte necesario por caso fortuito, fuerza mayor o por cualquier otra causa de interés público, variar temporal o definitivamente el recorrido de una ruta, sin alterar su origen y destino, así como la modificación de la circulación vial;
 
@@ -263,7 +361,9 @@ X. Realizar los estudios técnicos para detectar, de manera oportuna, las necesi
 
 XI. Proponer al Secretario la celebración de convenios y acuerdos de coordinación con la Federación, el Distrito Federal, las entidades federativas y los Municipios, así como con los sectores social y privado, para la mejor prestación de los servicios de transporte en el Estado;
 
-XII. Practicar inspecciones y revisiones periódicas en el transporte de servicio público; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XII. Aplicar las sanciones que prevean las leyes y reglamentos aplicables en materia de transporte público, sin perjuicio de lo que establece el artículo 8, fracción V de este reglamento; así como ordenar que se practiquen bajo su asistencia técnica, inspecciones a las unidades, operación y servicios de transporte público;
 
 XIII. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
 
@@ -277,23 +377,31 @@ II. Integrar el anteproyecto de presupuesto anual de la Secretaría;
 
 III. Establecer las políticas, normas, sistemas y procedimientos para la organización y funcionamiento de la Secretaría, y para la administración de los recursos humanos, financieros, materiales, informáticos, de comunicaciones y equipo diverso de la Secretaría, darles seguimiento, verificar su observancia y evaluar sus resultados;
 
-IV. Llevar el registro, control, asignación, resguardo, mantenimiento, baja y, en su caso, sustitución o reemplazo del armamento y municiones, de conformidad con la licencia colectiva de armas; así como del equipo de trabajo y equipo de radiocomunicación;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+IV. Llevar el registro, control, resguardo, mantenimiento, baja y, en su caso, sustitución o reemplazo del armamento y municiones, de conformidad con la licencia colectiva de armas; así como del equipo de trabajo y equipo de radiocomunicación, en coordinación con los Directores de Policía Estatal y de Informática y Telecomunicaciones, respectivamente;
 
 V. Coordinarse con el Consejo Estatal de Seguridad Pública para la actualización del Registro Estatal de Personal, ante el Sistema Estatal de Seguridad Pública;
 
 VI. Cuantificar, costear y validar los programas de reclasificación y requerimiento de recursos humanos y materiales, que demanden las unidades administrativas de la Secretaría;
 
-VII. Auxiliar a la Comisión de ascensos de la Policía Estatal, para el otorgamiento de premios, estímulos, recompensas y reconocimientos de los elementos que integran la Secretaría;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+VII. Auxiliar a la Comisión de Carrera Policial para el otorgamiento de premios, estímulos, recompensas y reconocimientos a los policías de carrera de la corporación;
 
 VIII. Participar en la Unidad Interna de Protección Civil y establecer las normas en materia de prevención de riesgos profesionales y accidentes de trabajo;
 
-IX. Elaborar el manual de organización y los manuales de procedimientos de la Secretaría; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+IX. Elaborar el manual de organización de la Secretaría; y
 
 X. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 13.
 
-Son funciones de la Dirección de Informática y Telecomunicaciones:
+Son atribuciones de la Dirección de Informática y Telecomunicaciones:
 
 I. Elaborar y apoyar en la implementación del programa institucional de desarrollo informático, de telecomunicaciones y de desarrollo tecnológico de la Secretaría;
 
@@ -307,19 +415,41 @@ V. Ser el enlace de la Secretaría con dependencias, entidades, instituciones y 
 
 VI. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
+
 ###### Artículo 14.
 
-Son funciones de la Coordinación de Relaciones con el Público las siguientes:
+Son atribuciones de la Coordinación de Relaciones con el Público las siguientes:
 
-I. Difundir las actividades de la Secretaría mediante entrevistas, conferencias y comunicados de prensa;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+I. Difundir las actividades de la Secretaría y mantener actualizada la información pública obligatoria a cargo de la misma, en los términos de la Ley de la materia;
 
 II. Ser el vocero oficial de la Secretaría;
 
-III. Apoyar a las unidades administrativas de la Secretaría en la realización de cursos, seminarios, coloquios, conferencias, congresos, presentación de planes; en los programas de vinculación social y de atención al público; así como coordinar el intercambio de información y la logística de los eventos oficiales de la Secretaría.
+III. Apoyar a las unidades administrativas de la Secretaría en la realización de cursos, seminarios, coloquios, conferencias, congresos, presentación de planes; en los programas de vinculación social y de atención al público; así como coordinar el intercambio de información y la logística de los eventos oficiales de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+IV. Ser la unidad receptora de quejas, sugerencias, comentarios y felicitaciones sobre el desempeño del personal operativo y administrativo de la Secretaría, así como las relativas a la prestación de los servicios de transporte público, seguridad privada y demás materias de la competencia de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+V. Tener a su cargo el servicio de ventanilla universal de la Secretaría, coadyuvando con las Direcciones competentes en la atención y resolución de los trámites que por ese medio se promuevan;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+VI. Operar, por sí o mediante terceros, el servicio de atención ciudadana por medios personales, escritos, electrónicos o telefónicos, en las materias de competencia de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+VII. Proponer al Secretario las políticas de imagen corporativa y la elaboración de publicaciones de carácter institucional de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 2007)</small>
 
 ###### Artículo 15.
 
-Son funciones de la Coordinación de Planeación y Evaluación las siguientes:
+Son atribuciones de la Coordinación de Planeación y Evaluación las siguientes:
 
 I. Llevar a cabo las acciones necesarias para vincular el Programa Estatal de Seguridad Pública con el Plan Estatal de Desarrollo y el Programa Nacional de Seguridad Pública;
 
@@ -337,37 +467,59 @@ VII. Elaborar instrumentos de evaluación y estudios de opinión, para conocer l
 
 VIII. Coordinarse con las demás unidades administrativas para el desarrollo, planeación y control de procedimientos, proyectos y programas de la Secretaría;
 
-IX. Vigilar que las necesidades de los grupos más vulnerables sean consideradas en el diseño de las políticas, programas y acciones de la Secretaría; y
+IX. Vigilar que las necesidades de los grupos más vulnerables sean consideradas en el diseño de las políticas, programas y acciones de la Secretaría; y (sic)
 
-X. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2007)</small>
+
+X. Llevar el registro del Programa Operativo Anual de la Secretaria;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XI. Elaborar, en coordinación con las Direcciones y Coordinaciones de la Secretaría, los manuales de procedimientos de la misma; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2007)</small>
+
+XII. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2007)</small>
 
 ###### Artículo 16.
 
-La Coordinación de Asuntos Internos es la encargada del área jurídica, así como de vigilar que la actuación del personal de la Secretaría sea siempre apegada a derecho, y tendrá las facultades siguientes:
+La Coordinación Jurídica tiene a su cargo la atención de los servicios legales de la Secretaría; funge como unidad auxiliar del Consejo de Honor y Justicia y tendrá las siguientes atribuciones:
 
-I. Iniciar las investigaciones pertinentes, cuando sean presentadas quejas o denuncias en contra del personal de la Policía Estatal, o sean detectadas irregularidades en la actuación de éstos; en caso de reunir los elementos de una probable responsabilidad, exponer el caso ante el Órgano Interno de Control de la Secretaría;
+I. Atender los reportes del sistema disciplinario del personal de carrera policial, realizar las diligencias e investigaciones que resulten necesarias para el esclarecimiento y valoración de los hechos de los que deba conocer el Consejo de Honor y Justicia; exponer sus conclusiones ante el mismo y emitir a otras unidades de la Secretaría, recomendaciones para el alertamiento temprano y la intervención preventiva de posibles faltas policiales;
 
-II. Llevar el control de los expedientes disciplinarios del personal de la Policía Estatal;
+II. Ejecutar las instrucciones que dicte el Consejo de Honor y Justicia;
 
-III. Llevar la defensa jurídica del personal de la Secretaría, cuando el procedimiento sea derivado del ejercicio de sus funciones, siempre y cuando la denuncia no sea hecha por la propia Secretaría;
+III. Solicitar la colaboración y apoyo de las dependencias de la administración pública federal, estatal y municipal, así como de los particulares, para obtener la información que la investigación de conducta policial requiera;
 
-IV. Prestar asesoría jurídica al personal, a las unidades administrativas de la Secretaría y al Secretario, en el ejercicio de sus funciones;
+IV. Prestar asesoría jurídica al personal, a las unidades administrativas de la Secretaría y al Secretario, en el ejercicio de sus respectivas facultades;
 
-V. Representar a la Secretaría y a su titular ante las autoridades competentes, respecto de los actos administrativos que realice el personal de la Secretaría;
+V. Ejercer la representación y en su caso, defensa jurídica de la Secretaría, de su titular, de sus unidades administrativas y de los órganos colegiados que establece este reglamento, en asuntos de carácter civil, penal, mercantil, laboral, constitucional y administrativa, con todos los derechos procesales relativos a la presentación y contestación de demandas y reconvenciones, ejercicio de acciones, excepciones y defensas, ofrecimiento de pruebas y formulación de alegatos, interposición de recursos, desistimientos, transacciones y demás derechos que las leyes reconocen a los mandatarios judiciales.
 
-VI. Llevar el registro y control de los convenios, acuerdos y demás actos jurídicos de los que dimanen derechos y obligaciones a cargo de la Secretaría;
+VI. Ejercer la orientación y defensa de los policías de carrera, cuando sean requeridos por otras autoridades competentes con motivo de hechos del servicio, o supervisar el desempeño de los prestadores externos de servicios jurídicos que se contraten al efecto, en los casos y condiciones que señale (sic) reglamento respectivo;
 
-VII. Participar en los procesos de actualización y adecuación del marco jurídico que rige el funcionamiento de la Secretaría;
+VII. Dar trámite a los juicios de amparo, rendir los informes correspondientes en los mismos, solicitar a las demás unidades administrativas de la Secretaría que cumplan con las resoluciones que en ellos se pronuncien, promover medios de impugnación en la materia y prestar la asesoría que se requiera para el debido cumplimiento de las resoluciones, informando al superior jerárquico de aquéllas en caso de incumplimiento;
 
-VIII. Analizar y elaborar propuestas de convenios y contratos relacionados con el ámbito de competencia de la Secretaría;
+VIII. Procurar el cumplimiento ágil, eficaz y oportuno de los asuntos planteados a la Secretaría por los organismos competentes en materia de protección de los derechos humanos, haciendo las gestiones necesarias y solicitando la información conducente;
 
-IX. Controlar y llevar a cabo el procedimiento de entrega de información de la Secretaría, en los términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro y demás ordenamientos aplicables;
+IX. Llevar el registro de los convenios, acuerdos y demás actos jurídicos de los que dimanen derechos y obligaciones a cargo del Estado a través de la Secretaría, con excepción de los contratos de prestación de servicios profesionales, que serán registrados y controlados por la Dirección de Servicios Administrativos, en coordinación con las demás instancias competentes;
 
-X. Asistir al Secretario en la resolución de los recursos administrativos que le correspondan;
+X. Analizar y elaborar propuestas de convenios y contratos relacionados con el ámbito de competencia de la Secretaría;
 
-XI. Resolver los recursos administrativos que se interpongan contra actos de la Secretaría; y
+XI. Compilar y sistematizar los tratados, leyes, reglamentos, decretos, acuerdos, jurisprudencia y demás normas internacionales, federales, estatales o municipales relacionadas con la competencia de la Secretaría, realizar estudios comparados y proponer al Secretario la actualización y adecuación de las del ámbito estatal;
 
-XII. Las demás que señalen los ordenamientos jurídicos aplicables, o en su caso le delegue el Secretario.
+XII. Coordinar el procedimiento de entrega de información pública de la Secretaría, por solicitudes específicas que se planteen en los términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro y demás ordenamientos aplicables;
+
+XIII. Instruir y poner en estado de resolución, los recursos y procedimientos de aplicación de sanciones administrativas que sean de la competencia de la Secretaría, proponiendo la resolución al Director competente o al Secretario, según sea el caso, y coadyuvando con éstos en los trámites conducentes a su debida ejecución. Lo anterior, con excepción de los recursos y procedimientos que se originen con motivo del ejercicio de las atribuciones correspondientes a los órganos colegiados a que se refiere el artículo 3, fracciones XI, XII y XIII del presente reglamento;
+
+XIV. Tramitar la presentación de denuncias y querellas del interés de la Secretaría, previa autorización de su titular;
+
+XV. Requerir por cualquier medio de comunicación a las áreas y unidades administrativas de la Secretaría, la documentación e información necesarias para el cumplimiento de sus atribuciones. En caso de omisión, podrá solicitarse a través de su superior jerárquico;
+
+XVI. Emitir opinión jurídica sobre la devolución de garantías retenidas a vehículos habilitados para el servicio de transporte público, cuando sean infraccionados, se vean involucrados en un accidente de tránsito o medie requerimiento de autoridad competente en relación con la retención de dichas garantías; y
+
+XVII. Ejercer las demás facultades que le otorguen las leyes y reglamentos aplicables y acatar las instrucciones del Secretario.
 
 ### CAPÍTULO QUINTO. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
@@ -378,6 +530,18 @@ El Secretario de Seguridad Ciudadana, durante sus ausencias temporales de hasta 
 ###### Artículo 18.
 
 Los Directores y coordinadores, durante sus ausencias temporales de hasta por quince días hábiles, serán suplidos por el servidor público que ellos designen; si exceden de quince días hábiles, serán suplidos por el funcionario que designe el Secretario de Seguridad Ciudadana.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 2007)</small>
+
+### CAPÍTULO SEXTO. DE LA DESCONCENTRACIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2009)</small>
+
+###### Artículo 19.
+
+Para la eficaz atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a quienes se les otorgarán las facultades determinadas en cada caso, de acuerdo con lo dispuesto en el artículo 16 de la Ley Orgánica de la Administración Pública el (sic) Estado de Querétaro.
+
+Las atribuciones de los órganos administrativos desconcentrados y las facultades de sus titulares, serán establecidas en el Acuerdo que al efecto se expida y que deberá publicarse en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga.
 
 ## TRANSITORIOS
 
@@ -412,3 +576,11 @@ Ing. Edgar Mohar Kuri
 Secretario de Seguridad Ciudadana
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE MAYO DE 2007.
+
+Artículo primero.- Este acuerdo entrará en vigor el día de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo segundo.- Quedan sin efecto las disposiciones que se opongan al presente.
