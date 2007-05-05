@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2006-07-26"
+last_updated: "2007-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2007.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -413,9 +413,7 @@ De encontrarse infundada la excusa, aplicará las sanciones que correspondan
 
 ## TITULO TERCERO. ACTOS PROCESALES
 
-### CAPITULO I
-
-PRESENTACION DE DOCUMENTOS.
+### CAPITULO I. PRESENTACION DE DOCUMENTOS
 
 ###### ARTICULO 46.
 
@@ -3203,13 +3201,73 @@ Todos los problemas inherentes a la familia se consideran de orden público, por
 
 Podrán tramitarse ante Notario Público las cuestiones familiares que así lo determine este Código, sujetándose el fedatario a las disposiciones del mismo.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 463.
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, y de cuestiones relacionadas con violencia familiar, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 464.
 
-No se requieren formalidades especiales para acudir ante el Juez de lo Familiar, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares similares que reclaman la intervención judicial.
+No se requieren formalidades especiales para acudir ante el Juez de lo Familiar, tratándose de violencia familiar, de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares similares que reclaman la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+
+ARTICULO 464 A.- El juez bajo la responsabilidad de quien lo solicite, podrá autorizar la adopción de medidas cautelares, ante actos de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+
+ARTICULO 464 B.- El juez podrá acordar medidas cautelares, respecto de los bienes y derechos de quien ejerza violencia familiar, con las siguientes características:
+
+I.- Ser necesarias para dar cumplimiento a una eventual sentencia.
+
+II.- No ser susceptible de sustitución por otra medida igualmente eficaz.
+
+III.- Ser de carácter temporal o provisional, condicionada y susceptible de modificación o extinción de la medida cautelar según sea el caso. El juez podrá dictar como tales las que consistan en órdenes y prohibiciones, sin prejuzgar la sentencia que en definitiva se dicte.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+
+ARTICULO 464 C.- Conforme a lo establecido en el artículo anterior, podrán acordarse, entre otras, las siguientes medidas cautelares:
+
+I.- El embargo precautorio para asegurar la ejecución de la sentencia;
+
+II.- La intervención o la administración judicial de bienes;
+
+III.- El depósito de cosa mueble;
+
+IV.- La formación de inventarios de bienes, en las condiciones que el juez disponga;
+
+V.- La anotación preventiva, cuando ésta se refiera a bienes o derechos susceptibles de inscripción en el Registro Público de la Propiedad y del Comercio;
+
+VI.- La orden judicial de abstenerse temporalmente de llevar a cabo una conducta; y
+
+VII.- Aquellas otras medidas a criterio del juez que, para la protección de ciertos derechos, se estimen necesarias para asegurar el cumplimiento de una eventual sentencia.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+
+ARTICULO 464 D.- El juez del conocimiento determinará las órdenes de protección conducentes para el resguardo de los menores y de la parte agredida, las cuales deberán de expedirse dentro de las 24 horas siguientes al conocimiento de los hechos, y se harán consistir en:
+
+I.- Desocupación por el agresor, del domicilio familiar;
+
+II.- Prohibición de acercarse a lugar o persona determinada;
+
+III.- Prohibición de intimidar o molestar;
+
+IV.- Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+V.- Obligación alimentaria provisional e inmediata;
+
+VI.- Cualquier otra a juicio del juez tendiente a proteger los intereses del núcleo familiar.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+
+ARTICULO 464 E.- Podrán autorizarse las medidas cautelares antes de la presentación de la demanda, por razones de urgencia a petición de parte interesada.
+
+La demanda deberá presentarse dentro de los 20 días siguientes a la autorización de las medidas.
+
+Si transcurrido dicho plazo no se presentare la demanda, el juez ordenará levantar las medidas impuestas.
 
 ###### ARTICULO 465.
 
@@ -4794,3 +4852,9 @@ El presente Decreto entrará en vigor a los 30 días siguientes al de su publica
 ###### ARTICULO SEGUNDO.
 
 El Reglamento del Consejo Estatal de Adopciones deberá ser emitido por el titular del Poder Ejecutivo dentro de los 30 días siguientes a la fecha de la publicación del presente Decreto.
+
+P.O. 5 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
