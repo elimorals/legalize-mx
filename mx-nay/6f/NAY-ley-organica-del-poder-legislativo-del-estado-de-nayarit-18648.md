@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2006-03-22"
+last_updated: "2007-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 5 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -1268,3 +1270,15 @@ P.O. 22 DE MARZO DE 2006.
 Artículo Primero.- El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Para su conocimiento y constancia de cumplimiento, notifíquese la presente resolución a la Suprema Corte de Justicia de la Nación.
+
+P.O. 5 DE MAYO DE 2007.
+
+Artículo Primero.- La presente Ley entrará en vigor el 18 de agosto del año 2007, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nayarit, aprobada el día 25 de enero del año 2000, y publicada mediante Decreto 8265 de fecha 8 de marzo del mismo año.
+
+Artículo Tercero.- Las adecuaciones al Reglamento para el Gobierno Interior del Congreso, deberán realizarse en un término que no exceda los treinta días hábiles, contados a partir del día siguiente de la entrada en vigor de la presente Ley, el que a su vez abrogará el Acuerdo que crea las Bases de Competencia para el Funcionamiento de la (sic) Comisiones Legislativas.
+
+Artículo Cuarto.- Las Comisiones Legislativas Ordinarias que han modificado su denominación, seguirán integradas en el mismo número de diputados quienes ostentarán el mismo cargo.
+
+Artículo Quinto.- La Comisión de Gobierno Legislativo acordará lo conducente, para que las Unidades de Transparencia y Acceso a la Información, y la de Capacitación y Formación Permanente, operen en el presente ejercicio fiscal en los términos de la presente Ley.
