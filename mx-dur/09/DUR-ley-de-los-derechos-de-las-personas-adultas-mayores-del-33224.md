@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-las-personas-adultas-mayores-del-33224"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2003-06-15"
+last_updated: "2007-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -95,21 +95,49 @@ VII. Gerontología: Estudio científico sobre la vejez, desde el punto de vista 
 
 VIII. Tanatología: Estudios encaminados a procurar una muerte digna con cuidados, paliativos, biológicos, psicológicos y sociales;
 
-IX. Integración Social: Resultado de las acciones que realizan las dependencias y entidades de la administración pública estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-X. Atención integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, y productivas de las personas adultas mayores, para facilitarles una vejez plena y sana, se considerarán sus hábitos, capacidades funcionales, usos, costumbres y preferencias;
+IX. Integración Social: Conjunto de acciones y políticas que realizan las dependencias y entidades de la administración pública estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su bienestar, convivencia y desarrollo social;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+X. Atención Integral: Satisfacción de las necesidades físicas, materiales, biológicas, psicológicas, emocionales, sociales, laborales, culturales, recreativas y productivas de las personas adultas mayores, para facilitarles una vejez plena y sana, se considerarán sus hábitos, capacidades funcionales, usos, costumbres y preferencias;
 
 XI. Calidad del servicio: Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 
 XII. Consejo: Consejo Estatal para la Atención de las Personas Adultas Mayores;
 
-XIII. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los tramites administrativos, cuando tengan alguna discapacidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+
+XIII. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliarios y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos de personas adultas mayores, poniendo especial atención a aquéllas que tengan alguna discapacidad.
 
 Los gobiernos estatal y municipal, en el ámbito de sus respectivas competencias, promoverán condiciones de accesibilidad para los adultos mayores, tanto en el transporte público como en los espacios arquitectónicos;
 
-XIV. Información: Las instituciones públicas y privadas, que tengan a cargo programas sociales deberán proporcionar información y asesoría sobre las garantías consagradas en esta ley y sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XIV. Información: Las instituciones públicas y privadas, que tenga a cargo programas y acciones sociales deberán proporcionar la información y asesoría sobre las garantías consagradas en la Constitución Política Federal y Estatal, en esta Ley y sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores;
 
 XV. Registro: La Delegación del Instituto Nacional de las Personas Adultas Mayores, recabará la información necesaria del Instituto Nacional de Estadística, Geografía e Informática, para determinar la cobertura y características de los programas y beneficios dirigidos a las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVI. SEDESOE: A la Secretaría de Desarrollo Social del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVII. Desarrollo Social: Al proceso de mejoramiento de la calidad de vida de la sociedad, mediante la satisfacción de las necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVIII. Desarrollo Humano: Al proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XIX. DIF: Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XX. DIF Municipal: Sistema Municipal para el Desarrollo Integral de la Familia.
 
 ###### Artículo 4.
 
@@ -119,7 +147,9 @@ I. Autonomía y autorrealización. Todas las acciones que se realicen en benefic
 
 II. Participación. La inserción de los adultos mayores en todos los órdenes de la vida pública. En los ámbitos de su interés, serán consultados y tomados en cuenta; asimismo, se promoverá su presencia e intervención;
 
-III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción de sexo, situación económica, identidad, origen étnico, fenotipo, credo, religión o cualquier otra circunstancia;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y oportunidades de progreso, así como el disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción de sexo, situación económica, identidad, origen étnico, fenotipo, credo, religión o cualquier otra circunstancia;
 
 IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para lograr el objeto de esta Ley; y
 
@@ -127,33 +157,45 @@ V. Atención preferente: Es aquella que obliga a las instituciones federales, es
 
 ### CAPITULO II. DE LOS DERECHOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 5.
 
-Son derechos de las Personas Adultas Mayores, los conferidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los demás ordenamientos aplicables y los que expresamente señale esta ley.
+Son derechos de las Personas Adultas Mayores, los conferidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los demás ordenamientos vigentes y los que expresamente señale esta ley:
 
 I. Derecho a la Integridad, Dignidad y Preferencia.- A una vida con calidad; a la protección contra toda forma de explotación; a vivir en entornos seguros, dignos y decorosos, que satisfagan sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
 
 II. Derecho a la Certeza Jurídica.- A recibir un trato digno y apropiado en cualquier procedimiento judicial que los involucre; a recibir el apoyo de las instituciones federales, estatales y municipales en el ejercicio y respeto de sus derechos; a recibir asesoría jurídica en forma gratuita en los procedimientos administrativos o judiciales en que sea parte y contar con un representante legal cuando sea necesario.
 
-En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
-III. Derechos en la Comunidad y la Familia.- A mantener relaciones laborales y personales con la comunidad; a vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses; y a expresar sus opiniones libremente.
+En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar y a testar libremente;
 
-Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-El Gobierno del Estado y los ayuntamientos, a través de los Sistemas para el Desarrollo Integral de la Familia, deberán tomar las medidas de prevención o provisión para que la familia participe en la atención de las Personas Adultas Mayores;
+III. Derechos en la Comunidad y la Familia.- A mantener relaciones laborales y personales sanas con la comunidad; a vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses; y a expresar sus opiniones libremente.
+
+Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores, cuando éstos efectivamente vivan con ellas o cuando dependan económicamente de éstas.
+
+El Gobierno del Estado por conducto del DIF y la SEDESOE, y los municipios, a través de los DIF municipales, deberán tomar las medidas de prevención o provisión para que la familia participe en la atención de las Personas Adultas Mayores;
 
 IV. Derechos a la Salud y a la Alimentación.- A tener acceso a los satisfactores necesarios considerando alimentos, bienes, servicios y condiciones humanas ó materiales para su atención integral; a tener acceso preferente a los servicios generales de salud; a recibir orientación y capacitación en materia de salud, nutrición, higiene y servicios de tanatología, en su caso, así como a todo aquello que favorezca su cuidado personal;
 
 V. Derecho a la Educación.- A recibir de manera preferente la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y el artículo 4° de la Constitución Política del Estado Libre y Soberano de Durango; a participar en las actividades académicas como instructor o docente, con derecho a recibir una remuneración; a participar en la vida cultural, deportiva y recreativa de su comunidad, a recibir de las instituciones educativas, públicas y privadas, conocimientos relacionados con las personas adultas mayores;
 
-VI. Derecho al Trabajo.- Tener acceso a capacitación que les permita desarrollar una actividad o la prestación de un servicio, de acuerdo a su condición de salud, capacidades, habilidades y aptitudes.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-Así mismo tendrán derecho a recibir información referente a los derechos laborales contemplados en la Ley Federal del Trabajo y demás ordenamientos legales aplicables;
+VI. Derecho al Trabajo.- Tener acceso a capacitación que les permita desarrollar una actividad o la prestación de un servicio; de acuerdo a su condición de salud, capacidades habilidades y aptitudes, pudiendo desarrollarlas libremente.
 
-VII. Derecho a la Asistencia Social.- A ser sujetos de programas de asistencia que les permitan una atención integral; y
+VII. Derecho a la Asistencia Social.- A ser sujetos de programas de asistencia que les permitan una atención integral; y (sic)
 
-VIII. Derecho a la Libertad de Participación y Expresión.- A participar en la planeación integral del desarrollo social, tanto en los programas como en las acciones relativas a las personas adultas mayores; y el de asociarse y conformar organizaciones de y para personas adultas mayores con la finalidad de promover su desarrollo e incidir en las acciones dirigidas a este sector; y a formar parte de los diversos órganos de representación y consulta ciudadana.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VIII. Derecho a la Libertad de Participación y Expresión.- A participar en la planeación integral del desarrollo social y humano, especialmente en los programas y acciones relativas a las personas adultas mayores; y el de asociarse y conformar organizaciones de y para personas adultas mayores con la finalidad de promover su desarrollo e incidir en las acciones dirigidas a este sector; y a formar parte de los diversos órganos de representación y consulta ciudadana; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+IX. Derecho al desarrollo social y humano.- A ser sujetos y beneficiarios de los programas y acciones que contribuyan al mejoramiento de la calidad de vida, mediante la satisfacción de necesidades básicas y mediante la generación, fomento y fortalecimiento de oportunidades y posibilidades para que los adultos mayores desplieguen sus capacidades y potencialidades humanas para el logro de su realización personal y social.
 
 ### CAPITULO III. DE LA POLÍTICA PÚBLICA A FAVOR DE LAS PERSONAS ADULTAS MAYORES
 
@@ -161,7 +203,9 @@ VIII. Derecho a la Libertad de Participación y Expresión.- A participar en la 
 
 La política pública estatal a favor de las personas adultas mayores atenderá los siguientes objetivos:
 
-I. Propiciar las condiciones para el bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+I. Propiciar las condiciones para el bienestar y mejoramiento físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y la sociedad, incrementando su autoestima y preservando su dignidad como ser humano;
 
 II. Garantizar el pleno ejercicio de sus derechos;
 
@@ -183,7 +227,9 @@ X. Fomentar la permanencia, cuando así lo deseen, en su núcleo familiar y comu
 
 XI. Propiciar formas de organización y participación, que permitan aprovechar su experiencia y conocimientos;
 
-XII. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las personas adultas mayores y garantizar la asistencia social para todas aquellas que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XII. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las personas adultas mayores y garantizar la asistencia y desarrollo social para todas aquéllas que por circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
 
 XIII. Establecer las bases para la asignación de beneficios sociales, descuentos y exenciones para ese sector de la población de conformidad con las disposiciones jurídicas aplicables;
 
@@ -283,6 +329,40 @@ VI. Realizar campanas para difundir los derechos de las personas adultas mayores
 
 VII. Las demás que le señalen otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, P. O. 6 DE MAYO DE 2007)</small>
+
+###### Artículo 12 Bis.
+
+Corresponde a la SEDESOE:
+
+I. Procurar a las personas adultas mayores su integración social, mediante programas y acciones para crear y difundir entre las familias, la sociedad civil organizada, el sector público y la población en general, la cultura de dignificación, respeto y su inserción de manera plena a la sociedad;
+
+II. Promover programas y acciones que contribuyan al mejoramiento de la calidad de vida de las personas adultas mayores;
+
+III. Promover programas y acciones que generen, fomenten y fortalezcan las oportunidades y posibilidades de las personas adultas mayores para desplegar sus capacidades, potencialidades y habilidades, para el logro de su realización personal y social;
+
+IV. Instrumentar y fortalecer en coordinación con el DIF y con las Instituciones públicas y privadas los programas y acciones de desarrollo social y humano dirigidas a las personas adultas mayores;
+
+V. Establecer mecanismos de coordinación con las dependencias y entidades federales, estatales y municipales que corresponda, para la concertación de programas y acciones que garanticen el desarrollo integral de las personas adultas mayores;
+
+VI. Brindar atención, en materia de desarrollo social, a las personas adultas mayores con el propósito de que disminuya su situación de vulnerabilidad, a través de acciones que incidan en el mejoramiento de sus condiciones básicas de bienestar;
+
+VII. Promover acciones para el mejoramiento de su entorno social, a través de la sensibilización de quienes rodean a las personas adultas mayores;
+
+VIII. Establecer y promover en coordinación con las dependencias y entidades, federales, estatales y municipales correspondientes y con los sectores social y privado las acciones que tiendan a mejorar la calidad alimentaria de las personas adultas mayores;
+
+IX. Promover programas en materia de vivienda que permitan la identificación de las personas adultas mayores que no cuentan con vivienda digna y las acciones de inversión necesarias para su atención;
+
+X. Propiciar las condiciones necesarias para que las personas adultas mayores en la medida de su capacidad, cuenten con un trabajo digno que les permita un ingreso propio;
+
+XI. Instrumentar programas y acciones de capacitación de las personas adultas mayores para el desarrollo de proyectos productivos;
+
+XII. Impulsar el establecimiento de círculos gerontológico, en donde se desarrollen actividades acordes a la gerontología comunitaria;
+
+XIII. Establecer programas y acciones que fomenten el envejecimiento activo; y
+
+XIV. Generar estrategias de participación de las familias de los adultos mayores y de la sociedad civil en general, que faciliten la integración e incorporación social de las personas adultas mayores.
+
 ### CAPITULO V. DE LAS OBLIGACIONES DE LA SOCIEDAD Y LA FAMILIA
 
 ###### Artículo 13.
@@ -293,7 +373,9 @@ I. Otorgar alimentos de conformidad con lo establecido en la legislación aplica
 
 II. Fomentar la convivencia familiar cotidiana, donde las personas adultas mayores participen activamente y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y apoyo;
 
-III. Evitar que sus integrantes cometan cualquier acto de discriminación, abuso, explotación, aislamiento, violencia entre otras; así como actos jurídicos que pongan en riesgo la persona, bienes y derechos; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+III. Evitar que sus integrantes cometan cualquier acto de discriminación, abuso, explotación, aislamiento, violencia entre otras; así como actos jurídicos que pongan en riesgo la persona, bienes y derechos de las personas adultas mayores; y
 
 IV. Vigilar que los trabajos o actividades que realicen las personas adultas mayores no impliquen un esfuerzo superior a las condiciones de su salud física y mental.
 
@@ -319,9 +401,15 @@ III. Brindar facilidades a las asociaciones civiles cuya finalidad sea atender a
 
 IV. Otorgar preseas, becas y estímulos en numeraria o especie a los adultos mayores que hayan destacado en las áreas laboral, científica, técnica, escolar, deportiva o de cualquier otra índole;
 
-V. A través del Sistema para el Desarrollo Integral de la Familia, en coordinación con los municipios y las instituciones privadas y sociales creará, promoverá y dará seguimiento a los programa (sic) y acciones de atención, prevención y control de los casos de violencia intrafamiliar en que se involucren las personas adultas mayores, conforme lo dispone la Ley para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar y otros ordenamientos legales aplicables; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-VI. Las demás que resulten de la aplicación de la presente ley, de la legislación sanitaria, asistencial, y demás ordenamientos legales y reglamentarios aplicables.
+V. A través del DIF en coordinación con el SEDESOE, los municipios y las instituciones privadas y sociales creará, promoverá y dará seguimiento a los programas y acciones de atención, prevención y control de los casos de violencia intrafamiliar en que se involucren las personas adultas mayores, conforme lo dispone la Ley para la Asistencia, Atención y Prevención de la Violencia Intrafamiliar y otros ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VI. A través de la SEDESOE, en coordinación con los municipios implementará programas y acciones de desarrollo social y humano para las personas adultas mayores; y
+
+VII. Las demás que resulten de la aplicación de la presente ley, de la legislación sanitaria, asistencial, y demás ordenamientos legales y reglamentos aplicables.
 
 ###### Artículo 17.
 
@@ -349,9 +437,13 @@ El Ejecutivo del Estado constituirá un Organismo Interinstitucional de la admin
 
 El Consejo tendrá las siguientes funciones:
 
-I. Propiciar la colaboración y participación de instituciones públicas y privadas en el programa estatal para la integración social de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-II. Proponer la realización de estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
+I. Elaborar el Programa Estatal para las personas adultas mayores en concordancia con el Plan Estatal de Desarrollo y el Programa Nacional en la materia, propiciando la colaboración y participación de instituciones públicas, privadas y sociales en su instrumentación;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+II. Proponer la realización de estudios que contribuyan a mejorar la planeación, programación e instrumentación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
 
 III. Participar en la evaluación de programas para la población de personas adultas mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución;
 
@@ -369,9 +461,13 @@ IX. Recibir, canalizar y dar seguimiento a las quejas y propuestas sobre la aten
 
 X. Las demás que resulten de este y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 20.
 
-El Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado, será la Institución articuladora del Consejo, sujetándose en todo tiempo a la presente Ley y a su reglamento.
+El DIF estatal y la SEDESOE, serán las instituciones articuladoras del Consejo, sujetándose en todo tiempo a la presente Ley y a su reglamento.
+
+El DIF Estatal será la institución encargada del ejercicio y aplicación de los recursos respecto de los programas que tengan bajo su responsabilidad.
 
 ###### Artículo 21.
 
@@ -381,31 +477,81 @@ I. Un Presidente, que será el titular del Poder Ejecutivo en el Estado;
 
 II. Un Vicepresidente, que será la Presidenta del Patronato del Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado, o en su caso quien designe el Titular del Ejecutivo en el Estado;
 
-III. Un Secretario General, que será el Director General del Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado;IV. Un Secretario Técnico, que será el designado por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-V. Dos miembros de la Comisión de Atención a Personas Discapacitadas, Enfermos Terminales y de la Tercera Edad del Congreso del Estado;
+III. Un Secretario General, que será el Secretario de SEDESOE;
 
-VI. Un Coordinador Estatal, que será designado por el Gobernador del Estado, quien deberá ser una persona adulta mayor;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-VII. Cinco Vocales, propuestos por las organizaciones de y para las personas adultas mayores;
+IV. Un Secretario Ejecutivo, que será el Director del DIF;
 
-VIII. Los titulares de las dependencias del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-IX. Delegaciones y organismos descentralizados del Gobierno Federal;
+V. Un Secretario Técnico, que será el designado por el Gobernador del Estado;
 
-X. Los Presidentes Municipales;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XI. Sistemas Municipales para el Desarrollo Integral de la Familia; y
+VI. Dos miembros de la Comisión Legislativa del Congreso del Estado competente en los asuntos relativos a la atención de las personas adultas mayores;
 
-XII. Los Consejos Municipales para la Atención de las Personas Adultas Mayores.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VII. Un coordinador Estatal, que será designado por el Gobernador del Estado quien deberá ser una persona adulta mayor;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VIII. Vocales:
+
+a. Dos personas propuestas por las organizaciones sociales de y para las personas adultas mayores;
+
+b. Los Titulares de las siguientes dependencias del Gobierno del Estado:
+
+-Secretaría General de Gobierno;
+
+-Secretaría de Finanzas y Administración;
+
+-Secretaría de Comunicaciones y Obras Públicas;
+
+-Secretaría de Desarrollo Económico;
+
+-Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+
+-Secretaría de Salud;
+
+-Secretaría de Educación;
+
+-Secretaría de Seguridad Pública; y
+
+-Procuraduría General de Justicia del Estado.
+
+c. Un representante de las siguientes dependencias y entidades federales:
+
+-Secretaría de Desarrollo Social;
+
+-Secretaría de Economía;
+
+-Secretaría de Trabajo y Previsión Social; e
+
+-Institución Nacional en materia de atención a personas adultas mayores.
+
+d. 5 representantes de los consejos municipales para la atención de las personas adultas mayores de las localidades centrales de cada una de las regiones del Estado: Norte (localidad central Municipio de El Oro), Sur (localidad central Municipio de Pueblo Nuevo), Noroeste (localidad Central Santiago Papasquiaro), Laguna (localidad central Municipio de Gómez Palacio) y Centro, (localidad central Municipio de Durango).;
+
+IX.- (DEROGADA, P.O. 6 DE MAYO DE 2007)
+
+X.- (DEROGADA, P.O. 6 DE MAYO DE 2007)
+
+XI.- (DEROGADA, P.O. 6 DE MAYO DE 2007)
+
+XII.- (DEROGADA, P.O. 6 DE MAYO DE 2007)
 
 El Consejo podrá formar los comités que estime pertinentes para el oportuno y eficaz cumplimiento de sus funciones.
 
 ### CAPITULO VIII. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 22.
 
-Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención, con el apoyo del Sistema para el Desarrollo Integral de la Familia. El cual al tener conocimiento de las personas adultas mayores indigentes, impedidas o abandonadas, podrá canalizarlos a los centros de asistencia pública o privada.
+Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención, con el apoyo de los DIF Estatal y municipales y/o de la SEDESOE, los cuales al tener conocimiento de las personas adultas mayores indigentes, impedidas o abandonadas, podrá canalizarlos a los centros de asistencia pública o privada.
 
 ###### Artículo 23.
 
@@ -488,3 +634,11 @@ LIC. ANGEL SERGIO GUERRERO MIER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MAYO DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
