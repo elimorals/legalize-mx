@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2001-12-23"
+last_updated: "2007-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL PARA LA INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -117,9 +117,11 @@ XXIII. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia,
 
 XXIV. Ley.- A la Ley Estatal para la Integración Social de las Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 3.
 
-Corresponde al Ejecutivo del Estado, a través de sus dependencias la aplicación de la presente Ley.
+Corresponde al Ejecutivo del Estado, a través de sus dependencias y entidades, la aplicación de la presente Ley.
 
 ###### Artículo 4.
 
@@ -133,39 +135,83 @@ III. Secretaría de Finanzas y de Administración;
 
 IV. Secretaría de Educación;
 
-V. Secretaría de Desarrollo Industrial, Comercial y Minero;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-VI. Secretaría de Comunicaciones y Obras Públicas del Estado;
+V. Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VI. Secretaría de Comunicaciones y Obras Públicas;
 
 VII. Secretaría de Salud;
 
-VIII. Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-IX. Procuraduría General de Justicia del Estado;
+VIII. Secretaría de Desarrollo Social;
 
-X. Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XI. Los Ayuntamientos Municipales;
+IX. Tribunal Superior de Justicia del Estado;
 
-XII. Sistemas Municipales DIF;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XIII. Instituto de la Cultura del Estado de Durango;
+X. Procuraduría General de Justicia del Estado;
 
-XIV. Comité de Planeación para el Desarrollo del Estado;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XV. Dirección de Trabajo y Previsión Social;
+XI. Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XVI. Dirección de Transportes del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XVII. Comisión Estatal de Derechos Humanos;
+XII. Los Ayuntamientos Municipales;
 
-XVIII. Dirección de Turismo y Cinematografía;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XIX. Junta Local de Conciliación y Arbitraje;
+XIII. Sistemas Municipales DIF;
 
-XX. Comisiones Municipales Coordinadoras; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-XXI. Delegaciones, Dependencias y Organismos Descentralizados y cualquier otra autoridad del Gobierno Federal, quienes coadyuvarán en la medida que lo permita su normatividad.
+XIV. Instituto de la Cultura del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XV. Comité de Planeación para el Desarrollo del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVI. Dirección de Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVII. Dirección de Transportes del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XVIII. Comisión Estatal de Derechos Humanos del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XIX. Dirección de Turismo y Cinematografía;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XX. Junta Local de Conciliación y Arbitraje;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XXI. Comisiones Municipales Coordinadoras;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XXII. Instituto Estatal del Deporte;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XXIII. Instituto de Desarrollo Urbano; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XXIV. Delegaciones, Dependencias, Entidades y cualquier otra autoridad del Gobierno Federal, quienes coadyuvarán en la medida que lo permita su normatividad.
 
 ###### Artículo 5.
 
@@ -239,7 +285,9 @@ p).- Reconocimiento, difusión, enseñanza y utilización del lenguaje de señas
 
 q).- Integración de la mujer con discapacidad y apoyos a madres solteras con discapacidad.
 
-VI. Crear la Comisión Estatal Coordinadora para el Desarrollo e Integración Social de las Personas con Discapacidad, cuyo objetivo será el de un organismo articulador de los esfuerzos y compromisos de las organizaciones sociales y de instituciones públicas y privadas para dar fuerza, integralidad y coherencia a las actividades y programas que se lleven a cabo en el Estado en los ámbitos político, social y económico; orientando dichas acciones en el marco de una amplia coordinación y concertación intersectorial;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+VI. Crear la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad, cuyo objeto es articular los esfuerzos y compromisos de las organizaciones sociales y de las instituciones públicas y privadas. Esta Comisión podrá llevar a cabo convenios de colaboración y coordinación con los municipios, para fortalecer las actividades y programas que se lleven a cabo en el Estado en los ámbitos político, social y económico; orientando dichas acciones en el marco de una amplia coordinación y concertación interinstitucional;
 
 VII. Establecer el Sistema Estatal de Registro e Identificación de Personas con Discapacidad, el cual consistirá en un padrón cuyo objetivo será la planeación, diseño y aplicación de políticas públicas y programas para atender los distintos tipos de discapacidades, y emitir con base a éste, un documento oficial con fotografía expedido por la Comisión Estatal Coordinadora que certifique la discapacidad del portador del mismo;
 
@@ -257,7 +305,9 @@ XIII. Coordinar y concertar la participación de los sectores público, social y
 
 XIV. Fomentar e impulsar las actividades deportivas culturales y recreativas, así como promover la creación y asignación de becas que apoyen, motiven y estimulen a las personas con discapacidad y sus organizaciones en su incorporación a estas actividades;
 
-XV. lnstituir anualmente el Premio Estatal de Reconocimiento a: Personas con Discapacidad que hayan destacado por la superación de su discapacidad, ejemplo de valor, fortaleza, tenacidad y compromiso con la sociedad; a Instituciones, Organismo, Asociaciones y Personas Morales cuyas actividades en favor de la población con discapacidad se distingan por su alto espíritu de servicio, solidaridad, protección, apoyo y defensa a sus derechos; y
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XV. Instituir anualmente el Premio Estatal de Reconocimiento a: Personas con Discapacidad que hayan destacado por la superación de su discapacidad, ejemplo de valor, fortaleza, tenacidad y compromiso con la sociedad; a instituciones, organismos, asociaciones y personas morales cuyas actividades a favor de la población con discapacidad se distingan por su alto espíritu de servicio, solidaridad, protección, apoyo y defensa a sus derechos y a persona física que sin tener una discapacidad haya realizado acciones transcendentales que beneficien a personas con discapacidad, quedando excluidas aquellas personas físicas que ostenten un cargo público; y
 
 XVI. Las demás que el Ejecutivo Estatal considere necesarias.
 
@@ -281,13 +331,21 @@ La Comisión Estatal Coordinadora articulará las acciones que realizan diversas
 
 EL DIF Estatal será la Institución articuladora de la Comisión Estatal Coordinadora, sujetándose en todo tiempo a la presente Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 12.
 
-La Comisión Estatal Coordinadora a través de la Coordinación Estatal de Integración Social:
+La Comisión Estatal Coordinadora a través de su Coordinación:
 
 I. Promoverá la conformación de grupos de auto ayuda, asociaciones y organizaciones de y para personas con discapacidad;
 
-II. Recibirá, canalizará y dará seguimiento a las quejas y sugerencias sobre la atención y trato de las autoridades, instituciones, organismos y empresas privadas a las personas con discapacidad.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+II. Recibirá, canalizará y dará seguimiento a las quejas y sugerencias sobre la atención y trato de los servidores públicos, instituciones, organismos y empresas privadas a las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2007)</small>
+
+III. Coordinará las acciones del Programa Anual para Personas con Discapacidad.
 
 ###### Artículo 13.
 
@@ -323,7 +381,13 @@ f).- Comunicación;
 
 g).- Legislación y derechos humanos;
 
-h).- Sistema Estatal de Registro e Identificación de Personas con Discapacidad.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
+h) Sistema Estatal de Registro e Identificación de personas con discapacidad; e
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2007)</small>
+
+i) Desarrollo Social.
 
 IX. Comités Especializados de apoyo a las subcomisiones, en las siguientes áreas específicas de atención:
 
@@ -347,7 +411,9 @@ XII. Los titulares de las dependencias del Gobierno del Estado;
 
 XIII. Sistemas municipales DIF;
 
-XIV. Delegaciones y organismos descentralizados del Gobierno Federal;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+XIV. Delegaciones y entidades del Gobierno Federal;
 
 XV. Los Ayuntamientos municipales del estado; y
 
@@ -469,17 +535,23 @@ XI. La Secretaría de Educación podrá establecer convenios con instituciones y
 
 Del Empleo y la Capacitación.
 
-Artículo 26 (sic).- El Ejecutivo del Estado en coordinación con la Dirección del Trabajo y Previsión Social, el Servicio Estatal de Empleo y DIF Estatal, formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad al empleo, capacitación y readaptación laboral, considerando las siguientes acciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+
+Artículo 26 (sic).- El Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Económico y de Desarrollo Social, en coordinación con la Dirección del Trabajo y Previsión Social, el Servicio Estatal de Empleo y DIF Estatal, formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad al empleo, capacitación y readaptación laboral, considerando las siguientes acciones:
 
 I. Incorporar a personas con discapacidad al sistema ordinario de trabajo, o en su caso, de acuerdo a su tipo y grado de discapacidad su incorporación a la modalidad de trabajo protegido, en condiciones salubres, dignas y de mínimo riesgo, a su integridad física;
 
 II. Promover el autoempleo, particularmente en los casos en que la persona con discapacidad no pueda trasladarse a un empleo distante, considerando que en cada caso en particular se cuente con elementos mínimos de viabilidad que permitan la incorporación de la persona con discapacidad a esta modalidad de empleo;
 
-III. Ofrecer asesoría técnica a los sectores empresarial y comercial con materia de personas con discapacidad;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
-IV. Permitir la incorporación de personas con discapacidad en la Administración Pública Estatal;
+III. Ofrecer asesoría técnica a los sectores empresarial y comercial en materia de personas con discapacidad;
 
-Definir mecanismos de financiamiento subsidio o coinversión para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones de y para personas con discapacidad;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+IV. Impulsar la incorporación de personas con discapacidad en los tres poderes del Estado, en los Ayuntamientos y en el sector privado;
+
+V. Definir mecanismos de financiamiento subsidio o coinversión para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones de y para personas con discapacidad;
 
 VI. Propiciar medidas adecuadas de readaptación profesional, al alcance de todas las categorías de personas con discapacidad; y
 
@@ -495,7 +567,9 @@ Artículo 24 (sic).- El Ejecutivo Estatal a través de la Secretaría de Educaci
 
 La Secretaría de Educación establecerá acciones para:
 
-I. Admitir y atender a menores con discapacidad en los centros de desarrollo infantil y guarderías públicas;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
+I. Admitir y atender a menores con discapacidad en los centros de desarrollo infantil y estancias públicas o privadas;
 
 II. Implementar actividades y programas educativos y de capacitación para adultos, que por su tipo y grado de discapacidad no puedan incorporarse a otros sistemas regulares;
 
@@ -513,7 +587,9 @@ VIII. La oportunidad, adecuada canalización y atención de los menores con disc
 
 IX. Que las bibliotecas públicas cuenten con áreas adecuadas y equipamiento apropiado para las personas con discapacidad.
 
-Artículo 27 (sic).- El Ejecutivo del Estado en coordinación con las autoridades educativas y laborales, formulará, aplicará, revisará, evaluará y replanteará periódicamente la política estatal sobre la readaptación profesional, la capacitación y el empleo de las personas con discapacidad.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
+Artículo 27 (sic).- El Ejecutivo del Estado, en coordinación con las autoridades educativas, laborales y sociales, formulará, aplicará, revisará, evaluará y replanteará periódicamente la política estatal sobre la readaptación profesional, la capacitación y el empleo de las personas con discapacidad.
 
 ###### Artículo 28.
 
@@ -539,13 +615,17 @@ Los organismos, consejos y cámaras empresariales deberán apoyar activamente la
 
 Las Organizaciones de trabajadores y los patrones deben coadyuvar, y cooperar para asegurar a las personas con discapacidad, condiciones equitativas en materia de políticas de contratación y ascenso, tasas de numeración y condiciones de empleo.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado y Direcciones de Obras Públicas Municipales apoyarán a las empresas, microempresas y patrones de toda índole que contraten a personas con discapacidad, con asesoría en el diseño y adaptación de lugares y locales de trabajo accesibles a las personas con discapacidad.
+La Secretaría de Desarrollo Social y la Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado y Direcciones de Obras Públicas Municipales apoyarán a las empresas, microempresas y patrones de toda índole que contraten a personas con discapacidad, con asesoría en el diseño y adaptación de lugares y locales de trabajo accesibles a las personas con discapacidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Desarrollo Económico, Industrial, Comercial y Minero, El DIF Estatal, la Dirección de Trabajo y Previsión Social y el Servicio Estatal del Empleo formularán programas y acciones de:
+La Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, el DIF Estatal, la Dirección de Trabajo y Previsión Social y el Servicio Estatal del Empleo formularán programas y acciones de:
 
 I. Evaluación y desarrollo de aptitudes, habilidades y destrezas para el trabajo de personas con discapacidad;
 
@@ -561,9 +641,11 @@ El DIF Estatal en coordinación con la Dirección de Trabajo y Previsión Social
 
 De la Cultura, la Recreación y el Deporte.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 37.
 
-El Ejecutivo Estatal en coordinación con las autoridades competentes vigilará, formulará y aplicará las acciones necesarias para que las personas con discapacidad se integren y puedan participar en las actividades culturales en condiciones de igualdad.
+El Ejecutivo Estatal por conducto de los Institutos de Cultura y del Deporte del Estado y otras autoridades competentes en la materia, vigilará formulará y aplicará las acciones necesarias para que las personas con discapacidad se integren y puedan participar en las actividades culturales y deportivas en condiciones de igualdad.
 
 ###### Artículo 38.
 
@@ -585,9 +667,11 @@ El Instituto de Cultura del Estado de Durango y las Direcciones Municipales de A
 
 La Dirección de Turismo y Cinematografía formulará y aplicará programas turísticos que incluyan facilidades de acceso y descuentos para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 43.
 
-La Secretaría de Educación por conducto del Instituto Estatal del Deporte en coordinación con las autoridades competentes, formulará y aplicará las acciones que otorguen las facilidades administrativas y los apoyos técnicos y humanos requeridos para la práctica de actividades deportivas de las personas con discapacidad, que incluyan el otorgamiento de becas deportivas.
+La Secretaría de Educación y el Instituto Estatal del Deporte en coordinación con las autoridades competentes, formularán y aplicarán las acciones que otorguen las facilidades administrativas y los apoyos técnicos y humanos requeridos para la práctica de actividades deportivas de las personas con discapacidad, que incluyan el otorgamiento de becas deportivas.
 
 ###### Artículo 44.
 
@@ -617,9 +701,11 @@ III. Apoyar y promover el desarrollo y la integración social de la mujer y madr
 
 IV. Difundir los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 48.
 
-El Tribunal Superior de Justicia del Estado, la Procuraduría General de Justicia del Estado, la Comisión Estatal de Derechos Humanos, las Direcciones Municipales de Protección Ciudadana y la dirección de Asistencia Jurídica y Procuraduría de la Defensa del Menor, la Mujer y la Familia de DIF Estatal formularán y establecerán programas de capacitación al personal adscrito a estas dependencias; e independientemente, conformarán en el marco de la Comisión Estatal Coordinadora un cuerpo de especialistas que asistan, orienten y defiendan a las personas con discapacidad, a fin de garantizar la promoción y defensa de sus derechos, y velar porque se respeten los mismos, promoviendo entre la comunidad una cultura de respeto, dignidad y tolerancia a favor de las personas con discapacidad.
+El Tribunal Superior de Justicia del Estado, la Procuraduría General de Justicia del Estado, la Comisión Estatal de Derechos Humanos, las Direcciones Municipales de Protección Ciudadana, la Dirección de Asistencia Jurídica, Procuraduría de la Defensa del Menor, la Mujer y la Familia de DIF Estatal y la Secretaría de Desarrollo Social, formularán y establecerán programas de capacitación al personal adscrito a estas dependencias; e independientemente, conformarán en el marco de la Comisión Estatal Coordinadora un cuerpo de especialistas que asistan, orienten y defiendan a las personas con discapacidad, a fin de garantizar la promoción y defensa de sus derechos, y velar porque se respeten los mismos, promoviendo entre la comunidad una cultura de respeto, dignidad y tolerancia a favor de las personas con discapacidad.
 
 ###### Artículo 49.
 
@@ -633,9 +719,11 @@ El DIF Estatal, la Comisión Estatal de Derechos Humanos y la Procuraduría Gene
 
 Las personas con discapacidad deben tener el mismo acceso que las demás a los métodos de planificación familiar, así como a la Información accesible sobre el funcionamiento sexual de su cuerpo.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 52.
 
-Las autoridades estatales y municipales deberán distribuir información actualizada acerca de los programas y servicios disponibles para las personas con discapacidad, sus familias, los profesionales que trabajan o participan en esta esfera y el público en general. La información para las personas con discapacidad deberá presentarse en forma accesible.
+Las autoridades estatales y municipales, los profesionales que trabajan o participan en el ámbito de la discapacidad y el público en general, deberán distribuir información actualizada acerca de los programas y servicios disponibles para las personas con discapacidad. Esta información deberá presentarse en forma accesible, tomando en cuenta el tipo de discapacidad que presenta.
 
 ###### Artículo 53.
 
@@ -653,9 +741,11 @@ De las Facilidades Arquitectónicas, Acceso al Medio Físico y Desarrollo Urbano
 
 El Ejecutivo Estatal y los presidentes municipales determinarán a través de las autoridades competentes, la adecuación de las instalaciones del Gobierno estatal y los gobiernos municipales, destinadas a brindar servicios de salud, educación, administración y procuración de justicia, actividades deportivas, culturales, recreativas o sociales, las que deberán contar con las facilidades de accesibilidad y señalización necesarias a fin de facilitar el libre tránsito, desplazamiento y uso seguro de estos espacios por las personas con discapacidad.
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 56.
 
-La Secretaría de Comunicaciones y Obras Públicas del Gobierno Estado y las direcciones municipales de Desarrollo Urbano, vigilarán que las construcciones o modificaciones públicas y privadas que se realicen, cuenten con las facilidades arquitectónicas y de desarrollo urbano, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+La Secretaría de Comunicaciones y Obras Públicas, el Instituto de Desarrollo Urbano del Gobierno del Estado y las direcciones municipales de desarrollo urbano, vigilarán que las construcciones o modificaciones públicas y privadas que se realicen, cuenten con las facilidades arquitectónicas y de desarrollo urbano, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
 
 ###### Artículo 57.
 
@@ -677,17 +767,21 @@ En los auditorios, cines, teatros, salas de conciertos y de conferencias, centro
 
 Los Ayuntamientos, al expedir la autorización a las empresas del ramo de la telefonía y la comunicación pública y privada, para colocar teléfonos públicos en terrenos de su jurisdicción así como en clínicas, hospitales, restaurantes, centros comerciales y demás establecimientos que presten servicios al público, les solicitarán instalar un porcentaje de dos a uno de éstos a una altura adecuada para poder ser utilizados por personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ### Capítulo IX
 
 Del Libre Desplazamiento y el Transporte.
 
 ###### Artículo 62.
 
-El Instituto de la Vivienda del Estado, instrumentará acciones para que en sus programas se incluya la construcción de vivienda digna para personas con discapacidad, facilidades para el otorgamiento de créditos para vivienda y programas para adaptación. La vivienda para personas con discapacidad deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
+La Secretaría de Desarrollo Social, a través del Instituto de la Vivienda del Estado de Durango, instrumentará acciones para que en sus programas se incluya la construcción de vivienda digna para personas con discapacidad, facilidades para el otorgamiento de créditos para vivienda, y los programas para adaptación. La vivienda para personas con discapacidad deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
 
 ### Capítulo X
 
-De la Vigilancia.
+Desarrollo Social y Humano.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 63.
 
@@ -759,73 +853,105 @@ Las direcciones municipales de vialidad o sus equivalentes, expedirán permisos 
 
 A la persona que haga uso indebido o abuso de las placas de identificación y/o de los permisos temporales para las personas con discapacidad, se le sancionará siempre y cuando se les compruebe fehacientemente tal infracción.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### Artículo 72.
 
-Los cajones para personas con discapacidad podrán ser usados por vehículos que no cuenten con identificación, siempre y cuando trasladen a personas con discapacidad únicamente para el ascenso y descenso. En el caso de que se compruebe fehacientemente que se hizo uso indebido se impondrá la sanción correspondiente.
+Los cajones de estacionamiento destinados a personas con discapacidad podrán ser utilizados por vehículos con placas de discapacidad y/o permiso temporal, siempre y cuando estos trasladen en ese momento a la persona con discapacidad, ya que es quien directamente debe recibir el beneficio. Así mismo estos cajones podrán ser usados por vehículos que no cuenten con la identificación antes citada, exclusivamente para ascenso y descenso de personas con discapacidad. En el caso de que se compruebe fehacientemente que se hizo uso indebido se impondrá la sanción correspondiente. Los citados cajones no tendrán carácter de exclusividad para determinada persona con discapacidad y podrán ser usados por cualquier vehículo que porte la placa respectiva.
 
 ###### Artículo 73.
 
 Los vehículos que usen los cajones u obstruyan rampas, serán retirados por la autoridad correspondiente, con el fin de salvaguardar el derecho de las personas con discapacidad a usar esos espacios.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
+
 ### Capítulo XI
 
-De las Sanciones.
+De la Vigilancia.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 74.
 
-El Ejecutivo Estatal vigilará y supervisará a través de la Comisión Estatal Coordinadora, que las autoridades competentes en el Estado, impongan las sanciones que procedan por la comisión de las infracciones previstas en esta Ley y las dispuestas en otros ordenamientos legales vigentes en el Estado.
+El Ejecutivo Estatal a través de la Secretaría de Desarrollo Social, incidirá positivamente en el nivel de la calidad de vida de las personas con discapacidad a través de programas que los prevean de satisfactores básicos y promuevan su autosuficiencia.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ### Capítulo XII
 
-Del Procedimiento Administrativo.
+De las Sanciones.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 75.
 
-Las violaciones a lo establecido por la presente Ley, su reglamento, demás disposiciones que de ellas emanen y las dispuestas por otras leyes y reglamentos en el Estado, serán sancionadas por la autoridad estatal o municipal que corresponda.
+La Secretaría de Desarrollo Social establecerá acciones para:
+
+I. Apoyar y promover el desarrollo de programas que posibiliten el desarrollo de las personas con discapacidad;
+
+II. Implementar cursos de capacitación para las personas con discapacidad en las actividades que realicen;
+
+III. Establecer programas de desarrollo humano para las personas con discapacidad y sus familiares;
+
+IV. Disminuir las barreras físicas y arquitectónicas que impidan el libre acceso de las personas con discapacidad, a través de la adaptación de sus viviendas y los espacios públicos;
+
+V. Promover una cultura de inclusión, y comprensión para las personas con discapacidad;
+
+VI. Apoyar y promover la cultura de productividad entre los grupos de personas con discapacidad, a través de apoyos a proyectos productivos;
+
+VII. Implementar el sistema de información de personas con discapacidad, que nos permita localizar e identificar a estos grupos, para integrar un diagnóstico puntual, a partir del cual, se elaboran propuestas de política pública;
+
+VIII. Concertar acciones con instituciones públicas y privadas para adquirir apoyos para los proyectos de los grupos de personas con discapacidad; y
+
+IX. Promover criterios de género en la implementación de políticas para personas con discapacidad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 76.
 
-Para los efectos de la presente Ley, las sanciones se aplicarán conforme a lo siguiente:
+El Ejecutivo Estatal vigilará y supervisará a través de la Comisión Estatal Coordinadora, que las autoridades competentes en el Estado, impongan las sanciones que procedan por la comisión de las infracciones previstas en esta ley y las dispuestas en otros ordenamientos legales vigentes en el Estado.
 
-I.- Corresponderá a las direcciones municipales de Vialidad y Protección Ciudadana de los Ayuntamientos según el caso de su competencia, la obligación de aplicar multa de 15 a 30 veces el salario mínimo vigente en el Estado, a quienes ocupan indebidamente los cajones de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad. Si el infractor se encuentra dentro de lo establecido en los párrafos II y III del artículo 21 de la Constitución Federal, se aplicará la sanción en términos de la misma;
-
-II.- Corresponderá a los Ayuntamientos a través de la autoridad Municipal competente, la obligación de aplicar multa de 90 a 120 veces el salario mínimo vigente en el Estado de Durango, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad. En caso de reincidencia de la misma falta, además de lo previsto se procederá a la clausura temporal del local por treinta días.
-
-De igual manera, se aplicará multa equivalente de 15 a 25 veces el salario mínimo vigente en el Estado de Durango, a los prestadores de servicios al público o comerciales que nieguen, impidan u obstaculicen la prestación de los servicios a su cargo, con motivo de ser el usuario una persona discapacitada;
-
-III.- Corresponderá a las direcciones de obras públicas municipales o sus equivalentes de los Ayuntamientos según sea el caso de su competencia, la obligación de aplicar multa de 15 a 25 veces el salario mínimo vigente en el Estado de Durango, a quienes incumplan con las disposiciones establecidas en el capítulo V de la presente Ley;
-
-IV.- Corresponderá a la Dirección General de Transporte en el Estado, la obligación de aplicar multa de 25 a 40 veces el salario mínimo vigente en el Estado de Durango, a los responsables, concesionarios y prestadores en cualquier modalidad de los vehículos del servicio público de transporte que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad; y
-
-V.- A quien haga uso indebido de las placas de identificación y permisos temporales para los vehículos que usen o transportan a personas con discapacidad, se le aplicar (sic) multa de 15 a 30 veces el salario mínimo vigente en el Estado de Durango.
-
-Las sanciones derivadas de las infracciones a la presente Ley, por ningún motivo estarán sujetas a descuento o condonación.
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 77.
 
-El procedimiento que deberá observarse para la imposición de una sanción se ajustará a las reglas siguientes:
+Las violaciones a lo establecido por la presente Ley, su Reglamento, demás disposiciones que de ellas emanen y las dispuestas por otras leyes y reglamentos en el Estado, serán sancionadas por la autoridad estatal o municipal que corresponda.
 
-Recibida una denuncia, la autoridad competente dispondrá la práctica de la inspección que corresponda para constatar la existencia de los hechos, inspección que estará a cargo de personal que le está subordinado y que deberá efectuarse en un plazo no mayor de cinco días;
-
-Efectuada la inspección, si resultaren ciertos los hechos denunciados, el presunto infractor será citado para que en un plazo no menor de cinco días ni mayor de diez, contados a partir del día siguiente a la fecha en que le sea comunicada la citación, comparezca por escrito ofreciendo las pruebas que considere favorables a sus intereses y haciendo las alegaciones que estime pertinentes. La citación se le hará por medio de oficio en el que se indicará la infracción que se le impute, así como los hechos que en la misma consista. El oficio se remitirá por correo certificado con acuse de recibo u otro servicio de mensajería con acuse de recibo;
-
-Concluido el periodo probatorio o vencido el término de la fracción I, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución en un término no mayor de diez días hábiles contados a partir del siguiente al término de su comparecencia, determinando si ha lugar o no a la aplicación de la sanción.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 78.
 
-El cobro de las multas que impongan las dependencias municipales corresponderá a la Tesorería del respectivo Ayuntamiento; y las que impongan las autoridades dependientes del Ejecutivo, corresponderá a la Secretaría de Finanzas y Administración, quienes para ello harán uso del procedimiento económico coactivo previsto en la legislación fiscal que resulte aplicable.
+Para los efectos de la presente Ley, las sanciones se aplicarán conforme a lo siguiente:
+
+I. Corresponderá a las Direcciones Municipales de Vialidad y Protección Ciudadana de los Ayuntamientos según el caso de su competencia, la obligación de aplicar multa de 15 a 30 veces el salario mínimo vigente en el Estado, a quienes ocupen indebidamente los cajones de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
+
+II. Corresponderá a los Ayuntamientos a través de la autoridad Municipal competente, la obligación de aplicar multa de 50 a 80 veces el salario mínimo vigente en el Estado de Durango, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad. En caso de reincidencia de la misma falta, además de lo previsto se procederá a la clausura temporal del local por tres días;
+
+III. Corresponderá a la Dirección General de Transporte en el Estado, la obligación de aplicar multa de 25 a 40 veces el salario mínimo vigente en el Estado de Durango, a los responsables, concesionarios y prestadores en cualquier modalidad de los vehículos del servicio público de transporte que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad; y
+
+IV.- A quien haga uso indebido de las placas de identificación y/o permisos temporales para los vehículos que usen o transporten a personas con discapacidad, se le aplicará multa de 15 a 30 veces el salario mínimo vigente en el Estado de Durango.
+
+Las sanciones derivadas de las infracciones a la presente Ley, por ningún motivo estarán sujetas a descuento o condonación. Los recursos recaudados con motivo de estas infracciones deberán ser aplicados por los Ayuntamientos en un 50% en obras de infraestructura urbana tendientes a disminuir las barreras físicas y arquitectónicas en favor de las personas con discapacidad.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ### Capítulo XIII
 
-Del Recurso de Reconsideración.
+De los Medios de Defensa.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 79.
 
-Contra las resoluciones de las autoridades en que se impongan las sanciones contenidas en esta Ley, procederá el recurso de reconsideración, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de su notificación.
+Los servidores públicos que incumplan las disposiciones previstas en esta ley serán sancionados conforme a lo dispuesto en la Ley vigente en materia de Responsabilidades de los Servidores Públicos, así como en la legislación civil, laboral y penal según corresponda.
+
+Los representantes de las asociaciones civiles o sociales que hagan uso indebido de los recursos destinados a los programas y acciones en beneficio de las personas con discapacidad, o que violen la normatividad de los programas con el fin de favorecer a personas o grupos que no formen parte de la población objetivo, serán sancionados en los términos de la legislación aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 80.
 
-El recurso de reconsideración se interpondrá por escrito ante el Juzgado Administrativo Municipal correspondiente, y en aquellos casos en los que no se hubiere creado el mismo, ante la instancia municipal correspondiente.
+En la resolución de las controversias que se susciten con motivo de la aplicación de la presente ley, se estará a los plazos y procedimientos previstos en el Código de Justicia Administrativa para el Estado de Durango.
 
 ###### Artículo 81.
 
@@ -878,3 +1004,11 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CINC
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
