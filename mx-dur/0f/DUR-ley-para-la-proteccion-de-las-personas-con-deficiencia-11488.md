@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-las-personas-con-deficiencia-11488"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-25"
-last_updated: "1997-10-09"
+last_updated: "2007-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PROTECCION DE LAS PERSONAS CON DEFICIENCIA MENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 25 de noviembre de 1993.
 
@@ -59,9 +59,11 @@ Las disposiciones de la presente Ley regirán en todo el Estado de Durango, son 
 
 Esta Ley tiene por objeto la protección de las personas con deficiencia mental y su integración a la vida social y de trabajo, en todos sus órdenes.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de la presente Ley, se entiende por "deficiente mental" a toda persona que, por una lesión cerebral causada durante el desarrollo en la época prenatal, natal o en los primeros años de vida, queda impedida en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica. Esta limitación implica diversos niveles de conciencia e inteligencia, que estarán correlacionados proporcionalmente con el grado de lesión.
+Para los efectos de la presente ley se entiende por deficientes mentales a los individuos con una capacidad intelectual sensiblemente inferior a la media (sic) que se manifiesta en el curso del desarrollo y se asocia a una clara alteración de los comportamientos adaptativos.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
@@ -73,11 +75,11 @@ Mediante esta Ley se crea la Procuraduría Estatal de Protección al Deficiente 
 
 La Procuraduría a la que se refiere el artículo anterior, será un organismo descentralizado, de servicio social, con personalidad jurídica y patrimonio propios y con funciones de autoridad administrativa, encargada de promover y proteger los derechos e intereses del deficiente metal mediante el ejercicio de las atribuciones y obligaciones que le confiere la presente Ley y las demás disposiciones que al efecto se expidan.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 6o.
 
-Para el mejor funcionamiento de la Procuraduría Estatal de Protección al Deficiente Mental, se constituirán una Junta de Gobierno y un Patronato de apoyo a la misma. La Junta de Gobierno estará integrada por el Ejecutivo del Estado, el Presidente del Tribunal Superior de Justicia en la entidad y el Presidente del Congreso del Estado. El Patronato estará integrado por el Presidente Estatal del Sistema para el Desarrollo Integral de la Familia; los Secretarios de Finanzas y de Administración, de Salud, de Educación, Cultura y Deporte, de la Contraloría Estatal; la Dirección de Trabajo y Previsión Social del Estado, y por asociaciones y sociedades de padres de familia de deficientes mentales.
+Para el mejor funcionamiento de la Procuraduría Estatal de Protección al Deficiente Mental, se constituirán una Junta de Gobierno y un Patronato de apoyo a la misma. La Junta de Gobierno estará integrada por el Ejecutivo del Estado, el Magistrado Presidente del Tribunal Superior de Justicia en la Entidad y el Presidente de la Gran Comisión del H. Congreso del Estado. El Patronato estará integrado por la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia; los Secretarios de Desarrollo Social, de Finanzas y de Administración, de Salud, de Educación, de Contraloría y Modernización Administrativa; la Dirección de Trabajo y Previsión Social del Estado, y por asociaciones y sociedades de padres de familia de personas con deficiencia mental.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
@@ -147,7 +149,9 @@ El Procurador de Protección al deficiente mental nombrará a los integrantes de
 
 Para la ubicación y el trato del deficiente mental, se tendrá que conocer el dictamen que emitan los Comités Técnicos Interdisciplinarios, a los que se refiere el artículo anterior, que estarán integrados por un médico, un psicólogo, un maestro especialista en deficiencia mental, un Trabajador Social y un Licenciado en Derecho; salvo estos dos últimos, los demás deberán contar con un mínimo de cinco años de experiencia en el tratamiento de la deficiencia mental y cuyo resultado determinará los siguientes aspectos:
 
-Médico: La alteración en el desarrollo y maduración de las estructuras cerebrales que participan en el aprendizaje.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
+Médico: La alteración en el neurodesarrollo y maduración de las estructuras cerebrales que participan en el aprendizaje y en las habilidades psicosociales.
 
 Psicólogo: La disminución de la capacidad intelectual y la habilidad para resolver problemas acordes a su edad cronológica.
 
@@ -183,9 +187,13 @@ Para el debido y eficiente cumplimiento de esta Ley, la Procuraduría creará un
 
 La Secretaría de Salud del Estado, establecerá centros para el diagnóstico a nivel prenatal, natal y postnatal para la detección temprana para la deficiencia mental. La propia Secretaría informará y orientará a los padres de familia o a los representantes legales del deficiente mental, sobre: El diagnóstico; la canalización a los centros apropiados, según el caso; y los lineamientos específicos de manejo integral para cada paciente, incluyendo el consejo genético.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 16o.
 
-Con fundamento en esta Ley y en los reglamentos que al efecto se expidan, la Procuraduría en coordinación con las secretarías de Salud; y de Educación, Cultura y Deporte, se encargará de la elaboración, la correcta ejecución y la supervisión de los programas para la prevención, tratamiento e integración social del deficiente mental.
+Con fundamento en esta Ley y en los reglamentos que al efecto se expidan, la Procuraduría, en coordinación con las Secretarías de Salud y de Educación, se encargarán de la elaboración, la correcta ejecución y la supervisión de los programas para la prevención, tratamiento e integración social del deficiente mental.
+
+Asimismo, la Procuraduría, en coordinación con la Secretaría de Desarrollo Social, se encargará de la elaboración, instrumentación, planeación, operación, ejecución, control y evaluación de Programas para la Integración Social del Deficiente Mental y sus familiares.
 
 ### CAPITULO SEGUNDO. De la Educación del Deficiente Mental
 
@@ -193,19 +201,23 @@ Con fundamento en esta Ley y en los reglamentos que al efecto se expidan, la Pro
 
 La educación que se imparta al deficiente mental por la Entidad y sus Municipios, así como por las instituciones particulares, tenderá a desarrollar armónicamente las facultades y capacidades personales, permitiendo la integración social según sus posibilidades.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 18o.
 
-El Gobierno del Estado de Durango, a través de sus Secretarías de Educación, Cultura y Deporte y de Salud, proporcionará un Programa de Atención Temprana a los niños de alto riesgo y lesión establecida. Así mismo brindará orientación y capacitación a la familia para que se lleve a cabo dicho Programa que deberá aplicarse a partir de su detección.
+El Gobierno del Estado de Durango, a través de sus Secretarías de Educación y de Salud, implementará un Programa de Atención Temprana a los niños de alto riesgo y diagnóstico médico establecido. Así mismo, brindará orientación y capacitación a la familia para que se lleve a cabo dicho Programa, que deberá aplicarse a partir de su detección.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 19o.
 
-De conformidad con lo que establece esta Ley, la Secretaría de Educación, Cultura y Deporte del Estado, a fin de apoyar el desarrollo integral de los educandos con deficiencia mental, complementará su educación creando proyectos especiales para fomentar la sociabilidad, la adquisición de habilidades y destrezas y desarrollar la capacidad de expresión en todas sus formas, mediante la iniciación de talleres.
+De conformidad con lo que establece esta Ley, la Secretaría de Educación del Estado, a fin de apoyar el desarrollo integral de los educandos con eficiencia mental, complementará su educación creando proyectos especiales para fomentar la sociabilidad, la adquisición de habilidades y destrezas y desarrollar la capacidad de expresión en todas sus formas, mediante la iniciación de talleres, para lo cual podrá coordinarse con la Secretaría de Desarrollo Social y los Sistemas para el Desarrollo Integral de la Familia Estatal y Municipales.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 20o.
 
-Corresponde a la Secretaría de Educación, Cultura y Deporte del Estado, promover la creación de Centros Especiales de Capacitación para Deficientes Mentales.
+Corresponde a la Secretaría de Educación, promover la creación de Centros Especiales de Capacitación para Deficientes Mentales.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
@@ -217,9 +229,11 @@ La capacitación a que se refiere el artículo anterior, deberá ser impartida p
 
 Dentro del programa de capacitación para el trabajo, destinado al deficiente mental, se deberán incluir actividades deportivas, recreativas y culturales.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 23o.
 
-La Procuraduría de Protección al Deficiente Mental, con base en el dictamen del Comité Técnico y el seguimiento realizado, tenderá a satisfacer las necesidades sociales del deficiente mental joven o adulto.
+La Procuraduría Estatal de Protección al Deficiente Mental, con base en el dictamen del Comité Técnico y el seguimiento realizado, tenderá a satisfacer las necesidades sociales del deficiente mental joven o adulto, para lo cual podrá coordinarse con la Secretaría de Desarrollo Social.
 
 ### CAPITULO TERCERO. De las Condiciones de Trabajo del Deficiente Mental
 
@@ -247,13 +261,17 @@ No deberá emplearse el trabajo de deficientes mentales en condiciones insalubre
 
 El Gobierno del Estado vigilará que la condición de deficiencia mental no pueda ser alegada por patrón alguno para disminuir el salario o las prestaciones propias del trabajador, ni someterlo a disposiciones disciplinarias ilícitas.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 29o.
 
-La Procuraduría Estatal de Protección al Deficiente Mental motivará a las empresas públicas y privadas para que cuenten dentro de su planta fija de trabajadores, con personas deficientes mentales capacitadas.
+La Procuraduría Estatal de Protección al Deficiente Mental y la Secretaría de Desarrollo Social, motivarán a las empresas públicas y privadas para que cuenten dentro su planta fija de trabajadores, con personas deficientes mentales capacitadas.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 30o.
 
-Las comisiones mixtas de capacitación y de seguridad de las empresas que tengan en su plantilla de trabajadores a deficientes mentales, recibirán asesoría gratuita de la Procuraduría, para la elaboración de sus respectivos programas.
+Las comisiones mixtas de capacitación y de seguridad de las empresas que tengan en su plantilla de trabajadores a deficientes mentales, recibirán asesoría gratuita de la Secretaría de Desarrollo Social y de la Procuraduría, para la elaboración de sus respectivos programas.
 
 ###### ARTICULO 31o.
 
@@ -269,9 +287,11 @@ Para los efectos del artículo anterior, las autoridades administrativas de la E
 
 ### CAPITULO CUARTO. De la Seguridad Social
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 34o.
 
-La Procuraduría Estatal de Protección al Deficiente Mental promoverá, de conformidad con los párrafos tercero, cuarto y quinto del Artículo Cuarto Constitucional, que todo deficiente mental tenga derecho a las garantías de salud y vivienda así como a la satisfacción de sus necesidades físicas y mentales.
+La Procuraduría Estatal de Protección al Deficiente Mental y la Secretaría de Desarrollo Social, promoverán de conformidad con los párrafos tercero, cuarto y quinto del artículo 4 Constitucional, que todo deficiente mental tenga derecho a las garantías de salud y vivienda así como a la satisfacción de sus necesidades físicas y mentales.
 
 ###### ARTICULO 35o.
 
@@ -308,3 +328,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA.- EL S
 P.O. 9 DE OCTUBRE DE 1997.
 
 U N I C O.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
