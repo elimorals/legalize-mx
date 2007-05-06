@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2006-04-16"
+last_updated: "2007-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -4979,7 +4979,7 @@ ART. 1291.- El legatario puede exigir que el heredero otorgue fianza en todos lo
 
 ART. 1292.- Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la hipoteca necesaria.
 
-ART. 1293.- No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
+ART. 1293 (SIC).- Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
 
 ART. 1294.- Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
 
@@ -5049,7 +5049,7 @@ ART. 1321.- Es nulo el legado de cosa que al otorgarse el testamento pertenezca 
 
 ART. 1322.- Si en la cosa legada tiene alguna parte el testador o un tercero debiéndolo aquel, en lo que a ellos corresponda, vale el legado.
 
-ART. 1293 (SIC).- Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
+ART. 1293 (SIC).- No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
 
 ART. 1324.- Es válido el legado hecho a un tercero de cosa propia del heredero o de un legatario quienes, si aceptan la sucesión, deberán entregar la cosa legada o su precio.
 
@@ -9921,11 +9921,21 @@ ART. 2894.- El registrador que haga una inscripción sin cumplir con lo dispuest
 
 ART. 2895.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
-ART. 2896.- Una vez que se firme una escritura en que se adquiera transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio, o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los ciento veinte días siguientes a la fecha en que se hubiere firmado la escritura, se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+ART. 2896.- Cuando vaya a otorgarse una escritura en la que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar por una sola vez y previo el pago de los derechos correspondientes al Registro Público, un certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En esta solicitud, que surtirá efectos de aviso pre-preventivo, deberá mencionar la operación y bien de que se trate, los nombres de los contratantes y la indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará inmediatamente la anotación de presentación al margen de la inscripción de propiedad, anotación que tendrá una vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que éste Artículo se refiere, las autoridades de que habla la Fracción III del Artículo 2889, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
+Una vez firmada la escritura que produzca cualquier de las consecuencias mencionadas en el párrafo precedente, haya habido o no aviso pre-preventivo, el notario ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público, y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la anotación de la presentación correspondiente, la cual tendrá una vigencia de ciento veinte días naturales a partir de la fecha de la firma de la escritura. Si este se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+
+Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los dos términos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada.
+
+Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberán dar el aviso a que se refiere el segundo párrafo de este artículo, las autoridades de que habla la fracción III del artículo 2889, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+
+Mientras cualquiera de los avisos a que se refiere este artículo, se encuentren vigentes, no podrá hacerse ninguna inscripción o anotación que perjudique el registro de la escritura protegida por las anotaciones de aquellos avisos. Sin embargo, lo anterior no impedirá que en el Registro se reciban documentos que deban inscribirse, los cuales se inscribirán conforme al orden de su presentación, solo en el caso de que aquellos avisos se venzan y en consecuencia se cancelen, y siempre y cuando fuere procedente la inscripción de los documentos presentados con posterioridad a los avisos.
+
+La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
 
 ART. 2897.- Los encargados del Registro son responsables además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
 
@@ -10168,3 +10178,9 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE MAYO 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
