@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-archivo-historico-del-estado-5408"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-01"
-last_updated: "1980-12-01"
+last_updated: "2007-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DEL ARCHIVO HISTORICO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 7 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de diciembre de 1980.
 
@@ -486,3 +488,23 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 DADO en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los catorce días del mes de noviembre de mil novecientos ochenta.
 
 El Gobernador Constitucional del Estado Lic. JORGE ROJO LUGO El Secretario General de Gobierno Lic. J. RUBEN LICONA RIVEMAR.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE MAYO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, en un término que no excederá de 180 días naturales posteriores a la publicación de la presente Ley, promoverá la expedición de las disposiciones reglamentarias correspondientes.
+
+###### ARTICULO TERCERO.
+
+El Consejo Estatal de Archivos deberá quedar debidamente integrado a más tardar 120 días naturales después de la expedición y entrada en vigor del Reglamento de la Ley de Archivos del Estado de Hidalgo y en igual plazo deberán conformarse los Comités Técnicos de Archivos de cada uno de los sujetos obligados.
+
+###### ARTICULO CUARTO.
+
+Se abroga la Ley que crea el Sistema Estatal de Archivos de fecha 30 de abril de 1986, Publicada en el Periódico Oficial del Estado en fecha 1 de marzo de 1987, así como también se abroga la Ley Orgánica del Archivo Histórico del Estado de fecha 14 de noviembre de 1980, Publicada en el Periódico Oficial del Estado en fecha 1 de diciembre del mismo año y se derogan todas las disposiciones que se opongan al contenido del presente ordenamiento.
