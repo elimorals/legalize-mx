@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-03-30"
+last_updated: "2007-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,37 +18,39 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de marzo de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de mayo de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 6o., 14, 15 fracción II, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 8o. párrafo primero del Acuerdo relativo a la aplicación del Artículo VI del Acuerdo General sobre Aranceles Aduaneros y Comercio de 1994; 3o. párrafos sexto y séptimo del Entendimiento relativo a las normas y procedimientos por los que se rige la solución de diferencias de la Organización Mundial del Comercio; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía; y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 6 de marzo de 2006, los titulares de la Secretaría de Economía de México, del Departamento de Comercio de los Estados Unidos de América y de la Oficina del Representante Comercial de los Estados Unidos de América suscribieron un acuerdo interinstitucional sobre el comercio de cemento (el Acuerdo sobre Comercio de Cemento), con el objetivo de finalizar el procedimiento de solución de diferencias ante la OMC y diversos litigios conforme al artículo 1904 del TLCAN y en consecuencia eliminar en un periodo de tres años el derecho antidumping impuesto por los Estados Unidos de América;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según Decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo Decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
 
-Que el Acuerdo Sobre Comercio de Cemento establece en sus párrafos II.A.1, III y IV, que durante la vigencia del mismo las exportaciones de cemento mexicano a los Estados Unidos de América se regularán mediante cupos de exportación administrados por medio de permisos previos a la exportación;
+Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares y jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
 
-Que el Acuerdo Sobre Comercio de Cemento establece en su párrafo I.P que el primer periodo de exportación inicia el 3 de abril de 2006 y termina el 31 de marzo de 2007; el segundo periodo de exportación inicia el 1 de abril de 2007 y termina el 31 de marzo de 2008; y el tercero y último periodo de exportación inicia el 1 de abril de 2008 y termina el 31 de marzo de 2009;
+Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación, el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, el cual determina, entre otras cosas, las cuotas arancelarias aplicables a la importación de edulcorantes;
 
-Que el 29 de marzo de 2006, la Secretaría de Economía publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris pórtland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006); y el Acuerdo que modifica el similar por el que se establece la clasificación y codificación de mercancías cuya importación y exportación esta sujeta al requisito de permiso previo por parte de la Secretaría de Economía;
+Que existe una disputa entre México y los Estados Unidos de América relativa al incumplimiento de este último con sus obligaciones establecidas en el TLCAN, consistentes en permitir el acceso del azúcar mexicano a su mercado;
 
-Que el Acuerdo por el que se da a conocer el cupo máximo publicado en 2006 establece en su artículo primero el cupo máximo anual para exportar cemento gris pórtland y cemento clinker a los Estados Unidos de América, y que para el primer periodo de exportación que inició el 3 de abril de 2006 y finaliza el 31 de marzo de 2007 el cupo máximo anual fue de tres millones de toneladas métricas, dividido en ocho subregiones de los Estados Unidos de América;
+Que por tal motivo, México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN, mismo que no ha sido resuelto, no obstante que nuestro país ha satisfecho todos los requisitos previstos en el capítulo XX de dicho tratado;
 
-Que la nota al pie 1/ del cuadro 1 correspondiente al artículo primero del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006, establece que el monto anual del cupo incrementará o disminuirá para el segundo y tercer periodo anual basado en un porcentaje de cambio de hasta el 4.5 por ciento del consumo aparente en cada subregión;
+Que en este contexto, el 27 de julio de 2006, los gobiernos de México y los Estados Unidos de América suscribieron un acuerdo en el que se establecen ciertas condiciones para el comercio bilateral de edulcorantes, reconociendo que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr ese objetivo;
 
-Que de conformidad con lo previsto en el párrafo III.A.2.a del Acuerdo sobre Comercio de Cemento, el Departamento de Comercio de los Estados Unidos de América notificará anualmente a la Secretaría de Economía las modificaciones al monto anual del cupo derivado del consumo aparente del cemento;
+Que se estima que para 2007 la oferta nacional de azúcar puede llegar a ser insuficiente, por lo que es necesario complementarla con importaciones que requieren de un acceso rápido, a efecto de que las industrias que la utilizan en sus procesos productivos no resulten afectadas;
 
-Que el 1 de febrero del 2007 el Departamento de Comercio de los Estados Unidos de América notificó a la Secretaría de Economía las modificaciones del monto anual del cupo para exportar cemento gris pórtland y clinker a los Estados Unidos de América, de conformidad con lo previsto en el párrafo III.A.2.a del Acuerdo Sobre Comercio de Cemento;
+Que la disminución del arancel de importación a los azúcares originarios de los Estados Unidos de América aseguraría un acceso rápido y simplificado a la complementación de la oferta de este edulcorante, estableciendo de facto un límite al incremento de los precios nacionales del azúcar;
 
-Que la Secretaría de Economía considera necesario modificar diversas disposiciones para facilitar la operación del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006 y optimizar la utilización de los cupos de exportación;
+Que la Secretaría de Economía considera necesario ajustar el arancel aplicable a las importaciones fuera de cupo de azúcar originario de los Estados Unidos de América, al mismo nivel que este último le aplica a las importaciones de azúcar mexicano en las mismas condiciones;
 
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Acuerdo cuenta con opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que la modificación a los aranceles a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, y
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL CUAL SE DA A CONOCER EL CUPO MAXIMO PARA EXPORTAR A LOS ESTADOS UNIDOS DE AMERICA, CEMENTO GRIS PORTLAND Y CEMENTO CLINKER, ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS DURANTE 2006 A 2009, AL AMPARO DEL ACUERDO SOBRE COMERCIO DE CEMENTO CELEBRADO ENTRE LA SECRETARIA DE ECONOMIA DE LOS ESTADOS UNIDOS MEXICANOS Y LA OFICINA DEL REPRESENTANTE COMERCIAL DE LOS ESTADOS UNIDOS DE AMERICA Y EL DEPARTAMENTO DE COMERCIO DE LOS ESTADOS UNIDOS DE AMERICA
+Que esta medida contribuirá a consolidar la transición al libre comercio de edulcorantes en el mercado de América del Norte, a partir del 1 de enero de 2008, de acuerdo a lo establecido en el TLCAN, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTICULO PRIMERO.
 
@@ -56,15 +58,25 @@ El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido e
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-Se reforman los artículos cuarto y quinto último párrafo del Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004, para quedar como sigue:
+Se modifican los artículos 10, primer párrafo, y 15, primer párrafo, del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, y sus reformas, para quedar como siguen:
 
-“ARTICULO CUARTO.- Esta Secretaría, a través de la Dirección General de Comercio Exterior, adjudicará los cupos a que se refiere el presente Acuerdo. Se realizarán dos rondas de licitaciones, la primera el 15 de marzo, licitándose 1/3 del cupo; la segunda el 1 de junio o primer día hábil inmediato anterior del presente año, licitándose 2/3 del mismo cupo. Las convocatorias correspondientes se publicarán en el Diario Oficial de la Federación por lo menos 20 días hábiles antes de que inicie el periodo de registro y en ellas se establecerán las fechas en que se pondrán a disposición de los interesados las bases conforme a las que se regirán.
+“ARTÍCULO 10.- La importación de mercancías originarias de América del Norte comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a un arancel de 3.531 centavos de dólar por kilogramo menos 0.05 centavos de dólar por kilogramo por cada grado de polarización inferior a 100 grados (y fracciones de un grado en proporción) pero no inferior que 2.281 centavos de dólar por kilogramo, y estará libre de arancel a partir del 1 de enero de 2008.
 
-###### ARTICULO 15.
+. . .
 
-El cumplimiento de lo dispuesto en el presente Acuerdo no exime del cumplimiento de cualquier otro requisito o regulación a los que esté sujeta la importación o exportación de mercancías, según corresponda, conforme a las disposiciones legales aplicables.
+. . .
+
+###### ARTÍCULO 15.
+
+La importación de las mercancías originarias de América del Norte comprendidas en las fracciones arancelarias que se señalan en este artículo se sujetará al arancel preferencial indicado a continuación para cada una de ellas siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado se aplicará el arancel establecido en el artículo 10 del presente ordenamiento:
+
+. . .
+
+. . .
+
+. . .”.
 
 ### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
 
@@ -466,10 +478,8 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el 2 de abril de 2007 y concluirá su vigencia el 31 de marzo de 2009.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-SEGUNDO.- Al día siguiente de la publicación de este Acuerdo, la Secretaría de Economía iniciará la recepción y trámite de las solicitudes de asignación de cupo de exportación y solicitudes de permisos de exportación de conformidad con las disposiciones del presente.
-
-México, D.F., a 26 de marzo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de mayo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
