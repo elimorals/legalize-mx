@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-delegan-facultades-de-representacion-4951
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-08-07"
-last_updated: "2003-08-07"
+last_updated: "2007-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49519&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-07-14"
 
 ACUERDO POR EL QUE SE DELEGAN FACULTADES DE REPRESENTACION LEGAL DE DIVERSA INDOLE DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA A FAVOR DE LOS SERVIDORES PUBLICOS QUE SE INDICAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DELEGAN FACULTADES DE REPRESENTACION LEGAL DE DIVERSA INDOLE DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION PUBLICA, A FAVOR DE LOS SERVIDORES PUBLICOS QUE SE INDICAN, PUBLICADO EN EL D.O.F. DE 8 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 7 de agosto de 2003.
 
@@ -66,3 +68,11 @@ TRANSITORIOS (SIC)
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a los catorce días del mes de julio de dos mil tres.- La Comisionada Presidenta del Instituto Federal de Acceso a la Información Pública, María Marván Laborde.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 8 DE MAYO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se delegan facultades de representación legal de diversa índole del Instituto Federal de Acceso a la Información Pública, a favor de los servidores públicos que a continuación se indican, publicado en el Diario Oficial de la Federación el 7 de agosto de 2003.
