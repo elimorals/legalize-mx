@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2007-01-18"
+last_updated: "2007-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2007.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -1628,7 +1628,9 @@ IV.- Las leyes que expidan los estados, con fundamento en los artículos 5o. y 1
 
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2007)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2406,11 +2408,13 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Nacional para la Prevención de Accidentes del que formarán parte representantes de los sectores público, social y privado.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 164.
 
-La Secretaría de Salud coordinará sus actividades con la Secretaría del Trabajo y Previsión Social y, en general, con las dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de los accidentes.
+La Secretaría de Salud coordinará sus actividades con la Secretaría del Trabajo y Previsión Social así como con la Secretaría de Comunicaciones y Transportes y en general, con las dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de los accidentes.
+
+La Secretaría de Salud deberá realizar convenios con los gobiernos de las entidades federativas para determinar los exámenes psicofísicos integrales que se practicarán como requisito previo para la emisión o revalidación de licencias de conducir, así como para establecer otras medidas de prevención de accidentes.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2800,7 +2804,7 @@ Deberán dar aviso de funcionamiento los establecimientos que no requieran de au
 
 El acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Diario Oficial de la Federación.
 
-El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
+El aviso a que se refiere este artículo, deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -2808,7 +2812,7 @@ II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio
 
 III.- Procesos utilizados y línea o líneas de productos;
 
-IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+IV.- Declaración bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
 
 V.- Clave de la actividad del establecimiento, y
 
@@ -5550,13 +5554,13 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 276, 277, 277 bis, 306, 308, 308 bis, 309, 309 bis, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
@@ -6221,3 +6225,21 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 D.O.F. 18 DE ENERO DE 2007.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2007.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 164 DE LA LEY GENERAL DE SALUD
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2007.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY GENERAL DE SALUD
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. La Secretaría de Salud contará con 90 días después de entrada en vigor de este Decreto para expedir la reglamentación relativa a la atención médica prehospitalaria.
+
+Artículo Tercero. Las personas que den atención prehospitalaria y que son objeto de la regulación que se establece en el artículo 79 de la Ley en comento, tendrán un año para regularizar su situación profesional, a partir de la entrada en vigor del presente decreto.
