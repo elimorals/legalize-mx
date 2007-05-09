@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2006-11-08"
+last_updated: "2007-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -1554,3 +1556,37 @@ P.O. 8 DE NOVIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor el día de su aprobación por la Asamblea Legislativa.
 
 SEGUNDO.- En su oportunidad, remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 9 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda abrogada la Ley Orgánica del Congreso del Estado, publicada en el Periódico Oficial "Tierra y Libertad" Número 4274, de fecha 27 de agosto del año 2003.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones contenidas en el párrafo segundo del artículo 55 de la Ley Orgánica para el Congreso del Estado, entrarán en vigor el 1º de septiembre del dos mil nueve.
+
+###### ARTÍCULO CUARTO.
+
+En lo que se refiere al artículo 59, numerales 8, 9, 15, 17, 19, 21 y 24, las comisiones que cambiaron su denominación conservarán la misma integración que actualmente tienen.
+
+###### ARTÍCULO QUINTO.
+
+En lo que se refiere al artículo 85, fracción II, el Comité de Régimen Administrativo conservará la misma integración que actualmente tiene el Comité de Adquisiciones.
+
+###### ARTÍCULO SEXTO.
+
+El artículo 41 de la presente Ley entrará en vigor una vez aprobada y publicada en el Periódico Oficial "Tierra y Libertad", la reforma a los artículos 40, 53 y 56, y la derogación del diverso 55, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la publicación de la presente Ley, el Congreso tendrá 30 días naturales para expedir el Reglamento del Congreso del Estado. En tanto no se expida el ordenamiento mencionado, será aplicable en lo que no se oponga a la presente Ley el Reglamento vigente.
+
+###### ARTÍCULO OCTAVO.
+
+Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
