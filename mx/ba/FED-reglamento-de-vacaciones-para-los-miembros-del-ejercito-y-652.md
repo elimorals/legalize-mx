@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vacaciones-para-los-miembros-del-ejercito-y-652"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-04-02"
-last_updated: "1985-08-01"
+last_updated: "2007-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=652&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-03-23"
 
 REGLAMENTO DE VACACIONES PARA LOS MIEMBROS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 1985.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE VACACIONES PARA LOS MIEMBROS DEL EJERCITO Y FUERZA AEREA MEXICANOS, PUBLICADO EN EL D.O.F. DE 9 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el día lunes 2 de abril de 1984.
 
@@ -160,3 +162,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 1 DE AGOSTO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE MAYO DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Vacaciones para los miembros del Ejército y Fuerza Aérea Mexicanos, publicado en el Diario Oficial de la Federación el 30 de julio de 1985 (sic) y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
