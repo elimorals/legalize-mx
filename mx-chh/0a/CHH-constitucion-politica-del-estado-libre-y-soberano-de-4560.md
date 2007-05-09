@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2007-02-28"
+last_updated: "2007-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -835,9 +835,9 @@ VI.- Examinar, discutir y aprobar anualmente el presupuesto de egresos del Estad
 
 El Ejecutivo del Estado hará llegar al Congreso la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos, a más tardar el día nueve de diciembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
-VII.- Revisar la cuenta pública del Gobierno del Estado que por trimestre y anualmente presentará el Ejecutivo. La revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y el cumplimiento de los objetivos establecidos en los programas. De la revisión de la cuenta trimestral, el Congreso podrá hacer las observaciones que considere pertinentes. Si del examen de la cuenta anual aparecen discrepancias entre las cantidades gastadas y las respectivas partidas del presupuesto o no existe exactitud o justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la ley. En su caso, el Congreso aprobará la cuenta pública anual. Dicha aprobación no exime de responsabilidad civil o penal.
+VII.- Fiscalizar la cuenta pública del Estado y de los municipios; así como los estados financieros de cualquier persona física o moral y, en general de todo ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1021,9 +1021,17 @@ XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la
 
 Esta ley no podrá ser iniciada ni objeto de observaciones por el Ejecutivo, que la promulgará y publicará dentro de los diez días hábiles siguientes a su recepción.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
-XLIV.- Nombrar y remover libremente al Oficial Mayor y al Contador General del Congreso, y tomarles la protesta de ley.
+XLIV.- Nombrar al Auditor Superior del Estado, a propuesta de la Junta de Coordinación Parlamentaria, por el voto de las dos terceras partes del total de los diputados integrantes de la Legislatura. La designación del Auditor Superior del Estado será por un plazo de seis años contados a partir de que asuma el cargo. Sólo por causas graves previstas por la Ley podrá ser removido, mediando la misma votación requerida para su nombramiento.
+
+> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
+
+Nombrar y remover libremente al Oficial Mayor del Congreso del Estado.
+
+> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
+
+Una vez nombrados, tomarles la protesta de ley a ambos servidores públicos.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1247,9 +1255,7 @@ IV.- Integrar el número de Diputados que la componen, en caso de muerte, separa
 
 V.- Las que señala al Congreso el artículo 64 en sus fracciones novena, inciso d); décimo tercera; décimo sexta; trigésimo segunda; trigésimo tercera; trigésimo sexta y tetragésima cuarta.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-VI.- Presentar al Congreso, al día siguiente de la apertura de un período de sesiones ordinarias, un informe de las actividades realizadas por la Contaduría General durante el receso.
+VI.- (DEROGADA, P.O. 9 DE MAYO DE 2007)
 
 VII.- Acordar la citación de los Suplentes en caso de falta absoluta de los Diputados Propietarios, que hubieren de funcionar en las sesiones próximas del Congreso.
 
@@ -1275,19 +1281,29 @@ XI.- Las demás que establezcan esta Constitución y las leyes.
 
 La Diputación Permanente dará cuenta al Congreso, en la segunda sesión del período ordinario siguiente, del uso que hubiere hecho de sus atribuciones, presentando al efecto una memoria escrita de sus trabajos, así como de los expedientes que hubiere formado.
 
-### CAPITULO I.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2007)</small>
 
-DEL GOBERNADOR DEL ESTADO.
+### CAPITULO VII
+
+DE LA AUDITORIA SUPERIOR DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
+
+Art. 83 bis.- La Auditoría Superior del Estado es un órgano del Congreso que tendrá autonomía técnica, presupuestal, orgánica, funcional, normativa y de gestión.
+
+El órgano auditará el ingreso y la aplicación de los recursos públicos de conformidad con la ley; la auditoría comprende la contable, la presupuestal, la técnica, la patrimonial, la jurídica y la de gestión; y se realizará con el objeto de verificar la integralidad, la legalidad, la gestión financiera, la contabilidad y la oportunidad en el empleo de los recursos públicos, para comprobar si su uso se ajusta a los criterios señalados en el presupuesto y se cumplen los objetivos establecidos en los planes, programas y proyectos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
+
+Art. 83 ter.- La fiscalización será posterior. Una vez fiscalizadas las cuentas públicas y emitidos los decretos que contengan, en su caso, irregularidades en el manejo, recaudación y aplicación de fondos públicos, la Auditoría Superior del Estado, bajo su más estricta responsabilidad, deberá presentar, sin dilación, las denuncias penales e iniciar los procedimientos civiles y administrativos a fin de determinar responsabilidades; y en general, ejercitar todas las acciones ante las autoridades competentes hasta en tanto se apliquen las sanciones previstas por la ley y se reparen los daños o perjuicios causados al patrimonio público.
 
 ## TITULO VIII.
 
 DEL PODER EJECUTIVO.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+DEL GOBERNADOR DEL ESTADO.
 
 ###### Art. 84.
 
@@ -1387,11 +1403,11 @@ El Gobernador se considerará separado del Despacho, cuando saliere de los lími
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-DEL DESPACHO DEL EJECUTIVO.
+DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 93.
 
@@ -1473,9 +1489,9 @@ El Gobernador removerá libremente del cargo al Procurador General de Justicia y
 
 Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
-XXIII.- Presentar al Congreso la cuenta general de ingresos y egresos, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período y en el segundo dentro de los dos meses posteriores a la terminación del ejercicio fiscal.
+XXIII.- Presentar al Congreso del Estado la cuenta pública estatal, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período; y en el segundo, dentro de los dos meses posteriores a la terminación del ejercicio fiscal.
 
 XXIV.- Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley.
 
@@ -1533,11 +1549,11 @@ XL.- Designar libre y directamente a quien deba encargarse del despacho del proc
 
 XLI.- Las demás que le asignen las leyes, ya sean Federales o del Estado.
 
-### CAPITULO I.
+### CAPITULO III.
 
-DISPOSICIONES GENERALES.
+DEL DESPACHO DEL EJECUTIVO.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 94.
 
@@ -1603,21 +1619,21 @@ Las ausencias temporales del Secretario General de Gobierno, cuando no excedan d
 
 DEL PODER JUDICIAL.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL SUPREMO TRIBUNAL DE JUSTICIA.
+DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 99.
 
 La potestad de aplicar las leyes del fuero común en materia civil y penal en el territorio del Estado, corresponde al Poder Judicial, salvo las excepciones previstas en la ley.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
+DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 100.
 
@@ -1673,11 +1689,11 @@ Su Presidente rendirá en el mes de enero de cada año, un informe ante el pleno
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO I.
+### CAPITULO III.
 
-DE LA EDUCACION PUBLICA.
+DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
 ###### Art. 106.
 
@@ -1801,11 +1817,11 @@ Los Jueces de Primera Instancia otorgarán la protesta de Ley, ante el President
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LA SALUD PUBLICA.
+DE LA EDUCACION PUBLICA.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 114.
 
@@ -2137,13 +2153,11 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 134.
 
-Dentro del mes siguiente al término de cada ejercicio fiscal, los ayuntamientos remitirán al Congreso su cuenta pública anual, así como su estado patrimonial, poniendo a disposición del Congreso, a través de la Contaduría General, la documentación comprobatoria respectiva. La cuenta se acompañará de los estados financieros correspondientes a sus organismos descentralizados y demás entidades paramunicipales.
-
-A la revisión de las cuentas públicas municipales, y en lo conducente a los estados referidos en el párrafo anterior, les será aplicable lo establecido en la fracción VII del artículo 64.
+Presentar al Congreso la cuenta pública municipal, trimestral y anualmente, dentro del mes siguiente a la terminación del período que corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2171,13 +2185,9 @@ Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este ar
 
 Los integrantes de los Ayuntamientos correspondientes serán responsables, personal y pecuniariamente, de la contravención de este precepto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
 ###### Art. 137.
 
-Toda cuenta de ingresos y egresos, así como del estado de situación patrimonial, queda sujeta a revisión por los auditores que nombre la Contaduría General del Congreso, previa aprobación de la respectiva Comisión de éste, con el fin de verificar los ingresos y egresos de fondos y en general de todas las operaciones relativas a su patrimonio, así como su aplicación conforme a los presupuestos aprobados.
-
-La Contaduría General del Congreso, cumpliendo el requisito anterior podrá practicar revisiones a los organismos del Estado o de los municipios que manejen fondos públicos, cualquiera que sea la denominación de éstos.
+(DEROGADO, P.O. 9 DE MAYO DE 2007)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2335,9 +2345,11 @@ DE LA ADMINISTRACION GENERAL.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LA HACIENDA PUBLICA.
+DE LA SALUD PUBLICA.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 143.
 
@@ -2413,11 +2425,9 @@ La educación pública en el Estado estará a cargo del Ejecutivo por conducto d
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DEL DESARROLLO SUSTENTABLE.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+DE LA HACIENDA PUBLICA.
 
 ###### Art. 155.
 
@@ -2455,9 +2465,11 @@ La Legislatura del Estado establecerá las normas sobre salud que no sean de la 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
+DEL SISTEMA ESTATAL DE FISCALIZACION.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 161.
 
@@ -2501,37 +2513,57 @@ El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral, el Instituto Est
 
 Cuando estuviere por agotarse alguna asignación en cualquier partida del presupuesto, el Secretario de Finanzas y Administración deberá dar aviso al Gobernador para que éste promueva lo conducente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 168.
 
-Bajo la directa e inmediata dependencia del Congreso, a través de su Comisión de Vigilancia, habrá un órgano técnico denominado Contaduría General. Esta, desempeñará sus funciones por los empleados que determine la ley y tendrá a su cargo la glosa de los ingresos, egresos y del estado patrimonial de los entes públicos.
+El encargado de las finanzas del Estado y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 169.
 
-Toda cuenta de ingresos y egresos, así como del estado de situación patrimonial, quedarán glosadas por la Contaduría General, a más tardar, dentro de los siguientes seis meses en que ésta la reciba. La falta de cumplimiento de este precepto será causa de responsabilidad.
+La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION (N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
+
+### CAPITULO V.
+
+DEL DESARROLLO SUSTENTABLE.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 170.
 
-La Contaduría General rendirá al Congreso, por conducto de la Comisión de Vigilancia, un informe de los resultados derivados de las glosas que hubiere practicado. Dicho informe, será rendido dentro del mes siguiente a la fecha en que quede concluida la glosa de la cuenta respectiva. Dicha Comisión dispondrá, a su vez, de dos meses para presentar su correspondiente dictamen al Congreso.
+El Sistema Estatal de Fiscalización es el conjunto de procesos y obligaciones que asume e integra el Estado, los Municipios, cualquier persona física o moral y a todo ente que recaude, administre, maneje o ejerza recursos públicos, así como los órganos encargados de la auditoría y fiscalización con el objetivo de transparentar el ingreso, el ejercicio presupuestal y el gasto. Deberá coadyuvar al desarrollo permanente en la eficiencia, eficacia, economía y transparencia de la gestión pública y obligará de manera permanente la rendición de cuentas.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 171.
 
-El encargado de las finanzas del Estado y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente.
+La cuenta pública estatal y municipal será trimestral y anual. La cuenta trimestral debe presentarse ante el Congreso a más tardar el mes siguiente de vencido el período que corresponda. La cuenta anual del estado y municipio debe presentarse ante el Congreso dentro de los dos meses posteriores a la terminación del ejercicio fiscal y dentro del mes siguiente a la terminación del período que corresponda, respectivamente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+La cuenta pública anual y trimestral del Gobierno del Estado integrará los estados financieros, contables y presupuestales de los tres poderes, de los organismos autónomos por disposición constitucional y de las entidades de la administración pública paraestatal.
+
+La cuenta pública anual y trimestral de los municipios integrará los estados financieros, contables y presupuestales de la administración pública municipal y paramunicipal.
+
+Los tres poderes, los organismos autónomos y las entidades de la administración pública paraestatal, los municipios y los organismos paramunicipales, deberán llevar su contabilidad conforme a las disposiciones que establezca la ley. Éstos, así como cualquier persona física o moral y cualquier ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación, deberán poner, sin excusa alguna, a disposición de la Auditoría Superior del Estado y, en su caso, del Congreso la información y documentación correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 172.
 
-La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado.
+La cuenta pública anual de gobierno del estado y de los municipios, deberán quedar auditadas en los plazos y términos que establezca la Ley y el Programa anual de Auditoría. La falta de cumplimiento de este precepto será causa grave de responsabilidad en los términos de la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+La Auditoría Superior del Estado rendirá a la Comisión de Fiscalización del Congreso, informe técnico de resultados derivado de la auditoría realizada dentro del mes siguiente a la fecha en que hubiese concluido la misma; a su vez la Comisión dispondrá de dos meses para presentar ante el pleno el dictamen correspondiente.
+
+El titular de la Auditoría Superior del Estado, presentará al Pleno del Congreso en la tercera sesión del período ordinario, un informe del estado que guarda la auditoría de la cuenta pública estatal y municipal y de los estados financieros señalados en la fracción VII del artículo 64 de esta Constitución así como de las acciones de responsabilidades iniciadas y su estado.
+
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO IV], P.O. 9 DE MAYO DE 2007)</small>
+
+### CAPITULO VI.
+
+DE LA ASOCIACION PARA EL TRABAJO Y DE LA PREVISION SOCIAL.
 
 ###### Art. 173.
 
@@ -2539,7 +2571,7 @@ En el diseño de las políticas públicas, el Gobierno del Estado y los municipi
 
 Asimismo, los diversos proyectos de obra pública, en cualquiera de los órdenes de Gobierno, deberán garantizar, entre otras cosas, que el desarrollo sea integral y sustentable; que los mismos sean evaluables mediante criterios de carácter ambiental, económico y social, que tiendan a mejorar la calidad de vida y la productividad de las personas; que consideren medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO V], P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 174.
 
@@ -3286,3 +3318,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Remítase copia del presente decreto al Instituto Nacional de Estadística, Geografía e Informática para los efectos a que haya lugar.
+
+P.O. 9 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que se refiere al nombramiento del Auditor Superior del Estado previsto por el artículo 64, fracción XLIV se realizará dentro del mes siguiente a la entrada en vigor del Decreto señalado en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado dispondrá de un plazo máximo que concluye el 30 de agosto de 2007 para crear la Ley de Auditoría Superior del Estado, y realizar todas las adecuaciones y reformas legales implicadas en la presente reforma Constitucional y de manera específica lo que corresponde a la Ley de Responsabilidades de los Servidores Públicos del Estado, al Código Municipal para el Estado de Chihuahua, Ley Orgánica del Poder Legislativo del Estado de Chihuahua, Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, Ley Orgánica del Poder Judicial del Estado de Chihuahua, Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua y todas aquellas que por su naturaleza haya necesidad de adecuar al nuevo orden jurídico Constitucional en la materia.
+
+###### ARTÍCULO CUARTO.
+
+La Auditoría Superior del Estado de Chihuahua, iniciará sus funciones a partir del día que determine su Ley Reglamentaria.
+
+###### ARTÍCULO QUINTO.
+
+La verificación del cumplimiento de los planes, programas y proyectos referentes a la auditoría de gestión a que hace referencia el artículo 83 Bis, del presente ordenamiento, se efectuará a partir de la revisión del ejercicio fiscal de 2009, con el propósito de que se diseñe por parte de las autoridades estatales y municipales durante los años 2007 y 2008, sistemas verificables de indicadores dentro de los diferentes planes, programas y presupuestos, tanto estatales como municipales.
+
+###### ARTÍCULO SEXTO.
+
+Conforme a lo que dispone el artículo 202 de la Constitución Política del Estado, remítase copia del dictamen, de la iniciativa y de Diario de los Debates del Congreso a los 67 municipios del Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la Declaración de haber sido aprobada la reforma a la Constitución Política del Estado.
