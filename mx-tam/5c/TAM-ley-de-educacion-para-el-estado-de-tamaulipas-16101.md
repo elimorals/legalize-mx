@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2006-06-27"
+last_updated: "2007-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -405,23 +405,27 @@ Las instituciones del Sistema Educativo Estatal impartirán educación de manera
 
 El Sistema Educativo Estatal comprende los tipos básico, medio superior y superior, con sus respectivos niveles y podrán adoptar las modalidades escolarizadas, no escolarizadas o mixtas y los tipos técnicos en sus diversas manifestaciones. Igualmente el sistema comprenderá la educación inicial, la especial, la educación para adultos, la formación para el trabajo, o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 22.
 
-La educación inicial tendrá como finalidad familiarizar al niño a partir de los 45 días y hasta los 4 años de edad, en su correcto desenvolvimiento social en núcleos distintos al familiar, con el propósito de favorecer su desarrollo físico, cognoscitivo, afectivo y social. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, y comprende la que se imparte en los Centros de Desarrollo Infantil, en las guarderías y en los análogos de particulares.
+La educación inicial tendrá como finalidad familiarizar al niño a partir de los 45 días y hasta los 3 años de edad, en su correcto desenvolvimiento social en núcleos distintos al familiar, con el propósito de favorecer su desarrollo físico, cognoscitivo, afectivo y social. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, y comprende la que se imparte en los Centros de Desarrollo Infantil, en las guarderías y en los análogos de particulares.
 
 ###### ARTICULO 23.
 
 El tipo básico comprende la educación preescolar, la primaria y la secundaria.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la socialización del menor a partir de los cuatro años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente obligatorio para ingresar a la educación primaria.
+La educación preescolar tendrá como propósito fundamental la socialización del menor a partir de los 3 años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente obligatorio para ingresar a la educación primaria.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 25.
 
-La educación primaria persigue esencialmente el desarrollo y adaptación de los educandos al medio que le es propio, capacitándolos para un desarrollo afectivo, cognoscitivo, psicomotriz, para una vida social en libertad y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente a la investigación y al trabajo; se sujetará a los planes y programas establecidos por la SEP, los cuales contarán con la opinión del Estado sobre contenidos regionales, como lo dispone la Ley General. Incluye las escuelas regulares, las de educación especial y las de adultos en su caso. Constituye antecedente obligatorio de la educación secundaria.
+La educación primaria persigue esencialmente el desarrollo y adaptación de los educandos al medio que le es propio, capacitándolos para un desarrollo afectivo, cognoscitivo y psicomotriz, para una vida social en libertad y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente a la investigación y al trabajo; se sujetará a los planes y programas establecidos por la Secretaría de Educación Pública, los cuales contarán con la opinión del Estado sobre los contenidos regionales, como lo dispone la Ley General. Incluye las escuelas regulares, las de educación especial y las de adultos, en su caso. Constituye antecedente obligatorio de la educación secundaria, y la edad requerida para ingresar a este nivel educativo es de 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 ###### ARTICULO 26.
 
@@ -1209,7 +1213,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los
 
 El Gobernador Constitucional del Estado, TOMAS YARRINGTON RUVALCABA.- Rúbrica.- La Secretaria General de Gobierno. LAURA ALICIA GARZA GALINDO Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 16 DE OCTUBRE DEL 2002.
 
@@ -1238,3 +1242,9 @@ P.O. 27 DE JUNIO DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 9 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
