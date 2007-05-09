@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2006-11-29"
+last_updated: "2007-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -319,9 +319,23 @@ IX. Vigilar el funcionamiento de los servicios funerarios y de las salas de masa
 
 X. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
+
 ###### Artículo 25.
 
-Son atribuciones del Director de Oficialía Jurídica y Barandilla, imponer las sanciones a los infractores del Bando de Policía y Buen Gobierno y por las violaciones al orden público en el Municipio. Así mismo le corresponde la integración de la documentación necesaria a efecto de poner a disposición de la autoridad investigadora o Tribunal para Menores, a los presuntos responsables de la comisión de delitos o faltas administrativas, que sean detenidos por el cuerpo de Policía Municipal.
+Son atribuciones del Director de Oficialía Jurídica y Barandilla:
+
+I. Las de un juez de Barandilla, de conformidad a las disposiciones que al respecto establece el Reglamento de Policía y buen gobierno del Municipio de Juárez, Chihuahua;
+
+II. Coordinar en el ámbito de su competencia la actividad de los Jueces de Oficialía Jurídica y Barandilla;
+
+III. Supervisar el desempeño de los Oficiales Calificadores, adscritos a la Dirección General de Transito Municipal;
+
+IV. Vigilar el buen desempeño del personal administrativo a su cargo;
+
+V. Recopilar la información necesaria, a fin de integrar los reportes estadísticos del personal bajo su mando y vigilancia; y
+
+VI. Las demás que le confieran las Leyes, Reglamentos y Manuales de Organización.
 
 TESORERIA
 
@@ -1386,5 +1400,9 @@ P.O. 9 DE SEPTIEMBRE DE 2006.
 UNICO.- La presente adición al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 29 DE NOVIEMBRE DE 2006.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 9 DE MAYO DE 2007.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
