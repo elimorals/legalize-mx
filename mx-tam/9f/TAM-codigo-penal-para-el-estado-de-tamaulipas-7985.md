@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-03-14"
+last_updated: "2007-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1839,7 +1839,7 @@ II.- El que induzca o solicite a una persona para que, con otra, comercie sexual
 
 III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se practique la prostitución.
 
-((REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 200.
 
@@ -2155,7 +2155,7 @@ I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia est
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo cargo o comisión pública;
+II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos;
 
 III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
@@ -3697,11 +3697,15 @@ XV.- Cuando se traslade el o los vehículos robados a otra entidad federativa a 
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-XVI.- Cuando se utilice el o los vehículos robados en la comisión de otro u otros delitos; y
+XVI.- Cuando se utilice el o los vehículos robados en la comisión de otro u otros delitos; y (sic)
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-XVII.- Cuando se posea o utilice algún vehículo de fuerza motriz robado, conociendo tal circunstancia.
+XVII.- Cuando se posea o utilice algún vehículo de fuerza motriz robado, conociendo tal circunstancia;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2007)</small>
+
+XVIII.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa.
 
 ###### ARTICULO 408.
 
@@ -4380,3 +4384,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 14 DE MARZO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
