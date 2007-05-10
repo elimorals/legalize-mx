@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-16566"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-30"
-last_updated: "2003-12-18"
+last_updated: "2007-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2007.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1996.
 
@@ -1809,15 +1809,131 @@ Las resoluciones que correspondan, se agregarán al expediente u hoja de servici
 
 ARTICULO 170 BIS.- En todo lo no previsto para la tramitación del procedimiento ante la Junta de Honor, en la tramitación del recurso de inconformidad ante la misma o el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, así como en la admisión, desahogo y valoración de las pruebas, se aplicará supletoriamente el procedimiento administrativo y las disposiciones contenidas en el Código de Procedimientos Civiles para el Estado de Sonora, en lo que no se opongan a lo previsto en el presente ordenamiento.
 
-### CAPITULO UNICO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE MAYO DE 2007)</small>
+
+### CAPITULO VII. DEL REGIMEN DISCIPLINARIO DE LA POLICIA ESTATAL DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 1.- La actuación de los integrantes de la Policía Estatal de Seguridad Pública, deberá ajustarse a los principios de legalidad, profesionalismo, eficiencia, disciplina, honradez y al más absoluto respeto a los derechos humanos y a las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 2.- A los integrantes de la Policía Estatal de Seguridad Pública les serán aplicables las normas de actuación y disciplina, así como las sanciones y correctivos disciplinarios previstos en esta Ley para los casos de incumplimiento de las normas que deben observarse por dichos servidores públicos en el desempeño de sus cargos.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 3.- Los integrantes de la Policía Estatal de Seguridad Pública ajustarán invariablemente su conducta a los principios de legalidad, lealtad, imparcialidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, para ese efecto se sujetarán a las normas de actuación y de disciplina siguientes:
+
+I.- No abandonar el servicio o comisión sin causa justificada;
+
+II.- Abstenerse de realizar cualquier acto u omisión que cause o pueda causar la suspensión o deficiencia de la función que legalmente tenga asignada;
+
+III.- Realizar las investigaciones relativas a la prevención del delito, con estricto apego a las disposiciones constitucionales y legales aplicables en materia de garantías individuales y derechos humanos;
+
+IV.- Desempeñar sus funciones sin solicitar o recibir para sí o para otro, dinero o cualquier otra dádiva, bajo cualquier concepto, y sin aceptar propuesta alguna para hacer o dejar de hacer algo injusto o justo relacionado con sus funciones;
+
+V.- Abstenerse de presentarse a sus labores en estado de embriaguez o bajo la influencia de alguna droga, a menos que sea por prescripción médica la cual deberá poner en conocimiento oportunamente a sus superiores, exhibiendo la orden médica correspondiente;
+
+VI.- No hacer uso durante sus labores o fuera de servicio de droga, enervantes, psicotrópicos o estupefacientes;
+
+VII.- Sujetarse a los exámenes para la detección de uso de drogas, enervantes, psicotrópicos o estupefacientes que se realice por la institución policial, así como firmar las actas correspondientes que se deriven de los mismos;
+
+VIII.- Prestar auxilio a las personas amenazadas por algún peligro, así como brindar protección a sus bienes y derechos, con oportunidad y proporcionalidad a la situación;
+
+IX.- Abstenerse de realizar, en los casos que proceda, la detección de persona alguna sin cumplir con los requisitos y garantías previstos para tal efecto por las disposiciones constitucionales y legales aplicables;
+
+X.- Abstenerse de dejar en libertad, sin estar facultado para ello, a cualquier persona que se encuentre bajo su custodia o vigilancia o haya cometido un delito o una falta administrativa;
+
+XI.- Evitar portar arma de fuego, durante su servicio, que no sea la asignada por la institución policial;
+
+XII.- Abstenerse de realizar cualquier acto u omisión que implique abuso o ejercicio indebido de sus funciones, o el ejercicio de funciones que no le correspondan;
+
+XIII.- Entregar sin demora a la autoridad correspondiente los instrumentos u objetos de los delitos o de aquellos que sean recogidos a las personas que se detenga en flagrancia de delito o que se le haya entregado por cualquier motivo;
+
+XIV.- No ejecutar actos que por su imprudencia, descuido o negligencia (sic) pongan en peligro su integridad física, su seguridad y la de sus compañeros, o que pongan en riesgo el material y equipo que se les haya asignado;
+
+XV.- Evitar usar vehículos recuperados, robados y de procedencia extranjera que no estén legalmente regularizados en el territorio nacional, durante y fuera de su servicio;
+
+XVI.- No prestar, vender o empeñar el armamento o equipo que la Institución policial le asigne para el desempeño de sus funciones;
+
+XVII.- No revelar información confidencial o reservada a la que haya tenido acceso, con motivo del ejercicio de sus funciones, salvo que así lo disponga una disposición legal;
+
+XVIII.- Custodiar y cuidar la documentación en información que por razón de sus funciones conserve bajo su cuidado o a la cual tenga acceso, así como hacer uso de la misma exclusivamente para los fines a los que estén destinados;
+
+XIX.- Evitar asociarse con otros integrantes de la institución policial con la finalidad de no cumplir con las disposiciones establecidas para el desempeño de sus funciones;
+
+XX.- Abstenerse de desempeñar sus funciones auxiliándose de personas ajenas a la institución policial;
+
+XXI.- Excusarse de intervenir en asuntos o acciones en los cuales exista o pueda resultar un involucramiento o derivarse un vínculo con algún pariente o amigo o tenga algún interés personal, familiar o de negocios en los mismos;
+
+XXII.- Usar siempre el uniforme reglamentario en el desempeño de sus funciones;
+
+XXIII.- Portar la identificación oficial que los acredita como miembro activo de la institución policial, en el desempeño de sus funciones;
+
+XXIV.- Rendir el informe correspondiente a las actividades necesarias, cuando así lo amerite el servicio;
+
+XXV.- Usar en forma debida todo el equipamiento que se les haya proporcionado por la Institución policial en el desempeño de sus funciones;
+
+XXVI.- Presentarse al desempeño de sus funciones con un aspecto de limpieza, tanto en su físico como en el uniforme portado;
+
+XXVII.- Comportarse con sus compañeros con respeto, cortesía y educación, así como observar con sus superiores e inferiores las debidas reglas de relación jerárquicas que correspondan, cumpliendo las disposiciones que los primeros dicten en el ámbito de sus atribuciones y evitando incurrir en desviación o abuso de autoridad con los segundos;
+
+XXVIII.- Abstenerse de asistir con el uniforme de servicio a lugares o eventos que no les han sido comisionados por su superior jerárquico;
+
+XXIX.- No asistir al servicio, comisión o servicio extraordinario asignado por la superioridad sin causa justificada;
+
+XXX.- Saludar militarmente a sus superiores jerárquicos; y
+
+XXXI.- Las demás que se establezcan en otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 4.- Corresponderá al Secretario Ejecutivo de Seguridad Pública imponer las sanciones y correctivos disciplinarios por el incumplimiento de las normas de conducta a que se refiere el artículo anterior en que incurran los integrantes de la Policía Estatal de Seguridad Pública. Dichas sanciones y correctivos disciplinarios consistirán en:
+
+I.- Amonestación;
+
+II.- Arresto, simple o severo;
+
+III.- Suspensión del servicio hasta por treinta días; y
+
+IV.- Destitución.
+
+Se entiende por amonestación el acto en virtud del cual se hace de conocimiento del integrante de la Policía Estatal de Seguridad Pública de que se trate de la infracción cometida y las implicaciones de orden público y social de la misma, exhortándolo a no reincidir en la conducta cometida.
+
+El arresto, que puede ser simple o severo, consiste en la reclusión temporal en el recinto oficial de la institución policial de quien haya cometido la infracción. El arresto simple consiste en la reclusión obligatoria del infractor hasta por doce horas; el arresto severo consiste en la reclusión hasta por un término de treinta y seis horas. Ambos arrestos deberán cumplirse después de concluido su turno de servicio.
+
+La destitución consistirá en la separación o remoción y la consecuente baja del servicio del integrante de la Policía Estatal de Seguridad Pública que haya incurrido en el incumplimiento de las normas de conducta y de disciplina previstos en las fracciones I, IV, V, VI, VII, X, XVII y XIX del artículo 170 Bis 3 de esta Ley.
+
+El Secretario Ejecutivo de Seguridad Pública podrá delegar en el Director General de la Policía Estatal de Seguridad Pública la facultad de imponer las sanciones previstas en las fracciones I, II y III del párrafo primero este artículo.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 5.- Para la imposición de las sanciones y correcciones disciplinarias establecidas en el artículo anterior, se substanciará el procedimiento correspondiente conforme a las siguientes reglas:
+
+I.- El procedimiento se iniciará de oficio o por denuncia, con apoyo en elementos probatorios suficientes para presumir el incumplimiento de que se trate, y será substanciado por la unidad administrativa que se determine en el Reglamento Interior del Secretario Ejecutivo de Seguridad Pública hasta ponerlo en estado de resolución;
+
+II.- Radicada que fuese una denuncia, o abierto el procedimiento de oficio, se notificará al encausado del mismo, haciéndosele saber los hechos que se le imputan con el objeto de que presente su defensa y ofrezca pruebas dentro de un término de cinco días contado a partir de la notificación respectiva;
+
+III.- Una vez desahogadas las pruebas presentadas y las que de oficio se manden practicar en relación con el caso, se pondrá el expediente para alegatos durante un plazo de tres días, y transcurrido este término, con o sin alegatos, se cerrará el expediente para el efecto de que se dicte la resolución que proceda.
+
+El procedimiento de referencia no podrá extenderse por un plazo mayor de treinta días naturales a partir de la fecha de presentación de la denuncia respectiva o su apertura de oficio.
+
+En cualquier momento y según las circunstancias de cada caso, la autoridad que conduzca el procedimiento podrá suspender provisionalmente al encausado hasta en tanto se resuelva en definitiva el asunto.
+
+Serán aplicables al procedimiento que establece este artículo las reglas del Código de Procedimientos Penales para el Estado de Sonora en lo relativo a notificaciones y ofrecimiento, admisión, desahogo y valoración de pruebas.
+
+Contra la resolución que ponga fin a este procedimiento no procederá medio de impugnación o juicio ordinario alguno.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+
+ARTICULO 170 BIS 6.- El Secretario Ejecutivo de Seguridad Pública, previo acuerdo del Gobernador del Estado, podrá conceder licencias a los integrantes de la Policía Estatal de Seguridad Pública hasta por un mes con goce de sueldo y hasta por dos meses sin goce del mismo.
 
 # LIBRO TERCERO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
 ## TITULO UNICO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
-### CAPITULO I. DE LOS BANDOS DE POLICIA Y GOBIERNO, DE LAS CIRCULARES Y DE LAS DEMAS DISPOSICIONES DE OBSERVANCIA GENERAL EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+### CAPITULO UNICO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
 ###### ARTICULO 171.
 
@@ -1935,7 +2051,7 @@ Los prestadores del servicio privado de seguridad que sean sancionados conforme 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
-### CAPITULO II. DE LAS FALTAS AL BANDO DE POLICIA Y GOBIERNO
+### CAPITULO I. DE LOS BANDOS DE POLICIA Y GOBIERNO, DE LAS CIRCULARES Y DE LAS DEMAS DISPOSICIONES DE OBSERVANCIA GENERAL EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
@@ -1975,7 +2091,7 @@ Los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
-### CAPITULO III. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO II. DE LAS FALTAS AL BANDO DE POLICIA Y GOBIERNO
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
@@ -1983,7 +2099,9 @@ Los Bandos de Policía y Gobierno, las circulares y las demás disposiciones de 
 
 Se consideran como faltas al Bando de Policía y Gobierno, las acciones u omisiones que, sin ser constitutivas de delito, alteren el orden y la tranquilidad públicas, realizadas en los lugares públicos señalados en el artículo 77, fracción III de esta ley, o que tengan efectos en esos lugares.
 
-### CAPITULO I. DE LOS JUZGADOS CALIFICADORES
+### CAPITULO III. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 189.
 
@@ -2057,7 +2175,7 @@ La potestad pública para castigar las infracciones al Bando de Policía y Gobie
 
 ## TITULO SEGUNDO. DE LA JUSTICIA DE BARANDILLA
 
-### CAPITULO II. DEL PROCEDIMIENTO POR INFRACCIONES A LOS BANDOS DE POLICIA Y GOBIERNO
+### CAPITULO I. DE LOS JUZGADOS CALIFICADORES
 
 ###### ARTICULO 200.
 
@@ -2129,7 +2247,7 @@ Las funciones que la presente ley y sus disposiciones reglamentarias confieran a
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
 
-### CAPITULO III. DE LOS RECURSOS CONTRA LAS RESOLUCIONES DE LOS JUECES CALIFICADORES
+### CAPITULO II. DEL PROCEDIMIENTO POR INFRACCIONES A LOS BANDOS DE POLICIA Y GOBIERNO
 
 ###### ARTICULO 208.
 
@@ -2209,7 +2327,7 @@ Las órdenes de presentación y los citatorios que se formulen con motivo del pr
 
 En todo lo no previsto por esta ley y sus disposiciones reglamentarias, se aplicará supletoriamente el Código de Procedimientos Penales para el Estado de Sonora, en lo que resulte conducente.
 
-### CAPITULO IV. DE LA APLICACION DE SANCIONES
+### CAPITULO III. DE LOS RECURSOS CONTRA LAS RESOLUCIONES DE LOS JUECES CALIFICADORES
 
 ###### ARTICULO 219.
 
@@ -2235,7 +2353,7 @@ La interposición del recurso de inconformidad suspende la ejecución de la sanc
 
 Contra la resolución que recaiga al recurso de inconformidad procede el juicio correspondiente ante el Tribunal Estatal de lo Contencioso Administrativo.
 
-### CAPITULO V. DE LA SUSPENSION CONDICIONAL Y DE LA CONMUTACION DE LA SANCION
+### CAPITULO IV. DE LA APLICACION DE SANCIONES
 
 ###### ARTICULO 225.
 
@@ -2256,6 +2374,8 @@ Si la falta cometida no es grave, el Juez Calificador sólo amonestará al infra
 ###### ARTICULO 229.
 
 La facultad de ejecutar las sanciones administrativas, impuestas por el Juez Calificador, prescribirá en seis meses, contados a partir de que se declare firme la resolución y únicamente se interrumpirá por la primera diligencia que se realice para castigar la falta. En ningún caso el tiempo de prescripción excederá de un año.
+
+### CAPITULO V. DE LA SUSPENSION CONDICIONAL Y DE LA CONMUTACION DE LA SANCION
 
 ###### ARTICULO 230.
 
@@ -2344,3 +2464,13 @@ Se abrogan la Ley que Reglamenta las Funciones de la Dirección de Prevención y
 Las funciones que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad otorga a la Dirección de Prevención y Readaptación Social, serán asumidas por el Secretario Ejecutivo a través de la Dirección General del Sistema Estatal Penitenciario.
 
 Asimismo, las funciones que la Ley de Tránsito del Estado de Sonora otorga a la Coordinación Estatal de Seguridad Pública y Tránsito serán asumidas por el Secretario Ejecutivo.
+
+P.O. 10 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
