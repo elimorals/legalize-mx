@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-gobierno-50802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-11-08"
+last_updated: "2007-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 2006
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2007.
 
-Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
+Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
 FIDEL HERRERA BELTRÁN, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el artículo 49 fracción III de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, y con fundamento en lo dispuesto por el artículo 8 fracción II de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, he tenido a bien expedir el siguiente:
 
@@ -41,9 +41,11 @@ La Secretaría de Gobierno como dependencia del Poder Ejecutivo Estatal tiene a 
 
 Cuando en este Reglamento se mencione a la Secretaría y al Secretario, se entenderá que se refiere a la Secretaría de Gobierno y a su Secretario titular.
 
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2007)</small>
+
 ###### Artículo 3°.
 
-Para su atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría cuenta con las siguientes unidades administrativas, órganos desconcentrados, descentralizados y Contraloría Interna:
+Para su atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría cuenta con las siguientes unidades administrativas, órganos desconcentrados y descentralizados:
 
 I. Secretaría de Gobierno:
 
@@ -55,39 +57,49 @@ c) Dirección General de Tránsito y Transporte;
 
 > <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
 
-c) Bis. Dirección General de Prevención y Readaptación Social.
+c) Bis. Dirección General de Prevención y Readaptación Social;
 
 > <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
 
-c) Ter. Dirección de Detección del Delito.
+c) Ter. Dirección de Detección del Delito;
 
 d) Dirección General de Acción Social;
 
-e) Coordinación General de Asesores;
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2007)</small>
+
+e) Coordinación de Asesores;
 
 f) Coordinación de Giras;
 
-g) Oficinas de Representación Regional del Gobierno del Estado;
+g) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 h) Coordinación Estatal de las Juntas de Mejoras;
 
-i) Coordinación del Programa Estatal de las Mujeres;
+i) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 j) Centros de Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal;
 
 k) Dirección General del Sistema Estatal de Becas;
 
-l) Dirección General Jurídica de Gobierno, y
+l) Dirección General Jurídica de Gobierno, y (sic)
 
-m) Unidad Administrativa:
+m) Unidad Administrativa;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+n) Editora de Gobierno.
 
 II. Subsecretaría de Gobierno, cuyas unidades administrativas son:
 
 a) Dirección General de Gobernación;
 
-b) Dirección General de Política Regional, y
+b) Dirección General de Política Regional, y (sic)
 
-c) Dirección General de Organizaciones y Partidos Políticos.
+c) Dirección General de Organizaciones y Partidos Políticos;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+d) Oficinas de Representación Regional del Gobierno del Estado;
 
 III. Órganos Desconcentrados de la Secretaría:
 
@@ -95,19 +107,23 @@ a) Archivo General del Estado;
 
 b) Consejo Estatal de Población de Veracruz;
 
-c) Instituto Veracruzano del Transporte;
+c) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-d) Centro Estatal de Desarrollo Municipal de Veracruz, y
+d) Centro Estatal de Desarrollo Municipal de Veracruz, y (sic)
 
-e) Editora de Gobierno;
+e) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-IV. Organismos Públicos Descentralizados sectorizados a la Secretaría:
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
 
-a) Instituto Veracruzano del Deporte, y
+f) Instituto Veracruzano de la Defensoría Pública;
 
-b) Comisión Estatal para la Defensa de los Periodistas.
+IV. (DEROGADA, G.O. 10 DE MAYO DE 2007)
 
-V. Contraloría Interna.
+a) (DEROGADO, G.O. 10 DE MAYO DE 2007)
+
+b) (DEROGADO, G.O. 10 DE MAYO DE 2007)
+
+V. (DEROGADA, G.O. 10 DE MAYO DE 2007)
 
 ###### Artículo 4°.
 
@@ -155,7 +171,9 @@ XVII. Coordinar las relaciones del Gobierno del Estado con los diversos grupos s
 
 XVIII. Supervisar, en el ámbito de su competencia y conforme a las leyes federales y estatales aplicables, la observancia de las disposiciones relativas a población, pirotecnia, detonantes, armas de fuego y explosivos, uso de símbolos patrios, culto religioso, juegos y sorteos, y asuntos agrarios del estado;
 
-XIX. Llevar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales, inclusive de los de la Universidad Veracruzana; de los Presidentes Municipales y Secretarios de los Ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autentificar los documentos en que intervengan o que los mismos expidan;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+XIX. Supervisar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales, así como las de los funcionarios de la Universidad Veracruzana; las de los presidentes municipales y secretarios de los ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autentificar los documentos en que intervengan o que los mismos expidan;
 
 XX. Supervisar las funciones de los notarios públicos del estado, autorizar sus libros de protocolo y controlar el Archivo de Notarías;
 
@@ -177,7 +195,7 @@ XXVIII. Intervenir en los actos jurídicos necesarios para reivindicar la propie
 
 XXIX. Fomentar el desarrollo de la cultura política en la entidad;
 
-XXX. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales en materia de protección al consumidor;
+XXX. (DEROGADA, G.O. 10 DE MAYO DE 2007)
 
 XXXI. Rendir periódicamente un informe al Gobernador del Estado sobre el trámite y resolución de los asuntos de su competencia;
 
@@ -249,11 +267,15 @@ LXI. Custodiar, junto con la Secretaría de Seguridad Pública, a los individuos
 
 > <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
 
-LXII. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social de conformidad con las leyes de la materia, y
+LXII. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social de conformidad con las leyes de la materia, y (sic)
 
 > <small>(ADICIONADA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
 
-LXIIl. Proponer al Ejecutivo medidas para organizar las actividades de las dependencias y entidades que atiendan el fenómeno delictivo.
+LXIIl. Proponer al Ejecutivo medidas para organizar las actividades de las dependencias y entidades que atiendan el fenómeno delictivo;
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+LXIV. Delegar en servidores públicos subalternos, sin perjuicio de ejercerlas directamente, las atribuciones que de la Constitución Política del Estado, la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz-Llave y de la legislación de la entidad de la que no se deriven como exclusivas del titular del Poder Ejecutivo.
 
 ### CAPÍTULO III. DE LOS ÓRGANOS ADSCRITOS A LA SECRETARÍA
 
@@ -359,7 +381,7 @@ VI. Proponer al secretario la suscripción de los convenios que deba celebrar el
 
 VII. Las demás que le confieren las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
 
 #### SECCIÓN TERCERA TER. DE LA DIRECCIÓN DE DETECCIÓN DEL DELITO
 
@@ -409,11 +431,15 @@ XI. Propiciar y apoyar la celebración de convenios orientados a la promoción y
 
 XII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento, demás disposiciones aplicables y las que expresamente le confiera el Secretario.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN GENERAL DE ASESORES
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE ASESORES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE MAYO DE 2007)</small>
 
 ###### Artículo 10.
 
-Al titular de la Coordinación General de Asesores le corresponden las siguientes atribuciones:
+Al titular de la Coordinación de Asesores le corresponden las siguientes funciones:
 
 I. Realizar las acciones de apoyo técnico y asesoría;
 
@@ -449,41 +475,13 @@ IV. Gestionar y proporcionar a la Dirección de Servicios Aéreos las necesidade
 
 V. Las demás que las disposiciones legales y reglamentarias le confieran, así como aquellas acciones que expresamente le encomiende su jefe inmediato.
 
+> <small>(DEROGADA, G.O. 10 DE MAYO DE 2007)</small>
+
 #### SECCIÓN SÉPTIMA. DE LAS OFICINAS DE REPRESENTACIÓN REGIONAL DEL GOBIERNO DEL ESTADO
 
 ###### Artículo 12.
 
-Al titular de la Oficina de Representación Regional del Gobierno del Estado le corresponden las siguientes atribuciones:
-
-I. Atender de manera eficiente y oportuna las demandas, propuestas y apoyos, que la ciudadanía requiere, a fin de lograr una mejora en sus condiciones de vida;
-
-II. Establecer relación permanente con grupos, asociaciones y organizaciones empresariales para lograr su participación en los programas de apoyo a grupos desprotegidos;
-
-III. Establecer estrecha comunicación con los titulares de las dependencias competentes para la atención de las demandas ciudadanas;
-
-IV. Evaluar y priorizar la programación y ejecución de actividades para la mejor atención social;
-
-V. Evaluar periódicamente las actividades de las distintas áreas de la Oficina de Representación, para su mejor funcionamiento e identificación;
-
-VI. Supervisar la ejecución de los recursos asignados, para el mejor control adecuado del presupuesto;
-
-VII. Entregar periódicamente informes a la Superioridad sobre las actividades de la oficina para acordar las acciones y estrategias a seguir;
-
-VIII. Sugerir a la Superioridad la aplicación de programas estratégicos para la atención social en la región;
-
-IX. Cumplir con las instrucciones que reciba para el buen desempeño de sus atribuciones;
-
-X. Representar al titular del ejecutivo estatal en los diversos actos o eventos que se lleven a cabo en la región;
-
-XI. Establecer canales de comunicación con los actores políticos y sociales de líderes de opinión de la región;
-
-XII. Coadyuvar con las diferentes instancias estatales, en la identificación y apoyo de zonas consideradas como de alto riesgo o marginadas;
-
-XIII. Establecer relación con centros de estudios superiores y universidades para proyectos productivos y de desarrollo regional;
-
-XIV Difundir las obras y acciones del Gobierno del Estado en la región, de modo que un mayor número de familias se vean beneficiadas, y
-
-XV Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 #### SECCIÓN OCTAVA. DE LA COORDINACIÓN ESTATAL DE LAS JUNTAS DE MEJORAS
 
@@ -491,67 +489,49 @@ XV Las demás que expresamente le atribuyan las leyes del estado, este reglament
 
 Al titular de la Coordinación Estatal de las Juntas de Mejoras, además de las facultades que le señala la ley de la materia, tiene las siguientes atribuciones:
 
-I. Dirigir y supervisar todas las actividades de las Juntas de Mejoras instaladas en el Estado conforme a la ley de la materia;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
 
-II. Promover la adecuada relación entre las Juntas y el Gobierno;
+I. Coordinarse con los presidentes municipales y las juntas de mejoras para que se cumpla con la finalidad de la Ley de Juntas de Mejoras del Estado de Veracruz de Ignacio de la Llave.
 
-III. Formular un programa anual de actividades y al finalizar el año rendir al Secretario un informe de actividades y metas logradas;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
 
-IV. Autorizar, previo acuerdo con el Secretario, los nombramientos de los miembros de las Juntas que por sus méritos propongan para ser ratificados;
+II. Realizar las actividades de apoyo a los ayuntamientos y comunidades en términos de la fracción anterior.
 
-V. Proponer al Secretario los lugares en los que se estime conveniente crear una Junta de Mejoras, de acuerdo con el número de habitantes del lugar;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
 
-VI. Designar, previo acuerdo con el Secretario, un interventor en los casos en que hayan sido removidos los miembros de una Junta;
+III. Llevar el registro estatal de Juntas de Mejoras del estado de Veracruz.
 
-VII. Proponer al Secretario a los ciudadanos merecedores del otorgamiento de un premio, estímulo o reconocimiento, y
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
 
-VIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
+IV. Conocer y, en su caso, opinar sobre el Programa Operativo Anual de las Juntas de Mejoras.
 
-#### SECCIÓN NOVENA. COORDINACIÓN DELPROGRAMA ESTATAL DE LAS MUJERES
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+V. Rendir al Gobernador un informe anual de actividades y metas logradas por la Junta de Mejoras.
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+VI. Atender los asuntos planteados por el presidente municipal sobre las juntas y darles gestión y seguimiento.
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+VII. Definir los lineamientos para la operación de programas que el Gobierno del Estado determine llevar a cabo por medio de las juntas, patronatos o comités de participación ciudadana.
+
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+VIII. Formular su programa anual de actividades y al finalizar el año rendir un informe de actividades y metas logradas.
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+IX. Las demás que se deriven de la Ley de Juntas de Mejoras del estado de Veracruz de Ignacio de la Llave.
+
+> <small>(DEROGADA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN NOVENA. COORDINACIÓN DEL PROGRAMA ESTATAL DE LAS MUJERES
 
 ###### Artículo 14.
 
-La Coordinación del Programa Estatal de las Mujeres tiene como objetivo coordinar, vincular y hacer las políticas interinstitucionales del Gobierno del Estado y del Gobierno Federal en la entidad, dirigidas a consolidar un piso social básico para lograr un equilibrio en igualdad de oportunidades para la mujer.
-
-Al titular le corresponden las siguientes atribuciones:
-
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes al órgano administrativo a su cargo, de acuerdo con los lineamientos dictados por el Secretario, en términos de la legislación aplicable;
-
-II. Formular los dictámenes, opiniones e informes que le sean solicitados, así como los anteproyectos de programas y de presupuesto del órgano a su cargo;
-
-III. Formular el programa operativo anual;
-
-IV. Proponer al Secretario el nombramiento o remoción de los servidores públicos del órgano a su cargo;
-
-V. Formular y someter a la aprobación del Secretario los manuales de organización y procedimientos de la Coordinación del Programa Estatal de las Mujeres;
-
-VI. Proporcionar la información o prestar la colaboración que le requieran otras dependencias o entidades de la Administración Pública Estatal;
-
-VII. Impulsar la institucionalización de programas con perspectiva de género en todas las instituciones gubernamentales;
-
-VIII. Apoyar a dependencias y municipios que soliciten opinión, seguimiento o evaluación de acciones a favor de las mujeres en el marco del Programa Estatal de las Mujeres;
-
-IX. Instalar las Comisiones Coordinadoras de los Programas Municipales de las Mujeres, para apoyar y coordinar municipios y dependencias en el desarrollo, seguimiento y evaluación de acciones a favor de las mujeres en el marco normativo del Programa Estatal de las Mujeres;
-
-X. Coordinar sus actividades con el Instituto Nacional de las Mujeres (INMUJERES);
-
-XI. Realizar investigaciones, publicaciones, reuniones, encuentros y talleres para conocer, asesorar, impulsar y dar seguimiento sistemático al avance de la equidad de género y de la condición de las mujeres en los ámbitos nacional y estatal;
-
-XII. Asistir y participar en la actualización permanente de todos los avances que en materia de género se plantean y discutan en los ámbitos nacional e internacional, para la aplicación de políticas públicas con perspectivas de género;
-
-XIII. Impulsar la organización de las mujeres con el propósito de contribuir al diseño y aplicación de políticas públicas con perspectivas de género;
-
-XIV. Fomentar la vinculación y concertación con dependencias gubernamentales y no gubernamentales a fin de realizar acciones encaminadas a favorecer el desarrollo integral de las mujeres;
-
-XV. Coordinar con las instancias competentes acciones que contribuyan a que las mujeres tengan acceso a la educación y a la salud;
-
-XVI. Brindar a las mujeres la orientación psicológica, jurídica y social que impulse y fortalezca su desarrollo integral;
-
-XVII. Promover y orientar los recursos que le otorguen la Federación y el Gobierno Estatal, para proyectos productivos que contribuyan a mejorar las condiciones económicas, políticas, culturales y sociales de las mujeres;
-
-XVIII. Difundir campañas en medios de comunicación que contribuyan a combatir los estereotipos e imágenes sociales contra la dignidad de las mujeres, e impulsar las que contrarresten la violencia contra las mujeres, tanto dentro como fuera de la familia, y
-
-XIX. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 #### SECCIÓN DÉCIMA. DE LOS CENTROS DE ADAPTACIÓN SOCIAL DE NIÑOS Y NIÑAS EN CONFLICTO CON LA LEY PENAL
 
@@ -571,7 +551,9 @@ I. Atender, en lo posible, la demanda de solicitudes de apoyo económico para es
 
 II. Coordinar la ejecución y desarrollo del programa de estímulos a estudiantes destacados;
 
-III. Elaborar el programa anual de becas del Gobierno del Estado, y
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+III. Elaborar el programa anual de estímulos del Gobierno del Estado;
 
 IV. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario.
 
@@ -667,6 +649,32 @@ XVI. Coadyuvar en la solución de los conflictos laborales que se susciten en la
 
 XVII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 10 DE MAYO DE 2007)</small>
+
+SECCIÓN DECIMOCUARTA
+
+DE LA EDITORA DE GOBIERNO
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
+
+###### Artículo 18 Bis.
+
+La Editora de Gobierno es un órgano desconcentrado dependiente directamente del secretario y su titular tiene las siguientes funciones:
+
+I. Administrar y vigilar la publicación de la Gaceta Oficial del estado de conformidad con la ley de la materia;
+
+II. Editar las publicaciones de naturaleza académica, científica, educativa, tecnológica, de fomento y divulgación de la cultura que promuevan las dependencias y entidades de los poderes Ejecutivo, Legislativo o Judicial; así como aquellas que le soliciten los gobiernos municipales y personas de los sectores público, social o privado, previo acuerdo con el secretario en los dos últimos casos;
+
+III. Publicar carteles y promocionales que tengan por objeto difundir el acervo cultural del Gobierno del Estado y sus instituciones, y
+
+IV. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y otras disposiciones aplicables, además de las que expresamente le confiera el secretario.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
+
+###### Artículo 18 Ter.
+
+La Editora de Gobierno podrá percibir ingresos derivados de la prestación de sus servicios, de conformidad con las disposiciones legales aplicables, los cuales se destinarán al desarrollo y atención de las actividades específicas de su competencia.
+
 ### CAPÍTULO IV. DE LA SUBSECRETARÍA DE GOBIERNO Y SUS DIRECCIONES GENERALES
 
 ###### Artículo 19.
@@ -707,7 +715,9 @@ XVI. Diseñar sistemas administrativos que permitan dar respuesta expedita a las
 
 XVII. Intervenir, de conformidad con las leyes federales y estatales aplicables, en el auxilio y coordinación con las autoridades federales, tomar parte en la observancia de las disposiciones legales relativas a población, pirotecnia, detonantes, armas de fuego y explosivos, uso de símbolos patrios y culto religioso;
 
-XVIII. Llevar el registro de autógrafos y legalizar las formas de los servidores públicos estatales, inclusive los de la Universidad Veracruzana; de los presidentes municipales y secretarios de los ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública, para autentificar los documentos en que intervengan o que los mismos expidan; y efectuar, en su caso, el apostillamiento correspondiente, así mismo delegar al Director General de Gobernación esta facultad en caso de ausencia;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
+
+XVIII. Llevar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales, así como las de los funcionarios de la Universidad Veracruzana, las de los presidentes municipales y secretarios de los ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública, para autentificar los documentos en que intervengan o que los mismos expidan, y efectuar, en su caso, el apostillamiento correspondiente y delegar al director general de Gobernación esta facultad en caso de ausencia;
 
 XIX. Vigilar y controlar, en términos de la legislación aplicable, todo lo relativo a la demarcación y límites del estado;
 
@@ -773,11 +783,49 @@ IV. Coadyuvar en el fortalecimiento de las relaciones entre la sociedad civil, l
 
 V. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario, y el Subsecretario.
 
-#### SECCIÓN PRIMERA. DEL ARCHIVO GENERAL DEL ESTADO
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN CUARTA. DE LAS OFICINAS DE REPRESENTACIÓN REGIONAL DEL GOBIERNO DEL ESTADO
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
+
+###### Artículo 22 Bis.
+
+Al titular de la oficina de Representación Regional del Gobierno del Estado corresponden las siguientes funciones:
+
+I. Atender de manera eficiente y oportuna las demandas, propuestas y apoyos que la ciudadanía requiera a fin de lograr una mejora en sus condiciones de vida;
+
+II. Establecer relación permanente con grupos, asociaciones y organizaciones empresariales para que participen en los programas de apoyo a grupos desprotegidos;
+
+III. Establecer estrecha comunicación con los titulares de las dependencias competentes para la atención de las demandas ciudadanas;
+
+IV. Evaluar y jerarquizar la programación y ejecución de actividades para la mejor atención social;
+
+V. Evaluar periódicamente las actividades de todas las áreas de la oficina de Representación para su mejor funcionamiento e identificación;
+
+VI. Supervisar la ejecución de los recursos asignados para un control adecuado del presupuesto;
+
+VII. Entregar periódicamente informes a la superioridad sobre las actividades de la oficina para acordar las acciones y estrategias a seguir;
+
+VIII. Sugerir a la superioridad la aplicación de programas estratégicos para la atención social en la región;
+
+IX. Cumplir con las instrucciones que reciba para el buen desempeño de sus funciones;
+
+X. Representar al titular del Ejecutivo Estatal en los diversos actos o eventos que se lleven a cabo en la región.
+
+XI. Establecer canales de comunicación con los actores políticos y sociales de líderes de opinión de la región;
+
+XII. Coadyuvar con las diferentes instancias estatales, en la identificación y apoyo de zonas consideradas como de alto riesgo o marginadas;
+
+XIII. Establecer relación con centros de estudio superiores y universidades para proyectos productivos y de desarrollo regional;
+
+XIV. Difundir las obras y acciones del Gobierno del Estado en la región, de modo que un mayor número de familias se vean beneficiadas; y
+
+XV. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el secretario.
 
 ### CAPÍTULO V. DE LOS ÓRGANOS DESCONCENTRADOS DE LA SECRETARÍA
 
-#### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE POBLACIÓN DE VERACRUZ
+#### SECCIÓN PRIMERA. DEL ARCHIVO GENERAL DEL ESTADO
 
 ###### Artículo 23.
 
@@ -821,105 +869,117 @@ XVII. Informar periódicamente al Secretario del desempeño de sus funciones, y
 
 XVIII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le con fiera el Secretario.
 
-#### SECCIÓN TERCERA. DEL INSTITUTO VERACRUZANO DEL TRANSPORTE
+#### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE POBLACIÓN DE VERACRUZ
 
 ###### Artículo 24.
 
 El Consejo Estatal de Población de Veracruz es un organismo público desconcentrado de la Administración Pública estatal, sectorizado en la Secretaría, el cual se regirá por las disposiciones del decreto de su creación y por su reglamento interno.
 
-#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
+> <small>(DEROGADO, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN TERCERA. DEL INSTITUTO VERACRUZANO DEL TRANSPORTE
 
 ###### Artículo 25.
 
-El Instituto Veracruzano del Transporte es un órgano administrativo desconcentrado de la Secretaría, que depende directamente del Secretario. Contará con autonomía técnica y operativa, y tendrá por objeto promover la capacitación, estudio e investigación en materia de transporte en el estado. La organización y funcionamiento de dicho Instituto se sujetará a lo dispuesto por este ordenamiento y por su reglamento interno.
-
-Corresponde al Instituto Veracruzano del Transporte:
-
-I. Impartir cursos de capacitación a los operadores del transporte público y a los particulares;
-
-II. Difundir entre la población las acciones de capacitación en materia de transporte;
-
-III. Realizar acciones que permitan elevar el desempeño de los operadores del transporte público en beneficio de los usuarios;
-
-IV. Fomentar la cultura vial en la población veracruzana en coordinación con la Dirección General de Tránsito y Transporte;
-
-V Efectuar estudios e investigaciones que permitan mejorar el transporte público en el Estado;
-
-VI. Impulsar, ante las dependencias, entidades y los concesionarios, las acciones que contribuyan al mejoramiento del transporte en el estado;
-
-VII. Apoyar a la Dirección General de Tránsito y Transporte en los estudios que esta realice sobre las necesidades del transporte público en la entidad, y
-
-VIII. Las demás que le atribuyan las leyes, reglamentos, y las que le confiera el Secretario.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 ###### Artículo 26.
 
-Al titular de la Dirección del Instituto Veracruzano del Transporte le corresponden las siguientes facultades:
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-I. Dirigir, ejecutar y controlar las actividades del Instituto Veracruzano del Transporte conforme a las directrices que emanen del Secretario;
+#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
 
-II. Acordar con el Secretario la resolución de los asuntos de su competencia;
-
-III. Representar legalmente al Instituto Veracruzano del Transporte;
-
-IV. Programar e instrumentar los cursos de capacitación dirigidos a los operadores del transporte público y a los particulares;
-
-V. Expedir constancias de acreditación de los cursos de capacitación impartidos por el Instituto Veracruzano del Transporte;
-
-VI. Planear y desarrollar las acciones de difusión sobre la capacitación en materia de transporte;
-
-VII. Desarrollar estudios e investigaciones para el mejoramiento del transporte en el estado;
-
-VIII. Elaborar y proponer al Secretario la normatividad interna del Instituto Veracruzano del Transporte, y
-
-IX. Las demás que le atribuyan las leyes y reglamentos, así como las que le confiera el Secretario.
-
-#### SECCIÓN QUINTA. DE LA EDITORA DE GOBIERNO
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2007)</small>
 
 ###### Artículo 27.
 
-El Centro Estatal de Desarrollo Municipal de Veracruz es un órgano administrativo desconcentrado de la Secretaría, dependiente directamente del Secretario. La organización y funcionamiento de dicho Centro se sujetará a lo dispuesto por el decreto de su creación.
+El Centro Estatal de Desarrollo Municipal tendrá las siguientes atribuciones:
 
-#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
+I. Impulsar políticas y acciones de vinculación institucional del Gobierno del Estado con los ayuntamientos de la entidad;
+
+II. Promover y colaborar en la elaboración de un programa que contenga políticas y acciones tendentes al desarrollo municipal y al fortalecimiento de la capacidad de gestión y concertación en los municipios;
+
+III. Promover la realización de programas de desarrollo, a través de la concertación de acciones concretas con las distintas organizaciones sociales y privadas;
+
+IV. Contribuir a la modernización administrativa de los ayuntamientos por medio de programas de apoyo técnico, y con la aplicación de un sistema de informática para la administración municipal;
+
+V. Diseñar programas y ejecutar acciones de profesionalización, capacitación y actualización de los servidores públicos municipales;
+
+VI. Coordinar, promover y realizar proyectos de investigación, estudios y análisis de la organización municipal;
+
+VII. Impulsar la creación de grupos de trabajo y concertación que brinden apoyo y asesoría en las diversas tareas que propicien el desarrollo municipal;
+
+VIII. Coordinarse y colaborar con el Instituto Nacional para el Federalismo y el Desarrollo Municipal en la realización y ejecución de las acciones de su competencia;
+
+IX. Proponer la integración de las comisiones ejecutivas con la participación de los sectores social y privado involucrados para colaborar en la ejecución de las acciones que se deriven del Programa Estatal de Desarrollo Municipal;
+
+X. Apoyar los programas de colaboración intermunicipal para emprender acciones prioritarias de interés común, así como aquellas que den solución a problemas afines, a través de la concertación, integración e intercambio de recursos y actividades entre municipios;
+
+XI. Proponer al secretario de Gobierno las adecuaciones jurídicas y reglamentarias que permitan ordenar e impulsar acciones del desarrollo municipal que estima procedentes;
+
+XII. Organizar reuniones a nivel estatal y regional con los municipios para el intercambio de experiencias y analizar en ellas temas prioritarios y problemas comunes;
+
+XIII. Difundir por medio de publicaciones y actos académicos, por sí o a través de convenios con instituciones docentes y organismos públicos, los resultados de los trabajos de investigación científica, estudio, análisis y recopilación de información, documentación e intercambio que se realice;
+
+XlV. Efectuar seminarios, conferencias y mesas redondas, además de promover acciones de carácter académico y editorial encaminadas al fomento de una cultura del desarrollo municipal;
+
+XV. Establecer y destinar las áreas y recursos necesarios para la biblioteca, centro de documentación y de consulta en que se reúne el acervo documental y bibliográfico sobre la materia;
+
+XVI. Integrar un Centro Estatal de Informática Municipal que contenga un banco de datos sobre los distintos aspectos de la vida municipal, que sirva de base para la realización de estudios específicos, análisis comparativos, estudios de evolución y perspectiva y casos prácticos; para cuyo efecto se preverá la adecuada coordinación del centro con el Instituto Nacional de Estadística, Geográfica e Informática;
+
+XVII. Asesorar a la Secretaría de Gobierno, cuando así fuese requerido, en su relación con las autoridades municipales;
+
+XVIII. Las demás que otras disposiciones le confieran y las que le señale el secretario de Gobierno.
+
+> <small>(DEROGADA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN QUINTA. DE LA EDITORA DE GOBIERNO
 
 ###### Artículo 28.
 
-La Editora de Gobierno es un órgano desconcentrado dependiente directamente del Secretario, y su Titular tiene las siguientes atribuciones:
-
-I. Administrar y vigilar la publicación de la Gaceta Oficial del Estado, de conformidad con la ley de la materia;
-
-II. Editar las publicaciones de naturaleza académica, científica, educativa, tecnológica, de fomento y divulgación de la cultura, que promuevan las dependencias y entidades de los poderes Ejecutivo, Legislativo o Judicial, así como aquellas que le soliciten los gobiernos municipales y personas de los sectores público, social o privado, previo acuerdo con el Secretario en los dos últimos casos;
-
-III. Publicar carteles y promocionales que tengan por objeto difundir el acervo cultural del Gobierno del Estado y sus instituciones, y
-
-IV. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 ###### Artículo 29.
 
-La Editora de Gobierno podrá percibir ingresos derivados de la prestación de sus servicios, de conformidad con las disposiciones legales aplicables, los cuales se destinarán al desarrollo y atención de las actividades específicas de su competencia.
+(DEROGADA, G.O. 10 DE MAYO DE 2007)
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN SEXTA. DEL INSTITUTO VERACRUZANO DE LA DEFENSORÍA PÚBLICA
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
+
+###### Artículo 29 Bis.
+
+El Instituto Veracruzano de la Defensoría Pública es un órgano desconcentrado de la Secretaría, dependiente directamente del secretario. La organización y funcionamiento del Instituto se sujetará a lo dispuesto por el decreto de su creación, sus reglamentos y manuales correspondientes.
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
 
 ### CAPÍTULO VI. DE LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS
 
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTERA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
+
 ###### Artículo 30.
 
-El Instituto Veracruzano del Deporte es un organismo público descentralizado de la Administración Pública estatal, sectorizado en la Secretaría se regirá por la Ley del Deporte y por su reglamento interno.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
+
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
 ###### Artículo 31.
 
-La Comisión Estatal para la Defensa de los Periodistas es un órgano administrativo descentralizado sectorizado a la Secretaría, dependiente directamente del Secretario. La organización y funcionamiento de dicha Comisión se sujetará a lo dispuesto por el decreto de su creación.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
 
 ###### Artículo 32.
 
-La Secretaría cuenta con una Contraloría Interna, órgano interno de control, al frente de la cual el Contralor Interno designado en los términos de los artículos 8 fracción VI y 34, fracción XIII de la Ley Orgánica del Poder Ejecutivo y, en ejercicio de sus facultades, se auxiliará por los servidores públicos necesarios para el cumplimiento de sus funciones, mismos que serán designados en los términos del Reglamento Interior de la Contraloría General.
-
-Con sujeción a su presupuesto autorizado, el o los órganos administrativos desconcentrados de la Secretaría contarán, en su caso, con una Contraloría Interna en los términos del párrafo anterior. En el supuesto de que el o los órganos administrativos desconcentrados no cuente con dicha Contraloría, las facultades a que se refiere este artículo se ejercerán por la Contraloría Interna de la dependencia.
-
-Los servidores públicos a que se refieren los párrafos anteriores, ejercerán en el ámbito de sus respectivas competencias las facultades previstas en la Ley Orgánica del Poder Ejecutivo, en la Ley de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en lo conducente por el Reglamento Interior de la Contraloría General.
-
-La Secretaría y sus órganos administrativos desconcentrados proporcionarán al titular de su respectiva Contraloría Interna los recursos humanos, financieros y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría y de sus órganos administrativos desconcentrados están obligados a proporcionar el auxilio que requiera el titular de cada Contraloría Interna para el desempeño de sus facultades.
+(DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 ### CAPÍTULO VII (SIC). DE LA SUPLENCIA
 
@@ -956,3 +1016,9 @@ G.O. 8 DE NOVIEMBRE DE 2006.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 10 DE MAYO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
