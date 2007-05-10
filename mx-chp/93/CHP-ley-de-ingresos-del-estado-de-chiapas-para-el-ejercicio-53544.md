@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-53544"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-20"
-last_updated: "2006-12-20"
+last_updated: "2007-05-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 20 de diciembre de 2006.
 
@@ -326,6 +326,16 @@ de las Entidades Federativas. 903,851
 2.3.10. Otras Aportaciones y Subsidios. 2,430,076
 
 3. Ingresos Extraordinarios. -
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2007)</small>
+
+3.1. Por emisión y colocación de
+
+valores bursátiles -
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2007)</small>
+
+3.2. Otros ingresos -
 
 4. Financiamientos y Empréstitos. -
 
@@ -3112,3 +3122,11 @@ Dado en el salón de sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del Articulo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 20 días del mes de diciembre del año 2006.
 
 Juan José Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MAYO DE 2007.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las reformas a los artículos 202, 205-B, 206, 211, 216, 221, 228 y 236; así como la adición del artículo 271-H, del Código de la Hacienda Pública para el Estado de Chiapas, iniciarán su vigencia a partir del primero de enero de 2008.
