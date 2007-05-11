@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-fiscalizacion-del-financiamiento-a-los-40337
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-21"
-last_updated: "2005-01-03"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de julio de 2004.
 
@@ -49,11 +49,13 @@ REGLAMENTO
 
 REGLAMENTO PARA LA FISCALIZACIÓN DEL FINANCIAMIENTO A LOS PARTIDOS POLÍTICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
-PRIMERA PARTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
 ## TÍTULO I. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO ÚNICO. DEL OBJETO DE ESTE REGLAMENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPÍTULO ÚNICO. DEL OBJETO DEL REGLAMENTO
 
 ###### ARTÍCULO 1.
 
@@ -105,35 +107,55 @@ V. Integración y presentación de los informes trimestral, anual y de gastos de
 
 En la interpretación del presente Reglamento por parte de la Comisión, así como los casos no previstos en él se aplicarán los criterios gramatical, sistemático y funcional observando lo dispuesto por el artículo 4 del Código, la analogía y el último párrafo del artículo 14 de la Constitución Federal.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 5.
 
-Toda interpretación del presente Reglamento que realice la Comisión, así como los criterios emitidos sobre los casos no previstos en él, serán notificados a los titulares responsables del Órgano Interno de los partidos políticos y/o coaliciones y a los integrantes del Consejo General, dentro de los diez días siguientes a la aprobación del acuerdo correspondiente, el cual entrará en vigor una vez que sea notificado.
+La Comisión notificará a los titulares responsables del Órgano Interno de los partidos políticos y/o coaliciones, a la Dirección, así como a los integrantes del Consejo General, la interpretación del presente Reglamento, así como los criterios emitidos para regular los casos no previstos en ellos, dentro de los diez días siguientes a la aprobación del acuerdo correspondiente, el cual entrará en vigor una vez que sea notificado a los Órganos Internos respectivos.
 
-Los partidos políticos podrán solicitar que se sometan a consideración del Consejo General, los criterios que apruebe la Comisión.
+Los partidos políticos y/o coaliciones podrán solicitar que se sometan a consideración del Consejo las interpretaciones o criterios que apruebe la Comisión.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
 Son atribuciones de la Comisión, las señaladas en el artículo 52 del Código y las demás relacionadas con la materia, así como las determinadas en el artículo 15 fracción V del Reglamento de Comisiones del Instituto Electoral del Estado, y las siguientes:
 
-I. Proporcionar, previa solicitud de los partidos políticos y/o coaliciones interesados, la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma, de las obligaciones consignadas en el Código y el presente Reglamento;
+I. Interpretar el presente Reglamento y regular los casos no previstos en él, sometiendo a aprobación del Consejo los criterios que considere;
 
-II. Vigilar que los recursos otorgados a los partidos políticos y/o coaliciones, se apliquen conforme a lo dispuesto por el Código y el presente Reglamento;
+II. Proporcionar, previa solicitud de los partidos políticos y/o coaliciones interesados, la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma, de las obligaciones consignadas en el Código y el presente Reglamento;
 
-III. Ordenar visitas de verificación de acuerdo a su competencia, de manera fundada y motivada a los Órganos Internos responsables de la administración de los recursos de los partidos políticos y/o coaliciones, así como de los partidos políticos que la conformen, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, previa autorización del Consejo General;
+III. Vigilar que los recursos recibidos por los partidos políticos y/o coaliciones, bajo las modalidades de financiamiento público y privado, se obtengan, apliquen, comprueben y justifiquen conforme a lo dispuesto por el Código y el presente Reglamento;
 
-IV. Conocer los manuales de operaciones contables y organizacional administrativa de los partidos políticos y/o coaliciones;
+IV. Ordenar visitas de verificación de acuerdo a su competencia, de manera fundada y motivada a los Órganos Internos responsables de la administración de los recursos de los partidos políticos y/o coaliciones, así como de los partidos políticos que la conformen, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, previa autorización del Consejo General;
 
-V. Aplicar en sus actos las normas y procedimientos de auditoría aceptados por el Instituto Mexicano de Contadores Públicos A.C;
+V. Conocer los manuales de operaciones contables y organizacional administrativa de los partidos políticos y/o coaliciones;
 
-VI. Verificar la observancia por parte de los partidos políticos y/o coaliciones de los topes a los gastos de campaña aprobados para cada elección haciendo del conocimiento del Consejo General los casos en que se hayan excedido; y
+VI. Aplicar en sus actos las normas y procedimientos de auditoria aceptados por el Instituto Mexicano de Contadores Públicos A.C.;
 
-VII. Las demás que le otorgue el Código, este Reglamento y demás disposiciones aplicables.
+VII. Verificar la observancia por parte de los partidos políticos y/o coaliciones de los topes a los gastos de campaña aprobados para cada elección haciendo del conocimiento del Consejo General los casos en que se hayan excedido;
 
-### CAPÍTULO ÚNICO. DE SUS ATRIBUCIONES
+VIII. Elaborar los dictámenes por cada partido político y/o coalición correspondientes a la fiscalización sobre el origen, monto y aplicación de los recursos recibidos bajo las modalidades de financiamiento público y privado; y
+
+IX. Las demás que le otorgue el Código, este Reglamento y demás disposiciones aplicables.
+
+Son atribuciones de la Dirección, además de las señaladas en el artículo 105 del Código, las siguientes:
+
+I. Proporcionar a los Órganos Internos interesados, la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma, de las obligaciones consignadas en el Código y el presente Reglamento;
+
+II. Aplicar en su revisión las técnicas de auditoria propuestas por el Instituto Mexicano de Contadores Públicos A.C.;
+
+III. Elaborar los informes por cada partido político o coalición correspondientes a la fiscalización sobre el origen, monto y aplicación de sus recursos bajo las modalidades de financiamiento público y privado;
+
+IV. Devolver a los órganos internos el soporte documental correspondiente al origen, monto y aplicación de los recursos, remitido en los informes trimestrales, anuales y de gastos de campaña de los partidos políticos; y
+
+V. Las demás que le otorgue el Código, este Reglamento y demás disposiciones aplicables.
+
+### CAPÍTULO ÚNICO. DEL OBJETO DEL REGLAMENTO
 
 ###### ARTÍCULO 7.
 
-Los partidos políticos deberán contar con un Órgano Interno encargado de la administración de los recursos que por concepto de financiamiento reciban, así como de la presentación de los informes justificatorios, de su aplicación de conformidad a las modalidades que al efecto determine el presente Reglamento.
+Los partidos políticos deberán contar con un Órgano Interno encargado de la administración de los recursos que obtengan por cualquier modalidad de financiamiento reconocido en el Código, así como de la presentación de los informes justificatorios de conformidad a las modalidades que al efecto determine el presente Reglamento.
 
 Dicho órgano se constituirá en los términos, características y modalidades que cada partido político determine según sus estatutos.
 
@@ -143,29 +165,49 @@ Los partidos políticos a través de su representante acreditado ante el Consejo
 
 En caso, de existir modificaciones en cuanto a la integración de dicho Órgano Interno, se hará del conocimiento de la Dirección en los términos de lo consignado en el presente artículo.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 9.
 
-Los partidos políticos que integren una coalición notificarán a la Dirección, quién integrará el Órgano Interno que será responsable de entregar los informes de actividades tendientes a la obtención del voto en representación de la coalición, en un plazo máximo de diez días contados a partir de la resolución de registro, que para tal efecto dicte el Consejo.
+Los partidos políticos que integren una coalición deberán señalar en el convenio por el que se constituye la misma, el nombre del representante acreditado del partido político de los que integran la coalición, que administrará su financiamiento público. Dicho representante actuará como Titular del Órgano Interno responsable de la correcta administración y comprobación del financiamiento ejercido por la coalición, así como de la presentación de los informes justificatorios de gastos de campaña con apego al Código, al presente Reglamento y a los demás ordenamientos que, en su caso, establezca la Autoridad Electoral Estatal.
+
+En caso de existir modificaciones en cuanto a la integración de dicho Órgano Interno, se hará del conocimiento de la Dirección dentro de los 10 días siguientes al nombramiento respectivo.
+
+Asimismo, en el convenio de coalición se deberá establecer:
+
+I. El partido político a nombre del cual deberá ser expedida la documentación comprobatoria de los egresos que realice y cuyo Registro Federal de Causantes (R.F.C.) será utilizado;
+
+II. La forma en que deberán ser distribuidos entre los partidos políticos integrantes de la coalición, los remanentes en las cuentas bancarias utilizadas para el manejo de los recursos en campaña, o los pasivos documentados que, en su caso, existieran una vez finalizadas las campañas electorales;
+
+III. La distribución de los activos fijos que sean adquiridos por el o los candidatos o los partidos políticos de la coalición;
+
+IV. La manifestación que los partidos políticos se sujetarán a los topes a los gastos de campaña que se fijen para los diversos tipos de elección, como si se tratarán de un solo partido político, atendiendo a la elección que haya motivado la coalición; y
+
+V. La obligación de recibir recursos, exclusivamente a través de los partidos políticos que la conforman.
 
 ###### ARTÍCULO 10.
 
-Los partidos políticos deberán presentar ante la Dirección, tres tipos de Informes:
+Los partidos políticos deberán presentar ante la Comisión, por conducto de la Dirección, tres tipos de Informes:
 
 I. Informe trimestral: El cual se referirá a todos los ingresos y gastos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación correspondientes al trimestre y año de que se trate;
 
 II. Informe anual: El cual se referirá a todos los ingresos y todos los gastos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación correspondiente al año del ejercicio que se reporte; e
 
-III. Informe de gastos de campaña: Comprenderá cada una de las campañas en las elecciones respectivas y abarcarán el periodo comprendido entre el día siguiente de concluida la sesión de registro de candidatos que efectúe el Consejo Electoral competente para la aprobación del registro de candidatos, hasta el día de conclusión de las campañas electorales, debiendo incluir el origen y destino que dieron desde su entrega a la ministración bajo el rubro de actividades tendientes a la obtención del voto, así como su financiamiento privado.
+III. Informe de gastos de campaña: Comprenderá cada una de las campañas en las elecciones respectivas y abarcarán el periodo comprendido entre el día siguiente de concluida la sesión de registro de candidatos que efectúe el Consejo Electoral competente para la aprobación del registro de candidatos, hasta el día de conclusión de las campaña (sic) electorales, debiendo incluir el origen y destino que dieron desde su entrega a la ministración bajo el rubro de actividades tendientes a la obtención del voto, así como su financiamiento privado.
 
-En consecuencia, los paridos políticos presentarán:
+En consecuencia, los partidos políticos presentarán:
 
 a) Un informe por la campaña de su candidato a Gobernador del Estado cuando haya registrado;
 
-b) Un informe por cada fórmula de candidatos a Diputados de Mayoría Relativa que haya registrado; y
+b) Un informe por cada fórmula de candidatos a Diputados de Mayoría relativa que haya registrado; y
 
 c) Un informe por cada planilla de candidatos a miembros de Ayuntamientos, que haya registrado.
 
 En cada informe de gastos de campaña será reportado el origen de los recursos que hayan utilizado para financiar los gastos.
+
+Los partidos políticos estarán obligados a presentar los informes señalados en este artículo aún cuando no haya registrado ingresos y egresos en el periodo de que se trate.
+
+En este sentido, en caso que algún candidato abandone la campaña que inició con un partido político o coalición, para registrarse como candidato en otro instituto político o coalición; renuncie a la campaña aun sin afiliarse a otro partido; decline a favor de otro candidato; no haya recibido y/o aplicado recurso alguno en efectivo y/o en especie, habiendo tenido el derecho a hacerlo; o cualquier otra circunstancia que origine la suspensión anticipada o duración irregular de una campaña, no exime ni al candidato ni al partido político o coalición de presentar al Instituto los informes justificatorios de gastos de campaña, por el tiempo que hubiese durado su campaña.
 
 ###### ARTÍCULO 11.
 
@@ -235,13 +277,21 @@ n) Detalle de ingresos obtenidos por autofinanciamiento (formato XXII); y
 
 o) Detalle de ingresos por rendimientos financieros, fondos y fideicomisos (formato XXIII).
 
+### CAPÍTULO ÚNICO. DE LAS ATRIBUCIONES
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO Y SU TITULAR
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+## TÍTULO II. DE LAS ATRIBUCIONES DE LA COMISIÓN Y LA DIRECCIÓN
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO I. DE LA PRESENTACIÓN
 
-## TÍTULO II. DE LAS ATRIBUCIONES DE LA COMISIÓN
-
-### CAPÍTULO II. DE LOS PLAZOS DE PRESENTACIÓN
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 13.
 
@@ -301,31 +351,63 @@ z) Detalle de ingresos obtenidos por autofinanciamiento (formato XXII); y
 
 aa) Detalle de ingresos por rendimientos financieros, fondos y fideicomisos (formato XXIII).
 
-### CAPÍTULO III. DE LA REVISIÓN DE LOS INFORMES POR PARTE DE LA DIRECCIÓN
+### CAPÍTULO II. DE LOS PLAZOS DE PRESENTACIÓN
 
 ###### ARTÍCULO 14.
 
 Los informes trimestrales, anuales y de gastos de campaña deberán ser suscritos por él o los titulares responsables del Órgano Interno, dentro de los plazos que establece el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-Los informes trimestral, anual y de gastos de campaña, que presentarán cada uno de los partidos políticos, deberán ser presentados en forma impresa y optativamente en medios magnéticos, conforme a las especificaciones que determine la Comisión, y en los formatos que forman parte integrante del presente Reglamento.
+Los informes trimestral, anual y de gastos de campaña, que presentarán cada uno de los partidos políticos, deberán ser presentados por el Órgano Interno, en forma impresa y en medios magnéticos, en los formatos y anexos que forman parte integrante del presente Reglamento debiendo cubrir todos y cada uno de los requisitos señalados en los mismos y en sus respectivos instructivos de llenado, conforme a lo siguiente:
+
+a) La información contable deberá ser presentada impresa y en medio magnético mediante los sistemas ContPAQ o COI; y
+
+b) La información referente a formatos y anexos deberá ser presentada impresa y en medio magnético mediante el sistema que apruebe la Comisión, mismo que será proporcionado por la Dirección a cada Órgano Interno.
+
+Los formatos y anexos integrantes del informe de gastos de campaña, que requieran de la firma de los candidatos a algún puesto de elección popular, podrán ser signados por un representante que acredite para tal efecto, mediante escrito que deberá ir anexo a los informes que presenten los partidos políticos y/o coaliciones.
+
+Se entenderá por representante acreditado, aquella persona a la que el candidato otorgue el poder para que en su nombre y representación firme los citados formatos y anexos.
 
 ## TÍTULO III. DEL ÓRGANO INTERNO ENCARGADO DE LA ADMINISTRACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS Y/O COALICIONES
 
-### CAPÍTULO IV. DE LA REVISIÓN DE LOS INFORMES POR PARTE DE LA COMISIÓN
+### CAPÍTULO III. DE LA REVISIÓN DE LOS INFORMES POR PARTE DE LA DIRECCIÓN
 
 ###### ARTÍCULO 16.
 
 Los informes trimestrales deberán ser presentados dentro de los primeros quince días del mes siguiente al periodo que se justifica.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
 Para el caso de informes trimestrales, los periodos se empezarán a justificar a partir del primer día del mes de enero al último día del mes de diciembre de cada año.
 
+Los partidos políticos estatales que obtengan su registro y los partidos políticos nacionales que se acrediten ante el Instituto por primera vez, presentarán en su primer año, informes trimestrales correspondientes al período del primer día del mes de julio al último día del mes de diciembre del año que se trate.
+
+En caso de pérdida de registro de los partidos políticos estatales, los informes trimestrales serán presentados hasta el mes en que la cancelación del registro ocurra.
+
+Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado.
+
+Asimismo, en caso de pérdida de registro de los partidos políticos nacionales y una vez que el Consejo resuelva declarando que el instituto político afectado ha perdido los derechos y prerrogativas que hubiere tenido en el ámbito estatal, los informes trimestrales serán presentados hasta el mes en que dicha resolución ocurra.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 18.
 
-Los informes anuales corresponderán al periodo del primer día del mes de enero al último día del mes de diciembre de cada año, presentándose dentro de los sesenta y cinco días siguientes a la conclusión del mes de diciembre del año que se reporte.
+Los informes anuales corresponderán al periodo del primer día del mes de enero al último día del mes de diciembre de cada año, presentándose dentro de los setenta y cinco días siguientes a la conclusión del mes de diciembre del año que se reporte.
+
+Los partidos políticos estatales que obtengan su registro y los partidos políticos nacionales que se acrediten ante el Instituto por primera vez, presentarán en su primer año, informes anuales que corresponderán al periodo del primer día del mes de julio al último día del mes de diciembre del año que se trate.
+
+Independiente de lo establecido en el párrafo anterior, los partidos políticos estatales comunicarán al Consejo el origen, monto y destino de los recursos que hayan recibido hasta antes de la fecha de entrega del financiamiento público a que tengan derecho. El comunicado deberá ser presentado dentro de los quince días siguientes al de la entrega de la(s) prerrogativa(s) que correspondan en el año que se trate. Dicha comunicación será exclusivamente de carácter informativo.
+
+Los partidos políticos estatales que pierdan su registro, presentarán el informe anual que corresponda al período del primer día del mes de enero a la fecha en que se pierda el registro, teniendo sesenta y cinco días a partir de que tal hecho sea resuelto por el Consejo General, para su entrega.
+
+Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado.
+
+Asimismo, en caso de pérdida de registro de los partidos políticos nacionales y una vez que el Consejo resuelva declarando que el instituto político afectado ha perdido los derechos y prerrogativas que hubiere tenido en el ámbito estatal, presentarán el informe anual que corresponda al período del primer día del mes de enero a la fecha de dicha resolución, teniendo sesenta y cinco días a partir de que tal hecho ocurra, para su entrega.
 
 ###### ARTÍCULO 19.
 
@@ -341,9 +423,13 @@ Además, es importante resaltar que la disposición normativa propuesta permitir
 
 De manera que, este Órgano Central estima que lo conducente es adecuar el Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, a través de la adición del artículo 19 Bis, lo que permitirá contar con un Reglamento adecuado y coherente con las disposiciones que tanto la Constitución del Estado, como el Código de la materia prevén sobre la fiscalización de los recursos de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-Con el propósito de facilitar a los partidos políticos el cumplimiento oportuno en la presentación de los informes, la Dirección efectuará el cómputo de los plazos, señalando la fecha de inicio y conclusión de los mismos; debiendo ser notificados a todos los partidos políticos a través del o los titulares responsables del Órgano Interno, dentro de los primeros quince días del mes de enero de cada año para el caso de los informes trimestrales y anuales, y dentro de los quince días siguientes al de la entrega de la prerrogativa bajo el rubro de las actividades tendientes a la obtención del voto para el caso de los informes de gastos de campaña.
+Con el propósito de facilitar a los partidos políticos el cumplimiento oportuno en la presentación de los informes, la Dirección efectuará el cómputo de los plazos, señalando la fecha de inicio y conclusión de los mismos; debiendo ser notificados a todos los partidos políticos a través del o los titulares responsables del órgano interno, dentro de los primeros quince días del mes de enero de cada año para el caso de los informes trimestrales y anuales, y dentro de los quince días siguientes al de la entrega de la prerrogativa bajo el rubro de las actividades tendientes a la obtención del voto para el caso de los informes de gastos de campaña.
+
+La Dirección informará a los partidos políticos estatales que hayan obtenido su registro y a los partidos políticos nacionales que se acrediten ante el Consejo por primera vez, de los plazos para el cumplimiento oportuno en la presentación de sus informes dentro de los quince días siguientes al de la entrega de la(s) prerrogativa(s) que correspondan en el año que se trate.
 
 ###### ARTÍCULO 21.
 
@@ -359,11 +445,17 @@ Una vez aprobados por el Consejo, los dictámenes de la Comisión relativos a lo
 
 En los casos en que la Comisión determine irregularidades en los informes justificatorios de los partidos políticos y/o coaliciones, la Dirección devolverá el sustento documental de los ingresos y egresos correspondientes, al Órgano Interno dentro de los sesenta días posteriores a que cause estado la resolución emitida por el Órgano Jurisdiccional correspondiente, derivada de las resoluciones que a su vez dicte el Consejo.
 
-### CAPÍTULO V. DE LA ELABORACIÓN DEL DICTAMEN DE LA COMISIÓN Y SU PRESENTACIÓN AL CONSEJO
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPÍTULO IV. DE LA ELABORACIÓN DEL INFORME DE LA DIRECCIÓN Y SU PRESENTACIÓN A LA COMISIÓN
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 24.
 
-Si durante la revisión de los informes la Dirección advierte la existencia de errores u omisiones técnicas, lo notificará al partido político y/o coalición que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de su notificación, presente la documentación y/o aclaraciones o rectificaciones que estime pertinentes.
+Si durante la revisión de los informes la Dirección advierte la existencia de errores u omisiones técnicas en la documentación que los integra, los notificará al partido político y/o coalición que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de su notificación, presente la documentación y/o aclaraciones o rectificaciones que estime pertinentes.
+
+A efecto de que los partidos políticos puedan subsanar los errores u omisiones técnicas determinadas por la Dirección, tendrán derecho a acceder a la documentación observada dentro de las instalaciones de la Dirección, siempre y cuando se esté dentro del plazo señalado en el párrafo que antecede.
 
 ###### ARTÍCULO 25.
 
@@ -381,9 +473,19 @@ Al vencimiento del plazo para la revisión de los informes anuales, o bien para 
 
 Al vencimiento del plazo para la revisión del informe de gastos de campaña, o bien para la entrega de documentación o aclaración y/o rectificación de errores u omisiones, la Dirección dispondrá de un plazo de treinta días para elaborar un informe, con base en el sustento documental anexo a los mismos.
 
+> <small>(ADICIONADO, 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-El informe parcial deberá ser presentado a la Comisión dentro de los tres días siguientes a su conclusión y deberá contener las observaciones determinadas a los mismos.
+El informe parcial deberá ser presentado a la Comisión dentro de los tres días siguientes a su conclusión y estará integrado por:
+
+a) Copia simple de los Estados de origen y la aplicación de recursos trimestral y acumulado que presenten los partidos políticos sobre los recursos provenientes de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación;
+
+b) Relación de errores u omisiones técnicas determinadas por la Dirección a los informes justificatorios trimestrales de los partidos políticos correspondiente al periodo del que se trate; y
+
+c) Relación de errores omisiones técnicas determinadas por la Dirección a la documentación comprobatoria de los egresos reportados en los informes justificatorios trimestrales de los partidos políticos correspondiente al periodo del que se trate.
+
+(REUBICADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 30.
 
@@ -395,81 +497,113 @@ b) El resultado y las conclusiones de la revisión del informe anual presentados
 
 c) En su caso, la mención de los errores o irregularidades encontradas en los informes o generadas con motivo de su revisión, que no hayan sido solventadas por los partidos políticos en los plazos establecidos para su notificación y respuesta respectiva.
 
+(REUBICADO, P.O. 11 DE MAYO DE 2007)
+
 ###### ARTÍCULO 31.
 
 Una vez recepcionados los informes que la Dirección elabora como consecuencia de la revisión a los informes anuales y de campaña de cada uno de los partidos políticos, la Comisión contará con sesenta días para revisar los informes citados con anterioridad.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO IV], P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 32.
 
-Si durante la revisión de los informes la Comisión advierte que aún existen errores u omisiones técnicas, lo notificará al Órgano Interno que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de la notificación, presente la documentación y/o aclaración o rectificación que estime pertinentes.
+Si durante la revisión de los informes que la Dirección elabora la Comisión advierte que aún existen errores u omisiones técnicas en la documentación que integra los informes que resultan los partidos políticos, lo notificará al Órgano Interno que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de la notificación presente la documentación y/o aclaración o rectificación que estime pertinentes.
 
-### CAPÍTULO I. PREVENCIONES GENERALES
+A efecto de que los partidos políticos puedan subsanar los errores u omisiones técnicas determinadas por la Comisión, tendrán derecho a acceder a la documentación observada dentro de las instalaciones de la Dirección, siempre y cuando se esté dentro del plazo señalado en el párrafo que antecede.
+
+### CAPÍTULO V. DE LA REVISIÓN DE LOS INFORMES Y RECEPCIÓN DE LA DOCUMENTACIÓN Y/O ACLARACIONES O RECTIFICACIONES POR PARTE DE LA COMISIÓN
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 33.
 
 En los escritos con los que se responda a las solicitudes de aclaración de la Comisión, los partidos políticos deberán exponer lo que a su derecho convenga para aclarar y rectificar lo solicitado, aportar información que se les solicite y ofrecer las pruebas que respalden sus afirmaciones, en su caso.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 34.
 
-La Comisión informará al Órgano Interno dentro de los veinte días posteriores a la recepción de sus aclaraciones o rectificaciones sobre su procedencia o improcedencia, a fin de que estén en posibilidad de confirmar sus adecuaciones y proceder en consecuencia.
+La Comisión informará al Órgano Interno dentro de los veinte días posteriores a la recepción de sus aclaraciones o rectificaciones sobre su procedencia o improcedencia, a fin de que tenga conocimiento y proceda en consecuencia.
+
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 35.
 
-Al vencimiento del plazo para la revisión del informe que la Dirección elabora como consecuencia de la revisión del informe anual y de campaña que presenta cada uno de los partidos políticos, o bien para la rectificación de errores u omisiones, la Comisión dispondrá de un plazo de treinta días para elaborar un dictamen consolidado por cada partido político.
+Al vencimiento del plazo para la revisión del informe que la Dirección elabora como consecuencia de la revisión del informe anual y de campaña que presenta cada uno de los partidos políticos, o bien para la rectificación de errores u omisiones en la documentación que integra los informes que presentan los partidos políticos, la Comisión dispondrá de un plazo de treinta días para elaborar un dictamen consolidado por cada partido político.
 
 Cada dictamen consolidado deberá ser presentado al Consejo dentro de los tres días siguientes a su conclusión, y deberá contener:
 
-a) Las Normas y procedimientos de auditoría;
+a) Las normas y procedimientos de auditoria;
 
 b) El resultado y las conclusiones de la revisión del informe anual y/o de actividades tendientes a la obtención del voto presentados por cada partido político, y de la documentación comprobatoria correspondiente, señalando las aclaraciones y rectificaciones que haya presentado cada partido político después de haber sido notificado con este fin y la valoración correspondiente; y
 
-e) En su caso, la mención de los errores o irregularidades encontradas en los informes o generadas con motivo de su revisión y que aún permanezcan al momento de la elaboración del dictamen consolidado.
+c) En su caso, la mención de los errores o irregularidades encontradas en los informes o generadas con motivo de su revisión y que aún permanezcan al momento de la elaboración del dictamen consolidado.
 
 ###### ARTÍCULO 36.
 
 En la conformación de coaliciones, los partidos políticos que las integren y los candidatos que postulen deberán ajustarse, a lo dispuesto por el presente Reglamento, teniendo los candidatos de la coalición las mismas obligaciones que los candidatos de los partidos políticos.
 
+La coalición se considerará como un solo partido político para efecto de topes de Gastos de Campaña en términos del Código.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 37.
 
-Los partidos políticos deberán llevar la contabilidad o contabilidades que consideren, identificando claramente el origen de cada una de las operaciones que realicen con los recursos de las modalidades y rubros en que se divide el financiamiento de los partidos políticos y/o coaliciones.
+Los partidos políticos deberán llevar la contabilidad o contabilidades que consideren, identificando claramente el origen y aplicación de cada una de las operaciones que realicen con los recursos de las modalidades y rubros en que se divide el financiamiento de los partidos políticos y/o coaliciones.
 
-### CAPÍTULO II. DE LOS INGRESOS
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPÍTULO VI. DE LA ELABORACIÓN DEL DICTAMEN DE LA COMISIÓN Y SU PRESENTACIÓN AL CONSEJO
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 38.
 
-Para efectos de que la Dirección, compruebe la veracidad de lo reportado en los informes, los partidos políticos deberán observar las siguientes reglas:
+Para efectos que la Dirección compruebe la veracidad de lo reportado en los informes, los partidos políticos deberán observar las siguientes reglas:
 
-a) Apegarse, en lo procedente a los catálogos de cuentas y la guía contabilizadora que establece el presente Reglamento;
+a) Apegarse a los catálogos de cuentas y la guía contabilizadora que establece el presente Reglamento;
 
-b) Los asientos de contabilidad serán analíticos;
+b) Realizar los asientos de contabilidad de manera analítica;
 
-e) Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria;
+c) Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria;
 
-d) Relacionar los formatos que así lo requieran, con los saldos que den las cifras finales de las cuentas que integran sus registros contables;
+d) Relacionar los formatos que así lo requieran, con los saldos finales de las cuentas que integran sus registros contables;
 
-e) Formular los estados de posición financiera, estado de resultados y estado de origen y aplicación de recursos;
+e) Relacionar los estados de posición financiera y estado de resultados con los saldos de las cuentas que integran sus registros contables; y
 
-f) Relacionar los estados de posición financiera, estado de resultados y estado de origen y aplicación de recursos con las cuentas de cada operación; y
-
-g) Asegurar el registro total de operaciones, actos o actividades y garantizar que se asienten correctamente, mediante los sistemas de control y verificación internos necesarios.
+f) Asegurar el registro total de operaciones, actos o actividades y garantizar que se asienten correctamente, mediante los sistemas de control y verificación internos necesarios.
 
 ###### ARTÍCULO 39.
 
 En la medida de sus necesidades y requerimientos, cada partido político podrá abrir cuentas adicionales para llevar sus registros contables, y deberá abrirlas para controlar los gastos de mayor cuantía.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 40.
 
-Los partidos políticos deberán apegarse, en el control y registro de sus operaciones financieras, a los principios de contabilidad generalmente aceptados emitidos por el Instituto Mexicano de Contadores Públicos A. C.
+Los partidos políticos y/o coaliciones deberán apegarse, en el control y registro de sus operaciones financieras, a las Normas de Información Financiera (NIF) emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera A.C.
 
-### CAPÍTULO III. DE LAS TRANSFERENCIAS LOCALES
+### CAPÍTULO I. PREVENCIONES GENERALES
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 41.
 
 Los partidos políticos deberán elaborar una balanza de comprobación mensual a último nivel. Las balanzas deberán ser entregadas a la Dirección anexas a los informes trimestrales.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 42.
 
-Al final de cada ejercicio, los partidos políticos deberán elaborar, con base en las balanzas mencionadas en el artículo anterior, una balanza de comprobación anual, que deberá ser entregada a la Dirección anexa al informe anual.
+Al final de cada ejercicio, los partidos políticos deberán elaborar, con base en las balanzas mencionadas en el artículo anterior, una balanza de comprobación anual, que deberá ser entregada a la Dirección anexa al informe anual y de gastos de campaña.
+
+Se entenderá por balanza de comprobación anual el documento que contenga el saldo inicial, total de cargos, total de abonos y el saldo final de todas las cuentas contables correspondientes al año del ejercicio que se reporte.
+
+En caso que en los informes de campaña resulte un saldo acreedor, como resultado de un exceso de gastos sobre los ingresos recibidos, dicho saldo será considerado como ingresos en especie de simpatizantes y quedará comprendido dentro de los topes de gastos de campaña.
+
+Los bienes muebles o inmuebles adquiridos o recibidos en propiedad en campañas electorales, al término de éstas deberán destinarse al uso ordinario del partido político y, en caso de coaliciones, al partido político que le corresponda de acuerdo al convenio respectivo y ser registrados como activos fijos en la contabilidad de actividades ordinarias.
+
+Los bienes muebles o inmuebles propiedad del candidato, destinados a su uso ordinario y personal, no se tomarán en cuenta como gastos de campaña, para tal efecto el partido político y/o coalición deberá informar de la existencia de dichos bienes y anexar los documentos que comprueben que su adquisición fue con anterioridad al inicio de su campaña.
 
 ###### ARTÍCULO 43.
 
@@ -479,7 +613,7 @@ Los partidos políticos para comprobar la cesión de un bien mueble o inmueble, 
 
 En caso de que en los informes de campaña y/o anual resulte un saldo acreedor, como resultado de un exceso de gastos sobre los ingresos recibidos, deberán registrarse contablemente y estar soportados con la documentación que les dio origen.
 
-### CAPÍTULO IV. DE LAS TRANSFERENCIAS FEDERALES
+### CAPÍTULO II. DE LOS INGRESOS
 
 ###### ARTÍCULO 45.
 
@@ -493,9 +627,15 @@ Los bienes muebles e inmuebles que se adquieran o reciban en propiedad deberán 
 
 Será opcional el registro contable de las depreciaciones del activo fijo y amortizaciones del activo diferido.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
-Los activos fijos que sean adquiridos por los partidos políticos en campañas electorales y que al término de éstas se destinen para su uso ordinario, deberán ser registrados como activos fijos.
+Los bienes muebles e inmuebles adquiridos por los aspirantes a candidatos o precandidatos, candidatos y por los partidos políticos en precampañas y campañas electorales, al término de éstas, deberán destinarse al uso ordinario del partido y ser registrados como activos fijos en la contabilidad de Actividades Ordinarias.
+
+Cuando los partidos políticos estatales nuevo pierdan su registro, los bienes muebles e inmuebles que hayan sido adquiridos con financiamiento público, pasarán a ser parte del patrimonio del Estado de Puebla, para tal efecto dispondrán de diez días posteriores a la Resolución del Consejo correspondiente, para presentar ante el mismo, por conducto de la Dirección, el Inventario final del activo fijo adquirido con financiamiento público, actualizado a la fecha en que la cancelación del registro surta efecto.
+
+La Dirección efectuará la revisión del inventario en un término de diez días, haciendo del conocimiento de la Comisión el resultado de la misma, para que en un plazo de diez días, esta última informe al Consejo las observaciones que correspondan, a efecto de que el Consejo esté en condiciones de recibir los bienes muebles e inmuebles dentro de los treinta días naturales siguientes a la presentación del inventario por parte del partido.
 
 ###### ARTÍCULO 49.
 
@@ -529,51 +669,125 @@ III. Ingresos para las actividades tendientes a la obtención del voto: aquellos
 
 IV. Otros ingresos: aquéllos obtenidos por los partidos políticos mediante los conductos legalmente estipulados en correspondencia de su financiamiento privado y que provengan de militantes, simpatizantes o por sus propios medios, así como de autofinanciamiento y rendimientos financieros, fondos o fideicomisos que tengan como finalidad primordial el cumplimiento de las diversas actividades de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-Todos los ingresos que obtengan los partidos políticos por cualquier modalidad de financiamiento en términos de lo establecido por el Código, sean en efectivo o en especie, deberán registrarse contablemente, respaldándose con la documentación correspondiente y reportarse en los informes que deberán presentar al Instituto.
+Todos los ingresos que obtengan los partidos políticos por cualquier modalidad de financiamiento en términos de lo establecido por el Código, sean en efectivo o en especie, deberán registrarse contablemente, respaldándose con la documentación correspondiente y reportarse en los informes que deberán presentar de acuerdo al presente Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 56.
 
-Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento público en términos de lo establecido por el Código, deberán depositarse en cuentas bancarias de cheques a nombre del partido político por cada uno de los rubros en que se divide éste: las cuales se identificarán en los catálogos de cuentas como CBCDEPU (Cuenta Bancaria Comité Directivo Estatal Público}-(PARTIDO)-(NÚMERO), siendo éstas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
+Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento público en términos de lo establecido por el Código, deberán depositarse en cuentas bancarias de cheques a nombre del partido político por cada uno de los rubros en que se divide éste; las cuales que se identificaran en los catálogos de cuentas como CBCDEPU (Cuenta Bancaria Comité Directivo Estatal Público)-(PARTIDO)-(NÚMERO), siendo estas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
 
 Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse a la Dirección trimestralmente, anexo al informe justificatorio respectivo.
 
-Asimismo, los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación, de igual forma los partidos políticos y/o coaliciones dentro de los primeros quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informarán mediante oficio el número de cuenta bancaria que utilizan para el manejo de su recurso bajo este rubro, remitiendo para los efectos correspondientes a la Dirección, copia simple de los contratos bancarios respectivos.
+Asimismo los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos bajo los rubros de sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación, de igual forma los partidos políticos y/o coaliciones dentro de los primero quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informarán mediante oficio el número de cuenta bancaria que utilizan para el manejo de su recurso bajo este rubro, remitiendo para los efectos correspondientes a la Dirección, copia simple de los contratos bancarios respectivos.
 
-### CAPÍTULO V. DE LOS EGRESOS
+De igual forma, deberán informar de la cancelación de alguna cuenta bancaria dentro de los 15 días siguientes de efectuarse el supuesto, anexando para tal caso copia simple del documento soporte de dicha cancelación.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPÍTULO III. DE LAS TRANSFERENCIAS LOCALES
 
 ###### ARTÍCULO 57.
 
-Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento privado en términos de lo establecido por el Código, deberán depositarse en una sola cuenta bancaria de cheques a nombre del partido político; la cual se identificará en los catálogos de cuentas como CBCDEPR (Cuenta Bancaria Comité Directivo Estatal Privado)-(PARTIDO)-(NÚMERO), siendo éstas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
+Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento privado en términos de lo establecido por el Código, deberán depositarse en una sola cuenta bancaria de cheques a nombre del partido político; la cual se identificará en los catálogos de cuentas como CBCDEPR (Cuenta Bancaria Comité Directivo Estatal Privado)(PARTIDO)-(NÚMERO), siendo éstas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
 
-Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse a la Dirección trimestralmente, anexo al informe justificatorio respectivo.
+Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse, a la Dirección trimestralmente, anexo al informe justificatorio respectivo. Asimismo, los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos percibidos bajo la modalidad de financiamiento privado en términos de lo establecido por el Código Comicial, de igual forma los partidos políticos y/o coaliciones dentro de los primeros quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informaran mediante oficio el número de cuenta bancaria que utilizarán para el manejo de sus recursos percibidos bajo la modalidad citada anteriormente, remitiendo para los efectos correspondientes a la Dirección copia simple de los contratos bancarios respectivos.
 
-Asimismo, los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación, de igual forma los partidos políticos y/o coaliciones dentro de los primeros quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informarán mediante oficio el número de cuenta bancaria que utilizan para el manejo de su recurso bajo este rubro, remitiendo para los efectos correspondientes a la Dirección, copia simple de los contratos bancarios respectivos.
+De igual forma, deberán informar de la cancelación de alguna cuenta bancaria dentro de los 15 días siguientes de efectuarse el supuesto, anexando para tal caso copia simple del documento soporte de dicha cancelación.
+
+El saldo positivo en las cuentas bancarias de los partidos políticos y/o coaliciones, al finalizar las campañas electorales, deberá ser transferido a la cuenta bancaria en la que el partido administre su financiamiento público para actividades ordinarias permanentes, en el caso de las coaliciones, se transferirá a las cuentas bancarias de los partidos que la integran en la proporción que hayan determinado en el respectivo convenio de coalición.
+
+Lo anterior, en el entendido que los recursos transferidos sólo podrán ser utilizados en cualquier campaña constitucional local.
+
+Los partidos políticos y/o coaliciones deberán prever que el financiamiento público y/o privado que destinen a las actividades tendientes a la obtención del voto no exceda los topes de gastos de campaña, cuidando los límites de financiamiento privado que tienen derecho a recibir en el año de la elección, en términos de los artículos 45 fracción II y 48 del Código.
+
+La suma de los recursos recibidos por cada partido político y/o coalición por cualquier modalidad de financiamiento privado, en ningún momento podrá exceder los límites que por dicho financiamiento tiene derecho a recibir en el año, cada partido político y/o coalición, en términos de los artículos 45 fracción II y 48 del Código.
+
+Las aportaciones en dinero y/o en especie realizadas o recibidas por los candidatos durante las campañas electorales, serán consideradas como parte de los límites que por aportaciones de militantes y/o simpatizantes puede recibir un partido político y/o coalición durante un año electoral en términos de los artículos 45 fracción II y 48 del Código. Tales aportaciones podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante la campaña por el candidato y/o simpatizante persona física o moral no podrá rebasar, según corresponda, los límites establecidos en el inciso c) fracción II del artículo 48 del Código.
+
+Las aportaciones a campañas en efectivo y/o en especie de militantes y simpatizantes de los partidos políticos que conformen una coalición se acumularán a cada partido político integrante de la misma en la proporción en que se haya determinado en el Convenio de coalición respectivo.
+
+Queda prohibido a los partidos políticos y/o coaliciones, así como a sus candidatos recibir aportaciones o donativos, sea en dinero o en especie, por sí o por interpósita persona de:
+
+I. Los Poderes Legislativo, Ejecutivo o Judicial y los Ayuntamientos;
+
+II. Las dependencias, entidades u organismos de la administración pública del Gobierno Federal, Estatal, Municipal, centralizadas o paraestatales y en general todos aquellos organismos o instituciones que ejerzan fondos públicos;
+
+III. Las personas físicas o jurídicas extranjeras;
+
+IV. Los partidos políticos extranjeros;
+
+V. Los organismos internacionales de cualquier naturaleza;
+
+VI. Los ministros de culto y las asociaciones religiosas; y
+
+VII. Las empresas mexicanas de carácter mercantil, así como aquéllas cuyo objeto social sea la realización de juegos de azar.
 
 ###### ARTÍCULO 58.
 
 Los recursos en efectivo provenientes del financiamiento privado que reciban los candidatos deberán ser recibidos primeramente a través del Órgano Interno, los cuales una vez registrados por éste, lo reintegrará a los candidatos a través de cheque nominativo a favor del candidato, salvo las cuotas voluntarias y personales que cada candidato aporte exclusivamente para su campaña, así como los rendimientos financieros que produzcan las cuentas de cheques en que se manejen los recursos de campaña y los que se reciban en especie.
 
+### CAPÍTULO IV. DE LAS TRANSFERENCIAS FEDERALES
+
 ###### ARTÍCULO 59.
 
 Los registros contables de los partidos políticos deben separar en forma clara los ingresos que tengan en especie, de aquéllos que reciban en efectivo.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 60.
 
-Las aportaciones que reciban en especie, deberán documentarse en contratos escritos que celebren conforme a los ordenamientos legales aplicables, los que deberán contener los datos de identificación del aportante, así como el costo de mercado.
+Se consideran aportaciones en especie:
+
+a) Las donaciones de bienes de propaganda en relación directa con el artículo 93, fracción III, inciso a) de este Reglamento;
+
+b) Las donaciones de bienes muebles o inmuebles; y
+
+c) La entrega de bienes muebles o inmuebles en comodato.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 61.
 
-Los ingresos por donación de bienes muebles deberán registrarse conforme a su valor comercial de mercado.
+Los ingresos por donación de bienes de propaganda y muebles, deberán valuarse y registrarse conforme a su valor comercial de mercado, determinado de la siguiente forma:
+
+Para el caso de bienes muebles:
+
+a) Si se cuenta con la factura correspondiente, se registrará al valor consignado en tal documento; y
+
+b) Si no se cuenta con la factura correspondiente, se valuará y registrará al valor de mercado el cual se determinará a través de dos cotizaciones solicitadas por el partido político o coalición, de las cuales se tomará el valor promedio.
+
+Para el caso de bienes muebles:
+
+a) Si el tiempo de uso del bien aportado es menor a un año y se cuenta con la factura correspondiente, se registrará el valor consignado en tal documento;
+
+b) Si el bien aportado tiene un tiempo de uso mayor a un año y se cuenta con la factura correspondiente, se valuará y registrará el valor consignado en la factura, aplicándole los índices de actualización y los porcentajes de depreciación dispuestos por la Ley del Impuesto Sobre la Renta;
+
+c) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado menor al equivalente a un mil días de salario mínimo, se valuará y registrará a través de una cotización solicitada por el partido político o coalición;
+
+d) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado mayor al equivalente a un mil días de salario mínimo y menor a cinco mil días, se valuará y registrará a través de dos cotizaciones solicitadas por el partido político o coalición, de las cuales se tomará el valor promedio; y
+
+e) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado mayor al equivalente a cinco mil días de salario mínimo, se valuará y registrará a través de tres cotizaciones solicitadas por el partido político y/o coalición, de las cuales se tomará el valor promedio.
+
+### CAPÍTULO V. DE LOS EGRESOS
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 62.
 
 Los ingresos por donación de bienes inmuebles deberán registrarse conforme a su valor estipulado en la escritura respectiva.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 63.
 
-Los ingresos por aportaciones de los bienes muebles o inmuebles otorgados en comodato a los partidos políticos, coaliciones y/o candidatos registrados ante los órganos electorales, deberán cuantificarse y comunicarse al Instituto. Para tal efecto, dicha comunicación será exclusivamente de carácter informativo, a fin de cumplimentar lo referente a los gastos totales aplicados a cada campaña.
+Para determinar el valor de registro como aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato se tomará el valor de uso promedio de dos cotizaciones solicitadas por el propio partido político, el cual se prorrateará en proporción al tiempo estimado de vida útil de conformidad con las disposiciones fiscales y al tiempo que se utilizará en beneficio del partido político y/o campaña, situación que informará al Instituto a fin de cumplimentar lo referente a los gastos totales aplicados a cada campaña.
+
+Los bienes muebles o inmuebles otorgados en comodato a los candidatos, deberán ser concedidos únicamente para el plazo de duración de sus campañas.
 
 ###### ARTÍCULO 64.
 
@@ -589,13 +803,17 @@ Cualquier modificación al registro deberá ser notificada a la Dirección, por 
 
 Las cuotas o aportaciones que reciban los partidos políticos de sus militantes y organizaciones sociales, deberán respaldarse con la copia de los recibos foliados, según el formato "VI" anexo a este Reglamento, el cual para su impresión deberá ser autorizado por el Órgano Interno y dentro de los 15 días siguientes tendrán que ser presentados a la Dirección para la verificación del número de folio de los recibos impresos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 67.
 
 Cada recibo foliado se imprimirá en original y tres copias, asimismo, se deberán expedir en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será para el Órgano Interno, otra copia para el Comité Estatal, Distrital o Municipal y la otra copia será remitida a la Dirección. Los recibos deben ser llenados de manera que los datos resulten legibles en todas las copias.
 
 En el caso de aportaciones en especie, deberá expresarse, en el cuerpo del recibo la información relativa al bien aportado y el criterio de valuación que se haya utilizado. Dichas aportaciones deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
 
-Asimismo, cuando existan folios cancelados, se deberán remitir a la Dirección anexos a los informes trimestral y de gastos de campaña de manera completa, entendiéndose por tal original y cada una de sus copias.
+Para comprobar ingresos por concepto de cuotas o aportaciones por parte de militantes y organizaciones sociales, ya sea en efectivo o en especie, se deberá anexar a los recibos correspondientes copia simple de la credencial para votar del aportante y/o representante social.
+
+Asimismo, cuando existan folios cancelados, se deberán remitir a la Dirección anexos a los informes trimestrales y de gastos de campaña de manera completa, entendiéndose por tal original y cada una de sus copias.
 
 ###### ARTÍCULO 68.
 
@@ -605,9 +823,15 @@ Los partidos políticos llevarán un control de folios de los recibos que se imp
 
 El financiamiento privado que los partidos políticos perciban de sus simpatizantes se conformará de acuerdo a lo señalado en los artículos 48, 49 Y 50 del Código.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 70.
 
-Las cuotas o aportaciones que reciban los partidos políticos de sus simpatizantes, deberán respaldarse con la copia de los recibos foliados, según los formatos "VIII" y "X" que forman parte integrante de este Reglamento, los cuales para su impresión deberán ser autorizados por el Órgano Interno y dentro de los quince días siguientes, tendrán que ser presentados a la Dirección para la verificación del número de folio de los recibos impresos.
+Las cuotas o aportaciones que reciban los Partidos Políticos de sus simpatizantes, deberán respaldarse con la copia de los recibos foliados, según los formatos "VIII y X" que forman parte integrante de este Reglamento, los cuales para su impresión deberán ser autorizados por el Órgano interno y dentro de los 15 días siguientes, tendrán que ser presentados a la Dirección para la verificación del número de folio de los recibos impresos.
+
+Para comprobar ingresos por concepto de cuotas o aportaciones por parte de simpatizantes, ya sea en efectivo o en especie, se deberá anexar a los recibos correspondientes copia simple de la credencial para votar del aportante.
+
+A efecto de verificar y determinar lo conducente, en relación con los límites de aportaciones en dinero y en especie que reciban los partidos políticos provenientes de financiamiento privado, la Dirección realizará una conciliación de los ingresos que por dicho concepto reporten los institutos políticos en los diversos informes justificatorios sobre el origen, monto y destino de sus recursos bajo las diferentes modalidades de dicho financiamiento.
 
 ###### ARTÍCULO 71.
 
@@ -707,37 +931,47 @@ La Comisión, a través del Órgano competente del Instituto, podrá, en términ
 
 Para los efectos de este Reglamento se considera como:
 
-I. Gastos para el sostenimiento de actividades ordinarias permanentes, los efectuados en bienes y servicios destinados a la realización de las actividades administrativas y de operación durante un periodo determinado, aún cuando no hayan sido pagados, que son requeridos para la consecución de los programas, metas, actividades y acciones fijados por los institutos políticos para el sostenimiento de sus actividades continuas o normales;
+I. Gastos para el sostenimiento de actividades ordinarias permanentes, los efectuados en bienes y servicios devengados aun cuando no hayan sido pagados, destinados a la realización de las actividades administrativas y de operación durante un periodo determinado y que son requeridos para la consecución de los programas, metas, actividades y acciones fijados por los institutos políticos para el sostenimiento de sus actividades continuas o normales;
 
-II. Gastos para el acceso equitativo a los medios de comunicación, los efectuados en bienes y servicios destinados a propiciar la exposición, información, desarrollo, discusión y difusión ante la ciudadanía, durante un periodo determinado, aún cuando no hayan sido pagados, que son requeridos para la promoción de los programas, metas, actividades y acciones fijadas por los institutos políticos de sus actividades continuas y normales no relacionadas con la obtención del voto; y
+II. Gastos para el acceso equitativo a los medios de comunicación, los servicios devengados aun cuando no hayan sido pagados proporcionados por los medios de comunicación social y cuya finalidad sea la exposición, información, desarrollo, discusión y difusión ante la ciudadanía de los programas, metas, actividades y acciones fijadas por los institutos políticos de sus actividades continuas y normales no relacionadas con la obtención del voto;
 
-III. Gastos para actividades tendientes a la obtención del voto: los efectuados en bienes y servicios durante el periodo de campañas electorales de los partidos políticos y/o coaliciones, en su caso, aún cuando no hayan sido pagados, que son requeridos por los institutos políticos para promover a sus candidatos registrados ante los Órganos Electorales para la obtención del voto, que corresponda a los siguientes rubros:
+III. Gastos para actividades tendientes a la obtención del voto: los efectuados en bienes y servicios devengados durante el periodo de campañas electorales de los partidos políticos y/o coaliciones, en su caso, aun cuando no hayan sido pagados, que son requeridos por los institutos políticos para promover a sus candidatos registrados ante los Órganos Electorales para la obtención del voto, que corresponda a los siguientes rubros:
 
-a) De propaganda: aquéllos efectuados para promover a sus candidatos registrados con la finalidad de obtener, producir y difundir propaganda que haya de emplearse o distribuirse para la obtención del voto durante el periodo de campañas electorales;
+a) De propaganda: aquéllos efectuados por los partidos políticos y/o coalición en su caso y los candidatos con la finalidad de obtener, producir y difundir propaganda que haya de emplearse o distribuirse durante el periodo de campañas electorales.
 
-b) Operativos de campaña: aquéllos efectuados en la práctica de las actividades propias de los partidos políticos y/o coaliciones en su caso y los candidatos registrados para la obtención del voto durante el periodo de campañas electorales;
+b) Operativos de campaña: aquellos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados que comprenden los sueldos y salarios del personal eventual, el arrendamiento eventual de bienes muebles e inmuebles, el transporte de material y personal, viáticos y los valores de registro de las aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato u otros relacionados de manera directa, durante el periodo de campañas electorales;
 
-c) En prensa, radio y televisión: aquéllos efectuados en medios masivos de comunicación únicamente con la finalidad de difundir las actividades realizadas por los partidos políticos y/o las coaliciones, en su caso, y los candidatos registrados para la obtención del voto durante el periodo de campañas electorales; y
+c) En medios de comunicación social: aquéllos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados en medios de comunicación social con la finalidad de difundir las actividades realizadas por los partidos políticos y/o las coaliciones, en su caso, y los candidatos registrados para la obtención del voto durante el periodo de campañas electorales; y
 
-d) En sondeos y encuestas de opinión sobre asuntos electorales: aquéllos efectuados en la contratación de empresas o personas físicas con actividades empresariales dedicadas a la investigación de la opinión pública y la realización de encuestas y sondeos, así como la difusión de los resultados durante el periodo de campañas electorales.
+d) En sondeos y encuestas de opinión sobre asuntos electorales: aquéllos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados en la contratación de empresas o personas físicas con actividades empresariales dedicadas a la investigación de la opinión pública y la realización de encuestas y sondeos, así como la difusión de los resultados durante el periodo de campañas electorales.
+
+Se entenderá como medios de comunicación social: la televisión, la radio, la prensa, el teléfono y el internet.
+
+El importe de los gastos efectuados por los nuevos candidatos a un cargo de elección popular, no deberán rebasar el tope de gastos de campaña.
+
+La Dirección notificará a los partidos políticos y/o coaliciones el tope de gastos de campañas, dentro de los cinco días siguientes a su aprobación por parte del Consejo.
+
+En caso de que un candidato inicie campaña representando a un partido político o coalición y posteriormente sea registrado como candidato de otro instituto político o coalición, considerará los egresos que efectúe en el primer instituto político por el que contienda, con los egresos que registre en el subsiguiente partido político por el que haga campaña, para efectos de los topes a los gastos de campaña.
 
 ###### ARTÍCULO 94.
 
 Los partidos políticos deberán utilizar los recursos otorgados por el Instituto bajo el rubro de financiamiento público, exclusivamente en el sostenimiento de sus actividades ordinarias, el acceso a los medios de comunicación y para sus actividades tendientes a la obtención del voto respectivamente, de acuerdo a la asignación del acuerdo del Consejo.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 95.
 
-Los egresos deberán registrarse contablemente y estar soportados con la documentación en original que expida a nombre del partido político la persona a quien se efectuó el pago, debiéndose conservar las pólizas correspondientes anexas a la documentación comprobatoria. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables. Asimismo deberá anexarse como soporte a los informes trimestrales y al informe de actividades tendientes a la obtención del voto, con excepción de lo señalado en el siguiente párrafo.
+Los egresos deberán registrarse contablemente y estar soportados con la documentación en original que expida a nombre del partido político y en caso de coaliciones a nombre del partido político que señale el convenio respectivo, por la persona física o moral a quien se efectuó el pago, debiéndose conservar las pólizas correspondientes anexas a la documentación comprobatoria. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables. Asimismo deberá anexarse como soporte a los informes trimestrales y al informe de actividades tendientes a la obtención del voto, con excepción de lo señalado en el siguiente párrafo.
 
-Los partidos políticos podrán comprobar vía bitácora aquellos gastos menores sin comprobantes hasta en un valor equivalente a treinta días de salario mínimo vigente en el Estado de Puebla, de acuerdo a las siguientes reglas:
+Se podrá comprobar vía bitácora aquellos gastos menores que no reúnan los requisitos fiscales hasta en un valor equivalente a treinta días de salario mínimo vigente en el Estado de Puebla, de acuerdo a las siguientes reglas:
 
 a) Bajo el rubro del sostenimiento de actividades ordinarias permanentes por cada uno de los trimestres que conforman el periodo del primer día del mes de enero al último día del mes de diciembre de cada año; y
 
 b) Bajo el rubro de actividades tendientes a la obtención del voto para cada uno de los candidatos registrados a Gobernador del Estado, Diputados de mayoría relativa y por cada uno de los candidatos registrados a miembros de ayuntamientos.
 
-Por lo anterior, el instituto político deberá reportar en una bitácora según el anexo 1, adjunto a este Reglamento los gastos menores sin comprobantes, en los que se señalen con toda precisión los siguientes conceptos: lugar en que se expide o efectuó la erogación, monto, concepto específico del gasto, nombre o razón social, lugar y domicilio de la persona a quien efectuó el pago, independientemente de la obligación de anexar los documentos que no cumplan con los requisitos fiscales solicitados.
+Por lo anterior, se podrán comprobar en una bitácora según el anexo I de este Reglamento, los gastos menores que no reúnan los requisitos fiscales, en los que se señalen con toda precisión los siguientes conceptos: fecha, concepto del gasto, monto, lugar donde se efectuó el gasto y nombre o razón social de la persona a quien se efectuó el pago, independientemente de la obligación de anexar los documentos que no cumplan con los requisitos fiscales, dichas bitácoras deberán contener la firma de autorización del Órgano Interno y de la persona que efectuó el pago.
 
-Los gastos que se comprueben vía bitácora y sobre los cuales no se anexen los comprobantes, deberán estar sustentados con un recibo que expida el propio partido político y que deberá contener la firma de autorización del Órgano Interno, así como de la persona que efectúe el pago.
+En caso que en la revisión realizada por el Instituto a los diversos informes justificatorios que presenten los partidos políticos y/o coaliciones, así como de los diversos medios de verificación de que el mismo puede allegarse, se detecten gastos que no fueron reportados por los institutos políticos, se requerirá a estos últimos que informen sobre el origen, monto y destino de dichos gastos, a efecto de determinar lo conducente.
 
 ## TÍTULO V. DEL REGISTRO DE LOS INGRESOS, TRANSFERENCIAS Y EGRESOS DE LOS PARTIDOS POLÍTICOS
 
@@ -755,9 +989,23 @@ c) Nombre del Órgano Interno encargado de la administración de los recursos po
 
 Para efectos del registro del sello, los partidos políticos y/o coaliciones remitirán, mediante oficio, hoja que contenga la impresión del referido sello.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 97.
 
-Todo pago que exceda de la cantidad a que hacen referencia las disposiciones fiscales aplicables, respecto a los requisitos que deben reunir las deducciones autorizadas, deberá realizarse mediante cheque nominativo, exceptuando los pagos de nómina. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria.
+Todo pago que rebase la cantidad de $5,500.00 (Cinco mil quinientos pesos 00/100 MN.) deberá realizarse mediante cheque nominativo expedido a nombre del prestador del bien o servicio, y que contenga la leyenda "para abono en cuenta del beneficiario", exceptuando los pagos de nómina. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia fotostática del cheque a que hace referencia este artículo.
+
+En caso de que un comprobante rebase la cantidad equivalente al límite establecido en el artículo anterior de este Reglamento y el pago se realice en parcialidades, éstas deberán ser cubiertas mediante cheque nominativo en los términos de dicho artículo a partir del monto por el cual exceda el límite referido.
+
+Los partidos políticos podrán realizar erogaciones por concepto de anticipos a proveedores, entendiéndose por éstos aquellas cantidades entregadas como parte o a cuenta de una cantidad global; bajo el rubro de actividades tendientes a la obtención del voto, desde el momento en que reciben el financiamiento público por este rubro y hasta que estén registrados los candidatos, siempre que:
+
+a) La póliza cheque esté soportada por el documento que contenga los datos del proveedor y el concepto por el que recibe el anticipo;
+
+b) Que se trate de la adquisición de bienes a contratación de servicios que requieran de tiempo para su apartado, elaboración o entrega, como es la renta de salón, adquisición de propaganda, etc;
+
+c) La entrega del bien adquirido o el disfrute del servicio contratado se pacte en fecha posterior al registro de candidatos; y
+
+d) El pago que finiquite el adecuado y la factura que expida el proveedor sea dentro de las fechas que comprende la campaña electoral.
 
 ###### ARTÍCULO 98.
 
@@ -775,9 +1023,17 @@ Para el manejo de los egresos que se efectúen en las campañas políticas para 
 
 Para el manejo de los egresos que se efectúen en las campañas políticas para Gobernador del Estado, cada partido político deberá abrir una subcuenta de la cuenta de GASTOS POR COMPROBAR GOB (Gobernador), que se deberá comprobar al final de la jornada electoral.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 102.
 
-Si al cierre del periodo que comprende el informe de campaña, un partido político presenta en su contabilidad saldos positivos en las cuentas por cobrar, tales como "Deudores Diversos", "Préstamos al Personal", "Gastos por comprobar", "Anticipo a Proveedores" o cualquier otra, éstos serán considerados como no comprobados, salvo que el partido informe oportunamente de la existencia de algún caso fortuito o de fuerza mayor, para lo cual dichos saldos deberán ser reintegrados monetariamente mediante depósito a la cuenta bancaria que les dio origen dentro del plazo para la presentación del informe de campaña señalado en el articulo 19 del presente Reglamento.
+Un partido político y/o coalición no podrá presentar saldos financieros positivos en cuentas por cobrar, tales como “Deudores Diversos”, “Gastos por comprobar” o “Anticipo a Proveedores”, salvo que el candidato informe de la existencia de algún caso fortuito o de fuerza mayor, señalando que dichos importes deberán ser reintegrados monetariamente mediante depósito o la cuenta bancaria en la que el partido administre su funcionamiento público para actividades ordinarias permanentes, en el caso de las coaliciones, se transferirá a las cuentas bancarias de los partidos que la integra en la proposición que hayan determinado en el respectivo convenio de coalición.
+
+Lo anterior en el entendido que los recursos transferidos sólo podrán ser utilizados en cualquier campaña constitucional local.
+
+Para el manejo de los egresos por concepto de “Préstamos al personal” y “deudores diversos”, la póliza de cheques deberá respaldarse con recibo que especifique las condiciones, plazo y términos del préstamo, anexando copia de la identificación oficial del deudor, recuperándose el total del importe total prestado y reintegrándose mediante depósito a la cuenta bancaria que le dio origen.
+
+Para justificar egresos por concepto de artículos de despensa y/o alimentos procesados los cuales sean suministrados al personal del partido, se anexará al comprobante, relación que contenga el nombre y firma de los empleados beneficiados con tal prestación.
 
 ###### ARTÍCULO 103.
 
@@ -789,33 +1045,45 @@ Para comprobar egresos por concepto de salarios y en general por la prestación 
 
 Cabe señalar que este tipo de erogaciones se comprobarán anexando a la póliza respectiva la nómina, los recibos de pago por este concepto (con la copia simple de la credencial para votar) y los documentos que servirán de base para realizar los cálculos de las deducciones y obligaciones que presente dicha nómina.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 105.
 
-Para comprobar egresos por concepto de pago de honorarios que se asimilan a salarios personales subordinados, se deberá sujetar a las disposiciones fiscales aplicables, además de presentar ante la Dirección copia del escrito que señalan las disposiciones fiscales aplicables en el cual se comunica al prestatario que optan por pagar el impuesto en términos del capítulo de los ingresos por salarios y en general por la prestación de un servicio personal subordinado.
+Para comprobar egresos por concepto de pago de honorarios que se asimilan a salarios personales subordinados, se deberá anexar a las pólizas respectivas los recibos de pago correspondientes (con la copia simple de la credencial para votar), así como los papeles de trabajo utilizados para el cálculo de los impuestos que señalan las disposiciones fiscales y copia del escrito en el cual se comunica el prestatario que optan por pagar el impuesto en términos del capítulo de los ingresos por salarios y en general por la prestación de un servicio personal subordinado de la Ley de Impuesto Sobre la Renta.
 
-Cabe señalar, que este tipo de erogaciones se comprobarán con la presentación de los recibos de pago (con la copia simple de la credencial para votar) anexos a las pólizas respectivas y los documentos que servirán de base para realizar los cálculos de las retenciones que deberán efectuar quienes hagan pagos por este concepto.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 106.
 
-Para comprobar egresos por concepto de REPAP (reconocimientos por actividades políticas), los partidos políticos y/o coaliciones deberán apegarse a lo siguiente:
+Para comprobar egresos por concepto de reconocimientos por actividades políticas (REPAP), cada candidato registrado, hasta en un monto equivalente al diez por ciento del total de egresos reportados en su campaña electoral, podrá otorgar reconocimientos en efectivo a las personas que participen en actividades de apoyo político, dentro del periodo que comprendan las campañas electorales, debiendo observar lo siguiente:
 
-a) Podrán ser otorgados reconocimientos en efectivo a sus militantes o simpatizantes sólo dentro del periodo de campañas electorales;
+a) Los reconocimientos deberán estar soportados por recibos según el formato XIII que forma parte de este Reglamento, anexando copia simple de la credencial para votar de la persona que recibe el reconocimiento y únicamente podrán ser pagadas a través de la cuenta bancaria de cheques bajo el rubro de actividades tendientes al voto;
 
-b) Dichos reconocimientos deberán estar soportados por recibos según el formato XIII que forma parte de este Reglamento y únicamente podrán ser pagadas a través de la cuenta bancaria de cheques bajo el rubro de actividades tendientes al voto;
+b) El Órgano interno deberá autorizar la impresión de los recibos foliados que se expedirán, e informará mediante oficio a la Dirección dentro de los treinta días siguientes, del número consecutivo de los folios de los recibos impresos. El original permanecerá en poder del Órgano Interno de cada Partido y la copia permanecerá en poder del candidato que haya otorgado el reconocimiento;
 
-c) El Órgano Interno deberá autorizar la impresión de los recibos foliados que se expedirán, e informará mediante oficio a la Dirección dentro de los treinta días siguientes, del número consecutivo de los folios de los recibos impresos. El original permanecerá en poder del Órgano Interno de cada partido y se entregará una copia a la persona a la que se otorga el reconocimiento;
+c) Los recibos deberán estar firmados por el titular del Órgano Interno y la persona que recibe el pago;
 
-d) No podrá recibir una sola persona física una cantidad equivalente o superior a ciento veinticinco días de salario mínimo vigente en el Estado de Puebla, dentro del periodo que comprenden las campañas electorales, ya sea que se paguen en una o varias exhibiciones, cuando excedan no podrán ser comprobadas a través de los recibos por reconocimientos por actividades políticas. En este caso, tales erogaciones deberán de estar soportadas de conformidad con lo establecido en los artículos 104 y 105 del presente Reglamento.
+d) No podrá recibir una sola persona física una cantidad equivalente o superior a $5,500.00 (Cinco mil quinientos pesos 00/100M.N.), dentro del periodo que comprenden las campañas electorales, ya sea que se paguen en una o varias exhibiciones, cuando excedan no podrán ser comprobadas a través de los recibos por reconocimiento por actividades políticas. En este caso, tales erogaciones deberán de estar soportadas de conformidad con lo establecido en los artículos 104 y 105 del presente Reglamento.
 
 e) Los partidos políticos deberán llevar un control de recibos que se imprimirán y expedirán, para verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar (formato XIV);
 
-f) Con el informe de actividades tendientes a la obtención del voto, deberá presentarse relación de personas que recibieron reconocimientos por actividades políticas, así como el monto total que percibió cada una de ellas durante la campaña correspondiente. Lo anterior deberá remitirse a la Dirección junto con el informe de actividades tendientes a la obtención del voto; y
+f) Con el informe de actividades tendientes a la obtención del voto, deberá presentarse relación de personas que recibieron reconocimientos por actividades políticas, así como el monto total que percibió cada una de ellas durante la campaña correspondiente (formato XV). Lo anterior deberá remitirse a la Dirección junto con el informe de actividades tendientes a la obtención del voto;
 
 g) En el caso de reconocimientos por actividades políticas que no se hubieren otorgado en relación con una campaña específica, deberá seguirse con lo establecido en el artículo 107 del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 107.
 
-Los gastos de campaña centralizados y las erogaciones que involucren dos o más campañas deberán ser distribuidos o prorrateados de acuerdo con los criterios y bases que cada partido político adopte. Dicho criterio deberá hacerse del conocimiento de la Dirección mediante oficio al momento de la presentación de sus informes de campaña.
+Los gastos de campaña centralizados y las erogaciones que involucren dos o más campañas podrán ser distribuidos o prorrateados, en la proporción que resulte de lo siguiente:
+
+a) Se sumará el importe de tope de gastos de campaña que corresponda a cada una de las campañas involucradas, considerando el resultado como el 100%;
+
+b) Se determinará el porcentaje que representa cada uno de los topes de gastos de campaña en cuestión, en relación con la suma determinada; y
+
+c) Se distribuirán los gastos considerando los porcentajes determinados.
+
+Se anexará a la factura el papel de trabajo utilizado para el cálculo del prorrateo.
 
 ###### ARTÍCULO 108.
 
@@ -829,11 +1097,15 @@ Para el caso de comprobaciones bajo el rubro de actividades tendientes a la obte
 
 Cualquier modificación en el inventario de equipo de transporte propiedad del partido y/o listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones, deberá ser notificada a la Dirección dentro de los cinco días siguientes a que se produzca.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 109.
 
-Para comprobar egresos por concepto (sic) mantenimiento de equipo de transporte, los partidos políticos anexo al primer informe trimestral correspondiente al año del ejercicio que se reporte, deberán presentar inventario de equipo de transporte propiedad del partido (con la copia simple de la tarjeta de circulación), además del comprobante debidamente requisitado. Dicho inventario deberá contener el número de placa de los vehículos que integran el equipo citado anteriormente.
+Para comprobar egresos por concepto de mantenimiento de equipo de transporte, los partidos políticos anexo al primer informe trimestral correspondiente al año del ejercicio que se reporte, deberán presentar inventario de equipo de transporte propiedad del partido (con la copia simple de la tarjeta de circulación), además del comprobante debidamente requisitado. Dicho inventario deberá contener el número de placa de los vehículos que integran el equipo citado anteriormente.
 
-Además, para la comprobación de gasolina para vehículos cuya propiedad no es del partido, se tendrá que remitir a la Dirección dentro del plazo señalado en el primer párrafo del presente artículo, listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones (con la copia simple de la tarjeta de circulación), así como los contratos de comodato correspondientes. Dicho listado deberá contener el número de placa de los vehículos que se enlisten en el mismo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+Además, para la comprobación de mantenimiento de equipo de transporte para vehículos cuya propiedad no es del partido, se tendrá que remitir a la Dirección dentro del plazo señalado en el primer párrafo del presente artículo, listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones (con la copia simple de la tarjeta de circulación), así como los contratos de comodato correspondientes. Dicho listado deberá contener el número de placa de los vehículos que se enlisten en el mismo.
 
 La documentación presentada para la comprobación de este concepto deberá contener el número de placa del o los vehículos a los cuales se les realizó dicho mantenimiento.
 
@@ -841,9 +1113,13 @@ Para el caso de comprobaciones bajo el rubro de actividades tendientes a la obte
 
 Cualquier modificación en el inventario de equipo de transporte propiedad del partido y/o listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones, deberá ser notificada a la Dirección dentro de los cinco días siguientes a que se produzca.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 110.
 
-Para comprobar egresos por concepto viáticos, los documentos que el partido político presente como comprobantes de éstos, deberán corresponder a provisiones para hacer un viaje fuera del municipio de Puebla, siempre y cuando se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles, casetas de peaje y gasolina, los cuales deberán estar acompañados de oficio de comisión, según el anexo III del presente Reglamento.
+Para comprobar egresos por concepto viáticos, los documentos que el partido político presente como comprobantes de éstos, deberán corresponder a provisiones para hacer un viaje fuera del Municipio de Puebla, siempre y cuando se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles, casetas de peaje y gasolina, los cuales deberán estar acompañados del formato de comprobación de viáticos, según el anexo III del presente Reglamento.
+
+Para comprobar egresos por concepto de hospedaje y alimentos que se realicen por algún Órgano estatutario del partido, se anexará al comprobante la documentación que justifique el objeto del gasto.
 
 ###### ARTÍCULO 111.
 
@@ -873,11 +1149,29 @@ f) El nombre de la estación o televisora, la banda, las siglas, la frecuencia e
 
 En caso de que la factura no contenga dichos datos, el partido político en cuestión solicitará que en hojas membreteadas (sic) de sus proveedores, se anexe una relación pormenorizada que contenga los datos citados con anterioridad, para lo cual dichas hojas deberán hacer mención del número de factura a que se refiere.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 114.
 
-Para comprobar egresos de propaganda institucional y de aquélla que tiene como finalidad promover a sus candidatos registrados para la obtención del voto, los partidos políticos deberán anexar adicionalmente del comprobante correspondiente, la evidencia comprobatoria y pruebas que permitan verificar los artículos adquiridos, a efecto de comprobar la correcta aplicación del gasto, dentro de los rubros en que se divide el Financiamiento Público, y de cumplimentar lo referente a los gastos totales, aplicados a cada campaña.
+Para comprobar egresos de propaganda institucional y de aquélla que tiene como finalidad promover a los candidatos registrados para la obtención del voto, los partidos políticos deberán anexar adicionalmente del comprobante correspondiente, la evidencia comprobatoria y pruebas que permitan verificar los artículos adquiridos, a efecto de comprobar la correcta aplicación del gasto, dentro de los rubros en que se divide el Financiamiento Público, y de cumplimentar lo referente a los gastos totales, aplicados a cada campaña, por lo que el partido político y/o coalición deberá considerar que en la propaganda de gastos de campaña se identifique de manera clara:
 
-Se entenderá por evidencia comprobatoria y pruebas, aquella información y datos persuasivos, verificables, válidos y apropiados que permiten demostrar un hecho o una cosa tales como muestra de los artículos adquiridos, fotografías, videos, etc.
+a) El nombre del candidato;
+
+b) El cargo de elección popular al que aspira; y
+
+c) El partido político y/o coalición por el que realiza la campaña correspondiente.
+
+Se entenderá por evidencia comprobatoria y pruebas, aquella información y datos persuasivos, verificables, válidos y apropiados que permiten demostrar un hecho o una cosa tales como muestra de los artículos adquiridos, fotografías, vídeos u otras similares.
+
+El valor de registro como aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato al partido político y/o coalición, se registrará en el apartado de egresos correspondiente, dichos valores de registro se tomarán en consideración para los efectos de topes de gastos de campaña, a que están sujetos los candidatos, partidos políticos y/o coaliciones.
+
+La documentación presentada por los partidos políticos para la comprobación de egresos a la cual se le determine por parte de la Dirección y/o Comisión observaciones referentes a incumplimiento a disposiciones fiscales tales como omisiones a: contener impreso el nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien expida, número de folio, lugar y fecha de expedición, clave del registro federal de contribuyentes de la persona a favor de quien se expida cantidad y clase de mercancías o descripción del servicio, valor unitario consignado en número e importe total consignado en número y letra, así como el monto de los impuestos, número y fecha del documento aduanero, fecha de impresión y datos de identificación del impresor autorizado; podrán ser sustituidas por otras siempre y cuando se cumplan con todos y cada uno de los requisitos siguientes:
+
+a) Que se presente nueva factura expedida por el mismo proveedor o prestador de servicios;
+
+b) Que su importe total coincida con el de la documentación comprobatoria observada; y
+
+c) Que la cantidad en su caso, clase de servicio o producto, importe unitario, importe parcial e importe total coincida con el de la documentación observada.
 
 ###### ARTÍCULO 115.
 
@@ -911,6 +1205,14 @@ REGLAMENTO PARA LA FISCALIZACION DE FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACRE
 
 > <small>N. DE E. VEASE FORMATOS EN LA TERCERA SECCION DEL P.O. DE 21 DE JULIO DE 2004, DE LA PAGINA 24 A LA 84.</small>
 
+SEGUNDA PARTE
+
+FORMATOS E INSTRUCTIVOS
+
+REGLAMENTO PARA LA FISCALIZACION DE FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
+
+(VEASE ARCHIVO ANEXO)
+
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 3 DE ENERO DE 2005.
@@ -934,3 +1236,7 @@ PRIMERO.- El Consejo General del Instituto Electoral del Estado, aprueba la adic
 SEGUNDO.- El Consejo General del Instituto Electoral del Estado faculta al Secretario General del Instituto Electoral del Estado a efecto de que realice las modificaciones al Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado y se ejecute el presente Acuerdo, en términos del considerando 5 de este documento.
 
 TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
