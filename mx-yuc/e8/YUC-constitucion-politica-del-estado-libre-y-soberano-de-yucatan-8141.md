@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2007-04-11"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2007.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -631,37 +631,9 @@ XIII.- conceder amnistías por los delitos cuyo conocimiento pertenezca exclusiv
 
 XIV.- conceder premios y recompensas por servicios eminentes prestados al Estado;
 
-> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2007)</small>
 
-XV.- Expedir leyes sobre Educación Pública, con sujeción a las bases siguientes:
-
-a) La educación que imparta el Estado será: nacionalista, democrática y tendiente a abolir la distinción social entre los individuos, sin hostilidades ni exclusivismos, procurando siempre el máximo aprovechamiento de nuestros recursos, en ejemplificante conducta de amor a la Nación; la defensa de nuestra independencia política; el aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura y además será laica manteniéndose ajena a cualquier doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en los términos establecidos por el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; el criterio que orientará a esta educación se basará en los resultados del progreso científico y tecnológico y luchará contra la ignorancia y sus efectos;
-
-> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-La educación del pueblo maya será objeto de atención especial del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento y defensa de la cultura maya.
-
-> <small>(ADICIONADO, D.O. 11 DE ABRIL DE 2007)</small>
-
-Cuando se tratare de programas educativos de contenido regional, el estado deberá consultar al pueblo maya para su definición y desarrollo.
-
-> <small>(REFORMADO, D.O. 18 DE ABRIL DE 2005)</small>
-
-b) No podrán funcionar planteles particulares de Educación sin haber obtenido previamente, en cada caso, autorización expresa del Poder Público.
-
-Los particulares podrán impartir educación en todos sus tipos y modalidades, en los términos que establezca la ley. El Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares; en el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
-
-Impartir la educación con los mismos fines y criterios que establece la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como cumplir los planes y programas que la propia Constitución Federal establece en la fracción III de su Artículo 3º;
-
-> <small>(REFORMADO, D.O. 18 DE ABRIL DE 2005)</small>
-
-c) El Estado impartirá gratuitamente educación preescolar, primaria y secundaria, siendo éstas obligatorias para sus habitantes.
-
-d) La educación preparatoria y la profesional, serán o no gratuitas según lo determinen las leyes;
-
-e) Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la Educación Superior necesaria para el desarrollo de la Nación y el Estado, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura; y
-
-f) Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del Artículo 123 de la Constitución General de la República, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
+XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constitucionales federales y las previstas en esta Constitución;
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -1809,17 +1781,65 @@ XIV.- garantizar la libre opinión ciudadana, a través de los procesos de parti
 
 El trabajo es un derecho que la sociedad otorga al individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado procurará resolver el problema de la desocupación y reprimirá con sanciones la vagancia y la mendicidad.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 89.
 
-La propiedad es una institución social que el Estado adopta como medio, que concederá discrecionalmente, para satisfacción de las necesidades individuales.
+La propiedad es una institución social que el Estado adopta como medio para la satisfacción de las necesidades individuales, que concede a las personas de manera discrecional; aquella es inalienable e inatacable, cuando se tratare del lugar en donde el hogar tiene su asiento o sobre los instrumentos de trabajo.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El Estado dictará leyes que organicen el patrimonio familiar.
+
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 90.
 
-La propiedad es inalienable e inatacable, cuando recae sobre el local en que el hogar tiene su asiento o sobre los instrumentos de trabajo. Con el criterio sustentado en este artículo y en el que inmediatamente antecede, el Estado dictará leyes que organicen el patrimonio familiar.
+Los habitantes del Estado tienen derecho a la educación y la cultura, entendiéndolas como una prerrogativa social.
+
+Apartado A.- De la Educación.
+
+Son bases de la Educación que se imparta en el Estado, las siguientes:
+
+I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas; procurará siempre desarrollar de manera armónica las facultades del ser humano, fomentará el civismo, el amor a la patria y el máximo aprovechamiento sustentable de los recursos naturales;
+
+II.- Respecto a la educación del pueblo maya, será objeto de atención especial por parte del Estado, su acceso se garantizará, mediante leyes y programas que contribuyan a su propio desarrollo, de manera equitativa y sustentable, así como, la educación bilingüe e intercultural, basado en el principio de equidad entre las comunidades; estableciendo los mecanismos que permitan el fomento, subsistencia, enriquecimiento y defensa de la cultura maya.
+
+Cuando se tratare de programas educativos de contenido regional, el Estado deberá consultar al pueblo maya para su definición y desarrollo;
+
+III.- Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
+
+IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios;
+
+V.- El Estado apoyará la investigación científica y tecnológica, su resultado será sustento de la actividad educativa;
+
+VI.- El Estado, impartirá gratuitamente educación preescolar, primaria y secundaria; asimismo promoverá todos los tipos y modalidades;
+
+VII.- La educación media superior y superior podrán ser gratuitas, según lo determinen las leyes;
+
+VIII.- Las Instituciones Educativas particulares no funcionarán y los estudios que impartan no tendrán validez, sin que previamente cuenten con autorización oficial; éstas podrán ser de todos los tipos y modalidades, con sujeción a lo dispuesto en esta Constitución, y
+
+IX.- Las universidades y demás instituciones de educación superior, a las que la Ley otorgue autonomía, se regirán conforme a lo siguiente:
+
+a) Tendrán la facultad de gobernarse a sí mismas;
+
+b) Realizarán sus fines de educar, investigar y difundir la cultura, de acuerdo con los principios de este artículo;
+
+c) Garantizarán la libertad de cátedra e investigación y el libre pensamiento y discusión de las ideas;
+
+d) Determinarán sus planes y programas;
+
+e) Fijarán los términos de ingreso, promoción y permanencia de su personal académico;
+
+f) Administrarán su patrimonio, y
+
+g) Las relaciones laborales, tanto del personal académico como del administrativo, se regirán por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de la Ley Federal del Trabajo, conforme a las características propias de un trabajo especial.
+
+Apartado B.- De la Cultura
+
+La cultura como valor trascendente, es la base fundamental del desarrollo integral de las personas y la convivencia social.
+
+El Estado implementará con criterio social, políticas para la promoción cultural, el fomento de la cultura maya y su conservación, la difusión de las tradiciones, costumbres y valores regionales.
+
+La ley garantizará la participación de los sectores público, social y privado, en la preservación del patrimonio cultural; la impartición de la educación artística y el impulso a la creación intelectual y las bellas artes, en un marco de libertad y pluralismo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2840,3 +2860,13 @@ La ley reglamentaria en materia de Derechos y Cultura Maya deberá emitirse dent
 ###### ARTÍCULO QUINTO.
 
 El organismo público, que definirá, ejecutará y evaluará las políticas de atención al pueblo maya, deberá crearse dentro del plazo de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+D.O. 11 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 60 días de la entrada en vigor de este Decreto, se deberá revisar y en su caso reformar la Ley de Fomento a la Ciencia y la Tecnología del Estado de Yucatán.
