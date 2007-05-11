@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-alumbrado-publico-para-el-municipio-de-55510"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-04"
-last_updated: "1995-10-04"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO DE ALUMBRADO PUBLICO PARA EL MUNICIPIO DE CULIACAN, SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de octubre de 1995.
 
@@ -45,7 +45,9 @@ Las disposiciones contenidas en el presente reglamento son de orden público e i
 
 Este reglamento tiene por objeto regular la prestación del servicio de alumbrado público, tanto el que preste directamente el Ayuntamiento como el que preste con el concurso del Gobierno del Estado o de los organismos públicos paraestatales, en coordinación o asociación con otros municipios, o por medio de organismos públicos paramunicipales.
 
-Para el otorgamiento de concesiones a los particulares, se observará lo dispuesto por la Ley de Gobierno Municipal del Estado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
+Para el otorgamiento de concesiones a los particulares, se observará lo dispuesto por la Ley de Gobierno Municipal del Estado de Sinaloa.
 
 ###### ARTICULO 3.
 
@@ -75,7 +77,9 @@ El servicio de alumbrado público tendrá las características siguientes:
 
 I.- Continuidad y uniformidad, que aseguran la prestación del servicio y la satisfacción de una necesidad constante de la población, de manera eficiente, efectiva y eficaz; y
 
-II.- Igualdad, que significa que el servicio deberá prestarse en los mismos términos a todos los habitantes de la comunidad, sin distinción alguna, por razones económicas, ideológicas o sociales.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+II.- Igualdad, que significa que el servicio deberá prestarse en los mismos términos a todos los habitantes de la comunidad, sin distinción alguna, por razones económicas, ideológicas, sociales o políticas.
 
 ###### ARTICULO 7.
 
@@ -93,7 +97,9 @@ I.- El H. Ayuntamiento;
 
 II.- El Presidente Municipal;
 
-III.- La Dirección General de Servicios Públicos Municipales; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+III.- La Dirección de Servicios Públicos; y
 
 IV.- La Tesorería Municipal.
 
@@ -121,9 +127,11 @@ D).- Ordenar las acciones necesarias para la prestación eficiente del servicio 
 
 E).- Los demás que señalen este reglamento y disposiciones legales de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Es competencia de la Dirección General de Servicios Públicos:
+Es competencia de la Dirección de Servicios Públicos:
 
 A).- Cumplir y hacer cumplir este reglamento y demás disposiciones legales vigentes en materia de alumbrado público;
 
@@ -231,7 +239,9 @@ Los usuarios del servicio de alumbrado público tendrán las obligaciones siguie
 
 I.- Cuidar de las instalaciones y equipo de alumbrado público;
 
-II.- Comunicar a la Dirección General de Servicios Públicos las fallas y deficiencias del servicio de alumbrado público;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+II.- Comunicar a la Dirección de Servicios Públicos, las fallas y deficiencias del servicio de alumbrado público;
 
 III.- Fomentar en los niños el respeto y cuidado de las instalaciones y equipos de los sistemas de alumbrado público;
 
@@ -319,9 +329,11 @@ C).- Condiciones personales y económicas del infractor.
 
 La imposición de las multas se fijará teniendo como base el salario mínimo general diario vigente en la zona del municipio de Culiacán.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 32.
 
-Se considerará reincidente a quien infrinja más de dos veces en un término de treinta días la misma disposición.
+Se considerará reincidente a quien infrinja dos veces o más las disposiciones de este reglamento en un término de 90 días naturales.
 
 ###### ARTICULO 33.
 
@@ -398,3 +410,11 @@ DR. HUMBERTO GOMEZ CAMPAÑA
 SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. HERMANN LEUFFER MENDOZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE MAYO DE 2007.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
