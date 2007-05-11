@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-22012"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-08-06"
-last_updated: "2006-09-25"
+last_updated: "2007-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 6 de agosto de 2001.
 
@@ -125,33 +125,11 @@ Los Magistrados de cada Tribunal, en escrutinio secreto, elegirán a quien será
 
 ###### ARTÍCULO 7.
 
-Durante los procesos electorales, se integrarán al Tribunal Electoral dos magistrados del Tribunal Superior de Justicia designados por el Pleno de este órgano colegiado y aprobados por las fracciones parlamentarias del Congreso del Estado.
-
-Los dos Magistrados referidos en el párrafo anterior, continuarán conociendo y resolviendo los asuntos de la competencia de la Sala del Tribunal Superior de Justicia a la que estuvieren adscritos, desempeñando simultáneamente esta función con la correspondiente del Tribunal Electoral.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 8.
 
-Durante los recesos electorales, los Magistrados del Tribunal Electoral con excepción de su Presidente, se constituirán en Sala auxiliar del Tribunal Superior de Justicia.
-
-Este órgano, será competente para conocer y resolver colegiada o unitariamente, con el apoyo de su propio Secretario de Sala y demás personal del Tribunal Electoral y le corresponde:
-
-I. Ejercer la función jurisdiccional de Segunda Instancia en los asuntos que le asigne el Pleno del Tribunal Superior Justicia;
-
-II. Constituir la Visitaduría General;
-
-III. Ejercer sus funciones con la residencia que determine el Pleno;
-
-IV. Constituirse como órgano redactor de los criterios jurisdiccionales;
-
-V. Resolver la contradicción de tesis entre las Salas del Tribunal Superior de Justicia y
-
-VI. Las demás que le encomiende el Pleno.
-
-La función anterior no constituirá obstáculo para que cuando durante los recesos electorales fuere necesaria la intervención de alguno o varios de los Magistrados Electorales en el conocimiento y resolución de asuntos de la competencia del Tribunal Electoral, puedan actuar válidamente.
-
-Durante su intervención como Sala auxiliar, los Magistrados Electorales no integrarán Pleno del Tribunal Superior de Justicia.
-
-En caso de existir coincidencia en los intereses de las partes en el ámbito del conocimiento del Tribunal Electoral, cuando funcione como Sala Auxiliar del Tribunal Superior de Justicia, el Magistrado deberá excusarse de seguir conociendo el asunto, en su defecto procederá la recusación interpuesta por alguna de las partes.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 9.
 
@@ -453,9 +431,11 @@ Los Magistrados durarán en el ejercicio de su cargo seis años; podrán ser ree
 
 ### CAPÍTULO II. DEL PLENO
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 30.
 
-El pleno del Tribunal Superior de Justicia se integra con Magistrados, con excepción de los de la Sala Auxiliar, requiriéndose un quórum de la mitad más uno. Sus resoluciones requerirán la mayoría de votos de los presentes, los Magistrados podrán emitir voto razonado en contra. El Presidente tendrá voto de calidad.
+El pleno del Tribunal Superior de Justicia se integra con Magistrados, requiriéndose un Quórum de la mitad más uno. Sus resoluciones requerirán la mayoría de votos de los presentes, los Magistrados podrán emitir voto razonado en contra. El Presidente tendrá voto de calidad.
 
 ###### ARTÍCULO 31.
 
@@ -1467,23 +1447,25 @@ La constancia de recepción de las promociones y sus anexos, así como su regist
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 104.
 
-El Tribunal es la máxima Autoridad Jurisdiccional en materia electoral, órgano permanente y especializado del Poder Judicial del Estado, dotado de plena autonomía para dictar sus resoluciones y tendrá su sede en la ciudad de Pachuca de Soto Hidalgo.
+El Tribunal es la máxima Autoridad Jurisdiccional en materia Electoral, órgano permanente y especializado del Poder Judicial del Estado, dotado de plena autonomía para el ejercicio de sus funciones y tendrá su sede en la Ciudad de Pachuca de Soto, Hidalgo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 105.
 
-El Tribunal Electoral se integra con cuatro Magistrados quienes serán electos de acuerdo al procedimiento señalado en la Constitución Política del Estado y al Artículo 106 de esta Ley.
+El Tribunal Electoral se integra con cuatro Magistrados, quienes serán electos de acuerdo al procedimiento señalado en la Constitución Política del Estado y al Artículo 107 de esta Ley.
 
-Durante los procesos electorales se integrarán a este cuerpo colegiado, dos Magistrados del Tribunal Superior de Justicia designados por el Pleno del mismo, a propuesta de los partidos políticos.
+Para el trámite de sus renuncias, se seguirá el mismo procedimiento que para su nombramiento.
 
-Para el trámite de sus renuncias, se seguirá el mismo procedimiento que para su designación.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 106.
 
-Durante los procesos electorales, el Tribunal funcionará en dos Salas, una de Primera Instancia y otra de Segunda Instancia, con la participación de los Seis Magistrados a que se hace referencia en el Artículo anterior.
-
-Entre los Procesos Electorales funcionará en Pleno, integrado por los cuatro Magistrados Electorales sin perjuicio de las funciones que le corresponda como integrantes de la Sala Auxiliar del Tribunal Superior de Justicia.
+El Tribunal contará con un Secretario General, propuesto por el Presidente con la aprobación del Pleno, y dos Secretarios de Acuerdos; Secretarios Proyectistas, Actuarios, Oficial de Partes, un Jefe de la Unidad Administrativa y el personal que sea necesario para su buen funcionamiento.
 
 ###### ARTÍCULO 107.
 
@@ -1521,19 +1503,33 @@ VII. Promover las tareas de formación, investigación, capacitación y divulgac
 
 VIII. Celebrar Convenios de Cooperación y Colaboración Interinstitucionales, para el mejoramiento en la impartición de justicia, así como para la celebración de exámenes profesionales en su fase práctica;
 
-IX. Editar periódicamente publicaciones de información e investigación electoral y participar en la edición del Boletín Judicial y
+IX. Editar periódicamente publicaciones de información e investigación electoral y participar en la edición del Boletín Judicial y (sic)
 
-X. Las demás obligaciones, atribuciones y facultades que le señalen las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+X. Ejercer su Presupuesto de Egresos de manera autónoma, entregando la documentación correspondiente para efectos de la Cuenta Pública, lo cual estará sujeto a los principios de transparencia y rendición de cuentas del Poder Judicial de conformidad con el Plan de Fortalecimiento Institucional;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XI. Informar a la ciudadanía sobre sus actividades relativas a los Procesos Electorales en breve plazo posterior a la conclusión de éstos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XII. Las demás obligaciones, atribuciones y facultades que le señalen las Leyes.
 
 ### CAPÍTULO II. DEL PLENO DEL TRIBUNAL ELECTORAL
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 110.
 
-El Pleno se integra por los Cuatro Magistrados Electorales, incorporándose al mismo durante los procesos electorales los dos Magistrados del Tribunal Superior de Justicia a que hace mención el Artículo 7 y 104 de esta Ley.
+El Pleno se integra por los cuatro Magistrados a que se refiere el Artículo 105 de esta Ley y conocerá de los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 111.
 
-Para que el Pleno pueda sesionar válidamente durante los procesos electorales, se requiere la presencia de su Presidente y por lo menos Cuatro Magistrados; durante los recesos electorales sesionará con el Presidente y la mayoría de los Magistrados Electorales.
+Para que el Pleno pueda sesionar válidamente se requiere la presencia de su Presidente y la mayoría de los Magistrados.
 
 Sus determinaciones serán válidas con el voto de la mayoría simple de los presentes en caso de empate, el Magistrado Presidente tendrá voto de calidad.
 
@@ -1545,11 +1541,15 @@ I. Elegir, de entre los Magistrados Electorales, al Presidente del mismo;
 
 II. Designar al Presidente Interino o Sustituto;
 
-III. Nombrar a propuesta del Presidente, al Secretario General;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+III. Nombrar, a propuesta del Presidente, al Secretario General y al Jefe de la Unidad Administrativa;
 
 IV. Emitir los acuerdos que sean necesarios para garantizar el funcionamiento del Pleno y de las Salas de Primera y Segunda instancia, en todo aquello no previsto por esta Ley y el Reglamento Interior del Tribunal Electoral;
 
-V. Substanciar y resolver los recursos sometidos a su competencia, así como proveer la ejecución de las resoluciones que pronuncie;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+V. Substanciar y resolver los medios de impugnación sometidos a su competencia, así como proveer la ejecución de las resoluciones que pronuncie;
 
 VI. Aprobar y en su caso, modificar el Reglamento Interior y los demás ordenamientos que sean necesarios para el buen funcionamiento del mismo;
 
@@ -1577,7 +1577,7 @@ La elección se hará en la Primera Sesión del Pleno que se efectúe en el mes 
 
 ###### ARTÍCULO 114.
 
-Durante los Procesos Electorales, el Presidente del Tribunal lo será también de la Sala de Segunda Instancia.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 115.
 
@@ -1589,7 +1589,7 @@ II. Presidir las sesiones del Pleno y de la Sala de Segunda Instancia;
 
 III. Proponer al Pleno, para su aprobación, el nombramiento del Secretario General;
 
-IV. Proponer al Pleno la integración de las Salas de Primera y Segunda Instancia;
+IV. (DEROGADA, P.O. 11 DE MAYO DE 2007)
 
 V. Designar a los Secretarios de Acuerdos y a los Actuarios;
 
@@ -1597,15 +1597,17 @@ V. Designar a los Secretarios de Acuerdos y a los Actuarios;
 
 VI. Someter a la consideración del Pleno, el Proyecto de Presupuesto Anual, a efecto de que una vez aprobado, lo remita al Presidente del Consejo de la Judicatura, para su inclusión en el Presupuesto del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-VII. Vigilar que las Salas cuenten con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento y hacer los requerimientos correspondientes al Consejo de la judicatura;
+VII. Vigilar que el Tribunal cuente con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento y hacer los requerimientos correspondientes al Consejo dé la Judicatura;
 
 VIII. Convocar a Sesiones Plenarias, así como a reuniones internas;
 
 IX. Fijar los días y horas en que deba sesionar el Pleno para resolver los asuntos de su competencia, ordenando al Secretario General, hacerlo del conocimiento público mediante la cédula respectiva;
 
-X. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+X. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del Tribunal;
 
 XI. Ordenar las diligencias necesarias para mejor proveer, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos por las leyes;
 
@@ -1613,97 +1615,55 @@ XII. Rendir informe anual ante el Pleno;
 
 XIII. En representación del Tribunal Electoral y con apoyo del Director General del Instituto de Profesionalización e Investigaciones Jurídicas del Poder Judicial, celebrar Convenios de Colaboración con otros Tribunales Electorales, Instituciones Educativas y Organos eEectorales (sic), en materia de investigación jurídica, capacitación y divulgación del derecho electoral, encaminados a la profesionalización y actualización del personal, de otros organismos afines y de la ciudadanía en general;
 
-XIV. Suscribir Convenios con Instituciones Educativas de Nivel superior para aplicar exámenes profesionales prácticos en materia electoral a pasantes de la Licenciatura en derecho y
+XIV. Suscribir Convenios con Instituciones Educativas de Nivel superior para aplicar exámenes profesionales prácticos en materia electoral a pasantes de la Licenciatura en derecho y (sic)
 
-XV. Las demás atribuciones que le confieran esta Ley, el Reglamento Interior y los ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XV. Proponer al Pleno, para su aprobación, el nombramiento del Jefe de la Unidad Administrativa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XVI. Las demás atribuciones que le confieran esta Ley, el Reglamento Interior y los ordenamientos aplicables.
 
 ### CAPÍTULO IV. DE LAS SALAS
 
 ###### ARTÍCULO 116.
 
-Las Salas de Primera y Segunda Instancia se integrarán con Tres Magistrados cada una.
-
-Para sesionar se requiere la presencia del total de sus integrantes y las resoluciones se tomarán por unanimidad o mayoría de votos, sólo podrán abstenerse de votar cuando tengan impedimento legal. Para las ausencias, impedimentos y excusas deberá estarse a lo previsto por esta Ley y los demás ordenamientos aplicables.
-
-Cuando un Magistrado no estuviere de acuerdo con la resolución de la mayoría, deberá formular voto particular.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 117.
 
-Corresponde al Pleno de la Sala de Primera Instancia:
-
-I. Elegir a su Presidente;
-
-II. Conocer y resolver los recursos previstos en la Ley Estatal de Medios de Impugnación en Materia Electoral;
-
-III. Acordar las medidas de apremio o correcciones disciplinarias previstas en la Ley Estatal de Medios de Impugnación, cuando se falte al respeto a algún órgano o miembro del Tribunal en las promociones o en las sesiones públicas que se celebren;
-
-IV. Requerir a través de su Presidente, a las autoridades Estatales, Municipales y Electorales los documentos pertinentes para el cumplimiento de sus funciones y resoluciones;
-
-V. Nombrar las comisiones que sean necesarias para la atención de los asuntos y
-
-VI. Las demás atribuciones que le señalen esta Ley, el Reglamento Interior y los ordenamientos aplicables.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 118.
 
-Corresponde al Presidente de la Sala de Primera Instancia:
-
-I. Representar a la Sala y despachar la correspondencia de la misma;
-
-II. Presidir la Sala y dirigir los debates;
-
-III. Imponer por acuerdo del Pleno de la Sala de Primera Instancia, los medios de apremio y correcciones disciplinarias previstos en la Ley Estatal de Medios de Impugnación en Materia Electoral;
-
-IV. Turnar los asuntos que le remita el Presidente del Tribunal, a los Magistrados;
-
-V. Ordenar que se realice alguna diligencia para mejor proveer, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos por las leyes;
-
-VI. Fijar los días y horas en que deba sesionar el Pleno de la Sala para resolver los asuntos de su competencia, ordenando al Secretario de Acuerdos de la misma hacerlo del conocimiento público a través de la cédula respectiva;
-
-VII. Vigilar el cumplimiento de las resoluciones de la Sala;
-
-VIII. Informar permanentemente al Presidente del Tribunal Electoral sobre el estado que guardan los expedientes turnados, así como del funcionamiento de la propia Sala y
-
-IX. Las demás atribuciones que le señalen esta Ley y los ordenamientos aplicables.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 119.
 
-Corresponde al Pleno de la Sala de Segunda Instancia:
-
-I. Conocer y resolver el recurso de revisión previsto en la Ley de Medios de Impugnación en Materia Electoral;
-
-II. Acordar las medidas de apremio o correcciones disciplinarias previstas en la Ley Estatal de Medios de Impugnación en Materia Electoral, cuando se falte al respeto a algún órgano o miembro del Tribunal en las promociones o en las sesiones públicas que se celebren;
-
-III. Requerir a través de su Presidente, a las autoridades Estatales, Municipales y Electorales, los documentos pertinentes para el cumplimiento de sus funciones y resoluciones;
-
-IV. Nombrar las comisiones que sean necesarias para la atención de los asuntos y
-
-V. Las demás atribuciones que le señalen esta Ley y los ordenamientos aplicables.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 120.
 
-Corresponde al Presidente de la Sala de Segunda Instancia:
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
-I. Representar a la Sala y despachar su correspondencia;
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
-II. Presidirla y dirigir los debates;
+### CAPÍTULO V. DEL SECRETARIO GENERAL, DE LOS SECRETARIOS DE ACUERDOS, SECRETARIOS PROYECTISTAS, DE LOS ACTUARIOS Y DE LA OFICIALIA DE PARTES
 
-III. Imponer por acuerdo del Pleno de Sala de Segunda Instancia, los medios de apremio o corrección disciplinaria conforme a lo previsto por la Ley estatal de Medios de Impugnación en Materia Electoral, por esta Ley y los ordenamientos legales;
-
-IV. Fijar los días y horas en que deba sesionar la Sala de Segunda Instancia para resolver los asuntos de su competencia, ordenando al Secretario de Acuerdos de la misma, hacerlo del conocimiento público, a través de la cédula respectiva;
-
-V. Vigilar el cumplimiento de las resoluciones de la Sala y
-
-VI. Las demás atribuciones que le señalan esta Ley y los ordenamientos aplicables.
-
-### CAPÍTULO V. DEL SECRETARIO GENERAL, DE LOS SECRETARIOS DE SALA, DE LOS ACTUARIOS Y DE LA OFICIALÍA DE PARTES
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 121.
 
-El Tribunal Electoral tendrá un Secretario General, un Secretario de Acuerdos para cada Sala y los Actuarios que sean necesarios y permita el presupuesto.
+El Tribunal Electoral tendrá un Secretario General, dos Secretarios de Acuerdos y los Actuarios que sean necesarios y permita el presupuesto.
+
+El Secretario General, que lo será también del Pleno, dará fe y autentificará todo lo relativo al ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 122.
 
-El Secretario General del Tribunal Electoral y los Secretarios de Acuerdos de las Salas deberán satisfacer los mismos requisitos exigidos para ocupar el cargo de Magistrado, con excepción de la edad mínima que deberá ser veinticinco años cumplidos el día de la designación; por cuanto a la antigüedad del título profesional de Licenciado en Derecho, ésta deberá ser no menor de cinco años para el Secretario General y de tres años para los Secretarios de Sala. Adicionalmente, los Secretarios de Sala deberán haber sido seleccionados a través del concurso de méritos, conforme a lo previsto en esta Ley y el Reglamento Interior del Tribunal Electoral.
+El Secretario General del Tribunal Electoral y los Secretarios de Acuerdos deberán satisfacer los mismos requisitos exigidos para ocupar el cargo de Magistrado, con excepción de la edad mínima que deberá ser veinticinco años cumplidos el día de la designación; por cuanto a la antigüedad del titulo profesional de Licenciado en Derecho, ésta deberá ser no menor de cinco años para el Secretario General y de tres años para los Secretarios de Acuerdos. Adicionalmente, los Secretarios de Acuerdos deberán haber sido seleccionados a través del concurso de méritos, pudiendo apoyarse con el Consejo de la Judicatura, conforme a lo previsto en esta Ley y el Reglamento Interior del Tribunal Electoral.
 
 ###### ARTÍCULO 123.
 
@@ -1719,19 +1679,41 @@ IV. Llevar el control del turno de los Magistrados en los asuntos de la competen
 
 V. Autorizar los libros oficiales del Tribunal;
 
-VI. Llevar el registro de los criterios de interpretación de la Ley, que se adopten en relación con las resoluciones que emita el Tribunal;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-VII. Supervisar el debido funcionamiento de la Oficialía de Partes;
+VI. Realizar la Publicación de los listados de resolución ordenados por el Presidente;
 
-VIII. Autorizar y registrar la expedición de credenciales de identificación a los servidores públicos del Tribunal, que en razón de sus funciones lo requieran;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-IX. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
+VII. Llevar el registro de los criterios de interpretación de la Ley, que se adopten en relación con las resoluciones que emita el Tribunal;
 
-X. Supervisar el debido funcionamiento del archivo de los expedientes formados con motivo de los asuntos de la competencia del Tribunal, y en su momento, la concentración y preservación de los mismos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-XI. Expedir las certificaciones y constancias que se requieran y
+VIII. Supervisar el debido funcionamiento de la Oficialía de Partes;
 
-XII. Las demás atribuciones que le señalen esta Ley, el Reglamento Interior y los ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+IX. Autorizar y registrar la expedición de credenciales de identificación a los servidores públicos del Tribunal, que en razón de sus funciones lo requieran;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+X. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XI. Supervisar el debido funcionamiento del archivo de los expedientes formados con motivo de los asuntos de la competencia del Tribunal, y en su momento, la concentración y preservación de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XII. Expedir las certificaciones y constancias que se requieran;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XIII. Coordinar en lo que corresponda, previo acuerdo con el Presidente las actividades de los Secretarios de Acuerdos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XIV. Las demás atribuciones que le señalen esta Ley, el Reglamento Interior y los ordenamientos aplicables.
 
 ###### ARTÍCULO 124.
 
@@ -1741,23 +1723,67 @@ I. Cumplir con las tareas que le encomiende el Pleno de la sala respectiva o su 
 
 II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones plenarias de la Sala correspondiente;
 
-III. Realizar los engroses de las resoluciones de la Sala respectiva, cuando así lo ordene el Presidente de la misma;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-IV. Llevar el control del turno de los Magistrados de la sala respectiva;
+III. Realizar los engroses de las resoluciones, cuando así lo ordene el. Presidente;
 
-V. Supervisar el debido funcionamiento del archivo de los expedientes de la Sala correspondiente y, en su momento, realizar la remisión oportuna a la Secretaría General del Tribunal;
+IV. (DEROGADA, P.O. 11 DE MAYO DE 2007)
 
-VI. Realizar la publicación de los listados de resolución, ordenados por el Presidente de la sala respectiva;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-VII. Autenticar con su firma las actuaciones de la Sala correspondiente;
+V. Supervisar el debido funcionamiento del archivo de los expedientes en trámite, y en su momento, realizar la remisión oportuna a la Secretaría General del Tribunal;
+
+VI. (DEROGADA, P.O. 11 DE MAYO DE 2007)
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+VII. Autenticar con su firma las actuaciones de los Magistrados Electorales, cuando actúen como Magistrados Instructores;
 
 VIII. Supervisar que las notificaciones se realicen en tiempo y forma;
 
 IX. Expedir las certificaciones y las constancias que se requieran;
 
-X. Informar permanentemente al Presidente de Sala sobre el funcionamiento de las áreas a su cargo y el desahogo de los asuntos de su competencia y
+X. Informar permanentemente al Presidente de Sala sobre el funcionamiento de las áreas a su cargo y el desahogo de los asuntos de su competencia y (sic)
 
-XI. Las demás obligaciones y atribuciones que les señalen esta Ley, el Reglamento Interior del Tribunal y los ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XI. Elaborar y autorizar diariamente la lista de acuerdos de los expedientes con número par y la de los expedientes con número non, y de sus resoluciones, la cual se fijará en los estrados conservando una copia para el archivo y otra que remitirá a la Secretaría General del Tribunal;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XII. Turnar al Actuario los acuerdos y resoluciones para su diligenciación o notificación de inmediato. La entrega de los autos al Actuario se efectuará mediante listas que firmarán ambos para su control;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XIII. Vigilar que los demás empleados asistan con puntualidad al Tribunal y cumplan sus deberes, comunicando a la Unidad Administrativa las faltas que notaren;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XIV. Cubrir las guardias cuando así lo requiera el servicio;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XV. Remitir mediante oficio, los expedientes concluidos al Archivo del Tribunal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XVI. Las demás obligaciones y atribuciones que les señalen esta Ley, el Reglamento Interior del Tribunal y los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2007)</small>
+
+ARTÍCULO 124 BIS.- Para ser Secretario Proyectista se requiere tener titulo de Licenciado en Derecho y estar en pleno ejercicio de sus derechos políticos y civiles.
+
+Los Secretarios Proyectistas tendrán las siguientes atribuciones:
+
+I. Acordar los asuntos de su competencia con el Magistrado Ponente o, en su caso, con el Secretario de Acuerdos que corresponda al expediente que esté substanciando;
+
+III. Estudiar, analizar y substanciar los expedientes que se les asignen;
+
+III. Formular los anteproyectos de resolución y someterlos a la consideración del Magistrado Ponente;
+
+IV. En caso de ausencia, suplir al Secretario de Acuerdos, cuando para ello sea habilitado por el Presidente; y
+
+V. Las demás obligaciones y atribuciones que les señalen esta Ley, el Reglamento. Interior del Tribunal y los ordenamientos aplicables.
 
 ###### ARTÍCULO 125.
 
@@ -1773,27 +1799,51 @@ II. Realizar las notificaciones en tiempo y forma, asentando en el expediente la
 
 III. Realizar las diligencias que se les encomiende, levantando las actas respectivas;
 
-IV. Llevar un registro de los expedientes que les sean turnados, dando cuenta de sus actuaciones al Secretario de Acuerdos de la sala respectiva y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+IV. Llevar un registro de los expedientes que les sean turnados, dando cuenta de sus actuaciones al Secretario de Acuerdos que corresponda; y
 
 V. Las demás obligaciones y atribuciones que le señalen esta Ley, el Reglamento Interior del Tribunal y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 127.
 
-La Oficialía de Partes del Tribunal Electoral dependerá de la Secretaría General y sus obligaciones y responsabilidades serán las mismas que las consignadas en el artículo 103 de esta Ley.
+La Oficialía de Partes del Tribunal Electoral dependerá de la Secretaria General y sus obligaciones y responsabilidades serán las siguientes:
 
-### CAPÍTULO VI. DE SU UNIDAD ADMINISTRATIVA
+I. Verificar el número de fojas y anexos que se acompañen a las promociones;
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+II. Anotar el número de anexos exhibidos, tanto en el original como en las copias, sellando de recibido;
+
+III. Firmar la promoción, tanto el original como en las copias. La constancia de recepción de las promociones y sus anexos, así como su registro podrá realizarse a través de los medios electrónicos con que pueda contar la Oficialía de Partes.
+
+IV. Al recibir las promociones, devolver debidamente selladas las copias de las promociones que se le presenten y describir los anexos si los hubiere;
+
+V. Anotar el ingreso de la promoción en el libro de registro, el cual deberá estar debidamente autorizado, foliado y encuadernado;
+
+VI. Dar cuenta en forma inmediata al Secretario General del Tribunal, de las promociones recibidas;
+
+VII. Elaborar los informes y estadísticas que le sean solicitados por el Secretario General del Tribunal;
+
+VIII. Auxiliar al Secretario General del Tribunal, en la elaboración del manual de la Oficialía de Partes; y
+
+IX. Las demás obligaciones y atribuciones dispuestas por esta Ley, el Reglamento Interior del Tribunal y los ordenamientos aplicables o le señalen el Presidente del Tribunal o el Secretario General.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPÍTULO VI. DE LA UNIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 128.
 
-La Unidad Administrativa del Tribunal, a cargo de un Jefe, dependerá del Consejo de la Judicatura.
+La Unidad Administrativa del Tribunal estará a cargo de un Jefe, quien tendrá la vinculación correspondiente con el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 129.
 
-El Jefe de la Unidad Administrativa, será propuesto por el Presidente del Tribunal Electoral y nombrado por el Presidente del Consejo de la Judicatura y contará con el personal de apoyo que permita el presupuesto.
+El Jefe de la Unidad Administrativa, será propuesto por el Presidente del Tribunal Electoral y nombrado por el Pleno del Tribunal Electoral y contará con el personal de apoyo que permita el presupuesto.
 
 ###### ARTÍCULO 130.
 
@@ -1815,7 +1865,9 @@ V. Controlar y mantener actualizado el inventario de mobiliario y equipo, vigila
 
 VI. Auxiliar al Presidente en la elaboración del anteproyecto de presupuesto;
 
-VII. Procurar lo necesario para la instalación oportuna de las Salas del Tribunal en los procesos electorales;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+VII. Procurar lo necesario para la instalación oportuna del Pleno del Tribunal en los Procesos Electorales;
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2006)</small>
 
@@ -1823,7 +1875,9 @@ VIII. Proponer a los Presidentes del Tribunal Electoral y del Consejo de la Judi
 
 IX. Controlar, vigilar y supervisar el desempeño del personal administrativo y de apoyo;
 
-X. Custodiar y conservar el acervo bibliográfico, hemerográfico y demás medios electrónicos de registro, en auxilio de la Secretaría General y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+X. Custodiar y conservar el acervo bibliográfico, hemerográfico y demás medios electrónicos de registro, en auxilio de la Secretaría General; y
 
 XI. Las demás obligaciones y atribuciones que le señalen esta Ley, el Presidente, el Oficial Mayor y demás ordenamientos legales.
 
@@ -2346,3 +2400,9 @@ CUARTO.- Las instituciones encargadas de la formulación de los agentes de las P
 QUINTO.- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida, de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley, en todo aquello que les beneficie.
 
 SEXTO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- Las presentes Modificaciones entrarán en vigor el día de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
