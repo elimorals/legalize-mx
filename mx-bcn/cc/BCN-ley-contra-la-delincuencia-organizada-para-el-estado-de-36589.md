@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2006-11-03"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -89,19 +89,33 @@ VI. Robo de vehículo, previsto por el Artículo 208-Bis y robo equiparado de ve
 
 VII. Asalto, previsto en los artículos 172 y 173 del Código Penal;
 
-VIII. Tráfico de menores, previsto en el artículo 238 en sus párrafos primero y quinto del Código Penal;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
 
-IX. Lenocinio, previsto en los artículos 265, 266 y 267 del Código Penal;
+VIII. Tráfico de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, descrito en el artículo 238 en sus párrafos primero y quinto del Código Penal;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+IX. Lenocinio, previsto en los artículos 264 y 267 del Código Penal;
 
 X. Falsificación de documentos, previsto por el artículo 259 del Código Penal;
 
 XI. Abigeato, previsto por los artículos 209 y 212 del Código Penal;
 
-XII. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
-XIII. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
+XII. Pornografía de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo, establecido en el artículo 262 del Código Penal.
 
-XIV. (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XIII. Turismo Sexual con personas menores de dieciocho años de edad o personas que no tienen la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; previsto en el artículo 262 Ter del Código Penal;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XIV. Trata de personas y trata de personas menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; tipificado en los artículos 265 y 268 del Código Penal.
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
+
+XV. Corrupción de personas menores de edad o personas que no tengan la capacidad de comprender el significado del hecho, previsto en el artículo 261 del Código Penal.
 
 ###### ARTÍCULO 5.
 
@@ -320,3 +334,9 @@ TERCERO.- Esta nueva legislación podrá aplicarse a hechos surgidos bajo la vig
 P.O. 3 DE NOVIEMBRE DE 2006.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
