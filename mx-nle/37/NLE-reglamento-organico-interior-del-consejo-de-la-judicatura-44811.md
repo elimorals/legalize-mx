@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2006-10-11"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -1697,9 +1697,15 @@ Para efectos de la carrera judicial, la antigüedad se computará a partir de la
 
 La promoción dentro del sistema de carrera judicial a que se refiere el artículo 125 de la Ley Orgánica, consiste en el ascenso mediante los mecanismos de examen de aptitud y concursos de oposición a las categorías establecidas en el artículo 126 del citado cuerpo normativo orgánico.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### Artículo 113.
 
-El ingreso y promoción a cualquiera de las categorías de la carrera judicial requerirá que el interesado, previamente a la realización de los exámenes de aptitud, en su caso, o bien los que correspondan tratándose de concursos de oposición, presente al Consejo copia certificada de los documentos que acrediten el cumplimiento de los requisitos exigidos por la ley y por el propio Consejo, con el objeto de que éste integre el expediente administrativo del servidor público. Asimismo, deberá presentar copia certificada de los documentos que acrediten los cursos impartidos o tomados y todos aquellos que estén relacionados con alguno de los principios de la carrera judicial.
+El ingreso y promoción a cualquiera de las categorías de la carrera judicial enumeradas en el artículo 126 de la Ley Orgánica del Poder Judicial del Estado, así como, a la diversa categoría contemplada en las planillas de las áreas respectivas y denominada asistente jurídico, requerirá que el interesado, previamente a la realización de los exámenes de aptitud, en su caso, o bien los que correspondan tratándose de concursos de oposición, presenten al Consejo copia certificada de los documentos que acrediten el cumplimiento de los requisitos exigidos por la ley y por el propio Consejo, con el objeto de que éste integre el expediente administrativo del servidor público. Así mismo, deberán presentar copia certificada de los documentos que acrediten los cursos impartidos o tomados y todos aquellos que estén relacionados con alguno de los principios de la carrera judicial.
+
+Las personas de nuevo ingreso al Poder Judicial del Estado de Nuevo León, que pretendan aspirar a las categorías de la carrera judicial señaladas en las fracciones III, IV, V, VI y VII del artículo 126 de la Ley Orgánica del Poder Judicial del Estado: Secretario de Pleno o de Sala, Secretario de Juzgado de Primera Instancia, Secretario de Juzgado Menor, Actuario y Escribiente, así como a las personas que aspiren a la categoría de asistente jurídico, deberán contar con un promedio académico, mínimo de 80 ochenta, el cual, será calculado en base a la suma de las calificaciones aprobadas, entre el número total de materias que aparezcan en la constancia de estudio respectiva, la que deberán allegar los aspirantes en copia certificada reciente. Así mismo, un requisito indispensable a efecto de que se esté en posibilidad de sustentar el examen de aptitud a que se refiere el párrafo precedente a quien aspire a acceder a la categoría de escribiente, será que éste haya cursado cuando menos un año de carrera profesional.
 
 ###### Artículo 114.
 
@@ -2258,3 +2264,9 @@ P.O. 11 DE OCTUBRE DE 2006.
 PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 28-veintiocho de febrero de 2006-dos mil seis, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
 
 SEGUNDO: Las reformas aludidas entrarán en vigor al día siguiente de la última de las publicaciones a que se refiere el primer punto transitorio del presente acuerdo.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 2 dos de mayo del año 2007 dos mil siete, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
+
+SEGUNDO: Las reformas aludidas entrarán en vigor el día 15 quince de mayo del año 2007 dos mil siete.
