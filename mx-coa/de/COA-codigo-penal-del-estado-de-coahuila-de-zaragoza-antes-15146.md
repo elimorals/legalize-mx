@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2006-10-31"
+last_updated: "2007-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1628,6 +1628,14 @@ I. PENA CORTA DE PRISIÓN. Cuando la pena de prisión que se impone es de cuatro
 II. IMPOSIBILIDAD DE CUMPLIR OTRO SUSTITUTIVO. Cuando se aplique otro sustitutivo y el sentenciado acredite su imposibilidad para cumplirlo.
 
 III. IMPOSIBILIDAD DE EJECUTAR OTRO SUSTITUTIVO. Cuando la dependencia encargada de efectuar el sustitutivo, se encuentre en imposibilidad de ejecutarlo.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+IV. EDAD. Cuando el sentenciado cumpla o haya cumplido setenta años de edad al momento de dictarse la sentencia o durante la ejecución de la pena, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2007)</small>
+
+V. CONDICIÓN FÍSICA Y/O ENFERMEDAD. Cuando el sentenciado sufra alguna discapacidad de tipo físico en los términos de la ley de la materia o se encuentre afectado de una enfermedad crónica cuyo tratamiento, atención y cuidados no puedan prestarse de una manera apropiada en los Centros de Readaptación Social.
 
 ###### ARTÍCULO 83.
 
@@ -3845,7 +3853,7 @@ II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
 
 ###### ARTÍCULO 387.
 
-CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPARADA A LA VIOLACION. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
+CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACIÓN O DE LA EQUIPARADA A LA VIOLACIÓN. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
 
 I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
@@ -4528,3 +4536,9 @@ Decreto Numero 67
 P.O. 31 DE OCTUBRE DE 2006.
 
 Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
