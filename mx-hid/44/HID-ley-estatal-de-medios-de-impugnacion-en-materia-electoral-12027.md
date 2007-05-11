@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-12027
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-09"
-last_updated: "2001-05-10"
+last_updated: "2007-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 11 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de mayo de 1998.
 
@@ -1054,3 +1056,13 @@ P.O. 10 DE MAYO DE 2001.
 PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La substanciación de los recursos que estén pendientes al entrar en vigor esta Ley, se sujetarán a las disposiciones de la anterior hasta que se pronuncie la resolución final.
+
+CUARTO.- Se abroga la Ley Estatal de Medios de Impugnación en Materia Electoral publicada en el Periódico Oficial del Estado, el día 09 de mayo del año 1998.
