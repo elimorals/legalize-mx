@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-de-la-ronda-uruguay-de-44809"
 country: "mx"
 rank: "otro"
 publication_date: "2005-01-24"
-last_updated: "2007-01-23"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,27 +19,33 @@ issue_date: "2005-01-21"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DE LA RONDA URUGUAY DE NEGOCIACIONES COMERCIALES MULTILATERALES Y, EL ACUERDO POR EL QUE SE ESTABLECE LA ORGANIZACION MUNDIAL DEL COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CONTINGENTE MINIMO PARA IMPORTAR EN 2007, EXENTA DE ARANCEL, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de enero de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); en los artículos 4o., fracción III, 5o., fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o., fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); y en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
 Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio fue publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de la Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
 
-Que el mecanismo de asignación del contingente arancelario de importación de leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, es un instrumento de la política sectorial para complementar el abasto doméstico;
+Que el Tratado de Libre Comercio de América del Norte aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece disposiciones en materia de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio, razón por la cual es necesario hacer compatible este ordenamiento con la citada ley, y
+Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que la medida a que se refiere el presente instrumento, ha sido aprobada por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
+Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en el artículo décimo transitorio, fracción IV, Disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CONTINGENTE MINIMO PARA IMPORTAR EN 2007, EXENTA DE ARANCEL, LECHE EN POLVO ORIGINARIA DE LOS PAISES MIEMBROS DE LA ORGANIZACION MUNDIAL DEL COMERCIO
+Que el 23 de enero de 2007 se publicaron en el Diario Oficial de la Federación el Acuerdo por el que se da conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio; así como el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, los cuales es necesario modificar para dar continuidad al abasto complementario de este producto a las empresas que obtuvieron asignación directa de cupos de importación de leche en polvo, como empresas sin antecedentes en 2006;
+
+Que en 2006 se establecieron acciones con los integrantes de la cadena productiva a fin de propiciar las condiciones de mercado que permitieran dar cauce a la colocación de la producción nacional de leche fluida, que presentaba problemas para su comercialización, racionalizando las asignaciones de los cupos de importación de leche en polvo en ese año, y
+
+Que la medida a que se refiere la presente modificación es un instrumento de la política sectorial para complementar el abasto doméstico, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
 
 ###### ARTICULO 1.
 
@@ -413,19 +419,51 @@ Medidas de salvaguardia de transición provisionales en circunstancias críticas
 
 ###### ARTICULO PRIMERO.
 
-El contingente arancelario mínimo para importar exenta de arancel en 2007, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, para efecto de lo dispuesto en la parte III, artículo 4 del Acuerdo Sobre la Agricultura del Acta Final de la Ronda Uruguay de Negociaciones Comerciales Multilaterales, que forma parte del Acuerdo de Marrakech, es el que se determina a continuación:
+Se modifican el párrafo cuarto, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo sexto y el penúltimo párrafo del artículo cuarto, así como el párrafo segundo, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo cuarto y el penúltimo párrafo del artículo quinto del Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, para quedar como siguen:
+
+“ARTICULO CUARTO.- …
+
+…
+
+…
+
+Para las empresas que cumplan la condición previa, se tomará como referencia el monto total autorizado en 2005 o, en su caso, de 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
 (VEASE ARCHIVO ANEXO)
 
-1/ En la Lista LXXVII de las concesiones de México en el marco de la OMC, se estableció un contingente arancelario mínimo por 120,000 toneladas; de las cuales 40,000 forman parte del cupo mínimo negociado en el Tratado de Libre Comercio de América del Norte. El Acuerdo correspondiente a dicho cupo, se publica por separado.
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…
 
 ###### ARTICULO SEGUNDO.
 
-Con el objeto de complementar el abasto doméstico de leche en polvo, se aplicará el mecanismo de asignación directa, al contingente arancelario de importación a que se refiere el presente Acuerdo, conforme al cuadro siguiente:
+Se modifican el párrafo cuarto, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo sexto y el penúltimo párrafo del artículo cuarto, así como el párrafo segundo, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo cuarto y el penúltimo párrafo del artículo quinto del Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, para quedar como siguen:
+
+“ARTICULO CUARTO.- …
+
+…
+
+…
+
+Para las empresas que cumplan la condición previa, se tomará como referencia el monto total autorizado en 2005 o, en su caso, de 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
 (VEASE ARCHIVO ANEXO)
 
-1/ Se refiere a la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…
+
+###### ARTICULO QUINTO.
+
+…
+
+Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
+
+(VEASE ARCHIVO ANEXO)
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…”.
 
 ###### ARTICULO TERCERO.
 
@@ -481,25 +519,15 @@ En el segundo periodo establecido en el cuadro del artículo segundo de este ord
 
 ###### ARTICULO QUINTO.
 
-Para la distribución por asignación directa del cupo a las empresas mencionadas en el inciso D) del artículo tercero que no puedan cumplir la condición previa señalada en el artículo cuarto de este Acuerdo, los criterios de asignación aplicables son los que a continuación se indican:
+…
 
-Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo obtenidos por asignación directa.
-
-Este monto se ajustará por:
-
-- La participación del monto disponible para asignación directa del sector privado del cupo OMC, respecto al monto total disponible por asignación directa de los cupos mínimos (OMC y TLCAN) para este tipo de solicitantes y por la distribución por periodo.
-
-La fórmula que se aplicará para este tipo de solicitantes será la siguiente:
+Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
 (VEASE ARCHIVO ANEXO)
 
-*/ Se considerará la asignación directa de 2004, en el caso de los solicitantes que en 2005 no cumplieron la condición previa establecida en la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2005.
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
 
-La asignación en cada periodo se realizará siempre que exista saldo en el cupo.
-
-En ningún caso, la asignación anual por beneficiario podrá exceder el total del consumo de leche en polvo reportado del año previo.
-
-En el segundo periodo establecido en el cuadro del artículo segundo de este ordenamiento, se procederá a realizar una distribución proporcional del mismo, entre las empresas que presenten su solicitud, sólo en caso de existir saldo.
+…”.
 
 ###### ARTICULO SEXTO.
 
@@ -551,7 +579,7 @@ Para llevar a cabo el canje de los certificados de cupo los beneficiarios deber�
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
 ###### ARTICULO PRIMERO.
 
@@ -569,18 +597,4 @@ la Ronda Uruguay.
 
 Azúcar refinada. 2,954
 
-México, D.F., a 19 de enero de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-REQUISITOS PARA LA ASIGNACION DEL CONTINGENTE MINIMO PARA IMPORTAR LECHE EN POLVO EN 2007 PARA EMPRESAS CON ANTECEDENTES DE ASIGNACION EN EL AÑO PREVIO, QUE CUMPLAN CON LA CONDICION PREVIA */
-
-(0402.10.01 Y 0402.21.01)
-
-PAISES MIEMBROS DE LA OMC
-
-Asignación Directa
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 2 de mayo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
