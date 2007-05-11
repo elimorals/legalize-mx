@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-02-23"
+last_updated: "2007-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1055,11 +1055,13 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 123.
 
-Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa: Homicidio por culpa; previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en el artículo 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; lesiones contra menores o incapaces, descrito en el artículo 143-BIS párrafo segundo; secuestro previsto en el artículo 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el artículo 164-BIS fracciones I y II; asalto agravado tipificado en el artículo 173;violación contemplada en el artículo 176, violación equiparada en el artículo 177, violación impropia en el artículo 178, así como las formas agravadas, a que se refieren el artículo 179; Abuso Sexual previsto en el artículo 180 BIS, robo previsto en el artículo 201 BIS, robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I y II; robo de vehículo en las hipótesis contempladas en los artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; extorsión, a que se refiere el artículo 224; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261, párrafo segundo; pornografía infantil tipificado en el artículo 261-Bis, lenocinio descrito en la fracción IV del artículo 266; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279, excepto su encubrimiento; peculado en su modalidad contemplada en el artículo 298; tortura previsto en el artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348, fracción IV y 355.
+Delitos Graves.- Para todos los efectos legales, se califican como delitos graves los previstos en los siguientes artículos del Código Penal, quedando comprendidos los realizados en grado de tentativa.
+
+Homicidio por culpa; previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el Artículo 123, en su forma simple contemplado en el Artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los Artículos 126 en relación con el 147, y sus formas agravadas previstas en los Artículos 127 y 128; infanticidio descrito en el Artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del Artículo 131; Lesiones contra menores o incapaces descrito en el Artículo 143-BIS párrafo segundo; secuestro previsto en los Artículos 164 y 165; secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el Artículo 164 BIS fracciones I y II; asalto agravado tipificado en el Artículo 173; violación contemplada en el Artículo 176, violación equiparada en el Artículo 177, violación impropia en el Artículo 178, así como las formas agravadas, a que se refiere el Artículo 179; Abuso Sexual previsto en el Artículo 180 BIS, robo previsto en el Artículo 201 BIS, robo calificado en las hipótesis previstas por los Artículos 203 y 208 fracciones I, II; robo de vehículo en las hipótesis contempladas en los Artículos 208-BIS y 208-TER fracciones de la I a la V; abigeato descrito en el Artículo 209, pero sólo cuando se trate de ganado de las especies bovina o equina, o de tres o más cabezas de ganado ovino, caprino o porcino; despojo agravado a que se refiere el párrafo cuarto del Artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del Artículo 229; tráfico de menores descrito por el Artículo 238 primero y segundo párrafos; corrupción de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo, tipificado en Artículo 261 párrafo segundo; pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo tipificado en el Artículo 262, Turismo sexual con personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, tipificado en el Artículo 262-TER; Lenocinio de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo previsto en el Artículo 264; Trata de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad de resistirlo, previsto en el Artículo 265; trata de personas previsto en el Artículo 268, terrorismo descrito en el Artículo 279 excepto su encubrimiento; peculado en su modalidad contemplada en el Artículo 299 fracción III; tortura previsto en el Artículo 307-BIS primer párrafo y 307-TER segundo párrafo; evasión de presos, en la forma agravada del Artículo 328 y los delitos electorales previstos en los Artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -3570,3 +3572,9 @@ DECRETO NUMERO 271
 P.O. 23 DE FEBRERO DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
