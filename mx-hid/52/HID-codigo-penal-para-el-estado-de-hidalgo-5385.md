@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2006-07-03"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -525,7 +525,7 @@ Las medidas de seguridad que pueden imponerse con arreglo a este Código a las p
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
-I.- Tratamiento en internamiento o en libertad de inimputables o imputables disminuidos;
+I.- Tratamiento en internamiento o en libertad de inimputables o imputables disminunidos;
 
 II.- Tratamiento de deshabituación o de desintoxicación;
 
@@ -2945,11 +2945,19 @@ Al particular que de manera espontánea dé u ofrezca por sí o por interpósita
 
 El juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el párrafo anterior o, a su juicio, eximirlo de las mismas, cuando aquél denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar, de gratitud o dependencia.
 
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 312.
 
 Al particular que estando obligado legalmente, a la custodia, administración o aplicación de recursos públicos locales, los disponga para sí o para otro o les dé una aplicación distinta a la que se les destinó, se le aplicará una mitad de la punibilidad prevista en el artículo 308 de este Código, conforme al monto de lo dispuesto o aplicado indebidamente.
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 313.
 
@@ -2962,6 +2970,10 @@ Al que presente testigos falsos conociendo esta circunstancia o logre que un tes
 La sanción podrá ser de tres meses a tres años de prisión y multa de 20 a 100 días para el testigo falso que fuere examinado en un proceso, cuando el reo se le impusiere una sanción de más de cinco años de prisión y al testimonio falso se le hubiere reconocido fuerza probatoria.
 
 Además de las penas a que se refiere este artículo, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones de tres meses a dos años.
+
+### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 314.
 
@@ -2985,9 +2997,17 @@ Al que por medio de la violencia física o moral exija a una autoridad la ejecuc
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
+### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 319.
 
 Al que quebrante los sellos impuestos por orden de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de 5 a 25 días multa.
+
+### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 320.
 
@@ -3002,6 +3022,10 @@ Se impondrá de seis meses a tres años de prisión y de 10 a 50 días multa, al
 I.- Sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal; o
 
 II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura a que correspondan aquellos.
+
+## TITULO VIGESIMO. DE LOS DELITOS EN MATERIA ELECTORAL
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 322.
 
@@ -3349,6 +3373,228 @@ Al que a sabiendas comercie o emplee para fines industriales productos forestale
 
 Al que con el propósito de lucro, para sí o para otro, dé un destino distinto al señalado en la resolución de dotación o restitución de tierras ejidales o comunales, sean provisionales o definitivas, o en certificado de derechos agrarios, compre, enajene, arriende, ceda o de cualquier forma grave ilegalmente en todo o en parte los derechos de usufructo o tendencia de dichas tierras, violando disposiciones locales o municipales, se aplicará una pena de dos a ocho años de prisión y multa de 20 a 200 días.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 351.
+
+Para efectos del presente Título, se entiende por:
+
+I. Funcionarios Electorales: Quienes en términos de las legislaciones aplicables, integren los organismos electorales administrativos y jurisdiccionales;
+
+II. Servidor Público: Las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, sea cual fuere la forma de su elección o nombramiento;
+
+III. Funcionario Partidista: Persona que ocupa algún cargo de dirección dentro de un partido político, agrupación o asociación política, así como la persona designada por un partido político para representarlo ante los órganos electorales;
+
+IV. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que produzcan y difundan los partidos políticos, sus candidatos, fórmulas, planillas registradas y simpatizantes;
+
+V. Candidatos: Los ciudadanos registrados formalmente como tales por la autoridad competente;
+
+VI. Documentos Electorales: Es el conjunto de instrumentos que sirven para desarrollar la tarea pública de efectuar elecciones, dentro de las cuales se encuentran las boletas; actas de la jornada electoral, escrutinio y cómputo de cada una de las elecciones; paquetes electorales; las actas circunstanciadas de las sesiones de cómputo de los Consejos Municipales y Distritales y Cómputos de Circunscripción y, en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos electorales; y
+
+VII. Material Electoral: Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 352.
+
+Se impondrá prisión de tres meses a cinco años y multa de treinta a cien días de salario mínimo general vigente en el estado, a quien:
+
+I. Vote a sabiendas que está impedido por la Ley;
+
+II. Vote más de una vez en una misma elección;
+
+III. Se presente a votar con una credencial de la que no sea titular;
+
+IV. Suplante a otro votante en la jornada electoral;
+
+V. Obstaculice o interfiera el desarrollo normal del proceso electoral;
+
+VI. Se presente a una casilla electoral portando armas, independientemente de cualquier otro delito que resulte;
+
+VII. Haga proselitismo o presione a los electores dentro de los tres días previos o el día de la jornada electoral, para que voten a favor o en contra de un determinado candidato, partido político o coalición, o para que se abstengan de emitir su sufragio;
+
+VIII. Induzca a uno o más electores a abstenerse de votar;
+
+IX. Obligue a votar por determinado candidato, partido o coalición a las personas que se encuentren bajo su autoridad o dependencia económica;
+
+X. Ejerza presión sobre los funcionarios de la mesa directiva de casilla, representantes de partido o de los electores, impidiendo el desarrollo normal de la jornada electoral;
+
+XI. Impida que una casilla electoral se instale oportunamente u obstruya su funcionamiento o clausura conforme a la Ley;
+
+XII. Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad;
+
+XIII. Acepte nombramiento para el desempeño de alguna función electoral a sabiendas de que no reúne los requisitos legales;
+
+XIV. No teniendo el carácter de funcionario de casilla se ostente como tal o usurpe sus funciones, independientemente de cualquier otro delito que resulte;
+
+XV. Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
+
+XVI. Recoja sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos;
+
+XVII.- Viole de cualquier manera el secreto del voto;
+
+XVIII.- Obtenga o solicite declaración firmada del elector acerca de la intención o sentido del voto;
+
+XIX. Impida el desempeño de las funciones de los integrantes de los órganos electorales;
+
+XX. Introduzca, sustraiga, altere, destruya, se apodere o haga uso indebido de documentos o material electoral;
+
+XXI. Indebidamente destruya o inutilice propaganda electoral;
+
+XXII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+XXIII.- Obstaculice o se posesione de oficinas electorales, impida la entrada o salida de los funcionarios electorales;
+
+XXIV.- Propale noticias falsas en torno al desarrollo del proceso electoral o respecto de los resultados oficiales del cómputo de la elección;
+
+XXV.- Expida una o más facturas a un partido político o candidato, alterando el costo real de los servicios prestados;
+
+XXVI.- Impida u obstaculice la realización de actos de campaña;
+
+XXVII.- Dentro de los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
+
+XXVIII.- Propale o divulgue en la casilla electoral la intención de su voto, pretendiendo inducir el sufragio de los demás electores;
+
+XXIX.- El día de la jornada impida el derecho del ciudadano de votar; y
+
+XXX.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas, para la promoción del voto o actividades propias de los partidos políticos.
+
+Si en los casos anteriores se empleara violencia o fuesen cometidos por dos o más particulares o sean cometidos por servidores públicos, funcionarios electorales o partidistas, se aumentará hasta una mitad más la punibilidad aplicable prevista en este artículo.
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 353.
+
+Se impondrá prisión de seis meses a tres años y multa de cien a quinientos días de salario mínimo general vigente en el Estado, a los ministros de culto religioso que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan expresamente al electorado a la abstención, a votar en favor o en contra de un candidato, partido político o coalición.
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 354.
+
+Se impondrá prisión de tres meses a cinco años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, a quien se ostente como candidato de un partido político o coalición durante el proceso electoral, sin que hubiere sido registrado por el mismo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 355.
+
+Se impondrá prisión de uno a seis años y multa de cincuenta a doscientos días de salario mínimo general vigente en el Estado, así como destitución del cargo o empleo, al funcionario electoral que:
+
+I. Se abstenga de cumplir deliberadamente y sin causa justificada con sus obligaciones electorales, impidiendo el desarrollo normal del proceso electoral;
+
+II. Obstruya el desarrollo normal de la votación;
+
+III. Se rehúse a aceptar el voto de quien tenga derecho a emitirlo;
+
+IV. Se niegue a reconocer, sin causa justificada, la personalidad de los representantes de los partidos políticos, coaliciones u observadores electorales, debidamente acreditados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
+
+V. Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
+
+VI. Teniendo en custodia el material o documentación electoral, se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
+
+VII. Por sus acciones u omisiones imposibilite el cumplimiento de las etapas del proceso electoral;
+
+VIII. Altere los resultados electorales, sustituya, destruya o haga uso indebido de las boletas o documentos electorales;
+
+IX. Durante el ejercicio de sus funciones ejerza presión sobre los electores o los induzca a votar por un candidato o partido determinado durante el proceso electoral;
+
+X. Permita o tolere, que un ciudadano emita su voto a sabiendas que no cumple con los requisitos legales, o que se introduzcan ilícitamente una o más boletas electorales en las urnas;
+
+XI. Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; retenga u omita entregar a la autoridad electoral competente los paquetes electorales en los términos previstos por la Ley;
+
+XII. Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+XIII. Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
+
+XIV. Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
+
+XV. Solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
+
+XVI. Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
+
+XVII.- Siendo funcionario de casilla, se abstenga de levantar debida y oportunamente las actas correspondientes u omita la entrega de las copias de ellas a los representantes de los partidos políticos;
+
+XVIII.- Se niegue a hacer constar o informar oportunamente las violaciones en el desarrollo del proceso electoral;
+
+XIX. Al presidente de una casilla que dolosamente se abstenga de concurrir al lugar y a la hora señalados para la apertura e instalación de la misma, o se retire en forma definitiva de ella antes de la clausura, sin causa justificada prevista en la Ley;
+
+XX. Al integrante de los Consejos Distritales o Municipales electorales que no se presente, o se separe mientras no se concluyan los trabajos de la sesión de cómputo, entrega de la constancia de mayoría y declaración de validez de la elección respectiva;
+
+XXI. Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella; y
+
+XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los ilícitos previstos en este Título.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 356.
+
+Se impondrá prisión de uno a siete años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, y destitución del cargo, empleo o comisión que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años, al servidor público que:
+
+I. Se abstenga de dar cumplimiento a lo establecido en el artículo 205 de la Ley Electoral del Estado, cuando sea requerido por las autoridades electorales competentes;
+
+II. Altere o inutilice un documento electoral, o a sabiendas lo presente o lo haga valer alterado;
+
+III. Teniendo fe pública, certifique hechos falsos relativos a la función electoral, o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral;
+
+IV. Abusando de sus funciones, directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, obtenga de los electores sufragios a favor de una candidatura determinada o los induzca a la abstención;
+
+V. Prive de la libertad a los candidatos o representantes de un partido político, o personas que realicen actos de propaganda, pretextando faltas que no hayan cometido;
+
+VI. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, candidato o coalición;
+
+VII. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como: vehículos, inmuebles, equipos y servicios, al apoyo de un partido político candidato o coalición sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que los presten al servicio de un partido político, candidato o coalición;
+
+VIII. Impida, sin motivo e infundadamente, la realización de cualquier acto de campaña que se esté realizando pacíficamente;
+
+IX. Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones, declaración de ausencia y presunción de muerte, omita hacerlo oportunamente;
+
+X. Permita que se fije propaganda política en las oficinas públicas de su encargo; y
+
+XI. Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 357.
+
+Se impondrá prisión de uno a siete años y multa de cien a doscientos días de salario mínimo general vigente en el Estado, al funcionario partidista que:
+
+I. Ejerza presión sobre los electores o los induzca a votar por un candidato, partido o coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II. Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
+
+III. Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+IV. Propale noticias falsas en torno a la jornada electoral respecto de sus resultados;
+
+V. Impida con violencia o presión la instalación, apertura o cierre de una casilla;
+
+VI. Mediante violencia obligue a los funcionarios electorales a la apertura o cierre de los tiempos previstos en la ley de la materia;
+
+VII. Impida o dificulte por sí o por interpósita persona la distribución, entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales;
+
+VIII. Incite a la población a realizar los actos señalados en la fracción anterior;
+
+IX. Solicite o retenga credenciales de elector sin estar facultado legalmente para ello;
+
+X. Dificulte por sí mismo o por interpósita persona el funcionamiento de las oficinas electorales, asimismo, impedir la entrada o salida a las mismas a los funcionarios electorales, así como a otras personas;
+
+XI. Fije o haga propaganda electoral en lugares o días prohibidos por la Ley Electoral del Estado;
+
+XII. Prepare, organice, participe o induzca a realizar actos violentos que alteren el desarrollo del proceso electoral; y
+
+XIII. Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas para la promoción del voto o actividades propias de los partidos políticos.
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 358.
+
+Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 días de salario mínimo vigente en el estado al que oculte, distorsione o niegue la información que le sea requerida por la autoridad electoral que corresponda.
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+
+###### ARTICULO 359.
+
+Las sanciones previstas en los delitos del presente Título, se aplicarán, sin perjuicio de las demás penas que pudieran corresponder, al responsable por el concurso de delitos.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -3436,3 +3682,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicaci�
 P.O. 3 DE JULIO DE 2006.
 
 UNICO.- Una vez aprobado, el Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
