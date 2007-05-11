@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-05-08"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,45 +18,51 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de mayo de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, y 14 de la Ley de Comercio Exterior, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); y en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según Decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo Decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio fue publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
 
-Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares y jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
+Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
 
-Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación, el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, el cual determina, entre otras cosas, las cuotas arancelarias aplicables a la importación de edulcorantes;
+Que el Tratado de Libre Comercio de América del Norte aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
-Que existe una disputa entre México y los Estados Unidos de América relativa al incumplimiento de este último con sus obligaciones establecidas en el TLCAN, consistentes en permitir el acceso del azúcar mexicano a su mercado;
+Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que por tal motivo, México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN, mismo que no ha sido resuelto, no obstante que nuestro país ha satisfecho todos los requisitos previstos en el capítulo XX de dicho tratado;
+Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en el artículo décimo transitorio, fracción IV, Disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio;
 
-Que en este contexto, el 27 de julio de 2006, los gobiernos de México y los Estados Unidos de América suscribieron un acuerdo en el que se establecen ciertas condiciones para el comercio bilateral de edulcorantes, reconociendo que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr ese objetivo;
+Que el 23 de enero de 2007 se publicaron en el Diario Oficial de la Federación el Acuerdo por el que se da conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio; así como el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, los cuales es necesario modificar para dar continuidad al abasto complementario de este producto a las empresas que obtuvieron asignación directa de cupos de importación de leche en polvo, como empresas sin antecedentes en 2006;
 
-Que se estima que para 2007 la oferta nacional de azúcar puede llegar a ser insuficiente, por lo que es necesario complementarla con importaciones que requieren de un acceso rápido, a efecto de que las industrias que la utilizan en sus procesos productivos no resulten afectadas;
+Que en 2006 se establecieron acciones con los integrantes de la cadena productiva a fin de propiciar las condiciones de mercado que permitieran dar cauce a la colocación de la producción nacional de leche fluida, que presentaba problemas para su comercialización, racionalizando las asignaciones de los cupos de importación de leche en polvo en ese año, y
 
-Que la disminución del arancel de importación a los azúcares originarios de los Estados Unidos de América aseguraría un acceso rápido y simplificado a la complementación de la oferta de este edulcorante, estableciendo de facto un límite al incremento de los precios nacionales del azúcar;
+Que la medida a que se refiere la presente modificación es un instrumento de la política sectorial para complementar el abasto doméstico, he tenido a bien expedir el siguiente:
 
-Que la Secretaría de Economía considera necesario ajustar el arancel aplicable a las importaciones fuera de cupo de azúcar originario de los Estados Unidos de América, al mismo nivel que este último le aplica a las importaciones de azúcar mexicano en las mismas condiciones;
-
-Que la modificación a los aranceles a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, y
-
-Que esta medida contribuirá a consolidar la transición al libre comercio de edulcorantes en el mercado de América del Norte, a partir del 1 de enero de 2008, de acuerdo a lo establecido en el TLCAN, he tenido a bien expedir el siguiente
-
-DECRETO
+ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
 
 ###### ARTICULO PRIMERO.
 
-El cupo mínimo para importar azúcar en 2006, con el arancel-cupo establecido en el artículo Unico del Decreto por el que se establece el arancel-cupo para la importación de azúcar, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2004, es el que se determina a continuación:
+Se modifican el párrafo cuarto, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo sexto y el penúltimo párrafo del artículo cuarto, así como el párrafo segundo, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo cuarto y el penúltimo párrafo del artículo quinto del Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, para quedar como siguen:
+
+“ARTICULO CUARTO.- …
+
+…
+
+…
+
+Para las empresas que cumplan la condición previa, se tomará como referencia el monto total autorizado en 2005 o, en su caso, de 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
 (VEASE ARCHIVO ANEXO)
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…
 
 ###### ARTÍCULO ÚNICO.
 
@@ -67,16 +73,6 @@ Se modifican los artículos 10, primer párrafo, y 15, primer párrafo, del Decr
 . . .
 
 . . .
-
-###### ARTÍCULO 15.
-
-La importación de las mercancías originarias de América del Norte comprendidas en las fracciones arancelarias que se señalan en este artículo se sujetará al arancel preferencial indicado a continuación para cada una de ellas siempre que el importador adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con el requisito señalado se aplicará el arancel establecido en el artículo 10 del presente ordenamiento:
-
-. . .
-
-. . .
-
-. . .”.
 
 ### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
 
@@ -226,9 +222,13 @@ Una vez asignado el monto para importar dentro del cupo, la Secretaría de Econo
 
 …
 
-…
+Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
-La vigencia de los certificados de cupo será, para la primera ronda de licitaciones, del 15 de marzo al 31 de mayo de 2007 y para la segunda ronda, del 1 de julio al 30 de septiembre de 2007.”
+(VEASE ARCHIVO ANEXO)
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…”.
 
 ###### ARTICULO SEXTO.
 
@@ -250,9 +250,33 @@ En caso de que el solicitante se encuentre en el supuesto señalado en el párra
 
 ###### ARTICULO SEGUNDO.
 
-El procedimiento de asignación del cupo mínimo de importación referido en el presente instrumento será de asignación directa. Podrán solicitar asignación de dicho cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos que hayan efectuado importaciones de azúcar a través de una o varias de las fracciones arancelarias indicadas en el artículo anterior durante el año 2005. La cantidad de cupo a asignar a cada solicitante será la menor entre la cantidad solicitada y la que resulte de la aplicación de la fórmula siguiente:
+Se modifican el párrafo cuarto, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo sexto y el penúltimo párrafo del artículo cuarto, así como el párrafo segundo, la nota al pie de la tabla de descripción de los factores que se tomarán en cuenta para la distribución de las asignaciones de cupo de importación del párrafo cuarto y el penúltimo párrafo del artículo quinto del Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de enero de 2007, para quedar como siguen:
+
+“ARTICULO CUARTO.- …
+
+…
+
+…
+
+Para las empresas que cumplan la condición previa, se tomará como referencia el monto total autorizado en 2005 o, en su caso, de 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo, obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
 
 (VEASE ARCHIVO ANEXO)
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…
+
+###### ARTICULO QUINTO.
+
+…
+
+Se tomará como referencia el monto total autorizado en 2005 o, en su caso, en 2004, de los cupos mínimos de leche en polvo (OMC y TLCAN) y de la cuota adicional de leche en polvo obtenidos por asignación directa. En el caso de los solicitantes sin antecedentes de asignación directa en 2004 o 2005 se tomará como referencia 2006.
+
+(VEASE ARCHIVO ANEXO)
+
+En ningún caso, la asignación por beneficiario podrá exceder el total del consumo de leche en polvo y leche fluida (convertida a sólidos totales) reportado del año previo.
+
+…”.
 
 ###### ARTICULO OCTAVO.
 
@@ -480,6 +504,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de mayo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 2 de mayo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
