@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2004-12-03"
+last_updated: "2007-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSITO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -55,11 +55,15 @@ Por lo anterior, este Poder Legislativo, expide la siguiente:
 
 La presente ley es de orden público e interés general y tiene por objeto establecer las bases para la ordenación y regulación del tránsito de vehículos, de sus ocupantes y de los peatones que hagan uso de las vías públicas del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 2.
 
-La aplicación de esta ley corresponde a las autoridades estatales y municipales en los ámbitos de su competencia, de conformidad con lo establecido en las normas jurídicas vigentes, así como en los convenios que se suscriban en materia de tránsito y vialidad.
+La aplicación de esta Ley corresponde a las autoridades estatales y municipales en los ámbitos de su competencia, de conformidad con lo establecido en las normas jurídicas vigentes, así como en los convenios que se suscriban en materia de tránsito y vialidad.
 
-Para los efectos de la presente ley se entenderá por Dirección a la Dirección de Tránsito y Transporte en el Estado.
+Para los efectos de la presente Ley se entenderá por Dirección a la Dirección de Policía Estatal en el Estado.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 3.
 
@@ -67,29 +71,35 @@ Son autoridades en materia de tránsito y vialidad en el Estado de Querétaro:
 
 I.- El Titular del Poder Ejecutivo del Estado;
 
-II.- El Secretario de Gobierno;
+II.- El Secretario de Seguridad Ciudadana;
 
-III.- El Director de Tránsito y Transporte del Estado;
+III.- El Director de Policía Estatal;
 
 IV.- Los Ayuntamientos, en el ámbito de su competencia;
 
 V.- Los Presidentes Municipales, en el ámbito de su competencia;
 
-VI.- Los Titulares de los diversos cuerpos de tránsito municipal en el Estado, en el ámbito de su competencia, y
+VI.- Los Titulares de los diversos cuerpos de tránsito municipal en el Estado, en el ámbito de su competencia; y
 
 VII.- Los demás que con ese carácter determinen otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 4.
 
-El Secretario de Gobierno, a través de la Dirección de Tránsito y Transporte, en el ámbito de sus atribuciones, dictará y aplicará las medidas que sean pertinentes con el objeto de organizar el tránsito de vehículos por las vías de jurisdicción estatal y coadyuvará en materia de seguridad pública con las distintas corporaciones policiales y autoridades federativas y municipales, de acuerdo a las necesidades que reclame el interés público.
+El Secretario de Seguridad Ciudadana, a través de la Dirección de Policía Estatal, en el ámbito de sus atribuciones, dictará y aplicará las medidas que sean pertinentes con el objeto de organizar el tránsito de vehículos por las vías de jurisdicción estatal y coadyuvará, en materia de seguridad pública, con las distintas corporaciones policiales y autoridades federativas y municipales, de acuerdo a las necesidades que reclame el interés público.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 5.
 
-La Dirección de Tránsito y Transporte, coordinadamente con los Municipios en el ámbito de su competencia, dictará las medidas necesarias para la implantación de un programa permanente de educación vial que coadyuve a preservar la vida, la seguridad y el patrimonio de las personas.
+La Dirección de Policía Estatal, coordinadamente con los Municipios en el ámbito de su competencia, dictará las medidas necesarias para la implantación de un programa permanente de educación vial que coadyuve a preservar la vida, la seguridad y el patrimonio de las personas.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
-La Dirección de Tránsito y Transporte y los Municipios, para la prestación del servicio público de tránsito y vialidad, se auxiliarán de las personas que tengan conocimientos técnicos y científicos sobre dicha materia.
+La Dirección de Policía Estatal y los Municipios, para la prestación del servicio público de tránsito y vialidad, se auxiliarán de las personas que tengan conocimientos técnicos y científicos sobre dicha materia.
 
 ## TÍTULO SEGUNDO. De las autoridades en materia de tránsito y vialidad
 
@@ -113,23 +123,29 @@ VI.- Proveer a la exacta observancia de las disposiciones de la presente ley y;
 
 VII.- Las que le confieran la presente ley y los demás ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponden al Secretario de Gobierno las siguientes facultades y obligaciones:
+Corresponden a la Secretaría de Seguridad Ciudadana, las siguientes facultades y obligaciones:
 
-I.- Proponer al Titular del Poder Ejecutivo del Estado, programas, acuerdos y demás disposiciones en materia de tránsito y vialidad estatal, así como participar en la ejecución de los mismos;
+I.- Proponer, al Titular del Poder Ejecutivo del Estado, programas, acuerdos y demás disposiciones en materia de tránsito y vialidad estatal, así como participar en la ejecución de los mismos;
 
-II.- Nombrar y remover al Director de Tránsito y Transporte;
+II.- Nombrar y remover al Director de Policía Estatal;
 
-III.- Determinar las acciones tendientes a mejorar la vigilancia y el tránsito en las vías de comunicación de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos y;
+III.- Determinar las acciones tendientes a mejorar la vigilancia y el tránsito en las vías de comunicación de jurisdicción estatal, en los términos que señalen las leyes y reglamentos respectivos; y
 
 IV.- Las demás que le encomiende el Titular del Poder Ejecutivo del Estado y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 9.
 
-Corresponden al Director de Tránsito y Transporte las siguientes facultades y obligaciones:
+Corresponden al Director de Policía Estatal, las siguientes facultades y obligaciones:
 
-I.- Formular el Programa Estatal en materia de Tránsito y Vialidad, que contendrá el diagnóstico, objetivos, estrategias, metas y subprogramas específicos para cumplir con el objeto de esta Ley, mismo que será objeto de adecuaciones en la medida en que así se requiera, sometiéndolo al acuerdo del Secretario de Gobierno a más tardar durante los primeros quince días del mes de octubre;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+I.- Formular el Programa Estatal en materia de Tránsito y Vialidad, que contendrá el diagnóstico, objetivos, estrategias, metas y subprogramas específicos para cumplir con el objeto de esta Ley, mismo que será objeto de adecuaciones en la medida en que así se requiera, sometiéndolo al acuerdo del Secretario de Seguridad Ciudadana, a más tardar durante los primeros quince días del mes de octubre;
 
 II.- Organizar y operar el cuerpo de tránsito estatal;
 
@@ -159,7 +175,9 @@ XIV.- Imponer en el ámbito estatal las medidas disciplinarias al personal de la
 
 XV.- Vigilar la observancia de la presente ley, reglamentos y acuerdos de la materia y;
 
-XVI.- Las demás que le encomienden el Titular del Ejecutivo del Estado y el Secretario de Gobierno la presente ley, su reglamento, y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2007)</small>
+
+XVI.- Las demás que le encomienden el Titular del Ejecutivo del Estado y el Secretario de Seguridad Ciudadana, la presente Ley, su reglamento y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -267,15 +285,19 @@ Las leyes fiscales respectivas, determinarán las características, vigencia y c
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-El Director de Tránsito y Transporte considerará de acuerdo a la disponibilidad presupuestaria, el número de plazas que se requieran, así como los recursos materiales, técnicos y financieros para dar respuesta a los programas en materia de tránsito y vialidad.
+El Director de Policía Estatal considerará, de acuerdo a la disponibilidad presupuestaria, el número de plazas que se requieran, así como los recursos materiales, técnicos y financieros para dar respuesta a los programas en materia de tránsito y vialidad.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 21.
 
 Se consideran como agentes en materia de tránsito en el Estado, los pertenecientes a:
 
-I.- La Dirección de Tránsito y Transporte del Estado; y
+I.- La Dirección de Policía Estatal; y
 
 II.- Los cuerpos de tránsito municipales.
 
@@ -395,23 +417,31 @@ XXXVIII.- Cumplir con los programas de capacitación, actualización y conservac
 
 Los cuerpos de tránsito, se organizarán internamente con una estructura tal, que permita la eficiente realización de sus funciones, estructura que se organizará jerárquicamente y donde la asignación de grados se hará en base a la acreditación de requisitos y niveles de capacitación que correspondan, acorde a la presente ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 25.
 
-Para eficientar la vialidad, el territorio estatal se distribuirá estratégicamente en las regiones que la Dirección de Tránsito y Transporte del Estado estime convenientes.
+Para eficientar la vialidad, el territorio estatal se distribuirá estratégicamente en las regiones que la Dirección de Policía Estatal estime convenientes.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 26.
 
-La Dirección de Tránsito y Transporte vigilará la seguridad en los caminos de jurisdicción estatal, coadyuvando a solicitud de los Municipios, en los caminos de jurisdicción municipal.
+La Dirección de Policía Estatal vigilará la seguridad en los caminos de jurisdicción estatal, coadyuvando a solicitud de los municipios, en los caminos de jurisdicción municipal.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 27.
 
-En cada una de las regiones estarán adscritos los elementos de tránsito necesarios para la oportuna prestación del servicio, quienes dependerán operativamente de la estructura que determine la Dirección de Tránsito y Transporte del Estado.
+En cada una de las regiones estarán adscritos los elementos de tránsito necesarios para la oportuna prestación del servicio, quienes dependerán operativamente de la estructura que determine la Dirección de Policía Estatal.
 
 ### CAPÍTULO III. Del ingreso, evaluación y promoción del personal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 28.
 
-Son requisitos para ser titular de la Dirección de Tránsito y Transporte:
+Son requisitos para ser titular de la Dirección de Policía Estatal:
 
 I.- Acreditar una residencia mínima de tres años en el Estado;
 
@@ -495,9 +525,11 @@ IV.- Rendimiento y eficiencia en el servicio y;
 
 V.- Preparación académica.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 35.
 
-Para los fines del artículo anterior se abrirá una hoja de servicios, misma que será controlada, según el ámbito de competencia, por las áreas administrativas de la Dirección de Tránsito y Transporte, y de las áreas de tránsito en los Municipios.
+Para los fines del artículo anterior se abrirá una hoja de servicios, misma que será controlada, según el ámbito de competencia, por las áreas administrativas de la Dirección de Policía Estatal o las áreas de tránsito en los Municipios.
 
 ###### ARTÍCULO 36.
 
@@ -535,27 +567,33 @@ XV.- La modificación de rango y los cambios de adscripción o actividad y;
 
 XVI.- La fecha y motivo del cese o baja administrativa de la persona en la corporación de tránsito.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 37.
 
-Los elementos de la Dirección de Tránsito y Transporte, prestarán sus servicios en el lugar que señale su superior jerárquico dentro del territorio estatal conforme a las necesidades del servicio, pudiendo ser removidos de adscripción o comisión cuando a juicio del Director de Tránsito y Transporte sea necesario.
+Los elementos de la Dirección de Policía Estatal prestarán sus servicios en el lugar que señale su superior jerárquico dentro del territorio estatal conforme a las necesidades del servicio, pudiendo ser removidos de adscripción o comisión cuando a juicio del Director de Policía Estatal sea necesario.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 38.
 
-En el área operativa y administrativa de la Dirección de Tránsito y Transporte, y en la que corresponda en el municipio, integrarán un expediente personal, mismo que contendrá la documentación desde su preparación en el Colegio de Policía, incluyendo su alta, currículum académico, evaluación, notas meritorias y demeritorias, arrestos, ascensos y documentación en general. El expediente de referencia se mantendrá actualizado permanentemente.
+En el área operativa y administrativa de la Dirección de Policía Estatal, y en la que corresponda en el municipio, integrarán un expediente personal, mismo que contendrá la documentación desde su preparación en el Colegio de Policía, incluyendo su alta, currículum académico, evaluación, notas meritorias y demeritorias, arrestos, ascensos y documentación en general. El expediente de referencia se mantendrá actualizado permanentemente.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 39.
 
-Para estimular el desarrollo profesional de los elementos de la Dirección de Tránsito y Transporte se establecerá la Comisión de Ascensos, misma que estará integrada por:
+Para estimular el desarrollo profesional de los elementos de la Dirección de Policía Estatal se establecerá la Comisión de Ascensos, misma que estará integrada por:
 
-I.- Un representante de la Secretaría de Gobierno, quien fungirá como Presidente;
+I.- Un representante de la Seguridad Ciudadana, quien fungirá como Presidente;
 
 II.- Un representante de la Contraloría del Estado;
 
 III.- Un representante de la Oficialía Mayor;
 
-IV.- El Director de Tránsito y Transporte del Estado y;
+IV.- El Director de Policía Estatal del Estado; y
 
-V.- El Jefe del Departamento al cual se encuentre adscrito el agente que pretenda el ascenso, que fungirá como Secretario;
+V.- El Jefe del Departamento al cual se encuentre adscrito el agente que pretenda el ascenso, que fungirá como Secretario.
 
 Para los fines de esta disposición en el ámbito municipal se estará a lo dispuesto en sus respectivos reglamentos.
 
@@ -623,17 +661,21 @@ Las personas físicas o morales propietarias de vehículos destinados a transita
 
 El Registro al que se refiere el párrafo anterior se organizará y administrará de acuerdo como lo establezca el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 51.
 
-Todo vehículo que no esté debidamente registrado en los términos del artículo anterior, no podrá hacerse circular. La ausencia o falta oportuna del registro serán sancionadas en los términos de las disposiciones aplicables, sin perjuicio de que la Dirección de Tránsito y Transporte impida la circulación de dicho vehículo.
+Todo vehículo que no esté debidamente registrado en los términos del artículo anterior, no podrá hacerse circular. La ausencia o falta oportuna del registro serán sancionadas en los términos de las disposiciones aplicables, sin perjuicio de que la Dirección de Policía Estatal impida la circulación de dicho vehículo.
 
 ###### ARTÍCULO 52.
 
 El comprobante del registro de un vehículo se integrará por la tarjeta y placas de circulación, el engomado, así como los demás signos de identificación que por razón del servicio y condiciones de prestación del mismo se requieran.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 53.
 
-El otorgamiento de placas queda sujeto a los convenios que sobre la materia celebre el Titular del Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Gobierno.
+El otorgamiento de placas queda sujeto a los convenios que sobre la materia celebre el Titular del Ejecutivo del Estado con otras autoridades o a las disposiciones que sobre el particular dicte el Secretario de Seguridad Ciudadana.
 
 ### CAPÍTULO III. De los conductores
 
@@ -649,9 +691,11 @@ III.- Ser auxiliado por los agentes de tránsito en los casos de accidente, fall
 
 IV.- Los demás que señale el reglamento de tránsito.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia de manejo respectiva, que expedirá la Dirección de Tránsito y Transporte, previa la satisfacción de los requisitos de esta ley, su reglamento y demás disposiciones aplicables, debiendo acreditar los exámenes que la propia Dirección determine.
+En el territorio del Estado ninguna persona podrá manejar vehículo automotor sin la licencia de manejo respectiva, que expedirá la Dirección de Policía Estatal, previa la satisfacción de los requisitos de esta ley, su reglamento y demás disposiciones aplicables, debiendo acreditar los exámenes que la propia Dirección determine.
 
 La licencia de manejo similar que para tal efecto expida la autoridad correspondiente de cualquier otra entidad de la República Mexicana, será reconocida como válida para los efectos del párrafo anterior, exceptuando la requerida para el servicio público, la cual deberá ser expedida por la autoridad competente en el Estado.
 
@@ -693,9 +737,11 @@ Los vehículos automotores que utilicen equipo de carburación con Gas LP, en mo
 
 En el caso de que con motivo de dicha verificación y supervisión se determine que existen fallas, él vehículo no podrá circular hasta que su propietario compruebe que ha efectuado las reparaciones necesarias que satisfagan lo dispuesto por las normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 63.
 
-Corresponde a la Dirección de Tránsito y Transporte llevar a cabo la inspección y vigilancia así como la aplicación de sanciones en los términos de esta ley y su reglamento respecto de los vehículos con carburación de Gas LP, y a sus propietarios, según el caso.
+Corresponde a la Dirección de Policía Estatal llevar a cabo la inspección y vigilancia, así como la aplicación de sanciones, en los términos de esta Ley y su reglamento, respecto de los vehículos con carburación de Gas LP, y a sus propietarios, según el caso.
 
 ###### ARTÍCULO 64.
 
@@ -711,13 +757,17 @@ Los vehículos a que se refiere el artículo anterior, deberán contar con una l
 
 Esta ley otorga el derecho de preferencia a la circulación del peatón, exaltando el valor de la vida humana en su aplicación, cuyo derecho deberá hacerse efectivo en los programas y reglamentos correspondientes.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 67.
 
-La Dirección de Tránsito y Transporte y los municipios en el ámbito de su competencia, propiciarán, mediante la infraestructura y el señalamiento vial necesarios, el tránsito seguro de los peatones y la posibilidad de conectarse entre vialidades, ya sea mediante semáforos, puentes, pasos a nivel o a desnivel u otros dispositivos y protecciones necesarias. Asimismo garantizarán que dichas vialidades e infraestructura no sean obstaculizadas o invadidas.
+La Dirección de Policía Estatal y los municipios, en el ámbito de su competencia, propiciarán, mediante la infraestructura y el señalamiento vial necesarios, el tránsito seguro de los peatones y la posibilidad de conectarse entre vialidades, ya sea mediante semáforos, puentes, pasos a nivel o a desnivel u otros dispositivos y protecciones necesarias. Asimismo, garantizarán que dichas vialidades e infraestructura no sean obstaculizadas o invadidas.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 68.
 
-La Dirección de Tránsito y Transporte y los municipios en el ámbito de su competencia, promoverán las acciones de mantenimiento preventivo y correctivo necesarias, para que las vialidades peatonales existentes se mantengan en buen estado y con superficie uniforme con el fin de proporcionar a los peatones el tránsito seguro por estas vías, las cuales contarán con la infraestructura adecuada para el tránsito de personas con capacidades diferentes y adultos mayores.
+La Dirección de Policía Estatal y los municipios, en el ámbito de su competencia, promoverán las acciones de mantenimiento preventivo y correctivo necesarias, para que las vialidades peatonales existentes se mantengan en buen estado y con superficie uniforme con el fin de proporcionar a los peatones el tránsito seguro por estas vías, las cuales contarán con la infraestructura adecuada para el tránsito de personas con capacidades diferentes y adultos mayores.
 
 ## TÍTULO CUARTO (SIC). De las infracciones y sanciones
 
@@ -1005,45 +1055,57 @@ Las multas y derechos deberán pagarse en los lugares establecidos para tal efec
 
 Los titulares de las áreas de tránsito municipales deberán enviar a la Dirección, los primeros cinco días hábiles de cada mes, una relación de las infracciones que sus cuerpos de tránsito hayan aplicado en el mes inmediato anterior, en su ámbito de competencia.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 79.
 
-El Director de Tránsito y Transporte y la autoridad municipal, en el ámbito de su competencia, calificarán la infracción que resulte de conformidad con la gravedad de la falta y de acuerdo con el tabulador de infracciones previsto para tal efecto en el reglamento de la presente ley, remitiéndola a la autoridad administrativa en los casos que ameriten la aplicación de una multa y poniendo a disposición de la autoridad judicial que corresponda, al infractor que pudiera haber incurrido en un hecho delictuoso que merezca pena privativa de libertad.
+El Director de Policía Estatal y la autoridad municipal, en el ámbito de su competencia, calificarán la infracción que resulte de conformidad con la gravedad de la falta y de acuerdo con el tabulador de infracciones previsto para tal efecto en el reglamento de la presente Ley, remitiéndola a la autoridad administrativa, en los casos que ameriten la aplicación de una multa y poniendo a disposición de la autoridad judicial que corresponda, al infractor que pudiera haber incurrido en un hecho delictuoso que merezca pena privativa de libertad.
 
-ARTÌCULO 80. A fin de asegurar el interés fiscal del Estado, para el efecto del cobro de las sanciones pecuniarias por infracciones a la presente ley y su reglamento, queda facultada la Dirección de Tránsito y Transporte, en su orden, para decretar en garantía y bajo su custodia la licencia de conducir o tarjeta de circulación o placa de circulación o el vehículo, para tal efecto el infractor señalará cual de dichos documentos o bienes, queda sujeto a la garantía, y en caso de ser omiso en señalar, le corresponderá a la autoridad determinar.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
-La omisión en el señalamiento del documento o bien en garantías por parte del infractor, no le permitirá tener acceso a los beneficios de exención del pago en el porcentaje del monto de la multa o recargos que contemple la presente ley y reglamentos.
+###### ARTÍCULO 80.
+
+A fin de asegurar el interés fiscal del Estado, para el efecto del cobro de las sanciones pecuniarias por infracciones a la presente Ley y su reglamento, queda facultada la Dirección de Policía Estatal, en su orden, para decretar en garantía y bajo su custodia la licencia de conducir o tarjeta de circulación o placa de circulación o el vehículo; para tal efecto el infractor señalará cual de dichos documentos o bienes queda sujeto a la garantía, y en caso de ser omiso en señalar, le corresponderá a la autoridad determinar.
+
+La omisión en el señalamiento del documento o bien en garantías por parte del infractor, no le permitirá tener acceso a los beneficios de exención del pago en el porcentaje del monto de la multa o recargos que contemple la presente Ley y reglamentos.
 
 La autoridad tiene en todo momento la obligación de motivar y fundamentar el acto mediante el cual se constituye la garantía para el cumplimiento de la sanción pecuniaria por infracción.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 81.
 
-En caso de que con motivo del tránsito de vehículos se ocasionen daños a terceros, la Dirección de Tránsito y Transporte y la autoridad municipal competente, remitirán inmediatamente las unidades a la pensión oficial y a sus conductores los presentará ante la autoridad ministerial competente.
+En caso de que con motivo del tránsito de vehículos se ocasionen daños a terceros, la Dirección de Policía Estatal y la autoridad municipal competente remitirán inmediatamente las unidades a la pensión oficial y a sus conductores los presentará ante la autoridad ministerial competente.
 
 ###### ARTÍCULO 82.
 
 En caso de accidentes, en los que no exista la circunstancia de que los conductores se encuentren en estado de ebriedad o bajo el influjo de drogas o estupefacientes y cuando no hayan resultado personas fallecidas o lesionadas, los participantes en el hecho de tránsito podrán llegar a un acuerdo sobre los daños causados a los vehículos, sin necesidad de que sean puestos a disposición de la autoridad competente. Para tal efecto, los agentes adscritos al área de accidentes de tránsito, formularán una acta convenio firmada por las partes y el agente que tomó conocimiento del hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 83.
 
-En caso de reincidencia del infractor, traerá aparejada la agravación de la sanción hasta en una mitad más y podrá derivar, según lo establezca el reglamento correspondiente, en suspensión temporal o cancelación según el caso de la licencia; así también, perderá los beneficios que otorgan los artículos 74 bis y 76 de este ordenamiento.
+En caso de reincidencia del infractor, traerá aparejada la agravación de la sanción hasta en una mitad más y podrá derivar, según lo establezca el reglamento correspondiente, en suspensión temporal o cancelación, según el caso de la licencia; así también, perderá los beneficios que otorgan los artículos 74 bis y 76 de este ordenamiento.
 
 Se entiende que hay reincidencia cuando una persona haya sido sancionada por la misma falta dentro del año próximo anterior a la infracción que se califica.
 
-La Dirección de Tránsito y Transporte es la responsable de coordinar con los municipios del Estado, un programa permanente de actualización del Padrón de Reincidencia, de conformidad con el reglamento respectivo.
+La Dirección de Policía Estatal es la responsable de coordinar con los municipios del Estado un programa permanente de actualización del Padrón de Reincidencia, de conformidad con el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 84.
 
-La aplicación de las sanciones corresponde a la Dirección de Tránsito y Transporte, así como a la autoridad municipal, en el ámbito de sus respectivas competencias, sin perjuicio de que el probable responsable sea puesto a disposición de las autoridades correspondientes, cuando exista la comisión de un delito, en cuyo caso reunirán los elementos de información suficientes que ilustren la averiguación previa, rindiendo parte informativo ilustrado sobre los hechos.
+La aplicación de las sanciones corresponde a la Dirección de Policía Estatal, así como a la autoridad municipal, en el ámbito de sus respectivas competencias, sin perjuicio de que el probable responsable sea puesto a disposición de las autoridades correspondientes, cuando exista la comisión de un delito, en cuyo caso reunirán los elementos de información suficientes que ilustren la averiguación previa, rindiendo parte informativo ilustrado sobre los hechos.
 
 ###### ARTÍCULO 85.
 
 Las responsabilidades en que incurran los servidores públicos, durante el ejercicio de sus funciones, serán sancionadas de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin perjuicio de las civiles o penales en las que pudieran incurrir.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 86.
 
-Periódicamente se formulará por la Dirección de Tránsito y Transporte un cuadro estadístico de accidentes, infracciones y sanciones y lo remitirá al Secretario de Gobierno para su conocimiento y efectos legales correspondientes.
+Periódicamente se formulará por la Dirección de Policía Estatal un cuadro estadístico de accidentes, infracciones y sanciones y lo remitirá al Secretario de Seguridad Ciudadana para su conocimiento y efectos legales correspondientes.
 
 ###### ARTÍCULO 87.
 
@@ -1053,151 +1115,65 @@ Si el infractor fuere jornalero, obrero, campesino, ejidatario o no asalariado, 
 
 La autoridad competente, al calificar el monto a pagar por una infracción, podrá reducirla considerando las causas que la motivaron y la situación económica del infractor.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
+
 ## TÍTULO QUINTO. De los medios de impugnación
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO ÚNICO. Del recurso de reconsideración
 
 ###### ARTÍCULO 89.
 
-La interposición del recurso de reconsideración previsto en este Título, será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado de Querétaro.
-
-Para efecto de los procedimientos que se establecen en la presente ley, se estará en lo especial a lo señalado en su contenido y en lo no expresamente previsto, a lo que establezca la legislación en materia de procedimiento administrativo.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 90.
 
-Contra las resoluciones administrativas dictadas por la Dirección de Tránsito y Transporte o la autoridad municipal correspondiente, los particulares podrán interponer, en los cinco días hábiles siguientes a la fecha en que se haya levantado el acta de infracción, el recurso de reconsideración contra la misma. Dicho recurso se presentará ante la autoridad emisora del acto impugnado, la cual deberá resolver lo conducente en forma expedita a más tardar dentro de los tres días hábiles siguientes a la interposición del mismo.
-
-Para los casos en que la autoridad omita resolver en el plazo establecido anteriormente, se entenderá que el recurso fue resuelto favorablemente a los intereses del recurrente en todo su alcance. En este caso, la multa que hubiere correspondido cubrir en su rango mínimo, será cubierta por el servidor público responsable de firmar la resolución correspondiente.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 91.
 
-El recurso de reconsideración a que se refiere el artículo anterior deberá presentarse por escrito.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 92.
 
-El escrito de interposición del recurso deberá contener los siguientes requisitos:
-
-I.- Nombre del recurrente y domicilio para oír notificaciones;
-
-II.- Fecha de conocimiento del acto impugnado;
-
-III.- El acto que se impugna;
-
-IV.- Los agravios que le cause al recurrente el acto impugnado;
-
-V.- Los hechos controvertidos de que se trate y;
-
-VI.- Las pruebas que acrediten su dicho.
-
-Cuando no se expresen los agravios, no se señale la resolución o el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas, la autoridad requerirá al promovente para que dentro del plazo de cinco días hábiles cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 93.
 
-El promovente deberá anexar al escrito en que interponga el recurso, los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales; aquel en el que conste el acto impugnado, la constancia de notificación o las pruebas documentales ofrecidas.
-
-Cuando no se acompañe al recurso los documentos referidos en el párrafo anterior, la autoridad requerirá al promovente para que los presente dentro del término de cinco días hábiles. Si el promovente no los presentare dentro del término señalado y se trata de los tres primeros documentos referidos en dicho párrafo, se tendrá por no interpuesto el recurso; si se trata de las pruebas, las mismas se tendrán por no ofrecidas.
-
-Las pruebas documentales a que se refiere el párrafo anterior, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al recurrente la presentación del original o copia certificada.
-
-La autoridad a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
-
-Cuando las pruebas documentales no obren en poder del recurrente, o si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando esto sea legalmente posible.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 94.
 
-Es improcedente el recurso de reconsideración cuando se haga valer contra actos administrativos:
-
-I.- Que no afecten el interés jurídico del recurrente;
-
-II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias del Tribunal de lo Contencioso Administrativo en el Estado de Querétaro;
-
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo en el Estado de Querétaro;
-
-IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto;
-
-V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-El interesado deberá intentar la misma vía elegida si pretende impugnar una resolución administrativa que sea antecedente o consecuente de otra, a excepción de resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
-
-Si la resolución dictada en el recurso de reconsideración se combate ante el Tribunal de lo Contencioso Administrativo en el Estado de Querétaro, la impugnación del acto conexo deberá hacerse valer también ante el citado Tribunal.
-
-Se considerará que existe conexidad, cuando se impugnen actos que sean antecedentes o consecuencia de la resolución que modifique o revoque concesiones, permisos y autorizaciones previstas en esta Ley.
-
-VI.- Si son revocados los actos por la autoridad.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 95.
 
-Procede el sobreseimiento en los casos siguientes:
-
-I.- Cuando el promovente se desista expresamente de su recurso;
-
-II.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior de esta Ley;
-
-III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada;
-
-IV.- Cuando hayan cesado los efectos del acto o resolución impugnada y;
-
-V.- Cuando después de interpuesto el recurso sobrevenga la muerte del recurrente.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 96.
 
-Cuando se alegue que una resolución administrativa, impugnable a través del recurso de reconsideración previsto en esta Ley, no fue notificado o que lo fue ilegalmente, se estará a las reglas siguientes:
-
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso de reconsideración que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso ante la Dirección de Tránsito y Transporte o la autoridad municipal que corresponda, quien le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer del acto y la notificación por estrados.
-
-El particular tendrá un plazo de quince días hábiles a partir del siguiente al que la autoridad se los haya dado a conocer, para ampliar el recurso, impugnando el acto y su notificación o sólo la notificación.
-
-III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo y;
-
-IV.- Si se resuelve que no hubo notificación o que fue ilegal se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 97.
 
-En el recurso de reconsideración se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades administrativas, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 98.
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Las demás pruebas quedarán a la prudente apreciación de la autoridad.
-
-Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 99.
 
-La Secretaría de Gobierno deberá dictar resolución y notificarla en un término que no excederá de treinta días hábiles contados a partir de la fecha de interposición del recurso. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
-
-El recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la confirmación ficta del acto impugnado.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 100.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
-
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
-
-No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ###### ARTÍCULO 101.
 
-La resolución que ponga fin al recurso podrá:
-
-I.- Desecharlo por improcedente, tenerlo por no presentado, interpuesto o sobreseerlo, en su caso;
-
-II.- Confirmar el acto impugnado;
-
-III.- Mandar reponer el procedimiento administrativo o que se emita una nueva resolución y;
-
-IV.- Dejar sin efectos el acto impugnado.
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de treinta días hábiles, contados a partir de la fecha en que dicha resolución se encuentre firme.
+(DEROGADO, P.O. 11 DE MAYO DE 2007)
 
 ## TRANSITORIOS
 
@@ -1276,3 +1252,9 @@ Rúbrica
 P.O. 3 DE DICIEMBRE DE 2004.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P. O. 11 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
