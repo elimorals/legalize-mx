@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-04-27"
+last_updated: "2007-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2533,15 +2533,19 @@ Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
-### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADON DE LOS HECHOS
+### CAPITULO I
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ## TITULO SEGUNDO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
-### CAPITULO II. LENOCINIO
+### CAPITULO II
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+PORNOGRAFIA Y TURISMO SEXUAL DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 243.
 
@@ -2559,9 +2563,11 @@ Profanación de cadáveres.- La misma pena prevista en el artículo anterior o, 
 
 ## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPITULO III. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO III
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 245.
 
@@ -2583,7 +2589,9 @@ II.- Al que sin un fin lícito o sin el permiso correspondiente, hiciere acopio 
 
 En todos los casos incluidos en este artículo, además de las sanciones señaladas, se decomisarán las armas.
 
-### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
+### CAPITULO IV. LENOCINIO Y TRATA DE PERSONAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 247.
 
@@ -2597,13 +2605,13 @@ Agravante por pandillerismo.- Cuando se ejecuten uno o más delitos por pandilla
 
 Si en la comisión de uno o más delitos en los términos del párrafo anterior intervienen menores como integrantes de la pandilla, esta circunstancia no relevará de responsabilidad a los mayores de edad y se aplicará el aumento de la sanción a que este artículo se refiere.
 
-### CAPITULO I. REBELION
+### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
 
 ###### Artículo 249.
 
 Tipo y punibilidad.- Al que provoque públicamente a cometer un delito o haga apología de éste o de algún vicio, se le aplicará prisión de uno a tres años y hasta cincuenta días multa, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-### CAPITULO II. SEDICION
+### CAPITULO I. REBELION
 
 ###### Artículo 250.
 
@@ -2613,13 +2621,13 @@ El Juez podrá ordenar, además, la suspensión hasta por un año o la disoluci�
 
 Lo dispuesto en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de Leyes especiales y de que en los términos del artículo 247 de este Código se sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actores antes mencionados.
 
-### CAPITULO III. MOTIN
+### CAPITULO II. SEDICION
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. MOTIN
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y LOS MEDIOS TRANSPORTE
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
 ###### Artículo 251.
 
@@ -2641,7 +2649,7 @@ Ataques a través de los medios de transporte.- Al que dolosamente ponga en movi
 
 Pena adicional para el delito cometido por medio de vehículo, motor o maquinaria.- Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las penas por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años.
 
-### CAPITULO VI. CONSPIRACION
+### CAPITULO V. SABOTAJE
 
 ###### Artículo 255.
 
@@ -2655,7 +2663,7 @@ Cuando se cause daño a las personas o a las cosas o si dentro de este plazo, co
 
 Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, se impondrá, la primera vez, de uno a cuatro años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de tres años contado a partir de que se cumpla la suspensión, la pena será de dos a seis años de prisión, multa de cien a quinientas veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
-### CAPITULO VII. ULTRAJES CONTRA INSTITUCIONES PUBLICAS
+### CAPITULO VI. CONSPIRACION
 
 ###### Artículo 257.
 
@@ -2665,7 +2673,7 @@ Exclusión de pena, por razón de la patria potestad, tutela o custodia.- No se 
 
 ## TITULO TERCERO. DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
+### CAPITULO VII. ULTRAJES CONTRA INSTITUCIONES PUBLICAS
 
 ###### Artículo 258.
 
@@ -2679,7 +2687,7 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 
 Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-### CAPITULO IX. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
+### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
 
 ###### Artículo 259.
 
@@ -2691,11 +2699,11 @@ Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y 
 
 Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
+### CAPITULO IX. DISPOSICIONES COMUNES PARA LOS CAPITULOS DE ESTE TITULO
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
-
-### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 ###### Artículo 260.
 
@@ -2703,71 +2711,137 @@ Tipo y punibilidad.- Al que sin serlo, se atribuya el carácter de profesionista
 
 Las mismas penas se aplicarán al que sin tener título o autorización para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
-## TITULO CUARTO. DELITOS CONTRA LA MORAL PUBLICA Y LAS BUENAS COSTUMBRES
+## TITULO CUARTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO III. ABANDONO DE FUNCIONES
+### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 ###### Artículo 261.
 
-Tipo y punibilidad.- Al que procure, facilite, induzca, reclute o propicie la corrupción de una persona menor de dieciocho años de edad o de quien no tenga la capacidad para comprender el significado del hecho, o que estuviere incapacitado por cualquier otra causa, induciéndolo a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
+Tipo y punibilidad.- Al que obligue, procure, facilite, o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
 
-Cuando la conducta encaminada a corromper consista en la realización de actos sexuales reales o simulados o a inducirlo a la práctica de la prostitución, el uso o consumo de sustancias tóxicas, psicotrópicas, señaladas en la Ley General de Salud, forma parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de trescientos a setecientos días multa.
+Cuando la conducta encaminada a corromper consista en la realización de actos sexuales reales o simulados o a inducirlo a la práctica de la prostitución, el uso o consumo de sustancias toxicas, psicotrópicas, señaladas en la Ley General de Salud, formar parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de trescientos a setecientos días multa.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
 
-Artículo 261 BIS.- Pornografía Infantil.- Al que procure, facilite, induzca, propicie u obligue a menores de edad o incapaces a realizar actos de desnudo corporal con fines lascivos o sexuales, o de exhibirlos de cualquier forma, filmarlos, videograbarlos o fotografiarlos, con o sin ánimo de obtener un lucro, se le aplicará de cinco a doce años de prisión y de mil a dos mil días multa.
+En caso de duda, el juez solicitará dictámenes de peritos para evaluar la conducta en cuestión.
 
-Se impondrá la misma pena al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografías, con o sin ánimo de lucro, en cuyo contenido aparezcan menores de edad o incapaces realizando actos desnudos con fines lascivos o sexuales.
+Cuando no sea posible determinar con precisión la edad de la persona o personas ofendidas, el juez solicitará los dictámenes periciales que correspondan.
 
-Se impondrá prisión de seis a catorce años y de dos mil a ocho mil días multa, a quien por si o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
-En todos los casos previstos en este artículo se decomisarán los objetos, instrumentos y productos de los delitos.
+Artículo 261 BIS.- Tipo y punibilidad.- Al que comercie, distribuya, exponga, haga circular u oferte, a personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días multa.
 
-Artículo 261 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+No se entenderá como material pornográfico o nocivo, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
-Artículo 261 QUARTER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+Artículo 261 TER.- Tipo y punibilidad.- Al que emplee a una persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho, o quien no tiene la capacidad para resistirlo, en lugares en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional, se le impondrá prisión de uno a tres años y hasta doscientos días multa, y además, la suspensión o clausura del establecimiento en caso de reincidencia.
+
+A los padres, tutores o curadores que acepten que las personas menores de dieciocho años de edad, o personas que no tienen capacidad para comprender el significado del hecho o de quienes no tienen capacidad para resistirlo, sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá la pena de prisión prevista en el párrafo anterior aumentada hasta en una mitad y se les privará o suspenderá hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
+
+Para los efectos de este precepto, se considerará que es empleado a la persona menor de dieciocho años de edad, que preste sus servicios por un salario, por cualquier prestación o gratuitamente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2007)</small>
+
+Artículo 261 QUARTER.- Agravación de la Pena.- Las penas a que se refieren los artículos 261 y 261 BIS, se aumentarán hasta una mitad, cuando:
+
+I.- El sujeto activo tenga parentesco por consanguinidad, afinidad o civil, tenga la custodia o tutela del sujeto pasivo,
+
+II.- El sujeto activo habite en el mismo domicilio de la persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho o quien no tiene capacidad para resistirlo, aunque no exista parentesco alguno;
+
+III.- Se realice en centros educativos, de asistencia social, de cuidado infantil, de recreo, hospitales o centros deportivos o en sus inmediaciones;
+
+IV.- Se empleare violencia física o moral en la comisión del delito,
+
+V.- El agente fuere ministro de un culto religioso,
+
+VI.- El agente se valiese de la función pública o de una situación de subordinación de la victima o desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona.
+
+En el supuesto previsto en la fracción I de este artículo, además se les privará de todo derecho a los bienes de la víctima y del derecho a alimentos que le correspondiera por su relación con la víctima, así como del ejercicio de la patria potestad de manera definitiva.
+
+En el supuesto previsto en la fracción VI de este artículo al sujeto activo, además se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPITULO III. ABANDONO DE FUNCIONES
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
-### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
-
 ###### Artículo 262.
 
-Tipo y punibilidad.- Al que emplee a una persona menor de dieciocho años de edad en lugares que por su naturaleza sean nocivos a su formación moral, se le impondrá prisión de uno a tres años y hasta doscientos días multa, y además, la suspensión o clausura del establecimiento en caso de reincidencia.
+Pornografía de personas menores de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo. A quien procure, facilite, induzca, propicie, obligue o permita a una persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho o de quien que no tiene la capacidad para resistirlo, a realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados, con el objeto de filmarlos, grabarlos, audio grabarlos, video grabarlos, describirlos, fotografiarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de computo, medios electrónicos o de cualquier otra naturaleza, se le aplicarán de siete a doce años de prisión y de mil a dos mil días multa.
 
-A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá la pena de prisión prevista en el párrafo anterior aumentada hasta en una mitad más y se le privará o suspenderá hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
+Se impondrá la misma pena a quien por cualquier medio elabore, reproduzca, compre, venda, arriende, exponga, ofrezca, almacene, importe, exporte, publicite, transmita, fije, grabe, video grabe, audio grabe, fotografíe, filme, imprima, distribuya anuncios, grabaciones, impresos, videos, películas o fotografías, en cuyo contenido aparezca una persona menor de dieciocho años de edad o que no tiene la capacidad para comprender el significado del hecho o de quien que no tiene capacidad para resistirlo, realizando actos de exhibicionismo corporal, o lascivos o sexuales, reales o simulados.
 
-Para los efectos de este precepto, se considerará que es empleado el menor de dieciocho años que preste sus servicios por un salario, por cualquier prestación o gratuitamente.
+La misma pena se impondrá a quien por sí o a través de terceros, dirija, patrocine, administre, financie o supervise cualquiera de las conductas previstas anteriormente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+En todos los casos previstos en este artículo se decomisarán los objetos, instrumentos y productos de los delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2007)</small>
+
+Artículo 262 BIS.- Quien almacene, compre, arriende, el material a que se refieren el artículo anterior, sin fines de comercialización o distribución se le impondrán de uno a cinco años de prisión y de cien a quinientos días multa. Asimismo, estará sujeto a tratamiento psiquiátrico especializado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2007)</small>
+
+Artículo 262 TER.- Turismo sexual con personas menores de dieciocho años de edad o de quienes no tienen la capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo: A quien promueva, publicite, invite, facilite o gestione, por cualquier medio, a una persona a que viaje dentro o fuera del territorio del Estado con la finalidad de que realice cualquier tipo de acto sexual real o simulado con una persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho, o quien no tiene capacidad para resistirlo; se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil días multa, así como el decomiso de los bienes producto de las conductas antes descritas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2007)</small>
+
+Artículo 262 QUARTER.- Se impondrán de doce a dieciséis años de prisión y de dos mil a tres mil días multa, así como tratamiento psiquiátrico especializado:
+
+I.- A quien financie o administre cualquiera de las actividades descritas en el turismo sexual;
+
+II.- A quien realice cualquier tipo de actos sexuales reales o simulados con persona menor de dieciocho años de edad o que no tiene la capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo, en virtud del turismo sexual.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 263.
 
-Agravación de la Pena.- Las penas privativas en los artículos anteriores se duplicarán, cuando el delincuente sea ascendiente, padrastro o madrastra del menor, además se le privará de todo derecho a los bienes del ofendido y del ejercicio de la patria potestad de todos sus descendientes, hasta por cinco años; o cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones.
+Agravación de la pena.- Las penas previstas en el presente capítulo se aumentarán hasta en una mitad, cuando:
 
-Si se emplease violencia en la comisión de los delitos previstos en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más; y se le distribuirá del empleo, cargo o comisión pública y se inhabilitará para ocupar o ejercer otro similar, según sea el caso, o se le suspenderá en el ejercicio de la profesión.
+I.- El sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil, tenga la custodia o tutela del sujeto pasivo;
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+II.- El sujeto activo habite en el mismo domicilio de la persona menor de dieciocho años de edad o que no tiene la capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo, aunque no exista parentesco alguno;
 
-### CAPITULO VI. COHECHO
+III.- Se cometa en centros educativos, de asistencia social, de cuidado infantil, de recreo, hospitales o centros deportivos;
+
+IV.- Se emplee violencia física o moral en la comisión de los delitos previstos en este Capítulo;
+
+V.- El agente fuere ministro de un culto religioso;
+
+VI.- Se valga de la función pública o de una situación de subordinación de la víctima o desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que éstos le proporcionan.
+
+En el supuesto previsto en la fracción I de este artículo, además se les privará de todo derecho a los bienes de la víctima y del derecho a alimentos que le correspondiera por su relación con la víctima, así como del ejercicio de la patria potestad de manera definitiva.
+
+En el supuesto previsto en la fracción VI de este artículo al sujeto activo, además se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+
+### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
 
 ###### Artículo 264.
 
-Inhabilitación.- Los delincuentes de que se trata en este capítulo serán además inhabilitados para ser tutores o curadores.
+Lenocinio de personas menores de dieciocho años de edad o de quienes no tienen la capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo: Cometa (sic) el delito de lenocinio de personas menores de dieciocho años de edad o quien no tiene la capacidad de comprender el significado del hecho o de quien no tiene capacidad para resistirlo:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+I.- Quien explote el cuerpo de las personas antes mencionadas, por medio del comercio carnal y obtenga de él un beneficio cualquiera;
+
+II.- A quien induzca, solicite o reclute a una de las personas antes mencionadas para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se dedique a la prostitución; y
+
+III.- Quien dirija, regentee, patrocine, administre, supervise o financie directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución de personas menores de dieciocho años de edad o quienes no tienen la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, en cualquier forma u obtenga cualquier beneficio de sus productos.
+
+El sujeto activo de este delito se le impondrá la pena de prisión de ocho a quince años y de mil a dos mil quinientos días multa, así como clausura definitiva de los establecimientos descritos en la fracción III.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 265.
 
-Punibilidad.- El lenocinio se sancionará con prisión de uno a diez años y de cien a quinientos días multa.
+Trata de personas menores de dieciocho años de edad o de quienes no tienen la capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo: Comete el delito de trata de persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho, o quien no tiene capacidad para resistirlo, quien traslade, acoja, ofrezca, promueva, consiga, facilite, entregue o reciba para sí o para un tercero, a una persona, para someterla a explotación sexual, trabajos o servicios forzados, esclavitud o prácticas análogas a la misma, o para la extracción de cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
 
-Cuando el sujeto pasivo del delito sea menor de edad, incapaz y/o inimputable se sancionará con, prisión de siete a doce años y de trescientos a setecientos días multa.
+A quien cometa este delito se le impondrá prisión de ocho a quince años de prisión y de mil a dos mil días multa, así como el decomiso de todos los bienes producto de las conductas antes descritas.
 
 Artículo 265 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
@@ -2775,55 +2849,65 @@ Artículo 265 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 Artículo 265 QUARTER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 266.
 
-Tipo.- Comete el delito de Lenocinio:
+Agravación de la pena.- Las penas previstas por el presente Capítulo se aumentarán en una mitad a la que corresponda por el delito cometido, cuando:
 
-I.- Toda persona que habitual o accidentalmente explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+I.- El sujeto activo tenga parentesco por consanguinidad, afinidad o civil, tenga la custodia o tutela,
 
-II.- El que induzca o solicite a una persona para que con otra comercie sexual mente con su cuerpo que le facilite, los medios para que se entregue a la prostitución;
+II.- El sujeto activo habite en el mismo domicilio con la víctima aunque no existiese parentesco alguno,
 
-III.- El que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución y obtenga cualquier beneficio con sus productos; y
+III.- Se cometa en centros educativos, de recreo, deportivos, asistencia social, cuidado infantil, hospitales;
 
-IV.- EI que promueva, publicite invite, facilite o propicie por cualquier medio para que una persona o personas tengan relaciones o actos sexuales con menores de edad, incapaces y/o inimputables.
+IV.- Cuando el sujeto activo emplee violencia física o moral en la comisión de los delitos previstos en este capítulo,
+
+V.- Cuando el sujeto activo fuere ministro de algún culto religioso;
+
+VI.- Cuando el sujeto activo se valga de la función pública que desempeñe o de una situación de subordinación sobre el sujeto pasivo, o desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona,
+
+En el supuesto previsto en la fracción I de este artículo, además se les privará de todo derecho a los bienes de la víctima y del derecho a alimentos que le correspondiera por su relación con la víctima, así como del ejercicio de la patria potestad de manera definitiva.
+
+En el supuesto previsto en la fracción VI de este artículo al sujeto activo, además se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta.
 
 Artículo 266 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 Artículo 266 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2007)</small>
 
-### CAPITULO VII. PECULADO
+### CAPITULO VI. COHECHO
 
 ###### Artículo 267.
 
-Agravación de la Pena.- Cuando el delito se cometa en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente o de éstos, a aquél, según sea el caso, la pena se agravará en una tercera parte más a la que corresponda al delito cometido.
+Lenocinio. El lenocinio se sancionará con prisión de dos a diez años y de cincuenta a quinientos días multa,
 
-Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función 'pública qUe desempeñe o ejerza una profesión, oficio o cargo y aproveche los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más; y se le destituirá del empleo, cargo o comisión pública y se le inhabilitará para ocupar o ejercer otro similar, según sea el caso, o se le suspenderá en el ejercicio de la profesión.
+Comete el delito de lenocinio:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+I.- Quien explote el cuerpo de otra persona por medio del comercio carnal y obtenga de él un beneficio cualquiera;
+
+II.- A quien induzca, solicite o reclute a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se dedique a la prostitución; y
+
+III.- Quien dirija, patrocine, regentee, administre, supervise o financie directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución en cualquier forma u obtenga cualquier beneficio de sus productos. Asimismo, se procederá a la clausura definitiva de los establecimientos descritos en esta fracción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 268.
 
-Tipo y punibilidad.- Se aplicará prisión de uno a siete años y de veinte a cien días multa:
+Trata de personas. Comete el delito de trata de personas quien traslade, acoja, ofrezca, promueva, consiga, facilite, entregue o reciba para sí o para un tercero, a una persona, para someterla a explotación sexual, trabajos o servicios forzados, esclavitud o prácticas análogas a la misma, o para la extracción de cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
 
-I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos y al que los exponga, distribuya o haga circular;
+Al sujeto activo de este delito se le impondrá una pena de prisión de cuatro a nueve años y de cuatrocientos a mil días multa, así como el decomiso de todos los bienes producto de las conductas antes descritas.
 
-II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro exhibiciones obscenas; y
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
-III.- Al que de un modo escandaloso invite a otro al comercio carnal.
+Artículo 268 BIS.- Inhabilitación. Los sujetos activos de los delitos a los que se refiere este Título quedaran inhabilitados para ser tutores o curadores.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)</small>
-
-Artículo 268 BIS.- Agravación de la pena.- Si la ejecución de los hechos a que se refiere el artículo anterior se realizar en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando el delito se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente el de éstos a aquél, según sea el caso, se le aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días.
-
-Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechamiento los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
+Los delitos contemplados en este Titulo sólo se perseguirán en su comisión dolosa.
 
 ## TITULO QUINTO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
-### CAPITULO VIII. CONCUSION
+### CAPITULO VII. PECULADO
 
 ###### Artículo 269.
 
@@ -2849,7 +2933,7 @@ Responsabilidad por substitución de medicamentos.- A los responsables, encargad
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
-### CAPITULO IX. INFIDELIDAD EN LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
+### CAPITULO VIII. CONCUSION
 
 ###### Artículo 273.
 
@@ -2879,7 +2963,7 @@ Acumulación.- Cuando durante una rebelión se cometan los delitos de homicidio,
 
 Excusa absolutoria.- No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros, si no hubiesen cometido alguno de los delitos mencionados en el artículo anterior.
 
-### CAPITULO X. NEGOCIACIONES ILICITAS
+### CAPITULO IX. INFIDELIDAD EN LA CUSTODIA DE DOCUMENTOS Y VIOLACION DE SECRETOS
 
 ###### Artículo 277.
 
@@ -2887,7 +2971,7 @@ Tipo y punibilidad.- Se impondrá de seis meses a cuatro años de prisión y has
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otras para cometer el delito de sedición, se les aplicará la pena de dos a cinco años de prisión y hasta doscientos días multa.
 
-### CAPITULO XI. INTIMIDACION
+### CAPITULO X. NEGOCIACIONES ILICITAS
 
 ###### Artículo 278.
 
@@ -2895,9 +2979,7 @@ Tipo y punibilidad.- Se impondrá de tres meses a dos años de prisión y hasta 
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín, se les aplicará la sanción de uno a tres años de prisión y hasta cien días multa.
 
-### CAPITULO XII. TRAFICO DE INFLUENCIA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+### CAPITULO XI. INTIMIDACION
 
 ###### Artículo 279.
 
@@ -2909,9 +2991,9 @@ Tipo de punibilidad.- Se impondrá prisión de dos a treinta años y hasta quini
 
 BIS.- Subtipo y Punibilidad.- Se impondrá pena de uno a tres años de prisión y hasta ciento cincuenta días multa, a quien por cualquier forma, ya sea escrita, oral, electrónica, o medio de comunicación, anuncie a un servidor público o particular a sabiendas de su falsedad, la existencia de explosivos, sustancias tóxicas, biológicas, incendiarias o de cualquier otro medio capaz de causar daños en instalaciones públicas o privadas, que produzcan alarma, temor o terror a las personas que se encuentren en su interior, perturben la paz pública o suspendan un servicio.
 
-### CAPITULO XIII. PREVENCION Y SANCION DE LA TORTURA
+### CAPITULO XII. TRAFICO DE INFLUENCIA
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 280.
 
@@ -2919,15 +3001,17 @@ Tipo y punibilidad.- Se impondrá de dos a seis años de prisión y hasta doscie
 
 Se aplicará sanción de tres meses a dos años de prisión y hasta cincuenta días multa al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
+### CAPITULO XIII. PREVENCION Y SANCION DE LA TORTURA
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 281.
 
 Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta cien días multa a quienes resuelvan, de concierto, cometer uno o varios de los delitos del presente título y acuerden los medios de llevar a cabo su determinación.
 
-### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
+### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 307
 
@@ -2947,13 +3031,13 @@ Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalent
 
 Tipo y punibilidad.- Los ultrajes hechos al Congreso del Estado, a un Tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se castigará con prisión de seis meses a dos años y hasta cien días multa.
 
-### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
+### CAPITULO I. PROMOCION DE CONDUCTAS ILICITAS, COHECHO Y DISTRACCION DE RECURSOS PUBLICOS
 
 ###### Artículo 283.
 
 Tipo y punibilidad.- Al que ultraje las insignias del Estado o del Municipio o de cualquiera de sus instituciones se le aplicará de seis meses a dos años de prisión y hasta cien días multa.
 
-### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
 
 ###### Artículo 284.
 
@@ -2981,7 +3065,7 @@ Se impondrá la pena establecida en el párrafo anterior, cuando el autor sea o 
 
 ## TITULO SEGUNDO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
-### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 288.
 
@@ -2995,7 +3079,7 @@ Sanciones adicionales.- Los servidores públicos que cometan alguno de los delit
 
 Artículo 289 BIS.- Cuando los delitos previstos por los artículos 293, 306 y 307 BIS, de abuso de autoridad, intimidación y tortura, contenidos en este Título, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas se aumentarán en una tercera parte.
 
-### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 290.
 
@@ -3009,15 +3093,13 @@ III.- Al nombrado por tiempo limitado que continúe ejerciendo sus funciones des
 
 IV.- Al servidor público que suponga tener alguna otra comisión, empleo o cargo del que realmente tuviere.
 
-### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
+### CAPITULO V. USURPACION DE FUNCIONES PUBLICAS
 
 ###### Artículo 291.
 
 Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
 
-### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+### CAPITULO VI. USO INDEBIDO DE CONDECORACIONES
 
 ###### Artículo 292.
 
@@ -3071,7 +3153,7 @@ XIV.- El Servidor Público que teniendo la obligación legal de enterar a las in
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
-### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
+### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -3085,9 +3167,9 @@ Tipo.- Cometen el delito de coalición: los servidores públicos que se coaligue
 
 Punibilidad.- A los que cometan el delito de coalición se les impondrá de uno a cuatro años de prisión y hasta cien días de multa.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 296.
 
@@ -3105,9 +3187,9 @@ Al servidor público responsable de cohecho se le destituirá e inhabilitará pa
 
 En ningún caso se devolverá al responsable del delito de cohecho, el dinero o dádiva entregadas, las que se aplicarán en beneficio del Estado.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 298.
 
@@ -3127,9 +3209,9 @@ III.- Cuando el monto de lo distraído exceda de dos mil veces el salario, se le
 
 Al servidor público responsable de peculado, se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se haya aplicado.
 
-### CAPITULO III. EVASION DE PRESOS
+### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 307
 
@@ -3171,7 +3253,7 @@ Tipo.- Comete el delito de concusión el servidor público que con el carácter 
 
 Punibilidad.- Al servidor público que cometa el delito de concusión se le aplicará de seis meses a dos años de prisión.
 
-### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO III. EVASION DE PRESOS
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -3187,9 +3269,9 @@ Sub-tipo.- Al servidor público que indebidamente dé a conocer documento o noti
 
 Utilización indebida de descubrimiento científico, etc.- Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que deba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -3199,7 +3281,9 @@ I.- En el desempeño de su empleo, cargo o comisión, otorgue por sí o por inte
 
 II.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior.
 
-### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 306.
 
@@ -3213,7 +3297,7 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación se le impondrán de dos a seis años de prisión y de cincuenta a trescientos días multa.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 307.
 
@@ -3227,13 +3311,11 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2007)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
 ### CAPITULO UNICO
 
@@ -4186,3 +4268,9 @@ DECRETO No. 321
 P.O. 27 DE ABRIL DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE MAYO DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
