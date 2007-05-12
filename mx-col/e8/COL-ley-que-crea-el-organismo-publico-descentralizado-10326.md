@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-organismo-publico-descentralizado-10326"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-20"
-last_updated: "2001-10-20"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COORDINACION DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Número 25 del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 1992.
 
@@ -155,7 +155,9 @@ II.- Un representante de cada una de las Secciones del Sindicato Nacional de Tra
 
 III.- Un representante de la Asociación Estatal de Padres de Familia;
 
-IV.- Tres representantes del H. Congreso del Estado, que serán los integrantes de su Comisión de Educación; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+IV.- Tres representantes del H. Congreso del Estado, que serán los integrantes de la Comisión de Educación, Cultura y Deporte; y
 
 V.- Un representante de cada uno de los Ayuntamientos.
 
@@ -234,3 +236,9 @@ P.O. 20 DE OCTUBRE DE 2001.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 150 SE MODIFICA EL ARTÍCULO 7 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS DEL ESTADO DE COLIMA”.]
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES DEL ESTADO DE COLIMA: DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGÍA; DE ARCHIVOS; DE PROTECCIÓN CIVIL; DE FOMENTO, PROTECCIÓN Y DESARROLLO AGRÍCOLA; PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA INTRAFAMILIAR; PARA REGULAR LA PARTICIPACIÓN DEL CONGRESO EN ASUNTOS MUNICIPALES; PARA RESOLVER LOS CONFLICTOS DE LÍMITES INTERMUNICIPALES EN EL ESTADO Y LA QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COORDINACIÓN DE LOS SERVICIOS EDUCATIVOS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
