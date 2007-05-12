@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-5197
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA EL FOMENTO, PROTECCION Y DESARROLLO AGRICOLA EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -313,7 +313,9 @@ El Consejo estará integrado por un Presidente, un Vicepresidente, un Secretario
 
 El Presidente será el titular del Ejecutivo del Estado, quien delegará funciones en la persona del Secretario de Desarrollo Rural del Gobierno del Estado, mismo que tendrá el carácter de Vicepresidente, quien a su vez designará como Secretario Técnico al Director de Fomento Agrícola y Ganadero de la Secretaría, así como al Secretario de Actas y Acuerdos, cuyo nombramiento recaerá en una persona también adscrita a la citada entidad pública estatal, la cual deberá elaborar las actas correspondientes y dar seguimiento a los acuerdos aprobados.
 
-Los Vocales serán designados, uno por cada una de las dependencias e instituciones siguientes: SAGARPA; Cámara Nacional de la Industria de la Transformación; Organización Estatal de Agricultores; Consejos Estatales de Productores y/o Sistema Producto; Consejo Estatal de Sanidad Vegetal; Fundación PRODUCE Colima; Universidad de Colima; Instituto Tecnológico de Colima; la Universidad Autónoma del Pacifico; el Instituto Tecnológico de Estudios Superiores de Monterrey Campus Colima; Comisión Nacional del Agua; Comisión Estatal del Agua; FIRA; Secretaría de Fomento Económico del Gobierno del Estado y el Diputado Presidente de la Comisión de Desarrollo Rural del H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+Los Vocales serán designados, uno por cada una de las dependencias e instituciones siguientes: SAGARPA; Cámara Nacional de la Industria de la Transformación; Organización Estatal de Agricultores; Consejos Estatales de Productores y/o Sistema Producto; Consejo Estatal de Sanidad Vegetal; Fundación PRODUCE Colima; Universidad de Colima; Instituto Tecnológico de Colima; la Universidad Autónoma del Pacífico; el Instituto Tecnológico de Estudios Superiores de Monterrey Campus Colima; Comisión Nacional del Agua; Comisión Estatal del Agua; FIRA; Secretaría de Fomento Económico del Gobierno del Estado y el Diputado Presidente de la Comisión de Desarrollo Rural y Fomento Pesquero del H. Congreso del Estado.
 
 ###### ARTÍCULO 16.
 
@@ -582,3 +584,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 08 del mes de septiembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. CARLOS SALAZAR PRECIADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
