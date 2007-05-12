@@ -4,7 +4,7 @@ identifier: "COL-ley-para-resolver-los-conflictos-de-limites-26450"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-23"
-last_updated: "2002-10-23"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA RESOLVER LOS CONFLICTOS DE LIMITES INTERMUNICIPALES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el miércoles 23 de octubre de 2002.
 
@@ -71,7 +71,9 @@ III. Congreso, al Congreso del Estado;
 
 IV. Comisión, a la Comisión Permanente del Congreso;
 
-V. Comisión dictaminadora, a la Comisión de Gobernación y Poderes del Congreso;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+V. Comisión dictaminadora, a la Comisión de Justicia, Gobernación y Poderes del Congreso;
 
 VI. Las partes, a los municipios involucrados en el conflicto de límites;
 
@@ -346,3 +348,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 22 días del mes de Octubre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
