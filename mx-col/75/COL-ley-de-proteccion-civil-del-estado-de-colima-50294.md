@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-50294"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2006-04-08"
+last_updated: "2007-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -485,11 +485,9 @@ IV. Un Tesorero, que será el Secretario de Finanzas del Gobierno del Estado;
 
 V. El Director de Seguridad Pública del Estado;
 
-VI. Los presidentes de las siguientes comisiones permanentes del Congreso del Estado:
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-a) Protección Civil; y
-
-b) Seguridad Pública, Prevención y Readaptación Social;
+VI. El Presidente de la Comisión de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil;
 
 VII. Un representante del H. Cuerpo de Bomberos y de la Cruz Roja Mexicana, designado por sus órganos de gobierno;
 
@@ -533,7 +531,9 @@ El Presidente del Consejo, a través del Secretario Ejecutivo, podrá invitar a 
 
 Por cada consejero propietario, se designará un suplente que lo substituya en sus faltas temporales. El cargo de consejero es de carácter honorario y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.
 
-En el caso de los suplentes de los presidentes de las comisiones previstas en la fracción VI del artículo anterior, será el que designe el presidente dentro de los integrantes de la misma Comisión Legislativa.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+En el caso del suplente del Presidente de la Comisión prevista en la fracción VI del artículo anterior, será el que designe el presidente dentro de los integrantes de la misma Comisión Legislativa.
 
 El Secretario Ejecutivo suplirá en sus funciones al Presidente del Consejo Estatal de Protección Civil y el Secretario Técnico, suplirá al Secretario Ejecutivo.
 
@@ -555,15 +555,21 @@ Las decisiones del Consejo serán aprobadas por mayoría de votos, y en caso de 
 
 Si a la hora designada no existe la mitad más uno de sus integrantes, se dará una prorroga de media hora de espera; transcurrida ésta la sesión del consejo se llevará a cabo con los presentes y sus determinaciones y acuerdo tendrán validez legal por la mayoría de los presentes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### Artículo 31.
 
-El Comité es el órgano ejecutivo del Consejo Estatal de Protección Civil y se constituye por el Presidente, el Secretario Ejecutivo, el Secretario Técnico y seis vocales que serán designados por el mismo Consejo entre sus propios integrantes.
+El Comité es el órgano ejecutivo del Consejo Estatal de Protección Civil y se constituye por el Presidente, el Secretario Ejecutivo, el Secretario Técnico y cinco vocales que serán designados por el mismo Consejo entre sus propios integrantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### Artículo 32.
 
-Los seis vocales integrantes del Comité serán designados cada año por el Consejo Estatal entre sus propios integrantes, de tal forma que se incluyan:
+Los cinco vocales integrantes del Comité serán designados cada año por el Consejo Estatal entre sus propios integrantes, de tal forma que se incluyan:
 
-I. Dos de los presidentes de las comisiones permanentes del Congreso del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+I. El Presidente de la Comisión Permanente de Educación, Cultura y Deportes del Congreso del Estado;
 
 II. Dos de los presidentes municipales integrantes del Consejo Estatal; y
 
@@ -1632,3 +1638,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, a los 03 días del mes de abril del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
