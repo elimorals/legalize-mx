@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-general-de-transito-y-vialidad-del-55028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-14"
-last_updated: "2007-03-14"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY GENERAL DE TRANSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de marzo de 2007.
 
@@ -53,107 +53,121 @@ Corresponde al Poder Ejecutivo del Estado y a las autoridades municipales de la 
 
 El Ejecutivo del Estado podrá suscribir con las autoridades federales, municipales y otras Entidades Federativas acuerdos o convenios, para la prestación coordinada del servicio público de tránsito.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 4.
 
-Además de lo dispuesto por el artículo 2 de la Ley General de Tránsito y Vialidad del Estado de Tabasco, para los efectos de este Reglamento, se entenderá por:
+Además de lo dispuesto en la Ley General de Tránsito y Vialidad del Estado de Tabasco, para los efectos de este Reglamento, se entenderá por:
 
-I. Accidente de tránsito: Todo hecho que produzca daño físico y/o moral en la (s) persona (s) tanto físicos como estructurales en bienes muebles e inmuebles a consecuencia de la circulación de vehículos;
+I. Agentes: Los elementos del cuerpo policial de la Dirección General de la Policía Estatal de Caminos o de la Dirección de Tránsito Municipal correspondiente, encargados de vigilar el cumplimiento de la Ley y el presente Reglamento;
 
-II. Agentes: Los elementos del cuerpo policial de la Dirección General de la Policía Estatal de Caminos y de la Dirección de Tránsito y Vialidad Municipal correspondiente, encargados de vigilar el cumplimiento de la Ley y el presente Reglamento;
+II. Alto Provisional: Inmovilización de un vehículo por emergencia y/o por necesidades de la circulación;
 
-III. Alto Provisional: Inmovilización de un vehículo por emergencia y/o por necesidades de la circulación;
+III. Área de Transferencia: Espacio privado o público donde se realiza el ascenso y descenso de personas, semovientes, vehículos o cualquier otro bien mueble;
 
-IV. Área de Transferencia: Espacio privado o público donde se realiza el ascenso y descenso de personas, semovientes, vehículos o cualquier otro bien mueble;
+IV. Autopista: Vía especialmente diseñada para alta velocidad, con los sentidos de flujo aislados por medio de separador central, sin intersecciones de nivel y con el control total de accesos;
 
-V. Autopista: Vía especialmente diseñada para alta velocidad, con los sentidos de flujo aislados por medio de separador central, sin intersecciones de nivel y con el control total de accesos;
+V. Autoridad de Tránsito y Vialidad: El Gobernador del Estado, el Secretario de Gobierno, el Director General de la Policía Estatal de Caminos, el Presidente Municipal, el Primer Concejal, en su caso, o la persona que desempeñe la función propia de este cargo o encargo, el Ayuntamiento o Concejo Municipal, el Director de la Policía de Tránsito y Vialidad Municipal;
 
-VI. Autoridad de Tránsito y Vialidad: El Gobernador del Estado, el Secretario de Gobierno, el Director General de la Policía Estatal de Caminos, el Presidente Municipal, el Ayuntamiento o Concejo Municipal y el Director de la Policía de Tránsito y Vialidad Municipal;
+VI. Avenida: Las vias de tránsito de mayor importancia urbanística. Usualmente tienen por lo menos cuatro carriles de circulación, dos para cada sentido, e intersecciones a nivel que dan acceso a áreas y edificaciones laterales y tienen facilidades peatonales;
 
-VII. Avenida: Las vías de tránsito de mayor importancia urbanística. Usualmente tienen por lo menos cuatro carriles de circulación, dos para cada sentido, e intersecciones a nivel que dan acceso a áreas y edificaciones laterales y tienen facilidades peatonales;
+VII. Calle: Vía urbana de comunicación y tránsito usualmente flanqueada por casas, edificios o solares;
 
-VIII. Calle: Vía de comunicación y tránsito público destinado a la circulación de vehículos;
+VIII. Camino Pavimentado o de Terracería: Vía rural de comunicación por donde se transita habitualmente;
 
-IX. Camino Pavimentado o de Terracería: Vía rural de comunicación, por donde se transita habitualmente;
+IX. Carretera: Vía extraurbana de comunicación, ancha, espaciosa, pavimentada y dispuesta para el tránsito de vehículos;
 
-X. Carretera: Vías de comunicación de carácter extraurbano que no reúnen las características propias de las autopistas;
+X. Carril. Una de las fajas de circulación en que puede estar dividida la superficie de rodamiento.de una vía, marcada o no marcada, con anchura suficiente para la circulación de automóviles;
 
-XI. Carril: Franja de la vía de comunicación destinada a la circulación o al estacionamiento de una sola fila de vehículos;
+Xl. Circulación: Acción que realiza todo usuario de la vía pública con el fin de trasladarse de un punto a otro utilizando para el efecto cualquier medio permitido por la Ley y este Reglamento;
 
-XII. Carril de circulación: El destinado al tránsito de vehículos;
+XII. Cruce: Intersección de dos vías públicas. Comprende todo el ancho de la vía pública entre las líneas de edificación o deslinde en su caso;
 
-XIII. Circulación: Acción que realiza todo usuario de la vía pública con el fin de trasladarse de un punto a otro utilizando para el efecto cualquier medio permitido por la Ley y este Reglamento;
+XIII. Boleta o Acta: Documento elaborado por los Agentes, el cual pone de manifiesto una conducta que amerita una amonestación o sanción por infracción a la Ley General de Tránsito y Vialidad del Estado de Tabasco o su Reglamento;
 
-XIV. Cruce: Intersección de dos calles o carretera. Comprende todo el ancho de la calle o carretera entre las líneas de edificación o deslinde en este caso;
+XIV. Grado de ebriedad: Cantidad de alcohol en la sangre o en aire espirado que se rige para determinar el estado y grado de ebriedad de acuerdo a los siguientes:
 
-XV. Guarnición: Ángulo formado por la calle y el plano vertical producido por diferencia de nivel con la banqueta;
+Primer grado: Cuando el dispositivo analizador de alcohol en una prueba de aire espirado da una lectura entre 0.100 % y 0.150 % en grados BAC o el equivalente en otra unidad de medición obtenida a través de medidor etílico distinto, y/o el diagnóstico médico que refiera la presencia de por lo menos, nistagmus postrotacional discreto, incordinación (sic) motora leve y aliento alcohólico, analizados dentro del contexto de cada caso específico, de modo que se presenten alteraciones en la esfera mental y neurológica, relacionadas con la atención, concentración, memoria y juicio, fundamentales para la conducción del vehículo.
 
-XVI. Demarcaciones en el pavimento: Señales de tránsito constituidas por líneas, dibujos, palabras o símbolos trazados en el pavimento u otros elementos dentro de la vía o adyacentes a ella;
+Segundo grado: Cuando el dispositivo analizador de alcohol en una prueba de aire espirado da una lectura entre 0.151% y 0.200% en grados BAC o el equivalente en otra unidad de medición obtenida a través de medidor etílico distinto, y/o el diagnóstico médico que refiera la presencia de por lo menos nistagmus postrotacional evidente, incordinación (sic) motora moderada, aliento alcohólico y disartria, analizados dentro del contexto del caso específico. Además puede haber alteración en la convergencia ocular. De modo que exista una afectación de la esfera mental y neurológica (en lo relativo a la atención, concentración, memoria y juicio) y por ende mayor incapacidad para efectuar actividades de conducción.
 
-XVII. Derecho preferente de paso: Prerrogativa de un peatón o conductor para proseguir su marcha;
+Tercer grado: Cantidad de alcohol superior al límite máximo que corresponde al segundo grado de ebriedad en aire espirado, y/o el diagnóstico médico que refiera la presencia de un conjunto de signos como: nistagmus espontáneo o postrotacional evidente, aliento alcohólico, disartria, alteración en la convergencia ocular, incoordinación motora severa y aumento del polígono de sustentación hasta un cuadro clínico que implique mayor compromiso mental y neurológico con somnolencia, imposibilidad para articular el lenguaje, amnesia lacunar, incapacidad para mantener la postura y bipedestación, o alteraciones graves de conciencia - estupor, coma, de modo que exista una alteración completa de la esfera mental y neurológica (en lo relativo a la atención, concentración, memoria y juicio) y, por ende, de la capacidad de la persona para conducir.
 
-XVIII. D.S.M.G.V.: Días de Salario Mínimo General Vigente;
+En caso de que no se cuente con dispositivo analizador de aire espirado, bastará con la realización del diagnóstico médico.
 
-XIX. Dirección General: Dirección General de la Policía Estatal de Caminos;
+XV. Grados BAC: Concentración de alcohol en sangre;
 
-XX. Discapacitado: Toda persona con capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
+XVI. Guarnición: Bordillo de material duro y resistente que delimita, contiene y protege la banqueta;
 
-XXI. Distribuidor de Tránsito: Un dispositivo que une varias vías situadas a un mismo nivel o a diferente nivel y que permite el paso de vehículos de una vía a otra;
+XVII. Demarcaciones en el pavimento: Señales de tránsito constituidas por líneas, dibujos, palabras o símbolos trazados en el pavimento u otros elementos dentro de la vía o adyacentes a ella;
 
-XXII. Ejecutivo del Estado: Gobernador del Estado;
+XVIII. Derecho preferente de paso: Prerrogativa de un peatón o conductor para proseguir su marcha;
 
-XXIII. Estacionamiento: Acción y efecto de estacionarse en la zona destinadas (sic) para tal fin;
+XIX. D.S.M.G.V.: Olas de Salario Mínimo General Vigente en el Estado de Tabasco;
 
-XXIV. Incidente de tránsito: Acto u omisión del conductor que cometió dolosamente o culposamente una infracción derivado del hecho o acto relacionado con la causa del mismo;
+XX. Dirección General: Dirección General de la Policía Estatal de Caminos;
 
-XXV. Infractor: Quien infrinja la Ley y el presente Reglamento al realizar una conducta que transgreda las disposiciones de tránsito, vialidad y control vehicular;
+XXI. Discapacitado: Toda persona con capacidad disminuida o limitada para realizar por sí misma las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática o psicológica;
 
-XXVI. Intersección: Unión de dos o más vías que cruzan o convergen;
+XXII. Distribuidor de Tránsito: Un dispositivo que une varias vías situadas a un mismo nivel o a diferente nivel y que permite el paso de vehículos de una vía a otra;
 
-XXVII. Isla: Distribuidor de vías con una dimensión de 1,20 metros de ancho;
+XXIII. Ejecutivo del Estado: Gobernador del Estado Libre y Soberano de Tabasco;
+
+XXIV. Estacionamiento: Espacio cerrado o abierto, público o privado, destinado especialmente para alojar vehículos en forma temporal;
+
+XXV. Incidente de tránsito: Hecho, consecuencia de un acto u omisión del conductor que cometió dolosa o culposamente una infracción;
+
+XXVI. Infractor: Quien infrinja la Ley General de Tránsito y Vialidad del Estado de Tabasco y el presente Reglamento al realizar una conducta que transgreda sus disposiciones;
+
+XXVII. Intersección: Unión de dos o más vías que cruzan o convergen;
 
 XXVIII. Ley: Ley General de Tránsito y Vialidad del Estado de Tabasco;
 
-XXIX. Parada: Lugar donde se detiene por breve tiempo un vehículo;
+XXIX. Parada: Lugar donde se detiene por breve tiempo un vehículo para ascenso o descenso de personas o bienes muebles;
 
-XXX. Pasajero: Toda persona que ocupa un lugar dentro del vehículo;
+XXX. Pasajero: Toda persona que ocupa un lugar dentro del vehículo y que no tiene el carácter de conductor;
 
-XXXI. Paso peatonal: Área de la superficie de rodamiento, destinada al paso de peatones, específicamente por las esquinas;
+XXXI. Paso peatonal: Área de la superficie de rodamiento, destinada al paso de peatones, específicamente por las esquinas:
 
 XXXII. Pendiente: Inclinación longitudinal de una vía con respecto al plano horizontal;
 
-XXXIII. Peso bruto vehicular: Peso propio del vehículo y su capacidad de carga especificadas por el fabricante;
+XXXIII. Peso bruto vehicular: Peso propio del vehículo más su capacidad de carga según especificaciones del fabricante;
 
 XXXIV. Peso neto vehicular: Peso propio del vehículo más el peso de la carga real y de los pasajeros;
 
-XXXV. Preferencia: Prioridad que tiene una vía o vehículo con respecto a otras vías o paso de otros vehículos;
+XXXV. Polarizado: Lámina film que se pega sobre el vidrio de los vehículos y que disminuye su transparencia;
 
-XXXVI. Propietario: Toda persona que acredite la propiedad de un bien o cosa con los documentos previstos por las disposiciones legales;
+XXXVI. Preferencia: Prioridad que tiene una vía o vehículo con respecto a otras vías o paso de otros vehículos;
 
-XXXVII. Rebasar: Maniobra de pasar a otro vehículo que le antecede;
+XXXVII. Propietario: Toda persona que acredite la propiedad de un bien o cosa con los documentos previstos por las disposiciones legales;
 
-XXXVIII. Reglamento: Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco;
+XXXVIII. Rebasar: Maniobrada pasar a otro vehículo que le antecede;
 
-XXXIX. Secretaría: Secretaría de Gobierno;
+XXXIX. Reglamento: Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco;
 
-XL. Superficie de Rodamiento o Arroyo Vehicular: Vía de comunicación de tránsito destinada a la circulación de vehículos;
+XL. Secretaría: Secretaría de Gobierno;
 
-XLI. Transporte Público: Medio de traslado de personas y bienes de un lugar a otro con vehículo idóneo autorizado para la prestación del servicio público;
+XLI. Superficie de Rodamiento o Arroyo Vehicular: Zona de la vía pública destinada a la circulación de vehículos;
 
-XLII. Vía ordinaria: Sistema vial con tránsito subordinado a la vía principal;
+XLII. Tintado: Pigmento de color oscuro que se mezcla con el sllice (sic) del propio vidrio, es un tratamiento interno del cristal realizado en la fábrica;
 
-XLIII. Vía principal: Sistema vial con prelación de tránsito sobre las vías ordinarias;
+XLIII. Transporte Público: Medio de traslado de personas y bienes de un lugar a otro con vehículo idóneo autorizado para la prestación del servicio público;
 
-XLIV. Zona escolar: Espacio situado frente a un establecimiento de enseñanza y que se extiende cincuenta (50) metros a los lados de los lugares de acceso al establecimiento;
+XLIV. Vía ordinaria: Sistema vial con tránsito subordinado a la vía principal;
 
-XLV. Zona de estacionamiento: Lugar público o privado, destinado al estacionamiento de vehículos;
+XLV. Vía principal: Sistema vial con prelación de tránsito sobre las vías ordinarias;
 
-XLVI. Zona de estacionamiento restringido: Parte de la vía delimitada por la autoridad competente en zonas adyacentes a instalaciones militares o de policía, teatros, bancos, hospitales, entidades oficiales y de socorro, iglesias, establecimientos industriales y comerciales, etc.;
+XLVI. Zona escolar: Espacio situado frente a un establecimiento de enseñanza y que se extiende cincuenta (50) metros a los lados de los lugares de acceso al establecimiento;
 
-XLVII. Zona extraurbana o rural: Extensión territorial situada fuera de los parámetros urbanos;
+XLVII. Zona de estacionamiento: Franja de la vía pública destinada al estacionamiento de vehículos;
 
-XLVIII. Zona peatonal: Banquetas, andadores, andenes, puentes o lugares destinados a tránsito de peatones; y
+XLVIII. Zona de estacionamiento restringido: Parte de la vía delimitada por la autoridad competente en zonas adyacentes a instalaciones militares o de policía, teatros, bancos, hospitales, entidades oficiales y de socorro, iglesias, establecimientos industriales y comerciales, o similares en la que sólo se permite el estacionamiento a vehículos determinados o en condiciones especiales.
 
-XLIX. Zona urbana: Áreas o centros poblados dentro de la zona geográfica de un municipio.
+XLIX. Zona extraurbana o rural: Extensión territorial situada fuera de los parámetros urbanos;
+
+L. Zona peatonal: Banquetas, andadores, andenes, puentes o lugares destinados a tránsito de peatones; y
+
+LI. Zona urbana: Áreas o centros poblados dentro de la zona geográfica de un municipio.
 
 ### CAPÍTULO II. DE LA AUTORIDAD DE TRÁNSITO Y VIALIDAD
 
@@ -161,9 +175,11 @@ XLIX. Zona urbana: Áreas o centros poblados dentro de la zona geográfica de un
 
 Son autoridades facultadas para la aplicación de este Reglamento las indicadas en el artículo 3 de la Ley, y demás autoridades que se señalen en este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 6.
 
-Además de las facultades señaladas por los artículos 5 y 6 de la Ley, las autoridades de Tránsito y Vialidad tendrán las siguientes:
+Para hacer efectivas las facultades señaladas por los articulos 5 y 6 de la Ley, las autoridades de Tránsito y Vialidad tendrán las siguientes:
 
 I. Establecer o autorizar centros de capacitación en materia de Tránsito y Vialidad;
 
@@ -173,9 +189,15 @@ III. Retirar de la circulación todos aquellos vehículos que no satisfagan los 
 
 IV. Detener los vehículos y llevarlos al depósito vehicular, cuando se causen con ellos o con los objetos que transporten, daños a terceros en sus bienes o en sus personas, poniéndolos a disposición del Ministerio Público cuando no haya sido reparado el daño o celebrado convenio entre las partes involucradas;
 
-V. Poner a disposición del Agente del Ministerio Público, al conductor (es) y el o vehículo (s) que intervenga en un accidente de tránsito y resulten personas lesionadas o cuando sean solicitados por querella;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-VI. Auxiliar a las autoridades Federales, Estatales y Municipales, que conforme al ámbito de su competencia tengan facultades para ordenar la detención de vehículos. En todos los casos se requerirá ordenamiento por escrito que funde y motive el procedimiento;
+V. Poner a disposición del Agente del Ministerio Público, al conductor (es) y el o vehículo (s) que intervenga (n) en un accidente de tránsito en el que resulten personas lesionadas o cuando sean solicitados por querella;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VI. Auxiliar a las autoridades Federales, Estatales o Municipales, que conforme al ámbito de su competencia tengan facultades para ordenar la detención de (sic)
+
+(sic) vehículos. En todos los casos se requerirá ordenamiento por escrito que funde y motive el procedimiento;
 
 VII. Celebrar dentro del ámbito de su competencia acuerdos o convenios con autoridades civiles y militares en lo relacionado al tránsito y vialidad;
 
@@ -185,13 +207,19 @@ IX. Implementar operativos de vigilancia para la prevención de accidentes;
 
 X. Hacer cambios y ajustes a la vialidad, de acuerdo a las circunstancias;
 
-XI. Hacer uso e instalar en la vía pública diversos dispositivos electrónicos para la verificación del cumplimiento de las normas de este ordenamiento y aplicación de sanciones por infracción a las mismas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-XII. Mantener un registro de las infracciones de tránsito que se hayan cometido en estado de ebriedad o de ineptitud para conducir, así como de las suspensiones y cancelaciones de las licencias o permisos para conducir;
+XI. Instalar de manera temporal o permanente y hacer uso en la vía pública diversos (sic) dispositivos electrónicos para la verificación del cumplimiento de las normas de este ordenamiento y aplicación de sanciones por infracción a las mismas;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XII. Mantener un registro de las boletas de amonestación a conductores, así como de las boletas de infracción que hayan tenido como consecuencia una sanción, y de las suspensiones o cancelaciones de las licencias o permisos para conducir;
 
 XIII. Realizar campañas de difusión para concienciar a los conductores sobre los riesgos que se presentan al manejar en estado de ebriedad o de ineptitud para conducir, así como de las infracciones y sanciones que se establecen en este Reglamento; y
 
-XIV. Trasladar al conductor y demás ocupantes ante el personal competente de la Institución Hospitalaria, de emergencia o de auxilio, cuando han participado en accidentes o incidentes de tránsito, a fin de que reciban la atención debida y en su caso se le tomen las muestras necesarias para llevar a cabo los análisis respectivos.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XIV. Permitir y apoyar el traslado al conductor y demás ocupantes ante el personal competente de la Institución Hospitalaria, de emergencia o de auxilio, cuando han participado en accidentes o incidentes de tránsito, a fin de que reciban la atención debida y se le tomen las muestras necesarias para llevar a cabo los análisis respectivos.
 
 ###### ARTÍCULO 7.
 
@@ -199,7 +227,9 @@ Los Agentes deberán portar uniforme, placa y gafete de identificación perfecta
 
 I. Salvaguardar la seguridad y el orden legal en las vías públicas, canalizando y dirigiendo el tránsito a objeto de mantener la fluidez del mismo;
 
-Il. Actuar en accidentes de tránsito que se produzcan en las vías públicas sujetas al ámbito de aplicación de la Ley y este Reglamento;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+Il. Actuar conforme a las normas aplicables en accidentes de tránsito que se produzcan en las vías públicas sujetas al ámbito de aplicación de la Ley y este Reglamento;
 
 III. Asegurar y conservar las pruebas necesarias para la aplicación de la Ley y de este Reglamento, Decretos, Resoluciones y demás disposiciones relacionadas con infracciones en materia de tránsito. Iniciar la formación del sumario y remitir las actuaciones a la autoridad administrativa o judicial según corresponda;
 
@@ -211,7 +241,9 @@ VI. Aplicar infracciones y detenciones de acuerdo con la Ley y este Reglamentos 
 
 VII. Prevenir accidentes de tránsito y auxiliar a las autoridades administrativas y judiciales cuando éstas lo soliciten;
 
-VIII. Ejercer la vigilancia y control de la circulación de las vías urbanas y extraurbanas que le fueren asignadas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VIII. Ejercer la vigilancia y control de la circulación de las vías públicas que le fueren asignadas;
 
 IX. Llevar a cabo el patrullaje vial para asegurar el cumplimiento a las normas sobre circulación;
 
@@ -223,43 +255,53 @@ XII. Hacer constar lo conducente para la determinación e identificación de los
 
 XIII. Las demás que señalen la Ley, sus Reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 8.
 
 Los Agentes que detecten a un infractor deberán cumplir con las siguientes formalidades:
 
-I. Utilizar el silbato, altoparlante, manual y/o verbalmente, indicarán al conductor que se detenga;
+I. Utilizar el silbato, altoparlante, señales manuales y/o expresiones verbales, para indicar al conductor que se detenga;
 
-II. Indicar al conductor que el vehículo sea estacionado en lugar seguro;
+II. Indicar al conductor que estacione el vehículo en un lugar seguro;
 
-III. Abordar al infractor de una manera cortés, dando su nombre, número de Agente y/o rango;
+III. Abordar al infractor de una manera cortés, dando su nombre y rango;
 
-IV. Comunicar al infractor la falta cometida y en su caso, le solicitará su licencia de manejo y tarjeta de circulación del vehículo;
+IV. Comunicar al infractor la falta cometida y en su caso, le solicitará su licencia de manejo y la tarjeta de circulación del vehículo;
 
-V. Comunicar al infractor la acción a tomar, que podrá consistir en:
+V. Comunicar al infractor la acción a tomar, que podrá consistir en lo siguiente:
 
-a) AMONESTACIÓN.- Cuando la Infracción cometida se derive de nuevas disposiciones o cambios de circulación que pudiera ignorar el conductor.
+a) Amonestación verbal.- Cuando la conducta indebida realizada recae en el peatón o pasajeros en los términos del presente Reglamento;
 
-b) INFRACCIÓN.- Conducta realizada por el usuario de la vía pública que transgrede alguna disposición de la Ley y el presente Reglamento y que tiene como consecuencia una sanción.
+b) Amonestación escrita.- Cuando la conducta realizada por el conductor en la vía pública se derive del incumplimiento de nuevas disposiciones o cambios de circulación que pudiera ignorar el conductor. La boleta será puesta a disposición de la Dirección General por conducto de la unidad administrativa que corresponda para proceder en los términos del artículo 6 fracción XII;
 
-VI. De las acciones anteriores el Agente procederá a formular el acta de infracción, debiendo de entregar el original de la boleta al infractor, la cual contendrá los siguientes datos:
+c) Boleta de Infracción.- Cuando la conducta realizada por el infractor en la vía pública transgreda alguna disposición de la Ley y el presente Reglamento y tenga como consecuencia una posible sanción.
 
-1. Folio del acta;
+VI. De las acciones señaladas en los incisos b) y c) del presente artículo, el Agente procederá a formular las correspondientes boletas, según corresponda, las cuales se extenderán por cuadruplicado. El original se entregará al peatón, conductor o pasajero si fuera posible. Los demás ejemplares se remitirán a la Dirección General. Las boletas serán firmadas por el Agente y el amonestado o infractor, sin que la firma de este último implique conformidad con los hechos que motivan la boleta, sino únicamente la recepción del ejemplar a él destinado. En el caso de que el amonestado o infractor se negase a firmar o no supiere hacerlo, el Agente así lo hará constar. Las respectivas boletas contendrán, al menos, los siguientes datos:
 
-2. Nombre, domicilio, municipio, R. F. C., número de la licencia de manejo y clase;
+1. Folio de la boleta o acta;
 
-3. Placas, tipo, servicio, marca, línea y modelo del vehículo;
+2. Nombre, domicilio, número de la licencia de manejo y clase, o en su caso, cualquier medio o constancia que permita identificar al amonestado o infractor cuando éste no cuente con la licencia de conducir o permiso respectivo, o cuando se trate de infracciones al artículo 27 del presente Reglamento;
 
-4. Lugar, fecha y hora en que se cometió la infracción;
+3. Placas, servicio, tipo, marca, línea y modelo del vehículo;
 
-5. Motivo de la infracción, artículo de la Ley o Reglamento que se infringió, así como el parte informativo y la garantía;
+4. Lugar, fecha y hora en que acontecieron los hechos;
 
-6. Nombre, R.F.C., clasificación del área y firma del Agente que levante el acta, así como la firma del infractor, salvo que este se niegue a hacerlo, salvo que este se niegue a hacerlo (sic), negativa que se hará constar en el acta;
+5, Hechos o motivos que originan la infracción, artículo de la Ley o Reglamento que se infringió; en su caso la garantía que proceda; y
 
-VII. Entregar al departamento correspondiente, para la captura en la base de datos, según sea el caso de las actas de infracciones y amonestaciones levantadas al terminar el turno o antes si las circunstancias lo ameritan; y
+6. Nombre, categoría, clasificación del área y firma del Agente que formule la boleta o acta de infracción.
 
-VIII. Llenará el acta de infracción correspondiente cuando el infractor no se detenga o se dé a la fuga; la copia destinada al infractor será entregada al área administrativa correspondiente, para que proceda a citar al propietario, quien deberá presentar al conductor en su caso o pagar la multa cuando se le requiera.
+VII. Cuando el infractor no se detenga o se dé a la fuga; el ejemplar destinado al infractor será entregado al área administrativa correspondiente, para que proceda a citar al propietario, quien deberá presentar al conductor en su caso para que manifieste lo que a su derecho corresponda y/o pague la multa que le fue impuesta;
 
-Al infractor que pague la multa dentro de los quince días hábiles posteriores a la fecha de expedición, gozará de un descuento del 50%. Quien se inconforme contra la infracción o multa impuesta, no gozará de los beneficios por pronto pago.
+VIII. Cuando los agentes cuenten con dispositivos de detección de alcohol y otras sustancias tóxicas, además de lo señalado en las fracciones anteriores, se procederá como sigue:
+
+a) Los conductores tienen la obligación de someterse a las pruebas de alcohol a que refiere el artículo 68 fracción I, inciso a) de la Ley. El conductor sólo podrá inconformarse por los resultados de la realización de las pruebas mencionadas, si autoriza la realización de pruebas de alcohol en sangre de forma inmediata.
+
+b) Se entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización; y
+
+c) Se entregará un ejemplar del comprobante de los resultados de la prueba a la Dirección General, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y del estado de embriaguez, la que servirá de base para la graduación de la sanción.
+
+IX. En el caso de que el Agente cuente con dispositivos electrónicos móviles para la imposición y cobro de sanciones por tarjeta bancaria, el infractor podrá solicitar bajo su amplio consentimiento, pagar la sanción en el acto, en cuyo caso deberán expedirse y firmarse por ambos, los documentos que amparen la imposición y pago de la sanción, sin menoscabo al derecho del infractor de impugnar la-sanción dentro de los términos de Ley.
 
 ###### ARTÍCULO 9.
 
@@ -305,9 +347,11 @@ Serán solidariamente responsables de los daños ocurridos en accidentes, por el
 
 ### CAPÍTULO II. DE LA CLASIFICACIÓN DE LA VÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-La vialidad se integra con el conjunto de vías públicas establecidas para el uso y tránsito de peatones y vehículos. Los cuales se regirán por lo establecidos (sic) en la Ley, Ley de Ordenamiento Territorial del Estado de Tabasco y los reglamentos respectivos.
+La vialidad se integra con el conjunto de vías públicas establecidas para el uso y tránsito de peatones y vehículos; la cual se regirá por lo establecido en la Ley, Ley de Ordenamiento Territorial del Estado de Tabasco y los reglamentos respectivos.
 
 ###### ARTÍCULO 16.
 
@@ -327,9 +371,13 @@ III. Accionar las luces estacionarias cuando el conductor del vehículo intente 
 
 IV. Al iniciar la marcha o cambio de carril del vehículo, el conductor deberá cerciorarse que no se aproxime otra unidad o peatón para no ocasionar un accidente o incidente de tránsito;
 
-V. Extremar precauciones al ascenso y descenso de vehículos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-VI. Extremar precauciones en el ascenso y descenso de personas de los vehículos;
+V. Extremar precauciones al ascenso y descenso de vehículos que son trasladados por camiones nodriza, plataformas o grúas;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VI. Extremar precauciones en el ascenso y descenso de personas de los vehículos o al percibir que otras personas ascienden o descienden de los vehículos;
 
 VII. Detener el vehículo en su totalidad cuando exista señal que lo indique;
 
@@ -373,9 +421,11 @@ VI. Abordar un vehículo cuando se encuentre en alto total y debidamente estacio
 
 VII. Ayudar a cruzar las calles a peatones discapacitados, niños menores de ocho años, adultos mayores y mujeres en estado de gravidez.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-Son prohibiciones del peatón, las siguientes:
+Son prohibiciones al peatón, las siguientes:
 
 I. Cruzar entre vehículos detenidos con motor en marcha y en circulación;
 
@@ -385,13 +435,17 @@ III. Realizar la venta de productos o la prestación de servicios, sin la aproba
 
 IV. Realizar actos que obstaculicen la circulación de vehículos;
 
-V. Pender de vehículos estacionados o en movimiento;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+V. Pender de vehículos en movimiento;
 
 VI. Subir a vehículos en movimiento;
 
 VII. Cruzar la calle de forma diagonal;
 
-VIII. Transitar cerca de la orilla de la banqueta de modo que se expongan a ser envestidos (sic) por los vehículos que se aproximen;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VIII. Transitar cerca de la orilla de la banqueta de modo que se expongan a ser embestidos por los vehículos que se aproximen;
 
 IX. Transitar sobre el arroyo vehicular, salvo en el caso de que no existan banquetas;
 
@@ -399,13 +453,21 @@ X. Efectuar colectas en la vía pública sin la autorización de la autoridad co
 
 XI. Cruzar las calles fuera de las líneas marcadas como zonas peatonales;
 
-XII. Transitar a lo largo de la superficie de calles o avenidas; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-XIII. Invadir intempestivamente la superficie de rodamiento de calles y avenidas.
+XII. Invadir intempestivamente el arroyo vehicular.
+
+XIII. (DEROGADA, P.O. 12 DE MAYO DE 2007)
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 21.
 
-Los Discapacitados tendrán los mismos derechos, obligaciones y prohibiciones que los peatones.
+Los discapacitados además de los mismos derechos, obligaciones y prohibiciones que los peatones, gozarán de las prerrogativas siguientes:
+
+a) Usar libremente las rampas de acceso a banquetas y edificios.
+
+b) Usar libremente los espacios de estacionamiento destinados para ellos.
 
 ###### ARTÍCULO 22.
 
@@ -437,7 +499,7 @@ III. Bajar del vehículo, preferentemente por el lado de la banqueta o acotamien
 
 IV. Usar casco protector al viajar en motocicleta, bicicleta y otra unidad similar.
 
-De la infracción que se genere por las acciones señaladas en este artículo, será responsable solidariamente con el conductor.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 27.
 
@@ -461,7 +523,7 @@ VIII. Viajar en lugares destinados a la carga o fuera del vehículo; y
 
 IX. En la motocicleta o similares viajar parados o sin los pies apoyados en los estribos.
 
-De la infracción que se genere por las acciones señaladas en este artículo, será responsable solidariamente con el conductor.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS Y PERMISOS PARA MANEJO
 
@@ -471,23 +533,27 @@ De la infracción que se genere por las acciones señaladas en este artículo, s
 
 La licencia de conducir de cualquier clase de que se trate, será una para cada conductor y se indicará en ella el tipo de vehículo que se le autoriza a conducir.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-Para la expedición de permiso para conducir de personas extranjeras se requerirá lo siguiente:
+Para la expedición de permiso para manejo de personas extranjeras residentes en el Estado se requerirá lo siguiente:
 
-I. Acreditar la legal estancia en el país;
+I. Acreditar la legal estancia en el país mediante la presentación de la autorización respectiva vigente otorgada por el Instituto Nacional de Migración;
 
-II. Pasaporte vigente;
+II. Comprobar domicilio en el Estado de Tabasco;
 
-III. Presentar las formas migratorias FM 2 o FM 3;
+III. Cumplir con los requisitos establecidos por el artículo 20 de la Ley y demás disposiciones de este Reglamento;
 
-IV. Comprobar domicilio actual;
+IV. Llenar la solicitud que para tal efecto expida la Dirección General; y
 
-V. Cumplir con los requisitos establecidos por el artículo 20 de la Ley y demás disposiciones de este Reglamento;
+V. Pagar los derechos correspondientes.
 
-VI. Llenar la solicitud que para tal efecto expida la Dirección General; y
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
 
-VII. Pagar los derechos correspondientes.
+ARTÍCULO 29 BIS.- Quienes impartan enseñanza privada para la conducción de vehículos con fines de lucro, proporcionarán al alumno que termine su capacitación, y resulte aprobado, una constancia, la cual podrá servir para que se le expida el permiso o la licencia de manejo correspondiente, siempre y cuando los responsables de impartir la instrucción, presenten ante la Dirección General el programa de capacitación, a que se refiere el artículo 33 de la Ley, cada año para su aprobación.
+
+No obstante lo anterior, la Dirección General podrá discrecionalmente aplicar al solicitante los exámenes teóricos y prácticos que considere necesarios para expedirle el permiso o la licencia de manejo que en su caso haya solicitado.
 
 ## TÍTULO CUARTO. DE LOS VEHÍCULOS
 
@@ -497,9 +563,13 @@ VII. Pagar los derechos correspondientes.
 
 Los vehículos registrados en otras entidades federativas que circulen por las vías públicas del Estado, deberán cumplir con lo establecido en la Ley y este Reglamento, en cuanto a materia de tránsito y vialidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 31.
 
-Los vehículos de procedencia extranjera podrán circular dentro del Estado, contando con permiso vigente de introducción al país expedido por las autoridades correspondientes y cumplan con los requisitos para circular del lugar de origen, debiendo contar con placas vigentes, estos vehículos y sus conductores cumplirán con los (sic) establecido en la Ley y el presente Reglamento, en cuanto a materia de tránsito y vialidad.
+Los vehículos de procedencia extranjera podrán circular dentro del Estado, cumpliendo con los requisitos que establece el artículo 33 de este Reglamento, debiendo contar con placas vigentes. Estos vehículos y sus conductores cumplirán además con las demás disposiciones establecidas en la Ley y el presente Reglamento.
+
+Por otra parte, cuando el vehículo se encuentre de paso por territorio del Estado y cuente con permiso vigente de internación por tiempo limitado expedido por la autoridad federal competente, bastará con la presentación del mismo para poder circular bajo las condiciones y términos del permiso antes mencionado. En caso contrario, y de no contar con dicha autorización o que ésta ya no se encuentre vigente deberá cumplir con los requisitos que señala el párrafo anterior.
 
 ###### ARTÍCULO 32.
 
@@ -531,7 +601,9 @@ I. Que se acredite la propiedad del mismo;
 
 II. Contar con el pago correspondiente a los derechos del Registro;
 
-III. Comprobar el pago de tenencia;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+III. El propietario deberá acreditar mediante el documento respectivo, estar al corriente del pago del Impuesto sobre Tenencia o Uso de Vehículos, del vehículo correspondiente;
 
 IV. En su caso, comprobar la baja del vehículo; y
 
@@ -557,9 +629,11 @@ El formato, manejo y demás características de las placas de circulación de ve
 
 Ninguna persona física o jurídica colectiva podrá fabricar placas de circulación sin autorización de la autoridad competente y con el estricto carácter de fabricante proveedor.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 37.
 
-La aportación (sic) de las placas de circulación, deberá acompañarse de la pega de engomados réplica de las placas, en lugar visible de los cristales de la unidad, sin afectar la visibilidad del conductor, pudiendo ser retirados de su lugar si por motivo de cambio de placas o por pago anual de tenencia vehicular, se dificultara esa visión, debiendo portarse en tal caso, la calcomanía relativa al último canje.
+La portación de las placas de circulación, deberá acompañarse de la pega de engomados réplica de las placas, en lugar visible de los cristales de la unidad, sin afectar la visibilidad del conductor, pudiendo ser retirados de su lugar si por motivo de cambio de placas o en virtud del comprobante en forma de holograma o engomado que se entrega por pago del Impuesto sobre Tenencia o Uso de Vehículos, se dificultara esa visión, debiendo portarse en tal caso, la calcomanía relativa al último canje.
 
 ###### ARTÍCULO 38.
 
@@ -619,6 +693,10 @@ Para detener la marcha de un vehículo, el conductor deberá manifestar su inten
 
 Todo vehículo para circular deberá someterse a la revisión técnica vehicular por parte de la autoridad de Tránsito y Vialidad para la comprobación del cumplimiento de las características técnicas exigidas por las disposiciones que rigen la materia.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+Los particulares que impartan enseñanza privada con fines de lucro para la conducción de vehículos deberán cerciorarse que éstos cuenten como mínimo con doble control y rótulo de auto escuela.
+
 ###### ARTÍCULO 51.
 
 Se prohíbe la circulación de vehículos a motor con escape libre sin el dispositivo silenciador de las explosiones. Asimismo queda prohibida la circulación de estos vehículos cuando los gases expulsados salgan desde el motor a través de un dispositivo incompleto, inadecuado, deteriorado o a través de tubos resonadores o cualquier otro dispositivo que no evite la proyección al exterior de combustibles ya quemados o gases que puedan dificultar la visibilidad de los conductores de otros vehículos o que resulten dañinos.
@@ -641,19 +719,25 @@ En el caso que la vía pública a la cual se incorpore el vehículo, tenga más 
 
 Todo vehículo que se incorpore a la circulación desde una vía particular, inmueble, estacionamiento o se ponga en marcha después de una detención, carece de derecho preferente de paso respecto de los peatones o vehículos en tránsito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-En las vías públicas los vehículos siempre deberán circular por la mitad derecha de la calle, salvo en los siguientes casos:
+Los vehículos siempre deberán circular por la mitad derecha de la vía pública, salvo en los siguientes casos:
 
 I. Cuando rebase a otro vehículo que va en el mismo sentido;
 
-II. Cuando la circulación por la mitad derecha de una calle esté impedido por construcciones, reparaciones u otros accidentes que alteren la normal circulación;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+II. Cuando la circulación por la mitad derecha esté impedida por construcciones, reparaciones u otros accidentes que alteren la normal circulación;
 
 III. En la circulación urbana cuando la calle tenga demarcadas tres (3) o más carriles de circulación en un mismo sentido; y
 
 IV. En la circulación urbana cuando la calle esté exclusivamente señalada para el tránsito en un solo sentido.
 
-Los vehículos de carga deberán en todo momento únicamente (sic) por el carril extremo derecho de la vía pública; salvo lo señalado en la fracción II de este artículo.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+Los vehículos de carga deberán en todo momento circular únicamente por el carril extremo derecho de la vía pública; salvo lo señalado en la fracción II de este artículo.
 
 ###### ARTÍCULO 56.
 
@@ -663,9 +747,11 @@ Cuando una calle tenga dos o más carriles en el mismo sentido de circulación, 
 
 Cuando se circule en zonas urbanas por calles con al menos dos carriles reservados para el mismo sentido de circulación, delimitados con marcas longitudinales, el conductor podrá utilizar el carril de extrema izquierda utilizando la velocidad máxima permitida y el de su extrema derecha cuando circule a menor velocidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 58.
 
-En las curvas y cambios de reducida visibilidad, los vehículos circularán en todas las vías públicas por la derecha y lo más cerca posible del borde de la calle, manteniendo la separación lateral suficiente para continuar la marcha con seguridad y sin entorpecer el tráfico.
+En todas las vías públicas, en las curvas y tramos de reducida visibilidad, los vehículos circularán siempre por la derecha y lo más cerca posible del borde de la vía, manteniendo la separación lateral suficiente para continuar la marcha con seguridad y sin entorpecer el tráfico.
 
 ###### ARTÍCULO 59.
 
@@ -675,15 +761,21 @@ La utilización de los carriles destinados al tránsito de vehículos se ajustar
 
 En las vías públicas restringidas, la circulación de vehículos y de peatones se hará conforme a lo determinado por la autoridad de tránsito mediante la señalización correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 61.
 
-El conductor circulará a velocidad permitida y si fuera preciso detendrá el vehículo cuando las circunstancias lo exijan, especialmente en los siguientes casos.
+El conductor deberá reducir la velocidad y aun si fuera preciso detendrá el vehículo, cuando las circunstancias lo exijan, especialmente en los siguientes casos.
 
 I. Cuando haya animales en la parte de la vía pública que se esté utilizando o pueda racionalmente preverse su irrupción en la misma;
 
-II. Al aproximarse a un vehículo de servicio público de transporte efectuando ascenso y descenso de pasajeros, si se trata de un vehículo de transporte escolar, el conductor hará alto total;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-III. En zona extraurbana o rural, al acercarse a vehículos estacionados en la calle;
+II. Al aproximarse a un vehículo de servicio público de transporte que esté efectuando ascenso o descenso de pasajeros, y si éste es un vehículo de transporte escolar, el conductor hará alto total;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+III. En zona extraurbana o rural, al acercarse a vehículos estacionados en el arroyo vehicular;
 
 IV. Al circular por pavimento derrapante o cuando puedan salpicar o proyectar agua, grava u otras materias a los demás usuarios de la vía;
 
@@ -723,9 +815,11 @@ IV. A un transporte escolar que haya encendido sus luces de advertencia para baj
 
 V. A un vehículo de emergencia usando sirena, faros o torreta de luz roja;
 
-VI. A un vehículo que está siendo rebasando (sic) por otro; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-VII. A un vehículo que ya este siendo rebasado por otro.
+VI. Al vehículo que inicie la acción de rebasar cuando el inmediato posterior ya lo esté realizando.
+
+VII. (DEROGADA, P.O. 12 DE MAYO DE 2007)
 
 ###### ARTÍCULO 64.
 
@@ -765,9 +859,11 @@ II. Para los vehículos con peso mayor al anterior, la distancia será igual que
 
 Cuando las condiciones sean adversas, que limiten la visibilidad o hagan difícil la conducción de vehículos, se deberán aumentar las distancias antes referidas, de acuerdo a las circunstancias.
 
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007))
+
 ###### ARTÍCULO 69.
 
-Se restringe la circulación de vehículos de carga con peso bruto vehicular mayor a cinco mil kilogramos, de tres o más ejes y los tractocamiones en el primer cuadro de la Ciudad y sus calles principales o avenidas que no estén consideradas como corredores de transporte pesado.
+Se restringe la circulación de vehículos de carga con peso bruto vehicular mayor a diez mil kilogramos, de tres o más ejes y los tractocamiones en el primer cuadro de la Ciudad y sus calles principales o avenidas que no estén consideradas como corredores de transporte pesado.
 
 La Autoridad de Tránsito analizará cada caso específico y podrá autorizar la circulación de alguno de estos vehículos, estableciendo en el permiso las fechas, horarios y demás condiciones que se requieran para la expedición de los mismos. Para el caso de vehículos de tracción animal o humana se restringe su circulación por carriles de alta velocidad.
 
@@ -847,7 +943,9 @@ Las vueltas deberán realizarse de la siguiente manera:
 
 l. Para cualquier tipo de vuelta o cambio de dirección:
 
-a) Tomar su carril correspondiente y las normas básicas señaladas en el artículo 17 fracción II, lo anterior desde una distancia de aproximadamente 25 metros antes del lugar a donde se vaya a dar la vuelta. Se permitirá vuelta en más de una fila, cuando en el lugar así se permita mediante señalamientos;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+a) Tomar su carril correspondiente y observar las normas básicas señaladas en el artículo 17 fracción II de este Reglamento. Lo anterior, desde una distancia de aproximadamente 25 metros antes del lugar a donde se vaya a dar la vuelta. Se permitirá vuelta en más de una fila, cuando en el lugar así se permita mediante señalamientos;
 
 b) Antes de efectuar la maniobra se deberá reducir gradualmente la velocidad; y
 
@@ -867,17 +965,23 @@ III. Al entrar a la calle trasversal, deberán hacerlo a la derecha del centro d
 
 En los lugares donde existan carriles diseñados o señalados para realizar vueltas exclusivamente, queda prohibida la circulación en sentido diferente al diseñado o señalado.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 79.
 
-Donde haya carriles secundarios, el sentido de circulación de éstos será el mismo que tenga el carril principal contíguo.
+Donde haya carriles secundarios, el sentido de circulación de éstos será el mismo que tenga el carril principal contiguo. Los carriles de "contraflujo" deberán ser usados exclusivamente por los vehículos del servicio público autorizados para ello, así como por vehículos de emergencia que se encuentren prestando un servicio, sin que les esté permitido salirse de ellos para rebasar. Los demás conductores deberán extremar las precauciones al circular por los carriles aledaños a ellos, así como al cruzarlos.
+
+La Dirección General podrá autorizar la circulación de vehículos en carriles de “contraflujo” para agilizar la circulación, así como la habilitación de dichos carriles.
 
 ###### ARTÍCULO 80.
 
 Los vehículos cuyas dimensiones dificulten realizar las vueltas en los carriles correspondientes, podrán hacerlo de manera diferente de acuerdo a sus necesidades, pero deberán extremar sus precauciones procurando evitar accidentes.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 81.
 
-El conductor al realizar vuelta en ”U”, en cruceros donde la calle transversal es de doble circulación, además de ceder el paso a los vehículos que circulen en sentido opuesto, debe ceder el paso a los vehículos que circulando por la calle transversal estén dando vuelta a la derecha.
+El conductor al realizar vuelta en “U”, en cruceros permitidos, donde la calle transversal es de doble circulación, además de ceder el paso a los vehículos que circulen en sentido opuesto, debe ceder el paso a los vehículos que circulando por la calle transversal estén dando vuelta a la derecha hacia el carril al que se incorporará.
 
 ###### ARTÍCULO 82.
 
@@ -905,25 +1009,23 @@ Todo conductor, deberá someterse a lo dispuesto en la Ley, este Reglamento y cu
 
 Los conductores tienen la responsabilidad, en todo momento, de controlar sus vehículos, así como de la conducta de sus pasajeros. Al aproximarse a otros usuarios de la vía pública deberán adoptar las precauciones necesarias para la seguridad de los mismos, especialmente cuando se trate de niños, adultos mayores o discapacitados.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 85.
 
-El conductor en la vía pública gozará de los siguientes derechos:
+Los conductores tendrán derecho de circular por las vías públicas de competencia estatal o municipal.
 
-I. Circular por la red estatal de carreteras;
-
-II. Circular por las calles, andadores, avenidas, boulevards (sic);
-
-III. Circular por caminos pavimentados o de terracería en zonas urbanas o extraurbanas; y
-
-IV. Circular por caminos pavimentados o de terracería en zonas rurales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 86.
 
-Los Conductores indistintamente, tendrán las siguientes obligaciones:
+Los conductores tendrán las siguientes obligaciones:
 
 l. Portar la licencia de manejo de la clase o el permiso correspondiente, la tarjeta de circulación del vehículo que conduce, vigente y en original;
 
-II. Verificar que el vehículo para su circulación y adecuado funcionamiento, cuente con sistemas de alumbrado, frenos, aditamentos y demás características y condiciones de seguridad, que conforme a las especificaciones técnicas y legales corresponda a cada tipo de vehículo y servicio que en él se preste;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+II. Asegurarse del buen funcionamiento del vehículo de manera que permita una adecuada circulación; y que cuente con sistemas de alumbrado, frenos, aditamentos y demás características y condiciones de seguridad, que conforme a las especificaciones técnicas y legales corresponda a cada tipo de vehículo y servicio que en él se preste; de igual forma está obligado a constatar que el vehículo no tenga los cristales polarizados del parabrisas y de las ventanillas del conductor y de su acompañante en su extrema derecha;
 
 III. Deberá conducir el vehículo a una distancia prudente de otra unidad que le precede, tomando en cuenta la velocidad de marcha permitida;
 
@@ -937,11 +1039,15 @@ VII. Evitar que las personas carentes de licencia o permiso para manejar, con do
 
 VIII. Respetar y obedecer las indicaciones establecidas en los señalamientos preventivos, restrictivos e informativos;
 
-IX. Mantener el control del vehículo durante la circulación y conducirlo conforme a las normas de seguridad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+IX. Mantener el control del vehículo durante la circulación y conducirlo conforme a las normas de seguridad, así como evitar el consumo de cualquier clase de alimentos o bebidas, o efectuar cualquier clase de arreglo personal al conducir;
 
 X. Ceder el paso a todo peatón que en uso de sus derechos esté cruzando una vía pública en los lugares permitidos para tales efectos; aun cuando sobrevenga un cambio de señal en los semáforos que regulan la circulación;
 
-XI. Usar como todos los pasajeros, el cinturón de seguridad; no transportar niños menores de diez años en el asiento de copiloto, ubicar a los menores de esta edad en los asientos traseros y en sillas especiales cuando se trate de infantes de hasta cinco anos de edad, tomar todas las precauciones en resguardo de la seguridad de los demás conductores y peatones;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XI. Usar como todos los pasajeros, el cinturón de seguridad; no transportar niños menores de diez años en el asiento de copiloto, ubicar a los menores de ésta edad en los asientos traseros y en sillas especiales cuando se trate de infantes de hasta cinco anos de edad. Tratándose de vehículos que tienen una sola fila de asientos, el infante podrá ir al lado del conductor con un cinturón de seguridad especial para niños y nunca en las extremidades del copiloto. Deberá en todo caso tomar todas las precauciones en resguardo de la seguridad de los demás conductores y peatones;
 
 XII. Los conductores deberán detener su marcha cuando el Agente en el ejercicio de las atribuciones que le otorga la Ley y el presente Reglamento, le solicite en los siguientes casos:
 
@@ -951,13 +1057,19 @@ b) Cuando en comisión del servicio o en colaboración con otras autoridades as�
 
 XIII. Proporcionar al Agente, cuando éste así lo solicite y por algún supuesto de la Ley o de este Reglamento, la licencia o permiso, así como la tarjeta de circulación correspondiente;
 
-XIV. Utilizar únicamente la calle sobre la derecha y en el sentido señalado, respetando las vías públicas o carriles exclusivos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-XV. En calles de una sola circulación, deberá conducir solamente en el sentido de la misma;
+XIV. Utilizar únicamente la vía pública sobre la derecha y en el sentido señalado, respetando las vías públicas o carriles exclusivos;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XV. En vías públicas de una sola circulación, deberá conducir solamente en el sentido de la misma;
 
 XVI. Cerciorarse que el vehículo, incluyendo acoplados y semirremolques, tengan colocadas las placas de circulación; y
 
-XVII. Deberá ostentar el comprobante de seguro de responsabilidad frente a terceros por daños resultantes de accidentes, en vigencia.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XVII. Deberá conservar vigente el seguro de responsabilidad frente a terceros por daños resultantes de accidentes, y portar el comprobante correspondiente.
 
 La no observancia de estas disposiciones generará la infracción correspondiente, en los términos que señale el presente Reglamento.
 
@@ -969,7 +1081,9 @@ I. Conducir bajo los efectos de bebidas alcohólicas o de sustancias tóxicas, e
 
 II. Entorpecer la circulación de otros vehículos al detener o estacionar la unidad en doble fila;
 
-III. Abstenerse del uso inmoderado del equipo de audio de su unidad, de tal forma que su volumen contamine el medio ambiente, impida percibir sonidos que le permitan la adecuada conducción de su vehículo, así como ocasionar molestias a las demás personas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+III. Usar el equipo de audio de su unidad, de tal forma que su volumen contamine el medio ambiente, en términos de lo previsto en las disposiciones en la materia o bien impida percibir sonidos que le permitan la adecuada conducción del vehículo u ocasione molestias a las demás personas;
 
 IV. Detenerse o estacionarse a menos de 5 metros de las esquinas de calles y avenidas, así como de entradas y salidas de servicios de emergencia;
 
@@ -983,19 +1097,25 @@ VIII. Llevar entre su cuerpo y el volante a personas, animales u objetos que dif
 
 IX. Estacionarse en paradas destinadas al transporte de servicio público;
 
-X. Utilizar equipos o dispositivos auriculares conectados a aparatos receptores o reproductores de sonido. Así como aparatos electrónicos y de comunicación cuando distraigan la atención del conductor y limiten la maniobra del vehículo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+X. Utilizar equipos o dispositivos auriculares conectados a aparatos receptores o reproductores de sonido que entorpezcan la audición en ambos oídos, así como aparatos electrónicos o de comunicación cuando distraigan la atención del conductor y limiten la maniobra del vehículo con ambas manos;
 
 XI. Efectuar competencias de cualquier tipo o arrancones en las vías públicas y en los sitios permitidos sin autorización de la autoridad correspondiente;
 
 XII. Cambiar frecuente e innecesariamente de carril;
 
-XIII. Utilizar su vehículo sin el permiso autorizado para la enseñanza de manejo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XIII. Utilizar el vehículo, sin el permiso correspondiente y con fines de lucro, para la enseñanza de manejo;
 
 XIV. Conducir sin luces delanteras, traseras, indicadoras de frenados, direccionales y/o de reversa;
 
 XV. Darse a la fuga después de provocar un accidente;
 
-XVI. Realizar actos inmorales dentro del vehículo sobre la vía pública en movimiento;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XVI. Realizar conductas dentro del vehículo que impidan la correcta conducción del mismo;
 
 XVII. Circular en las banquetas con el vehículo automotor;
 
@@ -1003,19 +1123,29 @@ XVIII. Hacer uso de la vía pública para fines ajenos al tránsito, sin previa 
 
 XIX. Remolcar vehículos con unidades inadecuadas;
 
-XX. Circular sin espejos retrovisor o el lateral izquierdo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XX. Circular sin el espejo retrovisor o el lateral izquierdo, o con el parabrisas dañado que impida la correcta visibilidad;
 
 XXI. Circular con vehículos con bandas de rodamiento metálicas o con grapas, tetones, cadenas, unas u otro elemento que dañe la superficie de rodamiento;
 
 XXII. Pasar sobre una doble raya continua, bollas o transitar sobre la línea divisoria que demarca los carriles;
 
-XXIII. Abastecer de combustible en la vía pública (gas L.P.);
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XXIII. Abastecer a un vehículo en la vía pública con Gas Licuado de Petróleo (L.P.);
 
 XXIV. Permitir el ascenso o descenso del vehículo de personas en lugares que no estén autorizados para este fin;
 
 XXV. Aprovecharse de la preferencia que goza un vehículo de emergencia que ha activado sus dispositivos o sirenas para circular al lado o detrás de él; y
 
-XXVI. Que porten en los parabrisas y ventanillas, rótulos, carteles y objetos que obstaculicen la visibilidad del conductor. En los vehículos que porten polarizados deberán retirarlo del parabrisas, ventanillas del conductor y de su copiloto, pudiendo dejar las demás ventanillas con una capa leve que no impida la visibilidad al interior del vehículo o los que por el fabricante traiga los cristales tintados de agencia. En caso de que el agente note sospecha alguna, por la posible comisión de un ilícito, se procederá a la detención del vehículo.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XXVI. Portar polarizado en el parabrisas del vehículo y las ventanillas del conductor y de su acompañante de su extrema derecha. El polarizado se permitirá en el resto de las ventanillas siempre y cuando permita distinguir a los pasajeros del vehículo desde el exterior. Éstas medidas de seguridad deberán observarse incluso en vehículos destinados al ejercicio de las funciones públicas del Estado. Igualmente se permitirán los cristales que traigan tintados de planta por el fabricante;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XXVII. Portar en el parabrisas o ventanillas del vehículo rótulos, carteles u objetos que obstaculicen la visibilidad del conductor, así como transportar paquetes, bultos o cualquier carga o elemento que impidan la visibilidad.
 
 ###### ARTÍCULO 88.
 
@@ -1029,7 +1159,9 @@ I. OBLIGACIONES:
 
 a) Tanto el pasajero como el conductor de la motocicleta o similar deberán hacer uso del casco de seguridad. Si la motocicleta no lleva parabrisas, el conductor deberá usar además anteojos o casco integral con visera;
 
-b) Usar vestimenta o elementos reflejantes en su ropa para aumentar las condiciones de seguridad en el manejo;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+b) Conservar visibles y/o instalar elementos reflejantes en el vehículo para aumentar las condiciones de seguridad en el manejo;
 
 c) Reducir la velocidad cuando las señales o autoridades de Tránsito y Vialidad así lo indiquen;
 
@@ -1037,13 +1169,21 @@ II. PROHIBICIONES:
 
 a) Transportar carga cuyo volumen dificulte la conducción del vehículo.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 b) Hacer uso de la corneta o bocina en las áreas urbanas, sin motivo.
 
-Circular con el escape sin silenciador.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-c) Transportar mayor número de personas que aquel para el cual fueron diseñados, equipados o autorizados; y
+c) Circular con el escape sin silenciador.
 
-d) Circular por las zonas peatonales, andenes laterales o lugares destinados al tránsito de peatones;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+d) Transportar mayor número de personas que aquel para el cual fue diseñado, equipado o autorizado el vehículo; y
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+e) Circular por las zonas peatonales, andenes laterales o lugares destinados al tránsito de peatones
 
 ###### ARTÍCULO 90.
 
@@ -1091,9 +1231,13 @@ IV. No podrán llevar a los vehículos corriendo por la vía en las inmediacione
 
 V. No podrán circular por las autopistas y en general, por aquellas vías públicas que expresamente determinen las autoridades de tránsito;
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 93.
 
-Los conductores que transporten carga de material suelto, deberán cubrir ésta con toldos o lonas especiales, de manera que ésta no se derrame o disemine por la atmósfera en detrimento o perjuicio del medio ambiente y la vialidad.
+Los conductores de vehículos de carga que transporten material a granel, deberán cubrirlo con toldos o lonas especiales, de manera que no se derrame o disemine por la atmósfera en detrimento o perjuicio de terceros, del medio ambiente o de la vía pública.
+
+Los vehículos de carga deberán portar en la parte posterior loderas, antillantas o cubrellantas y en general, cualquier aditamento que evite proyectar objetos hacia atrás.
 
 ###### ARTÍCULO 94.
 
@@ -1103,7 +1247,9 @@ Ningún vehículo podrá transportar sustancias tóxicas, que generen contaminac
 
 No se podrán transportar cargas:
 
-I. Que excedan la capacidad máxima de carga del vehículo;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+l. Que excedan la capacidad máxima de carga del vehículo, con la limitación prevista en el artículo 69 de este reglamento;
 
 II. Que excedan el ancho máximo permitido;
 
@@ -1111,9 +1257,17 @@ III. Que excedan la altura máxima permitida;
 
 IV. Que impidan la apertura de las puertas de la cabina del conductor;
 
-V. Que arrastren sobre la vía pública; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
 
-VI. Que produzcan contaminación atmosférica o de ruido.
+V. Que arrastren sobre la vía pública;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VI. Que produzcan contaminación atmosférica o de ruido; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VII. Que excedan el largo del vehículo sin colocar en la parte trasera más sobresaliente un indicador de peligro. En ningún caso, la dimensión de la carga que sobresalga podrá exceder en más de un cuarto de la longitud del vehículo.
 
 ###### ARTÍCULO 96.
 
@@ -1132,6 +1286,10 @@ I. Podrán parar o estacionarse en cualquier sitio y excepcionalmente, podrán c
 II. Podrán continuar circulando sin detenerse ante un semáforo con luz roja o una señal de “ALTO”, siempre disminuyendo la velocidad para hacerlo con seguridad, debiendo accionar para ello las luces intermitentes y/o sirenas; y
 
 III. Deberán usar el faro delantero de luz roja intermitente y las sirenas o señales de alarma de que estén dotados según los casos, a fin de advertir a los demás conductores y peatones su situación de emergencia y exigir preferencia de paso a los vehículos en circulación.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2007)</small>
+
+IV. Podrán circular a mayor velocidad de la permitida cuando las circunstancias especiales del caso lo requieran y extremando las precauciones necesarias para evitar un accidente.
 
 En el caso que la autoridad de Tránsito y Vialidad se percate que de manera injustificada acciona sus dispositivos de emergencia con el propósito de incitar el aumento de la velocidad de las unidades que le anteceden, será sujeto el conductor a la infracción correspondiente y será reportado por tal acto a la institución que pertenece.
 
@@ -1169,7 +1327,9 @@ IX. A menos de 15 metros de un cruce a nivel;
 
 X. En dispositivos habilitados para permitir el regreso de vehículos en las calles sin salida;
 
-XI. En las curvas de visibilidad reducida y en los cambios de pendiente que no permitan distinguir la continuidad de la vía;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+XI. En las curvas y en los cambios de pendiente que no permitan distinguir la continuidad de la vía;
 
 XII. En cualquier sitió donde lo prohíban las autoridades o las señales de tránsito;
 
@@ -1179,9 +1339,15 @@ XIV. En los lugares específicos para ascenso y descenso para discapacitados tal
 
 XV. En un carril de circulación.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+Las empresas o personas físicas que presten servicio de transporte de pasajeros o de carga deberán establecer sus propios patios o terminales para permitir el estacionamiento de sus vehículos durante el día y la noche;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 102.
 
-La parada o estacionamiento de un vehículo en zonas extraurbanas deberá efectuarse siempre fuera de la calle, en el lado derecho de la misma y dejando libre la parte transitable de la orilla o margen de la vía.
+La parada o estacionamiento de un vehículo en zonas extraurbanas deberá efectuarse siempre en el lado derecho de la vía, con la mayor aproximación a la orilla, pero dejando libre una parte suficiente para el tránsito de peatones.
 
 ###### ARTÍCULO 103.
 
@@ -1221,13 +1387,17 @@ Los vehículos de emergencia y transporte de combustible y explosivos usarán fa
 
 Para advertir la presencia en la vía de cualquier obstáculo o peligro creado, el causante del mismo deberá señalizarlo en forma eficaz, tanto de día como de noche, de conformidad con lo dispuesto en este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 110.
 
-Los conductores de vehículos de motor que deban permanecer estacionados en una vía extraurbana durante la noche, deberán cumplir los siguientes requisitos:
+Los conductores de vehículos de motor que tengan que permanecer estacionados en una carretera o autopista durante la noche, deberán cumplir los siguientes requisitos
 
 I. Mantendrán encendidas las luces intermitentes del vehículo; y
 
-II. Deberán colocar en la parte trasera y sobre la calle a una distancia de 50 metros, un cono o una señal triangular de peligro reflejante.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+II. Deberán colocar en la parte trasera y sobre la vía pública a una distancia de 100 metros, un cono o una señal reflejante triangular que indique el peligro.
 
 ###### ARTÍCULO 111.
 
@@ -1255,11 +1425,15 @@ IV. SALIDA DEL ARROYO DE CIRCULACIÓN.- Cuando un conductor pierde el control de
 
 V. ESTRELLAMIENTO.- Cuando un vehículo en movimiento en cualquier sentido choca con algo que se encuentra provisional o permanentemente estático;
 
-VI. VOLCADURA.- Cuando un vehículo pierde completamente el contacto entre llantas y superficie de rodamiento originándose giros verticales o transversales;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VI. VOLCADURA.- Cuando un vehículo pierde completamente el contacto entre llantas y la superficie de rodamiento como consecuencia de giros sobre los ejes longitudinales o transversales del vehículo;
 
 VII. PROYECCIÓN.- Cuando un vehículo en movimiento choca con o pasa sobre alguien o algo o lo suelta y lo proyecta contra alguien o algo, la proyección puede ser de tal forma que lo proyectado caiga en el carril o trayectoria de otro vehículo y se origine otro accidente;
 
-VIII. ATROPELLAMIENTO.- Cuando un vehículo en movimiento impacta contra una o más personas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+VIII. ATROPELLAMIENTO.- Cuando un vehículo en movimiento impacta o arrolla a una o más personas;
 
 IX. CAÍDA DE PERSONA.- Cuando una persona cae hacia fuera o dentro de un vehículo en movimiento;
 
@@ -1293,7 +1467,9 @@ II. En caso de que haya pérdida de vidas humanas, dar aviso inmediato al Agente
 
 III. En caso de lesionados, solicitará o prestará auxilio inmediato según las circunstancias y turnará el caso al Agente del Ministerio Público que corresponda;
 
-IV. Evitar la fuga de conductores en caso de lesiones o pérdida de vidas humanas;
+REFORMADA, P.O. 12 DE MAYO DE 2007)
+
+IV. Evitar la fuga de los conductores involucrados;
 
 V. Realizar las investigaciones necesarias a la brevedad posible;
 
@@ -1337,7 +1513,7 @@ El arrastre de vehículos participantes en accidentes se hará por los servicios
 
 En un accidente en el que no se hayan producido pérdidas de vidas humanas o lesiones y que las partes involucradas hayan llegado a un convenio celebrado ante la Dirección General, el responsable podrá solicitar la liberación de su vehículo presentando la documentación requerida mediante la cuál se acredite fehacientemente la propiedad.
 
-### CAPÍTULO ÚNICO. MEDIDAS CAUTELARES
+### CAPÍTULO I. MEDIDAS CAUTELARES
 
 ###### ARTÍCULO 118.
 
@@ -1351,9 +1527,15 @@ Un peatón será responsable de un incidente de tránsito siempre y cuando el ve
 
 Todo incidente de tránsito será sancionado por la autoridad responsable conforme a la Ley de Tránsito del Estado, este Reglamento y demás legislación relativa aplicable.
 
-## TÍTULO SÉPTIMO. PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2007)</small>
 
-### CAPÍTULO II. DEL REGIMEN DE SANCIONES
+## TÍTULO SÉPTIMO. DE LAS MEDIDAS CAUTELARES Y DEL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE ACCIDENTES, INCIDENTES E INFRACCIONES DE TRÁNSITO PARA LA APLICACIÓN DE SANCIONES
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 121.
 
@@ -1377,25 +1559,51 @@ IV. Por encontrarse estacionado el vehículo en lugar prohibido o en doble fila,
 
 La autoridad de Tránsito y Vialidad o el concesionario de servicio de grúas al retirar los vehículos de la vía pública para remitirlos al depósito correspondiente, lo harán tomando las medidas necesarias para evitar que se produzca daños a los mismos;
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2007)</small>
+
+### CAPÍTULO III. DEL TABULADOR DE SANCIONES
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 122.
 
-Las infracciones a la Ley y el presente Reglamento deberán ser pagadas en un termino no mayor a sesenta días de manera ordinaria, a partir de la fecha de la expedición del acta de infracción.
+Tratándose de infracciones sancionadas con multa el infractor procederá a pagarlas ante la autoridad competente. Si el interesado no estuviere de acuerdo con la sanción impuesta podrá acudir ante la. Dirección General dentro de los cinco días hábiles siguientes para manifestar lo que a su derecho corresponda y ofrecer las pruebas que estime pertinentes, mediante escrito en el que acredite su personalidad, señale domicilio para oír y recibir citas y notificaciones y exponga de manera sucinta los hechos en que funde su inconformidad.
 
-Vencido el plazo anterior si no es pagada por el interesado, serán remitidas a la Secretaría de Administración y Finanzas, para que se proceda al cobro coactivo correspondiente.
+Una vez desahogadas las pruebas, la Dirección General procederá a emitir la resolución que proceda conforme a derecho dentro de los cinco días hábiles siguientes.
 
-Tratándose del ámbito de competencia la autoridad municipal, se turnarán a la Dirección de Finanzas Municipal para el cobro coactivo correspondiente.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 123.
 
-Las multas se fijan en días de salario mínimo general vigente en la zona y de acuerdo a las disposiciones que fija la Ley en cuanto a su gravedad.
+Las sanciones previstas en este Reglamento se graduarán y aplicarán de acuerdo al tabulador previsto en éste, en atención a la debida adecuación entre la gravedad y trascendencia del hecho, a los antecedentes del infractor, al peligro potencial creado para él mismo y para los demás usuarios de las vías de tránsito o de comunicación, al criterio de proporcionalidad y en su caso a su calidad de reincidente. En todo caso se deberá tener presentes los criterios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-La aplicación de las sanciones derivadas de las infracciones cometidas por cualquier usuario de la vía pública se sujetará a lo previsto por el siguiente tabulador de sanciones:
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-> <small>N. DE E. VEASE TEXTO ORIGINAL DEL TABULADOR DE SANCIONES EN EL P.O. DE 14 DE MARZO DE 2007, PAGINAS DE LA 44 A LA 51.</small>
+###### Articulo 124.
 
-###### ARTÍCULO 124.
+Las sanciones impuestas al infractor por incumplimiento a las disposiciones de la Ley y este Reglamento deberán ser pagadas en un plazo no mayor a sesenta días hábiles, contado a partir de la fecha de la expedición de la infracción o de la emisión de la resolución a que se refiere el articulo 122 de este Reglamento, a menos que opte por permutarla por el arresto correspondiente.
 
-Cuando alguna infracción no éste sancionada en el artículo anterior se aplicará la multa que corresponda conforme a la gravedad de la falta cometida, la que se impondrá tomando como base el tabulador a que se refiere el artículo anterior sin que se pueda exceder de treinta días de salario mínimo general vigente en la entidad.
+Vencido el plazo referido en el párrafo anterior si no es pagada por el interesado, serán remitidas a la Secretaría de Administración y Finanzas para que proceda al cobro coactivo correspondiente.
+
+Tratándose del ámbito de competencia la autoridad municipal, se turnarán a la Dirección de Finanzas Municipal para el cobro coactivo correspondiente.
+
+La Dirección General en forma indistinta a las horas del arresto previstas para los infractores, deberá considerar las condiciones particulares de éstos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2007)</small>
+
+###### ARTÍCULO 125.
+
+El tabulador de sanciones en lo que al "resumen del concepto de la infracción" se refiere tiene un fin preponderantemente orientador. En todo caso, se estará a lo dispuesto en los artículos de la Ley y el Reglamento descritos en el tabulador.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+###### ARTÍCULO 126.
+
+Las multas se fijan en días de salario mínimo general vigente en el Estado de Tabasco y de acuerdo a las disposiciones que fija la Ley en cuanto a su gravedad. La aplicación de las sanciones derivadas de las infracciones cometidas se sujetarán a lo previsto en el presente Reglamento, y por el siguiente tabulador, que establece cantidades mínimas y máximas de las sanciones en forma de multa o arresto que podrán ser impuestas:
+
+> <small>N. DE E. VEASE TABULADOR DE SANCIONES EN EL P.O. DE 12 DE MAYO DE 2007, PAGINAS DE LA 21 A LA 35.</small>
+
+Al infractor que pague la multa dentro de los quince días hábiles posteriores a la fecha de expedición, gozará de un descuento del 50%. En caso de que el infractor opte por el arresto y exista acumulación de infracciones en ningún caso podrá exceder de 36 horas.
 
 T R A N S I T O R I O S
 
@@ -1422,3 +1630,13 @@ SECRETARIO DE GOBIERNO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ,
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+PRIMERO.- Las reformas, adiciones y derogaciones al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco publicado en el suplemento 6732 al Periódico Oficial del Estado de fecha 14 de marzo de 2007 entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Al entrar en vigor las reformas, adiciones y derogaciones al presente Reglamento, se derogan todas las disposiciones de igual rango o naturaleza que se oponga al mismo.
+
+TERCERO.- El Reglamento de la Ley General de Tránsito y Vialidad será aplicable en el Estado de Tabasco, dejando de tener validez en el Municipio al que se le haya transferido el servicio público de tránsito de conformidad con lo que establecen los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 65 de la Constitución Política del Estado Libre y Soberano de Tabasco y hasta en tanto la autoridad municipal no emita el Reglamento respectivo.
