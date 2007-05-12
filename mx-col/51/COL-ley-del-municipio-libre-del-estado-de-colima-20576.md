@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2004-07-24"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -589,6 +589,10 @@ c) Establecer los servicios y verificar se realicen las funciones encomendadas a
 
 d) Coordinarse y asociarse con otro u otros municipios y con el gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+En el caso específico de los residuos sólidos podrá asociarse con el Gobierno del Estado, o sin él, con personas físicas o morales para que mediante la instalación de plantas de tratamiento, lleven a cabo la industrialización, comercialización y disposición final de los residuos.
+
 IV. En materia de hacienda pública:
 
 a) Administrar libremente su hacienda y los bienes destinados al servicio público municipal;
@@ -801,7 +805,7 @@ VI. Solicitar y obtener del tesorero municipal, la información relativa a la ha
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
-VII.- Vigilar que se presente al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, una vez aprobado por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado.
+VII.- Vigilar que se presente al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, una vez aprobado por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado;
 
 VIII. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del municipio, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
 
@@ -1109,7 +1113,7 @@ III. Realizar auditorías preventivas a las dependencias y entidades de la admin
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
 
-El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda publica municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión de hacienda y síndico municipal.
+El ejercicio de esta atribución deberá abarcar, en lo posible, la revisión a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten el patrimonio, la deuda publica municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento y elaborar el informe de resultados, mismo que será presentado a la comisión de hacienda y síndico municipal;
 
 IV. Vigilar preventivamente la correcta aplicación del gasto público;
 
@@ -1129,7 +1133,7 @@ X. Participar en la entrega-recepción de las dependencias y entidades de la adm
 
 XI.- Apoyar a la comisión de hacienda y síndico municipal en la elaboración del dictamen de revisión de los resultados semestrales de la cuenta pública municipal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
 
-Entregar a la comisión de hacienda y síndico municipal el informe de los resultados semestrales de la revisión practicada a las operaciones de la gestión municipal correspondientes a los períodos enero junio y julio diciembre de cada año, a más tardar el día 20 del mes siguiente a la conclusión del semestre de que se trate, así como toda la documentación que soporte dichos resultados.
+Entregar a la comisión de hacienda y síndico municipal el informe de los resultados semestrales de la revisión practicada a las operaciones de la gestión municipal correspondientes a los períodos enero junio y julio diciembre de cada año, a más tardar el día 20 del mes siguiente a la conclusión del semestre de que se trate, así como toda la documentación que soporte dichos resultados;
 
 XII. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
 
@@ -1179,6 +1183,10 @@ El ayuntamiento podrá crear fideicomisos públicos que promuevan e impulsen el 
 
 Se considerará fideicomiso público municipal cuando el municipio o un organismo paramunicipal sean fideicomitentes, se aplique o afecte presupuesto municipal al mismo o sea creado para la prestación de un servicio público municipal.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2007)</small>
+
+El Ayuntamiento Podrá Participar en convenios de asociación productiva, participación e inversión, o fideicomisos con el gobierno del Estado, o sin él, con personas físicas o morales, para la instalación de plantas de tratamiento para la industrialización, comercialización y disposición final de residuos.
+
 ## TÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
 ### CAPÍTULO II. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO
@@ -1215,7 +1223,9 @@ El ayuntamiento prestará los servicios públicos de la siguiente forma:
 
 I. Directa, a través de sus propias dependencias administrativas u organismos desconcentrados;
 
-II. A través de los organismos públicos descentralizados o fideicomisos públicos municipales creados para tal fin;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+II.- A través de los organismos públicos descentralizados, fideicomisos públicos municipales creados para tal fin o fideicomisos públicos, con la participación del Gobierno del Estado, o sin él, con personas físicas o morales, para la instalación de plantas de tratamiento para la industrialización, comercialización y disposición final de residuos;
 
 III. Mediante el régimen de concesión; y
 
@@ -1786,3 +1796,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
 
 TERCERO.- Para el caso de la aprobación por el Cabildo y su remisión al Congreso del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre del 2004, por única vez se amplía el plazo al 31 de agosto de 2004. Sujetándose la Contaduría Mayor de Hacienda y el Congreso del Estado para su revisión y fiscalización a la fecha establecida en el artículo 33 fracción XI de la Constitución local.
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
