@@ -4,7 +4,7 @@ identifier: "COL-ley-de-archivos-del-estado-de-colima-47109"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2005-11-26"
+last_updated: "2007-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2005.
 
@@ -277,7 +277,9 @@ I.- El Gobernador del Estado que fungirá como presidente;
 
 II.- El Presidente del Honorable Supremo Tribunal de Justicia del Estado quien fungirá como vicepresidente;
 
-III.- El Diputado presidente de la Comisión de Educación, Cultura, Ciencia y Tecnología del Honorable Congreso del Estado, quien fungirá como vicepresidente;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+III.- El Diputado Presidente de la Comisión de Educación, Cultura y Deportes, quien fungirá como Vicepresidente;
 
 IV.- Dos de los diez presidentes municipales designados por éstos quienes tendrán el carácter de vocales; y
 
@@ -354,3 +356,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 23 del mes de noviembre del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
