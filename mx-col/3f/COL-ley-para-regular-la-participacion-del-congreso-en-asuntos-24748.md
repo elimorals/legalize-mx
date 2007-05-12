@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-participacion-del-congreso-en-asuntos-24748
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-20"
-last_updated: "2002-04-20"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA PARTICIPACION DEL CONGRESO EN ASUNTOS MUNICIPALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 20 de abril de 2002.
 
@@ -79,7 +79,9 @@ III. Congreso, al Congreso del Estado;
 
 IV. Munícipe, al Presidente Municipal, Regidor o Síndico; y
 
-V. Comisión dictaminadora, a la Comisión de Gobernación y Poderes del Congreso.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2007)</small>
+
+V. Comisión dictaminadora, a la Comisión de Justicia, Gobernación y Poderes del H. Congreso del Estado de Colima.
 
 ### CAPITULO II. DE LA CREACION DE MUNICIPIOS
 
@@ -488,3 +490,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 18 días del mes de abril del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PENA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
