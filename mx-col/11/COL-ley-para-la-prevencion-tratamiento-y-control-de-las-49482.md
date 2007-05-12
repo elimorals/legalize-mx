@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2006-02-18"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -117,9 +117,13 @@ e).- Procuraduría General de Justicia del Estado;
 
 f).- Sistema Estatal para el Desarrollo Integral de la Familia;
 
-g).- Comisión de Salud y Asistencia Social del Congreso del Estado;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-h).- Comisión de Seguridad Pública, Prevención y Readaptación Social del Congreso del Estado;
+g).- Comisión de Salud, Asistencia Social, y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+h).- Comisión de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil Congreso del Estado;
 
 i).- Los Ayuntamientos de la entidad;
 
@@ -548,3 +552,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 28 días del mes de enero del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. JOSÉ SALAZAR AVIÑA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
