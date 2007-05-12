@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2006-04-04"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION Y ATENCION A LA VIOLENCIA INTRAFAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -157,9 +157,11 @@ El Consejo sesionará ordinariamente, cada tres meses, así como extraordinariam
 
 ### CAPITULO III. DE LAS FUNCIONES Y COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-Corresponde al H. Congreso del Estado por conducto de las comisiones de Seguridad Pública, Prevención y Readaptación Social y de Derechos Humanos, coadyuvar con las instituciones señaladas en el artículo 4º en todas las acciones necesarias para garantizar la operatividad de la presente ley.
+Corresponde al H. Congreso del Estado por conducto de las Comisiones de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil; y de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género, coadyuvar con las Instituciones señaladas en el artículo 4º en todas las acciones necesarias para garantizar la operatividad de la presente ley.
 
 ###### ARTICULO 12.
 
@@ -552,3 +554,7 @@ P.O. 26 DE NOVIEMBRE DE 2005.
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
