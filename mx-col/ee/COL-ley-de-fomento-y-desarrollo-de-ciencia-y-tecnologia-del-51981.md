@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-y-desarrollo-de-ciencia-y-tecnologia-del-51981"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2007-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO Y DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE COLlMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -41,7 +41,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O
 
-PRIMERO.-.
+PRIMERO.- .
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -205,19 +205,37 @@ g) Secretaría de Desarrollo Rural;
 
 h) Secretaría de Finanzas;
 
-i) Comisión de Educación, Cultura, Ciencia y Tecnología del Congreso del Estado;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-j) Dirección General de Ciencia y Tecnología de la Secretaría de Cultura;
+i) Comisión de Educación, Cultura y Deporte del Congreso del Estado;
 
-k) Un representante de las Universidades e Instituciones de Educación Superior Pública y Privadas;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2007)</small>
 
-l) Un representante de las Instituciones de Educación Media Superior, Públicas y Privadas;
+j) Comisión de Ciencia y Tecnología e Innovación Gubernamental del Congreso del Estado;
 
-m) Dirección General de Educación Tecnológica Industrial;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
 
-n) Sectores productivos; y
+k) Dirección General de Ciencia y Tecnología de la Secretaría de Cultura.
 
-ñ) Sector social.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+l) Un representante de las Universidades e Instituciones de Educación Superior Públicas y Privadas;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+m) Un representante de las Instituciones de Educación Media Superior, Públicas y Privadas;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+n) Dirección General de Educación y Tecnología Industrial;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+ñ) Sectores productivos; y
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+
+o) Sector social.
 
 Cada uno de los consejeros propietarios designará un suplente, quien deberá contar con facultades de decisión, como si se tratara del titular.
 
@@ -544,3 +562,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. LA SECRETARIA DE CULTURA, LICDA. ANA CECILIA GARCÍA LUNA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
