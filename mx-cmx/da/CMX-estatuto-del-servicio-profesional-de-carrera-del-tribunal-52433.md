@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-de-carrera-del-tribunal-52433
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-22"
-last_updated: "2006-12-22"
+last_updated: "2007-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52433&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-12-13"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO UNICO DE LA ADICION PUBLICADA EN LA G.O. DE 14 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO SUSPENDE SU VIGENCIA HASTA EN TANTO SE EFECTUEN LAS REFORMAS NECESARIAS AL MISMO Y SE PROVEA LO NECESARIO PARA LA ADECUADA INSTRUMENTACION Y DESARROLLO DE LA CARRERA JUDICIAL ELECTORAL.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2007.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 22 de diciembre de 2006.
 
@@ -813,3 +815,9 @@ México, Distrito Federal, a trece de diciembre de dos mil seis. DOY FE.
 (Firma)
 
 (Al margen inferior derecho un sello con el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL.- SECRETARIA GENERAL)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 14 DE MAYO DE 2007.
+
+ARTÍCULO TRANSITORIO ÚNICO. Se suspende la vigencia del presente Estatuto, hasta en tanto se efectúen las reformas necesarias al mismo y se provee lo necesario para la adecuada instrumentación y desarrollo de la carrera judicial electoral.
