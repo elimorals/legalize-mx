@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2006-del-pleno-del-consejo-de-la-49927"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-04"
-last_updated: "2007-03-09"
+last_updated: "2007-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-03-30"
 
 ACUERDO GENERAL 22/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REGULA LA CONSTITUCION, ORGANIZACION Y FUNCIONAMIENTO DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 17/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 4 de abril de 2006.
 
@@ -300,3 +302,21 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Lo dispuesto en el Artículo 24 de este Acuerdo (sic) será aplicable a la gestión financiera de los recursos del Fondo correspondiente a la anualidad de dos mil seis.
+
+D.O.F. 14 DE MAYO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo General 22/2006 del Pleno del Consejo de la Judicatura Federal, por el que se regula la constitución, organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, sus posteriores adiciones y modificaciones.
+
+TERCERO.- Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+CUARTO.- Respecto de bienes decomisados y no reclamados, que se hayan puesto a disposición del Poder Judicial de la Federación con anterioridad a la entrada en vigor de la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados, el producto de su enajenación, se integrará al Fondo, de acuerdo con lo dispuesto por el artículo 243, fracción II, de la Ley, dentro de los tres meses siguientes contados a partir del día en que se haya emitido el certificado de disponibilidad correspondiente.
+
+QUINTO.- El producto de la enajenación de los bienes no reclamados que se encuentren a disposición del Poder Judicial de la Federación, previa deducción de los gastos que se hayan ocasionado por su administración y venta, se ingresará al Fondo, de conformidad con la fracción IV, del artículo 243 de la Ley, dentro de los tres meses siguientes a la aprobación de este acuerdo.
+
+SEXTO.- Las Reglas de Operación del Comité Técnico del Fondo de Apoyo a la Administración de Justicia emitidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán siendo aplicables.
+
+SEPTIMO.- Las áreas competentes del Consejo pondrán a disposición de la Secretaría Técnica la información y documentos necesarios para que integre el registro a que se refiere el artículo 22 de este Acuerdo, dentro de los tres meses siguientes a la entrada en vigor del mismo.
+
+OCTAVO.- Publíquese este Acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
