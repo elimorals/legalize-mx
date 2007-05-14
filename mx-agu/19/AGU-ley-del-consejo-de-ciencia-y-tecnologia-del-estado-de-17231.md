@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-consejo-de-ciencia-y-tecnologia-del-estado-de-17231"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2005-08-08"
+last_updated: "2007-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 14 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -468,3 +470,43 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 14 DE MAYO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley que crea y regula el Consejo de Ciencia y Tecnología del Estado de Aguascalientes, publicada el día diez de abril del año dos mil en el Periódico Oficial del Estado de Aguascalientes y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+El organismo público descentralizado que se crea con el presente Decreto, conserva los recursos humanos materiales y presupuéstales del Consejo de Ciencia y Tecnología del Estado de Aguascalientes. Consecuentemente, quedan vigentes los compromisos y obligaciones adquiridas con anterioridad por el citado Consejo.
+
+###### ARTICULO CUARTO.
+
+El Consejo Directivo del CONCyTEA en un plazo de ciento ochenta días, contados a partir de la entrada en vigencia del presente Decreto, expedirá el Plan Estatal de Ciencia y Tecnología.
+
+###### ARTICULO QUINTO.
+
+Los actuales integrantes del Consejo Técnico, se sujetarán en cuanto a la duración de su encargo a los términos siguientes:
+
+a. El representante de la Universidad Autónoma de Aguascalientes, cuatro años;
+
+b. El representante de la Universidad la Concordia, cuatro anos;
+
+c. El representante de los Empresarios, cuatro años;
+
+El término antes indicado correrá a partir de la entrada en vigor de la presenta Ley.
+
+Los consejeros faltantes durarán en su encargo 6 años a partir de su nombramiento que deberá verificarse dentro de los primeros tres meses a la entrada en vigor de la presente Ley.
+
+###### ARTICULO SEXTO.
+
+El Consejo Directivo del CONCyTEA deberá expedir, los reglamentos y manuales en los que se establezcan las bases de organización del CONCyTEA, así como las facultades y funciones que correspondan a las distintas áreas que integran el organismo, dentro de los tres meses siguientes a la fecha en que entre en vigor esta Ley
+
+###### ARTICULO SEPTIMO.
+
+La Secretaria de Finanzas proveerá los recursos necesarios para el funcionamiento del Consejo de Ciencia y Tecnología del Estado de Aguascalientes, de conformidad con las partidas aprobadas en el Presupuesto de Egresos para el Estado de Aguascalientes.
