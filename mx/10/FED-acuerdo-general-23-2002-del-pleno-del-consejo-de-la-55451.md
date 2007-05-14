@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2002-del-pleno-del-consejo-de-la-55451"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-05-31"
-last_updated: "2002-05-31"
+last_updated: "2007-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-05-22"
 
 ACUERDO GENERAL 23/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION Y ABROGA EL DIVERSO ACUERDO GENERAL 50/2001 DEL PROPIO ORGANO COLEGIADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 13/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de mayo de 2002.
 
@@ -234,3 +236,31 @@ CUARTO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de 
 QUINTO.- Los conflictos de turno que se encuentren en trámite, se resolverán conforme a las reglas establecidas en el presente acuerdo.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: que este Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal, Que Regula el Funcionamiento de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación y Abroga el Diverso Acuerdo General 50/2001, del Propio Organo Colegiado, fue aprobado por el Pleno, en sesión de veintidós de mayo de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintidós de mayo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+> <small>(F. DE E., D.O.F. 28 DE MAYO DE 2007)</small>
+
+SEGUNDO.- Este acuerdo entrará en vigor el once de junio de dos mil siete.
+
+TERCERO.- A la entrada en vigor de este acuerdo el turno de los juzgados de Distrito de procesos penales federales en el Distrito Federal, iniciará la aplicación del artículo 3 en el reclusorio en que la oficina de correspondencia común se encuentre en funcionamiento, o, en su caso, deba trasladarse por haber concluido las tres semanas de turno conforme al orden establecido en el Acuerdo General 55/2000.
+
+CUARTO.- Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan a este acuerdo.
+
+QUINTO.- Se abroga el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
+
+SEXTO.- Los conflictos de turno que se encuentren en trámite ante la Comisión de Creación de Nuevos Organos a la fecha de entrada en vigor de este acuerdo, se resolverán conforme a las reglas establecidas en el artículo 6 del Acuerdo General 23/2002 del Pleno del Consejo de la Judicatura Federal.
+
+Asimismo, en el caso de que a la entrada en vigor de este acuerdo el titular de un órgano jurisdiccional haya declinado el turno y se llegue a originar el conflicto, el mismo será resuelto en los términos del párrafo anterior.
+
+SEPTIMO.- Las oficinas de correspondencia común continuarán aplicando los criterios de relación de asuntos que tienen implementados en sus respectivos sistemas de cómputo, a los cuales, en su momento se incorporarán las nuevas disposiciones indicadas en el primer párrafo del artículo 17.
+
+OCTAVO.- Las auditorías a las oficinas de correspondencia común llevadas a cabo por la Contraloría del Poder Judicial de la Federación y que se encuentren en trámite a la entrada en vigor del presente acuerdo, deberán ser concluidas por parte de ese Organo Interno de Control.
+
+NOVENO.- El personal adscrito a la Contraloría del Poder Judicial de la Federación que a la entrada en vigor de este acuerdo esté asignado para realizar auditorías a las oficinas de correspondencia común, deberá ser transferido a la Dirección General de Estadística y Planeación Judicial, una vez que se concluyan aquéllas que se encuentren en trámite.
+
+DECIMO.- La ejecución del presente Acuerdo General no significará impacto económico alguno en el presupuesto del Consejo de la Judicatura Federal, toda vez que su implementación se deberá realizar con los recursos que tienen asignados las áreas correspondientes.
