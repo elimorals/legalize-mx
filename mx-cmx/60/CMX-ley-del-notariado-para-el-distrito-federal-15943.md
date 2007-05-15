@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2006-05-19"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -1126,6 +1126,14 @@ Al expedir el informe indicado, los archivos mencionarán en él a qué personas
 
 Cuando en un testamento público abierto se otorguen cláusulas que conforme a las leyes sean irrevocables, el Notario, sin revelar el contenido de dichas cláusulas, hará mención de ello en el aviso a que se refiere el artículo 121, lo cual asentará el Archivo en el registro a que se refiere el artículo 122. El Archivo, al contestar el informe que se solicite, deberá indicar el testamento o testamentos respecto de los cuales tenga asentado que existen dichas cláusulas irrevocables.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+
+###### Artículo 124 Bis.
+
+Siempre que ante un notario se otorgue la designación de tutor cautelar en los términos del capítulo I Bis, del título noveno, del libro primero del Código Civil, éste dará aviso al Archivo dentro de los cinco días hábiles siguientes, en el que expresará el número de escritura así como la fecha de su otorgamiento, el nombre y demás generales del otorgante, sin indicar la identidad de los designados, y recabará la constancia correspondiente.
+
+El Archivo llevará un registro especialmente destinado a asentar las inscripciones relativas a las designaciones de tutor cautelar con los datos que se mencionan en el párrafo anterior y entregará informes únicamente a notarios y a jueces competentes para hacerlo. A ninguna otra autoridad, incluyendo las de jerarquía superior, se entregarán informes sobre dichos actos ni los servidores públicos encargados podrán proporcionar datos relativos a persona alguna fuera del supuesto que se señala al principio de este párrafo.
+
 B. Actas
 
 ###### Artículo 125.
@@ -1942,7 +1950,9 @@ XII. Devolver a los notarios, en los plazos previstos por esta ley, los expedien
 
 XIII. Regularizar y autorizar en definitiva, los instrumentos que hubieren quedado pendientes de autorización por parte de un notario;
 
-XIV. Recibir de los notarios, los avisos de testamento para su depósito y custodia definitiva en el Archivo;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XIV.- Recibir de los notarios, los avisos de testamento y de designación de tutor cautelar para su depósito y custodia definitiva en el Archivo;
 
 XV. Recibir, para su deposito y custodia los testamentos ológrafos que presenten los particulares;
 
@@ -1954,7 +1964,7 @@ XVIII. Realizar anotaciones marginales de acuerdo a la función notarial, previs
 
 XIX. Registrar las patentes de aspirante y de notario, así como los convenios de asociación y de suplencia celebrados entre los notarios;
 
-XX. Recibir las inspecciones judiciales, cuando la ley así lo permita, y
+XX. Recibir las inspecciones judiciales, cuando la ley así lo permita, y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE ENERO DE 2006)</small>
 
@@ -2335,3 +2345,7 @@ G.O. 19 DE MAYO DE 2006.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE MAYO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
