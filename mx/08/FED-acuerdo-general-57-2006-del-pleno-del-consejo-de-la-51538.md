@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2007-03-23"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -169,7 +169,9 @@ VI.- SEXTO CIRCUITO:
 
 VII.- SEPTIMO CIRCUITO:
 
-1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
+
+1.- Siete tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y uno en materias penal y de trabajo con sede en Xalapa.
 
 2.- Dos tribunales unitarios con residencia en Boca del Río.
 
@@ -233,7 +235,9 @@ XIII.- DECIMOTERCER CIRCUITO:
 
 XIV.- DECIMOCUARTO CIRCUITO:
 
-1.- Tres tribunales colegiados especializados: dos en materias administrativa y civil; y uno en materias penal y de trabajo, todos con residencia en Mérida.
+> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
+
+1.- Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en Mérida.
 
 2.- Un tribunal unitario con sede en Mérida.
 
@@ -774,3 +778,21 @@ D.O.F. 23 DE MARZO DE 2007.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE MAYO DE 2007.
+
+ACUERDO 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE MAYO DE 2007.
+
+ACUERDO 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
+
+PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
