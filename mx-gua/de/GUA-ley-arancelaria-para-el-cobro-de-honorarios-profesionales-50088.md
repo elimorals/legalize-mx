@@ -4,7 +4,7 @@ identifier: "GUA-ley-arancelaria-para-el-cobro-de-honorarios-profesionales-50088
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-31"
-last_updated: "2006-03-31"
+last_updated: "2007-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ARANCELARIA PARA EL COBRO DE HONORARIOS PROFESIONALES DE ABOGADOS Y NOTARIOS Y DE COSTAS PROCESALES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 31 de marzo de 2006.
 
@@ -85,11 +85,15 @@ No se podrán cobrar honorarios profesionales ni costas procesales por las promo
 
 Tampoco se podrán cobrar honorarios profesionales ni costas procesales por las promociones o diligencias que no sean necesarias a juicio del juez competente para el éxito del litigio respectivo.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 12.
 
-Los honorarios profesionales que fija esta Ley solamente podrán cobrarse por abogados o notarios titulados que presenten en su reclamación su cédula profesional legalmente expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública Federal.
+Los honorarios profesionales que fija esta Ley solamente podrán cobrarse por los abogados que se encuentren en los supuestos de la Ley de Profesiones para el Estado de Guanajuato.
 
-Las costas procesales no requieren ser cobradas por abogado con título, porque las mismas se decretan a favor de la parte material del juicio; pero si la tramitación del incidente respectivo la realiza el abogado, éste deberá presentar la cédula profesional legalmente expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública Federal.
+Los notarios públicos en sus reclamaciones acreditarán su calidad mediante el fíat o la cédula de identidad a que se refiere la Ley del Notariado para el Estado de Guanajuato.
+
+Las costas procesales podrán ser cobradas por la parte material del juicio, porque las mismas se decretan a favor de ésta; pero si la tramitación del incidente respectivo la realiza el abogado, deberá ajustarse a lo previsto por la Ley de Profesiones para el Estado de Guanajuato.
 
 ###### Artículo 13.
 
@@ -250,3 +254,9 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MAYO DE 2007.
+
+Artículo Único. Este Decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado.
