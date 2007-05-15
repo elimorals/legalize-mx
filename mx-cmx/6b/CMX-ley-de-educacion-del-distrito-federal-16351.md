@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2007-02-06"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -100,15 +100,33 @@ a) Será democrático, considerando a la democracia no solamente como una estruc
 
 b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento racional de nuestros recursos preservando el medio ambiente, a la defensa de nuestra autodeterminación política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción por el interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales; y
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 15 DE MAYO DE 2007)</small>
 
-d) Reconocerá que el carácter pluriétnico y pluricultural de la sociedad mexicana es la base del respeto a las ideas de cada cual y de la tolerancia a todas las expresiones culturales y sociales.
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción por el interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales; y (sic)
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
+d) Reconocerá que el carácter pluriétnico y pluricultural de la sociedad mexicana es la base del respeto a las ideas de cada cual y de la tolerancia a todas las expresiones culturales y sociales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+e) Promoverá la permanencia de las niñas y mujeres en todos los niveles educativos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+f) Fomentará la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+g) Garantizará, en el ámbito de su competencia, que la educación en todos sus niveles se realice en el marco de igualdad sustantiva entre mujeres y hombres.
 
 ###### Artículo 10.
 
 La educación que imparta el Gobierno del Distrito Federal se basará en los principios del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos. Tendrá los siguientes objetivos:
 
-I. Desarrollar armónicamente las facultades del ser humano con criterios científicos, laicos, democráticos y de justicia social.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+I. Desarrollar armónicamente las facultades del ser humano con criterios de equidad, científicos, laicos, democráticos y de justicia social.
 
 II. Fortalecer la conciencia de la identidad nacional y de la soberanía, el aprecio por nuestra historia, el amor a la patria y la conciencia y actitud de solidaridad internacional, en el marco de la democracia, la paz y la autodeterminación de los pueblos.
 
@@ -148,11 +166,21 @@ XIX. Estimular actitudes solidarias y positivas hacia el trabajo, el ahorro y el
 
 XX. Auspiciar una educación que permita a la sociedad participar en la conducción del proceso educativo y alentar la construcción de relaciones democráticas.
 
-XXI. Promover actitudes de participación, tolerancia y pluralidad.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXI. Promover actitudes de participación, no discriminación, tolerancia y pluralidad, y fomentar el respeto de las diferencias.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 XXII. Propiciar una educación en ciencias de la computación, informática e Internet en todos los niveles, tipos y modalidades, incorporando asignaturas de tecnología de la información e informática con el propósito de dotar de modernas herramientas a los estudiantes del Distrito Federal como una forma de prepararlos para comprender y adaptarse a la sociedad y al mundo cambiante en el que vivimos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIII. Desarrollar contenidos educativos que eliminen los estereotipos de hombres y mujeres en sociedad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIV. Desarrollar programas educativos tendientes a crear y fortalecer una cultura de no violencia hacia la mujer.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -298,17 +326,23 @@ III. El secretario de Educación del Distrito Federal.
 
 IV. Las que establezcan las leyes, reglamentos y acuerdos de las instituciones educativas del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 16.
 
-El educando es la razón de ser del sistema educativo. Es un sujeto activo en el proceso formativo, tanto en lo individual como en lo social, debido a lo cual deben desarrollarse en él todas sus capacidades en beneficio propio y de su comunidad, sus juicios y toma de decisiones para propiciar la justicia, la libertad y la democracia, así como el aprecio a la vida, la honestidad, la veracidad, la solidaridad, la disciplina y la responsabilidad.
+El educando es la razón de ser del sistema educativo. Es un sujeto activo en el proceso formativo, tanto en lo individual como en lo social, debido a lo cual deben desarrollarse en él todas sus capacidades en beneficio propio y de su comunidad, sus juicios y toma de decisiones para propiciar la justicia, la libertad y la democracia, así como el aprecio a la vida, la honestidad, la veracidad, la solidaridad, la disciplina, la igualdad sustantiva y la responsabilidad.
 
 ###### Artículo 17.
 
 El educador es un factor de cambio social, promotor, conductor, coordinador y agente directo del proceso enseñanza-aprendizaje; por lo tanto, debe contar con los medios adecuados a los avances de la ciencia y la tecnología que le permitan realizar eficazmente su labor educativa; tendrá libertad para dosificar los programas de estudio y seleccionar los recursos didácticos y métodos pedagógicos. Su misión es educar para la vida tratando siempre de infundir en sus educandos los supremos valores de equidad, fraternidad, democracia y justicia social.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 18.
 
 Los planes y programas de estudio guían el proceso educativo; su contenido y forma de aplicación responderán a los intereses educativos de los alumnos de cada ciclo y grado y, en general, a los de la sociedad.
+
+Asimismo, responderán al fortalecimiento de la equidad entre mujeres y hombres, la cultura de no violencia hacia la mujer y la eliminación de la discriminación y de estereotipos de hombres y mujeres en la sociedad.
 
 ###### Artículo 19.
 
@@ -840,11 +874,11 @@ Para proporcionar educación abierta, por correspondencia y por cualquier medio 
 
 La educación que impartan las instituciones dependientes de la Secretaría de Educación del Gobierno del Distrito Federal, tiene como objetivo la construcción de una sociedad democrática, justa, equitativa y participativa.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 117.
 
-La Secretaría de Educación del Distrito Federal y sus organismos descentralizados tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
-
-Dichas medidas estarán dirigidas, preferentemente, a los grupos y zonas con mayor rezago educativo o que enfrenten condiciones económicas y/o sociales de marginación.
+La Secretaría de Educación del Distrito Federal y sus organismos descentralizados tomarán medidas tendientes a garantizar el ejercicio pleno del derecho a la educación de cada individuo, la equidad educativa así como el logro de la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
 ###### Artículo 118.
 
@@ -1475,3 +1509,9 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
