@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-las-mujeres-del-distrito-federal-23579"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2002-02-28"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23579&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-14"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -60,13 +60,17 @@ El objeto de la presente ley es la creación del Instituto de las Mujeres del Di
 
 Son sujetos de la ley, las mujeres y hombres que se encuentren en el Distrito Federal, sin discriminación por edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 4.
 
-El objeto general del Instituto es promover, fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en los ámbitos, social, económico, político, cultural y familiar, así como, diseñar, coordinar, aplicar y evaluar el Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres y los que de éste se deriven.
+El objeto general del Instituto es promover, fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en los ámbitos público y privado así como, diseñar, coordinar, aplicar y evaluar el Programa General de Igualdad de Oportunidades y no Discriminación hacia las mujeres y los que de éste se deriven, así como la correcta aplicación e instrumentación de las disposiciones de la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### Artículo 5.
 
-El Programa contendrá el conjunto de acciones orientadas a erradicar la discriminación hacia las mujeres y promoverá la igualdad de oportunidades y la participación equitativa entre hombres y mujeres, en la vida cultural, política, económica, familiar y social en el Distrito Federal.
+El Programa contendrá el conjunto de acciones orientadas a erradicar la discriminación hacia las mujeres y promoverá la igualdad de oportunidades y la participación equitativa entre hombres y mujeres, en los ámbitos público y privado en el Distrito Federal.
 
 ###### Artículo 6.
 
@@ -98,7 +102,11 @@ XII Transversalidad: herramienta metodológica para garantizar la inclusión de 
 
 XIII Acciones afirmativas: Medidas específicas de carácter temporal que se ponen en marcha para proporcionar ventajas concretas a las mujeres;
 
-XIV Agenda de las mujeres; plan propositivo que sugiere acciones inmediatas y que contiene los temas de las mujeres sobre los cuales es necesario generar políticas teniendo como marco referencial los instrumentos internacionales.
+XIV Agenda de las mujeres; plan propositivo que sugiere acciones inmediatas y que contiene los temas de las mujeres sobre los cuales es necesario generar políticas teniendo como marco referencial los instrumentos internacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XV.- Sistema; Sistema para la Igualdad entre Mujeres y Hombres del Distrito Federal.
 
 ###### Artículo 7.
 
@@ -112,7 +120,11 @@ III Desarrollo Integral;
 
 IV Transversalidad;
 
-V Transparencia en el diseño, promoción y ejecución de los programas del Instituto.
+V Transparencia en el diseño, promoción y ejecución de los programas del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+VI.- Los establecidos en la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal.
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO
 
@@ -122,31 +134,45 @@ V Transparencia en el diseño, promoción y ejecución de los programas del Inst
 
 El Instituto tendrá las siguientes atribuciones:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
+
 I Diseñar, coordinar, aplicar y evaluar el Programa;
 
 II Promover la difusión, reconocimiento y ejercicio de los derechos de las mujeres y la cultura de la denuncia ciudadana ante las autoridades competentes por la violación de los mismos;
 
-III Impulsar y coordinar con las dependencias de la Administración Pública acciones y políticas públicas contra la violencia y en materia de salud, educación, empleo, capacitación y deporte tendientes a garantizar la igualdad de oportunidades;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+III. Impulsar, coordinar y evaluar con y en las dependencias de la Administración Pública acciones y políticas públicas contra la violencia, la discriminación y en materia de salud, educación, empleo, capacitación y deporte tendientes a garantizar la igualdad de oportunidades, verificando la adopción de las medidas y programas establecidos;
 
 IV Difundir las disposiciones jurídicas y administrativas vigentes a favor de las mujeres, en el ámbito internacional, nacional y local;
 
-V Formar parte de la representación del Gobierno del Distrito Federal, en eventos en materia de equidad de género;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-VI Proponer a las autoridades locales del Distrito Federal, acciones dirigidas a mejorar la condición social de las mujeres, así como aquellas diseñadas para la erradicación de todas las formas de discriminación contra las mujeres, en todos los ámbitos de su desarrollo;
+V Participar en la representación del Gobierno del Distrito Federal, en eventos en materia de equidad de género y de las mujeres;
 
-VII Impulsar iniciativas de ley orientadas a la promoción de la equidad entre hombres y mujeres;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+VI Proponer, diseñar y aprobar conjuntamente con las autoridades del Distrito Federal, acciones dirigidas a mejorar la condición social de las mujeres, así como aquellas diseñadas para la erradicación de todas las formas de discriminación contra las mujeres, en todos los ámbitos de su desarrollo, y las necesarias para el cumplimiento de la presente ley, de la Ley Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+VII Impulsar iniciativas y reformas de ley orientadas a la promoción de la equidad entre hombres y mujeres, que faciliten la denuncia, simplifiquen los trámites jurisdiccionales y promuevan un mayor acercamiento a la autoridad para exigir el cumplimiento de los preceptos señalados en esta y las demás leyes aplicables;
 
 VIII Establecer un sistema de coordinación de trabajo con los órganos homólogos al Instituto en las entidades federativas que conforman la zona metropolitana;
 
 IX Propiciar la participación de los actores de la sociedad en el diseño formulación y evaluación de las políticas públicas con el objeto de alcanzar la equidad entre hombres y mujeres;
 
-X Conocer de actos de discriminación que se hayan hecho del conocimiento de las instituciones y autoridades del sector privado y social;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+X. Conocer de actos de discriminación que se hayan hecho del conocimiento de las instituciones y autoridades del sector público, privado y social;
 
 XI Establecer vínculos de colaboración con organismos públicos, privados y sociales e impulsar iniciativas de ley que garanticen el acceso equitativo y no discriminatorio para el desarrollo de las mujeres;
 
 XII Impulsar acciones que contribuyan a evitar y resolver el problema de la violencia hacia las mujeres;
 
-XIII Promover ante las instancias competentes el establecimiento de un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de impacto social, económico y de género en los programas de las dependencias;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XIII. Consolidar conjuntamente con las instancias competentes, el establecimiento de un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de impacto de las condiciones sociales, políticas, económicas, laborales, civiles, familiares y culturales de las mujeres en los distintos ámbitos de la sociedad y su impacto en los programas de las dependencias;
 
 XIV Promover la elaboración de metodologías, indicadores y estudios de género en colaboración con instituciones públicas, privadas y académicas de reconocido prestigio;
 
@@ -158,7 +184,9 @@ XVII Promover el establecimiento de acuerdos de colaboración con organismos pú
 
 XVIII Actuar como órgano de consulta, asesoría, capacitación y formación de las dependencias y entidades de la administración pública, y de los sectores social y privado, en materia de equidad entre hombres y mujeres e igualdad de oportunidades;
 
-XIX Participar en el diseño del Programa General de Desarrollo del Gobierno del Distrito Federal, procurando que en el contenido y en la asignación presupuestal de los programas se incorpore la perspectiva de equidad entre hombres y mujeres;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XIX. Participar en el diseño del Programa General de Desarrollo del Gobierno del Distrito Federal, procurando que en el contenido y en la asignación presupuestal de los programas se incorpore la perspectiva de equidad entre hombres y mujeres;
 
 XX Asesorar a las mujeres para potenciar sus capacidades a efecto de acceder y aprovechar los programas que las beneficien;
 
@@ -166,7 +194,9 @@ XXI Proponer al Jefe de Gobierno, la inclusión de la perspectiva de género en 
 
 XXII Concertar acciones afirmativas en los ámbitos gubernamental, social y privado a favor de las mujeres del Distrito Federal;
 
-XXIII Conocer sobre las medidas instrumentadas por los órganos de gobierno locales, que contribuyan a eliminar la discriminación contra las mujeres en el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXIII. Conocer y emitir opinión sobre las medidas instrumentadas por los órganos de gobierno locales, y en su caso, del sector social y privado, que contribuyan a eliminar la discriminación contra las mujeres en el Distrito Federal;
 
 XXIV Establecer vinculación permanente con la Comisión de Derechos Humanos del Distrito Federal en materia de discriminación hacia las mujeres;
 
@@ -174,7 +204,33 @@ XXV Impulsar, a través del sistema educativo y los medios de comunicación, una
 
 XXVI Establecer vinculación permanente con las autoridades de procuración, administración e impartición de justicia, con el objeto de contribuir con la eliminación de cualquier forma de discriminación contra las mujeres;
 
-XXVII Las demás que le otorgue la presente ley y otras disposiciones vigentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXVII. Emitir informes de evaluación para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXVIII. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances del Programa y la operatividad del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIX. Asistir y asesorar a las personas que acudan al Instituto a denunciar la violación a los derechos establecidos en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXX. Promover la cultura de la denuncia por actos que violen las disposiciones en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXXI. Emitir opinión sobre los proyectos de reforma de leyes en la materia, así como los proyectos de reglamento que promueva el Ejecutivo Local;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXXII. Impulsar el establecimiento de la cultura de la no violencia, la no discriminación contra las mujeres y de la igualdad sustantiva; y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXXIII. Las demás que otorgue la presente ley, la Ley igualdad sustantiva entre Mujeres y Hombres en el Distrito Federal y las demás disposiciones vigentes.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL INSTITUTO
 
@@ -226,9 +282,11 @@ V Cinco Integrantes del Consejo Consultivo.
 
 La Junta de Gobierno podrá invitar de manera permanente, hasta cinco integrantes de la Asamblea Legislativa, con voz pero sin voto.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno podrá invitar a representantes de instituciones relacionadas con su objeto de trabajo, quienes tendrán derecho a voz pero no a voto.
+La Junta de Gobierno, de acuerdo al tema que se trate en su agenda podrá invitar a representantes de otras dependencias, instituciones y organizaciones públicas o privadas relacionadas con su objeto de trabajo, quienes tendrán derecho a voz pero no a voto.
 
 ###### Artículo 13.
 
@@ -246,7 +304,11 @@ Las resoluciones se tomarán por mayoría de votos de los integrantes asistentes
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
-I Integrar por consenso, y de no alcanzar el mismo, por acuerdo de las dos terceras partes, una terna que someterá a la consideración del Jefe de Gobierno para la designación de la Directora General del Instituto;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+I Integrar por consenso, y de no alcanzar el mismo, por acuerdo de las dos terceras partes, una terna que someterá a la consideración (sic) Jefe de Gobierno para la designación de la Titular del Instituto;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
 
 II Presentar a consideración del Jefe de Gobierno, la propuesta de ratificación de la Directora General para un segundo periodo;
 
@@ -254,9 +316,13 @@ III Definir las políticas generales y acciones prioritarias a las que deberá s
 
 IV Aprobar el Programa, así como aquellos que se deriven del ejercicio de las atribuciones del Instituto;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
+
 V Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen la suscripción de los convenios, contratos y acuerdos que deba celebrar el Instituto;
 
 VI Aprobar el anteproyecto de presupuesto de egresos del Instituto;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
 
 VII Aprobar la aplicación de recursos financieros que se eroguen por el Instituto en el cumplimiento de sus fines en los casos establecidos en el Reglamento Interno;
 
@@ -266,15 +332,29 @@ IX Aprobar el Reglamento Interno, las bases de organización general y los manua
 
 X Aprobar la aceptación de herencias, legados y demás liberalidades;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
+
 XI Aprobar el Reglamento del Consejo Consultivo, considerando la propuesta que el propio Consejo haga;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
 
 XII Proponer al Jefe de Gobierno, la remoción de la Directora General, cuando así proceda;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 15 DE MAYO DE 2007)</small>
+
 XIII Aprobar las Condiciones Generales de Trabajo convenidas en los términos de ley entre la Directora General y las y los trabajadores del Instituto;
 
-XIV Crear el Estatuto del Servicio Público de Carrera, con base en la Ley del Servicio Público de Carrera, de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
 
-XV Las demás que le atribuyan esta Ley y el Reglamento Interno.
+XIV. Otorgar un reconocimiento anual al sector social o privado que se destaque por su contribución en el establecimiento de la cultura de la no violencia, la no discriminación y la equidad entre mujeres y hombres; y (sic)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XV Crear el Estatuto del Servicio Público de Carrera, con base en la Ley del Servicio Público de Carrera, de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA Y REUBICADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XVI. Las demás que le atribuyan esta Ley, la de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal y el Reglamento Interno.
 
 #### SECCIÓN II. DE LA DIRECCION GENERAL
 
@@ -300,37 +380,39 @@ VII No encontrarse en ninguno de los impedimentos establecidos por los diversos 
 
 La persona titular de la Dirección General del Instituto será nombrada por el jefe de Gobierno del Distrito Federal, o, a indicación de éste, a través del coordinador de sector, considerando la terna propuesta por la Junta de Gobierno de acuerdo a los requisitos exigidos en el artículo anterior.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 18.
 
 Además de las conferidas por la Ley Orgánica de la Administración Pública, la Directora General tendrá las siguientes facultades:
 
-I Administrar, coordinar y dirigir las actividades del Instituto;
+I. Administrar, coordinar y dirigir las actividades del Instituto;
 
-II Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
+II. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
 
-III Elaborar y proponer ante la Junta de Gobierno el proyecto de Programa;
+III. Elaborar y proponer ante la Junta de Gobierno el proyecto de Programa;
 
-IV Proponer los programas institucionales que deberá desarrollar el Instituto;
+IV. Proponer los programas institucionales que deberá desarrollar el Instituto;
 
-V Formular anualmente el anteproyecto de presupuesto de egresos del Instituto así como, los estados financieros para presentarlos a la Junta de Gobierno;
+V. Formular anualmente el anteproyecto de presupuesto de egresos del Instituto así como, los estados financieros para presentarlos a la Junta de Gobierno;
 
-VI Presentar ante la Junta de Gobierno el proyecto de Reglamento Interno y en su caso, las reformas del mismo, así como de los manuales de procedimientos para su discusión y aprobación;
+VI. Presentar ante la Junta de Gobierno el proyecto de Reglamento Interno y en su caso, las reformas del mismo, así como de los manuales de procedimientos para su discusión y aprobación;
 
-VII Presentar para su aprobación ante la Junta de Gobierno los proyectos de los programas del Instituto y los que específicamente le sean solicitados por ésta;
+VII. Presentar para su aprobación ante la Junta de Gobierno los proyectos de los programas del Instituto y los que específicamente le sean solicitados por ésta;
 
-VIII Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales reglamentarias y administrativas aplicables;
+VIII. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales reglamentarias y administrativas aplicables;
 
-IX Nombrar y remover a los titulares de las distintas unidades administrativas;
+IX. Nombrar y remover a los titulares de las distintas unidades administrativas;
 
-X Presentar ante la Junta de Gobierno los informes de actividades del Instituto de conformidad al Reglamento Interno;
+X. Presentar ante la Junta de Gobierno los informes de actividades del Instituto de conformidad al Reglamento Interno;
 
-XI Establecer con sujeción a las disposiciones legales, los instrumentos necesarios para la adquisición de arrendamiento y enajenación de inmuebles que el Instituto requiera;
+XI. Establecer con sujeción a las disposiciones legales, los instrumentos necesarios para la adquisición de arrendamiento y enajenación de inmuebles que el Instituto requiera;
 
-XII Coordinar el establecimiento de un sistema de planeación, seguimiento y evaluación de los objetivos y metas planteadas en los programas y acciones instrumentadas por el Instituto;
+XII. Coordinar el establecimiento de un sistema de planeación, seguimiento y evaluación de los objetivos y metas planteadas en los programas y acciones instrumentadas por el Instituto;
 
-XIII Suscribir los contratos necesarios que regulen las relaciones laborales de la entidad con sus trabajadoras y trabajadores;
+XIII. Suscribir los contratos necesarios que regulen las relaciones laborales de la entidad con sus trabajadoras y trabajadores;
 
-XIV Las demás que le confieran otros ordenamientos jurídicos.
+XIV. Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### Artículo 19.
 
@@ -342,9 +424,15 @@ La Directora General durará en su cargo tres años. Podrá ser ratificada para 
 
 El Consejo Consultivo, es el órgano asesor, evaluador y promotor de las acciones que se emprendan en beneficio de las mujeres en el marco de esta ley.
 
-El Consejo se integrará por un mínimo de diecisiete y un máximo de veintiún consejeros. Por cada consejero titular se elegirá un suplente. El cargo de Consejero es honorífico y sin emolumento alguno.
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
+El Consejo se integrará por un mínimo de dieciséis y un máximo de veintiún consejeros. Por cada consejero titular se elegirá un suplente. El cargo de Consejero es honorífico y sin emolumento, retribución o compensación alguno.
 
 El Consejo se renovará cada tres años. Las personas que se hayan desempeñado como consejeras y consejeros titulares podrán presentar su candidatura para integrar el nuevo Consejo. Aquellos consejeros que hayan estado en funciones durante dos periodos consecutivos, no podrán volver a presentar su candidatura para el siguiente periodo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+Al término de su encargo, el Consejo Consultivo presentará un informe anual a la Junta de Gobierno.
 
 ###### Artículo 21.
 
@@ -392,9 +480,15 @@ El Instituto contará con un Órgano de Vigilancia y Control el cual estará int
 
 El Instituto podrá solicitar a las y los titulares de los órganos de Gobierno del Distrito Federal, la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro del área de su competencia en la elaboración, ejecución y seguimiento del Programa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+El Instituto podrá emitir opiniones y propuestas dirigidas a las autoridades, y servidores públicos relacionadas con la ejecución del Programa y con el cumplimiento de las disposiciones contenidas en la Ley para la Efectiva Equidad entre Mujeres y Hombres en el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 29.
 
-Los servidores públicos proporcionarán al Instituto la información y datos que éste les solicite, en los términos de los acuerdos que al efecto se celebren.
+Los servidores públicos proporcionarán al Instituto la información y datos que éste les solicite, en los términos de la legislación aplicable.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN CON LAS DELEGACIONES
 
@@ -402,7 +496,9 @@ Los servidores públicos proporcionarán al Instituto la información y datos qu
 
 Para los efectos de la coordinación con los órganos político administrativos, el Instituto deberá llevar a cabo las siguientes acciones:
 
-I Acordar con los titulares de los órganos político administrativos los términos para la capacitación específica en materia de equidad de género para los servidores públicos de la misma, a fin de que se garantice la transversalidad de la perspectiva de género en todos los programas del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+I Acordar con los titulares de los órganos político administrativos los términos para la capacitación específica en materia de equidad de género para los servidores públicos de la misma, a fin de que se garantice la transversalidad de la perspectiva de género en todos los programas del Gobierno del Distrito Federal; la ejecución de estos programas de capacitación serán verificados por la Junta de Gobierno;
 
 II Coadyuvar con los titulares de los órganos político administrativos en la elaboración de sus Planes de Gobierno con perspectiva de género;
 
@@ -442,6 +538,32 @@ La objetividad del Instituto orienta la función local de cumplir con su objeto 
 
 La organización del Servicio Público de Carrera, será regulada por las normas establecidas en conformidad con el artículo 2 de la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 15 DE MAYO DE 2007)</small>
+
+## TÍTULO SÉPTIMO. DEL RECONOCIMIENTO AL SECTOR SOCIAL Y PRIVADO
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+
+###### Artículo 35.
+
+El reconocimiento al sector social o privado que se destaque por su contribución en el establecimiento de la cultura de la no violencia, la no discriminación y la equidad entre mujeres y hombres, será otorgado por la Junta de Gobierno el día 8 de marzo de cada año, de conformidad con el Procedimiento que para tal efecto expida la Junta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE MAYO DE 2007)</small>
+
+## TÍTULO OCTAVO. RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+
+###### Artículo 36.
+
+Serán causas de responsabilidad administrativa de los servidores públicos el incumplimiento de las obligaciones establecidas en esta Ley.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+
+###### Artículo 37.
+
+Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el Artículo anterior, son independientes de las del orden civil o penal que fueran procedentes.
+
 ## TRANSITORIOS
 
 Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
@@ -471,3 +593,11 @@ POR LA MESA DIRECTIVA.- DIP. WALTER ALBERTO WIDMER LÓPEZ, PRESIDENTE. - SECRETA
 Recinto Legislativo, a 20 de diciembre de 2001.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de febrero del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR. - FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
