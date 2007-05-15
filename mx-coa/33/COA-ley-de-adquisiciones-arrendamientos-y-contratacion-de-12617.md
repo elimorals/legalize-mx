@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-12617"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-28"
-last_updated: "2006-12-19"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de enero de 1997.
 
@@ -55,7 +55,9 @@ Los contratos celebrados por las dependencias con las entidades, o entre entidad
 
 Para los efectos de esta ley se entiende por:
 
-I.- Contraloría: La Secretaría de la Contraloría y Modernización Administrativa;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+I. Función Pública: Órgano de control Estatal, Municipal, de Dependencias y Entidades según el ámbito de su Competencia;
 
 II.- Secretaría: La Secretaría de Finanzas;
 
@@ -77,7 +79,9 @@ IX.- Unidad: Aquella área de la administración pública del estado que tenga a
 
 Las acciones de operación a que se refiere esta ley estarán a cargo de las Dependencias y Entidades; las acciones de administración serán a cargo de la Unidad y la Secretaría, en su caso.
 
-La Secretaría, la Contraloría, la Unidad y las Dependencias, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta ley para efectos administrativos y dictarán las disposiciones administrativas que requieran su adecuada aplicación y la de sus disposiciones reglamentarias, tomando en cuenta, cuando corresponda por razón de sus atribuciones, la opinión de las otras que deban intervenir en las operaciones correspondientes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+La Secretaría, la Función Pública, la Unidad y las Dependencias, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar esta ley para efectos administrativos y dictarán las disposiciones administrativas que requieran su adecuada aplicación y la de sus disposiciones reglamentarias, tomando en cuenta, cuando corresponda por razón de sus atribuciones, la opinión de las otras que deban intervenir en las operaciones correspondientes.
 
 Los poderes legislativo y judicial, en las adquisiciones, arrendamientos y servicios que contraten, deberán observar las disposiciones de esta ley, en lo que sea compatible.
 
@@ -85,13 +89,15 @@ Los poderes legislativo y judicial, en las adquisiciones, arrendamientos y servi
 
 Las funciones que en esta ley se asignan a la Unidad, la Secretaría, las Dependencias y Entidades serán ejercidas por las tesorerías municipales de los ayuntamientos del estado, en el ámbito de sus respectivas competencias, en lo que sea compatible.
 
-En la misma jurisdicción municipal, las atribuciones conferidas a la Contraloría, quedarán encomendadas al respectivo órgano de control que para tal efecto establezcan los ayuntamientos.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+En la misma jurisdicción municipal, las atribuciones conferidas a la Función Pública, quedarán encomendadas al respectivo órgano de control que para tal efecto establezcan los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 5°.
 
-Los órganos de gobierno de las Entidades, estatales y municipales, de acuerdo a las disposiciones legales que les resulten aplicables, dictarán los lineamientos y políticas que habrán de observar las propias Entidades, a fin de que los criterios y procedimientos, a que se refiere esta ley, se adopten e instrumenten en cada Entidad, bajo las modalidades que los mismos órganos de gobierno determinen.
-
-La Contraloría y las Dependencias, vigilarán y comprobarán en sus respectivos ámbitos de atribución, la aplicación de los criterios a que se refiere este artículo y lo propio harán los órganos de control en el ámbito municipal.
+La Función Pública y las Dependencias, vigilarán y comprobarán en sus respectivos ámbitos de atribución, la aplicación de los criterios a que se refiere este artículo y lo propio harán los órganos de control en el ámbito municipal.
 
 ###### ARTICULO 6°.
 
@@ -115,13 +121,17 @@ VIII.- Solicitar a los proveedores de la administración pública estatal, los p
 
 IX.- Intervenir, con las atribuciones que les competen, en las convocatorias y licitaciones que se celebren en relación con los actos regulados por esta ley;
 
-X.- Aprobar, bajo su responsabilidad, siguiendo los lineamientos que en su caso marque la Contraloría, los modelos conforme a los cuales se documentarán los pedidos o contratos de adquisiciones de mercancías, materias primas, bienes muebles e inmuebles, arrendamientos y la contratación de servicios;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+X.- Aprobar, bajo su responsabilidad, siguiendo los lineamientos que en su caso marque la Función Pública, los modelos conforme a los cuales se documentarán los pedidos o contratos de adquisiciones de mercancías, materias primas, bienes muebles e inmuebles, arrendamientos y la contratación de servicios;
 
 XI.- Revisar los pedidos y contratos de adquisición de mercancías, materias primas, bienes muebles e inmuebles, con el objeto de verificar el cumplimiento de las disposiciones de esta ley, y demás que de ella emanen;
 
 XII.- Intervenir en la recepción de los bienes y servicios, así como en la verificación de sus especificaciones, calidad, cantidad y precio, y en su caso, oponerse a su recepción, para los efectos legales a que haya lugar;
 
-XIII.- Revisar, en coordinación con la Contraloría y el Comité, los sistemas operativos de adquisiciones, arrendamientos, contratación de servicios, manejo de almacenes y establecer las medidas pertinentes para mejorarlos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+XlII.- Revisar, en coordinación con la Función Pública y el Comité, los sistemas operativos de adquisiciones, arrendamientos, contratación de servicios, manejo de almacenes y establecer las medidas pertinentes para mejorarlos;
 
 XIV.- Establecer y conservar actualizado el inventario de los bienes muebles e inmuebles del estado que tengan bajo su custodia, proporcionando la información que corresponda a petición de la Secretaría; y
 
@@ -143,9 +153,21 @@ V.- Tomar las providencias necesarias para el aseguramiento, protección y custo
 
 VI.- Aplicar procedimientos de verificación de calidad de los bienes y precios de adquisición, así como sistemas de control de existencias, manejo de materiales, utilización de áreas de almacenajes, despacho, transporte y demás providencias necesarias;
 
-VII.- Facilitar al personal de la Unidad, de la Secretaría y del órgano de gobierno el acceso a sus almacenes, oficinas, plantas y talleres y demás instalaciones así como proveer toda la información necesaria para el ejercicio de sus atribuciones; y
+VII.- Facilitar al personal de la Unidad, de la Secretaría y del órgano de gobierno el acceso a sus almacenes, oficinas, plantas y talleres y demás instalaciones así como proveer toda la información necesaria para el ejercicio de sus atribuciones; y (sic)
 
-VIII.- En general, cumplir con los lineamientos que emitan la Dirección, la Secretaría y los órganos respectivos, en materia de acciones de administración, conforme a esta ley.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2007)</small>
+
+VIII.- Promover, la participación de micros, pequeñas y medianas empresas en las adquisiciones, arrendamientos y contratación de servicios del sector publico, hasta alcanzar un mínimo del 40% del presupuesto anual, siempre y cuando no se trasgredan los principios de eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2007)</small>
+
+IX.- Preferentemente, se evitara la integración o consolidación de paquetes de artículos, a efecto de promover la participación a que se refiere la fracción anterior, siempre y cuando no se trasgredan los principios de eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2007)</small>
+
+X.- Las empresas deberán cumplir con la normatividad ambiental Federal y Estatal vigentes;
+
+XI.- En general, cumplir con los lineamientos que emitan la Dirección, la Secretaría y los órganos respectivos, en materia de acciones de administración, conforme a esta ley.
 
 ###### ARTICULO 8°.
 
@@ -175,35 +197,49 @@ VI.- Baja o destino.
 
 ### CAPITULO TERCERO. DE LOS PROVEEDORES Y SU REGISTRO
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 11.
 
-La Contraloría establecerá y mantendrá actualizado el Padrón de Proveedores de las Dependencias y Entidades de la Administración Pública Estatal.
+La Función Pública establecerá y mantendrá actualizado el Padrón de Proveedores de las Dependencias y Entidades de la Administración Pública Estatal.
 
 ###### ARTICULO 12.
 
 Para obtener su registro en el Padrón, los interesados deberán satisfacer, cuando menos, los siguientes requisitos:
 
-I.- Solicitarlo en los formatos que, para el efecto, apruebe la Contraloría;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
 
-II.- Tratándose de sociedades o asociaciones deberán acompañar copia certificada del acta constitutiva y de sus reformas; en el caso de organismos públicos descentralizados, el decreto o ley que los hubiere creado; y tratándose de fideicomisos, el contrato correspondiente;
+I.- Solicitarlo en los formatos que, para el efecto, apruebe la Función Pública;
 
-III.- Acreditar mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+II.- Tratándose de sociedades o asociaciones deberán acompañar copia certificada del acta constitutiva y de sus reformas;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+III.- Acreditar mediante la exhibición de documentos respectivos, que es productor o comerciante legalmente establecido por lo menos con dos años de antigüedad, preferentemente que estén integrados en alguna asociación u organismo empresarial.
 
 IV.- Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas y demás bienes muebles y, en su caso, para el arrendamiento de estos o la prestación de servicios;
 
-V.- Acreditar haber cumplido con las inscripciones y registros que exigen las disposiciones de orden fiscal o administrativo; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+V.- Acreditar haber cumplido con las inscripciones y registros que exigen las disposiciones de orden fiscal, ambiental, de salubridad y administrativo y
 
 VI.- Pagar previamente los derechos establecidos en el ordenamiento correspondiente.
 
-Las personas interesadas en inscribirse vía electrónica en el Padrón, deberán atender los lineamientos que al efecto emita la Contraloría.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+Las personas interesadas en inscribirse vía electrónica en el Padrón, deberán atender los lineamientos que al efecto emita la Función Pública.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+El registro de padrón de proveedores será Estatal, debiendo existir comunicación entre el Estado y los Municipios y de estos entre si, a efecto de no registrar a personas que se les haya suspendido o cancelado su registro o presenten alguna irregularidad.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Los interesados presentarán su solicitud ante la Contraloría la cual, dentro de un término de treinta días naturales siguientes al de la presentación de la solicitud, resolverá sobre la inscripción en el Padrón. Transcurrido este plazo sin que haya respuesta se tendrá por inscrito al solicitante, debiendo expedir la Contraloría, en ese caso, la constancia respectiva.
-
-La Contraloría expedirá al interesado la constancia de registro que servirá para acreditar su calidad de productor o comerciante legalmente establecido, su existencia si es persona moral y su solvencia económica y capacidad para suministrar las mercancías en los procedimientos de adquisición, arrendamientos y prestación de servicios en que comparezca.
-
-La constancia respectiva será requisito indispensable para que comparezca el interesado en cualquier procedimiento de los previstos por este ordenamiento.
+Los interesados presentarán su solicitud ante la Secretaría de la Función Pública la cual, dentro de un término de quince días hábiles siguientes al de la presentación de la solicitud, resolverá sobre la inscripción en el Padrón. Transcurrido este plazo sin que haya respuesta se tendrá por inscrito al solicitante, debiendo expedir la Secretaría de la Función Pública, en ese caso, la constancia respectiva.
 
 ###### ARTICULO 14.
 
@@ -211,9 +247,11 @@ El registro en el Padrón de Proveedores en la Administración Pública Estatal,
 
 La omisión de la solicitud o de su negación, traerá como consecuencia la cancelación del registro a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 15.
 
-La Contraloría, sin perjuicio de la cancelación definitiva, podrá suspender temporalmente el registro hasta por el término de su vigencia, cuando el proveedor incurra en alguna de las siguientes faltas:
+La Función Pública, sin perjuicio de la cancelación definitiva, podrá suspender temporalmente el registro hasta por el término de su vigencia, cuando el proveedor incurra en alguna de las siguientes faltas:
 
 I.- No entregue la materia de contrato en las condiciones pactadas;
 
@@ -225,9 +263,11 @@ III.- Se niegue a sustituir las mercancías o servicios que no reúnan los requi
 
 Los pedidos o contratos celebrados con proveedores no registrados en el Padrón de Proveedores de la Administración Pública, o cuyo registro no se encuentre vigente, serán nulos de pleno derecho.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 17.
 
-La Contraloría, a petición de la Unidad, la Secretaría y las Dependencias y Entidades, podrá eximir de la obligación de inscribirse en el Padrón de Proveedores a las personas físicas y/o morales que suministren artículos perecederos o cuando se trate de adquisiciones extraordinarias.
+La Función Pública, a petición de la Unidad, la Secretaría y las Dependencias y Entidades, podrá eximir de la obligación de inscribirse en el Padrón de Proveedores a las personas físicas y/o morales que suministren artículos perecederos o cuando se trate de adquisiciones extraordinarias.
 
 Para los efectos de este artículo, se considera adquisición extraordinaria la prevista en las hipótesis a que se refieren las fracciones II y III del artículo 51 de esta ley.
 
@@ -240,6 +280,32 @@ El Comité de Adquisiciones tiene por objeto coadyuvar en el establecimiento de 
 ###### ARTICULO 19.
 
 El Comité es un órgano de carácter interinstitucional del Ejecutivo del Estado de naturaleza técnica, consultiva y de opinión que tendrá la estructura y funciones que determine el instrumento de su creación.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+ARTICULO 19 BIS.- Este Comité tendrá, entre otras, las siguientes funciones:
+
+l. Revisar y recomendar programas de compra multianuales a efecto de detonar las cadenas productivas de la localidad que contrate bienes o servicios, dicha recomendación deberá quedar debidamente fundada y motivada.
+
+II. Analizar la documentación preparatoria de los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y en su caso, emitir su opinión a la instancia correspondiente.
+
+II Bis.- Observar y en su caso informara la Secretaria, Dependencia y Entidades no fraccionen los requerimientos intencionalmente, a efecto de no exceder los topes máximos de contratación y evitar las licitaciones publicas.
+
+II Ter.- Este Comité deberá difundir dentro de los primeros treinta días de cada ejercicio fiscal, los requerimientos que tengan el Gobierno del Estado y sus Municipios. Con actualizaciones trimestrales.
+
+III. Proponer las políticas internas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios relativos a las dependencias en los supuestos no previstos de las mismas, esto en coordinación con la Secretaría de la Función Pública.
+
+IV. Emitir opinión y dictamen en los procedimientos de contratación, por medio de asignación directa, invitación restringida y licitación pública, hasta el fallo correspondiente.
+
+V. Fomentar la creación de subcomités de adquisiciones, arrendamientos y servicios, así como sus reglas de integración y funciones especificas en la Secretaria, Dependencias y Entidades.
+
+VI. Analizar exclusivamente para emitir opinión, cuando se le solicite, sobre los dictámenes o fallos emitidos por los subcomités de la Secretaria, Dependencias y Entidades.
+
+VII. Aplicar y coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
+
+VIII. Presentar propuestas a las dependencias correspondientes, sobre los montos máximos de contratación a que se sujetarán la Secretaría, las Dependencias y las Entidades.
+
+IX.- Las demás que le atribuya su instrumento de creación.
 
 ## TITULO SEGUNDO. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION
 
@@ -269,9 +335,17 @@ III.- Los planos, proyectos, normas de calidad, especificaciones y programas de 
 
 IV.- Los requerimientos de los programas de conservación, mantenimiento y ampliación de la capacidad de los servicios públicos;
 
-V.- Preferentemente, la utilización de los bienes o servicios de procedencia local, estatal o nacional, con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén relacionados con los objetivos y prioridades del plan estatal y los programas de desarrollo respectivos; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
 
-VI.- De preferencia, la inclusión de insumo, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero.
+V.- Promover la participación de micros, pequeñas y medianas empresas en las adquisiciones, arrendamientos y contratación de servicios, hasta alcanzar un mínimo del 40% del presupuesto anual autorizado, siempre que no se transgredan los principios de eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+VI.- Procurar la utilización de los bienes o servicios de procedencia Municipal, Estatal o Federal, con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén relacionados con los objetivos y prioridades del Plan Estatal de Desarrollo y los programas de desarrollo respectivos; atendiendo al principio de localidad, siempre que no se transgredan los principios de eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2007)</small>
+
+VlI.- Promover la inclusión de insumos, materiales, equipos, sistemas y servicios que contengan un valor agregado nacional, tecnología, ingeniería, servicios, merito tecnológico, la promoción de fuentes de empleo nacionales, así como la reducción de costo integral de la adquisición en el tiempo, por costo de consumibles, mantenimiento, refacciones y otros factores tangibles y uniformes notoriamente convenientes para el Municipio Estado y Nación.
 
 ###### ARTICULO 22.
 
@@ -341,21 +415,29 @@ Para el cumplimiento de lo dispuesto por este artículo, se estará a lo previst
 
 La Unidad, la Secretaría, las Dependencias y las Entidades exigirán la restitución de lo pagado o la reposición de los bienes o servicios, cuando estos no sean de la calidad, especificaciones o características pactadas, sin perjuicio de la imposición de las sanciones que procedan.
 
-Si en un período de treinta días naturales, contado a partir de la fecha en que se detecten irregularidades en los bienes o servicios por parte de la convocante y/o la Contraloría, la Unidad, la Secretaría o las Dependencias y Entidades, según corresponda, no obtienen la respectiva restitución, la Contraloría podrá exigir directamente al proveedor el cumplimiento de su obligación, sin perjuicio de la aplicación de la sanción procedente.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+Si en un período de treinta días naturales, contado a partir de la fecha en que se detecten irregularidades en los bienes o servicios por parte de la convocante y/o la Función Pública, la Unidad, la Secretaria o las Dependencias y Entidades, según corresponda, no obtienen la respectiva restitución, la Función Pública podrá exigir directamente al proveedor el cumplimiento de su obligación, sin perjuicio de la aplicación de la sanción procedente.
 
 ###### ARTICULO 33.
 
 La Unidad, la Secretaría, las Dependencias y las Entidades, podrán, en los casos a que se refiere el Artículo 51, señalar los porcentajes que se adquieran de cada uno de los proveedores, a fin de coadyuvar al abastecimiento oportuno, la obtención de precios razonables, la sustitución de importaciones y evitar la excesiva dependencia.
 
-Para los efectos del párrafo que antecede, la Contraloría podrá emitir la opinión correspondiente a los adquirentes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+Para los efectos del párrafo que antecede, la Función Pública podrá emitir la opinión correspondiente a los adquirentes.
 
 ###### ARTICULO 34.
 
 Los actos, convenios, pedidos, contratos y negocios jurídicos relativos a los regulados por esta ley, que celebren las dependencias y entidades en contravención a lo dispuesto por ella y las disposiciones que de ella se deriven serán nulos de pleno derecho.
 
-La Unidad, la Secretaría, las Dependencias y Entidades, así como la Contraloría, en su caso, harán valer la nulidad y procederán, en su caso, a exigir la restitución de lo pagado y a la devolución de los bienes adquiridos o arrendados. Para tal efecto, se estará a lo dispuesto por el párrafo segundo del artículo 32 de esta ley.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
-En caso de que los proveedores incumplan con las obligaciones derivadas de los contratos y pedidos respectivos, la adquirente o la Contraloría, en su caso, procederá a declarar la rescisión de los actos jurídicos respectivos, la que se comunicará por escrito a los interesados, atendiendo para tal efecto lo previsto en el artículo 32, segundo párrafo, de este ordenamiento.
+La Unidad, la Secretaria, las Dependencias y Entidades, así como la Función Pública, en su caso, harán valer la nulidad y procederán, en su caso, a exigir la restitución de lo pagado y a la devolución de los bienes adquiridos o arrendados. Para tal efecto, se estará a lo dispuesto por el párrafo segundo del artículo 32 de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+En caso de que los proveedores incumplan con las obligaciones derivadas de los contratos y pedidos respectivos, la adquirente o la Función Pública, en su caso, procederá a declarar la rescisión de los actos jurídicos respectivos, la que se comunicará por escrito a los interesados, atendiendo para tal efecto lo previsto en el artículo 32, segundo párrafo, de este ordenamiento.
 
 Así mismo, podrán darse por terminados o rescindidos los actos mencionados cuando concurran razones de interés público u orden social.
 
@@ -363,19 +445,25 @@ Así mismo, podrán darse por terminados o rescindidos los actos mencionados cua
 
 Cuando ocurran circunstancias de orden económico no previstas en el contrato respectivo que determinen un aumento o reducción en los costos de adquisición de bienes aún no suministrados, conforme al programa pactado, dichos costos podrán ser revisados atendiendo a las circunstancias del caso, por las partes en el respectivo contrato, siempre que se haga un estudio económico y de mercado que le sirva de base. El aumento o reducción correspondiente deberá constar por escrito.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 36.
 
-En igualdad de circunstancias se preferirá la contratación de proveedores locales, siempre que se garantice el objeto a que se refiere el artículo 28 de esta ley.
+En igualdad de circunstancias se preferirá la contratación de proveedores locales, aplicando el principio establecido en el artículo 21 fracción VI, dando un margen de preferencia de hasta el 5 % del valor de la contratación, siempre que se garantice el objeto a que se refiere el artículo 28 de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 37.
 
-Las Dependencias y Entidades, previa resolución motivada, solicitarán autorización a la Contraloría para contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento de sistemas de adquisiciones, arrendamientos, servicios y almacenes, la verificación de precios, pruebas de calidad y otras actividades relacionadas con el objeto de esta ley, de todo lo cual se dejará constancia en el expediente respectivo.
+Las Dependencias y Entidades, previa resolución motivada, solicitarán autorización a la Función Pública para contratar asesoría técnica para la realización de investigaciones de mercado, el mejoramiento de sistemas de adquisiciones, arrendamientos, servicios y almacenes, la verificación de precios, pruebas de calidad y otras actividades relacionadas con el, objeto de esta ley, de todo lo cual se dejará constancia en el expediente respectivo.
 
 ### CAPITULO SEGUNDO. DE LOS PROCEDIMIENTOS Y CONTRATOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 38.
 
-Para llevarse a cabo los procedimientos de licitaciones públicas, las convocatorias, que podrán referirse a una o más de las operaciones reguladas en este ordenamiento, se publicarán por una sola vez en uno de los diarios de mayor circulación en el municipio y la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio y, contendrá cuando menos:
+Para llevarse a cabo los procedimientos de licitaciones públicas, las convocatorias, que podrán referirse a una o más de las operaciones reguladas en este ordenamiento, se publicarán por una sola vez en el Periódico Oficial del Gobierno del Estado, en los portales de Internet que incluyen la información pública mínima, en uno de los diarios de mayor circulación en el municipio y la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio, así como en otros medios a disposición de la dependencia o entidad pública de que se trate, y contendrá cuando menos:
 
 I.- El nombre, denominación o razón social de la convocante;
 
@@ -409,7 +497,9 @@ VI.- Descripción completa de los bienes o servicios; información específica s
 
 VII.- Plazo, lugar y condiciones de entrega;
 
-VIII.- Presentar la constancia de registro de proveedores exhibida por la Contraloría;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+(sic) Presentar la constancia de registro de proveedores exhibida por la Función Pública.;
 
 IX.- Condiciones de precio y pago;
 
@@ -449,9 +539,11 @@ III.- El cumplimiento de los contratos.
 
 Las garantías que deban otorgarse conforme a esta ley, serán constituidas en favor de la Secretaría de Finanzas o de las tesorerías municipales, según sea el caso, salvo que se trate de paraestatales, en cuyo caso las garantías se constituirán en su favor.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 44.
 
-El acto de presentación y apertura de proposiciones, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de licitación, se llevará a cabo en dos etapas, conforme a lo siguiente:
+En el acto de presentación y apertura de proposiciones, en el que podrán participar los licitantes que hayan cubierto el costo de las bases de licitación, y al que además se podrá invitar a los funcionarios y cuando menos un representante de los sectores privado y social, de acuerdo a la naturaleza de la licitación, así como a los comisionados del Organismo Estatal y/o Municipal de transparencia según corresponda; se llevara a cabo en dos etapas, conforme a lo siguiente:
 
 A.- En la primera etapa:
 
@@ -509,23 +601,37 @@ I.- Aquellas que no cuenten con su registro en el Padrón de Proveedores;
 
 II.- Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas en que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-III.- Las que desempeñen un empleo, cargo o comisión en el servicio público o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
 
-IV.- Aquellos proveedores que, por causas imputables a ellos mismos, la convocante les hubiere rescindido administrativamente un contrato, en más de una ocasión, dentro del lapso de dos años calendario contado a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia convocante durante dos años calendario contados a partir de la fecha de rescisión del segundo contrato;
+III.- Las que desempeñen un empleo, cargo o comisión en el servicio público o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Función Pública conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-V.- Los proveedores que se encuentran en el supuesto de la fracción anterior, respecto de dos o más dependencias o entidades, durante un año calendario, contado a partir de la fecha en que la Contraloría lo haga del conocimiento de las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+IV.- Aquellos proveedores que, por causas imputables a ellos mismos, la convocante en más de una ocasión les hubiere rescindido administrativamente un contrato y que el o los inconformes inobserven lo dispuesto en el titulo sexto de esta ley, o que en su caso este procedimiento haya causado ejecutoria, siempre que tales circunstancias se den dentro del lapso de dos años calendario contados a partir de la primera rescisión.
+
+Dicho impedimento prevalecerá ante la propia convocante durante dos años calendario contados a partir de la fecha de rescisión del segundo contrato.
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+V.- Los proveedores que se encuentran en el supuesto de la fracción anterior, respecto de dos o más dependencias o entidades, durante un año calendario, contado a partir de la fecha en que la Función Pública lo haga del conocimiento de las dependencias y entidades de la administración pública estatal;
 
 VI.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias a que se refiere esta ley, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la convocante respectiva;
 
 VII.- Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo y mala fe, en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien la presentación o desahogo de una inconformidad;
 
-VIII.- Las que, en virtud de la información con que cuente la Contraloría en el Padrón de Proveedores de las Dependencias y Entidades de la Administración Pública Estatal, hayan celebrado los contratos en contravención con esta ley;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+VlII.- Las que, en virtud de la información con que cuente la Función Pública en el Padrón de Proveedores de las Dependencias y Entidades de la Administración Pública Estatal, hayan celebrado los contratos en contravención con esta ley;
 
 IX.- Aquellas a las que se les declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
 
 X.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial elaboren dictámenes, peritajes y avalúos cuando se requiera dirimir controversias entre tales personas y la convocante; y
 
 XI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+ARTICULO 49 BIS.- Las contrataciones realizadas por la Secretaría, las Dependencias y Entidades, por regla general serán anualizadas, sin embargo, bajo su más estricta responsabilidad podrán ser multianuales, con revisiones anuales, previa opinión del Comité de Adquisiciones y conforme a la legislación aplicable.
 
 ### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PUBLICA
 
@@ -543,73 +649,131 @@ III.- La nacionalidad del proveedor; y
 
 IV.- El origen de los bienes.
 
-En estos casos, el Titular de la Dependencia o Entidad, a más tardar el último día hábil de cada mes, enviará un informe a la Secretaría y a la Contraloría y, en su caso, al órgano de gobierno que corresponda, que se referirá a las operaciones que, por excepción, fueron autorizadas en el mes calendario inmediato anterior, acompañando copia del dictamen aludido en el segundo párrafo de este artículo.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+En estos casos, el Titular de la Dependencia o Entidad, a más tardar el último día hábil de cada mes, enviará un informe a la Secretaría y a la Función Pública y, en su caso, al órgano de gobierno que corresponda, que se referirá a las operaciones que, por excepción, fueron autorizadas en el mes calendario inmediato anterior, acompañando copia del dictamen aludido en el segundo párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 51.
 
-La Unidad, la Secretaría y las Dependencias y Entidades, bajo su responsabilidad, podrán fincar pedidos o celebrar contratos, sin llevar a cabo las licitaciones públicas a que se refiere esta ley, bajo la modalidad de invitación restringida o adjudicación directa, en los supuestos que a continuación se señalan:
+Las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación restringida o de adjudicación directa, cuando:
 
-I.- Cuando se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito u otros terceros legitimados para ello conforme a las disposiciones aplicables;
+l. Por tratarse de obras de arte, o de bienes y servicios para los cuales no existan alternativos o sustitutos técnicamente razonables, el contrato sólo pueda celebrarse con una determinada persona porque posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor u otros derechos exclusivos;
 
-II.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
+II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado como consecuencia de caso fortuito o de fuerza mayor;
 
-III.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del estado, como consecuencias de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, o cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes;
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, debidamente justificados;
 
-IV.- Cuando se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes;
+IV. Derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
-V.- Cuando se hubiere rescindido el contrato o pedido respectivo por causas imputables al proveedor;
+V. Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en una licitación. En estos casos la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las proposiciones, se adjudicará el contrato respectivo a la propuesta que siga en calificación;
 
-VI.- Cuando se trate de la adquisición de bienes o contratación de servicios mediante operaciones no comunes de comercio;
+VI. Se realice una licitación pública que haya sido declarada desierta, siempre que no se modifiquen los requisitos esenciales señalados en las bases de licitación;
 
-VII.- Cuando se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados y que la Unidad, la Secretaría, la Dependencia o Entidad contrate directamente con los mismos o con las personas constituidas por ellos;
+VII. Existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada;
 
-VIII.- Se realicen dos licitaciones públicas sin que en ambas se hubiesen recibido proposiciones solventes;
+VIII. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados, semovientes y bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de crédito o terceros habilitados para ello conforme a las disposiciones aplicables;
 
-IX.- Se trate de servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el gobierno del estado;
+IX. Se trate de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirá instituciones de educación superior y centros de investigación. Si la materia de los servicios se refiriese a información reservada, en los términos establecidos en la Ley de Acceso a la Información Pública, podrá autorizarse la contratación mediante adjudicación directa;
 
-X.- Se trate de adquisiciones de bienes que realicen las Dependencias y Entidades para su comercialización o para someterlos a procesos productivos en cumplimiento de su objeto o fines propios;
+X. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados y que la dependencia o entidad contrate directamente con los mismos, como personas físicas o morales;
 
-XI.- Se trate de servicios profesionales prestados por personas físicas; y
+XI. Se trate de adquisiciones de bienes que realicen las dependencias y entidades para su comercialización o para someterlos a procesos productivos en cumplimiento de su objeto o fines propios expresamente establecidos en el acto jurídico de su constitución;
 
-XII.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables.
+XII. Se trate de adquisiciones de bienes provenientes de personas que, sin ser proveedores habituales, ofrezcan bienes en condiciones favorables, en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+XIII. Se trate de servicios profesionales prestados por una persona física, siempre que éstos sean realizados por ella misma sin requerir de la utilización de más de un especialista o técnico;
 
-Tratándose de Invitación restringida, la Unidad, la Secretaría, las Dependencias o Entidades invitarán a cuando menos tres proveedores. En este caso, cualquier persona interesada que reúna los requisitos a que se refiere el artículo 40 de esta ley, podrá participar en el procedimiento formulando sus proposiciones en términos de ley.
+XIV. Se trate de servicios de mantenimiento de bienes en los que no sea posible precisar su alcance, establecer las cantidades de trabajo o determinar las especificaciones correspondientes;
 
-En cualquier momento se invitará a la o las personas cuyas actividades comerciales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse, además de que cuenten con la capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios.
+XV. El objeto del contrato sea el diseño y fabricación de un bien que conlleva rediseño o innovaciones que implican desarrollo de tecnología, que servirá como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos la dependencia o entidad podrá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o Municipio según corresponda, siempre y cuando, en el contrato respectivo se haya pactado que el valor total incluye los costos totales del desarrollo de la tecnología requerida, con todo lo que implica el valor de la explotación de esos derechos patrimoniales y demás factores que apliquen en estos casos, en caso contrario, los derechos quedarán a favor del contratado. De ser satisfactorias las pruebas, se formalizará el contrato para la producción de mayor número de bienes por al menos el treinta por ciento de las necesidades anuales de la dependencia o entidad, porcentaje que será pactado al contratar, dependiendo del estudio de factibilidad y conveniencia del desarrollo, con un plazo de tres años, pudiendo asignar contratos multianuales debidamente detallados.
 
-El procedimiento por invitación restringida se ajustará en lo conducente a lo dispuesto por el Capítulo Segundo, Título III, de esta ley, exceptuando lo referente a la convocatoria. Para estos efectos, la invitación que emita la convocante sustituirá a la convocatoria.
+XVI. Se trate de equipos especializados, sustancias y materiales de origen químico, fisicoquímico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por quien determine el titular de la dependencia o el órgano de gobierno de la entidad;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2006)</small>
+El procedimiento de invitación restringida se sujetará a lo siguiente:
+
+a). El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo, cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante del órgano interno de control en la dependencia o entidad así como a un representante del Comité de Adquisiciones;
+
+b). Para llevar a cabo la adjudicación correspondiente, se deberá contar con al menos una propuesta susceptible de analizarse técnicamente;
+
+c). En las invitaciones se indicarán, como mínimo, la cantidad y descripción de los bienes o servicios requeridos, plazo y lugar de entrega, así como condiciones de pago;
+
+d). Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta;
+
+e). A las demás disposiciones de esta Ley que resulten aplicables.
+
+Tratándose de las contrataciones a que se refiere la fracción XV del presente artículo, las dependencias y entidades, bajo su responsabilidad, deberán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación restringida o de adjudicación directa, de conformidad con el artículo 52 Bis, de este ordenamiento legal.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 52.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los de invitación restringida o de adjudicación directa, cuando el importe de cada operaciones no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos del Estado de Coahuila, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los de invitación a cuando menos tres personas o de adjudicación directa, cuando el importe de cada operación no exceda los montos máximos que al efecto se establezcan en el respectivo instrumento jurídico expedido por el Titular del Ejecutivo, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la litación pública a que se refiere este artículo.
 
-Cuando los procedimientos de invitación restringida sean declarados desiertos en dos ocasiones, se procederá a la adjudicación directa, previa opinión de la Contraloría.
+En estos casos, se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
+
+Cuando diversas áreas de las dependencias o entidades sean las que por sí mismas realicen las contrataciones, los montos a que se refiere este artículo se calcularán de acuerdo con el presupuesto que a cada una de ellas le corresponda ejercer.
+
+La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del veinte por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado (sic) a la dependencia o entidad en cada ejercicio presupuestal.
+
+En casos excepcionales, el titular de la dependencia o el órgano de gobierno de la entidad, bajo su responsabilidad, podrá fijar un porcentaje mayor al indicado para las operaciones previstas en este artículo, debiéndolo hacer del conocimiento del órgano interno de control.
+
+En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato, debiendo informar al comité de adquisiciones, arrendamientos y servicios cuando los anteriores procedimientos hubiesen sido autorizados por el mismo.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+ARTICULO 52 BIS.- Tratándose de contrataciones para diseño y fabricación de prototipos, así como desarrollo de tecnología, se tomará en cuenta la opinión del Consejo Estatal de Ciencia y Tecnología (COECYT), quien determinará si la contratación puede considerarse dentro del inciso XV del artículo 50 Bis del presente ordenamiento legal, en cuyo caso, deberá exceptuarse la licitación pública y realizarse de la siguiente manera:
+
+I.- En caso de no existir el producto requerido y se tenga la necesidad de diseñarlo, fabricarlo y probarlo y que para llegar a esto, se requiere de un cierto nivel de desarrollo de tecnología, previa opinión del COECYT, se realizará la contratación a través de la invitación a cuando menos tres personas.
+
+II.- En caso de ser un desarrollo, diseño y fabricación que haya sido realizado con anterioridad, pero requiere de una nueva versión o actualización, en la cual se involucre nuevamente el desarrollo de tecnología, previa opinión del COECYT, se adjudicará directamente el contrato al proveedor que haya desarrollado, diseñado o fabricado la tecnología a actualizar.
+
+III.- En caso de ser un desarrollo, diseño y fabricación que haya sido realizado con anterioridad, pero requiere de una nueva versión o actualización, en la cual se involucre nuevamente el desarrollo de tecnología, pero su proveedor ya no se encuentra en el mercado, no cuenta con la capacidad necesaria o no le interesa la contratación, previa opinión del COECYT se realizará la contratación a través de la invitación a cuando menos tres personas.
+
+IV.- Cuando se trate de un proyecto que ya ha sido evaluado positivamente por el COECYT y/o CONACYT, por haber sido objeto de algún financiamiento por parte de éste, la autorización del mismo podrá operar en forma automática.
+
+En cualquier caso, el proveedor deberá de estar registrado en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas (RENIECIT) operado por el CONACYT Consejo Nacional de Ciencia y Tecnología, y en el Padrón de Proveedores del Gobierno del Estado.
+
+Para estos fines se establece un procedimiento especial de prórrogas de hasta un plazo igual previamente pactado el cual se describirá en el reglamento de esta ley y tendrá como fin madurar perfectamente la tecnología sin costos excesivos para los desarrolladores.
+
+La vigilancia de este tipo de contrataciones quedará a cargo del COECYT y los Comités de Adquisiciones.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+ARTICULO 52 TER.- El COECYT podrá en cualquier momento verificar e inspeccionar el diseño, fabricación y desarrollo de la tecnología que se ha contratado y en caso de que se acredite que el proveedor no podrá cumplir con lo estipulado, la entidad contratante podrá iniciar el procedimiento de rescisión estipulado en el presente ordenamiento jurídico.
 
 ## TITULO CUARTO. DE LA VERIFICACION Y CONTROL DOCUMENTAL
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 53.
 
-La forma y términos en que las Dependencias deberán remitir a la Secretaría y a la Contraloría la información relativa a los actos y contratos materia de esta ley, serán establecidos de manera sistemática y coordinada por dichas Secretarías, en el ámbito de sus respectivas atribuciones; las Entidades, además, informarán a su coordinadora de sector en los términos de la Ley para el Control, por parte del Gobierno del Estado, de los Organismos Descentralizados y Empresas de Participación Estatal.
+La forma y términos en que las Dependencias deberán remitir a la Secretaría y a la Función Pública la información relativa a los actos y contratos materia de esta ley, serán establecidos de manera sistemática y coordinada por dichas Secretarías, en el ámbito de sus respectivas atribuciones; las Entidades, además, informarán a su coordinadora de sector en los términos de la Ley para el Control, por parte del Gobierno del Estado, de los Organismos Descentralizados y Empresas de Participación Estatal.
 
 Para tal efecto, las Dependencias y Entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 54.
 
-La Secretaría, la Contraloría y las dependencias coordinadoras de sector, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos y la contratación de servicios, se realicen conforme a lo establecido en esta ley y otras disposiciones aplicables, así como a los programas y presupuestos autorizados.
+La Secretaría, la Función Pública y las dependencias coordinadoras de sector, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos y la contratación de servicios, se realicen conforme a lo establecido en esta ley y otras disposiciones aplicables, así como a los programas y presupuestos autorizados.
 
-La Secretaría y la Contraloría, en ejercicio de sus respectivas facultades podrán realizar las visitas e inspecciones que estimen pertinentes a la Unidad, las Dependencias y Entidades que realicen adquisiciones, arrendamientos y contratación de servicios e igualmente podrán solicitar de los servidores públicos y de los proveedores y contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trata.
+La Secretaría y la Función Pública, en ejercicio de sus respectivas facultades podrán realizar las visitas e inspecciones que estimen pertinentes a la Unidad, las Dependencias y Entidades que realicen adquisiciones, arrendamientos y contratación de servicios e igualmente podrán solicitar de los servidores públicos y de los proveedores y contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trata.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 55.
 
-La comprobación de la calidad de las especificaciones de los bienes muebles se hará en los laboratorios que determine la Contraloría y que podrán ser aquellos con los que cuente la Unidad, la Dependencia o Entidad adquirente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La comprobación de la calidad de las especificaciones de los bienes, muebles y servicios se hará en los laboratorios acreditados que determine la Secretaría de la Función Pública y que podrán ser aquellos con los que cuente la unidad, la dependencia, o entidad adquiriente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la Dependencia o Entidad adquirente, si hubieren intervenido.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2007)</small>
+
+Todo bien, mueble y servicio que esté sujeto al cumplimiento de las normas oficiales mexicanas y que se pretenda su contratación, adquisición y arrendamiento deberá cumplir con ellas, en caso contrario, no podrá realizarse la contratación respectiva.
 
 ## TITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -619,7 +783,9 @@ Los proveedores que infrinjan las disposiciones contenidas en esta ley, serán s
 
 Cuando se trate de las Entidades que se encuentran agrupadas en un Sector, la sanción será impuesta por la Dependencia coordinadora, en su caso.
 
-En los casos en que la adquirente no aplique las sanciones previstas en este artículo en un término de treinta días naturales contados a partir de que tenga conocimiento de la infracción, la Contraloría podrá aplicar la sanción que corresponda al proveedor, sin perjuicio de la responsabilidad en que incurran los servidores públicos, conforme al ordenamiento aplicable en la materia.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+En los casos en que la adquirente no aplique las sanciones previstas en este artículo en un término de treinta días naturales contados a partir de que tenga conocimiento de la infracción, la Función Pública podrá aplicar la sanción que corresponda al proveedor, sin perjuicio de la responsabilidad en que incurran los servidores públicos, conforme al ordenamiento aplicable en la materia.
 
 ###### ARTICULO 57.
 
@@ -669,25 +835,35 @@ La omisión a lo dispuesto en el párrafo anterior será sancionada administrati
 
 Las responsabilidades a que se refiere la presente ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 63.
 
-La Contraloría podrá convenir, en cualquier tiempo, el reconocimiento de adeudo del proveedor, el cual se considerará crédito fiscal para todos los efectos legales.
+La Función Pública podrá convenir, en cualquier tiempo, el reconocimiento de adeudo del proveedor, el cual se considerará crédito fiscal para todos los efectos legales.
 
 ## TITULO SEXTO. DE LOS RECURSOS
 
 ### CAPITULO PRIMERO. DE LOS RECURSOS DE REVISION Y REVOCACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 64.
 
-Los acuerdos y resoluciones que dicten las autoridades por los que se desahogue el procedimiento para imponer sanciones administrativas a los proveedores y multa a los servidores públicos, conforme a esta ley, podrán ser impugnadas por los afectados, mediante el recurso de revisión, del que conocerá la Contraloría, y de revocación, del que conocerá el propio resolutor, que tendrán como finalidad la de garantizar la legalidad y por objeto confirmar, modificar el acuerdo o resolución combatida, que se interpondrán conforme a las siguientes reglas:
+Los acuerdos y resoluciones que dicten las autoridades por los que se desahogue el procedimiento para imponer sanciones administrativas a los proveedores y multa a los servidores públicos, conforme a esta ley, podrán ser impugnadas por los afectados, mediante el recurso de revisión, del que conocerá la Función Pública, y de revocación, del que conocerá el propio resolutor, que tendrán como finalidad la de garantizar la legalidad y por objeto confirmar, modificar el acuerdo o resolución combatida, que se interpondrán conforme a las siguientes reglas:
 
 I.- El recurso de revisión procede respecto de las resoluciones que impongan sanción administrativa a los proveedores que pronuncien las Dependencias o Entidades;
 
-II.- El recurso de revocación procede respecto de las resoluciones que impongan sanciones administrativas pronunciadas por la Contraloría;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
 
-III.- El recurso de revocación procede respecto de los acuerdos pronunciados por la Contraloría, por las Dependencias y Entidades en el seguimiento del procedimiento de responsabilidad a que se refiere esta ley; y
+II.- El recurso de revocación procede respecto de las resoluciones que impongan sanciones administrativas pronunciadas por la Función Pública;
 
-IV.- Procede la revocación respecto de las resoluciones pronunciadas por la Contraloría en que se resuelva la inconformidad.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+III.- El recurso de revocación procede respecto de los acuerdos pronunciados por la Función Pública, por las Dependencias y Entidades en el seguimiento del procedimiento de responsabilidad a que se refiere esta ley; y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2007)</small>
+
+IV.- Procede la revocación respecto de las resoluciones pronunciadas por la Función Pública en que se resuelva la inconformidad.
 
 El término para interponer los recursos a que se refiere el presente artículo será de cinco días hábiles, contados a partir del día siguiente al en que se notifique el acto recurrido o se tenga conocimiento de los acuerdos pronunciados por la autoridad competente. En este último caso, no podrá interponerse recurso alguno con posterioridad a quince días naturales contados a partir de la fecha en que se pronuncien los acuerdos.
 
@@ -715,21 +891,31 @@ VIII.- Concluido el período probatorio, la autoridad revisora emitirá resoluci
 
 ### CAPITULO SEGUNDO. DE LAS INCONFORMIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 66.
 
-Las resoluciones y actos que contravengan las disposiciones que rigen la materia de esta ley serán impugnables a través del recurso de inconformidad del que conocerá la Contraloría, que será promovido por el interesado dentro de los diez días hábiles siguientes a aquél en que éste ocurra o al en que haya sido notificado o haya tenido conocimiento.
+Las resoluciones y actos que contravengan las disposiciones que rigen la materia de esta ley serán impugnables a través del recurso de inconformidad del que conocerá la Función Pública, que será promovido por el interesado dentro de los diez días hábiles siguientes a aquél en que éste ocurra o al en que haya sido notificado o haya tenido conocimiento.
 
 Lo anterior, sin prejuicio de que las personas interesadas previamente manifiesten al superior de la autoridad ejecutante, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato respectivo, a fin de que, si las circunstancias lo permiten, sea corregida la irregularidad.
 
-Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo anterior, la cual será valorada por la Contraloría durante el período de investigación.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
 
-Transcurridos los plazos establecidos en este artículo sin que se haya promovido la inconformidad precluye el derecho para su interposición, sin perjuicio de que la Contraloría pueda actuar en cualquier tiempo en términos de ley.
+Al escrito de inconformidad podrá acompañarse, en su caso, la manifestación aludida en el párrafo anterior, la cual será valorada por la Función Pública durante el período de investigación.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+Transcurridos los plazos establecidos en este artículo sin que se haya promovido la inconformidad precluye el derecho para su interposición, sin perjuicio de que la Función Pública pueda actuar en cualquier tiempo en términos de ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 67.
 
-La Contraloría, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones correspondientes dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que se inicie, y resolverá lo conducente.
+La Función Pública, de oficio o en atención a las inconformidades a que se refiere el artículo anterior, realizará las investigaciones correspondientes dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que se inicie, y resolverá lo conducente.
 
-La Unidad, las Dependencias y Entidades proporcionarán a la Contraloría la información requerida para sus investigaciones, dentro de un término de siete días naturales, contados a partir de la recepción de la respectiva solicitud.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2007)</small>
+
+La Unidad, las Dependencias y Entidades proporcionarán a la Función Pública la información requerida para sus investigaciones, dentro de un término de siete días naturales, contados a partir de la recepción de la respectiva solicitud.
 
 Durante la investigación de los hechos a que se refiere este artículo, podrá suspenderse el proceso de adjudicación cuando:
 
@@ -737,9 +923,11 @@ I.- Se advierta que exista o pudieren existir actos contrarios a las disposicion
 
 II.- Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación, pudieran producirse daños o perjuicios al patrimonio del Estado o Entidad de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 68.
 
-La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá por consecuencia:
+La resolución que emita la Función Pública, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá por consecuencia:
 
 I.- La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley;
 
@@ -828,3 +1016,9 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Para los efectos de lo que se dispone en los Inciso a) y b) del Artículo 14 del Presupuesto de Egreso del Estado, correspondiente al Ejercicio Fiscal de 2006, será aplicable lo establecido conforme a la reforma del Artículo 51 de la Ley de Adquisiciones, Arrendamientos, y Contratación de Servicios para el Estado de Coahuila de Zaragoza, contenido en el presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
