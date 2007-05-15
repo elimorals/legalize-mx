@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2007-02-02"
+last_updated: "2007-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1498,7 +1498,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -2908,9 +2908,9 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 #### SECCION IV. Prueba pericial
 
@@ -3226,7 +3226,7 @@ En los supuestos de presunciones legales que admiten prueba en contrario opera l
 
 ARTICULO 384 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
-> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 #### SECCION X. De la Audiencia
 
@@ -3364,7 +3364,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -6824,6 +6824,14 @@ III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo men
 
 a).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlos: padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+El Juez deberá recabar el informe del Archivo General de Notarias, sobre el registro de la designación de tutor cautelar, de la persona cuya interdicción se pide y, en su caso, los datos de la escritura del otorgamiento de las designaciones de tutor cautelar y curador, en su caso.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+Si el informe arroja que la persona de cuya interdicción se trata no hubiere designado tutor cautelar, el juez procederá a nombrar tutor y curador interinos, cargos que deberán recaer conforme al orden señalado en las personas señaladas en los párrafos que anteceden en ésta fracción.
+
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
@@ -8291,3 +8299,7 @@ G.O. 2 DE FEBRERO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE MAYO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
