@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "1998-07-02"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-06-26"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -100,9 +100,9 @@ b) Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisi
 
 Todo acto que se compruebe que ha sido realizado con la intención de causar daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor.
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
-c) Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos a que se refiere el Título Décimo Quinto del Código Penal para el Distrito Federal, es decir, aquéllos contra la libertad y el normal desarrollo psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
+c) Maltrato Sexual. - Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: inducir a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos establecidos en el Título Quinto del Nuevo Código Penal para el Distrito Federal, es decir, contra la libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -110,19 +110,23 @@ c) Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones rei
 
 Corresponde al Jefe de Gobierno del Distrito Federal, a través de la Secretaría de Gobierno, a la Secretaría de Educación, Salud y Desarrollo Social, a la Secretaría de Seguridad Pública, a la Procuraduría General de Justicia del Distrito Federal y a las Delegaciones, la aplicación de esta Ley.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 5.
 
-A la Secretaría de Gobierno, a la Secretaría de Educación, Salud y Desarrollo Social del Distrito Federal y a las Delegaciones les corresponde la asistencia y prevención de la violencia intrafamiliar. Para efectos de la aplicación de la Ley, dichas instancias establecerán los mecanismos de coordinación.
+A la Secretaria de Gobierno, a la Secretaria de Educación, Salud y Desarrollo Social del Distrito Federal, al Sistema para el Desarrollo Integral de la Familia del Distrito Federal y a las Delegaciones les corresponde la asistencia y prevención de la violencia familiar. Para efectos de la aplicación de la Ley, dichas instancias establecerán los mecanismos de coordinación.
 
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN Y CONCERTACIÓN
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 6.
 
-Se crea el Consejo para la Asistencia y Prevención de la Violencia Familiar en el Distrito Federal, como órgano honorario, de apoyo y evaluación, integrado por 11 miembros, presidido por el Jefe de Gobierno del Distrito Federal, e integrado por: la Secretaría de Gobierno del Distrito Federal, la Secretaría de Salud, Educación y Desarrollo Social, la Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Distrito Federal, tres Diputados de la Asamblea Legislativa del Distrito Federal, que la misma designe y tres representantes de las organizaciones sociales que se hayan destacado por su trabajo y estudio en la materia, invitados por el Jefe de Gobierno.
+Se crea el Consejo para la Asistencia y Prevención de la Violencia Familiar en el Distrito Federal como órgano honorario, de apoyo y evaluación, integrado por doce miembros, presidido por el Jefe de Gobierno del Distrito Federal, e integrado por: La Secretaria de Gobierno del Distrito Federal, la Secretaria de Educación, Salud y Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, la Secretaria de Seguridad Pública, la Procuraduría General de Justicia del Distrito Federal, tres Diputados de la Asamblea Legislativa del Distrito Federal, que la misma designe y tres representantes de las organizaciones sociales que se hayan destacado por su trabajo y estudio en la materia, invitados por el Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
 
 Así mismo, se crean los Consejos para la Asistencia y Prevención de la Violencia Familiar Delegacionales en cada una de las Demarcaciones Territoriales del Distrito Federal, los cuales funcionarán con las mismas características del Consejo arriba señalado y que estará presidido por el delegado político de la demarcación correspondiente, integrado por los subdelegados de Gobierno y Desarrollo Social, el Delegado Regional de la Procuraduría General de Justicia del Distrito Federal, el titular de la región correspondiente de la Secretaría de Seguridad Pública, el titular de la Unidad de Atención, el coordinador del área de educación correspondiente y el titular de la jurisdicción sanitaria, 3 representantes de organizaciones sociales o asociaciones vecinales convocados por el Delegado y dos Diputados de la Asamblea Legislativa, correspondientes a los Distritos Electorales que se encuentren comprendidos en la demarcación de que se trate.
 
@@ -278,9 +282,11 @@ Los órganos jurisdiccionales, a través de sus titulares, y una vez que conozca
 
 ### CAPÍTULO II. DE LA PREVENCIÓN
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PARRAFO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
-Corresponde a la Secretaría de Educación, Salud y Desarrollo Social, además de las funciones que en materia de asistencia social tiene (sic) asignadas, las siguientes:
+Corresponde a la Secretaria de Educación, Salud y Desarrollo Social, además de las funciones que en materia de asistencia social tiene (sic) asignadas, las siguientes:
 
 > <small>(ADICIONADA, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -469,3 +475,9 @@ TERCERO.- Quedan derogadas, todas aquellas disposiciones que contravengan a la p
 CUARTO.- La Secretaría de Gobierno tendrá la obligación de garantizar la instalación de las unidades de atención delegacionales.
 
 QUINTO.- En tanto no sean designados por la Asamblea Legislativa, los Diputados que integrarán el Consejo para la Asistencia y Prevención de la Violencia Familiar en el Distrito Federal, que se menciona en el artículo 8o. de la ley; éste funcionará con los restantes ocho miembros.
+
+G.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
