@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-2358
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-28"
-last_updated: "2007-02-09"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23584&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-22"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 28 de febrero de 2002.
 
@@ -284,9 +284,9 @@ IV. Autorizar el funcionamiento del Servicio de Acomodadores de Vehículos, con 
 
 V. Elaborar, digitalizar y mantener actualizado el padrón de los Establecimientos Mercantiles que operen en sus demarcaciones;
 
-> <small>(REFORMADA, G.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-VI. Llevar a cabo verificaciones ordinarias y extraordinarias, aseguramientos, visitas y tomar en cuenta las resoluciones que le sean entregados por la Procuraduría Federal del Consumidor cuando se desprenda que dentro de algún establecimiento se efectúan prácticas que lesionen la salud, los intereses o derechos de los consumidores; de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias;
+VI. Llevar a cabo verificaciones ordinarias y extraordinarias, aseguramientos, visitas y tomar en cuenta las resoluciones que le sean entregados por la Procuraduría Federal del Consumidor cuando se desprenda que dentro de algún establecimiento se efectúan prácticas que lesionen la salud, los intereses o derechos de los consumidores; de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias. Cada tres meses las Delegaciones deberán de solicitarle a la Procuraduría Federal del Consumidor copia certificada de las resoluciones que al respecto haya emitido, para qué en caso de ser procedente, inicien el procedimiento correspondiente y sancionen aquellos establecimientos que hayan incumplido con los diversos ordenamientos legales a los que están sujetos;
 
 VII. Aplicar las sanciones previstas en la Ley;
 
@@ -368,9 +368,9 @@ XIV. Contar con un programa interno de protección civil, de conformidad con la 
 
 XV. Fijar en un lugar visible del establecimiento un croquis que ubique claramente las rutas de evacuación. En el interior deberá tener a la vista del público las salidas de emergencias debidamente señaladas, así como la localización de extintores, hidrantes, tomas siamesas y otros dispositivos para el control de siniestros, los cuales deberán contar con libre acceso;
 
-(REFORMADA, G.O. 14 DE MAYO DE 2002) (F. DE E., G.O. 6 DE JUNIO DE 2002)
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del establecimiento mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden publico de las zonas inmediatas al mismo.
+XVI. Vigilar que se conserve la seguridad de los asistentes y de los empleados dentro del Establecimiento Mercantil, así como coadyuvar a que con su funcionamiento no se altere el orden público de las zonas inmediatas al mismo. Para ello, los titulares de las Licencias de Funcionamiento Tipo B deberán contar con elementos de seguridad que acrediten estar debidamente capacitados, ya sea por la Secretaría de Seguridad Pública o por cualquiera de las corporaciones de seguridad privada, que estén debidamente registradas ante la Secretaría de Seguridad Pública del Distrito Federal.
 
 En los casos de establecimientos mercantiles que operen como Sucursales de Instituciones de Banca Múltiple, además deberán cumplir con las medidas de seguridad establecidas por esta Ley, su Reglamento y la autoridad competente;
 
@@ -386,7 +386,9 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 XXI. Los titulares de aquellos establecimientos en donde se preste al público el servicio de acceso a la red de internet, en los cuales se permita el acceso a menores, deberán contar con sistemas de bloqueo a páginas o sitios que contengan información pornográfica o imágenes violentas. Las computadoras que contengan dichos sistemas de bloqueos, deberán estar separadas de aquellas que tengan acceso abierto a cualquier información y queda prohibido que los menores tengan acceso a estas últimas;
 
-XXII. Colaborar dentro de sus Establecimientos con campañas sanitarias dirigidas por las autoridades, principalmente aquellas destinadas a la prevención del SIDA, infecciones de transmisión sexual y de prevención de consumo de alcohol y de drogas; y (sic)
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXII. Colaborar dentro de sus Establecimientos con campañas sanitarias dirigidas por las autoridades, principalmente aquellas destinadas a la prevención del SIDA, infecciones de transmisión sexual y de prevención de consumo de alcohol y de drogas, así como a fomentar la cultura de la no violencia;
 
 > <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -398,7 +400,17 @@ b) De las 22:00 a las 6:00 Hrs. será de 85 dB(A)
 
 Será obligación del los titulares instalar sistemas visibles cuya finalidad será revelar a los usuarios expuestos a contaminación por ruido que los niveles señalados anteriormente se han excedido; por lo que en ese momento los titulares o dependientes tendrán la obligación de disminuir la intensidad (volumen) de sonido y ruido hasta que las señalizaciones se apaguen.
 
-XXIV. Las demás que les señalen otros ordenamientos.
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXIV. Los titulares de las Licencias de Funcionamiento tipo B deberán contar con los servicios de uno o más sitios de taxi, los cuales no necesariamente habrán de tener base en el domicilio del establecimiento;
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXV. Deberán romper todas las botellas vacías de vinos y/o licores, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas, y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XXVI. Las demás que les señalen otros ordenamientos.
 
 ###### Artículo 10.
 
@@ -428,9 +440,13 @@ XI. La utilización de la vía pública para la prestación de los servicios o r
 
 XII. Arrojar residuos sólidos y líquidos en las alcantarillas, sin sujetarse a las disposiciones que para el tratamiento de dichas sustancias señalen las autoridades,
 
-XIII. Exhibir material o publicidad de carácter pornográfico hacia la vía pública, y
+XIII. Exhibir material o publicidad de carácter pornográfico hacia la vía pública, y (sic)
 
-XIV. Las demás que señale esta Ley.
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2007)</small>
+
+XIV. Para el caso de los establecimientos con licencia tipo B, obsequiar cualquier tipo de bebida alcohólica;
+
+XV. Las demás que señale esta Ley.
 
 ## TÍTULO SEGUNDO. DE LOS PERMISOS Y AUTORIZACIONES
 
@@ -1515,3 +1531,27 @@ G.O. 9 DE FEBRERO DE 2007.
 PRIMERO.-Se derogan todas las disposiciones que contravengan la presente iniciativa.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal y para su mayor Difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE MAYO DE 2007.
+
+DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 9 Y 10 DE LA LEY.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno del Distrito Federal para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE MAYO DE 2007.
+
+DECRETO QUE REFORMA EL ARTICULO 5 DE LA LEY.
+
+PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal para los efectos de su promulgación y publicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
