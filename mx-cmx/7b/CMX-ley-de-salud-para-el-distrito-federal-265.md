@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "2007-04-26"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987.
 
@@ -60,7 +60,9 @@ III.- Determinar la estructura administrativa y los mecanismos adecuados para qu
 
 Para los efectos de la presente Ley, el derecho a la protección de la salud tiene las siguientes finalidades:
 
-I.- El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+I.- El bienestar físico, mental y social de mujeres, hombres, niñas, niños, las y los jóvenes y personas adultas mayores para contribuir al ejercicio pleno de sus capacidades;
 
 II.- La prolongación y mejoramiento de la calidad de la vida humana;
 
@@ -166,11 +168,17 @@ En materia de Salubridad General a que se refiere el artículo 13 Apartado B) de
 
 I.- Planear, Organizar, Operar, Supervisar y Evaluar de la manera prescrita en la Ley General;
 
-a) La prestación de los servicios de atención médica en sus formas preventivas, curativas y de rehabilitación, preferentemente en beneficio de la población de mayor riesgo y daño;
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
-b) La prestación de los servicios de atención materno-infantil que comprende la atención del niño y la vigilancia de su crecimiento, desarrollo, salud mental y promoción de la vacunación oportuna, y la atención de la mujer durante el embarazo, el parto y el puerperio;
+a) La prestación de los servicios de atención médica en sus formas preventivas, curativas y de rehabilitación, preferentemente en beneficio de mujeres, hombres, niñas, niños, las y los jóvenes y personas adultas mayores en situaciones especiales de vulnerabilidad y de la población de mayor riesgo y daño;
 
-c) La prestación de los servicios de salud para la mujer;
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
+b) La prestación de los servicios de atención materno-infantil que comprende la atención de las niñas y los niños y la vigilancia de su crecimiento, desarrollo de su salud mental, la promoción de la vacunación oportuna, la atención especial a la prevención de embarazos precoces Y la atención de la mujer durante el embarazo, el parto y el puerperio;
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
+c) La prestación de los servicios de salud para la mujer, que incluya además de los establecidos en esta Ley y otros ordenamientos, la atención a las víctimas de violencia familiar, de género, y de contracepción impuestas de manera forzosa;
 
 d) La prestación de los servicios de salud sexual y reproductiva;
 
@@ -180,7 +188,9 @@ f) El ejercicio de las actividades profesionales, técnicas y auxiliares para la
 
 g) La promoción de la formación, capacitación y actualización de recursos humanos para la salud;
 
-h) La promoción de la investigación para la salud y control de ésta en seres humanos, así como el apoyo para el funcionamiento de establecimientos públicos destinados a la investigación en salud;
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
+h) La promoción de la investigación para la salud y el control de ésta en los seres humanos, así como el apoyo para el funcionamiento de establecimientos públicos destinados a la investigación en salud; donde también se realice ésta desde la perspectiva de género y los fenómenos de violencia familiar y el abandono de las obligaciones familiares;
 
 i) La información relativa a las condiciones, recursos y servicios de salud en el Distrito Federal;
 
@@ -205,6 +215,10 @@ q) El programa contra el alcoholismo;
 r) El programa contra el tabaquismo;
 
 s) Ejecutar, en coordinación con la Secretaría de Salud, el Programa contra la Farmacodependencia elaborado por ésta;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MAYO DE 2007)</small>
+
+t) Ejecutar, de conformidad con la Ley General y demás disposiciones aplicables, y en coordinación con la Secretaría del Distrito Federal, un Programa de atención al VIH/SIDA;
 
 II.- Programar, organizar y desarrollar el Sistema de Salud del Distrito Federal, procurando su participación programática en el Sistema Nacional de Salud, coadyuvando a su consolidación y funcionamiento;
 
@@ -250,7 +264,9 @@ VII.- Coordinar, ejecutar y vigilar el cumplimiento del Programa vigente de Salu
 
 VIII.- Coordinar los programas de los servicios de salud en el Distrito Federal;
 
-IX.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente a grupos vulnerables;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
+
+IX. Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente a grupos vulnerables, tal es caso de las niñas, ni1ios, adolescentes; mujeres embarazadas o personas en situaciones especialmente difíciles; adultos mayores; hombres y mujeres con enfermedad física o mental discapacitante, o en desventaja física, económica o cultural;
 
 X.- Definir los criterios de distribución de universos de usuarios, regionalización y escalonamiento, así como universalización de la cobertura;
 
@@ -274,9 +290,59 @@ XIX.- Prestar Servicios médico quirúrgicos a la población abierta y administr
 
 XX.- Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente y demás programas especiales autorizados por el Jefe del Gobierno del Distrito Federal;
 
-XXI.- Fortalecer los programas de atención primaria a la salud, y
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-XXII.- Las demás que le señalen otras leyes y disposiciones aplicables.
+XXI.- Fortalecer los programas de atención primaria a la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXII.- Promover y coadyuvar, en la aplicación de los programas de prevención y atención de violencia familiar y al maltrato infantil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIII.- Promover la investigación en salud desde la perspectiva de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIV.- Promover y coordinar programas de atención especial a la prevención de embarazos precoces;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXV.- Organizar, operar y supervisar el tratamiento específico sobre las formas de contracepción impuestas de manera forzosa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXVI.- Ejecutar, de conformidad con la Ley General y demás disposiciones aplicables, el Programa de atención al VIH/SIDA en el Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXVII.- Implementar programas de prevención, atención a la salud y rehabilitación de víctimas de trata de personas y de prostitución forzada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXVIII.- Implementar programas de atención a la salud de las personas que se dedican a la prostitución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXIX.- Promover investigaciones sobre los problemas prioritarios de asistencia social, en las cuales se incluya el fenómeno de la violencia familiar y el abandono de las obligaciones familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXX.- Garantizar la atención a la salud sexual y reproductiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXXI.- Impulsar acciones que garanticen la igualdad de acceso de mujeres y de hombres a la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXXII.- Impulsar iniciativas destinadas a favorecer la promoción específica de la salud de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XXXIII.- Integrar los principios de igualdad en la formación del personal del servicio de salud, garantizando especialmente su capacidad para atender situaciones de violencia de género, y
+
+XXXIV.- Las demás que le señalen otras leyes y disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 1999)</small>
 
@@ -310,23 +376,23 @@ Para los efectos de la participación del Gobierno en la prestación de los serv
 
 El Sistema de Salud del Distrito Federal está constituido por las dependencias, órganos descentralizados y desconcentrados del Gobierno y las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la Administración Pública Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 14.
 
 El Sistema de Salud del Distrito Federal tiene por objeto ejercer las atribuciones correspondientes para la protección de la salud, en los términos de la Ley General, de la presente Ley y demás disposiciones aplicables y en consecuencia tenderá a:
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-I.- Proporcionar servicios de salud a la población y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Distrito Federal y a los factores que condicionen y causen daños a la salud, con especial énfasis en las acciones de promoción;
+I.- Proporcionar servicios de salud a la población y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Distrito Federal y a los factores que condicionen y causen daños a la salud, con especial énfasis en las acciones de promoción garantizando la igualdad de acceso de mujeres y de hombres a la salud;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-II.- Contribuir al crecimiento demográfico armónico del Distrito Federal, mediante el fortalecimiento del programa salud sexual y reproductiva;
+II.- Contribuir al crecimiento demográfico armónico del Distrito Federal, mediante el fortalecimiento del programa salud sexual y reproductiva y de atención especial a la prevención de embarazos precoces;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-III.- Colaborar al bienestar social de la población apoyando los servicios de asistencia social principalmente a menores en estado de abandono, ancianos desamparados y a las personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo social;
+III.- Colaborar al bienestar social de la población apoyando los servicios de asistencia social principalmente a mujeres, niños, niñas, y personas adultas mayores en estado de abandono y a las personas con discapacidad para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo social;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -342,13 +408,33 @@ VII.- En general, a prestar eficientemente los servicios de salubridad general y
 
 VIII.- Establecer programas para la prevención, detección temprana, atención especializada y rehabilitación de las diferentes discapacidades, así como programas especializados de capacitación, orientación y rehabilitación en materia sexual para la población con discapacidad;
 
-(ADICIONADA, G.O. 30 DE MARZO DE 1999) (F. DE E., G.O. 29 DE ABRIL DE 1999)
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-IX.- Establecer servicios de orientación, diagnóstico y atención para las personas con discapacidad, y
+IX.- Establecer servicios de orientación, diagnóstico y atención para las personas con discapacidad; y (sic)
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 1999)</small>
 
-X.- Establecer y vigilar que las instituciones públicas y privadas de salud, comprendidas en el marco de esta Ley, contemplen las disposiciones relativas al libre desplazamiento, accesibilidad y comunicación.
+X.- Establecer y vigilar que las instituciones públicas y privadas de salud, comprendidas en el marco de esta Ley, contemplen las disposiciones relativas al libre desplazamiento, accesibilidad y comunicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XI.- Realizar y promover la investigación en salud desde la perspectiva de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XII.- Integrar y coordinar programas de prevención así como de atención a la salud y rehabilitación de víctimas de la trata de personas y de la prostitución forzada, así como programas de atención a la salud de las personas que se dedican a la prostitución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XIII.- Promover, como servicio de asistencia social, la paternidad y la maternidad responsables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XIV.- Realizar investigaciones sobre violencia familiar y el abandono de las obligaciones familiares como problemas prioritarios de asistencia social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2007)</small>
+
+XV.- Fomentar la colaboración interinstitucional dirigida al establecimiento y operación de centros y albergues de asistencia social dirigidos a víctimas de violencia de género, violencia familiar, maltrato infantil y abandono.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -834,7 +920,7 @@ El manejo, disposición y expendio de la carne para consumo humano y sus derivad
 
 ### CAPITULO VIII. De los Reclusorios y Centros de Readaptación Social
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 44.
 
@@ -884,13 +970,11 @@ El Gobierno vigilará y procurará que todas las Delegaciones cuenten con sistem
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
-###### ARTICULO 51.
+###### Artículo 51.
 
-Corresponde al Gobierno, integrar, conducir, desarrollar, dirigir y administrar en forma permanente los servicios médico quirúrgicos generales y las especialidades de psiquiatría y de odontología que se presten en los Reclusorios y Centros de Readaptación Social, a efecto de otorgar en forma permanente, oportuna y eficiente la atención a los internos.
+Corresponde al Gobierno, integrar, conducir, desarrollar, dirigir y administrar en forma permanente los servicios médico quirúrgicos generales, la prestación de servicios perinatales a las mujeres reclusas, y las especialidades de psiquiatría y de odontología que se presten en los Reclusorios y Centros de Readaptación Social, a efecto de otorgar en forma permanente, oportuna y eficiente la atención a los internos.
 
-El personal médico, coadyuvará en la elaboración y ejecución de programas nutricionales, de prevención de enfermedades y accidentes.
-
-Para tal efecto, los directores de dichas instituciones deberán proveer de todos los elementos, equipos y materiales para prevenir y en, su caso, contrarrestar los riesgos y daños en la vida y salud de los internos.
+El personal médico, coadyuvará en la elaboración y ejecución de programas de salud sexual y reproductiva, nutricionales, de prevención de enfermedades y accidentes.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1643,3 +1727,9 @@ TERCERO. El Jefe de Gobierno del Distrito Federal, deberá expedir la adecuació
 CUARTO. El Jefe de Gobierno del Distrito Federal promoverá convenios de colaboración para obtener recursos adicionales que permitan atender el derecho de la mujer a la salud sexual y reproductiva.
 
 QUINTO. La Asamblea Legislativa del Distrito Federal realizará una amplia campaña informativa sobre las reformas aprobadas en este decreto.
+
+G.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
