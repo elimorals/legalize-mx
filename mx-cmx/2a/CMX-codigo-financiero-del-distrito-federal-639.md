@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2006-12-30"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -4970,9 +4970,9 @@ III. Certificados de adquisición o enajenación de bienes inmuebles por un per�
 
 IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $207.39
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2007)</small>
 
-V. Por cada informe respecto al registro o depósito de testamentos que se rindan a solicitud de jueces, notarios o el propio testador $804.85
+V. Por cada informe respecto al registro o depósito de testamentos o de designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $804.85
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -5279,6 +5279,10 @@ III. Registro de avisos de testamentos públicos abiertos, cerrados o simplifica
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $1,617.70
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2007)</small>
+
+V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $36.90
 
 ARTICULO 236 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -6344,6 +6348,10 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6379,10 +6387,6 @@ El servicio de recepción de residuos sólidos no peligrosos se prestará siempr
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
-
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -17271,3 +17275,7 @@ La disposición contenida en el artículo 22 relativa, al Fondo Mixto de Desarro
 ###### ARTICULO DECIMO SEGUNDO.
 
 A fin de dar cumplimiento a lo dispuesto en el artículo 451 la Asamblea conjuntamente con la Secretaría llevarán a cabo mesas de trabajo a partir del mes de febrero, con el objeto de definir las reglas de procedimiento y metodología para la aplicación de una fórmula de asignación presupuestal para las delegaciones, las cifras oficiales de los indicadores más recientes y las fuentes de información oficial consultadas.
+
+G.O. 15 DE MAYO DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
