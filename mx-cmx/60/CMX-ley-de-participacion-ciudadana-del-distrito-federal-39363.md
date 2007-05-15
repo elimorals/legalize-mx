@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2005-07-13"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -406,13 +406,17 @@ IV. Presentación de un articulado que cumpla con los principios básicos de té
 
 Cuando la Iniciativa Popular se refiera a materias que no sean de la competencia de la Asamblea Legislativa, la Comisión o el Pleno podrán dar curso aunque el resultado del análisis, dictamen y votación sea sólo una declaración o una excitativa a las autoridades competentes.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### Artículo 37.
 
-Una vez presentada la Iniciativa Popular ante la Mesa Directiva de la Asamblea Legislativa o en sus recesos ante la Comisión de Gobierno, ésta la dará a conocer al Pleno y la turnará a una comisión especial, integrada por los diputados de las Comisiones competentes en la materia de la propuesta, misma que verificará que la iniciativa cumpla los requisitos mencionados en el Artículo siguiente.
+Una vez presentada la Iniciativa Popular ante la Mesa Directiva de la Asamblea Legislativa o en sus recesos ante la Comisión de Gobierno, ésta la dará a conocer al Pleno y la turnará a una comisión especial, integrada por los diputados de las Comisiones competentes en la materia de la propuesta, misma que verificará que la iniciativa cumpla los requisitos mencionados en el artículo anterior.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
 
 ###### Artículo 38.
 
-La Comisión Especial verificará el cumplimiento de los requisitos a que se refiere el Artículo anterior, en caso de que no se cumplan desechará la iniciativa presentada.
+La Comisión Especial verificará el cumplimiento de los requisitos a que se refiere el Artículo 36, en caso de que no se cumplan desechará la iniciativa presentada.
 
 La Comisión Especial deberá decidir sobre la admisión o rechazo de la iniciativa dentro de los 30 días hábiles siguientes a la fecha de su presentación.
 
@@ -1313,3 +1317,9 @@ Para las elecciones de Comités Ciudadanos a celebrarse en el año 2005 no será
 G.O. 13 DE JULIO DE 2005.
 
 Único.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+G.O. 15 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
