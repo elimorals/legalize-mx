@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-13-2002-de-la-comision-de-creacion-de-nuevos-55500
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-26"
-last_updated: "2002-03-26"
+last_updated: "2007-05-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55500&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-03-19"
 
 ACUERDO CCNO/13/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXTENSION DEL LAPSO EN EL QUE SE MODIFICA TEMPORALMENTE LA COMPETENCIA Y REGLAS DE TURNO DE LOS DOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO DE LOS TRES TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO Y XALAPA, VERACRUZ, RESPECTIVAMENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE MAYO DE 2007, QUEDA SIN EFECTOS LA MEDIDA ORDENADA EN EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL D ELA FEDERACION: SIN EFECTOS.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de marzo de 2002.
 
@@ -66,3 +68,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/13/2002, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Extensión del Lapso en el que se Modifica Temporalmente la Competencia y Reglas de Turno de los Dos Tribunales Colegiados en Materias Administrativa y de Trabajo, así como de los Tres Tribunales Colegiados en Materia Civil del Séptimo Circuito, con Residencia en Boca del Río y Xalapa, Veracruz, respectivamente, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el diecinueve de marzo de dos mil dos, por los señores Consejeros: Presidente José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a diecinueve de marzo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE MAYO DE 2007.
+
+PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
