@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-15-2001-de-la-comision-de-creacion-de-nuevos-55501
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-12-14"
-last_updated: "2002-03-26"
+last_updated: "2007-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-06"
 
 ACUERDO CCNO/15/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXTENSION DEL LAPSO EN EL QUE SE MODIFICA TEMPORALMENTE LA COMPETENCIA Y REGLAS DE TURNO DE LOS DOS TRIBUNALES COLEGIADOS EN MATERIAS ADMINISTRATIVA Y DE TRABAJO, ASI COMO DE LOS TRES TRIBUNALES COLEGIADOS EN MATERIA CIVIL DEL SEPTIMO CIRCUITO, CON RESIDENCIA EN BOCA DEL RIO Y XALAPA, VERACRUZ, RESPECTIVAMENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de diciembre de 2001.
 
@@ -51,7 +51,7 @@ ACUERDO
 
 PRIMERO.- Se extiende el lapso en el que se modifica temporalmente la competencia del Primer y Segundo Tribunales Colegiados en Materias Administrativa y de Trabajo del Séptimo Circuito, con residencia en Boca del Río; así como del Primer, Segundo y Tercer Tribunales Colegiados en Materia Civil del propio Circuito, con residencia en Xalapa, todos en el Estado de Veracruz, establecido en el segundo párrafo del punto primero del Acuerdo CCNO/12/2001 de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la extensión del lapso en el que se modifica temporalmente la competencia y reglas de turno de los Tribunales Colegiados anteriormente referidos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/13/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE MARZO DE 2002, SE EXTIENDE EN FORMA INDEFINIDA LA COMPETENCIA DE LOS TRIBUNALES A QUE SE REFIERE EL PRESENTE ACUERDO, A PARTIR DEL 1 DE ABRIL DE 2002, HASTA EN TANTO LO DETERMINE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL PROPIO CONSEJO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 15/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE MAYO DE 2007, QUEDA SIN EFECTO LA MEDIDA ORDENADA EN EL ACUERDO CCNO/13/2002, Y TODAS AQUELLAS DISPOSICIONES DICTADAS CON ANTERIORIDAD, EN LO QUE SE OPONGAN AL ACUERDO SEÑALADO EN PRIMER TERMINO.</small>
 
 El término de la extensión señalada comprenderá del uno de enero al treinta y uno de marzo de dos mil dos; subsistiendo en sus términos los demás puntos del Acuerdo General 20/2001 del Pleno del Consejo de la Judicatura Federal, que modifica de manera temporal la competencia y reglas de turno de los Tribunales Colegiados anteriormente referidos.
 
@@ -72,3 +72,11 @@ D.O.F. 26 DE MARZO DE 2002.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE MAYO DE 2007.
+
+PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
