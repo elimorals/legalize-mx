@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-02-06"
+last_updated: "2007-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -500,9 +500,13 @@ Los representantes de las instituciones que conforman el Consejo, serán un prop
 
 El Consejo será presidido por el Secretario de Cultura del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-El Consejo, reunido en pleno, acordará su mecánica de funcionamiento y emitirá en un plazo no mayor de 60 días a partir de su constitución, las normas operativas necesarias.
+El Consejo, elaborará un plan de trabajo anual en el que establecerá las políticas de operación, objetivos, estrategias, líneas de acción y metas, para garantizar el desarrollo de las actividades culturales de manera integral ante las instancias correspondientes.
+
+El plan de trabajo lo emitirá la instancia correspondiente, en un plazo no mayor a los 60 días hábiles a partir de su constitución.
 
 ###### ARTÍCULO 30.
 
@@ -524,15 +528,21 @@ El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria,
 
 Los Consejos Delegacionales serán el órgano asesor de los Jefes Delegacionales para el cumplimiento de la política cultural planteada en el Programa Delegacional de Fomento y Desarrollo Cultural.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+
+Los Consejos Delgacionales (sic) se deberán constituir dentro de los primeros 45 días hábiles a partir de que el Jefe Delegacional entrante tome posesión de su administración, de la misma manera se deberá de informar ante las instancias correspondientes los integrantes de dichos consejos.
+
 > <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 34.
 
 Los Consejos Delegacionales colaborarán con el Jefe Delegacional en la elaboración del Programa Delegacional, planteando opiniones o sugerencias concretas que sirvan para promover el fomento cultural de la demarcación, conforme al Programa General de Fomento y Desarrollo Cultural del Distrito Federal, debiendo sesionar trimestralmente mediante convocatoria del Jefe Delegacional, con un quórum de las dos terceras partes del total de los integrantes, sin perjuicio de que sean convocadas las sesiones extraordinarias que se consideren pertinentes.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 35.
 
-Los Consejos Delegacionales emitirán, a petición del Consejo, su opinión sobre los avances y metas obtenidas en el fomento y desarrollo cultural de su demarcación.
+Los Consejos Delegacionales remitirán al Consejo, un informe relevante 2 veces al año, el primero, en un plazo no mayor a los 60 días naturales comprendido del 15 de Noviembre al 15 de Enero, y el segundo en un plazo no mayor a 30 días naturales comprendido del 1 al 30 de junio, para que sea considerado como instrumento en la formulación de los planes, programas y políticas culturales e integrando (sic) al Sistema Integral.
 
 ###### ARTÍCULO 36.
 
@@ -963,3 +973,7 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 15 DE MAYO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federa y para su mayor difusión en el Diario Oficial de la Federación.
