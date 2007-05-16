@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2007-05-09"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2007.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -61,27 +61,59 @@ DE LOS DERECHOS FUNDAMENTALES.
 
 En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
+
+Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
+
+La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 I.- Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 II.- Toda persona tiene derecho a la información.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 Toda persona tiene el derecho a acceder a la información pública, salvo en aquellos casos establecidos en la ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 El Estado garantizará el ejercicio de este derecho.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 Para proteger sus datos, toda persona tiene el derecho a acceder a información sobre sí misma o sus bienes asentada en archivos, bases de datos o registros públicos o privados y tiene el derecho a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 La ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 Para garantizar y hacer efectivo el adecuado y pleno ejercicio de los derechos de acceso a la información pública y protección de datos personales, se crea el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública como un organismo público autónomo, con personalidad jurídica y patrimonio propios y tendrá, en el ámbito de su competencia, facultades para sancionar.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 El Instituto tendrá un Consejo General, será el órgano supremo y se integrará por cinco consejeros propietarios, quienes designarán a su presidente de entre sus miembros.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 Habrá cinco consejeros suplentes. Las faltas de los consejeros propietarios serán suplidas por aquellos, en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 Los consejeros gozarán de las debidas garantías para ejercer su encargo con plena libertad e independencia.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+
 Los consejeros propietarios y suplentes durarán en su encargo siete años y no podrán ser reelectos, en los términos de la ley. Serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
 
@@ -1283,9 +1315,9 @@ La Diputación Permanente dará cuenta al Congreso, en la segunda sesión del pe
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2007)</small>
 
-### CAPITULO VII
+### CAPÍTULO VII
 
-DE LA AUDITORIA SUPERIOR DEL ESTADO.
+DE LA AUDITORÍA SUPERIOR DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -1491,7 +1523,7 @@ Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
-XXIII.- Presentar al Congreso del Estado la cuenta pública estatal, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período; y en el segundo, dentro de los dos meses posteriores a la terminación del ejercicio fiscal.
+XXIII.- Presentar al Congreso del Estado la cuenta pública estatal, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período; y en el segundo, dentro de los dos meses posteriores a la terminación del ejercicio fiscal;
 
 XXIV.- Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley.
 
@@ -2525,7 +2557,7 @@ El encargado de las finanzas del Estado y los demás funcionarios y empleados qu
 
 La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado.
 
-> <small>(REFORMADA SU DENOMINACION (N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 9 DE MAYO DE 2007)</small>
 
 ### CAPITULO V.
 
@@ -3344,3 +3376,13 @@ La verificación del cumplimiento de los planes, programas y proyectos referente
 ###### ARTÍCULO SEXTO.
 
 Conforme a lo que dispone el artículo 202 de la Constitución Política del Estado, remítase copia del dictamen, de la iniciativa y de Diario de los Debates del Congreso a los 67 municipios del Estado y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la Declaración de haber sido aprobada la reforma a la Constitución Política del Estado.
+
+P.O. 16 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
