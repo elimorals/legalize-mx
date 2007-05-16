@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2007-02-28"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2007.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -957,7 +957,11 @@ XVIII.- Las demás que establezcan las leyes y reglamentos.
 
 Son autoridades municipales auxiliares:
 
-I.- Las Juntas Municipales, que se integran por el Presidente Seccional y dos Regidores; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2007)</small>
+
+I.- Las Juntas Municipales, que se integran por el Presidente Seccional y dos Regidores.
+
+En las secciones municipales con más de cuatro mil habitantes existirá un regidor más, que será el primero de la lista de la planilla que hubiere alcanzado el segundo lugar, siempre que su porcentaje sea por lo menos el cincuenta por ciento de la votación alcanzada por la planilla ganadora.
 
 II.- Los Comisarios de Policía.
 
@@ -3796,3 +3800,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Remítase copia del presente decreto al Instituto Nacional de Estadística, Geografía e Informática para los efectos a que haya lugar.
+
+P.O. 16 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor conforme al artículo 44, fracción I del Código Municipal para el Estado de Chihuahua, independientemente de su publicación en el Periódico Oficial del Estado.
