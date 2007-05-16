@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-03-14"
+last_updated: "2007-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -439,7 +439,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 18.
 
@@ -483,17 +483,23 @@ El voto deberá ser libre, igual, universal, secreto y directo, las autoridades 
 
 La certeza, seguridad, legalidad, independencia, veracidad, objetividad e imparcialidad, serán principios rectores de las autoridades electorales.
 
-Los Poderes Públicos serán imparciales, deberán abstenerse de apoyar directa o indirectamente a cualquier partido o candidato. Durante las elecciones, participarán exclusivamente en el ejercicio de las atribuciones que expresamente les confiere la ley. Las Autoridades Estatales y Municipales, así como las Delegaciones del Organo Ejecutivo Federal deberán cesar la difusión pública de obras y programas un mes antes del día de la elección. Cualquier violación a esta disposición, independientemente de la sanción penal respectiva, será castigada en términos del Título Noveno de esta Constitución. Corresponde a la Fiscalía Electoral la vigilancia de estas disposiciones.
+Los poderes públicos serán imparciales, deberán abstenerse de apoyar directa o indirectamente a cualquier partido o candidato. Durante las elecciones, participarán exclusivamente en el ejercicio de las atribuciones que expresamente les confiere la ley. Las Autoridades Estatales y Municipales, así como las Delegaciones del Organo Ejecutivo Federal deberán cesar la difusión pública de obras y programas un mes antes del día de la elección. Cualquier violación a esta disposición, independientemente de la sanción penal respectiva, será castigada en términos del Título Noveno de esta Constitución. Corresponde a la Fiscalía Electoral la vigilancia de estas disposiciones.
 
-La función electoral, recaerá en: El Tribunal Electoral del Poder Judicial del Estado, el Instituto Estatal Electoral, la Fiscalía Electoral y la Contraloría de la Legalidad Electoral.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
-El Tribunal Electoral del Poder Judicial del Estado y el Instituto Estatal Electoral serán competentes para la calificación de las elecciones en los términos de sus respectivas atribuciones.
+La función electoral, recaerá en: el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, el Instituto Estatal Electoral, la Fiscalía Electoral y la Contraloría de la Legalidad Electoral.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
+El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado y el Instituto Estatal Electoral serán competentes para la calificación de las elecciones en los términos de sus respectivas atribuciones.
 
 El Instituto Estatal Electoral es un organismo independiente, permanente, imparcial, autónomo y público del Estado, responsable de la preparación, organización y vigilancia de las elecciones estatales y municipales, así como corresponsable en la vigilancia de las precampañas. El Instituto será autoridad en la materia y profesional en su desempeño, para lo cual deberá establecer un servicio civil electoral. La ley regulará el ingreso, promoción y remoción de sus integrantes quienes, en todos los casos, deberán ser ciudadanos comprometidos. El Instituto contará con personalidad jurídica y patrimonio propio.
 
 El Instituto contará, en su estructura, con Organos de Dirección, Ejecutivos y Técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque las actividades del Instituto se guíen por los principios rectores de la función estatal electoral. Se integrará por un Consejero Presidente y ocho Consejeros Electorales con voz y voto. Además, concurrirán, con voz pero sin voto, los Representantes de los Partidos Políticos y un Secretario Ejecutivo. Asimismo habrá seis Consejeros Electorales Suplentes en orden de prelación. La ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Los Organos Ejecutivos y Técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, así como los Magistrados del Tribunal Electoral, serán elegidos por el Congreso del Estado y, en sus recesos, por la Comisión permanente, con el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, podrán ser reelectos para otro periodo y no deberán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su presidente.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
+El Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, serán elegidos por el Congreso del Estado y, en sus recesos, por la Comisión Permanente, con el voto de las dos terceras partes de sus miembros presentes, de entre las propuestas que formulen las fracciones parlamentarias. Durarán en el cargo siete años, podrán ser reelectos para otro periodo y no deberán tener otro empleo, cargo o comisión, con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia pública, no remunerados. El Secretario Ejecutivo del Instituto será nombrado por el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
 
 La Legislación Electoral establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, quienes estarán sujetos al régimen de responsabilidades establecidas en el Título Noveno de esta Constitución.
 
@@ -527,9 +533,13 @@ Del financiamiento público, exclusivamente el diez por ciento deberá destinars
 
 La ley regulará los gastos máximos que podrán erogar los partidos políticos y candidatos en las precampañas y campañas electorales. Establecerá las modalidades y límites a las aportaciones privadas, el control, vigilancia y fiscalización de los recursos de los partidos políticos, así como las sanciones que deberán aplicarse por incumplimiento de estas disposiciones. Asimismo, deberá contener las reglas y criterios para determinar el financiamiento público.
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación, que tendrá como objetivo dar definitividad a las distintas etapas del proceso electoral y garantizar la protección de los derechos políticos de los ciudadanos consagrados a esta Constitución.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación que tendrá como objetivo dar definitividad a las distintas etapas del proceso electoral y garantizar la protección de los derechos políticos de los ciudadanos consagrados en esta Constitución.
 
-El Instituto Estatal Electoral y el Tribunal Electoral del Poder Judicial del Estado serán competentes para conocer las impugnaciones en los términos que establecen esta Constitución y la ley, la cual fijará, en todo caso, los plazos suficientes para el desahogo de todas las instancias impugnativas.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
+El Instituto Estatal Electoral y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado serán competentes para conocer las impugnaciones en los términos que establecen esta Constitución y la ley, la cual fijará, en todo caso, los plazos suficientes para el desahogo de todas las instancias impugnativas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE MAYO DE 2007)</small>
 
 En materia electoral, la interposición de los medios de impugnación legales no producirá efectos suspensivos sobre la resolución o acto impugnado.
 
@@ -539,7 +549,7 @@ La ley tipificará los delitos y determinará las faltas y responsabilidades en 
 
 ### CAPITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 20.
 
@@ -607,7 +617,7 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 ### CAPITULO TERCERO. DEL NOMBRAMIENTO DE LOS FUNCIONARIOS JUDICIALES
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 27.
 
@@ -651,7 +661,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias qu
 
 ### CAPITULO CUARTO. DEL CONTROL CONSTITUCIONAL
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 29.
 
@@ -893,9 +903,9 @@ La elección de gobernador se realizará a través de elecciones auténticas, pe
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
-### CAPITULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+### CAPITULO QUINTO. DEL CONSEJO DE LA MAGISTRATURA
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 35.
 
@@ -1179,43 +1189,55 @@ El Presidente de la Comisión de los Derechos Humanos presentará anualmente al 
 
 ###### ARTICULO 49.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia; en un Tribunal Electoral, en un Tribunal del Servicio Civil; Juzgados de Primera Instancia; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena y Juzgados Municipales. Las particularidades de su organización y desempeño, serán prevista (sic) por la Ley Orgánica del Poder Judicial y su Reglamento, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
+Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley.
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción de la Sala Superior estará a cargo del Consejo de la Judicatura, en los términos que al efecto señale esta Constitución y la Ley Orgánica del Poder Judicial.
+La impartición de justicia en Chiapas, contará también con medios alternativos para la resolución de controversias de derechos sobre los cuales, los particulares puedan disponer libremente, sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia de paz, estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permitan.
 
-El Tribunal Electoral del Poder Judicial del Estado será la máxima autoridad jurisdiccional en la materia, tendrá competencia y organización para funcionar en Pleno y Salas, y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y por dos magistrados supernumerarios que harán las veces de Jueces Instructores.
+En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
-La administración, vigilancia y disciplina de los recursos presupuestales del Tribunal Electoral del Poder Judicial del Estado, corresponderá en los términos que señale la Ley a una Comisión del Consejo de la Judicatura, que se integrará por el Presidente del Tribunal Electoral, quien la presidirá, un Magistrado Electoral numerario designado por insaculación; y tres miembros del Consejo de la Judicatura. El Tribunal propondrá su presupuesto al Presidente de la Sala Superior del Supremo Tribunal de Justicia, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado, asimismo el Tribunal expedirá su reglamento interno y los acuerdos generales para su adecuado funcionamiento.
+Para el ejercicio de sus atribuciones, el Poder Judicial contará con una Magistratura Superior del Estado, compuesta por un Tribunal Constitucional y Salas Regionales Colegiadas; un Consejo de la Magistratura; un Tribunal de Justicia Electoral y Administrativa; un Tribunal del Trabajo Burocrático; Juzgados de Primera Instancia; Juzgados y Salas especializadas en Justicia para Adolescentes; Juzgados de Paz y Conciliación; Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, Juntas de Conciliación y Juntas de Conciliación y Arbitraje; asimismo contará con un Centro de Justicia Alternativa y un Instituto de la Defensoría Social. Las particularidades de su organización y desempeño, serán previstas por un Código de Organización del Poder Judicial y en el Reglamento Interno que al efecto emita cada uno de sus órganos, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
 
-Los Jueces y Magistrados del Poder Judicial contarán con independencia en el ejercicio de sus funciones. Esta Constitución y la Ley Orgánica de la materia establecerán los mecanismos que garanticen dicha independencia, igualmente establecerán las condiciones de ingreso, formación, permanencia y remoción de todo funcionario judicial.
+El Personal de la Junta Local de Conciliación y Arbitraje, así como el de las Juntas Locales de Conciliación, formarán Parte del Poder Judicial del Estado.
 
-El Magistrado Presidente del Supremo Tribunal de Justicia tendrá la representación del Poder Judicial del Estado. Presidirá el Pleno de la Sala Superior y del Consejo de la Judicatura. Deberá informar por escrito a ambas instancias en el mes de diciembre de cada año, sobre el estado que guarda la impartición y administración de justicia y la situación administrativa del Poder Judicial; de igual manera informará por escrito al Congreso del Estado; y ejercerá las demás atribuciones que le confiera esta Constitución y las leyes que de ella emanen.
+El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en las materias Electoral y Administrativa; sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas, y sus sesiones serán públicas. Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Congreso del Estado o por la Comisión Permanente en su caso, de entre las propuestas que formulen los grupos parlamentarios, durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo Igual; los restantes, serán designados por el Tribunal Constitucional de entre los magistrados de las Salas Regionales Colegiadas.
+
+El Tribunal del Trabajo Burocrático, estará integrado por siete magistrados designados por las siguientes Instancias.
+
+Dos por el Poder Ejecutivo, uno por el Tribunal Constitucional de la Magistratura Superior del Poder Judicial del Estado; uno propuesto por la mayoría de los Municipios de la Entidad y hasta un máximo de tres propuestas de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
+
+El Presidente del Tribunal del Trabajo Burocrático, lo será el designado por el Poder Judicial.
+
+La designación de los Magistrados nombrados por el Ejecutivo del Estado será directa. El magistrado cuya propuesta provenga de los Ayuntamientos, deberá ser aprobado por el Congreso del Estado mediante los mecanismos que la ley de la materia establezca. Todos los Magistrados integrantes del Tribunal del Trabajo Burocrático deberán reunir los mismos requisitos que se exigen para ser magistrado de las Salas Regionales de la Magistratura Superior del Estado; además deberán contar con experiencia en materia laboral acreditada por un periodo no menor de tres años. Durarán en el encargo cuatro años sin posibilidad de reelección.
+
+El Tribunal del Trabajo Burocrático funcionará en Pleno y en Salas. La ley determinará sus respectivas competencias y la forma de su organización y funcionamiento.
+
+Esta Constitución y la Ley respectiva garantizarán la estabilidad e independencia de los magistrados, jueces y demás funcionarios judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+
+Ningún funcionario del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 50.
 
-El Supremo Tribunal de Justicia se integrará con el número de magistrados que determine su Ley Orgánica de conformidad con el número de salas que requiera para la eficiente administración e impartición de justicia; funcionará en una Sala Superior y en Salas Regionales Colegiadas y Unitarias, con las atribuciones y facultades señalas en esta Constitución, la Ley Orgánica del Poder Judicial y su respectivo Reglamento.
+La Magistratura Superior del Estado se integra por un Tribunal Constitucional, y el número de Salas Regionales Colegiadas por materia y mixtas que determine el Consejo de la Magistratura, de acuerdo con las atribuciones y facultades señaladas en esta Constitución y la Ley respectiva.
 
-Los Magistrados de la Sala Superior del Supremo Tribunal de Justicia serán nombrados por el Congreso del Estado, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes del total de sus integrantes. Para tal efecto, el Gobernador del Estado someterá una terna por cada uno de ellos a consideración del H. Congreso del Estado para que, previa comparecencia de las personas propuestas, designe a los Magistrados que deban acceder al cargo. La designación se hará dentro de un plazo que no excederá de siete días. Si el Congreso no resuelve dentro de dicho plazo ocupará el cargo de Magistrado la persona que nombre el Gobernador del Estado dentro de los propuestos en la terna.
+El Tribunal Constitucional se integra por tres magistrados nombrados por el Congreso del Estado, o la Comisión Permanente en su caso, a propuesta del titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes. La designación se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de magistrado, la persona que haya sido propuesta por el titular del Ejecutivo del Estado.
 
-Los Magistrados de la Sala Superior durarán en su encargo siete años y no podrán ser designados para un siguiente período.
+Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y no podrán ser designados para un siguiente periodo.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+El Tribunal Constitucional residirá en la capital del Estado; sus atribuciones serán las establecidas en esta Constitución y en la Ley respectiva. Funcionará siempre en Pleno, sus sesiones serán públicas y sus resoluciones deberán ser tomadas por mayoría.
 
-La Sala Superior residirá en la Capital del Estado; su jurisdicción y competencia serán las establecidas en esta Constitución y en la Ley Orgánica respectiva; las sesiones ordinarias del Pleno deberán ser acordadas por unanimidad de sus miembros.
+El presidente del Tribunal Constitucional lo será también de la Magistratura Superior del Estado, quien será electo cada tres años con posibilidades de reelección hasta por una sola vez y a él corresponderá la administración del Tribunal.
 
-El Presidente del Supremo Tribunal de Justicia lo será el Presidente de la Sala Superior quien será elegido por el Pleno de la propia Sala cada tres años en la primera semana del mes de enero, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe; pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno.
+El Presidente de la Magistratura Superior del Estado tendrá la representación del Poder Judicial del Estado. De manera anual enviará al Congreso del Estado, un Informe escrito sobre el estado que guarda la impartición y administración de justicia.
 
-La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior corresponderá a su Presidente.
+La Magistratura Superior del Estado elaborarán su proyecto de presupuesto; el Consejo de la Magistratura lo hará para el resto del Poder Judicial del Estado. En los términos del artículo 57 de esta Constitución, los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial del Estado y remitidos por el Consejo de la Magistratura para su inclusión en el proyecto del Presupuesto de Egresos del Estado.
 
-Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior por defunción, renuncia, incapacidad o cualquier otra causa y el Congreso se encuentre en receso, la Comisión permanente de inmediato convocará a un período extraordinario de sesiones para hacer el nombramiento correspondiente. Conocerá de la terna respectiva y resolverá sobre su aprobación.
+Cuando ocurriere una vacante definitiva de algún miembro del Tribunal Constitucional por defunción, renuncia, incapacidad o cualquier otra causa se dará aviso inmediato al Titular del Poder Ejecutivo para proceder en los términos del párrafo segundo del artículo 50 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de magistrados, tanto del Tribunal Constitucional, como de las Salas Regionales, se incluya como máximo al setenta por ciento de personas del mismo sexo.
 
-El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de Magistrados, tanto de la Sala Superior, como de las Regionales, se incluya como máximo al setenta por ciento de personas del mismo sexo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
@@ -1223,181 +1245,183 @@ El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en 
 
 ###### ARTICULO 51.
 
-La Sala Superior sesionará en Pleno o en Salas. Actuando en Pleno será el órgano rector de los criterios jurídicos de interpretación de esta Constitución y las leyes que de ella emanen. El Pleno estará integrado por siete Magistrados, pero bastará la presencia de cinco para que pueda sesionar. Son atribuciones del Pleno las siguientes:
+El Tribunal Constitucional será el órgano rector de los criterios jurídicos de interpretación conforme de esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+Tendrá las siguientes atribuciones:
 
-En Pleno:
+I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el artículo 133, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+II. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en los actos u omisiones a que se refiere el Título Noveno de esta Constitución;
 
-I.- Garantizar la supremacía y control de esta Constitución mediante su interpretación.
+III. Conocer de oficio los casos de contradicción de criterios que se susciten entre las Salas Regionales y determinar la aplicación obligatoria de sus resoluciones;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+IV. Resolver los conflictos de competencia que se susciten entre Salas Regionales o entre Juzgados de Primera Instancia;
 
-II.- Erigirse en Tribunal de Sentencia, y conocer de los juicios y procedimientos instaurados a los Servidores Públicos que incurran en los actos u omisiones a que se refiere el Título Noveno de esta Constitución.
+V. Designar a los miembros del Consejo de la Magistratura y del Tribunal de Justicia Electoral y Administrativa que correspondan al Poder Judicial;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
+VI. Conocer de los asuntos a petición fundada del Fiscal General de Justicia del Estado, que por su interés o trascendencia así lo ameriten; y
 
-III.- Dirimir conflictos de competencia que se susciten entre Salas Regionales o entre los Juzgados, así como los casos de contradicción de tesis de las mismas.
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-IV.- Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial respecto de los asuntos que les compete conocer, para la mejor y mayor prontitud de su despacho.
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
-
-V. Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Fiscal General del Estado, que por su interés o trascendencia así lo ameriten.
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VI.- Designar a los miembros del Consejo de la Judicatura que corresponda al Poder Judicial, y
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VII.- Ejercer las demás facultades que le confieran esta Constitución y la Ley.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-En Salas:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-VIII.- Conocer de los asuntos en apelación, de oficio o a petición fundada de la correspondiente Sala Colegiada o Unitaria Regional, o del Procurador General de Justicia del Estado, que por su interés o trascendencia así lo ameriten;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-IX.- Resolver de oficio o a petición fundada de parte los juicios de nulidad que conforme a la Ley de Justicia Administrativa se tramiten en las Salas;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2004)</small>
-
-X.- Conocer a petición de la Sala Superior de los juicios administrativos radicados en las Salas Regionales por resoluciones que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo Estatal o Municipal, en funciones administrativas o fiscales.
+VII. Ejercer las demás atribuciones que les confieran esta Constitución y la Ley.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 52.
 
-Los nombramientos de los Magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo en otras ramas de la profesión jurídica, lo ameriten.
+Los nombramientos de magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo en otras ramas de la profesión jurídica, lo ameriten.
 
-Los nombramientos de los Magistrados de las Salas Regionales Colegiadas y Unitarias, los hará el Titular del Poder Ejecutivo tomando en cuenta, en su caso, la opinión que para ese efecto emita el Consejo de la Judicatura, en términos de la Ley Orgánica del Poder Judicial. Dichos nombramientos deberán contar además con la aprobación del Congreso, el que la otorgará o negará de manera razonada dentro del término improrrogable de siete días; si el Congreso no resolviere dentro del precitado término, se tendrán por aprobados los nombramientos.
+Los nombramientos de los magistrados de las Salas Regionales Colegiadas, los hará el Titular del Poder Ejecutivo en los términos del artículo 50 de esta Constitución, dichos nombramientos deberán ser aprobados por el Congreso del Estado o la Comisión Permanente en su caso.
 
-Cuando el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Titular del Poder Ejecutivo hará un tercer nombramiento, que surtirá sus efectos desde luego con el carácter de provisional, sin perjuicio de ser sometido a la aprobación del Congreso. Si este estuviere en receso el día del tercer nombramiento, deberá dictar su resolución dentro de los cinco primeros días que siga al inicio del siguiente período de sesiones. Si aprobara el nombramiento, o no acuerda en nada sobre el particular, el Magistrado nombrado provisionalmente continuará en sus funciones con carácter definitivo. Si el Congreso no aprueba el nombramiento, el Magistrado Provisional cesará desde luego en sus funciones y el Gobernador hará un nuevo nombramiento que también someterá a la aprobación del Congreso en los expresados términos.
+En caso de ratificación, el Ejecutivo Podrá recabar la opinión del Consejo de la Magistratura, en términos de la Ley respectiva.
 
-Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado de la Sala Regional y el Congreso se encuentre en receso, la Comisión Permanente conocerá del nombramiento respectivo, y dará su aprobación en los mismos términos del párrafo anterior.
+Cuando el Congreso del Estado o la Comisión Permanente en su caso, no apruebe dos nombramientos sucesivos respecto de una misma vacante, el titular del Poder Ejecutivo hará un tercer nombramiento, el cual surtirá sus efectos con carácter provisional, sin perjuicio de ser ratificado por el Congreso.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún magistrado de Sala el Consejo de la Magistratura dará aviso inmediato al Titular del Poder Ejecutivo para que proceda al nombramiento de la magistratura vacante, en términos del artículo 50 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 53.
 
-Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
+Para ser integrante de la Magistratura Superior del Estado se requiere:
 
-I.- Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y tener su domicilio en el Estado;
+I. Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y tener su domicilio en el Estado;
 
-II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación y hasta setenta y cinco años como máximo en el cargo de magistrado;
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello;
+III. Poseer el día del nombramiento con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, difamación, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, difamación, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+V. No ser ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento;
 
-V. No haber sido Secretario del Despacho, Fiscal General del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
+VI. No haber sido Secretario de Despacho, Fiscal General del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
 
-VI.- Los demás requisitos que señale la Ley.
+VII. Acreditar conocimientos especializados en materia constitucional para el caso de los magistrados del Tribunal Constitucional; y
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+VIII. Los demás requisitos que señale la ley.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 54.
 
-La Ley Orgánica del Poder Judicial del Estado establecerá las bases del Sistema Institucional para la selección, formación y actualización de funcionarios, así como para el Desarrrollo de la Carrera Judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia.
+El Código de Organización Judicial del Estado establecerá las bases del sistema institucional para la selección, formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia.
 
-De igual forma establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes.
+El Reglamento respectivo, establecerá el concurso de oposición abierto para ocupar cualquier plaza de funcionario judicial o juez, salvo los previstos en el párrafo sexto del artículo 55 de esta Constitución.
 
-La Ley garantizará la estabilidad y la independencia de los Magistrados, Jueces y demás funcionarios judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+De igual forma la Ley establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes, realizados por la Visitaduría del Consejo de la Magistratura del Poder Judicial del Estado.
 
-Ningún funcionario del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
+La Visitaduría estará integrada por cinco Magistrados Visitadores, uno de los cuales será su titular, quienes serán nombrados a propuesta del Titular del Poder Ejecutivo y ratificada por el Congreso, o la Comisión Permanente en su caso, en los términos del segundo párrafo del artículo 50 de esta Constitución.
 
-La remuneración de los jueces, magistrados y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
+El Poder Judicial del Estado contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, el cual actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. El Código de Organización del Poder Judicial delimitará su estructura y funcionamiento en tanto que los procedimientos respectivos, estarán señalados en la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+La remuneración de los jueces, magistrados y consejeros de la magistratura, no podrá ser disminuida durante el tiempo de su gestión.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 55.
 
-Los Magistrados de Salas Regionales del Supremo Tribunal de Justicia del Estado, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos de la Ley Orgánica del Poder Judicial del Estado.
+Los magistrados de Salas Regionales Colegiadas de la Magistratura Superior del Estado, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos de la Ley de la materia.
 
-Tanto Jueces como Magistrados tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación.
+Tanto jueces como magistrados tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación. Para el caso de conclusión del encargo por las razones de edad, a que se refiere el artículo 53 fracción II de esta Constitución, tendrán derecho a un haber único correspondientes a seis meses de las percepciones ordinarias al tiempo de su separación.
 
-Los Magistrados sólo podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el título noveno de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, serán proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la Ley.
 
-Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos y sólo serán removidos por las causales y en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
+Los magistrados exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el Título Noveno de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
-Los Jueces de Paz y Conciliación, de Paz y Conciliación Indígenas y los Jueces Municipales, serán nombrados por el Consejo de la Judicatura del Estado, a propuesta de los Ayuntamientos respectivos, con base en la normatividad que para tal efecto contemple la Ley Orgánica del Poder Judicial del Estado.
+Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Magistratura y exclusivamente serán removidos por las causales y en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la ley para ocupar el cargo.
 
-Los Jueces de Primera Instancia y Magistrados, no podrán actuar como representantes de cualquier naturaleza, en los procesos, en los que hubieren intervenido en el ejercicio de sus funciones, ante los órganos del Poder Judicial del Estado, en el año inmediato siguiente al de su separación o retiro del cargo.
+Los Jueces de Paz y Conciliación, de Paz y Conciliación Indígenas, serán nombrados por el Consejo de la Magistratura del Estado a propuesta de los Ayuntamientos respectivos, tomando en consideración su calidad de conciliadores reconocida por el Centro de Justicia Alternativa del Poder Judicial del Estado, así como su correspondiente acreditación por el órgano encargado de la Carrera Judicial y demás normatividad que para tal efecto contemple el Código de Organización del Poder Judicial del Estado. El mismo mecanismo de nombramiento será aplicable a los Jueces Municipales, con excepción del reconocimiento y acreditación como conciliadores.
+
+El titular del Centro de Justicia Alternativa del Poder Judicial del Estado, también será nombrado por el Consejo de la Magistratura del Estado, de entre aquellos que aprueben satisfactoriamente el curso de formación para mediadores y conciliadores y hayan resultado electos mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos para la designación de los demás funcionarios del Centro, estarán fijados en la Ley, sin contravenir a lo establecido en esta Constitución.
+
+Los Jueces de Primera Instancia y Magistrados, no podrán actuar como representantes de cualquier naturaleza, en ningún proceso, ante los órganos del Poder Judicial del Estado, durante el año siguiente al de su separación o retiro
+
+Las decisiones del Pleno del Consejo de la Magistratura serán definitivas e inatacables.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 56.
 
-La justicia del control constitucional local se erige dentro del Régimen Interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de Supremacía Constitucional.
+La justicia del control constitucional local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de supremacía constitucional.
 
-El Control Constitucional local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+El control constitucional local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para el cumplimiento de las atribuciones del control constitucional local señaladas en las fracciones I y II del artículo 51 de esta Constitución, el Pleno de la Sala Superior del Supremo Tribunal de Justicia en su carácter de Tribunal del Control Constitucional conocerá y resolverá, en los términos que establezca la Ley, con excepción de los electorales, de los medios de control constitucional siguientes:
+Para el cumplimiento de las atribuciones del control constitucional local señaladas en las fracciones I y II del artículo 51 de esta Constitución, el Tribunal Constitucional, conocerá y resolverá, en los términos que establezca la ley, con excepción en la materia electoral, de los medios de control constitucional siguientes:
 
-I.- De las controversias constitucionales que surjan entre:
+I. De las controversias constitucionales que surjan entre:
 
-a).- Dos o más Municipios;
+a) Dos o más Municipios;
 
-b).- Uno o más Municipios y el Poder Ejecutivo o el Legislativo; y
+b) Uno o más Municipios y el Poder Ejecutivo o el Legislativo; y
 
-c).- El Poder Ejecutivo y el Legislativo.
+c) El Poder Ejecutivo y el Legislativo.
 
-Siempre que las controversias versen sobre disposiciones generales de los poderes Ejecutivo, Legislativo, o de los Municipios, y la resolución del Pleno de la Sala Superior las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas por cinco votos de sus miembros y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado.
+Siempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los Municipios, y la resolución del pleno del Tribunal Constitucional las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado.
 
-II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerciten dentro de los treinta días naturales siguientes a su publicación por:
+II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerciten dentro de los treinta días naturales siguientes a su publicación por:
 
-a) El Gobernador del Estado; o
+a) El Gobernador del Estado;
 
-b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de leyes locales o expedidas por el Congreso del Estado.
+b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de leyes expedidas por el Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+c) El Fiscal General del Estado, en contra de leyes expedidas por el Congreso del Estado;
 
-c) El Fiscal General del Estado, en contra de leyes de carácter estatal;
+d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la Entidad.
 
-d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la entidad.
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por cinco votos de los miembros del pleno de la sala superior, y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado; sin poder aplicarse retroactivamente excepto cuando se trate de asuntos del orden penal y en beneficio del inculpado.
+III. De las acciones por omisión legislativa, cuando se considere que el Congreso no ha resuelto alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
 
-III.- De las acciones por omisión legislativa, cuando se considere que el Congreso no ha resuelto alguna Ley o Decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
-
-a) El Gobernador del Estado; o
+a) El Gobernador del Estado;
 
 b) Cuando menos la tercera parte de los miembros del Congreso;
 
-c) Cuando menos la tercera parte de los Ayuntamientos.
+c) Cuando menos la tercera parte de los Ayuntamientos;
 
-La resolución que emita el Pleno de la Sala Superior que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado; en dicha resolución se determinará un plazo que comprenda dos períodos ordinarios de sesiones del Congreso del Estado, para que éste resuelva.
+d) Cuando menos el 5% de los ciudadanos inscritos en el padrón electoral.
 
-IV.- A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
+La resolución que emita el Tribunal Constitucional que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado; en dicha resolución se determinará como plazo un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el Congreso, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución del Estado de Chiapas, si el Congreso no lo hiciere en el plazo fijado, el Tribunal Constitucional lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso subsane la omisión legislativa.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 57.
 
-El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con independencia técnica, encargado de la vigilancia, disciplina y carrera judicial del Supremo Tribunal de Justicia y Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígenas y Juzgados Municipales, de igual forma atenderá lo concerniente a la administración de los órganos del Poder Judicial, con la excepción de la Sala Superior. El Consejo de la Judicatura será presidido por el Magistrado que ocupe la presidencia de la Sala Superior y funcionará con un Secretario Ejecutivo, que será designado por el propio Consejo, a propuesta de su Presidente.
+El Consejo de la Magistratura es un órgano del Poder Judicial del Estado, con independencia técnica, encargado de la vigilancia, disciplina, administración y carrera judicial de los órganos del Poder Judicial, con las excepciones previstas en esta Constitución.
 
-Los Consejeros de la Judicatura serán nombrados de la siguiente forma: dos por el Pleno de la Sala Superior, de los cuales uno será seleccionado de entre los magistrados de las Salas Regionales y el otro, de entre los Jueces de Primera Instancia, elegido por votación directa del total de Jueces de Primera Instancia; uno más, nombrado por el Congreso del Estado y otro, nombrado por el titular del Poder Ejecutivo del Estado. Los Consejeros de la Judicatura no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos de esta Constitución.
+Estará integrado por cinco consejeros, nombrados de la siguiente forma:
 
-Las particularidades de los nombramientos, así como las del ejercicio de sus funciones, se regulan en la Ley Orgánica del Poder Judicial del Estado y su Reglamento Interno.
+V. (SIC) Dos por el Tribunal Constitucional, de los cuales uno será seleccionado tomando en consideración los criterios de antigüedad, preparación profesional y eficacia en el desempeño de las funciones, de entre una terna de. Magistrados de las Salas Regionales que le presente el Consejo de la Magistratura; y el otro, será elegido por Insaculación en audiencia pública, de entre una lista de cinco Jueces de Primera Instancia que se hayan distinguido por los mismos criterios utilizados para la elección de los anteriores,
 
-Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, durarán tres años en su cargo, y podrán ser designados por un período más; ejercerán su función con independencia e imparcialidad y deberán reunir los requisitos previstos en el Artículo 53 de esta Constitución y quedarán sujetos a las responsabilidades que establece el Título Noveno de esta Constitución, la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades de los Servidores Públicos.
+VI. Dos nombrados por el Congreso del Estado o por la Comisión Permanente en su caso; y
 
-El Consejo de la Judicatura funcionará en pleno o en comisiones; el pleno, emitirá las opiniones que le solicite el Gobernador del Estado sobre el nombramiento o ratificación de los Magistrados Regionales; resolverá sobre el nombramiento, adscripción o remoción de Jueces, Secretarios de Acuerdos y Secretarios Actuarios, así como de los demás funcionarios judiciales; de la misma forma está facultado para establecer los sistemas de selección de los servidores públicos del Poder Judicial y demás asuntos que la Ley determine. Las decisiones del Consejo de la Judicatura podrán ser revocadas por acuerdo de las dos terceras partes del Pleno de la Sala Superior.
+VII. Uno nombrado por el titular del Poder Ejecutivo del Estado.
 
-El Consejo de la Judicatura tendrá a su cargo la administración de los recursos humanos, materiales y financieros del Poder Judicial, con excepción de la Sala Superior; en el caso del Tribunal Electoral, la Comisión Electoral realizará estas funciones de conformidad con lo establecido por el Artículo 49 de esta Constitución, la vigilancia y disciplina de los órganos jurisdiccionales así como la capacitación y profesionalización del personal. Deberá determinar los Distritos Judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígenas, Juzgados Municipales; así como la residencia, la jurisdicción territorial y la especialización que por materia le corresponda.
+Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Noveno de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
-Además, informará sobre su gestión al Pleno de la Sala Superior, en los términos de la Ley Orgánica; elaborará el Presupuesto del Poder Judicial, con la excepción antes citada; los someterá a la consideración del Pleno de la Sala Superior y una vez aprobado lo remitirá para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
+Los Consejeros de la Magistratura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, durarán cuatro años en su cargo y podrán ser designados por un periodo más; ejercerán sus atribuciones con independencia e imparcialidad y deberán reunir los requisitos previstos en el artículo 53 de esta Constitución, con excepción de la especialidad en materia constitucional. Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Noveno de este Constitución, el Código de Organización del Poder Judicial del Estado y la Ley de Responsabilidades de los Servidores Públicos.
+
+El Consejo de la Magistratura será presidido por el Consejero que resulte electo por el Pleno. La presidencia del Consejo será rotativa entre sus integrantes y se ejercerá por periodo de dos años con posibilidad de reelección para otro tanto igual. El Consejo de la Magistratura contará con un Secretario Ejecutivo, quien será designado por el propio Consejo, a propuesta de su Presidente.
+
+Corresponde al Consejo de la Magistratura:
+
+I. Participar en la designación de magistrados en los términos del artículo 52 párrafo segundo de esta Constitución;
+
+II. Designar, adscribir o remover en los términos de esta Constitución y la ley de la materia, los funcionarios judiciales y personal administrativo;
+
+III. Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial para la mejor y mayor prontitud de su despacho;
+
+IV. Establecer y ejecutar el sistema de carrera judicial en los términos y condiciones que establece esta Constitución;
+
+V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa, Tribunal del Trabajo Burocrático del Estado y de la Junta Local de Conciliación, quienes lo harán a través de una comisión de administración;
+
+VI. Determinar los Distritos Judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados y Salas Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación Indígenas, Juzgados Municipales y Subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda;
+
+VII. Administrar los recursos financieros del Fondo Auxiliar para la Administración de Justicia, conforme a los lineamientos señalados en esta Constitución y lo que determine la Ley;
+
+VIII. Los demás asuntos que esta Constitución y la Ley determinen.
+
+Para los efectos de la fracción V del presente artículo, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa, del Tribunal del Trabajo Burocrático y de la Junta Local de Conciliación y Arbitraje, corresponderá en los términos que señale la Ley, a una Comisión del Consejo de la Magistratura, que estará integrada para el caso del Tribunal de Justicia Electoral y Administrativa por su Presidente, un magistrado del mismo Tribunal designado por insaculación y un consejero de la Magistratura. La (sic) Comisiones de Administración del Tribunal del Trabajo Burocrático y de la Junta Local de Conciliación y Arbitraje estarán integradas, por su presidente y dos consejeros de la Magistratura. Las comisiones de cada uno de estos órganos del Poder Judicial, serán presididas por sus titulares, respectivamente, y tendrán atribución para presentar su anteproyecto de presupuesto al Consejo de la Magistratura, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2830,3 +2854,75 @@ P.O. 14 DE MARZO DE 2007.
 Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE MAYO DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de lo previsto en los artículos siguientes.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Segundo.- La Sala Superior, a partir de la publicación del presente decreto, remitirá al Tribunal Constitucional los nuevos recursos de revisión, para su substanciación y resolución, respecto a los procedimientos administrativos que se ventilen en las Salas del Supremo Tribunal del (sic) Justicia del Estado, así como de las apelaciones a que hace referencia la fracción XXV, del artículo 11, de la actual Ley Orgánica del Poder Judicial del Estado de Chiapas.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Así también, el Tribunal Constitucional resolverá los recursos de revisión y apelación que hasta la entrada en vigor del presente decreto le hubieren sido turnados.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Tercero.- La designación de los Magistrados que integrarán el Tribunal Constitucional de la Magistratura Superior del Estado, se hará en un plazo que no exceda de treinta días a partir de la publicación del presente decreto, en los términos establecidos por el artículo 50, de esta Constitución.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Los Magistrados de la Sala Superior del Supremo Tribunal de Justicia que no formen parte del Tribunal Constitucional, serán adscritos a las Salas Regionales hasta la conclusión del encargo por el cual fueron designados, con los mismos emolumentos que percibían por razón de su encargo, sin que esto implique ratificación alguna.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Desde el momento en que sea designado el Presidente del Tribunal Constitucional, la Sala Superior cesará en sus funciones, quien por conducto de su Secretario General de Acuerdos y del Pleno, harán la entrega recepción de todos los asuntos pendientes de resolver a la Secretaría General de Acuerdos y del Pleno de la Magistratura Superior del Estado.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Cuarto.- El Tribunal Constitucional tramitará y resolverá los recursos de revisión en materia administrativa, en tanto se dé cumplimiento a lo previsto por el artículo noveno transitorio de este decreto.
+
+Quinto.- Los procedimientos de constitucionalidad que actualmente se estén tramitando en la Sala Superior del Supremo Tribunal de Justicia del Estado y que no hubiesen sido resueltos, serán turnados al Tribunal Constitucional para su trámite y conclusión.
+
+Sexto.- El Consejo de la Magistratura será instalado en un plazo que no exceda de noventa días, contados a partir de la publicación del presente decreto y serán nombrados los Consejeros dentro del mismo plazo, en la forma prevista por el artículo 57, de esta Constitución.
+
+Los consejeros de la Judicatura que no formen parte del nuevo Consejo de la Magistratura podrán ser reubicados o tendrán derecho a un haber en los términos de lo establecido en el artículo 55 constitucional.
+
+Séptimo.- El Consejo de la Magistratura del Poder Judicial del Estado, procederá a la instalación y funcionamiento del Centro Estatal de Justicia Alternativa, a más tardar en el término de dos años posteriores a la entrada en vigor del presente decreto; mientras tanto, dicho Consejo establecerá las acciones correspondientes, encaminadas a la capacitación y profesionalización del personal que laborará en ese centro.
+
+Octavo.- Dentro del plazo de dos años, contados a partir de la entrada en vigor del presente decreto, el Consejo de la Magistratura realizará las acciones que sean pertinentes para la instauración de los juicios orales en los procesos que para tal efecto la ley determine.
+
+Noveno.- El Tribunal de Justicia Electoral y Administrativa iniciará sus funciones a partir del día 02 de enero de 2008.
+
+Los Magistrados del Tribunal de Justicia Electoral y Administrativa habrán de nombrarse a más tardar el 31 de diciembre del año en curso, a fin de Iniciar sus funciones en la fecha de instalación, conociendo a partir de entonces los asuntos administrativos que se presenten.
+
+El nombramiento de los Magistrados del Tribunal de Justicia Electoral y Administrativa podrá recaer en alguno o algunos de los que actualmente integran el Tribunal Electoral del Poder Judicial del Estado, siempre que así lo decida el Congreso del Estado o la Comisión Permanente, en cuyo caso, deberán reunir los requisitos establecidos para tal efecto y su nombramiento durará únicamente siete años sin posibilidad de ser reelectos para otro periodo.
+
+Los Magistrados del Tribunal Electoral del Poder Judicial del Estado que no fueren electos para fungir como tales en el Tribunal de Justicia Electoral y Administrativa, tendrán derecho a un haber único correspondiente a tres meses de salario ordinario que perciban al día de su separación; esta remuneración será otorgada por el Tribunal Electoral de las economías generadas en el capítulo correspondiente.
+
+> <small>(F. DE E., P.O. 23 DE MAYO DE 2007)</small>
+
+Décimo.- Los Magistrados del Supremo Tribunal de Justicia y Jueces de Primera Instancia, así como demás personal jurisdiccional con intervención en actuaciones judiciales, mantendrán las mismas competencias y funciones, y las que resulten conforme a este Decreto, por lo que continuarán con los trámites de los expedientes puestos a su conocimiento, previa razón en cada uno de ellos.
+
+Las Salas Regionales Unitarias ubicadas en Tapachula de Córdova y Ordóñez en materia penal y las mixtas de Tonalá, Comitán, Pichucalco y Palenque, continuarán ejerciendo la competencia y funciones que actualmente tienen, hasta en tanto se integra el Consejo de la Magistratura y resuelve lo conducente.
+
+Décimo Primero.- Los recursos humanos, materiales y financieros que actualmente conforman al Supremo Tribunal de Justicia del Estado, la Sala Superior, el Consejo de la Judicatura, el Tribunal del Servicio Civil y el Tribunal Electoral, todos del Poder Judicial del Estado, se transferirán en lo que proceda a la Magistratura Superior del Estado, Tribunal Constitucional, Consejo de la Magistratura, Tribunal del Trabajo Burocrático y Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, respectivamente.
+
+Décimo Segundo.- La conformación actual de la Junta Local de Conciliación y Arbitraje y las correspondientes Juntas de Conciliación, sus recursos humanos, materiales y financieros, formarán parte de la Junta Local de Conciliación y Arbitraje del Poder Judicial del Estado, sin menoscabo de la independencia y autonomía de los representantes del Capital, Obrero y Gobierno, en apego al artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Décimo Tercero.- A partir de la entrada en vigor del Código de Organización del Poder Judicial del Estado, el personal jurídico de las Juntas de Conciliación y Arbitraje y Juntas de Conciliación, estarán comprendidos en los regímenes de responsabilidades de los servidores públicos del Poder Judicial del Estado y de carrera judicial.
+
+Décimo Cuarto.- Los Magistrados del Tribunal del Servicio Civil, que no formen parte del Tribunal del Trabajo Burocrático, tendrán derecho a un haber en términos del Artículo 55 Constitucional.
+
+Los Magistrados del Tribunal del Trabajo Burocrático, deberán ser nombrados en un término de treinta días, contados a partir de la publicación del presente decreto.
+
+En tanto no sea instalado, el Tribunal del Trabajo Burocrático, los Magistrados del Tribunal del Servicio Civil deberán de continuar con el trámite de los asuntos de su conocimiento.
+
+Los asuntos que no hubieren sido concluidos por el Tribunal del Servicio Civil, serán tramitados y resueltos por el Tribunal del Trabajo Burocrático conforme a las normas aplicables vigentes al momento de su interposición, y con las mismas competencias y funciones asignadas originalmente y las que resulten conforme a este Decreto.
+
+Décimo Quinto.- En el plazo de noventa días contados a partir de la publicación del presente decreto, deberá emitirse el Código de Organización del Poder Judicial del Estado de Chiapas.
+
+Décimo Sexto.- En tanto entra en vigencia el Código de Organización del Poder Judicial del Estado, se observará en lo que proceda, la Ley Orgánica del Poder Judicial del Estado de Chiapas y su Reglamento. Lo no previsto será resuelto mediante acuerdo por el Tribunal Constitucional o el Consejo de la Magistratura, según sea el caso de conformidad a sus atribuciones.
+
+Décimo Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
