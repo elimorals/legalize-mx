@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2007-01-17"
+last_updated: "2007-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
 
-Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
+Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -4426,6 +4426,10 @@ Todo inculpado tendrá derecho durante la averiguación previa y en el proceso j
 
 I. Que garantice el monto estimado de la reparación del daño;
 
+> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2007)</small>
+
+En todo caso, el monto estimado de la reparación del daño deberá ser exhibido en efectivo.
+
 Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo;
 
 II. Que garantice el monto estimado de las sanciones pecuniarias que en su caso puedan imponérsele;
@@ -4484,11 +4488,11 @@ V. Otras que racionalmente conduzcan a crear seguridad de que no procurará sust
 
 Las garantías a que se refieren las fracciones I y II del artículo 556 sólo podrán ser reducidas en los términos expuestos en el primer párrafo de este artículo cuando se verifique la circunstancia señalada en la fracción III del presente artículo. En este caso, si se llegare a acreditar que para obtener la reducción el inculpado simuló su insolvencia, o bien, con posterioridad a la reducción de la caución recuperó su capacidad económica para cubrir los montos de las garantías inicialmente señaladas, de no restituir éstas en el plazo que el juez señale para ese efecto, se le revocará la libertad provisional que tenga concedida.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 561.
 
-La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En el caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el Ministerio Público, el juez o el tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
+La naturaleza de la caución quedará a elección del inculpado, excepto la parte que garantice el monto estimado de la reparación del daño, que siempre deberá exhibirse en efectivo; quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En el caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el Ministerio Público, el Juez o el Tribunal, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -4582,11 +4586,11 @@ VII. (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
 VIII. (DEROGADA, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 569.
 
-En caso de revocación de la libertad caucional se mandará reaprehender al procesado y, salvo la causa prevista en la fracción IV del artículo 568 de este código, se hará efectiva a favor de la víctima o del ofendido por el delito la garantía relativa a la reparación del daño; las que versen sobre las sanciones pecuniarias y para el cumplimiento de las obligaciones derivadas del proceso, se harán efectivas a favor del Estado.
+En caso de revocación de la libertad caucional se mandará reaprehender al procesado y, salvo la causa prevista en la fracción IV del artículo 568 de este código, se hará efectiva a favor de la víctima o del ofendido por el delito la garantía relativa a la reparación del daño; las que versen sobre las sanciones pecuniarias y para el cumplimiento de las obligaciones derivadas del proceso, se harán a favor de los Fondos de Apoyo a la Procuración y Administración de justicia, de acuerdo a las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 570.
 
@@ -5757,3 +5761,17 @@ DECRETO QUE REFORMA EL ARTICULO 290, PARRAFO SEGUNDO DEL CODIGO DE PROCEDIMIENTO
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 17 DE MAYO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de compactación y reciclamiento se obtengan.
+
+TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
+
+Los productos de las enajenaciones relacionadas en los artículos transitorios anteriores, se depositarán en la cuenta de fondos propios del Fondo de Apoyo a la Procuración de Justicia, y treinta días naturales después de la constitución del fideicomiso correspondiente, se entregará la parte que corresponde al Tribunal Superior de Justicia del Distrito Federal, para que a su vez deposite los recursos en el apartado de fondos propios del Fondo de Apoyo a la Administración de Justicia.
+
+CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
+
+QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
