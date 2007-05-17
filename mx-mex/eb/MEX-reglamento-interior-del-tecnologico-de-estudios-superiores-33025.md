@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3302
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-23"
-last_updated: "2003-06-23"
+last_updated: "2007-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MAYO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 23 de junio de 2003.
 
@@ -57,9 +57,11 @@ IV. Director, al Director del Tecnológico de Estudios Superiores del Oriente de
 
 El Tecnológico es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confieren el Decreto y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
+
 ###### Artículo 4.
 
-El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
+El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, y por lo que establezcan otros ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -89,9 +91,11 @@ Corresponde a la Junta el ejercicio de las atribuciones señaladas en el Decreto
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL DIRECTOR
 
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
+
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social, y durará en su cargo cuatro años, pudiendo ser confirmado para un segundo periodo.
+Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, y durará en su cargo cuatro años, pudiendo ser confirmado para un segundo periodo.
 
 ###### Artículo 11.
 
@@ -121,23 +125,31 @@ XI. Impulsar la ejecución de acciones de modernización administrativa y vigila
 
 XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
 
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
+
 ###### Artículo 12.
 
 Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Subdirección Académica;
+I. Subdirección Académica.
 
-II. Subdirección de Planeación y Vinculación;
+II. Subdirección de Planeación y Vinculación.
 
-III. Subdirección de Administración y Finanzas;
+III. Subdirección de Administración y Finanzas.
 
-IV. División de Ingeniería Industrial;
+IV. División de Ingeniería Industrial.
 
-V. División de Licenciatura en Contaduría; y
+V. División de Licenciatura en Contaduría.
 
 VI. División de Ingeniería en Sistemas Computacionales.
 
-El Director contará con los servidores públicos, órganos técnicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
+VII. División de Ingeniería Ambiental.
+
+VIII. Unidad Jurídica.
+
+IX. Contraloría Interna.
+
+El Tecnológico contará con las demás unidades administrativas que le sean aprobadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable estructura orgánica y presupuesto autorizados.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS SUBDIRECTORES Y JEFES DE DIVISION
 
@@ -173,19 +185,25 @@ XI. Participar, en el ámbito de su competencia, en la elaboración, ejecución 
 
 XII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES Y DE LAS DIVISIONES
+> <small>(REFORMADA SU DENOMINACION, G.G. 17 DE MAYO DE 2007)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES, DIVISIONES, UNIDAD JURIDICA y CONTRALORIA INTERNA
+
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
 
 ###### Artículo 15.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería industrial, de ingeniería en sistemas computacionales y de contaduría, así como coordinar la prestación de los servicios de control escolar y promover el desarrollo académico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, coordinar, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería industrial, contaduría, ingeniería en sistemas computacionales e ingeniería ambiental, así como coordinar la prestación de los servicios de control escolar y promover el desarrollo académico del Tecnológico.
 
 Quedan adscritas a la Subdirección Académica:
 
-I. División de Ingeniería Industrial;
+I. División de Ingeniería Industrial.
 
-II. División de Licenciatura en Contaduría; y
+II. División de Licenciatura en Contaduría.
 
 III. División de Ingeniería en Sistemas Computacionales.
+
+IV. División de Ingeniería Ambiental.
 
 ###### Artículo 16.
 
@@ -209,9 +227,17 @@ VIII. Presentar al Director proyectos de ampliación y mejoramiento de espacios 
 
 IX. Orientar el proceso de selección de alumnos de nuevo ingreso al Tecnológico, con el apoyo de las unidades administrativas correspondientes;
 
-X. Integrar y, en su caso, presidir los órganos colegiados académicos previstos por la normatividad; y
+> <small>(REFORMADA, G.G. 17 DE MAYO DE 2007)</small>
 
-XI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+X. Integrar y, en su caso, presidir los órganos colegiados académicos previstos por la normatividad;
+
+> <small>(REFORMADA, G.G. 17 DE MAYO DE 2007)</small>
+
+XI. Participar en la evaluación del desempeño del personal docente del tecnológico, y
+
+> <small>(ADICIONADA, G.G. 17 DE MAYO DE 2007)</small>
+
+XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
 ###### Artículo 17.
 
@@ -223,7 +249,9 @@ II. Proyectar la planeación de la institución a corto, mediano y largo plazos,
 
 III. Proponer criterios y lineamientos para la planeación, presupuestación, organización, control y evaluación de las funciones del Tecnológico;
 
-IV. Participar en la evaluación del desempeño del personal docente del Tecnológico;
+> <small>(REFORMADA, G.G. 17 DE MAYO DE 2007)</small>
+
+IV. Integrar y someter a la consideración del Director, modificaciones a la estructura orgánica y manuales administrativos del Tecnológico;
 
 V. Impulsar la vinculación entre el Tecnológico y los sectores público, social y privado para el cumplimiento de los programas académicos y el beneficio comunitario;
 
@@ -235,7 +263,9 @@ VIII. Organizar, previa autorización del Director, conferencias, seminarios, ex
 
 IX. Colaborar con el Patronato del Tecnológico en la gestoría para obtener recursos financieros;
 
-X. Proponer al Director la celebración de acuerdos y convenios para el cumplimiento de los objetivos del Tecnológico;
+> <small>(REFORMADA, G.G. 17 DE MAYO DE 2007)</small>
+
+X. Proponer al Director la celebración de acuerdos, convenios y contratos para el cumplimiento de los objetivos del Tecnológico;
 
 XI. Integrar, operar y mantener actualizado el sistema de información del Tecnológico;
 
@@ -269,109 +299,121 @@ IX. Integrar y someter a la consideración del Director los proyectos de manuale
 
 X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
+
 ###### Artículo 19.
 
-Corresponde a la División de Ingeniería Industrial:
+Corresponde a los Jefes de División, en el ámbito de su competencia:
 
-I. Coordinar y ejecutar los planes y programas académicos y de investigación de la carrera de ingeniería industrial;
+I. Ejecutar y vigilar el cumplimiento de los planes y programas académicos y de investigación de la carrera a su cargo, que permitan el avance del conocimiento y fortalezcan la enseñanza tecnológica.
 
-II. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de ingeniería industrial y vigilar su cumplimiento;
+II. Someter a la consideración del Subdirector Académico, modificaciones al contenido temático de los planes y programas académicos y de investigación de la División a su cargo.
 
-III. Proponer modificaciones a los planes y programas de estudio de la División;
+III. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de la División a su cargo.
 
-IV. Ejecutar y vigilar el cumplimiento de los planes y programas de estudio de la División;
+IV. Proponer técnicas de enseñanza y métodos de evaluación para eficientar las actividades académicas de la División a su cargo y vigilar su cumplimiento.
 
-V. Supervisar la aplicación de los lineamientos académicos en materia de prácticas curriculares;
+V. Impulsar la incorporación de métodos y tecnología novedosa en el proceso enseñanza-aprendizaje de la División a su cargo.
 
-VI. Proponer y aplicar técnicas de enseñanza y métodos de evaluación de las actividades académicas de la División;
+VI. Participar, con las instancias competentes, en la evaluación curricular de la División a su cargo.
 
-VII. Impulsar el estudio y la aplicación de tecnología novedosa en la carrera de ingeniería industrial;
+VII. Opinar, en el ámbito de su competencia, sobre la revalidación de los estudios realizados en otras instituciones de educación.
 
-VIII. Participar en la definición y evaluación del perfil profesional del personal académico de la División;
+VIII. Proponer el intercambio de información de los programas académicos y de investigación a su cargo, con instituciones nacionales y extranjeras afines, previa autorización del Subdirector Académico.
 
-IX. Integrar la planta docente de la División y someterla a consideración del Subdirector Académico;
+IX. Proponer criterios para la asignación de becas a los estudiantes de la División a su cargo.
 
-X. Proponer al Subdirector Académico cursos de formación y superación académica del personal docente de la División;
+X. Fomentar la titulación de los alumnos egresados de la División a su cargo.
 
-XI. Conocer y opinar sobre las licencias, permisos, comisiones e incapacidades del personal de la División;
+XI. Supervisar, en el ámbito de su competencia, la aplicación de los lineamientos académicos en materia de prácticas profesionales, a fin de coadyuvar al cumplimiento de los planes y programas de estudio de la División a su cargo.
 
-XII. Participar en los cuerpos colegiados del Tecnológico cuando se traten asuntos relacionados con las funciones de la División;
+XII. Determinar, en coordinación con las instancias competentes, el perfil profesional del personal académico que requiera contratarse en la División a su cargo.
 
-XIII. Fomentar la titulación de los alumnos egresados de la carrera de ingeniería industrial;
+XIII. Proponer al Subdirector Académico programas de formación y actualización del personal docente de la División a su cargo.
 
-XIV. Vigilar que los estudios realizados en otras instituciones de educación que soliciten ser revalidados, sean congruentes con los planes y programas de estudio de la División;
+XIV. Integrar la planta docente de la División a su cargo y someterla a la consideración del Subdirector Académico.
 
-XV. Vigilar que los talleres y laboratorios de la División se encuentren en condiciones propicias para el desarrollo de las actividades respectivas; y
+XV. Supervisar las actividades del personal docente adscrito a la división a su cargo, así como aplicar exámenes de oposición para ocupar plazas vacantes.
 
-XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+XVI. Vigilar que los talleres y laboratorios de la División a su cargo se encuentren en condiciones propicias para el desarrollo de las actividades respectivas.
+
+XVII. Participar en los cuerpos colegiados del tecnológico cuando se traten asuntos relacionados con las funciones de la División a su cargo.
+
+XVIII. Realizar seguimiento de las residencias profesionales que realicen los estudiantes de la División a su cargo.
+
+XIX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Subdirector Académico y el Director.
+
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
 
 ###### Artículo 20.
 
-Corresponde a la División de Licenciatura en Contaduría:
+Corresponde a la Unidad Jurídica:
 
-I. Coordinar y ejecutar los planes y programas académicos y de investigación de la licenciatura en contaduría;
+I. Representar legalmente al Tecnológico en los asuntos jurídicos en que intervenga o tenga interés jurídico, previo mandato o delegación le otorgue el Director.
 
-II. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de la licenciatura en contaduría;
+II. Asesorar jurídicamente al Director y a los servidores públicos del Tecnológico que lo requieran, respecto al cumplimiento de la normatividad para el desarrollo de sus funciones.
 
-III. Proponer modificaciones a los planes y programas de estudio de la División;
+III. Atender el despacho de los asuntos que en materia jurídica requiera el Tecnológico y participar en los juicios en que éste sea parte.
 
-IV. Ejecutar y vigilar el cumplimiento de los planes y programas de estudio de la División;
+IV. Revisar y en su caso formular los proyectos de reglamentos, acuerdos, convenios, contratos y demás instrumentos jurídicos del Tecnológico.
 
-V. Supervisar la aplicación de los lineamientos académicos en materia de prácticas curriculares;
+V. Auxiliar en los trámites sobre la situación legal del personal extranjero que labore en el Tecnológico.
 
-VI. Proponer y aplicar técnicas de enseñanza y métodos de evaluación de las actividades académicas de la División;
+VI. Realizar los trámites que se requieren para el registro legal de patentes y derechos de autor que tenga el Tecnológico.
 
-VII. Participar en la definición y evaluación del perfil profesional del personal académico de la División;
+VII. Intervenir en las diligencias, procedimientos, juicios y controversias laborales, penales, civiles y demás que se susciten y que afecten al personal, a los intereses o al patrimonio del Tecnológico.
 
-VIII. Integrar la planta docente de la División y someterla a consideración del Subdirector Académico;
+VIII. Tramitar la legalización, regularización y registro de los bienes inmuebles que conformen el patrimonio del Tecnológico.
 
-IX. Proponer al Subdirector Académico cursos de formación y superación académica del personal docente de la División;
+IX. Registrar y organizar los documentos que acrediten el origen de la propiedad y posesión de los bienes inmuebles destinados al servicio del Organismo.
 
-X. Conocer y opinar sobre las licencias, permisos, comisiones e incapacidades del personal de la División;
+X. Compilar y difundir los ordenamientos jurídicos que regulen la organización y el funcionamiento del Tecnológico.
 
-XI. Participar en los cuerpos colegiados del Tecnológico cuando se traten asuntos relacionados con las funciones de la División;
+XI. Verificar la aplicación de las normas que regulan las relaciones de trabajo en el Tecnológico.
 
-XII. Fomentar la titulación de los alumnos egresados de la licenciatura en contaduría;
+XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
-XIII. Vigilar que los estudios realizados en otras instituciones de educación que soliciten ser revalidados, sean congruentes con los planes y programas de estudio de la División; y
-
-XIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+> <small>(REFORMADO, G.G. 17 DE MAYO DE 2007)</small>
 
 ###### Artículo 21.
 
-Corresponde a la División de Ingeniería en Sistemas Computacionales:
+Corresponde a la Contraloría Interna:
 
-I. Coordinar y ejecutar los planes y programas académicos y de investigación de la carrera de ingeniería en sistemas computacionales;
+I. Vigilar en el ámbito de su competencia, el cumplimiento de los programas de las unidades administrativas del tecnológico e informar al Director de los resultados obtenidos.
 
-II. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de ingeniería en sistemas computacionales y vigilar su cumplimiento;
+II. Supervisar el adecuado ejercicio del presupuesto autorizado al Tecnológico, en congruencia con el avance programático y los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad en la materia.
 
-III. Proponer modificaciones a los planes y programas de estudio de la División;
+III. Realizar supervisiones, revisiones, auditorías y evaluaciones administrativas, financieras, contables, operacionales, técnicas y jurídicas a las unidades administrativas del Tecnológico, tendientes a verificar su desempeño institucional y el cumplimiento de las normas y disposiciones que regulan la prestación del servicio encomendado, así como las relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al organismo y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
 
-IV. Ejecutar y vigilar el cumplimiento de los planes y programas de estudio de la División;
+IV. Participar en los actos de entrega y recepción de las unidades administrativas del Tecnológico, verificando su apego a la normatividad en la materia.
 
-V. Supervisar la aplicación de los lineamientos académicos en materia de prácticas curriculares;
+V. Participar en las sesiones de los comités de adquisiciones y servicios y de arrendamientos, adquisiciones inmuebles y enajenaciones, así como en el Comité de Información del Tecnológico.
 
-VI. Proponer y aplicar técnicas de enseñanza y métodos de evaluación de las actividades académicas de la División;
+VI. Supervisar el cumplimiento de los lineamientos que emita la Secretaría de la Contraloría para la ejecución, preparación y entrega de los dictámenes e informes por parte de los Despachos de Auditoría Externa.
 
-VII. Impulsar el estudio y la aplicación de tecnología novedosa en la carrera de ingeniería en sistemas computacionales;
+VII. Recibir, tramitar y realizar el seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos del Tecnológico por probable responsabilidad administrativa.
 
-VIII. Participar en la definición y evaluación del perfil profesional del personal académico de la División;
+VIII. Iniciar, tramitar y resolver los procedimientos administrativos disciplinarios y resarcitorios e imponer, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-IX. Integrar la planta docente de la División y someterla a consideración del Subdirector Académico;
+IX. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y tramitarlos ante la Secretaría de la Contraloría para su instrucción y resolución.
 
-X. Proponer al Subdirector Académico cursos de formación y superación académica del personal docente de la División;
+X. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que Impliquen la responsabilidad penal de los servidores públicos del Tecnológico.
 
-XI. Conocer y opinar sobre las licencias, permisos, comisiones e incapacidades del personal de la División;
+XI. Promover la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos adscritos al Tecnológico sujetos a esta obligación.
 
-XII. Participar en los cuerpos colegiados del Tecnológico cuando se traten asuntos relacionados con las funciones de la División;
+XII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
 
-XIII. Fomentar la titulación de los alumnos egresados de la carrera de ingeniería en sistemas computacionales;
+XIII. Proponer al Director la implementación de normas complementarias en materia de control.
 
-XIV. Opinar que los estudios realizados en otras instituciones de educación que soliciten ser revalidados, sean congruentes con los planes y programas de estudio de la División;
+XIV. Evaluar las acciones de simplificación administrativa y mejora regulatoria que realice el Tecnológico y, en su caso, proponer acciones para su cumplimiento.
 
-XV. Vigilar que los talleres y laboratorios de la División se encuentren en condiciones propicias para el desarrollo de las actividades respectivas; y
+XV. Elaborar los diagnósticos sobre el desempeño del Organismo, con base en los actos de control y evaluación realizados, e informar periódicamente a la Secretaría de la Contraloría y al Director.
 
-XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+XVI. Difundir entre el personal del Tecnológico las disposiciones en materia de control que incidan en el desarrollo de sus labores.
+
+XVII. Promover acciones de control preventivo y de autocontrol tendientes a modernizar la gestión de las unidades administrativas del tecnológico.
+
+XVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
 
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
@@ -399,7 +441,9 @@ El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
 Corresponde al Consejo Consultivo Académico las funciones siguientes:
 
-I. Dictaminar los proyectos académicos presentados a la Junta y los que ésta le proponga sometiéndolos a la consideración de la Secretaria de Educación, Cultura y Bienestar Social, a través del Director;
+> <small>(REFORMADA, G.G. 17 DE MAYO DE 2007)</small>
+
+I. Dictaminar los proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Gobierno del Estado de México, a través del Director;
 
 II. Vigilar el cumplimiento de los planes y programas de estudio aprobados por las autoridades educativas;
 
@@ -448,3 +492,13 @@ DR. ALFREDO GARCIA GONZALEZ
 DIRECTOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 17 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
