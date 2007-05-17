@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-y-apoyo-a-las-victimas-del-delito-para-el-30186
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2003-04-22"
+last_updated: "2007-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30186&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-08"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -294,7 +294,9 @@ XII. Establecimiento de los mecanismos de evaluación y seguimiento de las activ
 
 Se crea el Fondo para la Atención y Apoyo a las Víctimas y Ofendidos, el cual se integrará con:
 
-I. Los recursos a que se refieren los artículos 41, 50, 51 y cuarto párrafo del artículo 55, todos del Nuevo Código Penal para el Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE MAYO DE 2007)</small>
+
+I. Los recursos a que se refiere el artículo 10, párrafo sexto de la Ley del Fondo de Apoyo a la Procuración de Justicia;
 
 II. Las aportaciones que a este fin hagan en efectivo o en especie los particulares u organismos públicos, privados y sociales, nacionales o extranjeros de manera altruista, mediante los procedimientos respectivos; y los rendimientos que se obtengan de las inversiones y reinversiones de los recursos asignados al Fondo.
 
@@ -361,3 +363,19 @@ Recinto Legislativo a 25 de Marzo de 2003.
 POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- SECRETARIO, DIP. ROLANDO A. SOLÍS OBREGÓN.- SECRETARIO, DIP. RAFAEL LUNA ALVISO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los ocho días del mes de abril del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- SECRETARIO DE GOBIERNO, LIC. ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 17 DE MAYO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de compactación y reciclamiento se obtengan.
+
+TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
+
+Los productos de las enajenaciones relacionadas en los artículos transitorios anteriores, se depositarán en la cuenta de fondos propios del Fondo de Apoyo a la Procuración de Justicia, y treinta días naturales después de la constitución del fideicomiso correspondiente, se entregará la parte que corresponde al Tribunal Superior de Justicia del Distrito Federal, para que a su vez deposite los recursos en el apartado de fondos propios del Fondo de Apoyo a la Administración de Justicia.
+
+CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
+
+QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
