@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-05-15"
+last_updated: "2007-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6348,10 +6348,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6387,6 +6383,10 @@ El servicio de recepción de residuos sólidos no peligrosos se prestará siempr
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8372,13 +8372,19 @@ El abandono de bienes que, estén en poder o al cuidado de las autoridades del D
 
 Transcurrido el plazo antes señalado sin que se hayan retirado los citados bienes, se notificará al interesado del vencimiento de dicho plazo y que cuenta con quince días para proceder a su retiro. Si se desconoce el domicilio del interesado, la notificación se hará por estrados. Una vez vencido el plazo de quince días antes citado sin que se haya hecho el retiro, los bienes serán declarados abandonados y pasarán a ser propiedad del Distrito Federal.
 
-> <small>(DEROGADO QUINTO PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
-
 Los bienes embargados a que se refiere este artículo, deberán inventariarse por lo menos dos veces al año. Dicho inventario deberá cotejarse con el control administrativo a cargo del propio Gobierno del Distrito Federal, y en caso de diferencias entre el control físico y administrativo, deberá investigarse y aclararse, incluso para deslindar responsabilidades a las personas que estén a cargo de esos controles.
 
-Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público del Distrito Federal o de las Judiciales del Distrito Federal, conforme al Nuevo Código Penal para el Distrito Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se venderán de conformidad con las disposiciones legales y administrativas aplicables. Los bienes perecederos de consumo y durables y aquellos que carezcan de valor o éste sea menor a lo que pudiera costar su enajenación, podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal. El procedimiento administrativo de venta, estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal.
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
-Tratándose de bienes decomisados por las autoridades judiciales les será aplicable lo dispuesto en el párrafo anterior. Las autoridades competentes determinarán su destino al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, al mejoramiento de la procuración y la administración de justicia, previa concentración de fondos en la Secretaría.
+Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público o de las Judiciales del Distrito Federal, conforme al Código Penal para el Distrito Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se venderán e invertirán de conformidad con las disposiciones legales y administrativas aplicables. Los bienes perecederos de consumo y durables y aquellos que carezcan de valor o éste sea menor a lo que pudiera costar su enajenación, podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan, mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal. El procedimiento administrativo de venta estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
+
+Tratándose de bienes decomisados por las autoridades judiciales les será aplicable lo dispuesto en el párrafo anterior. Las autoridades competentes determinarán su destino conforme a las prescripciones del Código Penal.
+
+> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2007)</small>
+
+En los casos previstos por los dos párrafos anteriores de este artículo, los fondos deberán ser concentrados en los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -8392,7 +8398,7 @@ Para efectuar el retiro de los bienes a que se alude en el artículo anterior, d
 
 Los bienes embargados por autoridades administrativas del Distrito Federal, a que se refiere este Capítulo, y que se encuentren a disposición de la Secretaría, así como aquellos que causen abandono a favor del Distrito Federal, una vez que se verifique la documentación comprobatoria que se acompañe a los mismos y de no haber impedimento legal alguno, podrán ser rematados en subasta pública, conforme a lo previsto en el Capítulo I del Título Primero, del Libro Sexto, de este Código, enajenados fuera de remate o adjudicados a favor del Distrito Federal, para que sean donados o destinados para su uso en un área específica del propio Gobierno del Distrito Federal, conforme a las reglas de carácter general que dicte la Secretaría. El producto del remate quedará en depósito en la Secretaría a efecto de ser aplicado presupuestalmente en los programas autorizados, o bien, para proceder de acuerdo con las instrucciones de las autoridades judiciales o disposiciones legales aplicables.
 
-Tratándose de ventas instrumentadas por la Procuraduría General de Justicia del Distrito Federal, o el Tribunal, respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales del Distrito Federal, el producto que se obtenga de cada evento se concentrará en la Secretaría para destinarlo al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 17 DE MAYO DE 2007)</small>
 
 Cuando la utilidad de los bienes antes referidos sea nula y no exista la posibilidad de obtener provecho alguno por su venta o de sus residuos, podrá ordenarse su destrucción, previa resolución debidamente justificada y levantamiento de un acta administrativa.
 
@@ -8447,6 +8453,10 @@ La publicación a que se refiere el párrafo anterior deberá cumplir los requis
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 IV. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y deberá ser enajenado fuera de remate, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública con la participación de la Oficialía Mayor del Distrito Federal, así como de la Contraloría. Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
+
+> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2007)</small>
+
+V. Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Pública, con el objeto de retirar de la vía pública, vehículos chatarra o abandonados, éstos deberán ser puestos a disposición del Ministerio Público, quien procederá a iniciar averiguación previa, conforme a lo dispuesto por el Título Vigésimo Tercero, Capítulo Primero del Código Penal, o por cualesquier otro delito que resulte, y realizará en su caso, el procedimiento previsto para los bienes asegurados, a fin de que los recursos que de ellos se obtengan sean depositados íntegramente en el Fondo de Apoyo a la Procuración de Justicia.
 
 > <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2006)</small>
 
@@ -17279,3 +17289,17 @@ A fin de dar cumplimiento a lo dispuesto en el artículo 451 la Asamblea conjunt
 G.O. 15 DE MAYO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE MAYO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de compactación y reciclamiento se obtengan.
+
+TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
+
+Los productos de las enajenaciones relacionadas en los artículos transitorios anteriores, se depositarán en la cuenta de fondos propios del Fondo de Apoyo a la Procuración de Justicia, y treinta días naturales después de la constitución del fideicomiso correspondiente, se entregará la parte que corresponde al Tribunal Superior de Justicia del Distrito Federal, para que a su vez deposite los recursos en el apartado de fondos propios del Fondo de Apoyo a la Administración de Justicia.
+
+CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
+
+QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
