@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2007-04-26"
+last_updated: "2007-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -372,11 +372,11 @@ ARTÍCULO 40 (Exigibilidad de la multa). La autoridad ejecutora iniciará el pro
 
 En atención a las características del caso, el juez podrá fijar plazos razonables para el pago de la multa en exhibiciones parciales. Si el sentenciado omite sin causa justificada cubrir el importe de la multa en el plazo que se haya fijado, la autoridad competente la exigirá mediante el procedimiento económico coactivo. En cualquier momento podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestadas en beneficio de la víctima del delito, en favor de la comunidad o el tiempo de prisión que se hubiere cumplido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
-ARTÍCULO 41 (Fondo para la Atención y Apoyo a las Víctimas del Delito). Se establecerá un Fondo para la Atención y Apoyo a las Víctimas del Delito en los términos de la legislación correspondiente.
+ARTÍCULO 41 (Fondo de Apoyo a la Procuración de Justicia) Se establecerá un Fondo de Apoyo a la Procuración de Justicia en el Distrito Federal, que incluirá entre otros, la atención y apoyo a las victimas del delito en los términos de la legislación correspondiente.
 
-El importe de la multa y la sanción económica impuestas se destinará preferentemente a la reparación del daño ocasionado por el delito, pero si éstos se han cubierto o garantizado, su importe se entregará al Fondo para la Reparación del Daño a las Víctimas del Delito.
+El importe de la multa y la sanción económica se destinará íntegramente a los Fondos de Apoyo a la Procuración y Administración de Justicia, conforme se establece en la presente Ley.
 
 ARTÍCULO 42 (Alcance de la reparación del daño). La reparación del daño comprende, según la naturaleza del delito de que se trate:
 
@@ -430,33 +430,31 @@ Cuando sean varios los ofendidos y no resulte posible satisfacer los derechos de
 
 En todo caso, el afectado podrá optar en cualquier momento por el ejercicio de la acción civil correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
-ARTÍCULO 50 (Aplicación de las garantías de la libertad caucional). Cuando el inculpado se sustraiga a la acción de la justicia, las garantías relacionadas con la libertad caucional se aplicarán de manera inmediata al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+ARTÍCULO 50 (Aplicación de las garantías de la libertad caucional). Cuando el inculpado se sustraiga a la acción de la justicia, las garantías relacionadas con la libertad caucional se aplicarán de manera inmediata a los Fondos de Apoyo a la Procuración y Administración de Justicia, en la medida y proporción que ésta ley establece.
 
 Al ordenarse que se hagan efectivas esas garantías, el Juez prevendrá a la autoridad competente que ponga su importe a disposición del Tribunal para los efectos de este artículo.
 
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+En los casos en que el Ministerio Público resuelva el no ejercicio de la acción penal, y estuviere garantizada la libertad caucional del inculpado, en todo o en parte, con dinero en efectivo o en billetes de depósito, sin que sean reclamados por éste en un plazo de noventa días, posteriores a su legal notificación, se aplicarán al Fondo de Apoyo a la Procuración de Justicia
 
-ARTÍCULO 51 (Renuncia a la Reparación del Daño). Si el ofendido o sus derechohabientes renuncian o no cobran la reparación del daño, el importe de éste se entregará al Fondo para la Atención y Apoyo a las Víctimas del Delito, en los términos de la legislación aplicable.
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
+
+ARTÍCULO 51 (Renuncia o falta de reclamo de la Reparación del Daño). Si el ofendido o sus derechohabientes renuncian o no cobran la reparación del daño, el importe de éste se entregará al Fondo de Apoyo a la Procuración de Justicia y al Fondo de Apoyo a la Administración de Justicia, en la proporción y términos señalados por las legislaciones aplicables.
 
 ARTÍCULO 52 (Sanción económica). En los delitos cometidos por servidores públicos a que se refieren los Títulos Décimo Octavo y Vigésimo del Libro Segundo de este Código, la sanción económica consiste en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
-### CAPÍTULO VII. DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE MAYO DE 2007)</small>
+
+### CAPÍTULO VII. ASEGURAMIENTO Y DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
 
 ARTÍCULO 53 (Bienes susceptibles de decomiso). El decomiso consiste en la aplicación a favor del Gobierno del Distrito Federal, de los instrumentos, objetos o productos del delito, en los términos del presente Código.
 
 Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenado por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
 
-ARTÍCULO 54 (Destino de los objetos decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, al mejoramiento de la procuración y la administración de justicia.
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
-
-Si las cosas aseguradas o decomisadas son sustancias nocivas, peligrosas o consideradas como desecho, la autoridad competente ordenará de inmediato las medidas de precaución que correspondan, incluida su destrucción, confinamiento o, en su caso, conservación para fines de docencia o investigación, según se estime conveniente.
-
-Si se trata de material pornográfico se ordenará su inmediata destrucción.
-
-Los productos, rendimientos o beneficios obtenidos por los delincuentes o por otras personas, como resultado de su conducta ilícita, serán decomisados y se destinarán en los términos del presente artículo.
+ARTÍCULO 54 (Destino de los objetos asegurados o decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, a los Fondos de Apoyo a la Procuración de Justicia, según corresponda.
 
 > <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
 
@@ -464,9 +462,13 @@ Los productos, rendimientos o beneficios obtenidos por los delincuentes o por ot
 
 (Destino de bienes a disposición de la autoridad). Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se venderán de conformidad con las disposiciones legales y administrativas aplicables.
 
-Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
 
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará a los Fondos de Apoyo a la Procuración y Administración de Justicia en el Distrito Federal, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2007)</small>
+
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo en un lapso de treinta días naturales a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará a los Fondos de Apoyo a la procuración y Administración de Justicia, según corresponda.
 
 Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal.
 
@@ -3863,3 +3865,17 @@ TERCERO. El Jefe de Gobierno del Distrito Federal, deberá expedir la adecuació
 CUARTO. El Jefe de Gobierno del Distrito Federal promoverá convenios de colaboración para obtener recursos adicionales que permitan atender el derecho de la mujer a la salud sexual y reproductiva.
 
 QUINTO. La Asamblea Legislativa del Distrito Federal realizará una amplia campaña informativa sobre las reformas aprobadas en este decreto.
+
+G.O. 17 DE MAYO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Los vehículos automotores de cualquier tipo que se encuentran a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto, y que no hayan sido reclamados por su propietarios (sic) hasta el mes de diciembre de dos mil cinco, se pondrán inmediatamente a la venta, conforme a las disposiciones administrativas aplicables, imponiendo la obligación a quienes los adquieran de destruirlos totalmente, para hacer uso únicamente de los metales que de su compactación y reciclamiento se obtengan.
+
+TERCERO. Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, no reclamados hasta diciembre de dos mil cinco, se pondrán también inmediatamente a la venta.
+
+Los productos de las enajenaciones relacionadas en los artículos transitorios anteriores, se depositarán en la cuenta de fondos propios del Fondo de Apoyo a la Procuración de Justicia, y treinta días naturales después de la constitución del fideicomiso correspondiente, se entregará la parte que corresponde al Tribunal Superior de Justicia del Distrito Federal, para que a su vez deposite los recursos en el apartado de fondos propios del Fondo de Apoyo a la Administración de Justicia.
+
+CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
+
+QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
