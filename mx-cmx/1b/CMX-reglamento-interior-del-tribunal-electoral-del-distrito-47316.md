@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-47316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2007-01-19"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de diciembre de 2005.
 
@@ -1018,7 +1018,9 @@ IV. Brindar asesoría a los funcionarios o empleados del Tribunal, cuando con mo
 
 V. Asesorar y desahogar consultas en materia jurídica a las áreas del Tribunal, para el debido ejercicio de sus atribuciones; así como realizar los estudios que determine el Pleno o el Presidente sobre asuntos concretos del organismo, no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
 
-VI. Emitir opinión cuando así lo requiera el Pleno o el Presidente, en aspectos jurídicos de los proyectos de contratos, convenios, acuerdos, bases de coordinación y demás actos jurídicos celebrados por el Tribunal con personas físicas o morales, autoridades federales, órganos de gobierno del Distrito Federal, órganos autónomos, autoridades de las entidades federativas, y demás instancias y organismos nacionales o extranjeros;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+VI. Formular, revisar y validar conforme a las disposiciones legales aplicables, los proyectos de contratos, convenios, acuerdos, bases de coordinación y demás actos jurídicos que celebre el Tribunal; así como llevar un registro para su control;
 
 VII. Emitir opinión cuando así lo requiera el Pleno, respecto de los proyectos de manuales, lineamientos, bases, políticas, y demás normas internas que deba expedir para el óptimo funcionamiento del Tribunal;
 
@@ -1096,7 +1098,9 @@ I. Elaborar los escritos de desahogo de consultas en materia jurídica formulada
 
 II. Realizar los estudios jurídicos ordenados por el Pleno o el Presidente, que tengan como finalidad el mejoramiento de las funciones del organismo, sobre asuntos concretos no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
 
-III. Elaborar los escritos de opinión sobre aspectos jurídicos de los proyectos de contratos, convenios, acuerdos, bases de coordinación y demás actos jurídicos que pretenda celebrar el Tribunal; cuando así lo determine el Pleno o el Presidente o lo solicite el Secretario Administrativo;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+III. Elaborar los proyectos de contratos y convenios en los que el Tribunal sea parte, así como los acuerdos, bases de coordinación y demás escritos y opiniones sobre aspectos jurídicos que le sean requeridos;
 
 IV. Elaborar los escritos de opinión sobre proyectos de manuales, lineamientos, bases, políticas, y demás normas internas que corresponda emitir al Pleno, cuando así lo solicite éste;
 
@@ -1106,7 +1110,9 @@ VI. Recopilar y sistematizar la información necesaria que permita la elaboraci�
 
 VII. Apoyar en la redacción de proyectos de acuerdos e informes, cuando así lo soliciten el Pleno o el Presidente;
 
-VIII. Coadyuvar y, en caso de que lo determine el Pleno, encargarse personalmente de las acciones tendientes al cumplimiento de las funciones de la Oficina de Información Pública del Tribunal, en términos de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y de los Lineamientos que al efecto dicte el Pleno;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+VIII. Vigilar el cumplimiento de las obligaciones establecidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como supervisar el debido funcionamiento de la Oficina de Información Pública del Tribunal;
 
 IX. Apoyar al titular del área en las labores derivadas de su participación como Secretario Técnico de la Comisión de Reglamento Interior; y
 
@@ -1116,9 +1122,11 @@ SECCIÓN 3ª
 
 De la Oficina de Información Pública
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MAYO DE 2007)</small>
+
 ###### Artículo 73.
 
-De conformidad con la Ley de Transparencia y Acceso a la Información Publica del Distrito Federal, el Tribunal contará con una Oficina de Información Pública, que será la unidad administrativa receptora de las peticiones de información y encargada de tramitar y proponer al Pleno la respuesta de las mismas.
+De conformidad con la Ley de Transparencia y Acceso a la Información Publica del Distrito Federal, el Tribunal contará con una Oficina de Información Pública, que será la unidad administrativa receptora de las peticiones de información, encargada de tramitar y dar respuesta a las mismas.
 
 Los servicios de la Oficina de Información Pública se sujetarán a las disposiciones de la Ley de la materia y a los lineamientos respectivos aprobados por el Pleno.
 
@@ -1126,7 +1134,9 @@ Los servicios de la Oficina de Información Pública se sujetarán a las disposi
 
 El titular de la Oficina de Información Pública será designado por el Pleno de entre los servidores públicos adscritos a la Dirección General Jurídica, a propuesta de su titular y tendrá las atribuciones siguientes:
 
-I. Recibir, tramitar y dar seguimiento a las solicitudes de acceso a la información;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+I. Recibir, tramitar, dar respuesta y seguimiento a las solicitudes de acceso a la información;
 
 II. Auxiliar a los solicitantes en el llenado de la solicitud de acceso a la información requerida y en general, cumplir con lo dispuesto en el artículo 42 de la Ley de la materia;
 
@@ -1136,7 +1146,9 @@ IV. Llevar un libro de registro de las solicitudes de información que se presen
 
 V. Proporcionar la información a disposición del público;
 
-VI. Elaborar y someter a la consideración del Pleno, los formatos que sean necesarios para otorgar el acceso a la información con mayor facilidad para los solicitantes; y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+VI. Elaborar y autorizar los formatos que sean necesarios para otorgar el acceso a la información con mayor facilidad para los solicitantes; y
 
 VII. Las demás que le confieran las disposiciones aplicables y las que sean establecidas mediante acuerdo por el Pleno.
 
@@ -2535,3 +2547,13 @@ G.O. 19 DE ENERO DE 2007.
 PRIMERO. Se ordena la publicación del presente Decreto por el que se reforman diversas disposiciones del Reglamento Interior del Distrito Federal, en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet de este Tribunal.
 
 SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE MAYO DE 2007.
+
+PRIMERO. Las modificaciones al Reglamento Interior del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan los Lineamientos Generales que rigen la Operación y Funcionamiento de la Oficina de Información Pública del Tribunal Electoral del Distrito Federal, aprobados mediante acuerdo plenario 102/2005 de veintisiete de abril de dos mil cinco.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente.
+
+CUARTO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
