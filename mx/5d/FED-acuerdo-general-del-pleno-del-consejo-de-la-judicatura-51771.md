@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2007-02-06"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 2007.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -427,9 +427,11 @@ Para la valoración y sanción de las faltas conforme a los criterios previstos 
 
 Se considerará reincidente al servidor público que habiendo sido declarado responsable de la comisión de cualquier conducta prevista en el artículo 131 de la Ley o del incumplimiento de alguna de las obligaciones establecidas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, incurra nuevamente, con posterioridad a la notificación de la imposición de la sanción, en el supuesto normativo por el que fue sancionado con anterioridad.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 49 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 18 DE MAYO DE 2007)</small>
+
 ###### Artículo 49.
 
-Cuando en razón de un procedimiento administrativo de responsabilidad, cualquier servidor público resulte destituido y esa decisión sea firme, no podrá reingresar en ninguna de las categorías previstas en el artículo 110 de la Ley ni en los cargos de Secretario Técnico y superiores en el Consejo y sus órganos auxiliares.
+Cuando en razón de un procedimiento administrativo de responsabilidad, cualquier servidor público resulte destituido y esa decisión sea firme, podrá ser reincorporado al servicio, previo acuerdo del Pleno del Consejo, por al menos cinco votos, salvo que los hechos determinantes de la responsabilidad se refieran a beneficios económicos indebidos o a hostigamiento sexual.
 
 ## TITULO TERCERO. De los Procedimientos de Responsabilidad Administrativa en Particular
 
@@ -1428,3 +1430,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, según corresponda.
+
+D.O.F. 18 DE MAYO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
