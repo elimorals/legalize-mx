@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2007-04-20"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -691,6 +691,18 @@ VIII.- Conocer las calificaciones, resultados de las evaluaciones parciales y fi
 
 IX.- Obtener la información de los resultados de la evaluación al sistema Educativo Estatal realizada por las autoridades educativas y por el Instituto Estatal de Investigación y Evaluación Educativa.
 
+(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
+
+X.- Una vez reconocido su carácter de asociados conforme a esta Ley y su Reglamento, actuar en forma conjunta con las Asociaciones de Padres de Familia en la toma de decisiones, incluyendo la determinación de las participaciones voluntarias, en su caso.
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
+
+XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
+
+XII.- Las demás establecidas en las leyes y reglamentos respectivos.
+
 ###### ARTICULO 61.
 
 Son obligaciones de quienes ejercen la patria potestad o tutela:
@@ -735,6 +747,14 @@ I.- Proponer y promover, en coordinación con las autoridades escolares y educat
 
 II.- Reunir fondos con participaciones voluntarias o actividades de sus miembros para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios, que no serán considerados como contraprestaciones del servicio, por lo que en ningún caso se podrá condicionar alguno de los derechos del educando.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
+
+Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota o cooperación que se solicite, son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda (sic) los trámites de solicitudes recepción y devolución de documentos, así como inscripción, preinscripción, reinscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
+
+Se prohíbe estrictamente a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualquiera otra aportación que con sentido de obligatoriedad sea requerida por estas asociaciones. El Secretario de Educación del Estado de Baja California, tendrá la obligación de vigilar, respetar y hacer valer lo establecido en la presente fracción. La violación a la misma será causa de responsabilidad para los servidores públicos que la cometan.
+
 III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos.
 
 IV.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros y su situación en la producción.
@@ -746,6 +766,16 @@ VI.- Proponer las medidas que estimen conducentes para alcanzar los objetivos se
 VII.- Informar por escrito a las autoridades educativas y escolares sobre cualquier acierto o irregularidad de que sean objeto los educandos, y
 
 VIII.- Realizar todas aquellas acciones que contemple el Reglamento respectivo emitido por el Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2007)</small>
+
+ARTICULO 64 BIS.- Las Asociaciones de padres de familia deberán:
+
+I.- Acordar, de manera conjunta con los padres de familia asociados, el monto de las aportaciones y el destino de las mismas;
+
+II.- Informar a los padres de familia o tutores, de todas sus actividades, y de la administración de los fondos y la situación financiera en que se encuentra la Asociación, y
+
+III.- Sujetarse a lo que prevengan los reglamentos aplicables.
 
 ###### ARTICULO 65.
 
@@ -1098,3 +1128,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 20 DE ABRIL DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 18 DE MAYO DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
