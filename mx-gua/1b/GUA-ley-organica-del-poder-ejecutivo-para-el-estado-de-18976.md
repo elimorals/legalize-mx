@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2006-08-01"
+last_updated: "2007-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -153,9 +153,15 @@ IX.- La Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-X.- La Secretaría de Gestión Pública; y
+X.- La Secretaría de Gestión Pública;
 
-XI.- La Procuraduría General de Justicia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007)</small>
+
+XI.- La Secretaría de Desarrollo Turístico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2007)</small>
+
+XII.- La Procuraduría General de Justicia.
 
 ###### Artículo 14.
 
@@ -617,11 +623,17 @@ La Secretaría de Desarrollo Económico Sustentable es la dependencia encargada 
 
 I.- En materia de desarrollo económico:
 
-a) Ejecutar y evaluar las políticas y programas relativos al fomento de las actividades industriales, mineras, comerciales, artesanales, turísticas y de servicios, en materia de empleo y capacitación, de conformidad con los Planes Nacional y Estatal de Desarrollo y las leyes de la materia;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
 
-b) Ejercer previo acuerdo del Gobernador del Estado, las atribuciones que en materia industrial, minera, comercial, artesanal, turística y de servicios, se contemplen en los convenios firmados con las dependencias y entidades de la Federación y con los municipios;
+a) Ejecutar y evaluar las políticas y programas relativos al fomento de las actividades industriales, mineras, comerciales, artesanales y de servicios, en materia de empleo y de capacitación, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
 
-c) Proporcionar asesoría técnica y servir como órgano de consulta en materia industrial, minera, comercial, artesanal, turística y de servicios;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
+b) Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones que en materia industrial, minera, comercial, artesanal y de servicios, se contemplen en los convenios firmados con las dependencias y entidades de la Federación y con los municipios;
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
+c) Proporcionar asesoría técnica y servir como órgano de consulta en materia industrial, minera, comercial, artesanal y de servicios;
 
 d) Elaborar y difundir los incentivos, apoyos y subsidios que se ofrecerán en el ejercicio fiscal a los empresarios e inversionistas; así como señalar los requisitos, condiciones y mecanismos para tener acceso a los mismos;
 
@@ -641,7 +653,7 @@ k) Organizar y promover la producción artesanal y la industria familiar;
 
 l) Organizar y promover conjuntamente con los sectores productivos congresos, seminarios y otros eventos sobre desarrollo económico sustentable, así como la celebración de exposiciones y ferias de carácter comercial, industrial y artesanal;
 
-m) Organizar y promover las actividades necesarias para el mejor aprovechamiento de los recursos turísticos del Estado;
+m) (DEROGADO, P.O. 18 DE MAYO DE 2007)
 
 n) Atraer inversiones estatales, nacionales y extranjeras, de acuerdo con los Planes Estatal y Municipales de Desarrollo y organizar los consejos consultivos para la atracción de las mismas;
 
@@ -914,6 +926,40 @@ b) Procurar el resarcimiento de los daños patrimoniales ocasionados a la admini
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 VII. Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2007)</small>
+
+Artículo 32 bis.- La Secretaría de Desarrollo Turístico es la dependencia encargada de planear, programar, desarrollar, promover y vigilar la actividad turística y le competen las siguientes atribuciones:
+
+I.- Planear, programar y evaluar la actividad turística en el Estado, de conformidad con los planes nacional y estatal de desarrollo, las leyes de la materia y los lineamientos de política turística acordados con el Gobernador del Estado;
+
+II.- Ejercer las atribuciones que se contemplen en los convenios suscritos con dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios y la iniciativa privada en materia de desarrollo y promoción de la actividad turística;
+
+III.- Proporcionar asesoría en materia de turismo a las autoridades estatales y municipales, así como a los prestadores de servicios turísticos en el Estado;
+
+IV.- Otorgar incentivos y apoyos al sector turístico considerando en igualdad de circunstancias a los prestadores de servicios turísticos del Estado;
+
+V.- Impulsar la creación, conservación, mejoramiento, protección y aprovechamiento sustentable de los recursos e infraestructura turísticos de la Entidad, procurando la atracción de inversiones públicas y privadas en el sector;
+
+VI.- Llevar a cabo el desarrollo y la promoción de la actividad turística del Estado fomentando la participación de la Federación, los municipios y la iniciativa privada, para el crecimiento económico de este sector;
+
+VII.- Impulsar, coordinar y evaluar las acciones orientadas a crear, dotar y mejorar la infraestructura e imagen urbana que requieran las zonas de desarrollo turístico del Estado;
+
+VIII.- Gestionar, en el ámbito de su competencia, la prestación de servicios turísticos principales y conexos;
+
+IX.- Fomentar la creación de organizaciones orientadas al mejoramiento de la actividad turística en general;
+
+X.- Impulsar la competitividad y calidad en los productos y los servicios turísticos en el Estado;
+
+XI.- Coadyuvar en la ejecución, en el ámbito de su competencia, de acciones en materia de información y protección del turista, en coordinación con las autoridades federales, estatales y municipales, así como con los prestadores de servicios turísticos;
+
+XII.- Vigilar, en la esfera de su competencia, el cumplimiento de la normatividad que regula la actividad turística;
+
+XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
+
+XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaria de Finanzas y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
+
+XV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 33.
 
@@ -1456,3 +1502,21 @@ Artículo Cuarto.- La Secretaría de Finanzas y Administración instrumentará l
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2007.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Gobernador del Estado contará con un plazo de hasta 30 días naturales contados a partir de la entrada en vigencia del presente decreto, para erigir la Secretaría de Desarrollo Turístico. En tanto no se constituya la dependencia mencionada, la Secretaría de Desarrollo Económico Sustentable continuará ejerciendo las atribuciones en materia de turismo.
+
+Artículo Tercero.- La Secretaría de Desarrollo Económico Sustentable transferirá a la Secretaría de Desarrollo Turístico, los asuntos administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de la actual Subsecretaría de Desarrollo Turístico, así como el de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de turismo, a través de la entrega recepción respectiva.
+
+Se respetarán los derechos laborales del personal que se transfiere.
+
+Artículo Cuarto.- La Secretaría de Desarrollo Turístico sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de turismo, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Artículo Quinto - Se abroga la Ley que crea el Consejo Estatal de Turismo del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado, número 73 Segunda Parte, de 13 trece de septiembre de 1979 mil novecientos setenta y nueve.
+
+Artículo Sexto.- La Secretaría de Finanzas y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Desarrollo Turístico, que mejoren la calidad de los servicios de gobierno en materia de turismo.
+
+Artículo Séptimo.- El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de seis meses, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma.
