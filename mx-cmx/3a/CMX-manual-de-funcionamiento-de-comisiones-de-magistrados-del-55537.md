@@ -4,7 +4,7 @@ identifier: "CMX-manual-de-funcionamiento-de-comisiones-de-magistrados-del-55537
 country: "mx"
 rank: "manual"
 publication_date: "2006-06-08"
-last_updated: "2006-06-08"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55537&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2008-05-16"
 
 MANUAL DE FUNCIONAMIENTO DE LAS COMISIONES DE MAGISTRADOS DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2007.
 
 Manual aprobado por el Pleno del Tribunal Electoral del Distrito Federal, en reunión privada del 8 de junio de 2006.
 
@@ -65,11 +65,17 @@ VII. Integrantes: Los Magistrados que conforman cada una de las Comisiones;
 
 VIII. Sesión: La reunión formal de los integrantes de la Comisión;
 
-IX. Acuerdos: Son todas las determinaciones cuyos efectos se surtan en relación con órganos o personas distintas a la Comisión que los emita, impliquen la ejecución de una instrucción Plenaria, o versen sobre cuestiones respecto de las que el Pleno deba proveer; los mismos deberán someterse invariablemente a la aprobación del Pleno, debiendo elaborarse para ello, los respectivos documentos en los que consten los mismos, debidamente fundados y motivados;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
 
-X. Decretos: Son las decisiones de carácter interno, tomadas para el debido funcionamiento de las Comisiones, surtirán sus efectos sin necesidad de pronunciamiento por parte del Pleno, siempre que sus efectos se surtan dentro de la propia Comisión y no involucren a personas ajenas a la misma;
+IX. Acuerdos: Las determinaciones cuyos efectos y ejecución impliquen una instrucción plenaria, o versen sobre cuestiones respecto de las que el Pleno deba proveer, de conformidad con lo dispuesto por el artículo 227 ter del Código;
 
-XI. Acuerdo Especifico: Es la resolución que toma la Comisión en forma particular sobre algún asunto y se puede presentar en forma individual a la consideración del Pleno;
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+X. Reglas de Operación: Las decisiones de carácter interno tomadas para el debido funcionamiento de las Comisiones y sus efectos se surtan dentro de las propias Comisiones;
+
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2007)</small>
+
+XI. Decretos: Las decisiones cuyos efectos y ejecución impliquen una instrucción de la Comisión o versen sobre cuestiones respecto de las que ésta deba proveer para el debido cumplimiento de las atribuciones y funciones que tiene conferidas;
 
 XII. Quórum: Número de Magistrados, que deben estar presentes en la Sesión para que ésta pueda ser válida y legal; y
 
@@ -293,25 +299,31 @@ Para el desahogo de los asuntos comprendidos en el orden del día de la sesión,
 
 El Secretario podrá hacer uso de la palabra para informar o aclarar el asunto que se discuta, con la autorización previa del Coordinador.
 
-### CAPÍTULO QUINTO. DE LA VOTACIÓN DE LOS ACUERDOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MAYO DE 2007)</small>
+
+### CAPÍTULO QUINTO. DE LA VOTACIÓN
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
 ###### Artículo 24.
 
-Discutido el asunto se procederá a su votación. Los acuerdos de las Comisiones se tomarán por unanimidad o por mayoría de votos, debiendo indicarse en el Acta de la reunión quiénes emiten el voto y el sentido de éste, excepto en los casos en que la decisión sea unánime, sin que pueda haber abstenciones; en caso de empate el Coordinador tendrá voto de calidad.
+Discutido el asunto se procederá a su votación. Los acuerdos de las Comisiones se tomarán por mayoría de votos, en votación nominal, sin que pueda haber abstenciones; en caso de empate el Coordinador tendrá voto de calidad. En caso de que alguno de los integrantes de la Comisión disintiere de la mayoría, podrá solicitar que su opinión se inserte en el Acta respectiva.
 
-Cuando alguno de los integrantes de la Comisión disintiere de la mayoría, podrá solicitar que su opinión se inserte en el Acta respectiva.” (sic)
+Los decretos y reglas de operación se adoptarán mediante votación económica de los integrantes de las Comisiones.
 
-### CAPÍTULO SEXTO. DEL CUMPLIMIENTO DE LOS ACUERDOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MAYO DE 2007)</small>
+
+### CAPÍTULO SEXTO. DEL CUMPLIMIENTO DE LOS ACUERDOS, DECRETOS Y REGLAS DE OPERACIÓN
+
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
 ###### Artículo 25.
 
-Para el debido cumplimiento de los acuerdos tomados por la Comisión y una vez sometidos por su Coordinador, a la consideración del Pleno, el Secretario dará seguimiento a su plena ejecución, para lo cual informará de manera escrita a los integrantes de la Comisión en la sesión siguiente.
+Para el debido cumplimiento de los Acuerdos tomados por la Comisión y una vez sometidos por su Coordinador a la consideración del Pleno, el Secretario dará seguimiento a su plena ejecución, informando por escrito a los integrantes de la Comisión y al Pleno en la sesión más próxima, respectivamente.
 
-Cuando el acuerdo de que se trate se haya ejecutado, el Coordinador informará al Pleno de dicho evento.
+La ejecución de los decretos y reglas de operación estará a cargo del Secretario, quien deberá informar a la Comisión sobre su cumplimiento, en la sesión inmediata a que éste ocurra.
 
-En caso de que el Coordinador de la Comisión sea un Magistrado Supernumerario, éste informará al Pleno por conducto del Magistrado Presidente.
-
-Asimismo, el Coordinador rendirá oportunamente al Pleno, con base en el reporte que a su vez le presente el Secretario, un informe anual de las actividades desarrolladas por la Comisión, con la finalidad de que dicho informe sean (sic) considerado por el Presidente del Tribunal, de conformidad con el artículo 229, párrafo tercero, inciso s), del Código.
+En el mes de enero siguiente al año que corresponda, las Comisiones rendirán al Pleno un informe anual de actividades.
 
 ## TÍTULO CUARTO. DE LA SUSPENSIÓN DE LAS SESIONES
 
@@ -344,3 +356,13 @@ PRIMERO. El presente Manual entrará en vigor al sexto día hábil siguiente a s
 SEGUNDO. Se abroga el "Manual de Funcionamiento de las Comisiones de Magistrados del Tribunal Electoral del Distrito Federal" aprobado por el Pleno de ese Órgano Jurisdiccional en el Acuerdo 034/2003 de fecha 15 de abril de 2003.
 
 TERCERO. Notifíquese a los titulares de área, a fin de que por su conducto se haga del conocimiento de los servidores públicos a su cargo y publíquese en los estrados y en la página Web del Tribunal Electoral del Distrito Federal, en forma previa al cumplimiento del plazo señalado en el artículo primero transitorio.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE MANUAL.</small>
+
+G.O. 18 DE MAYO DE 2007.
+
+PRIMERO. Las modificaciones al Manual de Funcionamiento de las Comisiones de Magistrados del Tribunal Electoral del Distrito Federal, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
