@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2007-03-02"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -149,13 +149,15 @@ La documentación original comprobatoria y justificatoria del ingreso y gasto p�
 
 Las Entidades mantendrán a disposición del Organo dicha documentación original por lo menos durante dos años posteriores a la fecha de presentación de la Cuenta Pública que corresponda. Una vez transcurrido dicho término se digitalizará en los términos de la Ley respectiva.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 13.
 
-Las Entidades deberán proporcionar al Organo, dentro del plazo de treinta días hábiles siguientes al de la notificación del oficio de solicitud fundada y motivada, la información y documentación complementaria o adicional que éste les solicite, cuando a su juicio la remitida no sea suficiente para el esclarecimiento de los hechos de las operaciones efectuadas.
+Las entidades deberán proporcionar al Órgano, dentro del plazo de diez días hábiles siguientes a la notificación del oficio de solicitud fundada y motivada, la información y documentación complementaria o adicional que éste les solicite, cuando a su juicio la remitida no sea suficiente para el esclarecimiento de los hechos de las operaciones efectuadas.
 
 En los casos de incumplimiento a lo señalado en el párrafo anterior y en el artículo 9 de esta Ley, se hará del conocimiento del Congreso, por conducto de la Comisión, para que resuelva lo procedente. Asimismo, lo hará del conocimiento del superior jerárquico de la persona que haya incurrido en la omisión.
 
-El Órgano deberá resolver con respecto a la solventación requerida, y en su caso efectuada, dentro de un plazo de treinta días hábiles, contados a partir del día siguiente del que se dio debido cumplimiento a las obligaciones a que se refiere el primer párrafo de este artículo, haciéndolo del conocimiento de la Entidad respectiva.
+El Órgano deberá resolver con respecto a la solventación requerida, y en su caso efectuada, dentro de un plazo de diez días hábiles, contados a partir del día siguiente del que se dio debido cumplimiento a las obligaciones a que se refiere el primer párrafo de este artículo, haciéndolo del conocimiento de la Entidad respectiva.
 
 ###### ARTÍCULO 14.
 
@@ -265,13 +267,17 @@ Los servidores públicos antes mencionados, tendrán la obligación de presentar
 
 XXII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento legal.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 18.
 
 Respecto del Informe de Avance de Gestión Financiera, el Órgano podrá auditar los conceptos reportados en él como procesos concluidos por las Entidades, y la parte ejecutada de los procesos no concluidos.
 
-Al efecto, podrá realizar observaciones, haciéndolo del conocimiento de la Comisión, disponiendo las Entidades de treinta días hábiles a partir de la fecha en que las reciban para formular las consideraciones que las desvirtúen o para solventarlas en la forma propuesta por el Órgano.
+Al efecto, podrá realizar observaciones, haciéndolo del conocimiento de la Comisión, disponiendo las Entidades de diez días hábiles a partir de la fecha en que las reciban para formular las consideraciones que las desvirtúen o para solventarlas en la forma propuesta por el Órgano.
 
 Asimismo, dentro del plazo señalado en el párrafo anterior, las Entidades informarán sobre el trámite seguido y los acuerdos dictados en relación con las observaciones formuladas.
+
+En el caso que las Entidades consideran que no es suficiente el plazo de diez días hábiles para la formulación de las consideraciones que desvirtúen o solventen las observaciones realizadas por el Órgano, podrán solicitar por una sola ocasión, prorroga de diez días hábiles que empezaran a contar a partir de la conclusión del primer plazo, mediante aviso por escrito debidamente fundado y motivado, donde sustenten la justificación de la ampliación del plazo. Escrito que deberá ser presentado ante el Órgano con anticipación a la conclusión del plazo inicial.
 
 ###### ARTÍCULO 19.
 
@@ -341,13 +347,17 @@ Asimismo, durante sus actuaciones deberán sujetarse al procedimiento previsto e
 
 Los dictámenes que emitan los profesionales externos contratados por las Entidades, con apego a los lineamientos indicados por el Órgano de Control correspondiente, podrán emplearse para motivar la emisión del Informe del Resultado respectivo, siempre y cuando cumplan con los criterios establecidos por el Órgano para tal efecto.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-Por cada acta que se levante en una visita, inspección o auditoría, en las que se hagan constar hechos que entrañen alguna omisión, se deberá otorgar un plazo de treinta días hábiles para que la Entidad Fiscalizable formule las consideraciones que desvirtúen las observaciones o para solventarlas en la forma propuesta por el Órgano.
+Por cada acta que se levante en una visita, inspección o auditoria, en las que se hagan constar hechos que entrañen alguna omisión, se deberá otorgar un plazo de diez días hábiles, computándose a partir de que reciban las observaciones formuladas en relación con los resultados de las visitas, inspecciones auditorias o revisiones practicadas por el Órgano, para formular las consideraciones que desvirtúen las observaciones o para que solventen a las mismas.
 
-Los hechos, omisiones, deficiencias o irregularidades, así como las declaraciones y consideraciones de la Entidad Fiscalizable consignadas en las actas levantadas por los visitadores, comisionados o habilitados, hacen prueba de la existencia de tales hechos para los efectos de la determinación de los resultados de la revisión de las Cuentas Públicas.
+En el caso que las entidades fiscalizables consideren que no es suficiente el plazo de diez días hábiles para la formulación de las consideraciones que desvirtúen o solventen las observaciones realizadas por el Órgano, podrán solicitar por una sola ocasión, prorroga de diez días hábiles que empezarán a contar a partir de la conclusión del primer plazo, mediante aviso por escrito debidamente fundado y motivado, donde sustente la justificación de la ampliación del plazo. Escrito que deberá ser presentado ante el Órgano con anticipación a la conclusión del plazo inicial.
 
-Si la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla o a recibirla, dicha circunstancia se asentará en la propia acta, y se estará a lo dispuesto por la fracción III del artículo 23 de esta Ley, sin que esto afecte la validez y el valor probatorio de la misma.
+Los hechos, omisiones, deficiencias o irregularidades, así como las declaraciones y consideraciones de las Entidades Fiscalizables consignadas en las actas levantadas por los visitadores, comisionados o habilitados, hacen prueba de la existencia de tales hechos para los efectos de la determinación de los resultados de la revisión de las Cuentas Públicas.
+
+Si la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a formarla o a recibirla, dicha circunstancia se asentará en la propia acta, y se estará a lo dispuesto por la fracción III del artículo 23 de esta Ley, sin que esto afecte la validez y el valor probatorio de la misma.
 
 Las actas a que se refiere este artículo y las demás que señale la presente Ley, formarán parte del pliego de observaciones, de recomendaciones y demás consecuencias que se formulen con motivo de la revisión de las Cuentas Públicas.
 
@@ -920,3 +930,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 2 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2007.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
