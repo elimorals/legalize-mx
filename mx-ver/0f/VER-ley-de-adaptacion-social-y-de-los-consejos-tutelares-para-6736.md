@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adaptacion-social-y-de-los-consejos-tutelares-para-6736"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-30"
-last_updated: "2007-03-09"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY DE ADAPTACION SOCIAL Y DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 864, PUBLICADO EN LA G.O. DE 9 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO QUEDARA DEROGADO A PARTIR DEL 11 DE JULIO DE 2007</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 864, PUBLICADO EN LA G.O. DE 9 DE MARZO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: DEROGADO.
 
 Ley publicada en el Numero Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el martes 30 de septiembre de 1980.
 
@@ -49,9 +49,13 @@ OBJETO Y COMPETENCIA
 
 3o.- La adaptación social y tutela de los menores infractores, la realizará el Estado a través de los órganos y recursos que establece el presente ordenamiento.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-4o.- El Consejo Tutelar Central para Menores Infractores y los Consejos Tutelares Regionales para Menores Infractores, intervendrán en los términos de esta Ley, con el objeto de promover la adaptación social mediante el estudio de la personalidad, la aplicación de medidas educativas o de protección, la vigilancia del tratamiento y demás que que (sic) sean necesarias, cuando los menores de dieciséis años infrinjan las leyes penales, los reglamentos de policía y buen gobierno o manifiesten otra forma de conducta que haga presumir, fundadamente, una inclinación a causar daños a sí mismos, a su familia o a la sociedad.
+4o.- Para los efectos de esta Ley, cada vez que se mencione al Consejo Tutelar Central para Menores Infractores y los Consejos Regionales para Menores Infractores, sus atribuciones y competencia se entenderán referidos según corresponda, a la Comisión Jurisdiccional para Menores Infractores y al Centro de Observación y Adaptación Social para Niños y Niñas en conflicto con la Ley Penal.
+
+La Comisión Jurisdiccional de Menores Infractores tendrá la competencia para tramitar y resolver mediante los procedimientos que señalen las leyes los asuntos de los menores.
+
+El Centro de Observación y Adaptación Social para Niños y Niñas en conflicto con la Ley Penal, intervendrá en los términos de esta Ley, con el objeto de promover la adaptación social mediante el estudio de la personalidad, la aplicación de medidas educativas o de protección, la vigilancia del tratamiento y demás que sean necesarias, cuando los menores de dieciocho años infrinjan las leyes penales, los reglamentos de policía y buen gobierno o manifiesten otra forma de conducta que haga presumir, fundadamente, una inclinación a causar daño a sí mismos, a su familia o a la sociedad.
 
 5o.- Los procedimientos tutelares y de adaptación social serán obligatorios y las medidas que se adopten, un medio de integración familiar y social; por lo tanto no tendrán carácter represivo, ni atentarán contra la salud o dignidad del menor.
 
@@ -229,27 +233,27 @@ b).- Con los vocales, la sustitución operará con un miembro del Cuerpo Técnic
 
 ### CAPITULO PRIMERO. DE LAS PROHIBICIONES Y DISPOSICIONES ESPECIALES
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-33.- Se prohibe la detención de menores de dieciséis años en lugares destinados a la reclusión de adultos.
+33.- Se prohíbe la detención de menores de dieciocho años en lugares destinados a la reclusión de adultos.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-34.- Los menores de dieciséis años son inimputables. Cuando en la Comisión de hechos que infrinjan las leyes penales, concurrieren mayores y menores de dieciséis años, los Tribunales ordinarios no podrán sujetar a éstos a la esfera de su competencia y, las autoridades respectivas, se remitirán mutuamente copia de sus actuaciones en lo conducente para el debido conocimiento del caso.
+34.- Los menores de dieciocho años son inimputables. Cuando en la comisión de hechos que infrinjan las leyes penales, concurrieren mayores y menores de dieciocho años, los tribunales ordinarios no podrán sujetar a estos últimos a la esfera de su competencia y las autoridades respectivas se remitirán mutuamente copia de sus actuaciones en lo conducente, para el debido conocimiento del caso.
 
 35.- Cuando los menores deban intervenir en diligencias judiciales, éstas se llevarán a cabo en el sitio en que ellos se encuentren y nunca en lugar distinto.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-36.- Cuando una autoridad judicial comprobare, que alguna persona consignada como presunto responsable de una conducta tipificada en el Código Penal o en otras leyes especiales, es menor de dieciséis años, sobreseerá el procedimiento en el estado que se halle respecto a él, y lo pondrá sin demora a disposición del Consejo Tutelar competente, junto con las actuaciones relativas o copia autorizada de las mismas.
+36.- Cuando una autoridad judicial comprobare, que alguna persona consignada como presunto responsable de una conducta tipificada en el Código Penal, o en otras leyes especiales, es menor de dieciocho años, se declarará incompetente y procederá sin demora a ponerlo a disposición de la Comisión Jurisdiccional de Menores Infractores, junto con las actuaciones relativas o copias autorizadas de las mismas.
 
 37.- Los medios de difusión se abstendrán de publicar la identidad de los menores sujetos a un procedimiento tutelar o a la ejecución de medidas acordadas durante el mismo.
 
 Las autoridades en los mismos casos y cuando los menores resulten víctimas de delitos sexuales, se abstendrán de dar noticias respectivas.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-38.- Para los efectos de fijar la competencia de los Consejos Tutelares, la edad de los menores se acreditará con el acta de nacimiento respectiva y, de no ser posible, mediante dictamen emitido por un perito oficial. En caso de duda se presumirá la minoría de edad, sin perjuicio de que posteriormente el Consejo se declare incompetente, al comprobarse que la persona sometida a su jurisdicción es mayor de dieciséis años y lo ponga a disposición de la autoridad competente, remitiéndole las actuaciones correspondientes.
+38.- Para los efectos de fijar la competencia de la Comisión Jurisdiccional de Menores Infractores, la edad de los menores se acreditará con la copia certificada reciente del acta de nacimiento y un dictamen pericial, de no ser posible contar con el acta de nacimiento, la edad se acreditará con dos dictámenes periciales. En caso de duda se presumirá la minoría de edad, sin perjuicio de que posteriormente la Comisión se declare incompetente, al comprobarse que la persona sometida a su jurisdicción es mayor de dieciocho años, por lo que le pondrá a disposición de la autoridad competente, remitiéndole las actuaciones correspondientes.
 
 39.- No se permitirá el acceso del público a las diligencias que se celebren en los procedimientos tutelares y sólo concurrirán el menor, los encargados de éste y las demás personas que deban ser examinadas, a menos que el Consejero instructor considere inconveniente que asistan el menor o sus encargados a determinada diligencia.
 
@@ -427,9 +431,9 @@ Si la medida es la señalada en la fracción V del mismo artículo, además de l
 
 ### CAPITULO QUINTO. DEL PROCEDIMIENTO ESPECIAL
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2007)</small>
 
-84.- Cuando un menor de dieciséis años, que no sea reiterante, incurra en una infracción a los reglamentos gubernativos y de policía o en conductas constitutivas de lesiones que no ponen en peligro la vida y tardan en sanar menos de quince días, amenazas, injurias, difamación, calumnias o conductas culposas en la conducción de vehículos que no produzcan homicidio, de inmediato será puesto a disposición de los Consejos Tutelares.
+84.- Cuando por primera vez un menor de dieciocho años, incurra en una infracción a los reglamentos gubernativos y de policía o en conductas constitutivas de lesiones que no ponen en peligro la vida y tardan en sanar menos de quince días, amenazas, difamación o conductas culposas en la conducción de vehículos que no produzcan homicidio, de inmediato será puesto a disposición de la Comisión Jurisdiccional.
 
 85.- En los casos previstos por el artículo anterior, la autoridad entregará al menor a sus padres, tutores o representantes o quienes los tengan bajo su guarda o cuidado, advirtiéndoles que deberán comparecer ante el Consejo Tutelar competente cuando se les cite con tal fin.
 
@@ -576,3 +580,13 @@ G.O. 9 DE MARZO DE 2007.
 Artículo primero. El presente Decreto entrará en vigor el día 11 de marzo de 2007.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE MAYO DE 2007.
+
+Primero. El presente Decreto surtirá sus efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. Los menores infractores cuya edad se encuentre entre los dieciséis y los dieciocho años, se sujetarán a las siguientes disposiciones:
+
+a) Todos aquellos menores que se encuentren procesados en el sistema penal para adultos, serán remitidos de inmediato al Centro de Observación y Adaptación Social para Niños y Niñas en conflicto con la Ley Penal y puestos a disposición de la Comisión Jurisdiccional de Menores Infractores a la entrada en vigor de este Decreto.
+
+b) Los condenados a pena privativa de libertad por sentencia ejecutoriada a la fecha de entrada en vigor de este decreto, serán remitidos al Centro de Observación y Adaptación Social para Niños y Niñas en conflicto con la Ley Penal y puestos a disposición de la Comisión Jurisdiccional para Menores Infractores y su sentencia será revisada, para adecuarla al espíritu y letra del artículo 18 Constitucional. Para tal efecto, se llevarán al cabo todas aquellas diligencias que se consideren convenientes u oportunas y la decisión de la Comisión deberá pronunciarse en un plazo que no excederá de cuatro meses.
