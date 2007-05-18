@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-crea-el-consejo-estatal-de-turismo-del-estado-de-10547"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-13"
-last_updated: "1979-09-13"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE TURISMO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL DECRETO NO. 62, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 13 de septiembre de 1979.
 
@@ -228,3 +230,23 @@ LUIS H. DUCOING
 El Secretario General del Gobierno,
 
 Lic. ANTONIO TORRES GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MAYO DE 2007.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Gobernador del Estado contará con un plazo de hasta 30 días naturales contados a partir de la entrada en vigencia del presente decreto, para erigir la Secretaría de Desarrollo Turístico. En tanto no se constituya la dependencia mencionada, la Secretaría de Desarrollo Económico Sustentable continuará ejerciendo las atribuciones en materia de turismo.
+
+Artículo Tercero.- La Secretaría de Desarrollo Económico Sustentable transferirá a la Secretaría de Desarrollo Turístico, los asuntos administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de la actual Subsecretaría de Desarrollo Turístico, así como el de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de turismo, a través de la entrega recepción respectiva.
+
+Se respetarán los derechos laborales del personal que se transfiere.
+
+Artículo Cuarto.- La Secretaría de Desarrollo Turístico sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de turismo, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Artículo Quinto - Se abroga la Ley que crea el Consejo Estatal de Turismo del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado, número 73 Segunda Parte, de 13 trece de septiembre de 1979 mil novecientos setenta y nueve.
+
+Artículo Sexto.- La Secretaría de Finanzas y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Desarrollo Turístico, que mejoren la calidad de los servicios de gobierno en materia de turismo.
+
+Artículo Séptimo.- El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de seis meses, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma.
