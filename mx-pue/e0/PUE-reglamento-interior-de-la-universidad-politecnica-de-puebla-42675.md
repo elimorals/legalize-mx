@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-politecnica-de-puebla-426
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-15"
-last_updated: "2004-12-15"
+last_updated: "2007-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de diciembre de 2004.
 
@@ -77,11 +77,15 @@ VI. Una Secretaría Administrativa;
 
 VII. Una Secretaría Académica;
 
-VIII. Una Dirección Administrativa;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
 
-IX. Una Dirección de Programa Académico de Ingeniería en Informática, y
+VIII. Una Dirección Administrativa; y
 
-X. Una Dirección de Programa Académico de Ingeniería en Biotecnología.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
+
+IX. Direcciones de Programas Académicos.
+
+X. (DEROGADA, P.O. 18 DE MAYO DE 2007)
 
 Los demás servidores públicos adscritos a la estructura administrativa de la Universidad, cualquiera que sea el cargo que ostenten, realizarán las funciones que les correspondan de conformidad con el manual general de organización, del manual de procedimientos, del manual de servicios al público y de lo que le encomiende el Rector, así como el superior jerárquico del cual dependan, en términos del acuerdo de adscripción que se emita, y las que señala la normatividad aplicable, atendiendo a las necesidades del servicio que así lo requiera y a la suficiencia presupuestal correspondiente.
 
@@ -197,9 +201,13 @@ II. Coordinar el proceso de asignación de becas a la Universidad, en términos 
 
 III. Planear, organizar y dirigir los trabajos encaminados a la promoción y difusión de las actividades de la Universidad;
 
-IV. Desarrollar y coordinar las actividades de índole cultural y deportiva, de educación continua, así como las de salud y en general, aquéllas que contribuyan al desarrollo de la Comunidad Universitaria;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
 
-V. Controlar y evaluar las actividades relacionadas con las estancias, estadías, servicio social y desarrollo comunitario, así como las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
+IV. Desarrollar y coordinar las actividades de índole cultural y deportiva, de educación continua, de desarrollo comunitario, así como las de salud y en general, aquéllas que contribuyan al desarrollo de la comunidad universitaria;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2007)</small>
+
+V. Registrar las actividades relacionadas con las estancias, estadías y servicio social, así corno las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
 
 VI. Ejecutar oportunamente las tareas relacionadas con el ingreso, permanencia y egreso de alumnos a la Universidad;
 
@@ -221,29 +229,35 @@ XIV. Las demás atribuciones que le encomiende o delegue el Rector, así como la
 
 ### CAPÍTULO VIII. DE LA SECRETARÍA ACADÉMICA
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 11.
 
 El Secretario Académico, dependerá directamente del Rector, correspondiéndole, además de las atribuciones señaladas en el artículo 9 del presente Reglamento, las siguientes:
 
 I. Planear, dirigir, administrar y supervisar la realización de las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
 
-ll. Elaborar y proponer al Rector en coordinación con la Secretaría Administrativa la normatividad escolar, revisada por el Abogado General, para su difusión y cumplimiento;
+II. Controlar y evaluar las actividades relacionadas con las estancias, estadías y servicio social, así como las relacionadas con la asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
 
-III. Difundir entre las áreas a su cargo, los lineamientos a que deben sujetarse las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
+III. Diseñar, establecer y desarrollar acciones de vinculación de la Universidad, con los sectores social, público y privado para mejorar la calidad de las funciones académicas y de investigación institucionales;
 
-IV. Establecer conjuntamente con el órgano correspondiente de la Universidad, la planeación y programación de estancias y estadías que los alumnos deberán realizar en la industria de la región;
+IV. Elaborar y proponer al Rector en coordinación con la Secretaría Administrativa la normatividad escolar, revisada por el Abogado General, para su difusión y cumplimiento;
 
-V. Elaborar y proponer al Rector los programas de capacitación, actualización y superación académica, vigilando su cumplimiento;
+V. Difundir entre las áreas a su cargo, los lineamientos a que deben sujetarse las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
 
-VI. Proponer ante el Rector, el otorgamiento de estímulos al personal académico con desempeño sobresaliente o con aportaciones académicas importantes, de acuerdo a la disponibilidad presupuestal y a la normatividad aplicable;
+VI. Establecer conjuntamente con el órgano correspondiente de la Universidad, la planeación y programación de estancias y estadías que los alumnos deberán realizar en la industria de la región;
 
-VII. Sugerir al Rector la celebración de convenios que permitan desarrollar los programas académicos de la Universidad;
+VII. Elaborar y proponer al Rector los programas de capacitación, actualización y superación académica, vigilando su cumplimiento;
 
-VIII. Presentar al Rector propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios de la Universidad, en función al crecimiento de la demanda y de conformidad con la disponibilidad presupuestal;
+VIII. Proponer ante el Rector, el otorgamiento de estímulos al personal académico con desempeño sobresaliente o con aportaciones académicas importantes, de acuerdo a la disponibilidad presupuestal ya la normatividad aplicable;
 
-IX. Gestionar con apoyo de las áreas administrativas competentes, la titulación de los egresados de la Universidad y verificar su cumplimiento, y
+IX. Sugerir al Rector la celebración de convenios que permitan desarrollar los programas académicos de la Universidad;
 
-X. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+X. Presentar al Rector propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios de la Universidad, en función al crecimiento de la demanda y de conformidad con la disponibilidad presupuestal;
+
+XI. Gestionar con apoyo de las áreas administrativas competentes, la titulación de los egresados de la Universidad y verificar su cumplimiento; y
+
+XII. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES
 
@@ -319,9 +333,11 @@ XX. Las demás atribuciones que le encomiende o le delegue el Rector, así como 
 
 ###### ARTÍCULO 14.
 
-La Universidad contará con la Dirección del Programa Académico de Ingeniería en Informática y con la Dirección del Programa Académico de Ingeniería en Biotecnología.
+La Universidad contará con las Direcciones de Programas Académicos indispensables para su funcionamiento, previa aprobación de la Junta Directiva.
 
 ### CAPÍTULO XI. DE LAS DIRECCIONES DE PROGRAMA ACADÉMICO
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 15.
 
@@ -372,3 +388,9 @@ PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publi
 SEGUNDO.- Los acuerdos, circulares y demás disposiciones pronunciadas antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
 Dado en las instalaciones de la Universidad Politécnica de Puebla, a los treinta días del mes de noviembre del año dos mil cuatro.- Presidente Ejecutivo.- LICENCIADO CARLOS ALBERTO JULIÁN Y NACER.- Rúbrica.- Vocales: LICENCIADO ALFONSO VICENTE DÍAZ.- Rúbrica.- ARQUITECTO SUYLANWONG PÉREZ.- Rúbrica.- INGENIERO GUILLERMO GÓMEZ THEUREL.- Rúbrica.- LICENCIADA MARÍA DEL CARMEN VERA DELGADO.- Rúbrica.- INGENIERO JORGE ZARATE MONTAÑO.- Rúbrica.- INGENIERO FRANCISCO BARRERA HIDALGO.- Rúbrica.- LICENCIADO JORGE RENÉ SÁNCHEZ JUÁREZ.- Rúbrica.- Comisario Público.- LICENCIADO RAMÓN LÓPEZ RUBÍ.- Rúbrica.- Secretario Técnico.- DOCTOR MIGUEL ÁNGEL SORIANO JIMÉNEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE MAYO DE 2007.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
