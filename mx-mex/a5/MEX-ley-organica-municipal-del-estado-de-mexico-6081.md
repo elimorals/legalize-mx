@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2006-08-07"
+last_updated: "2007-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -773,9 +773,11 @@ VI. Desincorporar del dominio público los bienes inmuebles del municipio;
 
 VII. Poner en vigor y ejecutar los planes de desarrollo de las localidades de conurbación intermunicipal.
 
+(REFORMADO, G.G. 21 DE MAYO DE 2007.
+
 ###### Artículo 34.
 
-La solicitud de autorización para realizar cualquiera de los actos señalados en el artículo que precede, deberá enviarse por conducto del Ejecutivo y acompañarse con los documentos y justificaciones necesarias y, en su caso, del dictamen técnico correspondiente.
+La solicitud de autorización, para realizar cualquiera de los actos señalados en el artículo que precede, y los demás que señale la ley, deberá enviarse por conducto del Ejecutivo, a la que agregará íntegramente los documentos, justificaciones necesarias y, en su caso, el dictamen técnico correspondiente que le haya remitido el ayuntamiento en su petición; además, acompañará el Dictamen de Procedencia que emita, a través de la dependencia competente en el ramo de que se trate, y que recaerá exclusivamente en la petición municipal, sin prejuzgar sobre la autorización.
 
 ###### Artículo 35.
 
@@ -2464,3 +2466,11 @@ G.G. 7 DE AGOSTO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE MAYO DE 2007.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos respecto de las solicitudes que haya remitido el Ejecutivo Estatal a la Legislatura para autorización de actos municipales que se encuentren en trámite al entrar en vigor el presente decreto, se sustanciarán y resolverán conforme a las disposiciones legales anteriores.
