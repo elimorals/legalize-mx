@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-53765"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-12"
-last_updated: "2007-01-12"
+last_updated: "2007-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Tlaxcala, el viernes 12 de enero de 2007.
 
@@ -55,6 +55,10 @@ I. Investigar, recibir y difundir hechos de interés público salvo las excepcio
 
 II. La protección de su información personal y sensible con respeto a su honor, dignidad y a la intimidad personal y familiar.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2007)</small>
+
+Son datos sensibles, aquellos datos personales que se refieren a las características físicas o morales de las personas, tales como los hábitos personales, el origen racial, las ideologías y opiniones políticas, las creencias o convicciones religiosas, los estados de salud físicos o psíquicos y la vida sexual.
+
 ###### Artículo 3.
 
 En materia de datos personales no se podrán afectar los registros y fuentes periodísticas, y es aplicable a los datos de carácter personal que obren en archivos, registros, bancos bases de datos de las personas físicas o morales así como de las entidades públicas.
@@ -73,7 +77,9 @@ III. Cesión de datos: La comunicación o transmisión de datos hacia una person
 
 IV. Derecho de acceso a la información pública: La prerrogativa que tiene toda persona para acceder y obtener la información creada, administrada o en poder de las entidades públicas, en los términos de esta Ley;
 
-V. Datos personales: La información de persona física identificada o identificable conforme lo dispone esta Ley:
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+
+V. Datos personales: La información que unívocamente distingue a un individuo de otro. Incluye no sólo a las llamadas "calidades generales", sino también el origen étnico o racional, la filiación religiosa o ideológica, las preferencias sexuales, etc.
 
 VI. Entidades públicas: Los sujetos obligados en términos de lo dispuesto en el artículo 5 de esta Ley;
 
@@ -97,29 +103,61 @@ XV. Datos informáticos: Los datos personales tratados automatizadamente:
 
 XVI. Usuario de datos: Toda persona física, jurídica o entidad pública que trata datos personales de manera voluntaria, ya sea en archivos, registros, bancos de datos propios o a través de conexión con los mismos;
 
-XVII. Disociación de datos: Todo tratamiento de datos personales que impida asociarlos a persona identificada o identificable, y
+XVII. Disociación de datos: Todo tratamiento de datos personales que impida asociarlos a persona identificada o identificable, y (sic)
 
-XVIII. Interesado: La persona física titular de los datos personales.
+XVIII. Interesado: La persona física titular de los datos personales;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+XIX. Información: Es un conjunto organizado de datos, que constituyen un mensaje sobre un determinado ente o fenómeno;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+XX. Datos: Un dato es la unidad o cantidad mínima de información no elaborada, sin sentido en sí misma pero que convenientemente tratada se puede utilizar en la realización de cálculos o toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+XXI. Información personal: Es la información que facilita la identificación del individuo, como su nombre, dirección de correo electrónico o información de facturación, dirección y número telefónico, u otro tipo de datos que se puedan enlazar de manera razonable para generar algún tipo de información;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+XXII. Comisionado: Es el servidor público e integrante de la Comisión de Acceso a la Información Pública y Protección de Datos Personales, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+XXIII. Consejo General: Es el órgano de gobierno interno de la Comisión, encargado de la organización e instrumentación de los programas y acciones de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 5.
 
-Son sujetos obligados a garantizar y proporcionar la información pública y la protección de datos personales, que tengan a su cargo los gobiernos estatal y municipales, organismos públicos y en general cualquier oficina pública o privada que maneje, administre o aplique recursos públicos o en la que intervengan servidores públicos en ejercicio de funciones públicas; se consideran de manera enunciativa y no limitativa las siguientes:
+De manera enunciativa y no limitativa, son sujetos obligados a garantizar y proporcionar el acceso a la información pública, así como proteger los datos personales que tengan a su cargo:
 
 I. Las dependencias centralizadas y las entidades paraestatales de la Administración pública Estatal;
 
 II. Del Poder Legislativo las comisiones ordinarias o especiales, Gran Comisión. Mesa Directiva, Comisión Permanente, Comité de Administración, unidades técnico administrativas y el Órgano de Fiscalización Superior;
 
-III. El Tribunal Superior de Justicia en pleno o en salas, los juzgados civiles, familiares y penales, la Comisión de Gobierno Interno y Administración, el Fondo Auxiliar para la Impartición de Justicia, así como sus unidades administrativas, en el caso del Poder Judicial;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
 
-IV. El Cabildo, comisiones municipales, dependencias y entidades de los gobiernos municipales, así como las presidencias de comunidad y delegaciones, y, en su caso, los órganos autónomos municipales;
+III. El Tribunal Superior de Justicia, el Pleno, las Salas, los juzgados civiles, familiares y penales, la Comisión de Gobierno Interno y Administración, el Fondo Auxiliar para la lmpartición de Justicia, así como sus unidades administrativas, en el caso del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+
+IV. Los ayuntamientos, comisiones municipales, dependencias y entidades de los gobiernos municipales, así como las presidencias de comunidad y delegaciones, y, en su caso, los órganos autónomos municipales;
 
 V. El Consejo Consultivo, las visitadurías, la secretaría ejecutiva y las unidades técnico administrativas de la Comisión Estatal de Derechos Humanos;
 
 VI. Los Órganos directivos, ejecutivos y de vigilancia, así como sus órganos y áreas técnicas señalados en el Libro Tercero, Título Segundo, Capitulo I del Código de Instituciones y Procedimientos Electorales para el Estado de Tlaxcala, en el caso del Instituto Electoral del Estado de Tlaxcala;
 
-VII. Las universidades públicas que la ley les otorgue autonomía e instituciones de educación superior, y
+VII. Las universidades públicas que la ley les otorgue autonomía e instituciones de educación superior, y (sic)
 
-VIII. Las asociaciones civiles o patronatos que manejen recursos públicos.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+
+VIII. Los patronatos, los partidos políticos las asociaciones civiles y demás órganos constitucionales autónomos en el Estado que manejen recursos públicos, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+
+IX. En general cualquier servidor público titular de alguna oficina pública o privada que maneje, administre o aplique recursos públicos.
 
 ###### Artículo 6.
 
@@ -333,11 +371,13 @@ Los documentos que por su naturaleza no sean substituibles, como los manuscritos
 
 La información no se clasificará como reservada cuando su contenido sea relevante para la protección de derechos fundamentales de las personas, de acuerdo con las leyes mexicanas y los instrumentos internacionales sobre la materia.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
+
 ###### Artículo 25.
 
-La información clasificada como reservada mantendrá este carácter hasta por un plazo de doce años. Esta será accesible al público, aun cuando no se hubiere concluido el plazo anterior, si dejan de concurrir las circunstancias que motivaron su clasificación a juicio de la Comisión.
+La información clasificada como reservada mantendrá ese carácter hasta por un término de doce años. Si dejan de concurrir las circunstancias que motivaron su clasificación a juicio de la Comisión. La información será accesible al público, aun cuando no se hubiere concluido el término citado.
 
-Salvo en casos extraordinarios se podrá ampliar el periodo hasta por un término igual al señalado en el párrafo anterior, si subsisten las causas que dieron origen a su clasificación en este sentido.
+La Comisión podrá ampliar el período de clasificación de la información hasta por un término igual al señalado en el párrafo anterior, si subsisten las causas que dieron origen a su clasificación.
 
 ###### Artículo 26.
 
@@ -813,15 +853,19 @@ Durante el procedimiento que se siga para complementar. Rectificar, actualizar, 
 
 ### Capítulo I. Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+
 ###### Artículo 73.
 
-La Comisión es un organismo constitucional autónomo que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública y protección de sus datos personales en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Tlaxcala, esta Ley y demás normatividad aplicable.
+La Comisión es un organismo público autónomo que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública y protección de sus datos personales en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Tlaxcala, esta ley y demás normatividad aplicable.
 
 Como Órgano máximo de gobierno contará con un Consejo General integrado en la forma y términos que establece esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+
 ###### Artículo 74.
 
-La Comisión contará con el personal y presupuesto necesario para desempeñar sus funciones. Su estructura orgánica estará conformada como a continuación se especifica:
+Para el cumplimiento de sus funciones, la Comisión contará con la siguiente estructura orgánica:
 
 I. Consejo General;
 
@@ -831,23 +875,41 @@ III. Dirección de Capacitación y Vinculación con Entidades Públicas, y
 
 IV. Dirección de Informática y Desarrollo Administrativo.
 
-El Reglamento determinará los derechos y obligaciones de cada una de las áreas qué se enuncian en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
+
+A excepción de la fracción I de este artículo al frente de cada una de las áreas administrativas mencionadas habrá un titular, cuyas facultades, obligaciones y requisitos de elegibilidad, serán previstos en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2007)</small>
+
+La Comisión conforme a su disponibilidad presupuestal, contará con el personal administrativo necesario, previa aprobación del Consejo General.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2007)</small>
+
+El personal administrativo de la Comisión será de confianza.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
 ###### Artículo 75.
 
-El Consejo General de la Comisión estará conformada (sic) por tres comisionados mismos que serán electos, previa convocatoria que emita la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos y aprobada por el Pleno del Poder Legislativo.
+El Consejo General de la Comisión estará conformado por tres comisionados mismos que serán electos por el Congreso del Estado previa convocatoria que emita la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos y aprobada por el Pleno del Poder Legislativo.
 
 Para ser Comisionado se requiere cumplir con los requisitos siguientes:
 
-I. Ser tlaxcalteca por nacimiento y con residencia en el Estado no menor de cinco años anteriores a la fecha de su nombramiento:
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
 
-II. Contar con experiencia profesional en la administración pública;
+I. Ser mexicano por nacimiento y con residencia en el Estado no menor de cinco años anteriores a la fecha de su nombramiento;
 
-III. Acreditar formación profesional en cualquiera de las áreas de las ciencias sociales con titulo legalmente expedido, y haberse distinguido por sus aportaciones a la academia o a la investigación social;
+II. (DEROGADA, P.O. 22 DE MAYO DE 2007)
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+
+III. Tener grado de Licenciatura en el área de Ciencias Sociales, con título y cédula profesional legalmente expedidos, con antigüedad no menor de cincos años anteriores a la fecha de la convocatoria y contar con experiencia profesional en la materia;
 
 IV. Gozar de reconocido prestigio profesional y personal;
 
-V. Tener al menos treinta años cumplidos al día de la designación;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+
+V. Tener al menos treinta años cumplidos al día de la convocatoria;
 
 VI. No ser dirigente de partido político alguno o haber ocupado un cargo de representación popular durante tres años previos al momento de rendir protesta; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente y de investigación científica, y
 
@@ -871,17 +933,23 @@ V. Los seis mejores resultados serán dados a conocer públicamente por el síno
 
 El resultado que de a conocer el Sínodo, será ratificado ante el Pleno en sesión pública extraordinaria, e inmediatamente se procederá a seleccionar a los comisionados mediante el voto de las dos terceras partes de los diputados que integren la Legislatura correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+
 ###### Artículo 77.
 
-El pleno del Congreso del Estado, les tomará la protesta de Ley correspondiente, y designará al primer Presidente del Consejo General, dicha presidencia del Consejo será rotativa cada dos años entre los comisionados a que se refiere el artículo anterior, conforme al número en forma creciente que señale el Congreso.
+Los comisionados rendirán la protesta de ley ante el Pleno del Congreso del Estado; y, dentro de ellos insacularán al Presidente del Consejo General, dicha presidencia será rotativa cada año entre los comisionados.
 
 El Comisionado Presidente será el responsable de la organización e instrumentación de los programas de la Comisión, y fungirá como su representante legal en todos los actos que celebre ésta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+
 ###### Artículo 78.
 
-Los comisionados no podrán ser retirados de sus cargos durante el período para el cual fueron designados, salvo por causa grave y sujetándose al procedimiento de juicio político que señala la ley en la materia, o por impedimento físico o mental.
+Los comisionados no podrán ser retirados de sus cargos durante el período para el cual fueron designados, salvo por causa grave que calificare el Congreso del Estado y sujetándose al procedimiento que señale la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Los comisionados durarán en su cargo seis, cinco y cuatro años en el ejercicio del cargo respectivamente, y no podrán ser reelectos. La designación del periodo se hará mediante insaculación al azar ante el Pleno. Por cada Comisionado titular se designará un suplente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
+
+Los comisionados durarán en su cargo tres años y no podrán ser reelectos. Por cada comisionado titular, se designará un suplente.
 
 Los comisionados no podrán desempeñar ningún otro empleo, cargo o comisión público o privado, salvo el de la docencia, siempre y cuando sea compatible con el tiempo que requiere la Comisión.
 
@@ -891,7 +959,9 @@ La ausencia temporal de alguno de los comisionados, se ajustará a lo que establ
 
 Los comisionados tendrán la misma calidad entre ellos, la que se traducirá en igualdad de derechos y no habrá diferencias fuera de las funciones de cada uno.
 
-Los comisionados recibirán una remuneración mensual, que no deberá ser superior a la que perciben los magistrados del Honorable Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
+
+Los comisionados en el ejercicio de su cargo recibirán una remuneración mensual, que no debe ser superior a la que perciben los jueces de primera instancia del Honorable Tribunal Superior de Justicia del Estado.
 
 ###### Artículo 80.
 
@@ -900,6 +970,10 @@ El Consejo General de la Comisión sesionará los días miércoles y viernes de 
 El Presidente podrá convocar a sesiones extraordinarias cuando por la naturaleza del asunto a tratar sea necesario o de urgente resolución.
 
 Las decisiones se tomarán por mayoría de votos, y para que sus sesiones sean válidas se requerirá cuando menos la asistencia de dos de sus comisionados, y será necesaria invariablemente la presencia del Comisionado Presidente. El Presidente tendrá voto de calidad para el caso de empate.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2007)</small>
+
+Si el Comisionado faltare a más de tres sesiones consecutivas, sin causa justificada, se llamará al suplente para que ocupe dicho cargo, sin perjuicio de proceder en contra del comisionado faltista, en los términos que prevenga la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### Artículo 81.
 
@@ -1065,7 +1139,7 @@ Una vez que entre en vigor esta Ley, queda abrogada la Ley de Información Públ
 
 ###### ARTICULO TERCERO.
 
-La Legislatura del Estado emitirá la convocatoria respectiva para la elección e integración de la comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, durante la primera semana del mes de enero de 2007. Los comisionados que integren la Comisión entrarán en funciones a partir del día dieciséis de enero del año 2007.
+(DEROGADO, P.O. 22 DE MAYO DE 2007)
 
 ###### ARTÍCULO CUARTO.
 
@@ -1098,3 +1172,27 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los veinte días del mes de diciembre de 2006.
 
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decretó entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los plazos para elegir a los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala se realizarán conforme a la convocatoria que al efecto dictamine la Comisión se Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos y aprobada por el Pleno de la LVIII Legislatura Local, en términos de la normatividad aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el artículo segundo del apartado de transitorios relativos al Decreto número 106; artículo tercero del apartado de transitorios, relativos al Decreto número 108 publicados en el Periódico Oficial del Gobierno del Estado, de fecha 12 de enero del 2007 tomo LXXXVI, segunda época número extraordinario, y aquellas disposiciones que se opongan al contenido de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo y la Legislatura del Estado harán la prevención presupuestal correspondiente, a efecto de que antes de que tomen protesta los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala, se dote de los recursos suficientes para permitir el funcionamiento de la Comisión.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General de la Comisión, expedirá su reglamento en un período no mayor a treinta días naturales a partir de que tomen protesta de su cargo los comisionados, asimismo dará cumplimiento a lo dispuesto en el apartado de transitorios artículos sexto y séptimo del Decreto 108, publicado en el Periódico Oficial del Gobierno del Estado de fecha 12 de enero del 2007, tomo LXXXVI segunda época número extraordinario.
