@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2007-05-04"
+last_updated: "2007-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -2913,7 +2913,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 ###### ARTÍCULO SEGUNDO.
 
-A más tardar en los primeros quince días del mes de enero del año dos mil siete, se realizará la designación de los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales en los términos de este Decreto, quienes rendirán protesta ante el Pleno del Consejo del Estado y entrarán en funciones el día dieciséis de enero del año dos mil siete.
+(DEROGADO, P.O. 22 DE MAYO DE 2007)
 
 ###### ARTÍCULO TERCERO.
 
@@ -2936,3 +2936,25 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Una vez que entre en vigor este Decreto, se establecerán los plazos para elegir a los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales en el Estado de Tlaxcala; quienes rendirán la protesta ante el Pleno de este Congreso del Estado, y ejercerán sus funciones.
+
+P.O. 22 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decretó entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los plazos para elegir a los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala, se realizarán conforme a la convocatoria que al efecto dictamine la Comisión se Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos y aprobada por el Pleno de la LVIII Legislatura Local, en términos de la normatividad aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el artículo segundo del apartado de transitorios relativos al Decreto número 106; artículo tercero del apartado de transitorios, relativos al Decreto número 108 publicados en el Periódico Oficial del Gobierno del Estado, de fecha 12 de enero del 2007 tomo LXXXVI, segunda época número extraordinario, y aquellas disposiciones que se opongan al contenido de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo y la Legislatura del Estado harán la prevención presupuestal correspondiente, a efecto de que antes de que tomen protesta los miembros del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala, se dote de los recursos suficientes para permitir el funcionamiento de la Comisión.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo General de la Comisión, expedirá su reglamento en un período no mayor a treinta días naturales a partir de que tomen protesta de su cargo los comisionados, asimismo dará cumplimiento a lo dispuesto en el apartado de transitorios artículos sexto y séptimo del Decreto 108, publicado en el Periódico Oficial del Gobierno del Estado de fecha 12 de enero del 2007, tomo LXXXVI segunda época número extraordinario.
