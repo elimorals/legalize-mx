@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-47063"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-11-25"
-last_updated: "2005-11-25"
+last_updated: "2007-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de noviembre de 2005.
 
@@ -77,9 +77,17 @@ IV. El procurador fiscal del estado;
 
 V. El director general de ingresos;
 
-VI. El director general de auditoría fiscal, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
 
-VII. Los directores de área, coordinadores, jefes de oficina, visitadores, auditores, inspectores, notificadores, actuarios fiscales y ministros ejecutores que dependan de los citados en las fracciones anteriores y que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
+VI. El Director General de Auditoría fiscal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2007)</small>
+
+VII. El Director General de Verificación al Comercio Exterior; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2007)</small>
+
+VIII. Los directores de área, coordinadores, jefes de oficina, visitadores, auditores, inspectores, notificadores, verificadores, actuarios fiscales y ministros ejecutores que dependan de los citados en las fracciones anteriores y que en términos de las disposiciones legales y reglamentarias tengan atribuciones de esta naturaleza.
 
 Las facultades y competencia de las autoridades fiscales se regirán por la legislación fiscal del estado, por la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, por el Reglamento Interior de la Secretaría de Finanzas y Administración, así como por los convenios de coordinación fiscal y colaboración administrativa que con los gobiernos federal o municipales se celebren.
 
@@ -785,13 +793,13 @@ Si el contribuyente o responsable solidario presenta la declaración omitida ant
 
 II. Embargar precautoriamente los bienes o la negociación cuando el contribuyente incurra en alguno de los siguientes supuestos:
 
-Omita presentar declaraciones anuales de los últimos tres ejercicios;
+a) Omita presentar declaraciones anuales de los últimos tres ejercicios;
 
-a) Omita presentar, cuando así corresponda, declaraciones mensuales definitivas, por los últimos tres meses del periodo a revisar, o
+b) Omita presentar, cuando así corresponda, declaraciones mensuales definitivas, por los últimos tres meses del periodo a revisar, o
 
-b) No atienda tres requerimientos de la autoridad en los términos de la fracción III de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un solo requerimiento.
+c) No atienda tres requerimientos de la autoridad en los términos de la fracción III de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un solo requerimiento.
 
-c) El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o tres meses después de practicado, si, no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
+El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o tres meses después de practicado, si, no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
 
 III. Imponer la multa que corresponda en los términos de este código y requerir la presentación del documento omitido en un plazo de quince días para el primero y de seis días para los subsecuentes requerimientos. Si no se atiende el requerimiento se impondrá la multa correspondiente, que tratándose de declaraciones será una multa por cada obligación omitida. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
@@ -2360,3 +2368,9 @@ JUAN CARLOS ROMERO HICKS.
 LIC. RICARDO TORRES ORIGEL
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 22 DE MAYO DE 2007.
+
+Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
