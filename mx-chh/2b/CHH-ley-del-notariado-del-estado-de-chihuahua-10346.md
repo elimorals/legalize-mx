@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "2004-09-25"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -111,7 +111,9 @@ DE LA EXPEDICION DE LAS PATENTES DE ASPIRANTE AL EJERCICIO DEL NOTARIADO Y DE NO
 
 Son Aspirantes al Ejercicio del Notariado las personas que obtengan la patente correspondiente, expedida en los términos de esta Ley, previo el cumplimiento de los requisitos siguientes:
 
-I.- Ser de nacionalidad mexicana, tener veinticinco años cumplidos en la fecha del examen, y menos de sesenta, así como estar en el ejercicio de sus derechos de ciudadano.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
+
+I.- Ser de nacionalidad mexicana, tener veinticinco años cumplidos en la fecha del examen, así como estar en el ejercicio de sus derechos de ciudadano.
 
 II.- Haber tenido y tener buena conducta privada y profesional y no haber sido condenado por delito grave intencional.
 
@@ -891,9 +893,11 @@ e).- Emitida la opinión o agotado el plazo a que se refiere el inciso anterior,
 
 DE LA TERMINACION DE LAS PATENTES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 111.
 
-Las patentes de Notario y de Aspirante al Ejercicio del Notariado, terminan por cualquiera de las siguientes causas:
+Las patentes de Notario y aspirante al ejercicio del notariado, terminan por cualquiera de las siguientes causas:
 
 I.- Revocación.
 
@@ -905,7 +909,7 @@ IV.- Incapacidad permanente, mental o física, para el desempeño de la función
 
 V.- Haber permanecido suspendida por más de dos años, en aplicación de la fracción III del artículo 109.
 
-VI.- Haber cumplido el Notario o el Aspirante al Ejercicio del Notariado 75 años de edad.
+VI.- (DEROGADA, P.O. 23 DE MAYO DE 2007)
 
 VII.- Fallecimiento.
 
@@ -1234,3 +1238,9 @@ El presente decreto entrará en vigor al siguiente día de su publicación en el
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
