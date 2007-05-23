@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-05-09"
+last_updated: "2007-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1163,11 +1163,11 @@ II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia defini
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su representante legal o convencional con cláusula especial.
+III.- Que lo otorgue el ofendido o la victima por sí, o por medio de su representante legal o convencional con cláusula especial.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
-También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
+Tambien procede el perdón del ofendido o de la victima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
 
 a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículo 305 fracciones I y II, 307, 310, 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
 
@@ -1845,7 +1845,7 @@ III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugar
 
 Al responsable del delito de lenocinio se le impondrá una sanción de cinco a diez años de prisión y multa de mil a dos mil días salario. Si el responsable del delito de lenocinio realiza su conducta con una persona menor de dieciséis años de edad, o por conducto de ésta, la sanción será de siete a doce años de prisión y multa de mil a dos mil días salario.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 201.
 
@@ -2307,7 +2307,15 @@ En todos los delitos previstos en este capítulo, además de la sanción de pris
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 270.
+
+Comete el delito de estupro, al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, empleando abuso de autoridad u obteniendo su consentimiento por medio de engaño.
+
+Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 235.
 
@@ -2569,7 +2577,7 @@ Al responsable de los delitos a que se refiere este capítulo se le impondrá un
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VII. SUBSTRACCION DE MENORES POR LOS PADRES
+### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
 
 ###### ARTICULO 264.
 
@@ -2616,8 +2624,6 @@ Comete el delito de estupro quien tenga cópula con persona mayor de doce y meno
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 271.
 
@@ -2843,17 +2849,33 @@ El delito de abandono de obligaciones alimenticias sólo se perseguirá a petici
 
 Para que el perdón concedido por el ofendido pueda extinguir la acción o la sanción impuesta aun por sentencia firme, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, y otorgar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
 ### CAPITULO IX
 
 ###### ARTICULO 300.
 
 Cometen el delito a que se refiere este capítulo los padres que habiéndoseles restringido o privado el ejercicio de la patria potestad o el derecho de custodia de sus hijos, mediante resolución judicial provisional o definitiva, los substraigan sin causa justificada del lugar donde habiten transitoria o permanentemente.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
+
 Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### ARTICULO 300
+
+Bis.- Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
+
+Sólo se procederá a petición de quien ejerza el derecho de custodia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 301.
 
-A los responsables del delito a que se refiere el Artículo anterior se les impondrá una sanción de seis meses a tres años de prisión y multa de quince a cincuenta días salario.
+A los responsables de los delitos a que se refieren los artículos anteriores se les impondrá una sanción de seis meses a tres años de prisión y multa de quince a cincuenta días salario.
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
@@ -3689,7 +3711,7 @@ XIII.- Cuando se enajenen o trafiquen de cualquier manera un vehículo o vehícu
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-XIV.- Cuando se altere o modifique de cualquier manera la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
+XIV.- Cuando se altere o modifique de cualquier manera la documentación que acreditre la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
@@ -4390,3 +4412,9 @@ P.O. 9 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
