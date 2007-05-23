@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-03-02"
+last_updated: "2007-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10813,7 +10813,7 @@ DE LAS FOSAS SÉPTICAS Y PLANTAS DE TRATAMIENTO
 
 ###### Artículo 916.
 
-En el caso de casa habitación aisladas que no cuente con factibilidad de descarga de sus aguas residuales a un sistema municipal, el o los propietarios, implementarán fosas sépticas que por ningún motivo deberán construirse en la vía pública y de acuerdo con las condiciones de su descarga, previo permiso tramitado ante el organismo operador correspondiente, quien dará las condiciones normativas; copia de este trámite se anexará a la solicitud de descarga de agua residuales que se presente a la Dirección.
+En el caso de casa habitación aisladas que no cuente con factibilidad de descarga de sus aguas residuales a un sistema municipal, el o los propietarios, implementarán fosas sépticas que por ningún motivo deberán construirse en la vía publica y de acuerdo con las condiciones de su descarga, previo permiso tramitado ante el organismo operador correspondiente, quien dará las condiciones normativas; copia de este trámite se anexará a la solicitud de descarga de agua residuales que se presente a la Dirección.
 
 ###### Artículo 917.
 
@@ -10941,7 +10941,7 @@ CONSTRUCCIÓN DE PAVIMENTO
 
 Para la construcción de nuevos pavimentos en el Municipio de Puebla, se deberá contar con el permiso correspondiente de la Dirección. Bajo la supervisión de un Director Responsable de Obra y Corresponsable.
 
-La solicitud de construcción deberá ir acompañada del estudio geotécnico respectivo, el cual deberá contener:
+La solicitud de construcción deberá ir acompañada del estudio geotécnico respectivo, el cuál deberá contener:
 
 I. Trabajos de exploración y muestreo (sondeos a poca profundidad);
 
@@ -12033,11 +12033,11 @@ IV. Apéndices
 
 Para valuar las fuerzas sísmicas obran en apéndices, tanques y demás elementos difiera radicalmente de el resto de la estructura principal, se pondrá actuando sobre el elemento en cuestión la fuerza sísmica que le correspondiera si se apoyará directamente el terreno, multiplicada por el factor 1 + c/ ao en que c es el coeficiente por el que se multiplica el peso del nivel de desplante del elemento en cuestión cuando se evalúan las fuerzas laterales sobre todo la construcción. Este requisito junto con la condición que establece la fracción I de este artículo para el cortante basal conducen a
 
-a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a
+a(¡W¡h¡+a°Wa°Wa(1+ah°/a°)=W¡+wa)c/Q;c/Q>a°
 
 Donde:
 
-Wi: Peso del nivel i
+W i: Peso del nivel i
 
 hi = Altura del nivel i sobre el desplante
 
@@ -12161,9 +12161,7 @@ bs = Velocidad media de ondas de cortante en el sitio
 
 Tc = Periodo fundamental de estructura supuesta con base indeformable.
 
-Hc = Altura efectiva de la estructura la cual se tomará como 0.7 de su altura total, excepto
-
-para estructuras en que su peso está concentrado en un nivel donde se tomará igual a la altura de ese nivel.
+Hc = Altura efectiva de la estructura la cual se tomará como 0.7 de su altura total, excepto para estructuras en que su peso está concentrado en un nivel donde se tomará igual a la altura de ese nivel.
 
 Cuando se conozca el modo fundamental de vibración de la estructura, la altura efectiva de está se podrá calcular como
 
@@ -12171,9 +12169,9 @@ He = (W¡X¡h¡/(¡W¡X¡)
 
 Donde:
 
-Wi = Peso del nivel i
+W i = Peso del nivel i
 
-Xi = Amplitud del desplazamiento modal en nivel i
+X i = Amplitud del desplazamiento modal en nivel i
 
 hi = Altura del nivel i sobre el desplante.
 
@@ -13117,7 +13115,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -17173,9 +17171,11 @@ MEDIOS DE IMPUGNACIÓN
 
 Los actos de la autoridad, derivados del cumplimiento del presente Capítulo, podrán ser recurridos a través del Recurso de Inconformidad, dispuesto en la Ley Orgánica Municipal.
 
-### CAPÍTULO 23. INDUSTRIAL DE ABASTOS PUEBLA
+### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1398.
 
@@ -19107,461 +19107,793 @@ DE LOS RECURSOS
 
 Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación de este Capítulo, los interesados podrán interponer el recurso de inconformidad previsto en la Ley Orgánica Municipal para el Estado de Puebla.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
 ### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
 
 AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1617.
 
-Las disposiciones contenidas en el presente Capítulo, tienen por objeto establecer las bases de organización y funcionamiento del servicio de rastro, a través del organismo denominado Industrial de Abasto. Para efectos del presente Capítulo, al referirse al rastro, se entenderá como el servicio público que presta el organismo descentralizado Industrial de Abastos Puebla.
+Es objeto del presente Capítulo, establecer las bases del servicio de rastro y abasto de carne para consumo humano; su inspección sanitaria, organización, funcionamiento, transporte y comercialización.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1618.
 
-Cualquier carne que se destine al consumo público dentro de los límites del Municipio estará sujeta a inspección por parte del H. Ayuntamiento, sin perjuicio de que concurran con el mismo fin inspectores de los Servicios Coordinados de Salud Pública en el Estado.
+En el servicio de rastro proporcionado por el Ayuntamiento o por el concesionario, se observará lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Puebla, Leyes Federales, Leyes Estatales, Normas Oficiales Mexicanas y disposiciones aplicables a la materia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1619.
 
-El servicio público de rastro y abasto de carne, lo prestará el H. Ayuntamiento, por conducto de Industrial de Abastos Puebla conforme a lo previsto por el presente Capítulo, quedando obligados los introductores de carne a cumplir con el presente Capítulo y a registrarse en el libro de concesiones indicado por la fracción III del artículo 1632 del presente Capítulo.
+El servicio público de rastro y abasto de carne, lo prestará el Ayuntamiento directamente, o por conducto del concesionario autorizado, conforme a lo previsto por el presente Capítulo y disposiciones aplicables a la materia.
 
-La propia administración vigilará y coordinará la matanza en Industrial de Abastos Puebla y en los centros de matanza que funcionen dentro del municipio autorizados por el H. Ayuntamiento, por lo tanto todas las carnes que se encuentren para su venta en las carnicerías o lugares autorizados, deberán contar con el sello Industrial de Abastos Puebla y de Salubridad, y con el recibo oficial de pago de derechos municipales o en su caso el recibo autorizado por el municipio a obradores que usen los servicios de Industrial de Abastos; sin estos requisitos, los expendedores tendrán que pagar los derechos equivalentes al degüello y multa de acuerdo a lo dispuesto en el 1674 fracción II, inciso a) de este Capítulo, y la multa será aplicada por el Inspector, de acuerdo a la gravedad de la infracción, o en su caso la carne podrá ser decomisada.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1620.
 
-La administración del rastro prestará a los usuarios de éste, todos los servicios de que se disponga de acuerdo con las instalaciones del rastro, que son: recibir el ganado destinado al sacrificio y guardarlo en los corrales de encierro por el tiempo reglamentario para su inspección sanitaria y comprobación de su legal procedencia; realizar el sacrificio y evisceración del propio ganado, la obtención de canales e inspección sanitaria de ellas; transportar directa ó indirectamente mediante concesión que otorgue el H. Ayuntamiento, los productos de la matanza del rastro a los establecimientos ó expendios correspondientes, haciéndolo con las normas de higiene prescritas.
+Para efectos del presente Capítulo, se entenderá como:
+
+I.- Abasto: Para el caso que nos ocupa se refiere a: Provisión de producto cárnico en el Municipio de Puebla;
+
+II.- Canal: El cuerpo del animal después de haber sido insensibilizado, sacrificado, sangrado y desprovisto de cerdas, plumas y vísceras; que puede conservar, según la especie, la piel, cabeza, patas, riñones o cola;
+
+III.- Desperdicios: Son la basura y los residuos que se encuentren en el rastro y no puedan ser aprovechados;
+
+IV.- Esquilmos: Son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etc.;
+
+V.- Evisceración: Extracción de las vísceras contenidas en la cavidad toráxica, abdominal, craneana y bucal de las especies de animales consideradas algunas aptas para el consumo humano, pudiendo o no, extraerse los riñones;
+
+VI.- Faenado: Es la etapa posterior al sacrificio de los animales para abasto y, según la especie; eliminación de la cabeza, patas, piel, cerdas y vísceras, así como la limpieza de las canales, vísceras y cabeza;
+
+VII.- Ganado: Nombre colectivo de los animales de pasto en una finca, hacienda o granja;
+
+VIII.- Ganado mayor: El que se compone de las especies bovino y equino;
+
+IX.- Ganado menor: El que se compone de las especies de ovinos, caprinos y porcinos;
+
+X.- Inspección: Revisión para constatar el cumplimiento de las disposiciones de este Capítulo y, ordenamientos aplicables en la materia;
+
+XI.- Inspección antemortem: Es la que se realiza al ganado mayor o menor en los corrales, previa a su sacrificio;
+
+XlI.- Inspección postmortem: Es la que se realiza a los productos cárnicos y subproductos resultado del proceso de sacrificio;
+
+XlII.- Lepóridos: Conejos y liebres;
+
+XlV.- Normas Mexicanas: Normas de referencia, de observancia voluntaria, que emiten los organismos nacionales de normalización, en los términos de la Ley Federal sobre Metrología y Normalización;
+
+XV.- Normas Oficiales: Normas Oficiales Mexicanas que expide la Secretaría en materia de sanidad animal, de carácter obligatorio, elaboradas en los Comités Consultivos Nacionales de Normalización de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización;
+
+XVI.- Obrador: Establecimiento o área donde se realiza el corte en piezas de las canales para su venta, a petición de los usuarios;
+
+XVII.- Planta de rendimiento: Instalación equipada para la industrialización de los productos o subproductos rechazados, es decir, los no aptos para el consumo humano;
+
+XVIII.- Producto cárnico: Es la canal, carne en piezas, carne molida, vísceras y demás estructuras y tejidos aptos para el consumo humano, sean carnes frescas, secas, saladas, sin salar, refrigeradas o congeladas;
+
+XlX.- Rastro Municipal: Establecimiento a cargo del Ayuntamiento o del concesionario, donde se brinda el servicio de recepción de ganado mayor o menor en pie, inspección sanitaria, sacrificio, faenado y refrigeración de los productos cárnicos para su comercialización;
+
+XX.- Sanidad animal: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas en el ganado mayor o menor, con repercusiones a la salud de la población en el Municipio;
+
+XXI.- Sello Sanitario: Sistema de Control implementado por el Rastro Municipal, para garantizar que toda la carne que se consuma en el Municipio de Puebla, ha sido supervisada, a fin de evitar daños a la salud de las personas;
+
+XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+XXIII.- Subproductos: Son algunos de los esquilmos; partes del animal no aptos para el consumo humano;
+
+XXIV.- TIF: Establecimiento Tipo Inspección Federal;
+
+XXV.- Trato Humanitario: Medidas para evitar dolor innecesario a los animales durante su traslado, cuarentena y sacrificio; y
+
+XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1621.
 
-El rastro deberá contar con las siguientes secciones para el sacrificio de animales:
+Los servicios del Rastro Municipal son:
 
-I. Sección de ganado mayor;
+I.- Inspección del ganado mayor o menor en pie que entra al Rastro Municipal;
 
-II. Sección de ganado menor;
+II.- Forraje y alimentación de los animales en los corrales del rastro;
 
-III. Sección de aves de corral; y
+III.- Sacrificio de ganado mayor o menor, corte de canales, evisceración, limpia de vísceras y pieles;
 
-IV. Sección de ganado bovino, caprino y porcino.
+IV.- Servicio de obrador;
 
-DE LA ADMINISTRACIÓN
+V.- Servicio de báscula;
+
+VI.- Sellado sanitario de productos cárnicos y subproductos;
+
+VII.- Refrigeración;
+
+VIII.- Uso de instalaciones del mercado de carnes;
+
+IX.- Transporte de los productos cárnicos del rastro;
+
+X.- Lavado y desinfección del transporte;
+
+XI.- Servicio de anfiteatro, horno crematorio, planta de rendimiento y cualquier otro servicio análogo; y
+
+XlI.- Los demás servicios que le otorgan las leyes aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1622.
 
-La planta de empleados de la administración de Industrial de Abastos, estará integrada por:
+El cobro de los servicios del rastro se especificará en la Ley de Ingresos del Municipio de Puebla, cuyas cuotas determinará el Ayuntamiento.
 
-I. Un Administrador, que designará el Presidente Municipal;
+En caso de concesión, las cuotas las determina el Ayuntamiento en la Ley de Ingresos del Municipio de Puebla, a propuesta del concesionario, de conformidad con la normatividad aplicable.
 
-II. Un secretario;
-
-III. Un médico veterinario;
-
-IV. Tantos inspectores de carnes como se requiera de acuerdo al número de centros de matanza autorizados y carnicerías que existan en el municipio;
-
-V. Matanceros;
-
-VI. Pesadores;
-
-VII. Choferes;
-
-VIII. Cargadores;
-
-IX. Corraleros; y
-
-X. Veladores necesarios para el servicio que autorice el presupuesto de egresos.
-
-Los nombramientos de los empleados enunciados en el presente artículo, serán emitidos por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1623.
 
-Para ser administrador del rastro municipal se requiere:
+El abasto de productos cárnicos en el Municipio, será mediante licencia, que para cada caso, concederá el Ayuntamiento.
 
-I. Ser ciudadano mexicano en pleno uso de sus derechos;
-
-II. Ser vecino del municipio de Puebla;
-
-III. Saber leer y escribir;
-
-IV. No haber sido condenado por delito alguno; y
-
-V. Ser de prominente honradez.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1624.
 
-El administrador deberá cuidar y que le rindan informes de:
+El rastro prestará servicio a todo particular que lo solicite, siempre y cuando cumpla con las disposiciones legales en la materia.
 
-I. Del examen de la documentación exhibida, al administrador de la procedencia legal del ganado destinado a la matanza;
-
-II. Que se impida la matanza, si falta la previa inspección sanitaria del médico veterinario e informar a los servicios de Salud Pública, a la Dirección de Agricultura y Ganadería del Estado y a la Presidencia Municipal, sobre la cantidad de ganado sacrificado, con enfermedades observadas en el mismo;
-
-III. Vigilar que los introductores y tablajeros no sacrifiquen mayor cantidad de animales que los manifestados y que se sujeten estrictamente al rol de matanza;
-
-IV. Que se recauden todos los ingresos provenientes de los derechos de degüello y de piso, así como el del lavado de vísceras y demás aprovechamientos de la matanza que correspondan al municipio entregándolos a la Tesorería Municipal;
-
-V. Que se impida el retiro de los productos de matanza, en el caso de que los propietarios o interesados no hayan liquidado los derechos correspondientes, señalando hasta las 14:00 hrs. de cada día para verificar los pagos, de no hacerlo, dichos productos serán detenidos por el tiempo de la moratoria y de no hacer los pagos, se procederá conforme a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla;
-
-VI. Formular anualmente proyecto de ingresos y egresos de la dependencia a su cargo;
-
-VII. Cuidar el buen orden de las instalaciones del rastro, vigilando que todo el personal de éste, observe buena conducta y desempeñen satisfactoriamente su cometido y en caso contrario informar a la superioridad;
-
-VIII. Prohibir que personas ajenas a la matanza entorpezcan las operaciones de éste, penetrando a los lugares dedicados a tal servicio;
-
-IX. De la existencia en los corrales de encierro de animales sospechosos de enfermedades transmisibles o contagiosas, procediendo desde luego a su matanza y en su caso incinerar las carnes y demás productos, así como la desinfección de los corrales contaminados;
-
-X. Que se niegue el permiso correspondiente para que salgan del rastro las carnes enfermas, que estén marcadas oficialmente como tóxicas o transmisibles de enfermedades a la salud pública;
-
-XI. Que todas las carnes destinadas al consumo, ostenten los sellos tanto del rastro como de salubridad;
-
-XII. Mantener en buen estado de conservación y funcionamiento todas las instalaciones y utensilios del rastro;
-
-XIII. Distribuir las distintas labores del rastro entre el personal a sus ordenes, en forma equitativa y de acuerdo con su especialidad y con las necesidades del servicio;
-
-XIV. Inspeccionar mensualmente los centros de matanza concesionados en términos del artículo 1631 de este Capítulo, para que cumplan con los requisitos de su autorización y hacer las recomendaciones necesarias para que se corrijan las anomalías que se detecten en dichos centros; y
-
-XV. Imponer las sanciones que marca este Capítulo por violaciones al mismo, a los trabajadores, introductores, usuarios y concesionarios, en los términos de este capítulo.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1625.
 
-El secretario deberá llenar los siguientes requisitos:
+El Ayuntamiento o el concesionario, podrán importar el ganado mayor o menor en pie y el producto cárnico para abastecer directamente al mercado municipal, cumpliendo con la normatividad aplicable a la materia.
 
-I. Ser mayor de edad y de reconocida buena conducta;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-II. Tendrá conocimientos generales sobre contabilidad y correspondencia; y
+Artículo 1625 bis.- Los productos cárnicos provenientes del Rastro Municipal, o del exterior sean de origen nacional o del extranjero, que se transporten o se pretendan comercializar en el Municipio, serán sujetos de inspección sanitaria por la Autoridad Municipal.
 
-III. No haber sido sentenciado por delito que merezca pena privativa de la libertad.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LAS AUTORIDADES COMPETENTES
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1626.
 
-El secretario tendrá las siguientes obligaciones:
+Son autoridades competentes en la prestación del servicio de Rastro Municipal:
 
-I. Suplir las faltas temporales del administrador de Industrial de Abastos Puebla;
+I.- El Ayuntamiento de Puebla;
 
-II. Llenar los libros de contabilidad y en general el control de la oficina administrativa, redactando la correspondencia y confeccionando los informes mensuales y anuales ordenados por las leyes de ganadería del Estado y de Hacienda Municipal; y
+II.- El Presidente Municipal;
 
-III. Acatar todas las órdenes del administrador del rastro relacionadas con el servicio.
+III.- El Síndico Municipal;
+
+IV.- El Tesorero Municipal por sí o por conducto del Jefe del Departamento de Registro y Fiscalización; y
+
+V.- Los Inspectores Municipales del Departamento de Registro y Fiscalización.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1627.
 
-El médico veterinario, adscrito a la administración del rastro deberá ser reconocido por los servicios coordinados de Salud Pública, teniendo como deberes:
+Son facultades del Ayuntamiento:
 
-I. Inspeccionar diariamente el ganado destinado a la matanza, de las 17:00 a las 19:00 hrs en víspera de su sacrificio y de las 7:00 hrs. Al término de la matanza del día, los canales, vísceras y demás productos de la misma;
+I.- Emitir los acuerdos y disposiciones para regular los términos, condiciones y modalidades sobre los cuales se podrá prestar el servicio de rastro por el Ayuntamiento o el concesionario;
 
-II. Revisar la documentación que acredite la procedencia legal del ganado destinado a sacrificio, impidiendo la matanza de los animales que no sea debidamente acreditada su procedencia legal, haciéndolo del conocimiento del administrador para efecto de que se finquen las responsabilidades legales a que haya lugar;
+II.- Aprobar las cuotas, tarifas, bases, tasas y accesorios por la prestación de servicio público de rastro; serán incluidas en la Ley de Ingresos del Municipio de Puebla;
 
-III. Impedir el sacrificio de animales enfermos y determinar si deben destruirse total o parcialmente las carnes, vísceras y demás productos que resulten nocivos para la salud pública;
+III.- Aprobar la iniciativa de concesión a particulares del servicio público de rastro;
 
-IV. Autorizar con el sello correspondiente el consumo de las carnes que resulten sanas y aprobadas; y
+IV.- Aprobar la revocación de la concesión por cualquiera de la causas estipuladas en el presente Capítulo y en el Título de Concesión; y
 
-V. Informar al administrador en todo lo relativo a su especialidad.
+V.- Las que le confieran las leyes.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1628.
 
-Los inspectores de carnes deberán ser de preferencia veterinarios o contar con conocimientos relativos a satisfacción del medico veterinario y reunir los requisitos que para ser secretario indica este Capítulo, y tendrá las siguientes funciones:
+Son facultades del Presidente Municipal:
 
-I. Recaudar todos los ingresos provenientes de los derechos de degüello que corresponden al municipio, en los centros de matanza de su adscripción;
+I.- Vigilar el cumplimiento del presente Capítulo y disposiciones jurídicas aplicables;
 
-II. Impedir el sacrificio de animales enfermos, y ordenar su traslado al rastro municipal para efecto de su destrucción e incineración, y destruir total y parcialmente las carnes, vísceras y demás productos que resulten nocivos para la salud; y
+II.- Formular ante el Ayuntamiento la iniciativa de la concesión a particulares del servicio público de Rastro Municipal;
 
-III. Rendir informe semanal de sus actividades al administrador y en sus respectivas áreas y las demás que le encomiende el administrador.
+III.- Proponer al Cabildo las cuotas de los servicios de rastro, que deberán incluirse en la Ley de Ingresos del Municipio de Puebla;
+
+IV.- Sancionar al concesionario por inobservancia a lo dispuesto en el presente Capítulo y normatividad aplicable; y
+
+V.- Proponer al Cabildo la renovación del Título de Concesión por incumplimiento a lo pactado y dispuesto en el presente Capítulo y normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1629.
 
-Los demás empleados y trabajadores de Industrial de Abastos Puebla, también serán de reconocida buena conducta y realizarán las labores propias de su especialidad, ajustándose a los horarios de trabajo que fijen este Capítulo y la administración.
+Son facultades del Tesorero Municipal, por sí o por conducto del Jefe del Departamento de Registro y Fiscalización:
+
+I.- Vigilar el cumplimiento de los programas operativos, la capacidad técnica y administrativa del servicio de rastro con base en las Normas Oficiales Mexicanas y normatividad aplicable;
+
+II.- Verificar la prestación del servicio público de Rastro Municipal, e informar los resultados al Presidente Municipal;
+
+III.- Supervisar el cumplimiento de lo dispuesto en el presente Capítulo;
+
+IV.- Otorgar la licencia para el abasto de productos cárnicos en el Municipio;
+
+V.- Vigilar la comercialización en el Municipio de los productos cárnicos provenientes del exterior de origen nacional o extranjero, previa inspección sanitaria;
+
+VI.- Revisar los datos de los libros de registro;
+
+VII.- Ordenar el decomiso de lo (sic) productos cárnicos que no cumplan con lo dispuesto en el presente Capítulo y normatividad aplicable;
+
+VIII.- Vigilar el cumplimiento de lo dispuesto en el presente Capítulo; y
+
+IX.- Las facultades que le confiere las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1629 bis.- Los inspectores municipales del Departamento de Registro y Fiscalización, serán médicos veterinarios zootécnicas aprobados por la Secretaría y tendrán las facultades y obligaciones siguientes:
+
+I.- Vigilar que el rastro y lugares autorizados procedan de acuerdo a lo dispuesto en el presente Capítulo y disposiciones aplicables;
+
+II.- Verificar la sanidad, propiedad y posesión legítima del ganado mayor o menor en pie, con la documentación correspondiente;
+
+III.- Inspeccionar el sacrificio higiénico-sanitario del ganado mayor o menor en pie;
+
+IV.- Confirmar la sanidad de los productos cárnicos del Rastro Municipal o del rastro al que pertenecen, con el sello de sanidad y con la documentación correspondiente;
+
+V.- Verificar el pago de derechos;
+
+VI.- Inspeccionar el expendio de los productos cárnicos en el rastro, en el área de exhibición y comercialización y en los demás establecimientos y centros comerciales, que cumplan con las normas higiénico-sanitarias, sellado sanitario y documentación que acredite su sanidad y legal procedencia y, en su caso, la licencia y autorización correspondiente para vender ese tipo de producto en el Municipio;
+
+VII.- Supervisar la comercialización en el Municipio de los productos cárnicos provenientes del exterior, sean de origen nacional o extranjero, previa inspección sanitaria;
+
+VIII.- Verificar que la infraestructura y mobiliario donde se presta el servicio de Rastro Municipal cumpla con la normatividad aplicable en la materia;
+
+IX.- Practicar visitas de inspección;
+
+X.- Inspeccionar los datos de los libros de registro;
+
+XI.- Rendir mensualmente un informe al Jefe del Departamento de Registro y Fiscalización, sobre los pormenores del cerco sanitario;
+
+XII.- Realizar el decomiso de los productos cárnicos que no tengan la documentación comprobatoria de sanidad, legal procedencia y/o los sellos sanitarios del Rastro Municipal o del rastro al que pertenecen; y
+
+XlII.- Las que les confiera el Tesorero Municipal.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1630.
 
-Se prohíbe estrictamente a todos los empleados y trabajadores del rastro, realizar operaciones de compra-venta de ganado y de los productos de sacrificio de éste así como aceptar gratificaciones de los introductores y tablajeros a cambio de preferencias ó servicios especiales; así como recibir ó llevarse porciones y partes de los canales ó vísceras de las instalaciones de Industrial de Abastos Puebla.
+La Secretaría de Seguridad Pública y Vialidad Municipal deberá auxiliar al Director o Administrador y a los inspectores internos del Rastro Municipal, cuando denuncien el incumplimiento a lo dispuesto en el presente Capítulo.
 
-DE LAS CONCESIONES DE CENTROS DE MATANZA
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1631.
 
-Toda persona física o moral que solicite concesión para un centro de matanza, deberá contar con la autorización del Ayuntamiento, además de reunir los siguientes requisitos:
+Son obligaciones del administrador del rastro;
 
-I. Contar con la autorización expedida por la Secretaría de Salud;
+I.- Autorizar la introducción del ganado mayor o menor en pie a las instalaciones del rastro, previa inspección sanitaria por los médicos veterinarios;
 
-II. Acreditar tener una reconocida solvencia moral y económica, a satisfacción del Ayuntamiento;
+II.- Verificar la sanidad y legal procedencia del ganado mayor o menor en pie con la documentación correspondiente:
 
-III. Contar con las instalaciones necesarias al inicio de labores para la matanza, que deberán ser previamente autorizadas por la administración del rastro municipal, o la comisión que determine el Ayuntamiento;
+III.- Si advierte la existencia de ganado mayor o menor en pie sospechoso en los corrales, deberá ordenar su inmediata inspección sanitaria;
 
-IV. La Autorización será en todo caso para la matanza del número de ganado que diariamente pueda ser inspeccionado en los corrales con que cuente el centro de matanza;
+IV.- Confirmar que el ganado mayor o menor en pie que entra a las áreas de sacrificio se encuentra en perfecto estado de sanidad;
 
-V. Hacer el pago de los derechos de autorización que serán fijados en la ley de ingresos municipales;
+V.- Realizar el cobro y supervisar que los introductores o usuarios paguen las cuotas por los servicios del Rastro Municipal autorizadas por el Ayuntamiento;
 
-VI. Una vez autorizada la concesión, hacer los pagos diarios por degüello de las cabezas que sacrifique, y los demás que le señalen la ley de ingresos municipales o por acuerdo de cabildo; y
+VI.- Prohibir que personas ajenas al rastro penetren en sus instalaciones, sin autorización expresa de las Autoridades Municipales competentes o, en su caso, del concesionario;
 
-VII. Someterse expresamente a todo lo dispuesto por este Capítulo y a las disposiciones que le marquen las autoridades municipales, a través del administrador del rastro municipal.
+VII.- Verificar que los productos cárnicos del rastro destinados al consumo humano ostenten los sellos de sanidad del Rastro Municipal;
 
-DE LOS LIBROS DE ADMINISTRACIÓN
+VIII.- Verificar se inspeccione en las instalaciones del rastro el producto cárnico que proviene del exterior, sean nacional o extranjero, que se pretenda comercializar en el Municipio;
+
+IX.- Impedir que salgan del Rastro Municipal, retener y enviar a la planta de rendimiento los productos cárnicos que estén marcados oficialmente como no aptos para consumo humano;
+
+X.- Mantener en buen estado de conservación, funcionamiento, limpieza y sanitización las instalaciones y utensilios del rastro; y
+
+XI.- Las obligaciones que señale la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1632.
 
-El administrador de Industrial de Abastos Puebla, deberá contar por duplicado, con los siguientes libros.
+Los inspectores internos del rastro serán médicos veterinarios zootecnistas aprobados por la Secretaría; teniendo como facultades:
 
-I. Un libro de ingresos, en donde deberá anotar todos los ingresos, que por derechos de degüello, tanto del rastro, como de los centros de matanza, autorizados, y demás que de acuerdo a este Capítulo y a la ley de ingresos municipales, le corresponde recaudar;
+I.- Impedir la matanza del ganado mayor o menor en pie que no sea debidamente acreditada su sanidad y procedencia legal; determinando si deben incinerarse en su totalidad o ser remitidos a la planta de rendimiento a costa del introductor o usuario;
 
-II. Un libro de egresos, donde deberá anotar los gastos diarios que se originen de la administración del rastro municipal, entendiendo siempre que no podrá erogar más del equivalente a 4 meses de salario mínimo vigente en la población, sin autorización del cabildo, aún cuando cuente con fondos suficientes, para ello;
+II.- Inspeccionar diariamente el ganado mayor y menor en pie en víspera de su sacrificio; las canales, vísceras y demás productos cárnicos;
 
-III. Un libro de registro donde deberá anotar todos los centros de matanza autorizados, y demás a que se refiere este Capítulo, en el cual deberá anotar mensualmente las observaciones que resulten de las inspecciones a los mismos, y los acuerdos con el seguimiento que se da a dichas observaciones.
+III.- Realizar la inspección antemortem y postmortem del ganado mayor o menor;
 
-El duplicado de los dos primeros libros se deberá conservar en la Tesorería Municipal, y el tercero en la Oficialía Mayor o en el área que determine el Ayuntamiento, en donde mensualmente se le harán las actualizaciones correspondientes.
+IV.- Cumplir con las previsiones técnico-operativas dispuestas en las Normas Oficiales Mexicanas;
 
-DEL SERVICIO DE CORRALES
+V.- Verificar y sellar los productos cárnicos del Rastro Municipal aptos para consumo humano; responsabilizándose del uso de los sellos sanitarios;
+
+VI.- Inspeccionar bajo su responsabilidad el producto cárnico que proviene del exterior sean nacional o extranjero, que se pretenda comercializar en el Municipio; y
+
+VII.- Rendir un informe diario al Administrador, Director o Jefe del rastro.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1633.
 
-Los corrales de desembarque estarán abiertos al servicio público diariamente de 8:00 a las 13:00 hrs. para recibir el ganado destinado a la matanza.
+El nombramiento de los trabajadores del rastro, será emitido por el Presidente del Consejo de Administración; en caso de concesión, será el concesionario quien determine el número de empleados a contratar, siendo responsable frente al Ayuntamiento del cumplimiento de las facultades y obligaciones de cada uno de ellos, de acuerdo a lo expresado en el presente Capítulo y en las disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1634.
 
-A los corrales de encierro, sólo tendrán acceso los animales que vayan a sacrificarse, debiendo permanecer en ellos como máximo 24 hrs. y como mínimo 12 horas, para su inspección sanitaria y la comprobación de su procedencia legal, causando los derechos de piso que establezca la Ley Municipal de Ingresos. Durante la permanencia del ganado en los corrales de encierro, sólo en casos de emergencia la administración podrá autorizar el paso del animal de dichos corrales al departamento de matanza.
+Se prohíbe a los empleados del rastro:
+
+I.- Aceptar gratificaciones de los introductores o usuarios a cambio de preferencias o servicios especiales;
+
+II.- Sin autorización expresa del Administrador, llevarse o comercializar los productos cárnicos y subproductos de las instalaciones del rastro;
+
+III.- Presentarse enfermos, alcoholizados o drogados;
+
+IV.- No presentarse aseados y con su indumentaria adecuada para laborar;
+
+V.- No exhibir su tarjeta de salud vigente, cuando para ello, se les requiera;
+
+VI.- No mantener un escrupuloso estado de limpieza el departamento que les corresponde;
+
+VII.- No observar los horarios señalados; y
+
+VIII.- No cumplir con lo dispuesto en el presente Capítulo y disposiciones aplicables a la materia.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1635.
 
-Para introducir ganado a los corrales del rastro deberá solicitarse del corralero, con expresión de número y especie de animales, la correspondiente orden de entrada, misma que se expedirá si no existe impedimento legal.
+Para el caso de que el servicio de rastro lo preste un concesionario previamente autorizado, éste deberá:
+
+I.- Cumplir con lo dispuesto en las Normas Oficiales Mexicanas y ordenamientos legales Federales, Estatales y Municipales que resulten aplicables;
+
+II.- Cumplir con las obligaciones a su cargo, que deriven del título correspondiente;
+
+III.- Para evitar todo tipo de contaminación ambiental, observará el manejo adecuado de los residuos que genere en el interior y en el exterior de sus instalaciones, para alcanzar su certificación como INDUSTRIA LIMPIA;
+
+IV.- Los daños a terceros ocasionados con motivo de la prestación del servicio público de rastro será responsabilidad del concesionario, liberando al Municipio de cualquier responsabilidad al respecto;
+
+V.- En su establecimiento, industrializadoras, empacadoras y frigoríficos, utilizar la denominación Tipo Inspección Federal, como símbolo de calidad de sus productos; y
+
+VI.- Rendir bajo su responsabilidad a la Autoridad Municipal un informe mensual detallado sobre los acontecimientos suscitados en la prestación del servicio público de Rastro Municipal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LA VERIFICACIÓN E INSPECCIÓN
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1636.
 
-El corralero del rastro encargado de recibir el ganado vacuno, es el inmediato responsable del mantenimiento y guarda de éste, mientras se sacrifican, por lo que el recibo y entrega del mismo, lo hará por rigurosa lista anotando fierros, colores y propiedad.
+Los que procesen, refrigeren, empaquen, industrialicen, movilicen, comercialicen productos cárnicos para consumo humano dentro de los límites del Municipio, estarán sujetos a inspección por parte del Ayuntamiento, sin prejuicio de que concurran con el mismo fin, inspectores de los Servicios Coordinados de Salud Pública y autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1636 bis.- Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el apoyo de la Secretaría de Seguridad Pública y Vialidad Municipal.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637.
 
-El empleado comisionado para revisar los certificados de salud y facturas de compra-venta de ganado porcino, ovino ó caprino, sólo aceptará aquellos certificados de salud que no tengan una antigüedad mayor de 15 días en relación con la fecha de su expedición por presumirse que las personas que introducen esta clase de ganado son comerciantes y no criadores.
+Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; artículos 51, 52 y 53 del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla y normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1637 bis.- El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del rastro al que pertenece será decomisado y sometido a inspección sanitaria, de resultar apto para consumo se destinará a un establecimiento de beneficencia privada.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1637 ter.- En caso de concesión, los inspectores internos del rastro, se coordinarán con la Autoridad Municipal en la inspección, vigilancia del sacrificio, transporte y comercialización de todo producto cárnico en el Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1638.
 
-En el caso del artículo anterior, el mismo empleado irá cancelando con el sello fechador, todos los documentos que amparen la adquisición de éstos ganados cuya vigencia no haya extinguido.
+Toda persona física o moral, podrá denunciar vía telefónica, mediante escrito o comparecencia ante el Departamento de Registro y Fiscalización o en la Dirección del Rastro Municipal, todo acto u omisión a lo dispuesto en el presente Capítulo, procediéndose a la aplicación de las medidas conducentes y sanciones que resulten procedentes de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LOS LIBROS DE REGISTRO
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1639.
 
-Los empleados comisionados para revisar las facturas de compra-venta de los distintos ganados que se introducen al rastro para su sacrificio se harán acreedores de las responsabilidades que les resulten por no verificar debidamente la identidad de los comerciantes de acuerdo con dichas facturas, así como que tales pasen a los lugares de matanza si antes no se ha comprobado su legal procedencia y acreditada su salida.
+En el rastro, están obligados a llevar los Libros de Registro del padrón de introductores y del ganado mayor y menor en pie sacrificado, los cuales podrán ser revisados por las Autoridades Municipales y Autoridades competentes.
+
+Lo anterior, sin perjuicio de otros libros que por disposiciones fiscales u otros ordenamientos jurídicos, deban integrar a su sistema de administración interna.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DEL SERVICIO DE CORRALES
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1640.
 
-Si los ganados que se guardan en los corrales de encierro no son sacrificados en el tiempo que señala este Capítulo por culpa del dueño, su permanencia en ellos causará el doble de los derechos de piso, con base en lo fijado por la Ley de Ingresos Municipales correspondiente.
+El rastro por cuestiones higiénico-sanitarias y de seguridad, deberá contar con las siguientes secciones de corrales:
+
+I.- Ganado mayor:
+
+a) Sección de ganado equino y bovino;
+
+II.- Ganado menor;
+
+a) Sección de ganado porcino;
+
+b) Sección de ganado ovino;
+
+c) Sección de ganado caprino.
+
+Y las secciones que se requiera acorde al tipo de especie animal de que se trate, sean lepóridos o aves.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1641.
 
-El forraje de los animales durante su permanencia en los corrales de desembarque corre por cuenta de los introductores, pero la administración podrá proporcionarlo previo el pago de su importe, que será fijado tomando como base el precio en el mercado, más un 50%, por la prestación del servicio.
+Para la entrada de ganado mayor o menor en pie a los corrales del Rastro Municipal, se deberá acreditar con la documentación vigente su sanidad y legal procedencia, de lo contrario, a quien resulte responsable se le aplicarán las sanciones que señala el artículo 1671 del presente Capítulo y normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1642.
 
-Ningún animal en pie podrá salir de los corrales del rastro, sin que se observen las disposiciones del presente Capítulo, especialmente en lo relativo a inspección sanitaria y comprobación de su procedencia legal y se satisfagan los derechos, impuestos y demás cuotas que se hayan causado.
+Ningún animal en pie podrá salir de los corrales del rastro, sin que se observen las disposiciones de inspección sanitaria, comprobación de su procedencia legal, y pago de los servicios prestados.
 
-Si los propietarios de los ganados depositados en los corrales del rastro no manifiestan en un término de cuatro días su propósito de sacrificarlos, retirarlos o mantenerlos en el mismo, la administración les notificará que procederá a su matanza y venderá sus productos a los precios oficiales, depositando su importe, para entregarse a sus respectivos dueños.
-
-La administración del rastro durante las emergencias provocadas por escasez de ganado, la ilegal especulación de ésta o cualquier otra causa grave, impedirá la salida del ganado en pie de sus corrales, procediendo a su sacrificio conforme el procedimiento que dispone el párrafo anterior.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE MATANZA
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 1643.
 
-El servicio de matanza consiste en sacrificar, quitar y limpiar la piel, eviscerar y seleccionar cabeza y canales del ganado, conduciendo todos estos productos al departamento respectivo.
+El servicio de matanza deberá ser un proceso higiénico-sanitario que consiste en:
+
+I.- Realizar la inspección antemortem del ganado mayor o menor en pie en víspera de su sacrificio;
+
+II.- Bañar a los animales;
+
+III.- Remitirlos a las áreas específicas de sacrificio para cada tipo de animal según la especie;
+
+IV.- Insensibilizar previamente al ganado mayor o menor en pie, antes de su sacrificio mediante los sistemas permitidos por la normatividad aplicable;
+
+V.- Realizar el faenado que es:
+
+a) Sangrado del animal;
+
+b) Según la especie eliminar la cabeza, patas, piel y cerdas, mediante los procedimientos adecuados;
+
+c) Seccionar las canales para su evisceración y limpieza;
+
+d) Limpiar y lavar las vísceras y cabeza.
+
+VI.- Realizar la inspección postmortem en forma minuciosa de cada una de las partes del animal producto del faenado, para corroborar la sanidad del producto cárnico que no presenten alguna lesión, tumoración, hematoma o algún otro signo de enfermedad que no lo haga apto para consumo humano;
+
+VII.- Por disposición y bajo la responsabilidad de los inspectores internos del rastro, en caso de no encontrar ninguna irregularidad en el producto cárnico, éste será remitido de manera inmediata a las cámaras frigoríficas seccionadas para cada tipo de producto cárnico según la especie animal de la cual provenga y, las vísceras serán depositadas en la sección frigorífica seccionadas para cada tipo de producto;
+
+VIII.- El subproducto de la matanza que no es apto para consumo humano pero que puede ser aprovechado, se remitirá a la planta de rendimiento para su industrialización;
+
+IX.- El desecho no aprovechable se remitirá al horno crematorio para su destrucción, el resultado, bajo ninguna circunstancia será vertido al medio ambiente; y
+
+X.- En la matanza se observarán los procesos que determinan las Normas Oficiales Mexicanas para un rastro Tipo Inspección Federal.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1644.
 
-El personal de matanza ejecutará los trabajos a que se refiere el artículo anterior, y además sin perjuicio de observar las disposiciones en materia sanitaria, deberán:
+Los productos cárnicos no aptos para consumo humano serán decomisados, incinerados o remitidos a la planta de rendimiento a consideración y bajo responsabilidad del médico veterinario; este proceso será a costa de los introductores o usuarios.
 
-I. Presentarse todos los días completamente aseados;
-
-II. Usar batas, y botas de hule durante el desempeño de su labor;
-
-III. Proveerse de la tarjeta de sanidad correspondiente y exhibirla cuantas veces se le requiera;
-
-IV. Mantener en escrupuloso estado de limpieza el departamento que le corresponde; y
-
-V. Observar estrictamente el horario de matanza, las disposiciones del presente Capítulo y las instrucciones de la administración encargada del rastro, en relación con éste servicio.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1645.
 
-El mencionado personal recibirá a las 07:00 hrs. del día del sacrificio del ganado, el rol de matanza al que deberá a ajustarse estrictamente.
+Los productos de la manzana serán entregados a sus propietarios por el personal autorizado.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1646.
 
-Se prohíbe la entrada a las instalaciones de Industrial de Abastos Puebla, a los trabajadores que se presenten en estado de ebriedad, así como aquellos que no exhiban su tarjeta de salud cuando para ello se les requiera.
+En el Municipio de Puebla queda prohibido el sacrificio del ganado mayor o menor fuera de las instalaciones del rastro, excepto de aquellas especies que por su naturaleza y por la falta de instalaciones adecuadas en el rastro no puedan ser sacrificadas en el mismo; sin embargo se le dará aviso a la Autoridad Municipal para que otorgue el permiso correspondiente.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1647.
 
-Los animales serán sacrificados en orden numérico progresivo de las solicitudes correspondientes previa la autorización respectiva que sólo se dará según el resultado de las inspecciones referidas.
+La matanza que se realice en contravención a lo dispuesto en el presente Capítulo, será considerada como clandestina; los productos cárnicos serán decomisados por la Tesorería Municipal a través del Departamento de Registro y Fiscalización y sometidos a inspección sanitaria; de resultar aptos para consumo humano, se destinarán a un establecimiento de Beneficencia Pública, si no son aptos para consumo se remitirán al Rastro Municipal para su incineración.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1648.
 
-No obstante la inspección sanitaria del ganado en piso, también se inspeccionará las carnes producto de éste, autorizando su consumo mediante los sellos correspondientes al resultar sanas, caso contrario serán incineradas o transformadas en productos industriales de acuerdo con el dictamen del veterinario.
+Todos los productos de la matanza que procedan del rastro, deberán estar amparados con su sello sanitario, no siendo así, se presumirá una ilegal posesión, procediéndose conforme a lo dispuesto en el artículo anterior; poniéndose a los poseedores a disposición de la autoridad competente, sin perjuicio de las responsabilidades administrativas en que se incurra.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1649.
 
-Para el sacrificio del ganado fuera de las instalaciones de Industrial de Abastos Puebla, los interesados deberán recabar previamente el permiso respectivo de la administración, quien designará un interventor que se encargue bajo su responsabilidad de vigilar la observación de las disposiciones del presente Capítulo.
+Por circunstancias que provoquen el retraso o suspensión de los servicios que presta el rastro, debido a acontecimientos de la naturaleza, fallas mecánicas, falta de energía eléctrica, captación de agua y demás circunstancias no imputables al rastro, éste no será responsable de las pérdidas comerciales causadas a los introductores o usuarios.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LOS ESQUILMOS
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1650.
 
-La matanza que no se realice conforme a lo dispuesto en el artículo anterior, será considerada como clandestina y las carnes producto de ella serán decomisadas y sometidas a la inspección sanitaria. De resultar aptas para consumo, se destinará a un establecimiento de beneficencia pública sin perjuicio del pago de los derechos de degüello y multa de diez a treinta días de salario mínimo vigente por cada cabeza de ganado y si resultan enfermas, se procederá a incinerarlas o transformarlas en productos industriales, de acuerdo con el dictamen del veterinario, sin perjuicio de las sanciones penales que procedan.
+Los esquilmos y desperdicios de la matanza corresponden en propiedad al Ayuntamiento o al concesionario, según el caso.
 
-Todos los productos de la matanza que procedan de Industrial de Abastos Puebla, deberán estar amparados con los sellos oficiales y las boletas de pago de los derechos de degüello, no siendo así, se presumirá una ilegal posesión, consignándose a los poseedores ante la autoridad competente, sin perjuicio de las responsabilidades administrativas en que incurren.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1651.
 
-Cuando el Honorable Ayuntamiento por razones económicas o de otra índole, no pudiera prestar directamente el servicio de matanza, lo concesionará a persona o empresa responsable mediante garantías que otorguen; pero en ambos casos, deberán observarse las disposiciones relativas del presente Capítulo, sin tener el Honorable Ayuntamiento obligaciones laborales con el personal que contrató el concesionario.
+Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmente a la Tesorería Municipal el producto de la venta de los esquilmos, rindiendo un informe de tallado (sic) del manejo de esas materias residuales.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1651 bis.- Si el servicio de rastro lo presta el concesionario dará aviso a la Tesorería Municipal del manejo de las materias residuales del proceso de matanza; si son incineradas, industrializadas y comercializadas o algunas de ellas entregadas a los introductores o usuarios a petición de éstos, siempre y cuando justifiquen el destino de los mismos, cumpliendo con la normatividad aplicable a la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1651 ter.- Las pieles de los animales serán entregadas a los propietarios, por el personal autorizado previa opinión del médico veterinario y pago de los servicios prestados.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DEL ANFITEATRO, HORNO DE INCINERACIÓN Y PLANTA DE RENDIMIENTO
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1652.
 
-Durante emergencias provocadas por escasez de ganado destinado al rastro, ilegal especulación comercial con los productos de este, o cualquier otra causa que lo amerite, el Ayuntamiento podrá importar por su cuenta de cualquier parte del Estado o del país, ese ganado o esos productos para abastecer directamente al mercado municipal de carnes.
+En el anfiteatro del rastro se efectuarán:
 
-DEL TRANSPORTE DE CARNE Y SU CONCESIÓN A PARTICULARES
+I.- El sacrificio, evisceración e inspección sanitaria del ganado mayor o menor en que aparezcan muertos o enfermos;
+
+II.- La transformación o destrucción de los productos de la matanza que el veterinario bajo su responsabilidad considere impropios para el consumo humano y nocivos para la salud pública;
+
+III.- El ganado mayor o menor y el producto cárnico que por disposición de la Autoridad Municipal deba ser remitido al anfiteatro, horno de incineración o planta de rendimiento.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1653.
 
-Los particulares, previo pago de los derechos correspondientes que serán fijados en la ley de ingresos municipales o en su caso el que se determine en la propia concesión, podrán obtener autorización de la administración de Industrial de Abastos Puebla para el transporte de carne.
+Los servicios de anfiteatro, horno de incineración y planta de rendimiento serán a costa del introductor o usuario, o de quien resulte propietario del ganado mayor o menor o del producto cárnico.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1654.
 
-No podrán movilizarse los productos de la matanza que no se encuentren autorizados para el consumo por el servicio sanitario municipal.
+Si los productos cárnicos, fuesen declarados por el médico veterinario, impropios para el consumo humano, no se devolverán los pagos por los servicios prestados.
 
-DE LOS USUARIOS DEL RASTRO
-
-###### Artículo 1655.
-
-Corresponde al Honorable Ayuntamiento proveer al rastro del ganado necesario para la matanza; pero esa provisión podrán hacerla mediante autorización de cabildo las empresas o personas responsables a juicio de aquél.
-
-###### Artículo 1656.
-
-Son introductores de ganado todas aquellas personas físicas o morales que con autorización correspondiente, se dediquen al comercio del mismo, introduciéndolo al rastro para su sacrificio.
-
-###### Artículo 1657.
-
-Toda persona que lo solicite, podrá introducir al rastro, ganado de cualquier especie comestible, sin más límite que el que fije la administración, teniendo en cuenta las disposiciones sanitarias, la capacidad del rastro, las posibilidades de mano de obra u otras circunstancias de carácter imprevisto.
-
-###### Artículo 1658.
-
-Los introductores de ganado tendrán las siguientes obligaciones:
-
-I. Introducir solamente ganado que se encuentre en perfecto estado de salud, para que al sacrificarse se obtenga un producto sano y de buena calidad;
-
-II. Manifestar a la administración de Industrial de Abastos de Puebla, con tres horas de anticipación, la cantidad de animales que se pretenden sacrificar, a fin de que ésta pueda verificar su revisión legal y sanitaria y formular el rol respectivo de matanza;
-
-III. Acreditar con las constancias relativas estar al corriente de los impuestos de introducción, degüello u otros cargos, de lo contrario ninguna solicitud de introducción del ganado será admitida por la administración;
-
-IV. Cuidar de que sus animales estén señalados con sus marcas particulares de introducir, las que deberán estar registradas en la administración;
-
-V. Exhibir toda la documentación que ampare la legitima propiedad sobre el ganado que introducen al rastro para su sacrificio;
-
-VI. Dar cuenta a la administración de los animales accidentados durante su transporte o conducción al sacrificio, a efecto de que se practique el reconocimiento veterinario respectivo y se determine lo conducente de acuerdo con el caso;
-
-VII. No introducir al rastro ganados flacos, maltratados o con signos de inanición producida por hambre o enfermedad crónica; y
-
-VIII. Cumplir y observar los horarios y disposiciones que marca el presente Capítulo y reparar daños, desperfectos o deterioros que causen sus animales a las instalaciones del rastro.
-
-###### Artículo 1659.
-
-Queda prohibido a los introductores de ganado:
-
-I. Portar armas de fuego dentro de las instalaciones de Industrial de Abastos Puebla;
-
-II. Presentarse en estado de ebriedad o introducir bebidas alcohólicas en las instalaciones de Industrial de Abastos Puebla;
-
-III. Insultar al personal del mismo;
-
-IV. Intervenir en el manejo de instalaciones o equipo de Industrial de Abastos Puebla.
-
-V. Entorpecer las labores de matanza;
-
-VI. Sacar del rastro la carne producto de la matanza sin la debida inspección sanitaria o cuando ésta se considere inadecuada para su consumo;
-
-VII. Infringir las disposiciones particulares sobre la materia de éste Capítulo, dictadas por el H. Ayuntamiento;
-
-VIII. Alterar o mutilar documentos oficiales que amparen la propiedad o legal procedencia del ganado o que autoricen su introducción al rastro; y
-
-IX. Los introductores que infrinjan las disposiciones del presente Capítulo se harán acreedores a las sanciones que al efecto se señalen.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
 DEL SERVICIO DE REFRIGERACIÓN
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### Artículo 1655.
+
+El sistema de refrigeración deberá reunir las características que establecen las Normas Oficiales Mexicanas, y normatividad aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### Artículo 1656.
+
+Al sistema de refrigeración únicamente deberán remitirse los productos cárnicos del proceso de matanza del Rastro Municipal, que hayan sido inspeccionados y autorizados para el consumo humano.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### Artículo 1657.
+
+Por ningún concepto se permitirá la entrada en las cámaras frigoríficas de productos cárnicos de cualquier otra naturaleza no autorizados para consumo humano.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### Artículo 1658.
+
+El rastro no será responsable de los daños o perjuicios que sufran los introductores o usuarios de los productos cárnicos que dejen o abandonen en el sistema de refrigeración.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
+###### Artículo 1659.
+
+Sólo el personal autorizado entregará los productos cárnicos del sistema de refrigeración a los introductores o usuarios.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 1660.
 
-Industrial de Abastos contará con servicio de refrigeración destinada preferentemente para los productos de la matanza que no se hayan vendido y también para el depósito y guarda de otros productos refrigerables.
+Los productos cárnicos una vez entregados a sus propietarios no podrán ser reingresados a las cámaras frigoríficas del rastro.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+ÁREA DE EXHIBICIÓN Y COMERCIALIZACIÓN
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1661.
 
-El alquiler de locales o de espacios de refrigeración, lo mismo que el sistema de funcionamiento de éste servicio, serán fijados por la administración, de acuerdo con la inversión y gasto del funcionamiento del mismo.
+Dentro de las instalaciones del Rastro Municipal operará un área de exhibición y comercialización de los productos cárnicos en él generados, sus características serán las estipuladas en la normatividad aplicable a un rastro Tipo Inspección Federal.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1662.
 
-La Administración no será responsable de los daños o perjuicios que sufran las canales en el rastro, respecto a los productos que abandonen o dejen indefinidamente en el departamento de refrigeración, o en cualquier otra dependencia.
+Los introductores o usuarios del rastro, podrán, previo pago de las cuotas establecidas en la Ley de Ingresos del Municipio de Puebla, solicitar al Ayuntamiento o al concesionario, autorización para hacer uso de las instalaciones destinadas a la exhibición y comercialización de los productos cárnicos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DEL SERVICIO DE TRANSPORTE DEL PRODUCTO CÁRNICO Y SUS DERIVADOS
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1663.
 
-Por ningún concepto se permitirá la entrada y conservación en las cámaras frigoríficas de carnes de animales enfermos, cuestión que calificará el médico veterinario y quien determinará si deben enviarse al horno crematorio.
+El transporte de productos cárnicos del Rastro Municipal será brindado por el Ayuntamiento o el concesionario, observándose en ambos casos, los requisitos higiénico-sanitarios dispuestos en la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1664.
 
-El personal del servicio de refrigeración recibirá y entregará las carnes en el vestíbulo de éste, quedando autorizado el administrador para fijar el horario correspondiente al recibo y entrega de las mismas, de acuerdo con las necesidades existentes, en la inteligencia de que, a este departamento sólo tendrá acceso dicho personal, inspección sanitaria y las personas autorizadas expresamente por el propio administrador.
+Los particulares, previo pago de las cuotas que determina la Ley de Ingresos del Municipio de Puebla, podrán obtener autorización del Ayuntamiento para transportar productos cárnicos en el Municipio.
 
-DEL ANFITEATRO, HORNO CREMATORIO O FOSA DE INCINERACIÓN Y PAILAS
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1665.
 
-En el anfiteatro del rastro se efectuarán:
+Los productos cárnicos que se transporten en el Municipio, deberán estar amparados con la documentación comprobatoria de la sanidad y su legal procedencia que expidan las autoridades competentes del lugar de origen y certificado con los sellos sanitarios del rastro al que pertenecen, el cual podrá ser inspeccionado en todo momento por las Autoridades Municipales.
 
-I. El sacrificio evisceración e inspección sanitaria de los animales que están o aparezcan enfermos, ya procedan de los corrales de Industrial de Abastos Puebla o de fuera de ellos;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-II. El sacrificio, evisceración e inspección sanitaria de las vacas de establo que se envían al rastro para su matanza y venta de productos; y
+Artículo 1665 bis.- El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la Autoridad Municipal y sometido a inspección sanitaria; de ser apto para consumo humano se destinará a un establecimiento de Beneficencia Pública.
 
-III. La evisceración o inspección sanitaria de los animales muertos, cualquiera que sea su procedencia.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1666.
 
-El anfiteatro de Industrial de Abastos Puebla, estará abierto de las 8:00 horas a las 12:00 horas diariamente para recibir, sacrificar, eviscerar e inspeccionar los animales destinados al mismo.
+Si el servicio se presta en vehículos que no cumplan con los requisitos higienico-sanitarios dispuestos en la normatividad aplicable, los inspectores municipales decomisarán el producto cárnico y subproductos de origen animal, sin perjuicio de imponer las demás sanciones que procedan.
 
-Sólo por orden estricta del administrador serán admitidos en el anfiteatro los animales que se envíen a éste, expresándose su especie, pertenencia y procedencia.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LOS USUARIOS DEL RASTRO
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1667.
 
-A pesar de que las carnes de los animales fuesen declaradas por el veterinario impropias para el consumo, la administración no devolverá los derechos de degüello percibidos por el servicio prestado.
+Son introductores o usuarios las personas físicas o morales que con autorización del Ayuntamiento, o del concesionario, introduzcan ganado mayor o menor en pie al Rastro Municipal para su matanza.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1668.
 
-Las carnes y despojos impropios para el consumo, previa opinión del veterinario serán destruidas en el horno crematorio o transformados en las pailas bajo la vigilancia del propio veterinario y del personal de Industrial de Abastos Puebla, considerándose como esquilmos los productos industriales que resulten.
+Toda persona podrá solicitar los servicios del Rastro Municipal, sin más requisitos que los establecidos en este Capítulo y normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1669.
 
-Sólo se dará curso a las reclamaciones formuladas por los propietarios de los animales y carnes a que se refiere este capítulo, si depositan en la caja de la administración el importe de los servicios extraordinarios especiales que fije esta, depósito que les será devuelto, si resultan procedentes tales reclamaciones.
+Son obligaciones de los introductores o usuarios de los servicios del Rastro Municipal:
+
+I.- Exhibir la documentación que ampare la sanidad y legítima propiedad del ganado mayor o menor en pie;
+
+II.- Dar cuenta al rastro del ganado mayor o menor en pie accidentado o que haya mostrado signos de enfermedad durante su transporte, a efecto de que se practique el reconocimiento veterinario respectivo y se determine lo conducente;
+
+III.- No introducir al rastro ganado mayor o menor; muerto, maltratado o con signos de inanición producida por hambre o enfermedad crónica;
+
+IV.- Reparar o pagar inmediatamente los daños, desperfectos o deterioros que causen sus animales a las instalaciones del rastro; y
+
+V.- Cumplir y observar las disposiciones que marca el presente Capítulo y normatividad aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1670.
 
-Las pieles de los animales incinerados serán entregados a los propietarios de éstos, mediante resolución del médico veterinario y previo pago de los derechos de degüello e importe de los servicios especiales que se hubieran prestado y las de los que estando sanos se sacrifican.
+Se prohíbe a los introductores o usuarios dentro de las instalaciones del rastro:
+
+I.- Portar armas de fuego;
+
+II.- Presentarse en estado de ebriedad, introducir bebidas alcohólicas o substancias psicotrópicas;
+
+III.- Insultar al personal;
+
+IV.- Introducirse o intervenir en el manejo de instalaciones o equipo;
+
+V.- Entorpecer cualquier actividad en las operaciones del rastro;
+
+VI.- Sacar del rastro los productos cárnicos y subproductos sin la debida autorización;
+
+VII.- Alterar o mutilar documentos oficiales u otro tipo de documentos que amparen la propiedad o legal procedencia del ganado mayor o menor en pie, del producto cárnico y sus derivados;
+
+VIII.- Comercializar productos cárnicos no provenientes del Rastro Municipal;
+
+IX.- Incumplir con el manejo higiénico-sanitario del producto cárnico;
+
+X.- Utilizar indebidamente las instalaciones del área de exhibición y comercialización;
+
+XI.- Abandonar productos cárnicos en las instalaciones del rastro o en el mercado de carnes; y
+
+XII.- Infringir las disposiciones que en la materia determine el Ayuntamiento, en su caso, el concesionario.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1671.
 
-En el horno crematorio o fosa de incineración serán destruidos, por incineración, todos los productos de la matanza que el veterinario considere impropios para el consumo y nocivos para la salud pública.
+Las sanciones administrativas que podrá imponer la Autoridad Municipal, son:
 
-DE LOS ESQUILMOS DE LA MATANZA
+I.- Multa;
+
+II.- Doble Multa;
+
+III.- Clausura;
+
+IV.- Revocación de permisos, licencias y autorizaciones; y
+
+V.- Decomiso.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1671 bis.- Son infracciones administrativas:
+
+I.- La falta del sello sanitario y/o documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos en canales, en piezas o en partes que se comercialicen en el Municipio, ya sean, nacionales o del extranjero; en cuyo caso, se impondrá multa de treinta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso;
+
+II.- Alterar documentos oficiales: permisos, licencias y actas de visita; en cuyo caso, se impondrá multa de treinta a quinientos días de salario mínimo general, vigente en la ciudad de Puebla;
+
+III.- No cumplir con las normas de higiene en las instalaciones de establecimientos o centros comerciales, que procesen, industrialicen y expendan el producto cárnico; en cuyo caso, se impondrá multa de cincuenta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, se procederá a la clausura;
+
+IV.- Sacrificar ganado mayor o menor fuera de las instalaciones del Rastro Municipal, sin autorización del Ayuntamiento; en cuyo caso, se impondrá multa de cincuenta a mil días de salario mínimo general, vigente en la ciudad de Puebla; además de la clausura;
+
+V.- Introducir, sacrificar, refrigerar, transportar, comercializar productos cárnicos contaminados que pongan en riesgo la salud de la población en el Municipio; en cuyo caso, se impondrá multa de cien a mil días de salario mínimo general, vigente en la ciudad de Puebla; además del decomiso y/o revocación de permisos, licencias y autorizaciones;
+
+VI.- Omitir la entrega de la licencia de funcionamiento cuando se los requiera la Autoridad Municipal; en este caso, se impondrá multa de treinta a mil día (sic) de salario mínimo general, vigente en la ciudad de Puebla; además de la revocación de permisos, licencias y autorizaciones;
+
+VII.- Falta de la documentación comprobatoria de la sanidad y legal procedencia del ganado mayor o menor en pie, que entra al rastro; en este caso, se impondrá multa de treinta a quinientos días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso;
+
+VIII.- Omitir el informe al rastro del ganado mayor o menor en pie accidentado o que haya mostrado signos de enfermedad durante su transporte; en este caso, se impondrá multa de cincuenta a mil días de salario mínimo general, vigente en la ciudad de Puebla; en su caso, decomiso; y
+
+IX.- Las demás violaciones a lo establecido en el presente Capítulo; en cuyo caso, se impondrá multa de treinta a mil quinientos días de salario mínimo general, vigente en la ciudad de Puebla.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1671 ter.- En caso de reincidencia se impondrá multa por el doble de las cantidades señaladas en este Capítulo.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1672.
 
-Los esquilmos y desperdicios de la matanza corresponden en propiedad al H. Ayuntamiento.
+Para la imposición de las sanciones administrativas; la autoridad tomará en cuenta la gravedad de la infracción, la reincidencia, los daños y perjuicios causados; los antecedentes, circunstancias personales y situación socioeconómica del infractor.
 
-Se entiende por esquilmos, la sangre, las cerdas, las pezuñas, el hueso calcinado, las hieles, el estiércol y cuantas materias residuales resulten del sacrificio de los animales,
+Las sanciones de referencia se impondrán, sin perjuicio de la responsabilidad administrativa o penal de la competencia de autoridad diversa.
 
-Se entiende por desperdicios, las basuras y substancias que se encuentren en el rastro y no sean aprovechados por los dueños.
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1672 bis.- Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1673.
 
-La administración del rastro hará (sic) ingresará mensualmente a la Tesorería Municipal, el producto de la venta de los esquilmos y los desperdicios en estado natural o ya transformados, rindiendo a su vez, un informe detallado del manejo de esos bienes a la Presidencia Municipal.
+La administración del rastro podrá negar la utilización de los servicios del Rastro Municipal, cuando los introductores o usuarios no cumplan con lo dispuesto en los artículos 1634, 1667, 1668 1669 y 1670 del presente Capítulo.
 
-DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
+
+DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1674.
 
-Las infracciones al presente Capítulo que no tengan sanción especialmente señalada, serán castigadas administrativamente por la Presidencia Municipal en la forma siguiente:
+En términos del artículo 252 de la Ley Orgánica Municipal; dependiendo de la autoridad y de la naturaleza del acto que emite, procederá el recurso administrativo de inconformidad.
 
-I. Tratándose de personal administrativo, con suspensión de empleo hasta por 10 días, según la gravedad de la falta, o destitución de empleo, en caso de reincidencia;
-
-II. A los concesionarios de Servicio Públicos Municipales que infrinjan las disposiciones de éste Capítulo se les sancionará con:
-
-a).Multa de diez a cien días de salario mínimo vigente en el Municipio, lo cual se duplicará en caso de reincidencia.
-
-b).Indemnización al H. Ayuntamiento, de los daños y perjuicios, independientemente de los demás sanciones que se causen.
-
-c).En el mismo caso del artículo anterior, si la infracción es grave, con la revocación de la concesión o autorización para prestar el servicio de que se trate, además si el hecho u omisión implica la comisión de un delito, los responsables serán consignados ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1675.
 
-Contra los actos jurídicos emanados de Industrial de Abastos, procede el recurso de inconformidad, señalado en la Ley Orgánica Municipal del Estado de Puebla.
+Contra los actos emitidos por las Autoridades Fiscales encargadas de la aplicación del presente Capítulo, procederá el recurso administrativo de revisión previsto en el Código Fiscal y Presupuestario del Municipio de Puebla y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+
+Artículo 1675 bis.- Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de los contenidos en los artículos 1627 fracción IV y 1628 fracción V, del presente ordenamiento procede el recurso de inconformidad, el que se substanciará en términos de los dispuesto en la Ley Orgánica Municipal.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -26143,10 +26475,6 @@ Gran Peso Sin Límite alguno.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
-artículo 2190.- Si un boxeador se excede del peso de la división en que se haya contratado incluyendo los quinientos gramos de tolerancia a que se refiere el Artículo 2189 Ter del presente Capítulo y la Comisión, autorizará la pelea por no haber en el peso una diferencia mayor que la correspondiente a la división de que se trata, estará obligado a pagar a su adversario una indemnización equivalente al 25% de los honorarios que vaya a percibir por la pelea.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
 ###### Artículo 2190.
 
 Si un boxeador se excede del peso de la división en que se haya contratado incluyendo los quinientos gramos de tolerancia a que se refiere el artículo 2189 Ter del presente Capítulo y la Comisión, autorizará la pelea por no haber en el peso una diferencia mayor que la correspondiente a la división de que se trata, estará obligado a pagar a su adversario una indemnización equivalente al 25% de los honorarios que vaya a percibir por la pelea.
@@ -26699,7 +27027,7 @@ Si el retador a un título es quien se encuentre excedido de peso, el encuentro 
 
 ###### Artículo 2226 Bis.
 
-En caso de que el Campeón hubiere perdido el título en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
+En caso de que el Campeón hubiere perdido el titulo en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -28494,3 +28822,7 @@ P.O. 2 DE MARZO DE 2007.
 PRIMERO.- Las presentes adiciones al Libro Noveno, Capítulo 36 denominado "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA" del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
+
+P.O. 23 DE MAYO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
