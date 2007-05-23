@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2006-12-29"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -275,7 +275,9 @@ XIX. Elaborar y ejecutar los programas de readaptación social de los infractore
 
 XX. Administrar los Centros de Readaptación Social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos.
 
-XXI. Vigilar el establecimiento de instituciones y la aplicación de las normas preventivas tutelares de menores infractores.
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+XXI. Vigilar el establecimiento de instituciones y la aplicación de las medidas de tratamiento, a las personas a quienes se les atribuya la acción u omisión de una conducta antisocial tipificada como delito, por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
 XXII. Organizar y controlar la defensoría de oficio.
 
@@ -1738,6 +1740,12 @@ CUARTO.- Las Secretarías de la Contraloría, de Finanzas y Transporte, proveer�
 QUINTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado del Estado de México y Municipios, así como las correspondientes a los artículos segundo y tercero del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada a este Decreto.
 
 SEXTO.- Por acuerdo de los integrantes de las Comisiones Legislativas, se determinó solicitar a la Junta de Coordinación Política de la "LVI" Legislatura, la creación de una comisión especial que le dé seguimiento al Fideicomiso a que hace referencia el artículo Cuarto del Presente Decreto, así como al Ejecutivo Estatal, para que por conducto de la Secretaría de Finanzas, informe a la legislatura, sobre las modificaciones que, en su caso, se efectúen al Fideicomiso autorizado en el Decreto No 135 publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el 16 de junio del año 2005.
+
+G.G. 23 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
