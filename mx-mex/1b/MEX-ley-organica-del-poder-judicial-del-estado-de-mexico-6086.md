@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2006-08-04"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -47,13 +47,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
 La presente ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 2.
 
-Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar y penal del fuero común, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
-
-Garantiza la supremacía y control de la Constitución Política del Estado y conocer y resolver las controversias y acciones de inconstitucionalidad a nivel local.
+Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal y de justicia para adolescentes, del fuero común, lo mismo que del orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción.
 
 ###### Artículo 3.
 
@@ -65,9 +63,19 @@ II. El Consejo de la Judicatura;
 
 III. Los juzgados de primera instancia;
 
-IV. Los juzgados de cuantía menor; y
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
 
-V. Los servidores públicos de la administración de justicia, en los términos que establecen esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
+IV. Los juzgados de cuantía menor;
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
+
+V. Los Juzgados de Justicia para Adolescentes;
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
+
+VI. Los jueces de ejecución y sentencias y los jueces de ejecución y vigilancia para adolescentes; y
+
+VII. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
 
 ###### Artículo 4.
 
@@ -79,7 +87,9 @@ Son auxiliares del Poder Judicial:
 
 I. Los presidentes, síndicos y delegados municipales;
 
-II. La policía judicial y los cuerpos de seguridad pública estatal o municipales;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+II. La policía ministerial, la Policía Ministerial Especializada en Adolescentes y cuerpos de seguridad pública estatal o municipales;
 
 III. El Director General de Prevención y Readaptación Social y los servidores públicos de esa Dirección;
 
@@ -95,7 +105,7 @@ VIII. Los servidores públicos de carácter técnico de las dependencias del Pod
 
 IX. Los síndicos e interventores de quiebras y de concursos;
 
-X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y
+X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales, en las funciones que les sean asignadas por la ley; y (sic)
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -113,9 +123,11 @@ Los auxiliares del Poder Judicial cumplirán los mandamientos de la autoridad ju
 
 Los árbitros conocerán de los asuntos que les encomienden los interesados, conforme a los términos de los compromisos respectivos y observarán en su trámite las formas y restricciones que fijen las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 8.
 
-El Tribunal Superior de Justicia, los juzgados de primera instancia y de cuantía menor, tienen las siguientes obligaciones:
+El Tribunal Superior de Justicia, los juzgados de primera instancia, de cuantía menor, de justicia para adolescentes, de ejecución de sentencias y de ejecución y vigilancia, tienen las siguientes obligaciones:
 
 I. Ejercer la función jurisdiccional de manera pronta, completa, imparcial y gratuita;
 
@@ -133,7 +145,7 @@ VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solici
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales.
+VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales;
 
 IX. Las demás que los ordenamientos legales les impongan.
 
@@ -223,13 +235,17 @@ XVII. Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtap
 
 XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan y Tequixquiac.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 12.
 
-En cada distrito judicial funcionará, por lo menos, un juzgado de primera instancia y los juzgados de cuantía menor que determine el Consejo de la Judicatura.
+En cada distrito judicial funcionará, por lo menos, un juzgado de primera instancia, y los juzgados de cuantía menor que determine el Consejo de la Judicatura. En el caso de los Juzgados de Justicia para Adolescentes y de Ejecución y Vigilancia, se crearán los necesarios que determine el propio Consejo.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 13.
 
-Los juzgados de primera instancia tendrán jurisdicción en el territorio del distrito judicial al que pertenezcan o en la fracción o partido en que se divida, conforme lo determine el pleno del Tribunal Superior de Justicia.
+Los juzgados de primera instancia, tendrán jurisdicción en el territorio del distrito judicial al que pertenezcan o en la fracción o partido en que se divida, conforme lo determine el pleno del Tribunal Superior de Justicia. Los Juzgados de Justicia para Adolescentes y de Ejecución y Vigilancia, la tendrán en la región o distrito que determine el propio Pleno.
 
 ###### Artículo 14.
 
@@ -449,19 +465,11 @@ XIV. Las demás que le confieran las leyes y otras disposiciones legales.
 
 ### CAPITULO CUARTO. De las Salas Colegiadas y Unitarias del Tribunal Superior de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 43.
 
-El Tribunal Superior de Justicia ejercerá sus funciones en salas: constitucional, colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, la Sala Constitucional conocerá de los asuntos de esta índole; las Salas Civiles, conocerán de los asuntos civiles y mercantiles; salas penales, conocerán de los asuntos de este ramo; y salas familiares, de los asuntos de esta materia.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
-
-El Consejo de la Judicatura podrá, por necesidades del servicio, determinar que las salas regionales conozcan indistintamente de diversas materias.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
-
-Las salas colegiadas se integrarán por tres magistrados cada una y las unitarias por un solo magistrado, teniendo un número progresivo.
+El Tribunal Superior de Justicia ejercerá sus funciones en salas: constitucional, colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, la Sala Constitucional conocerá de los asuntos de esta índole; las Salas Civiles, conocerán de los asuntos civiles y mercantiles; las salas penales, conocerán de los asuntos de este ramo; la sala especializada de adolescentes conocerán de los asuntos de esta materia; y las salas familiares, de los asuntos de esta materia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -509,17 +517,21 @@ IV. De los demás asuntos que les confieran esta ley, el reglamento interior del
 
 Artículo 44 bis-1.- Corresponde a la Sala Constitucional, conocer y resolver de las controversias y acciones de inconstitucionalidad, previstas en el artículo 88 Bis de la Constitución Política del Estado libre y Soberano de México.
 
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Artículo 44 bis-2.- Corresponde a la Sala Especializada de Adolescentes conocer y resolver de los recursos a los procedimientos previstos en la Ley de Justicia para Adolescentes del Estado de México.
+
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 45.
 
 Cada sala colegiada elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros un Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 46.
 
-Son atribuciones de los presidentes de sala colegiada y de los magistrados de la sala unitaria:
+Son atribuciones de los presidentes de las salas colegiadas, de los magistrados de las salas unitarias, y de la Sala Especializada para Adolescentes:
 
 I. Realizar los trámites que procedan en los asuntos de la competencia de la sala;
 
@@ -747,15 +759,19 @@ XIII. Las demás que le otorguen las leyes.
 
 ### CAPITULO SEXTO. De los Juzgados de Primera Instancia
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 65.
 
-En cada distrito judicial habrá el número de juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales y de lo familiar que correspondan a su jurisdicción.
+En cada distrito judicial habrá el número de juzgados de primera instancia que el Consejo de Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales y de lo familiar que correspondan a su jurisdicción. Los de justicia para adolescentes tendrán competencia en la región o distrito en que ejerzan su jurisdicción y conocerán de los asuntos de esa materia.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 66.
 
-Los Jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales, previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+Los jueces de primera instancia y los jueces de adolescentes durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales; previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demérito.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
 
 Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura tomará además en consideración, los siguientes elementos:
 
@@ -773,13 +789,17 @@ V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 Si por cualquier motivo superveniente el nombramiento de un juez quedare sin efecto, el Consejo de la Judicatura acordará lo conducente. En este caso, los actos en que hubiere intervenido serán legalmente válidos.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 68.
 
-Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados menos la edad, que bastará que sea de 28 años, cinco de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
+Los jueces de primera instancia, y los jueces de adolescentes deberán reunir los mismos requisitos que los magistrados, menos la edad, que bastará que sea de 28 años, cinco de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 69.
 
-Los juzgados de primera instancia contarán con el personal siguiente:
+Los juzgados de primera instancia y los de justicia para adolescentes contarán con el personal siguiente:
 
 I. Un juez; y
 
@@ -843,9 +863,15 @@ II. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisi
 
 III. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Artículo 73 bis.- Los jueces de adolescentes serán competentes para conocer de los asuntos que establece la ley de la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 74.
 
-Son obligaciones de los jueces de primera instancia:
+Son obligaciones de los jueces de primera instancia y de los jueces de adolescentes:
 
 I. Cumplir y hacer cumplir sin demora y con apego a la ley, los acuerdos y determinaciones que el pleno del Tribunal Superior de Justicia, las salas, el Consejo de la Judicatura y ellos emitan;
 
@@ -871,13 +897,17 @@ XI. Asistir a los cursos de actualización y cumplir con los programas del Insti
 
 XII. Conocer de los demás asuntos que les atribuyan las leyes.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 75.
 
-En los casos de recusación o excusa de los jueces de primera instancia, una vez admitida, se remitirá el proceso al siguiente juzgado, en orden progresivo y agotado éste, en orden regresivo. Cuando se recusen o excusen todos los jueces de un mismo distrito, se remitirá el proceso al del distrito más cercano.
+En los casos de recusación o excusa de los jueces de primera instancia, una vez admitida, se remitirá el proceso al siguiente juzgado, en orden progresivo y agotado éste, en orden regresivo. Cuando se recusen o excusen todos los jueces de un mismo distrito, se remitirá el proceso al del distrito más cercano; respecto a la sustanciación de las cuestiones y los conflictos de competencia, en materia de justicia para adolescentes, se estará a lo que dispone la Ley de la materia.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 76.
 
-Los jueces de primera instancia actuarán en días y horas hábiles. En días y horas inhábiles, lo harán en aquellos asuntos que así lo ameriten y en los que señale la ley.
+Los jueces actuarán en días y horas hábiles. En días y horas inhábiles, lo harán en aquellos asuntos que así lo ameriten y en los que señale la ley.
 
 ###### Artículo 77.
 
@@ -1381,7 +1411,9 @@ La oficina estará a cargo de un jefe, quien deberá tener conocimientos en arch
 
 Se depositarán en el Archivo Judicial:
 
-I. Todos los expedientes del orden civil, mercantil, familiar y penal concluidos por los tribunales del Estado;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+I. Todos los expedientes del orden civil, mercantil, familiar, penal y de justicia para adolescentes concluidos por los tribunales del Estado;
 
 II. Los expedientes en materia civil, mercantil o familiar en los que se haya dejado de promover por más de un año; y
 
@@ -1825,7 +1857,7 @@ La organización y funcionamiento de la dirección será determinada por el regl
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 170.
 
@@ -1971,7 +2003,7 @@ La sujeción a la mediación y conciliación son voluntarias.
 
 ###### Artículo 187.
 
-Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario al juez ejecutor de sentencias, en el cumplimiento de sus determinaciones en materia de ejecución de penas privativas y restrictivas de la libertad.
+Todos los cuerpos de seguridad pública del Estado y municipios, están obligados a prestar el auxilio y el apoyo necesario al juez ejecutor de sentencias y al de ejecución y vigilancia de justicia para adolescentes en el cumplimiento de sus determinaciones en materia de ejecución de penas privativas y restrictivas de la libertad.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2027,27 +2059,43 @@ XI. Visitar y entrevistar a los internos con sentencia ejecutoria, que sean susc
 
 XII. Las demás que señalen otras disposiciones legales.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Artículo 189 bis.- Los jueces de ejecución y vigilancia, tendrán las atribuciones que establece la ley de la materia.
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 190.
 
-El Consejo de la Judicatura nombrará a los Jueces Ejecutores de Sentencias necesarios para determinar sobre las medidas de preliberación, remisión parcial de la pena y libertad condicional; y el personal necesario para lograr su cometido.
+El Consejo de la Judicatura nombrará a los Jueces Ejecutores de Sentencias necesarios para determinar sobre las medidas de preliberación, remisión parcial de la pena y libertad condicional; y el personal necesario para lograr su cometido y respecto del Juez de Ejecución y Vigilancia de Justicia para Adolescentes estará a lo dispuesto en la Ley de Justicia para Adolescentes.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 191.
 
-Para ser Juez Ejecutor de Sentencias, se requiere:
+Para ser Juez Ejecutor de Sentencias y de Ejecución y Vigilancia de Justicia para Adolescentes se requiere:
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 I. Ser ciudadano del Estado de México, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva de tres años;
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 II. Tener como mínimo 28 años de edad;
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 III. Haber servido en el Poder Judicial del Estado o tener méritos profesionales y académicos reconocidos;
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 IV. Poseer título profesional de licenciado en derecho expedido por institución de educación superior legalmente facultada para ello, con una antigüedad mínima de 5 años al día de la designación y de ejercicio profesional;
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 VI. No haber desempeñado el cargo de Secretario de Despacho, Procurador General de Justicia del Estado, Senador, Diputado Federal o Local o Presidente Municipal, a menos que se separe de su cargo un año antes del día de su designación.
 
@@ -2380,3 +2428,9 @@ Publíquese en presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
