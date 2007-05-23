@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-defensoria-de-oficio-del-estado-de-mexico-47857"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-02"
-last_updated: "2006-01-02"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
 
 Ley publicada en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el lunes 2 de enero de 2006.
 
@@ -49,9 +49,11 @@ La presente Ley tiene por objeto regular la organización, atribuciones y funcio
 
 Para los efectos de esta Ley se entiende por Instituto al Instituto de la Defensoría de Oficio.
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 3.
 
-El Instituto es un órgano desconcentrado de la Secretaría General de Gobierno con autonomía técnica y operativa, cuyo objetivo es proporcionar obligatoria y gratuitamente defensa jurídica en materia penal, civil y familiar en cualquier etapa del procedimiento, a las personas que lo soliciten.
+El Instituto es un órgano desconcentrado de la Secretaría General de Gobierno con autonomía técnica y operativa, cuyo objetivo es proporcionar obligatoria y gratuitamente defensa jurídica en materia penal, civil, familiar y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten.
 
 ###### Artículo 4.
 
@@ -61,13 +63,17 @@ El Instituto estará a cargo de un Director General, nombrado por el Secretario 
 
 El Instituto tiene por objeto:
 
-I. Proporcionar obligatoriamente y gratuitamente defensa en materia penal, en cualquier etapa del procedimiento, a las personas que lo soliciten y cuando haya designación del Ministerio Público o del órgano jurisdiccional;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+I. Proporcionar obligatoriamente y gratuitamente defensa en materia penal y de justicia para adolescentes, en cualquier etapa del procedimiento, a las personas que lo soliciten y cuando haya designación del Ministerio Público o del órgano jurisdiccional competente;
 
 II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio. En el caso de la parte actora, sólo será patrocinada en materia familiar y de jurisdicción voluntaria, no se considerará como tal en el caso de la reconvención hecha en contestación de demanda;
 
 III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siempre y cuando el demandado sea persona física y tenga ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio, no comerciante y el interés pactado sea superior al usual en el mercado o al bancario autorizado;
 
-IV. Gestionar en los asuntos en los que intervengan menores e incapaces representándolos en cualquier materia, su tratamiento y, en su caso, su remisión a las autoridades y establecimientos que correspondan;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+IV. Gestionar en los asuntos en los que intervengan adolescentes e incapaces representándolos en cualquier materia, su tratamiento y, en su caso, su remisión a las autoridades competentes y establecimientos que correspondan;
 
 V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de los indígenas, así como asesorarlos en todos los casos en que lo soliciten sin importar la materia de que se trate;
 
@@ -105,17 +111,29 @@ Serán atribuciones específicas del Instituto las siguientes:
 
 I. Atender los asuntos que le sean encomendados, dentro del territorio del Estado;
 
-II. Atender la defensa en términos de ley desde el momento en que el inculpado tiene contacto con la autoridad investigadora, siempre que aquel no cuente con abogado particular;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+II. Atender la defensa en términos de ley desde el momento en que el inculpado tiene contacto con la autoridad investigadora, ya sea que se trate de adolescentes o adultos siempre que estos no cuenten con abogado particular.
+
+Para el caso de adolescentes estos contarán con la asesoría de un defensor de oficio especializado en la defensa de estas personas;
 
 III. Tutelar los intereses procesales de sus defendidos y patrocinados o representados;
 
-IV. Estar presente e intervenir en las diligencias de averiguación previa y en los procesos en defensa del inculpado, cuando éste lo solicite o cuando el Ministerio Público o el Juez le designen al Defensor de Oficio;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+IV. Estar presente e intervenir en las diligencias de averiguación previa, en la investigación y en los procesos en defensa del inculpado, cuando éste lo solicite o cuando el Ministerio Público o el Juez le designen al Defensor de Oficio;
+
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
+
+IV BIS. Tratándose de adolescentes, intervenir en cualquier fase del procedimiento desde que es puesto a disposición de la autoridad hasta la aplicación de las medidas, conforme a la Ley de Justicia para Adolescentes del Estado de México;
 
 V. Tramitar ante el Ministerio Público, el Juez o la Sala correspondientes, la libertad provisional bajo caución de los inculpados, en los casos en que proceda;
 
 VI. Hacer valer las causas de inimputabilidad o excluyentes de responsabilidad en favor de los inculpados cuya defensa esté a su cargo, así como la prescripción de la acción penal;
 
-VII. Denunciar en su caso, las violaciones a los derechos humanos que se detecten en la averiguación previa, en los tribunales judiciales y centros de reclusión;
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
+VII. Denunciar en su caso, las violaciones a los derechos humanos que se detecten en la averiguación previa o en la investigación en tratándose de adolescentes, en los tribunales judiciales, centros de reclusión e instituciones de tratamiento en internamiento para adolescentes;
 
 VIII. Intervenir en el patrocinio de los particulares que soliciten el servicio en los juicios civiles, familiares y mercantiles, y en jurisdicción voluntaria;
 
@@ -125,7 +143,9 @@ X. Promover oportunamente el ofrecimiento y desahogo de las pruebas necesarias, 
 
 XI. Tramitar los recursos de apelación interpuestos en contra de resoluciones dictadas en materia penal, civil, familiar y mercantil, expresando oportunamente los agravios y alegatos que procedan;
 
-XII. Acudir al llamado de los menores e incapaces o de quienes ejerzan legalmente la patria potestad de éstos que requieran de sus servicios y brindarles la asesoría correspondiente o representación, aceptar el cargo de defensor y comparecer a todas las diligencias;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+XII. Acudir al llamado de los adolescentes e incapaces o de quienes ejerzan legalmente la patria potestad de éstos, que requieran de sus servicios y brindarles la asesoría correspondiente o representación, aceptar el cargo de defensor y comparecer a todas las diligencias;
 
 XIII. Acudir al llamado de las personas que por su extrema pobreza, ignorancia o indigencia no tengan recursos para pagar un abogado particular, asesorándolos y patrocinándolos o representándolos en cualquier materia; y
 
@@ -149,6 +169,10 @@ IV. Administrar, dirigir, organizar, planear, controlar y evaluar los servicios 
 
 V. Asignar el número de defensores que se requieren en las agencias del Ministerio Público, juzgados y Salas del Tribunal Superior de Justicia;
 
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Asimismo asignar el número de defensores de oficio especializados que se requieran en las agencias del Ministerio Público de adolescentes, juzgados de adolescentes y Salas especializadas de adolescentes;
+
 VI. Acordar la circunscripción y organización de las coordinaciones regionales;
 
 VII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles y en materia de amparo, así como las excusas de los defensores de oficio;
@@ -171,11 +195,15 @@ XV. Convocar a las sesiones ordinarias y extraordinarias del Consejo Técnico; y
 
 XVI. Las demás que le señalan las disposiciones legales aplicables y el Consejo Técnico.
 
-### CAPITULO III. DEL DEFENSOR DE OFICIO
+> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2007)</small>
+
+### CAPITULO III. DEL DEFENSOR DE OFICIO Y DEL DEFENSOR DE OFICIO ESPECIALIZADO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 13.
 
-Serán atribuciones y obligaciones de los defensores de oficio, además de las que se señalen en otras disposiciones aplicables, las siguientes:
+Serán atribuciones y obligaciones de los defensores de oficio y de los defensores de oficio especializados, además de las que se señalen en otras disposiciones aplicables, las siguientes:
 
 I. Asumir la defensa del inculpado cuando éste lo nombre o lo designe el Ministerio Público o el juez de la causa y comparecer a todos los actos de averiguación previa o del proceso en que se requiera su intervención;
 
@@ -183,7 +211,9 @@ II. Asumir la representación o patrocinio de los asuntos del orden civil, merca
 
 III. Gestionar la libertad de sus defendidos procurando que de inmediato se le fijen los montos de las fianzas en póliza, que las mismas sean asequibles, así como promover las de interés social, previo estudio socioeconómico;
 
-IV. Promover en todas las etapas procedimentales de los asuntos del orden penal, civil, mercantil o familiar que les hayan sido encomendados, las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y en su caso, el juicio de amparo;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+IV. Promover en todas las etapas del procedimiento los asuntos del orden penal, civil, mercantil, familiar y justicia para adolescentes, que les hayan sido encomendados, las pruebas necesarias, atendiendo a su desahogo, así como la interposición de los recursos e incidentes que procedan y, en su caso, el juicio de amparo;
 
 V. Guardar el secreto profesional en el desempeño de sus funciones; y
 
@@ -193,17 +223,25 @@ VI. Las demás que señale el Reglamento del Instituto y otras disposiciones leg
 
 Para el ejercicio de su encargo de Defensor de Oficio se auxiliará de los peritos, trabajadores sociales, abogados auxiliares y demás servidores públicos que para tal efecto determine el Consejo Técnico con aprobación de la Secretaría de Finanzas, los cuales tendrán las atribuciones y obligaciones que les señale esta Ley y las demás disposiciones aplicables.
 
-### CAPITULO IV. DE LAS FIANZAS DE INTERES SOCIAL
+> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2007)</small>
+
+### CAPITULO IV. DE LAS CAUCIONES Y FIANZAS DE INTERES SOCIAL
+
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 15.
 
-El Instituto podrá, con cargo a un fondo público, apoyar a los inculpados de escasos recursos con el otorgamiento de fianzas de interés social.
+El Instituto podrá, con cargo a un fondo público, apoyar a los inculpados de escasos recursos con el otorgamiento de cauciones para el caso de adolescentes y fianzas de interés social para los adultos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 16.
 
-Para que puedan (sic) ser tramitada una fianza de interés social es necesario que el Defensor de Oficio verifique que el inculpado satisface los siguientes requisitos:
+Para que puedan ser tramitada una caución o una fianza de interés social es necesario que el Defensor de Oficio verifique que el inculpado satisface los siguientes requisitos:
 
-I. Que tenga designado un Defensor de Oficio;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+I. Que tenga designado un Defensor de Oficio o Defensor de Oficio Especializado;
 
 II. Que tenga ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio;
 
@@ -240,3 +278,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 23 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
