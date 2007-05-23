@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-comision-estatal-de-los-derechos-humanos-antes-11881"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-26"
-last_updated: "2003-07-30"
+last_updated: "2007-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de septiembre de 1992.
 
@@ -69,11 +69,13 @@ EL PERSONAL DE LA COMISION DEBERA MANEJAR DE MANERA CONFIDENCIAL LA INFORMACION 
 
 ### CAPITULO I. INTEGRACION Y FACULTADES DE LA COMISION ESTATAL
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 5o.
 
-LA COMISION ESTATAL SE INTEGRARA CON UN PRESIDENTE, UNA SECRETARIA, ASI COMO EL NUMERO DE VISITADORES, PERSONAL PROFESIONAL, TECNICO Y ADMINISTRATIVO NECESARIO PARA LA REALIZACION DE SUS FUNCIONES.
+LA COMISION ESTATAL SE INTEGRARA CON UN PRESIDENTE, UNA SECRETARIA, ASI COMO EL NUMERO DE VISITADORES, PERSONAL PROFESIONAL, TECNICO Y ADMINISTRATIVO NECESARIO PARA LA REALIZACION DE SUS FUNCIONES. UNO DE LOS VISITADORES, PREFERENTEMENTE, DEBERA SER DE ORIGEN INDIGENA DE ALGUNA DE LAS ETNIAS DEL ESTADO.
 
-LA COMISION ESTATAL PARA EL MEJOR DESEMPEÑO DE SUS FUNCIONES CONTARA CON UN CONSEJO.
+LA COMISION ESTATAL, PARA EL MEJOR DESEMPEÑO DE SUS FUNCIONES, CONTARA CON UN CONSEJO.
 
 ###### ARTICULO 6o.
 
@@ -564,3 +566,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE JULIO DE 2003.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
