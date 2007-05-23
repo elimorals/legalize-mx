@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-25906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-23"
-last_updated: "2006-09-26"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de agosto del 2002.
 
@@ -81,7 +81,9 @@ Son facultades y obligaciones de la Procuraduría:
 
 a) Son facultades en ejercicio de Ministerio Público:
 
-I. Coordinar su actuación con las autoridades federales o de otras entidades federativas, en la investigación de los delitos;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+I. Coordinar su actuación con las autoridades federales o de otras entidades federativas, en la investigación de los delitos, así como de las conductas antisociales imputadas a los adolescentes cuya edad esté comprendida entre 12 años cumplidos y menores de 18 años de edad;
 
 II. Intervenir en los juicios de naturaleza diversa a la materia penal, en la forma y términos que señalen las disposiciones legales correspondientes;
 
@@ -111,7 +113,9 @@ IX. Solicitar al órgano jurisdiccional, las órdenes de cateo, las medidas prec
 
 X. Resolver el no ejercicio y desistimiento de la acción penal en los términos establecidos por el Código de Procedimientos Penales para el Estado de México;
 
-XI. Poner a disposición de la autoridad competente, a los menores de edad a quienes se impute la ejecución de un hecho delictuoso, en los términos de la Ley de Prevención Social y Tratamiento de Menores del Estado de México;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+XI. Poner a disposición de la autoridad competente a los adolescentes a quienes se impute la comisión u omisión de una conducta antisocial tipificada como delito en las leyes penales, en los términos de la Ley de Justicia para Adolescentes del Estado de México;
 
 XII. Poner a los inimputables mayores de edad, a disposición del órgano jurisdiccional, y actuar en los términos establecidos por el Código de Procedimientos Penales para el Estado de México;
 
@@ -167,6 +171,16 @@ XI. Participar en el Sistema Nacional de Seguridad Pública, de conformidad a lo
 
 XII. Las demás que determinen las leyes.
 
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+e) Son obligaciones del Ministerio Público de Adolescentes en materia de justicia para adolescentes:
+
+I. Realizar en cada asunto de su conocimiento, con motivo de la investigación, el examen y persecución de las acciones y omisiones sobre las conductas antisociales imputadas a los adolescentes;
+
+II. Velar en todo momento en los asuntos de su conocimiento por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la Ley de Justicia para Adolescentes del Estado de México;
+
+III. Informar de inmediato al adolescente, a sus familiares, a su defensor su situación jurídica, así como los derechos que le asisten.
+
 ###### Artículo 6.
 
 Para el cumplimiento de sus atribuciones, la Procuraduría se integra con:
@@ -185,7 +199,11 @@ VI. Una Fiscalía de Supervisión y Control;
 
 VII. Agentes del Ministerio Público, Secretarios del Ministerio Público, Policías Ministeriales, y Peritos;
 
-VIII. Coordinadores Regionales; y
+> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2007)</small>
+
+VII bis. Agentes del Ministerio Público, Secretario del Ministerio Público, Policías Ministeriales en materia de justicia para adolescentes;
+
+VIII. Coordinadores Regionales; y (sic)
 
 IX. Direcciones Generales de:
 
@@ -336,6 +354,10 @@ Quedan exceptuadas de la delegación de atribuciones, aquellas que por disposici
 ###### Artículo 10.
 
 El no ejercicio de la acción penal, la formulación de conclusiones no acusatorias, así como las consultas que Agentes del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde, respecto de la omisión de formular conclusiones en los términos de ley, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia, se resolverán por los servidores públicos en los que el Procurador delegue esas funciones y aquellos que faculte el Reglamento.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Tratándose de determinaciones del no ejercicio de la acción para incoar el procedimiento de justicia para adolescentes, se estará a lo dispuesto por la ley de esa materia.
 
 ### CAPITULO CUARTO
 
@@ -505,9 +527,11 @@ I. El Procurador, el Subprocurador General, los Subprocuradores Regionales, los 
 
 II. Los Directores y Subdirectores de Averiguaciones Previas y Control de Procesos, así como los Jefes de Departamento de esas áreas; aquellos servidores públicos a los que expresamente se les confiera por el Procurador dicha calidad y los que se determinen en el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 19.
 
-Para ingresar y permanecer como Agente del Ministerio Público, se requiere:
+Para ingresar y permanecer como Agente del Ministerio Público y/o Agente del Ministerio Público de Adolescentes, se requiere:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
@@ -565,9 +589,15 @@ VIII. Conceder la libertad provisional a los indiciados, en los términos previs
 
 IX. Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias de arraigo, el aseguramiento o embargo precautorio de bienes que resulten imprescindibles para los fines de la averiguación previa, así como, en su caso y oportunidad, para el debido cumplimiento de la sentencia que se dicte;
 
-X. Poner a disposición de la autoridad competente, a los menores de edad a quienes se impute la ejecución de un hecho delictuoso, en los términos de la Ley de Prevención Social y Tratamiento de Menores del Estado de México;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+X. Poner a disposición de la autoridad competente, a los adolescentes a quienes se atribuya la comisión u omisión de una conducta antisocial en los términos de la Ley de Justicia para Adolescentes del Estado de México;
 
 XI. Poner a los inimputables mayores de edad, a disposición del órgano jurisdiccional y actuar en los términos establecidos por el Código de Procedimientos Penales para el Estado de México;
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Poner a los inimputables mayores de edad, a disposición del Juez, y a los adolescentes inimputables a disposición del Juez de Adolescentes, quien actuará en los términos de lo establecido en el capitulo correspondiente de la Ley de Justicia para Adolescentes del Estado de México;
 
 XII. Ejercer la acción penal ante el órgano jurisdiccional competente, cuando exista denuncia o querella, existan datos que acrediten el cuerpo del delito y hagan probable la responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia, en su caso;
 
@@ -583,7 +613,7 @@ XVII. Hacer efectivos los derechos del Estado e intervenir en los juicios que af
 
 XVIII. Verificar el estado material de los bienes asegurados y la información que hubieren proporcionado las autoridades respectivas;
 
-XIX. Solicitar la autorización de intervención de comunicaciones privadas en los términos de la Ley Orgánica del Poder Judicial de la Federación. La solicitud respectiva sólo podrá formularse por el Procurador General de Justicia; y
+XIX. Solicitar la autorización de intervención de comunicaciones privadas en los términos de la Ley Orgánica del Poder Judicial de la Federación. La solicitud respectiva sólo podrá formularse por el Procurador General de Justicia; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -623,7 +653,9 @@ I. Intervenir en todo acto de que deba dejarse constancia en los autos de la ave
 
 II. Hacer constar la hora, el día, mes y año en que se lleva a cabo una diligencia o actuación o se recibe un escrito, dando cuenta de él al Ministerio Público, a más tardar, dentro del término de veinticuatro horas, sin perjuicio de hacerlo de inmediato, cuando se trate de un asunto urgente;
 
-III. Llevar a cabo las actuaciones, ajustándose estrictamente a las formalidades exigidas por el Código de Procedimientos Penales para el Estado de México y, en su caso, a las disposiciones procesales aplicables en materia civil y familiar;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+III. Llevar a cabo las actuaciones ajustándose estrictamente a las formalidades exigidas por el Código de Procedimientos Penales para el Estado de México, la Ley de Justicia para Adolescentes en el Estado de México, y en su caso, a las disposiciones procesales aplicables en materia civil y familiar, así como otras disposiciones legales;
 
 IV. Cotejar las copias o testimonios de constancias que se manden expedir, autorizándolas en unión del Ministerio Público, con su firma y el sello correspondiente;
 
@@ -639,9 +671,11 @@ VIII. Las demás que establezca el Reglamento de esta Ley.
 
 #### SECCION PRIMERA. De la Policía Ministerial
 
+> <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
+
 ###### Artículo 26.
 
-La Policía Ministerial del Estado actuará bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, debiendo auxiliarlo en la investigación de los delitos del orden común.
+La Policía Ministerial del Estado actuará bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y de la Ley de Justicia para Adolescentes del Estado de México, debiendo auxiliarlo en la investigación de los delitos del orden común y tratándose de los adolescentes en la comisión u omisión de la conducta antisocial.
 
 ###### Artículo 27.
 
@@ -692,6 +726,26 @@ VIII. Observar en el desempeño de sus funciones, respeto absoluto a los derecho
 IX. Llevar a cabo el desarrollo de sus funciones exclusivamente en vehículos oficiales debidamente identificados; y
 
 X. Las demás que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
+
+Artículo 28 bis.- Son obligaciones de los Agentes de la Policía Ministerial Especializada para Adolescentes, las siguientes:
+
+I. Cumplir los mandatos del Ministerio Público de Adolescentes;
+
+II. Investigar la comisión u omisión de una conducta antisocial cometida por un adolescente que tenga entre doce años cumplidos y menos de dieciocho años de edad, tipificada como delito por las leyes penales dentro del territorio del Estado, bajo la autoridad y mando directo e inmediato del Ministerio Público de Adolescentes;
+
+III. Ejecutar las órdenes de retención y presentación y otros mandamientos que emita la autoridad judicial;
+
+IV. Ejecutar las órdenes de retención emitidas por el Ministerio Público de Adolescentes, en los términos de la Ley de Justicia para Adolescentes del Estado de México; así como las órdenes de comparecencia y presentación dictadas por la propia autoridad;
+
+V. Colaborar en operativos con otras corporaciones policiales, y otorgarles el apoyo que conforme a derecho proceda y de acuerdo con los convenios que para ese efecto se celebren;
+
+VI. Observar en el desempeño de sus funciones, respeto absoluto a los derechos humanos y los establecidos en la Ley de Justicia para Adolescentes del Estado de México;
+
+VII. Llevar a cabo el desarrollo de sus funciones exclusivamente en vehículos oficiales debidamente identificados; y
+
+VIII. Las demás que establezca el Reglamento de esta ley y otras disposiciones jurídicas aplicables.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -1011,7 +1065,9 @@ I. Vigilar que la Policía Ministerial actúe permanentemente bajo la autoridad 
 
 II. Supervisar la transparencia, objetividad y eficiencia de las diligencias policiales que se practiquen durante la averiguación previa, exclusivamente para los fines de ésta, así como cumplir con las citaciones, notificaciones y presentaciones que le ordenen;
 
-III. Ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial y las órdenes de detención y presentación que, en los casos a que se refiere el párrafo quinto del artículo 16 constitucional, dicte el propio Ministerio Público. Invariablemente se actuará con pleno respeto a las garantías individuales, así como de las normas y medidas que rijan esas actuaciones;
+> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+
+III. Ejecutar las órdenes de aprehensión, y de retención de los adolescentes, los cateos y otros mandamientos que emita la autoridad judicial y las órdenes de detención, retención y presentación que, en los casos a que se refiere el párrafo quinto del artículo 16 constitucional y la Ley de Justicia para Adolescentes del Estado de México, dicte el propio Ministerio Público que corresponda. Invariablemente se actuará con pleno respeto a las garantías individuales de los menores de edad, así como de las normas y medidas que rijan esas actuaciones;
 
 IV. Realizar la planeación estratégica de la Policía Ministerial, así como supervisar y evaluar los resultados de los operativos, a través de la revisión permanente de la información de acciones y hechos que se realicen en cada una de las zonas;
 
@@ -1724,3 +1780,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 23 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
