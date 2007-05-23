@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2006-11-25"
+last_updated: "2007-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE MAYO DE 2007.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -347,9 +347,13 @@ q) A través de su titular, autorizar a servidores públicos para que a su vez a
 
 Las disposiciones reglamentarias determinarán la forma en la que los servidores públicos a que se refiere el presente inciso acreditarán ante las instituciones bancarias, la personalidad con la que se ostenten y el documento administrativo mediante el cual son autorizados por el Secretario de Finanzas.
 
-r) Cubrir oportunamente, los compromisos de pago con los trabajadores y demás acreedores del Gobierno del Estado; y
+r) Cubrir oportunamente, los compromisos de pago con los trabajadores y demás acreedores del Gobierno del Estado; y (sic)
 
 s) Vigilar que los servidores públicos que manejen fondos del Estado caucionen debidamente su manejo;
+
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2007)</small>
+
+t) Ser coordinadora de Sector del Fondo Social para el Desarrollo de Baja California Sur.
 
 II. En materia de administración tributaria:
 
@@ -395,7 +399,15 @@ c) Adoptar medidas administrativas sobre responsabilidades que afecten la Hacien
 
 d) Afectar, previa autorización del Congreso del Estado, como fuente o garantía de pago o ambas, de los financiamientos que reciba el Estado, los derechos o ingresos propios y de los que pueda disponer de conformidad con la legislación aplicable.
 
-IV. Las demás que le señalen las leyes aplicables en la entidad.
+> <small>(ADICIONADA, B.O. 23 DE MAYO DE 2007)</small>
+
+IV.- En materia de Informática:
+
+a) Normar y administrar los servicios de informática de la Administración Pública Estatal;
+
+b) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
+
+V.- Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 23.
 
@@ -831,13 +843,9 @@ g) Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado,
 
 h) Coordinar los programas de conservación, mantenimiento y reparación de los bienes inmuebles del Gobierno del Estado.
 
-III. En materia de Informática:
+III. (DEROGADA, B.O. 23 DE MAYO DE 2007)
 
-a) Normar y administrar los servicios de informática de la Administración Pública;
-
-b) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
-
-V. Las demás que le señalen las leyes aplicables en la entidad.
+IV. Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 31.
 
@@ -1180,3 +1188,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dictará en el ámbito administrativo, las normas para la realización de contratos de servicios de largo plazo que incluirán lineamientos para el análisis costo y beneficio, metodología para la comparación de ofertas; así como las demás disposiciones necesarias para el cumplimiento de lo establecido en este Decreto, las que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur, en un plazo que no exceda de 180 días naturales, contados a partir del día siguiente a que entre en vigor el presente Decreto.
 
 El monto promedio anual de las cantidades que deban cubrirse por concepto de pagos derivados de proyectos para la prestación de servicios de largo plazo, no podrá representar un porcentaje del presupuesto de egresos de manera que afecte gravemente la capacidad de pago del Gobierno del Estado, tanto en la administración presente como en las futuras.
+
+B.O. 23 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, dispondrá de 30 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto, para expedir las reformas y adecuaciones necesarias a los Reglamentos Interiores de la Secretaría de Finanzas, de la Secretaría de Promoción y Desarrollo Económico y de Oficialía Mayor de Gobierno.
+
+###### ARTÍCULO TERCERO.
+
+La Oficialía Mayor de Gobierno, transferirá a la Secretaría de Finanzas las funciones administrativas de la Dirección de Informática, considerando el personal, sin perjuicio de sus derechos laborales adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que tales unidades hayan venido usando para la atención de las funciones que tuvieren encomendadas.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos presupuestales y administrativos a que haya lugar, la Secretaría de Finanzas realizará los ajustes y traspasos correspondientes.
