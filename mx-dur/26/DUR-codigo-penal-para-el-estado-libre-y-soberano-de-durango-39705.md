@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2006-10-05"
+last_updated: "2007-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -3341,6 +3341,8 @@ Este delito se perseguirá por querella, salvo que se trate de un incapaz o meno
 
 ### CAPÍTULO CUARTO. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2007)</small>
+
 ###### ARTÍCULO 392.
 
 Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años y hasta cien días multa.
@@ -3405,55 +3407,39 @@ Se impondrá de tres meses a tres años de prisión y de veinte a doscientos qui
 
 ###### ARTÍCULO 402.
 
-Al que con ánimo de dañar, comunique a una o más personas, la imputación que se hace a otra persona física o moral de un hecho cierto o falso, determinado o indeterminado, que pueda causar o cause a ésta una afectación en su honor, dignidad o reputación, se impondrá de seis meses a tres años de prisión, de cincuenta a trescientos días multa y pago de la reparación del daño.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ###### ARTÍCULO 403.
 
-No se comete el delito de difamación, cuando:
-
-I.- Se manifieste técnicamente un parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Se manifieste un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se actuó en cumplimiento de un deber o por interés público o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a persona con quien se tenga parentesco o amistad, o dándose informaciones que se le hubieren pedido, si no se hiciere con el fin de acusar un descrédito;
-
-III.- Se presente un escrito ante el Ministerio Público o tribunales, o se pronuncie un discurso ante los tribunales, que contengan expresiones difamatorias, relacionadas con el asunto que se ventile, siempre y cuando no se extienda a personas extrañas al litigio ni a hechos no relacionados con el asunto de que se trate; y
-
-IV.- El hecho imputado este declarado cierto por sentencia ejecutoria y el imputado obra por un interés legítimo.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ### CAPÍTULO TERCERO. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 404.
 
-Al que impute falsamente a otro la comisión de un hecho que la Ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es el que lo cometió, se le impondrá de uno a cuatro años de prisión, de cincuenta a quinientos días multa y reparación del daño.
-
-Cuando el delito imputado sea grave la pena será de tres a siete años de prisión.
-
-Si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél, pero en ningún caso será menor a las previstas en este precepto.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ###### ARTÍCULO 405.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se impondrá sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y él erróneamente les haya atribuido ese carácter.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ###### ARTÍCULO 406.
 
-Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia o, en su caso, se suspenderá el procedimiento iniciado por esta última, hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ### CAPÍTULO CUARTO. FRAUDE Y EXACCIÓN FRAUDULENTA
 
 ###### ARTÍCULO 407.
 
-Los delitos de injurias, difamación y calumnia se perseguirán por querella.
+El delito de injurias, se perseguirá por querella.
 
-Cuando la injuria, difamación o la calumnia se refieran a persona ya fallecida, se procederá por querella del cónyuge, concubina o concubinario, ascendientes, descendientes o hermanos.
+Cuando la injuria se refiera a persona ya fallecida, se procederá por querella del cónyuge, concubina u (sic) concubinario, ascendientes, descendientes o hermanos.
 
-Cuando la injuria difamación o la calumnia se hubiese cometido con anterioridad al fallecimiento del ofendido, no procederá la querella de las personas mencionadas, si aquél hubiere permitido la ofensa y pudiendo hacerlo no hubiese presentado la querella, salvo que hubiere prevenido que lo hicieren sus herederos.
+Cuando la injuria se hubiese cometido con anterioridad al fallecimiento del ofendido, no procederá la querella de las personas mencionadas, si aquél hubiere permitido la ofensa y pudiendo hacerlo no hubiese presentado la querella, salvo que hubiere prevenido que lo hicieren sus herederos.
 
 ###### ARTÍCULO 408.
 
-Serán responsables de los delitos cometidos por medio de la imprenta, fotografía, cine, radio, televisión u otro medio de publicidad, y se impondrá la pena que corresponda al delito o delitos cometidos en los términos de este Subtítulo, a los autores de la difusión, escrito o estampa.
-
-Si éstos no fueren conocidos o no estuvieren domiciliados en el Estado, o estuvieren exentos de responsabilidad, serán responsables los directores de la publicación o productores que tampoco se hallen en ninguno de los casos mencionados. En defecto de éstos, responderán los editores conocidos, domiciliados en el Estado, y no exentos de responsabilidad, y en su defecto los impresores o empresarios.
+(DEROGADO, P.O. 24 DE MAYO DE 2007)
 
 ## TÍTULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -4014,3 +4000,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 24 DE MAYO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
