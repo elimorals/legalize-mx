@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-administracion-y-38967"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2006-09-22"
+last_updated: "2007-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 09 de abril de 2004.
 
@@ -161,6 +161,10 @@ b).- Departamento de Bienes Inmuebles, y
 
 c).- Departamento de control de maquinaria y equipo.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
+
+d).- Departamento de Talleres Municipales.
+
 III.- Subdirección de Adquisiciones y suministros:
 
 a).- Departamento de Inventarios, y
@@ -273,15 +277,21 @@ IX.- Apoyar a las Dependencias Municipales para la elaboración de Manuales de O
 
 X.- Las demás que le sean asignadas por el Oficial Mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 18.
 
-Para el desempeño de sus funciones, la Subdirección de Recursos Materiales y Servicios contará con los siguientes departamentos a su cargo:
+Para el cumplimiento de sus funciones, la Subdirección de Recursos Materiales y Servicios contará con los siguientes departamentos a su cargo:
 
-I.- Departamento de Servicios Generales
+I.- Departamento de Servicios Generales.
 
-II.- Departamento de Bienes Inmuebles
+II.- Departamento de Bienes Inmuebles.
 
 III.- Departamento de Control de Maquinaria y Equipo.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2007)</small>
+
+IV.- Departamento de Talleres Municipales.
 
 ###### ARTICULO 19.
 
@@ -320,6 +330,18 @@ II.- Proveer de mantenimiento correctivo a las unidades del Ayuntamiento.
 III.- Coordinar las existencias de recursos materiales e insumos del almacén, para su aplicación correcta y oportuna en las unidades del Ayuntamiento.
 
 IV.- Las demás que le sean asignadas por la Subdirección de Recursos Materiales.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
+
+ARTÍCULO 21 BIS.- El Departamento de Talleres Municipales tendrá a su cargo la realización de las siguientes funciones:
+
+I.- El funcionamiento eficaz de la maquinaria, utilizando la mayor rentabilidad de las piezas utilizadas en las reparaciones;
+
+II.- Investigar y proponer la compra del equipo más rentable en el mercado considerando el desarrollo tecnológico, la calidad y la vida útil de los mismos;
+
+III.- Elaborar programas para el mantenimiento preventivo y correctivo de maquinaria y equipo de esta dirección, y
+
+IV.- Validar, normar y supervisar los programas anuales de mantenimiento preventivo y correctivo de maquinaria y equipo que se realizan en las delegaciones.
 
 ###### ARTICULO 22.
 
@@ -970,3 +992,11 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circu
 TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
 
 CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasaran a formar parte de la Secretaría a la que pertenezcan.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2007.
+
+PRIMERO. El presente Acuerdo entrará en vigor en el momento de su aprobación.
+
+SEGUNDO. Publíquese el presente en el Periódico Oficial del Estado, en un diario local de mayor circulación y/o en la Gaceta Municipal para conocimiento de los vecinos.
