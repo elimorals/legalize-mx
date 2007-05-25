@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2006-09-22"
+last_updated: "2007-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2007.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -891,25 +891,51 @@ Transcurrido el plazo señalado en la convocatoria, el Presidente Municipal anal
 
 En caso de que el número de aspirantes que atendieran la convocatoria lanzada por la Autoridad Municipal fuera insuficiente para la integración del Consejo, el Presidente Municipal podrá invitar a ciudadanos distinguidos avecindados en la Municipalidad que se destaquen por su trabajo en favor de la sociedad para que se integren al Consejo Consultivo, y esté en condiciones de funcionar.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 55.
 
-El Consejo Consultivo deberá ser integrado en los términos del artículo 8 de la Ley, y además del presidente y secretario técnico los vocales que lo integrarán serán en un número de cinco. El representante de la Autoridad Municipal será designado por el Presidente Municipal y fungirá como vocal del Consejo.
+El Consejo Consultivo se integrará en los términos del artículo 8 de la Ley, se compondrá de once miembros, cuyo carácter será honorífico, de los cuales uno será Presidente, un Secretario Técnico y nueve vocales.
 
 Dicho Consejo se integrará de la siguiente forma:
 
-A) Tres representantes de organismos que agrupen permisionarios;
+a) Cinco representantes de organismos que agrupen permisionarios, sobre la base siguiente:
 
-B) Tres representantes de organismos no gubernamentales, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, y
+1. Un representante de las empresas cuyo objeto social es la venta al mayoreo de bebidas con contenido alcohólico.
 
-C) Un representante de la Autoridad Municipal.
+2. Un representante de los comerciantes organizados que venden bebidas con contenido alcohólico en envase abierto.
 
-El nombramiento del Consejo Consultivo tendrá el carácter de honorífico, debiendo durar en el cargo un periodo no mayor del que dure el Ayuntamiento de que se trate, para el caso del Presidente del Consejo, este durará en su cargo un año, pudiendo ser reelecto por una sola ocasión.
+3. Un representante de los comerciantes que venden bebidas con contenido alcohólico en envase cerrado.
+
+4. Un representante de las empresas del sector turístico organizado.
+
+5. Un representante del sector gastronómico.
+
+b) Cinco representantes de organismos no gubernamentales, cuyo objeto social este relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, sobre la siguiente base:
+
+1. Un representante de la organización Alcohólicos Anónimos.
+
+2. Un representante de la Cruz Roja Mexicana, Delegación Tijuana.
+
+3. Un representante de una institución académica.
+
+4. Un representante de un organismo empresarial.
+
+5. Un representante de un club de servicio.
+
+c) Un representante de la Autoridad Municipal, que será el Secretario de Gobierno Municipal, quien fungirá como Vocal y podrá nombrar un representante para suplirlo en su ausencia.
+
+El cargo de Consejero durará un período no mayor del que dure la administración municipal de que se trate.
+
+Todos los consejeros tendrán derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 56.
 
-El Consejo nombrará de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente, un Secretario Técnico y los nueve Vocales ciudadanos, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo.
+El Consejo nombrará de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente y un Secretario Técnico, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo. El Presidente del Consejo Consultivo Municipal durará en su cargo un año, pudiendo ser reelecto por una sola ocasión.
+
+La opinión que emita el Consejo Consultivo en ningún caso será vinculatoria con las decisiones que al efecto tome la Autoridad Municipal.
 
 ###### ARTICULO 57.
 
@@ -1356,3 +1382,9 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circu
 TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
 
 CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasaran a formar parte de la Secretaría a la que pertenezcan.
+
+P.O. 25 DE MAYO DE 2007.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se publicará en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, y en un diario local de mayor circulación y/o la Gaceta Municipal, para conocimiento de los vecinos.
