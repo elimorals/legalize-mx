@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2007-04-17"
+last_updated: "2007-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -61,7 +61,7 @@ II. Promover, fomentar y preservar el fortalecimiento democrático del derecho a
 
 III. Establecer las garantías necesarias para la protección del derecho a la intimidad de las personas.
 
-IV. Establecer la rectoría del sistema de administración, conservación y preservación de la documentación pública.
+IV. (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
 V. Llevar a cabo la cultura de la transparencia informativa.
 
@@ -419,7 +419,7 @@ b) El de Acceso a la Información Pública.
 
 c) El de la Protección del Derecho a la Intimidad de las Personas.
 
-d) El de Administración, Conservación y Preservación de la Documentación Pública.
+d) (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
 e) El de Medios de Impugnación en Materia de Acceso a la Información Pública.
 
@@ -481,13 +481,7 @@ V. En materia de protección del derecho a la intimidad de las personas:
 
 5. Ejercer las demás facultades previstas en la ley de la materia, para la protección del derecho a la intimidad de las personas.
 
-VI. En materia de administración, conservación y preservación de la documentación pública:
-
-1. Dictar las providencias y medidas necesarias para salvaguardar la documentación pública.
-
-2. Vigilar que las entidades públicas cumplan con las normas, lineamientos y criterios en la materia.
-
-3. Establecer una red de coordinación interinstitucional a la que se integrarán todos los archivos que formen parte de las entidades públicas.
+VI. (DEROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
 VII. En materia de cultura de la transparencia informativa:
 
@@ -879,9 +873,7 @@ Para tal efecto, podrán atraer el concurso de instituciones de educación super
 
 CUARTO. El Instituto, de acuerdo con esta ley, deberá emitir los reglamentos a que se refiere la fracción VI del artículo 40 de esta ley, dentro de un año contado a partir de la fecha en que se celebre la sesión de inicio de su funcionamiento.
 
-QUINTO. Los recursos humanos, financieros y materiales del Instituto Estatal de Documentación de Coahuila, se transferirán y pasarán a formar parte del patrimonio del Instituto Coahuilense de Acceso a la Información Pública. Se deberán respetar los derechos laborales de los trabajadores en los términos de las disposiciones aplicables.
-
-Para tal efecto, la Secretaría de Gobierno deberá instrumentar las acciones necesarias que correspondan.
+QUINTO. (DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
 SEXTO. Para el ejercicio fiscal correspondiente y por única vez, se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas, lleve a cabo las transferencias de dotación de partidas presupuestales que resulten necesarias con cargo al Presupuesto de Egresos, siempre que existieren recursos financieros para ello, a fin de que el Instituto Coahuilense de Acceso a la Información Pública, se encuentre en posibilidad de iniciar sus funciones.
 
@@ -936,3 +928,17 @@ P.O. 17 DE ABRIL DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2007.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado de fecha 4 de Noviembre de 2003.
+
+TERCERO. Se derogan los artículos 3º fracción IV y 40 fracciones II, numeral 2, inciso d) y VI de la Ley del Instituto Coahuilense de Acceso a la Información Pública y todas las disposiciones legales y reglamentarias que contraríen el presente Decreto.
+
+CUARTO. A la entrada en vigor de la presente ley, terminará la vigencia del Convenio de Colaboración celebrado entre el Gobierno del Estado a través de la Secretaría de Gobierno y con la participación de la Secretaría de la Contraloría y Modernización Administrativa, con el Instituto Coahuilense de Acceso a la Información Pública, de fecha 29 de agosto del 2005.
+
+QUINTO. Se derogan los artículos Quinto Transitorio de la Ley del Instituto Coahuilense de Acceso a la Información Pública y Tercero Transitorio de la Ley de Archivos Públicos del Estado de Coahuila, ambas publicadas en el Periódico Oficial del Gobierno del Estado en fecha 04 de noviembre del 2003, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+SEXTO. El Patronato del Archivo General del Estado, dentro de un plazo de ciento ochenta días hábiles siguientes, contados a partir de la fecha en que quede formalmente instalado, deberá formular el proyecto de Reglamento Interior del Archivo General del Estado de Coahuila y someterlo a consideración del Ejecutivo para su aprobación.
