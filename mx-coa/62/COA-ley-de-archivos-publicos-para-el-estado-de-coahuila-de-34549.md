@@ -4,7 +4,7 @@ identifier: "COA-ley-de-archivos-publicos-para-el-estado-de-coahuila-de-34549"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2003-11-04"
+last_updated: "2007-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 4 de noviembre de 2003.
 
@@ -581,7 +583,7 @@ PRIMERO. La presente ley entrará en vigor el 1 de diciembre de 2004, una vez pu
 
 SEGUNDO. Se abroga la Ley General de Documentación para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado número 36 de fecha 6 de mayo de 1994 y se derogan todas las disposiciones que se opongan a la presente ley.
 
-TERCERO. Los archivos públicos de las entidades que se encuentren en resguardo del Instituto Estatal de Documentación, pasarán, al entrar en vigor la Ley del Instituto Coahuilense de Acceso a la Información Pública, a ser resguardados por éste, en los términos de los convenios que para tal efecto se hayan celebrado y de las disposiciones aplicables.
+TERCERO. (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
 CUARTO. El Instituto Coahuilense de Acceso a la Información Pública, dentro del año siguiente de haber entrado en vigor esta ley, procederá a emitir las bases generales para que las entidades públicas observen esta ley en forma gradual, de acuerdo a un calendario razonable que permita la adecuada y funcional administración de los documentos públicos conforme a esta ley.
 
@@ -618,3 +620,19 @@ SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 LIC. JAVIER GUERRERO GARCIA
 
 EL SECRETARIO DE FINANZAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MAYO DE 2007.
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado de fecha 4 de Noviembre de 2003.
+
+TERCERO. Se derogan los artículos 3° fracción IV y 40 fracciones II, numeral 2, inciso d) y VI de la Ley del Instituto Coahuilense de Acceso a la Información Pública y todas las disposiciones legales y reglamentarias que contraríen el presente Decreto.
+
+CUARTO. A la entrada en vigor de la presente ley, terminará la vigencia del Convenio de Colaboración celebrado entre el Gobierno del Estado a través de la Secretaría de Gobierno y con la participación de la Secretaría de la Contraloría y Modernización Administrativa, con el Instituto Coahuilense de Acceso a la Información Pública, de fecha 29 de agosto del 2005.
+
+QUINTO. Se derogan los artículos Quinto Transitorio de la Ley del Instituto Coahuilense de Acceso a la Información Pública y Tercero Transitorio de la Ley de Archivos Públicos del Estado de Coahuila, ambas publicadas en el Periódico Oficial del Gobierno del Estado en fecha 04 de noviembre del 2003, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+SEXTO. El Patronato del Archivo General del Estado, dentro de un plazo de ciento ochenta días hábiles siguientes, contados a partir de la fecha en que quede formalmente instalado, deberá formular el proyecto de Reglamento Interior del Archivo General del Estado de Coahuila y someterlo a consideración del Ejecutivo para su aprobación.
