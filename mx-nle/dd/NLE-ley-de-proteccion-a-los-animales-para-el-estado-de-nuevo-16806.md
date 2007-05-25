@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-a-los-animales-para-el-estado-de-nuevo-16806"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-16"
-last_updated: "2006-09-29"
+last_updated: "2007-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2000.
 
@@ -168,6 +168,10 @@ Quien posea un animal peligroso deberá solicitar autorización de la Agencia y 
 ###### Artículo 7o.
 
 Queda prohibido el uso de animales vivos para prácticas de entrenamiento de animales de guardia o ataque, o para verificar su agresividad.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
+
+Queda prohibido el uso de animales vivos para prácticas y competencias de tiro al blanco.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
 
@@ -596,3 +600,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 29 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2007.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
