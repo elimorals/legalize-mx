@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-26391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2005-07-07"
+last_updated: "2007-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2007.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de octubre de 2001.
 
@@ -61,43 +61,77 @@ Junta de Gobierno.
 
 Dirección General.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### ARTICULO 5°.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, los Servicios de Salud de San Luis Potosí contarán con las siguientes unidades administrativas:
+Para el Estudio, planeación y despacho de los asuntos que le competen, los Servicios de Salud de San Luís Potosí contarán con las siguientes unidades administrativas:
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 Dirección General;
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 Dirección de Administración;
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 Dirección de Protección Contra Riesgos Sanitarios;
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 Dirección de Planeación, Evaluación y Proyectos Especiales;
 
-Dirección de Protección Social en Salud;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
 Dirección de Políticas y Calidad en Salud;
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+Régimen Estatal de Protección Social en Salud;
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 Secretaría Particular;
 
-Subdirección de Asuntos Jurídicos;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
-Departamento de Desarrollo Organizacional;
+Subdirección de Asuntos Jurídicos, y
 
-Órgano Auxiliar:
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
+Departamento de Desarrollo Organizacional.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+Órgano auxiliar:
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 Subdirección de Contraloría Interna;
 
-Organismos Desconcentrados:
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+Unidades Administrativas Desconcentradas:
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 Patrimonio de la Beneficencia Pública;
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+
 Comisión Estatal de Arbitraje Médico;
 
-Hospital Central "Dr. Ignacio Morones Prieto";
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
-Clínica Psiquiátrica “Dr. Everardo Newmann Peña";
+Hospital Central Dr. Ignacio Morones Prieto, y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+Clínica Psiquiátrica Dr. Everardo Newmann Peña.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 Así mismo, los Servicios de Salud contarán con las unidades médicas adscritas tales como el Hospital General de Ciudad Valles, S.L.P., Hospital General de Rioverde, S.L.P., Hospital General de Matehuala, S.L.P., Hospital Materno Infantil "Dr. Alberto López Hermosa"; Centros de Salud, Hospitales Básicos Comunitarios ubicados en la (sic) circunscripciones territoriales de las Jurisdicciones Sanitarias que se señalan en los artículos 36 y 37 del presente Reglamento, así como con las demás unidades subalternas que se señalen en el Manual de Organización de la Dependencia.
 
@@ -383,9 +417,13 @@ XVII.- Proponer la formulación de convenios y acuerdos de coordinación y colab
 
 XVIII.- Orientar y fomentar la participación organizada de la comunidad en las acciones de la materia;
 
-XIX.- Mantener un estricto control sanitario de la (sic) disposiciones de órganos, tejidos, células y cadáveres de seres humanos; y
+XIX.- Mantener un estricto control sanitario de la (sic) disposiciones de órganos, tejidos, células y cadáveres de seres humanos; y (sic)
 
-XX.- Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos administrativos y de Coordinación o le confiera el Director General de los Servicios de Salud de San Luis Potosí.
+XX.- Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos administrativos y de Coordinación o le confiera el Director General de los Servicios de Salud de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2007)</small>
+
+XXI.- Coordinar y apoyar la ejecución de los programas de capacitación técnico administrativa del los Servicios de Salud de San Luí s (sic) Potosí, y (sic)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -393,49 +431,71 @@ XX.- Las demás que le señalen las Leyes, Reglamentos, Decretos y Acuerdos admi
 
 DE LA DIRECCION DE POLITICAS Y CALIDAD EN SALUD.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 14.
 
-Son atribuciones de la Dirección de Políticas y Calidad en Salud, las siguientes:
+A la Dirección de Políticas y Calidad en Salud corresponden las siguientes funciones:
 
-I.- Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de atención médica, salud pública y asistencia social derivadas de la Ley General de Salud, la Ley de Salud del Estado, y sus reglamentos.
+I. Difundir y vigilar la aplicación de las normas técnicas y oficiales mexicanas en las materias de atención médica, salud pública y asistencia social derivadas de la Ley General de Salud, la Ley de Salud del Estado y sus reglamentos;
 
-II.- Fungir como órgano de apoyo técnico y científico para las unidades administrativas de los Servicios de Salud.
+II. Fungir como órgano de apoyo técnico y científico para las unidades administrativas de los Servicios de Salud;
 
-III.- Dirigir y revisar los proyectos de atención a la salud.
+III. Dirigir y revisar los proyectos de atención a la salud;
 
-IV.- Apoyar, promover y coordinar la participación de los sectores públicos, social y privado, en los programas de asistencia social y materia de su competencia.
+IV. Apoyar, promover y coordinar la participación de los sectores públicos, social y privado, en los programas de asistencia social y materia de su competencia;
 
-V.- Definir los mecanismos de participación de la comunidad en la solución de los problemas de salud.
+V. Definir los mecanismos de participación de la comunidad en la solución de los problemas de salud;
 
-VI.- Promover la prevención y control de enfermedades y brotes epidémicos; así como operar y coordinar el Sistema Estatal de Vigilancia Epidemiológica.
+VI. Promover la prevención y control de enfermedades y brotes epidémicos; así como operar y coordinar el Sistema Estatal de Vigilancia Epidemiológica;
 
-VII.- Definir y ejecutar las acciones de apoyo necesario a fin de establecer la coordinación para la salud en casos de desastre con el Consejo Estatal de Protección Civil.
+VII. Definir y ejecutar las acciones de apoyo necesario a fin de establecer la coordinación para la salud en caso de desastre con el Consejo Estatal de Protección Civil;
 
-VIII.- Impulsar y desarrollar el proceso de regionalización de los Servicios de Salud, por niveles de atención a población abierta y, en su caso, propiciando la referencia y contra referencia de pacientes.
+VIII. Impulsar y desarrollar el proceso de regionalización de los Servicios de Salud, por niveles de atención a población abierta y, en su caso, propiciando la referencia y contrarreferencia de pacientes;
 
-IX.- Implantar y vigilar las normas técnicas oficiales mexicanas y administrativas para la promoción, prevención y rehabilitación en los problemas de salud, así como el control de la prestación de los servicies a población abierta.
+IX. Implantar y vigilar las normas técnicas oficiales mexicanas y administrativas para la promoción, prevención y rehabilitación en los problemas de salud, así como el control de la presentación de los servicios a población abierta;
 
-X.- Supervisar, vigilar y controlar la operación, funcionamiento, infraestructura, equipamiento y remodelación de todo establecimiento de atención médica de los Servicios de Salud de San Luis Potosí.
+X. Supervisar, vigilar y controlar la operación, funcionamiento, infraestructura, equipamiento y remodelación de todo establecimiento de atención médica de los Servicios de Salud de San Luis Potosí;
 
-XI.- Impulsar y promover la participación de los sectores social y privado en los programas de prevención y control de enfermedades para hacer más eficiente y eficaces las acciones de Salud.
+XI. Impulsar y promover la participación de los sectores social y privado en los programas de prevención y control de enfermedades para hacer más eficiente y eficaces las acciones de salud;
 
-XII.- Promover la prevención de la invalidez y la rehabilitación de las personas con alguna discapacidad.
+XII. Promover la prevención de la invalidez y la rehabilitación de las personas con alguna discapacidad;
 
-XIII.- Implantar y promover las acciones para la salud ocupacional y (sic),
+XIII. Implantar y promover las acciones para la salud ocupacional;
 
-XIV.- Será Secretario Técnico de los Comités Estatales de los programas prioritarios Estatales y Federales.
+XIV. Será Secretario Técnico de los Comité; Estatales de los programas prioritarios Estatales y federales;
 
-XV.- (DEROGADA, P.O. 7 DE JULIO DE 2005)
+XV. Contribuir a elevar el nivel de vida y bienestar de la población abierta mediante el otorgamiento de servicios de salud con equidad y acceso;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+XVI. Difundir y coordinar las políticas, programas y estrategias en, materia de equidad y desarrollo de los servicios esenciales de salud;
 
-XVI.- Las demás que señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, o las que le confiera el Director General de los Servicios de Salud en el Estado.
+XVII. Impulsar el desarrollo y fortalecimiento de los servicios de salud de acuerdo con las necesidades de la población, con base en estrategia (sic) innovadoras que permitan captar y atender las demandas de la población en beneficio de la población abierta;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2005)</small>
+XVIII. Incorporar y fortalecer medidas de atención médica especializada en la población abierta con la participación coordinada de instituciones públicas y privadas;
 
-XVII.- Conducir y controlar las Políticas nacionales y estatales para elevar la calidad de los servicios de atención médica y asistencia social en el Estado.
+XIX. Propiciar y promover la organización y participación social por la equidad en el bienestar social de la población abierta, el auto cuidado de la salud individual, familiar y comunitaria;
+
+XX. Promover y coordinar en el ámbito de su competencia, el desarrollo de los servicios esenciales a través de la incorporación de nuevas tecnologías, esquemas innovadores de administración, prestación, gestión y operación de los servicios de salud;
+
+XXI. Vigilar la adecuada aplicación de los programas vinculados con la equidad y el desarrollo de los servicios de salud;
+
+XXII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y, en su caso comunitario, mediante la capacitación en materia de operación y gerencia de los servicios de salud;
+
+XXIII. Proponer, coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios esenciales de salud, así como a los acuerdos que para el efecto se adopten en el seno de la junta de Gobierno;
+
+XXIV. Vigilar el seguimiento de los avances en la ejecución de los programas de equidad y desarrollo de servicios esenciales, así como participar en la evaluación integral del desempeño, alcances y resultados en todo el Estado y proponer las medidas necesarias para corregir las desviaciones que se detecten;
+
+XXV. Garantizar la aplicación y desarrollo de la salud en la población indígena, con absoluto respeto a su cultura;
+
+XXVI. Garantizar que las acciones que realicen las instituciones del sector Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud Que se otorgan permanentemente a la población;
+
+XXVII. Coordinar, supervisar y controlar el funcionamiento de los diferentes niveles de atención médica;
+
+XXVIII. Así como la totalidad de aquellas funciones que correspondían a la Dirección de Área de Salud Mental y Adicciones que correspondían a la Dirección de Protección Social en Salud y que por medio del presente se modifica;
+
+XXIX. Conducir y controlar las Políticas nacionales y estatales para elevar la calidad de los Servicios de Atención médica y asistencia social en el estado, y
+
+XXX. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado de San Luís Potosí.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -1141,9 +1201,9 @@ DE LAS SUPLENCIAS DEL TITULAR.
 
 ### CAPITULO PRIMERO.
 
-DE LA DIRECCION DE PROTECCION SOCIAL EN SALUD.
+DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD.
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 7 DE JULIO DE 2005)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 36.
 
@@ -1229,7 +1289,7 @@ Los Jefes de Jurisdicciones Sanitarias, durante sus ausencias menores de 15 día
 
 ###### ARTICULO 42.
 
-Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de jerarquía inmediata inferior que para tal efecto designe el Subdirector correspondiente; Las (sic) ausencias mayores de este término, serán suplidas por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director.
+Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán suplidos por el servidor público de jerarquía inmediata inferior que para tal efecto designe el Subdirector correspondiente; Las (sic) ausencias mayores de este término, serán suplidas por el servidor público designado por el Director General de los Servicios de Salud de San Luis Potosí o por el Director;
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2002)</small>
 
@@ -1237,15 +1297,13 @@ Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán sup
 
 DE LA DIRECCION DE AREA DE EQUIDAD Y DESARROLLO EN SALUD.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2007)</small>
 
-### CAPITULO TERCERO.
+### CAPITULO TERCERO
 
 DE LA SUBDIRECCION DE AREA DEL LABORATORIO ESTATAL DE SALUD PUBLICA.
 
-###### ARTICULO 44.
-
-(DEROGADO, P.O. 7 DE JULIO DE 2005)
+ARTICULO 44 (SIC).- (DEROGADO, P.O. 7 DE JULIO DE 2005)
 
 T R A N S I T O R I O S
 
@@ -1299,76 +1357,34 @@ TERCERO.- Que a las unidades que se refieren las modificaciones y reformas del p
 
 CUARTO.- Se deben actualizar los Manuales que este Reglamento menciona, y mientras tanto, el Titular del Organismo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
 
+P.O. 26 DE MAYO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; (sic)
+
 ###### ARTICULO 43.
 
-A la Dirección de Protección Social en Salud, corresponden las siguientes funciones:
+Para los efectos de este Reglamento se concibe al Régimen Estatal de Protección Social en Salud, como la estructura administrativa dependiente de los Servicios de Salud en el Estado, encargado de garantizar las acciones de Protección Social en Salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los Servicios de Salud a la persona en el Sistema de Protección Social en Salud, la cual deberá realizar su actividad de manera independiente a la provisión de los servicios de salud.
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+Al Régimen de Protección Social en Salud Estatal, corresponden de manera enunciativa y no limitativa las siguientes funciones:
 
-I. Contribuir a elevar el nivel de vida y bienestar de la población abierta mediante el otorgamiento de servicios de salud con equidad y acceso.
+I.- Programar la difusión y promoción del Sistema de Protección Social en Salud en el Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+II.-Vigilar la identificación e incorporación de beneficiarios al Sistema de Protección Social en Salud en el Estado, manteniendo el resguardo de los datos personales contenidos en el padrón de beneficiarios, bajo estricta confidencialidad;
 
-II. Difundir y coordinar las políticas, programas y estrategias en materia de equidad y desarrollo de los servicios esenciales de salud.
+III.- Controlar la administración y ejercicio de las cuotas familiares de los beneficiarios al Sistema de Protección Social en Salud en el Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+IV.- Con objeto de fortalecer a los establecimientos para la atención médica de los Servicios Estatales de Salud y establecer criterios homogéneos y transparentes en la atención de los beneficiarios del sistema, las relaciones entre el Régimen Estatal y los establecimientos para la atención médica acreditados se formalizarán mediante acuerdos de gestión, que bajo la forma de acuerdo interno, precisen la cobertura de afiliados, condiciones de calidad, la tutela de los derechos de los usuarios, la asignación de recursos, criterios de evaluación y seguimiento de sus actividades;
 
-III. Impulsar el desarrollo y fortalecimiento de los servicios de salud de acuerdo con las necesidades de la población, con base en estrategias innovadoras que permitan captar y atender las demandas de la población en beneficio de la población abierta.
+V.- Realizar el seguimiento operativo de las acciones de Seguro Popular de Salud para optimizar resultados;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+VI.- Promover la participación de los Municipios en el Régimen de Protección Social en Salud en el Estado;
 
-IV. Incorporar y fortalecer medidas de atención médica especializada en la población abierta con la participación coordinada de instituciones públicas y privadas.
+VII.- Vigilar y coordinar los procesos de afiliación en los diversos municipios del Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
+VIII.- Impulsar la creación de unidades de atención al beneficiario encargado de la tutela de sus derechos y el cumplimiento de sus obligaciones;
 
-V. Propiciar y promover la organización y participación social por la equidad en el bienestar social de la población abierta, el autocuidado de la salud individual, familiar y comunitaria.
+IX.- Evaluar periódicamente la opinión de los beneficiarios con mención expresa a la aplicación de los derechos, y
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-VI. Promover y coordinar en el ámbito de su competencia, el desarrollo de los servicios esenciales a través de la incorporación de nuevas tecnologías, esquemas innovadores de administración, prestación, gestión y operación de los servicios de salud.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-VII. Vigilar la adecuada aplicación de los programas vinculados con la equidad y el desarrollo de los servicios de salud.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-VIII. Promover en coordinación con el área correspondiente, la profesionalización, desarrollo gerencial y actualización permanente del personal institucional y, en su caso comunitario, mediante la capacitación en materia de operación y gerencia de los servicios de salud.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-IX. Supervisar, vigilar y controlar la operación, funcionamiento, infraestructura, equipamiento y remodelación de todo establecimiento de atención médica de los Servicios de Salud del Estado de San Luis Potosí.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-X. Proponer, coordinar, apoyar y dar seguimiento a la instrumentación de las políticas y acciones en materia de equidad y desarrollo de servicios esenciales de salud, así como a los acuerdos que para el efecto se adopten en el seno de la Junta de Gobierno.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-XI. Vigilar el seguimiento de los avances en la ejecución de los programas de equidad y desarrollo de servicios esenciales, así como participar en la evaluación integral del desempeño, alcances y resultados en todo el Estado y proponer las medidas necesarias para corregir las desviaciones que se detecten.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-XII. Garantizar la aplicación y desarrollo de la salud en la población indígena, con absoluto respeto a su cultura.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-XIII. Garantizar que las acciones que realicen las instituciones del Sector Salud a favor de los pueblos indígenas, estén integradas a los programas y servicios de salud que se otorgan permanentemente a la población.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-XIV. Coordinar, supervisar y controlar el funcionamiento de los diferentes niveles de atención médica.
-
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2002)</small>
-
-XV. Realizar las demás funciones que le señalen las Leyes, Reglamentos, Decretos y Acuerdos aplicables, y las que le confiera el Director General de los Servicios de Salud del Estado San Luis Potosí.
-
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2005)</small>
-
-XVI. Coordinar y apoyar la ejecución de los Programas de Capacitación Técnico Administrativa de los Servicios de Salud en el Estado.
-
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2005)</small>
-
-XVII. Así como todas aquellas funciones que correspondían a la Dirección de Área de Salud Mental y Adicciones comprendidas en el Capítulo Segundo que por medio del presente se deroga, funciones las cuales se le adicionan a la Dirección de Protección Social en Salud en tu totalidad.
+X.- Integrar los programas de combate a la pobreza para la población no asegurada.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
