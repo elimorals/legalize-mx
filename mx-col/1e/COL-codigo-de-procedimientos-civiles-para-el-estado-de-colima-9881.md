@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2006-04-04"
+last_updated: "2007-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2007.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -647,21 +647,51 @@ Se exceptúan de esta disposición los escritos de demanda principal o incidenta
 
 ### CAPITULO IV. De los exhortos y despachos
 
-ART. 104.- Los exhortos y despachos que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
-ART. 105.- Las diligencias que no puedan practicarse en el partido en que se sigue el juicio, deberán encomendarse precisamente al tribunal de aquél en que han de ejecutarse.
+ART. 104.- Las actuaciones jurisdiccionales que deban practicarse fuera del partido judicial en que se tramita el procedimiento, se encomendarán al tribunal competente del lugar en que han de ejecutarse.
 
-También puede un tribunal, aunque una diligencia deba practicarse dentro de su propia jurisdicción, encomendarla a otro de inferior categoría del mismo partido, si por razón de la distancia fuere más obvio que éste la practique.
+Se exceptúan de lo previsto en el párrafo anterior, las comunicaciones que los jueces remitan a las autoridades administrativas o legislativas, para lo que será suficiente la remisión del oficio correspondiente, de manera directa.
 
-ART. 106.- Los Tribunales Superiores pueden, en su caso, encomendar la práctica de diligencias a los jueces inferiores de su jurisdicción.
+También puede un tribunal, aunque una diligencia deba practicarse dentro de su propia jurisdicción, encomendarla a otro de inferior grado del mismo partido judicial.
 
-ART. 107.- En los despachos y exhortos no se requiere la legalización de las firmas del tribunal que los expida, a menos que la exija el tribunal requerido, por ordenarla la ley de su jurisdicción, como requisito para obsequiarlos.
+El Supremo Tribunal puede, en su caso, encomendar la práctica de diligencias a los jueces inferiores.
 
-Para que los exhortos de los tribunales de los Estados de la Federación, del Distrito y los Territorios Federales sean diligenciados por los del Estado, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
+En los casos en que dos o mas partidos judiciales sean conurbados, los Tribunales de dichos partidos tendrán atribuciones para practicar emplazamientos, notificaciones, citaciones, desahogo de pruebas, ejecutar sentencias, y realizar cualquier actuación jurisdiccional en ambos partidos judiciales, previo acuerdo del Supremo Tribunal de Justicia en el que se haga constar dicha conurbación.
 
-ART. 108.- Los exhortos que se remitan al extranjero o se reciban de él se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
-ART. 109.- Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+ART. 105.- En el caso de que la actuación requerida a otro órgano jurisdiccional, o a otra autoridad de cualquier índole, de la que debiera enviarse exhorto, oficio, o mandamiento, se considere de urgente práctica, podrá formularse la petición por teléfono, remisión facsimilar o por cualquier otro medio, bajo la fe del Secretario, quien hará constar la persona con la cual se entendió en la comunicación, la fecha y hora de la misma y la solicitud realizada, con la obligación de confirmarla en despacho ordinario que habrá de remitirse a más tardar al día siguiente. Del empleo de los medios de comunicación indicados se dejará razón en el expediente, así como de las causas para considerarlo urgente.
+
+En estos casos, los tribunales de primer grado del Estado podrán realizar directamente actuaciones jurisdiccionales en un partido judicial distinto al que les corresponda.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+ART. 106.- Los exhortos y despachos que se reciban, se proveerán dentro de los tres días siguientes a su recepción, y se diligenciarán dentro de los cinco siguientes a aquél en que se provean, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo. En todo caso, en la diligenciación de exhortos y despachos se estará a lo que favorezca a la cooperación procesal.
+
+En la resolución que ordene librar el exhorto o el despacho podrá designarse, a instancia de parte, persona o personas para que intervengan en su diligenciación, con expresión del alcance de su intervención.
+
+No se exigirá exhibición ante el Juez exhortado de poder alguno a las personas que intervengan en su diligenciación si aparecen mencionadas en el exhorto para tal fin.
+
+Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de apresurar su diligenciación por el juez exhortado y devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+
+En los despachos y exhortos no se requiere la legalización de las firmas del tribunal que los expide.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+ART. 107.- Cuando el exhorto adolezca de algún defecto, si éste fuera subsanable, el juez exhortado conservará el exhorto en su poder, para que el interesado en la diligencia tramite la corrección o complementación ante el juez exhortante y se proceda, una vez corregido el defecto, al trámite de la diligencia.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+ART. 108.- El juez exhortado tendrá plenitud de jurisdicción para el cumplimiento de lo ordenado, y para disponer que para tal efecto se practiquen cuantas diligencias sean necesarias para el desahogo de lo solicitado, se empleen las medidas de apremio y se impongan sanciones para hacer cumplir sus determinaciones, y atiendan peticiones tendientes a la ejecución de la actuación jurisdiccional de que se trate.
+
+Cuando el exhorto haya sido remitido a un órgano diferente al que deba practicar la actuación jurisdiccional de que se trate, el juez exhortado estará facultado para enviar el exhorto directamente al juez que corresponda, si es que le consta cuál sea el competente para su diligenciación, debiendo dar cuenta de dicha circunstancia por oficio al exhortante.
+
+El tribunal exhortado podrá conceder excepcionalmente la simplificación de formalidades o la observancia de formalidades distintas a las exigidas en la legislación local, a solicitud del juez exhortante o de la parte interesada, si esto no resulta lesivo al orden público y especialmente a las garantías individuales; la petición deberá contener la descripción de las formalidades cuya aplicación se solicite para la diligenciación del exhorto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+ART. 109.- Los exhortos que se remitan al extranjero o se reciban de él se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
 
 ### CAPITULO V. De las notificaciones
 
@@ -828,6 +858,16 @@ ART. 149.- Si el juez deja de conocer por recusación o excusa, conocerá el que
 ART. 150.- Es juez competente aquel al que los litigantes se hubieren sometido expresa o tácitamente, cuando se trate del fuero renunciable.
 
 ART. 151.- Hay sumisión expresa cuando los interesados renuncian clara y terminantemente al fuero que la ley les concede y designan con toda precisión al juez a quien se someten.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2007)</small>
+
+Para los efectos del párrafo anterior, la sumisión expresa a la renuncia del fuero de los tribunales del estado será nula de pleno derecho, cuando se reúnan los siguientes elementos:
+
+I.- Que los bienes muebles e inmuebles que sean sujetos de garantías prendaria o hipotecaria en contrato de crédito, se encuentren en territorio del Estado;
+
+II.- Que el acreedor o acreditante tenga domicilio, oficinas, agencias o sucursales en territorio del Estado; y
+
+III.- Que el deudor o acreditado tenga permanente domicilio en territorio del Estado.
 
 ART. 152.- Se entienden sometidos tácitamente:
 
@@ -4866,3 +4906,7 @@ SEGUNDO.- Los juicios sobre rectificación de actas del estado civil que se encu
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
