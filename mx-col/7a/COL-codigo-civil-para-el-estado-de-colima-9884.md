@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2005-11-26"
+last_updated: "2007-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -705,7 +705,7 @@ IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por m�
 
 V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
-ART. 33.- Las personas morales tienen su domicilio en el lugar donde se halla (sic) establecida su administración.
+ART. 33.- Las personas morales tienen su domicilio en el lugar donde se halla establecida su administración.
 
 Las que tengan su administración fuera del Estado de Colima, pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo a lo que a esos actos se refiera.
 
@@ -1221,7 +1221,9 @@ VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre 
 
 VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además contagiosas o hereditarias;
 
-IX.- El idiotismo y la imbecilidad;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2007)</small>
+
+IX.- Padecer alguno de los contrayentes discapacidad intelectual, aunque pudiera tener momentos de lucidez;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1651,13 +1653,15 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2007)</small>
 
-ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 El oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de edad no emancipados, o que la mujer se encuentra en estado gravidez, o que teniendo hijos mayores de edad, éstos se encuentran bajo el régimen de tutela, o son acreedores alimentarios y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -1752,6 +1756,30 @@ ART. 286.- El cónyuge que diere causa al divorcio perderá todo lo que se le hu
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
 ART. 287.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
+
+En el caso de que uno de los cónyuges carezca de bienes o que durante el matrimonio mayor de diez años, se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, tomando en cuenta las siguientes circunstancias:
+
+I.- En caso de ser divorcio necesario sea el cónyuge inocente, por lo que también tendrá derecho a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado; y
+
+II.- En caso de divorcio voluntario por vía judicial, la mujer tendrá derecho a recibir alimentos por un lapso máximo de diez años, siempre y cuando no tenga ingresos suficientes o no contraiga nuevas nupcias o se una en concubinato. El mismo derecho tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes mientras no contraiga nuevas nupcias o se una en concubinato.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
+
+El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
+
+ART. 287 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización y hasta el 50% del valor de los bienes que hubiera adquirido, durante el matrimonio, siempre que:
+
+I.- Hayan estado casados por el régimen de separación de bienes durante un periodo mayor de diez años;
+
+II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y al cuidado de los hijos o en su caso, al sostenimiento de los mismos; y
+
+III.- Durante el matrimonio que el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente inferiores a los de la contraparte.
+
+El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -2427,13 +2455,17 @@ IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque 
 
 V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2007)</small>
 
-VI.- Cuando el que la ejerza sea condenado por delito grave; y
+VI.- Cuando el que la ejerza sea condenado por delito grave;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2007)</small>
+
+VII.- Por el incumplimiento de la obligación de dar alimentos sin causa justificada; y
 
 > <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
 
-VII.- Cuando los menores hayan presenciado conductas recurrentes de violencia intrafamiliar, que les hayan provocado o puedan provocar un daño en su desarrollo integral.
+VIII.- Cuando los menores hayan presenciado conductas recurrentes de violencia intrafamiliar, que les hayan provocado o puedan provocar un daño en su desarrollo integral.
 
 ART. 445.- La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -2463,9 +2495,11 @@ ART. 450.- Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2007)</small>
 
-III.- Los sordo-mudos que no saben leer ni escribir;
+II.- El mayor de edad con algún tipo de discapacidad intelectual, aunque pudiera tener momentos de lucidez, o motriz cuando no puedan conducirse por sí para contraer obligaciones o para manifestar su voluntad por cualquiera de las formas por las que ésta pudiera ser manifestada.
+
+III.- (DEROGADA, P.O. 26 DE MAYO DE 2007)
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
@@ -3739,7 +3773,7 @@ ART. 841.- Las servidumbres establecidas por utilidad pública o comunal, para m
 
 > <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
 
-ART. 842.- Nadie puede construir cerca de una pared ajena o de co-propiedad, fosos, cloacas, acueductos, hornos, fraguas, chimeneas, establos, ni instalar depósitos de materias corrosivas, máquinas de vapor o fábricas destinadas a usos que pueden ser peligrosos o nocivos, sin guardar las distancias prescritas por los reglamentos o sin construir las obras de resguardo necesarias, con sujeción a lo que prevengan los mismos reglamentos o a falta de ellos, a lo que se determine por juicio pericial.
+ART. 842.- Nadie puede construir cerca de una pared ajena o de copropiedad, fosos, cloacas, acueductos, hornos, fraguas, chimeneas, establos, ni instalar depósitos de materias corrosivas, máquinas de vapor o fábricas destinadas a usos que pueden ser peligrosos o nocivos, sin guardar las distancias prescritas por los reglamentos o sin construir las obras de resguardo necesarias, con sujeción a lo que prevengan los mismos reglamentos o a falta de ellos, a lo que se determine por juicio pericial.
 
 ART. 843.- Nadie puede plantar árboles cerca de una heredad ajena sino a la distancia de dos metros de la línea divisoria, si la plantación se hace de árboles grandes, y de un metro, si la plantación se hace de arbustos o árboles pequeños.
 
@@ -10268,3 +10302,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- El Gobernador del Estado, dentro de los treinta días siguientes al inicio de vigencia del presente Decreto, deberá hacer las reformas necesarias al Reglamento del Registro Público de la Propiedad y del Comercio del Estado de Colima, manuales de procedimientos y demás disposiciones normativas internas con el fin de crear los formatos y regular en el ámbito de competencia de dicha dependencia del Ejecutivo del Estado el trámite a seguir para la constitución del patrimonio de la familia, de conformidad con los artículos 731, 732 y 733 reformados, del Código Civil para (sic) Estado de Colima.
 
 Artículo Cuarto.- Los juicios para la constitución del patrimonio familiar que se encuentren en trámite ante las autoridades judiciales del Estado al momento de entrar en vigor el presente Decreto, continuarán tramitándose ante las instancias en que se encuentren y conforme a las disposiciones anteriores a la reforma.
+
+P.O. 26 DE MAYO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
