@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2003-02-10"
+last_updated: "2007-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de febrero de 2003.
 
@@ -173,17 +173,23 @@ I. El Presidente;
 
 II. El Consejo;
 
-III. La Secretaría General; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
 
-IV. La Visitaduría.
+III. La Secretaría General;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
+
+IV. La Visitaduría; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2007)</small>
+
+V. La Dirección de Educación en Derechos Humanos.
 
 ### CAPITULO II. De la Presidencia
 
 ###### ARTICULO 11.
 
-Al frente de la Comisión estará un Presidente, el cual deberá reunir los siguientes
-
-requisitos:
+Al frente de la Comisión estará un Presidente, el cual deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos, con residencia efectiva en el Estado de cinco años anteriores a la designación;
 
@@ -323,6 +329,10 @@ El Presidente y el Secretario de la Comisión formarán parte del Consejo con el
 
 A excepción del cargo de Presidente y de Secretario, los demás miembros del Consejo tendrán carácter honorífico, y no deben desempeñar ningún cargo o comisión en el servicio público, o partido político alguno. Durarán en su cargo durante (sic) el mismo período de aquel del Presidente en el que fueran nombrados.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+
+En la integración del Consejo Consultivo se procurará que no exceda del 60% de personas del mismo sexo, incluyendo al Presidente de la Comisión.
+
 ###### ARTICULO 21.
 
 El Consejo será un cuerpo colegiado de examen y opinión de la problemática de los derechos humanos en el Estado con las siguientes facultades:
@@ -415,11 +425,39 @@ III. Tener título profesional de Licenciado en Derecho o su equivalente, prefer
 
 IV. Tener buena reputación y no haber sido condenado por delito doloso alguno.
 
-### CAPITULO I. De la Interposición de la Queja
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2007)</small>
+
+### CAPITULO VI. De la Prevención, Estudio, Difusión y Promoción de los Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+
+ARTICULO 27 BIS. Para el cumplimiento de sus fines, la Comisión contará con una Dirección de Educación en Derechos Humanos, dependiente de la Presidencia y tendrá las siguientes facultades:
+
+I. Difundir, divulgar, promocionar y capacitar a la población en materia de derechos humanos;
+
+II. Elaborar programas en la materia, tendientes a la culturización de los derechos fundamentales;
+
+III. Promover que se incluyan programas de estudio sobre los derechos humanos en instituciones educativas, recreativas y laborales;
+
+IV. Desarrollar actividades, realizar estudios, preparar informes, publicaciones y campañas con el propósito de hacer conciencia en los diversos sectores de la población sobre la importancia de estos derechos:
+
+V. Apoyar a la Presidencia en todas las actividades emanadas de convenios y atención a diversos peticionarios, dirigidos al fortalecimiento del contenido básico en materia de derechos humanos educativos, así como para todos los grupos vulnerables en todo el Estado;
+
+VI. Proponer a los órganos de procuración de justicia, seguridad pública y vialidad estatal y municipal, programas de formación y capacitación en materia de derechos humanos, tendientes a su conocimiento y práctica;
+
+VII. Solicitar la colaboración técnica y administrativa de las autoridades, dependencias e instituciones a las que se dirijan los programas de capacitación y formación en materia de derechos humanos;
+
+VIII. Elaborar material audiovisual y editorial para dar a conocer sus funciones y actividades; y
+
+IX. Las demás que asigne el Presidente de la Comisión.
+
+La Presidencia proveerá los recursos humanos y materiales necesarios para el cumplimiento del objeto de la Dirección de Educación en Derechos Humanos.
+
+La Comisión en términos de las Leyes respectivas, podrá solicitar el acceso a los medios de comunicación, para la divulgación de sus funciones y actividades.
 
 ## TITULO TERCERO. PROCEDIMIENTO ANTE LA COMISION
 
-### CAPITULO II. De la Admisión de la Queja
+### CAPITULO I. De la Interposición de la Queja
 
 ###### ARTICULO 28.
 
@@ -499,7 +537,7 @@ Las personas con capacidad diferente que soliciten la intervención de la Comisi
 
 Para la disposición de los servicios del personal especializado, cuando así se requiera, se estará a lo dispuesto en los convenios que para tal efecto se celebren con otras instituciones públicas o privadas.
 
-### CAPITULO III. De la Investigación
+### CAPITULO II. De la Admisión de la Queja
 
 ###### ARTICULO 42.
 
@@ -527,7 +565,7 @@ Cuando la gravedad del asunto lo amerite, el Presidente determinará sobre la ad
 
 Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al reclamante para que la aclare. Si después de dos requerimientos el quejoso no contesta, se enviará la queja al archivo definitivo por falta de interés del propio quejoso.
 
-### CAPITULO IV. De la Petición Extraordinaria de Exhibición de Persona
+### CAPITULO III. De la Investigación
 
 ###### ARTICULO 46.
 
@@ -575,7 +613,7 @@ Toda actuación que se lleve a cabo con el fin de investigar algún asunto somet
 
 En este caso, y solamente durante las primeras diligencias, se podrá mantener en secreto la identidad del reclamante cuando éste lo haya solicitado expresamente, en virtud de existir temor fundado de que peligre su vida, integridad física, bienes o de sus dependientes económicos o parientes hasta el tercer grado. Sin embargo de lo anterior, la identidad del reclamante deberá darse a conocer al servidor público señalado como responsable, al momento de solicitarle el informe a que hace referencia el artículo 46 de esta Ley.
 
-### CAPITULO V. De las Resoluciones
+### CAPITULO IV. De la Petición Extraordinaria de Exhibición de Persona
 
 ###### ARTICULO 53.
 
@@ -613,7 +651,7 @@ La Petición Extraordinaria de Exhibición de Persona no prejuzga sobre la respo
 
 El desacato a las resoluciones que emita el Presidente en relación con esta Petición, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se hará público de conformidad a la recomendación que formule al respecto.
 
-### CAPITULO VI. De los Recursos de Queja e Impugnación
+### CAPITULO V. De las Resoluciones
 
 ###### ARTICULO 61.
 
@@ -631,7 +669,7 @@ El Presidente tendrá la facultad de recomendar en cualquier momento a las autor
 
 La Comisión notificará al interesado, al servidor público y a la autoridad o dependencia administrativa correspondiente, el resultado de sus investigaciones y las decisiones adoptadas en el ámbito de su competencia. La notificación será efectuada por personal competente, quien ostentará el cargo de notificador para todos los efectos, llevando un libro de registro en el que consten las diligencias realizadas.
 
-### CAPITULO I. De la Colaboración Preferente
+### CAPITULO VI. De los Recursos de Queja e Impugnación
 
 ###### ARTICULO 65.
 
@@ -649,7 +687,7 @@ El recurso de impugnación deberá presentarse por escrito ante la Comisión, y 
 
 ## TITULO CUARTO. DE LAS OBLIGACIONES DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
 
-### CAPITULO II. De las Infracciones
+### CAPITULO I. De la Colaboración Preferente
 
 ###### ARTICULO 68.
 
@@ -663,7 +701,7 @@ De conformidad con esta Ley a la Comisión no podrá denegársele acceso a ning�
 
 No pueden ser objeto de censura o de interferencia, la correspondencia y las comunicaciones dirigidas a la Comisión, especialmente las conversaciones telefónicas hechas desde centros de detención, de internamiento o de custodia.
 
-### CAPITULO UNICO. De la Responsabilidad de las Autoridades y de los Servidores Públicos
+### CAPITULO II. De las Infracciones
 
 ###### ARTICULO 71.
 
@@ -679,7 +717,7 @@ La autoridad superior deberá informar a la Comisión sobre las medidas o sancio
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. Del Régimen Laboral
+### CAPITULO UNICO. De la Responsabilidad de las Autoridades y de los Servidores Públicos
 
 ###### ARTICULO 73.
 
@@ -706,6 +744,8 @@ Además de las denuncias sobre los delitos y faltas administrativas en que puede
 El Presidente, el Secretario General, el Visitador General, los Visitadores y el personal adscrito a la Comisión, en el ejercicio de sus funciones, estarán sujetos a la aplicación de la Ley de Responsabilidad de los Servidores Públicos al Servicio del Estado de Aguascalientes.
 
 ## TITULO SEXTO
+
+### CAPITULO UNICO. Del Régimen Laboral
 
 ###### ARTICULO 78.
 
@@ -762,3 +802,15 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Educación en Derechos Humanos, a que se refiere el Artículo 10, Fracción V del presente Decreto, iniciará sus funciones a partir del primero de enero del año dos mil ocho, debiendo para tal efecto, considerarse la partida correspondiente en el Presupuesto de Egresos del Gobierno del Estado, en su apartado "Del Ramo Autónomo 17 Órganos Autónomos".
