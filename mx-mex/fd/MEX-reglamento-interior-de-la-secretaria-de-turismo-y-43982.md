@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-turismo-y-43982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2005-02-25"
+last_updated: "2007-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MAYO DE 2007.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 25 de febrero de 2005.
 
@@ -37,15 +37,19 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
 
 ### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
 
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría de Turismo y Desarrollo Artesanal.
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría de Turismo.
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
 
 ###### Artículo 2.
 
-La Secretaría de Turismo y Desarrollo Artesanal tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Código Administrativo del Estado de México, así como otras leyes, reglamentos, acuerdos y órdenes que expida el Gobernador del Estado.
+La Secretaría de Turismo tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Código Administrativo del Estado de México, así como otras leyes, reglamentos, acuerdos y órdenes que expida el Gobernador del Estado.
 
-Cuando en este Reglamento se haga referencia a la Secretaría, se entenderá a la Secretaría de Turismo y Desarrollo Artesanal y Secretario, al Secretario de Turismo y Desarrollo Artesanal.
+Cuando en este Reglamento se haga referencia a la Secretaría, se entenderá a la Secretaría de Turismo y Secretario, al Secretario de Turismo.
 
 ###### Artículo 3.
 
@@ -93,9 +97,13 @@ VIII. Proponer al titular del Ejecutivo del Estado, a través de la Secretaría 
 
 IX. Suscribir acuerdos, convenios y contratos en las materias competencia de la Secretaría.
 
-X. Aprobar la organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia y someterla a la autorización de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-XI. Aprobar los anteproyectos de ingresos y presupuesto anual de egresos de la Secretaría, remitiéndolos a la Secretaría de Finanzas, Planeación y Administración para su revisión correspondiente, así como sancionar el de los organismos auxiliares bajo la coordinación de la Secretaría.
+X. Aprobar la organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia y someterla a la autorización de la Secretaría de Finanzas.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XI. Aprobar los anteproyectos de ingresos y presupuesto anual de egresos de la Secretaría, remitiéndolos a la Secretaría de Finanzas para su revisión correspondiente, así como sancionar el de los organismos auxiliares bajo la coordinación de la Secretaría.
 
 XII. Comparecer ante la Legislatura del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de México, para informar de la situación que guarda su ramo o sector correspondiente, o bien cuando se discuta una ley o se estudie un asunto relacionado con sus funciones.
 
@@ -103,7 +111,9 @@ XIII. Establecer normas, políticas, criterios, sistemas y procedimientos que ri
 
 XIV. Acordar con el Gobernador del Estado los nombramientos de los titulares de las unidades administrativas a su cargo.
 
-XV. Validar los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XV. Validar los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
 
 XVI. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas.
 
@@ -137,7 +147,9 @@ VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servid
 
 VIII. Colaborar con el Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector respecto a los organismos auxiliares sectorizados a la Secretaría.
 
-IX. Suscribir en el ámbito de su competencia y previo acuerdo del Secretario, acuerdos y convenios para el cumplimiento de los programas y atribuciones a su cargo.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+IX. Suscribir, en el ámbito de su competencia y previo acuerdo del Secretario, acuerdos y convenios para el cumplimiento de los programas y atribuciones a su cargo, así corno celebrar contratos en las materias que le corresponden.
 
 X. Coordinar sus actividades con las demás unidades administrativas de la Secretaría para el mejor cumplimiento de los programas, proyectos y acciones que le correspondan.
 
@@ -151,9 +163,13 @@ XII. Las demás que le confieren otras disposiciones legales y aquellas que le e
 
 Corresponde a la Dirección General de Turismo:
 
-I. Elaborar programas, estrategias y políticas para el desarrollo turístico y artesanal del Estado, llevar a cabo su ejecución y evaluar sus resultados.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-II. Promover con los sectores público, social y privado el desarrollo de la actividad turística y artesanal del Estado.
+I. Elaborar y ejecutar programas, estrategias y políticas para el desarrollo turístico del Estado y evaluar sus resultados.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+II. Promover el desarrollo de la actividad turística del Estado, en coordinación con los sectores público, social y privado.
 
 III. Impulsar la creación de consejos de fomento turístico regionales o municipales en aquellas zonas que presenten características para el desarrollo turístico.
 
@@ -161,11 +177,13 @@ IV. Fomentar la inversión en la ampliación, mejora y diversificación de la of
 
 V. Emitir las resoluciones y opiniones que correspondan, en el ámbito de su competencia.
 
-VI. Impulsar el desarrollo del Estado, mediante el uso racional y óptimo de los recursos turísticos y artesanales.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+VI. Impulsar el desarrollo del Estado, mediante el uso racional y óptimo de los recursos turísticos.
 
 VII. Llevar a cabo el cumplimiento de las funciones que en materia de turismo le sean asignadas al Gobierno del Estado por la autoridad federal o aquéllas derivadas de convenios o acuerdos suscritos en la materia.
 
-VIII. Promover la comercialización de las artesanías que se producen en el Estado.
+VIII. (DEROGADA, G.G. 28 DE MAYO DE 2007)
 
 IX. Vigilar la prestación de los servicios turísticos concesionados y, en su caso, proponer medidas para mejorar la calidad de su prestación.
 
@@ -177,15 +195,31 @@ XII. Identificar probables zonas turísticas en el Estado e impulsar, en su caso
 
 XIII. Implementar acciones para la atención, información y apoyo al turista en el Estado.
 
-XIV. Fomentar el turismo social conjuntamente con organismos vinculados con esta actividad, a fin de que un mayor número de personas tengan acceso a la actividad turística.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-XV. Promover en coordinación con los sectores público, social y privado, la investigación, capacitación y cultura turística y artesanal y llevar a cabo su divulgación.
+XIV. Fomentar el turismo para todos conjuntamente con organismos vinculados con esta actividad, a fin de que un mayor número de personas tengan acceso a la actividad turística.
 
-XVI. Organizar, coordinar y controlar eventos para difundir los atractivos turísticos del Estado, así como la comercialización de artesanías.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XV. Promover, en coordinación con los sectores público, privado y social, la investigación, capacitación y cultura turística y llevar a cabo su divulgación.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XVI. Organizar, coordinar y controlar eventos para difundir los atractivos turísticos del Estado.
 
 XVII. Asesorar y apoyar técnicamente a quien lo solicite en la explotación de bienes y servicios relacionados con el turismo.
 
-XVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XVIII. Desarrollar proyectos para la construcción, modernización, rehabilitación, ampliación y funcionamiento de la infraestructura de servicios turísticos.
+
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XIX. Establecer y desarrollar métodos y técnicas para la recopilación, procesamiento y producción de información estadística en materia turística.
+
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 10.
 
@@ -193,17 +227,25 @@ Corresponde a la Coordinación Administrativa:
 
 I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
 
-II. Coordinar la formulación e integración del anteproyecto de ingresos y del presupuesto anual de egresos de la Secretaría y presentarlos a la Secretaría de Finanzas, Planeación y Administración, así como realizar la calendarización de los recursos del presupuesto autorizado.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+II. Coordinar la formulación e integración del anteproyecto de ingresos y del presupuesto anual de egresos de la Secretaría y presentarlos a la Secretaría de Finanzas, así como realizar la calendarización de los recursos del presupuesto autorizado.
 
 III. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros.
 
-IV. Controlar y verificar la aplicación del presupuesto de las unidades administrativas de la Secretaría.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-V. Formular conjuntamente con las demás unidades administrativas los programas de trabajo de la Secretaría.
+IV. Verificar la aplicación del presupuesto de las unidades administrativas de la Secretaría.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+V. Formular, conjuntamente con las unidades administrativas de la Secretaría, el programa anual de trabajo de la dependencia.
 
 VI. Administrar los recursos derivados de los convenios suscritos con las dependencias federales y estatales, y los que correspondan ser ejercidos por la Secretaría, informando de ello a las instancias competentes.
 
-VII. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto de la Secretaría e informar al Secretario sobre el comportamiento del mismo.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+VII. Informar al Secretario, sobre el comportamiento y el ejercicio del gasto de la Secretaría.
 
 VIII. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría.
 
@@ -219,9 +261,17 @@ XIII. Supervisar el registro, mantenimiento y conservación de los bienes mueble
 
 XIV. Diseñar y proponer instrumentos técnico administrativos para mejorar la administración de los recursos asignados a la Secretaría.
 
-XV. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+XV. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XVI. Participar en el Comité Central de Adquisiciones y Servicios, en el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones, y en el Comité Interno de Obra Pública de la Secretaría, de conformidad con lo dispuesto por la normatividad en la materia.
+
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 11.
 
@@ -255,7 +305,9 @@ III. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendien
 
 IV. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos adscritos a la Secretaría, por probable responsabilidad administrativa.
 
-V. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades y Situación Patrimonial para su instrucción y resolución.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+
+V. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades para su instrucción y resolución.
 
 VI. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos de la Secretaría.
 
@@ -281,9 +333,11 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Director General. En las mayores de 15 días, por quien designe el Gobernador del Estado.
 
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
+
 ###### Artículo 15.
 
-El Director General y los jefes de unidad serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Secretario.
+El Director General, los Coordinadores y los Jefes de Unidad, serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Secretario.
 
 ###### Artículo 16.
 
@@ -310,3 +364,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 28 DE MAYO DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
