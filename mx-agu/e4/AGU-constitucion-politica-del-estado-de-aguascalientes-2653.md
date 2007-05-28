@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2005-04-04"
+last_updated: "2007-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -445,15 +445,19 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios;
+En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
 
-III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas.
+III.- Examinar, discutir, modificar y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas.
+
+Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios, que hayan sido previamente aprobados por el Pleno y que tengan por objeto crear infraestructura pública.
+
+La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
 
 IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
-Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos;
+Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -523,9 +527,15 @@ XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Con
 
 XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurador General de Justicia.
 
-XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del Artículo 55 de esta Constitución; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
 
-XXXIV.- Las demás que le concede esta Constitución y la General de la República.
+XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del artículo 55 de esta Constitución.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] P.O. 28 DE MAYO DE 2007)</small>
+
+XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su contratación y modificaciones a los Poderes del Estado y Municipios, quienes serán los únicos que podrán contratar dichos proyectos, aprobación que debe estar precedida de la presentación del proyecto de referencia, acompañado de la información técnica financiera detallada; así como del contrato que habrá de celebrarse, el proceso y términos de la licitación, la afectación patrimonial que se requiera, las cantidades máximas a pagar anualmente, así como el plazo máximo de duración del proyecto; y
+
+XXXV.- Las demás que le concede esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -725,9 +735,11 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
+II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias.
 
-III.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2007)</small>
+
+III.- Solicitar al Congreso la aprobación para realizar los Proyectos de Prestación de Servicios, su contratación y modificaciones de los que tengan por objeto crear infraestructura pública, así como de las partidas plurianuales para cubrir los gastos correspondientes a las obligaciones contraídas en dichos contratos, de conformidad a lo establecido en las fracciones III y XXXIV del artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de noviembre al 15 de diciembre, sobre el estado general que guarde la administración pública estatal.
 
@@ -1003,11 +1015,11 @@ De la Hacienda Pública.
 
 La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 ###### Artículo 64.
 
-No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
+No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por Ley posterior, salvo en el caso de las partidas de pago plurianuales aprobadas por el Congreso, en términos del Artículo 27 fracciones III y XXXIV de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1016,6 +1028,10 @@ No podrá hacerse pago alguno que no esté comprendido en el presupuesto o deter
 Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
 
 El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+
+Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1130,6 +1146,10 @@ El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisa
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
 
 Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+
+Los Municipios, con la autorización del Cabildo, podrán realizar Proyectos de Prestación de Servicios que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la aprobación, contratación o en su caso modificaciones de los mismos, así como de las partidas plurianuales correspondientes, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1309,11 +1329,11 @@ Cuando por circunstancias imprevistas no pudiere instalarse el Congreso, ni el G
 
 La ley que aumente las dietas de los Diputados no podrá tener efecto, sino después de concluído el período constitucional correspondiente.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 ###### Artículo 90.
 
-Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado que será abierto en junta pública.
+Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública; tratándose de proyectos de Prestación de Servicios además se deberá asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, así como la obtención de mayores beneficios en igualdad de inversión en comparación con las realización del proyecto a través de inversión presupuestaria. La adjudicación directa de Proyectos de Prestación de Servicios, en los casos de excepción que así determine la ley que regule dichos proyectos, deberá ser ratificada por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
@@ -1379,7 +1399,7 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JUNIO DE 1919.
 
@@ -1940,3 +1960,9 @@ P.O. 4 DE ABRIL DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
