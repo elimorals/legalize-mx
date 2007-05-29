@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2007-02-01"
+last_updated: "2007-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MAYO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -231,9 +231,11 @@ Para cubrir el gasto público y demás obligaciones a su cargo, el Estado y los 
 
 Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos correspondiente. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos o el Presupuesto de Egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE MAYO DE 2007)</small>
+
 ###### Artículo 9.
 
-Las contribuciones establecidas en este Código se clasifican en:
+Las contribuciones se clasifican en impuestos, derechos, aportaciones de mejoras, y aportaciones y cuotas de seguridad social, las que se definen de la manera siguiente:
 
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -246,6 +248,10 @@ II. Derechos. Son las contraprestaciones establecidas en este Código, que deben
 > <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y jurídicas colectivas, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; así como las que efectúen las personas a favor del Estado para la realización de obras de impacto vial regional, que directa o indirectamente les beneficien.
+
+> <small>(ADICIONADA, G.G. 29 DE MAYO DE 2007)</small>
+
+IV. Aportaciones y cuotas de Seguridad Social. Son las contribuciones que las instituciones públicas y sus servidores públicos, respectivamente, están obligados a cubrir en los términos de la ley en materia de seguridad social en el Estado.
 
 ###### Artículo 10.
 
@@ -598,6 +604,10 @@ El saldo que se utilizará para el cálculo de las parcialidades, será el que r
 Tratándose del pago diferido, el monto a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
 
 No procederá la autorización del pago ya sea diferido o en parcialidades, cuando el crédito determinado a cargo de los contribuyentes derive de contribuciones retenidas o recaudadas, así como las responsabilidades administrativas resarcitorias.
+
+> <small>(ADICIONADO, G.G. 29 DE MAYO DE 2007)</small>
+
+Las cuotas y aportaciones que deban enterarse al Instituto de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, y que hayan sido omitidas, así como sus accesorios, deberán cubrirse, en un plazo que no exceda de veinticuatro meses tratándose del pago en parcialidades, ni de doce meses en caso de pago diferido, y en ningún caso podrá rebasar el término del periodo constitucional correspondiente.
 
 ###### Artículo 33.
 
@@ -2307,7 +2317,7 @@ Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada.
 
 La división de hipoteca pagará una cantidad equivalente a $1,082.
 
-> <small>(REFORMADO PRIMAR PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, el pago de los derechos se hará conforme a la siguiente:
 
@@ -2343,7 +2353,7 @@ III. Por la inscripción de actos o documentos cuyo registro sea necesario como 
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple o sociedades financieras de objeto limitado cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del articulo 3 de este Código para cada tipo de vivienda.
+Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple o sociedades financieras de objeto limitado cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3415,11 +3425,15 @@ B). Por duplicado de certificado:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-1. Educación Media Superior $118.
+1. Educación Básica $68.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
-2. Educación Superior $168.
+2. Educación Media Superior $118.
+
+(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+
+3. Educación Superior $168.
 
 XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
@@ -3478,6 +3492,12 @@ ejercicio profesional. $759.
 XV. Por expedición de duplicado de cédula de
 
 pasante en el ejercicio profesional. $379.
+
+(ACTUALIZADA EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
+
+XV. Por expedición de duplicado de cédula de
+
+pasante en el ejercicio profesional $372.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3546,10 +3566,6 @@ antecedentes profesionales. $50.
 Por los servicios prestados por el Organismo Público Descentralizado denominado Servicios Educativos Integrados al Estado de México, se pagarán derechos conforme a la siguiente:
 
 CONCEPTO TARIFA
-
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
 
@@ -4889,17 +4905,17 @@ diversas, por cada corralón $5,230.
 
 D). Los servicios conexos:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-1. Terminales de pasaje $4,953.
+1. Terminales de pasaje $4,856.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-2. Bahías de ascenso y descenso $1,734.
+2. Bahías de ascenso y descenso $1,700.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 30 DE DICIEMBRE DE 2006)
+(ACTUALIZADO EN SU CANTIDAD, G.G. 30 DE JUNIO DE 2006)
 
-3. Cobertizos $1,486.
+3. Cobertizos $1,457.
 
 4. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
@@ -12477,10 +12493,6 @@ Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
 
-G.G. 1 DE JULIO DE 2004.
-
-PRIMERO.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
-
 G.G. 22 DE DICIEMBRE DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
@@ -12492,6 +12504,10 @@ TERCERO.- El Comité de Control y Vigilancia de las Aportaciones para Obras de I
 La cantidad a que refiere el presente artículo transitorio, una vez integrada al fideicomiso por la Secretaría de Finanzas, Planeación y Administración en un plazo no mayor a 60 días naturales contados a partir de que sea notificada del monto respectivo por parte del Comité se aplicará de manera proporcional entre los municipio de la entidad en que se haya generado alguna aportación para obras de impacto vial, para el trámite y aplicación correspondiente.
 
 El Comité vigilará que la Secretaría de Comunicaciones y los municipios involucrados, firmen los convenios relativos a las aportaciones de impacto vial cubiertas en 2004, para acordar las obras que se deberán llevar a cabo en la zona de impacto vial respectiva.
+
+G.G. 1 DE JULIO DE 2004.
+
+PRIMERO.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
 
 G.G. 31 DE DICIEMBRE DE 2004.
 
@@ -12634,3 +12650,25 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- La adición al Código Financiero del Estado de México y Municipios, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
+
+G.G. 29 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las Instituciones que presenten adeudos en materia de cuotas y aportaciones que están obligadas a enterar al Instituto de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, que dentro de los tres meses siguientes a la entrada en vigor de este decreto, firmen el convenio de pago en parcialidades correspondientes, podrán hacerlo hasta por sesenta meses sin que les aplique lo dispuesto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les condonará el 100% de los recargos y multas que en su caso se hubiesen generado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios que convengan con el ISSEMYN el pago de los adeudos por cuotas y aportaciones de administraciones municipales anteriores, y estén al corriente en los pagos por el mismo concepto correspondientes al período constitucional 2006-2009, deberán recibir los recursos del Programa de Apoyo para el Gasto de Inversión Municipal (PAGIM) que les corresponda de acuerdo al Presupuesto del Gobierno del Estado de México para el Ejercicio Fiscal 2007.
+
+###### ARTÍCULO TERCERO.
+
+El incumplimiento por parte de las instituciones firmantes a los términos y condiciones de los convenios a que se refiere el Artículo Primero Transitorio del presente Decreto, dará lugar a la exigibilidad del total del saldo pendiente de amortizar conjuntamente con los accesorios legales respectivos.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO QUINTO.
+
+Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
