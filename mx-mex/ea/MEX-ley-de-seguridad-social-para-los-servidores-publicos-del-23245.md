@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2002-01-03"
+last_updated: "2007-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO : 29 DE MAYO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -489,11 +489,17 @@ V. Las que se generen a cargo de las Instituciones públicas por concepto de rie
 
 Las instituciones públicas deberán enterar al Instituto el importe de las cuotas retenidas quincenalmente a los servidores públicos, así como el de las aportaciones que les correspondan, dentro de los cinco días siguientes al de la fecha en que efectúen la retención. En el mismo plazo, deberán enterar el importe de los descuentos que por créditos u otros conceptos que ordene el propio Instituto, en cumplimiento de lo dispuesto por esta ley.
 
+> <small>(ADICIONADO, G.G. 29 DE MAYO DE 2007)</small>
+
+El entero de cuotas y aportaciones que los ayuntamientos convengan a través de descuento de las participaciones federales que les correspondan, se realizará de forma mensual.
+
 ###### ARTICULO 36.
 
 Las cuotas y aportaciones obligatoria tienen el carácter fiscal.
 
-El Instituto tiene atribuciones para determinar los créditos fiscales y las bases de su liquidación, así como para fijarlos en cantidad líquida y percibirlos de conformidad con la presente ley.
+> <small>(REFORMADO, G.G. 29 DE MAYO DE 2007)</small>
+
+El Instituto tiene atribuciones para determinar los créditos fiscales y las bases de su liquidación, así como para fijarlos en cantidad líquida, notificarlos y percibirlos de conformidad con la presente ley.
 
 El cobro de créditos fiscales a favor del Instituto, se aplicará a través de la Secretaría de Finanzas y Planeación, en términos de lo que señala el Código de Procedimientos Administrativos del Estado de México y Municipios.
 
@@ -1558,3 +1564,27 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 29 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las Instituciones que presenten adeudos en materia de cuotas y aportaciones que están obligadas a enterar al Instituto de Seguridad Social para los Servidores Públicos del Estado de México y Municipios, que dentro de los tres meses siguientes a la entrada en vigor de este decreto, firmen el convenio de pago en parcialidades correspondientes, podrán hacerlo hasta por sesenta meses sin que les aplique lo dispuesto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les condonará el 100% de los recargos y multas que en su caso se hubiesen generado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios que convengan con el ISSEMYN el pago de los adeudos por cuotas y aportaciones de administraciones municipales anteriores, y estén al corriente en los pagos por el mismo concepto correspondientes al período constitucional 2006-2009, deberán recibir los recursos del Programa de Apoyo para el Gasto de Inversión Municipal (PAGIM) que les corresponda de acuerdo al Presupuesto del Gobierno del Estado de México para el Ejercicio Fiscal 2007.
+
+###### ARTÍCULO TERCERO.
+
+El incumplimiento por parte de las instituciones firmantes a los términos y condiciones de los convenios a que se refiere el Artículo Primero Transitorio del presente Decreto, dará lugar a la exigibilidad del total del saldo pendiente de amortizar conjuntamente con los accesorios legales respectivos.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO QUINTO.
+
+Este decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
