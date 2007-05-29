@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-servicio-policial-de-carrera-del-estado-de-16871
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-08"
-last_updated: "1999-10-08"
+last_updated: "2007-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "COA"
 # REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE COAHUILA
 
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE COAHUILA
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 8 de octubre de 1999.
 
@@ -315,7 +317,9 @@ En los términos de lo dispuesto por las leyes aplicables, los integrantes de lo
 
 Los salarios serán estipulados mediante el tabulador específico para el Servicio Policial de Carrera que para tal efecto proporcione la Secretaría de Finanzas.
 
-Los grados en la escala jerárquica policial serán siete con cinco promociones salariales cada uno a partir del segundo grado, quedando su determinación a cargo de los reglamentos de las corporaciones de seguridad pública y del Comité Estatal de Admisión, Evaluación y Disciplina su homologación.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2007)</small>
+
+Los grados en la escala jerárquica policial serán ocho con las promociones salariales establecidas en dicho tabulador, quedando su determinación a cargo de los reglamentos de las corporaciones de seguridad pública y del Comité Estatal de Admisión, Evaluación y Disciplina su homologación.
 
 Los cuatro primeros niveles administrativos o de mando de dichas corporaciones serán profesionalizados y solamente podrán desempeñarlos policías de carrera.
 
@@ -486,3 +490,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIÉN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MAYO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
