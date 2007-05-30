@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-sentencia-suspendida-y-libertad-con-sujecion-a-4671"
 country: "mx"
 rank: "ley"
 publication_date: "1991-11-04"
-last_updated: "1991-11-04"
+last_updated: "2007-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE SENTENCIA SUSPENDIDA Y LIBERTAD CON SUJECION A PROCESO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 4 de noviembre de 1991.
 
@@ -128,3 +130,37 @@ DADA EN EL SALON DE SESIONES DEL PALACIO DEL H. PODER LEGISLATIVO DEL ESTADO, EN
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO LA PRESENTE LEY EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS CUATRO DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y UNO.
 
 LIC. PATROCINIO GONZALEZ BLANCO GARRIDO.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN LARA DOMINGUEZ.- SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE MAYO DE 2007.
+
+Artículo Primero: El presente Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas, entrará en vigor a los sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: A partir de la entrada en vigor del presente decreto, se abrogan la Ley de Normas Mínimas sobre Readaptación Social de Sentenciados del Estado, publicada en el Periódico Oficial del Estado de fecha 12 de julio de 1978 y, la Ley de Sentencia Suspendida y Libertad con Sujeción a Proceso, publicada en el Periódico Oficial del Estado de fecha 04 de julio de 1978, la Ley de Sentencia Suspendida y Libertad con Sujeción a Proceso, publicada en el Periódico Oficial del Estado de fecha 04 de noviembre de 1991, la Ley de Libertad con Sentencia Suspendida, publicada en el Periódico Oficial del Estado de fecha 04 de febrero de 1994, así también se abrogan las demás disposiciones legales de igual o menor jerarquía que contravengan a este Código.
+
+Artículo Tercero: Los internos que se encuentren sentenciados, y en cuya sentencia ejecutoriada no establezca el trabajo como parte del tratamiento para su reinserción social, podrán voluntariamente incorporarse al programa de trabajo a que hace referencia el Título V, Capítulo VIII, de este Código.
+
+Artículo Cuarto: El Poder Ejecutivo, realizará la transferencia o reasignación de las funciones públicas, en las Unidades Administrativas que orgánicamente ejercen tareas propias en materia penitenciaria, para ser asignadas a los órganos creados en el presente Código, autorizándolo a la vez, para hacer las transferencias presupuéstales que resulten necesarias.
+
+Artículo Quinto: En atención a lo establecido en el Título Segundo, Capítulo I, Sección Primera del presente Decreto, referente a las atribuciones y funciones de la Junta, ésta contará con un término de un año a partir de la instalación de la Junta, para cumplimentar las disposiciones de referencia.
+
+Artículo Sexto: La Junta deberá expedir los reglamentos respectivos, en un plazo no mayor de noventa días a partir de la instalación del Consejo.
+
+Artículo Séptimo: Las sentencias que emita el Poder Judicial del Estado, deberán ajustarse a las disposiciones del presente Código.
+
+Artículo Octavo: Las autoridades responsables de la construcción de los Centros de Reinserción Social Comunitarios, contarán con tres años a partir de la publicación de este Código, para su construcción y equipamiento; en tanto, la compurgación de penas por indígenas sentenciados, continuará en los Centros de Readaptación Social establecidos, creando, de ser posible, un área especial para la población indígena.
+
+Artículo Noveno: Se extingue la Coordinación de Centros de Readaptación Social, y sus recursos presupuéstales, materiales y humanos, pasarán a formar parte del Consejo de Ejecución de Sanciones Penales, una vez que se haya instalado la Junta.
+
+Las adecuaciones administrativas y presupuéstales que se den con motivo de la creación del órgano descentralizado, deberán sujetarse a los principios de racionalidad y austeridad establecidos por las Secretarías de Finanzas y Administración.
+
+Artículo Décimo: Todas las solicitudes de libertad condicional, conmutación, modificación de sanciones o cualquiera otra que se encuentren pendientes de resolución, al entrar en vigor el presente Código, se resolverán en lo procedente, de acuerdo a éste, en lo que beneficie al interno.
+
+Artículo Décimo Primero: El Consejo, contará con dos años a partir de la publicación del presente Código, para celebrar los convenios con el sector privado empresarial, con el objeto de crear empresas productivas, para el trabajo como tratamiento de reinserción social y para la construcción de los espacios destinados para este fin.
+
+Artículo Décimo Segundo: La Junta, deberá quedar instalada en un plazo no mayor de sesenta días, contados a partir de la entrada en vigor del presente Código.
+
+Artículo Décimo Tercero: Una vez nombrado el Secretario Ejecutivo, se iniciará el proceso de transferencia de recursos para que en un plazo no mayor a sesenta días, a partir del nombramiento respectivo, inicien formalmente y en su totalidad las funciones del Consejo.
+
+Artículo Décimo Cuarto: En tanto quede instalado (sic) formalmente la Junta del Consejo, conforme al artículo transitorio inmediato anterior, se seguirá aplicando la normatividad que rige el sistema penitenciario chiapaneco.
