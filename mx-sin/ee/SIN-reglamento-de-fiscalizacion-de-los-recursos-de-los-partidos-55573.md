@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-555
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-16"
-last_updated: "2007-05-16"
+last_updated: "2007-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,15 @@ state: "SIN"
 
 REGLAMENTO DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN ELPERIODICO OFICIAL: 30 DE MAYO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 16 de mayo de 2007.
 
-REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS.
+REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLITICOS.
 
 PRIMERA PARTE. LINEAMIENTOS
 
-## TÍTULO I. DEL REGISTRO DE LOS INGRESOS Y EGRESOS DE LOS PARTIDOS POLÍTICOS.
+## TÍTULO I. DEL REGISTRO DE LOS INGRESOS Y EGRESOS DE LOS PARTIDOS POLITICOS.
 
 ### CAPÍTULO I. DE LOS INGRESOS. ARTÍCULO 1 OBJETO, GLOSARIO, REGISTRO DE INGRESOS, CUENTAS BANCARIAS Y GENERALIDADES
 
@@ -93,6 +93,14 @@ r) Salario mínimo: Salario mínimo general diario vigente en el Estado de Sinal
 
 1.11 Junto con los informes anuales, los partidos deberán presentar los estados de cuenta que muestren, en su caso, los ingresos obtenidos y los gastos efectuados por intereses y comisiones. En todo caso, la Comisión podrá solicitar dicha documentación a los partidos cuando lo considere conveniente.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2007)</small>
+
+1.12 El límite de las aportaciones que los Aspirantes a Candidatos realicen para sus precampañas será el monto que el Consejo Estatal Electoral haya fijado como tope de gasto de la precampaña correspondiente, o bien, la diferencia que surja entre el tope mencionado y las aportaciones recibidas de personas físicas o morales en los términos de la fracción I del párrafo sexto del artículo 117 Bis B de la ley y de la fracción I del artículo 13 del Reglamento de Precampañas.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2007)</small>
+
+1.13 En todo caso, los límites a las aportaciones a que hace referencia el artículo anterior, no deberá rebasar el monto máximo que libremente haya determinado el partido correspondiente como límite para las aportaciones de sus militantes, o el límite establecido en el párrafo cuarto del apartado C del artículo 45 de la Ley Electoral del Estado de Sinaloa, según sea el caso, cumpliendo además con lo estipulado en los artículos 1.8 y 1.9 del presente Reglamento.
+
 ARTÍCULO 2 DE LOS INGRESOS EN ESPECIE Y SUS GENERALIDADES
 
 2.1. Los registros contables de los partidos deben separar en forma clara los ingresos que tengan en especie, de aquellos que reciban en efectivo.
@@ -151,11 +159,11 @@ ARTÍCULO 3 FINANCIAMIENTO DE LA MILITANCIA
 
 3.6. Los recibos se imprimirán según el formato “RM-EF” para aportaciones en efectivo y “RM-ES” para aportaciones en especie. La numeración de los folios se hará conforme a diecinueve series distintas, una para las aportaciones que reciba el Comité Directivo Estatal u órgano equivalente del partido que será “RM-EF(PARTIDO)-CDE-(NÚMERO)” y “RM-ES(PARTIDO)-CDE- (NÚMERO)” y, una para las aportaciones que reciban los órganos de partido en cada municipio del Estado, que será “RM-EF(PARTIDO)-(MUNICIPIO)-(NÚMERO)” y “RM-ES(PARTIDO)- (MUNICIPIO)-(NÚMERO)”. Cada recibo foliado se imprimirá en original y dos copias.
 
-3.7. Las aportaciones en efectivo que los militantes realicen para las precampañas deberán estar soportados (sic) mediante recibos que se identificarán como RMEF-PREC. La numeración de los folios se hará conforme a diecinueve series distintas, una para las aportaciones que reciban los aspirantes a candidatos a Gobernador del Estado la cual se identificara como RMEF-PREC-GOB y una por cada municipio para las que reciban los aspirantes a candidatos a los diferentes cargos de elección popular de cada uno de los municipios, identificándolas como RMEF-PREC- (MUNICIPIO). Las aportaciones que realicen las personas físicas o morales para las precampañas tendrán como limite el equivalente a trescientas veces el salario mínimo general vigente en la entidad y deberán cumplir con lo establecido en los artículos 1.8 y 1.9 del presente reglamento.
+3.7. Las aportaciones en efectivo que los militantes realicen para las precampañas deberán estar soportados mediante recibos que se identificarán como RMEF-PREC. La numeración de los folios se hará conforme a diecinueve series distintas, una para las aportaciones que reciban los aspirantes a candidatos a Gobernador del Estado la cual se identificara como RMEF-PREC-GOB y una por cada municipio para las que reciban los aspirantes a candidatos a los diferentes cargos de elección popular de cada uno de los municipios, identificándolas como RMEF-PREC- (MUNICIPIO). Las aportaciones que realicen las personas físicas o morales para las precampañas tendrán como limite el equivalente a trescientas veces el salario mínimo general vigente en la entidad y deberán cumplir con lo establecido en los artículos 1.8 y 1.9 del presente reglamento.
 
-3.8. Las aportaciones en especie realizadas en forma directa a alguna de las campañas locales por los militantes y organizaciones sociales del partido, así como las cuotas voluntarias en efectivo que realicen los candidatos a su campaña, deberán estar sustentados (sic) con recibos foliados que se imprimirán según el formato “RM-CL”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus candidatos en campañas locales, que será “RM-CL-(PARTIDO)-CDE-(NÚMERO)”, y una para los recibos que sean distribuidos por los órganos del partido en cada municipio, que será “RM-CL-(PARTIDO)-(MUNICIPIO)-(NÚMERO)”, cada recibo se imprimirá en original y dos copias. Los recibos pendientes de utilizar al fin de las campañas sólo podrán ser utilizados en caso de celebrarse elecciones extraordinarias. Una vez concluido el proceso electoral correspondiente todos los recibos no utilizados deberán ser cancelados.
+3.8. Las aportaciones en especie realizadas en forma directa a alguna de las campañas locales por los militantes y organizaciones sociales del partido, así como las cuotas voluntarias en efectivo que realicen los candidatos a su campaña, deberán estar sustentados con recibos foliados que se imprimirán según el formato “RM-CL”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus candidatos en campañas locales, que será “RMCL-(PARTIDO)-CDE-(NÚMERO)”, y una para los recibos que sean distribuidos por los órganos del partido en cada municipio, que será “RM-CL-(PARTIDO)-(MUNICIPIO)-(NÚMERO)”, cada recibo se imprimirá en original y dos copias. Los recibos pendientes de utilizar al fin de las campañas sólo podrán ser utilizados en caso de celebrarse elecciones extraordinarias. Una vez concluido el proceso electoral correspondiente todos los recibos no utilizados deberán ser cancelados.
 
-3.9. Las aportaciones en especie realizadas en forma directa a alguna de las precampañas por los militantes u organizaciones adherentes del partido, así como las cuotas voluntarias en efectivo que realicen los aspirantes a candidatos a cargos de elección popular para sus respectivas precampañas, deberán estar sustentados (sic) en recibos foliados que se imprimirán según el formato “RM-PREC”, la numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus aspirantes a candidato a Gobernador del Estado que será “RM-PREC-(PARTIDO)- (NÚMERO), y una para los recibos que sean distribuidos por los órganos del partido en cada municipio y que será “RM-PREC-(PARTIDO)-(MUNICIPIO)-(NÚMERO) Cada recibo se imprimirá en original y dos copias. En caso de que algún partido no realice actos de precampaña en alguno de los municipios, podrá ordenar la impresión de los recibos antes mencionados solo para aquellos municipios donde vaya a realizar precampañas.
+3.9. Las aportaciones en especie realizadas en forma directa a alguna de las precampañas por los militantes u organizaciones adherentes del partido, así como las cuotas voluntarias en efectivo que realicen los aspirantes a candidatos a cargos de elección popular para sus respectivas precampañas, deberán estar sustentados en recibos foliados que se imprimirán según el formato “RM-PREC”, la numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus aspirantes a candidato a Gobernador del Estado que será “RM-PREC-(PARTIDO)- (NÚMERO), y una para los recibos que sean distribuidos por los órganos del partido en cada municipio y que será “RM-PREC-(PARTIDO)-(MUNICIPIO)-(NÚMERO). Cada recibo se imprimirá en original y dos copias. En caso de que algún partido no realice actos de precampaña en alguno de los municipios, podrá ordenar la impresión de los recibos antes mencionados solo para aquellos municipios donde vaya a realizar precampañas.
 
 3.10. Los recibos deberán expedirse en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será remitida al órgano de finanzas del partido, que deberá anexar dicha copia a la póliza de ingresos correspondiente; y otra copia permanecerá en poder del comité estatal o municipal u órgano equivalente del partido que haya recibido la aportación, en su caso. Los recibos deberán contener todos y cada uno de los datos señalados en el formato correspondiente y deberán ser llenados de manera que los datos resulten legibles en todas las copias.
 
@@ -183,7 +191,7 @@ ARTÍCULO 4 FINANCIAMIENTO DE SIMPATIZANTES
 
 4.8. Las aportaciones en especie realizadas en forma directa a alguna de las campañas locales por los simpatizantes, deberán estar sustentadas con recibos foliados que se imprimirán según el formato “RSES-CL”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus candidatos en campañas locales, que serán “RSES-CL-(PARTIDO)-CDE- (NÚMERO)”, y una para los recibos que sean distribuidos por los órganos del partido en cada municipio, que será “RSES-CL-(PARTIDO)-(MUNICIPIO)-(NÚMERO)”, cada recibo se imprimirá en original y dos copias. Los recibos pendientes de utilizar al fin de las campañas sólo podrán ser utilizados en caso de celebrarse elecciones extraordinarias. Una vez concluido el proceso electoral correspondiente todos los recibos no utilizados deberán ser cancelados.
 
-4.9. Las aportaciones en especie realizadas en forma directa a alguna de las precampañas por los simpatizantes del partido, deberán estar sustentadas con recibos foliados que se imprimirán según el formato “RSES-PREC”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus aspirantes a candidato a Gobernador del Estado que será “RSES-PREC-(PARTIDO)-(NÚMERO), y una para los recibos que sean distribuidos por los órganos del partido en cada municipio y que será “RSES-PREC-(PARTIDO)-(MUNICIPIO)-(NÚMERO). Cada recibo se imprimirá en original y dos copias. En caso de que algún partido no realice actos de precampaña en alguno de los municipios, podrá ordenar la impresión de los recibos antes mencionados solo para aquellos municipios donde vaya a realizar precampañas. (sic)
+4.9. Las aportaciones en especie realizadas en forma directa a alguna de las precampañas por los simpatizantes del partido, deberán estar sustentadas con recibos foliados que se imprimirán según el formato “RSES-PREC”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los recibos que sean distribuidos por el Comité Directivo Estatal u órgano equivalente del partido a sus aspirantes a candidato a Gobernador del Estado que será “RSES-PREC-(PARTIDO)-(NÚMERO), y una para los recibos que sean distribuidos por los órganos del partido en cada municipio y que será “RSES-PREC-(PARTIDO)-(MUNICIPIO)-(NÚMERO). Cada recibo se imprimirá en original y dos copias. En caso de que algún partido no realice actos de precampaña en alguno de los municipios, podrá ordenar la impresión de los recibos antes mencionados solo para aquellos municipios donde vaya a realizar precampañas.
 
 4.10. Los recibos deberán expedirse en forma consecutiva. El original deberá entregarse a la persona física o moral que efectúa la aportación; una copia será remitida al órgano de finanzas del partido, que deberá anexar dicha copia a la póliza de ingresos correspondiente; y otra copia permanecerá en poder del comité estatal o municipal u órgano equivalente del partido que haya recibido la aportación, en su caso. Los recibos deberán contener todos y cada uno de los datos señalados en el formato correspondiente y deberán ser llenados de manera que los datos resulten legibles en todas las copias.
 
@@ -291,7 +299,7 @@ IV. La Comisión podrá solicitar al órgano de finanzas del partido la entrega 
 
 ARTÍCULO 10 TRANSFERENCIAS DE RECURSOS FEDERALES A CAMPAÑAS LOCALES
 
-10.1. Los partidos sólo podrán realizar erogaciones en campañas electorales locales con recursos federales si éstos provienen de alguna cuenta CBCEN, si tales recursos son transferidos a cuentas bancarias destinadas expresamente a la realización de erogaciones en campañas electorales locales con recursos federales y se identificaran como “CBCL-(PARTIDO)-(CAMPAÑA LOCAL)-(MUNICIPIO). A tales cuentas sólo podrán ingresar las transferencias mencionadas. Dichas transferencias solamente podrán realizarse durante las campañas electorales locales correspondientes, o bien hasta con quince días de antelación a su inicio o hasta quince días de su conclusión. (sic)
+10.1. Los partidos sólo podrán realizar erogaciones en campañas electorales locales con recursos federales si éstos provienen de alguna cuenta CBCEN, si tales recursos son transferidos a cuentas bancarias destinadas expresamente a la realización de erogaciones en campañas electorales locales con recursos federales y se identificaran como “CBCL-(PARTIDO)-(CAMPAÑA LOCAL)-(MUNICIPIO). A tales cuentas sólo podrán ingresar las transferencias mencionadas. Dichas transferencias solamente podrán realizarse durante las campañas electorales locales correspondientes, o bien hasta con quince días de antelación a su inicio o hasta quince días de su conclusión.
 
 10.2. Si un partido lo desea podrá solicitar por escrito la ampliación de los plazos a que se refiere el párrafo anterior, al Consejo, quien resolverá, fundada y motivadamente, sobre la petición. La solicitud de ampliación de tales plazos debe hacerse antes del vencimiento del plazo correspondiente.
 
@@ -343,9 +351,9 @@ RURAL 30%
 
 11.9 En caso que un comprobante rebase la cantidad equivalente al límite establecido en el artículo 11.7 y el pago se realice en parcialidades, éstas deberán ser cubiertas mediante cheque nominativo en los términos de dicho artículo a partir del monto por el que se exceda el límite referido. Las pólizas-cheque deberán conservarse anexas a la documentación comprobatoria.
 
-11.10 Se exceptúan de lo dispuesto en los artículos 11.7 a 11.9 los pagos correspondientes a sueldos y salarios contenidos en nomina.
+1.10 Se exceptúan de lo dispuesto en los artículos 11.7 a 11.9 los pagos correspondientes a sueldos y salarios contenidos en nomina.
 
-11.11 Los partidos podrán realizar gastos fuera del territorio estatal por concepto de comisiones otorgadas a sus dirigentes o militantes para el desarrollo de sus actividades ordinarias, siempre y cuando la entidad federativa a donde se comisione, no esté en periodo de procesos electorales, en los que no se podrá realizar ningún tipo de erogación. Para comprobar estos gastos se formará un expediente por cada viaje que realice cada persona comisionada por el partido, al cual se agregarán:
+1.11 Los partidos podrán realizar gastos fuera del territorio estatal por concepto de comisiones otorgadas a sus dirigentes o militantes para el desarrollo de sus actividades ordinarias, siempre y cuando la entidad federativa a donde se comisione, no esté en periodo de procesos electorales, en los que no se podrá realizar ningún tipo de erogación. Para comprobar estos gastos se formará un expediente por cada viaje que realice cada persona comisionada por el partido, al cual se agregarán:
 
 a) Los comprobantes de gastos, debidamente referenciados;
 
@@ -357,11 +365,11 @@ d) Evidencias que justifiquen razonablemente el objeto partidista del viaje.
 
 11.12 Los comprobantes de los gastos efectuados en promocionales en radio y televisión cuyo contenido sea distinto a lo establecido en el artículo 23.6 del presente Reglamento, deberán incluir, en hojas membretadas de la empresa que se anexen a cada factura, los pautados y sus modificaciones, así como la relación de cada uno de los promocionales que ampara la factura y el período en el que se trasmitieron. En las hojas membretadas deberá incluirse el valor unitario de todos y cada uno de los promocionales con el impuesto al valor agregado correspondiente. El importe y número total de promocionales detallados en las hojas membretadas deberá coincidir con el valor y número de promocionales que ampara la factura respectiva. Adicionalmente, en la hoja membretada deberán incluir los datos a que hace referencia el inciso f del artículo 16.1 del presente Reglamento, con excepción del nombre del aspirante a candidato o candidato y precampaña o campaña beneficiada.
 
-11.13 Los comprobantes de los gastos efectuados en anuncios espectaculares en la vía pública, cuyo contenido sea distinto a lo establecido en el artículo 23.6 del presente Reglamento, deberán incluir, en hojas membretadas de la empresa que se anexen a cada factura, una relación de cada uno de los anuncios espectaculares que ampara la factura y el período en el que permanecieron en la vía pública. En las hojas membretadas deberá incluirse el valor unitario de todos y cada uno de los anuncios espectaculares. El importe y el número total de los anuncios espectaculares detallados en las hojas membretadas deberán coincidir con el valor y el número de éstos que ampara la factura respectiva. Adicionalmente, deberán cumplir las disposiciones establecidas en el artículo 12.9 del presente Reglamento, salvo lo relativo a la mención del nombre del aspirante a candidato o candidato que aparece en cada espectacular; (sic)
+11.13 Los comprobantes de los gastos efectuados en anuncios espectaculares en la vía pública, cuyo contenido sea distinto a lo establecido en el artículo 23.6 del presente Reglamento, deberán incluir, en hojas membretadas de la empresa que se anexen a cada factura, una relación de cada uno de los anuncios espectaculares que ampara la factura y el período en el que permanecieron en la vía pública. En las hojas membretadas deberá incluirse el valor unitario de todos y cada uno de los anuncios espectaculares. El importe y el número total de los anuncios espectaculares detallados en las hojas membretadas deberán coincidir con el valor y el número de éstos que ampara la factura respectiva. Adicionalmente, deberán cumplir las disposiciones establecidas en el artículo 12.9 del presente Reglamento, salvo lo relativo a la mención del nombre del aspirante a candidato o candidato que aparece en cada espectacular;
 
 11.14 Los partidos políticos podrán realizar pagos a través de transferencia electrónica interbancaria en la que se utilice la clave bancaria estandarizada (CLABE), cuyos comprobantes impresos emitidos por quien les este prestando el servicio, deberán incluir la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen la cual deberá ser alguna de las cuentas bancarias CDE o CDM o bien alguna cuenta de campaña, referidas en este Reglamento, banco de origen, fecha, nombre del partido y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino, y en el rubro denominado “leyenda”, se deberá anotar el motivo de pago, referencia u otro similar, que tenga por objeto identificar el destino de los fondos transferidos, debiéndose registrar en la póliza de egresos correspondiente anexando copia del estado de cuenta donde aparezca registrada la transferencia y la comprobación original que ampare el egreso registrado.
 
-11.15 Cuando se trate de gastos ejercidos por los partidos políticos relacionados con vehículos en comodato, sean de combustible, reparación o mantenimiento del mismo, deberá anotar en las facturas correspondientes el tipo de vehículo, modelo, número de placa, nombre y firma de quien autoriza el gasto, así como nombre y firma del comodante.
+11.15 Cuando se trate de gastos ejercidos por los partidos políticos relacionados con vehículos en comodato, sean de combustible, reparación o mantenimiento del mismo, deberá anotar en las 16 facturas correspondientes el tipo de vehículo, modelo, número de placa, nombre y firma de quien autoriza el gasto, así como nombre y firma del comodante.
 
 11.16 En ningún caso y por ninguna circunstancia los partidos utilizarán recursos obtenidos en el Estado de Sinaloa, provenientes del financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de campaña en otras entidades federativas o en el extranjero.
 
@@ -369,9 +377,9 @@ ARTÍCULO 12 GASTOS DE CAMPAÑA
 
 12.1 Para el manejo de los egresos que se efectúen en las campañas políticas para gobernador del estado, cada partido deberá abrir una cuenta bancaria única para su campaña, la cual se identificará como “CBGES-(PARTIDO)”. Deberá respetarse lo dispuesto por los artículos 11.7, 11.8 y 11.9 del presente Reglamento.
 
-12.2 Para el manejo de los egresos que se efectúen en las campañas políticas para presidentes municipales, cada partido deberá abrir una cuenta bancaria única para cada campaña, la cual se identificará como “CBPMUN-(PARTIDO)-(MUNICIPIO). En todo caso, deberá respetarse lo dispuesto en los artículos 11.7, 11.8 y 11.9 del presente Reglamento. (sic)
+12.2 Para el manejo de los egresos que se efectúen en las campañas políticas para presidentes municipales, cada partido deberá abrir una cuenta bancaria única para cada campaña, la cual se identificará como “CBPMUN-(PARTIDO)-(MUNICIPIO). En todo caso, deberá respetarse lo dispuesto en los artículos 11.7, 11.8 y 11.9 del presente Reglamento.
 
-12.3 En el caso de las campañas políticas para diputados locales, los partidos deberán abrir cuentas bancarias para efectuar sus erogaciones, estas cuentas se identificarán como “CBDMR- (PARTIDO)-(DISTRITO)-(MUNICIPIO). En todo caso, deberá respetarse lo dispuesto en los artículos 11.7, 11.8 y 11.9 del presente Reglamento. (sic)
+12.3 En el caso de las campañas políticas para diputados locales, los partidos deberán abrir cuentas bancarias para efectuar sus erogaciones, estas cuentas se identificarán como “CBDMR- (PARTIDO)-(DISTRITO)-(MUNICIPIO). En todo caso, deberá respetarse lo dispuesto en los artículos 11.7, 11.8 y 11.9 del presente Reglamento.
 
 12.4 Las cuentas bancarias a que se refiere el presente artículo deberán abrirse a nombre del partido y serán manejadas mancomunadamente por las personas que designe cada candidato y que autorice el órgano de finanzas del partido. Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse al Consejo junto con los informes de campaña respectivos.
 
@@ -385,7 +393,7 @@ ARTÍCULO 12 GASTOS DE CAMPAÑA
 
 a) Por lo menos el cincuenta por ciento del valor de dichas erogaciones deberá ser distribuido o prorrateado de manera igualitaria entre todas las precampañas o campañas beneficiadas por tales erogaciones; y
 
-b) El cincuenta por ciento restante (sic) de su valor será distribuido o prorrateado con los criterios y bases que cada partido adopte. Dicho criterio deberá hacerse del conocimiento del Consejo a través del Área Técnica, al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad. El partido deberá especificar los porcentajes de distribución aplicados a cada campaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las campañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las precampañas o campañas electorales beneficiadas.
+b) El cincuenta por ciento restante de su valor será distribuido o prorrateado con los criterios y bases que cada partido adopte. Dicho criterio deberá hacerse del conocimiento del Consejo a través del Área Técnica, al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad. El partido deberá especificar los porcentajes de distribución aplicados a cada campaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las campañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las precampañas o campañas electorales beneficiadas.
 
 12.9 Los partidos podrán contratar publicidad considerada como anuncios espectaculares en la vía pública para sus precampañas y campañas electorales, ajustándose a las siguientes disposiciones:
 
@@ -501,9 +509,9 @@ b) En caso de la propaganda contratada en páginas de Internet:
 
 ARTÍCULO 13 GASTOS DE PRECAMPAÑAS ELECTORALES
 
-13.1 Los recursos que se obtengan durante las precampañas electorales, estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados por los propios aspirantes a candidatos y los que a favor de éstos, realicen en forma libre y voluntaria, las personas físicas o morales mexicanas con residencia en el país, siempre y cuando no se encuentren en los supuestos previstos en el articulo 45 de la ley.
+13.1 Los recursos que se obtengan durante las precampañas electorales, estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados por los propios aspirantes a candidatos y los que a favor de éstos, realicen en forma libre y voluntaria, las personas físicas o morales mexicanas con residencia en el país, siempre y cuando no se encuentren en los supuestos previstos en el artículo 45 de la ley.
 
-13.2 En todos los casos, los recursos obtenidos y aplicados a una precampaña electoral, deberán manejarse a través de cuentas bancarias abiertas ex profeso para cada precampaña en particular. Las cuentas bancarias referidas deberán estar a nombre del Partido y se identificarán como “CBPREC-(ASPIRANTE A CANDIDATO)-(CANDIDATURA)-(DISTRITO O MUNICIPIO). Dichas cuentas bancarias serán manejas mancomunadamente por cada aspirante a candidato y el responsable de la obtención, administración y gasto de los recursos recabados, del aspirante a candidato, a que se refiere el artículo 117 Bis, párrafo cuarto fracción IV de la Ley. Los estados de cuenta deberán conciliarse mensualmente y remitirse al Consejo, junto con el informe correspondiente. (sic)
+13.2 En todos los casos, los recursos obtenidos y aplicados a una precampaña electoral, deberán manejarse a través de cuentas bancarias abiertas ex profeso para cada precampaña en particular. Las cuentas bancarias referidas deberán estar a nombre del Partido y se identificarán como “CBPREC-(ASPIRANTE A CANDIDATO)-(CANDIDATURA)-(DISTRITO O MUNICIPIO). Dichas cuentas bancarias serán manejas mancomunadamente por cada aspirante a candidato y el responsable de la obtención, administración y gasto de los recursos recabados, del aspirante a candidato, a que se refiere el artículo 117 Bis, párrafo cuarto fracción IV de la Ley. Los estados de cuenta deberán conciliarse mensualmente y remitirse al Consejo, junto con el informe correspondiente.
 
 13.3 Todos los ingresos que se reciban y los egresos que se realicen con motivo de la precampaña referida, deberán registrarse contablemente, en diversas cuentas y subcuentas de conformidad con el Catálogo de Cuentas, y deberán estar soportados con la documentación a la que se refiere el presente Reglamento para la comprobación de ingresos y egresos, la cual deberá entregarse al Consejo junto con los informes de ingresos y gastos aplicados a las precampañas.
 
@@ -569,7 +577,7 @@ b) Hasta un cinco por ciento del total de lo que un partido puede erogar por con
 
 15.7 Los recibos se imprimirán según el formato “REPAP”. La numeración de los folios se hará conforme a diecinueve series distintas, una para los reconocimientos que otorgue el Comité Directivo Estatal u órgano equivalente del partido, que será “REPAP-(PARTIDO)-CDE- (NÚMERO)”, y una para los reconocimientos que otorguen los órganos del partido en cada municipio, que será “REPAP-(PARTIDO)-(MUNICIPIO)-(NÚMERO)”. Cada recibo foliado se imprimirá en original y dos copias.
 
-15.8 Los reconocimientos que se otorguen por actividades de apoyo político en campañas electorales locales, deberán estar soportados con recibos foliados que se imprimirán según el formato “REPAP-CL” La numeración de los folios será “REPAP-CL- (PARTIDO)-(NÚMERO)”. Cada recibo foliado se imprimirá en original y dos copias. En todo caso se deberá respetar el límite máximo anual establecido en el artículo 15.2 del presente Reglamento
+15.8 Los reconocimientos que se otorguen por actividades de apoyo político en campañas electorales locales, deberán estar soportados con recibos foliados que se imprimirán según el formato “REPAP-CL” La numeración de los folios será “REPAP-CL- (PARTIDO)-(NÚMERO)”. Cada recibo foliado se imprimirá en original y dos copias. En todo caso se deberá respetar el límite máximo anual establecido en el artículo 15.2 del presente Reglamento.
 
 15.9 Los reconocimientos que se otorguen por participación de apoyo político en precampañas electorales, deberán estar soportados con recibos foliados que se imprimirán según el formato “REPAP-PREC”. La numeración de los folios será “REPAP-PREC-(PARTIDO)-(NÚMERO)”. Cada recibo foliado se imprimirá en original y dos copias. En todo caso se deberá respetar el límite máximo anual establecido en el artículo 15.2 del presente Reglamento.
 
@@ -583,7 +591,7 @@ b) Hasta un cinco por ciento del total de lo que un partido puede erogar por con
 
 15.14 El partido deberá elaborar una relación anual estatal de las personas que recibieron reconocimientos por actividades políticas por parte del Comité Directivo Estatal u órgano equivalente, así como de los comités directivos municipales u órganos equivalentes y en las campañas y precampañas que se hayan realizado, en las que se especifique el monto total que percibió cada una de ellas y el total estatal durante el ejercicio correspondiente. Los nombres de las personas deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre (s). Dicha relación deberá presentarse totalizada por persona, incluyendo un desglose de cada reconocimiento recibido por cada una de ellas, y deberá remitirse en medios impresos y magnéticos al Consejo junto con el informe anual.
 
-15.15 Junto con los informes de campaña, el partido deberá presentar una relación de las personas que recibieron reconocimientos por actividades políticas en cada una de las campañas electorales locales. Los nombres de las personas deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre (s). Dicha relación deberá presentarse totalizada por persona, incluyendo un desglose de cada reconocimiento recibido por cada una de ellas así como el total global por cada campaña electoral de que se trate, y deberá remitirse en medios impresos y magnéticos al Consejo.
+15.15 Junto con los informes de campaña, el partido deberá presentar una relación de las personas que recibieron reconocimientos por actividades políticas en cada una de las campañas electorales locales. Los nombres de las personas deberán aparecer en el siguiente orden: apellido paterno, apellido materno y nombre (s). Dicha relación deberá presentarse totalizada por persona, incluyendo un desglose de cada reconocimiento recibido por cada una de ellas así como el total 24 global por cada campaña electoral de que se trate, y deberá remitirse en medios impresos y magnéticos al Consejo.
 
 15.16 Los gastos efectuados por el partido por concepto de honorarios profesionales y honorarios asimilables a sueldos deberán formalizarse con el contrato correspondiente, en el cual se establezcan claramente las obligaciones y derechos de ambas partes, el objeto del contrato, tiempo, tipo y condiciones del mismo, importe contratado, formas de pago, penalizaciones y todas las demás condiciones a las que se hubieren comprometido.
 
@@ -663,7 +671,7 @@ III. Superposiciones y pantallas con o sin audio;
 
 IV. Contratación de exposición de emblemas de partidos, de imágenes de candidatos o de militantes presentes o conocidos en el estudio, programas, eventos deportivos o en cualquier otra modalidad;
 
-V. Compra de espacios para trasmisión de programas sobre el partido, sus candidatos o sus campañas;
+V. Compra de espacios para trasmisión de programas sobre el partido, sus candidatos o sus campañas.
 
 VI. Patrocinio específico de programas o secciones de los mismos;
 
@@ -727,7 +735,7 @@ ARTÍCULO 17 DE LAS COALICIONES EN GENERAL
 
 17.8 De lo establecido en el párrafo anterior se exceptúan las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas y los ingresos obtenidos en colectas 28 realizadas en mítines o en la vía pública, que serán depositados directamente en la cuenta bancaria de la campaña, así como los rendimientos financieros que produzca cada cuenta bancaria.
 
-17.9 Si a la conclusión de las campañas electorales existen remanentes en las cuentas bancarias utilizadas para el manejo de los recursos en cada campaña, o si existieran pasivos documentados en términos de lo establecido en el artículo 21.3 del presente reglamento, éstos deberán ser distribuidos entre los partidos integrantes de la coalición, conforme a las reglas que hayan establecido sobre el particular en el convenio de coalición correspondiente. En ausencia de una regla específica, la distribución de los montos deberá hacerse conforme a las aportaciones de cada uno de ellos para las campañas de los candidatos de la coalición. El o los responsables del órgano de finanzas de la coalición deberá (sic) informar al Consejo, a más tardar el día de la presentación de los informes de campaña correspondiente, sobre la distribución de los pasivos referidos.
+17.9 Si a la conclusión de las campañas electorales existen remanentes en las cuentas bancarias utilizadas para el manejo de los recursos en cada campaña, o si existieran pasivos documentados en términos de lo establecido en el artículo 21.3 del presente reglamento, éstos deberán ser distribuidos entre los partidos integrantes de la coalición, conforme a las reglas que hayan establecido sobre el particular en el convenio de coalición correspondiente. En ausencia de una regla específica, la distribución de los montos deberá hacerse conforme a las aportaciones de cada uno de ellos para las campañas de los candidatos de la coalición. El o los responsables del órgano de finanzas de la coalición deberá informar al Consejo, a más tardar el día de la presentación de los informes de campaña correspondiente, sobre la distribución de los pasivos referidos.
 
 ARTÍCULO 18 DE LOS INGRESOS PARA LAS COALICIONES
 
@@ -741,11 +749,11 @@ ARTÍCULO 18 DE LOS INGRESOS PARA LAS COALICIONES
 
 18.5 Si a la cuenta concentradora, o cuenta CBE-COA de la coalición ingresaran recursos por vía de transferencias provenientes de cuentas bancarias de los partidos integrantes de la coalición, distintas a lo establecido en el artículo 17.7 del presente reglamento, deberá acreditarse que todos los recursos que hubieren ingresado a la cuenta bancaria de la que proviene la transferencia se apeguen a lo establecido en la Ley. Para tal efecto, la coalición deberá remitir a la autoridad electoral, si ésta lo solicita, los estados de cuenta de la cuenta bancaria de la que salió la transferencia, hasta por un año previo a la realización de la transferencia, y la documentación comprobatoria del origen de los recursos depositados en dicha cuenta en el mismo período.
 
-18.6 Para efectos del registro en la contabilidad de cada uno de los partidos integrantes de la coalición, así como para la integración de sus respectivos informes anuales, el total de los ingresos conformado por las aportaciones en especie recibidas por los candidatos de la coalición, las aportaciones por éstos efectuadas para sus campañas, los ingresos recibidos en colectas en mítines o en la vía pública, y los rendimientos financieros de las cuentas bancarias de las campañas, será contabilizado por el órgano de finanzas de la coalición, el que al final de las campañas electorales, aplicará entre los partidos que conforman la coalición el monto que a cada uno le corresponda, conforme a las reglas que se hayan establecido en el convenio de coalición correspondiente respecto del particular. En ausencia de una regla específica, la distribución de los montos deberá hacerse conforme a las aportaciones de cada uno de ellos para las campañas de los candidatos de la coalición. El o los responsables de las finanzas de la coalición deberán notificar al Consejo, a más tardar el día de la presentación de los informes de campaña correspondientes, sobre la distribución de los ingresos referidos.
+18.6 Para efectos del registro en la contabilidad de cada uno de los partidos integrantes de la coalición, así como para la integración de sus respectivos informes anuales, el total de los 29 ingresos conformado por las aportaciones en especie recibidas por los candidatos de la coalición, las aportaciones por éstos efectuadas para sus campañas, los ingresos recibidos en colectas en mítines o en la vía pública, y los rendimientos financieros de las cuentas bancarias de las campañas, será contabilizado por el órgano de finanzas de la coalición, el que al final de las campañas electorales, aplicará entre los partidos que conforman la coalición el monto que a cada uno le corresponda, conforme a las reglas que se hayan establecido en el convenio de coalición correspondiente respecto del particular. En ausencia de una regla específica, la distribución de los montos deberá hacerse conforme a las aportaciones de cada uno de ellos para las campañas de los candidatos de la coalición. El o los responsables de las finanzas de la coalición deberán notificar al Consejo, a más tardar el día de la presentación de los informes de campaña correspondientes, sobre la distribución de los ingresos referidos.
 
 ARTÍCULO 19 DE LOS EGRESOS EN LAS COALICIONES
 
-19.1 Para el manejo de sus gastos, las coaliciones podrán:
+19.1. Para el manejo de sus gastos, las coaliciones podrán:
 
 a) Constituir un fideicomiso, cumpliendo con las siguientes reglas:
 
@@ -771,9 +779,9 @@ X. Los fideicomisos no podrán extinguirse antes de que se presente al pleno del
 
 b) Convenir en que uno de los partidos que integran la coalición se haga responsable de administrar y distribuir a las cuentas bancarias de la coalición y de los candidatos de ésta, los recursos que todos los partidos integrantes de la coalición destinen a ese objeto, de conformidad con lo que determine el convenio de coalición y lo que acuerde el órgano de finanzas de la coalición, utilizando al efecto una cuenta concentradora destinada exclusivamente a recibir tales recursos y a realizar las transferencias a la cuenta CBE-COA y a las de los candidatos de la coalición. Las cuentas bancarias a que se refiere el artículo 16 deberán abrirse a nombre de ese partido. Los candidatos o el órgano de finanzas de la coalición deberán recabar la documentación comprobatoria de los egresos que realicen, la cual será expedida a nombre del partido designado, y conteniendo su clave del registro federal de contribuyentes. El partido designado por la coalición deberá constar en el convenio de coalición correspondiente. En caso de que un partido pertenezca a diversas coaliciones, sólo podrá ser designado en una de ellas para los efectos referidos. El órgano de finanzas de la coalición deberá reunir todos los comprobantes, la contabilidad, los estados de cuenta y demás documentación relativa a las cuestiones financieras de la coalición y de sus candidatos, y la entregará al partido designado, el cual deberá conservarla. El órgano de finanzas de la coalición será responsable de su presentación ante la autoridad electoral, así como de presentar las aclaraciones o rectificaciones que le sean requeridas.
 
-19.2 Todos los egresos que realicen la coalición y sus candidatos deberán registrarse contablemente y estar soportados con la documentación original que expida la persona a quien se efectuó el pago. Dicha documentación deberá cumplir con los requisitos exigidos por la Ley y el presente Reglamento.
+19.2. Todos los egresos que realicen la coalición y sus candidatos deberán registrarse contablemente y estar soportados con la documentación original que expida la persona a quien se efectuó el pago. Dicha documentación deberá cumplir con los requisitos exigidos por la Ley y el presente Reglamento.
 
-19.3 Todo pago que efectúen las coaliciones que rebase la cantidad equivalente a cien veces el salario mínimo general diario vigente para el Estado de Sinaloa, deberá sujetarse a lo establecido en los artículos 11.7, 11.8, 11.9 y 11.10 del presente Reglamento. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria correspondiente.
+19.3. Todo pago que efectúen las coaliciones que rebase la cantidad equivalente a cien veces el salario mínimo general diario vigente para el Estado de Sinaloa, deberá sujetarse a lo establecido en los artículos 11.7, 11.8, 11.9 y 11.10 del presente Reglamento. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria correspondiente.
 
 19.4 Los gastos de campaña centralizados y las erogaciones que involucren dos o más campañas de una coalición de cualquier tipo, serán distribuidos o prorrateados según lo dispuesto en el artículo 12.8 del presente Reglamento.
 
@@ -795,7 +803,9 @@ b) Convenir en que uno de los partidos que integran la coalición se haga respon
 
 19.13 Las transferencias de recursos que los partidos hagan a la coalición deberán estar soportadas por recibos foliados, expedidos por el órgano de finanzas de la coalición o por alguno de sus representantes en cada municipio, que especifiquen el nombre del partido aportante, el importe que amparan, la cuenta bancaria del partido del que salió la transferencia, la fecha en que se realizó y la cuenta de la coalición CBE-COA a la cual fue destinada dicha transferencia.
 
-19.14 En el caso de las coaliciones parciales el partido que hubiere sido designado como responsable del órgano de las finanzas de la coalición deberá separar los gastos que realice en beneficio propio y en beneficio de la coalición. En consecuencia queda prohibida la facturación conjunta de bienes y servicios a nombre de un partido coaligado cuyo beneficio sea tanto para el propio partido como para la coalición.
+19.14 En el caso de las coaliciones parciales el partido que hubiere sido designado como responsable del órgano de las finanzas de la coalición deberá separar los gastos que realice en beneficio propio y en beneficio de la coalición.
+
+En consecuencia queda prohibida la facturación conjunta de bienes y servicios a nombre de un partido coaligado cuyo beneficio sea tanto para el propio partido como para la coalición.
 
 ## TÍTULO II. DE LOS INFORMES DE LOS PARTIDOS POLÍTICOS
 
@@ -825,17 +835,17 @@ ARTÍCULO 21 DE LOS INFORMES ANUALES
 
 a) Los estados de cuenta bancarios correspondientes al año de ejercicio de todas las cuentas señaladas en el presente Reglamento, excepto las establecidas en el artículo 12, que hubieren sido remitidas anteriormente al Consejo, así como las conciliaciones bancarias correspondientes. Asimismo, el partido deberá presentar la documentación bancaria que permita verificar el manejo mancomunado de las cuentas;
 
-b) Las balanzas de comprobación mensuales a que hace referencia el artículo 32.4, así como los auxiliares contables que no hubieren sido remitidas con anterioridad al Consejo y la balanza anual estatal a que se refiere el artículo 32.5, todos del presente Reglamento;
+b) Las balanzas de comprobación mensuales a que hace referencia el artículo 32.4, así como los auxiliares contables que no hubieren sido remitidas con anterioridad al Consejo y la balanza anual estatal a que se refiere el artículo 32.5, todos del presente Reglamento.
 
-c) Los Controles de Folios a que se refieren los artículos 3.11, 4.11, así como el registro a que se refieren los artículos 3.13 y 4.13;
+c) Los Controles de Folios a que se refieren los artículos 3.11, 4.11, así como el registro a que se refieren los artículos 3.13 y 4.13
 
-d) Los controles de folios a que se refiere el artículo 15.11 y las relaciones a que hace referencia le (sic) artículo 15.14;
+d) Los controles de folios a que se refiere el artículo 15.11 y las relaciones a que hace referencia le (sic) artículo 15.14,
 
 e) El inventario físico a que se refiere el artículo 34 de este Reglamento;
 
-f) Los contratos de apertura de cuentas bancarias correspondientes al ejercicio sujeto de revisión, excepto las que haya enviado con anterioridad al Consejo;
+f) Los contratos de apertura de cuentas bancarias correspondientes al ejercicio sujeto de revisión, excepto las que haya enviado con anterioridad al Consejo.
 
-g) En su caso, evidencias de la cancelación de las cuentas bancarias sujetas a revisión, excepto las que hayan remitido con anterioridad al Consejo;
+g) En su caso, evidencias de la cancelación de las cuentas bancarias sujetas a revisión, excepto las que hayan remitido con anterioridad al Consejo.
 
 h) La documentación original que soporte los ingresos y egresos reportados en dicho informe, así como la información señalada en los artículos 1.11, 11.11, 11.12, y 11.13 del presente Reglamento; y
 
@@ -935,7 +945,7 @@ a) Las palabras “voto” o “votar”, “sufragio” o “sufragar”, “el
 
 b) La aparición de la imagen de alguno de los candidatos del partido, o la utilización de su voz o de su nombre, apellidos, apelativos o sobrenombre, sea verbal o por escrito;
 
-c) La invitación a participar en actos organizados por el partido o por los candidatos por el postulados (sic);
+c) La invitación a participar en actos organizados por el partido o por los candidatos por el postulados;
 
 d) La mención de la fecha de la jornada electoral local, sea verbalmente o por escrito;
 
@@ -971,7 +981,7 @@ f) El inventario de activo fijo por las adquisiciones realizadas durante el peri
 
 ARTÍCULO 24 DE LOS INFORMES DE CAMPAÑA DE LAS COALICIONES
 
-24.1 Los informes de campaña de los candidatos de la coalición serán presentados en el formato “IC-COA” aprobado por el Consejo para este fin.
+24.1 Los informes de campaña de los candidatos de la coalición serán presentados en el formato “ICCOA” aprobado por el Consejo para este fin.
 
 24.2 Los informes deberán presentarse debidamente suscritos por el o los responsables del órgano de finanzas de la coalición, cumpliendo con cada una de las disposiciones contenidas en el presente artículo.
 
@@ -1051,7 +1061,7 @@ h) Los demás aspectos específicos, sustantivos y procedimentales, a los que de
 
 26.8 Durante el procedimiento de revisión de los informes de los partidos o coaliciones, el titular de la Comisión, podrá solicitar por oficio a las personas que hayan extendido comprobantes de ingresos o egresos a los partidos, que confirmen o ratifiquen las operaciones amparadas en dichos comprobantes. De los resultados de dichas prácticas se informará en el dictamen consolidado correspondiente.
 
-26.9 El titular de la Comisión podrá solicitar a los partidos que notifiquen por escrito a alguna o algunas de las personas que les hayan extendido comprobantes de ingresos o egresos, de que los autorizan para informar a la Comisión respecto de sus operaciones con el partido, a efecto de realizar la confirmación correspondiente conforme a las normas y procedimientos de auditoría. El partido o coalición requerido (sic) deberá realizar por sí dicha notificación, y enviar copia a la Secretaría Técnica de la Comisión del acuse de recibo correspondiente, en un plazo no mayor a diez días contados a partir del día siguiente a aquel en que reciba el escrito de la Comisión por el que se le haga esta solicitud.
+26.9 El titular de la Comisión podrá solicitar a los partidos que notifiquen por escrito a alguna o algunas de las personas que les hayan extendido comprobantes de ingresos o egresos, de que los autorizan para informar a la Comisión respecto de sus operaciones con el partido, a efecto de realizar la confirmación correspondiente conforme a las normas y procedimientos de auditoría. El partido o coalición requerido deberá realizar por sí dicha notificación, y enviar copia a la Secretaría Técnica de la Comisión del acuse de recibo correspondiente, en un plazo no mayor a diez días contados a partir del día siguiente a aquel en que reciba el escrito de la Comisión por el que se le haga esta solicitud.
 
 ARTÍCULO 27 SOLICITUDES DE ACLARACIONES Y RECTIFICACIONES
 
@@ -1187,7 +1197,7 @@ ARTÍCULO 34 ACTIVOS FIJOS
 
 ARTÍCULO 35 DE LOS ACTIVOS FIJOS EN LAS COALICIONES
 
-35.1 Los activos fijos que sean adquiridos por los candidatos o representantes de una coalición, al término de éstas se destinarán para el uso ordinario de alguno de los partidos que la hayan integrado, y deberán ser registrados contablemente de conformidad con lo establecido en el artículo 34.3 del presente reglamento. La coalición determinará libremente como se distribuirán tales bienes entre los partidos de conformidad con las reglas establecidas en el convenio de coalición correspondiente. El o los responsables del órgano de finanzas de la coalición deberá (sic) notificar a la Comisión a través de la Secretaría Técnica, a más tardar el día de la presentación de los informes correspondientes, la forma de distribución de los activos referidos.
+35.1 Los activos fijos que sean adquiridos por los candidatos o representantes de una coalición, al término de éstas se destinarán para el uso ordinario de alguno de los partidos que la hayan integrado, y deberán ser registrados contablemente de conformidad con lo establecido en el artículo 34.3 del presente reglamento. La coalición determinará libremente como se distribuirán tales bienes entre los partidos de conformidad con las reglas establecidas en el convenio de coalición correspondiente. El o los responsables del órgano de finanzas de la coalición deberá notificar a la Comisión a través de la Secretaría Técnica, a más tardar el día de la presentación de los informes correspondientes, la forma de distribución de los activos referidos.
 
 35.2 Con el objeto de conocer con exactitud la ubicación de cada activo fijo y se pueda realizar una toma física de inventario, deberá llevarse un sistema de control de inventarios que registre las transferencias del mismo, que pueden ser de oficinas de los partidos a campañas o viceversa, o de campañas a campañas.
 
@@ -1298,3 +1308,11 @@ LIC. ARTURO FAJARDO MEJÍA
 SECRETARIO GENERAL.
 
 > <small>N. DE E. VEASE ANEXOS EN EL P.O. DE 16 DE MAYO DE 2007, PAGINAS DE LA 71 A LA 94.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE MAYO DE 2007.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de Sinaloa" para su entrada en vigor a partir del día siguiente a su publicación.
