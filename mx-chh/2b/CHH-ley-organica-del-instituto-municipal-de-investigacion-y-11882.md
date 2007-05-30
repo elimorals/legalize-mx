@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-instituto-municipal-de-investigacion-y-11882"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-30"
-last_updated: "2006-01-04"
+last_updated: "2007-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL INSTITUTO MUNICIPAL DE INVESTIGACION Y PLANEACION DEL MUNICIPIO DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de septiembre de 1995.
 
@@ -153,9 +153,13 @@ X. Los cargos de los miembros del Consejo Deliberativo serán de carácter honor
 
 El Consejo Deliberativo funcionará válidamente con las dos terceras partes de sus miembros con derecho a voto, que hasta ese momento hayan sido designados y sus acuerdos serán válidos cuando los apruebe más de la mitad de los miembros presentes con derecho a voto, salvo en el caso en que esta ley establezca específicamente alguna mayoría calificada.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2007)</small>
+
 ###### Artículo 7.
 
-Las sesiones del Consejo Deliberativo serán ordinarias y extraordinarias. El Consejo Deliberativo deberá reunirse una vez cada dos meses, mismas que se efectuarán durante los meses que determine el propio Consejo a principios de cada año. Las extraordinarias serán todas las demás. Las sesiones serán presididas por el Presidente Municipal o el sustituto que designe. La convocatoria para las sesiones ordinarias y extraordinarias, se hará por el Presidente o el Director General o la mayoría de los miembros del Consejo Deliberativo con derecho a voto con una anticipación mínima de 5 días hábiles e inclusión de la orden del día; en este plazo, se tendrá a disposición de los miembros del Consejo, para su consulta, todos aquellos documentos, materiales y cualquier otro tipo de objetos necesarios para la sesión, en las oficinas del propio Instituto.
+Las Sesiones del Consejo Deliberativo serán ordinarias y extraordinarias. El Consejo Deliberativo deberá reunirse una vez cada dos meses, mismas que se efectuarán durante los meses que determine el propio Consejo a principios de cada año. Las extraordinarias serán todas las demás.
+
+Las sesiones serán presididas por el Presidente Municipal o el sustituto que designe. La convocatoria para las sesiones ordinarias y extraordinarias, se hará por el Presidente o el Director General o la mayoría de los miembros del Consejo Deliberativo con derecho a voto. Las sesiones ordinarias serán convocadas con una anticipación mínima de 5 días hábiles e inclusión del orden del día; en este plazo, se tendrá a disposición de los miembros del Consejo, para su consulta, todos aquellos documentos, materiales y cualquier otro tipo de objetos necesarios para la sesión, en las oficinas del propio Instituto. Las sesiones extraordinarias deberán convocarse con una anticipación mínima de 24 horas y serán notificadas por escrito y en el domicilio registrado, ante el Director, por cada miembro del Consejo deliberativo.
 
 De toda reunión se levantará un acta que será firmada por el funcionario que presida y por el secretario. Las actas de las sesiones del Consejo Deliberativo se asentarán en un libro que se lleve para tal efecto.
 
@@ -293,15 +297,23 @@ XXVIII. Las facultades a que se refieren las fracciones II, V, VII, IX, XI, XII,
 
 XXIX. Las demás que le asignen las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2007)</small>
+
 ###### Artículo 14.
 
-La realización de las funciones técnicas y administrativas del instituto serán llevadas a cabo por el Director General, quien se apoyará en el subdirector técnico y en los siguientes departamentos operativos:
+La realización de las funciones técnicas y administrativas del Instituto serán llevadas a cabo por el Director General, quien se apoyará en el Subdirector Técnico y en las siguientes áreas operativas:
 
-I. Departamento administrativo, que comprenderá al personal encargado de los servicios que preste el instituto, así como el personal de la administración financiera y contable del mismo.
+Coordinación General de Geoestadística e Informática;
 
-II. Departamento de informática, que desarrollará las funciones de acopio, análisis y organización de información estadística y la conformación del Sistema Municipal de Información Documental (SIMID) y el Sistema de Información Geográfica (SIG).
+Coordinación General de Planes y Programas;
 
-III. Departamento de estudios y proyectos, que se encargará del análisis y desarrollo de estudios y proyectos urbanos, arquitectónicos, obra pública municipal, vialidad, transporte, equipamiento e infraestructura urbana, demográficos, sociales, jurídicos y económicos del Municipio, así como desarrollar actividades de evaluación, actualización y seguimiento de programas municipales.
+Coordinación General de Movilidad e Infraestructura;
+
+Coordinación General de Diseño Urbano y Equipamiento; y
+
+Coordinación General Administrativa.
+
+La adscripción y organización interna de las áreas operativas del Instituto, así como la distribución de atribuciones y obligaciones, se establecerán en el Reglamento Interno del Instituto.
 
 ###### Artículo 15.
 
@@ -369,10 +381,12 @@ P.O. 4 DE ENERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
+P.O. 30 DE MAYO DE 2007.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El contenido del último párrafo de la fracción II del artículo 3º se tomará en consideración para el cálculo y aprobación del presupuesto del Instituto a partir del ejercicio fiscal de 2006.
+Remítase copia del Decreto, así como del Dictamen correspondiente, al H. Ayuntamiento de Juárez, Chihuahua, para los efectos legales procedentes.
