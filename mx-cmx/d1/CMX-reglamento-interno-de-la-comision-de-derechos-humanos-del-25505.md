@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2006-10-27"
+last_updated: "2007-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -226,7 +226,9 @@ V. Las Direcciones Ejecutivas;
 
 VI. La Secretaría Particular de la Presidencia;
 
-VII. Las Coordinaciones, y
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2007)</small>
+
+VII. Las Coordinaciones; las relatorías, y
 
 VIII. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
 
@@ -352,11 +354,17 @@ X. La Secretaría Particular de la Presidencia;
 
 XI. La Coordinación de Asesores;
 
-XII. La Coordinación de Asuntos Jurídicos, y
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+XII. La Coordinación de Asuntos Jurídicos,
 
-XIII. La Coordinación de Interlocución Institucional y Legislativa.
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2007)</small>
+
+XIII. La Coordinación de Interlocución Institucional y Legislativa, y
+
+> <small>(ADICIONADA, G.O. 30 DE MAYO DE 2007)</small>
+
+XIV. La Relatoría para la Libertad de Expresión y Atención a Defensoras y Defensores de Derechos Humanos.
 
 > <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -366,7 +374,9 @@ ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión
 
 ARTÍCULO 26 TER.- Para el cumplimiento de sus atribuciones, la Secretaría Ejecutiva se auxiliará:
 
-I. De las Coordinaciones; y
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2007)</small>
+
+I. De las Coordinaciones; las relatorías, y
 
 II. Del personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
@@ -744,9 +754,11 @@ XI. Las demás que le confiera el presente Reglamento, la o el Presidente, el Es
 
 La Secretaría Particular de la Presidencia de la Comisión, tendrá las funciones que la o el Presidente establezca y contará con el personal de apoyo que sea necesario.
 
-> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MAYO DE 2007)</small>
 
-ARTÍCULO 41 BIS.- Las Coordinaciones serán supervisadas por la o el Secretario (a) Ejecutivo (a) y tendrán las funciones que establezca la o el Presidente.
+ARTÍCULO 41 BIS.- Las Coordinaciones y las relatorías serán supervisadas por la o el Secretario (a) Ejecutivo (a) y tendrán las funciones que establezca la o el Presidente.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
 Estas áreas contarán con el personal de apoyo que sea necesario.
 
@@ -1947,6 +1959,20 @@ G.O. 27 DE OCTUBRE DE 2006.
 ###### ARTÍCULO PRIMERO.
 
 Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 17 de agosto de 2006, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma y adiciona, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+###### ARTÍCULO TERCERO.
+
+La estructura orgánica de la Comisión a que se refiere el presente Reglamento Interno, se irá ocupando conforme lo permita la disponibilidad presupuestal.
+
+G.O. 30 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las Reformas y Adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 27 de marzo de 2007, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal derogando las disposiciones que las contravengan.
 
 ###### ARTÍCULO SEGUNDO.
 
