@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-02-22"
+last_updated: "2007-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
+(NOTA: EL 6 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 6/2023, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE MAYO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -759,9 +761,11 @@ El representante y los poseedores provisionales y definitivos, en sus respectivo
 
 Por causa de ausencia no se suspenden los términos que fija la ley para la usucapión y prescripción.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 90.
 
-El ministerio público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él y en las declaraciones de ausencia y presunción de muerte.
+El Agente de la Procuraduría Social velará por los intereses del ausente y será oído en todos los juicios que tengan relación con él y en las declaraciones de ausencia y presunción de muerte.
 
 ### CAPITULO II. De las medidas provisionales en caso de ausencia
 
@@ -873,13 +877,17 @@ En caso de que el ausente haya dejado o nombrado apoderado general para la admin
 
 Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 113.
 
-Pasado un año desde que hubiere desaparecido el ausente, el ministerio público y quien tenga facultades para pedir la declaración de ausencia, puede solicitar que el apoderado garantice su gestión de la misma manera que deba hacerlo el representante.
+Pasado un año desde que hubiere desaparecido el ausente, el Agente de la Procuraduría Social y quien tenga facultades para pedir la declaración de ausencia, pueden solicitar que el apoderado garantice su gestión de la misma manera que deba hacerlo el representante.
 
 ###### Art. 114.
 
 Si el apoderado dentro del término que se le fije, no quiere o no puede dar la garantía, se tendrá por terminado el poder y se procederá al nombramiento de representante.
+
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
 
 ###### Art. 115.
 
@@ -889,9 +897,11 @@ I. Los presuntos legítimos herederos del ausente;
 
 II. Los herederos instituidos en testamento público abierto;
 
-III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-IV. El ministerio público.
+III. El Agente de la Procuraduría Social;
+
+IV. (DEROGADA, P.O. 31 DE MAYO DE 2007)
 
 ###### Art. 116.
 
@@ -989,9 +999,11 @@ Los que entren en la posesión provisional tienen derecho de pedir cuentas al re
 
 El plazo para rendir cuentas será de tres meses y se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 137.
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, el ministerio público pedirá la continuación del representante o la elección de otro que, en nombre de la Beneficencia Pública, entre en la posesión provisional conforme a los artículos que anteceden.
+Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Agente de la Procuraduría Social pedirá la continuación del representante o la elección de otro que, en nombre de la beneficencia pública, entre en la posesión provisional conforme a los artículos que anteceden.
 
 ###### Art. 138.
 
@@ -1395,11 +1407,11 @@ II. Por el cumplimiento o realización de sus fines; y
 
 III. Por la imposibilidad financiera de seguir operando.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 207.
 
-Cuando sea imposible el funcionamiento de las fundaciones a instancias del fundador, o en su defecto de quien competa su vigilancia o del Ministerio Público en su caso, se tramitarán (sic) su disolución, debiendo pasar sus bienes en los términos que dispongan sus bases constitutivas o en su defecto al patrimonio de fundaciones que tengan objeto similar al suyo, y cuando no existan éstas a la beneficencia pública.
+Cuando sea imposible el funcionamiento de las fundaciones, a instancias del fundador, o en su defecto de quien competa su vigilancia o del Agente de la Procuraduría Social en su caso, se tramitará su disolución, debiendo pasar sus bienes en los términos que dispongan sus bases constitutivas o, en su defecto, al patrimonio de fundaciones que tengan objeto similar al suyo, y cuando no existan éstas, a la beneficencia pública.
 
 ### CAPITULO IV. De las sociedades
 
@@ -1431,11 +1443,11 @@ La falta de registro da derecho a cualesquiera de los integrantes de la sociedad
 
 La falta de forma prescrita para la sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo, que se haga la liquidación de la misma conforme a lo convenido, y a falta de convenio, conforme al Capítulo V de esta Sección; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y estos no pueden oponer a terceros que hayan contratado con la sociedad, la falta de forma.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 215.
 
-No se permitirán la formación de sociedades para un objeto ilícito, si no obstante se violare esta prohibición, a solicitud de cualquiera de los socios o de un tercero interesado, o del ministerio público se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
-
-Después de pagadas las deudas sociales, conforme a la ley, el remanente y las utilidades se destinarán a los establecimientos de beneficencia pública del lugar del domicilio de la sociedad.
+No se permitirá la formación de sociedades para un objeto ilícito; si no obstante se violare esta prohibición, a solicitud de cualquiera de los socios, de un tercero interesado o del Agente de la Procuraduría Social, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
 
 ###### Art. 216.
 
@@ -2305,9 +2317,11 @@ V. La subsistencia de matrimonio anterior de cualesquiera de los otorgantes.
 
 La acción de ilegitimidad, prevista en el artículo anterior, podrá ejercitarse en todo tiempo, en los casos señalados en las cuatro primeras fracciones, por los cónyuges o por sus ascendientes; en el supuesto de la fracción V, por el cónyuge del primer matrimonio, por los hijos de aquél y por los cónyuges que contrajeron el segundo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 380.
 
-Las acciones de ilegitimidad matrimonial por ineficacia, son imprescriptibles y no podrán ser legitimadas; y si no son ejercitadas por las personas facultadas, deberá promover su ilegitimidad el ministerio público o el Consejo de Familia.
+Las acciones de ilegitimidad matrimonial por ineficacia, son imprescriptibles y no podrán ser legitimadas; y si no son ejercitadas por las personas facultadas, deberá promover su ilegitimidad el Agente de la Procuraduría Social o el Consejo de Familia.
 
 #### Sección Tercera. De la ilegitimidad por invalidez matrimonial
 
@@ -2353,9 +2367,11 @@ II. Si dentro de este término, el ascendiente ha consentido expresa o tácitame
 
 La acción de ilegitimidad por invalidez fundada en la falta de consentimiento del tutor o del Consejo de Familia, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, por el tutor o por el Consejo de Familia; pero dicha causa de ilegitimidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o del Consejo de Familia, confirmando el matrimonio.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 388.
 
-La acción de ilegitimidad por invalidez proveniente de atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el ministerio público dentro de seis meses contados desde que se celebró el nuevo matrimonio.
+La acción de ilegitimidad por invalidez proveniente de atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado o por el Agente de la Procuraduría Social, dentro de seis meses contados desde que se celebró el nuevo matrimonio.
 
 ###### Art. 389.
 
@@ -2393,9 +2409,11 @@ II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en
 
 III. Cuando se contrajo, estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 394.
 
-La ilicitud que se funde en la falta de formalidades esenciales en el matrimonio, puede alegarse por los cónyuges o por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa ilicitud a instancia del ministerio público.
+La ilicitud que se funde en la falta de formalidades esenciales en el matrimonio, puede alegarse por los cónyuges o por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa ilicitud a instancia del Agente de la Procuraduría Social.
 
 ###### Art. 395.
 
@@ -2509,7 +2527,7 @@ Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por caus
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
-Art. 405 bis.- el divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
+Art. 405 bis.- El divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
 
 Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados, mayores de edad, que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
 
@@ -2701,9 +2719,11 @@ Cuando no exista otro apoyo, los hermanos mayores tienen la obligación de dar a
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 438.
 
-Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser hospicios, orfelinatos, casas de cuna y otras afines, tienen la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y en caso que ya hubieren desaparecido a otra similar. El Consejo de Familia o el ministerio público, indistintamente, podrán ejercitar tal reclamación.
+Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser hospicios, orfelinatos, casas de cuna y otras afines, tiene la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y, en caso de que ya hubieren desaparecido, a otra similar. El Consejo de Familia o el Agente de la Procuraduría Social, indistintamente, podrán ejercitar tal reclamación.
 
 ###### Art. 439.
 
@@ -2735,6 +2755,8 @@ Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de l
 
 La obligación de dar alimentos no comprende la de proveer de capital a los acreedores alimentarios para ejercer el oficio, arte o profesión a que se hubieren dedicado.
 
+> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
+
 ###### Art. 446.
 
 Tienen acción para pedir el aseguramiento de los alimentos:
@@ -2745,19 +2767,13 @@ II. El ascendiente que lo tenga bajo su patria potestad;
 
 III. El tutor;
 
-IV. Los hermanos;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
+IV. El Agente de la Procuraduría Social; y
 
-V. El pariente que lo tenga en custodia definitiva declarada judicialmente;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006, [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-VI. El ministerio público; y
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-VII. El Consejo de Familia.
+V. El Consejo de Familia.
 
 ###### Art. 447.
 
@@ -3019,13 +3035,19 @@ Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matri
 
 El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Consejo de Familia, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
 
-El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al ministerio público dentro de los ocho días siguientes apercibido que de no hacerlo se le aplicará una multa equivalente de cinco a cincuenta días de salarios (sic) mínimo general, incurriendo en igual pena el agente del ministerio público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio, no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del juez.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
-Si transcurrido el término de sesenta días, no se hubiere resuelto el caso por el ministerio público, Oficial del Registro Civil o cualesquiera de los interesados podrá ocurrir al juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituido si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del superior jerárquico para que haga efectiva esta sanción.
+El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Agente de la Procuraduría Social dentro de los ocho días siguientes, apercibido de que de no hacerlo se le aplicará una multa equivalente de cinco a cincuenta días de salario mínimo general, incurriendo en igual pena el Agente de la Procuraduría Social que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio, no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Si transcurrido el término de sesenta días, no se hubiere resuelto el caso por el Agente de la Procuraduría Social, el Oficial del Registro Civil o cualquiera de los interesados podrán ocurrir al Juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituido si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del superior jerárquico para que haga efectiva esta sanción.
 
 Los padres o tutores y cualquier otro interesado que pretenda objetar un reconocimiento, deberá hacerlo en juicio ordinario.
 
-Si el ministerio público se hubiere opuesto a la diligencia de reconocimiento, la oposición se tramitará en juicio ordinario ante el juez de Primera Instancia que corresponda, oyéndose a un tutor especial de quien haya hecho el reconocimiento.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Si el Agente de la Procuraduría Social se hubiere opuesto a la diligencia de reconocimiento, la oposición se tramitará en juicio ordinario ante el Juez de Primera Instancia que corresponda, oyéndose a un tutor especial de quien haya hecho el reconocimiento.
 
 ###### Art. 494.
 
@@ -3103,13 +3125,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 510.
 
-Cuando el padre y la madre que no vivan juntos, reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, al Consejo de Familia y al ministerio público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos, reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, al Consejo de Familia y al Agente de la Procuraduría Social, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 511.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos ejercerá la patria potestad, el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del ministerio público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Agente de la Procuraduría Social.
 
 ###### Art. 512.
 
@@ -3205,7 +3231,9 @@ En toda adopción se deberá asegurar:
 
 I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejero Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
 
-II. Que el consentimiento ha sido otorgado libremente, ante cualquier persona previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Ministerio Público, el cual deberá entregar al juez que conozca del trámite el documento que ampare el consentimiento donde consten los motivos de dicha urgencia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+II. Que el consentimiento ha sido otorgado libremente, ante cualquier persona, previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Agente de la Procuraduría Social, el cual deberá entregar al Juez que conozca del trámite el documento que ampare el consentimiento donde consten los motivos de dicha urgencia;
 
 III. Que para otorgarse el consentimiento no ha mediado pago o compensación alguna;
 
@@ -3293,7 +3321,9 @@ El Consejo de Familia, en todos los casos de adopción debe (sic) darle seguimie
 
 Cuando el Consejo de Familia lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del presunto adoptado, el cual deberá resolver de plano, siempre y cuando los presuntos adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521; en estos casos los presuntos adoptantes no podrán trasladar al menor fuera del Estado hasta tanto no se otorgue la adopción correspondiente.
 
-Los presuntos adoptantes podrán renunciar a la custodia temporal que les fue otorgada devolviendo al menor al Consejo de Familia, levantando un acta de ello en que se precise el Estado y Salud y condiciones en que se encuentre el menor.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La custodia otorgada en términos del párrafo anterior podrá ser revocada por el Juez que la otorgó, a petición fundada del Agente de la Procuraduría Social o del Consejo de Familia.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3307,19 +3337,27 @@ El juez puede autorizar a favor de un solo adoptante, la adopción de dos o más
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 535.
 
-Para que la adopción pueda tener lugar, deberán consentir en ella en sus respectivos casos:
+Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
 I. El o los que ejercen la patria potestad sobre el menor que se trate de adoptar;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
 II. El tutor del que se va a adoptar;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
 III. El Consejo de Familia; o
 
-IV. El ministerio público.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+IV. El Agente de la Procuraduría Social.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -3425,7 +3463,9 @@ Los derechos y obligaciones que resulten del parentesco natural no se extinguen 
 
 El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando hayan transcurrido dos años como mínimo de que el juez dictó su resolución, y cumpla con los requisitos que para la adopción plena contempla este mismo Código.
 
-Para este caso, el juez deberá escuchar el consentimiento, cuando sea posible, de quien lo otorgó inicialmente para la adopción; deberá oír al Consejo de Familia, así como al agente del Ministerio Público, a fin de valorar la conveniencia de esta conversión, atendiendo al interés superior del adoptado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Para este caso, el Juez deberá escuchar el consentimiento, cuando sea posible, de quien lo otorgó inicialmente para la adopción; deberá oír al Consejo de Familia, así como al Agente de la Procuraduría Social, a fin de valorar la conveniencia de esta conversión, atendiendo al interés superior del adoptado.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3631,13 +3671,11 @@ La niñez tiene derecho al descanso y al esparcimiento, al juego y a las activid
 
 Los progenitores tendrán igual trato y consideración hacia sus hijos, sin que puedan existir preferencias de los unos sobre los otros. Solamente cuando algún infante requiera de atención médica y educativa especializada, se deberá efectuar esa distinción afectiva.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 577.
 
-Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo; incluyéndose a quienes sobre (sic) él ejercen la patria potestad, el juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los ascendientes Consejo de Familia del Ministerio Público.
-
-El Ministerio Público también podrá decretar, como medida cautelar, la cesación de la convivencia cuando sea conocedor de la probable comisión de un delito que exponga la integridad del menor.
+Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo incluyéndose a quienes sobre él ejercen la patria potestad, el Juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los ascendientes, del Consejo de Familia o del Agente de la Procuraduría Social.
 
 ## TITULO NOVENO. De la tutela
 
@@ -3763,7 +3801,9 @@ También se nombrará por el juez, un tutor especial a cada menor, en el caso de
 
 Los jueces tienen la facultad en la resolución que dicten, de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del menor se derrochen o se disminuyan.
 
-Estas medidas se seguirán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Consejo de Familia o del ministerio público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Estas medidas se seguirán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Consejo de Familia o del Agente de la Procuraduría Social.
 
 ### CAPITULO III. De la tutela legítima de los menores
 
@@ -3931,9 +3971,11 @@ El cargo de tutor, del mayor de edad que no pueda gobernarse ni obligarse por s�
 
 La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará conforme a las mismas reglas establecidas para declarar la interdicción.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 621.
 
-El Juez de Primera Instancia del domicilio del incapacitado y si no lo hubiere, el juez menor o el de paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del ministerio público, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+El Juez de Primera Instancia del domicilio del incapacitado y, sí no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
 
 ###### Art. 622.
 
@@ -4091,9 +4133,11 @@ IV. En los demás casos establecidos por la ley.
 
 El tutor dativo será designado por el menor, si ha cumplido catorce años. El juez confirmará la designación, si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo de Familia. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 650.
 
-Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo de Familia, con intervención del ministerio público.
+Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el Juez de entre las personas que figuren en la lista formada cada año por el Consejo de Familia, con intervención del Agente de la procuraduría Social.
 
 ###### Art. 651.
 
@@ -4103,9 +4147,11 @@ Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 653.
 
-A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso, tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Familia, del ministerio público, del mismo menor y aún de oficio por el juez.
+A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaría o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso, tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Familia, del Agente de la Procuraduría Social, del mismo menor y aun de oficio por el Juez.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
 
@@ -4169,9 +4215,11 @@ VI. El tutor que permanezca ausente por más de tres meses, del lugar en que se 
 
 Lo dispuesto en la fracción IX del artículo 654 se aplicará, en cuanto fuere posible, a la tutela de los disminuidos o perturbados en sus facultades intelectivas, aunque tenga intervalos lúcidos, y aquéllos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial, o por la adicción a substancias tóxicas, como el alcohol, los sicotrópicos o los estupefacientes; y de los que abusen habitualmente de las drogas enervantes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 657.
 
-El ministerio público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 654.
+El Agente de la Procuraduría Social y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 654.
 
 ###### Art. 658.
 
@@ -4259,7 +4307,9 @@ I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obl
 
 II. El tutor que no administre bienes;
 
-III. Cuando la tutela del incapacitado recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el juez, con audiencia del curador, el ministerio público o del Consejo de Familia, lo crea conveniente; y
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+III. Cuando la tutela del incapacitado recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador, el Agente de la Procuraduría Social o del Consejo de Familia, lo crea conveniente; y
 
 IV. Los que custodien a un expósito, por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
 
@@ -4271,9 +4321,11 @@ Los comprendidos en la fracción I del artículo anterior, sólo estarán obliga
 
 En el caso de la fracción II del artículo 670, luego que se realicen algunos créditos o derechos o se recobren los bienes, aun cuando sea en parte, estará obligado el tutor a dar la garantía correspondiente. El curador vigilará, bajo su más estrecha responsabilidad, el cumplimiento de este artículo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 673.
 
-La garantía que presten los tutores, no impedirá que el juez, a moción del ministerio público, del curador, de los parientes próximos del incapacitado, o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+La garantía que presten los tutores no impedirá que el Juez, a moción del Agente de la Procuraduría Social, del curador, de los parientes próximos del incapacitado, o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
 
 ###### Art. 674.
 
@@ -4299,9 +4351,11 @@ III. Por el de los enseres y semovientes, así como por el de los productos de l
 
 IV. En las negociaciones mercantiles o industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculados por los libros si están llevados en debida forma, o a juicio de peritos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 678.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador, del ministerio público o del Consejo de Familia.
+Si los bienes del incapacitado enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador, de la Procuraduría Social o del Consejo de Familia.
 
 ###### Art. 679.
 
@@ -4315,9 +4369,11 @@ Si el tutor, dentro de tres meses de aceptado su nombramiento, no pudiere dar la
 
 Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario riguroso y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración, requerirá la autorización judicial, la que se concederá, si procede oyendo al curador.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 682.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo de Familia, deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El ministerio público tiene igual facultad y hasta el juez puede exigir esa información de oficio.
+Al presentar el tutor su cuenta anual, el curador o el Consejo de Familia deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Agente de la Procuraduría Social tiene igual facultad y hasta el Juez puede exigir esa información de oficio.
 
 ###### Art. 683.
 
@@ -4529,9 +4585,11 @@ Cuando la tutela del incapaz recaiga en el cónyuge, éste sólo podrá gravar o
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 728.
 
-En caso de maltrato, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del ministerio público, o del Consejo de Familia.
+En caso de maltrato, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del Agente de la Procuraduría Social, o del Consejo de Familia.
 
 ###### Art. 729.
 
@@ -4559,9 +4617,11 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 
 El tutor está obligado a rendir al Consejo de Familia, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en tiempo, motivará la remoción del tutor.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 735.
 
-También tiene obligación de rendir cuentas cuando por causas graves, que calificará el juez, las exijan el curador, el ministerio público, el Consejo de Familia o el mismo menor que haya cumplido catorce años de edad y en el supuesto de este artículo, la cuenta deberá rendirse dentro de los quince días a partir de la fecha en que se le ordene hacerlo.
+También tiene obligación de rendir cuentas cuando por causas graves, que calificará el Juez, las exijan el curador, el Agente de la Procuraduría Social, el Consejo de Familia o el mismo menor que haya cumplido catorce años de edad, y en el supuesto de este artículo, la cuenta deberá rendirse dentro de los quince días a partir de la fecha en que se le ordene hacerlo.
 
 ###### Art. 736.
 
@@ -4863,9 +4923,11 @@ Cuando se constituya el patrimonio de familia; por personas unidas por vínculo 
 
 En caso de que el patrimonio de familia esté constituido por bienes que sirvan para obtener la manutención de los beneficiarios y a su desgaste, podrán ser sustituidos por otros de similares características, debiéndose autorizar la sustitución por el juez que decretó la constitución del patrimonio de familia y cuando se trate de automotores, se dará aviso a las autoridades correspondientes para los efectos legales.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 790.
 
-Cuando haya peligro de que quien tiene la obligación de dar alimentos, pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si estos son incapaces, sus tutores o el ministerio público, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia.
+Cuando haya peligro de que quien tiene la obligación de dar alimentos, pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas, y si éstos son incapaces, sus tutores o el Agente de la Procuraduría Social, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia.
 
 ###### Art. 791.
 
@@ -4893,9 +4955,11 @@ Transcurrido un año después que se hizo el depósito, sin que se hubiere promo
 
 En los casos de suma necesidad o de evidente utilidad, puede el juez autorizar al dueño del depósito, para disponer de él antes de que transcurra el año.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 794.
 
-El ministerio público será oído en la extinción y en la reducción del patrimonio de la familia.
+El Agente de la Procuraduría Social será oído en la extinción y en la reducción del patrimonio de la familia.
 
 ###### Art. 795.
 
@@ -5077,9 +5141,13 @@ Si el bien hallado fuere de los que no pueden conservarse, la autoridad dispondr
 
 Si durante el plazo establecido se presentare la reclamación del bien, la autoridad municipal:
 
-I. Con intervención del ministerio público, procederá a entregar el bien en los términos del artículo siguiente, si el reclamante, mediante los documentos que exhiba, acredita plenamente que es el dueño; o
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-II. Remitirá todos los datos del caso al juez competente, según el valor del bien, ante quien el reclamante probará su acción, interviniendo como parte demandada el ministerio público.
+I. Con intervención del Agente de la Procuraduría Social procederá a entregar el bien en los términos del articulo siguiente, si el reclamante, mediante los documentos que exhiba, acredita plenamente que es el dueño; o
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+II. Remitirá todos los datos del caso al Juez competente, según el valor del bien, ante quien el reclamante probará su acción, interviniendo como parte demandada el Agente de la Procuraduría Social.
 
 ###### Art. 829.
 
@@ -5103,13 +5171,17 @@ La venta se hará siempre en almoneda pública, previa estimación de peritos.
 
 Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y se encuentren abandonados.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 834.
 
-El que tuviera noticia de la existencia de bienes vacantes en el Estado y quisiere adquirir la participación que la ley da al descubridor, hará la denuncia de ellos ante el ministerio público del lugar de la ubicación de los bienes.
+El que tuviera noticia de la existencia de bienes vacantes en el estado y quisiere adquirir la participación que la ley da al descubridor, hará la denuncia de ellos ante el Agente de la Procuraduría Social del lugar de la ubicación de los bienes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 835.
 
-El ministerio público, si estima que procede, ocurrirá al juez de primera instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el Periódico Oficial "El Estado de Jalisco" y en otro de los de mayor circulación, de diez en diez días, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluto de dichos bienes; y si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el juez declarará los bienes vacantes y los adjudicará al organismo titular de la asistencia social en el Estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del ministerio público.
+El Agente de la Procuraduría Social, si estima que procede, ocurrirá al Juez de Primera Instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el periódico oficial El Estado de Jalisco y en otro de los de mayor circulación, de diez en diez días, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluto de dichos bienes; y si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el Juez declarará los bienes vacantes y los adjudicará al organismo titular de la asistencia social en el estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público.
 
 ###### Art. 836.
 
@@ -9731,7 +9803,9 @@ Tienen acción para reclamar la nulidad de los actos simulados:
 
 I. Los terceros a quienes perjudique la simulación;
 
-II. El ministerio público cuando se transgreda alguna ley de orden público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+II. El Agente de la Procuraduría Social;
 
 III. El procurador fiscal del Estado cuando se afecte a la hacienda pública estatal; y
 
@@ -10713,7 +10787,9 @@ Tienen restricción para celebrar el contrato de compraventa:
 
 I. Los consortes no pueden celebrar entre sí el contrato de compraventa, salvo que el bien pertenezca en exclusiva a uno de ellos, y el importe del precio sea pagado con dinero exclusivo del otro;
 
-II. Los magistrados, jueces, árbitros, agentes del ministerio público y defensores oficiales no podrán comprar bienes que sean objeto de juicio que se tramite dentro de su jurisdicción; ni los abogados, procuradores y peritos, de aquellos que lo fueren de juicios en que intervengan. Tampoco podrán, unos ni otros, ser cesionarios de los derechos que tengan sobre los citados bienes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
+II. Los magistrados, jueces, árbitros, agentes del Ministerio Público, agentes de la Procuraduría Social y defensores oficiales no podrán comprar bienes que sean objeto de juicio que se tramite dentro de su jurisdicción; ni los abogados, procuradores y peritos, de aquellos que lo fueren de juicios en que intervengan. Tampoco podrán, unos ni otros, ser cesionarios de los derechos que tengan sobre los citados bienes.
 
 Con excepción de la venta o cesión de acciones hereditarias cuando sean coherederos o derechos a que estén afectos bienes de su propiedad;
 
@@ -11105,7 +11181,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ###### Art. 1943.
 
-Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan (sic) sido viables.
+Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan sido viables.
 
 Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
@@ -14537,7 +14613,9 @@ I. Por los herederos legítimos del menor, respecto de bienes de que fueren mero
 
 II. Por los herederos legítimos, el curador del incapaz y el Consejo de Familia, respecto de bienes administrados por los tutores; y
 
-III. Por el ministerio público, si no la piden las personas señaladas en las dos fracciones anteriores.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+III. Por el Agente de la Procuraduría Social, sí no la piden las personas señaladas en las dos fracciones anteriores.
 
 ###### Art. 2569.
 
@@ -14899,7 +14977,9 @@ IV. Cuando después de comenzado el pleito hayan admitido él, su cónyuge o hij
 
 V. Cuando el árbitro, o sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
-VI. Si él o sus expresados parientes siguen algún proceso civil o criminal en que sea juez, agente del ministerio público de alguna de las partes; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+VI. Si él o sus expresados parientes siguen algún proceso civil o criminal en que sea Juez, Agente del Ministerio Público, Agente de la Procuraduría Social de alguna de las partes; y
 
 VII. Si es tutor o curador de alguna de las partes o no han pasado tres años de haberlo sido.
 
@@ -15823,7 +15903,9 @@ Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o 
 
 Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
 
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del ministerio público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Agente de la Procuraduría Social.
 
 ### CAPITULO IV. Del testamento ológrafo
 
@@ -16177,9 +16259,11 @@ El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado 
 
 El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento, que se lo remita.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 2884.
 
-Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y las del testador, y en presencia del ministerio público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados a que se refiere este capítulo y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
+Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y las del testador, y en presencia del Agente de la Procuraduría Social, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados a que se refiere este capítulo y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
 
 ###### Art. 2885.
 
@@ -16747,7 +16831,9 @@ c) Tienen acción para pedir y asegurar los alimentos:
 
 5) El procurador de la familia; y
 
-6) El ministerio público;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+6) El Agente de la Procuraduría Social; y
 
 d) El aseguramiento podrá consistir, en fianza, prenda, hipoteca, o depósito de dinero;
 
@@ -16795,9 +16881,11 @@ El derecho a reclamar la herencia prescribe en diez años contados a partir del 
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 2995.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del ministerio público.
+La herencia dejada a los menores y demás incapacitados, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Agente de la Procuraduría Social.
 
 ###### Art. 2996.
 
@@ -16849,9 +16937,11 @@ Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquél de cuya 
 
 Conocida la muerte de aquél a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 3008.
 
-Las personas jurídicas capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de Instituciones de Beneficencia Privada, no pueden repudiar la herencia; las primeras, sin aprobación judicial, previa audiencia del ministerio público; y las segundas, sin sujetarse a las disposiciones relativas de la ley que regula la asistencia social en el Estado.
+Las personas jurídicas capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de beneficencia privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial, previa audiencia del Agente de la Procuraduría Social, y las segundas sin sujetarse a las disposiciones relativas de la ley que regula la asistencia social en el estado.
 
 Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación de la autoridad administrativa superior de quien dependa.
 
@@ -17175,9 +17265,11 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o el juicio respectivo, según se trate de cuentas de mera administración o de cuenta general de albaceazgo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 3071.
 
-Cuando fuere heredera la beneficencia pública o los herederos fueren menores, intervendrá el ministerio público en la aprobación de las cuentas.
+Cuando fuere heredera la beneficencia pública o los herederos fueren menores, intervendrá el Agente de la Procuraduría Social en la aprobación de las cuentas.
 
 ###### Art. 3072.
 
@@ -17295,7 +17387,9 @@ II. Por muerte;
 
 III. Por incapacidad legal, declarada en forma;
 
-IV. Por excusa que el juez califique de legítima, con audiencia de los interesados y del ministerio público, cuando se interesen menores o la Beneficencia Pública;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+IV. Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Agente de la Procuraduría Social, cuando se interesen menores o la beneficencia pública;
 
 V. Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -17363,9 +17457,11 @@ Aprobados el inventario y las cuentas de albaceazgo, el albacea debe hacer enseg
 
 A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Art. 3111.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al Representante Legal y al ministerio público; y el auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
+Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al representante legal y al Agente de la Procuraduría Social; y el auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
 
 ###### Art. 3112.
 
@@ -17397,7 +17493,9 @@ En el proyecto de partición se expresará la parte que del capital o fundo afec
 
 Cuando todos los herederos sean mayores de edad, exista testamento público abierto, podrán los interesados tramitar el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, o testamento público cerrado y ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el ministerio público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez; y éste, oyendo al ministerio público, dará su aprobación si no se lesionan los derechos de los menores.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Cuando haya menores, podrán separarse, si están debidamente representados y el Agente de la Procuraduría Social da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación si no se lesionan los derechos de los menores.
 
 Ante el notario podrán adoptar todos los acuerdos que se estimen convenientes para el arreglo y terminación del trámite sucesorio.
 
@@ -17780,3 +17878,7 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 31 DE MAYO DE 2007.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
