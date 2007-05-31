@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2007-02-22"
+last_updated: "2007-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -424,9 +424,11 @@ El designado en los términos de éste artículo tendrá las mismas obligaciones
 
 El tribunal examinará la personalidad de las partes bajo su responsabilidad; no obstante, el litigante podrá en cualquier momento impugnarla salvo el caso de haber sido resuelto éste presupuesto antes de manera expresa y esté consentido el fallo. La resolución que desconozca la personalidad es apelable en ambos efectos, la que la reconozca no admite recurso.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 44.
 
-El que no estuviere presente en el lugar del juicio ni tuviere persona que legítimamente lo represente, será citado en la forma prescrita en el Capítulo IV de este Título; pero si la diligencia de que se trata fuere urgente, o perjudicial la dilatación a juicio del tribunal, el ausente será representado por el Ministerio Público.
+El que no estuviere presente en el lugar del juicio ni tuviere persona que legítimamente lo represente, será citado en la forma prescrita en el capítulo IV de este título; pero si la diligencia de que se trata fuere urgente o perjudicial la dilatación a juicio del tribunal, el ausente será representado por el Agente de la Procuraduría Social.
 
 ###### ARTICULO 45.
 
@@ -572,7 +574,9 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Las actuaciones judiciales que se perdieren serán repuestas a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal del Estado.
 
-La reposición se substanciará incidentalmente con intervención del ministerio público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La reposición se substanciará incidentalmente con intervención del Agente de la Procuraduría Social.
 
 Sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y la falta posterior del expediente.
 
@@ -1376,9 +1380,11 @@ El pago de las costas debe repartirse entre todos los vencidos en proporción a 
 
 Los funcionarios judiciales que por notoria torpeza ordenen la práctica de diligencias inútiles a juicio del superior, estarán obligados a pagar las costas y los gastos que por estas diligencias hubieren sufragado las partes.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 141.
 
-Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
+Los representantes del fisco, de los ayuntamientos, de la beneficencia y de la Procuraduría Social, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
@@ -1644,7 +1650,9 @@ También se desechará de plano cualquiera competencia promovida que no tenga po
 
 Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al superior a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
 
-Una vez recibidos los autos por dicho tribunal, citará a las partes y al Ministerio Público a una audiencia de pruebas y alegatos, que se efectuará dentro del tercer día, y en ella pronunciará resolución.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Una vez recibidos los autos por dicho tribunal, citará a las partes y al Agente de la Procuraduría Social a una audiencia de pruebas y alegatos, que se efectuará dentro del tercer día, y en ella pronunciará resolución.
 
 ###### ARTICULO 171.
 
@@ -1654,9 +1662,9 @@ Luego que el Juez requerido reciba el oficio inhibitorio, acordará la suspensi�
 
 Cuando se promueva declinatoria de jurisdicción, el Juez acordará también la suspensión del procedimiento y remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en el término de tres días, más el que se necesite por razón de la distancia, comparezcan ante dicho superior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
-En ambos casos, recibidos los autos por el Supremo Tribunal de Justicia, los turnará desde luego a la sala que corresponda su conocimiento, la que citará a las partes y al ministerio público a una audiencia verbal, dentro de los tres días siguientes al de la citación, en la que recibirá pruebas, oirá alegatos y pronunciará resolución.
+En ambos casos, recibidos los autos por el Supremo Tribunal de Justicia, los turnará desde luego a la sala a que corresponda su conocimiento, la que citará a las partes y al Agente de la Procuraduría Social a una audiencia verbal, dentro de los tres días siguientes al de la citación, en la que recibirá pruebas, oirá alegatos y pronunciará resolución.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3956,11 +3964,13 @@ La falta o deficiencia del informe con justificación, establece la presunción 
 
 De la Revisión de Oficio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 457.
 
-Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevee (sic) el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio, por la sala que corresponda del Supremo Tribunal de Justicia, con intervencion del Ministerio Público, aún cuando se promueva apelación mientras el tribunal examina la legalidad del fallo, quedará en suspenso de ejecución.
+Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevé el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal de Justicia, con intervención del Agente de la Procuraduría Social, y aun cuando se promueva apelación, mientras el tribunal examina la legalidad del fallo, quedará en suspenso de ejecución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 El juez que pronuncie sentencia en los términos antes indicados, transcurrido el término que tienen las partes para apelar las mismas, remitirá los autos y documentos originales, a la sala que corresponda la revisión de su sentencia.
 
@@ -4342,9 +4352,11 @@ VII.- Que llenen los requisitos necesarios para ser consideradas como auténtica
 
 Es competente para ejecutar una sentencia dictada en el extranjero, el Juez que lo sería para seguir el juicio en que se dictó.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 517.
 
-Traducida la ejecutoria en la forma prevista por la ley, se presentará al Juzgado competente para su ejecución, pero previamente, con audiencia del Ministerio Público, se examinará su autenticidad y si conforme a las leyes nacionales debe o no ser ejecutada.
+Traducida la ejecutoria en la forma prevista por la ley, se presentará al juzgado competente para su ejecución, pero previamente, con audiencia del Agente de la Procuraduría Social, se examinará su autenticidad y si conforme a las leyes nacionales debe o no ser ejecutada.
 
 ###### ARTICULO 518.
 
@@ -5602,6 +5614,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5609,14 +5629,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6128,13 +6140,17 @@ Si el convenio no contiene todos los puntos enumerados en el artículo 764 de é
 
 Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar al otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al ciudadano Agente del Ministerio Público, mandando entregarle las copias simples necesarias, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 768.
 
-Si el Ministerio Público expresa su conformidad con la solicitud y con el convenio, el Juez aprobará éste si lo encuentra arreglado a derecho y citará a los cónyuges a la junta de que se habla en el artículo 770.
+Si el Agente de la Procuraduría Social expresa su conformidad con la solicitud y con el convenio, el Juez aprobará éste si lo encuentra arreglado a derecho y citará a los cónyuges, a la junta de que se habla en el artículo 770.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 769.
 
-Cuando el Ministerio Público se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y una vez llenadas las exigencias del Representante de la Sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez taerá (sic) los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
+Cuando el Agente del la Procuraduría Social se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias de la Procuraduría Social o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 
 ###### ARTICULO 770.
 
@@ -6170,7 +6186,7 @@ Sección 1a.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ### CAPITULO I.
 
@@ -6230,9 +6246,11 @@ El concursado que haya hecho cesión de bienes, no podrá pedir la revocación d
 
 En este caso y en el previsto en el artículo 779, la revocación se tramitará como lo previene el artículo 778.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 782.
 
-Mientras los acreedores ausentes se presentan, serán representados por el Ministerio Público.
+Mientras los acreedores ausentes se presentan, serán representados por el Agente de la Procuraduría Social.
 
 ###### ARTICULO 783.
 
@@ -6380,9 +6398,11 @@ El que se halle en alguno de estos casos deberá excusarse y ser substituido inm
 
 El síndico deberá otorgar fianza dentro de los quince días que sigan a la aceptación del cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 808.
 
-Si el síndico provisional comprendiere que hay necesidad de realizar bienes porque pudieran perderse, disminuir su precio, deteriorarse o porque fuere muy costosa su conservación, podrá enajenarlos con autorización del Juez quien la dará con audiencia del Ministerio Público.
+Si el Síndico provisional comprendiere que hay necesidad de realizar bienes porque pudieran perderse, disminuir su precio, deteriorarse o porque fuere muy costosa su conservación, podrá enajenarlos con autorización del Juez, quien la dará con audiencia del Agente de la Procuraduría Social.
 
 Lo mismo se hará cuando fuere extrictamente (sic) indispensable para cubrir gastos urgentes de administración y conservación.
 
@@ -6460,11 +6480,17 @@ De la Declaración de Estado.
 
 ###### ARTICULO 817.
 
-Inmediatamente que el juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de que muerto uno de los cónyuges continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición y mientras se presentan los interesados, procederá con intervención del Ministerio Público a asegurar los bienes:
+Inmediatamente que el Juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de que muerto uno de los cónyuges continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición y mientras se presentan los interesados, procederá con intervención del Agente de la Procuraduría Social a asegurar los bienes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I.- Si el difunto no era conocido o estaba de transeúnte en el lugar;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 II.- Cuando haya menores interesados;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
 
@@ -6506,9 +6532,11 @@ Una vez otorgada la fianza, el interventor recibirá los bienes por inventario y
 
 Si los bienes estuvieran situados en lugares diversos o a larga distancia, para la formación del inventario bastará con que se haga mención en él, de los títulos de propiedad, si existen entre los papeles del difunto o la descripción de aquellos según las noticias que se tuvieren.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 821.
 
-Mientras el interventor no se haga cargo de los bienes, tendrá la vigilancia de ellos el Ministerio Público.
+Mientras el interventor no se haga cargo de los bienes, tendrá la vigilancia de ellos el Agente de la Procuraduría Social.
 
 ###### ARTICULO 822.
 
@@ -6554,9 +6582,11 @@ III.- Los juicios que sigan los herederos deduciendo la acción de petición de 
 
 IV.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la formación de los inventarios y anteriores a la adjudicación, exceptuando los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 831.
 
-En los juicios sucesorios el Ministerio Público representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
+En los juicios sucesorios el Agente de la Procuraduría Social representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a los menores o incapacitados que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6566,9 +6596,11 @@ El albacea, dentro de los tres días siguientes al en que se le haga saber su no
 
 Si no garantiza su manejo dentro del término señalado, se le removerá de plano.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 833.
 
-Toda persona que a la muerte de otra tuviere en su poder bienes de ésta, por cualquiera circunstancia, deberá manifestarlo al Juez de la sucesión o al representante del Ministerio Público tan luego como tenga noticias del fallecimiento, siendo responsable de los daños y perjuicios que sobrevengan por tal omisión.
+Toda persona que a la muerte de otra tuviere en su poder bienes de ésta, por cualquiera circunstancia, deberá manifestarlo al Juez de la sucesión o al Agente de la Procuraduría Social tan luego como tenga noticias del fallecimiento, siendo responsable de los daños y perjuicios que sobrevengan por tal omisión.
 
 ###### ARTICULO 834.
 
@@ -6696,9 +6728,11 @@ Los herederos inconformes con el nombramiento de albacea podrán nombrar interve
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o el que en su defecto se nombre.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 850.
 
-Si el Ministerio Público o cualquier pretendiente se opone a la declaración de herederos o alega incapacidad de alguno de ellos, se sustanciará en juicio ordinario el pleito a que la oposición dé lugar, con el albacea o heredero, respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
+Si el Agente de la Procuraduría Social o cualquier pretendiente se opone a la declaración de herederos o alega incapacidad de alguno de ellos, se substanciará en juicio ordinario el pleito a que la oposición dé lugar, con el albacea o heredero, respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
 
 ###### ARTICULO 851.
 
@@ -6750,15 +6784,19 @@ I. Si la mayoría de herederos y legatarios así lo solicitan;
 
 II. Cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios;
 
-III. Cuando habiendo menores interesados, el Ministerio Público lo solicite; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+III. Cuando habiendo menores interesados, el Agente de la Procuraduría Social lo solicite; y
 
 IV. En los demás casos que expresamente lo prevenga este Código.
 
 El albacea de la sicesión (sic) está obligado a proporcionar al notario público ante quien se formule un inventario solemne, todos los documentos y demás elementos necesarios para ello y el notario tendrá facultad de hacer investigaciones y gestiones que se requieren para el mismo fin.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 858.
 
-El inventario solemne se formará con intervención del Ministerio Público, por Notario designado por la mayoría de los interesados y en su defecto o cuando no se pongan de acuerdo en su nombramiento dentro del término que para el efecto señale el Juez, por el Secretario del Juzgado, pudiendo intervenir personalmente el Juez cuando lo estime necesario.
+El inventario solemne se formará con intervención del Agente de la Procuraduría Social, por notario designado por la mayoría de los interesados y en su defecto o cuando no se pongan de acuerdo en su nombramiento dentro del término que para el efecto señale el Juez, por el Secretario del juzgado, pudiendo intervenir personalmente el Juez cuando lo estime necesario.
 
 ###### ARTICULO 859.
 
@@ -6952,9 +6990,11 @@ Si para el pago de una deuda u otro gasto urgente, fuere necesario vender alguno
 
 Los libros de cuentas y papeles del difunto se entregarán al albacea y hecha la partición, a los herederos reconocidos, observándose respecto de los títulos, lo que se prescribe en la sección siguiente. Los demás papeles quedarán en poder del que hubiere desempeñado el albaceazgo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 890.
 
-Si nadie se presenta alegando derechos a la herencia o por no haber sido reconocidos los que se presentaron se declarará heredera a la Beneficencia Pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con la herencia. Los demás se archivarán con los autos del intestado en cubierta cerrada y sellada, que rubricarán el Juez, el representante del Ministerio Público y el Secretario.
+Si nadie se presenta alegando derechos a la herencia o por no haber sido reconocidos los que se presentaron se declarará heredera a la beneficencia pública, se entregarán a ésta los bienes y los libros y papeles que tengan relación con la herencia. Los demás se archivarán con los autos del intestado en cubierta cerrada y sellada que rubricarán el Juez, el Agente de la Procuraduría Social y el Secretario.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 1967)</small>
 
@@ -7228,15 +7268,17 @@ Sección 9a.
 
 Del Testamento Público Cerrado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 939.
 
-Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El Representante del Ministerio Público asistirá a la diligencia.
+Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El Agente de la Procuraduría Social asistirá a la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 940.
 
-Cumplido lo prescrito en sus respectivos casos en el capítulo que regula el testamento público cerrado del Código Civil, el juez en presencia del Notario, los Testigos, el Representante del Ministerio Público, y el secretario, abrirá el testamento, lo leerá para sí y después en alta voz, omitiendo lo que deba permanecer en secreto.
+Cumplido lo prescrito en sus respectivos casos en el capítulo que regula el testamento público cerrado del Código Civil, el Juez, en presencia del Notario, los testigos, el Agente de la Procuraduría Social y el Secretario, abrirá el testamento, lo leerá para si y después en alta voz, omitiendo lo que deba permanecer en secreto.
 
 En seguida (sic) firmarán al margen del testamento las personas que hubieren intervenido en la diligencia, con el Juez y el Secretario, y se le pondrá el sello del Juzgado, asentándose acta de todo ello.
 
@@ -7260,11 +7302,11 @@ De la Declaración de ser Formal el Testamento Ológrafo.
 
 El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo como se dispone en el Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 944.
 
-Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el presente capítulo, y queda comprobado que es el mismo que depositó el testador, se declarará formal el testamento de éste.
+Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Agente de la Procuraduría Social, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el presente capítulo, y queda comprobado que es el mismo que depositó el testador, se declarará formal el testamento de éste.
 
 ###### ARTICULO 945.
 
@@ -7296,7 +7338,9 @@ II.- El que hubiere recibido en él algún encargo del testador.
 
 Hecha la solicitud se señalarán día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
 
-Para la información se citará al Representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+Para la información se citará al Agente de la Procuraduría Social, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7318,9 +7362,11 @@ VI.- Si saben que el testador falleció o no de la enfermedad o en el peligro en
 
 Si los testigos fueren idóneos y estuvieran conformes en todos (sic) y cada una de las circunstancias antes indicadas, el juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 950.
 
-De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el Representante del Ministerio Público.
+De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el Agente de la Procuraduría Social.
 
 ###### ARTICULO 951.
 
@@ -7386,9 +7432,11 @@ Los honorarios del Notario serán cubiertos por quien solicitó su nombramiento 
 
 Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndole en la citación que quedan por tres días las actuaciones en la Secretaría del Juzgado para que se imponga de ellas y se señalará día y hora para la audiencia, a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella su falta de asistencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 957.
 
-Se oirá precisamente al Ministerio Público:
+Se oirá precisamente al Agente de la Procuraduría Social:
 
 I.- Cuando la solicitud promovida afecte los intereses públicos;
 
@@ -7446,13 +7494,15 @@ III.- Por sus presuntos herederos legítimos;
 
 IV.- Por el ejecutor testamentario;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-V.- Por el Ministerio Público y los Consejos de Familia.
+V. Por el Agente de la Procuraduría Social y los Consejos de Familia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 966.
 
-Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Ministerio Público; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquellas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
+Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Agente de la Procuraduría Social; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
@@ -7466,13 +7516,17 @@ II. Por los presuntos herederos legítimos;
 
 III. Por el ejecutor testamentario;
 
-IV. Por el Ministerio Público;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+
+IV. Por el Agente de la Procuraduría Social; y
 
 V. Por el Consejo de Familia.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 968.
 
-En los casos del artículo anterior, presentada la solicitud de interdicción el Tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del Tribunal, del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
+En los casos del artículo anterior, presentada la solicitud de interdicción el tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará: la diligencia de reconocimiento se practicará en presencia del tribunal, del Agente de la Procuraduría Social y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
 
 ###### ARTICULO 969.
 
@@ -7486,9 +7540,11 @@ III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuv
 
 Del auto en que se dicten esas providencias no procederá apelación sino en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 970.
 
-Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 968, dentro de un término que en ningún caso excederá le (sic) cuarenta días, el Juez citará a junta en la cual, si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se sustanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 969.
+Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 968, dentro de un término que en ningún caso excederá de cuarenta días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor y el Agente de la Procuraduría Social, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Sí hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere, y durante la tramitación subsistirán las medidas decretadas conforme al artículo 969.
 
 ###### ARTICULO 971.
 
@@ -7508,9 +7564,11 @@ IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará 
 
 El procedimiento que tenga por objeto hacer cesar la interdicción, se seguirá en todo caso como el que la declaró, observándose en lo conducente las disposiciones de los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 973.
 
-La declaración de estado de los sordomudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del Juez y del Ministerio Público.
+La declaración de estado de los sordomudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del Juez y del Agente de la Procuraduría Social.
 
 ###### ARTICULO 974.
 
@@ -7574,13 +7632,17 @@ Cuando el impedimento o la causa legal de la excusa ocurrieren después de la ad
 
 La aceptación o el transcurso de los términos en su caso importan renuncia de la excusa.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 985.
 
-El importe de la garantía se determinará con audiencia del Ministerio Público.
+El importe de la garantía se determinará con audiencia del Agente de la Procuraduría Social.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 986.
 
-También se dará audiencia al Ministerio Público para la apreciación y aprobación de la garantía que se otorgue.
+También se dará audiencia al Agente de la Procuraduría Social para la apreciación y aprobación de la garantía que se otorgue.
 
 ###### ARTICULO 987.
 
@@ -7592,9 +7654,11 @@ Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán
 
 El tutor interino que en estos casos deba nombrarse conforme al Código Civil, presentará dentro del término que designe el juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido código.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 989.
 
-De este cómputo se dará traslado al Ministerio Público y en vista de su respuesta se determinará el otorgamiento de la garantía.
+De este cómputo se dará traslado al Agente de la Procuraduría Social y en vista de su respuesta se determinará el otorgamiento de la garantía.
 
 ###### ARTICULO 990.
 
@@ -7610,11 +7674,11 @@ No se exigirá fianza a los tutores interinos cuando no tengan administración d
 
 En todo caso en que se nombre al menor, tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 993.
 
-La oposición de interés entre los sujetos a patria potestad y los que la ejerzan o entre los incapaces sujetos a la misma tutela, se calificará siempre con audiencia del Ministerio Público y sólo que éste pida de conformidad, se nombrará el tutor interino.
+La oposición de interés entre los sujetos a patria potestad y los que la ejerzan o entre los incapaces sujetos a la misma tutela, se calificará siempre con audiencia del Agente de la Procuraduría Social y sólo éste pida de conformidad, se nombrará el tutor interino.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7640,9 +7704,11 @@ Esta misma obligación tendrá en el caso de quedar vacante la tutela por cualqu
 
 De las resoluciones que se dicten conforme a los dos artículos anteriores no se admitirá apelación más que en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 999.
 
-El Ministerio Público será oído siempre que el Juez deba interponer su autoridad en los negocios relativos a tutela, sean de la clase que fueren.
+El Agente de la Procuraduría Social será oído siempre que el Juez deba interponer su autoridad en los negocios relativos a tutela, sean de la clase que fueren.
 
 Sección 3a.
 
@@ -7662,11 +7728,11 @@ De la Vigilancia y Cuentas de la Tutela.
 
 En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Familias y demás interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1002.
 
-Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Consejo de familias y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Consejo de Familias y del Agente de la Procuraduría Social, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
 
@@ -7702,9 +7768,11 @@ I.- La autorización para hacer el gasto contenido en cada partida, sea la gener
 
 II.- El documento que pruebe que realmente se hizo el gasto.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1004.
 
-Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en extracto si estuvieren conformes el curador y el Ministerio Público, quienes tendrán derecho de examinar por sí mismos los libros originales; el Juez podrá cuando alguno de ellos lo pida, nombrar un perito que glose la cuenta.
+Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en extracto si estuvieren conformes el curador y el Agente de la Procuraduría Social, quienes tendrán derecho de examinar por sí mismos los libros originales; el Juez podrá, cuando alguno de ellos lo pida, nombrar un perito que glose la cuenta.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7712,29 +7780,39 @@ Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que s
 
 El tutor cuyo cargo haya concluido puede, al hacer la entrega de los bienes, retener los documentos para formar su cuenta previo consentimiento del curador o del pupilo, si salió ya éste de la menor edad y autorización judicial, a fin de presentarlos con ella.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1006.
 
-Presentada la cuenta en los términos que quedan establecidos, mandará el Juez correr traslado de ella al curador y al Ministerio Públcio (sic), por un término que no podrá exceder en ningún caso, de diez días para cada uno de ellos.
+Presentada la cuenta en los términos que quedan establecidos, mandará el Juez correr traslado de ella al curador y al Agente de la Procuraduría Social, por un término que no podrá exceder, en ningún caso, de diez días, para cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1007.
 
-Si al presentar la cuenta el tutor, la suscribe también el curador, no se correrá a éste el traslado que previene el artículo precedente; pero se exigirá la ratificación de las firmas y sólo se entenderá el traslado con el Ministerio Público.
+Si al presentar la cuenta el tutor, la suscribe también el curador, no se correrá a éste el traslado de que previene el artículo precedente, pero se exigirá la ratificación de las firmas y sólo se entenderá el traslado con el Agente de la Procuraduría Social.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1008.
 
-Si ni el Ministerio Público ni el curador hacen observaciones, el Juez dictará dentro de diez días su auto de aprobación, salvo que del examen que por sí mismo verifique resulte que deben hacerse algunas rectificaciones o aclaraciones, las que mandará se practiquen en un término prudente.
+Si ni el Agente de la Procuraduría Social ni el curador hacen observaciones, el Juez dictará dentro de diez días su auto de aprobación, salvo que del examen que por sí mismo verifique resulte que deben hacerse algunas rectificaciones o aclaraciones, las que mandará se practiquen en un término prudente.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1009.
 
-Si el curador o el Ministerio Público hacen observaciones relativas sólo a la forma de la cuenta, la mandará el Juez enmendar o reponer en un plazo que no excederá de cinco días.
+Sí el curador o el Agente de la Procuraduría Social hacen observaciones relativas sólo a la forma de la cuenta, la mandará el Juez enmendar o reponer en un plazo que no excederá de cinco días.
 
 ###### ARTICULO 1010.
 
 Si hacen observaciones relativas al fondo de la cuenta o se objetan de falsas o de no justificadas algunas partidas, se sustanciará la oposición de la vía sumaria.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1011.
 
-El Ministerio Público y el curador podrán apelar de la resolución que apruebe las cuentas, si las hubieren impugnado; los mismos y el tutor podrán apelar de la que las desapruebe.
+El Agente de la Procuraduría Social y el curador podrán apelar de la resolución que apruebe las cuentas, si las hubieren impugnado; los mismos y el tutor podrán apelar de la que las desapruebe.
 
 ###### ARTICULO 1012.
 
@@ -7768,7 +7846,9 @@ Para decretar la venta de bienes se necesita que al pedirse se exprese el motivo
 
 Si fuere el tutor quien solicita la venta deberá proponer al hacer la promoción las bases del remate, en cuanto a la cantidad que deba darse de contado, el plazo, intereses y garantías del rematante.
 
-La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte será apelable en ambos efectos.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La solicitud del tutor se substanciará en forma de incidente con el curador y el Agente de la Procuraduría Social. La sentencia que se dicte será apelable en ambos efectos.
 
 Los peritos que se designen para hacer el avalúo, serán nombrados por el Juez.
 
@@ -7804,9 +7884,11 @@ El Juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya o
 
 Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 528 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1021.
 
-Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 1015. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 1015. El incidente se substanciará con el Agente de la Procuraduría Social y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
 
 También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
 
@@ -7846,11 +7928,13 @@ El que pretenda adoptar a alguna persona, deberá acreditar los requisitos estab
 
 En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1028.
 
-Admitida la solicitud, el juez escuchará a quien haya otorgado el consentimiento a fin de que el mismo sea ratificado, dará vista al agente del Ministerio Público y al Consejo de Familia, para que éstos manifiesten lo que a su representación corresponda.
+Admitida la solicitud, el Juez escuchará a quien haya otorgado el consentimiento a fin de que el mismo sea ratificado, y dará vista al Agente de la Procuraduría Social y al Consejo de Familia, para que éstos manifiesten lo que a su representación corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 En el mismo auto se hará la declaración del Estado de Minoridad, se nombrará tutor dativo especial, cuando corresponda, y se señalará día y hora para la celebración de una audiencia a fin de desahogar las pruebas que fueren necesarias.
 
@@ -7864,7 +7948,9 @@ En los procedimientos de adopción no será necesario el nombramiento de tutor d
 
 Cuando el Código Civil lo señale y el adoptante y el adoptado pidan que la adopción sea revocada, o se solicite la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchará a las partes.
 
-En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al agente del Ministerio Público y al Consejo de Familia, los cuales deberán presentarse en la misma audiencia.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al Agente de la Procuraduría Social y al Consejo de Familia, los cuales deberán presentarse en la misma audiencia.
 
 Si el adoptado fuere menor de edad, no se decretará la conversión, sin escuchar, cuando sea posible, a quien o quienes manifestaron su consentimiento para la adopción.
 
@@ -7886,15 +7972,17 @@ Del Apeo y Deslinde.
 
 La renuncia o excusa de la patria potestad se presentarán por escrito ante el Juez del domicilio del menor expresando los motivos en que se funden, y si hay otro ascendiente en quien deba recaer aquella o si el menor tiene otros parientes a quienes corresponda la tutela legítima.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1033.
 
-El Juez admitirá la excusa si la encuentra debidamente fundada y mandará requerir al ascendiente para que se encargue del menor; en su defecto requerirá la intervención del Ministerio Público para la designación del tutor y curador que corresponda, cuando no lo hicieren las personas a quienes la Ley concede este derecho.
+El Juez admitirá la excusa si la encuentra debidamente fundada y mandará requerir al ascendiente para que se encargue del menor en su defecto requerirá la intervención del Agente de la Procuraduría Social para la designación del tutor y curador que corresponda, cuando no lo hicieren las personas a quienes la ley concede este derecho.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1034.
 
-El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos el Ministerio Público, podrá solicitar al juez competente la declaración de la pérdida de la patria potestad en los casos previstos por el Código Civil. El juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Si el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
+El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos el Agente de la Procuraduría Social, podrá solicitar al Juez competente la declaración de la pérdida de la patria potestad en los casos previstos por el Código Civil. El Juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Sí el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
 
 ###### ARTICULO 1035.
 
@@ -7918,9 +8006,11 @@ III.- Observar el incapacitado buena conducta.
 
 Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1038.
 
-El Juez oirá en forma de incidente al padre o tutor y al Ministerio Público y, sin más trámite, dictará resolución en la que autorice o niegue la emancipación.
+El Juez oirá en forma de incidente al padre o tutor y al Agente de la Procuraduría Social y, sin más trámite dictará resolución en la que autorice o niegue la emancipación.
 
 De este último auto no cabe recurso alguno y el que la conceda será apelable en ambos efectos.
 
@@ -7934,7 +8024,7 @@ De las resoluciones en que se conceda la emancipación se remitirá copia certif
 
 Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1040.
 
@@ -7968,9 +8058,11 @@ III.- Que se acredite que la adopción está en trámite.
 
 Estos hechos podrán acreditarse con información testimonial.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### ARTICULO 1042.
 
-Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar el depósito sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Ministerio Público.
+Podrán los jueces, no obstante lo dispuesto en el artículo anterior, decretar el depósito sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
 
 ###### ARTICULO 1043.
 
@@ -8008,11 +8100,11 @@ Durará el depósito hasta que se verifique el matrimonio, salvo que el Juez nie
 
 En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente del depósito.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1050.
 
-En las diligencias de que trata este capítulo se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá recurso alguno.
+En las diligencias de que trata este capítulo se oirá precisamente al Agente de la Procuraduría Social y contra las resoluciones que se dicten no procederá recurso alguno.
 
 ### CAPITULO UNICO.
 
@@ -8028,7 +8120,9 @@ II.- Cuando se pretenda justificar la posesión como medio para acreditar el dom
 
 III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-La información se recibirá siempre con citación del Ministerio Público; notificando personalmente el auto inicial al Síndico del Ayuntamiento y al Delegado de Hacienda del Municipio en que queden ubicados los bienes o derechos sobre los que verse la información. En los casos de las fracciones I y II, con citación también de los colindantes y del Encargado del Registro de la Propiedad y de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la Fracción III, con audiencia del propietario y de los demás partícipes del derecho real cuando los haya.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La información se recibirá siempre con citación del Agente de la Procuraduría Social, notificando personalmente el auto inicial al Síndico del Ayuntamiento y al Delegado de Hacienda del municipio en que queden ubicados los bienes o derechos sobre los que verse la información. En los casos de las fracciones I y II, con citación también de los colindantes y del Encargado del Registro de la Propiedad y de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la fracción III, con audiencia del propietario y de los demás partícipes del derecho real cuando los haya.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8036,7 +8130,9 @@ La información se recibirá siempre con citación del Ministerio Público; noti
 
 El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea registrable por defectuoso, o ampare superficie diferente a la registrada, si no está en el caso de deducir la acción de usucapión, por no estar inscrita en el Registro la propiedad de los bienes, podrá demostrar ante el juez competente, que ha tenido en esa posesión rindiendo la información testimonial. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están registrados, que deberá comprender los últimos 10 años. La anterior solicitud deberá contener la descripción precisa del inmueble del que se trata.
 
-La información se recibirá siempre con citación del Ministerio Público, del Registrador de la Propiedad y de los colindantes, y del Síndico del Ayuntamiento del Municipio en que estén ubicados los bienes.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+La información se recibirá siempre con citación del Agente de la Procuraduría Social, del Registrador de la Propiedad y de los colindantes, y del Síndico del Ayuntamiento del municipio en que estén ubicados los bienes.
 
 Los testigos deben de ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
 
@@ -8052,7 +8148,9 @@ Tres días después de publicados los edictos a que se refiere el artículo ante
 
 Los testigos serán por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiera; el Juez ampliará su examen con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho y respecto de aquellos testigos que no sean de él conocidos o del Secretario, exigirá la presentación de dos que abonen a cada uno de aquellos.
 
-El Ministerio Público y las personas con cuya citación se reciba la información, podrán tachar a los testigos por circunstancias que afecten a su credibilidad.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
+El Agente de la Procuraduría Social y las personas con cuya citación se reciba la información, podrán tachar a los testigos por circunstancias que afecten a su credibilidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8134,13 +8232,21 @@ Los gastos del apeo se harán a prorrata por el que lo promueva y los propietari
 
 ###### ARTICULO 1064.
 
-Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Ministerio Público:
+Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Agente de la Procuraduría Social:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I.- Las dispensas que para contraer matrimonio procedan conforme al Código Civil;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 II.- La dispensa para no habitar en el domicilio conyugal en los casos previstos por el Código Civil;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 III.- La suplencia de consentimiento de los ascendientes o tutores para que un menor de dieciocho y mayor de dieciséis años contraiga matrimonio o para que uno sólo de los cónyuges obligue o enajene o para que un cónyuge acepte o repudie la herencia común sin consentimiento del otro;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 IV.- La autorización a los cónyuges menores de edad para enajenar gravar o hipotecar sus bienes o para celebrar el convenio en que se liquide la sociedad conyugal.
 
@@ -8629,3 +8735,7 @@ DECRETO NUMERO 21818/LVII
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 31 DE MAYO DE 2007.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
