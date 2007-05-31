@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2007-02-20"
+last_updated: "2007-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MAYO DE 2007.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -61,9 +61,21 @@ VIII. Representación del Gobierno del Estado en la Ciudad de México;
 
 IX. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
 
-X. Dirección de Relaciones Internacionales; y
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2007)</small>
 
-XI. Coordinación General de Administración.
+X. Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur;
+
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2007)</small>
+
+XI. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MAYO DE 2007)</small>
+
+XII. Dirección de Relaciones Internacionales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MAYO DE 2007)</small>
+
+XIII. Coordinación General de Administración.
 
 Así mismo podrá contar con las representaciones necesarias, mismas que serán creadas por Acuerdo del Gobernador del Estado y publicado en el Boletín Oficial del Gobierno del Estado.
 
@@ -311,6 +323,24 @@ V. Apoyar las gestiones de las dependencias del Gobierno del Estado en la zona N
 
 VI. Las demás que le asigne el Gobernador, de acuerdo a sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2007)</small>
+
+###### ARTÍCULO 13-A.
+
+A la Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur, le corresponden las siguientes funciones:
+
+l. Atender las actividades del Gobernador del Estado, cuando se encuentre en el Municipio de Los Cabos;
+
+II. En coordinación con la Secretaría de Despacho correspondiente, gestionar en el Municipio de Los Cabos, las audiencias del Gobernador del Estado;
+
+III. Representar al Gobernador del Estado, en los actos oficiales que se realicen en el Municipio de Los Cabos, de acuerdo con las indicaciones del Secretario Particular del Gobernador del Estado;
+
+IV. Apoyar los actos cívicos, culturales y políticos del Gobierno del Estado, en el Municipio de Los Cabos;
+
+V. Apoyar las gestiones de las dependencias y entidades del Gobierno del Estado en el Municipio de Los Cabos; y
+
+VI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
+
 ###### ARTÍCULO 14.
 
 A la Unidad de Asesoría y Apoyo Técnico, le corresponde realizar las siguientes funciones:
@@ -438,3 +468,21 @@ Asimismo, los recursos humanos, financieros y materiales, así como los bienes m
 TERCERO.- A la entrada en vigor del presente Decreto, los recursos humanos, financieros y materiales, así como los bienes muebles e inmuebles asignados a la Dirección de Relaciones Públicas que se extingue, pasarán a formar parte de la Secretaria Particular del C. Gobernador del Estado.
 
 CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
+
+B.O. 31 DE MAYO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Representación del Gobierno del Estado en el Municipio de Los Cabos, contará con los recursos humanos, materiales y financieros necesarios para su debido funcionamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las oficinas administrativas de la Representación del Gobierno del Estado en el Municipio de Los Cabos, se ubicarán en la ciudad de San José del Cabo.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas a que haya lugar.
