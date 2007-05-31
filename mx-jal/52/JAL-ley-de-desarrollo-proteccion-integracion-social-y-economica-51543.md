@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-proteccion-integracion-social-y-economica-515
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-08"
-last_updated: "2006-08-08"
+last_updated: "2007-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO, PROTECCION, INTEGRACION SOCIAL Y ECONOMICA DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 8 de agosto de 2006.
 
@@ -707,9 +707,11 @@ Concluido el período de recepción de pruebas o el término indicado en el Art�
 
 Como medida de protección, razonadamente, se podrá separar preventivamente a la persona adulta mayor de su hogar, cuando a criterio de la Procuraduría existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+
 ###### Artículo 56.
 
-Para los efectos del Artículo anterior, el Consejo de Familia podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social a que se hace referencia en esta Ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público, para su intervención legal.
+Para los erectos del artículo anterior, el Consejo de Familia podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social a que se hace referencia en esta ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público y al Agente de la Procuraduría Social, para su intervención legal.
 
 ###### Artículo 57.
 
@@ -794,3 +796,9 @@ El Secretario General de Gobierno
 MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 2007.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
