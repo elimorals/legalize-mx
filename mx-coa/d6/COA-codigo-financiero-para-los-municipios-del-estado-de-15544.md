@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2005-12-30"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -371,7 +371,9 @@ III. La promesa de compra venta, en la que se pacte que el futuro comprador entr
 
 IV. La cesión de derechos del comprador o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente.
 
-V. Fusión de sociedades.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+V. Fusión y Escisión de Sociedades.
 
 VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
@@ -386,6 +388,40 @@ X. Enajenación a través de fideicomiso, en los términos de este código.
 XI. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le corresponda al copropietario o cónyuge, por cada inmueble.
 
 XII. En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2007)</small>
+
+ARTÍCULO 42 BIS. Se entiende que no hay adquisición en los siguientes casos:
+
+I.- En escisión, siempre que se cumpla con los requisitos siguientes:
+
+a) Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un período de dos años contados a partir del año inmediato anterior a la fecha en que se realice la escisión; siempre y cuando se protocolice la escisión de que se trate, dentro de un período de un año a partir de la fecha en que se llevó a cabo.
+
+Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del período, excluyendo las que se consideran colocadas entre el gran público inversionista y que haya sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+
+b) Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de registrarse en los padrones que para el propósito establezcan la Tesorería Municipal respectiva.
+
+Cuando no se cumpla con el requisito a que se refiere el inciso b) que antecede, los fedatarios públicos, dentro del mes siguiente a la fecha de autorización de la escritura correspondiente, deberán informar de esta circunstancia a la Tesorería Municipal. En estos casos, la autoridad podrá exigir el registro correspondiente a cualquiera de las sociedades escindidas.
+
+No se incumple con el requisito de permanencia accionaria previsto en esta fracción, cuando la transmisión de propiedad de acciones sea por causa de muerte, liquidación, adjudicación judicial o donación.
+
+En el caso de donación se deberá de cumplir con los requisitos establecidos en la fracción XIX del artículo 109 de la Ley del Impuesto sobre la Renta, relacionado con el tercer párrafo del artículo 14-B del Código Fiscal de la Federación.
+
+No será aplicable lo dispuesto en esta fracción, cuando en los términos de la Ley del Impuesto sobre la Renta se le otorgue a la escisión, el tratamiento de reducción de capital, conforme lo señala el párrafo cuarto artículo 14-B del Código Fiscal de la Federación.
+
+En todo caso de Escisión, se deberán satisfacer, además, los requisitos previstos que para el caso de Escisión establece el artículo 14-B del Código Fiscal de la Federación en su fracción II.
+
+II.- En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, se encuentre al corriente en el pago de los Impuestos estatales y municipales en el ejercicio que terminó por fusión.
+
+En todo caso de Fusión, se deberán satisfacer, además, los requisitos previstos que para el caso de fusión establece el artículo 14-B del Código Fiscal de la Federación en su fracción I.
+
+En los casos de fusión o escisión de sociedades, cuando la sociedad escindente desaparezca, la sociedad que subsista, la que surja con motivo de la fusión o la escindida que se designe, deberá encontrarse al corriente en el pago de los impuestos estatales y municipales en el ejercicio que terminó por fusión o escisión, o en su defecto enterar los impuestos correspondientes o, en su caso, solicitar por la empresa que desaparezca la devolución de los saldos a favor de esta última que pudieran resultar.
+
+En los pagos a que se refieren la fracción II y el párrafo anterior, correspondientes a la fusionada o a la escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones autorizadas, el importe total de los actos o actividades gravados y exentos y de los acreditamientos, el valor de todos su (sic) activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio aquélla que corresponda a la fusión o escisión.
+
+Los interesados deberán presentar aviso a la Tesorería Municipal que corresponda del inicio de estas operaciones y a su término remitir un informe sobre el resultado de las mismas, mismos que se registrarán en un padrón que al efecto lleve la Tesorería Municipal.
+
+Para efectos de la aplicación puntual de este artículo, los Ayuntamientos podrán solicitar la colaboración de la Secretaría de Finanzas del Estado, en los casos que así lo requieran.
 
 DE LOS SUJETOS DEL IMPUESTO
 
@@ -4226,3 +4262,9 @@ P.O. 30 DE DICIEMBRE DE 2005.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE JUNIO DE 2007.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las empresas que al momento de la entrada en vigor de este Decreto se encuentren en proceso de integrar algunos de los supuestos contemplados en la reforma, deberán de informar de dicha circunstancia en un plazo no mayor de treinta días a la Tesorería Municipal que corresponda, contados a partir de la entrada en vigor de esta reforma, a efecto de que sea aplicado el nuevo régimen.
