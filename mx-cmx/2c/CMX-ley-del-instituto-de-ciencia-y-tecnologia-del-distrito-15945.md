@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-15945"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2007-04-30"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15945&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-03-14"
 
 LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 1 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -305,3 +307,25 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto formulará y presentará al Jefe de Gobierno el Programa de Ciencia y Tecnología del Distrito Federal dentro de los noventa días siguientes a la expedición de la presente Ley. Este documento deberá ser publicado en la Gaceta Oficial del Gobierno del Distrito Federal, a más tardar dentro del término de sesenta días siguientes a su presentación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Instituto de Ciencia y Tecnología del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el día 28 de marzo de 2000, así como sus Reformas del 15 de abril de 2003 y de 9 de junio de 2006 y se derogan las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los tres meses siguientes a la fecha de publicación de la presente Ley, el Instituto publicará sus Estatutos.
+
+###### ARTÍCULO QUINTO.
+
+El Jefe de Gobierno deberá constituir el Gabinete de Educación, Ciencia y Cultura; a más tardar dentro de los tres meses posteriores a la vigencia de la presente Ley.
