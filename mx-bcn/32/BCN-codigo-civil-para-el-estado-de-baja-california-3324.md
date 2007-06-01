@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2006-06-30"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -429,17 +429,21 @@ Para los efectos de lo dispuesto en el primer párrafo de este artículo, la ley
 
 (DEROGADO, P.O. 10 DE MAYO DE 1983)
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 62.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+Si los padres del hijo tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esta circunstancia y podrá asentarse el nombre de ambos progenitores si lo pidieren, observándose en su caso lo dispuesto por el artículo siguiente.
 
 ###### ARTICULO 63.
 
 Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 64.
 
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
+Podrá reconocerse al hijo nacido de una relación entre parientes consanguíneos. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2709,7 +2713,7 @@ Los hijos menores de dieciocho años de edad, no emancipados, están bajo la pat
 
 ###### ARTICULO 410.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuánto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a las personas menores de dieciocho años de edad infractores.
+La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a las personas menores de dieciocho años de edad infractores.
 
 ###### ARTICULO 411.
 
@@ -6591,13 +6595,11 @@ Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la p
 
 La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedando extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 1143.
 
-El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2006)</small>
-
-Admitida la demanda, el Juez ante quien se promueva el juicio pedirá informes al Catastro Municipal que corresponda, a la Secretaría de la Reforma Agraria, al Registro Agrario Nacional, a la Comisión Nacional del Agua y al Registro Público de la Propiedad Federal, para que en un plazo de nueve días informen acerca de los antecedentes que posea el inmueble a prescribir. Contesten o no, el juicio continuará.
+El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad y de Comercio, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 
 ###### ARTICULO 1144.
 
@@ -15838,3 +15840,15 @@ P.O. 19 DE MAYO DE 2006.
 P.O. 30 DE JUNIO DE 2006.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2007.
+
+DECRETO N° 338
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE JUNIO DE 2007.
+
+DECRETO N° 340
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico oficial del Estado.
