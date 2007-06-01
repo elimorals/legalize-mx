@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2007-05-25"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -265,9 +265,11 @@ I. Vigilar el cumplimiento de las disposiciones en la materia, e interpretar y a
 
 II. Garantizar que toda entidad sujeta a la ley de la materia cumpla con los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 32.
 
-LA INTEGRACIÓN DEL CONSEJO GENERAL. El Instituto se integrará por tres consejeros propietarios y tres suplentes.
+LA INTEGRACIÓN DEL CONSEJO GENERAL. El Consejo General se integrará por tres consejeros propietarios y tres suplentes.
 
 ###### ARTÍCULO 33.
 
@@ -351,7 +353,9 @@ EL DESARROLLO DE LAS SESIONES. Las sesiones del Consejo General se sujetarán a 
 
 I. Serán públicas.
 
-II. Serán válidas cuando se integren con la mitad más uno del total de los consejeros, siempre que esté presente su presidente o quien legalmente deba suplirlo.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+II. Serán válidas cuando se integre el quórum con la mayoría de los Consejeros;
 
 III. Podrán concurrir, con voz pero sin voto, el Director General y el Secretario Técnico.
 
@@ -559,15 +563,19 @@ APARTADO TERCERO
 
 EL RÉGIMEN DE AUSENCIAS DEL CONSEJO GENERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 46.
 
-LAS AUSENCIAS TEMPORALES O DEFINITIVAS. En caso de ausencia temporal o definitiva de algún consejero, el Consejero Presidente llamará al consejero suplente que corresponda, según el orden de prelación, para que desempeñe la función en forma temporal o definitiva, según se trate.
+LAS AUSENCIAS TEMPORALES O DEFINITIVAS. En caso de ausencia temporal o definitiva de algún consejero, el Consejo General llamará al consejero suplente que corresponda, según el orden de prelación, para que desempeñe la función en forma temporal o definitiva, según se trate.
 
 Por ausencia temporal se entenderá toda aquella que no exceda de quince días hábiles o por separación provisional de su cargo, previo permiso o licencia del Consejo General. Por ausencia definitiva se entenderá toda aquella que impida definitivamente que el consejero propietario pueda seguir ejerciendo su función, por renuncia, remoción definitiva del cargo, ausencia definitiva o cualquier otra causa grave justificada.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 47.
 
-LAS AUSENCIAS DEL PRESIDENTE. Las ausencias temporales del Consejero Presidente las suplirá el consejero que designe el propio presidente.
+LAS AUSENCIAS DEL PRESIDENTE. Las ausencias temporales del Consejero Presidente las suplirá el consejero propietario que designe el Consejo General.
 
 ###### ARTÍCULO 48.
 
@@ -942,3 +950,7 @@ CUARTO. A la entrada en vigor de la presente ley, terminará la vigencia del Con
 QUINTO. Se derogan los artículos Quinto Transitorio de la Ley del Instituto Coahuilense de Acceso a la Información Pública y Tercero Transitorio de la Ley de Archivos Públicos del Estado de Coahuila, ambas publicadas en el Periódico Oficial del Gobierno del Estado en fecha 04 de noviembre del 2003, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
 
 SEXTO. El Patronato del Archivo General del Estado, dentro de un plazo de ciento ochenta días hábiles siguientes, contados a partir de la fecha en que quede formalmente instalado, deberá formular el proyecto de Reglamento Interior del Archivo General del Estado de Coahuila y someterlo a consideración del Ejecutivo para su aprobación.
+
+P.O. 1 DE JUNIO DE 2007.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y quedarán derogadas las disposiciones legales, administrativas y reglamentarias que se le opongan.
