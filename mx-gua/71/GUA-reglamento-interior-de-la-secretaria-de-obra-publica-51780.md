@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-obra-publica-51780"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-19"
-last_updated: "2006-09-19"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
-Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2006.
+Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2006.
 
 JUAN CARLOS ROMERO HICKS, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III, y 79 de la Constitución Política para el Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2, 6 y 9 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
@@ -77,7 +77,7 @@ b. Dirección General de Administración de Obra:
 
 1. Dirección de Costos de Obra; y
 
-2. Dirección de Contratos.
+2. (DEROGADO, P.O. 1 DE JUNIO DE 2007)
 
 III.- Subsecretaría de Administración Interna y Servicios Jurídicos:
 
@@ -87,9 +87,17 @@ a. Dirección General de Administración Interna:
 
 b. Dirección General de Servicios Jurídicos:
 
-1. Dirección de Asuntos Jurídicos; y
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
 
-2. Dirección de Derecho de Vía.
+1. Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
+2. Dirección de Derecho de Vía; y
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2007)</small>
+
+3. Dirección de Contratos.
 
 IV.- Subsecretaría de Construcción:
 
@@ -485,11 +493,11 @@ II.- Planear, organizar, administrar y controlar los recursos financieros del ga
 
 III.- Gestionar la autorización y aprobación de recursos para la ejecución de obra pública con recursos propios;
 
-IV.- Dar seguimiento a la organización y celebración de los procedimientos de contratación de la obra pública y servicios relacionados con la misma, vigilando que se lleven acabo con la formalidad y legalidad que exigen los ordenamientos aplicables;
+IV.- (DEROGADA, P.O. 1 DE JUNIO DE 2007)
 
 V.- Ordenar, de ser necesario, la práctica de los estudios de preinversión o rentabilidad social que se requieran para definir la factibilidad para la ejecución de obras;
 
-VI.- Vigilar que la elaboración de los contratos y convenios relativos a la obra pública y servicios relacionados con la misma, se lleve a cabo con base en las disposiciones jurídicas aplicables y dar seguimiento al cumplimiento de los mismos;
+VI.- (DEROGADA, P.O. 1 DE JUNIO DE 2007)
 
 VII.- Coadyuvar en la celebración de los convenios que en materia de obra pública y servicios relacionados con la misma se realicen con otras dependencias, entidades, organismos autónomos o municipios, conforme a las disposiciones jurídicas aplicables; y
 
@@ -528,6 +536,8 @@ VII.- Elaborar, revisar y tramitar las solicitudes de pago de las estimaciones, 
 VIII.- Intervenir en los análisis y justificaciones para las solicitudes de ampliaciones presupuestales en proyectos de inversión que requiera la Secretaría.
 
 #### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN DE OBRA
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
 
 ###### Artículo 23.
 
@@ -587,11 +597,7 @@ VIII.- Revisar la documentación para la elaboración de solicitudes de pago de 
 
 ###### Artículo 25.
 
-La Dirección General de Administración de Obra deberá dirigir, coordinar y supervisar el trabajo de las siguientes direcciones de área:
-
-I.- Dirección de Costos de Obra; y
-
-II.- Dirección de Contratos.
+La Dirección General de Administración de Obra deberá dirigir, coordinar y supervisar el trabajo de la Dirección de Costos de Obra.
 
 ###### Artículo 26.
 
@@ -599,15 +605,23 @@ La Dirección General de Administración de Obra, además de las atribuciones ge
 
 I.- Coordinar y vigilar el cumplimiento de la normativa vigente en materia de precios unitarios y en la elaboración de presupuestos de las diferentes acciones que son encomendadas para su ejecución a la Secretaría;
 
-II.- Supervisar que los procedimientos de contratación de obra pública y servicios relacionados con la misma, se sujeten a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-III.- Vigilar que la elaboración de los contratos y convenios modificatorios relacionados con la obra pública y los servicios relacionados con la misma, se lleven a cabo con base en las disposiciones jurídicas aplicables y dar seguimiento al cumplimiento de los mismos;
+II.- Verificar la información sobre el comportamiento de variación de los precios;
 
-IV.- Verificar la información sobre el comportamiento de variación de los precios;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-V.- Proporcionar los elementos de costo de las obras incluidas en el Programa Anual de Obra; y
+III.- Proporcionar los elementos de costo de las obras incluidas en el Programa Anual de Obra;
 
-VI.- Supervisar la correcta organización, funcionamiento y actualización del Padrón Estatal de Contratistas.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+IV.- Vigilar y reportar al Secretario por conducto del Subsecretario de Programación y Administración de Obra, el comportamiento y avance de los programas de inversión; y
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+V.- Proponer esquemas de seguimiento para un eficiente ejercicio de los programas de inversión.
+
+VI.- (DEROGADA, P.O. 1 DE JUNIO DE 2007)
 
 #### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN INTERNA
 
@@ -639,33 +653,7 @@ X.- Organizar y administrar el sistema estatal de costos de los insumos básicos
 
 ###### Artículo 28.
 
-La Dirección de Contratos, además de las atribuciones genéricas, tendrá las siguientes:
-
-I.- Verificar la información administrativa, financiera y técnica, respecto de las obras públicas y servicios relacionados con las mismas que han de ser adjudicadas o licitadas de acuerdo a la normativa aplicable;
-
-II.- Cuidar que en la contratación de la obra pública y servicios relacionados con la misma se realice y se observe la normativa vigente, en cuanto a las formas de adjudicación y requisitos de contratación;
-
-III.- Convocar a contratistas y consultores a participar en las licitaciones que realice la Secretaría, según sea el caso, de acuerdo con las disposiciones jurídicas aplicables;
-
-IV.- Elaborar y vigilar que se publiquen en forma oportuna, las convocatorias de licitaciones, en los medios de información que señalan las leyes y disposiciones jurídicas aplicables;
-
-V.- Organizar, celebrar y presidir las distintas etapas de las licitaciones públicas y simplificadas, vigilando que se lleven a cabo con la formalidad y legalidad que exigen los ordenamientos aplicables e invitar a participar en ellas, a las entidades públicas o privadas que por disposición expresa de las leyes de la materia, deban intervenir, directamente o a través del servidor público que designe;
-
-VI.- Notificar a los participantes en las licitaciones públicas y simplificadas, los resultados de las mismas con base en el dictamen emitido por el Comité de Fallos, directamente o a través del servidor público que designe;
-
-VII.- Cuidar que con toda oportunidad y dentro de los plazos establecidos por las leyes, reglamentos y demás disposiciones jurídicas aplicables, se elaboren y formalicen los contratos de obra y servicios relacionados con la misma, adjudicados a los contratistas;
-
-VIII.- Elaborar los contratos y convenios modificatorios en materia de obra pública y servicios relacionados con la misma, con base en las leyes y disposiciones jurídicas aplicables;
-
-IX.- Vigilar que los intereses del Gobierno del Estado y en particular los de la Secretaría, queden debidamente protegidos y garantizados en la celebración y ejecución de los contratos y convenios modificatorios de obra pública y servicios relacionados con la misma, en los que esta última sea parte;
-
-X.- Intervenir en la constitución de las garantías, que aseguren el exacto cumplimiento de los contratos y convenios en los que sea parte la Secretaría, de acuerdo a la normativa aplicable;
-
-XI.- Asesorar a los municipios del Estado en materia de procedimientos de contratación de obra pública y servicios relacionados con la misma, cuando así lo soliciten;
-
-XII.- Administrar, controlar y mantener actualizado el Padrón Estatal de Contratistas; y
-
-XIII.- Cancelar o suspender el registro en el Padrón Estatal de Contratistas de aquéllos que incumplan con sus obligaciones.
+(DEROGADO, P.O. 1 DE JUNIO DE 2007)
 
 ## TÍTULO QUINTO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DE LA SUBSECRETARÍA DE ADMINISTRACIÓN INTERNA Y SERVICIOS JURÍDICOS
 
@@ -705,9 +693,17 @@ X.- Dar seguimiento a las adquisiciones, arrendamientos y contratación de servi
 
 XI.- Coordinar y dirigir programas y acciones de calidad para las áreas de la Secretaría;
 
-XII.- Supervisar los asuntos y procedimientos de naturaleza jurídica en los que la Secretaría tenga injerencia; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-XIII.- Vigilar el desarrollo de la problemática relativa a la liberación del Derecho de Vía y tomar las medidas conducentes para su atención.
+XII.- Supervisar los asuntos y procedimientos de naturaleza jurídica en los que la Secretaría tenga injerencia;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XIII.- Vigilar el desarrollo de la problemática relativa a la liberación del Derecho de Vía y tomar las medidas conducentes para su atención; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XIV.- Dar seguimiento a la organización y celebración de los procedimientos de contratación de obra pública y servicios relacionados con la misma, vigilando que se lleven a cabo con la formalidad y legalidad que exigen los ordenamientos aplicables.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE SERVICIOS JURÍDICOS
 
@@ -795,9 +791,17 @@ XIII.- Diseñar y promover la adopción de medidas y programas que conduzcan al 
 
 Se encuentran adscritas a la Dirección General de Servicios Jurídicos las siguientes direcciones de área:
 
-I.- Dirección de Asuntos Jurídicos; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-II.- Dirección de Derecho de Vía.
+I.- Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+II.- Dirección de Derecho de Vía; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+III.- Dirección de Contratos.
 
 ###### Artículo 35.
 
@@ -825,11 +829,57 @@ X.- Expedir las certificaciones derivadas de contratos y convenios, así como de
 
 XI.- Resolver los recursos administrativos que se interpongan ante la Secretaría;
 
-XII.- Resolver los procedimientos en los que la Secretaría decida la terminación anticipada y rescisión administrativa de los contratos y convenios que celebre; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-XIII.- Opinar sobre la celebración de contratos de fideicomiso en los que deba intervenir la Secretaría.
+XII.- Resolver los procedimientos de terminación anticipada, suspensión de obra o servicios relacionados con la misma, así como rescisión administrativa de los contratos y convenios que celebre la Secretaría;
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XIII.- Opinar sobre la celebración de contratos de fideicomiso en los que deba intervenir la Secretaría;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XIV.- Supervisar que los procedimientos de contratación de obra pública y servicios relacionados con la misma, se sujeten a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XV.- Vigilar que la elaboración de los contratos y convenios modificatorios relacionados con la obra pública y servicios relacionados con la misma, se lleven a cabo con base en las disposiciones jurídicas aplicables y dar seguimiento al cumplimiento de los mismos; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XVI.- Supervisar la correcta organización, funcionamiento y actualización del Padrón Estatal de Contratistas.
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CONTRATOS
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2007)</small>
+
+Artículo 37 bis.- La Dirección de Contratos, además de las atribuciones genéricas, tendrá las siguientes:
+
+I.- Verificar la información administrativa, financiera y técnica, respecto de las obras públicas y servicios relacionados con las mismas que han de ser adjudicadas o licitadas de acuerdo a la normativa aplicable;
+
+II.- Cuidar que en la contratación de la obra pública y servicios relacionados con la misma se observe la normativa vigente, en cuanto a las formas de adjudicación y requisitos de contratación;
+
+III.- Convocar a contratistas y consultores a participar en las licitaciones que realice la Secretaría, según sea el caso, de acuerdo con las disposiciones jurídicas aplicables;
+
+IV.- Elaborar y vigilar que se publiquen en forma oportuna, las convocatorias de licitaciones, en los medios de información que señalan las leyes y disposiciones jurídicas aplicables;
+
+V.- Organizar, celebrar y presidir las distintas etapas de las licitaciones públicas y simplificadas, vigilando que se lleven a cabo con la formalidad y legalidad que exigen los ordenamientos aplicables e invitar a participar en ellas, a las entidades públicas o privadas que por disposición expresa de las leyes de la materia, deban intervenir, directamente o a través del servidor público que designe;
+
+VI.- Notificar a los participantes en las licitaciones públicas y simplificadas, los resultados de las mismas con base en el dictamen emitido por el Comité de Fallos, directamente o a través del servidor público que al efecto se designe;
+
+VII.- Cuidar que con toda oportunidad y dentro de los plazos establecidos por las leyes, reglamentos y demás disposiciones administrativas aplicables, se elaboren y formalicen los contratos de obra pública y servicios relacionados con la misma, adjudicados a los contratistas;
+
+VIII.- Elaborar los contratos y convenios modificatorios en materia de obra pública y servicios relacionados con la misma, con base en las leyes y disposiciones jurídicas aplicables;
+
+IX.- Vigilar que los intereses del Gobierno del Estado y en particular los de la Secretaría, queden debidamente protegidos y garantizados en la celebración y ejecución de los contratos y convenios modificatorios de obra pública y servicios relacionados con la misma, en los que esta última sea parte;
+
+X.- Intervenir en la constitución de las garantías, que aseguren el exacto cumplimiento de los contratos y convenios en los que sea parte la Secretaría, de acuerdo a la normativa aplicable;
+
+XI.- Asesorar a los municipios del Estado en materia de procedimientos de contratación de obra pública y servicios relacionados con la misma, cuando así lo soliciten;
+
+XII.- Administrar, controlar y mantener actualizado el Padrón Estatal de Contratistas; y
+
+XIII.- Cancelar o suspender el registro en el Padrón Estatal de Contratistas de aquellos que incumplan con sus obligaciones.
 
 ###### Artículo 36.
 
@@ -841,7 +891,9 @@ II.- Iniciar y sustanciar los procedimientos jurídico-administrativos que sean 
 
 III.- Representar a la Secretaría ante toda clase de autoridades, sustanciar diligencias, juicios, trámites y procedimientos necesarios, así como elaborar informes previos y justificados que deban rendir el Secretario y los servidores públicos de la Secretaría;
 
-IV.- Iniciar y sustanciar los procedimientos en los que la Secretaría resuelva la terminación anticipada y rescisión administrativa de los contratos y convenios que la misma celebre;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+IV.- Iniciar y sustanciar los procedimientos en los que la Secretaría resuelva la terminación anticipada, suspensión de obras y servicios relacionados con las mismas, así como rescisión administrativa de los contratos y convenios que la misma celebre;
 
 V.- Compilar leyes, reglamentos, decretos, circulares y todo tipo de disposiciones administrativas relacionadas con las funciones de la Secretaría, así como la jurisprudencia relativa a la materia de obra pública y servicios relacionados con la misma;
 
@@ -859,15 +911,29 @@ XI.- Llevar el control de las publicaciones en el Diario Oficial de la Federaci�
 
 XII.- Realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones de la Secretaría;
 
-XIII.- Sustanciar los recursos de revocación y demás recursos administrativos que le corresponda conocer a la Secretaría, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XIII.- Admitir, desechar y sustanciar los recursos de revocación y demás recursos administrativos que le corresponda conocer a la Secretaría, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas;
 
 XIV.- Acordar las solicitudes de suspensión del acto impugnado en los recursos administrativos, así como la devolución de documentos que se acompañaron a dicho recurso, previa solicitud de los recurrentes;
 
-XV.- Exigir el cumplimiento forzoso de los contratos y convenios que celebre la Secretaría y formular todo tipo de requerimientos a contratistas y consultores por incumplimiento de sus obligaciones; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
 
-XVI.- Designar como peritos oficiales a los profesionistas adscritos a la Secretaría, cuando así lo soliciten las diferentes autoridades judiciales, estatales y federales, en los casos en que no se interfiera el desarrollo normal de las actividades de la Secretaría.
+XV.- Exigir el cumplimiento forzoso de los contratos y convenios que celebre la Secretaría y formular todo tipo de requerimientos a contratistas y consultores por incumplimiento de sus obligaciones;
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESTAURACIÓN DEL PATRIMONIO HISTÓRICO
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XVI.- Designar como peritos oficiales a los profesionistas adscritos a la Secretaría, cuando así lo soliciten las diferentes autoridades judiciales, estatales y federales, en los casos en que no se interfiera el desarrollo normal de las actividades de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XVII.- Notificar a los contratistas, consultores y demás personas los actos y resoluciones jurídico-administrativos emitidos con motivo de la aplicación de leyes y demás disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2007)</small>
+
+XVIII.- Solicitar a las unidades administrativas de la Secretaría la información y documentación necesarios para la sustanciación de los asuntos que le corresponda atender.
+
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
 
 ###### Artículo 37.
 
@@ -895,7 +961,9 @@ X.- Brindar asesoría en materia de Derecho de Vía a otras dependencias, entida
 
 XI.- Vigilar, en coordinación con la Dirección General de Infraestructura Vial, que se respete el Derecho de Vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE EDIFICACIÓN
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE JUNIO DE 2007)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESTAURACIÓN DEL PATRIMONIO HISTÓRICO
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EDIFICACIÓN
 
@@ -931,7 +999,7 @@ V.- Revisar que los proyectos de infraestructura vial y de edificación que ejec
 
 ### CAPÍTULO ÚNICO. DE LA COMPETENCIA DEL COMITÉ DE FALLOS
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE OBRA CIVIL
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE EDIFICACIÓN
 
 ###### Artículo 40.
 
@@ -967,7 +1035,7 @@ VII.- Participar, en coordinación con otras dependencias y entidades, en el est
 
 VIII.- Participar en el análisis que permita al término de una obra, evaluar el desempeño de su ejercicio.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE PROYECTOS DE OBRA CIVIL
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE OBRA CIVIL
 
 ###### Artículo 42.
 
@@ -989,7 +1057,7 @@ VII.- Coordinar, revisar e iniciar el trámite para el pago de las estimaciones 
 
 VIII.- Requerir a los contratistas y consultores la elaboración de manuales de operación y mantenimiento por cada obra de restauración realizada, para ser entregados a la dependencia u organismo bajo cuya custodia quedará la misma.
 
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PRESAS Y PROYECTOS ESPECIALES
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE PROYECTOS DE OBRA CIVIL
 
 ###### Artículo 43.
 
@@ -1011,7 +1079,7 @@ VII.- Identificar las necesidades e iniciar el trámite de solicitud de recursos
 
 VIII.- Llevar a cabo la entrega-recepción de las obras de edificación encomendadas a la Secretaría, con apego a la normativa vigente o estipulaciones convenidas.
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PRESAS Y PROYECTOS ESPECIALES
 
 ###### Artículo 44.
 
@@ -1045,7 +1113,7 @@ XIII.- Elaborar los dictámenes técnicos que se le encomienden; y
 
 XIV.- Elaborar los informes del avance físico y financiero de los diferentes programas de obra que le hayan sido encomendados.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE OBRA VIAL
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE INFRAESTRUCTURA VIAL
 
 ###### Artículo 45.
 
@@ -1081,7 +1149,7 @@ XIV.- Integrar, conservar y preservar el acervo documental gráfico que correspo
 
 XV.- Apoyar en la integración, clasificación y evaluación del Padrón Estatal de Contratistas en materia de estudios y proyectos.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INGENIERÍA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE CONTROL TÉCNICO DE OBRA VIAL
 
 ###### Artículo 46.
 
@@ -1105,7 +1173,7 @@ VIII.- Coordinar acciones y participar en la construcción de las obras materia 
 
 ### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
-#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE CONSTRUCCIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE INGENIERÍA
 
 ###### Artículo 47.
 
@@ -1143,7 +1211,7 @@ VIII.- Dirigir y controlar los proyectos ejecutivos en las vías de comunicació
 
 IX.- Colaborar con la Dirección General de Tránsito y Transporte del Estado, en la planeación del transporte en carreteras de jurisdicción estatal y de la Federación entregadas al Ejecutivo del Estado.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE CONSERVACIÓN
+#### SECCIÓN CUARTA. DE LAS DIRECCIONES DE CONSTRUCCIÓN
 
 ###### Artículo 49.
 
@@ -1167,7 +1235,7 @@ VIII.- Dar seguimiento a la entrega-recepción de las obras de infraestructura v
 
 IX.- Apoyar a la Dirección General de Administración Interna en la aplicación de los programas de capacitación, desarrollo humano y recursos materiales.
 
-#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PUENTES
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN DE CONSERVACIÓN
 
 ###### Artículo 50.
 
@@ -1191,7 +1259,7 @@ VIII.- Coordinar los levantamientos topográficos para dictaminar las afectacion
 
 IX.- Participar, en conjunto con la Coordinación de Conservación, en la elaboración de los estudios relacionados con la planeación de infraestructura vial estatal.
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VERIFICACIÓN Y PRUEBAS
+#### SECCIÓN SEXTA. DE LA COORDINACIÓN DE PUENTES
 
 ###### Artículo 51.
 
@@ -1262,6 +1330,8 @@ XI.- Evaluar las necesidades de dispositivos de señalización en la red carrete
 XII.- Elaborar dictámenes técnicos para dar atención a solicitudes de permisos de construcción de accesos, cruzamientos, instalaciones marginales y alineamientos, sobre la red carretera estatal; y
 
 XIII.- Elaborar y revisar los anteproyectos de los programas de reconstrucción y conservación de carreteras a su cargo.
+
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE VERIFICACIÓN Y PRUEBAS
 
 ###### Artículo 54.
 
@@ -1444,3 +1514,11 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE OBRAS PÚBLICAS
 
 JOSÉ RICARDO ORTIZ GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JUNIO DE 2007.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto Gubernativo.
