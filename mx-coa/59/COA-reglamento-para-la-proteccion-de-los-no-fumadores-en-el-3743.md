@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-3743"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-11"
-last_updated: "1992-02-11"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 11 de febrero de 1992.
 
@@ -250,3 +252,25 @@ LIC. FELIPE A. GONZALEZ RODRIGUEZ. (Rúbrica)
 EL SECRETARIO DE SALUD.
 
 DR. RAYMUNDO VERDUZCO ROSAN. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JUNIO DE 2007.
+
+PRIMERO.- Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento para la Protección de los No Fumadores en el Estado de Coahuila.
+
+TERCERO.- Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de ésta ley.
+
+CUARTO.- La Secretaría de Salud contará con un plazo de 60 días naturales, posteriores a la publicación de la ley, para la elaboración y difusión del manual de señalamientos y avisos que deberán ser colocados en forma obligatoria, por los establecimientos, empresas, industrias y oficinas de gobierno a que hace referencia el presente ordenamiento.
+
+QUINTO.- Una vez establecido el manual, el Ejecutivo del Estado difundirá su contenido, a través de las cámaras empresariales e industriales y medios masivos de comunicación.
+
+SEXTO.- Todos los establecimientos, empresas, industrias y oficinas de gobierno y órganos autónomos del Estado a que se refiere la presente ley, contarán con un plazo de 90 días naturales siguientes a la publicación del presente ordenamiento, para cumplir con todos los requerimientos de este.
+
+SEPTIMO.- Los propietarios, poseedores o responsables de los vehículos a que se refiere la fracción XI y XII del artículo 13 deberán dar cumplimiento a la obligación de fijar en el interior y exterior de los vehículos, las señalizaciones adecuadas durante los 60 días siguientes contados a partir de que entre en vigor la presente ley.
+
+OCTAVO.- En relación con los municipios, el Capitulo Cuarto de las Sanciones de la presente ley, entrara en vigor una vez que los mismos realicen las modificaciones correspondientes en sus Leyes de Ingresos.
+
+NOVENO.- Se derogan las disposiciones establecidas en otros ordenamientos en lo que contravengan lo dispuesto en la presente ley.
