@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2006-12-04"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -873,9 +873,9 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 
 III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al Artículo 2890 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
 
-Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquéllas si fuere conocido; la ubicación precisa del bien, medidas y sus colindancias; el nombre y domicilio de los colindantes, debiendo acompañar levantamiento topográfico o deslinde debidamente autorizado y certificado por catastro competente en donde se ubique el inmueble; así como un certificado de no-inscripción del inmueble expedido por el Registro Público de la Propiedad. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad, al catastro Municipal que corresponda, a la Secretaría de la Reforma Agraria, al Registro Agrario Nacional, a la Comisión Nacional del Agua, y al Registro Público de la Propiedad Federal, para que manifiesten lo que a su derecho convenga, por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a in matricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
+Igualmente los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien, medidas y sus colindancias; en nombre y domicilio de los colindantes, debiendo acompañar levantamiento topográfico o deslinde debidamente autorizado y certificado por catastro competente en donde se ubique el inmueble; así como un certificado de no-inscripción del inmueble expedido por el Registro Público de la Propiedad. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad para que manifiesten lo que a su derecho convenga, por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el Juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a in matricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días.
 
 La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
 
@@ -995,7 +995,7 @@ X.- (DEROGADA, P.O. 10 DE AGOSTO DE 1987)
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
-XI.- Contra la declaración de caducidad se dáa sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
+XI.- Contra la declaración de caducidad se dá sólo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición. Tanto en la apelación de la declaración como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciban, se alegue y se pronuncie resolución. Contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada cabe la apelación en el efecto devolutivo, con igual substanciación;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -4091,9 +4091,9 @@ ART. 593.- Traducida la ejecutoria en la forma prevista en el artículo 325, se 
 
 La apelación se substanciará sumariamente.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
-ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
+ART. 594.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6748,3 +6748,7 @@ P.O. 30 DE JUNIO DE 2006.
 P.O. 4 DE DICIEMBRE DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE JUNIO DE 2007.
+
+ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico oficial del Estado.
