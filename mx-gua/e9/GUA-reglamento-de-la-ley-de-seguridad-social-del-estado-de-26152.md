@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26152"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2002-10-01"
+last_updated: "2007-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL SISTEMA DE AHORRO VOLUNTARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
 
@@ -119,7 +119,9 @@ El retraso en el entero de los importes por parte del empleador se resolverá en
 
 El límite inferior de depósitos por concepto de ahorro voluntario mensual, será el equivalente a un salario mínimo general diario vigente en el Estado de Guanajuato.
 
-El límite superior de saldo de ahorro voluntario será el equivalente a catorce veces el salario mínimo general diario vigente en el Estado de Guanajuato, elevado al año.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE JUNIO DE 2007)</small>
 
 ###### Artículo 13.
 
@@ -192,3 +194,11 @@ JUAN MANUEL OLIVA RAMÍREZ.
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JUNIO DE 2007.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto Gubernativo.
