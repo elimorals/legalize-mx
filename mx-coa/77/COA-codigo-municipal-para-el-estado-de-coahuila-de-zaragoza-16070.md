@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2007-01-02"
+last_updated: "2007-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3705,9 +3705,11 @@ Los ayuntamientos acordarán lo conducente para que los juzgados municipales cue
 
 ### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 389.
 
-Los actos y resoluciones dictados por el ayuntamiento, por el presidente municipal y por las dependencias y entidades de la administración pública municipal, podrán ser impugnados mediante el recurso de inconformidad, cuando afecten intereses jurídicos de los particulares.
+Los actos y resoluciones dictados por el ayuntamiento, por el presidente municipal, por las dependencias, entidades y organismos de la administración pública municipal, podrán ser impugnados mediante el recurso de inconformidad, cuando afecten intereses jurídicos de los particulares.
 
 Será optativo para el particular afectado, impugnar los actos y resoluciones a que se refiere el párrafo anterior, mediante el recurso de inconformidad que aquí se regula, o bien acudir ante el tribunal de lo contencioso administrativo.
 
@@ -3715,9 +3717,11 @@ Será optativo para el particular afectado, impugnar los actos y resoluciones a 
 
 El recurso de inconformidad contra actos y resoluciones del Ayuntamiento, se interpondrá ante el propio cuerpo colegiado. En este caso el secretario del Ayuntamiento fungirá como instructor del procedimiento de este recurso.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 391.
 
-Tratándose de actos y resoluciones que emitan el presidente municipal y las dependencias y entidades de la administración pública municipal, el recurso de inconformidad se interpondrá ante los juzgados municipales.
+Tratándose de actos y resoluciones que emitan el presidente municipal, las dependencias, entidades y organismos de la administración pública municipal, el recurso de inconformidad se interpondrá ante los juzgados municipales.
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO DEL RECURSO DE INCONFORMIDAD
 
@@ -4030,3 +4034,13 @@ P.O. 2 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente adición al Código Municipal para el Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
