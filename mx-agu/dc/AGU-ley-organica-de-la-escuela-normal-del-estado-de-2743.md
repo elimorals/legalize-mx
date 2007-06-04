@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-escuela-normal-del-estado-de-2743"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-05-04"
-last_updated: "1986-05-04"
+last_updated: "2007-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ESCUELA NORMAL DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 4 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 4 de mayo de 1986.
 
@@ -310,3 +312,23 @@ Lic. Joaquín Cruz Ramírez.
 EL SECRETARIO DE LOS SERVICIOS COORDINADOS DE EDUCACION PUBLICA EN EL ESTADO,
 
 Prof. José Santos Reyna M.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Escuela Normal de Aguascalientes, publicada en el Periódico Oficial del Estado en fecha 4 de mayo de 1986.
+
+###### ARTICULO TERCERO.
+
+El Consejo Directivo deberá estar integrado a más tardar quince días después de la entrada en vigencia de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+El Consejo Directivo expedirá el Reglamento Interior de la Escuela Normal de Aguascalientes, dentro del plazo de 90 días, contados a partir de la integración de dicho Órgano de Gobierno.
