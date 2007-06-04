@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2007-04-30"
+last_updated: "2007-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -7107,7 +7107,7 @@ XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
 
 ### CAPITULO SEGUNDO. De la Prestación del Servicio de Agua potable y Alcantarillado
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 605.
 
@@ -7121,7 +7121,7 @@ II.- Observar las condiciones particulares de descarga de las aguas residuales c
 
 III.- Realizar cada seis meses un muestreo y análisis del agua residual de sus procesos a través de un laboratorio acreditado ante la entidad Mexicana de Acreditación A.C., que vierten a la red municipal en función de las condiciones particulares que se les fijó y entregarán una copia a la Comisión; y
 
-IV.- En el caso de que los resultados de los análisis del agua residual que vierten a la red municipal esté fuera de norma y contaminen se les suspenderá el permiso para descargar sus aguas residuales hasta que presenten un programa de mejora.
+IV.- En el caso de que en los resultados de los análisis del agua residual que vierten a la red municipal esté fuera de norma y contaminen se les suspenderá el permiso para descargar sus aguas residuales hasta que presenten un programa de mejora.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7129,15 +7129,17 @@ IV.- En el caso de que los resultados de los análisis del agua residual que vie
 
 A cada predio o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas residuales y otra pluvial, cuando estos sistemas deban estar separados, y una descarga, cuando sean combinadas. La Comisión dictaminará la factibilidad de la instalación, y fijará las especificaciones técnicas a las que se sujetarán.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
 
 Para el caso de las personas Físicas o Morales que ya desarrollan o que pretendan realizar actividades industriales, comerciales, agrícolas y de servicio y que son altamente demandantes de agua en el Municipio deberán cumplir con los siguientes requisitos:
 
-I. Tramitar sus permisos de agua potable ante la Comisión.
+I.- Tramitar sus permisos de agua potable ante la Comisión.
 
-II. Presentar un programa donde manifiesten la forma en que ahorrarán agua en sus procesos, para evitar consumos excesivos; y
+II.- Presentar un programa donde manifiesten la forma en que ahorrarán agua en sus procesos, para evitar consumos excesivos; y
 
-III. Contar con medidores para verificar su cumplimiento que les serán instalados por la Comisión.
+III.- Contar con medidores para verificar su cumplimiento que les serán instalados por la Comisión.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
 
 Cuando la solicitud de los servicios públicos no cumpla con los requisitos necesarios, se prevendrá a los interesados para que los satisfagan dentro del término de quince días hábiles, contados a partir de la fecha en que reciban la comunicación. En caso de que no se cumpla con este requerimiento, el interesado deberá presentar una nueva solicitud.
 
@@ -22578,5 +22580,15 @@ P.O. 30 DE ABRIL DE 2007.
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
+
+P.O. 4 DE JUNIO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
