@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2006-12-29"
+last_updated: "2007-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -1901,7 +1901,9 @@ B) Cancelar definitivamente el permiso de conducir correspondiente, haciendo la 
 
 C) Imponer las sanciones que procedan, sin perjuicio de la responsabilidad civil que resulte.
 
-D) Se remitirá al menor al Consejo Estatal de Menores.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
+
+D) Se remitirá al menor a la Agencia del Ministerio Público Especial en Justicia para Adolescentes.
 
 ###### ARTÍCULO 132.
 
@@ -2127,9 +2129,11 @@ VII. Fotografía, grabación, registro o aquella con la que se demuestre la comi
 
 En el caso de las infracciones cometidas por menores de edad, para poder recuperar la licencia de conducir será necesario que quien ejerza la patria potestad sobre el menor se presente en las oficinas de la Dependencia Municipal correspondiente, personalmente a efecto de recuperarla.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 144.
 
-Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o al Consejo Estatal de Menores, poniendo a su disposición a la persona indiciada.
+Si la Autoridad Municipal observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público investigador correspondiente, o a la Agencia del Ministerio Público Especial en Justicia para Adolescentes, poniendo a su disposición a la persona indiciada.
 
 ###### ARTÍCULO 145.
 
@@ -2188,3 +2192,13 @@ PRIMERO: Las presentes reformas y modificaciones entraran en vigor a partir del 
 SEGUNDO: Se derogan todas las disposiciones reglamentarias, circulares, acuerdos, y normas que contravengan el contenido de las presentes reformas y modificaciones.
 
 TERCERO: Cúmplase.
+
+P.O. 4 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remite para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
