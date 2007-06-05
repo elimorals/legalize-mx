@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2007-06-01"
+last_updated: "2007-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1113,7 +1113,13 @@ X. Concurrir a las ceremonias cívicas y a los demás actos oficiales a que fuer
 
 XI. Rendir los informes de los egresos generados en el presupuesto ejercido con motivo de las comisiones en que participen.
 
-XII. Las demás que les impusieren los reglamentos municipales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2007)</small>
+
+XII. Requerir a cualquier servidor público del municipio, la información de la gestión municipal necesaria para dar oportuna solución a las demandas sociales, aspectos administrativos y de interés general, a fin de lograr su oportuna solución, por lo que los funcionarios y directores administrativos del Ayuntamiento deberán atender su intervención y proveer la oportuna información de sus promociones.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2007)</small>
+
+XIII. Las demás que les impusieren los reglamentos municipales.
 
 ###### ARTÍCULO 106.
 
@@ -4040,6 +4046,16 @@ P.O. 1 DE JUNIO DE 2007.
 ###### ARTÍCULO PRIMERO.
 
 La presente adición al Código Municipal para el Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma y adición al Código Municipal para el Estado, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
