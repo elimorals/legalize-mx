@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2007-03-27"
+last_updated: "2007-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -53,11 +53,13 @@ Es objeto de la presente ley regular la función de fiscalización, control y ev
 
 La Auditoría Superior del Estado es el órgano técnico de fiscalización, control y evaluación gubernamental del Congreso del Estado. Cuenta con personalidad jurídica y patrimonio propios; autonomía técnica, presupuestal y de gestión.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 4º.
 
-El Congreso del Estado, a través de la Comisión de Hacienda y Crédito Público verificará que sus funciones se desarrollen de acuerdo a la presente ley.
+El Congreso del Estado, a través de la Comisión de Vigilancia de la Auditoría Superior del Estado verificará que sus funciones se desarrollen de acuerdo a la presente ley.
 
-La Comisión de Hacienda y Crédito Público estará integrada pluralmente.
+La Comisión de Vigilancia de la Auditoría Superior del Estado estará integrada pluralmente.
 
 ###### ARTICULO 5º.
 
@@ -65,9 +67,13 @@ Para efectos de esta ley, se entiende por:
 
 I.- Auditoría: La Auditoría Superior del Estado;
 
-II.- Comisión: La Comisión de Hacienda y Crédito Público del Congreso del Estado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-III.- Cuenta Pública: Informe trimestral que contiene los estados financieros, contables, patrimoniales, presupuestales, programáticos y de otro orden del Estado o municipios de acuerdo a sus ingresos y egresos.
+II.- Comisión: La Comisión de Vigilancia de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+III.- Cuenta pública: Informe que contiene los estados financieros, contables, patrimoniales, presupuestales, programáticos y de otro orden de las entidades sujetas de fiscalización de acuerdo a sus ingresos y egresos;
 
 IV.- Entidades sujetas de fiscalización:
 
@@ -75,11 +81,19 @@ a).- Poderes del Estado: Poderes Ejecutivo, Legislativo y Judicial, así como su
 
 b).- Gobiernos Municipales: Los Ayuntamientos del Estado;
 
-c).- Organismos Descentralizados Estatales y Municipales;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
-d).- Empresas y Fideicomisos en los que el fideicomitente sea cualquiera de las entidades citadas en los incisos a), b) y c) de esta fracción, y;
+c).- Organismos Públicos Descentralizados Estatales y Municipales;
 
-e).- En general, los que por alguna razón administren o manejen fondos o valores del sector público estatal o municipal.
+d).- Empresas y Fideicomisos en los que el fideicomitente sea cualquiera de las entidades citadas en los incisos a), b) y c) de esta fracción, y (sic);
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+e).- Órganos u Organismos con autonomía de los Poderes del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+f).- En general, los que por alguna razón administren fondos o valores del sector público estatal o municipal.
 
 V.- Gasto Público Estatal o Municipal: Las erogaciones por concepto de gasto corriente, inversión física o financiera, así como pago de pasivos o deuda pública que realicen en la esfera de su competencia, las entidades señaladas en la fracción anterior;
 
@@ -87,81 +101,125 @@ VI.- Deuda Pública: La constituida por las obligaciones de pasivo, directas o c
 
 VII.- Servidores Públicos: Los que se establecen en la Constitución Política del Estado de Tamaulipas, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y en los demás ordenamientos legales aplicables;
 
-VIII.- Pliego de observaciones: Documento en el que se notifica a las entidades sujetas de fiscalización las observaciones sobre las deficiencias o irregularidades que se hayan determinado, así como las recomendaciones que procedan, para efecto de que sean solventados.
+VIII.- Pliego de observaciones: Documento en el que se notifica a las entidades sujetas de fiscalización las observaciones sobre las deficiencias o irregularidades que se hayan determinado, así como las recomendaciones que procedan, para efecto de que sean solventados;
 
-IX.- Informe de resultados: Documento que presenta el Auditor Superior del Estado a la Comisión, conteniendo los resultados de la fiscalización de las entidades.
+IX.- Informe de resultados: Documento que presenta el Auditor Superior del Estado a la Comisión, conteniendo los resultados de la fiscalización de las entidades;
 
-X.- Fiscalización: Es la revisión y análisis de la cuenta pública de una entidad que realiza el Congreso del Estado a través de la Auditoría Superior para efecto de evaluar si su gestión financiera se realizó con apego a la normatividad, programas y objetivos de la Administración pública y verificar la documentación.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-XI.- Entidades públicas: Todos los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos o instituciones que administren fondos o valores públicos, cualquiera que sea la forma o estructura que adopten.
+X.- Fiscalización: Es la revisión y análisis de la cuenta pública de una entidad sujeta de fiscalización que realiza el Congreso del Estado a través de la Auditoría Superior para efecto de evaluar si su gestión financiera se realizó con apego a la normatividad, programas y objetivos de la administración pública y verificar la documentación;
 
-XII. Fondos y valores públicos: Todo numerario que sea propiedad de las entidades sujetas de fiscalización, provenientes de los conceptos previstos en las leyes de los ingresos, decretos o acuerdos, que rijan en materia de asignaciones, subsidios, concesiones, participaciones o por cualquier otro concepto análogo.
+XI.- Entidades públicas: Todos los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos o instituciones que administren fondos o valores públicos, cualquiera que sea la forma o estructura que adopten;
+
+XII. Fondos y valores públicos: Todo numerario que sea propiedad de las entidades sujetas de fiscalización, provenientes de los conceptos previstos en las leyes de los ingresos, decretos o acuerdos, que rijan en materia de asignaciones, subsidios, concesiones, participaciones o por cualquier otro concepto análogo;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+XIII.- Secretaría: La Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 6º.
 
-La Comisión de Hacienda y Crédito Público, tendrá las siguientes atribuciones:
+La Comisión de Vigilancia de la Auditoría Superior del Estado, tendrá las siguientes atribuciones:
 
-I.- Estudiar y dictaminar el proyecto de presupuesto anual de egresos de la Auditoría, a efecto de remitirlo al Presidente de la Gran Comisión para los efectos correspondientes;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-II.- Recibir las cuentas públicas que le remita la Auditoría para emitir el dictamen correspondiente y someterlo a consideración del Pleno;
+I.- Estudiar y dictaminar el proyecto de presupuesto anual de egresos de la Auditoría, a efecto de remitirlo al Presidente de la Junta de Coordinación Política para los efectos correspondientes;
 
-III.- Recibir del Congreso trimestralmente y turnar a la Auditoría para su revisión, las cuentas públicas Estatal y Municipales;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-IV.- Elaborar y someter a la consideración del Congreso del Estado los dictámenes relativos a las Cuentas Públicas trimestrales del Estado y de los Municipios, los que deberán sustentarse en la información técnica que remita la Auditoría
+II.- Recibir del Congreso y turnar a la Auditoría para su revisión, las cuentas públicas de las entidades sujetas de fiscalización;
 
-V.- Aprobar el programa anual de auditoría; la práctica de visitas, inspecciones, o trabajos de investigación; así como los demás programas que someta a su consideración la Auditoría.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+III.- Recibir los informes de resultados de la revisión de las cuentas públicas que le remita la Auditoría para emitir el dictamen correspondiente y someterlo a consideración del Pleno;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+IV.- Elaborar y someter a la consideración del Pleno del Congreso del Estado, los dictámenes relativos a las cuentas públicas presentadas por las entidades sujetas de fiscalización en los términos del artículo 25 de ésta ley, los que deberán sustentarse en el informe de resultados que remita la Auditoría. Al efecto propondrá el orden en el cual se incluirán en la sesión que corresponda;
+
+V.- Aprobar el programa anual de auditoría; la práctica de visitas, inspecciones, o trabajos de investigación; así como los demás programas que someta a su consideración la Auditoría;
 
 VI.- Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría;
 
 VII.- Dictar las medidas que estime necesarias para que la Auditoría, cumpla con las funciones que le corresponden en los términos de la Constitución Política del Estado y de la presente ley;
 
-VIII. Recibir de la Gran Comisión, la propuesta de la designación del Auditor Superior del Estado, para su evaluación, dictamen y posterior presentación al Pleno del Congreso del Estado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VIII.- Recibir de la Junta de Coordinación Política la propuesta de la designación del Auditor Superior del Estado, para su evaluación, dictamen y posterior presentación al Pleno del Congreso del Estado, con base en el procedimiento que para efectos de nombramientos establece la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado.
 
 ###### ARTICULO 7º.
 
 La Auditoría será competente para:
 
-I.- Fiscalizar en forma posterior a la presentación de las Cuentas públicas, los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos del gobierno del Estado, los Ayuntamientos, y los Organismos, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+I.- Fiscalizar los ingresos y egresos, administración, custodia y aplicación de fondos y recursos de las entidades sujetas de fiscalización, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
 
 II.- Apoyar al congreso del Estado en la revisión de las cuentas públicas y entregar a través de la comisión el informe de los resultados de dicha revisión al propio congreso;
 
-III.- Verificar si la gestión financiera de los poderes del Estado, de los Ayuntamientos y de los organismos se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental , contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-IV.- Comprobar sí la recaudación , administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas a fiscalización celebraron o realizaron, se ajustaron a la legalidad y si no causaron daños o perjuicios en contra de las Haciendas Públicas estatal y municipal, al patrimonio de las entidades paraestatales y al de los demás organismos.
+III.- Verificar si la gestión financiera de las entidades sujetas de fiscalización se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-V.- Verificar que las entidades sujetas a fiscalización que hubieren recaudado manejo (sic), administrado o ejercido recursos públicos lo hayan realizado conforme a los programas aprobados y montos autorizados; así como en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-VI.- Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados al gobierno del Estado y a los Ayuntamientos se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+IV.- Comprobar si la recaudación, administración y aplicación de recursos estatales y municipales, los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas de fiscalización celebraron o realizaron, se ajustaron a la legalidad y si no causaron daños o perjuicios en contra de las Haciendas Públicas estatal o municipal, y en general al patrimonio de las entidades sujetas de fiscalización;
 
-VII.- Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las cuentas Públicas verificando que sea presentada en los términos de esta ley y de conformidad con los principios de contabilidad aplicables al Sector público;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+V.- Verificar que las entidades sujetas de fiscalización que hubieren recaudado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados; así como en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VI.- Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados a las entidades sujetas de fiscalización se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VII.- Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las cuentas públicas, verificando que sean presentadas en los términos de esta ley y de conformidad con los principios de contabilidad aplicables al sector público;
 
 VIII.- Establecer conjuntamente con la Secretaría y las Unidades de Control interno las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todo (sic) aquellos elementos que permitan la práctica idónea de las auditorías y revisiones;
 
-IX.- Investigar, en su caso, los actos u omisiones que pudieran configurar alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos y de los demás Organismos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+IX.- Investigar, en su caso, los actos u omisiones que pudieran configurar alguna irregularidad o conducta ilícita en el ingreso, egreso, administración, custodia y aplicación de fondos y recursos de las entidades sujetas de fiscalización;
 
 X.- Ordenar y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
 XI.- Colaborar, para efectos de la fiscalización de recursos federales que ejerzan las entidades sujetas a fiscalización, con su similar de la Federación, en la investigación y detección de desviaciones de dichos recursos;
 
-XII.- Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales tanto públicas como privadas con el propósito de dar cumplimiento al objeto de esta ley.
+XII.- Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales tanto públicas como privadas con el propósito de dar cumplimiento al objeto de esta ley;
 
 XIII.- Determinar, en su caso, los daños y perjuicios que afecten a las Haciendas públicas Estatal y Municipal, al patrimonio de las entidades paraestatales y al de los demás organismos; y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Primero de la Constitución Política del Estado de Tamaulipas y presentar las denuncias y querellas penales, en términos de legislación aplicable;
 
-XIV.- Requerir, en su caso, a los prestadores de servicios personales que contrate los informes o dictámenes de las auditorías o revisiones por ellos practicadas.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-XV.- Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades sujetas a fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, a efecto de realizar las compulsas correspondientes.
+XIV.- Requerir, en su caso, a los prestadores de servicios profesionales que contrate los informes o dictámenes de las auditorías o revisiones por ellos practicadas;
 
-XVI.- Solicitar a las Entidades sujetas a Fiscalización la información necesaria para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-XVII.- Fiscalizar la Aplicación de los subsidios o estímulos fiscales que las entidades sujetas a fiscalización hayan recibido, cualesquiera que sean sus fines y destino;
+XV.- Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades sujetas de fiscalización, la información relacionada con la documentación que sustente y compruebe las cuentas públicas, a efecto de realizar las compulsas correspondientes;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+XVI.- Solicitar a las entidades sujetas de fiscalización la información necesaria para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+XVII.- Fiscalizar la aplicación de los subsidios o estímulos fiscales que las entidades sujetas de fiscalización hayan recibido, cualesquiera que sean sus fines y destino;
 
 XVIII.- Conocer y resolver sobre el recurso de revocación que se interponga en contra de sus actos o resoluciones;
 
 XIX.- Elaborar su proyecto de presupuesto anual;
 
-XX.- Elaborar su Reglamento Interior; y
+XX.- Elaborar su Reglamento Interior; y (sic)
 
-XXI .- Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las leyes del Estado.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+XXI.- Aplicar la presente ley e interpretarla en el ámbito administrativo para el ejercicio de las funciones de su competencia; y,
+
+XXII .Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las leyes del Estado.
 
 ###### ARTICULO 8º.
 
@@ -175,9 +233,29 @@ La Auditoría Superior del Estado estará integrada por:
 
 I.- El Auditor Superior del Estado;
 
-II.- Dos Auditores especiales;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-III. El personal técnico y de apoyo administrativo necesario para el cumplimiento de las funciones encomendadas, conforme al presupuesto aprobado.
+II.- Dos Auditores Especiales;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+III.- Una Secretaría Técnica;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+IV.- Una Dirección de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+V.- Una Dirección de Administración y Finanzas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VI.- Una Dirección de Control y Evaluación; y,
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VII.- El personal profesional, técnico y de apoyo administrativo necesario para el cumplimiento de las funciones encomendadas, conforme al presupuesto aprobado.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
 
@@ -193,77 +271,153 @@ Para ser Auditor Superior del Estado se requiere:
 
 I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y residente del Estado de Tamaulipas al menos cinco años anteriores al día de su designación;
 
-II.- Haber cumplido 30 años de edad para el día de su designación;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-III.- Poseer por lo menos el grado académico de Licenciatura dentro del área contable o financiera y haber ejercido la profesión por un término mayor de 5 años;
+II.- Haber cumplido treinta y cinco años de edad para el día de su designación;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+III.- Poseer el grado académico de Licenciatura dentro del área contable o financiera y haber ejercido la profesión por un término mayor de diez años;
 
 IV.- No desempeñar ningún otro empleo, cargo o comisión, durante su encargo excepción hecha de los cargos honoríficos y docentes:
 
 V.- Gozar de buena reputación, y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI.- No haber sido, durante el año previo al de su nombramiento, títular de dependencias o entidades del poder Ejecutivo del Estado, Senador, Diputado Federal o local, Magistrado, Presidente Municipal gobernador del Estado; y
+VI.- No haber sido, durante el año previo al de su nombramiento, titular de dependencias o entidades del poder Ejecutivo del Estado, Senador, Diputado Federal o local, Magistrado, Presidente Municipal gobernador del Estado; y (sic)
 
-VII.- Contar al momento de su designación con una experiencia de, al menos, dos años en el control manejo y fiscalización. de recursos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+VII.- Contar al momento de su designación con una experiencia de, al menos, cinco años en el control, administración y fiscalización de recursos;
 
 VIII.- No ser ministro de culto religioso.
 
 Para ser Auditor Especial se requieren los mismos requisitos, excepto el de la fracción II.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 12.
 
-El Auditor Superior del Estado tendrá las siguientes atribuciones:
+El Auditor Superior del Estado y los Auditores Especiales tendrán las siguientes atribuciones:
 
-I.- Planear, conforme a los programas aprobados por la Comisión de Hacienda y Crédito Público, las actividades relacionadas con la revisión de la Cuenta Pública y elaborar los análisis temáticos que sirvan de insumos para la preparación del informe de resultados.
+Apartado A
 
-II.- Representar a la Auditoría Superior del Estado ante toda clase de autoridades, personas físicas y morales; así como acordar y resolver las inconformidades y todo asunto que por escrito le traten, disponiendo el trámite que deba darse a cada uno;
+I.- Son atribuciones del Auditor Superior:
 
-III.- Fijar normas técnicas y los procedimientos a que deban sujetarse las visitas, inspecciones y auditorías que se ordenen, las que se actualizarán de acuerdo con los avances científicos y técnicos que en materia de contabilidad y auditoría gubernamental se produzcan;
+a).- Planear, conforme a los programas aprobados por la Comisión de Vigilancia de la Auditoría Superior del Estado, las actividades relacionadas con la revisión de la Cuenta pública y elaborar los análisis temáticos que sirvan de insumos para la preparación del informe de resultados;
 
-IV.- Rendir en el mes de diciembre a la Comisión, un informe anual y por escrito de las actividades desarrolladas por la dependencia durante el ejercicio fiscal.
+b).- Representar a la Auditoría Superior del Estado ante toda clase de autoridades, personas físicas y morales; así como acordar y resolver las inconformidades y todo asunto que por escrito le traten, disponiendo el trámite que deba darse a cada uno;
 
-V.- Poner a consideración de la Comisión de Hacienda y Crédito Público, dentro del primer trimestre de cada ejercicio fiscal, el programa anual de auditoría a practicar a las entidades sujetas a fiscalización; así como formular y ejecutar los demás programas de trabajo de la Contaduría Mayor de Hacienda;
+c).- Fijar normas técnicas y los procedimientos a que deban sujetarse las visitas, inspecciones y auditorías que se ordenen, las que se actualizarán de acuerdo con los avances científicos y técnicos que en materia de contabilidad y auditoría gubernamental se produzcan;
 
-VI.- Fijar los plazos prudentes que no excederán de 30 días para que los titulares de las entidades sujetas de fiscalización remitan sus solventaciones, aclaraciones o comentarios, respecto de las observaciones realizadas por la Auditoría Superior del Estado a sus cuentas públicas;
+d).- Rendir en el mes de diciembre a la Comisión, un informe anual y por escrito de las actividades desarrolladas por la dependencia durante el ejercicio fiscal;
 
-VII.- Requerir de las entidades sujetas de fiscalización, la información contable y financiera que sea necesaria para cumplir con los objetivos de la Auditoría Superior del Estado.
+e).- Someter a consideración de la Comisión de Vigilancia de la Auditoría Superior del Estado, dentro del primer trimestre de cada ejercicio fiscal, el programa anual de auditoría a practicar a las entidades sujetas de fiscalización, así como también los demás programas de trabajo de la Auditoría Superior del Estado, incluyendo lo relativo a los informes de resultados de las cuentas públicas que revisará y presentará en los términos de esta ley;
 
-VIII.- Firmar los finiquitos de las cuentas públicas aprobadas y expedir a la entidad, la constancia certificada;
+f).- Fijar los plazos que no excederán de treinta días para que los titulares de las entidades sujetas de fiscalización remitan sus solventaciones, aclaraciones o comentarios, respecto de las observaciones realizadas por la Auditoría Superior del Estado a sus cuentas públicas;
 
-IX.- Designar por si, o a petición de la Comisión, a los visitadores o auditores que deban practicar visitas de inspección, arqueo de fondos y auditorías, a las entidades a que se refiere la fracción IV del artículo 5 de esta Ley, para lo cual podrá contratar despachos externos, asesorías o servicios de terceros;
+g).- Requerir de las entidades sujetas de fiscalización, la información contable y financiera que sea necesaria para cumplir con los objetivos de la Auditoría Superior del Estado;
 
-X.- Celebrar convenios de coordinación o colaboración con los Poderes del Estado, Gobiernos Estatales y Municipales y con la Auditoría Superior de la Federación, a efecto de cumplir con su tarea de fiscalización;
+h).- Firmar los finiquitos de las cuentas públicas aprobadas y expedir a las entidades sujetas de fiscalización, la constancia respectiva;
 
-XI.- Ejercitar las acciones ante las autoridades competentes, mediante instrucciones del Pleno, por las irregularidades de las que estime exista la responsabilidad conducente y que resulten de la revisión de las cuentas públicas;
+i).- Designar por si, o a petición de la Comisión, a los visitadores o auditores que deban practicar visitas de inspección, arqueo de fondos y auditorías, a las entidades a que se refiere la fracción IV del artículo 5 de esta ley, para lo cual podrá contratar despachos externos, asesorías o servicios de terceros;
 
-XII.- Presentar el presupuesto anual de egresos, el programa anual de auditorias de la dependencia y la cuenta pública de órgano técnico fiscalizador, a la Comisión;
+j).- Celebrar convenios de coordinación o colaboración con los Poderes del Estado, Gobiernos Estatales y Municipales y con la Auditoría Superior de la Federación, a efecto de cumplir con su tarea de fiscalización;
 
-XIII.- Coordinarse con los órganos de control interno de las entidades, a fin de optimizar recursos y hacer eficientes sus programas para otorgarle a esté las facilidades necesarias que le permitan realizar sus funciones.
+k).- Ejercitar las acciones ante las autoridades competentes, por las irregularidades de las que estime existan responsabilidad y, en su caso, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
 
-XIV.- Dar crédito a los dictámenes de los Contralores Municipales, contadores públicos y auditores externos, mediante la evaluación de sus programas y papeles de trabajo de la revisión practicada;
+l).- Presentar el presupuesto anual de egresos, el programa anual de auditorías y la cuenta pública de la Auditoría, a la Comisión;
 
-XV.- Llevar un registro de todos los despachos de contadores públicos y auditores externos que presten sus servicios a las entidades públicas;
+m).- Coordinarse con las unidades de control interno de las entidades sujetas de fiscalización, a fin de optimizar recursos y hacer eficientes sus programas para otorgarle a éste las facilidades necesarias que le permitan realizar sus funciones;
 
-XVI.- Otorgar a funcionarios poderes generales y especiales para pleitos y cobranzas y actos de administración con todas las facultades, aún las que requieran poder especial conforme a la Ley. El mandamiento podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas y judiciales; y
+n).- Dar crédito, a su juicio, a los dictámenes de los Contralores y Comisarios de las entidades sujetas de fiscalización, así como también, de los contadores públicos y auditores externos, mediante la evaluación de sus programas y papeles de trabajo de la revisión practicada;
 
-XVII.- Las demás que se desprendan de la presente Ley y su reglamento.
+o).- Llevar un registro de todos los despachos de contadores públicos y auditores externos que presten sus servicios a las entidades públicas;
+
+p).- Otorgar a servidores públicos de la Auditoría poderes generales y especiales para pleitos y cobranzas y actos de administración con todas las facultades, aún las que requieran poder especial conforme a la ley. El mandamiento podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas y judiciales;
+
+q).- Certificar los documentos que se encuentren en poder de la Auditoría;
+
+r).- Nombrar y remover a los servidores públicos señalados en las fracciones II, III, IV, V, VI y VII del artículo 9º de ésta ley; y,
+
+s).- Las demás que se desprendan de la presente ley y su reglamento.
+
+II.- Son atribuciones de los Auditores Especiales:
+
+a).- Dirigir y operar las actividades relacionadas con la revisión de la cuenta pública y elaborar los análisis temáticos que sirvan de insumos para la preparación del informe de resultados de la revisión de la cuenta pública;
+
+b).- Requerir a las entidades sujetas de fiscalización y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
+
+c).- Ordenar y realizar auditorías, y visitas de inspecciones a las entidades sujetas de fiscalización conforme al programa aprobado por el Auditor Superior del Estado;
+
+d).- Designar a los inspectores, visitadores o auditores encargados de practicar las visitas, inspecciones y auditorías a su cargo o, en su caso, celebrar los contratos de prestación de servicios de profesionales de auditorías independientes en los casos que así se requiera y no exista conflicto de intereses;
+
+e).- Formular las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión y de las auditorías, visitas e inspecciones, las que remitirá a las entidades sujetas de fiscalización;
+
+f).- Formular el proyecto de informe de resultados de la revisión de la cuenta pública, así como de los demás documentos que se le indique; y,
+
+g).- Las demás que se desprendan de la presente ley y su reglamento.
+
+Apartado B
+
+I.- El Auditor Superior del Estado y los Auditores Especiales durante el ejercicio de su encargo tendrán prohibido:
+
+a).- Formar parte de partido político alguno, participar en actos políticos y partidistas y hacer cualquier tipo de propaganda o promoción partidista;
+
+b).- Desempeñar otro empleo o cargo en el sector público o privado, salvo los de docencia, y los no remunerados en asociaciones científicas, de profesionistas, artísticas o de beneficencia; y,
+
+c).- Hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial o reservada que tenga bajo su custodia la Auditoría Superior del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines que establezca la ley.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Son facultades y obligaciones del Auditor Especial:
+Son atribuciones del Secretario Técnico y de los Directores:
 
-I.- Dirigir y operar las actividades relacionadas con la revisión de la Cuenta Pública y elaborar los análisis temáticos que sirvan de insumos para la preparación del Informe del Resultado de la revisión de la Cuenta Pública;
+I.- Del Secretario Técnico:
 
-II.- Requerir a las entidades fiscalizadas y a los terceros que hubieren celebrado operaciones con aquéllas, la información y documentación que sea necesaria para realizar la función de fiscalización;
+a).- Mantener una comunicación permanente con el Auditor Superior, los Auditores Especiales y Directores;
 
-III.- Ordenar y realizar auditorías, visitas e inspecciones a los Poderes del Estado y a los entes públicos conforme al programa aprobado por el Auditor Superior del Estado;
+b).- Recabar de los Auditores Especiales y de los Directores la información necesaria para elaborar el Programa Anual de Auditoría, las Actividades de la Auditoría y someterlos a consideración del Auditor Superior;
 
-IV.- Designar a los inspectores, visitadores o auditores encargados de practicar las visitas, inspecciones y auditorías a su cargo o, en su caso, celebrar los contratos de prestación de servicios de profesionales de auditorías independientes en los casos que así se requiera y no exista conflicto de intereses;
+c).- Llevar un registro y control sobre las cuentas públicas dictaminadas por el Pleno Legislativo; y,
 
-V.- Formular las recomendaciones y los pliegos de observaciones que deriven de los resultados de su revisión y de las auditorías, visitas o investigaciones, las que remitirá a los Poderes del Estado y a los entes públicos;
+d).- Las demás que se desprendan de la presente ley y su reglamento.
 
-VI.- Formular el proyecto de Informe del Resultado de la revisión de la Cuenta Pública, así como de los demás documentos que se le indique, y
+II.- Del Director de Asuntos Jurídicos:
 
-VII. Las demás que se desprendan de la presente ley y su reglamento.
+a).- Asesorar en materia jurídica al Auditor Superior del Estado y a los Auditores Especiales, así como actuar como su órgano de consulta;
+
+b).- Instruir el recurso de reconsideración previsto en esta ley;
+
+c).- Actuar por acuerdo del Auditor Superior, en representación de la Auditoría con poder general para pleitos y cobranzas con todas las facultades generales y las especiales que requieren cláusula especial conforme a la ley en términos del artículo 1890 del Código Civil para el Estado de Tamaulipas; por lo que podrá presentar y contestar todo tipo de demandas, denuncias y querellas ante toda autoridad judicial, administrativa o del trabajo sean estas Estatales o Federales, promover amparos y actuar en defensa de los intereses jurídicos de la propia Auditoría; y,
+
+d).- Las demás que se desprendan de la presente ley y su reglamento.
+
+III.- Del Director de Administración y Finanzas:
+
+a).- Administrar los recursos humanos, financieros, y materiales de la Auditoría Superior de conformidad con las disposiciones legales y reglamentarias que la rijan y de acuerdo con las políticas que emita el Auditor Superior del Estado;
+
+b).- Proveer los servicios que en general se requieran para el debido funcionamiento de las instalaciones en que se encuentre operando la propia Auditoría Superior del Estado;
+
+c).- Preparar el anteproyecto de presupuesto anual, ejercer y controlar el ejercicio del presupuesto autorizado y elaborar la cuenta pública de la Auditoría, así como implementar y mantener un sistema de contabilidad que permita registrar el conjunto de operaciones que requiera su propia administración;
+
+d).- Adquirir, con apego a las disposiciones legales aplicables, los bienes y servicios y celebrar los contratos que permitan suministrar los recursos materiales que solicitan sus unidades administrativas para su debido funcionamiento; y,
+
+e).- Las demás que le señale el Auditor Superior del Estado y las disposiciones legales y administrativas aplicables.
+
+IV.- Del Director de Control y Evaluación:
+
+a).- Acordar con el Auditor Superior, el despacho de los asuntos de su competencia y de las demás actividades que le sean encomendadas;
+
+b).- Mantener una permanente comunicación con el Auditor Superior, Auditores Especiales, el Secretario Técnico y Directores;
+
+c).- Elaborar y someter a consideración del Auditor Superior con la debida anticipación, el programa anual de actividades de su competencia, llevando un control sobre su avance y resultados;
+
+d).- Revisar y verificar que todas las actividades que se desarrollan en las áreas que conforman la estructura orgánica de la Auditoría, se realicen de acuerdo y en apego estricto a las políticas, su normatividad y procedimientos establecidos;
+
+e).- Analizar y evaluar que todas las actividades que se desarrollan en el cumplimiento del objeto de la Auditoría se realicen con eficacia, eficiencia y calidad; y,
+
+f).- Las demás que se desprendan de la presente ley y su reglamento.
 
 ###### ARTICULO 14.
 
@@ -271,17 +425,21 @@ Las atribuciones del resto del personal, se precisarán en el reglamento de la p
 
 ### CAPITULO TERCERO. DE SU OBJETIVO Y SUS FUNCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 15.
 
-La Auditoría, tiene por objeto revisar la cuenta pública trimestral de las entidades sujetas de fiscalización, así como de las instituciones u oficinas que manejen recursos económicos o valores de las mismas.
+La Auditoría, tiene por objeto revisar las cuentas públicas presentadas por las entidades sujetas de fiscalización en los términos del artículo 25 de ésta ley, así como de las instituciones u oficinas que administren recursos económicos o valores de las mismas.
 
 La revisión comprenderá, la comprobación del ejercicio de las partidas de egresos e ingresos, asimismo incluirá una revisión legal y contable de dichas partidas, cuidando que estén debidamente justificadas y comprobadas conforme al sistema de contabilidad que determine la Auditoría, el cual deberá ser aprobado por la Comisión y dado a conocer a las entidades sujetas de fiscalización.
 
 La fiscalización que realice la Auditoría se realizará de manera independiente y autónoma de cualquier otra forma de control interno que practiquen las entidades sujetas de fiscalización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 16.
 
-La revisión y fiscalización superior de la Cuenta Pública tienen por objeto determinar:
+La revisión y fiscalización superior de la cuenta pública tienen por objeto determinar:
 
 I.- Si los programas y su ejecución se ajustan a los términos y montos aprobados;
 
@@ -291,19 +449,25 @@ III.- El desempeño, eficiencia, eficacia y economía, en el cumplimiento de los
 
 IV.- Si los recursos provenientes de financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos;
 
-V.- En forma posterior a la conclusión de los procesos correspondientes, el resultado de la gestión financiera de los Poderes del Estado y los entes públicos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+V.- En forma posterior a la conclusión de los procesos correspondientes, el resultado de la gestión financiera de las entidades sujetas de fiscalización;
 
 VI.- Si en la gestión financiera se cumple con las leyes, decretos, reglamentos y demás disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
-VII.- Si la recaudación, administración, manejo y aplicación de recursos, y si los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizadas celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado en su Hacienda Pública o al patrimonio de los entes públicos;
+(REFORMADA, P.O. 5 DE JUNIO DE 2007) (F. DE E., P.O. 7 DE JUNIO DE 2007)
+
+VII.- Si la recaudación, administración y aplicación de recursos, y si los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas de fiscalización celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado en su Hacienda Pública o al patrimonio de las entidades sujetas de fiscalización;
 
 VIII.- Las responsabilidades a que haya lugar, y
 
 IX.- La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 17.
 
-La Auditoría Superior del Estado elaborará trimestralmente el informe de resultados, el cual deberá contener como mínimo lo siguiente:
+La Auditoría Superior del Estado elaborará el informe de resultados de la revisión de la cuenta pública, el cual deberá contener como mínimo lo siguiente:
 
 I.- Los dictámenes de la revisión de la Cuenta Pública;
 
@@ -313,47 +477,69 @@ III.- El cumplimiento de los principios de contabilidad gubernamental y de las d
 
 IV.- Los resultados de la gestión financiera;
 
-V.- La comprobación de que los Poderes del Estado, y los entes públicos, se ajustaron a lo dispuesto en sus respectivas Leyes de Ingresos, Ley de Egresos o Presupuestos de Egresos, así como en las demás normas aplicables en la materia;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+V.- La comprobación de que las entidades sujetas de fiscalización, se ajustaron a lo dispuesto en sus respectivas Leyes de Ingresos, Presupuesto de Egresos, así como en las demás normas aplicables en la materia;
 
 VI.- El análisis de las desviaciones presupuestarias, en su caso, y
 
-VII. Los comentarios y observaciones de los auditados, respecto a las observaciones y solventaciones formuladas en la cuenta pública.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
+VII.- En su caso, los comentarios y observaciones de los auditados, respecto a las observaciones y solventaciones formuladas en la cuenta pública.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Cuando exista denuncia sobre conductas que puedan constituir irregularidades en la aplicación de recursos por parte de los servidores públicos de las entidades sujetas de fiscalización, el informe de resultados deberá contener el resultado de la investigación que en lo particular practique la Auditoría, motivando y razonando las causas de procedencia o improcedencia de la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Si de la investigación resultan irregularidades que causaron daño o perjuicio a la Hacienda Pública de las entidades sujetas de fiscalización, la Auditoría Superior del Estado ejercerá las acciones y fincará las responsabilidades que procedan.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 18.
 
-La Auditoría Superior del Estado deberá presentar a la Comisión el Informe de Resultados de las Cuentas Públicas que revise a mas tardar el 30 de septiembre, para el efecto de que, una vez dictaminado, sea presentado a consideración del Pleno.
+La Auditoría Superior del Estado presentará a la Comisión los informes de resultados de las cuentas públicas que revise, conforme al programa anual de auditoría a que se refiere la fracción V del artículo 6° y el artículo 12, fracción I, inciso e) de esta ley. En todo caso, al 30 de agosto de cada año, la Auditoría informará a la Comisión los informes de resultados que estará en posibilidades de presentar al 30 de septiembre, a fin de que ésta programe sus trabajos de análisis y, en su caso, elaboración de los dictámenes pertinentes.
 
-Dicho plazo se prorrogará al 30 de noviembre, cuando a juicio del Auditor Superior existan causas que impidan la elaboración del Informe de Resultados de una o varias Cuentas Públicas, lo cual hará del conocimiento de la Comisión.
+El Auditor Superior podrá solicitar a la Comisión se prorrogue al 30 de noviembre la fecha de presentación de los informes de resultados de las cuentas públicas que lo ameriten, debiéndose justificar la razón de su petición a criterio de la propia Comisión.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 19.
 
-La Auditoría podrá coordinarse con el Ejecutivo del Estado a través de la Secretaría de Finanzas, así como con los demás Poderes, a través de los órganos correspondientes, a fin de uniformar las normas, procedimientos, métodos y sistemas de contabilidad y las normas de auditoría gubernamentales y de archivo contable, de los libros y documentos justificativos y comprobatorios del ingreso y gasto público.
+La Auditoría podrá coordinarse con el Ejecutivo del Estado a través de la Secretaría, así como con los demás Poderes, a través de los órganos correspondientes, a fin de uniformar las normas, procedimientos, métodos y sistemas de contabilidad y las normas de auditoría gubernamentales y de archivo contable, de los libros y documentos justificativos y comprobatorios del ingreso y gasto público.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 20.
 
-La Auditoría deberá guardar reserva de sus actuaciones y observaciones hasta que sean aprobadas las cuentas públicas por el Congreso del Estado.
+La Auditoría deberá guardar reserva de sus actuaciones y observaciones, salvo que se trate de solicitud de información formulada por la Comisión o autoridad judicial, de procuración de justicia, o de tribunales laborales en el ejercicio de sus funciones.
 
 ### CAPITULO CUARTO. DE LA CONTABILIDAD, AUDITORIA Y ARCHIVO CONTABLE
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-Con objeto de uniformar los criterios en materia de contabilidad gubernamental y archivo contable, la Secretaría de Finanzas, dará a conocer con oportunidad a la Auditoría, las normas, procedimientos, métodos y sistemas que emita e implante.
+Con objeto de uniformar los criterios en materia de contabilidad gubernamental y archivo contable, la Secretaría, dará a conocer con oportunidad a la Auditoría, las normas, procedimientos, métodos y sistemas que emita e implante.
 
 ###### ARTICULO 22.
 
 La Auditoría, para revisar la Cuenta Pública de las entidades sujetas de fiscalización establecerá las normas, procedimientos, métodos y sistemas de Auditoría.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 23.
 
-Para la revisión de la cuenta pública de los ayuntamientos, la Auditoría vigilará la aplicación de los procedimientos, métodos y registros que emanen del Sistema de Contabilidad que determine.
+Para la revisión de la cuenta pública de los Ayuntamientos, la Auditoría vigilará la aplicación de los procedimientos, métodos y registros que emanen del Sistema de Contabilidad que la misma determine.
 
 ### CAPITULO QUINTO. DE LA CUENTA PUBLICA
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-Para los efectos de esta ley, la Cuenta Pública estará constituida por los estados financieros contables, patrimoniales, presupuestales, programáticos y de otro orden del Estado o municipios, de acuerdo a sus ingresos y egresos.
+Para los efectos de esta ley, la cuenta pública estará constituida por los estados financieros contables, patrimoniales, presupuestales, programáticos y de otro orden, de las entidades sujetas de fiscalización, de acuerdo a sus ingresos y egresos.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
 
@@ -375,37 +561,57 @@ Las entidades sujetas de fiscalización que opten por el período anual, remitir
 
 Todas las Cuentas Públicas se remitirán al Congreso del Estado. Este las turnará a la Auditoría Superior del Estado, por conducto de la Comisión de Vigilancia de la Auditoría Superior del Estado cuando el Congreso esté en período ordinario de sesiones o por medio de la Diputación Permanente cuando se encuentre en período de receso.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 26.
 
-Los organismos descentralizados e instituciones que reciban o administren fondos o valores del sector público estatal deberán remitir al Congreso del Estado, a través de la Secretaría de Finanzas, los estados financieros necesarios para la revisión de su cuenta pública, dentro los primeros 20 días siguientes al trimestre que corresponda.
+Las entidades sujetas de fiscalización del Poder Ejecutivo a que se refieren los incisos c) y e) del artículo 5 fracción IV de esta ley que reciban o administren fondos o valores del sector público estatal deberán remitir su cuenta pública a la Secretaría, dentro de los primeros dos meses siguientes al término del ejercicio fiscal. Por conducto de la Secretaría se remitirán las cuentas públicas de dichas entidades al Congreso del Estado, dentro de los plazos previstos en el párrafo cuarto del artículo 25 de esta ley.
+
+Cuando se elija presentar la cuenta pública en período semestral, deberán remitirla a la Secretaría dentro del primer mes siguiente al término del semestre.
+
+Cuando en el último año de su administración elija presentar la cuenta pública en período trimestral, deberán remitirla a la Secretaría dentro de los veinte días siguientes al término del trimestre que corresponda.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 27.
 
-Una vez que el Pleno del Congreso del Estado, haya aprobado la cuenta trimestral de una entidad, instruirá al Auditor Superior del Estado para que emita la declaración de finiquito correspondiente, debiendo entregar a la propia entidad constancia certificada.
+Una vez que el Pleno del Congreso del Estado, haya calificado la cuenta pública de una entidad sujeta de fiscalización, instruirá al Auditor Superior del Estado para que, en caso que proceda emita la declaración de finiquito correspondiente, debiendo entregar a la propia entidad sujeta de fiscalización la constancia correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 28.
 
-La aprobación de las cuentas públicas trimestrales por parte del Congreso del Estado, una vez que haya sido emitida por el Auditor Superior del Estado la declaración de finiquito, produce el efecto de extinguir las cauciones otorgadas para el manejo de los fondos o valores públicos por los funcionarios y empleados.
+La calificación de las cuentas públicas por parte del Congreso del Estado, una vez que haya sido emitida por el Auditor Superior del Estado la declaración de finiquito, produce el efecto de extinguir las cauciones otorgadas por los servidores públicos para el manejo de fondos o valores.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 29.
 
-Cuando el Pleno del Congreso apruebe una cuenta pública con salvedades o recomendaciones, instruirá a la Auditoría Superior del Estado para darle seguimiento hasta su solventación, en cuyo caso se procederá a expedir la certificación de cuenta pública aprobada.
+Cuando el Pleno del Congreso califique una cuenta pública con salvedades o recomendaciones, instruirá a la Auditoría Superior del Estado para darle seguimiento hasta su solventación, en cuyo caso se procederá a emitir el finiquito correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 30.
 
-Si de la revisión y fiscalización superior de la cuenta pública, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a la hacienda pública de las entidades sujetas de fiscalización, se observará en el informe del resultado a la Comisión, para que ésta lo incluya en el dictamen respectivo y la someta a consideración del Pleno del Congreso del Estado.
+Si de la revisión y fiscalización de la cuenta pública, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a la hacienda pública de las entidades sujetas de fiscalización, se señalarán en el informe de resultados a la Comisión. Ésta a su vez, lo reflejará en el dictamen respectivo que se presente a la consideración del Pleno del Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 31.
 
-Cuando la cuenta pública de una entidad sea rechazada se instruirá a la Auditoría para:
+Cuando de la calificación de la cuenta pública de una entidad sujeta de fiscalización se desprendan irregularidades, en caso de que no lo haya realizado la Auditoría, ésta procederá a:
 
-I.- Determinar los daños y perjuicios correspondiente y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias respectivas;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+I.- Determinar los daños y perjuicios correspondientes y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias, según sea el caso;
 
 II.- Promover ante las autoridades competentes el fincamiento de otras responsabilidades,
 
 III.- Promover las acciones y responsabilidades a que se refiere la Constitución Política del Estado, y;
 
-IV.- Presentar las denuncias y querellas penales, a que haya lugar.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+IV.- Presentar las denuncias y querellas penales, a que haya lugar, así como coadyuvar con el Ministerio Público en los procesos de investigación y judiciales correspondientes.
 
 ###### ARTICULO 32.
 
@@ -413,27 +619,39 @@ La Auditoría determinará los daños y perjuicios a la hacienda pública con ba
 
 Para el efecto, la Auditoría notificará a las entidades sujetas de fiscalización la determinación de la presunta responsabilidad de los infractores, y fijará en cantidad líquida el monto de los daños y perjuicios.
 
-Las entidades requerirán a los presuntos infractores, para que cubran el monto de los mismos, y en caso contrario se dará inicio el procedimiento para el fincamiento de las responsabilidades a que haya lugar.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Las entidades sujetas de fiscalización requerirán a los presuntos infractores, para que cubran el monto de los mismos, y en caso contrario se dará inicio al procedimiento para el fincamiento de las responsabilidades a que haya lugar.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 33.
 
-La Auditoría Superior del Estado podrá emitir opinión parcial de una cuenta trimestral, aun cuando se encuentre pendiente de revisarse otra anterior o alguno de los rubros o partidas.
+La Auditoría Superior del Estado podrá emitir el informe de resultados de una cuenta pública, aún cuando se encuentre pendiente de dictaminarse otra anterior o alguno de los rubros o partidas, previa justificación que calificará la Comisión. En su caso, podrá emitir opiniones para la comisión con la información con la que cuente.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 34.
 
-Las entidades pondrán a disposición de la Auditoria, trimestralmente o cuando así se les requiera, la información y documentación comprobatoria relativa a la ejecución de obras y prestación de servicios públicos, en la que se hayan invertido recursos estatales, municipales o federales en su caso, que sean competencia de la Auditoría, a efecto de contar con los elementos necesarios para la fiscalización tanto documental como física.
+Las entidades sujetas de fiscalización pondrán a disposición de la Auditoría o cuando así se les requiera, la información y documentación comprobatoria relativa a la ejecución de obras y prestación de servicios públicos, en la que se hayan invertido recursos estatales, municipales o federales en su caso, que sean competencia de la Auditoría, a efecto de contar con los elementos necesarios para la fiscalización tanto documental como física.
 
-La Auditoría tendrá facultades para requerir a los comisarios del sector paraestatal y a los auditores externos que, en su caso contraten las entidades, para efecto de conocer los dictámenes de auditoría o de las revisiones realizadas, así como sus papeles de trabajo.
+La Auditoría tendrá facultades para requerir a los titulares de las unidades de control interno de las entidades sujetas de fiscalización y a los auditores externos que, en su caso, contraten, para efecto de conocer los dictámenes de auditoría o de las revisiones realizadas, así como sus papeles de trabajo.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 35.
 
-La Auditoría conjuntamente con la Secretaría de Finanzas y las unidades de Control interno de los Poderes del Estado, los ayuntamientos y los organismos, establecerán reglas técnicas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente.
+La Auditoría, considerando las opiniones que en su caso formulen la Secretaría y las unidades de control interno de las entidades sujetas de fiscalización establecerá reglas técnicas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, según el caso, debiendo observar los plazos de prescripción de eventuales responsabilidades que señalan la Constitución y las leyes del Estado.
 
-La entidad conservará en su poder las cuentas públicas y el informe del resultado mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado, las responsabilidades derivadas de las irregularidades que, en su caso se detecten en las operaciones objeto de revisión así como las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
+La Auditoría conservará en su poder y bajo reserva las cuentas públicas y los informes de resultados mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado, las responsabilidades sobre irregularidades que en su caso pudieran derivarse de las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
+
+Se exceptúa de lo establecido en el párrafo anterior los casos en que la Auditoría sea requerida por alguna autoridad judicial, de procuración de justicia o de tribunales laborales para la entrega de información o documentación estrictamente necesaria para el ejercicio de sus atribuciones; y, en los casos que así lo instruya la Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 36.
 
-Los servidores públicos de la Entidad, así como los prestadores de servicios que contrate, deberán guardar estricta reserva y confidencialidad, sobre las actuaciones, observaciones e información de que tengan conocimiento excepto en los casos en que sean requeridos expresamente por la comisión y cuando exista una resolución definitiva debidamente notificada. La violación a esta disposición se sancionará en los términos que dispongan esta ley y demás leyes del estado.
+Los servidores públicos de la Auditoría y de las entidades sujetas de fiscalización, así como los prestadores de servicios que contraten, deberán guardar estricta reserva y confidencialidad, sobre las actuaciones, observaciones e información de que tengan conocimiento excepto en los casos en que exista una resolución definitiva dictada por alguna autoridad competente en el ejercicio de sus funciones y debidamente notificada. La violación a esta disposición se sancionará en los términos que dispongan esta ley y demás leyes del Estado.
 
 La Auditoría será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
 
@@ -451,29 +669,47 @@ II.- Realizar compulsas con terceros contratados por las entidades sujetas de fi
 
 III.- Practicar auditorías, visitas e inspecciones necesarias para cumplir con sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 38.
 
-La Auditoría, para el efecto de las atribuciones que les correspondan de conformidad con lo previsto en la presente ley, podrá practicar a las entidades sujetas de fiscalización las auditorías necesarias para revisar:
+La Auditoría, para el ejercicio de las atribuciones que le correspondan de conformidad con lo previsto en la presente ley, podrá practicar a las entidades sujetas de fiscalización las auditorías necesarias para revisar:
 
 I.- Si las operaciones se efectuaron correctamente, y si los estados financieros se presentaron en tiempo oportuno en forma veraz, de acuerdo con los principios de contabilidad gubernamental;
 
-II.- Si las entidades auditadas cumplieron en la recaudación de los ingresos, los presupuestos de egresos del Estado y los municipios de la entidad y con las demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-III.- Si las entidades alcanzaron con eficiencia los objetivos de los programas aprobados; y
+II.- Si las entidades sujetas de fiscalización auditadas cumplieron en la recaudación de los ingresos, los presupuestos de egresos correspondientes y con las demás disposiciones aplicables en la materia;
 
-IV.- Si las inversiones y gastos autorizados a las entidades y personas físicas o morales fueron aplicados en forma correcta, así como verificar las obras, bienes adquiridos o servicios contratados.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
-Para lo anterior podrá la Auditoría solicitar, en su caso, a los auditores externos contratados por las entidades sujetas de fiscalización, copias de los informes o dictámenes de las auditorías y revisiones por ellos practicadas a las entidades.
+III.- Si las entidades sujetas de fiscalización alcanzaron con eficiencia los objetivos de los programas aprobados; y,
 
-Así mismo los órganos de control interno de las entidades sujetas de fiscalización deberán colaborar con la Auditoría, y otorgarán las facilidades que permitan a ésta realizar sus funciones, para lo cual deberán proporcionar la documentación que aquélla les solicite sobre los resultados de la fiscalización que efectúe, con cualquier otra que se le requiera en el ejercicio de sus atribuciones.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+
+IV.- Si las inversiones y gastos autorizados a las entidades sujetas de fiscalización y personas físicas o morales fueron aplicados en forma correcta, así como verificar las obras, bienes adquiridos o servicios contratados.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Para lo anterior podrá la Auditoría solicitar, en su caso, a los auditores externos contratados por las entidades sujetas de fiscalización, original o copia de los informes o dictámenes de las auditorías y revisiones practicadas a las mismas y la documentación que los origine.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Así mismo, las unidades de control interno de las entidades sujetas de fiscalización deberán colaborar con la Auditoría, y otorgarán las facilidades que permitan a ésta realizar sus funciones, para lo cual deberán proporcionar la documentación que les solicite sobre los resultados de la fiscalización que efectúe, y cualquier otra que les requiera en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 39.
 
-Para la práctica de las actuaciones a que se refiere la presente Ley, el Auditor Superior del Estado remitirá oficio a la entidad para iniciar la fiscalización, acreditando a los auditores responsables de la revisión.
+Para la práctica de las actuaciones a que se refiere la presente ley, el Auditor Superior del Estado remitirá oficio a la entidad sujeta de fiscalización, para iniciar la fiscalización, acreditando a los auditores responsables de la revisión.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 40.
 
-Las auditorías, visitas e inspecciones que se efectúen en términos de esta Ley, se practicarán por el personal expresamente comisionado para el efecto por la Auditoría o mediante la contratación de prestadores de servicios profesionales, habilitados por la misma para efectuar las auditorías, visitas o inspecciones.
+Las auditorías, visitas e inspecciones que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por la Auditoría o mediante la contratación de profesionales de auditoría independientes, habilitados por la misma para efectuar visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
+
+Las personas a que se refiere el párrafo anterior actuarán como representantes de la Auditoría en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo e identificarse plenamente.
 
 ###### ARTICULO 41.
 
@@ -481,23 +717,29 @@ Durante sus actuaciones los representantes de la Auditoría que hubieren de inte
 
 Las actas así como las declaraciones o hechos en ellas contenidos, harán prueba plena en términos de Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 42.
 
-Las entidades están obligadas a proporcionar a la Auditoria, la información que les solicite y permitir la práctica de visitas, inspecciones y auditorías.
+Las entidades sujetas de fiscalización están obligadas a proporcionar a la Auditoría la información que les solicite, y permitir la práctica de visitas, inspecciones y auditorías.
 
-Si alguna entidad se negare a proporcionar la información solicitada o se negare a facilitar la revisión de libros, sistemas de informática, instrumentos o documentos de comprobación y justificación, el área de la Auditoría responsable de la diligencia lo hará constar en el acta respectiva, para los efectos legales a que haya lugar.
+Si alguna entidad sujeta de fiscalización se negare a proporcionar la información solicitada o se negare a facilitar la revisión de libros, sistemas de informática, instrumentos o documentos de comprobación y justificación, el área de la Auditoría, responsable de la diligencia, lo hará constar en el acta respectiva, para los efectos legales a que haya lugar.
 
 ###### ARTICULO 43.
 
 Al término de la revisión de las cuentas públicas, a las entidades sujetas de fiscalización les será notificado por parte de la Auditoría el pliego de observaciones que contendrá el resultado de la revisión.
 
-Las entidades sujetas de fiscalización dispondrán de 15 días hábiles para formular los comentarios, solventaciones o aclaraciones que procedan, con el propósito de que sean integrados al informe del resultado de la revisión de la cuenta pública correspondiente.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Las entidades sujetas de fiscalización dispondrán de quince días hábiles para formular los comentarios, solventaciones o aclaraciones que procedan, con el propósito de que sean integrados al informe de resultados de la revisión de la cuenta pública correspondiente.
 
 Cuando los pliegos de observaciones no sean solventados dentro del plazo, señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio de la Auditoría para solventar las observaciones, se procederá conforme se establece en el Capítulo Octavo de la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 44.
 
-Para los efectos de la fiscalización de recursos federales que ejerzan las entidades, la Auditoría podrá celebrar convenios de coordinación con la Auditoría Superior de la Federación para que en ejercicio de sus respectivas atribuciones, revise a través de un programa de auditorías la aplicación, ejercicio y destino de los recursos.
+Para los efectos de la fiscalización de recursos federales que ejerzan las entidades sujetas de fiscalización, la Auditoría podrá celebrar convenios de coordinación con la Auditoría Superior de la Federación para que en ejercicio de sus respectivas atribuciones, revise a través de un programa de auditorías la aplicación, ejercicio y destino de los recursos.
 
 ### CAPITULO SEPTIMO. DE LOS SUJETOS RESPONSABLES Y DE LAS INDEMNIZACIONES
 
@@ -571,13 +813,21 @@ Las indemnizaciones o sanciones a que se refiere la presente Ley, tendrán el ca
 
 Las entidades sujetas de fiscalización, por conducto de los titulares de las áreas correspondientes deberán informar a la Auditoría como ésta disponga, de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto de lo recuperado.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+La Secretaría entregará mensualmente a la Auditoría el monto de lo recaudado por concepto de multas, lo cual será destinado para el mejor funcionamiento de la misma.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 51.
 
-El Auditor Superior del Estado bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando las causas de la abstención, siempre que se trate de hecho que no revistan gravedad ni constituyan delito, considerando los antecedentes y circunstancias del infractor y el daño causado.
+El Auditor Superior del Estado, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando las causas de la abstención, siempre que se trate de hecho que no revista gravedad ni constituya delito, considerando los antecedentes y circunstancias del infractor y el daño causado.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 52.
 
-En todas las cuestiones relativas al procedimiento no previstas en este capítulo, así como en el ofrecimiento, admisión, desahogo y valoración de los medios de prueba, trámite y determinación de responsabilidad, se aplicarán supletoriamente las disposiciones de la legislación vigente de Estado de Tamaulipas.
+En todas las cuestiones relativas al procedimiento, así como en el ofrecimiento, admisión, desahogo y valoración de los medios de prueba, trámite y determinación de responsabilidad, se aplicarán supletoriamente las disposiciones del Código Fiscal del Estado y, en su defecto, del Código de Procedimientos Civiles para el Estado.
 
 ### CAPITULO NOVENO. DE LA PRESCRIPCION DE RESPONSABILIDADES
 
@@ -655,7 +905,7 @@ ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL D
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 18 DE DICIEM BRE 2002
+P.O. 18 DE DICIEMBRE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el 1° de Enero de 2003.
 
@@ -686,3 +936,21 @@ La Auditoría Superior del Estado tendrá de plazo hasta el 30 de septiembre de 
 ###### ARTÍCULO TERCERO.
 
 Para los casos de excepción que se prevén en el artículo 25 que se reforma, las entidades sujetas de fiscalización deberán presentar sus Cuentas Públicas en periodos trimestrales, semestrales ó anuales, según corresponda para los efectos previstos en esta ley, a partir del ejercicio fiscal de 2008.
+
+P.O. 5 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que sean contrarias a los preceptos contenidos en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Auditoría Superior del Estado presentará a la Comisión de Vigilancia de la Auditoría Superior del Estado, a más tardar al 30 de septiembre de 2007, el informe de las cuentas públicas correspondientes a los ejercicios fiscales de 2004, 2005 y 2006 en las cuales no se hubieran concluido la revisión de dicho órgano técnico de fiscalización y la propuesta para su presentación dentro del programa de sus actividades.
+
+###### ARTÍCULO CUARTO.
+
+La Auditoría Superior del Estado dentro del término de seis meses, contados a partir de la publicación del presente Decreto, deberá expedir su Reglamento Interno.
