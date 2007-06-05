@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-medio-ambiente-para-202
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-01"
-last_updated: "2006-03-11"
+last_updated: "2007-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2007.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 1 de marzo de 2001.
 
@@ -51,17 +51,21 @@ A C U E R D O
 
 La Secretaría de Medio Ambiente para el Desarrollo Sustentable es una dependencia del Poder Ejecutivo del Estado que tiene a su cargo formular la política ambiental e inducir el desarrollo sustentable del Estado, fomentando la protección, conservación y restauración de los recursos naturales de la entidad y la prevención y disminución de la contaminación ambiental, así como el desempeño de las atribuciones. facultades y el despacho de los asuntos que expresamente se le encomiendan en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, así como las demás disposiciones legales que sean aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### Artículo 2.
 
 Para efectos de este Reglamento, se entenderá por:
 
-l. Reglamento: El presente Reglamento;
+I. Consejo: El Consejo Consultivo y de Participación Social;
 
-ll. Secretaría: La Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+II. Reglamento: El presente Reglamento;
 
-III. Secretario: El Secretario de Medio Ambiente para el Desarrollo Sustentable; y
+III. Secretaría: La Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
-IV. Unidades Administrativas: Las Direcciones Generales, Direcciones, coordinaciones y demás áreas administrativas de la Secretaría.
+IV. Secretario: El titular de la Secretaría; y
+
+V. Unidades Administrativas: Las coordinaciones, direcciones generales, direcciones de área y en general, todas las áreas que integran la estructura orgánica de la Secretaría.
 
 ## TÍTULO SEGUNDO. De la Estructura, Organización y Funcionamiento de la Secretaría
 
@@ -227,7 +231,7 @@ IV. Dirección de Coordinación Regional.
 
 ###### Artículo 11.
 
-La Dirección de Planeaci6n Ambiental y. Desarrollo Sustentable tendrá las siguientes funciones:
+La Dirección de Planeación Ambiental y Desarrollo Sustentable tendrá las siguientes funciones:
 
 I. Participar en los procesos de planeación del desarrollo en materia ambiental del Estado, en coadyuvancia con los organismos correspondientes;
 
@@ -769,63 +773,171 @@ XV. Recibir, atender e investigar y, en su caso, canalizar ante las autoridades 
 
 ### CAPÍTULO X. Del Consejo Consultivo y de Participación Social
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
+
 ###### Artículo 39.
 
-El Consejo Consultivo y de Participación Social, es el órgano interno de consulta, discusión y participación social de la Secretaría y estará integrado de la siguiente manera:
+El Consejo es el órgano de consulta de la Secretaría, que tiene por objeto lograr la corresponsabilidad de los sectores social, académico, industrial, legislativo, gobierno y organizaciones no gubernamentales para la discusión, diseño, aplicación y evaluación de las políticas públicas que fomenten la protección, restauración, aprovechamiento y conservación de los recursos naturales generando con esto el desarrollo sustentable en el Estado de Jalisco. El Consejo estará integrado por:
 
-I. Un Presidente, que será el Gobernador del Estado o la persona que éste designe, pudiendo ser, cuando así lo determine el propio Presidente, el Secretario del ramo;
+I. Un Presidente, que será el Gobernador del Estado y en su ausencia por designación de éste el Secretario del ramo;
 
-II. Un Secretario de Actas, que será el Director General de Planeación y Vinculación Ambiental de la Secretaría;
+II. Un Secretario Técnico, que será el Director General de Planeación y Vinculación Ambiental de la Secretaría;
 
-III. Un Diputado representante del Congreso Estatal;
+III. Un consejero que será un diputado del Poder Legislativo del Estado y miembro de la Comisión de Medio Ambiente y Desarrollo Sustentable;
 
-IV. Un representante de las organizaciones empresariales del Estado;
+IV. Dos consejeros representantes de organizaciones empresariales o industriales del Estado;
 
-V. Un representante de las instituciones de investigación y educación superior; y
+V. Tres consejeros representantes de instituciones de investigación y educación superior en el Estado; y
 
-VI. Un representante de, grupos no gubernamentales y asociaciones civiles colegiadas, legalmente constituidas, cuyos objetivos se relacionen con la prevención y disminución de la contaminación ambiental y la protección y conservación de los recursos naturales y el desarrollo sustentable.
+VI. Cinco consejeros representantes de organizaciones no gubernamentales y asociaciones civiles colegiadas legalmente constituidas, cuyos objetivos se relacionen con la prevención y disminución de la contaminación ambiental, así como la protección y conservación de los recursos naturales y el desarrollo sustentable.
+
+Los cargos de los consejeros serán honoríficos y sin remuneración económica ni material por el desempeño de sus funciones. Los miembros del Consejo tendrán voz y voto, y la entidad que representen designará un suplente quien les suplirá durante sus ausencias.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 40.
 
-Cada miembro propietario designará un suplente que lo sustituya en sus ausencias, quien tendrá los mismos derechos que el titular.
+Corresponde al Consejo:
+
+I. Asesorar a la Secretaría en la formulación de las políticas estatales en materia de protección ambiental y desarrollo sustentable de los recursos naturales;
+
+II. Proponer a la Secretaría la elaboración de estudios, programas y acciones específicas en materia de protección al medio ambiente y desarrollo sustentable;
+
+III. Analizar periódicamente los resultados en la aplicación de los programas de la Secretaría en materia de protección del medio ambiente y desarrollo sustentable, con base en los informes y estudios respectivos que proporcione la misma;
+
+IV. Analizar y emitir su opinión en los asuntos y casos específicos que someta a su consideración el Secretario;
+
+V. Formular a la Secretaría propuestas para adecuar la legislación en materia ambiental y desarrollo sustentable; e
+
+VI. Integrar grupos técnicos de trabajo para el estudio especializado de asuntos o problemas específicos que el Consejo le determine.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 41.
 
-El cargo como miembro de la Consejo Consultivo y de Participación Social será honorífico y, por lo tanto, no remunerado.
+Corresponde al Presidente del Consejo:
+
+I. Conformar al Consejo y tomar protesta a sus integrantes;
+
+II. Convocar, a través del Secretario Técnico, a las sesiones del Consejo, y aprobar las órdenes del día;
+
+III. Presidir las sesiones del Consejo;
+
+IV. Aprobar el calendario anual de sesiones;
+
+V. Supervisar el seguimiento de los acuerdos y recomendaciones que se deriven de las mismas;
+
+VI. Proponer al Consejo las comisiones o grupos de trabajo que sean necesarios para el ejercicio de sus funciones; y
+
+VII. Las demás que le asignen las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 42.
 
-Las sesiones del Consejo Consultivo y de Participaci6n Social podrán ser ordinarias o extraordinarias, las primeras deberán celebrarse como mínimo cada cuatro meses, las segundas se efectuarán cuantas veces fuere necesario, previa convocatoria formulada por su Presidente.
+Corresponde a los integrantes del Consejo:
+
+I. Someter a consideración del Consejo, propuestas y proyectos que puedan integrar la agenda en programas, estrategias y acciones de la Secretaría;
+
+II. Comunicar al Consejo los objetivos, opiniones, acuerdos y propuestas de las instituciones u organizaciones que representan, que coadyuven a los asuntos relacionados y tratados en el Pleno del Consejo;
+
+III. Votar los asuntos presentados en el Pleno;
+
+IV. Formar parte de los grupos técnicos de trabajo que el Pleno integre;
+
+V. Evaluar el resultado de las actividades del Consejo;
+
+VI. Asistir y permanecer en las sesiones que convoque el Consejo;
+
+VII. Proporcionar la información necesaria que el Consejo solicite, a fin de apoyar y facilitar sus tareas;
+
+VIII. Atender y resolver los asuntos que se les encomienden; e
+
+IX. Informar a las instituciones u organizaciones que representan las resoluciones adoptadas en el Consejo.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 43.
 
-Para que tengan validez las sesiones ordinarias y extraordinarias del Consejo Consultivo y de Participación Social, se requerirá la asistencia de la mitad más uno de sus miembros, siempre que entre ellos se encuentre su Presidente.
+Corresponde al Secretario Técnico, lo siguiente:
+
+I. Asistir a las sesiones ordinarias y extraordinarias del Consejo;
+
+II. Notificar las convocatorias y sus respectivas órdenes del día, previo acuerdo del Presidente;
+
+III. Preparar las sesiones, verificar el quórum y levantar el acta correspondiente de cada sesión;
+
+IV. Llevar un registro y control de las actas, acuerdos y toda la documentación relativa al Consejo;
+
+V. Remitir, dentro de los cinco días hábiles siguientes al día en que se celebren las sesiones, a los miembros del Consejo una copia del acta de sesión;
+
+VI. Informar al Presidente sobre el seguimiento y cumplimiento de los acuerdos aprobados por el Consejo;
+
+VII. Coordinar y apoyar a las comisiones y grupos de trabajo;
+
+VIII. Notificar al Presidente cualquier modificación en el estatus de los integrantes del Consejo, dentro de la institución u organización que representan; y
+
+IX. Las demás que le designen el Consejo, su Presidente y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 44.
 
-Las resoluciones del Consejo Consultivo y de Participación Social se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
+Serán causa de sustitución de los Consejeros, las siguientes:
+
+I. Incumplir las previsiones establecidas en el artículo 42 de este Reglamento;
+
+II. No asistir, ni designar suplente, en dos sesiones consecutivas del Consejo sin justificación presentada previamente por escrito;
+
+III. Expresar opiniones en nombre del Consejo sin la autorización del mismo, así como realizar acciones proselitistas a favor de algún partido político tanto al interior como al exterior del Consejo; y
+
+IV. Dejar de formar parte de la institución u organización a la que representa.
+
+El Presidente del Consejo notificará por escrito a la institución correspondiente, respecto de la causa que motiva la sustitución para efecto de que ésta nombre un nuevo representante dentro de los treinta días naturales siguientes a que hubiere sido notificada.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 45.
 
-Las sesiones serán iniciadas y conducidas por el Presidente o su representante, quienes también podrán suspenderlas por causas justificadas.
+El Consejo deberá reunirse en sesión ordinaria por lo menos dos veces al año, y en sesión extraordinaria, cuando existan razones de importancia, por algún asunto urgente, o cuando así lo soliciten la mayoría de los Consejeros y el Presidente lo estime necesario.
 
-De cada sesión del Consejo Consultivo y de Participación Social se levantará un acta, que será debidamente firmada por los participantes de la misma.
+La convocatoria deberá contener fecha, lugar y hora de la reunión, orden del día y los documentos de trabajo sobre los temas y puntos a tratar. La convocatoria para las sesiones ordinarias deberá ser notificada a los Consejeros con una anticipación no menor de quince días hábiles, y en tratándose de las sesiones extraordinarias, con una anticipación no menor de cinco días hábiles.
+
+Los asuntos a tratar en el Consejo deberán ser producto de los acuerdos previos aprobados por el Pleno, así como los que presenten los grupos técnicos de trabajo.
+
+Las recomendaciones, acuerdos y resoluciones del Pleno serán difundidos a la sociedad exclusivamente por el Presidente.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### Artículo 46.
 
-Corresponde al Consejo Consultivo y de Participación Social:
+Las sesiones se llevarán a cabo en el día y hora señalados en la convocatoria. El Presidente declarará instalada la sesión, previa verificación de la asistencia y certificación del quórum que realice el Secretario Técnico.
 
-l. Cumplir y hacer cumplir las disposiciones contenidas en éste ordenamiento y las demás disposiciones jurídicas relacionadas con la prevención y disminución de la contaminación ambiental y la protección y conservación de los recursos naturales y el desarrollo sustentable;
+Será requisito de validez para la realización de las sesiones, la asistencia de la mitad más uno de los integrantes del Consejo, incluyendo a su Presidente.
 
-II. Proponer y opinar respecto de los planes y programas que desarrollará la Secretaría y sus Unidades Administrativas, con relación a las funciones que les corresponden cumplir;
+Las resoluciones del Consejo se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
 
-III. Formular y proponer al Ejecutivo del Estado y al Secretario del ramo, los proyectos, las medidas necesarias y las acciones que procedan, con objeto de preservar el equilibrio ecológico y proteger al ambiente en la Entidad;
+Si una vez establecido el quórum, alguno de los Consejeros se ausentara, los acuerdos que tomen los Consejeros que permanezcan serán válidos.
 
-IV. Elaborar y aprobar su reglamento interior;
+En el caso de que en la instalación de las sesiones ordinarias no se reúna el quórum legal, el Presidente convocará a sesión extraordinaria, misma que se realizará dentro de los cinco días naturales siguientes.
 
-V. Concertar programas de trabajo y acciones en las materias competencia de la Secretaría, con los sectores social y privado del Estado; y
+Las actas de las sesiones contendrán, cuando menos:
 
-VI. En general, realizar todos aquellos actos que sean necesarios para asegurar el cumplimiento de las funciones, atribuciones y facultades de la Secretaría, con la participación que corresponda a los diferentes sectores de la sociedad.
+I. Lugar, fecha y hora de la realización de la sesión, de conformidad con la convocatoria respectiva;
+
+II. Fecha y hora de inicio y cierre de la sesión;
+
+III. Registro de asistencia;
+
+IV. Agenda y orden del día;
+
+V. Acuerdos aprobados por el Consejo; y
+
+VI. Firma del Presidente, del Secretario Técnico y de los integrantes del Consejo que así lo quieran hacer.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2007)</small>
+
+Artículo 46 bis.- Cuando el Consejo lo considere oportuno, se invitará a participar a las reuniones, con derecho de voz pero sin voto, a representantes de otras dependencias y entidades de la administración pública, o de los sectores privado y social.
 
 ### CAPÍTULO XI. Del Centro de Información Ambiental
 
@@ -841,7 +953,7 @@ III. Vincular e intercambiar información local, nacional e internacional en asu
 
 IV. Reunir y concentrar información sobre los resultados de la gestión ambiental en el Estado y sobre los valores y potencial ecoturístico de la Entidad, así como promover su difusión.
 
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES CAPÍTULO XII], P.O. 11 DE MARZO DE 2006)</small>
 
 ### CAPÍTULO XII. De la Dirección Operativa del Programa de Afinación Controlada
 
@@ -877,7 +989,7 @@ XIII. Coordinar la capacitación y promoción a través de comités de vinculaci
 
 XIV. Las demás que señale la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente. El Reglamento del Programa de Afinación Controlada para el Estado de Jalisco, y los demás ordenamientos relacionados con el Programa de Afinación Controlada, así como las que le sean delegadas y encomendadas por el Titular de la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO XII], P.O. 11 DE MARZO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
 
 ### CAPÍTULO XIII. De las Comunicaciones Oficiales
 
@@ -953,7 +1065,7 @@ EL C. SECRETARIO DE MEDIO AMBIENTE PARA EL DESARROLLO SUSTENTABLE
 
 ING. RAMÓN GONZÁLEZ NÚÑEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2005.
 
@@ -970,3 +1082,7 @@ QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al pre
 P.O. 11 DE MARZO DE 2006.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE JUNIO DE 2007.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
