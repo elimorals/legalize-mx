@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3490
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-17"
-last_updated: "2001-01-19"
+last_updated: "2007-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 17 de julio de 1992.
 
@@ -610,3 +612,33 @@ SEGUNDO. Dentro de los quince días en que entre en vigor este decreto, el Conse
 La Presidencia de la Comisión de Derechos Humanos del Estado de Coahuila deberá informar con oportunidad a la comunidad el establecimiento de los Visitadores.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 5 DE JUNIO DE 2007.
+
+PRIMERO. La presente ley entrará en vigor el día 30 de junio de 2007.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Coahuila, de fecha 30 de junio de 1992, publicada en el Periódico Oficial del Gobierno del Estado el día 17 de julio del mismo año. Asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO. El Presidente y los Consejeros actuales durarán en su encargo el periodo para el cual fueron designados.
+
+CUARTO. Una vez que entre en vigor la presente ley, el Consejo celebrará una sesión en la que sus miembros deberán tomar los acuerdos necesarios para el debido funcionamiento de la Comisión, conforme a la estructura y atribuciones que les están conferidas en la presente ley.
+
+En esa sesión, se acordará además lo siguiente:
+
+I. La integración de las comisiones del Consejo;
+
+II. La designación de la persona que habrá de ocupar la Contraloría Interior y de Fiscalización prevista en esta ley; y,
+
+III. La determinación de los órganos de la Comisión a los que corresponderá la elaboración de los anteproyectos de reglamento, del Estatuto del Servicio Profesional y del Código de Ética de la Comisión.
+
+El acta de esa sesión deberá ser enviada para su publicación al Periódico Oficial del Gobierno del Estado.
+
+QUINTO. En los términos previstos por este ordenamiento, el Consejo deberá emitir, dentro de los 180 días naturales siguientes a la fecha en que entre en vigor esta ley, los siguientes ordenamientos:
+
+I. El reglamento interior. Entre tanto, la Comisión podrá continuar aplicando, en lo que no se oponga a las disposiciones previstas en la presente ley, el reglamento publicado en el Periódico Oficial del Gobierno del Estado, Número 15, de fecha 20 de febrero del año 2001, el cual, quedará abrogado, una vez emitido el de la presente ley.
+
+II. El Estatuto del Servicio Profesional de la Comisión de Derechos Humanos del Estado de Coahuila.
+
+III. El Código de Ética de la Comisión de Derechos Humanos del Estado de Coahuila.
+
+SEXTO. Los procedimientos y trámites iniciados al amparo de las disposiciones de la ley que se abroga, continuarán sustanciándose conforme a la misma y, en lo que fuere procedente y resulte en beneficio de los interesados, se aplicarán las disposiciones de la presente ley y los acuerdos que determine el Consejo.
