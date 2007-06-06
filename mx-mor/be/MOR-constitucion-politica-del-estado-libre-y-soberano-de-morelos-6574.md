@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2007-03-21"
+last_updated: "2007-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -298,7 +298,7 @@ c).- Al sano esparcimiento para su desarrollo integral;
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
 
-d).- A salvaguardarles en todo momento la protección de los derechos y garantías fundamentales, que por su condición de personas en desarrollo son reconocidos por la Constitución General de la República, por los tratados internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el estado establecerá un sistema Integral de Justicia que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales.
+d).- A salvaguardarles en todo momento la protección de los derechos y garantías fundamentales, que por su condición de personas en desarrollo son reconocidos por la Constitución General de la República, por los tratados internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el estado establecerá un Sistema Integral de Justicia que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales.
 
 La conducción y operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes. Dicho Sistema deberá considerar formas alternativas de justicia que cumplan con las garantías del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión, de las que impongan las medidas y de las que ejecuten la medida impuesta, para ello, el Congreso del Estado emitirá el ordenamiento legal de la materia, a fin de establecer las formas y autoridades responsables de su ejercicio.
 
@@ -306,7 +306,7 @@ El sistema integral de justicia en el Estado de Morelos, garantizará la orienta
 
 Cuando los elementos constitutivos del cuerpo del delito estén debidamente acreditados, los menores de 12 años que hayan realizado una conducta prevista como delito en la ley, previa acreditación de la probable responsabilidad, sólo podrán ser sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad técnica multidisciplinaria. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
 
-Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
+Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
 
 e).- (DEROGADO, P.O. 21 DE MARZO DE 2007)
 
@@ -1008,9 +1008,9 @@ XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia de entre l
 
 Las designaciones a que alude esta fracción, deberán reunir el voto aprobatorio previsto en el artículo 44 de la presente Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
-XXXVIII.- Nombrar a los Diputados que deben integrar la Diputación permanente, conforme el Artículo 53 de esta Constitución.
+XXXVIII.- Nombrar al Diputado que en forma conjunta con la mesa Directiva del Congreso del Estado, deba integrar la diputación permanente, conforme el artículo 53 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1222,21 +1222,21 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LA DIPUTACION PERMANENTE.
 
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., 29 DE NOVIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
 
 ###### Artículo 53.
 
-Durante el receso del Congreso, habrá una diputación permanente compuesta de cinco diputados propietarios y sus respectivos suplentes, nombrados por el Congreso en la sesión de la clausura del período ordinario; misma que se instalará el mismo día y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
+Durante los recesos del Congreso, habrá una diputación permanente integrada por cinco diputados, que serán los mismos que conformen la mesa directiva del Congreso de ese período, más un diputado designado por el pleno en la sesión de la clausura del período ordinario correspondiente; se instalará el mismo día y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
+
+En la misma sesión de la clausura del período ordinario el Congreso designará a tres suplentes.
 
 ###### Artículo 54.
 
 Las resoluciones de la Diputación Permanente se tomarán por mayoría de votos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
 ###### Artículo 55.
 
-En caso de falta de alguno o algunos de los diputados que integren la diputación permanente, los restantes podrá (sic) llamar a los diputados designados como suplentes.
+(DEROGADO, P.O. 6 DE JUNIO DE 2007)
 
 ###### Artículo 56.
 
@@ -1250,7 +1250,7 @@ II.- Tramitar todos lo asuntos que quedaren pendientes al cerrarse las sesiones 
 
 III.- Conceder licencia al Gobernador para separarse de sus funciones o salir del territorio del Estado, por un término mayor de treinta días, pero que no exceda de dos meses.
 
-IV.- Nombrar Gobernador Interino en el caso de la fracción anterior.
+IV.- (DEROGADA, P.O. 6 DE JUNIO DE 2007)
 
 V.- Convocar al Congreso a sesiones extraordinarias en los casos siguientes:
 
@@ -1278,9 +1278,9 @@ VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su 
 
 VIII.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
-IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII, XXXIV y LV del artículo 40 de esta Constitución;
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVII, XXX, XXXII, XXXIII y LV del artículo 40 de esta Constitución.
 
 X.- Las demás que le confiere expresamente esta misma Constitución.
 
@@ -1576,7 +1576,7 @@ XXXVII.- Las demás que otorgue la presente Constitución.
 
 ###### Artículo 71.
 
-El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la entidad. Podrá inclusive convenir en los términos de ley, con la federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquella; de igual manera estará facultado para celebrar convenios con sus municipios para que estos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario. Sujetándose en todo momento a lo previsto en las leyes que al efecto expida el Congreso y en su caso la normatividad federal aplicable. Celebrado que fueren los convenios en los términos de ley, El Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado, del ejercicio de esta facultad, anexando los documentos respectivos en cada caso.
+El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la entidad. Podrá inclusive convenir en los términos de ley, con la federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquella; de igual manera estará facultado para celebrar convenios con sus municipios para que estos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario. Sujetándose en todo momento a lo previsto en las leyes que al efecto expida el Congreso y en su caso la normatividad federal aplicable. Celebrado que fueren los convenios en los términos de ley. El Ejecutivo del Estado y los Ayuntamientos informarán al Congreso del Estado, del ejercicio de esta facultad, anexando los documentos respectivos en cada caso.
 
 En el ámbito municipal y en el caso en que no exista el convenio respectivo, el Congreso del Estado, a solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, valorará la conveniencia de que el Estado asuma funciones o servicios municipales, cuando se considere que el Gobierno Municipal se encuentra imposibilitado para ejercerlos o prestarlos, determinando en estos casos el procedimiento y las condiciones para que el Gobierno Estatal las asuma.
 
@@ -3462,7 +3462,7 @@ SEGUNDO. Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal p
 
 TERCERO. Los actuales integrantes del Consejo Consultivo de la Comisión Estatal de Derechos Humanos continuarán en su encargo hasta en tanto el Congreso del Estado, elija a los nuevos integrantes que conformarán el Consejo Consultivo, en términos del artículo subsiguiente.
 
-CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic)exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
+CUARTO. En términos de la parte considerativa, en caso de que a la fecha de inicio de vigencia del presente decreto, exista Presidente de la Comisión Estatal de Derechos Humanos en funciones, éste durará en su cargo hasta en tanto el Congreso del Estado, elija al nuevo Presidente del órgano constitucional que se crea. De igual forma, para el caso de no que (sic) exista designación o ratificación de Presidente de la citada comisión en la fecha mencionada, el Congreso del Estado, hará la designación correspondiente en un término no mayor a los treinta días naturales posteriores a la publicación del presente decreto por única ocasión, para lo cual la Junta de Coordinación Política emitirá convocatoria en los principales medios de comunicación en el Estado, para el efecto de que las organizaciones no gubernamentales, asociaciones civiles, y la población en general presenten sus propuestas sustentadas documentalmente, estableciéndose en dicha convocatoria las bases sobre las cuales se desarrollará este proceso. Hecho lo anterior, emitirá dictamen para que sea sometido a consideración del Pleno de la Asamblea y se designe tanto al Presidente como a los Consejeros de la Comisión de Derechos Humanos del Estado de Morelos.
 
 QUINTO. En un término máximo de sesenta días hábiles siguientes al inicio de vigencia de la presente, el Congreso del Estado deberá expedir la ley reglamentaria que regule el funcionamiento y atribuciones de la Comisión de Derechos Humanos del Estado de Morelos, mientras tanto, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y los ordenamientos vigentes en lo que no se contravengan, hasta dicha expedición de la ley reglamentaria.
 
@@ -3487,3 +3487,17 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO CUARTO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 6 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente dictamen por las dos terceras partes del Honorable Congreso del Estado, remítase junto con las copias de los debates que se hubieren generado, a los Ayuntamientos del Estado de Morelos, para dar cumplimiento a lo establecido en el artículo 147, fracción I de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "(sic) Tierra y Libertad, órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
