@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2004-03-29"
+last_updated: "2007-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -729,13 +729,17 @@ II. Ser cómplice en cualquier forma no prevista, en la comisión de infraccione
 
 A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente a 150 días de salario mínimo diario vigente en la región.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 67.
 
-Las infracciones a las disposiciones fiscales relacionadas con el Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, prestado bajo la Dirección y Dependencia de un Patrón, son las siguientes:
+Las infracciones a las disposiciones fiscales relacionadas con el Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, prestado bajo la Dirección y Dependencia de un Patrón, así como del Impuesto sobre Servicios de Hospedaje, son las siguientes:
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2004)</small>
 
 I. Omitir presentar oportunamente las declaraciones mensuales de pago provisional o presentarlas extemporáneamente a requerimiento de la autoridad; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2004)</small>
 
 II. No exhibir oportunamente las declaraciones del ejercicio o presentarlas extemporáneamente a requerimiento de la autoridad.
 
@@ -1776,3 +1780,9 @@ P.O. 29 DE MARZO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JUNIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
