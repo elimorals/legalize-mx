@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-fiscalia-general-del-estado-de-chiapas-43500
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-24"
-last_updated: "2004-11-24"
+last_updated: "2007-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA FISCALIA GENERAL DE ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de noviembre de 2004.
+Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de Noviembre de 2004.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado Libre y Soberano de Chiapas, a sus habitantes hace saber: que la Honorable Sexagésima Primera Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
@@ -415,7 +415,7 @@ XI.- Promover la participación de la comunidad en los programas de su competenc
 
 XII.- Auxiliar a otras autoridades en la persecución de los delitos de la competencia de éstas, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
 
-XIII.- Brindar protección y seguridad a los Servidores Públicos Federales, Estatales o Extranjeros, así como a los particulares que por sus características o condiciones personales o por su actividad así se requiera;
+XIII.- (DEROGADA, P.O. 6 DE JUNIO DE 2007)
 
 XIV.- Administrar y operar un sistema de bienes asegurados, conforme a las disposiciones aplicables;
 
@@ -1552,3 +1552,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de noviembre del año dos mil cuatro.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los recursos presupuestales asignados a la Fiscalía General del Estado, en razón a la función derogada por el presente decreto, serán reasignados y transferidos por las Secretarías de Finanzas y de Administración del Poder Ejecutivo del Estado, en un plazo no mayor a treinta días naturales a la entrada en vigor del presente Decreto, a la Coordinación Especial del Estado Mayor del Gobierno del Estado.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
