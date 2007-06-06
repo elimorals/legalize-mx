@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-15935
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-09"
-last_updated: "2004-07-28"
+last_updated: "2007-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de febrero de 2000.
 
@@ -546,3 +548,19 @@ PRIMERO.- Una vez aprobada la presente reforma, deberá remitirse al Titular del
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Para dar cumplimiento con la nueva integración del Consejo Consultivo de la Comisión Estatal de Derechos Humanos, deberá llevarse a cabo por conducto de este Congreso, la designación del Consejero de conformidad a los lineamientos ya establecidos en la ley de la materia.
+
+P.O. 6 DE JUNIO DE 2007.
+
+PRIMERO. Queda abrogada la Ley de la Comisión Estatal de Derechos Humanos del Estado de Morelos, publicada el nueve de febrero del año dos mil, y abrogadas todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+SEGUNDO. El Presidente de la Comisión de Derechos Humanos el Estado de Morelos en funciones, deberá cumplir el período para el que fue electo mediante el Decreto respectivo.
+
+TERCERO. El Congreso del Estado elegirá a los Consejeros Suplentes a que hace referencia el artículo 15 de este ordenamiento al concluir el período para el que fueron electos los Consejeros Propietarios. En caso de ausencia definitiva de alguno de los Consejeros Propietarios electos el 23 de marzo del 2007, el Congreso elegirá al Consejero Propietario, así como a su suplente.
+
+CUARTO. La Comisión de Derechos Humanos del Estado de Morelos en un plazo no mayor a tres meses contados a partir de la iniciación de la vigencia de la presente Ley, deberá elaborar su reglamento interior en el que establecerá las funciones, atribuciones y objetivos de sus órganos administrativos en estricto cumplimiento a lo establecido por la presente Ley.
+
+QUINTO. Una vez aprobado el Reglamento Interior por la Comisión de Derechos Humanos del Estado, remítase para su publicación en el periódico oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos; en tanto surtirá sus efectos legales el Reglamento Interior vigente en lo que no se contravenga a la presente Ley.
+
+SEXTO. Aprobada la presente Ley de la Comisión de Derechos Humanos del Estado de Morelos, deberá remitirse al Titular del Poder Ejecutivo para efectos de su publicación en el periódico oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SÉPTIMO. La presente Ley de la Comisión de Derechos Humanos del Estado de Morelos, entrará en vigor al día siguiente de su aprobación.
