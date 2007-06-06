@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2006-09-10"
+last_updated: "2007-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -3315,7 +3315,9 @@ En el caso de que el apelante omitiera expresar agravios al interponer el recurs
 
 Si no se presentara apelación en contra de la sentencia definitiva, se entenderán consentidas las resoluciones y autos que hubieren sido apelados durante el procedimiento.
 
-No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de menores o incapaces, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista. En estos casos se remitirán al Tribunal Superior el testimonio o los autos originales, según sea la resolución impugnada, aunque no se formulen agravios.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
+
+No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de menores o incapaces y en los demás asuntos del orden familiar se suplirá la deficiencia de la queja. Lo mismo se observará también tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista. En estos casos se remitirán al Tribunal Superior de Justicia el testimonio o los autos originales, según sea la resolución impugnada, aunque no se formulen agravios.
 
 ###### Artículo 442.
 
@@ -3341,7 +3343,9 @@ Llegados los autos o el testimonio, en su caso, al superior, éste dentro de los
 
 Declarada inadmisible la apelación, se devolverán los autos al inferior, revocada la calificación, se procederá en consecuencia.
 
-En los procedimientos relacionados con derechos de menores, o incapaces, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
+
+En los procedimientos relacionados con derechos de menores, o incapaces y demás del orden familiar, se suplirá la deficiencia de la queja. Lo mismo se observará tratándose de alimentos, cuando la parte apelante sea la acreedora alimentista.
 
 ###### Artículo 447.
 
@@ -6839,7 +6843,7 @@ Los gastos generales del apeo se harán por el que promueva. Los que importen la
 
 ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2007)</small>
 
 ###### Artículo 950.
 
@@ -6875,7 +6879,7 @@ DISPOSICIONES GENERALES.
 
 ###### Artículo 952.
 
-Todos los problemas inherentes a la familia se consideran de orden público, por constituir ésta la base de la integración de la sociedad. Tratándose de menores y de obligaciones alimentarias, el Juez está obligado a suplir la deficiencia de los planteamientos de hecho y a velar por el interés superior de menores o incapacitados.
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir ésta la base de la integración de la sociedad. Tratándose de menores y de obligaciones alimentarias, así como de todos los demás casos del orden familiar, el Juez está obligado a suplir la deficiencia de la queja en los planteamientos de hecho y de derecho y demás aspectos de la demanda y de otras promociones legales y a velar por el interés superior de menores o incapacitados.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
@@ -8804,3 +8808,7 @@ Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la 
 Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
 
 Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
+
+P.O. 6 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
