@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-869-de-fomento-a-la-investigacion-cientifica-y-41612
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-08"
-last_updated: "2004-11-08"
+last_updated: "2007-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 6 DE JUNIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 8 de noviembre de 2004.
 
@@ -141,9 +141,17 @@ III. Realizar las acciones necesarias para impulsar la ciencia y la tecnología 
 
 IV. Participar en los órganos de consulta previstos en esta Ley;
 
-V. Apoyar la formación de recursos humanos de alto nivel académico y profesional, en el campo de la ciencia y la tecnología; y
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2007)</small>
 
-VI. Realizar las demás actividades previstas en la presente Ley y en los ordenamientos que resulten aplicables y que tengan como finalidad alcanzar el desarrollo municipal a través del fomento de la ciencia, la tecnología y la innovación.
+V. Apoyar la formación de recursos humanos de alto nivel académico y profesional, en el campo de la ciencia y la tecnología;
+
+> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2007)</small>
+
+VI. Realizar las demás actividades previstas en la presente Ley y en los ordenamientos que resulten aplicables y que tengan como finalidad alcanzar el desarrollo municipal a través del fomento de la ciencia, la tecnología y la innovación; y
+
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2007)</small>
+
+VII. Convocar a los alumnos del nivel básico de educación a un concurso anual con temas vinculados a la investigación científica y tecnológica, con un enfoque de beneficio para el municipio o el Estado.
 
 ### Capítulo III. Del Consejo Veracruzano de Investigación Científica y Desarrollo Tecnológico
 
@@ -275,7 +283,11 @@ II. Un Secretario Ejecutivo, que será el Secretario de Educación y Cultura;
 
 III. Un Secretario Técnico, que será el Director General del COVEICYDET, con derecho a voz, pero no a voto;
 
-IV. Veintiún vocales, que serán:
+> <small>(ADICIONADA, G.O. 6 DE JUNIO DE 2007)</small>
+
+IV. Un diputado integrante de la Comisión de Ciencia y Tecnología designado por la mayoría presente en el Pleno del Congreso;
+
+V. Veintiún vocales, que serán:
 
 a) Los titulares de las Secretarías:
 
@@ -864,3 +876,21 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE JUNIO DE 2007.
+
+DECRETO NUMERO 867
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 6 DE JUNIO DE 2007.
+
+DECRETO NUMERO 868
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
