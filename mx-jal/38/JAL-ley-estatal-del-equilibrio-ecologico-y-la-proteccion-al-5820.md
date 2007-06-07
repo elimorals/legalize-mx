@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2007-01-13"
+last_updated: "2007-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -81,7 +81,7 @@ IV. Capacidad de carga ambiental: Respuesta de un ecosistema a las diversas acti
 
 V. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
 
-VI. Confinamiento controlado de residuos sólidos: Sistema de ingeniería sanitaria para la disposición final o almacenamiento de los residuos sólidos industriales, en terrenos acondicionados para tal efecto conforme a la normatividad aplicable, con el objetivo de proteger el medio de cualquier posible contaminación;
+VI. (DEROGADA, P.O. 7 DE JUNIO DE 2007)
 
 VII. Corta sanitaria: Medida para prevenir y evitar la degradación provocada por algún agente patógeno en especies como árboles, arbustos y otras plantas;
 
@@ -129,11 +129,11 @@ XXIII. Reciclaje: El Proceso por el cual los residuos son transformados en produ
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-XXIV.- Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXIV. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-XXV. Relleno sanitario: Sistema de ingeniería sanitaria par (sic) la disposición final de los residuos sólidos municipales en terrenos condicionados para tal efecto, de conformidad a las disposiciones normativas aplicables, con el objeto de proteger el medio de cualquier posible contaminación;
+XXV. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar a través de la compactación e infraestructura adicionales los impactos ambientales;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -143,13 +143,13 @@ XXVI. Rescate energético: Es la recuperación con fines de reutilización de un
 
 XXVII. Residuo incompatible: Aquel que al entrar en contacto o ser mezclado con otro, reacciona produciendo calor o presión, fuego o evaporación, partículas, gases o vapores peligrosos, pudiendo ser esta reacción violenta;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-XXVIII. Residuos sólidos industriales: Residuos sólidos que resultan de las actividades industriales y de servicios, que no se consideran peligrosos conforme la normatividad ambiental federal;
+XXVIII. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-XIX. Residuos sólidos municipales: Residuos sólidos que resulten de las actividades domésticas y comerciales, no considerados como peligrosos, conforme la normatividad ambiental federal;
+XXIX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en [a vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -205,7 +205,9 @@ X. La regulación con criterios de sustentabilidad, del aprovechamiento de los m
 
 XI. La preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados y centrales de abasto, cementerios, rastros, tránsito y transporte local;
 
-XII. La regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales y municipales que no estén considerados como peligrosos, conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y sus disposiciones reglamentarias;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+XII. La regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos que no estén considerados como peligrosos, conforme a la Ley General de Prevención y Gestión Integral de los Residuos, a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y sus disposiciones reglamentarias;
 
 XIII. La expedición y aplicación, con criterios de mejora regulatoria, en el ámbito de sus respectivas competencias, de leyes y reglamentos que tiendan al cumplimiento de las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, sus reglamentos y normas oficiales mexicanas, así como la expedición de la normatividad estatal para el cumplimiento de la presente ley y sus reglamentos, las cuales tiendan a incentivar el desarrollo económico del estado de manera sustentable;
 
@@ -277,7 +279,9 @@ IV. Proponer la normatividad reglamentaria y criterios ambientales estatales, qu
 
 V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio;
 
-VI. Formular y, en su caso, desarrollar programas para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para la disminución de la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento sustentable de los recursos naturales, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+VI. Elaborar en el ámbito de su respectiva competencia, programas para la prevención y control de contingencias ambientales y coordinarse con autoridades federales y municipales, para su aplicación y cumplimiento;
 
 VII. Elaborar el ordenamiento ecológico regional del estado, en las escalas necesarias para la planeación estatal y municipal del uso sustentable del territorio en las diferentes regiones de la entidad, en coordinación con la federación y los gobiernos municipales, en sus respectivas esferas de competencia, y asegurarse que los ordenamientos ecológicos locales que al efecto expidan los gobiernos municipales, sean congruentes con el ordenamiento ecológico regional del estado;
 
@@ -311,9 +315,17 @@ XXI. El ejercicio de las funciones en materia de preservación del equilibrio ec
 
 XXII. Vigilar el cumplimiento de las disposiciones de la presente ley en las obras o actividades que no correspondan a asuntos de competencia federal, que puedan causar desequilibrios graves e irreparables, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidas en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente;
 
-XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-XXIV. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XXIII. Atender los asuntos que afecten el equilibrio ecológico de dos o más municipios, de conformidad a la distribución de competencias que se establece en la presente ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2007)</small>
+
+XXIV. Crear, administrar y aplicar el Fondo Estatal de Protección al Ambiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2007)</small>
+
+XXV. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -351,11 +363,21 @@ VII. Vigilar las descargas de origen municipal y evitar su mezcla con otras desc
 
 VIII. Formular y expedir las declaratorias correspondientes para la creación de áreas naturales protegidas en el municipio, en congruencia con la política ambiental de la federación y del gobierno del estado;
 
-IX. Formular y promover programas para la disminución y reciclado de residuos sólidos municipales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-X. Vigilar el cumplimiento de la legislación estatal en materia de prevención y control de la contaminación de la atmósfera generada por fuentes fijas y móviles de jurisdicción local cuya competencia no esté reservada a la federación, así como el aprovechamiento de los recursos naturales, como lo prevén las leyes correspondientes de la materia; y
+IX. Formular y promover programas para la disminución y reciclado de. residuos sólidos urbanos;
 
-XI. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+X. Vigilar el cumplimiento de la legislación estatal en materia de prevención y control de la contaminación de la atmósfera generada por fuentes fijas y móviles de jurisdicción local cuya competencia no esté reservada a la federación, así como el aprovechamiento de los recursos naturales, como lo prevén las leyes correspondientes de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2007)</small>
+
+XI. Expedir la normatividad correspondiente en materia de contaminación visual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2007)</small>
+
+XII. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
 
 ### CAPITULO V
 
@@ -463,7 +485,9 @@ V. El establecimiento, aprovechamiento y vigilancia de áreas naturales sometida
 
 VI. La adquisición, instalación y operación de equipos para la prevención y disminución de las emisiones contaminantes a la atmósfera, así como cualquier otra actividad que tienda a mejorar la calidad del aire;
 
-VII. La prevención y disminución de los residuos sólidos industriales y municipales, así como el fomento de la recuperación, reutilización, reciclaje y disposición final de los mismos, siempre y cuando se prevenga y disminuya la contaminación ambiental; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+VII. La prevención de la contaminación y disminución de los residuos de manejo especial y sólidos urbanos, así como el fomento de la recuperación, reutilización, reciclaje y disposición final de los mismos, siempre y cuando se prevenga y disminuya la contaminación ambiental; y
 
 VIII. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
@@ -621,7 +645,9 @@ Corresponderá a la Secretaría evaluar el impacto ambiental a que se refiere el
 
 I. Vías generales de comunicación estatales y obra pública local que comprenda o se ubique en dos o más municipios;
 
-II. Instalación de confinamientos de disposición final, de transferencia o eliminación de residuos sólidos industriales y municipales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+II. Instalación de rellenos sanitarios, y sitios de transferencia o tratamiento de residuos de manejo especial y sólidos urbanos;
 
 III. Desarrollos inmobiliarios y nuevos centros de población que no se localicen en áreas urbanas y/o reservas urbanas y que incidan en ecosistemas donde la regulación del impacto ambiental no esta reservado a la federación;
 
@@ -785,9 +811,45 @@ La Secretaría, en coordinación con la empresa auditada, pondrá los programas 
 
 En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
-#### SECCION PRIMERA
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2007)</small>
 
-De los tipos y caracteres de las áreas naturales protegidas.
+#### SECCION DECIMA SEGUNDA. Del fondo estatal de protección al ambiente
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
+
+###### Artículo 41 Bis.
+
+El titular del Ejecutivo, por conducto de la Secretaría, establecerá el Fondo Estatal de Protección al Ambiente, para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
+
+###### Artículo 41 Ter.
+
+El Fondo Ambiental se destinará a:
+
+I. La realización de acciones de preservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico;
+
+II. La restauración, manejo y administración de las áreas de valor ambiental;
+
+III. Restauración de sitios contaminados;
+
+IV. El apoyo a programas de prevención y restauración del equilibrio ecológico que desarrollen los municipios;
+
+VI (SIC). El apoyo al desarrollo de programas de educación e investigación en materia ambiental; y
+
+VII. La prevención y control de la contaminación atmosférica, de suelos y de agua.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
+
+Artículo 41 Quarter. Los recursos del Fondo Ambiental se integrarán con:
+
+I. Las herencias, legados, cesión de derechos y donaciones que reciba;
+
+II. Los recursos destinados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los municipios;
+
+III. Aquellos que provengan de fondos, contemplados en normatividad distinta al presente ordenamiento; y
+
+IV. Los demás recursos que se generen por cualquier otro concepto.
 
 ## TITULO SEGUNDO
 
@@ -797,11 +859,9 @@ Areas Naturales Protegidas.
 
 De las categorías, declaratorias y ordenamiento de las áreas naturales protegidas.
 
-#### SECCION SEGUNDA
+#### SECCION PRIMERA
 
-De las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de áreas naturales protegidas.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+De los tipos y caracteres de las áreas naturales protegidas.
 
 ###### Artículo 42.
 
@@ -888,6 +948,12 @@ Las formaciones naturales de interés municipal, son aquellas áreas que contien
 ###### Artículo 53.
 
 Las áreas municipales de protección hidrológica son aquellas destinadas a la preservación de ríos, manantiales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua, ubicadas en el territorio de un municipio.
+
+#### SECCION SEGUNDA
+
+De las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 54.
 
@@ -1069,6 +1135,8 @@ El Titular del Ejecutivo del Estado y la Secretaría, conjuntamente con los gobi
 
 De la prevención y control de la contaminación del suelo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+
 ###### Artículo 69.
 
 Para la protección y aprovechamiento del suelo en el estado, se considerarán los siguientes criterios:
@@ -1161,9 +1229,9 @@ En los programas de desarrollo urbano estatal y planes parciales municipales, se
 
 ### CAPITULO V
 
-De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales y municipales.
+De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 78.
 
@@ -1195,7 +1263,9 @@ III. Las descargas derivadas de actividades agropecuarias, acuícolas o pesquera
 
 IV. Las infiltraciones de origen humano, industrial, agropecuario, acuícola o pesquero que afecten los mantos acuíferos;
 
-V. El vertimiento de residuos sólidos en cuerpos y corrientes de agua y en los sistemas de drenaje y alcantarillado; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+V. El vertimiento de residuos de manejo especial y sólidos urbanos en cuerpos y corrientes de agua y en los sistemas de drenaje y alcantarillado; y
 
 VI. La disposición final de los lodos generados en los sistemas de tratamiento de aguas.
 
@@ -1247,15 +1317,15 @@ Del ruido, vibraciones, energía térmica y lumínica y olores.
 
 ###### Artículo 86.
 
-Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
+Corresponde a la Secretaría, a los gobiernos municipales y a la sociedad en general prevenir la contaminación del suelo, para lo cual se considerarán los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
-
-I. Corresponde a la Secretaría, a los gobiernos municipales y a la sociedad en general prevenir la contaminación del suelo;
+I. (DEROGADA, P.O. 7 DE JUNIO DE 2007)
 
 II. Deben ser controlados los residuos, en tanto que constituyan la principal fuente de contaminación de los suelos;
 
-III. Es necesario evitar y disminuir la generación de residuos sólidos industriales y municipales e incorporar técnicas y procedimientos para su reuso y reciclaje; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+III. Evitar y disminuir la generación de residuos de manejo especial y sólidos urbanos e incorporar técnicas y procedimientos para su reuso y reciclaje; y
 
 IV. Deben ser controladas y reguladas las aplicaciones de agroquímicos y pesticidas en las actividades productivas del sector primario, para lo cual, el gobierno del estado y los gobiernos municipales, en el ámbito de sus competencias, promoverán acciones alternativas de fertilización orgánica y control sanitario de plagas y enfermedades mediante procedimientos físicos u orgánicos.
 
@@ -1265,9 +1335,13 @@ Los criterios establecidos en el artículo anterior, se considerarán, en el ám
 
 I. La ordenación y regulación del desarrollo urbano;
 
-II. La operación de los sistemas de limpia y las autorizaciones para la instalación y operación de rellenos sanitarios de residuos sólidos municipales; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-III. Las autorizaciones para la instalación y operación de confinamientos controlados de residuos sólidos industriales.
+II. La operación de los sistemas de limpia y las autorizaciones para la instalación y operación de rellenos sanitarios de residuos sólidos urbanos y de manejo especial; y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+III. Las autorizaciones para la instalación y operación de rellenos sanitarios.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -1291,11 +1365,11 @@ III. Las alteraciones en el suelo que afecten su aprovechamiento, uso o explotac
 
 IV. Riesgos y problemas de salud.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 89.
 
-Queda sujeto a la autorización de la Secretaría en coordinación con los gobiernos municipales, con arreglo a las normas oficiales mexicanas y la normatividad estatal que se expida, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos industriales.
+Queda sujeto a la autorización de la Secretaría en coordinación con los gobiernos municipales, en los términos de la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Gestión Integral de los Residuos del Estado, las normas oficiales mexicanas y la normatividad estatal que se expida, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos de manejo especial.
 
 ###### Artículo 90.
 
@@ -1307,9 +1381,13 @@ Queda sujeto a la vigilancia del gobierno del estado en coordinación con los go
 
 El Titular del Ejecutivo del Estado y la Secretaría, así como los gobiernos municipales podrán celebrar acuerdos de coordinación y asesoría con la federación, para:
 
-I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos industriales y municipales;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-II. La identificación de alternativas de reutilización y disposición final de residuos sólidos industriales y municipales, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras; y
+I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos de manejo especial y sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+II. La identificación de alternativas de reutilización y disposición final de residuos de manejo especial y sólidos urbanos, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras; y
 
 III. El control y regulación de la aplicación y uso de agroquímicos y pesticidas en las actividades del sector primario que se realicen en la entidad.
 
@@ -1329,9 +1407,13 @@ De la participación social.
 
 La Secretaría regulará y vigilará la realización de actividades riesgosas que no sean consideradas altamente riesgosas por las disposiciones federales.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+
 ###### Artículo 95.
 
-La vigilancia del cumplimiento de la regulación a que se refiere el artículo anterior, corresponderá a los gobiernos municipales, únicamente cuando en la realización de las actividades riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población, o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos sólidos municipales generados en servicios públicos y privados cuya regulación corresponda a los propios gobiernos municipales o se relacionen con dichos servicios.
+La vigilancia del cumplimiento de la regulación a que se refiere el artículo anterior, corresponderá a los gobiernos municipales, únicamente cuando en la realización de las actividades riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población, o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos sólidos urbanos generados en servicios públicos y privados cuya regulación corresponda a los propios gobiernos municipales o se relacionen con dichos servicios.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JUNIO DE 2007)</small>
 
 ### CAPITULO II
 
@@ -1339,69 +1421,33 @@ Derecho a la información ambiental.
 
 ###### Artículo 96.
 
-Corresponde a la Secretaría la regulación y vigilancia de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales, que no sean peligrosos conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para lo cual, deberá:
-
-I. Formular las disposiciones que regulen las actividades de recolección, tratamiento y disposición final de residuos sólidos industriales, observando lo que dispongan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, esta ley y el reglamento que al efecto se expida y las normas oficiales mexicanas correspondientes;
-
-II. Autorizar el establecimiento de los sitios destinados a la disposición final de los residuos sólidos industriales, de conformidad a la normatividad aplicable;
-
-III. Vigilar el funcionamiento y operación de las instalaciones de los confinamientos controlados de residuos sólidos industriales;
-
-IV. Emitir las autorizaciones correspondientes, respecto del funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos industriales; y
-
-V. Ejercer las demás atribuciones que les otorga la presente ley.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+Para todo lo concerniente a la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos se estará a lo dispuesto por la Ley de Gestión Integral de los Residuos del Estado de Jalisco.
 
 ###### Artículo 97.
 
-La Secretaría promoverá la administración de los residuos sólidos industriales y adoptará las medidas conducentes para incorporar técnicas y procedimientos para su rescate energético.
+(DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
 ###### Artículo 98.
 
-La realización de actividades de carácter industrial, en las que se generen residuos de lenta degradación, se llevará a cabo conforme a lo que dispone la Ley General del Equilibrio Ecológico y la Protección al Ambiente, sus reglamentos y las normas oficiales mexicanas aplicables.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
 ###### Artículo 99.
 
-Corresponde a los gobiernos municipales, en el ámbito de sus respectivas jurisdicciones, la regulación y vigilancia de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales, para lo cual, deberán:
-
-I. Vigilar el cumplimiento de las disposiciones que regulen las actividades de recolección, tratamiento y disposición final de residuos sólidos municipales, observando lo que dispongan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, esta ley y el reglamento que al efecto se expida y las normas oficiales mexicanas correspondientes;
-
-II. Vigilar el funcionamiento y operación de las instalaciones de los rellenos sanitarios de residuos sólidos municipales;
-
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 6 DE MARZO DE 2004)
-
-III. Emitir las autorizaciones correspondientes, respecto del funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-IV. Establecer sistemas para el tratamiento y disposición final de residuos de lenta degradación en sus reglamentos, y realizar los cobros de los derechos correspondientes, y
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-V. Ejercer las demás atribuciones que les otorga la presente ley.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
 ###### Artículo 100.
 
-La Secretaría y los gobiernos municipales promoverán la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos industriales y municipales.
-
-En el caso de aquellos envases que no sea posible obtener alternativas, la Secretaría y los gobiernos municipales, en el ámbito de sus respectivas competencias, gestionarán ante las empresas correspondientes la obligación de que se responsabilicen de recuperar los envases utilizados para la venta de sus productos, sobre todo aquellos que al ser desocupado (sic) o agotados, representen residuos peligrosos para la salud de la población o de lenta degradación.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
 ###### Artículo 101.
 
-La Secretaría y los gobiernos municipales llevarán el inventario de confinamientos controlados y rellenos sanitarios de residuos sólidos industriales y municipales, respectivamente, así como el de fuentes generadoras, cuyos datos se integrarán al sistema estatal de información ambiental, así como al sistema nacional que opera el ejecutivo federal.
+(DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
 ### CAPITULO I
 
 Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 102.
 
@@ -1467,7 +1513,7 @@ Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto so
 
 De las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 109.
 
@@ -1527,13 +1573,9 @@ De las sanciones administrativas.
 
 ###### Artículo 116.
 
-Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, por los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma específica, en relación con las materias de que trata éste ordenamiento.
+Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, los reglamentos y bandos de policía y buen gobierno, salvo que otras leyes los regulen en forma especifica, en relación con las materias de que trata éste ordenamiento.
 
-Corresponde a la Procuraduría ejercer las atribuciones de inspección y vigilancia del cumplimiento de la (sic) disposiciones competencia del Estado contenidas en la presente Ley, así como en las demás disposiciones legales, normativas y reglamentarias aplicables, incluyendo todas aquellas que se desprendan de los acuerdos o convenios que se suscriban entre el Estado, la Federación y/o los municipios, que tiendan a la preservación del equilibrio ecológico y a la prevención y disminución de la contaminación ambiental.
-
-El Titular de la Procuraduría será designado por el Gobernador del Estado a propuesta del Titular de la Secretaría.
-
-Tratándose de las materias referidas en esta ley que se encuentren reguladas por leyes especiales, se aplicará supletoriamente la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+En las materias anteriormente señaladas se aplicará supletoriamente las disposiciones de la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 117.
 
@@ -1641,7 +1683,7 @@ Las notificaciones irregularmente practicadas, surtirán efectos a partir de la 
 
 Del recurso de revisión.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 132.
 
@@ -1741,11 +1783,13 @@ De la comisión de delitos.
 
 ###### Artículo 144.
 
-Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componente (sic), o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaría y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
+Cuando exista o pueda existir riesgo inminente de desequilibrio ecológico o daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, o para la salud de la población, o en caso de que el decomiso se pueda determinar como sanción, la Secretaria y los gobiernos municipales, según corresponda, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas:
 
 I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen recursos naturales, materiales o substancias contaminantes, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de éste artículo;
 
-II. El aseguramiento precautorio de materiales y residuos sólidos industriales o municipales, así como de recursos naturales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad; y/o;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+II. El aseguramiento precautorio de materiales y residuos de manejo especial o sólidos urbanos, así como de recursos naturales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad; o
 
 III. La neutralización o cualquier acción análoga que impida que materiales o residuos no peligrosos generen los efectos previstos en el primer párrafo de éste artículo.
 
@@ -1781,7 +1825,9 @@ b) En casos de reincidencia, cuando las infracciones generen efectos negativos a
 
 IV. Arresto administrativo hasta por treinta y seis horas;
 
-V. El decomiso definitivo de los instrumentos, recursos naturales, materiales o residuos sólidos industriales o municipales directamente relacionados con infracciones relativas a las disposiciones de la presente ley; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+V. El decomiso definitivo de los instrumentos, recursos naturales, materiales o residuos de manejo especial y sólidos urbanos directamente relacionados con infracciones relativas a las disposiciones de la presente ley; y
 
 VI. La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
 
@@ -1853,7 +1899,7 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 
 ###### Artículo 154.
 
-Las resoluciones, autorizaciones, licencias, concesiones, dictámenes técnicos o, en general, actos administrativos que la Secretaría o los gobiernos municipales, según corresponda, dicten con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen, que concluyan el procedimiento administrativo del cual derivan, podrán ser impugnados por los interesados, mediante el recursos (sic) de revisión, en el término de quince días hábiles contados a partir del día siguiente de la fecha de su notificación o cuando el afectado haya tenido conocimiento del mismo; o de forma optativa, podrán ser impugnados ante las instancias jurisdiccionales competentes.
+Las resoluciones, autorizaciones, licencias, concesiones, dictámenes técnicos o, en general, actos administrativos que la Secretaría o los gobiernos municipales, según corresponda, dicten con motivo de la aplicación de esta ley, sus reglamentos y disposiciones que de ella emanen, que concluyan el procedimiento administrativo del cual derivan, podrán ser impugnados por los interesados, en los términos de la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios, mediante el recurso de revisión, en el término de veinte días hábiles contados a partir del día siguiente de la fecha de su notificación o cuando el afectado haya tenido conocimiento del mismo; o de forma optativa, podrán ser impugnados ante las instancias jurisdiccionales competentes.
 
 ###### Artículo 155.
 
@@ -1895,9 +1941,17 @@ III. No se cause perjuicio al interés social, o se contravengan disposiciones d
 
 IV. No se trate de infractor reincidente;
 
-V. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen estos para el caso de obtener resolución desfavorable; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
 
-VI. Tratándose de multas o decomisos, se garantice el interés fiscal.
+V. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen estos para el caso de obtener resolución desfavorable;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+VI. Tratándose de multas o decomisos, se garantice el interés fiscal; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
+
+VII. Se garantice la suspensión de las acciones que pudieren constituir algún daño al medio ambiente.
 
 ###### Artículo 159.
 
@@ -2220,3 +2274,9 @@ TERCERO.- Se autoriza al Titular del Ejecutivo del Estado a que realice las adec
 CUARTO.- La Procuraduría Estatal de Protección al Ambiente deberá entrar en funciones a más tardar el primero de julio del año 2007 y hasta entonces, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado realizará las atribuciones encomendadas a aquélla, por el presente Decreto y por las disposiciones que de éste se deriven.
 
 QUINTO.- En el cumplimiento del presente Decreto, se respetarán los derechos laborales y de seguridad social de los trabajadores que sean transferidos de una dependencia a otra.
+
+P.O. 7 DE JUNIO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Para los efectos de los recursos económicos con los cuales se constituirá el Fondo Estatal de Protección al Ambiente, el Ejecutivo del Estado en el presupuesto de egresos, deberá destinar una partida presupuestal que funcionará como base inicial del mismo, debiendo de incrementarse según los recursos con que se integra dicho Fondo.
