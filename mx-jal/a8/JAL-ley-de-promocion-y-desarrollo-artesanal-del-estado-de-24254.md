@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2007-02-22"
+last_updated: "2007-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCION Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -135,7 +135,7 @@ d) Desarrollar centros de artesanías en áreas de interés artesanal dedicados 
 
 e) Promover las diferentes formas de agrupación para constituirse con apego a las leyes en cuanto le sean aplicables; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2007)</small>
 
 f) La autentificación del producto artesanal que permita identificarla como artesanía jalisciense.
 
@@ -215,11 +215,11 @@ La condición de artesano, taller o empresa artesanal se justificará mediante l
 
 Podrán inscribirse en el registro, artesanos como personas físicas o jurídicas, el trámite será gratuito; una vez obtenida dicha inscripción, se gozará de los beneficios que se ofrezcan para tal efecto por parte del Instituto.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 19.
 
-Las solicitudes de inscripción para el Registro de Artesanos, talleres y empresas artesanales del estado de Jalisco, se formularán ante la Dirección General del Instituto, y éste resolverá sobre su aprobación en los plazos, forma y condiciones que reglamentariamente se determinen.
+Las solicitudes de inscripción para el Registro de Artesanos, Talleres y Empresas Artesanales del Estado de Jalisco, se formularán ante la Dirección General del Instituto, y éste Resolverá sobre su aprobación en los plazos, forma y condiciones que reglamentariamente se determinen.
 
 ## TITULO SEXTO. Del Instituto de la Artesanía Jalisciense
 
@@ -458,3 +458,7 @@ LIC. HECTOR PEREZ PLAZOLA
 P.O. 22 DE FEBRERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 7 DE JUNIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
