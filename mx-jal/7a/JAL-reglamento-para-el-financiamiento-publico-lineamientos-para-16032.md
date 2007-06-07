@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-lineamientos-para-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2005-08-02"
+last_updated: "2007-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO, LINEAMIENTOS PARA EL FINANCIAMIENTO PRIVADO Y GASTOS DE CAMPAÑA DE LOS PARTIDOS POLITICOS REGISTRADOS O ACREDITADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2007.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 29 de febrero de 2000.
 
@@ -34,8 +34,6 @@ ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO,
 ANTECEDENTES:.
 
 V. que de conformidad con lo dispuesto por el artículo 132 fracciones XXXIII y LII este Consejo Electoral del Estado cuenta con facultades para aprobar el proyecto de reglamento que se pone a consideración, en los siguientes términos:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS MEDIANTE ACUERDO DEL PLENO DEL INSTITUTO ELECTORAL DEL ESTADO DE JALISCO, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL CONTEXTO DEL REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE; Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL ORDENAMIENTO APROBADO Y PUBLICADO EN EL P.O. DE 2 DE AGOSTO DE 2005.</small>
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
@@ -633,6 +631,18 @@ La documentación comprobatoria señalada en este ordenamiento como sustento de 
 
 Una vez emitido el dictamen definitivo, los partidos políticos por conducto de su representante podrán solicitar la devolución de la documentación comprobatoria en un plazo máximo de dos años, la cual será reintegrada dejando recibo para constancia.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2007)</small>
+
+###### Artículo 43 Bis.
+
+Los dictámenes definitivos se publicarán:
+
+a). En forma íntegra en la página electrónica del Instituto; y
+
+b). Un extracto en el Periódico Oficial “El Estado de Jalisco”.
+
+El Secretario Ejecutivo elaborará certificación en que haga constar lo anterior.
+
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 44.
@@ -666,3 +676,7 @@ UNICO.- La presente reforma entrará en vigor el día siguiente al de su publica
 P.O. 2 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE JUNIO DE 2007.
+
+ÚNICO. La presente adición entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
