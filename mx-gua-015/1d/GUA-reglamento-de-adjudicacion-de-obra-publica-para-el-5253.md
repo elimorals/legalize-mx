@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adjudicacion-de-obra-publica-para-el-5253"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-08-11"
-last_updated: "2004-07-06"
+last_updated: "2007-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE ADJUDICACION DE OBRA PUBLICA EN EL MUNICIPIO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de agosto de 1995.
 
@@ -101,9 +101,11 @@ Dentro de los primeros 60 días de cada administración, el Presidente Municipal
 
 ### CAPITULO II. DEL FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2007)</small>
+
 ###### Artículo 8.
 
-El Comité funcionará bajo la dirección del Coordinador y todos sus integrantes tendrán voz y voto y sus acuerdos se tomarán por mayoría de votos.
+El Comité funcionará bajo la dirección del coordinador y sus acuerdos se tomarán por mayoría de votos. Todos sus integrantes tendrán voz y voto salvo el funcionario a que alude el propio Reglamento, en su artículo 5 fracción IV, quien solamente tendrá voz.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2000)</small>
 
@@ -308,5 +310,9 @@ El presente acuerdo entrará en vigor al cuarto día de su publicación en el pe
 Se derogan los artículos relacionados con las modificaciones del presente acuerdo, para quedar vigentes en los términos aquí expresados.
 
 P.O. 6 DE JULIO DE 2004.
+
+UNICO.- El presente acuerdo surtirá sus efectos al cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE JUNIO DE 2007.
 
 UNICO.- El presente acuerdo surtirá sus efectos al cuarto día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
