@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-07"
-last_updated: "2006-06-07"
+last_updated: "2007-06-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 7 de junio de 2006.
 
@@ -139,9 +139,17 @@ El Despacho del Secretario se integra con las Unidades Administrativas siguiente
 
 I. La Secretaría Particular;
 
-II. La Secretaría Técnica; y
+II. La Secretaría Técnica; y (sic)
 
-III. La Coordinación General Administrativa.
+III. La Coordinación General Administrativa;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+IV. La Coordinación General de Comunicación Social, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+V. La Coordinación de Población y Desarrollo Municipal.
 
 Para su funcionamiento, estas Unidades Administrativas contarán con un titular y los recursos humanos, financieros y materiales que les sean autorizados por el Ejecutivo de acuerdo al Presupuesto de Egresos del Estado y a sus respectivos manuales de organización. Todos ellos serán nombrados y removidos libremente por el Ejecutivo o por el Secretario.
 
@@ -277,13 +285,69 @@ XIII. Revisar y verificar, el correcto destino y aplicación de los recursos asi
 
 XIV. Las demás que le confiera este reglamento, la normatividad aplicable y/o el Secretario.
 
-#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE JUNIO DE 2007)</small>
 
-#### SECCIÓN II. LA SUBSECRETARÍA DE ASUNTOS JURÍDICOS
+#### SECCIÓN VI. LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 16
+
+1.- El Coordinador General de Comunicación Social del Estado, previo acuerdo con el Subsecretario de Asuntos Jurídicos, tendrá, además de las consignadas en el artículo 30 de este reglamento, las facultades y obligaciones siguientes:
+
+I. Desarrollar la política de comunicación social del Gobierno del Estado de Coahuila de manera eficaz, oportuna y responsable;
+
+II. Establecer enlaces de comunicación entre el Gobierno del Estado y la sociedad;
+
+III. Planear, coordinar y ejecutar las acciones de difusión y promoción de los planes, programas y acciones del Ejecutivo, las dependencias, Organismos auxiliares y fideicomisos del Poder Ejecutivo Estatal;
+
+IV. Promover y fortalecer las relaciones entre el Gobierno y los medios de comunicación, a fin de ampliar la cobertura y difusión de las actividades del Poder Ejecutivo Estatal, y
+
+V. Las demás funciones que le confiera la normatividad aplicable, el Secretario o el Subsecretario de Asuntos Jurídicos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE JUNIO DE 2007)</small>
+
+#### SECCIÓN VII. LA COORDINACIÓN DE POBLACIÓN Y DESARROLLO MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 16
+
+2.- El Coordinador de Población y Desarrollo Municipal, previo acuerdo con el Secretario, tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar e instrumentar la Política Poblacional Estatal diseñada por el Gobernador;
+
+II. Colaborar, en el ámbito de su competencia, con las autoridades federales y municipales;
+
+III. Promover la participación social y de la comunidad universitaria y científica en la formulación, aplicación y vigilancia de la Política Poblacional del Estado, y concertar acciones e inversiones con los sectores social y privado para ese mismo fin;
+
+IV. Asesorar en materia de población a las entidades públicas, privadas, sociales y académicas y celebrar con éstas los acuerdos respectivos;
+
+V. Elaborar y difundir programas de información y orientación públicos, así como las bases que permitan que en estos programas participen otros organismos y la población en general;
+
+VI. Solicitar asesorías y consultorías de especialistas en problemas de desarrollo poblacional;
+
+VII. Coordinar las acciones que emprenda el Gobernador, dentro del Plan Estatal de Desarrollo, en materia de fortalecimiento y desarrollo municipal;
+
+VIII. Diseñar e impulsar y ejecutar, en coordinación con las dependencias de la Administración Pública del Estado y los gobiernos municipales, así como con los sectores social y privado, y atendiendo lo dispuesto en el Plan Estatal de Desarrollo, la Política de Desarrollo Municipal;
+
+IX. Fomentar la participación de la comunidad en la concertación de acciones y programas que promuevan el fortalecimiento de los municipios;
+
+X. Integrar un acervo de información y documentación sobre organización municipal, que permita a las dependencias e instituciones de los tres niveles de gobierno, la investigación, estudio y análisis de temas específicos del ámbito municipal, formando así una base de datos municipales que puedan ser objeto de consulta disponible para inversionistas e investigadores en la materia;
+
+XI. Organizar eventos regionales y estatales para el intercambio de experiencias municipales y analizar en ellos temas prioritarios y problemas comunes, promoviendo la participación e intervención directa de las propias autoridades municipales que correspondan;
+
+XII. Dar seguimiento a las acciones emprendidas por las dependencias y entidades de la Administración Pública Estatal relacionadas con el desarrollo municipal;
+
+XIII. Establecer mecanismos de coordinación con las dependencias y entidades federales y estatales competentes en materia de desarrollo municipal y de atención a municipios a fin de intercambiar, evaluar y, en su caso, unificar criterios en dicha materia;
+
+XIV. Difundir a través de los medios que se estimen necesarios, las potencialidades de los municipios del Estado, y
+
+XV, Las demás que le sean conferidas por las disposiciones legales y reglamentarias aplicables, y/o el Secretario.
 
 ### CAPÍTULO CUARTO. LAS SUBSECRETARÍAS
 
-#### SECCIÓN III. LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS
+#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
 
 ###### ARTÍCULO 17.
 
@@ -291,9 +355,15 @@ La Secretaria cuenta con las Subsecretarías siguientes:
 
 I. La Subsecretaría de Asuntos Jurídicos;
 
-II. La Subsecretaría de Asuntos Políticos; y
+II. La Subsecretaría de Asuntos Políticos; y (sic)
 
-III. Las Subsecretarías Regionales.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+III. Las Subsecretarías Regionales, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+IV. La Subsecretaria de Asuntos Sociales.
 
 ###### ARTÍCULO 18.
 
@@ -335,7 +405,7 @@ XIV. Certificar las copias de los documentos y constancias cuyos originales obre
 
 XV. Las demás que les confiera la normatividad aplicable, así como las que les asigne el Ejecutivo y/o el Secretario.
 
-#### SECCIÓN IV. SUBSECRETARÍAS REGIONALES
+#### SECCIÓN II. LA SUBSECRETARÍA DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 20.
 
@@ -375,7 +445,7 @@ XVI. Vigilar el desarrollo de los procedimientos constitucionales, judiciales, a
 
 XVII. Las demás que le confiera la normatividad aplicable y/o el Secretario.
 
-#### SECCIÓN I. INTEGRACIÓN y FACULTADES
+#### SECCIÓN III. LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS
 
 ###### ARTÍCULO 21.
 
@@ -401,29 +471,41 @@ IX. Proporcionar a las instituciones y organizaciones políticas la asesoría qu
 
 X. Promover y supervisar el desarrollo de programas de orientación y capacitación tendientes al fortalecimiento de las instituciones y organizaciones políticas;
 
-XI. Coordinar las funciones en materia electoral que correspondan a la Secretaría;
+XI. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XII. Promover la modernización del sistema electoral estatal, mediante el perfeccionamiento de los procedimientos respectivos;
+XII. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XIII. Evaluar el calendario electoral para cada elección que se desarrolle en la entidad, conforme a las disposiciones de la materia;
+XIII. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 XIV. Coordinar la relación de la Secretaría con los agentes consulares y demás dependencias encargadas del servicio exterior, a efecto de organizar, apoyar y promover la participación comunitaria en el extranjero, así como la asistencia a los coahuilenses en el extranjero;
 
 XV. Coordinar el calendario oficial, procurando que la comunidad participe estrechamente en las ceremonias cívicas;
 
-XVI. Operar y participar en la búsqueda de soluciones a conflictos de carácter político y de demandas sociales en el Estado, en coordinación con las instancias competentes, fungiendo como enlace entre las dependencias y entidades de la Administración Pública y los grupos involucrados;
+XVI. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XVII. Coordinar la planeación, creación y operación de espacios de interlocución entre organizaciones sociales, privadas y sectoriales, entre éstas y la Administración Pública Estatal, para la prevención de conflictos sociales y/o políticos y la búsqueda de soluciones a sus demandas o propuestas;
+XVII. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XVIII. Crear espacios de concertación entre los grupos sociales y sectoriales de la comunidad;
+XVIII. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XIX. Realizar los estudios necesarios para conocer los planteamientos ciudadanos y proponer las mejores vías para su solución;
+XIX. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XX. Coordinarse con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las regiones del Estado del Ejecutivo y del Secretario, para el logro de una comunicación efectiva entre autoridades y gobernados; y
+XX. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-XXI. Las demás funciones que le atribuyan la normatividad aplicable o el secretario.
+XXI. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-#### SECCIÓN II. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS AL DESPACHO DEL SECRETARIO
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XXII. Coordinar la relación de la Secretaría con las asociaciones religiosas que existan en la entidad;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XXIII. Llevar a cabo la coordinación de las acciones cívicas contempladas en el calendario oficial o bien aquellas que señale la normalidad, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XXIV. Las demás que le señale la normatividad correspondiente.
+
+#### SECCIÓN IV. SUBSECRETARÍAS REGIONALES
 
 ###### ARTÍCULO 22.
 
@@ -463,7 +545,41 @@ XV. Las demás que le confiera la normatividad aplicable y/o el Secretario.
 
 Las Subsecretarías Regionales de Gobierno contarán para el cumplimiento de sus funciones con las unidades administrativas que determine el presupuesto de egresos correspondiente.
 
-#### SECCIÓN III. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+De igual forma se podrán designar, previo acuerdo correspondiente que los faculte y dirija su actuar, a los asesores o coordinadores que se consideren pertinentes para la atención de los asuntos de su competencia.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2007)</small>
+
+#### SECCIÓN V. SUBSECRETARÍA DE ASUNTOS SOCIALES
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 23
+
+1.- Corresponde al titular de la Subsecretaría de Asuntos Sociales las siguientes facultades y obligaciones:
+
+I. Operar y participar en la búsqueda de soluciones a conflictos de orden social en el Estado, en coordinación con las instancias competentes, fungiendo como enlace entre las dependencias y entidades de la administración pública y grupos involucrados;
+
+II. Coordinar la planeación, creación, y operación de espacios de interlocución entre organizaciones sociales, privadas y sectoriales, entre estas y la administración pública estatal, para la prevención de conflictos sociales y la búsqueda de soluciones a sus demandas o propuestas;
+
+III. Crear espacios de concertación entre los grupos sociales y sectoriales de la comunidad;
+
+IV. Realizar los estudios necesarios para conocer los planteamientos ciudadanos y proponer las mejores vías para su solución;
+
+V. Coordinarse con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las regiones del Estado del Ejecutivo y del Secretario, para el logro de una comunicación efectiva entre autoridades, sociedad y gobiernos;
+
+VI. Realizar las acciones tendientes para prevenir la igualdad y prevenir la discriminación;
+
+VII. Coordinar la relación de la Delegación de la Secretaría de Relaciones Exteriores en la entidad a efecto de organizar, apoyar y promover la participación social;
+
+VIII. Mantener el control y vigilancia de la seguridad de las instalaciones del Palacio de Gobierno y en su momento informar de las actividades desarrolladas;
+
+IX. Conducir la gestión social que realiza el Gobierno del Estado;
+
+X. Llevar a cabo la operatividad de la Subsecretaría, dando el trámite y la gestión a las solicitudes realizadas, y
+
+XI. Las demás que le encomiende el titular de la Secretaría de Gobierno o bien que indique la legislación correspondiente.
 
 ### CAPÍTULO QUINTO. LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
@@ -479,9 +595,19 @@ El objeto primordial que deberán perseguir dichos organismos será el contempla
 
 Las facultades de los organismos públicos descentralizados, así como de las unidades administrativas que los componen, serán las establecidas en sus respectivos instrumentos de creación, así como en las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 26
+
+1.- La Secretaría contará con los siguientes órganos descentralizados:
+
+I. El instituto Coahuilense de las Mujeres, que estará sectorizado a la Subsecretaría de Asuntos Políticos y cuyas funciones están delimitadas en el artículo 34 de este Reglamento, y
+
+II. El Instituto Coahuilense de las Personas Adultas Mayores, que estará sectorizado a la Subsecretaría de Asuntos Sociales y cuyas funciones están delimitadas en el artículo 42 de este Reglamento.
+
 ### CAPÍTULO SEXTO. LOS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+#### SECCIÓN I. INTEGRACIÓN y FACULTADES
 
 ###### ARTÍCULO 27.
 
@@ -497,11 +623,11 @@ I. El Archivo General del Estado de Coahuila;
 
 II. El Consejo Editorial del Estado;
 
-III. La Coordinación General de Comunicación Social;
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-IV. La Coordinación de Población y Desarrollo Municipal;
+IV. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-V. Las Juntas Locales de Conciliación y Arbitraje;
+V. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 VI. El Periódico Oficial del Gobierno del Estado de Coahuila;
 
@@ -509,29 +635,23 @@ VII. El Registro Civil;
 
 VIII. El Registro Público;
 
-IX. El Instituto Coahuilense de las Mujeres; y
+IX. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-X. El Instituto Coahuilense de las Personas Adultas Mayores.
+X. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 29.
 
 Los órganos desconcentrados que se señalan en las fracciones que anteceden, quedarán adscritos para su control, operación, supervisión y vigilancia de la manera siguiente:
 
-a) Al Despacho del Secretario:
-
-I. El Archivo General del Estado de Coahuila;
-
-II. La Coordinación de Población y Desarrollo Municipal; y
-
-III. El Instituto Coahuilense de las Mujeres.
+a) (DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 b) A la Subsecretaría de Asuntos Jurídicos:
 
 I. El Consejo Editorial del Estado;
 
-II. Las Juntas Locales de Conciliación y Arbitraje;
+II. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-III. La Coordinación General de Comunicación Social;
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 IV. El Periódico Oficial;
 
@@ -539,7 +659,11 @@ V. El Registro Público;
 
 VI. El Registro Civil; y
 
-VII. El Instituto Coahuilense de las Personas Adultas Mayores.
+VII. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+c) A la Subsecretaría de Asuntos Políticos: El Archivo General del Estado de Coahuila.
 
 ###### ARTÍCULO 30.
 
@@ -593,7 +717,7 @@ XXIII. Promover programas de excelencia y de calidad profesional, tendientes a i
 
 XXIV. Las demás que les confiera la normatividad aplicable, así como las que les asigne el Ejecutivo, el Secretario y/o el Subsecretario de su adscripción.
 
-#### SECCIÓN II. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS JURÍDICOS
+#### SECCIÓN II. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS AL DESPACHO DEL SECRETARIO
 
 ###### ARTÍCULO 31.
 
@@ -629,37 +753,7 @@ XII. Las demás que le confieran las disposiciones aplicables y/o el Secretario.
 
 ###### ARTÍCULO 33.
 
-El Coordinador de Población y Desarrollo Municipal, previo acuerdo con el Secretario, tendrá las siguientes facultades y obligaciones:
-
-I. Coordinar e instrumentar la Política Poblacional Estatal diseñada por el Gobernador;
-
-II. Colaborar, en el ámbito de su competencia, con las autoridades federales y municipales;
-
-III. Promover la participación social y de la comunidad universitaria y científica en la formulación, aplicación y vigilancia de la Política Poblacional del Estado, y concertar acciones e inversiones con los sectores social y privado para ese mismo fin;
-
-IV. Asesorar en materia de población a las entidades públicas, privadas, sociales y académicas y celebrar con éstas los acuerdos respectivos;
-
-V. Elaborar y difundir programas de información y orientación públicos, así como las bases que permitan que en estos programas participen otros organismos y la población en general;
-
-VI. Solicitar asesorías y consultorías de especialistas en problemas de desarrollo poblacional;
-
-VII. Coordinar las acciones que emprenda el Gobernador, dentro del Plan Estatal de Desarrollo, en materia de fortalecimiento y desarrollo municipal;
-
-VIII. Diseñar e impulsar y ejecutar, en coordinación con las dependencias de la Administración Pública del Estado y los gobiernos municipales, así como con los sectores social y privado, y atendiendo lo dispuesto en el Plan Estatal de Desarrollo, la Política de Desarrollo Municipal;
-
-IX. Fomentar la participación de la comunidad en la concertación de acciones y programas que promuevan el fortalecimiento de los municipios;
-
-X. Integrar un acervo de información y documentación sobre organización municipal, que permita a las dependencias e instituciones de los tres niveles de gobierno, la investigación, estudio y análisis de temas específicos del ámbito municipal, formando así una base de datos municipales que puedan ser objeto de consulta disponible para inversionistas e investigadores en la materia;
-
-XI. Organizar eventos regionales y estatales para el intercambio de experiencias municipales y analizar en ellos temas prioritarios y problemas comunes, promoviendo la participación e intervención directa de las propias autoridades municipales que correspondan;
-
-XII. Dar seguimiento a las acciones emprendidas por las dependencias y entidades de la Administración Pública Estatal relacionadas con el desarrollo municipal;
-
-XIII. Establecer mecanismos de coordinación con las dependencias y entidades federales y estatales competentes en materia de desarrollo municipal y de atención a municipios a fin de intercambiar, evaluar y, en su caso, unificar criterios en dicha materia;
-
-XIV. Difundir a través de los medios que se estimen necesarios, las potencialidades de los municipios del Estado; y
-
-XV. Las demás que le sean conferidas por las disposiciones legales y reglamentarias aplicables, y/o el Secretario.
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 34.
 
@@ -673,7 +767,7 @@ III. Acordar con el Secretario, las recomendaciones y sugerencias que emitan el 
 
 IV. Las demás que le confieran la Ley del Instituto Coahuilense de las Mujeres, el reglamento interior del propio Instituto, otras disposiciones aplicables y/o el Secretario.
 
-#### SECCIÓN III. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS
+#### SECCIÓN III. LOS ÓRGANOS DESCONCENTRADOS ADSCRITOS A LA SUBSECRETARÍA
 
 ###### ARTÍCULO 35.
 
@@ -699,33 +793,11 @@ VII. Las demás funciones que le confiera la normatividad aplicable, el Secretar
 
 ###### ARTÍCULO 37.
 
-Los Presidentes de las Juntas Locales de Conciliación y Arbitraje, previo acuerdo con el Subsecretario de Asuntos Jurídicos, tendrán, además de las consignadas en el artículo 30 de este reglamento, las facultades y obligaciones siguientes:
-
-I. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
-
-II. Cuidar el orden y la disciplina de la Junta Local de Conciliación y Arbitraje;
-
-III. Ejecutar los laudos dictados y cumplimentar los exhortos solicitados;
-
-IV. Rendir los informes en los amparos que se interpongan en contra de los laudos y resoluciones dictadas por el Pleno;
-
-V. Coordinar, establecer, controlar y dirigir la realización eficiente y oportuna de las actividades encomendadas al personal de la Junta Local de Conciliación y Arbitraje; y
-
-VI. Las demás funciones que le confiera la normatividad aplicable, el Secretario o el Subsecretario de Asuntos Jurídicos.
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 38.
 
-El Coordinador General de Comunicación Social del Estado, previo acuerdo con el Subsecretario de Asuntos Jurídicos, tendrá, además de las consignadas en el artículo 30 de este reglamento, las facultades y obligaciones siguientes:
-
-I. Desarrollar la política de comunicación social del Gobierno del Estado de Coahuila de manera eficaz, oportuna y responsable;
-
-II. Establecer enlaces de comunicación entre el Gobierno del Estado y la sociedad;
-
-III. Planear, coordinar y ejecutar las acciones de difusión y promoción de los planes, programas y acciones del Ejecutivo, las dependencias, organismos auxiliares y fideicomisos del Poder Ejecutivo Estatal;
-
-IV. Promover y fortalecer las relaciones entre el Gobierno y los medios de comunicación, a fin de ampliar la cobertura y difusión de las actividades del Poder Ejecutivo Estatal; y
-
-V. Las demás funciones que le confiera la normatividad aplicable, el Secretario o el Subsecretario de Asuntos Jurídicos.
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 39.
 
@@ -815,6 +887,8 @@ VI. Las demás que le confieran la Ley del Instituto Coahuilense de las Personas
 
 ### CAPITULO SÉPTIMO. LAS DIRECCIONES
 
+#### SECCIÓN I. INTEGRACIÓN Y FACULTADES
+
 ###### ARTÍCULO 43.
 
 Para auxiliar en el despacho de los asuntos que corresponden a las Unidades Administrativas que integran a la Secretaría, habrá Direcciones de Área. Cada una de ellas tendrá un titular, quien, a su vez, se auxiliará de los Subdirectores, Jefes de Departamento y demás personal técnico y administrativo requerido atendiendo a la organización interna de las Unidades que integran el Despacho del Secretario y las Subsecretarías y que así sea previsto por el presupuesto de egresos correspondiente.
@@ -847,6 +921,8 @@ XI. Promover la capacitación permanente del personal a su cargo para el desarro
 
 XII. Las demás que les confiera la normatividad aplicable, así como las que les asigne el Secretario y/o el titular del área administrativa de su adscripción.
 
+#### SECCIÓN II. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS JURÍDICOS
+
 ###### ARTÍCULO 45.
 
 La Subsecretaría de Asuntos Jurídicos contará con una Dirección General que tendrá además de las consagradas en el artículo 44 de este Reglamento, las facultades y obligaciones siguientes:
@@ -865,15 +941,51 @@ VI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquell
 
 VII. Presentar a la aprobación del Subsecretario los estudios y proyectos, así como las propuestas de modernización administrativa de la Subsecretaria;
 
-VIII. Realizar visitas en todo el Estado para la debida marcha de las dependencias adscritas a la Subsecretaría, así como delegar dicha facultad; y
+VIII. Realizar visitas en todo el Estado para la debida marcha de las dependencias adscritas a la Subsecretaría, así como delegar dicha facultad; y (sic)
 
-IX. Las demás funciones que le asignen la normatividad aplicable, el Secretario de Gobierno o el Subsecretario de Asuntos Jurídicos.
+IX. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+X. Intervenir en las controversias jurídicas cuya atención y seguimiento le sean encomendados por el Secretario de Gobierno o el Subsecretario de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XI. Promover, por acuerdo del Subsecretario de Asuntos Jurídicos, ante los Tribunales que correspondan, los asuntos legales del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XII. Tramitar los amparos interpuestos en contra de actos del Gobernador del Estado o del Secretario de Gobierno;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XIII. Formular, en nombre y representación de la Secretaría, las denuncias y querellas que legalmente procedan;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XIV. Elaborar, revisar y registrar los convenios y contratos que celebren, en el ejercicio de sus funciones, las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XV. Elaborar los proyectos de expropiación que por causa de utilidad pública determine el Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XVI.- Proponer al Subsecretario de Asuntos Jurídicos, la impartición de cursos de capacitación y actualización en materia jurídica;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XVII. Proporcionar las opiniones y sugerencias que le sean solicitadas por las dependencias y entidades de la Administración Pública Estatal, en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+XVIII. Las demás funciones que le asignen la normatividad aplicable, el Secretario de Gobierno o el Subsecretario de Asuntos Jurídicos.
 
 ###### ARTÍCULO 46.
 
 Además de la Dirección General, la Subsecretaría de Asuntos Jurídicos contará con las siguientes Direcciones de Área:
 
-I Dirección de Asuntos Jurídicos;
+I. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 II. Dirección de Asuntos Legislativos;
 
@@ -881,33 +993,21 @@ III. Dirección de Procedimientos y Trámites;
 
 IV. Dirección de Notarías;
 
-V. Dirección del Trabajo y Previsión Social; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2007)</small>
 
-VI. Las demás que le adscriban las leyes, acuerdos, decretos o demás disposiciones jurídicas aplicables.
+V. Dirección del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+VI. La Dirección de Control y Evaluación, y
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+VII. Las demás que le otorguen las leyes, acuerdos, decretos o demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 47.
 
-El Director de Asuntos Jurídicos, previo acuerdo con el Subsecretario de Asuntos Jurídicos y/o el Director General, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
-
-I. Intervenir en las controversias jurídicas cuya atención y seguimiento le sean encomendados por el Secretario de Gobierno o el Subsecretario de Asuntos Jurídicos;
-
-II. Promover, por acuerdo del Subsecretario de Asuntos Jurídicos, ante los Tribunales que correspondan, los asuntos legales del Poder Ejecutivo del Estado;
-
-III. Tramitar los amparos interpuestos en contra de actos del Gobernador del Estado o del Secretario de Gobierno;
-
-IV. Formular, en nombre y representación de la Secretaría, las denuncias y querellas que legalmente procedan;
-
-V. Elaborar, revisar y registrar los convenios y contratos que celebren, en el ejercicio de sus funciones, las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Elaborar los proyectos de expropiación que por causa de utilidad pública determine el Ejecutivo;
-
-VII. Proponer al Subsecretario de Asuntos Jurídicos, la impartición de cursos de capacitación y actualización en materia jurídica;
-
-VIII. Proporcionar las opiniones y sugerencias que le sean solicitadas por las dependencias y entidades de la Administración Pública Estatal, en el ámbito de su competencia;
-
-IX. Suplir al Director General, firmando por ausencia del mismo o del Subsecretario; y
-
-X. Las demás funciones que le asignen la normatividad aplicable, el Secretario o el Subsecretario de Asuntos Jurídicos.
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 48.
 
@@ -1013,19 +1113,53 @@ XIV. Desahogar las consultas que, en materia laboral, le sean planeadas por los 
 
 XV. Las demás funciones que le sean atribuidas por la normatividad aplicable, el Secretario de Gobierno o el Subsecretario de Asuntos Jurídicos.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 51
+
+1.- La Dirección de Control y Evaluación previo acuerdo con el Subsecretario de Asuntos Jurídicos, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
+
+I. Organizar, dirigir y controlar el funcionamiento de las áreas administrativas bajo su responsabilidad;
+
+II. Someter a consideración del Subsecretario de Asuntos Jurídicos las opiniones proyectos, dictámenes, opiniones, e informes que elaboren las áreas administrativas a su cargo;
+
+III. Recabar de las dependencias y entidades de la Administración Pública Estatal, así como de las unidades de la propia Secretaría, la información necesaria para el ejercicio de las funciones que le competen;
+
+IV. Elaborar y presentar al Subsecretario de Asuntos Jurídicos el anteproyecto del presupuesto de egresos de la Dirección a su cargo;
+
+V. Coordinar sus funciones cuando así lo ameriten las necesidades del servicio, con las que desarrollen las demás Direcciones de Área de la Subsecretaría para el mejor desempeño de los asuntos de su competencia;
+
+VI. Asesorar a las demás unidades de la Secretaría en la materia de su competencia y prestar el apoyo que se requiera, por acuerdo del Subsecretario de Asuntos Jurídicos, a las dependencias y entidades de la Administración Pública Estatal y a los ayuntamientos, a solicitud de ellos, en la misma materia;
+
+VII. Participar en la elaboración de proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos legales en el área de su competencia;
+
+VIII. Rendir los informes de las actividades realizadas por la Dirección a su cargo y someterlos a la consideración de su superior jerárquico, cuando éste lo requiera;
+
+IX. Dirigir, coordinar, supervisar y evaluar el desempeño de las unidades que estén a su cargo, conforme a los manuales correspondientes y las demás disposiciones aplicables, procurando siempre la mayor eficiencia, eficacia y calidad en su desempeño;
+
+X. Verificar el cumplimiento a la ley de acceso a la información y demás ordenamientos legales aplicables;
+
+XI. Coordinar, evaluar y verificar el cumplimiento a la legislación de la materia por parte de los organismos desconcentrados adscritos a la Subsecretaría;
+
+XII. Promover la capacitación permanente del personal de la Subsecretaría para el desarrollo profesional y la mejora continua en la prestación de sus servicios, y
+
+XIII. Las demás que les confiera la normatividad aplicable, así como las que les asigne el Subsecretario y/o el Director General.
+
+#### SECCIÓN III. LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS
+
 ###### ARTÍCULO 52.
 
 La Subsecretaría de Asuntos Políticos contará con las siguientes Direcciones de Área a su cargo:
 
 I. Dirección de Desarrollo Político;
 
-II. Dirección de Asuntos Sociales;
+II. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
-III. Dirección de Operación, Trámite y Gestión;
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 IV. Dirección de Análisis;
 
-V. Dirección Administrativa; y
+V. (DEROGADA, P.O. 8 DE JUNIO DE 2007)
 
 VI. Las demás que le adscriba el presente reglamento, el manual de organización y/o otras disposiciones aplicables.
 
@@ -1059,21 +1193,7 @@ XII. Las demás atribuciones que le confiera la normatividad aplicable y/o el Su
 
 ###### ARTÍCULO 54.
 
-El Director de Asuntos Sociales, previo acuerdo con el Subsecretario de Asuntos Políticos, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
-
-I. Organizar, dirigir y administrar los asuntos de la Dirección a su cargo;
-
-II. Coadyuvar con el Subsecretario de Asuntos Políticos, en el ámbito de la prevención general y especial, en materia de defensa de los intereses legítimos y de los derechos de los menores ante las autoridades administrativas y, en su caso, judiciales;
-
-III. Coordinar, supervisar y evaluar, de acuerdo a las atribuciones de la Subsecretaría que, conforme lo dispuesto por los ordenamientos aplicables, se brinde la asesoría, protección, vigilancia y orientación a los menores infractores y a aquellos que se encuentren en situación extraordinaria y, en su caso, a sus representantes legítimos;
-
-IV. Verificar el debido cumplimiento de las normas a efecto de procurar que en los sitios o establecimientos en los que se prohíba el acceso a menores, se encuentren colocados los avisos o rótulos correspondientes;
-
-V. Fomentar, en coordinación con las unidades relacionadas con la materia, la creación de brigadas para la detección y prevención de problemas sociales;
-
-VI. Atender y, en su caso, canalizar ante las autoridades que correspondan, los asuntos que sean presentados ante la Subsecretaría por particulares o grupos sociales; y
-
-VII. Las demás atribuciones que le confiera la normatividad aplicable y/o el Subsecretario.
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
 ###### ARTÍCULO 55.
 
@@ -1121,23 +1241,167 @@ VIII. Las demás que le sean asignadas por la normatividad aplicable o que le en
 
 ###### ARTÍCULO 57.
 
-El Director Administrativo, previo acuerdo con el Subsecretario de Asuntos Políticos, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
+(DEROGADO, P.O. 8 DE JUNIO DE 2007)
 
-I. Auxiliar en la administración, planeación y programación, del presupuesto anual de egresos, así como en el control de los recursos humanos y materiales de la Subsecretaría;
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE JUNIO DE 2007)</small>
 
-II. Rendir los informes que el Pleno del Tribunal, el Consejo o el Presidente le requieran;
+#### SECCIÓN III (SIC). DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE ASUNTOS SOCIALES
 
-III. Llevar la correspondencia que se reciba en la Subsecretaría;
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
 
-IV. Conducir las adquisiciones, y de conformidad con las disposiciones legales aplicables, proponer su operatividad al Subsecretario;
+###### ARTÍCULO 57
 
-V. Llevar el control presupuestal de los recursos de la Subsecretaría;
+1.- La Subsecretaria de Asuntos Sociales contará con las siguientes Direcciones de Área a su cargo:
 
-VI. Realizar las gestiones y trámites necesarios para la contratación de prestación de servicios;
+I. Dirección de Asuntos Sociales;
 
-VII. Propiciar a los servidores públicos de la Subsecretaria el cumplimiento de la presentación de la Declaración Patrimonial y demás disposiciones de orden administrativo que deban cumplir; y
+II. Dirección para Promover la Igualdad y Prevenir la Discriminación;
 
-VIII. Las demás que se deriven de los ordenamientos legales aplicables, y/o que le sean conferidas por el Subsecretario.
+III. Dirección de la Oficina Estatal de Enlace con la Secretaría de Relación (sic) de Relaciones Exteriores;
+
+IV. Oficina de Operación, Trámite y Gestión, y
+
+V. Las demás que le adscriba el presente reglamento, el manual de organización y/o otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+2.- La Dirección de Asuntos Sociales, previo acuerdo con el Subsecretario de Asuntos Sociales, tendrá además de las consignadas en el artículo 44 de este Reglamento, las facultades y obligaciones siguientes:
+
+I. Organizar, dirigir y administrar los asuntos de la Dirección a su cargo;
+
+II. Coadyuvar con el Subsecretario de Asuntos Políticos, en el ámbito de la prevención general y especial, en materia de defensa de los intereses legítimos y de los derechos de los menores ante las autoridades administrativas y, en su caso, judiciales;
+
+III. Coordinar, supervisar y evaluar, de acuerdo a las atribuciones de la Subsecretaría que, conforme lo dispuesto por los ordenamientos aplicables, se brinde la asesoría, protección, vigilancia y orientación a los menores infractores y a aquellos que se encuentren en situación extraordinaria y, en su caso, a sus representantes legítimos;
+
+IV. Verificar el debido cumplimiento de las normas a efecto de procurar que en los sitios o establecimientos en los que se prohíba el acceso a menores, se encuentren colocados los avisos o rótulos correspondientes;
+
+V. Fomentar, en coordinación con las unidades relacionadas con la materia, la creación de brigadas para la detección y prevención de problemas sociales;
+
+VI. Atender y, en su caso, canalizar ante las autoridades que correspondan, los asuntos que sean presentados ante la Subsecretaria por particulares o grupos sociales, y
+
+VII. Las demás atribuciones que le confiera la normatividad aplicable y/o el Subsecretario.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+3.- La Dirección para Promover la Igualdad y Prevenir la Discriminación, previo acuerdo con el Subsecretario de Asuntos Sociales, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
+
+I. Planear y ejecutar las acciones que el Gobierno del Estado realice para promover la igualdad en el Estado de Coahuila y prevenir la discriminación;
+
+II. Fomentar por conducto de conferencias, pláticas, cursos y/o talleres la prevención a la discriminación y la promoción a la igualdad en el Estado de Coahuila;
+
+III. Ser el receptor de las denuncias de la sociedad que sufre discriminación para, en su momento realizar las acciones procedentes; y
+
+IV. Las demás que le asigne el Subsecretario o le confiera la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+4.- La Oficina Estatal de Enlace con la Secretaria de Relación (sic) de Relaciones Exteriores, previo acuerdo con el Subsecretario de Asuntos Sociales, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
+
+I. Ser el enlace con la Delegación Estatal para los trámites relativos al área a su cargo;
+
+II. Dar la asesoría correspondiente a los usuarios de este servicio, y
+
+III. Las demás que le confiera la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+5.- El Director de Operación, Trámite y Gestión, previo acuerdo con el Subsecretario de Asuntos Sociales, tendrá, además de las consignadas en el artículo 44 de este reglamento, las facultades y obligaciones siguientes:
+
+I. Elaborar las opiniones, dictámenes e informes que les sean solicitados por el Subsecretario;
+
+II. Someter a consideración del Subsecretario los proyectos que elabore, así como los acuerdos y resoluciones que llegaren a emitir en el ejercicio de las atribuciones encomendadas;
+
+III. Apoyar a la Subsecretaria en la coordinación técnica de las diversas unidades y órganos adscritos a aquélla;
+
+IV. Realizar los proyectos de desarrollo y modernización que coadyuven al adecuado cumplimiento de las atribuciones encomendadas a la Secretaría;
+
+V. Elaborar los estudios respecto de la situación político-social del Estado;
+
+VI. Tramitar, ante las autoridades competentes, las solicitudes que se hagan a la subsecretaría por parte de actores político-sociales en el Estado;
+
+VII. Canalizar, y en su caso gestionar, las solicitudes que sean presentadas a la Subsecretaría y que no sean competencia de la misma;
+
+VIII. Auxiliar en la administración, planeación y programación, del presupuesto anual de egresos, así como en el control de los recursos humanos y materiales de la Subsecretaría;
+
+IX. Rendir los informes que el Pleno del Tribunal, el Consejo o el Presidente le requieran;
+
+X. Llevar la correspondencia que se reciba en la Subsecretaría;
+
+XI. Conducir las adquisiciones, y de conformidad con las disposiciones legales aplicables, proponer su operatividad al Subsecretario;
+
+XII. Llevar el control presupuestal de los recursos de la Subsecretaria;
+
+XIII. Realizar las gestiones y trámites necesarios para la contratación de prestación de servicios;
+
+XIV. Propiciar a los servidores públicos de la Subsecretaría el cumplimiento de la presentación de la Declaración Patrimonial y demás disposiciones de orden administrativo que deban cumplir, y
+
+XV. Las demás que se deriven de los ordenamientos legales aplicables, y/o que le sean conferidas por el Subsecretario.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE JUNIO DE 2007)</small>
+
+#### SECCIÓN IV. DE LAS SUBDIRECCIONES ADSCRITAS A LA SUBSECRETARÍA DE ASUNTOS POLÍTICOS
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+6.- La Subsecretaría de Asuntos Políticos podrá tener las subdirecciones que requiera conforme al presupuesto de egresos asignado, como son:
+
+I. Subdirección de la Coordinación de la Acción Cívica y Social;
+
+II. Subdirección de Asuntos Religiosos;
+
+III. Jefe de la Oficina Estatal de Atención a Coahuilenses en el Extranjero, y
+
+IV. Las demás que se asignen conforme al presupuesto de egresos que le corresponda a la Subsecretaría.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+7.- La Subdirección de la Coordinación de la Acción Cívica y Social tendrá las siguientes facultades y obligaciones:
+
+I. Llevar el registro de los actos cívicos;
+
+II. Verificar la actualización y cumplimiento del calendario oficial;
+
+III. Organizar los actos cívicos que realice el Gobierno del Estado;
+
+IV. Opinar respecto de los asuntos que le turnen las diversas dependencias respecto del área a su cargo, y
+
+V. Las demás que le asignen las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+8.- La Subdirección de Asuntos Religiosos tendrá las siguientes facultades y obligaciones:
+
+I. Llevar el registro de las asociaciones religiosas que existen en nuestra entidad;
+
+II. Ser el enlace entre la (sic) asociaciones religiosas y la comunidad, y
+
+III. Las demás que le asignen las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 57
+
+9.- La Oficina Estatal de Atención a Coahuilenses en el Extranjero tendrá las siguientes facultades y obligaciones:
+
+I. Llevar el registro de los Coahuilenses que se encuentran en el extranjero;
+
+II. Brindar la asesoría, apoyo y asistencia a los coahuilenses que residen en el extranjero, y
+
+III. Las demás que le asignen las autoridades competentes.
 
 ### CAPÍTULO OCTAVO. LOS NOMBRAMIENTOS Y AUSENCIAS
 
@@ -1164,6 +1428,28 @@ Los Subsecretarios serán suplidos en sus ausencias por el Director que para ese
 ###### ARTÍCULO 63.
 
 Los Directores serán suplidos durante sus ausencias por sus respectivos Subdirectores y en ausencia de éstos, por el Jefe de Departamento que designe el Secretario o el Subsecretario.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2007)</small>
+
+### CAPÍTULO NOVENO. DE LAS JUNTAS LOCALES DE CONCILIACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 64.
+
+Los Presidentes de las Juntas Locales de Conciliación y Arbitraje, siguiendo los lineamientos que establece la Ley Orgánica de la Administración Pública del Estado de Coahuila, tendrán, las facultades y obligaciones siguientes:
+
+I. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
+
+II. Cuidar el orden y la disciplina de la Junta Local de Conciliación y Arbitraje;
+
+III. Ejecutar los laudos dictados y cumplimentar los exhortos solicitados;
+
+IV. Rendir los informes en los amparos que se interpongan en contra de los laudos y resoluciones dictadas por el Pleno;
+
+V. Coordinar, establecer, controlar y dirigir la realización eficiente y oportuna de las actividades encomendadas al personal de la Junta Local de Conciliación y Arbitraje, y
+
+VI. Las demás funciones que le confiera la normatividad aplicable.
 
 ## TRANSITORIOS
 
@@ -1208,3 +1494,13 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE JUNIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Con la finalidad de armonizar las actuaciones dentro de la administración pública estatal se convalidan las acciones realizadas.
