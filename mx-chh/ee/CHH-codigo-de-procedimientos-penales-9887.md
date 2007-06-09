@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-9887"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2006-08-09"
+last_updated: "2007-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES
 
-CODIGO DE PROCEDIMIENTOS PENALES
+CÓDIGO DE PROCEDIMIENTOS PENALES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2007 (ABROGADO).
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -4039,7 +4039,7 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. MARTHA LARA ALATORRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE ENERO DE 1990.
 
@@ -4317,7 +4317,9 @@ P.O. 9 DE AGOSTO DE 2006.
 
 Artículo Primero.- Inicio de Vigencia. El presente Código iniciará su vigencia el día primero de enero del año 2007, con las modalidades que en seguida se precisan.
 
-Artículo Segundo.- Aplicación. Sus disposiciones se aplicarán a los hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de julio del año 2007 y, respecto a los delitos que se produzcan en el restante territorio del Estado, a partir de las cero horas del día primero de enero del año 2008.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2007)</small>
+
+Artículo Segundo.- Aplicación. Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de enero del dos mil ocho y, respecto al resto de los distritos judiciales, se aplicarán a hechos que se cometan desde el día y la hora que para tal efecto acuerden los titulares de los tres Poderes del Estado, siguiendo para tal efecto, el proceso legislativo correspondiente, sin que con ello se pueda exceder del día primero de julio del dos mil ocho.
 
 Artículo Tercero.- Abrogación. El Código de Procedimientos Penales promulgado el día dieciocho de febrero de 1987 seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
 
@@ -4330,3 +4332,7 @@ Artículo Sexto.- Prohibición de Acumulación de Procesos. No procederá la acu
 Artículo Séptimo.- Eficiencia Retroactiva. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente ordenamiento que se refieran: A) indemnización al imputado, B) facultad de no inicio de la investigación, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada; C) acuerdos reparatorios y suspensión del proceso a prueba, D) procedimiento abreviado y E) recurso de revisión.
 
 Las facultades que este Código le concede al juez de garantía, serán ejercidas, para efectos de este artículo, por el juez de primera instancia, mixto o penal, o juez menor, según corresponda. Los acuerdos reparatorios podrán celebrarse hasta antes de la celebración de la audiencia final a que se refiere el artículo 360 del Código de Procedimientos Penales de 1987; la suspensión de proceso a prueba, podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 192 del Código de Procedimientos Penales de 1987; el procedimiento abreviado se tramitará conforme a lo dispuesto en el artículo 554 del Código de Procedimientos Penales de 1987, podrá solicitarse hasta antes de que se desahoguen las pruebas ofertadas por las partes, en este caso, éstas deberán desistirse de las probanzas pendientes de desahogo. Los hechos que el imputado deberá reconocer, son aquellos objeto del auto de formal prisión o de sujeción a proceso.
+
+P.O. 9 DE JUNIO DE 2007.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIHUAHUA VIGENTE.
