@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2006-12-27"
+last_updated: "2007-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2007.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -2973,7 +2973,7 @@ Actuación de la víctima u ofendido.
 
 Hasta diez días antes de la fecha fijada para la realización de la audiencia intermedia, la víctima u ofendido podrá constituirse en acusador coadyuvante, y en tal carácter, por escrito, podrá:
 
-l. Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
+I. Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
 
 II. Ofrecer la prueba que estime necesaria para complementar la acusación del Ministerio Público; y
 
@@ -4249,7 +4249,9 @@ El rechazo de la solicitud de revisión no impedirá la interposición de un nue
 
 Artículo Primero. Inicio de Vigencia. El presente Código iniciará su vigencia el día primero de enero del año 2007, con las modalidades que en seguida se precisan.
 
-Artículo Segundo. Aplicación. Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de julio del año 2007 y, respecto a los delitos que se produzcan en el restante territorio del Estado, a partir de las cero horas del día primero de enero del año 2008.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2007)</small>
+
+Artículo Segundo. Aplicación. Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de enero del dos mil ocho y, respecto al resto de los distritos judiciales, se aplicarán a hechos que se cometan desde el día y la hora que para tal efecto acuerden los titulares de los tres Poderes del Estado, siguiendo para tal efecto, el proceso legislativo correspondiente, sin que con ello se pueda exceder del día primero de julio del dos mil ocho.
 
 Artículo Tercero. Abrogación. El Código de Procedimientos Penales promulgado el día dieciocho de febrero de 1987 seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
 
@@ -4298,3 +4300,7 @@ P.O. 27 DE DICIEMBRE DE 2006.
 Inicio de Vigencia.
 
 El presente artículo iniciará su vigencia el primero de enero del dos mil siete, con las modalidades que se precisan en el decreto 611/06 II P.O., de quince de junio de dos mil seis, por el cual se aprobó el nuevo Código de Procedimientos Penales. Lo anterior sin perjuicio de su previa publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
