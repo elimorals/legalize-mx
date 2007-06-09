@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2006-07-15"
+last_updated: "2007-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -771,13 +771,17 @@ e) Para acudir a los citatorios expedidos por autoridad.
 
 IX.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales a que se refiere el artículo 5o. de la Constitución General de la República, cuando estas actividades deban cumplirse dentro de su jornada de trabajo;
 
-X.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales;
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2007)</small>
 
-XI.- Poner en conocimiento del sindicato correspondiente los puestos de nueva creación, las vacantes definitivas y las eventuales que deban cubrirse;
+X.- Acondicionar un espacio lactario en cada centro de trabajo para que sean alimentados los infantes cuya nutrición sea por lactancia materna, así como conceder a las madres trabajadoras que la estén proporcionando, los tiempos necesarios que requieran para amamantar a sus hijos, permitiéndose el ingreso de los infantes al área acondicionada para tal efecto;
 
-XII.- Proporcionar la capacitación y adiestramiento a sus trabajadores; y
+XI.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales;
 
-XIII.- Acatar en sus términos los laudos que emita el Tribunal.
+XII.- Poner en conocimiento del sindicato correspondiente los puestos de nueva creación, las vacantes definitivas y las eventuales que deban cubrirse;
+
+XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadores; y
+
+XIV.- Acatar en sus términos los laudos que emita el Tribunal.
 
 ###### Artículo 70.
 
@@ -2582,3 +2586,15 @@ P.O. 10 DE DICIEMBRE DE 2005.
 P.O. 15 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 9 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan este Decreto.
+
+TERCERO.- Dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la presente reforma, las entidades públicas deberán realizar las adecuaciones o transformaciones correspondientes a los centros de trabajo, con la finalidad de acondicionar los espacios lactarios a que se refiere este instrumento legislativo.
+
+CUARTO.- La Secretaría de Finanzas establecerá las partidas y previsiones presupuestarias, a efecto de implementar la reforma contenida en este Decreto.
+
+QUINTO.- En un término que no deberá exceder de sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Secretaría General de Gobierno del Estado, a través de la Dirección de Trabajo y Previsión Social, deberá emitir los acuerdos administrativos y celebrar los convenios necesarios, a efecto de promover la lactancia materna y la creación de centros lactarios en las empresas de la iniciativa privada.
