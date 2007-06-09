@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2006-01-18"
+last_updated: "2007-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -121,7 +121,9 @@ VI. Entes Públicos del Estado: Los organismos públicos autónomos, organismos 
 
 VII. Entes Públicos Municipales: Los organismos públicos autónomos, organismos públicos descentralizados del municipio, empresas de participación municipal y fideicomisos públicos municipales; las demás personas del derecho público de carácter municipal;
 
-VIII. Entidades Fiscalizadas: Los Poderes del Estado, los Municipios, los entes públicos estatales y municipales que ejerzan recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2007)</small>
+
+VIII. Entidades Fiscalizadas: Los Poderes del Estado, los Municipios, los entes públicos estatales y municipales que ejerzan recursos públicos, los mandatarios, fiduciarios o cualquier otra figura análoga, así como el mandato o fideicomiso público o privado que administren, o hayan recibido, por cualquier título, recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos;
 
 IX. Gestión Financiera: La actividad de los Poderes del Estado y de los entes públicos estatales y municipales, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas estatales y municipales aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión simultánea o posterior del (sic) Legislatura, a través de la Auditoría Superior de la (sic) Estado, a fin de verificar que dicha Gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
 
@@ -1008,3 +1010,9 @@ El presente decreto se enviará para su promulgación del Ejecutivo del Estado, 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 9 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan este Decreto.
