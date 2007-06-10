@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2005-12-15"
+last_updated: "2007-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -523,6 +523,10 @@ XX.- DE SEGURIDAD PUBLICA.
 
 XXI.- DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA.
 
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2007)</small>
+
+XXII.- DEL AGUA.
+
 ###### ARTICULO 55.
 
 Será materia de estudio y dictamen de las distintas comisiones, lo siguiente:
@@ -723,7 +727,7 @@ d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia,
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
-e) Lo relativo a la normatividad y demás aspectos relacionados con la protección civil;
+e).- Lo relativo a la normatividad y demás aspectos relacionados con la protección civil;
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
@@ -733,9 +737,23 @@ f).- En general, toda la legislación relacionada con la Seguridad Pública.
 
 XXI.- DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA:
 
-a) Las normas relativas a la transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia.
+a).- Las normas relativas a la transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia.
 
-b) Las demás que le señale la Directiva del Congreso.
+b).- Las demás que le señale la Directiva del Congreso.
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2007)</small>
+
+XXII.- DE LA COMISIÓN DEL AGUA:
+
+a).- La legislación, planes y programas encaminados a la optimización de uso y la sustentabilidad del agua;
+
+b).- La legislación tendiente a la regulación y sanción relativa al manejo de aguas residuales, su tratamiento y reutilización;
+
+c).- Participar en el ámbito de su competencia con dependencias del ejecutivo y de los ayuntamientos, en los programas de aprovechamiento y uso racional del agua;
+
+d).- Los asuntos relacionados con el suministro de agua para consumo humano y para uso agrícola; y
+
+e).- Los demás asuntos que le turne la Mesa Directiva del Congreso.
 
 ###### ARTICULO 56.
 
@@ -1211,7 +1229,7 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
@@ -1659,7 +1677,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pues en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2056,3 +2074,7 @@ DECRETO NUMERO 1569.
 B.O. 15 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE JUNIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su aprobación.
