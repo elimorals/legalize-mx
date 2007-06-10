@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2006-12-31"
+last_updated: "2007-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 2006.</small>
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2007.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1123,6 +1121,10 @@ Los Magistrados del Tribunal Superior de Justicia serán designados preferenteme
 
 93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años. El ciudadano que haya desempeñado el cargo de Magistrado, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo en el periodo inmediato.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2007)</small>
+
+Los Magistrados y Jueces de Primera Instancia del Tribunal Superior de Justicia del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
+
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
@@ -1202,6 +1204,10 @@ El Tribunal Superior de Justicia determinará el número de Jueces que deberán 
 99.- El Tribunal Estatal Electoral, tendrá la competencia y organización que determine la Ley, funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo y Judicial garantizarán su debida integración. Para el ejercicio de sus funciones el Tribunal Estatal Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales ejercerán el cargo por seis años y responderán sólo al mandato de la Ley. El Presidente del mismo será elegido de entre sus miembros, para ejercer la función por seis años.
 
 Los Magistrados del Tribunal Estatal Electoral, serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Tribunal Superior de Justicia del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La Ley señalará las reglas y procedimientos correspondientes.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2007)</small>
+
+Los Magistrados del Tribunal Estatal Electoral no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
 
 Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
 
@@ -2512,3 +2518,7 @@ B.O. 25 DE NOVIEMBRE DE 2006.
 DECRETO NUMERO 1643
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
