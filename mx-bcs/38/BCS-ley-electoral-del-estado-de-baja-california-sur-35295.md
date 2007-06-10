@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2006-12-31"
+last_updated: "2007-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 31 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 10 DE JUNIO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -463,9 +463,15 @@ VII.- Nombrar representantes ante la mesa directiva de casilla y los representan
 
 VIII.- Solicitar al Instituto Estatal Electoral que investigue las actividades de los demás partidos políticos, cuando exista motivo fundado para considerar que no cumplen alguna de las obligaciones o que sus actividades no se apegan a la Ley;
 
-IX.- Aportando elementos de prueba, podrá solicitar al Consejo General del Instituto Estatal Electoral que promueva la investigación de las actividades de otros partidos políticos o de alguna agrupación política cuando incumplan sus obligaciones de manera grave o sistemática; y
+IX.- Aportando elementos de prueba, podrá solicitar al Consejo General del Instituto Estatal Electoral que promueva la investigación de las actividades de otros partidos políticos o de alguna agrupación política cuando incumplan sus obligaciones de manera grave o sistemática; y (sic)
 
-X.- Las demás que le confiere esta Ley.
+> <small>(REFORMADA [N.DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2007)</small>
+
+X.- Participar en los debates, foros, mesas redondas y demás eventos organizados por el Instituto.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE JUNIO DE 2007)</small>
+
+XI.- Las demás que le confiere esta Ley.
 
 ###### ARTÍCULO 45.
 
@@ -501,7 +507,9 @@ XI.- Cumplir los acuerdos que en períodos de elecciones tomen los organismos el
 
 XII.- Actuar y conducirse sin vínculos de dependencia o subordinación con partidos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier religión o secta;
 
-XIII.- Abstenerse de cualquier expresión que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos y sus candidatos;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2007)</small>
+
+XIII.- Abstenerse de cualquier expresión que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos y sus candidatos; Participar en los debates, foros, mesas redondas y demás eventos organizados por el Instituto;
 
 XIV.- Brindar el apoyo necesario que se requiera para la práctica de las auditorias y verificaciones que ordene el Instituto Estatal Electoral a través de la Comisión de Fiscalización del Financiamiento de los Partidos Políticos;
 
@@ -1061,6 +1069,10 @@ El Consejero Presidente, el Secretario General y los Consejeros Electorales Prop
 
 El Consejero Presidente, Secretario General y los Consejeros Electorales estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Noveno de la Constitución Política del Estado de Baja California Sur.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2007)</small>
+
+Los Consejeros del Instituto no podrán desempeñar los cargos de Secretario de Despacho, Procurador General de Justicia o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
+
 ###### ARTÍCULO 91.
 
 El Consejero Presidente y los Consejeros Electorales deberán reunir los siguientes requisitos:
@@ -1233,7 +1245,9 @@ XLI.- Recibir la información sobre los cómputos y expedición de las constanci
 
 XLII.- Contar directamente o por medio de sus órganos, con el auxilio de la fuerza pública necesaria para garantizar en los términos de esta Ley, el desarrollo del proceso electoral;
 
-XLIII.- Diseñar, desarrollar, ejecutar y evaluar programas y actividades que promuevan y difundan los principios y valores de la cultura democrática y fortalezcan la educación cívica en la entidad;
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2007)</small>
+
+XLIII.- Diseñar, desarrollar, ejecutar y evaluar programas y actividades que promuevan y difundan los principios y valores de la cultura democrática y fortalezcan la educación cívica en la entidad; organizar dentro de la campaña electoral debates, foros, mesas redondas y demás eventos que fortalezcan la difusión de las plataformas electorales de partidos y candidatos, y en los que participarán los candidatos a Gobernador del Estado y Presidentes Municipales;
 
 XLIV.- A través de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, hacer monitoreos del ejercicio de recursos durante el período de duración de las campañas;
 
@@ -3282,3 +3296,15 @@ B.O. 10 DE FEBRERO DE 2004.
 B.O. 31 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2007.
+
+DECRETO 1671
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2007.
+
+DECRETO 1669
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
