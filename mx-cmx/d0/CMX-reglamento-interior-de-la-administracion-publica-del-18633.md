@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-04-16"
+last_updated: "2007-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JUNIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -88,9 +88,17 @@ IV. Nombrar y remover libremente a los Directores Ejecutivos, Directores de Áre
 
 ### Capítulo II. De la adscripción de las Unidades Administrativas, Órganos Político-Administrativos y Desconcentrados, a la Jefatura de Gobierno y a sus Dependencias
 
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
+
 ###### Artículo 6º.
 
-La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos que le competen contará con unidades de asesoría, de apoyo técnico, jurídico, de coordinación y de planeación del desarrollo. Asimismo se le adscribe la Dirección General de Comunicación Social y el Órgano Desconcentrado denominado Junta de Asistencia Privada.
+La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, asimismo cuenta (sic) con el Jefe de la Oficina del Jefatura de Gobierno, que para el despacho de los asuntos de su competencia, se le adscriben las Unidades Administrativas y las Unidades Administrativas de Apoyo Técnico-Operativo, siguientes:
+
+I. Secretaría Particular del Jefe de Gobierno;
+
+II. Dirección General de Comunicación Social, y
+
+III. Las que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 7º.
 
@@ -198,7 +206,9 @@ V. A la Secretaría de Obras y Servicios:
 
 2. Dirección General de Servicios Urbanos;
 
-3. (DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE JUNIO DE 2007)</small>
+
+3.- Dirección General de Obras para el Transporte.
 
 4. (DEROGADO, G.O. 26 DE SEPTIEMBRE DE 2002)
 
@@ -512,33 +522,43 @@ Al interior de cada Dependencia, incluyendo la Secretaría de Seguridad Pública
 
 ### Capítulo III. De los Gabinetes
 
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
+
 ###### Artículo 10.
 
-La Administración Pública, para su mejor funcionamiento se integra con cuatro Gabinetes permanentes, los cuales cuentan con un Coordinador, cada uno.
+La Administración Pública, para su mejor funcionamiento se integra con seis gabinetes permanentes, los cuales cuentan con un secretario técnico cada uno, designado por el Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
 
 ###### Artículo 11.
 
 Los Gabinetes son:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+I. De Gobierno y Seguridad Pública, integrado por las Secretarías de, Gobierno; Seguridad Pública; Protección Civil; la Procuraduría General de Justicia del Distrito Federal; la Consejería Jurídica y de Servicios Legales y la Autoridad del Centro Histórico;
 
-I. De Gobierno y Seguridad Pública, integrado por la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Secretaría de Protección Civil, la Procuraduría General de Justicia del Distrito Federal y la Consejería Jurídica y de Servicios Legales. Su Coordinador es el Titular de la Secretaría de Gobierno;
+II. De Desarrollo Económico Sustentable, integrado por las Secretarías de, Desarrollo Económico; Trabajo y Fomento al Empleo, y de Turismo;
 
-II. De Desarrollo Sustentable, integrado por la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios, y la Secretaría de Transporte y Vialidad. Su Coordinador es el Titular de la Secretaría de Obras y Servicios;
+III. De Equidad y Desarrollo Social, integrado por las Secretarías de, Desarrollo Social; Salud; Desarrollo Rural y Equidad para las Comunidades; el Instituto de las Mujeres y la Procuraduría Social;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+IV. De Educación, Cultura y Ciencia y Tecnología, integrado por las Secretarías de, Educación; Cultura y el Instituto de Ciencia y Tecnología;
 
-III. De Progreso con Justicia, integrado por la Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Secretaría de Turismo y la Secretaría de Cultura, la Secretaría de Trabajo y Fomento al Empleo, la Secretaría de Educación y la Secretaría de Desarrollo Rural y Equidad para las Comunidades. Su Coordinador es el Titular de la Secretaría de Desarrollo Social; y
+V. De Nuevo Orden Urbano y Desarrollo Sustentable, integrado por las Secretarías de, Desarrollo Urbano y Vivienda; Medio Ambiente; Obras y Servicios; y Transporte y Vialidad;
 
-IV. De Administración y Finanzas, integrado por la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General del Distrito Federal. Su coordinador es el Titular de la Secretaría de Finanzas.
+VI. De Gestión Pública Eficaz, integrado por la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General; y
+
+VII. De Protección Civil, integrado por la (sic) Secretarías de, Protección Civil; Gobierno; Desarrollo Urbano y Vivienda; Medio Ambiente; Obras y Servicios; de Desarrollo Social; Salud; Seguridad Pública; Heroico Cuerpo de Bomberos; Sistema de Transporte Colectivo Metro y Procuraduría Social.
 
 ###### Artículo 12.
 
 Los Gabinetes tienen por objeto la planeación, programación, organización, coordinación, control y evaluación del funcionamiento de la Administración Pública Centralizada, Desconcentrada y Paraestatal, conforme a los lineamientos del Plan Nacional de Desarrollo, del Programa General de Desarrollo del Distrito Federal, así como los demás programas que deriven de éste y los que establezca el Jefe de Gobierno.
 
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2007)</small>
+
 ###### Artículo 13.
 
-Cada Gabinete podrá llevar a cabo reuniones entre sus integrantes o con el Jefe de Gobierno, con el fin de tratar los asuntos de interés, sin perjuicio de las atribuciones que la Ley confiere a cada Dependencia.
+Las reuniones de los Gabinetes serán presididas por el Jefe de Gobierno quien, en caso de ausencia, designará un suplente.
+
+Cada Gabinete se reunirá con el fin de tratar los asuntos de interés y aquellos señalados de manera expresa por el Jefe de Gobierno, sin perjuicio de las atribuciones que las leyes confieren a cada Dependencia y Entidad.
 
 ### Capítulo IV. De las atribuciones del Jefe de Gobierno
 
@@ -682,9 +702,9 @@ III. Los demás servidores públicos de la Administración Pública Desconcentra
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE JUNIO DE 2007)</small>
 
-### Capítulo I. De las atribuciones generales de los titulares de las Secretarías
+### Capítulo I. De las atribuciones generales de los titulares de las Secretarías y de la Jefatura de la Oficina del Jefe de Gobierno
 
 ###### Artículo 26.
 
@@ -735,6 +755,30 @@ XV. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, 
 XVI. Celebrar aquellos convenios y contratos que se relacionen directamente con el despacho de los asuntos encomendados a la Dependencia a su cargo; y
 
 XVII. Las demás que le señalen las disposiciones jurídicas y administrativas o el Jefe de Gobierno.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2007)</small>
+
+###### Artículo 26 Bis.
+
+Corresponde al Jefe de la Oficina de la Jefatura de Gobierno:
+
+I. Apoyar al Jefe de Gobierno en la dirección y coordinación de las unidades de asesoría, de apoyo técnico, jurídico, de coordinación y de planeación del desarrollo, adscritas a la Jefatura de Gobierno;
+
+II. Proporcionar al Jefe de Gobierno los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen;
+
+III. Establecer, previo acuerdo del Jefe de Gobierno, las directrices y mecanismos de coordinación y colaboración entre las diversas dependencias y entidades de la Administración Pública del Distrito Federal;
+
+IV. Turnar y dar seguimiento a los acuerdos, instrucciones y peticiones del Jefe de Gobierno;
+
+V. Dirigir y coordinar la integración de los informes que presentará el Jefe de Gobierno sobre el estado que guarda la Administración Pública del Distrito Federal;
+
+VI. Establecer la agenda de trabajo y de actos públicos del Jefe de Gobierno;
+
+VII. Dirigir y evaluar las tareas de Comunicación Social, Imagen Institucional y de Opinión Pública del Jefe de Gobierno y coordinar las acciones que en esta materia lleven a cabo las dependencias y entidades de la Administración Pública del Distrito Federal;
+
+VIII. Apoyar al Jefe de Gobierno en la coordinación y supervisión de los Gabinetes de la Administración Pública del Distrito Federal, estableciendo las directrices para el seguimiento de programas, proyectos y demás responsabilidades a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal;
+
+IX. Las demás que le sean conferidas por el Jefe de Gobierno, así como las que correspondan a las unidades que le sean adscritas.
 
 ### Capítulo II. De las atribuciones del titular de la Oficialía Mayor
 
@@ -1956,9 +2000,9 @@ XXXVIII. Elaborar los catálogos de monumentos y zonas históricas y artísticas
 
 Corresponde a la Dirección General de Administración Urbana:
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
 
-I. Dictaminar las solicitudes sobre reducciones fiscales en materia de Desarrollo Urbano y Vivienda;
+I. Dictaminar las solicitudes sobre subsidios y reducciones fiscales en materia de Desarrollo Urbano y Vivienda y evaluar su aplicación y resultados;
 
 II. Proponer y participar en la asignación y desincorporación de inmuebles del patrimonio inmobiliario del Distrito Federal;
 
@@ -2724,7 +2768,11 @@ XVII. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas ate
 
 XVIII. Participar en los procesos de regulación de uso y destino del territorio en suelo de conservación y Áreas Naturales Protegidas del Distrito Federal;
 
-XIX. Participar en la formulación de las políticas y programas que para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades.
+XIX. Participar en la formulación de las políticas y programas que para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2007)</small>
+
+XX. Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo de conservación.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2790,9 +2838,9 @@ XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que
 
 XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y (sic)
 
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
 
-XXI. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental y ciclovías en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias; y (sic)
+XXI.- Planear, operar y dirigir el funcionamiento y administración de las áreas destinadas a las ciclovías en suelo urbano;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -2870,39 +2918,47 @@ Corresponde a la Dirección General de Obras Públicas:
 
 I. Proyectar, construir y supervisar las obras que de conformidad con el programa anual queden a su cargo;
 
-II. Planear la construcción de escuelas en el Distrito Federal en coordinación con las autoridades competentes;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+
+II. Planear la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad en el Distrito Federal, en coordinación con las autoridades competentes;
 
 III. Establecer las normas y especificaciones relativas a la construcción de escuelas en el Distrito Federal;
 
-IV. Proyectar, construir y supervisar la construcción de escuelas que de conformidad con el programa anual queden a su cargo;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+
+IV. Proyectar, construir y supervisar la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad que de conformidad con el Programa Anual queden a su cargo;
 
 V. Emitir opinión sobre los programas de urbanismo y remodelación urbana;
 
-VI. Elaborar estudios, proyectos, construir y supervisar nuevas obras viales y, en su caso, modificar las existentes;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+
+VI. Elaborar estudios, proyectos, construir y supervisar nuevas obras viales y pavimentos hidráulicos, así como banquetas, guarniciones y reductores de velocidad en las vialidades primarias y, en su caso, modificar las existentes;
 
 VII. Establecer normas y especificaciones de construcción de obras viales;
 
 VIII. Proyectar, construir y supervisar la construcción de instalaciones eléctricas e hidráulicas en la vialidad primaria;
 
-IX. Realizar los estudios, proyectos y la construcción y supervisión de los puentes vehiculares y de los puentes peatonales en la vialidad primaria;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
 
-X. (DEROGADA, G.O. 16 DE DICIEMBRE DE 2003)
+IX. Realizar los estudios, proyectos, construcción, supervisión y mantenimiento de los puentes vehiculares y peatonales en la vialidad primaria, así como de los que comuniquen a dos o más demarcaciones delegacionales;
 
-XI. Coordinar con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública, la ejecución de los programas a su cargo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE JUNIO DE 2007)</small>
+
+X. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+
+XI. Coordinar con las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la administración pública, la ejecución y supervisión de los programas a su cargo;
 
 XII. Coordinar con las autoridades competentes, las labores de protección civil;
 
-XIII. Informar a los Órganos Político-Administrativos, de las obras que, conforme al programa anual correspondiente, se proyecte ejecutar en sus jurisdicciones; y
+XIII. Informar a los Órganos Político-Administrativos, de las obras que, conforme al programa anual correspondiente, se proyecte ejecutar en sus jurisdicciones; y (sic)
 
 XIV. Establecer los métodos constructivos aplicables en obras e instalaciones que se realicen en las vías o áreas públicas y verificar su adecuada ejecución;
 
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+XV. (DEROGADA, G.O. 11 DE JUNIO DE 2007)
 
-XV. Elaborar los proyectos ejecutivos y de detalle de la construcción de vialidades coincidentes y complementarias del Sistema de Transporte Colectivo; y
-
-> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XVI. Construir las vialidades coincidentes y obras inducidas y complementarias del Sistema de Transporte Colectivo.
+XVI. (DEROGADA, G.O. 11 DE JUNIO DE 2007)
 
 ###### Artículo 58.
 
@@ -2974,9 +3030,25 @@ XXI. Supervisar la calidad de los pavimentos de las vialidades a cargo del Gobie
 
 XXII. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE JUNIO DE 2007)</small>
+
 ###### Artículo 59.
 
-(DEROGADO, G.O. 16 DE DICIEMBRE DE 2003)
+Corresponde a la Dirección General de Obras para el Transporte:
+
+I. Efectuar los estudios e investigaciones tecnológicas, para optimizar y actualizar el proyecto y la construcción de ampliaciones del Sistema de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren Ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes, obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía;
+
+II. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de la ampliación del Sistema de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren Ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía;
+
+III. Construir las obras de ampliación del Sistemas de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren Ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes, obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía;
+
+IV. Adquirir los materiales y equipos fijos para el funcionamiento del Sistema de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren Ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes, obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía;
+
+V. Verificar que las obras civil y electromecánica del Sistema de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes, obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía, se realicen de acuerdo con el programa autorizado y de conformidad con los proyectos ejecutivo y de detalle;
+
+VI. Entregar las obras de ampliación del Sistema de Transporte Colectivo Metro, Metrobus, Transportes Eléctricos, Tren Ligero, Centros de Transferencia Modal, así como sus vialidades coincidentes, obras inducidas y complementarias, puentes, distribuidores viales, pasos a desnivel, ciclovías y tranvía, a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras; y
+
+VII. Promover y realizar las obras de infraestructura requeridas para el desarrollo de las áreas destinadas a las ciclovías.
 
 ###### Artículo 60.
 
@@ -11065,3 +11137,21 @@ Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. - El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero. - A la Dirección General de Atención Integral al Estudiante se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 11 DE JUNIO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS AL REGLAMENTO.
+
+Único. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE JUNIO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS AL REGLAMENTO.
+
+Primero.- Publíquese el presente instrumento en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Los asuntos, competencia de la Dirección General de Obras para el Transporte, que antes de la entrada en vigor del presente decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto la de nueva creación no inicie formalmente sus actividades.
+
+Cuarto.- A la Dirección General de Obras para el Transporte se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
