@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2006-08-01"
+last_updated: "2007-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -147,29 +147,25 @@ XIII.- Corrupción de menores incapaces, contemplada en los artículos 236, 236-
 
 XIV.- Prostitución de menores a que se refiere el artículo 240-a.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2007)</small>
 
-XV.- Rebelión previsto por el artículo 241.
+XV.- Trata de personas a que se refieren los artículos 240-b y 240-c.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+XVI.- Rebelión previsto por el artículo 241.
 
-XVI.- Terrorismo previsto por el artículo 245.
+XVII.- Terrorismo previsto por el artículo 245.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+XVIII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
 
-XVII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+XIX.- Afectación del ordenamiento urbano previsto en el artículo 262.
 
-XVIII.- Tortura previsto por el artículo 264.
+XX.- Tortura previsto por el artículo 264.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+XXI.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
 
-XIX.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
-
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
-
-XX.- Encubrimiento por receptación calificado, previsto en el artículo 275-a.
+XXII.- Encubrimiento por receptación calificado, previsto en el artículo 275-a.
 
 ###### Artículo 12.
 
@@ -275,11 +271,11 @@ En caso de concurso ideal se aplicará la punibilidad del delito que merezca may
 
 Cuando en un concurso ideal se produzcan varios delitos dolosos que afecten la vida, la salud o la libertad física, se aplicará la punibilidad del concurso real.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 31
 
-a.- Tratándose del concurso de homicidio, secuestro, violación o robo calificado con cualquier otro delito, se acumularán las sanciones que por cada delito se impongan, sin que la suma de las de prisión pueda exceder de sesenta años.
+a.- Tratándose del concurso de homicidio, secuestro, violación, robo calificado o trata de personas con cualquier otro delito, se acumularán las sanciones que por cada delito se impongan, sin que la suma de las de prisión pueda exceder de sesenta años.
 
 ###### Artículo 32.
 
@@ -321,7 +317,7 @@ c) Que no exista otro medio practicable y menos perjudicial.
 
 No operará esta justificante en los delitos derivados del incumplimiento de sus obligaciones, cuando las personas responsables tengan el deber legal de afrontar el peligro;
 
-VII.- Al momento de realizar el hecho típico y por causa de enfermedad mental que perturbe gravemente su conciencia, de desarrollo psíquico incompleto o retardado o de grave perturbación de la conciencia sin base patológica, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión;
+VII.- Al momento de realizar el hecho típico y por causa de enfermedad mental que perturbe gravemente su conciencia, de desarrollo psíquico incompleto o retardado o de grave perturbación de la conciencia sin base patológica, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión.
 
 Cuando el agente sólo haya poseído en grado moderado la capacidad a que se refiere el párrafo anterior, se estará a lo dispuesto en el artículo 35;
 
@@ -499,9 +495,13 @@ I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesion
 
 II.- El pago del daño material causado, incluyendo el de los tratamientos curativos médicos y psicológicos que sean necesarios para la recuperación de la salud de la víctima y sean consecuencia del delito;
 
-III.- El pago del daño moral; y
+III.- El pago del daño moral; y (sic)
 
-IV.- La indemnización de los perjuicios ocasionados.
+IV.- La indemnización de los perjuicios ocasionados;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2007)</small>
+
+V.- El pago del valor de las obras necesarias para introducir los servicios básicos, el de los lotes que se encuentren afectados por el Plan de Desarrollo Urbano Municipal y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262.
 
 ###### Artículo 57.
 
@@ -1673,7 +1673,7 @@ EXPLOTACIÓN SEXUAL
 
 A quien estando unido en legal matrimonio, contraiga otro, se le impondrá de seis meses a tres años de prisión y de diez a treinta días multa.
 
-### CAPÍTULO ÚNICO. LENOCINIO Y PROSTITUCIÓN DE MENORES
+### CAPÍTULO ÚNICO. LENOCINIO, PROSTITUCIÓN DE MENORES Y TRATA DE PERSONAS
 
 ###### Artículo 218.
 
@@ -1879,13 +1879,13 @@ A quien ejerza los actos propios de una profesión sin tener título o autorizac
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
-## TÍTULO SEXTO. DE LOS DELITOS DE LENOCINIO Y PROSTITUCIÓN DE MENORES
+## TÍTULO SEXTO. DE LOS DELITOS DE LENOCINIO, PROSTITUCIÓN DE MENORES Y TRATA DE PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE JUNIO DE 2007)</small>
 
 ### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 236.
 
@@ -1935,7 +1935,7 @@ Las sanciones que señalan los artículos anteriores se aumentarán hasta en una
 
 a.- Además de las sanciones impuestas a quienes incurran en los delitos descritos en este capítulo, quedarán inhabilitados para ser tutores o curadores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE JUNIO DE 2007)</small>
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
@@ -1958,6 +1958,34 @@ a.- Comete también lenocinio quien aún sin obtener algún provecho, promueva, 
 Si obtiene algún beneficio o emplea la violencia, las penas se aumentarán hasta en una mitad más.
 
 El agente activo además perderá los derechos a la patria potestad y alimentos que tuviere respecto de la víctima y quedará inhabilitado para ser tutor o curador.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+###### Artículo 240
+
+b.- Comete el delito de trata de personas quien induzca, procure, permita, favorezca, reclute, retenga, acoja, promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una o más personas para someterlas a cualquier forma de explotación, ya sea de carácter sexual, o de trabajos o servicios impuestos, o para contra su voluntad o con fines lucrativos les extirpen sus órganos, tejidos o componentes.
+
+El consentimiento otorgado por la víctima en cualquier modalidad de este delito, no constituirá excluyente del mismo.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+###### Artículo 240
+
+c.- Al que cometa el delito de trata de personas se le aplicarán:
+
+I.- De ocho a dieciséis años de prisión y de quinientos a mil quinientos días multa.
+
+II.- De dieciséis a veintiséis años de prisión y de mil a tres mil días multa, si se emplease engaño, violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta.
+
+III.- Las penas que resulten de las fracciones I y II de este artículo se incrementarán hasta por un medio:
+
+a) Si el delito es cometido en contra de una persona menor de dieciocho años;
+
+b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
+
+c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho; y
+
+d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil con el sujeto pasivo, habite en el mismo domicilio con éste, o que tenga una relación de confianza mutua que sustituya al parentesco; además perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta. Asimismo, los sujetos activos de los delitos a que se refiere este Título quedarán inhabilitados para ser tutores o curadores.
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
 
@@ -2035,7 +2063,9 @@ Al servidor público que con el carácter de tal, exija dinero, valores, servici
 
 Si lo exigido indebidamente se convirtiera en provecho propio o de un particular, la pena será de tres a ocho años de prisión y de veinte a cien días multa, destitución e inhabilitación hasta seis años para obtener otro cargo público.
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 250.
 
@@ -2043,9 +2073,17 @@ Al servidor público que durante el tiempo de su cargo y por motivos del mismo, 
 
 Las mismas sanciones se aplicarán a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido ilícitamente, a sabiendas de esa circunstancia.
 
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+
 ###### Artículo 251.
 
 A quien indebidamente se atribuya y ejerza funciones públicas, se le sancionará con prisión de un mes a cinco años y de diez a cincuenta días multa.
+
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 252.
 
@@ -2099,13 +2137,19 @@ Al servidor público que dolosamente, con motivo de sus funciones exceda el lím
 
 ###### Artículo 262.
 
-A quien contraviniendo la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios, y sin contar con la autorización o el permiso de autoridad competente, reciba dinero o cualquier otra prestación por la celebración de un acto o contrato verbal o escrito, preparatorio o definitivo, que implique la transmisión de dominio o de otro derecho respecto a inmuebles que para su fraccionamiento, división, lotificación, relotificación o desarrollo en condominio así lo requieran, se le impondrá de uno a nueve años de prisión y de cien a mil días multa.
+A quien promueva, induzca o aliente la formación o construcción de asentamientos humanos irregulares, causando un perjuicio público por sí o por interpósita persona; o al que fraccione, enajene o se comprometa a enajenar en forma fraccionada o en lotes, un terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos de tal permiso, se le impondrá de tres a nueve años de prisión y de cien a mil días multa.
+
+Cuando se trate de servidores públicos y se encuentre en cualquiera de los supuestos de este artículo, la pena se aumentará en un medio, y la destitución del empleo o cargo e inhabilitación de uno a diez años para desempeñar cualquier función pública.
+
+En todo caso, la reparación del daño referida en la fracción V del artículo 56 deberá ser pagada a la administración pública municipal del lugar en donde se ubique el inmueble.
 
 ###### Artículo 263.
 
 Para los efectos de este Código, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados del Estado y de los municipios y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal o en organismos descentralizados, desconcentrados, autónomos, fideicomisos públicos o empresas de participación estatal mayoritaria u organizaciones y sociedades asimiladas a éstas.
 
-## TÍTULO SEXTO. DE LOS DELITOS ECOLÓGICOS
+## TÍTULO SEXTO. DE LOS DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 264.
 
@@ -2359,27 +2403,71 @@ IV.- Condicione la prestación de un servicio público o la realización de una 
 
 Se impondrán hasta quinientos días multa a los ministros de culto religioso que en el desarrollo de actos públicos propios de su ministerio induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político o a la abstención del ejercicio del derecho al voto.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE JUNIO DE 2007)</small>
+
 ###### Artículo 290.
 
-A quien sin contar con la autorización respectiva o violando las normas de seguridad y operación aplicables efectúe, autorice u ordene la realización de actividades que ocasionen graves daños a la salud pública o a los ecosistemas, se le impondrá de tres meses a seis años de prisión y de cincuenta a ciento cincuenta días multa.
+Para los efectos del presente Título, se estará a las definiciones establecidas en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, así como, las determinadas en los siguientes ordenamientos: Ley de Aguas para el Estado de Guanajuato, Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato, Ley de Desarrollo Urbano para el Estado de Guanajuato, Ley de Salud del Estado de Guanajuato, Ley para la Gestión Integral de Residuos del Estado y los Municipios de Guanajuato, Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Desarrollo Forestal Sustentable, Ley General para la Prevención y Gestión Integral de los Residuos, Ley de Aguas Nacionales y Ley General de Vida Silvestre.
 
-Las mismas sanciones se aplicarán cuando dichas actividades se consideren riesgosas para la salud pública o a los ecosistemas conforme a las disposiciones aplicables.
-
-Cuando las actividades consideradas como riesgosas, a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena de prisión hasta tres años y hasta trescientos días multa.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 291.
 
-A quien por cualquier medio, con violación a las disposiciones legales, reglamentarias o normas técnicas aplicables despida, emita o descargue en la atmósfera o lo autorice, lo ordene o lo consienta, gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, a la flora, a la fauna o a los ecosistemas, se le impondrá de un mes a cinco años de prisión y de veinte a cien días multa.
+Se impondrá de dos a cuatro años de prisión, de quinientos a dos mil días multa y de trabajo a favor de la comunidad a que se refiere el artículo 296 de este ordenamiento, al que por sí o por interpósita persona y sin aplicar las medidas de prevención o seguridad, establecidos en las disposiciones legales vigentes estatales o municipales:
+
+I.- Emita, despida, descargue en la atmósfera, gases, humos, vapores, polvos o partículas contaminantes que ocasionen daños a los recursos naturales, a los ecosistemas, al ambiente o a la salud pública.
+
+II.- Descargue, deposite o infiltre líquidos químicos o bioquímicos en aguas de jurisdicción estatal, residuos de manejo especial y residuos sólidos urbanos, que dañen o que por su composición representen un riesgo, a la salud pública, a los recursos naturales, a la calidad del agua, a los ecosistemas o al ambiente.
+
+III.- Descargue o deposite residuos de manejo especial, residuos sólidos urbanos, en áreas naturales protegidas, barrancas, o en cualquier cuerpo de agua, que dañen los recursos naturales o los ecosistemas.
+
+IV.- Ocasione un incendio que dañe a los recursos, vegetación, cuencas hidrológicas o ecosistemas forestales.
+
+Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le inhabilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 292.
 
-A quien por cualquier medio, sin permiso de la autoridad competente o en contravención a las disposiciones legales, reglamentarias o normas técnicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en cualquier cuerpo o corriente de agua de jurisdicción estatal o municipal, que ocasionen o puedan ocasionar graves daños a los ecosistemas o a la salud pública, se le impondrá de tres meses a cinco años de prisión y de veinte a cien días multa.
+Se impondrá una pena de dos a seis años de prisión, de seiscientos a cuatro mil días multa y el trabajo a favor de la comunidad a que se refiere el artículo 294 de este ordenamiento, a quien:
 
-Cuando se trate de agua para ser entregada en bloque a centros de población, la pena se podrá elevar hasta tres años más de prisión y hasta trescientos días multa.
+I.- Asiente datos falsos en los registros o en cualquier otro documento con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal.
+
+II.- Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental correspondiente.
+
+III.- Prestando sus servicios como auditor, perito, especialista en materia de impacto ambiental o en cualquier actividad ambiental de jurisdicción estatal o municipal, faltare a la verdad provocando un daño al ambiente o a los recursos naturales.
+
+IV.- No realice o incumpla las medidas técnicas, correctivas o de seguridad para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
+
+Cuando en la comisión de este delito intervenga un servidor público, la pena de prisión se aumentará en una mitad y se le inhabilitará de uno a cuatro años para ocupar cargo, empleo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 293.
 
-A quien por cualquier medio, en contravención de las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones de ruido, vibraciones, energía térmica o lumínica en zonas de jurisdicción estatal o municipal que ocasionen graves daños a la salud pública, a la flora, a la fauna o a los ecosistemas, se le impondrá de un mes a tres años de prisión y de veinte a cien días multa.
+Además de lo establecido en los artículos 291 y 292, se aplicará alguna o algunas de las siguientes medidas de seguridad:
+
+I.- La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de la realización de la conducta.
+
+II.- La suspensión o modificación de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar a la conducta.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+###### Artículo 294.
+
+Si el delito se cometió de forma culposa, se aplicará el término medio aritmético que resulte entre el mínimo y el máximo establecido como penalidad en el presente título.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+###### Artículo 295.
+
+Las dependencias de la administración pública competentes, deberán proporcionar al ministerio público o al juez, los dictámenes técnicos o periciales que se requieran por motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+###### Artículo 296.
+
+Tratándose de los delitos establecidos en los artículos 291 y 292, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales, tomando en consideración el dictamen-técnico correspondiente.
 
 T R A N S I T O R I O S
 
@@ -2430,3 +2518,7 @@ Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se r
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el quince de junio de dos mil siete, previa su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
