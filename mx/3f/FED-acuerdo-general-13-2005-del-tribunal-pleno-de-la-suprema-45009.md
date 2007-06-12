@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-13-2005-del-tribunal-pleno-de-la-suprema-45009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-06-16"
-last_updated: "2005-06-16"
+last_updated: "2007-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45009&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-06-09"
 
 ACUERDO GENERAL NUMERO 13/2005, DE SIETE DE JUNIO DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN LOS ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA QUE REGULAN LA DEDUCCION DEL COSTO DE LO VENDIDO, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO 12/2007, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 12 DE JUNIO DE 2007, SE LEVANTA EL APLAZAMIENTO DETERMINADO EN EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de junio de 2005.
 
@@ -66,3 +68,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Mariano Az
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, en su Sesión Privada celebrada hoy siete de junio de dos mil cinco emitió el Acuerdo General número 13/2005, RELATIVO AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN LOS ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA QUE REGULAN LA DEDUCCION DEL COSTO DE LO VENDIDO, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO.- México, Distrito Federal, a ocho de junio de dos mil cinco.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo Número 13/2005, constante de seis fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su Punto Segundo Transitorio. México, Distrito Federal, a nueve de junio de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE JUNIO DE 2007.
+
+PRIMERO. Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
