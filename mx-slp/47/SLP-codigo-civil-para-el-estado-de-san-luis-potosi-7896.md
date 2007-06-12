@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2006-06-20"
+last_updated: "2007-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1809,19 +1809,21 @@ VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de ed
 
 ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
 
-Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
+REFORMADO, P.O. 12 DE JUNIO DE 2007)
+
+Las instituciones de asistencia, públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establecen la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, y las demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO VI. De la adopción simple
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-ART. 358.- La adopción simple crea entre el adoptante o adoptantes y el adoptado los mismos vínculos jurídicos que ligan a los padres con los hijos.
+ART. 358.- La adopción simple es un acto jurídico por el cual se establece un vínculo de filiación, únicamente entre el adoptado y adoptante o adoptantes, mediante una resolución judicial.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1843,9 +1845,13 @@ ART. 362.- La adopción simple podrá revocarse en los casos siguientes:
 
 I.- Cuando el adoptado y adoptante convengan en ello y la persona adoptada sea mayor de edad; si no lo es, será necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción;
 
-II.- Por ingratitud del adoptado o del adoptante; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
 
-III.- Por actos inmorales que ejecute cualquiera de los adoptantes contra el adoptado con el fin de corromperlo o conducirlo a una conducta inadecuada.
+II. Por actos que ejecute cualquiera de los adoptantes contra el adoptado, con el fin de corromperlo u obligarlo a cometer una conducta que demerite su integridad, y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+
+III. Por alguna de las causas que para la pérdida de la patria potestad establece este Código.
 
 En este caso la revocación de la adopción podrá solicitarse por el Ministerio Publico, si el adoptado es menor de edad.
 
@@ -1877,11 +1883,15 @@ ART. 366.- La resolución judicial que revoque la adopción dejará sin efectos 
 
 ART. 367.- El juez que decrete la adopción o su revocación, remitirá oficio que contenga los puntos resolutivos tanto al director como al oficial del Registro Civil que los inscribió para que levanten o cancelen el acta correspondiente y en su caso haga las anotaciones que marca la ley.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 368.- La adopción simple podrá convertirse en plena, cuando se acredite que tal modificación resulta notoriamente benéfica para el adoptado, debiéndose obtener su consentimiento si hubiere cumplido doce años. Si fuese menor de esa edad se requiere la aceptación de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; cuando no sea posible obtenerlo o existiera oposición, el juez deberá resolver atendiendo al interés superior del menor.
 
-En el procedimiento de conversión a que se refiere este artículo, deberá darse intervención al Ministerio Público y al órgano rector de la asistencia social en el Estado.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+
+El procedimiento de conversión a que se refiere este artículo, deberá realizarse a través de una institución pública o privada autorizada, y con la intervención del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 Decretada la conversión, serán aplicadas las reglas de la adopción plena.
 
@@ -1889,9 +1899,9 @@ Decretada la conversión, serán aplicadas las reglas de la adopción plena.
 
 ### CAPITULO VII. De la adopción plena
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-ART. 369.- La adopción plena es irrevocable, integra al adoptado como miembro de la familia de él o los adoptantes con todos los derechos y obligaciones del parentesco consanguíneo, extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con la familia de éstos.
+ART. 369.- La adopción plena es irrevocable y confiere al adoptado una filiación sustituyente a la de su origen, dejando de pertenecer, extinguiéndose el parentesco con sus integrantes y demás efectos jurídicos, excepto los impedimentos matrimoniales, y adquiere los mismos derechos y obligaciones del parentesco consanguíneo en la familia del adoptante.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1905,15 +1915,15 @@ III.- Menores de edad que sean entregados a una institución publica o privada a
 
 IV.- Huérfanos de padre y madre que carezcan de ascendiente alguno o que teniéndolos se hubiere decretado la perdida de patria potestad.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-ART. 370.1.- Las instituciones privadas a quienes en los términos de la Ley de Asistencia Social del Estado les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones en el que deberá participar el Ministerio Público y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
+ART. 370.1.- Las instituciones privadas autorizadas a quienes en los términos de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
-ART. 370.2.- Cuando el menor sea entregado a una institución de asistencia privada para que ésta promueva su adopción, además de observarse las formalidades establecidas en el artículo anterior el consentimiento deberá referirse inequívocamente a la adopción plena y deberá manifestarse ante el juez competente, quien informará al declarante de manera que no le queden dudas sobre el contenido y alcance del acto, con asistencia del Ministerio Público.
+ART. 370.2.- Cuando el menor sea entregado a una institución de asistencia privada autorizada, para que ésta promueva su adopción, además de observase las formalidades establecidas en el artículo anterior, el consentimiento debe referirse inequívocamente a la adopción plena, y deberá manifestarse ante el juez competente, quien informará al declarante de manera que no le queden dudas sobre el contenido y alcance del acto, con asistencia del Ministerio Público.
 
-El consentimiento dado por escrito a la institución privada deberá ser presentado en el procedimiento de adopción a fin de que el juez certifique la voluntad de quien lo otorga, debiendo ratificar el mismo, ante la presencia judicial.
+El consentimiento dado por escrito a la institución privada autorizada, deberá ser presentado en el procedimiento de adopción, a fin de que el juez certifique la voluntad de quien lo otorga, debiendo ratificar el mismo, ante la presencia judicial.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1949,9 +1959,11 @@ ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, q
 
 ### CAPITULO VIII. De la adopción internacional
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2007)</small>
 
-ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
+ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio del Estado, a través de una institución reconocida y validada en su país de origen, vinculada a la protección de los menores.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
 
@@ -9820,3 +9832,17 @@ PRIMERO. El presente Decreto entrará en vigor a los cinco días siguientes de s
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este decreto.
 
 TERCERO. Los trámites que se hayan iniciado conforme al artículo que se reforma con el presente Decreto, atenderán a los plazos que en el mismo artículo se establecen hasta antes de su modificación.
+
+P.O. 12 DE JUNIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Junta Directiva de (sic) DIF Estatal, en un plazo no mayor de treinta días, convocará a los integrantes del Consejo Estatal de Adopciones para que se constituyan.
+
+TERCERO. El Ejecutivo del Estado deberá elaborar el Reglamento del Consejo Estatal de Adopciones, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
+
+CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta días posteriores a la entrada en vigor del presente Decreto, deberá convocar al Consejo Técnico de Adopciones, haciéndole del conocimiento a la Junta Directiva del DIF Estatal.
+
+QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
