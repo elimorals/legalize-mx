@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2006-09-12"
+last_updated: "2007-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -409,11 +409,107 @@ El DIF Estatal operará los establecimientos públicos de asistencia social en l
 
 Asimismo, supervisará mediante los procedimientos que establece la ley, que los establecimientos privados cuyo objeto primordial sea la prestación de servicios de asistencia social, operen conforme a lo establecido en el párrafo que antecede.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-Con el objeto de procurar y proteger el interés superior de los menores sujetos a adopción que se encuentren albergados en instituciones públicas y privadas, el DIF Estatal además de contar con su Consejo Técnico de Adopciones, integrará un Consejo Estatal de Adopciones con los representantes de las dependencias públicas e instituciones privadas vinculadas a la materia.
+Con el objeto de procurar y proteger el interés superior de los menores sujetos de adopción, que se encuentren albergados en instituciones públicas y privadas autorizadas, el DIF Estatal constituirá e integrará el Consejo Estatal de Adopciones, y el Consejo Técnico de Adopciones.
 
-Los consejos de adopciones mencionados en el párrafo anterior normarán su funcionamiento de acuerdo a lo que disponen el Código Civil para el Estado, esta Ley, su Reglamento, el Reglamento de Adopciones de Menores de los Sistemas para el Desarrollo Integral de la Familia y demás disposiciones legales aplicables.
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+ARTICULO 21 BIS. El Consejo Estatal de Adopciones quedará integrado de la siguiente manera:
+
+I. Titular del Poder Ejecutivo del Estado: Presidencia Honoraria;
+
+II. Director General del Sistema para el Desarrollo Integral de la Familia en el Estado: Presidencia Ejecutiva;
+
+III. Titular de la Dirección de Asuntos Jurídicos del DIF Estatal: Secretaría Técnica;
+
+IV. Primera Consejería: Secretaría General de Gobierno;
+
+V. Segunda Consejería: Procuraduría General de Justicia, y
+
+VI. Tercera Consejería: será un representante de las instituciones privadas autorizadas en materia de adopciones, el cual será designado de entre ellas mismas.
+
+Cada integrante del Consejo designará a su suplente, informándolo, por escrito, a la Presidencia Ejecutiva; observándose la misma formalidad en caso de sustitución.
+
+Las suplencias cuentan con voz y voto durante su representación.
+
+Las personas que integran el Consejo desempeñarán sus funciones en forma honorífica y no recibirán retribución, gratificación, emolumentos o compensación alguna.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+ARTICULO 21 TER. El Consejo Estatal de Adopciones tendrá las siguientes atribuciones:
+
+l. Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas;
+
+II. Establecer los requisitos administrativos para adoptar;
+
+III. Coordinarse con las autoridades competentes, a fin de cumplir con su objeto general y las funciones propias del Consejo;
+
+IV. Instituir y mantener actualizado un padrón de instituciones públicas o privadas que tengan en custodia menores susceptibles de adopción;
+
+V. Determinar las instituciones públicas y privadas competentes para que realicen las evaluaciones necesarias en materia de adopción;
+
+VI. Fomentar la cultura de la adopción de menores susceptibles de ello, y
+
+VII. Las demás que le confiera ésta y otras leyes.
+
+Las facultades y obligaciones de cada uno de los miembros del Consejo Estatal de Adopciones, estarán establecidas en el Reglamento del Consejo Estatal de Adopciones.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+ARTICULO 21 QUATER. El Consejo Técnico de Adopciones quedará integrado de la siguiente manera:
+
+I. Titular de la Junta Directiva del DIF Estatal: Presidencia Honoraria;
+
+II. Titular de la Dirección General del DIF Estatal: Presidencia Ejecutiva;
+
+III. Titular de la Dirección de Asuntos Jurídicos del DIF Estatal: Secretaría Técnica;
+
+IV. Primera Consejería: Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado;
+
+V. Segunda Consejería: Presidencia de la Junta Directiva de la Casa Cuna Margarita Maza de Juárez;
+
+VI. Tercera Consejería: Dirección de la Casa Cuna Margarita Maza de Juárez;
+
+VII. Cuarta Consejería: Dirección General del Instituto de Reintegración Social Rosario Castellanos;
+
+VIII. Quinto Consejero: Dirección General del Instituto de Reintegración Social Rafael Nieto, y
+
+IX. Sexto Consejero: Dirección de Integración Social de Personas con Discapacidad de (sic) DIF Estatal.
+
+El cargo de integrante del Consejo Técnico de Adopciones será honorífico y no se recibirá retribución, gratificación, emolumentos o compensación alguna. Los integrantes contarán con voz y voto, y en caso de empate, la Presidencia Ejecutiva tendrá voto de calidad.
+
+Para el mejor desempeño de sus funciones, el Consejo Técnico de Adopciones, previo acuerdo, podrá solicitar la opinión de personas expertas en la materia, las que participarán en las sesiones del Consejo, con voz, pero sin voto.
+
+La forma de sesionar del Consejo Técnico de Adopciones, así como el procedimiento administrativo de solicitud de adopción, y las facultades de cada uno de sus miembros, se establecen en el Reglamento del Consejo Técnico de Adopciones del DIF Estatal, el cual se ajustará a lo que dispone el Código Civil para el Estado, esta Ley, su Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+
+ARTICULO 21 QUINQUE. El Consejo Técnico de Adopciones tendrá las siguientes atribuciones:
+
+l. Analizar detalladamente el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Consejo Técnico de Adopciones por la Secretaría Técnica, y los demás elementos propios del trámite administrativo, procurando en todo momento el interés superior del menor susceptible de adopción;
+
+II. Declarar la idoneidad o lo que proceda en su caso, de conformidad con los requisitos de adopción, previa revisión y debate acerca del expediente administrativo de las personas solicitantes;
+
+III. Asignar a los menores susceptibles de adopción albergados en las instituciones públicas, a los solicitantes previamente declarados idóneos;
+
+IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos, para la realización de las investigaciones y estudios complementarios, que permitan enriquecer el criterio del Consejo, en relación a los solicitantes o a los menores susceptibles de adopción;
+
+V. Adoptar las medidas pertinentes en cada caso, en lo referente a las convivencias temporales del menor con los solicitantes;
+
+VI. Intervenir, a través de las áreas respectivas, en el seguimiento de la convivencia en las etapas previas a la adopción y posteriores a la misma;
+
+VII. Establecer la coordinación con instituciones públicas y privadas en el ámbito municipal, estatal y nacional, para mejorar los mecanismos de trabajo y las capacidades de decisión, así mismo, con instituciones públicas en el ámbito internacional;
+
+VIII. Llevar registro y control de las solicitudes de adopción aprobadas;
+
+IX. Mantener el archivo especializado de expedientes de los menores otorgados en adopción, y
+
+X. Las demás que establezca la legislación vigente en materia de adopciones.
+
+El Consejo para el mejor desempeño de sus funciones, contará con las subcomisiones que considere necesarias.
 
 ###### ARTICULO 22.
 
@@ -1110,3 +1206,17 @@ c) El Director del Centro de Readaptación Social para Menores "Profesor Angel S
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
 d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+
+P.O. 12 DE JUNIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Junta Directiva de (sic) DIF Estatal, en un plazo no mayor de treinta días, convocará a los integrantes del Consejo Estatal de Adopciones para que se constituyan.
+
+TERCERO. El Ejecutivo del Estado deberá elaborar el Reglamento del Consejo Estatal de Adopciones, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
+
+CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta días posteriores a la entrada en vigor del presente Decreto, deberá convocar al Consejo Técnico de Adopciones, haciéndole del conocimiento a la Junta Directiva del DIF Estatal.
+
+QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
