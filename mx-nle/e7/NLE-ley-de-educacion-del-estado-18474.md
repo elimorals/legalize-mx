@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2000-10-16"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -805,6 +805,14 @@ VII.- Orientar e informar con oportunidad al alumnado, personal docente, directi
 
 VIII.- Emitir la reglamentación sobre la nomenclatura escolar en coordinación con el Comité Estatal de Nomenclatura Escolar.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2007)</small>
+
+###### Artículo 90 Bis.
+
+Es también obligación de la autoridad educativa estatal, el permitir que los espacios físicos de los edificios y áreas de los planteles educativos, sean utilizados fuera de los horarios escolares por menores de edad para desarrollar actividades educativas y de esparcimiento, tales como deportivas, artísticas, cívicas o culturales.
+
+Lo anterior podrán solicitarlo las asociaciones de padres de familia del plantel educativo, a fin de que se desarrollen bajo un programa establecido con costo a los beneficiarios y bajo la autorización y supervisión de los directores y de la asociación de padres de familia de los planteles educativos en común acuerdo.
+
 ###### Artículo 91.
 
 El equipo y mobiliario que se adquiera en las escuelas públicas con aportaciones de los padres y madres de familia, donaciones o mediante fondos provenientes de los ingresos propios de la escuela, pasarán a formar parte del patrimonio del Gobierno del Estado en el momento en que se reciban en el plantel y deberán registrarse formalmente en el inventario escolar en un plazo máximo de 30 días.
@@ -1204,3 +1212,9 @@ LIC. JOSE MARTINEZ GONZALEZ
 EL C. SECRETARIO DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
 LIC. FERNANDO ELIZONDO BARRAGAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
