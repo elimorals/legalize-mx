@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2006-05-19"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE JUNIO DE 2007.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -11045,11 +11045,15 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 2165.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO
+### CAPITULO II. DE LOS ACTOS Y CONVENIOS OBJETO DE INSCRIPCION O ANOTACION
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2166.
 
@@ -11061,193 +11065,339 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ## TITULO OCTAVO. DEL REGISTRO PUBLICO
 
-### CAPITULO III. DE LOS EFECTOS DEL REGISTRO
+### CAPITULO III. DE LAS INSCRIPCIONES O ANOTACIONES
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2168.
 
-El registro público de la propiedad es la institución mediante la cual el Estado proporciona los servicios de dar publicidad a los actos jurídicos que conforme a la ley precisan de ese requisito para surtir efectos contra terceros, y la regularización de la propiedad inmueble mediante su incorporación a la propia institución. Habrá en el Estado una oficina denominada registro público de la propiedad con residencia en la ciudad de Mérida.
+El Registro Público de la Propiedad, es la institución jurídica cuya finalidad consiste en dar seguridad jurídica, mediante la publicidad de los actos jurídicos y convenios, que realizan las personas físicas y morales. Es objeto de este servicio:
+
+l.- La inscripción o anotación de la constitución, transmisión, modificación gravamen y extinción del derecho de la propiedad y los demás derechos reales sobre los bienes inmuebles;
+
+II.- La inscripción o anotación de la constitución, modificación y extinción de las personas morales;
+
+III.- La inscripción o anotación de los demás actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere;
+
+IV.- La inscripción o anotación de las consecuencias inherentes a dichas inscripciones, y
+
+V.- La expedición de las respectivas constancias de los actos y convenios jurídicos y los documentos relacionados con los mismos, que se encuentren archivados.
+
+> <small>(ADICIONADO, D.O. 13 DE JUNIO DE 2007)</small>
+
+Artículo 2168 BIS.- El reglamento del Registro Público de la Propiedad, que expida el ejecutivo del Estado, organizará el funcionamiento de la oficina que preste dicho servicio, así como los sistemas y el método registrales para lo cual podrá utilizar los distintos recurso (sic) tecnológicos.
+
+El Ejecutivo del Estado, determinará la ubicación y el número de oficinas registrales, que se establezcan en el Estado.
+
+El reglamento del Registro Público organizará la institución y determinará el número de autoridades, su jerarquía, atribuciones y deberes. Igualmente fijará y nominará las secciones en las que se componga el Registro, precisará los títulos que deban inscribirse en cada una de ellas, el número de libros y sus correspondientes requisitos, y determinará el sistema y método mediante los cuales funcionará.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2169.
 
-El registro público funcionará conforme al sistema y método que determine el reglamento.
+Los actos ejecutados o los convenios otorgados en otra entidad federativa o en el extranjero, serán inscritos o anotados si tienen el carácter de inscribibles o anotables conforme a las disposiciones de este código.
+
+Si los documentos a que se refiere el párrafo anterior estuvieren redactados en idioma extranjero, deberán ser previamente traducidos por perito reconocido o autorizado por la autoridad competente y protocolizados ante notario público.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2170.
 
-Ninguna inscripción puede hacerse si no consta que el que la pretende es actual dueño de los bienes, tiene derecho para exigir el registro o procede con poder legal del propietario.
+Las sentencias dictadas en el extranjero sólo serán registradas o anotadas, si lo ordena la autoridad judicial mexicana competente.
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2171.
 
-Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán sin (sic) dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este código y del reglamento del registro público. Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante notario. Las sentencias dictadas en el extranjero sólo se registrarán sino están en desacuerdo con leyes mexicanas y sí ordena su ejecución la autoridad judicial competente.
+El servicio a que se refiere este título, será público. Cualquier persona podrá enterarse de las inscripciones o anotaciones existentes en los sistemas de inscripción del Registro Público de la Propiedad, de los documentos relacionados con dichas inscripciones o anotaciones, con derecho a obtener constancias certificadas de ellos, así como certificaciones de no existir asientos de ninguna especie o de especie definida, sobre bienes o personas determinadas.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 13 DE JUNIO DE 2007)</small>
 
 ### CAPITULO IV. DEL MODO DE HACER EL REGISTRO
 
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 2172.
 
-Los actos y contratos que conforme a la ley deban registrarse, no producirán efecto contra tercero, si no estuvieren inscritos en el libro respectivo.
+Son objeto de inscripción o anotación, los siguientes actos y convenios:
 
-### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES
+l.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
+
+II.- La constitución, modificación y extinción del patrimonio de familia;
+
+III.- Los contratos de arrendamiento de bienes inmuebles, cuando el plazo exceda de tres años;
+
+IV.- Las capitulaciones o convenios que celebren los cónyuges en relación con sus bienes matrimoniales; sus modificaciones y su terminación;
+
+V.- El nombramiento de representante a un ausente y las sentencias que declaren la ausencia y la presunción de muerte, cuando afecten bienes inmuebles;
+
+VI.- La constitución de las asociaciones y sociedades civiles, las reformas a sus estatutos y los nombramientos de sus representantes y las revocaciones a dichos nombramientos;
+
+VII.- Las bases de las fundaciones de beneficencia privada, así como su modificación o disolución;
+
+VIII.- Las resoluciones judiciales, administrativas o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I de este artículo;
+
+IX.- En los casos de testamentarias, el reconocimiento de herederos y el nombramiento de albacea;
+
+X.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento del albacea definitivo.
+
+En los casos previstos en las dos fracciones inmediatas anteriores, se tomará razón del acta de defunción del autor de la herencia;
+
+XI.- Las resoluciones judiciales que declaren un concurso o admitan una cesión de bienes;
+
+XII.- Las sentencias o autos que ordenen la sujeción de un inmueble a juicio hipotecario, un embargo, un secuestro, prohibición de la enajenación de bienes inmuebles o derechos reales sobre los mismos, una intervención o una fianza carcelera. Tratándose de esta última, deberá observarse lo dispuesto en los artículos 2000, 2001 y 2002 de este código;
+
+XIII.- Las promesas de contratar a que se refiere el artículo 1395 de este código, o
+
+XIV.- Los demás títulos que la ley ordene expresamente sean registrados o anotados.
+
+(REFORMADA SU DENOMINACION, D.O. 13 DE JUNIO DE 2007) (F. DE E., D.O. 27 DE JUNIO DE 2007)
+
+### CAPITULO V. DE LA EXTINCION DE LAS INSCRIPCIONES O ANOTACIONES
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2173.
 
-El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del registro, y de los documentos relacionados con las inscripciones, que estén archivadas. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+La inscripción de los actos o convenios en el Registro Público de la Propiedad tiene efectos declarativos y no constitutivos, de tal forma que los derechos provienen del acto jurídico declarado, pero no de su inscripción, cuya finalidad es dar publicidad y no constituir el derecho.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2174.
 
-Se inscribirán en el registro:
+Los actos y convenios que conforme a la ley deban ser inscritos o anotados no producirán efectos contra tercero si no estuvieren inscritos o anotados en el sistema de inscripción respectivo del Registro Público de la Propiedad.
 
-I.- Los títulos por los cuales se crea, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles.
-
-II.- La constitución del patrimonio de familia.
-
-III.- Los contratos de arrendamiento de bienes inmuebles, cuando el plazo exceda de tres años.
-
-IV.- Las capitulaciones o convenios que celebren los cónyuges en relación con sus bienes matrimoniales.
-
-V.- El nombramiento de representante a un ausente y las sentencias que declaren la ausencia y la presunción de muerte.
-
-VI.- La escritura constitutiva de las sociedades civiles y la que la reforme.
-
-VII.- La escritura constitutiva de las asociaciones y la que la reforme.
-
-VIII.- Las fundaciones de beneficencia privada.
-
-IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I.
-
-X.- Los testamentos por efectos de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador.
-
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia.
-
-XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes.
-
-XIII.- Las sentencias o autos en que se ordene la sujeción de una finca a juicio hipotecario, un embargo, un secuestro, una intervención o una fianza carcelera. Tratándose de esta última, deberá observarse lo dispuesto en los artículos 2000, 2001 y 2002 de este código.
-
-XIV.- Las promesas de contratar a que se refiere el artículo 1395 de este código.
-
-XV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2175.
 
-La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+No podrán ser inscritos o anotados a favor de dos o más personas distintas, los bienes o los derechos reales impuestos sobre los mismos, a menos que aquéllas sean copartícipes.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2176.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+Las inscripciones y anotaciones no convalidan los actos o convenios que sean nulos con arreglo a las leyes.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+No obstante lo dispuesto en el párrafo anterior, los derechos adquiridos por tercero de buena fe una vez inscritos o anotados no se invalidarán, aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de nulidad resulte de la inscripción o anotación.
+
+Lo dispuesto en este artículo no se aplicará en aquellos derechos adquiridos en convenios gratuitos o en actos o convenios que se ejecuten u otorguen violando la ley o de interés público.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2177.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+El derecho inscrito o anotado se presume que existe y que pertenece a su titular en la forma expresada en el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
 
-En el caso de embargo precautorio, juicio ejecutivo o hipotecario contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del registro público de la propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el registro.
+No podrá ejercitarse ninguna acción contradictoria del dominio del inmueble o de derechos reales inscritos o anotados a nombre de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción o anotación en que conste dicho dominio o derecho.
 
-Si se inscribiere embargo o gravamen sobre un inmueble o derecho sobre el mismo cuyo dominio ya se hubiere transferido con fecha anterior a la inscripción, según constare en escritura pasada ante notario público en que se hayan cumplido los requisitos esenciales del contrato previa la tramitación del correspondiente procedimiento administrativo de la cancelación de la toma de razón del embargo de que se trata con la presentación al registro del título respectivo, lo cual se comunicará a la autoridad que hubiere ordenado la inscripción del embargo o gravamen.
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2178.
 
-No pueden los bienes o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+No serán inscritos los embargos o secuestros que provengan de una acción personal, orientados por autoridad competente contra bienes o derechos reales determinados, cuando esté anotado el aviso definitivo a que se refiere el artículo 2182 o estuviesen inscritos a nombre de persona distinta de aquélla contra la cual se decretó el embargo. En todo caso, el Registro Público de la Propiedad deberá notificar a la autoridad correspondiente tal circunstancia, fundando y motivando la negativa para la toma de razón.
 
-> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2179.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces o cualquier derecho real de los mismos o que sin serlo, sea inscribible, el notario, escribano o autoridad ante quien vaya a otorgarse, deberá dar al Registro Público de la Propiedad un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registrador, hará inmediatamente el asiento de la presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de diez días hábiles a partir de la fecha de presentación de la solicitud.
+Serán inscritos los secuestros provenientes de una acción real ordenados por autoridad judicial competente contra bienes o derechos reales determinados, aun cuando exista anotado cualquiera de los avisos a que se refieren los artículos 2180 fracción II y 2182 de este Código o que estuviesen inscritos a nombre de persona distinta de aquélla contra la cual se decretó el secuestro, siempre y cuando esté vigente el derecho real que dio lugar al secuestro. En este caso el Registro Público de la Propiedad, deberá notificar a la autoridad correspondiente la (sic) circunstancias bajo las cuales realizó la inscripción.
 
-> <small>(REFORMADO, D.O. 23 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2180.
 
-Una vez firmada la escritura que produzca cualesquiera de las consecuencias mencionadas en el artículo precedente, el notario o autoridad ante quien se otorgó, dará al Registro Público de la Propiedad, dentro de los dos días hábiles siguientes, un segundo aviso preventivo sobre la operación de que se trate, conteniendo además de los datos mencionados en el citado artículo, la fecha de la escritura. El registrador, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso, que tendrá vigencia por término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de diez días hábiles a que se contrae el artículo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero, que lo será de la expedición del certificado del Registro Público de la Propiedad. Si se diere después de ese plazo sólo surtirá efectos desde la fecha y hora de su presentación.
+Cuando se pretenda formalizar un acto o celebrar un convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o cualquier derecho real sobre bienes inmuebles, o que sin serlo, sea inscribible, los fedatarios públicos y las autoridades judiciales, cuando por disposición legal tengan funciones de fedatarios, ante quienes se vaya a otorgar, procederán en la siguiente forma:
+
+I.- Solicitarán al Registro Público de la Propiedad un certificado en el que se haga constar:
+
+a) La existencia o la inexistencia de gravámenes;
+
+b) La existencia o la inexistencia de restricciones al derecho de propiedad, y
+
+c) Cualquier anotación que pudiera afectar la propiedad, la posesión o el derecho real impuesto sobre le (sic) inmueble de que se trate.
+
+La fecha del certificado deberá estar comprendida dentro de los diez días hábiles anteriores a la fecha de la escritura, excepto cuando se trate de hipoteca, en cuyo caso la fecha deberá estar comprendida dentro de los dos días hábiles.
+
+II.- Darán un aviso preventivo al Registro Público de la Propiedad, el cual, además de ser firmado por el fedatario público o por la autoridad judicial en funciones de fedatario público, deberá contener los nombres de los interesados, el acto o convenio de que se trate, así como los datos del inmueble y el antecedente registral.
+
+> <small>(F. DE E., D.O. 27 DE JUNIO DE 2007)</small>
+
+Dicho aviso tendrá una vigencia de diez días hábiles a partir de la fecha y hora de su presentación y será anotado en el folio de la inscripción a la que se refiere el aviso.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2181.
 
-Si el testimonio respectivo se presentara al registro dentro de cualquiera de los términos a que se contraen los dos artículos anteriores, es decir, en un máximo de noventa días naturales, su inscripción surtirá efectos contra terceros desde la fecha del asiento de presentación del primer aviso preventivo correspondiente, si hubiese sido dado, o en caso contrario, desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+Lo dispuesto en el artículo inmediato anterior, también se aplicará a las entidades y a los organismos a que se refiere el artículo 1405 de este código.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2182.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el artículo 2179 de este código se hubiera otorgado ante escribano público, éste dará el aviso señalado en segundo término en el citado artículo y tal aviso producirá los mismos efectos que el dado por el notario.
+Una vez formalizado el acto o el convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, el fedatario público, la autoridad judicial o la entidad u organismo (sic) correspondientes, dará al Registro Público de la Propiedad, un aviso definitivo sobre el acto o convenio de que se trate, dentro de los dos días hábiles.
+
+El aviso definitivo contendrá además de los datos que se mencionan en el artículo 2180 de este código, el número de escritura y la fecha de la formalización de la operación. Asimismo, será anotado en el folio de la inscripción a la que corresponda éste.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2183.
 
-Si el acto registrado se anula o rescinde en virtud de sentencia, se anotará haberse dictado ésta, dentro de treinta días contados desde que causó ejecutoria, al margen de la inscripción respectiva. De lo contrario, sólo producirá efectos con relación a terceros desde el día en que fuere anotada.
+El documento en el que conste el acto o el convenio en el que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión o cualquier derecho real sobre bienes inmuebles, podrá presentarse en cualquier tiempo y surtirá sus efectos, desde:
+
+l.- La fecha de presentación del aviso preventivo, si el acto o contrato se celebró dentro del período de vigencia establecido en el párrafo segundo de la fracción II.- del artículo 2180 de este código, y el aviso definitivo fue dado dentro del plazo previsto para ello en el artículo anterior;
+
+II.- La fecha de presentación del aviso definitivo, si éste se dio dentro del plazo previsto para ello y no se hubiere dado el aviso preventivo;
+
+III.- La fecha de presentación del aviso definitivo, si tanto éste como el aviso preventivo se hubieran dado dentro de los plazos establecidos en los artículos 2182 y 2180, respectivamente, o
+
+IV.- La fecha de la presentación del documento que los contenga al Registro Público de la Propiedad, si no se dio ninguno de los avisos previstos en este capítulo.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2184.
 
-La inscripción de los títulos en el registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario o escribano que haya autorizado la escritura de que se trate.
+Si se decretare embargo o secuestro que provenga de acción personal, respecto de un inmueble o derecho sobre el mismo, cuya inscripción contuviere la anotación del aviso preventivo, se tomará razón del embargo o secuestro en la fecha y hora de su presentación, pero la inscripción del embargo o secuestro únicamente quedará firme si no se celebra el acto o convenio dentro del período de vigencia del aviso preventivo, o si, a pesar de haberse celebrado dentro de la vigencia de éste, o se diere el aviso definitivo que menciona el artículo 2182 de este código, en el plazo previsto para ello.
+
+Para el caso de que existiere aviso definitivo, no se tomará razón del embargo o secuestro decretado.
+
+En cualquiera de éstos casos el Registro Público deberá notificar a la autoridad correspondiente, fundando y motivando su actuación.
+
+Una vez que haya quedado firme la inscripción preventiva a que se refiere este artículo, surtirá sus efectos desde la fecha y hora en que se tomó razón.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2185.
 
-Sólo se registrarán:
-
-I.- Los testimonios de escritura pública u otros documentos auténticos.
-
-II.- Las sentencias y providencias judiciales certificadas legalmente.
-
-III.- Los documentos otorgados ante escribano público.
+Si el acto o el convenio inscrito o anotado se anula o rescinde en virtud de sentencia ejecutoriada, se realizará la anotación correspondiente y se notificará a la autoridad que hubiere dictado la sentencia de la toma de razón del mandamiento judicial.
 
 ### CAPITULO I. DE LA HERENCIA
 
 ###### Artículo 2186.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse y llena las formas extrínsecas exigidas por la ley.
+La inscripción o anotación de los títulos o documentos en el Registro Público de la Propiedad puede ser pedida por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, por el notario o escribano públicos o por la autoridad que haya autorizado la escritura de que se trate.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2187.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+Son requisitos para efectuar la inscripción o anotación, presentar:
+
+l.- El testimonio de escritura pública u otros documentos auténticos;
+
+II.- La (sic) sentencias y providencia judiciales certificadas legalmente, o
+
+III.- El embargo y secuestro trabados por autoridad administrativa competente, así como las garantías prendarias otorgadas a favor de las mismas.
+
+> <small>(ADICIONADO, D.O. 13 DE JUNIO DE 2007)</small>
+
+###### Artículo 2187 Bis.
+
+Para proceder a la inscripción o anotación a que se refiere el artículo anterior, los Registradores calificarán, bajo su responsabilidad, los documentos que se presenten; la que denegarán cuando:
+
+l.- No sean de los que deben inscribirse o anotarse;
+
+II.- No revistan las formas extrínsecas que establezca la ley;
+
+III.- Los funcionarios ante quienes se haya otorgado el acto o convenio, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+
+IV.- El contenido sea contrario a las leyes prohibitivas o de interés público;
+
+V.- Haya incompatibilidad entre el texto del título o documentos y los asientos del registro;
+
+VI.- No se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado;
+
+VII.- Tratándose de la primera inscripción en el Registro Público, no mencionen los antecedentes que acrediten la adquisición, la existencia y el origen del predio;
+
+VIII.- No se acredite haber cubierto las obligaciones fiscales que genere la celebración el acto o convenio, o
+
+IX.- Falte algún otro requisito, que para su inscripción deba llenar el documento, de acuerdo con este código u otras leyes aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2188.
 
-Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión a otra persona del dominio, o derecho real inscrito.
+Cuando un título o documento presentado para su inscripción o anotación, contuviere más de uno de los actos o convenios relacionados en el artículo 2172 de este código, el Registro Público de la Propiedad procederá a la inscripción o anotación de todos los actos y convenios contenidos en dicho título o documentos, considerando como fecha y hora de ingreso la de presentación del título o documento.
+
+En caso de que el acto o convenio que se presenten por el interesado, no corresponda a alguno de los señalados en el artículo 2172 de este código, el Registrador los devolverá sin registrar, asentando expresamente esta causa.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2189.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+Toda inscripción o anotación deberá expresarlo (sic) siguiente:
+
+l.- La situación, linderos o colindancias de los inmuebles objeto de la operación, a los cuales afecte el derecho de que se trate, su medida superficial, o bien el lugar donde se encuentren registrados algunos o todos éstos datos, así como también se señalará el lugar del registro del título antecedente;
+
+II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituye, transmita, modifique o extinga;
+
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
+
+IV.- Tratándose de hipoteca, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha en que empezarán a correr;
+
+V.- Los nombres, edades, domicilios y profesiones u oficios de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón o denominación;
+
+VI.- La naturaleza del acto o contrato, y
+
+VII.- La fecha del título, así como el nombre y demás datos que permitan identificar al funcionario que lo haya autorizado.
+
+Hecha la inscripción o anotación, será devuelto el título o documento a quien lo presentó, con una constancia que contendrá la fecha y datos del lugar de su inscripción o anotación.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 13 DE JUNIO DE 2007)</small>
 
 ### CAPITULO II. DE LOS HEREDEROS Y LEGATARIOS
 
 ###### Artículo 2190.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+Las inscripciones o anotaciones no se extinguen en cuanto a tercero, sino por su cancelación por el registro de la transmisión a otra persona del dominio o derecho real inscrito.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2191.
 
-Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+Las inscripciones o anotaciones únicamente pueden cancelarse por consentimiento de los otorgantes del acto o convenio que conste en el título o documento inscrito o anotado o por decisión judicial. En el caso de las inscripciones preventivas a que se refiere el artículo 2184 de éste código, se cancelarán de oficio en el caso de que el acto o convenio se celebre dentro del periodo de la vigencia del aviso preventivo y además se dé oportunamente el aviso definitivo.
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción.
+La cancelación de las inscripciones podrá ser total o parcial.
 
-II.- Cuando se extinga también por completo el derecho inscrito.
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción.
-
-IV.- Cuando se declare la nulidad de la inscripción.
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1465 de este código.
-
-VI.- Cuando tratándose de cédula hipotecaria o de embargo hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2192.
 
-Podrá pedirse, y deberá decretarse en su caso, la cancelación parcial:
+Podrá pedirse a la autoridad judicial y ésta deberá ordenar la cancelación total, cuando:
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción.
+l.- Se extinga por completo el inmueble objeto de la inscripción;
 
-II.- Cuando se reduzca el derecho, inscrito a favor del dueño de la finca gravada.
+II.- Se extinga por completo el derecho inscrito;
+
+III.- Se declare la nulidad del título, en cuya virtud se haya hecho la inscripción;
+
+IV.- Se declare la nulidad de la inscripción;
+
+V.- Sea vendido el inmueble que soporte el gravamen, en el caso previsto en el artículo 1465 de este código, o
+
+VI.- Tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2193.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+Podrá pedirse a la autoridad judicial y ésta deberá decretar la cancelación parcial, cuando:
+
+l.- Se reduzca el inmueble objeto de la inscripción, o
+
+II.- Se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2194.
 
-Si para cancelar el registro se pusiere alguna condición, se requiere, además, el cumplimiento de ésta.
+Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas sean los titulares legítimos, tengan capacidad de contratar y hagan constar su voluntad en escritura pública si la ley prevé esa formalidad para la celebración del acto o convenio que motivó el registro, y para el caso de que la ley no prevenga formalidad alguna, únicamente será necesario que la manifestación de la voluntad se haga constar de un modo auténtico.
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2195.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+Si para cancelar el registro se pusiere alguna condición, se requiere, además, el cumplimiento de ésta.
 
 # LIBRO CUARTO. DE LAS SUCESIONES
 
@@ -13516,3 +13666,29 @@ D.O. 19 DE MAYO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del gobierno del Estado de Yucatán.
+
+D.O. 13 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El artículo primero de este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo segundo de este Decreto entrará en vigor a los diez días de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales que se opongan a las contenidas en este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones legales contenidas en este Decreto se aplicarán sólo a los asuntos que se inicien a partir de su vigencia.
+
+###### ARTÍCULO QUINTO.
+
+La tramitación de los procedimientos judiciales, iniciados antes de la fecha prevista para la entrada en vigor de este Decreto, se sustanciarán y resolverán conforme a las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+Se faculta al Pleno del Tribunal Superior de Justicia para tomar todos los acuerdos que considere necesarios o convenientes para la mejor aplicación de las disposiciones de este Decreto.
