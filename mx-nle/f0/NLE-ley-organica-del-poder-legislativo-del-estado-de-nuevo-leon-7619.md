@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2007-02-07"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -399,7 +399,9 @@ a) Oficialía Mayor;
 
 b) Tesorería;
 
-c) Contaduría Mayor de Hacienda; y
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
+c) Órgano de Fiscalización Superior; y
 
 d) Centro de Estudios Legislativos;
 
@@ -697,7 +699,9 @@ d) El Presupuesto Anual del Poder Legislativo; y
 
 e) Proyectos de acuerdo sobre asuntos que le sean turnados.
 
-IV.- Dirigir por sí, o a través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción de los de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
+
+IV.- Dirigir por sí, o a través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano de Fiscalización Superior;
 
 V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
 
@@ -749,9 +753,9 @@ I.- Comisiones Permanentes:
 
 a) Comisiones de Dictamen Legislativo;
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
-b) Comisión de Vigilancia de la Contaduría Mayor de Hacienda; y
+b) Comisión de Vigilancia del Órgano de Fiscalización Superior; y
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -783,9 +787,11 @@ En el caso de la Comisión de Equidad y Género, el cargo de Presidente, invaria
 
 Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 68.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
+La Comisión de Vigilancia del Órgano de Fiscalización Superior se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -883,9 +889,11 @@ XIX.- Cuarta de Hacienda y Desarrollo Municipal; y
 
 XX.- Quinta de Hacienda y Desarrollo Municipal.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 71.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda estará integrada por nueve diputados: un Presidente, un Vice-Presidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley de la propia Contaduría en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
+La Comisión del Órgano de Fiscalización Superior estará integrada por nueve diputados: un Presidente, un Vice-Presidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley del propio Órgano de Fiscalización Superior en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
 
 ###### Artículo 72.
 
@@ -937,7 +945,9 @@ En dicho acuerdo se especificarán los propósitos de su creación y el tiempo p
 
 El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
 
-I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso, con la excepción de la Contaduría Mayor de Hacienda. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
+
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso, con la excepción del Órgano de Fiscalización Superior. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
 
 a) El Anteproyecto de Presupuesto de Egresos del Congreso;
 
@@ -963,7 +973,9 @@ VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Es
 
 VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo, con la excepción de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
+
+IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo, con la excepción del Órgano de Fiscalización Superior;
 
 X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
 
@@ -993,11 +1005,13 @@ VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sob
 
 ### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 79.
 
-Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno, con la excepción de la Contaduría Mayor de Hacienda. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno, con la excepción del Órgano de Fiscalización Superior. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 I.- De los Órganos de Soporte Técnico:
 
@@ -1008,6 +1022,8 @@ b) De la Tesorería: la administración de los recursos financieros, humanos y d
 c) De la Contaduría Mayor de Hacienda: la fiscalización, control y evaluación de las finanzas públicas de las entidades señaladas en la Ley de la Contaduría Mayor de Hacienda; y
 
 d) Del Centro de Estudios Legislativos: el desarrollo de programas de investigación y análisis en los aspectos técnicos de los asuntos que son competencia del Congreso.
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 II.- De los Órganos de Apoyo:
 
@@ -1316,3 +1332,7 @@ Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los r
 P.O. 7 DE FEBRERO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
