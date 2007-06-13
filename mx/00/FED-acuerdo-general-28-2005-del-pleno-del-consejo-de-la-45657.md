@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2006-10-03"
+last_updated: "2007-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, PUBLICADO EN EL D.O.F. 3 DE OCTUBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO RATIFICADO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -65,13 +63,19 @@ V. Magistrados y Jueces: Magistrados de Circuito y Jueces de Distrito;
 
 VI. Secretario de Finanzas: El Secretario Ejecutivo de Finanzas del Consejo de la Judicatura Federal;
 
-VII. Recursos Humanos: La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+VII. Servicios al Personal: La Dirección General de Servicios al Personal del Consejo de la Judicatura Federal;
 
 VIII. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-IX. Salario Neto: Es la retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, sin considerar deducciones personales;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
-X. Salario Pensionable: Es el salario mensual neto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente;
+IX. Salario Neto: Es la retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, una vez descontadas todas las deducciones legales;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+X. Sueldo Pensionable: Es el salario mensual neto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente;
 
 XI. Jubilación: Es el retiro del servicio activo otorgado a los servidores públicos del Poder Judicial por haber cumplido la edad y los años de servicio determinados en este acuerdo, para tener derecho a gozar de la pensión complementaria en él regulada. La jubilación puede ser de dos tipos, a saber:
 
@@ -81,9 +85,13 @@ XI. Jubilación: Es el retiro del servicio activo otorgado a los servidores púb
 
 XII. Pensión del ISSSTE: Es la retribución mensual que otorga el ISSSTE a los trabajadores que se jubilen, ya sea forzosa o anticipadamente, la que se concede de conformidad con lo previsto en los artículos 60 a 66 de la Ley del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado vigente en la fecha de firma del presente acuerdo, o bien, de acuerdo con las disposiciones que establezcan una prestación sustituta a la mencionada;
 
-XIII. Pensión Complementaria: Es la retribución mensual vitalicia que se otorga conforme a este Acuerdo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
-XIV. Pensión por jubilación: Es la retribución mensual que se integra con la pensión del ISSSTE más la pensión complementaria;
+XIII. Pensión Complementaria: Es la retribución mensual vitalicia que otorga el Consejo de la Judicatura Federal a aquellos que cumplan con los requisitos que para tal efecto se prevén en este Acuerdo;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+XIV. Pensión total por jubilación: Es la retribución mensual que se integra con la pensión del ISSSTE más la pensión complementaria;
 
 XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, y
 
@@ -103,11 +111,13 @@ Los magistrados de Circuito y jueces de Distrito podrán, en cualquier momento, 
 
 Serán beneficiarios de la pensión complementaria las siguientes personas:
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
-I. El servidor público que se jubile del cargo de magistrado de Circuito o juez de Distrito;
+I. El servidor público que se retire del cargo de Magistrado de Circuito o Juez de Distrito, siempre que se reúnan los requisitos previstos en los artículos 9 y 10 de este Acuerdo;
 
-II. El cónyuge o concubino supérstite del servidor público mencionado en la fracción anterior, que hubiere fallecido ya jubilado, siempre y cuando no contraiga nuevo matrimonio, entre en concubinato o dependa económicamente de otra persona; circunstancias que podrán ser verificadas en cualquier momento por Recursos Humanos, y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+II. El cónyuge o concubina/rio supérstite del servidor público mencionado en la fracción anterior, siempre y cuando no contraiga nuevo matrimonio, entre en concubinato o dependa económicamente de otra persona; circunstancias que podrán ser verificadas en cualquier momento por Servicios al Personal, y
 
 III. Los hijos menores de edad o incapaces de los servidores públicos mencionados en la fracción I de este artículo, hasta cumplir la mayoría de edad, excepto los incapaces.
 
@@ -115,9 +125,13 @@ La cantidad total a que tengan derecho los beneficiarios señalados en las fracc
 
 ## TITULO TERCERO. De la Cuantía de la Pensión por Jubilación
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 4.
 
-La pensión total por jubilación que reciban los servidores públicos, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta el 80% del total de los ingresos netos mensual que correspondan a los mismos funcionarios en activo, sumada a la que otorgue el ISSSTE de acuerdo con su ley.
+La pensión total por jubilación que reciban los servidores públicos, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta el 80% del sueldo pensionable, integrada por la que otorgue el ISSSTE de acuerdo con su ley y la asignada como pensión complementaria.
+
+Todas las pensiones complementarias deberán ser ajustadas anualmente por Servicios al Personal, conforme al incremento que sufra la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
 
 ###### Artículo 5.
 
@@ -127,13 +141,17 @@ Los montos de las pensiones complementarias serán determinados conforme a las r
 
 La Comisión deberá ordenar, al menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinidida (sic) del Plan, teniendo siempre como objetivo, alcanzar el porcentaje establecido en el artículo 4 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 7.
 
-Para calcular cada pensión en particular, el titular de Recursos Humanos deberá considerar el salario pensionable, el cual deberá calcularse a su vez, partiendo de la base del salario neto de cada servidor público en especial y de la pensión que deba recibir del ISSSTE.
+Para calcular cada pensión en particular, el titular de Servicios al Personal deberá considerar el sueldo pensionable de cada servidor público y la pensión que deba recibir del ISSSTE.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 8.
 
-Las pensiones complementarias a que se refiere este acuerdo podrán dejarse de otorgar, o modificarse en cantidad o en el lapso durante el cual se otorgarán, en cualquier momento, por decisión del Pleno, aun cuando se cumplan todas las condiciones que en él se establecen, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
+En relación con las pensiones complementarias a que se refiere este acuerdo podrá negarse su otorgamiento, o bien, respecto de aquellas que se hubieran concedido, podrán dejarse de otorgar o modificarse en cantidad o en el lapso durante el cual se otorgarán, en cualquier momento, por decisión del Pleno, aun cuando se cumplan todas las condiciones que en él se establecen, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
 
 ## TITULO CUARTO. De la Procedencia de la Pensión Complementaria
 
@@ -163,9 +181,13 @@ No procederá el otorgamiento de la pensión complementaria cuando no se reúnan
 
 Los montos de las pensiones complementarias a que se refiere este Acuerdo se sujetarán a lo siguiente:
 
-I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión por jubilación podrá exceder de tal porcentaje;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
-II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua. En los casos en que el funcionario determine su retiro después de los 70 años de edad, se establece una compensación que le permitirá alcanzar con mayor anticipación el total de la pensión. Así, la pensión por jubilación anticipada, deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado el porcentaje que se establece a continuación:
+I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje; y
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua. En los casos en que el funcionario determine su retiro después de los 70 años de edad, se establece una compensación que le permitirá alcanzar con mayor anticipación el total de la pensión. Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación:
 
 1.- A los 65 años de edad y:
 
@@ -321,13 +343,17 @@ La información anterior se representa gráficamente en la siguiente tabla:
 
 (VEASE TABLA ANEXA)
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 14.
 
-La pensión complementaria para los beneficiarios a que se refiere el artículo 3, fracciones II y III, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, podrá ser superior a tal porcentaje.
+La pensión total por jubilación para los beneficiarios a que se refiere el artículo 3, fracciones II y III, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, podrá ser superior a tal porcentaje.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 15.
 
-El Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del Plan, previo estudio actuarial señalando los criterios que haya tomado en cuenta para determinar el incremento.
+No obstante lo previsto en el artículo 4 de este acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del Plan, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
 
 ## TITULO SEXTO. Del Procedimiento de Solicitud de la Pensión Complementaria
 
@@ -335,23 +361,31 @@ El Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y c
 
 Para recibir la pensión complementaria a que se refiere este Acuerdo, será necesario que el beneficiario interesado lo solicite mediante escrito dirigido a la Comisión, el que deberá ser presentado en la Oficina de Correspondencia del Consejo, directamente o por correo certificado.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 17.
 
-Una vez presentada la solicitud de pensión complementaria el titular de Recursos Humanos, dentro de los treinta días siguientes a su recepción, deberá ordenar se recabe la información necesaria y, con base en ella, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada.
+Una vez presentada la solicitud de pensión complementaria el titular de Servicios al Personal, dentro de los treinta días siguientes a su recepción, deberá ordenar se recabe la información necesaria y, con base en ella, elaborar un proyecto de resolución en el que proponga a la Comisión, previo visto bueno del titular de la Contraloría, el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada.
 
 De toda resolución que dicte la Comisión deberá informar al Pleno en la siguiente sesión ordinaria; así como a la Suprema Corte de Justicia de la Nación para su conocimiento.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 18.
 
-Las resoluciones serán firmadas por el Presidente de la Comisión y por el titular de Recursos Humanos.
+Las resoluciones serán firmadas por el Presidente de la Comisión, por el titular de Servicios al Personal y por el Secretario Técnico de la citada comisión, quien autorizará y dará fe de éstas.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 19.
 
-Las resoluciones que determinen sobre la procedencia o no de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los cinco días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución.
+Las resoluciones que determinen sobre la procedencia o no de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los cinco días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución. Asimismo, se deberá remitir una copia certificada de dicha resolución a la Dirección General de Recursos Humanos para que sea agregada al expediente personal respectivo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 20.
 
-Tanto el titular de Recursos Humanos como el de la Contraloría, serán responsables en la determinación de la procedencia y monto de la pensión complementaria.
+Tanto el titular de Servicios al Personal como el de la Contraloría, serán responsables en la determinación de la procedencia y monto de la pensión complementaria.
 
 ## TITULO SEPTIMO. Del Recurso de Reconsideración
 
@@ -377,45 +411,65 @@ En contra de la resolución que decida sobre el recurso de reconsideración no p
 
 ## TITULO OCTAVO. Del Pago de la Pensión Complementaria
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 26.
 
-El derecho a recibir la pensión complementaria se origina a partir de la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
+El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere la fracción I del artículo 3 de este Acuerdo, se origina a partir de la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
 
 El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 20/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2006)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 26 Bis.
 
-En caso de que el beneficiario de la pensión complementaria no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión podrá autorizar el pago anticipado de una cantidad equivalente al cincuenta por ciento de la pensión complementaria que aproximadamente se calcule le habrá de corresponder; este anticipo será con efectos a partir de la fecha de baja en el cargo de magistrado de Circuito o juez de Distrito. Cuando el ISSSTE cuantifique la pensión a su cargo, la Dirección General de Recursos Humanos realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes a favor del jubilado, lo cual deberá informarse a la Comisión.
+En caso de que cualquiera de los beneficiarios de la pensión complementaria, a que se refiere el artículo 3 de este Acuerdo, no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión podrá autorizar el pago anticipado de una cantidad equivalente al cincuenta por ciento de la pensión complementaria que aproximadamente se calcule le habrá de corresponder.
+
+El pago de este anticipo se realizará, según corresponda, conforme a las reglas previstas en los artículos 26 y 27 del presente Acuerdo.
+
+Cuando el ISSSTE cuantifique la pensión a su cargo, Servicios al Personal realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes a favor del beneficiario, lo cual deberá informarse a la Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 27.
 
-Tratándose de los beneficiarios, el pago de la pensión complementaria se realizará a partir de la fecha de fallecimiento del servidor público beneficiado por el Plan.
+Tratándose de los beneficiarios a que se refieren las fracciones II y III del artículo 3 de este acuerdo, el pago de la pensión complementaria se realizará a partir del día siguiente de la fecha de fallecimiento del servidor público beneficiado por el Plan.
 
 En los casos en que el fallecimiento del titular de la pensión complementaria ocurra antes de que transcurra el periodo por el cual ya se hubiese realizado el pago, el excedente será compensado del monto de la pensión que corresponda al beneficiario.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
+El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará de conformidad con lo previsto en el párrafo segundo del artículo 26 del este acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 28.
 
-En caso de fallecimiento de un beneficiario de la pensión, la devolución del excedente que en su caso se hubiera pagado, será resuelta por la Comisión, previo informe que al respecto rinda el titular de Recursos Humanos.
+En caso de fallecimiento de un beneficiario de la pensión complementaria, la devolución del excedente que en su caso se hubiera pagado, será resuelta por la Comisión, previo informe que al respecto rinda el titular de Servicios al Personal.
 
 ###### Artículo 29.
 
 Una vez otorgada la pensión complementaria por la Comisión o el Pleno, en su caso, se girarán instrucciones conducentes al Comité Técnico de Inversión del Fideicomiso respectivo, para que proceda a su pago.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 30.
 
-El titular de Recursos Humanos informará mensualmente a la Comisión de las labores desarrolladas en relación con este acuerdo.
+El titular de Servicios al Personal informará mensualmente a la Comisión de las labores desarrolladas en relación con este acuerdo.
 
 ## TITULO NOVENO. De la Suspensión y Cancelación de la Pensión Complementaria
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 31.
 
-Se suspenderá el pago de la pensión complementaria cuando el servidor público jubilado, o bien, su cónyuge o concubina (o) supérstite que la estuviere recibiendo, por cualquier causa, regresaren al servicio activo en cualquier cargo dentro del Poder Judicial. La suspensión surtirá efectos a partir de la fecha de reinicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario se retire del servicio activo del Poder Judicial, siempre y cuando no reciba alguna otra pensión en el Poder Judicial.
+Se suspenderá el pago de la pensión complementaria, en caso de que cualquiera de los beneficiarios a que se refiere el artículo 3 de este acuerdo, que la estuvieran recibiendo, por cualquier causa, desempeñe un trabajo remunerado que a juicio de la Comisión, con base en el estudio de trabajo social que para tal efecto se practique por Servicios al Personal, sea suficiente para su subsistencia digna. La suspensión surtirá efectos a partir de la fecha de inicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario deje de laborar.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 32.
 
-Se cancelará la pensión complementaria a que se refiere este Acuerdo, cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que Recursos Humanos hubiese incurrido. La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno.
+Se cancelará la pensión complementaria a que se refiere este Acuerdo, cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que Servicios al Personal hubiese incurrido. La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno.
 
 ###### Artículo 33.
 
@@ -462,3 +516,13 @@ SEPTIMO.- Lo dispuesto en el artículo 58 de este Acuerdo será aplicable a los 
 OCTAVO.- La vigencia de lo dispuesto en el último párrafo del artículo 73 de este Acuerdo, comenzará a regir sesenta días después de publicado el presente ordenamiento en el Diario Oficial de la Federación.
 
 NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 28/2005 del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+CUARTO.- Lo dispuesto en el artículo 14 del presente Acuerdo será aplicable a los beneficiarios que presenten su solicitud con posterioridad a la entrada en vigor de este Acuerdo.
