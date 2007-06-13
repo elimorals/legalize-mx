@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1993-12-24"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -63,7 +63,9 @@ I.- TRABAJADORES DE CONFIANZA
 
 A) DEL PODER LEGISLATIVO:
 
-El Oficial Mayor y Asesores.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
+El Oficial Mayor, Tesorero y Directores; Auditor General del Órgano de Fiscalización Superior, así como los Auditores Especiales, los Titulares de las Unidades, Directores Generales, Directores, Subdirectores, Auditores y los demás que señale el Reglamento Interior de dicho Órgano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
@@ -926,3 +928,7 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL SIGUIENTE DIA DE SU PUBLICACION EN EL PE
 P.O. 24 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
