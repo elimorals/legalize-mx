@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2007-02-07"
+last_updated: "2007-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -373,11 +373,11 @@ La Comisión de Coordinación y Régimen Interno dispondrá para sus funciones d
 
 Para el despacho de los asuntos que competen al Congreso, se designarán las Comisiones que señala el Artículo 66 de la Ley Orgánica del Poder Legislativo, las cuales los estudiarán y dictaminarán.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 38.
 
-Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
+Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia del Órgano de Fiscalización Superior se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
@@ -785,9 +785,11 @@ a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así com
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
 ###### Artículo 40.
 
-La Comisión de Vigilancia tiene el carácter de Permanente, se integrará en los términos del Artículo 68 de la Ley Orgánica del Poder Legislativo y tendrá las atribuciones de supervisión y vigilancia que le confieren los Artículos 11 y 12 de la Ley de la Contaduría Mayor de Hacienda del Congreso del Estado.
+La Comisión de Vigilancia tiene el carácter de Permanente, se integrará en los términos del Artículo 68 de la Ley Orgánica del Poder Legislativo y tendrá las atribuciones de supervisión y vigilancia que le confiere la Ley del Órgano de Fiscalización Superior.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1745,7 +1747,7 @@ En las sesiones, tanto del Pleno como de la Diputación Permanente, el President
 
 ###### Artículo 147.
 
-La Directiva nombrará a dos Comisiones integradas por tres diputados cada una para que reciban y despidan respectivamente al Gobernador del Estado, al Gobernador Electo y Gobernador Saliente así como a los otros invitados de honor cuando asistan a una sesión del Pleno del Congreso.
+La Directiva nombrará a dos Comisiones integradas por tres diputados cada una para que reciban y despidan respectivamente al Gobernador del Estado, al Gobernador Electo y Gobernador Saliente así como los otros invitados de honor cuando asistan a una sesión del Pleno del Congreso.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -2140,3 +2142,7 @@ Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los r
 P.O. 7 DE FEBRERO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
