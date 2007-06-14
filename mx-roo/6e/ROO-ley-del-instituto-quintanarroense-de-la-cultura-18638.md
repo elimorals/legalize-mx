@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-quintanarroense-de-la-cultura-18638"
 country: "mx"
 rank: "ley"
 publication_date: "2000-11-21"
-last_updated: "2000-11-21"
+last_updated: "2007-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL INSTITUTO QUINTANARROENSE DE LA CULTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 179, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 21 de noviembre de 2000.
 
@@ -280,3 +282,35 @@ LIC. JOAQUIN ERNESTO HENDRICKS DIAZ
 SECRETARIO DE GOBIERNO
 
 LIC. JOSE N. IRABIEN MEDINA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana, Roo.
+
+SEGUNDO.- La Secretaría de Cultura iniciara sus funciones el día primero de enero de 2008.
+
+El Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal 2008, deberá prever las asignaciones presupuestales que se destinen a la Secretaría de Cultura.
+
+Dentro de los sesenta días siguientes al inicio de las funciones de la Secretaría de Cultura, su titular deberá presentar ante la sociedad quintanarroense el Programa Estatal de Cultura.
+
+TERCERO.- La Ley del Instituto Quintanarroense de la Cultura publicada en el Periódico Oficial del Gobierno del Estado, de fecha 21 de noviembre de 2000, quedará abrogada a partir de la fecha citada en el artículo segundo transitorio anterior, y al igual quedarán derogadas todas las disposiciones que se opongan al presente Decreto
+
+CUARTO.- Se declara la extinción del Organismo público descentralizado denominado "Instituto Quintanarroense de la Cultura", creado mediante la Ley del Instituto Quintanarroense de la Cultura que se abroga.
+
+En el proceso de liquidación del Instituto Quintanarroense de la Cultura, se observarán las siguientes reglas:
+
+1.- La Secretaría de Hacienda establecerá las bases para llevar a cabo la liquidación del Instituto, mediante la debida consolidación en su patrimonio, y se designará al liquidador responsable de ese proceso, confiriéndole las atribuciones inherentes al cargo.
+
+2.- La Secretaría de Cultura se subroga en los derechos y obligaciones contraídos por el Instituto Quintanarroense de la Cultura.
+
+3.-El proceso de liquidación comenzará a partir de la entrada en vigor del presente Decreto.
+
+4.- El proceso de liquidación no deberá afectar en forma alguna los programas y actividades en curso del Instituto Quintanarroense de la Cultura;
+
+5.- Los activos patrimoniales y los bienes a cargo del Instituto Quintanarroense de la Cultura, así como los recursos humanos, serán transferidos a la Secretaría de la Cultura.
+
+6.- Los derechos laborales de los trabajadores del Instituto Quintanarroense de la Cultura serán respetados de conformidad con la legislación laboral aplicable.
+
+QUINTO.- Las referencias que en las diversas disposiciones legales y administrativas se realicen del Instituto Quintanarroense de la Cultura, se entenderán hechas a la Secretaría de Cultura, que se crea mediante el presente Decreto.
