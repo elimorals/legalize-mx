@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2006-05-22"
+last_updated: "2007-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -151,25 +151,33 @@ V.- Secretaría de Desarrollo Económico;
 
 VI. Secretaría de Desarrollo Agropecuario, Rural e Indígena;
 
-VII. Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-VIII. Secretaría de Salud;
+VII. Secretaría de Educación;
 
-IX. Secretaría de Turismo;
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-X. Secretaría de la Contraloría,
+VIII. Secretaría de Cultura;
 
-XI. Oficialía Mayor; y,
+IX. Secretaría de Salud;
 
-XII. Procuraduría General de Justicia del Estado
+X. Secretaría de Turismo;
+
+XI. Secretaría de la Contraloría,
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XII. Oficialía Mayor;
+
+XIII. Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XIV. Secretaría de Infraestructura y Transporte; y
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XIII Secretaría de Infraestructura y Transporte.
-
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XIV. Secretaría de Seguridad Pública.
+XV. Secretaría de Seguridad Pública.
 
 ###### ARTICULO 20.
 
@@ -765,13 +773,19 @@ XXXVII. Cooperar y apoyar, con las dependencias y autoridades federales y munici
 
 XXXVIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 37.
 
-A la Secretaría de Educación y Cultura corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir, difundir y evaluar, las políticas y programas sectoriales de desarrollo en materia de educación, cultura, ciencia, tecnología; recreación, deporte y servicios técnicos para la educación, con base en la Legislación Federal y Estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado y en vinculación con el Sistema Estatal de Planeación; asimismo conducir las relaciones con el Gobierno Federal para la federalización de los servicios y otras actividades conjuntas;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-II. Coordinar, regular y evaluar el Sistema Estatal de Educación, Ciencia, Cultura, Deporte y Recreación; procurando que en su instrumentación, aplicación y supervisión, participen las diferentes unidades de la Dependencia y las entidades del sector, con programas específicos de su competencia, que se vinculen con las metas y objetivos del programa y el sistema Estatal a cargo del Sector;
+I. Formular, instrumentar, conducir, difundir y evaluar, las políticas y programas sectoriales de desarrollo en materia de educación, ciencia, tecnología; recreación, deporte y servicios técnicos para la educación, con base en la Legislación Federal y Estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado y en vinculación con el Sistema Estatal de Planeación; asimismo conducir las relaciones con el Gobierno Federal para la federalización de los servicios y otras actividades conjuntas;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+II. Coordinar, regular y evaluar el Sistema Estatal de Educación, Ciencia, Deporte y Recreación; procurando que en su instrumentación, aplicación y supervisión, participen las diferentes unidades de la Dependencia y las entidades del sector, con programas específicos de su competencia, que se vinculen con las metas y objetivos del programa y el sistema Estatal a cargo del Sector;
 
 III. Ejercer las facultades de coordinación sectorial y regional de la Dependencia, transfiriendo a los órganos desconcentrados y a las entidades paraestatales del sector, la operación de los servicios a cargo de los mismos, asimismo, proporcionarles la asistencia y apoyo técnico que requieran para el funcionamiento de los servicios;
 
@@ -779,9 +793,13 @@ IV. Consolidar y regular los servicios regionales del sector, procurando su vinc
 
 V. Vigilar la observancia del articulo 3o de la Constitución Política de los Estados Unidos Mexicanos y 32 de la Constitución Política del Estado y las disposiciones jurídicas aplicables en materia educativa; asimismo, coordinar, planear, desarrollar, dirigir y supervisar la educación a cargo del Gobierno del Estado y de los particulares en todos los tipos, niveles y modalidades en los términos de la Legislación correspondiente; respecto a la educación pública de la entidad, garantizar en el ámbito de su competencia, el acceso de la población a los servicios educativos sin restricción alguna;
 
-VI. Regular, promover, vigilar y en su caso, sancionar, en coordinación con las entidades sectorizadas, la prestación de los servicios educativos, culturales y deportivos en la entidad, a cargo de los sectores público, social y privado, conforme a la legislación en las materias; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la educación y de la cultura en la Entidad; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en el ámbito de su materia;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-VII. Proponer, elaborar, suscribir y ejecutar los acuerdos o convenios de coordinación que en materia de educación, cultura, deporte y de bienestar social, en los que participe el Estado con los Gobiernos Federal y Municipales, en especial los dirigidos al establecimiento y operación del Sistema Educativo Estatal; así como promover la educación y la cultura con dichos órdenes de Gobierno, mediante la instrumentación de los programas de comunicación educativa del Estado;
+VI. Regular, promover, vigilar y, en su caso, sancionar, en coordinación con las entidades sectorizadas, la prestación de los servicios educativos y deportivos en la entidad, a cargo de los sectores público, social y privado, conforme a la legislación en las materias; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la educación en la Entidad; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en el ámbito de su materia;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+VII. Proponer, elaborar, suscribir y ejecutar los acuerdos o convenios de coordinación que en materia de educación, deporte y de bienestar social, en los que participe el Estado con los Gobiernos Federal y Municipales, en especial los dirigidos al establecimiento y operación del Sistema Educativo Estatal; así como promover la educación con dichos órdenes de Gobierno, mediante la instrumentación de los programas de comunicación educativa del Estado;
 
 VIII. Colaborar con las autoridades Federales en la distribución de los libros de texto gratuito que se otorgan periódicamente a la población escolar del Estado; así como, instrumentar, publicar, difundir y distribuir los textos gratuitos a cargo del Estado, asegurado su oportuna y adecuada distribución y su conservación y empleo para los educandos; asimismo difundir el material relativo a los útiles escolares que deberán emplearse en los planteles;
 
@@ -795,23 +813,35 @@ XII. Asegurar que los programas de educación, ciencia y tecnología que se impa
 
 XIII. Concertar con los sectores productivos de la región y las dependencias involucradas, las acciones, inversiones y recursos destinados a promover la formación de los técnicos, especialistas e infraestructura de educación, investigación y tecnología, que requiera el desarrollo comercial, industrial, turístico, de servicios, agropecuario y pesquero del Estado;
 
-XIV. Procurar, directamente o por conducto de los organismos del sector y en coordinación con las autoridades competentes, que el acervo cultural estatal, las artes populares y los monumentos arqueológicos, artísticos e históricos, contribuyan a consolidar la identidad del Estado;
+XIV. (DEROGADA, P.O. 14 DE JUNIO DE 2007)
 
-XV. En coordinación con las entidades del sector, organizar, administrar, enriquecer y fomentar el establecimiento y uso de bibliotecas, hemerotecas, casas de cultura, museos, centros de investigación y divulgación en el Estado, orientando sus actividades; asimismo, incrementar y mantener actualizado el acervo en estos propios lugares cuando la naturaleza de sus funciones así lo requiera.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XV. En coordinación con las entidades del sector, organizar, administrar, enriquecer y fomentar el establecimiento y uso de bibliotecas, hemerotecas, centros de investigación y divulgación en el Estado, orientando sus actividades; asimismo, incrementar y mantener actualizado el acervo en estos propios lugares cuando la naturaleza de sus funciones así lo requiera;
 
 XVI. Promover las actividades para fortalecer los valores regionales y para afirmar la identidad Nacional, a fin de propiciar la recreación y aprovechamiento del tiempo libre; así como, instrumentar acciones de carácter deportivo, tendientes a estimular la formación integral de la niñez y la juventud del Estado;
 
-XVII. Organizar, con la colaboración de los sectores público, social y privado, campañas de alfabetización, talleres educativos, actividades teatrales, congresos y conferencias en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-XVIII. Instrumentar, fomentar y coordinar programas en el Estado para elevar el índice de escolaridad de la población; asimismo, procurar e impulsar acciones de apoyo pedagógico, de educación especial y de adultos; y de desarrollo cívico y cultural; así como de capacitación actualización y profesionalización magisterial;
+XVII. Organizar, con la colaboración de los sectores público, social y privado, campañas de alfabetización, talleres educativos, congresos y conferencias en el ámbito de su competencia;
 
-XIX. Crear y mantener centros de educación, investigación, cultura, deporte y recreación en el Estado, así como promover y participar en la protección y mantenimiento de la infraestructura educacional y la cultura del Estado;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XVIII. Instrumentar, fomentar y coordinar programas en el Estado para elevar el índice de escolaridad de la población; asimismo, procurar e impulsar acciones de apoyo pedagógico, de educación especial y de adultos; y de desarrollo cívico; así como de capacitación, actualización y profesionalización magisterial;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XIX. Crear y mantener centros de educación, investigación, deporte y recreación en el Estado, así como promover y participar en la protección y mantenimiento de la infraestructura educacional del Estado;
 
 XX. Promover y en su caso otorgar becas para los estudiantes del Estado en sus estudios de nivel básico, medio superior y superior, así como para la realización de investigaciones y proyectos científicos, o para realizar estudios en el extranjero;
 
-XXI. Representar al Gobernador del Estado ante los organismos educativos, científicos, tecnológicos, artísticos y culturales, nacionales o extranjeros; así como promover acuerdos de colaboración con los mismos orientados hacia el desarrollo integral del Estado;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
-XXII. Promover y coordinar la participación del Estado en eventos artísticos, culturales, recreativos o en competencias deportivas, nacionales o regionales, en los niveles individual, familiar y social;
+XXI. Representar al Gobernador del Estado ante los organismos educativos, científicos y tecnológicos, nacionales o extranjeros; así como promover acuerdos de colaboración con los mismos orientados hacia el desarrollo integral del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XXII. Promover y coordinar la participación del Estado en eventos académicos, recreativos o en competencias deportivas, nacionales o regionales, en los niveles individual, familiar y social;
 
 XXIII. Participar, en coordinación con la Oficialía Mayor, en la realización de los actos cívicos que realice el Gobierno del Estado, de acuerdo con el calendario oficial;
 
@@ -823,15 +853,71 @@ XXVI. Organizar, promover y supervisar, en coordinación con las autoridades com
 
 XXVII. Coordinar, normar y evaluar, las acciones de los organismos descentralizados de capacitación para el trabajo y de educación media, superior, tecnológica y universitaria y lo relativo a la Banda de Música del Estado de Quintana Roo;
 
-XXVIII. Instrumentar los programas de educación y cultura vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Rural e Indígena; asimismo, con la participación de las etnias y de los núcleos involucrados;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XXVIII. Instrumentar los programas de educación vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Cultura, de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Rural e Indígena; asimismo, con la participación de las etnias y de los núcleos involucrados;
 
 XXIX. Instrumentar la elaboración de programas de carácter educativo, orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia intrafamiliar; asimismo, coadyuvar con las autoridades u organismos competentes, en la realización de investigaciones sobre este fenómeno, a fin de identificar los problemas reales y potenciales que la generan, que permitan en su caso, diseñar nuevos modelos para su asistencia y prevención;
 
-XXX. Establecer en consulta con las autoridades indígenas reconocidas las instituciones y mecanismos que permitan la preservación, protección y defensa de su cultura, idioma, usos, costumbres y tradiciones;
+XXX. (DEROGADA, P.O. 14 DE JUNIO DE 2007)
 
-XXXI. Administrar los Fondos Mixtos, nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+
+XXXI. Administrar los Fondos Mixtos, nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas, en coordinación con la Secretaría de Cultura; y
 
 XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2007)</small>
+
+ARTICULO 37 BIS,- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+l. Formular, conducir y evaluar las políticas y el Programa Estatal de Cultura, así como los programas anuales de inversión, y coordinar su ejecución, con base en la Legislación Federal y Estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado;
+
+II. Regular, promover, vigilar, y, en su caso, sancionar, en coordinación con las entidades sectorizadas, la prestación de los servicios culturales y artísticos en la entidad, a cargo de los sectores público, social y privado, conforme a la legislación en las materias;
+
+III. Proponer, elaborar, suscribir y ejecutar los acuerdos o convenios de coordinación en materia de cultura en los que participe el Estado, con los Gobiernos Federal y Municipales; así como promover las relaciones de orden cultural y artístico con dichos órdenes de gobierno;
+
+IV. Procurar, directamente o por conducto de los organismos del sector y en coordinación con las autoridades competentes, que el acervo cultural estatal, las artes populares y los monumentos arqueológicos, artísticos e históricos, contribuyan a consolidar la identidad del Estado;
+
+V. En coordinación con las entidades del sector, organizar, administrar, enriquecer y fomentar el establecimiento y uso de casas de cultura, museos, centros de investigación y divulgación, y bibliotecas, orientando sus actividades; asimismo, incrementar y mantener actualizado el acervo en estos propios lugares cuando la naturaleza de sus funciones así lo requiera;
+
+VI. Crear y mantener centros de cultura, y fomentar la creación de espacios destinados a la expresión de las habilidades artísticas, así como promover y participar en la protección y mantenimiento de la infraestructura cultural del Estado;
+
+VII. Promover y, en su caso, otorgar becas culturales y artísticas para los estudiantes del Estado en sus .estudios de nivel básico, medio superior y superior, así como para la realización de investigaciones y proyectos culturales, o para realizar estudios en el extranjero;
+
+VIII. Representar al Gobernador del Estado ante los organismos artísticos y culturales, nacionales o extranjeros; así como promover acuerdos de colaboración con los mismos orientados hacia el desarrollo integral del Estado;
+
+IX. Promover y coordinar la participación del Estado en eventos artísticos y culturales, regionales, nacionales o internacionales, en los niveles institucional, individual, familiar y social;
+
+X. Instrumentar los programas de cultura vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las entidades del sector y con la participación de las etnias y de los núcleos involucrados;
+
+XI. Establecer en consulta con las autoridades indígenas reconocidas las instituciones y mecanismos que permitan la preservación, protección y defensa de su cultura, idioma, usos, costumbres y tradiciones;
+
+XII. Ejecutar, evaluar y dar seguimiento a las políticas culturales para el Estado, coordinando la participación de las Instituciones que tienen atribuciones concurrentes en la preservación, conservación, difusión, rescate y acrecentamiento de los valores culturales de la Entidad;
+
+XIII. Establecer programas de estímulo y financiamiento a las actividades culturales y artísticas, priorizando la creación de fondos financieros para los artistas y creadores intelectuales del Estado, cuyas obras contribuyan al desarrollo cultural y artístico del Estado;
+
+XIV. Obtener el reconocimiento de validez oficial de los estudios que imparta a través de las escuelas de su adscripción, de conformidad a lo dispuesto en la Ley General de Educación y en la Ley de Educación del Estado de Quintana Roo;
+
+XV. Establecer una política que coordine y defina los criterios de su propia labor editorial; proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general, así como las expresiones artísticas, a través de los medios masivos de comunicación;
+
+XVI. Promover y llevar a cabo acciones para la capacitación del personal especializada a su servicio;
+
+XVII. Integrar un acervo de información y documentación que facilite a las autoridades competentes y a la comunidad quintanarroense, la investigación, estudio y análisis de ramas y aspectos específicos de la cultura y las artes;
+
+XVIII. Establecer y vigilar el funcionamiento de escuelas de arte que fomenten la capacitación y profesionalización de los creadores artísticos quintanarroenses, promoviendo la formación de nuevos valores;
+
+XIX. Establecer y procurar, dentro del ámbito de su competencia y de acuerdo a las leyes aplicables, las políticas, normas técnicas y procedimientos constructivos, la conservación, rescate o restauración del patrimonio histórico, cultural y artículo del Estado;
+
+XX. Formular y proponer las declaratorias de bienes que conformen el patrimonio histórico, cultural y artístico del Estado en términos de la Legislación aplicable;
+
+XXI. Organizar, administrar y controlar el Registro Público del Patrimonio Histórico, Cultural y Artístico del Estado de Quintana Roo;
+
+XXII. Integrar el registro y control de los bienes culturales de carácter nacional declarados conforme a las leyes, que se encuentran radicados en el Estado;
+
+XXIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+El titular de la Secretaría de Cultura deberá contar con el perfil académico adecuado y preferentemente estar relacionado en actividades del ámbito cultural.
 
 ###### ARTICULO 38.
 
@@ -1326,3 +1412,33 @@ QUINTO.- La Dirección General del Registro Público de la Propiedad y del Comer
 SEXTO.- La Secretaría de Hacienda contará con un plazo de 30 días para reformar su Reglamento Interior a efecto de que se consideren las atribuciones que le deban corresponder a la Subsecretaría de Ingresos, derivada de su función jerárquica sobre el Registro Público de la Propiedad y del Comercio, mismo plazo tendrá para modificar el Reglamento del Registro Público de la Propiedad y del Comercio.
 
 SÉPTIMO.- Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Cultura iniciará sus funciones el día primero de enero de 2008.
+
+El Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal 2008, deberá prever las asignaciones presupuestales que se destinen a la Secretaría de Cultura.
+
+Dentro de los sesenta días siguientes al inicio de las funciones de la Secretaría de Cultura, su titular deberá presentar ante la sociedad quintanarroense el Programa Estatal de Cultura.
+
+TERCERO.- La Ley del Instituto Quintanarroense de la Cultura publicada en el Periódico Oficial del Gobierno del Estado, de fecha 21 de noviembre de 2000, quedará abrogada a partir de la fecha citada en el artículo segundo transitorio anterior, y al igual quedarán derogadas todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- Se declara la extinción del Organismo público descentralizado denominado "Instituto Quintanarroense de la Cultura", creado mediante la Ley del Instituto Quintanarroense de la Cultura que se abroga.
+
+En el proceso de liquidación del Instituto Quintanarroense de la Cultura, se observarán las siguientes reglas:
+
+1.- La Secretaría de Hacienda establecerá las bases para llevar a cabo la liquidación del Instituto, mediante la debida consolidación de su patrimonio, y se designará al liquidador responsable de ese proceso, confiriéndole las atribuciones inherentes al cargo.
+
+2.- La Secretaría de Cultura se subroga en los derechos y obligaciones contraídos por el Instituto Quintanarroense de la Cultura.
+
+3.- El proceso de liquidación comenzará a partir de la entrada en vigor del presente Decreto.
+
+4.- El proceso de liquidación no deberá afectar en forma alguna los programas y actividades en curso del Instituto Quintanarroense de la Cultura.
+
+5.- Los activos patrimoniales y los bienes a cargo del Instituto Quintanarroense de la Cultura, así como los recursos humanos, serán transferidos a la Secretaría de la Cultura.
+
+6.- Los derechos laborales de los trabajadores del Instituto Quintanarroense de la Cultura serán respetados de conformidad con la legislación laboral aplicable.
+
+QUINTO.- Las referencias que en las diversas disposiciones legales y administrativas se realicen del Instituto Quintanarroense de la Cultura, se entenderán hechas a la Secretaría de Cultura que se crea mediante el presente Decreto.
