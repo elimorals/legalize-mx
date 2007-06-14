@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-05-11"
+last_updated: "2007-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,33 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
+DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2007, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos I y II del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio y en la lista de concesiones de México (Lista LXXVII-México); y en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, y
 
 CONSIDERANDO
 
-Que el Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio fue aprobado por el Senado de la República el 13 de julio de 1994 y el Decreto Promulgatorio fue publicado en el Diario Oficial de la Federación el 30 de diciembre de ese mismo año;
+Que el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, publicada en el Diario Oficial de la Federación el 27 de diciembre de 2006, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
 
-Que en el artículo 4 parte III del Acuerdo sobre la Agricultura de la Organización Mundial del Comercio se establece que México aplicará como parte de sus compromisos de acceso a los mercados, contingentes arancelarios de importación a bienes originarios de los países miembros de Organización Mundial del Comercio, conforme a lo dispuesto en la Lista LXXVII-México Sección I-B, en la que se incluye la leche en polvo o en pastillas;
+Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
 
-Que el Tratado de Libre Comercio de América del Norte aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
+Que durante las consultas con organizaciones de productores e industriales consumidores de maíz, con el Consejo Mexicano para el Desarrollo Rural Sustentable y el Comité Nacional Sistema-Producto Maíz, a que se refiere el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
 
-Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la adopción de medidas que faciliten la importación de maíz amarillo para incrementar el abasto nacional, he tenido a bien expedir el siguiente
 
-Que la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en el artículo décimo transitorio, fracción IV, Disposiciones en materia de importación, producción y comercialización de leche, que implican adecuaciones a los criterios y mecanismos de asignación de las cuotas mínimas libres de arancel acordadas en los tratados de libre comercio;
-
-Que el 23 de enero de 2007 se publicaron en el Diario Oficial de la Federación el Acuerdo por el que se da conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio; así como el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, los cuales es necesario modificar para dar continuidad al abasto complementario de este producto a las empresas que obtuvieron asignación directa de cupos de importación de leche en polvo, como empresas sin antecedentes en 2006;
-
-Que en 2006 se establecieron acciones con los integrantes de la cadena productiva a fin de propiciar las condiciones de mercado que permitieran dar cauce a la colocación de la producción nacional de leche fluida, que presentaba problemas para su comercialización, racionalizando las asignaciones de los cupos de importación de leche en polvo en ese año, y
-
-Que la medida a que se refiere la presente modificación es un instrumento de la política sectorial para complementar el abasto doméstico, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE MODIFICAN DIVERSOS CUPOS PARA IMPORTAR EN 2007 LECHE EN POLVO
+DECRETO
 
 ###### ARTICULO PRIMERO.
 
@@ -66,13 +58,11 @@ En ningún caso, la asignación por beneficiario podrá exceder el total del con
 
 ###### ARTÍCULO ÚNICO.
 
-Se modifican los artículos 10, primer párrafo, y 15, primer párrafo, del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, y sus reformas, para quedar como siguen:
+De conformidad con el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, el arancel-cupo aplicable a la cuota adicional a la mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, comprendidas en la fracción arancelaria 1005.90.03, es el que a continuación se indica:
 
-“ARTÍCULO 10.- La importación de mercancías originarias de América del Norte comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a un arancel de 3.531 centavos de dólar por kilogramo menos 0.05 centavos de dólar por kilogramo por cada grado de polarización inferior a 100 grados (y fracciones de un grado en proporción) pero no inferior que 2.281 centavos de dólar por kilogramo, y estará libre de arancel a partir del 1 de enero de 2008.
+(VEASE ARCHIVO ANEXO)
 
-. . .
-
-. . .
+Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con certificado de cupo expedido por la Secretaría de Economía.
 
 ### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
 
@@ -504,6 +494,6 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 2 de mayo de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.
