@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2005-09-25"
+last_updated: "2007-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -1589,6 +1589,10 @@ VI.- Para el riego agrícola, siempre y cuando los cultivos no sean para consumo
 
 La Comisión promoverá con la participación del Gobierno del estado, los Ayuntamientos, las Instituciones de educación superior y de las Organizaciones no gubernamentales relacionadas con el tema las acciones que inculquen a la sociedad toda, una nueva cultura del cuidado y uso eficiente del agua, su preservación en calidad y cantidad para evitar la contaminación y agotamiento de las fuentes de abastecimiento, así como las relativas al pago del servicio, así como para contribuir a la prevención y control de la contaminación del recurso.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2007)</small>
+
+Artículo 163 BIS.- La Comisión del Agua del Estado de Durango, en conjunto con la Secretaría de Educación del Estado, desarrollará un programa que permita implantar en el sistema estatal de educación, la materia de cultura y uso eficiente del agua en el proceso educativo de educción básica, con la premisa de que el agua es un recurso finito y vulnerable, esencial para sostener la vida, el desarrollo y el medio ambiente de los ciudadanos del Estado.
+
 ###### Artículo 164.
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento deberán conservar y mantener en estado óptimo sus instalaciones hidráulicas para evitar fugas y desperdicios de agua, deberán utilizar aparatos ahorradores de agua que permitan el uso racional y equitativo del agua en los casos, términos y características que determine la presente Ley, su Reglamento y demás disposiciones aplicables.
@@ -2368,3 +2372,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 14 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
