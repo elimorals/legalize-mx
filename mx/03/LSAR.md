@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2005-01-11"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -71,6 +71,12 @@ IV. Empresas Operadoras, a las empresas concesionarias para operar la Base de Da
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
 V. Fondos de Previsión Social, a los fondos de pensiones o jubilaciones de personal, de primas de antigüedad, así como fondos de ahorro establecidos por empresas privadas, dependencias o entidades públicas federales, estatales o municipales o por cualquier otra persona, como una prestación laboral a favor de los trabajadores;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+V bis. Rendimiento Neto, en singular o en plural, a los indicadores que reflejan los rendimientos menos las comisiones, que hayan obtenido los trabajadores por la inversión de sus recursos en las Sociedades de Inversión.
+
+La Junta de Gobierno de la Comisión deberá autorizar la metodología que se establezca para construir los indicadores de Rendimiento Neto, fijando en dicha metodología el periodo para su cálculo;
 
 VI. Institutos de Seguridad Social, a los institutos Mexicano del Seguro Social, del Fondo Nacional de la Vivienda para los Trabajadores, de Seguridad y Servicios Sociales de los Trabajadores del Estado y las instituciones de naturaleza análoga;
 
@@ -150,7 +156,9 @@ X. Actuar como órgano de consulta de las dependencias y entidades públicas, en
 
 XI. Celebrar convenios de asistencia técnica;
 
-XII. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XII. Dictar reglas de carácter general para determinar la forma en que las administradoras deberán remunerar a sus agentes promotores, ya sea que éstos tengan una relación laboral con la administradora, le presten sus servicios a través de terceros, o sean independientes;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -170,13 +178,17 @@ XVI. Las demás que le otorguen ésta u otras leyes.
 
 Los órganos de gobierno de la Comisión serán la Junta de Gobierno, la Presidencia y el Comité Consultivo y de Vigilancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-La Junta de Gobierno estará integrada por el Secretario de Hacienda y Crédito Público, quien la presidirá, el Presidente de la Comisión, dos vicepresidentes de la misma y otros once vocales.
+La Junta de Gobierno estará integrada por el Secretario de Hacienda y Crédito Público, quien la presidirá, el Presidente de la Comisión, dos vicepresidentes de la misma y otros trece vocales.
 
 Dichos vocales serán el Secretario del Trabajo y Previsión Social, el Gobernador del Banco de México, el Subsecretario de Hacienda y Crédito Público, el Director General del Instituto Mexicano del Seguro Social, el Director General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Presidente de la Comisión Nacional Bancaria y de Valores y el Presidente de la Comisión Nacional de Seguros y Fianzas.
 
-Los tres vocales restantes serán designados por el Secretario de Hacienda y Crédito Público debiendo ser dos representantes de las organizaciones nacionales de trabajadores y uno de los correspondientes a los patrones, que formen parte del Comité Consultivo y de Vigilancia y que ostenten la mayor representatividad.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Los cinco vocales restantes serán designados por el Secretario de Hacienda y Crédito Público debiendo ser cuatro representantes de las organizaciones nacionales de trabajadores y uno de los correspondientes a los patrones, que formen parte del Comité Consultivo y de Vigilancia y que ostenten la mayor representatividad.
 
 En ausencia del Secretario de Hacienda y Crédito Público, lo suplirá el Presidente de la Comisión.
 
@@ -238,7 +250,9 @@ Los acuerdos tomados por la Junta de Gobierno serán firmados por el Presidente 
 
 La Junta de Gobierno celebrará sesiones bimestrales, y en cualquier tiempo cuando sean convocadas por su Presidente, o por el Presidente de la Comisión.
 
-Habrá quórum con la presencia de ocho de sus miembros. Las resoluciones se tomarán por mayoría de votos de los presentes. El Presidente de la Junta de Gobierno dirigirá los debates, dará cuenta de los asuntos y tendrá voto de calidad en los casos de empate.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Habrá quórum con la presencia de nueve de sus miembros. Las resoluciones se tomarán por mayoría de votos de los presentes. El Presidente de la Junta de Gobierno dirigirá los debates, dará cuenta de los asuntos y tendrá voto de calidad en los casos de empate.
 
 Los acuerdos de la Junta de Gobierno serán ejecutivos y corresponderá al Presidente de la Comisión, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
 
@@ -694,13 +708,17 @@ La Comisión llevará un registro de los agentes promotores de las administrador
 
 Las administradoras sólo podrán cobrar a los trabajadores con cuenta individual las comisiones con cargo a esas cuentas que establezcan de conformidad con las reglas de carácter general que expida la Comisión.
 
-Las comisiones por administración de las cuentas individuales podrán cobrarse como un porcentaje sobre el valor de los activos administrados, sobre el flujo de las cuotas y aportaciones recibidas o sobre ambos conceptos. Las administradoras sólo podrán cobrar comisiones de cuota fija por los servicios que se señalen en el reglamento de esta ley, y en ningún caso por la administración de las cuentas. A las cuentas individuales inactivas, únicamente les podrán cobrar comisiones sobre su saldo acumulado.
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Para promover un mayor Rendimiento Neto a favor de los trabajadores, las comisiones por administración de las cuentas individuales sólo podrán cobrarse como un porcentaje sobre el valor de los activos administrados. Las administradoras sólo podrán cobrar cuotas fijas por los servicios que se señalen en el reglamento de esta ley, y en ningún caso por la administración de las cuentas.
 
 Las administradoras podrán cobrar comisiones distintas por cada una de las sociedades de inversión que operen.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
-Cada administradora deberá cobrar las comisiones sobre bases uniformes, cobrando las mismas comisiones por servicios similares prestados en sociedades de inversión del mismo tipo, sin discriminar contra trabajador alguno, sin perjuicio de los incentivos que se otorguen a los propios trabajadores por permanencia o por ahorro voluntario. La permanencia se deberá contar a partir de la primera apertura de la cuenta individual del trabajador en cualquier administradora.
+Cada administradora deberá cobrar la comisión sobre bases uniformes, cobrando las mismas comisiones por servicios similares prestados en sociedades de inversión del mismo tipo, sin discriminar contra trabajador alguno, sin perjuicio de los incentivos o bonificaciones que realicen a las subcuentas de las cuentas individuales de los trabajadores por su ahorro voluntario, o por utilizar sistemas informáticos para realizar trámites relacionados con su cuenta individual o recibir información de la misma.
 
 Las administradoras deberán presentar a la Junta de Gobierno de la Comisión su estructura de comisiones para su autorización, la cual, una vez analizada la solicitud, podrá exigir aclaraciones, adecuaciones o en su caso denegar la autorización respectiva si las comisiones sometidas a su autorización son excesivas conforme a los criterios que determine la Junta de Gobierno para los intereses de los trabajadores o se encuentran fuera de los parámetros del mercado. La propia Junta de Gobierno de la Comisión emitirá criterios o recomendaciones sobre el nivel y estructura de las comisiones. Asimismo, la Junta de Gobierno deberá resolver expresamente, fundando y motivando, sobre la autorización solicitada dentro del plazo previsto en el artículo 119 de esta ley.
 
@@ -1236,6 +1254,22 @@ Los funcionarios de primer y segundo nivel de una administradora, no podrán eje
 
 Asimismo, dichos funcionarios no podrán ocupar cargo alguno en cualquier otro intermediario financiero, independientemente de que sea parte del grupo financiero al que, en su caso, pertenezca.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+ARTICULO 66 bis.- La persona designada como director general o su equivalente de una administradora o institución que realice funciones similares, pública o privada, además de cumplir con lo dispuesto en el artículo anterior, deberá tener un perfil profesional y ético conforme a lo siguiente:
+
+I. Ser residente en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación;
+
+II. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;
+
+III. No estar realizando ni haber realizado en los últimos dos años, funciones de regulación de entidades del sistema financiero mexicano;
+
+IV. No haber sido inhabilitado para ejercer el comercio o para desempeñar cargo o comisión en el servicio público o en el sistema financiero mexicano, y no haber sido condenado por delito que amerite privación de la libertad o encontrarse inhabilitado en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
+
+V. No estar desempeñando o haber desempeñado en los últimos dos años previos a su designación, cargo alguno de cualquier índole en partidos o agrupaciones políticas, ni en organizaciones de trabajadores o de patrones o cargos de elección popular.
+
+En el caso de las Administradoras o instituciones que realicen funciones similares de naturaleza pública, el director general o su equivalente, adicionalmente deberá ser ciudadano mexicano.
+
 ###### ARTICULO 67.
 
 Los funcionarios de primer nivel de las administradoras, sociedades de inversión y empresas operadoras, sus contralores, sus gerentes, consejeros, los servidores públicos de la Comisión, los integrantes de la Junta de Gobierno y del Comité Consultivo y de Vigilancia y, en general, cualquier persona que en razón de su cargo o posición tenga acceso a información de las inversiones de los recursos de las cuentas individuales previstas por las leyes de seguridad social, que aún no haya sido divulgada oficialmente al mercado y que por su naturaleza sea capaz de influir en las cotizaciones de los valores de dichas inversiones, deberán guardar estricta reserva respecto de esa información.
@@ -1334,9 +1368,25 @@ Las aportaciones complementarias de retiro sólo podrán retirarse cuando el tra
 
 Las administradoras estarán obligadas a abrir la cuenta individual o a aceptar el traspaso de dicha cuenta, de aquellos trabajadores afiliados que cumpliendo con las disposiciones aplicables, soliciten su apertura de cuenta. En ningún caso podrán hacer discriminación de trabajadores.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
-El traspaso de la cuenta individual de un trabajador afiliado a una administradora diferente a la que opera dicha cuenta, podrá solicitarse una vez transcurrido un año calendario contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora o dichos trabajadores elijan una administradora que cobre comisiones más bajas conforme a los criterios y condiciones que prevea el reglamento de esta Ley. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Los trabajadores tendrán derecho a traspasar su cuenta individual de una administradora a otra una vez transcurrido un año, contado a partir de que el trabajador se registró o de la última ocasión en que haya ejercitado su derecho al traspaso. Podrá hacerlo antes del año, cuando traspase su cuenta individual a una administradora cuyas sociedades de inversión hubieren registrado un mayor Rendimiento Neto, en el período de cálculo inmediato anterior. La Junta de Gobierno determinará el mínimo de diferencia que debe de haber entre los Rendimientos Netos observados para que se pueda ejercer el derecho de traspaso de una administradora a otra.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Los trabajadores que ejerzan su derecho de traspasar su cuenta individual de una administradora a otra que haya registrado un Rendimiento Neto mayor, deberán permanecer al menos doce meses en la última administradora elegida.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Sin perjuicio de lo anterior, la Junta de Gobierno de la Comisión, atendiendo a las circunstancias del mercado, la competencia entre administradoras y otros factores que permitan propiciar las mejores condiciones de competitividad en beneficio de los trabajadores, podrá establecer un plazo menor al del año para que éstos ejerzan su derecho al traspaso.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Asimismo, los trabajadores afiliados podrán traspasar su cuenta individual cuando se modifique el régimen de inversión o de comisiones, o la administradora entre en estado de disolución, o se fusione con otra administradora. En el caso de fusión entre administradoras, el derecho de traspaso sólo corresponderá a los trabajadores afiliados que se encuentren registrados en la administradora fusionada.
 
 El derecho de los trabajadores afiliados para invertir los recursos de su cuenta individual en otra sociedad de inversión, que sea operada por la misma administradora que se encuentre operando dicha cuenta, podrá ser ejercitado en cualquier tiempo, siempre que reúnan los requisitos para invertir en dicha sociedad de inversión.
 
@@ -1418,11 +1468,13 @@ El Instituto Mexicano del Seguro Social, tendrá abierta a su nombre en el Banco
 
 Los recursos depositados en la cuenta concentradora se invertirán en valores o créditos a cargo del Gobierno Federal, y otorgarán el rendimiento que determinará la Secretaría de Hacienda y Crédito Público misma que establecerá las demás características de esta cuenta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 76.
 
-Los recursos de los trabajadores afiliados que no elijan administradora serán enviados a las administradoras que cobren las comisiones más bajas de conformidad con los criterios de la Junta de Gobierno para preservar el equilibrio en los Sistemas de Ahorro para el Retiro, las cuales les deberán abrir una cuenta individual y colocar sus recursos en una sociedad de inversión cuya cartera esté integrada por valores que preserven el valor adquisitivo de los ahorros de los trabajadores, con la periodicidad que determine la Comisión.
+Las cuentas individuales de los trabajadores que no hayan elegido administradora, serán asignados a las administradoras que hayan registrado un mayor Rendimiento Neto, de conformidad con los criterios que para tales efectos determine la Junta de Gobierno.
 
 > <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2005)</small>
 
@@ -1472,7 +1524,9 @@ Para realizar retiros con cargo a la subcuenta de aportaciones voluntarias, los 
 
 Previo consentimiento del trabajador afiliado, el importe de las aportaciones voluntarias podrá transferirse a la subcuenta de vivienda para su aplicación en un crédito de vivienda otorgado a su favor por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Esta transferencia podrá realizarse en cualquier momento aun cuando no haya transcurrido el plazo mínimo para disponer de las aportaciones voluntarias.
 
-En caso de fallecimiento del trabajador, tendrán derecho a disponer de las aportaciones voluntarias y complementarias de retiro depositadas en su cuenta individual, las personas que el titular de la cuenta haya designado para tal efecto y, a falta de éstas, las personas que señale la legislación aplicable en cada caso.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+En caso de fallecimiento del trabajador, tendrán derecho a disponer de los recursos de sus subcuentas de ahorro voluntario de la cuenta individual, las personas que el titular de la cuenta haya designado para tal efecto y, a falta de éstas, las personas que señale la legislación aplicable en cada caso.
 
 El trabajador, o sus beneficiarios, que hayan obtenido una resolución de otorgamiento de pensión o bien, de negativa de pensión, o que por cualquier otra causa tenga el derecho a retirar la totalidad de los recursos de su cuenta individual, podrá optar por que las cantidades depositadas en su subcuenta de aportaciones voluntarias, permanezcan invertidas en las sociedades de inversión operadas por la administradora en la que se encuentre registrado, durante el plazo que considere conveniente. Las aportaciones voluntarias no se utilizarán para financiar las pensiones de los trabajadores, a menos que conste su consentimiento expreso para ello.
 
@@ -2330,6 +2384,10 @@ D.O.F. 28 DE ENERO DE 2004.
 
 D.O.F. 11 DE ENERO DE 2005.
 
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo segundo del artículo 37, párrafos séptimo y octavo del artículo 74 y primer párrafo del artículo 76, que entrarán en vigor nueve meses después a la fecha de publicación del presente Decreto en el Diario Oficial de la Federación.
+
 ###### ARTÍCULO SEGUNDO.
 
 Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Decreto, continuarán en vigor y conservarán plena validez y eficacia jurídica, en lo que no se opongan al presente Decreto.
@@ -2351,3 +2409,17 @@ Las Administradoras que a la fecha de entrada en vigor del presente Decreto ofre
 ###### ARTÍCULO QUINTO.
 
 Los trabajadores, en términos de lo dispuesto por el artículo 74 que se reforma, podrán solicitar el traspaso de su cuenta individual a una Administradora que les cobre comisiones más bajas a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas que a la entrada en vigor del presente Decreto desempeñen el cargo de director general de una administradora deberán en un plazo no mayor de treinta días hábiles manifestar por escrito no encontrarse en el supuesto de la fracción V del artículo 66 bis.
+
+###### ARTÍCULO TERCERO.
+
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión antes de la entrada en vigor del presente Decreto, continuarán en vigor y conservarán plena validez y eficacia jurídica, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En términos del presente Decreto, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional del Sistema de Ahorro para el Retiro, establecerá un programa de difusión para la comprensión de los alcances en materia de la simplificación de las comisiones, el énfasis en rendimiento neto, y el fomento de una cultura de ahorro para el retiro.
