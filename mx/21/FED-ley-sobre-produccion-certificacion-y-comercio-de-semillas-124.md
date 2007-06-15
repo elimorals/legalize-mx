@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-produccion-certificacion-y-comercio-de-semillas-124"
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-15"
-last_updated: "1996-10-25"
+last_updated: "2007-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1991-07-11"
 
 LEY SOBRE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY FEDERAL DE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS, PUBLICADA EN EL D.O.F. DE 15 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de julio de 1991.
 
@@ -73,7 +75,7 @@ VI.- Semillas verificadas: las provenientes de las semillas básicas y registrad
 
 VII.- Materiales transgénicos de alto riesgo: aquellos con capacidad para transferir a otro organismo una molécula o gene recombinatorio con un potencial de alto riesgo por efectos inesperados, debido a sus características de supervivencia, multiplicación y dispersión.
 
-### CAPITULO III. De las Infracciones
+### CAPITULO II. De la Investigación, Certificación, Verificación y Comercio de Semillas
 
 ###### Artículo 4o.
 
@@ -195,7 +197,7 @@ IV.- Las demás funciones que le señalen esta ley y su reglamento.
 
 El Comité podrá desconcentrarse regionalmente, previo acuerdo del titular de la Secretaría, cuando haya justificación y necesidad de establecerse en regiones determinadas.
 
-### CAPITULO II. De la Investigación, Certificación, Verificación y Comercio de Semillas
+### CAPITULO III. De las Infracciones
 
 ###### Artículo 15.
 
@@ -276,3 +278,21 @@ Las variedades vegetales que hayan sido inscritas en el Registro Nacional de Var
 El Instituto Mexicano de la Propiedad Industrial remitirá a la Secretaría, dentro de los seis meses de la entrada en vigor de la presente ley, las solicitudes de los obtentores de variedades vegetales en todos los géneros y especies, que le hayan sido presentadas con anterioridad a la entrada en vigor de este ordenamiento, de conformidad con lo establecido en el artículo Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial publicado en el Diario Oficial de la Federación el 2 de agosto de 1994.
 
 Respecto de las solicitudes de patentes para proteger variedades vegetales que se encuentren en trámite al amparo de la Ley de Fomento y Protección de la Propiedad Industrial, los solicitantes podrán acogerse a los beneficios que otorga este ordenamiento dentro de los seis meses siguientes a su entrada en vigor, mediante petición por escrito presentada ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural. Los derechos adquiridos por las patentes que se hubieren otorgado serán respetados íntegramente.
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas, publicado en el Diario Oficial de la Federación el 26 de mayo de 1993.
+
+TERCERO.- Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que se opongan a la presente Ley. En consecuencia deberá procederse a la liquidación del Organismo Público Descentralizado denominado Productora Nacional de Semillas, conforme a lo siguiente:
+
+a) La Secretaría establecerá las bases para que el proceso de liquidación se lleve a cabo de manera oportuna, eficaz, transparente y con apego a las disposiciones jurídicas aplicables. El proceso de liquidación será vigilado por la propia Secretaría y por la Secretaría de la Función Pública;
+
+b) El Servicio de Administración y Enajenación de Bienes será el liquidador de la Productora Nacional de Semillas;
+
+c) La liquidación de los trabajadores de la Productora Nacional de Semillas se hará respetando sus derechos laborales, conforme a la Ley;
+
+d) El proceso de liquidación no deberá exceder de un año, contado a partir de la entrada en vigor de la presente Ley; y
+
+e) Los bienes que formen parte de la liquidación, serán enajenados prioritariamente a favor de las organizaciones de productores rurales y campesinas, así como a las instituciones de enseñanza agrícola, dedicadas a la producción y comercio de semillas, o bien a aquellos que fueron propietarios de los predios.
