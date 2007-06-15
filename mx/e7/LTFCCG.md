@@ -4,7 +4,7 @@ identifier: "LTFCCG"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2005-02-07"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTFCCG"
 
 LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CREDITO GARANTIZADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -66,9 +66,7 @@ III. La legislación civil de la Entidad Federativa donde se realicen los actos 
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-I. Costo Anual Total. El que, para efectos informativos, anualiza la totalidad de los costos directos inherentes al Crédito Garantizado que otorguen las Entidades, incluyendo los seguros que dichas Entidades exijan contratar y excluyendo las contribuciones federales y locales, así como los costos correspondientes a trámites y servicios prestados por terceros.
+I. (DEROGADA, D.O.F. 15 DE JUNIO DE 2007)
 
 > <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -99,6 +97,8 @@ X. Controlador. Es el valuador profesional que tiene un poder especial para firm
 XI. Unidad de Valuación. Es la persona moral que se encuentra inscrita como tal en la Sociedad Hipotecaria Federal, S.N.C., de acuerdo a las disposiciones que ésta emita.
 
 ### Capítulo II.-. Información Previa
+
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO SEXTO TRANSITORIO DEL DECRETO PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 15 DE JUNIO DE 2007, EL PRESENTE ARTICULO HA SIDO DEROGADO, SIN PERJUICIO DE LO ANTERIOR CONTINUARAN EN VIGOR, RESPECTO DE LA ENTIDAD DE QUE SE TRATE, LAS REGLAS DE CARACTER GENERAL EMITIDAS POR LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO AL AMPARO DE DICHO ARTICULO, HASTA EN TANTO LAS AUTORIDADES QUE RESULTEN COMPETENTES, CONFORME A LO SEÑALADO EN EL ARTICULO 12 DE LA PRESENTE LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, EXPIDAN EN EL AMBITO DE SU RESPECTIVA COMPETENCIA, LAS DISPOSICIONES DE CARACTER GENERAL QUE EN MATERIA DE PUBLICIDAD PREVE ESTA ULTIMA LEY.</small>
 
 ###### Artículo 4.
 
@@ -256,6 +256,8 @@ La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de la
 
 ### Capítulo III.-. Formalización del Crédito Garantizado
 
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO SEXTO TRANSITORIO DEL DECRETO PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 15 DE JUNIO DE 2007, EL PRESENTE ARTICULO HA SIDO DEROGADO, SIN PERJUICIO DE LO ANTERIOR CONTINUARAN EN VIGOR, RESPECTO DE LA ENTIDAD DE QUE SE TRATE, LAS REGLAS DE CARACTER GENERAL EMITIDAS POR LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO AL AMPARO DE DICHO ARTICULO, HASTA EN TANTO LAS AUTORIDADES QUE RESULTEN COMPETENTES, CONFORME A LO SEÑALADO EN EL ARTICULO 11 DE LA PRESENTE LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, EXPIDAN EN EL AMBITO DE SU RESPECTIVA COMPETENCIA, LAS DISPOSICIONES DE CARACTER GENERAL QUE EN MATERIA DE CONTRATOS DE ADHESION PREVE ESTA ULTIMA LEY, EN EL ENTENDIDO DE QUE DICHAS DISPOSICIONES CONTEMPLARAN EL CONTENIDO MINIMO SEÑALADO EN LAS FRACCIONES I A VI DEL REFERIDO ARTICULO 8 PARA LOS CREDITOS GARANTIZADOS A LA VIVIENDA.</small>
+
 ###### Artículo 8.
 
 Los actos jurídicos relativos a los Créditos Garantizados se deberán otorgar en escritura pública, sin importar su cuantía. Con el objeto de procurar la uniformidad de los contratos de Créditos Garantizados, éstos deberán contener un mínimo de cláusulas financieras incluyendo entre otras:
@@ -288,15 +290,15 @@ III. Las demás que prevean las Reglas.
 
 Tasas de Interés e Índices de Referencia.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
-
 ###### Artículo 10.
 
-Con el objeto de que los solicitantes de un crédito puedan llevar a cabo la comparación de las características y conocer los costos directos inherentes a los Créditos Garantizados a la Vivienda, las Entidades deberán incluir dentro de la información previa y en la oferta vinculante un Costo Anual Total para fines de información exclusivamente. El Banco de México y la Secretaría de Economía, actuando para estos efectos como órganos técnicos en el ámbito de sus respectivas competencias, darán a conocer en el Diario Oficial de la Federación, los componentes, metodología de cálculo y periodicidad de Costo Anual Total, los que tendrán carácter informativo para las personas que contraten crédito con las Entidades. Al efecto, dichas Entidades colaborarán proporcionando la información que el Banco de México, y en su caso la Secretaría de Economía, les soliciten.
+(DEROGADO, D.O.F. 15 DE JUNIO DE 2007)
 
 ###### Artículo 11.
 
 La Sociedad Hipotecaria Federal publicará mensualmente en el Diario Oficial de la Federación, información relativa exclusivamente a las condiciones del mercado de Créditos Garantizados con garantía hipotecaria, que le permita a los interesados evaluar las ofertas vinculantes que reciban. Dicha información también tendrá que ser divulgada a través de la página de Internet de la Sociedad Hipotecaria Federal u otros medios electrónicos.
+
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO SEXTO TRANSITORIO DEL DECRETO PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 15 DE JUNIO DE 2007, EL PRESENTE ARTICULO HA SIDO DEROGADO, SIN PERJUICIO DE LO ANTERIOR CUANDO LAS AUTORIDADES QUE RESULTEN COMPETENTES, CONFORME A LO SEÑALADO EN EL ARTICULO 13 DE LA PRESENTE LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, EXPIDAN EN EL AMBITO DE SU RESPECTIVA COMPETENCIA, LAS DISPOSICIONES DE CARACTER GENERAL QUE EN MATERIA DE ESTADOS DE CUENTA PREVE ESTA ULTIMA LEY, DEBERAN INCLUIR EL CALCULO DEL COSTO ANUAL TOTAL QUE CORRESPONDA AL RESTO DE LA VIGENCIA DEL CREDITO GARANTIZADO A LA VIVIENDA.</small>
 
 ###### Artículo 12.
 
@@ -328,7 +330,7 @@ En caso de que un Crédito Garantizado se pague anticipadamente mediante la cont
 
 ###### Artículo 16.
 
-El Banco de México y la Secretaría de Economía, de manera conjunta, y en el ámbito de sus respectivas competencias, podrán regular mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación, las condiciones y las comisiones por pago anticipado de los Créditos Garantizados a la Vivienda a tasa fija.
+(DEROGADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2007)
 
 La comisión que se establezca por pago anticipado en la Subrogación de Acreedor en los Créditos Garantizados a tasa variable, no podrá ser superior al uno por ciento del monto remanente del crédito que falte por amortizar.
 
@@ -373,3 +375,45 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las personas que cuenten actualmente con autorización de perito valuador ante la Sociedad Hipotecaria Federal, S.N.C., contarán con un plazo de tres años, contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación, para obtener la cédula profesional a que se refiere el artículo 3o. fracción IX, pudiendo en el transcurso de dicho plazo fungir como peritos valuadores.
 
 Si concluido el plazo antes señalado, no obtuvieran la cédula profesional en cuestión, la autorización como perito valuador les será cancelado.
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.
+
+###### ARTÍCULO SEXTO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
+I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
+II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
+III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
+IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
