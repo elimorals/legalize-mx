@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-12-2007-del-tribunal-pleno-de-la-suprema-55855"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-06-12"
-last_updated: "2007-06-12"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-05-21"
 
 ACUERDO NUMERO 12/2007, DE VEINTIUNO DE MAYO DE DOS MIL SIETE DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DETERMINA EL LEVANTAMIENTO DE APLAZAMIENTO, Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN LOS ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA QUE REGULAN LA DEDUCCION DEL COSTO DE LO VENDIDO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de junio de 2007.
 
@@ -77,7 +77,9 @@ TERCERO. La remisión de los expedientes a los Tribunales Colegiados de Circuito
 
 TRANSITORIOS:
 
-PRIMERO. Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO POR EL ACUERDO DICTADO EL ONCE DE JUNIO DE DOS MIL SIETE POR EL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PARA MODIFICAR EL TRANSITORIO PRIMERO DEL ACUERDO GENERAL NUMERO 12/2007, EN EL QUE SE DETERMINA EL LEVANTAMIENTO DE APLAZAMIENTO, Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN LOS ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA QUE REGULAN LA DEDUCCION DEL COSTO DE LO VENDIDO, PUBLICADO EL 12 DE JUNIO DE 2007, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+PRIMERO. Este acuerdo entrará en vigor el primero de agosto de dos mil siete.
 
 SEGUNDO. Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
 
@@ -88,3 +90,9 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 12/2007, DE VEINTIUNO DE MAYO DE DOS MIL SIETE DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DETERMINA EL LEVANTAMIENTO DE APLAZAMIENTO, Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN LOS ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA QUE REGULAN LA DEDUCCION DEL COSTO DE LO VENDIDO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el veintiuno de mayo de dos mil siete, por unanimidad de ocho votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veintiuno de mayo de dos mil siete.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de doce fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo Número 12/2007, y se certifica para dar cumplimiento a lo dispuesto en el Punto Tercero Transitorio.- México, Distrito Federal, a veintiuno de mayo de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
