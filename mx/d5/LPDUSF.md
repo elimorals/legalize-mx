@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2006-06-06"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -94,6 +94,10 @@ La protección y defensa que esta Ley encomienda a la Comisión Nacional, tiene 
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrá como finalidad promover, asesorar, proteger y defender los derechos e intereses de los Usuarios frente a las Instituciones Financieras, arbitrar sus diferencias de manera imparcial y proveer a la equidad en las relaciones entre éstos.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+La Comisión Nacional podrá elaborar programas educativos en materia de cultura financiera y proponerlos a las autoridades competentes.
+
 ###### ARTÍCULO 6o.
 
 El Ejecutivo Federal, a través de la Secretaría, podrá interpretar para efectos administrativos los preceptos de esta Ley.
@@ -106,9 +110,21 @@ En lo no previsto por esta Ley, se aplicará supletoriamente, para efectos de la
 
 Esta disposición no será aplicable a las notificaciones y resoluciones dictadas dentro de procesos de conciliación y arbitraje seguidos conforme a lo previsto en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 8o.
 
-La Comisión Nacional, con la información que le proporcionen las autoridades competentes y, en su caso, las Instituciones Financieras, establecerá y mantendrá actualizado un Registro de Prestadores de Servicios Financieros, en los términos y condiciones que señala esta Ley; lo anterior, sin perjuicio de los demás registros que corresponda llevar a otras autoridades.
+La Comisión Nacional, con la información que le proporcionen las autoridades competentes y las Instituciones Financieras, establecerá y mantendrá actualizado un Registro de Prestadores de Servicios Financieros, en los términos y condiciones que señala esta Ley. Lo anterior, sin perjuicio de los demás registros que corresponda llevar a otras autoridades.
+
+Asimismo, la Comisión Nacional establecerá y mantendrá actualizada una Base de Datos de comisiones que le sean reportadas y que comprenderá sólo las comisiones vigentes que efectivamente cobren, misma que se dará a conocer al público en general, por el medio de difusión que la Comisión Nacional considere pertinente.
+
+La Comisión Nacional establecerá y mantendrá actualizado, un Registro de Usuarios que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios.
+
+Queda prohibido a las Instituciones Financieras utilizar información relativa a la base de datos de sus clientes con fines mercadotécnicos o publicitarios, así como enviar publicidad a los clientes que expresamente les hubieren manifestado su voluntad de no recibirla o que estén inscritos en el registro a que se refiere el párrafo anterior. Las Instituciones Financieras que sean objeto de publicidad son corresponsables del manejo de la información de sus Clientes cuando dicha publicidad la envíen a través de terceros.
+
+Los usuarios se podrán inscribir gratuitamente en el Registro Público de Usuarios, a través de los medios que establezca la Comisión Nacional, la cual será consultada por las instituciones de crédito.
+
+Las Instituciones Financieras que incumplan lo dispuesto por el presente artículo, se harán acreedoras a las sanciones que establece esta Ley.
 
 ###### ARTÍCULO 9o.
 
@@ -170,7 +186,9 @@ XIV. Proporcionar información a los Usuarios relacionada con los servicios y pr
 
 XV. Analizar y, en su caso, autorizar, la información dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones Financieras, cuidando en todo momento que la publicidad que éstas utilicen sea dirigida en forma clara, para evitar que la misma pueda dar origen a error o inexactitud;
 
-XVI. Informar al público sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención, así como de aquellas Instituciones Financieras que presentan los niveles más altos de reclamaciones por parte de los Usuarios;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XVI. Informar al público sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención, así como de aquellas Instituciones Financieras que presentan los niveles más altos de reclamaciones por parte de los Usuarios. Esta información podrá incluir la clasificación de Instituciones Financieras en aspectos cualitativos y cuantitativos de sus productos y servicios;
 
 XVII. Orientar y asesorar a las Instituciones Financieras sobre las necesidades de los Usuarios;
 
@@ -202,7 +220,15 @@ XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de
 
 XXVI. Asistir al Usuario que pretenda coadyuvar con el Ministerio Público, cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones Financieras, sus consejeros, directivos, funcionarios, empleados o representantes;
 
-XXVII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XXVII. Publicar en la página electrónica de la Comisión Nacional la información relativa a las comisiones que cobra cada (sic) Instituciones Financieras, mismas que éstas previamente presentaron ante la Comisión y vigilar la evolución de las comisiones o cargos máximos y mínimos causados por las operaciones y servicios que presten las Instituciones Financieras para darlos a conocer al público en general.
+
+La Comisión Nacional Publicará las comisiones más representativas o de relevancia a través de cuadros comparativos de carácter trimestral en medios masivos de comunicación;
+
+> <small>(ADICIONADA[N. DE E. REUBICADA], D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XXVIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
 
 ###### ARTÍCULO 12.
 
@@ -572,9 +598,11 @@ Con objeto de crear y fomentar entre los Usuarios una cultura adecuada del uso d
 
 A efecto de cumplir con el objetivo señalado en el artículo anterior, la Comisión Nacional podrá solicitar a las Instituciones Financieras, la información referente a las características generales de los distintos productos, tasas de interés y, en general, sobre los servicios que se ofrecen a los Usuarios.
 
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 53.
 
-Las Instituciones Financieras que se nieguen a proporcionar la información que les solicite la Comisión Nacional para el cumplimiento de su objeto, se harán acreedoras a las sanciones que establece esta Ley.
+Las Instituciones Financieras deberán proporcionar la información que les solicite la Comisión Nacional, para el cumplimiento de su objeto en los términos y plazos que ésta señale, en caso contrario, se harán acreedoras a las sanciones que establece esta Ley.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -605,6 +633,24 @@ De igual forma, la Comisión Nacional podrá ordenar a las Instituciones Financi
 ###### ARTÍCULO 59.
 
 Asimismo, la Comisión Nacional revisará y, en su caso, propondrá modificaciones a los documentos que se utilicen para informar a los Usuarios sobre el estado que guardan las operaciones relacionadas con el servicio que éste haya contratado con las Instituciones Financieras, en términos de lo dispuesto por la fracción XIX del artículo 11 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 59
+
+Bis.- Independientemente de las atribuciones que le confieren los artículos 56, 57, 58 y 59 de esta Ley a la Comisión Nacional, en caso de que de la revisión que efectúe de contratos de adhesión, los documentos que se utilicen para informar a los Usuarios sobre el estado que guarda la operación o servicio que éste haya contratado con las Instituciones Financieras, así como la publicidad que emitan éstas, se desprenda que éstos no se ajustan a los ordenamientos correspondientes y las disposiciones emitidas conforme a ellos, la Comisión Nacional deberá de hacer del conocimiento de las Comisiones Nacionales competentes, dicha situación y adjuntar los elementos de que disponga.
+
+Cuando derivado de las reclamaciones presentadas por los usuarios de servicios financieros, la Comisión Nacional detecte deficiencia de alguna operación o servicio financiero, lo hará del conocimiento de la Comisión Nacional supervisora correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+###### ARTÍCULO 59 Bis 1.
+
+La Comisión Nacional podrá realizar todas las acciones necesarias para tratar de resolver las controversias que se le plantean, antes de iniciar con los Procedimientos previstos en el Título Quinto de esta Ley, para lo cual gestionará ante las Instituciones Financieras los asuntos de los usuarios, usando para ello cualquier medio de comunicación y proponiendo soluciones concretas a fin de lograr un arreglo pronto entre las partes.
+
+De haberse logrado un arreglo entre el Usuario y la Institución Financiera, la Comisión Nacional deberá asentar en un acuerdo los compromisos adquiridos, y dejando constancia en el mismo que la Institución Financiera acreditó el cumplimiento a lo acordado.
+
+En caso contrario, el usuario podrá presentar su reclamación, en términos de lo previsto por el artículo 63 de esta Ley.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
 
@@ -684,13 +730,9 @@ Tratándose de instituciones de fianzas, deberá citarse al fiado en el domicili
 
 La Comisión Nacional, deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas:
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
 
-I. Si las circunstancias del caso lo permiten, antes de citar a las partes a audiencia, se intentará la conciliación inmediata por cualquier medio, y en caso de alcanzar un acuerdo, será necesario que se confirmen por escrito los compromisos adquiridos.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2005)</small>
-
-De no lograrse la conciliación inmediata, la Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación.
+I.- La Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -700,11 +742,17 @@ II. La Institución Financiera deberá, por conducto de un representante, rendir
 
 III. En el informe señalado en la fracción anterior, la Institución Financiera, deberá responder de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+La institución financiera deberá acompañar al informe, la documentación, información y todos los elementos que considere pertinentes para sustentarlo, no obstante, la Comisión Nacional podrá en todo momento, requerir a la institución financiera la entrega de cualquier información, documentación o medios electromagnéticos que requiera con motivo de la reclamación y del informe;
+
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
 IV. La falta de presentación del informe, no podrá ser causa para suspender o diferir la audiencia referida y ésta deberá darse por concluida el día señalado para su celebración, salvo que por cualquier circunstancia, a juicio de la Comisión Nacional no pueda celebrarse en la fecha indicada, caso en el cual se deberá verificar dentro de los cinco días hábiles siguientes;
 
-V. La falta de presentación del informe a que se refiere el párrafo anterior hará tener por cierto lo manifestado por el Usuario, independientemente de las sanciones a que haya lugar de conformidad con lo señalado en esta Ley;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+V. La falta de presentación del informe a que se refiere el párrafo anterior dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del usuario con base en los elementos con que cuente, y para los efectos de la emisión del dictamen técnico en su caso a que se refiere la fracción VII siguiente;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1022,17 +1070,21 @@ b) El informe a que se refieren las fracciones II y III del artículo 68, o no l
 
 c) La información adicional a que se refiere la fracción VI del artículo 68.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
 
-IV. Multa de 500 a 2000 días de salario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley;
+IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea superior al monto antes señalado, la sanción será de diez mil unidades de inversión;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
 V. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo dispuesto por la fracción IX del artículo 68 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 2007)</small>
 
-VI. Multa de 500 a 3000 días de salario, a la Institución Financiera que no registre el pasivo contingente o no constituya la reserva específica para obligaciones pendientes de cumplir a que se refieren los artículos 68 fracción X y 70 de esta Ley;
+VI. Multa de 250 a 3000 días de salario, a la Institución Financiera:
+
+a) Que no registre o no constituya en tiempo el pasivo contingente o no constituya la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley;
+
+b) Que no acredite o no acredite en tiempo haber registrado el pasivo contingente o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
@@ -1040,11 +1092,31 @@ VII. Multa de 100 a 1000 días de salario, a la Institución Financiera que no c
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
-VIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo previsto en el artículo 50 Bis de esta Ley; y
+VIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo previsto en el artículo 50 Bis de esta Ley; y (sic)
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
 
-IX. La multa a que se refiere el artículo 84 de esta Ley.
+IX. La multa a que se refiere el artículo 84 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+X. Multa de 500 a 2000 días de salario, a la Institución Financiera que utilice con los Usuarios cualesquier contrato de adhesión que no esté inscrito en el Registro Público de Contratos de Adhesión de las Instituciones Financieras, previsto en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XI. Multa de 500 a 2000 días de salario, a la Institución Financiera que cobre cualquier comisión que no se haya reportado a la Comisión Nacional para su inserción en la Base de Datos de las Comisiones que cobren las Instituciones Financieras, prevista en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XII. Multa de 250 a 2000 días de salario, a la persona que envíe cualesquier publicidad relativa a los productos y servicios que ofrezca una Institución Financiera a aquellos Usuarios que expresamente hayan solicitado que no se les envíe dicha publicidad, que asimismo hayan pedido no ser molestados en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerles bienes, productos o servicios o que estén inscritos en el Registro Público de Usuarios que no Deseen que su Información sea Utilizada para Fines Mercadotécnicos o Publicitarios, previsto en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+XIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que celebre cualquier convenio por el que se prohíba o de cualquier manera se restrinja a los Usuarios celebrar operaciones o contratar con otra Institución Financiera.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+Las Instituciones Financieras que sean objeto de publicidad serán acreedoras a la misma sanción.
 
 En caso de reincidencia, de conformidad con lo señalado por el artículo siguiente, la Comisión Nacional podrá sancionar a las Instituciones Financieras con multa de hasta el doble de la originalmente impuesta.
 
@@ -1183,3 +1255,45 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 D.O.F. 6 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.
+
+###### ARTÍCULO SEXTO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
+I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
+II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
+III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
+IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
