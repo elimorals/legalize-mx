@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-05-25"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2848,7 +2848,9 @@ V. En materia de hacienda pública municipal:
 
 1. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano de funciones de control y evaluación del gasto público municipal.
 
-2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 30 de noviembre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2007)</small>
+
+2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 31 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal.
 
 3. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga.
 
@@ -2860,7 +2862,9 @@ V. En materia de hacienda pública municipal:
 
 7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, integrada por los informes trimestrales de origen y aplicación de los recursos públicos, mismos que deberán ser presentados dentro de los quince días siguientes al término del trimestre que corresponda; asimismo verificar la presentación de la cuenta pública del sector paramunicipal.
 
-8. Proponer al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2007)</small>
+
+8. Proponer al Congreso del Estado, a más tardar el 31 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva.
 
 9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo.
 
@@ -3991,3 +3995,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, se presentará ante el Congreso Local, las reformas a los ordenamientos aplicables, a efecto de hacer efectiva la aplicación de lo dispuesto en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
