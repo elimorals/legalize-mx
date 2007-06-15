@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-transparencia-y-ordenamiento-de-los-servicios-35961
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-26"
-last_updated: "2004-01-26"
+last_updated: "2007-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LTOSF"
 
 LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL DECRETO PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 15 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de enero de 2004.
 
@@ -199,3 +201,47 @@ Artículo Único.- La presente Ley entrará en vigor a los 180 días siguientes 
 México, D.F., a 22 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.
+
+###### ARTÍCULO SEXTO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
+I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
+II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
+III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
+IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
