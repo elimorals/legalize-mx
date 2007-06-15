@@ -1,0 +1,677 @@
+---
+title: "LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS"
+identifier: "LTOSF"
+country: "mx"
+rank: "ley"
+publication_date: "2007-06-15"
+last_updated: "2007-06-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55887&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "55887"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "11 PRIMERA SECCION"
+reform_count: "6"
+scjn_last_update: "2025-11-14"
+issue_date: "2007-06-12"
+abbreviation: "LTOSF"
+---
+# LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2007.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+
+DECRETO
+
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+
+.
+
+###### ARTÍCULO PRIMERO.
+
+Se expide la siguiente:
+
+LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS
+
+### Capítulo I.- Disposiciones Generales
+
+###### Artículo 1.
+
+La presente Ley es del orden federal y sus disposiciones son de orden público y de interés social. Tiene por objeto regular las Comisiones y Cuotas de Intercambio así como otros aspectos relacionados con los servicios financieros y el otorgamiento de créditos de cualquier naturaleza que realicen las Entidades, con el fin de garantizar la transparencia, la eficiencia del sistema de pagos y proteger los intereses del público.
+
+###### Artículo 2.
+
+Son de aplicación supletoria a la presente Ley, según el tipo de Entidad de que se trate, los ordenamientos que a continuación se indican:
+
+I. La Ley de Instituciones de Crédito;
+
+II. La Ley de Ahorro y Crédito Popular;
+
+III. La Ley General de Organizaciones y Actividades Auxiliares del Crédito;
+
+IV. La Ley del Banco de México;
+
+V. Ley de Protección y Defensa al Usuario de Servicios Financieros;
+
+VI. La Ley Federal de Protección al Consumidor;
+
+VII. El Código de Comercio;
+
+VIII. El Código Civil Federal, y
+
+IX. Los usos y prácticas bancarios y mercantiles.
+
+###### Artículo 3.
+
+Para los efectos de la presente Ley, en singular o plural se entenderá por:
+
+I. Autoridades: al Banco de México, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor;
+
+II. Cámara de Compensación: a la entidad central o mecanismo de procesamiento centralizado, por medio del cual se intercambian instrucciones de pago u otras obligaciones financieras;
+
+III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de servicios con una Entidad Financiera, recibe algún crédito, préstamo o financiamiento de alguna Entidad Comercial o utiliza los Medios de Disposición emitidos por cualquier Entidad;
+
+IV. Comisión: a cualquier cargo, independientemente de su denominación o modalidad, que una Entidad cobre a un Cliente. Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales y de sociedades financieras de objeto múltiple no reguladas, se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición;
+
+V. Contrato de Adhesión: al documento elaborado unilateralmente por las Entidades para establecer en formatos uniformes los términos y condiciones aplicables a la celebración de las operaciones que lleven a cabo con sus Clientes. Tratándose de Entidades Financieras, se considerarán las operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales y de sociedades financieras de objeto múltiple no reguladas, se considerarán las operaciones de crédito, préstamos o financiamientos;
+
+VI. CAT: al costo anual total de financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos, préstamos o financiamientos que otorgan las Entidades;
+
+VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan entre sí, directa o indirectamente, por el uso de cualquier Medio de Disposición en la infraestructura de pagos instalada por alguna Entidad distinta a la que proporciona o emite el Medio de Disposición;
+
+VIII. Entidades: a las Entidades Financieras, a las Entidades Comerciales, y a las sociedades financieras de objeto múltiple no reguladas, conjuntamente;
+
+IX. Entidad Financiera: a las instituciones de crédito, a las sociedades financieras de objeto limitado, a las sociedades financieras de objeto múltiple reguladas y a las entidades de ahorro y crédito popular y a las entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público;
+
+X. Entidad Comercial: a las sociedades que de manera habitual otorguen créditos, préstamos o financiamientos al público;
+
+XI. Medio de Disposición: a las tarjetas de débito asociadas a depósitos bancarios de dinero a la vista, a las tarjetas de crédito emitidas al amparo de un contrato de apertura de crédito, a los cheques, a las órdenes de transferencia de fondos incluyendo el servicio conocido como domiciliación, así como aquellos otros que el Banco de México reconozca mediante disposiciones de carácter general, y
+
+XII. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos.
+
+### Capítulo II.- De las Comisiones y Cuotas de Intercambio
+
+###### Artículo 4.
+
+Para los fines previstos en el artículo 1 de esta Ley, el Banco de México estará facultado para emitir disposiciones de carácter general para regular las tasas de interés, Comisiones y pagos anticipados de las operaciones que realicen con sus Clientes, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas, así como para regular Cuotas de Intercambio tratándose de Entidades.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Comisión Nacional Bancaria y de Valores, la Secretaría de Hacienda y Crédito Público, las instituciones de crédito, las sociedades financieras de objeto limitado o las sociedades financieras de objeto múltiple reguladas, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia, respecto de operaciones activas, pasivas y de servicios de las citadas entidades.
+
+Al efecto, el Banco de México podrá también actuar de oficio, y deberá solicitar la opinión de la Comisión Federal de Competencia para que ésta, en un plazo no menor a treinta días y no mayor a sesenta días naturales posteriores a su solicitud, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva y los mercados relevantes respectivos.
+
+Con base en la opinión de la citada dependencia, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas Comisiones y Tasas de Interés, así como mecanismos de ajuste y períodos de vigencia.
+
+El Banco de México o las entidades sujetas a dicha regulación, podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
+
+Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones de crédito que infrinjan lo dispuesto en este precepto.
+
+Lo previsto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de la Ley de Instituciones de Crédito, así como las previstas en la Ley del Banco de México; ni limita que la Comisión Federal de Competencia pueda, en términos de la Ley Federal de Competencia Económica, evaluar directamente si existen o no condiciones razonables de competencia.
+
+###### Artículo 5.
+
+Las Entidades que operen cajeros automáticos deberán informar en las pantallas de éstos las Comisiones que cobran por su uso, así como obtener el previo consentimiento de los Clientes para el cobro de tales Comisiones.
+
+###### Artículo 6.
+
+Las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas, deberán registrar ante el Banco de México las Comisiones que cobran por los servicios de pago y créditos que ofrecen al público, así como sus respectivas modificaciones. Dicho registro se realizará con al menos treinta días naturales de anticipación a su entrada en vigor para nuevas Comisiones o cuando impliquen un incremento.
+
+Para el caso de reducción del monto de dichas Comisiones, el registro deberá realizarse con al menos dos días naturales de anticipación a su entrada en vigor.
+
+Lo anterior lo deberán efectuar en la forma y términos que el propio Banco de México señale en las disposiciones de carácter general.
+
+El Banco de México tendrá la facultad de formular observaciones a la aplicación de dichas Comisiones cuando impliquen un incremento, dentro de los quince días hábiles siguientes a aquél en que las citadas entidades financieras las hagan de su conocimiento. Antes de ejercer la citada facultad el Banco de México escuchará a la entidad de que se trate. El Banco de México hará públicas las observaciones que en su caso formule conforme a este párrafo. De no existir observaciones, las Comisiones entrarán en vigor
+
+Las atribuciones conferidas al Banco de México en los párrafos anteriores del presente artículo, se entenderán otorgadas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros respecto de las sociedades financieras de objeto múltiple no reguladas.
+
+###### Artículo 7.
+
+Las Entidades deberán contar en sus sucursales o establecimientos con información actualizada relativa a los montos, conceptos y periodicidad de las Comisiones en carteles, listas y folletos visibles de forma ostensible, y permitir que aquélla se obtenga a través de un medio electrónico ubicado en dichas sucursales o establecimientos, a fin de que cualquier persona que la solicite esté en posibilidad de consultarla gratuitamente, y cuando cuenten con página electrónica en la red mundial "Internet", mantener en ésta dicha información.
+
+Las Entidades, a través de los medios que pacten con sus Clientes, deberán darles a conocer los incrementos al importe de las Comisiones, así como las nuevas Comisiones que pretendan cobrar, por lo menos, con treinta días naturales de anticipación a la fecha prevista para que éstas surtan efectos. Sin perjuicio de lo anterior, los Clientes en los términos que establezcan los contratos, tendrán derecho a dar por terminada la prestación de los servicios que les otorguen las Entidades en caso de no estar de acuerdo con los nuevos montos, sin que la Entidad pueda cobrarle cantidad adicional alguna por este hecho, con excepción de los adeudos que ya se hubieren generado a la fecha en que el Cliente solicite dar por terminado el servicio.
+
+El incumplimiento a lo previsto en el párrafo anterior, tendrá como consecuencia la nulidad de la Comisión, con independencia de las sanciones que en su caso procedan.
+
+### Capítulo III.- De la transparencia en relación con los Medios de Disposición y en el otorgamiento de créditos, préstamos y financiamientos.
+
+###### Artículo 8.
+
+El Banco de México establecerá a través de disposiciones de carácter general, la fórmula, los componentes y la metodología de cálculo del CAT, en relación con los créditos, préstamos o financiamientos que otorguen las Entidades. En dichas disposiciones el Banco de México establecerá los tipos y montos de los créditos, préstamos o financiamientos a los que será aplicable el CAT.
+
+###### Artículo 9.
+
+Las tasas de interés ordinarias y moratorias que aparezcan en los documentos que instrumenten los créditos, préstamos y financiamientos que otorguen las Entidades, así como las que se mencionen en los estados de cuenta, deberán expresarse en términos anuales, así como resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+
+Cuando las Entidades pacten una tasa de referencia en sus operaciones de crédito, préstamo o financiamiento, deberán pactar una o más tasas de referencia sustitutivas, para el evento de que deje de existir la tasa de referencia originalmente pactada, debiendo convenir el orden en que, en su caso, dichas tasas de referencia sustituirían a la originalmente pactada.
+
+###### Artículo 10.
+
+En los créditos, préstamos o financiamientos que las Entidades otorguen, el pago de los intereses no podrá ser exigido por adelantado, sino únicamente por períodos vencidos, sin perjuicio de ajustarse a la legislación mercantil aplicable. El Banco de México mediante disposiciones de carácter general determinará los montos y tipos de los créditos, préstamos y financiamientos a los que les será aplicable este artículo, de los cuales las Entidades estarán obligadas a informar a sus clientes al momento de pactar los términos del crédito.
+
+###### Artículo 11.
+
+Los Contratos de Adhesión que utilicen las Entidades Financieras deberán cumplir con los requisitos que mediante disposiciones de carácter general establezca la Comisión Nacional Bancaria y de Valores, previa opinión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+
+Los Contratos de Adhesión que empleen las Entidades Comerciales y las sociedades financieras de objeto múltiple no reguladas, deberán cumplir con los requisitos que mediante disposiciones de carácter general establezcan la Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias.
+
+Las disposiciones mencionadas en los párrafos anteriores deberán considerar los aspectos siguientes:
+
+I. Los sanos usos y prácticas bancarias y comerciales, según corresponda, relacionadas con la operación o servicio;
+
+II. La utilización de formatos que faciliten la lectura y comprensión del contenido obligacional de los contratos;
+
+III. Las bases para dejar claramente establecidas las características, términos y condiciones del servicio;
+
+IV. Los procedimientos de notificación y bases para la aceptación por parte de los Clientes de las modificaciones a los Contratos de Adhesión mediante las cuales tengan contratados operaciones o servicios;
+
+V. El procedimiento a seguirse para la cancelación del servicio, y
+
+VI. Los conceptos de cobro y sus montos.
+
+Adicionalmente, la Comisión Nacional Bancaria y de Valores señalará los tipos de Contratos de Adhesión que documenten las operaciones o servicios que celebren las Entidades Financieras, que requieran autorización previa de la citada Comisión.
+
+Las Entidades Financieras y las sociedades financieras de objeto múltiple no reguladas, deberán remitir a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, los modelos de Contratos de Adhesión, a efecto de que ésta integre un Registro de Contratos de Adhesión para consulta del público en general.
+
+La Comisión Nacional Bancaria y de Valores de oficio o a petición de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Procuraduría Federal del Consumidor, y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus competencias, revisarán los modelos de Contrato de Adhesión para verificar que éstos se ajusten a lo previsto en las disposiciones emitidas conforme a este precepto.
+
+Asimismo, las referidas Comisión Nacional Bancaria y de Valores, Procuraduría Federal del Consumidor y Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus competencias, podrán ordenar que se modifiquen los modelos de Contratos de Adhesión a fin de adecuarlos a las leyes y otras disposiciones aplicables y, en su caso, suspender su uso respecto de nuevas operaciones hasta en tanto sean modificados.
+
+Todo Contrato de Adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español.
+
+Los modelos de Contratos de Adhesión deberán contener las Comisiones que la Entidad cobre. Se prohíbe que dichas entidades carguen o cobren Comisiones que no estén previstas en los Contratos de Adhesión o se modifiquen en contravención a esta Ley. Toda modificación a las Comisiones, cuando resulte aplicable, deberá registrarse en términos del artículo 6 de esta Ley.
+
+###### Artículo 12.
+
+Las Entidades Financieras se ajustarán a las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores, en las que establezca la forma y términos que deberá cumplir la publicidad relativa a las características de sus operaciones activas, pasivas y de servicios. Para la expedición de las referidas disposiciones, la citada dependencia escuchará la opinión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+
+La Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias, expedirán disposiciones de carácter general en las que regulen lo establecido en el párrafo anterior para los créditos, préstamos o financiamientos y Medios de Disposición que emitan u otorguen las Entidades Comerciales y las sociedades financieras de objeto múltiple no reguladas.
+
+Las disposiciones de carácter general a que se refiere este artículo, deberán considerar los aspectos siguientes:
+
+I. La veracidad y precisión de la información relacionada con los productos o servicios ofrecidos;
+
+II. Que no contengan elementos de competencia desleal;
+
+III. Transparencia en las características y, en su caso, riesgos inherentes al producto o servicio;
+
+IV. La formación de cultura financiera entre el público en general;
+
+V. Puntos de contacto para información adicional, y
+
+VI. Los mecanismos para que las Entidades den a conocer al público en general, las comisiones que cobran.
+
+La Comisión Nacional Bancaria y de Valores, de oficio o a solicitud de la Comisión Nacional para Protección y Defensa de los Usuarios de Servicios Financieros, podrá ordenar la suspensión de la publicidad que realicen las Entidades Financieras, cuando a su juicio ésta implique inexactitud, o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios, o bien, no se ajuste a lo previsto en este artículo, así como en las disposiciones de carácter general que con base en este precepto se emitan.
+
+La Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias, podrán ordenar la suspensión de la publicidad que realicen las Entidades Comerciales o las sociedades financieras de objeto múltiple no reguladas, en los términos a que se refiere el párrafo anterior.
+
+###### Artículo 13.
+
+Las Entidades Financieras deberán enviar al domicilio que señalen los Clientes en los contratos respectivos o al que posteriormente indiquen, el estado de cuenta correspondiente a las operaciones y servicios con ellas contratadas, el cual será gratuito para Cliente.
+
+Las Entidades Comerciales y las sociedades financieras de objeto múltiple no reguladas, deberán cumplir con la obligación prevista en el primer párrafo de este artículo, respecto de los créditos, préstamos y financiamientos u operaciones con Medios de Disposición con ellas contratadas.
+
+Los Clientes podrán pactar con las Entidades para que en sustitución de la obligación referida, pueda consultarse el citado estado de cuenta a través de cualquier medio que al efecto se acuerde entre ambas partes.
+
+Los mencionados estados de cuenta, así como los comprobantes de operación, deberán cumplir con los requisitos que para Entidades Financieras establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general, previa opinión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; para Entidades Comerciales, los que establezca la Procuraduría Federal del Consumidor, igualmente mediante disposiciones de carácter general, y para sociedades financieras de objeto múltiple no reguladas, las que asimismo emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, respectivamente.
+
+Las citadas disposiciones de carácter general, podrán considerar los aspectos siguientes:
+
+I. Claridad en la presentación de la información contenida en los estados de cuenta y en los comprobantes de operaciones, que permita conocer la situación que guardan las transacciones efectuadas por el Cliente en un periodo previamente acordado entre las partes;
+
+II. La base para incorporar en los estados de cuenta y comprobantes de operación, las Comisiones y demás conceptos que la Entidad cobre al Cliente por la prestación del servicio u operación de que se trate, así como otras características del servicio;
+
+III. La información que deberán contener para permitir la comparación de las Comisiones aplicadas en operaciones afines;
+
+IV. Tratándose de Entidades Financieras y sociedades financieras de objeto múltiple no reguladas, deberán contener los datos de localización y contacto con la unidad especializada que en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros deben mantener, para efectos de aclaraciones o reclamaciones vinculadas con el servicio o producto de que se trate, así como los plazos para presentarlas. Tratándose de Entidades Comerciales, deberán contener, al menos, los números telefónicos de servicios al consumidor para los efectos antes señalados, y
+
+V. Las demás que las autoridades competentes determinen, en términos de las disposiciones aplicables.
+
+La Comisión Nacional Bancaria y de Valores, de oficio o a solicitud de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrá ordenar modificaciones a los estados de cuenta que expidan las Entidades Financieras, cuando éstos no se ajusten a lo previsto en las fracciones I, II, III y IV de este artículo o en las disposiciones de carácter general que del propio precepto emanen.
+
+La Procuraduría Federal del Consumidor, así como la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias, podrán ordenar modificaciones a los estados de cuenta que expidan las Entidades Comerciales o las sociedades financieras de objeto múltiple no reguladas, en los casos a que se refiere el párrafo anterior.
+
+###### Artículo 14.
+
+La Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, celebrarán convenios de colaboración que tengan por objeto establecer los mecanismos y canales a través de los cuales esta última hará del conocimiento de la Comisión Nacional Bancaria y de Valores, las observaciones que deriven del ejercicio de las facultades que en materia de verificación de Contratos de Adhesión, publicidad y estados de cuenta le otorgan los artículos 11, 12 y 13 de esta Ley.
+
+###### Artículo 15.
+
+Tratándose del otorgamiento de créditos, préstamos o financiamientos que otorguen las Entidades a los que les sea aplicable el CAT de acuerdo con las disposiciones a las que se refiere el artículo 8 de esta Ley, la publicidad y los Contratos de Adhesión deberán contener dicho CAT, cuando así lo establezcan las disposiciones de carácter general que conforme a lo previsto en los artículos 11 y 12 de esta Ley, emitan la Comisión Nacional Bancaria y de Valores, la Procuraduría Federal del Consumidor y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de sus respectivas competencias.
+
+La información a que se refiere este artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
+
+###### Artículo 16.
+
+Las instituciones de crédito están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para abono en cuenta del beneficiario. Asimismo, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para el pago del principal, intereses, Comisiones y gastos, de los créditos, préstamos o financiamientos que otorguen a sus Clientes.
+
+Las órdenes de transferencias de fondos mencionadas en el párrafo anterior podrán ser enviadas a solicitud del Cliente o por un tercero y la emisora podrá ser cualquier persona facultada para ello. Asimismo, los cheques podrán ser librados por el Cliente o por un tercero, a cargo de cualquier institución de crédito.
+
+Asimismo, las instituciones de crédito estarán obligadas a recibir y procesar las instrucciones de cargo en las cuentas de depósito y de apertura de crédito en cuenta corriente de sus clientes, que reciban derivadas de servicios de domiciliación previstos en la Ley de Instituciones de Crédito, así como de otras operaciones que determine el Banco de México a través de disposiciones de carácter general. Lo anterior, siempre y cuando existan fondos suficientes en las cuentas respectivas.
+
+Las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas estarán sujetas a las disposiciones de carácter general que para efectos de lo previsto en este artículo emita el Banco de México, en las que se determinarán entre otros, los tipos y montos de las operaciones sujetas al presente artículo.
+
+###### Artículo 17.
+
+A las Entidades les estará prohibido llevar a cabo prácticas discriminatorias.
+
+Para los efectos de esta Ley se considerarán prácticas discriminatorias:
+
+I. Los actos que se realicen para no permitir la celebración de operaciones a Clientes de determinadas Entidades;
+
+II. El cobro de Comisiones distintas en virtud del emisor del Medio de Disposición correspondiente, y
+
+III. Los actos que se realicen para no permitir a sus Clientes utilizar la infraestructura de otras Entidades, o desalentar su uso.
+
+Las Entidades podrán exceptuar a sus cuentahabientes o acreditados del pago de Comisiones o establecer menores Comisiones cuando éstos utilicen la infraestructura de aquéllas. Lo anterior, no se considerará práctica discriminatoria.
+
+Cada Entidad tendrá prohibido cobrar más de una Comisión a sus Clientes respecto del mismo hecho generador, así como aplicar Comisiones en condiciones significativamente más desfavorables para los Clientes que las prevalecientes en el mercado.
+
+###### Artículo 18.
+
+Los trabajadores tendrán derecho a solicitar a la institución de crédito en la que se realice el depósito de su salario y de otras prestaciones de carácter laboral, que transfiera la totalidad de los recursos depositados a otra institución de crédito que elija el trabajador, sin que la institución que transfiera los recursos pueda cobrar penalización alguna al trabajador que le solicite este servicio. Las instituciones de crédito deberán sujetarse a las disposiciones de carácter general que al efecto emita el Banco de México.
+
+Las entidades públicas, en la contratación de servicios financieros para el pago de los salarios de sus trabajadores, garantizarán condiciones favorables en beneficio de éstos.
+
+### Capítulo IV.- Disposiciones Comunes
+
+### Capítulo V. Del procedimiento administrativo sancionador (sic)
+
+###### Artículo 19.
+
+El Banco de México estará facultado para regular, mediante disposiciones de carácter general, el funcionamiento y la operación de las Cámaras de Compensación de cualquier Medio de Disposición, así como los cargos que éstas efectúen por la realización de sus operaciones.
+
+###### Artículo 20.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros estará facultada para conocer de cualquier controversia relacionada con la aplicación de la presente Ley entre los Clientes y las Entidades Financieras y entre los Clientes y las sociedades financieras de objeto múltiple no reguladas, en términos de las disposiciones aplicables.
+
+Tratándose de Entidades Comerciales, la Procuraduría Federal del Consumidor estará facultada para conocer de cualquier controversia relacionada con la aplicación de la presente Ley entre las Entidades Comerciales y sus Clientes.
+
+###### Artículo 21.
+
+Las Entidades Financieras y las Cámaras de Compensación, estarán obligadas a suministrar al Banco de México, en la forma y términos que éste les requiera, la información sobre los Medios de Disposición, créditos, préstamos y financiamientos respectivos, así como, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.
+
+Las Entidades Comerciales estarán obligadas a suministrar a la Procuraduría Federal del Consumidor, en la forma y términos que ésta les requiera, la información sobre los Medios de Disposición, créditos, préstamos o financiamientos respectivos, así como, en general aquélla que le sea útil para proveer el adecuado cumplimiento de sus funciones.
+
+###### Artículo 22.
+
+Las disposiciones de carácter general, tales como circulares y reglas, así como actos administrativos y notificaciones que emita el Banco de México en ejercicio de las facultades que le otorgan la Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer:
+
+I. Mediante publicación en el Diario Oficial de la Federación, o
+
+II. A través de los medios que determine el Banco de México mediante disposiciones de carácter general.
+
+Las publicaciones que realice el Banco de México en el Diario Oficial de la Federación conforme a este artículo, estarán exentas del pago de derechos en términos de la Ley Federal de Derechos.
+
+Para los efectos de la fracción II del presente artículo:
+
+a) Las instituciones de crédito, entidades e intermediarios financieros de que se trate, deberán proporcionar al Banco de México la información que requiera para dar a conocer las disposiciones, actos administrativos y notificaciones mencionadas. Las disposiciones, actos administrativos y notificaciones que el Banco de México envíe o comunique con base en la información que le proporcionen las instituciones de crédito, entidades e intermediarios financieros, obligan y surten sus efectos en los términos que éstas señalen.
+
+b) Cuando las disposiciones, actos administrativos y notificaciones del Banco de México se envíen a las instituciones de crédito, entidades o intermediarios financieros, a través de medios electrónicos distintos del fax, que permitan adjuntar el mensaje de datos y firmarlo electrónicamente, las firmas respectivas deberán corresponder a los funcionarios competentes para emitirlas en términos del Reglamento Interior del Banco de México, y haber sido generadas con base en los datos de creación de firma electrónica conforme a los procedimientos y sistemas de la Infraestructura Extendida de Seguridad que administra el propio Banco de México.
+
+###### Artículo 23.
+
+En todas las operaciones y servicios que las instituciones de crédito celebren masivamente con sus Clientes por medio de Contratos de Adhesión y hasta por los montos máximos que establezca la Comisión Nacional Bancaria y de Valores, aquéllas deberán proporcionarle a éstos la asistencia, acceso y facilidades necesarias para atender las aclaraciones relacionadas con dichas operaciones y servicios.
+
+La citada Comisión establecerá, mediante disposiciones de carácter general, tanto las operaciones que deban considerarse masivamente celebradas, como los montos máximos a que se refiere este párrafo. Al efecto, sin perjuicio de los demás procedimientos y requisitos que impongan otras autoridades financieras facultadas para ello en relación con operaciones materia de su ámbito de competencia, en todo caso se estará a lo siguiente:
+
+I. Cuando el Cliente no esté de acuerdo con alguno de los movimientos que aparezcan en el estado de cuenta respectivo o en los medios electrónicos, ópticos o de cualquier otra tecnología que se hubieren pactado, podrá presentar una solicitud de aclaración dentro del plazo de noventa días naturales contados a partir de la fecha de corte o, en su caso, de la realización de la operación o del servicio.
+
+La solicitud respectiva podrá presentarse ante la sucursal en la que radica la cuenta, o bien, en la unidad especializada de la institución de que se trate, mediante escrito, correo electrónico o cualquier otro medio por el que se pueda comprobar fehacientemente su recepción. En todos los casos, la institución estará obligada a acusar recibo de dicha solicitud.
+
+Tratándose de cantidades a cargo del Cliente dispuestas mediante cualquier mecanismo determinado al efecto por la Comisión Nacional Bancaria y de Valores en las disposiciones de carácter general a que se refiere el presente artículo, el cliente tendrá el derecho de no realizar el pago cuya aclaración solicita, así como el de cualquier otra cantidad relacionada con dicho pago, hasta en tanto se resuelva la aclaración conforme al procedimiento a que se refiere este artículo;
+
+II. Una vez recibida la solicitud de aclaración, la institución tendrá un plazo máximo de cuarenta y cinco días para entregar al Cliente el dictamen correspondiente, anexando copia simple del documento o evidencia considerada para la emisión de dicho dictamen, con base en la información que, conforme a las disposiciones aplicables, deba obrar en su poder, así como un informe detallado en el que se respondan todos los hechos contenidos en la solicitud presentada por el Cliente. En el caso de reclamaciones relativas a operaciones realizadas en el extranjero, el plazo previsto en este párrafo será hasta de ciento ochenta días naturales.
+
+El dictamen e informe antes referidos deberán formularse por escrito y suscribirse por personal de la institución facultado para ello. En el evento de que, conforme al dictamen que emita la institución, resulte procedente el cobro del monto respectivo, el Cliente deberá hacer el pago de la cantidad a su cargo, incluyendo los intereses ordinarios conforme a lo pactado, sin que proceda el cobro de intereses moratorios y otros accesorios generados por la suspensión del pago realizada en términos de esta disposición;
+
+III. Dentro del plazo de cuarenta y cinco días naturales contado a partir de la entrega del dictamen a que se refiere la fracción anterior, la institución estará obligada a poner a disposición del Cliente en la sucursal en la que radica la cuenta, o bien, en la unidad especializada de la institución de que se trate, el expediente generado con motivo de la solicitud, así como a integrar en éste, bajo su más estricta responsabilidad, toda la documentación e información que, conforme a las disposiciones aplicables, deba obrar en su poder y que se relacione directamente con la solicitud de aclaración que corresponda y sin incluir datos correspondientes a operaciones relacionadas con terceras personas;
+
+IV. En caso de que la institución no diere respuesta oportuna a la solicitud del Cliente o no le entregare el dictamen e informe detallado, así como la documentación o evidencia antes referidos, la Comisión Nacional Bancaria y de Valores, sujetándose a lo previsto en el Capítulo V de esta Ley, impondrá multa por un monto equivalente al reclamado por el Cliente en términos de este artículo, y
+
+V. Hasta en tanto la solicitud de aclaración de que se trate no quede resuelta de conformidad con el procedimiento señalado en este artículo, la institución no podrá reportar como vencidas las cantidades sujetas a dicha aclaración a las sociedades de información crediticia.
+
+Lo antes dispuesto es sin perjuicio del derecho de los Clientes de acudir ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o ante la autoridad jurisdiccional correspondiente conforme a las disposiciones legales aplicables, así como de las sanciones que deban imponerse a la institución por incumplimiento a lo establecido en el presente artículo. Sin embargo, el procedimiento previsto en este artículo quedará sin efectos a partir de que el Cliente presente su demanda ante autoridad jurisdiccional o conduzca su reclamación en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
+
+### Capítulo VI. Del recurso de revisión (sic)
+
+#### Sección I. De las disposiciones generales
+
+###### Artículo 24.
+
+La facultad de las autoridades para imponer sanciones de carácter administrativo establecidas en esta Ley, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al en que se realizó la conducta o se actualizó el supuesto de infracción.
+
+El plazo señalado se interrumpirá cuando las autoridades otorguen el derecho de audiencia al probable infractor, en términos de lo previsto en los artículos 28 y 29 de la presente Ley.
+
+###### Artículo 25.
+
+El procedimiento administrativo será autónomo de la reparación de los daños y perjuicios que, en su caso, demanden las personas afectadas por los actos de que se trate.
+
+###### Artículo 26.
+
+Todas las actuaciones deberán practicarse en días y horas hábiles. Serán días hábiles todos los días del año, salvo los sábados y domingos y los que determine la Comisión Nacional Bancaria y de Valores mediante las disposiciones de carácter general que señalan los días del año en que las entidades financieras sujetas a la supervisión de la Comisión deberán suspender operaciones, publicadas en el Diario Oficial de la Federación para cada ejercicio social. Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas.
+
+###### Artículo 27.
+
+Las notificaciones se regirán por los artículos 134, 135, 136, 137, 139 y 140 del Código Fiscal de la Federación.
+
+#### Sección II. Del inicio del procedimiento
+
+###### Artículo 28.
+
+Las Autoridades previo a la imposición de las sanciones que les corresponda aplicar conforme a esta Ley, notificarán por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren probablemente infringidas.
+
+###### Artículo 29.
+
+En la notificación a que se refiere el artículo inmediato anterior, las Autoridades deberán otorgar el derecho de audiencia al presunto infractor, a fin de que en un plazo de diez días hábiles bancarios, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito.
+
+Las Autoridades, a petición de parte, podrán ampliar por una sola ocasión el plazo mencionado, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso.
+
+#### Sección III. De la instrucción del procedimiento
+
+###### Artículo 30.
+
+En el procedimiento administrativo sancionador se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las Autoridades o de sus servidores públicos, mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las Autoridades, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+
+Las pruebas supervenientes podrán presentarse, siempre que no se haya cerrado la instrucción.
+
+El ofrecimiento, admisión, preparación, desahogo y valoración de las pruebas se hará conforme a lo establecido en el Código Federal de Procedimientos Civiles.
+
+###### Artículo 31.
+
+Concluido el desahogo de pruebas, se otorgará al presunto infractor un plazo de cinco días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación correspondiente, para que formule alegatos por escrito. Al vencer el citado plazo se tendrá por cerrada la instrucción.
+
+#### Sección IV. De la resolución del procedimiento
+
+###### Artículo 32.
+
+En la imposición de sanciones administrativas, las Autoridades deberán tomar en cuenta:
+
+I. La capacidad económica del infractor.
+
+II. La gravedad de la infracción cometida.
+
+III. Las atenuantes o agravantes.
+
+Se tomará como atenuante cuando el infractor, previo a la notificación a que se refiere el artículo 28 de la presente Ley, informe por escrito a la autoridad competente de imponer la sanción: a) la infracción; b) el reconocimiento expreso de ésta, y c) un programa de corrección. En este supuesto se impondrá al infractor el importe mínimo de la multa que corresponda en términos de esta Ley, sin perjuicio de lo dispuesto en los artículos 34 y 35 de esta Ley.
+
+Se considerará como agravante la reincidencia. Será reincidente el que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente. En ese supuesto las autoridades podrán imponer multa equivalente hasta por el doble de la prevista en esta Ley.
+
+###### Artículo 33.
+
+Para calcular el importe de las multas se tendrá como base el salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta infractora.
+
+###### Artículo 34.
+
+Atendiendo a las circunstancias de cada caso, las Autoridades podrán además de imponer la multa que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando la gravedad de la conducta, que no se afecten los intereses de terceros, así como la existencia de atenuantes.
+
+###### Artículo 35.
+
+Las Autoridades podrán abstenerse de sancionar a las Entidades y a las Cámaras de Compensación, siempre y cuando se trate de las conductas infractoras señaladas en los artículos 40, 41, 44 primer párrafo, 45 y 47, no constituyan delito y se presenten las circunstancias atenuantes referidas en el presente capítulo. La autoridad correspondiente deberá justificar las causas que motivaron el ejercicio de esta facultad.
+
+###### Artículo 36.
+
+Las sanciones podrán ser impuestas tanto a las Entidades o Cámaras de Compensación, previo derecho de audiencia que se les otorgue conforme a los artículos 28 y 29 de la presente Ley.
+
+###### Artículo 37.
+
+En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas.
+
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta Ley imponga una sanción, el total de las mismas no deberá rebasar los montos máximos previstos en el presente ordenamiento.
+
+###### Artículo 38.
+
+Las multas que las Autoridades impongan conforme a esta Ley, deberán ser pagadas dentro de los quince días hábiles siguientes a la fecha de su notificación. Cuando las multas no se paguen dentro del plazo señalado, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos que establece el Código Fiscal de la Federación para este tipo de supuestos.
+
+En caso de que el infractor pague las multas impuestas por las Autoridades dentro de los quince días referidos en el párrafo inmediato anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se interponga medio de defensa alguno.
+
+###### Artículo 39.
+
+En ejercicio de sus facultades sancionadoras, las Autoridades deberán hacer del conocimiento del público en general por el medio que consideren conveniente, las sanciones que al efecto impongan por infracciones a esta Ley, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la denominación social de la entidad infractora, el precepto infringido y la sanción impuesta.
+
+###### Artículo 40.
+
+Las Autoridades, en el ámbito de sus respectivas competencias, sancionarán a las Entidades y a las Cámaras de Compensación que se abstengan de suministrar la información o documentación que cada autoridad les requiera en términos de esta Ley o disposiciones que de ella emanen, en los plazos que éstas determinen, con multa de doscientos a dos mil días de salario, o bien cuando presenten la información o documentación de manera incorrecta o de forma extemporánea.
+
+#### Sección V. Sanciones que corresponde imponer a la Comisión Nacional Bancaria y de Valores
+
+###### Artículo 41.
+
+La Comisión Nacional Bancaria y de Valores sancionará con multa de doscientos a dos mil días de salario, a las Entidades Financieras que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas infractoras de los artículos 42 y 43, así como cuando infrinjan las disposiciones de carácter general que la propia Comisión expida en términos de esta Ley.
+
+###### Artículo 42.
+
+La Comisión Nacional Bancaria y de Valores sancionará con multa de dos mil a cinco mil días de salario, a las Entidades Financieras que:
+
+I. No cuenten en sus sucursales, establecimientos y en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo 7 de esta Ley, en los términos expresados en el referido precepto.
+
+II. No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo 9 de la presente Ley.
+
+III. Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta Ley o en las disposiciones de carácter general que expida la Comisión Nacional Bancaria y de Valores, que regulen Contratos de Adhesión.
+
+IV. Difundan publicidad que incumpla lo previsto en el artículo 12 de esta Ley o las disposiciones de carácter general que expida la Comisión Nacional Bancaria y de Valores, que regulen la publicidad relativa a las características de las operaciones activas, pasivas y de servicios.
+
+V. Expidan estados de cuenta o comprobantes de operaciones, que no cumplan con lo previsto en el artículo 13 de la presente Ley o no se ajusten a los requisitos que establezca la Comisión Nacional Bancaria y de Valores, a través de disposiciones de carácter general.
+
+###### Artículo 43.
+
+La Comisión Nacional Bancaria y de Valores sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras que:
+
+I. Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo 7 de esta Ley.
+
+II. No modifiquen los Contratos de Adhesión conforme a lo ordenado por la Comisión Nacional Bancaria y de Valores, en términos del artículo 11 de esta Ley.
+
+III. No acaten la orden de la Comisión Nacional Bancaria y de Valores de suspender el uso de los Contratos de Adhesión, respecto de nuevas operaciones, de acuerdo con el artículo 11 de la presente Ley.
+
+IV. Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
+
+V. No suspendan la publicidad conforme al artículo 12 de esta Ley.
+
+VI. No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional Bancaria y de Valores, cuando éstos no se ajusten a lo previsto en el artículo 13 o en las disposiciones de carácter general que del propio precepto emanen.
+
+VII. No incorporen el CAT en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
+
+VIII. Realicen prácticas discriminatorias, en términos del artículo 17 de la presente Ley.
+
+En los casos a que se refiere la fracción V de este artículo, la Comisión Nacional Bancaria y de Valores podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
+
+#### Sección VI. Sanciones que corresponde imponer a la Procuraduría Federal del Consumidor
+
+###### Artículo 44.
+
+La Procuraduría Federal del Consumidor sancionará con multa de doscientos a dos mil días de salario, a las Entidades Comerciales que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas infractoras señaladas en el párrafo siguiente, así como cuando infrinjan las disposiciones de carácter general que la propia Procuraduría expida en términos de esta Ley.
+
+Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de su competencia, con multa de:
+
+I. Dos mil a cinco mil días de salario, a las Entidades Comerciales que:
+
+a) No cuenten en sus sucursales, establecimientos o en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo 7 de esta Ley, en los términos expresados en el referido precepto.
+
+b) No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo 9 de la presente Ley.
+
+c) Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta Ley o en las disposiciones de carácter general que expida la Procuraduría Federal del Consumidor, que regulen Contratos de Adhesión.
+
+d) Difundan publicidad que incumpla lo previsto en el artículo 12 de esta Ley o las disposiciones de carácter general que expida la Procuraduría Federal del Consumidor, que regulen la publicidad relativa a las características de las operaciones activas, pasivas y de servicios.
+
+e) Expidan estados de cuenta o comprobantes de operaciones, que no cumplan con lo previsto en el artículo 13 de la presente Ley o no se ajusten a los requisitos que establezca la Procuraduría Federal del Consumidor, a través de disposiciones de carácter general, y
+
+II. Cuatro mil a veinte mil días de salario, a las Entidades Comerciales que:
+
+a) Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo 7 de esta Ley.
+
+b) No modifiquen los Contratos de Adhesión conforme a lo ordenado por la Procuraduría Federal del Consumidor, en términos del artículo 11 de esta Ley.
+
+c) No acaten la orden de la Procuraduría Federal del Consumidor de suspender el uso de los Contratos de Adhesión, respecto de nuevas operaciones, de acuerdo con el artículo 11 de la presente Ley.
+
+d) Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
+
+e) No suspendan la publicidad conforme al artículo 12 de esta Ley.
+
+f) No modifiquen los estados de cuenta en los términos que señale la Procuraduría Federal del Consumidor, cuando éstos no se ajusten a lo previsto en el artículo 13 o en las disposiciones de carácter general que del propio precepto emanen.
+
+g) No incorporen el CAT en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
+
+h) Realicen prácticas discriminatorias, en términos del artículo 17 de la presente Ley.
+
+i) Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 4 de esta Ley.
+
+j) Se abstengan de observar la fórmula, los componentes y la metodología de cálculo del CAT, que al efecto establezca el Banco de México a través de disposiciones de carácter general.
+
+k) Cobren intereses en términos distintos a lo previsto en el artículo 10, de la presente Ley.
+
+En los casos a que se refiere el inciso e) de la fracción II de este artículo, la Procuraduría Federal del Consumidor podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
+
+#### Sección VII. Sanciones que corresponde imponer a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros
+
+###### Artículo 45.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de doscientos a dos mil días de salario, a las sociedades financieras de objeto múltiple no reguladas que infrinjan cualquier disposición de esta Ley, así como cuando incumplan las disposiciones de carácter general que la propia Comisión Nacional expida en términos de esta Ley, siempre que no corresponda a las conductas infractoras señaladas en el artículo siguiente.
+
+###### Artículo 46.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en el ámbito de su competencia, sancionará con multa de:
+
+I. Dos mil a cinco mil días de salario, a las sociedades financieras de objeto múltiple no reguladas que:
+
+a) No cuenten en sus sucursales, establecimientos o en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo 7 de esta Ley, en los términos expresados en el referido precepto.
+
+b) No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo 9 de la presente Ley.
+
+c) Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo 11 de esta Ley o en las disposiciones de carácter general que expida la propia Comisión Nacional, que regulen Contratos de Adhesión.
+
+d) Difundan publicidad que incumpla lo previsto en el artículo 12 de esta Ley o las disposiciones de carácter general que expida la citada Comisión Nacional, que regulen la publicidad relativa a las características de las operaciones activas, pasivas y de servicios.
+
+e) Expidan estados de cuenta o comprobantes de operaciones, que no cumplan con lo previsto en el artículo 13 de la presente Ley o no se ajusten a los requisitos que establezca la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, a través de disposiciones de carácter general.
+
+f) Se abstengan de registrar ante la propia Comisión Nacional conforme a las disposiciones de carácter general que ésta expida, las Comisiones que cobran, en infracción al artículo 6 de esta Ley, y
+
+g) Se abstengan de enviar a la propia Comisión Nacional los modelos de Contratos de Adhesión, en contravención al artículo 11 del presente Ordenamiento.
+
+II. Cuatro mil a veinte mil días de salario, a las sociedades financieras de objeto múltiple no reguladas que:
+
+a) Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo 7 de esta Ley.
+
+b) No modifiquen los Contratos de Adhesión conforme a lo ordenado por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en términos del artículo 11 de esta Ley.
+
+c) No acaten la orden de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, de suspender el uso de los Contratos de Adhesión, respecto de nuevas operaciones, de acuerdo con el artículo 11 de la presente Ley.
+
+d) Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
+
+e) No suspendan la publicidad conforme al artículo 12 de esta Ley.
+
+f) No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cuando éstos no se ajusten a lo previsto en el artículo 13 o en las disposiciones de carácter general que del propio precepto emanen.
+
+g) No incorporen el CAT en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
+
+h) Realicen prácticas discriminatorias, en términos del artículo 17 de la presente Ley.
+
+i) Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 4 de esta Ley.
+
+j) Se abstengan de observar la fórmula, los componentes y la metodología de cálculo del CAT, que al efecto establezca el Banco de México a través de disposiciones de carácter general.
+
+k) Cobren intereses en términos distintos a lo previsto en el artículo 10, de la presente Ley.
+
+En los casos a que se refiere el inciso e) de la fracción II de este artículo, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, podrá, en adición a la imposición de la multa que corresponda, solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, ordene la suspensión de la difusión de la publicidad.
+
+#### Sección VIII. Sanciones que corresponde imponer al Banco de México
+
+###### Artículo 47.
+
+El Banco de México sancionará con multa de doscientos a dos mil días de salario, a las Entidades Financieras y Cámaras de Compensación que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas infractoras señaladas en el artículo siguiente, así como cuando infrinjan las disposiciones de carácter general que el propio Banco expida en términos de esta Ley.
+
+###### Artículo 48.
+
+El Banco de México sancionará con multa de mil a cinco mil días de salario, a las Entidades Financieras que:
+
+I. Se abstengan de registrar las Comisiones, conforme a las disposiciones de carácter general que expida el propio Banco, en infracción al artículo 6 de esta Ley.
+
+II. Se abstengan de recibir cheques salvo buen cobro, órdenes de transferencias de fondos o instrucciones de cargo, en contravención a lo señalado en el artículo 16 de esta Ley o en las disposiciones de carácter general que con fundamento en dicho artículo expida el Banco de México.
+
+###### Artículo 49.
+
+El Banco de México sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras que:
+
+I. Incumplan con las disposiciones de carácter general que emita el Banco de México en términos del artículo 4 de esta Ley.
+
+II. Se abstengan de observar la fórmula, los componentes y la metodología de cálculo del CAT, que al efecto establezca el Banco de México a través de disposiciones de carácter general.
+
+III. Cobren intereses en términos distintos a lo previsto en el artículo 10, de la presente Ley.
+
+IV. Cobren alguna penalización por la transferencia de la totalidad de los recursos de los trabajadores que reciban por concepto de salario y de otras prestaciones de carácter laboral, en contravención al artículo 18 de la presente Ley o a las disposiciones de carácter general que al efecto expida el Banco de México.
+
+### Capítulo VII. De la ejecución de multas (sic)
+
+###### Artículo 50.
+
+En contra de las sanciones que impongan las Autoridades, procederá el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo.
+
+###### Artículo 51.
+
+Las multas que imponga la Comisión Nacional Bancaria y de Valores a las instituciones de crédito, se harán efectivas cargando su importe en la cuenta que lleve el Banco de México a dichas instituciones. Corresponderá al Servicio de Administración Tributaria hacer efectivas, conforme al Código Fiscal de la Federación, las multas impuestas a las Entidades Financieras distintas a instituciones de crédito.
+
+El Banco de México realizará los cargos respectivos en la fecha en que la Comisión Nacional Bancaria y de Valores se lo solicite por tratarse de multas contra las cuales no proceda ya medio de defensa alguno. Para tales efectos, la institución de crédito afectada dará aviso por escrito a la citada Comisión simultáneamente al ejercicio de cualquier medio de defensa ante la autoridad competente.
+
+###### Artículo 52.
+
+El cobro de las multas que impongan la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Procuraduría Federal del Consumidor, se efectuará por el Servicio de Administración Tributaria conforme al Código Fiscal de la Federación.
+
+###### Artículo 53.
+
+Para la ejecución de las multas que imponga el Banco de México en términos de esta Ley, se observará lo previsto en los artículos 66 y 67 de la Ley del Banco de México.
+
+...
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.
+
+###### ARTÍCULO SEXTO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
+I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
+II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
+III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
+IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
+
+México, D.F., 26 de abril de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
