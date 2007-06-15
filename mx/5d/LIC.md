@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2006-07-18"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-> <small>N. DE E. CONFORME AL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JULIO DE 2006, SE MODIFICA EL PRESENTE ORDENAMIENTO; DETERMINANDO SU ARTICULO QUINTO TRANSITORIO QUE LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE SU PUBLICACION; PUDIENDO CONSULTAR LOS ARTICULOS SEÑALADOS, CON LA REFORMA APLICADA, AL FINAL DEL PRESENTE ORDENAMIENTO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -2072,23 +2070,53 @@ Las instituciones de crédito estarán obligadas a canjear los billetes y moneda
 
 Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
 
-> <small>N. DE E. LAS REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTICULOS 45-A, 45-B, 45-D, 45-I, 45-K, 45-N, 49, 85 BIS, 103, 108, 115 Y 116 ENTRARAN EN VIGOR A LOS SIETE AÑOS DE LA PUBLICACION DEL PRESENTE DECRETO, DE CONFORMIDAD CON SU ARTICULO QUINTO TRANSITORIO, D.O.F.18 DE JULIO DE 2006.</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
+###### ARTICULO 48 Bis 1.
+
+Cuando a las instituciones de crédito les sean presentados por sus clientes billetes presuntamente falsos que les hubieran sido entregados en cajeros automáticos o en las ventanillas de alguna de sus sucursales, deberán proceder de la forma siguiente:
+
+I. Proporcionarán al cliente un formato de reclamación, en el que éste anotará su nombre y domicilio; el lugar, fecha y modo en que le fueron entregadas las piezas, así como las características y número de éstas. Además, a dicho formato deberá anexarse fotocopia de alguna identificación oficial del cliente.
+
+II. Retendrán las piezas de que se trate, extendiendo al cliente el recibo respectivo y las remitirán al Banco de México para dictamen. Las instituciones deberán proporcionar al Banco de México la información que al efecto requiera.
+
+III. Verificarán, dentro del plazo de cinco días hábiles bancarios, que la operación se hubiera llevado conforme a lo señalado por el cliente en el formato de reclamación.
+
+IV. Si la información proporcionada por el cliente y el resultado de la verificación que se realice, permiten presumir que las piezas en cuestión fueron entregadas en cajeros automáticos o ventanilla de alguna de sus sucursales, deberán entregar a éste el importe de las piezas presentadas, siempre que éstas provengan de un máximo de dos diferentes operaciones. En ningún caso se cambiarán más de dos piezas por cada operación, respecto del mismo cliente en un lapso de un año. Tampoco procederá el cambio, cuando hayan transcurrido más de cinco días hábiles bancarios entre la fecha de la operación y la presentación de las piezas ante la institución de que se trate.
+
+V. Si la institución de crédito considerara que no procede el cambio de las piezas, deberá informar al cliente por escrito las razones que hayan motivado su negativa. En ese caso quedará expedito el derecho del cliente para acudir ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a hacer valer sus derechos.
+
+Las instituciones de crédito que realicen el cambio de piezas conforme a lo dispuesto en el presente artículo, se subrogarán en todos los derechos que de ello deriven.
+
+El Banco de México, de oficio o a petición de cualquier interesado, podrá verificar el cumplimiento de lo dispuesto en el presente artículo o en las disposiciones de carácter general que expida en materia de almacenamiento, abastecimiento, canje, entrega y retiro de billetes y monedas metálicas. Si con motivo de dicha verificación el Banco de México detectara algún incumplimiento, podrá sancionar a la institución de que se trate con multa de hasta cien mil días de salario mínimo general vigente en el Distrito Federal en la fecha de la infracción. Previo a la imposición de cualquier sanción, deberá respetarse el derecho de audiencia de la institución de crédito involucrada.
+
+Contra las resoluciones por las que el Banco de México imponga alguna multa, procederá el recurso de reconsideración previsto en los artículos 64 y 65 de la Ley del Banco de México, el cual será de agotamiento obligatorio y deberá interponerse dentro de los 15 días hábiles bancarios siguientes a la fecha de notificación de tales resoluciones. Respecto de lo que se resuelva en ese medio de defensa, se estará a lo previsto en el último párrafo del artículo 65 de la Ley del Banco de México. La ejecución de las resoluciones de multas se hará conforme a los artículos 66 y 67 de la Ley del Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+###### ARTICULO 48 Bis 2.
+
+Las instituciones de crédito que reciban depósitos bancarios de dinero a la vista de personas físicas, estarán obligadas a ofrecer un producto básico bancario de depósito, incluyendo un producto de nómina, en los términos y condiciones que determine el Banco de México mediante disposiciones de carácter general, considerando que aquellas cuentas cuyo abono mensual no exceda el importe equivalente a ciento sesenta y cinco salarios mínimos diarios vigente en el Distrito Federal, estén exentas de cualquier comisión por apertura, retiros y consultas en la institución que otorgue la cuenta.
+
+El Banco de México, considerará la opinión que las instituciones de crédito obligadas, le presenten sobre el diseño y oferta al público del producto señalado en el párrafo que antecede.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+###### ARTICULO 48 Bis 3.
+
+En los créditos, préstamos o financiamientos que las instituciones de crédito otorguen, el pago de los intereses no podrá ser exigido por adelantado, sino únicamente por períodos vencidos, sin perjuicio de ajustarse a la legislación mercantil aplicable. El Banco de México mediante disposiciones de carácter general determinará los montos de los créditos, préstamos y financiamientos a los que les será aplicable este artículo, de los cuales las instituciones de crédito estarán obligadas a informar a sus clientes al momento de pactar los términos del crédito.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
+###### ARTICULO 48 Bis 4.
+
+Las instituciones deberán mantener en su página electrónica en la red mundial "Internet", la información relativa al importe de las comisiones que cobran por los servicios que ofrecen al público relacionados con el uso de tarjetas de débito, tarjetas de crédito, cheques y órdenes de transferencias de fondos. Asimismo, en sus sucursales deberán contar con la referida información en carteles, listas y folletos visibles de forma ostensible, así como permitir que ésta se obtenga a través de un medio electrónico ubicado en dichas sucursales, a fin de que cualquier persona que la solicite esté en posibilidad de consultarla gratuitamente.
+
+Para garantizar la protección de los intereses del público, la determinación de comisiones y tarifas por los servicios que prestan las instituciones de crédito, se sujetará lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros
 
 ###### ARTICULO 49.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, las instituciones de crédito o las sociedades a que se refiere la fracción IV del artículo 103 de esta Ley, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia en materia de comisiones o tarifas, respecto de operaciones activas, pasivas y de servicios de las citadas entidades financieras.
-
-Al efecto, el Banco de México podrá también actuar de oficio, y deberá solicitar en un plazo no mayor a 60 días naturales la opinión de la Comisión Federal de Competencia para que ésta, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva y los mercados relevantes respectivos.
-
-Con base en la opinión de la citada comisión, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas comisiones y tarifas, así como mecanismos de ajuste y periodos de vigencia.
-
-El Banco de México o las entidades sujetas a dicha regulación, podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
-
-Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
-
-Lo dispuesto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de esta Ley, así como las previstas en la Ley de Banco de México respecto a comisiones y tarifas.
+(DEROGADO, D.O.F. 15 DE JUNIO DE 2007)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -2770,7 +2798,7 @@ Durante los procesos de negociación a que se refiere este artículo, los partic
 
 ###### ARTICULO 94.
 
-La Comisión Nacional Bancaria podrá ordenar la suspensión de la publicidad que realicen las instituciones de crédito, cuando a su juicio ésta implique inexactitud, obscuridad, o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
+(DEROGADO, D.O.F. 15 DE JUNIO DE 2007)
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -2792,11 +2820,15 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisi�
 
 La Comisión Nacional Bancaria vigilará que las instituciones cumplan con las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 97.
 
-Las instituciones de crédito deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, les soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.
+Las instituciones de crédito deberán presentar la información y documentación que, en el ámbito de sus respectivas competencias, les soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario, dentro de los plazos y a través de los medios que las mismas establezcan.
 
-Dichas instituciones proporcionarán a la citada Secretaría, en los términos y plazos que ésta determine, la información institucional y de sus empresas a que se refieren los artículos 88 y 89 primer párrafo, de esta Ley, respecto de sus programas operativos y financieros, los presupuestos de ingresos y gastos, e integración de indicadores y demás información financiera, que permita evaluar el comportamiento y desarrollo del Sistema Bancario Mexicano.
+Para propiciar el mejor cumplimiento de sus funciones, la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario, podrán solicitar y compartir la información que obtengan conforme al párrafo anterior, sin que les resulte oponible las restricciones previstas en el artículo 117 de esta Ley. Asimismo, dichas Comisiones y el Banco de México podrán proporcionar a la Comisión Nacional de Seguros y Fianzas y a la Comisión Nacional del Sistema de Ahorro para el Retiro, la asistencia que les soliciten en ejercicio de sus funciones, para lo cual podrán compartir con ellas información y documentación que obre en su poder, sin que resulte aplicable lo previsto en el artículo 117 de esta Ley. A su vez, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Banco de México podrán solicitar a dichas instituciones supervisoras la asistencia citada y éstas podrán entregar la información y documentación requerida, respecto de las instituciones financieras que les corresponda supervisar, sin que ello implique la violación a la confidencialidad que deban observar conforme a las disposiciones legales aplicables.
+
+La información a que se refiere este artículo sólo podrá solicitarse y proporcionarse en ejercicio de las atribuciones conferidas conforme a las disposiciones aplicables.
 
 ###### ARTICULO 98.
 
@@ -4058,6 +4090,20 @@ SEGUNDO.- Se derogan el Capítulo I del Título Séptimo de la Ley de Institucio
 
 D.O.F. 17 DE NOVIEMBRE DE 1995.
 
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto.
+
+TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación.
+
+QUINTO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+SEXTO.- Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.D.O.F. 17 DE NOVIEMBRE DE 1995.
+
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4825,3 +4871,29 @@ Para determinar el monto de la operación, quebranto o perjuicio patrimonial, pr
 > <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACION CONSULTESE EL ARTICULO QUINTO TRANSITORIO DEL PRESENTE DECRETO DE REFORMAS.</small>
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+...
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
