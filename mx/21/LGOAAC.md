@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2006-07-18"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -2122,7 +2122,7 @@ En las operaciones de crédito, arrendamiento financiero y factoraje financiero 
 
 I. Sólo se podrán capitalizar intereses cuando, antes o después de la generación de los mismos, las partes lo hayan convenido. En este caso la sociedad respectiva deberá proporcionar a su cliente estado de cuenta mensual. Es improcedente el cobro que contravenga lo dispuesto por esta fracción, y
 
-II. Los intereses se causarán exclusivamente sobre los saldos insolutos del crédito concedido y su pago no podrá ser exigido por adelantado, sino únicamente por períodos vencidos. En las operaciones de factoraje financiero el factorado y la sociedad financiera de objeto múltiple podrán pactar en contrario.
+II. (DEROGADA, D.O.F. 15 DE JUNIO DE 2007)
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -2146,7 +2146,7 @@ Las sociedades financieras de objeto múltiple, al constituirse con tal carácte
 
 Sin perjuicio de lo dispuesto por este Capítulo, las facultades que la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado otorga a la Comisión Nacional Bancaria y de Valores, respecto de entidades financieras que otorguen crédito garantizado en los términos de dicho ordenamiento, se entenderán conferidas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, respecto de las sociedades financieras de objeto múltiple no reguladas.
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros dará a conocer, en los términos del artículo 10 de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los componentes, la metodología de cálculo y la periodicidad del costo anual total a que dicho precepto se refiere, respecto de las sociedades financieras de objeto múltiple no reguladas. Al efecto, tales sociedades colaborarán con dicha Comisión proporcionando la información que ésta les solicite para efectos de lo dispuesto por dicho precepto.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JUNIO DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -2160,7 +2160,7 @@ II. De utilizarse una tasa fija, también se informará al cliente el monto de l
 
 III. Informar al cliente el monto total a pagar por la operación de que se trate, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
 
-IV. En caso de haberse efectuado la operación, la sociedad respectiva deberá enviar al cliente al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros. Lo dispuesto en esta fracción no será aplicable en operaciones de factoraje financiero en donde se haya establecido una tasa fija por el plazo de la operación ni en operaciones cuyo vencimientos sucesivos convenidos por las parte (sic) sea trimestral, semestral o anual. En estos últimos casos, el envío de estados de cuenta podrá ajustarse a dichos plazos.
+IV. (DEROGADA, D.O.F. 15 DE JUNIO DE 2007)
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá emitir recomendaciones a las sociedades financieras de objeto múltiple para alcanzar el cumplimiento de lo dispuesto por este artículo.
 
@@ -2939,6 +2939,48 @@ DECIMO SEXTO.- Posterior a la fecha en que entre en vigor el presente Decreto, l
 Para estos efectos, la Secretaría de Hacienda y Crédito Público podrá otorgar la autorización para la transformación a Sociedad Financiera de Objeto Limitado a las empresas de arrendamiento y factoraje financiero que los soliciten, las cuales continuarán reguladas.
 
 La regulación y la autorización otorgada de acuerdo a los párrafos anteriores quedará sin efecto por ministerio de Ley a los tres años siguientes a la fecha de entrada en vigor del presente Decreto y las sociedades que hayan obtenido dicha autorización a partir de esta fecha, quedarán sujetas a lo dispuesto a los artículos tercero y quinto transitorio de este Decreto.
+
+D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.
+
+###### ARTÍCULO SEXTO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
+I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
+II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
+III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
+IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
