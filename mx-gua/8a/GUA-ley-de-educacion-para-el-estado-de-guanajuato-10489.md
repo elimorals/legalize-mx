@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "2006-08-22"
+last_updated: "2007-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -535,9 +535,13 @@ XXVII.- Promover y vigilar en las instituciones educativas la realización de ac
 
 XXVIII.- Establecer programas de desarrollo humano, actualización y asesoría para el personal en funciones, orientado a mejorar los servicios y la calidad educativa;
 
-XXIX.- Proponer y ejecutar programas alternativos para crear e impulsar sistemas de formación para y en el trabajo, así como para ampliar las oportunidades de educación tecnológica; y
+XXIX.- Proponer y ejecutar programas alternativos para crear e impulsar sistemas de formación para y en el trabajo, así como para ampliar las oportunidades de educación tecnológica; y (sic)
 
-XXX.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2007)</small>
+
+XXX.- Establecer los lineamientos generales para que, en coordinación con la Secretaría de Salud, se regule la venta de alimentos y bebidas para que éstos coadyuven a una dieta correcta dentro de las escuelas de los niveles de preescolar, primaria y secundaria;
+
+XXXI.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -1166,3 +1170,7 @@ P.O. 22 DE AGOSTO DE 2006.
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
