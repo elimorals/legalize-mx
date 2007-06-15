@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2002-12-24"
+last_updated: "2007-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2007.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -1099,11 +1099,17 @@ II.- Proporcionar a la población los conocimientos sobre las causas de las enfe
 
 III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 101.
 
-La Secretaría de Salud, en coordinación con las autoridades estatales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2007)</small>
+
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los niveles preescolar, primaria y secundaria, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta y el fortalecimiento de una activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 El Gobierno del Estado, en coordinación con las autoridades federales competentes, promoverán programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social que actúen en el ámbito del Estado.
 
@@ -1127,9 +1133,13 @@ I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición 
 
 II.- Coordinar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-III.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población; y
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2007)</small>
 
-IV.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y proveer en la esfera de su competencia a dicho consumo.
+III.- Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan en las escuelas de nivel preescolar, primaria y secundaria, posean el valor nutricional que coadyuve a una dieta correcta;
+
+IV.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población; y
+
+V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mismos de nutrimientos para la población en general y proveer en la esfera de su competencia a dicho consumo.
 
 ### CAPITULO VI. Fomento Sanitario
 
@@ -3038,3 +3048,7 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE MIL NOVECIENTOS 
 P.O. 24 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
