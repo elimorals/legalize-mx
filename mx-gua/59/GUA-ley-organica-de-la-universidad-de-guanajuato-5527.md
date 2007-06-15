@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-universidad-de-guanajuato-5527"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-05-17"
-last_updated: "1994-05-17"
+last_updated: "2007-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA UNIVERSIDAD DE GUANAJUATO, PUBLICADA EN EL P. O. DE 15 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 17 de mayo de 1994.
 
@@ -632,3 +634,71 @@ EL SECRETARIO DE GOBIERNO
 LIC. FELIPE ARTURO CAMARENA GARCIA
 
 (RUBRICAS)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los cuatro meses siguientes a su publicación en el Periódico Oficial del Gobierno del Estado, en el orden y términos que se especifican en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Universidad de Guanajuato, contenida en el Decreto número 279, emitido por la Quincuagésima Quinta Legislatura del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 39, de fecha 17 de mayo de 1994.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los dos meses siguientes a la entrada en vigor del presente Decreto, el Consejo Universitario -tal como se encuentra conformado en la ley que se abroga- será convocado para la designación de los miembros de la Junta Directiva, de conformidad con lo siguiente:
+
+I. Cada miembro del Consejo Universitario tendrá derecho a presentar un candidato.
+
+II. Hecha la presentación de los candidatos, cada uno de los Consejeros, en cédulas impresas que llevarán numeración marginal de 1 a 8, emitirá su voto hasta por el mismo número de las personas comprendidas en la lista de candidatos. El orden de colocación no significará preferencia en favor de ninguna de las personas comprendidas en la cédula.
+
+III. Recogidas las cédulas, una Comisión integrada por tres miembros del Consejo Universitario y designada por éste, procederá a hacer el cómputo de los votos emitidos. Cada Consejero tendrá derecho a emitir ocho votos, uno por cada persona cuyo nombre aparezca escrito en la cédula, y los votos se acreditarán a los candidatos respectivos.
+
+IV. Se considerarán como no escritos en las cédulas los nombres ilegibles, los repetidos en una misma papeleta o los que no figuren en la lista de candidatos formada de acuerdo con la fracción I de este artículo.
+
+V. Concluido el cómputo, el Consejo Universitario por conducto del Rector General, declarará electas a las ocho personas que aparezcan con mayor número de votos. Si varias estuviesen empatadas en el último o los últimos lugares, se hará una nueva elección entre ellas, para cubrir los puestos faltantes.
+
+VI. La Junta Directiva deberá estar integrada a más tardar el 30 de enero del 2008 y entrará en funciones el 1 de febrero del mismo año.
+
+VII. Por una sola ocasión, los cuatro miembros de la Junta Directiva que, en la elección referida en el presente artículo, hayan ocupado los cuatro últimos lugares, de entre los ocho electos por el Consejo Universitario, durarán en su encargo un año.
+
+###### ARTÍCULO CUARTO.
+
+Los miembros del Patronato en funciones lo serán de ese órgano de gobierno en la modalidad y estructura que se regula en el presente Decreto y, de conformidad con lo establecido en el artículo 39, cumplirán con su período respectivo de cuatro años, contado a partir de la fecha de su designación.
+
+El Rector de la Universidad de Guanajuato en funciones adquirirá el rango de Rector General de la Universidad. De conformidad con lo establecido en el artículo 19 de este Decreto, cumplirá un período de cuatro años, contados a partir de la fecha de su designación.
+
+Las Academias de las Escuelas Preparatorias continuarán en funciones en los términos de la Ley abrogada, hasta en tanto no se expida la reglamentación respectiva.
+
+Los Directores de las Escuelas Preparatorias adquirirán el rango de Directores de Escuela que ofrecen estudios de nivel medio superior, regulados en el presente Decreto. De conformidad con lo establecido en el artículo 38 cumplirán su período de cuatro años, contados a partir de la fecha en la que fueron designados.
+
+Todos los demás órganos académicos colegiados y autoridades unipersonales contemplados en la Ley que se abroga en el artículo anterior, seguirán ejerciendo sus funciones en los términos de dicho Ordenamiento hasta en tanto no se designen o, en su caso, se integren todos los órganos regulados en el artículo 10 del presente Decreto, de conformidad con lo dispuesto en el artículo transitorio siguiente.
+
+###### ARTÍCULO QUINTO.
+
+En un lapso máximo de catorce meses, contados a partir de la entrada en vigor de este Decreto, el Consejo Universitario -tal como se encuentra conformado en la Ley que se abroga aprobará la composición académica de los Campus, Divisiones y Departamentos. En este mismo lapso se designarán las autoridades unipersonales que se contemplan en el presente Decreto. Por esta única ocasión las designaciones se harán de la siguiente forma:
+
+Los Rectores de Campus y el Director del Colegio del Nivel Medio Superior serán designados por la Junta Directiva a propuesta del Consejo Universitario, el cual auscultará a la comunidad académica respectiva.
+
+Los Directores de División serán designados por la Junta Directiva, considerando la opinión del Rector de Campus, quien auscultará a su comunidad universitaria.
+
+Los Directores de Departamento serán designados por el Rector de Campus respectivo, en acuerdo con el Director de División, auscultando la opinión de la comunidad universitaria correspondiente.
+
+En este mismo lapso se harán las reformas a la reglamentación actual y se emitirán las disposiciones reglamentarias que resulten procedentes, sólo con la finalidad de hacer las adaptaciones correspondientes al modelo académico regulado en el presente Ordenamiento. En lo demás, seguirá en vigor la reglamentación actual en tanto no se oponga al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Durante el mismo lapso referido en el artículo anterior, las atribuciones de las autoridades unipersonales señaladas en dicho precepto se limitarán a la designación respectiva de los Secretarios que se contemplan en el artículo 45 del presente Decreto. Asimismo, convocarán a su comunidad universitaria a fin de integrar los órganos académicos colegiados conforme a lo dispuesto por el artículo transitorio siguiente.
+
+###### ARTICULO SÉPTIMO.
+
+Para facilitar el proceso de integración de los órganos académicos colegiados que se contemplan en el presente Decreto, el Consejo Universitario -tal como se encuentra regulado en la Ley que se abroga- establecerá los lineamientos y mecanismos respectivos. Además, podrá integrar las Comisiones y Comités que para ese efecto estime necesarias. La integración de los órganos académicos colegiados se hará bajo el siguiente orden:
+
+Los Directores de Departamento convocarán a los integrantes de su comunidad universitaria para elegir a sus representantes ante el Consejo Divisional. Después, los Consejos Divisionales elegirán a los representantes de sus respectivas Divisiones para integrar el Consejo Universitario de Campus. Asimismo, las Escuelas que ofrezcan estudios de nivel medio superior designarán sus representantes para integrar el Consejo Académico del Nivel Medio Superior. Posteriormente, los Consejos Universitarios de Campus, los Consejos Divisionales y el Consejo Académico del Nivel Medio Superior elegirán a sus respectivos representantes para integrar el Consejo General Universitario.
+
+###### ARTÍCULO OCTAVO.
+
+Integrado el Consejo General Universitario, en los términos de lo dispuesto por el artículo 15 del presente Decreto, desaparecerán los órganos académicos colegiados y las autoridades unipersonales reguladas en la Ley abrogada y se aplicarán en su totalidad las disposiciones contempladas en el presente Decreto.
