@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-del-nino-en-el-estado-de-zacatecas-12886"
 country: "mx"
 rank: "ley"
 publication_date: "1997-05-07"
-last_updated: "2003-02-19"
+last_updated: "2007-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DEL NIÑO EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE LOS DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 16 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 7 de mayo de 1997.
 
@@ -394,3 +396,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2007.
+
+PRIMERO. Esta Ley entrará en vigor en un término de 30 días naturales después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de los Derechos del Niño en el Estado de Zacatecas, publicada en Suplemento al número 37 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al día 7 de Mayo de 1997.
+
+Los órganos, sistemas y programas de becas que se hayan constituido en la vigencia de la Ley que se abroga, continuarán funcionando en los términos del decreto de su creación.
+
+TERCERO. Las normas del Estado que se opongan a esta Ley se aplicarán, mediante una interpretación lo más cercana a su espíritu y su contenido, al de la Constitución Política de los Estados Unidos Mexicanos y al de la Convención Sobre los Derechos del Niño, mientras se hacen las reformas necesarias a fin de que estén acordes con ella, lo cual deberá suceder en un plazo de seis meses contados a partir de la fecha de publicación de esta Ley en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+CUARTO. Los Consejos Estatal y municipales de los Derechos de Niños, Niñas y Adolescentes, deberán quedar conformados en un término de 30 días naturales posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán publicar los reglamentos correspondientes a que hace referencia esta Ley, dentro de un plazo de 60 días naturales a partir de la entrada en vigor de este ordenamiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
