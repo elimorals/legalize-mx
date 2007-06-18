@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2007-05-23"
+last_updated: "2007-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JUNIO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -717,27 +717,27 @@ La Secretaría de Educación, es el órgano encargado de fijar y ejecutar la pol
 
 A la Secretaría de Educación, corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 I. Formular, en el ámbito que compete al Estado, la política educativa, así como la de desarrollo cultural, bienestar social y deporte.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 II. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación federal y estatal vigentes.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 III. Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Federal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 18 DE JUNIO DE 2007)</small>
 
-IV. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector.
+IV. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector, a través de auditorías, revisiones e inspecciones, que se realicen a los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados y de las instituciones educativas particulares en todos los tipos, niveles y modalidades.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 V. Crear y mantener las escuelas oficiales que dependan directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 19 DE OCTUBRE DE 1992)</small>
 
 VI. Formular los contenidos regionales de los planes y programas de estudio de educación básica
 
@@ -1469,7 +1469,7 @@ P.O. 31 DE DICIEMBRE DE 1986
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de enero de mil novecientos ochenta y siete.
 
 P.O. 8 DE JULIO DE 1987
 
@@ -1746,6 +1746,14 @@ G.G. 23 DE MAYO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE JUNIO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
