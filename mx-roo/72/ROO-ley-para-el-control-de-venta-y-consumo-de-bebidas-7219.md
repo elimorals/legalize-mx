@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-control-de-venta-y-consumo-de-bebidas-7219"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-15"
-last_updated: "1991-01-15"
+last_updated: "2007-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY PARA EL CONTROL DE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de enero de 1991.
 
@@ -450,3 +452,35 @@ En cumplimiento a lo dispuesto por la Fracción II del artículo 91 de la Consti
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 DR. MIGUEL BORGE MARTIN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE JUNIO DE 2007.
+
+PRIMERO.- La presente ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, de fecha 15 de enero de 1991; se dejan sin efectos todos los decretos, reglamentos, acuerdos y circulares que se opongan a la presente ley.
+
+TERCERO.- En aquellas leyes y reglamentos en que se faculte o autorice a la Secretaría con relación a la aplicación de la Ley para el Control de Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, se entenderán que las facultades subsisten a favor de la Secretaría con relación a la presente ley.
+
+CUARTO.- Los procedimientos relativos a la expedición, revocación o modificación por cambios de patentes, así como a la imposición de sanciones derivados de infracciones, que a la entrada en vigor de la presente Ley se encuentren en trámite, continuarán substanciándose conforme a la Ley anterior hasta el dictado de la resolución correspondiente.
+
+QUINTO.- Las personas físicas o morales que requieran obtener Licencia de Bebidas Alcohólicas para dedicarse a actividades comerciales que impliquen la venta de bebidas alcohólicas en giros, que en la ley anterior no se encontraban regulados, tendrán un plazo de 90 días a partir de la entrada en vigor de esta Ley, para solicitar dicha Licencia de Bebidas Alcohólicas o para suspender dichas actividades.
+
+SEXTO.- El formato que actualmente ampara la existencia y titularidad de los derechos de una patente para la venta de bebidas alcohólicas deberá ser sustituido por el nuevo formato de Licencia de Bebidas Alcohólicas en el momento que proceda la renovación de los derechos de la misma.
+
+Dicho tramite, se hará en los términos y condiciones que mediante reglas de carácter general establezca y publique la Secretaría en el Periódico Oficial del Gobierno del Estado de Quintana Roo y en un periódico de mayor circulación, las reglas deberán ser emitidas a mas tardar en los 90 días siguientes a la entrada en vigor de la presente ley.
+
+SÉPTIMO.- En tanto se realizan las reformas correspondientes a la Ley de Hacienda del Estado, para el pago de los derechos respectivos a la Licencia a que se refiere el Artículo 18 de esta Ley, se deberán contemplar los derechos para cada uno de los giros previstos en dicha licencia, contemplados en el Artículo 170 de la propia Ley de Hacienda del Estado. Asimismo para el pago de los derechos a que se refiere el Artículo 21 fracción II de esta Ley, se estará a lo dispuesto por el artículo 170-A, previsto en el ordenamiento hacendario en cita.
+
+OCTAVO.- Cuando en otras disposiciones se haga referencia a Patentes para la Venta de Bebidas Alcohólicas, se entenderá que se trata de la Licencia de Bebidas Alcohólicas que regula la presente Ley.
+
+NOVENO.- La Secretaria constituirá el fondo al que se refiere el Artículo 71 del presente ordenamiento, a partir del 1º de enero del año 2008.
+
+DÉCIMO.- En un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente Ley, deberá expedirse su Reglamento.
+
+DÉCIMO PRIMERO.- Los Ayuntamientos deberán expedir las disposiciones reglamentarias a que se refieren los Artículos 5 segundo párrafo y 70 de esta Ley, en un plazo no mayor de 90 días, posteriores a la entrada en vigor de la presente Ley.
+
+DÉCIMO SEGUNDO.- En un plazo no mayor de 30 días posteriores a la expedición del Reglamento a que se refiere el Artículo 70 de la presente Ley, deberá constituirse el Consejo Municipal sobre Venta y Consumo de Bebidas Alcohólicas.
+
+DÉCIMO TERCERO.- Los Ayuntamientos deberán incluir dentro de su respectivo presupuesto de egresos para el ejercicio fiscal 2008, la partida correspondiente para la constitución del fondo a que se refiere el artículo 72 del presente ordenamiento.
