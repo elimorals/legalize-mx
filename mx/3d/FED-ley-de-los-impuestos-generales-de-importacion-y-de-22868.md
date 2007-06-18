@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2007-02-22"
+last_updated: "2007-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, PUBLICADA EN EL D.O.F. DE 18 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4803,3 +4805,29 @@ SEGUNDO.- Las disposiciones relativas a las fracciones arancelarias 2208.70.01, 
 D.O.F. 22 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor el 1o. de julio de 2007.
+
+SEGUNDO.- De los cupos libres de arancel de la fracción arancelaria 1901.90.05, de conformidad con lo publicado en el Diario Oficial de la Federación del 22 de abril de 2005, se asignarán durante el año 2007, 5 mil toneladas directamente a LICONSA S.A. de C.V. y las 39 mil 200 restantes a la industria. De las fracciones arancelarias 0402.10.01 y 0402.21.01, correspondientes al Tratado de Libre Comercio de América del Norte y la Organización Mundial de Comercio, se asignarán directamente el 50% a LICONSA, S.A. de C.V., para su Programa de Abasto Social de Leche. El 50% restante de dichas fracciones arancelarias, se asignará de manera directa durante los primeros 60 días de cada semestre del año, a través de la Secretaría de Economía, a la industria del sector privado.
+
+Para la distribución del total de las fracciones arancelarias asignadas a la industria del sector privado se observarán, durante el año 2007, las siguientes reglas:
+
+I. La condición previa para la asignación directa del 81% de los cupos libres de arancel será que cada empresa presente sus consumos auditados de 2006 del volumen de leche fluida, de leche en polvo y de otros sólidos de leche de producción nacional, y de leche en polvo importada, así como sus compromisos de adquisición de leche de producción nacional para 2007, los cuales deberán quedar registrados ante la Secretaría de Economía. Para que un solicitante pueda acceder a dichas cuotas, la participación del consumo de leche en polvo importada, no deberá sobrepasar el 30%. La leche fluida se convertirá a sólidos totales utilizando el factor 8.5.
+
+II. A las empresas que no puedan cubrir el 70% de la compra de leche fluida convertida a sólidos, leche en polvo y otros sólidos de leche de producción nacional de sus consumos totales auditados de productos lácteos, se les asignará directamente el 19% del porcentaje destinado a la industria del sector privado.
+
+Los cupos adicionales equivalentes a un 29.7% de los cupos libres de arancel asignados a LICONSA S.A de C.V. y los equivalentes a un 8.1% de los cupos libres de arancel asignados a la industria privada, señalados en el primer párrafo, serán entregados a los respectivos beneficiarios en el mes de agosto del 2007.
+
+La Secretaría de Hacienda y Crédito Público deberá verificar el origen de las importaciones de lácteos que ingresan al país bajo las preferencias arancelarias establecidas en los tratados de libre comercio vigentes, de las fracciones arancelarias 0402.10.01, 0402.21.01, 0404.10.01 y 1901.90.05, conforme a los procedimientos legales aplicables, informando trimestralmente los resultados al Congreso de la Unión.
+
+El precio de compra de leche a productores nacionales por parte de LICONSA, S.A. de C.V., que durante el año 2007 se determine en los términos de las disposiciones aplicables, no podrá ser mayor al precio al que dicha entidad venda dicho producto en el Programa de Abasto Social de Leche.
+
+TERCERO.- Se abroga, a partir de la entrada en vigor de la presente Ley, la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación del 18 de enero de 2002 y sus modificaciones posteriores, así como cualquier otra disposición que se oponga a esta Ley, con excepción de lo dispuesto en el artículo cuarto transitorio de la presente Ley.
+
+CUARTO.- Las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general, respecto a la Ley de los Impuestos Generales de Importación y de Exportación, publicada el 18 de enero de 2002, se entenderán referidas a la presente ley.
+
+QUINTO.- El arancel establecido en el artículo primero de la presente Ley para las fracciones arancelarias 4412.31.01, 4412.94.99 y 4412.99.99 estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 24.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 20.
+
+El arancel establecido en el artículo primero de la presente Ley para las fracciones arancelarias 4412.10.01, 4412.31.99, 4412.32.01, 4412.32.99, 4412.39.01, 4412.39.99, 4412.94.01, 4412.94.02, 4412.99.01 y 4412.99.02 estará vigente hasta el 15 de agosto de 2007. A partir del 16 de agosto de 2007, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 19.2, y estará vigente hasta el 15 de agosto de 2008. A partir del 16 de agosto de 2008, el arancel ad-valorem aplicable para las fracciones arancelarias, a que se refiere este párrafo, será de 10.
