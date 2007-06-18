@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2006-12-29"
+last_updated: "2007-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JUNIO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1431,7 +1431,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 122.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 #### Sección Segunda. Estímulos
 
@@ -1447,7 +1447,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 125.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 #### Sección Tercera. Del Fondo de Apoyo a Proyectos Ambientales
 
@@ -1505,7 +1505,9 @@ VI. Los profesionistas y sus asociaciones o colegios.
 
 En materia de educación, corresponde a las autoridades a que se refiere el párrafo anterior, el ejercicio de las atribuciones señaladas a favor del Estado y de los municipios, respectivamente, en las leyes General de Educación y para la Coordinación de la Educación Superior, así como las previstas en este Libro.
 
-La Secretaría de Educación, Cultura y Bienestar Social verificará que los particulares que presten servicios educativos en la entidad, cuenten con autorización o con reconocimiento de validez de estudios, y en su caso, procederá a imponer las sanciones correspondientes, en términos de este Libro.
+> <small>(REFORMADO, G.G. 18 DE JUNIO DE 2007)</small>
+
+La Secretaría de Educación verificará a través de auditorías, revisiones e inspecciones, que los servicios educativos que presten los particulares en la entidad, cuenten con autorización o con reconocimiento de validez de estudios, asimismo que den cumplimiento a las disposiciones jurídicas, políticas y planes del sector, y en su caso, procederá a imponer las sanciones correspondientes, en términos de este Libro.
 
 Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Cultura y Bienestar Social, y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
@@ -1569,9 +1571,13 @@ XVIII. Establecer políticas para el magisterio orientadas a la obtención de me
 
 XIX. Operar los sistemas de créditos y equivalencias que faciliten el tránsito de educandos entre las diferentes instituciones y planteles del sistema educativo estatal, de acuerdo a las disposiciones legales aplicables;
 
-XX. Imponer sanciones;
+> <small>(ADICIONADA, G.G. 18 DE JUNIO DE 2007)</small>
 
-XXI. Publicar en el periódico oficial Gaceta del Gobierno, los planes y programas de estudios que la autoridad educativa federal determine conforme a lo establecido por la Ley General.
+XX. Vigilar el cumplimiento de las disposiciones jurídicas, políticas y planes del sector, a través de auditorías, revisiones e inspecciones, que se realicen a las instituciones educativas particulares de todos los tipos, niveles y modalidades;
+
+XXI. Imponer sanciones;
+
+XXII. Publicar en el periódico oficial Gaceta del Gobierno, los planes y programas de estudios que la autoridad educativa federal determine conforme a lo establecido por la Ley General.
 
 ###### Artículo 3.
 
@@ -1735,7 +1741,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 ### CAPITULO CUARTO. De la información ambiental
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 3.
 
@@ -2217,7 +2223,7 @@ III. La inhumación en la Rotonda de los Hombres Ilustres.
 
 63.- La Presea "Estado de México" también podrá concederse post-mortem a quienes, teniendo merecimientos para ello, hayan fallecido en el año inmediato anterior al de la premiación.
 
-### CAPITULO CUARTO. De la evaluación del impacto ambiental
+### CAPITULO QUINTO. De la autorregulación y auditorias ambientales
 
 ###### Artículo 3.
 
@@ -2237,7 +2243,9 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 67.- El Gobernador del Estado tiene la facultad para decretar la inhumación de los restos de mexiquenses ilustres en la Rotonda de los Hombres Ilustres, creada para tal efecto dentro del cementerio municipal de la ciudad de Toluca de Lerdo.
 
-### CAPITULO QUINTO. De la autorregulación y auditorias ambientales
+### CAPITULO PRIMERO. De las áreas naturales protegidas
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 3.
 
@@ -2309,9 +2317,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO PRIMERO. De las áreas naturales protegidas
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+### CAPITULO SEGUNDO. De las áreas voluntarias de conservación ecológica
 
 ###### Artículo 4.
 
@@ -2321,7 +2327,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 2.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO SEGUNDO. De las áreas voluntarias de conservación ecológica
+### CAPITULO TERCERO. De la flora y la fauna silvestres
 
 ###### Artículo 4.
 
@@ -2335,7 +2341,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO TERCERO. De la flora y la fauna silvestres
+### CAPITULO CUARTO. Del aprovechamiento sustentable del agua
 
 ###### Artículo 4.
 
@@ -2373,7 +2379,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 7.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO CUARTO. Del aprovechamiento sustentable del agua
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 4.
 
@@ -2393,13 +2399,13 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 8.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LAS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO CUARTO. De la protección al ambiente
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De la prevención y control de la contaminación atmosférica
 
 ###### Artículo 4.
 
@@ -2427,7 +2433,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 10.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO QUINTO. De los prestadores de servicios ambientales
 
@@ -2441,7 +2447,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De la prevención y control de la contaminación atmosférica
+### CAPITULO TERCERO. De las actividades riesgosas
 
 ###### Artículo 4.
 
@@ -2477,7 +2483,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO TERCERO. De las actividades riesgosas
+### CAPITULO CUARTO. Prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, olores, vapores, gases y contaminación visual
 
 ###### Artículo 4.
 
@@ -2511,7 +2517,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 14.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO CUARTO. Prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, olores, vapores, gases y contaminación visual
+### CAPITULO QUINTO. De los residuos sólidos municipales e industriales no peligrosos
 
 ###### Artículo 4.
 
@@ -2527,9 +2533,11 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 16.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)CAPITULO CUARTO
 
-### CAPITULO QUINTO. De los residuos sólidos municipales e industriales no peligrosos
+De la evaluación del impacto ambiental
+
+### CAPITULO SEXTO. De las contingencias ambientales
 
 ###### Artículo 4.
 
@@ -2593,7 +2601,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO SEXTO. De las contingencias ambientales
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 4.
 
@@ -2617,7 +2625,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 20.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 4.
 
@@ -2671,7 +2679,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 4.
 
@@ -2775,7 +2783,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 22.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEGUNDO. Personas Físicas y Morales con fines ambientalistas
 
 ###### Artículo 4.
 
@@ -2797,7 +2805,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Personas Físicas y Morales con fines ambientalistas
+### CAPITULO TERCERO. Denuncia Popular
 
 ###### Artículo 4.
 
@@ -2807,7 +2815,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 119.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -2821,7 +2829,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 26.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO TERCERO. Denuncia Popular
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 4.
 
@@ -2847,7 +2855,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 28.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
@@ -2855,7 +2863,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades
 
 ###### Artículo 5.
 
@@ -2935,7 +2943,7 @@ IV. Proponer ante la Legislatura del Estado la fundación de nuevos centros de p
 
 V. Las demás que le confieran las disposiciones legales.
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
 
 ###### Artículo 5.
 
@@ -3063,7 +3071,7 @@ IX. Expedir su reglamento interno para regular su integración, organización y 
 
 X. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
 
 ###### Artículo 5.
 
@@ -3089,7 +3097,7 @@ VII. Expedir su reglamento interno para regular su integración, organización y
 
 VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -3121,7 +3129,7 @@ IV. Las demás acciones que convengan el Estado y los municipios correspondiente
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De la clasificación del territorio
 
 ###### Artículo 5.
 
@@ -3157,7 +3165,7 @@ IV. Los planes de centros de población;
 
 V. Los planes parciales.
 
-### CAPITULO SEGUNDO. De la clasificación del territorio
+### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
 
 ###### Artículo 5.
 
@@ -3177,7 +3185,7 @@ IV. Adoptarán la estructura, contenido, terminología y demás elementos que es
 
 25.- Los planes de desarrollo urbano de competencia municipal y sus programas, deberán sujetarse a las políticas y estrategias del Plan Estatal de Desarrollo Urbano y cuando corresponda, a las del respectivo plan regional de desarrollo urbano. Los que se realicen en contravención a esta disposición, serán nulos y no producirán efecto jurídico alguno.
 
-### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
+### CAPITULO PRIMERO. Disposiciones generales
 
 #### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
@@ -3213,7 +3221,7 @@ V. Los planes, una vez aprobados, deberán publicarse conjuntamente con el acuer
 
 VI. Los planes serán inscritos, con todos sus documentos integrantes, en el Registro Público de la Propiedad y en el Registro Estatal de Desarrollo Urbano, dentro de los quince días siguientes al de su publicación.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De los conjuntos urbanos
 
 ###### Artículo 5.
 
@@ -3253,7 +3261,7 @@ III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de ce
 
 ## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
-### CAPITULO SEGUNDO. De los conjuntos urbanos
+### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
@@ -3557,7 +3565,7 @@ En la escritura pública de constitución del respectivo condominio, se insertar
 
 No estarán afectos a la obligación precedente los condominios que se proyecte realizar en los lotes provenientes de conjuntos urbanos o subdivisiones autorizadas, en las que se hayan ya establecido tales obligaciones.
 
-### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
+### CAPITULO CUARTO. De la lotificación para condominios
 
 #### SECCION CUARTA. De la invitación restringida
 
@@ -3639,7 +3647,7 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 La cédula informativa de zonificación no constituirá autorización para ejecución de obra alguna, ni requisito para la obtención de autorizaciones o licencias.
 
-### CAPITULO CUARTO. De la lotificación para condominios
+### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
 
 ###### Artículo 5.
 
@@ -3667,7 +3675,7 @@ X. Las construcciones de equipamiento turístico y gasolineras, serán las únic
 
 XI. Las dedicadas a servicios de radiotelecomunicación o similares y anuncios publicitarios que requieran elementos estructurales, se ajustarán a las disposiciones reglamentarias.
 
-### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
+### CAPITULO SEXTO. De la licencia de construcción
 
 ###### Artículo 5.
 
@@ -3699,7 +3707,7 @@ XII. Las vías públicas contarán con placas en las que se consigne el nombre y
 
 ## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
-### CAPITULO SEXTO. De la licencia de construcción
+### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
 ###### Artículo 5.
 
@@ -3827,7 +3835,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
-### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 5.
 
@@ -3881,7 +3889,7 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 5.
 
@@ -3921,7 +3929,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 6.
 
@@ -3935,7 +3943,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 6.
 
@@ -3943,13 +3951,13 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO SEXTO. De las medidas de seguridad y sanciones
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
 5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 ###### Artículo 6.
 
@@ -4041,7 +4049,7 @@ IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen
 
 X. Las demás que se prevean en la reglamentación de este Libro.
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
 ###### Artículo 6.
 
@@ -4069,7 +4077,7 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil. Asimismo, tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
 
 ###### Artículo 6.
 
@@ -4107,7 +4115,7 @@ X. Coadyuvar en la difusión de programas de protección civil;
 
 XI. Promover y difundir la cultura de protección civil en el Estado.
 
-### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
+### CAPITULO QUINTO. De los grupos voluntarios
 
 ###### Artículo 6.
 
@@ -4117,7 +4125,7 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 17.- Las unidades internas deberán elaborar programas de protección civil que presentarán para su registro ante la Secretaría General de Gobierno.
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO SEXTO. De las unidades internas
 
 ###### Artículo 6.
 
@@ -4157,7 +4165,7 @@ IX. Coordinar sus acciones con la Dirección General de Protección Civil;
 
 X. Las demás que le confieran otros ordenamientos.
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
@@ -4179,7 +4187,7 @@ Lo dispuesto en este artículo se hará en términos de la reglamentación de es
 
 Una vez concluidas las construcciones a que se refiere el párrafo anterior, para el inicio de operaciones se requerirá de la autorización de la Secretaría General de Gobierno.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
 ###### Artículo 6.
 
@@ -4301,19 +4309,19 @@ III. Con cinco mil días de salario mínimo general vigente del área geográfic
 
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
-
 ### CAPITULO TERCERO. De las infracciones y sanciones
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
 ## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -4337,7 +4345,7 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
 ###### Artículo 7.
 
@@ -4365,7 +4373,7 @@ VII. Los municipios, que tendrán a su cargo las facultades relativas a la infra
 
 ## TITULO OCTAVO. De la vigilancia
 
-### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
+### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 ###### Artículo 7.
 
@@ -4381,7 +4389,7 @@ La infraestructura vial podrá ser libre de peaje, y de cuota.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -4489,7 +4497,9 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 7.
 
@@ -4519,9 +4529,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+### CAPITULO PRIMERO. De las concesiones y permisos
 
 ###### Artículo 7.
 
@@ -4711,7 +4719,9 @@ Para estos efectos, los concesionarios y permisionarios que cuenten con los elem
 
 b) Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones establecidas en las normas oficiales correspondientes.
 
-### CAPITULO PRIMERO. De las concesiones y permisos
+### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
@@ -4743,9 +4753,7 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
 
-### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 7.
 
@@ -4773,7 +4781,7 @@ IV. La instalación y explotación de anuncios publicitarios en los diversos tip
 
 Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 7.
 
@@ -4845,7 +4853,7 @@ Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinera
 
 ## TITULO TERCERO. Del transporte
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -4857,7 +4865,7 @@ II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra l
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
@@ -4867,7 +4875,7 @@ La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
@@ -5115,8 +5123,6 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
-### CAPITULO TERCERO. De los conductores
-
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
@@ -5125,17 +5131,19 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
-
 ### CAPITULO TERCERO. De las organizaciones de productores
 
+## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
+
 ### CAPITULO PRIMERO. De la producción y transformación
+
+### CAPITULO SEGUNDO. De la comercialización
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
 ## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -5145,7 +5153,7 @@ X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 8.
 
@@ -5155,7 +5163,7 @@ Corresponde a la Secretaría General de Gobierno ejercer las atribuciones relati
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 8.
 
@@ -5199,7 +5207,7 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
@@ -5297,7 +5305,7 @@ l) Obstruir los accesos y espacios destinados a las personas con capacidades dif
 
 Para efectos del párrafo anterior, se consideran estacionamientos de servicio al público, los locales destinados a la prestación al público del servicio de recepción, guarda y protección de vehículos a cambio del pago de una tarifa autorizada.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 8.
 
@@ -5327,7 +5335,7 @@ Los agentes de tránsito del Estado y los municipios están facultados para ejer
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. De los consejos consultivos económicos
 
 ###### Artículo 8.
 
@@ -5351,7 +5359,7 @@ VIII. Cuando lo establezcan otras disposiciones legales.
 
 En los casos a que se refiere este artículo, salvo tratándose de la fracción VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -5375,7 +5383,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 9.
 
@@ -5387,7 +5395,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 9.
 
@@ -5397,7 +5405,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -5409,7 +5417,7 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -5447,7 +5455,9 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 9.
 
@@ -5467,9 +5477,7 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 9.
 
@@ -5549,7 +5557,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
 ###### Artículo 9.
 
@@ -5563,7 +5571,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -5599,7 +5607,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 9.
 
@@ -5619,13 +5627,13 @@ I. En caso de la fracción I, el beneficiario deberá devolver los apoyos y est�
 
 II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los apoyos y estímulos recibidos o su equivalente y no podrá ser sujeto de nuevos apoyos o estímulos por un plazo de dos años, contado a partir de la devolución correspondiente.
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO TERCERO. De la educación regular y especial
 
 # LIBRO DECIMO. Del fomento económico
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 10.
 
@@ -5637,7 +5645,7 @@ Para efectos de este Libro, se entiende por actividad económica toda aquella qu
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la entidad un incremento sostenido de las actividades económicas.
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 10.
 
@@ -5651,7 +5659,7 @@ Para efectos de este Libro, se entiende por actividad económica toda aquella qu
 
 5.- Los municipios realizarán acciones de fomento económico que sean congruentes con las previstas en este Libro a cargo de la Secretaría de Desarrollo Económico y el Plan de Desarrollo Estatal.
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 10.
 
@@ -5693,7 +5701,7 @@ Para la creación de los consejos consultivos regionales se estará a la regiona
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
@@ -5753,7 +5761,7 @@ XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Peque�
 
 12.- La Secretaría de Desarrollo Económico expedirá normas técnicas en materia de funcionalidad y operatividad de centrales y módulos de abasto, mercados de venta al detalle, rastros, plazas y explanadas comerciales, tianguis y otras construcciones relacionadas con el comercio.
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
@@ -5811,7 +5819,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
@@ -5863,7 +5871,9 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -5989,7 +5999,7 @@ IV. Exportación.
 
 ## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6007,9 +6017,9 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6027,9 +6037,9 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO CUARTO. De la contratación
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6061,7 +6071,7 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6089,7 +6099,7 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6123,7 +6133,7 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO SEPTIMO. De la información, verificación y control
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6171,7 +6181,7 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO OCTAVO. De los medios de defensa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6211,9 +6221,9 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO PRIMERO. Parte general
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6249,7 +6259,7 @@ I. Establecer programas de promoción del empleo de las personas con capacidades
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6289,7 +6299,7 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO TERCERO. De la sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6309,7 +6319,7 @@ Para el cumplimiento de lo dispuesto en este artículo, las autoridades competen
 
 Las barreras arquitectónicas que en la infraestructura vial deben ser eliminadas o readecuadas para brindar facilidad de desplazamiento a las personas con capacidades diferentes son: banquetas, coladeras, estacionamientos, escaleras, rampas, teléfonos públicos y tensores para postes.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6319,7 +6329,7 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO QUINTO. De los catálogos
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6337,7 +6347,7 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6387,9 +6397,9 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -6553,9 +6563,9 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO OCTAVO. De las enajenaciones
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -6683,7 +6693,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO NOVENO. De los contratos
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6881,7 +6891,7 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO DECIMO. De las garantías
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7025,7 +7035,7 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7149,7 +7159,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7171,7 +7181,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7205,7 +7215,7 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7263,11 +7273,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
 ### CAPITULO PRIMERO. De las disposiciones generales
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7275,7 +7285,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7389,7 +7399,7 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7471,7 +7481,7 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO PRIMERO. Del IGECEM
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7493,7 +7503,7 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7509,9 +7519,9 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -7529,7 +7539,7 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la dirección del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -7587,7 +7597,7 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -7887,7 +7897,7 @@ Toda persona que satisfaga los requisitos de la convocatoria y de las bases de l
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8005,7 +8015,7 @@ El contratista estará obligado a responder de los defectos y vicios ocultos de 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO V. De la fe de erratas
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8129,7 +8139,7 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8167,9 +8177,9 @@ III. La Secretaria de la Contraloría y a los órganos de control interno, la in
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8185,7 +8195,7 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8237,7 +8247,7 @@ El inconforme deberá adjuntar a su escrito el documento que acredite su persona
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8253,7 +8263,7 @@ En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interé
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8281,7 +8291,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 ## TITULO QUINTO. De las sanciones
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8521,7 +8531,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8767,7 +8777,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8801,7 +8811,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8843,7 +8853,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9037,7 +9047,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9111,7 +9121,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9177,7 +9187,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9243,7 +9253,7 @@ VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9287,7 +9297,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9335,7 +9345,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9355,7 +9365,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9367,7 +9377,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10592,3 +10602,11 @@ CUARTO.- Las Secretarías de Comunicaciones, de Finanzas y de Transporte, provee
 QUINTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor de las reformas relativas a los artículos 91 Bis y 97 B del Código Financiero del Estado de México y Municipios, así como las correspondientes a los artículos segundo y tercero del presente Decreto en las unidades administrativas de la Secretaría de Transportes, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura organizada y a este Decreto.
 
 SEXTO.- Por acuerdo de los integrantes de las Comisiones Legislativas, se determinó solicitar a la Junta de Coordinación Política de la "LVI" Legislatura, la creación de una comisión especial que le dé seguimiento el Fideicomiso a que hace referencia el artículo Cuarto del Presente Decreto, así como al Ejecutivo Estatal, para que por conducto de la Secretaría de Finanzas, informe a la legislatura, sobre las modificaciones que, en su caso, se efectúen al Fideicomiso autorizado en el Decreto N° 135 publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el 16 de junio del año 2005.
+
+G.G. 18 DE JUNIO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
