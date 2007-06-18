@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2007-06-04"
+last_updated: "2007-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -9939,6 +9939,10 @@ X.- Por impartir órdenes a sus subalternos que contravengan las leyes, reglamen
 
 XI.- Por Aceptar obsequios de sus subalternos o permitir que se promuevan o colecten suscripciones con ese objeto, salvo por ocasiones sociales.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del Artículo 118 tercer párrafo de la Ley de Seguridad Pública para el Estado.
+
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 812.
@@ -10089,27 +10093,35 @@ XIII.- Ser considerados para formar parte de la plantilla docente de capacitaci�
 
 La Comisión de Honor y Justicia es un órgano que tiene por objeto supervisar, evaluar y en su caso sancionar a los elementos operativos por la omisión y comisión de conductas, dentro y fuera del servicio, que en cualquier forma afecten el funcionamiento, operatividad, buena imagen ante la ciudadanía, o por el incumplimiento de las obligaciones que impone el presente Libro. Asimismo es función de la Comisión de Honor y Justicia, otorgar reconocimientos y estímulos a los elementos que por el desempeño de su labor los merezcan aplicando para tal efecto los lineamientos de la Ley de Seguridad Pública para el Estado de Aguascalientes, la Ley de Vialidad, la Ley de Responsabilidades de los Servidores Públicos del Estado, el presente Libro y demás disposiciones legales.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 822.
 
 La Comisión de Honor y Justicia, se integrará de la siguiente forma:
 
-I.- El Regidor de Seguridad Pública quien fungirá como Presidente de la Comisión;
+I.- Un Presidente, que será el Regidor de Seguridad Pública;
 
-II.- Dos elementos operativos de la Dirección;
+II.- Cuatro Vocales que serán:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2007)</small>
+a) Dos elementos operativos de la Dirección;
 
-III.- Dos regidores designados por el H. Ayuntamiento a propuesta del Presidente Municipal;
+b) Dos Regidores del H. Ayuntamiento;
 
-Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate.
+III.- Un Secretario de Acuerdos; y
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2007)</small>
+IV.- Un Actuario Notificador.
+
+Los vocales y el Presidente tendrán derecho a voz y voto, correspondiendo al Presidente el voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 823.
 
+Los regidores integrantes de la Comisión serán designados por el H. Ayuntamiento a propuesta del Presidente Municipal.
+
 Los elementos operativos integrantes de la Comisión serán designados por el Presidente Municipal y durarán un año en su encargo.
+
+El Secretario de acuerdos y el Actuario notificador, serán nombrados por la Comisión a propuesta de su Presidente.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10163,9 +10175,13 @@ I.- Acta de liberación del vehículo;
 
 II.- Copia del inventario y el pago de multas de tránsito si las hubiere;
 
-III.- Identificación Personal de quien resulte ser el propietario; y
+III.- Identificación Personal de quien resulte ser el propietario; y (sic)
 
-IV.- Factura que acredite la propiedad del vehículo, en su defecto presentaran documento de jurisdicción voluntaria.
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
+IV.- Independientemente de lo señalado por las fracciones II y III, los integrantes de la Comisión que necesariamente deben estar en la sesión a fin de que pueda iniciar serán: El Presidente de la Comisión, un vocal elemento de la Dirección de Seguridad Pública y un vocal regidor; y
+
+V.- Factura que acredite la propiedad del vehículo, en su defecto presentaran documento de jurisdicción voluntaria.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10186,6 +10202,50 @@ V.- Elaborar la ponencia, en que la Comisión de Honor y Justicia habrá de fund
 VI.- Emitir la resolución que la Comisión hubiere determinado en forma colegiada, acorde a los principios que establece este Libro y ordenar su notificación; y
 
 VII.- Las demás que prevenga este Libro o le confiera la Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 827 BIS.- Son atribuciones del Secretario de Acuerdos las siguientes:
+
+I.- Asistir al Presidente de la Comisión de Honor y Justicia en todo lo referente al desarrollo de las audiencias llevadas a cabo durante el procedimiento disciplinario seguido en contra de los elementos operativos;
+
+II.- Contar con fe pública respecto de las actuaciones que se realicen dentro de las audiencias, así como de las diligencias que se tengan que realizar fuera de ellas, con motivo del procedimiento disciplinario que por sus circunstancias así lo exigiera, por lo que de manera enunciativa y no limitativa gozará de fe pública para:
+
+a).- Expedir copias certificadas que le sean solicitadas por diversas autoridades o por los litigantes en el procedimiento disciplinario que corresponda;
+
+b).- Cotejar documentos;
+
+c).- Realizar certificaciones de diversa índole, que se relacionen con las actuaciones de la Comisión de Honor y Justicia; y
+
+d).- Levantar constancias y fe de hechos;
+
+IV.- Autorizar conforme a la ley, autos, decretos, resoluciones y en general todas las diligencias en que interviniere;
+
+V.- Recibir todas las promociones que le presenten, anotando el día y la hora en el documento, o asentar cualquier comparecencia, debiendo anotar en las mismas los elementos señalados al principio de esta fracción;
+
+VI.- Dar cuenta al Presidente de la Comisión de Honor y Justicia, dentro de las veinticuatro horas siguientes a su presentación de los ocursos y peticiones que se hagan en los procedimientos disciplinarios;
+
+VII.- Sellar y foliar los autos que se vayan formando durante el desarrollo del procedimiento disciplinario;
+
+VIII.- Vigilar que se hagan y en su caso hacer, las notificaciones y citaciones en la forma y términos que señale este Código;
+
+IX.- Auxiliar al Presidente de la Comisión de Honor y Justicia en la elaboración de los proyectos de resoluciones que se dé en el procedimiento disciplinario, así como de las resoluciones definitivas;
+
+X.- Participar en las audiencias con voz informativa y mediante la lectura de aquellas constancias que le ordene el Presidente; y
+
+XI.- Las demás que le otorgaren, este Código y las leyes de aplicación Supletoria.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 827 TER.- Son atribuciones del Actuario notificador las siguientes:
+
+I.- Hacer entrega de las notificaciones y demás documentos oficiales que expida la Comisión;
+
+II.- Contar con fe pública para la práctica de diligencias relativas a la notificación de acuerdos y otros documentos oficiales de la Comisión;
+
+III.- Dar fe del cotejo de documentos que tuviere a la vista en el momento de la práctica de alguna notificación;
+
+IV.- Las demás que le señalen este Código y las leyes de aplicación supletoria.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10281,11 +10341,43 @@ VIII.- Las audiencias no podrán suspenderse salvo cuando existan causas de fuer
 
 IX.- En cualquier momento, previo o posterior a la notificación a que se refiere la fracción segunda de este artículo, la Comisión a petición del Fiscal, podrá suspender temporalmente al presunto responsable de su cargo, empleo o comisión, si a su juicio así conviniere, para la conducción de la investigación o por la gravedad del hecho, de conformidad al Artículo 118 de la Ley.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 835.
 
-Si el elemento operativo suspendido no resulta responsable de los hechos, éste será reinstalado en su puesto en los términos del Artículo 118 tercer párrafo de la Ley.
+La Comisión de Honor y Justicia podrá acordar de oficio o a solicitud de cualquiera de las partes, la acumulación de los autos dentro del procedimiento disciplinario, hasta antes de que se emita la resolución definitiva del procedimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 835 BIS.- Procede la acumulación cuando:
+
+I.- Exista identidad de los elementos operativos, cosas, personas afectadas y hechos imputables;
+
+II.- Exista identidad del elemento operativo, cosas, personas afectadas pero hechos distintos;
+
+III.- Exista identidad del elemento operativo, hechos y personas afectadas aunque las cosas sean diferentes;
+
+IV.- Exista identidad del elemento operativo, Hechos, cosas pero personas diferentes;
+
+V.- Existan distintos hechos provenientes de una misma causa, aunque se den contra distintas personas pero identidad del elemento operativo;
+
+VI.- Existan distintos hechos pero provenientes de diferentes causas aunque sean a diferentes personas, pero que tenga identidad con el elemento operativo; y
+
+VII.- Las acciones aun siendo distintas, no provocaría una resolución distinta a la que deba de emitirse y aplicarse conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 835 TER.- La petición de acumulación de los autos deberá contener los siguientes requisitos:
+
+I.- Debe expresar los números de expediente de cada uno de ellos;
+
+II.- El hecho o hechos realizados por el elemento operativo en cada caso;
+
+III.- las (sic) personas que fueren afectadas en cada uno de los expedientes, si los hubiere;
+
+IV.- El origen de las causas de cada uno de ellos; y
+
+V.- Los fundamentos legales en que se apoye para solicitar la acumulación.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -10371,6 +10463,34 @@ La resolución se notificará por escrito al interesado personalmente, dentro de
 
 A fin de que la Comisión de Honor y Justicia, pueda establecer las sanciones correspondientes al caso concreto, se acatará lo dispuesto por el presente Libro.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 845 BIS.- Se podrá sobreseer el procedimiento disciplinario en cualquier tiempo hasta antes de dictar la resolución definitiva que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2007)</small>
+
+ARTICULO 845 TER.- Son causales de sobreseimiento las siguientes:
+
+I.- Cuando no sean satisfechas (sic) los requisitos establecidos por el Artículo 830 de este Código;
+
+II.- Cuando el elemento operativo denunciado se haya separado de la Corporación de forma voluntaria antes de resolver en forma definitiva el procedimiento disciplinario instaurado en su contra;
+
+III.- Cuando de la denuncia hecha por el afectado se desprenda que no hay elementos suficientes que demuestren la responsabilidad de los hechos que se le imputan al elemento operativo;
+
+IV.- Cuando se desista el denunciante y no afecte derechos de terceros;
+
+V.- Cuando existan imprecisiones en los hechos de tal manera que ni aun investigando por parte de la fiscalía o del titular de la Dirección de Seguridad Pública y Vialidad Municipal puedan allegarse de los datos requeridos o de las pruebas necesarias para demostrar la responsabilidad incurrida por el elemento operativo;
+
+VI.- Cuando se denuncien hechos atacables por otra vía, competencia de la Comisión de Honor y Justicia;
+
+VII.- Por muerte del elemento operativo a quien se le sigue el procedimiento disciplinario;
+
+VIII.- Por falta de ratificación de la denuncia instaurada en contra del elemento operativo hecha por el denunciante;
+
+IX.- Por motivo de las funciones propias del elemento operativo, no se desprenda que los hechos realizados sean dolosas, de mala fe o excesivos;
+
+X.- Cuando lo solicitare la fiscalía por no tener pruebas suficientes que acrediten la responsabilidad del elemento operativo.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 846.
@@ -10381,9 +10501,15 @@ I.- La Ley de Seguridad Pública para el Estado de Aguascalientes;
 
 II.- La Ley del Procedimiento Administrativo del Estado;
 
-III.- La Ley de Responsabilidades de los Servidores Públicos del Estado; y
+III.- La Ley de Responsabilidades de los Servidores Públicos del Estado; y (sic)
 
-IV.- A los principios, de Justicia y Equidad.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2007)</small>
+
+IV.- El Código de Procedimientos Civiles del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2007)</small>
+
+V.- A los principios de justicia y equidad.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -22590,5 +22716,15 @@ P.O. 4 DE JUNIO DE 2007.
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
+
+P.O. 18 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
