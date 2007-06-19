@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-transito-antes-reglamento-de-transito-y-8219"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-10-12"
-last_updated: "1993-08-25"
+last_updated: "2007-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO DE TRANSITO Y TRANSPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE VICTORIA, TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO SE ABROGA EN LO QUE CORRESPONDE A SU APLICACION DENTRO DEL MUNICIPIO DE VICTORIA, EL REGLAMENTO DE TRANSITO Y TRANSPORTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de octubre de 1988.
 
@@ -2004,3 +2006,41 @@ El presente Acuerdo Gubernamental entrará en vigor el día siguiente al de su p
 ###### ARTICULO SEGUNDO.
 
 La Secretaría de Seguridad Pública deberá expedir las Bases del Programa Estatal de Calidad Total de la Red del Servicio de Transporte Público Urbano de Pasajeros de Tamaulipas, dentro de los 15 días siguientes a la fecha de inicio de la vigencia del presente Acuerdo.
+
+P.O. 19 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entrará en vigor a los sesenta días posteriores al de su publicación en el Periódico Oficial del Estado. Dentro de dicho plazo se deberá efectuar la capacitación del personal operativo y administrativo de la corporación encargada de aplicar el presente Reglamento.
+
+###### ARTÍCULO SEGUNDO
+
+De conformidad con lo dispuesto en las fracciones II, segundo párrafo y III, inciso h, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; los artículos 131 y 132 fracción VIII, de la Constitución Política del Estado de Tamaulipas y 49 fracción III, del Código Municipal para el Estado de Tamaulipas, se abroga en lo que corresponde a su aplicación dentro del municipio de Victoria, el Reglamento de Tránsito y Transporte expedido mediante Acuerdo Gubernamental del 30 de agosto de 1988, y publicado en el Periódico Oficial del Estado número 82 del 12 de octubre de 1988.
+
+###### ARTÍCULO TERCERO.
+
+El Ayuntamiento proveerá la adquisición de equipo electrónico de monitoreo, de filmación continua, de fotografía digitalizado, radares, asi como la adquisición del sistema portátil para la emisión, control y reporte de infracciones para uso de los agentes de tránsito, así como la correspondiente adecuación de las instalaciones y la preparación del personal que operará dicho sistema. Al efecto, tal implementación se realizará en la medida de la capacidad económica y financiera del municipio.
+
+###### ARTÍCULO CUARTO.
+
+El Presidente Municipal deberá dar la más amplia difusión al presente Reglamento por los conductos que considere óptimos para su debida cumplimentación, a efecto de que la comunidad en general se entere del contenido del mismo.
+
+ARTÍCULO QUINTO,- la elaboración de las boletas de infracción y demás formatos que se utilizarán, incluidas las previsiones electrónicas y las adecuaciones que sustenten la digitalización de los sistemas computarizados, la base de datos y los mecanismos que establece la ley de Seguridad Pública del Estado, deberán efectuarse e implementarse de manera paulatina conforme el presupuesto municipal lo vaya permitiendo, sin embargo, deberán apreciarse los esfuerzos que se hagan hasta su aplicación integral en el menor tiempo posible.
+
+###### ARTÍCULO SEXTO.
+
+El Ayuntamiento deberá instalar los Centros de Verificación de Contaminantes en el menor tiempo posible y conforme lo permita el presupuesto municipal. Dará aviso de su funcionamiento y la obligatoriedad de su cumplimiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ayuntamiento celebrará los convenios necesarios con las dependencias gubernamentales competentes para sustentar lo relativo a cobro de multas y lo indispensable para la coordinación relativa a la expedición de placas, tarjetas de circulación y licencias para conducir, debiendo procurarse el intercambio de información que facilite las labores operativas municipales y las administrativas de las instancias gubernamentales.
+
+Asimismo, celebrará los acuerdos necesarios para la consolidación de la instauración del seguro de responsabilidad civil de daños a terceros, debiendo en el caso de este municipio, requerirse la cumplimentación de la suscripción de dicho seguro para efectos de realizar los trámites de expedición o canje de placas o el pago de tenencia.
+
+###### ARTÍCULO OCTAVO.
+
+El Ayuntamiento podrá promover el documento correspondiente para adecuar los términos de la actual ley de Ingresos para el ejercicio fiscal del 2007, y subsecuentes, en caso de que la Dirección de Finanzas así lo solicite al Presidente Municipal.
+
+###### ARTÍCULO NOVENO.
+
+El Ayuntamiento deberá capacitar al personal que calificará e impondrá las sanciones previstas en este Reglamento. En su caso, empleará a Jueces Calificadores.
