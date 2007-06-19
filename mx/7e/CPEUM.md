@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2007-02-12"
+last_updated: "2007-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1172,17 +1172,15 @@ La vecindad no se pierde por ausencia en el desempeño de cargos públicos de el
 
 IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2007)</small>
 
-V. No ser Secretario o Subsecretario de Estado, ni Ministro de la Suprema Corte de Justicia de la Nación, a menos que se separe definitivamente de sus funciones noventa día antes de la elección, en el caso de los primeros y dos años, en el caso de los Ministros.
+V.- No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, a menos que se separe definitivamente de sus funciones 90 días antes del día de la elección.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Federal Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
-Los Gobernadores de los Estados no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el período de su encargo, aun cuando se separen definitivamente de sus puestos.
+Los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
-
-Los Secretarios de Gobierno de los Estados, los Magistrados y Jueces Federales o del Estado, no podrán se electos en las entidades de sus respectivas jurisdicciones, sin no se separan definitivamente de sus cargos noventa días antes de la elección.
+Los Secretarios del Gobierno de los Estados y del Distrito Federal, los Magistrados y Jueces Federales o del Estado o del Distrito Federal, así como los Presidentes Municipales y titulares de algún órgano político-administrativo en el caso del Distrito Federal, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1802,9 +1800,9 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2007)</small>
 
-VI.- No ser secretario o subsecretario de Estado, jefe o secretario general de Departamento Administrativo, Procurador General de la República, ni Gobernador de algún Estado, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI.- No ser Secretario o subsecretario de Estado, Procurador General de la República, gobernador de algún Estado ni Jefe de Gobierno del Distrito Federal, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
@@ -5151,6 +5149,18 @@ DECRETO QUE REFORMA EL ARTICULO 1.
 D.O.F. 12 DE FEBRERO DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2007.
+
+DECRETO QUE REFORMA LA FRACCION VI, DEL ARTICULO 82.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2007.
+
+DECRETO QUE REFORMA LA FRACCION V, DEL ARTICULO 55.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
