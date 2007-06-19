@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2007-05-09"
+last_updated: "2007-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -2804,7 +2804,7 @@ Deberán dar aviso de funcionamiento los establecimientos que no requieran de au
 
 El acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Diario Oficial de la Federación.
 
-El aviso a que se refiere este artículo, deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
+El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -2812,7 +2812,7 @@ II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio
 
 III.- Procesos utilizados y línea o líneas de productos;
 
-IV.- Declaración bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
 
 V.- Clave de la actividad del establecimiento, y
 
@@ -3916,9 +3916,13 @@ IV.- Los repelentes que se apliquen directamente a la piel.
 
 No podrá atribuirse a los productos de perfumería y belleza ninguna acción terapéutica, ya sea en el nombre, indicaciones, instrucciones para su empleo o publicidad.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 271.
 
-Los productos para adelgazar o engrosar partes del cuerpo o variar las proporciones del mismo, así como aquellos destinados a los fines a que se refiere el artículo 269 de esta Ley, que contengan hormonas, vitaminas y, en general, substancias con acción terapéutica y que se les atribuya esta acción, serán considerados como medicamentos y deberán sujetarse a lo previsto en el Capítulo IV de este Título.
+Los productos para adelgazar o engrosar partes del cuerpo o variar las proporciones del mismo, así como aquellos destinados a los fines a que se refiere el artículo 269 de esta Ley, que contengan hormonas, vitaminas y, en general, substancias con acción terapéutica que se les atribuya esta acción, serán considerados como medicamentos y deberán sujetarse a lo previsto en el Capitulo IV de este Título.
+
+Cualquier cirugía estética y cosmética relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberán efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud de conformidad con lo que establece el artículo 81 y se encuentren autorizados por la Secretaría de Salud conforme al reglamento correspondiente.
 
 ###### ARTICULO 272.
 
@@ -6243,3 +6247,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo. La Secretaría de Salud contará con 90 días después de entrada en vigor de este Decreto para expedir la reglamentación relativa a la atención médica prehospitalaria.
 
 Artículo Tercero. Las personas que den atención prehospitalaria y que son objeto de la regulación que se establece en el artículo 79 de la Ley en comento, tendrán un año para regularizar su situación profesional, a partir de la entrada en vigor del presente decreto.
+
+D.O.F. 19 DE JUNIO DE 2007.
+
+Primero.- La Secretaría de Salud deberá emitir el Reglamento a que se refiere el párrafo segundo del Artículo 271 en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
