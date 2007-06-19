@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2006-05-22"
+last_updated: "2007-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -414,9 +414,11 @@ IV. Identificar las fuentes generadoras de los residuos cuya disposición final 
 
 La clasificación de un residuo como peligroso, se establecerá en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que incluyan los listados de los mismos y fijen los límites de concentración de las sustancias contenidas en ellos, con base en los conocimientos científicos y las evidencias acerca de su peligrosidad y riesgo.
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
+
 ###### Artículo 17.
 
-Los residuos de la industria minero-metalúrgica provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados así como los provenientes de la fundición y refinación primarias de metales por métodos pirometalúrgicos o hidrometalúrgicos, son de regulación y competencia federal. Podrán disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral, se determinará conforme a las normas oficiales mexicanas aplicables, y estarán sujetos a los planes de manejo previstos en esta Ley. Se exceptúan de esta clasificación los referidos en el artículo 19 fracción I de este ordenamiento.
+Los residuos de la industria minera-metalúrgica provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definirán en forma genérica en el reglamento según lo estipulado en el artículo 7 fracción III de esta ley, son de regulación y competencia federal. Podrán disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral, se determinará conforme a las normas oficiales mexicanas aplicables, y estarán sujetos a los planes de manejo previstos en esta Ley. Se exceptúan de esta clasificación los referidos en el artículo 19 fracción I de este ordenamiento.
 
 ###### Artículo 18.
 
@@ -1429,3 +1431,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 22 DE MAYO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
