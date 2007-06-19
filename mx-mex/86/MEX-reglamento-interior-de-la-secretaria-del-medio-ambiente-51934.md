@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-medio-ambiente-51934"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-22"
-last_updated: "2006-09-22"
+last_updated: "2007-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de septiembre de 2006.
 
@@ -43,9 +43,11 @@ El presente Reglamento tiene por objeto regular la organización y el funcionami
 
 Cuando en el presente ordenamiento jurídico se haga referencia a la Secretaría, se entenderá a la Secretaría del Medio Ambiente; Secretario, al Secretario del Medio Ambiente y Dirección, a la Dirección de Concertación y Participación Ciudadana.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE JUNIO DE 2007)</small>
+
 ###### Artículo 2.
 
-La Secretaría tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Código Administrativo del Estado de México y su reglamento en la materia, así como otras leyes, reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado o que sean de su competencia.
+La Secretaría tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Código para la Biodiversidad del Estado de México, así como los reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado.
 
 La Secretaría asumirá las atribuciones y funciones que le establezcan los acuerdos, convenios o contratos que suscriba el Gobierno del Estado de México con los gobiernos federal, de otras entidades federativas y municipales en materia de conservación ecológica, biodiversidad y protección al ambiente.
 
@@ -53,27 +55,49 @@ La Secretaría asumirá las atribuciones y funciones que le establezcan los acue
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con un Secretario, quien se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Dirección General de Prevención y Control de la Contaminación Atmosférica.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
 
-II. Dirección General de Prevención y Control de la Contaminación del Agua, Suelo y Residuos.
+I. Subsecretaría del Medio Ambiente.
 
-III. Dirección General de Ordenamiento e Impacto Ambiental.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
 
-IV. Dirección de Concertación y Participación Ciudadana.
+II. Dirección General de Prevención y Control de la Contaminación Atmosférica.
 
-V. Coordinación Jurídica.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
 
-VI. Coordinación Administrativa.
+III. Dirección General de Prevención y Control de la Contaminación del Agua, Suelo y Residuos.
 
-VII. Contraloría Interna.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+IV. Dirección General de Ordenamiento e Impacto Ambiental.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+V. Dirección de Concertación y Participación Ciudadana.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VI. Coordinación Jurídica.
+
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VII. Coordinación Administrativa.
+
+> <small>(ADICIONADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VIII. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia; asimismo, se auxiliará de los órganos técnicos y de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2007)</small>
+
 ###### Artículo 4.
 
-La Secretaría, Direcciones Generales, Dirección, Coordinaciones, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma programada con base en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
+La Secretaría, Subsecretaría, Direcciones Generales, Dirección, Coordinaciones, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma programada con base en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
+> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE JUNIO DE 2007)</small>
+
+### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO Y DEL SUBSECRETARIO
 
 ###### Artículo 5.
 
@@ -137,6 +161,54 @@ XXVI. Resolver las dudas que se susciten con motivo de la interpretación o apli
 
 XXVII. Las demás que le confieren otras disposiciones legales y las que le señale el Gobernador del Estado.
 
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2007)</small>
+
+Artículo 6 bis.- A la Subsecretaría le corresponde planear, dirigir, coordinar, controlar y evaluar las funciones, programas y proyectos en materia de prevención y control de la contaminación atmosférica, del agua, suelo y residuos; de ordenamiento e impacto ambiental y de concertación y participación ciudadana, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+
+Quedan adscritas a la Subsecretaría:
+
+I. Dirección General de Prevención y Control de la Contaminación Atmosférica.
+
+II. Dirección General de Prevención y Control de la Contaminación del Agua, Suelo y Residuos.
+
+III. Dirección General de Ordenamiento e Impacto Ambiental.
+
+IV. Dirección de Concertación y Participación Ciudadana.
+
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2007)</small>
+
+Artículo 6 ter.- Al frente de la Subsecretaría habrá un Subsecretario, quien tendrá las atribuciones siguientes:
+
+I. Planear, dirigir, coordinar, controlar y evaluar las funciones que en materia de protección al ambiente le sean encomendadas por el Secretario.
+
+II. Establecer mecanismos de coordinación interinstitucional que permitan ejecutar, de manera integral, políticas en materia ambiental.
+
+III. Proponer, impulsar y dar seguimiento a las políticas, programas y proyectos orientados a la evaluación y control de la calidad ambiental, a la prevención de la contaminación, al análisis y promoción de tecnologías ambientales limpias, al ahorro energético y al uso de energías renovables.
+
+IV. Someter a la aprobación del Secretario estudios, proyectos y estrategias orientadas a la protección, conservación y restauración del equilibrio ecológico.
+
+V. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención e informarle respecto de su cumplimiento.
+
+VI. Proponer al Secretario los proyectos de programas anuales de actividades y de presupuesto que le correspondan.
+
+VII. Apoyar al Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector, respecto de los organismos auxiliares sectorizados a la Secretaría.
+
+VIII. Proponer al Secretario modificaciones jurídicas o administrativas orientadas a modernizar la organización y funcionamiento de las unidades administrativas a su cargo.
+
+IX. Establecer, en el ámbito de su competencia y previo acuerdo del Secretario, lineamientos, sistemas y procedimientos de carácter técnico que rijan el funcionamiento de las unidades administrativas bajo su adscripción.
+
+X. Promover que las funciones de las unidades administrativas de la Subsecretaría se realicen de manera coordinada.
+
+XI. Formular los dictámenes, opiniones, estudios e informes que le solicite el Secretario o los que le correspondan en razón de sus atribuciones.
+
+XII. Desempeñar las comisiones y funciones que el Secretario le encomiende e informarle respecto de su desarrollo.
+
+XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia.
+
+XIV. Suplir al Secretario ante el Comité Estatal de Normalización.
+
+XV. Las demás que le establecen otras disposiciones legales y aquellas que le encomiende el Secretario.
+
 ### CAPITULO III. DE LAS ATRIBUCIONES DE LOS DIRECTORES GENERALES Y DEL DIRECTOR
 
 ###### Artículo 7.
@@ -151,7 +223,9 @@ I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de 
 
 II. Representar legalmente a la unidad administrativa a su cargo con las facultades de un apoderado general para pleitos y cobranzas, en actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación vigente.
 
-III. Suscribir, en el ámbito de su competencia y previo acuerdo del Secretario, acuerdos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole, necesarios para el ejercicio de sus atribuciones.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+III. Suscribir, acuerdos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole cuando se trate de asuntos relacionados con sus atribuciones.
 
 IV. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
 
@@ -159,7 +233,9 @@ V. Elaborar los dictámenes, resoluciones, opiniones, estudios, proyectos e info
 
 VI. Formular y proponer los anteproyectos de programas anuales de actividades y de presupuesto de egresos de la unidad administrativa a su cargo.
 
-VII. Proponer al Secretario modificaciones jurídicas y administrativas para modernizar la organización y el funcionamiento de la unidad administrativa a su cargo y llevar a cabo su ejecución.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VII. Elaborar proyectos de reformas jurídicas y administrativas orientadas a modernizar la organización y el funcionamiento de la unidad administrativa a su cargo, y llevar a cabo su ejecución.
 
 VIII. Colaborar con el Secretario en el desempeño de las funciones que tenga encomendadas como coordinador del sector, respecto a los organismos auxiliares sectorizados a la Secretaría.
 
@@ -183,7 +259,9 @@ XVII. Desempeñar las comisiones y atender los asuntos que les encomiende el Sec
 
 XVIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les correspondan por delegación o suplencia en términos de este Reglamento.
 
-XIX. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+XIX. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Secretario y el Subsecretario.
 
 ### CAPITULO IV. DE LAS DIRECCIONES GENERALES, DIRECCION, COORDINACIONES Y CONTRALORIA INTERNA
 
@@ -211,25 +289,33 @@ IX. Integrar el diagnóstico sobre las condiciones ambientales del Estado.
 
 X. Integrar y operar el Sistema Estatal de Información Ambiental.
 
-XI. Proponer al Secretario programas y acciones para la conservación, protección y restauración de la calidad del aire.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+XI. Formular programas y estrategias para la conservación, protección y restauración de la calidad del aire.
 
 XII. Establecer y operar sistemas de muestreo, medición y análisis de emisiones contaminantes a la atmósfera.
 
-XIII. Vigilar la observancia de las disposiciones jurídicas vigentes en materia de prevención y control de la contaminación atmosférica y determinar las sanciones económicas y administrativas por irregularidades cometidas por los centros de verificación de emisiones contaminantes de vehículos automotores, laboratorios de calibración, proveedores de componentes y equipos de verificación, talleres para la aplicación del Programa Integral de Reducción de Emisiones Contaminantes y proveedores de equipo de cómputo especializado en control ambiental.
+XIII. (DEROGADA, G.G. 19 DE JUNIO DE 2007)
 
-XIV. Ordenar visitas de inspección para verificar el cumplimiento de la normatividad ambiental aplicable.
+XIV. (DEROGADA, G.G. 19 DE JUNIO DE 2007)
 
-XV. Efectuar la revisión de documentación, papelería, base de datos, videos y demás información que entregan los verificentros como respaldo de las verificaciones efectuadas.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+XV. Efectuar la revisión de documentación, papelería, base de datos, videos y demás información que entregan los verificentros como parte de las revisiones efectuadas y dar vista a la Procuraduría de Protección al Ambiente del Estado de México, sobre los actos, hechos u omisiones que conozca en el ejercicio de sus atribuciones.
 
 XVI. Implementar los mecanismos de supervisión y control del Programa de Verificación Vehicular Obligatoria en el Estado.
 
-XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Subsecretario.
 
 ###### Artículo 10.
 
 Corresponde a la Dirección General de Prevención y Control de la Contaminación del Agua, Suelo y Residuos:
 
-I. Proponer al Secretario programas y acciones para la conservación, protección y restauración de la calidad del agua y del suelo, así como para el adecuado manejo, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+I. Formular programas y estrategias para la conservación, protección y restauración de la calidad del agua y del suelo, así como para el adecuado manejo, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial.
 
 II. Gestionar el establecimiento y operación de sistemas de monitoreo de la calidad del agua y del suelo, en coordinación con autoridades federales, estatales y municipales, así como con organismos internacionales, no gubernamentales e instituciones educativas.
 
@@ -245,7 +331,9 @@ VII. Proponer la expedición de normas técnicas en materia de suelo y residuos.
 
 VIII. Proponer la celebración de convenios con autoridades federales, estatales y municipales, para la ejecución de obras y acciones de recuperación de cuerpos de agua, así como para su mantenimiento permanente.
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Subsecretario.
 
 ###### Artículo 11.
 
@@ -261,7 +349,9 @@ IV. Programar, ejecutar y supervisar la realización de obras en materia de pres
 
 V. Organizar, coordinar y operar el Centro Geomático Ambiental.
 
-VI. Elaborar, actualizar y someter a la consideración del Secretario, el Programa de Ordenamiento Ecológico del Estado en coordinación con las demás dependencias estatales y municipales competentes y vigilar su cumplimiento.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VI. Elaborar, en coordinación con las dependencias estatales y municipales competentes, el Programa de Ordenamiento Ecológico de la entidad y llevar a cabo su ejecución y actualización permanente.
 
 VII. Expedir autorizaciones en materia de impacto y riesgo ambiental, así como para el manejo, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial.
 
@@ -269,7 +359,9 @@ VIII. Integrar, administrar y disponer para su consulta información sobre las m
 
 IX. Promover la inclusión de estrategias, políticas y acciones en materia ambiental, en los planes y programas de desarrollo estatal y municipales.
 
-X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Subsecretario.
 
 ###### Artículo 12.
 
@@ -297,7 +389,9 @@ X. Promover la instalación y operación de consejos municipales de protección 
 
 XI. Integrar y mantener actualizado el acervo documental, audiovisual y hemerográfico de la Secretaría, en materia de protección al ambiente, promoviendo su intercambio con instituciones similares de carácter municipal, estatal, federal e internacional.
 
-XII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+XII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Subsecretario.
 
 ###### Artículo 13.
 
@@ -317,7 +411,13 @@ VI. Substanciar los recursos administrativos promovidos en contra de las unidade
 
 VII. Contribuir a que las unidades administrativas de la Secretaría observen la normatividad en la que se sustenta su organización y funcionamiento.
 
-VIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+VIII. Expedir constancias de los documentos que obren en sus archivos y copias certificadas de los que haya emitido en el ejercicio de sus atribuciones y funciones.
+
+> <small>(ADICIONADA, G.G. 19 DE JUNIO DE 2007)</small>
+
+IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 14.
 
@@ -409,17 +509,23 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2007)</small>
+
 ###### Artículo 17.
 
-El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Director General que aquél designe. En las mayores de 15 días, por quien designe el Gobernador del Estado.
+El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Subsecretario. En las mayores de 15 días, por quien designe el Gobernador del Estado.
+
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2007)</small>
 
 ###### Artículo 18.
 
-Los Directores Generales y Coordinadores serán suplidos en sus ausencias temporales hasta por 15 días por el servidor público de la jerarquía inmediata inferior que ellos designen. Las mayores de 15 días, por el servidor público que designe el Secretario.
+El Subsecretario, Directores Generales y Coordinadores serán suplidos en sus ausencias temporales por el servidor público que designe el Secretario.
+
+> <small>(REFORMADO, G.G. 19 DE JUNIO DE 2007)</small>
 
 ###### Artículo 19.
 
-Los directores, subdirectores y jefes de unidad y de departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público que designe su superior inmediato. En las mayores de 15 días, por quien designe el Secretario.
+Los Directores, Subdirectores y Jefes de Unidad y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidos público que designe el Secretario.
 
 T R A N S I T O R I O S
 
@@ -448,3 +554,13 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+
+G.G. 19 DE JUNIO DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
