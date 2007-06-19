@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2007-02-12"
+last_updated: "2007-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO, EL PRESENTE DECRETO ENTRARA EN VIGOR A LOS 180 DIAS SIGUIENTES DE SU PUBLICACION EN EL D.O.F.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1778,13 +1776,15 @@ VIII. Las políticas y programas para la protección de especies acuáticas end�
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-IX. Las concesiones para la realización de actividades de acuacultura, en términos de lo previsto en la Ley de Pesca, y
+IX. Las concesiones para la realización de actividades de acuacultura, en términos de lo previsto en la Ley de Pesca, y (sic)
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-X. La creación y administración de áreas o zonas de protección pesquera.
+X. La creación y administración de áreas o zonas de protección pesquera;
 
-XI. (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2007)</small>
+
+XI. Todas aquellas prácticas de diferentes sectores productivos que afecten la calidad del agua superficial y subterránea;
 
 XII. (DEROGADA, D.O.F. 13 DE DICIEMBRE DE 1996)
 
@@ -2194,9 +2194,9 @@ VII. La clasificación de cuerpos receptores de descarga de aguas residuales, de
 
 La Secretaría expedirá las normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas nacionales, conforme a lo dispuesto en esta Ley, en la Ley de Aguas Nacionales, su Reglamento y las demás disposiciones que resulten aplicables.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
 
-Tratándose de normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas en zonas y aguas marinas mexicanas, la Secretaría se coordinará con la Secretaría de Marina.
+Tratándose de Normas Oficiales Mexicanas que se requieran para prevenir la contaminación de agua, la Secretaría elaborará y expedirá una Norma Mexicana en torno a la biodegradabilidad sobre los detergentes. En cuanto al etiquetado de dichos productos, se observará el cumplimiento puntual de la norma o normas referentes a los productos y servicios; etiquetados y envasado para productos de aseo de uso doméstico. En lo conducente, la Secretaría se coordinará con la Secretaría de Marina.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3308,7 +3308,7 @@ La Federación, en coordinación con las autoridades de las Entidades Federativa
 
 Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes; su prórroga se sujetará a las disposiciones del presente Decreto.
 
-###### ARTÍCULO SEPTIMO.
+###### ARTÍCULO SÉPTIMO.
 
 La Secretaría, mediante acuerdo que se publicará en el Diario Oficial de la Federación, deberá determinar la categoría de área natural protegida que, conforme a lo dispuesto en este Decreto, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, con la finalidad de cumplir alguno o algunos de los propósitos establecidos en el artículo 45 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas de competencia federal previstas en el artículo 46 de dicho ordenamiento.
 
@@ -3373,3 +3373,9 @@ D.O.F. 23 DE MAYO DE 2006.
 D.O.F. 12 DE FEBRERO DE 2007.
 
 Único.- El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría, dentro de los 6 meses siguientes a la entrada en vigor de este Decreto deberá expedir la Norma Oficial Mexicana que sea necesaria para dar cumplimiento a las disposiciones reformadas.
