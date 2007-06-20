@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2007-02-28"
+last_updated: "2007-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,25 +18,25 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2007, DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2007 AL 31 DE MARZO DE 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+DECRETO QUE MODIFICA AL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2007, DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2007 AL 31 DE MARZO DE 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de febrero de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de junio de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos; con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón (“Acuerdo”) fue aprobado por el Senado de la República el 18 de noviembre de 2004, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005 y entró en vigor el 1 de abril del mismo año;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras (“Tratado”) fue aprobado por el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001 y entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador y Guatemala, y el 1 de junio de ese mismo año para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
 
-Que de conformidad con los párrafos 3 (a) (i) y 5 del artículo 5 del Acuerdo, las Partes podrán realizar consultas para considerar mejorar las condiciones de acceso al mercado sobre bienes originarios designados para consulta en las listas contenidas en las secciones 2 y 3 del anexo 1, y que cualquier modificación a dichas listas prevalecerá sobre cualquier concesión correspondiente establecidas en ellas;
+Que el 15 de octubre de 2003 la Comisión Administradora del Tratado antes citado adoptó la Decisión No. 9 mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes originarios de hierro y acero establecidos en el Anexo al artículo 3-04 (5) (Programa de Desgravación Arancelaria) del Tratado con la República de El Salvador, y que de conformidad con el numeral IV de la referida Decisión, ésta entró en vigor una vez que las partes se notificaron la conclusión de sus respectivas formalidades jurídicas;
 
-Que con objeto de mejorar las condiciones de acceso al mercado para la carne, los despojos y las demás preparaciones y conservas de bovino; la carne de pollo, las demás preparaciones y conservas de ave; y la naranja fresca establecidos en los incisos 1 (b), 4 (b) y 10 (b) de las secciones 2 y 3 del anexo 1 del Acuerdo, el 20 de septiembre de 2006 las Partes suscribieron el Protocolo entre los Estados Unidos Mexicanos y el Japón relacionado con el Mejoramiento de las Condiciones de Acceso al Mercado según lo dispuesto en los párrafos 3 y 5 del artículo 5 del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón (“Protocolo”);
+Que el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicado en el Diario Oficial de la Federación el 29 de septiembre de 2006, establece una reducción arancelaria en ciertos bienes de hierro y acero;
 
-Que el 27 de noviembre de 2006 se publicó en el Diario Oficial de la Federación, el Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, y
+Que el 27 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, modificado mediante el diverso dado a conocer en el mismo medio informativo el 28 de febrero de 2007, y
 
-Que en virtud de que resulta necesario reflejar en el Decreto enunciado en el considerando anterior las condiciones de acceso al mercado establecidas en el Protocolo, he tenido a bien expedir el siguiente
+Que en virtud de que resulta necesario reflejar en el Decreto enunciado en el considerando anterior las condiciones de acceso establecidas en la Decisión No. 9 y en el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicado el 29 de septiembre de 2006 en el Diario Oficial de la Federación, he tenido a bien expedir el siguiente
 
 DECRETO
 
@@ -84,17 +84,11 @@ http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
 
 ###### ARTÍCULO 1.
 
-Se adiciona con una fracción VI el artículo 3 del Decreto por el que se establece la Tasa Aplicable para el 2006 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, El Salvador, Guatemala, Honduras y Nicaragua; así como la Tasa aplicable del 1 de abril de 2006 al 31 de marzo de 2007 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, para quedar como sigue:
-
-“ARTÍCULO 3.- . . .
-
-. . .
-
-VI.- Se aplicará la tasa indicada en el Apéndice a las mercancías no originarias procedentes de Honduras, de conformidad con lo establecido en el Anexo 3-19 del Tratado de Libre Comercio entre México y El Salvador, Guatemala y Honduras, y que se clasifiquen en las partidas 55.12, 55.13, 55.14, 55.15, 55.16, 60.01, 60.02, 60.03, 60.04, 60.05, 60.06, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.”
+Se modifica el rubro del Apéndice del Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2006, y su modificación, únicamente para la columna aplicable a “Salvador”, para quedar como “El Salvador”.
 
 ###### ARTÍCULO 2.
 
-Se modifica el Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la columna aplicable a “Honduras”, para las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
+Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el artículo 12 del Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -126,51 +120,21 @@ La importación de las mercancías originarias de la región conformada por los 
 
 ###### ARTÍCULO 3.
 
-Se modifica el artículo 21 del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la siguiente fracción arancelaria de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
+Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el artículo 14 del Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
 
-“Artículo 21.- . . .
-
-Fracción Arancel Nota Modalidad de la mercancía
-
-7216.21.01 5.8 CSA De espesor superior o igual a 1.8
-
-mm pero inferior o igual a 6.4
-
-mm y altura superior a 12 mm.”
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 4.
 
-Se adiciona un artículo 29 al Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
+Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el artículo 16 del Decreto que se señala en el Artículo 1 del presente ordenamiento, para quedar como sigue:
 
-“ARTÍCULO 29.- La importación de mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras comprendidas en las fracciones arancelarias que se señalan en este Artículo que correspondan a la columna “El Salvador” conforme al Artículo 3 fracción IV, inciso (a) de este Decreto, las cuales se identifican con el código “CSA” bajo el rubro “Nota” en el Apéndice o en el Artículo 21 de este Decreto, estará sujeta al arancel preferencial indicado a continuación para cada uno de ellas:
-
-Fracción Arancel Modalidad de la mercancía
-
-7214.20.01 2.5 Varilla corrugada o barras para
-
-armaduras, para cemento
-
-u hormigón.
-
-7216.21.01 2.5 De espesor superior o igual
-
-a 1.8 mm pero inferior o igual
-
-a 6.4 mm y altura superior a 12 mm.
-
-Lo dispuesto en este Artículo sólo será aplicable a mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.”
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 5.
 
-Se modifica el Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, únicamente para la columna aplicable a “El Salvador”, para las siguientes fracciones arancelarias de la Ley de los Impuestos Generales de Importación y de Exportación, para quedar como sigue:
+Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el Apéndice del Decreto que se señala en el Artículo 1 del presente ordenamiento, para las columnas aplicables a “Guatemala”, “El Salvador” y “Honduras”, para quedar como sigue:
 
-El Salvador
-
-Fracción Arancel Nota
-
-2202.90.99 Ex.
-
-7214.20.01 5.8 CSA
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 6.
 
@@ -248,12 +212,8 @@ La importación de mercancías originarias del área conformada por los Estados 
 
 ###### ARTÍCULO ÚNICO.
 
-Se modifican las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación establecidas en el artículo 6 del Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, publicado en el Diario Oficial de la Federación el 27 de noviembre de 2006, para quedar como sigue:
+Lo dispuesto en el presente ordenamiento será aplicable a las operaciones de importación efectuadas a partir del 1 de enero de 2007, con el objeto de dar cumplimiento a lo establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras y en la Decisión No. 9 de la Comisión Administradora del Tratado mediante la cual los Estados Unidos Mexicanos acordaron acelerar la desgravación de ciertos bienes originarios de hierro y acero establecidos en el Anexo al artículo 3-04 (5) (Programa de Desgravación Arancelaria) del Tratado con la República de El Salvador.
 
-(VEASE ARCHIVO ANEXO)
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
 
 ## TRANSITORIO
-
-ÚNICO.- El presente Decreto entrará en vigor el 1 de abril de 2007.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de febrero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
