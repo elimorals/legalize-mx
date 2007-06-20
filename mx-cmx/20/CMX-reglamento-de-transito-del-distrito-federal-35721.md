@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-35721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2005-06-29"
+last_updated: "2007-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2003-12-02"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSITO METROPOLITANO, PUBLICADO EN LA G.O. DE 20 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LO DISPUESTO EN MATERIA DE CONTROL VEHICULAR Y EXPEDICION DE LICENCIAS Y PERMISOS DE CONDUCIR.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -1403,3 +1405,13 @@ G.O. 29 DE JUNIO DE 2005.
 Primero.- El presente decreto entrará en vigor el día cuatro de julio de dos mil cinco
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 20 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial de Distrito Federal, con excepción del artículo 44 que entrará en vigor noventa días después.
+
+SEGUNDO.- Se deroga el Reglamento de Tránsito del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 30 de diciembre de 2003 con excepción de lo dispuesto en materia de Control vehicular y expedición de licencias y permisos de conducir.
+
+TERCERO.- Lo dispuesto en la fracción XI del artículo 16 referente al Dispositivo de Geolocalización o de Georeferenciación Satelital Radioeléctrico o de tecnología similar, será obligatorio para los modelos 2008 en adelante.
+
+CUARTO.- Los propietarios de vehículos particulares que porten placas de matrícula del Distrito Federal anteriores a las vigentes, deberán reemplazarlas en un plazo de 30 días hábiles contados a partir del inicio de vigencia del presente Reglamento.
