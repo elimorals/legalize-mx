@@ -4,7 +4,7 @@ identifier: "CAM-ley-constitutiva-de-la-universidad-autonoma-del-carmen-12446"
 country: "mx"
 rank: "ley"
 publication_date: "1967-06-13"
-last_updated: "1967-06-13"
+last_updated: "2007-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN -ANTES LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL CARMEN-
 
-LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL CARMEN
+LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 13 de junio de 1967.
 
@@ -37,7 +37,9 @@ El H. XLV Congreso Constitucional del Estado Libre y Soberano de Campeche, decre
 
 Número 143
 
-LEY CONSTITUTIVA DE LA UNIVERSIDAD DEL CARMEN
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2007)</small>
+
+LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DEL CARMEN
 
 ###### Artículo 1.
 
@@ -102,3 +104,11 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los trece d�
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los trece días del mes de Junio del año de mil novecientos sesenta y siete. El Gobernador Constitucional del Estado, LIC. JOSE ORTIZ AVILA.- El Secretario General de Gobierno, ING. RICARDO CASTILLO OLIVER. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE JUNIO DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de carácter general, en lo que se opongan al contenido del presente decreto.
