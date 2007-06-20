@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-organizacion-interna-del-instituto-de-40528"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-16"
-last_updated: "2005-05-13"
+last_updated: "2007-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de agosto de 2004
 
@@ -59,7 +59,7 @@ III.1. DIRECCIÓN DE PLANEACIÓN Y FINANZAS 19
 
 III.1.1. COORDINACIÓN DE ADMINISTRACIÓN DE 21
 
-FONDOS E INVERSIONES
+FONDOS E INVERSIONE
 
 III.1.2. COORDINACIÓN DE PLANEACIÓN Y PRESUPUESTO 22
 
@@ -125,9 +125,9 @@ V. ATRIBUCIONES COMUNES 48
 
 VI. DE LOS COMITES DE APOYO DE LA DIRECCIÓN GENERAL 48
 
-VI.1. COMITÉ PARA EL CONTROL DE OPERACIONES 48
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2007)</small>
 
-PATRIMONIALES
+VI.1. COMITÉ DE ADQUISICIONES Y SERVICIOS 48
 
 VI.2. COMITÉ DE EVALUACIÓN MÉDICA 52
 
@@ -693,9 +693,11 @@ e) Dirección de Servicios Médicos Subrogados.
 
 f) Dirección Jurídica.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 ###### Artículo 82.
 
-El Director General se auxiliará de la Contraloría Interna, así como del Comité para el Control de Operaciones Patrimoniales y del Comité de Evaluación Médica.
+El Director General se auxiliará de la Contraloría Interna, así como Comité de Adquisiciones y Servicios y del Comité de Evaluación Médica.
 
 ###### Artículo 83.
 
@@ -1135,15 +1137,21 @@ III.3.4. COORDINACIÓN DE CONTRATOS Y SERVICIOS
 
 La Coordinación de Contratos y Servicios, tendrá las siguientes funciones:
 
-I. Realizar los procedimientos de adjudicación, adquisición, enajenación, arrendamiento y prestación de bienes y servicios que requiere el Instituto de conformidad con la normatividad aplicable y el reglamento interno del Comité para el Control de Operaciones Patrimoniales del Instituto.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2007)</small>
+
+I. Desarrollar y realizar los procedimientos de adquisiciones y arrendamientos de bienes, así como la contratación de servicios que requiere el Instituto de conformidad con lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, y con el reglamento interno del Comité de Adquisiciones y Servicios del Instituto.
 
 II. Verificar con la Coordinación de Planeación y Presupuesto, la suficiencia presupuestal, antes de asumir obligaciones con cargo al Instituto.
 
-III. Elaborar los anteproyectos de contratación de adquisiciones, enajenaciones, arrendamientos, y prestación de bienes y servicios que requiere el Instituto de conformidad con la normatividad aplicable y el reglamento interno de Comité para el Control de Operaciones Patrimoniales del Instituto.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2007)</small>
+
+III. Elaborar y remitir a la Oficialía Mayor la programación anual de las adquisiciones de bienes y servicios que requiere el Instituto de conformidad con lo dispuesto por la Ley de Adquisiciones Arrendamientos y Contratación de Servicios del Estado de Nuevo león, así como por lo dispuesto en el reglamento interno del Comité de Adquisiciones y Servicios del Instituto. El Titular de la Coordinación de Contratos y Servicios tendrá el carácter de Secretario Técnico dentro del Comité de Adquisiciones y Servicios del Instituto, siendo el responsable de proporcionarle al Comité de toda la información necesaria sobre el asunto que se esté tratando a fin de que los miembros del Comité puedan tomar la determinación correcta; teniendo voz pero no voto dentro de dicho Comité.
 
 IV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza, la contratación de obra pública y servicios relacionados con la misma, con quien desempeñe un empleo, cargo o comisión en el servicio publico; por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
-V. Resguardar los contratos de adquisiciones, enajenaciones y prestaciones de bienes y servicios del Instituto.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2007)</small>
+
+V. Elaborar los contratos de adquisiciones, arrendamientos y contratación de servicios del Instituto, conforme a lo dispuesto por la Ley de la materia. Además será la responsable de resguardar los contratos, así como de llevar a cabo un registro y conservación de la información ya sea en documentos o medios electrónico, relativa a las adquisiciones, arrendamientos y contratación de servicios del Instituto por un periodo de diez años.
 
 VI. Previo acuerdo de la Dirección de Prestaciones Sociales y Económicas, informar a las Direcciones de Planeación y Finanzas, Jurídica, a la Contraloría Interna, y al usuario del bien o servicio adquirido y de las contrataciones formalizadas por el Instituto, y que generan una obligación o derecho inmediato o eventual para mismo, lo anterior a efecto de que registren, revisen, verifiquen y conozcan los términos de la contratación.
 
@@ -1393,7 +1401,7 @@ XII. Elaborar mensualmente los indicadores institucionales y de desempeño de la
 
 XIII. Las demás facultades que le confieran las leyes, decretos, reglamentos, acuerdos o convenios y demás disposiciones administrativas vigentes o que le atribuya directamente el Director de Servicios Médicos Subrogados.
 
-III.5.3. ENLACE CON EL SINDICATO NACIONAL DE TRABAJADORES DE LA EDUCACIÓN SECCIÓN 50.
+III.5.3. ENLACE CON EL SINDICATO NACIONAL DE TRABAJADORES DE LA EDUCACIÓN SECCIÓN 50
 
 ###### Artículo 112.
 
@@ -1575,109 +1583,139 @@ IV. Planear, programar, organizar y evaluar el desempeño de las funciones encom
 
 VI.- DE LOS COMITES DE APOYO DE LA DIRECCIÓN GENERAL
 
-VI.1. COMITÉ PARA EL CONTROL DE OPERACIONES PATRIMONIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2007)</small>
+
+VI.1. COMITÉ DE ADQUISICIONES Y SERVICIOS
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 121.
 
-El Comité para el Control de Operaciones Patrimoniales, es de naturaleza técnica consultiva y funge como auxiliar del Director General del Instituto.
+El Comité de Adquisiciones y Servicios se constituye como un órgano colegiado de carácter consultivo de opinión y en su caso dictaminador con el propósito de auxiliar al Director General del Instituto, en los procedimientos de adquisición y arrendamiento de bienes, así como en la contratación de servicios destinados al Instituto, actuando siempre bajo los lineamientos y procedimientos que marca la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, así como por lo dispuesto en el reglamento interno del Comité de Adquisiciones y Servicios del Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 122.
 
-El Comité para el Control de Operaciones Patrimoniales coadyuvará en el establecimiento de criterios generales que regulen la aplicación de los recursos del Instituto destinados a las adquisiciones y las operaciones que pretendan realizarse con el patrimonio propio del Instituto.
+El Comité de Adquisiciones y Servicios coadyuvará en el desarrollo de los procedimientos para las adquisiciones y arrendamiento de bienes, así como contratación de servicios, observando en todo momento los lineamientos generales que establezca la Oficialía Mayor del Estado en el tema. Estableciendo criterios generales que regulen la aplicación de los recursos del Instituto destinados para fin.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 123.
 
-Los asuntos presentados al Comité para el Control de Operaciones Patrimoniales se sujetarán al presente reglamento.
+Los asuntos presentados al Comité de Adquisiciones y Servicios relacionados a las adquisiciones y arrendamiento de bienes, así como la contratación de servicios se sujetarán en el orden siguiente:
+
+a) A las disposiciones legales que marca la ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León;
+
+b) A las disposiciones legales que señala el presente reglamento;
+
+c) A las disposiciones legales que señala el reglamento interno del Comité de Adquisiciones y Servicios del Instituto;
+
+d) A las disposiciones legales señaladas en la Ley de Administración Financiera para el Estado de Nuevo León;
+
+e) A las disposiciones legales que señala la Ley de Egresos correspondiente; y
+
+f) A las disposiciones legales que señalan el Código Civil para el Estado de Nuevo León y el Código de Procedimientos Civiles del Estado de Nuevo León, vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 124.
 
-El Comité para el Control de Operaciones Patrimoniales tiene competencia, partiendo de la base de la optimización de la aplicación de los recursos del Instituto, para colaborar, dictaminar y emitir opinión en las siguientes cuestiones:
+El Comité de Adquisiciones y Servicios funda su competencia conforme a lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo león y al presente Reglamento; buscando en todo momento la mayor optimización en la aplicación de los recursos del Instituto, sujetando su actuar en los principios de legalidad, transparencia e imparcialidad al momento de colaborar, dictaminar y emitir sus opiniones, las cuales serán tomadas en cuenta procurando las mejores condiciones para e! Instituto en cuanto a precio y calidad, así como financiamiento, oportunidad, eficiencia energética, uso responsable de recursos naturales y demás circunstancias pertinentes, de acuerdo a lo que establece la ley en las siguientes cuestiones:
 
-I. Adquisiciones de medicamentos y material médico.
+I. Adquisiciones de medicamentos y material médico;
 
-II. Evaluación de gastos hospitalarios.
+II. Evaluación de gastos hospitalarios;
 
-III. Adquisiciones de mobiliario y equipo para satisfacer las necesidades de todas las áreas que conforman el Instituto.
+III. Adquisiciones de mobiliario y equipo para satisfacer las necesidades de todas las áreas que conforman el Instituto;
 
-IV. Adquisiciones de material de trabajo para satisfacer las necesidades de todas las áreas que conforman el Instituto.
+IV. Adquisiciones de material de trabajo y contratación de servicios para satisfacer las necesidades de todas las áreas que conforman el Instituto;
 
-V. Adquisiciones de bienes inmuebles.
+V. Adquisiciones de bienes inmuebles;
 
-VI. Adquisiciones de vehículos.
+VI. Adquisiciones de vehículos;
 
-VII. Arrendamientos en los que el Instituto funja como arrendatario.
+VII. Arrendamientos en los que el Instituto funja como arrendador o arrendatario;
 
-VIII. Autorización del catálogo de proveedores.
+VIII. Autorización del catálogo de proveedores;
 
-IX. Autorización de las operaciones o proyectos que pretendan realizarse con el patrimonio mobiliario e inmobiliario del Instituto.
+IX. Autorización de la subrogación de servicios hospitalarios;
 
-X: Las demás que autoricen la normatividad aplicable, o reglamentos vigentes en el Estado.
+X. Autorización de las operaciones o proyectos que pretendan realizarse con el patrimonio mobiliario e inmobiliario del Instituto;
+
+XI. Las demás que autoricen la normatividad aplicable, o reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 125.
 
-Les facultades descritas en el Artículo anterior son de carácter enunciativo y no limitativo, por lo que cualquier asunto relacionado con las adquisiciones del Instituto, que por su importancia o trascendencia a juicio del Director General deba tratarse, podrá ser resuelto por el Comité.
+Cualquier asunto relacionado con las adquisiciones del Instituto, que por su importancia o trascendencia a juicio del Director General deba tratarse, podrá ser resuelto por el Comité de Adquisiciones y Servicios.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 126.
 
-El Comité para el Control de Operaciones Patrimoniales, será el único facultado para dictaminar las cuestiones enunciadas y su terminación estará condicionada al acuerdo que para tal efecto dicte el Consejo Directivo.
+El Comité de Adquisiciones y Servicios, será el único facultado para dictaminar las cuestiones enunciadas y su modificación o terminación estará sujeta a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 127.
 
-El Comité para el Control de Operaciones Patrimoniales será presidido por el Titular de la Oficialía Mayor de Gobierno, quien se auxiliará de un Secretario Técnico, que será el Coordinador de Contratos y Servicios del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
+El Comité de Adquisiciones y Servicios será presidido por el Director General del Instituto o la persona que él designe en su representación, quien en todo momento podrá auxiliarse de un Secretario Técnico, que en el caso será el Coordinador de Contratos y Servicios del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 128.
 
-En las sesiones intervendrá un comisario, que será el titular de la Unidad de Contraloría Interna, quien deberá asistir o intervenir en los asuntos a tratarse.
+En las sesiones del Comité de Adquisiciones y Servicios intervendrá el representante de la Contraloría Interna del Gobierno del Estado, teniendo el carácter de comisario.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 129.
 
-La función del comisario será vigilar el exacto cumplimiento de los requisitos y modalidades que impone este reglamento para el desarrollo de las sesiones y la toma de acuerdos. Su intervención quedará a discreción del mismo.
+La función del comisario será vigilar el exacto cumplimiento de los requisitos y modalidades que impone la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, así como el presente reglamento durante el desarrollo de las sesiones y la toma de acuerdos. Su intervención quedará a discreción de él mismo.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 130.
 
-El comisario podrá solicitar al Comité para el Control de Operaciones Patrimoniales un informe cuando así lo considere conveniente, sobre los acuerdos tomados en un determinado periodo de tiempo.
+El comisario podrá solicitar al Comité de Adquisiciones y Servicios un informe cuando así lo considere conveniente, sobre los acuerdos tomados en un determinado periodo de tiempo.
 
 ###### Artículo 131.
 
 El comisario tendrá voz, pero no voto dentro de las sesiones.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 132.
 
-El Comité para el Control de Operaciones Patrimoniales estará integrado por:
+El Comité de Adquisiciones y Servicios estará integrado por:
 
-I.- El Titular de la Oficialía Mayor de Gobierno, quien fungirá como Presidente, pudiendo delegar esta función en algún otro servidor público de la Oficialía Mayor de Gobierno;
+l.- Con voz y voto:
 
-II.- Director General;
+a) Un presidente, que será el Director General del Instituto o la persona que él designe como representante;
 
-III.- Director de Administración;
+b) Un representante de la Oficialía Mayor;
 
-IV.- Director de Planeación y Finanzas;
+c) Un representante de la Tesorería del Estado; y
 
-V.- Director de Prestaciones Sociales y Económicas;
+d) El Director Jurídico del Instituto.
 
-VI.- Director de Servicios Médicos;
+II.- Sólo con voz;
 
-VII.- Director de Servicios Médicos Subrogados;
+a) Un representante de la Contraloría Interna del Gobierno del Estado, quien fungirá como comisario;
 
-VIII.- Director Jurídico;
+b) El Coordinador de Contratos y Servicios, quien fungirá como Secretario Técnico;
 
-IX.- Titular de la Contraloría Interna;
+c) El titular de la Contraloría Interna del Instituto;
 
-X.- Coordinador de Contratos y Servicios, quien fungirá como Secretario Técnico;
+d) Un representante del área que haya requerido el bien o el servicio.
 
-XI.- Jefe de Adquisiciones;
-
-XII.- Representante de la Contraloría Interna del Gobierno del Estado; y
-
-XIII.- Titular del área que va a adquirir el servicio.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 133.
 
-Si por la naturaleza de algún asunto a tratar se requiere la presencia de algún funcionario no enunciado en el artículo anterior, el Presidente del Comité podrá proceder a invitarlo a la sesión.
+En caso de que se requiera de la asesoría de algún funcionario del Instituto, el Presidente del Comité de Adquisiciones y Servicios podrá en todo momento invitarlos a la sesión, con el fin de que emitan su punto de vista en el particular. La actuación del funcionario tendrá los efectos de orientar y auxiliar al Comité para una mejor toma de decisión, pero no tendrá derecho al voto.
 
 ###### Artículo 134.
 
@@ -1691,43 +1729,51 @@ III. Adjuntar la Información a analizarse; y
 
 IV. Firma del Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 ###### Artículo 135.
 
-El Comité para el Control de Operaciones Patrimoniales aprobará su calendario de sesiones ordinarias en la primera reunión del año.
+El Comité de Adquisiciones y Servicios aprobará el calendario anual de sus sesiones ordinarias en la primera reunión del año, así como la programación anual de las adquisiciones de bienes y servicios que se deban realizar mediante licitaciones públicas, esto último con el fin de que el área correspondiente del Instituto lo remita a la Oficialía Mayor del Estado y se de cumplimiento a lo ordenado por el artículo 13 fracción V de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 136.
 
-Cuando la naturaleza de algún asunto a tratar requiera de una reunión extraordinaria el Secretario Técnico del Comité deberá convocar a los miembros del Comité cuando menos con veinticuatro horas de anticipación.
+Sólo en los casos previstos en el artículo 53 de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León, se podrá convocar a una sesión extraordinaria hasta con un día hábil de anticipación.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 137.
 
-El quórum necesario para las sesiones será la mayoría de los integrantes. En caso de no haber quórum se convocará a una nueva sesión que deberá ser dentro de los tres días hábiles siguientes, la cual se efectuará con los integrantes que concurran y se autorizarán los acuerdos tomados en ella.
+El Comité de Adquisiciones y Servicios y Servicios, sesionará cuando se encuentren presentes la mayoría de sus integrantes y sus decisiones se tomarán por mayoría de votos, haciéndose constar en el acta respectiva la votación correspondiente; en caso de empate, quien este presidiendo la sesión tendrá el voto de calidad.
 
-En caso de ausencia del presidente o su suplente, la sesión la presidirá el funcionario que se elija por los presentes.
+De no existir quórum en la sesión a que se ha convocado, se procederá a convocar a una segunda que tendrá verificativo dentro de los tres días naturales siguientes a la previamente señalada, en este caso el quórum quedará legalmente instalado con los representantes que acudan.
 
 ###### Artículo 138.
 
 En la presentación de los asuntos estos deberán estar documentados previamente y se hará de manera tal que todos los integrantes puedan analizar y visualizar el planteamiento.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 ###### Artículo 139.
 
-Cuando se trate de la adquisición de bienes inmuebles y con el fin de enterar claramente a cada uno de los asistentes, se deberé presentar:
+Cuando se trate de operaciones a realizar con bienes inmuebles y con el fin de enterar claramente a cada uno de los asistentes a las sesiones del Comité, se deberán presentar ante éste los siguientes documentos:
 
-I. Plano de ubicación del bien inmueble;
+I. Plano donde se refiera la ubicación exacta y la extensión o superficie del bien inmueble.
 
-II. Fotografías del bien inmueble;
+II. Fotografía del bien inmueble.
 
-III. Avalúo expedido por la Dirección de Catastro; y
+III. Copia de los documentos en que conste el derecho de propiedad sobre el inmueble.
 
-IV. Proyecto a realizarse y respaldo financiero.
+IV. Avalúo expedido por la Dirección de Catastro.
+
+V. Manifestación que contenga el tipo de utilización que pretende darse al inmueble y el respaldo financiero de la operación, así como la precisión del beneficio social y económico para el Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 140.
 
-Los dictámenes emitidos serán por mayoría de votos y en caso de empate el Presidente del Comité tendrá el voto de calidad. El Secretario Técnico del Comité y los invitados a las sesiones sólo tendrán voz y no voto.
+Será obligación de los integrantes del Comité resolver a la brevedad los asuntos que sean planteados para su conocimiento. Si a consideración de alguno de los miembros del Comité fuere necesaria la exhibición de mayor información para la solución y despacho de algún asunto se solicitará de quien lo presenta reúna la documentación a para que sea propuesto en la próxima sesión.
 
 ###### Artículo 141.
 
@@ -1741,13 +1787,19 @@ Los acuerdos tomados por el Comité tendrán el carácter de dictámenes y no de
 
 El Secretario Técnico será el encargado de elaborar la minuta respectiva dentro de los tres días hábiles siguientes, debiendo recabar la firma de los presentes y será archivada por el mismo.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
+
 ###### Artículo 144.
 
-El Comité para el Control de Operaciones Patrimoniales será el único facultado para revisar, modificar o revocar sus dictámenes.
+El Comité de Adquisiciones y Servicios será el único facultado para revocar administrativamente o privar de efectos las resoluciones, dictámenes y opiniones que emita, cuando exista causa o motivo para ello.
+
+Cualquier controversia que se suscite con motivo de alguna inconformidad presentada, se estará a lo ordenado en la Ley de Adquisiciones, Arrendamientos y contratación de Servicios del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2007)</small>
 
 ###### Artículo 145.
 
-Es responsabilidad de los integrantes, asistir a las sesiones o, en caso de imposibilidad, nombrar un representante.
+Es responsabilidad de los integrantes, asistir a las sesiones. Por cada integrante se designará por escrito a su respectivo suplente, que deberá tener como mínimo el nivel jerárquico inmediato inferior del representante; con excepción de lo dispuesto en el artículo 132 fracción I inciso a) del presente reglamento.
 
 V.2. COMITÉ DE EVALUACIÓN MÉDICA
 
@@ -1934,3 +1986,7 @@ Director General del (sic) Consejo Directivo del ISSSTELEON
 P.O. 13 DE MAYO DE 2005.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 20 DE JUNIO DE 2007.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
