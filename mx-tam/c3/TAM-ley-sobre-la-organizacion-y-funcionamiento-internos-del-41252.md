@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2007-02-06"
+last_updated: "2007-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
 
-Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
+Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
 Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
@@ -921,7 +921,9 @@ j) Solicitar licencia para separarse de su encargo representativo.
 
 ###### ARTICULO 68.
 
-1. Los diputados al Congreso del Estado tendrán los siguientes deberes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2007)</small>
+
+1. Los Diputados al Congreso del Estado tendrán los siguientes deberes:
 
 a) Rendir protesta constitucional con motivo del inicio de su encargo;
 
@@ -938,6 +940,10 @@ f) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cor
 g) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público.
 
 2. Los diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2007)</small>
+
+3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asambleas, deberán rendir ante el Pleno del H. Congreso del Estado un informe anual de las actividades desempeñadas.
 
 ###### ARTICULO 69.
 
@@ -2208,3 +2214,9 @@ El presente Decreto entrará en vigor a partir de su expedición, y deberá publ
 ###### ARTÍCULO SEGUNDO.
 
 Con base en la posibilidad presupuestal prevista para la Unidad de Servicios Parlamentarios, se sustentará la creación del Departamento de Apoyo Técnico.
+
+P.O. 20 DE JUNIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
