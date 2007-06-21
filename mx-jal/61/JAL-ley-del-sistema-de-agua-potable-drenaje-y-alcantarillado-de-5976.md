@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-drenaje-y-alcantarillado-de-597
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-08"
-last_updated: "1977-12-08"
+last_updated: "2007-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO DE PUERTO VALLARTA, JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 8 de diciembre de 1977.
 
@@ -83,23 +83,45 @@ En caso de celebración de los convenios a que se refieren los artículos tercer
 
 La Dirección y Administración del Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, estarán a cargo de un Consejo de Administración que se integrará por los siguientes representantes:
 
-A) Un Representante del Gobierno del Estado que tendrá el carácter de Presidente del Consejo.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
 
-B) Un representante del Ayuntamiento de Puerto Vallarta, Jalisco, que será secretario del Consejo y será designado por el Presidente Municipal.
+I. Un representante del titular del Poder Ejecutivo del Estado que tendrá el carácter de Presidente del Consejo;
 
-C) Un representante del Fideicomiso Puerto Vallarta y que será primer vocal.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
 
-D) Un representante de la Secretaría de Asentamientos Humanos y Obras Públicas que será segundo vocal.
+II. Un representante del Ayuntamiento de Puerto Vallarta, que será el Secretario y el cual será designado por el Presidente Municipal;
 
-E) Un representante del Departamento de Planeación y Urbanización del Estado de Jalisco, quien será tercer vocal.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
 
-F) Un representante de los usuarios que elegirá el Gobernador del Estado, de una terna que presente la Cámara de Propietarios de Fincas Urbanas de Puerto Vallarta, A.C. y que será cuarto vocal.
+III. Un representante del Fideicomiso de Puerto Vallarta, que será el primer vocal;
 
-G) Un representante de los usuarios no asociados que nombrará el propio Gobernador y que será sexto vocal. Esta designación recaerá en persona que no desempeñe cargo público y oficial alguno y que sea propietario de inmueble en el Municipio de Puerto Vallarta.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
 
-H) Cuando el Sistema haya celebrado Convenios en los términos de los artículos tercero y cuarto de esta Ley, con poblados diversos a los del Municipio de Puerto Vallarta, y se haya hecho cargo de todo o parte de los servicios de agua potable, drenaje y alcantarillado, los municipios correspondientes nombrarán un Representante del Consejo de Administración, quien sólo podrá intervenir en los asuntos referentes al Municipio que represente.
+IV. Un representante de la Secretaria del Medio Ambiente y Desarrollo Sustentable, que será el segundo vocal;
 
-Por cada Consejero Propietario, deberá designarse uno suplente.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+
+V. Un representante de la Secretaría de Desarrollo Urbano, que será el tercer vocal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2007)</small>
+
+VI. Un representante de la Secretaría de Turismo, que será el cuarto vocal;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+
+VII. Un representante de los usuarios, que elegirá el Gobernador del Estado de una terna que presente la Cámara de Propietarios de Fincas Urbanas de Puerto Vallarta, y que será el quinto vocal;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+
+VIII. Un representante de los usuarios no asociados que nombrará el propio Gobernador del Estado, y que será sexto vocal. Esta designación recaerá en persona que no desempeñe comisión cargo o empleo público alguno y que sea propietario de inmueble en el municipio de Puerto Vallarta; y
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2007)</small>
+
+IX. Cuando el Sistema haya celebrado convenios en los términos de los artículos 3° y 4° de esta ley con municipios diversos a los de Puerto Vallarta, y se hayan hecho cargo de todo o parte de los servicios de agua potable, drenaje y alcantarillado, los municipios correspondientes nombrarán un representante del Consejo de Administración, quien sólo podrá intervenir en los asuntos referentes al municipio que represente.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2007)</small>
+
+Por cada Consejero Propietario, deberá designarse un suplente.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -115,33 +137,71 @@ II. Proponer al Ayuntamiento de Puerto Vallarta las tarifas para el cobro e inst
 
 III. Determinar los casos en que los servicios deban cobrarse a cuota fija o a base de medidor cuando se trate del suministro de agua potable.
 
-IV. Nombrar y remover al personal del Sistema, exigiendo cuando proceda, las cauciones de Ley.
+IV. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
 V. Discutir, aprobar y modificar el Reglamento Interior del Sistema.
 
-VI. Recaudar y manejar los fondos derivados de la prestación de los servicios de agua potable, drenaje y alcantarillado de acuerdo a las cuotas para tal efecto aprobadas, llevando la contabilidad correspondiente; todo ello a través de la Gerencia Administrativa y sus Dependencias.
+VI. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
 VII. Celebrar mensualmente como mínimo una sesión ordinaria y las extraordinarias que se requieran a solicitud de cualquiera de los miembros del Consejo.
 
 VIII. Tomar los acuerdos correspondientes a los asuntos presentados en las sesiones así como proponer los que se estimen convenientes de acuerdo a las facultades del propio Consejo.
 
-IX. Vigilar que los bienes que integran el Patrimonio del Sistema y los necesarios para la prestación de los servicios, se encuentren debidamente inventariados, a través de la Gerencia Administrativa.
+IX. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-X. Resolver sobre las solicitudes para la prestación de los servicios de Agua Potable, Drenaje y Alcantarillado que se presenten y tramitar y resolver las quejas que se promuevan con relación al funcionamiento o administración general de los sistemas, según los procedimientos y normas que señale su reglamento interior.
+X. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-XI. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones.
+XI. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-XII. Promover ante el Ayuntamiento de Puerto Vallarta o el que corresponda en ejercicio de la facultad económico-coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, proponer la celebración de convenios entre los Ayuntamientos y el Gobierno de la Entidad, para que la Tesorería General del Estado, intervenga para los efectos de hacer efectivos los créditos insolutos.
+XII. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-XIII. Vigilar el cumplimiento por parte de los usuarios de los servicios, de las disposiciones de esta Ley y su Reglamento.
+XIII. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-XIV. Celebrar toda clase de actos o contratos que requiera el cumplimiento de las funciones encomendadas al Sistema.
+XIV. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
 
-XV. Realizar todos los actos encaminados directa o indirectamente a la mejor prestación de los servicios públicos cuya administración y manejo se le encomienda, de conformidad a esta Ley y a las disposiciones que se establezcan en el Reglamento respectivo.
+XV. (DEROGADA, P.O. 21 DE JUNIO DE 2007)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2007)</small>
+
+XVI. Vigilar que los fondos del organismo sean distribuidos conforme al presupuesto de egresos anual aprobado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2007)</small>
+
+XVII. Aprobar, cuando proceda, la adquisición o enajenación de bienes propiedad del organismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JUNIO DE 2007)</small>
+
+XVIII. Requerir al Director General el balance general del organismo al cierre de cada ejercicio anual.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO DECIMO TERCERO.
 
-El Consejo nombrará un Director General y tres Gerentes especiales, quienes tendrán las funciones y atribuciones que la presente Ley les asigna. El Director General, será designado a propuesta del Gobernador del Estado pudiendo ser persona extraña a los sectores en él Representados. Dicho funcionario será el superior jerárquico de los Gerentes Especiales y tendrá las funciones y atribuciones que le otorga la presente Ley, el Reglamento Interno y el propio Consejo de Administración del Sistema y las que le fije el Reglamento Interior.
+El Consejo nombrará a un Director General y tres gerentes especiales; aquél y éstos tendrán las funciones y atribuciones que la presente ley les asigna. El Director General será designado a propuesta del Gobernador del Estado, pudiendo ser persona extraña a los sectores en él representados. Dicho funcionario será el ejecutor de los acuerdos del Consejo y el superior jerárquico de todas las dependencias. Será atribución del Director General nombrar a los gerentes, subgerentes, jefes de departamento, de sección y de área, asistentes y demás personal, y tendrá las siguientes atribuciones:
+
+I. Ejecutar las determinaciones del Consejo de Administración de este organismo;
+
+II. Recaudar y manejar los fondos derivados de la prestación de los servicios de agua potable, drenaje y alcantarillado de acuerdo con las cuotas para tal efecto aprobadas, llevando la contabilidad correspondiente; todo ello a través de la Gerencia Administrativa y sus dependencias;
+
+III. Vigilar que los bienes que integran el patrimonio del Sistema y los necesarios para la prestación de los servicios, se encuentren debidamente inventariados, a través de la Gerencia Administrativa;
+
+IV. Llevar los libros y documentación que soporten los ingresos y egresos efectuados por los servicios que presta el Sistema;
+
+V. Resolver sobre las solicitudes para la prestación de los servicios de agua potable, drenaje y alcantarillado que se presenten y tramitar y resolver las quejas que se promuevan con relación al funcionamiento o administración general de los sistemas, según los procedimientos y normas que señale su reglamento interior;
+
+VI. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones;
+
+VII. Promover ante el Ayuntamiento de Puerto Vallarta o el que corresponda, en ejercicio de la facultad económico coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, proponer la celebración de convenios entre los ayuntamientos y el Poder Ejecutivo de la entidad, para que la Secretaría de Finanzas intervenga para los efectos de hacer efectivos los créditos insolutos;
+
+VIII. Vigilar el cumplimiento por parte de los usuarios de los servicios, de las disposiciones de esta ley y su reglamento:
+
+IX. Celebrar toda clase de actos o contratos que requiera el cumplimiento de las funciones encomendadas al Sistema;
+
+X. Realizar todos los actos encaminados directa o indirectamente a la mejor prestación de los servicios públicos cuya administración y manejo se le encomienda, de conformidad con esta ley y las disposiciones que se establezcan en el reglamento respectivo;
+
+XI. Rendir un informe anual de actividades realizadas durante cada ejercicio ante el pleno del Consejo de Administración; y
+
+XII. Las demás que le establezcan la presente ley, el reglamento interno y el propio Consejo de Administración del Sistema.
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -278,3 +338,9 @@ LIC. FLAVIO ROMERO DE VELASCO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO DE ALBA MARTIN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
