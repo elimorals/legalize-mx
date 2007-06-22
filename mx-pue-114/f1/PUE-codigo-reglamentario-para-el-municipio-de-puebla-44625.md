@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-05-23"
+last_updated: "2007-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4750,6 +4750,12 @@ Los grupos voluntarios que soliciten donaciones, deberán cumplir con todos los 
 El Honorable Ayuntamiento del Municipio de Puebla a través de la Tesorería Municipal están facultados para recibir donaciones en efectivo o en especie, otorgando el comprobante correspondiente.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 466.
+
+Los grupos voluntarios que soliciten donaciones, deberán cumplir con todos los requisitos establecidos en este Capítulo, debiendo estar inscritos en la Unidad Operadora Municipal de Protección Civil y extender el recibo correspondiente.
+
+DEL FONDO DE CONTINGENCIAS
 
 ###### Artículo 468.
 
@@ -11983,9 +11989,9 @@ II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes me
 
 1. El periodo natural de vibraciones se tomará igual a
 
-T = 2 ñ g (¡W¡2) 1/2
+T = 2 ñ g (¡W ¡ 2) 1 / 2
 
-g (P¡ X¡)
+g (P ¡ X¡)
 
 Donde:
 
@@ -12011,7 +12017,7 @@ Donde:
 
 Los coeficientes de proporcionalidad a1 y a2 están dados por las siguientes expresiones:
 
-a¡ = (1 - r(1-q)W¡
+a¡ = (1 - r(1-q)W¡)
 
 W¡h¡
 
@@ -12169,9 +12175,9 @@ He = (W¡X¡h¡/(¡W¡X¡)
 
 Donde:
 
-W i = Peso del nivel i
+Wi = Peso del nivel i
 
-X i = Amplitud del desplazamiento modal en nivel i
+Xi = Amplitud del desplazamiento modal en nivel i
 
 hi = Altura del nivel i sobre el desplante.
 
@@ -12179,7 +12185,7 @@ I. Análisis estático
 
 Si se opta por el análisis estático, cortante basal de la estructura con base flexible se calculará mediante
 
-V = a/Qw-(a/Q - a/Q)We
+V = a/Qw-(a/Q - a/Q)We)
 
 Donde:
 
@@ -12193,7 +12199,7 @@ Ordenada especial para la estructura con base rígida, se calcula según las ecs
 
 Q' = Factor reductito para el periodo fundamental de la estructura con base rígida
 
-= Factor reductito para el periodo efectivo de la estructura con base flexible
+=Factor reductito para el periodo efectivo de la estructura con base flexible
 
 El factor x se determina conforme a la ec. haciendo x =, donde es el amortiguamiento efecto de la estructura con base flexible. En la fracción III de este artículo se indica la forma de calcular el periodo y amortiguamiento efectivos del sistema suelo-estructura.
 
@@ -20049,7 +20055,9 @@ II. Atendiendo al fin para el que fue construido:
 
 a. Estacionamiento público prestado por particulares: Es aquél cuyo fin primordial es brindar el servicio de establecimiento al público en general, mediante el pago de una tarifa.
 
-b. Estacionamiento en Establecimientos o Centros Comerciales: Estacionamiento público que fue construido en cumplimiento de una obligación legal, por encontrarse anexo a las instalaciones de algún establecimiento o centro comercial en beneficio de sus clientes o usuarios y, en el que puede cobrarse una tarifa para su utilización.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
+
+b. Estacionamiento en Establecimientos o Centros Comerciales: Estacionamiento público que fue construido en cumplimiento de una obligación legal, por encontrarse anexo a las instalaciones de algún establecimiento o centro comercial, en beneficio de sus clientes o usuarios y, en el que puede cobrarse una tarifa de cobro fijo para su utilización.
 
 c. Estacionamiento en la Vía Pública: Todo espacio autorizado para tal fin, situado en las calles, avenidas, arroyos viales, los cuales podrán tener estacionómetros.
 
@@ -20073,7 +20081,9 @@ d. De acomodadores eventuales: Estacionamiento con acomodadores, que funciona ú
 
 V. Atendiendo a la cuota que cobrará:
 
-a. Cobro por hora: Estacionamientos que cobran por hora de servicio teniendo los usuarios un margen de diez minutos para recoger su unidad sin costo proporcional.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
+
+a. Cobro por hora o fracción: Estacionamientos que cobran por la primera hora de servicio y por las fracciones subsecuentes de quince minutos.
 
 b. Cobro fijo: Estacionamientos que cobran una tarifa fija sin considerar el tiempo que permanece el usuario o cliente en sus establecimientos o instalaciones.
 
@@ -20129,7 +20139,9 @@ XI. El horario en que prestará el servicio;
 
 XII. Oficio firmado en el que describa el servicio que pretende prestar;
 
-XIII. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1679 ter fracción IX del presente Capítulo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
+
+XIII. La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad con el artículo 1679 ter fracción VIII del presente Capítulo;
 
 XIV. Expresar la existencia de servicios adicionales; y
 
@@ -20207,7 +20219,9 @@ I. Nombre o razón social y domicilio del prestador del servicio de estacionamie
 
 II. Clave de Registro Federal de Contribuyentes;
 
-III. La tarifa aplicable, atendiendo a la clasificación señalada en el artículo 1678 bis del presente Capítulo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
+
+III. La tarifa aplicable, atendiendo a la clasificación señalada en el artículo 1678 del presente Capítulo;
 
 IV. Número de folio;
 
@@ -20215,7 +20229,7 @@ V. Informar a los usuarios de la existencia de una fianza o póliza de seguro, e
 
 VI. La hora de entrada y salida, en su caso, además del horario del servicio;
 
-VII. La tolerancia de diez minutos al terminar la hora, para recoger el vehículo sin cargo adicional;
+VII. (DEROGADA, P.O. 22 DE JUNIO DE 2007)
 
 VIII. Anotar el modelo, color, número de placas y estado físico que guarde el vehículo; y
 
@@ -27027,7 +27041,7 @@ Si el retador a un título es quien se encuentre excedido de peso, el encuentro 
 
 ###### Artículo 2226 Bis.
 
-En caso de que el Campeón hubiere perdido el titulo en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
+En caso de que el Campeón hubiere perdido el título en la báscula por exceso de peso, el cinturón emblemático de la división será presentado al público, por el Anunciador en turno, este Oficial informará al público de las circunstancias del caso y de las disposiciones que haya dictado la Comisión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -28826,3 +28840,9 @@ SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
 P.O. 23 DE MAYO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 22 DE JUNIO DE 2007.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las tarifas que se relacionan con el servicio público de estacionamiento y que se opongan al presente Dictamen.
