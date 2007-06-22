@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2006-09-10"
+last_updated: "2007-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2319,11 +2319,17 @@ En el caso de divorcio necesario por la causal contenida en la fracción XIX del
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1993)</small>
+El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años a contar desde que se decretó el divorcio.
 
-Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable, que haya transcurrido un año, desde que obtuvieron el Divorcio, dejando al arbitrio judicial, el poder reducir este término, tomando en cuenta la fecha del auto por el cual quedaron separados provisionalmente los cónyuges y también cuando al cónyuge divorciado le quede bajo su responsabilidad la custodia de los hijos.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
+
+Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable, que haya transcurrido un año, desde que obtuvieron el Divorcio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2007)</small>
+
+Se dejará al arbitrio judicial, el poder reducir los anteriores términos, tomando en cuenta, las circunstancias que se presentaron en el desarrollo de los procesos, la fecha del auto por el cual quedaron separados provisionalmente los cónyuges y también cuando al cónyuge divorciado le quede bajo su responsabilidad la custodia de los hijos.
 
 ###### Art. 290.
 
@@ -16520,6 +16526,10 @@ Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la 
 Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con anterioridad a la vigencia de este Decreto, no les serán aplicables las disposiciones que en éste se prevén, con excepción de lo dispuesto en el Artículo 77, que aplicará para todo caso.
 
 Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
+
+P.O. 22 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
