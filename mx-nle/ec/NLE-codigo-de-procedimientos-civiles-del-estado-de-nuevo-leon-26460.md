@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2007-06-06"
+last_updated: "2007-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -3367,9 +3367,11 @@ El Tribunal Superior al resolver el recurso de apelación, tiene como función e
 
 En cualquier estado de la segunda instancia podrá separarse de la apelación el que la haya interpuesto, siendo de su cuenta el pago de las costas, gastos, daños y perjuicios que causare a su contrario. El tribunal hará de plano la declaración.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
+
 ###### Artículo 451.
 
-Todas las notificaciones de la segunda instancia, se harán en la forma que previenen los artículos 75 y 76, excepción hecha de las sentencias que se notificarán personalmente, si las partes tienen designado domicilio.
+Las notificaciones que se practiquen a las partes dentro del juicio en la segunda instancia, se harán en la forma prevista por los Artículos 75 y 76, debiendo ser personales la del primer auto que se dicte y la de la sentencia definitiva o interlocutoria que se pronuncie.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -8810,5 +8812,9 @@ Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con
 Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
 
 P.O. 6 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
