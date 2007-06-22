@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-06-15"
+last_updated: "2007-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1018,13 +1018,29 @@ Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los M
 
 Las leyes garantizarán la gratuidad de la información pública bajo el principio de disponibilidad presupuestal, sin perjuicio de los derechos o cuotas proporcionales, equitativas y mínimas por la reproducción, gastos de envío, servicio o trámite público, conforme a las leyes fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-XXXIV. Revisar, discutir y, en su caso, aprobar en forma trimestral, las cuentas públicas estatal, municipal y de los organismos públicos autónomos, previo examen y glosa de la Secretaría de Finanzas, de las tesorerías municipales o, en su caso, de los órganos internos de control de que se trate. Dentro de los noventa días siguientes al envío de las cuentas públicas, se emitirán los dictámenes que correspondan conforme a las disposiciones aplicables.
+XXXIV.- Revisar, por conducto de su entidad de fiscalización superior denominada Auditoria Superior del Estado, en los términos previstos en la ley, las cuentas públicas de los Poderes del Estado, municipios y de los organismos públicos autónomos y de las demás entidades que se encuentren bajo su ámbito de influencia y cuya gestión presupuestal y programática no esté incorporada en su cuenta pública.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera respectiva y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los programas. Serán principios rectores de la fiscalización superior la posterioridad, anualidad, legalidad, imparcialidad, confiabilidad, integridad, transparencia, oportunidad, congruencia, inmediatez, suficiencia financiera, independencia y objetividad.
 
-La revisión de dichas cuentas públicas tendrá por objeto conocer los resultados de las gestiones financieras respectivas y comprobar si se han ajustado a los correspondientes presupuestos de egresos.
+La Auditoría Superior del Estado es un órgano con autonomía técnica y de gestión, con personalidad jurídica y patrimonio propio. Dicha autonomía le permitirá el ejercicio de sus atribuciones y la decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+
+Tendrá a su cargo:
+
+a) Fiscalizar en forma posterior los ingresos y egresos; la recaudación administración, manejo, custodia y aplicación de los fondos y recursos públicos, estatales o municipales de los órganos y dependencias de los Poderes y municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales y, en general, de cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la gestión de recursos públicos estatales o municipales, a través de los informes que se rendirán en los términos que disponga la ley.
+
+Sin perjuicio de los informes a que se refiere el primer párrafo de este inciso, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan, la revisión de los conceptos que estime pertinentes, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que correspondan.
+
+b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local a más tardar el 31 de octubre del año en que éstas debieron presentarse. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere este inciso; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+c) Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
+
+d) Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+El Auditor Superior del Estado será designado por las dos terceras partes de los legisladores presentes del Pleno del Congreso Local en los términos de las disposiciones aplicables; en caso de no obtenerse esta mayoría calificada habrá una segunda votación, y si en esta tampoco se logra la mayoría calificada, su designación se hará por simple mayoría de los presentes; será inamovible y su remoción sólo podrá realizarse por las causas graves y mediante el procedimiento previsto en la ley; durará en su encargo ocho años y podrá ser ratificado para un segundo período.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1032,13 +1048,13 @@ XXXV. Autorizar a la Diputación Permanente para que resuelva aquellos asuntos q
 
 XXXVI. Formar un Reglamento Interior y acordar las providencias para hacer concurrir a los diputados ausentes.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-XXXVII. Nombrar y remover a los servidores públicos de la Oficialía Mayor, la Tesorería y la Contaduría Mayor de Hacienda.
+XXXVII. Nombrar y remover a los servidores públicos de la Oficialía Mayor y la Tesorería.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-XXXVIII. Expedir la Ley Orgánica de la Contaduría Mayor de Hacienda.
+XXXVIII. Expedir la Ley de Fiscalización Superior del Estado de Coahuila.
 
 XXXIX. Velar por la observancia de la Constitución y las leyes.
 
@@ -1080,9 +1096,13 @@ XLVI. Solicitar la protección de los Poderes de la Unión, en los casos y térm
 
 XLVII. Expedir las Leyes y Acuerdos indispensables para hacer efectivas las facultades que anteceden y todas las demás que le confieran esta Constitución y la General de la República.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2007)</small>
 
-XLVIII. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
+XLVIII. Designar al Auditor Superior del Estado, y
+
+(REUBICADA, P.O. 22 DE JUNIO DE 2007)
+
+XLIX. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos aplicables.
 
 ###### Artículo 68.
 
@@ -1900,43 +1920,47 @@ El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Jus
 
 El período constitucional de los integrantes del Poder Judicial será:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de lo dispuesto por el artículo 77 de esta Constitución.
+I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-Los magistrados del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo del Poder Judicial durarán en su encargo seis años a partir de la fecha en que surta efectos su designación.
+II.- De diez años, para los Magistrados del Tribunal Electoral;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-II. De seis años para los Magistrados de los Tribunales Unitarios de Distrito y los Jueces de Primera Instancia, contados a partir de la fecha en que tome posesión de su cargo.
+III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito, que se contara a partir de la fecha de su designación. Al término del citado periodo podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
 
-III. (DEROGADA, P.O. 20 DE MARZO DE 2001)
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+Al vencimiento de los periodos descritos en las fracciones anteriores, los Magistrados tendrán derecho a un haber por retiro en los términos que establezca la ley.
+
+(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
 
 ###### Artículo 136.
 
-La competencia, organización y atribuciones del Pleno y de las Salas del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo tres años y podrá ser reelecto por igual término. Mientras ejerza su función no integrará Sala.
+La competencia, organización y atribuciones del Tribunal Superior de Justicia, así como las facultades, deberes y responsabilidades de los magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el magistrado que designe el Pleno, en los términos establecidos por la ley de la materia, y durará en su encargo cinco años y podrá ser reelecto por igual término. Mientras ejerza su función no integrara sala.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
 
-En el Distrito Judicial de Viesca se establecerá una Sala Auxiliar del Tribunal, que tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
+El Tribunal Superior de Justicia se compondrá por catorce Magistrados y funcionará en Pleno o en Salas. Se establecerá una Sala Auxiliar del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Viesca y San Pedro y tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007)</small>
 
 Los Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
+(REFORMADO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
 
-La competencia, procedimientos, organización y atribuciones del Tribunal Electoral, del Tribunal de 10 Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Unitarios de Distrito, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según lo establecido por esta Constitución en base a los principios siguientes:
+La competencia, procedimientos, organización del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 21 DE JUNIO DE 2005)</small>
 
 A. El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y de plena jurisdicción, y funcionará conforme a las bases generales siguientes:
 
-I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala el último párrafo de la fracción I del artículo 135 de esta Constitución, y funcionará en Pleno en los términos que disponga la ley.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2007)</small>
+
+I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala la fracción II del artículo 135 de esta Constitución, y funcionará en Pleno en los términos que disponga la ley.
 
 II. La designación de los magistrados del Tribunal Electoral deberá contar con la aprobación de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado en la sesión de que se trate. El procedimiento de designación se sujetará a lo dispuesto por el artículo 146 de esta Constitución y demás leyes aplicables.
 
@@ -2438,13 +2462,7 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO TERCERO.
-
-Las Funciones y Servicios Públicos Municipales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2680,7 +2698,9 @@ I. Los recursos que integran la hacienda municipal serán ejercidos en forma dir
 
 II. El Congreso del Estado discutirá y aprobará las leyes de ingresos de los Municipios, en los términos de las disposiciones aplicables. La deuda pública municipal se sujetará a los principios que establece esta Constitución y demás disposiciones aplicables.
 
-III. El Congreso del Estado revisará y fiscalizará la cuenta pública de cada uno de los Municipios, en los términos de las disposiciones aplicables. El Congreso del Estado en coordinación con los municipios garantizarán la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
+
+III. El Congreso del Estado revisará y fiscalizará por conducto de la Auditoria Superior del Estado, las cuentas públicas de los Municipios, en los términos de las disposiciones aplicables. El Congreso del Estado en coordinación con los municipios garantizará la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes;
 
 IV. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, observando para tal efecto las disposiciones aplicables. El ejercicio presupuestal del Municipio deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social.
 
@@ -2725,6 +2745,14 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 ###### Artículo 158-T.
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO TERCERO.
+
+Las Funciones y Servicios Públicos Municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-U.
 
@@ -2927,8 +2955,6 @@ II. La resolución del Congreso podrá ser impugnada en los términos del artíc
 III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado o el equivalente al veinte por ciento de los integrantes de los Ayuntamientos o Concejos Municipales, podrán impugnar por vía de controversia constitucional, si procede o no que el Gobierno Estatal asuma la función o servicio público municipal de que se trate, en los términos del artículo 158 de esta Constitución.
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
-
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEPTIMO.
 
@@ -4001,3 +4027,31 @@ P.O. 15 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 22 DE JUNIO DE 2007.
+
+DECRETO NUMERO 307.
+
+PRIMERO.- El presente Decreto producirá efectos el mismo día en que entre en vigor la Ley de Fiscalización Superior para el Estado de Coahuila. En estos términos publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 22 DE JUNIO DE 2007.
+
+DECRETO NUMERO 310.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los nombramientos de los actuales Magistrados Numerarios del Tribunal Superior de Justicia, conforme al decreto numero 616, de fecha veintiuno de diciembre de dos mil cinco, se entenderán extendidos por el periodo constitucional que establece esta reforma y comprenderá desde la fecha de la designación conforme al decreto de referencia, para finalizar el veintinueve de diciembre de dos mil veinte.
+
+Así mismo, se conservan las adscripciones de los Magistrados en ejercicio a la (sic) Salas del Tribunal y la Presidencia para adecuarse al término previsto en el presente decreto.
+
+TERCERO. De los periodos constitucionales descritos en el artículo 135 de esta Constitución, quedan excluidos los Magistrados que hubiesen alcanzado la calidad de inamovibles
+
+CUARTO. En un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, se presentarán ante el Congreso Local las reformas a los ordenamientos secundarios, a fin de hacer efectiva la aplicación de lo dispuesto en el presente Decreto.
+
+Asimismo, publicadas las reformas a los ordenamientos secundarios, el Consejo de la Judicatura del Estado iniciará el proceso de designación de los Magistrados Numerarios necesarios para alcanzar el número que contempla este decreto.
+
+Concluido el proceso de designación, en la primera sesión del Pleno del Tribunal Superior de Justicia posterior al nombramiento, los magistrados designados serán adscritos a la Sala que corresponda.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
