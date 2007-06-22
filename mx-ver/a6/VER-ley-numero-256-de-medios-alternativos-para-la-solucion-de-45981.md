@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-256-de-medios-alternativos-para-la-solucion-de-45981
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2007-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCION DE CONFLICTOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -87,7 +87,13 @@ III. En cualquier otra, cuando lo soliciten las partes y cuyo objeto no sea cont
 
 Los convenios celebrados en el Centro Estatal de Medios Alternativos para la Solución de Conflictos tendrán el valor de cosa juzgada.
 
-Los organismos privados deberán celebrar convenio con el Consejo de la Judicatura para llevar a cabo el procedimiento de mediación o conciliación y que sus convenios tengan el valor de cosa juzgada; así como cumplir en todo lo establecido por esta Ley.
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2007)</small>
+
+Los organismos privados y los sistemas de Desarrollo Integral de la Familia en el estado, en el ámbito de su competencia, deberán celebrar convenio con el Consejo de la Judicatura para llevar a cabo el procedimiento de mediación o conciliación y garantizar que sus acuerdos tengan el valor de cosa juzgada, así como cumplir en todo lo establecido por esta ley.
+
+> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2007)</small>
+
+Los mediadores o conciliadores que integren los organismos mencionados en el párrafo anterior deberán acreditar ante el Centro Estatal de Medios Alternativos para la Solución de Conflictos haber sido capacitados en dichas materias.
 
 ###### Artículo 7.
 
@@ -378,3 +384,11 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección.
 
 Licenciado Fidel Herrera Beltrán.-Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE JUNIO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente decreto.
