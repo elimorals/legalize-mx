@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2003-03-15"
+last_updated: "2007-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -58,7 +58,9 @@ III. Realizar todas aquéllas acciones tendientes a garantizar el derecho a la p
 
 IV. Proponer y fortalecer la participación de la comunidad en los servicios de salud;
 
-V.- Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, a fin de proponer adecuaciones a la normatividad estatal y esquemas que logren su correcto funcionamiento;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2003)</small>
+
+V. Promover el cumplimiento de la normatividad sanitaria vigente en establecimientos industriales, comerciales y de servicios, con el objeto de proteger a la población contra riesgos sanitarios, aplicando dentro de su ámbito de competencia los procesos de regulación, control y fomento sanitario en materia de salubridad general, concurrentes y local, orientando sus acciones a la protección y promoción de la salud pública, así como a la prevención de riesgos sanitarios;
 
 VI. Realizar todas aquellas acciones que sean necesarias para mejorar la calidad en la prestación de los servicios de salud;
 
@@ -94,7 +96,7 @@ Para la más eficaz atención de los asuntos de su competencia y materia, el Org
 
 Dirección de Servicios de Salud.
 
-Dirección de Regularización y Fomento Sanitario.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 23 DE JUNIO DE 2007)</small>
 
 Dirección Administrativa.
 
@@ -133,6 +135,10 @@ Unidad de Asuntos Jurídicos.
 - Hospital General de Manzanillo.
 
 - Laboratorio Estatal de Salud Pública.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2007)</small>
+
+- Comisión Estatal para la Protección Contra Riesgos Sanitarios.
 
 ###### ARTICULO 6°.
 
@@ -432,9 +438,11 @@ XVIII. Nombrar, en auxilio de las autoridades judiciales y administrativas del o
 
 XIX. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos o las autoridades superiores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-La Dirección de Regulación y Fomento Sanitario, tendrá las siguientes facultades y obligaciones:
+La Comisión Estatal para la Protección contra Riesgos Sanitarios, tendrá las siguientes facultades y obligaciones:
 
 I. Vigilar el cumplimiento de la Ley General de Salud, la Ley Estatal de Salud y demás ordenamientos que se desprendan de éstas en materia de regulación y control sanitarios;
 
@@ -475,6 +483,24 @@ XVIII. Organizar a nivel estatal la conformación y permanente actualización de
 XIX. Delegar, a los diferentes órganos de los Servicios de Salud, las facultades de vigilancia y control sanitario en las materias de su competencia; y
 
 XX. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos, o las autoridades superiores.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2007)</small>
+
+ARTICULO 25 BIS.- La Comisión Estatal para la Protección contra Riesgos Sanitarios quedará integrada por:
+
+I. Un comisionado Estatal;
+
+II. Un Subcomisionado de Evidencia y Análisis de Riesgo y dos Gerencias:
+
+a) Un Gerente de Evidencia de Riesgos; y
+
+b) Un Gerente de Análisis de Riesgos.
+
+III. Un Subcomisionado de Comunicación de Riesgo, Trámites y Autorizaciones con dos Gerencias:
+
+a) Un Gerente de Comunicación de Riesgos; y
+
+b) Un Gerente de Trámites y Autorizaciones.
 
 ###### ARTICULO 26.
 
@@ -880,9 +906,11 @@ Para el caso en que los recursos provenientes de cuotas de recuperación fuesen 
 
 DE LAS SUPLENCIAS DEL TITULAR
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 42.
 
-Durante las ausencias temporales del Secretario de Salud y Bienestar Social y Presidente Ejecutivo de los Servicios de Salud del Estado, el despacho y resolución de los asuntos correspondientes al Organismo, quedarán a cargo de los Titulares de las Direcciones en este orden de aparición: Servicios de Salud, de Regulación y Fomento Sanitario, Administrativo y de Planeación.
+Durante las ausencias temporales del Secretario de Salud y Bienestar Social y Presidente Ejecutivo de los Servicios de Salud del Estado, el despacho y resolución de los asuntos correspondientes al Organismo, quedarán a cargo de los Titulares de las Direcciones en este orden de aparición: Servicios de Salud, Comisión Estatal para la Protección contra Riesgos Sanitarios, Administrativa y de Planeación.
 
 ###### ARTICULO 43.
 
@@ -917,3 +945,11 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 P.O. 15 DE MARZO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima."
+
+P.O. 23 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
+
+SEGUNDO.- El Reglamento que regule las funciones de la Comisión Estatal para la Protección contra Riesgos Sanitarios, deberá expedirse en un término que no exceda de 180 días naturales, contados a partir de la publicación del presente acuerdo.
+
+TERCERO.- El presente Decreto crea nuevas plazas, ya que con el mismo personal adscrito y laborando en los Servicios de Salud del Estado, se reorganizará la conformación de la Comisión Estatal para la Protección contra Riesgos Sanitarios.
