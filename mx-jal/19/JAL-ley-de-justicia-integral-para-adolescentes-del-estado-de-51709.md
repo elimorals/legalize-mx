@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2007-01-25"
+last_updated: "2007-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -1443,11 +1443,17 @@ CUARTO. A la entrada en vigor de la presente Ley quedará abrogada la Ley de Rea
 
 QUINTO. En tanto entra en vigor la presente ley, los Poderes Ejecutivo y Judicial deberán disponer de todos los recursos materiales y humanos necesarios para la implementación del Sistema de Justicia Integral que establece este ordenamiento, para lo cual en dicho término deberán de realizar las adecuaciones, presupuestales, orgánicas y reglamentarias, correspondientes, así mismo deberán preveerse (sic) la selección y capacitación de los Servidores Públicos del personal del sistema.
 
-SEXTO. Los menores de edad sujetos a procedimiento establecido en los ordenamientos en materia de menores infractores a la entrada en vigor de la presente ley podrán acogerse a sus disposiciones en todo aquello que los beneficie.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2007)</small>
+
+SEXTO. Los menores sujetos a procedimiento por alguna infracción penal a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, deberán continuar con el procedimiento hasta su conclusión de conformidad con la Ley de Readaptación Juvenil abrogada, pudiendo optar por sujetarse al procedimiento señalado en la Ley de Justicia Integral para Adolescentes del estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2007)</small>
 
 SÉPTIMO. EL defensor de oficio a que se refiere la presente ley, dependerá de la Defensoría de Oficio del Poder Judicial del Estado hasta en tanto entre en funciones la Procuraduría Social.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2007)</small>
+
+OCTAVO. Los órganos del Poder Judicial encargados de aplicar la Ley de Justicia Integral para Adolescentes del estado de Jalisco, tendrán competencia para conocer de los hechos delictivos cometidos previo a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, teniendo además las mismas facultades que correspondían a los Consejos Paternales de acuerdo a la Ley de Readaptación Juvenil abrogada.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1494,3 +1500,7 @@ DECRETOS DE REFORMAS A LA PRESENTE LEY.
 P.O. 25 DE ENERO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE JUNIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
