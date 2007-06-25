@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2005-08-08"
+last_updated: "2007-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -61,7 +61,9 @@ IV.- Municipios del Estado.
 
 El Gasto Público a que se refiere el artículo anterior, comprende las erogaciones que realicen los Sujetos de la Ley por los siguientes conceptos:
 
-I.- Gasto Corriente. En este concepto se incluirá de manera enunciativa, mas no limitativa, las remuneraciones que se paguen a los servidores públicos, los materiales y suministros, así como los generales necesarios para la operación de los Sujetos de la Ley. De igual forma se incluyen las transferencias de recursos financieros que realicen entre sí, las distintas dependencias y entidades de los Sujetos de Ley, así como los apoyos otorgados por concepto de ayudas, subsidios y donativos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2007)</small>
+
+I.- Gasto Corriente. En este concepto se incluirá de manera enunciativa, más no limitativa, las remuneraciones que se paguen a los servidores públicos, los materiales y suministros, así como los generales necesarios para la operación de los Sujetos de la Ley. De igual forma se incluyen las transferencias de recursos financieros que realicen entre sí, las distintas dependencias y entidades de los Sujetos de ley, así como los apoyos otorgados por concepto de ayudas, subsidios y donativos, así como las contraprestaciones que se paguen por los servicios que sean prestados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, salvo aquellas que por su naturaleza deban ser parcialmente consideradas como gasto de inversión y/o capital de acuerdo con los criterios que se establezcan en el Reglamento de esa ley.
 
 Para el caso del Poder Ejecutivo del Estado, se incluirán en este apartado las trasferencias de recursos financieros que realice a los demás Sujetos de Ley;
 
@@ -185,9 +187,11 @@ Los presupuestos de egresos de los Municipios, Organismos Paramunicipales, Empre
 
 La Secretaría emitirá por medio de catálogos, los conceptos generales, rubros y demás información necesaria, con objeto de homologar la formulación de los presupuestos de egresos de los Sujetos de esta Ley, de conformidad con lo señalado en el Artículo 32 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 15.
 
-El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio deberá comprender, en apartado especial, las aportaciones que como parte del Gasto Público destinarán respectivamente a las entidades y otros organismos e instituciones.
+El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio deberá comprender, de manera expresa, las aportaciones que como parte del Gasto Público destinarán respectivamente a las entidades y otros organismos e instituciones; así como las previsiones necesarias para pagar en el año los compromisos derivados de prestación de servicios o de otra naturaleza, que se hubieren celebrado en años anteriores de conformidad con lo dispuesto en el Artículo 25 de la presente Ley.
 
 ###### ARTICULO 16.
 
@@ -237,7 +241,9 @@ El Presupuesto Anual del Estado podrá ser objeto de ajustes por el Ejecutivo cu
 
 I.- Los incrementos en las Participaciones a los Municipios, las cuales serán distribuidas en los términos del Artículo 13 de la Ley de Coordinación Fiscal Estatal;
 
-II.- Los incrementos en las Transferencias a Educación y de aquellas que reciba el Estado como parte de los programas federales de descentralización; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2007)</small>
+
+II. Los incrementos en los fondos de aportaciones federales previstos en el Capítulo V de la Ley de Coordinación Fiscal Federal, así como los subsidios, transferencias o reasignaciones por convenio transferidos por el Gobierno Federal de conformidad a lo establecido en el Presupuesto de Egresos de la Federación, así como las que reciba el Estado como parte de los programas federales de descentralización; y
 
 III.- Incrementos en los montos del Servicio de la Deuda Pública motivados por el movimiento de los mercados financieros, en base a los términos y condiciones negociados.
 
@@ -283,13 +289,17 @@ El ejercicio del gasto comprenderá la aplicación de los recursos que realicen 
 
 El Gasto Público será ejercido con apego a los programas y presupuestos aprobados, y a los calendarios financieros autorizados por la Secretaría, la Tesorería Municipal o la Unidad o Comisión correspondiente, según se trate de los Sujetos de la presente Ley, respectivamente.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-Se prohibe el establecimiento de compromisos de pago que rebasen un ejercicio presupuestal; en casos excepcionales y debidamente justificados la Secretaría, la Tesorería Municipal, la Unidad o Comisión respectiva, según sea el caso, podrán autorizar la afectación multianual, en estos casos de igual forma se requerirá la aprobación expresa del Congreso del Estado o del Cabildo Municipal, establecidas en los Presupuestos de Egresos respectivos.
+Se prohíbe el establecimiento de compromisos de pago que rebasen un ejercicio presupuestal, salvo en el caso de compromisos de pago plurianuales aprobados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, en los términos del Artículo 27, Fracción III y Fracción XXXIV, de la Constitución Política del Estado.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2005)</small>
+En el ámbito municipal, de conformidad con el Artículo 70 de la Constitución Política del Estado, corresponderá al Congreso, previa solicitud del Presidente Municipal, aprobar los Proyectos de prestación de servicios y los compromisos de pago plurianuales para cubrir los gastos correspondientes a los Proyectos municipales que sean desarrollados al amparo de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes.
 
-En los casos señalados en los Artículos 19 y 23 Bis de la Ley de Obras Públicas y Servicios Relacionados con el Estado de Aguascalientes se aplicará lo estipulado en los mismos, debiendo presentar únicamente un informe al H. Congreso del Estado o Cabildo Municipal.
+En casos excepcionales y debidamente justificados, la Secretaría, la Tesorería Municipal, la Unidad o Comisión respectiva, según sea el caso, podrán autorizar la afectación plurianual para la contratación de obra pública, en estos casos de igual forma se requerirá la aprobación expresa del Congreso del Estado, establecidos en los Presupuestos de Egresos respectivos.
+
+En los casos señalados en los Artículos 19 y 23 Bis de la ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, se aplicará lo estipulado en los mismos, debiendo presentar únicamente un informe al H. Congreso del Estado o Cabildo Municipal.
 
 ###### ARTICULO 26.
 
@@ -317,7 +327,9 @@ La Secretaría, Tesorería, Unidad o Comisión aplicable establecerán los linea
 
 ###### ARTICULO 31.
 
-El objetivo principal de la contabilidad de Entidades Paraestatales, Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Estado o de los Municipios y las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
+El objetivo principal de la contabilidad de Entidades Paraestatales, Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Estado o de los Municipios y las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el
+
+Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
 
 ###### ARTICULO 32.
 
@@ -476,3 +488,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P. O. 25 DE JUNIO 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
+
+Por lo que respecta a los Poderes Legislativo, Judicial y los Municipios, aplicarán dicho Reglamento en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios Órganos de control.
