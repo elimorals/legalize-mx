@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2005-08-08"
+last_updated: "2007-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -73,7 +73,7 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Contraloría: La Contraloría General del Estado;
 
-II. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes o en la Ley Orgánica Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo 1° de este ordenamiento jurídico;
+II. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes o en la Ley Orgánica Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo l° de este ordenamiento jurídico;
 
 III. Entidades: Las señaladas en las fracciones II, IV y V del Artículo de la presente Ley;
 
@@ -81,7 +81,7 @@ IV. Licitante: La persona física o moral que participa en cualquier procedimien
 
 V. Contratista: La persona física o moral que celebre contratos de obra pública o de servicios relacionados con la misma;
 
-VI. Sujetos de la Ley: Los que se indican en el Articulo 1° de esta Ley;
+VI. Sujetos de la Ley: Los que se indican en el Articulo l° de esta Ley;
 
 VII. Secretaría: La Secretaría de Obras Públicas del Estado;
 
@@ -124,6 +124,10 @@ V. Los trabajos de infraestructura agropecuaria que se realicen con presupuesto 
 VI. La instalación, montaje, colocación o aplicación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad de las dependencias, entidades o Municipios, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista, o bien cuando incluya la adquisición o fabricación de los mismos y que el precio de éstos sea inferior al de los trabajos que se contraten, incluyendo las pruebas de operación de lo bienes muebles; y
 
 VII. Todas aquellas actividades de naturaleza análoga, que determine la Contraloría.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2007)</small>
+
+Quedan excluidos de ser considerados como obra pública, los trabajos regulados por la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -1219,7 +1223,7 @@ La suma de las operaciones que se realicen al amparo de este Artículo, no podr�
 
 En la determinación del porcentaje antes señalado, los Sujetos de la Ley deberán considerar los montos asignados para obra por administración, así como los destinados para obra mixta en lo correspondiente a la ejecutada por administración.
 
-En casos excepcionales, las operaciones previstas en este Artículo podrán exceder el porcentaje indicado, siempre que las mismas sean aprobadas previamente, de manera indelegable y bajo su estricta responsabilidad, por el titular del Sujeto de la Ley y no se exceda del cincuenta por ciento de la inversión total autorizada para obras públicas y servicios relacionados con las mismas, éstas deberán ser registradas detalladamente en el informe a que se refiere el penúltimo párrafo del Artículo 66 de esta Ley. Esta autorización será especifica para cada obra pública o servicio relacionado con la misma.
+En casos excepcionales, las operaciones previstas en este Artículo podrán exceder el porcentaje indicado, siempre que las mismas sean aprobadas previamente, de manera indelegable y bajo su estricta responsabilidad, por el titular del Sujeto de la Ley y no se exceda del cincuenta por ciento de la inversión total autorizada para obras públicas y servicios relacionados con las mismas, éstas deberán ser registradas detalladamente en el informe a que se refiere el penúltimo párrafo del Artículo 66 de esta Ley. Esta autorización será específica para cada obra pública o servicio relacionado con la misma.
 
 En la ejecución de las obras por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas o subcontratistas de mano de obra, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten.
 
@@ -1482,3 +1486,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 25 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
