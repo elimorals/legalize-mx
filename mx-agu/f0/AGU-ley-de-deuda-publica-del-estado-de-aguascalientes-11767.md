@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2005-08-08"
+last_updated: "2007-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -63,11 +63,11 @@ IV.- Las empresas de participación mayoritaria estatal o municipal; y
 
 V.- Los fideicomisos en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2007)</small>
 
 ###### Artículo 3o.
 
-Se entiende por Deuda Pública del Estado, los financiamientos o empréstitos a cargo de alguna de las Entidades señaladas en el artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
+Se entiende por Deuda Pública del Estado los financiamientos o empréstitos contratados con o a través de instituciones del sistema financiero, a cargo de alguna de las Entidades señaladas en el Artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
@@ -119,7 +119,9 @@ XII.- Obligaciones Contingentes.- Los financiamientos que contraten los organism
 
 XIII.- Obligaciones de Pasivo Directas.- Los financiamientos que contrate el Gobierno del Estado o los gobiernos municipales; y
 
-XIV.- Programa de Financiamiento Neto.- La cantidad total estimada, que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2007)</small>
+
+XIV.- Programa de Financiamiento Neto. La cantidad total estimada que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos, las cuales deberán incluirse en el Presupuesto de Egresos correspondiente.
 
 El pago de intereses no formará parte del Financiamiento Neto pero deberá incluirse en el Presupuesto de Egresos correspondiente e informarse en la Cuenta Pública para su revisión.
 
@@ -213,7 +215,9 @@ V.- Las entidades señaladas en las fracciones III, IV y V del Artículo 2o.
 
 Corresponde a la H. Legislatura:
 
-I.- Examinar, discutir y en su caso formular observaciones y/o ajustes necesarios para aprobar los Programas de Financiamiento Neto de las entidades, mismos que deberán quedar contemplados en las Leyes de Ingresos del ejercicio de que se trate;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2007)</small>
+
+I.- Examinar, discutir y en su caso formular observaciones o ajustes necesarios para aprobar los Programas de Financiamiento Neto de las entidades, mismos que deberán quedar contemplados en las Leyes de Ingresos y Presupuestos de Egresos del ejercicio de que se trate;
 
 II.- Autorizar al Gobierno del Estado o Municipal para intervenir como aval o deudor solidario de los financiamientos que contraten las demás entidades;
 
@@ -552,3 +556,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 25 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado deberá publicar el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes en un plazo que no deberá exceder de 90 días contados a partir de la fecha de su publicación.
+
+Por lo que respecta a los Poderes Legislativo, Judicial y los Municipios, aplicarán dicho Reglamento en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios Órganos de control.
