@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2006-10-13"
+last_updated: "2007-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -557,7 +557,11 @@ f) Los proyectos de Ley, y
 
 g) Los proyectos de Decreto.
 
-V. Cuidar que las iniciativas y los dictámenes que vayan a ser discutidos en el Pleno se distribuyan y entreguen en copia simple a todos los Diputados, con un mínimo de veinticuatro horas anteriores a la sesión en que reciba primera lectura, salvo acuerdo de la Comisión de Gobierno;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
+
+V.- Certificar que se haya entregado a los Diputados un ejemplar de las proposiciones y los dictámenes que vayan a ser discutidos en el Pleno con un mínimo de cuarenta y ocho horas anteriores a la sesión y las que reciban primera lectura al seno de la Comisión y/o Comité en que se trate, salvo acuerdo de la Comisión de Gobierno.
+
+Se entenderá como certificación de entrega, las firmas de recibido que recabe la Oficialía Mayor, por cualquiera de los trabajadores asignados a los Diputados del Honorable Congreso;
 
 VI. Recabar y computar las votaciones y comunicar al Presidente los resultados;
 
@@ -1603,13 +1607,17 @@ En la reforma, adición, derogación y abrogación a Leyes o Decretos, se observ
 
 Los dictámenes relativos a proyectos de Ley, Decreto o Acuerdo, así como las reformas o adiciones a la Constitución General de la República o a la Constitución Política del Estado, deberán recibir primera y segunda lectura.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+
 ###### Artículo 135.
 
-No podrá ser puesto a discusión ningún proyecto de Ley o Decreto, sin que previamente, se haya distribuido un ejemplar de la iniciativa de que se trate a cada Diputado, salvo los casos que expresamente prevea la Ley.
+El dictamen que sea puesto a consideración del Pleno por primera vez; y, previa certificación de que fue distribuido un ejemplar dentro del plazo legal entre los Diputados concurrentes a la sesión que corresponda, será considerado de primera lectura y se omitirá su contenido.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 ###### Artículo 136.
 
-La dispensa de trámites consistirá en la omisión de la lectura preceptuada por este ordenamiento, y sólo procederá cuando, a solicitud de la Comisión que haya dictaminado el asunto o del Presidente del Congreso, así lo decida el Pleno, por acuerdo de las dos terceras partes de los asistentes a la sesión y se les haya entregado a los integrantes del Congreso, un ejemplar del dictamen.
+La dispensa de la segunda lectura preceptuada por este ordenamiento, sólo procederá cuando medie solicitud de la Comisión que haya dictaminado el asunto o del Presidente del Congreso; exista previa certificación de la entrega de un ejemplar del dictamen dentro del plazo legal correspondiente; y, que sea aprobada por acuerdo de la mayoría de los Diputados asistentes a la sesión.
 
 ### Capítulo III. De las Discusiones
 
@@ -2211,9 +2219,13 @@ VIII. Certificar documentos en ausencia de los Secretarios;
 
 IX. Fijar en lugar visible del Congreso la relación de asuntos que integren la Agenda Legislativa;
 
-X. Acordar los asuntos de trámite para su archivo, y
+X. Acordar los asuntos de trámite para su archivo, y (sic)
 
-XI. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, según corresponda.
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2007)</small>
+
+XI.- Distribuir una copia fiel a su original de las proposiciones y los dictámenes que vayan a ser discutidos en el Pleno, con un mínimo de cuarenta y ocho horas anteriores a la sesión en que reciba primera lectura, salvo acuerdo de la Comisión de Gobierno, y
+
+XII. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, según corresponda.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -2436,3 +2448,9 @@ P.O. 13 DE OCTUBRE DE 2006.
 Primero.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+P.O. 26 DE JUNIO DE 2007.
+
+Primero.- El presente Decreto entrará en vigor a partir de la fecha de su expedición.
+
+Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en los medios electrónicos de que disponga a fin de que sea del conocimiento general.
