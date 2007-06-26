@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2006-08-30"
+last_updated: "2007-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -107,9 +107,9 @@ VII. Crear conciencia para preservar la integridad de la familia;
 
 VIII. Promover el conocimiento de los ecosistemas existentes en el territorio del Estado y destacar la importancia de su vinculación con los individuos, en un sentido de mutua pertenencia entre éstos y el medio ambiente;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE JUNIO DE 2007)</small>
 
-IX. Crear conciencia de la necesidad de mejorar el ambiente, de preservar el equilibrio ecológico y de hacer un aprovechamiento racional de los recursos naturales;
+IX. Crear conciencia de la necesidad de mejorar el ambiente, de preservar el equilibrio ecológico, hacer un aprovechamiento racional de los recursos naturales y promover la cultura de la reforestación;
 
 X. Fortalecer el aprecio por la historia de la entidad y de la región;
 
@@ -1002,3 +1002,9 @@ Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Segundo. Para los efectos legales los procedimientos y normas reglamentarias de observancia general vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan Ley de Educación para el Estado de Veracruz-Llave, se entenderán referidas a la Ley de Educación para el Estado de Veracruz de Ignacio de la Llave.
 
 Tercero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 26 DE JUNIO DE 2007.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
