@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2006-12-08"
+last_updated: "2007-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -2535,7 +2535,7 @@ COMERCIAL
 
 De lujo hasta 2,298 S.M.G. 1,576 S.M.G.
 
-De primera hasta 1,970 S,M.G. 1,313 S.M.G.
+De primera hasta 1,970 S.M.G. 1,313 S.M.G.
 
 De segunda hasta 1,576 S.M.G. 985 S.M.G.
 
@@ -2549,7 +2549,7 @@ COMERCIAL
 
 De lujo hasta 1,260 S.M.G. 946 S.M.G.
 
-De primera hasta 946 S,M.G. 630 S.M.G.
+De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
 
@@ -2563,7 +2563,7 @@ COMERCIAL
 
 De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
 
-De primera hasta 1,312 S,M.G. 985 S.M.G.
+De primera hasta 1,312 S.M.G. 985 S.M.G.
 
 De segunda hasta 985 S.M.G. 656 S.M.G.
 
@@ -2575,7 +2575,7 @@ TURISTICA RURAL
 
 De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
 
-De primera hasta 1,312 S,M.G. 985 S.M.G.
+De primera hasta 1,312 S.M.G. 985 S.M.G.
 
 De segunda hasta 985 S.M.G. 656 S.M.G.
 
@@ -2591,7 +2591,7 @@ COMERCIAL
 
 De lujo hasta 946 S.M.G. 630 S.M.G.
 
-De primera hasta 630 S,M.G. 504 S.M.G.
+De primera hasta 630 S.M.G. 504 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
@@ -2605,7 +2605,7 @@ COMERCIAL
 
 De lujo hasta 1,576 S.M.G. 946 S.M.G.
 
-De primera hasta 1,260 S,M.G. 756 S.M.G.
+De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
 
@@ -2619,7 +2619,7 @@ COMERCIAL
 
 De lujo hasta 1,260 S.M.G. 946 S.M.G.
 
-De primera hasta 946 S,M.G. 630 S.M.G.
+De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
 
@@ -2633,7 +2633,7 @@ COMERCIAL
 
 De lujo hasta 946 S.M.G. 756 S.M.G.
 
-De primera hasta 756 S,M.G. 504 S.M.G.
+De primera hasta 756 S.M.G. 504 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
@@ -2647,7 +2647,7 @@ COMERCIAL
 
 De lujo hasta 2,520 S.M.G. 1,260 S.M.G.
 
-De primera hasta 1,890 S,M.G. 1,134 S.M.G.
+De primera hasta 1,890 S.M.G. 1,134 S.M.G.
 
 De segunda hasta 1,260 S.M.G. 946 S.M.G.
 
@@ -2661,7 +2661,7 @@ COMERCIAL
 
 De lujo hasta 820 S.M.G. 756 S.M.G.
 
-De primera hasta 630 S,M.G. 630 S.M.G.
+De primera hasta 630 S.M.G. 630 S.M.G.
 
 De segunda hasta 504 S.M.G. 378 S.M.G.
 
@@ -2675,7 +2675,7 @@ COMERCIAL
 
 De lujo hasta 1,260 S.M.G. 946 S.M.G.
 
-De primera hasta 946 S,M.G. 630 S.M.G.
+De primera hasta 946 S.M.G. 630 S.M.G.
 
 De segunda hasta 683 S.M.G. 378 S.M.G.
 
@@ -2689,7 +2689,7 @@ COMERCIAL
 
 De lujo hasta 1,576 S.M.G. 946 S.M.G.
 
-De primera hasta 1,260 S,M.G. 756 S.M.G.
+De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
 
@@ -2703,7 +2703,7 @@ COMERCIAL
 
 De lujo hasta 1,576 S.M.G. 946 S.M.G.
 
-De primera hasta 1,260 S,M.G. 756 S.M.G.
+De primera hasta 1,260 S.M.G. 756 S.M.G.
 
 De segunda hasta 946 S.M.G. 630 S.M.G.
 
@@ -2717,7 +2717,7 @@ COMERCIAL URBANA
 
 De lujo hasta 1,260 S.M.G. 946 S.M.G.
 
-De primera hasta 946 S,M.G. 820 S.M.G.
+De primera hasta 946 S.M.G. 820 S.M.G.
 
 De segunda hasta 630 S.M.G. 504 S.M.G.
 
@@ -2729,7 +2729,7 @@ COMERCIAL URBANA
 
 De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,206 S.M.G.
+De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
@@ -2741,7 +2741,7 @@ COMERCIAL URBANA
 
 De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 
-De primera hasta 2,206 S,M.G. 1,576 S.M.G.
+De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
@@ -2753,7 +2753,7 @@ COMERCIAL URBANA
 
 De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 
-De primera hasta 2,206 S,M.G. 1,576 S.M.G.
+De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
@@ -2765,7 +2765,7 @@ COMERCIAL URBANA
 
 De lujo hasta 4,410 S.M.G. 3,780 S.M.G.
 
-De primera hasta 4,096 S,M.G. 3,466 S.M.G.
+De primera hasta 4,096 S.M.G. 3,466 S.M.G.
 
 De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
 
@@ -2777,7 +2777,7 @@ COMERCIAL URBANA
 
 De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 
-De primera hasta 2,206 S,M.G. 1,576 S.M.G.
+De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
@@ -2789,7 +2789,7 @@ COMERCIAL URBANA
 
 De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 
-De primera hasta 2,206 S,M.G. 1,576 S.M.G.
+De primera hasta 2,206 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
@@ -2801,7 +2801,7 @@ COMERCIAL URBANA
 
 De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,206 S.M.G.
+De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
@@ -2813,7 +2813,7 @@ COMERCIAL URBANA
 
 De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,206 S.M.G.
+De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
@@ -2829,7 +2829,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
 
-De primera hasta 2,022 S,M.G. 1,576 S.M.G.
+De primera hasta 2,022 S.M.G. 1,576 S.M.G.
 
 De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
 
@@ -2841,7 +2841,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
 
-De primera hasta 3,466 S,M.G. 2,836 S.M.G.
+De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
@@ -2853,7 +2853,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,520 S.M.G.
+De primera hasta 2,836 S.M.G. 2,520 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
 
@@ -2865,7 +2865,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 2,836 S.M.G. 2,520 S.M.G.
 
-De primera hasta 2,520 S,M.G. 2,206 S.M.G.
+De primera hasta 2,520 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,206 S.M.G. 1,890 S.M.G.
 
@@ -2877,7 +2877,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 5,040 S.M.G. 4,410 S.M.G.
 
-De primera hasta 4,726 S,M.G. 4,096 S.M.G.
+De primera hasta 4,726 S.M.G. 4,096 S.M.G.
 
 De segunda hasta 4,410 S.M.G. 3,780 S.M.G.
 
@@ -2889,7 +2889,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,206 S.M.G.
+De primera hasta 2,836 S.M.G. 2,206 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
 
@@ -2901,7 +2901,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
 
-De primera hasta 2,836 S,M.G. 2,520 S.M.G.
+De primera hasta 2,836 S.M.G. 2,520 S.M.G.
 
 De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
 
@@ -2913,7 +2913,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
 
-De primera hasta 3,466 S,M.G. 2,836 S.M.G.
+De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
@@ -2925,7 +2925,7 @@ TURISTICA COMERCIAL
 
 De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
 
-De primera hasta 3,466 S,M.G. 2,836 S.M.G.
+De primera hasta 3,466 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
@@ -2973,7 +2973,7 @@ de propietario cambios
 
 De lujo hasta 526 S.M.G. 316 S.M.G.
 
-De primera hasta 420 S,M.G. 252 S.M.G.
+De primera hasta 420 S.M.G. 252 S.M.G.
 
 De segunda hasta 316 S.M.G. 190 S.M.G.
 
@@ -4691,6 +4691,30 @@ En caso de prorroga, pagará la parte proporcional que corresponda de acuerdo a 
 
 Por la transferencia temporal del uso de los derechos y obligaciones de una patente, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 S.M.G.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2007)</small>
+
+###### ARTICULO 170-D.
+
+La Secretaría cobrará y expedirá de conformidad con lo establecido en el Artículo 18 de la Ley para la Venta y Consumo de Bebidas Alcohólicas del Estado de Quintana Roo, licencias únicas que se otorgarán a persona física o moral que tenga dentro de un mismo predio uno o varios establecimientos con diversos giros para la venta de bebidas alcohólicas y la razón social sea la misma.
+
+Por expedición de licencias únicas se cobrará por cada giro o establecimiento, que incluya cada licencia, las siguientes.
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2007)</small>
+
+###### ARTICULO 170-E.
+
+Cuando el contribuyente preste el Servicio Público Especializado a que se refiere el Artículo 68 de la Ley de Tránsito, Transporte Y explotación de Vías y carreteras del Estado de Quintana Roo, y dentro de este servicio se otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas. La Secretaría cobrará y expedirá de conformidad con lo establecido en el Artículo 17 de la Ley para la venta y consumo de bebidas alcohólicas del Estado de Quintana Roo, permisos especiales que se otorgarán por unidad de transporte a personas físicas o morales, cobrándose la siguiente:
+
+TARIFA
+
+Tarifa Única De 55 S.M.G.
+
+a
+
+110 S.M.G. por Mes
+
 ### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -4993,7 +5017,7 @@ LXIII.- Mueblerías y artículos para el hogar, hasta 27 S.M.G.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-LXIV.- Opticas, hasta16 S.M.G.
+LXIV.- Opticas, hasta 16 S.M.G.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5185,153 +5209,209 @@ CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
 
 CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 173-A.
 
-Los contribuyentes que hayan adquirido patentes para la venta o expendio de bebidas alcohólicas tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año, la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a lo siguiente:
+Los contribuyentes que hayan adquirido licencias para la venta o expendio de bebidas alcohólicas tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año, la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta ley, para lo cual cubrirán un derecho en base a lo siguiente:
 
 TARIFA
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I.- Para los establecimientos ubicados en los Municipios de Othón P. Blanco y Felipe Carrillo Puerto, por la:
 
-I.- Para los establecimientos ubicados en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, por la:
+a). Venta de cervezas De 24 hasta 48 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+exclusivamente con
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 48 S.M.G.
+los alimentos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+b). Venta de cervezas, De 31 hasta 63 S.M.G.
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 63 S.M.G.
+vinos y licores exclusivamente
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+con los alimentos.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 48 S.M.G.
+c). Venta de cervezas, vinos y De 24 hasta 48 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+licores en envase cerrado.
 
-d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 42 S.M.G.
+d). Venta de cervezas De 21 hasta 42 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+en envase cerrado.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 79 S.M.G.
+e). Venta de cervezas, vinos y De 39 hasta 79 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+licores al copeo.
 
-f).- Venta de cervezas en envase abierto en cervecerías, hasta 48 S.M.G.
+f). Venta de cervezas en envase De 24 hasta 48 S.M.G.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+abierto.
 
-II.- Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
+g). Venta de vinos y licores en De 24 hasta 48 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+envase cerrado.
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 48 S.M.G.
+h). Venta de vinos y licores en De 39 hasta 79 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+envase cerrado para
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 53 S.M.G.
+distribución al mayoreo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+i). Venta de cervezas en envase De 39 hasta 79 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 48 S.M.G.
+cerrado para distribución al
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+mayoreo.
 
-d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 38 S.M.G.
+II. Para los establecimientos domiciliados en los Municipios de José María Morelos y Lázaro Cárdenas, por la:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a) Venta de cervezas De 24 hasta 48 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 63 S.M.G.
+exclusivamente con los
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+alimentos.
 
-f).- Venta de cervezas en envase abierto en cervecerías, hasta 42 S.M.G.
+b) Venta de cervezas, vinos y De 26 hasta 53 S.M.G.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+licores exclusivamente con los
 
-III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
+alimentos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+c) Venta de cervezas, vinos y De 24 hasta 48 S.M.G.
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 63 S.M.G.
+licores en envase cerrado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+d) Venta de cervezas en envase De 19 hasta 38 S.M.G.
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta126 S.M.G.
+cerrado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+e) Venta de cervezas, vinos y De 31 hasta 63 S.M.G.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 79 S.M.G.
+licores al copeo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+f) Venta de cervezas en envase De 21 hasta 42 S.M.G.
 
-d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 53 S.M.G.
+abierto en cervecerías.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+g) Venta de vinos y licores en De 21 hasta 42 S.M.G.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 179 S.M.G.
+envase cerrado.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+h) Venta de vinos y licores en De 31 hasta 63 S.M.G.
 
-f).- Venta de cervezas en envase abierto en cervecerías, hasta 79 S.M.G.
+envase cerrado para
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+distribución al mayoreo.
 
-IV.- Para los establecimientos domiciliados en los municipios de Benito Juárez, Cozumel y Solidaridad, por la:
+i) Venta de cervezas en envase De 31 hasta 63 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+cerrado para distribución al
 
-a).- Venta de cervezas exclusivamente con los alimentos, en loncherías, marisquerías y taquerías, hasta 63 S.M.G.
+mayoreo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+III.- Para los establecimientos domiciliados en el Municipio de Isla Mujeres, por la:
 
-b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos en restaurantes, hasta 158 S.M.G.
+a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+con los alimentos.
 
-c).- Venta de cervezas, vinos y licores en envase cerrado, autoservicios, minisúper y licorerías, hasta 111 S.M.G.
+b) Venta de cervezas, vinos y licores De 63 hasta 126 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+exclusivamente con los alimentos.
 
-d).- Venta de cervezas en envase cerrado en subagencias, depósitos y abarrotes, hasta 53 S.M.G.
+c) Venta de cervezas, vinos y licores De 39 hasta 79 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+en envase cerrado.
 
-e).- Venta de cervezas, vinos y licores al copeo, en bares, discotecas, centros nocturnos y piano bar, hasta 210 S.M.G.
+d) Venta de cervezas en envase De 26 hasta 53 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+cerrado.
 
-f).- Venta de cervezas en envase abierto en cervecerías, hasta 111 S.M.G.
+e) Venta de cervezas, vinos y licores De 89 hasta 179 S.M.G.
+
+al copeo.
+
+f) Venta de cervezas en envase De 39 hasta 79 S.M.G.
+
+abierto en cervecerías.
+
+g) Venta de vinos y licores en envase De 39 hasta 79 S.M.G.
+
+cerrado.
+
+h) Venta de vinos y licores en envase De 89 hasta 179 S.M.G.
+
+cerrado para distribución al
+
+mayoreo.
+
+i) Venta de cervezas en envase De 89 hasta 179 S.M.G.
+
+cerrado para distribución al
+
+mayoreo
+
+IV. Para los establecimientos domiciliados en los Municipios de Benito Juárez, Cozumel y Solidaridad, por la:
+
+a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
+
+con los alimentos.
+
+b) Venta de cervezas, vinos y licores De 79 hasta158 S.M.G.
+
+exclusivamente con los alimentos.
+
+c) Venta de cervezas, vinos y licores De 55 hasta 111 S.M.G.
+
+en envase cerrado.
+
+d) Venta de cervezas en envase De 26 hasta 53 S.M.G.
+
+cerrado.
+
+e) Venta de cervezas, vinos y licores De 105 hasta 210 S.M.G.
+
+al copeo.
+
+f) Venta de cervezas en envase De 55 hasta 111 S.M.G.
+
+abierto.
+
+g) Venta de vinos y licores en envase De 55 hasta 111 S.M.G.
+
+cerrado.
+
+h) Venta de vinos y licores en envase De 105 hasta 210 S.M.G.
+
+cerrado para distribución al
+
+mayoreo.
+
+i) Venta de cervezas en envase De 105 hasta 210 S.M.G.
+
+cerrado para distribución al
+
+mayoreo.
+
+En el caso de las licencias únicas se cobrará un derecho equivalente a cada giro o establecimiento de conformidad con las tarifas vigentes arriba mencionadas.
 
 ###### ARTICULO 174.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 175.
 
-Las licencias a que se refiere a que se refiere (sic) el Artículo 170-A de esta Ley, deberán renovarse dentro de los dos primeros meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+Las licencias a que se refiere el Artículo 170-A y 170-D de esta Ley, deberán renovarse dentro de los primeros dos meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+I.- Licencia de funcionamiento original del año inmediato anterior.
 
-I.- Licencia de funcionamiento del año inmediato anterior.
+II. Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje o cualquier impuesto federal cuya administración y vigilancia haya sido transferida mediante convenio, al Estado o acreditar que se encuentran comprendidos en los supuestos del artículo 48 de esta Ley.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-II.- Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje o cualquier impuesto federal cuya administración y vigilancia haya sido transferida mediante convenio, al Estado o, acreditar que se encuentran comprendidos en los supuestos del artículo 48 de esta Ley.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-III. Patente original y copia.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+III.- Licencia original y copia.
 
 IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 Las licencias deberán tenerse en lugar visible en el establecimiento o local para el cual fueron expedidas.
 
@@ -5649,7 +5729,7 @@ c) Servicio público de renta de toda clase de vehículos:
 
 1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 1,112 S.M.G.
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
+2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta 1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
 
 3.- Motocicletas, hasta 534 S.M.G.
 
@@ -5677,7 +5757,7 @@ a) Servicio público de pasajeros en general:
 
 1.- Autobuses de 36 asientos en adelante, hasta 2,845 S.M.G.
 
-2.- Minibuses hasta 25 asientos, hasta 2,134 S.M,G.
+2.- Minibuses hasta 25 asientos, hasta 2,134 S.M.G.
 
 3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
 
@@ -5697,7 +5777,7 @@ c) Servicio público de renta de toda clase de vehículos:
 
 2.- Arrendadoras de automóviles de 51 unidades en adelante, 712 S.M.G. y por cada vehículo excedente de 50, hasta 36 S.M.G.
 
-3.- Motocicletas, hasta 356 S.M.G,
+3.- Motocicletas, hasta 356 S.M.G.
 
 4.- Triciclos y bicicletas, hasta 178 S.M.G.
 
@@ -5847,7 +5927,7 @@ III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documen
 
 IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular' y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
+V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
 
 VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
@@ -6377,7 +6457,7 @@ Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los de
 
 ###### ARTICULO 188-D.
 
-El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del articulo 188-B.
+El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del artículo 188-B.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
@@ -7895,7 +7975,7 @@ SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opo
 
 P.O. 29 DE DICIEMBRE DE 2000.
 
-PRIMERO: EI presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado.
+PRIMERO: El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
@@ -8298,3 +8378,7 @@ El presente Decreto entrará en vigor a partir del 1º de enero de 2007, previa 
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para los efectos legales que correspondan.
+
+P.O. 26 DE JUNIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
