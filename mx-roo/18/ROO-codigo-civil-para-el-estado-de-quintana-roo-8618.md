@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2007-04-18"
+last_updated: "2007-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4199,13 +4199,21 @@ XXIV. La actividad sexual de un cónyuge con persona de su mismo sexo;
 
 XXV. El mutuo consentimiento.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+
 ###### Artículo 800.
 
-Cuando ambos consortes, teniendo más de un año de casados, convengan en divorciarse y sean mayores de edad, no tengan hijos menores y de común acuerdo hubieren liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad y que, si tienen hijos éstos también son mayores; y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes, teniendo mas de un año de casados, convengan en divorciarse y sean mayores de edad, no tengan hijos, o si los tuviesen no fueran menores de edad y de común acuerdo hubieran liquidado su comunidad de bienes, si bajo este régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil o ante el Notario Público del lugar del domicilio conyugal; comprobarán con las copias certificadas respectivas que son casados, mayores de edad, y que, si tienen hijos estos también son mayores de edad, y manifestarán terminante y explícitamente su voluntad de divorciarse.
+
+La liquidación de bienes a que se refiere el presente artículo, podrá realizarse ante el Juez o ante el Notario Público del conocimiento.
+
+Para el caso de que opten por realizar el trámite de divorcio ante del Notario Público, deberá inscribirse en el Registro Civil de la Jurisdicción donde hayan celebrado el contrato matrimonial, el acta que al efecto se levante.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
 
 ###### Artículo 801.
 
-El oficial, previa identificación de los consortes y haciéndoles saber el contenido del artículo 802, levantará un acta en que hará constar la solicitud de divorcio, citará a los cónyuges para que se presenten a ratificarla a los quince días, y si los consortes hacen la ratificación, el oficial los declarará divorciados, levantará el acta respectiva y mandará hacer la anotación correspondiente en la del matrimonio así disuelto.
+El Oficial del Registro Civil, o en su caso, el Notario Público del conocimiento, previa identificación de los consortes y haciéndoles saber el contenido del Artículo 802, levantará un Acta en que hará constar la solicitud de divorcio, citará a los cónyuges para que se presenten a ratificarla a los quince días, y si los consortes hacen la ratificación, el Oficial los declarará divorciados, levantará el Acta respectiva y mandará hacer la anotación correspondiente en la del matrimonio así resuelto.
 
 ###### Artículo 802.
 
@@ -16902,3 +16910,7 @@ P.O. 29 DE SEPTIEMBRE DE 2006.
 P.O. 18 DE ABRIL DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
