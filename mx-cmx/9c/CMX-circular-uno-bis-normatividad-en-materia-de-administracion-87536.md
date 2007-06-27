@@ -4,7 +4,7 @@ identifier: "CMX-circular-uno-bis-normatividad-en-materia-de-administracion-8753
 country: "mx"
 rank: "otro"
 publication_date: "2007-04-12"
-last_updated: "2007-04-12"
+last_updated: "2007-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-04-04"
 
 CIRCULAR UNO BIS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2007.
 
 Circular publicada en la Gaceta Oficial del Gobierno del Distrito Federal, el jueves 12 de abril de 2007.
 
@@ -386,7 +386,9 @@ DEPENDENCIAS: Las Secretarías, la Procuraduría General de Justicia del Distrit
 
 DF: Distrito Federal.
 
-DGAD: Dirección General de Administración Delegacional.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+DGAD ó DGADD Dirección General de Administración Delegacional.
 
 DGAF: Dirección General de Administración Financiera.
 
@@ -1832,15 +1834,25 @@ Para tal efecto, se deberá utilizar la guía y los formatos emitidos por la OM 
 
 5.1 DISPOSICIONES
 
-5.1.1 Las Dependencias, Órganos Desconcentrados y Entidades deberán prever, planear y programar con la debida antelación la realización de los procedimientos de contratación, considerando para tal efecto las siguientes circunstancias: calendario presupuestal aprobado; disposiciones que señalan la fecha límite para contraer compromisos; disposiciones que establecen la fecha límite para realización de trámites programático-presupuestales; cierre del ejercicio presupuestal; plazos inherentes a recursos de inconformidad, entre otros.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-5.1.2 Para los efectos de los artículos Cuarto de la LADF y Cuarto del RLADF, las Dependencias Órganos Desconcentrados y Entidades deberán solicitar a la SF, indique el origen de los recursos en el oficio de autorización de inversión correspondiente, solicitándole que además se indique si los fondos provienen de recursos federales o locales, y en el primer caso indicar si los recursos provienen de algún convenio celebrado con el Ejecutivo Federal, si son con cargo total o parcial a los ingresos previstos en la Ley de Coordinación Fiscal o de Deuda Interna.
+5.1.1 Las Delegaciones deberán prever, planear y programar con la debida antelación la realización de los procedimientos de contratación, considerando para tal efecto las siguientes circunstancias: calendario presupuestal aprobado; disposiciones que señalan la fecha límite para contraer compromisos; disposiciones que establecen la fecha límite para realización de trámites programático-presupuestales; cierre del ejercicio presupuestal; plazos inherentes a recursos de inconformidad, entre otros.
 
-5.1.3 De conformidad con lo establecido en los artículos 472, párrafo segundo y 485 primer párrafo del CFDF, las dependencias y entidades deberán solicitar a la SF que previo análisis del gasto de inversión consignado en los anteproyectos de presupuesto, expida las autorizaciones previas para efectuar trámites y contraer compromisos que les permitan iniciar o continuar a partir del primero de enero del año siguiente, aquellos proyectos que por su importancia así lo requieran.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-Cuando por la naturaleza de los proyectos o del tipo de bien a adquirir resulte conveniente realizar contrataciones multianuales, las dependencias, entidades y órganos desconcentrados, deberán solicitar, con oportunidad, a la SF, la autorización de inversión y/o inversión previa, en su caso y la autorización para comprometer recursos por más de un ejercicio.
+5.1.2 Para los efectos de los artículos Cuarto de la LADF y Cuarto del RLADF, las Delegaciones deberán solicitar a la SF, indique el origen de los recursos en el oficio de autorización de inversión correspondiente, solicitándole que además se indique si los fondos provienen de recursos federales o locales, y en el primer caso indicar si los recursos provienen de algún convenio celebrado con el Ejecutivo Federal, si son con cargo total o parcial a los ingresos previstos en la Ley de Coordinación Fiscal o de Deuda Interna.
 
-5.1.4 En el caso de que las adquisiciones, arrendamientos o contratación de servicios se realicen de forma consolidada y/o centralizada conforme a las disposiciones que emita el GAF, mediante el procedimiento previsto para los supuestos del artículo 54, exceptuando sus fracciones IV y XII, de la LADF, y de conformidad con sus atribuciones, serán dictaminados por el comité de autorizaciones, no será necesario que se presente para su autorización ante los subcomités respectivos, bastando informar a estos últimos de dicha circunstancia. En este sentido cada subcomité reportará este tipo de contrataciones a través del informe señalado en el numeral 5.16.1.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.1.3 De conformidad con lo establecido en los artículos 472, párrafo segundo y 485 primer párrafo del CFDF, las Delegaciones deberán solicitar a la SF que previo análisis del gasto de inversión consignado en los anteproyectos de presupuesto, expida las autorizaciones previas para efectuar trámites y contraer compromisos que les permitan iniciar o continuar a partir del primero de enero del año siguiente, aquellos proyectos que por su importancia así lo requieran.
+
+Cuando por la naturaleza de los proyectos o del tipo de bien a adquirir resulte conveniente realizar contrataciones multianuales, las Delegaciones, deberán solicitar, con oportunidad, a la SF, la autorización de inversión y/o inversión previa, en su caso y la autorización para comprometer recursos por más de un ejercicio.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.1.4 En el caso de que las adquisiciones, arrendamientos o contratación de servicios se realicen de forma consolidada y/o centralizada conforme a las disposiciones que emita el GAF, mediante el procedimiento previsto para los supuestos del artículo 54, exceptuando sus fracciones IV y XII, de la LADF, y de conformidad con sus atribuciones, serán dictaminados por el comité de autorizaciones, no será necesario que se presente para su autorización ante los Comités Delegacionales, bastando informar a estos últimos de dicha circunstancia.
+
+En este sentido cada Comité Delegacional reportará este tipo de contrataciones a través del informe señalado en el numeral 5.16.1.
 
 Las áreas responsables de consolidar observarán lo dispuesto en el artículo 380 del CFDF.
 
@@ -1850,11 +1862,15 @@ Las áreas responsables de consolidar observarán lo dispuesto en el artículo 3
 
 5.1.7 En los procedimientos de adquisiciones deberá participar cuando menos un Contralor Ciudadano.
 
-5.1.8 Los servidores públicos, asesores y contratistas ciudadanos, deberán comunicar a la convocante y a la Contraloría General o a la Contraloría Interna las inconsistencias, errores, deficiencias o irregularidades que detecten durante los procedimientos de adquisiciones, a efecto de que corrijan y/o sancionen en términos de la ley.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.1.8 Los servidores públicos, asesores y contralores ciudadanos, deberán comunicar a la convocante y a la Contraloría General o a la Contraloría Interna las inconsistencias, errores, deficiencias o irregularidades que detecten durante los procedimientos de adquisiciones, a efecto de que corrijan y/o sancionen en términos de la ley.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
 5.1.9 Las DGAD serán las únicas instancias legalmente facultadas y reconocidas para atender los requerimientos en materia de adquisiciones, arrendamientos y prestación de servicios.
 
-En los procedimientos consolidados y/o centralizados las DGAD representarán a la Dependencia a la cual se encuentran adscritas, y a los Órganos Desconcentrados sectorizados a la misma.
+En los procedimientos consolidados y/o centralizados las DGAD representarán a las respectivas delegaciones.
 
 5.1.10 Es competencia y responsabilidad de las DGAD:
 
@@ -1880,23 +1896,31 @@ j) Proporcionar la información necesaria al Subcomité de Adquisiciones, Arrend
 
 k) Integrar las carpetas del Subcomité de Adquisiciones Arrendamientos y Prestación de Servicios y remitirlas de conformidad con el numeral 7.12.1.
 
-5.1.11 Las Dependencias, Órganos Desconcentrados y Entidades deberán prever, planear y programas (sic) con la debida antelación los procedimientos de contratación, considerando para tal efectos (sic) las siguientes circunstancias: Calendario presupuestal aprobado, disposiciones que señalan la fecha límite para contraer compromisos; disposiciones que establecen las fechas límite para la entrega del ejercicio programático-presupuestal; cierres del ejercicio presupuestal; Plazos inherentes a recursos de inconformidad, entre otros, de acuerdo con lo previsto en la Ley de Adquisiciones para el Distrito Federal, su reglamento, así como en las LPC.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.1.11 Las Delegaciones deberán prever, planear y programas (sic) con la debida antelación los procedimientos de contratación, considerando para tal efectos (sic) las siguientes circunstancias: Calendario presupuestal aprobado, disposiciones que señalan la fecha límite para contraer compromisos; disposiciones que establecen las fechas límite para la entrega del ejercicio programático-presupuestal; cierres del ejercicio presupuestal; Plazos inherentes a recursos de inconformidad, entre otros, de acuerdo con lo previsto en la Ley de Adquisiciones para el Distrito Federal, su reglamento, así como en las LPC.
 
 5.1.12 En todos los procedimientos de contratación por licitación pública nacional e internacional, invitación restringida a cuando menos tres proveedores y adjudicaciones directas, centralizadas, consolidadas, generales o específicas, cuya suficiencia presupuestal exceda el monto de $11'500,000.00 (once millones quinientos mil pesos), incluyendo el impuesto al valor agregado, además de las disposiciones contenidas en el presente apartado, deberá observarse lo dispuesto en las LPC.
 
 5.2 PROGRAMA ANUAL DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS
 
-5.2.1 Las Dependencias, Órganos Desconcentrados y Entidades, deberán elaborar sus PAAAPS, con estricto apego al presupuesto autorizado para el ejercicio correspondiente y a los lineamientos y formatos que establezca la DGRMSG.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
 
-Las Dependencias, Órganos Desconcentrados y Entidades, remitirán a la DGRMSG, copia del PAAAPS que envíen a la SF para su validación. La versión definitiva se enviará a la DGRMSG a más tardar la primera quincena del mes de febrero, del ejercicio presupuestal reportado.
+5.2.1 Las Delegaciones, deberán elaborar sus PAAAPS, con estricto apego al presupuesto autorizado para el ejercicio correspondiente y a los lineamientos y formatos que establezca la DGRMSG.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Las Delegaciones, remitirán a la DGRMSG, copia del PAAAPS que envíen a la SF para su validación. La versión definitiva se enviará a la DGRMSG a más tardar la primera quincena del mes de febrero, del ejercicio presupuestal reportado.
 
 Para los casos en que exista alguna duda respecto a la partida presupuestal que tiene asignada el bien o servicio en el CABMS, en la elaboración del PAAAPS, se aplicará invariablemente el criterio que defina su área financiera con la partida presupuestal del clasificador por objeto del gasto y habrá de notificarse por escrito a la DGRMSG.
 
-Las Dependencias y Órganos Desconcentrados y Entidades conforme a sus necesidades de operación, podrán modificar, adicionar, suspender o cancelar su PAAAPS sin que ello les implique responsabilidad alguna, siempre y cuando esté orientado a coadyuvar en el cumplimiento de sus metas y actividades institucionales. Asimismo, la instancia facultada para autorizar las modificaciones de su PAAAPS, será la DGAD o equivalente para Dependencias y Órganos Desconcentrados.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Las delegaciones conforme a sus necesidades de operación, podrán modificar, adicionar, suspender o cancelar su PAAAPS sin que ello les implique responsabilidad alguna, siempre y cuando esté orientado a coadyuvar en el cumplimiento de sus metas y actividades institucionales. Asimismo, la instancia facultada para autorizar las modificaciones de su PAAAPS, será la DGAD.
 
 Las modificaciones del PAAAPS deberán reportarse a la DGRMSG, de manera trimestral, en forma impresa respetando los lineamientos que para tal efecto se emitan y en dispositivo magnético, así como una síntesis cualitativa que sustente los movimientos para los capítulos en donde se presenten los cambios.
 
-5.2.2 La SF enviará mensualmente a la DGRMSG las modificaciones que las dependencias (incluyendo a sus Órganos Desconcentrados), y Entidades realicen a sus PAAAPS asimismo remitirá mensualmente el importe de lo ejercido por este concepto.
+5.2.2 (DEROGADO, G.O. 27 DE JUNIO DE 2007)
 
 5.3 DE LAS CONVOCATORIAS A LICITACIÓN PÚBLICA
 
@@ -1912,7 +1936,9 @@ IV. Precisar que se convoca a fabricantes o distribuidores autorizados o a inter
 
 5.3.2 Será obligatorio publicar en internet, con la debida antelación a la fecha en que se publique la convocatoria al procedimiento de licitación pública, o bien a la fecha en que se corra invitación a los proveedores, cuando la suficiencia presupuestal para iniciar el proceso de invitación restringida exceda el monto de $11,500,000.00 (once millones, quinientos mil pesos), la descripción genérica de los bienes a adquirir, arrendar o los servicios a contratar; los anexos respectivos, así como la ficha técnica de los mismos, salvo cuando así lo disponga la ley y el reglamento en la materia, o bien, los casos en que no resulte conveniente para salvaguardar el orden público, el interés general o la integridad de las personas, de acuerdo a lo dispuesto en las LPC.
 
-5.3.3 Cuando la suficiencia presupuestal exceda el monto de $11,500,000.00 (once millones, quinientos mil pesos), las bases de participación, fechas de los eventos, descripción de bienes o servicios, fichas técnicas, anexos y demás información relativa a los procedimientos de invitación restringida a cuando menos tres proveedores, deberán publicarse en la página de internet de la Dependencia, Órgano Desconcentrado o Entidad correspondiente, con por los menos tres días hábiles de anticipación a la fecha prevista para el evento de recepción y apertura del sobre que contenga las propuestas, a efecto de que cualquier proveedor o prestador de servicios que se encuentre interesado en participar y cumpla con los requisitos establecidos para ello, presente propuestas para dicho procedimiento, debiendo la convocante recibir todas las propuestas que se presenten y valorarlas en igualdad de circunstancias, de acuerdo a los (sic) dispuesto en las LPC.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.3.3 Cuando la suficiencia presupuestal exceda el monto de $11,500,000.00 (once millones, quinientos mil pesos), las bases de participación, fechas de los eventos, descripción de bienes o servicios, fichas técnicas, anexos y demás información relativa a los procedimientos de invitación restringida a cuando menos tres proveedores, deberán publicarse en la página de internet de la Delegación correspondiente, con por los menos tres días hábiles de anticipación a la fecha prevista para el evento de recepción y apertura del sobre que contenga las propuestas, a efecto de que cualquier proveedor o prestador de servicios que se encuentre interesado en participar y cumpla con los requisitos establecidos para ello, presente propuestas para dicho procedimiento, debiendo la convocante recibir todas las propuestas que se presenten y valorarlas en igualdad de circunstancias, de acuerdo a los (sic) dispuesto en las LPC.
 
 5.3.4 En todos los casos, deberá establecerse en las bases de licitación o de participación, que la persona física o moral interesada en participar, deberá firmar una carta compromiso de integridad, en la que se compromete a no incurrir en prácticas no éticas o ilegales durante el procedimiento de licitación pública, invitación restringida o adjudicación directa, así como en el proceso de formalización y vigencia del contrato, y en su caso los convenios que se celebren, incluyendo los actos que de éstos deriven, conforme al formato establecido como anexo en las bases, el cual deberá correr agregado a la propuesta, a fin de garantizar la transparencia, legalidad y honestidad de los procedimientos, de acuerdo a lo dispuesto en las LPC.
 
@@ -1924,7 +1950,9 @@ a) la utilización de sobre a color en que se contenga la propuesta, protección
 
 Únicamente se podrán establecer algunas de las especificaciones como las señaladas en el inciso anterior, cuando sean de carácter optativo y siempre y cuando se precise en las bases correspondientes, que tales requisitos, no son obligatorios para los participantes y que se solicitan para la mejor conducción del procedimiento;
 
-b) Experiencia superior a un año, salvo en casos debidamente justificados que autorice en forma expresa y por escrito el OM o el Oficial Mayor de la Procuraduría General de Justicia del Distrito Federal; o el Oficial Mayor de la Secretaría de Seguridad Pública del DF;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+b) Experiencia superior a un año, salvo en casos debidamente justificados que autorice en forma expresa el Jefe Delegacional correspondiente, informando por escrito al OM.
 
 c) Haber celebrado contratos anteriores con la convocante;
 
@@ -1942,7 +1970,9 @@ g) Las convocantes, no deberán establecer en las bases de licitación la previs
 
 5.4.3 Cuando se establezca la aplicación de pruebas de calidad a los bienes a adquirir, los métodos de prueba y los valores que no hayan sido precisadas en las bases o en la junta de aclaración del procedimiento de adquisición de bienes o contratación de servicios, no serán tomadas en cuenta en la evaluación de las propuestas presentadas por los participantes para la adjudicación del contrato respectivo. Asimismo, se deberá especificar, que las pruebas de laboratorio, calidad, de desempeño o de cualquier otra índole, serán efectuadas directamente por la convocante, con cargo del licitante.
 
-5.4.4 Las Dependencias, Órganos Desconcentrados o Entidades establecerán en las bases de licitaciones públicas nacionales e internacionales que las condiciones de entrega de los bienes adquiridos, será:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.4.4 Las Delegaciones establecerán en las bases de licitaciones públicas nacionales e internacionales que las condiciones de entrega de los bienes adquiridos, será:
 
 a) LAB destino (Libre Abordo Destino), a fin de que los mismos sean entregados en las oficinas, almacenes, bodegas o cualquier otro inmueble que previamente fije la convocante, o
 
@@ -1956,7 +1986,9 @@ Se precisará, en cualquiera de los casos antes indicados, si el plazo de entreg
 
 5.5.1 El GAF mediante disposiciones de carácter general, determinará los bienes y/o servicios que se contratarán de manera consolidada y/o centralizada.
 
-5.5.2 Las Dependencias, Órganos Desconcentrados y Entidades promoverán las adquisiciones consolidadas de los bienes y servicios de uso generalizado, que se requieran en la APDF, previa autorización del GAF.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.5.2 Las Delegaciones promoverán las adquisiciones consolidadas de los bienes y servicios de uso generalizado, que se requieran en la APDF, previa autorización del GAF.
 
 5.5.3 Cuando se determine la realización de una licitación consolidada o centralizada, se formará un grupo de trabajo, que se integrará con los representantes del área de administración de las diversas dependencias, delegaciones y entidades requirentes, quienes serán los responsables de revisar las bases, anexos técnicos; así como de asistir a todos los eventos de la licitación.
 
@@ -1966,11 +1998,15 @@ Se precisará, en cualquiera de los casos antes indicados, si el plazo de entreg
 
 5.5.6 De conformidad con los Lineamientos emitidos por el GAF, las DGAD que deseen participar en adquisiciones consolidadas, invariablemente acreditarán que cuentan con la suficiencia presupuestal para adquirir los bienes o servicios a contratar.
 
-5.5.7 Para el caso de contrataciones en forma consolidada de los bienes y servicios señalados por el GAF, bajo los supuestos del artículo 54 de la LADF, exceptuando sus fracciones IV y XII, que realice la convocante, serán dictaminados por el Comité de Autorizaciones, y no será necesario que las Dependencias, Órganos Desconcentrados, y Entidades participantes presenten los casos para su autorización ante los subcomités respectivos, bastando informar a estos últimos de dicha circunstancia.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.5.7 Para el caso de contrataciones en forma consolidada de los bienes y servicios señalados por el GAF, bajo los supuestos del artículo 54 de la LADF, exceptuando sus fracciones IV y XII, que realice la convocante, serán dictaminados por el Comité de Autorizaciones, y no será necesario que las Delegaciones participantes presenten los casos para su autorización ante los subcomités respectivos, bastando informar a estos últimos de dicha circunstancia.
 
 5.6 DEL MEJORAMIENTO DE PRECIOS
 
-5.6.1 Las Dependencias y Entidades vigilarán que el mejoramiento de precios en los procedimientos de licitación pública o invitación restringida, se efectúe respetando las mismas condiciones legales, administrativas, técnicas y económicas ofrecidas en la propuesta original.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.6.1 Las Delegaciones vigilarán que el mejoramiento de precios en los procedimientos de licitación pública o invitación restringida, se efectúe respetando las mismas condiciones legales, administrativas, técnicas y económicas ofrecidas en la propuesta original.
 
 Asimismo evitarán que los licitantes incurran en actos de desorden, falta de respeto y acuerdos entre sí sobre los precios mejorados.
 
@@ -2008,11 +2044,15 @@ c) Que los socios, los miembros de la administración, sus apoderados y represen
 
 Los derechos de autor u otros derechos exclusivos que resulten de los citados servicios, invariablemente se otorgarán a favor de la APDF, lo que deberá ser establecido en las bases y contratos respectivos.
 
-Las Dependencias para la realización de gestiones de cobro o defensa de sus intereses, solicitarán la intervención de la Consejería Jurídica y de Servicios Legales, en términos de las disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Las Delegaciones para la realización de gestiones de cobro o defensa de sus intereses, solicitarán la intervención de la Consejería Jurídica y de Servicios Legales, en términos de las disposiciones jurídicas y administrativas aplicables.
 
 5.7.6 Para efecto de los artículos 67 y 68 de la LADF, por razones plenamente justificadas por parte del proveedor, los contratos se podrán modificar para mejorar las características de los bienes o servicios, siempre y cuando estas variaciones no incrementen el precio de los mismos. Dichas variaciones serán previamente aprobadas por las áreas técnicas ó requirentes y las modificaciones a los contratos serán formalizadas por los servidores públicos que suscribieron los contratos originales, o por quienes los sustituyan.
 
-5.7.7 Las Dependencias, Órganos Desconcentrados y Entidades, optarán preferentemente por adjudicar bienes, arrendamientos o servicios mediante la modalidad de contratos abiertos y de abastecimiento simultáneo, para salvaguardar el abasto en tiempo y forma de bienes y servicios a la APDF, exceptuando los casos en que por las características de los bienes o servicios a contratar no resulte conveniente para la APDF, circunstancias que estarán debidamente fundadas y motivadas.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.7.7 Las Delegaciones, optarán preferentemente por adjudicar bienes, arrendamientos o servicios mediante la modalidad de contratos abiertos y de abastecimiento simultáneo, para salvaguardar el abasto en tiempo y forma de bienes y servicios a la APDF, exceptuando los casos en que por las características de los bienes o servicios a contratar no resulte conveniente para la APDF, circunstancias que estarán debidamente fundadas y motivadas.
 
 5.8 DE LAS COTIZACIONES
 
@@ -2058,7 +2098,9 @@ Para el caso de compras consolidadas o centralizadas, el dictamen deberá firmar
 
 5.10 DE LAS PRÓRROGAS
 
-5.10.1 Las Dependencias, Órganos Desconcentrados y Entidades podrán otorgar prórroga al tiempo de entrega de los bienes o de la prestación de los servicios, de acuerdo con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.10.1 Las Delegaciones podrán otorgar prórroga al tiempo de entrega de los bienes o de la prestación de los servicios, de acuerdo con lo siguiente:
 
 a) Por una sola vez en cada caso;
 
@@ -2070,51 +2112,31 @@ c) Que el proveedor presente justificación amplia, detallada e informe las caus
 
 5.11.1 Son bienes restringidos los señalados en el DPEDF, así como los correspondientes a las partidas presupuestales señaladas en el clasificador contenido en el procedimiento para la autorización de bienes restringidos vigente.
 
-5.11.2 Las DGAD serán las facultadas para firmar la solicitud de autorización dirigida a la DGRMSG para la adquisición de bienes restringidos para lo cual y de conformidad con el procedimiento vigente, a dicho documento acompañará los siguientes documentos:
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-a) Original del oficio de solicitud de autorización, en el cual indicará el monto estimado incluyendo IVA, la partida presupuestal a afectar, el origen de los recursos (fiscales, federales, de crédito, aprovechamiento o indemnización por siniestro y de aplicación automática) y la breve descripción del bien restringido (sin las características técnicas);
+5.11.2 Para la adquisición o arrendamiento de bienes o la prestación de servicios restringidos, se requerirá la autorización del Jefe Delegacional.
 
-b) Original del formato documento para la autorización de bienes restringidos (DABR) con la descripción del bien, donde incluya las características o especificaciones técnicas, con una justificación precisa y congruente que sustente la adquisición del bien.
+5.11.3 (DEROGADO, G.O. 27 DE JUNIO DE 2007)
 
-El formato deberá estar debidamente requisitado, por lo tanto se incluirá el importe total con IVA desglosado; en la descripción de los bienes no se indicará marcas y modelos específicos y cuando se trate de bienes de sustitución, dentro de la justificación se manifestará de este hecho, así como los supuestos que lo originan. La descripción de los bienes será acorde en el formato DABR y la requisición, y no deberán tener tachaduras y/o enmendaduras;
+5.11.4 (DEROGADO, G.O. 27 DE JUNIO DE 2007)
 
-c) Copia del oficio de autorización que emita la SF, en la que acredite que cuenta con los recursos disponibles en la partida presupuestal correspondiente.
+5.11.5 (DEROGADO, G.O. 27 DE JUNIO DE 2007)
 
-En su caso, copia de afectación presupuestaria líquida o compensada debidamente autorizada por la SF;
-
-d) Copia de la requisición de compra debidamente requisitada, con sellos de suficiencia presupuestal de su área financiera y de no existencia en el almacén correspondiente.
-
-Los sellos que se contengan en la requisición deberán ser legibles, necesariamente señalarán nombre, firma y cargo del servidor público responsable.
-
-En el caso de las unidades ejecutoras de gasto que no cuenten con los sellos en comento, deberán anexar un oficio firmado por el responsable de almacén y del área financiera, en el cual certifiquen que no tienen en existencia los bienes a adquirir o que la existencia es mínima y que cuentan con la suficiencia presupuestal;
-
-e) Cuando la petición se motive para sustitución de algún bien, por baja o destino final será indispensable anexar copia de la autorización emitida por el CBM, en su defecto, la solicitud de baja;
-
-f) En su caso copia de la afectación presupuestaria líquida o compensada debidamente autorizada para su registro por la SF.
-
-La falta de alguno de los requisitos documentales será causa para que no se otorgue la autorización para adquirir los bienes restringidos.
-
-Para el caso de las entidades, se requiere además, la autorización previa de su órgano de gobierno.
-
-5.11.3 Las DGAD en sus solicitudes de autorización (oficios de solicitud, formato DABR y requisición) no deberán indicar marcas o modelos, con respecto a los bienes restringidos requeridos.
-
-5.11.4 Las DGAD cuando requieran la autorización para la adquisición de bienes restringidos, deberán enviar sus solicitudes previas a la adquisición de los mismos.
-
-En ningún caso podrán adquirir los bienes requeridos sin contar con la autorización por escrito de la DGRMSG.
-
-5.11.5 Las DGAD cuando requieran la autorización de compra de vehículos deberán apegarse en todo momento a lo señalado en el numeral 7.8 de la presente normatividad, la LAGDF y demás ordenamientos aplicables.
-
-5.11.6 Toda Dependencia, Órgano Desconcentrado o Entidad de nueva creación no considerada en el procedimiento y su clasificador, hará su solicitud a través de la DGAD de la Dependencia a que se encuentre sectorizado. La Dependencia, Órgano Desconcentrado o Entidad de nueva creación deberá apegarse al presente procedimiento por lo que tendrá restringidas todas las partidas hasta que la DGRMSG haga un análisis de su caso y determine lo procedente.
+5.11.6 (DEROGADO, G.O. 27 DE JUNIO DE 2007)
 
 5.12 ANTICIPOS
 
-5.12.1 En el procedimiento de adquisición por invitación restringida a cuando menos tres proveedores o adjudicación directa, se podrán otorgar anticipos de conformidad con el artículo 41 de la LADF, previa autorización del DGAD y del comité de autorizaciones o subcomité de adquisiciones respectivo.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.12.1 En el procedimiento de adquisición por invitación restringida a cuando menos tres proveedores o adjudicación directa, se podrán otorgar anticipos de conformidad con el artículo 41 de la LADF, previa autorización del DGAD y del comité de autorizaciones del Comité Delegacional.
 
 5.13 GARANTÍAS
 
 5.13.1 Las DGAD serán las responsables de que se garanticen legal, técnica, económica y administrativamente las operaciones de adquisiciones, por lo que a la firma del contrato invariablemente los servidores públicos recepcionarán el documento que para estos efectos señala la ley.
 
-Dentro de las medidas que adopte la Dependencia, Órgano Desconcentrado y Entidad para asegurar el cumplimiento de las ofertas en los procedimientos de adjudicación directa, podrá incluir como requisito, la presentación de una garantía de formalidad de la cotización.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Dentro de las medidas que adopte la Delegación para asegurar el cumplimiento de las ofertas en los procedimientos de adjudicación directa, podrá incluir como requisito, la presentación de una garantía de formalidad de la cotización.
 
 5.13.2 Para determinar el porcentaje de las garantías de la formalidad de la propuesta y el cumplimiento del contrato, se tomará en cuenta lo siguiente:
 
@@ -2132,7 +2154,9 @@ En cualquier caso, las garantías se determinarán sin considerar el IVA.
 
 Las DGAD mantendrán en su poder las fianzas de garantía de cumplimiento de los contratos, las cuales serán devueltas previa solicitud por escrito por parte del proveedor una vez cumplidas las obligaciones contractuales.
 
-5.13.5 Para hacer efectiva una fianza de cumplimiento del contrato, es requisito indispensable que la dependencia envíe a la Tesorería del Distrito Federal lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.13.5 Para hacer efectiva una fianza de cumplimiento del contrato, es requisito indispensable que la Delegación envíe a la Tesorería del Distrito Federal lo siguiente:
 
 a) Original de la póliza de fianza;
 
@@ -2142,7 +2166,9 @@ c) Recibos en los que se hagan constar las cantidades entregadas al proveedor;
 
 d) Constancia de haber requerido la presencia del proveedor, mediante notificación personal o por correo certificado con acuse de recibo, para el levantamiento del acta administrativa correspondiente;
 
-e) Copia del acta administrativa levantada con la intervención de la Contraloría Interna de la Dependencia y, en su caso, del proveedor, donde se asiente detalladamente el incumplimiento de éste;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+e) Copia del acta administrativa levantada con la intervención de la Contraloría Interna de la Delegación y, en su caso, del proveedor, donde se asiente detalladamente el incumplimiento de éste;
 
 f) Resolución administrativa por la que se haya rescindido el contrato, emitida por la DGAD;
 
@@ -2194,7 +2220,9 @@ En ninguno de los casos se rebasará el monto total de la garantía de cumplimie
 
 5.16 INFORMES
 
-5.16.1 Las DGAD serán las únicas áreas facultadas para el envío de la información a la DGRMSG. Dicha información deberá presentarse de manera consolidada por dependencia, incluyendo a sus órganos desconcentrados adscritos, en forma impresa y a través de medio magnético, de acuerdo a los siguientes periodos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.16.1 Las DGAD serán las únicas áreas facultadas para el envío de la información a la DGRMSG. Dicha información deberá presentarse de manera consolidada por Delegación, incluyendo a sus Delegaciones adscritos (sic), en forma impresa y a través de medio magnético, de acuerdo a los siguientes periodos:
 
 Anualmente:
 
@@ -2208,7 +2236,9 @@ b) Informe del seguimiento de las adquisiciones arrendamientos y prestación de 
 
 Los informes relativos a los proveedores incumplidos, así como de las inconformidades presentadas por los mismos, deberán remitirse a la CGDF, en los términos y condiciones que ésta determine.
 
-5.16.2 Los titulares de las Dependencias serán responsables de la debida formulación y entrega oportuna de los informes, los cuales deberán remitirse dentro de los diez días hábiles siguientes al periodo que se reporte, o bien anteriores a la fecha de la recalendarización.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+5.16.2 Los DGAD serán responsables de la debida formulación y entrega oportuna de los informes, los cuales deberán remitirse dentro de los diez días hábiles siguientes al periodo que se reporte, o bien anteriores a la fecha de la recalendarización.
 
 6. ALMACENES E INVENTARIOS
 
@@ -2376,11 +2406,21 @@ b) “Relación de Bienes Muebles, en caso de bienes instrumentales, remitirse e
 
 c) El dictamen de inexistencia de valores primarios y secundarios para los documentos que se encuentren para baja y con la opinión del IAIPDF;
 
-d) La opinión de aprobación de baja del CI, cuando se trate de equipo informático; y
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-e) La opinión técnica de aprobación de baja del Subcomité de Intercomunicaciones en el caso de equipo de telecomunicación.
+d) El dictamen técnico de baja del CI, cuando se trate de equipo informático; y
 
-6.3.3.6. El dictamen técnico de inaplicación o inutilidad referido en el párrafo anterior, contendrá al menos lo siguiente:
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+e) El dictamen técnico de aprobación de baja del Subcomité de Intercomunicaciones en el caso de equipo de telecomunicación.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+En el caso de las delegaciones que cuenten con Subcomité de Bienes Muebles Delegacional, podrán sesionar y llevar la baja y destino final de acuerdo a sus necesidades apegándose a las NGBM.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+6.3.3.6. Los dictámenes técnicos o inutilidad referidos en los incisos d) y e) del numeral anterior, contendrá al menos lo siguiente:
 
 a) Identificación de los bienes a través del número de inventario y características particulares;
 
@@ -2392,7 +2432,9 @@ d) Fecha de elaboración;
 
 e) Nombre, cargo y firma de quién lo elabora;
 
-f) Nombre, cargo y firman (sic) de quién lo autoriza; e
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+f) Nombre, cargo y firma de quién lo autoriza; e
 
 g) Información adicional que apoye el dictamen técnico.
 
@@ -2430,11 +2472,15 @@ Cuando el valor de avalúo o el precio mínimo de venta de los bienes muebles se
 
 6.3.4.2. La permuta es la operación por medio de la cual la Administración Pública del Distrito Federal puede transmitir la propiedad de un bien mueble, mediante la firma de un contrato, en el que las partes se obligan a dar un bien por otro, o un bien mueble y dinero, siempre que el numerario sea inferior al valor del bien mueble.
 
-Las operaciones de permuta se podrán realizar una vez que se dictamine la inutilidad o inaplicación del bien mueble, se cuente con el avalúo o el precio de venta, y se cuente con la autorización del CBM.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Las operaciones de permuta se podrán realizar una vez que se dictamine la inutilidad o inaplicación del bien mueble, se cuente con el avalúo o el precio de venta, y se cuente con la autorización del CBM o del Subcomité de Bienes Muebles Delegacional correspondiente.. (sic)
 
 6.3.4.3. La dación en pago es la operación por medio de la cual la Administración Pública del Distrito Federal puede realizar, mediante la suscripción del contrato respectivo, la transmisión del dominio de los bienes muebles que han dejado de ser útiles o funcionales para el servicio, a las personas físicas y/o morales, con las que tenga obligaciones de pago pendientes.
 
-Para ejecutar esta operación se deberá contar invariablemente con el dictamen de inutilidad o inaplicación, la autorización del CBM, así como las constancias que acrediten la existencia de la obligación de pago (contratos, convenios, actas de entrega recepción, etc.) y las causas que generan la imposibilidad de pago.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Para ejecutar esta operación se deberá contar invariablemente con el dictamen de inutilidad o inaplicación, la autorización del CBM o del Subcomité de Bienes Muebles Delegacional, así como las constancias que acrediten la existencia de la obligación de pago (contratos, convenios, actas de entrega recepción, etc.) y las causas que generan la imposibilidad de pago.
 
 6.3.4.4. Las operaciones de donación de bienes muebles de la Administración Pública deberán efectuarse en términos de lo dispuesto en las NGBM.
 
@@ -2460,17 +2506,39 @@ E de baja y de redistribución) AL CORTE
 
 S
 
+(REFORMADO, G.O.
+
+27 DE JUNIO DE
+
+2007)
+
 DAI-2 DICTAMEN GENERAL ANUAL DENTRO DE LOS
 
 DE ALMACENES PRIMEROS 10 DÍAS
 
 HÁBILES DEL MES
 
-DE FEBRERO
+DE FEBRERO Y EN
 
-DAI REPORTE DE SEMESTRAL DENTRO DE LOS
+LOS ÚLTIMOS DÍAS
 
-INVENTARIO FÍSICO Y/O ANUAL PRIMEROS 10 DÍAS
+HÁBILES DE
+
+NOVIEMBRE, EL
+
+RESULTADO DE LAS
+
+ACTIVIDADES
+
+PROGRAMADAS.
+
+(REFORMADO, G.O.
+
+27 DE JUNIO DE 2007)
+
+DAI REPORTE DE ANUAL DENTRO DE LOS
+
+INVENTARIO FÍSICO PRIMEROS 10 DÍAS
 
 HÁBILES
 
@@ -2540,9 +2608,13 @@ CORRESPONDIENTE
 
 6.4.2 El DAI -1, Movimiento de Existencias en Almacén, deberá integrar por lo menos la siguiente información: clave de almacén central, local o subalmacén, partida presupuestal, clave CABMSDF, concepto, saldos inicial, entradas, salidas, saldo final, niveles de existencia mínimos y máximos, bienes de lento y nulo movimiento, los movimientos de traspaso, transferencia, enajenación, permuta, dación en pago o donación, y en su caso, los datos relacionados con los bienes que se encuentran en proceso de baja, señalando el oficio y la fecha de solicitud de destino final.
 
-6.4.3 La DGADD verificará que los responsables de los almacenes e inventarios realicen el inventario físico de las existencias en almacén, en el primer y segundo semestre del ejercicio correspondiente, debiendo enviar con cinco días hábiles de anticipación a la DAI y al Órgano de Control el Programa de Actividades y calendario de preinventario e inventario físico, para que en el ámbito de su competencia realicen la supervisión y, en su caso, las observaciones correspondientes.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-6.4.4 La DGADD reportará los resultados del inventario físico del primero y segundo semestre a la DAI, el citado reporte estará soportado con los documentos originales generados durante el evento, en los formatos establecidos en el Manual Específico para la Administración de los Bienes Muebles y el Manejo de los Almacenes. Asimismo, la Cédula Inventarial será requisitada en medio electrónico vía correo electrónico, CD o disco de 3 ½”.
+6.4.3 La DGAD verificará que los responsables de los almacenes e inventarios realicen el inventario físico de las existencias en almacén, dentro de los primeros diez días hábiles del mes de enero, debiendo enviar con cinco días hábiles de anticipación a la DAI y al Órgano de Control el Programa de Actividades y calendario de preinventario e inventario físico, para que en el ámbito de su competencia realicen la supervisión y, en su caso, las observaciones correspondientes.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+6.4.4 La DGAD reportará los resultados del inventario físico anual a la DAI, el citado reporte estará soportado con los documentos originales generados durante el evento, en los formatos establecidos en el Manual Específico para la Administración de los Bienes Muebles y el Manejo de los Almacenes. Asimismo, la Cédula Inventarial será requisitada en medio electrónico vía correo electrónico, CD o disco de 3 ½”.
 
 6.4.5 El informe de registros de alta, baja y destino final de bienes instrumentales, que se realicen en el padrón inventarial, contendrá por lo menos los datos que se señalan en el cuadro siguiente, mismo que se entregará únicamente en medio electrónico (disco de 3 ½”., CD o internet):
 
@@ -2604,13 +2676,19 @@ VALOR AVALUO Numérico 12 dec 2 Derecha
 
 VALOR VENTA Numérico 12 dec 2 Derecha
 
-Los datos relacionados con este informe, se presentarán en formato impreso únicamente de forma consolidada, con los siguientes datos: Unidad Administrativa, área que elabora el informe, clave de la Unidad Ejecutora de Gasto, trimestre que reporta, clave CABMSDF por grupo y por subgrupo, descripción del grupo y subgrupo, total de bienes por grupo y por subgrupo y número total de movimientos y tipo de movimiento, firma del DGAD como constancia de autorización del informe, firma de quien elabora y de quien revisa el informe.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
 
-A este informe se deberá acompañar, en forma impresa o digitalizada, el soporte documental de los movimientos de alta, baja y destino final de bienes muebles.
+Los datos relacionados con este informe, deberán acompañarse con un formato impreso que contendrá los siguientes datos: Unidad Administrativa, área que elabora el informe, clave de la Unidad Ejecutora de Gasto, trimestre que reporta, clave CABMSDF por grupo y por subgrupo, descripción del grupo y subgrupo, total de bienes por grupo y por subgrupo y número total de movimientos y tipo de movimiento, firma del DGAD como constancia de autorización del informe, firma de quien elabora y de quien revisa el informe.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2007)</small>
+
+Adicionalmente se deberá enviar en forma impresa o digitalizada, el soporte documental de los movimientos de alta, baja y destino final de bienes muebles.
 
 6.4.6 El calendario de actividades con cierre al 31 de diciembre del programa de levantamiento físico de bienes instrumentales y el resultado final del programa de levantamiento físico de Bienes Instrumentales, deberá enviarse a la DAI en los formatos que al efecto se establezcan.
 
-6.4.7 El programa anual de enajenación de bienes muebles, deberá contener una proyección de disposición final de bienes muebles, misma que deberá elaborarse considerando los antecedentes del levantamiento físico de inventario de bienes instrumentales, así como el estimado de desechos generados por los bienes de consumo suministrados por los almacenes (ejemplo: tóner, llantas, baterías, acumuladores, desecho ferroso, cable, plomo con pabilo, casquillos, chalecos antibalas, etc.), o bien por los consumibles o instrumentales que se dictaminan como inaplicables o no útiles para el servicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2007)</small>
+
+6.4.7 Las DGAD elaborarán el programa anual de enajenación de bienes muebles, mismo que deberá contener una proyección de disposición final de bienes muebles, misma que deberá elaborarse considerando los antecedentes del levantamiento físico de inventario de bienes instrumentales, así como el estimado de desechos generados por los bienes de consumo suministrados por los almacenes (ejemplo: tóner, llantas, baterías, acumuladores, desecho ferroso, cable, plomo con pabilo, casquillos, chalecos antibalas, etc.), o bien por los consumibles o instrumentales que se dictaminan como inaplicables o no útiles para el servicio.
 
 El informe de referencia deberá contener, por lo menos, los siguientes datos: Unidad Administrativa, clave de la Unidad Ejecutora de Gasto, fecha de elaboración, período que cubre, tipo de bienes, unidad de medida, en su caso, cantidad aproximada, período estimado para solicitud de disposición final y/o baja, propuesta de enajenación (venta, permuta, dación en pago o donación), valor de inventario, valor de mínimo de venta, observaciones, nombre y firma del DGADD y del responsable de la elaboración y seguimiento del programa.
 
