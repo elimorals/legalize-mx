@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2006-11-29"
+last_updated: "2007-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2105,19 +2105,21 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 Se impondrá prisión de uno a tres años y multa de uno a diez días de salario, a quien explote a menores de edad o lisiados, induciéndolos a la mendicidad.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2007)</small>
+
 ## TITULO DECIMO TERCERO. PELIGROSIDAD SOCIAL
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2007)</small>
 
 ### CAPITULO II. EXPOSICIONES DE INFANTES
 
 ###### ARTICULO 253.
 
-Se aplicará sanción de uno a tres años de prisión y multa de uno a diez días de salario a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan, malos antecedentes.
-
-Se estimarán malos antecedentes para los efectos de este artículo: Ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de mujeres o traficante de drogas prohibidas, taxicómano (sic) o ebrio habitual, tahúr o mendigo simulador o sin licencia.
+(DEROGADO, P.O. 27 DE JUNIO DE 2007)
 
 ###### ARTICULO 254.
 
-A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo a sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión y multa de uno a cinco días de salario y quedarán sujetos, durante el tiempo que el juez estime pertinente, a la vigilancia de la Autoridad.
+(DEROGADO, P.O. 27 DE JUNIO DE 2007)
 
 ## TITULO DECIMO CUARTO. DELITOS SEXUALES
 
@@ -3616,3 +3618,7 @@ La presente reforma entrará en vigor el día siguiente de su publicación en el
 P.O. 29 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- Las presentes reformas y adiciones al Código Penal para el Estado de Nayarit; comenzarán a regir al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE JUNIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
