@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-4764"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-07"
-last_updated: "2005-07-02"
+last_updated: "2007-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 27 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 7 de enero de 1987.
 
@@ -872,3 +874,15 @@ P.O. 2 DE JULIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El H. Consejo Universitario, expedirá el Reglamento a que se refiere este Decreto en un plazo no mayor de 90 días hábiles, contados a partir de que entre en vigor la adición.
+
+P.O. 27 DE JUNIO DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Queda abrogada la Ley Orgánica de la Universidad Autónoma de Chihuahua, publicada en el Periódico Oficial del Estado de fecha 30 de diciembre de 1986, así como todas las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- Los reglamentos, acuerdos y órdenes vigentes, en cuanto no se opongan a la presente Ley, continuarán en vigor.
+
+CUARTO.- El Rector y los Directores de Unidades Académicas que actualmente se encuentren en funciones, quedarán comprendidos en las disposiciones de la presente Ley para los efectos de la ampliación del período de su gestión, en el sentido de que deberán concluir su cargo, sin excepción alguna, en la fecha que corresponda del año 2010.
+
+QUINTO.- El Consejo Universitario, en la próxima sesión inmediata posterior a la entrada en vigor de la presente Ley, expedirá los nombramientos que correspondan a las autoridades universitarias a que se refiere el artículo transitorio anterior, en los términos del mismo.
