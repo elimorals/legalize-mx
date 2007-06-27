@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-fiscalia-general-del-estado-de-chiapas-43500
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-24"
-last_updated: "2007-06-06"
+last_updated: "2007-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA FISCALIA GENERAL DE ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de Noviembre de 2004.
+Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de noviembre de 2004.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado Libre y Soberano de Chiapas, a sus habitantes hace saber: que la Honorable Sexagésima Primera Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
@@ -419,7 +419,13 @@ XIII.- (DEROGADA, P.O. 6 DE JUNIO DE 2007)
 
 XIV.- Administrar y operar un sistema de bienes asegurados, conforme a las disposiciones aplicables;
 
-XV.- Las demás que señalen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2007)</small>
+
+XV.- Brindar seguridad, y en su caso, protección a las víctimas u ofendidos por delitos, tanto en la Averiguación Previa como en el proceso penal, así como, a los testigos y quienes se encuentren relacionados en alguna Averiguación Previa o Procedimiento Penal que haga necesaria su seguridad y protección;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2007)</small>
+
+XVI.- Las demás que señalen otras disposiciones legales.
 
 ###### Artículo 36.
 
@@ -1562,3 +1568,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los recursos presupuestales asignados a la Fiscalía General del Estado, en razón a la función derogada por el presente decreto, serán reasignados y transferidos por las Secretarías de Finanzas y de Administración del Poder Ejecutivo del Estado, en un plazo no mayor a treinta días naturales a la entrada en vigor del presente Decreto, a la Coordinación Especial del Estado Mayor del Gobierno del Estado.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
