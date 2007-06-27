@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2006-02-10"
+last_updated: "2007-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -169,11 +169,13 @@ Igualmente, procede el Juicio Político contra el Gobernador del Estado, Diputad
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO Y SANCIONES EN EL JUICIO POLÍTICO
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2007)</small>
+
 ###### Artículo 13.
 
-Se concede acción popular para formular por escrito denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el Artículo 11º de esta Ley, las cuales deberán presentarse bajo protesta de decir verdad y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público.
+Se concede acción popular para formular por escrito denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el Artículo 11 de esta Ley, las cuales deberán presentarse bajo protesta de decir verdad y fundarse en elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-El ciudadano que presente una denuncia que se sentencie como infundada y/o que se hubiere formulado con falsedad estará sujeto a responsabilidad civil o penal en los términos de las leyes respectivas. Cuando el denunciante fuese servidor público e incurriese en responsabilidad penal, se le impondrá además de la sanción señalada, la inhabilitación por un término igual al de la pena privativa de la libertad que le corresponda. Las denuncias anónimas no producirán efecto alguno.
+El ciudadano que acompañe a la denuncia documentos falsos, o manifieste hechos falsos, será responsable en los términos que establecen las leyes respectivas.
 
 ###### Artículo 14.
 
@@ -1402,3 +1404,7 @@ Artículo Tercero.- El Ejecutivo del Estado y las autoridades municipales en el 
 Artículo Cuarto.- El Ejecutivo del Estado deberá expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto el Reglamento del Consejo Estatal de Salud, en el cual deberán regularse las funciones del Consejo y sus Comisiones, así como la integración de éstas.
 
 Artículo Quinto.- Se concede a las personas físicas y morales que transporten con fines comerciales bebidas alcohólicas dentro del Estado de Nuevo León, un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto, para obtener la Autorización de Transporte de Bebidas Alcohólicas expedida por la Secretaría de Salud, en los términos de las disposiciones de este Decreto.
+
+P.O. 27 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
