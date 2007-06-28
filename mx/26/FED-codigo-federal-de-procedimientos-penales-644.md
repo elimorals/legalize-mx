@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2007-04-10"
+last_updated: "2007-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1663,9 +1663,9 @@ Cuando tratándose de delito de ataques a las vías de comunicación, no fuere p
 
 Para la comprobación del cuerpo del delito y de la probable responsabilidad el indiciado, el Ministerio Público y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
 
-> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
 
-Los requerimientos que formule el Procurador General de la República o el servidor público en quien se delegue esta facultad, o la autoridad judicial en su caso, de información o documentos relativos al sistema financiero, se harán por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas, así como de la Comisión Nacional del Sistema de Ahorro para el Retiro, en sus respectivas competencias. Los requerimientos de información o documentos de naturaleza fiscal, por conducto de la unidad de la Secretaría de Hacienda y Crédito Público que determine el titular de dicha Secretaría.
+Los requerimientos que formule el Procurador General de la República o el servidor público en quien se delegue esta facultad, o la autoridad judicial en su caso, de información o documentos relativos al sistema financiero, se harán por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas, así como de la Comisión Nacional del Sistema de Ahorro para el Retiro y del Servicio de Administración Tributaria, en sus respectivas competencias. Los requerimientos de información o documentos de naturaleza fiscal se harán por conducto de la unidad de la Secretaría de Hacienda y Crédito Público que determine el titular de dicha Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -1991,7 +1991,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 3) Espionaje, previsto en los artículos 127 y 128;
 
-4) Terrorismo, previsto en el artículo 139, párrafo primero;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+
+4) Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;
 
 5) Sabotaje, previsto en el artículo 140, párrafo primero;
 
@@ -4845,7 +4847,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 8 DE ENERO DE 1991.
 
-REPUBLICADO, D.O.F. 9 DE ENERO DE 1991.
+REPUBLICADO, D.O.F. 9 DE ENERO DE 1991
 
 UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de 1991.
 
@@ -5028,3 +5030,9 @@ D.O.F. 27 DE MARZO DE 2007.
 D.O.F. 10 DE ABRIL DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
