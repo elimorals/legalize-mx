@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fondos-de-inversion-antes-ley-de-sociedades-de-21343"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2004-01-28"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-31"
 
 LEY DE SOCIEDADES DE INVERSION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -989,7 +989,9 @@ II. Inscriban u ordenen que se inscriban datos falsos en la contabilidad o que p
 
 Las sociedades operadoras de sociedades de inversión, distribuidoras de acciones de sociedades de inversión y, en su caso, las sociedades de inversión, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre:
 
@@ -1092,3 +1094,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 28 DE ENERO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
