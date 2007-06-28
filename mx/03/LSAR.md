@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2007-06-15"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -1980,7 +1980,9 @@ Lo dispuesto en el presente capítulo, no excluye la imposición de las sancione
 
 ARTICULO 108 bis.- Las administradoras, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre:
 
@@ -2423,3 +2425,9 @@ Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y d
 ###### ARTÍCULO CUARTO.
 
 En términos del presente Decreto, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional del Sistema de Ahorro para el Retiro, establecerá un programa de difusión para la comprensión de los alcances en materia de la simplificación de las comisiones, el énfasis en rendimiento neto, y el fomento de una cultura de ahorro para el retiro.
+
+D.O.F. 28 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
