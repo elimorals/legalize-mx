@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2004-06-29"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1715,6 +1715,10 @@ Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentar�
 
 A quien intimide a otro con causarle daño en su persona o en sus bienes, u ocasionarlo a un tercero con quien el ofendido tenga vínculos afectivos, de parentesco o gratitud, se le impondrá de seis meses a tres años de prisión, sin perjuicio de la sanción aplicable si el agente realiza el mal con que amenaza.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
+
+Solo se procederá contra el sujeto activo del delito de amenazas por querella del ofendido.
+
 ### CAPITULO II. REVELACION O APROVECHAMIENTO DE SECRETO
 
 ###### ARTICULO 148.
@@ -1897,13 +1901,11 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 Al que mediante comunicación a otro, impute a una persona física o moral un hecho que pueda causar o cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá de seis meses a un año de prisión y hasta doscientos días multa.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 164.
 
-No se admitirá al inculpado de difamación prueba alguna para acreditar la verdad de su imputación, excepto en los supuestos siguientes:
-
-I. Cuando aquélla se haya hecho a un servidor público o agente de autoridad o a cualquier otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; o
-
-II. Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y el inculpado obre por motivo de interés público o por interés privado, pero legítimo, sin ánimo de dañar.
+Para la configuración del delito de difamación, se requiere como elemento subjetivo del tipo, el dolo directo por ser presupuesto indispensable, comunicar dolosamente a una o más personas la imputación que se hace a otra de un hecho cierto o falso.
 
 ###### ARTICULO 165.
 
@@ -1911,9 +1913,19 @@ No se comete el delito de difamación, cuando:
 
 I. Se manifiesta técnicamente un parecer sobre alguna producción literaria, artística, científica o industrial;
 
-II. Se expone un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a persona con quien se tenga parentesco o amistad, o dando informaciones que se le hubieren pedido, si no se hiciere a sabiendas calumniosamente, y
+II. Se expone un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, se hizo por humanidad, por prestar un servicio a persona con quien se tenga parentesco o amistad, o dando informaciones que se le hubieren pedido, si no se hiciere a sabiendas calumniosamente, y (sic)
 
-III. Se presente un escrito o se pronuncie un discurso ante los tribunales, que contengan expresiones difamatorias, relacionadas con el asunto que se ventile, salvo que la conducta amerite la imposición de una corrección disciplinaria, en los términos de la ley aplicable.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2007)</small>
+
+III. El hecho imputado esté declarado cierto por sentencia irrevocable y el inculpado obre por motivo de interés público o por interés privado, pero legítimo sin ánimo de dañar;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2007)</small>
+
+IV. Por opiniones vertidas en contra de los servidores públicos con motivo de sus funciones;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2007)</small>
+
+V. Se presente un escrito o se pronuncie un discurso ante los tribunales, que contengan expresiones difamatorias, relacionadas con el asunto que se ventile y que sirvan para acreditar un derecho, salvo que la conducta amerite la imposición de una corrección disciplinaria, en los términos de la ley aplicable.
 
 ###### ARTICULO 166.
 
@@ -1928,6 +1940,10 @@ Al que impute falsamente a otro la realización de un hecho que la ley califique
 ###### ARTICULO 168.
 
 Cuando esté pendiente el proceso por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia o, en su caso, se suspenderá el procedimiento iniciado por esta última hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
+
+No se comete el delito de calumnia por imputaciones vertidas en contra de servidores públicos con motivo de sus funciones.
 
 ### CAPITULO IX. DAÑO
 
@@ -3754,3 +3770,27 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2007.
+
+DECRETO NUMERO 354 POR EL QUE SE REFORMA EL ARTICULO 164, LA FRACCION III, SE ADICIONAN LAS FRACCIONES IV Y V DEL ARTICULO 165 Y EL PARRAFO SEGUNDO AL ARTICULO 168 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado libre y soberano de Morelos.
+
+P.O. 28 DE JUNIO DE 2007.
+
+DECRETO NUMERO 355 POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 147 DEL CODIGO PENAL VIGENTE DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículo 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano del Morelos.
