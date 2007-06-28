@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-06-14"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,25 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO POR EL QUE SE ESTABLECE UN ARANCEL-CUPO A LAS IMPORTACIONES ADICIONALES DE MAIZ AMARILLO DURANTE 2007, PARA LAS MERCANCIAS ORIGINARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2007.
+Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal; 2o., 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior; décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 16, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 36 de la Ley Aduanera; 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, publicada en el Diario Oficial de la Federación el 27 de diciembre de 2006, establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las Partes en los tratados de libre comercio, la Secretaría de Economía, conjuntamente con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
+Que el 18 de junio de 2007 fue publicada en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación con objeto de reflejar los cambios en los patrones mundiales de comercio, homologar nuestro sistema de clasificación arancelaria con el de otros países, evitar discrepancias de interpretación, agilizar los trámites aduaneros y facilitar la correcta identificación y clasificación de las mercancías;
 
-Que la oferta nacional de maíz amarillo resulta insuficiente para el abasto competitivo para los sectores productivos del país, por lo que se hace necesario complementarla con importaciones, a fin de que las industrias que lo utilizan en sus procesos productivos tengan acceso a este insumo en condiciones competitivas;
+Que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación 18 de junio de 2007 abroga con su entrada en vigor la Ley de los Impuestos Generales de Importación y de Exportación publicada el 18 de enero de 2002 y sus modificaciones publicadas en el mismo órgano informativo;
 
-Que durante las consultas con organizaciones de productores e industriales consumidores de maíz, con el Consejo Mexicano para el Desarrollo Rural Sustentable y el Comité Nacional Sistema-Producto Maíz, a que se refiere el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, se resolvió sobre la importancia de promover la competitividad de las cadenas de productos agrícolas, y
+Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
 
-Que la Comisión de Comercio Exterior ha emitido opinión favorable respecto a la adopción de medidas que faciliten la importación de maíz amarillo para incrementar el abasto nacional, he tenido a bien expedir el siguiente
+Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que actúen los diferentes agentes económicos involucrados en el comercio exterior, para lo cual es necesario actualizar y difundir las fracciones arancelarias y su descripción, conforme a la Ley de los Impuestos Generales de Importación y de Exportación, así como definir claramente el estatus de los ordenamientos en los que se establecen diversas disposiciones sobre instrumentos y programas de comercio exterior he tenido a bien expedir el siguiente
 
-DECRETO
+ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
 
 ###### ARTICULO PRIMERO.
 
@@ -286,177 +286,209 @@ De conformidad con el artículo sexto transitorio de la Ley de Ingresos de la Fe
 
 Para efecto de lo señalado en el párrafo anterior, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados dictamine el incumplimiento o no, presentado por el solicitante del cupo de importación. ASERCA/SAGARPA atenderá dicha solicitud, previa consulta al Comité Nacional Sistema Producto Maíz. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará a la Dirección General de Comercio Exterior el resultado de dicha consulta y, en su caso, el monto del incumplimiento.
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-Se modifica el Artículo Primero del Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Pórtland y cemento Clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América, publicado en el Diario Oficial de la Federación el 29 de marzo de 2006 (Acuerdo por el que se da a conocer el cupo máximo publicado en 2006), para quedar como sigue:
+El presente Acuerdo tiene por objeto dar a conocer el estatus sobre la vigencia de los diversos ordenamientos que establecen regulaciones y restricciones no arancelarias, así como de las resoluciones expedidas al amparo de los instrumentos y programas de comercio exterior que otorga la SE.
 
-“ARTICULO PRIMERO.-
+###### Artículo 2.
 
-I. El cupo máximo anual para exportar cemento gris pórtland y cemento clinker a los Estados Unidos de América durante el periodo que comprende del primer día hábil de abril del 2007 al último día hábil de marzo de 2008, es el que se determina a continuación:
+Para efectos del presente Acuerdo se entenderá por:
 
-CUADRO 1
+I. DOF, al Diario Oficial de la Federación;
 
-(VEASE ARCHIVO ANEXO)
+II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen y Cupos;
 
-II. De conformidad con el párrafo III.A.4 del Acuerdo Sobre Comercio de Cemento, la Secretaría de Economía, a solicitud de cualquier Productor de Cemento Mexicano que haya obtenido asignación de cupo, podrá trasladar al siguiente período anual o trasladar al período anual anterior hasta el 8 por ciento del cupo previsto en el cuadro 1 Bis siguiente para cada subregión, excepto en el caso de la subregión II (Arizona) en donde el porcentaje del cupo que podrá trasladarse al período anual siguiente o anterior podrá ser de hasta 5 por ciento.
+III. TIGIE 2002, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de enero de 2002 y sus modificaciones;
 
-CUADRO 1 Bis
+IV. TIGIE 2007, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007;
 
-(VEASE ARCHIVO ANEXO)
+V. Programa IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006, así como las empresas que de conformidad con el artículo Quinto Transitorio del mismo Decreto aún no cuentan con su número;
 
-III. De conformidad con lo previsto en el párrafo II.A.3. del Acuerdo Sobre Comercio de Cemento sólo se asignará el cupo adicional que se describe en el Cuadro 2, en respuesta a una declaración de estado de emergencia como resultado de un desastre en los Estados Unidos de América, siempre que el Departamento de Comercio de dicho país y la Secretaría de Economía así lo determinen. Los criterios de asignación de este cupo adicional se realizarán de conformidad con el artículo cuarto del Acuerdo publicado en el Diario Oficial de la Federación el 29 de marzo de 2006.
+VI. Programa PROSEC, al programa autorizado al amparo del Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus reformas;
 
-CUADRO 2 - Cupo adicional
+VII. SAAI, al Sistema Automatizado Aduanero Integral de la Administración General de Aduanas del Servicio de Administración Tributaria;
 
-(VEASE ARCHIVO ANEXO)
+VIII. SAT, al Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público;
 
-###### ARTICULO 2.
+IX. SE, a la Secretaría de Economía;
 
-Se modifica el Artículo Tercero del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006 para quedar como sigue:
+X. SICEX, al Sistema Integral de Comercio Exterior mediante el cual la Secretaría de Economía administra diversos instrumentos y programas de comercio exterior, y
 
-“ARTICULO TERCERO.- Podrán solicitar asignación del cupo a que se refiere el cuadro 1 del artículo primero del presente Acuerdo, los productores de cemento establecidos en los Estados Unidos Mexicanos.
+XI. Tabla de correlación TIGIE 2002-TIGIE 2007, a la Tabla de correlación que establece la equivalencia de las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, anexa al presente Acuerdo.
 
-I. Para los efectos del presente Acuerdo se considerará:
+###### Artículo 3.
 
-i) Productores de Cemento Mexicano de conformidad con el párrafo I.R del Acuerdo Sobre Comercio de Cemento, a CEMEX México, S.A. de C.V. (“CEMEX”), GCC Cemento, S.A. de C.V. (y la empresa que le precedió, Cementos de Chihuahua S.A. de C.V.), Holcim Apasco, S.A. de C.V., Cooperativa Cruz Azul, S.C.L., Cementos Moctezuma, S.A. de C.V. y Lafarge Cementos, S.A.;
+Los Acuerdos que se listan en el presente artículo continuarán vigentes en los términos que fueron publicados y las fracciones arancelarias contenidas en ellas permanecen sin cambio al amparo de la TIGIE 2007:
 
-ii) Exportadores tradicionales a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que hayan efectuado exportaciones de cemento gris portland o clinker superiores a una tonelada métrica a los Estados Unidos de América por año durante el periodo 2001-2005 (contados desde enero a diciembre).
+I. Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
 
-iii) Exportadores nuevos a las personas morales, Productores de Cemento Mexicano según se definen en el parágrafe i) anterior, que no hayan efectuado exportaciones de cemento gris pórtland y cemento clinker a los Estados Unidos de América o que éstas hayan resultado iguales o inferiores a una tonelada métrica por año durante el periodo 2001-2005 (contados de enero a diciembre).
+II. Acuerdo por el que se da a conocer el mecanismo de asignación de los contingentes arancelarios para importar en 2007, con los aranceles preferenciales establecidos en el marco de los compromisos contraídos por México en la Organización Mundial del Comercio, publicado en el DOF el 1 de enero de 2007.
 
-II. En cada periodo anual del cupo establecido para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas) las asignaciones se realizaran de la siguiente forma: primer subperiodo del 1 de abril al 30 de septiembre de cada año y segundo subperiodo del 1 de octubre del año de que se trate al 31 de marzo del siguiente año. En lo que se refiere a las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos) la asignación se realizará para todo el periodo anual.
+III. Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el DOF el 31 de diciembre de 2003 y sus modificaciones del 5 de agosto de 2004, 1 de diciembre de 2004, 1 de enero de 2007 y 23 de enero de 2007.
 
-III. La asignación la realizará la Dirección General de Comercio Exterior, conforme a los siguientes criterios:
+IV. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
 
-i) Exportadores tradicionales: 94% del cupo como sigue:
+V. Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América y de Canadá, publicado en el DOF el 29 de diciembre de 2004 y su modificación del 15 de febrero del 2007.
 
-Los montos máximos globales disponibles para cada subregión de asignación a los exportadores tradicionales serán los siguientes:
+VI. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, cacahuate originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
 
-CUADRO 3
+VII. Acuerdo por el que se da a conocer el cupo mínimo para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos de América, publicado en el DOF el 27 de enero de 2005.
 
-(VEASE ARCHIVO ANEXO)
+VIII. Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
 
-Los montos máximos disponibles para las siguientes subregiones no asignados bajo el criterio anterior se asignarán a prorrata a los exportadores tradicionales, considerando las exportaciones totales efectuadas por dichas empresas a los Estados Unidos de América:
+IX. Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Pórtland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América publicado en el DOF el 29 de marzo de 2006 y su modificación del 30 de marzo de 2007.
 
-CUADRO 4
+X. Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de octubre de 2006.
 
-(VEASE ARCHIVO ANEXO)
+XI. Acuerdo por el que se da a conocer el cupo para importar azúcares y jarabes de azúcar, originarios de los Estados Unidos de América, publicado en el DOF el 16 de octubre de 2006.
 
-Para efectos de asignación los antecedentes de exportación a los Estados Unidos de América de cemento mexicano clasificado en las fracciones arancelarias 2523.10.01 y 2523.29.99 corresponderán a los últimos cinco años previos al periodo anual de exportación de que se trate, a partir de lo siguiente: i) Para el período 2002-2005 y enero-marzo de 2006 las cifras de exportaciones se determinarán conforme a los antecedentes de exportación por subregión determinados para las asignaciones a exportadores tradicionales correspondientes al primer periodo anual de exportación y, ii) para el periodo abril-diciembre de 2006 las cifras de exportaciones se determinarán con base en la utilización de los permisos de exportación emitidos por aduana de salida y subregión de destino.
+XII. Acuerdo por el que se dan a conocer los cupos para importar leche ultra pasteurizada en envases herméticos y polvo para preparación de bebidas, originarios de la República de Costa Rica, publicado en el DOF el 29 de diciembre de 2004.
 
-ii) Nuevos Exportadores: 6% del cupo como sigue:
+XIII. Acuerdo por el que se da a conocer el cupo para internar a la República de Costa Rica, dentro del arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, aguacates frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
 
-El monto máximo global anual disponible para nuevos exportadores será de 184,909.62 toneladas distribuidas como se indica en el siguiente cuadro.
+XIV. Acuerdo por el que se dan a conocer los cupos para importar carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua publicado en el DOF el 21 de julio de 2005.
 
-CUADRO 5
+XV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos e internar al Estado de Israel, bienes textiles y de la confección que cumplan con lo dispuesto en el artículo 3-03.3 y su anexo del Tratado de Libre Comercio entre ambos países, publicado en el DOF el 29 de diciembre de 2004.
 
-(VEASE ARCHIVO ANEXO)
+XVI. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, ciertos productos textiles y calzado originarios de la Comunidad Europea, publicado en el DOF el 29 de diciembre de 2004.
 
-a) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
+XVII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año: miel natural; espárragos frescos o refrigerados; chícharos congelados (guisantes, arvejas) (pisum sativum); aguacate; los demás melones; las demás fresas congeladas sin adición de azúcar ni otros edulcorantes; atún procesado, excepto lomos; melaza de caña; chicle; espárragos preparados o conservados, excepto en vinagre o ácido acético; mezclas de ciertas frutas preparadas o conservadas, incluso con adición de azúcar u otro edulcorante; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20° brix, originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005.
 
-1. Primera asignación para ser ejercida en el primer subperiodo del 1 de abril al 30 de septiembre de cada año, el 60% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+XVIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año, huevo de ave fértil libre de patógenos (SPF); huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano; rosas, claveles, orquídeas, gladiolas, crisantemos, jugo de naranja concentrado congelado con grado de concentración mayor a 20° brix y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005 y su reforma de fecha 15 de agosto de 2005.
 
-2. Segunda asignación para ser ejercida en el segundo subperiodo del 1 de octubre al 31 de marzo del siguiente año, el 40% del cupo de cada subregión destinado a nuevos exportadores se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+XIX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, lomos de atún originarios de los Estados Unidos Mexicanos publicado en el DOF el 16 de enero de 2007.
 
-b) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América) la asignación para ser ejercida entre el 1 de abril de cada año y el 31 de marzo del año siguiente, el 100 % del cupo de cada una de estas dos subregiones destinado a nuevos exportadores, se asignará a cada solicitante en el monto que sea menor entre su solicitud y el 50% del cupo disponible al momento del dictamen.
+XX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de febrero de 2007.
 
-IV. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), la Secretaría de Economía se asegurará, durante la vigencia del presente Acuerdo, de no otorgar asignaciones, en cada subperiodo, a exportadores tradicionales y a nuevos exportadores, superiores al 60% del cupo total anual que corresponda a determinada subregión. La base para calcular el límite del 60% a que hace referencia este artículo, será el cuadro 1 del artículo primero de este ordenamiento, antes de que se lleve a cabo cualquier ajuste de trasladar al periodo siguiente o anterior un porcentaje determinado del cupo anual conforme a lo previsto en el presente Acuerdo.
+XXI. Acuerdo por el que se da a conocer el cupo para importar, atún en lata, con un peso no mayor a 1 Kg. originario de la República de Guatemala publicado en el DOF el 16 de enero de 2007.
 
-V. Los exportadores tradicionales y los nuevos exportadores únicamente podrán solicitar asignación inicial como sigue:
+XXII. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, varilla de hierro o acero corrugada o barras de hierro o acero para armaduras, para cemento u hormigón, y perfiles de hierro o acero sin alear en “L” originarios de la República de El Salvador, publicado en el DOF el 6 de junio de 2006.
 
-i) Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas):
+XXIII. Acuerdo por el que se dan a conocer los cupos para importar de los Estados de la Asociación Europea de Libre Comercio y para exportar a los Estados de la Asociación Europea de Libre Comercio, ciertos productos textiles, de la confección y del calzado, publicado en el DOF el 29 de diciembre de 2004.
 
-a) Para el primer subperiodo, desde el primer día hábil de abril hasta el último día hábil de mayo
+XXIV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 14 de julio de 2005 y su modificación del 3 de noviembre de 2006.
 
-b) Para el segundo subperiodo, desde el primer día hábil de octubre hasta el último día hábil de noviembre
+XXV. Acuerdo por el que se dan a conocer los cupos para importar miel de abeja, preparación usada en panadería, harina y polvo de carne o despojos y ácido esteárico de vacuno, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 18 de julio de 2005.
 
-ii) Para las subregiones I (Alabama/Mississippi) y VIII (Resto de Estados Unidos de América), desde el primer día hábil de abril hasta el último día hábil de julio.
+XXVI. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de porcino y preparaciones y conservas de carne de porcino originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 12 de agosto de 2005.
 
-VI. Si durante la vigencia del cupo un beneficiario no lo utiliza, podrá devolverlo mediante escrito libre ante la Representación Federal de la Secretaría de Economía que le notificó su asignación.
+XXVII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne de pollo, las demás preparaciones y conservas de ave originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
 
-VII. Para las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), el saldo no ejercido del cupo asignado a cada beneficiario para el primer subperiodo que no haya sido devuelto, podrá ser reasignado al mismo beneficiario en el segundo subperiodo, siempre que el monto a asignar al beneficiario para el segundo subperiodo no sea superior al 60% del cupo total anual que le corresponda para una región determinada.
+XXVIII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino y las demás preparaciones y conservas de bovino originarias de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 16 de febrero de 2007.
 
-VIII. Ampliaciones.
+XXIX. Acuerdo por el que se da a conocer el cupo para internar a Japón, bananas o plátanos frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 27 de abril de 2007.
 
-i) Para el primer subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de junio de cada año, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de junio hasta el día hábil inmediato anterior al 15 de septiembre. En el entendido que el plazo de resolución de la Secretaría será como máximo de 7 días hábiles.
+XXX. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, jugo de naranja, originario de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
 
-ii) Para el segundo subperiodo de las subregiones II (Arizona), III (California), IV (Florida), V (Nuevo México/El Paso), VI (Nueva Orleáns) y VII (Texas), si al 1 de diciembre de cada año, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este subperiodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este subperiodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil del mes de diciembre hasta el último día hábil del mes de diciembre de cada año. Para este subperiodo, se adicionará el saldo no asignado o no utilizado en el primer subperiodo.
+XXXI. Acuerdo por el que se da a conocer el cupo para importar vehículos nuevos, originarios y procedentes del Japón, al amparo del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, durante el periodo que se indica, publicado en el DOF el 1 de abril de 2005 y su reforma del 4 de abril de 2007.
 
-iii) Para el periodo anual de las subregiones I (Alabama/Mississippi) y VIII (Resto de los Estados Unidos de América), si al 1 de agosto de cada año, existe saldo sin asignar de los parágrafes i) y ii) de la fracción III de este artículo, este saldo podrá asignarse entre los exportadores tradicionales y nuevos exportadores que hubiesen obtenido asignación de cupo para este periodo y la ampliación corresponderá a lo que resulte menor entre la ampliación solicitada y el 25% del total asignado a ese beneficiario para la subregión en la que solicita la ampliación, siempre que demuestren haber exportado por lo menos el 70% del monto total del cupo anteriormente asignado en este periodo y subregión para el que solicita ampliación, siempre que exista saldo en el cupo para la subregión solicitada. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de agosto de cada año hasta el último día hábil del mes de diciembre de cada año.
+XXXII. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, miel natural, naranjas, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados y prendas y complementos de vestir, originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
 
-iv) Si al primer día hábil de enero de cada año y después de aplicar lo establecido en los parágrafes i), ii) y iii) anteriores, existe saldo sin asignar, este se asignará a cualquier Productor de Cemento Mexicano a cualquier subregión, bajo la modalidad de primero en tiempo, primero en derecho con base en el día en que se presente la solicitud. Las solicitudes para la ampliación podrán presentarse desde el primer día hábil de enero de cada año hasta el día hábil inmediato anterior al 15 de marzo de cada año en la Representación Federal de la Secretaría que corresponda.
+XXXIII. Acuerdo por el cual se dan a conocer los cupos para exportar e importar, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, ácido cítrico y sales del ácido cítrico publicado en el DOF el 16 de agosto de 2005.
 
-La asignación por subregión se realizará conforme a lo siguiente:
+XXXIV. Acuerdo por el que se dan a conocer los cupos para internar a la República Federativa del Brasil, diversos productos, originarios y provenientes de los Estados Unidos Mexicanos, publicado en el DOF el 23 de junio de 2006.
 
-(1) En caso que la suma de los volúmenes solicitados sea menor o igual al volumen disponible éste se asignará de acuerdo a lo requerido en las solicitudes individuales.
+XXXV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa de Brasil publicado en el DOF el 3 de julio de 2006.
 
-(2) En caso que la suma de los volúmenes solicitados sea mayor al volumen disponible se aplicará la formula siguiente:
+XXXVI. Acuerdo por el que se da a conocer el cupo para importar hasta el 31 de diciembre de 2007, productos automotores nuevos, originarios y provenientes de la República Oriental del Uruguay, conforme al Acuerdo de complementación Económica No. 55 suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el DOF el 21 de noviembre de 2006.
 
-(VEASE ARCHIVO ANEXO)
+XXXVII. Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el DOF el 1 de enero de 2007.
 
-IX. Solicitud de traslado al periodo anual siguiente o anterior.
+XXXVIII. Acuerdo por el cual se da a conocer el cupo para internar a Taiwán, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles (sic), originarios de los Estados Unidos Mexicanos durante 2007, al amparo del acuerdo temporal celebrado entre los Estados Unidos Mexicanos y el territorio aduanero independiente de Taiwán, Penghu, Kimen y Matsu (Taipei Chino) publicado en el DOF el 26 de diciembre de 2006.
 
-i) En el primer subperiodo del segundo y del tercer periodo anual del cupo, cualquier beneficiario que hubiese obtenido cupo para determinada subregión podrá solicitar el traslado del periodo anual anterior en los montos autorizados para esa misma subregión en el párrafo segundo del artículo primero de este ordenamiento, siempre que exista saldo que no haya sido ejercido de dicho periodo anterior en esa subregión.
+XXXIX. Acuerdo por el que se da a conocer el cupo para importar aceite en bruto de girasol, originario y procedente de la República de Argentina, fracción arancelaria 1512.11.01 publicado en el DOF el 21 de septiembre de 2005.
 
-ii) En el segundo subperiodo del primero y segundo periodo anual del cupo, cualquier beneficiario que hubiese obtenido cupo para determinada subregión podrá solicitar el traslado del periodo anual siguiente para esa subregión en los montos autorizados en el párrafo segundo del artículo primero de este ordenamiento, siempre que hayan exportado por lo menos el 90% de su asignación total del periodo anual respectivo y que no exista saldo para asignar en el cupo para cada subregión señalado en el cuadro 1 del artículo primero del presente Acuerdo. El traslado a que hace mención este párrafo se otorgará a cada beneficiario a cuenta de su asignación de cupo que le corresponda, conforme al presente Acuerdo, para el periodo respectivo.
+XL. Acuerdo por el que se da a conocer el cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, conforme a la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicado en el DOF el 28 de noviembre de 2006.
 
-iii) Al llevar a cabo el traslado al periodo anual siguiente o anterior se respetarán los porcentajes para tradicionales y nuevos exportadores según el inciso III de este Artículo.
+XLI. Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios, publicado en el DOF el 5 de octubre de 2006.
 
-X. Para efectos de demostrar el grado de utilización del cupo asignado conforme a lo requerido en los incisos VIII y IX, las solicitantes adjuntarán a su solicitud una relación de pedimentos de exportación que acrediten las exportaciones realizadas.
+La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
 
-XI. Para la interpretación del Acuerdo Sobre Comercio de Cemento la Dirección General de Comercio Exterior podrá solicitar opinión de la Dirección General de Consultoría Jurídica de Negociaciones y para la aplicación de los criterios y fórmulas señaladas en el presente Acuerdo podrá solicitar opinión de la Dirección General de Industrias Básicas.”
+###### Artículo 4.
 
-###### ARTICULO 3.
+Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, señalados en el presente artículo, se entenderán referidos a los aranceles cupo que se establezcan conforme a la TIGIE 2007:
 
-Se modifica el Artículo Séptimo del Acuerdo por el que se da a conocer el cupo máximo publicado en 2006, para quedar como sigue:
+I. Acuerdo por el que se dan a conocer los cupos unilaterales para importar en 2006 y 2007, cebada en grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01; las demás cebadas y malta tostada y sin tostar, fracciones arancelarias, 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, publicado en el DOF el 9 de marzo de 2006.
 
-“ARTICULO SEPTIMO.-
+II. Acuerdo por el que se da a conocer el cupo para importar, con el arancel-cupo establecido, cera de carnauba publicado en el DOF el 4 de abril de 2005.
 
-I. Una vez que se expida el oficio de asignación de cupo por beneficiario, subregión y periodo o subperiodo, la Secretaría a través de la Representación Federal más cercana a la planta productora de la empresa solicitante expedirá, dentro del término señalado en el artículo 20 del Reglamento de la Ley de Comercio Exterior, los respectivos permisos de exportación previa solicitud del interesado en el formato SE-03-057 “Solicitud de permiso de importación o exportación y de modificaciones”. Para ello, el promovente deberá además señalar en el campo 22 de la solicitud (Justificación de la importación o exportación y el beneficio que se obtiene) el número del oficio de la asignación del cupo vigente correspondiente, la subregión de destino final en los Estados Unidos de América, las aduanas mexicanas de salida y las correspondientes al ingreso a los Estados Unidos de América.
+III. Acuerdo por el que se da a conocer el cupo unilateral para importar con el arancel-cupo establecido, avena, excepto para siembra publicado en el DOF el 7 de abril de 2005 y su modificación del 24 de julio de 2006.
 
-II. Para efectos de la expedición de permisos previos de exportación se tomará en cuenta las siguientes aduanas de salida de México y de ingreso a los Estados Unidos de América por determinada subregión:
+IV. Acuerdo por el que se dan a conocer los cupos para importar, con el arancel-cupo establecido, pato, ganso o pintada sin trocear, queso tipo egmont y extractos de café publicado en el DOF el 4 de abril de 2005.
 
-CUADRO 6
+V. Acuerdo que determina las Reglas para la aplicación del Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles publicado en el DOF el 30 de junio de 2004 y su adición publicada el 4 de julio de 2006.
 
-(VEASE ARCHIVO ANEXO)
+VI. Acuerdo que establece la cantidad mensual máxima que podrán importar las empresas comerciales de autos usados, publicado en el DOF el 4 de abril de 2003.
 
-III. Las solicitudes de permiso se presentarán por un volumen equivalente a sus requerimientos de un mes por fracción arancelaria, por oficio de asignación de cupo del periodo o subperiodo según corresponda y por subregión. Las solicitudes para los permisos subsecuentes deberán presentarse una vez que el solicitante haya ejercido la totalidad del volumen autorizado en los permisos anteriores, excepto del permiso inmediato anterior, que puede haberse ejercido por cuando menos en un 70%. Si en un mismo subperiodo o periodo hubiera varios oficios de asignación de cupo, la administración y expedición de permisos será independiente en cada oficio de asignación de cupo, por beneficiario, por fracción arancelaria, por subregión y por periodo o subperiodo. La Secretaría de Economía expedirá permisos de exportación hasta agotar la asignación.
+VII. Acuerdo por el que se da a conocer el cupo para importar piernas, muslos o piernas unidas al muslo, de pollo, originarias de los Estados Unidos de América publicado en el DOF el 29 de diciembre de 2004.
 
-IV. La vigencia de los permisos de exportación será de 90 días naturales improrrogables, excepto por circunstancias extraordinarias que se determinen conforme a lo establecido en el párrafo IV.B.2 del Acuerdo sobre Comercio de Cemento.
+La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
 
-V. Para efectos de operación y administración de los permisos, se entenderá que la fecha de exportación es la fecha de expedición del permiso por parte de la Secretaría de Economía.”
+###### Artículo 5.
 
-###### ARTICULO 4.
+Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, así como de los acuerdos y tratados de los que México es parte, señalados en el presente artículo, serán publicados de nueva cuenta por la SE:
 
-La asignación de los cupos a que se refiere el presente Acuerdo será a través de la Dirección General de Comercio Exterior de la Secretaría de Economía, de conformidad con la distribución que las Direcciones Generales de Industrias Básicas y de Política Comercial de la Secretaría de Economía le hayan notificado previamente.
+I. Acuerdo por el que se da a conocer el cupo para importar en 2007 con el arancel-cupo establecido, preparaciones a base de productos lácteos con un contenido de sólidos lácteos superior al 50% en peso, excepto las comprendidas en la fracción 1901.90.04 publicado en el DOF el 28 de febrero de 2007.
 
-###### ARTICULO 5.
+II. Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación publicado en el DOF el 18 de agosto de 2005 y sus modificaciones del 31 de enero de 2006 y 30 de octubre del 2006.
 
-Con objeto de utilizar en forma óptima los cupos de exportación, la Dirección General de Comercio Exterior de la Secretaría de Economía incrementará el cupo que se le haya distribuido a un ingenio en operación, mencionado en la notificación señalada en el artículo 4 de este Acuerdo, siempre y cuando la Cámara Nacional de las Industrias Azucarera y Alcoholera le presente un escrito donde comunique la celebración de un convenio entre ingenios en operación, a través del cual un ingenio exporta por cuenta y orden de otro ingenio que no puede exportar el cupo que le corresponde.
+III. Acuerdo por el que se da a conocer el cupo para importar brandy a los Estados Unidos Mexicanos, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 29 de septiembre de 2006.
 
-La Dirección General de Comercio Exterior de la Secretaría de Economía, asignará, en su caso, el monto respectivo, de conformidad con el convenio a que se refiere el párrafo anterior, previa solicitud del interesado.
+IV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el DOF el 9 de marzo de 2006.
 
-###### ARTICULO 6.
+V. Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el DOF el 29 de diciembre de 2004.
 
-La solicitud de asignación de los cupos a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Dirección General de Comercio Exterior, ubicada en avenida Insurgentes Sur 1940, planta baja, colonia Florida, en México, D.F., dentro de los siguientes plazos:
+VI. Acuerdo por el que se dan a conocer los cupos para importar con la preferencia arancelaria establecida en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y el Estado de Israel, flores frescas y café kosher originarios del Estado de Israel, publicado en el DOF el 29 de diciembre de 2004.
 
-I.- Para efectos del artículo 1 fracción I del presente Acuerdo, a partir de la entrada en vigor y hasta el 31 de agosto de 2007, y
+VII. Acuerdo por el cual se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino, carne y preparaciones de pollo, miel natural, bananas o plátanos frescos, naranjas, pasta o puré de tomate, jugo de naranja, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados, cueros y pieles curtidos en “crust”, calzado, cueros y pieles depilados y productos laminados planos de hierro o acero, originarios de Japón publicado en el DOF el 1 de abril de 2005 y su modificación del 5 de marzo del 2007.
 
-II.- Para efectos del artículo 1 fracción II del presente Acuerdo, a partir del 15 de septiembre y hasta el 30 de noviembre de 2007.
+VIII. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de la República de Cuba, de la República de Panamá y de la República del Perú, que sustituye al similar publicado el 29 de diciembre de 2005, publicado en el DOF el 16 de enero de 2006.
 
-La vigencia máxima de las asignaciones será la siguiente:
+IX. Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República Argentina, de conformidad al Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 6., publicado en el DOF el 14 de febrero de 2007 y su modificación del 25 de abril de 2007.
 
-I.- Para efectos del artículo 1 fracción I del presente Acuerdo, al 30 de septiembre de 2007, y
+X. Acuerdo por el que se da a conocer el cupo para importar atún procesado, excepto lomos, originario de los países de la Comunidad Europea, en el periodo de julio de 2006 al 30 de junio de 2007 publicado en el DOF el 2 de agosto de 2006.
 
-II.- Para efectos del artículo 1 fracción II del presente Acuerdo, al 31 de diciembre de 2007.
+XI. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio del 2007; huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 14 de julio de 2006.
 
-La Dirección General de Comercio Exterior emitirá oficio de asignación en un plazo máximo de 7 días hábiles, contado a partir del día siguiente a la presentación de la solicitud.
+XII. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007, jugo de naranja concentrado congelado con grado de concentración mayor a 20o brix, originario de los Estados Unidos Mexicanos, publicado en el DOF el 27 de julio de 2006.
 
-###### ARTICULO 7.
+XIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de 2006 al 30 de junio de 2007; miel natural; espárragos frescos o refrigerados; los demás melones; atún procesado, excepto lomos; chicle; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20o brix, originarios de los Estados Unidos Mexicanos, publicado en el DOF el 28 de julio de 2006.
 
-Una vez asignados los montos para exportar dentro de los cupos señalados en el artículo 1 de este Acuerdo, la Secretaría, a través de la Dirección General de Comercio Exterior, expedirá los certificados de cupo, previa presentación del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, al cual deberá anexarse un escrito indicando el medio de transporte que se utilizará para exportar la mercancía. En caso de que sea por barco, deberá señalarse el nombre de la nave, el puerto de salida y el de entrada a los Estados Unidos de América, cantidad por certificado, nombre y domicilio del consignatario, fecha estimada de salida del país y de entrada a los Estados Unidos de América.
+XIV. Acuerdo por el que se da a conocer el cupo para importar leche en polvo, originaria de la República de Nicaragua, publicado en el DOF el 2 de agosto de 2006.
 
-La Dirección General de Comercio Exterior emitirá los certificados de cupo en un plazo máximo de 7 días hábiles, contado a partir del día siguiente a la presentación de la solicitud.
+###### Artículo 6.
+
+Los criterios y disposiciones aplicables a los instrumentos y programas de comercio exterior, son los señalados a continuación:
+
+I. La Dirección General de Comercio Exterior de la SE actualizará en el SICEX las fracciones arancelarias que correspondan a las mercancías autorizadas hasta el 29 de junio de 2007, en cada instrumento y programa de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+
+II. Los titulares de resoluciones de instrumentos y programas de comercio exterior, a partir del 1 de julio de 2007, podrán realizar operaciones de comercio exterior, respecto de las mercancías autorizadas en sus instrumentos y programas de comercio exterior, utilizando las fracciones arancelarias que les correspondan con base en la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+
+Las resoluciones a que se refiere el párrafo anterior continuarán vigentes hasta la fecha que se indique en el documento correspondiente y, en su caso, por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos y ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE.
+
+III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
+
+###### Artículo 7.
+
+Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
+
+I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
+
+II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
+
+III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
+
+IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
+
+V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
+
+VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
+
+VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
+
+VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
+
+IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
 
 ###### ARTICULO 8.
 
@@ -492,8 +524,82 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.
+SEGUNDO.- Las solicitudes de los instrumentos y programas de comercio exterior que ingresen a la Secretaría de Economía a partir de la entrada en vigor del presente Acuerdo, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007, excepto por lo establecido en el párrafo siguiente.
+
+Las solicitudes correspondientes a los trámites inscritos en el Registro Federal de Trámites y Servicios que se listan a continuación que ingresen a la SE a partir de las fechas que se indican, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007:
+
+I. A partir del 28 de junio de 2007:
+
+a) SE-03-037 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del número de exportador autorizado para la Unión Europea (UE) o la Asociación Europea de Libre Comercio (AELC)"
+
+b) SE-03-038 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
+
+c) SE-03-039 "Autorización para utilizar el "Registro de Productos" para la obtención del Certificado de Circulación de Mercancías EUR. 1 o del Carácter de Exportador Autorizado de la Unión Europea"
+
+d) SE-03-051 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI (Asociación Latinoamericana de Integración)"
+
+e) SE-03-052 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen SGP (Sistema Generalizado de Preferencias)"
+
+f) SE-03-068 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Tratado de Libre Comercio México/Uruguay"
+
+g) SE-03-070 "Registro de Bienes Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre México y el Japón"
+
+II. A partir del 29 de junio de 2007:
+
+a) SE-03-040 "Validación del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
+
+b) SE-03-044 "Validación del Certificado de Origen Asociación Latinoamericana de Integración (ALADI) para Argentina, Brasil, Cuba, Ecuador, Paraguay, Perú y Uruguay"
+
+c) SE-03-045 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP)"
+
+d) SE-03-046 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP) de la Unión Europea"
+
+e) SE-03-047 "Validación del Certificado de Origen bajo el Sistema Generalizado de Preferencias (SGP) para Japón"
+
+f) SE-03-048 "Validación del Certificado de Origen de Artículos Mexicanos"
+
+g) SE-03-049 "Validación del Certificado de Origen del Tratado de Libre Comercio México-Colombia-Venezuela (G3)"
+
+h) SE-03-050 "Validación del Certificado de Origen del Sistema Global de Preferencias Comerciales (SGPC)"
+
+i) SE-03-069 "Validación del Certificado de Origen del Tratado de Libre Comercio México-República Oriental del Uruguay"
+
+j) SE-03-071 "Validación del Certificado de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón"
+
+TERCERO.- Los ordenamientos que se citan a continuación seguirán vigentes en los términos que fueron publicados hasta en tanto no se publiquen nuevas versiones en el Diario Oficial de la Federación que sustituyan a los mismos. Durante dicho periodo se entenderán aplicables a dichos ordenamientos a partir del 1 de julio de 2007, las fracciones arancelarias que les correspondan conforme a la Tabla de Correlación TIGIE 2002-TIGIE 2007 anexa al presente Acuerdo.
+
+I. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus reformas del 20 de diciembre de 2005, 29 de marzo, 2 de octubre y 26 de diciembre de 2006 y 29 de marzo de 2007;
+
+II. Acuerdo que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002 y sus reformas del 8 de noviembre de 2002, 11 de julio de 2003, 5 de enero y 15 de abril de 2004, 3 de febrero, 17 de mayo y 26 de octubre de 2005 y 2 de febrero y 3 de mayo de 2006;
+
+III. Aviso por el que se dan a conocer las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en las cuales se clasifican las mercancías cuya importación está sujeta al pago de cuotas compensatorias y medidas de salvaguarda, publicado en el Diario Oficial de la Federación el 3 de enero de 2006;
+
+IV. Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior, publicado en el Diario Oficial de la Federación el 21 de julio de 2006 y sus reformas del 4 de enero, 8 de marzo y 1 de junio de 2007, y
+
+V. Los Acuerdos a que se refieren los artículos 5, fracciones I, II, IV, V, VI, VII, VIII IX y 7 del presente ordenamiento.
+
+Tablas de correlación TIGIE 2002-TIGIE 2007
+
+Para los efectos de establecer la correspondencia entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, se dan a conocer, para los fines del presente Acuerdo, las tablas de correlación TIGIE 2002-TIGIE 2007 y TIGIE 2007-TIGIE 2002. Para cualquier otro fin, la información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
+
+(VEASE ARCHIVO ANEXO)
+
+Y/O
+
+> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 9 A 61.</small>
+
+Tablas de correlación TIGIE 2007-TIGIE 2002
+
+La información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
+
+(VEASE ARCHIVO ANEXO)
+
+Y/O
+
+> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 62 A 112.</small>
+
+México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
