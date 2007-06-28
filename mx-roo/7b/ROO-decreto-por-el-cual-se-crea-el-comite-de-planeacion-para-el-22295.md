@@ -4,7 +4,7 @@ identifier: "ROO-decreto-por-el-cual-se-crea-el-comite-de-planeacion-para-el-222
 country: "mx"
 rank: "decreto"
 publication_date: "1981-03-31"
-last_updated: "1981-03-31"
+last_updated: "2007-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # DECRETO POR EL CUAL SE CREA EL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO -COPLADEQR-
 
-DECRETO POR EL CUAL SE CREA EL "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO" (COPLADEQR)
+DECRETO POR EL CUAL SE CREA EL "COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO" (COPLADEQR)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE CREACIÓN DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2007 (ABROGADO).
 
 Decreto publicado en el Periódico Oficial del Estado de Quintana Roo, el 31 de marzo de 1981.
 
@@ -114,3 +116,21 @@ Tal comité expedirá su reglamente interior dentro de los treinta días siguien
 Salón de sesiones del Poder Legislativo del Estado de Quintana Roo, a los diez días del mes de marzo de mil novecientos ochenta y uno.- Diputado Presidente, William Fernández P.- Diputada Secretaria, Faride Cheluja Pérez.
 
 DADO en la residencia del Poder Ejecutivo del Estado, en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los once días del mes de marzo del año de mil novecientos ochenta y uno. El Gobernador Constitucional del Estado, LIC. JESUS MARTINEZ ROSS.- El Secretario de Gobierno, ING. MARIO E. VILLANUEVA M.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO. En términos del artículo cuarto transitorio de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, queda abrogado el Decreto número ciento cincuenta y cinco, por el cual se crea el "Comité de Planeación para el Desarrollo del Estado de Quintana Roo" (COPLADEQR), publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el treinta y uno de marzo mil novecientos ochenta y uno.
+
+TERCERO. Se abrogan o derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. La primera sesión de instalación de la Junta Directiva y de la Comisión Permanente deberá celebrarse dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta Directiva deberá expedir el Reglamentó Interior, los manuales de organización y procedimientos del Comité de Planeación para el Desarrollo del Estado de Quintana Roo, dentro de los noventa días hábiles siguientes a su instalación.
+
+SEXTO. Dentro del término de cuarenta días hábiles posteriores a la entrada en vigor del presente Decreto, se realizará la inscripción del COPLADE, en el Registro Público de Entidades Paraestatales del Estado de Quintana Roo, de conformidad con lo señalado en la Ley de Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
+
+SÉPTIMO. Se faculta al Titular de la Secretaria de Hacienda del Estado para que, en términos de lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el ejercicio fiscal dos mil siete, realice los ajustes presupuestales que correspondan para dar cumplimiento al presente Decreto, con la finalidad de que el COPLADE cuente con los recursos indispensables para su funcionamiento, informando, de ser procedente, a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
