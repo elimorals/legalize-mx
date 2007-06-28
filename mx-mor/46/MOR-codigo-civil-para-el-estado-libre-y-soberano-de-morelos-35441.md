@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2006-12-06"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -6931,11 +6931,49 @@ IV.- Los interesados en el caso de muerte de la víctima, recibirán la pensión
 
 V.- Si el daño originare una incapacidad temporal, bien sea total o parcial, la indemnización será regulada atendiendo a las reglas especificadas en las fracciones I, II y III de este precepto, debiendo determinarse por peritos el tiempo de la incapacidad y el grado de la misma, a efecto de que el Juez establezca la duración de la pensión y el monto de ella, según que la incapacidad fuera total o parcial.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 1348.
 
-DAÑO MORAL. La indemnización por daño moral a que tengan derecho la víctima o sus beneficiarios será determinada por el Juez en forma discrecional y prudente, tomando en cuenta los valores espirituales lesionados y que pueden consistir en el afecto, honor, prestigio, estimación de las cosas o integridad de las personas. En este último caso, cuando el daño origine una lesión en la víctima, que no la imposibilite total o parcialmente para el trabajo, el Juez fijará el importe del daño moral, tomando en cuenta si la parte lesionada es o no visible, así como el sexo, edad y condiciones de la persona.
+DAÑO MORAL.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás.- Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de la persona.
 
-La indemnización por daño moral es independiente de la patrimonial y se decretará aun cuando ésta no exista.
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
+
+ARTICULO 1348 BIS.- Cuando una acción u omisión que configuren un hecho ilícito produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual, como extra contractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1366, así como el Estado y sus funcionarios conforme al artículo 1360, ambas disposiciones del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando éste haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el Juez prudentemente, tomando en cuenta las siguientes situaciones:
+
+a). Los derechos lesionados,
+
+b). El grado de responsabilidad,
+
+c). La situación económica del responsable, y la de la víctima, y
+
+d). Las demás circunstancias propias de cada caso.
+
+Cuando el daño moral haya afectado a la victima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+No estará obligado a la reparación de daño moral quién ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución de los Estados Unidos Mexicanos. En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la licitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+En ningún caso se considerarán ofensas al honor y al prestigio las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2007)</small>
+
+ARTICULO 1348 TER.- Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su honor imputa un delito a persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+La reproducción fiel de información no da lugar al daño moral, aún en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
 
 ###### ARTICULO 1349.
 
@@ -14080,3 +14118,13 @@ OCTAVO.- Los epígrafes que preceden a los artículos de este Código no tienen 
 P.O. 6 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 28 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
