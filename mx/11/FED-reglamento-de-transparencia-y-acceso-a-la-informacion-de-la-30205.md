@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-de-la-302
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-29"
-last_updated: "2003-04-29"
+last_updated: "2007-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-08"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de abril de 2003.
 
@@ -71,7 +71,9 @@ Ley.- Ley Federal de Transparencia y Acceso a la Información Pública Gubername
 
 Organo Interno de Control.- Organo Interno de Control de la Comisión.
 
-Unidad de Enlace.- La Dirección General de Quejas y Orientación de la Comisión.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2007)</small>
+
+Unidad de Enlace.- La Secretaría Técnica de la Presidencia de la Comisión.
 
 Titular de la Primera Visitaduría.- La instancia a que se refiere el artículo 61 fracción VII de la Ley.
 
@@ -93,7 +95,9 @@ La Unidad de Enlace tendrá las facultades que establece la ley, con las modalid
 
 El Comité tendrá las funciones a que se refiere el artículo 29 de la ley, con las modalidades que dicte el presente Reglamento, y se integrará por:
 
-I. El Titular de la Dirección General de la Presidencia de la Comisión;
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+
+I. El titular de la Dirección General de Planeación y Análisis;
 
 II. El Titular de la Unidad de Enlace, y
 
@@ -278,3 +282,13 @@ TERCERO.- Las Areas Responsables que posean sistemas de datos personales, deber�
 CUARTO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
 
 Ciudad de México, Distrito Federal, a los ocho días del mes de abril de dos mil tres.- El Presidente de la Comisión Nacional de los Derechos Humanos y de su Consejo Consultivo, José Luis Soberanes Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE JUNIO DE 2007.
+
+PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día 1 de agosto de 2007.
+
+TERCERO. La parte conducente al Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
