@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-06-11"
+last_updated: "2007-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -218,7 +218,9 @@ VI. A la Secretaría de Desarrollo Social:
 
 1.- Subsecretaría de Participación Ciudadana;
 
-2.- (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JUNIO DE 2007)</small>
+
+2.- El Instituto para la Atención de los Adultos Mayores en el Distrito Federal;
 
 > <small>(REFORMADO, G.O. 16 DE ABRIL DE 2007)</small>
 
@@ -476,7 +478,13 @@ XV. A la Consejería Jurídica y de Servicios Legales:
 
 XVI. A la Secretaría de Protección Civil:
 
-1.- Dirección General de Prevención; y
+> <small>(ADICIONADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2007)</small>
+
+a) Subsecretaría de Coordinación de Planes y Programas Preventivos;
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+1.- Dirección General de Prevención.
 
 2.- Dirección General de Emergencias Mayores.
 
@@ -492,17 +500,19 @@ XVII. A la Secretaría de Trabajo y Fomento al Empleo:
 
 4.- Procuraduría de la Defensa del Trabajo.
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
 
 XVIII. A la Secretaría de Educación:
 
-1.- Dirección de Educación Básica; y (sic)
+a) Subsecretaría de Educación Media Superior y Superior.
 
-2.- Dirección de Planeación;
+1. Dirección General de Educación Media Superior y Superior.
 
-> <small>(ADICIONADO, G.O. 16 DE ABRIL DE 2007)</small>
+b) Dirección de Educación Básica
 
-3.- Dirección General de Atención Integral al Estudiante.
+c) Dirección de Planeación
+
+d) Dirección General de Atención Integral al Estudiante.
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -1227,6 +1237,76 @@ VIII. Promover propuestas de coordinación con la federación, estados, municipi
 IX. Participar en la formulación, vigilancia y cumplimiento de los acuerdos de colaboración admnistrativa (sic) en materia fiscal federal y local, en términos de las leyes y reglamentos aplicables; y
 
 X. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+###### Artículo 34 Ter.
+
+Corresponde a la Subsecretaría de Coordinación de Planes y Programas Preventivos:
+
+I. Suplir en sus ausencias al titular de la Secretaría de Protección Civil, como Secretario Ejecutivo del Consejo de Protección Civil del Distrito Federal;
+
+II. Acordar con el titular de la Secretaría de Protección Civil, el despacho de los asuntos de su competencia y aquellos que guarden relación con la prevención y atención de emergencias;
+
+III. Supervisar las acciones para la elaboración de los proyectos de programas de orientación y capacitación en materia de protección civil;
+
+IV. Mantener estrecha vinculación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y entidades de la administración pública, en la ejecución de los programas de protección civil;
+
+V. Supervisar el Atlas de Riesgos del Distrito Federal, en materia de protección civil;
+
+VI. Coordinar y hacer el seguimiento de los programas y acciones en materia de protección civil de las dependencias, delegaciones, órganos desconcentrados y entidades de la administración pública, en razón de sus características geográficas o de vulnerabilidad a riegos y emergencias;
+
+VII. Supervisar la actualización del registro de las organizaciones civiles, empresas capacitadoras, así como a las empresas de consultaría y estudio de riesgo y vulnerabilidad, que por sus características se vinculen a la materia de protección civil;
+
+VIII. Proponer al Secretario de Protección Civil, los proyectos de iniciativas de Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamiento jurídicos y administrativos, así como sus reformas y adiciones, en materia de protección civil; y
+
+IX. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos y administrativos correspondientes.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+###### Artículo 34 Quáter.
+
+Corresponde a la Subsecretaría de Educación Media Superior y Superior:
+
+I. Auxiliar al Secretario en el ejercicio de sus atribuciones dentro del ámbito de competencia de la Subsecretaría;
+
+II. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o le correspondan por suplencia;
+
+III. Establecer la coordinación necesaria con las demás unidades administrativas de la Administración Pública local para el mejor despacho de los asuntos competencia de la Secretaría;
+
+IV. Formular los anteproyectos de programas y de presupuesto que le correspondan, así como verificar su correcta y oportuna ejecución por parte de las unidades administrativas que se le adscriban;
+
+V. Proponer al titular de la Secretaría, las normas pedagógicas, los planes y programas de estudio para la educación media superior y superior que impartan las instituciones educativas pertenecientes al Sistema Educativo del Distrito Federal;
+
+VI. Establecer mecanismos de colaboración y coordinación con las instituciones que impartan educación media superior y superior en el Distrito Federal, a efecto de acordar políticas y acciones para la planeación y evaluación de estos niveles educativos;
+
+VII. Impulsar políticas para la actualización, formación y superación del personal académico de las instituciones de educación media superior y superior pertenecientes al Sistema Educativo del Distrito Federal;
+
+VIII. Proponer mecanismos tendientes a impulsar y fortalecer la educación pública en el Distrito Federal;
+
+IX. Proponer la celebración de convenios específicos de colaboración con instituciones públicas y/o privadas para ampliar la oferta y mejorar la calidad educativa en los niveles medio superior y superior en el Distrito Federal;
+
+X. Establecer las bases para el otorgamiento de apoyos económicos a estudiantes matriculados en instituciones que impartan educación a nivel medio superior y superior en el Distrito Federal;
+
+XI. Promover procesos de autoevaluación y evaluación externa de los programas educativos y de la gestión institucional en los planteles de educación media superior y superior pertenecientes al Sistema Educativo del Distrito Federal;
+
+XII. Establecer indicadores para evaluar el desempeño de las instituciones educativas del tipo medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal;
+
+XIII. Impulsar en las instituciones educativas del tipo medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal, la atención a las recomendaciones formuladas por organismos evaluadores externos en relación con sus programas educativos, así como con su gestión y administración institucional con el propósito de que alcancen y mantengan sus reconocimientos de calidad;
+
+XIV. Fomentar que las instituciones educativas del tipo medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal cuenten con sistemas integrales de información que permitan la toma de las mejores decisiones y que den sustento a los procesos de planeación y evaluación;
+
+XV. Impulsar las reformas curriculares de los estudios de educación media superior y superior impartidos en instituciones del Sistema Educativo del Distrito Federal, que resulten necesarias para responder a los requerimientos de la sociedad del conocimiento y del desarrollo sustentable;
+
+XVI. Promover la creación de redes de intercambio y cooperación académica entre las instituciones de educación media superior y superior y las que imparten niveles equivalentes, a fin de articular sus respectivos currículos, dentro de un esquema de calidad;
+
+XVII. Proponer programas y políticas para elevar la calidad en los servicios que se prestan en las instituciones educativas de nivel medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal;
+
+XVIII. Dictaminar la factibilidad de establecer nuevos centros educativos dependientes de la Secretaría, que impartan estudios de niveles medio superior y superior en el Distrito Federal;
+
+XIX. Establecer lineamientos para desarrollar mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación en los niveles referidos;
+
+XX. Las demás que le atribuyan expresamente otras las leyes y reglamentos.
 
 ###### Artículo 35.
 
@@ -3058,9 +3138,45 @@ VII. Promover y realizar las obras de infraestructura requeridas para el desarro
 
 DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 61.
 
-(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+El Instituto para la Atención de los Adultos Mayores en el Distrito Federal tiene por objeto tutelar el ejercicio de los derechos de las personas adultas mayores, operando su pensión alimentaria y promoviendo ante las dependencias y entidades competentes las acciones y programas que aseguren el mejoramiento y fortalecimiento de sus condiciones sociales y de salud y la elevación de su calidad de vida. Para tal efecto cuenta con las siguientes atribuciones:
+
+I. Recibir y dar tramite a las solicitudes de Pensión Alimentaria para Adultos Mayores;
+
+II. Promover instrumentos de colaboración con las instancias de la Administración Pública del Distrito Federal, que propicien la atención integral de las personas adultas mayores;
+
+III. Proponer al titular de la Secretaría y operar los programas y acciones para generar una cultura de la vejez y el envejecimiento;
+
+IV. Promover la difusión, reconocimiento y ejercicio de los derechos de las personas adultas mayores;
+
+V. Actualizar permanentemente el padrón de beneficiarios, requisitos y procedimientos para el ejercicio del derecho a la pensión;
+
+VI. Proponer ante las instancias competentes, acciones y programas de promoción de la salud;
+
+VII. Operar el programa de visitas médicas domiciliarias para las personas adultas mayores beneficiarios de una pensión alimentaria;
+
+VIII. Realizar estudios y diagnósticos sobre la situación social y familiar de las personas adultas mayores;
+
+IX. Propiciar espacios de interlocución entre ciudadanía y gobierno para solucionar necesidades y demandas sociales en materia de envejecimiento;
+
+X. Promover entre los sectores social y privado los programas de gobierno a favor de las personas adultas mayores;
+
+XI. Promover ante las instancias competentes la capacitación y sensibilización de los servidores públicos y el personal que atiende a las personas adultas mayores, en materia de promoción y educación para la salud, geronto-geriatría y aspectos de participación social y comunitaria;
+
+XII. Promover la formación y fortalecimiento de redes sociales de apoyo para las personas adultas mayores, involucrando de manera coordinada a la familia, la comunidad y a las instituciones de gobierno;
+
+XIII. Promover el mejoramiento de las condiciones de vida de las personas adultas mayores;
+
+XIV. Fomentar, promover y fortalecer grupos de ayuda mutua para personas adultas mayores;
+
+XV. Proponer la creación y funcionamiento de Centros de Día para la atención de las personas adultas mayores;
+
+XVI. Implementar programas de acompañantes voluntarios y cuidadores primarios, que incluyan la asesoría y capacitación; y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 62.
 
@@ -6898,13 +7014,17 @@ Corresponde a la Dirección General de Prevención:
 
 I. Coordinar, dentro de su ámbito de competencia, los programas de Protección Civil en el Distrito Federal;
 
-II. Ser vocal ejecutivo del Consejo de Protección Civil del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+II. Apoyar al Secretario de Protección Civil y al Subsecretario de Coordinación de Planes y Programas Preventivos en sus participaciones como Vocal del Consejo de Protección Civil del Distrito Federal;
 
 III. Proponer el establecimiento y modificación de normas en materia de Protección Civil;
 
-IV. Elaborar, operar, evaluar y actualizar el atlas de riesgo, en materia de Protección Civil;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
 
-V. Representar al Distrito Federal, cuando así se lo autoricen sus superiores jerárquicos, y sin perjuicio de la representación preferente que a ellas corresponda, ante toda clase de autoridades e instituciones nacionales e internacionales, en materia de Protección Civil;
+IV. Elaborar, operar y actualizar el Atlas de Riesgo, en materia de Protección Civil;
+
+V. (DEROGADA, G.O. 29 DE JUNIO DE 2007)
 
 VI. Autorizar, supervisar y vigilar la aplicación de los Programas Especiales de Protección Civil; y
 
@@ -6912,7 +7032,9 @@ VII. Registrar, evaluar, coordinar y vigilar a las organizaciones civiles, empre
 
 VIII. Coadyuvar en la elaboración de la Política General de Protección Civil, así como en la formulación de principios generales;
 
-IX. Coordinar dentro de su ámbito de competencia, los programas de Protección Civil del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+IX. Participar dentro de su ámbito de competencia, en las acciones de coordinación de los programas de Protección Civil del Distrito Federal;
 
 X. Coordinar los Programas y acciones de las dependencias, unidades administrativas, órganos desconcentrados, órganos político-administrativos y entidades de la Administración Pública del Distrito Federal integrantes del Sistema de Protección Civil del Distrito Federal;
 
@@ -6926,7 +7048,9 @@ XIV. Establecer los canales de comunicación que permitan proporcionar informaci
 
 XV. Planear junto con las áreas responsables el establecimiento de criterios para la realización de simulacros, ejercicios y operativos como parte del Programa General de Protección Civil;
 
-XVI. Establecer los lineamientos generales para prevenir y enfrentar fenómenos y situaciones de alto riesgo, siniestros o desastres;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+XVI. Participar en el diseño y difusión de los lineamientos generales para prevenir y enfrentar fenómenos y situaciones de alto riesgo, siniestros o desastres;
 
 XVII. Dirigir estudios para determinar los riesgos potenciales a los que se encuentran expuestos los habitantes de la Ciudad de México;
 
@@ -7121,6 +7245,36 @@ XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de 
 #### SECCION XVII
 
 DE LA SECRETARIA DE EDUCACION.
+
+> <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+Artículo 119 Septimus A.- Corresponde a la Dirección General de Educación Media Superior y Superior:
+
+I. Elaborar los proyectos para establecer mecanismos de coordinación con las instituciones que impartan educación media y superior en el Distrito Federal, a efecto de acordar políticas y acciones para la planeación y evaluación de estos tipos educativos;
+
+II. Elaborar para su aprobación por parte de la Subsecretaría de Educación Media Superior y Superior, los lineamientos para la actualización, formación y superación del personal académico de las instituciones de educación media y superior pertenecientes al Sistema Educativo del Distrito Federal;
+
+III. Elaborar, para su aprobación por parte de la Subsecretaría de Educación Media Superior y Superior, los lineamientos a que deberán sujetarse los procesos de autoevaluación y evaluación externa de los programas educativos y de la gestión institucional en los planteles;
+
+IV. Sistematizar, integrar y difundir la información necesaria para la evaluación global de instituciones educativas del tipo medio superior y superior del Distrito Federal que permitan identificar las características y problemas de la educación en estos niveles;
+
+V. Proponer e impulsar políticas para el desarrollo de las instituciones y programas de educación media superior y superior destinados a la formación de los profesionales de la educación;
+
+VI. Proponer a la Subsecretaría de Educación Media Superior y Superior, las reformas curriculares de los estudios de educación media superior y superior que resulten necesarias para responder a los requerimientos de la sociedad y el desarrollo sustentable;
+
+VII. Establecer vínculos para la creación de redes de intercambio y cooperación académica entre las instituciones de educación media superior y superior y las que imparten niveles equivalentes, a fin de articular sus respectivos currículos, dentro de un esquema de calidad;
+
+VIII. Proponer la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos correspondientes a la educación media superior y superior;
+
+IX. Formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación en los niveles referidos, difundir las aprobadas y verificar su cumplimiento;
+
+X. Proponer lineamientos para desarrollar mecanismos de financiamiento para impulsar los planes de desarrollo para las escuelas y la modernización de la educación en los niveles referidos;
+
+XI. Emitir opinión técnica sobre la factibilidad de establecer nuevos centros educativos dependientes de la Secretaría, que impartan estudios de niveles medio superior y superior en el Distrito Federal;
+
+XII. Sugerir los indicadores para evaluar el desempeño de las instituciones educativas del tipo medio superior y superior pertenecientes al Sistema Educativo del Distrito Federal; y
+
+XIII. Las demás que le atribuyan expresamente otras las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -11155,3 +11309,27 @@ Segundo.- El presente decreto entrará en vigor al día siguiente de su publicac
 Tercero.- Los asuntos, competencia de la Dirección General de Obras para el Transporte, que antes de la entrada en vigor del presente decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto la de nueva creación no inicie formalmente sus actividades.
 
 Cuarto.- A la Dirección General de Obras para el Transporte se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 29 DE JUNIO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN EL NUMERAL 2 DE LA FRACCION VI DEL ARTICULO 7°, Y EL ARTICULO 61 AL REGLAMENTO.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al día hábil siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Al Instituto para la Atención de los Adultos Mayores en el Distrito Federal, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+Cuarto.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente.
+
+G.O. 29 DE JUNIO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS AL REGLAMENTO.
+
+Primero.- Publíquese en presente instrumento en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Este decreto entrará en vigor al día siguiente hábil al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Los asuntos, competencia de la nuevas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-operativo, que antes de la entrada en vigor del presente decreto correspondían a otras unidades administrativas distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien formalmente sus actividades.
+
+Cuarto.- A la Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-operativo de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
