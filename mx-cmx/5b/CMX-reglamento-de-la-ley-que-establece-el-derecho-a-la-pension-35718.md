@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-que-establece-el-derecho-a-la-pension-3571
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-31"
-last_updated: "2005-06-10"
+last_updated: "2007-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35718&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-29"
 
 REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS RESIDENTES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31 de diciembre de 2003.
 
@@ -58,9 +58,13 @@ V. Pensionado o beneficiario.- Todo adulto mayor que recibe por parte del Gobier
 
 VI. Carta Compromiso.- Documento que establece los compromisos entre el Adulto Mayor y la Institución.
 
-VII. La Secretaría.- La Secretaría de Salud del Distrito Federal.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
 
-VIII. La Institución.- Los Servicios de Salud Pública del Distrito Federal.
+VII. La Secretaría.- La Secretaría de Desarrollo Social del Distrito Federal.
+
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+VIII. El Instituto.- El Instituto para la Atención de los Adultos Mayores en el Distrito Federal.
 
 ###### Artículo 3º.
 
@@ -74,19 +78,17 @@ La Pensión no está condicionada a la carencia de recursos económicos de los b
 
 El monto de la Pensión, será el equivalente a la cantidad correspondiente al 50% del salario mínimo general vigente en el Distrito Federal.
 
-###### Articulo 6º.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
-La Secretaría, autorizará y expedirá las tarjetas electrónicas, que serán el medio por el cual los beneficiarios recibirán la Pensión.
+###### Artículo 6º.
 
-> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+El Instituto, autorizará y expedirá las tarjetas electrónicas, que serán el medio por el cual los beneficiarios recibirán la Pensión.
 
-###### Artículo 7°.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
-La Secretaría depositará mensualmente en la tarjeta electrónica la cantidad correspondiente a la Pensión del Adulto Mayor, la que podrá ser utilizada en los principales centros comerciales autorizados.
+###### Artículo 7º.
 
-###### Articulo 7º.
-
-La Secretaría depositará mensualmente en la tarjeta electrónica la cantidad correspondiente a la Pensión del Adulto Mayor, la que podrá ser utilizada en los principales centros comerciales autorizados en el Distrito Federal.
+El Instituto depositará mensualmente en la tarjeta electrónica la cantidad correspondiente a la Pensión del Adulto Mayor, la que podrá ser utilizada en los principales centros comerciales autorizados en el Distrito Federal.
 
 ###### Artículo 8°.
 
@@ -110,9 +112,11 @@ III. Acreditar mediante identificación o documentación idónea, la edad mencio
 
 IV. Aceptar por escrito los compromisos que nacen con motivo de su incorporación al padrón de beneficiarios de la Pensión alimentaria.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 10.
 
-El Adulto Mayor que cumpla con los requisitos establecidos, podrá solicitar la Pensión de manera directa en los centros de salud de la Institución o en el módulo de atención que establezca la Institución.
+El Adulto Mayor que cumpla con los requisitos establecidos, podrá solicitar la Pensión de manera directa en los módulos de atención que establezca el Instituto, para lo cual, contará con el apoyo de espacios en los centros de salud del sistema de salud del Distrito Federal.
 
 ###### Artículo 11.
 
@@ -128,9 +132,11 @@ b) En el caso de las mujeres adultas mayores, los apellidos deben corresponder a
 
 c) Domicilio completo de residencia (calle, número exterior, número interior, colonia, código postal, delegación).
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 13.
 
-Presentada la solicitud de Pensión, la Institución realizará visita domiciliaria al Adulto Mayor para la verificación de los requisitos.
+Presentada la solicitud de Pensión, el Instituto realizará visita domiciliaria al Adulto Mayor para la verificación de los requisitos.
 
 ###### Artículo 14.
 
@@ -148,17 +154,23 @@ La notificación se dejará con un familiar o vecino del Adulto Mayor, quien man
 
 El Adulto Mayor sólo podrá ser beneficiario de la Pensión, cuando al momento de la visita domiciliaria se verifique su presencia física y el cumplimiento de los requisitos establecidos en el presente Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 16.
 
-Una vez que la Institución haya corroborado el cumplimiento de los requisitos establecidos en este Reglamento, incluirá los datos del Adulto Mayor en lista de espera de solicitudes, para ser incorporado al padrón de beneficiarios como Pensionado en un tiempo no mayor de seis meses, contados a partir de la solicitud.
+Una vez que el Instituto haya corroborado el cumplimiento de los requisitos establecidos en este Reglamento, incluirá los datos del Adulto Mayor en lista de espera de solicitudes, para ser incorporado al padrón de beneficiarios como Pensionado en un tiempo no mayor de seis meses, contados a partir de la presentación de la solicitud.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 17.
 
-Una vez que el Adulto Mayor sea incorporado al padrón de beneficiarios de la pensión alimentaria, el personal asignado por la Institución, entregará en el domicilio referido por el Adulto Mayor, la tarjeta plástica y la Carta Compromiso, la que se firmara en original y por duplicado.
+Una vez que el Adulto Mayor sea incorporado al padrón de beneficiarios de la pensión alimentaria, el personal asignado por el Instituto, entregará en el domicilio referido por el Adulto Mayor, la tarjeta plástica y la Carta Compromiso, la que se firmara en original y por duplicado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 18.
 
-El personal asignado por la Institución, antes de entregar la tarjeta plástica directamente al Adulto Mayor, hará lectura de la Carta-Compromiso, de ser posible la lectura del documento debe realizarse con la presencia de algún familiar.
+El personal asignado por el Instituto, antes de entregar la tarjeta plástica directamente al Adulto Mayor, hará lectura de la Carta-Compromiso, de ser posible la lectura del documento debe realizarse con la presencia de algún familiar.
 
 En los casos en que el Adulto Mayor presente alguna discapacidad de tipo mental o cualquier otra que le impida la comprensión de los contenidos de la Carta-Compromiso, será requisito indispensable la presencia de un familiar, representante legal o figura tutelar.
 
@@ -170,9 +182,13 @@ El adulto mayor o su representante, deberá firmar la tarjeta plástica en el mo
 
 Para evitar el uso indebido de terceros, en caso de robo o extravío de la tarjeta plástica, el evento debe ser reportado inmediatamente al teléfono de servicio que aparece en la parte trasera de la tarjeta plástica.
 
-La tarjeta de reposición, será entregada al pensionado, en el domicilio registrado por la Institución, en un plazo no mayor de veinte días hábiles a partir del reporte de pérdida y/o robo formal.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+La tarjeta de reposición, será entregada al pensionado, en el domicilio registrado por el Instituto, en un plazo no mayor de veinte días hábiles a partir del reporte de pérdida y/o robo formal.
 
 ### CAPÍTULO III. DE LAS VISITAS DE VERIFICACIÓN, SEGUIMIENTO Y EVALUACIÓN
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 21.
 
@@ -190,31 +206,49 @@ c) Trabajador del asilo.
 
 d) Representante Voluntario.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 23.
 
-Si el Adulto Mayor padece discapacidad mental, pero se ha corroborado que cumple con los requisitos establecidos, la Institución solicitará a los familiares que alguno de ellos funja como representante, haciendo hincapié que el beneficio es para el Adulto Mayor y que se realizarán visitas de seguimiento para su verificación.
+Si el Adulto Mayor padece discapacidad mental, pero se ha corroborado que cumple con los requisitos establecidos, el Instituto solicitará a los familiares que alguno de ellos funja como representante, haciendo hincapié que el beneficio es para el Adulto Mayor y que se realizarán visitas de seguimiento para su verificación.
 
-> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 24.
 
-En caso de que el Adulto Mayor se encuentre en un asilo, esté incapacitado mentalmente y no cuente con un familiar que lo represente, la Institución solicitará a la autoridad responsable del asilo designe un representante para el Adulto Mayor, de entre las opciones que en este precepto se mencionan:
+En caso de que el Adulto Mayor se encuentre en un asilo, esté incapacitado mentalmente y no cuente con un familiar que lo represente, el Instituto solicitará a la autoridad responsable del asilo designe un representante para el Adulto Mayor, de entre las opciones que en este precepto se mencionan:
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 a) Amistad.
 
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
+
 b) Trabajador del asilo.
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 c) Representante Voluntario.
 
-El asilo deberá informar, por escrito, a la Institución la designación del representante, para que se realicen los trámites correspondientes.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
-En el caso de que la autoridad del asilo no desee o no le sea posible designar al representante, la Institución designará un representante voluntario.
+El asilo deberá informar, por escrito, al Instituto la designación del representante, para que se realicen los trámites correspondientes.
 
-En el caso de que el asilo no permita el acceso para que la Institución visite al pensionado en tres ocasiones consecutivas, se procederá a la suspensión temporal de la pensión hasta aclarar la situación.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+En el caso de que la autoridad del asilo no desee o no le sea posible designar al representante, el Instituto designará un representante voluntario.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+En el caso de que el asilo no permita el acceso para que el Instituto visite al pensionado en tres ocasiones consecutivas, se procederá a la suspensión temporal de la pensión hasta aclarar la situación.
+
+> <small>(REFORMADO, D.O.F 10 DE JUNIO DE 2005)</small>
 
 La persona que funja como representante firmará una carta compromiso de las responsabilidades que adquiere y la tarjeta plástica.
 
-Con la finalidad de verificar que el beneficio de la Pensión es utilizado para el bienestar del Adulto Mayor, la Institución podrá solicitar en cualquier momento al representante la comprobación de los gastos realizados con la tarjeta plástica, los que estarán integrados en un expediente que contenga los pormenores de la forma en que se han utilizado los recursos de la Pensión.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
+Con la finalidad de verificar que el beneficio de la Pensión es utilizado para el bienestar del Adulto Mayor, el Instituto podrá solicitar en cualquier momento al representante la comprobación de los gastos realizados con la tarjeta plástica, los que estarán integrados en un expediente que contenga los pormenores de la forma en que se han utilizado los recursos de la Pensión.
 
 ### CAPÍTULO IV. DE LA BAJA DEL PADRÓN DE BENEFICIARIOS DE LA PENSIÓN ALIMENTARIA
 
@@ -222,7 +256,9 @@ Con la finalidad de verificar que el beneficio de la Pensión es utilizado para 
 
 Son compromisos del Pensionado, los siguientes:
 
-I. Firmar en original y por duplicado la Carta Compromiso por sí o por su representante al momento de recibir la tarjeta electrónica. Un original será entregado al pensionado y el otro será resguardado en el archivo de la Institución.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+I. Firmar en original y por duplicado la Carta Compromiso por sí o por su representante al momento de recibir la tarjeta electrónica. Un original será entregado al pensionado y el otro será resguardado en el archivo del Instituto.
 
 > <small>(REFORMADA, D.O.F 10 DE JUNIO DE 2005)</small>
 
@@ -230,13 +266,19 @@ II. Utilizar la tarjeta electrónica, en los centros comerciales autorizados, si
 
 III. Emplear la tarjeta electrónica, preferentemente, para la compra de productos alimenticios.
 
-IV. Reportar oportunamente, en cualquier centro de salud de la Institución, cercano a su domicilio, cualquier tipo de problema en la utilización de la tarjeta, así como las anomalías en los establecimientos de autoservicio autorizados.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Reportar oportunamente, en cualquier modulo de atención del Instituto, cercano a su domicilio, cualquier tipo de problema en la utilización de la tarjeta, así como las anomalías en los establecimientos de autoservicio autorizados.
 
 V. Reportar el extravío o robo de la tarjeta electrónica, en el término de 24 horas, contados a partir desde el momento en que ocurra el hecho, al teléfono de servicio que se encuentra en la parte trasera de la tarjeta plástica. En caso de omisión o de aviso extemporáneo, el Gobierno del Distrito Federal, queda deslindado de cualquier responsabilidad del daño que se cause o se pueda causar derivado del hecho.
 
-VI. Notificar su cambio de domicilio o variación de su nomenclatura, dentro del término de 15 días hábiles, contados a partir del día siguiente en que ocurra el cambio o tenga conocimiento de la variación de su nomenclatura. El pensionado, podrá reportar el hecho ocurrido en los centros de salud de la Institución, ubicados en la Delegación donde originalmente radicaba o en el módulo de atención de la institución.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
 
-VII. Proporcionar a la Institución, toda la información que le sea requerida, para verificar el cumplimiento de la normatividad aplicable a la Pensión.
+VI. Notificar su cambio de domicilio o variación de su nomenclatura, dentro del término de 15 días hábiles, contados a partir del día siguiente en que ocurra el cambio o tenga conocimiento de la variación de su nomenclatura. El pensionado, podrá reportar el hecho ocurrido en cualquiera de los módulos de atención del Instituto.
+
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+VII. Proporcionar al Instituto, toda la información que le sea requerida, para verificar el cumplimiento de la normatividad aplicable a la Pensión.
 
 VIII. Abstenerse de utilizar la tarjeta electrónica en cajeros automáticos o canjearla por dinero en efectivo.
 
@@ -250,15 +292,17 @@ XI. Cumplir con los compromisos establecidos en la Carta Compromiso, los que cob
 
 ###### Artículo 26.
 
-Para verificar la residencia, disfrute del beneficio de la pensión, sobrevivencia y atención de dudas o problemas relacionados con el derecho a la Pensión alimentaria, así como para recopilar información que requiera la Secretaría o la propia Institución a fin de implementar acciones y estrategias orientadas a un mejor servicio a los adultos mayores pensionados, la Institución dará seguimiento permanente a los beneficiarios, a través de visitas domiciliarias.
+Para verificar la residencia, disfrute del beneficio de la pensión, sobrevivencia y atención de dudas o problemas relacionados con el derecho a la Pensión alimentaria, así como para recopilar información que requiera a fin de implementar acciones y estrategias orientadas a un mejor servicio a los adultos mayores pensionados, el Instituto dará seguimiento permanente a los beneficiarios, a través de visitas domiciliarias.
 
 ###### Artículo 27.
 
 Las visitas domiciliarias de seguimiento serán programadas, de acuerdo a las cargas de trabajo del personal asignado para tal efecto, así como a la situación de riesgo en que se encuentre el Adulto Mayor. Asimismo, se realizarán visitas para atención de casos especiales reportados por familiares, vecinos y/o personas cercanas al Adulto Mayor.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 28.
 
-El personal asignado para efectuar las visitas domiciliarias de seguimiento, contará con una identificación expedida por la Institución, la que deberá mostrar al Pensionado, su representante o familiares en el acto de visita domiciliaria.
+El personal asignado para efectuar las visitas domiciliarias de seguimiento, contará con una identificación expedida por el Instituto, la que deberá mostrar al Pensionado, su representante o familiares en el acto de visita domiciliaria.
 
 ###### Artículo 29.
 
@@ -300,9 +344,11 @@ IX. Incapacidad física y/o mental del Adulto Mayor cuando exista la imposibilid
 
 X. Incumplimiento de los compromisos adquiridos en la Carta Compromiso firmada por el Pensionado.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 33.
 
-En caso, de que el adulto mayor solicitante y/o pensionado sea remitido a un asilo, será responsabilidad de los familiares y/o representante, notificar oportunamente el nuevo domicilio del Adulto Mayor al centro de salud más cercano a su domicilio y/o al módulo de atención de la Institución, para que sea visitado y corroborar su estancia, evitando su baja por cambio de domicilio desconocido. En este caso las visitas de seguimiento se realizarán en el asilo.
+En caso, de que el adulto mayor solicitante y/o pensionado sea remitido a un asilo, será responsabilidad de los familiares y/o representante, notificar oportunamente su nuevo domicilio al módulo de atención del Instituto más cercano a su domicilio, para que sea visitado y corroborar su estancia, evitando su baja por cambio de domicilio desconocido. En este caso las visitas de seguimiento se realizarán en el asilo.
 
 ###### Artículo 34.
 
@@ -312,15 +358,21 @@ Si en visita domiciliaria realizada al adulto mayor pensionado, el representante
 
 Las causas de baja de pensión, excepto los fallecimientos notificados por familiares y/o autoridades que sean respaldados con el acta de defunción, serán corroboradas en campo, a través de visita domiciliaria.
 
-En ningún caso el personal de la Institución retirará la tarjeta al pensionado o representante.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+En ningún caso el personal del Instituto retirará la tarjeta al pensionado o representante.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 36.
 
-Asimismo, si durante la visita domiciliaria de seguimiento, se corrobora cualquiera de las causales de baja, la Institución procederá a la baja del padrón de beneficiarios de la Pensión, previa notificación correspondiente.
+Asimismo, si durante la visita domiciliaria de seguimiento, se corrobora cualquiera de las causales de baja, el Instituto procederá a la baja del padrón de beneficiarios de la Pensión, previa notificación correspondiente.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 37.
 
-Cuando ocasione baja la pensión por alguna de las causas señaladas en el presente Reglamento, la Institución procederá a notificar al Adulto Mayor y/o representante la baja del padrón de beneficiarios. Las notificaciones se realizarán al Adulto Mayor y/o representante, a falta de éstos, se dejará aviso con cualquier persona que se encuentre en el domicilio, para que el Adulto Mayor y/o representante reciba en un día y a una hora en específico la notificación de baja. Si el domicilio se encontrare cerrado; y nadie respondiera el aviso se dejará con el vecino más próximo.
+Cuando ocasione baja la pensión por alguna de las causas señaladas en el presente Reglamento, el Instituto procederá a notificar al Adulto Mayor y/o representante la baja del padrón de beneficiarios. Las notificaciones se realizarán al Adulto Mayor y/o representante, a falta de éstos, se dejará aviso con cualquier persona que se encuentre en el domicilio, para que el Adulto Mayor y/o representante reciba en un día y a una hora en específico la notificación de baja. Si el domicilio se encontrare cerrado; y nadie respondiera el aviso se dejará con el vecino más próximo.
 
 ###### Artículo 38.
 
@@ -340,17 +392,19 @@ La Secretaría es la instancia normativa y le corresponde:
 
 I. Establecer la normatividad relacionada con la Pensión.
 
-II. Elaborar el programa operativo anual de la Pensión.
+II. (DEROGADA, G.O. 29 DE JUNIO DE 2007)
 
-III. Dar seguimiento a través de la Dirección General de Planeación y Coordinación Sectorial.
+III. (DEROGADA, G.O. 29 DE JUNIO DE 2007)
 
 IV. Gestionar los recursos presupuestales y el control financiero de los mismos.
 
 V. Establecer y vigilar del cumplimiento de los convenios requeridos para la correcta operación de la Pensión.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 41.
 
-La Institución será la instancia operativa, por conducto de la Dirección de Área de Promoción a la Salud y Atención al Adulto Mayor, y deberá:
+El Instituto será la instancia operativa y deberá:
 
 I. Actualizar (sic) permanente el padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho a la Pensión.
 
@@ -368,9 +422,13 @@ VII. Controlar y supervisar el desempeño de los recursos humanos asignados para
 
 VIII. Diseñar un sistema de capacitación y actualización para los recursos humanos asignados que permitan desarrollar las acciones encaminadas a ejecutar las disposiciones del presente Reglamento.
 
-IX. Solicitar mensualmente a la Secretaría, de acuerdo a los requerimientos del padrón de beneficiarios de la pensión alimentaria, la gestión de los recursos financieros ante las instancias correspondientes.
+IX. (DEROGADA, G.O. 29 DE JUNIO DE 2007)
 
 X Informar a la Secretaría sobre el desarrollo de las acciones de ejecución del presente Reglamento y el estado mensual del padrón de beneficiarios de la pensión alimentaria.
+
+> <small>(ADICIONADA, G.O. 29 DE JUNIO DE 2007)</small>
+
+XI. Elaborar el Programa Operativo Anual para el otorgamiento de la Pensión.
 
 ## TÍTULO CUARTO. DE LAS FINANZAS, LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN
 
@@ -400,13 +458,17 @@ Ningún servidor público podrá condicionar al Adulto Mayor su Pensión a la pa
 
 Dado el carácter público de la Pensión, la información estadística relativa a la misma, excepto el padrón de beneficiarios, será publicada y actualizada de forma sistemática en la página electrónica del Gobierno del Distrito Federal, para consulta de la población que así lo requiera.
 
-###### Articulo 47.
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
-La Institución actualizará permanentemente los archivos del padrón de beneficiarios de la Pensión y los utilizará exclusivamente para los fines legales y legítimos de la Pensión, éstos no podrán ser difundidos ni comercializados salvo que exista el consentimiento por escrito u otro medio de autentificación similar del Adulto Mayor a que haga referencia la información, o en su defecto por mandato de alguna autoridad judicial competente, de conformidad con los artículos 8 y 32 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+###### Artículo 47.
+
+El Instituto actualizará permanentemente los archivos del padrón de beneficiarios de la Pensión y los utilizará exclusivamente para los fines legales y legítimos de la Pensión, éstos no podrán ser difundidos ni comercializados salvo que exista el consentimiento por escrito u otro medio de autentificación similar del Adulto Mayor a que haga referencia la información, o en su defecto por mandato de alguna autoridad judicial competente, de conformidad con los artículos 8 y 32 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 48.
 
-Los servidores públicos asignados por la Secretaría y por la Institución para la ejecución de la Ley y el Reglamento, deberán actuar con apego a los principios de igualdad, imparcialidad y transparencia, así como a lo establecido al presente Reglamento, de no hacerlo serán sancionados conforme a los ordenamientos legales aplicables al caso.
+Los servidores públicos asignados para la ejecución de la Ley y el Reglamento, deberán actuar con apego a los principios de igualdad, imparcialidad y transparencia, así como a lo establecido al presente Reglamento, de no hacerlo serán sancionados conforme a los ordenamientos legales aplicables al caso.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F 10 DE JUNIO DE 2005)</small>
 
@@ -451,3 +513,11 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 D.O.F 10 DE JUNIO DE 2005.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE JUNIO DE 2007.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente.
+
+Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
