@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2007-06-01"
+last_updated: "2007-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -189,9 +189,11 @@ Los Ayuntamientos deberán formular anualmente un presupuesto de los ingresos qu
 
 El presupuesto de ingresos a que se refiere el artículo anterior, deberá considerar los ingresos obtenidos en el ejercicio fiscal anterior al ejercicio para el que se formula el presupuesto, las nuevas fuentes de ingreso y los incrementos que se proponga establecer.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 21.
 
-Las iniciativas de las leyes de ingresos de los Municipios se formularán de conformidad con este código y demás disposiciones aplicables, y serán presentadas al Congreso del Estado a más tardar el 30 de noviembre de cada año.
+Las iniciativas de las leyes de ingresos de los Municipios se formularán de conformidad con este código y demás disposiciones aplicables, y serán presentadas al Congreso del Estado a más tardar el 31 de octubre de cada año.
 
 Estas iniciativas se remitirán acompañadas del presupuesto de ingresos para su discusión, aprobación en su caso y publicación en el Periódico Oficial del Estado.
 
@@ -4268,3 +4270,9 @@ P.O. 1 DE JUNIO DE 2007.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las empresas que al momento de la entrada en vigor de este Decreto se encuentren en proceso de integrar algunos de los supuestos contemplados en la reforma, deberán de informar de dicha circunstancia en un plazo no mayor de treinta días a la Tesorería Municipal que corresponda, contados a partir de la entrada en vigor de esta reforma, a efecto de que sea aplicado el nuevo régimen.
+
+P.O. 29 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
