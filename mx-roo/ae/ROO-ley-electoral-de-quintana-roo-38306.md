@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2005-10-03"
+last_updated: "2007-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -771,9 +771,11 @@ IX. Comunicar al Instituto cualquier modificación a su denominación, declaraci
 
 X. Comunicar al Instituto los cambios en su domicilio social o el de sus órganos directivos;
 
-XI. Editar por lo menos una publicación bimestral de divulgación;
+XI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-XII. Retirar dentro de los quince días siguientes a la jornada electoral en que participen, la propaganda que en apoyo de sus candidatos hubiesen fijado o pintado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XII. Retirar dentro de los treinta días siguientes a la jornada electoral en que participen, la propaganda que en apoyo de sus candidatos hubiesen fijado o pintado;
 
 XIII. Abstenerse de realizar actos de presión que limiten o condicionen el libre ejercicio de los derechos políticos constitucionales;
 
@@ -919,7 +921,9 @@ El financiamiento de los partidos políticos que provenga de la militancia, esta
 
 I. El órgano interno responsable del financiamiento de cada partido político, deberá expedir recibo de las cuotas o aportaciones recibidas, del cual deberá conservar una copia para acreditar el monto ingresado;
 
-II. El monto máximo de aportación individual, en forma anual, será el equivalente a mil días de salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+II. Cada partido político determinara los montos mínimos y máximos, la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones; de conformidad con lo que dispongan sus estatutos; y
 
 III. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, tendrán como límite el veinte por ciento respecto del tope de gastos de campaña de la elección que se trate.
 
@@ -991,7 +995,9 @@ II. Los informes de campaña:
 
 A) Deberán presentarse por los partidos políticos o coaliciones, por cada una de las campañas para Gobernador, Diputados y miembros de los Ayuntamientos, respectivamente.
 
-B) Presentarán un informe final dentro de los sesenta días siguientes al término de las mismas.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+B) Presentarán un informe final dentro de los sesenta días hábiles siguientes al término de las mismas.
 
 C) El Consejo General podrá aprobar hasta dos revisiones precautorias sobre el cumplimiento de los topes de gastos de campaña; la primera se realizará a la mitad del tiempo de duración de las campañas electorales y la segunda será realizada en los últimos diez días de la campaña electoral correspondiente.
 
@@ -1049,7 +1055,13 @@ VI. En el caso de partidos políticos nacionales, la prerrogativa de acceso a me
 
 VII. La Dirección de Partidos Políticos del Instituto, determinará mediante sorteos bimestrales el orden, las fechas y horarios de transmisión de los programas y establecerá las medidas para la debida difusión de la programación. Los programas de los partidos políticos, serán transmitidos en horarios de mayor audiencia.
 
-Los partidos políticos y las coaliciones contarán de manera gratuita con el apoyo técnico necesario para ejercer su prerrogativa de acceso a los medios de comunicación propiedad del Estado.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Los partidos políticos y las coaliciones contarán de manera gratuita con:
+
+A. El apoyo técnico necesario para ejercer su prerrogativa de acceso a los medios de comunicación propiedad del Estado;
+
+B. La cobertura de manera equitativa de sus actividades de campaña por parte de los medios de comunicación propiedad del Estado.
 
 ###### Artículo 97.
 
@@ -1057,9 +1069,11 @@ Los partidos políticos, al ejercer sus prerrogativas en radio y televisión, de
 
 La Dirección de Partidos Políticos del Instituto, gestionará ante la radio y televisión del Gobierno del Estado, el tiempo que sea necesario para la difusión de las actividades de los partidos políticos, quienes entregarán a la citada Dirección del Instituto, los programas que deberán ser transmitidos en el tiempo que les corresponda, en los formatos y condiciones que en su oportunidad señale la Junta General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 98.
 
-Los partidos políticos o coaliciones tienen derecho para contratar por su cuenta y cargo, tiempos en radio, televisión e internet, para difundir mensajes orientados a la obtención del voto durante las campañas electorales. Los candidatos sólo podrán hacer uso de los tiempos que les asigne su partido político o coalición.
+Los partidos políticos o coaliciones tienen derecho para contratar por su cuenta y cargo, tiempos en radio, televisión e Internet y medios de comunicación escritos, para difundir mensajes orientados a la obtención del voto durante las campañas electorales. Los candidatos sólo podrán hacer uso de los tiempos que les asigne su partido político o coalición.
 
 En todo caso, será obligación de los partidos políticos y coaliciones reportar a la autoridad electoral competente, el gasto total efectuado en la contratación de los tiempos a que se refiere el párrafo que precede.
 
@@ -1067,15 +1081,19 @@ En todo caso, será obligación de los partidos políticos y coaliciones reporta
 
 En ningún caso se permitirá la contratación de propaganda en radio, televisión y medios de comunicación escritos y alternos, a favor o en contra de algún partido político, coalición o candidato, por parte de terceros.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 100.
 
-El Instituto solicitará oportunamente a la Secretaría de Comunicaciones y Transportes del Gobierno Federal, su intervención, a fin de que los concesionarios o permisionarios de radio y televisión le proporcionen un catálogo de horarios y tarifas correspondientes, disponibles para su contratación por los partidos políticos.
+Instituto solicitará oportunamente a la Secretaría de Comunicaciones y Transportes del Gobierno Federal, su intervención, a fin de que los concesionarios o permisionarios de radio y televisión le proporcionen un catálogo de horarios y tarifas correspondientes, disponibles para su contratación, mismas que pondrá a disposición de los Partidos Políticos o Coaliciones.
 
 ###### Artículo 101.
 
 El Consejo General, a partir de la sesión en que inicie el proceso electoral, pondrá a disposición de los partidos políticos el catálogo de los tiempos, horarios, canales, estaciones disponibles y las tarifas.
 
-De igual forma, durante las campañas electorales, el Instituto realizará monitoreos sobre los medios de comunicación masiva existentes en el Estado.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+De igual forma, durante las campañas electorales, el Instituto realizará monitoreos sobre los gastos de los partidos políticos en los medios de comunicación masiva existentes en el Estado, haciéndolo del conocimiento público.
 
 ## TÍTULO QUINTO. DE LOS FRENTES, COALICIONES Y FUSIONES
 
@@ -1177,9 +1195,13 @@ Los partidos políticos que pretendan formar una coalición, deberán manifestar
 
 Dentro de los tres días siguientes al plazo señalado en el párrafo anterior, el Consejero Presidente designará una Comisión o las que se requieran para efecto de verificar la celebración de las asambleas mencionadas, en todo caso, no podrán concurrir dos o más comisiones para constatar una misma asamblea o reunión.
 
-En todo caso, las asambleas referidas en el presente artículo, deberán realizarse entre el 15 y 25 de octubre del año anterior de la elección.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
-Dentro de los cinco días siguientes a los que se haya efectuado la última asamblea programada en el calendario, el Consejo General del Instituto, resolverá sobre la solicitud de coalición y notificará al representante de la misma, ordenando publicar la resolución en el Periódico Oficial del Gobierno del Estado, a más tardar el día 31 de octubre del año anterior de la elección.
+En todo caso, las asambleas referidas en el presente artículo, deberán realizarse entre el 14 de octubre y el 6 de noviembre del año anterior de la elección.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Dentro de los cinco días siguientes a los que se haya efectuado la última asamblea programada en el calendario, el Consejo General del Instituto, resolverá sobre la solicitud de coalición y notificará al representante de la misma, ordenando publicar la resolución en el Periódico Oficial del Gobierno del Estado, a más tardar el día 12 de noviembre del año anterior de la elección.
 
 ###### Artículo 108.
 
@@ -1407,9 +1429,21 @@ Si de la verificación realizada se advierte que hubo omisión de uno o varios r
 
 El no haber cumplido con los requerimientos del párrafo anterior en tiempo, o haber presentado fuera de plazo las solicitudes correspondientes, tendrá como efecto el desechamiento de plano de la solicitud y la pérdida del derecho de registro de la candidatura de que se trate.
 
-A mas tardar, dentro de los cinco días siguientes a los vencimientos de los plazos señalados en el artículo 129, los órganos Electorales correspondientes, celebrarán una Sesión cuyo único objeto será registrar las candidaturas que procedan.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
-Al término de dicha Sesión, se hará pública la conclusión del registro de candidaturas, fórmulas o planillas, dando a conocer los nombres de los candidatos o de la integración de las fórmulas o planillas registradas y de aquellos que no cumplieron con los requisitos.
+Los Órganos Electorales correspondientes, celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan en los plazos siguientes:
+
+A. Para candidatos a Gobernador el 6 de diciembre del año anterior de la elección;
+
+B. Para miembros de los Ayuntamientos, el 12 de diciembre del año anterior de la elección;
+
+C. Para Diputados por el principio de mayoría relativa, el 18 de diciembre del año anterior de la elección;
+
+D. Para Diputados por el principio de representación proporcional, el 23 de diciembre del año anterior de la elección; (sic)
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Al término de la sesión que corresponda, se hará pública la conclusión del registro de candidaturas, fórmulas o planillas, dando a conocer los nombres de los candidatos o de la integración de las fórmulas o planillas registradas y de aquellos que no cumplieron con los requisitos.
 
 ###### Artículo 132.
 
@@ -1452,6 +1486,14 @@ Son actos de campaña las reuniones públicas, asambleas, marchas y en general, 
 Las campañas electorales iniciarán a partir de la fecha de registro de candidaturas que aprueben los Órganos Electorales competentes y concluirán tres días antes de la jornada electoral.
 
 El día de la jornada y durante los tres días anteriores, no se permitirán reuniones o actos de campañas y propaganda.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Los Titulares de los Poderes Ejecutivo, Federal como Local, Diputados Federales o Locales, Senadores, Magistrados del Tribunal Superior de Justicia del Estado, los miembros de los Ayuntamientos, los Titulares de los Organismos autónomos y de la Administración Pública Estatal, Paraestatal y Municipal, deberán invariablemente de abstenerse de realizar dentro de los treinta días anteriores a la jornada electoral y durante la misma cualquier tipo de campaña publicitaria de programas de obra pública, de gobierno o de desarrollo social, se exceptúa de dicha suspensión la comunicación de medidas urgentes de estado o de acciones relacionadas con protección civil, programas de salud, por emergencias servicios y atención a la comunidad por causas graves así como asuntos de cobro y pago diversos.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Asimismo, dichos servidores públicos deberán de abstenerse de efectuar dentro de los treinta días previos a la jornada electoral y durante la misma, campaña de promoción de su imagen personal, a través de inserciones en prensa, radio, televisión o internet así como bardas, mantas, volantes, anuncios, espectaculares u otros similares.
 
 ###### Artículo 138.
 
@@ -1497,9 +1539,13 @@ VI. No se podrá colocar, fijar, pintar, ni distribuir al interior de las oficin
 
 VII. Toda la propaganda impresa preferentemente se realizará en material reciclable.
 
-Dentro de los quince días siguientes a la jornada electoral, los partidos políticos y coaliciones retirarán su propaganda electoral.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
-Si transcurrido el plazo, el partido político o coalición no hubiese cumplido con dicha obligación, el Instituto solicitará a los Municipios que procedan al retiro de la misma y al pintado de bardas; el gasto que por dicha actividad se genere será deducido del monto de la siguiente ministración de su financiamiento público que corresponda al partido infractor.
+Dentro de los treinta días siguientes a la jornada electoral, los partidos políticos y coaliciones retirarán su propaganda electoral.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Si transcurrido el plazo, el partido político o coalición no hubiese cumplido con dicha obligación, el Instituto procederá al retiro de la misma y al pintado de bardas; el gasto que por dicha actividad se genere será deducido del monto de la siguiente ministración de su financiamiento público que corresponda al partido infractor.
 
 Del mismo modo, los partidos políticos o coaliciones cinco días antes de la jornada electoral quedan obligados a retirar su propaganda electoral que se encuentre en un radio de cincuenta metros a la redonda de donde se vaya a instalar una casilla.
 
@@ -1517,9 +1563,17 @@ I. Las autoridades estatales y municipales deberán dar trato igualitario en el 
 
 II. Los partidos políticos o coaliciones solicitarán el uso de locales públicos con suficiente anticipación, señalando la naturaleza del acto que realizarán, el número de personas que estimen concurrirán al acto, las horas necesarias para la preparación y celebración del evento, los requerimientos técnicos para la realización del acto y el nombre de la persona autorizada por el partido, coalición o el candidato en cuestión, que se hará responsable del buen uso de los locales y sus instalaciones.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 144.
 
-La Dirección de Partidos Políticos organizará debates públicos entre los candidatos que quieran participar y proveerá lo necesario para la difusión de los mismos, preferentemente en los medios electrónicos como radio y televisión. Para tal efecto, deberá emitir la convocatoria respectiva a más tardar el diez de enero del año de la jornada electoral.
+La Dirección de Partidos Políticos organizará debates públicos entre candidatos, siempre y cuando existan solicitudes por escrito de cuando menos dos candidatos a un mismo cargo de elección popular.
+
+La fecha límite para la recepción de dichas solicitudes será el día seis de enero del año de la elección, debiendo la referida Dirección proponer a la Junta General y al Consejo General las bases de la convocatoria respectiva, las cuales serán aprobadas por dichos Órganos del Instituto, a más tardar el día diez de enero del año de la elección.
+
+Únicamente se celebrarán debates públicos entre los candidatos a Gobernador del Estado, Diputados propietarios por el principio de mayoría relativa y miembros de los Ayuntamientos; éstos últimos, se efectuarán únicamente con los candidatos a Presidentes Municipales propietarios de las planillas de los miembros de los Ayuntamientos de la Entidad.
+
+La transmisión en radio y televisión de los debates públicos será de manera gratuita, a través del Sistema Quintanarroense de Comunicación Social u organismo público equivalente; quien deberá otorgar gratuitamente el apoyo técnico, logístico y humano, que se requiera para tales efectos.
 
 ###### Artículo 145.
 
@@ -1559,9 +1613,11 @@ Para garantizar el cumplimiento de estos ordenamientos, el Consejo General solic
 
 Las encuestas o sondeos de opinión, podrán realizarse a partir del inicio de las campañas políticas. Durante los ocho días naturales previos al de la jornada electoral y hasta cuatro horas después del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 147.
 
-El tope de gastos de campaña, que determinará el Consejo General para cada partido político o coalición, será la cantidad que resulte de multiplicar al menos el cincuenta y cinco por ciento del salario mínimo general vigente en la capital del Estado, por el número de ciudadanos inscritos en el padrón electoral del Estado, distrito o municipio de que se trate, con corte al último mes previo al inicio del proceso electoral.
+El tope de gastos de campaña, que determinará el Consejo General para cada partido político o coalición, será la cantidad que resulte de multiplicar al menos el cincuenta y cinco por ciento del salario mínimo general vigente en la Capital del Estado, por el número de ciudadanos inscritos en el Padrón Electoral del Estado, Distrito o Municipio de que se trate, con corte al mes de agosto del año del inicio del proceso electoral.
 
 Los gastos que realicen los partidos políticos o las coaliciones en actividades de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
 
@@ -1821,7 +1877,9 @@ I. La lista nominal de electores de la sección;
 
 II. La relación de los representantes de los partidos políticos o coaliciones ante la Mesa Directiva de Casilla y los de carácter general registrados ante el Consejo respectivo;
 
-III. Las boletas electorales correspondientes a cada elección, en número igual al de los electores que figuran en la lista nominal de la sección. Cuando en una sección deban instalarse varias casillas, las boletas se distribuirán a cada una de ellas en el número que le corresponda de acuerdo con la lista nominal respectiva. Las casillas especiales recibirán el número de boletas de acuerdo a lo aprobado por el Consejo General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+III. Las boletas electorales correspondientes a cada elección, en número igual al de los electores que figuran en la lista nominal de la sección, mas las boletas que se requieran para que voten los representantes de los partidos o coaliciones debidamente acreditados ante las mesas directivas de casilla. Cuando en una sección deban instalarse varias casillas, las boletas se distribuirán a cada una de ellas en el número que le corresponda de acuerdo con la lista nominal respectiva. Las casillas especiales recibirán el número de boletas de acuerdo a lo aprobado por el Consejo General;
 
 IV. Las urnas para recibir la votación correspondiente a cada elección, que serán de un material transparente y de preferencia plegables o armables;
 
@@ -2008,6 +2066,10 @@ Los Presidentes de las Mesas Directivas de Casilla permitirán emitir su voto a 
 I. Estando en la lista nominal de electores correspondiente a su domicilio, su credencial para votar contenga errores de seccionamiento. En este caso, los Presidentes de las Mesas Directivas de Casilla, además de identificar a los electores en los términos de esta Ley, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen más efectivo.
 
 II. Los datos que aparecen en la credencial para votar coincidan con los que aparecen en la lista nominal de electores definitiva, aunque en dicha lista no aparezca la fotografía del ciudadano, siempre que los rasgos fisonómicos de la fotografía que aparece en su credencial para votar correspondan a los del ciudadano que acude a votar a la casilla.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+III. Estando debidamente acreditados ante las mesas directivas de casilla como representantes de los partidos o coaliciones, presenten su credencial de elector vigente.
 
 ### CAPÍTULO SEGUNDO. INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
@@ -2515,11 +2577,13 @@ Si en la asignación de las regidurías por repartir éstas resultaran insuficie
 
 Si sólo un partido o coalición, sin obtener la mayoría relativa, obtiene el mínimo de votación requerida para tener derecho a la asignación de representación proporcional, le será asignada la totalidad de regidores por este principio.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ### CAPÍTULO SÉPTIMO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
 
 ###### Artículo 246.
 
-Las regidurías obtenidas por cada uno de los Partidos Políticos, se asignarán en favor de los candidatos de cada Partido Político, siguiendo el orden que tuviesen los candidatos en las listas registradas, iniciando por el que encabeza la planilla para la elección de miembros de los Ayuntamientos. Si faltare algún regidor propietario con su respectivo suplente, serán llamados los que sigan en el orden de prelación de la planilla registrada.
+Las regidurías obtenidas por cada uno de los Partidos Políticos, se asignarán en favor de los candidatos de cada Partido Político, siguiendo el orden que tuviesen los candidatos en las listas registradas, iniciando por el que encabeza la planilla para la elección de miembros de los Ayuntamientos. Si faltare algún regidor propietario será llamado su respectivo suplente y en ausencia de ambos, serán llamados los que sigan en el orden de prelación de la planilla registrada.
 
 ###### Artículo 247.
 
@@ -2621,59 +2685,87 @@ El Consejo General suspenderá o cancelará el registro de los partidos polític
 
 En el caso de los partidos políticos nacionales, se dará aviso a la autoridad federal electoral para todos los efectos legales que procedan.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 262.
 
-Los partidos políticos, sus dirigentes y candidatos, independientemente de las responsabilidades en que incurran, podrán ser sancionados con:
+Los partidos políticos y las agrupaciones políticas, independientemente de las responsabilidades en que incurran sus dirigentes, militantes y/o simpatizantes, podrán hacerse acreedores a las siguientes sanciones:
 
-A. Partidos Políticos:
+I. Amonestación pública;
 
-I. Multa de ciento cincuenta a dos mil días de salario mínimo general vigente en el Estado, por incumplir con cualquiera de las obligaciones señaladas en el artículo 77 de esta Ley, con excepción de la fracción III;
+II. Multa de cincuenta a dos mil días de salario mínimo general vigente en el Estado;
 
-II. Reducción de hasta el cincuenta porciento de la entrega de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, al que incumpla con la obligación señalada en la fracción XVI del artículo 77 de esta Ley; o reincida en el incumplimiento de las obligaciones establecidas en el mismo precepto, con excepción de la fracción III;
+III. Reducción de hasta el cincuenta por ciento de la entrega de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
 
-En cualquiera de los casos a que se refiere esta fracción y la anterior, el incumplimiento de la fracción XXI, además de las sanciones señaladas, dará motivo para que los candidatos del partido de que se trate no sean registrados;
+IV. Supresión total de la entrega de las ministraciones del financiamiento público que les corresponda por el período que señale la resolución;
 
-III. Supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el periodo que señale la resolución por incumplir lo dispuesto en los artículos 84, 92 y 147 de esta Ley;
+V. Negación o, en su caso, cancelación del registro del candidato;
 
-IV. Suspensión del registro o acreditación como partido político para participar en las elecciones locales, por reincidir en el incumplimiento a lo dispuesto en los artículos 84, 92 y 147 de esta Ley;
+VI. Suspensión del registro como partido político estatal o agrupación política estatal, por el periodo que señale la resolución;
 
-V. Cancelación del registro o acreditación como partido político para participar en las elecciones locales, por atentar de manera grave contra las instituciones públicas y electorales, utilizar para gastos ordinarios o de campaña recursos públicos provenientes de actividades ilícitas y, de manera generalizada y reiterada incumplir con las obligaciones que les impone la presente Ley o asumir actitud de rebeldía contra las resoluciones definitivas del Consejo General o del Tribunal;
+VII. Suspensión de la acreditación ante el Instituto de los partidos políticos nacionales, por el periodo que señale la resolución;
 
-VI. Multa equivalente al doble de la cantidad con la que algún partido o coalición rebase el tope de gastos de campaña, y
+VIII. Pérdida del registro como partido político estatal o agrupación política estatal; y
 
-VII. Multa de ciento cincuenta a dos mil días de salario mínimo general vigente en el Estado, por realizar actos que sean contrarios a los principios rectores de los procesos electorales o la función electoral en el Estado.
+IX. Pérdida de la acreditación ante el Instituto de los partidos políticos nacionales.
 
-B. Dirigentes y candidatos:
+Las sanciones referidas en este artículo, podrán ser impuestas cuando:
 
-I. A quienes utilicen para actividades ordinarias o para cualquier acto de campaña, recursos públicos, ya sean de la federación, de las entidades federativas, o de los municipios del Estado o de otros Estados, se les impondrá una multa equivalente a dos veces la cantidad de recursos públicos utilizados.
+A. Incumplan con las obligaciones previstas en esta Ley;
 
-En el caso de la utilización de recursos materiales, la base para determinar la multa será el valor del avalúo de los bienes muebles o inmuebles utilizados;
+B. Reciban aportaciones o donativos, en dinero o en especie, de las personas o entidades que no estén expresamente facultadas para ello, o soliciten crédito por sí o por interpósita persona a la Banca de Desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto en los artículos 84 y 92 de esta Ley;
 
-II. Cancelación del otorgamiento del registro como candidato, fórmula o planilla, a quienes hubieran utilizado recursos provenientes de actividades ilícitas para el financiamiento de campaña o actividades ordinarias del partido político, o reincidan en la utilización de los recursos a que se refiere la fracción I de este apartado;
+C. Acepten donativos o aportaciones económicas superiores a los límites establecidos en esta Ley o en los ordenamientos legales aplicables;
 
-III. Cancelación del registro como candidato para participar en las elecciones correspondientes, por incumplimiento a lo dispuesto por el segundo párrafo del artículo 137 de esta Ley.
+D. Utilizar recursos provenientes de actividades ilícitas para el financiamiento de campaña o actividades ordinarias del partido político;
 
-Asimismo, procederá la cancelación del registro a que se refiere el párrafo anterior, cuando se incumpla lo dispuesto por la fracción XVIII del artículo 77 de esta Ley, y
+E. No presenten los informes a que están obligados en esta Ley;
 
-IV. Multa de ciento cincuenta a dos mil días de salario mínimo general vigente en el Estado, por realizar actos que sean contrarios a los principios rectores de los procesos electorales o la función electoral en el Estado.
+F. Realicen reuniones o actos de campañas y propaganda el día de la jornada electoral y durante los tres días anteriores;
+
+G. Utilizar para el sostenimiento de sus actividades ordinarias o para cualquier acto de campaña, recursos públicos, ya sean de la Federación, de las entidades federativas o de los Municipios del Estado o de otras entidades federativas, más allá de las prerrogativas legales previstas en la presente Ley;
+
+H. Incumplan los acuerdos, las resoluciones y demás determinaciones del Consejo General, de la Junta General, Consejos Distritales, Juntas Distritales Ejecutivas, o de los órganos centrales del Instituto, o en su caso, del Tribunal;
+
+I. Sobrepasen los topes de gastos de campaña determinados por el Consejo General;
+
+J. No se respete lo dispuesto por el artículo 142 de esta Ley y demás normas relacionadas con el adecuado manejo y disposición de la propaganda electoral; e
+
+K. Incurran en cualquier otra falta, en virtud de lo previsto en esta Ley y demás disposiciones legales aplicables.
+
+Las sanciones previstas en las fracciones III, IV, V, VI, VII, VIII y IX de este artículo, sólo podrán imponerse cuando el incumplimiento o infracción sea grave y/o reiterada.
+
+En todo caso la imposición de las sanciones, será en forma gradual, atendiendo a las circunstancias particulares y a la gravedad de la falta.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA FISCALIZACIÓN DE LAS PRECAMPAÑAS
 
 ###### Artículo 263.
 
-Serán sancionados con multa de cien a mil días de salario mínimo vigente en el Estado, quienes no siendo candidatos infrinjan las disposiciones contenidas en los artículos 123, 137, 145 y 146 de esta Ley.
+Serán sancionados con multa de cien a mil días de salario mínimo vigente en el Estado, quienes no siendo candidatos infrinjan las disposiciones contenidas en los artículos 99, 123, 137, 145 y 146 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 264.
 
-El Instituto conocerá de las irregularidades en que hayan incurrido los partidos políticos, sus dirigentes y candidatos.
+El Instituto conocerá de las irregularidades en que hayan incurrido los partidos políticos, coaliciones y agrupaciones políticas estatales.
 
-Una vez que tenga conocimiento de la irregularidad, el Instituto notificará al partido político, para que en un plazo de cinco días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes, previstas por la Ley de Medios.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Una vez que tenga conocimiento de una irregularidad, el Instituto notificará al partido político, coalición o agrupación política estatal para que en un plazo de cinco días hábiles siguientes a dicha notificación conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes, previstas por la Ley de Medios.
 
 Para la integración del expediente, el Instituto podrá recabar la información y documentación necesaria que tengan las instancias competentes del propio Instituto.
 
 Concluido el plazo a que se refiere el segundo párrafo de este artículo, se formulará el dictamen correspondiente, el cual se someterá al Consejo General para su determinación.
 
-El Consejo General, para fijar y aplicar la sanción correspondiente, tomará en cuenta la reincidencia o gravedad de la falta, que podrá ser hasta la cancelación del registro del partido político.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+El Consejo General, para fijar y aplicar la sanción correspondiente, tomará en cuenta la reincidencia o gravedad de la falta, que podrá ser hasta la pérdida de la acreditación del partido político nacional, o del registro del partido político estatal o de la agrupación política estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Tratándose de suspensión o cancelación se publicará conforme a las formalidades previstas por esta Ley para la publicación del registro de los partidos políticos.
 
 ###### Artículo 265.
 
@@ -2699,7 +2791,13 @@ Todos los partidos políticos debidamente acreditados o registrados ante el Inst
 
 Corresponde a los partidos políticos autorizar a sus militantes o simpatizantes la realización de actividades proselitistas en busca de su nominación a un puesto de elección popular, de manera previa al evento de postulación o designación de candidatos, conforme a sus estatutos, acuerdos de sus órganos de representación y prescripciones de esta Ley.
 
-Los ciudadanos que por si mismos realicen actividades propagandísticas y publicitarias, con el objeto de promover su imagen personal, de manera pública y con el inequívoco propósito de obtener la postulación a un cargo de elección popular, se ajustarán a los plazos y disposiciones establecidos en esta Ley.
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Ningún Partido Político podrá hacer precampaña con un solo aspirante a candidato para ocupar un cargo de elección popular.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Los ciudadanos que por si mismo realicen actividades propagandísticas y publicitarias, con el objeto de promover su imagen personal, de manera pública y con el inequívoco propósito de obtener la postulación a un cargo de elección popular, se ajustarán a los plazos y disposiciones establecidos en esta Ley.
 
 El incumplimiento a esta norma dará motivo a que el Instituto, a través de sus órganos competentes y en la oportunidad correspondiente, les niegue el registro como candidato.
 
@@ -2727,9 +2825,13 @@ III. Propaganda de precampaña electoral: Al conjunto de escritos, publicaciones
 
 IV. Aspirante a candidato: A los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 270.
 
-Los partidos políticos que realicen precampañas deberán dar aviso por escrito al Instituto, sobre sus procesos democráticos internos dentro de los cinco días anteriores a éstos, en los que deberán acompañar un informe de los lineamientos o acuerdos a los que estarán sujetos los aspirantes a candidatos, y adicionalmente, la siguiente información:
+Los partidos políticos a través del Presidente de su Comité Directivo Estatal y/o equivalente, o en su caso por su representante acreditado ante el Instituto, deberán dar aviso por escrito al Instituto del inicio de su proceso democrático interno, dentro de los cinco días anteriores al inicio de éste; asimismo, deberán presentar su normatividad interna, lineamientos y/o acuerdos a los que estarán sujetos los aspirantes a candidatos.
+
+Posteriormente, los partidos políticos, por cada aspirante a candidato que pretendan registrar respecto a un mismo cargo de elección popular, deberán presentar en un mismo momento lo siguiente:
 
 I. Copia del escrito de la solicitud del aspirante a candidato;
 
@@ -2739,21 +2841,25 @@ III. Copia del programa de trabajo del aspirante a candidato;
 
 IV. Nombre del representante del aspirante a candidato;
 
-V. Nombre del responsable de la obtención, administración y gasto de los recursos recabados del aspirante a candidato, y
+V. Nombre del responsable de la obtención, administración y gasto de los recursos recabados del aspirante a candidato; y
 
 VI. Domicilio para oír y recibir notificaciones del aspirante a candidato o su representante.
 
-Las precampañas electorales que realicen los partidos políticos no podrán iniciar antes de los sesenta días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente Ley.
+El Instituto, a través de la Dirección de Partidos Políticos verificará el cumplimiento de los requisitos señalados; de satisfacerlos, dicha Dirección procederá a notificar tanto a los partidos políticos como a sus aspirantes a candidatos, las obligaciones a que quedan sujetos conforme a lo previsto por esta Ley.
+
+Si se advierten omisiones de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que, en un término de tres días, contados a partir de la legal notificación, subsane el o los requisitos omitidos.
+
+En caso de incumplimiento a lo anterior, la Dirección de Partidos Políticos lo hará del conocimiento del Consejo General para que éste determine que dichos aspirantes a candidatos no podrán desarrollar sus actos de precampaña por el partido político que se trate.
+
+Las precampañas electorales que realicen los partidos políticos no podrán iniciar antes de los cuarenta y cinco días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente Ley.
 
 ###### Artículo 271.
 
-En caso de que el aspirante a candidato no informe que desea iniciar la precampaña, tanto el Instituto como los partidos políticos o coaliciones, en su caso, podrán reconocer que una precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, sin menoscabo de las sanciones a las que pueda estar sujeto por los estatutos del partido político correspondiente y esta Ley.
-
-Lo anterior con independencia a que el Instituto, a través de sus órganos competentes y en la oportunidad correspondiente, les niegue el registro como candidato.
+(DEROGADO, P.O. 29 DE JUNIO DE 2007)
 
 ###### Artículo 272.
 
-Una vez notificado el Instituto, por conducto de la Dirección de Partidos Políticos, hará saber al partido político y a los aspirantes a candidatos, conforme a la presente Ley, las obligaciones a que quedan sujetos.
+(DEROGADO, P.O. 29 DE JUNIO DE 2007)
 
 ###### Artículo 273.
 
@@ -2795,7 +2901,9 @@ Se entiende que se promueve la imagen personal, cuando bajo el pretexto de infor
 
 De igual forma, se considera que se promueve la imagen personal, cuando el ejercicio informativo, la acción u obra gubernamental, se realice fuera de la jurisdicción territorial o competencial que tenga asignado en razón del encargo que detenta.
 
-La denuncia para investigar la ilegal promoción de la imagen, podrá ser presentada por los representantes de los partidos políticos ante el Instituto en cualquier tiempo.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+La denuncia para investigar la ilegal promoción de la imagen, únicamente podrá ser presentada por los representantes de los partidos políticos ante el Instituto en cualquier tiempo.
 
 Quienes incurran en tal supuesto, serán sancionados con cualquiera de las sanciones consideradas en las fracciones II y III del artículo 287 del presente ordenamiento, a consideración del Consejo General del Instituto.
 
@@ -2821,13 +2929,17 @@ Los gastos que se efectúen durante la precampaña electoral no serán contabili
 
 Los recursos obtenidos durante una precampaña electoral estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados a favor de los aspirantes a candidatos, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, no comprendidas en el artículo 92 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 280.
 
-Conforme a la naturaleza de las aportaciones que conforman el financiamiento de las precampañas electorales, se sujetarán a lo siguiente:
+Las aportaciones que conforman el financiamiento de las precampañas electorales, se sujetarán al Reglamento que emite el Consejo General a propuesta de la Junta General y a lo siguiente:
 
 I. Las aportaciones en dinero que efectúe cada persona física o moral durante la precampaña electoral tendrán como límite el equivalente a trescientas veces el salario mínimo general vigente en el Estado, debiendo expedirse recibos foliados, en los cuales se harán constar los datos de identificación del aportante, conforme al formato que proponga la Junta General al Consejo General.
 
-II. Los recursos obtenidos mediante autofinanciamiento, se comprobarán conforme a los lineamientos que la Junta General proponga al Consejo General.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+II. Los recursos obtenidos mediante autofinanciamiento se comprobarán en su totalidad;
 
 III. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a ciento cincuenta veces el salario mínimo general vigente en la entidad, deberá justificar plenamente su procedencia;
 
@@ -2835,15 +2947,19 @@ IV. Las aportaciones en especie se harán constar por escrito en contratos celeb
 
 V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente, para el cumplimiento del objeto de la precampaña electoral.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 281.
 
-Los aspirantes a candidato deberán informar regularmente sobre los recursos de que dispongan, su monto, origen, aplicación y destino probables, así como de la estructura que los respalda, sean estos individuos, asociaciones u otros organismos o grupos.
+Los aspirantes a candidato deberán informar sobre los recursos de que dispongan, su monto, origen, aplicación y destino probables, así como de la estructura que los respalda, sean estos individuos, asociaciones u otros organismos o grupos.
 
-Al término de su precampaña electoral presentará un informe general de los ingresos y gastos que haya efectuado, conforme a los lineamientos que proponga la Junta General al Consejo General.
+Al término de su precampaña electoral presentará un informe general de los ingresos y gastos que haya efectuado, conforme al reglamento referido en el artículo 280 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 282.
 
-Una vez que un partido político haya recibido los informes a que se refiere la fracción III del artículo 273 de la presente ley en un plazo no mayor a diez días hábiles informará de ello a la Dirección de Partidos Políticos a efecto de que la Junta General efectúe las observaciones a que haya lugar. La entrega del informe se hará a través del órgano responsable de las finanzas del partido político respectivo.
+Una vez que un partido político haya recibido los informes a que se refiere la fracción III del artículo 273 de la presente ley, en un plazo no mayor a diez días hábiles los presentará a la Dirección de Partidos Políticos a efecto de que realice las observaciones a que haya lugar. La entrega del informe se hará a través del órgano responsable de las finanzas del partido político respectivo.
 
 Los partidos integrarán los informes por cada aspirante a los cargos de elección popular. Para el caso de municipios, solo se presentará el informe correspondiente a los aspirantes a Presidente Municipal.
 
@@ -2877,13 +2993,15 @@ c) Para efectos de presentar la información contenida en el informe, se utiliza
 
 Se permitirá a los aspirantes que reporten en una bitácora todos aquellos gastos menores o que no reúnan los requisitos fiscales, exclusivamente en el rubro de alimentos, viáticos, transporte y gastos menores, hasta por los montos fijados por el Consejo General a propuesta de la Junta General.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 283.
 
-La Dirección de Partidos Políticos, presentará a la Junta General los dictámenes sobre el informe financiero de las precampañas, a más tardar dentro de los diez días posteriores a su recepción, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso.
+La Dirección de Partidos Políticos, presentará a la Junta General los dictámenes sobre el informe financiero de las precampañas, a más tardar dentro de los veinte días posteriores a su recepción, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso, en términos del reglamento referido en el artículo 280 de esta Ley.
 
 ###### Artículo 284.
 
-La Dirección de Partidos Políticos, a través de la Junta General, presentará al Consejo General, los alcances u omisiones técnicas, así como los lineamientos y formatos que los aspirantes a candidato y partidos políticos deberán observar en sus informes de gastos.
+(DEROGADO, P.O. 29 DE JUNIO DE 2007)
 
 ###### Artículo 285.
 
@@ -2899,27 +3017,51 @@ Los partidos políticos o coaliciones que incumplan con las disposiciones de la 
 
 I. Apercibimiento;
 
-II. Multa hasta por mil veces el salario mínimo general vigente en el Estado, y
+II. Multa hasta por mil veces el salario mínimo general vigente en el Estado, y (sic)
 
-III. Pérdida del derecho a registrar como candidato al aspirante a candidato cuando éste se exceda en el tope de gastos de precampaña establecidos o cuando habiendo omitido la entrega de los informes a que se refiere la fracción III del artículo 273 de esta Ley no la subsanara en el término fijado por el Consejo General a propuesta de la Junta General.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-En estos casos, el partido político o coalición podrá registrar como candidato a persona distinta, siempre que los plazos establecidos por la presente Ley lo permitan.
+III. Pérdida del derecho a registrar como candidato al aspirante a candidato; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Cancelación del registro del candidato respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+El aspirante a candidato o candidato, no podrá solicitar su registro por ningún otro partido político o coalición cuando hayan ocasionado que éstos, sean sancionados con las disposiciones establecidas en las fracciones III y IV del presente artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Las sanciones previstas en las fracciones tercera y cuarta, serán impuestas cuando se exceda en el tope de gastos de precampaña establecidos, cuando omitan entregar los informes a que se refiere la fracción III del artículo 273 de esta Ley y no lo subsane en el término fijado por el Consejo General a propuesta de la Junta General; cuando no se ajusten a las disposiciones en la materia o incumplan con los acuerdos o resoluciones emitidos por el Consejo General.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+En los casos de las dos últimas fracciones, el partido político o coalición podrá registrar como candidato a persona distinta, siempre que los plazos establecidos por la presente Ley lo permitan.
 
 ###### Artículo 288.
 
 Para el desahogo de las quejas, se observará el procedimiento siguiente:
 
-I. La queja deberá presentarse por escrito ante la Dirección de Partidos Políticos, debiendo contener, nombre y firma autógrafa del denunciante; narración de hechos; disposiciones legales que a su juicio se hayan infringido, y el ofrecimiento o aportación de pruebas, indicando las que deberán ser requeridas cuando se justifique que habiéndolas solicitado oportunamente por escrito no se las hubieren proporcionado.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+I. La queja deberá presentarse por escrito ante la Oficialía de Partes del Instituto, debiendo contener, nombre y firma autógrafa del representante del partido político respectivo; narración de hechos; disposiciones legales que a su juicio se hayan infringido, y el ofrecimiento o aportación de pruebas, indicando las que deberán ser requeridas cuando se justifique que habiéndolas solicitado oportunamente por escrito no se las hubieren proporcionado.
 
 II. Una vez recibida la queja, la Dirección de Partidos Políticos en coordinación con la Dirección Jurídica, verificará que se hayan cumplido los requisitos señalados en la fracción anterior. Si no se presenta por escrito o no contiene el nombre y firma autógrafa del denunciante, así como, la narración de hechos o las disposiciones legales que se hayan infringido, la queja se desechará de plano.
 
 III. Si no contiene pruebas, dentro de las veinticuatro horas se prevendrá al denunciante para que las subsane dentro de las cuarenta y ocho horas siguientes a partir de su notificación, apercibiéndolo de que en caso de no hacerlo, la desechará de plano.
 
-IV. La Dirección de Partidos Políticos contará con veinticuatro horas para comunicarle al presunto infractor, la interposición de la denuncia en su contra, y lo emplazará para que en un término de cinco días contados a partir del día siguiente al de la notificación, conteste por escrito lo que a su derecho convenga ofreciendo las pruebas que acrediten su defensa.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. La Dirección de Partidos Políticos contará con cuarenta y ocho horas para comunicarle al partido político, coalición y/o ciudadano involucrado, la interposición de la denuncia en su contra, y lo emplazará para que en un término de cinco días contados a partir del día siguiente al de la notificación, conteste por escrito lo que a su derecho convenga ofreciendo las pruebas que acrediten su defensa.
 
 V. La Dirección de Partidos Políticos en coordinación con la Dirección Jurídica, al admitir la contestación, resolverá sobre la admisión de las pruebas ofrecidas por las partes dentro de los tres días hábiles siguientes, ordenando la preparación y desahogo de las mismas, para lo cual contará con un período de siete días hábiles.
 
 VI. Concluido el plazo señalado para el desahogo de las pruebas, la Dirección de la (sic) Partidos Políticos en coordinación con la Dirección Jurídica, resolverá dentro de los diez días hábiles siguientes mediante dictamen que será turnado al Consejo General a efecto de que resuelva sobre la responsabilidad e imponga la sanción correspondiente, o bien, absuelva al presunto infractor.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+El desahogo de las quejas, además de lo previsto en el presente artículo, se deberá ajustar a lo previsto en el reglamento que al efecto emita el Consejo General a propuesta de la Junta General.
 
 La resolución dictada podrá ser impugnada ante el Tribunal.
 
@@ -2958,5 +3100,13 @@ P.O. 3 DE OCTUBRE DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 29 DE JUNIO DE 2007.
+
+PRIMERO.- El presente de Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Instituto Electoral de Quintana Roo emitirá los reglamentos a que se refieren los artículos 280 y 288 de la actual Ley, dentro de los cuarenta y cinco días naturales posteriores a la entrada en vigor del presente Decreto.
 
 # LIBRO CUARTO. DE LAS PRECAMPAÑAS ELECTORALES
