@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2007-02-07"
+last_updated: "2007-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -205,11 +205,15 @@ XII. Las demás que señalen otras disposiciones de carácter general.
 
 La Secretaría de Seguridad Pública en el Estado, en el ámbito de su competencia, será responsable de vigilar el cumplimiento de esta Ley y aplicar las sanciones que correspondan por la realización de las acciones enumeradas en el Artículo 19 en sus fracciones I, IX y XII.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 8.
 
-A los municipios, en el ámbito de su competencia, les corresponde:
+A los Municipios, en el ámbito de su competencia, les corresponde:
 
-I. Celebrar convenios con el Estado para el mejor cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+I. Celebrar convenios con el Estado para el mejor cumplimiento de esta ley; así como de colaboración con las Instituciones autorizadas por la Secretaría de Salud en la entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal.
 
 II. Informar a la autoridad encargada de la expedición de las licencias de conducir, al menos una vez al mes, de aquellas infracciones de vialidad o tránsito cometidas de conformidad con esta Ley;
 
@@ -225,11 +229,15 @@ V. Aplicar, de conformidad con sus reglamentos, las sanciones administrativas qu
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VI. En el caso de las infracciones señaladas en el artículo 19 fracciones VII y VIII de esta Ley, la autoridad municipal estará obligada a registrar las infracciones cometidas, señalando de manera indubitable el nombre del conductor sancionado, y deberá remitir esta información a la autoridad encargada de la expedición y renovación de las licencias de conducir en el Estado, la cual la concentrara en una base de datos; y
+VI. En el caso de las infracciones señaladas en el artículo 19 fracciones VII y VIII de esta Ley, la autoridad municipal estará obligada a registrar las infracciones cometidas, señalando de manera indubitable el nombre del conductor sancionado, y deberá remitir esta información a la autoridad encargada de la expedición y renovación de las licencias de conducir en el Estado, la cual la concentrara en una base de datos; y (sic)
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-VII. Las demás que señalen otras disposiciones de carácter general.
+VII. Contar con el padrón de establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas, mismo que deberá de ser publicado en el portal electrónico de Internet de cada municipio que cuente con éste, de lo contrario deberá publicarse a través de su gaceta oficial municipal o de cualquier otro medio impreso.
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+VIII. Las demás que señalen otras disposiciones de carácter general.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -417,7 +425,9 @@ III. Por incumplimiento a lo supuesto por los Artículos 15, párrafo primero y 
 
 En el caso de reincidencia, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por cinco días.
 
-En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+En el caso de incurrir nuevamente en la violación se aplicará una multa igual que la determinada en el párrafo anterior y se clausurará el establecimiento; la autoridad competente iniciará el trámite correspondiente de baja y revocación de la licencia o permiso que hace referencia el artículo 4 de este ordenamiento legal;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2006)</small>
 
@@ -561,9 +571,11 @@ Las violaciones a los preceptos de esta Ley serán sancionadas sin perjuicio de 
 
 ### CAPÍTULO VI. PROCEDIMIENTO PARA LA SUSPENSIÓN DE LA LICENCIA DE CONDUCIR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 27.
 
-Las autoridades, al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión de licencias, lo notificará de inmediato a la autoridad competente para la expedición y renovación de licencias de conducir, remitiéndole la documentación en la que consten las infracciones cometidas, debiendo retener provisionalmente la licencia de conducir, así como tomar las demás medidas necesarias para evitar que la persona continúe conduciendo el vehículo en estado de ineptitud o ebriedad.
+Las autoridades al tener conocimiento de la comisión de infracciones que tengan como sanción la suspensión de licencias, lo notificará de inmediato a la autoridad competente para la expedición y renovación de licencias de conducir, remitiéndole la documentación en la que consten las infracciones cometidas, debiendo retener en un plazo de hasta 45 días naturales la licencia de conducir, así como tomar las demás medidas necesarias para evitar que la persona continué conduciendo el vehículo en estado de ineptitud o ebriedad.
 
 Inmediatamente después, la autoridad encargada de la expedición y renovación de licencias de conducir, dentro de los siguientes cinco días hábiles notificará al titular de la licencia a fin de que dentro del plazo de quince días hábiles manifieste lo que a su derecho convenga, presente las pruebas y genere los alegatos de su intención.
 
@@ -576,6 +588,12 @@ Una vez decretada la suspensión de la licencia de conducir, la autoridad encarg
 ###### Artículo 29.
 
 La autoridad encargada de la expedición y renovación de las licencias de conducir podrá reactivar la licencia de conducir siempre y cuando el infractor demuestre haber cumplido la sanción, o en su caso, solicite y realice 20 horas de servicio en la comunidad por cada mes que se le haya decretado la suspensión de la licencia de conducir.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+###### Artículo 30.
+
+Cuando se trate de extranjeros que hayan cometido infracciones al contenido del artículo 19 fracción VII de este ordenamiento legal, les será retenida su licencia para conducir, que deberá ser remitida a la autoridad federal correspondiente a fin de que proceda conforme a las leyes aplicables, sin perjuicio del cumplimiento de las sanciones a que haya lugar por la infracción cometida.
 
 ## TRANSITORIOS
 
@@ -628,3 +646,7 @@ P.O. 7 DE FEBRERO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Ejecutivo del Estado y los Ayuntamientos en el ámbito de su respectiva competencia, deberán adecuar, en un término que no exceda de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las disposiciones reglamentarias.
+
+P.O. 29 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
