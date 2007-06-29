@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2003-12-16"
+last_updated: "2007-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -105,9 +105,11 @@ VII. Las demás que señale la Ley.
 
 Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad.
 
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
 ###### Artículo 7.
 
-Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General; una Junta General, una Secretaría General; las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos políticos, y de Administración; las Unidades de: Contraloría Interna, Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada órgano tendrá las atribuciones que señala el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General.
+Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General; una Junta General, una Secretaria General; las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Contraloría Interna, Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada Órgano tendrá las atribuciones que señala el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General.
 
 En los procesos electorales, el Instituto se integrará además, con los Consejos Distritales, Juntas Distritales Ejecutivas y Mesas Directivas de Casilla.
 
@@ -128,6 +130,22 @@ El Consejo General del Instituto es el Organo Superior de Dirección, responsabl
 ###### Artículo 10.
 
 El Consejo General se integrará con un Consejero Presidente y seis Consejeros Electorales con voz y voto; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Las Comisiones permanentes serán las de: Partidos Políticos .y Radio Difusión; Organización Informática y Estadística; Capacitación Electoral y Comunicación Social; Jurídica; Fiscalización; Administración; Transparencia, Información y Estudios Electorales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+El Consejo General integrará las comisiones transitorias que considere necesarias para el desempeño de sus atribuciones. Dichas comisiones estarán integradas por tres consejeros, un secretario técnico y tres representantes de partidos políticos, exceptuando en lo referente a la Comisión de Fiscalización, previo sorteo llevado a cabo por el Consejo General, siempre serán presididas por un Consejero Electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Los Directores y/o Jefes de Unidad de las áreas correspondientes fungirán como Secretarios Técnicos de las Comisiones.
 
 ###### Artículo 11.
 
@@ -197,13 +215,27 @@ VI. Los designados deberán comparecer ante la propia Legislatura o la Diputaci�
 
 El Consejo General tendrá las siguientes atribuciones:
 
+(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+
 I. Expedir los reglamentos internos y estatutos que sean necesarios para el buen funcionamiento del Instituto;
 
-II. Designar, a propuesta del Consejero Presidente, al Secretario General, a los directores de área y a los titulares de las unidades de Contraloría Interna, Comunicación Social, Informática y Estadística, y del Centro de Información Electoral del Instituto, en los términos de la presente Ley;
+> <small>(F. DE E., P.O. 9 DE JULIO DE 2007)</small>
 
-III. Remover en términos de la normatividad correspondiente, a los funcionarios antes señalados cuando dejen de reunir los requisitos para su designación, falten a la probidad o eficiencia o violenten los principios rectores de la función electoral. En todo caso se les otorgara la garantía de audiencia;
+Aprobar su anteproyecto de Presupuesto de Egresos, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, que le presente la Junta General a través del Consejero Presidente, quien ordenará lo conducente para que dichos documentos se integren en tiempo y forma; asimismo vigilará y evaluará su cumplimiento;
 
-IV. Designar de entre las propuestas de al menos el doble, que al efecto realice la Junta General, a los Consejeros Presidentes y Consejeros Electorales Propietarios y Suplentes, así como a los Vocales de los Consejos Distritales del Instituto;
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+
+II. Designar, de las ternas que proponga el Consejero Presidente, al Secretario General, a los directores de área y a los titulares de las unidades técnicas de Contraloría Interna. Comunicación Social, Informática y Estadística, y del Centro de Información Electoral del Instituto, en los términos de la presente Ley;
+
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+
+III. Remover a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de los integrantes del Consejo General, a los funcionarios antes señalados cuando dejen de reunir los requisitos para su designación, falten a la probidad o eficiencia o violenten los principios rectores de la función electoral, en todo caso se les otorgará la garantía de audiencia. Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley;
+
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
+
+IV. Designar entre las propuestas, de al menos el doble por cargo, que al efecto realice la Junta General, a los Consejeros Presidentes y Consejeros Electorales Propietarios y Suplentes, así como a los Vocales de los Consejos Distritales del Instituto;
+
+> <small>(F. DE E., P.O. 9 DE JULIO DE 2007)</small>
 
 V. Resolver en los términos de la Ley Electoral sobre el otorgamiento o pérdida del registro de las agrupaciones políticas, partidos políticos locales, la acreditación ante el Instituto de los partidos políticos nacionales y mandar a publicar las mismas en el Periódico Oficial del Gobierno del Estado; así como resolver respecto de los convenios de coalición que se presenten con motivo de los procesos electorales;
 
@@ -219,7 +251,7 @@ X. Aprobar los convenios que se celebren con el Instituto Federal Electoral y ot
 
 XI. Aprobar los topes de gastos de campaña que puedan efectuar los partidos políticos o coaliciones en términos de la Ley Electoral;
 
-XII. Aprobar el Programa Anual de Actividades y el Presupuesto de Egresos que le presente la Junta General;
+XII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
 XIII. Aprobar los lineamientos en materia de encuestas o sondeos de opinión que formule la Junta General;
 
@@ -261,7 +293,9 @@ XXXI. Remover al Consejero Presidente, Consejeros Electorales y Vocales de los C
 
 XXXII. Proponer a la Legislatura modificaciones a la legislación electoral, con base a las experiencias obtenidas durante los procesos electorales;
 
-XXXIII. Aprobar la creación de comisiones, mismas que estarán integradas por consejeros con derecho a voz y voto, y podrán concurrir a las mismas los representantes de los partidos políticos o coaliciones, de conformidad a los que se señale en el Reglamento Interno del Instituto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XXXIII. Aprobar la creación de comisiones, de conformidad con lo establecido en el artículo 10 de esta Ley;
 
 XXXVI. Llevar a cabo una campaña en los medios de comunicación masiva en la entidad, por lo menos durante dos meses antes del día de la jornada electoral, para hacer del conocimiento público de las diversas conductas que constituyan delito electoral, de acuerdo con lo establecido en el Código Penal del Estado;
 
@@ -273,9 +307,15 @@ XXXVI. Aprobar los lineamientos técnicos para la instrumentación del programa 
 
 XXXVII. Establecer la demarcación territorial en distritos electorales, conforme a lo establecido en la Constitución y en particular, a la Ley Electoral;
 
-XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y
+XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y (sic)
 
-XXXIX.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás que le confieren la Constitución Particular, esta Ley y los ordenamiento electorales.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XXXIX.- Aprobar los lugares y el tiempo en que deberán exhibirse los listados nominales de electores que proponga la comisión de organización, informática y estadística;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2007)</small>
+
+XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás que le confieren la Constitución Particular, esta Ley y los ordenamiento electorales.
 
 ###### Artículo 15.
 
@@ -371,7 +411,9 @@ I. Convocar, presidir y conducir las sesiones del Consejo General y la Junta Gen
 
 II. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General y la Junta General;
 
-III. Proponer al Consejo General el nombramiento del Secretario General, de los directores de área y de los titulares de las unidades y del Centro de Información Electoral; en términos de esta Ley o del Estatuto del Servicio Profesional Electoral, en su caso;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+III. Proponer al Consejo General las ternas para el nombramiento del Secretario General, de los directores de área y de los titulares de las unidades técnicas y del Centro de Información Electoral en términos de esta Ley;
 
 IV. Establecer vínculos entre el Instituto y las autoridades federales, estatales y municipales para lograr su apoyo y colaboración en sus respectivos ámbitos de competencia, cuando sea necesario para el cumplimiento de los fines del Instituto;
 
@@ -387,9 +429,25 @@ IX. Informar oportunamente a la Legislatura del Estado o a la Diputación Perman
 
 X. Firmar junto con el Secretario General todos los acuerdos o resoluciones que emita el Consejo General;
 
-XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca la Ley Electoral y los que determine el Consejo General; y
+XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca la Ley Electoral y los que determine el Consejo General; y (sic)
 
-XII. Las demás que le confieran esta Ley y demás ordenamientos electorales.
+XII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XIII. Representar legalmente al Instituto;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XIV. Otorgar poderes a nombre del Instituto, para actos de administración y de representación. Para otorgar actos de dominio, este deberá ser especial y requerirá de la aprobación del Consejo General;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XV. Coordinar toda la estructura administrativa del Instituto;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XVI. Las demás que le confieren esta Ley y demás ordenamientos electorales.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -409,29 +467,35 @@ III. La Legislatura del Estado o la Diputación Permanente, en su caso, hará el
 
 La Junta General es el Organo de carácter ejecutivo y de naturaleza colegiada, encargado de proponer las políticas generales y los programas del Instituto; aprobar los procedimientos administrativos internos y desarrollarlos; así como ejecutar en el ámbito administrativo las resoluciones y acuerdos del Consejo General.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 32.
 
-La Junta General estará integrada permanentemente, por el Consejero Presidente quien la presidirá; el Secretario General en calidad de coordinador de las direcciones y unidades técnicas; y las Direcciones de Organización, de Capacitación Electoral, Jurídica, de partidos políticos y de administración, así como los titulares de las unidades de Comunicación Social, de Informática y Estadística y del Centro de Información.
+La Junta General será presidida y estará coordinada permanentemente por el Consejero Presidente. La Junta General estará integrada por: la Secretaría General y las Direcciones de Organización, de Capacitación Electoral, Jurídica, de Partidos Políticos y de Administración, quienes conformarán la estructura ejecutiva del Instituto, en tanto que las Unidades Técnicas de Comunicación Social, de Informática y Estadística y del Centro de Información, conformarán la estructura técnica del Instituto.
 
 ###### Artículo 33.
 
 La Junta General tendrá las siguientes atribuciones:
 
-I. Proponer para su aprobación al Consejo General, las políticas generales, el Presupuesto de Egresos, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, conforme a los fines del Instituto; y vigilar y evaluar su cumplimiento con la periodicidad que señale el reglamento respectivo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+I. Elaborar y proponer para su aprobación al Consejo General, las políticas generales, el anteproyecto de Presupuesto de Egresos del Instituto, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, conforme a los fines del Instituto; y vigilar y evaluar su cumplimiento con la periodicidad que señale el reglamento respectivo;
 
 II. Proponer a la aprobación del Consejo General los reglamentos internos, estatutos, así como las modificaciones a los mismos, en su caso, que sean necesarios para el buen funcionamiento del Instituto;
 
 III. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto;
 
-IV. Evaluar el desempeño del Servicio Profesional Electoral, y en su caso, hacer cumplir las disposiciones del Estatuto que regule el Servicio Profesional Electoral;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Evaluar el desempeño del Servicio Profesional Electoral, y en su caso, hacer cumplir las disposiciones del Estatuto que regule dicho servicio, que estará a cargo de la Dirección de Administración;
 
 V. Supervisar el cumplimiento de las normas aplicables al otorgamiento o cancelación de registro o acreditación, en su caso, de las agrupaciones políticas, partidos políticos y coaliciones, así como de su financiamiento y prerrogativas;
 
-VI. Revisar el proyecto de dictamen que formule la Dirección de Partidos Políticos relacionada con la presentación de los informes financieros ordinarios o para la obtención del voto que presenten los partidos políticos;
+VI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-VII. Remitir al Consejo General la lista de candidatos a Consejeros Presidentes y a Consejeros Electorales, así como a los Vocales de las Juntas Distritales Ejecutivas del Instituto;
+VII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-VIII. Proponer al Consejo General los lugares donde deberá exhibirse la lista nominal de electores durante el período que determine ese Organo Superior de Dirección;
+VIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
 IX. Recibir de los partidos políticos, las observaciones a la lista nominal de electores, para su registro y remisión, previo acuerdo del Consejo General, a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral;
 
@@ -451,11 +515,11 @@ La Junta General se reunirá por lo menos una vez al mes en sesiones ordinarias 
 
 Del Secretario General.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 35.
 
-El Secretario General es el Secretario de Acuerdos del Consejo General y Coordinador de la Junta General del Instituto y, en auxilio del Consejero Presidente, enlaza y orienta a los Consejos Distritales y las Juntas Distritales Ejecutivas con el Organo Superior de Dirección para el cumplimiento de sus acuerdos.
-
-El Secretario General será nombrado y removido con el voto de las dos terceras partes de los Miembros del Consejo General.
+El Secretario General es el Secretario de Acuerdos del Consejo General. El Secretario General, cuando así lo determine el Consejero Presidente orientará a los Consejos Distritales y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
 
 ###### Artículo 36.
 
@@ -499,7 +563,7 @@ VII. Integrar los expedientes con las actas de cómputo para la asignación de D
 
 VIII. Expedir los documentos que acrediten la personalidad de los Consejeros Electorales y de los representantes de las agrupaciones políticas acreditadas ante el Instituto y de los partidos políticos o coaliciones ante el Consejo General;
 
-IX. Tramitar, con el auxilio de la Dirección Jurídica, los recursos que se interpongan ante el Consejo General y rendir los informes sobre los que se tramiten ante el Tribunal Electoral, en la forma y términos previstos por la Ley de Medios;
+IX. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
 X. Informar al Consejo General de las resoluciones emitidas por los Tribunales y tomar las medidas necesarias para su cumplimiento;
 
@@ -507,11 +571,11 @@ XI. Firmar, junto con el Consejero Presidente del Consejo General, todos los acu
 
 XII. Preparar, previo acuerdo con el Consejero Presidente, el orden del día de las reuniones de la Junta General, dar fe de lo actuado y acordado en ellas, levantar el acta correspondiente y someterla a la aprobación de ese órgano colegiado;
 
-XIII. Representar legalmente al Instituto;
+XIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-XIV. Otorgar poderes, a nombre del Instituto, para actos de administración y de representación, previo acuerdo del Consejero Presidente, los que deberá hacer del conocimiento del Consejo General. Para otorgar poder para actos de dominio, éste deberá ser especial y requerirá de la autorización previa del propio Consejo;
+XIV. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-XV. Elaborar, en coordinación con las direcciones vinculadas, los anteproyectos de estatutos que sean necesarios;
+XV. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
 XVI. Llevar el control del archivo y los libros oficiales del Instituto;
 
@@ -525,21 +589,27 @@ De las Funciones Ejecutivas del Secretario General.
 
 ###### Articulo 42.
 
-El Secretario General, en sus funciones ejecutivas velará por la eficiencia, unidad y cohesión de las actividades a cargo de las direcciones y unidades del Instituto, en los términos establecidos por esta Ley, y coordinará el cumplimiento de los acuerdos de la Junta General en las Vocalías Distritales del Instituto.
+(DEROGADO, P.O. 29 DE JUNIO DE 2007)
 
 ###### Articulo 43.
 
-El Secretario General será el coordinador de toda la estructura administrativa del Instituto.
+(DEROGADO, P.O. 29 DE JUNIO DE 2007)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 44.
 
-Para efectos del artículo anterior son atribuciones del Secretario General del Instituto, las siguientes:
+Son atribuciones ejecutivas del Secretario General del Instituto, las siguientes:
 
-I. Cumplir los acuerdos del Consejo General y de la Junta General, e instrumentar las disposiciones contenidas en los reglamentos y manuales de organización y procedimientos, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-II. Coordinar el desarrollo y avance de las actividades a cargo de las direcciones, unidades y del Centro del Información Electoral, así como el cumplimiento de los acuerdos del Consejo General y de la Junta General en las Vocalías Ejecutivas Distritales, por conducto de sus respectivos Vocales Ejecutivos;
+I. Cumplir los acuerdos del Consejo General y de la Junta General;
 
-III. Someter a la consideración de la Junta General el Anteproyecto de Presupuesto de Egresos del Instituto y el Programa Anual de Actividades;
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+II. Auxiliará al Consejero Presidente en la coordinación del desarrollo y avance de las actividades a cargo de las direcciones, unidades y del Centro de Información Electoral, así como el cumplimiento de los acuerdos del Consejo General y de la Junta General en las Vocalías Ejecutivas Distritales, por conducto de sus respectivos Vocales Ejecutivos;
+
+III. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
 IV. Preparar para la aprobación de la Junta General, el Proyecto de Calendario Operativo para elecciones ordinarias y extraordinarias, de acuerdo con las convocatorias respectivas e instrumentar su cumplimiento en el ámbito de su competencia;
 
@@ -549,9 +619,13 @@ VI. Las demás que le confiera esta Ley, el Consejo General o el Consejero Presi
 
 ### Capítulo Sexto. De las Direcciones de Área del Instituto
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 45.
 
-El Instituto contará, dentro de sus Organos Centrales, con las Direcciones de Organización, de Capacitación Electoral, Jurídica, de Partidos políticos y de Administración, las que estarán adscritas a la Secretaría General.
+El Instituto contará, dentro de sus Órganos Centrales con las Direcciones de Organización, de Capacitación Electoral, Jurídica, de Partidos políticos y de Administración, las que estarán adscritas a la Presidencia del Instituto.
+
+Al frente de cada una de estas direcciones de área habrá un Director que será nombrado y removido por el Consejo General, a propuesta del Consejero Presidente.
 
 ###### Artículo 46.
 
@@ -567,15 +641,21 @@ IV. Poseer título y cédula profesional preferentemente, en áreas o disciplina
 
 V. Contar con experiencia en el área correspondiente.
 
-Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VII, VIII, IX, X, XI, XII y XIII, del Artículo 11 de la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VII, VIII, XI y XIII, del Artículo 11 de la presente Ley.
 
 ###### Artículo 47.
 
 Los directores serán sustituidos en sus ausencias temporales, por el funcionario que designe el Consejero Presidente.
 
-En caso de ausencia definitiva, se procederá al nombramiento de un nuevo director en términos de esta Ley y, en su caso, en el estatuto que regule el Servicio Profesional Electoral.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
-Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley, y en su caso, en el estatuto que regule el Servicio Profesional Electoral.
+En caso de ausencia definitiva, se procederá al nombramiento de un nuevo director en términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley.
 
 ###### Artículo 48.
 
@@ -597,7 +677,9 @@ VII. Elaborar, supervisar y evaluar los sistemas logísticos para el resguardo y
 
 VIII. Establecer y aplicar los lineamientos para la integración, uso y resguardo de los archivos documentales de los Organos Desconcentrados del Instituto;
 
-IX. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IX. Acordar con el Consejo Presidente los asuntos de su competencia; y
 
 X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
 
@@ -605,7 +687,9 @@ X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y l
 
 La Dirección de Capacitación Electoral tendrá las siguientes atribuciones:
 
-I. Elaborar y proponer a la Junta General los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que desarrollarán los Organos del Instituto, debiendo someterse a la aprobación del Consejo General a través del Secretario General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+I. Elaborar y proponer a la Junta General los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que desarrollarán los Organos del Instituto, debiendo someterse a la aprobación del Consejo General, a través del Consejero Presidente;
 
 II. Coordinar y vigilar el cumplimiento de los programas señalados en la fracción anterior;
 
@@ -615,13 +699,15 @@ IV. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento d
 
 V. Ejecutar y supervisar el cumplimiento del Programa de Capacitación aprobado por el Consejo General para la integración de las Mesas Directivas de Casilla;
 
-VI. Coadyuvar en la elaboración del proyecto del Estatuto del Servicio Profesional Electoral, sometiéndolo a la aprobación del Consejo General, a través de la Junta General;
+VI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-VII. Cumplir con las obligaciones que le señale el Estatuto del Servicio Profesional Electoral;
+VII. (DEROGADA, P.O. 20 DE JUNIO DE 2007)
 
 VIII. Llevar a cabo los programas de capacitación, evaluación y apoyar en la selección de los integrantes de los Organos Desconcentrados del Instituto;
 
-IX. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IX. Acordar con el Consejero Presidente los asuntos de su competencia; y
 
 X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
 
@@ -629,25 +715,33 @@ X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y l
 
 La Dirección Jurídica tendrá las siguientes atribuciones:
 
-I. Apoyar al Secretario General en la substanciación de procedimientos a su cargo, en la elaboración de proyectos de resolución y los acuerdos del Consejo General, así como en la defensa legal del Instituto ante las distintas autoridades jurisdiccionales y administrativas;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+I. Apoyar al Consejero Presidente en la elaboración de proyectos de resolución y los acuerdos previstos en esta Ley, así como al Consejero Presidente en la defensa legal del Instituto ante las distintas autoridades jurisdiccionales y administrativas;
 
 II. Intervenir en la elaboración y revisión de los proyectos de reglamentos internos, estatutos, manuales de organización y procedimientos, lineamientos, contratos, convenios y demás actos de los Organos del Instituto;
 
 III. En su caso, Integrar los expedientes relativos a las faltas administrativas, los de imposición de sanciones, en los términos de la legislación o normatividad aplicable;
 
-IV. Elaborar los contratos de arrendamiento y de prestación de servicios que celebre el Instituto, así como los demás documentos que impliquen actos de administración, conforme a los lineamientos que fije la Secretaria General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Elaborar los contratos de arrendamiento y de prestación de servicios que celebre el Instituto, así como los demás documentos que impliquen actos de administración, conforme a los lineamientos que fije el Consejero Presidente;
 
 V. Asesorar y apoyar a los Organos Centrales y Desconcentrados del Instituto, para que sus actividades se rijan con apego a los principios de constitucionalidad y legalidad;
 
 VI. Apoyar al Consejero Presidente del Consejo General y al Secretario General en el trámite y seguimiento de los requerimientos formulados por autoridades jurisdiccionales federales y locales;
 
-VII. Auxiliar a la Secretaría General en el trámite y seguimiento de los medios de impugnación, federales y locales, en materia electoral;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+VII. Auxiliar al Consejero Presidente en el trámite y seguimiento de los medios (sic) impugnación, federales y locales, en materia electoral;
 
 VIII. Realizar los estudios y análisis jurídicos correspondientes, para promover la cultura política y democrática y fortalecer el régimen interior del Instituto, conforme a la legislación aplicable, coadyuvando con la Dirección de Capacitación Electoral;
 
 IX. Elaborar los proyectos de resolución de los recursos de revocación en términos de lo previsto por la Ley de Medios;
 
-X. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+X. Acordar con el Consejero Presidente los asuntos de su competencia; y
 
 XI. Las demás que le señale esta Ley, la Ley Electoral, el Consejo General y la Junta General.
 
@@ -673,25 +767,37 @@ VIII. Llevar los libros de registro de los candidatos a los cargos de elección 
 
 IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos y coaliciones en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley Electoral;
 
-X. Organizar los programas de radio y televisión a que tienen derecho los partidos políticos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+X. Organizar los programas de radio y televisión a que tienen derecho los partidos políticos en los medios de comunicación propiedad del Estado;
 
 XI. Elaborar propuestas para la organización de debates entre candidatos;
 
-XII. Elaborar lineamientos técnicos para la presentación de los informes de origen, monto y aplicación de los ingresos de los partidos políticos, coaliciones y agrupaciones políticas los que serán sometidos a consideración del Consejo General para su aprobación, a través de la Secretaria General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-XIII. Establecer lineamientos para que los partidos políticos lleven el registro de sus ingresos y egresos y de la documentación comprobatoria, los que serán sometidos a consideración del Consejo General para su aprobación, a través de la Secretaria General;
+XII. Elaborar lineamientos técnicos para la presentación de los informes de origen, monto y aplicación de los ingresos y egresos de los partidos políticos, coaliciones y agrupaciones políticas los que serán sometidos a consideración del Consejo General para su aprobación;
 
-XIV. Analizar los informes anuales y de campaña que presenten los partidos políticos y coaliciones con los cuales den cuenta del origen y monto de los ingresos que percibieron durante el ejercicio inmediato anterior, por cualquier tipo de financiamiento, así como su aplicación y empleo, presentando vía la Junta General el proyecto de dictamen correspondiente;
+XIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XIV. Analizar los informes anuales y de campaña que presenten los partidos políticos, coaliciones y agrupaciones políticas estatales, con los cuales den cuenta del origen y monto de los ingresos que percibieron durante el ejercicio inmediato anterior, por cualquier tipo de fínanciamiento, así como su aplicación y empleo, presentando vía Comisión de Fiscalización, el proyecto de dictamen correspondiente;
 
 XV. Ordenar, previo acuerdo del Consejo General, la realización de auditorías a los partidos políticos, coaliciones y agrupaciones políticas;
 
-XVI. Presentar a la Junta General los dictámenes que se formulen respecto de las auditorías practicadas a los partidos políticos, coaliciones y agrupaciones políticas, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso;
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
 
-XVII. Revisar que los partidos políticos presenten, conjuntamente con el informe anual, sus estados financieros dictaminados por el despacho contable autorizado;
+XVI. Presentar a la Comisión de Fiscalización los Dictámenes que se formulen respecto de las auditorías practicadas a los partidos políticos, coaliciones y agrupaciones políticas, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso;
 
-XVIII. Establecer los criterios para vigilar permanentemente el cumplimiento de los topes de gastos de campaña que acuerde el Consejo General, así como solicitar a éste, a través de la Secretaria General, la realización de las revisiones precautorias;
+XVII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
-XIX. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XVIII. Establecer los criterios para vigilar permanentemente el cumplimiento de los topes de gastos de campaña que acuerde el Consejo General;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XIX. Acordar con el Consejero Presidente los asuntos de su competencia; y
 
 XX. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
 
@@ -709,7 +815,9 @@ IV. Establecer y operar los sistemas administrativos para el ejercicio del Presu
 
 V. Realizar las gestiones necesarias para la liberación y comprobación de los recursos financieros autorizados en el Presupuesto de Egresos;
 
-VI. Elaborar y firmar la documentación para las erogaciones que con cargo al Presupuesto de Egresos aprobado, deba ejercer el Instituto, previa autorización del Secretario General;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+VI. Elaborar y firmar la documentación para las erogaciones que con cargo al Presupuesto de Egresos aprobado, deba ejercer el Instituto, previa autorización del Consejero Presidente;
 
 VII. Planear, dirigir y controlar las actividades referentes a adquisiciones, enajenaciones, arrendamientos, almacenes y suministros de bienes y servicios, conforme a los lineamientos institucionales;
 
@@ -717,27 +825,39 @@ VIII. Elaborar las bases y los procedimientos de licitación pública para la co
 
 IX. Atender las necesidades administrativas de los Organos del Instituto;
 
-X. Aplicar las normas y lineamientos para el reclutamiento, capacitación, contratación y desarrollo del personal del Instituto, integrando los expedientes respectivos de conformidad a los procedimientos administrativos y de recursos humanos, aprobados por la Junta General y los establecidos en el Estatuto del Servicio Profesional Electoral;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+X. Aplicar las normas y lineamientos para el reclutamiento, capacitación, contratación y desarrollo del personal administrativo del Instituto, integrando los expedientes respectivos de conformidad a los procedimientos administrativos y de recursos humanos, aprobados por la Junta General y los establecidos en el Estatuto del Servicio Profesional Electoral, cuyas acciones quedarán bajo su cargo y tendrán efecto sobre el personal administrativo del Instituto;
 
 XI. Vigilar y supervisar a los Organos Desconcentrados en el manejo y operación de los recursos materiales, financieros y humanos otorgados;
 
 XII. Promover el diseño de sistemas automatizados e informáticos, que coadyuven a la elaboración de los controles administrativos;
 
-XIII. Proponer a la Junta General para su aprobación, los manuales de organización, catálogo de cargos políticos, normas y criterios técnicos en materia administrativa, para la mejor organización y funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XIII. Proponer a la Junta General para su aprobación, los manuales, Estatuto del Servicio Profesional, normas y criterios técnicos en materia administrativa, para la mejor organización y funcionamiento del Instituto;
 
 XIV. Suministrar, previa autorización, a los partidos políticos, coaliciones y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
 
-XV. Acordar con el Secretario General los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-XVI. Coadyuvar en la elaboración de los estatutos; y
+XV. Acordar con el Consejero Presidente los asuntos de su competencia;
 
-XVII. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+XVI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XVII. Autorizar las altas, bajas y readscripción del personal administrativo del Instituto, previa autorización del Consejero Presidente; y
+
+XVIII. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
 
 ### Capítulo Séptimo. De las Unidades Técnicas
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 53.
 
-Los titulares de las Unidades Técnicas de Comunicación Social; de Informática y Estadística; y del Centro de Información Electoral, serán nombrados por el Consejo General, a propuesta del Consejero Presidente.
+El Instituto contará, dentro de sus órganos centrales, con una estructura técnica, la cual se conformará por las Unidades Técnicas de Comunicación Social; de Informática y Estadística; y del Centro de Información Electoral, y sus titulares serán nombrados y removidos por el Consejo General, a propuesta del Consejero Presidente.
 
 ###### Artículo 54.
 
@@ -755,9 +875,11 @@ V. Contar con experiencia en el área correspondiente.
 
 Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VII, VIII, X, XI, XII y XIII, del Artículo 11 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 55.
 
-Las ausencias temporales de los titulares a que se refieren los artículos anteriores, serán cubiertas por los servidores electorales que designen el Consejero Presidente o el Secretario General, según corresponda.
+Las ausencias temporales de los titulares a que se refieren los artículos anteriores, serán cubiertas por los servidores electorales que designen (sic) el Consejero Presidente.
 
 ###### Artículo 56.
 
@@ -781,9 +903,11 @@ VIII. Acordar con el Consejero Presidente los asuntos de su competencia; y
 
 IX. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General, la Junta General y el Consejero Presidente del Consejo General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 57.
 
-La Unidad de Informática y Estadística estará adscrita a la Junta General, y su titular tendrá las siguientes atribuciones:
+La Unidad Técnica de Informática y Estadística, estará adscrita a la Junta General, y su titular tendrá las siguientes atribuciones:
 
 I. Coordinar las actividades informáticas, estableciendo lineamientos de procesamiento de datos para eficientar el desarrollo de las actividades de los Organos del Instituto;
 
@@ -791,7 +915,9 @@ II. Administrar, coordinar y racionalizar los recursos técnicos que requieran l
 
 III. Investigar, determinar y gestionar la adquisición de equipo y programas de cómputo que sean convenientes para los Organos que integran el Instituto;
 
-IV. Proponer a la Secretaria General la distribución y asignación de los equipos de cómputo, de acuerdo a las necesidades de los diferentes Organos del Instituto;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Proponer al Consejero Presidente la distribución y asignación de los equipos de cómputo, de acuerdo a las necesidades de los diferentes Órganos del Instituto;
 
 V. Establecer integralmente los lineamientos en materia de procesamiento electrónico de datos, en tal forma que se obtenga información veraz, confiable y oportuna;
 
@@ -813,13 +939,19 @@ XIII. Establecer relación con áreas de informática de otros Organismos Electo
 
 XIV. Diseñar e instrumentar, previa aprobación, el Programa de Resultados Preliminares Electorales;
 
-XV. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-XVI. Las demás que le confiere esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+XV. Acordar con el Consejero Presidente los asuntos de su competencia; y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XVI. Las demás que le confiera esta Ley, la Ley Electoral y el Consejero Presidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 58.
 
-El Centro de Información Electoral, estará adscrito a la Junta General, y su titular tendrá las siguientes atribuciones:
+La Unidad Técnica del Centro de Información Electoral, estará adscrito a la Junta General, y su titular tendrá las siguientes atribuciones:
 
 I. Organizar y custodiar el acervo bibliográfico, hemerográfico, videográfico y documental del Instituto;
 
@@ -833,9 +965,13 @@ V. Coordinar y vigilar el desarrollo del programa editorial del Instituto;
 
 VI. Difundir los servicios que preste y promover la consulta de las obras editoriales y demás publicaciones del Instituto;
 
-VII. Acordar con el Secretario General los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
 
-VIII. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+VII. Acordar con el Consejero Presidente los asuntos de su competencia; y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+VIII. Las demás que le confiera esta Ley, la Ley Electoral y el Consejero Presidente.
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -907,7 +1043,9 @@ VIII. Revisar la ubicación de casillas propuesta por el Instituto y realizar la
 
 IX. Realizar las insaculaciones necesarias, de entre quienes cumplan los requisitos de ley, a fin de seleccionar a los funcionarios de las Mesas Directivas de Casillas en el ámbito de sus respectivos Distritos, conforme al procedimiento señalado por esta Ley, así como asegurarse de que los nombramientos de los funcionarios de casillas sean oportunamente recibidos, o en su caso, tomar las medidas pertinentes a fin de que se designe a los funcionarios sustitutos;
 
-X. Nombrar, a propuesta de sus integrantes con derecho a voz y voto, los asistentes necesarios para el ejercicio de sus funciones en un número que no podrá ser mayor al diez por ciento de las casillas que comprenden el Municipio salvo que por razones fundadas acuerde incrementar, sujeto desde luego, a la disponibilidad presupuestal del Instituto.
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+X.- Nombrar, a propuesta de sus integrantes con derecho a voz y voto, los asistentes necesarios para el ejercicio de sus funciones en un número que no podrá ser mayor al veinte por ciento de las casillas que comprenden el distrito salvo que por razones fundadas acuerde incrementar, sujeto desde luego, a la disponibilidad presupuestal del Instituto.
 
 Sus funciones serán auxiliar al proceso de capacitación o selección de los integrantes de las Mesas Directivas de Casillas, de comunicación entre éstas y los Consejos Distritales Electorales y las demás que expresamente les ordenen estos últimos. En ningún caso podrán sustituir en sus funciones a los funcionarios de casilla.
 
@@ -935,7 +1073,9 @@ XXI. Solicitar el auxilio de la fuerza pública para garantizar el normal desarr
 
 XXII. Dejar constancia de cada sesión, en las actas correspondientes. Una vez aprobadas, se entregará copia de cada acta a los Integrantes del Consejo Distrital, enviándose una de éstas al Consejo General a través de la Dirección de Organización;
 
-XXIII. Tomar las medidas necesarias para la exhibición de la lista nominal de electores, en los plazos y términos que acuerde la Junta General;
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+XXIII.- Tomar las medidas necesarias para la exhibición de la lista nominal de electores, en los plazos y términos que acuerde el Consejo General;
 
 XXIV. Cumplir con los programas que determine la Junta General;
 
@@ -943,9 +1083,15 @@ XXV. Vigilar el cumplimiento de las disposiciones legales y lineamientos relativ
 
 XXVI. Recibir, en el ámbito de su competencia, las solicitudes de registro como observadores electorales, así como vigilar que se imparta a los solicitantes el curso de capacitación respectivo, y remitir las peticiones al Consejo General para los efectos legales que correspondan;
 
-XXVII. Aprobar el orden del día de sus sesiones; y
+XXVII. Aprobar el orden del día de sus sesiones; y (sic)
 
-XXVIII. Las demás que le confiera el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y la Junta General.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+XXVIII.- Recibir, revisar y verificar los contenidos de los paquetes electorales que el Instituto envíe a los Consejos Distritales; y
+
+(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+XXIX.- Las demás que le confiera el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y la Junta General.
 
 ###### Artículo 66.
 
@@ -971,7 +1117,9 @@ I. Convocar y conducir las sesiones del Consejo Distrital;
 
 II. Recibir las solicitudes de registro de candidaturas a Diputados por el Principio de Mayoría Relativa, y en su caso, las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
 
-III. Dar cuenta al Secretario General, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+III. Dar cuenta al Consejero Presidente del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
 
 IV. Expedir la constancia de mayoría a la fórmula de candidatos a Diputados por el Principio de Mayoría Relativa, en los términos establecidos en la Ley Electoral;
 
@@ -1099,15 +1247,19 @@ El procedimiento para la integración de las Mesas Directivas de Casilla, será 
 
 I. Del 1º al 10 de noviembre del año anterior a la elección, el Consejo General procederá a elegir por sorteo el mes que servirá de base para la insaculación de los integrantes de las Mesas Directivas de Casilla.
 
-II. Del 11 al 15 de noviembre del año anterior de la elección, el Instituto en coordinación con el Registro Federal de Electores, y en presencia de los representantes de los partidos políticos o coaliciones que así lo deseen, procederán a extraer de las listas nominales de electores formuladas con corte al 31 de Agosto del año anterior de la elección, a cuando menos un 20% de ciudadanos por cada sección electoral, sin que en ningún caso, el número de ciudadanos de insaculados sea menor a 50. En caso necesario, se seleccionará los nacidos en los meses siguientes hasta alcanzar el mínimo.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+II. Del 11 al 15 de noviembre del año anterior de la elección, el Instituto en coordinación con el Registro Federal de Electores, y en presencia de los representantes de los partidos políticos o coaliciones que así lo deseen, procederán a extraer de las listas nominales de electores formuladas con corte al 31 de Agosto del año anterior de la elección, a cuando menos un 10% de ciudadanos por cada sección electoral, sin que en ningún caso, el número de ciudadanos de insaculados sean menor a 50. En caso necesario, se seleccionará los nacidos en los meses siguientes hasta alcanzar el mínimo;
 
 III. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente ordenamiento, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso local electoral inmediato anterior; y
 
 IV. Los Consejos Distritales notificarán del 16 al 30 de noviembre del año anterior de la elección a los ciudadanos insaculados, y además, les impartirán un curso de capacitación a los que cumplan con los requisitos. Dicho curso contendrá los temas y la información que el Consejo General apruebe mediante el programa de capacitación y los materiales didácticos a utilizar.
 
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
 ###### Artículo 75.
 
-Durante el mes de diciembre del año anterior al de la elección, los Consejos Distritales procederán a una segunda insaculación, la cual se realizará de la siguiente forma:
+Durante el mes de noviembre del ano anterior al de la elección, los Consejos Distritales procederán a una segunda insaculación, la cual se realizará de la siguiente forma:
 
 I. Se presentará a los integrantes del Consejo, un listado de los ciudadanos capacitados y que cumplan con los requisitos establecidos por este ordenamiento, siendo ordenado el listado de manera alfabética y por sección electoral;
 
@@ -1117,7 +1269,9 @@ III. Una vez obtenidos los nombres de los 7 ciudadanos, se organizarán por grad
 
 IV. Partiendo del orden de la lista organizada de mayor a menor escolaridad, se designarán los cargos a desempeñar empezando por los cuatro propietarios y posteriormente los tres suplentes generales.
 
-Si aplicadas las medidas señaladas en las fracciones anteriores no fuesen suficientes los ciudadanos para cubrir todos los cargos, el Consejo Distrital procederá a obtener de la lista nominal, al menos el doble de los que hagan falta, partiendo de la misma letra sorteada y del mes subsecuente al utilizado en la primera insaculación, para que sean convocados, capacitados, evaluados y designados como funcionarios de las Mesas Directivas de Casilla. El Consejo General acordará los criterios para la aplicación de este último procedimiento.
+(REFORMADO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+Si aplicadas las medidas señaladas en las fracciones anteriores no fuesen suficientes los ciudadanos para cubrir todos los cargos, el Consejo Distrital procederá a obtener de la lista nominal, al menos el doble de los que hagan falta, partiendo de la misma letra sorteada y el mes subsecuente al utilizado en la primera insaculación, para que sean convocados, capacitados, evaluados y designados como funcionarios de las Mesas Directivas de Casilla. El Consejo General acordará los criterios para la aplicación de este último procedimiento.
 
 ###### Artículo 76.
 
@@ -1163,9 +1317,13 @@ VIII. Fijar en lugar visible al exterior de la casilla los resultados del cómpu
 
 IX. Turnar oportunamente al Consejo Distrital, los paquetes electorales y las copias de la documentación respectiva en los términos de Ley Electoral;
 
-X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y
+X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y (sic)
 
-XI. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+XI. Identificar con su credencial para votar con fotografía y pertenecer al listado nominal, a los que estando en la fila se conviertan por ausencia de los insaculados en funcionarios de casilla; y
+
+XII. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
 
 ###### Artículo 79.
 
@@ -1177,7 +1335,9 @@ II. Contar el número de boletas electorales recibidas antes de iniciar la votac
 
 III. Comprobar que el nombre del elector figure en la lista nominal correspondiente;
 
-IV. Recibir los escritos de protesta y de incidentes que presenten los representantes de los partidos políticos y coaliciones, haciendo constar tal hecho en el apartado correspondiente del acta de la jornada electoral;
+(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+IV. Recibir los escritos de protesta y de incidentes sin mediar discusión alguna que presenten los representantes de los partidos políticos y coaliciones, haciendo constar tal hecho en el apartado correspondiente del acta de la jornada electoral;
 
 V. Inutilizar las boletas sobrantes de conformidad con lo dispuesto por la Ley Electoral; y
 
@@ -1211,7 +1371,9 @@ En cada uno de los Distritos Electorales Uninominales, los partidos políticos o
 
 Sólo habrán representantes de partidos cuando éstos participen por sí solos en el proceso electoral, y de la coalición en caso de haberse autorizado, ante los Órganos del Instituto.
 
-Los representantes de los partidos o coaliciones ante las Mesas Directivas de Casilla, deberán pertenecer y estar inscritos en la Sección Electoral del Padrón Electoral, al que pertenezca la Mesa Directiva de Casilla ante la cual se pretende acreditar. Los representantes generales, deberán pertenecer y estar inscritos en la Sección Electoral del Padrón Electoral, al que pertenezca una de las Mesas Directivas de Casilla ante las cuales se pretende acreditar.
+(REFORMADO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
+
+Los representantes de los partidos o coaliciones ante las Mesas Directivas de Casilla, deberán contar con credencial electoral con fotografía y estar inscrito en el listado nominal de alguna sección perteneciente al Municipio donde se instale la Mesa Directiva de Casilla ante la cual se pretende acreditar. Los representantes generales, deberán pertenecer y estar inscritos en el listado nominal de alguna sección electoral del Municipio al que pertenezca una de las Mesas Directivas de Casilla ante las cuales se pretende acreditar.
 
 ###### Artículo 82.
 
@@ -1239,13 +1401,17 @@ El Consejo General deberá emitir la resolución que corresponda y la comunicar�
 
 ### Capítulo Primero. De la Contraloría Interna
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 85.
 
-La Contraloría Interna del Instituto es la unidad administrativa encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos y servidores electorales. Estará adscrita al Consejo General, bajo la coordinación del Consejero Presidente, y gozará de autonomía en el ejercicio de sus atribuciones.
+La Unidad Técnica de Contraloría Interna del Instituto es la unidad administrativa encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos y servidores electorales. Estará adscrita al Consejo General, bajo la coordinación del Consejero Presidente, y gozará de autonomía en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 86.
 
-El titular de la Contraloría Interna del Instituto, deberá satisfacer los siguientes requisitos:
+El titular de la Unidad Técnica de Contraloría Interna del Instituto, deberá satisfacer los siguientes requisitos:
 
 I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense con una residencia efectiva de diez años en la entidad y cinco años de vecindad en cualquiera de los Municipios del Estado, anteriores a la designación, por lo menos;
 
@@ -1263,13 +1429,17 @@ VII. No haber estado sujeto a procedimiento de responsabilidad.
 
 Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VI, VII, VIII, IX, X, XI, XII y XIII del Artículo 11 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 87.
 
-El Titular de la Contraloría Interna del Instituto, será nombrado y removido por las dos terceras partes del Consejo General, a propuesta del Consejero Presidente. Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejero Presidente de entre los que le sigan en jerarquía.
+El titular de la Unidad Técnica de Contraloría Interna del Instituto, será nombrado y removido por las dos terceras partes del Consejo General, a propuesta del Consejero Presidente. Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejero Presidente de entre los que le sigan en jerarquía.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 88.
 
-La Contraloría Interna del Instituto, tendrá las siguientes atribuciones:
+La Unidad Técnica de Contraloría del Instituto, tendrá las siguientes atribuciones:
 
 I. Proponer al Consejo General o a la Junta General, en su caso, los contenidos del Programa Anual de Auditoría Interna del Instituto;
 
@@ -1295,7 +1465,9 @@ XI. Rendir un informe trimestral y anual de sus actividades al Consejo General;
 
 XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
 
-XIII. Emitir opinión sobre las normas de contabilidad y de control en materia de programación; presupuestación; administración de recursos humanos, materiales, financieros y servicios, que elaboren la Secretaría General y la Dirección de Administración;
+> <small>(F. DE E., P.O. 27 DE JULIO DE 2007)</small>
+
+XIII.- Emitir opinión sobre las normas de contabilidad y de control en materia de programación; presupuestación; administración de recursos humanos, materiales, financieros y servicios, que elabore la Dirección de Administración, al Consejo General;
 
 XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
 
@@ -1347,25 +1519,33 @@ IV. Destitución del cargo; e
 
 V. Inhabilitación para ocupar un cargo en los Organos del Instituto.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 92.
 
-Para los casos de las fracciones IV y V del artículo anterior, la sanción será aplicada por el Consejo General, conforme al proyecto de resolución que le presente la Contraloría Interna del Instituto. En todo caso, serán determinadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor durante el desempeño de sus funciones.
+Para los casos de las fracciones IV y V del artículo anterior, la sanción será aplicada por el Consejo General, conforme al proyecto de resolución que le presente la Unidad Técnica de Contraloría Interna del Instituto. En todo caso, serán determinadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor durante el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 93.
 
-La Contraloría Interna del Instituto, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores del Instituto, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
+La Unidad Técnica de Contraloría Interna del Instituto, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieron haber incurrido los servidores del Instituto, con motivo de las denuncias o quejas que se presenten o de la revisión de los asuntos de su competencia.
 
 ###### Artículo 94.
 
 Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+
 ###### Artículo 95.
 
-Para la determinación de las responsabilidades a que se refiere el presente capítulo, la Contraloría Interna del Instituto, deberá otorgarle al servidor respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
+Para la determinación de las responsabilidades a que se refiere el presente capitulo, la Unidad Técnica de Contraloría Interna del Instituto, deberá otorgarle al servidor respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 96.
 
-Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Instituto, de ser el caso, dentro del plazo de tres días, mediante resolución que emita, aplicará las sanciones previstas en las fracciones I, II y III del Artículo 91 del presente ordenamiento.
+Al concluir el procedimiento a que se refiere el artículo anterior, la Unidad Técnica de Contraloría Interna del Instituto, de ser el caso, dentro del plazo de tres días, mediante resolución que emita, aplicará las sanciones previstas en las fracciones.
 
 Para el caso de las sanciones contempladas en las fracciones IV y V del artículo antes citado, la Contraloría Interna del Instituto elaborará el proyecto de resolución que corresponda, dentro del plazo de cinco días hábiles y lo remitirá al Consejo General, para que lo resuelva en definitiva en sesión extraordinaria que deberá celebrarse dentro de los diez días siguientes a aquél que reciba el proyecto de resolución. Se notificará al servidor en forma personal y al denunciante o quejoso personalmente o por estrados, según corresponda.
 
@@ -1436,3 +1616,9 @@ Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente 
 Artículo Segundo.- El Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Consejo General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, que fueron electos el 31 de enero de 2003, durarán en su encargo seis años, contados a partir de esa propia fecha.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan a la presente.
+
+P.O. 29 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
