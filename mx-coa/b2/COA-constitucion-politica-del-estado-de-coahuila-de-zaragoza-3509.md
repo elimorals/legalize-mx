@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-06-22"
+last_updated: "2007-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1012,15 +1012,23 @@ XXXII. Expedir las Leyes que establezcan la concurrencia del Gobierno del Estado
 
 XXXIII. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, discutiendo primero los ingresos que deben decretarse para cubrir el ejercicio presupuestal.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+
+El Congreso deberá aprobar en el Presupuesto de Egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderos en dicho ejercicio:
+
+a) Que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y: (sic)
+
+b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
+
 Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los Municipios, así como determinar, también anualmente, las bases, montos y plazos que habrán de observarse conforme a los principios que establece el artículo 158-T de esta Constitución, para que los Municipios reciban de inmediato y sin demora las participaciones y aportaciones federales o estatales que les correspondan.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003) (F. DE E., P.O. 19 DE OCTUBRE DE 2007)
 
 Las leyes garantizarán la gratuidad de la información pública bajo el principio de disponibilidad presupuestal, sin perjuicio de los derechos o cuotas proporcionales, equitativas y mínimas por la reproducción, gastos de envío, servicio o trámite público, conforme a las leyes fiscales.
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
-XXXIV.- Revisar, por conducto de su entidad de fiscalización superior denominada Auditoria Superior del Estado, en los términos previstos en la ley, las cuentas públicas de los Poderes del Estado, municipios y de los organismos públicos autónomos y de las demás entidades que se encuentren bajo su ámbito de influencia y cuya gestión presupuestal y programática no esté incorporada en su cuenta pública.
+XXXIV. Revisar, por conducto de su entidad de fiscalización superior denominada Auditoria Superior del Estado, en los términos previstos en la ley, las cuentas públicas de los Poderes del Estado, municipios y de los organismos públicos autónomos y de las demás entidades que se encuentren bajo su ámbito de influencia y cuya gestión presupuestal y programática no esté incorporada en su cuenta pública.
 
 La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera respectiva y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los programas. Serán principios rectores de la fiscalización superior la posterioridad, anualidad, legalidad, imparcialidad, confiabilidad, integridad, transparencia, oportunidad, congruencia, inmediatez, suficiencia financiera, independencia y objetividad.
 
@@ -1064,7 +1072,7 @@ Con este propósito, emitirá la ley reglamentaria que regule la justicia consti
 
 > <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-XL.- Solicitar informes al Ejecutivo del Estado y al Supremo Tribunal de Justicia sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones.
+XL. Solicitar informes al Ejecutivo del Estado y al Supremo Tribunal de Justicia sobre asuntos de su competencia, cuando lo estime conveniente para el mejor ejercicio de sus funciones.
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2702,7 +2710,17 @@ II. El Congreso del Estado discutirá y aprobará las leyes de ingresos de los M
 
 III. El Congreso del Estado revisará y fiscalizará por conducto de la Auditoria Superior del Estado, las cuentas públicas de los Municipios, en los términos de las disposiciones aplicables. El Congreso del Estado en coordinación con los municipios garantizará la disposición de la información de la cuenta pública municipal a la comunidad en general, a través de instrumentos confiables, oportunos y transparentes;
 
-IV. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, observando para tal efecto las disposiciones aplicables. El ejercicio presupuestal del Municipio deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+
+IV. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, observando para tal efecto las disposiciones aplicables.
+
+El Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderos en dicho ejercicio:
+
+a) Que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales que cuenta con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y
+
+b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
+
+El ejercicio presupuestal del Municipio deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social.
 
 V. El Ayuntamiento manejará prudentemente el patrimonio municipal conforme a la ley.
 
@@ -3020,7 +3038,7 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### Artículo 165.
 
@@ -4055,3 +4073,9 @@ Asimismo, publicadas las reformas a los ordenamientos secundarios, el Consejo de
 Concluido el proceso de designación, en la primera sesión del Pleno del Tribunal Superior de Justicia posterior al nombramiento, los magistrados designados serán adscritos a la Sala que corresponda.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
