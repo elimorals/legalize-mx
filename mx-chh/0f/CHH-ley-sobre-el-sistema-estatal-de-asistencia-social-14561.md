@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "2005-11-09"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -403,13 +403,11 @@ I.- El Secretario de Fomento Social, quien lo presidirá;
 
 II.- El Presidente del Patronato del Sistema;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-III.- El Secretario de Finanzas;
+III.- El Secretario de Finanzas y Administración;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
-
-III Bis.- El Secretario de Administración;
+III Bis.- (DEROGADA, P.O. 30 DE JUNIO DE 2007)
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -814,3 +812,31 @@ Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Adm
 P.O. 9 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
