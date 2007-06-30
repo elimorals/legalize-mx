@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2006-12-27"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -43,19 +43,19 @@ CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
 2o.- Todas las Dependencias del Gobierno del Estado, las oficinas o servicios sujetos a convenios de coordinación y en general todas las Instituciones cuyo sostenimiento permanente dependa en forma total del Gobierno del Estado, deberán enviar al Gobernador por conducto de la Tesorería General a más tardar el 15 de octubre de cada año, un Proyecto de su Presupuesto de Egresos para el siguiente año, exponiendo el programa de trabajos que vaya a realizarse y las razones que en su concepto justifiquen su proyecto.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O.30 DE JUNIO DE 2007)</small>
 
-3o.- El Director General de Finanzas dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior y de conformidad con las instrucciones del Jefe del Ejecutivo formulará el Presupuesto de Egresos, que será enviado antes del 10 de diciembre de cada año a la Legislatura del Estado, para su estudio y aprobación en su caso.
+3o.- El Secretario de Finanzas y Administración dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior y de conformidad con las instrucciones del Jefe del Ejecutivo formulará el Presupuesto de Egresos, que será enviado antes del 10 de diciembre de cada año a la Legislatura del Estado, para su estudio y aprobación en su caso.
 
 4o.- Si el Congreso dejare de expedir oportunamente el presupuesto de Egresos o la Ley de Ingresos, continuarán rigiendo en esta materia la ley y el presupuesto que hubieren estado vigentes el año anterior.
 
 5o.- El Ejecutivo promulgará y publicará la Ley de Ingresos y el Presupuesto de Egresos a más tardar el 31 de diciembre del año y entrarán en vigor el día 1o. de enero de cada año.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-6.- A la Secretaría de Finanzas y sus unidades y oficinas autorizadas ingresarán todos los caudales públicos del Estado.
+6.- A la Secretaría de Finanzas y Administración y sus unidades y oficinas autorizadas ingresarán todos los caudales públicos del Estado.
 
-Los ingresos destinados a la Universidad Autónoma de Chihuahua y a la Universidad Autónoma de Ciudad Juárez, serán recaudados por las oficinas receptoras simultáneamente con las demás contribuciones y se concentrarán en la Secretaría de Finanzas de Gobierno del Estado, la que los entregará a dichas instituciones educativas.
+Los ingresos destinados a la Universidad Autónoma de Chihuahua y a la Universidad Autónoma de Ciudad Juárez, serán recaudados por las oficinas receptoras simultáneamente con las demás contribuciones y se concentrarán en la Secretaría de Finanzas y Administración de (sic) Gobierno del Estado, la que los entregará a dichas instituciones educativas.
 
 7o.- Todo egreso deberá hacerse por acuerdo del Gobernador del Estado dado por escrito a la Oficialía Mayor, para que ésta expida las órdenes de pago correspondientes.
 
@@ -69,9 +69,9 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 9o.- El Tesorero General del Estado será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados por el Presupuesto, por ley posterior o por el Gobernador del Estado. El Tesorero tendrá derecho a hacer observaciones a las órdenes de pago pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguients (sic) al mes que corresponda. El Director General de Finanzas y Administración formulará trimestralmente la cuenta general para que se envíe oportunamente al Congreso.
+10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguientes al mes que corresponda. El Secretario de Finanzas y Administración del Estado formulará trimestralmente la cuenta general para que se envíe oportunamente al Congreso.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -267,9 +267,9 @@ Cuando la determinación o liquidación deban ser hechas por las autoridades fis
 
 35.- Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Los documentos, datos e información que obran en los archivos físicos y electrónicos de la Secretaría de Finanzas tendrán valor probatorio pleno. Sus reproducciones, impresiones y constancias, tendrán el mismo valor probatorio, sin necesidad de cotejo, siempre y cuando sean certificados por funcionario competente.
+Los documentos, datos e información que obran en los archivos físicos y electrónicos de la Secretaría de Finanzas y Administración tendrán valor probatorio pleno. Sus reproducciones, impresiones y constancias, tendrán el mismo valor probatorio, sin necesidad de cotejo, siempre y cuando sean certificados por funcionario competente.
 
 36.- Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para:
 
@@ -395,9 +395,9 @@ II.- Si es a los sujetos pasivos o responsables solidarios a quien corresponde d
 
 III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
-44.- El pago de impuestos, derechos, productos o aprovechamientos, deberán efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Secretaría de Finanzas, a través de los siguientes medios:
+44.- El pago de impuestos, derechos y contribuciones especiales, así como los productos y aprovechamientos, deberán efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Secretaría de Finanzas y Administración, a través de los siguientes medios:
 
 I.- Efectivo;
 
@@ -405,7 +405,9 @@ II.- Giros postales, telegráficos o bancarios;
 
 III.- Cheques certificados, de caja, de cuentas personales o empresariales;
 
-IV.- Tarjetas de crédito o de débito. Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Finanzas mediante Acuerdo que publique en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- Tarjetas de crédito o de débito. Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Finanzas y Administración mediante acuerdo que publique en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -419,9 +421,9 @@ El pago así efectuado y la presentación de declaraciones por el mismo medio no
 
 El uso de las claves de identificación personal que se establezcan para la presentación de declaraciones y la realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque.
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas y Administración a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque, en atención a las causas que originaron la falta de pago.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -431,19 +433,19 @@ La autoridad fiscal recibirá el pago efectuado por el sujeto pasivo, responsabl
 
 Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido, sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Finanzas podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
+Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Finanzas y Administración podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Finanzas. Las declaraciones podrán ser normales o complementarias. La complementaria sólo podrá presentarse cuando exista error en la base de determinación de la normal hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Finanzas.
+Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Finanzas y Administración. Las declaraciones podrán ser normales o complementarias. La complementaria sólo podrá presentarse cuando exista error en la base de determinación de la normal hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Finanzas y Administración.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
-46.- El Director General de Finanzas del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a Ejercicios Fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+46.- El Secretario de Finanzas y Administración del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederán de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -505,17 +507,17 @@ La devolución deberá hacerse a petición del interesado y dentro del término 
 
 53.- La condonación o reducción de impuestos solamente podrá concederse por decreto del Congreso del Estado expedido con aplicación general, y únicamente en los casos en que por fuerza mayor o por accidentes naturales ocurridos en el Estado, los causantes hayan sufrido perjuicios considerables que afecten tanto su situación económica como los diversos elementos que haya tenido en cuenta la ley para establecer los impuestos de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Director General de Finanzas podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del Artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
+Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Secretario de Finanzas y Administración podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 54.- Las multas por infracciones fiscales deberán ser revocadas totalmente si por pruebas diversas de las presentadas ante las autoridades fiscales, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Las multas por infracciones a las disposiciones fiscales podrán ser condonados (sic) por la Secretaría de Finanzas, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso; así mismo y por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas, sólo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
+Las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, podrán ser condonados por la Secretaría de Finanzas y Administración, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso; así mismo y por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas sólo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
@@ -727,9 +729,9 @@ Las autoridades correspondientes, si el objeto de la operación son bienes inmue
 
 En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Cuando el entero de los impuestos se realice por medio de la red electrónica mundial, bastará se inserte en los testimonios el número de operación que le haya correspondido.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-La Secretaría de Finanzas formulará el modelo de las notas que deben presentar los notarios.
+La Secretaría de Finanzas y Administración formulará el modelo de las notas que deben presentar los notarios.
 
 83.- Los Encargados del Registro Publico de la Propiedad y del Comercio no inscribirán ninguna escritura o documento en que consten actos, resoluciones judiciales o administrativas gravadas por este Código, si no se les comprueba fehacientemente el pago de los impuestos que dichos actos generen y que los interesados están al corriente en el pago de los demás impuestos de que, con respecto al Fisco del Estado, son objeto los bienes materia de aquéllos, que existe prórroga legalmente concedida para su pago, que éste fue garantizado o que están exentos por disposición de la Ley.
 
@@ -739,9 +741,9 @@ La Secretaría de Finanzas formulará el modelo de las notas que deben presentar
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos y verbales relativos a la situación de los causantes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los Notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-La prohibición a que se refiere esta disposición no será aplicable tratándose de los servicios públicos prestados por la Secretaría de Finanzas, por la expedición de constancias relativas al Padrón Vehicular.
+La prohibición a que se refiere esta disposición, no será aplicable tratándose de los servicios públicos prestados por la Secretaría de Finanzas y Administración, por la expedición de constancias relativas al Padrón Vehicular.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -1475,9 +1477,9 @@ A la manifestación anterior deberá adjuntarse plano catastral, permiso de cons
 
 134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores, que fijará anualmente la Secretaría de Finanzas o el valor resultante del avalúo que al efecto practique.
+135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores, que fijará anualmente la Secretaría de Finanzas y Administración o el valor resultante del avalúo que al efecto practique.
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
@@ -1589,9 +1591,9 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
-180.- La Secretaría de Finanzas, podrá estimar los ingresos brutos de los sujetos de este impuesto, en lo siguientes casos:
+180.- La Secretaría de Finanzas y Administración, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
 
@@ -1615,9 +1617,9 @@ I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, m
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Finanzas comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
+III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Finanzas y Administración comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
 
 IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
 
@@ -1631,9 +1633,9 @@ VII.- Señalar nombre y domicilio del depositario de los libros y en general de 
 
 VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-182.- Las declaraciones de los causantes serán revisables por la Secretaría de Finanzas, cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
+182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Finanzas y Administración. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1873,13 +1875,13 @@ columna "A"
 
 Si en un mes rigen dos o más salarios mínimos generales en la capital del Estado, el cálculo del impuesto causado en dicho periodo se hará conforme a la tarifa obtenida de la última actualización efectuada durante ese mes en los términos del párrafo anterior.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Dirección General de Finanzas del Estado, debiendo anexarse copia de la declaración del pago provisional del impuesto sobre la renta.
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Secretaría de Finanzas y Administración, debiendo anexarse copia de la declaración del pago provisional del Impuesto sobre la Renta.
 
 DE LAS EXENCIONES
 
@@ -1917,9 +1919,9 @@ j).- Las despensas que se otorguen a través de vales a los trabajadores, siempr
 
 Para que los conceptos anteriores se excluyan como integrantes de la base del impuesto, deberán ser erogados por el patrón y estar debidamente registrados en contabilidad.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-172.- La Secretaría de Finanzas podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se dé cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
+172.- La Secretaría de Finanzas y Administración podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
 
 173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
@@ -2095,9 +2097,9 @@ Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles
 
 En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código. Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere esta Sección, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones. La Secretaría de Finanzas estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
+190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito especializada en valuación debidamente acreditados ante el Departamento Estatal de Profesiones. La Secretaría de Finanzas y Administración estará facultada para practicar, ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
 
 190-E.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
@@ -3101,9 +3103,9 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
-329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, productos, aprovechamientos, la Secretaría de Finanzas y sus oficinas recaudadoras o colecturías están investidas de la facultad económico-coactiva que se ejerce a través del procedimiento administrativo de ejecución.
+329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, contribuciones especiales, así como los productos y aprovechamientos, la Secretaría de Finanzas y Administración y las oficinas recaudadoras de la misma están investidas de la facultad económica-coactiva.
 
 También ejercerán la facultad económico-coactiva, de acuerdo con las disposiciones de este capítulo, para hacer efectivas:
 
@@ -3597,9 +3599,9 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 Los derechos de control vehicular por canje o dotación de placas incluirán la tarjeta de circulación, la cual tendrá la misma vigencia de las placas; cuando el canje deba realizarse con carácter general, se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-308-A.- Los derechos que señale la tarifa anexa a la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en los establecimientos que al efecto autorice la Secretaría de Finanzas.
+308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -4818,3 +4820,31 @@ P.O. 27 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
