@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2007-01-13"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1641,9 +1641,9 @@ III.- Ejercer las funciones señaladas en este Código a los Registradores y Cer
 
 IV.- Rendir los informes que soliciten las autoridades legalmente facultadas para ello;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-V.- Rendir a la Secretaría de Finanzas, dentro de los primeros cinco días hábiles de cada mes, una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
+V.- Rendir a la Secretaría de Finanzas y Administración, dentro de los primeros cinco días hábiles de cada mes, una relación pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -9641,7 +9641,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1652.
 
@@ -9791,23 +9791,23 @@ Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los 
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1666.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Administración.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a un servicio público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1667.
 
-Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Administración, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
+Cuando se trate de adquisiciones por vía de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Finanzas y Administración todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1668.
 
-Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Administración.
+Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Finanzas y Administración.
 
 El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
 
@@ -9817,11 +9817,11 @@ El cambio de destino de un inmueble dedicado a un servicio público, así como l
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1670.
 
-Los inmuebles destinados a un servicio público quedarán bajo la vigilancia de la Secretaría de Administración.
+Los inmuebles destinados a un servicio público quedarán bajo la vigilancia de la Secretaría de Finanzas y Administración. Las obras nuevas y la transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9829,9 +9829,9 @@ Los inmuebles destinados a un servicio público quedarán bajo la vigilancia de 
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Administración, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Finanzas y Administración, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trate.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9841,7 +9841,7 @@ En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Adm
 
 ###### ARTICULO 1672.
 
-La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9881,11 +9881,11 @@ La enajenación de los bienes a que se refiere el primer párrafo del Artículo 
 
 Se excluyen de dicho trámite las adquisiciones por parte de la Federación, de los Municipios o de los Organismos Descentralizados de la Federación, de los Estados y de los Municipios.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1678.
 
-La subasta se hará sobre la base del avalúo que practique alguna institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Administración.
+La subasta se hará sobre la base del avalúo que practique una institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y, en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Finanzas y Administración.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9899,11 +9899,11 @@ La subasta se practicará el día y a la hora señalados, ante la autoridad que 
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1681.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Administración, mientras no esté pagado íntegramente el precio.
+Los compradores de predios del Estado no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Finanzas y Administración, mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
@@ -9947,15 +9947,15 @@ La Hacienda Pública estará facultada para retener administrativamente los bien
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Secretaría de Administración.
+La clasificación y sistemas del inventario, así como la estimación de la depreciación de los muebles de propiedad estatal, son facultades de la Secretaría de Finanzas y Administración.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1688.
 
-La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
+La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Finanzas y Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos establezcan las normas legales.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11006,3 +11006,31 @@ P.O. 13 DE ENERO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
