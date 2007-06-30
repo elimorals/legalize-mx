@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2007-06-28"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,25 +19,29 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 19 DE NOVIEMBRE DE 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COLOMBIA
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
+Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 16, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 36 de la Ley Aduanera; 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 fue publicada en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación con objeto de reflejar los cambios en los patrones mundiales de comercio, homologar nuestro sistema de clasificación arancelaria con el de otros países, evitar discrepancias de interpretación, agilizar los trámites aduaneros y facilitar la correcta identificación y clasificación de las mercancías;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (Tratado) fue aprobado por el Senado de la República el 13 de julio de 1994, promulgado el 31 de diciembre de 1994, para entrar en vigor al día siguiente y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
 
-Que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación 18 de junio de 2007 abroga con su entrada en vigor la Ley de los Impuestos Generales de Importación y de Exportación publicada el 18 de enero de 2002 y sus modificaciones publicadas en el mismo órgano informativo;
+Que el 23 de mayo de 2006 el Gobierno de Venezuela notificó al Gobierno de los Estados Unidos Mexicanos su decisión formal de denunciar el Tratado, por lo que de conformidad con el artículo 23-08 del mismo, dicha denuncia surtió efectos a partir del 19 de noviembre de ese mismo año según el Decreto por el que se determina que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, firmado en la ciudad de Cartagena de Indias, Colombia, el trece de junio de mil novecientos noventa y cuatro, queda sin efectos entre los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, a partir del diecinueve de noviembre de dos mil seis, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que el 17 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia;
 
-Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que actúen los diferentes agentes económicos involucrados en el comercio exterior, para lo cual es necesario actualizar y difundir las fracciones arancelarias y su descripción, conforme a la Ley de los Impuestos Generales de Importación y de Exportación, así como definir claramente el estatus de los ordenamientos en los que se establecen diversas disposiciones sobre instrumentos y programas de comercio exterior he tenido a bien expedir el siguiente
+Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+
+Que resulta necesario ajustar el Decreto mencionado en el tercer considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+
+DECRETO
 
 ###### ARTICULO 1o.
 
@@ -87,143 +91,27 @@ b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (ob
 
 http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-El presente Acuerdo tiene por objeto dar a conocer el estatus sobre la vigencia de los diversos ordenamientos que establecen regulaciones y restricciones no arancelarias, así como de las resoluciones expedidas al amparo de los instrumentos y programas de comercio exterior que otorga la SE.
+Se actualizan en el ARTÍCULO 3 del Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-###### Artículo 2.
+(VEASE ARCHIVO ANEXO)
 
-Para efectos del presente Acuerdo se entenderá por:
+###### ARTÍCULO 2.
 
-I. DOF, al Diario Oficial de la Federación;
+Se actualizan en el ARTÍCULO 5 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen y Cupos;
+(VEASE ARCHIVO ANEXO)
 
-III. TIGIE 2002, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de enero de 2002 y sus modificaciones;
+###### ARTÍCULO 3.
 
-IV. TIGIE 2007, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de junio de 2007;
+Se deroga el ARTÍCULO 7 del Decreto que se señala en el Artículo 1 del presente ordenamiento.
 
-V. Programa IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006, así como las empresas que de conformidad con el artículo Quinto Transitorio del mismo Decreto aún no cuentan con su número;
+###### ARTÍCULO 4.
 
-VI. Programa PROSEC, al programa autorizado al amparo del Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus reformas;
+Se actualizan en el ARTÍCULO 11 del Decreto que se señala en el Artículo 1 del presente ordenamiento, las siguientes fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que corresponde según su numeración:
 
-VII. SAAI, al Sistema Automatizado Aduanero Integral de la Administración General de Aduanas del Servicio de Administración Tributaria;
-
-VIII. SAT, al Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público;
-
-IX. SE, a la Secretaría de Economía;
-
-X. SICEX, al Sistema Integral de Comercio Exterior mediante el cual la Secretaría de Economía administra diversos instrumentos y programas de comercio exterior, y
-
-XI. Tabla de correlación TIGIE 2002-TIGIE 2007, a la Tabla de correlación que establece la equivalencia de las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, anexa al presente Acuerdo.
-
-###### Artículo 3.
-
-Los Acuerdos que se listan en el presente artículo continuarán vigentes en los términos que fueron publicados y las fracciones arancelarias contenidas en ellas permanecen sin cambio al amparo de la TIGIE 2007:
-
-I. Acuerdo por el que se da a conocer el contingente mínimo para importar en 2007, exenta de arancel, leche en polvo originaria de los países miembros de la Organización Mundial del Comercio publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
-
-II. Acuerdo por el que se da a conocer el mecanismo de asignación de los contingentes arancelarios para importar en 2007, con los aranceles preferenciales establecidos en el marco de los compromisos contraídos por México en la Organización Mundial del Comercio, publicado en el DOF el 1 de enero de 2007.
-
-III. Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, publicado en el DOF el 31 de diciembre de 2003 y sus modificaciones del 5 de agosto de 2004, 1 de diciembre de 2004, 1 de enero de 2007 y 23 de enero de 2007.
-
-IV. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota, establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-V. Acuerdo por el que se dan a conocer los cupos mínimos para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, frijol, excepto para siembra, originario de los Estados Unidos de América y de Canadá, publicado en el DOF el 29 de diciembre de 2004 y su modificación del 15 de febrero del 2007.
-
-VI. Acuerdo por el cual se da a conocer el cupo para internar a los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, cacahuate originario de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-VII. Acuerdo por el que se da a conocer el cupo mínimo para importar, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, jugo de naranja originario de los Estados Unidos de América, publicado en el DOF el 27 de enero de 2005.
-
-VIII. Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota establecido en el Tratado de Libre Comercio de América del Norte publicado en el DOF el 23 de enero de 2007 y su modificación del 11 de mayo del 2007.
-
-IX. Acuerdo por el cual se da a conocer el cupo máximo para exportar a los Estados Unidos de América, cemento gris Pórtland y cemento clinker, originarios de los Estados Unidos Mexicanos durante 2006 a 2009, al amparo del Acuerdo sobre comercio de cemento celebrado entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América y el Departamento de Comercio de los Estados Unidos de América publicado en el DOF el 29 de marzo de 2006 y su modificación del 30 de marzo de 2007.
-
-X. Acuerdo por el que se dan a conocer los cupos para internar a los Estados Unidos de América, azúcares originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de octubre de 2006.
-
-XI. Acuerdo por el que se da a conocer el cupo para importar azúcares y jarabes de azúcar, originarios de los Estados Unidos de América, publicado en el DOF el 16 de octubre de 2006.
-
-XII. Acuerdo por el que se dan a conocer los cupos para importar leche ultra pasteurizada en envases herméticos y polvo para preparación de bebidas, originarios de la República de Costa Rica, publicado en el DOF el 29 de diciembre de 2004.
-
-XIII. Acuerdo por el que se da a conocer el cupo para internar a la República de Costa Rica, dentro del arancel-cuota establecido en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica, aguacates frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 29 de diciembre de 2004.
-
-XIV. Acuerdo por el que se dan a conocer los cupos para importar carne de bovino o su equivalente en ganado bovino en pie superior o igual a 250 kilogramos y queso fresco, acondicionado para su venta al por menor, originarios de la República de Nicaragua publicado en el DOF el 21 de julio de 2005.
-
-XV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos e internar al Estado de Israel, bienes textiles y de la confección que cumplan con lo dispuesto en el artículo 3-03.3 y su anexo del Tratado de Libre Comercio entre ambos países, publicado en el DOF el 29 de diciembre de 2004.
-
-XVI. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, ciertos productos textiles y calzado originarios de la Comunidad Europea, publicado en el DOF el 29 de diciembre de 2004.
-
-XVII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año: miel natural; espárragos frescos o refrigerados; chícharos congelados (guisantes, arvejas) (pisum sativum); aguacate; los demás melones; las demás fresas congeladas sin adición de azúcar ni otros edulcorantes; atún procesado, excepto lomos; melaza de caña; chicle; espárragos preparados o conservados, excepto en vinagre o ácido acético; mezclas de ciertas frutas preparadas o conservadas, incluso con adición de azúcar u otro edulcorante; jugo de naranja, excepto concentrado congelado y jugo de piña, sin fermentar y sin adición de alcohol con grado de concentración mayor a 20° brix, originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005.
-
-XVIII. Acuerdo por el que se dan a conocer los cupos para internar a la Comunidad Europea en el periodo de julio de un año al 30 de junio del siguiente año, huevo de ave fértil libre de patógenos (SPF); huevo sin cascarón (secas, líquidas o congeladas) y yemas de huevo (secas, líquidas o congeladas) aptas para consumo humano; rosas, claveles, orquídeas, gladiolas, crisantemos, jugo de naranja concentrado congelado con grado de concentración mayor a 20° brix y ovoalbúmina (apta para consumo humano), originarios de los Estados Unidos Mexicanos publicado en el DOF el 19 de julio de 2005 y su reforma de fecha 15 de agosto de 2005.
-
-XIX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, lomos de atún originarios de los Estados Unidos Mexicanos publicado en el DOF el 16 de enero de 2007.
-
-XX. Acuerdo por el que se da a conocer el cupo para internar a la Comunidad Europea, materias pécticas, pectinatos y pectatos en polvo originarios de los Estados Unidos Mexicanos publicado en el DOF el 20 de febrero de 2007.
-
-XXI. Acuerdo por el que se da a conocer el cupo para importar, atún en lata, con un peso no mayor a 1 Kg. originario de la República de Guatemala publicado en el DOF el 16 de enero de 2007.
-
-XXII. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos, al amparo del arancel-cuota establecido en el tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, varilla de hierro o acero corrugada o barras de hierro o acero para armaduras, para cemento u hormigón, y perfiles de hierro o acero sin alear en “L” originarios de la República de El Salvador, publicado en el DOF el 6 de junio de 2006.
-
-XXIII. Acuerdo por el que se dan a conocer los cupos para importar de los Estados de la Asociación Europea de Libre Comercio y para exportar a los Estados de la Asociación Europea de Libre Comercio, ciertos productos textiles, de la confección y del calzado, publicado en el DOF el 29 de diciembre de 2004.
-
-XXIV. Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar quesos y tejidos de lana, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 14 de julio de 2005 y su modificación del 3 de noviembre de 2006.
-
-XXV. Acuerdo por el que se dan a conocer los cupos para importar miel de abeja, preparación usada en panadería, harina y polvo de carne o despojos y ácido esteárico de vacuno, originarios de la República Oriental del Uruguay, conforme al Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay publicado en el DOF el 18 de julio de 2005.
-
-XXVI. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de porcino y preparaciones y conservas de carne de porcino originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 12 de agosto de 2005.
-
-XXVII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne de pollo, las demás preparaciones y conservas de ave originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXVIII. Acuerdo por el cual se da a conocer el cupo para internar al Japón al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, carne y despojos de bovino y las demás preparaciones y conservas de bovino originarias de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005 y su modificación del 16 de febrero de 2007.
-
-XXIX. Acuerdo por el que se da a conocer el cupo para internar a Japón, bananas o plátanos frescos originarios de los Estados Unidos Mexicanos, publicado en el DOF el 27 de abril de 2007.
-
-XXX. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, jugo de naranja, originario de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXI. Acuerdo por el que se da a conocer el cupo para importar vehículos nuevos, originarios y procedentes del Japón, al amparo del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, durante el periodo que se indica, publicado en el DOF el 1 de abril de 2005 y su reforma del 4 de abril de 2007.
-
-XXXII. Acuerdo por el cual se dan a conocer los cupos para internar al Japón, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, miel natural, naranjas, jugo de tomate sin adición de azúcar, ketchup, las demás salsas de tomate, d-glucitol (sorbitol), dextrina y demás almidones y féculas modificados y prendas y complementos de vestir, originarios de los Estados Unidos Mexicanos publicado en el DOF el 1 de abril de 2005.
-
-XXXIII. Acuerdo por el cual se dan a conocer los cupos para exportar e importar, al amparo del arancel-cuota establecido en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, ácido cítrico y sales del ácido cítrico publicado en el DOF el 16 de agosto de 2005.
-
-XXXIV. Acuerdo por el que se dan a conocer los cupos para internar a la República Federativa del Brasil, diversos productos, originarios y provenientes de los Estados Unidos Mexicanos, publicado en el DOF el 23 de junio de 2006.
-
-XXXV. Acuerdo por el que se dan a conocer los cupos para importar a los Estados Unidos Mexicanos diversos productos originarios y provenientes de la República Federativa de Brasil publicado en el DOF el 3 de julio de 2006.
-
-XXXVI. Acuerdo por el que se da a conocer el cupo para importar hasta el 31 de diciembre de 2007, productos automotores nuevos, originarios y provenientes de la República Oriental del Uruguay, conforme al Acuerdo de complementación Económica No. 55 suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el DOF el 21 de noviembre de 2006.
-
-XXXVII. Acuerdo por el que se dan a conocer los cupos para internar a la República Argentina, duraznos en almíbar exclusivamente enlatados o envasados y productos de hierro y acero, originarios y provenientes de los Estados Unidos Mexicanos, con la preferencia arancelaria establecida en el anexo III del Decimoquinto Protocolo adicional al Acuerdo de Complementación Económica No. 6, celebrado entre los Estados Unidos Mexicanos y la República Argentina, publicado en el DOF el 1 de enero de 2007.
-
-XXXVIII. Acuerdo por el cual se da a conocer el cupo para internar a Taiwán, Penghu, Kimen y Matsu (Taipei Chino), vehículos automóviles (sic), originarios de los Estados Unidos Mexicanos durante 2007, al amparo del acuerdo temporal celebrado entre los Estados Unidos Mexicanos y el territorio aduanero independiente de Taiwán, Penghu, Kimen y Matsu (Taipei Chino) publicado en el DOF el 26 de diciembre de 2006.
-
-XXXIX. Acuerdo por el que se da a conocer el cupo para importar aceite en bruto de girasol, originario y procedente de la República de Argentina, fracción arancelaria 1512.11.01 publicado en el DOF el 21 de septiembre de 2005.
-
-XL. Acuerdo por el que se da a conocer el cupo mínimo para internar durante el año 2007, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, conforme a la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos, publicado en el DOF el 28 de noviembre de 2006.
-
-XLI. Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios, publicado en el DOF el 5 de octubre de 2006.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
-
-###### Artículo 4.
-
-Los Acuerdos que dan a conocer diversos cupos al amparo de aranceles-cupo de conformidad con la TIGIE 2002, señalados en el presente artículo, se entenderán referidos a los aranceles cupo que se establezcan conforme a la TIGIE 2007:
-
-I. Acuerdo por el que se dan a conocer los cupos unilaterales para importar en 2006 y 2007, cebada en grano, con cáscara, excepto lo comprendido en la fracción 1003.00.01; las demás cebadas y malta tostada y sin tostar, fracciones arancelarias, 1003.00.02, 1003.00.99, 1107.10.01 y 1107.20.01, publicado en el DOF el 9 de marzo de 2006.
-
-II. Acuerdo por el que se da a conocer el cupo para importar, con el arancel-cupo establecido, cera de carnauba publicado en el DOF el 4 de abril de 2005.
-
-III. Acuerdo por el que se da a conocer el cupo unilateral para importar con el arancel-cupo establecido, avena, excepto para siembra publicado en el DOF el 7 de abril de 2005 y su modificación del 24 de julio de 2006.
-
-IV. Acuerdo por el que se dan a conocer los cupos para importar, con el arancel-cupo establecido, pato, ganso o pintada sin trocear, queso tipo egmont y extractos de café publicado en el DOF el 4 de abril de 2005.
-
-V. Acuerdo que determina las Reglas para la aplicación del Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles publicado en el DOF el 30 de junio de 2004 y su adición publicada el 4 de julio de 2006.
-
-VI. Acuerdo que establece la cantidad mensual máxima que podrán importar las empresas comerciales de autos usados, publicado en el DOF el 4 de abril de 2003.
-
-VII. Acuerdo por el que se da a conocer el cupo para importar piernas, muslos o piernas unidas al muslo, de pollo, originarias de los Estados Unidos de América publicado en el DOF el 29 de diciembre de 2004.
-
-La SE dará a conocer en la página de Internet www.siicex.gob.mx, el monto de los cupos que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado al amparo de los Acuerdos listados en el presente artículo.
+(VEASE ARCHVO ANEXO)
 
 ###### Artículo 5.
 
@@ -377,82 +265,8 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 3.- Para determinar la tasa arancelaria preferencial aplicable a un bien originario que se importa a territorio nacional deberá estarse a lo dispuesto en el artículo 3o. y demás disposiciones aplicables del "Decreto que establece la tasa aplicable para 1995 del Impuesto General de Importación para las mercancías originarias de Colombia, Venezuela, Costa Rica, Bolivia y Chile conforme a lo establecido en el Tratado de Libre Comercio entre México, Colombia y Venezuela, el Tratado de Libre Comercio entre México y Costa Rica, el Tratado de Libre Comercio entre México y Bolivia y el Acuerdo de Complementación Económica entre México y Chile", publicado en el Diario Oficial de la Federación el 29 de diciembre de 1994.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
 
-SEGUNDO.- Las solicitudes de los instrumentos y programas de comercio exterior que ingresen a la Secretaría de Economía a partir de la entrada en vigor del presente Acuerdo, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007, excepto por lo establecido en el párrafo siguiente.
-
-Las solicitudes correspondientes a los trámites inscritos en el Registro Federal de Trámites y Servicios que se listan a continuación que ingresen a la SE a partir de las fechas que se indican, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007:
-
-I. A partir del 28 de junio de 2007:
-
-a) SE-03-037 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del número de exportador autorizado para la Unión Europea (UE) o la Asociación Europea de Libre Comercio (AELC)"
-
-b) SE-03-038 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-c) SE-03-039 "Autorización para utilizar el "Registro de Productos" para la obtención del Certificado de Circulación de Mercancías EUR. 1 o del Carácter de Exportador Autorizado de la Unión Europea"
-
-d) SE-03-051 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI (Asociación Latinoamericana de Integración)"
-
-e) SE-03-052 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen SGP (Sistema Generalizado de Preferencias)"
-
-f) SE-03-068 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Tratado de Libre Comercio México/Uruguay"
-
-g) SE-03-070 "Registro de Bienes Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre México y el Japón"
-
-II. A partir del 29 de junio de 2007:
-
-a) SE-03-040 "Validación del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-b) SE-03-044 "Validación del Certificado de Origen Asociación Latinoamericana de Integración (ALADI) para Argentina, Brasil, Cuba, Ecuador, Paraguay, Perú y Uruguay"
-
-c) SE-03-045 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP)"
-
-d) SE-03-046 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP) de la Unión Europea"
-
-e) SE-03-047 "Validación del Certificado de Origen bajo el Sistema Generalizado de Preferencias (SGP) para Japón"
-
-f) SE-03-048 "Validación del Certificado de Origen de Artículos Mexicanos"
-
-g) SE-03-049 "Validación del Certificado de Origen del Tratado de Libre Comercio México-Colombia-Venezuela (G3)"
-
-h) SE-03-050 "Validación del Certificado de Origen del Sistema Global de Preferencias Comerciales (SGPC)"
-
-i) SE-03-069 "Validación del Certificado de Origen del Tratado de Libre Comercio México-República Oriental del Uruguay"
-
-j) SE-03-071 "Validación del Certificado de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón"
-
-TERCERO.- Los ordenamientos que se citan a continuación seguirán vigentes en los términos que fueron publicados hasta en tanto no se publiquen nuevas versiones en el Diario Oficial de la Federación que sustituyan a los mismos. Durante dicho periodo se entenderán aplicables a dichos ordenamientos a partir del 1 de julio de 2007, las fracciones arancelarias que les correspondan conforme a la Tabla de Correlación TIGIE 2002-TIGIE 2007 anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus reformas del 20 de diciembre de 2005, 29 de marzo, 2 de octubre y 26 de diciembre de 2006 y 29 de marzo de 2007;
-
-II. Acuerdo que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002 y sus reformas del 8 de noviembre de 2002, 11 de julio de 2003, 5 de enero y 15 de abril de 2004, 3 de febrero, 17 de mayo y 26 de octubre de 2005 y 2 de febrero y 3 de mayo de 2006;
-
-III. Aviso por el que se dan a conocer las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en las cuales se clasifican las mercancías cuya importación está sujeta al pago de cuotas compensatorias y medidas de salvaguarda, publicado en el Diario Oficial de la Federación el 3 de enero de 2006;
-
-IV. Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior, publicado en el Diario Oficial de la Federación el 21 de julio de 2006 y sus reformas del 4 de enero, 8 de marzo y 1 de junio de 2007, y
-
-V. Los Acuerdos a que se refieren los artículos 5, fracciones I, II, IV, V, VI, VII, VIII IX y 7 del presente ordenamiento.
-
-Tablas de correlación TIGIE 2002-TIGIE 2007
-
-Para los efectos de establecer la correspondencia entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, se dan a conocer, para los fines del presente Acuerdo, las tablas de correlación TIGIE 2002-TIGIE 2007 y TIGIE 2007-TIGIE 2002. Para cualquier otro fin, la información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 9 A 61.</small>
-
-Tablas de correlación TIGIE 2007-TIGIE 2002
-
-La información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 62 A 112.</small>
-
-México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
