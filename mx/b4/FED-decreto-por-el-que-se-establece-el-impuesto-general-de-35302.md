@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-35302"
 country: "mx"
 rank: "decreto"
 publication_date: "2002-12-31"
-last_updated: "2005-12-07"
+last_updated: "2007-06-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-27"
 
 DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2007.
 
 Decreto publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 2002
 
@@ -146,3 +146,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 7 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JUNIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de julio de 2007.
+
+SEGUNDO.- El arancel-cupo indicado en el artículo 6 de este Decreto estará vigente del 1 de julio de 2007 al 31 de diciembre del mismo año.
+
+TERCERO.- Para los efectos de la determinación, y en su caso, el pago del impuesto general de importación a que se refiere el ARTÍCULO 8-A del “Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación” y el ARTÍCULO 5-A del “Decreto que establece Programas de Importación Temporal para Producir Artículos de Exportación”, publicados en el Diario Oficial de la Federación el 1 de junio de 1998 y el 3 de mayo de 1990, respectivamente, así como sus posteriores reformas, las empresas que hubieren contado con el Registro Nacional de la Industria Maquiladora o con la autorización del Programa de Importación Temporal para producir Artículos de Exportación, que a la fecha de entrada en vigor del presente Artículo, no hubiesen efectuado el pago del impuesto general de importación correspondiente, en el pedimento que ampare el retorno ni mediante pedimento complementario, podrán rectificar el pedimento de importación temporal para aplicar las tasas del arancel del impuesto general de importación que se establece para las fracciones arancelarias que se señala a continuación, por las importaciones temporales realizadas durante el periodo comprendido entre el 20 de noviembre de 2000 y el 5 de septiembre de 2006, siempre que en la fecha en que se realice la rectificación del pedimento de importación temporal cuenten con la autorización a que se refiere el Decreto por el que se establecen diversos Programas de Promoción Sectorial, y sus reformas:
+
+(VEASE ARCHIVO ANEXO)
