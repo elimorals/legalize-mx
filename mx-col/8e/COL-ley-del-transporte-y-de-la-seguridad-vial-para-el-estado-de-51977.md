@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -165,7 +165,9 @@ VIII. Regular el servicio de estacionamientos, encierros, pensiones; confinamien
 
 IX. Aprobar, fijar y modificar, previo el estudio técnico que lleve a cabo el Consejo o la Dirección General, las tarifas aplicables de cualquier modalidad del servicio de transporte público; así como, de todos aquellos permisos o servicios auxiliares del transporte, incluyendo los estacionamientos, encierros, corralones y confinamientos públicos;
 
-X. Autorizar y fijar las tarifas especiales a personas con discapacidad, adultos mayores, menores de edad y estudiantes, en el servicio público de transporte;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+X. Autorizar y fijar las tarifas especiales a personas con discapacidad, adultos mayores, jubilados y pensionados, menores de edad y estudiantes, en el servicio público de transporte;
 
 XI. Aprobar el Programa; y
 
@@ -675,9 +677,11 @@ La Secretaría de Desarrollo Urbanos y los Ayuntamientos en el ámbito de su com
 
 En el transporte público de pasajeros, los niños menores de cinco años no pagarán ningún tipo de tarifa.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTÍCULO 63.
 
-Para el caso de los Estudiantes, discapacitados y los adultos en plenitud, que utilicen el servicio de transporte público colectivo, pagarán la tarifa que autorice el Ejecutivo del Estado previo acuerdo en el seno del Consejo.
+Para el caso de los estudiantes, discapacitados, los adultos en plenitud y jubilados y pensionados que utilicen el servicio de transporte público colectivo, pagarán la tarifa que autorice el Ejecutivo del Estado previo acuerdo en el seno del Consejo.
 
 ### CAPÍTULO V. De la Suspensión del Servicio
 
@@ -1856,3 +1860,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
