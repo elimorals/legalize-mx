@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2006-12-09"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -223,7 +223,7 @@ En casos extraordinarios o cuando exista duda de la competencia de alguna depend
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 24.
 
@@ -231,13 +231,11 @@ Para el estudio, planeación y despacho de los asuntos del orden administrativo,
 
 Secretaría General de Gobierno.
 
-Secretaría de Finanzas.
+Secretaría de Finanzas y Administración.
 
 Secretaría de Planeación y Evaluación.
 
 Secretaría de Fomento Social.
-
-Secretaría de Administración.
 
 Secretaría de Desarrollo Industrial.
 
@@ -333,51 +331,103 @@ XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para e
 
 XIX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de Finanzas corresponde al despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Administración, le corresponde al despacho de los siguientes asuntos:
 
-I.- Atender todo lo concerniente a las funciones de naturaleza fiscal y financiera y, en general, ejercer las atribuciones que le confieren la Constitución Política, el Código Fiscal del Estado, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos;
+I.- Atender todo lo concerniente a la administración financiera y fiscal y, en general, ejercer las atribuciones que le confiere la Constitución Política del Estado de Chihuahua, el Código Fiscal del Estado de Chihuahua, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua; la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos legales;
 
-II.- Elaborar y presentar al Ejecutivo el proyecto anual de la Ley de Ingresos y del Presupuesto de Egresos; en la elaboración de este último participarán la Secretaría de Administración y la Secretaría de Planeación y Evaluación;
+II.- Definir, diseñar e instrumentar el sistema financiero integral para llevar la recaudación, el ejercicio del gasto, el control presupuestal y la contabilidad gubernamental, desde el origen de las operaciones hasta su registro definitivo, expidiendo las normas y lineamientos para su operación;
 
-III.- Integrar la estructura programática y presupuestal del Presupuesto de Egresos, considerando la propuesta que al efecto le sea presentada por la Secretaría de Administración y la Secretaría de Planeación y Evaluación de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables;
+III. Ejercer las funciones de ingresos; control presupuestal; planeación, operación y control financiero; contabilidad gubernamental; recursos humanos, materiales, suministros y servicios generales; subsidios y transferencias, con los procesos, los sistemas y las estructuras necesarias para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
 
-IV.- Ejercer las atribuciones y cumplir con las obligaciones derivadas de los convenios fiscales y financieros que celebre el Gobierno del Estado con el Gobierno Federal, los Municipios, o con sus sectores paraestatales y paramunicipales, y con personas físicas o morales;
+IV. Determinar y aplicar las normas, lineamientos, técnicas, procedimientos y sistemas a seguir para la instrumentación y operación del Sistema Integral para la Planeación, la Programación y la Presupuestación del Gasto Público Estatal;
 
-V.- Recaudar los recursos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos deba percibir el Estado, ejerciendo en su caso la facultad económico-coactiva y, en general, cualesquiera de las facultades que al Estado le otorgan las leyes, reglamentos y demás disposiciones en materia fiscal, incluyendo las derivadas de normas federales aplicables por la celebración de convenios y acuerdos con el Gobierno Federal;
+V. Elaborar y presentar al Ejecutivo el proyecto anual de Ley de Ingresos y del Presupuesto de Egresos del Estado; participando en la elaboración de este último la Secretaría de Planeación y Evaluación;
 
-VI.- Custodiar y concentrar los fondos y valores del Gobierno del Estado;
+VI. Integrar la estructura programática y presupuestal del Presupuesto de Egresos, considerando, en su caso, las propuestas que al efecto le sean presentadas por la Secretaría de Planeación y Evaluación y por las demás dependencias, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-VII.- Negociar la deuda pública del Estado, así como llevar el registro y control del endeudamiento público de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus municipios;
+VII. Vigilar y controlar la aplicación programática y presupuestal en el ejercicio del Presupuesto de Egresos, así como emitir las normas y procedimientos para el pago, ejercicio, control, seguimiento y evaluación del Presupuesto de Egresos en materia de recursos humanos; recursos materiales y suministros; servicios generales, subsidios y transferencias, coordinándose con la Secretaría de Planeación y Evaluación para la emisión, por parte de esta última, de las solicitudes de pago en lo relativo al gasto de inversión;
 
-VIII.- Representar al Estado, salvo disposición expresa del Gobernador, en procedimientos, juicios y controversias fiscales, así como en todos aquellos derivados o relacionados con las materias de su competencia, y participar en los contratos de obra pública;
+VIII. Autorizar las erogaciones adicionales a las contempladas en el Presupuesto de Egresos, derivadas de ingresos excedentes a los estimados en la Ley de Ingresos y efectuar ampliaciones o transferencias entre partidas del Presupuesto de Egresos, cuando no se requiera autorización del Congreso del Estado, de conformidad con lo dispuesto en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado;
 
-IX.- Celebrar los convenios y contratos relacionados con servicios bancarios, financieros y fiduciarios, que deba suscribir el Ejecutivo conforme a las disposiciones aplicables;
+IX. Someter al Titular del Ejecutivo, la propuesta de ajustes al Presupuesto de Egresos ante la disminución de ingresos estimados en la Ley de Ingresos, con la opinión previa de la Comisión Estatal de Gasto-Financiamiento;
 
-X.- Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal con el Gobierno Federal, los Estados y los municipios;
+X. Notificar a los Poderes, Órganos Autónomos y Entidades del Ejecutivo, los montos presupuestales autorizados a ejercer;
 
-XI.- Autorizar los procedimientos necesarios para la captación, manejo, registro y control de los recursos provenientes de la aplicación de la Ley de Ingresos y de aquellos otros que tenga derecho a percibir el Gobierno del Estado;
+XI. Supervisar y evaluar la aplicación del Presupuesto de las dependencias y entidades de la administración pública estatal, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
 
-XII.- Elaborar y ejecutar programas tendientes a incrementar los ingresos del Estado;
+XII. Solicitar la presentación de los informes a los Poderes, Órganos Autónomos y a las dependencias y entidades de la administración pública estatal, respecto de los recursos no comprometidos, y, en su caso, solicitar su devolución;
 
-XIII.- Llevar la contabilidad de la Hacienda Pública Estatal;
+XIII. Realizar los pagos conforme al Presupuesto de Egresos, los lineamientos para el ejercicio del gasto y los calendarios financieros;
 
-XIV.- Someter a la consideración del Ejecutivo la Cuenta Pública del Estado, anual y trimestral, para su presentación al Congreso, y el Movimiento de Ingresos y Egresos para su publicación mensual;
+En materia de gastos de inversión realizar los pagos cuando así corresponda, de acuerdo a las solicitudes de pago que realice la Secretaría de Planeación y Evaluación;
 
-XV.- Establecer medidas de control respecto de los ingresos y registro de los egresos de las entidades paraestatales, así como los ingresos de los patronatos, asociaciones, organizaciones y particulares, que manejen recursos del Estado;
+XIV. Emitir las órdenes de compra de las dependencias y controlar las que, en su caso, se descentralicen a las mismas;
 
-XVI.- Ejercer las funciones de ingresos; control presupuestal; planeación, operación y control financieros; fiscalización y contabilidad estatal; con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
+XV. Autorizar los procedimientos necesarios para la captación, manejo, registro y control de los recursos provenientes de la aplicación de la Ley de Ingresos y de aquellos otros que tenga derecho a percibir el Gobierno del Estado, así como elaborar y ejecutar programas tendientes a incrementar los ingresos del Estado;
 
-XVII.- Realizar los pagos conforme al Presupuesto de Egresos y, cuando así corresponda, de acuerdo con las solicitudes de pago que realice la Secretaría de Planeación y Evaluación en materia de programas de inversión y la Secretaría de Administración en materia de gastos de operación y de subsidios;
+XVI. Recaudar los recursos establecidos en la Ley de Ingresos, ejerciendo en su caso la facultad económico-coactiva y, en general, ejercer las facultades que al Ejecutivo o al órgano encargado de las finanzas públicas del Estado, le otorgan las leyes, reglamentos y demás disposiciones legales, incluyendo las derivadas de normas federales aplicables por la celebración de convenios y acuerdos con el Gobierno Federal o con los Municipios;
 
-XVIII.- Llevar y actualizar el registro y control de los padrones de contribuyentes, y vigilar y controlar el cumplimiento de sus obligaciones;
+XVII. Celebrar, de conformidad con las disposiciones legales aplicables los convenios fiscales y financieros del Gobierno del Estado, con el Gobierno Federal, los Municipios o con sus sectores paraestatal y paramunicipal, así como organismos públicos autónomos y con personas físicas o morales, ejerciendo las atribuciones y cumpliendo con las obligaciones derivadas de los mismos;
 
-XIX.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal; y
+XVIII. Operar y actualizar el registro y control de los padrones de contribuyentes, así como vigilar y requerir el cumplimiento de sus obligaciones;
 
-XX.- Los demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
+XIX. Establecer medidas de control respecto de los ingresos de las entidades paraestatales, así como de los recursos aportados por el Estado por lo que se refiere a los patronatos, asociaciones y particulares, en los términos de los ordenamientos legales aplicables;
+
+XX. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, así como la de los impuestos federales coordinados, y realizar una labor permanente de difusión, orientación y asistencia fiscal al contribuyente;
+
+XXI. Custodiar y concentrar los fondos y valores del Gobierno del Estado;
+
+XXII. Constituirse en beneficiaria de las garantías que se otorguen a favor del Gobierno del Estado;
+
+XXIII. Celebrar los convenios y contratos relacionados con los servicios bancarios, financieros y fiduciarios que debe suscribir el Ejecutivo, conforme a las disposiciones aplicables;
+
+XXIV. Negociar la deuda pública del Estado, así como llevar el registro y control del endeudamiento público, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios;
+
+XXV. Representar al Estado, salvo disposición expresa del Gobernador, en procedimientos, juicios y controversias fiscales, laborales y administrativas, así como en todos los relacionados con las materias de su competencia, y participar en los actos, contratos y convenios en que se obligue económicamente al Estado;
+
+XXVI. Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal y colaboración administrativa en la materia de su competencia;
+
+XXVII. Llevar la Contabilidad Gubernamental;
+
+XXVIII. Solicitar a las entidades paraestatales del Poder Ejecutivo, la información financiera y presupuestal requerida por las comisiones legislativas;
+
+XXIX. Formular y someter a la consideración del Ejecutivo la Cuenta Pública del Estado, trimestral y anual, para su presentación al H. Congreso del Estado, así como el movimiento de ingresos y egresos para su publicación mensual;
+
+XXX. Ejercer las atribuciones que le confieren las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, así como cuidar su cumplimiento; de igual forma, vigilar que las dependencias y entidades paraestatales las ejerzan conforme a las disposiciones legales aplicables;
+
+XXXI. Establecer medidas de control respecto a las materias de administración, de recursos humanos, adquisición y arrendamiento de bienes y contratación de servicios por parte de las entidades paraestatales;
+
+XXXII. Vigilar el cumplimiento de las disposiciones legales relativas al uso y destino de los bienes muebles e inmuebles asignados a las dependencias del Gobierno del Estado y demás bienes no destinados a un fin específico, así como respecto a la enajenación de los muebles e inmuebles propiedad del Estado, excepto las reservas territoriales;
+
+XXXIII. Administrar, conservar y mantener el patrimonio del Gobierno del Estado, así como celebrar los convenios, contratos y acuerdos requeridos para dicho propósito; asegurar y conservar la documentación correspondiente y llevar el registro del patrimonio inmobiliario del Estado;
+
+XXXIV. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos de compraventa, comodato, donaciones y demás relativos al patrimonio mobiliario e inmobiliario del Gobierno del Estado, excepto las reservas territoriales, así como en los convenios y contratos de prestación de servicios y de arrendamiento de bienes muebles e inmuebles;
+
+XXXV. Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal;
+
+XXXVI. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y sus servidores públicos;
+
+XXXVII. Reclutar y seleccionar al personal en apoyo de las dependencias del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales, todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos;
+
+Del mismo modo, expedir los nombramientos de los servidores públicos designados por el Gobernador, cuando éste no lo haga directamente;
+
+XXXVIII. Establecer y mantener actualizadas las categorías de puestos, el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas; de igual manera, establecer las categorías de puestos y tabuladores equivalentes en las entidades de la administración pública paraestatal;
+
+XXXIX. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Gobierno del Estado, atendiendo en su caso, las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
+
+XL. Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades del Poder Ejecutivo;
+
+XLI. Normar, planear y diseñar conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para lograr su desarrollo y modernización, evaluando el desempeño de los resultados;
+
+XLII. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación a nivel competitivo, así como una plataforma de desarrollo de sistemas, basada en un modelo integral de datos que permita optimizar las funciones del Ejecutivo;
+
+XLIII. Desarrollar y administrar el equipo central de computación, las redes estatales de datos, telefonía y los demás servicios informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias; y
+
+XLIV. Las demás que le atribuyan expresamente las leyes, los reglamentos y las demás disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -389,13 +439,19 @@ II.- Analizar y presentar al Ejecutivo para su aprobación, los programas de inv
 
 III.- Establecer la coordinación del Plan Estatal de Desarrollo y de los programas que de él se deriven, con los planes y programas del gobierno federal y de los municipios de la Entidad;
 
-IV.- En materia de programas de inversión, participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado, emitir la afectación presupuestal y solicitar a la Secretaría de Finanzas los pagos correspondientes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- En materia de programas de inversión, participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado, emitir la afectación presupuestal y solicitar a la Secretaría de Finanzas y Administración los pagos correspondientes;
 
 V.- Aperturar las cuentas bancarias necesarias para operar los diferentes programas de inversión concertados con la Federación y los municipios, así como llevar el control presupuestal y financiero de los mismos;
 
-VI.- Participar con la Secretaría de Finanzas y la Secretaría de Administración en la elaboración del Presupuesto de Egresos, para su presentación al Ejecutivo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-VII.- Proponer a la Secretaría de Finanzas, conjuntamente con la Secretaría de Administración, la estructura programática y presupuestal del presupuesto de egresos, de conformidad con lo dispuesto por esta ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, y por la Ley de Planeación para el Estado de Chihuahua;
+VI.- Participar con la Secretaría de Finanzas y Administración en la elaboración del Presupuesto de Egresos, para su presentación al Ejecutivo;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+VII.- Proponer a la Secretaría de Finanzas y Administración la estructura programática y presupuestal del presupuesto de egresos, de conformidad con lo dispuesto por esta Ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, y por la Ley de Planeación para el Estado de Chihuahua;
 
 VIII.- Promover la participación de los sectores social y privado en la formulación de los planes y programas, así como en la evaluación de los mismos;
 
@@ -403,7 +459,9 @@ IX.- Organizar y operar un sistema permanente de evaluación y seguimiento de la
 
 X.- Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las dependencias y entidades de la administración pública estatal, para la instrumentación de sus sistemas internos de planeación, programación y evaluación; así mismo, las medidas de control respecto a los programas de inversión de las entidades paraestatales;
 
-XI.- Establecer la adecuada coordinación con las Secretarías de Finanzas y de Administración para la integración de los programas operativos anuales en el proyecto de presupuesto de egresos del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+XI.- Establecer la adecuada coordinación con la Secretaría de Finanzas y de Administración para la integración de los programas operativos anuales en el proyecto de Presupuesto de Egresos del Estado;
 
 XII.- Ejercer las funciones de planeación, programación y evaluación, con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas; y
 
@@ -467,49 +525,7 @@ XIV.- Promover, coordinar y realizar la evaluación permanente de programas y se
 
 XV.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
-
-ARTICULO 27 BIS.- A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
-
-I.- Participar con la Secretaría de Finanzas y la Secretaría de Planeación y Evaluación en la elaboración del Presupuesto de Egresos;
-
-II.- Emitir, con base en el Presupuesto de Egresos del Estado, la normatividad para el control del ejercicio del gasto público de operación y subsidios que deban realizar las dependencias y entidades de la administración pública estatal;
-
-III.- Proponer a la Secretaría de Finanzas, conjuntamente con la Secretaría de Planeación y Evaluación, la estructura presupuestal y programática del presupuesto de egresos, de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables en la materia;
-
-IV.- Expedir las solicitudes para las erogaciones por gastos de operación y subsidios con cargo al presupuesto de las dependencias de la administración pública estatal;
-
-V.- Ejercer las funciones relativas a la administración de los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
-
-VI.- Establecer medidas de control respecto a las materias de administración de recursos humanos, adquisición y arrendamiento de bienes y contratación de servicios por parte de las entidades paraestatales;
-
-VII.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, y vigilar que las dependencias y entidades ejerzan conforme a la Ley las atribuciones que ésta les confiera en la materia;
-
-VIII.- Aplicar la normatividad en materia de adquisición, administración, uso y destino de los bienes muebles e inmuebles destinados al funcionamiento de las dependencias del Ejecutivo y demás bienes no destinados a un fin específico, y respecto de la enajenación de muebles e inmuebles propiedad del Estado, excepto las reservas territoriales;
-
-IX.- Apoyar a las dependencias en la programación de la adquisición de sus bienes, servicios y recursos materiales, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
-
-X.- Planear y diseñar conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del gobierno;
-
-XI.- Programar, realizar y celebrar los convenios y contratos relativos a las adquisiciones y arrendamiento de bienes muebles e inmuebles y la contratación de servicios;
-
-XII.- Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal, así como el inventario de los bienes muebles e inmuebles propiedad del Estado, estableciendo programas para su conservación y mantenimiento, excepto las reservas territoriales;
-
-XIII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades del sector paraestatal;
-
-XIV.- Intervenir en los términos de las leyes de la materia en la celebración de contratos de compraventa, comodato, donaciones y demás en los que se afecte el patrimonio mobiliario e inmobiliario del Gobierno del Estado, en materia de su competencia, salvo las reservas territoriales;
-
-XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los servidores públicos;
-
-XVI.- Reclutar y seleccionar, en apoyo de las dependencias, al personal del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos.
-
-Del mismo modo, expedir los nombramientos de los servidores públicos designados por el Gobernador, cuando éste no lo haga directamente;
-
-XVII.- Mantener actualizado el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas;
-
-XVIII.- Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Poder Ejecutivo, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado; y
-
-XIX.- Los demás que le atribuyan expresamente las Leyes, los reglamentos y las demás disposiciones normativas.
+ARTICULO 27 BIS.- (DEROGADO, P.O. 30 DE JUNIO DE 2007)
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -833,9 +849,9 @@ VII.- Recibir y revisar las declaraciones de situación patrimonial de los servi
 
 VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cuando utilicen recursos federales o estatales, con motivo del ejercicio de las atribuciones que en esta materia lleve a cabo por sí o por conducto de firmas profesionales independientes;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-IX.- Seleccionar, con la opinión del Secretario de Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
+IX.- Seleccionar, con la opinión del Titular de la Secretaría de Finanzas y Administración, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -999,11 +1015,13 @@ La vigilancia de la participación estatal estará a cargo de un Comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMAR PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 41.
 
-Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autorice al (sic) Congreso de acuerdo a lo dispuesto en el artículo 64 fracción XLI de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Secretaría de Finanzas será el fideicomitente único de la administración centralizada.
+Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autorice el Congreso de acuerdo a lo dispuesto en el artículo 64, fracción XLI de la Constitución Política del Estado. En los instrumentos relativos a la formalización del fideicomiso deberá indicarse el decreto del Congreso del Estado que lo autoriza. La Secretaría de Finanzas y Administración será el fideicomitente único de la administración centralizada.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Las entidades a que se refiere el artículo 3 de esta ley fungirá (sic) como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
 
@@ -1448,3 +1466,31 @@ P.O. 9 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente artículo entrará en vigor el primero de enero de dos mil siete, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
