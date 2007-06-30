@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-114839"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2007-06-18"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,6 +21,8 @@ abbreviation: "LIGIE_2022"
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
+
+> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
 
 TEXTO ORIGINAL.
 
@@ -81249,3 +81251,11 @@ El arancel establecido en el artículo primero de la presente Ley para las fracc
 México, D.F., a 26 de abril de 2007.- Dip. Maria Elena Alvarez Bernal, Vicepresidenta.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES
+
+> <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 30 DE JUNIO DE 2007.
+
+> <small>[N. DE E., VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, DEL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL Y DE LOS DIVERSOS POR LOS QUE SE ESTABLECE EL ESQUEMA DE IMPORTACIÓN A LA FRANJA FRONTERIZA NORTE Y REGIÓN FRONTERIZA”.]</small>
