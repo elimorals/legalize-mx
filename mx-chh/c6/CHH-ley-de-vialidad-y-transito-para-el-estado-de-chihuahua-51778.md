@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2006-10-14"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -121,7 +121,9 @@ I. Los peritos en vialidad:
 
 II. El personal del Servicio Médico Oficial, autorizado por la Dirección, en materia de Vialidad;
 
-III. La Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+III. La Secretaría de Finanzas y Administración;
 
 IV. Las Tesorerías Municipales de aquellos municipios que presten el servicio de Tránsito;
 
@@ -295,11 +297,15 @@ IV. Expedir el Certificado de Lesiones; y
 
 V. Brindar los primeros auxilios y atención médica a los conductores remitidos a la delegación de tránsito y/o vialidad, cuando se haga necesario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 21.
 
-Compete a la Secretaría de Finanzas:
+Compete a la Secretaría de Finanzas y Administración:
 
-I. Expedir y entregar a los propietarios o legítimos poseedores de vehículos las placas metálicas, tarjetas de circulación, calcomanías u hologramas y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran, una vez que hayan cumplido con los requisitos que para tal efecto establecen las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+I. Expedir y entregar a los propietarios o legítimos poseedores de vehículos, las placas metálicas, tarjeta de circulación y demás signos de identificación que, por la naturaleza de los vehículos y condiciones de prestación de los servicios, se requieren, una vez que hayan cumplido con los requisitos que para tal efecto establecen las disposiciones aplicables;
 
 II. Mantener actualizado el padrón vehicular estatal en coordinación con la Dirección de Tránsito y / o Vialidad; y
 
@@ -387,13 +393,17 @@ Los vehículos de servicio público de transporte son aquellos que operan sujeto
 
 Son vehículos de paso preferencial o emergencia, aquellos que cumplen funciones de seguridad y asistencia social, por lo que deberán de estar plenamente identificados como tales, además de contar con la autorización que para tal efecto establecen los ordenamientos legales correspondientes.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 32.
 
-Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse ante la Secretaría de Finanzas.
+Los vehículos que circulan por las vías públicas y que no se encuentren registrados en otra Entidad Federativa, deberán registrarse ante la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 33.
 
-Todo vehículo que transite por las vías públicas deberá contar con las placas, tarjeta de circulación, calcomanía u holograma así como la póliza de seguro vigente los cuales acreditarán su registro en el padrón vehicular estatal, previo cumplimiento de los siguientes requisitos:
+Todo vehículo que transite por vías públicas deberá contar con las placas, tarjeta de circulación, así como la póliza de seguro vigente, las cuales acreditarán su registro en el Padrón Vehicular Estatal, previo cumplimiento de los siguientes requisitos:
 
 I. Exhibir el documento que acredite la propiedad o posesión legítima del vehículo;
 
@@ -407,11 +417,13 @@ V. Presentar póliza de seguro vigente que ampare los daños a terceros en sus p
 
 VI. Las demás que disponga esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 34.
 
-Las placas, la tarjeta de circulación y la calcomanía u holograma son intransferibles.
+Las placas y tarjeta de circulación son intransferibles.
 
-En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Finanzas, con objeto de que el nuevo adquiriente esté en aptitud de cumplir con lo establecido en el artículo 33 de esta Ley, obtener las placas, calcomanía u holograma y tarjeta de circulación correspondientes y efectuarse el registro respectivo.
+En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Finanzas y Administración, con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el artículo 33 de esta Ley, obtener las placas y tarjeta de circulación correspondientes y efectuar el registro respectivo.
 
 ###### Artículo 35.
 
@@ -487,9 +499,11 @@ Los ayuntamientos podrán celebrar convenios con la Secretaría, para la expedic
 
 Los vehículos podrán circular sin placas únicamente cuando la autoridad competente expida un permiso provisional, en los casos y bajo el procedimiento que determine la reglamentación aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 44.
 
-La Secretaría de Finanzas expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley.
+La Secretaría de Finanzas y Administración expedirá las placas de circulación que correspondan de acuerdo al tipo de vehículo de que se trate, de conformidad a las disposiciones de esta Ley y reglamento correspondiente.
 
 Estas se clasifican en:
 
@@ -517,9 +531,11 @@ Las placas de demostración se proporcionarán exclusivamente a las personas fí
 
 La persona a la que le hayan sido proporcionados juegos de placas de demostración deberá de llevar un registro de los vehículos sobre los que se han portado y será responsable del uso que de las mismas se hagan.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 47.
 
-El extravío o robo de una o ambas placas de cualquier tipo deberá notificarse a la Secretaría de Finanzas en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
+El extravío o robo de una o ambas placas de circulación de cualquier tipo, deberá notificarse a la Secretaría de Finanzas y Administración en un término de cinco días hábiles posteriores al que ocurra la desaparición, previa denuncia de hechos ante la autoridad correspondiente, con el objeto de que se tramite la reposición de las mismas, cancelándose el registro existente de las anteriores.
 
 ### CAPÍTULO PRIMERO. DE LOS CONDUCTORES Y PASAJEROS
 
@@ -560,34 +576,6 @@ c) Segundo Grado de Intoxicación Alcohólica: De .140 a .229 % BAC (Miligramos 
 d) Tercer Grado de Intoxicación Alcohólica: A partir de .230 % BAC (Miligramos por litro de concentración de alcohol en sangre).
 
 Cuando el conductor que se oponga o por sus condiciones físicas, no se pueda diagnosticar el grado de ebriedad en aire expirado por medio del alcoholímetro, el médico examinante quedará facultado para practicar el examen clínico.
-
-###### Artículo 50.
-
-Son obligaciones de los conductores:
-
-I. Utilizar los cinturones de seguridad del vehículo. Esta disposición se hará extensiva también a los pasajeros;
-
-II. Disminuir su velocidad o detenerse, dando preferencia peatonal en los casos que determinen los reglamentos aplicables;
-
-III. Conducir dentro de los límites de velocidad observando las disposiciones que para tal efecto señale el ordenamiento legal correspondiente;
-
-IV. Obedecer las luces de los semáforos y todos los señalamientos viales existentes en las vías públicas;
-
-V. Obedecer las señales manuales y atender las medidas de seguridad que hagan los agentes de tránsito;
-
-VI. Utilizar el claxon únicamente cuando se haga necesario;
-
-VII. Contar con licencia de conducir vigente que le haya sido otorgada para la clase de vehículo que conduzca, así como traer en el vehículo la tarjeta de circulación vigente del mismo, y la póliza de seguro vigente con cobertura de daños a terceros que garantice su responsabilidad civil en caso de accidente.
-
-VIII. Obedecer las señales manuales que en los términos de la presente Ley realicen las personas autorizadas por los centros escolares dentro de su perímetro;
-
-IX. Presentarse ante las autoridades de tránsito cuando así sea requerido;
-
-X. Entregar a los oficiales la documentación inherente a la conducción de tránsito de vehículos, cuando le sea solicitada;
-
-XI. Utilizar casco protector, tanto los conductores como sus acompañantes, en el caso de que los vehículos fuesen motocicletas; y,
-
-XII. Las demás que establezca esta Ley.
 
 ###### Artículo 50.
 
@@ -1218,3 +1206,33 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
