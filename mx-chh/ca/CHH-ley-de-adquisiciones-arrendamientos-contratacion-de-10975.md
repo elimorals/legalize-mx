@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2005-01-19"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -81,13 +81,17 @@ II. Dependencias: las Unidades de la Administración centralizada, estatal o mun
 
 III. Organismos: las Unidades Descentralizadas, del Estado o de los Municipios, quedando comprendidas las señaladas en las fracciones IV, V y VI del artículo 1;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-IV. Secretaría: la Secretaría de Administración;
+IV. Secretaría: La Secretaría de Finanzas y Administración;
 
-V. Contraloría: la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-VI. Coordinación: la Coordinación de Planeación y Evaluación;
+V. Contraloría: La Secretaría de la Contraloría;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+VI. Planeación: La Secretaría de Planeación y Evaluación;
 
 VII. Proveedor: la persona física o moral con quien se celebren o pretendan celebrarse contratos de adquisiciones, arrendamientos o servicios;
 
@@ -143,21 +147,27 @@ Las adquisiciones, arrendamientos y la contratación de servicios y de obra púb
 
 El gasto de las adquisiciones, arrendamientos y servicios, así como de obra pública, se sujetará a lo previsto en la Constitución Política del Estado, en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado, a las disposiciones específicas previstas en los Presupuestos de Egresos del Estado y de los Municipios, así como en las demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 7.
 
-En el ámbito del Poder Ejecutivo, la Dirección y la Contraloría dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta ley, tomando cada una en cuenta la opinión de la otra, así como de la dependencia o entidad involucrada.
+En el ámbito del Poder Ejecutivo, la Secretaría y la Contraloría dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando cada una en cuenta la opinión de la otra, así como de la Dependencia o Entidad involucradas.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
 
 Lo propio harán el Poder Legislativo en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo aplicará estas disposiciones por conducto de la Dirección, la Dirección General de Comunicaciones y Obras Públicas, la Coordinación y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
+El Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, la Secretaría de Comunicaciones y Obras Públicas, Planeación y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
 
 El Congreso del Estado las aplicará a través de sus respectivos órganos de administración, en lo referente a sus adquisiciones, arrendamientos y contratación de servicios y obra pública.
 
-Los Ayuntamientos las aplicarán por conducto de sus Tesorerías y Oficialías Mayores, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal. Cuando realicen adquisiciones, arrendamientos o contraten servicios u obra pública con subsidios, participaciones o fondos estatales, intervendrán la Dirección y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+Los Ayuntamientos las aplicarán por conducto de sus Tesorerías y Oficialías Mayores, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal. Cuando realicen adquisiciones, arrendamientos o contraten servicios u obra pública con subsidios, participaciones o fondos estatales, intervendrán la Secretaría y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 9.
 
@@ -247,7 +257,9 @@ VIII. De preferencia la inclusión de insumos, materiales, equipo, sistemas, bie
 
 IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos, servicios u obra pública.
 
-Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Dirección, la Coordinación y la Contraloría.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Secretaría, Planeación y la Contraloría.
 
 ###### Artículo 20.
 
@@ -297,9 +309,9 @@ Todo Ente Público que requiera contratar o realizar estudios o proyectos, verif
 
 En el ámbito estatal, los organismos que sean apoyados presupuestalmente o que reciban transferencias de recursos estatales, remitirán sus programas y presupuestos de adquisiciones, arrendamientos y servicios, así como de obra pública, a la dependencia coordinadora de sector, en los términos que señala la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Las Dependencias coordinadoras de sector y los organismos que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría de Finanzas los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
+Las dependencias coordinadoras de sector y los organismos que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
 
 ###### Artículo 24.
 
@@ -311,15 +323,15 @@ El documento que contenga los programas será de carácter informativo; no supon
 
 Por cada Entidad, Dependencia u Organismo existirá un Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de competencia estatal. En los Municipios existirá un Comité en cada uno de ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 26.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios se integrará por los representantes de la Secretaría, de la Secretaría de Planeación y Evaluación, de la Secretaría de Finanzas y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación del servicio, así como por un representante de la Contraloría del Estado, en su carácter de observador.
+En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios se integrará por los representantes de la Secretaría, de Planeación y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación de servicio, así como por un representante de la Contraloría, en su carácter de observador.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-El Secretario de Administración o su representante fungirá como Presidente del Comité.
+El Secretario de Finanzas y Administración, o su representante, fungirá como Presidente del Comité.
 
 El Congreso del Estado determinará, conforme a su Ley Orgánica, la integración de su Comité de Adquisiciones, Arrendamientos y Servicios, debiendo observar lo relativo a la participación de la Cámara o Asociación correspondiente en los términos del artículo siguiente.
 
@@ -359,9 +371,9 @@ VII. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
 La dependencia o el Ayuntamiento respectivo, podrá autorizar la creación de comités en sus unidades administrativas u órganos desconcentrados, cuando las características de sus funciones así lo requieran.
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Los órganos de gobierno de los organismos podrán establecer dichos comités salvo que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación a juicio de la dirección o Ayuntamiento correspondiente.
+Los órganos de gobierno de los organismos podrán establecer dichos comités salvo que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su instalación a juicio de la Secretaría o Ayuntamiento correspondiente.
 
 > <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
 
@@ -397,11 +409,11 @@ a) La invitación a cuando menos tres proveedores o contratistas según sea el c
 
 b) La adjudicación directa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 32.
 
-En casos excepcionales y previa autorización: de la Secretaría de Finanzas, en el Ejecutivo y su sector paraestatal; del Comité de Administración mediante acta, en el Congreso; y del Ayuntamiento en los Municipios y su sector paramunicipal, se podrá convocar sin contar con saldo disponible en su presupuesto.
+En casos excepcionales y previa autorización: De la Secretaría, en el Ejecutivo y su sector paraestatal; del Comité de Administración mediante acta, en el Congreso; y del Ayuntamiento en los Municipios y su sector paramunicipal, se podrá convocar sin contar con saldo disponible en su presupuesto.
 
 Tratándose de obra pública, además se requerirá contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución y, en su caso, el programa de suministro.
 
@@ -593,13 +605,13 @@ En el caso de la fracción IV de este artículo, la garantía se otorgará previ
 
 Las garantías que deban otorgarse conforme a esta Ley, se constituirán a favor de:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-I. La Secretaría de Finanzas, por actos o contratos que se celebren con las Dependencias estatales;
+l. La Secretaría, por actos o contratos que se celebren con las Dependencias estatales;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-II. El Congreso, por actos y contratos que se celebren con él, y se harán efectivas por la Secretaría de Finanzas;
+II. El Congreso, por actos y contratos que se celebren con él, y se harán efectivas por la Secretaría;
 
 III. Las Tesorerías municipales, por actos o contratos que se celebren con los Ayuntamientos respectivos; y
 
@@ -631,7 +643,9 @@ IV. Aquellas que hubieren proporcionado información que resulte falsa, o que ha
 
 V. Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la administración estatal o municipal;
 
-VI. Las que, en virtud de la información con que cuente la Dirección, la Contraloría o el Municipio respectivo, hayan celebrado contratos en contravención a lo dispuesto por la Ley;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+VI. Las que, en virtud de la información con que cuente la Secretaría, la Contraloría o el Municipio respectivo, hayan celebrado contratos en contravención a lo dispuesto por la Ley;
 
 VII. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o servicios por causas imputables a ellos mismos así como los contratistas en la ejecución de las obras, respecto al cumplimiento de otro u otros contratos y hayan afectado con ello a algún ente público;
 
@@ -651,9 +665,11 @@ En los procedimientos que lleven a cabo los Entes Públicos para la contratació
 
 En igualdad de condiciones, deberá adquirirse cuando menos el 50% de los insumos de bienes y servicios provenientes de la micro, pequeña y mediana empresa local.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 44.
 
-Las Dependencias y Organismos no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de los mismos, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Dirección y de la Contraloría.
+Las Dependencias y Organismos no podrán financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación por parte de los mismos, salvo que, de manera excepcional y por tratarse de proyectos de infraestructura, se obtenga la autorización previa y específica de la Secretaría y de la Contraloría.
 
 La autorización a que se refiere el párrafo anterior, deberá otorgarse por el Comité de Administración mediante acta, si fuere el Congreso el contratante; y por el Ayuntamiento, si la contratación fuera por el Municipio.
 
@@ -1173,25 +1189,33 @@ III. Los plazos para las diversas etapas del procedimiento se sujetarán para ca
 
 ### Capítulo Unico
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 104.
 
-La Dirección y demás Dependencias y Organismos estatales, deberán remitir a la Coordinación y a la Contraloría, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
+La Secretaría y demás Dependencias y Organismos estatales, deberán remitir a Planeación y a la Contraloría, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
 
 De igual manera, lo harán los Municipios cuando la adquisición, el arrendamiento o la contratación del servicio o la obra, se realice con recursos del Estado.
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubiere recibido los bienes o las obras; o prestado el servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 105.
 
-La Coordinación y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+Planeación y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
-La Coordinación de Planeación y Evaluación, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que la obra pública, las adquisiciones, arrendamientos y servicios llevados a cabo por el Ejecutivo y su sector paraestatal, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados, cuando tengan el carácter de estatales.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+Planeación, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que la obra pública, las adquisiciones, arrendamientos y servicios llevados a cabo por el Ejecutivo y su sector paraestatal, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados, cuando tengan el carácter de estatales.
 
 Los Municipios, a través de sus Ayuntamientos, determinarán la Dependencia que en su ámbito de competencia ejecutará las facultades a que se refiere este Título.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### Artículo 106.
 
-Para los efectos de este capítulo, las Dependencias y Organismos, proporcionarán todas las facilidades administrativas necesarias a fin de que la Contraloría y la Coordinación puedan realizar el seguimiento y control físico-financiero correspondiente.
+Para los efectos de este capítulo, las Dependencias y Organismos proporcionarán todas las facilidades administrativas necesarias a fin de que la Contraloría y Planeación puedan realizar el seguimiento y control físico-financiero correspondiente.
 
 ###### Artículo 107.
 
@@ -1430,3 +1454,31 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
