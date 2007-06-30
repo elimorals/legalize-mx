@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2005-01-19"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE DE 2007.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -71,21 +71,27 @@ III. Poder Ejecutivo,
 
 A los poderes mencionados en el artículo anterior, se les denominará genéricamente en la presente ley como "entidades" y salvo mención expresa, se entenderá por "dependencias" a las unidades de la administración centralizada y por "organismos", las unidades de la administración paraestatal.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-Para efectos de esta ley, a la Secretaría de Finanzas se le denominará indistintamente por su nombre o como "La Secretaría".
+Para efectos de esta ley, a la Secretaría de Finanzas y Administración se le denominará indistintamente por su nombre o como "La Secretaría".
 
 ###### ARTICULO 5.
 
 La programación, presupuestación y evaluación del Gasto Público se apoyará en lineamientos, directrices, estrategias y metas a realizar de acuerdo con las necesidades que exija el desarrollo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 6.
 
-La Coordinación de Planeación y Evaluación regulará la programación y la evaluación del gasto público, y comprenderá los objetivos, estrategias y metas a realizar, de acuerdo con el Plan Estatal de Desarrollo que para tal efecto emita el Ejecutivo.
+La Secretaría de Planeación y Evaluación regulará la programación y la evaluación del gasto público, y comprenderá los objetivos, estrategias y metas a realizar, de acuerdo con el Plan Estatal de Desarrollo que para tal efecto emita el Ejecutivo.
 
-La Dirección integrará los programas operativos anuales en el proyecto de presupuesto; la formulación del proyecto de presupuesto, el registro contable y control financiero del ejercicio del gasto público, y la elaboración de la cuenta pública del Gobierno del Estado, dictando las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-El control y la evaluación del gasto público y del avance de los programas de las Dependencias y los Organismos, se efectuarán por conducto de la dirección, la Coordinación de Planeación y Evaluación y la Contraloría del Estado, en el ámbito de sus respectivas competencias.
+La Secretaría integrará los programas operativos anuales en el proyecto de presupuesto; la formulación del proyecto de presupuesto, el registro contable y control financiero del ejercicio del gasto público, y la elaboración de la cuenta pública del Gobierno del Estado, dictando las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+El control y la evaluación del gasto público y del avance de los programas de las dependencias y los organismos, se efectuarán por conducto de la Secretaría, la Secretaría de Planeación y la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias.
 
 Si el Congreso dejare de expedir oportunamente el presupuesto de egresos, continuará rigiendo el presupuesto que hubiere estado vigente el año anterior.
 
@@ -93,9 +99,11 @@ Si el Congreso dejare de expedir oportunamente el presupuesto de egresos, contin
 
 Las Dependencias Coordinadoras de Sector, en los términos de las disposiciones aplicables, coordinarán la programación y la presupuestación de los organismos de la Administración Pública Paraestatal, agrupados en su sector y vigilarán que conduzcan sus actividades conforme al Plan Estatal de Desarrollo y al Programa Sectorial correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 8.
 
-En caso de duda respecto a la interpretación de esta Ley, se estará a los criterios que para efectos administrativos emita la Dirección.
+En caso de duda respecto a la interpretación de esta Ley, se estará a los criterios que para efectos administrativos emita la Secretaría.
 
 ###### ARTICULO 9.
 
@@ -109,11 +117,15 @@ Los titulares de las dependencias coordinarán la programación y formulación d
 
 La fiscalización de los ingresos y del ejercicio del gasto público a través de auditorías, inspecciones y verificaciones físicas, quedarán encomendada (sic) al Poder Legislativo,
 
-El Ejecutivo, dentro de su respectiva competencia, efectuará la supervisión del funcionamiento de los mecanismos de control y verificación de programas de inversión de la Administración Pública Estatal, así como de los Programas convenidos con la Federación en el caso de este último, se efectuará por conducto de la Contraloría.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+El Ejecutivo, dentro de su respectiva competencia, efectuará la supervisión del funcionamiento de los mecanismos de control y verificación de programas de inversión de la Administración Pública Estatal, así como de los Programas convenidos con la Federación; en el caso de este último, se efectuará por conducto de la Secretaría de la Contraloría.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 12.
 
-Las necesidades de crédito del Gobierno del Estado requerirán la aprobación de la Dirección, previamente a la presentación de la iniciativa correspondiente al Congreso del Estado, conforme a las disposiciones de la ley de Deuda Pública.
+Las necesidades de crédito del Gobierno del Estado requerirán la aprobación de la Secretaría, previamente a la presentación de la iniciativa correspondiente al Congreso del Estado, conforme a las disposiciones de la Ley de Deuda Pública.
 
 ## TITULO SEGUNDO
 
@@ -133,9 +145,13 @@ II. Analizar y discutir los ante-proyectos anuales de programas y presupuestos q
 
 III. Solicitar a las Dependencias y Organismos la información complementaria que a juicio de la Comisión se requiera para la justificación y el completo análisis de los proyectos de programas y presupuestos que aquellas formulen,
 
-IV. Analizar y proponer a la Dirección las prioridades del Gasto Público Estatal, de conformidad con los planes y programas de Gobierno, las políticas del Ejecutivo y la proyección de los ingresos del Gobierno del Estado,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-V. Analizar y proponer a la Dirección, fuentes y mecanismos que en su caso se requieran para financiar el Gasto Público Estatal, adicionalmente a los recursos provenientes de los créditos fiscales estatales y de las participaciones federales, procurando conservar el equilibrio financiero del Gobierno del Estado, en el corto, mediano y largo plazo y
+IV. Analizar y proponer a la Secretaría las prioridades del Gasto Público Estatal, de conformidad con los planes y programas de Gobierno, las políticas del Ejecutivo y la proyección de los ingresos del Gobierno del Estado,
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+V. Analizar y proponer a la Secretaría, fuentes y mecanismos que en su caso se requieran para financiar el Gasto Público Estatal, adicionalmente a los recursos provenientes de los créditos fiscales estatales y de las participaciones federales, procurando conservar el equilibrio financiero del Gobierno del Estado, en el corto, mediano y largo plazo; y
 
 VI. Las demás, que expresamente señale esta Ley.
 
@@ -159,13 +175,19 @@ I.- Las políticas y directrices que emanen de los diversos instrumentos de pol�
 
 II.- La evaluación de las realizaciones físicas y actividades financieras del ejercicio anterior,
 
-III.- El marco macroeconómico que para el ejercicio correspondiente elabore la Dirección,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-IV.- Las políticas del gasto público que determine el Ejecutivo Estatal a través de la Dirección,
+III.- El marco macroeconómico que para el ejercicio correspondiente elabore la Secretaría,
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- Las políticas del gasto público que determine el Ejecutivo Estatal a través de la Secretaría,
 
 V.- La interrrelación (sic) con los acuerdos de concertación celebrados con los Sectores Privado y Social, Convenios de Coordinación con el Gobierno Federal y/o Municipal y con el contexto del compromiso nacional del gasto, y
 
-VI.- El programa financiero general que elabore la Dirección.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+VI.- El programa financiero general que elabore la Secretaría.
 
 ### CAPITULO SEGUNDO. DE LOS PROGRAMAS OPERATIVOS ANUALES
 
@@ -175,23 +197,33 @@ Las entidades deberán elaborar su anteproyecto de Presupuesto con base en progr
 
 La programación debe ser un proceso permanente y sistemático, y el instrumento que permita ordenar y racionalizar las acciones y optimizar los recursos, para el logro de los objetivos del Gobierno.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 18.
 
-Los programas operativos anuales, sean éstos de inversión o de operación, que formulen las dependencias y los organismos, se sujetarán a un proceso coordinado y normado por la Coordinación de Planeación y Evaluación, en el que se dictarán las normas, políticas y lineamientos a seguir, a más tardar el quince de agosto de cada año.
+Los programas operativos anuales, sean éstos de inversión o de operación, que formulen las dependencias y los organismos, se sujetarán a un proceso coordinado y normado por la Secretaría de Planeación y Evaluación, en el que se dictarán las normas, políticas y lineamientos a seguir, a más tardar el quince de agosto de cada año.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 19.
 
-Los programas operativos anuales de las dependencias y los organismos deberán ser analizados y compatibilizados por la Coordinación de Planeación y Evaluación, con el apoyo que se requiera del Comité de Planeación para el Desarrollo del Estado, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Estatal de Desarrollo y de los programas de mediano plazo que de él se deriven, en los términos de las leyes relativas.
+Los programas operativos anuales de las dependencias y los organismos deberán ser analizados y compatibilizados por la Secretaría de Planeación y Evaluación, con el apoyo que se requiera del Comité de Planeación para el Desarrollo del Estado, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Estatal de Desarrollo y de los programas de mediano plazo que de él se deriven, en los términos de las leyes relativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 20.
 
-La formulación de los programas deberá sujetarse a la estructura programática aprobada por la Dirección de conformidad con lo siguiente:
+La formulación de los programas deberá sujetarse a la estructura programática aprobada por la Secretaría, de conformidad con lo siguiente:
 
-I. La estructura programática contendrá como elementos mínimos: el programa, el subprograma, el proyecto y las unidades de medida. La Dirección podrá incluir categorías programáticas de mayor detalle, cuando lo estime conveniente.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+I. La estructura programática contendrá como elementos mínimos: El programa, el subprograma, el proyecto y las unidades de medida. La Secretaría podrá incluir categorías programáticas de mayor detalle, cuando lo estime conveniente.
 
 II. Las entidades podrán proponer programas y subprogramas que requieran para el desarrollo de sus acciones.
 
-III. La Dirección integrará y mantendrá actualizado el catálogo de actividades del sector público estatal, el cual contendrá la estructura programática.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+III. La Secretaría integrará y mantendrá actualizado el catálogo de actividades del sector público estatal, el cual contendrá la estructura programática.
 
 ###### ARTICULO 21.
 
@@ -203,7 +235,9 @@ II.- Los objetivos que se pretendan alcanzar, así como la justificación de los
 
 III.- La temporalidad de los programas, así como la designación de las unidades administrativas responsables.
 
-IV.- Las previsiones del gasto de acuerdo con lo establecido en la clasificación por objeto del gasto que expida la Dirección, para cada una de las categorías programáticas establecidas.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- Las previsiones del gasto, de acuerdo con lo establecido en la clasificación por objeto del gasto que expida la Secretaría, para cada una de las categorías programáticas establecidas.
 
 V.- El impacto regional de los programas con sus principales características y los criterios utilizados para la asignación de recursos en el ámbito regional.
 
@@ -225,39 +259,51 @@ IV. El periodo total de ejecución y la previsión de recursos para la puesta en
 
 ### CAPITULO TERCERO. DE LOS ANTEPROYECTOS DE PRESUPUESTO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 23.
 
-La Dirección dictará a más tardar el quince de agosto de cada año, las normas políticas y lineamientos que deberán observar las entidades en la elaboración de sus anteproyectos de presupuesto.
+La Secretaría dictará a más tardar el quince de agosto de cada año, las normas políticas y lineamientos que deberán observar las entidades en la elaboración de sus anteproyectos de presupuesto.
 
 ###### ARTICULO 24.
 
 Las entidades, en la formulación de anteproyectos de presupuesto, deberán ajustarse a:
 
-I.- Los lineamientos y criterios de gasto que fije la Dirección,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-II.- Las políticas de gasto público que establezca el Ejecutivo Estatal por conducto de la Dirección, para el período presupuestal correspondiente, y
+I.- Los lineamientos y criterios de gasto que fije la Secretaría;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+II.- Las políticas de gasto público que establezca el Ejecutivo Estatal por conducto de la Secretaría, para el período presupuestal correspondiente.
 
 ###### ARTICULO 25.
 
 El gasto público se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución. Los presupuestos se elaborarán por cada año calendario y se expresarán en términos monetarios.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 26.
 
-Las Dependencias y los Organismos elaborarán sus anteproyectos de presupuesto y los presentarán a la Dirección a más tardar el día 15 de octubre del año inmediato anterior al que corresponda, con base en sus programas operativos anuales, ajustándose a las normas, montos y plazos que el Gobernador del Estado establezca por conducto de la Dirección.
+Las dependencias y los organismos elaborarán sus anteproyectos de presupuesto y los presentarán a la Secretaría a más tardar el día 15 de octubre del año inmediato anterior al que corresponda, con base en sus programas operativos anuales, ajustándose a las normas, montos y plazos que el Gobernador del Estado establezca por conducto de la Secretaría.
 
-Los Poderes Legislativo y Judicial formularán sus propios proyectos de presupuesto ajustándose a su techo financiero según las disponibilidades de recursos del Estado y los remitirán al Titular del Ejecutivo, por conducto de la Dirección para que se incorporen sus programas sin modificación alguna al proyecto de presupuesto de egresos del Estado, dentro de la fecha límite a que se refiere el párrafo anterior.
+Los Poderes Legislativo y Judicial formularán sus propios proyectos de presupuesto ajustándose a su techo financiero, según las disponibilidades de recursos del Estado, y los remitirán al Titular del Ejecutivo, por conducto de la Secretaría, para que se incorporen sus programas sin modificación alguna al proyecto de Presupuesto de Egresos del Estado, dentro de la fecha límite a que se refiere el párrafo anterior.
 
 ###### ARTICULO 27.
 
 Tratándose de fondos especiales establecidos mediante ley a favor de algunas de las entidades, éstas deberán considerarlos para los efectos de la formulación de su anteproyecto de presupuesto.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 28.
 
-La Dirección formulará el anteproyecto de presupuesto de egresos de las entidades, dependencias y organismos cuando no presenten sus propuestas en los plazos señalados.
+La Secretaría formulará el anteproyecto de presupuesto de egresos de las entidades, dependencias y organismos cuando no presenten sus propuestas en los plazos señalados.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 29.
 
-La Dirección podrá efectuar las observaciones que considere necesarias a los anteproyectos de presupuesto, comunicándolos a las dependencias para que realicen los ajustes que procedan.
+La Secretaría podrá efectuar las observaciones que considere necesarias a los anteproyectos de presupuesto, comunicándolos a las dependencias para que realicen los ajustes que procedan.
 
 ## TITULO CUARTO
 
@@ -289,9 +335,11 @@ VIII.- Situación de la deuda pública estatal al término del último ejercicio
 
 IX.- En general toda la información que se considere útil para sustentar la proposición en forma clara y completa.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 32.
 
-El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado por la Dirección a fin de que éste lo envíe al Congreso del Estado a más tardar el 30 de noviembre del año anterior al que corresponda.
+El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado por la Secretaría, a fin de que éste lo envíe al Congreso del Estado a más tardar el 30 de noviembre del año anterior al que corresponda.
 
 ###### ARTICULO 33.
 
@@ -301,13 +349,17 @@ El Presupuesto de Egresos del Estado de Chihuahua será el que contenga el decre
 
 La expedición de leyes o decretos posteriores a la aprobación del presupuesto de egresos que implique el desembolso de fondos públicos no previstos, implicará que el H. Congreso de Estado apruebe las modificaciones al Presupuesto de Egresos y en su caso a la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 35.
 
-En los casos a que se refiere el artículo anterior, el Ejecutivo, por conducto de la Dirección preparará las iniciativas de reformas correspondientes en la misma forma que el presupuesto general.
+En los casos a que se refiere el artículo anterior, el Ejecutivo, por conducto de la Secretaría, preparará las iniciativas de reformas correspondientes en la misma forma que el presupuesto general.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 36.
 
-El Titular del Ejecutivo, por conducto de la Dirección proporcionará a solicitud del Congreso del Estado, las aclaraciones de la información a que se refiere el artículo 31.
+El Titular del Ejecutivo, por conducto de la Secretaría, proporcionará a solicitud del Congreso del Estado, las aclaraciones de la Información a que se refiere el artículo 31.
 
 ###### ARTICULO 37.
 
@@ -349,9 +401,11 @@ II. Ingresos adicionales que excedan al 5% del Presupuesto Directo aprobado.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y tenga el saldo suficiente para cubrirlo.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 42.
 
-El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamiento, se efectuará con base a calendarios financieros y de metas propuestas por las entidades y dependencias de acuerdo con las normas y lineamientos que fije la Dirección las que comunicará a más tardar durante el mes de enero de cada año.
+El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamiento, se efectuará con base a calendarios financieros y de metas propuestas por las entidades y dependencias de acuerdo con las normas y lineamientos que fije la Secretaría, las que comunicará a más tardar durante el mes de enero de cada año.
 
 ###### ARTICULO 43.
 
@@ -361,17 +415,23 @@ I.- Los calendarios serán anuales con base mensual y deberán compatibilizar la
 
 II.- Contemplarán las necesidades de pago, en función de los compromisos a contraer. Para tal efecto se deberá tomar en cuenta la diferencia entre las fechas de celebración de los compromisos y las de realización de los pagos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 44.
 
-Para la elaboración de los calendarios financieros y de metas, la Dirección solicitará de las entidades y dependencias la información que considere necesaria.
+Para la elaboración de los calendarios financieros y de metas, la Secretaría solicitará de las entidades y dependencias la información que considere necesaria.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 45.
 
-El Ejecutivo Estatal por conducto de la Dirección podrá autorizar el ejercicio del gasto de las Dependencias y Organismos de acuerdo con el presupuesto y calendario financiero aprobado.
+El Ejecutivo Estatal por conducto de la Secretaría, podrá autorizar el ejercicio del gasto de las dependencias y organismos de acuerdo con el presupuesto y calendario financiero aprobado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 46.
 
-La Dirección efectuará los pagos o erogaciones de las dependencias, pudiendo acordar la desconcentración de partidas del presupuesto en favor de éstas, por lo que en todo caso serán responsables del ejercicio y correcta aplicación de los recursos conforme al presupuesto, y a los lineamientos que fije la Dirección.
+La Secretaría efectuará los pagos o erogaciones de las dependencias, pudiendo acordar la desconcentración de partidas del presupuesto en favor de éstas, por lo que en todo caso serán responsables del ejercicio y correcta aplicación de los recursos conforme al presupuesto y a los lineamientos que fije la Secretaría.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -389,25 +449,33 @@ II. Los montos erogados por cada operación en lo individual, no podrán ser sup
 
 III. Las erogaciones totales de este tipo, no podrán ser superiores al 3% del Presupuesto de Egresos de cada municipio para el ejercicio fiscal que corresponda, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 48.
 
-Sin perjuicio de las atribuciones que las disposiciones legales otorgan a las entidades, la Dirección tendrá a su cargo el registro y control del ejercicio del presupuesto, con el objeto de comprobar que la aplicación de los recursos aprobados se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes.
+Sin perjuicio de las atribuciones que las disposiciones legales otorgan a las entidades, la Secretaría tendrá a su cargo el registro y control del ejercicio del presupuesto, con el objeto de comprobar que la aplicación de los recursos aprobados se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 49.
 
-Será responsabilidad de la Dirección, que los pagos que se efectúen con cargo a los presupuestos aprobados se realicen con sujeción a los siguientes requisitos:
+Será responsabilidad de la Secretaría, que los pagos que se efectúen con cargo a los presupuestos aprobados se realicen con sujeción a los siguientes requisitos:
 
 I.- Que correspondan a compromisos efectivamente devengados, con excepción de los anticipos previstos en otros ordenamientos legales, que garanticen el interés del Estado.
 
-II.- Que se efectúen dentro de los límites de los calendarios financieros autorizados; y
+II.- Que se efectúen dentro de los límites de los calendarios financieros autorizados; y (sic)
 
 III.- Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos, o sus respectivas copias cuando se trate de inversiones concertadas con la federación, entendiéndose por justificantes las disposiciones y documentos legales que determinen la obligación de hacer un pago y, por comprobantes los documentos que demuestren la entrega de las sumas de dinero correspondientes. Cuando se trate de inversiones concertadas con la federación el requisito que exige la presente fracción, se cumplirá anexando las copias respectivas.
 
-IV.- En el caso de obras públicas, el presupuesto se considerará devengado y ejercido al momento de aprobarse la estimación del avance físico de las mismas por los funcionarios autorizados para tal efecto. Para su contabilización, la Dirección deberá recibir la documentación comprobatoria correspondiente,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- En el caso de obras públicas, el presupuesto se considerará devengado y ejercido al momento de aprobarse la estimación del avance físico de las mismas por los funcionarios autorizados para tal efecto. Para su contabilización, la Secretaría deberá recibir la documentación comprobatoria correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 50.
 
-La Dirección, para ministrar los recursos por concepto de subsidios, a los Organismos, deberá:
+La Secretaría, para ministrar los recursos por concepto de subsidios, a los Organismos, deberá:
 
 I.- Cerciorarse que la dependencia coordinadora del sector correspondiente, hubiere autorizado el subsidio al Organismo o Institución de que se trate.
 
@@ -451,13 +519,15 @@ I.- Ajustarse al número de plazas y montos consignados en sus presupuestos apro
 
 II.- Ajustarse a las necesidades de personal que requiera el desarrollo de sus programas, y
 
-III.- Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores expedidos por la Dirección y a las plazas y montos autorizados por el H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+III.- Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores expedidos por la Secretaría y a las plazas y montos autorizados por el H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 56.
 
-De acuerdo a lo establecido en la Constitución Política del Estado, el Ejecutivo Estatal, a través de la Secretaría de Administración, determinará la compatibilidad en el desempeño de dos o más empleos o comisiones por los que se disfrute sueldo o remuneración. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+De acuerdo a lo establecido en la Constitución Política del Estado, el Ejecutivo Estatal, a través de la Secretaría, determinará la compatibilidad en el desempeño de dos o más empleos o comisiones por los que se disfrute sueldo o remuneración. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
 
 ###### ARTICULO 57.
 
@@ -475,21 +545,21 @@ V.- Cumplir con las demás disposiciones aplicables, y
 
 VI.- Expedir los nombramientos por cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 58.
 
-La Secretaría de Administración mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
+La Secretaría, mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
 
-El Ejecutivo Estatal verificará la forma en que se invertirán los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes deberán proporcionar a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de su respectiva competencia, la información respecto a la aplicación de los mismos.
+El Ejecutivo Estatal verificará la forma en que se invertirán los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes deberán proporcionar a la Secretaría, en el ámbito de su respectiva competencia, la información respecto a la aplicación de los mismos.
 
-Quienes manejen o efectúen Gasto Público Estatal en los términos del párrafo anterior deberán proporcionar a las Secretarías de Finanzas y de Administración la información que les soliciten y permitirle a su personal la práctica de visitas y revisiones para verificar el cumplimiento de las obligaciones que establece esta Ley y demás disposiciones que se expidan con base en la misma.
+Quienes manejen o efectúen Gasto Público Estatal, en los términos del párrafo anterior, deberán proporcionar a la Secretaría la información que le solicite y permitirle a su personal la práctica de visitas y revisiones para verificar el cumplimiento de las obligaciones que establece esta Ley y demás disposiciones que se expidan con base en la misma.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 59.
 
-El otorgamiento de becas se sujetará a las disposiciones existentes sobre la materia y en su defecto a los lineamientos que fije la Secretaría de Administración.
+El otorgamiento de becas se sujetará a las disposiciones existentes sobre la materia y, en su defecto, a los lineamientos que fije la Secretaría.
 
 ###### ARTICULO 60.
 
@@ -497,9 +567,9 @@ Para el ejercicio y pago de viáticos, las entidades deberán sujetarse a lo sig
 
 I. Autorizar exclusivamente el pago a personal al servicio del Gobierno del Estado,
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-II. Aplicar en lo conducente los instructivos que la Secretaría de Administración expida para la asignación de viáticos en el desempeño de comisiones, tanto en territorio nacional como en el extranjero.
+II. Aplicar, en lo conducente, los instructivos que la Secretaría expida para la asignación de viáticos en el desempeño de comisiones, tanto en territorio nacional como en el extranjero,
 
 III. Para la salida del personal al extranjero el titular del Ejecutivo, el Presidente del Poder Legislativo y del Judicial deberán expedir acuerdo expreso, justificando su necesidad con los programas y objetivos de la misma dependencia,
 
@@ -519,41 +589,53 @@ I. En ningún caso se aceptará la estipulación de penas convencionales a cargo
 
 No deberá autorizarse el pago de contribuciones a excepción de los impuestos de importación y aquellos en que por disposición legal el Estado sea causante o deba aceptar su traslado.
 
-II. Tratándose de contratos que deban cubrirse con recursos de créditos, la tramitación del financiamiento se realizará por conducto de la misma Dirección de conformidad con lo dispuesto en la Ley de Deuda Pública.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+II. Tratándose de contratos que deban cubrirse con recursos de créditos, la tramitación del financiamiento se realizará por conducto de la misma Secretaría, de conformidad con lo dispuesto en la Ley de Deuda Pública.
 
 III. Deberán señalar con precisión su vigencia, importe total, el plazo de terminación o entrega de los servicios o bienes contratados, así como la fecha y condiciones para su pago. En los casos en que por la naturaleza del contrato no se pueda señalar un importe determinado, se deberán estipular las bases para fijarlo.
 
 IV. En los casos procedentes, que exista la garantía correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 63.
 
-El titular del Ejecutivo, a través de la Dirección establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las Entidades, en los actos y contratos que celebren
+El titular del Ejecutivo, a través de la Secretaría, establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las entidades, en los actos y contratos que celebren.
 
-La Dirección salvo disposición expresa, será la depositaria y beneficiaria en su caso, de todas las garantías que se otorguen a favor del Gobierno del Estado ejercitando, en su caso, las acciones correspondientes.
+La Secretaría, salvo disposición expresa, será la depositaria y beneficiaria, en su caso, de todas las garantías que se otorguen a favor del Gobierno del Estado ejercitando, en su caso, las acciones correspondientes.
 
 ###### ARTICULO 64.
 
 Las garantías que deban constituirse por actos y contratos deberán sujetarse a lo siguiente:
 
-I. Salvo disposición expresa, la forma de garantizar el cumplimiento de las obligaciones, será mediante fianza otorgada por compañía autorizada en los términos de la Ley Federal de la materia. En casos excepcionales y previa autorización de la Dirección, se podrá admitir otra forma de garantía o eximirse de ésta.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+I. Salvo disposición expresa, la forma de garantizar el cumplimiento de las obligaciones, será mediante fianza otorgada por compañía autorizada en los términos de la ley federal de la materia. En casos excepcionales y previa autorización de la Secretaría, se podrá admitir otra forma de garantía o eximirse de ésta.
 
 II.- En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista de presentar una fianza por el diez por ciento del importe del ejercicio inicial, y se incrementará con el diez por ciento del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que, mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista.
 
-III.- La Dirección calificará las garantías que se otorguen a favor del Gobierno del Estado y, si procede, aceptarlas y custodiarlas.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+III.- La Secretaría calificará las garantías que se otorguen a favor del Gobierno del Estado y, si procede, aceptarlas y custodiarlas.
 
 IV.- Las garantías que se otorguen con relación a las obras públicas se sujetarán a las disposiciones legales, reglamentarias y administrativas en general, que sean aplicables.
 
 V.- En lo previsto en las fracciones anteriores, será aplicable el Código Fiscal del Estado y supletoriamente el Código Civil del Estado, y
 
-VI.- Las demás disposiciones que emita la Dirección.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+VI.- Las demás disposiciones que emita la Secretaría.
 
 ###### ARTICULO 65.
 
 Las devoluciones de impuestos, los estímulos fiscales, así como las participaciones que sobre ingresos federales y estatales correspondan a los Municipios, se sujetarán a las reglas que fijen la Ley de Coordinación Fiscal, Ley de Ingresos del Estado, Presupuesto de Egresos, Código Fiscal del Estado y demás Leyes o Decretos sobre la materia.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 66.
 
-Todas las Entidades, Dependencias y los Organismos, proporcionarán a la Dirección, a más tardar el 31 de diciembre de cada año, toda la documentación necesaria con objeto de que sea determinado el monto y las características de su pasivo a corto y largo plazo.
+Todas las entidades, dependencias y los organismos, proporcionarán a la Secretaría, a más tardar el 31 de diciembre de cada año, toda la documentación necesaria con objeto de que sea determinado el monto y las características de su pasivo a corto y largo plazo.
 
 ###### ARTICULO 67.
 
@@ -561,13 +643,15 @@ Una vez concluída la vigencia de una (sic) presupuesto de egresos del Estado, e
 
 ### CAPITULO PRIMERO. DEL SISTEMA DE CONTABILIDAD GUBERNAMENTAL
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ## TITULO SEXTO
 
 ### CAPITULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y CONTABILIZACIÓN DE OPERACIONES
 
 ###### ARTICULO 68.
 
-La Dirección tendrá a su cargo la contabilidad general del Gobierno del Estado, la cual será centralizada y comprenderá la captación y registro de las operaciones financieras y presupuestales de las Entidades y Dependencias a efecto de suministrar información que coadyuve a la toma de decisiones y a la evaluación de las actividades realizadas. Se anexará a la Cuenta Pública Anual, los estados financieros de los Organismos Descentralizados.
+La Secretaría tendrá a su cargo la contabilidad general del Gobierno del Estado, la cual será centralizada y comprenderá la captación y registro de las operaciones financieras y presupuestales de las entidades y dependencias, a efecto de suministrar información que coadyuve a la toma de decisiones y a la evaluación de las actividades realizadas. Se anexará a la Cuenta Pública Anual, los estados financieros de los Organismos Descentralizados.
 
 ###### ARTICULO 69.
 
@@ -577,9 +661,11 @@ El sistema de contabilidad deberá mostrar el cumplimiento y aplicación de las 
 
 El registro de las operaciones del Gobierno del Estado y la preparación de informes financieros, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental y con el método contable de base acumulativa modificada.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 71.
 
-Será competencia de la Dirección el diseño y la instrumentación del sistema contable, que permita el control de las operaciones presupuestales y financieras del Gobierno del Estado.
+Será competencia de la Secretaría el diseño y la instrumentación del sistema contable, que permita el control de las operaciones presupuestales y financieras del Gobierno del Estado.
 
 ###### ARTICULO 72.
 
@@ -595,9 +681,11 @@ IV.- Informar al Congreso del Estado sobre el destino y manejo del Gasto Públic
 
 V.- Formular la Cuenta Pública para su presentación al Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 73.
 
-La Dirección deberá utilizar sistemas de registro electrónico de contabilidad y su aplicación estará conformada en base de datos centralizada, con la opción de desconcentrar la operación.
+La Secretaría deberá utilizar sistemas de registro electrónico de contabilidad y su aplicación estará conformada en base de datos centralizada, con la opción de desconcentrar la operación.
 
 El sistema de contabilidad a que se refiere este artículo se sujetará a las siguientes reglas:
 
@@ -613,27 +701,33 @@ III.- La aplicación del sistema de Contabilidad mantendrá para su operación l
 
 La contabilización de las operaciones financieras y presupuestales del Gobierno del Estado, deberá estar respaldadas (sic) por los documentos comprobatorios y justificativos originales, o las copias respectivas cuando se trate de inversiones concertadas con la federación.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 75.
 
-La Dirección deberá efectuar el cierre de la contabilidad gubernamental por año calendario.
+La Secretaría deberá efectuar el cierre de la contabilidad gubernamental por año calendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 76.
 
-Es responsabilidad del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de la Secretaría de Administración, según corresponda a las atribuciones de cada una, en coordinación con los Poderes Legislativo y Judicial, establecer un sistema de control interno destinado a:
+Es responsabilidad del Poder Ejecutivo, por conducto de la Secretaría, en coordinación con los Poderes Legislativo y Judicial, establecer un sistema de control interno destinado a:
 
 I. Fijar los lineamientos de organización, así como los métodos y medidas de coordinación para proteger el patrimonio del Estado.
 
 II. Establecer el sistema de autorización y los procedimientos de registro adecuados para obtener el control de la contabilización de las partidas de activo, pasivo, patrimonio, ingresos, gasto y cuentas de orden.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 77.
 
-Los estados financieros y demás información presupuestal que emane de la contabilidad general, serán utilizados por la Dirección para la formulación de la cuenta pública.
+Los estados financieros y demás información presupuestal que emane de la contabilidad general, serán utilizados por la Secretaría para la formulación de la cuenta pública.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 78.
 
-La Dirección deberá informar mensualmente a las entidades y Dependencias el estado que guarda su ejercicio presupuestal debiendo, en su caso, hacer las aclaraciones correspondientes.
+La Secretaría deberá informar mensualmente a las entidades y dependencias el estado que guarda su ejercicio presupuestal debiendo, en su caso, hacer las aclaraciones correspondientes.
 
 ### CAPITULO TERCERO. DE LOS ARCHIVOS CONTABLES
 
@@ -653,17 +747,23 @@ V. Gasto;
 
 VI. De orden.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 80.
 
-Será responsabilidad de la Dirección el diseño y la estructura del catálogo de cuentas y su actualización, así como la desagregación en los siguientes segmentos que lo integran: Objeto del gasto; en cuentas, subcuentas y subsubcuentas; la estructura organizacional en las entidades, dependencias y unidades orgánicas que las integran; la estructura programática, en programa, subprograma y proyecto; que permitan el registro contable y presupuestal y proporcionen el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades específicas.
+Será responsabilidad de la Secretaría el diseño y la estructura del catálogo de cuentas y su actualización, así como la desagregación en los siguientes segmentos que lo integran: Objeto del gasto; en cuentas, subcuentas y subsubcuentas; la estructura organizacional en las entidades, dependencias y unidades orgánicas que las integran; la estructura programática, en programa, subprograma y proyecto; que permitan el registro contable y presupuestal y proporcionen el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades específicas.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 81.
 
-La Dirección estará obligada a conservar en su poder durante los plazos que al respecto se establezcan en esta Ley y demás disposiciones legales aplicables, los libros, así como los registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras.
+La Secretaría estará obligada a conservar en su poder durante los plazos que al respecto se establezcan en esta Ley y demás disposiciones legales aplicables, los libros, así como los registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 82.
 
-La Dirección, en casos de pérdida o extravío debidamente justificados, podrá autorizar la reposición de los documentos justificativos o comprobatorios de egresos con cargo al Presupuesto, a efecto de que se contabilicen las operaciones que amparen.
+La Secretaría, en casos de pérdida o extravío debidamente justificados, podrá autorizar la reposición de los documentos justificativos o comprobatorios de egresos con cargo al Presupuesto, a efecto de que se contabilicen las operaciones que amparen.
 
 Las solicitudes que con tal motivo formulen las entidades deberán consignar, entre otros datos: causa de la falta de justificación o comprobación, importes, fechas de las operaciones que amparen y conformidad del funcionario facultado para ello.
 
@@ -677,13 +777,17 @@ La Dirección emitirá anualmente la balanza de apertura que presente los saldos
 
 El conjunto de la documentación contable, consistente en registros contables y documentación comprobatoria o justificativa del ingreso y del gasto público de las entidades, constituyen el Archivo Contable Gubernamental.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 85.
 
-La Dirección mantendrá actualizados los sistemas de operación del archivo, en los términos de esta Ley.
+La Secretaría mantendrá actualizados los sistemas de operación del archivo, en los términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 86.
 
-La Dirección será la directamente responsable tanto de los documentos de afectación contable como de su documentación comprobatoria y justificativa.
+La Secretaría será la directamente responsable tanto de los documentos de afectación contable como de su documentación comprobatoria y justificativa.
 
 Estos documentos deberán concentrarse en forma ordenada y clasificada, en la sección de archivo contable después de su contabilización.
 
@@ -743,9 +847,11 @@ II. El Compromiso presupuestal, referido al hecho consistente en que un monto se
 
 III. El Ejercicio presupuestal, determinado en el acto de efectuarse el pago.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 92.
 
-La Dirección elaborará la cuenta general de ingresos y egresos, trimestral y anualmente, en el primer caso, dentro del primer mes siguiente a la terminación del trimestre en cuestión, y en el segundo caso dentro de los dos meses posteriores a la terminación del ejercicio fiscal, las que someterá a la aprobación del Titular del Ejecutivo a fin de que se envíen oportunamente al H. Congreso del Estado.
+La Secretaría elaborará la cuenta general de ingresos y egresos, trimestral y anualmente, en el primer caso, dentro del primer mes siguiente a la terminación del trimestre en cuestión; y, en el segundo caso, dentro de los dos meses posteriores a la terminación del ejercicio fiscal, las que someterá a la aprobación del Titular del Ejecutivo a fin de que se envíen oportunamente al H. Congreso del Estado.
 
 El informe trimestral a que se refiere esta disposición, comprenderá:
 
@@ -761,9 +867,11 @@ V.- Estado de Resultados o de Operación
 
 VI.- Registro contable presupuestal en medio magnético.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 93.
 
-Será responsabilidad de la Dirección darle la debida publicidad al estado de movimientos de Ingresos y Egresos trimestral y anual, en el primer caso dentro de los siguientes veinte días del trimestre que corresponda y en el segundo caso dentro de los veinte días del segundo mes del ejercicio fiscal siguiente.
+Será responsabilidad de la Secretaría darle la debida publicidad al estado de movimientos de ingresos y egresos trimestral y anual, en el primer caso dentro de los siguientes veinte días del trimestre que corresponda y, en el segundo caso, dentro de los veinte días del segundo mes del ejercicio fiscal siguiente.
 
 ###### ARTICULO 94.
 
@@ -797,17 +905,25 @@ La revisión de la Cuenta Pública por el H. Congreso del Estado se sujetará a 
 
 El control y la evaluación del Gasto Público Estatal se basará en la información derivada de:
 
-I. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por la Dirección y la Contraloría del Estado a las Dependencias y Organismos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-II. Los análisis de las evaluaciones que en materia de Presupuesto y Gasto Público Estatal realicen las unidades administrativas de las Dependencias del Poder Ejecutivo, conforme a los criterios que fije la Dirección.
+I. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por la Secretaría y la Secretaría de la Contraloría a las dependencias y organismos en el ámbito de su competencia.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+II. Los análisis de las evaluaciones que en materia de Presupuesto y Gasto Público Estatal realicen las unidades administrativas de las dependencias del Poder Ejecutivo, conforme a los criterios que fije la Secretaría.
 
 III. Los análisis de las evaluaciones que realicen las Dependencias coordinadoras de sector respecto de los Organismos de la Administración Pública Paraestatal que coordinen.
 
-IV. Las demás fuentes y medios que la Dirección juzgue apropiados para este fin.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV. Las demás fuentes y medios que la Secretaria juzgue apropiados para este fin.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 98.
 
-Para efecto del control y evaluación del Gasto Público Estatal la Dirección realizará las siguientes funciones:
+Para efecto del control y evaluación del Gasto Público Estatal, la Secretaría realizará las siguientes funciones:
 
 I. La supervisión permanente de los activos, pasivos, patrimonio, ingresos, gastos y cuentas de orden, en coordinación con los Poderes Legislativo y Judicial.
 
@@ -821,17 +937,23 @@ La evaluación del Gasto Público tendrá como objetivo medir su eficiencia y ef
 
 Cada una de las entidades y Dependencias y Organismos deberán evaluar en forma permanente sus programas con objeto de mejorar la eficiencia y eficacia de utilización de los recursos empleados y controlar los avances y variaciones, para implementar con oportunidad las medidas correctivas procedentes.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
 ###### ARTICULO 101.
 
-Con objeto de efectuar una evaluación adecuada de la ejecución del Presupuesto, las Dependencias y Organismos deberán proporcionar a la Dirección cuando ésta lo solicite, informes sobre los programas, actividades, tareas, proyectos y obras, así como las metas alcanzadas.
+Con objeto de efectuar una evaluación adecuada de la ejecución del Presupuesto, las dependencias y organismos deberán proporcionar a la Secretaría, cuando ésta lo solicite, informes sobre los programas, actividades, tareas, proyectos y obras, así como las metas alcanzadas.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 102.
 
-La Dirección suspenderá la asignación de los recursos autorizados a los programas, cuando no se proporcione la información solicitada en los términos de los artículos precedentes.
+La Secretaría suspenderá la asignación de los recursos autorizados a los programas cuando no se proporcione la información solicitada en los términos de los artículos precedentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 103.
 
-Con base en las conclusiones, informes y dictámenes que se deriven de medidas comprendidas en los artículos 97 y 98 de esta Ley, la Dirección de conformidad con la presente Ley realizará, según el caso, las siguientes acciones:
+Con base en las conclusiones, informes y dictámenes que se deriven de medidas comprendidas en los artículos 97 y 98 de esta Ley, la Secretaría de conformidad con la presente Ley realizará, según el caso, las siguientes acciones:
 
 I. Modificación de las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del Gasto Público.
 
@@ -918,3 +1040,31 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
