@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "2005-01-19"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -87,25 +87,27 @@ c).- Director.
 
 La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-I. El Secretario de Finanzas, quien fungirá como Presidente;
+I. El Secretario de Finanzas y Administración, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
-III.- El Director General de Educación y Cultura;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-IV.- El Director General de Fomento Social;
+III.- El Secretario de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+
+IV.- El Secretario de Fomento Social;
 
 V.- El Secretario del Sindicato Nacional de Trabajadores de la Educación, Sección XLII;
 
-VI.- El Secretario del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y,
+VI.- El Secretario del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y (sic),
 
-VII.- El Rector de la Universidad Autónoma de Chihuahua.
+VII.- El Rector de la Universidad Autónoma de Chihuahua;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
-
-VIII. El Secretario de Administración.
+VIII. (DEROGADA, P.O. 30 DE JUNIO DE 2007)
 
 ###### ARTICULO 6.
 
@@ -291,9 +293,9 @@ III.- Comunicar a Pensiones Civiles del Estado los movimientos de alta y baja de
 
 IV.- Expedir certificaciones y proporcionar los informes necesarios que sean solicitados por la Institución.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
-El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Secretaría de Finanzas para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
+El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Secretaría de Finanzas y Administración para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
 
 ### CAPITULO QUINTO. APLICACION DEL FONDO DE LA INSTITUCION
 
@@ -754,3 +756,31 @@ Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios 
 Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
 
 Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría (sic) Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
