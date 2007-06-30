@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-174
 country: "mx"
 rank: "otro"
 publication_date: "2003-12-31"
-last_updated: "2007-06-28"
+last_updated: "2007-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,41 +19,35 @@ issue_date: "2003-12-30"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE COSTA RICA, 1994)
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 1 DE ENERO DE 2004 DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COSTA RICA
 
-Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
+Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y V, 16, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 36 de la Ley Aduanera; 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 y 36 del Reglamento de la Ley de Comercio Exterior, y 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 fue publicada en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación con objeto de reflejar los cambios en los patrones mundiales de comercio, homologar nuestro sistema de clasificación arancelaria con el de otros países, evitar discrepancias de interpretación, agilizar los trámites aduaneros y facilitar la correcta identificación y clasificación de las mercancías;
+Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Costa Rica fue aprobado por el Senado de la República el 8 de junio de 1994, promulgado y publicado en el Diario Oficial de la Federación el 10 de enero de 1995;
 
-Que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación 18 de junio de 2007 abroga con su entrada en vigor la Ley de los Impuestos Generales de Importación y de Exportación publicada el 18 de enero de 2002 y sus modificaciones publicadas en el mismo órgano informativo;
+Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2004 del Impuesto General de Importación, para las mercancías originarias de la República de Costa Rica, el cual fue reformado mediante el diverso publicado en el mismo órgano informativo el 12 de noviembre de 2004;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
 
-Que es obligación del Ejecutivo Federal propiciar un escenario de certidumbre jurídica en el que actúen los diferentes agentes económicos involucrados en el comercio exterior, para lo cual es necesario actualizar y difundir las fracciones arancelarias y su descripción, conforme a la Ley de los Impuestos Generales de Importación y de Exportación, así como definir claramente el estatus de los ordenamientos en los que se establecen diversas disposiciones sobre instrumentos y programas de comercio exterior he tenido a bien expedir el siguiente
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
 
-ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
+Que resulta necesario ajustar el Decreto mencionado en el segundo considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
 
-###### ARTICULO PRIMERO.
+DECRETO
 
-El cupo de aguacates frescos originarios de los Estados Unidos Mexicanos que podrá ser internado a la República de Costa Rica, en el periodo 1 de enero al 31 de diciembre de cada año, dentro del arancel-cuota establecido en el Acuerdo entre la República de Costa Rica y los Estados Unidos Mexicanos, relativo a la aceleración en la desgravación de aranceles aplicables a ciertos bienes originarios de ambas partes, y al artículo 3-04 del Tratado de Libre Comercio entre la República de Costa Rica y los Estados Unidos Mexicanos, es el que se determina a continuación:
+###### ARTÍCULO 1.
 
-Descripción Monto Anual
+Se modifica el ARTÍCULO 6 del Decreto por el que se establece la tasa aplicable a partir del 1 de enero de 2004 del Impuesto General de Importación, para las mercancías originarias de la República de Costa Rica, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, y su reforma, para quedar como sigue:
 
-(toneladas métricas)
+“ARTÍCULO 6.- La importación de mercancías originarias de la región conformada por México y Costa Rica comprendidas en las fracciones arancelarias listadas en este artículo, estará sujeta al arancel preferencial indicado a continuación para cada una de ellas, del 1 de julio de 2007 al 31 de diciembre de 2008, y estará exenta a partir del 1 de enero de 2009:
 
-Aguacates frescos 6,500
-
-*La administración y asignación se efectuará sobre la base de tres periodos cuatrimestrales, no excediendo en ninguno de ellos el 40% de la cuota total anual.
-
-###### Artículo 1.
-
-El presente Acuerdo tiene por objeto dar a conocer el estatus sobre la vigencia de los diversos ordenamientos que establecen regulaciones y restricciones no arancelarias, así como de las resoluciones expedidas al amparo de los instrumentos y programas de comercio exterior que otorga la SE.
+(VEASE ARCHIVO ANEXO)
 
 ###### Artículo 2.
 
@@ -233,104 +227,8 @@ Las resoluciones a que se refiere el párrafo anterior continuarán vigentes has
 
 III. La Dirección General de Comercio Exterior de la SE realizará el intercambio de información necesario con la Administración General de Aduanas del SAT a fin de que esté en posibilidad de actualizar en el SAAI las fracciones arancelarias de las resoluciones de los instrumentos y programas de comercio exterior, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007.
 
-###### Artículo 7.
+## TRANSITORIO
 
-Para los efectos de los Acuerdos que se listan en este artículo, la Tabla de Correlación entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, es la que se establece como anexa al presente Acuerdo.
+ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
 
-I. Acuerdo que establece la clasificación y codificación de mercancías y productos cuya importación, exportación, internación o salida está sujeta a regulación sanitaria por parte de la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 27 de marzo de 2003 y 27 de enero, 1 de abril y 26 de octubre de 2005.
-
-II. Acuerdo que establece la clasificación y codificación de los productos químicos esenciales cuya importación o exportación está sujeta a la presentación de un aviso previo ante la Secretaría de Salud, publicado en el DOF el 29 de marzo de 2002.
-
-III. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de las dependencias que integran la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas, publicado en el DOF el 29 de marzo de 2002 y su modificación del 1 de abril de 2005.
-
-IV. Acuerdo que establece la clasificación y codificación de mercancías cuya importación está sujeta a regulación por parte de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado en el DOF el 26 de marzo de 2002.
-
-V. Acuerdo por el que se establece la clasificación y codificación de mercancías cuya exportación está sujeta a la presentación de un certificado de origen expedido por la Asociación Mexicana de la Cadena Productiva del Café, A.C., o los consejos estatales del café, y el procedimiento para la emisión del Certificado de Origen, publicado en el DOF el 7 de febrero de 2007.
-
-VI. Acuerdo que establece la clasificación y codificación de las mercancías cuya importación o exportación están sujetas a regulación por parte de la Secretaría de la Defensa Nacional, publicado en el DOF el 25 de noviembre de 2002 y sus modificaciones del 13 de agosto de 2003 y 20 de octubre de 2006.
-
-VII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a regulación por parte de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el DOF el 29 de marzo de 2002 y sus modificaciones del 30 de diciembre de 2003, 16 de agosto de 2004 y 26 de enero de 2005.
-
-VIII. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta a autorización previa por parte de la Secretaría de Energía, publicado en el DOF el 28 de marzo de 2002.
-
-IX. Acuerdo que establece la clasificación y codificación de los bienes considerados monumentos históricos o artísticos, cuya exportación está sujeta a autorización previa de exportación por parte del Instituto Nacional de Antropología e Historia, o del Instituto Nacional de Bellas Artes y Literatura.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las solicitudes de los instrumentos y programas de comercio exterior que ingresen a la Secretaría de Economía a partir de la entrada en vigor del presente Acuerdo, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007, excepto por lo establecido en el párrafo siguiente.
-
-Las solicitudes correspondientes a los trámites inscritos en el Registro Federal de Trámites y Servicios que se listan a continuación que ingresen a la SE a partir de las fechas que se indican, deberán presentarse consignando las fracciones arancelarias que correspondan a la TIGIE 2007:
-
-I. A partir del 28 de junio de 2007:
-
-a) SE-03-037 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del número de exportador autorizado para la Unión Europea (UE) o la Asociación Europea de Libre Comercio (AELC)"
-
-b) SE-03-038 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-c) SE-03-039 "Autorización para utilizar el "Registro de Productos" para la obtención del Certificado de Circulación de Mercancías EUR. 1 o del Carácter de Exportador Autorizado de la Unión Europea"
-
-d) SE-03-051 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen ALADI (Asociación Latinoamericana de Integración)"
-
-e) SE-03-052 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen SGP (Sistema Generalizado de Preferencias)"
-
-f) SE-03-068 "Registro de Productos Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Tratado de Libre Comercio México/Uruguay"
-
-g) SE-03-070 "Registro de Bienes Elegibles para Preferencias y Concesiones Arancelarias para la Obtención de Certificados de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre México y el Japón"
-
-II. A partir del 29 de junio de 2007:
-
-a) SE-03-040 "Validación del Certificado de Circulación de Mercancías EUR. 1 (UE o AELC)"
-
-b) SE-03-044 "Validación del Certificado de Origen Asociación Latinoamericana de Integración (ALADI) para Argentina, Brasil, Cuba, Ecuador, Paraguay, Perú y Uruguay"
-
-c) SE-03-045 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP)"
-
-d) SE-03-046 "Validación del Certificado de Origen para los países bajo el Sistema Generalizado de Preferencias (SGP) de la Unión Europea"
-
-e) SE-03-047 "Validación del Certificado de Origen bajo el Sistema Generalizado de Preferencias (SGP) para Japón"
-
-f) SE-03-048 "Validación del Certificado de Origen de Artículos Mexicanos"
-
-g) SE-03-049 "Validación del Certificado de Origen del Tratado de Libre Comercio México-Colombia-Venezuela (G3)"
-
-h) SE-03-050 "Validación del Certificado de Origen del Sistema Global de Preferencias Comerciales (SGPC)"
-
-i) SE-03-069 "Validación del Certificado de Origen del Tratado de Libre Comercio México-República Oriental del Uruguay"
-
-j) SE-03-071 "Validación del Certificado de Origen del Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón"
-
-TERCERO.- Los ordenamientos que se citan a continuación seguirán vigentes en los términos que fueron publicados hasta en tanto no se publiquen nuevas versiones en el Diario Oficial de la Federación que sustituyan a los mismos. Durante dicho periodo se entenderán aplicables a dichos ordenamientos a partir del 1 de julio de 2007, las fracciones arancelarias que les correspondan conforme a la Tabla de Correlación TIGIE 2002-TIGIE 2007 anexa al presente Acuerdo.
-
-I. Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus reformas del 20 de diciembre de 2005, 29 de marzo, 2 de octubre y 26 de diciembre de 2006 y 29 de marzo de 2007;
-
-II. Acuerdo que identifica las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación en las que se clasifican las mercancías sujetas al cumplimiento de las normas oficiales mexicanas en el punto de su entrada al país, y en el de su salida, publicado en el Diario Oficial de la Federación el 27 de marzo de 2002 y sus reformas del 8 de noviembre de 2002, 11 de julio de 2003, 5 de enero y 15 de abril de 2004, 3 de febrero, 17 de mayo y 26 de octubre de 2005 y 2 de febrero y 3 de mayo de 2006;
-
-III. Aviso por el que se dan a conocer las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en las cuales se clasifican las mercancías cuya importación está sujeta al pago de cuotas compensatorias y medidas de salvaguarda, publicado en el Diario Oficial de la Federación el 3 de enero de 2006;
-
-IV. Acuerdo por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de Comercio Exterior, publicado en el Diario Oficial de la Federación el 21 de julio de 2006 y sus reformas del 4 de enero, 8 de marzo y 1 de junio de 2007, y
-
-V. Los Acuerdos a que se refieren los artículos 5, fracciones I, II, IV, V, VI, VII, VIII IX y 7 del presente ordenamiento.
-
-Tablas de correlación TIGIE 2002-TIGIE 2007
-
-Para los efectos de establecer la correspondencia entre las fracciones arancelarias vigentes hasta el 30 de junio de 2007 y las vigentes a partir del 1 de julio de 2007, se dan a conocer, para los fines del presente Acuerdo, las tablas de correlación TIGIE 2002-TIGIE 2007 y TIGIE 2007-TIGIE 2002. Para cualquier otro fin, la información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 9 A 61.</small>
-
-Tablas de correlación TIGIE 2007-TIGIE 2002
-
-La información contenida en el presente Anexo tiene carácter indicativo; no crea derechos y no prejuzga sobre la clasificación arancelaria aplicable a las mercancías. Tampoco constituye un criterio de clasificación arancelaria.
-
-(VEASE ARCHIVO ANEXO)
-
-Y/O
-
-> <small>N. DE E. PARA VER TABLAS, REMITASE A LA CUARTA SECCION DEL D.O.F. DE 28 DE JUNIO DE 2007, PAGS. 62 A 112.</small>
-
-México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
