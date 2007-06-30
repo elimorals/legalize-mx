@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-y-sus-vias-de-comunicacion-4771"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-29"
-last_updated: "2006-12-27"
+last_updated: "2007-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPORTE Y SUS VIAS DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de enero de 1994.
 
@@ -717,9 +717,9 @@ EXISTIRA UN CONSEJO CONSULTIVO DE TRANSPORTE QUE SE INTEGRARA CON LOS FUNCIONARI
 
 I.- SECRETARIO GENERAL DE GOBIERNO, O EL REPRESENTANTE QUE ESTE DESIGNE;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-II.- SECRETARIO DE FINANZAS O EL REPRESENTANTE QUE ESTE DESIGNE;
+II.- SECRETARIO DE FINANZAS Y ADMINISTRACION O EL REPRESENTANTE QUE ESTE DESIGNE;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -1162,3 +1162,31 @@ P.O. 27 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para organizar la estructura administrativa de la Secretaría de Finanzas y Administración y redistribuir las partidas del Presupuesto de Egresos que les fueron asignadas a las Secretarías de Finanzas y de Administración para el ejercicio 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Finanzas y Administración los bienes muebles e inmuebles, documentos y, en general, archivos que tenía destinado a su servicio, manejo y resguardo la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Administración, serán continuados por la Secretaría de Finanzas y Administración.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Administración en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como cualquier persona física o moral, serán asumidas por la Secretaría de Finanzas y Administración a partir de la entrada en vigor del presente Decreto.
+
+Lo mismo se observará respecto a la intervención que otorgan a la ya inexistente Secretaría de Administración, las Condiciones Generales de Trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus trabajadores a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado, así como a la intervención que le otorguen las leyes, reglamentos, convenios y acuerdos respecto a los trabajadores de la educación estatal.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
