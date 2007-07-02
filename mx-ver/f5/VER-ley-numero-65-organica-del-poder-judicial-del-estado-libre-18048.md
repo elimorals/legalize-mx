@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2004-12-31"
+last_updated: "2007-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -53,9 +53,35 @@ ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO 
 
 La presente ley es de orden público y de observancia general y tiene por objeto reglamentar las normas constitucionales relativas al Poder Judicial del Estado.
 
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+
 ###### Artículo 2.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de lo Contencioso Administrativo y en el Tribunal de Conciliación y Arbitraje; así como en los Juzgados de Primera Instancia, Menores, Municipales, de Comunidad y en la Comisión Jurisdiccional de Menores Infractores.
+El Poder Judicial del Estado se deposita en:
+
+l. El Tribunal Superior de Justicia;
+
+II. El Tribunal de lo Contencioso Administrativo;
+
+III. El Tribunal de Conciliación y Arbitraje;
+
+IV. Los Juzgados de Primera Instancia;
+
+V. Los Juzgados de Garantías de Adolescentes;
+
+VI. Los Juzgados de Juicio de Adolescentes;
+
+VII. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes;
+
+VIII. Los Juzgados Menores;
+
+IX. Los Juzgados Municipales;
+
+X. Los Juzgados de Comunidad; y
+
+XI. El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus Unidades Regionales.
+
+El Poder Judicial contará además con un órgano denominado Consejo de la Judicatura del Poder Judicial del Estado.
 
 Los órganos jurisdiccionales en que se deposita el Poder Judicial del Estado gozarán de plena autonomía para dictar y ejecutar sus resoluciones.
 
@@ -425,15 +451,17 @@ Los auxiliares de la administración de justicia cooperarán con las autoridades
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 32.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con veintiocho magistrados.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con veintinueve magistrados.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 33.
 
-El Pleno se compondrá por el Presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por los Presidentes de cada una de sus Salas, a excepción de la Electoral, las que resolverán en última instancia los asuntos de su competencia. Para el ejercicio de sus atribuciones, el Pleno deberá reunir a las dos terceras partes de sus integrantes, entre los que deberá estar presente su Presidente.
+El Pleno se compondrá por el Presidente del Tribunal Superior de Justicia, quien no integrará Sala, y por los Presidentes de cada una de sus Salas, a excepción de la Electoral, y de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia. Para el ejercicio de sus atribuciones, el Pleno deberá reunir a las dos terceras partes de sus integrantes, entre los que deberá estar presente su Presidente.
 
 ###### Artículo 34.
 
@@ -647,11 +675,11 @@ El Pleno del Tribunal Superior de Justicia y sus Salas contarán, respectivament
 
 ### CAPÍTULO IV. De las Salas
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 42.
 
-El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles y una Sala Electoral. Cada una de ellas se compondrá por tres Magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido.
+El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles, y una Sala Electoral, cada una de ellas se compondrá por tres Magistrados, de entre los que se elegirá a su Presidente, el cual fungirá por un año, con la posibilidad de ser reelegido y la Sala de Responsabilidad Juvenil, la cual se integrará con un solo magistrado.
 
 > <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -795,19 +823,33 @@ III. Conocer, en funciones de Sala Auxiliar, de los asuntos y la materia que le 
 
 IV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
+
+#### SECCIÓN QUINTA. De la Sala de Responsabilidad Juvenil
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+
+###### Artículo 48 Bis.
+
+La Sala de Responsabilidad Juvenil se integrará con un Magistrado, un secretario de trámite y el personal judicial necesario para su adecuado funcionamiento.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+
+###### Artículo 48 Ter.
+
+La Sala de Responsabilidad Juvenil tendrá la facultad de resolver los recursos de apelación, apelación especial y revisión en los términos previstos en la Ley de Responsabilidad Juvenil.
 
 ## TÍTULO TERCERO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
+#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
+
 #### SECCIÓN SEGUNDA. Del Presidente del Tribunal
 
-#### SECCIÓN TERCERA. De la Sala Superior
-
-## TÍTULO CUARTO. DE LOS JUZGADOS Y DE LA COMISIÓN JURISDICCIONAL DE MENORES INFRACTORES
+## TÍTULO CUARTO. DE LOS JUZGADOS Y DEL CENTRO ESTATAL DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS
 
 ### CAPÍTULO I. Del Tribunal de lo Contencioso Administrativo
 
-#### SECCIÓN CUARTA. De las Salas Regionales
+#### SECCIÓN TERCERA. De la Sala Superior
 
 ###### Artículo 49.
 
@@ -819,9 +861,9 @@ El Tribunal contará con una Sala Superior y tres Salas Regionales, integradas �
 
 La Sala Superior y las Salas Regionales contarán con un Secretario de Acuerdos, nombrado conforme a lo dispuesto por esta ley.
 
-#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
+#### SECCIÓN CUARTA. De las Salas Regionales
 
-#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
+#### SECCIÓN PRIMERA. De su Organización y Funcionamiento
 
 ###### Artículo 51.
 
@@ -867,7 +909,7 @@ XIII. Conocer de los avisos que los Magistrados del Tribunal de lo Contencioso A
 
 XIV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
+#### SECCIÓN SEGUNDA. Del Presidente del Tribunal
 
 ###### Artículo 53.
 
@@ -909,7 +951,7 @@ XIII. Atender las observaciones y recomendaciones que le formule el Órgano de F
 
 XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
-#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
+#### SECCIÓN TERCERA. De la Competencia del Tribunal de Conciliación y Arbitraje
 
 ###### Artículo 54.
 
@@ -964,6 +1006,8 @@ Las Salas Regionales conocerán, por razón de territorio, de los actos que dict
 También conocerán de los asuntos planteados por quienes tengan su domicilio dentro de su jurisdicción, independientemente del de la Autoridad responsable; excepto cuando se trate de actos de autoridades municipales o entidades paramunicipales.
 
 ### CAPÍTULO II. Del Tribunal de Conciliación y Arbitraje
+
+#### SECCIÓN CUARTA. De la Procuraduría para la Defensa de los Trabajadores
 
 ###### Artículo 57.
 
@@ -1082,6 +1126,8 @@ III. Gozar de buena reputación y no haber sido condenado por delito que amerite
 ###### Artículo 64.
 
 El reglamento del Tribunal determinará, conforme a las atribuciones que expresamente señalen esta ley y las leyes del Estado, la organización y funcionamiento de la Procuraduría de la Defensa de los Trabajadores.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 2007)</small>
 
 ## TÍTULO QUINTO. DEL CONSEJO DE LA JUDICATURA
 
@@ -1361,41 +1407,119 @@ IV. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
 Los Jueces de Comunidad actuarán con un Secretario que podrá ser accidental o con dos testigos de asistencia.
 
-### CAPÍTULO V. De la Comisión Jurisdiccional de Menores Infractores
+> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 2007)</small>
+
+### CAPÍTULO V. De los Juzgados para Adolescentes
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 88.
 
-La Comisión Jurisdiccional de Menores Infractores tendrá competencia para tramitar y resolver mediante los procedimientos que señalen las leyes los asuntos de los menores infractores.
+Los Juzgados para Adolescentes se crearán en el número que sea necesario, se organizarán y funcionarán en lo conducente, de igual forma que los demás juzgados de primera instancia y la jurisdicción territorial la fijará el Consejo de la Judicatura.
+
+Los Juzgados para Adolescentes se integrarán por:
+
+I. Un Juez de Garantía;
+
+II. Un Juez de Juicio; y
+
+III. Un Juez de Ejecución de medidas sancionadoras.
+
+Cada juzgado contará con un Secretario de Acuerdos y los servidores judiciales indispensables para su adecuado funcionamiento, nombrados por el propio Consejo de la Judicatura en los términos que fijen esta ley, el Reglamento correspondiente y el Presupuesto autorizado.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 89.
 
-La Comisión Jurisdiccional de Menores Infractores se integrará por:
+En los Juzgados de Adolescentes, corresponde:
 
-I. Un Presidente, que deberá contar con título de Licenciado en Derecho;
+l. A los Jueces de Garantía:
 
-II. Un Vocal, que deberá contar con título de licenciatura en alguna de las ciencias de la salud, preferentemente, médico o psiquiatra; y
+a) Resolver sobre la legalidad de la detención en los casos de consignación con detenido;
 
-III. Un Vocal, quien deberá contar con título de licenciatura en alguna de las ciencias del comportamiento humano.
+b) Recabar la declaración preparatoria del adolescente a quien se le impute la comisión de un hecho tipificado como ilícito;
+
+c) Aprobar los acuerdos preparatorios del daño o perjuicio;
+
+d) Resolver sobre la suspensión del proceso a prueba;
+
+e) Resolver sobre la vinculación a proceso del adolescente a quien se le atribuya la comisión de un hecho tipificado como delito;
+
+f) Resolver sobre el otorgamiento de medidas cautelares;
+
+g) Resolver sobre la admisión de las pruebas en términos del artículo 66 párrafo segundo de la Ley;
+
+h) Decretar la suspensión del proceso por arreglo conciliatorio en los casos en que proceda conforme a la Ley; y
+
+i) Ejercer las demás atribuciones que esta Ley o las demás leyes les otorguen.
+
+II. A los Jueces de Juicio:
+
+a) Dirigir el juicio acusatorio conforme a los lineamientos que establezca la ley de la materia;
+
+b) Dictar las medidas correspondientes; y
+
+c) Las demás que les confieran ésta y otras leyes.
+
+III. A los Jueces de Ejecución de Medidas Sancionadoras:
+
+a) Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la misma;
+
+b) Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas sancionadoras;
+
+c) Ordenar la cesación de la medida sancionadora, una vez transcurrido el plazo fijado por la sentencia;
+
+d) Atender las solicitudes que hagan los adolescentes sancionados y determinar lo que corresponda;
+
+e) Visitar los centros de cumplimiento de las medidas sancionadoras del adolescente, por lo menos dos veces al mes; y
+
+f) Las demás atribuciones que ésta y otras leyes les asignen.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 90.
 
-Los integrantes de la Comisión Jurisdiccional de Menores Infractores, deberán cumplir los siguientes requisitos:
+Para ser Juez de los Juzgados de adolescentes se exigirán los mismos requisitos que para ser Juez de Primera Instancia y además acreditar su conocimiento sobre la materia, lo que se comprobará con la constancia expedida por el Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial.
 
-I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
-
-II. Poseer, al día del nombramiento, título de Licenciatura expedido por autoridad o institución legalmente facultada, contar al menos con cinco años de experiencia en el ejercicio de su profesión y vinculación con el área, ya sea en ejercicio profesional, académico o científico; y
-
-III. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 91.
 
-La Comisión Jurisdiccional de Menores Infractores contará con un Secretario de Acuerdos y los servidores públicos necesarios para su adecuado funcionamiento, nombrados por el Consejo de la Judicatura en los términos que fijen el reglamento y el presupuesto.
+El personal que integre los Juzgados de Adolescentes, deberá cumplir los siguientes requisitos:
 
-### CAPÍTULO VI. Disposiciones comunes
+I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
 
-### CAPÍTULO I. De su Organización y Funcionamiento
+II. Poseer, al día del nombramiento, título de Licenciatura en Derecho expedido por autoridad o institución legalmente facultada, y contar al menos con dos años de experiencia en el ejercicio de su profesión;
+
+III. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+IV. Tener conocimientos sobre la materia, lo que se acreditará con la constancia expedida por el Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
+
+### CAPÍTULO VI. Del Centro Estatal de Medios Alternativos para la Solución de Conflictos
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+
+###### Artículo 91 Bis.
+
+El Centro Estatal de Medios Alternativos para la Solución de Conflictos tendrá a su cargo la Mediación o Conciliación como formas de solución de conflictos entre las partes; tendrá su sede en la Capital del Estado y contará con Unidades Regionales de acuerdo a lo que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+
+###### Artículo 91 Ter.
+
+La organización y funcionamiento del Centro Estatal de Medios Alternativos para la Solución de Conflictos, así como los requisitos que deberá cubrir el personal respectivo, se establecerán en la Ley correspondiente.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2007)</small>
+
+###### Artículo 91 Quáter.
+
+El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus unidades regionales ejercerán en su caso, la facultad facilitadora en el proceso instituido por responsabilidad juvenil en los términos que prevé la Ley de la materia, previa certificación del Instituto de Formación, Capacitación, Especialización y Actualización.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], G.O. 2 DE JULIO DE 2007)
+
+### CAPÍTULO VII. Disposiciones Comunes
 
 ###### Artículo 92.
 
@@ -1439,13 +1563,15 @@ En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa 
 
 En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año, excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
 
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+
 ###### Artículo 99.
 
-El Consejo de la Judicatura resolverá sobre los casos de renuncia, licencia, ausencia temporal y faltas definitivas de los servidores públicos de la Comisión Jurisdiccional de Menores Infractores, en los mismos términos que los señalados para los Jueces en el presente Capítulo.
+El Consejo de la Judicatura resolverá sobre los casos de renuncia, licencia, ausencia temporal y faltas definitivas de los jueces de adolescentes, y demás servidores judiciales, en los mismos términos que se previene para los Jueces en el presente Capítulo.
 
 ## TÍTULO SEXTO. DE LA DIVISIÓN TERRITORIAL
 
-### CAPÍTULO I. De los Distritos Judiciales
+### CAPÍTULO I. De su Organización y Funcionamiento
 
 ###### Artículo 100.
 
@@ -1583,9 +1709,13 @@ XXVI. Previa garantía de audiencia, imponer multa de diez a treinta días de sa
 
 XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JULIO DE 2007)</small>
 
-XXVIII. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
+XXVIII. Tomar las medidas necesarias para asegurar la especialidad de los Jueces de Adolescentes en los casos de excusa, recusación o impedimento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 2 DE JULIO DE 2007)</small>
+
+XXIX. Las demás que expresamente establezcan la Constitución Local, ésta y otras leyes del Estado.
 
 ###### Artículo 105.
 
@@ -1651,17 +1781,21 @@ La Defensoría de Oficio tiene competencia para gestionar, ante los órganos jur
 
 El Reglamento determinará conforme a lo dispuesto por esta ley y las leyes del Estado la organización y funcionamiento de la defensoría de oficio.
 
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
+
 ###### Artículo 113.
 
-Los Consejeros de la Judicatura tendrán a su cargo la función de Visitadores de las Salas Regionales de los Tribunales, de los Juzgados y de la Comisión Jurisdiccional de Menores Infractores. El Consejo de la Judicatura determinará el tiempo y lugar de las visitas.
+Los Consejeros de la Judicatura tendrán a su cargo la función de Visitadores de las Salas Regionales de los Tribunales, de los Juzgados y del Centro Estatal de Medios Alternativos para la Solución de Conflictos. El Consejo de la Judicatura determinará el tiempo y lugar de las visitas.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2007)</small>
 
 ###### Artículo 114.
 
-El ingreso y promoción de los servidores judiciales se hará mediante el sistema de Carrera Judicial, la que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia, en términos del Reglamento.
+El ingreso al Poder Judicial se hará mediante concurso de oposición aplicado por el Instituto de Formación, Capacitación, Especialización y Actualización, y la promoción de los servidores judiciales será mediante el sistema de Carrera Judicial, la que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia, en términos del Reglamento y estará a cargo de una Dirección.
 
 ## TÍTULO SÉPTIMO. Del Fondo Auxiliar para la Administración de Justicia (sic)
 
-### CAPÍTULO I. De la Constitución del Fondo Auxiliar
+### CAPÍTULO I. De los Distritos Judiciales
 
 ###### Artículo 115.
 
@@ -1719,7 +1853,7 @@ Los municipios designados en primer lugar en cada una de las fracciones del art�
 
 ## TÍTULO OCTAVO. DE LAS RESPONSABILIDADES
 
-### CAPÍTULO II. De la Administración y Operación del Fondo
+### CAPÍTULO I. De la Constitución del Fondo Auxiliar
 
 ###### Artículo 117.
 
@@ -1795,7 +1929,7 @@ X. Cubrir el pago de pólizas con motivo del seguro de vida e incapacidad total 
 
 XI. Los demás que el Consejo de la Judicatura estime convenientes para el mejoramiento de la impartición de justicia.
 
-### CAPÍTULO I. De los Supuestos y Consecuencias
+### CAPÍTULO II. De la Administración y Operación del Fondo
 
 ###### Artículo 122.
 
@@ -1885,7 +2019,7 @@ Los bienes muebles o inmuebles que, de conformidad con lo dispuesto por esta ley
 
 ## TÍTULO NOVENO. PREVENCIONES GENERALES
 
-### CAPÍTULO I
+### CAPÍTULO I. De los Supuestos y Consecuencias
 
 ###### Artículo 133.
 
@@ -2044,6 +2178,8 @@ III. Cuando se trate de los Magistrados, el Presidente del Tribunal Superior de 
 ###### Artículo 143.
 
 Las faltas en que incurran los servidores públicos del Poder Judicial, serán sancionadas según la gravedad de las mismas, a través de resolución debidamente fundada y motivada, con apercibimiento por escrito, con suspensión de su cargo de dos a quince días, debiéndose tomar nota en su expediente; con suspensión por el término hasta de un año, inhabilitación o cese, sin perjuicio de las demás sanciones que correspondan.
+
+### CAPÍTULO I
 
 ###### Artículo 144.
 
@@ -2288,3 +2424,11 @@ G.O. 31 DE DICIEMBRE DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 2 DE JULIO DE 2007.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+Tercero. Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente decreto serán remitidos a los Juzgados de adolescentes que corresponda.
