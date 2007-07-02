@@ -4,7 +4,7 @@ identifier: "HID-decreto-que-crea-el-colegio-de-bachilleres-y-su-ley-organica-54
 country: "mx"
 rank: "decreto"
 publication_date: "1984-09-24"
-last_updated: "1998-12-07"
+last_updated: "2007-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 DECRETO QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO Y SU LEY ORGANICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Decreto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de septiembre de 1984.
 
@@ -256,3 +258,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE DICIEMBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Con excepción de la disposición normativa de la fecha de creación y denominación del Colegio de Bachilleres del Estado de Hidalgo, se abrogan los Decretos números 16, 121 y 234, Publicados en el Periódico Oficial del Estado de Hidalgo, de fechas 24 de septiembre de 1984, 9 de mayo de 1991 y 7 de diciembre de 1998, así como las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- El Colegio de Bachilleres del Estado de Hidalgo, expedirá su Estatuto Orgánico, dentro de los noventa días hábiles siguientes a la entrada en vigor de esta Ley.
