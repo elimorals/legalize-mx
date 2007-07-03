@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2007-02-22"
+last_updated: "2007-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -115,9 +115,9 @@ II. En el Poder Ejecutivo y sus Organismos descentralizados, aquellos cuya desig
 
 a) La Planta que cubre el personal de las oficinas particulares del Gobernador, los ayudantes y choferes al servicio directo del Titular del Ejecutivo o de su residencia oficial y el personal comisionado en la misma;
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
 
-b) Secretarios de Gobierno, Subsecretarios, Contralor General, Procurador, Tesorero, Jefes de Departamento, Directores, Subdirectores, Jefes de Oficina, de Sección de Servicios, o de Zonas; Administradores o Gerentes; Encargados, Coordinadores, Auditores, Contadores, Valuadores, Peritos de toda clase, Proveedores, Almacenistas, Supervisores, Recaudadores, Pagadores, o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; Tomadores o Controladores de tiempo, de obras y Servicios; Conserjes, veladores y porteros; Agentes del Ministerio Público, Presidente, Presidentes Especiales, y Presidentes Auxiliares en las Juntas de Conciliación y Arbitraje; Integrantes de Consejos Tutelares o Asistenciales; Integrantes de Consejos Consultivos, o Asesores de los Titulares; Vocales Representantes en dependencias Públicas y Organismos Descentralizados; Directores, Rectores, Alcaides, Celadores y personal de vigilancia en cárceles e instituciones de Asistencia Social; ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de Servidores Públicos de superior jerarquía en las Dependencias; el Personal sujeto a honorarios; y
+b) Secretarios de gobierno, subsecretarios, Contralor General, procuradores, subprocuradores, Tesorero, jefes de departamento, directores, subdirectores, jefes de oficina, de sección de servicios, o de zonas; administradores o gerentes; encargados, coordinadores, auditores contadores, valuadores, peritos de toda clase, proveedores, almacenistas, supervisores, recaudadores, pagadores, o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; tomadores o controladores de tiempo, de obras y servicios; conserjes, veladores y porteros; agentes del Ministerio Público, agentes y trabajadores sociales de la Procuraduría Social; Presidente, presidentes especiales y presidentes auxiliares en las Juntas de Conciliación y Arbitraje; integrantes de consejos tutelares o asistenciales; integrantes de consejos consultivos, o asesores de los titulares; vocales representantes en dependencias públicas y organismos descentralizados; directores, rectores, alcaldes, celadores y personal de vigilancia en cárceles e instituciones de asistencia social; ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de servidores públicos de superior jerarquía en las dependencias; el personal sujeto a honorarios; y
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -129,11 +129,11 @@ III. En los ayuntamientos de la entidad y sus organismos descentralizados; el fu
 
 IV. En el Poder Judicial:
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+
 a) En el Supremo Tribunal de Justicia:
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
-
-Jueces, Secretarios de Acuerdos del Tribunal Pleno, Secretario Taquígrafo de la Presidencia, los Secretarios de las Salas, los Secretarios de los Juzgados de Primera Instancia y Menores, Civiles y Penales, Urbanos y Foráneos, Oficial Mayor del Tribunal, el Visitador de los Juzgados, los Asesores Jurídicos de la Presidencia, los Choferes de la Presidencia, el Director de la Defensoría de Oficio, los jefes de las secciones Civil y Penal de la Defensoría de Oficio, los Coordinadores Regionales de la Defensoría de oficio, el Director de Estadística Judicial, el Abogado "D" de la Dirección de Estadística Judicial, el Director de la Academia de Capacitación Judicial, los Instructores de la Academia de Capacitación Judicial, el Coordinador de eventos de la Academia de Capacitación Judicial, el Jefe de Archivo y Biblioteca del Supremo Tribunal, la Supervisora de Trabajo Social, las trabajadoras Sociales del Departamento de Trabajo Social, el encargado del almacén de los juzgados de lo criminal, el Administrador de Personal, el Jefe de Información y Relaciones Públicas;
+Magistrados, jueces, secretarios de acuerdos del Tribunal Pleno, Secretario Taquígrafo de la Presidencia, los secretarios de las salas, los secretarios de los Juzgados de Primera Instancia y Menores, Civiles y Penales, Urbanos y Foráneos, Oficial Mayor del Tribunal, el Visitador de los juzgados, los asesores jurídicos de la Presidencia, los choferes de la Presidencia, el Director de Estadística Judicial, el Abogado “D” de la Dirección de Estadística Judicial, el Director de la Academia de Capacitación Judicial, los instructores de la Academia de Capacitación Judicial, el Coordinador de Eventos de la Academia de Capacitación Judicial, el Jefe de Archivo y Biblioteca del Supremo Tribunal, el encargado del almacén de los Juzgados de lo Criminal, el Administrador de Personal, el Jefe de Información y Relaciones Públicas;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2350,3 +2350,7 @@ P.O. 22 DE FEBRERO DE 2007.
 DECRETO NUMERO 21835-LVII
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE JULIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
