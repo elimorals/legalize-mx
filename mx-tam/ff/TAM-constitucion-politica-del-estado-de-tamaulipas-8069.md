@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2007-03-20"
+last_updated: "2007-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1287,9 +1287,9 @@ Mientras se hace la designación ordenada en el artículo anterior o en cualquie
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
-###### Artículo 87.
+###### ARTICULO 87.
 
-Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta el máximo de setenta años de privación de libertad, según la peligrosidad del delincuente o la mayor o menor gravedad de la culpa en que se haya incurrido. En el caso, el sentenciado no podrá gozar de los beneficios o de los sustitutivos penales que este código prevé.
+En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
 
 ###### Art. 87.
 
@@ -1689,7 +1689,7 @@ III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expe
 
 IV.- No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario o su equivalente, Procurador General de Justicia o Diputado local en el Estado; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -3301,9 +3301,11 @@ P.O. 15 DE ENERO DE 2007.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación, salvo lo dispuesto por el artículo segundo transitorio.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado, dentro de los ciento veinte días posteriores a la publicación del presente Decreto realizará las reformas y adecuaciones pertinentes a las leyes reglamentarias, que con motivo de la presente reforma deban efectuarse, mismo término en que deberán establecerse las Salas Colegiadas y las Salas Regionales, entre tanto, el Supremo Tribunal de Justicia continuará actuando en Pleno y en Salas Unitarias.
+Dentro del plazo de seis meses posteriores a la entrada en vigor del Decreto de reformas a la Ley Orgánica del Poder Judicial del Estado relativos al establecimiento y funcionamiento de las Salas Colegiadas y las Salas Regionales, el Supremo Tribunal de Justicia del Estado llevará a cabo las tareas necesarias para la habitación del personal y los espacios que necesite. Dentro de ese plazo, el Ejecutivo del Estado formulará las propuestas que le correspondan ante el Congreso para el nombramiento de los magistrados que requiera el establecimiento de las Salas referidas. En tanto inician su funcionamiento las Salas Colegiadas y las Salas Regionales, el Supremo Tribunal de Justicia del Estado continuará actuando en Pleno y en Salas Unitarias.
 
 ###### ARTÍCULO TERCERO.
 
@@ -3327,13 +3329,11 @@ Los períodos de presentación de las cuentas públicas que se establecen en el 
 
 El Auditor Superior del Estado continuará en el desempeño de su encargo hasta la conclusión del período para el que fue designado en términos de la Ley de Fiscalización Superior del Estado de Tamaulipas.
 
-###### ARTICULO UNICO.
+P.O. 3 DE JULIO DE 2007.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 28 DE ENERO DE 1992.
-
-DECRETO QUE REFORMA EL ARTÍCULO 102.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
