@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2007-01-16"
+last_updated: "2007-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -641,6 +641,10 @@ SEXTO.- Se autoriza al Titular del Poder Ejecutivo, a realizar las adecuaciones 
 
 SEPTIMO.- En tanto se realizan las adecuaciones correspondientes a los diversos ordenamientos del Estado, en aquellos casos en que éstos se refieran al Ministerio Público en su calidad de representante social, se entenderá que se refiere a la Procuraduría Social y a sus Agentes, cuando ello sea conforme a las disposiciones del presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+OCTAVO.- En tanto la Procuraduría Social no cuente con el personal suficiente para cubrir los requerimientos en materia de representación social en el estado, los agentes del Ministerio Público dependientes de la Procuraduría General de Justicia del estado de Jalisco, podrán ser habilitados por el Procurador Social para que ejerzan hasta el día 31 de diciembre del año 2007, las funciones de representación social que venían realizando, bajo la coordinación de los titulares de las dependencias involucradas y con la supervisión de la Procuraduría Social.
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
 GUADALAJARA, JALISCO, 30 DE DICIEMBRE DE 2006
@@ -678,3 +682,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE JULIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
