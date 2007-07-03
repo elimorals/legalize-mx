@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2003-12-20"
+last_updated: "2007-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -193,7 +193,25 @@ El impuesto predial será anual y su pago deberá hacerse por bimestres adelanta
 
 Independientemente de lo dispuesto en el párrafo anterior, podrá hacerse el pago del impuesto correspondiente al ejercicio de que se trate, dentro de los tres primeros meses del año, en cuyo caso, los ayuntamientos podrán someter a la consideración de la Legislatura estatal en su Iniciativa de Ley de Ingresos, el o los estímulos fiscales que consideren convenientes, sin que excedan del 15% del impuesto a pagar.
 
-Tratándose de personas mayores de 60 años, jubilados y pensionados, los ayuntamientos podrán someter a la consideración de la Legislatura estatal en su Iniciativa de Ley de Ingresos, una reducción en el pago de este impuesto, sin que ésta exceda del 50% del mismo.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+
+Tratándose de personas mayores de 60 años; jubilados; pensionados; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura estatal, en su Iniciativa de Ley de Ingresos, una reducción en el pago de este impuesto, sin que ésta exceda del 50% del mismo.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+En el caso de los indígenas, la reducción de hasta un 50% se hará sobre los predios cuyo valor catastral se indique en la Ley de Ingresos correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+Los contribuyentes que soliciten este beneficio deberán acreditar su situación o condición referida, de acuerdo al mecanismo que establezca el municipio respectivo, y solamente podrá ser aplicable para el predio en que habitan.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+Para el acreditamiento de la condición de indígena, las autoridades fiscales municipales tomarán en cuenta los padrones correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+Los ayuntamientos podrán plantear en su Iniciativa de Ley de Ingresos, la reducción que refiere este artículo, para otros sectores vulnerables de su municipio, cuando las condiciones socioeconómicas lo justifiquen; la cual estaría sujeta al valor catastral que se señale en la Ley de Ingresos respectiva.
 
 ###### ARTICULO 21.
 
@@ -740,6 +758,12 @@ P.O. 20 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ###### ARTICULO 82.
 
