@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2007-07-01"
+last_updated: "2007-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -12631,7 +12631,9 @@ TERCERO.- En el ejercicio fiscal 2007, los servicios respecto de los cuales el A
 
 CUARTO.- Los Ayuntamientos u Organismos Públicos Descentralizados para la prestación de los Servicios de Agua Potable, Drenaje, Alcantarillado y Saneamiento, deberán aprobar los precios públicos aplicables a los productos y aprovechamientos que se generen por el ejercicio de sus actividades de derecho privado y de derecho público, distintos a las contribuciones, los cuales deberán publicarse en el Periódico Oficial "Gaceta del Gobierno".
 
-QUINTO.- Los programas descentralizados municipales prestadores del servicio de agua, deberán llevar a cabo un diagnóstico que permita conocer la situación actual de cada uno de ellos, con la finalidad de mejorar las eficiencias (sic) físicas, operativas, financieras, comerciales, entre otras, motivo por el cual, se constituirá un fondo para contratar los servicios de empresas especializadas en este tipo de trabajos, que se integre con recursos del Gobierno del Estado, a través de la Comisión de Aguas del Estado de México de y de los ayuntamientos, por un monto de $120 millones de pesos, en partes iguales, sin menoscabo de la participación de otras instituciones.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE JULIO DE 2007)</small>
+
+QUINTO.- Los organismos descentralizados municipales prestadores del servicio de agua, deberán llevar a cabo un diagnóstico que permita conocer la situación actual de cada uno de ellos, con la finalidad de mejorar las eficiencias (sic) físicas, operativas, financieras, comerciales, entre otras, motivo por el cual, se constituirá un fondo para contratar los servicio de empresas especializadas en este tipo de trabajados, que se integre con recursos del Gobierno del Estado, a través de la Comisión del Agua del Estado de México y de los ayuntamientos, por un monto de $120'000,000.00 (CIENTO VEINTE MILLONES DE PESOS 00/100 M.N.), en partes iguales, sin menoscabo de la participación de otras instituciones.
 
 Para acceder a los recursos de este fondo, se deberá celebrar un convenio de coordinación entre los Gobiernos del Estado y los municipios, de acuerdo a las circunstancias particulares de cada municipio, en donde se establezca la intervención de cada uno de ellos.
 
@@ -12684,3 +12686,9 @@ G.G. 1 DE JULIO DE 2007
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 3 DE JULIO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
