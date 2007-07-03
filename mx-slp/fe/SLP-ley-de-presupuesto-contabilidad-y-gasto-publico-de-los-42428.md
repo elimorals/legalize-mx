@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2005-03-17"
+last_updated: "2007-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -149,6 +149,10 @@ VIII. La situación de la deuda pública al término del último ejercicio fisca
 
 IX. La demás información necesaria que sea requerida por el ayuntamiento, o en su caso por el órgano de gobierno respectivo.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+Los ayuntamientos preverán en el presupuesto de egresos del último año de ejercicio de gobierno de su periodo, una partida presupuestal con los recursos necesarios, para que la administración municipal que entre en funciones pueda comenzar a operar; misma que será entregada a la comisión receptora que señala la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí.
+
 ###### ARTICULO 11.
 
 Diez días después de aprobado el Presupuesto de Egresos por el cabildo, o en su caso por el órgano de gobierno respectivo, deberá enviarse al Congreso del Estado acompañado del acta de la sesión en que se aprobó. Asimismo, deberá mandar publicarse en el Periódico Oficial del Estado, en los términos señalados por el segundo párrafo del artículo 115 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
@@ -156,6 +160,10 @@ Diez días después de aprobado el Presupuesto de Egresos por el cabildo, o en s
 ###### ARTICULO 12.
 
 Las tesorerías deberán estimar anualmente los gastos por concepto de servicios personales, materiales y suministros, y servicios generales, con base en los costos del mercado, tomando en consideración los gastos del ejercicio inmediato anterior y la inflación previsible en el ejercicio, entre otros factores.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+
+En lo que concierne a la partida presupuestal a que se refiere el segundo párrafo del artículo 10 de esta Ley, para su estimación, se tomarán en cuenta los factores a que alude el primer párrafo de este precepto.
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO
 
@@ -227,9 +235,17 @@ Los ayuntamientos o en su caso los órganos de gobierno de las entidades y organ
 
 Una vez concluida la vigencia del presupuesto de egresos, sólo procederá hacer pagos con base en el, por los conceptos efectivamente devengados en el año que corresponda, y siempre que se hubieran contabilizado, debida y oportunamente, los pasivos correspondientes.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 27.
 
-Las percepciones de los servidores públicos deberán ser autorizadas por el ayuntamiento, o en su caso por el órgano de gobierno de las entidades u organismos intermunicipales, y deberán publicarse en el Periódico Oficial del Estado dentro de los diez días siguientes.
+Las percepciones de los servidores públicos de los municipios, de sus organismos públicos descentralizados, y de los organismos intermunicipales, deberán ser autorizadas por los ayuntamientos u órganos de gobierno, en su presupuesto respectivo, de acuerdo con el Catálogo General de Puestos y Tabuladores de Remuneraciones que emitan estos órganos edilicios o de gobierno; mismos que podrán apoyarse para la elaboración de dicho tabulador, en las recomendaciones que dicte para tal efecto la Auditoria Superior del Estado.
+
+Las percepciones de los servidores públicos que refiere este artículo, comprenden cualquier tipo de remuneración que se perciba por un empleo, cargo o comisión de cualquier naturaleza.
+
+En la asignación de las remuneraciones de los servidores públicos que alude este precepto, las autoridades que tengan esta responsabilidad deberán observar para tal efecto, los principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad y transparencia.
+
+Las percepciones de los servidores públicos que se señalan con antelación, deberán ser publicadas en el Periódico Oficial del Estado, en el caso de los ayuntamientos como un anexo de su Presupuesto de Egresos; y para los organismos públicos descentralizados municipales, y los organismos intermunicipales, dentro de los diez días siguientes a su aprobación deberán ser enviadas para tal efecto.
 
 ###### ARTICULO 28.
 
@@ -317,10 +333,26 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE MARZO DE 2005.
 
 PRIMERO.-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE JULIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Los ayuntamientos, sus organismos públicos descentralizados, y los organismos intermunicipales, tendrán hasta el día treinta de noviembre de 2007, para expedir sus respectivos Catálogos de Puestos y Tabuladores de Remuneraciones de sus Servidores Públicos.
+
+CUARTO. La Auditoria Superior del Estado deberá expedir a más tardar el treinta de agosto de 2007, las recomendaciones que pudieran tomar en cuenta los ayuntamientos, sus organismos públicos descentralizados, y los organismos intermunicipales, para la elaboración de sus Catálogos de Puestos y Tabuladores de Remuneraciones de sus Servidores Públicos.
+
+QUINTO. La Auditoría Superior del Estado, dentro de los cinco días siguientes del plazo previsto en el artículo que antecede, deberá enviar a todos los municipios del Estado, así como a los organismos públicos descentralizados municipales, y a los organismos intermunicipales, las recomendaciones referidas; entregándoselas de preferencia al presidente municipal, o al director general o su equivalente, de los organismos públicos descentralizados municipales, y de los organismos intermunicipales, con el apercibimiento que señala el artículo Sexto Transitorio de este Decreto.
+
+SEXTO. Los ayuntamientos, los organismos públicos descentralizados municipales, y los organismos intermunicipales, que no tengan sus Catálogos de Puestos y Tabuladores de Remuneraciones de sus Servidores Públicos, dentro del plazo previsto en el artículo Tercero Transitorio de este Decreto, se harán acreedores a las sanciones que señale la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+SEPTIMO. La Auditoría Superior del Estado deberá implementar los mecanismos operativos necesarios para apoyar a los municipios, sus organismos públicos descentralizados, y los organismos intermunicipales, en relación con la elaboración de los catálogos que refiere este Decreto.
