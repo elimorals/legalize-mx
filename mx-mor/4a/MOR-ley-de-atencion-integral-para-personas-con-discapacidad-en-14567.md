@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-1456
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-11"
-last_updated: "2002-07-10"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 11 de febrero de 1998.
 
@@ -654,3 +656,17 @@ P.O. 10 DE JULIO DE 2002.
 Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Primero.- Esta Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Artículo Segundo.- Se abroga la Ley de Atención Integral para Personas con Discapacidad en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 3901 del 11 de febrero de 1998.
+
+Artículo Tercero.- Con el objeto de facilitar la movilidad de las personas con discapacidad, en un plazo que no exceda de 180 días naturales el Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para que los transportes públicos colectivos se acondicionen con asientos para uso exclusivo de personas con discapacidad, asimismo, verifiquen el acondicionamiento arquitectónico en las vías y lugares públicos que facilite el tránsito de las personas con discapacidad.
+
+Artículo Cuarto.- Sólo por única ocasión y en virtud de que se estaría integrando por primera vez de manera formal para esta Ley el Consejo de Atención Integral para Personas con Discapacidad, la Convocatoria para su integración estará a cargo de la Secretaría de Salud misma que deberá emitirse a más tardar 30 días hábiles después del inicio de vigencia de la presente Ley.
+
+Artículo Quinto.- El Ejecutivo Estatal emitirá el Reglamento de la Ley dentro de los noventa días siguientes a la entrada en vigor de la presente ley.
+
+Artículo Sexto.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes Recinto Legislativo a los diecinueve días del mes de junio de dos mil siete.
