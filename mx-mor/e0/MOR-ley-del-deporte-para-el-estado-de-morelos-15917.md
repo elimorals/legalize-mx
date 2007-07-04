@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-para-el-estado-de-morelos-15917"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "1999-07-21"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DEL DEPORTE PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 21 de julio de 1999.
 
@@ -502,3 +504,19 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+SEGUNDO.- El Reglamento de la presente Ley deberá expedirse por el Ejecutivo del Estado dentro de los noventa días siguientes a la fecha en que ésta entre en vigor.
+
+TERCERO.- Se abroga la Ley del Deporte para el Estado de Morelos publicada en el Periódico Oficial "Tierra y Libertad", número 3990 del veintiuno de julio de mil novecientos noventa y nueve y se derogan todas las disposiciones normativas que se opongan a la presente Ley.
+
+CUARTO.- Se abroga el Decreto número mil ciento sesenta y nueve, publicado en el Periódico Oficial "Tierra y Libertad" número 4475, de fecha 26 de julio de 2006, por el que se crea el organismo público descentralizado denominado Instituto del Deporte del Estado de Morelos.
+
+QUINTO.- Se abroga el acuerdo del Ejecutivo Estatal de fecha 16 de febrero de 1996, publicado en el Periódico Oficial "Tierra y Libertad".
+
+SEXTO.- Se entenderá por Instituto del Deporte y Cultura Física del Estado de Morelos al Instituto del Deporte del Estado de Morelos en tanto se realicen las adecuaciones correspondientes, que no deberán de exceder de este año.
