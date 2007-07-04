@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-del-estado-de-nayarit-11912"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-30"
-last_updated: "2002-09-28"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY GANADERA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY GANADERA PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de julio de 1994.
 
@@ -45,7 +47,7 @@ LEY GANADERA DEL ESTADO DE NAYARIT
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO II. DE LAS AUTORIDADES COMPETENTES
+### CAPITULO I. DEL OBJETO DE LA LEY
 
 ###### ARTICULO 1.
 
@@ -101,7 +103,7 @@ I Ganaderos en General, personas físicas o Morales propietarias de ganado, sobr
 
 II Ganadero especializado: Personas físicas o Morales, que se dedican a la cría y aprovechamiento de determinada especie ganadera y concretamente, a la explotación de alguna función especifica.
 
-### CAPITULO I. DEL OBJETO DE LA LEY
+### CAPITULO II. DE LAS AUTORIDADES COMPETENTES
 
 ###### ARTICULO 6.
 
@@ -1614,3 +1616,19 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor a los treinta días naturales posteriores a su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones reglamentarias para la aplicación de esta ley, deberán expedirse en un plazo no mayor de 180 días a partir de la vigencia de la misma.
+
+En tanto no se expidan los reglamentos de esta ley, se aplicarán, en lo que no se contrapongan a ésta, los reglamentos de la que se abroga.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley Ganadera del Estado de Nayarit, contenida en el Decreto 7776 publicada en el Periódico Oficial, el día 30 de julio del año 1994; y todas aquellas disposiciones normativas que contravengan la presente ley.
