@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2006-03-04"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2007.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -382,6 +382,10 @@ En el Estado de Zacatecas todo individuo gozará de las garantías que otorga la
 ###### Artículo 22.
 
 La mujer y el varón son iguales ante la ley y deben gozar de las mismas oportunidades para el desenvolvimiento de sus facultades físicas e intelectuales, así como de las mismas seguridades para la preservación de su vida, integridad física y moral, y su patrimonio.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Se reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano. El Estado promoverá este postulado para lograr una sociedad más justa y equitativa, y la ley determinará las facultades y acciones que deban aplicarse para el cumplimiento de este fin.
 
 ###### Artículo 23.
 
@@ -2656,3 +2660,9 @@ P.O. 15 DE FEBRERO DE 2006.
 P.O. 4 DE MARZO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+PRIMERO.- El Poder Legislativo del Estado, contando con la participación de la ciudadanía, a más tardar a los seis meses del inicio de vigencia de esta reforma, expedirá la Ley Estatal para la Equidad entre los Géneros.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
