@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-especial-de-justicia-para-adolescentes-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-10"
-last_updated: "2006-09-10"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESPECIAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 10 de septiembre de 2006.
 
@@ -642,6 +642,10 @@ Reparación del daño
 En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el Juez no podrá eximir al adolescente de dicha reparación si ha emitido una sentencia condenatoria.
 
 Los padres, tutores o responsables del menor, como terceros civilmente responsables garantizarán el cumplimiento de la reparación del daño.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+En los casos en que el ofendido sea una Entidad Pública Federal, Estatal o Municipal, éstas podrán establecer acuerdo reparatorio con los representantes, padres o tutores del menor inculpado, previamente al procedimiento o hasta antes de dictarse el auto de apertura a juicio.
 
 ###### Artículo 64.
 
@@ -1505,13 +1509,21 @@ j) Secuestro, previsto por los artículos 16 bis fracción I y 357 de ese ordena
 
 k) Robo con violencia física, previsto por los artículos 16 bis fracción I y 371 de ese ordenamiento;
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-l) Delincuencia organizada previsto por los artículos 16 bis fracción I y 176 de ese ordenamiento; o
+l) Delincuencia organizada previsto por los Artículos 16 bis fracción I y 176 de ese ordenamiento;
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-m) Desobediencia a mandato legítimo de autoridad previsto por los artículos 16 bis fracción I y 181 bis 1 de ese ordenamiento.
+m) Desobediencia a mandato legítimo de autoridad previsto por los Artículos 16 bis fracción I y 181 bis 1 de ese ordenamiento;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+n) Contra la seguridad de la comunidad, previsto por los Artículos 16 bis fracción I y 165 bis de ese ordenamiento; o
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+o) Equiparable a la privación ilegal con carácter de secuestro, previsto por los artículos 16 bis fracción I y 357 bis de se ordenamiento.
 
 II.- Cuando se trate de los sujetos comprendidos en la fracción III del artículo 3 de esta Ley, la medida sancionadora de internamiento no podrá exceder los ocho años en caso de que fueran encontrados responsables de alguna de las conductas mencionadas en la fracción anterior, o de alguna de las siguientes, previstas en el Código Penal para el Estado de Nuevo León:
 
@@ -2268,3 +2280,17 @@ ANTONIO GARZA GARCÍA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NO. 108.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NO. 110.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
