@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2007-06-22"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -873,11 +873,11 @@ La misma obligación tienen los jefes, directores o administradores de las prisi
 
 En las actas que se levanten en tales casos, se expresarán las circunstancias que señala el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 68.
 
-Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de la Defensa del Menor y la Familia ordenará su depósito ante el Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
+Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de la Defensa del Menor y la Familia ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1061,7 +1061,9 @@ A la solicitud a que se refieren los artículos anteriores, se acompañará:
 
 I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes;
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II.- La constancia de que prestan su autorización para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -1087,11 +1089,11 @@ Todos los requisitos mencionados en el artículo que antecede, deberán estar sa
 
 No podrá dejar de hacerse la manifestación a que se refiere la fracción V del artículo 94 y el Oficial del Registro Civil está obligado a requerirla y a asentarla.
 
-(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 97.
 
-El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 94 serán ratificadas bajo protesta de decir verdad. El Oficial del Registro Civil, cuando lo considere necesario, se cerciorará también de la autenticidad de las firmas del certificado médico presentado, solicitando su ratificación.
+El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su autorización, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del Artículo 94 serán ratificadas bajo protesta de decir verdad. El Oficial del Registro Civil, cuando lo considere necesario, se cerciorara también de la autenticidad de las firmas del certificado médico presentado, solicitando su ratificación.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -1119,7 +1121,9 @@ II.- Si son mayores o menores de edad;
 
 III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-IV.- El consentimiento de estos, de los abuelos o tutores o de quienes deban suplirlo, si son menores de edad los contrayentes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV.- La autorización de éstos, de los abuelos o tutores o de quienes deban suplirlo, si son menores de edad los contrayentes;
 
 V.- Que no hubo impedimento para el matrimonio o que aquél se dispensó;
 
@@ -1471,39 +1475,51 @@ Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 149.
 
-El menor que no haya cumplido dieciocho años, no puede contraer matrimonio sin consentimiento de quien o quienes ejerzan sobre él la patria potestad o la tutela.
+El menor que no haya cumplido dieciocho años, no puede contraer matrimonio sin autorización de quien o quienes ejerzan sobre él la patria potestad o la tutela.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 150.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+Faltando padres y abuelos, se necesita la autorización de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá la autorización.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 151.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, para el caso de que quienes ejerzan la patria potestad o tutela sobre ellos nieguen su consentimiento o revoquen el que hubieren dado. La autoridad mencionada después de escuchar el parecer de quienes ejerzan la patria potestad o tutela y recabar la debida información, suplirán o denegarán el consentimiento.
+Los interesados pueden ocurrir al Presidente Municipal respectivo, para el caso de que quienes ejerzan la patria potestad o tutela sobre ellos nieguen su autorización o revoquen la que hubieren dado. La autoridad mencionada después de escuchar el parecer de quienes ejerzan la patria potestad o tutela y recabar la debida información, suplirá o denegará la autorización.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
 
 En caso de inconformidad de los ascendientes, tutores o pretendientes con la resolución de la autoridad municipal, pueden ocurrir dentro de los ocho días después de haber dictado ésta su fallo, ante el Gobernador del Estado, quien resolverá en definitiva.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 152.
 
-Si el juez, en el caso del artículo 150, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+Si el Juez, en el caso del Artículo 150, se niega a suplir la autorización para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 153.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+El ascendiente o tutor que ha prestado su autorización firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarla después, a menos que haya justa causa para ello.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 154.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101.
+Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su autorización no puede ser revocada por la persona que, en su defecto, tendría el derecho de otorgarla; pero siempre que el matrimonio se verifique dentro del término fijado en el Artículo 101.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 155.
 
-El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar la autorización, una vez que la haya otorgado, sino por justa causa superveniente.
 
 ###### Art. 156.
 
@@ -1511,7 +1527,9 @@ Son impedimentos para celebrar el contrato de matrimonio:
 
 I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II.- La falta de autorización del que, o los que ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1669,9 +1687,11 @@ Las capitulaciones matrimoniales son los pactos que los esposos celebran para co
 
 Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 181.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuya autorización previa es necesaria para la celebración del matrimonio.
 
 ###### Art. 182.
 
@@ -1697,9 +1717,13 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 187.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 181.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, presentando su autorización, las personas a que se refiere el artículo 181.
+
+> <small>(F. DE E., P.O. 23 DE JULIO DE 2007)</small>
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
@@ -1957,9 +1981,11 @@ I.- Cuando haya habido hijos;
 
 II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 238.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+La nulidad por falta de autorización de los ascendientes sólo podrá alegarse por aquél o aquellos a quienes tocaba prestar dicha autorización, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
 
 ###### Art. 239.
 
@@ -1969,9 +1995,11 @@ I.- Si han pasado los treinta días sin que se haya pedido;
 
 II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 240.
 
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+La nulidad por falta de autorización del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
 
 ###### Art. 241.
 
@@ -3051,9 +3079,9 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El Juez que apruebe la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y al Sistema para el Desarrollo Integral de la Familia, para que realice el seguimiento de la adopción del menor, realizando como mínimo dos visitas durante el año, en un período de hasta dos años, contados a partir de la fecha en que se otorgó la adopción. A excepción de las adopciones tramitadas por organismos privados aprobados y certificados por el Consejo Estatal de Adopciones, quienes darán el seguimiento correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Cuando el juez decrete que no procede autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, el juez decretará la separación del menor de aquél y ordenará su depósito provisional en la Institución Pública que corresponda.
+Cuando el Juez decrete que no procede autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, el Juez decretará la separación del menor de aquél y ordenará sea confiado temporalmente a la Institución Pública que corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3221,11 +3249,13 @@ La patria potestad se ejerce por el padre y la madre conjuntamente. Solamente po
 
 Tratándose de menores acogidos, por maltrato o abandono, en institución pública de asistencia o beneficencia social, serán llamados los abuelos, por vía judicial, a ejercer la patria potestad; quienes en caso de incumplimiento, serán demandados juntamente con los padres.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 414 Bis.
 
-La madre tendrá en todos los casos en que no viva con el padre de sus hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de siete años, a menos que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos.
+La madre tendrá en todos los casos en que no viva con el padre de sus hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de doce años, a menos que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriaguez, drogadicción o cualquier otra adicción que pusiere directa o indirectamente en riesgo la estabilidad física o emocional del menor, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
+
+En todos los casos, el Juez deberá garantizar y facilitar la convivencia de los menores con su padre o madre y cuando sea necesario supervisarla.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -4601,7 +4631,7 @@ El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apode
 
 ###### Art. 649.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, se le citará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial del Estado y en algún periódico de los que tengan mayor circulación a juicio del Juez, señalándose para que se presente en un término no menor de tres meses, ni mayor de seis, y dictará las providencias necesarias para asegurar los bienes.
+Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, se le citará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial del Estado y en algún periódico de los que tengan mayor circulación a juicio del Juez, señalándole para que se presente en un término no menor de tres meses, ni mayor de seis, y dictará las providencias necesarias para asegurar los bienes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -16528,6 +16558,26 @@ Artículo Segundo.- A los procedimientos judiciales que estén tramitándose con
 Artículo Tercero.- Los procedimientos iniciados a partir de la vigencia de este Decreto, podrán ser acumulados a aquellos que se encuentren en trámite bajo la regulación anterior, en los términos del Capítulo II, del Título Undécimo, del Libro Primero, del Código de Procedimientos Civiles del Estado, no siendo aplicable lo dispuesto en el Artículo 570 fracción III del mismo.
 
 P.O. 22 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. 101
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren- en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. 103
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. 105
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
