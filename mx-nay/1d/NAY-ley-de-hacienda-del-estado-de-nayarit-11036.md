@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2006-12-22"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -553,7 +553,7 @@ Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Produ
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 48.
 
@@ -619,11 +619,11 @@ Será objeto de este impuesto la prestación de servicio de hospedaje, campament
 
 Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 55.
 
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias, así como de los obtenidos por venta de membresías.
+Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -647,7 +647,7 @@ El contribuyente trasladará el impuesto, en forma expresa y por separado, a las
 
 ###### ARTICULO 59.
 
-La base para el cálculo de este impuesto se integra con el valor total de la contra prestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio al pagar su membresía, así como lo pagado cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento, incluyendo las cantidades que se cobren por intereses normales o moratorias, penas convencionales, cuotas ordinarias o extraordinarias por administración, gastos de toda clase y cualquier otro concepto inherente al mismo.
+La base para el cálculo de este impuesto se integra con el valor total de la contraprestación del servicio de hospedaje y en el caso de los tiempos compartidos, por el monto de la contraprestación que hace el usuario del servicio cada vez que haga uso de sus derechos convenidos sobre un bien, parte del mismo o efectúe el pago de cuotas de mantenimiento.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
@@ -775,11 +775,11 @@ Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado po
 
 Los contribuyentes que obtengan ingresos de los señalados en este capítulo efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 65-E.
 
-El impuesto se calculará anualmente y se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas autorizadas por la Secretaría de Finanzas.
+El impuesto se calculará anualmente y se pagará a una tasa del 2% que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta Ley en ese ejercicio. Contra el impuesto anual calculado, se podrá acreditar el importe de los pagos provisionales a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones autorizadas por la Secretaría de Finanzas.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -1244,3 +1244,7 @@ P.O. 22 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto de adiciones y modificaciones entrará en vigor el día 1º de Enero del año dos mil siete debiéndose publicar en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente decreto de reformas y adiciones entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
