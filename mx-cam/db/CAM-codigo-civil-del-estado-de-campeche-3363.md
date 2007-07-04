@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2006-12-21"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -400,6 +400,10 @@ Los Oficiales del Registro Civil serán removidos de sus cargos por el Ejecutivo
 ###### Art. 66.
 
 El Ejecutivo designará todas las poblaciones en que deban establecerse Oficinas del Registro Civil y también determinará las sanciones por las infracciones en que incurra el personal de las mismas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Art. 66 bis.- En todos los casos comprendidos en el presente capítulo, en los que se disponga que los jueces o magistrados deban hacer saber una comunicación, remitir oficios, certificaciones o cualquier otro documento al Oficial del Registro Civil, para efectos de anotaciones, cancelaciones o notas marginales, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga su firma electrónica certificada, para cumplimentar dichas disposiciones, y los funcionarios receptores deberán acusar el recibo electrónico correspondiente.
 
 ### CAPITULO II.
 
@@ -917,7 +921,7 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 ###### Art. 143.
 
-El Oficial del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio o en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
+El Oficial del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -947,7 +951,7 @@ Si la rectificación no altera en modo alguno la filiación, deberá tramitarse,
 
 ###### Art. 147.
 
-La nulidad de las actas del Registro Civil o la rectificación de las mismas que importe alteración de la filiación, se tramitarán ante la autoridad judicial, con audiencia del Ministerio Público, a través del juicio que corresponda.
+La nulidad de las actas del Registro Civil o la rectificación de las mismas que importe alteración de la filiación, se tramitaran ante la autoridad judicial, con audiencia del Ministerio Público, a través del juicio que corresponda.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -1653,7 +1657,7 @@ III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subs
 
 IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho en favor de los hijos.
 
-Si no los tiene no podrán hacer los donantes reclamación alguna con motivo de la liberalidad;
+Si no los tiene no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
 V.- Si los dos cónyuges procedieron de buena fe, podrá el consorte donante revocar la donación, pero no tendrá derecho a los productos de los bienes donados.
 
@@ -1795,9 +1799,13 @@ XVIII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
 XIX.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+XX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XXI.- Las conductas de violencia familiar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -9373,17 +9381,21 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 1708.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad debe manifestarse expresamente.
 
 ###### Art. 1709.
 
 Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 1710.
 
-Cuando la oferta se haga a una persona presente sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono, medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ###### Art. 1711.
 
@@ -9405,9 +9417,13 @@ Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el acept
 
 El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Art. 1716.
 
-La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+La propuesta y aceptación hechas por telégrafo producen efectos si los originales de los respectivos telegramas contienen las firmas de los contratantes.
+
+Tratándose de la propuesta y aceptación hechas por teléfono, telégrafo o a través de medios electrónicos, ópticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzcan efectos.
 
 Vicios del consentimiento.
 
@@ -9491,7 +9507,7 @@ No se considerará imposible el hecho de que no pueda ejecutarse por el obligado
 
 ###### Art. 1735.
 
-El objeto del contrato es ilícito, si consiste en cosa que esté fuera del convenio en virtud de alguna disposición legal o en hecho contrario a las leyes o a las buenas costumbres, ción legal, o en hecho contrario a las leyes o a las buenas costumbre. (sic)
+El objeto del contrato es ilícito, si consiste en cosa que esté fuera del convenio en virtud de alguna disposición legal o en hecho contrario a las leyes o a las buenas costumbres, ción legal, o en hecho contrario a las leyes o a las buenas costumbres. (sic)
 
 Forma.
 
@@ -9508,6 +9524,12 @@ Cuando la ley exija determinada forma para un contrato, mientras que éste no re
 Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Art. 1738 bis.- Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de dichos medios sea atribuible a las personas obligadas y accesibles para su ulterior consulta.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
 
 División de los contratos.
 
@@ -15974,6 +15996,22 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 Tercero.- Las disposiciones de este decreto son aplicables a los juicios de divorcio y de nulidad de matrimonio que se encuentren en trámite a la fecha en que cobre vigencia.
 
 Cuarto.- Todas las solicitudes de dispensa que se encuentren en trámite ante el Gobernador del Estado a la entrada en vigor del presente decreto, se remitirán al H. Tribunal Superior de Justicia del Estado para que éste a su vez las turne al Juzgado Familiar que corresponda para su continuación y resolución. Las solicitudes de suplencia de consentimiento que también se encuentren en trámite ante dicho Gobernador se tendrán como no interpuestas.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NUMERO 64, POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTICULOS 66 BIS, 1708, 1710, 1716 Y 1738 BIS DEL CODIGO CIVIL DEL ESTADO DE CAMPECHE.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NUMERO 71, POR EL QUE SE MODIFICA EL ARTICULO 287 DEL CODIGO CIVIL DEL ESTADO DE CAMPECHE.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan a lo previsto en el presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
