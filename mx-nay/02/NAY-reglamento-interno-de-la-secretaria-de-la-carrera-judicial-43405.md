@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-de-la-secretaria-de-la-carrera-judicial-4340
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-05"
-last_updated: "2005-01-05"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 5 de enero de 2005.
 
@@ -59,7 +59,9 @@ IV. Ley: a la Ley Orgánica del Poder Judicial del estado.
 
 V. Secretaria: a la Secretaría de la Carrera Judicial.
 
-VI. Instituto: Instituto de Capacitación y Especialización del Poder Judicial.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VI. Escuela: Escuela Judicial.
 
 VII. Secretario: Secretario de la Carrera Judicial.
 
@@ -73,15 +75,19 @@ La Secretaría se integrará por:
 
 I. Titular de la Secretaría.
 
-II. Instituto.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-III. Departamento de Investigaci6n Jurídica y Documental.
+II. La Escuela Judicial.
+
+III. Departamento de Investigación Jurídica y Documental.
 
 IV. Departamento de Computación e Informática.
 
 V. Jefe de Bibliotecas y encargados de las mismas.
 
-VI. Área de Sicología y Trabajo Social.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VI. Área de Psicología y Trabajo Social.
 
 VII. Área de Edición, Estadística y apoyo logístico.
 
@@ -101,39 +107,61 @@ Para ocupar el cargo de Secretario de la Carrera Judicial deberán reunirse, ade
 
 Es facultad del Secretario:
 
-I. Coordinar la selección de servidores judiciales conforme a las necesidades de la administración de justicia.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-II. Proponer al Consejo el programa de estímulos y recompensas para los servidores judiciales que se hayan destacado en el ejercicio de su función.
+I. Coordinar la selección de Servidores Judiciales conforme a las necesidades de la administración de justicia.
 
-III. Vigilar el funcionamiento del Instituto, Departamentos, Áreas y personal adscrito a la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-IV. Dictar las políticas internas para el adecuado funcionamiento de la Secretaría, con base en éste reglamento y los acuerdos dictados por el Consejo.
+II. Proponer al Consejo el Programa de Estímulos y Recompensas para los Servidores Judiciales que se hayan destacado en el ejercicio de su función.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+III. Vigilar el funcionamiento de la Escuela Judicial, departamentos, áreas y personal adscrito a la Secretaría.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV. Dictar las Políticas internas para el adecuado funcionamiento de la Secretaría, con base en este reglamento y los acuerdos dictados por el Consejo.
 
 V. Vigilar la edición, publicación y distribución oportuna del boletín judicial, dando cuenta al Consejo, en caso de incumplimiento por parte del encargado.
 
 VI. Proponer al Consejo la adquisición de bibliografía, para la adecuada actualización y utilidad de las bibliotecas.
 
-VII. Promover la concertación de convenios con instituciones educativas para la preparación, actualización y especialización de los servidores judiciales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII. Promover la concertación de convenios con instituciones educativas para la preparación, actualización y especialización de los Servidores Judiciales.
 
 VIII. Las demás que deriven de la Ley, el presente Reglamento y los acuerdos dictados por el Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Artículo 7°.
 
-Es deber del Secretario, además del cumplimiento de las funciones referidas en el artículo 55 de la ley:
+Es deber del Secretario, además del cumplimiento de las funciones referidas en el artículo 55 de la Ley:
 
-I. Vigilar el cumplimiento de los principios de la carrera judicial de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-II. Programar la celebración de eventos académicos que coadyuven a la actualización, profesionalización y especialización de los servidores judiciales.
+I. Vigilar el cumplimiento de los principios de la Carrera Judicial de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-III. Vigilar que el Instituto cumpla con el programa de cursos, talleres, seminarios y demás actividades académicos programadas (sic).
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-IV. Celebrar concursos de oposición, para el ingreso, promoción y ascenso de los servidores judiciales, de los cargos de la carrera judicial.
+II. Programar la celebración de eventos académicos que coadyuven a la actualización, profesionalización y especialización de los Servidores Judiciales.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+III. Vigilar que la Escuela Judicial cumpla con el programa de cursos, talleres, seminarios y demás actividades académicas programadas.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV. Celebrar concursos de oposición, para el ingreso, promoción y ascenso de los Servidores Judiciales, de los cargos de la carrera judicial.
 
 V. Coordinar la edición y distribución de la Revista Jurídica.
 
 VI. Coordinar el registro estadístico e informático del Poder Judicial, y proponer en su caso, proyectos de planeación, organización, ejecución de programas del Poder Judicial, que faciliten al Consejo la toma de decisiones en el ámbito de su competencia.
 
-VII. Presentar el proyecto anualmente al Consejo, del Programa Operativo Anual de la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII. Presentar el Proyecto Anualmente al Consejo, del Programa Operativo Anual de la Secretaría.
 
 VIII. Dar cuenta al Consejo de las faltas cometidas por el personal a su cargo, para los efectos administrativos conducentes.
 
@@ -141,45 +169,97 @@ IX. Vigilar la disciplina del personal adscrito a la Secretaría.
 
 X. Informar al Consejo mensualmente de las actividades desarrolladas por la Secretaría.
 
-XI. Vigilar el cumplimiento del programa operativo anual aprobado por el Consejo, de cada una de las áreas, departamentos e instituto dependientes de la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XI. Vigilar el cumplimiento del programa operativo anual aprobado por el Consejo, de cada una de las áreas y departamentos dependientes de la Secretaría.
 
 XII. Las demás que deriven de la Ley, el Reglamento, el Consejo u ordenes del Presidente del Consejo.
 
-### CAPÍTULO III. DEL INSTITUTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2007)</small>
+
+### CAPITULO III. DE LA ESCUELA JUDICIAL
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 8°.
 
-El Instituto, es el órgano dependiente de la Secretaría de la Carrera Judicial, cuyo objeto será promover la investigación, formación, capacitación, especialización y actualización de los servidores judiciales y los aspirantes a serlo, y se regirá por lo dispuesto en su Reglamento.
+La Escuela Judicial, es un órgano técnico adscrito a la Secretaría de la Carrera Judicial, que se encarga de realizar las acciones necesarias para la formación, capacitación, especialización y actualización del personal que labora y aspira a laborar en el Poder Judicial del Estado de Nayarit.
 
-### CAPÍTULO IV. DEL DEPARTAMENTO DE INVESTIGACIÓN JURÍDICA DOCUMENTAL
+Las actividades que realiza la Escuela Judicial son con la finalidad de mejorar la calidad y el servicio en el desempeño de las funciones de los servidores públicos que laboran en el Poder Judicial, basados en los valores y principios de excelencia, objetividad, imparcialidad, profesionalismo e Independencia, tendientes a fortalecer la Carrera Judicial.
+
+Con la finalidad de lograr lo descrito con anterioridad, la Escuela Judicial realizará en su fase operativa, los procedimientos de formación y evaluación de quienes aspiran a ingresar al Poder Judicial, así como de quienes aspiran a un ascenso, y elaborar los planes de estudio tendientes a fortalecer el perfil de quienes laboran en el Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 8 bis. La Escuela Judicial se integrará por:
+
+a. Un Director;
+
+b. Un Subdirector Académico;
+
+c. Un Subdirector Administrativo;
+
+d. Un Jefe de Informática;
+
+e. Un Jefe del Archivo Escolar;
+
+f. Un Comité Técnico Auxiliar; y
+
+g. El demás personal que se requiere a juicio del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 8 ter. El Director y los subdirectores deberán reunir los mismos requisitos que para ser Juez se requiere, además deberán acreditar su competitividad en el ámbito académico, jurisdiccional o administrativo, con el fin de garantizar el funcionamiento adecuado de la Escuela Judicial.
+
+La duración de los cargos de Director o subdirectores estará sujeta al tiempo que para tal efecto designe el Consejo de la Judicatura.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2007)</small>
+
+### CAPITULO IV. DEL DEPARTAMENTO DE INVESTIGACIÓN JURÍDICA Y DOCUMENTAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 9°.
 
-El Departamento de Investigación Jurídica y Documental, tendrá por objeto realizar investigación en el campo jurídico que coadyuve al desarrollo de las actividades que realizan los órganos jurisdiccionales.
+El Departamento de Investigación Jurídica y Documental, tendrá por objeto realizar investigación en el campo jurídico que coadyuve al desarrollo de las actividades que realizar (sic) los órganos jurisdiccionales.
 
-Estará a cargo de un jefe de departamento que deberá reunir los mismos requisitos para ser Director del Instituto; y ejercerá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+
+Estará a cargo de un jefe de departamento que deberá reunir los mismos requisitos que un Juez; y ejercerá las siguientes atribuciones:
 
 I. Elaborar su programa anual de trabajo, a fin de ser sometido a su aprobación ante el Secretario de la Carrera Judicial.
 
-II. Programar y organizar el desarrollo de las actividades de investigación jurídica, requeridos por La Secretaría.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II. Programar y organizar el desarrollo de las actividades de investigación jurídica, requeridos por la Secretaría.
 
 III. Difundir entre el personal las normas, los lineamientos y política judicial vigente en el Tribunal Superior de Justicia.
 
-IV. Coadyuvar con Secretaría de la Carrera judicial para la revisión de planes de estudio y formulación de programas.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV. Coadyuvar con la Secretaría de la Carrera judicial para la revisión de planes de estudio y formulación de programas.
 
 V. Informar al Secretario de la Carrera Judicial del resultado de los avances logrados en el cumplimiento de las metas comprometidas dentro de su programa operativo anual.
 
-VI. Compilar las disposiciones jurídicas publicadas en el Diario Oficial de la Federación y en Periódico Oficial Órgano del Gobierno del estado.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-VII. Formular estudios y preparar casos prácticos que sirvan como material de apoyo didáctico a los diversos cursos que se que se impartan por la Carrera Judicial del Poder judicial del Estado.
+VI. Compilar las disposiciones jurídicas publicadas en el Diario Oficial de la Federación y en el Periódico Oficial Órgano del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII. Formular estudios y preparar casos prácticos que sirvan como material de apoyo didáctico a los diversos cursos que se que se impartan por la Carrera Judicial del Poder Judicial del Estado.
 
 VIII. Compilar y clasificar notas periodísticas sobre diversos temas jurídicos que se consideran de interés para el estudioso del derecho.
 
-IX. Coadyuvar con Secretaría de la Carrera judicial para la revisión de planes de estudio y formulación de programas.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IX. Coadyuvar con la Secretaría de la Carrera Judicial para la revisión de planes de estudio y formulación de programas.
 
 X. Proporcionar al personal del Poder Judicial del Estado, la información jurídica, tanto estatal como nacional, mediante la investigación y divulgación de los avances doctrinales, legislativos, jurisprudenciales, tecnológicos y científicos en materia de administración e impartición de justicia.
 
-XI. Realizar las demás funciones que las disposiciones legales le confieran, así como las comisiones que le sean encomendadas por su Jefe Inmediato Superior.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XI. Realizar las demás funciones que las disposiciones legales le confieran, así como las comisiones que le sean encomendadas por su jefe inmediato superior.
 
 ### CAPÍTULO V. DEL DEPARTAMENTO DE COMPUTACIÓN E INFORMÁTICA
 
@@ -542,3 +622,11 @@ Artículo Tercero: El presente reglamento entrará en vigor al día siguiente de
 Dado en la Sala de Plenos del Tribunal Superior de Justicia del Poder Judicial del Estado y aprobado por unanimidad de votos por el Consejo de la Judicatura en la Décima Segunda Sesión Ordinaria celebrada el día 15 de diciembre de 2004.
 
 MAG. LIC. JAVIER GERMÁN RODRIGUEZ JIMÉNEZ, Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.- LIC. MARIA CATALINA MEDINA ROSALES, Secretario de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Primero.- Publíquese el presente acuerdo eh el Periódico Oficial Órgano del Gobierno del Estado, Boletín Judicial y en la página web del Poder Judicial del Estado.
+
+Artículo Segundo.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
