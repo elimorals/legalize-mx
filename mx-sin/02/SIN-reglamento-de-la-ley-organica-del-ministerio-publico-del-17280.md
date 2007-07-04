@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-ministerio-publico-del-17280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-09"
-last_updated: "2000-08-09"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 9 de agosto de 2000.
 
@@ -1721,77 +1721,139 @@ Los Agentes del Ministerio Público adscritos a Juzgados y Salas del Poder Judic
 
 El régimen de profesionalización de los servidores públicos de la Procuraduría General de Justicia, se establecerá en el Estatuto previsto por la Ley Orgánica del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### Artículo 81.
 
 Para ingresar y permanecer como Agente del Ministerio Público, Perito o Agente de Policía Ministerial, se requiere, además de los requisitos fijados en los ordenamientos legales aplicables, los siguientes:
 
-I. Para ingresar y permanecer como Agente del Ministerio Público, se requiere:
+I.- Para ingresar como Agente del Ministerio Público, se requiere:
 
 a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 b) Tener más de veinticinco años;
 
-c) Tener titulo de Licenciado en Derecho expedido y registrado legalmente;
+c) Tener título de Licenciado en Derecho expedido y registrado legalmente;
 
-d) Aprobar satisfactoriamente los requisitos de ingreso y, en su caso, los cursos de formación, capacitación y actualización y los exámenes de evaluación aplicables según la ley;
+d) Asistir, presentar y aprobar los cursos y exámenes de formación, capacitación y las prácticas de la función, determinados por la dependencia o en cualquier otro ordenamiento legal aplicable;
 
-e) Ser de buena conducta, solvencia moral, ética, honradez y probidad notorias;
+e) Asistir, presentar y aprobar los diagnósticos y evaluaciones que deberán practicarse por la dependencia y que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, poligráficos, socio-económicos y de situación patrimonial, determinados por la dependencia o fijados en cualquier otro ordenamiento legal aplicable;
 
-f) No haber sido condenado por delito doloso;
+f) Ser de buena conducta, solvencia moral, ética, honradez y probidad notorias;
 
-g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+g) No estar sujeto a proceso penal ni haber sido condenado por delito doloso o culposo grave;
 
-h) En su caso, tener acreditado el Servicio Militar Nacional;
+h) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
 
-i) No incurrir en reincidencia de actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+i) En su caso, tener acreditado el Servicio Militar Nacional;
 
-j) Los demás requisitos que establezcan otras disposiciones aplicables.
+j) No haber sido sancionado con amonestación, suspensión, inhabilitación, removido o destituido en los términos de las normas aplicables; y,
 
-Para ingresar y permanecer como Perito, se requiere:
+k) Cumplir todos y cada uno de los demás requisitos que establezca cualquier otro ordenamiento legal aplicable.
+
+II.- Para permanecer como Agente del Ministerio Publico, se requiere:
+
+a) Presentar, seguir y aprobar los diagnósticos, procesos y evaluaciones de control de confianza y evaluación del desempeño, permanentes, periódicos y obligatorios que deberán practicarse; que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, socio-económicos, desarrollo profesional y situación patrimonial; determinados por la dependencia o previstos en cualquier otro ordenamiento legal aplicable;
+
+b) Presentar, seguir y aprobar las evaluaciones o los exámenes de oposición, promoción, readscripción o de mérito a que sean convocados;
+
+c) Presentar, seguir y aprobar en su caso, los cursos y exámenes de capacitación, actualización o especialización y profesionalización que sean determinados por la dependencia;
+
+d) No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días;
+
+e) No ser sujeto a proceso penal ni ser condenado por delito doloso o culposo grave;
+
+f) No ser sancionado con amonestación, suspensión, sanción económica, inhabilitación, destitución o remoción;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo; y,
+
+h) Cumplir en cualquier momento, todos y cada uno de los requisitos de ingreso y permanencia antes relacionados y los que establezca cualquier otro ordenamiento legal aplicable.
+
+III.- Para ingresar como Perito, se requiere:
 
 a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 b) Tener más de veinticinco años;
 
-c) Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate; o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba determinar;
+c) Tener titulo legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate; o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que se deba determinar;
 
-d) Acreditar el cumplimiento satisfactorio de los requisitos de ingreso y, en su caso, los cursos de formación, actualización y capacitación, aprobando los exámenes y evaluaciones aplicables;
+d) Asistir, presentar y aprobar los cursos y exámenes de formación, capacitación y las prácticas de la función, determinados por la dependencia o previstos en cualquier otro ordenamiento legal aplicable;
 
-e) Ser de buena conducta, solvencia moral y ética, honradez y probidad notorias;
+e) Asistir, presentar y aprobar los diagnósticos y evaluaciones que deberán practicarse por la dependencia y que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, poligráficos, socio-económicos y de situación patrimonial, determinados por la dependencia o fijados en cualquier otro ordenamiento legal aplicable;
 
-f) No haber sido condenado por delito doloso;
+f) Ser de buena conducta, solvencia moral, ética, honradez y probidad notorias;
 
-g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+g) No estar sujeto a proceso penal ni haber sido condenado por delito doloso o culposo grave;
 
-h) En su caso, tener acreditado el Servicio Militar Nacional;
+h) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
 
-i) No incurrir en reincidencia de actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+i) En su caso, tener acreditado el Servicio Militar Nacional;
 
-j) Los demás requisitos que establezcan otras disposiciones aplicables.
+j) No haber sido sancionado con amonestación, suspensión, inhabilitación, removido o destituido en los términos de las normas aplicables; y,
 
-III. Para ingresar y permanecer como Agente de la Policía Ministerial, se requiere:
+k) Cumplir todos y cada uno de los demás requisitos que establezca cualquier otro ordenamiento legal aplicable.
+
+IV. Para permanecer como Perito, se requiere:
+
+a) Presentar, seguir y aprobar los diagnósticos, procesos y evaluaciones de control de confianza y evaluación del desempeño, permanentes, periódicos y obligatorios que deberán practicarse que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, socio-económicos, desarrollo profesional y situación patrimonial; determinados por la dependencia o previstos en cualquier otro ordenamiento legal aplicable;
+
+b) Presentar, seguir y aprobar las evaluaciones o los exámenes de oposición, promoción, readscripción o de mérito a que sean convocados;
+
+c) Presentar, seguir y aprobar en su caso, los cursos y exámenes de capacitación, actualización o especialización y profesionalización que sean determinados por la dependencia;
+
+d) No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días;
+
+e) No ser sujeto a proceso penal ni ser condenado por delito doloso o culposo grave;
+
+f) No ser sancionado con amonestación, suspensión, sanción económica, inhabilitación, destitución o remoción;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo; y,
+
+h) Cumplir en cualquier momento, todos y cada uno de los requisitos de ingreso y permanencia antes relacionados y los que establezca cualquier otro ordenamiento legal aplicable.
+
+V. Para ingresar como Agente de la Policía Ministerial, se requiere:
 
 a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-b) Contar con la edad y el perfil físico, médico, ético, moral, social y de personalidad que se establezcan como necesarios para realizar la actividad policial;
+b) Contar con la edad, los requisitos y los perfiles físico, médico, ético, moral, social y de personalidad que establezca la dependencia como necesarios para realizar la actividad policial, o estén fijados por cualquier otro ordenamiento legal aplicable;
 
 c) Acreditar haber concluido por lo menos los estudios de enseñanza preparatoria o su equivalente;
 
-d) Acreditar el cumplimiento satisfactorio de los requisitos de ingreso y, en su caso los cursos de formación, adiestramiento, actualización y capacitación, aprobando los exámenes y evaluaciones aplicables;
+d) Asistir, presentar y aprobar los cursos y exámenes de formación, capacitación y las prácticas de la función, determinados por la dependencia o previstos por cualquier otro ordenamiento legal aplicable;
 
-e) Ser de buena conducta, honradez y probidad notorias;
+e) Asistir, presentar y aprobar los diagnósticos y evaluaciones que deberán practicarse por la dependencia y que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, poligráficos, socio-económicos y de situación patrimonial, determinados por la dependencia o fijados por cualquier otro ordenamiento legal aplicable;
 
-f) No haber sido condenado por delito doloso o culposo calificado como grave por la ley, ni ser sujeto a proceso penal;
+f) Ser de buena conducta, solvencia moral, ética, honradez y probidad notorias;
 
-g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
+g) No estar sujeto a proceso penal ni haber sido condenado por delito doloso o culposo grave;
 
-h) En su caso, tener acreditado el Servicio Militar Nacional;
+h) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo;
 
-i) No incurrir en reincidencia por actos, por los cuales se le haya sancionado con amonestación, suspensión o inhabilitación en los términos de las normas aplicables; y,
+i) En su caso, tener acreditado el Servicio Militar Nacional;
 
-j) Los demás requisitos que establezcan otras disposiciones aplicables.
+j) No haber sido sancionado con amonestación, suspensión, inhabilitación, removido o destituido en los términos de las normas aplicables; y,
 
-Los requisitos enumerados en este artículo deberán reunirse en todo tiempo, de manera que quienes estando en activo dejaren de reunirlos, se les dará un plazo razonable para que los reúnan, con el fin de garantizar homogeneidad en el personal de la institución y eficiencia en el servicio a la población. De no cumplirlos en dicho plazo, los servidores públicos de que se trate serán removidos de sus cargos.
+k) Cumplir todos y cada uno de los demás requisitos que establezca cualquier otro ordenamiento legal aplicable.
+
+VI. Para permanecer como Agente de la Policía Ministerial, se requiere:
+
+a) Presentar, seguir y aprobar los diagnósticos, procesos y evaluaciones de control de confianza y evaluación del desempeño, permanentes, periódicos y obligatorios que deberán practicarse que incluyen exámenes toxicológicos, médicos, físicos, psicométricos, psicológicos; psiquiátricos, socio-económicos, desarrollo profesional y situación patrimonial; determinados por la dependencia o previstos en cualquier otro ordenamiento legal aplicable;
+
+b) Presentar, seguir y aprobar las evaluaciones o los exámenes de oposición, promoción, readscripción o de mérito a que sean convocados;
+
+c) Presentar, seguir y aprobar en su caso, los cursos y exámenes de capacitación, actualización o especialización y profesionalización que sean determinados por la dependencia;
+
+d) No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días;
+
+e) No ser sujeto a proceso penal ni ser condenado por delito doloso o culposo grave;
+
+f) No ser sancionado con amonestación, suspensión, sanción económica, inhabilitación, destitución o remoción;
+
+g) No hacer uso de sustancias psicotrópicas, estupefacientes u otras similares, ni padecer alcoholismo; y,
+
+h) Cumplir en cualquier momento, todos y cada uno de los requisitos de ingreso y permanencia antes relacionados y los que establezca cualquier otro ordenamiento legal aplicable.
+
+Los requisitos enumerados en este artículo deberán satisfacerse en todo tiempo, de manera que quienes estando en activo dejaren de reunir o cumplir alguno, serán removidos de sus cargos.
 
 ###### Artículo 82.
 
@@ -1848,3 +1910,9 @@ Gonzalo M. Armienta Calderón
 El Procurador General de Justicia
 
 Gilberto Higuera Bernal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
