@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-las-caracteristicas-uso-y-difusion-del-10626"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-10"
-last_updated: "1996-07-10"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LAS CARACTERISTICAS, USO Y DIFUSION DEL ESCUDO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de julio de 1996.
 
@@ -67,9 +67,13 @@ Como timbre, un yelmo de plata bruñida, terciado y con rejillas.
 
 Toda reproducción del Escudo del Estado deberá corresponder fielmente al modelo a que se refiere el artículo anterior, en consecuencia, no podrán suprimirse figuras ni añadirse elementos que rompan la estética y armonía que tradicionalmente ha guardado el emblema oficial.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 4.
 
-El Escudo del Estado sólo podrá figurar en vehículos, medallas oficiales, sellos, papel oficial, y similares, expedidos o utilizados por cualquiera de los Poderes del Estado, o por los Ayuntamientos integrantes del mismo; por lo tanto queda prohibido el uso o difusión del Escudo por personas físicas o morales privadas, o por entidades públicas diferentes a las mencionadas con antelación.
+El escudo del Estado podrá figurar en oficinas, vehículos, medallas, papelería oficial y similares, utilizados o expedidos por cualquiera de los Poderes del Estado, o por los Ayuntamientos integrantes del mismo y los organismos autónomos; pero queda prohibido utilizarlo en documentos particulares.
+
+Podrá figurar también en la indumentaria, pendones o distintivos de organizaciones deportivas, instituciones educativas y culturales del Estado de Nuevo León y podrá ser utilizado por ciudadanos nuevoleoneses que representen a la entidad en justas deportivas, educativas y culturales; quienes tendrán la obligación de portarlo con respeto y honor.
 
 ###### ARTICULO 5.
 
@@ -134,3 +138,9 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
