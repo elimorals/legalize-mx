@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-derechos-cultura-y-organizacion-de-los-pueblos-y-16660"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2000-06-15"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DERECHOS, CULTURA Y ORGANIZACION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de junio de 2000.
 
@@ -235,11 +235,37 @@ Para la elaboración de los planes y programas de desarrollo de las comunidades 
 
 Toda promoción que presenten los indígenas ante las autoridades estatales o municipales, podrá ser redactada en su propia lengua. Las autoridades tienen la obligación de recibirla, proveyendo en términos de ley, la intervención de un traductor para darle respuesta en su propio idioma.
 
-### CAPÍTULO I. AUTONOMÍA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+
+### CAPÍTULO VII. DE LOS RECURSOS NATURALES
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis.- El gobierno del Estado, en coordinación con las dependencias federales competentes, garantizará el aprovechamiento sustentable de los recursos naturales de las comunidades indígenas. Para ese efecto, impulsará la constitución de fondos o fideicomisos regionales cuyo objetivo sea otorgar financiamiento y asesoría técnica a las comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis-1.- El gobierno del Estado, en coordinación con las dependencias de la administración pública federal y municipal, en los términos de los convenios que se celebren, y con la participación de los pueblos y comunidades indígenas, vigilará que estos programas sean ecológicamente sustentables, técnicamente apropiados y jurídicamente compatibles con la libre determinación de los pueblos y comunidades indígenas, para impulsar y garantizar la preservación y usufructo de sus recursos naturales.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis-2.- Los pueblos y comunidades indígenas del Estado, tienen atribución para implementar acciones de vigilancia dirigidas a la conservación y protección de sus recursos naturales, flora y fauna silvestre, dentro de sus comunidades y de aplicar sanciones conforme a sus sistemas normativos internos, complementariamente a las que señalen las leyes vigentes. Por lo que el Estado reconocerá, apoyará y validará su observancia.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis-3.- Previa a la realización de obras y proyectos del Estado o de los Municipios que pudieran afectar a los recursos naturales de las comunidades indígenas, deberán ser escuchadas las autoridades comunales o tradicionales respectivas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis-4.- Cuando se suscite controversia entre dos o más comunidades indígenas o entre los integrantes de éstas, por la explotación de recursos naturales, el Estado procurará y promoverá, a través del diálogo y la concertación, que dichos conflictos se resuelvan por la vía de la conciliación, con la participación de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 38 bis-5.- El Estado y los Municipios procurarán evitar el establecimiento, en las tierras ocupadas por comunidades indígenas, de cualquier tipo de industria que emita desechos tóxicos o desarrolle actividades que puedan contaminar o deteriorar el medio ambiente.
 
 ## TÍTULO TERCERO. AUTONOMÍA Y ORGANIZACIÓN INTERNA
 
-### CAPÍTULO II. CENTROS CEREMONIALES
+### CAPÍTULO I. AUTONOMÍA
 
 ###### Artículo 39.
 
@@ -249,7 +275,7 @@ El Estado de Campeche, tiene una composición sustentada originalmente en la etn
 
 El Estado y los Municipios, en el ámbito de sus respectivas competencias, respetarán y fomentarán la autonomía de las diversas comunidades indígenas de la entidad, adoptando las medidas que sean necesarias para asegurar su cumplimiento.
 
-### CAPÍTULO III. DIGNATARIOS INDÍGENAS
+### CAPÍTULO II. CENTROS CEREMONIALES
 
 ###### Artículo 41.
 
@@ -271,7 +297,7 @@ IV.- Todos aquellos otros que reconozca el Gran Consejo Maya.
 
 Por ser de interés público la preservación de las tradiciones y costumbres de las etnias indígenas, en los eventos que las mismas realicen en sus centros ceremoniales toda persona, ajena a esas etnias tiene el deber y la obligación de guardarles absoluto respeto.
 
-### CAPÍTULO IV. GRAN CONSEJO MAYA
+### CAPÍTULO III. DIGNATARIOS INDÍGENAS
 
 ###### Artículo 44.
 
@@ -281,7 +307,7 @@ Cada una de las comunidades indígenas de la entidad elegirá y removerá, en su
 
 Los derechos y obligaciones de los dignatarios serán los que les impongan los usos, costumbres y tradiciones propios de la etnia indígena a la que pertenezca su comunidad. El Estado y los Municipios proveeran a la comunidad de los recursos necesarios para el desempeño de las funciones de sus dignatarios.
 
-### CAPÍTULO V. CONGRESO MAYA
+### CAPÍTULO IV. GRAN CONSEJO MAYA
 
 ###### Artículo 46.
 
@@ -307,7 +333,7 @@ En el ejercicio de los derechos que ésta y otras leyes brinden a los pueblos y 
 
 Las controversias que surjan entre comunidades indígenas mayas serán resueltas, mediante la conciliación, por el Gran Consejo Maya, tomando en consideración los usos, costumbres y tradiciones propias de esa etnia.
 
-### CAPÍTULO I. SISTEMAS NORMATIVOS INTERNOS
+### CAPÍTULO V. CONGRESO MAYA
 
 ###### Artículo 52.
 
@@ -327,7 +353,7 @@ Al Congreso Maya deberán asistir y participar, con voz y voto, los dignatarios 
 
 ## TÍTULO CUARTO. JUSTICIA
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
+### CAPÍTULO I. SISTEMAS NORMATIVOS INTERNOS
 
 ###### Artículo 55.
 
@@ -350,6 +376,8 @@ Para garantizar el efectivo acceso de los pueblos y comunidades indígenas al ej
 ###### Artículo 59.
 
 Para que los pueblos y comunidades indígenas tengan un más amplio acceso a la jurisdicción del Estado en los procesos civiles, penales y administrativos, o en cualquier procedimiento que se desarrolle en forma de juicio, que sea competencia de las autoridades del Estado y en el que intervenga un miembro de algún pueblo indígena que ignore el español, dicha persona contará con un traductor bilingüe ya sea oficial o particular. Los jueces, procuradores y demás autoridades administrativas que conozcan del asunto, bajo su responsabilidad, se asegurarán del cumplimiento de esta disposición. En todas las etapas procesales y al dictar resolución, los jueces, procuradores y demás autoridades administrativas que conozcan del asunto, deberán tomar en consideración la condición, prácticas, tradiciones y costumbres del o de los miembros de los pueblos y comunidades indígenas. Siempre se procurará que, en todas aquellas poblaciones en donde tenga su asiento una comunidad indígena, tanto el personal de las Agencias del Ministerio Público, como de los Juzgados y de la Defensoría Pública esté debidamente capacitado para entender y hablar la lengua de la correspondiente etnia.
+
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
 ###### Artículo 60.
 
@@ -396,3 +424,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 13 de junio del 20
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los catorce días del mes de junio del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LA. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
