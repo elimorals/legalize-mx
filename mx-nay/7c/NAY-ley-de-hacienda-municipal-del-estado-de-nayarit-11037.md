@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2005-03-23"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -259,7 +259,7 @@ En los casos de construcciones destinadas especialmente a cementerios con el sis
 
 4. A partir de la fecha en que queden vendidas todas las gavetas dejará de causarse el impuesto predial respecto de la tierra y construcciones que pasen en propiedad del Municipio según las concesiones respectivas.
 
-5.Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no haya transcurrido los tres años a que se refiere el artículo 21 de esta ley.
+5. Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no haya transcurrido los tres años a que se refiere el artículo 21 de esta ley.
 
 #### SECCION CUARTA. DEL VALOR CATASTRAL
 
@@ -459,9 +459,7 @@ Los recibos de pago que expida la Tesorería Municipal, tratándose de impuesto 
 
 Están obligadas al pago del Impuesto sobre adquisición de Inmuebles establecido en este Capítulo, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Nayarit; así como los derechos relacionados con los mismos, a que este Capítulo se refiere. "El impuesto se causará aplicando la tasa del 2% al valor del inmueble y conforme lo establezcan las leyes de Ingresos de los Municipios".
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
-
-El valor del inmueble podrá ser el valor de adquisición del mismo, disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 > <small>(REFORMADO, P. O. 29 DE JUNIO DE 1991)</small>
 
@@ -505,19 +503,23 @@ XI. El arrendamiento financiero, en los términos del Código Fiscal de la Feder
 
 En las permutas se considerarán que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, P.O. 4 DE JULIO DE 2007) (F. DE E., P.O. 14 DE JULIO DE 2007)
 
 ###### ARTICULO 43.
 
-El valor del inmueble que se considerará para los efectos del Artículo 4o. será el que resulte más alto entre el valor de operación o precio pactado, el avalúo bancario, o el avalúo que formule la autoridad catastral en caso necesario.
+El valor del inmueble que se considerará para los efectos del artículo 40 será el que resulte más alto entre el valor de operación o precio pactado, el de avalúo comercial o el de avalúo que formule la misma autoridad catastral.
 
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere el párrafo anterior.
+Los avalúos comerciales que se practiquen para efectos del cálculo de este impuesto deberán llevarse a cabo por instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública registradas ante el Ayuntamiento y tendrán vigencia durante tres meses, contados a partir de la fecha en que se efectúen. En todo caso, los avalúos serán validados por la autoridad catastral competente.
 
-Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50 por ciento del valor de la propiedad.
+En el caso de adquisición de inmuebles por donación o sucesión entre cónyuges o parientes en línea recta ascendente o descendente, o constitución, adquisición o extinción del usufructo o de la nuda propiedad; la base gravable determinada de conformidad a lo dispuesto por el primer párrafo de este artículo se reducirá en un 50%.
+
+Tratándose de viviendas de interés social o popular, la base para el cálculo del impuesto se determinará de conformidad a lo dispuesto por esta ley y lo que en particular dispongan las leyes de ingresos municipales. Se considera vivienda de interés social y popular, aquella cuyo valor de compraventa no exceda de la cantidad que resulte de multiplicar por diecisiete el salario mínimo general anual vigente en el estado en la fecha de la operación y que sea adquirida por personas físicas que acrediten no ser propietarias de otra vivienda en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 44.
 
-El pago del impuesto deberá hacerse dentro del mes siguiente a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del impuesto deberá hacerse dentro del mes siguiente a aquel en que se actualice cualquiera de los supuestos que a continuación se señalan y su entero deberá ocurrir en las oficinas que para tal efecto constituya el ayuntamiento.
 
 I. Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
@@ -531,7 +533,9 @@ V. En los contratos de compra - venta con reserva de dominio y de arrendamiento 
 
 VI. En la promesa de adquirir se presumirá celebrada el contrato prometido cuando venza el plazo fijado en el contrato respectivo, y en ese momento será exigible el impuesto correspondiente, salvo que se pruebe con instrumento público, que el futuro adquirente cedió sus derechos.
 
-VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en (sic) registro público para poder surtir efectos ante terceros en los términos del derecho civil; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
 ###### ARTICULO 45.
 
@@ -812,3 +816,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 4 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
