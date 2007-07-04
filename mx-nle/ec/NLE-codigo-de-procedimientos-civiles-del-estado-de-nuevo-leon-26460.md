@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2007-06-22"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1515,29 +1515,33 @@ No acreditándose haber intentado la demanda o acusación dentro del término se
 
 Si el juez que decretó la separación provisional no fuera el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuera competente, quien las confirmará o proveerá lo conducente.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
 ###### Artículo 180 Bis.
 
-Lo dispuesto por los artículos que preceden se aplicará igualmente a las personas que vivan juntas y hayan procreado hijos que sean menores de edad o mayores incapacitados.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPITULO II BIS
 
-DE LA SEPARACIÓN CAUTELAR DE PERSONAS Y DEL DEPOSITO DE MENORES.
+DE LA SEPARACION CAUTELAR DE PERSONAS.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 Artículo 180 Bis I.- Toda persona que vaya a promover demanda por conductas que constituyan violencia familiar, puede pedir al Juez la separación cautelar del agredido y el presunto agresor a quien demandará.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
-Artículo 180 Bis II.- La separación cautelar de personas y el depósito de menores, tiene por objeto tutelar la seguridad de las personas sujetas a violencia familiar. Toda separación cautelar decretada con fundamento en este Capítulo, tendrá un carácter prejudicial y provisional, en los siguientes términos:
+Artículo 180 Bis II.- La separación cautelar de personas, tiene por objeto tutelar la seguridad de las personas sujetas a violencia familiar. Toda separación cautelar decretada con fundamento en este Capítulo, tendrá un carácter prejudicial y provisional, en los siguientes términos:
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
 I.- Será autorizada para tutelar la seguridad de las personas receptoras de violencia familiar, en tanto preparan y presentan las acciones legales que correspondan en contra de su agresor;
 
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
+
 II.- Se autorizará por un período que no excederá de 30 días, plazo dentro del cual se deberá acreditar al juez que autorizó la separación, el haber presentado demanda, denuncia o querella en contra del agresor. Los efectos de la separación autorizada cesarán si al vencimiento del referido plazo no se hubiere acreditado la realización de cualquiera de las acciones legales citadas;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DEL 2000)</small>
 
 III.- En todo caso, el juez remitirá el expediente de la separación cautelar al juez ante el que se hubiere demandado. El juez que conozca del juicio principal, resolverá la continuación o terminación de la separación cautelar.
 
@@ -1569,27 +1573,27 @@ Artículo 180 Bis V.- Presentada la solicitud de separación cautelar, el juez, 
 
 Artículo 180 Bis VI.- Toda persona que ejerza la patria potestad, la tutela o tenga la custodia, de un menor u otro incapaz sujeto a violencia familiar de parte de la otra persona que también ejerce sobre éste la patria potestad, la tutela o custodia, podrá solicitar que el menor o incapaz sea separado del presunto agresor y depositado bajo el cuidado del solicitante, en el mismo domicilio en el que éste habitará y que será diverso al del presunto agresor. Con la solicitud de separación del menor deberá presentarse dictamen técnico, que respalde la separación solicitada. Presentada la solicitud de separación cautelar, acompañada del dictamen técnico, el juez, sin más trámite, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Artículo 180 Bis VII.- Los menores u otros incapaces que sean sujetos de violencia familiar por quienes ejercen sobre ellos la patria potestad, tutela o los tengan bajo su custodia, o por una sola de tales personas pero con la tolerancia de la otra, podrán ser separados cautelarmente de sus agresores y depositados en el domicilio de un familiar o en una institución idónea, por resolución que dicte el juez.
+Artículo 180 Bis VII.- Los menores u otros incapaces que sean sujetos de violencia familiar por quienes ejercen sobre ellos la patria potestad, tutela o los tengan bajo su custodia, o por una sola de tales personas pero con la tolerancia de la otra, podrán ser separados cautelarmente de sus agresores y confiados en el domicilio de un familiar o en una institución idónea, por resolución que dicte el Juez.
 
-Esta medida cautelar podrá ser solicitada al juez, indistintamente, por institución pública dedicada a la atención de asuntos relacionados con la violencia familiar, o por el Ministerio Público. En la solicitud de separación, que deberá ser motivada, se precisará el nombre y domicilio del familiar o de la institución pública que acepta constituirse en depositario del menor o incapaz, así como las demás condiciones que se piden sean decretadas para la separación cautelar y salvaguarda de la integridad y derechos del menor o incapaz.
+Esta medida cautelar podrá ser solicitada al Juez, indistintamente, por Institución Pública dedicada a la atención de asuntos relacionados con la violencia familiar, o por el Ministerio Público o del representante de la Institución Pública promovente. Así mismo deberá citarse al familiar o al representante de la Institución Pública que haya aceptado que se le confíe al menor o incapaz, y a quien el Juez preguntará en privado si ratifica o no dicha disposición.
 
-Una vez radicada la solicitud, el juez se trasladará al domicilio del menor o incapaz, previa citación de quienes ejercen sobre éste la patria potestad, tutela o custodia, así como del Ministerio Público o del representante de la institución pública promovente. Asimismo deberá citarse al familiar o al representante de la institución pública que haya aceptado constituirse en depositario del menor o incapaz y a quien el juez preguntará en privado si ratifica o no su disposición a ser depositario.
+Una vez radicada la solicitud, el Juez se trasladará al domicilio del menor o incapaz, previa citación de quienes ejercen sobre éste la patria potestad, tutela o custodia, así como del Ministerio Público o del representante de la Institución Pública promovente. Así mismo deberá citarse al familiar o al representante de la Institución Pública que haya aceptado que se le confíe al menor o incapaz, y a quien el juez preguntará en privado si ratifica o no dicha disposición.
 
-En la misma diligencia el juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, el depósito del menor o incapaz en el lugar más conveniente, para lo cual podrá tomar en consideración la declaración de los menores mayores de siete años.
+En la misma diligencia el Juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, a quien se le confiara al menor o incapaz, para lo cual podrá tomar en consideración la declaración de los menores mayores de doce años.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 Artículo 180 Bis VIII.- Cuando una persona sin el consentimiento de quien conjuntamente ejerce con ella la Patria Potestad o tutela sobre un menor o incapaz, lo desplaza del control de quien tenga materialmente la custodia o la patria potestad, el Juez a solicitud del Ministerio Público, de parte interesada o de institución pública dedicada a la atención de asuntos relacionados con la violencia familiar en éstos últimos casos oyendo el parecer del Ministerio Público, podrá ordenar que el menor o incapaz sea cautelarmente depositado en el domicilio de un familiar, o en una institución idónea, en apego al procedimiento establecido en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Artículo 180 Bis IX.- En toda resolución que autorice la separación cautelar de personas o depósito de menores, el Juez ordenará la notificación de la misma a la persona o personas respecto de las cuales se autorizó la separación, decretando también los apercibimientos que sean necesarios a efecto de que tales personas se abstengan de molestar a los sujetos separados así como a sus depositarios o dependientes.
+Artículo 180 Bis IX.- En toda resolución que autorice la separación cautelar de personas, el Juez ordenará la notificación de la misma a la persona o personas respecto de las cuales se autorizó la separación, decretando también los apercibimientos que sean necesarios a efecto de que tales personas se abstengan de molestar a los sujetos separados, así como a quienes se ha confiado su custodia, o a sus dependientes.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Artículo 180 Bis X.- En contra de toda resolución que conceda o niegue la medida cautelar de separación de personas o depósito de menores solicitada, procede el recurso de apelación.
+Artículo 180 Bis X.- En contra de toda resolución que conceda o niegue la medida cautelar de separación de personas solicitada, procederá el recurso de apelación.
 
 ### CAPITULO III
 
@@ -6853,7 +6857,7 @@ Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio 
 
 I.- La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se le nombrará un tutor especial;
 
-II.- El permiso que para contratar con su marido o para obligarse solidariamente o ser su fiadora, solicite la mujer casada; y
+II.- (DEROGADA, P.O. 4 DE JULIO DE 2007)
 
 III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
 
@@ -8007,7 +8011,9 @@ CONVIVENCIA Y POSESION INTERINA DE MENORES.
 
 Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
 
-I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, tenga el hábito de embriagarse, haga uso indebido y persistente de drogas enervantes, o amenace causar la ruina de los hijos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
 
 II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
 
@@ -8816,5 +8822,25 @@ P.O. 6 DE JUNIO DE 2007.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE JUNIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NUM. 101 QUE REFORMA LA FRACCION I DEL ARTICULO 1076.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NUM. 111 QUE REFORMA Y DEROGA DIVERSOS ARTICULOS.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO NUM. 112 QUE DEROGA LA FRACCION II DEL ARTICULO 950.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
