@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2006-09-06"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -817,6 +817,8 @@ La ubicación, cambios, supresiones y mantenimiento de los servicios y equipamie
 
 ### CAPÍTULO III. INSPECCIÓN Y VIGILANCIA DEL SERVICIO
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 69.
 
 El servicio se sujetará a los lineamientos, manuales y normas técnicas que al efecto expida el Ejecutivo.
@@ -869,7 +871,7 @@ Las relaciones de trabajo que se originen por la explotación de una concesión 
 
 ###### ARTÍCULO 78.
 
-Las reglas y procedimientos que se observarán en la inspección y vigilancia del servicio se establecerán en el reglamento de esta ley.
+Las reglas y procedimientos que se observarán en la inspección y vigilancia del servicio se establecerán en el reglamento de esta ley, en el cual se contemplará la instauración de un Consejo que velará por que se brinde la debida atención a las personas que sufran un daño o perjuicio, con motivo de un accidente derivado de la prestación del servicio público de transporte.
 
 ###### ARTÍCULO 79.
 
@@ -1460,5 +1462,11 @@ ATENTAMENTE.-SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
