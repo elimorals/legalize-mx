@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-05-23"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1269,11 +1269,11 @@ II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia defini
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-III.- Que lo otorgue el ofendido o la victima por sí, o por medio de su representante legal o convencional con cláusula especial.
+III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su representante legal o convencional con cláusula especial.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
-Tambien procede el perdón del ofendido o de la victima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
+También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
 
 a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículo 305 fracciones I y II, 307, 310, 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
 
@@ -2841,11 +2841,15 @@ La reparación del daño en los casos de estupro y violación, comprenderá el p
 
 ARTICULO 279 bis.- La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los intrafamiliares de éste que así lo requieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+
+ARTICULO 279 ter.- A quien divulgue la identidad, nombre, apellido de sus padres, que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, derivados de delitos de tipo sexual o violencia intrafamiliar, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
+
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
-ARTICULO 279 ter.- A quien divulgue la identidad, nombre, apellido de sus padres, o cualquier otro dato que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
-
 Sí el delito establecido en este artículo es cometido por un Servidor Público, la sanción se aumentará hasta dos terceras partes más y la destitución de su cargo o puesto público.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
 Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
 
@@ -3152,6 +3156,8 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
@@ -3519,89 +3525,59 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 ###### ARTICULO 374.
 
-Comete el delito de difamación, el que comunique a una o más personas, la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 375.
 
-Al responsable del delito de difamación se le impondrá una sanción de tres meses a dos años de prisión o multa de seis a cuarenta días salario, o ambas sanciones a juicio del Juez.
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículo (sic) 368 bis y 368 quáter, en este último caso siempre y cuando habite en el mismo domicilio con la víctima, la sanción se aumentará en un tercio.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 376.
 
-Al acusado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación sino en dos casos:
-
-I.- Cuando aquélla se haya hecho a un depositario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; y
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia firme y el acusado obre por motivo de interés público o por interés privado, pero legítimo, y sin ánimo de dañar.
-
-En estos casos no se sancionará al acusado, si probare su imputación.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 377.
 
-No servirá de excusa de la difamación, que el hecho imputado sea notorio a que el activo no haya hecho más que reproducir lo ya publicado en la República o en otro País.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 378.
 
-Comete el delito de calumnia:
-
-I.- El que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso o es inocente la persona a quien se imputa;
-
-II.- El que presente denuncias, querellas o acusaciones calumniosas, entendiéndose por tales, aquellas en que su autor impute un delito a persona determinada, sabiendo que ésta es inocente, o que aquél no se ha cometido; y
-
-III.- El que, para hacer que un inocente aparezca como responsable de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese efecto, una cosa que pueda dar indicios o presunciones de responsabilidad.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 379.
 
-Al responsable del delito de calumnia se le impondrá una sanción de seis meses a dos años de prisión o multa de quince a cuarenta días salario. En los casos de las dos últimas fracciones del artículo anterior, si el calumniado es condenado por sentencia firme, previo el reconocimiento de su inocencia, se impondrá al calumniador la misma sanción que a aquél.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 380.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia, la querella o la acusación, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se aplicará sanción alguna al autor de una denuncia, querella o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituyan un delito, y él, errónea o falsamente les haya atribuido ese carácter.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 381.
 
-No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le imputa.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 382.
 
-Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 383.
 
-No se podrá proceder contra el responsable de los delitos de golpes y violencias físicas simples, injuria, difamación o calumnia, sino por querella de la persona ofendida, excepto en los casos siguientes:
-
-I.- Si el ofendido ha muerto y la injuria, difamación o calumnia fueren posteriores al fallecimiento sólo se podrá proceder en virtud de querella del cónyuge, de los ascendientes, descendientes o hermanos;
-
-II.- Cuando la injuria, difamación o calumnia sean anteriores al fallecimiento del ofendido, no se atenderá a la queja de las personas mencionadas si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su querella, pudiendo hacerlo, ni prevenido que lo hicieren sus herederos.
+No se podrá proceder contra el responsable de los delitos de golpes y violencias físicas simples, sino por querella de la persona ofendida.
 
 ###### ARTICULO 384.
 
-No se sancionarán la difamación o injurias en los casos siguientes:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad o dado informes que se le hubieren pedido, si no lo hiciere a sabiendas calumniosamente; y
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los Tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias que establezca la Ley.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 385.
 
-Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa, o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuera, se aplicarán las sanciones de la injuria, de la difamación o de la calumnia en su caso.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 386.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
-
-En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 387.
 
-Siempre que sea condenado el responsable de una injuria, difamación o calumnia, si lo solicita la persona ofendida se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar su fallo, imponiéndoseles una sanción de diez días salario por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de cien días salario.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
@@ -4548,6 +4524,22 @@ P.O. 23 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. LIX-916 POR EL QUE SE REFORMA EL ARTICULO 383 Y SE DEROGAN LOS ARTICULOS 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 387 DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
