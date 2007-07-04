@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "2004-04-28"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -65,13 +65,15 @@ VII.- Instituir y mantener actualizado un padrón de instituciones que tengan en
 
 VIII.- Determinar las instituciones públicas y privadas competentes para realizar la evaluación psicológica y socioeconómica para la adopción;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-IX.- Elaborar su Reglamento Interno; y
+IX.- Elaborar su reglamento interno;
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
 
-X.- Las demás que le confiera ésta y otras leyes.
+X.- Difundir la cultura a favor de la Adopción estableciendo sus principos básicos; y
+
+XI.- Las demás que le confiera ésta y otras leyes.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
@@ -137,7 +139,7 @@ El Consejo por conducto de su Presidente Ejecutivo, rendirá al Ejecutivo Estata
 
 ###### Artículo 10.
 
-Las. instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
+Las instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
 
@@ -208,3 +210,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
 
 Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
