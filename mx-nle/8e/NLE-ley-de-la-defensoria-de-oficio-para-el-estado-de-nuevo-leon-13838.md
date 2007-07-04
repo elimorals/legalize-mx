@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "2006-09-10"
+last_updated: "2007-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
 
@@ -595,7 +595,9 @@ III. El auxilio y asesoría de peritos en las especialidades requeridas por la D
 
 La Coordinación de Apoyo Técnico contará con los servicios de trabajadores sociales para los casos a que se refieren las fracciones I y II del Artículo anterior y demás que establezcan esta Ley y su Reglamento, y con los peritos necesarios para el caso de la fracción III de la misma disposición. El Reglamento establecerá las especialidades de los peritos, la organización y el funcionamiento de los servicios de apoyo técnico.
 
-En caso necesario, cuando carezca de peritos propios, la Defensoría podrá contratar los servicios de especialistas externos, a solicitud y por cuenta del usuario.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Cuando la Defensoría carezca de peritos propios, solicitará los servicios de especialista externo. Para lo anterior, en todos los asuntos del orden penal, podrá coordinarse con Colegios de Profesionistas o Universidades existentes en el Estado, a fin de dotar con este apoyo a los usuarios que lo necesiten. En los casos de materia diversa a la penal, la Coordinación de Apoyo a Defensores, cuando así lo determine, convendrá con la Dirección de Servicios Periciales de la Procuraduría General de Justicia en el Estado, a fin de designar a un perito en la materia en que se trate, para que aporte al usuario el servicio que se requiera.
 
 ###### ARTICULO 50.
 
@@ -740,3 +742,7 @@ Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Le
 El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
 
 Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
