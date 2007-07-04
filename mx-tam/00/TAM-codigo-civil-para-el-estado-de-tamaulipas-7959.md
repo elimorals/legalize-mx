@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2004-12-02"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1249,11 +1249,11 @@ DE LA VIOLENCIA INTRAFAMILIAR.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 298 bis.- Todos los integrantes de la familia están obligados a respetarse entre sí, su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+ART. 298 BIS.- Todos los integrantes de la familia están obligados a respetarse entre sí, su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 298 ter.- Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
+ART. 298 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar.
 
 Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como de las omisiones graves, relacionada con sus obligaciones legales que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
 
@@ -1651,7 +1651,7 @@ ART. 390.- Para que quien esté sujeto a patria potestad pueda dejar la casa de 
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 390 bis.- A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de educarlo convenientemente y de acuerdo a las leyes.
+ART. 390 BIS.- A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de educarlo convenientemente y de acuerdo a las leyes.
 
 Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
@@ -1781,7 +1781,7 @@ VII.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 414 bis.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia intrafamiliar prevista en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia intrafamiliar prevista en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ART. 415.- El cónyuge que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -1927,7 +1927,7 @@ ART. 454.- Los responsables de los hospicios y demás casas de beneficencia, ya 
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-ART. 454 bis.- Los responsables de los hospicios y de las casas de beneficencia, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar a que se refiere el artículo 298 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
+ART. 454 BIS.- Los responsables de los hospicios y de las casas de beneficencia, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar a que se refiere el artículo 298 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
 
 ## TITULO SEPTIMO. DE LA TUTELA
 
@@ -4291,9 +4291,39 @@ ART. 1163.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimon
 
 Se reputa perjuicio la privación de cualquiera ganancia lícita que se habría obtenido de no haberse realizado el hecho considerado por la ley como fuente de la responsabilidad.
 
-ART. 1164.- El daño puede ser también moral cuando el hecho ilícito perjudique a los componentes del patrimonio moral de la víctima.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Enunciativamente se consideran componentes del patrimonio moral, el afecto del titular del patrimonio moral por otras personas, su estimación por determinados bienes, el derecho al secreto de su vida privada, así como el honor, el decoro, el prestigio, la buena reputación e integridad física de la persona misma.
+ART. 1164.- El daño puede ser también moral cuando el hecho perjudique a los componentes del patrimonio moral de la víctima. Enunciativamente se consideran componentes del patrimonio moral, el afecto del titular del patrimonio moral por otras personas, su estimación por determinados bienes, el derecho al secreto de su vida privada, así como el honor, el decoro, el prestigio, la buena reputación e integridad física de la persona misma.
+
+Cuando un hecho u omisión produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento:
+
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+ART. 1164 BIS.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, critica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -9039,7 +9069,7 @@ ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testament
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos , o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
+ART. 2607 BIS.- Testamento Público Simplificado, es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda familiar por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado, de los Ayuntamientos, o cualquier Dependencia o Entidad de la Administración Pública Federal, o Estatal o Municipal, o en acto posterior, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2004)</small>
 
@@ -9976,3 +10006,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE DICIEMBRE DE 2004.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
