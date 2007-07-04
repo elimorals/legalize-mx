@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2006-12-21"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -1629,7 +1629,13 @@ V.- Reconocimiento judicial;
 
 VI.- Testigos;
 
-VII.- Presunciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2007)</small>
+
+VII.- Las fotografías, la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2007)</small>
+
+VIII.- Presunciones.
 
 ###### Art. 297.
 
@@ -2333,9 +2339,45 @@ Se exceptúa de lo dispuesto en la fracción II del artículo anterior, el caso 
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-### CAPITULO XII. Del valor de las pruebas
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
-### CAPITULO XIII. De la publicación de las pruebas
+### CAPITULO XI-BIS. Fotografías, información que conste en medios electrónicos, y en general, todos aquellos elementos aportados por los descubrimientos de la ciencia
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 441
+
+bis.- Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías.
+
+Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 441
+
+bis-1.- Como medio de prueba deben admitirse también los registros fonográficos y demás elementos que produzcan convicción en el ánimo del juez.
+
+La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 441
+
+bis-2.- Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 441
+
+bis-3.- Se reconoce como prueba la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 441
+
+bis-4.- En todo caso en que se necesiten conocimientos técnicos especiales para la apreciación de los medios de prueba a que se refiere este capítulo, oirá el tribunal el parecer de un perito nombrado por él, cuando las partes lo pidan o él lo juzgue conveniente.
+
+### CAPITULO XII. Del valor de las pruebas
 
 ###### Art. 442.
 
@@ -2499,6 +2541,18 @@ V.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre 
 
 VI.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no supone fuerza.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Art. 470
+
+bis.- El valor de las pruebas fotográficas taquigráficas y de otras cualesquiera aportadas por los descubrimientos de la ciencia, quedará al prudente arbitrio judicial.
+
+Las fotografías de personas, lugares, edificios, construcciones, papeles, documentos y objetos de cualquier especia (sic), deberán contener la certificación correspondiente que acredite el lugar, tiempo y circunstancias en que fueron tomadas, así como que corresponden a lo representado en ellas, para que constituyan prueba plena. En cualquier otro caso, su valor probatorio queda al prudente arbitrio judicial.
+
+Para valorar la fuerza probatoria de la información a que se refiere el artículo 441 bis-3, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+
 ###### Art. 471.
 
 Producen presunción humana las declaraciones de testigos singulares, con singularidad acumulativa, que consiste en que cada uno declare sobre hecho diverso, siendo sucesivos todos los hechos y conducentes para probar el principal.
@@ -2517,9 +2571,9 @@ Los jueces, según la naturaleza de los hechos, la prueba de ellos, el enlace na
 
 ###### Art. 475.
 
-Producen presunción humana las fotografías, copias fotostáticas, reproducciones fonográficas, registros dactiloscópicos y cualesquiera otros medios de comprobación análogos, que el juez apreciará conforme a su criterio. El litigante que ofrezca la prueba debe proporcionar los aparatos o instrumentos que se necesiten para practicarla.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO XIV. De los alegatos
+### CAPITULO XIII. De la publicación de las pruebas
 
 ###### Art. 476.
 
@@ -2537,7 +2591,7 @@ En seguida, el secretario cumplirá lo mandado por el juez y asentará en el exp
 
 Lo dispuesto en el artículo anterior se observará también en la prueba de tachas y en las que se rindan sobre excepciones o cualquier otro incidente.
 
-### CAPITULO I. Reglas generales
+### CAPITULO XIV. De los alegatos
 
 ###### Art. 480.
 
@@ -2553,7 +2607,7 @@ Transcurrido el término para alegar, se citará a las partes para sentencia, qu
 
 ## TITULO SEPTIMO. De las sentencias
 
-### CAPITULO II. De la aclaración de sentencia
+### CAPITULO I. Reglas generales
 
 ###### Art. 483.
 
@@ -2617,7 +2671,7 @@ IV.- Finalmente, se resolverán los puntos litigiosos, condenándose o absolvié
 
 (DEROGADO, P.O. 16 DE JUNIO DE 1993)
 
-### CAPITULO III. De la sentencia ejecutoriada
+### CAPITULO II. De la aclaración de sentencia
 
 ###### Art. 496.
 
@@ -2653,7 +2707,7 @@ El auto que aclare la sentencia, se reputará parte integrante de ésta.
 
 Siempre que los jueces y tribunales resuelvan no haber lugar a la aclaración pedida, y juzgaren que el solicitante procedió maliciosamente le impondrán una multa en términos de la Fracción I del Artículo 81.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De la sentencia ejecutoriada
 
 ###### Art. 504.
 
@@ -2707,9 +2761,7 @@ La resolución en que se declara que una sentencia ha causado o no ejecutoria, n
 
 ## TITULO OCTAVO. De los juicios sumarios
 
-### CAPITULO II. Del juicio sumario de desahucio
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 511.
 
@@ -2791,9 +2843,9 @@ En el caso de la fracción XV del artículo 511, una vez recibida por el juez el
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ABRIL DE 1971)</small>
 
-### CAPITULO III. Del juicio hipotecario
+### CAPITULO II. Del juicio sumario de desahucio
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
 
 ###### Art. 521.
 
@@ -2889,7 +2941,9 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 (DEROGADO, P.O. 27 DE ABRIL DE 1971)
 
-### CAPITULO IV. Del ofrecimiento de pago y de la consignación
+### CAPITULO III. Del juicio hipotecario
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 538.
 
@@ -3031,7 +3085,7 @@ También pueden oponerse a la venta los acreedores hipotecarios posteriores, ale
 
 En lo no previsto por este capítulo serán aplicables las disposiciones contenidas en el capítulo primero de este título.
 
-### CAPITULO I. De la ejecución
+### CAPITULO IV. Del ofrecimiento de pago y de la consignación
 
 ###### Art. 552.
 
@@ -3101,7 +3155,7 @@ Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos 
 
 ## TITULO NOVENO. Del juicio ejecutivo
 
-### CAPITULO II. Sustanciación del juicio
+### CAPITULO I. De la ejecución
 
 ###### Art. 568.
 
@@ -3217,7 +3271,7 @@ En el caso previsto por el artículo 2813 del Código Civil, se procederá confo
 
 Si la cosa se halla en poder de un tercero, la acción ejecutiva no podrá ejercitarse contra éste, sino cuando sea real y en los demás casos en que, conforme al Código Civil, es responsable el tercer poseedor.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. Sustanciación del juicio
 
 ###### Art. 592.
 
@@ -3257,7 +3311,7 @@ En toda sentencia de remate deberá condenarse en los gastos del juicio a la par
 
 ## TITULO DECIMO. De los interdictos
 
-### CAPITULO II. Del interdicto de adquirir la posesión
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 600.
 
@@ -3291,7 +3345,7 @@ En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las q
 
 Es competente para conocer del interdicto de adquirir la posesión hereditaria, el juez ante quien se haya abierto o deba abrirse la sucesión.
 
-### CAPITULO III. Del interdicto de retener la posesión
+### CAPITULO II. Del interdicto de adquirir la posesión
 
 ###### Art. 608.
 
@@ -3347,7 +3401,7 @@ Si al darse la posesión o antes, se presentare algún interesado alegando que p
 
 Cuando la oposición se presentare dentro de un año, a contar desde la fecha en que el actor hubiese obtenido la posesión, la demanda del opositor se tramitará como dispone el artículo anterior. Pasado el año, la oposición no será admisible, quedando a salvo los derechos del que la hubiese presentado, para deducirlos en juicio plenario de posesión o de propiedad.
 
-### CAPITULO IV. Del interdicto de recuperar la posesión
+### CAPITULO III. Del interdicto de retener la posesión
 
 ###### Art. 620.
 
@@ -3381,7 +3435,7 @@ Si la sentencia resuelve que el demandante justificó su acción, se mandará ma
 
 La sentencia expresará que se reserva a quien lo tenga, el derecho de promover el juicio plenario de posesión o de propiedad.
 
-### CAPITULO V. Del interdicto de nueva obra
+### CAPITULO IV. Del interdicto de recuperar la posesión
 
 ###### Art. 627.
 
@@ -3435,7 +3489,7 @@ Si con los documentos presentados e información rendida ante el juez de primera
 
 La apelación de esta providencia denegatoria es admisible en ambos efectos; e interpuesta que sea, deben remitirse los autos al tribunal superior con citación de las partes.
 
-### CAPITULO VI. Del interdicto de obra peligrosa
+### CAPITULO V. Del interdicto de nueva obra
 
 ###### Art. 639.
 
@@ -3513,7 +3567,7 @@ Si el fallo ratifica la suspensión, podrá el dueño pedir que se le autorice p
 
 En cualquier estado del juicio sumario podrá concederse dicha autorización, si se otorga fianza para responder de la demolición y de la indemnización de los perjuicios que de continuar la obra puedan seguirse. La providencia que conceda la autorización será apelable en ambos efectos.
 
-### CAPITULO I. De la constitución del compromiso
+### CAPITULO VI. Del interdicto de obra peligrosa
 
 ###### Art. 656.
 
@@ -3579,7 +3633,7 @@ TITULO DECIMOPRIMERO
 
 Del juicio arbitral
 
-### CAPITULO II. Sustanciación del juicio arbitral
+### CAPITULO I. De la constitución del compromiso
 
 ###### Art. 669.
 
@@ -3689,7 +3743,7 @@ IV.- Los concernientes al estado civil de las personas, con la excepción conten
 
 V.- Los demás en que lo prohiba expresamente la ley.
 
-### CAPITULO I. De los incidentes en general
+### CAPITULO II. Sustanciación del juicio arbitral
 
 ###### Art. 686.
 
@@ -3889,7 +3943,7 @@ TITULO DECIMOTERCERO
 
 De los incidentes
 
-### CAPITULO II. De las tercerías
+### CAPITULO I. De los incidentes en general
 
 ###### Art. 730.
 
@@ -3939,7 +3993,7 @@ Si dentro de los dos días siguientes al en que la citación se hubiese hecho, s
 
 El juez dictará sentencia dentro de los cinco días siguientes a la citación, o a la vista, en su caso.
 
-### CAPITULO III. De la acumulación de autos
+### CAPITULO II. De las tercerías
 
 ###### Art. 741.
 
@@ -4019,7 +4073,7 @@ Las disposiciones del Libro Cuarto, tercera parte, Título Primero del Código C
 
 Cuando el interés de la tercería exceda del que la ley somete a la competencia del juez que conoce del juicio principal, se procederá en la forma que indica el artículo 147.
 
-### CAPITULO I. De la revocación de las resoluciones
+### CAPITULO III. De la acumulación de autos
 
 ###### Art. 760.
 
@@ -4193,7 +4247,7 @@ TITULO DECIMOCUARTO
 
 De los recursos
 
-### CAPITULO II. De la apelación
+### CAPITULO I. De la revocación de las resoluciones
 
 ###### Art. 793.
 
@@ -4219,9 +4273,7 @@ La revocación se interpondrá por escrito, en el que se expresarán los agravio
 
 Del auto en que se decida si se concede o no la revocación, no habrá más recurso que el de responsabilidad.
 
-### CAPITULO III. De la reclamación
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+### CAPITULO II. De la apelación
 
 ###### Art. 798.
 
@@ -4427,7 +4479,9 @@ Son aplicables a las apelaciones las reglas del juicio ordinario, en lo que no e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
 
-### CAPITULO I. Del apremio
+### CAPITULO III. De la reclamación
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 837.
 
@@ -4463,7 +4517,7 @@ TITULO DECIMOQUINTO
 
 De la ejecución de las sentencias
 
-### CAPITULO II. De la ejecución de las resoluciones dictadas por los jueces y tribunales de los Estados
+### CAPITULO I. Del apremio
 
 ###### Art. 843.
 
@@ -4619,7 +4673,7 @@ Pasado el término de un año que fija el artículo 853, la ejecución no podrá
 
 La acción para pedir la ejecución de una sentencia, transacción o convenio, durará diez años, contados conforme a lo dispuesto en el artículo 848. Cuando se interrumpan las diligencias de ejecución, el término de prescripción expresado, comenzará a correr desde la fecha de la última diligencia que se hubiese entendido con el ejecutado.
 
-### CAPITULO III. De la ejecución de las resoluciones dictadas por tribunales y jueces extranjeros
+### CAPITULO II. De la ejecución de las resoluciones dictadas por los jueces y tribunales de los Estados
 
 ###### Art. 880.
 
@@ -4667,7 +4721,7 @@ III.- Siempre que la parte condenada haya sido emplazada personalmente para ocur
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-### CAPITULO I. De los embargos
+### CAPITULO III. De la ejecución de las resoluciones dictadas por tribunales y jueces extranjeros
 
 ###### Art. 890.
 
@@ -4725,7 +4779,7 @@ TITULO DECIMOSEXTO
 
 De los embargos y remates
 
-### CAPITULO II. De los remates
+### CAPITULO I. De los embargos
 
 ###### Art. 900.
 
@@ -4911,7 +4965,7 @@ El depositario y el actor, cuando éste lo hubiere nombrado, son responsables so
 
 Lo dispuesto en este Capítulo es aplicable a todos los casos de secuestro judicial, salvo aquellos en que disponga expresamente otra cosa este Código.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De los remates
 
 ###### Art. 930.
 
@@ -5163,7 +5217,7 @@ TITULO DECIMOSEPTIMO
 
 De los concursos
 
-### CAPITULO II. De la declaración del concurso
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 983.
 
@@ -5257,7 +5311,7 @@ La tercera sección se llamará de ejecución, y contendrán todo lo relativo al
 
 Si concurrieren algunos puntos que no estén comprendidos en las tres secciones, se formará otra con el nombre de supletoria.
 
-### CAPITULO III. De la rectificación y graduación de créditos
+### CAPITULO II. De la declaración del concurso
 
 ###### Art. 1000.
 
@@ -5319,7 +5373,7 @@ El concursado que hubiere hecho cesión de bienes no podrá pedir la revocación
 
 En este caso y en el previsto en el artículo anterior, la revocación se tramitará como lo previene el artículo 1007.
 
-### CAPITULO IV. De la administración del concurso
+### CAPITULO III. De la rectificación y graduación de créditos
 
 ###### Art. 1010.
 
@@ -5435,7 +5489,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Los acreedores que no ocurrieron al concurso en tiempo útil por haberlo impedido fuerza mayor, solo podrán deducir sus acciones contra los preferentes en la vía ordinaria, salvo el derecho del acreedor hipotecario sobre la cosa hipotecada.
 
-### CAPITULO V. Disposiciones relativas al deudor
+### CAPITULO IV. De la administración del concurso
 
 ###### Art. 1037.
 
@@ -5517,7 +5571,7 @@ V.- Absolver posiciones sobre hechos propios del deudor, con la limitación cont
 
 El síndico provisional o definitivo será removido sin formar artículo, si dejare de caucionar su manejo. También será removido, mediante los trámites establecidos para los incidentes, por el mal desempeño de su cargo o por comprobarse alguno de los impedimentos expresados en el artículo 1050.
 
-### CAPITULO VI. Del concurso de acreedores hipotecarios
+### CAPITULO V. Disposiciones relativas al deudor
 
 ###### Art. 1054.
 
@@ -5547,7 +5601,7 @@ El deudor de buena fe tiene derecho a alimentos en los casos fijados por los art
 
 Si en el curso del juicio se hace constar que los bienes son inferiores a los créditos, cesarán los alimentos; pero el deudor no devolverá los que hubiere percibido.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VI. Del concurso de acreedores hipotecarios
 
 ###### Art. 1061.
 
@@ -5617,7 +5671,7 @@ TITULO DECIMOCTAVO
 
 De los juicios sucesorios
 
-### CAPITULO II. Del juicio de testamentaría
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1077.
 
@@ -5757,7 +5811,7 @@ VI.- Las ventas y la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO III. Del juicio de intestado
+### CAPITULO II. Del juicio de testamentaría
 
 ###### Art. 1096.
 
@@ -5811,7 +5865,7 @@ Si el testamento es legítimo, el juez dentro de los tres días que sigan a la j
 
 Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se sustanciará el juicio ordinario correspondiente con el albacea o el heredero respectivamente sin que por ello se suspenda otra cosa que la partición.
 
-### CAPITULO IV. Del inventario y avalúo
+### CAPITULO III. Del juicio de intestado
 
 ###### Art. 1109.
 
@@ -5909,7 +5963,7 @@ Si no se presentare nadie reclamando la herencia, o no fuere reconocido el derec
 
 En el juicio intestado se observarán las disposiciones contenidas en los artículos 1100, 1101 y 1102.
 
-### CAPITULO V. De la administración de la herencia
+### CAPITULO IV. Del inventario y avalúo
 
 ###### Art. 1133.
 
@@ -6073,7 +6127,7 @@ I.- Por error en la cosa objeto del avalúo, o en sus condiciones y circunstanci
 
 II.- Por cohecho a los peritos o inteligencias fraudulentas entre ellos y alguno o algunos de los interesados, para aumentar o disminuir el valor de cualesquiera bienes.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO V. De la administración de la herencia
 
 ###### Art. 1167.
 
@@ -6191,9 +6245,7 @@ Si nadie se presentare alegando derecho a la herencia, o no fueren reconocidos l
 
 Concluido y aprobado el inventario y terminadas las operaciones necesarias para liquidar la herencia, el que administre presentará la cuenta de administración correspondiente al tiempo transcurrido desde el inicio del año que esté corriendo.
 
-### CAPITULO VII. De los juicios sucesorios de menor cuantía y de la transmisión hereditaria del patrimonio de familia
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### Art. 1194.
 
@@ -6295,7 +6347,9 @@ VII.- La firma de todos los interesados. Si alguno no supiere firmar, lo hará p
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
-### CAPITULO VIII. Del testamento público cerrado
+### CAPITULO VII. De los juicios sucesorios de menor cuantía y de la transmisión hereditaria del patrimonio de familia
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1214.
 
@@ -6351,7 +6405,7 @@ En los casos no previstos por las disposiciones anteriores, se observarán las r
 
 Lo prevenido en este Capítulo se observará para la transmisión hereditaria del patrimonio de familia, debiendo comprobarse al iniciarse el juicio, la constitución del mismo patrimonio. Cuando el autor de la herencia dej eotros (sic) bienes, además del patrimonio familiar, respecto de éste se radicará y tramitará separadamente el juicio sucesorio conforme al presente Capítulo, si así lo pidiese la mayoría de los interesados.
 
-### CAPITULO IX. Del testamento ológrafo
+### CAPITULO VIII. Del testamento público cerrado
 
 ###### Art. 1227.
 
@@ -6371,7 +6425,7 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1402 y 1404 del Código Civil.
 
-### CAPITULO X. Del testamento privado
+### CAPITULO IX. Del testamento ológrafo
 
 ###### Art. 1231.
 
@@ -6385,7 +6439,7 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1469 
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO XI. Del testamento militar
+### CAPITULO X. Del testamento privado
 
 ###### Art. 1234.
 
@@ -6409,7 +6463,7 @@ Los testigos declararán al tenor de interrogatorio respectivo, que se sujetará
 
 Recibidas las declaraciones, el tribunal procederá conforme al artículo 1483 del Código Civil.
 
-### CAPITULO XII. Del testamento marítimo
+### CAPITULO XI. Del testamento militar
 
 ###### Art. 1237.
 
@@ -6421,7 +6475,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO XIII. Del testamento otorgado en país extranjero
+### CAPITULO XII. Del testamento marítimo
 
 ###### Art. 1239.
 
@@ -6429,7 +6483,7 @@ Hechas la (sic) publicaciones ordenadas en el artículo 1590 del Código Civil p
 
 En lo demás se tendrá presente lo dispuesto en el Capítulo VII, Título Tercero, Libro Tercero, del Código Civil.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XIII. Del testamento otorgado en país extranjero
 
 ###### Art. 1240.
 
@@ -6443,7 +6497,7 @@ TITULO DECIMONOVENO
 
 De la jurisdicción voluntaria
 
-### CAPITULO II. De los alimentos provisionales
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 1242.
 
@@ -6509,7 +6563,7 @@ Los actos de jurisdicción voluntaria, de que no hiciere mención este Código, 
 
 Los actos de que tratan los capítulos siguientes, se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente.
 
-### CAPITULO III. Del nombramiento de tutores y curadores
+### CAPITULO II. De los alimentos provisionales
 
 ###### Art. 1255.
 
@@ -6543,7 +6597,7 @@ Contra la sentencia en que se otorguen los alimentos sólo procede la apelación
 
 En este expediente no se permitirá ninguna discusión sobre el derecho a percibir alimentos: cualesquiera reclamaciones que sobre ese derecho se hicieren, se sustanciarán en juicio sumario, y entre tanto, seguirá abonándose la suma señalada para alimentos.
 
-### CAPITULO IV. De la enajenación de bienes de menores e incapacitados
+### CAPITULO III. Del nombramiento de tutores y curadores
 
 ###### Art. 1261.
 
@@ -6657,9 +6711,7 @@ Los tutores y curadores no pueden ser removidos por un acto de jurisdicción vol
 
 Para decretar su separación después de discernido el cargo, es indispensable oírlos y vencerlos en juicio.
 
-### CAPITULO V. De la adopción
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+### CAPITULO IV. De la enajenación de bienes de menores e incapacitados
 
 ###### Art. 1286.
 
@@ -6717,7 +6769,9 @@ La solicitud de los padres o ascendientes se sustanciará en forma de incidente,
 
 Lo dispuesto en los artículos que preceden se aplicará a todos los actos y contratos que afecten a bienes de ausentes, menores e incapacitados, cuando se requiera la autorización del juez conforme al Código Civil.
 
-### CAPITULO VI. De las informaciones "ad perpetuam"
+### CAPITULO V. De la adopción
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
 ###### Art. 1296.
 
@@ -6765,7 +6819,7 @@ bis.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción 
 
 La impugnación de la adopción simple y su revocación, en los casos previstos por los artículos 410 y 421 fracción II se tramitarán en la vía sumaria.
 
-### CAPITULO VII. Del apeo y deslinde
+### CAPITULO VI. De las informaciones "ad perpetuam"
 
 ###### Art. 1300.
 
@@ -6787,7 +6841,7 @@ El juez está obligado a ampliar el examen de los testigos con las preguntas que
 
 Las informaciones se archivarán, dándose al interesado testimonio de ellas, si lo pidiere.
 
-### CAPITULO VIII. De la disolución del matrimonio por mutuo consentimiento
+### CAPITULO VII. Del apeo y deslinde
 
 ###### Art. 1305.
 
@@ -6849,7 +6903,7 @@ A petición de alguna de las partes, y previo traslado a la otra por tres días,
 
 La diligencia de apeo debe ceñirse a demarcar los límites, reservando toda cuestión sobre posesión o propiedad para que se deduzca en el juicio correspondiente.
 
-### CAPITULO IX. Del depósito de personas
+### CAPITULO VIII. De la disolución del matrimonio por mutuo consentimiento
 
 ###### Art. 1318.
 
@@ -6901,11 +6955,7 @@ Si la sentencia no fuere recurrida dentro de tres días a contar de su notificac
 
 Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 124, 126 y 308 del Código Civil.
 
-### CAPITULO X. Disposiciones relativas a otros actos de jurisdicción voluntaria
-
-> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 1970, EL LEGISLADOR DEROGÓ LA FRACCIÓN I, Y DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN II PASO A FORMAR PARTE DE ESTE PÁRRAFO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+### CAPITULO IX. Del depósito de personas
 
 ###### Art. 1329.
 
@@ -6972,6 +7022,12 @@ I.- Si se denegare la licencia para el matrimonio por la autoridad correspondien
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 1975)</small>
 
 II.- Si el interesado desiste de sus pretensiones.
+
+### CAPITULO X. Disposiciones relativas a otros actos de jurisdicción voluntaria
+
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 1970, EL LEGISLADOR DEROGÓ LA FRACCIÓN I, Y DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN II PASO A FORMAR PARTE DE ESTE PÁRRAFO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
 
 ###### Art. 1341.
 
@@ -7276,3 +7332,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 Tercero.- Las disposiciones de este decreto son aplicables a los juicios de divorcio y de nulidad de matrimonio que se encuentren en trámite a la fecha en que cobre vigencia.
 
 Cuarto.- Todas las solicitudes de dispensa que se encuentren en trámite ante el Gobernador del Estado a la entrada en vigor del presente decreto, se remitirán al H. Tribunal Superior de Justicia del Estado para que éste a su vez las turne al Juzgado Familiar que corresponda para su continuación y resolución. Las solicitudes de suplencia de consentimiento que también se encuentren en trámite ante dicho Gobernador se tendrán como no interpuestas.
+
+P.O. 4 DE JULIO DE 2007.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
