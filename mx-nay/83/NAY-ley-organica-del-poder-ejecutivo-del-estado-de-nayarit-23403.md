@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2005-09-17"
+last_updated: "2007-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -263,11 +263,15 @@ IX. Secretaría de Turismo;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
-X. Secretaría de Salud; y
+X. Secretaría de Salud; y (sic)
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XI. Secretaría del Medio Ambiente;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
-XI. Procuraduría General de Justicia.
+XII. Procuraduría General de Justicia.
 
 ### CAPITULO II
 
@@ -1153,6 +1157,50 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 40 A.- A la Secretaria del Medio Ambiente le corresponde (sic) las siguientes atribuciones:
+
+I. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+
+II. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
+
+III. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
+
+IV. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
+
+V. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, según les corresponda, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+
+VI. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+
+VII. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+
+VIII. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
+
+IX. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y sanciones procedentes;
+
+X. Promover en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural, así como concertar institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
+
+XI. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
+
+XII. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
+
+XIII. En coordinación con las autoridades federales, estatales y municipales y otorgando la participación que corresponda a las universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico y protección al ambiente y las demás disposiciones aplicables;
+
+XIV. Conformar y planear la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
+
+XV. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad y prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas;
+
+XVI. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y educación superior;
+
+XVII. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental;
+
+XVIII. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente, y resolver los recursos de revisión que formulen los particulares de conformidad a las disposiciones aplicables;
+
+XIX. Ejercer, por Acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental, contengan los convenios celebrados con la Administración Pública Federal y los gobiernos municipales; y
+
+XX. Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+
 ###### Artículo 41.
 
 A la Procuraduría General de Justicia le corresponden además de las atribuciones que le confiere la Constitución Política de los Estados Unidos Mexicanos y la particular del estado, las siguientes atribuciones:
@@ -1496,3 +1544,23 @@ Cuando la ley haga referencia a alguna atribución conferida a la Secretaría de
 ###### ARTÍCULO OCTAVO.
 
 Los servidores públicos adscritos a la Secretaría de Desarrollo Económico que en cumplimiento de este decreto pasen a formar parte de la Secretaría de Turismo, en ninguna forma resultarán afectados en los derechos laborales que hubiesen adquirido.
+
+P.O. 4 DE JULIO DE 2007.
+
+Artículo Primero.- El presente decreto entrara en vigor al día de su publicación para su observancia en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se Abroga el decreto administrativo, que establece la integración, funcionamiento, objeto y facultades del Instituto Nayarita para el Desarrollo Sustentable, publicado el 21 de diciembre de 2000, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Tercero.- Se ordena la liquidación del Instituto Nayarita para el Desarrollo Sustentable, por lo que las Secretarias de Finanzas y de la Contraloría General, deberán verificar la realización de este proceso el que deberá de iniciarse en un término no mayor de 30 días, en los términos de las leyes locales y federales según corresponda.
+
+Artículo Cuarto.- Se transfieren los recursos económicos y materiales que conforman el patrimonio del Instituto Nayarita para el Desarrollo Sustentable, para que pasen a formar parte de la administración pública centralizada, y sean dados de alta a favor de la Secretaría del Medio Ambiente.
+
+Artículo Quinto.- Se autoriza la creación de las plazas indispensables para el funcionamiento y operatividad, de la Secretaría del Medio Ambiente, con cargo a la partida presupuestal que se autorizo transferirle y que fuere del Instituto Nayarita para el Desarrollo Sustentable.
+
+Artículo Sexto.- Se dejan a salvo lo (sic) derechos adquiridos por los servidores públicos adscritos a la fecha en el Instituto Nayarita para el Desarrollo Sustentable, garantizando su incorporación a la estructura orgánica de la Secretaría del Medio Ambiente, bajo el catalogo de puestos y sueldos establecido en el presupuesto de egresos en el Ramo correspondiente al Ejecutivo Estatal.
+
+Artículo Séptimo.- Los asuntos y procedimientos que a la fecha sean responsabilidad del Instituto Nayarita para el Desarrollo Sustentable, pasarán a la Secretaría del Medio Ambiente, para su turno, solución o resolución, atendiendo a las atribuciones que (sic) motivo de esta reforma se le hubieren conferido.
+
+Artículo Octavo.- Cuando las leyes, decretos, acuerdos o convenios hagan referencia al Instituto Nayarita para el Desarrollo Sustentable, se entenderá a partir de la entrada en vigor del presente decreto referido a la Secretaría del Medio Ambiente. De igual forma deberán entenderse transferidas las atribuciones u obligaciones consignadas en los mismos.
+
+Artículo Noveno.- Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, deberá de expedirse el reglamento interior de la Secretaría del Medio Ambiente.
