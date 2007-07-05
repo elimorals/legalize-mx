@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-03-10"
+last_updated: "2007-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2569,11 +2569,11 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, corrupción de menores, robo calificado, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte, y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional, homicidio calificado, parricidio, aborto, ataque peligroso, secuestro, robo de infante, tráfico de menores, asalto, violación, violación equiparada, abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo; trata de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo; robo calificado, abigeato, rebelión, motín, terrorismo, asociación delictuosa, evasión, tortura, ataque a las vías de comunicación y medios de transporte, y homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
 
@@ -3214,3 +3214,9 @@ P.O. 10 DE MARZO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE JULIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por este Decreto.
