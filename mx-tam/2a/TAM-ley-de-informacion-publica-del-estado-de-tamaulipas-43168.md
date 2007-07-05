@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-informacion-publica-del-estado-de-tamaulipas-43168"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-25"
-last_updated: "2004-11-25"
+last_updated: "2007-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 5 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, PERO CONTINUARAN APLICANDOSE SUS DISPOSICIONES EN MATERIA DEL JUICIO DE NULIDAD ANTE EL TRIBUNAL FISCAL DEL ESTADO HASTA EL PLAZO PREVISTO EN EL ARTICULO TERCERO TRANSITORIO PARA QUE LAS SOLICITUDES DE INFORMACION PUBLICA O DEL EJERCICIO DEL DERECHO DE HABEAS DATA PUEDAN SER CONOCIDAS Y RESUELTAS POR EL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE TAMAULIPAS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 25 de noviembre de 2004.
 
@@ -996,3 +998,35 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticuatro días del mes de noviembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Información Pública para el Estado de Tamaulipas, pero continuarán aplicándose sus disposiciones en materia del juicio de nulidad ante el Tribunal Fiscal del Estado hasta el plazo previsto en el artículo tercero transitorio para que las solicitudes de información pública o del ejercicio del derecho de hábeas data puedan ser conocidas y resueltas por el Instituto de Transparencia y Acceso a la Información de Tamaulipas.
+
+A su vez, se derogan las disposiciones que se opongan al ordenamiento que se expide.
+
+###### ARTÍCULO TERCERO.
+
+La designación de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas se realizará por el Gobernador a más tardar 6 meses después de la entrada en vigor de este ordenamiento.
+
+A partir de la ratificación de los comisionados por el Congreso del Estado, quienes resulten nombrados dispondrán del periodo comprendido entre esa fecha y el 30 de junio de 2008 para llevar a cabo los actos inherentes a la organización administrativa del Instituto de Transparencia y Acceso a la Información de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Con base en las disposiciones del Decreto del Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2007, el Ejecutivo del Estado adoptará las medidas necesarias para el inicio de actividades de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas durante el periodo que medie entre el perfeccionamiento de sus nombramientos y el treinta y uno de diciembre de 2007.
+
+En la iniciativa de Decreto del Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2008 se incluirán las erogaciones previsibles para el funcionamiento del Instituto en términos de las presentes disposiciones transitorias.
+
+###### ARTÍCULO QUINTO.
+
+Los entes públicos a que se refiere el artículo 16 de esta ley, deberán adoptar las determinaciones administrativas necesarias para que en un plazo de dos años contados a partir de la entrada en vigor de este ordenamiento, cuenten con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos a que se refiere el Capítulo Quinto del Título III y el Capítulo Tercero del Título IV de esta ley.
+
+Para los municipios con una población menor a 70, 000 habitantes, el Ejecutivo del Estado promoverá un programa de apoyo para que dentro de los tres años posteriores a la entrada en vigor de este ordenamiento, cuenten con los sistemas electrónicos a que se refiere el párrafo anterior.
