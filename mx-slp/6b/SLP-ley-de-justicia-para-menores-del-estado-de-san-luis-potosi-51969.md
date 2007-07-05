@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2006-09-05"
+last_updated: "2007-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -809,9 +809,13 @@ Las medidas de orientación y protección consisten en apercibimientos, mandamie
 
 Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Dirección General designe, excepto la de apercibimiento, y en lo posible, con la colaboración de la familia y su comunidad.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 77.
 
-El Juez Especializado impondrá medidas de orientación y protección en libertad, a los menores entre los doce años cumplidos y catorce no cumplidos, que hayan cometido una conducta tipificada como delito grave en las leyes estatales; o a los menores entre catorce años cumplidos a dieciocho no cumplidos, por la comisión de conductas tipificadas como delito en las leyes del Estado. La duración de dichas medidas no podrá ser mayor de cinco años y tratándose de la imposición de varias medidas por la comisión de una sola conducta.
+El Juez Especializado impondrá medidas de orientación y protección en libertad, a los menores entre los doce años cumplidos y los dieciocho no cumplidos, por la comisión de conductas tipificadas como delito en las leyes del Estado.
+
+La duración de dichas medidas no podrá ser mayor de cinco años y tratándose de la imposición de varias medidas por la comisión de una sola conducta.
 
 #### Sección I. Apercibimiento
 
@@ -1127,23 +1131,37 @@ VIII. Robo de infante e incapaces, previsto en el artículo 137 del Código Pena
 
 IX. Tráfico de menores, previsto en el artículo 140 del Código Penal;
 
-X. Asalto, previsto en el artículo 144 del Código Penal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+
+X. Asalto, previsto en los artículos 144 y 145 del Código Penal;
 
 XI. Violación, prevista en el artículo 150 del Código Penal;
 
 XII. Violación equiparada, prevista en los artículos 152 y 153 del Código Penal;
 
-XIII. Robo calificado con violencia, previsto en la fracción I del artículo 200 del Código Penal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+
+XIII. Robo calificado, previsto en el artículo 200 del Código Penal.
+
+En las modalidades previstas en las fracciones I y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave, cuando en razón del arma empleada se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave, cuando se cometa en casa-habitación y el valor de lo robado exceda de 100 veces el salario mínimo vigente;
 
 XIV. Corrupción de menores, previsto en el artículo 180 del Código Penal;
 
-XV. Abigeato, previsto en el artículo 216 del Código Penal, cuando el valor de lo robado exceda de quinientos salarios mínimos;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
 
-XVI. Asociación delictuosa, previsto en el artículo 265 del Código Penal, y
+XV. Abigeato, previsto en los artículos 216 a 221 del Código Penal;
 
-XVII. Ataque a las vías de comunicación y medios de transporte, previsto en el artículo 298 del Código Penal.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
 
-El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado de San Luis Potosí, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de doce años.
+XVI. Asociación delictuosa, previsto en los artículos 265 y 266 del Código Penal, y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+
+XVII. Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303 del Código Penal.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+
+El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado de San Luis Potosí, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de dieciocho años.
 
 En caso de que el menor durante el cumplimiento de la medida que le haya sido impuesta o hasta dos años posteriores a la conclusión del mismo, cometiere una nueva conducta tipificada como delito en las leyes, no será sujeto de los beneficios, adecuaciones o cumplimientos anticipados que eventualmente pudieran actualizarse.
 
@@ -1596,3 +1614,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
