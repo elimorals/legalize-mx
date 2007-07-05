@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2007-06-19"
+last_updated: "2007-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -710,9 +710,13 @@ III. El ahorro y aprovechamiento sustentable y la prevención de la contaminaci�
 
 IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-V. El establecimiento, manejo y vigilancia de áreas naturales protegidas, y
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas, y (sic)
 
-VI. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE JULIO DE 2007)</small>
+
+VI. Los procesos, productos y servicios que, conforme a la normatividad aplicable, hayan sido certificados ambientalmente, y
+
+VII. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -996,11 +1000,15 @@ Los productores, empresas u organizaciones empresariales podrán desarrollar pro
 
 La Secretaría en el ámbito federal, inducirá o concertará:
 
-I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2007)</small>
+
+I. El desarrollo de procesos productivos y generación de servicios adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
 II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstas (sic) por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen. Para tal efecto, la Secretaría podrá promover el establecimiento de normas mexicanas conforme a lo previsto en la Ley Federal sobre Metrología y Normalización;
 
-III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables de la Ley Federal sobre Metrología y Normalización, y
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2007)</small>
+
+III. El establecimiento de sistemas de certificación de procesos, productos y servicios para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente, debiendo observar, en su caso, las disposiciones aplicables de la Ley Federal sobre Metrología y Normalización, y
 
 IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
@@ -1148,13 +1156,17 @@ VII. Áreas de protección de flora y fauna;
 
 VIII. Santuarios;
 
-IX. Parques y Reservas Estatales, y
+(REFORMADA, D.O.F. 5 DE JULIO DE 2007
+
+IX.- Parques y Reservas Estatales, así como las demás categorías que establezcan las legislaciones locales, y
 
 X. Zonas de preservación ecológica de los centros de población.
 
 Para efectos de lo establecido en el presente Capítulo, son de competencia de la Federación las áreas naturales protegidas comprendidas en las fracciones I a VIII anteriormente señaladas.
 
-Los Gobiernos de los Estados y del Distrito Federal, en los términos que establezca la legislación local en la materia, podrán establecer parques y reservas estatales en áreas relevantes a nivel de las entidades federativas, que reúnan las características señaladas en los artículos 48 y 50 respectivamente de esta Ley. Dichos parques y reservas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas de competencia de la Federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2007)</small>
+
+Los Gobiernos de los Estados y del Distrito Federal, en los términos que señale la legislación local en la materia, podrán establecer parques, reservas estatales y demás categorías de manejo que establezca la legislación local en la materia, ya sea que reúnan alguna de las características señaladas en las de carácter federal o propias de acuerdo a las particularidades de cada entidad federativa. Dichas áreas naturales protegidas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas competencia de la federación, salvo que se trate de las señaladas en la fracción VI de este artículo.
 
 Asimismo, corresponde a los municipios establecer las zonas de preservación ecológicas de los centros de población, conforme a lo previsto en la legislación local.
 
@@ -1258,9 +1270,15 @@ I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de c
 
 II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
 
-III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres, y
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2007)</small>
 
-IV. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres y extracción de tierra de monte y su cubierta vegetal;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2007)</small>
+
+IV. Introducir ejemplares o poblaciones exóticos de la vida silvestre, así como organismos genéticamente modificados, y
+
+V. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1300,13 +1318,17 @@ Se consideran dentro de esta categoría las reservas y zonas forestales, las zon
 
 En las áreas de protección de recursos naturales sólo podrán realizarse actividades relacionadas con la preservación, protección y aprovechamiento sustentable de los recursos naturales en ellas comprendidos, así como con la investigación, recreación, turismo y educación ecológica, de conformidad con lo que disponga el decreto que las establezca, el programa de manejo respectivo y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 54.
 
-Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de las Leyes Federal de Caza, de Pesca y de las demás leyes aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
+Las áreas de protección de la flora y la fauna se constituirán de conformidad con las disposiciones de esta Ley, de la Ley General de Vida Silvestre, la Ley de Pesca y demás aplicables, en los lugares que contienen los hábitat de cuyo equilibrio y preservación dependen la existencia, transformación y desarrollo de las especies de flora y fauna silvestres.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 En dichas áreas podrá permitirse la realización de actividades relacionadas con la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de las especies mencionadas, así como las relativas a educación y difusión en la materia.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las comunidades que ahí habiten en el momento de la expedición de la declaratoria respectiva, o que resulte posible según los estudios que se realicen, el que deberá sujetarse a las normas oficiales mexicanas y usos del suelo que al efecto se establezcan en la propia declaratoria.
 
@@ -3228,11 +3250,11 @@ Las autoridades y servidores públicos involucrados en asuntos de la competencia
 
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría Federal de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 202.
 
-La Procuraduría Federal de Protección al Ambiente en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+La Procuraduría Federal de Protección al Ambiente en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3379,3 +3401,9 @@ D.O.F. 19 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría, dentro de los 6 meses siguientes a la entrada en vigor de este Decreto deberá expedir la Norma Oficial Mexicana que sea necesaria para dar cumplimiento a las disposiciones reformadas.
+
+D.O.F. 5 DE JULIO DE 2007.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
