@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2007-01-13"
+last_updated: "2007-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -209,7 +209,9 @@ VI. La promoción de la cultura de transparencia, la garantía del derecho a la 
 
 El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio.
 
-Contará con un Consejo conformado por un Presidente y cuatro consejeros ciudadanos titulares, así como por los suplentes respectivos; los miembros del Consejo serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+
+Contará con un Consejo, conformado por un Presidente y dos consejeros titulares, así como por los suplentes respectivos; los miembros del Consejo serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley.
 
 El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus resoluciones serán definitivas e inatacables, vinculantes y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Estado, Ayuntamientos y por todo organismo, público o privado, que reciba, administre o aplique recursos públicos estatales o municipales.
 
@@ -797,17 +799,17 @@ XIII. Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XIV. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
 
-XV. Conocer y resolver sobre las renuncias de los Diputados; del Gobernador del Estado, de los Magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura, del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales, del Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco;
+XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial; de los consejeros integrantes del Consejo General del Poder Judicial; del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, y de los consejeros electorales, del Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 XVI. Conceder o negar licencias a los diputados y al Gobernador del Estado para separarse de sus cargos y, además a este último, para permanecer fuera del territorio del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
 
-XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
+XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado, el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -885,13 +887,11 @@ XXXI. Expedir su Ley Orgánica, formar sus reglamentos y dictar las disposicione
 
 XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador electo hecha por el Instituto Electoral, en la forma y términos que establezca la ley de la materia; y
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
 
-XXXIII. Elegir al Presidente y a los consejeros ciudadanos del Instituto de Transparencia e Información Publica de Jalisco con la aprobación de las dos terceras partes de los diputados integrantes de la legislatura, o por insaculación en los términos que establezca la ley de la materia.
+XXXIII. Elegir al Presidente y a los consejeros del Instituto de Transparencia e información Pública de Jalisco, con la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura, o por insaculación, en los términos que establezca la ley de la materia.
 
-> <small>(F. DE E., P.O. 28 DE MAYO DE 2005)</small>
-
-El Presidente y los consejeros ciudadanos durarán en su encargo cuatro años y sólo podrán ser removido (sic) de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y
+El Presidente y los consejeros durarán en su encargo cuatro años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1889,9 +1889,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaria General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1931,11 +1931,11 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### Art. 100.
 
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; consejeros electorales del Instituto Electoral del Estado; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
+Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; consejeros electorales del Instituto Electoral del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2648,3 +2648,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los consejeros designados con anterioridad al presente decreto terminarán su encargo, de conformidad a las normas con las que fueron electos.
 
 TERCERO.- Las reformas al artículo 56 de la Constitución Política del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el período en vigencia.
+
+P.O. 5 DE JULIO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
