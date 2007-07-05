@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2005-11-07"
+last_updated: "2007-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -93,9 +93,13 @@ Es obligación de los sonorenses, al igual que del resto de los mexicanos, hacer
 
 La educación impartida por el Estado, sus organismos descentralizados, y los Ayuntamientos será laica y, por lo tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 8o.
 
-La educación que imparta el Estado, sus organismos descentralizados, y los Ayuntamientos será gratuita; las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestación del servicio educativo.
+La educación básica que imparta el Estado, sus organismos descentralizados, y los Ayuntamientos será gratuita. En ningún caso se condicionará el derecho a la prestación del servicio educativo por el pago de cuotas o aportaciones a favor de la institución educativa o de terceros. El servidor público de la educación que incumpla esta disposición será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+Las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestación del servicio educativo.
 
 ###### ARTICULO 9o.
 
@@ -675,7 +679,9 @@ Las asociaciones de padres de familia tendrán por objeto:
 
 I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
+> <small>(REFORMADA, B.O. 5 DE JULIO DE 2007)</small>
+
+II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles, coadyuvando con las autoridades escolares de manera voluntaria en la medida de sus posibilidades;
 
 III.- Participar en la aplicación de cooperaciones en numerarios, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
@@ -683,7 +689,9 @@ IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos se
 
 V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
-Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2007)</small>
+
+Las asociaciones de padres de familia no podrán intervenir en los aspectos pedagógicos, laborales y los relativos al derecho de los educandos de acceder a los servicios de los establecimientos educativos.
 
 La organización y el funcionamientos (sic) de las asociaciones de padres de familia, en sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que la Secretaría de Educación Pública y la Secretaria, señalen.
 
@@ -934,6 +942,12 @@ Las pruebas a que se refiere el artículo 40, fracción I de esta Ley se iniciar
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 B.O. 7 NOVIEMBRE DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
