@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-5955"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-11"
-last_updated: "1998-06-11"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 11 de junio de 1998.
 
@@ -243,9 +243,13 @@ II.- La existencia en cantidad y calidad de los bienes a adquirir, los plazos es
 
 III.- Los requerimientos en materia de conservación, mantenimiento y ampliación de capacidad de los servicios públicos;
 
-IV.- Preferentemente, la utilización de los bienes y servicios de procedencia regional con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan de Desarrollo Integral del Estado; y,
+IV.- Preferentemente, la utilización de los bienes y servicios de procedencia regional con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan de Desarrollo Integral del Estado; y (sic),
 
-V.- De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero.
+V.- De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VI.- Otorgar preferencia en la adquisición de bienes y servicios que en sus insumos y procesos productivos utilicen materiales reciclados y tecnologías que ahorren energía, agua y contaminen lo menos posible el medio ambiente, con base en el programa que establezca el Comité.
 
 ###### ARTICULO 19.
 
@@ -556,3 +560,9 @@ DIPUTADO PRESIDENTE.- FRANCISCO JOSE PEREZ PEREZ.- DIPUTADO SECRETARIO.- VICTOR 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 tres días del mes de junio de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
