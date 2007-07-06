@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2007-07-04"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -317,13 +317,13 @@ V.- La nacionalidad.
 
 El estado civil es un atributo privativo de las personas físicas.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO I. DEL NOMBRE
-
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+### CAPITULO II. DEL DOMICILIO
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -387,9 +387,9 @@ Art. 25 Bis VIII.- El cambio de nombre de una persona no la priva de sus derecho
 
 Art. 25 Bis IX.- En el procedimiento judicial de cambio de nombre, el Oficial del Registro Civil que elaboró el acta debe intervenir en calidad de parte y dar vista al Ministerio Público.
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -409,9 +409,9 @@ Art. 26 Bis I.- La persona moral tiene derecho al uso exclusivo de su nombre y p
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO II. DEL DOMICILIO
+### CAPITULO III. DE LA CAPACIDAD JURIDICA
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 27.
 
@@ -419,7 +419,7 @@ Domicilio es el lugar en que la ley tiene por situadas a las personas para el cu
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -471,7 +471,7 @@ Art. 28 Bis V.- Se tiene derecho a designar domicilios convencionales para el ej
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -499,11 +499,11 @@ Art. 29 Bis I.- Las personas morales, podrán designar domicilios convencionales
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO III. DE LA CAPACIDAD JURIDICA
+### CAPITULO IV. DEL PATRIMONIO
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -545,7 +545,7 @@ III.- A petición del mismo incapaz, la cual no necesita ser escrita.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -565,13 +565,17 @@ Art. 31 Bis I.- Las personas morales obran y se obligan a través de los órgano
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO IV. DEL PATRIMONIO
-
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
+### CAPITULO V. DE LA NACIONALIDAD
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 32.
 
@@ -601,15 +605,11 @@ Art. 32 Bis IV.- El patrimonio moral se constituye por los derechos y deberes no
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. DE LAS PERSONAS MORALES
+#### SECCION PRIMERA. DE LAS PERSONAS FISICAS
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-Art. 32 Bis V.- Son aplicables al patrimonio de las personas morales, las disposiciones relativas al patrimonio de las personas físicas, en tanto no se opongan a la naturaleza de las primeras.
-
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO V. DE LA NACIONALIDAD
+### CAPITULO VI. DEL ESTADO CIVIL
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -619,9 +619,9 @@ La nacionalidad de las personas se regirá por las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO VI. DEL ESTADO CIVIL
+### CAPITULO I. DEL NOMBRE
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 34.
 
@@ -641,7 +641,7 @@ Art. 34 Bis I.- Posesión de estado civil es la conducta reiterada que en forma 
 
 Art. 34 Bis II.- Para acreditar la posesión de estado civil se deberá atender, el trato y comportamiento en el seno de la familia respectiva, la fama que sobre el particular tenga la persona en sus relaciones sociales y de familia.
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ## TITULO CUARTO. DEL REGISTRO CIVIL
 
@@ -2185,6 +2185,10 @@ XVII.- El mutuo consentimiento;
 
 XVIII.- Las conductas de violencia familiar cometidas por uno de los cónyuges que afecten al otro o a los hijos de ambos o de alguno de ellos, y
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+Cuando un cónyuge promueva el divorcio fundado en ésta causal, deberá narrar en la demanda los hechos que pongan de manifiesto la violencia familiar imputada a la parte demandada, la afectación causada al demandante, así como el nexo causal entre uno y otro, sin que sea necesario especificar las circunstancias de tiempo, modo y lugar de cada evento atribuido al demandado;
+
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 XIX.- La separación de los cónyuges por más de dos años siempre que no exista causa que la justifique y no se cumplan los fines del matrimonio.
@@ -2575,11 +2579,11 @@ El juez, según las circunstancias del caso, fijará la suma que el marido debe 
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Art. 323 Bis.
 
-Por violencia familiar se considera la acción o la omisión grave y reiterada, contra el cónyuge; concubina o concubinario; pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado; adoptante o adoptado, con el fin de dominarlo, someterlo o agredirlo, dañando la integridad física o psicológica de uno o varios miembros de su familia, de la concubina o del concubinario, independientemente de que habiten o no en el mismo domicilio, se produzcan o no lesiones o cualquier otro delito, o se proceda penalmente contra el agresor.
+Por violencia familiar se considera la conducta o el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, cuyo agresor o agresora tenga o haya tenido con la persona agredida relación de matrimonio o concubinato; de parentesco por consanguinidad en línea recta, ascendiente o descendiente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado.
 
 ### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
 
@@ -16580,6 +16584,10 @@ P.O. 4 DE JULIO DE 2007.
 DECRETO No. 105
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
