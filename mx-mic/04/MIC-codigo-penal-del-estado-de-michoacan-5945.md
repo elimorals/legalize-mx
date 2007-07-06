@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2007-01-16"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -807,9 +807,9 @@ Siempre que el beneficiado con la libertad condicional revele nuevamente peligro
 
 Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia de la Dirección de Prevención y Readaptación Social del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2007)</small>
 
-Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII y X; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, artículo 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII y X; abigeato, previsto en los artículos 312 fracciones II y III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -2611,8 +2611,6 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
 ### CAPITULO III. Calumnia
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
 ###### Artículo 240.
 
 Se impondrán de cinco a quince años de prisión y multa de cien a mil días de salario, a quien por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo.
@@ -2644,8 +2642,6 @@ Se impondrán de tres a siete años de prisión y multa de cien a trescientos d�
 Cuando el delito de violación a que se refiere el artículo 240, recaiga sobre mujer casada, no se perseguirá de oficio, sino a petición de la afectada y en caso de incapacidad para hacerlo, se podrá presentar por el cónyuge, ascendientes, descendientes o cualquier otro familiar directo.
 
 ### CAPITULO IV. Disposiciones Generales para los Delitos Contra el Honor
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 243.
 
@@ -2719,9 +2715,7 @@ DELITOS CONTRA EL HONOR
 
 ###### Artículo 250.
 
-La difamación consiste en comunicar dolosamente a una o más personas la imputación que se hace a una persona jurídica, física o colectiva, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, o afecte su reputación.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ### CAPITULO V. Parricidio y filicidio
 
@@ -2729,11 +2723,11 @@ La difamación consiste en comunicar dolosamente a una o más personas la imputa
 
 ###### Artículo 251.
 
-El delito de difamación se sancionará con prisión de seis meses a tres años y multa de cincuenta a ciento cincuenta días de salario.
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 252.
 
-Se aplicarán prisión de uno a cinco años y multa de cincuenta a quinientos días de salario al que atribuya a otro falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se calumnia.
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 253.
 
@@ -2743,37 +2737,27 @@ Se aplicarán prisión de uno a cinco años y multa de cincuenta a quinientos d�
 
 ###### Artículo 254.
 
-No se procederá contra los autores de difamación o calumnia, sino por querella de los ofendidos o de sus legítimos representantes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 255.
 
-Si la difamación o calumnia son posteriores al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares.
-
-Si esos mismos delitos se cometen con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o sabiendo que se le había inferido no hubiere presentado su queja pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la acción penal de esos delitos.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 256.
 
-La difamación y la calumnia, contra cualquier institución oficial, se sancionarán con sujeción a las reglas de este título, sin perjuicio de lo dispuesto en el artículo 157 de este Código.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 257.
 
-Cualquier objeto que hubiere servido de medio para cometer los delitos de difamación y calumnia, se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este último caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa, si no cupiese.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 258.
 
-Siempre que sea condenado el responsable de un delito de difamación o calumnia, si lo solicita la parte ofendida, se publicará la sentencia en los periódicos que designe el juez. Cuando el delito se haya cometido por medio de un órgano periodístico, los dueños, directos o gerentes de éste, están obligados a publicar el fallo, imponiéndoseles una multa de diez días de salario por cada día que pase sin hacerlo, contado desde el día siguiente a aquél en que se le haya notificado la sentencia.
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 259.
 
-Se aplicará suspensión de diez a ciento ochenta días a las personas jurídicas colectivas bajo cuyo amparo se cometa uno de los delitos de que habla este Capítulo.
+(DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 TITULO DECIMOSEXTO
 
@@ -2982,6 +2966,8 @@ Al que prive de la vida dolosamente a cualquier ascendiente consanguíneo, sea l
 Artículo 283 bis.- Al que prive de la vida dolosamente a cualquier descendiente consanguíneo sea legítimo o natural, sabiendo el delincuente ese parentesco, se le impondrá la sanción establecida en el artículo anterior.
 
 ### CAPITULO II. Abigeato
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 284.
 
@@ -3245,35 +3231,37 @@ DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
 
 ###### Artículo 311.
 
-Comete el delito de abigeato, el que, se apodera de una o más cabezas de ganado ajeno, cualquiera que sea su especie, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en donde se encuentren y de que formen o no hato.
+Comete el delito de abigeato, el que se apodera de una o más cabezas de ganado bovino, equino comprendiendo la caballar, mular, y asnal, especies terrestres y denominadas exóticas cuya talla adulta sea mayor de ciento cincuenta centímetros, ovina, caprina y porcina, aves de corral, conejos, abejas y las exóticas de talla menor a los ciento cincuenta centímetros, ajenos, sin consentimiento de quien legalmente pueda disponer de ellas, independientemente del lugar en donde se encuentren y de que formen o no hato.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 312.
 
 Al responsable del delito de abigeato, se le impondrán las siguientes sanciones:
 
-I. Cuando el valor de lo robado no exceda de cien veces el salario, de uno a tres años de prisión y multa de tres a diez días de salario;
+I. Cuando el valor de lo robado no exceda de cien veces el salario mínimo general vigente, de uno a tres años de prisión y multa de tres a diez días de salario mínimo general vigente;
 
-II. Cuando el valor de lo robado exceda de cien y no de quinientas veces el salario, de dos a seis años de prisión y multa de diez a treinta días de salario; y,
+II. Cuando el valor de lo robado exceda de cien y no de quinientas veces el salario mínimo general vigente, de tres a seis años de prisión y multa de diez a treinta días de salario mínimo general vigente; y,
 
-III. Cuando el valor de lo robado exceda de quinientas veces el salario, de tres a doce años de prisión y multa de treinta a ciento veinte días de salario.
+III. Cuando el valor de lo robado exceda de quinientas veces el salario mínimo general vigente, de seis a doce años de prisión y multa de treinta a ciento veinte días de salario mínimo general vigente.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 313.
 
-Las sanciones establecidas en el artículo anterior, se aumentarán con prisión hasta de cinco años y multa de diez a cien días de salario, cuando el abigeato se ejecute con violencia; se cometa aprovechando alguna relación de servicios, de trabajo o de hospitalidad; o, se ejecute con intervención de dos o más personas o una o varias personas armadas o que utilicen o porten otros objetos peligrosos.
+Las sanciones establecidas en el artículo anterior, se aumentarán con prisión hasta de cinco años y multa de diez a cien días de salario mínimo general vigente, cuando el abigeato se ejecute con violencia; se cometa aprovechando alguna relación de servicio, de trabajo o de hospitalidad; o, se ejecute con intervención de dos o más personas o una o varias personas armadas o que utilicen o porten otros objetos peligrosos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 314.
 
-Las sanciones previstas en el artículo 312, se aplicarán a los que adquieran ganado robado, según su valor, y a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad del semoviente, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima del ganado.
+Las sanciones previstas en el artículo 312, se aplicarán a los que adquieran o sacrifiquen ganado robado, según su valor, y a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad del semoviente, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima del ganado.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 315.
 
-Al que ampare una o más cabezas de ganado robado con documentación alterada o expedida a otro, se le impondrá prisión de dos a cinco años.
+Al que ampare una o más cabezas de ganado robado con documentación alterada o expedida a otro, se le impondrá prisión de dos a cinco años. La misma pena se impondrá al que remarque ganado robado.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -3281,11 +3269,11 @@ Al que ampare una o más cabezas de ganado robado con documentación alterada o 
 
 Al que transporte ganado de procedencia ilegal, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrán las sanciones previstas en el artículo 312, según su valor.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 317.
 
-Al que comercie o posea pieles o carne obtenidas de abigeato, se le impondrán prisión de tres a diez años y multa de cien a mil días de salario.
+Al que comercie o posea pieles o carne obtenidas del abigeato, se le impondrán prisión de tres a diez años y multa de cien a mil días de salario mínimo general vigente.
 
 ###### Artículo 318.
 
@@ -3836,3 +3824,7 @@ P.O. 31 DE OCTUBRE DE 2006.
 P.O. 16 DE ENERO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
