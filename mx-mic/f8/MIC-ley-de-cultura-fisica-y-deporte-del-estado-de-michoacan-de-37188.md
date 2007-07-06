@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2005-02-03"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
-Ley publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
+Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
 LÁZARO CARDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -87,7 +87,7 @@ V. COM: El Comité Olímpico Mexicano, A.C;
 
 VI. RENADE: El Registro Nacional de Cultura Física y Deporte;
 
-VII. CAAD: Comisión de Apelación y Arbitraje del Deporte;
+VII. (DEROGADA, P.O. 6 DE JULIO DE 2007)
 
 VIII. CONDEBA: Consejo Nacional del Deporte de la Educación Básica;
 
@@ -487,9 +487,17 @@ La coordinación a que se refiere el artículo anterior, se realizará a través
 
 #### Sección Cuarta. De la Comisión Estatal de Apelación y Arbitraje del Deporte
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
+
 ###### Artículo 31.
 
-La CEAAD es un órgano autónomo, dotado de personalidad jurídica, patrimonio propio con plena competencia para dictar sus acuerdos y laudos, cuyo objeto es mediar o fungir como árbitro en las controversias que pudieran suscitarse entre deportistas, entrenadores y directivos, en los términos establecidos en esta Ley.
+La CEAAD es un órgano colegiado honorario, con plena competencia para dictar sus acuerdos y laudos, cuyo objeto es mediar o fungir como árbitro en las controversias que pudieran suscitarse entre deportistas, entrenadores y directivos, en los términos establecidos en esta Ley.
+
+La CEAAD estará integrada por dos representantes del área operativa del deporte, dos miembros del Sistema Estatal de Cultura Física y Deporte y el Director General de la Comisión Estatal de Cultura Física y Deporte, quien la presidirá.
+
+Los acuerdos de la CEAAD, se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+
+Los integrantes de la CEAAD, durarán tres años en el ejercicio de su cargo y serán designados en Asamblea del Sistema Estatal de Cultura Física y Deporte, con excepción de su Presidente.
 
 ###### Artículo 32.
 
@@ -509,45 +517,33 @@ V. Elaborar y proponer el Reglamento interno; y,
 
 VI. Las demás que establezca la presente Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2005)</small>
+((REFORMADO, P.O. 6 DE JULIO DE 2007)
 
 ###### Artículo 33.
 
-La CEAAD, estará integrada por el Presidente y dos miembros titulares con sus respectivos suplentes, designados por el Congreso del Estado, previa convocatoria que para el efecto se emita. Las propuestas podrán ser presentadas por cualquiera de los miembros del SIEDE.
+La CEAAD, funcionará en Pleno para el cabal desempeño de sus funciones.
 
-La CEAAD funcionará en Pleno para el cabal desempeño de sus funciones.
+El Pleno se integra con el Presidente y los miembros.
 
-El Pleno se integra con el Presidente y los miembros titulares.
+El Pleno de la CEAAD, requerirá para la celebración de sus sesiones la mayoría de sus miembros.
 
-Los miembros suplentes, entrarán en funciones cuando se declare la ausencia definitiva de alguno de los titulares.
-
-Los nombramientos deberán recaer en personas con experiencia en el ámbito deportivo, así como reconocido prestigio y calidad moral. Por lo menos el Presidente y uno más de sus miembros deberán tener título de licenciado en derecho.
-
-El Presidente y los miembros titulares de la CEAAD, durarán cuatro años y podrán ser reelectos por un período más.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 34.
 
-El Pleno de la CEAAD, requerirá para la celebración de sus sesiones la mayoría de sus miembros integrantes.
-
 Las resoluciones definitivas emitidas por la CEAAD no admitirán recurso alguno en el ámbito deportivo.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 35.
 
-En ausencia del Presidente, en cualquiera de las sesiones asumirá sus funciones, alguno de los miembros titulares, siempre y cuando tenga título de licenciado en derecho.
+En ausencia del Presidente, en cualquiera de las sesiones asumirá sus funciones, alguno de los miembros.
 
-Cuando la ausencia del Presidente sea definitiva, el Congreso del Estado, designará a quien deba sustituirlo para que concluya el período respectivo.
-
-Cuando la ausencia de uno de los miembros titulares sea definitiva, los dos restantes, en funciones de Pleno, notificarán al suplente que corresponda, para que concluya el periodo respectivo dando cuenta al Congreso del Estado.
-
-La licencia temporal de alguno de los miembros del Pleno no podrá ser mayor a cuarenta y cinco días, la que exceda se considerará ausencia definitiva.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 36.
 
-El Ejecutivo del Estado aprobará el reglamento para su integración y funcionamiento, en base a la propuesta que le remita la CEAAD.
-
-En el presupuesto de Egresos, el Ejecutivo del Estado, deberá considerar el importe del presupuesto a asignar a este organismo.
+El Pleno de la CEAAD elaborará el proyecto de Reglamento Interno para su funcionamiento y lo propondrá al Sistema Estatal de Cultura Física y Deporte, para su aprobación.
 
 ### Capítulo II. De los Sectores Social y Privado
 
@@ -1086,3 +1082,17 @@ P.O. 3 DE FEBRERO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Comuníquese al Ejecutivo del Estado, a efecto de que efectúe la desincorporación del Órgano Autónomo denominado Comisión Estatal de Apelación y Arbitraje del Deporte, como ente auxiliar de la administración pública.
+
+TERCERO.- Comuníquese al Ejecutivo del Estado, que el Reglamento Interior de la Comisión Estatal de Apelación y Arbitraje, de fecha diez de enero de dos mil cinco, se deberá abrogar, en virtud de la liquidación y desincorporación del Órgano Autónomo denominado Comisión Estatal de Apelación y Arbitraje del Deporte, como ente auxiliar de la administración pública.
+
+CUARTO.- Comuníquese a la Tesorería General del Estado, a la Secretaría de Planeación y Desarrollo y a la Comisión Estatal de Apelación y Arbitraje del Deporte, para que a más tardar, en el término de treinta días hábiles contados a partir de la fecha de entrada en vigor del presente Decreto, proceda a la liquidación.
+
+QUINTO.- Dése vista a la Auditoría Superior de Michoacán, a efecto de que conforme a sus atribuciones y dado que se trata de un Órgano Autónomo que maneja recursos públicos; intervenga en la liquidación y realice las observaciones a que haya lugar.
+
+SEXTO.- El proyecto de Reglamento Interior de la CEAAD, deberá elaborarse, presentarse y aprobarse a más tardar en seis meses, contados a partir de la fecha de entrada en vigor, del presente Decreto.
