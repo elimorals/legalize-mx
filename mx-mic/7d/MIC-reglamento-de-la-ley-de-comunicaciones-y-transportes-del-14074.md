@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-comunicaciones-y-transportes-del-14074"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-04"
-last_updated: "2004-02-18"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 4 de febrero de 1999.
 
@@ -181,7 +181,7 @@ VII. Establecer la señalización de carácter informativo, que defina y haga cl
 
 VIII. Dictar en todo tiempo las disposiciones administrativas para la presentación de las solicitudes relativas al otorgamiento de concesiones y permisos;
 
-IX. Vigilar, inspeccionar y verificar los servicios de transporte en la materia de este Reglamento, que proporcionen los concesionarios y permisionarios, sin perjuicio de las facultades que competan a otras autoridades; y (sic),
+IX. Vigilar, inspeccionar y verificar los servicios de transporte en la materia de este Reglamento, que proporcionen los concesionarios y permisionarios, sin perjuicio de las facultades que competan a otras autoridades; y,
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
@@ -239,7 +239,7 @@ El Comité Técnico Consultivo del Transporte, será un órgano colegiado que es
 
 I. El Coordinador de la COCOTRA, quien lo presidirá;
 
-II. El Director del Transporte del Estado, quien fungirá como secretario técnico;
+Il. El Director del Transporte del Estado, quien fungirá como secretario técnico;
 
 III. Un representante de las dependencias estatales relacionadas con el sector, según el asunto de que se trate; y,
 
@@ -269,9 +269,11 @@ El otorgamiento de la concesión o permiso estará sujeta a los requerimientos d
 
 Una vez publicada la declaratoria de necesidad pública del servicio, la COCOTRA, tendrá un término de quince días hábiles para la expedición de la convocatoria; las solicitudes de concesion para la prestación de un servicio público que hayan sido materia de dicha declaratoria se hará en forma personal y directa, y en el caso de personas morales deberán acompañar la documentación que acredite su naturaleza jurídica; las solicitudes se presentarán por escrito ante la COCOTRA, en original y copia con sus anexos.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
+
 ###### Artículo 13.
 
-En igualdad de circunstancias, se dará preferencia a las personas que acrediten tener cinco años o más prestando el servicio solicitado como conductores, que cuenten con licencia de chofer del servicio público durante ese tiempo y que no exista en su expediente sanciones o amonestaciones.
+En igualdad de circunstancias, se dará preferencia a las personas que acrediten tener cinco años o más prestando el servicio solicitado como conductores, que cuenten con licencia de chofer del servicio público durante ese tiempo y que no existan en su expediente sanciones o amonestaciones, realizadas por la COCOTRA o la Secretaría de Seguridad Pública, durante el año anterior a la fecha de la solicitud, además de no haber sido sorprendidos prestando el servicio sin autorización de la COCOTRA.
 
 ###### Artículo 14.
 
@@ -312,6 +314,10 @@ b) Acreditar la personalidad jurídica del representante legal;
 c) Presentar, facturas o carta facturas del o los vehículos que se destinarán a la prestación del servicio. En caso de permiso provisional el vehículo a registrar deberá portar placas del servicio particular a nombre del interesado; y,
 
 d) Presentar proyecto que ponga de manifiesto la forma en que se llevará a cabo la prestación del servicio público. Cuando se trate de establecer nuevos sistemas o rutas se agregarán los planos y documentos donde se especifiquen dichos sistemas, itinerarios a seguir y el equipo que se pretende utilizar.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+La COCOTRA promoverá la constitución de sociedades cooperativas, cuyo objeto sea la prestación del servicio público de transporte, las que deberán contar con un mínimo de diez socios, caso en el que se les podrá otorgar un máximo de veinticinco concesiones.
 
 ###### Artículo 17.
 
@@ -391,7 +397,9 @@ El titular del Poder Ejecutivo del Estado a través de la COCOTRA, podrá autori
 
 I.- Para el concesionario:
 
-a) Manifestar la voluntad de transmitir o arrendar los derechos y obligaciones de la concesión, mediante el formato establecido para tal efecto por la COCOTRA;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
+
+a) Manifestar la voluntad de transmitir o arrendar los derechos y obligaciones de la concesión, mediante escrito dirigido a la COCOTRA, manifestando el motivo que le impide seguir prestando el servicio;
 
 b) Comparecer ante la oficina de la COCOTRA, personalmente en caso de personas físicas y por conducto de apoderado legal en caso de persona moral, para su efecto, se requiere identificación oficial, exhibir el testimonio notarial en el que se precisen facultades para actos de administración y dominio específico y con rendición de cuentas, así como ser acompañado del beneficiario en ambos casos, presentando el original del título de concesión o copia cotejada ante el Notario Público; y,
 
@@ -411,9 +419,11 @@ e) Pagar los derechos de la transmisión o arrendamiento y, en su caso, de la su
 
 f) Inscribir la transmisión o arrendamiento de derechos y obligaciones de la concesión, en el Registro Público de Transporte de la COCOTRA.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2007)</small>
+
 ###### Artículo 24.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, podrá autorizar la transmisión de los derechos y obligaciones derivados de la concesión, de conformidad con lo que establece el artículo 23 de la Ley de acuerdo al siguiente procedimiento:
+El Titular del Poder Ejecutivo del Estado a través de la COCOTRA, autorizará la transmisión de los derechos y obligaciones derivados de la concesión, con motivo del fallecimiento del concesionario, para lo cual el interesado deberá:
 
 I. Presentar solicitud ante la COCOTRA sobre transmisión de los derechos y. obligaciones de la concesión;
 
@@ -421,7 +431,9 @@ II. Presentar original o copia cotejada ante Notario Público, del título de la
 
 III. Exhibir copia certificada del acta de defunción del concesionario;
 
-IV. Exhibir el documento original que contenga la designación del beneficiario y/o la resolución judicial;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+IV. Exhibir el documento original que contenga la designación del beneficiario y/o las resoluciones judiciales que haga la declaratoria de heredero y la adjudicación correspondientes;
 
 V. Presentar copia certificada del acta de nacimiento del beneficiario e identificación oficial;
 
@@ -735,47 +747,93 @@ Independientemente de lo establecido en los artículos 42 y 43 de la Ley, la DGS
 
 La COCOTRA podrá imponer las sanciones que establezca este Reglamento, cuyas multas se fijarán por el importe del salario mínimo general en el Estado de Michoacán, en la fecha en que se cometa la infracción, siendo en todo momento responsable solidario con el conductor del vehículo, el concesionario o permisionario.
 
-La imposición de multas se realizará independientemente de la procedencia, en su caso, de la suspensión o cancelación de la concesión o permiso, en estos supuestos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2007)</small>
 
-I. Cuando en la prestación del servicio público de transporte se alteren las tarifas autorizadas por la COCOTRA, se sancionará con multa de 50 días de salario mínimo general vigente a los concesionarios o permisionarios, que se entienden para este efecto, como responsables solidarios de los actos de sus conductores;
+La imposición de multas se realizará independientemente de la procedencia, en su caso, de la suspensión o cancelación de la concesión o permiso, para lo cual, aplicará en lo conducente el procedimiento establecido en el artículo 64 del presente Reglamento, en los supuestos siguientes:
 
-II. Por modificar o alterar los concesionarios o permisionarios, los itinerarios, horarios, rutas o cualquier otra transgresión a las condiciones de prestación de servicio en los términos de la Ley, de este Reglamento, del título de concesión o de las disposiciones dictadas por la COCOTRA, se sancionará con multa de 100 días de salario mínimo general vigente, siendo igualmente responsables solidarios los concesionarios o permisionarios por los actos de sus conductores;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-Ill. Por negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para el público, se sancionará con multa de 70 días de salario mínimo general vigente, a los concesionarios o permisionarios de la unidad en que se haya cometido la falta;
+I. Cuando en la prestación del servicio público de transporte se alteren las tarifas autorizadas por la COCOTRA, se sancionará con multa de 30 a 50 días de salario mínimo general vigente a los concesionarios o permisionarios, que se entienden para este efecto, como responsables solidarios de los actos de sus conductores;
 
-IV. Cuando el concesionario o permisionario, sin la previa autorización de la COCOTRA, arrende, enajene, done, embargue, hipoteque o permute total o parcialmente los derechos de la concesión o permiso, se le sancionará con multa de 50 días de salario mínimo general vigente, además de que tales actos se tendrán como nulos de pleno derecho y sin menoscabo de la cancelación del concesionamiento;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-V. En el caso de que los vehículos concesionados y permisionados sean conducidos por personas que carezcan de licencia para conducir unidades del servicio público, se retirarán de inmediato de la circulación y se sancionará a los concesionarios o permisionarios como responsables solidarios con multa de 130 días de salario mínimo general vigente;
+II. Por modificar o alterar los concesionarios o permisionarios, los itinerarios, horarios, rutas o cualquier otra transgresión a las condiciones de prestación de servicio en los términos de la Ley, de este Reglamento, del título de concesión o de las disposiciones dictadas por la COCOTRA, se sancionará con multa de 60 a 100 días de salario mínimo general vigente, siendo igualmente responsables solidarios los concesionarios o permisionarios por los actos de sus conductores;
 
-VI. Cuando los conductores de las unidades del servicio público de autotransporte en cualquiera de las modalidades establecidas por esta Ley, conduzcan la unidad bajo el influjo de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica se impondrá multa de 150 días de salario mínimo general vigente, sin perjuicio de la detención del vehículo y la responsabilidad penal en que se pudiera incurrir y la cancelación del concesionamiento;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-VII. Cuando los conductores de los vehículos del servicio público de transporte en cualquiera de sus modalidades, concesionado o permisionado, no respeten el derecho estableci (sic) el paso de peatones en las vías de circulación o invadan los accesos peatonales establecidos, se les impondrá una multa de 30 días de salario mínimo general vigente;
+III. Por negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para el público, se sancionará con multa de 40 a 70 días de salario mínimo general vigente, a los concesionarios o permisionarios de la unidad en que se haya cometido la falta;
 
-VIII. Por no prestar de manera gratuita el servicio cuando por causas de fuerza mayor; de desastres, de seguridad pública y cuando así lo requiera la COCOTRA, serán sancionados los concesionarios y permisionarios con multa de 80 días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+IV. Cuando el concesionario o permisionario, sin la previa autorización de la COCOTRA, arriende, enajene, done, embargue, hipoteque o permute total o parcialmente los derechos de la concesión o permiso, se le sancionará con multa de 30 a 50 días de salario mínimo general vigente, además de que tales actos se tendrán como nulos de pleno derecho y sin menoscabo de la cancelación del concesionamiento;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+V. En el caso de que los vehículos concesionados y permisionados sean conducidos por personas que carezcan de licencia para conducir unidades del servicio público, se retirarán de inmediato de la circulación y se sancionará a los concesionarios o permisionarios como responsables solidarios con multa de 80 a 130 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VI. Cuando los conductores de las unidades del servicio público de autotransporte en cualquiera de las modalidades establecidas por esta Ley, conduzcan la unidad bajo el influjo de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica, se impondrá multa de 90 a 150 días de salario mínimo general vigente, sin perjuicio de la detención del vehículo y la responsabilidad penal en que se pudiera incurrir y la cancelación del concesionamiento;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VII. Cuando los conductores de los vehículos del servicio público de transporte en cualquiera de sus modalidades, concesionado o permisionado, no respeten el derecho establecido para el paso de peatones en las vías de circulación o invadan los accesos peatonales establecidos, se les impondrá una multa de 10 a 30 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VIII. Por no prestar de manera gratuita el servicio cuando por causas de fuerza mayor, de desastres, de seguridad pública y cuando así lo requiera la COCOTRA, serán sancionados los concesionarios y permisionarios con multa de 50 a 80 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
 IX. Por la no expedición del boleto o comprobante de pago al usuario, se aplicará una multa de 30 a 50 días de salario mínimo general vigente;
 
-X. Cuando no se proporcione la información sobre la prestación de los diferentes servicios, requerida por la COCOTRA, se aplicará al concesionario o permisionario una multa de 30 días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XI. Cuando los vehículos no lleven en lugar visible la tarifa autorizada por la COCOTRA, serán sancionados los concesionarios o permisionarios con multa de 30 días de salario mínimo general vigente;
+X. Cuando no se proporcione la información sobre la prestación de los diferentes servicios, requerida por la COCOTRA, se aplicará al concesionario o permisionario una multa de 10 a 30 días de salario mínimo general vigente;
 
-XII. Cuando los conductores de los vehículos concesionados o permisionados hagan base en lugares no autorizados, serán sancionados con multa de 100 días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XIII. Por no portar el operador de los vehículos concesionados o permisionados la licencia de servicio público vigente en lugar visible, será sancionado con multa de 80 días de salario mínimo general vigente;
+XI. Cuando los vehículos no lleven en lugar visible la tarifa autorizada por la COCOTRA, serán sancionados los concesionarios o permisionarios con multa de 10 a 30 días de salario mínimo general vigente;
 
-XIV. Por instalar o pintar publicidad u otro tipo de inscripciones en la unidad, sin la autorización de la COCOTRA, se sancionará al concesionario o permisionario con multa de 30 días de salario mínimo general vigente en el Estado:
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XV. Por dejar de cumplir en tiempo y forma los requisitos de la revista y verificación vehicular de emisión de contaminantes obligatoria en los vehículos que presten el servicio público de transporte en cualquiera de sus modalidades, se sancionará al concesionario o permisionario con multa de 100 días de salario mínimo general vigente en el Estado;
+XII. Cuando los conductores de los vehículos concesionados o permisionados hagan base en lugares no autorizados, serán sancionados con multa de 60 a 100 días de salario mínimo general vigente;
 
-XVI. Por no portar el uniforme autorizado por la COCOTRA durante la prestación del servicio público de transporte de pasajeros en sus diferentes modalidades, se sancionará al conductor con multa de 20 días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XVII. Cuando el beneficiario no inicie la prestación del servicio dentro del término señalado en el (sic) artículos 23 y 24 del presente Reglamento, se sancionará con multa de 50 días de salario mínimo general vigente;
+XIII. Por no portar el operador de los vehículos concesionados o permisionados la licencia de servicio público vigente en lugar visible, será sancionado con multa de 50 a 80 días de salario mínimo general vigente;
 
-XVIII. Cuando se sorprenda a alguna persona prestando el servicio público de transporte, sin autorización de la COCOTRA, se le sancionará con una multa de 150 días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XIX. Cualquier otra violación a la Ley, a las condiciones establecidas en el título de la concesión, permisos y las demás disposiciones o acuerdos emitidos por la COCOTRA, cuya sanción no este expresamente prevista, se impondrá multa de 30 días de salario mínimo general vigente al infractor, y en su caso, bajo la responsabilidad solidaria de los titulares de la concesión o servicio;
+XIV. Por instalar o pintar publicidad u otro tipo de inscripciones en la unidad, sin la autorización de la COCOTRA, se sancionará al concesionario (sic) permisionario con multa de 10 a 30 días de salario mínimo general vigente en el Estado;
 
-XX. Cuando se preste el servicio público de transporte en todas sus modalidades con concesión o permiso sin vigencia, se sancionará con multa de 150 días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XV. Por dejar de cumplir en tiempo y forma los requisitos de la revista y verificación vehicular de emisión de contaminantes obligatoria en los vehículos que presten el servicio público de transporte en cualquiera de sus modalidades, se sancionará al concesionario o permisionario con multa de 60 a 100 días de salario mínimo general vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XVI. Por no portar el uniforme autorizado por la COCOTRA durante la prestación del servicio público de transporte de pasajeros en sus diferentes modalidades, se sancionará al conductor con multa de 5 a 20 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XVII. Cuando el beneficiario no inicie la prestación del servicio dentro del término señalado en los artículos 23 y 24 del presente Reglamento, se sancionará con multa de 30 a 50 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XVIII. Cuando se sorprenda a alguna persona prestando el servicio público de transporte, sin autorización de la COCOTRA, se le sancionará con una multa de 90 a 150 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XIX. Cualquier otra violación a la Ley, a las condiciones establecidas en el título de la concesión, permisos y las demás disposiciones o acuerdos emitidos por la COCOTRA, cuya sanción no esté expresamente prevista, se impondrá multa de 10 a 30 días de salario mínimo general vigente al infractor, y en su caso, bajo la responsabilidad solidaria de los titulares de la concesión servicio;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XX. Cuando se preste el servicio público de transporte en todas sus modalidades con concesión o permiso sin vigencia, se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado; y,
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XXI. Cuando los presidentes, dirigentes o representantes legales de una persona moral, consientan, permitan o autoricen que se preste el servicio público de transporte sin autorización de la COCOTRA, utilizando su cromática, logotipos, calcomanías, características o en general la imagen distintiva de la persona moral, se sancionará a la misma con multa de 90 a 150 días de salario mínimo vigente en el Estado.
 
 La reincidencia de cualquiera de las conductas citadas en alguna o en varias de las fracciones anteriores, dará origen a la cancelación de la concesión o permiso, por el titular del Poder Ejecutivo a través de la COCOTRA.
 
@@ -783,47 +841,85 @@ La reincidencia de cualquiera de las conductas citadas en alguna o en varias de 
 
 Los concesionarios y permisionarios que presten el servicio público de transporte de pasajeros en cualquiera de sus modalidades, además de ser acreedores de las sanciones que contemple este Reglamento, se les podrá multar al incurrir en alguna de las siguientes faltas:
 
-I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de ascenso y descenso en lugares no autorizados, serán sancionados con multa de 30 días del salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-II. Por no dar trato preferencial a personas con discapacidad, de la tercera edad y mujeres en período de gestación, se les sancionará con multa de 30 días de salario mínimo general vigente;
+I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de ascenso y descenso en lugares no autorizados, serán sancionados con multa de 10 a 30 días del salario mínimo general vigente;
 
-III. Por transportar en los vehículos concesionados o permisionados más pasajeros de los autorizados, serán sancionados con multa de 30 días de salario mínimo general vigente; y,
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-IV. Cuando los vehículos concesionados o permisionados circulen con las puertas abiertas, serán sancionados con multa de 50 días de salario mínimo general vigente.
+II. Por no dar trato preferencial a personas con discapacidad, de la tercera edad y mujeres en periodo de gestación, se les sancionará con multa de 10 a 30 días de salario mínimo general vigente;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+III. Por transportar en los vehículos concesionados o permisionados más pasajeros de los autorizados, serán sancionados con multa de 10 a 30 días de salario mínimo general vigente; y,
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+IV. Cuando los vehículos concesionados o permisionados circulen con las puertas abiertas, serán sancionados con multa de 30 a 50 días de salario mínimo general vigente.
 
 ###### Artículo 60.
 
 Los concesionarios y permisionarios que presten el servicio público de transporte de carga, además de ser acreedores de las sanciones previstas en el presente Reglamento, se les podrá multar al incurrir en alguna de las siguientes faltas:
 
-I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de carga y descarga en lugares no autorizados, serán sancionados con multa de 30 días del salario mínimo vigente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-II. Circular en vías de acceso controlado, en vehículos considerados como pesados o con capacidad mayor de ocho toneladas y aquellos que por su volumen, dimensiones y características tampoco puedan hacerlo, conforme a lo previsto en la norma y manuales establecidos, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de carga y descarga en lugares no autorizados, serán sancionados con multa de 10 a 30 días del salario mínimo vigente;
 
-Ill. No observar las normas técnicas expedidas por la COCOTRA, así como los requisitos de peso volumen y dimensiones se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-IV. Proporcionar el servicio sin documentar debidamente la carga o no usar la carta porte, salvo la que se trate de artículos personales o familiares se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+II. Circular en vías de acceso controlado, en vehículos considerados como pesados o con capacidad mayor de ocho toneladas y aquellos que por su volumen, dimensiones y características tampoco puedan hacerlo, conforme a lo previsto en la norma y manuales establecidos, se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
 
-V. No contar con la carta porte, talón de embarque, nota de remisión o factura necesarios para prestar el servicio que puedan ser requeridos por los inspectores se sancionará con multa de 100 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-VI. Ausencia de autorización de importación o exportación de materiales peligrosos, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+Ill. No observar las normas técnicas expedidas por la COCOTRA, así como los requisitos de peso volumen y dimensiones se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
 
-VII. Falta de manifiesto para casos de derrames de residuos peligrosos por accidente se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-VIII. Carencia de etiquetas en envases y embalajes se sancionara con multa de 150 días de salario mínimo vigente en el Estado;
+IV. Proporcionar el servicio sin documentar debidamente la carga o no usar la carta porte, salvo la que se trate de artículos personales o familiares se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
 
-IX. No proporcionar el concesionario o permisionario al operador, el equipo de seguridad necesario con que debe contar en caso de accidente, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-X. No proporcionar el concesionario o permisionario al operador los carteles de identificación, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
+V. No contar con la carta porte, talón de embarque, nota de remisión o factura necesarios para prestar el servicio que puedan ser requeridos por los inspectores se sancionará con multa de 60 a 100 días de salario mínimo vigente en el Estado;
 
-XI. No contar con las autorizaciones y documentación para evitar el retraso de la carga, se sancionará al concesionario o permisionario con multa de 50 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XII. Por no verificar que las maniobras de carga y descarga se realicen por personal capacitado y equipo de protección adecuado, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado;
+VI. Ausencia de autorización de importación o exportación de materiales peligrosos, se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
 
-XIII. No entregar las unidades libres de remanentes de substancias o residuos peligrosos, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-XIV. No proteger la carga de las condiciones ambientales o de otra fuente que pueda generar una reacción, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado; y,
+VII. Falta de manifiesto para casos de derrames de residuos peligrosos por accidente se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
 
-XV. Por abrir el envase, embalaje, recipiente, contenedor, autotanque o unidad de arrastre entre los puntos de arrastre o destino, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VIII. Carencia de etiquetas en envases y embalajes se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+IX. No proporcionar el concesionario o permisionario al operador, el equipo de seguridad necesario con que debe contar en caso de accidente, se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+X. No proporcionar el concesionario o permisionario al operador los carteles de identificación, se sancionará con multa de 90 a 150 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XI. No contar con las autorizaciones y documentación para evitar el retraso de la carga, se sancionará al concesionario o permisionario con multa de 30 a 50 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XII. Por no verificar que las maniobras de carga y descarga se realicen por personal capacitado y equipo de protección adecuado, se sancionará al concesionario o permisionario con multa de 90 a 150 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XIII. No entregar las unidades Iibres de remanentes de substancias o residuos peligrosos, se sancionará al concesionario o permisionario con multa de 90 a 150 días de salario mínimo vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XIV. No proteger la carga de las condiciones ambientales o de otra fuente que pueda generar una reacción, se sancionará al concesionario o permisionario con multa de 90 a 150 días de salario mínimo vigente en el Estado; y,
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XV. Por abrir el envase, embalaje, recipiente, contenedor, autotanque o unidad de arrastre entre los puntos de arrastre o destino, se sancionará al concesionario o permisionario con multa de 90 a 150 días de salario mínimo vigente en el Estado.
 
 ###### Artículo 61.
 
@@ -838,6 +934,10 @@ El propietario de los vehículos o bienes afectos a los servicios conexos, dispo
 En los casos de reincidencia por parte del infractor y cuando la sanción sea multa, se aplicará el doble del monto inicial, en este caso, el Ejecutivo del Estado a través de la COCOTRA, podrá iniciar el procedimiento de cancelación de la concesión.
 
 Existirá reincidencia cuando se comete la misma infracción en un período no mayor a seis meses.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+Para determinar las sanciones que se aplicarán a los infractores de la Ley y del presente Reglamento, la COCOTRA deberá fundar y motivar sus resoluciones, citando la norma en que se apoya y las circunstancias especiales o razones particulares en que se cometió la infracción, las condiciones del infractor, la conveniencia de eliminar prácticas tendientes a infringir, que tomó en cuenta para determinarla.
 
 ###### Artículo 63.
 
@@ -930,3 +1030,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentran en trámite en la COCOTRA, se resolverán de acuerdo a las normas que se encontraban vigentes con anterioridad a la entrada en vigor del presente Decreto.
