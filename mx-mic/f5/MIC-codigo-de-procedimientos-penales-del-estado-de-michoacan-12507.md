@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2007-01-16"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -3291,9 +3291,9 @@ II.- Que garantice las sanciones pecuniarias, que en su caso, puedan imponérsel
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
-No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 167, 168 y 168 Bis lenocinio y trata de personas; 203 Bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 167, 168 y 168 Bis lenocinio y trata de personas; 203 Bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; 303 fracciones I, IV, V, VII, VIII y X, robo perpetrado con las calificativas a que se refieren las fracciones anotadas; 312 fracción II y III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -4310,3 +4310,7 @@ DECRETO NUMERO 66.
 P.O. 16 DE ENERO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
