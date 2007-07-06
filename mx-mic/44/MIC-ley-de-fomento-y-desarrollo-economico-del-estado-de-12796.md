@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-economico-del-estado-de-12796"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "1998-12-03"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y DESARROLLO ECONOMICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 3 de diciembre de 1998.
 
@@ -61,9 +61,15 @@ II.- Consejo: El Consejo Consultivo para el Desarrollo Económico de Michoacán;
 
 III.- Unidad Económica: Toda persona física o moral que desarrolle actividades económicas, en cualquiera de sus modalidades;
 
-IV.- Empresa Michoacana: todo establecimiento que tenga su domicilio fiscal dentro del territorio del Estado; y,
+IV.- Empresa Michoacana: todo establecimiento que tenga su domicilio fiscal dentro del territorio del Estado; y, (sic)
 
-V.- Secretaría: La Secretaría de Fomento Económico.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+V.- Secretaría: La Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
+
+VI.- Producto: es el resultado de la transformación de insumos, es decir, todo aquello que se comercializa en su estado natural o que sufre alguna transformación.
 
 ARTlCULO 4º.- Para el cumplimiento del objeto de esta Ley, la Secretaría tendrá las siguientes atribuciones:
 
@@ -125,7 +131,9 @@ El Consejo se integrará por:
 
 UN PRESIDENTE: Que será el Gobernador del Estado.
 
-UN VICEPRESIDENTE: Que será el Secretario de Fomento Económico.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
+
+UN VICEPRESIDENTE: Que será el Secretario de Desarrollo Económico.
 
 LOS VOCALES SIGUIENTES:
 
@@ -475,6 +483,36 @@ V. Diseñar y establecer mecanismos para promover las ventajas competitivas del 
 
 Con objeto de impulsar el desarrollo de las empresas en el Estado, el Poder Ejecutivo dará preferencia a la adquisición de productos y servicios de origen michoacano, sin perjuicio de que dichas adquisiciones se realicen en apego a las leyes aplicables y respetando los criterios de economía y eficiencia.
 
+### CAPITULO XV. De la Promoción e Imagen de los Productos del Estado de Michoacán
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 58. Las micro, pequeñas, medianas empresas o las personas físicas con actividad empresarial, que produzcan algún producto en el Estado, podrán utilizar el logotipo “Producto Michoacano”, como distintivo de los productos elaborados en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 59. La Secretaría, determinará las características del logotipo Producto Michoacano y aplicará el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 60. El uso del logotipo corresponde en forma exclusiva a las empresas que produzcan con los estándares de calidad y requisitos que al respecto se establezcan en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 61. A la Secretaría, le corresponderá otorgar la licencia de uso del logotipo Producto Michoacano a las empresas y personas físicas con actividad empresarial, que produzcan en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 62. La Secretaría, será la encargada de difundir el uso del logotipo por los medios posibles.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 63. Los actos que se deriven de la aplicación del presente Capítulo, serán resueltos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+ARTlCULO 64. Toda empresa que reciba el apoyo del Estado, está obligada a usar el logotipo y producir con los estándares establecidos.
+
 ###### ARTICULO 53.
 
 A las empresas que no cumplan con las obligaciones que les impone la presente Ley, se les aplicarán, por conducto de la Tesorería General del Estado y por las tesorerías municipales, según corresponda, independientemente de cualquier otra responsabilidad que les resulte, las siguientes sanciones:
@@ -501,6 +539,8 @@ La interposición del recurso se hará por escrito ante la autoridad que dictó 
 
 La autoridad competente, resolverá en definitiva en un término no mayor de diez días hábiles.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2007)</small>
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -518,3 +558,19 @@ PALACIO DEL PODER LEGlSLATlVO, Morelia, Michoacán, a 4 de Noviembre de 1998. "A
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de noviembre de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría, deberá en un plazo máximo de 90 noventa días naturales siguientes al inicio de vigencia del presente Decreto, emitir una convocatoria abierta a interesados en concursar para la realización del logotipo "Producto Michoacano".
+
+###### ARTÍCULO TERCERO.
+
+El logotipo ganador deberá de inscribirse y establecerse en el reglamento respectivo, que el Ejecutivo Estatal deberá expedir dentro de un término de 180 ciento ochenta días naturales, siguientes al inicio de vigencia del presente Decreto.
