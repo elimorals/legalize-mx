@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-contaduria-mayor-de-hacienda-3507"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-11-14"
-last_updated: "2005-01-14"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 6 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de noviembre de 1989.
 
@@ -658,3 +660,23 @@ Se derogan todas las disposiciones en contrario.
 ###### ARTÍCULO TERCERO.
 
 Para los efectos de la fracción III del artículo 17 del presente Decreto, a partir del día en que entren en vigor las reformas, las cuentas públicas que se encuentren en proceso de revisión por parte de la Contaduría Mayor de Hacienda, se regularán por lo dispuesto en el mismo.
+
+P.O. 6 DE JULIO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado el 14 de noviembre de 1989 y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. El Contador Mayor de Hacienda o, quien a la entrada en vigor de esta ley se encuentre desempeñando sus funciones, seguirá haciéndolo de manera provisional mientras el Congreso designe al Auditor Superior del Estado.
+
+El resto de la estructura orgánica actual de la Contaduría Mayor de Hacienda, continuará operando hasta en tanto no se emita el reglamento y demás disposiciones a que se refiere el artículo sexto transitorio de esta ley.
+
+CUARTO. Los procedimientos administrativos y los asuntos que a la entrada en vigor de la presente ley se encuentren en trámite, continuarán su desarrollo conforme a la ley que se abroga. Las cuentas públicas del ejercicio 2007, presentadas antes de la entrada en vigor de esta ley, harán las veces del informe de avance de gestión financiera por el periodo trimestral al que correspondan.
+
+QUINTO. Los recursos humanos, materiales y financieros asignados en el presupuesto de egresos para el ejercicio fiscal del año 2007 a la Contaduría Mayor de Hacienda, serán reasignados a la Auditoria Superior del Estado. Para los ejercicios subsecuentes la Secretaria de Finanzas proveerá lo necesario a fin de que la Auditoria Superior del Estado cuente con una partida especial en el presupuesto de egresos.
+
+Los archivos, expedientes y documentos que obren en la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado, y el manejo, utilización y clasificación de la información y documentos que elaboró la Contaduría Mayor de Hacienda con motivo de sus procesos de fiscalización, por ser de interés público, serán reservados hasta por los plazos a que se refiere la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza.
+
+SEXTO. En un plazo de 180 días contados a partir de la entrada en vigor de la presente ley, deberán expedirse los reglamentos y demás disposiciones en relación al funcionamiento y manejo de la Auditoria Superior del Estado.
+
+SÉPTIMO. Durante el ejercicio 2007, la Auditoria Superior del Estado y la Secretaria de Finanzas, se coordinarán con el resto de las entidades para armonizar el contenido de las cuentas públicas. La Auditoria Superior emitirá las reglas que permitan la presentación simplificada de la cuenta pública y de los informes de avance de gestión financiera del ejercicio 2007, conservando como mínimo su contenido actual.
