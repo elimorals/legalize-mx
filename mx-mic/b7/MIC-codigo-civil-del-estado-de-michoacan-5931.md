@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "2004-09-22"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -9681,9 +9681,9 @@ Cuando sin consentimiento del obligado a prestar alimentos, los diese un extrañ
 
 Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquellos que hubieren tenido la obligación de alimentarlo en vida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2007)</small>
 
-### CAPITULO V. De las obligaciones que nacen de los hechos jurídicos lícitos e ilícitos
+### CAPITULO V. De las obligaciones que nacen de los actos ilícitos
 
 ###### Artículo 1768.
 
@@ -9731,11 +9731,29 @@ El monto de la indemnización lo determinará el juez tomando en cuenta los dere
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiera tenido la difusión original.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
-Artículo 1774 bis. No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6° y 7° de la Constitución Política de los Estados Unidos Mexicanos.
+Artículo 1774 bis.- Estarán obligados a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las siguientes conductas se considerarán como hechos ilícitos:
 
-En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual, deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso o es inocente la persona a quien se imputa;
+
+III. El que presente denuncias o querellas calumniosas entendiéndose por tales aquéllas en que su autor imputa un delito a persona determinada, sabiendo que es inocente o que no ha cometido; y,
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reparación del daño moral con relación a los numerales anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original.
+
+La reproducción de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+Artículo 1774 ter.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6° y 7° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+Articulo 1774 quater.- Quien demande la reparación del daño moral por responsabilidad contractual o extracontractual, deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ###### Artículo 1775.
 
@@ -9837,7 +9855,7 @@ El riesgo por accidentes del trabajo, se regirá por el Código Federal del Trab
 
 ## TITULO SEGUNDO. Modalidades de las obligaciones
 
-### CAPITULO II. De las obligaciones a plazo
+### CAPITULO I. De las obligaciones condicionales
 
 ###### Artículo 1794.
 
@@ -9921,7 +9939,7 @@ Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto par
 
 Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
-### CAPITULO I. De las obligaciones condicionales
+### CAPITULO II. De las obligaciones a plazo
 
 ###### Artículo 1809.
 
@@ -15536,3 +15554,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos civiles que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán substanciándose conforme a las disposiciones legales aplicables al momento de su inicio.
+
+P.O. 6 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
