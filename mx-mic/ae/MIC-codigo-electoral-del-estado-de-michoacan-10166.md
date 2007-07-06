@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-10166"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-05-04"
-last_updated: "2007-03-23"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO ELECTORAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Código publicado en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 4 de mayo de 1995.
 
@@ -1673,11 +1673,9 @@ IV. Organización, Capacitación Electoral y Educación Cívica; y,
 
 V. Fiscalización.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2007)</small>
-
 ###### Artículo 95
 
-Bis.- El Instituto Electoral de Michoacán podrá celebrar convenios con el Instituto Federal Electoral para que, dado el caso, aquél organice, conduzca y vigile procesos electorales federales, o bien el Instituto Federal Electoral, organice, conduzca y vigile procesos electorales locales.
+Bis.- (DEROGADO, P.O. 6 DE JULIO DE 2007)
 
 # Libro Cuarto. Del Proceso y Organismos Electorales
 
@@ -1831,9 +1829,9 @@ c) Si realizadas al menos dos rondas de votación no se cubriera la totalidad de
 
 d) Si aún quedaran pendientes fórmulas de consejeros electorales por designar, se procederá a nombrarlos en el Congreso mediante insaculación, de las propuestas iniciales de los grupos legislativos.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
-Los consejeros electorales, propietarios y suplentes durarán en su cargo hasta cuatro años, pudiendo ser reelectos hasta en dos ocasiones; y gozarán, durante los procesos electorales, de la remuneración que se determine en el presupuesto. Entre procesos, recibirán únicamente dietas de asistencia a sesión.
+Los consejeros electorales, propietarios y suplentes durarán en su cargo cuatro años, pudiendo ser reelectos hasta en dos ocasiones; y gozarán de la remuneración que se determine en el presupuesto.
 
 Los consejeros electorales continuarán en sus funciones aunque haya fenecido su periodo o el plazo para el que fueron nombrados, sin que ello implique ratificación en el cargo, mientras no sean designados quienes deban sustituirlos;
 
@@ -3661,11 +3659,11 @@ b) Fijar en el exterior del local del Consejo General el resultado del cómputo 
 
 c) Remitir al Tribunal Electoral el expediente del cómputo estatal de la elección de Gobernador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2007)</small>
+
+Artículo 199 A.- El Consejo General hará el cómputo de la circunscripción plurinominal el domingo siguiente a la elección.
+
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2007)</small>
-
-###### Artículo 199-A.
-
-El Consejo General hará el cómputo de la circunscripción plurinominal una vez que se hayan resuelto los medios de impugnación correspondientes a la elección de diputados, de acuerdo con las leyes en la materia; en todo caso, deberá realizarse a más tardar treinta y cinco días después de la elección.
 
 En relación al cómputo de circunscripción, se procederá de la manera siguiente:
 
@@ -3761,7 +3759,9 @@ El Pleno del Tribunal Electoral del Estado, tendrá la competencia y atribucione
 
 I. Declarar la legalidad y validez de la elección y hacer la declaratoria de Gobernador del Estado electo, una vez resueltos los juicios de inconformidad que se hubieren interpuesto sobre la misma;
 
-II. Establecer criterios jurisprudenciales, que no serán obligatorios;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+II. Establecer criterios jurisprudenciales;
 
 III. Conocer y resolver de las excusas que presenten los magistrados respecto de asuntos que les sean turnados;
 
@@ -4655,11 +4655,11 @@ Las boletas deberán llevar la leyenda «voto de michoacanos en el extranjero».
 
 El Consejo General establecerá las medidas para salvaguardar la confidencialidad de los datos personales contenidos en la lista de votantes michoacanos en el extranjero, la cual no será exhibida fuera del territorio estatal.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2007)</small>
 
 ###### Artículo 304.
 
-Son aplicables, en todo lo que no contravenga a las normas del presente Libro, las demás disposiciones conducentes de este Código, la Ley Estatal del Sistema de Medios de Impugnación en Materia Electoral y las demás leyes aplicables.
+Son aplicables, en todo lo que no contravenga a las normas del presente Libro, las demás disposiciones conducentes de este Código, la Ley de Justicia Electoral del Estado de Michoacán de Ocampo y las demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -4788,6 +4788,12 @@ En su caso, el Consejo General a propuesta de la Junta Estatal Ejecutiva, aproba
 En su caso, una vez concluido el proceso electoral de dos mil siete, el Consejo General del Instituto integrará una comisión de especialistas que realice una evaluación y presente recomendaciones generales para el voto de los michoacanos en el extranjero y fuera de la entidad en territorio nacional, procediéndose a proponer, en su caso, a las instancias competentes las reformas legales correspondientes.
 
 P.O. 23 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
