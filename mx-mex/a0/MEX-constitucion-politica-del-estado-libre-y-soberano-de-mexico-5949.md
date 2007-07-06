@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2007-01-29"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2007.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1141,9 +1141,21 @@ XLI. Solicitar por escrito a la Legislatura o en su caso a la Diputación Perman
 
 En aquellos casos que por urgencia el Ejecutivo del Estado requiera salir en misión oficial del territorio nacional, previa justificación, podrá solicitar la autorización a la Junta de Coordinación Política, debiendo a su regreso presentar informe detallado sobre el asunto abordado durante el viaje;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE JULIO DE 2007)</small>
 
-XLII. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyan.
+XLII. Representar al Estado en las controversias constitucionales establecidas en la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, ante la Suprema Corte de Justicia de la Nación;
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2007)</small>
+
+XLIII. Representar al Poder Ejecutivo en las controversias constitucionales previstas en el artículo 88 Bis de esta Constitución;
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2007)</small>
+
+XLIV. Representar al Estado ante cualquier autoridad judicial del ámbito Federal o del fuero común, así como ante autoridades administrativas Federales o Locales en los procedimientos legales en que sea parte, sin perjuicio de las facultades que otorga esta Constitución a los otros poderes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 6 DE JULIO DE 2007)</small>
+
+XLV. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2732,3 +2744,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- La reforma a la Constitución del Estado Libre y Soberano de México, contenida en el presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
+
+G.G. 6 DE JULIO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
