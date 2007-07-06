@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-electoral-y-participacion-ciudadana-del-54292"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-11"
-last_updated: "2007-02-11"
+last_updated: "2007-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el domingo 11 de febrero de 2007.
 
@@ -223,6 +223,10 @@ IV. Presuncionales legales y humanas; e,
 
 V. Instrumental de actuaciones.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
+
+La confesional y la testimonial también podrán ser ofrecidas y admitidas cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes y siempre que estos últimos queden debidamente identificados y asienten la razón fundada de su dicho.
+
 Los órganos competentes para resolver podrán ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, de oficio o a petición de parte, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen aptas e idóneas para proporcionar un mayor conocimiento del hecho controvertido.
 
 Las diligencias a que se refiere el párrafo anterior se ordenarán con citación de las partes.
@@ -276,6 +280,8 @@ I. Los medios de prueba serán valorados por el órgano competente para resolver
 II. Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran;
 
 III. Los reconocimientos o inspecciones judiciales tendrán valor probatorio pleno, cuando sean perceptibles a la vista y se hayan practicado en objetos que no requieran conocimientos especiales o científicos; y,
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
 IV. Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial y las periciales, sólo harán prueba plena cuando a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
@@ -699,13 +705,19 @@ Las sentencias que resuelvan el fondo de los juicios de inconformidad podrán te
 
 I. Confirmar el acto impugnado;
 
-II. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador del Estado cuando se den los supuestos previstos en el Título Quinto de este Libro y modificar, en consecuencia, el cómputo estatal;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
 
-III. Declarar la nulidad de la votación emitida en una o varias casillas cuando se den los supuestos previstos en el Título Quinto de este Libro y modificar, en consecuencia, las actas de cómputo de las elecciones de diputados y ayuntamientos, según corresponda;
+II. Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador del Estado cuando se den los supuestos previstos en el Título Cuarto de este Libro y modificar, en consecuencia, el cómputo estatal;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+III. Declarar la nulidad de la votación emitida en una o varias casillas cuando se den los supuestos previstos en el Título Cuarto de este Libro y modificar, en consecuencia, las actas de cómputo de las elecciones de diputados y ayuntamientos, según corresponda;
 
 IV. Revocar la constancia expedida en favor de un candidato, fórmula o planilla de candidatos para otorgarla a aquella que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas o de la corrección del error aritmético en el cómputo respectivo;
 
-V. Declarar la nulidad de la elección y, en consecuencia, revocar las constancias expedidas cuando se den los supuestos previstos en el Título Quinto de este Libro;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2007)</small>
+
+V. Declarar la nulidad de la elección y, en consecuencia, revocar las constancias expedidas cuando se den los supuestos previstos en el Título Cuarto de este Libro;
 
 VI. Revocar la determinación sobre la declaración de validez y otorgamiento de constancias de mayoría y validez o de asignación en las elecciones de diputados y ayuntamientos, según corresponda; y,
 
@@ -836,3 +848,11 @@ PRESIDENTE.- DIP. DAVID GARIBAY TENA.- PRIMER SECRETARIO.- DIP. JUAN ANTONIO IXT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 10 diez días del mes de febrero del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
