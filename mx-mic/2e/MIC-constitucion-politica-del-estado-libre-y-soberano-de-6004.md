@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2007-02-09"
+last_updated: "2007-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -615,6 +615,10 @@ XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funciona
 
 XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2007)</small>
+
+XVI bis.- Legislar en materia de políticas de sueldos, salarios y prestaciones, bajo los principios de racionalidad, austeridad, proporcionalidad, equidad, certeza y motivación, que eviten excesos y discrecionalidad de las autoridades, garantizando la participación de órganos colegiados en la definición de criterios, políticas y lineamientos en la materia. A lo que se sujetarán los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos y entidades de la Administración Pública Paraestatal;
+
 XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, y otorgar pensiones a ellas o a los familiares que comprueben encontrarse en difíciles condiciones económicas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
@@ -627,7 +631,7 @@ XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayunt
 
 Los miembros de los ayuntamientos y, en su caso, de los concejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2965,9 +2969,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
+P.O. 6 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a los ayuntamientos del Estado, a efecto de que, en el término de un mes después de recibida la minuta proyecto de Decreto, envíen al Congreso del Estado el resultado de la votación correspondiente, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Transcurrido el mes concedido a los ayuntamientos, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
+
 ###### ARTÍCULO TERCERO.
 
-Se instruye al Poder Ejecutivo del Estado de Yucatán a que dentro de los 120 días posteriores a la publicación de este Decreto en el Diario Oficial del Gobierno del Estado, actualice y armonice las disposiciones reglamentarias correspondientes a las establecidas de (sic) este Decreto.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO CUARTO.
 
