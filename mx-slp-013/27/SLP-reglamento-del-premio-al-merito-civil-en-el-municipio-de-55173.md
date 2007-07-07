@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-premio-al-merito-civil-en-el-municipio-de-55173"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-22"
-last_updated: "2007-02-22"
+last_updated: "2007-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO DEL PREMIO AL MERITO CIVIL EN EL MUNICIPIO DE CIUDAD VALLES, SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2007.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 22 de febrero de 2007.
 
@@ -161,9 +161,11 @@ Las obras o actos que acrediten la asignación de las preseas, no necesariamente
 
 Podrán concurrir como triunfadoras varias personas con derecho a presea, cuando así se dictamine, en cuyo caso se distribuirá a partes iguales entre los premiados la entrega en numerario.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 12.
 
-Las preseas serán otorgadas por el Presidente Municipal, el día 25 de Junio de cada año, en ceremonia solemne.
+Las preseas serán otorgadas por el Presidente Municipal, el día 25 de Julio de cada año, en que se celebra la fundación de Ciudad Valles, S. L. P., en sesión solemne de cabildo.
 
 ### CAPITULO II. ORGANOS PARA EL OTORGAMIENTO
 
@@ -478,3 +480,13 @@ LIC. VÍCTOR MANUEL PALOMARES TEJEDA
 SECRETARIO DEL H. AYUNTAMIENTO MUNICIPAL.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JULIO DE 2007.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las normas y disposiciones generales que se opongan al presente Reglamento.
+
+TERCERO: Lo no previsto en el presente Reglamento deberá ser resuelto por el H. Cabildo.
