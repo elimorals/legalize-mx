@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2007-07-03"
+last_updated: "2007-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -479,24 +479,6 @@ En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a l
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
-Art. 26 bis. El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 1. Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 2. Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 3. Las labores peligrosas o insalubres, son aquellas que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se prestan o por la composición de la materia prima que se utiliza, no pueden realizar los menores de acuerdo a su grado de madurez.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 26 bis 4. Las entidades, de acuerdo a su presupuesto, ayudarán a los menores de edad con libros o material escolar para incentivar su formación educativa.
-
 ###### Art. 26 Bis.
 
 El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
@@ -505,7 +487,7 @@ El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo
 
 ###### Art. 26 Bis 1.
 
-Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufran detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -669,39 +651,61 @@ Es causal de responsabilidad administrativa en los términos de la ley de la mat
 
 Las sanciones que se apliquen de conformidad con el párrafo anterior son independientes de las que procedan en caso de configurarse responsabilidad política, penal o civil.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
-Art. 46 bis. Para efectos del artículo anterior, se conforma el Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, como un órgano auxiliar de las autoridades estatales, no vinculativo, integrado por representantes de los sectores público y privado del Estado, el cual debe realizar estudios sobre los montos máximos de las percepciones anuales de los servidores públicos del Estado de Jalisco y sus Municipios y emitir recomendaciones sobre éstas.
+Art. 46 bis. Para efectos del artículo anterior, se conforma el Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, como un órgano auxiliar de las autoridades estatales y de participación ciudadana, no vinculativo, integrado por representantes de los sectores público y privado del Estado, el cual debe realizar estudios sobre los montos máximos de las percepciones anuales de los servidores públicos del Estado de Jalisco y sus Municipios y emitir recomendaciones sobre éstas.
 
-Estas recomendaciones deberán ser consideradas y analizadas por las autoridades que de conformidad con la ley gocen de autonomía presupuestaria, durante el proceso de aprobación de sus presupuestos de egresos respectivos.
-
-Dichas autoridades deberán notificar al Congreso del Estado el resultado del análisis que sobre las citadas recomendaciones hayan realizado, fundando y motivando en su caso, la no incorporación de las mismas en los presupuestos de egresos respectivos.
+Estas recomendaciones deberán ser consideradas y analizadas por las autoridades, que de conformidad con la ley, gocen de autonomía presupuestaria, durante el proceso de aprobación de sus presupuestos de egresos respectivos.
 
 El Comité Técnico de Transparencia y Valoración Salarial se integra por:
 
-I. El Gobernador del Estado o la persona que éste designe en su representación;
+I. Representantes del sector público, quienes contarán con voz, pero sin voto:
 
-II. El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el Pleno del mismo para comparecer en su lugar;
+a) El Gobernador del Estado o la persona que éste designe en su representación, quien presidirá el Comité;
 
-III. Dos representantes del Poder Legislativo nombrados por la Asamblea;
+b) El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el pleno del mismo para comparecer en su lugar;
 
-IV. El Consejero Presidente de la Comisión Estatal de Derechos Humanos;
+c) Los dos representantes del Poder Legislativo nombrados por la asamblea;
 
-V. El Presidente del Consejo Electoral del Estado de Jalisco; y
+d) El Consejero Presidente de la Comisión Estatal de Derechos Humanos;
 
-VI. El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de las siguientes universidades: Universidad de Guadalajara, Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente, Universidad Panamericana e Instituto Tecnológico de Estudios Superiores de Monterrey.
+e) El Presidente del Instituto Electoral del estado de Jalisco;
 
-El Comité a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
+f) El Presidente del Instituto de Transparencia y Acceso a la Información; y
 
-El Comité Técnico de Transparencia y Valoración Salarial sesionará, de manera ordinaria previa convocatoria por parte del Titular del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Estado de Jalisco, así como en el de los organismos públicos descentralizados del Poder Ejecutivo y en el de los Municipios. Fuera de este tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros presentada al representante del Poder Ejecutivo del Estado.
+g) El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de la Universidad de Guadalajara.
 
-El cargo de integrante del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, es honorífico y por tanto no remunerado y en el caso de los servidores públicos que participan en él, este encargo se entiende inherente a su función pública. Los particulares que participan en el Comité, carecen de la calidad de servidores públicos.
+II. Representantes del sector privado, quienes contarán con voz y voto:
+
+a) El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de las siguientes universidades: Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente y Universidad Panamericana; y
+
+b) Los tres representantes de grupos sociales, con exclusión del grupo educativo, nombrados por el Consejo Económico y Social del estado de Jalisco, el cual velará por que los grupos que lo integren estén debidamente representados en el Comité.
+
+El Comité, a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
+
+El Comité Técnico de Transparencia y Valoración Salarial sesionará de manera ordinaria, previa convocatoria por parte del representante del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de presupuesto de egresos del estado de Jalisco, así como en el de los organismos públicos descentralizados del Poder Ejecutivo y en el de los municipios. Fuera de este tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros, presentada al representante del Poder Ejecutivo del Estado.
+
+Para que el Comité sesione válidamente se requiere contar con la mitad más uno de los miembros con derecho a voto y el representante del Poder Ejecutivo. Los acuerdos se tomarán por mayoría de votos y en caso de empate, el asunto se tratará en la sesión siguiente.
+
+La Secretaría Técnica del Comité estará a cargo de la Secretaría General de Gobierno.
+
+El cargo de integrante del .Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, es honorífico y, por tanto, no remunerado y en el caso de los servidores públicos que participan en él, este encargo se entiende inherente a su función pública. Los particulares que participan en el Comité, carecen de la calidad de servidores públicos.
 
 El Comité, bajo ninguna circunstancia puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus Municipios.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
-Art. 46 bis 1. El Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, tomará en consideración, para emitir sus recomendaciones sobre la percepción salarial de servidores públicos de los municipios, al menos las siguientes características:
+Art. 46 bis 1. Las recomendaciones del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios serán obligatorias para los poderes del estado y los organismos públicos autónomos, cuando el Congreso del Estado las incorpore en el presupuesto de egresos del Gobierno del Estado, en los términos de lo dispuesto por el artículo 46-Bis de la ley estatal en materia de presupuesto, contabilidad y gasto público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 2007)</small>
+
+Art. 46 bis 2. Las recomendaciones del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios serán obligatorias para los organismos públicos descentralizados del Poder Ejecutivo, así como para los municipios, cuando se incorporen en sus respectivos presupuestos de egresos.
+
+Dichas autoridades deberán notificar al Congreso del Estado el resultado del análisis, que sobre las citadas recomendaciones hayan realizado.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2007)</small>
+
+Art. 46 bis 3. El Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, tomará en consideración, para emitir sus recomendaciones sobre la percepción salarial de servidores públicos de los municipios, al menos las siguientes características:
 
 I. Número de habitantes;
 
@@ -709,9 +713,9 @@ II. Monto del presupuesto;
 
 III. Dispersión de la población;
 
-IV. Desarrollo Socioeconómico; y
+IV. Desarrollo socioeconómico; y
 
-V. Número de Servidores Públicos.
+V. Número de servidores públicos.
 
 ###### Art. 47.
 
@@ -2352,5 +2356,9 @@ DECRETO NUMERO 21835-LVII
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 3 DE JULIO DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE JULIO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
