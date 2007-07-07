@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-seguridad-publica-12423
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2005-10-22"
+last_updated: "2007-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -107,7 +107,7 @@ El Secretario tendrá las siguientes facultades:
 
 I.- Emitir las disposiciones, reglas y bases de carácter general, normas, lineamientos y políticas en el ejercicio de las atribuciones que conforme a las Leyes competen a la dependencia, así como fijar, dirigir y controlar la política de la Secretaría, coordinar la planeación, vigilancia y evaluación de la operación de las unidades administrativas que la integran, de conformidad con las políticas estatales, objetivos y metas que determinen el C. Gobernador del Estado y la Secretaría de Administración;
 
-II.- Someter al Acuerdo del Gobernador los asuntos encomendados a la Secretaría que así lo ameriten, desempeñar las comisiones y funciones que éste le confiere y mantenerlo informado sobre el desarrollo de las mismas;
+II.- Someter al Acuerdo del Gobernador los asuntos encomendados a la Secretaría que así lo ameriten, desempeñar las comisiones y funciones que éste le confiera y mantenerlo informado sobre el desarrollo de las mismas;
 
 III.- Proponer al Gobernador, en el ámbito de la competencia de la Secretaría, los proyectos de Leyes, Reglamentos, Decretos, Acuerdos, Ordenes y demás normas jurídicas;
 
@@ -173,9 +173,9 @@ XXXI.- Establecer programas y acciones en coordinación con organismos públicos
 
 XXXII.- Designar como titular e integrantes de la Unidad de Transparencia de la Secretaría, a servidores públicos actualmente adscritos a aquélla;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
 
-XXXIII.- Presidir el Comité de Clasificación de Información Pública de la Secretaría, y
+XXXIII.- Presidir el Comité de Clasificación de Información Pública de la Secretaría y designar al servidor público que lo supla en sus ausencias; y
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
@@ -341,9 +341,9 @@ XX.- Identificar y evaluar las características delictivas de las regiones geogr
 
 XXI.- Las demás que señalen otras disposiciones legales o le confiera el Titular de la Secretaría, así como las que competan a las unidades que se le adscriban.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
-Artículo 11 bis.- El titular de la Dirección General de Estadística y Política Criminal, suplirá en sus ausencias al Secretario en el Comité de Clasificación de Información Pública de la Secretaría y lo presidirá.
+Artículo 11 bis.- El titular de la Dirección General de Estadística y Política Criminal, formará parte del Comité de Clasificación de Información Pública de la Secretaría.
 
 ### CAPÍTULO VII. De la Dirección General de Prevención y Readaptación Social
 
@@ -553,9 +553,17 @@ XIX.- Establecer de acuerdo con las normas aplicables, las directrices y criteri
 
 XX.- Dirigir y dictaminar los estudios de viabilidad de la adquisición e instalación de los bienes informáticos sugeridos para el desarrollo y adquisición de sistemas;
 
-XXI.- Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los servidores públicos de las unidades administrativas de la Secretaría le soliciten, en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos y programas de cómputo; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
 
-XXII.- Las demás que les señalen las disposiciones aplicables, las que les confiera el Secretario y las que correspondan a las unidades administrativas que se les adscriban.
+XXI.- Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los servidores públicos de las unidades administrativas de la Secretaría le soliciten, en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos y programas de cómputo;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
+
+XXII.- Participar como miembro del Comité de Clasificación de Información Pública de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2007)</small>
+
+XXIII.- Las demás que les señalen las disposiciones aplicables, las que les confiera el Secretario y las que correspondan a las unidades administrativas que se les adscriban.
 
 ### CAPÍTULO XII. De la Dirección General Jurídica
 
@@ -593,9 +601,9 @@ XIII.- Participar en la elaboración de acuerdos, contratos y convenios con enti
 
 XIV.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
-Artículo 17 bis.- La Dirección (sic) Área de lo Legislativo dependiente de la Dirección General Jurídica participará en la integración del Comité de Clasificación de Información Pública de la Secretaría, ejerciendo la función de Secretario Técnico.
+Artículo 17 bis.- El Titular de la Dirección General Jurídica participará en la integración del Comité de Clasificación de Información Pública de la Secretaría, ejerciendo la función de Secretario Técnico.
 
 ### CAPÍTULO XIII. De la Inspección General de Policía
 
@@ -639,9 +647,7 @@ XIV.- Desarrollar los sistemas de premios, estímulos y recompensas, en coordina
 
 XVI (SIC).- Vigilar que durante el desarrollo de sus actuaciones, la policía se apegue a los principios de ética, legalidad, eficiencia, profesionalismo, honradez y de actuación que establece la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
-
-XVII.- Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría, y
+XVII.- (DEROGADA, P.O. 7 DE JULIO DE 2007)
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
@@ -709,9 +715,17 @@ X.- Realizar estudios y encuestas de opinión que permitan estructurar o modific
 
 XI.- Publicar la memoria de labores de la Secretaría;
 
-XII.- Desarrollar mecanismos y estrategias que permitan obtener y coordinar la información generada por las diversas áreas de la Secretaría, a fin de darles el seguimiento que corresponda; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
 
-XIII.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
+XII.- Desarrollar mecanismos y estrategias que permitan obtener y coordinar la información generada por las diversas áreas de la Secretaría, a fin de darles el seguimiento que corresponda;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
+
+XIII.- Participar como miembro del Comité de Clasificación de Información Pública de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2007)</small>
+
+XIV.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
 
 ### CAPÍTULO XVI. De la Dirección de los Servicios Privados de Seguridad
 
@@ -773,10 +787,14 @@ C. DANIEL GUILLERMO ITUARTE REYNAUD
 
 P.O. 22 DE OCTUBRE DE 2005.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 ...
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 7 DE JULIO DE 2007.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
