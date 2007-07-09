@@ -4,7 +4,7 @@ identifier: "CAM-ley-sobre-poblaciones-tipicas-y-lugares-de-belleza-natural-2715
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-23"
-last_updated: "2002-12-23"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY SOBRE POBLACIONES TIPICAS Y LUGARES DE BELLEZA NATURAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 9 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 23 de diciembre del 2002.
 
@@ -166,3 +168,19 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de Campeche,
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, el día veinte del mes de Diciembre del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 2007.
+
+Primero.- Esta ley entrará en vigor el día 1º de enero de 2008, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los reglamentos que ordena la presente ley deberán expedirse con oportunidad para su aplicación al inicio de vigencia del presente decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Cuarto.- Se abroga la Ley Sobre Poblaciones Típicas y Lugares de Belleza Natural del Estado de Campeche expedida por la LVII Legislatura del Congreso del Estado, con fecha 20 de diciembre de 2002, bajo decreto número 220, publicada el 23 de diciembre de ese mismo año en el Periódico Oficial del Estado.
+
+Quinto.- Las declaraciones y acuerdos respecto a la protección de poblaciones típicas y lugares de belleza natural expedidos hasta antes de la entrada en vigor de la presente ley, permanecerán vigentes hasta la expedición de un nuevo acuerdo en los términos previstos en este nuevo ordenamiento.
+
+Sexto.- El Ejecutivo del Estado y los HH. Ayuntamientos tomarán las previsiones presupuestales y dispondrán las medidas necesarias para la organización y funcionamiento de los organismos previstos en este ordenamiento.
