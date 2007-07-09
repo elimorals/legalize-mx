@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2007-04-23"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -375,9 +375,11 @@ La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor
 
 Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 2 a 4 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 36.
 
-El Adulterio consiste en tener relaciones sexuales el hombre y la mujer con persona diversa a su cónyuge, y que tales relaciones se realicen en el domicilio conyugal o con escándalo.
+El Adulterio consiste en tener relaciones sexuales el hombre o la mujer con persona diversa a su cónyuge, y que tales relaciones se realicen en el domicilio conyugal o con escándalo.
 
 Al responsable de Adulterio se le aplicarán de 1 a 2 años de prisión y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -639,7 +641,7 @@ XII. Causar un perjuicio público o privado por sí o por interpósita persona, 
 
 Al responsable de Fraude se le aplicarán de:
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
+I. 6 meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
 
 II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
 
@@ -5150,3 +5152,9 @@ DECRETO NUMERO 314
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
