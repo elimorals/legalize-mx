@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2006-09-11"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -755,19 +755,17 @@ II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 34.
 
-Habrá en la capital del Estado, los Juzgados de Primera Instancia, Civiles, Familiares, Penales, Mixtos y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia; pero para la creación de un nuevo juzgado, el Supremo Tribunal de Justicia lo solicitará al H. Congreso del Estado, con la fundamentación necesaria.
+Habrá en el Estado, los Juzgados de Primera Instancia, Civiles, Familiares, Penales, Mixtos y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 35.
 
-Habrá en el Estado cinco partidos judiciales: el Primero comprenderá los Municipios de Aguascalientes, Jesús María y el Llano; el Segundo, comprenderá el Municipio de Calvillo; el Tercero comprenderá los Municipios de Pabellón de Arteaga, San José de Gracia, Asientos, San Francisco de los Romo; el Cuarto, comprende los Municipios de Rincón de Romos, Cosío y Tepezalá; y el Quinto al Municipio de Jesús María, residiendo en el Juzgado de Primera Instancia en el primero de los Municipios citados en cada partido. Los juzgados de Primera Instancia de los Partidos Judiciales Segundo, Tercero, Cuarto, y Quinto, serán mixtos y conocerán de asuntos Civiles, Familiares y Penales.
-
-Para entrar al desempeño de sus funciones, los jueces protestarán ante el Pleno del Supremo Tribunal de Justicia del Estado.
+Habrá en el Estado los partidos judiciales que sean necesarios para la pronta administración de justicia que apruebe el Consejo de la Judicatura de conformidad con su disponibilidad presupuestal, el cual determinará la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1526,3 +1524,13 @@ P.O. 11 DE SEPTIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El Consejo de la Judicatura, emitirá el acuerdo respectivo para determinar el número y competencia territorial de los partidos judiciales, así como la especialización por materia de los juzgados. En tanto se emite dicho acuerdo, los partidos judiciales mantendrán la competencia territorial establecida en los Artículos que se reforman por este Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
