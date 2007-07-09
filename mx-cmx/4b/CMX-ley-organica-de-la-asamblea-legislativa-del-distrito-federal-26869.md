@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2006-12-29"
+last_updated: "2007-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -47,6 +47,10 @@ LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 La presente ley es de orden público e interés general y regula la organización y funcionamiento de la Asamblea Legislativa del Distrito Federal, órgano legislativo y autoridad local conforme a las bases establecidas en el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos y en los términos del Estatuto de Gobierno del Distrito Federal.
 
 En el cumplimiento de sus atribuciones, la Asamblea Legislativa del Distrito Federal procurará el desarrollo del Distrito Federal y sus instituciones, velando por los intereses sociales en las materias de su competencia, salvaguardando el estado de derecho y la sana convivencia con los órganos de Gobierno Locales y Poderes Federales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Asimismo, actuará conforme al principio de transparencia y los mecanismos de rendición de cuentas de acuerdo con lo establecido en los ordenamientos de la materia.
 
 ###### ARTÍCULO 2.
 
@@ -114,7 +118,9 @@ VII.- Aprobar los Programas de Desarrollo Urbano del Distrito Federal, de acuerd
 
 VIII.- Decidir sobre las propuestas y las designaciones que haga el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y del Tribunal de lo Contencioso Administrativo del Distrito Federal, así como, ratificar dichas propuestas y designaciones, en su caso, así como tomarles la protesta correspondiente;
 
-IX.- Elegir a los Magistrados del Tribunal Electoral del Distrito Federal, propuestos por el Tribunal Superior de Justicia del Distrito Federal, con el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, en términos de lo dispuesto por el Estatuto de Gobierno del Distrito Federal y la ley correspondiente;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+IX. Elegir a los Magistrados del Tribunal Electoral del Distrito Federal, propuestos por el Tribunal Superior de Justicia del Distrito Federal, con el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, en términos de lo dispuesto por el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal y el Capítulo II del Título Quinto de este ordenamiento;
 
 X.- Conocer y calificar la renuncia del Jefe de Gobierno del Distrito Federal, la cual sólo podrá aceptarse por motivos graves y conceder, en su caso, las licencias que éste solicite; así como designar, en caso de falta absoluta por renuncia o por cualquiera otra causa, un sustituto que termine el encargo;
 
@@ -170,9 +176,9 @@ XXIII.- Otorgar la distinción a las Ciencias y las Artes a los ciudadanos que s
 
 XXIV.- Otorgar la Medalla al Mérito Deportivo de la Asamblea Legislativa del Distrito Federal, a los Mexicanos que en forma individual o en equipo, hayan obtenido triunfos trascendentales, en las diferentes actividades deportivas de carácter regional, nacional, o mundial, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXV.- Otorgar la medalla al Mérito Policial a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en reconocimiento al honor y distinción en el deber de mantener el orden público y la seguridad de los ciudadanos, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXV. Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 XXVI.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
@@ -190,17 +196,17 @@ XXX.- Dictar los acuerdos necesarios a fin de resolver las cuestiones que no est
 
 XXXI.- Invitar a particulares que puedan aportar información relevante para el objeto de la investigación, previo acuerdo de los integrantes de la Comisión de Investigación, Especial o Jurisdiccional, respectiva;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXII.- Designar a los Diputados y representantes de la Sociedad Civil que integran al Consejo de Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
+XXXII. Designar a los Comisionados Ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 XXXIII.- Remover a los Jefes Delegacionales conforme al procedimiento que se establezca en la presente ley;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXIV.- Remover a los Consejeros del Consejo de Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
+XXXIV. Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -324,9 +330,15 @@ X.- Asistir con puntualidad a las sesiones del Pleno de la Asamblea, de las Comi
 
 XI.- Justificar por escrito al Presidente respectivo de sus ausencias en las sesiones de Pleno, Comisiones o Comités;
 
-XII.- Informar semestralmente por escrito a la Comisión de Gobierno del cumplimiento de sus obligaciones; y
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XIV (SIC).- Acatar las disposiciones del Pleno y de la Mesa Directiva.
+XII.- Informar semestralmente a la Comisión de Gobierno, de manera impresa y por medio electrónico, magnético, óptico u otros, del cumplimiento de sus obligaciones.
+
+Los informes serán publicados en el sitio oficial de Internet de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+XIII.- Acatar las disposiciones del Pleno y de la Mesa Directiva.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -377,6 +389,18 @@ II.- Por estar en sesión de Pleno, cuando la reunión de la comisión a la que 
 III.- Por estar en reuniones de trabajo de comisiones, comités u órganos de trabajo de la Asamblea Legislativa, y
 
 IV.- Por cumplir con encomiendas oficiales mandatadas por el Pleno, la Comisión de Gobierno o los órganos de trabajo interno.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Exceptuando las inasistencias por causas médicas, los diputados no podrán justificar más de cinco ocasiones consecutivas en un mismo periodo ordinario y en más de tres durante la diputación permanente.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Sin perjuicio de lo establecido en el último párrafo del artículo 27 del Reglamento para el Gobierno Interior, la Coordinación General de Comunicación Social publicará al término de cada periodo ordinario y de la diputación permanente la lista de asistencia de cada diputado y los dictámenes aprobados en dos diarios de circulación nacional, publicándose de igual forma, en el sitio oficial de Internet de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El diputado que no asista a reuniones de Comisión o Comités y reúna más de tres faltas consecutivas, sin justificación alguna, causará baja de la misma, la cual, será notificada por el Presidente de la Comisión o Comité respectivo ante la Comisión de Gobierno y avalada por el Pleno de la Asamblea Legislativa.
 
 ## TITULO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA ASAMBLEA LEGISLATIVA
 
@@ -448,13 +472,21 @@ Cuando el presidente tome la palabra en el ejercicio de sus atribuciones permane
 
 La Mesa Directiva contará con la asistencia de la Coordinación de Servicios Parlamentarios, cuyas funciones determinará el Reglamento para el Gobierno Interior.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Durante el desarrollo de la sesiones, cualquier diputado podrá solicitar a la Mesa Directiva, por lo menos con 48 horas de anticipación, un intérprete traductor de lenguaje dactilológico, con el fin de traducir a la ciudadanía con discapacidad auditiva los asuntos que considere de su interés.
+
 ###### ARTÍCULO 36.
 
 Corresponde al Presidente de la Mesa Directiva:
 
-I.- Abrir y clausurar las sesiones del Pleno de la Asamblea, así como prorrogarlas o suspenderlas por causa justificada y, en su caso, declararlas en Sesión Permanente;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-II.- Adoptar las decisiones y medidas que se requieran para la organización del trabajo de las sesiones del Pleno;
+I.- Abrir y clausurar las sesiones del Pleno de la Asamblea, así como prorrogarlas, declararlas en receso, en sesión permanente, o suspenderlas por causa justificada;
+
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+II.- Adoptar las decisiones y medidas que se requieran para la organización del trabajo de las sesiones del Pleno, de conformidad con la presente Ley, el Reglamento para el Gobierno Interior de la Asamblea Legislativa y/o la práctica parlamentaria desarrollada en la Asamblea Legislativa;
 
 III.- Programar, en consulta con la Comisión de Gobierno, el desarrollo general de las sesiones;
 
@@ -488,15 +520,19 @@ XVI.- Representar a la Asamblea ante toda clase de autoridades administrativas, 
 
 XVII.- Requerir a los Diputados faltistas a concurrir a las sesiones de la Asamblea y disponer, en su caso, las medidas y sanciones que correspondan en los términos de esta ley y del Reglamento para el Gobierno Interior de la propia Asamblea;
 
-XVIII.- Dirigir al personal administrativo encargado de la seguridad y vigilancia del recinto de sesiones; y
+XVIII.- Dirigir al personal administrativo encargado de la seguridad y vigilancia del recinto de sesiones; y (sic)
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XIX.- Autorizar e instruir a la Tesorería, a realizar los descuentos a las dietas de los Diputados, en términos de lo dispuesto por la fracción X del artículo 17 de esta Ley, y
+XIX.- Autorizar e instruir a la Tesorería, a realizar los descuentos a las dietas de los Diputados, en términos de lo dispuesto por la fracción X del artículo 17 de esta Ley, y (sic)
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2007)</small>
 
-XX.- Ejercer las demás que prevean esta ley, el Reglamento para el Gobierno Interior y demás disposiciones que emita la Asamblea.
+XX.- Al finalizar cada periodo de sesiones, presentar un informe a la Comisión de Gobierno sobre los trabajos realizados por el Pleno a través de la Coordinación de Servicios Parlamentarios. Dicho informe deberá ser entregado de manera impresa y por medio electrónico, magnético, óptico u otros, y deberá ser publicado en la pagina oficial de Internet de la Asamblea Legislativa del Distrito Federal a más tardar 5 días hábiles después de finalizado el periodo de sesiones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2007)</small>
+
+XXI.- Ejercer las demás que prevean esta ley, el Reglamento para el Gobierno Interior y demás disposiciones que emita la Asamblea.
 
 ###### ARTÍCULO 37.
 
@@ -648,9 +684,15 @@ Esta se integrará de manera proporcional conforme al número de Diputados que c
 
 La Diputación Permanente será nombrada por la Asamblea en la última sesión del periodo ordinario por mayoría de los Diputados presentes, durarán en su encargo el periodo de receso respectivo, con posibilidad de reelección para el periodo inmediato.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+En la Diputación Permanente sólo podrán tener voz y voto los diputados que hayan sido designados por el Pleno de la Asamblea como titular o como sustituto. En ningún caso podrá participar ningún otro diputado que los señalados en el Acuerdo de la Comisión de Gobierno que haya sido aprobado por el Pleno.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
-El día hábil siguiente de la clausura de las sesiones ordinarias de la Asamblea, los Diputados que hubieren sido nombrados como miembros de la Diputación Permanente, se reunirán en el lugar que determine la Mesa Directiva del pleno de la Asamblea dentro de sus instalaciones, y nombrarán por mayoría de votos de sus asistentes a un Presidente, un Vicepresidente y dos Secretarios, hecha la elección, la Mesa Directiva de la Diputación Permanente tomará posesión de su cargo y lo comunicará a los otros órganos locales y federales de gobierno y demás dependencias o entidades que así se considere necesario.
+El día hábil siguiente al de la clausura de las sesiones ordinarias de la Asamblea, los diputados que hayan sido designados por el Pleno como integrantes y Mesa Directiva de la misma, se reunirán en el lugar que determine el Pleno, a través del Acuerdo de la Comisión de Gobierno, para hacer la declaratoria de apertura del periodo de sesiones de la Diputación Permanente que corresponda.
 
 El Presidente y el Vicepresidente pertenecerán a Grupos Parlamentarios distintos.
 
@@ -702,7 +744,9 @@ Las sesiones de la Diputación Permanente tendrán lugar por lo menos, una vez a
 
 Para que la Diputación Permanente sesione, se requerirá de la asistencia de por lo menos, la mitad más uno de sus integrantes.
 
-En el caso de que no se reúna el quórum necesario para sesionar, se citará de nuevo a sesión dentro de los dos días hábiles siguientes, misma que se llevará a cabo con la asistencia de los Diputados que se encuentren.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+En el caso de que no se reúna el quórum necesario para sesionar, el Presidente citará de nuevo a sesión dentro de esa misma semana. La sesión se podrá iniciar con la asistencia de los diputados que se encuentren en ese momento.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -728,7 +772,13 @@ La Diputación permanente seguirá en funciones aún durante los periodos extrao
 
 La Diputación Permanente, el último día de su ejercicio, deberá tener formado un inventario que contenga las memorias, oficios, comunicaciones y otros documentos que hubiere recibido durante el receso de la Asamblea Legislativa.
 
-El día siguiente al de la apertura del período de sesiones ordinarias, la Diputación Permanente remitirá por conducto de su Presidente, a la Mesa Directiva un informe sobre todos los asuntos que se encuentren en su poder pendientes de resolución, así como el inventario a que se refiere el párrafo anterior, a efecto de que la Asamblea proceda a su conocimiento y desahogo.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El día siguiente al de la apertura del período de sesiones ordinarias, la Diputación Permanente remitirá por conducto de su Presidente, a la Mesa Directiva un informe sobre todos los asuntos desahogados, los que se encuentren en su poder pendientes de resolución, así como el inventario a que se refiere el párrafo anterior, a efecto de que la Asamblea proceda a su conocimiento y desahogo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El informe al que se refiere el párrafo anterior deberá ser entregado de manera impresa y por medio electrónico, magnético, óptico u otros, y deberá ser publicado en la página oficial de Internet de la Asamblea Legislativa del Distrito Federal a más tardar 5 días hábiles después de finalizado el periodo de sesiones de la Diputación Permanente.
 
 ###### ARTÍCULO 58.
 
@@ -778,9 +828,9 @@ XIII.- Si durante el periodo de receso se diera ausencia definitiva de un Consej
 
 XIV.- Durante los recesos, conocer cuando los Diputados sean separados de su encargo, así como conocer de las licencias cuando sean aprobadas por la Comisión de Gobierno y citar al suplente para que rinda la protesta de ley correspondiente;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XV.- Durante los recesos, previo dictamen de la Comisión de Administración y Procuración de Justicia, aprobará y ratificará provisionalmente a los ciudadanos y Magistrados, según corresponda, dentro de los quince días siguientes a que se reciban los documentos a que se refiere el artículo 129 y sometiendo posteriormente al Pleno para su aprobación o ratificación definitiva;
+XV. Durante los recesos, previo dictamen de las Comisiones de Administración y Procuración de Justicia y de Asuntos Político-Electorales y con la deliberación de la Comisión de Gobierno, aprobará y ratificará provisionalmente a los ciudadanos y Magistrados del Tribunal Electoral del Distrito Federal, según corresponda, dentro de los quince días siguientes a que se reciban los documentos a que se refiere el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal; así como por el Capítulo II del Título Quinto de este ordenamiento, y los someterá al Pleno para su aprobación o ratificación definitiva;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -831,6 +881,26 @@ Cada comisión y comité tendrá una Secretaría Técnica quienes formarán part
 Las comisiones de Análisis y Dictamen Legislativo y de Vigilancia de la Contaduría Mayor de Hacienda se constituyen con carácter definitivo y funcionan para toda una legislatura. Para los efectos de esta ley son permanentes y se denominan ordinarias.
 
 Las comisiones ordinarias se integrarán e instalaran durante el mes de septiembre del año en que se inicie la legislatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Las comisiones ordinarias desarrollarán las tareas específicas siguientes:
+
+I. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas a las mismas en los términos de esta ley y demás ordenamientos aplicables.
+
+II. Realizar las actividades que se deriven de esta ley, de los ordenamientos aplicables, de los acuerdos tomados por el Pleno y los que adopten por sí mismas con relación a la materia o materias de su competencia.
+
+III. Impulsar y realizar estudios y proyectos de investigación que versen sobre diversas materias de su competencia.
+
+IV. Presentar por lo menos una vez al año, un proyecto de investigación al Instituto de Investigaciones Parlamentarias, con excepción de aquellas que por la carga de trabajo no estén en condiciones de llevarlo a cabo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos diez dictámenes en un año legislativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Lo anterior, será sin detrimento de lo que disponen los artículos 65 y 66 del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
@@ -953,6 +1023,10 @@ El análisis y dictamen legislativo, así como las discusiones y votaciones en c
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Todo dictamen que presenten las comisiones estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los dictámenes aprobados por la Comisión y que sean remitidos a la Mesa Directiva para su discusión en el Pleno deberá (sic) estar debidamente firmados por la mayoría de los integrantes de la Comisión, si la Comisión no cumple con la disposición antes señalada, el dictamen no podrá ser discutido por el Pleno de la Asamblea; asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros.
 
 Los Diputados dejarán de ser miembros de una comisión o comité cuando no acudan, sin causa justificada, a cuatro reuniones consecutivas de dicha comisión o comité. El Presidente de la comisión o comité notificará a la Comisión de Gobierno de los Diputados que incurran en este supuesto para los efectos correspondientes.
 
@@ -1198,19 +1272,57 @@ Los Grupos Parlamentarios deberán comunicar al Pleno, a través de la Comisión
 
 ARTÍCULO 87 BIS.- Los Grupos Parlamentarios y Coaliciones Parlamentarias podrán realizar entre ellos alianzas parlamentarias de carácter transitorio o permanente con la finalidad de establecer e impulsar agendas legislativas generales o específicas en común. Las alianzas parlamentarias transitorias serán las que se realicen para periodos ordinarios o extraordinarios específicos, mientras que las permanentes serán las que se constituyan para toda la Legislatura.
 
-### CAPITULO ÚNICO. DEL PROCEDIMIENTO LEGISLATIVO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)
+### CAPITULO X. DEL ARCHIVO HISTORICO DE LA ASAMBLEA LEGISLATIVA
 
-### CAPITULO I. DEL NOMBRAMIENTO DEL JEFE DE GOBIERNO SUSTITUTO
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
+ARTÍCULO 87 TER.- La Asamblea Legislativa contará con un Archivo Histórico que estará a cargo de la Oficialía Mayor y que se encargará de compilar y custodiar el acervo documental administrativo y legislativo producido por las distintas áreas del órgano legislativo del Distrito Federal, atendiendo a las disposiciones legales correspondientes.
+
+El Archivo Histórico tendrá un espacio específicamente destinado para su ubicación dentro de las instalaciones de la Asamblea Legislativa, mismo que deberá contar con las condiciones necesarias para la óptima conservación del acervo documental bajo su resguardo.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+ARTÍCULO 87 QUARTER.- El Archivo Histórico de la Asamblea Legislativa podrá ser consultado por el personal de la misma y por el público en general, de acuerdo con lo que establezcan las disposiciones legales en materia de acceso a la información pública.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+ARTÍCULO 87 QUINTUS.- En el Archivo Histórico de la Asamblea Legislativa deberán estar depositados los siguientes documentos, además de aquellos que establezcan las disposiciones jurídicas correspondientes:
+
+I. Informes de diputados, comisiones y Mesas Directivas; y
+
+II. Comunicaciones, Iniciativas, Dictámenes, Propuestas, Denuncias y Efemérides presentadas por las diputadas y diputados;
+
+Los documentos que posean las diputadas y los diputados, las Comisiones, Comités y Unidades Administrativas, estarán en su posesión para resguardo y consulta del público en general, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico de la Asamblea Legislativa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO XI. DEL SERVICIO PARLAMENTARIO DE CARRERA DE LA ASAMBLEA LEGISLATIVA
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+ARTÍCULO 87 SEXTUS.- Se instituye el Servicio Parlamentario de Carrera, con el propósito de profesionalizar y garantizar la continuidad integral de los trabajos jurídicos y legislativos, así como, hacer más eficientes los servicios de apoyo Parlamentario de la Asamblea Legislativa.
+
+Le corresponde a la Coordinación de Servicios Parlamentarios, establecer las bases para la planeación, organización, operación, desarrollo del Servicio Parlamentario de Carrera en la Asamblea Legislativa del Distrito Federal, conforme a la Ley del Servicio Parlamentario de Carrera de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+ARTÍCULO 87 SEPTIMUS.- La Ley del Servicio Parlamentario de Carrera de la Asamblea Legislativa, para la organización y funcionamiento, por lo menos deberá contener:
+
+I. La estructura de cada una de las Unidades Administrativas que integran los Servicios de Carrera y sus relaciones de mando y supervisión;
+
+II. Niveles o rangos propios, diferenciados de los cargos y puestos de la estructura orgánica de la Asamblea;
+
+III. Procedimientos para la permanencia y promoción del personal de carrera, y
+
+IV. Los programas de actualización y especialización que imparta
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPITULO II. DE LAS APROBACIONES Y RATIFICACIONES DE LOS MAGISTRADOS
+### CAPITULO ÚNICO. DEL PROCEDIMIENTO LEGISLATIVO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 83], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 88.
 
@@ -1238,7 +1350,9 @@ e).- Las demás que señalen las leyes.
 
 Las iniciativas presentadas por los Diputados y por el Jefe de Gobierno, previo turno dado por la Presidencia de la Mesa Directiva o de la Comisión de Gobierno, pasarán de inmediato a la Comisión o a las Comisiones respectivas para que se dictamine.
 
-Los proyectos de iniciativa de Leyes o Decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente. El tiempo para hacer uso de la tribuna con tal efecto, será no mayor a los treinta minutos, salvo acuerdo en contrario del Pleno de la Asamblea.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los proyectos de iniciativa de Leyes o Decretos que se presenten ante la Asamblea deberán ir acompañados de una exposición de motivos en la cual se fundamente y motive las razones del proyecto, así como de los antecedentes necesarios para poder pronunciarse sobre ellos, firmados cuando menos por su proponente, asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros. El tiempo para hacer uso de la tribuna con tal efecto, será no mayor a diez minutos cuando se trata de iniciativas, cinco minutos cuando se trate de puntos de acuerdo considerados como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el Gobierno Interior y tres minutos cuando se trate de puntos de acuerdo de conformidad a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
 
 Las iniciativas populares serán turnadas a una Comisión Especial integrada por miembros de las Comisiones competentes en la materia de la propuesta para el efecto de que verifique que se cumplan con los requisitos que la Ley de Participación Ciudadana establezca, y de ser procedente, la remitirá a la Mesa Directiva o a la Comisión de Gobierno en su caso, para que se dé el turno correspondiente. En caso contrario, se desechará de plano la iniciativa presentada.
 
@@ -1258,7 +1372,9 @@ II.- Que por mandato constitucional o estatutario se deba expedir la ley o el de
 
 III.- Por acuerdo de la Comisión de Gobierno con aprobación del Pleno de la Asamblea y en sus recesos por la Diputación Permanente.
 
-Las proposiciones con punto de acuerdo no pasarán a la siguiente legislatura.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Las proposiciones con punto de acuerdo e iniciativas populares no pasarán a la siguiente legislatura.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)
 
@@ -1282,9 +1398,9 @@ Las leyes y decretos que expida la Asamblea para su debida aplicación y observa
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS DE APROBACIÓN Y RATIFICACIÓN
 
-### CAPITULO III. DEL NOMBRAMIENTO DEL PRESIDENTE Y DE LOS CONSEJEROS DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
+### CAPITULO I. DEL NOMBRAMIENTO DEL JEFE DE GOBIERNO SUSTITUTO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 88], G.O. 30 DE MARZO DE 2005)
 
 ###### ARTÍCULO 94.
 
@@ -1332,9 +1448,17 @@ El nombramiento del Jefe de Gobierno sustituto requerirá del voto afirmativo de
 
 El Jefe de Gobierno sustituto rendirá protesta, en los términos dispuestos por el Estatuto de Gobierno: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el encargo de Jefe de Gobierno del Distrito Federal mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal, y si así no lo hiciere, que el pueblo me lo demande."
 
+### CAPITULO II. DE LAS APROBACIONES Y RATIFICACIONES DE LOS MAGISTRADOS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)</small>
+
 ###### ARTÍCULO 100.
 
 Compete a la Asamblea Legislativa del Distrito Federal, resolver sobre las propuestas y las designaciones que haga el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y del Tribunal de lo Contencioso Administrativo del Distrito Federal, así como, ratificar dichas propuestas y designaciones, en su caso, en términos de lo dispuesto por los artículos 42 fracción XXIV, 67 fracción VIII y 78 del Estatuto de Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Asimismo, compete a la Asamblea Legislativa, resolver sobre las propuestas y las designaciones que haga el Tribunal Superior de Justicia del Distrito Federal de Magistrados del Tribunal Electoral del Distrito Federal, así como, ratificar dichas propuestas y designaciones, en su caso, en términos de lo dispuesto por este capítulo.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 95], G.O. 30 DE MARZO DE 2005)
 
@@ -1342,11 +1466,17 @@ Compete a la Asamblea Legislativa del Distrito Federal, resolver sobre las propu
 
 Para los efectos del artículo anterior, los procedimientos de aprobación y ratificación se regirán conforme a lo siguiente:
 
-a.- La Mesa Directiva hará llegar a la Comisión de Administración y Procuración de Justicia, inmediatamente que las reciba, las propuestas y nombramientos, así como la documentación correspondiente tratándose de procedimiento de ratificación, según sea cada caso, que haga llegar el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y del Tribunal de lo Contencioso Administrativo del Distrito Federal y las mandará publicar de inmediato en por lo menos dos diarios de circulación nacional, a fin de que los interesados, dentro de los cinco días siguientes a la publicación, puedan aportar a la Comisión de Administración y Procuración de Justicia elementos de juicio.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+
+a. La Mesa Directiva hará llegar a la Comisión de Administración y Procuración de Justicia, inmediatamente que las reciba, las propuestas y nombramientos, así como la documentación correspondiente tratándose de procedimiento de ratificación, según sea cada caso, que haga llegar el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y del Tribunal de lo Contencioso Administrativo del Distrito Federal, en el caso de los Magistrados del Tribunal Superior de Justicia del Distrito Federal, las propuestas y nombramientos, se harán llegar por el Tribunal Superior de Justicia del Distrito Federal y las mandará publicar de inmediato en por lo menos dos diarios de circulación nacional, a fin de que los interesados, dentro de los cinco días siguientes a la publicación, puedan aportar a la Comisión de Administración y Procuración de Justicia elementos de juicio.
 
 Posteriormente, convocará al Pleno de la Asamblea para la celebración de la sesión correspondiente, en donde se trate la aprobación o ratificación, en su caso, de los mencionados servidores públicos con base en los dictámenes que emita la Comisión antes citada.
 
 La sesión a que se refiere el párrafo anterior, deberá celebrarse a más tardar al decimoquinto día siguiente a aquel en que se hayan recibido las propuestas, designaciones o ratificaciones, según sea el caso, por la Mesa Directiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Respecto de la aprobación o ratificación de los Magistrados del Tribunal Electoral del Distrito Federal, serán las Comisiones Unidas de Administración y Procuración de Justicia y de Asuntos Político-Electorales, quienes desahoguen el procedimiento, debiendo observarse lo dispuesto por la fracción XV del artículo 58 y el artículo 105 de este ordenamiento.
 
 b.- La Comisión de Administración y Procuración de Justicia citará a los ciudadanos propuestos, a más tardar al día siguiente a aquél en que reciba de la Mesa Directiva la propuesta de designación para ocupar el cargo de Magistrado o ratificación para continuar en el cargo, con la finalidad de que éstos comparezcan dentro de los cinco días siguientes.
 
@@ -1358,11 +1488,11 @@ e.- Podrán inscribirse para argumentar hasta diez Diputados, debiéndose cuidar
 
 f.- Terminadas las intervenciones de los Diputados inscritos, el Presidente de la Mesa Directiva someterá a votación el dictamen de la comisión.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 96], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 102.
 
-La aprobación o ratificación de cada propuesta, requerirá del voto de la mayoría de los Diputados presentes en la sesión.
+La aprobación o ratificación de cada propuesta requerirá del voto de la mayoría de los Diputados presentes en la sesión. Tratándose de los Magistrados del Tribunal Electoral del Distrito Federal se requerirá del voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 97], G.O. 30 DE MARZO DE 2005)
 
@@ -1372,17 +1502,25 @@ En caso de que una propuesta no fuese aprobada, se hará del inmediato conocimie
 
 En caso de que no sea aprobada la segunda propuesta o designación en forma sucesiva respecto de la misma vacante, el Jefe de Gobierno del Distrito Federal hará un tercero que surtirá sus efectos desde luego, de manera provisional, y que será sometido para su aprobación en términos de los artículos anteriores.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+En el caso del Tribunal Electoral del Distrito Federal, si alguno o algunos de los candidatos propuestos no alcanzara la votación requerida, el Tribunal Superior de Justicia del Distrito Federal deberá presentar otra lista con nuevas propuestas para cubrir las vacantes existentes, en términos de lo dispuesto por el artículo 224 del Código Electoral del Distrito Federal.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 104.
 
 Los Consejeros Ciudadanos del Consejo de Información Pública y Magistrados ratificados del Tribunal Superior de Justicia del Distrito Federal, del Tribunal Electoral del Distrito Federal y del Tribunal de lo Contencioso Administrativo rendirán protesta, en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal (el que corresponda), mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal, y si así no lo hiciere que el pueblo me lo demande."
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 99], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 105.
 
-Durante los recesos, la Diputación Permanente, previo dictamen de la Comisión de Administración y Procuración de Justicia, aprobará o ratificará provisionalmente a los ciudadanos y Magistrados, respectivamente dentro de los quince días siguientes a que se reciban los documentos a que se refiere el artículo 129, y los someterá al Pleno para su aprobación o ratificación definitiva.
+Durante los recesos, la Diputación Permanente, previo dictamen de las Comisiones Unidas de Administración y Procuración de Justicia y de Asuntos Político-Electorales, aprobará o ratificará previamente a los ciudadanos y Magistrados del Tribunal Electoral del Distrito Federal, en conjunto con la Comisión de Asuntos Político Electorales respectivamente, en coordinación con la Comisión de Gobierno, dentro de los quince días siguientes a que se reciban los documentos a que se refiere el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal; así como por el Capítulo II del Título Quinto de este ordenamiento, y los someterá al Pleno para su aprobación o ratificación definitiva.
+
+### CAPITULO III. DEL NOMBRAMIENTO DEL PRESIDENTE Y DE LOS CONSEJEROS DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 106.
 
@@ -1517,3 +1655,15 @@ G.O. 29 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación ante el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Una vez aprobado el presente dictamen, la Comisión de Gobierno a la brevedad acordará resolver la disolución de los Grupos Parlamentarios que no cumplan con los requisitos establecidos en los artículos 85 de la Ley Orgánica y 10 del Reglamento para el Gobierno Interior, ambos de la Asamblea Legislativa del Distrito Federal, conforme al acuerdo y dadas las condiciones políticas que para el efecto determine dicha comisión, asimismo, acordará la nueva integración de las Presidencias de Comisiones o Comités que de ella deriven.
+
+TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo del artículo 61 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, antepenúltimo y penúltimos párrafos del artículo 28 y la fracción VIII del artículo 73 del Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, entrarán en vigor una vez que esté conformado el Instituto de Investigaciones Parlamentarias.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
+
+QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
