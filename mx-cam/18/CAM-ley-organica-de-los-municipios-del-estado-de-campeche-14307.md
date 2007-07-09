@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2005-10-28"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -605,37 +605,29 @@ b) Los pueblos de Silvituc y Chan Laguna.
 
 c) Los ejidos de Altamira de Zináparo (Nuevo Zináparo), Adolfo López Mateos, Las Maravillas, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez N° 3 y Yazuchil.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
 ARTICULO 20 TER.- El Municipio de Calakmul comprende:
 
-I.- La congregación de Xpujil, cabecera del Municipio;
+I. La Villa de Xpujil, cabecera del Municipio;
 
-II.- La Sección Municipal de Constitución;
+II. La Sección Municipal de Constitución;
 
-II BIS.- (DEROGADA, P.O. 24 DE JUNIO DE 1998)
+III. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y sección municipal en la forma siguiente:
 
-III.- Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y sección municipal en la forma siguiente:
+1. A la Villa de Xpujil, cabecera del Municipio, corresponden:
 
-1. A la congregación de Xpujil, cabecera del Municipio, corresponden:
+a). El pueblo de Zoh-Laguna; y
 
-a) El pueblo de Zoh-Laguna; y
+b). Las congregaciones de: Aguas Amargas, Aguas Turbias, Arroyo Negro, Becán, Bel-Há, Bella Unión Ver. (Los Chinos), Blaisillo, Bonanza, Caña Brava, Carlos A. Madrazo, Centauro del Norte, Central Chiclera Villahermosa, Cerro de las Flores, Cristóbal Colón, Dieciséis de Septiembre (L. Alvarado), Dos Lagunas, Dos Lagunas (sic), Dos Naciones, E. Echeverría Castellot (El Carrizal), El Carmen II, El Porvenir, El Manantial, El Refugio, El Tesoro, Felipe Ángeles II, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Hermenegildo Galeana, Heriberto Jara Corona, Ing. Eugenio Echeverría Castellot, Ing. Ricardo Payro Jene (Polo Norte), José Morelos y Pavón (Civalito), Josefa Ortiz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas N° 2 (Ojo de Agua), La Amapola, La Lucha, La Lucha (sic), La Victoria, La Virgencita de la Candelaria, Ley de Fomento Agropecuario (La Misteriosa), Los Alacranes, Los Ángeles, Los Tambores de Emiliano Zapata, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pioneros del Río Xnohá, Placeres, Plan de Ayala (5 de Mayo), Quiché de las Pailas, Ricardo Flores Magón (Laguna Cooxlí), San Antonio, San José (Kilómetro 120), Santo Domingo, Santa Rosa, Tepeyac, Tomás Aznar B. (La Moza), Unidad y Trabajo, Unión 20 de Junio (Mancolona), Veinte de Noviembre, Veintiuno de Mayo (Lechugal), Veintidós de Abril, y Zoh-Laguna (Álvaro Obregón); y
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
+2. A la Sección Municipal de Constitución corresponden:
 
-b) Las congregaciones de: Aguas Amargas, Aguas Turbias, Arroyo Negro, Becán, Bel-Há, Bella Unión Ver. (Los Chinos), Blaisillo, Bonanza, Caña Brava, Carlos A. Madrazo, Centauro del Norte, Central Chiclera Villahermosa, Cerro de las Flores, Cristobal Colón, Dieciséis de Septiembre (L. Alvarado), Dos Lagunas, Dos Lagunas (sic), Dos Naciones, E. Echeverría Castellot (El Carrizal), El Carmen II, El Porvenir, El Manantial, El Refugio, El Tesoro, Felipe Angeles II, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Hermenegildo Galeana, Heriberto Jara Corona, Ing. Eugenio Echeverría Castellot, Ing. Ricardo Payro Jene (Polo Norte), José Morelos y Pavón (Civalito), Josefa Ortiz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas Nº 2 (Ojo de Agua), La Amapola, La Lucha, La Lucha (sic), La Victoria, La Virgencita de la Candelaria, Ley de Fomento Agropecuario (La Misteriosa), Los Alacranes, Los Angeles, Los Tambores de Emiliano Zapata, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pioneros del Río Xnohá, Placeres, Plan de Ayala (5 de Mayo), Quiché de las Pailas, Ricardo Flores Magón (Laguna Cooxlí), San Antonio, San José (Kilómetro 120), Santo Domingo, Santa Rosa, Tepeyac, Tomás Aznar B. (La Moza), Unidad y Trabajo, Unión 20 de Junio (Mancolona), Veinte de Noviembre, Veintiuno de Mayo (Lechugal), Veintidós de Abril, y Zoh-Laguna (Alvaro Obregón); y
+a). El pueblo de Constitución, cabecera de la Sección;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1998)</small>
+b). Los pueblos de: Xbonil, Conhuás y Concepción; y
 
-2.- A la Sección Municipal de Constitución corresponden:
-
-a) El pueblo de Constitución, cabecera de la Sección;
-
-b) Los pueblos de: Xbonil, Conhuás y Concepción; y
-
-c) Los ejidos de N.C.P.E. Benito Juárez, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Angeles, Santa Lucía, Pablo García, Kilómetro 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal y Plan de San Luis.
-
-3.- (DEROGADO, P.O. 24 DE JUNIO DE 1998)
+c). Los ejidos de N.C.P.E. Benito Juárez, N.C.P.E. Valentín Gómez Farías, N.C.P.E. Felipe Ángeles, Santa Lucía, Pablo García, Kilómetro 120, Emiliano Zapata, Eugenio Echeverría Castellot, Puebla de Morelia, El Chichonal y Plan de San Luis.
 
 ###### ARTICULO 21.
 
@@ -2964,3 +2956,11 @@ P.O. 28 DE OCTUBRE DE 2005.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE JULIO DE 2007.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- En su oportunidad y en sesión solemne, entréguese una copia en pergamino del presente decreto al H. Ayuntamiento del Municipio de Calakmul.
