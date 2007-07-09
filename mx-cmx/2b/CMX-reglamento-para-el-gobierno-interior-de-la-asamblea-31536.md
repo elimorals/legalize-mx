@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2006-12-29"
+last_updated: "2007-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -48,9 +48,13 @@ El presente Reglamento regula el funcionamiento y fija los procedimientos de del
 
 Las disposiciones del presente Reglamento son obligatorias para los Diputados a la Asamblea, la Mesa Directiva, la Comisión de Gobierno, la Diputación Permanente, las Comisiones y Comités y los Grupos Parlamentarios constituidos en el seno de la misma; así como para las unidades administrativas que determine su presupuesto.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 3.
 
-Para la interpretación e integración de las normas de este Reglamento, se estará a los principios y prácticas que mejor garanticen y reflejen la integración y las decisiones plurales de la Asamblea, la libre expresión de todos los diputados, la participación de todos los grupos parlamentarios y la eficacia y eficiencia en los trabajos de la Asamblea.
+Para la interpretación e integración de las normas de este Reglamento, se estará a los principios y prácticas que mejor garanticen y reflejen la integración y las decisiones plurales de la Asamblea, la libre expresión de todos los diputados, la participación de todos los grupos parlamentarios, la eficacia y eficiencia de los trabajos de la Asamblea y al principio de transparencia y rendición de cuentas de acuerdo con lo establecido en los ordenamientos de la materia.
+
+Se entiende como práctica parlamentaria, los principios generales del Derecho que se desarrollan en el desahogo de los procesos parlamentarios, que permiten la toma de decisiones para garantizar una conducción imparcial e institucional de los trabajos de la Asamblea, de sus Comisiones y Comités.
 
 ###### Artículo 4.
 
@@ -164,9 +168,17 @@ En el caso de que un Grupo Parlamentario se disuelva, el que fue coordinador inf
 
 Los Diputados de un Grupo Parlamentario que se disuelva no podrán incorporarse a otro grupo, habiéndose separado del primero se considerará sin partido o independientes.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-Los Diputados de un Grupo Parlamentario no podrán incorporarse a otro grupo, separados del primero se considerarán sin partido o independientes, pero conservarán los derechos y obligaciones que establece la Ley Orgánica y el presente Reglamento.
+Cuando de origen existan diputados pertenecientes a diferentes partidos políticos y que no alcancen el número mínimo para poder constituir un Grupo Parlamentario, éstos, podrán asociarse a efecto de conformar una Coalición Parlamentaria, en términos de lo que establezca la Ley Orgánica.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+En el caso de que un Grupo Parlamentario se disuelva, el que fue coordinador informará a la Mesa Directiva o en los recesos a la Comisión de Gobierno, para que ésta informe al Pleno.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los Diputados de un Grupo Parlamentario que se disuelva no podrán incorporarse a un Grupo Parlamentario, sólo podrán incorporarse a una Coalición Parlamentaria o habiéndose separado del primero se consideraran sin partido o independientes. En todo caso los Diputados conservarán los derechos y obligaciones que establece la Ley Orgánica y el presente Reglamento.
 
 ###### Artículo 13.
 
@@ -176,9 +188,15 @@ Cuando un partido político que tenga grupo en la Asamblea se fusione con otro, 
 
 La constitución, fusión e integración de un nuevo Grupo Parlamentario será notificado a la Mesa Directiva o, en los recesos a la Comisión de Gobierno, dentro de los cinco días siguientes en que haya tenido lugar, para que ésta informe al Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 15.
 
-Los Diputados que deseen abandonar el Grupo Parlamentario al que pertenezcan, serán considerados sin partido o independientes, y no podrán integrarse a un Grupo Parlamentario ya constituido, ni conformar uno nuevo.
+Los Diputados que deseen abandonar el Grupo Parlamentario al que pertenezcan podrán integrarse a una Coalición Parlamentaria ya constituida, pero no podrán conformar un nuevo Grupo o Coalición.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El diputado considerado independiente, no podrá presidir alguna Comisión o Comité de ésta Asamblea Legislativa.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -316,6 +334,18 @@ Las Comisiones conocerán en el ámbito de su competencia, de las Iniciativas, P
 
 Las Comisiones podrán efectuar directamente investigaciones, foros y consultas legislativas sobre los asuntos a su cargo; así como coadyuvar con el Comité de Atención, Orientación y Quejas Ciudadanas en la gestión de los asuntos que se les encomienden.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+En los casos de las investigaciones se estará a lo dispuesto por el artículo 61 de la Ley Orgánica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El plazo para la entrega de los proyectos de investigación al Instituto de Investigaciones Parlamentarias será al inicio del primer periodo de cada año legislativo, con excepción del año de inicio de la Legislatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Cada Comisión conformará un nuevo acervo sistematizado y ordenado de la información que generen para su consulta.
+
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 29.
@@ -358,9 +388,9 @@ Los Diputados integrantes de las Comisiones no tendrán ninguna retribución ext
 
 Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan sujetarse a votación.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
-Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. En todos los casos, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
+Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. Tratándose de dictámenes que contengan proposiciones, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular; cuando se trate de dictámenes que contengan iniciativas, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -371,6 +401,10 @@ Lo anterior sin detrimento de lo que dispone el artículo 89 del presente Reglam
 ###### Artículo 33.
 
 Para que haya dictamen de Comisión, el mismo deberá presentarse firmado por la mayoría de los Diputados que la componen. Si alguno o algunos de ellos disintiesen del parecer de dicha mayoría, podrán presentar voto particular por escrito.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva el (sic) Pleno para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución.
 
 ###### Artículo 34.
 
@@ -398,13 +432,13 @@ En las deliberaciones de las Comisiones sólo podrán participar los Diputados. 
 
 Cuando uno o más integrantes de una Comisión tuvieran interés personal en algún asunto que se remita al examen de ésta, se abstendrán de votar y firmar el dictamen y lo avisarán por escrito al Presidente de la misma.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 38.
 
-Los Presidentes de las Comisiones son responsables de los expedientes que en su caso, pasen para su estudio y, a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando fuesen devueltos.
+Los presidentes de las Comisiones y Comités son responsables de los expedientes que en su caso, pasen por su estudio y, a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando sean entregados, los dictámenes, a la Coordinación de Servicios Parlamentarios y enviados al Archivo Histórico de la Asamblea al término de cada legislatura.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
-
-Previo al término de la Legislatura, los Presidentes de Comisión presentarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales les serán entregados a la Coordinación General de Servicios Parlamentarios por escrito.
+Previo al término de la Legislatura, los Presidentes de Comisión y Comité presentarán un informe de las principales actividades desarrolladas por ésta, así como una memoria de las reuniones de trabajo y los principales resolutivos o acuerdos, los cuales serán enviados a la Coordinación de Servicios Parlamentarios, en 2 ejemplares, de manera impresa y por medio electrónico, magnético, óptico u otros. Dicho informe se entregará a la Comsisón (sic) de la Legislatura entrante y al Archivo Histórico, debiendo publicarse en el sitio oficial de Internet de la Asamblea Legislativa.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -570,11 +604,13 @@ II.- Convocar a estudiosos en las diversas ramas del conocimiento relacionadas c
 
 III.- Editar y publicar el órgano informativo denominado "Asamblea";
 
-IV.- Editar publicaciones con temas relacionados con el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+IV.- Editar las leyes aplicables en el Distrito Federal así como publicaciones con temas relacionados con el Distrito Federal;
 
 V.- Fomentar el análisis y estudio de temas relacionados con el Distrito Federal a través de foros, convenios con instituciones educativas de investigación o entidades privadas dedicadas a labores específicas;
 
-VI.- Publicar las memorias de la Asamblea;
+VI.- (DEROGADA, G.O. 9 DE JULIO DE 2007)
 
 VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito;
 
@@ -672,9 +708,13 @@ III. Llevar a cabo y proponer recorridos, por instrucciones de las Comisiones co
 
 IV. Promover y fomentar entre la ciudadanía y las dependencias y órganos de gobierno, la cultura de la corresponsabilidad en la observancia de las leyes que emita la Asamblea;
 
-V. Mantener una vinculación y comunicación estrecha con el Comité de Atención, Orientación y Quejas Ciudadanas a fin de atender los asuntos que se presenten derivados de la inobservancia de la normatividad aplicable en el Distrito Federal, y
+V. Mantener una vinculación y comunicación estrecha con el Comité de Atención, Orientación y Quejas Ciudadanas a fin de atender los asuntos que se presenten derivados de la inobservancia de la normatividad aplicable en el Distrito Federal, y (sic)
 
-VI. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante las autoridades.
+VI. Informar, semestralmente y por escrito, a la Comisión de Gobierno sobre las peticiones y quejas presentadas por los ciudadanos y las gestiones realizadas ante las autoridades;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VII.- Proponer al Comité de Asuntos Editoriales la edición de leyes o documentos que coadyuven a la difusión de la cultura de la legalidad.
 
 SEGUNDA PARTE
 
@@ -728,7 +768,13 @@ VII.- Cumplimentar los acuerdos que de orden administrativo emita el Comité de 
 
 VIII.- Publicar el Diario de los Debates;
 
-IX.- Las demás que le señale la Ley Orgánica y el presente Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2007)</small>
+
+IX.- Administrar y custodiar el Archivo Histórico de la Asamblea Legislativa y proponer a la Comisión de Gobierno para la aprobación, las normas de organización y gestión del mismo con base en el principio de transparencia y de conformidad con lo establecido en los ordenamientos jurídicos de la materia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 9 DE JULIO DE 2007)</small>
+
+X.- Las demás que le señale la Ley Orgánica y el presente Reglamento.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 58], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -894,7 +940,11 @@ V.- Fijar una política de comunicación social de acuerdo a los criterios que e
 
 VI.- Destinar de manera transparente y proporcional los recursos económicos, de tal forma que todos los Grupos Parlamentarios representados en la Asamblea tengan presencia en los medios de comunicación;
 
-VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diarios de circulación nacional, la lista de asistencia de los Diputados en los términos que se establecen en el artículo 27 de este Reglamento.
+VII.- Publicar en la página de internet de la Asamblea Legislativa y dos diarios de circulación nacional, la lista de asistencia de los Diputados en los términos que se establecen en el artículo 27 de este Reglamento;
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VIII. Incluir en cualquier transmisión que se realice de las sesiones de la Asamblea, la imagen del interprete-traductor a que se refiere el artículo 35 párrafo cuarto de la Ley Orgánica, a fin de dar mayor difusión a algún tema solicitado con antelación por el diputado.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 66], G.O. 30 DE MARZO DE 2005)
 
@@ -938,11 +988,17 @@ VI.- Editar las memorias de la Asamblea y el Diario de los Debates;
 
 VII.- Editar y Publicar la Gaceta Parlamentaria;
 
-VIII.- Coordinar los servicios de estenografía, grabación y sonido, debiendo conservar en el área correspondiente la grabación y versiones estenográficas de las sesiones de las Comisiones y Comités;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-IX.- Mandar a publicar las listas de asistencias de los Diputados en los términos previstos por el artículo 27 de este Reglamento; y
+VIII. Coordinar los servicios de estenografía, grabación y sonido, debiendo conservar en el área correspondiente la grabación y versiones estenográficas de las sesiones de las Comisiones y Comités.
 
-X.- Las demás que señale la Ley y el presente Reglamento.
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+IX. Ser el órgano técnico responsable de llevar a cabo el Servicio Parlamentario de Carrera de conformidad con la ley Orgánica de la Asamblea y Ley del Servicio Parlamentario de Carrera de la Asamblea
+
+X.- Mandar a publicar las listas de asistencias de los Diputados en los términos previstos por el artículo 27 de este Reglamento; y
+
+XI.- Las demás que señale la Ley y el presente Reglamento.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -978,7 +1034,13 @@ V.- Recopilar, ordenar y facilitar para su consulta, por parte del personal de l
 
 VI.- Establecer los mecanismos de colaboración y coordinación con Instituciones afines para el cumplimiento de sus objetivos.
 
-VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los interesados para su consulta. Asimismo, deberá determinar cuáles son las disposiciones legales vigentes en el Distrito Federal y resolver cuáles son las que quedan reformadas, derogadas o abrogadas.
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VII.- Compilar leyes expedidas por la Asamblea y ponerlas a disposición de los interesados para su consulta. Asimismo, deberá determinar cuáles son las disposiciones legales vigentes en el Distrito Federal y resolver cuáles son las que quedan reformadas, derogadas o abrogadas, y
+
+> <small>(ADICIONADA, G.O. 9 DE JULIO DE 2007)</small>
+
+VIII. Recibir los proyectos de investigación de las Comisiones a que se refiere el artículo 61 de la Ley Orgánica, además de recopilarlos y ordenarlos en un acervo sistematizado.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 71], G.O. 30 DE MARZO DE 2005)
 
@@ -1110,13 +1172,19 @@ La designación se hará en la víspera de la clausura de sesiones ordinarias y 
 
 La Diputación Permanente se integrará de manera proporcional conforme al número de Diputados que cada Grupo parlamentario posea en el pleno.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Sólo podrán participar en las sesiones de la Diputación Permanente los diputados que hayan sido designados por el Pleno como titulares o sustitutos.
+
 (REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 83.
 
 La Diputación Permanente sesionará los días y la hora en que el Presidente señale en la convocatoria respectiva.
 
-La Diputación Permanente no podrá suspender sus sesiones por más de cinco días hábiles, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+La Diputación Permanente sesionará por lo menos una vez a la semana, salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 81], G.O. 30 DE MARZO DE 2005)
 
@@ -1148,6 +1216,10 @@ III.- A los ciudadanos del Distrito Federal, de conformidad con la fracción IV 
 
 Las iniciativas de ley o decreto presentadas por uno o varios miembros de la Asamblea o por el Jefe de Gobierno, previo turno dado por el Presidente de la Mesa Directiva o de la Comisión de Gobierno pasarán desde luego a la comisión o comisiones procurando que no sean más de dos comisiones, mismas que deberán revisar, estudiar, analizar y reformar, en su caso, la iniciativa y formular su correspondiente dictamen.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Las iniciativas que presentes los diputados deberán ir de manera impresa y por medio electrónico, magnético, óptico u otros.
+
 Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], G.O. 30 DE MARZO DE 2005)</small>
@@ -1161,6 +1233,10 @@ Todo dictamen estará integrado por una adecuada fundamentación, motivación, a
 La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
 
 El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los dictámenes que se entreguen a la Mesa Directiva para su discusión en el Pleno de la Asamblea deberán estar acompañados de manera impresa y por medio electrónico, magnético, óptico u otros.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1222,11 +1298,17 @@ Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Dí
 
 4.- Comunicaciones de los órganos de gobierno del Distrito Federal.
 
-5.- Iniciativas de ley o decreto.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
-6.- Acuerdos Parlamentarios.
+5. Acuerdos Parlamentarios.
 
-7.- Dictámenes para discusión y votación.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+6. Dictámenes para discusión y votación.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+7. Iniciativas de ley o decreto.
 
 8.- Informe de las Comisiones y Comités.
 
@@ -1238,11 +1320,13 @@ Los asuntos a tratar en las sesiones ordinarias se listarán en el Orden del Dí
 
 12.- Asuntos Generales.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 90], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 93.
 
-Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee someter a conocimiento del Pleno deberán inscribirse ante la Mesa Directiva para su inclusión en el Orden del Día, por lo menos veinticuatro horas antes de la fijada para el inicio de la sesión, preferentemente a través del Coordinador del Grupo Parlamentario.
+Las iniciativas, peticiones, proposiciones o denuncias que algún Diputado desee someter a conocimiento del Pleno deberán inscribirse ante la Mesa Directiva para su inclusión en el Orden del Día, hasta las diecinueve horas del día hábil inmediato anterior del día fijado para la sesión, preferentemente a través del Coordinador del Grupo Parlamentario.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Sólo aquellas que revistan carácter de urgente, y así lo determine el pleno, podrán presentarse sin haber sido previamente inscritas y se desahogarán con posterioridad a las previamente registradas.
 
@@ -1269,6 +1353,10 @@ La Asamblea se reunirá a partir del 17 de septiembre de cada año para celebrar
 El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo de cada año y podrá prolongarse hasta el 30 de abril del mismo año.
 
 Durante sus recesos, la Asamblea podrá celebrar periodos de sesiones extraordinarias, previa convocatoria formulada por la Comisión de Gobierno a solicitud de la mayoría de los integrantes de dicha Comisión o del Jefe de Gobierno. La convocatoria respectiva deberá publicarse en dos diarios de mayor circulación en el Distrito Federal y fijará la fecha de inicio y término del periodo y el o los asuntos exclusivos a ser tratados durante el mismo.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Para el desarrollo de las sesiones, permanecerá en un lugar visible en el salón de sesiones del recinto de la Asamblea, un intérprete traductor de lenguaje dactilológico, solicitado a la Oficialía Mayor, con anterioridad por lo menos con 48 horas de anticipación por algún diputado, con el fin de traducir a la ciudadanía con discapacidad auditiva el asunto tratado en la misma.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 94], G.O. 30 DE MARZO DE 2005)
 
@@ -1310,7 +1398,9 @@ Se exceptúa de lo anterior la sesión inicial del primer periodo de sesiones de
 
 La Asamblea sesionará los días y a partir de la hora que el Presidente señale en la convocatoria respectiva.
 
-La Asamblea no podrá suspender sus sesiones por más de tres días hábiles salvo por caso fortuito o de fuerza mayor y siempre que así lo acuerde la mayoría de sus integrantes.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+La Asamblea celebrará por lo menos dos sesiones a la semana y no podrá suspender sus sesiones salvo por caso fortuito, de fuerza mayor o a propuesta de la Comisión de Gobierno y siempre que así lo acuerde la mayoría de sus integrantes y se repongan las sesiones en las semanas subsecuentes.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 99], G.O. 30 DE MARZO DE 2005)
 
@@ -1318,7 +1408,13 @@ La Asamblea no podrá suspender sus sesiones por más de tres días hábiles sal
 
 Se requiere de la asistencia de la mitad más uno de los Diputados que integran la Asamblea para abrir cada sesión.
 
-El Secretario de la Mesa Directiva pasará lista de presentes el inicio de la sesión y no existiendo el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El Secretario de la Mesa Directiva pasará lista de presentes al inicio de la sesión y no existiendo el quórum a que se refiere el párrafo anterior, lo informará al Presidente, quien deberá proceder a levantar la sesión y a citar a los presentes y ausentes el día y hora que considere pertinente en atención a los asuntos a tratar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+Se tomará en cuenta la asistencia de los diputados que se encuentren presentes en las reuniones de trabajo de las Comisiones o Comités de la Asamblea. Los Presidentes de los órganos de trabajo interno deberán notificar, por escrito, a la Mesa Directiva del Pleno, el nombre de los diputados que se encuentran en la reunión de trabajo o en su caso, la lista de asistencia de la reunión a realizarse a efecto de que sea considerada su asistencia a la sesión plenaria de la Asamblea.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 100], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1444,6 +1540,20 @@ Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general 
 
 Cuando un acuerdo de la Comisión de Gobierno sea presentado al Pleno para su conocimiento, cualquier Diputado podrá hacer uso de la palabra para solicitar alguna aclaración o mayor información, para lo cual un integrante de dicha Comisión realizará la aclaración correspondiente.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Los dictámenes que se refieren a puntos de acuerdo sólo podrán ser discutidos en lo general y no procederá en ningún sentido la discusión en lo particular, ni la reserva de sus resolutivos
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+###### Artículo 116 Bis.
+
+Cuando un acuerdo de la Comisión de Gobierno, o de cualquier otra Comisión o Comité, sea presentado al Pleno para su conocimiento, podrá ser sujeto a discusión participando de manera exclusiva hasta tres oradores en contra y tres oradores en pro.
+
+Finalizada la lista de hasta seis oradores, se someterá a votación del Pleno el acuerdo respectivo.
+
+Sólo para el caso de que no hayan existido oradores en contra o en pro, el Presidente de la Mesa Directiva autorizará a los Grupos Parlamentarios a que razonen su voto por conducto de uno de sus integrantes.
+
 (REUBICADO [N. DE E. ANTES ARTICULO 114], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 117.
@@ -1466,29 +1576,43 @@ Si no se cumple con este requisito, el dictamen no podrá ser discutido en la se
 
 Intervendrán en el debate los Diputados que al efecto se hubiesen inscrito. Igualmente podrán hacerlo quienes soliciten y obtengan del Presidente autorización para hacer uso de la palabra, en los términos del presente Reglamento.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+El presente artículo sólo será aplicable para la discusión de dictámenes y no se podrá invocar en la discusión de proposiciones consideradas de urgente y obvia resolución.
+
 (REUBICADO [N. DE E. ANTES ARTICULO 117], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 120.
 
 El Presidente elaborará el registro de oradores que intervendrán en los debates cuando se presenten a discusión los dictámenes de las Comisiones. El orden se conformará de la siguiente manera:
 
-I.- Intervención de un miembro de la Comisión dictaminadora, fundando y motivando el dictamen;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+I.- Intervención de un miembro de la Comisión dictaminadora, fundando y motivando el dictamen, por un tiempo máximo de cinco minutos, en el caso de un dictamen a una iniciativa el tiempo máximo será de 10 minutos;
 
 II.- Lectura de votos particulares;
 
 III.- Discusión en lo general, en la que se concederá el uso de la palabra de manera alternada a los oradores en contra y a los oradores en pro, de modo que pueda hacer uso de la palabra por lo menos un Diputado miembro de cada uno de los Grupos Parlamentarios que deseen intervenir. Siempre se iniciará el debate con los oradores inscritos en contra; de no haberse registrado ninguno, no harán uso de la palabra los oradores en pro.
 
-De no haber oradores en contra o en pro, o desahogadas dichas intervenciones los Grupos Parlamentarios podrán hacer uso de la palabra para razonar su voto por conducto de uno de sus integrantes.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+De no haber oradores en contra o en pro, o desahogadas dichas intervenciones los Grupos Parlamentarios podrán hacer uso de la palabra para razonar su voto por conducto de uno de sus integrantes. Sólo podrá participar un diputado por cada Grupo Parlamentario.
 
 IV.- Discusión en lo particular de los capítulos o artículos que al inicio del debate se hayan reservado.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Esta fracción no será aplicable a los dictámenes que se refieren a proposiciones con puntos de acuerdo.
+
 La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 118], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 121.
 
-Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, propuestas que sean consideradas como de urgente y obvia resolución y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de hasta 30 minutos.
+Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, la presentación de artículos para ser discutidos en lo particular y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de hasta diez minutos, cinco minutos cuando se trate de puntos de acuerdo consideradas como de urgente y obvia resolución, conforme a lo establecido en el artículo 133 del Reglamento para el gobierno Interior y tres minutos cuando se trate de puntos de acuerdo conforme a lo establecido en el artículo 132 del Reglamento para el Gobierno Interior.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Cuando se trate de propuestas, pronunciamientos y denuncias a que se refiere el artículo 92 numeral 10 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
 
@@ -1544,6 +1668,10 @@ Si en el curso del debate alguno de los oradores hiciese alusiones sobre la pers
 
 En estos casos el Presidente concederá el uso de la palabra inmediatamente después de que haya concluido el turno del Diputado que profirió las alusiones.
 
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Las alusiones personales tienen preferencia sobre las alusiones de partido. No proceden las alusiones sobre alusiones.
+
 (REUBICADO [N. DE E. ANTES ARTICULO 125], G.O. 30 DE MARZO DE 2005)
 
 ###### Artículo 128.
@@ -1582,15 +1710,21 @@ I.- Deberá presentarse por escrito y firmada por su o sus autores al Presidente
 
 II.- El Presidente turnará a la Comisión o Comisiones correspondientes, la propuesta presentada para su análisis y dictamen.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 133.
 
-Sólo podrán dispensarse del procedimiento a que se refiere la fracción segunda del artículo anterior, aquellos asuntos que por acuerdo expreso de la Asamblea se califiquen de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
+Sólo podrán dispensarse del procedimiento a que se refiere la fracción segunda del artículo anterior, aquellos asuntos que sean presentados con veinticuatro horas de anticipación ante la Comisión de Gobierno y que la Asamblea califique de urgente y obvia resolución. En estos casos, la proposición se decidirá inmediatamente después de que su autor la haya presentado.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 De considerarse un asunto de urgente y obvia resolución, se pondrá a discusión inmediatamente pudiendo hacer uso de la palabra de manera exclusiva, hasta dos Diputados en contra y dos en pro e inmediatamente se preguntará al Pleno si se aprueba o no la proposición. De ser aprobada se le dará el trámite correspondiente y, en caso contrario, no se dará trámite ulterior, teniéndose por desechada.
 
-Si durante la discusión se profirieron alusiones, éstas deberán desahogarse inmediatamente.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Si durante la discusión se profirieron alusiones, éstas deberán desahogarse inmediatamente. No proceden las alusiones sobre alusiones. El Presidente de la Mesa Directiva no podrá autorizar las rectificaciones de hechos, ni el uso de la palabra fundamentado en el artículo 119 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Salvo la hipótesis planteada en este precepto, ninguna proposición podrá decidirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas la hayan analizado y dictaminado.
 
@@ -1702,7 +1836,9 @@ La Asamblea contará con una publicación oficial denominada "Diario de los Deba
 
 No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
 
-La Asamblea a través de las unidades administrativas competentes, garantizará que los Diputados tengan acceso a las versiones estenográficas y a la información que se genere en las sesiones, a través de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. Asimismo, garantizará que la población en general tenga acceso a la información contenida en el Diario de los Debates.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+La Asamblea a través de las unidades administrativas competentes, garantizará que los Diputados y el público en general tengan acceso al Diario de los Debates, a las versiones estenográficas y a la información que se genere en las sesiones, a través del sitio oficial de Internet de la Asamblea Legislativa, de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. El Diario de los Debates de cada una de las sesiones deberá publicarse en el sitio oficial de Internet de la Asamblea Legislativa, a más tardar 10 días hábiles contados a partir del día siguiente a la celebración de cada sesión de Pleno. Para garantizar que lo anterior se cumpla, los diputados deberán entregar de manera impresa y por medio electrónico, magnético, óptico u otros, todo documento que dirijan al Pleno de la Asamblea Legislativa.
 
 ### CAPITULO II. DE LAS COMPARECENCIAS DE SERVIDORES PÚBLICOS
 
@@ -1726,15 +1862,25 @@ Cuando los servidores públicos de la Administración Pública del Distrito Fede
 
 Las comparecencias de los servidores públicos a que se refiere las fracciones XVII del artículo 42 y XII del artículo 67 del Estatuto, se sujetarán a las normas que al efecto acuerde la Comisión de Gobierno.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 147], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 150.
 
-Los servidores públicos que comparezcan ante el pleno, cuando se trate algún asunto relacionado con su ramo, deberán presentar un informe por escrito así como información general útil para el desarrollo de la comparecencia, con cuarenta y ocho horas de anticipación a la celebración de la sesión correspondiente, para su distribución entre los Diputados. Quedarán exceptuados de lo anterior los servidores públicos que sean citados con extrema urgencia.
+Los servidores públicos que comparezcan ante el pleno, cuando se trate algún asunto relacionado con su ramo, deberán presentar un informe por escrito así como información general útil para el desarrollo de la comparecencia, con setenta y dos horas de anticipación a la celebración de la sesión correspondiente, para su distribución entre los Diputados. Quedarán exceptuados de lo anterior los servidores públicos que sean citados con extrema urgencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El servidor público que comparezca tendrá un tiempo máximo de 10 minutos para exponer su informe, de igual forma, el diputado que realice su posicionamiento a nombre del Grupo Parlamentario o Coalición Parlamentaria contará con un tiempo máximo de cinco minutos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+
+El párrafo anterior no se aplicará cuando se realice el informe anual sobre el estado que guarda la Administración Pública del Distrito Federal, que presente el Jefe de Gobierno del Distrito Federal.
 
 La Asamblea, a través de sus unidades administrativas competentes, implementará los sistemas de cómputo, mecanismos e instrumentos que garanticen la más expedita, ágil, eficiente y económica distribución de los informes y la información a que se refiere al párrafo anterior entre los Diputados.
 
-Una vez rendido el informe se procederá a su discusión por los Diputados, quienes podrán formular al servidor público las preguntas que estimen convenientes, cuyo número y orden será, en todo caso, establecido de acuerdo al presente reglamento, de acuerdo al formato que para tal efecto determine la Comisión correspondiente.
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
+Una vez rendido el informe se procederá a su discusión por los Diputados, quienes podrán formular al servidor público las preguntas que estimen convenientes, en una sola ronda, de acuerdo al formato que para tal efecto determine la Comisión correspondiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1868,13 +2014,25 @@ Los Diputados llevarán un registro de los asuntos que les sean planteados y dar
 
 Las audiencias públicas se celebrarán, de preferencia, en plazas, jardines o locales de fácil acceso, a fin de propiciar el acercamiento con la población. Las autoridades de la Administración Pública local deberán proporcionar a los Diputados, a través de la Comisión de Gobierno, las facilidades necesarias para la celebración de estas audiencias.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 163], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 168.
 
-Cada Diputado presentará un informe semestral por escrito a la Comisión de Gobierno durante los meses de febrero y agosto de cada año. En dicho informe se asentarán los resultados de su acción en materias de consulta, promoción, gestión y supervisión en favor de la comunidad.
+Cada Diputado presentará un informe semestral de manera impresa y por medio electrónico, magnético, óptico u otros, a la Comisión de Gobierno, durante los meses de febrero y agosto de cada año.
 
-Asimismo, señalará en su informe su desempeño en el cumplimiento de las atribuciones y obligaciones que la Ley Orgánica y su Reglamento de la Asamblea Legislativa establecen.
+Dicho informe deberá contener, al menos, los siguientes rubros:
+
+I. Comunicaciones, iniciativas, propuestas, pronunciamientos, denuncias y efemérides presentadas ante el Pleno, la Diputación Permanente o la Comisión de Gobierno, según sea el caso;
+
+II. Actividades legislativas realizadas dentro de las comisiones o comités:
+
+III. Gestiones realizadas y el estatus en el que se encuentra cada una de ellas al momento de presentar el informe;
+
+IV. Participaciones en foros, seminarios, mesas de trabajo, mesas redondas y demás actividades de contacto ciudadano;
+
+V. Viajes realizados que tengan relación con su labor parlamentaria; y
+
+VI. Cualquier otra información que considere relevante con base en los principios de máxima transparencia y rendición de cuentas.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2126,19 +2284,23 @@ Si del resultado del dictamen resultaren dos candidatos, uno en el área de la C
 
 En caso de ser dos dictámenes cada presidente de la Comisión ya sea de Ciencia y Tecnología o de Cultura podrá hacer uso de la Tribuna para dar lectura al dictamen correspondiente.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 192.
 
-Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de agosto del año que corresponda una sola convocatoria que contemple a las Ciencias y las Artes.
+Para conceder los Reconocimientos, las Comisiones unidas elaborarán, durante la primera quincena del mes de octubre del año que corresponda una sola convocatoria que contemple a las Ciencias y las Artes.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 193.
 
-Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día quince del mes de octubre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
+Las propuestas de candidatos a recibir el reconocimiento deberán ser entregadas a más tardar el día quince del mes de noviembre siguiente por la sociedad en general, conforme al artículo 180, ante la Comisión respectiva.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 A la Comisión de Ciencia y Tecnología le corresponde recibir las propuestas de candidatos al reconocimiento en las Ciencias.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 A la Comisión de Cultura le corresponde recibir las propuestas de candidatos al reconocimiento relacionadas con las Artes.
 
@@ -2192,11 +2354,11 @@ La Comisión al dictaminar, tomará en cuenta la exposición de méritos que se 
 
 No será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro del periodo de convocatoria, a menos, de que así lo establezca la misma, en particular sobre alguna de las ramas.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 197.
 
-El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera quincena del mes de noviembre del año que corresponda.
+El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera semana del mes de diciembre del año que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2240,17 +2402,19 @@ La Comisión de Seguridad Pública presentará ante el Pleno de la Asamblea Legi
 
 El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 202.
 
-La Comisión de Seguridad Pública deberá formular la convocatoria correspondiente en la segunda quincena del mes de agosto del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+La Comisión de Seguridad Pública deberá formular la convocatoria correspondiente en la primera quincena del mes de octubre del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 203.
 
-Las propuestas y la documentación correspondiente de los candidatos para ser merecedores a la Medalla al Mérito Policial, serán presentadas por la comunidad, así como por los miembros en activo de los diversos cuerpos de seguridad pública, del primero de septiembre al quince de noviembre del año que corresponda, ante la Comisión de Seguridad Pública.
+Las propuestas y la documentación correspondiente de los candidatos para ser merecedores a la Medalla al Mérito Policial, serán presentadas por la comunidad, así como por los miembros en activo de los diversos cuerpos de seguridad pública, del dieciséis de octubre al quince de noviembre del año que corresponda, ante la Comisión de Seguridad Pública.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Además de los requisitos señalados en el artículo 180 se deberá tomar en cuenta a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
 
@@ -2400,7 +2564,9 @@ I.- Que la persona física haya aportado evidentes beneficios en diversas áreas
 
 II.- Que se hayan registrado acontecimientos que hayan dado pauta para la transformación política y social, preferentemente del Distrito Federal o en su caso, del país;
 
-III.- La solicitud de inscripción en letras de oro deberá suscribirse por al menos, el 33% de los Diputados que integran la Legislatura. Dicha solicitud deberá justificar debidamente la inscripción solicitada, y
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+
+III. La solicitud de inscripción en letras de oro deberá suscribirse por al menos, el 33% de los diputados que integran la Legislatura. Dicha solicitud deberá justificar debidamente la inscripción solicitada, debiendo presentarse como una iniciativa con proyecto de Decreto, y
 
 IV.- La inscripción deberá ser aprobada por dos terceras partes de los integrantes de la legislatura.
 
@@ -2475,3 +2641,15 @@ G.O. 29 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación ante el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Una vez aprobado el presente dictamen, la Comisión de Gobierno a la brevedad acordará resolver la disolución de los Grupos Parlamentarios que no cumplan con los requisitos establecidos en los artículos 85 de la Ley Orgánica y 10 del Reglamento para el Gobierno Interior, ambos de la Asamblea Legislativa del Distrito Federal, conforme al acuerdo y dadas las condiciones políticas que para el efecto determine dicha comisión, asimismo, acordará la nueva integración de las Presidencias de Comisiones o Comités que de ella deriven.
+
+TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo del artículo 61 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, antepenúltimo y penúltimos párrafos del artículo 28 y la fracción VIII del artículo 73 del Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, entrarán en vigor una vez que esté conformado el Instituto de Investigaciones Parlamentarias.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
+
+QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
