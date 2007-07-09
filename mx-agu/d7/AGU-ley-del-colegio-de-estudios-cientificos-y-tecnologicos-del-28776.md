@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-colegio-de-estudios-cientificos-y-tecnologicos-del-2877
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-03"
-last_updated: "1994-07-03"
+last_updated: "2007-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
 
@@ -109,15 +109,19 @@ III.- Los Directores de Area; y
 
 IV.- Los Directores de Plantel.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-La Junta Directiva será la máxima autoridad del Colegio y estará presidida por el Director General del Instituto de Educación de Aguascalientes, además tendrá los siguientes miembros;
+La Junta Directiva será la máxima autoridad del Colegio y estará integrada de la siguiente manera:
 
-I.- Un representante del Gobierno Federal, designado por el Secretario de Educación Pública;
+I. Dos representantes del Gobierno del Estado, designados por el Gobernador del Estado, de los cuales uno de ellos la presidirá;
 
-II.- Un representante del sector social a invitación del Gobernador del Estado; y
+II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-III.- Dos representantes del sector productivo a invitación del Gobernador del Estado.
+III. Un representante del Sector Social, designado por el Gobernador del Estado; y
+
+IV. Dos representantes del Sector Productivo, mismos que serán designados a invitación del Gobierno del Estado, quienes además participarán en actividades para el fincamiento del Colegio mediante la conformación del Patronato.
 
 ###### ARTICULO 8o.
 
@@ -163,9 +167,11 @@ La Junta Directiva sesionará válidamente con la asistencia de, cuando menos, t
 
 La Junta Directiva sesionará en forma ordinaria trimestralmente y en forma extraordinaria cuando sea necesario para su debido funcionamiento. Las convocatorias las hará el Secretario.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 13.
 
-El Director General del Colegio será nombrado y removido por el Gobernador del Estado, durará en su cargo tres años y podrá ser confirmado un segundo período.
+El Director General del Colegio será nombrado y removido por el Gobernador del Estado.
 
 ###### ARTICULO 14.
 
@@ -209,9 +215,23 @@ XIII.- Aceptar las donaciones, legados y demás liberalidades que se otorguen en
 
 XIV.- Las demás que le otorgue la Junta Directiva y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 16.
 
-El Colegio contará con dos áreas específicas, cada una tendrá como titular a un Director: Area Académica y Area Administrativa.
+El Colegio para su funcionamiento contará con las siguientes Direcciones de Área, auxiliares directas de la Dirección General:
+
+I. Dirección Académica;
+
+II. Dirección Administrativa;
+
+III. Dirección de Planeación;
+
+IV. Dirección de Vinculación; y
+
+V. Dirección Jurídica.
+
+La Junta Directiva aprobará la estructura básica del Colegio y la creación de las oficinas necesarias para el funcionamiento de la dependencia, misma que deberá ser acorde a las aprobadas por la Coordinación Nacional de Organismos Descentralizados Estatales de los Colegios de Estudios Científicos y Tecnológicos.
 
 ###### ARTICULO 17.
 
@@ -350,3 +370,19 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuéllar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En virtud de las reformas de la presente Ley, la Junta Directiva del Organismo, realizará las adecuaciones al Reglamento Interior en un plazo no mayor de 90 días.
+
+###### ARTÍCULO TERCERO.
+
+Para la conformación del patronato, la junta directiva del organismo contará con un plazo de 120 días contados a partir de la entrada en vigencia del presente Decreto.
