@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2003-01-23"
+last_updated: "2007-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -37,13 +37,19 @@ QUE EL LII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C
 
 LEY DE SALUD DEL ESTADO DE YUCATAN
 
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO UNICO
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO I. DEL OBJETO Y FINES DE LA LEY
+
+> <small>(REFORMADO, D.O. 9 JULIO DE 2007)</small>
 
 ###### ARTICULO 1.
 
-La presente Ley tiene por objeto establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado, y con la concurrencia de sus municipios, la competencia del Estado en materia de Salubridad Local, fijando las normas mediante las cuales el propio Estado ejercerá sus atribuciones en la prestación de los servicios de salubridad a que se refiere el apartado B del artículo 13 de la Ley General de Salud, es de aplicación general en Yucatán y sus disposiciones de orden público e interés social.
+La presente Ley tiene por objeto establecer las bases y modalidades para el acceso a los servicios de salud pública en el Estado, con la concurrencia de los municipios. Además, establece las atribuciones en materia de salubridad general previstas en el apartado B del artículo 13 de la Ley General de Salud; sus disposiciones son de orden público e interés social.
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -53,17 +59,33 @@ El derecho a la protección de la salud previsto en el artículo 4o. de la Const
 
 I.- El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
 
-II.- La prolongación y el mejoramiento de la calidad de la vida humana;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+II.- Prolongar la vida humana;
 
-IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+III.- Mejorar la calidad de vida de las personas, mediante la realización de acciones y políticas públicas que contribuyan al desarrollo integral de las personas;
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+IV.- Fomentar los valores que coadyuven a la creación, conservación, fomento y disfrute de condiciones de salud que contribuyan al desarrollo social;
+
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+V.- Promover actitudes solidarias y responsables de la población en la preservación, conservación, prevención, mejoramiento y recuperación de la salud física y psicosocial;
+
+> <small>(REFORMADA D.O. 9 DE JULIO DE 2007)</small>
+
+VI.- El disfrute de los servicios de salud y asistencia social, que satisfagan eficaz y oportunamente las necesidades de la población;
+
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, y
+
+> <small>(ADICIONADA, D.O. 9 DE JULIO DE 2007)</small>
+
+VIII.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud.
 
 ###### ARTICULO 3.
 
@@ -77,7 +99,9 @@ III.- Estado, al Gobierno del Estado de Yucatán;
 
 IV.- Organismo, a los Servicios Coordinados de Salud Pública en el Estado de Yucatán; y
 
-V.- Sesa, a la Secretaría Estatal de Salud.
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+V.- Ley de Prevención, la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado.
 
 ###### ARTICULO 4.
 
@@ -91,7 +115,11 @@ III.- El Organismo, representado por el C. Jefe de los Servicios Coordinados de 
 
 IV.- Los Ayuntamientos en sus jurisdicciones respectivas, en los términos de los convenios que celebren con el Estado.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 5.
+
+El Consejo Estatal de Prevención de Adicciones es el organismo auxiliar, encargado de coadyuvar con la Secretaría de Salud del Gobierno del Estado, en la prevención de las adicciones, de conformidad a lo establecido en la Ley de la materia.
 
 Para los efectos de esta Ley, el Estado ejercerá sus facultades de Autoridad Sanitaria a través de la Secretaría de Salud del Gobierno Federal y por conducto de los Servicios Coordinados de Salud Pública en el Estado.
 
@@ -99,9 +127,11 @@ Para los efectos de esta Ley, el Estado ejercerá sus facultades de Autoridad Sa
 
 Corresponde al Estado como Autoridad Sanitaria Estatal, la aplicación de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 7.
 
-En los términos del artículo 13 apartado B de la Ley General de Salud y conforme a sus disposiciones, corresponde al Estado de Yucatán:
+En los términos del artículo 13 Apartado B de la Ley General de Salud, corresponde al Estado:
 
 A.- En materia de Salubridad General:
 
@@ -139,11 +169,17 @@ XVI.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
 XVII.- La coordinación con la Secretaría de Salud y el Consejo de Salubridad General para la ejecución de los programas contra el alcoholismo y el abuso de bebidas alcohólicas;
 
-XVIII.- La coordinación con dependencias y entidades del sector salud en la ejecución del programa nacional contra la farmacodependencia que elabore la Secretaría;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-XIX.- La coordinación con la Secretaría de Salud y el Consejo de Salubridad General para la ejecución del programa contra el tabaquismo;
+XVIII.- La coordinación con las dependencias y los sectores social y privado, para la ejecución del programa nacional contra la fármaco dependencia y de prevención de las adicciones, que elabore la Secretaría;
 
-XX.- La organización, operación y supervisión de los servicios de atención médica en sus formas preventivas, curativas y de rehabilitación;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+XIX.- La coordinación con la Secretaría de Salud y el Consejo de Salubridad General, para la ejecución del programa contra el tabaquismo y la protección de los no fumadores;
+
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+XX.- La organización, operación y supervisión de los servicios de atención médica en las modalidades: Preventiva, curativa y de rehabilitación;
 
 XXI.- La prestación del servicio de Asistencia Social;
 
@@ -189,169 +225,195 @@ XIII.- Establecimientos de hospedaje;
 
 XIV.- Transporte estatal y municipal;
 
-XV.- Gasolinerías;
+XV.- Gasolinerías (sic);
 
 XVI.- Vendedores ambulantes;
 
 XVII.- Campaña contra la hidrofobia;
 
-XVIII.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, en sujeción a las políticas Nacional y Estatal de Salud y los convenios que al efecto se celebren; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE JULIO DE 2007)</small>
 
-XIX.- Las demás materias que determine esta Ley y otras disposiciones generales aplicables.
+XVIII.- Venta de Bebidas Alcohólicas;
 
-### CAPITULO I. DISPOSICIONES COMUNES
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO II. DISTRIBUCION DE COMPETENCIA
+XIX.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a las políticas Nacional y Estatal de Salud y los convenios que al efecto se celebren, y
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 9 DE JULIO DE 2007)</small>
 
-## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+XX.- Las demás materias que determine esta Ley y otras disposiciones generales aplicables.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 8.
+### CAPITULO II. DEL SISTEMA DE SALUD
 
-El Sistema Estatal de Salud está constituido por las Dependencias y entidades públicas y las personas físicas y morales de los sectores social y privado que presten servicios de salud en Yucatán, así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho a la protección de la salud en el territorio de esta Entidad Federativa.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el desarrollo del Estado de Yucatán, definirá los mecanismos de Coordinación y colaboración en materia de planeación de los servicios de salud en el Estado de conformidad con las disposiciones de esta Ley y las que al efecto sean aplicables.
+###### ARTICULO 7-A.
 
-###### ARTICULO 9.
+El Sistema Estatal de Salud, está constituido por las Dependencias, entidades y organismos públicos, así como de las personas físicas y morales de los sectores social y privado que presten servicios de salud en el Estado. De igual modo, los distintos mecanismos de coordinación, para proteger el derecho a la salud en el territorio estatal.
+
+El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado de Yucatán, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud, de conformidad con las disposiciones de esta Ley, la Ley de Prevención y las que al efecto fueren aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-B.
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 I.- Proporcionar los servicios de salud a toda la población de Yucatán y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios de la Entidad y a los factores que condicionen y causen daños a la salud, poniendo especial interés en las acciones preventivas;
 
 II.- Contribuir al desarrollo demográfico armónico de la Entidad;
 
-III.- Colaborar al bienestar social de la Población de la Entidad, mediante servicios de asistencia social principalmente a menores en estado de abandono, ancianos, desamparados y minusválidos para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+III.- Colaborar al bienestar social de la Población de la Entidad, mediante servicios de asistencia social principalmente a menores en estado de abandono, ancianos, desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y el crecimiento físico y mental de la niñez;
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente de la Entidad, que propicien el desarrollo satisfactorio de la vida;
 
-VI.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+VI.- Impulsar en el ámbito estatal, un sistema de administración y desarrollo de recursos humanos, para la salud de las personas;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen los hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+VII.- Coadyuvar a la modificación de los patrones culturales que determinan los hábitos, costumbres y actitudes, relacionados con la salud y el uso de los servicios que se proporcionen para su protección, y
 
-###### ARTICULO 10.
+VIII.- Contribuir en la consecución de los fines previstos en la Ley de Prevención.
 
-La coordinación del Sistema Estatal de Salud estará a cargo del Estado en su carácter de Autoridad Sanitaria, correspondiéndole lo siguiente:
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-I.- Establecer y conducir la política estatal en materia de salud en los términos de esta Ley y demás disposiciones aplicables, acorde con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+###### ARTICULO 7-C.
+
+Corresponde al Estado como autoridad sanitaria, la coordinación del Sistema Estatal de Salud:
+
+I.- Establecer y conducir la política estatal en materia de salud en los términos de esta Ley y demás disposiciones aplicables, acorde con las políticas del Sistema Nacional de Salud y lo dispuesto por el Ejecutivo Estatal;
 
 II.- Coordinar los programas de servicios de salud de las Dependencias y Entidades de la Administración Pública Estatal;
 
-III.- Apoyar la coordinación de los programas y servicios de salud de toda Dependencia o Entidad pública estatal en los términos de la Legislación aplicable y de los acuerdos de coordinación que en su caso se celebre.
+III.- Apoyar la coordinación de los programas y servicios de salud de toda Dependencia o Entidad pública estatal, en los términos de la Legislación aplicable y de los acuerdos de coordinación que en su caso se celebre.
 
 En el caso de los programas y servicios de las Instituciones Federales de Seguridad Social, el apoyo se realizará tomando en cuenta lo que previenen las leyes que rigen el funcionamiento de las mismas;
 
-IV.- Impulsar, en los términos de los Convenios que al efecto se suscriben, la Desconcentración y Descentralización de los Servicios de Salud a los municipios;
+IV.- Impulsar, en los términos de los Convenios que al efecto se suscriban, la desconcentración y descentralización de los servicios de salud a los municipios;
 
 V.- Evaluar los programas y servicios de salud en Yucatán;
 
-VI.- Determinar la periodicidad y características de la información que deberán proporcionar las Dependencias y Entidades de Salud en Yucatán, con sujeción a las disposiciones generales aplicables;
+VI.- Determinar la periodicidad y características de la información que deberán proporcionar las Dependencias y Entidades de salud, con sujeción a las disposiciones generales aplicables;
 
-VII.- Coordinar el proceso de programación de las actividades de salud en Yucatán, con sujeción a las disposiciones legales aplicables;
+VII.- Coordinar el proceso de programación de las actividades de salud, con sujeción a las disposiciones legales aplicables;
 
-VIII.- Formular recomendaciones a las Dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+VIII.- Formular recomendaciones a las Dependencias competentes, sobre la asignación de los recursos que requieran los programas de salud del Estado;
 
-IX.- Impulsar en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
+IX.- Impulsar en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud física y psicosocial;
 
-X.- Coadyuvar con las Dependencias Federales competentes, a la regulación y control de la transferencia de tecnología en el área de la salud;
+X.- Coadyuvar con las Dependencias Federales competentes, en la regulación y control de la transferencia de tecnología en el área de la salud;
 
-XI.- Promover el establecimiento de un Sistema Estatal de información básica en materia de salud;
+XI.- Promover el establecimiento de un Sistema Estatal de Información, en materia de salud y de prevención de las adicciones;
 
-XII.- Apoyar la coordinación entre las Instituciones de Salud y Educativas en Yucatán tanto Estatales como Federales, para formar y capacitar recursos humanos para la salud;
+XII.- Apoyar la coordinación entre las Instituciones de Salud y Educativas, tanto Estatales como Federales, para formar y capacitar recursos humanos para la salud;
 
 XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIV.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
 
-XV.- Determinar la forma de coordinación de asistencia social en los términos de la Ley de la materia;
+XV.- Determinar la forma de coordinación de asistencia social en los términos de la Ley en la materia;
 
 XVI.- Analizar las disposiciones aplicables en materia de salud y formular propuestas de reforma y adiciones a las mismas;
 
-XVII.- Celebrar bases de coordinación sanitaria con los Gobiernos de los Estados circunvecinos sobre aquellas materias que sean de interés común; y
+XVII.- Celebrar acuerdos de coordinación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común, y
 
 XVIII.- Ejercer las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
-###### ARTICULO 11.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-La Autoridad Sanitaria Estatal promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores Público, Social y Privado, así como de los trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+###### ARTICULO 7-D.
 
-Asimismo, la coordinación de los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
+La autoridad sanitaria estatal promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores Público, Social y Privado, así como de los trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
-###### ARTICULO 12.
+Asimismo, la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
-La concentración de acciones entre Autoridades Sanitarias y los integrantes de los sectores Social y Privado para garantizar la prestación de los servicios de salud, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-E.
+
+La concertación de acciones entre autoridades sanitarias y los integrantes de los sectores social y privado, para garantizar la prestación de los servicios de salud, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores Social y Privado;
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Autoridad Sanitaria;
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de la Autoridad Sanitaria; y
+III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de la Autoridad Sanitaria, y
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
-###### ARTICULO 13.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-La competencia de las Autoridades Sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
+###### ARTICULO 7-F.
 
-###### ARTICULO 14.
+La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
 
-El Gobierno del Estado con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO II. ATENCION MEDICA
+###### ARTICULO 7-G.
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+El Gobierno del Estado con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal y al Consejo Estatal de Prevención de Adicciones, elaborará los programas de salud y de prevención de las adicciones, tomando en cuenta las prioridades y los servicios de los sistemas nacional y estatal de salud.
 
-###### ARTICULO 15.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-Corresponde al Estado por conducto de los Servicios Coordinados de Salud Pública en Yucatán:
+### CAPITULO III. DE LA COORDINACION Y COMPETENCIAS
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-H.
+
+Corresponde al Estado por conducto de los Servicios Coordinados de Salud Pública:
 
 A.- En materia de salubridad General:
 
 I.- Aplicar y vigilar el cumplimiento de las normas técnicas que emita la Secretaría;
 
-II.- Organizar, Supervisar y Evaluar la prestación de los servicios de salud a que se refiere el apartado A del artículo 7 de esta Ley y operar los que son de su competencia;
+II.- Organizar, supervisar y evaluar la prestación de los servicios de salud a que se refiere el apartado A del artículo 7 de esta Ley y operar los que son de su competencia;
 
 III.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
-IV.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
+IV.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones legales aplicables;
 
-V.- Celebrar con la Federación los acuerdos de coordinación en materia de Salubridad General concurrente y los servicios en los que en los términos de la fracción VI del artículo 116 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios cuando el desarrollo económico y social lo hagan necesario.
+V.- Celebrar con la Federación, los acuerdos de coordinación en materia de salubridad general concurrente y la prestación de los servicios que en los términos de la fracción VI del artículo 116 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo hagan necesario.
 
-Celebrar los convenios con los Municipios para la prestación de los servicios sanitarios locales, o la atención de las funciones de salud; y
+Celebrar los convenios con los Municipios para la prestación de los servicios sanitarios locales, o la atención de las funciones de salud, y
 
-VI.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley Federal, de ésta y de otras disposiciones legales aplicables.
+VI.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley Federal, de esta Ley y de otras disposiciones legales aplicables.
 
 B.- En materia de salubridad local:
 
-I.- Dictar normas técnicas y ejercer el control sanitario de los establecimientos y servicios de salubridad a que se refiere el Apartado B del artículo 7 de esta Ley;
+I.- Dictar las normas técnicas y ejercer el control sanitario de los establecimientos y servicios de salubridad a que se refiere el Apartado B del artículo 7 de esta Ley;
 
-II.- Llevar a cabo los programas y acciones que en materia de salubridad local se implanten; y
+II.- Llevar a cabo los programas y acciones que en materia de salubridad local se implementen, y
 
 III.- Vigilar en la esfera de su competencia el cumplimiento de esta Ley y demás disposiciones legales aplicables.
 
-###### ARTICULO 16.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-I.
 
 Para los efectos de esta Ley se entiende por:
 
-a) NORMA TECNICA: Al conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas en materia de salubridad general por la Secretaría de Salud, al tenor de lo dispuesto por el artículo 14 de la Ley General; y
+a) NORMA TÉCNICA: Al conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas en materia de salubridad general por la Secretaría de Salud, al tenor de lo dispuesto por el artículo 14 de la Ley General, y
 
-b) NORMA TECNICA LOCAL: Al conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Estado como Autoridad Sanitaria, que establecen los requisitos que deben satisfacer en la organización y prestación de servicios así como en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias.
+b) NORMA TÉCNICA LOCAL: Al conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Estado como Autoridad Sanitaria, que establecen los requisitos que deben satisfacer en la organización y prestación de servicios así como en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias.
 
-###### ARTICULO 17.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-El Estado a través de los Servicios Coordinados de Salud Pública, podrá convenir con los Ayuntamientos la prestación, por parte de éstos, de los servicios de salubridad general concurrente y salubridad local, cuando su desarrollo económico y social lo hagan necesario.
+###### ARTICULO 7-J.
 
-###### ARTICULO 18.
+El Estado a través de los Servicios Coordinados de Salud Pública, podrá convenir con los Ayuntamientos, la prestación por parte de éstos, de los servicios de salubridad general concurrente y salubridad local, cuando el desarrollo económico y social lo hagan necesario.
 
-Corresponde al Titular del Poder Ejecutivo, a través de la Secretaría de Educación Pública, fomentar y promover el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y de especialidades que requiere el desarrollo estatal en materia de salud.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 19.
+###### ARTICULO 7-K.
+
+Corresponde al Titular del Poder Ejecutivo, a través de la Secretaría de Educación Pública, fomentar, promover e implementar el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y de especialidades que requiera el desarrollo estatal en materia de salud.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-L.
 
 Compete a los Ayuntamientos:
 
@@ -359,47 +421,147 @@ I.- Asumir en los términos de esta Ley y de los Convenios que suscriban con el 
 
 II.- Asumir la administración de los establecimientos municipales de salud que descentralice en su favor el Estado, en los términos de las leyes aplicables y de los convenios que al efecto se celebren;
 
-III.- Formular y desarrollar programas municipales en el marco de los Sistemas Nacional y Estatal de Salud, de acuerdo con los principios y objetivos de los planes Nacional, Estatal y Municipales de Desarrollo; y
+III.- Formular y desarrollar programas municipales en el marco de los Sistemas Nacional y Estatal de Salud, de acuerdo con los principios y objetivos de los planes Nacional, Estatal y Municipal de Desarrollo, y
 
-IV.- Vigilar y hacer cumplir en la esfera de su competencia, la Ley General, la presente Ley y las demás disposiciones legales aplicables.
+IV.- Vigilar y hacer cumplir en la esfera de su competencia, la Ley General, la presente Ley, la Ley de Prevención, y los demás ordenamientos aplicables.
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 20.
+###### ARTICULO 7-M.
 
 Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general; quedarán afectos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la Legislación Fiscal aplicable.
 
-###### ARTICULO 21.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-El Gobierno del Estado y los Municipios, en los términos de los Convenios que se celebren, darán prioridad a los problemas de salud pública que se presenten en la Entidad.
+###### ARTICULO 7-N.
 
-###### ARTICULO 22.
+El Gobierno del Estado y los Municipios, en los términos de los convenios que se celebren, darán prioridad a los problemas de salud pública que se presenten en la entidad.
 
-El Estado podrá celebrar convenios de Coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos sobre aquellas materias que sean de su interés común.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 23.
+###### ARTICULO 7
 
-El Estado podrá celebrar con la Federación, a través de la Secretaría de Salud en el marco del Convenio Unico de Desarrollo, y de conformidad con la legislación aplicable, acuerdos de coordinación a fin de que éste asuma temporalmente, a petición del propio Estado, la prestación de los servicios a que se refiere el artículo 13 apartado B de la Ley General.
+Ñ.- El Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común.
 
-###### ARTICULO 24.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-O.
+
+El Estado, a través de la Secretaría de Salud, podrá celebrar con la Federación en el marco del convenio de desarrollo social y de conformidad con la legislación aplicable, los acuerdos de coordinación necesarios, a fin de que éste asuma temporalmente a petición del propio Estado, la prestación de los servicios a que se refiere el artículo 13 apartado B de la Ley General de Salud.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-P.
 
 La prestación de los servicios de Salubridad a que se refiere el artículo anterior, quedará a cargo de los Servicios Coordinados de Salud Pública en el Estado, estructura administrativa establecida coordinadamente entre el Gobierno del Estado y la Federación, con personalidad jurídica y patrimonio propios, así como funciones de Autoridad Sanitaria Estatal en su caso, de conformidad con los instrumentos legales de creación, y a quien en lo sucesivo, únicamente para los efectos de esta Ley se denominará "El Organismo". Dicho Organismo tendrá a su cargo la aplicación, en el ámbito Estatal de la Legislación Sanitaria Federal y Estatal, de conformidad con las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-Q.
+
+El estado de conformidad con la legislación aplicable, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios, para la correcta operación de los servicios de salubridad general, comprendidos en los acuerdos de coordinación que al efecto celebren.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7-R.
+
+Los recursos que aporten quedarán expresamente afectados a los fines del acuerdo respectivo y sujetos a la legislación fiscal que les corresponda. La gestión de los mismos quedará a cargo del Organismo.
+
+## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+###### ARTICULO 8.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 9.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 10.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 11.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 12.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 13.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 14.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+### CAPITULO II. DISTRIBUCION DE COMPETENCIA
+
+###### ARTICULO 15.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 16.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 17.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 18.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 19.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 20.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 21.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 22.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 23.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 24.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
 ###### ARTICULO 25.
 
-El Estado, de conformidad con la legislación aplicable aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios para la correcta operación de los servicios de salubridad general que queden comprendidos en los acuerdos de coordinación que al efecto celebren.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 26.
 
-Los recursos que aporten, quedarán expresamente afectados a los fines del acuerdo respectivo y sujetos a la legislación fiscal que les corresponda. La gestión de los mismos quedarán a cargo del Organismo.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
+> <small>(REFORMADO SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. PRESTADORES DE SERVICIOS PARA LA SALUD
+## TITULO TERCERO. DE LOS SERVICIOS DE SALUD
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 27.
 
-Para los efectos de esta Ley, se entiende por servicios de salud todas aquellas acciones que se realicen en beneficio del individuo y de la población del Estado de Yucatán, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
+Para los efectos de esta Ley, se entiende por servicios de atención para la salud, todas aquellas acciones que se realicen en beneficio de las personas, dirigidas a proteger, promover y recuperar la salud.
 
 ###### ARTICULO 28.
 
@@ -410,6 +572,18 @@ I.- De atención médica;
 II.- De salud pública; y
 
 III.- De asistencia Social.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 28-A.
+
+Las actividades de atención para la salud son:
+
+I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, incluyendo urgencias, y
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las deficiencias físicas y mentales.
 
 ###### ARTICULO 29.
 
@@ -463,39 +637,39 @@ La Secretaría, coadyuvará con las demás Dependencias Estatales y Federales pa
 
 El Estado, en coordinación con las Dependencias competentes del Ejecutivo Federal, coadyuvará a asegurar en la Entidad la adecuada distribución, comercialización y fijación de los precios máximos de venta al público de los medicamentos y demás insumos de salud.
 
-### CAPITULO IV
-
-USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD.
+### CAPITULO II. ATENCION MEDICA
 
 ###### ARTICULO 36.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar la salud.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 37.
 
-Las actividades de atención médica son:
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-I.- Preventivas, que incluyen las de promoción general y las de protección específica;
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, incluyendo urgencias; y
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
-
-### CAPITULO V. ATENCION MATERNO INFANTIL
+### CAPITULO III. DE LAS MODALIDADES
 
 ###### ARTICULO 38.
 
 Para los efectos de esta Ley, los servicios para la salud, atendiendo a los prestadores de los mismos, se clasifican en:
 
-I.- Servicios públicos a la población en general;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-II.- Servicios sociales y privados sea cual fuere la forma en que se contraten;
+I.- Servicios públicos a población abierta;
 
-III.- A derechohabientes de la Institución encargada de la Seguridad Social de los trabajadores al Servicio del Estado y de los Municipios, o los que con sus propios recursos o por encargo del Poder Ejecutivo Estatal presta la misma institución a otros grupos de usuarios; y
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
-IV.- Otros que se presten de conformidad con lo que al respecto establezca el Gobierno del Estado.
+II.- Servicios Públicos a derechohabientes del Estado y de los Municipios;
+
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+III.- De tipo social, y
+
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+IV.- Servicios Privados.
 
 ###### ARTICULO 39.
 
@@ -543,11 +717,15 @@ El Organismo, en coordinación con las Autoridades Educativas competentes y del 
 
 El organismo coadyuvará con las Autoridades Educativas competentes para la promoción y fomento de la Constitución de Colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, estimulando su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las Autoridades Sanitarias, cuando éstas lo requieran.
 
-### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO IV. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 49.
 
-Para efectos de esta Ley se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad establece esta Ley y demás disposiciones legales aplicables.
+Para efectos de esta Ley, se considera usuario de los servicios de salud, a toda persona que reciba de los sectores público, social o privado, en las condiciones y conforme a las bases que para cada modalidad establece esta Ley, la Ley de Prevención y los demás ordenamientos aplicables.
 
 ###### ARTICULO 50.
 
@@ -565,19 +743,27 @@ El Organismo establecerá los procedimientos para regular las modalidades de acc
 
 Las Autoridades Sanitarias competentes en Yucatán y las instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requiera, así como mecanismos para que los mismos o solicitantes presten (sic) sus quejas, reclamaciones y sugerencias respecto a la prestación de esos servicios y en relación a la falta de probidad en su caso, de los servidores públicos.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 54.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o de alguna persona que requiera la prestación urgente de los servicios de salud, cuidarán por los medios a su alcance, sea trasladado a los establecimientos más cercanos de salud, en los que pueda recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+Las personas o instituciones públicas o privadas, que tengan conocimiento de accidentes o de alguna persona que requiera la prestación urgente de los servicios de salud, cuidarán por los medios a su alcance y previa atención necesaria, procure su trasladado a los establecimientos más cercanos de salud, sin perjuicio de su posterior remisión a otras instituciones.
 
 ###### ARTICULO 55.
 
 De conformidad con lo que señalen las disposiciones generales aplicables, los Agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran servicios de urgencia, deberán disponer sean trasladadas de inmediato al establecimiento más cercano.
 
-### CAPITULO VII. ATENCION DE SALUD MENTAL
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO V. DE LA PARTICIPACION COMUNITARIA
+
+> <small>(REFORMADO Y REUBICADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 56.
 
-La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población de Yucatán.
+La participación de la comunidad en los programas de protección de la salud y prevención de las adicciones y, en la prestación de los servicios respectivos, tendrá por objeto fomentar una cultura de la corresponsabilidad social, fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento de los estándares de calidad de dichos servicios.
+
+(REUBICADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 57.
 
@@ -585,7 +771,9 @@ La comunidad podrá participar en los servicios de la salud de los sectores púb
 
 I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar los problemas de ella, e intervención en programas de promoción y mejoramiento de la misma y de prevención de enfermedades y accidentes;
 
-II.- Colaboración en la prevención o tratamiento de problemas ambientales vinculados con la salud;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+II.- Colaboración en la prevención y tratamiento de las adicciones y los problemas de tipo ambiental;
 
 III.- Incorporación como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social y participación en determinadas actividades de operación de los servicios de salud bajo la dirección y control de las autoridades correspondientes;
 
@@ -597,23 +785,33 @@ VI.- Información a las autoridades competentes, de las irregularidades o defici
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+(REUBICADO, D.O. 9 DE JULIO DE 2007)
+
 ###### ARTICULO 58.
 
 El organismo, promoverá y apoyará la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y rehabilitación de inválidos.
 
+> <small>(REFORMADO Y REUBICADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 59.
 
-Para los efectos del artículo anterior, y con sujeción a la legislación aplicable, en las cabeceras municipales, delegaciones municipales, comisarías y ejidos en su caso, se constituirán comités de salud, los cuales tendrán como objetivo participar en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan a la salud de la población. Dichos comités podrán ser integrados por núcleos de población urbana, rural o indígena.
+Para los efectos del artículo anterior y con sujeción a la legislación aplicable, en los distintos núcleos de población, se constituirán comités de salud y de prevención de las adicciones, los cuales tendrán como objetivo, participar en el mejoramiento y vigilancia de los servicios de salud de sus localidades, para promover una conciencia sobre los factores de riesgo, que inciden en la salud de la población. Dichos comités podrán ser integrados por núcleos de población urbana, rural o indígena.
+
+(REUBICADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 60.
 
 Los Ayuntamientos con sujeción a las disposiciones legales aplicables, en coordinación con las Instituciones de Salud y las Autoridades Educativas competentes, tendrán la responsabilidad de organizar los comités a que se refiere el artículo anterior y de que se cumplan los fines para los que sean creados.
 
+(REUBICADO, D.O. 9 DE JULIO DE 2007)
+
 ###### ARTICULO 61.
 
 Se concede acción popular para denunciar ante las Autoridades Sanitarias, todo hecho, acto u omisión que presente un riesgo o provoque un daño a la salud de la población, bastando para darle curso, el señalamiento de los datos que permitan localizar la causa del riesgo. La acción popular podrá ejercitarse por cualquier persona.
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+(REUBICADO [N. DE E. ANTES CAPITULO V], D.O. 9 DE JULIO DE 2007)
+
+### CAPITULO VI. ATENCION MATERNO INFANTIL
 
 ###### ARTICULO 62.
 
@@ -665,9 +863,11 @@ A fin de proteger la salud del educando y de la comunidad escolar en general, la
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las Autoridades Sanitarias y Educativas.
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO VI], D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. FORMACION, CAPACITACION, Y ACTUALIZACION DEL PERSONAL
+### CAPITULO VII. PLANIFICACION FAMILIAR
+
+### CAPITULO VIII. ATENCION DE SALUD MENTAL
 
 ###### ARTICULO 68.
 
@@ -697,7 +897,9 @@ Los comités de salud a que se refiere el artículo 59 de esta Ley, promoverán 
 
 El Gobierno del Estado coadyuvará con la Secretaría en las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población y del programa de Planificación Familiar del Sector Salud, cuidará que se incorporen a los programas Estatales de Salud.
 
-### CAPITULO UNICO
+(REUBICADO [N. DE E. ANTES CAPITULO VII], D.O. 9 DE JULIO DE 2007)
+
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 ###### ARTICULO 72.
 
@@ -729,19 +931,21 @@ El Organismo conforme a las normas técnicas que establezca la Secretaría prest
 
 Al efecto, se establecerá la coordinación necesaria entre las Autoridades Sanitarias, judiciales, administrativas y otras según corresponda.
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 76.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas y cualquier persona que esté en contacto con los mismos, procurará la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurará la atención inmediata de los menores, que presenten alteraciones de conducta que indiquen la existencia de enfermedades mentales o de adicciones a sustancias psicotrópicas, siendo aquellos solidarias de su mejoramiento y rehabilitación.
 
-Para tal efecto, podrán obtener orientación y el asesoramiento de las instituciones públicas destinadas a la atención de enfermos mentales.
+Para tal efecto, podrán obtener orientación y asesoramiento de las instituciones públicas, destinadas a la atención de enfermos mentales y adictos.
 
-### CAPITULO UNICO
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. FORMACION, CAPACITACION, Y ACTUALIZACION DEL PERSONAL
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 77.
 
@@ -773,7 +977,9 @@ En el caso de que exista convenio entre el Gobierno del Estado y el Ejecutivo Fe
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que identifique la institución que les expidió el título, diploma o certificado en su caso y el de la correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y publicidad que realicen a su respecto.
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DE LA INVESTIGACION
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 81.
 
@@ -801,11 +1007,13 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 El Estado como Autoridad Sanitaria, con la participación de las Autoridades de las Instituciones de Educación Superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. DE LA INFORMACION
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 86.
 
-Las Autoridades Educativas, en coordinación con las Autoridades Sanitarias y con la participación de las Instituciones de Educación Superior, recomendarán normas y criterios, para la formación de recursos humanos para la salud.
+Las autoridades educativas en coordinación con las de salud, propondrán con la participación de las instituciones de educación superior, normas y criterios para la formación de recursos humanos para la salud y prevención de las adicciones.
 
 ###### ARTICULO 87.
 
@@ -839,27 +1047,29 @@ Los aspectos docentes de Internado de Pre-Grado y de las Residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las Instituciones de salud y lo que determinen las Autoridades Sanitarias competentes.
 
-## TITULO QUINTO. INVESTIGACION PARA LA SALUD
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+## TITULO QUINTO. DE LA INVESTIGACION E INFORMACION PARA LA SALUD
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 91.
 
-Al tenor de lo dispuesto por la Ley General, la investigación para la salud comprende el desarrollo de acciones que contribuyan:
+Son fines de la investigación para la Salud:
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+I.- El conocimiento de los procesos biológicos y psicológicos en los seres humanos;
 
-I.- Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+II.- El estudio de los factores de riesgo y protección, así como las causas de las enfermedades, prácticas médicas y su relación con el entorno social;
 
-II.- Al conocimiento de los vínculos entre las causas de enfermedades, las prácticas médicas y estructura social;
+III.- Identificar los problemas de salud prioritarios para la población;
 
-III.- A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+IV.- Analizar los efectos nocivos del medio ambiente en la salud y de los factores de riesgo y protección, que inciden en el consumo de sustancias psicotrópicas;
 
-IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+V.- Estudiar las técnicas y métodos que se recomienden o empleen, para la prestación de servicios de salud; y
 
-V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de servicios de salud; y
-
-VI.- A la producción nacional de insumos para la salud.
+VI.- Contribuir a la producción nacional de insumos para la salud.
 
 ###### ARTICULO 92.
 
@@ -891,37 +1101,57 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto p
 
 En el tratamiento de una persona enferma, el médico podrá usar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, establecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine la Ley General, esta Ley y otras disposiciones aplicables.
 
-### CAPITULO V. SALUD OCUPACIONAL
-
-## TITULO SEXTO. INFORMACION PARA LA SALUD
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-###### ARTICULO 96.
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 95-A.
 
 El Estado, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública en Yucatán. La información se referirá, fundamentalmente, a los siguientes aspectos:
 
-I.- Estadísticas de Natalidad, Mortalidad, Morbilidad e Invalidez.
+I.- Estadísticas de Natalidad, Mortalidad, Morbilidad e Invalidez;
 
-II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
 III.- Recursos Físicos, Humanos y Financieros disponibles para la protección de la salud de la población y su utilización.
 
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 95-B.
+
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud señalen las autoridades sanitarias locales y proporcionarán a éste y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales.
+
+## TITULO SEXTO. INFORMACION PARA LA SALUD
+
+### CAPITULO II. EDUCACION PARA LA SALUD
+
+###### ARTICULO 96.
+
+(DEROGADO, D.O 9 DE JULIO DE 2007)
+
 ###### ARTICULO 97.
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliadores de la salud del Estado, llevarán a cabo estadísticas que en materia de salud señalen las Autoridades Sanitarias locales y proporcionarán a éste y a las Autoridades Federales competentes, la información correspondiente sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales.
+(DEROGADO, D.O 9 DE JULIO DE 2007)
 
-## TITULO SEPTIMO. PROMOCION DE LA SALUD
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+## TITULO SEPTIMO. PRESERVACION DE LA SALUD
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 98.
 
-La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+La preservación de la salud tiene por objeto crear, conservar y mejorar las condiciones de salud de la población y propiciar en el individuo, las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 99.
 
-La promoción de la salud comprende:
+La preservación de la salud comprende:
 
 I.- Educación para la salud;
 
@@ -933,7 +1163,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 100.
 
@@ -949,7 +1179,7 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 El Estado con la colaboración de las Dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población de Yucatán promoviendo además dichos programas a través de su difusión en los medios masivos de comunicación social que actúen en el ámbito del Estado.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 102.
 
@@ -963,9 +1193,7 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 El Estado, promoverá en coordinación con las autoridades Estatales y Federales competentes, todos aquellos estudios y acciones tendentes (sic) a mejorar la dieta de los habitantes de Yucatán, sujetándose a las normas establecidas por la Ley General de Salud y otras disposiciones legales aplicables.
 
-### CAPITULO UNICO
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 105.
 
@@ -1005,7 +1233,7 @@ II.- Las que generan con base en un sistema electromecánico adecuado.
 
 El Organismo, en coordinación con las dependencias y Entidades que sean competentes del sector público, con las Autoridades ejidales correspondientes y con la autoridad encargada en el Estado de la administración de distritos de riego, orientará a la población para evitar la contaminación de aguas provenientes de corrientes subterráneas, pluviales y otras que se utilicen para riego o uso doméstico, originadas por plaguicidas, substancias tóxicas, desperdicios o basura.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 111.
 
@@ -1019,19 +1247,17 @@ En la prestación de los Servicios de Salud Ocupacional el Organismo como Autori
 
 El Estado en coordinación con las dependencias y entidades públicas competentes, promoverán, desarrollarán y difundirán investigaciones de carácter multidisciplinario que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 114.
 
 El Estado y la Secretaría, como autoridades sanitarias en sus respectivos ámbitos de competencia realizarán actividades para la prestación de los servicios de prevención y control de enfermedades transmisibles, no transmisibles y accidentes, de conformidad con lo establecido por la Ley General, esta Ley y demás legislación aplicable.
 
-### CAPITULO I
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 115.
 
@@ -1153,9 +1379,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las Autoridades Sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfectación y desinsectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO II
-
-DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 129.
 
@@ -1179,7 +1403,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir informes que el organismo requiera acerca de las enfermedades no transmisibles, en los términos de los Reglamentos que al efecto se expidan.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 132.
 
@@ -1205,17 +1429,15 @@ Para la mayor eficacia de las acciones a que se refiere este Artículo se crear�
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 134.
 
-Para los efectos de esta Ley y de conformidad con lo dispuesto en el Artículo 2o de esta Ley sobre el Sistema Estatal de Asistencia Social de Yucatán, se entiende por asistencia social el conjunto de acciones tendentes (sic) a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física y social de personas en estado de necesidad, desprotección o desventajas física y mental, hasta lograr su incorporación a una vida plena y productiva.
-
-Será objeto de esta Ley los servicios asistenciales que presten tanto las Instituciones Públicas como Privadas.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 135.
 
-Son actividades básicas de salud en materia de asistencia social los relacionados en el Artículo 11 de la mencionada Ley sobre el Sistema Estatal de Asistencia Social de Yucatán.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 136.
 
@@ -1223,19 +1445,19 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 ###### ARTICULO 137.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 138.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferentemente a menores y ancianos sometidos a cualquier forma de mal trato que pongan en peligro su salud física y mental.Asimismo darán esa atención a quiénes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psico-somático.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 139.
 
-El Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el Organismo Federal encargado de la asistencia social, la promoción de ésta en el ámbito Estatal la prestación de servicios en ese campo y la realización de las demás acciones que en materia establezcan las disposiciones legales aplicables.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 140.
 
-El Estado y los Municipios, promoverán la creación de establecimientos en los que se dé atención prioritaria a personas con padecimientos mentales, niños desprotegidos y ancianos desamparados.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 141.
 
@@ -1243,17 +1465,15 @@ El Estado y los Municipios, en coordinación con las otras Dependencias y Entida
 
 ###### ARTICULO 142.
 
-El Estado en su carácter de Autoridad Sanitaria Estatal, podrá autorizar la constitución de Instituciones privadas que sin fines lucrativos tengan por objeto la prestación de servicios asistenciales.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 143.
 
-Serán consideradas Instituciones de Asistencia Privada, las que se constituyan conforme a esta Ley, al reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 144.
 
-El organismo a que se refiere el Artículo 139 de esta Ley, podrá crear una dependencia que ejercerá la vigilancia y promoción de las Instituciones de Asistencia Privada.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 145.
 
@@ -1261,11 +1481,11 @@ Se considerarán Instituciones de Asistencia Privada los Asilos, Hospicios, Casa
 
 ###### ARTICULO 146.
 
-La integración, funcionamiento y facultades de la Dependencia a que se refiere el Artículo 144 de esta Ley serán determinados por las disposiciones legales aplicables que se expidan para tal efecto.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 147.
 
-El Organismo a que se refiere el Artículo 139 de esta Ley, establecerá los mecanismos de coordinación necesarios con las Instituciones Asistenciales Privadas.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 148.
 
@@ -1285,7 +1505,7 @@ Las Autoridades Sanitarias Educativas, en el ámbito de sus respectivas competen
 
 ###### ARTICULO 152.
 
-El organismo, en coordinación con otras Instituciones Públicas, promoverá que en los lugares en que se presten servicios, se dispongan facilidades para las personas inválidas.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 153.
 
@@ -1293,225 +1513,127 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 ###### ARTICULO 154.
 
-Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, laboral y económico como consecuencia de una insuficiencia somática, psicológica o social.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 155.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos comprende:
-
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
-
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la invalidez;
-
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar invalidez;
-
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con algún inválido, promoviendo al efecto la solidaridad social;
-
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
-
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
-
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción de empleo de las personas en proceso de rehabilitación.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 156.
 
-Los servicios de rehabilitación, que proporcionen los establecimientos que dependen del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el Organismo que señala en el Artículo 139 de esta Ley.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 157.
 
-El Gobierno del Estado, a través del Organismo a que se refiere el artículo 139 de esta Ley, en coordinación con las Dependencias y Entidades Federales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y laboral para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 158.
 
-El Organismo del Gobierno Estatal previsto en el artículo 139 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
+
+### CAPITULO I
+
+###### ARTICULO 159.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 160.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+### CAPITULO II
+
+DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
+
+###### ARTICULO 161.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 162.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 163.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 164.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+###### ARTICULO 165.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 166.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 167.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+## TITULO DECIMO PRIMERO. CONTROL SANITARIO
+
+### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
+
+###### ARTICULO 168.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 169.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 170.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 171.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
-###### ARTICULO 159.
-
-El Estado se coordinará con la Secretaría y el Consejo de Salubridad General, para la ejecución en Yucatán del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá entre otras, las siguientes acciones:
-
-I.- La prevención, el tratamiento del alcoholismo y la rehabilitación de los alcohólicos;
-
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigidas especialmente a los niños, adolescentes, obreros y campesinos a través de métodos individuales, sociales o de comunicación masiva;
-
-III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
-
-IV.- La restricción para el funcionamiento de nuevos establecimientos donde se expida bebidas alcohólicas de conformidad con lo que dispone el artículo 175 de esta Ley.
-
-V.- La estricta verificación de que los establecimientos que expendan bebidas alcohólicas, se apeguen a lo dispuesto por la Ley, su reglamento y demás disposiciones aplicables; y
-
-VI.- La estricta prohibición de expender o suministrar en ningún caso y bajo ninguna forma, bebidas alcohólicas a menores de edad.
-
-La coordinación en la adopción de medidas en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con el Estado.
-
-###### ARTICULO 160.
-
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las Autoridades Sanitarias del Estado, en coordinación con otras dependencias y Entidades Públicas realizarán actividades de investigación en los siguientes aspectos:
-
-I.- Causas del alcoholismo y acciones para controlarlas;
-
-II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
-
-III.- Hábitos del consumo del alcohol en los diferentes grupos de población, y
-
-IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivos, de los espectáculos, laboral y educativo.
-
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
-
-###### ARTICULO 161.
-
-El Estado se coordinará con la Secretaría y el Consejo de Salubridad General para la ejecución en Yucatán del Programa contra el tabaquismo, que comprenderá entre otras las siguientes acciones:
-
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
-
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
-
-###### ARTICULO 162.
-
-Para poner en práctica las acciones contra el tabaquismo se tendrá en cuenta los siguientes aspectos:
-
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
-
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-###### ARTICULO 163.
-
-Para los efectos de esta Ley, con el nombre de tabaco se designa la planta "Nicotina Tabacum2" y sucedáneas en su forma natural o modificada en las diferentes presentaciones que se utilicen para fumar, masticar o respirar.
-
-###### ARTICULO 164.
-
-En ningún caso bajo ninguna forma se podrá expender a menores de edad.
-
-### CAPITULO V. LIMPIEZA PUBLICA
-
-###### ARTICULO 165.
-
-El Estado en coordinación con Dependencias y Entidades del Sector Salud, ejecutará el Programa Nacional contra la farmacodependencia que elabore la Secretaría.
-
-###### ARTICULO 166.
-
-El Estado, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustará a los siguientes:
-
-I.- Determinará y ejercerá medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
-
-II.- Establecerá sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, fármacos y solventes, para evitar el empleo indebido de los mismos.
-
-III.- Brindará la atención médica que se requiera a las personas que realicen o hayan realizado el consumo de inhalantes y otras drogas.
-
-IV.- Promoverá y llevará a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes, y
-
-V.- Prohibirá la venta a menores de edad e incapaces mentales, substancias inhalantes, solventes, fármacos y otros químicos considerados como tóxicos que producen hábitos o dependencia.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-###### ARTICULO 167.
-
-Para los efectos de esta Ley, se considerarán substancias con acción psicotrópicas, las que determinen la Secretaría, tomando en consideración el riesgo que representan para la salud, al tenor de lo dispuesto por la Ley General.
-
-## TITULO DECIMO PRIMERO. CONTROL SANITARIO
-
-### CAPITULO VI. RASTROS
-
-###### ARTICULO 168.
-
-Para los efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Autoridad Sanitaria competente con la participación de los productores, comercializadores, y consumidores, basándose en lo establecido por las normas técnicas y otras disposiciones aplicables.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-El ejercicio del control sanitario será aplicable al:
-
-I.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
-
-II.- Proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos; y
-
-III.- Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, fertilizantes y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración.
-
-El control sanitario de proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
-
-###### ARTICULO 169.
-
-Corresponde al Organismo en su carácter de Autoridad Sanitaria Estatal, ejercer la verificación y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas en su estado natural, mezclados, preparados adicionados o condicionados para su consumo dentro o fuera del mismo establecimiento, basándose en las normas técnicas que al efecto se emitan.
-
-###### ARTICULO 170.
-
-La Secretaría emitirá normas técnicas a las que deberá sujetarse el proceso de los productos a que se refiere este título.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-###### ARTICULO 171.
-
-Para los efectos de este título, se entiende por proceso, al conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 169 de esta Ley.
-
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
-
 ###### ARTICULO 172.
 
-Para los efectos de esta Ley se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos , sean fijos o móviles en los que se desarrolle el proceso de los productos o las actividades o servicios a que se refiere este ordenamiento.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 173.
 
-Para los efectos de esta Ley se entiende por:
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-I.- Alimento, cualquier substancia o producto sólido o semisólido, natural o transformado y que proporcione al organismo elementos para su nutrición;
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-II.- Bebidas no alcohólicas, cualquier líquido natural o transformado que proporcione al organismo elementos para su nutrición; y
-
-III.- Bebidas alcohólicas, aquellas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 174.
 
-El Estado determinará, en base a sus atribuciones como Autoridad Sanitaria, la ubicación, horario y funcionamiento de los establecimientos en que se expendan bebidas alcohólicas, tomando en cuenta la distancia existente entre dichos establecimientos, entre los mismos y parques recreativos, centros de recreo, culturales, deportivos, religiosos, de trabajo, de docencia y otros, a criterio de la propia Autoridad, a efecto de coadyuvar efectivamente las acciones derivadas del programa contra el alcoholismo y el abuso de bebidas alcohólicas.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 175.
 
-El titular del Poder Ejecutivo Estatal, en uso de sus facultades de Autoridad Sanitaria y tomando en consideración los graves riesgos que para la salud propician el consumo de bebidas alcohólicas, así como sus inmediatos efectos de deterioro social en el individuo, mismos que ofenden los derechos de la sociedad por causarle perjuicios, podrá restringir el funcionamiento de nuevos establecimientos que expendan dichas bebidas, independientemente de que satisfagan los requisitos a que se refiere el artículo anterior.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 176.
 
-La Autoridad Sanitaria determinará, con base en los riesgos que representen para la salud los establecimientos a que se refiere el artículo 174 de esta Ley, que requieren para su funcionamiento:
-
-I.- Contar con un representante de establecimiento; y
-
-II.- Contar en su caso, con los auxiliares del representante de establecimiento, en el número que determinen los reglamentos aplicables, tomando en cuenta la cantidad de los productos de que se trate, la diversidad de líneas de producción y la duración horaria de las operaciones.
-
-La propia Autoridad Sanitaria podrá dispensar de este último requisito, previo estudio fundado y motivado.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 177.
 
-Los establecimientos a que se refiere esta Ley, que no requieran para su funcionamiento de licencia sanitaria, deberán dar aviso por escrito al organismo, treinta días antes del inicio de operaciones; pero aquellos que expendan bebidas alcohólicas, en todo caso, deberán esperar la determinación por escrito para el inicio de operaciones, la que se otorgará tomando en cuenta la ubicación y horario de funcionamiento de los mismos en uso de las atribuciones de la propia Autoridad.
-
-El aviso de inicio de operaciones deberá contener los siguientes datos:
-
-I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
-
-II.- Nombre y domicilio de la persona física representante del establecimiento;
-
-III.- Domicilio del establecimiento donde se realiza el proceso, fecha de inicio de operaciones; y
-
-IV.- Proceso utilizado y líneas o línea de productos.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 178.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos o la fabricación de nuevas líneas de productos, deberá ser comunicado a la Autoridad Sanitaria en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la Ley General, de esta Ley y demás disposiciones aplicables.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 179.
 
@@ -1535,9 +1657,9 @@ Las normas técnicas que en materia de salubridad dicte el Estado, deberán publ
 
 Para el funcionamiento de los establecimientos enunciados en materia de salubridad local por esta Ley, los interesados deberán obtener la autorización sanitaria del Estado, independientemente de los demás requisitos que para tal efecto establezcan los respectivos reglamentos.
 
-### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
+### CAPITULO V. HIGIENE PUBLICA
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 184.
 
@@ -1555,9 +1677,7 @@ El organismo vigilará que los mercados y centrales de abasto de Yucatán cumpla
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centrales de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales o puestos, quedando el ejercicio de sus actividades sujeto a lo que disponga esta Ley, los reglamentos respectivos y las normas técnicas correspondientes.
 
-### CAPITULO X. BAÑOS PUBLICOS
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 187.
 
@@ -1599,7 +1719,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades Municipales en los términos de su competencia, podrán ordenar la ejecución de las obras que estime de urgencia, con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 196.
 
@@ -1663,23 +1783,25 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación, cremación o traslado de cadáveres y restos áridos deberá ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO XII
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
 
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 202.
 
-Para los efectos de esta Ley se entiende por servicio de limpieza pública la recolección, manejo, disposición y tratamiento de residuos sólidos, a cargo de los Ayuntamientos, los que estarán obligados a prestar este servicio de una manera regular y eficiente.
+Para los efectos de esta Ley, se entiende por servicio de Higiene Pública, la limpia, recolección, traslado, tratamiento y disposición final de residuos a cargo de los Ayuntamientos, los que estarán obligados a prestar este servicio de una manera periódica y eficiente.
 
 ###### ARTICULO 203.
 
 Para efectos de la presente Ley, se entenderá por residuos sólidos, el material generado de los procesos de extracción, beneficio, transformación, producción, consumo, utilización control, tratamiento, de cualquier producto, cuya calidad no permita usarlo nuevamente en el proceso que lo generó que provengan de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios de las vías públicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 204.
 
-El servicio de limpieza pública se sujetará a los siguientes:
+El servicio de higiene pública se sujetará a los siguientes:
 
 I.- Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final, vigilando que no se ocasionen riesgos a la salud;
 
@@ -1707,7 +1829,9 @@ El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
+### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 208.
 
@@ -1741,7 +1865,9 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPITULO X. BAÑOS PUBLICOS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 216.
 
@@ -1781,9 +1907,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en cenotes o corrientes subterráneas ductos, pozos y corrientes o canales por donde fluyen aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados de conformidad con las normas técnicas emitidas y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 225.
 
@@ -1813,7 +1937,9 @@ Los establecimientos de esta naturaleza que actualmente se localicen en dichos l
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 225 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XVI. GASOLINERAS
+### CAPITULO XII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1835,7 +1961,7 @@ Los Centros de Readaptación Social deberán de contar ademas de lo previsto por
 
 Las personas encargadas de servicios médicos de los centros de readaptación deberán, a partir de que tengan conocimiento de alguna enfermedad trasmisible, proceder a adoptar las medidas de seguridad sanitaria que proceda, para evitar la propagación, así como informar en un plazo no mayor de veinticuatro horas a la autoridad sanitaria.
 
-### CAPITULO XVII. VENDEDORES AMBULANTES
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
 
 ###### ARTICULO 231.
 
@@ -1847,7 +1973,7 @@ Para los efectos de esta Ley se entiende por baños públicos el establecimiento
 
 La actividad de estos establecimientos, estará sujeta a lo dispuesto por la reglamentación de esta Ley, otros ordenamientos legales aplicables, las normas técnicas correspondientes que dicte la autoridad sanitaria.
 
-### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTICULO 233.
 
@@ -1865,7 +1991,7 @@ El funcionamiento a que se refiere el artículo inmediato anterior, deberá ceñ
 
 La autoridad sanitaria, una vez terminada la edificación del centro de reunión y antes de abrirse al público, hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1885,7 +2011,9 @@ Los procedimientos de embellecimientos del cuerpo humano, son aquellos que se ut
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 236 de esta Ley, deberán apegarse a lo establecido en la misma, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO XVI. GASOLINERAS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 240.
 
@@ -1901,7 +2029,7 @@ II.- Lavadero público, establecimiento al cual acuden los interesados para real
 
 Corresponde a la autoridad sanitaria ejercer la verificación de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO XVII. VENDEDORES AMBULANTES
 
 ###### ARTICULO 242.
 
@@ -1917,13 +2045,15 @@ En caso de contar con los servicios complementarios como restaurantes, servicios
 
 La Autoridad Sanitaria realizará la verificación que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
 
-### CAPITULO UNICO.
+### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 245.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al transporte de carga en general o de pasajeros, sea cual fuera su medio de propulsión y que por sus características especiales pueda tener repercusiones en la salud de la población, por lo que su funcionamiento, será objeto de verificaciones periódicas por parte de la Autoridad Sanitaria conforme a las normas técnicas que dicte la misma.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO XIX. VENTA DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 246.
 
@@ -1933,7 +2063,9 @@ Para los efectos de esta Ley, se entiende por gasolineras, el establecimiento de
 
 Todo establecimiento dedicado al expendio de gasolina o lubricantes, será sometido a una verificación periódica por la autoridad sanitaria con el propósito de constatar que se reúnan las condiciones higiénicas y de seguridad establecidas en el reglamento correspondiente.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO I], D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 248.
 
@@ -1943,9 +2075,9 @@ Para los efectos de esta Ley y sus reglamentos, deben de entenderse como vendedo
 
 Los vendedores ambulantes que expendan productos alimenticios, deberán cumplir con las condiciones higiénicas que establezca la Autoridad Sanitaria, pero en ningún caso lo podrá hacer en zonas consideradas insalubres o de alto riesgo a la salud.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. DEL CONTROL SANITARIO
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 250.
 
@@ -1967,11 +2099,111 @@ Los propietarios de los animales a que se refiere el artículo anterior, estará
 
 La Autoridad Sanitaria, mantendrá campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la hidrofobia.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+### CAPITULO III. DE LA VIGILANCIA SANITARIA
 
-### CAPITULO V. PRESCRIPCION
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-A.
+
+Los establecimientos que requieren determinación sanitaria, son:
+
+I.- Los que expendan bebidas alcohólicas para su consumo, en otro lugar:
+
+a).- Expendio de cerveza en envase cerrado;
+
+b).- Licorería;
+
+c).- Tienda de Autoservicio, y
+
+d).- Bodega y distribuidora de bebidas alcohólicas.
+
+II.- Los que expendan bebidas alcohólicas para su consumo, en el mismo lugar:
+
+a).- Centro Nocturno;
+
+b).- Discoteca;
+
+c).- Cabaré (sic);
+
+d).- Cantina;
+
+e).- Restaurante de lujo;
+
+f).- Restaurante;
+
+g).- Pizzería;
+
+h).- Bar;
+
+i).- Videobar;
+
+j).- Salón de baile, y
+
+k).- Sala de recepciones.
+
+III.- Aquellos lugares que autorice previamente la autoridad sanitaria, para que de manera temporal, se permita el expendio de bebidas alcohólicas, para su consumo en el mismo lugar; tales como:
+
+a).- Eventos deportivos o de espectáculos;
+
+b).- Fiestas y ferias tradicionales;
+
+c).- Puestos autorizados durante las fiestas de carnaval;
+
+d).- Kermés y verbena popular, y
+
+e).- Cualquier otro de carácter eventual o extraordinario.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-B.
+
+En los restaurantes y demás similares, podrán venderse y consumirse bebidas alcohólicas, siempre y cuando se consuman o se hubiere consumido alimentos. Para dicha venta y consumo, se requerirá licencia o permiso de la Secretaría de Salud, previa autorización del uso del suelo por parte de la autoridad municipal.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-C.
+
+En los hoteles, moteles y demás similares, sólo podrán funcionar bares, cantinas, cervecerías o servi-bar, cuando se cuente con servicio de restaurante.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-D.
+
+En las boticas y farmacias, podrá venderse alcohol y sustancias medicinales que lo contengan, en las formas y proporciones por el carácter de tales establecimientos corresponda (sic).
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-E.
+
+Se prohíbe estrictamente la venta y consumo de bebidas de contenido alcohólico en las vías, parques y plazas públicas, salvo que exista en las mismas, un giro establecido y autorizado por la Secretaría de Salud, previa autorización del uso del suelo por parte de la autoridad municipal. Queda prohibida igualmente en los planteles educativos.
+
+Fuera de los establecimientos y lugares a que se refieren los artículos anteriores, no podrán venderse al público bebidas alcohólicas, salvo permiso específico de la Secretaría de Salud, previa autorización del uso de suelo por parte de la autoridad municipal competente.
+
+No se concederá licencia o permiso alguno, para la venta o consumo de bebidas alcohólicas, en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios y similares.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 253-F.
+
+Los establecimientos y locales a que se refiere este capítulo, tienen prohibida la venta y no permitirán el consumo de bebidas alcohólicas, en las fechas siguientes:
+
+I.- Los días que se determinen conforme a la legislación electoral federal y estatal, relativos a la jornada electoral;
+
+II.- Los que en forma expresa determine el Ayuntamiento por acuerdo de Cabildo o a través de sus reglamentos y para casos de riesgo, emergencia o por causa de seguridad pública, y
+
+III.- Los que en forma expresa y para fechas y plazos determinados, decrete el Titular del Poder Ejecutivo del Estado, en los términos de la fracción anterior.
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+
+## TITULO DECIMO TERCERO. REGULACION SANITARIA
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO UNICO.
+
+#### SECCION PRIMERA. DE LAS AUTORIZACIONES
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1987,6 +2219,10 @@ Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las
 
 En caso de incumplimiento a lo dispuesto por esta Ley y demás disposiciones sanitarias aplicables, las autorizaciones serán canceladas.
 
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+No se otorgará licencia para operar los establecimientos que expenden bebidas alcohólicas, cuando el solicitante hubiere sido sentenciado dentro de los últimos diez años, por delitos contra la salud, violación, lenocinio o corrupción de menores. El plazo a que este artículo se refiere, se computará desde la fecha en que hubiere (sic) quedado compurgadas todas las sanciones impuestas.
+
 ###### ARTICULO 256.
 
 Las autorizaciones expedidas por la Autoridad Sanitaria por tiempo determinado, podrán prorrogarse de conformidad con las disposiciones generales aplicables. La solicitud correspondiente deberá presentarse a la propia autoridad con antelación al vencimiento de la misma y tratándose de licencias sanitarias la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
@@ -2001,9 +2237,43 @@ La propia autoridad expedirá la autorización para el funcionamiento de estable
 
 Todo establecimiento requiere de licencia sanitaria, excepto cuando el giro correspondiente haya quedado exento de este requisito por la Ley General, esta Ley u otra disposición legal aplicable; pero tal excepción no eximirá a los establecimientos del cumplimiento de las restantes disposiciones sanitarias.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 259.
 
-Los obligados a tener licencia sanitaria deberán exhibirla en un lugar visible del establecimiento. Cuando cambien de ubicación, los establecimientos requerirán de nueva autorización sanitaria, o licencia en su caso.
+Los establecimientos con licencia sanitaria, además de las obligaciones establecidas en la Ley de Prevención, deberán:
+
+I.- Tramitar una nueva autorización sanitaria o licencia en su caso, cuando cambien de ubicación;
+
+II.- Colocar en lugar visible la licencia o copia certificada de la misma;
+
+III.- Impedir y denunciar actos que pongan en peligro el orden en su interior recurriendo para evitarlos, a la fuerza pública. Lo mismo harán cuando tengan conocimiento o encuentren en el local, a alguna persona que consuma o posea estupefacientes o cualquier otra droga;
+
+IV.- Contar con vigilancia debidamente capacitada, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré (sic), videobar y similares;
+
+V.- Permitir la revisión de sus locales, a los inspectores así como presentarles los documentos indicados en la fracción II de este mismo artículo y aquellos que el Ayuntamiento determine por medio de sus reglamentos; los que deberán estar en el mismo establecimiento;
+
+VI.- Colocar en el exterior y en lugar visible, avisos en los que se prohíba la entrada a menores de 18 años de edad, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré (sic), videobar y similares, y
+
+VII.- Cumplir con las demás disposiciones establecidas en la presente ley y reglamentos.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 259-A.
+
+Se prohíbe a los propietarios, encargados o empleados de los establecimientos en los que se opere el giro de venta o consumo de bebidas alcohólicas:
+
+I.- Adulterarlas, contaminarlas o alterarlas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas que puedan imponer las autoridades sanitarias o de las sanciones penales que correspondan, cuando sean constitutivas de delitos;
+
+II.- Vender bebidas alcohólicas que no cumplan con las normas de calidad expedidas por las autoridades competentes;
+
+III.- Venderlas fuera del establecimiento;
+
+IV.- Vender o permitir su consumo a los menores de dieciocho años de edad; así como permitirles la entrada a centros nocturnos, cantinas, discotecas, cabaré (sic), videobar y similares; salvo tratándose de eventos en que no se vendan y consuman bebidas de contenido alcohólico;
+
+V.- Obsequiar o venderlas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública, cuando estén en servicio o porten uniforme, así como a los inspectores municipales, y
+
+VI.- Venderlas o permitir su consumo de bebidas alcohólicas a los que visiblemente estén en estado de ebriedad, a los individuos que estén bajo los efectos de psicotrópicos, a personas con deficiencias mentales, o que porten armas.
 
 ###### ARTICULO 260.
 
@@ -2020,6 +2290,10 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 ###### ARTICULO 262.
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO II], D.O. 9 DE JULIO DE 2007)</small>
+
+#### SECCION SEGUNDA. DE LAS REVOCACION (SIC) DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 263.
 
@@ -2077,25 +2351,35 @@ La Autoridad Sanitaria emitirá la resolución que corresponda al concluir la au
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o ejercicio de las actividades a que se refiere la autorización revocada. El interesado podrá impugnar la resolución de revocación interponiendo el recurso de inconformidad señalado en esta Ley.
 
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO III], D.O. 9 DE JULIO DE 2007)</small>
+
+#### SECCION TERCERA. DE LOS CERTIFICADOS
+
 ###### ARTICULO 271.
 
 Para los efectos de esta Ley, se entiende por certificado la constancia en los términos que establezcan las Autoridades Sanitarias del Estado para la comprobación o información de determinados hechos.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 272.
 
-La autoridad Sanitaria Estatal, para los fines sanitarios procedentes podrá expedir los siguientes certificados:
+La autoridad sanitaria estatal para los fines sanitarios procedentes, podrá expedir los siguientes certificados:
 
 I.- Prenupciales;
 
-II.- De Defunción;
+II.- De nacimiento;
 
-III.- De muerte fetal; y
+III.- De defunción;
 
-IV.- Los demás que determine la Ley General de Salud y sus reglamentos.
+IV.- De muerte fetal, y
+
+V.- Los demás que determine la Ley General de Salud y sus reglamentos.
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 273.
 
-El certificado médico prenupcial será requerido por las Autoridades del Registro Civil a quiénes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
+El certificado médico prenupcial y de nacimiento, será requerido por las autoridades del Registro Civil a quiénes pretendan contraer matrimonio, o registrar a sus hijos con las excepciones que establezcan las disposiciones generales aplicables.
 
 ###### ARTICULO 274.
 
@@ -2105,69 +2389,187 @@ Los certificados de defunción y de muerte fetal, serán expedidos una vez compr
 
 Los certificados a que se refiere este título se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita. Las Autoridades Judiciales o Administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en este artículo.
 
-## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 276.
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
-Corresponde al Organismo, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base a ella. La participación de las Autoridades Municipales, estará determinada por los convenios que al efecto celebren con el Estado y por lo que dispongan los ordenamientos locales; sin embargo, la Autoridad Sanitaria podrá desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, la propia Autoridad Sanitaria dará conocimiento a las autoridades municipales de las acciones que lleve a cabo.
+###### ARTICULO 275-A.
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+Para los efectos de este título se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejerce la autoridad sanitaria competente con la participación de los productores, comercializadores y consumidores, basándose en lo establecido por las normas técnicas y otras disposiciones aplicables.
 
-###### ARTICULO 277.
+El ejercicio del control sanitario será aplicable, al:
 
-Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones de las mismas, lo comunicarán a las Autoridades Sanitarias competentes, para que éstas se avoquen (sic) a su conocimiento.
+I.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y en su caso, aditivos que intervengan en su elaboración;
 
-###### ARTICULO 278.
+II.- Proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, y
+
+III.- Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, fertilizantes y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración.
+
+El control sanitario de proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-B.
+
+Corresponde al Organismo en su carácter de autoridad sanitaria estatal, ejercer la verificación y control sanitario de los establecimientos que expendan o suministren al público, alimentos y bebidas no alcohólicas y, alcohólicas en su estado natural, mezclados, preparados adicionados o condicionados para su consumo dentro o fuera del mismo establecimiento, basándose en las normas técnicas que al efecto se emitan.
+
+En las acciones de verificación, regularización y control sanitario previstas en este artículo y en el 275-G, participarán los municipios y el Consejo Estatal de Prevención de Adiciones (sic), conforme a los convenios de coordinación que se celebren y a la Ley de Prevención, respectivamente.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-C.
+
+La Secretaría emitirá las normas técnicas a las que deberá sujetarse el proceso de los productos a que se refiere este título.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-D.
+
+Para los efectos de este Título, se entiende por proceso, al conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 275-B de esta Ley.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-E.
+
+Para los efectos de esta Ley, se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles, en los que se desarrolle el proceso de los productos o las actividades o servicios a que se refiere este ordenamiento.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-F.
+
+Para los efectos de esta Ley, se entiende por:
+
+I.- Alimento, cualquier sustancia o producto sólido o semisólido, natural o transformado y que proporcione al organismo elementos para su nutrición;
+
+II.- Bebidas no alcohólicas, cualquier líquido natural o transformado que proporcione al organismo elementos para su nutrición, y
+
+III.- Bebidas alcohólicas, aquéllas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-G.
+
+El Estado determinará en base a sus atribuciones como Autoridad Sanitaria, la ubicación, horario y funcionamiento de los establecimientos en que se expendan bebidas alcohólicas, tomando en cuenta la distancia existente entre dichos establecimientos, que no será menor a 200 metros entre los mismos así como, de los parques recreativos, centros de recreo, culturales, deportivos, religiosos, de trabajo, de docencia y otros similares, a criterio de la propia Autoridad; a efecto de coadyuvar efectivamente a las acciones derivadas del programa contra el alcoholismo y el abuso de bebidas alcohólicas.
+
+Dichos establecimientos se sujetarán rigurosamente al horario establecido en el Reglamento de Control y Vigilancia Sanitaria de los Establecimientos que expenden Alimentos y Bebidas en General en Yucatán, a propuesta del Consejo de Prevención de Adicciones del Estado.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-H.
+
+El titular del Poder Ejecutivo Estatal, en uso de sus facultades de Autoridad Sanitaria y tomando en consideración los graves riesgos que para la salud propician el consumo de bebidas alcohólicas, así como sus inmediatos efectos de deterioro social en el individuo, mismos que ofenden los derechos de la sociedad por causarle perjuicios, podrá restringir el funcionamiento de nuevos establecimientos que expendan dichas bebidas, independientemente de que satisfagan los requisitos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-I.
+
+La Autoridad Sanitaria determinará, con base en los riesgos que representen para la salud, los establecimientos a que se refiere el artículo 275-G de esta Ley, requieren para su funcionamiento:
+
+I.- Contar con un representante, y
+
+II.- Contar en su caso, con los auxiliares del representante del establecimiento, en el número que determinen los reglamentos aplicables, tomando en cuenta la cantidad de los productos de que se trate, la diversidad de líneas de producción y la duración de las operaciones.
+
+La propia autoridad sanitaria, podrá dispensar de este último requisito, previo estudio fundado y motivado.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-J.
+
+Los establecimientos a que se refiere esta Ley, que no requieran para su funcionamiento de licencia sanitaria, deberán dar aviso por escrito al Organismo, treinta días antes del inicio de operaciones; pero aquellos que expendan bebidas alcohólicas, en todo caso, deberán esperar la determinación por escrito para el inicio de operaciones, la que se otorgará tomando en cuenta la ubicación y el horario de funcionamiento de los mismos, en uso de las atribuciones de la propia Autoridad.
+
+El aviso de inicio de operaciones, deberá contener los siguientes datos:
+
+I.- Nombre y domicilio de la persona física o moral, propietaria del establecimiento;
+
+II.- Nombre y domicilio de la persona física, representante del establecimiento;
+
+III.- Domicilio del establecimiento donde se realiza el proceso, fecha de inicio de operaciones, y
+
+IV.- Proceso utilizado y líneas o línea de productos.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-K.
+
+Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos o la fabricación de nuevas líneas de productos, deberá ser comunicado a la Autoridad Sanitaria, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la Ley General, de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
+###### ARTICULO 275-L.
+
+Corresponde al Organismo, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base a ella. La participación de las Autoridades Municipales, estará determinada por los convenios que al efecto celebren con el Estado y lo que dispongan los ordenamientos locales; sin embargo, la Autoridad Sanitaria podrá desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, la propia autoridad sanitaria hará del conocimiento de las autoridades municipales, de las acciones que lleve a cabo.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-M.
+
+Las demás dependencias y entidades públicas en el Estado, coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y cuando encontraren irregularidades que a su juicio constituyan violaciones de las mismas, lo comunicarán a las autoridades sanitarias competentes, para que éstas se avoquen a su conocimiento.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-N.
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procediere, las medidas de seguridad y sanciones correspondientes en estos casos.
 
-###### ARTICULO 279.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo del personal expresamente autorizado por la Autoridad Sanitaria Estatal, quien deberá verificar físicamente el cumplimiento de ésta Ley y demás disposiciones legales aplicables, de conformidad con las prescripciones de las mismas.
+###### ARTICULO 275
 
-###### ARTICULO 280.
+Ñ.- La vigilancia sanitaria se llevará a cabo mediante visitas de verificación, a cargo del personal expresamente autorizado por la autoridad sanitaria estatal, quien deberá verificar físicamente el cumplimiento de ésta Ley y demás disposiciones legales aplicables, de conformidad con las prescripciones de las mismas.
 
-La Autoridad Sanitaria Estatal, podrá encomendar a sus verificadores, además de actividades de orientación y educación la aplicación, en su caso de las medidas de seguridad a que se refieren las fracciones VII, VIII y XI del Artículo 290 de esta Ley.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 281.
+###### ARTICULO 275-O.
 
-Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual o autorizado.
+La autoridad sanitaria estatal, podrá encomendar a sus verificadores, además de las actividades de orientación y educación, la aplicación en su caso, de las medidas de seguridad a que se refieren las fracciones VII, VIII y XI del Artículo 290 de esta Ley.
 
-###### ARTICULO 282.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-Los verificadores sanitarios en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales, de servicio y, en general a todos los lugares a que se hace referencia esta Ley.
+###### ARTICULO 275-P.
 
-Los propietarios, responsables, encargados u ocupantes del establecimiento o conductores de los transportes objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas, en cualquier tiempo. Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual o autorizado.
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-###### ARTICULO 283.
+###### ARTICULO 275-Q.
 
-Los verificadores, para practicar visitas, deberán estar provistos por órdenes escritas con firma autógrafa expedida por la Autoridad Sanitaria competente del organismo, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe de tener y las disposiciones legales que la fundamenten.
+Los verificadores sanitarios en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales, industriales, de servicios y en general, a todos los lugares a que se hace referencia esta Ley.
 
-La orden de verificación deberá ser exhibida a la persona con quien se entiende la diligencia, a quien se le entregará una copia.
+Los propietarios, responsables, encargados u ocupantes del establecimiento o conductores de los vehículos, objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividad o señalar al verificador la zona en que se vigilará el cumplimiento por todos los obligados de las disposiciones sanitarias.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+###### ARTICULO 275-R.
+
+Los verificadores para practicar visitas, deberán estar provistos por órdenes escritas con firma autógrafa expedida por la autoridad sanitaria competente del organismo, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe de tener y las disposiciones legales que la fundamenten.
+
+La orden de verificación deberá ser exhibida a la persona con la que se entiende la diligencia, a quien se le entregará una copia.
+
+Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividad o señalar al verificador, la zona en que se vigilará el cumplimiento de las disposiciones sanitarias.
 
 Tratándose de actividades que se realicen a bordo de vehículos o en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
 
-###### ARTICULO 284.
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
-En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
+###### ARTICULO 275-S.
 
-I.- Al iniciar la visita, el verificador deberá de exhibir la credencial vigente expedida por la Autoridad Sanitaria y que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 283 de esta Ley, de la que deberá de dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente.
+En la diligencia de verificación sanitaria, se deberán observar las siguientes reglas:
 
-II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la Autoridad que practique la verificación. Estas circunstancias, el nombre, el domicilio y firma de los testigos, se hará constar en el acta.
+I.- Al iniciar la visita, el verificador deberá de exhibir la credencial vigente expedida por la autoridad sanitaria y que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 275-R de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente;
 
-III.- En el acta que se levante con motivo de la verificación se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas y en su caso las medidas de seguridad que se ejecuten, y
+II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, el domicilio y firma de los testigos, se hará constar en el acta;
 
-IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se entregará una copia. La negativa a firmar el acta o recibir copia de la misma o de la orden de visita deberá hacerse constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+III.- En el acta que se levante con motivo de la verificación, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras y, en su caso, las medidas de seguridad que se ejecuten; y
 
-###### ARTICULO 285.
+IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, deberá hacerse constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
-La recolección de muestras a que alude la fracción III del artículo anterior se efectuará observando las formalidades y requisitos anteriores:
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-T.
+
+La colección de muestras a que alude la fracción III del artículo anterior, se efectuará observando las formalidades y requisitos anteriores:
 
 I.- Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
 
@@ -2175,47 +2577,101 @@ II.- La toma de muestra podrá realizarse en cualquiera de las etapas del proces
 
 III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría y tendrá el carácter de muestra testigo; la última será enviada por la Secretaría al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo del interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado, con acuse de recibo del interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
-V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial.
+V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles, a partir de la notificación del análisis oficial.
 
-Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, este quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo según corresponda;
+Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
 
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
-
-VI.- Con la impugnación a que se refiere la fracción anterior el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia del muestreo, así como en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis practicado a la muestra, que hubiere sido dejada en poder de la persona con quien se entendió la diligencia del muestreo, así como a la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
 VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la Secretaría analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
 
-VIII.- El resultado del análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate y en caso de que el producto reúna los requisitos y especificaciones requeridas, la Autoridad Sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda. Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la Autoridad Sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar la que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
+VIII.- El resultado del análisis de la muestra testigo, se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate y en caso de que el producto reúna los requisitos y especificaciones requeridas, la Autoridad Sanitaria procederá a otorgar la autorización que se hubiere solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda. Si el resultado a que se refiere la fracción anterior, comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar la que se hubieren (sic) ejecutado, a imponer las sanciones que correspondan y negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda se correrá traslado al titular mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
 
 En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
-El depositario de la muestra testigo será responsable solidario con el titular, si no conserva la muestra citada.
+El depositario de la muestra testigo será responsable solidario con el titular, si no observare la muestra citada.
 
 El procedimiento de muestreo no impide que la Secretaría dicte y ejecute las medidas de seguridad sanitaria que procedan, en cuyo caso se asentarán en el acta de verificación la que se hubiere ejecutado y los productos que comprenda.
 
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-U.
+
+En el caso de toma de muestras de productos perecederos, éstas deberán conservarse en condiciones óptimas para evitar su descomposición y su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se colectaron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes, contados a partir de la fecha en que se realizó la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días naturales, contados a partir de la notificación; en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
+
+Transcurrido este plazo sin que se hubiere impugnado el resultado del análisis oficial, éste quedará firme.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 275-V.
+
+En el caso de los productos recolectados en procedimientos de muestreo o verificación, sólo los laboratorios autorizados por la Secretaría o el Organismo, podrán determinar por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
+
+## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+
+###### ARTICULO 276.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 277.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 278.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 279.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 280.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 281.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 282.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 283.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 284.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
+###### ARTICULO 285.
+
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
+
 ###### ARTICULO 286.
 
-En el caso de toma de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se realizó la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días naturales contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior.
-
-Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ###### ARTICULO 287.
 
-En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados por la Secretaría o el Organismo, podrán determinar por medio de los análisis practicados, y tales productos reúnen o no sus especificaciones.
+(DEROGADO, D.O. 9 DE JULIO DE 2007)
 
 ## TITULO DECIMO QUINTO
 
 MEDIDAS DE SEGURIDAD SANITARIA,
 
 SANCIONES, RECURSOS Y PRESCRIPCION
+
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 288.
 
@@ -2327,6 +2783,10 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las Autoridades Sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
+### CAPITULO V. PRESCRIPCION
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+
 ###### ARTICULO 301.
 
 La Autoridad Sanitaria impondrá sanciones administrativas a quiénes incurran en violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -2397,7 +2857,9 @@ III.- Cuando después de la reapertura de un establecimiento, local o fábrica, 
 
 IV.- Cuando por la peligrosidad de las actividades que se realicen por la naturaleza del establecimiento, local o fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población; y
 
-V.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro para la salud; pero siempre, se considerará como tal, la violación a las disposiciones contenidas en los artículos 175, 176 y 177 de esta Ley.
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+V.- Cuando se compruebe que las actividades que se realicen en un establecimiento que expende bebidas alcohólicas, incumplan de manera reincidente en un período de un año, con el horario autorizado y las disposiciones contenidas en los artículos 259, 259-A, 275-H, 275-I y 275-J de esta Ley.
 
 ###### ARTICULO 311.
 
@@ -2417,9 +2879,11 @@ Impuesto el arresto, se comunicará la resolución a la Autoridad correspondient
 
 ###### ARTICULO 313.
 
-Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte de la Autoridad Sanitaria se sujetará a los siguientes:
+Para los efectos de esta Ley y de la Ley de Prevención, el ejercicio de las facultades discrecionales por parte de la autoridad sanitaria, se sujetará a lo siguiente:
 
-I.- Se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
+
+I.- Se fundará y motivará en los términos de los artículos 4, 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Se tomará en cuenta las necesidades sociales y estatales, y en general los derechos e intereses de la sociedad;
 
@@ -2433,17 +2897,21 @@ V.- La resolución que se adopte se hará saber por escrito al interesado, dentr
 
 La definición, observancia e instrucción de los procedimientos que se establecen en esta Ley, se sujetarán a los principios jurídicos y éticos que deben de integrar toda resolución.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 315.
 
-El organismo, con base en los resultados de la visita de verificación, podrán dictar las medidas necesarias para corregir las irregularidades que se hubieren encontrado notificándole al interesado y dándole un plazo adecuado para su realización.
+El organismo en su caso, con base en los resultados de la visita de verificación, podrá dictar las medidas necesarias para corregir las irregularidades que se hubieren encontrado, notificándole al interesado y dándole un plazo de hasta treinta días hábiles para su realización.
 
 ###### ARTICULO 316.
 
 La Autoridad Sanitaria podrá hacer uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública para lograr la ejecución de sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 317.
 
-Derivado de las irregularidades sanitarias que reporte el acta de verificación, la Autoridad Sanitaria citará al interesado personalmente o por correo certificado con acuse de recibo para que dentro de un plazo no menor de cinco días y no mayor de treinta días naturales comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta de verificación.
+Derivado de las irregularidades sanitarias que reporte el acta de verificación, la autoridad sanitaria citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días y no mayor de diez días naturales, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta respectiva.
 
 ###### ARTICULO 318.
 
@@ -2457,9 +2925,13 @@ Una vez oído el presunto infractor o a su representante legal y desahogadas las
 
 En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 317 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificando con acuse de recibo.
 
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 321.
 
-En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar el acta detallada de la diligencia, siguiendo para ellos lineamientos generales establecidos para las verificaciones.
+En los casos de clausura temporal o definitiva, parcial o total, o de trabajos a favor de la comunidad o tratamiento rehabilitatorio, conforme a la Ley de Prevención; el personal comisionado para su ejecución procederá a levantar el acta detallada de la diligencia, siguiendo para ello, los lineamientos generales establecidos para las verificaciones.
+
+Tratándose de la suspensión e inhabilitación del ejercicio profesional, corresponde a la Secretaría de Educación observar su cumplimiento.
 
 ###### ARTICULO 322.
 
@@ -2630,3 +3102,13 @@ Corresponderá al Ejecutivo del Estado, la aplicación de las disposiciones lega
 ###### ARTÍCULO QUINTO.
 
 Las concesiones de lotes y bóvedas en cementerios o panteones del Estado, que todavía se encuentren en trámite serán resueltas por la autoridad ante la cual estén siendo tramitadas.
+
+D.O. 9 DE JULIO DE 2007
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades y obligaciones previstas a la Secretaría de Salud; le corresponden a Servicios Coordinados de Salud, hasta en tanto subsista el convenio suscrito por la federación y el Estado.
