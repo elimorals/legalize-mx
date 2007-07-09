@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-2809"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-06-15"
-last_updated: "1992-12-13"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de junio de 1980.
 
@@ -47,41 +47,51 @@ El Registro Público de la Propiedad, es la Institución mediante la cual el Est
 
 Las disposiciones de este Reglamento son aplicables a la materia registral, y sólo se entienden extensivas a los Registros de Comercio y de Crédito Agrícola por cuanto que la titularidad de éstos corresponde por ministerio de Ley al Director de la Propiedad y sin perjuicio de los ordenamientos de carácter federal que regulan el funcionamiento de aquéllos.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 3o.
 
 El Registro Público de la Propiedad constará de las siguientes dependencias:
 
-I.- Dirección;
+I.- Dirección General;
 
-II.- Secretaría;
+II.- Dirección Jurídica;
 
-III.- Oficialía de Partes;
+III.- Dirección Operativa;
 
-IV.- Sección Primera;
+IV.- Oficialía de Partes;
 
-V.- Sección Segunda;
+V.- Sección Primera;
 
-VI.- Sección Tercera;
+VI.- Sección Segunda;
 
-VII.- Sección Cuarta;
+VII.- Sección Tercera;
 
-VIII.- Sección Quinta;
+VIII.- Sección Cuarta;
 
-IX.- Indice y Archivo.
+IX.- Sección Quinta;
+
+X.- Índice y Archivo.
 
 ###### ARTICULO 4o.
 
 Los actos del Registro Público de la Propiedad se autorizarán con un sello que tendrá al centro el Escudo Nacional y en la circunferencia una leyenda que diga: "Registro Público de la Propiedad, Estado de Aguascalientes".
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 5o.
 
 El personal del Registro Público de la Propiedad se compondrá de:
 
-I.- Un Director.
+I.- Un Director General;
 
-II.- Un Secretario.
+II.- Un Director Jurídico;
 
-III.- Los Oficiales que autorice el Presupuesto de Egresos del Estado.
+III.- Un Director Operativo;
+
+IV.- Los siguientes Jefes de Departamento: Administrativo, Informática, Jurídico;
+
+V.- Los oficiales que autorice el Presupuesto de Egresos del Estado.
 
 ###### ARTICULO 6o.
 
@@ -93,13 +103,15 @@ II.- Ser Licenciado en Derecho con título legalmente registrado, con tres años
 
 III.- Ser de reconocida solvencia moral.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 7o.
 
-Para desempeñar el puesto de Secretario del Registro se necesita:
+Para desempeñar los puestos de Director Jurídico y Director Operativo se necesita:
 
-I.- Ser mayor de edad.
+I.- Ser mayor de edad;
 
-II.- Acreditar por medio de un examen práctico, tener conocimientos generales sobre títulos notariales y sobre inscripciones en los libros del Registro.
+II.- Acreditar por medio de un examen práctico, tener conocimientos generales sobre títulos notariales y sobre inscripciones en los libros del Registro;
 
 III.- Ser de reconocida solvencia moral.
 
@@ -137,31 +149,73 @@ II.- Hacer la designación de las Secciones y Dependencias del Registro que debe
 
 III.- Calificar sobre la legalidad de los Títulos presentados para su registro, únicamente para los efectos del mismo y en los términos establecidos por este reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 10.
 
-Son obligaciones del Secretario:
+Son obligaciones del Director Operativo
 
-I.- Suplir al Director en sus ausencias temporales.
+I.- Suplir de forma conjunta o separada con el Director Jurídico, al Director General en sus ausencias temporales, firmando la correspondencia y oficios, para lo cual deberá de anotarse la leyenda "En ausencia del Director General, firma el Director Operativo";
 
-II.- Auxiliar al Director en las labores propias de su cargo y en las demás que le encomienden.
+II.- Auxiliar al Director en las labores propias de su cargo y en las demás que le encomienden;
 
-III.- Asistir con puntualidad en el desempeño de sus labores.
+III.-Asistir con puntualidad en el desempeño de sus labores;
 
-IV.- Vigilar la conducta, puntualidad y eficacia de los demás empleados del Registro.
+IV.- Vigilar la conducta, puntualidad y eficacia de los demás empleados del Registro;
 
-V.- Consultar con el Director todas las dudas que ocurran en el desempeño de las labores.
+V.- Consultar con el Director todas las dudas que ocurran en el desempeño de las labores;
 
-VI.- Vigilar que las inscripciones se hagan con riguroso orden de presentación en la Oficialía de Partes.
+VI.- Vigilar que las inscripciones se hagan con riguroso orden de presentación en la Oficialía de Partes;
 
-VII.- Vigilar que dichas inscripciones se hagan dentro de los tres días siguientes a su representación cubriendo el pago de los derechos respectivos, salvo el caso de exceso de labores.
+VII.- Vigilar que dichas inscripciones se hagan dentro de los tres días siguientes a su representación cubriendo el pago de los derechos respectivos, salvo el caso de exceso de labores;
 
-VIII.- Cotejar y rubricar las inscripciones y las certificaciones que deba autorizar el Director.
+VIII.- Cotejar y rubricar las inscripciones y las certificaciones que deba autorizar el Director;
+
+IX.- Supervisar la operación del Sistema de informática;
+
+X.- Vigilar las actividades del archivo de documentos;
+
+XI.- Auxiliar al Director General en la firma y autorización de inscripciones y certificaciones;
+
+XII.- Las demás que le asigne el Director General.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2007)</small>
+
+ARTICULO 10 BIS.- Son obligaciones del Director Jurídico:
+
+I.- Suplir de forma conjunta o separada con el Director Operativo, al Director General en sus ausencias temporales, firmando la correspondencia y oficios para lo cual deberá de anotarse la leyenda "En ausencia del Director General, firma el Director Jurídico";
+
+II.- Auxiliar al Director en las labores propias de su cargo y en las demás que le encomienden;
+
+III.- Asistir con puntualidad en el desempeño de sus labores;
+
+IV.- Vigilar la conducta, puntualidad y eficacia de los demás empleados del Registro;
+
+V.- Consultar con el Director todas las dudas que ocurran en el desempeño de las labores;
+
+VI.- Vigilar que las inscripciones se hagan con riguroso orden de presentación en la Oficialía de Partes;
+
+VII.- Vigilar que dichas inscripciones se hagan dentro de los tres días siguientes a su representación cubriendo el pago de los derechos respectivos, salvo el caso de exceso de labores;
+
+VIII.- Cotejar y rubricar las inscripciones y las certificaciones que deba autorizar el Director;
+
+IX.- Asesorar y auxiliar al personal en materia jurídica;
+
+X.- Atender las consultas jurídicas en materia registral planteadas por los usuarios del Registro Público de la Propiedad;
+
+XI.- Formular los oficios de rechazo de inscripciones, cancelaciones y anotaciones marginales, contestación de informes previos y justificados en materia de Amparo, y turnarlos para su firma al Director General;
+
+XII.- Auxiliar al Director General en la firma y autorización de inscripciones y certificaciones;
+
+XIII.- Las demás que le asigne el Director General.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 11.
 
-El Director del Registro y el Secretario en su caso, incurrirán en responsabilidad consistente en el pago de los daños y perjuicios que causen a los interesados, en los siguientes casos:
+El Director General del Registro y los Directores Jurídico y Operativo en su caso, incurrirán en responsabilidad consistente en el pago de los daños y perjuicios que causen a los interesados, en los siguientes casos:
 
-I.- Por no inscribir los Títulos por riguroso orden de acuerdo con lo establecido en la Fracción VI del Artículo 10.
+I.- Por no inscribir los Títulos por riguroso orden de acuerdo con lo establecido en la fracción VI del Artículo 10.
 
 II.- Por no inscribir los Títulos en el término de tres días siguientes a la fecha de su presentación y cubriendo el pago de los derechos, salvo el caso de exceso de labores.
 
@@ -173,7 +227,7 @@ V.- Por cancelar una inscripción o anotación sin el Título correspondiente y 
 
 VI.- Por error, inexactitud u omisión en los certificados de gravámenes que se soliciten.
 
-VII.- En general, por falta al cumplimiento de las obligaciones que les imponen las leyes y este reglamento, siempre que con su omisión resulte perjuicio a terceros.
+VII.- En general, por falta al cumplimiento de las obligaciones que les imponen las leyes y este Reglamento, siempre que con su omisión resulte perjuicio a terceros.
 
 ###### ARTICULO 12.
 
@@ -221,17 +275,23 @@ VII.- Fecha, hora y firma en que se devuelva el documento al interesado;
 
 VIII.- Un espacio para observaciones.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 15.
 
 Los Libros de Inscripciones contendrán:
 
-a).- 250 fojas cada volumen;
+a).- Hasta 250 hojas por cada volumen;
 
-b).- Las fojas serán 41.5 centímetros de largo por 35.5 centímetros de ancho, las hojas serán de papel grueso y resistente;
+b).- Las fojas serán de 21.5 centímetros de ancho por 34 centímetros de largo, las hojas serán de papel bond blanco con marca de agua.
 
-c).- Cada página tendrá en ambos márgenes un espacio de 1.5 centímetros para salvaguardar la escritura;
+c).- Las Hojas tendrán al centro en su parte superior del anverso las leyendas "PODER EJECUTIVO", "PARA USO EXCLUSIVO DEL REGISTRO PUBLICO DE LA PROPIEDAD", con la tipografía autorizada por Gobierno del Estado de 17 puntos para la primera y de 12 puntos para la segunda, ambas en tinta negra, llevando al margen superior derecho el escudo del Estado de Aguascalientes.
 
-d).- Habrá un espacio de 11 centímetros de ancho para anotaciones marginales, y, en el espacio restante de la página de 16.6 centímetros de ancho, se asentarán las inscripciones.
+d).- En cada página se deberá dejar siempre en blanco una faja de 3.5 centímetros por el lado del dobles (sic) del libro y otra de 1.5 centímetros de la orilla para salvaguardar la escritura.
+
+e).- Al inicio de cada inscripción se deberá de agregar al menos una hoja que se destinará para la elaboración de la apostilla relativa a la inscripción del instrumento notarial, así como para que se realicen las anotaciones que afecten la inscripción.
+
+El Notario Público al momento de presentar para su inscripción el testimonio del instrumento público, deberá de acompañar una impresión del mismo en hojas con las características señaladas en el presente artículo, las cuales serán proporcionadas por la Secretaría de Finanzas del Estado; Asimismo de ser posible proporcionarlo en medio magnético.
 
 ###### ARTICULO 16.
 
@@ -321,9 +381,11 @@ Los Volúmenes de documentos correspondientes a la fracción primera de este art
 
 Los Volúmenes relativos a contratos privados se rotularán con esa denominación, así como el número de Volumen y de la Sección a que correspondan.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-En cada Sección se llevarán nueve libros de Inscripciones relativos a bienes ubicados en cada uno de los Municipios de Aguascalientes, Asientos, Calvilla, Cosío, Jesús María, Pabellón de Arteaga, Rincón de Romos, San José de Gracia y Tepezalá.
+En cada Sección se llevarán once libros de inscripciones relativos a bienes ubicados en cada uno de los Municipios de Aguascalientes, Asientos, Calvillo, Cosío, Jesús María, Pabellón de Arteaga, Rincón de Romos, San José de Gracia, Tepezalá, San Francisco de los Romo y El Llano.
 
 ###### ARTICULO 26.
 
@@ -1299,4 +1361,10 @@ UNICO.- Las presentes Modificaciones al. Reglamento del Registro Público de la 
 
 P.O. 13 DE DICIEMBRE DE 1992.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- Las adiciones y reformas contenidas en el presente Acuerdo inician su vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los notarios públicos quedan obligados a la observancia de las presentes reformas, una vez que haya sido implementado el sistema de Protocolo Abierto.
