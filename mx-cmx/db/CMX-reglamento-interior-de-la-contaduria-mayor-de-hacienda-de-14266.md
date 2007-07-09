@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-14266
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-25"
-last_updated: "2004-01-13"
+last_updated: "2007-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14266&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-04-30"
 
 REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 9 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 25 de mayo de 1999.
 
@@ -729,3 +731,15 @@ SEGUNDO.- Los manuales de procedimientos a que se refiere el presente Reglamento
 TERCERO.- Los recursos humanos, presupuestarios y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, expedientes de personal y en general el equipo que la actual unidad de Contraloría Interna utiliza para la atención de los asuntos a su cargo, se adscribirá a la Contraloría General de la Asamblea Legislativa del Distrito Federal.
 
 CUARTO.- Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, Publicado en la Gaceta Oficial del Distrito Federal el 25 de mayo de 1999, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los procedimientos que se hubieren iniciado durante la vigencia del Reglamento Interior abrogado, se continuarán de conformidad con las disposiciones de dicho Reglamento.
+
+CUARTO.- Los Manuales de Procedimientos que actualmente operan en la Contaduría deberán ser actualizados en un periodo de seis meses contados a partir de la publicación del presente Reglamento.
+
+QUINTO.- La denominación, organización y funciones de las unidades administrativas que no se señalen en este Reglamento, se precisarán en el Manual de Organización de la Contaduría que para tal efecto se expide.
