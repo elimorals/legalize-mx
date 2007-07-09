@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2005-03-30"
+last_updated: "2007-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JULIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -198,7 +198,7 @@ XV. Invitar a estar presentes en las reuniones de trabajo, a personas que por ra
 
 XVI. Elaborar los ordenes del día de las reuniones de trabajo, dirigir el desarrollo general de los mismos y cuidar que el desahogo de los asuntos establecidos en ellos se lleven a cabo como se hubiere dispuesto previamente;
 
-XVII. Coordinar el trabajo del Secretario Técnico y asesores de la Comisión, y
+XVII. Coordinar el trabajo del Secretario Técnico y asesores de la Comisión, y (sic)
 
 XVIII. Llevar a través de la Secretaría Técnica, un registro cronológico de las iniciativas, proposiciones y dictámenes turnados, desahogados y pendientes;
 
@@ -206,9 +206,9 @@ XVIII. Llevar a través de la Secretaría Técnica, un registro cronológico de 
 
 XIX. Remitir al área de Comunicación Social y a la Coordinación General de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de los Diputados que hayan asistido a la misma;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XX. Remitir al Archivo Histórico de la Asamblea Legislativa del Distrito Federal, a través de la Coordinación General de Servicios Parlamentarios toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión.
+XX. Remitir al Archivo Histórico de la Asamblea Legislativa del Distrito Federal toda la documentación que a lo largo de la Legislatura haya estado en poder de la Comisión, de conformidad con el artículo 38 del Reglamento para el Gobierno Interior de la Asamblea Legislativa.
 
 ###### Artículo 13.
 
@@ -334,9 +334,11 @@ DEL PROCEDIMIENTO DE TRABAJO EN LA COMISIÓN.
 
 De las Reuniones de Trabajo.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 20.
 
-La Comisiones se reunirán en sesión por lo menos una vez cada dos meses, o en fechas diversas, cuando lo acuerde la Mesa Directiva, la Comisión de Gobierno o la Mesa Directiva del Pleno de la Asamblea, de conformidad con lo que establece el artículo 39 del Reglamento.
+Las Comisiones se reunirán en sesión por lo menos una vez al mes, o en fechas diversas, cuando lo acuerde la Mesa Directiva, la Comisión de Gobierno o la Mesa Directiva del Pleno de la Asamblea, de conformidad con lo que establece el artículo 39 del Reglamento.
 
 ###### Artículo 21.
 
@@ -512,9 +514,11 @@ III. El Secretario realizará el cómputo respectivo y dará a conocer el result
 
 IV. El Presidente declarará el sentido de la votación y los resolutivos correspondientes.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+
 ###### Artículo 46.
 
-Las resoluciones de la Comisión diversas a las reguladas por el artículo 36 de este Reglamento se obtendrán por votación económica.
+Las resoluciones de la Comisión diversas a las reguladas por el artículo 44 de este Reglamento se obtendrán por votación económica.
 
 ###### Artículo 47.
 
@@ -657,3 +661,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación ante el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Una vez aprobado el presente dictamen, la Comisión de Gobierno a la brevedad acordará resolver la disolución de los Grupos Parlamentarios que no cumplan con los requisitos establecidos en los artículos 85 de la Ley Orgánica y 10 del Reglamento para el Gobierno Interior, ambos de la Asamblea Legislativa del Distrito Federal, conforme al acuerdo y dadas las condiciones políticas que para el efecto determine dicha comisión, asimismo, acordará la nueva integración de las Presidencias de Comisiones o Comités que de ella deriven.
+
+TERCERO.- Las disposiciones contenidas en la fracción IV y penúltimo párrafo del artículo 61 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, antepenúltimo y penúltimos párrafos del artículo 28 y la fracción VIII del artículo 73 del Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, entrarán en vigor una vez que esté conformado el Instituto de Investigaciones Parlamentarias.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal, deberá expedir la Ley del Servicio Parlamentario de Carrera dentro de los 120 días naturales siguientes a la aprobación del presente decreto, por el Pleno.
+
+QUINTO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
