@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-07-05"
+last_updated: "2007-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1631,7 +1631,9 @@ LENOCINIO DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TI
 
 Comete el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, que ejerza la fuerza física o moral así como la omisión grave en contra de un miembro de su familia en su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
 
-Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de diez a sesenta días de salario mínimo, asimismo el culpable perderá el derecho de pensión alimenticia y se le sujetará a tratamiento psicológico adecuado.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+
+Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de 160 a 200 días de salario mínimo; asimismo, el culpable perderá el derecho de pensión alimenticia y se le sujetará a tratamiento psicológico adecuado.
 
 Este delito se perseguirá por querella necesaria, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
 
@@ -3182,3 +3184,15 @@ P.O. 5 DE JULIO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido por este Decreto.
+
+P.O. 10 DE JULIO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Prevención y Atención de la Violencia Intrafamiliar o Doméstica del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 28 de julio de 1998.
+
+TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalados dentro de los sesenta días siguientes a la fecha en que entre en vigor la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, a que alude el artículo 1º. del presente Decreto.
+
+CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
+
+QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
