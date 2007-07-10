@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2007-06-12"
+last_updated: "2007-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DEJULIO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -155,7 +155,9 @@ a) Los menores.
 
 b) Las mujeres.
 
-c) Los adultos mayores, y
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+
+c) Los adultos mayores;
 
 IV. En estado de desventaja social:
 
@@ -193,7 +195,13 @@ b) Las mujeres:
 
 c) Los adultos mayores en situación de maltrato físico o mental.
 
-d) Los indigentes.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+
+d) Los indigentes, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
+
+V. Las que se encuentren en situación de violencia familiar.
 
 ###### ARTICULO 7º.
 
@@ -1220,3 +1228,15 @@ CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta d
 QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Prevención y Atención de la Violencia Intrafamiliar o Doméstica del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 28 de julio de 1998.
+
+TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalados dentro de los sesenta días siguientes a la fecha en que entre en vigor la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, a que alude el artículo 1o. del presente Decreto.
+
+CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
+
+QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquéllos les competa.
