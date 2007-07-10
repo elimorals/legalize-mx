@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "2004-07-14"
+last_updated: "2007-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -535,11 +535,15 @@ El Congreso eligirá (sic) también Comisiones Especiales de carácter temporal 
 
 Las Comisiones que designe el Presidente para dar cumplimiento al ceremonial cuando se hagan necesarias, tendrán carácter de transitorias.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 64.
 
-El Congreso deberá designar, por lo menos, las siguientes Comisiones de carácter permanente:
+El Congreso deberá designar Comisiones de carácter permanente, mismas que tendrán a su cargo la dictaminación de los asuntos de su competencia, siendo las siguientes:
 
-I.- Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2007)</small>
+
+I.- Puntos Constitucionales, Gobernación y Asuntos Electorales.
 
 II.- Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda, y Patrimonio Estatal y Municipal.
 
@@ -549,37 +553,59 @@ IV.- Industria, Comercio, Artesanía y Turismo.
 
 V.- Tenencia de la Tierra, Agricultura, Ganadería, Forestal y Recursos Pesqueros.
 
-VI.- Salud Pública, Ecología, Vivienda, Protección y Mejoramiento del Ambiente.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2007)</small>
 
-VII.- Obras Públicas, Comunicaciones, Transporte y Desarrollo Urbano.
+VI.- Salud.
+
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2007)</small>
+
+VII.- Obras Públicas, Vivienda y Desarrollo Urbano.
 
 VIII.- Administración e Impartición de Justicia, Seguridad Pública, Prevención y Readaptación Social.
 
-IX.- Trabajo, Asistencia y Seguridad Social y Peticiones.
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2007)</small>
+
+IX.- Trabajo, Asistencia y Seguridad Social.
 
 X.- Corrección de Estilo.
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA] D.O. 12 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, D.O. 10 DE JULIO DE 2007)</small>
 
-XI.- Derechos Humanos.
+XI.- Derechos Humanos y Grupos Vulnerables.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA] D.O. 12 DE JUNIO DE 1995)</small>
 
 XII.- Desarrollo Municipal.
 
+> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2007)</small>
+
+XIII.- Ecología, Protección y Mejoramiento del Ambiente, y
+
+> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2007)</small>
+
+XIV.- Comunicaciones y Transporte.
+
 > <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
 Las atribuciones de las Comisiones serán las siguientes:
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE JULIO DE 2007)</small>
 
-a) Legislación, Puntos Constitucionales y Gobernación, y Asuntos Electorales, tendrá como atribuciones:
+a) Puntos Constitucionales, Gobernación y Asuntos Electorales, tendrán como atribuciones:
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 1.- El estudio y dictamen sobre los proyectos de Ley que se presenten en los términos de la Constitución Política del Estado y de esta Ley.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 2.- Iniciativas presentadas en los mencionados términos que se refieran a disposiciones contenidas tanto en la Constitución General de la República como la particular del Estado y cuestiones que se refieran a hechos puramente administrativos del Gobierno del Estado y de los Ayuntamientos.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 3.- La elaboración de iniciativas-dictámenes para adecuar los preceptos de las Constituciones Federal y Estatal a las Leyes locales o sobre disposiciones legales cuya observancia tengan carácter de urgente y sean de interés público, en este último caso deberá cumplirse con lo dispuesto en el párrafo final del artículo 102 de esta Ley; y
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 4.- Todos los asuntos electorales.
 
@@ -599,33 +625,41 @@ d).- Industria, Comercio, Artesanías y Turismo. Esta Comisión, se avocará (si
 
 e).- Tenencia de la Tierra, Agricultura, Ganadería, Forestal y Recursos Pesqueros. Esta Comisión tendrá a su cargo el estudio y dictamen de los problemas relativos a la Regularización de la Tenencia de la Tierra, coadyuvando a que su ejecución sea expedita, justa y equitativa; a las reservas territoriales, para que los Municipios del Estado puedan desarrollarse racional y armónicamente, a impulsar la agroindustria, a proteger la repoblación forestal y a fomentar la pesca en el Estado.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 10 DE JULIO DE 2007)</small>
 
-f).- Salud Pública, Ecología, Vivienda, Protección y Mejoramiento del Ambiente. Esta Comisión, estudiará y dictaminará cuestiones relativas a la salud, en la concepción de sus leyes propiciando que éstas instrumenten los medios necesarios para fomentar los programas que se deben llevar a cabo para la protección del ser humano en su higiene personal como ambiental; a preservar el equilibrio ecológico; a la demanda de vivienda propugnando por soluciones que beneficien a los sectores socialmente desprotegidos; a proteger y a mejorar el ambiente para que todos los valores naturales, sociales y culturales del hombre mejoren sus condiciones de vida.
+f).- Salud. Esta Comisión, estudiará y dictaminará asuntos relativos a la salud, con el fin de instrumentar los medios necesarios para la protección de las personas y la comunidad; analizará y dictaminará sobre los asuntos encaminados a mejorar el nivel de salud de la población, procurando principalmente, fortalecer las acciones dirigidas a los grupos de escasos recursos económicos; fomentará que los médicos presten sus servicios en las comunidades rurales y que las unidades instaladas en dichas comunidades, cuenten, por lo menos, con medicamentos de primer nivel y material de curación para atender las necesidades urgentes de los ciudadanos; estudiará, recomendará y dictaminará sobre el control sanitario, en establecimientos que vendan alimentos, bebidas no alcohólicas y alcohólicas, así como lo relativo al control sanitario en el Estado en sus límites con otros Estados del país y, en su caso, de acuerdo a lo que establezca la ley federal de la materia conocer los programas de salud pública del Estado y de los Municipios, y fundamentalmente aquellos que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 10 DE JULIO DE 2007)</small>
 
-g) Obras Públicas, Comunicaciones, Transporte y Desarrollo Urbano. Esta Comisión estudiará y dictaminará sobre cuestiones que tiendan a propiciar las obras de interés público en el Estado; autorizar a las empresas encargadas de comunicaciones y transportes, créditos para el mejor funcionamiento y servicio a la colectividad; y a impulsar el desarrollo de nuestra urbe armónica y congruente con la justicia social.
+g).- Obras Públicas, Vivienda y Desarrollo Urbano. Estudiará y dictaminará sobre los asuntos relacionados con el desarrollo urbano de la entidad; a la demanda de vivienda particularmente para los sectores socialmente desprotegidos; los asentamientos humanos; así como dictaminar sobre las acciones tendientes a la regularización de la tenencia de la tierra urbana; conocerá lo relacionado a la creación de centros de población en cualesquiera de las categorías establecidas por la Ley de Gobierno de los Municipios del Estado de Yucatán; conocerá de las políticas y acciones para la construcción, reconstrucción, conservación y preservación de edificios públicos, monumentos, obras de ornato y las demás que realice el Estado; asimismo, los asuntos referentes a convenios sobre desarrollo urbano que celebre el Ejecutivo con las demás entidades federativas y con la federación y lo relacionado con planes de urbanización estatales y regional. Además conocer de las obras de interés público en el Estado.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 h) Administración e Impartición de Justicia, Seguridad Pública, Prevención y Readaptación Social. Esta Comisión estudiará y dictaminará sobre aspectos de la administración de justicia, propiciando que el desempeño de las funciones se realice en forma justa y eficiente; que la impartición de justicia sea pronta y expedita; que los responsables de la seguridad pública reciban permanentemente capacitación adecuada, para mejorar la protección de la sociedad; y que se establezcan unidades capaces para la readaptación social del hombre y la mujer y éstos logren reintegrarse a la sociedad como personas productivas.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 10 DE JULIO DE 2007)</small>
 
-i) Trabajo, Asistencia y Seguridad Social y Peticiones. Esta Comisión estudiará y dictaminará sobre asuntos relacionados con la planeación y creación de nuevas fuentes de trabajo; para diversificar la economía del Estado; a satisfacer la demanda de trabajo y de mano de obra calificada tomando medidas y precauciones necesarias en determinados hechos; a propiciar que las medidas de asistencia y seguridad social protejan a la comunidad; los asuntos que se refieran a las solicitudes que se presenten y no corresponda específicamente a ninguna de las comisiones anteriormente relacionadas.
+i).- Trabajo, Asistencia y Seguridad Social. Esta Comisión estudiará y dictaminará sobre asuntos relacionados con el derecho burocrático estatal, así como el fomentó de fuentes de empleo; a propiciar que las medidas de asistencia y seguridad social protejan al sector productivo y laboral.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 j) Corrección de Estilo. Esta Comisión tendrá a su cargo la redacción de las minutas de Ley, Decreto o Acuerdo aprobados.
 
-> <small>(REFORMADO [N. DE ADICIONADO], D.O. 12 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, D.O. 10 DE JULIO DE 2007)</small>
 
-k).- Derechos Humanos. Esta Comisión tendrá por objeto estudiar y dictaminar sobre los asuntos relacionados con los Derechos Humanos, entendiéndose por tales el conjunto de facultades, prerrogativas, libertades y pretensiones propias del ser humano como ente social, incluidos los recursos y mecanismos de garantía de todas ellas que se reconocen en el hombre, considerado individual y colectivamente. Tendrá la responsabilidad de proponer y vigilar el cumplimiento de la política estatal en materia de respeto y defensa de los Derechos Humanos, tanto de los mexicanos, como de los extranjeros que se encuentren en el Estado, velando por la preservación del orden, la paz y la estabilidad social de nuestra Entidad, para salvaguardar el pleno ejercicio de las Garantías establecidas en la Constitución de la República, la particular del Estado de Yucatán y demás leyes, reglamentos, tratados y convenios que de ellas emanen, inclusive los de carácter internacional.
+k).- Derechos Humanos y Grupos Vulnerables. Esta Comisión tendrá por objeto estudiar y dictaminar sobre los asuntos relacionados con los Derechos Humanos, el nombramiento y remoción del Presidente y los consejeros de la Comisión Estatal de Derechos Humanos del Estado. Tendrá a su vez, la responsabilidad de proponer y vigilar el cumplimiento de la política estatal en materia de respeto y defensa de los Derechos Humanos, tanto de los mexicanos, como de los extranjeros que se encuentren en el Estado; así como, vigilar y procurar la equiparación de oportunidades para todos aquellos grupos o personas que se encuentran en situación de vulnerabilidad o desventaja; coadyuva en la erradicación de la discriminación, brindando atención especial a los grupos vulnerables y canalizar sus demandas ante las autoridades competentes.
 
 > <small>(REFORMADO [N. DE ADICIONADO], D.O. 12 DE JUNIO DE 1995)</small>
 
 l).- Desarrollo Municipal. Esta Comisión estudiará y dictaminará sobre los asuntos relacionados con la promoción del desarrollo socioeconómico de los municipios cooperando con los Ayuntamientos de la entidad al cumplimiento de las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Yucatán y en los demás ordenamientos legales aplicables, promoviendo el desarrollo integral de los mismos.
+
+> <small>(ADICIONADO, D.O. 10 DE JULIO DE 2007)</small>
+
+m).- Ecología, Protección y Mejoramiento del Ambiente. Esta comisión tiene a su cargo estudiar y dictaminar sobre los aspectos ecológicos, de protección y mejoramiento del ambiente para preservar el equilibrio ecológico; procurará que se proteja y mejore el ambiente para que todos los valores naturales, sociales y culturales del hombre mejoren sus condiciones de vida; estudiará y dictaminará en relación al desarrollo sustentable, a la protección del ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal; coadyuvará en las acciones de concientización social para la preservación del equilibrio ecológico y del medio ambiente; fomentará campañas con el apoyo de personal técnico, científico y académico, que planteen soluciones a los problemas ambientales y la preservación de los ecosistemas.
+
+> <small>(ADICIONADO, D.O. 10 DE JULIO DE 2007)</small>
+
+n).- Comunicaciones y Transporte. Esta Comisión tendrá por objeto estudiar y dictaminar; Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; mantener estrecha relación con todos los organismos de esta materia, para que en forma coordinada se logren la prestación de mejores servicios; conocerá de los asuntos relacionados con las comunicaciones y transportes que sean de la competencia estatal, así como de las disposiciones de vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1294,3 +1328,13 @@ D.O. 14 DE JULIO DE 2004.
 PRIMERO.- Para los efectos del Artículo 54 de esta Ley, por esta única ocasión, el H. Congreso del Estado nombrará al tercer vocal de la Gran Comisión; en la sesión inmediata de la entrada en vigor de la presente reforma.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 10 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los diputados integrantes de las Comisiones Permanentes de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales y la de Trabajo, Asistencia y Seguridad Social y Peticiones de la LVIII Legislatura; serán los mismos que integren las Comisiones de Puntos Constitucionales, Gobernación y Asuntos Electorales y los de Trabajo, Asistencia y Seguridad Social, respectivamente.
