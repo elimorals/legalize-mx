@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2007-06-12"
+last_updated: "2007-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -2141,13 +2141,17 @@ III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o a
 
 IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2007)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor, y
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2007)</small>
 
-VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
+VI.- Cuando el que la ejerza sea condenado por dos o más veces por delito grave, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
+
+VII.- En los casos que los padres sean condenados por la comisión de un delito de violencia familiar, y en los resultados de los estudios de peligrosidad, ésta sea superior a la media.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
@@ -9846,3 +9850,15 @@ CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta d
 QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Prevención y Atención de la Violencia Intrafamiliar o Doméstica del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 28 de julio de 198.
+
+TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalados dentro de los sesenta días siguientes a la fecha en que entre en vigor la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, a que alude el artículo 1º. del presente Decreto.
+
+CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
+
+QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
