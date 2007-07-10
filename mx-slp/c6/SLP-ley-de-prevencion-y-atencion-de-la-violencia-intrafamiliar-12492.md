@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-intrafamiliar-1249
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-28"
-last_updated: "1998-07-28"
+last_updated: "2007-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR O DOMESTICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO 197, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el martes 28 de julio de 1998.
 
@@ -262,3 +264,17 @@ El Secretario General de Gobierno
 LIC. MARTIN CELSO ZAVALA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE JULIO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Prevención y Atención de la Violencia Intrafamiliar o Doméstica del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 28 de julio de 1998.
+
+TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalados dentro de los sesenta días siguientes a la fecha en que entre en vigor la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, a que alude el artículo 1º. del presente Decreto.
+
+CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
+
+QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
