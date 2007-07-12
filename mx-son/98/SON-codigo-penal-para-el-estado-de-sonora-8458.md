@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2006-07-06"
+last_updated: "2007-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 2007.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -401,9 +401,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito y la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 Bis, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores e incapaces, violación, violencia intrafamiliar, rapto, abusos deshonestos, pornografía infantil, privación ilegal de la libertad, secuestro, homicidio, injurias, difamación, calumnia y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 Bis, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores e incapaces, violación, violencia intrafamiliar, rapto, abusos deshonestos, pornografía infantil, privación ilegal de la libertad, secuestro, homicidio, calumnia y chantaje.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2479,6 +2479,8 @@ Si el amenazador exigía que el amenazado ejecutara un delito y consigue su prop
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 240.
 
 Se impondrá prisión de un mes a cuatro años y de diez a ciento cincuenta días multa, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, se introduzca con engaños o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de casa habitada.
@@ -2777,61 +2779,35 @@ DELITOS CONTRA EL HONOR
 
 ###### ARTICULO 276.
 
-Injuria es toda expresión proferida o toda acción ejecutada para manifestar desprecio a otro, o con el fin de hacerle una ofensa.
-
-Cuando la acción o violencia física simple causen lesión, el responsable será sancionado en los términos que para el delito de lesiones fija este Código.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 277.
 
-Al responsable del delito de injurias se le aplicará de quince a ciento ochenta jornadas de trabajo en favor de la comunidad.
-
-Cuando las injurias fueren recíprocas, el juez podrá, según las circunstancias, declarar exentas de sanción a las dos partes o a alguna de ellas, o exigirles caución de no ofender.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 278.
 
-La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien.
-
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
-
-Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 234-A y 234-B, la pena se aumentará en un tercio.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 279.
 
-La difamación se sancionará con prisión de un mes a dos años o de cuarenta a trescientos días multa.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 280.
 
-El acusado de difamación sólo podrá probar la verdad de la imputación en los casos siguientes:
-
-I.- Si la imputación hubiere tenido por objeto defender o garantizar un interés público actual;
-
-II.- Si el hecho atribuido a la persona ofendida, hubiere dado lugar a un proceso penal; y
-
-III.- Si el querellante pidiere la prueba de la imputación dirigida contra él.
-
-En estos casos, si se probare la verdad de las imputaciones, el acusado quedará exento de sanción.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 281.
 
-No se aplicará sanción alguna por difamación o injuria:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Al que manifestare su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas de que es falso; y
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la ley.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 282.
 
-El injuriado o difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de injuria, de difamación o de calumnia, según le conviniere.
-
-Cuando el delito imputado sea de los que se persiguen de oficio, solamente podrá quejarse por calumnia.
-
-Cuando la queja fuere de calumnia, se permitirá al reo pruebas de su imputación, y si ésta quedare probada, se liberará aquél de toda sanción, excepto en el caso del artículo 286.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 283.
 
-No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
 
 ###### ARTICULO 284.
 
@@ -2863,29 +2839,27 @@ Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguie
 
 ###### ARTICULO 288.
 
-No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por queja de la persona ofendida o de su legítimo representante, excepto en los casos siguientes:
+No se podrá proceder contra el autor de una calumnia, sino por queja de la persona ofendida o de su legítimo representante, excepto si el ofendido ha muerto y la calumnia fue posterior a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
 
-I.- Si el ofendido ha muerto y la injuria, la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
-
-Cuando la injuria, la difamación o la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá a la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa o, sabiendo que se le habían inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos; y
-
-II.- Cuando la ofensa sea contra el Estado o su Gobierno, o contra alguno de los Poderes que lo forman.
-
-En estos casos la acusación deberá hacerla el Ministerio Público, sin necesidad de excitativa del Gobierno.
+Cuando la calumnia sea anterior al fallecimiento del ofendido, no se atenderá a la queja de las personas mencionadas, si aquél hubiere perdonado la ofensa o, sabiendo que se le habían inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieran sus herederos.
 
 ###### ARTICULO 289.
 
-La injuria, la difamación y la calumnia contra la legislatura, contra un tribunal o cualquier otro cuerpo colegiado o institución oficial, se sancionará con sujeción a las reglas de este título, sin perjuicio de lo dispuesto en el artículo 165 de este Código.
+(DEROGADO, B.O. 12 DE JULIO DE 2007)
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 290.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán, a menos que se trate de un documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
+Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la calumnia, se recogerán e inutilizarán, a menos que se trate de un documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
 
 En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 291.
 
-Siempre que sea sancionado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la parte ofendida, se publicará la sentencia en uno o más periódicos de la localidad o del Estado, o de otra localidad, Estado o del Distrito Federal. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo.
+Siempre que sea sancionado el responsable de una calumnia, si lo solicita la parte ofendida, se publicará la sentencia en uno o más periódicos de la localidad o del Estado, o de otra localidad, Estado o del Distrito Federal. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo.
 
 TITULO DECIMOCTAVO
 
@@ -3644,3 +3618,9 @@ B.O. 6 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
