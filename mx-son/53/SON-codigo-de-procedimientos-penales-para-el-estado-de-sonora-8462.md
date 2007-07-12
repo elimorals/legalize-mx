@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2006-07-06"
+last_updated: "2007-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 2007.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1135,9 +1135,9 @@ Cuando en vista de la averiguación previa el Agente del Ministerio Público a q
 
 Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de la responsabilidad en que incurra.
 
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
 
-La resolución de no ejercicio de la acción penal que dicte el ministerio público quedará firme cuando se trate de los siguientes delitos previstos en el Código Penal para el Estado de Sonora: Conducción punible de vehículos, previsto en el artículo 144; violación de correspondencia, previsto en el artículo 152; ultrajes a la moral pública, previsto en el artículo 167; revelación de secretos, previsto en el artículo 176; incumplimiento de obligaciones familiares, previsto en el artículo 232; lesiones, previsto en el artículo 243, fracciones I y II con excepción del párrafo segundo y el supuesto señalado en el párrafo segundo del artículo 65; abandono de personas, previsto en el artículo 273; injurias, previsto en el artículo 276; difamación, previsto en artículo 278; calumnia, previsto en el artículo 284; robo, previsto en el artículo 302, cuando el monto estimado del daño o perjuicio no exceda de ciento cincuenta salarios mínimos; daños, previsto en el artículo 326, cuando el monto estimado de daño o perjuicio patrimonial no exceda de ciento cincuenta salarios mínimos; daños por culpa, previsto en el artículo 326, cuando el monto del daño o perjuicio patrimonial no exceda de quinientos salarios mínimos. En todos estos casos no habrá lugar a revisión por parte del Procurador General de Justicia del Estado y el ministerio público deberá notificar al ofendido de la resolución de no ejercicio de la acción penal.
+La resolución de no ejercicio de la acción penal que dicte el ministerio público quedará firme cuando se trate de los siguientes delitos previstos en el Código Penal para el Estado de Sonora: Conducción punible de vehículos, previsto en el artículo 144; violación de correspondencia, previsto en el artículo 152; ultrajes a la moral pública, previsto en el artículo 167; revelación de secretos, previsto en el artículo 176; incumplimiento de obligaciones familiares, previsto en el artículo 232; lesiones, previsto en el artículo 243, fracciones I y II con excepción del párrafo segundo y el supuesto señalado en el párrafo segundo del artículo 65; abandono de personas, previsto en el artículo 273; calumnia, previsto en el artículo 284; robo, previsto en el artículo 302, cuando el monto estimado del daño o perjuicio no exceda de ciento cincuenta salarios mínimos; daños, previsto en el artículo 326; cuando el monto estimado del daño o perjuicio patrimonial no exceda de ciento cincuenta salarios mínimos; daños por culpa, previsto en el artículo 326, cuando el monto del daño o perjuicio patrimonial no exceda de quinientos salarios mínimos. En todos estos casos no habrá lugar a revisión por parte del Procurador General de Justicia del Estado y el ministerio público deberá notificar al ofendido de la resolución de no ejercicio de la acción penal.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1321,7 +1321,7 @@ Durante la instrucción, el tribunal que conozca del proceso deberá, de acuerdo
 
 > <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
-El tribunal deberá tomar conocimiento directo de (sic) sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto. Además tratándose de delitos cuya acción penal pueda extinguirse mediante perdón del ofendido, y en aquellos cuya sanción máxima no exceda de tres años de prisión o tengan señaladas una pena alternativa, orientará al ofendido y al inculpado para que si lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
+El tribunal deberá tomar conocimiento directo de (sic) sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto. Además tratándose de delitos cuya acción penal pueda extinguirse mediante perdón del ofendido, y en aquellos cuya sanción máxima no exceda de tres años de prisión o tengan señalas una pena alternativa, orientará al ofendido y al inculpado para que si lo estiman procedente, acudan a un centro de mediación, para dirimir el conflicto en lo que resulte legalmente procedente.
 
 > <small>(ADICIONADO, B.O. 11 DE MAYO DE 1992)</small>
 
@@ -4182,6 +4182,12 @@ B.O. 20 DE OCTUBRE DE 2005.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 6 DE JULIO DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
