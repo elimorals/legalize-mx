@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2006-07-06"
+last_updated: "2007-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 12 DE JULIO DE 2007.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -11443,9 +11443,31 @@ IV.- Los interesados en el caso de muerte de la víctima, recibirán la pensión
 
 V.- Si el daño originare una incapacidad temporal, bien sea total o parcial, la indemnización será regulada atendiendo a las reglas especificadas en las fracciones I, II y III, debiendo determinarse por peritos el tiempo de la incapacidad y el grado de la misma, a efecto de que el juez establezca la duración de la pensión y el monto de ella, según que la incapacidad fuera total o parcial.
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2007)</small>
+
 ###### Art. 2087.
 
-El daño moral a que tengan derecho la víctima o sus beneficiarios será regulado por el juez en forma discrecional y prudente, tomando en cuenta los valores espirituales lesionados y que pueden consistir en el afecto, honor, prestigio, estimación de las cosas o integridad de las personas. En este último caso, cuando el daño origine una lesión en la víctima, que no la imposibilite total o parcialmente para el trabajo, el juez fijará el importe del daño moral, tomando en cuenta si la parte lesionada es o no visible, así como el sexo, edad y condiciones de la persona.
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afecto, creencias, decoro, honor, reputación, vida privada, prestigio o aspecto físico. Se presumirá que existe daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
+Cuando un hecho u omisión ilícito produzca un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material.
+
+El monto de la indemnización lo determinará el juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+
+En el caso de que la afectación sufrida por la víctima sea en su integridad física y la lesión que esto le origine no la imposibilite total o parcialmente para el trabajo, el juez fijará el importe del daño moral, tomando en cuenta, además de lo previsto en el párrafo anterior, si la parte lesionada es o no visible, así como el sexo, edad y condiciones de la persona.
+
+Una vez acreditado el daño moral, a petición de la víctima y con cargo al responsable, el juez podrá ordenar la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+Sin perjuicio de lo establecido en otras disposiciones legales, estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
+I.- El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien; y
+
+II.- Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando en dicha reproducción se cite la fuente de donde se obtuvo.
+
+La acción de reparación del daño moral no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
 
 La indemnización por daño moral es independiente de la patrimonial y se decretará aun cuando ésta no exista.
 
@@ -17565,7 +17587,7 @@ Si la finca estuviere asegurada y se destruyere por incendio u otro caso fortuit
 
 ###### Art. 3288.
 
-La hipoteca subsistirá integra aunque se reduzca la obligación garantizada, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
+La hipoteca subsistirá íntegra aunque se reduzca la obligación garantizada, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
 
 ###### Art. 3289.
 
@@ -18898,3 +18920,9 @@ B.O. 6 DE JULIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
