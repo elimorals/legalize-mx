@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1998-05-31"
+last_updated: "2007-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -183,11 +183,11 @@ Entre uno y otro de los instrumentos de un mismo volumen, no habrá más espacio
 
 Si por algún motivo quedare algún espacio en blanco, será inutilizado este espacio por el notario, por medio de líneas cruzadas.
 
-> <small>(REFORMADO. P.O. 19 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 19.
 
-El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en cualquiera de los libros en uso, cerrará todos los libros que esté utilizando y al día hábil siguiente a aquél en que concluya el término de sesenta días hábiles siguientes a la fecha de asiento de la última Escritura asentará a razón de clausura en la que expresará el número de fojas utilizadas, el número de instrumentos autorizados en el libro y el lugar en que se cierra, así como los instrumentos que no pasaron y los que quedan pendientes de autorización; enumerando aquellos y expresando el motivo de estar pendientes éstos. Inmediatamente enviará los libros a la Dirección General de Notarías, si reside en el mismo lugar que ésta, ó al encargado del Registro Público de la Propiedad de su domicilio en caso contrario; quienes en el mismo libro asentarán certificación de ser cierta la razón que cierra cada libro, autorizada con la firma y sello correspondientes, y devolverán los libros al Notario, inutilizando por medio de líneas cruzadas las hojas en blanco que hayan sobrado.
+El notario, cuando calcule que ya no puede dar cabida a otro instrumento más, en cualesquiera de los libros en uso, cerrará todos los libros que esté utilizando, y el día hábil siguiente a aquel en que concluya el término de sesenta días hábiles siguientes a la fecha de asiento de la última escritura asentará la razón de clausura en la que expresará el número de fojas utilizadas, el número de instrumentos autorizados en el libro y el lugar en que se cierra, así como los instrumentos que no pasaron y los que quedan pendientes de autorización; enumerando aquellos y expresando el motivo de estar pendientes éstos. Inmediatamente enviará los libros a la Dirección General de Notarías, quien en el mismo libro asentará certificación de ser cierta la razón que cierra cada libro, autorizada con la firma y sello correspondientes, y devolverán los libros al notario, inutilizando por medio de líneas cruzadas las hojas en blanco que hayan sobrado.
 
 ###### ARTICULO 20.
 
@@ -447,9 +447,55 @@ Cuando se trate de diligencias de jurisdicción voluntarias ó juicios sucesorio
 
 Bastará la simple petición de alguno de los interesados a la autoridad judicial para que éste de plano y sin más averiguaciones ordene al notario que, remita el expediente.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 43.
 
-Siempre que se otorgue un testamento público, abierto ó cerrado, los notarios darán en seguida aviso a la Dirección General de Notarías, expresando la fecha, nombre del testador y sus generales; y si el testamento fuere cerrado, indicarán además el lugar ó persona en cuyo poder se deposite. La Dirección General de Notarías llevará un libro especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan. Los Jueces ante quienes se denuncie un intestado, recabarán de la Dirección General de Notarías de inmediato, la noticia de si hay anotación en dicho libro, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate. Los testamentos cerrados que el testador haya dejado en guarda con el notario, deberán ser entregados a la Dirección General de Notarías, al mismo tiempo que se entregue el libro de protocolo en el cual quedó asentada la razón de cierre del testamento.
+Cuando ante un notario público se otorgue un testamento público, abierto o cerrado, éste dará aviso a la Secretaría General de Gobierno, a la. Dirección General de Notarías y al Colegio de Notarios del Estado en el que proporcione los siguientes datos:
+
+I. Nombre completo del testador;
+
+II. Nacionalidad;
+
+III. Fecha de nacimiento;
+
+IV. Lugar de nacimiento;
+
+V. Clave única de Registro Nacional de Población;
+
+VI. Estado civil;
+
+VII. Nombre completo del padre;
+
+VIII. Nombre completo de la madre;
+
+IX. Tipo de testamento;
+
+X. Número de escritura;
+
+XI. Tipo de notario, si es titular, adscrito, suplente o asociado;
+
+XII. Volumen;
+
+XIII. Fecha de su otorgamiento;
+
+XIV. Si se establecieron disposiciones de carácter irrevocable;
+
+XV. Lugar de otorgamiento;
+
+XVI. Nombre completo del notario;
+
+XVII. Número de notaría, y
+
+XVIII. Distrito Judicial de adscripción del notario.
+
+El aviso a que se refiere el párrafo anterior deberá efectuarse por escrito vía electrónica dentro de los 10 días hábiles siguientes a aquel en que se otorgó la voluntad testamentaria. (sic)
+
+Si el testamento fuere cerrado, indicarán además el lugar o persona en cuyo poder se deposite. La Dirección General de Notarías llevará un libro especialmente destinado asentar las inscripciones relativas, con los datos que se mencionan los jueces ante quienes se denuncie un intestado, recabarán de la Dirección General de Notarías, si existe o no anotación en el libro antes mencionado, la que solicitará también vía electrónica su búsqueda en el Registro Nacional de Avisos Testamentarios, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate. Los testamentos cerrados que el testador haya dejado en guarda con el notario, deberá ser entregados a la Dirección General de Notarías al mismo tiempo que se entregue el libro de protocolo en el cual quedó asentada la razón de cierre del testamento. (sic)
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ARTICULO 43 BIS.- Cuando se tramite una sucesión ante el notario público, se deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda a la Dirección General de Notarías, y ésta a su vez solicitará vía electrónica el reporte de búsqueda al Registro Nacional de Avisos de Testamento.
 
 ###### ARTICULO 44.
 
@@ -1302,3 +1348,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 31 DE MAYO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere la presente iniciativa de reforma y adición, se podrá recibir el informe de aviso de testamento impreso en papel hasta por un período de doce meses contados a partir de la entrada en vigor del presente decreto.
