@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2007-del-pleno-del-consejo-de-la-55961"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2007-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-06-20"
 
 ACUERDO GENERAL 16/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de junio de 2007.
 
@@ -167,15 +167,17 @@ IV. La materia de especialización, si la hubiera, de las vacantes concursadas;
 
 V. Los requisitos que deberán reunir los aspirantes conforme a los artículos 108 y última parte del 113 de la Ley, así como los señalados en este acuerdo;
 
-VI. La guía de estudios, que será la base del desarrollo de las diferentes etapas del concurso, se apoyará en criterios jurisprudenciales sustentados por la Corte funcionando en Pleno o Salas, en los últimos cinco años anteriores a la fecha de la publicación de la convocatoria, y que se refieran:
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2007)</small>
 
-- En materia penal: Al tipo penal; principales resoluciones dictadas en un proceso penal federal; cuestiones relativas a la etapa denominada “juicio” dentro del proceso penal federal; concurso de normas y de delitos; o el delito en general;
+VI. La guía de estudios, que será la base del desarrollo de las diferentes etapas del concurso, se apoyará en criterios jurisprudenciales sustentados por la Corte funcionando en Pleno o Salas, a partir de la Novena Epoca, y que se refieran:
 
-- En materia administrativa: amparo contra leyes; suspensión en el juicio de amparo en materia administrativa; ejecución de sentencias de amparo; el acto administrativo; o los problemas derivados de cuestiones fiscales, propiamente administrativas y agrarias;
+- En materia penal: Teoría general del delito; principales resoluciones dictadas en el procedimiento penal federal; delitos federales; amparo indirecto en materia penal y suspensión (cuestiones técnicas y cuestiones penales del conocimiento de los jueces de Distrito, a través del amparo); recursos en el juicio de amparo; reglas de aplicación de las normas penales federales;
 
-- En materia civil: ejecución de sentencias en materia mercantil; amparo indirecto en materia civil; terceros extraños en el juicio y respecto del juicio de amparo; acción y excepción; presupuestos procesales; o títulos de crédito;
+- En materia administrativa: El acto administrativo; problemas derivados de cuestiones fiscales, propiamente administrativas y agrarias; amparo indirecto y suspensión (cuestiones técnicas y cuestiones administrativas del conocimiento de los jueces de Distrito, a través del amparo); recursos en el juicio de amparo; ejecución de sentencias de amparo;
 
-- En materia laboral: incidentes dentro del juicio laboral; procedimiento del juicio laboral; amparo indirecto en materia laboral; pruebas dentro del juicio laboral; o tercerías dentro del juicio laboral;
+- En materia civil: Juicios civiles y mercantiles federales; amparo indirecto en materia civil y mercantil, suspensión (cuestiones técnicas, cuestiones civiles y mercantiles del conocimiento de los jueces de Distrito, a través del amparo); recursos en el juicio de amparo; ejecución de sentencias de amparo;
+
+- En materia laboral: Procedimiento del juicio laboral e incidentes dentro del juicio laboral; tercerías en el juicio laboral; amparo indirecto en materia laboral y suspensión (cuestiones técnicas y cuestiones laborales del conocimiento de los jueces de Distrito, a través del amparo); ejecución de sentencias de amparo;
 
 VII. El lugar (ciudad, calle y número), para que los aspirantes que accedan al concurso presenten los documentos que se les solicitan;
 
@@ -518,3 +520,9 @@ SEGUNDO. Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación el 
 TERCERO. Para su difusión, este Acuerdo se publicará en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en la página web del Consejo de la Judicatura Federal.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2007, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Jueces de Distrito, fue aprobado en sesión ordinaria de veinte de junio de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a veinte de junio de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE JULIO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS REFORMADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
