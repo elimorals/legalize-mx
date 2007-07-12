@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2007-05-06"
+last_updated: "2007-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2007.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -215,15 +215,19 @@ Disposiciones Generales.
 
 ART. 35.- Las funciones del Registro Civil en el Estado de Durango, estarán a cargo de la Dirección General del Registro Civil y de los Funcionarios Estatales denominados Oficiales del Registro Civil, quienes tendrán fé pública en el desempeño de éstas actividades.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 36.- En el asentamiento de las Actas del Registro Civil intervendrán: La Dirección General del Registro Civil en el Estado, el Oficial del Registro Civil que autoriza y que dá fé, los particulares que soliciten el servicio ó sus representantes legales, en su caso, y los testigos que corroboren lo dicho por los interesados y atestiguan el Acta, quienes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en ésta; asimismo, se imprimirá en ellas el sello de la Oficialía.
+ART. 36.- En el asentamiento de las Actas del Registro Civil intervendrán, el Oficial del Registro Civil que autoriza y que da fé, los particulares que soliciten el servicio ó sus representantes legales, en su caso, y los testigos que corroboren lo dicho por los interesados y atestigüen el Acta, quiénes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en ésta, asimismo, se imprimirá en ellas el sello de la Oficialía.
 
-Las Actas del Registro Civil se referirán exclusivamente a los Actos concernientes al estado civil de las personas y harán constar el principio y extinción de la vida jurídica, y se acreditarán las relaciones de parentezco (sic) matrimonio y las que se deriven de actos judiciales y administrativos relativos al estado civil, el Reglamento del Registro Civil establecerá las técnicas que se emplearán para la conservación perene (sic) de los documentos de la institución.
+La certificación podrá autentificarse por firma autógrafa o electrónica del servidor público facultado para ello conforme a este Código. Las copias certificadas así expedidas tendrán el mismo valor jurídico probatorio.
 
-Las Actas del Registro Civil se asentarán en formas especiales, las Inscripciones se harán por cuadruplicado, la infracción de ésta disposición producirá la nulidad del Acta y se castigará con la destitución de los Funcionarios que incurran en la falta.
+Por firma electrónica se entenderá la que utilice como forma de autentificar por medios electrónicos la autorización del servidor público competente y con la cual el firmante aprueba la información contenida en el acta, según el sistema que implemente la Dirección General del Registro Civil, la que deberá utilizar mecanismos confiables para evitar la falsificación.
 
-Las Actas del Registro Civil que se asentarán son las siguientes: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida ó la limitación de la capacidad legal para adquirir bienes. Para éste efecto se deberán utilizar las formas que especialmente proporcionará la Dirección General del Registro Civil en el Estado.
+Las Actas del Registro Civil se referirán exclusivamente a los Actos concernientes al estado civil de las personas y harán constar el principio y extinción de la vida jurídica, y se acreditarán las relaciones de parentesco, matrimonio y las que se deriven de actos judiciales y administrativos relativos al estado civil. El Reglamento del Registro Civil establecerá las técnicas que se emplearán para la conservación perenne de los documentos de la institución.
+
+Las Actas del Registro Civil se asentarán en formas especiales, las Inscripciones se harán pro (sic) cuadruplicado, la infracción de ésta disposición producirá la nulidad del Acta y se castigará con la destitución de los Funcionarios que incurran en la falta.
+
+Las Actas del Registro Civil que se asentarán son las siguientes: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para adquirir bienes. Para éste efecto se deberán utilizar las formas que especialmente proporcionará la Dirección General del Registro Civil en el Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -2231,11 +2235,13 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 27
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JULIO DE 2007)</small>
+
+IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por mas de dos meses.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
 
-Cuando se acredite que el menor es expósito, la pérdida de la patria potestad operará de inmediato.
+Cuando se acredite que el menor es expósito, la pérdida de la patria potestad operará de inmediato;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -4979,7 +4985,7 @@ ART. 1291.- El legatario puede exigir que el heredero otorgue fianza en todos lo
 
 ART. 1292.- Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la hipoteca necesaria.
 
-ART. 1293 (SIC).- Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
+ART. 1293.- No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
 
 ART. 1294.- Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
 
@@ -5049,7 +5055,7 @@ ART. 1321.- Es nulo el legado de cosa que al otorgarse el testamento pertenezca 
 
 ART. 1322.- Si en la cosa legada tiene alguna parte el testador o un tercero debiéndolo aquel, en lo que a ellos corresponda, vale el legado.
 
-ART. 1293 (SIC).- No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
+ART. 1293 (SIC).- Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
 
 ART. 1324.- Es válido el legado hecho a un tercero de cosa propia del heredero o de un legatario quienes, si aceptan la sucesión, deberán entregar la cosa legada o su precio.
 
@@ -5245,7 +5251,9 @@ ART. 1391.- En el caso del artículo que precede, no tendrá validez el testamen
 
 ART. 1392.- Se prohibe a los notarios y cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
-ART. 1393.- El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace es responsable de los daños y perjuicios que la dilación ocasione.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1393.- Siempre que se otorgue un testamento ante notario público, éste deberá formular un aviso de testamento a la Secretaría General de Gobierno, a la Dirección General de Notarías, quien a su vez lo remitirá al Registro Nacional de Avisos de Testamento por vía electrónica con los datos conducentes señalados en la legislación aplicable y al Colegio de Notarios del Estado, en el formato establecido por la propia Dirección.
 
 ART. 1394.- Lo dispuesto en el artículo que precede se observará también por cualesquiera que tenga en su poder un testamento.
 
@@ -5379,21 +5387,59 @@ ART. 1437.- Si contuviere palabras tachadas, enmendadas o entre renglones, las l
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
-ART. 1438.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El Original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos esñalados (sic), marcas que estime necesarios para evitar violaciones.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 1439.- El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la Oficina. En caso de que intervengan testigos de identificación, también firmarán.
+ART. 1438.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la Dirección General de Notarias, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se abrirá después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos señalados, marcas que estime necesarias para evitar violaciones.
 
-ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la Oficina: "Recibí el pliego cerrado que el señor.... afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+Una vez depositado el testamento ológrafo, la Dirección General de Notarias, dentro de los cinco días hábiles siguientes, remitirá vía electrónica a la base de datos del Registro Nacional de Avisos de Testamento el aviso de su depósito en el que se expresarán los datos siguientes:
 
-ART. 1441.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encuentre, para cumplir las formalidades del depósito.
+I.- Nombre completo del testador;
 
-ART. 1442.- Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+II.- Nacionalidad;
+
+III.- Fecha de nacimiento;
+
+IV.- Lugar de nacimiento;
+
+V.- Clave Única del Registro Nacional de Población;
+
+VI.- Estado civil;
+
+VII.- Nombre completo del padre;
+
+VIII.- Nombre completo de la madre;
+
+IX.- Tipo de testamento;
+
+X.- Lugar y fecha de su otorgamiento; y
+
+XI.- Datos del registro de la dependencia donde se depositó.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1439.- El depósito en la Dirección General de Notarías se hará personalmente por el testador, quien deberá presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador, los testigos y por el Director.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor.... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1441.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en la Dirección General de Notarías, el Director deberá concurrir al lugar donde aquél se encuentre, para cumplir las formalidades del depósito.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1442.- Hecho el depósito, el Director General de Notarías, tomará razón en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer entrega al mismo testador o al juez competente.
 
 ART. 1443.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandato con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en un acta que firmarán el interesado y el encargado de la oficina.
 
-ART. 1444.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 1445.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento, que se lo remita.
+ART. 1444.- El juez ante quien se promueva un juicio sucesorio pedirá informe a la Dirección General de Notarías, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea se le remita el testamento.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1445.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al Director General de Notarías, que se lo remita.
 
 ART. 1446.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1436 y queda comprobado que es el mismo que depositó el testador, se declara formal el testamento de éste.
 
@@ -5401,7 +5447,9 @@ ART. 1447.- Sólo cuando el original depositado haya sido destruído o robado, s
 
 ART. 1448.- El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieron borradas, raspadas o con enmendaduras, aún cuando el contenido del testamento no sea vicioso.
 
-ART. 1449.- El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1449.- El Director General de Notarías, no proporcionará informes acerca del testamento ológrafo depositado en la Dirección, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
 ### CAPITULO V.
 
@@ -5499,7 +5547,9 @@ ART. 1478.- Los Secretarios de Legación, los Cónsules y los Vicecónsules mexi
 
 ART. 1479.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, a la Secretaría de Relaciones Exteriores, para los efectos prevenidos en el artículo 1474.
 
-ART. 1480.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones, en el término de diez días, al encargado del Registro Público del domicilio que, dentro del Estado, señale el testador.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1480.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días a la Dirección General de Notarías.
 
 ART. 1481.- Si el testamento fuere confiado a la guarda del Secretario de Legación, Cónsul o Vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
 
@@ -6446,6 +6496,38 @@ IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son
 V.- Las anteriores disposiciones se observarán en el caso del artículo 2527 de este Código.
 
 ART. 1800.- Independientemente de los daños y perjuicios, el juez puede acordar, en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1812.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1800 BIS.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de si misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1797, así como el Estado y sus servidores públicos, conforme al artículo 1811, todos ellos del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+El que comunique a una o más personas la imputación que se hace a otra persona física, o persona moral, de un hecho cierto o falso, determinado, o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien, al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa, al que presente denuncias o querellas calumniosas, entendiéndose por tales aquéllas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido; al que ofenda el honor, ataque la vida privada o la imagen propia de una persona, estará sujeto a la reparación del daño moral en lo estipulado por este ordenamiento y de conformidad con los elementos objetivos y de prueba que se harán allegar al juez de la causa y siempre que se haya acreditado debidamente la afectación patrimonial o moral del afectado con las excepciones referidas en el artículo 1800 ter.
+
+La reparación del daño moral con relación al párrafo anterior, deberá contener la obligación de la ratificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, ésto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
+
+La reproducción fiel de información no da lugar al daño moral, aún en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2007)</small>
+
+ART. 1800 TER.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6°. y 7°. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual, deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+
+En ningún caso se considerarán ofensas al honor los juicios desfavorables de la crítica literaria, artística, histórica, científica o profesional; el concepto "desfavorable" expresado en cumplimiento de un deber o ejerciendo un derecho siempre que el modo del proceder o la falta de reserva, cuando debió haberla, no demuestre un propósito ofensivo.
+
+La acreditación de la intención maliciosa de difundir las informaciones contempladas en el artículo 1800 bis, operará en los casos en los que el demandante sea un servidor público y se sujetará a los términos y condiciones del presente capítulo.
+
+Se entenderá por intención maliciosa cuando el que difunda la información falsa o errónea tuviera conocimiento de ella con antelación y que, sabedor de ello la publicitó, o cuando sin conocer la veracidad de la misma, lo hizo con la intención de afectar a un tercero.
+
+La reparación del daño no operará en beneficio de los servidores públicos que se encuentren contemplados en el artículo 116 de la Constitución Política del Estado Libre y Soberano de Durango, salvo cuando prueben que el acto de difusión se realizó con intención maliciosa.
 
 ART. 1801.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas de acuerdo con disposiciones de este Capítulo.
 
@@ -9491,9 +9573,13 @@ ART. 2804.- El crédito puede cederse en todo o en parte, siempre que la cesión
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmtiirse (sic) por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
+Las instituciones de crédito, las demás entidades financieras y los institutos de Seguridad Social federales y locales que intervengan como entidades ejecutoras en el financiamiento de vivienda, podrán ceder créditos que tengan garantizados con hipoteca, subsistiendo ésta a favor del cesionario, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad del Estado, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos, deberá únicamente notificarlo al deudor.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2007)</small>
+
+El contenido del párrafo que antecede será una excepción a lo dispuesto por los artículos 1914, 1917, 2797 y primer párrafo de este mismo artículo, todos del presente Código.
 
 ART. 2805.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
 
@@ -10184,3 +10270,11 @@ P.O. 6 DE MAYO 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refieren las iniciativas, se podrán recibir los informes de aviso de testamento impreso en papel hasta por un periodo de doce meses contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Quedan sin efecto todas las normas legales que se opongan al presente.
