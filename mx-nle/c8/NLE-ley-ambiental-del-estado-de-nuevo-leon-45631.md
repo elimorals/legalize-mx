@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2006-12-28"
+last_updated: "2007-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -63,9 +63,17 @@ VII. Promover, organizar y conservar el patrimonio ecológico de la entidad, int
 
 VIII. Prevenir, controlar y mitigar la contaminación del aire, agua, y suelo en el territorio del Estado, en las materias que no sean competencia de la Federación;
 
-IX. Fijar las medidas de control y de seguridad para garantizar el cumplimiento y aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-X. Establecer los mecanismos de coordinación, inducción y concertación entre las autoridades y los sectores social y privado en materia ambiental.
+IX. Fijar las medidas de control y de seguridad para garantizar el cumplimiento y aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+X. Establecer los mecanismos de coordinación, inducción y concertación entre las autoridades y los sectores social y privado en materia ambiental; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+
+XI. Establecer los mecanismos y procesos para garantizar que las diversas dependencias y organismos del Gobierno Estatal y municipales en la entidad contribuyan en la preservación del equilibrio ecológico y la protección al ambiente.
 
 ###### Artículo 2.
 
@@ -195,35 +203,39 @@ LI.-Prevención: El conjunto de disposiciones y medidas anticipadas para evitar 
 
 (sic).- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-LIII.- Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
 
-LIV.- Recurso genético: El material genético de valor real o potencial;
+LIII. Reutilización: Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-LV.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
+LIV.- Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
 
-LVI.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un liquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
+LV.- Recurso genético: El material genético de valor real o potencial;
 
-LVII.- Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+LVI.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
 
-LVIII.- Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+LVII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un liquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
 
-LIX.- Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
+LVIII.- Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-LX.- Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
+LIX.- Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
 
-LXI.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LX.- Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
 
-LXII.- Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
+LXI.- Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
 
-LXIII.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
+LXII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LXIV.- Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
+LXIII.- Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
 
-LXV.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+LXIV.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
 
-LXVI.- Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; y
+LXV.- Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
 
-LXVII.- Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
+LXVI.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+
+LXVII.- Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; y
+
+LXVIII.- Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
 
 ###### Artículo 4.
 
@@ -277,9 +289,15 @@ IX. Atender coordinadamente con la Federación los asuntos que afecten simultán
 
 X. Presidir, en los términos de la Ley de la Agencia de Protección al Medio Ambiente y Recursos Naturales, su Consejo de Participación Ciudadana;
 
-XI. Expedir, en la esfera administrativa, los ordenamientos necesarios para proveer el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-XII. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
+XI. Expedir, en la esfera administrativa, los ordenamientos necesarios para proveer el cumplimiento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+
+XII. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los recursos materiales utilizados por los servidores públicos de las diversas dependencias y organismos del Gobierno estatal, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos del Estado la educación ambiental y el fortalecimiento de una cultura ecológica; y
+
+XIII. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
 
 ###### Artículo 8.
 
@@ -449,9 +467,15 @@ XXVII. Atender y resolver las denuncias populares, presentadas conforme a lo dis
 
 XXVIII. Llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos;
 
-XXIX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-XXX. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
+XXIX. Expedir los Bandos de Policía y Buen Gobierno, sus Reglamentos, y disposiciones administrativas para coadyuvar con el cumplimiento de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+
+XXX. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje y reuso de los materiales utilizados por los servidores públicos en las diversas dependencias municipales, así como llevar a cabo la planeación y ejecución de acciones que fomenten en los servidores públicos municipales, la educación ambiental y el fortalecimiento de una cultura ecológica; y
+
+XXXI. Las demás atribuciones que les otorgue la presente Ley u otros ordenamientos aplicables a la materia.
 
 #### SECCIÓN I. COORDINACIÓN DE AUTORIDADES
 
@@ -2910,5 +2934,9 @@ P.O. 14 DE DICIEMBRE DE 2005.
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE DICIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE JULIO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
