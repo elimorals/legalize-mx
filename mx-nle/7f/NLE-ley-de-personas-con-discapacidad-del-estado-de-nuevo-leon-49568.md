@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-personas-con-discapacidad-del-estado-de-nuevo-leon-49568
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-08"
-last_updated: "2006-03-08"
+last_updated: "2007-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON -ANTES LEY PARA LA PROMOCION Y PROTECCION DE LA EQUIDAD Y ACCESIBILIDAD UNIVERSAL DE LAS PERSONAS CON DISCAPACIDAD-
 
-LEY PARA LA PROMOCION Y PROTECCION DE LA EQUIDAD Y ACCESIBILIDAD UNIVERSAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
+LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de marzo de 2006.
 
@@ -35,7 +35,9 @@ D E C R E T O
 
 Núm.331
 
-LEY PARA LA PROMOCIÓN Y PROTECCIÓN DE LA EQUIDAD Y ACCESIBILIDAD UNIVERSAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JULIO DE 2007)</small>
+
+LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
 ## Título Primero
 
@@ -59,7 +61,9 @@ III. Ayudas Técnicas. Dispositivos tecnológicos y materiales que permiten habi
 
 IV. Ceguera Legal. Debilidad visual equivalente a 20/200 (pies) de agudeza visual de distancia en el mejor ojo y con un campo visual no mayor a 20°;
 
-V. Comité Técnico para la Promoción y Protección de la Equidad y Accesibilidad de las Personas con Discapacidad. Órgano de consulta y asesoría para establecer acciones específicas de concertación, coordinación, planeación, promoción y seguimiento de las acciones que permitan garantizar condiciones favorables a las personas que enfrentan algún tipo de discapacidad;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+V. Consejo para las Personas con Discapacidad. Órgano de consulta y asesoría para coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan algún tipo de discapacidad;
 
 VI. Comunidad de Sordos. Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
 
@@ -413,7 +417,9 @@ V. Los demás que tengan por objeto garantizar la prestación de servicios de as
 
 Las autoridades competentes formularán y aplicarán programas y acciones que otorguen las facilidades administrativas y las ayudas técnicas, humanas y financieras requeridas para la práctica de actividades físicas y deportivas a la población con discapacidad, en sus niveles de desarrollo estatal, nacional e internacional.
 
-El Comité, en coordinación con dichas autoridades procurará el fomento y apoyo al deporte paralímpico.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
+
+El Consejo, en coordinación con dichas autoridades procurará el fomento y apoyo al deporte paralímpico.
 
 ###### Artículo 33.
 
@@ -489,19 +495,27 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 Corresponde a los órganos de los Gobiernos Federal, Estatal, y de los Municipios, en el ámbito de sus respectivas competencias y jurisdicción, participar en la elaboración del Programa Nacional para el Desarrollo de las Personas con Discapacidad, observar y hacer observar las responsabilidades y obligaciones con relación a las personas con discapacidad, establecidas en la presente Ley.
 
-## Título Tercero. Del Comité Técnico para la Promoción y Protección de la Equidad y Accesibilidad Universal de las Personas con Discapacidad
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JULIO DE 2007)</small>
+
+## Título Tercero. Del Consejo para las personas con Discapacidad
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 45.
 
-El Gobierno del Estado creará el Comité Técnico para la Promoción y Protección de la Equidad y Accesibilidad de las Personas con Discapacidad el cual será un órgano de consulta y asesoría para establecer acciones específicas de concertación, coordinación, planeación, promoción y seguimiento de las acciones que permitan garantizar condiciones favorables a las personas que enfrentan algún tipo de discapacidad.
+El Gobierno del Estado creará el Consejo para las personas con Discapacidad el cual será un órgano de consulta y asesoría para coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia de las acciones que permitan garantizar condiciones favorables a las personas que enfrentan algún tipo de discapacidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 46.
 
-El Comité Técnico estará integrado de la siguiente manera:
+El Consejo estará integrado de la siguiente manera:
 
 I. Un Presidente, que será el Gobernador del Estado, ola (sic) persona que este designe;
 
-II. Un Secretario Técnico que será designado por el Presidente del Comité;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+II. Un Secretario Técnico que será designado por el Presidente del Consejo;
 
 III. Vocales, que serán los titulares de las siguientes dependencias, entidades públicas y organizaciones de la sociedad civil;
 
@@ -531,23 +545,35 @@ l) Dirección de Radio Nuevo León;
 
 m) Dirección de Televisión Estatal;
 
-n) Seis representantes de las organizaciones de la sociedad civil que se hayan destacado por su trabajo y estudios en la materia, a invitación del Presidente del Comité Técnico; y
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
 
-ñ) Dos personas con discapacidad, preferentemente incorporadas a la vida productiva, a invitación del Presidente del Comité.
+n) Nueve representantes de igual número de las organizaciones de la sociedad civil que por un mínimo de cinco años, hayan realizado trabajo o investigación en la materia en el Estado, a invitación del Presidente del Consejo; y
 
-Los vocales podrán designar a un representante ante el Comité Técnico, que cubra sus ausencias, para lo cual deberán enviar previamente a las sesiones del mismo, el documento en el que se informe de su designación.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
+
+ñ) Tres personas con discapacidad, preferentemente incorporadas a la vida productiva, a invitación del Presidente del Consejo.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
+
+Los vocales podrán designar a un representante ante el Consejo, que cubra sus ausencias, para lo cual deberán enviar previamente a las sesiones del mismo, el documento en el que se informe de su designación.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 47.
 
-Los integrantes del Comité Técnico no percibirán remuneración alguna por el ejercicio de su cargo.
+Los integrantes del Consejo no percibirán remuneración alguna por el ejercicio de su cargo.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 48.
 
-El Presidente del Comité podrá invitar a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con las personas con algún tipo de discapacidad.
+El Presidente del Consejo podrá invitar a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con las personas con algún tipo de discapacidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 49.
 
-El Comité Técnico tendrá las siguientes funciones:
+El Consejo tendrá las siguientes funciones:
 
 I. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones que la administración pública emprenda, así como establecer metas y estrategias enfocadas a lograr la equidad, la no discriminación y la accesibilidad previstas en esta Ley;
 
@@ -565,47 +591,85 @@ VII. Fomentar la elaboración, publicación y distribución de material informat
 
 VIII. Propiciar la participación ciudadana en actividades y proyectos dirigidos a la plena integración de las personas con discapacidad en la vida económica, política, social y cultural;
 
-IX. Expedir su propio reglamento; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-X. Las demás que establece esta Ley.
+IX. Expedir su propio Reglamento;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+
+X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y
+
+XI. Las demás que establece esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 50.
 
-Al Presidente del Comité le corresponde:
+Al Presidente del Consejo le corresponde:
 
-I. Representar legalmente al Comité ante cualquier autoridad federal, estatal o municipal o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley, igualmente ante toda clase de autoridades civiles, laborales, penales y en materia de amparo, incluyendo la facultad para iniciar o desistirse de acciones legales; poder cambiario para suscribir, endosar y negociar títulos de crédito; de igual forma para delegar, sustituir, otorgar y revocar poderes para pleitos y cobranzas, actos de administración en materia laboral, individual y colectiva, civil y penal, sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+I. Representar legalmente al Consejo ante cualquier autoridad federal, estatal o municipal o personas físicas o morales, públicas o privadas, con todas las facultades que correspondan a un apoderado general para actos de administración, para pleitos y cobranzas, así como las generales y especiales que requieran cláusula especial conforme a la Ley, igualmente ante toda clase de autoridades civiles, laborales, penales y en materia de amparo, incluyendo la facultad para iniciar o desistirse de acciones legales; poder cambiario para suscribir, endosar y negociar títulos de crédito; de igual forma para delegar, sustituir, otorgar y revocar poderes para pleitos y cobranzas, actos de administración en materia laboral, individual y colectiva, civil y penal, sin que por ello se consideren substituidas o restringidas las facultades que se le otorgan;
 
 II. Dirigir y moderar los debates durante las sesiones;
 
-III. Dictar las políticas necesarias para mejorar la operación del Comité Técnico; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-IV. Someter a consideración del Comité Técnico, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
+III. Dictar las políticas necesarias para mejorar la operación del Consejo; y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+IV. Someter a consideración del Consejo, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
 
 En caso de ausencia, el Presidente será suplido conforme lo establezca el reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
+
 ###### Artículo 51.
 
-Al Secretario Técnico del Comité Técnico le corresponde:
+Al Secretario Técnico del Consejo le corresponde:
 
-I. Por instrucciones previas del Presidente, convocar a las sesiones del Comité Técnico;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-II. Coordinar las actividades del Comité Técnico y de los grupos de trabajo;
+I. Por instrucciones previas del Presidente, convocar a las sesiones del Consejo;
 
-III. Por instrucciones previas del Presidente, citar a sesión a los integrantes del Comité Técnico;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-IV. Formular el orden del día para las sesiones del Comité Técnico;
+II. Coordinar las actividades del Consejo y de los grupos de trabajo;
 
-V. Someter a consideración del Comité Técnico los programas de trabajo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-VI. Difundir y dar seguimiento a las resoluciones y el trabajo del Comité Técnico;
+III. Por instrucciones previas del Presidente, citar a sesión a los integrantes del Consejo;
 
-VII. Proporcionar asesoría técnica al Comité Técnico;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+IV. Formular el orden del día para las sesiones del Consejo;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+V. Someter a consideración del Consejo los programas de trabajo;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+VI. Difundir y dar seguimiento a las resoluciones y el trabajo del Consejo;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+VII. Proporcionar asesoría técnica al Consejo;
 
 VIII. Verificar el quórum legal;
 
-IX. Levantar las actas de cada una de las sesiones del Comité Técnico y registrarlas con su firma; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
 
-X. Realizar los trabajos que le encomiende el Presidente del Comité Técnico.
+IX. Levantar las actas de cada una de las sesiones del Consejo y registrarlas con su firma;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2007)</small>
+
+X. Realizar los trabajos que le encomiende el Presidente del Consejo; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
+
+XI. Elaborar trimestralmente un informe de las actividades del consejo para su difusión a la ciudadanía.
 
 ###### Artículo 52.
 
@@ -662,3 +726,9 @@ MARIA YOLANDA BLANCO GARCÍA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
