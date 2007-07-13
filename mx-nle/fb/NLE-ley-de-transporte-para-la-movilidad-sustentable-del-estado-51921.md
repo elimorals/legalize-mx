@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2006-09-30"
+last_updated: "2007-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -1517,6 +1517,14 @@ Las prescripciones contenidas en este capítulo no aplican al SITCA.
 
 El Gobierno del Estado podrá indemnizar a los concesionarios afectados, previo avalúo de la Secretaría de Finanzas y Tesorería General del Estado que se realizará en un máximo de 90 días, si no hubiere acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la indemnización, si después de 30 días subsiste el desacuerdo entre los peritos se procederá a reintegrar los bienes requisados. Los derechos de los trabajadores se respetarán conforme a la Ley de la materia.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2007)</small>
+
+###### Artículo 102 Bis.
+
+Siempre que la autoridad ejecute cualquiera de las medidas de seguridad establecidas en el presente Capítulo, se hará constar en actas numeradas en los tantos que determine la autoridad competente, en las que se señalen los motivos que dan origen a la realización de la medida de seguridad y se indique su fundamento, expresando con claridad y precisión el acto administrativo de que se trate. En cada caso la autoridad entregará copia del acta correspondiente al interesado.
+
+Las medidas de seguridad a que hace referencia el presente Capítulo, deberán inscribirse en el Sistema Estatal de Información y Registro de Transporte, en los términos del artículo 89 fracción X de la presente Ley.
+
 ### CAPÍTULO III. DE LAS ACCIONES CORRECTIVAS Y SANCIONES
 
 ###### Artículo 103.
@@ -1608,6 +1616,14 @@ Las prescripciones de este artículo no aplican al SITCA.
 Las facultades de la Agencia para verificar el cumplimiento de las disposiciones que se establecen en esta Ley, su Reglamento y demás normas aplicables, así como para determinar las medidas de seguridad e imponer sanciones por la violación a los preceptos correspondientes, se extinguen en el plazo de cinco años, contados a partir del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones de esta Ley. En caso de que la infracción fuese de carácter reiterado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
 Cuando el presunto infractor impugne los actos de la autoridad competente, se suspenderá la prescripción hasta en tanto queden estos firmes.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2007)</small>
+
+###### Artículo 114 Bis.
+
+Las infracciones cometidas que den lugar a las acciones correctivas y sanciones comprendidas en el presente Capítulo, se harán constar en actas numeradas en los tantos que determine la autoridad competente, en las que se señalen los motivos que dan origen a la realización de la acción correctiva o sanción y se indique su fundamento, expresando con claridad y precisión el acto administrativo de que se trate. En cada caso la autoridad entregará copia del acta correspondiente al interesado.
+
+Las acciones correctivas y sanciones a que hace referencia el presente Capítulo, deberán inscribirse en el Sistema Estatal de Información y Registro de Transporte, en los términos del artículo 89 fracción X de la presente Ley.
 
 ### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
@@ -1728,3 +1744,9 @@ ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
