@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2006-09-02"
+last_updated: "2007-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -35,7 +35,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33, FRACCIÓN V Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA:
 
-.
+..
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -81,7 +81,7 @@ VI.- El conocimiento de los servicios de salud para su adecuado aprovechamiento 
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
 
-VII.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
+VI.- Garantizar el acceso a los servicios de salud a los menores de edad, las mujeres, las personas con discapacidad y los adultos mayores.
 
 ###### ARTICULO 3º.
 
@@ -203,13 +203,21 @@ XII.- Establecimientos dedicados a la prestación de servicios;
 
 XIII.- Establecimientos para el hospedaje;
 
-XIV.- Transporte público;
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
 
-XV.- Gasolinerías (sic) y establecimientos similares;
+XIV.- Casas, edificios y, en general, cualquier inmueble de dominio público o privado;
 
-XVI.- Centros antirrábicos; y
+XV.- Transporte público;
 
-XVII.- Las demás materias que determine esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XVI.- Gasolineras y establecimientos similares;
+
+XVII.- Centros antirrábicos; y
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XVIII.- Las demás materias que determinen esta Ley y otras disposiciones aplicables.
 
 ###### ARTICULO 8º.
 
@@ -719,9 +727,23 @@ Corresponde a la autoridad sanitaria ejercer el control sanitario de los estable
 
 El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTICULO 92 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTICULO 92 BIS 1.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones higiénico-sanitarias de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTÍCULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones higiénico-sanitarias que determine esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+
+En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
+
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 81.
 
@@ -741,7 +763,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 85.
 
@@ -751,7 +773,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 87.
 
@@ -761,7 +783,7 @@ Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 89.
 
@@ -795,13 +817,15 @@ Los propietarios serán responsables de las lesiones y daños a terceros que cau
 
 Las autoridades competentes mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la rabia.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O 14 DE JULIO DE 2007)</small>
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 93.
 
@@ -833,7 +857,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 100.
 
@@ -878,6 +902,8 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 ###### ARTICULO 106.
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 107.
 
@@ -1358,3 +1384,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- EL SECRETA
 P.O. 2 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
