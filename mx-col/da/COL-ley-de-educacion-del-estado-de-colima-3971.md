@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "1999-04-24"
+last_updated: "2007-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -243,9 +243,25 @@ XXIII.- Revisar permanentemente las disposiciones, los trámites y procedimiento
 
 XXIV.- Establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos de manera preferente para los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja;
 
-XXV.- Proporcionar al educador los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento, y
+XXV.- Proporcionar al educador los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento, y (sic)
 
-XXVI.- Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XXVI.- Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XXVII.- Promover conjuntamente con la Secretaría de Salud, programas y acciones que fomenten en los Directivos de las Escuelas, Maestros, Padres de Familia, encargados de los Establecimientos Escolares y especialmente en los Educandos, una alimentación correcta, es decir equilibrada, suficiente, completa, higiénica y variada que, junto con la práctica de actividad física mejore su crecimiento y desarrollo;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XXVIII.- De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans (sic), sal y aditivos en los Establecimientos Escolares y en los espacios donde se expenden alimentos en las instituciones de nivel básico, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+
+XXIX.- Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones.
+
+(REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION XXVI], P.O. 14 DE JULIO DE 2007)
 
 El Gobierno del Estado y los municipios se coordinarán entre sí, así como con la Federación para el efecto de que se implanten programas que impartan las técnicas agropecuarias, que enseñen la organización y administración de pequeñas industrias aprovechadoras de los recursos naturales del Estado, que den a conocer diversas formas de integración y mejoramiento del hogar, de prácticas de higiene y profilácticas, de saneamiento, conservación y mejoramiento del ambiente, así como todo tipo de campañas sanitarias.
 
@@ -819,11 +835,21 @@ II.- Colaborar para una mejor integración de la comunidad escolar, así como en
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y
+IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y (sic)
 
-V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+
+V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+
+VI.- Cooperar con las autoridades escolares en el diseño de programas y planes de alimentación saludable que el Estado, a través de la Secretaría de Salud y Educación en su caso, considere convenientes.
+
+(REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION V], P.O. 14 DE JULIO DE 2007)
 
 Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos técnico-pedagógicos y laborales de los establecimientos educativos.
+
+(REUBICADO [N. DE E. ANTES TERCER PARRAFO DE LA FRACCION V], P.O. 14 DE JULIO DE 2007)
 
 La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que señale la Secretaría de Educación Pública.
 
@@ -1078,3 +1104,7 @@ Dado en Palacio de Gobierno, a los 20 días del mes de mayo de 1994. EL GOBERNAD
 P. O. 24 DE ABRIL DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE JULIO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
