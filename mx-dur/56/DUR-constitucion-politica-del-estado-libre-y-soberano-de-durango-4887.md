@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2006-02-09"
+last_updated: "2007-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -61,17 +61,25 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 2.
 
-En el Estado de Durango, queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad capacidades diferentes, condición social, condición de salud, religión, opinión, estado civil, o cualquier otra que atenta contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+En el Estado de Durango queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
 
 El Estado tiene una composición pluricultural sustentada originalmente en los pueblos y comunidades indígenas; las leyes reconocerán la diversidad cultural, protegerán y promoverán el desarrollo de los pueblos indígenas existentes en el Estado, sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social; así como el derecho de los pueblos y comunidades indígenas para elegir a sus autoridades de acuerdo a sus usos, costumbres y tradiciones.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
+
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad duranguense.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
 
 A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
@@ -90,6 +98,8 @@ VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de l
 VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
 
 VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de esta Constitución. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
 
 B. El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
 
@@ -110,6 +120,8 @@ VI. Apoyar las actividades productivas y el desarrollo sustentable de las comuni
 VII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio del Estado, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
 
 VIII. Consultar a los pueblos indígenas en la elaboración del (sic) Planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2004)</small>
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
@@ -176,6 +188,10 @@ No deben expedirse ni aplicarse leyes privativas; nadie será juzgado por Tribun
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos.
 
 Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; sus servicios serán gratuitos, quedando en consecuencia prohibidas las costas judiciales.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2007)</small>
+
+Los particulares podrán acudir a los medios alternativos de resolución de conflictos que prevea la ley respectiva para resolver sus controversias de común acuerdo y de forma pacífica sin necesidad de recurrir al proceso judicial.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -1179,7 +1195,7 @@ SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 63.
 
@@ -1574,6 +1590,10 @@ El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, a
 El ejercicio del Poder Judicial del Estado, se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de Primera Instancia y en Juzgados Municipales.
 
 En el desempeño de sus funciones resolverá las contiendas o controversias de naturaleza jurídica, que se sometan a su conocimiento, aplicando la normatividad establecida en la legislación común en vigor y en el área territorial de nuestra entidad política. Además, conocerá de aquellas cuestiones que le sean planteadas en aplicación del principio de la jurisdicción concurrente a que se refiere la fracción I del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2007)</small>
+
+De igual manera, se encargará de la instrumentación de los medios alternativos de resolución de conflictos, en los términos de la ley respectiva.
 
 Los tribunales locales, en el ámbito de sus particulares atribuciones, intervendrán igualmente en el conocimiento de asuntos de jurisdicción voluntaria, siguiendo el trámite procesal que señale la ley.
 
@@ -1991,7 +2011,9 @@ Son propiedad del Municipio los bienes inmuebles ubicados dentro de su jurisdicc
 
 ###### ARTICULO 116.
 
-Para los efectos de las responsabilidades a que alude este capítulo se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, y en general, a toda persona que desempeñe un cargo o comisión de cualquier naturaleza en la administración pública estatal o de los municipios, en el Instituto Estatal Electoral, en la Comisión Estatal de Derechos Humanos así como a quienes presten servicios en los organismos públicos descentralizados y empresas de participación estatal o municipal mayoritarias, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este capítulo, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado, a los integrantes de los tribunales estatales autónomos, y en general, a toda persona que desempeñe un cargo o comisión de cualquier naturaleza en las dependencias y entidades de la administración pública estatal y municipal y de los órganos autónomos previstos por esta Constitución y las leyes del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado de traición a la patria, y por delitos graves del orden común.
 
@@ -2017,11 +2039,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 A cualquier ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, se le concede acción popular para denunciar por escrito ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo. Si los elementos en que funde su denuncia fueren falsos, el servidor público denunciado podrá acudir ante las autoridades judiciales, en los términos de la legislación penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 118.
 
-Podrán ser sujetos de juicio político los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de los Juzgados a que se refiere el artículo 90 de esta Constitución, los Secretarios y Subsecretarios de Despacho, los Jefes o Directores de Departamentos Gubernamentales; el Procurador y Subprocuradores de Justicia; los Presidentes Municipales, el Tesorero, el Secretario, Síndico y Regidores de los Ayuntamientos; así como los Directores o sus equivalentes de los organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria, Presidente, Secretario Técnico y Consejeros Electorales del Instituto Estatal Electoral y el Presidente de la Comisión Estatal de Derechos Humanos.
+Podrán ser sujetos de juicio político los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de los Juzgados a que se refiere el artículo 90 de esta Constitución, los Secretarios y Subsecretarios de Despacho, los Jefes o Directores de Departamentos Gubernamentales; el Procurador y Subprocuradores de Justicia; los Presidentes Municipales, el Tesorero, el Secretario, Síndico y Regidores de los Ayuntamientos; así como los Directores o sus equivalentes de las entidades de la (sic) administraciones públicas estatal y municipales, Presidente, Secretario Técnico y Consejeros Electorales del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos y los Comisionados de la Comisión Estatal para el Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
 
@@ -2039,11 +2061,11 @@ El Tribunal Superior de Justicia, como Jurado de Sentencia, conocerá de la acus
 
 El procedimiento de juicio político, sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 119.
 
-Para proceder penalmente contra los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de Primera Instancia, los Secretarios de Despacho, el Procurador General de Justicia y los Presidentes Municipales, el Congreso declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de Primera Instancia, los Secretarios de Despacho, el Procurador General de Justicia y los Presidentes Municipales, el Congreso declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -2763,10 +2785,16 @@ PRIMERO.- El presente decreto iniciará su vigencia el día siguiente al de su p
 
 SEGUNDO.- El Congreso del Estado expedirá la ley o leyes que regulen el procedimiento en las materias a que se refieren las reformas contenidas en el presente decreto y llevará a cabo las modificaciones necesarias a los ordenamientos legales que correspondan; en un plazo no mayor de ciento ochenta días, a partir de la entrada en vigor del presente decreto.
 
-TERCERO.- El proceso de homologación de las elecciones federales con las elecciones locales, comenzará a partir del proceso electoral ordinario del año 2010, debiendo quedar igualados ambos comicios electorales en el año 2015, Para dar cumplimiento a lo anterior, por única ocasión el Gobernador Constitucional electo en el año 2010, durará en su encargo cinco años, hasta el día 15 del mes de septiembre del año 2015. Los Ayuntamientos y Diputados Locales que sean electos en el año 2010, por única ocasión, durarán en su encargo dos años, hasta el día 31 de agosto de 2012
+TERCERO.- (DEROGADO, P.O. 15 DE JULIO DE 2007)
 
 CUARTO.- Los derechos de los ciudadanos y procedimientos de participación, relativos a plebiscito, referéndum e iniciativa popular a que se refieren los artículos 17 fracción VII, y 50 fracción V de esta Constitución, se ejercerán y aplicarán en el Estado, una vez que el Congreso expida la ley de la materia, lo cual deberá realizarse en un plazo de un año a partir de la entrada vigor del presente decreto.
 
 QUINTO.- Las facultades establecidas al Consejo Estatal Electoral y al Comité de Supervisión del financiamiento de los partidos políticos y agrupaciones políticas en materia de financiamiento y fiscalización, permanecerán vigentes hasta en tanto el Congreso del Estado lleve a cabo las reformas correspondientes al Código Estatal Electoral, en los tiempos establecidos en el presente decreto.
 
 SEXTO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 15 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- Se deroga el Artículo Cuarto Transitorio del Decreto No. 290, aprobado en fecha 18 de agosto del 2006, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 18 del mismo mes y año y demás disposiciones que se opongan al presente Decreto.
