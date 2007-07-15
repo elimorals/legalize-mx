@@ -4,7 +4,7 @@ identifier: "DUR-codigo-estatal-electoral-4880"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-11-27"
-last_updated: "2006-08-31"
+last_updated: "2007-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 27 de noviembre de 1994.
 
@@ -6469,8 +6469,14 @@ SEGUNDO.- Se derogan todas la (sic) disposiciones legales que se opongan al pres
 
 TERCERO.- El Consejo Estatal Electoral expedirá los reglamentos relativos a las materias a que se refiere el presente decreto, en un plazo no mayor de cuatro meses contados a partir del inicio de su vigencia.
 
-CUARTO.- Para el caso del proceso de homologación de las elecciones federales con las elecciones locales el inicio de éste será a partir del proceso electoral ordinario del año 2010, debiendo coincidir ambos comicios electorales en el año 2015, en los términos establecidos por el artículo Tercero Transitorio de la reforma constitucional aprobada por la LXIII Legislatura del Estado mediante Decreto número 214 de fecha 14 de diciembre de 2005.
+CUARTO.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO No. 437, P.O. 15 DE JULIO DE 2007)
 
 QUINTO.- El Consejo Estatal Electoral contará con un periodo de 60 (sesenta) días contados a partir de la entrada en vigor del presente Decreto, para la elaboración del Reglamento de Fiscalización de los Recursos de los Partidos Políticos y Agrupaciones Políticas.
 
 En tanto no se expida el Reglamento mencionado en el párrafo anterior, las normas, acuerdos y disposiciones existentes continuarán vigentes.
+
+P.O. 15 DE JULIO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+SEGUNDO.- Se deroga el Artículo Cuarto Transitorio del Decreto No. 290, aprobado en fecha 18 de agosto del 2006, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 18 del mismo mes y año y demás disposiciones que se opongan al presente Decreto.
