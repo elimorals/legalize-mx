@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-transporte-publico-y-servicios-conexos-del-24564
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-25"
-last_updated: "2002-03-25"
+last_updated: "2007-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TRANSPORTE PUBLICO Y SERVICIOS CONEXOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 25 de marzo de 2002.
 
@@ -53,7 +53,9 @@ Para efectos de este Reglamento, se entenderá por:
 
 a) Área Geográfica: La región determinada por la autoridad de transporte, en la que se operan servicios de transporte público, arrastre, salvamento, depósito de vehículos y servicios conexos, por diversos concesionarios o permisionarios.
 
-b) Autoridad de transporte: a la que conforme al Reglamento Interior de la Secretaría de Comunicaciones y Transportes y los acuerdos delegatorios de atribuciones, tenga asignada competencia para realizar los actos a que se refiera el precepto que la invoque.
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
+
+b) Autoridad de transporte: a la que conforme al Reglamento Interior de la Secretaría de Transporte y los acuerdos delegatorios de atribuciones, tenga asignada competencia para realizar los actos a que se refiera el precepto que la invoque.
 
 c) Código: al Código Administrativo del Estado de México.
 
@@ -61,9 +63,13 @@ d) Instituto: al Instituto del Transporte del Estado de México.
 
 e) Registro: al Registro Estatal del Transporte e Infraestructura Vial.
 
-f) Secretaría: a la Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
 
-g) Secretario: al Secretario de Comunicaciones y Transportes.
+f) Secretaría: a la Secretaría de Transporte y a la de Comunicaciones, de acuerdo con las atribuciones que les establece la Ley Orgánica de la Administración Pública del Estado de México.
+
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
+
+g) Secretario: al Secretario de Transporte y de Comunicaciones, en el ámbito de sus respectivas atribuciones.
 
 ###### ARTICULO 4.
 
@@ -423,6 +429,12 @@ IV. Cuando no se hubieren cumplido por el concesionario las condiciones prevista
 
 La presentación de la solicitud de la prorroga no concede al peticionario el derecho a la misma.
 
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2007)</small>
+
+La presentación de la solicitud de la prorroga no concede al peticionario el derecho a la
+
+misma.
+
 ###### ARTICULO 32.
 
 Para prorrogar la vigencia de una concesión, se requiere:
@@ -513,11 +525,11 @@ V. No cumplir la condición a que se hubiere sujetado la cesión o prórroga pro
 
 VI. La violación de las condiciones previstas en el título de concesión.
 
-###### ARTÍCULO 37.
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
 
-En cualquier procedimiento cuyo objeto sea la terminación de la concesión por cualquier causa, la autoridad de transporte otorgará al afectado garantía de audiencia en términos de lo dispuesto por el Código de Procedimientos Administrativos del Estado de México.
+###### ARTICULO 37.
 
-La resolución que se dicte en el procedimiento mencionado, invariablemente declarará la extinción de los efectos jurídicos de los elementos que materialicen la concesión, tales como los títulos de concesión, matriculación de los vehículos afectos a la misma y elementos que exterioricen la matrícula. La autoridad de transporte al hacer la publicación que se refiere en este Reglamento respecto de la relación de las matrículas cuyos efectos jurídicos se agotaron, hará publicar la relación de títulos de concesión, cuando la extinción de los efectos de las matrículas provenga de la extinción de la concesión. En este caso la publicación se hará hasta que la resolución dictada en el procedimiento correspondiente fuere firme.
+En cualquier procedimiento cuyo objeto sea la terminación de la concesión por cualquier causa, la autoridad de transporte otorgará al afectado garantía de audiencia en términos de lo dispuesto por el Código de Procedimientos Administrativos del Estado de México, con excepción de que la terminación se deba al vencimiento del plazo establecido en el título de la concesión o permiso, o de la prorroga que se hubiere otorgado.
 
 ###### ARTICULO 38.
 
@@ -1221,9 +1233,11 @@ Las licencias para ejercer la profesión de conductor de vehículos del servicio
 
 #### SECCION SEGUNDA. DE LOS VEHICULOS
 
-###### ARTÍCULO 99.
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
 
-Los vehículos del servicio público de transporte deberán contar con las medidas de seguridad, higiene y comodidad que determine la norma técnica.
+###### ARTICULO 99.
+
+Los vehículos del servicio público de transporte deberán contar con las medidas de seguridad, higiene y comodidad que determine la norma técnica. Los vehículos con los que se presten los servicios públicos de transporte en las modalidades previstas en el artículo 13 de este Reglamento, tendrán una vida útil para tal efecto de diez años contados a partir del año modelo.
 
 ###### ARTICULO 100.
 
@@ -1237,9 +1251,19 @@ III. Las placas que materialicen la matrícula en los vehículos de transporte p
 
 Cuando en la operación de vehículos del servicio público de transporte se incurra en infracción a las disposiciones en materia de tránsito, se remitirá una copia de la infracción correspondiente a la autoridad de transporte, la que coadyuvará en términos de ley al cumplimiento de la sanción que hubiere sido impuesta.
 
+> <small>(REFORMADO, G.G. 17 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 101.
 
-Queda prohibida la expedición de permiso o autorización de cualquier índole, para que vehículos afectos al servicio público de transporte circulen sin matricularse o sin una o ambas placas que la materialicen.
+La Secretaría de Transporte podrá expedir matrículas, permisos o placas provisionales para circular con una vigencia que no podrá exceder de seis meses, en los casos siguientes:
+
+I.- Por cambio o sustitución de vehículos afectos al servicio de transporte público.
+
+II.- Por reposición de elementos de matrícula.
+
+III.- Por cambio de matrículas por programa de sustitución de las mismas u otros programas que implemente la Secretaría y;
+
+IV.- Por el otorgamiento de concesión.
 
 ###### ARTICULO 102.
 
@@ -1828,3 +1852,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 17 DE JULIO DE 2007.
+
+PRIMERO.- Publíquense las presentes reformas y adiciones al Reglamento del Transporte Público y Servicios Conexos del Estado de México en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reformas y adiciones entraran en vigor el día siguiente al de su publicación en el periódico oficia! "Gaceta del Gobierno".
+
+TERCERO.- Se abrogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente.
