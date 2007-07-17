@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-43844"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-06"
-last_updated: "2005-01-06"
+last_updated: "2007-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el jueves 6 de enero de 2005.
 
@@ -523,13 +523,21 @@ No tendrá más restricciones a sus atribuciones, facultades y competencias que 
 
 El Instituto contará con los recursos humanos, económicos y materiales necesarios para el desempeño de sus funciones, de conformidad con lo asignado en su presupuesto anual.
 
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 38.
 
-El Instituto contará con un Consejo conformado por un Presidente y cuatro consejeros ciudadanos titulares, así como por los suplentes respectivos; el Presidente y los consejeros serán nombrados por el Congreso del Estado de acuerdo a lo que establece esta ley; durarán en su encargo cuatro años con posibilidad de ser ratificados únicamente por un periodo igual.
+El Instituto contará con un Consejo conformado por un Presidente y dos consejeros titulares, así como por los suplentes respectivos; el Presidente y los consejeros serán nombrados por el Congreso del Estado de acuerdo a lo que establece esta ley; durarán en su encargo tres años, con posibilidad de ser ratificados únicamente por un periodo igual.
 
 El Consejo nombrará un Secretario Ejecutivo, el cual tendrá las atribuciones que señale su reglamento interior.
 
-Durante su encargo, el Presidente del Consejo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, siempre y cuando no tenga una carga horaria mayor a dos horas diarias en las instituciones mencionadas.
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2007)</small>
+
+Durante su encargo, ni el Presidente del Consejo ni los consejeros del Instituto podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, siempre y cuando no tenga una carga horaria mayor a dos horas diarias en las instituciones mencionadas.
 
 ###### Artículo 39.
 
@@ -599,9 +607,13 @@ VII. Si alguno de los candidatos no reúna los votos requeridos en la tercera ro
 
 El Instituto será presidido por el Presidente del Consejo quien tendrá la representación legal del mismo, durará en su encargo cuatro años.
 
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 45.
 
-El Consejo, para sesionar válidamente, requiere la presencia de cuatro consejeros, debiendo estar entre ellos el Presidente.
+El Consejo, para sesionar válidamente, requiere la presencia de dos consejeros, debiendo estar entre ellos el Presidente.
 
 Las resoluciones que emita el Instituto serán colegiadas, de acuerdo al procedimiento que se establezca en su Reglamento.
 
@@ -1166,3 +1178,11 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOTA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE JULIO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor el día dos de julio de 2008.
+
+SEGUNDO. El presente decreto no se mandará a publicar hasta en tanto no se haya publicado la reforma a los artículo 9°, 35, 97 y 100 de la Constitución local que se dictaminó previamente y por separado, y derivada de las mismas iniciativas.
