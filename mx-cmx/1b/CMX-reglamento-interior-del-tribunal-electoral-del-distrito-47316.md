@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-47316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-28"
-last_updated: "2007-05-18"
+last_updated: "2007-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-20"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de diciembre de 2005.
 
@@ -1438,11 +1438,15 @@ El servidor público afectado por las resoluciones de la Contraloría Interna de
 
 Los Juicios de Inconformidad Administrativa que se promuevan ante el Tribunal, en términos de lo establecido en los artículos 325 y 326 del Código, se substanciarán y resolverán con arreglo a lo previsto en este Título. A falta de disposición expresa, se estará a lo dispuesto por el Código de Procedimientos Civiles para el Distrito Federal en lo que resulte aplicable.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 95.
 
 Toda promoción deberá ser firmada por quien la formule, requisito sin el cual se tendrá por no presentada.
 
 Ante el Tribunal no procederá la gestión oficiosa. Quien promueva a nombre de otro, deberá acreditar su personalidad en términos de Ley.
+
+Si son varios los actores o las autoridades responsables, deberán designar un representante común. En caso de no hacerlo en el primer escrito que presenten en juicio, el Magistrado instructor tendrá como tal al primero de los que firmen el escrito. Dicha determinación deberá ser declarada mediante acuerdo.
 
 ###### Artículo 96.
 
@@ -1454,159 +1458,247 @@ Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomen
 
 Serán partes en el procedimiento:
 
-I. El quejoso, es el servidor público de este Tribunal o del Instituto Electoral del Distrito Federal que haya sido sancionado; y
+> <small>(REFORMADA G.O. 17 DE JULIO DE 2007)</small>
+
+I. El actor, quien es el servidor público de este Tribunal o del Instituto Electoral del Distrito Federal que haya sido sancionado; y
 
 II. La autoridad responsable, tanto ordenadora como ejecutora de las resoluciones o actos que se impugnan.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 98.
 
-Sólo podrán intervenir en el Juicio de Inconformidad Administrativa, las personas que tengan interés legítimo en el mismo.
+Sólo podrán intervenir en el Juicio de Inconformidad Administrativa, las personas que tengan interés jurídico en el mismo.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 99.
 
-Las partes podrán autorizar para oír y recibir notificaciones en su nombre a cualquier persona con capacidad legal, las personas autorizadas quedan facultadas para ofrecer y rendir pruebas y alegar en la audiencia respectiva.
+Las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para ofrecer e intervenir en el desahogo de pruebas en la audiencia respectiva; así como formular alegatos.
 
-Si son varios los quejosos o las autoridades responsables, deberán designar a sus respectivos representantes comunes, que estarán facultados para actuar en los términos del párrafo anterior.
+Las personas autorizadas conforme al párrafo anterior, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y exhibir su cédula profesional o carta de pasante en la primera diligencia en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente estarán facultadas para oír y recibir notificaciones.
 
-La representación en juicio terminará en el momento de la revocación del nombramiento respectivo, o en su caso, hasta que haya sido ejecutada la sentencia correspondiente.
+Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal.
 
-### CAPÍTULO III. De las notificaciones y de los términos
+Las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozará de las demás facultades a que se refieren los párrafos anteriores.
+
+El Magistrado instructor al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE JULIO DE 2007)</small>
+
+### CAPÍTULO III. De las notificaciones y de los plazos
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 100.
 
-Las resoluciones serán notificadas: personalmente, dentro del tercer día a partir de aquel en que se pronunció la resolución; o por estrados, al día siguiente de ser pronunciada; o por correo certificado con acuse de recibo, caso en el que la pieza postal deberá ser depositada en el correo al día siguiente de la resolución.
+Los acuerdos y las resoluciones serán notificados atendiendo a lo siguiente:
+
+a) Si son personales, dentro del tercer día hábil a partir de aquel en que se pronuncien; y
+
+b) Si son por estrados, al día hábil siguiente al de su emisión.
+
+Se considerarán como hábiles, todos los días con excepción de los sábados y domingos y los inhábiles que determinen las leyes y los acuerdos del Pleno del Tribunal.
+
+Son horas hábiles las que medien entre las siete y las diecinueve horas.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 101.
 
-El quejoso, en el primer escrito que presente, deberá señalar domicilio en el Distrito Federal, para que se hagan las notificaciones personales a que se refiere este Título. Asimismo, procederán a notificar oportunamente el cambio del mismo. En caso de no hacerlo así, las notificaciones se harán en la forma prevista en la fracción III del artículo 102 de este Reglamento.
+Las partes, en el primer escrito que presenten, deberán señalar domicilio en el Distrito Federal para que se hagan las notificaciones personales a que se refiere este Título; de igual manera, informarán oportunamente el cambio del mismo. En caso de no hacerlo así, o de resultar inexistente, inexacto o impreciso, las notificaciones se harán por estrados.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 102.
 
-Las notificaciones se harán:
+Las notificaciones serán ordenadas por el Pleno o por el Magistrado instructor, atendiendo a las reglas siguientes:
 
-I. A las autoridades responsables:
+I.- Se notificarán personalmente el emplazamiento, las citaciones, los requerimientos, la resolución definitiva y los autos que a su consideración sean necesarios para la debida substanciación del juicio;
 
-a) Personalmente o a sus representantes si estuvieren presentes en el Tribunal o en la sede de sus respectivas oficinas;
+II.- Se notificará por estrados, los acuerdos distintos a los señalados en la fracción anterior;
 
-b) Tratándose de las resoluciones definitivas, personalmente o a sus representantes legales;
+III.- Independientemente que se notifique personalmente un auto, también se notificará mediante los estrados del Tribunal.
 
-c) Por correo certificado con acuse de recibo suscrito por cualquiera de los señalados en el inciso anterior, cuando no haya sido posible la notificación personal. La pieza postal deberá ser depositada en el correo al día siguiente de la fecha de la razón en la que conste que no pudo ser recibida personalmente.
+Las notificaciones personales se sujetarán a las reglas siguientes:
 
-II. Al quejoso:
+I.- Se entenderán con las partes por sí mismas o a través de sus representantes legales o persona autorizada, ya sea en las instalaciones del Tribunal si estuvieran presentes, o bien en el domicilio señalado para tal efecto;
 
-a) Personalmente o por correo certificado con acuse de recibo tratándose de la primera notificación en el asunto respectivo; de la resolución definitiva; si dejaren de actuar durante más de sesenta días; y
+II.- Para la práctica de las notificaciones que deban hacerse en el domicilio que se haya señalado para tal efecto, se observarán las reglas siguientes:
 
-b) Cuando el Magistrado instructor estime que se trata de un caso urgente o que haya motivo para ello.
+a) El actuario o notificador autorizado se cerciorará de que es el domicilio señalado por el interesado;
 
-III. Fuera de los casos señalados en la fracción anterior, las notificaciones se harán personalmente en el Tribunal, si las partes se presentaren dentro de las veinticuatro horas siguientes a las que se haya dictado la resolución, o por estrados.
+b) Cerciorado de lo anterior, requerirá la presencia del interesado o de persona autorizada para oír y recibir notificaciones.
 
-IV. Cuando el servicio postal devolviere por cualquier causa un oficio de notificación, ésta se hará por estrados.
+Si alguna de las personas mencionadas está presente, se entenderá con ella la diligencia, previa identificación, entregando cédula en la que hará constar la fecha y la hora en que se entregue, levantándose acta de la diligencia, a la que se agregará copia de la cédula, en la que se procurará recabar la firma de aquél con quien se hubiera entendido la actuación; asimismo, se asentarán las demás manifestaciones que haga el que reciba la notificación;
+
+c) En caso de que no se encuentre al interesado o a (sic) persona autorizada, se dejará citatorio para que cualquiera de éstas espere al notificador en la hora que se precise y que en todo caso, será después de seis horas de aquella en que se entregó el citatorio y dentro de las veinticuatro horas siguientes.
+
+d) En el citatorio se incluirá el apercibimiento de que, en caso, de no esperar al notificador en la fecha y hora señalada, la diligencia se practicará por conducto de los parientes, empleados o domésticos del interesado o de cualquier otra persona que se encuentre en el domicilio o, en su caso, por fijación de la cédula respectiva en el exterior del inmueble, sin perjuicio de practicar la notificación por los estrados; y
+
+e) En los casos en que no se encuentre en el domicilio persona alguna con quien pueda entenderse la diligencia o ésta se negare a recibirla; la notificación podrá hacerse con algún vecino o bien se fijará cédula en la puerta principal del inmueble.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 103.
 
-Las notificaciones surtirán sus efectos a partir del día siguiente al en que se realizaron.
+Las notificaciones surtirán sus efectos el mismo día en que se realicen.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 104.
 
-En las actuaciones respectivas, el Actuario asentará la fecha del envío por correo o de la entrega de los oficios de notificación, de las notificaciones personales y por estrados, así como una breve relación circunstanciada de su actuación; los acuses de recibo postales y las piezas certificadas devueltas, se agregarán como constancia con la razón respectiva en el expediente en el que se actúe.
+Practicada la notificación, el actuario asentará la razón respectiva, en la que deberá precisar la fecha, hora y demás circunstancias de tiempo, modo y lugar en que se practicó la misma.
 
 ###### Artículo 105.
 
 La notificación omitida o irregular se entenderá hecha a partir del momento en que el interesado se haga sabedor de la misma, salvo cuando se promueva su nulidad.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 108], G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 106.
 
-El término para interponer la demanda en contra de los actos o resoluciones por las que se impongan sanciones administrativas, será de quince días contados a partir del día siguiente al en que se le hubiese notificado al afectado o del que se hubiere tenido conocimiento u ostentado sabedor de la misma, o de su ejecución.
+Serán nulas las notificaciones que no fueren hechas en la forma que establecen las disposiciones de este Título.
+
+Las partes afectadas por una notificación irregularmente hecha, podrán solicitar su nulidad ante el Magistrado instructor que conozca del asunto que la motivó, hasta antes del cierre de instrucción. El Pleno la resolverá de plano, sin formar expediente.
+
+Declarada la nulidad, se repondrá el procedimiento a partir de la notificación irregular.
+
+Si se declara la nulidad de la notificación, se impondrá una multa igual al monto de uno a cinco días de salario mínimo general vigente en el Distrito Federal al servidor público responsable. En caso de reincidencia, podrá ser destituido de su cargo.
+
+Para los efectos del párrafo anterior, deberá seguirse el procedimiento previsto en el titulo cuarto de este Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 106], G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 107.
 
-El cómputo de los términos se sujetará a las reglas siguientes:
+El plazo para interponer la demanda en contra de los actos o resoluciones por las que se impongan sanciones administrativas, será de quince días hábiles contados a partir del día hábil siguiente al en que se le hubiese notificado al afectado o del que se hubiere tenido conocimiento u ostentado sabedor de la misma, o de su ejecución.
 
-I. Comenzarán a correr desde el día siguiente al en que surta sus efectos la notificación; serán improrrogables y se incluirán en ellos el día del vencimiento; y
-
-II. Los términos se contarán por días hábiles.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 107], G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 108.
 
-Serán nulas las notificaciones que no fueren hechas en la forma que establecen las disposiciones de este Título. Las partes afectadas por una notificación irregularmente hecha, podrán solicitar su nulidad ante el Magistrado instructor que conozca del asunto que la motivó, antes que pronuncie sentencia. El Pleno la resolverá de plano, sin formar expediente. Declarada la nulidad, se repondrá el procedimiento a partir de la notificación irregular.
+El cómputo de los plazos se sujetará a las reglas siguientes:
 
-Si se declarare la nulidad de la notificación, se impondrá una multa igual al monto de uno a cinco días de salario mínimo general vigente en el Distrito Federal al servidor público responsable, en los términos de este Reglamento. En caso de reincidencia, podrá ser destituido en su cargo, después de que el Pleno lo oiga y reciba las pruebas que desee aportar en su defensa.
+I. Comenzarán a correr al día hábil siguiente al en que surta sus efectos la notificación; serán improrrogables y se incluirán en ellos el día del vencimiento; y
+
+II. Se contarán por días hábiles.
 
 ### CAPÍTULO IV. De los impedimentos
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 109.
 
-En caso de que se presente algún impedimento los Magistrados instructores, deberán excusarse en términos de los artículos 309 y 310 del Código.
+En caso de que se presente algún impedimento, los Magistrados instructores deberán excusarse en términos de los artículos 309 y 310 del Código.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 110.
 
-Los Magistrados que se consideren impedidos para conocer de algún negocio, presentarán la manifestación respectiva ante el Pleno por medio del Magistrado Presidente.
+Los Magistrados que se consideren impedidos para conocer de algún negocio, presentarán por escrito la manifestación respectiva ante el Pleno por medio del Magistrado Presidente.
 
-Las partes podrán recusar a los Magistrados por cualquiera de las causas a que se refiere el artículo 225 Bis, fracción III y 309 del Código. La recusación con causa se hará valer ante el Pleno, el cual decidirá en los términos del artículo 310 del mismo ordenamiento. Al interponer la recusación con causa, las partes interesadas aportarán las pruebas en que funden su petición, sin que sean admisibles las testimoniales y periciales.
+Las partes podrán recusar a los Magistrados por cualquiera de las causas a que se refieren los artículos 225 Bis, fracción III y 309 del Código. La recusación con causa se hará valer ante el Pleno, el cual decidirá en los términos del artículo 310 del mismo ordenamiento.
 
-Si se declarare infundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hace valer, y en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal, en la fecha en que se interpuso la recusación.
+Al interponer la recusación con causa, las partes interesadas aportarán las pruebas en que funden su petición, sin que sean admisibles las testimoniales y periciales.
 
-### CAPÍTULO V. Demanda y contestación
+Si se declarare infundada la recusación interpuesta, el Pleno decidirá de acuerdo con su prudente arbitrio si hubo mala fe por parte de quien la hace valer y, en tal caso, le impondrá una sanción consistente en multa por el importe de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal, en la fecha en que se interpuso la recusación.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE JULIO DE 2007)</small>
+
+### CAPÍTULO V. De la demanda y contestación
 
 ###### Artículo 111.
 
 La demanda deberá interponerse por escrito dirigido al Tribunal y deberá llenar los requisitos formales siguientes:
 
-I. Nombre y domicilio del quejoso y, en su caso, de quien promueva en su nombre;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+I. Nombre y domicilio del actor y, en su caso, de quien promueva en su nombre;
 
 II. Las resoluciones o actos administrativos que se impugnan;
 
-III. La autoridad o autoridades responsables;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
 
-IV. La pretensión que se deduce;
+III. La autoridad o autoridades responsables, así como su domicilio;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+IV. Los agravios causados por el acto impugnado;
 
 V. La fecha en la que se tuvo conocimiento de la resolución o resoluciones que se impugnan;
 
-VI. La descripción de los hechos, y de ser posible, los fundamentos de derecho;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
 
-VII. Las pruebas que se ofrezca (sic); y.
+VI. La descripción de los hechos y, de ser posible, los fundamentos de derecho;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+VII. Las pruebas que se ofrezcan; y,
 
 VIII. La firma del quejoso.
 
-El actor deberá acompañar una copia de la demanda y de los documentos anexos a ella, para cada una de las demás partes.
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
+El actor deberá acompañar una copia de la demanda y de los documentos anexos a ella, para correr traslado a cada una de las demás partes.
 
 ###### Artículo 112.
 
 Dentro de las veinticuatro horas posteriores a haber recibido la demanda, el Presidente del Tribunal la turnará al Magistrado instructor que corresponda.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 113.
 
-El Magistrado instructor admitirá la demanda, o la desechará en los casos siguientes:
+Una vez recibida la demanda por el Magistrado instructor ordenará, en su caso, prevenir al actor o propondrá al Pleno su desechamiento de plano.
 
-I. Si encontrare motivo manifiesto e indudable de improcedencia, y
+La demanda se desechará en los casos siguientes:
 
-II. Si siendo oscura o irregular y prevenido el actor para subsanarla, en el término de cinco días no lo hiciere; la oscuridad o irregularidad subsanables, no serán más que aquellas referentes a la falta ó imprecisión de los requisitos formales a que se refiere el artículo 111 de este Reglamento.
+a) Si se encontrare motivo manifiesto e indudable de improcedencia, y
+
+b) Si siendo oscura o irregular y prevenido el actor para subsanarla no lo hiciere en el plazo de cinco días.
+
+La oscuridad o irregularidad subsanables, no serán más que aquellas referentes a la falta o imprecisión de los requisitos formales a que se refiere el artículo 111 de este Reglamento, con excepción hecha de lo previsto en la fracción VIII del citado artículo.
 
 Si se encontrare acreditada debidamente alguna causa evidente de improcedencia el Magistrado instructor propondrá al Pleno el acuerdo para su desechamiento de plano.
 
-Admitida la demanda, el Magistrado instructor será el encargado de continuar la instrucción hasta la elaboración del proyecto de sentencia.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 17 DE JULIO DE 2007)</small>
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 114.
 
-No encontrándose irregularidades en la demanda, o subsanadas éstas, el Magistrado instructor mandará emplazar a la autoridad o autoridades responsables para que rindan el informe justificado correspondiente dentro del plazo de quince días. En el mismo acuerdo citará para la audiencia del juicio dentro de un plazo que no excederá de veinte días y dictará las demás providencias que procedan con arreglo a este Título.
+No encontrándose irregularidades en la demanda, o subsanadas éstas, el Magistrado instructor la admitirá y mandará emplazar a la autoridad o autoridades responsables para que, dentro del plazo de quince días hábiles, contados a partir del siguiente al en que sean notificadas, rindan el informe justificado correspondiente.
 
-El término para rendir el informe justificado correrá para las autoridades responsables individualmente.
+Una vez rendido el informe o informes justificados por parte de la autoridad o autoridades responsables, el Magistrado instructor, dentro del plazo de cinco días hábiles siguientes admitirá, en su caso, las pruebas ofrecidas por las partes y señalará fecha y hora para la celebración de la audiencia de desahogo de las mismas, que tendrá verificativo dentro de un plazo que no excederá de treinta días hábiles y dictará las demás providencias que procedan con arreglo a este Título.
+
+El plazo para rendir el informe justificado correrá para las autoridades responsables individualmente.
 
 Las autoridades responsables en su informe justificado, se referirán a cada uno de los puntos contenidos en el escrito de demanda, citarán los fundamentos legales que consideren aplicables y ofrecerán las pruebas que estimen pertinentes.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 115.
 
-Si la autoridad responsable no rindiera el informe justificado dentro del término señalado en el artículo próximo anterior, el Magistrado instructor declarará la preclusión correspondiente considerando confesados los hechos, salvo prueba en contrario.
+Si la autoridad responsable no rindiera el informe justificado dentro del plazo señalado en el artículo anterior, el Magistrado instructor declarará la preclusión correspondiente y tendrá por cierto el acto reclamado, salvo prueba en contrario.
 
 ### CAPÍTULO VI. De la suspensión
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 116.
 
-La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Pleno, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento, previa verificación de la existencia y autenticidad del acto que se impugna.
+La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Pleno a propuesta del Magistrado instructor.
+
+Una vez otorgada la suspensión, se notificarán de inmediato a la autoridad o autoridades responsables para su cumplimiento.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 117.
 
-La suspensión podrá solicitarla el quejoso en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el Pleno a propuesta del Magistrado instructor dentro del término de veinticuatro horas siguientes al en que éste haga la verificación de la existencia y autenticidad del acto que se impugna.
+La suspensión podrá ser solicitada por el actor hasta antes del cierre de instrucción y tendrá por efecto evitar que se ejecute la resolución impugnada.
+
+Para el efecto anterior, el Magistrado instructor someterá a la consideración del Pleno el acuerdo respectivo.
 
 Previo al otorgamiento de la suspensión, deberá verificarse que con la misma no se afecten disposiciones de orden público, los derechos de terceros, el interés social o se dejare sin materia el juicio respectivo.
 
@@ -1618,21 +1710,29 @@ La suspensión podrá ser revocada por el Pleno en cualquier etapa del juicio, s
 
 En el escrito de demanda y en el informe justificado, deberán ofrecerse las pruebas. Las supervenientes podrán ofrecerse cuando aparezcan y hasta la audiencia respectiva.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 119.
 
-Se admitirán toda clase de pruebas, excepto la confesional, las que fueren contrarias a la moral y al derecho. Aquéllas que ya se hubiesen rendido ante las autoridades demandadas, a petición de parte, deberán ponerse a disposición del Magistrado instructor con el expediente respectivo.
+Se admitirán toda clase de pruebas, excepto la confesional y la testimonial, las que fueren contrarias a la moral y al derecho.
+
+Aquellas que ya se hubiesen rendido ante las autoridades demandadas, a petición de parte, deberán ponerse a disposición del Magistrado instructor con el expediente respectivo.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 120.
 
-El Magistrado instructor podrá acordar de oficio el desahogo de las pruebas que estime conducentes para la mejor decisión del asunto, notificando oportunamente a las partes a fin de que puedan intervenir, si así conviene a sus intereses.
+El Magistrado instructor podrá recabar de oficio y desahogar las pruebas que estime conducentes para la mejor decisión del asunto, notificando oportunamente a las partes a fin de que puedan intervenir, si así conviene a sus intereses.
 
 ###### Artículo 121.
 
 El Magistrado instructor podrá decretar en todo tiempo la repetición o ampliación de cualquier diligencia probatoria, siempre que lo estime necesario. Los hechos notorios no requieren prueba.
 
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 122.
 
-A fin de que las partes puedan rendir oportunamente sus pruebas, las autoridades tienen la obligación de ordenar la expedición inmediata de las copias certificadas de los documentos que le sean solicitados. Si las autoridades no cumplieren con dicha obligación, los interesados solicitarán al Magistrado instructor que las requiera para tales efectos, aplazando la audiencia por un término que no excederá de diez días. Si no obstante el requerimiento, las autoridades no expiden las copias que se les hubieren solicitado con oportunidad, el Magistrado Instructor hará uso de los medios de apremio conducentes en los términos de este Reglamento o de las demás disposiciones legales aplicables.
+A fin de que las partes puedan rendir oportunamente sus pruebas, las autoridades tienen la obligación de ordenar la expedición inmediata de las copias certificadas de los documentos que le sean solicitados. Si las autoridades no cumplieren con dicha obligación, los interesados solicitarán al Magistrado instructor que las requiera para tales efectos, aplazando la audiencia, en su caso, por un plazo que no excederá de diez días. Realizando el requerimiento, si las autoridades no expiden las copias que se les hubieren solicitado con oportunidad, el Magistrado instructor hará uso de los medios de apremio conducentes en los términos de este Reglamento o de las demás disposiciones legales aplicables.
 
 ###### Artículo 123.
 
@@ -1646,15 +1746,15 @@ En caso de discordia, el perito tercero será designado por el Magistrado instru
 
 I. Consanguinidad hasta dentro del cuarto grado con alguna de las partes;
 
-II. Interés directo o indirecto en el juicio;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+II. Interés directo o indirecto en el juicio; y
 
 III. Ser inquilino, arrendador, tener amistad estrecha o enemistad manifiesta, o tener relaciones de índole económico con cualquiera de las partes.
 
 ###### Artículo 125.
 
-Los testigos, que no podrán exceder de tres por cada hecho, deberán ser presentados por el oferente. Sin embargo, cuando estuviere imposibilitado para hacerlo, lo manifestará así bajo protesta de decir verdad y pedirá que se les cite. El Magistrado instructor ordenará la citación con el apercibimiento respectivo, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
-
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el juicio, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general vigente en el Distrito Federal, en el momento de imponerse la misma, debiendo declararse desierta la prueba testimonial.
+(DEROGADO, G.O. 17 DE JULIO DE 2007)
 
 ### CAPÍTULO VIII. De la improcedencia y sobreseimiento
 
@@ -1662,7 +1762,7 @@ En caso de que el señalamiento de domicilio de algún testigo resulte inexacto 
 
 El Juicio de Inconformidad Administrativa es improcedente:
 
-I. Contra actos o resoluciones de autoridades distintas a las mencionadas en el presente Título;
+I. (DEROGADO, G.O. 17 DE JULIO DE 2007)
 
 II. Contra actos o resoluciones del propio Tribunal;
 
@@ -1670,27 +1770,45 @@ III. Contra actos o resoluciones que sean materia de otro juicio que se encuentr
 
 IV. Contra actos o resoluciones que hayan sido juzgados en otro juicio, en los términos de la fracción anterior;
 
-V. Contra actos o resoluciones que no afecten los intereses legítimos del actor, que se hayan consumado de un modo irreparable o que hayan sido consentidos expresa o tácitamente, entendiéndose por estos últimos aquellos contra los que no se promovió el juicio dentro de los plazos señalados por este Título;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+V. Contra actos o resoluciones que no afecten el interés jurídico del actor, que se hayan consumado de un modo irreparable o que hayan sido consentidos expresamente;
 
 VI. Contra actos o resoluciones, cuya impugnación mediante algún recurso u otro medio de defensa legal se encuentre en trámite;
 
-VII. Contra reglamentos, circulares o disposiciones de carácter general, que no hayan sido aplicados concretamente al promovente;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
 
-VIII. Cuando de las constancias de autos apareciere fehacientemente que no existen las resoluciones o actos que se pretenden impugnar; y
+VII. Contra reglamentos, circulares o disposiciones de carácter general, que no hayan sido aplicados concretamente al actor;
 
-IX. Cuando hubieren cesado los efectos de los actos o resoluciones impugnados, o no pudieren producirse por haber desaparecido el objeto del mismo.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+VIII. Cuando de las constancias de autos apareciere fehacientemente que no existen las resoluciones o actos que se pretenden impugnar;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+IX. Cuando hubieren cesado los efectos de los actos o resoluciones impugnados, o no pudieren producirse por haber desaparecido el objeto del mismo, y
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2007)</small>
+
+X. Cuando la demanda sea presentada fuera de los plazos señalados en el presente reglamento.
 
 ###### Artículo 127.
 
 Procede el sobreseimiento en los casos siguientes:
 
-I. Cuando el demandante desista del juicio;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+I. Cuando el actor se desista del juicio;
 
 II. Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
-III. Cuando el demandante falleciere durante la tramitación del juicio, si el acto impugnado sólo afecta su interés;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
 
-IV. Cuando la autoridad responsable haya satisfecho la pretensión del quejoso, o revocado el acto que se impugna; y
+III. Cuando el actor falleciere durante la tramitación del juicio, si el acto impugnado sólo afecta su interés;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+IV. Cuando la autoridad responsable haya satisfecho la pretensión del actor, o revocado el acto que se impugna; y
 
 V. Cuando no se haya efectuado ningún acto procesal durante el término de ciento ochenta días naturales, ni el actor hubiera promovido en ese mismo lapso.
 
@@ -1698,39 +1816,61 @@ Procederá el sobreseimiento en el último caso, si la promoción no realizada e
 
 ### CAPÍTULO IX. De la audiencia
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 128.
 
-La audiencia a que se refiere el artículo 114 tendrá por objeto desahogar en los términos de este Título, las pruebas ofrecidas y oír los alegatos correspondientes.
+La audiencia a que se refiere el artículo 114 tendrá por objeto desahogar en los términos de este Título, las pruebas ofrecidas por las partes y que previamente hayan sido admitidas por el Magistrado instructor, donde se haya ordenado la preparación de aquellas que así lo ameriten.
 
 La falta de asistencia de las partes, no impedirá la celebración de la audiencia.
 
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2007)</small>
+
+Las pruebas que se encuentren preparadas se desahogarán, dejando pendientes para la continuación de la audiencia las que no lo hubieren sido, en cuyo caso, el Magistrado instructor deberá dictar las providencias necesarias para su oportuno desahogo en la continuación de la audiencia que, en su caso, se fije.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 129.
 
-Presente el Magistrado instructor, se celebrará la audiencia el día y hora señalados al efecto. A continuación, el Secretario llamará a las partes, peritos, testigos y demás personas que por disposición de este Título deban intervenir en la audiencia, y el Magistrado instructor determinará quiénes deberán permanecer en el recinto y quiénes en lugar separado para llamarlos en su oportunidad.
+Presente el Magistrado instructor, se celebrará la audiencia el día y hora señalados al efecto. A continuación, el Secretario llamará a las partes, peritos y demás personas que por disposición de este Título deban intervenir en la audiencia, y el Magistrado instructor determinará quiénes deberán permanecer en el recinto y quiénes en lugar separado para llamarlos en su oportunidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 130.
 
-La recepción y desahogo de las pruebas se harán en la audiencia y se sujetará a las siguientes reglas:
+La admisión y forma de preparación de las pruebas se hará previamente al señalamiento de la audiencia para su desahogo y se sujetará a las siguientes reglas:
 
 I. Se admitirán las relacionadas con los puntos controvertidos que se hubieren ofrecido en la demanda y el informe justificado, así como las supervenientes;
 
-II. Se desecharán las que el quejoso debió rendir y no aportó ante las autoridades en el procedimiento administrativo que dio origen a la resolución que se impugna; salvo la (sic) supervenientes y las que habiendo sido ofrecidas ante la autoridad responsable no hubieren sido rendidas por causas no imputables al oferente.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+II. Se desecharán las que el actor debió rendir y no aportó ante las autoridades en el procedimiento administrativo que dio origen a la resolución que se impugna; salvo las supervenientes y las que habiendo sido ofrecidas ante la autoridad responsable no hubieren sido rendidas por causas no imputables al oferente.
 
 III. Si se admitiere la prueba pericial, en caso de discordia, el Magistrado instructor nombrará un perito, quien dictaminará oralmente y por escrito. Las partes y el Magistrado instructor podrán formular observaciones a los peritos y hacerles las preguntas que estimaren pertinentes en relación con los puntos sobre los que dictaminaren;
 
-IV. Cuando se hubieren presentado interrogatorios por las partes, en relación con la prueba testimonial, las preguntas deberán tener relación directa con los puntos controvertidos y deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho y que no sean insidiosas. El Magistrado instructor deberá cuidar que se cumplan estas condiciones, impidiendo preguntas que las contraríen. La protesta y examen de los testigos se hará en presencia de las partes. Al formularse preguntas se seguirán las mismas reglas; el Magistrado instructor podrá hacer las preguntas que considere necesarias; y
+IV. (DEROGADA, G.O. 17 DE JULIO DE 2007)
 
-V. No se requerirá hacer constar en el acta las exposiciones de las partes sobre los documentos ni las preguntas o repreguntas a los testigos, bastando se asienten las respuestas.
+V. (DEROGADA, G.O. 17 DE JULIO DE 2007)
 
-Contra el desechamiento de pruebas procede el recurso de reclamación ante el Pleno.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 17 DE JULIO DE 2007)</small>
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 131.
 
-Concluida la recepción de las pruebas, las partes podrán alegar por sí o por medio de sus representantes, ya sea de forma verbal o por escrito.
+Dentro de los tres días hábiles siguientes al en que concluya la audiencia de admisión y desahogo de pruebas, el Magistrado instructor señalará fecha y hora para que tenga verificativo la audiencia de alegatos, en la cual, las partes podrán alegar de manera verbal o en forma escrita por sí mismas o por conducto de sus representantes legales.
+
+Una vez concluida la audiencia de alegatos, el magistrado instructor declarará cerrada la instrucción.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 132.
 
-Una vez oídos los alegatos de ambas partes, el Magistrado a quien se hubiere turnado el asunto propondrá el proyecto de resolución al Pleno, quién resolverá el juicio en un plazo no mayor de diez días hábiles.
+Una vez cerrada la instrucción, dentro de los treinta días hábiles siguientes, el Magistrado instructor propondrá al Pleno el proyecto de resolución que corresponda.
+
+El plazo señalado en el párrafo anterior, podrá duplicarse en virtud de la complejidad del asunto o del número de las constancias que integren el expediente, lo cual deberá ser notificado a las partes de manera personal.
+
+El Pleno tendrá un plazo de hasta veinte días hábiles para emitir la resolución.
 
 ### CAPÍTULO X. De la sentencia
 
@@ -1752,15 +1892,21 @@ II. Los fundamentos legales en que se apoye, debiendo limitarlo a los puntos cue
 
 III. Los puntos resolutivos en los que se expresarán los actos que se confirmen, modifiquen o revoquen; y
 
-IV. Los términos en la que deberá ser ejecutada la sentencia por parte de la autoridad responsable, así como el plazo correspondiente para ello, que no excederá de veinticinco días hábiles contados a partir de la fecha de su notificación.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2007)</small>
+
+IV. Los términos en los que deberá ser cumplida la sentencia por parte de la autoridad responsable, así como el plazo correspondiente para ello, que no excederá de veinticinco días hábiles contados a partir del siguiente al de su notificación.
 
 ### CAPÍTULO XI. Del cumplimiento de la sentencia
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2007)</small>
+
 ###### Artículo 136.
 
-El promovente podrá acudir en queja al Pleno, en caso de incumplimiento de la sentencia y se dará vista a la autoridad responsable por el término de cinco días hábiles para que manifieste lo que a su derecho convenga.
+El actor podrá acudir en queja al Pleno, en caso de incumplimiento de la sentencia y se dará vista a la autoridad responsable por el plazo de cinco días hábiles para que manifieste lo que a su derecho convenga.
 
-Una vez cumplido el término de cinco días, el Pleno resolverá si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días, amonestándola y previniéndola de que en caso de renuencia se le impondrá una multa de cincuenta a ciento ochenta días de salario mínimo general vigente para el Distrito Federal.
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
+
+Una vez transcurrido el plazo referido, el Pleno resolverá a propuesta del Magistrado instructor, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso, de renuencia se le impondrá una multa de cincuenta a ciento ochenta días de salario mínimo general vigente en el Distrito Federal.
 
 Si la autoridad pertenece al Tribunal y persistiere en su actitud, el Pleno obligará al funcionario responsable para que dé cumplimiento a la resolución en un plazo no mayor de cinco días; sin perjuicio de que se reitere cuantas veces sea necesario, la multa impuesta.
 
@@ -1768,19 +1914,39 @@ Si la autoridad pertenece al Instituto Electoral del Distrito Federal y persisti
 
 Las sanciones antes mencionadas también serán procedentes, cuando no se cumplimente en sus términos la suspensión que se decrete respecto del acto reclamado en el juicio.
 
-### CAPÍTULO XII. Del Recurso de Reclamación
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE JULIO DE 2007)</small>
+
+### CAPÍTULO XII. De la Regularización del Procedimiento
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 137.
 
-El Recurso de Reclamación es procedente contra las providencias o los acuerdos de trámite dictados por el Magistrado instructor.
+El Magistrado instructor o el Pleno podrá ordenar de oficio, aún fuera de las audiencias, que se subsane toda omisión que notare en la substanciación del juicio, para el sólo efecto de regularizar el procedimiento, con la limitante de que no podrá revocar sus propias determinaciones.
+
+> <small>(REFORMADO, G.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 138.
 
-El recurso se interpondrá con expresión de agravios, dentro del término de tres días contados a partir del día siguiente al en que surta sus efectos la notificación del acuerdo recurrido. El Pleno suplirá las deficiencias de los agravios expresados en el recurso, pero no su ausencia.
+La regularización del procedimiento es procedente únicamente contra determinaciones de trámite; como serían, de manera enunciativa y no limitativa, los siguientes supuestos:
+
+a) El no proveimiento respecto de una prueba ofrecida por los litigantes,
+
+b) Cuando no se haya desahogado una prueba que previamente haya sido admitida por el Magistrado instructor;
+
+c) La omisión de no acordar en su totalidad la promoción de alguna de las partes;
+
+d) Señalar fecha para audiencia;
+
+e) Corregir el nombre de alguna de las partes;
+
+f) Omita acordar lo relativo a las autorizaciones de los abogados o licenciados en derecho;
+
+g) Todas aquellas que sean de la misma naturaleza.
 
 ###### Artículo 139.
 
-El recurso se substanciará con vista a las demás partes, por un término común de tres días hábiles, para que expongan lo que a su derecho convenga. Transcurrido dicho plazo, el Pleno resolverá lo conducente.
+(DEROGADO, G.O. 17 DE JULIO DE 2007)
 
 ## TÍTULO CUARTO. Del régimen de los trabajadores del Tribunal
 
@@ -2557,3 +2723,11 @@ SEGUNDO. Se derogan los Lineamientos Generales que rigen la Operación y Funcion
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente.
 
 CUARTO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
+
+G.O. 17 DE JULIO DE 2007.
+
+PRIMERO. Las modificaciones al Reglamento Interior del Tribunal Electoral del Distrito Federal entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente dictamen.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
