@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-tribunal-de-lo-contencioso-administrativo-del-848"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-19"
-last_updated: "2004-01-29"
+last_updated: "2007-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=848&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JULIO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de diciembre de 1995.
 
@@ -606,29 +606,41 @@ El Magistrado Instructor examinará el expediente y si encontrare acreditada deb
 
 ### CAPITULO VI. De la Suspensión
 
-> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 58.
 
-La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el Presidente de la Sala que conozca del asunto, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento, previa verificación de la existencia y autenticidad del acto que se impugna y consulta ciudadana de aquéllos vecinos a los que afecte de algún modo la suspensión. Dicha consulta ciudadana se celebrará de conformidad con los lineamientos establecidos por el Título Tercero Capítulo IV, de la Ley de Participación Ciudadana del Distrito Federal, en lo que corresponda.
+La suspensión de la ejecución de los actos que se impugnan, sólo podrá ser acordada por el magistrado instructor que conozca del asunto, haciéndolo del conocimiento inmediato de las autoridades demandadas para su cumplimiento, previa verificación de la existencia y autenticidad del acto que se impugna y consulta ciudadana de los lineamientos establecidos por el Título Tercero Capítulo IV, de la Ley de Participación Ciudadana del Distrito Federal, en lo que corresponda.
 
-> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 59.
 
-La suspensión podrá solicitarla el actor en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el Presidente de la Sala a petición del Magistrado Instructor a quien le haya sido solicitada por el actor dentro del término de veinticuatro horas siguientes a la verificación de la existencia y autenticidad del acto que se impugna y, en su caso, a la consulta ciudadana a que se refiere el artículo anterior.
+La suspensión podrá solicitarla el actor en cualquier etapa del juicio y tendrá por efecto evitar que se ejecute la resolución impugnada. Sólo podrá ser concedida por el magistrado instructor que conozca del asunto, a quien le haya sido solicitada por el actor dentro del término de veinticuatro horas siguientes a la verificación de la existencia y autenticidad del acto que se impugna y, en su caso, a la consulta ciudadana a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 Previo al otorgamiento de la suspensión, deberá verificarse que con la misma no se afecten los derechos de terceros o el interés social.
 
-Cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el Presidente de la Sala podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia, siempre y cuando dicha actividad constituya su único medio de subsistencia, lo cual debe ser comprobado fehacientemente.
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
 
-Excepcionalmente, bajo su más estricta responsabilidad el Presidente de la Sala podrá acordar la suspensión con efectos restitutorios, en cualquiera de las fases del procedimiento hasta antes de la sentencia respectiva.
+Cuando los actos que se impugnan hubieren sido ejecutados y afecten a los demandantes impidiéndoles el ejercicio de su única actividad de subsistencia o el acceso a su domicilio particular, el magistrado instructor que conozca del asunto podrá dictar las medidas cautelares que estime pertinentes para preservar dicho medio de subsistencia, siempre y cuando dicha actividad constituya su único medio de subsistencia, lo cual debe ser comprobado fehacientemente.
+
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
+
+Excepcionalmente, bajo su más estricta responsabilidad, el magistrado instructor podrá acordar la suspensión con efectos restitutorios, en cualquiera de las fases del procedimiento hasta antes de la sentencia respectiva.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 No se otorgará la suspensión si es en perjuicio del interés social, si se contravinieren disposiciones de orden público o se dejare sin materia el juicio.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 Cuando se solicite la suspensión para la realización de actividades reguladas, que requieran de concesión, licencia, permiso, autorización o aviso y el actor no exhiba dicha documental no se otorgará la misma.
 
-La suspensión podrá ser revocada por el Presidente de la sala en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
+
+La suspensión podrá ser revocada por el magistrado instructor en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
 
 ###### ARTICULO 60.
 
@@ -650,9 +662,13 @@ Si la suspensión fue concedida, dejará de surtir efectos si la garantía no se
 
 En los casos en que proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no obtiene sentencia favorable en el juicio.
 
-Para que surta efectos la suspensión, el actor deberá otorgar la garantía que señale el Presidente de la Sala, en alguna de las formas que menciona el artículo 59.
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
 
-Cuando con la suspensión pueda afectarse derechos de terceros no estimables en dinero, el Presidente de la Sala que conozca del asunto fijará discrecionalmente el importe de la garantía.
+Para que surta efectos la suspensión, el actor deberá otorgar la garantía que señale el magistrado instructor, en alguna de las formas que menciona el artículo 59.
+
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
+
+Cuando con la suspensión pueda afectarse derechos de terceros no estimables en dinero, el magistrado instructor que conozca del asunto, fijará discrecionalmente el importe de la garantía.
 
 ###### ARTICULO 62.
 
@@ -995,3 +1011,9 @@ G.O. 29 DE ENERO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Los juicios iniciados con anterioridad a la presente publicación, continuarán su proceso con base en la normatividad que les dio inicio.
+
+G.O. 18 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
