@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2007-05-15"
+last_updated: "2007-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JULIO DE 2007.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2908,9 +2908,9 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
-> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 #### SECCION IV. Prueba pericial
 
@@ -3226,7 +3226,7 @@ En los supuestos de presunciones legales que admiten prueba en contrario opera l
 
 ARTICULO 384 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 #### SECCION X. De la Audiencia
 
@@ -3364,7 +3364,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -5104,17 +5104,17 @@ Divorcio por mutuo consentimiento
 
 Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurir (sic) al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
 
 ARTICULO 675
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente ante el juez, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público, a una junta que se efectuará después de los ocho y antes de los quince días siguientes, en la que se identificarán plenamente ante el juez, y en la que éste, si asistiesen ambos, los exhortará para procurar su reconciliación.
+
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2007)</small>
 
 ARTICULO 676
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonal (sic), y decidirá sobre el convenio presentado.
+Si en la misma junta, los cónyuges insistiesen en su propósito de divorciarse, y en el convenio que celebraron para el efecto, quedaren bien garantizados los derechos de los hijos menores o incapacitados, el juez, oyendo el parecer del representante del Ministerio Público sobre este punto, dictara sentencia, en la que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
 
 ARTICULO 677
 
@@ -8303,3 +8303,13 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 G.O. 15 DE MAYO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Para su mayor difusión, publíquese el presente decreto en el Diario Oficial de la Federación.
