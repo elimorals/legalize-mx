@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2006-09-12"
+last_updated: "2007-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -479,29 +479,47 @@ XLIX. Las demás que le señalen las leyes, reglamentos y demás disposiciones q
 
 A la Secretaría de Desarrollo Social y Regional le corresponde el despacho de los siguientes asuntos:
 
-I. Diseñar y coordinar el desarrollo social y la planeación regional del Estado, con la participación consultada de las autoridades y de los grupos sociales interesados en los municipios y comunidades. A este efecto, podrá celebrar y ejecutar convenios con los municipios para implementar los planes y programas respectivos, los que serán formulados con base en las disposiciones legales aplicables, y al efecto:
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
-a) Formulará programas de desarrollo social y regional, atendiendo las circunstancias que presentan los municipios y comunidades del Estado, en particular a las indígenas, para que las acciones que se propongan, permitan preservar sus culturas, lenguas, usos, costumbres y formas específicas de organización social, de conformidad con lo que establezcan las disposiciones legales aplicables;
+I. Diseñar y coordinar la política de desarrollo social y humano, así como la planeación regional del Estado, con la participación consultada de las autoridades y de los grupos sociales interesados, en los municipios y comunidades. A este efecto podrá ejecutar y celebrar convenios con las dependencias estatales y los municipios, para implementar los planes y programas respectivos, los que serán formulados con base en las disposiciones aplicables, y al cabo deberá:
 
-b) Coordinará la instrumentación de los programas de desarrollo regional, promoviendo en los municipios y comunidades proyectos productivos de abasto social y de desarrollo comunitario;
+a) Formular programas de desarrollo social y regional de carácter integral, en coordinación con la sociedad y el gobierno, que generen condiciones de vida digna para la población; fortaleciendo la infraestructura social básica, la vivienda, los servicios de salud y educación, así como el fomento de la economía social y regional, con énfasis en las regiones y sectores de la población con mayores desventajas; y en relación con el sector indígena, coordinadamente con las demás instituciones competentes y organismos involucrados, velar para que las acciones que se propongan, permitan preservar sus culturas, lenguas, usos, costumbres y formas específicas de organización social, de conformidad con lo que establezcan las disposiciones legales aplicables.
 
-c) Promoverá la construcción de la infraestructura y el equipamiento indispensables para el desarrollo social y regional de los municipios, comunidades y colonias populares, ejecutando las acciones que le correspondan; y
+b) Impulsar en las políticas públicas estatales y municipales, así como en la iniciativa privada, un compromiso compartido y corresponsable para la superación de la pobreza y la marginación, poniendo a la persona y a la familia en el eje de la política social.
 
-d) Fomentará y apoyará el diseño y funcionamiento de mecanismos de consulta y participación en los municipios y comunidades, para la identificación de sus necesidades y prioridades y la aplicación de los programas regionales.
+c) Coordinar la instrumentación de programas de desarrollo regional y microrregional (sic), promoviendo con los municipios la participación de los agentes públicos, privados y sociales, en la ejecución de proyectos detonadores del desarrollo regional.
 
-II. Coordinar e integrar, en una programación con congruencia regional, las acciones que realice el Ejecutivo del Estado a través de sus diversas dependencias y entidades;
+d) Promover la construcción de la infraestructura y el equipamiento indispensable para el desarrollo social y regional de los municipios, comunidades y colonias populares, ejecutando las acciones que le correspondan.
 
-III. Celebrar y ejecutar convenios con la Federación en materia de desarrollo regional y social, coordinando con las dependencias y entidades federales que concurren al desarrollo regional y social del Estado, la ejecución de los planes y programas respectivos;
+e) Fomentar y apoyar el diseño y funcionamiento de mecanismos de consulta ciudadana y participación de los municipios y comunidades, para la identificación de sus necesidades y prioridades;
 
-IV. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
-V. Promover e impulsar proyectos productivos de carácter social, que permitan generar recursos y superar las condiciones de pobreza a partir de un desarrollo sustentable y perdurable;
+Il. Celebrar y ejecutar convenios con la Federación en materia de desarrollo regional y social, coordinando con las dependencias y entidades federales, estatales y municipales que concurren al desarrollo regional y social del Estado, la ejecución de los planes y programas respectivos;
 
-VI. Promover la creación de microempresas para la producción, transformación y comercialización de productos, así como apoyar la capacitación para el trabajo en el medio rural;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
-VII Promover ante el sector privado la canalización de inversiones productivas al medio rural, así como a proyectos productivos de carácter social;
+III. Planear, coordinar, concertar, ejecutar y evaluar programas especiales para la atención de los sectores sociales más desprotegidos;
 
-VIII. Promover y apoyar el diseño e instrumentación de mecanismos de financiamiento público, privado y social para el desarrollo regional; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+
+IV. Promover e impulsar proyectos productivos de carácter social, que permitan generar ingresos para superar las condiciones de pobreza a partir de un desarrollo sustentable;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+
+V. Promover y apoyar el diseño e instrumentación de mecanismos de financiamiento público, privado y social para el desarrollo social y regional;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+
+VI. Promover, coordinadamente con las demás instituciones competentes y organismos involucrados, la creación de microempresas para la producción, transformación y comercialización de productos, y apoyar la capacitación para el trabajo en el medio rural; estimulando así mismo ante el sector privado, la canalización de inversiones productivas en relación con dicho sector;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+
+VII. Administrar los recursos del Fondo Estatal para la Infraestructura Social del Estado, derivado del Ramo 33, canalizando su ejercicio al financiamiento de obras y acciones sociales básicas, y a inversiones que beneficien directamente a sectores de la población que se encuentren en condiciones de rezago social y pobreza extrema; Así (sic) mismo, realizar el cálculo de distribución de los fondos para la Infraestructura Social Municipal, y para el Fortalecimiento de los Municipios, derivados del Ramo 33, entre los municipios del Estado, de conformidad con las normas y procedimientos que anualmente determine la Federación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
+
+VIII. Diseñar, operar y difundir un sistema de información abierto a las dependencias federales, estatales, al Congreso del Estado, y la sociedad, sobre el ejercicio de los recursos que integran el Fondo para la Infraestructura Social Municipal, el Fondo para el Fortalecimiento Municipal, y el Fondo Estatal para la Infraestructura Social, para conocer sus alcances e impactos en el desarrollo social de las localidades, los municipios y el Estado, y
 
 IX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -1404,3 +1422,9 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
 d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+
+P.O. 19 DE JULIO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a su entrada en vigor.
