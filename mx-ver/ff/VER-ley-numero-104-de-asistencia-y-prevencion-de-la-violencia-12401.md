@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-104-de-asistencia-y-prevencion-de-la-violencia-12401
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "2005-08-15"
+last_updated: "2007-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -125,7 +125,9 @@ VI. Implementar programas para la capacitación y sensibilización de los encarg
 
 VII. Fomentar la creación de centros de atención inmediata para los generadores y receptores de la violencia familiar, en coordinación con las instancias competentes;
 
-VIII. Promover programas educativos en las zonas urbanas, rurales e indígenas -éstas en su lengua-, para la prevención de la violencia familiar con las instancias competentes;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2007)</small>
+
+VIII. Promover programas educativos en las zonas urbanas, rurales e indígenas -éstas en su lengua-, para la prevención de la violencia familiar con las instancias competentes, y establecer un programa de capacitación para maestros del Sistema Educativo Estatal, para la detección y apoyo a casos de violencia familiar entre las niñas y los niños que cursan la educación básica;
 
 IX. Fomentar la sensibilización, así como la formación y capacitación para prevenir la violencia familiar, a los usuarios de las salas de consulta externa de los hospitales generales, materno-infantiles, pediátricos y geriátricos del sector oficial y privado, así como al personal médico, administrativo y docente de los centros de desarrollo y estancias infantiles y de la tercera edad;
 
@@ -268,3 +270,9 @@ G.O. 15 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 19 DE JULIO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
