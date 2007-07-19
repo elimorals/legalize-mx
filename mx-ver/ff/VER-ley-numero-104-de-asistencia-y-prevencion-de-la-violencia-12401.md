@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-104-de-asistencia-y-prevencion-de-la-violencia-12401
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "2005-08-15"
+last_updated: "2007-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,19 @@ state: "VER"
 ---
 # LEY NUMERO 104 DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
+LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
+Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador Constitucional del Estado de Veracruz-Llave.
+CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
-PATRICIO CHIRINOS CALERO, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación:
+La LXII Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
-Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave".
-
-"La Honorable Quincuagésima Séptima Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68 fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo, y en nombre del pueblo, expide la siguiente:
-
-LEY Número 104
-
-DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
+Decreto Número 204
 
 ###### ARTÍCULO ÚNICO.
 
@@ -49,175 +43,159 @@ LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 1°.
 
-Las disposiciones de esta ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos de asistencia y prevención de la violencia familiar en el Estado de Veracruz.
+Objeto de la Ley. Las disposiciones de esta Ley son de orden público, interés social y observancia general en la entidad; y tienen por objeto regular el procedimiento de extinción de dominio en el Estado deAguascalientes, (sic) conforme al Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 2°.
 
-Para los efectos de esta ley se entiende por:
+Glosario. Para efectos de esta Ley, se entenderá por:
 
-I. Generadores de la violencia familiar: quienes realizan actos de maltrato físico, verbal, psicoemocional o sexual hacia las personas con las que tengan algún vinculo familiar;
+I. Afectado: Persona titular de los derechos de propiedad del bien sujeto al Procedimiento, con legitimación para acudir a proceso;
 
-> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+II. Bienes: Todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles y todo aquel derecho real o personal, sus objetos, frutos y productos, susceptibles de apropiación, que se encuentren en los supuestos señalados en esta Ley;
 
-II. Receptores de la violencia familiar: los grupos o individuos que sufren el maltrato físico, verbal, psicoemocional o sexual con relación de parentesco o concubinato con el generador de la violencia familiar.
+III. Código Nacional: El Código Nacional de Procedimientos Penales;
 
-> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+IV. Evento Típico: Hecho típico constitutivo de cualquiera de los delitos de robo de vehículos, enriquecimiento ilícito, trata de personas, secuestro o de los delitos contra la salud en su modalidad de narcomenudeo previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
-III. Violencia familiar: el uso de la fuerza física o moral, por acción u omisión, recurrente e intencional y las agresiones verbales a cualquiera de las personas citadas en la fracción anterior; aún cuando no esté previsto como delito por otros ordenamientos.
+V. Fiscal General: Fiscal General del Estado;
 
-No se considera violencia familiar los actos que tengan por objeto corregir mesuradamente a los menores de edad siempre que éstos sean realizados por quienes participen en la formación y educación de los mismos, ejecutados por quienes ejercen la patria potestad o por los terceros a los que éstos les hubieren dado consentimiento para ello, siempre y cuando se demuestre que van encaminados al sano desarrollo integral de dichos menores, y no impliquen infligir a éstos, actos de fuerza que atenten en contra de su integridad física y psíquica.
+VI. Hecho Ilícito: Hecho antijurídico en el que concurran los elementos del tipo penal, ya sea del delito de robo de vehículos, enriquecimiento ilícito, trata de personas, secuestro o de los delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, siempre y cuando, en lo que concierne a los tres últimos, sean competencia de los jueces de la entidad; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
-Los actos u omisiones que se consideran constitutivos de fuerza física o moral a que se refiere el primer párrafo de este artículo puede (sic) manifestarse de las siguientes formas:
+VII. Juez: Juez Especializado en Extinción de Dominio;
 
-a) Maltrato físico: entendiéndose todo acto de agresión intencional repetitivo en el que se utilice alguna parte del cuerpo, algún objeto, arma o substancia para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento o control;
+VIII. Ley: Ley de Extinción de Dominio para el Estado de Aguascalientes;
 
-b) Maltrato psicoemocional: entendiéndose el patrón de conducta consistente en actos u omisiones repetitivas cuyas formas de expresión pueden consistir en prohibiciones, coacciones, condicionamientos, intimidaciones, desprecios, actitudes devaluatorias de abandono o cualquier otro que provoquen en quien las recibe, deterioro, disminución o afectación de la autoestima.
+IX. Ministerio Público: Ministerio Público del Estado de Aguascalientes, designado mediante acuerdo del Fiscal General, publicado en el Periódico Oficial del Estado;
 
-Todo acto que se compruebe que ha sido realizado con la intención de causar un daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor, y
+X. Procedimiento: Procedimiento de Extinción de Dominio previsto en esta Ley;
 
-c) Maltrato sexual: entendiéndose por tal los actos u omisiones reiterados que infligen burla y humillación de la sexualidad, así como formas dé expresión tendientes a negar las necesidades sexoafectivas, inducir a la realización de practicas sexuales no deseadas, la celotipia para el control, manipulación o dominio de la pareja, y que generen daños.
+XI. Víctima y Ofendido: Aquellos que tienen la pretensión de que se les repare el daño, quienes además tendrán sus derechos expeditos para hacerlos valer en la vía y forma que legalmente corresponda.
 
 ###### ARTÍCULO 3°.
 
-Corresponde al Ejecutivo del estado la asistencia y prevención de la violencia familiar, estableciendo para tal efecto, los mecanismos de coordinación que sean necesarios.
+Confidencialidad y reserva de la información. Las autoridades de la entidad y de los municipios, así como los particulares que por cualquier causa legal tengan conocimiento de la información, deberán guardar la más estricta confidencialidad y reserva sobre la información materia de los procedimientos de extinción de dominio que regula esta Ley.
 
-### CAPÍTULO II. Del Consejo Estatal para la Asistencia y Prevención de la Violencia Familiar
+Toda la información que se genere u obtenga con relación a esta Ley se considerará como reservada y confidencial en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+
+### CAPÍTULO II. Extinción de Dominio
 
 ###### ARTÍCULO 4°.
 
-Se crea el Consejo Estatal para la Asistencia y Prevención de la Violencia Familiar como un órgano de apoyo y consulta del Ejecutivo del estado, cuyo objetivo será la prevención de la violencia familiar, la protección de los receptores de ésta, así como la reeducación de quienes la generan.
+Disposiciones Supletorias. A falta de regulación suficiente en la presente Ley respecto de las instituciones y supuestos jurídicos regulados en ella, se estará a las siguientes reglas de supletoriedad:
+
+I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código Nacional;
+
+II. En cuanto al Hecho Ilícito, al Código Penal para el Estado de Aguascalientes;
+
+III. En el Procedimiento, a lo previsto en el Código de Procedimientos Civiles del Estado de Aguascalientes;
+
+IV. En los aspectos relativos a la regulación de bienes, obligaciones y derechos, a lo previsto en el Código Civil del Estado de Aguascalientes.
 
 ###### ARTÍCULO 5°.
 
-Para la organización, supervisión y dirección de sus trabajos, el Consejo Estatal estará integrado por:
+Definición. La extinción de dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el Artículo 11 de esta Ley, sin contraprestación ni compensación alguna para el Afectado, cuando se acredite el Hecho Ilícito en los casos de delitos contra la salud, previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, secuestro, robo de vehículos, enriquecimiento ilícito y trata de personas, en términos de lo previsto en la presente Ley.
 
-I. El Gobernador del estado, quien lo presidirá;
+La extinción de dominio no procederá sobre bienes decomisados por la autoridad judicial, en sentencia ejecutoriada.
 
-II. El Secretario General de Gobierno;
-
-III. El Secretario de Salud y Asistencia;
-
-IV. El Secretario de Educación y Cultura;
-
-V. El Procurador General de Justicia;
-
-VI. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia, y
-
-VII. El Secretario Ejecutivo.
-
-A propuesta del presidente del Consejo Estatal, podrán participar además representantes de las instituciones legalmente constituidas con objetivos similares a esta ley.
+Los bienes sobre los que se declare la extinción de dominio y que deriven de los delitos de secuestro o trata de personas, se destinarán a los fondos de atención a víctimas respectivos; tratándose de robo de vehículos, enriquecimiento ilícito y delitos contra la salud en su modalidad de narcomenudeo, se aplicarán a favor del Gobierno del Estado y serán destinados al bienestar social, mediante acuerdo del Gobernador que se publique en el Periódico Oficial del Estado. Cuando se trate de bienes fungibles se destinarán en porcentajes iguales a la Procuración de Justicia y la Seguridad Pública.
 
 ###### ARTÍCULO 6°.
 
-En ausencia del Gobernador del estado, el Secretario General de Gobierno presidirá el Consejo Estatal.
+Acción de extinción de dominio. La acción de extinción de dominio es de naturaleza jurisdiccional, de carácter real, de contenido patrimonial y procederá sobre cualquier bien, independientemente de quien lo tenga en su poder o lo haya adquirido.
+
+La acción de extinción de dominio es autónoma, distinta e independiente de cualquier otra de naturaleza penal de la que se haya desprendido o de la que tuviera origen, sin perjuicio de los terceros de buena fe.
+
+El ejercicio de la acción de extinción de dominio corresponde al Ministerio Público, quien podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Fiscal General. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
+
+En los casos en que el Agente del Ministerio Público determine la improcedencia de la acción, deberá someter su resolución a la revisión del Fiscal General.
+
+El Fiscal General, analizando los argumentos de la resolución de improcedencia, decidirá en definitiva si debe ejercitarse la acción ante el Juez.
 
 ###### ARTÍCULO 7°.
 
-El Consejo tendrá las siguientes facultades:
-
-I. Elaborar el proyecto de Reglamento del Consejo Estatal para la Asistencia y Prevención de la Violencia Familiar y someterlo a consideración del Titular del Ejecutivo estatal;
-
-II. Formular y proponer al Gobernador del estado el programa global para la Asistencia y Prevención de la Violencia Familiar en el Estado de Veracruz;
-
-III. Fomentar la coordinación, colaboración e información entre las instituciones que lo integran;
-
-IV. Evaluar trimestralmente los logros y avances del programa global;
-
-V. Proponer el establecimiento de los lineamientos administrativos y técnicos, y de los modelos de atención más adecuados para esta problemática;
-
-VI. Implementar programas para la capacitación y sensibilización de los encargados de atender los casos de violencia familiar, a fin de mejorar la atención de los receptores y generadores de la citada violencia;
-
-VII. Fomentar la creación de centros de atención inmediata para los generadores y receptores de la violencia familiar, en coordinación con las instancias competentes;
-
-VIII. Promover programas educativos en las zonas urbanas, rurales e indígenas -éstas en su lengua-, para la prevención de la violencia familiar con las instancias competentes;
-
-IX. Fomentar la sensibilización, así como la formación y capacitación para prevenir la violencia familiar, a los usuarios de las salas de consulta externa de los hospitales generales, materno-infantiles, pediátricos y geriátricos del sector oficial y privado, así como al personal médico, administrativo y docente de los centros de desarrollo y estancias infantiles y de la tercera edad;
-
-X. Promover acciones y programas de protección y reeducación social para generadores y receptores de la violencia familiar;
-
-XI. Implementar jornadas de trabajo social y médico con fines preventivos o de seguimiento en donde exista violencia familiar con el objeto de desalentarla. También fomentar campañas públicas encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa, para prevenir y combatir la violencia familiar, en coordinación con los organismos competentes;
-
-XII. Establecer las bases para el sistema de registro de la información estadística del estado sobre violencia familiar;
-
-XIII. Promover, con especialistas en la materia, la atención a la violencia familiar en las diversas instituciones que se encuentran comprendidas en la ley;
-
-XIV. Promover programas de prevención de la violencia familiar en comunidades de escasos recursos, en las que se origina esa violencia, con la incorporación de la población afectada en la ejecución de dichos programas.
-
-Estos aplicarán también en las zonas indígenas del estado, considerando su etnia, lengua y características socioculturales;
-
-XV. Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia familiar, y
-
-XVI. Fomentar, en coordinación con instituciones especializadas, públicas, privadas o sociales investigaciones sobre el fenómeno de la violencia familiar, a fin de que los resultados sirvan para diseñar nuevos modelos de la prevención y atención a esa violencia.
+Prescripción de la acción. A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los hechos ilícitos a que se refiere esta Ley, de conformidad con los plazos establecidos en el Código Penal para el Estado de Aguascalientes, salvo que los bienes sean producto del delito, en cuyo caso la acción será imprescriptible.
 
 ###### ARTÍCULO 8°.
 
-El Consejo Estatal celebrará una sesión ordinaria cada tres meses, así como las extraordinarias que sean indispensables, a juicio del Gobernador; quien para este efecto tomará en cuenta las propuestas que le hagan los integrantes del Consejo.
-
-Los acuerdos del Consejo Estatal se tomarán mediante el voto de la mayoría de los miembros presentes. En caso de empate quien presida tendrá voto de calidad.
+No prejuzgamiento de la legitimidad de la propiedad o posesión. El no ejercicio, desistimiento o extinción de la acción penal, así como la absolución del Demandado en un procedimiento penal, por no haberse establecido su responsabilidad, o la no aplicación de la pena de decomiso de bienes, no prejuzga respecto de la legitimidad de ningún bien, siempre que se haya determinado que el hecho ilícito existió.
 
 ###### ARTÍCULO 9°.
 
-Cuando para la aprobación y ejecución de los acuerdos del Consejo se comprendan materias o acciones que incidan en los ámbitos de competencia de la Federación, de otros estados o de los municipios, deberán plantearse esos casos ante las autoridades competentes y, en su caso, celebrarse convenios generales o específicos.
+Muerte del Demandado. No impedirá el ejercicio de la acción de extinción de dominio la muerte del o los probables responsables del Hecho Ilícito, de los propietarios del bien, de quienes lo poseen en concepto de dueño, o de quienes se ostenten o comporten como tales. En este supuesto, la acción procederá respecto de los bienes objeto de sucesión, cuando sean de los descritos en esta Ley, siempre y cuando se ejercite antes de la sección de partición de la herencia en el juicio sucesorio correspondiente.
 
-### CAPÍTULO III. De la secretaría ejecutiva del Consejo Estatal para la Asistencia y Prevención de la Violencia Familiar
+### CAPÍTULO I. Competencia
 
 ###### ARTÍCULO 10.
 
-El Consejo Estatal tendrá una Secretaría Ejecutiva, cuyo titular será designado y removido libremente por el Gobernador del estado. Participará con voz en las sesiones del Consejo Estatal y además contará con el apoyo administrativo que le asigne el Titular del Poder Ejecutivo.
+Restitución a la víctima u ofendido. Se restituirán a la Víctima u Ofendido del delito los bienes de su propiedad que sean materia de la acción, cuando acredite dicha circunstancia en el procedimiento previsto en esta Ley.
+
+El derecho a la reparación del daño, para la Victima u Ofendido del delito, será procedente de conformidad con la legislación vigente, cuando obren suficientes medios de prueba en el Procedimiento y no se haya dictado sentencia ejecutoriada al respecto.
 
 ###### ARTÍCULO 11.
 
-La Secretaría Ejecutiva tendrá las siguientes facultades:
+Procedencia de la extinción de dominio. Procede la extinción de dominio, en los delitos contra la salud en su modalidad de narcomenudeo previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud; robo de vehículos, enriquecimiento ilícito, trata de personas y secuestro, en los casos en que se sustancien ante las autoridades de la entidad, respecto de los siguientes bienes:
 
-I. Ejecutar los acuerdos del Consejo Estatal;
+I. Aquellos que sean instrumento, objeto o producto del delito, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el Hecho Ilícito sucedió;
 
-II. Representar legalmente al Consejo;
+II. Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos de la Fracción anterior;
 
-III. Realizar eventos y campañas permanentes tendentes a erradicar la violencia familiar, de conformidad con el programa global propuesto por el Consejo Estatal;
+III. Aquellos que estén siendo utilizados para la realización de los hechos ilícitos materia de esta Ley por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo; y
 
-IV. Difundir el contenido y alcances de esta ley en todos los ámbitos de la entidad;
+IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales y el imputado por estos delitos se comporte como dueño.
 
-V. Celebrar acuerdos y convenios con dependencias, entidades públicas y privadas, así como con instituciones legalmente constituidas para la asistencia y prevención de la violencia familiar;
-
-VI. Llevar el control y estadística de los casos atendidos de violencia familiar con la finalidad de proporcionar psicoterapia especializada gratuita, en coordinación con las instituciones autorizadas para ello, a los generadores, receptores o familiares involucrados en dicha violencia;
-
-VII. Llevar el registro de instituciones especiales, públicas, privadas o sociales que trabajen en materia de violencia familiar en el estado, y concertar con ellas programas para incorporar sus acciones y estadísticas al sistema de información del estado, y
-
-VIII. Las demás que le otorgue el Consejo Estatal tendentes a cumplir con los objetivos de esta ley.
-
-### CAPÍTULO IV. Del Órgano Técnico Consultivo del Consejo
+### CAPÍTULO II. De las Partes en el Procedimiento
 
 ###### ARTÍCULO 12.
 
-El Consejo Estatal contará con un órgano técnico consultivo integrado por expertos con reconocida trayectoria en materia de prevención y atención a la violencia familiar.
+Imposibilidad de localizar bienes materia de la acción. Cuando los bienes materia de la acción, después de ser identificados, no pudieran localizarse o se presente alguna circunstancia que impida la declaratoria de extinción de dominio, se procederá conforme a las reglas siguientes:
+
+I. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2015)
+
+II. Cuando los bienes se hayan transformado o convertido en otros bienes, sobre estos se hará la declaratoria; o
+
+III. Cuando se hayan mezclado con bienes adquiridos lícitamente, estos podrán ser objeto de la declaratoria de extinción de dominio hasta por el valor estimado del producto entremezclado, respetando el derecho de propiedad de terceros ajenos al proceso.
 
 ###### ARTÍCULO 13.
 
-Los integrantes del órgano técnico consultivo serán nombrados con carácter honorario y por tiempo determinado por el Gobernador del estado a propuesta del Consejo Estatal.
+Disposición de bienes materia de la acción. No se podrá disponer de los bienes sujetos a la acción hasta que exista una sentencia ejecutoriada que haya declarado la extinción de dominio.
 
-### CAPÍTULO V. De la Asistencia, atención y prevención de la Violencia Familiar
+Si la sentencia fuere absolutoria, los bienes y sus productos se reintegrarán al propietario. En caso de que los bienes hayan sufrido algún daño injustificado, el propietario podrá ejercitar las acciones procedentes para que se le repare.
+
+### CAPÍTULO III. De las Garantías y Derechos de los Afectados, Terceros, Víctimas y Ofendidos
 
 ###### ARTÍCULO 14.
 
-La atención especializada que se proporcione en materia de violencia familiar se basará en modelos psicoterapéuticos reeducativos, empleados y evaluados con anterioridad, tendentes a prevenir, disminuir y, de ser posible, erradicar las conductas familiares violentas.
+Requisitos para que proceda la acción de extinción de dominio. Para que sea procedente la acción de extinción de dominio, el Ministerio Público deberá:
 
-Se podrá extender la atención en instituciones públicas para quienes hayan sido sujetos actores o demandados de una sentencia judicial firme relacionada con hechos de violencia familiar, a solicitud de la autoridad jurisdiccional y de acuerdo con las facultades conferidas a los jueces, o bien a solicitud del propio interesado.
+I. Acreditar que existen elementos suficientes para determinar que sucedió el Hecho Ilícito y que los bienes materia de dicha acción son de los señalados en el Artículo 11;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. En los casos a que se refiere el Artículo 11, probar plenamente la actuación de mala fe del Afectado; y
+
+III. En los casos a que se refiere el Artículo 11, acreditar al margen de duda la procedencia ilícita de dichos bienes.
 
 ###### ARTÍCULO 15.
 
-El personal de las instituciones a que se refiere el artículo anterior deberá ser profesional acreditado por algún organismo especializado, público o privado, y contar con capacitación y sensibilización, así como con el perfil y actitudes adecuadas, y deberá contar con el registro correspondiente ante la Secretaría de Educación Pública y la Secretaria de Salud.
+Solicitud de decomiso en procedimiento penal. El ejercicio de la acción de extinción de dominio no excluye que el Ministerio Público solicite el decomiso o en su defecto la declaración de abandono de los mismos bienes con motivo del ejercicio de la acción penal, en los casos que resulte procedente.
 
 ###### ARTÍCULO 16.
 
-Para los efectos de esta ley se entiende por prevención el conjunto de medidas encaminadas a impedir que se produzca el maltrato físico, psicoemocional o sexual entre las personas que tengan algún vínculo de parentesco consanguíneo, de afinidad, civil, por matrimonio o concubinato.
+Excepción de la acción respecto de ciertos bienes. Se exceptúan de la acción de extinción de dominio, las armas de fuego, municiones y explosivos respecto de los cuales, en todo caso, deberá observarse lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
+
+Tratándose de narcóticos, se procederá en los términos de la legislación federal aplicable.
+
+Los bienes asegurados que resulten del dominio público o privado de la federación, de las entidades o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables.
+
+Se exceptúan también la fauna y la flora protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, en cuyo caso, se procederá en los términos de la legislación aplicable.
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA Y DEL PROCEDIMIENTO DE EXTINCIÓN DE DOMINIO
 
-### CAPÍTULO VI. Del procedimiento conciliatorio
+### CAPÍTULO IV. Preparación de la Acción de Extinción de Dominio
 
 ###### ARTÍCULO 22.
 
@@ -427,15 +405,19 @@ IV. Los razonamientos y pruebas con los que acredite la existencia de algún Eve
 
 V. Las pruebas que ofrezca, conducentes para acreditar la existencia de alguno de los hechos ilícitos de los señalados en el Artículo 5° de la Ley y que los bienes sobre los que ejercita la acción son de los mencionados en el Artículo 11 de este ordenamiento;
 
-VI. Los fundamentos de derecho;
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VII. La solicitud, en su caso, de medidas cautelares sobre los bienes materia de la acción;
+VI. Las pruebas que ofrezca, conducentes para acreditar la procedencia ilícita de los bienes, la actuación de mala fe del Afectado, o que éste tuvo conocimiento de su utilización ilícita;
 
-VIII. La solicitud de notificar al Afectado, Tercero, Víctima y Ofendido, determinados e indeterminados;
+VII. Los fundamentos de derecho;
 
-IX. La petición para que se declare en la sentencia correspondiente la extinción de dominio de los bienes; y
+VIII. La solicitud, en su caso, de medidas cautelares sobre los bienes materia de la acción;
 
-X. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
+IX. La solicitud de notificar al Afectado, Tercero, Víctima y Ofendido, determinados e indeterminados;
+
+X. La petición para que se declare en la sentencia correspondiente la extinción de dominio de los bienes; y
+
+XI. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
 
 ###### ARTÍCULO 49.
 
@@ -485,17 +467,19 @@ V. Plantear las hipótesis de derecho que a su interés convenga.
 
 Contra la acción de extinción de dominio no procede la reconvención.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
 Pruebas del Afectado. Las pruebas que ofrezca el Afectado deberán ser conducentes para acreditar:
 
-I. La procedencia lícita de los bienes;
+I. La procedencia lícita de los bienes, sólo en caso de que el Ministerio Público aporte elementos para acreditar la procedencia ilícita de los bienes;
 
-II. Su actuación de buena fe, sólo en caso de que el Ministerio Público aporte datos que, de forma razonable, permitan considerar la mala fe del Afectado;
+II. Su actuación de buena fe, sólo en caso de que el Ministerio Público aporte elementos para acreditar la mala fe del afectado;
 
-III. Que estaba impedido para conocer la utilización ilícita de dichos bienes, sólo en caso de que el Ministerio Público aporte datos que, de forma razonable, permitan considerar que el Afectado tuvo conocimiento de la utilización ilícita; y
+III. Que estaba impedido para conocer la utilización ilícita de dichos bienes, sólo en caso de que el Ministerio Público aporte elementos para acreditar que el afectado tuvo conocimiento de la utilización ilícita; y
 
-IV. Que los bienes son distintos a los previstos en el Artículo 11 de la presente Ley.
+IV. Que los bienes son distintos a los previstos en el Artículo 11 de la presente Ley, sólo en caso de que el Ministerio Público aporte elementos para acreditar que sí lo son.
 
 Los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas y ofendidos únicamente en lo relativo a la reparación del daño.
 
@@ -521,7 +505,9 @@ II. La fecha de la audiencia de desahogo de pruebas y formulación de alegatos, 
 
 III. Las demás determinaciones que considere pertinentes.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración, pero se impondrá a los faltistas debidamente notificados una multa de treinta a cien días de salario mínimo general vigente en el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
+La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración, pero se impondrá a los faltistas debidamente notificados una multa de treinta a cien veces el valor diario de la unidad de medida y actualización.
 
 De no ser posible por la hora o por cuestiones procesales, el Juez suspenderá la audiencia y citará para su continuación dentro de los tres días hábiles siguientes.
 
@@ -721,7 +707,9 @@ I. Se acredite la existencia del Hecho Ilícito, por el que el Agente del Minist
 
 II. Se pruebe que son de los señalados en el Artículo 11 de la Ley; y
 
-III. El Afectado no haya probado la procedencia lícita de dichos bienes, su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita, en términos del Artículo 52, párrafo primero de esta Ley.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. El Ministerio Público haya aportado al juicio elementos suficientes para probar la procedencia ilícita de los bienes, la mala fe del Afectado o que tuvo conocimiento de su utilización ilícita.
 
 En caso contrario, ordenará la devolución de los bienes respecto de los cuales el Afectado hubiere probado la procedencia legítima de dichos bienes y los derechos que sobre ellos detente.
 
@@ -953,66 +941,62 @@ SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- Sergio Javier Reynoso Talamantes, Secretario de Gobierno, en suplencia del Jefe de Gabinete de conformidad con el Artículo 50 de la Constitución Política del Estado de Aguascalientes.- Rúbrica.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2015.
+
 ###### ARTÍCULO 17.
 
-Las partes en un conflicto de violencia familiar podrán resolver sus diferencias mediante el procedimiento de conciliación.
+Reglas de competencia. El Estado contará con Jueces y Ministerios Públicos especializados en extinción de dominio, dependientes del Poder Judicial del Estado y la Fiscalía General del Estado respectivamente, cuyas funciones y distribución deberán regularse en sus correspondientes leyes orgánicas.
 
-Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
+Asimismo, existirá un Magistrado Especializado en Extinción de Dominio designado por la Sala Civil del Supremo Tribunal de Justicia del Estado de entre sus miembros, el cual será competente para resolver el recurso de apelación previsto en esta Ley, para lo cual contará con el auxilio del personal técnico y administrativo que corresponda en términos de la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y demás disposiciones legales y reglamentarias aplicables. La Sala Civil del Supremo Tribunal de Justicia del Estado será competente para resolver el recurso de revisión previsto en esta Ley.
 
-Tratándose de incapacitados, menores y ancianos, éstos comparecerán asistidos de representante legal. En caso de carecer de él, el Juez llamará al Sindico Municipal para que asista legalmente a esos receptores de la violencia familiar en términos de lo dispuesto por la fracción IX del artículo 39 de la Ley Orgánica del Municipio Libre. Si el caso se refiere a indígenas, además del representante legal, se les asignará, de ser necesario, el intérprete correspondiente.
+Esta Ley se aplicará a los bienes muebles e inmuebles que se encuentren ubicados en el territorio de la entidad. Cuando se encuentren situados fuera del mismo, se dará vista a la autoridad competente de dicho lugar, sin perjuicio de ordenar las medidas necesarias para la procedencia y tramitación de la acción de extinción hasta su conclusión en la entidad.
 
 ###### ARTÍCULO 18.
 
-Corresponde conocer de los conflictos de violencia familiar en cada municipio a los Jueces de Paz o, en su caso, a los Jueces Menores.
+Partes en el Procedimiento.
+
+Son parte en el Procedimiento:
+
+I. Actor: Que será el Ministerio Público;
+
+II. Demandado: Quien se ostente como dueño o titular de los derechos reales o personales; y
+
+III. Tercero: La persona que sin ser el Demandado en el Procedimiento, cuenta con legitimación para acudir al proceso, con el fin de deducir un derecho propio sobre los bienes materia de la acción, con independencia de lo previsto en las Fracciones III y IV del Artículo 11 de esta Ley.
+
+El Demandado y el Tercero actuarán por sí o a través de sus representantes o apoderados, en los términos de la legislación civil aplicable. En cualquier caso, los efectos procesales serán los mismos.
 
 ###### ARTÍCULO 19.
 
-El procedimiento de solución de los conflictos familiares a que se refiere el artículo anterior, se llevará a cabo en una sola audiencia.
-
-Al iniciarse la audiencia de conciliación, el Juez procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan dándoles a conocer las consecuencias en caso de continuar con su conflicto.
-
-Una vez que las partes lleguen a una conciliación se celebrará el convenio correspondiente que será firmado por quienes intervengan en él.
+Garantías de audiencia y debido proceso. En el Procedimiento se respetarán las garantías de audiencia y debido proceso, permitiendo al Afectado, terceros, víctimas y ofendidos, comparecer en el Procedimiento, oponer las excepciones y defensas, presentar pruebas e intervenir en su preparación y desahogo, así como los demás actos procedimentales que estimen convenientes.
 
 ###### ARTÍCULO 20.
 
-En caso de no verificarse el supuesto anterior, quedan a salvo los derechos del receptor de la violencia familiar para ejercitar las acciones que correspondan, por sí o a través de su representante legal.
+Garantía y protección para el Afectado. Durante el Procedimiento el Juez garantizará y protegerá que los afectados puedan probar:
 
-T R A N S I T O R I O S
+I. La procedencia lícita de dichos bienes, su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita, en términos del Artículo 52, Fracciones I, II y III de esta Ley;
 
-PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+II. Que los bienes materia del Procedimiento son distintos a los señalados en el Artículo 11 de esta Ley; y
 
-SEGUNDO. Se concede un plazo de noventa días a partir de la entrada en vigor de la presente ley para que se expida el Reglamento Interno del Consejo para la Asistencia y Prevención de la Violencia Familiar en el Estado.
+III. Que respecto de los bienes sobre los que se ejercitó la acción se ha emitido una sentencia firme favorable dentro de un Procedimiento, por identidad respecto a los sujetos.
 
-TERCERO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
-
-Dada en el Salón de Sesiones de la H. LVII LegisIatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los cuatro días del mes de septiembre de mil novecientos noventa y ocho. Oswaldo Cházaro Montalvo, Diputado Presidente.- Rúbrica. Edmundo Miranda Feria, Diputado Secretario.- Rúbrica".
-
-En cumplimiento de lo dispuesto por la fracción I del artículo 87, de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, mando se publique, circule y se le dé el debido cumplimiento. Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los ocho días del mes de septiembre de mil novecientos noventa y ocho.
-
-PATRICIO CHIRINOS CALERO
-
-Gobernador Constitucional del Estado
-
-SALVADOR MIKEL RIVERA
-
-Secretario General de Gobierno
-
-EDIT RODRÍGUEZ ROMERO
-
-Secretaria de Salud y Asistencia
-
-GUILLERMO ZÚÑIGA MARTÍNEZ
-
-Secretario de Educación y Cultura
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-G.O. 15 DE AGOSTO DE 2005.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
-
-Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+También garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca para tales efectos.
 
 ###### ARTÍCULO 21.
 
 Derecho a una defensa adecuada. Cuando el Afectado lo solicite por cualquier medio, el Juez le designará un defensor de oficio, quien realizará todas las diligencias para garantizar la audiencia y el debido proceso. Cuando comparezcan terceros, la Víctima y Ofendido, en caso de requerirlo, tendrán derecho a que se les garantice una defensa adecuada.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 261.- SE DEROGAN, REFORMAN Y ADICIONAN ARTÍCULOS DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
