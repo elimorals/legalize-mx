@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2006-08-07"
+last_updated: "2007-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JULIO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 bis y 274; el de robo contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 bis y 274; el de robo contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -2265,15 +2265,21 @@ VIII. Rebase el doble de los parámetros y límites permisibles en las normas of
 
 A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE JULIO DEL 2004)</small>
+> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
 
 ###### Artículo 229.
 
-Al que sin autorización legal auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques del Estado, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de dos a diez años y de prisión y de treinta a doscientos cincuenta días multa.
+Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de cinco a quince años de prisión y de quinientos a mil días multa.
 
-A los autores intelectuales se les impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
+A los autores intelectuales, instigadores, a quiénes obtengan un lucro indebido o a quienes controlen o inciten a menores de edad para cometer este delito, se les impondrá una pena de siete a quince años de prisión y de setecientos a mil días multa.
 
-Cuando en la comisión de este delito se empleen los instrumentos conocidos como motosierras, sierras manuales o sus análogas, vehículos y demás objetos, se aumentará la pena de prisión hasta tres años.
+Se impondrán de diez a veinte años de prisión y de mil a mil quinientos días multa:
+
+I. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
+
+II. Cuando en la comisión de este ilícito se utilicen vehículos, camionetas o camiones cargados con tocones de madera;
+
+III. Cuando en la comisión de este ilícito participen servidores públicos.
 
 Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
 
@@ -3594,3 +3600,9 @@ G.G. 7 DE AGOSTO DE 2006.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
