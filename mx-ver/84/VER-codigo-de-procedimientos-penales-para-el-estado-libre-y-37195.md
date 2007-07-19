@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2006-08-24"
+last_updated: "2007-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2007.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2207,13 +2207,13 @@ Si el motivo de la apelación fuere un (sic) sentencia absolutoria, se tratará 
 
 Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días declarará si el recurso ha sido bien o mal admitido. En el último caso, se devolverán los autos al juzgado de su origen.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2007)</small>
 
 ###### Artículo 324.
 
-Si el recurso fuere admitido en efecto devolutivo, el tribunal pondrá los autos a vista del apelante, para que en el término de tres días exprese agravios. Tratándose de sentencia absolutoria el Ministerio Público podrá ofrecer pruebas y formular sus agravios en los términos del párrafo siguiente.
+Si el recurso fuere admitido en efecto devolutivo, el tribunal pondrá los autos a vista del apelante, para que en el término de nueve días exprese agravios. Tratándose de sentencia absolutoria el Ministerio Público podrá ofrecer pruebas y formular agravios en el término señalado.
 
-Si fuere admitido en ambos efectos, se pondrán los autos a la vista del apelante por el término de tres días para el ofrecimiento de pruebas, las que de proceder se desahogarán en un plazo de diez días, sin contar los que se empleen en el correo. Si el apelante no promoviere pruebas, dentro del término de seis días, contado desde la fecha en que se le dé vista, expresará agravios.
+Si fuere admitido en ambos efectos, se pondrán los autos a la vista del apelante por el término de seis días, para el ofrecimiento de pruebas, las que de proceder se desahogarán en un plazo de diez días, sin contar los que se empleen en el correo. Si el apelante no promoviere pruebas, dentro de ese término contado desde la fecha en que se le dé vista, expresará agravios.
 
 ###### Artículo 325.
 
@@ -3090,3 +3090,9 @@ G.O. 24 DE AGOSTO DE 2006.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Las autoridades administrativas y judiciales pondrán a disposición de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave, en una relación de acuerdo con sus características, los bienes susceptibles de venta, donación, remate o destrucción, a fin de que dicha dependencia dictamine y proceda a la venta, remate o destrucción de esos bienes.
+
+G.O. 19 DE JULIO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
