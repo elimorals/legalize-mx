@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-para-adolescentes-para-el-estado-de-baja-52357"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-05"
-last_updated: "2006-10-05"
+last_updated: "2007-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2007.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de octubre de 2006.
 
@@ -975,13 +975,19 @@ Se considerarán graves los delitos antes señalados, cualquiera que sea el grad
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor 180 días hábiles posteriores a su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 20 DE JULIO DE 2007)</small>
+
+PRIMERO.- El Artículo Primero del Decreto 1630 entrará en vigor el día 01 de Noviembre del año 2007.
 
 SEGUNDO.- Durante el término de entrada en vigencia de esta Ley, se crearán los reglamentos, Instituciones, Centro de Internamiento y Tratamiento, y órganos que se requieran para la aplicación del presente decreto.
 
 TERCERO.- El Ejecutivo del Estado de Baja California Sur, contará con 180 días hábiles posteriores a la publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur de este Decreto, para crear el Reglamento Interno para el funcionamiento del Centro de Internamiento y Tratamiento para Adolescentes del Estado de Baja California Sur.
 
 CUARTO.- En tanto entre en vigor la presente Ley, permanecerán vigentes la Ley del Consejo Tutelar para Menores Infractores y la Ley de Normas Mínimas para Menores Infractores ambas del Estado de Baja California Sur; así como las Instituciones previstas en dichas normas.
+
+(ADICIONADO, B.O. 20 DE JULIO DE 2007) (F. DE E., B.O. 10 DE MARZO DE 2008)
+
+Aquellos adolescentes que hubiesen cometido algún delito considerado como grave por la ley penal previo a la entrada en vigor de esta Ley y se encuentren bajo procedimiento o tratamiento del Consejo Tutelar para Menores Infractores, le serán aplicados en lo conducente, los Procedimientos establecidos en esta Ley de Justicia para Adolescentes para el Estado de Baja California Sur, hasta su total reintegración social y familiar.
 
 EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCION II DEL ARTICULO 79 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR, EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS CINCO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL SEIS.
 
@@ -996,3 +1002,9 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VICTOR MANUEL GULUARTE CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
