@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "2006-07-11"
+last_updated: "2007-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2007.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -135,12 +135,6 @@ En este caso, no podrá presentarse nueva solicitud hasta que transcurra un año
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
-
-Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
-
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
-
 ARTICULO 11 A. Los requisitos al que se refiere el artículo anterior se acreditarán en los siguientes términos.
 
 I. Con copia certificada del Acta de Nacimiento.
@@ -152,6 +146,12 @@ III. El requisito señalado en la Fracción Tercera con certificado médico de a
 IV. La residencia que se refiere la fracción IV, se acreditará con copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o cualquier otro documento idóneo.
 
 V. El requisito señalado en la fracción V, con certificado de no antecedentes penales.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
+ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
+
+Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -201,6 +201,14 @@ El requisito señalado en la fracción I del artículo anterior se justificará 
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
+ARTICULO 12 B. Llenados los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado expedirá la patente de Notario correspondiente al aspirante, siguiendo estrictamente el orden del registro para aspirantes llevado ante la Secretaría General de Gobierno, en un término no mayor de quince días.
+
+El interesado deberá registrarla en el Gobierno del Estado, en el Archivo General de Notarías, en el Registro Público de la Propiedad y de Comercio de la Capital del Estado. El interesado deberá firmar en la parte correspondiente a los registros de su patente, en los libros destinados para ello, así como en su propia patente y adherirá su fotografía en unos y otras.
+
+Dicha patente de Notario se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado, sin costo alguno para el interesado y en uno de los periódicos locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
 ARTICULO 12 A. Cuando estuviere vacante una Notaria, el Gobierno del Estado publicará un aviso en el Boletín Oficial, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener el nombramiento de Notario.
 
 El mismo anuncio se publicará también en un Periódico del lugar de la Notaria cuando lo hubiere, los interesados deberán solicitar por escrito ante la Secretaría General de Gobierno, ser admitidos al curso que para tal efecto impartirá la Universidad Autónoma de Baja California Sur, acompañando la documentación correspondiente y dicha Dependencia anotará en cada solicitud su fecha y su hora de presentación, dando aviso al Gobernador del Estado.
@@ -209,17 +217,9 @@ Queda prohibido a los Notarios titulares de una Notaría ubicada en demarcación
 
 El Gobierno del Estado señalará el día y la hora para la celebración del curso, dando a conocer a los candidatos, cuando menos con anticipación de ocho días, por medio de comunicación certificada con acuse de recibo dirigida al domicilio indicado en la petición, la fecha y la hora correspondiente de inicio del curso.
 
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
-
-ARTICULO 12 B. Llenados los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado expedirá la patente de Notario correspondiente al aspirante, siguiendo estrictamente el orden del registro para aspirantes llevado ante la Secretaría General de Gobierno, en un término no mayor de quince días.
-
-El interesado deberá registrarla en el Gobierno del Estado, en el Archivo General de Notarías, en el Registro Público de la Propiedad y de Comercio de la Capital del Estado. El interesado deberá firmar en la parte correspondiente a los registros de su patente, en los libros destinados para ello, así como en su propia patente y adherirá su fotografía en unos y otras.
-
-Dicha patente de Notario se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado, sin costo alguno para el interesado y en uno de los periódicos locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+ARTICULO 12 C. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 ARTICULO 12 D. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
-
-ARTICULO 12 C. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -277,13 +277,17 @@ El sello alterado o el extraviado que se recupere, no podrá ser usado por el no
 
 En igual forma se procederá en caso de vancancia (sic).
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 20.
 
-Son derechos de los notarios los siguientes:
+Son derechos e impedimentos de los notarios:
 
 I. Que el cargo de notario titular de una Notaría de número sea vitalicio. Los notarios sólo podrán ser separados de su cargo en los casos y términos previstos por esta Ley;
 
-II. Poder, como excepciones al principio de la fracción I del artículo 22.
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2007)</small>
+
+II. Como excepciones a lo establecido en la fracción I del Artículo 22 de esta Ley, el Notario esta facultado para:
 
 a) Desempeñar cargos de instrucción pública y beneficencia;
 
@@ -309,7 +313,9 @@ h) Redactar y formular proyectos de leyes, estatutos y reglamentos, de escritura
 
 i) Desempeñar empleos, cargos o comisiones públicas, previa licencia de Ley o sin necesidad de la misma si a juicio del Ejecutivo no existe incompatibilidad para que se siga desempeñando la función Notarial;
 
-j) Desempeñar empleos, cargos o comisiones públicas, previa licencia de ley o en los casos que expresamente lo facultan las leyes respectivas.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 20 DE JULIO DE 2007)</small>
+
+j) Protocolizar los actos o hechos jurídicos del Colegio de Notarios del Estado de Baja California Sur, Asociación Civil, y del cual forme parte por su calidad de Notario Público.
 
 III. El notario puede excusar de actuar:
 
@@ -1350,3 +1356,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 11 DE JULIO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
