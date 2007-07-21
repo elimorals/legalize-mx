@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2005-05-07"
+last_updated: "2007-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -597,19 +597,29 @@ En los lugares que presten servicio al público, deberán destinarse, por lo men
 
 Dichos espacios estarán diseñados de acuerdo a los requerimientos específicos por la autoridad competente y encontrarse claramente señalados como reservados para uso exclusivo, ubicándose lo más cerca posible de las rampas de acceso a las aceras.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 68.
 
-Las personas con dificultad o riesgo de desplazamiento tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos, siempre que su vehículo se identifique plenamente con el logotipo internacional reconocido.
+Las personas con discapacidad, dificultad o riesgo de desplazamiento, tendrán derecho exclusivo a ocupar los espacios de estacionamiento destinados para ellos, siempre que el vehículo se identifique de la siguiente forma:
 
-Para el cumplimiento de lo dispuesto en este artículo, el INCODIS promoverá la distribución de calcomanías y tarjetones con el logotipo internacional a través de la Dirección de Transporte del Gobierno del Estado, la cual se otorgará previa solicitud de los interesados.
+I.- Porte placas preferenciales de circulación del Estado que contenga el logotipo internacional reconocido;
 
-Tendrán derecho a las placas especiales y tarjetón con el logotipo internacional, las personas con discapacidad permanente que sean poseedores de vehículos adaptados, así como las instituciones que brinden servicios a este sector de la población. Dichas placas quedarán sujetas a la Ley respectiva y no se tendrá costo extra.
+II.- Porte el tarjetón otorgado por el INCODIS con el logotipo internacional reconocido; o
 
-Los tarjetones se otorgan a personas con discapacidad permanente o temporal, propietarias o no de vehículos, tendrá vigencia anual y su entrega la realizará gratuitamente el INCODIS, debiendo éste llevar un registro de los mismos previa presentación de la constancia médica que avale la dificulta o riesgo de desplazamiento expedida por la institución oficial de salud.
+III.- Para el caso de vehículos foráneos, porte el logotipo internacional reconocido.
+
+Para el otorgamiento de las placas preferenciales a que se refiere el párrafo anterior, las personas con discapacidad, dificultad o riesgo de desplazamiento o quien ejerza la representación legal de ellos, podrán realizar los trámites correspondientes por sí o por conducto del INCODIS, en los términos del reglamento respectivo.
+
+En cuanto al otorgamiento del tarjetón, las personas con discapacidad, dificultad o riesgo de desplazamiento o quien ejerza la representación legal de éste, podrán acudir directamente ante el INCODIS, exhibiendo, en original y copia, identificación oficial con fotografía; constancia de domicilio; factura del vehículo auto motor adaptado o sin adaptar, aunque no aparezca a su nombre; y una constancia médica que acredite la discapacidad, dificultad o riesgo de desplazamiento expedida por una Institución médica oficial como lo son el lMSS, ISSSTE o el CREE, dependiente del DIF Estatal o Municipal.
+
+El tarjetón tendrá una vigencia de un año, salvo discapacidad temporal, y será gratuito.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### Artículo 69.
 
-A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad, la autoridad vial dispondrá las medidas necesarias, las que inclusive podrán aplicarse en zonas de estacionamiento restringido, procurando no afectar gravemente el libre tránsito de vehículos y peatones.
+Con la finalidad de hacer realidad los derechos que otorga la presente ley a las personas con discapacidad, dificultad o riesgo de desplazamiento que tengan necesidad de ascender o descender de los vehículos automotores en los cuales se transportan a sus actividades consuetudinarias, la Dirección General de Transporte del Gobierno del Estado de Colima en coordinación con las diversas Direcciones de Seguridad Pública, Vialidad y Transporte de los Ayuntamientos que conforman el Estado de Colima, promoverán, dispondrán y aplicarán todas las medidas necesarias para que a este grupo vulnerable se le respeten los derechos que esta u otras leyes les otorguen, realizando acciones para que las autoridades administrativas antes señaladas puedan aplicar sanciones en zonas restringidas como son los estacionamientos de tiendas departamentales o estacionamientos de dependencias oficiales, entre otros.
 
 ###### Artículo 70.
 
@@ -651,9 +661,15 @@ Los señalamientos se colocarán en muros o lugares físicos no abatibles, a una
 
 Los restaurantes, comedores de autoservicio, cafeterías y bibliotecas públicas, y demás lugares similares, sin que ello implique instalaciones especiales que puedan denotar segregación, marginación o discriminación de las personas con discapacidad, deberán contar, por lo menos, con cuatro mesas de forma rectangular a una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, sin travesaño, con la finalidad de brindar comodidad a usuarios en silla de ruedas.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 77.
 
-Los hoteles y establecimientos que se dediquen al hospedaje, deberán contar con habitaciones y baños adaptados para el acceso y movilidad de personas con discapacidad que utilicen apoyo para desplazarse, dicho establecimiento deberá garantizar el acceso libre de barreras a todas las áreas destinadas al uso y disfrute del usuario, tales como recepciones, habitaciones, baños, terrazas, bares y restaurantes, albercas, canchas deportivas, entre otras.
+Los hoteles y establecimientos que se dediquen al hospedaje, deberán contar con lugares de acceso común sin (sic) barreras arquitectónicas de fácil y cómodo acceso para personas con discapacidad, dificultad o riesgo de desplazamiento, áreas como son recepción, albercas, bares y todas las áreas de descanso y esparcimiento. Además en el caso de hoteles que excedan de 30 habitaciones deberán contar cuando menos con 3 habitaciones adaptadas para este grupo vulnerable, habitaciones que deberán tener el espacio necesario para la movilidad de estas personas en el interior de las mismas, siendo indispensable que las habitaciones de referencia cuenten con servicio de baños adaptados para este grupo de personas, que les permitan un descanso cómodo y agradable.
+
+En los restaurantes, bares y cualquier establecimiento existente en el Estado en que se expida comida y bebidas habrá por lo menos 2 cartas en braille, a efecto de que las personas con discapacidad visual tengan acceso al menú que ofrecen dichos comercios.
+
+Para el cumplimiento de estas disposiciones, se coordinarán las Secretarías de Desarrollo Urbano, Salud y de Turismo del Estado de Colima, así como los Ayuntamientos a través de las dependencias correspondientes, quienes harán visitas periódicas cuando menos tres veces por año para verificar el cumplimiento por parte de las personas morales que presten este tipo de servicios, y en caso de incumplimiento, las autoridades administrativas antes citadas notificarán del incumplimiento al representante legal de la respectiva persona moral y lo requerirá para que en un término de 90 días contadas (sic) a partir del día siguiente del apercibimiento, cumpla con lo ordenado por el presente artículo y en caso de no hacerlo, se le aplicará una sanción económica de hasta 130 unidades, y en caso de reincidencia esta se triplicara.
 
 ###### Artículo 78.
 
@@ -733,15 +749,25 @@ a. La Secretaría de Educación, en las materias de educación regular y especia
 
 b. La Secretaría de Salud, en esa materia;
 
-c. La Secretaría de Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas; y,
+c. La Secretaría de Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas; y (sic),
 
-d. La Dirección de Transporte, en materia de transporte;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
+
+d. La Secretaría de Turismo, tratándose de las necesidades de descanso, esparcimiento y recreación de las personas con discapacidad, dificultad o riesgo de desplazamiento;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE JULIO DE 2007)</small>
+
+e. La Dirección General de Transporte y las diversas Direcciones de Tránsito y Vialidad de los Ayuntamientos que conforman el Estado de Colima, cuando se trate del transporte y la seguridad en el traslado de las personas con discapacidad, dificultad o riesgo de desplazamiento.
 
 II. Los Ayuntamientos, a través de:
 
 a. La Dirección de Obras Públicas, o su similar en el caso de barreras arquitectónicas y normas urbanísticas; y
 
 b. La Dirección de Tránsito y Vialidad, en esa materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+La Dirección General de Transporte del Estado de Colima, en coordinación con las diversas Direcciones de Tránsito y Vialidad de los ayuntamientos que conforman el Estado de Colima, llevarán un padrón de todos y cada uno de los infractores de las leyes que en esta materia concedan derechos a las personas con discapacidad, dificultad o riesgo de desplazamiento. Dicho padrón será constantemente actualizado, por lo cual las Direcciones de Tránsito y Vialidad de los Ayuntamientos que conforman el Estado de Colima, deberán enviar mensualmente a la Dirección General del Transporte del Gobierno del Estado de Colima el informe de las infracciones aplicadas a los ciudadanos que no cumplieron con los ordenamientos legales en esta materia y que violaron los derechos de este grupo vulnerable, con la finalidad de que la Dirección de Transporte del Gobierno del Estado de Colima, aplique al infractor las sanciones que ordenan los artículos 92 y 93 de esta Ley.
 
 ###### Artículo 91.
 
@@ -755,17 +781,21 @@ Son infracciones a esta Ley:
 
 I. Ocupar indebidamente los espacios de estacionamiento exclusivo para personas con discapacidad;
 
-II. Obstruir con vehículos u otros objetos las rampas o accesos destinados al uso de las personas con discapacidad;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
-III. Destruir cualquier tipo de acceso o rampa destinado al uso de las personas con discapacidad;
+II. Ocupar los espacios exclusivos con vehículos que porten placas preferenciales, tarjetones o el logotipo internacional reconocido, sin que en ellos se transporte personas con discapacidad, dificultad o riesgo de desplazamiento;
 
-IV. Que los prestadores del servicio de transporte público, en cualquiera de sus modalidades, nieguen, impidan u obstaculicen el uso del servicio de transporte para las personas con discapacidad;
+III. Obstruir con vehículos u otros objetos las rampas o accesos destinados al uso de las personas con discapacidad;
 
-V. Omitir o ubicar discriminatoriamente los espacios reservados para personas con discapacidad, así como las facilidades de acceso a los lugares a que se refiere el artículo 78 de esta Ley;
+IV. Destruir cualquier tipo de acceso o rampa destinado al uso de las personas con discapacidad;
 
-VI. Actos u omisiones de servidores públicos que contravengan en las disposiciones contenidas en esta Ley; y
+V. Que los prestadores del servicio de transporte público, en cualquiera de sus modalidades, nieguen, impidan u obstaculicen el uso del servicio de transporte para las personas con discapacidad;
 
-VII. En general cualquier violación o incumplimiento a las obligaciones señaladas en este ordenamiento.
+VI. Omitir o ubicar discriminatoriamente los espacios reservados para personas con discapacidad, así como las facilidades de acceso a los lugares a que se refiere el artículo 78 de esta Ley;
+
+VII. Actos u omisiones de servidores públicos que contravengan en las disposiciones contenidas en esta Ley; y
+
+VIII. En general cualquier violación o incumplimiento a las obligaciones señaladas en este ordenamiento.
 
 ###### Artículo 93.
 
@@ -850,3 +880,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 04 del mes de mayo del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. CUAUHTÉMOC GÓMEZ CABEZUD. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JULIO DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
