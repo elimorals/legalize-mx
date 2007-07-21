@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2005-11-26"
+last_updated: "2007-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -205,7 +205,9 @@ III.- Solicitar de la autoridad jurisdiccional que corresponde, en sus respectiv
 
 IV.- Poner a disposición de la autoridad judicial, a las personas detenidas en los plazos señalados en la Constitución General de la República;
 
-V.- Pedir el embargo precautorio de bienes para los efectos de la reparación del daño;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+V.- Pedir el embargo precautorio de bienes y exigir en su caso, el pago de la reparación del daño;
 
 VI.- Ofrecer y aportar los medios de prueba pertinentes y promover en el proceso las demás diligencias conducentes al debido esclarecimiento de los hechos, en relación con el delito y la responsabilidad o inocencia del imputado, así como la existencia y cuantificación de los daños y perjuicios;
 
@@ -331,39 +333,71 @@ Cuando el juzgador note que el defensor incumpla alguna de las obligaciones señ
 
 Las facultades que este precepto otorga al juzgador, serán independientes del derecho que pueda corresponder al imputado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-### CAPITULO IV. LOS OFENDIDOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+### CAPITULO IV. LAS VICTIMAS U OFENDIDOS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 34.
 
-Durante las diligencias de preparación de la acción procesal penal, la persona ofendida por el delito podrá proporcionar al Ministerio Público, por sí, o por representante legal todos aquéllos datos, indicios y medios de prueba que tenga y que puedan contribuir a que se acrediten los elementos del cuerpo del delito, la probable responsabilidad del imputado y los daños y perjuicios ocasionados por aquél.
+En cualquier etapa del procedimiento, según corresponda, las víctimas o los ofendidos tendrán entre otros los siguientes derechos:
 
-Una vez que se acredite el cuerpo del delito, el ofendido y su representante, podrá solicitar al Ministerio público que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados.
+I.- Ser enterados directa y oportunamente de los derechos que en su favor establecen la Constitución y las leyes aplicables, así como sus alcances y los medios para hacerlos valer;
 
-El Ministerio Público deberá notificar personalmente al ofendido, las determinaciones que tome sobre el ejercicio o no ejercicio de la acción penal.
+II.- Cuando lo soliciten, ser informados tanto del desarrollo del procedimiento penal como de las consecuencias legales de sus actuaciones dentro del mismo y a que se deje constancia en el expediente de esta atención;
+
+III.- A intervenir como coadyuvante del Ministerio Público durante la averiguación previa o en el procedimiento penal y designar personas de su confianza para que lo representen con ese mismo carácter; para poner a disposición del representante social, por sí, o por medio del representante legal todos los datos, indicios y medios de prueba conducentes a acreditar el cuerpo del delito, la probable responsabilidad del imputado, la existencia y el monto de los daños y perjuicios ocasionados por aquél y de su reparación, así como a que el Ministerio Público integre dichos datos a la averiguación;
+
+IV.- A comparecer activamente en los actos del juicio, por sí o por representante, y a que el Ministerio Público guarde confidencialidad respecto de los datos que permitan su localización, u otros datos que afecten su reputación, honor y buen nombre;
+
+V.- A que en caso de que sea menor de edad y el inculpado solicite ser careado con la víctima, su representante legal sea informado de que ésta tiene derechos a no ser obligada a someterse al careo; y
+
+VI.- No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento;
+
+Inmediatamente que la víctima o el ofendido por el delito se presente o comparezca ante el agente del ministerio público, éste deberá practicar las diligencias siguientes:
+
+Tomar el nombre, domicilio, lugar y fecha de nacimiento, así como los demás datos generales de la víctima u ofendido, cuidando en todo caso su seguridad; (sic)
+
+Explicar a la víctima u ofendido las etapas y desarrollo del procedimiento penal, atendiendo a las características y peculiaridades del delito materia de la investigación, así como el contenido y alcance de los derechos que la Constitución y demás leyes le otorgan.
+
+El agente del Ministerio Público deberá dejar constancia en la averiguación previa, del cumplimiento a lo dispuesto en éste artículo y recabará la firma de la víctima u ofendido si esto es posible.
+
+Cuando se encuentren involucradas personas discapacitadas como víctimas u ofendidos del delito, se deberán prever las medidas conducentes para la práctica de las declaraciones y de las diligencias que sean procedentes, tomando en consideración la naturaleza de la discapacidad.
+
+Para los efectos de la reparación del daño, cuando la víctima del delito haya fallecido o padezca lesiones que impliquen pérdida o disminución de sus facultades físicas o mentales, deberán considerarse como ofendidos al cónyuge, al concubino, y demás ascendientes o descendientes que dependan económicamente de ella.
+
+El Ministerio Público deberá notificar personalmente a la víctima u ofendido, las determinaciones que tome sobre el ejercicio o no de la acción penal, informándole de los derechos que a su favor establece la ley en materia de impugnación.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 35.
 
-La persona ofendida por el delito podrá coadyuvar con el Ministerio Público, proporcionando al juzgador, por conducto de aquél o directamente, todos los elementos que tenga relacionados con el delito y la responsabilidad del imputado. Para este efecto, podrá designar representante legal, tendrá acceso a los datos que consten en la causa, y se le permitirá participar en las audiencias, por conducto del Ministerio Público o directamente, si el juzgador lo estima necesario.
+La victima o el ofendido por el delito podrán coadyuvar con el Ministerio Público proporcionando al juzgador, por conducto de aquél o directamente, todos los elementos que tenga relacionados con el delito y la responsabilidad del imputado. Para este efecto, podrá designar representante legal, tendrá acceso a los datos que consten en la causa, y se le permitirá participar en las audiencias, por conducto del Ministerio Público o directamente, siempre que lo solicite.
 
-Podrá también ofrecer los medios de prueba necesarios para acreditar la existencia y el monto de la reparación del daño ocasionado por la comisión del delito, solicitar se decrete embargo precautorio de los bienes en que pueda hacerse efectiva dicha reparación y las providencias de aseguramiento y restitución de sus derechos.
+Podrán también ofrecer los medios de prueba necesarios para acreditar la existencia y el monto de la reparación del daño ocasionado por la comisión del delito, solicitar se decrete embargo precautorio de los bienes en que pueda hacerse efectiva dicha reparación así como las medidas y las providencias de protección, aseguramiento y restitución de sus derechos.
 
-Igualmente, el ofendido podrá apelar de los autos que decreten el sobreseimiento, en los términos de la fracción II del artículo 359 y, cuando se haya constituido como coadyuvante del Ministerio Público, tendrá derecho, por sí o por representante, a utilizar los medios de impugnación y a formular conclusiones, exclusivamente en lo que se relacione con la reparación del daño y las medidas precautorias conducentes a asegurarla.
+Igualmente, podrán apelar de los autos que decreten el sobreseimiento, en los términos de la fracción II del artículo 359 y, cuando se hayan constituido como coadyuvantes del Ministerio Público, tendrán derecho, por sí o por representante, a ser notificados de las resoluciones apelables, a utilizar los medios de impugnación y a formular conclusiones, que se relacionen con la integración del delito, la responsabilidad del inculpado, la reparación del daño y las medidas precautorias conducentes a asegurarla, así como a impugnar las conclusiones no acusatorias ratificadas por el Procurador General de Justicia y el desistimiento de la acción penal.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 36.
 
-Sin perjuicio de la designación de representante que haga el ofendido y su apersonamiento legal como coadyuvante, el Ministerio Público le proporcionará en todo momento, la asesoría jurídica que requiera en relación con el delito de que haya sido víctima.
+Sin perjuicio de la designación de representante que hagan la víctima o el ofendido y su apersonamiento legal como coadyuvante, el Ministerio Público les proporcionará en todo momento la asesoría jurídica que requieran en relación con el delito de que hayan sido víctimas.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+Así mismo, cuando se trate de las víctimas del delito especial contemplado por el artículo 50 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar, el Ministerio Público los canalizará a instituciones oficiales especializadas para que reciban atención terapéutica.
 
-Así mismo, cuando se trate de las víctimas del delito especial contemplado por el artículo 50 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar, el Ministerio Público los canalizará para que reciban atención terapéutica especializada.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 37.
 
-Cuando un menor de edad sea víctima de un delito, la autoridad aplicará las normas consignadas en este Código, procurando siempre que no sea objeto de trato inadecuado que pueda resultar perjudicial a su recuperación o sano desarrollo Psicosomático. Para tal efecto desde la primera diligencia en que intervenga se designará personal capacitado para su atención y a un acompañante, profesional en Psiquiatría, Psicología o trabajo social, que deberá asistirlo en todas las diligencias en que participe, el que mantendrá comunicación permanente con la autoridad responsable de ella con el fin de que el objetivo antes indicado se cumpla, actuando, de estimarse pertinente como intermediario para que no se establezca debate directo entre el menor y el imputado. Esta disposición se aplicará en lo conducente cuando el ofendido sea mayor de edad con discapacidad mental.
+Cuando un menor de edad sea víctima de un delito, la autoridad aplicará las normas consignadas en este Código, procurando siempre que no sea objeto de trato inadecuado, que pueda resultar perjudicial a su recuperación o sano desarrollo Psicosomático. Para tal efecto desde la primera diligencia en que intervenga se designará personal capacitado para su atención y a un acompañante profesional en Psiquiatría, Psicología o trabajo social, que deberá asistirlo en todas las diligencias en que participe, el que mantendrá comunicación permanente con la autoridad responsable de ella con el fin de que el objetivo antes indicado se cumpla, actuando, de estimarse pertinente como intermediario para que no se establezca debate directo entre el menor y el imputado. Esta disposición se aplicará en lo conducente cuando la víctima sea mayor de edad con discapacidad mental.
 
-Las diligencias practicadas en contra de lo dispuesto en éste artículo serán nulas.
+Las diligencias practicadas en contra de lo dispuesto en este artículo y el siguiente, serán nulas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+ARTICULO 37 BIS. Las víctimas de secuestro o delitos de naturaleza sexual podrán ser asistidas por un acompañante, profesional en Psiquiatría, Psicología o trabajo Social en todas las diligencias en que participe, si así lo solicita.
 
 ###### ARTICULO 38.
 
@@ -459,7 +493,9 @@ Si se pierde algún expediente, se repondrá a costa del responsable, quien esta
 
 Cuando alguna de las personas que participen en la diligencia presenten sordera o mudez, se le nombrará como interprete a una persona que pueda comprenderlo, de preferencia mayor de edad. Si aquéllos saben leer y escribir, se les interrogará por escrito.
 
-Las partes o los que intervengan en la diligencia no podrán ser intérpretes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Las partes o los que intervengan en la diligencia no podrán ser interpretes. El incumplimiento de estas formalidades harán nulas las diligencias respectivas.
 
 ###### ARTICULO 55.
 
@@ -467,7 +503,9 @@ Cuando alguna de las personas que participen en la diligencia no hable o no enti
 
 Cuando se solicite, podrá escribirse la declaración en el idioma del declarante, sin que obste para que el intérprete haga la traducción.
 
-Las partes o los que intervengan en la diligencia no podrán ser traductores.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Las partes o los que intervengan en la diligencia no podrán ser traductores. El incumplimiento de estas formalidades harán nulas las diligencias respectivas.
 
 ###### ARTICULO 56.
 
@@ -729,9 +767,11 @@ En los casos de las fracciones III y IV, se procederá conforme lo disponen los 
 
 La falta de acompañante o traductor hace nulas las diligencias respectivas.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 96.
 
-En los casos en que se trate de un delito de naturaleza sexual, contra la moral o cuando ésta sea atacada, la audiencia tendrá lugar a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervengan oficialmente en ella.
+En los casos en que se trate de un delito de naturaleza sexual, contra la moral o cuando ésta sea atacada, así como en el caso del delito de secuestro, la audiencia tendrá lugar a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervengan oficialmente en ella. Si la víctima o su representante lo solicitan, la audiencia podrá celebrarse de conformidad con lo previsto por el artículo 219 de este Código.
 
 ###### ARTICULO 97.
 
@@ -1155,21 +1195,21 @@ Si se trata de inmuebles, la medida se concretará a solicitar del Registro Púb
 
 La medida se dejará sin efectos si durante el lapso mencionado se paga o garantiza de otra forma legal, la reparación del daño.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2007)</small>
 
-### CAPITULO VI. RESTITUCION AL OFENDIDO EN SUS DERECHOS Y PROTECCION DE SU INTEGRIDAD
+### CAPITULO VI. RESTITUCION A LA VICTIMA Y AL OFENDIDO EN SUS DERECHOS Y PROTECCION DE SU INTEGRIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 158.
 
-Una vez que se acredite el cuerpo del delito, el ofendido podrá solicitar al Ministerio Público, durante el periodo de preparación de la acción procesal penal o al juzgador en el proceso, que dicte las providencias necesarias par asegurar sus derechos o restituirlo en el goce de estos, siempre que estén legalmente justificados.
+Una vez que se acredite el cuerpo del delito, el Ministerio Público durante el periodo de preparación de la acción procesal penal o el juzgador en el proceso, de oficio o a petición de parte, dictarán las medidas y providencias necesarias para proteger la vida, la integridad física y moral, los bienes posesiones o derechos de las victimas y ofendidos, incluyendo los familiares directos y de los testigos que declaren en su favor, contra todo acto de intimidación o represalia, o bien cuando existan datos suficientes que demuestran que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados. También dictarán las providencias que se requieran para restituir a las victimas u ofendidos en el goce de sus derechos, siempre que estén justificados legalmente.
 
 El Ministerio público, durante la averiguación previa y cuando se trate de bienes inmuebles sólo podrá asegurarlos por el tiempo indicado en el párrafo primero y en la forma prevista en el párrafo segundo del artículo 157.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
-En los delitos en que esté en peligro la integridad de las personas, el Ministerio Público durante la averiguación podrá ordenar al indiciado la restricción o acercamiento con el ofendido. En caso de determinarse esta medida, el Juez al dictar los autos que señalan los artículos 302 y 303 de éste Código, resolverá sobre la subsistencia de la medida.
+En los delitos en que esté en peligro la integridad de las personas, el Ministerio Público durante la averiguación podrá ordenar al indiciado la restricción de ir a lugar determinado o acercamiento a la víctima o el ofendido. En caso de determinarse esta medida, el Juez al dictar los autos que señalan los artículos 302 y 303 de éste Código, resolverá sobre la subsistencia de la misma.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1263,11 +1303,9 @@ El Ministerio Público o el Juez podrán disponer que los interrogatorios se hag
 
 ### CAPITULO III. INSPECCION Y RECONSTRUCCION DE HECHOS
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
-###### ARTICULO 169.
-
-Será materia de la inspección todo aquello que pueda ser directamente apreciado por la autoridad que conozca del asunto. La inspección debe ser practicada invariablemente, bajo pena de nulidad, con la asistencia del Ministerio Público o del Juzgador, según se trate de las diligencias de preparación de la acción procesal penal o del procedimiento ante el Organo Jurisdiccional.
+ARTICULO 169 Será materia de la inspección todo aquello que pueda ser directamente apreciado por la autoridad que conozca del asunto. La inspección debe ser practicada invariablemente, bajo pena de nulidad, con la asistencia del Ministerio Público o del Juzgador, según se trate de las diligencias de preparación de la acción procesal penal o del procedimiento ante el Órgano Jurisdiccional. La autoridad verificará que todas las personas que intervengan en el desahogo de la diligencia se abstengan de realizar conductas que provoquen daño psicológico o moral a la víctima.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1593,9 +1631,11 @@ IV.- Si después de los hechos la ha vuelto a ver y en que circunstancias.
 
 Después del interrogatorio anterior, se pondrá a la vista del declarante junto con otras personas de apariencia semejante, a la que deba ser confrontada, quien escogerá el lugar en que desea ser colocada con relación a la fila que formará con las que la acompañen. En presencia de ellas, el declarante manifestará si en la fila se encuentra la persona a que haya hecho referencia, y, en caso afirmativo, la señalará en forma clara y precisa, manifestando las semejanzas y diferencias que advierta entre el aspecto actual y el que presentaba en el momento de los hechos. La confrontación practicada en contra de las prevenciones indicadas en la primera parte de este artículo, será nula.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 219.
 
-Para identificar al probable responsable del delito de violación, a petición de la víctima o su representante legal, la confrontación podrá efectuarse en un lugar y medio donde no pueda ser vista por aquél, pero deberán observarse las demás prevenciones legales.
+Para identificar al probable responsable, cuando se trate de delitos de naturaleza sexual o graves calificados por el Código Penal, a petición de la víctima o su representante legal, la confrontación podrá efectuarse en un lugar y medio donde no pueda ser vista por aquél, pero deberán observarse las demás prevenciones legales, evitándose en todo momento que se cause daño psicológico o moral a la víctima.
 
 Igual procedimiento se utilizará tratándose de otros delitos y además respecto a testigos que comparezcan para identificar a los imputados, si el Ministerio Público o el Juez lo consideran pertinente.
 
@@ -1624,6 +1664,10 @@ El careo se practicará dando lectura a las declaraciones que se reputen contrad
 Cuando no sea posible hacer comparecer alguno de los que deban ser careados o resida fuera del Estado, se practicará el careo supletorio, leyéndose al presente la declaración del ausente y haciéndole notar las contradicciones que entre ambas existan, para que efectúe las aclaraciones necesarias.
 
 Si los que deban ser careados radican fuera del Estado, pero en el mismo lugar, se librará el exhorto correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+ARTICULO 223 BIS. Cuando se trate de delito grave en el que haya ocurrido violencia física, delitos de naturaleza sexual, aquellos en los cuales un menor aparezca como víctima o testigo, a petición de la víctima, del testigo o del representante legal del menor o del Ministerio Público, el careo se llevará acabo en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el procesado pueda cuestionar a la víctima o los testigos durante la audiencia sin confrontarlos físicamente.
 
 ### CAPITULO VIII. DOCUMENTOS
 
@@ -1759,7 +1803,17 @@ Si el posible delito es de los que necesitan de querella u otro requisito de pro
 
 La información de la comisión de hechos posiblemente delictuosos puede formularse verbalmente o por escrito.
 
-En el primer caso, se hará constar en acta que levantará el Ministerio Público que la reciba. En el segundo, deberá contener la firma o huella digital de quien la presente y su domicilio y ser ratificada en diligencia especial en la que podrán ampliarse los datos proporcionados. En ambos casos se concretarán a describir los hechos supuestamente delictivos, sin la obligación de calificarlos jurídicamente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+En el primer caso, se hará constar en acta que levantará el Ministerio Público que la reciba. En el segundo, deberá contener la firma o huella digital de quien la presente y su domicilio y ser ratificada en diligencia especial en la que podrán ampliarse los datos proporcionados. En ambos casos se concretarán a describir los hechos supuestamente delictivos, sin la obligación de calificarlos jurídicamente, asegurándose que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivo de la denuncia o querella y las circunstancias de tiempo, lugar y modo en que ocurrieron.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
+
+En caso de que peligre la vida o la seguridad del denunciante o allegados, se reservará adecuadamente su identidad y los datos que permitan su localización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
+
+El Ministerio Público deberá también guardar confidencialidad respecto de los datos que permitan la localización de la víctima u ofendido por parte del probable responsable del delito u otros datos que afecten la reputación, el honor y el buen nombre de la víctima.
 
 El Ministerio Público está obligado a informar al denunciante o querellante, dejando constancia en el acta correspondiente, sobre la posible trascendencia jurídica del acto que realiza y las penas en que incurren los que declaran falsamente ante las autoridades.
 
@@ -1771,13 +1825,15 @@ Es necesaria la querella del ofendido solamente en los casos en que lo determine
 
 Se reputará parte ofendida para tener por satisfecho el requisito de la querella, a toda persona que haya sufrido algún perjuicio con motivo del delito.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 245.
 
-Cuando el ofendido sea menor de edad o mayor con discapacidad mental, pueden querellarse quienes ejerzan la patria potestad o la tutela. A falta de éstos podrá hacerlo una institución oficial de asistencia social.
-
-Quien presente la querella estará legitimado para otorgar el perdón.
+Cuando el ofendido sea menor de edad o mayor con discapacidad mental pueden querellarse quienes ejerzan la patria potestad o la tutela. A falta de éstos podrá hacerlo una institución oficial de asistencia social.
 
 Si surge discrepancia en quienes ejerzan la patria potestad, respecto de la presentación de la querella o el otorgamiento del perdón, el Ministerio Público, tomando la opinión del profesionista a que se refiere el artículo 37 resolverá lo conducente. Si el caso se encuentra ya ante el órgano jurisdiccional tratándose del perdón, se solicitará además la opinión del Ministerio Público.
+
+La víctima y su representante deben ser informados por el Ministerio Público o la autoridad jurisdiccional del significado y trascendencia jurídica del otorgamiento del perdón.
 
 ###### ARTICULO 246.
 
@@ -2253,7 +2309,9 @@ Transcurrido el plazo señalado para el desahogo de los medios de prueba solicit
 
 Cerrada la instrucción, el Juzgador mandará poner la causa a la vista del Ministerio Público, para que formule conclusiones por escrito, dentro del plazo de cinco días. Si el expediente excede de cien fojas, por cada cincuenta de exceso o fracción se agregará un día más, al plazo señalado, que en ningún caso será mayor de quince días.
 
-Si el ofendido o sus legítimos representantes, en los términos del artículo 35 de este Código, desean formular conclusiones, lo harán dentro del mismo plazo concedido al Ministerio Público.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Las conclusiones del Ministerio Público se notificarán a la víctima u ofendido o a su representante, para que si lo desean, dentro de igual término del concedido al Ministerio Público formule sus conclusiones.
 
 Si dentro del plazo señalado el Ministerio Público no presenta sus conclusiones, se comunicará la omisión al Procurador General de Justicia en el Estado, mediante notificación personal, para que dentro del plazo de cinco días formule u ordene que se formulen dichas conclusiones.
 
@@ -2285,9 +2343,11 @@ Para los efectos del artículo anterior, el Procurador General de Justicia dentr
 
 Si las conclusiones acusatorias definitivas establecen una situación jurídica favorable al imputado, que el juzgador no pueda ya rebasar en su sentencia, las consecuencias legales de dicha situación beneficiarán de inmediato al imputado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 324.
 
-Si el pedimento del Procurador General de Justicia, es de no acusación, el juez, al recibir aquél, dictará auto de sobreseimiento.
+Si el pedimento del Procurador General de Justicia, es de no acusación, el juez al recibir aquél, dictará auto de sobreseimiento, el cual podrá ser impugnado por la víctima, el ofendido o su representante.
 
 ###### ARTICULO 325.
 
@@ -2905,7 +2965,9 @@ Cuando alguno de los procesos ya no se encuentre en el estado de instrucción, p
 
 Si los procesos se siguen ante el mismo Juez, la acumulación podrá decretarse de oficio, sin substanciación alguna.
 
-Si la promueve alguna de las partes, el Juzgador dará vista a la otra por el plazo de tres días y, sin más trámite, resolverá dentro de idéntico plazo, procediéndose luego, en lo conducente, de acuerdo con lo que se previene en el incidente de competencia por inhibitoria.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Si la promueve el Ministerio Público, la víctima o su representante, el Juzgador dará vista a la otra parte por el plazo de tres días y, sin más trámite, resolverá dentro de idéntico plazo, pero si lo promueve el acusado, se resolverá sin mayor trámite. Luego se procederá en lo conducente, de acuerdo con lo que se previene para el incidente de competencia por inhibitoria.
 
 ###### ARTICULO 416.
 
@@ -2916,6 +2978,8 @@ La acumulación deberá promoverse ante el juzgador que, conforme al artículo 1
 Las disposiciones de este Capítulo serán aplicables desde la etapa de preparación del proceso, siempre y cuando no haya detenido.
 
 ### CAPITULO V. REPARACION DEL DAÑO EXIGIBLE A TERCEROS
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 418.
 
@@ -2935,13 +2999,15 @@ El juzgador que ordene la separación de procesos, conservará su competencia so
 
 ###### ARTICULO 421.
 
-El Juez que conozca del proceso penal es competente para conocer de la pretensión civil de reparación del daño que ejercite el ofendido o sus causahabientes, en contra de los terceros obligados a que se refiere el artículo 38 del Código Penal para el Estado.
+El Juez que conozca del proceso penal es competente para conocer de la pretensión civil de reparación del daño que ejercite la víctima, el ofendido o sus causahabientes, en contra de los terceros obligados a que se refiere el artículo 38 del Código Penal para el Estado.
 
 ###### ARTICULO 422.
 
 El incidente de reparación del daño exigible a terceros podrá promoverse desde que se dicte auto de procesamiento hasta antes de que se declare cerrada la instrucción, observándose en su caso lo dispuesto por el artículo 156 de éste Código.
 
-Cuando, promovido el incidente, concluya el proceso sin que aquél se encuentre en estado de sentencia, el Juzgador dictará la que corresponda al proceso penal, y posteriormente continuará conociendo del incidente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Cuando, promovido el incidente, concluya el proceso sin que aquél se encuentre en estado de sentencia, el Juzgador dictará la que corresponda al proceso penal, y posteriormente continuará conociendo del incidente, siempre y cuando aquélla sea condenatoria, En caso contrario el incidente se sobreseerá.
 
 ###### ARTICULO 423.
 
@@ -2963,23 +3029,29 @@ En el incidente de reparación del daño exigible a terceros podrán oponerse, l
 
 Este incidente se tramitará por cuerda separada y las notificaciones se harán conforme a las disposiciones de este Código.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 428.
 
-El promovente podrá solicitar el embargo precautorio de bienes del tercero, si no existe garantía constituida previamente.
+El promovente podrá solicitar el embargo precautorio de bienes del tercero, si no existe garantía constituida previamente o ésta resulta insuficiente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 429.
 
-Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar a su pago y la liquidación y ejecución se promoverán en la vía correspondiente, conforme al Código de Procedimientos Civiles para el Estado.
+Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar a su pago y la liquidación se promoverá conforme a lo previsto en el Código de Procedimientos Civiles para el Estado.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 430.
 
-Si se condena al pago de la reparación del daño, por cantidad líquida, y existe depósito constituido o bienes embargados precautoriamente para dicho objeto, la ejecución se llevará a cabo en los términos que disponen los artículos 447 y 448.
+Cuando la parte interesada en la responsabilidad civil no promoviere el incidente a que se refiere este capítulo, después de fallado el proceso respectivo, podrá exigirla por demanda que interponga en la forma y términos que determine el Código de Procedimientos Civiles vigente en el Estado, según la cuantía del negocio, ante los tribunales del mismo orden.
 
-En los demás casos la ejecución se ajustará a lo previsto en el artículo anterior.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 431.
 
-No procederá el incidente de reparación del daño exigible a terceros, cuando el ofendido o sus causahabientes hayan deducido acción, basada en los mismos hechos o circunstancias, ante Juez Civil, ni cuando la reparación del daño haya sido pagada.
+No procederá el incidente de reparación del daño exigible a terceros, cuando el ofendido o sus causahabientes hayan deducido acción basada en los mismos hechos o circunstancias, ante juez civil y haya prosperado, ni cuando la reparación del daño haya sido pagada.
 
 ###### ARTICULO 432.
 
@@ -3065,29 +3137,37 @@ El Juez o tribunal estará obligado a tomar de oficio todas las providencias con
 
 Recibida por el Ejecutivo del Estado la copia de la sentencia y puesto a su disposición el sentenciado, destinará a éste al lugar en que deba extinguir la sanción privativa de libertad o aplicarse la medida de seguridad impuesta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 447.
 
-Si al causar ejecutoria una sentencia o la resolución en el incidente contra terceros, que condene al pago de la reparación del daño, por cantidad líquida, y existe depósito constituido para ese fin, se aplicará de inmediato a su objeto.
+Corresponde al juez del proceso dictar las medidas y providencias necesarias para ejecutar la sentencia de primera instancia o la resolución dictada en el incidente contra terceros que condenen al pago de la reparación del daño.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
+
+Si al causar ejecutoria una sentencia o la resolución en el incidente contra terceros que condene al pago de la reparación del daño, por cantidad líquida, y existe depósito constituido para ese fin, se aplicará de inmediato y sin más trámite a su objeto.
 
 En todo caso, al cubrirse la reparación del daño se tendrá en cuenta lo previsto en los artículos 41, párrafo tercero, y 42 del Código Penal del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 448.
 
-Si transcurridos quince días de la fecha en que cause ejecutoria una sentencia o la resolución en el incidente contra terceros que condene al pago de la reparación del daño, por cantidad líquida, dicha reparación no ha sido cubierta, se procederá a la venta en pública subasta del vehículo o bienes embargados precautoriamente, para que con su producto se haga el pago de la reparación, entregándose al propietario o propietarios el remanente si lo hay.
+Si han transcurrido tres días desde la fecha en que causó ejecutoria una sentencia o la resolución en el incidente contra terceros que condene al pago de la reparación del daño por cantidad líquida y ésta no ha sido cubierta, se mandará hacer efectiva en la misma forma que la multa. Para ese efecto, una vez que la sentencia que imponga tal reparación cause ejecutoria, el tribunal que la haya pronunciado reemitirá (sic) de inmediato copia certificada de ella a la autoridad administrativa competente, poniendo, en su caso, a disposición de la misma los bienes embargados o la garantía constituida.
 
-En la subasta se observarán en lo conducente las disposiciones del Código de Procedimientos Civiles para el Estado.
+Dentro de los tres días siguientes a la recepción de dicha copia se iniciará el procedimiento económico-coactivo, notificando de ello a la persona en cuyo favor se haya decretado, o a su representante legal. Efectuado el pago, en todo o en parte o agotado el procedimiento administrativo de ejecución sin haberlo obtenido, la autoridad fiscal, dentro de un término de tres días, lo comunicará al órgano jurisdiccional, poniendo, en su caso, a disposición del ofendido la cantidad obtenida, por conducto del mismo juez.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 449.
 
-Cuando la reparación del daño no haya sido cuantificada, para su liquidación y ejecución, se observará lo previsto por el artículo 429 de este Código, y si existen bienes embargados precautoriamente u otra garantía para dicho fin, el interesado deberá promover lo conducente dentro de los treinta días siguientes a la fecha en que se le notifique la ejecutoria del fallo que condene a dicha reparación, debiendo la autoridad penal poner a disposición de la civil, para los efectos legales procedentes, los bienes embargados o garantía constituida.
+Cuando la reparación del daño no haya sido cuantificada, para su liquidación y ejecución, se observará lo previsto por el artículo 429 de este Código. En caso de que existan bienes embargados precautoriamente u otra garantía para dicho fin, el interesado deberá promover lo conducente dentro de los treinta días siguientes a la fecha en que se le notifique la ejecutoria del fallo que condene a dicha reparación, si después de transcurrido ese plazo, el interesado no ha procedido a la liquidación de la sentencia, se levantará el embargo, se envolverá (sic) el depósito o se cancelará la garantía correspondiente.
 
-Si después de quince días siguientes al plazo antes citado, no se recibe la solicitud respectiva de la autoridad civil, sin perjuicio de las medidas procedentes por dicha vía, se levantará el embargo, se devolverá el depósito o se cancelará la garantía correspondiente.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 450.
 
-Cuando la condena al pago de la reparación del daño sea por cantidad líquida, pero no exista depósito o bienes embargados precautoriamente para dicho fin, la ejecución se promoverá por la vía civil.
-
-Si existe constituida garantía distinta, se estará a lo previsto en el artículo anterior.
+Una vez que la sentencia o la resolución del incidente contra terceros que condene al pago de la reparación del daño haya sido liquidada, se promoverá su ejecución, de acuerdo con lo previsto en el artículo 448 de este Código.
 
 ## TRANSITORIOS
 
@@ -3136,5 +3216,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 P.O. 26 DE NOVIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
