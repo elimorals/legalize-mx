@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "1984-12-08"
+last_updated: "2007-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -603,13 +603,15 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se sujetará a lo que prevenga la Legislación Penal.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 74.
 
-Las facultades del superior jerárquico y de la Contraloría para imponer las sanciones que esta Ley preveé se sujetarán a lo siguiente:
+Las facultades del superior jerárquico, de la Contraloría y, en su caso, del Congreso del Estado para imponer las sanciones que esta Ley prevee (sic), se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no exceda de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiere incurrido en la responsabilidad o a partir del momento en que se hubiese cesado, si fue de carácter continuo; y
+I.- Prescriben en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable el (sic) dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que hubiera incurrido o a partir del momento en que se hubiese cesado, si fue de carácter continuo; o desde el momento en que tenga conocimiento; y
 
-III (SIC).- En los demás casos prescribirán en un año.
+II.- En los demás casos prescribirán en tres años.
 
 ## TITULO CUARTO.
 
@@ -724,3 +726,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Palacio de Gobierno, Colima, Colima, a 27 de noviembre de 1984.
 
 La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
