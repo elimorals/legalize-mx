@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2006-10-30"
+last_updated: "2007-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -187,7 +187,9 @@ II.- Elegir y ser electos para integrar los diversos órganos del Congreso;
 
 III.- Formar parte de un grupo parlamentario;
 
-IV.- Participar con voz y voto en las sesiones del Congreso;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+IV.- Participar con voz y voto en las sesiones del Congreso, con excepción de aquéllas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero no con voto;
 
 V.- Ser integrante de comisiones del Congreso;
 
@@ -441,6 +443,10 @@ El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reele
 
 El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
+
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 40.
@@ -505,9 +511,19 @@ XXI.- Firmar, junto con los Secretarios, la remisión al Titular del Poder Ejecu
 
 XXII.- Llevar la representación del Congreso en ceremonias y, en general, en todos los actos públicos. Designar comisiones de entre los Diputados para ostentar la representación del Congreso en los actos a los que él no pudiera concurrir;
 
-XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiempos reglamentarios; y
+XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiempos reglamentarios; y (sic)
 
-XXIV.- Las demás que se deriven de la Constitución, esta Ley, su Reglamento o de las disposiciones o acuerdos que emita el Congreso.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+XXIV.- Exhortar a los Diputados que falten a sesiones, para que concurran a las siguientes;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+XXV.- Proponer la modificación del orden del día, cuando se trate de casos de obvia y urgente resolución en los que el Congreso del Estado tenga que tomar una determinación, debiendo ser aprobado por la Asamblea; y
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+XXVI.- Las demás que se deriven de la Constitución, esta Ley, su Reglamento o los Acuerdos que emita el Congreso.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -533,7 +549,9 @@ I.- Auxiliar al Presidente para el buen desempeño de sus funciones;
 
 II.- Vigilar la preparación y el orden de los asuntos en cartera con que se dará cuenta al Congreso;
 
-III.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día, dar lectura al acta de la sesión anterior así como a la síntesis de comunicaciones;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+III.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día y cuidar que el acta de la sesión anterior y la síntesis de comunicaciones de cada sesión, sean distribuidas a los Diputados previamente a la sesión en que deban darse lectura, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
 
 IV.- Dar lectura a las iniciativas de ley o decreto que no sean iniciadas por los diputados;
 
@@ -559,9 +577,11 @@ XIII.- Turnar, una vez aprobado, el proyecto anual de presupuesto de egresos del
 
 XIV.- Las demás que se deriven de esta ley, el Reglamento o de las disposiciones o acuerdos que emita el Congreso.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 46.
 
-Los Secretarios gozan de fe pública en todo lo relativo al ejercicio de sus funciones y con motivo de ellas.
+Los Secretarios gozan de fe pública en todo lo relativo al ejercicio de sus funciones y con motivo de ellas, por lo tanto están obligados a cumplir con sus atribuciones de manera conjunta o indistintamente y no podrán por ningún motivo infringir con lo establecido en las fracciones IX y X del artículo anterior.
 
 ### CAPITULO V
 
@@ -761,9 +781,9 @@ Las comisiones serán electas por mayoría simple y estarán integradas por tres
 
 En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre los grupos parlamentarios en proporción al número de Diputados que los integran en relación con el total de los que conforman al Congreso.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
-La Comisión de Responsabilidades se integrará por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
+Las Comisiones de Responsabilidades y de Hacienda y Presupuesto, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -885,9 +905,13 @@ Durante los períodos ordinarios, el Congreso celebrará sesiones cuantas veces 
 
 En las sesiones, los Diputados ocuparán las curules sin preferencia alguna en el Recinto Parlamentario, excepto en el presidium, donde se instalará la Directiva.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 75.
 
-Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas.
+Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y del Presidente de la Mesa Directiva o de la Comisión Permanente.
+
+El acta de la sesión con la que se clausura un período ordinario, las funciones de la Comisión Permanente y las de cada una de las sesiones extraordinarias deberán ser discutidas y aprobadas en la misma sesión.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -934,6 +958,34 @@ f).- Ocurran en visita delegaciones parlamentarias del Congreso de la Unión, de
 g).- Rindan protesta los Magistrados Presidentes y Consejeros de los Tribunales Administrativos, Electorales y los Consejeros del Instituto Electoral del Estado y de la Comisión de Derechos Humanos del Estado, de acuerdo con las leyes respectivas; y
 
 h).- Se imponga alguna presea o reconocimiento instituidos por el Congreso.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+###### ARTICULO 79 Bis.
+
+Las sesiones solemnes deberán desarrollarse bajo el siguiente orden del día:
+
+I.- Lista de asistencia;
+
+II.- Declaración en su caso de quórum legal e instalación de la Asamblea;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+
+III.- Elección de la Mesa Directiva únicamente en los casos señalados en el artículo 107 de esta Ley;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+
+IV.- Desarrollo del asunto que dio origen a la sesión;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+
+V.- Convocatoria a sesión ordinaria; y
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+
+VI.- Clausura.
+
+El acta que se levante con motivo de una sesión solemne, sin sujetarse al trámite de discusión y aprobación, deberá mandarse publicar en los términos que sea redactada y aprobada por la Directiva o la Comisión Permanente.
 
 ###### ARTICULO 80.
 
@@ -1159,11 +1211,11 @@ La Comisión Permanente por conducto de su Presidente tendrá la representación
 
 Cuando el Congreso sea convocado a sesión o período extraordinario, al inicio de aquella o en la primera de este, la Asamblea elegirá una Mesa Directiva para desahogar los asuntos por los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un período ordinario. La Comisión Permanente continuará en funciones, una vez que concluya la sesión o período extraordinario.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 108.
 
-La Comisión Permanente sesionará por lo menos una vez a la semana.
+La Comisión Permanente sesionará por lo menos una vez por semana, pudiendo diferirlas previo acuerdo de la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Comisión Permanente. Para que puedan instalarse validamente las sesiones de la Comisión Permanente, se requiere la asistencia de la mayoría de los integrantes.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1248,3 +1300,7 @@ P.O. 31 DE AGOSTO DE 2005.
 P.O. 30 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
