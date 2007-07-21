@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2006-10-30"
+last_updated: "2007-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -167,6 +167,10 @@ Se justificará la ausencia de un Diputado cuando previamente a la sesión a la 
 
 En todo caso, el nombre de los Diputados que no concurran a las sesiones, se hará constar en el acta respectiva, en la que se expresará si existe o no justificación. Si faltaren sin causa justificada, no tendrán derecho a recibir la remuneración correspondiente a las sesiones a que falten.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Los Diputados participarán con voz y voto en las sesiones del Congreso, con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participaran únicamente con voz pero no con voto.
+
 ### CAPITULO III. DE LA SUSPENSION Y PERDIDA DEL CARACTER DE DIPUTADO
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
@@ -261,11 +265,15 @@ i).- Si los Diputados pertenecientes a los partidos que ocuparon el segundo y te
 
 Cuando varios partidos hayan obtenido igual número de curules, escogerá primero el que obtuvo el mayor número de votos en la elección de Diputados de Mayoría.
 
-j).- Electa la Directiva Provisional o conformada como lo señala el segundo párrafo del inciso c) del artículo 29 de la Ley, el Presidente de la Comisión Instaladora hará la declaratoria e invitará al Presidente y a los Secretarios a que pasen a tomar sus lugares decretándose entre tanto, un receso;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
-k) Reanudada la sesión, la Comisión Instaladora por conducto de su Presidente, hará entrega al Presidente de la Directiva Provisional, de la documentación a que se refiere el inciso b) del artículo anterior y dará por concluidas sus funciones; y
+j).- Electa la Directiva Provisional o conformada como lo señala el segundo párrafo del inciso c) del artículo 29 de la Ley, el Presidente de la Comisión Instaladora hará la declaratoria e invitará al Presidente y a los Secretarios a que pasen a tomar sus lugares y antes de retirarse, hará entrega al Presidente de la Directiva Provisional, de la documentación a que se refiere el inciso b) del artículo anterior y posteriormente, dará por concluidas sus funciones; y
 
-l).- El Presidente de la Directiva Provisional nombrará dos comisiones de cortesía, integradas por tres Diputados cada una, que serán las encargadas de recibir e introducir al Recinto Parlamentario, al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, respectivamente, en la sesión solemne de instalación de la nueva Legislatura.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+k).- El Presidente de la Directiva Provisional nombrará dos comisiones de cortesía, integradas por tres Diputados cada una, que serán las encargadas de recibir e introducir al Recinto Parlamentario al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia, respectivamente, en la sesión solemne de instalación de la nueva Legislatura.
+
+l).- (DEROGADO, P.O. 21 DE JULIO DE 2007)
 
 ###### Artículo 24.
 
@@ -331,9 +339,11 @@ Se elegirán un Presidente y un Vicepresidente para el periodo comprendido del 1
 
 Los Secretarios y el Suplente durarán en su cargo todo el período de sesiones para el que fueron electos.
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007) (F. DE E., P.O. 7 DE MARZO DE 2009)
+
 ###### Artículo 29.
 
-Las funciones del Vicepresidente serán las de suplir al Presidente en sus ausencias y cuando éste desee tomar parte en las discusiones, únicamente el tiempo necesario para las deliberaciones sobre un asunto en particular.
+Las funciones del Vicepresidente serán las de suplir al Presidente en sus ausencias o cuando debiera abandonar el Recinto, en cuyo caso, estará facultado a firmar las resoluciones que expida el Congreso, así como la correspondencia que lo requiera y que tengan el carácter de urgentes. Cuando el Presidente desee tomar parte en las discusiones será suplido por el Vicepresidente únicamente el tiempo necesario para las deliberaciones sobre el asunto en particular.
 
 En caso de ausencia de uno de los Secretarios a una sesión, entrará en su lugar el Suplente y en ausencia también de éste, la Asamblea, designará de entre los Diputados presentes, a quien deba desempeñar esa función, durante el desarrollo de la misma.
 
@@ -371,9 +381,15 @@ V.- Exhortar a las comisiones para que presenten sus dictámenes en los tiempos 
 
 VI.- Rendir los informes previo y justificado, en los Juicios de Amparo, en los que el Congreso sea señalado como autoridad responsable;
 
-VII.- Ordenar a la Secretaría, que dé aviso a los Titulares de los Poderes Ejecutivo y Judicial y a los Ayuntamientos, en su caso, de manera oportuna y por escrito, del día en que se someterá a discusión de la Asamblea, algún asunto o iniciativa de su interés, para los efectos legales conducentes; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
-VIII.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
+VII.- Ordenar a la Secretaría, que dé aviso a los Titulares de los Poderes Ejecutivo y Judicial y a los Ayuntamientos, en su caso, de manera oportuna y por escrito, del día en que se someterá a discusión de la Asamblea, algún asunto o iniciativa de su interés, para los efectos legales conducentes;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+VIII.- Poner a la consideración de los Diputados el acta de la sesión anterior y en su oportunidad someterla a su aprobación. Cuando el acta y la síntesis de comunicaciones hayan sido distribuidas previamente a los Diputados, podrá solicitarse a la Asamblea en votación económica la dispensa (sic) la lectura de ambos documentos; y
+
+IX.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
 
 ###### Artículo 35.
 
@@ -387,7 +403,9 @@ Cuando se materialice la hipótesis prevista por el artículo 43 de la Ley, un D
 
 Además de las facultades y atribuciones que el artículo 45 de la Ley le confiera a los Secretarios, tendrán las siguientes:
 
-I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día, dar lectura al acta de la sesión anterior así como la síntesis de comunicaciones de cada sesión;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+I.- Pasar lista de asistencia, verificar la existencia del quórum, dar a conocer el orden del día y cuidar que el acta de la sesión anterior así como la síntesis de comunicaciones de cada sesión, sean distribuidas a los Diputados previamente a la sesión en que deberán darse lectura, con el objeto de que pueda solicitarse la dispensa de lectura de dichos documentos;
 
 II.- Cuidar que se redacten las actas de las sesiones en forma fidedigna, firmarlas después de aprobadas y asentarlas en el libro respectivo;
 
@@ -395,9 +413,15 @@ III.- Turnar, conjuntamente con el Presidente, una vez aprobado, el proyecto anu
 
 IV.- Vigilar que la Oficialía Mayor del Congreso, a través de la dependencia correspondiente, lleve debidamente los libros de Iniciativas, de Leyes y Decretos, Acuerdos y Actas de la Cámara;
 
-V.- Cuidar que los dictámenes se entreguen oportunamente a los Diputados, en los términos del artículo 135 de este Reglamento; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
-VI.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
+V.- Cuidar que los dictámenes se entreguen oportunamente a los Diputados, en los términos del artículo 135 de este Reglamento;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+VI.- Cumplir con las atribuciones establecidas en las fracciones IX y X del artículo 45 de Ley; y
+
+VII.- Las demás que determine este Reglamento o los acuerdos que internamente emita la Asamblea.
 
 ### CAPITULO VI
 
@@ -591,7 +615,9 @@ I.- Los que se refieran a reformas de la Constitución Política de los Estados 
 
 II.- Los que la Constitución Federal autorice a las Legislaturas de los Estados para legislar en su ámbito de competencia, en materias concurrentes;
 
-III.- Los que se refieran a leyes ordinarias, orgánicas o reglamentarias de artículos de la Constitución;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+III.- Los que se refieran a los Códigos Civil, Penal, de Procedimientos Civil y Penal, leyes ordinarias, orgánicas o reglamentarias de artículos de la Constitución;
 
 IV.- Los relativos a la proposición de reformas a la Ley Orgánica del Poder Legislativo y a este Reglamento; y
 
@@ -607,9 +633,9 @@ II.- Los relacionados con la expedición y reformas de las leyes de ingresos del
 
 III.- Los que se refieran a la creación de impuestos extraordinarios o especiales, estatales y municipales;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
-IV.- Los que se refieran a los casos previstos en las fracciones XI y XXXVIII, del artículo 33 de la Constitución;
+IV.- Los que se refieran a los casos previstos en las fracciones XI, XXXVIII y XL, del artículo 33 de la Constitución;
 
 V.- Dictaminar sobre convenios y contratos de crédito o aval que suscriba el Gobierno del Estado;
 
@@ -1025,21 +1051,55 @@ Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, c
 
 Corresponde a la Dirección de Proceso Legislativo:
 
-I.- Recibir del Oficial Mayor toda clase de documentos para información, archivo o trámite legislativo;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
-II.- Llevar el registro y control de expedientes, iniciativas, leyes, decretos y acuerdos que expida el Congreso;
+I.- La planeación y programación técnica de las sesiones, elaborar el protocolo y ceremonial de su desarrollo y la asistencia a la Mesa Directiva para el desarrollo de las mismas;
 
-III.- Registrar y tramitar los expedientes que deban ser sometidos al conocimiento de la Asamblea y dar seguimiento a los trámites y resoluciones que sobre ellos se tomen;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
-IV.- Proporcionar a los Diputados el apoyo que requieran para el desempeño de sus actividades legislativas;
+II.- La realización de minutas y su remisión correspondiente;
 
-V.- Preparar, con el apoyo del área de informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial "El Estado de Colima";
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
-VI.- Revisar, en coordinación con la Dirección Jurídica, los dictámenes que elaboren las comisiones, antes de su presentación a la Asamblea; y
+III.- Asistir a todas las sesiones de la Asamblea;
 
-VII.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
-El Director de Proceso Legislativo deberá ser licenciado en derecho, con una experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir con los requisitos que señala el artículo 89 de este Reglamento.
+IV.- Integrar el Proyecto de orden del día, guión y demás material propio de las sesiones;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+V.- Llevar libros de control y seguimiento que se de a las iniciativas de ley, Decreto, acuerdo, puntos de acuerdo y demás comunicaciones de la competencia del Congreso;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+VI.- Asistir al Oficial Mayor en el cumplimiento de sus funciones dentro del proceso legislativo, mediante la elaboración del Libro de Actas y Decretos;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+VII.- Enviar para su publicación en el Periódico Oficial del Estado las Actas de las sesiones;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+VIII.- Elaborar las certificaciones de documentos propios del proceso legislativo;
+
+IX.- Recibir del Oficial Mayor toda clase de documentos para información, archivo o trámite legislativo;
+
+X.- Llevar el registro y control de expedientes, iniciativas, leyes, decretos y acuerdos que expida el Congreso;
+
+IX.- Registrar y tramitar los expedientes que deban ser sometidos al conocimiento de la Asamblea y dar seguimiento a los trámites y resoluciones que sobre ellos se tomen;
+
+XII.- Proporcionar a los Diputados el apoyo que requieran para el desempeño de sus actividades legislativas;
+
+XII.- Preparar, con el apoyo del área de informática, los proyectos de leyes, decretos y acuerdos que expida el Congreso y deban ser publicados en el Periódico Oficial "El Estado de Colima";
+
+XIV.- Revisar, en coordinación con la Dirección Jurídica, los dictámenes que elaboren las comisiones, antes de su presentación a la Asamblea; y
+
+XV.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
+El titular de la Dirección de Proceso Legislativo deberá tener título de licenciado en derecho, con experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir además con los requisitos que señala el artículo 89 de este Reglamento.
 
 ### CAPITULO IX. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1085,9 +1145,27 @@ I.- Custodiar, organizar y clasificar el material documentario del archivo hist�
 
 II.- Apoyar, en materia de información y documentación histórico-legislativa, a los Diputados, grupos parlamentarios y comisiones;
 
-III.- Proporcionar servicios de consulta al público en general; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
-IV. Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
+III.- Proporcionar servicios de consulta al público en general;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+IV.- Proporcionar a la Dirección de Procesos Legislativos, en los términos que requiera, la información necesaria para el cumplimiento de sus obligaciones con los Diputados;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
+
+V.- Crear y mantener actualizado un Programa de Sistema de Información, que permita establecer una base de datos para el control de la estadística y archivo de los decretos emitidos por el Pleno en cada Legislatura, para que pueda ser útil a la labor parlamentaria.
+
+El programa deberá contener mínimo 3 vértices:
+
+1.- Por número de Decreto;
+
+2.- Por nominación de modificaciones, adiciones o derogaciones; y
+
+3.- Por descripción general del contenido.
+
+VI.- Las demás que le señalen este ordenamiento, la Asamblea, la Directiva o la Comisión de Gobierno.
 
 El Director de Servicios Documentarios deberá ser licenciado en cualquiera de las especialidades de la materia, con una experiencia profesional de por lo menos 5 años anteriores a la designación y cumplir con los requisitos que señala el artículo 89 de este Reglamento.
 
@@ -1185,13 +1263,19 @@ Serán sesiones ordinarias las que se celebren durante los períodos a que se re
 
 Sesiones extraordinarias serán las que se efectúen fuera de los períodos señalados en el párrafo anterior, serán convocadas por la Comisión Permanente, debiéndose ocupar en ellas sólo de los asuntos incluidos en la convocatoria respectiva.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Mesa Directiva o de la Comisión Permanente.
+
 ###### Artículo 110.
 
 Las sesiones del Congreso serán en general públicas, únicamente serán secretas las que se mencionan en el artículo 77 de la Ley, mismas que se sujetarán a las prescripciones y procedimientos señalados por dicho numeral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 111.
 
-Serán solemnes las sesiones a que se refiere el artículo 79 de la Ley o cualquier otra que sea destinada a tratar asuntos o acontecimientos que la Legislatura considere de especial significación y podrán concurrir a ellas como invitados de honor las personas que acuerde el Congreso.
+Serán solemnes las sesiones a que se refiere el artículo 79 de la Ley o cualquier otra que sea destinada a tratar asuntos o acontecimientos que la Legislatura considere de especial significación y se sujetarán al orden del día establecido en el artículo 79 Bis de la Ley, pudiendo concurrir a ellas como invitados de honor las personas que acuerde el Congreso.
 
 No obstante lo dispuesto en el párrafo anterior, dentro de una sesión ordinaria o extraordinaria podrá señalarse por acuerdo de la Asamblea, un espacio solemne para rendir homenaje o reconocimiento a ciudadanos distinguidos o para tratar asuntos que se consideren de merecimiento especial.
 
@@ -1221,7 +1305,9 @@ II.- Lista de asistencia;
 
 III.- Declaración, en su caso, de quedar legalmente instalada la sesión y ser válidas las resoluciones que en ella se tomen;
 
-IV.- Lectura, discusión y aprobación, en su caso, del acta de la sesión anterior;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+IV.- Discusión y aprobación en su caso, del acta de la sesión anterior, siempre y cuando haya sido distribuida previamente a los Diputados;
 
 V.- Síntesis de comunicaciones y el trámite que corresponda a cada uno de los documentos y asuntos leídos;
 
@@ -1245,9 +1331,11 @@ Si por falta de quórum no pudiere verificarse una sesión, el Presidente anunci
 
 Si durante una sesión, alguno de los Diputados reclamare el quórum, una vez comprobada la falta de éste, bastará una simple declaratoria del Presidente en ese sentido para suspenderla.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 120.
 
-Se considera ausente de una sesión al Diputado que no esté presente al pasarse lista y al que habiéndolo estado, abandone el Recinto Parlamentario sin la autorización de la Presidencia, o en el momento que hubiere una votación nominal.
+Se considera ausente de una sesión al Diputado que no esté presente al pasarse lista y al que habiéndolo estado, abandone el Recinto Parlamentario sin la autorización de la Presidencia, o en el momento que hubiere una votación nominal, en cuyo caso tendrá derecho a voz mas no a voto.
 
 ###### Artículo 121.
 
@@ -1272,6 +1360,10 @@ En el caso de sesiones extraordinarias, se aplicará lo dispuesto en éste y en 
 ###### Artículo 124.
 
 De toda sesión se levantará acta que será aprobada en la siguiente sesión y contendrá una relación simplificada de lo sustancial del desarrollo de la misma, complementada con la grabación magnetofónica y que se asentará en el libro de actas autorizado en todas sus hojas por los Secretarios.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
+
+El acta de la sesión de clausura de un período ordinario, con la que concluye sus funciones la Comisión Permanente y las de cada una de las sesiones extraordinarias deberán ser discutidas y aprobadas en la misma sesión.
 
 Por separado, en el Diario de los Debates se asentará la trascripción literal del desarrollo de la sesión.
 
@@ -1309,15 +1401,17 @@ Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la 
 
 Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Peticiones, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 130.
 
-Las propuestas que no sean iniciativas de Ley, Decreto o Acuerdo presentadas por uno o más Diputados, se sujetarán a los siguientes trámites:
+Las propuestas de Punto de Acuerdo o Acuerdo Legislativo presentadas por uno o más Diputados, se sujetarán a los siguientes trámites:
 
-I.- Se presentarán por escrito firmadas por sus autores, dirigidas al Presidente de la Asamblea y serán leídas en la sesión en que fueren presentadas. Su autor o uno de ellos, si fueren varios, expresará los fundamentos y razones de su proposición o proyecto;
+I.- Se presentarán por escrito firmados por sus autores y dirigidos al Presidente de la Asamblea, pudiendo ser leídos en la misma sesión en que fueren presentadas o en su caso, presentarse ante la Oficialía Mayor del Congreso para su turno a la comisión o comisiones respectivas. Su autor o uno de ellos, si fueren varios, expresará los fundamentos y razones de su contenido o proposición;
 
-II.- Hablarán por una sola vez hasta cuatro Diputados; dos en pro y dos en contra; y
+II.- Podrá discutirse en la misma sesión en que se presente o turnarse a la comisión respectiva según el tema. En el primer caso, hablarán por una sola vez hasta cuatro Diputados; dos en pro y dos en contra; y
 
-III.- Concluidas las intervenciones, se preguntará a la Asamblea si se admite o no la propuesta. En el primer caso, se remitirá a la comisión o comisiones a quienes corresponda para su análisis y dictamen correspondiente y, en el segundo caso, se tendrá por desechada.
+III.- Concluidas las intervenciones, se procederá a la votación del documento, si así lo decide el Pleno o se turnará a la comisión o comisiones a quienes corresponda para su análisis y dictamen correspondiente en sesiones posteriores.
 
 ###### Artículo 131.
 
@@ -1367,7 +1461,9 @@ Toda resolución emitida por el Presidente se considerará como trámite y, en c
 
 Los documentos con que se dé cuenta a la Asamblea, serán tramitados de la siguiente manera:
 
-I.- Las actas se pondrán a discusión y votación inmediatamente después de ser leídas;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
+
+I.- Las actas se pondrán a discusión y votación, siempre y cuando hayan sido distribuidas previamente a los Diputados;
 
 II.- Los oficios que no deban dar origen a una resolución de la Asamblea serán tramitados de inmediato por la Secretaría. Sólo cuando el Presidente considere que es necesaria una resolución del Congreso, los turnará a la comisión correspondiente para su estudio;
 
@@ -1765,9 +1861,11 @@ En cualquier sesión a que deban asistir, se destinarán lugares especiales en e
 
 Sólo por acuerdo del Congreso podrá permitirse el uso de una curul a una persona que no sea Diputado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+
 ###### Artículo 199.
 
-En todas las sesiones solemnes que celebre el Congreso, como una forma de darle más realce al evento, los Diputados deberán vestir traje de calle.
+En todas las sesiones solemnes que celebre el Congreso, como una forma de darle más realce al evento, los Diputados deberán vestir formal.
 
 ###### Artículo 200.
 
@@ -1778,6 +1876,8 @@ El público que desee puede concurrir a presenciar las sesiones del Congreso, oc
 Los concurrentes a las galerías guardarán respeto, silencio y compostura y no tomarán parte en los debates con ninguna clase de demostraciones, quedando terminantemente prohibido el acceso a quienes se encuentren armados o bajo los efectos de bebidas alcohólicas o enervantes.
 
 ### CAPITULO XXII. DE LA COMISION PERMANENTE
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### Artículo 202.
 
@@ -1817,7 +1917,7 @@ II.- Una vez instalada la sesión se dará lectura a la resolución correspondie
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
-III.- La Comisión de Justicia, Gobernación y Poderes dará lectura al dictamen respectivo;
+III.- La Comisión de Justicia, Gobernación y Poderes dará lectura al dictamen respectivo.
 
 IV.- Aprobado el dictamen por la Asamblea el Presidente de la Directiva dará lectura al Bando Solemne y la forma de difundir tal declaración en todo el Estado; y
 
@@ -1841,11 +1941,13 @@ El Congreso también se erigirá en Colegio Electoral cuando designe Concejo Mun
 
 ###### Artículo 210.
 
-En los términos de los artículos 34 de la Constitución y 104 de la Ley, durante los periodos de receso del Congreso, funcionará una Comisión Permanente, que se integrará por 7 Diputados, electos dentro de los 3 días anteriores a la clausura de un periodo ordinario de sesiones; uno será el Presidente, dos Secretarios y los últimos tendrán el carácter de vocales.
+En los términos de los artículos 34 de la Constitución y 104 de la Ley, durante los períodos de receso del Congreso, funcionará una Comisión Permanente, que se integrará por 7 Diputados, electos dentro de los 3 días anteriores a la clausura de un período ordinario de sesiones; dos que serán el Presidente y Vicepresidente, dos Secretarios y los últimos tres tendrán el carácter de vocales.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### Artículo 211.
 
-La Comisión Permanente entrará en función inmediatamente después de clausurados los trabajos del período ordinario y su sesión de instalación será al día siguiente, debiendo sesionar a partir de ese día por lo menos una vez a la semana, preferentemente los miércoles.
+La Comisión Permanente entrará en función inmediatamente después de clausurados los trabajos del período ordinario y su sesión de instalación será al día siguiente, debiendo sesionar a partir de ese día por lo menos una vez a la semana, preferentemente los miércoles, pudiendo ser diferidas las sesiones, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y el Presidente de la Comisión Permanente.
 
 ###### Artículo 212.
 
@@ -2096,3 +2198,7 @@ P.O. 31 DE AGOSTO DE 2005.
 P.O. 30 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
