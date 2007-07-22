@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-y-cinematografia-del-estado-libre-y-soberano-495
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-15"
-last_updated: "1993-08-15"
+last_updated: "2007-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE TURISMO Y CINEMATOGRAFIA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA EL DESARROLLO Y FOMENTO AL TURISMO EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 22 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de agosto de 1993.
 
@@ -472,3 +474,13 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los seis días del mes de Julio de mil novecientos noventa y tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SECRETARIO GENERAL DE GOBIERNO. LIC. ALFREDO BRACHO BARBOSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 2007.
+
+PRIMERO.- Se deroga la Ley de Turismo y Cinematografía del Estado Libre y Soberano de Durango aprobada mediante decreto 146 de fecha 15 de Agosto de 1993, así como todas las disposiciones que se opongan a la presente Ley.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+TERCERO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias correspondientes, en un plazo no mayor de 90 días a partir de la entrada en vigor de la presente Ley, contemplando la creación de la Subdirección de Fomento e Investigación Artesanal.
