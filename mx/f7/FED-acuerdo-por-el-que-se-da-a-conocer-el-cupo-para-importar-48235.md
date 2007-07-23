@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-da-a-conocer-el-cupo-para-importar-48235"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-18"
-last_updated: "2006-01-31"
+last_updated: "2007-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-07-29"
 
 ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR DIVERSAS MERCANCIAS CLASIFICADAS EN EL CAPITULO 95 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON LOS SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR DIVERSAS MERCANCIAS CLASIFICADAS EN EL CAPITULO 95 DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el 18 de agosto de 2005.
 
@@ -156,3 +158,13 @@ ASIGNACION DIRECTA 1/1
 D.O.F. 31 DE ENERO DE 2006.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JULIO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se da a conocer el cupo para importar diversas mercancías clasificadas en el capítulo 95 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicado en el Diario Oficial de la Federación el 18 de agosto de 2005 y sus reformas del 31 de enero de 2006 y 30 de octubre de 2006.
+
+TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
+
+CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
