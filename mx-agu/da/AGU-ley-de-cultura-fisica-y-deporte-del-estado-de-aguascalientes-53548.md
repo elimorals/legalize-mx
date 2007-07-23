@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2007-01-22"
+last_updated: "2007-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALlENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de enero de 2007.
 
@@ -303,9 +303,11 @@ k) Secretaría de la Defensa Nacional del Gobierno Federal; y
 
 I) Los Ayuntamientos de los Municipios del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2007)</small>
+
 ###### Artículo 18.
 
-La Junta Directiva será presidida por el titular del Instituto del Deporte de Aguascalientes.
+La Junta Directiva será presidida por el Gobernador del Estado o por la persona que él designe.
 
 El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario Propietario o Suplente, designado por la Secretaría de Contraloría del Estado, quienes participarán con voz pero sin voto.
 
@@ -1408,3 +1410,15 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a lo previsto por el Artículo Tercero Transitorio, de la Ley de Cultura Física y Deporte del Estado de Aguascalientes, contenida en el Decreto 245 publicado con fecha 22 de enero del año 2007, en el Periódico Oficial del Estado, el Reglamento de la Ley en cita, se deberá expedir dentro de un plazo no mayor de 60 días siguientes a la fecha de entrada en vigencia del presente Decreto.
