@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2005-08-01"
+last_updated: "2007-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -135,7 +135,9 @@ XXVI. REUSO: Es la acción de aprovechar un residuo sin un proceso previo de tra
 
 XXVII. VERIFICACION VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles;
 
-XXVIII. (DEROGADA, P.O. 11 DE ABRIL DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2007)</small>
+
+XXVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente; y
 
 XXIX. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características.
 
@@ -153,7 +155,11 @@ I. El Gobernador del Estado;
 
 II.- El Instituto del Medio Ambiente del Estado de Aguascalientes;
 
-III. Los Ayuntamientos.
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2007)</small>
+
+III. La Procuraduría Estatal de Protección al Ambiente; y
+
+IV. Los Ayuntamientos.
 
 ###### ARTICULO 5º.
 
@@ -244,6 +250,12 @@ XXVI. Instalar y coordinar el Consejo Consultivo Estatal de Gestión Ambiental;
 XXVII. Vigilar y Promover el cumplimiento de esta Ley y los demás ordenamientos aplicables; y
 
 XXVIII. Las demás atribuciones que conforme a ésta u otras Leyes o disposiciones reglamentarias le correspondan.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2007)</small>
+
+###### ARTICULO 7° Bis.
+
+Corresponde a la Procuraduría Estatal de Protección al Ambiente el ejercicio de las atribuciones de inspección, vigilancia y sanción que en materia ambiental se encuentran asignadas en esta Ley. Se entienden conferidas a la Procuraduría Estatal de Protección al Ambiente, las atribuciones de inspección, vigilancia y sanción en materia ambiental, sin que con ello se contravengan las facultades otorgadas al resto de las autoridades en materia ambiental.
 
 ###### ARTICULO 8º.
 
@@ -2212,3 +2224,9 @@ P.O. 1 DE AGOSTO DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2007.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
