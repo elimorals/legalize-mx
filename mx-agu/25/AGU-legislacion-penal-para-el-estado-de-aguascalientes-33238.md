@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2007-07-09"
+last_updated: "2007-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -209,15 +209,19 @@ II.- El asedio con fines lascivos para sí o por tercera persona, a personas de 
 
 Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2007)</small>
+
 ###### Artículo 21.
 
-Los Atentados al Pudor consisten en la ejecución de actos sexuales, sin el consentimiento de la víctima, sin el propósito directo e inmediato de llegar a la cópula, o que se obligue a la víctima a ejecutarlos.
+Los Atentados al Pudor consisten en la ejecución de actos erótico sexuales, sin consentimiento de la víctima, sin el propósito directo e inmediato de llegar a la cópula, o que se obligue a la víctima a ejecutarlos; entendiéndose por actos erótico sexuales, cualquier acción lujuriosa como caricias, manoseos y tocamientos corporales obscenos, o sin llegar al contacto físico, representen actos explícitamente sexuales, como caricias o masturbaciones.
 
-Al responsable de Atentados al Pudor se le aplicarán de 3 meses a 2 años de prisión y de 5 a 15 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+También se equipara a los Atentados al Pudor la conducta de carácter erótico sexual de quién sin llegar al contacto físico, exhiba ante la víctima, sin su consentimiento o con su consentimiento tratándose de menores de doce años, el pene, senos, glúteos o la vagina.
 
-Si el inculpado hiciera uso de la violencia física o moral, se le aplicarán de 6 meses a 4 años de prisión y de 10 a 30 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable del delito de Atentados al Pudor o Atentados al Pudor equiparado se le impondrá de seis meses a tres años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados.
 
-Si la víctima es menor de doce años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de 3 a 8 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Si el inculpado hiciere uso de violencia física o moral, se le aplicarán de dos a seis años de prisión y de 50 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Si la víctima es menor de doce años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de cincuenta a quinientos días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 22.
 
@@ -303,9 +307,11 @@ II. El llevar a cabo la introducción descrita en el artículo 26 en persona que
 
 Al responsable de Abuso Sexual Equiparado se le aplicarán de 3 a 8 años de prisión y de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente artículo, la punibilidad será de 4 años 6 meses a 12 años de prisión y de 15 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2007)</small>
+
 ###### Artículo 28.
 
-La punibilidad prevista para los Tipos Penales de violación, abuso sexual, violación equiparada y abuso sexual equiparado, se aumentará hasta en una mitad en sus mínimos y máximos, cuando:
+La punibilidad prevista para los Tipos Penales de violación, abuso sexual, violación equiparada, abuso sexual equiparado y atentados al pudor, se aumentará hasta en una mitad en sus mínimos y sus máximos, cuando:
 
 I. Los hechos descritos sean cometidos a nivel de co-autoría; o
 
@@ -549,9 +555,17 @@ Al responsable de Robo se le aplicarán de:
 
 I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el salario mínimo general vigente en el Estado;
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas; o
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2007)</small>
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado.
+II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el salario mínimo general vigente en el Estado, pero no de trescientas;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2007)</small>
+
+III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado; o
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2007)</small>
+
+IV. 2 a 8 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, al responsable de los hechos descritos en la Fracción IV del párrafo primero del presente Artículo.
 
 La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente artículo.
 
@@ -577,13 +591,21 @@ VIII. Se cometa en local comercial abierto al público;
 
 IX. El objeto material del apoderamiento sean instrumentos de labranza, objetos utilizados para cercar frutos cosechados o por cosechar;
 
-X. El objeto material del apoderamiento sean postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte; o
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2007)</small>
+
+X. El objeto material del apoderamiento sean postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE JULIO DE 2007)</small>
 
 XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática, sistema de redes de computadoras, base de datos, soporte lógico o programas de cómputo;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2007)</small>
 
-XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, sobre parte de ellos o sobre los bienes a cargo o disposición de su conductor o pasajeros.
+XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, sobre parte de ello o sobre los bienes a cargo o disposición de su conductor o pasajeros; o
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2007)</small>
+
+XIII. El apoderamiento a que se refiere la Fracción IV del parrafo primero del Artículo anterior, represente la afectación del equivalente al veinte por ciento o más de los animales propiedad de la víctima.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -4157,63 +4179,55 @@ Formulada la solicitud en cualquier etapa del procedimiento, con excepción de l
 
 En la determinación que dicte el funcionario que conozca, se fundará y motivará el otorgamiento o la negativa de tal libertad, así como la revocación de ésta, en su caso, tomando en cuenta las prevenciones constitucionales y legales aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2007)</small>
 
 ###### Artículo 481.
 
 Se negará el beneficio de la libertad provisional bajo caución, cuando los hechos punibles que se imputen al inculpado puedan ser tipificados en las siguientes figuras típicas, que se califican de graves:
 
-I. Homicidio Doloso, prevista en los artículos 3º y 5º;
+I. Homicidio Doloso, prevista en los Artículos 3º y 5º;
 
-II. Homicidio Doloso Calificado previsto en el artículo 13; y Lesiones Dolosas Calificadas, previstas en el artículo 13, en relación con el artículo 10, fracciones IV, V y VI;
+II. Homicidio Doloso Calificado previsto en el Artículo 13; y Lesiones Dolosas Calificadas, previstas en el Artículo 13, en relación con el Artículo 10, Fracciones IV, V y VI;
 
-III. Corrupción de Menores, prevista en el artículo 22;
+III. Corrupción de Menores, prevista en el Artículo 22;
 
-IV. Violación, prevista en el artículo 24;
+IV. Violación, prevista en el Artículo 24;
 
-V. Violación Equiparada, prevista en el artículo 25;
+V. Violación Equiparada, prevista en el Artículo 25;
 
-VI. Abuso Sexual, previsto en el artículo 26;
+VI. Abuso Sexual, previsto en el Artículo 26;
 
-VII. Abuso Sexual Equiparado, previsto en el artículo 27;
+VII. Abuso Sexual Equiparado, previsto en el Artículo 27;
 
-VIII. Tráfico de Menores, prevista en el artículo 34;
+VIII. Tráfico de Menores, prevista en el Artículo 34;
 
-IX. Sustracción de Menores, prevista en el artículo 35, salvo que el inculpado sea familiar del menor o incapaz objeto de sustracción o retención;
+IX. Sustracción de Menores, prevista en el Artículo 35, salvo que el inculpado sea familiar del menor o incapaz objeto de sustracción o retención;
 
-X. Desaparición Forzada de Personas, prevista en el artículo 39;
+X. Desaparición Forzada de Personas, prevista en el Artículo 39;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+XI. Secuestro, prevista en el Artículo 40, 40A y secuestro exprés, prevista en el Artículo 41;
 
-XI. Secuestro, prevista en el Artículo 40, 40A y Secuestro exprés, previsto en el Artículo 41;
+XII. Robo Calificado, previsto en el Artículo 45, en relación con el Artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado;
 
-XII. Robo Calificado, previsto en el artículo 45, en relación con el artículo 44, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado;
+XIII. Robo Calificado, prevista en la Fracción XII del Artículo 45, en relación con el Artículo 44, cualquiera que sea el valor de la afectación patrimonial;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+XIIV. Extorsión, prevista en el Artículo 49;
 
-XIII. Robo calificado, previsto en la fracción XII del artículo 45, en relación con el artículo 44, cualquiera que sea el valor de la afectación patrimonial;
+XV. Atentados a la Estética Urbana, prevista en el Artículo 54;
 
-XIIV. Extorsión, prevista en el artículo 49;
+XVI. Atentados al Desarrollo Urbano Ordenado, prevista en el Artículo 55;
 
-XV. Atentados a la Estética Urbana, prevista en el artículo 54;
+XVII. Rebelión, prevista en el Artículo 83;
 
-XVI. Atentados al Desarrollo Urbano Ordenado, prevista en el artículo 55;
+XVIII. Homicidio Culposo, prevista en el Artículo 92, párrafo tercero;
 
-XVII. Rebelión, prevista en el artículo 83; y
+XIX.- Aborto Culposo, prevista en el Artículo 93, párrafo tercero;
 
-XVIII. Homicidio Culposo, prevista en el artículo 92, párrafo tercero;
+XX.- Lesiones Culposas, previstas en el Artículo 94, penúltimo párrafo, en relación al Artículo 10, Fracciones IV, V y VI;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
+XXI.- Lesiones previstas en el Artículo 10, cuando se cometan con la circunstancia agravante señalada en el inciso h), párrafo tercero del Artículo 353; y
 
-XIX.- Aborto culposo, prevista en el Artículo 93, párrafo tercero;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
-
-XX.- Lesiones culposas previstas en el Artículo 94, penúltimo párrafo, en relación al Artículo 10 fracciones IV, V y VI; y
-
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
-
-XXI.- Lesiones previstas en el Artículo 10, cuando se cometan con la circunstancia agravante señalada en el inciso h), párrafo tercero del Artículo 353.
+XXII. Atentados al Pudor, previsto en el Artículo 21, cuando la víctima sea menor de doce años.
 
 En lo que se refiere a la figura típica de Atentados a la Estética Urbana, se podrá conceder el beneficio de la libertad provisional bajo caución, si el inculpado repara el daño causado, dentro de los diez días siguientes a la fecha en que haya sido puesto a disposición de la autoridad judicial.
 
@@ -5158,3 +5172,11 @@ P.O. 9 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JULIO DE 2007.
+
+> <small>(F. DE E., P.O. 30 DE JULIO DE 2007)</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
