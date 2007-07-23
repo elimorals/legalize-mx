@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-461
 country: "mx"
 rank: "otro"
 publication_date: "2004-12-29"
-last_updated: "2007-06-30"
+last_updated: "2007-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,71 +18,63 @@ scjn_last_update: "2010-11-12"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 2000)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE PARA EL 2007, DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS; ASI COMO LA TASA APLICABLE DEL 1 DE ABRIL DE 2007 AL 31 DE MARZO DE 2008 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS PROCEDENTES DE LA REPUBLICA DE HONDURAS E INTERNAR A LA REPUBLICA DE HONDURAS, BIENES TEXTILES Y DEL VESTIDO EN EL PERIODO 2006-2009, QUE CUMPLAN CON LO DISPUESTO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 23 de julio de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 3-04 y 3-19 y el Anexo 3-19 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6, 15 fracción II, 16 fracción III, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracciones III y V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras fue aprobado por el Senado de la República el 14 de diciembre de 2000, publicado en el Diario Oficial de la Federación el 14 de marzo de 2001 y entró en vigor el 15 de marzo de 2001 para el comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador y Guatemala y el 1 de junio de 2001 para el comercio entre los Estados Unidos Mexicanos y la República de Honduras;
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, que actualiza la estructura de la clasificación aduanera introduciendo las modificaciones llevadas a cabo por el Comité de Nomenclatura de la Organización Mundial de Aduanas;
 
-Que el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón fue aprobado por el Senado de la República el 18 de noviembre de 2004, publicado en el Diario Oficial de la Federación el 31 de marzo de 2005 y entró en vigor el 1 de abril del mismo año;
+Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
 
-Que el 27 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable para el 2007, del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras; así como la Tasa aplicable del 1 de abril de 2007 al 31 de marzo de 2008 del Impuesto General de Importación para las mercancías originarias del Japón, modificado por los diversos publicados en el mismo órgano informativo los días 28 de febrero y 20 de junio de 2007;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
-
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
-
-Que resulta necesario ajustar el Decreto mencionado en el tercer considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
-
-DECRETO
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS Y EL PROCEDIMIENTO PARA SU ASIGNACION, PARA IMPORTAR A LOS ESTADOS UNIDOS MEXICANOS PROCEDENTES DE LA REPUBLICA DE HONDURAS E INTERNAR A LA REPUBLICA DE HONDURAS, BIENES TEXTILES Y DEL VESTIDO EN EL PERIODO 2006-2009, QUE CUMPLAN CON LO DISPUESTO EN EL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
 ###### ARTICULO PRIMERO.
 
-El cupo para importar en 2007 dentro del arancel-cuota establecido en el artículo 4-04 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, atún en lata, con un peso no mayor a 1 Kg. originario de la República de Guatemala, es el que se determina a continuación:
+Los cupos para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras y para internar a la República de Honduras, bienes textiles que cumplan con lo dispuesto en el Anexo 3-19 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, durante el 1 de enero al 31 de diciembre de cada año, en el periodo 2006 a 2009, son los que se determinan a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con el artículo 24 de la Ley de Comercio Exterior, se aplicará al cupo de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa mediante la modalidad de “primero en tiempo, primero en derecho”.
+De conformidad con lo dispuesto en los artículos 24 párrafo segundo de la Ley de Comercio Exterior y 31 de su Reglamento, y con el objeto de promover las corrientes comerciales entre las partes, el mecanismo a través del cual se asignarán los cupos descritos en el artículo anterior, es de asignación directa en la modalidad de "primero en tiempo, primero en derecho", que consiste en asignar los cupos conforme los interesados los soliciten. La vigencia de los certificados de cupo será al 31 de diciembre del año de su expedición.
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación del cupo a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
+Podrán solicitar asignación de los cupos señalados en el artículo primero, las personas físicas o morales establecidas en los Estados Unidos Mexicanos que deseen exportar o importar bienes textiles bajo los niveles de flexibilidad temporal acordados entre México y Honduras dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, que cuenten con la inscripción vigente a que se refiere el artículo siguiente.
 
 ###### ARTICULO CUARTO.
 
-Para la obtención del cupo el solicitante deberá presentar en la ventanilla de atención al público de la Representación Federal de la Secretaría de Economía que corresponda lo siguiente:
+Para la obtención de los certificados de cupo de exportación o de importación, según sea el caso, los interesados deberán obtener previamente la constancia de inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, de la siguiente manera:
 
-a) Solamente la primera ocasión que se tramite la obtención del cupo a que se refiere el presente Acuerdo, se presentará la solicitud de asignación del cupo en el formato SE-03-011-1 “Solicitud de asignación de cupo”. La Dirección General de Comercio Exterior emitirá, en su caso, constancia de asignación dentro de los siete días hábiles siguientes a la fecha de presentación de la solicitud. La vigencia de la constancia de asignación será al 31 de diciembre de 2007.
+a) Los interesados deberán presentar el formato SE-03-012-3, "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras" en la ventanilla de atención al público de la Dirección General de Comercio Exterior, en la planta baja del edificio ubicado en Insurgentes Sur 1940, colonia Florida, Delegación Alvaro Obregón, México, D.F., o bien en las representaciones federales de esta Secretaría en toda la República.
 
-b) Una vez obtenida la constancia de asignación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-5, "Solicitud de certificados de cupo (obtenido por asignación directa)" adjuntando copia de la factura comercial y del conocimiento de embarque o carta de porte o guía aérea, según sea el caso. La Representación Federal de la Secretaría de Economía, emitirá el certificado de cupo dentro de los siete días hábiles siguientes a la presentación de la solicitud. La hoja de requisitos específicos se establece como anexo al presente instrumento.
+b) El horario de recepción de dicho formato será de 9:00 a 14:00 horas, en días hábiles.
 
-Siempre que exista saldo en el cupo, el monto a expedir por solicitante será el monto menor entre la cantidad señalada en la factura comercial y, el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
+c) La Secretaría expedirá la constancia de inscripción en un plazo no mayor a siete días hábiles contados a partir de la fecha de recepción de la solicitud. Este registro deberá solicitarse anualmente por grupo de productos, según la clasificación arancelaria que corresponda.
 
 ###### ARTICULO QUINTO.
 
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá haber ejercido por lo menos una de las expediciones otorgadas. De forma tal que, durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin ejercer.
-
-La vigencia de los certificados de cupo a que se refiere este Acuerdo, será lo que sea primero entre 60 días naturales contados a partir de la expedición del certificado o el 31 de diciembre de 2007.
+Una vez obtenida la constancia de inscripción, se deberá solicitar, la expedición del certificado de cupo de exportación o importación correspondiente para cada embarque, presentando el formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras” acompañado de la factura comercial (original y copia), para el caso de la exportación y, para el caso de la importación, del original del documento proporcionado por la Secretaría de Industria y Comercio de Honduras, en horario de 9:00 a 10:00 horas, en la oficina donde se emitió la Constancia de inscripción a que se refiere el artículo anterior. El certificado será entregado en horario de 13:00 a 14:00 horas del mismo día de la presentación de la solicitud.
 
 ###### ARTICULO SEXTO.
 
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría, y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las siguientes direcciones electrónicas:
+Los formatos a que se hace referencia en este Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
+a) Para el caso del formato SE-03-012-3 "Solicitud de Inscripción en el Registro de Bienes Textiles y del Vestido bajo los niveles de flexibilidad temporal dentro del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras":
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-036-C
 
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+b) Para el caso del formato SE-03-013-8 “Solicitud de certificado de elegibilidad para bienes textiles y del vestido bajo los niveles de flexibilidad temporal con la República de Honduras”:
 
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-041-C
 
 ###### ARTÍCULO 1.
 
@@ -234,8 +226,14 @@ Lo dispuesto en el presente ordenamiento será aplicable a las operaciones de im
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2009.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos y el procedimiento para su asignación, para importar a los Estados Unidos Mexicanos procedentes de la República de Honduras e internar a la República de Honduras, bienes textiles y del vestido en el periodo 2006-2009, que cumplan con lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras publicado en el Diario Oficial de la Federación el 9 de marzo de 2006.
+
+TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
+
+CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
+
+México, D.F., a 26 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
