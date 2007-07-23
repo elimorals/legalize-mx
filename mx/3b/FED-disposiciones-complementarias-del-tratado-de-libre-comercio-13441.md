@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-07-16"
+last_updated: "2007-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,59 +18,29 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2007
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 23 de julio de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía y ALBERTO CARDENAS JIMENEZ, Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 34 y 35 de la Ley Orgánica de la Administración Pública Federal; artículo Décimo Transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2007; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción V, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía; 1o. y 6o. del Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte; artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte establece un monto, determinado como mínimo, a importar dentro de un arancel-cuota para las importaciones de maíz de los Estados Unidos de América o Canadá, que puede ser incrementado de acuerdo a necesidades de abasto nacional;
+Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, que actualiza la estructura de la clasificación aduanera introduciendo las modificaciones llevadas a cabo por el Comité de Nomenclatura de la Organización Mundial de Aduanas;
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, y sus reformas del 5 de agosto, 1o. de diciembre de 2004, 1 y 23 de enero de 2007;
+Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
 
-Que la producción nacional de maíz y el cupo mínimo para importar en el año 2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, no son suficientes para abastecer la demanda nacional;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que la disponibilidad de maíz y granos forrajeros indica que se requiere importar maíz amarillo en un monto superior a la cuota mínima disponible, a fin de cubrir los requerimientos de los sectores que utilizan este grano en sus procesos productivos, por lo que es necesario aplicar el presente incremento a la cuota mínima negociada en el marco del Tratado de Libre Comercio con América del Norte;
-
-Que en el artículo Décimo Transitorio fracción II de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, se establece que el Ejecutivo Federal creará una reserva de cuota mínima, para cubrir los requerimientos de maíz blanco para el 2o. semestre de 2007; la cual, por estar etiquetada para los consumidores de esta variedad específica de grano, no interferirá con la asignación de cuotas adicionales para los solicitantes de cupo de maíz amarillo;
-
-Que en el artículo Décimo Transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, se establece que en los casos en que se requiera importar maíz amarillo indispensable para el abasto nacional, que rebase las cuotas mínimas libres de arancel acordadas por las partes en los tratados de libre comercio, la Secretaría de Economía y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, determinarán el arancel que aplicará a la cuota adicional en consulta con el Consejo Mexicano para el Desarrollo Rural Sustentable y con el Comité Nacional Sistema-Producto Maíz;
-
-Que en el artículo Décimo Transitorio fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, se establece que en lo referente a la importación de maíz amarillo se asegurará no poner en riesgo el suministro de materia prima a los consumidores industriales, pecuarios y formuladores de alimentos balanceados, a la vez que se atiendan los legítimos intereses de los productores primarios;
-
-Que el 30 de junio del presente año se publicó en el Diario Oficial de la Federación el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza;
-
-Que el procedimiento de asignación de la cuota adicional de importación de maíz amarillo, excepto para siembra, es un instrumento de la política sectorial para el abasto nacional, y
-
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, hemos tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE DA A CONOCER LA CUOTA ADICIONAL PARA IMPORTAR MAIZ AMARILLO, EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA EN EL AÑO 2007
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO PRIMERO.
 
-La cuota adicional para importar maíz amarillo, excepto para siembra, originario de los Estados Unidos de América en el año 2007, con el arancel-cupo establecido en el Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado en el Diario Oficial de la Federación el 30 de junio de 2007, es la que se especifica en el siguiente cuadro:
+Los cupos, para exportar a los Estados Unidos de América y a Canadá, bienes textiles y prendas de vestir no originarios producidos en territorio nacional, en adelante cupos de exportación, así como para importar de dichos países bienes textiles y prendas de vestir no originarios, producidos en el territorio de éstos, susceptibles de recibir trato de preferencia arancelaria conforme a lo dispuesto en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte durante el periodo del 1 de enero al 31 de diciembre de cada año, son los que se determinan a continuación:
 
-Fracción Descripción Cuota adicional
-
-Arancelaria (Toneladas)
-
-1005.90.03 Maíz, excepto Monto que resulte de la
-
-para siembra aplicación de los criterios
-
-(amarillo) establecidos en el artículo
-
-Décimo Transitorio de la
-
-Ley de Ingresos de la
-
-Federación para el
-
-Ejercicio Fiscal de 2007
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO ÚNICO.
 
@@ -216,37 +186,21 @@ Aceites, Aceites de Petróleo y Betunes
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de la cuota adicional a que se refiere el presente Acuerdo, las personas físicas y morales establecidas en los Estados Unidos Mexicanos, de las industrias almidonera, cerealera, de frituras y botanas; así como del sector pecuario (incluyendo la fabricación de alimentos balanceados), que utilizan el maíz amarillo como insumo en sus procesos productivos.
+Pueden solicitar el registro de sus productos las personas físicas y morales establecidas en los Estados Unidos Mexicanos, mediante el procedimiento siguiente:
 
-Aquellas personas físicas o morales que cuenten con varias plantas, se aplicará el criterio de asignación, de acuerdo a su información y ubicación geográfica, considerando el supuesto de asignación correspondiente a la solicitud presentada.
+a) Los interesados deberán presentar la "Solicitud de Inscripción en el Registro de Bienes Textiles y Prendas de Vestir no originarios elegibles para recibir de trato de preferencia arancelaria" formato SE-03-012-1, en la "Ventanilla de cupos TLC" de la Dirección General de Comercio Exterior de esta Secretaría, sita en Insurgentes Sur No. 1940, planta baja, colonia Florida, código postal 01030, México, D.F. o en la representación federal de esta Secretaría, que le corresponda. No existe hoja de requisitos específicos.
 
-En ningún caso, el monto máximo de asignación de cuota adicional por solicitante, podrá exceder el monto que resulte de la aplicación de los criterios establecidos en el artículo Décimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007.
+b) El horario de recepción será de 9:00 a 14:00 horas, en días hábiles.
 
-En lo que se refiere a los consumos de granos importados presentados en los reportes de auditor externo, sólo se considerará la modalidad de importación definitiva.
+c) La Secretaría expedirá, en su caso, la Constancia de Registro a las solicitudes en un plazo no mayor a siete días hábiles, contados a partir de la fecha de recepción de la solicitud. La Constancia de Registro es válida únicamente en el año en el que se realice el registro, por lo que cada año deberá realizar este trámite.
 
 ###### ARTICULO CUARTO.
 
-Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero del presente instrumento, que tengan antecedentes de consumo de maíz amarillo importado bajo cupo en el año 2006 y, cuyas plantas industriales no estén ubicadas en los estados de Yucatán, Quintana Roo, Campeche y Tabasco y que cumplan con la hoja de requisitos correspondiente, anexa a este instrumento, la asignación de la cuota adicional de importación de maíz amarillo será la que resulte de aplicar los criterios de asignación siguientes:
-
-A. Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas señaladas en el artículo tercero del presente instrumento, que acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de contratos de compra-venta o de agricultura por contrato de granos nacionales (ambos casos conforme al Anexo I de este instrumento) equivalentes a por lo menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2006, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación de cupo mínimo de 2007 de maíz amarillo.
-
-La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será equivalente al consumo anual auditado de maíz en 2006 o, en su caso, el reportado para la asignación de cupo mínimo de 2007 de maíz amarillo, menos la cantidad recibida de cupo mínimo en 2007, menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2006 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007.
-
-B. Para las personas físicas o morales del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero del presente instrumento, que acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) compromisos de adquisición de granos forrajeros nacionales (conforme al Anexo I de este instrumento) de por lo menos el 25% del consumo anual auditado de 2006 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007 a través de agricultura por contrato o contratos de compra-venta de granos forrajeros nacionales se aplicará el siguiente lineamiento de asignación.
-
-La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante será el equivalente al consumo anual auditado de grano forrajero total de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo en 2007, menos la cantidad recibida de cuota mínima en 2007 menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2006 o, en su caso, del consumo reportado para la asignación de cupo mínimo en 2007, de maíz amarillo importado bajo cuota.
-
-C. Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero, que no acrediten compromisos de adquisición de maíz y/o granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos nacionales (ambos casos conforme al Anexo I de este instrumento) de por lo menos el 25% del consumo anual auditado de 2006 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007, ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) se les asignará una vez el promedio mensual del consumo anual auditado de granos de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2007.
+Las personas que obtengan Constancia de Registro, deberán solicitar, ante la oficina en la cual obtuvieron dicha Constancia, la expedición del Certificado de Elegibilidad correspondiente para cada embarque, en el formato SE-03-013-2 “Solicitud de certificado de elegibilidad para bienes textiles y prendas de vestir con Canadá y Estados Unidos de América”, en horario de 9:00 a 10:00 horas. La resolución será entregada entre las 13:00 y las 14:00 horas del mismo día de la solicitud de expedición”.
 
 ###### ARTICULO QUINTO.
 
-Las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que tengan antecedentes de consumo de maíz amarillo importado bajo cupo en el 2006, que sus plantas industriales no estén ubicadas en los estados de Campeche, Quintana Roo, Tabasco y Yucatán, y que no hayan acreditado lo dispuesto en el Anexo I de este instrumento, podrán ingresar una nueva solicitud, una vez que hayan acreditado ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) el compromiso de adquisición de maíz y/o granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos nacionales (ambos casos conforme al Anexo I de este instrumento) de por lo menos el 25% del consumo anual auditado de 2006 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007 y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, se les asignará cupo adicional de maíz amarillo aplicándose los criterios de asignación que se indican a continuación:
-
-A. Para las personas físicas o morales que pertenezcan a las industrias: almidonera, cerealera, frituras y botanas señaladas en el artículo tercero de este instrumento. La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será equivalente al consumo anual auditado de granos en 2006 o, en su caso, el reportado para la asignación de cupo mínimo de 2007 de maíz amarillo, menos los volúmenes de cuotas mínima y adicional al amparo del Tratado de Libre Comercio de América del Norte, asignadas por la Dirección General de Comercio Exterior en 2007, menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2006 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007.
-
-B. Para las personas físicas o morales que pertenezcan al sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento. La cantidad de cuota adicional de importación de maíz amarillo a asignar a cada solicitante, será el equivalente al consumo anual auditado de grano forrajero total de 2006 o, en su caso, el reportado para la asignación del cupo mínimo en 2007, menos los volúmenes de cuotas mínima y adicional al amparo del Tratado de Libre Comercio de América del Norte, asignadas por la Dirección General de Comercio Exterior en 2007, menos el 25% del consumo anual auditado de maíz amarillo importado bajo cuota en 2006 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007.
-
-C. Para las personas físicas o morales que pertenezcan a las industrias: almidonera, cerealera, frituras y botanas o al sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que no acrediten ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) los compromisos de adquisición de maíz y/o granos forrajeros nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos nacionales (ambos casos conforme al Anexo I de este instrumento) de por lo menos el 25% del consumo anual auditado de 2006 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007, no se asignará ningún monto adicional.
+Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las Representaciones Federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: www.cofemer.gob.mx.
 
 ###### ARTICULO SEXTO.
 
@@ -264,7 +218,9 @@ La información correspondiente al periodo enero-junio de 2006, deberá coincidi
 
 ###### ARTICULO SEGUNDO.
 
-De conformidad con lo dispuesto en el párrafo segundo del artículo 24 de la Ley de Comercio Exterior, se aplicará el procedimiento de asignación directa a la cuota adicional de importación a que se refiere el artículo anterior.
+Los cupos descritos en las columnas (2), (3) y (5) del cuadro del artículo primero del presente Acuerdo, se asignarán de manera directa bajo la modalidad de “Primero en Tiempo, Primero en Derecho".
+
+Los cupos de importación de bienes textiles y prendas de vestir no originarios, procedentes de Canadá, especificados en la columna (4) del cuadro del artículo primero del presente Acuerdo, son administrados por el gobierno canadiense, mediante la expedición de certificados de elegibilidad que otorga a sus empresas exportadoras.
 
 ###### ARTICULO QUINTO.
 
@@ -283,64 +239,6 @@ En ningún caso, la asignación por beneficiario podrá exceder el total del con
 Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que cuenten con plantas establecidas en los estados de Yucatán, Quintana Roo, Campeche y Tabasco, y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, la cuota adicional de importación de maíz amarillo a asignar será equivalente a cinco veces el promedio mensual del consumo auditado de maíz y/o granos forrajeros de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo de 2007 de maíz amarillo importado bajo cuota.
 
 En caso de que el solicitante se encuentre en el supuesto señalado en el párrafo anterior la asignación de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
-
-###### ARTICULO NOVENO.
-
-Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, cuyas plantas se encuentren establecidas en otros estados, que no sean Yucatán, Quintana Roo, Campeche y Tabasco, que cumplan con la hoja de requisitos correspondiente anexa a este instrumento y comprueben ante ASERCA/SAGARPA la imposibilidad de realizar compromisos bajo los esquemas de agricultura por contrato o contratos de compra-venta, deberán ingresar una solicitud para las plantas ubicadas en los estados donde no haya sido posible acreditar lo establecido en el Anexo I de este instrumento.
-
-La asignación para los solicitantes que cumplan lo señalado en el párrafo anterior será equivalente a cinco veces el promedio mensual de consumo total auditado de granos de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2007.
-
-En caso, de que el solicitante haya sido beneficiario de algún monto de cuota adicional en 2007, dicho monto será considerado dentro de los cinco meses del supuesto anterior.
-
-###### ARTICULO DECIMO.
-
-Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que no tengan antecedentes de consumo de maíz amarillo bajo cupo en el 2006, que no estén ubicadas en los estados de Campeche, Quintana Roo, Tabasco y Yucatán y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, la asignación de la cuota adicional de importación de maíz amarillo será la que se indica a continuación:
-
-La asignación de la cuota adicional será equivalente a una vez el consumo mensual promedio auditado de granos de 2006 si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, el reportado para la asignación del cupo mínimo de maíz de 2007. La asignación de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
-
-ARTICULO DECIMOPRIMERO.- Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, de conformidad con el artículo Décimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, en caso de que existan incumplimientos en cantidad y/o calidad especificada en los contratos de agricultura por contrato por parte del vendedor o siniestros que sean dictaminados por SAGARPA, previa consulta en el Comité Nacional Sistema Producto Maíz, la Secretaría de Economía por medio de la Dirección General de Comercio Exterior, otorgará cupos adicionales equivalentes al monto del incumplimiento, previa presentación de la solicitud de asignación de cupo, en la cual se deberá señalar que la presenta a causa de incumplimiento en cantidad y/o calidad especificada, así como cumplir con la hoja de requisitos correspondiente anexa a este instrumento.
-
-Para efecto de lo señalado en el párrafo anterior, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados dictamine el incumplimiento o no, en la cantidad y/o calidad especificada, presentado por el solicitante del cupo de importación. ASERCA/SAGARPA atenderá dicha solicitud, previa consulta al Comité Nacional Sistema Producto Maíz. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará a la Dirección General de Comercio Exterior el resultado de dicha consulta y, en su caso, el monto del incumplimiento en la cantidad y/o calidad especificada.
-
-ARTICULO DECIMOSEGUNDO.- La asignación de la cuota adicional de importación de maíz amarillo a que se refiere el presente instrumento, considerará lo establecido en el ANEXO I y lo siguiente:
-
-La Dirección General de Comercio Exterior, enviará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA los consumos totales anuales auditados, desglosados por tipo de grano, origen del grano y en el caso de maíz amarillo la modalidad de importación bajo cupo, de las empresas que presentaron reportes de auditor externo para la asignación del cupo mínimo de 2007, y en el caso de que el solicitante no haya sido beneficiario del cupo mínimo en 2007, enviará la solicitud anexando el reporte de auditor externo que presente.
-
-Para efecto de lo señalado en los artículos séptimo, octavo, y décimo de este instrumento, la Dirección General de Comercio Exterior otorgará la cuota adicional aplicando el criterio de asignación establecido en dicho artículo, sin realizar consulta a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
-
-Para efecto de la aplicación de los criterios de asignación señalados en los artículos cuarto, quinto y noveno de este instrumento, la Dirección General de Comercio Exterior solicitará a la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informe el acreditamiento o no, a lo establecido en el Anexo I del presente instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA contará con un plazo de tres días hábiles contados a partir de que haya recibido dicha solicitud, para notificar a la Dirección General de Comercio Exterior.
-
-Para efecto de la aplicación de los criterios de asignación establecidos en los artículos sexto y décimo primero de este instrumento, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, informará a la Dirección General de Comercio Exterior el resultado y, en su caso, el monto no concretado, incumplimiento en cantidad y/o calidad especificada o siniestro, de la consulta al Comité Nacional Sistema Producto Maíz, en un plazo de cinco días hábiles contados a partir de que tenga dicho resultado.
-
-Una vez recibida la notificación de acreditación de compromisos de adquisición de granos nacionales bajo los esquemas de agricultura por contrato o contratos de compra-venta (ambos casos conforme al Anexo I de este instrumento) por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, la Dirección General de Comercio Exterior aplicará el criterio correspondiente a las solicitudes subsecuentes, considerando lo establecido en el párrafo tercero del artículo tercero del presente instrumento.
-
-Para la aplicación de los criterios que se mencionan en este Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas.
-
-ARTICULO DECIMOTERCERO.- La asignación de la cuota adicional a que se refiere el presente instrumento se hará a través de la Dirección General de Comercio Exterior, quien determinará el monto a asignar conforme al criterio aplicable a cada caso. El trámite de asignación de la cuota adicional de importación de maíz amarillo no será mayor a diez días hábiles, excepto para lo considerado en los artículos sexto y décimo primero de este instrumento.
-
-En las asignaciones se señalará el monto de la cuota adicional y el plazo para ejercer dicha asignación, así como las condiciones a que deberán someterse los beneficiarios.
-
-El periodo de recepción de solicitudes para los supuestos establecidos en los artículos cuarto, quinto, séptimo, octavo, noveno y décimo será a partir del siguiente día hábil de la entrada en vigor del presente instrumento, y finalizará el 15 de noviembre de 2007.
-
-El periodo de recepción de solicitudes para el supuesto establecido en el artículo sexto del presente instrumento será del 16 al 31 de julio de 2007.
-
-El periodo de recepción de solicitudes para el supuesto establecido en el artículo décimo primero del presente instrumento será del 27 de agosto al 7 de septiembre de 2007.
-
-La vigencia máxima de los certificados de cupo será al 31 de diciembre de 2007. La mercancía no podrá ser comercializada en el mismo estado físico en que se importa.
-
-ARTICULO DECIMOCUARTO.- Las solicitudes de asignación de la cuota a que se refiere el presente instrumento, deberán presentarse en el formato SE-03-011-1 “Solicitud de asignación de cupo”, en la ventanilla de atención al público de la Representación Federal de esta Secretaría. Las hojas de requisitos específicos se anexan al presente instrumento.
-
-ARTICULO DECIMOQUINTO.- Una vez asignado el monto para importar dentro de la cuota adicional, esta Secretaría, a través de la Representación Federal correspondiente, expedirá los certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”. El certificado de cupo es nominativo e intransferible.
-
-ARTICULO DECIMOSEXTO.- Los formatos citados en el presente instrumento, estarán a disposición en las Representaciones Federales de la Secretaría de Economía o en la página de Internet de la Comisión Federal de Mejora Regulatoria, en las direcciones electrónicas siguientes:
-
-a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-b) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042
 
 ###### ARTÍCULO 1.
 
@@ -588,74 +486,14 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 10 de julio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alberto Cárdenas Jiménez.- Rúbrica.
+SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004.
 
-SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION (SAGARPA)
+TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
 
-APOYOS Y SERVICIOS A LA COMERCIALIZACION AGROPECUARIA (ASERCA)
+CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
 
-DIRECCION GENERAL DE DESARROLLO DE MERCADOS
-
-ANEXO I
-
-POR EL QUE SE DA A CONOCER EL PROCEDIMIENTO DE ACREDITACION DE COMPROMISOS DE AGRICULTURA POR CONTRATO O REALIZACION DE CONTRATOS DE COMPRA-VENTA DE GRANOS NACIONALES, DE CONFORMIDAD CON EL ARTICULO DECIMO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 2007, FRACCION I, INCISOS a), b), c), d), e), f), g) h) e i), POR PARTE DE APOYOS Y SERVICIOS A LA COMERCIALIZACION AGROPECUARIA (ASERCA/SAGARPA).
-
-La Dirección General de Desarrollo de Mercados, quien acreditará los compromisos de agricultura por contrato o contratos de compra-venta de granos nacionales, de las personas físicas o morales establecidas en los Estados Unidos Mexicanos, de las industrias y del sector pecuario (incluyendo la fabricación de alimentos balanceados) de la siguiente forma:
-
-Agricultura por Contrato:
-
-La agricultura por contrato que se realice de maíz amarillo, sorgo y trigo forrajero de los ciclos agrícolas otoño-invierno/2006-2007 y primavera-verano/2007-2007, será considerada para dar cumplimiento a lo establecido en el Artículo Décimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2007; ésta deberá estar apegada a las “Reglas de Operación del Programa de Apoyos Directos al Productor por Excedentes de Comercialización para Reconversión Productiva, Integración de Cadenas Agroalimentarias y Atención a Factores Críticos”, publicadas en el Diario Oficial de la Federación el 17 de junio de 2003 y su modificación del 9 de abril de 2004; así como a los “Lineamientos Específicos del Subprograma de Apoyos a la Agricultura por Contrato de Maíz Amarillo y Sorgo, ciclo agrícola primavera-verano 2004”, publicados en el Diario Oficial de la Federación el 18 de junio de 2004 y su modificación del 6 de abril de 2005, así como sus posteriores modificaciones.
-
-Las Direcciones Regionales de ASERCA/SAGARPA, informarán oficialmente, mediante reportes detallados a la Dirección General de Desarrollo de Mercados, el cumplimiento de los convenios de agricultura por contrato que hayan realizado las personas físicas o morales con los productores en cada uno de los estados que son atendidos por estas oficinas, y que cuenten con registro de los mismos.
-
-Contratos de compra-venta de granos nacionales:
-
-Para dar cumplimiento a lo establecido en el Artículo Décimo Transitorio, fracción I, incisos a), b), c), d), e), f), g) h) e i) de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2007, las compras de cosechas nacionales que se considerarán serán las siguientes:
-
-- Las compras efectuadas y facturadas en 2007 de los siguientes granos forrajeros: maíz amarillo, maíz blanco, sorgo, trigo, cebada y avena de los ciclos agrícolas Primavera-Verano/2006-2006, Otoño-Invierno/2006-2007 y Primavera-Verano/2007-2007.
-
-Estas compras de granos de cosechas nacionales, deberán ser registradas ante la Oficina Regional de ASERCA/SAGARPA que corresponda al estado productor de dichos granos, mediante Reporte Certificado de Auditor Externo(1), registrado ante la Secretaría de Hacienda y Crédito Público, que relacione y certifique la realización de sus compras de grano y el origen del mismo.
-
-Las Direcciones Regionales de ASERCA/SAGARPA harán llegar a la Dirección General de Desarrollo de Mercados de manera oficial, reportes detallados de la compra-venta de granos que hayan realizado las personas físicas o morales con los productores (mediante oficios y anexando copias de cada uno de los Reportes Certificados de Auditor Externo(1) registrado ante la Secretaría de Hacienda y Crédito Público que relacione y certifique sus compras) en cada uno de los estados que son atendidos por estas oficinas y que cuenten con registro y validación de las mismas.
-
-1 El auditor externo deberá indicar su número de registro vigente y firmar cada una de las hojas y anexos que integren su Reporte Certificado.
-
-Los Reportes Certificados de Auditor Externo, también podrán ser entregados por los interesados directamente en la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, con domicilio en Municipio Libre número 377, piso 10, ala “B”, colonia Santa Cruz Atoyac, Delegación Benito Juárez, código postal 03310, México, D.F.
-
-Con base en la información anterior y la que remita la Secretaría de Economía, sobre los consumos auditados de maíz amarillo importado bajo cupo en 2006 por empresa, a través de la Dirección General de Comercio Exterior, la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA calculará el 25% del consumo anual auditado de maíz amarillo importado bajo cupo en 2006, o en su caso, el reportado para la asignación de cupo mínimo de maíz amarillo de 2007, emitiendo una o varias de las siguientes opiniones por solicitud:
-
-a). La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Cuarto, inciso A), de este Acuerdo, para ser beneficiaria de asignación de la cuota adicional de maíz amarillo de importación TLCAN para el año de 2007.
-
-b). La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Cuarto, inciso B), de este Acuerdo, para ser beneficiaria de asignación de la cuota adicional de maíz amarillo de importación TLCAN para el año 2007.
-
-c). La empresa (nombre de la empresa) no ha acreditado compromisos de agricultura por contrato y/o contratos de compra-venta, por lo que se aplicará lo considerado en el Artículo Cuarto inciso C) o Artículo Quinto inciso C), según sea el caso, para ser beneficiaria de asignación de la cuota adicional de maíz amarillo de importación TLCAN para el año 2007.
-
-d). La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Quinto, inciso A), de este Acuerdo, para ser beneficiaria de asignación de la cuota adicional de maíz amarillo de importación TLCAN para el año de 2007.
-
-e). La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Quinto, inciso B), de este Acuerdo, para ser beneficiaria de asignación de la cuota adicional de maíz amarillo de importación TLCAN para el año 2007.
-
-f) La empresa (nombre de la empresa) no ha acreditado compromisos de agricultura por contrato y/o contratos de compra-venta equivalentes al 25% del consumo anual auditado de 2006 de maíz amarillo importado bajo cuota, si no ha sido beneficiario del cupo mínimo de maíz en el 2007 o, en su caso, del consumo reportado para la asignación de cupo mínimo de maíz amarillo en 2007.
-
-g) La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Sexto, debido a que su ofrecimiento de oportunidades de agricultura por contrato no han sido concretadas, por lo que no ha sido posible cumplir con los compromisos bajo los esquemas de agricultura por contrato de granos cosechas nacionales, en caso de que el Comité Nacional Sistema Producto-Maíz dictamine la solicitud favorablemente, la repuesta incluirá el monto no concretado que será equivalente al monto a asignar de cupo adicional de maíz amarillo.
-
-h). La empresa (nombre de la empresa) no ha acreditado lo referente al Artículo Sexto, debido a que su ofrecimiento de oportunidades de agricultura por contrato no concretadas, no fue demostrado por la empresa, ante el Comité Nacional Sistema Producto-Maíz, por lo que dicho Comité dictaminó no favorable la solicitud.
-
-i). La empresa (nombre de la empresa) se encuentra imposibilitada /no se encuentra imposibilitada en cumplir con los compromisos bajo los esquemas de agricultura por contrato o contratos de compra-venta de granos cosechas nacionales.
-
-j). La empresa (nombre de la empresa) ha acreditado lo referente al Artículo Décimo Primero, debido a que su compromiso de compra de cosechas nacionales bajo los esquemas de agricultura por contrato y/o contrato de compra venta, no fueron cumplidos por parte del agricultor; dicho incumplimiento ha sido avalado por el Comité Nacional Sistema Producto-Maíz, quien dictaminó la solicitud favorablemente, la repuesta incluirá el monto del incumplimiento.
-
-k). La empresa (nombre de la empresa) no ha acreditado lo referente al Artículo Décimo Primero, debido a que no se demostró el incumplimiento por parte del agricultor, por lo que el Comité Nacional Sistema Producto-Maíz, dictaminó no favorable la solicitud.
-
-SECRETARIA DE ECONOMIA
-
-DIRECCION GENERAL DE COMERCIO EXTERIOR
-
-DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION
-
-2007
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 26 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
