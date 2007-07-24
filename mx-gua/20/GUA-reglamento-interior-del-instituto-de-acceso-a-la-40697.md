@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-acceso-a-la-40697"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-20"
-last_updated: "2004-08-20"
+last_updated: "2007-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de agosto de 2004.
 
@@ -117,17 +117,21 @@ II. La Dirección General.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO Y LOS CONSEJEROS
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 7.
 
-El Consejo, es el máximo órgano del Instituto, en los términos de la Ley y del presente Reglamento. Se integra por tres Consejeros, nombrados conforme a lo dispuesto en el artículo 30 de la Ley.
+El Consejo, es el órgano colegiado del Instituto, en los términos de la Ley y del presente Reglamento. Se integra por tres Consejeros, nombrados conforme a lo dispuesto por el artículo 30 de la Ley.
 
 ###### Artículo 8.
 
 Son atribuciones del Consejo, además de las previstas en la Ley, las siguientes:
 
-I. Sesionar por lo menos una vez por semana;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-II. Acordar con el Director General el nombramiento del personal adscrito al Consejo;
+I. Sesionar por lo menos cada quince días;
+
+II. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 III. Calificar excusas y recusaciones de los Consejeros y en su caso acordar el returno del asunto para formulación de ponencia;
 
@@ -135,43 +139,57 @@ IV. Calificar las renuncias o ausencias definitivas de algún Consejero y notifi
 
 V. Imponer los medios de apremio o las sanciones que procedan, conforme a lo previsto en el artículo 56 de la Ley;
 
-VI. Contar con un libro de actas foliado y firmado en cada foja por los participantes de cada sesión;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-VII. Definir, conjuntamente con la Dirección General, los lineamientos sobre la difusión de las resoluciones emitidas en los casos de los recursos previstos en el Título Tercero de la Ley;
+VI. Contar con un libro de actas, que deberán estar firmadas en cada foja por los participantes de cada sesión;
+
+VII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 VIII. Contar con un libro de gobierno para el registro de los expedientes que se instauren con motivo del Recurso de Revisión;
 
-IX. Aprobar en la primera quincena del mes de septiembre, los planes, programas y el anteproyecto de presupuesto del Instituto;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-X. Aprobar las modificaciones a los planes, programas y aplicación del presupuesto del Instituto;
+IX. Aprobar en la primera quincena del mes de Octubre los anteproyectos de presupuesto, planes y programas del Instituto de conformidad con la ley de la materia;
 
-XI. Solicitar al Ejecutivo del Estado, la creación o modificación de partidas cuando así se requiera;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-XII. Aprobar el informe anual de actividades que le presente el Director General a más tardar, el quinto día hábil del mes de octubre; así como los demás informes que en el cumplimiento de sus atribuciones éste le rinda;
+X. Autorizar las transferencias dentro de las partidas del presupuesto del Instituto;
 
-XIII. Vigilar el cumplimiento de las normas aplicables al proceso de formulación, ejecución, evaluación y control de los programas y aplicación del presupuesto del Instituto;
+XI. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-XIV. Dar vista, en su caso, a la instancia correspondiente, cuando se actualice alguno de los supuestos previstos en el artículo 54 de la Ley;
+(REFORMADA, P.O. 24 DE JULIO DE 2007) (F. DE E., P.O. 5 DE OCTUBRE DE 2007)
 
-XV. Desahogar las consultas que cualquier sujeto obligado con facultad de iniciativa, le formule al Instituto para reformas o adiciones a la Ley;
+XII. Aprobar en la segunda quincena del mes de Octubre el Informe Anual de Actividades del Instituto que le presente el Director General;
 
-XVI. Opinar sobre los proyectos de reglamentos en materia de Acceso a la Información Pública, cuando así lo solicite cualquier sujeto obligado;
+XIII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-XVII. Aprobar, a propuesta del Director General, el establecimiento de oficinas regionales de orientación, difusión y capacitación del Instituto;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-XVIII. Autorizar la firma de convenios y contratos en los términos que señalan las leyes de la materia;
+XIV. Exhortar a la Dirección General para que de vista, en su caso, a la instancia correspondiente, cuando se actualice alguno de los supuestos previstos en el artículo 54 de la Ley;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XV. Desahogar, conjuntamente con la Dirección General, las consultas que cualquier sujeto obligado con facultad de iniciativa, le formule al Instituto para reformas o adiciones a la Ley;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XVI. Opinar, conjuntamente con la Dirección General, sobre los proyectos de reglamentos en materia de Acceso a la Información Pública, cuando así lo solicite cualquier sujeto obligado;
+
+XVII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
+
+XVIII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 XIX. Resolver el Recurso de Revisión, y recabar los elementos necesarios para mejor proveer cuando lo juzgue necesario;
 
-XX. Actuar como Unidad de Enlace a través de su Presidente, en el procedimiento de Acceso a la Información, solicitada al Instituto;
+XX. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-XXI. Otorgar las licencias y permisos provisionales de los Consejeros, el Secretario de Acuerdos y demás personal adscrito al propio Consejo, así como del Director General;
+XXI. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-XXII. Tener bajo su mando y responsabilidad al personal adscrito al Consejo;
+XXII. (DEROGADA, P.O. 24 DE JULIO DE 2007) (F. DE E., P.O. 5 DE OCTUBRE DE 2007)
 
-XXIII. Acordar a petición de parte legitimada, la expedición de copias certificadas de las constancias que obren en los expedientes derivados del Recurso de Revisión, previo pago de los derechos fiscales;
+XXIII. (DEROGADA, P.O. 24 DE JULIO DE 2007) (F. DE E., P.O. 5 DE OCTUBRE DE 2007)
 
-XXIV. Aprobar, en su caso, el informe anual del propio Consejo, que debe rendir a través de su Presidente; y
+XXIV. (DEROGADA, P.O. 24 DE JULIO DE 2007) (F. DE E., P.O. 5 DE OCTUBRE DE 2007)
 
 XXV. Abrogar, derogar o adicionar el presente Reglamento.
 
@@ -183,9 +201,11 @@ Para el cumplimiento de sus atribuciones, el Consejo debe contar con un Secretar
 
 La Dirección General, debe proveer al Consejo, los recursos humanos y materiales necesarios para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 11.
 
-El Presidente del Consejo es designado por sus integrantes y permanece en su cargo un año, a partir del primero de noviembre, sin que pueda ser reelecto para el periodo inmediato.
+El Presidente del Consejo es designado cada año por sus integrantes y fungirá con tal carácter a partir del primero de Noviembre.
 
 ###### Artículo 12.
 
@@ -197,15 +217,17 @@ II. Convocar a sesión del Consejo;
 
 III. Presidir las sesiones del Consejo, previa verificación de la existencia de quórum;
 
-IV. Someter a la aprobación del pleno en la sesión inmediata posterior, el acta respectiva;
+IV. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 V. Dirigir los debates de cada sesión;
 
-VI. Rendir el informe anual el día 31 de octubre de cada año;
+VI. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-VII. Elaborar el plan anual de trabajo del Consejo, a más tardar en la primera semana del mes de septiembre, a fin de incorporarlo al plan general del Instituto;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-VIII. Elaborar el informe anual de actividades del Consejo;
+VII. Elaborar el plan anual de trabajo del Consejo, a más tardar en la primera semana del mes de Octubre, a fin de incorporarlo al plan general del Instituto;
+
+VIII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 IX. Guardar y hacer guardar el ordenen cada sesión del Consejo;
 
@@ -215,9 +237,29 @@ XI. Decretar recesos en las sesiones del Consejo cuando el caso lo amerite;
 
 XII. Recibir del Director General, los expedientes relativos a los Recursos de Revisión y turnarlos al Pleno del Consejo para resolver sobre su admisión, y en su caso, el turno al Consejero ponente que corresponda;
 
-XIII. Contar con voto de calidad en las sesiones del Consejo; y
+XIII. Contar con voto de calidad en las sesiones del Consejo; y (sic)
 
-XIV. Actuar como unidad de enlace entre el Consejo y la Unidad de Acceso, en el procedimiento de Acceso a la Información Pública.
+XIV. Actuar como unidad de enlace entre el Consejo y la Unidad de Acceso, en el procedimiento de Acceso a la Información Pública;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XV. Acordar con el Director General el nombramiento del personal adscrito al Consejo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XVI. Tener bajo su mando y responsabilidad el personal adscrito al Consejo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XVII. Acordar a petición de parte legitimada, la expedición de constancias certificadas que obren en los expedientes derivados del Recurso de Revisión, previo pago de los derechos fiscales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XVIII. Desahogar las solicitudes de los consejeros sobre información del Instituto; y
+
+(ADICIONADA, P.O. 24 DE JULIO DE 2007) (F. DE E., P.O. 4 DE SEPTIEMBRE DE 2007)
+
+XIX. Solicitar al Director General de información que requieran los consejeros para el cumplimiento de sus atribuciones.
 
 ###### Artículo 13.
 
@@ -239,7 +281,9 @@ V. Asistir a reuniones de trabajo;
 
 VI. Proponer al Presidente del Consejo, la inclusión de temas en el orden del día de las sesiones del Consejo;
 
-VII. Asistir a actos públicos a nombre del Instituto, cuando así lo acuerden el Consejo y el Director General;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+VII. Asistir y presentar ponencias en actos públicos a nombre del Instituto, cuando así lo acuerden el Presidente del Consejo y el Director General;
 
 VIII. Tener bajo su responsabilidad, los bienes muebles que para el desempeño de sus funciones le sean asignados por el Director General, previa firma del resguardo respectivo;
 
@@ -247,7 +291,9 @@ IX. Suscribir los acuerdos, actas y resoluciones del Consejo;
 
 X. Suplir al Consejero Presidente en sus faltas temporales, conforme a lo previsto en este Reglamento; y
 
-XI. Solicitar y obtener de las diferentes direcciones del Instituto, la información necesaria para el cumplimiento de sus atribuciones.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XI. Solicitar y obtener de las diferentes direcciones del Instituto, la información necesaria para el cumplimiento de sus atribuciones, por conducto del Presidente del Consejo.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE ACUERDOS DEL CONSEJO
 
@@ -311,33 +357,43 @@ Son atribuciones del Director General, además de las previstas por la Ley, las 
 
 I. Actuar como Unidad de Enlace, en el procedimiento de Acceso a la Información;
 
-II. Gestionar la firma de convenios con las diversas autoridades educativas en todos los niveles, a fin de llevar a cabo la inclusión de la materia de Acceso a la Información en los programas de estudio, según sea el caso;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+II. Gestionar la firma de convenios con las diversas autoridades educativas en todos los niveles, a fin de llevar a cabo la inclusión de la asignatura de Acceso a la Información en los programas de estudio;
 
 III. Suscribir convenios, formulando las bases y requisitos para que los mismos se apeguen a la Ley y demás ordenamientos aplicables;
 
-IV. Autorizar la firma de contratos y compras que no necesiten ser licitadas en los términos que señalen las leyes de la materia;
+IV. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 V. Establecer los plazos para la presentación de proyectos de planes y programas de trabajo por parte de las direcciones de área, así como sus respectivos informes de actividades;
 
-VI. Elaborar los planes y programas del Instituto para someterlos a consideración del Consejo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-VII. Elaborar el anteproyecto anual de presupuesto de egresos y presentarlo al Consejo para su aprobación, a más tardar en el mes de agosto;
+VI. Elaborar los planes y programas del Instituto y someterlos a consideración del Consejo para su aprobación;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+VII. Elaborar el anteproyecto anual de presupuesto de egresos y presentarlo al Consejo para su aprobación, a más tardar en el mes de Septiembre;
 
 VIII. Establecer las bases de operación del Instituto;
 
-IX. Emitirlos lineamientos para la difusión del Derecho de Acceso a la Información Pública;
+IX. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 X. Delegar la representación legal del Instituto;
 
 XI. Aplicar los criterios que en materia de servicio civil de carrera establezcan las disposiciones jurídicas aplicables;
 
-XII. Elaborar un informe anual de las actividades del Instituto y presentarlo al Consejo, dentro de los 10 primeros días hábiles del mes de octubre, así como los demás que le sean solicitados por el propio Consejo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XII. Elaborar y presentar en la primera quincena del mes de Octubre al Consejo para su aprobación, el informe Anual de de Actividades del Instituto;
 
 XIII. Asistir a las sesiones del Consejo, excepto a aquéllas en las que se resuelva el Recurso de Revisión;
 
 XIV. Notificar los acuerdos del Consejo;
 
-XV. Acordar con el Consejo, la designación del personal que deba adscribirse a éste;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XV. Acordar con el Presidente del Consejo, la designación del personal que deba adscribirse a éste;
 
 XVI. Acordar a petición de parte legitimada, la expedición de copias certificadas de las constancias que obren en los expedientes derivados del Recurso de Inconformidad, previo pago de los derechos fiscales;
 
@@ -351,9 +407,11 @@ XX. Supervisar la administración, registro, control, uso, mantenimiento y conse
 
 XXI. Supervisar el diseño, organización, promoción y realización de cursos, seminarios o diplomados que promuevan la cultura y el derecho de Acceso a la Información;
 
-XXII. Proponer a la (sic) autoridades educativas, los contenidos curriculares de asignaturas que versen sobre la importancia social del derecho de Acceso a la Información Pública;
+XXII. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-XXIII. Dar vista al Consejo para que aplique los medios de apremio que correspondan en caso de incumplimiento a la resolución por parte de un sujeto obligado;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XXIII. Dar vista al Consejo para que, en su caso, aplique los medios de apremio y sanciones que correspondan por el incumplimiento de las resoluciones derivadas de los medios de impugnación previstos por la Ley;
 
 XXIV. Delegar facultades en las unidades administrativas;
 
@@ -371,15 +429,35 @@ XXX. Substanciar lo conducente en el Recurso de Revisión, en los términos prev
 
 XXXI. Proponer al Presidente del Consejo, la inclusión de temas en el orden del día de las sesiones de dicho cuerpo colegiado;
 
-XXXII. Enterar al Consejo del otorgamiento de licencias al personal adscrito a la Dirección General, en la sesión inmediata siguiente a la fecha en que se conceda la misma;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XXXII. Enterar al Presidente del Consejo del otorgamiento de licencias al personal del Instituto;
 
 XXXIII. Dar seguimiento alas resoluciones derivadas del Recurso de Inconformidad;
 
-XXXIV. Despachar sin demora, los asuntos y correspondencia que se encuentren bajo su trámite;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
 
-XXXV. Solicitar de los sujetos obligados el apoyo que requiera para el cumplimiento de las funciones del Instituto; y
+XXXIV. Despachar los asuntos y correspondencia que se encuentren bajo su responsabilidad;
 
-XXXVI. Habilitar personal para recepción de promociones fuera de horario de oficina.
+XXXV. Solicitar de los sujetos obligados el apoyo que requiera para el cumplimiento de las funciones del Instituto;
+
+XXXVI. Habilitar personal para recepción de promociones fuera de horario de oficina;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XXXVII. Rendir el segundo jueves del mes de Noviembre el Informe Anula de Actividades del Instituto, previamente aprobado por el Consejo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XXXVIII. Definir conjuntamente con el Presidente del Consejo, los lineamientos sobre la difusión de las resoluciones emitidas en los casos de los recursos previstos por el Título Tercero de la Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XXXIX. Solicitar al Ejecutivo del Estado la creación de partidas presupuestales cuando así se requiera; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2007)</small>
+
+XL. Dar vista, en su caso, a la instancia correspondiente cuando se actualice alguno de los supuestos previstos por el artículo 54 de la Ley.
 
 ###### Artículo 20.
 
@@ -705,19 +783,23 @@ Las sesiones del Consejo son ordinarias, extraordinarias o solemnes. La convocat
 
 En las sesiones en que se trate un Recurso de Revisión, deben estar presentes solamente los Consejeros y el Secretario de Acuerdos del Consejo.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 37.
 
-El Consejo sesiona a convocatoria de su Presidente. Ésta debe contener el lugar, día, hora, el orden del día y en su caso, la información necesaria para su desarrollo.
+El Consejo sesiona a convocatoria de su Presidente. Esta debe contener el lugar, día, hora, el orden del día y en su caso, la información necesaria para su desarrollo.
 
-Si el Presidente no convoca a sesión durante dos semanas consecutivas, la convocatoria puede ser emitida conjuntamente por los otros dos Consejeros, cumpliendo las formalidades establecidas en el párrafo anterior.
+Si el Presidente no convoca a sesión durante un mes, la convocatoria puede ser emitida conjuntamente por los otros dos consejeros cumpliendo con las formalidades establecidas en el párrafo anterior.
 
 ###### Artículo 38.
 
 Las resoluciones o acuerdos del Consejo pueden ser tomadas por unanimidad, mayoría de votos o mediante voto de calidad. Para sesionar válidamente se requiere de la asistencia cuando menos de dos de sus integrantes.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 39.
 
-El Consejo, debe sesionar cuando menos una vez a la semana.
+El Consejo debe sesionar por lo menos cada quince días.
 
 ###### Artículo 40.
 
@@ -735,9 +817,11 @@ I. La discusión y, en su caso, modificación al presente Reglamento;
 
 II. El análisis y aprobación, en su caso, del anteproyecto de presupuesto de egresos del Instituto;
 
-III. Las licencias y permisos provisionales de cualesquiera de los Consejeros o del Director General;
+III. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-IV. La aprobación, en su caso, del informe anual del Instituto, mismo que en sesión solemne debe rendir el Consejero Presidente; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2007)</small>
+
+IV. La aprobación del Informe Anual del Instituto, mismo que en sesión solemne debe rendir el Director General; y
 
 V. Los asuntos de carácter urgente.
 
@@ -757,15 +841,19 @@ I. La presentación del informe anual de actividades y estado que guarda la admi
 
 II. Las demás que el Consejo acuerde.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 45.
 
-El Consejero que difiera de un acuerdo o de una resolución del Consejo, puede pedir que el sentido de su voto conste en el acta. Si lo desea, puede formular voto particular por escrito, mismo que se debe agregar al acta correspondiente a la sesión en que se tome dicho acuerdo, siempre que lo presente en un plazo no mayor de dos días siguientes a la decisión a que se refiera.
+El Consejero que difiera de una resolución del Consejo derivada de un medio de impugnación, puede pedir que el sentido de su voto conste en el acta; y así si lo desea, puede formular voto particular por escrito, mismo que se debe agregar al acta correspondiente de la sesión en que se formule dicha resolución, siempre que lo presente en un plazo no mayor de veinticuatro horas siguientes a la decisión que se refiera.
 
-El voto particular debe ser integrado en el texto de la resolución o acuerdo respectivo.
+El voto particular debe ser integrado en el texto de la resolución respectiva.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
 
 ###### Artículo 46.
 
-El Secretario de Acuerdos levanta el acta de cada sesión del Consejo; misma que debe ser leída y sometida para su aprobación en sesión posterior.
+El Secretario de Acuerdos levanta el acta de cada sesión del Consejo; misma que debe ser leída, sometida para su aprobación y firmada en la misma sesión, salvo acuerdo en contrario del propio Consejo.
 
 ###### Artículo 47.
 
@@ -775,11 +863,15 @@ Las actas de sesión, una vez aprobadas, deben ser firmadas por cada uno de los 
 
 DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 48.
 
-Los Consejeros están obligados a conocer de todos los asuntos de su competencia que les sean presentados, no pudiendo abstenerse de votar, a excepción de los asuntos en que deban hacerlo por tener interés directo o indirecto.
+Los Consejeros están obligados a conocer de todos los asuntos de su competencia que les sean presentados, no pudiendo abstenerse de votar, a excepción de los asuntos en que deban hacerlo por tener un interés directo o indirecto.
 
-Se considera que existe un interés directo o indirecto cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2007)</small>
+
+A excepción de la elección de Presidente del Consejo, se considera que existe un interés directo cuando:
 
 I. Tenga parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo grado, con alguna de las partes.
 
@@ -799,6 +891,10 @@ Cuando la excusa sea presentada por el Consejero que funja como Presidente, se d
 
 El Presidente Provisional debe convocar a sesión extraordinaria, exclusivamente para el desahogo del asunto que motivó la excusa.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2007)</small>
+
+Artículo 48 bis.- Las reglas previstas en el artículo 48 de este Ordenamiento no son aplicables al titular de la Dirección General, en virtud de que se trata de un órgano unipersonal.
+
 ###### Artículo 49.
 
 Las partes pueden recusar a los Consejeros cuando éstos se ubiquen en alguno de los supuestos o impedimentos a que se refiere el artículo anterior.
@@ -817,9 +913,11 @@ Cuando solo estén presentes dos Consejeros y uno de ellos este impedido, no pue
 
 Las ausencias deben ser cubiertas por la persona que sea designada por el Consejo o por el Director General, según el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 52.
 
-Los Consejeros, el Director General y el personal del Instituto, gozan de dos periodos de vacacionales al año, de diez días hábiles cada uno; el primero, en la segunda quincena del mes de julio; y el segundo, en la segunda quincena del mes de diciembre.
+El personal del Instituto goza de dos periodos vacacionales al año en los términos de la ley de la materia.
 
 El Director General debe designar al personal de guardia exclusivamente para la recepción de documentos durante dichos periodos.
 
@@ -835,9 +933,11 @@ La presentación de dicha solicitud debe hacerse en cualquier momento anterior a
 
 ### CAPÍTULO PRIMERO. DE LA UNIDAD DE ACCESO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 54.
 
-La Unidad de Acceso, es el vínculo entre el Instituto y el solicitante de la Información, goza le plena autonomía en el ejercicio de sus atribuciones y su titular es responsable de entregar o negar la información en los términos de la Ley.
+La Unidad de Acceso es el vínculo entre el instituto y el solicitante de la información, goza de autonomía técnica en el ejercicio de sus atribuciones y su titular es responsable de entregar o negar la información en los términos de la Ley.
 
 La Unidad de Acceso, debe contar con la estructura administrativa que requieran las necesidades del servicio y que permita el presupuesto.
 
@@ -847,13 +947,13 @@ Son atribuciones de la Unidad de Acceso, además de las previstas en la Ley, las
 
 I. Recabar y difundir la información del Instituto clasificada como pública;
 
-II. Elaborar, actualizar y publicar semestralmente, los índices de la información clasificada como reservada, en los términos de la Ley;
+II. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 III. Vigilar que sólo se distribuyan o difundan los datos personales contenidos en los sistemas de la Unidad de Acceso, cuando medie el consentimiento expreso de las personas a que haga referencia la información pública;
 
-IV. Proporcionarlos datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley;
+IV. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
-V. Tramitar el procedimiento de acceso y corrección de datos personales;
+V. (DEROGADA, P.O. 24 DE JULIO DE 2007)
 
 VI. Aplicar los criterios de organización de archivos;
 
@@ -1115,37 +1215,27 @@ En caso de que el particular no señalé domicilio para recibir notificaciones, 
 
 ###### Artículo 96.
 
-El procedimiento de corrección de datos personales inicia a petición de parte interesada, dirigida a la Unidad de Acceso.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ###### Artículo 97.
 
-La solicitud de corrección de datos personales debe ser presentada por escrito, acompañando una identificación oficial y en su caso, documentos que acrediten su personalidad; y debe contener:
-
-I. Nombre del solicitante, y domicilio para recibir notificaciones, el cual debe ubicarse en la cabecera municipal del domicilio del Instituto;
-
-II. Los datos que se pretenden corregir, haciendo referencia en donde consten los mismos;
-
-III. Indicar y acreditar los datos correctos; y
-
-IV. En caso de que se pretendan completar los datos personales, indicar la información faltante.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ###### Artículo 98.
 
-La Unidad de Acceso, una vez recibida la solicitud, si observa la omisión de alguno de los requisitos que previene el artículo que antecede, debe requerir al solicitante para que los subsane en el término de 3 días y en caso de incumplimiento, desechará de plano dicha solicitud.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ###### Artículo 99.
 
-Cuando se hayan satisfecho los requisitos de la solicitud, la Unidad de Acceso debe requerir a la Unidad de Enlace que corresponda para que remita dentro de los 5 días hábiles siguientes, el documento o proceder, en su caso, a la corrección de los mismos o a su complementación.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ###### Artículo 100.
 
-Si resulta procedente la corrección o la complementación de los datos personales, la Unidad de Acceso debe emitir un acuerdo en el que se instruya a la Unidad de Enlace correspondiente a realizar la corrección o complementación de los mismos, señalando los datos correctos e indicando que se anexe a la corrección del documento, el acuerdo de modificación o complementación de éstos.
-
-Hecho lo anterior, la Unidad de Acceso debe notificar al solicitante el acuerdo correspondiente, dentro de un plazo de 30 días hábiles contados a partir de la recepción de la solicitud.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ###### Artículo 101.
 
-De resultar improcedente la corrección o complementación de los datos personales, de igual manera la Unidad de Acceso, debe notificar el acuerdo respectivo al solicitante, expresando los motivos y fundamentos legales que haya tomado en consideración para tal efecto, dentro del mismo plazo a que se refiere el artículo anterior.
+(DEROGADO, P.O. 24 DE JULIO DE 2007)
 
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO PARA LA SUBSTANCIACIÓN Y RESOLUCIÓN DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -1281,9 +1371,11 @@ Toda resolución debe ser notificada, dentro de los 3 días siguientes, a aquel 
 
 La resolución que sea favorable al particular, debe contener el término para su cumplimiento, computando dicho término a partir de que cause estado la misma.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2007)</small>
+
 ###### Artículo 122.
 
-Una vez transcurrido el término concedido al titular de la Unidad de Acceso del sujeto obligado, para dar cumplimiento a la resolución emitida con motivo del Recurso de Inconformidad; si esto no ocurre en sus términos, el Director General debe dar vista al Consejo, quien puede hacer uso de los medios de apremio, y en su caso, aplicar las sanciones previstas en la Ley.
+Una vez transcurrido el término concedido al titular de la Unidad de Acceso del sujeto obligado, para dar cumplimiento a la resolución emitida con motivo de los medios de impugnación; si esto no ocurre en sus término (sic), el Director General debe dar vista al Consejo, quien puede hacer uso de los medios de apremio, y en su caso, aplicar las sanciones previstas en la Ley.
 
 La vista a que se refiere el párrafo que antecede, debe contener:
 
@@ -1372,3 +1464,11 @@ Eduardo Aboltes Arredondo.
 Secretaria de Acuerdos
 
 Jésica Barajas Gómez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JULIO DE 2007.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas a este Reglamento entran en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
