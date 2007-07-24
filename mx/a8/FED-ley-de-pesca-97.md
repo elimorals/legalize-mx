@@ -4,7 +4,7 @@ identifier: "FED-ley-de-pesca-97"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "2001-01-08"
+last_updated: "2007-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-06-23"
 
 LEY DE PESCA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS SEGUNDO Y NOVENO TRANSITORIOS DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, PUBLICADA EN EL D.O.F. DE 24 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CONTINUANDO VIGENTE LA LEY DE PESCA DEL 25 DE JUNIO DE 1992, HASTA EN TANTO LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS EXPIDAN LAS LEYES PREVISTAS EN LOS ARTICULOS 13 Y 14 DE LA NUEVA NORMA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 25 de junio de 1992.
 
@@ -418,3 +420,45 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
 
 TERCERO.- En tanto concluye su vigencia cualquier permiso expedido en sentido contrario a esta reforma, la autoridad administrativa vigilará el exacto cumplimiento de las obligaciones contraídas por los permisionarios.
+
+D.O.F. 24 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Pesca publicada en el Diario Oficial de la Federación el día 25 de junio de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Los titulares de concesiones, permisos y autorizaciones otorgados con anterioridad a la expedición de esta Ley, no serán afectados a su entrada en vigor en los derechos y obligaciones consignados en los mismos.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes de concesiones, permisos y autorizaciones cuya tramitación haya iniciado con anterioridad a la expedición de la presente Ley, y que se encuentren pendientes de resolución, deberán ser resueltas conforme a las disposiciones jurídicas y administrativas vigentes al momento en que aquéllas fueron ingresadas.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos y recursos administrativos relacionados con las materias de la Ley de Pesca, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, y las demás disposiciones aplicables en la materia de que se trate.
+
+###### ARTÍCULO SEXTO.
+
+El Reglamento de la presente Ley deberá ser expedido por el Presidente de la República dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento legal. Mientras se expide dicho Reglamento, seguirá vigente el Reglamento de la Ley de Pesca publicado en el Diario Oficial de la Federación el 29 de septiembre de 1999, en lo que no contravenga las disposiciones de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Circular relativa a los procedimientos administrativos de inspección y calificación de infracciones en materia de pesca y acuacultura, publicada en el Diario Oficial de la Federación el 5 de diciembre de 2003, continuará en vigor en lo que no se oponga a lo establecido en el Título Noveno de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+La presente Ley será aplicable, sin menoscabo de las atribuciones que competan a otras dependencias de la Administración Pública Federal, de conformidad con las leyes que resulten aplicables.
+
+###### ARTÍCULO NOVENO.
+
+En tanto las legislaturas de las Entidades Federativas expidan las leyes previstas en los artículos 13 y 14 de esta Ley, se continuará aplicando en lo conducente la Ley de Pesca promulgada y publicada en el Diario Oficial de la Federación el 25 de junio de 1992.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
