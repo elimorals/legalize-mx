@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2007-07-13"
+last_updated: "2007-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -1627,9 +1627,11 @@ Las acciones correctivas y sanciones a que hace referencia el presente Capítulo
 
 ### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 115.
 
-Contra los actos y resoluciones administrativas, que dicten o ejecuten las autoridades competentes, los afectados podrán interponer el recurso de inconformidad ante la propia autoridad que las haya emitido, cuyo efecto será confirmar, modificar o revocar los actos administrativos impugnados.
+Contra cualquiera de los actos y resoluciones administrativas, incluyendo el procedimiento para el otorgamiento de concesiones, licencias especiales o placas, o la cancelación, revocación o suspensión de éstas, o bien la imposición de cualquiera de las medidas de seguridad, acciones correctivas y sanciones que se prevén en la presente Ley, que dicten o ejecuten las autoridades competentes, los afectados podrán interponer el recurso de inconformidad ante la propia autoridad que las haya emitido, cuyo efecto será confirmar, modificar o revocar los actos administrativos impugnados.
 
 ###### Artículo 116.
 
@@ -1663,9 +1665,15 @@ III.- Los documentos en que se haga constar la notificación de la misma en caso
 
 IV.- Las pruebas que ofrezca.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 119.
 
-Al recibirse el recurso, se verificará si éste cumple con los requisitos establecidos en el presente capítulo, decretando su admisión o desechamiento. Una vez admitido, se remitirá de inmediato, junto con el expediente que contenga los antecedentes del caso, al área jurídica de la Agencia, para que continúe con el trámite del mismo y dentro de un plazo no mayor a treinta días, someta a consideración de la autoridad competente la resolución que corresponda.
+Al recibirse el recurso, se verificará si éste cumple con los requisitos establecidos en el presente Capítulo, decretando su admisión o desechamiento. Una vez admitido, se remitirá de inmediato, junto con el expediente que contenga los antecedentes del caso, al área jurídica de la Agencia, para que continúe con el trámite del mismo.
+
+Recibido el escrito y admitido el recurso, para el caso de que algunas de las pruebas ofrecidas amerite una forma de desahogo especial, la Agencia citará para una audiencia que tendrá lugar dentro de los diez días hábiles siguientes, en la que se llevará a cabo dicho desahogo, y dictará la resolución que corresponda dentro del plazo de treinta días hábiles posteriores a que se efectúe la audiencia.
+
+Admitido el recurso sin que hubiere necesidad de celebrar la audiencia a que se refiere el párrafo anterior, la Agencia resolverá en un plazo no mayor a treinta días hábiles.
 
 ###### Artículo 120.
 
@@ -1748,5 +1756,9 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE JULIO DE 2007
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
