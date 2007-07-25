@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "2007-03-13"
+last_updated: "2007-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -85,7 +85,9 @@ b) Internamiento y adaptación de adolescentes infractores.
 
 VI.- Las autoridades administrativas de formación a la carrera policial;
 
-VII.- Los servicios privados de seguridad y otros auxiliares en seguridad pública; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2007)</small>
+
+VII.- Los prestadores de servicios de seguridad privada y otros auxiliares en seguridad pública;
 
 VIII.- Otras autoridades relacionadas con la seguridad pública.
 
@@ -123,7 +125,9 @@ V.- Suministro, intercambio y sistematización de todo tipo de información sobr
 
 VI.- Acciones policiales conjuntas;
 
-VII.- Regulación y control de los servicios privados de seguridad y otros auxiliares;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2007)</small>
+
+VII.- Regulación y control de los servicios de seguridad privada y otros auxiliares;
 
 VIII.- Relaciones con la comunidad y fomento de la cultura de prevención de infracciones y delitos; y
 
@@ -173,9 +177,9 @@ VI.- Los representantes en el Estado de la Secretaría de la Defensa Nacional y 
 
 VII.- Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-A convocatoria del Consejo, participarán además los servidores públicos, que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública, así como las personas que presten servicios privados de seguridad y otras auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto. Todos lo (sic) cargos del Consejo son honoríficos.
+A convocatoria del Consejo, participarán además los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública, así como las personas que presten servicios de seguridad privada y otras auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto. Todos los cargos del Consejo son honoríficos.
 
 ###### Artículo 9o.
 
@@ -407,13 +411,17 @@ Cuando para la realización de acciones conjuntas se comprendan materias que reb
 
 ### CAPITULO I. DEL REGISTRO ESTATAL DE SEGURIDAD PUBLICA
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 27.
 
-A fin de que se integre al Subsistema de Información Nacional sobre Seguridad Pública, el Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, promoverá la celebración de convenios para el suministro, intercambio y sistematización de información sobre Seguridad Pública, mediante los instrumentos tecnológicos que permitan el fácil y rápido acceso a las autoridades, exceptuándose a los prestadores de los servicios privados de seguridad y a otros auxiliares en la materia.
+A fin de que se integre al Subsistema de Información Nacional sobre Seguridad Pública, el Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, promoverá la celebración de convenios para el suministro, intercambio y sistematización de información sobre Seguridad Pública, mediante los instrumentos tecnológicos que permitan el fácil y rápido acceso a las autoridades, exceptuándose a los prestadores de los servicios de seguridad privada y a otros auxiliares en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
 
 ###### Artículo 28.
 
-En el Estado, se implementarán sistemas de registro en materia de seguridad pública, utilizando para tal fin los medios tecnológicos idóneos que permitan una fácil consulta a las autoridades, exceptuándose a los prestadores de los servicios privados de seguridad y a otros auxiliares en la materia.
+En el Estado, se implementarán sistemas de registro en materia de seguridad pública, utilizando para tal fin los medios tecnológicos idóneos que permitan una fácil consulta a las autoridades, exceptuándose a los prestadores de los servicios de seguridad privada y a otros auxiliares en la materia.
 
 En todo caso el Ejecutivo del Estado, reglamentará lo necesario a fin de instrumentar los Registros.
 
@@ -429,27 +437,35 @@ También se determinarán las condiciones de seguridad sobre manejo y acceso a l
 
 ### CAPITULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 31.
 
-El Registro Estatal de Seguridad Pública, resguardará la información relativa al personal de los elementos de seguridad pública del Estado, los Municipios, los prestadores de los servicios privados y otros auxiliares, exceptuándose a las autoridades judiciales, y contendrá por lo menos:
+El Registro Estatal de Seguridad Pública, resguardará la información relativa al personal de los elementos de seguridad pública del Estado, los Municipios, exceptuándose a las autoridades judiciales, y contendrá por lo menos:
 
-I.- Los datos que permitan identificar plenamente y localizar al servidor público, o prestador del servicio, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública o privada;
+I.- Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública o privada;
 
-II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público o prestador de servicios privados;
+II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público;
 
 III.- Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
 
-Cuando a los integrantes de las instituciones de seguridad pública, o servicios privados se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente al Registro.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
+
+Cuando a los integrantes de las instituciones de seguridad pública, se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, conforme (sic) o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente al Registro.
 
 Las órdenes de aprehensión o arresto administrativo se notificarán cuando no pongan en riesgo la investigación o la causa procesal.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 32.
 
-Las autoridades de seguridad pública en el Estado, inscribirán y mantendrán actualizados en el Registro los datos relativos a los integrantes de las instituciones de seguridad pública y de los servicios privados, en los términos de esta Ley y el reglamento.
+Las autoridades de seguridad pública en el Estado, inscribirán y mantendrán actualizados en el Registro los datos relativos a los integrantes de las instituciones de seguridad pública, en los términos de esta Ley y el Reglamento.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
 ###### Artículo 33.
 
-La consulta del Registro será obligatoria y previa al ingreso de todas las personas a cualquier institución policial estatal o municipal, incluyendo a las de formación policial, y los servicios privados. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
+La consulta del Registro será obligatoria y previa al ingreso de todas las personas a cualquier institución policial estatal o municipal, incluyendo a las de formación policial. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
 ###### Artículo 34.
 
@@ -457,9 +473,11 @@ Los integrantes de las instituciones de seguridad pública portarán una identif
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
+
 ###### Artículo 35.
 
-Además de cumplir con lo dispuesto en otras Leyes, las autoridades de seguridad pública estatales y municipales, así como las personas que presten servicios privados de seguridad y otros auxiliares, deberán manifestar al Registro Estatal de Armamento y Equipo:
+Además de cumplir con lo dispuesto en otras Leyes, las autoridades de seguridad pública estatales y municipales deberán manifestar al Registro Estatal de Armamento y Equipo:
 
 I.- Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo;
 
@@ -481,13 +499,13 @@ En el caso de que los elementos de seguridad pública aseguren armas y/o municio
 
 El incumplimiento a las disposiciones de los artículos 36, 37, y 38 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
+(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2007).
+
 ### CAPITULO IV. DEL REGISTRO ESTATAL DE LOS SERVICIOS PRIVADOS DE SEGURIDAD Y DE OTROS AUXILIARES
 
 ###### Artículo 40.
 
-Además de aportar la información relativa a los Registros Estatales de Personal de Seguridad Pública y de Armamento y Equipo, las personas que presten los servicios privados de seguridad y otros auxiliares, deberán aportar mensualmente un reporte detallado de actividades al Consejo.
-
-El incumplimiento a esta disposición podrá ser causa de cancelación de la autorización y el registro para funcionar como prestadores del servicio.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ### CAPITULO V. DE LA ESTADISTICA DE SEGURIDAD PUBLICA
 
@@ -551,73 +569,45 @@ El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León por 
 
 ### CAPITULO II. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
-
 ###### Artículo 50.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o servicios de sistemas de alarmas; deberán registrarse ante la Secretaría de Seguridad Pública y obtener la autorización del Titular de esta Dependencia, o de quien éste designe para tales efectos mediante el acuerdo correspondiente. La Secretaría de Seguridad Pública deberá notificar por escrito a la brevedad posible a los Municipios del Estado sobre las autorizaciones que otorgue a empresas de seguridad privada.
-
-El Ejecutivo del Estado expedirá la reglamentación correspondiente a la prestación de los servicios privados de seguridad.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 51.
 
-Los prestadores de los servicios de seguridad privada son auxiliares a la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública cuando así se les requiera.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 52.
 
-Para los efectos de esta Ley se entenderá como prestador de los servicios privados de seguridad a:
-
-I.- Los organismos de seguridad privada, organizados internamente por instituciones y organizaciones auxiliares de crédito, industrias, establecimientos fabriles, o comerciales para su vigilancia interna, cuyos integrantes tengan una relación laboral o de prestación de servicios con la unidad económica en la que desempeñen sus funciones;
-
-II.- Las personas morales legalmente constituidas cuyo objeto social sea la prestación de servicios de seguridad privada, ya sea para la guarda o custodia de locales o para la transportación de valores. Quedan asimilados a este grupo las personas físicas que presten el servicio de seguridad privada por conducto de terceros empleados a su cargo;
-
-III.- Los grupos de seguridad en áreas urbanas que a su costa organicen los habitantes de colonias, fraccionamientos y zonas residenciales de áreas urbanas para ejercer, en cualquier horario la función única y exclusiva de resguardar las casas-habitación ubicadas en las áreas que previamente se señalen;
-
-IV.- Los custodios de personas, que presten servicios de seguridad personal a costa de quienes reciben tal servicio;
-
-V.- Los vigilantes individuales, que en forma independiente desempeñan la función de vigilancia en casas habitación;
-
-VI.- Las personas físicas o morales que presten los servicios de sistemas de alarmas en todas sus modalidades; y
-
-V (SIC).- Los otros auxiliares y en general toda persona física o moral de derecho privado, que en virtud de sus funciones, realice actividades relacionadas con la seguridad.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 53.
 
-Las personas físicas o morales que pretendan prestar servicios de seguridad privada en el Estado, deberán obtener autorización de la Secretaría de Seguridad Pública del Estado, y se inscribirán en el Libro de Registro de los prestadores de los servicios de seguridad privada. Ninguna persona física o moral, ni grupos o individuos podrán realizar dichas actividades si no han solicitado autorización y obtenido su registro en la citada dependencia.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 54.
 
-La Secretaría de Seguridad Pública, mediante acuerdo, deberá publicar anualmente en el Periódico Oficial del Estado y en uno de los de mayor circulación en la entidad los requisitos que deberán cumplirse para obtener el registro al que se hace referencia en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 55.
 
-Para la organización de grupos de seguridad en áreas urbanas, se requerirá la autorización de la Secretaría de Seguridad Pública, la que podrá dar vista para su opinión, a la Procuraduría General de Justicia en el Estado, y a la Autoridad Municipal que corresponda.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 56.
 
-Los sujetos a que se refiere (sic) las fracciones I, II, III y IV del artículo 52 de esta Ley, deberán capacitar a sus elementos bajo los lineamientos y programas de la Academia Estatal de Policía, a efecto de que éstos cuenten con los conocimientos necesarios para un eficaz desempeño de su función.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 57.
 
-La Secretaría de Seguridad Pública expedirá al organismo o compañía de seguridad privada la autorización correspondiente, en el que se haga constar el registro y sus características. También expedirá a los sujetos a que se refiere el artículo 53 de esta Ley, la credencial que los identifique como autorizados para realizar la función de servicios privados de seguridad.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 58.
 
-La autorización obtenida para funcionar como prestador de servicios privados de seguridad, no faculta para realizar investigaciones, intervenir o interferir en asuntos que sean competencia del Ministerio Público u organismos de seguridad pública, aún en los lugares o áreas de trabajo de los vigilantes o grupos de seguridad, en caso de que sucedan hechos que ameriten la intervención de la autoridad, la función de esos vigilantes o grupos cesará en cuanto hagan acto de presencia los Agentes del Ministerio Público o instituciones policiales.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ###### Artículo 59.
 
-Los particulares que presten estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta Ley y los demás ordenamientos aplicables, establecen para ellos; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para los registros, y en general proporcionar al Sistema de Seguridad Pública del Estado de Nuevo León la información estadística y sobre la delincuencia.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
 ### CAPITULO III. DE LOS SERVICIOS DE ATENCION A LA POBLACION
 
@@ -1266,3 +1256,11 @@ Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrará
 Artículo Segundo.- Los miembros de las instituciones policiales que antes de la fecha del inicio de vigencia del presente Decreto estén sujetos a algún procedimiento de responsabilidad o de remoción concluirán dichos procedimientos con las normas que éstos iniciaron.
 
 Artículo Tercero.- Los Ayuntamientos, en el ámbito de su competencia, en un plazo de 90-noventa días naturales contados desde la vigencia del presente Decreto, deberán expedir los reglamentos que regularán sus respectivas instituciones policiales para dar cabal cumplimiento de lo establecido en el último párrafo del artículo 68 de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León; asimismo realizarán las adecuaciones que resulten necesarias a la reglamentación municipal respectiva.
+
+P.O. 30 DE OCTUBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 2007
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
