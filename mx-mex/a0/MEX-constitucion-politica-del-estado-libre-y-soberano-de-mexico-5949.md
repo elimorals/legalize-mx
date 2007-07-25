@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2007-07-06"
+last_updated: "2007-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JULIO DE 2007.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1339,11 +1339,11 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 VI. No ser Secretario del despacho, Procurador General de Justicia del Estado, Senador, Diputado federal o local, o Presidente Municipal, a menos que se separe de su puesto un año antes del día de su designación.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 25 DE JULIO DE 2007)</small>
 
 ###### Artículo 92.
 
-No podrán reunirse en el Tribunal Superior de Justicia dos o más magistrados que sean parientes por consanguinidad en línea recta sin limitación de grado, colateral dentro del cuarto grado, o por afinidad dentro del segundo.
+No podrán integrar un Juzgado, Sala del Tribunal Superior de Justicia o Consejo de la Judicatura, dos o más parientes por consanguinidad en línea recta sin limitación de grado, colateral dentro del cuarto grado, o por afinidad dentro del segundo o cónyuges.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2077,10 +2077,6 @@ DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, X
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 4 DE JULIO DE 1942.
-
-El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
-
 G.G. 30 DE DICIEMBRE DE 1942.
 
 ###### ARTICULO TERCERO.
@@ -2109,7 +2105,7 @@ Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobi
 
 G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
 
 ###### Art. 1o.
 
@@ -2126,6 +2122,14 @@ Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamient
 P.O. 8 DE ENERO DE 1944
 
 DECRETO No. 32
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2162,28 +2166,6 @@ P.O. 17 DE OCTUBRE DE 1945
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 P.O. 20 DE ABRIL DE 1946
-
-###### ARTICULO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
-
-P.O. 31 DE DICIEMBRE DE 1947
-
-DECRETO No. 11
-
-Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
-
-P.O. 31 DE DICIEMBRE DE 1947
-
-DECRETO No. 12
-
-EL DECRETO DE REFORMAS CITADO CON ANTELACION NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
-
-P.O. 15 DE SEPTIEMBRE DE 1948
-
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
-
-P.O. 4 DE ENERO DE 1950
 
 ###### ARTICULO UNICO.
 
@@ -2305,11 +2287,25 @@ Este Decreto será aplicable solamente a los nombramientos de Magistrados del H.
 
 ###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-P.O. 31 DE ENERO DE 1976
+P.O. 31 DE DICIEMBRE DE 1947
 
-DECRETO NUMERO 38
+DECRETO No. 11
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+P.O. 31 DE DICIEMBRE DE 1947
+
+DECRETO No. 12
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 15 DE SEPTIEMBRE DE 1948
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 4 DE ENERO DE 1950
 
 ###### ARTICULO UNICO.
 
@@ -2353,7 +2349,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos a su cargo, hasta el término de su gestión.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 31 DE ENERO DE 1976
+
+DECRETO NUMERO 38
 
 ###### ARTICULO TERCERO.
 
@@ -2379,7 +2379,7 @@ EL presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magistrado faltante para integrar debidamente el Tribunal Superior de Justicia del Estado, y someter dicho nombramiento a la aprobación de la Legislatura.
+Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos a su cargo, hasta el término de su gestión.
 
 ###### ARTICULO TERCERO.
 
@@ -2421,11 +2421,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
-
-P.O. 30 DE ABRIL DE 1984
-
-DECRETO No. 244
+El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magistrado faltante para integrar debidamente el Tribunal Superior de Justicia del Estado, y someter dicho nombramiento a la aprobación de la Legislatura.
 
 ###### ARTICULO UNICO.
 
@@ -2493,6 +2489,18 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
+El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
+
+P.O. 30 DE ABRIL DE 1984
+
+DECRETO No. 244
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno"
+
+###### ARTICULO SEGUNDO.
+
 Para los efectos previstos por el Artículo 38 que se reforma, de la Constitución Política del Estado, el plazo a que se refiere el artículo 63, fracción VII de la Ley de Organizaciones Políticas y Procesos Electorales del Estado de México, se extenderá por esta única vez hasta treinta días naturales posteriores al inicio de la vigencia de este Decreto.
 
 P.O. 5 DE ENERO DE 1994
@@ -2543,9 +2551,9 @@ DÉCIMO QUINTO.- Los actos y procedimientos que con base en las disposiciones de
 
 P.O. 27 DE NOVIEMBRE DE 1997
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Publíquese el presente decreto en la "Gaceta del Gobierno"
+Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2559,14 +2567,6 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 P.O. 2 DE OCTUBRE DE 1998
 
-###### ARTICULO PRIMERO.
-
-Publíquese el presente decreto en la "Gaceta del Gobierno".
-
-###### ARTICULO SEGUNDO.
-
-Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
-
 ###### ARTÍCULO TERCERO.
 
 A efecto de dar cumplimiento al artículo 11, la Legislatura tomará los acuerdos correspondientes, a más tardar el día 30 de noviembre de 1998.
@@ -2579,9 +2579,7 @@ Publíquese en la "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-Este decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 16 DE MAYO DE 2001
+Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
 
 ###### ARTICULO PRIMERO.
 
@@ -2589,7 +2587,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+Este decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 16 DE MAYO DE 2001
 
 ###### ARTICULO TERCERO.
 
@@ -2606,6 +2606,14 @@ P.O. 16 DE ABRIL DE 2003
 ###### ARTICULO PRIMERO.
 
 Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
@@ -2637,7 +2645,7 @@ DECRETO NUMERO 44, POR EL QUE SE ADICIONA CON DOS PARRAFOS EL ARTICULO 5 DE LA C
 
 ###### ARTICULO PRIMERO.
 
-Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
@@ -2703,6 +2711,8 @@ G.G. 18 DE NOVIEMBRE DE 2005.
 
 DECRETO No. 184 POR EL QUE SE REFORMAN LOS ARTICULOS 102 EN SU SEGUNDO PARRAFO; 104 BIS EN SU SEGUNDO PARRAFO Y SEGUNDO TRANSITORIO CONTENIDOS EN EL DECRETO NUMERO 133 DE FECHA 17 DE FEBRERO DEL AÑO 2005, PUBLICADO EN LA GACETA DEL GOBIERNO EL 30 DE MAYO DEL AÑO INDICADO, RELATIVO A REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
 
+P.O. 18 DE NOVIEMBRE DE 2005.
+
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
@@ -2718,10 +2728,6 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 28 DE ABRIL DE 2006.
-
-###### ARTICULO PRIMERO.
-
-Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
@@ -2750,3 +2756,9 @@ G.G. 6 DE JULIO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE JULIO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
