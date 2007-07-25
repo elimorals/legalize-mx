@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-generales-en-materia-de-archivos-55404"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-05-09"
-last_updated: "2007-05-09"
+last_updated: "2007-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55404&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,634 +19,838 @@ scjn_last_update: "2007-07-25"
 ---
 # LINEAMIENTOS GENERALES EN MATERIA DE ARCHIVOS
 
-LEY DE COORDINACION DE SEGURIDAD PUBLICA EN EL ESTADO DE DURANGO
+LINEAMIENTOS GENERALES EN MATERIA DE ARCHIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2007.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de mayo de 1999.
+Lineamientos publicado en la Gaceta Oficial del Distrito Federal, el miércoles 9 de mayo de 2007.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+ACUERDO 073/SO/25-04/2007
 
-Con fecha 23 de Abril del presente año, el Titular del Poder Ejecutivo, envio Iniciativa de Decreto, que contiene la Ley de Coordinación de Seguridad Pública para el Estado de Durango, la cual fue turnada a la Comisión de Seguridad Pública, Tránsito y Transporte, integrada por los CC. Diputados: Raúl Villegas Morales, Carlos Abraham Garza Limón, Antonio Ernesto Reséndiz Cisneros, Juan Manuel Calderón Guzman, Jaime Fernández Saracho, Presidente, Secretario y Vocales respectivamente mismos que emitieron su dictamen favorable en base a los siguientes
+ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS GENERALES EN MATERIA DE ARCHIVOS.
 
-CONSIDERANDOS:
+CONSIDERANDO
 
-PRIMERO.- Que una vez estudiado el expediente formado con base a la iniciativa de referencia, de la misma se deduce que el iniciador pretende complementar, por lo que corresponde al Estado de Durango, el Sistema Nacional de Seguridad Pública, que tiene su sustento jurídico en los dos últimos párrafos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, que textualmente disponen:
+1. Que de conformidad con lo establecido en el artículo 57, párrafo primero de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal (LTAIPDF), el Instituto de Acceso a la Información Pública del Distrito Federal (INFODF) es un órgano autónomo del Distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de transparencia y acceso a la información pública, encargado de dirigir y vigilar el cumplimiento de la Ley de la materia y las normas que de ella deriven, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad imperen en todas sus decisiones.
 
-"...La seguridad pública, es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez..."
+2. Que en el artículo 1 de la LTAIPDF se establece que dicho ordenamiento es de orden público e interés general y tiene por objeto transparentar el ejercicio de la función pública y garantizar el efectivo acceso de toda persona a la información pública en posesión de los órganos locales: Ejecutivo, Legislativo, Judicial y Autónomos por ley, así como de todo Ente Público del Distrito Federal que ejerza gasto público.
 
-"...La Federación, el Distrito Federal, los Estados y los Municipios, se coordinarán en los términos que la ley señale, para establecer un sistema nacional de seguridad pública..."
+3. Que en el artículo 9, fracción VI de la LTAIPDF, se establecen que entre los objetivos de ésta, se encuentra el mejorar la organización, clasificación y manejo de documentos en posesión de los Entes Públicos.
 
-SEGUNDO.- Que para complementar orgánica y reglamentariamente las disposiciones constitucionales a que se alude en el considerando anterior, el 11 de diciembre de 1995, se publicó en el Diario Oficial de la Federación, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, instrumento legal en el que se fijan los fundamentos, sobre los cuales, deberán actuar los tres niveles de gobierno, debidamente coordinados, para aplicar, en todo el país, una política nacional de seguridad pública, que de manera integral, haga frente, sistemáticamente, a la delincuencia, sobre todo a la organizada.
+4. Que de acuerdo al artículo 4, fracción IV de la LTAIPDF, se entiende por Ente Público: La Asamblea Legislativa del Distrito Federal; el Tribunal Superior de Justicia del Distrito Federal; el Tribunal de lo Contencioso Administrativo del Distrito Federal; el Tribunal Electoral del Distrito Federal; el Instituto Electoral del Distrito Federal; la Comisión de Derechos Humanos del Distrito Federal; la Junta de Conciliación y Arbitraje del Distrito Federal; la Jefatura de Gobierno del Distrito Federal; las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades de la Administración Pública del Distrito Federal; los Órganos Autónomos por Ley; aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público o privado, ya sea que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público.
 
-TERCERO.- Que con este nuevo dispositivo jurídico, constitucional, legal y reglamentario, se pretende, como lo argumenta el autor de la iniciativa en los considerandos respectivos, combatir frontalmente la incidencia y proliferación de hechos delictivos registrados en los últimos lustros, sobretodo (sic) de la delincuencia organizada, que opera con base al apoyo eficaz y eficiente que le proporciona la tecnología sofisticada, y siempre en grave perjuicio de la sociedad.
+5. Que en el artículo 11 de la citada Ley, se establece que quienes generen, administren, manejen, archiven o custodien información pública, serán responsables de la misma en los términos de la LTAIPDF; que toda la información en poder de los Entes Públicos estará a disposición de las personas, salvo aquella que se considere como información de acceso restringido en sus distintas modalidades; que quienes soliciten información pública tienen derecho, a su elección, a que ésta les sea proporcionada de manera verbal o por escrito y a obtener por medio electrónico o cualquier otro, la reproducción de los documentos en que se contenga, solo cuando se encuentre digitalizada y sin que ello represente procesamiento de la misma; que la información se proporcionará en el estado en que se encuentre en los archivos de los Entes Públicos; que la pérdida, destrucción, modificación, alteración u ocultamiento de los documentos, archivos, registros o datos en que se contenga información pública, serán sancionados en los términos de la LTAIPDF y demás ordenamientos relativos.
 
-CUARTO.- Que además del objetivo que se plantea en los puntos anteriores, se pretende lograr, en términos generales y en beneficio de la sociedad, un nuevo concepto de la seguridad pública, la que en adelante deberá ser considerada como una función estatal, encaminada a prevenir la comisión de ilícitos, la persecución de delincuentes y su rehabilitación; debiéndose contemplar así mismo, de manera muy especial, la prevención y atención de menores infractores, procurando para ellos, en todo momento, su reinserción social, para responder así, a las más sentidas demandas sociales.
+6. Que de conformidad con el artículo 53, fracciones I, II, III y IV de la LTAIPDF, el INFODF deberá emitir las reglas generales para la generación de datos y archivos, así como para la conservación de los mismos, previendo que las disposiciones permitan clasificar, identificar, restaurar y preservar la información de acuerdo con su naturaleza; que los mecanismos que se empleen para la conservación y mantenimiento de la información obedezca a estándares mínimos en materia de archivonomía; que se permita la capacitación a funcionarios previamente designados por el Ente Público en técnicas de archivonomía; y que la información se organice de manera tal que facilite la consulta directa de los particulares.
 
-Con base en los anteriores considerandos esta H. LXI Legislatura Local, expide el siguiente:
+7. Que de acuerdo con el artículo 54, primer párrafo, de la LTAIPDF ningún archivo podrá ser destruido sin reunir los requisitos que establezca el INFODF en los lineamientos que al efecto emita.
 
-DECRETO No 99
+8. Que de conformidad con el artículo 55 de la LTAIPDF el INFODF coordinará con las áreas responsables asignadas por cada Ente Público, el procedimiento para el resguardo y almacenamiento de los archivos que se consideren como históricos.
 
-LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+9. Que de acuerdo con el artículo 63, fracción X de la LTAIPDF, es atribución del INFODF el establecer los lineamientos generales para la creación y operación de los archivos que contengan información pública de consulta directa.
 
-LEY DE COORDINACIÓN DE SEGURIDAD PÚBLICA
+10. Que los archivos son producto de los actos que realizan los Entes Públicos y son un instrumento documental informativo esencial para el correcto desempeño de la gestión de los mismos, así como memoria y testimonio institucional.
 
-EN EL ESTADO DE DURANGO
+11. Que en los archivos de los Entes Públicos del Distrito Federal se resguarda información con valor administrativo, jurídico, fiscal, histórico y de uso social permanente y, que es responsabilidad de los servidores públicos, desde el más alto nivel y en toda la estructura de los Entes, garantizar el uso correcto, la integralidad, el funcionamiento cabal, el acceso, la conservación y preservación de los documentos, expedientes y archivos en los que se sustenta su quehacer público y cotidiano.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+12. Que en términos de lo establecido por los artículos 63, fracción XXI de la LTAIPDF y 13, fracciones I, XVII y XVIII del Reglamento Interior del INFODF, es facultad del Pleno determinar la forma y términos en que serán ejercidas las atribuciones del Instituto, así como dictar los acuerdos y normatividad necesarios para el cumplimiento de la citada Ley, Reglamento y demás disposiciones legales y administrativas que le resulten aplicables.
 
-### CAPÍTULO ÚNICO
+13. Que ante la necesidad de instrumentar una política normativa de archivos para los Entes Públicos del Distrito Federal, a efecto de soportar de forma ordenada, actualizada, oportuna, completa y veraz los actos de los mismos, así como coadyuvar al fortalecimiento de la transparencia, la rendición de cuentas y el derecho al acceso a la información, el INFODF desde el mes de septiembre de 2006, impulsó y coordinó los trabajos correspondientes a la elaboración de los Lineamientos Generales en Materia de Archivos, proceso en el que destaca la participación de expertos profesionales en la materia, así como de los representantes de los Entes Públicos, vinculados en la operación e integración cotidiana de sus respectivos archivos.
 
-###### Artículo 1°.
+14. Que derivado de la metodología y trabajo instrumentado, se elaboró el Proyecto de Lineamientos Generales en Materia de Archivos del Distrito Federal, mismos que entre sus objetivos, busca establecer las bases normativas para la generación, operación, administración, conservación y destrucción de archivos; así como avanzar en la cultura institucional y social de la transparencia, la rendición de cuentas y el acceso a la información pública en el Distrito Federal mediante la correcta organización de la información.
 
-La presente Ley es de orden público e interés social, y tiene por objeto regular la coordinación de las diversas autoridades de seguridad pública del Estado y sus municipios, conforme a las políticas y lineamientos del Sistema Nacional de Seguridad Pública.
+15. Que de conformidad con el artículo 14, fracción VII del citado Reglamento Interior, es atribución del Presidente someter a la aprobación del Pleno, a propuesta propia o de cualquier otro Comisionado Ciudadano, las normas, lineamientos y demás documentos necesarios para el cumplimiento de las atribuciones del Instituto.
 
-###### Artículo 2°.
+16. Que en el ejercicio de sus atribuciones, el Presidente del INFODF somete a la consideración del Pleno del INFODF, los Lineamientos Generales en Materia de Archivos del Distrito Federal, en los términos del documento anexo al presente Acuerdo.
 
-Para efectos de la presente Ley, la seguridad pública es la función a cargo del Estado, que tiene por objeto salvaguardar la integridad, garantías individuales y derechos de las personas, preservar sus libertades, el orden y la paz pública, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la readaptación social del delincuente y del menor infractor.
+Por las consideraciones y fundamentos anteriormente expuestos, el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal emite el siguiente:
 
-###### Artículo 3°.
+ACUERDO
 
-El Estado combatirá las causas sociales que generan la comisión de delitos y conductas antisociales y desarrollará políticas, programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad.
+PRIMERO. Se aprueban los Lineamientos Generales en Materia de Archivos del Distrito Federal, en los términos del documento que como anexo forma parte integral del presente Acuerdo.
 
-### CAPÍTULO I
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-DE LA COORDINACIÓN ENTRE EL ESTADO DE DURANGO, LA FEDERACIÓN,
+TERCERO. Se ordena al Secretario Técnico realizar las gestiones administrativas necesarias para la publicación de los Lineamientos Generales en Materia de Archivos del Distrito Federal que acompañan a este Acuerdo, tanto en la Gaceta Oficial del Distrito Federal, como en el Portal de Internet y en los estrados del INFODF, respectivamente.
 
-EL DISTRITO FEDERAL, OTROS ESTADOS Y MUNICIPIOS
+CUARTO. Se instruye al Secretario Técnico para que realice las acciones necesarias a fin de que el presente Acuerdo y su anexo, sea notificado a los Entes Públicos del Distrito Federal.
 
-#### Sección I. De los Consejos de Seguridad Pública Nacional y Estatal
+Así lo acordaron, por unanimidad, los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal en Sesión Ordinaria celebrada el veinticinco de abril de dos mil siete.
 
-###### Artículo 4°.
+(Firma)
 
-La función se realizará en los diversos ámbitos de competencia por conducto de las autoridades de la policía preventiva, del ministerio público, de las responsables de la prisión preventiva, ejecución de penas y tratamiento de menores infractores; así como por las demás autoridades que en razón de sus atribuciones deben contribuir directa o indirectamente al objeto de esta Ley.
+OSCAR MAURICIO GUERRA FORD
 
-###### Artículo 5°.
+COMISIONADO CIUDADANO
 
-Para los efectos de la presente Ley en lo sucesivo, se entenderá por:
+PRESIDENTE
 
-Ley General.- Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública:
+(Firma)
 
-Sistema Nacional.- Sistema Nacional de Seguridad Pública;
+ARELI CANO GUADIANA
 
-Sistema Estatal.- Sistema Estatal de Seguridad Pública;
+COMISIONADA CIUDADANA
 
-Consejo Nacional.- Consejo Nacional de Seguridad Pública;
+(Firma)
 
-Consejo Estatal.- Consejo Estatal de Seguridad Pública;
+AGUSTÍN MILLÁN GÓMEZ
 
-Programa Nacional.- Programa Nacional de Seguridad Pública; y
+COMISIONADO CIUDADANO
 
-Programa Estatal.- Programa Estatal de Seguridad Pública.
+(Firma)
 
-###### Artículo 6°.
+JORGE BUSTILLOS ROQUEÑÍ
 
-Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en diversos ámbitos de competencia de la Federación, los Estados, el Distrito Federal y los municipios, se aplicarán y ejecutarán mediante convenios generales y específicos entre las partes competentes del Sistema Nacional, conforme a la "Ley General".
+COMISIONADO CIUDADANO
 
-#### Sección II. De los Consejos Municipales
+(Firma)
 
-de Seguridad Pública
+SALVADOR GUERRERO CHIPRÉS
 
-###### Artículo 7°.
+COMISIONADO CIUDADANO
 
-La coordinación y aplicación de esta Ley, se hará con apego absoluto de las atribuciones constitucionales, legales y reglamentarias que tengan las instituciones y autoridades que intervienen en el Sistema Nacional.
+(Firma)
 
-#### Sección III. De las Atribuciones de los Consejos Municipales
+MARÍA ELENA PÉREZ-JAÉN ZERMEÑO
 
-de Seguridad Pública
+COMISIONADA CIUDADANA
 
-###### Artículo 8°.
+LINEAMIENTOS GENERALES EN MATERIA DE ARCHIVOS DEL DISTRITO FEDERAL
 
-Cuando las acciones conjuntas sean para perseguir delincuentes, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales, legales y reglamentarios aplicables.
+### Capítulo Primero. Disposiciones Generales
 
-###### Artículo 9°.
+###### Artículo 1.
 
-El Estado establecerá instituciones de formación policial, bajo los principios de legalidad, eficiencia, profesionalismo y honradez.
+Los presentes Lineamientos son de observancia obligatoria para los Entes Públicos del Distrito Federal señalados en el artículo 4, fracción IV de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y tienen por objeto establecer las disposiciones generales para la integración y organización de sus Sistemas Institucionales de Archivos.
+
+###### Artículo 2.
+
+Para efectos de los presentes Lineamientos se entenderá por:
+
+I. Coteciad: Comité Técnico Institucional de Administración de Documentos;
+
+II. Instituto: Instituto de Acceso a la Información Pública del Distrito Federal;
+
+III. Ley: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y
+
+IV. Sistema: Sistema Institucional de Archivos.
+
+###### Artículo 3.
+
+La normatividad que emitan los Entes Públicos, para el manejo de sus archivos en atención a los presentes Lineamientos, deberá contar con la opinión favorable del Instituto, ser publicada en los portales de Internet de cada Ente, como parte de las obligaciones de transparencia, en términos de la fracción II del artículo 13 de la Ley, y enviada en formato electrónico al Instituto para su registro.
+
+### Capítulo Segundo. De los Sistemas Institucionales de Archivos
+
+#### Sección I. Generalidades
+
+###### Artículo 4.
+
+Los Entes Públicos del Distrito Federal contarán con archivos que constituyen el conjunto orgánico y organizado de la información que generen, procesen, administren o reciban en el ejercicio de sus funciones y atribuciones.
+
+###### Artículo 5.
+
+Los Archivos de los Entes Públicos del Distrito Federal se establecerán formalmente como Sistemas Institucionales de Archivos, de conformidad con el ciclo vital de los documentos y en concordancia con las disposiciones contenidas en los presentes Lineamientos.
+
+###### Artículo 6.
+
+La información que generen, reciban o administren los Entes Públicos en sus respectivos Sistemas Institucionales de Archivos, que se encuentre contenida en cualquier medio o soporte documental sea escrito, impreso, sonoro, visual, electrónico, informático, holográfico o cualquier otro derivado de las innovaciones tecnológicas, se denominará genéricamente documento de archivo. Será documentación de archivo toda la que se encuentre en cualquier registro que documente el ejercicio de las facultades o las actividades de los Entes Públicos.
+
+#### Sección II. Ciclo vital de los documentos de archivo
+
+###### Artículo 7.
+
+Los documentos de archivo tienen un ciclo vital que se constituye por las fases de vida de los mismos, a partir de los diversos usos institucionales de la información contenida en ellos. Dichas fases son las siguientes:
+
+I. Activa o de Gestión de la información documental, también conocida como primera edad de los documentos;
+
+II. Semiactiva o de concentración o segunda edad de los documentos de archivo, e
+
+III. Inactiva o Histórica o de tercera edad de los testimonios documentales.
+
+La fase activa o primera edad corresponde a aquella en que éstos se producen y se usan para desahogar la gestión cotidiana de los Entes Públicos. Por ello, tienen una utilidad inmediata para la atención de trámites, esto es tienen un alto valor administrativo, legal o fiscal.
+
+La fase semiactiva o segunda edad es aquella en la que los documentos de archivo ya no se utilizan de manera constante en la atención de trámites por lo que su utilidad y uso cambia de carácter, constituyéndose sólo como información de referencia que debe conservarse de manera precautoria dados sus valores legales, administrativos o fiscales.
+
+La fase histórica o tercera edad está determinada a partir de que la utilidad administrativa, legal o fiscal de los documentos de archivo ha prescrito y porque éstos adquieren un valor secundario de carácter cultural y de testimonio de la evolución del Ente Público que los genera o administra.
+
+#### Sección III. De la organización y composición de los Sistemas Institucionales de Archivos
+
+###### Artículo 8.
+
+Con base en el ciclo vital de los documentos se fundamenta la creación de los Sistemas Institucionales de Archivos, ya que a cada una de las fases o edades de los documentos de archivo corresponde un determinado tratamiento técnico de la documentación. Las áreas que desempeñen las funciones de las unidades de correspondencia, de las unidades de documentación en trámite y de los archivos de trámite, serán las áreas responsables en el manejo de la documentación activa. Las unidades administrativas responsables de los archivos de concentración serán las áreas especializadas en el manejo de la documentación semiactiva y las correspondientes a los archivos históricos serán responsables del manejo y conservación de la documentación con valor permanente.
+
+###### Artículo 9.
+
+Los Entes Públicos del Distrito Federal deberán integrar y organizar funcionalmente, con las modalidades que resulten necesarias y de conformidad con su normatividad interna, un Sistema Institucional de Archivos que les permita la correcta administración de documentos de archivo a lo largo de su ciclo vital, atendiendo a lo prescrito en estos Lineamientos.
 
 ###### Artículo 10.
 
-El Estado participará integrando los instrumentos de información del Sistema Nacional, con la Federación, los demás Estados, el Distrito Federal y los Municipios, para cuyo efecto se establecerán bases de datos sobre seguridad pública.
+El Sistema Institucional de Archivos se integrará a partir de la composición funcional siguiente:
+
+I. Componentes Normativos, y
+
+II. Componentes Operativos.
+
+Los componentes normativos tendrán a su cargo la regulación y coordinación de la operación del Sistema.
+
+Los componentes operativos serán los encargados del funcionamiento cotidiano del Sistema, de conformidad con el ciclo vital de los documentos de archivo del Ente Público.
 
 ###### Artículo 11.
 
-Las autoridades establecerán mecanismos eficaces para que la sociedad participe en la planeación de la seguridad pública, en los términos de esta Ley, de la Ley General y demás ordenamientos aplicables.
+Los componentes normativos se integrarán por:
 
-## TÍTULO SEGUNDO. DEL SISTEMA DE SEGURIDAD PÚBLICA, NACIONAL Y ESTATAL
+I. Un Coordinador de Archivos, y
+
+II. El Comité Técnico Institucional de Administración de Documentos.
 
 ###### Artículo 12.
 
-Las autoridades competentes estatales y municipales, encargadas de la seguridad pública, se coordinarán, para:
-
-I. Integrar en el Estado el Sistema Nacional;
-
-II. Determinar las políticas de seguridad pública, ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta Ley;
-
-III. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las instituciones de seguridad pública y para la formación de sus integrantes;
-
-IV. Establecer, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional en el Estado;
-
-V. Formular propuestas para el Programa Nacional, así como para llevarlo a cabo y evaluar su desarrollo; y
-
-VI. Tomar medidas, realizar acciones y operativos conjuntos.
+El Coordinador de Archivos es el responsable de regular el Sistema Institucional de Archivos y el Coteciad será su órgano técnico consultivo.
 
 ###### Artículo 13.
 
-La coordinación entre las instancias de seguridad pública comprenderá:
-
-I. Procedimientos e instrumentos de formación, reglas de ingreso, permanencia, promoción y retiro de los miembros de las instituciones policiales;
-
-II. Sistemas disciplinarios, así como estímulos y recompensas;
-
-III. Administración, operación y modernización tecnológica;
-
-IV. Las propuestas de financiamiento y aplicación de recursos;
-
-V. Suministro, intercambio y sistematización de todo tipo de información;
-
-VI. Acciones policiales conjuntas, en los términos de esta Ley y de la Ley General;
-
-VII. Regulación y control de los servicios privados de seguridad y otros auxiliares;
-
-VIII. Fomento a la cultura de prevención de infracciones e ilícitos; y
-
-IX. Acciones necesarias para incrementar la eficacia y eficiencia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
+El responsable de la Unidad Coordinadora de Archivos será designado por el servidor público que tenga facultades legales para ello, quien, en su caso, establecerá su nivel jerárquico y adscripción administrativa. El responsable deberá contar con experiencia y conocimientos en archivística y tener aptitudes para la integración, coordinación, control y evaluación de planes, programas y proyectos en la materia.
 
 ###### Artículo 14.
 
-El Consejo Nacional será la instancia superior de coordinación del Sistema Nacional, que se integra, organiza y funciona en los términos que señala la Ley General.
+El Comité Técnico Institucional de Administración de Documentos es el órgano técnico consultivo, de instrumentación y retroalimentación de la normatividad aplicable en materia de archivos del Ente Público; integrado por aquellas personas que por su experiencia y función dentro del Ente Público se consideren necesarias para promover y garantizar el correcto manejo archivístico.
+
+El Coteciad deberá contar, al menos, con las siguientes figuras:
+
+I. Una Presidencia;
+
+II. Una Secretaría Técnica;
+
+III. Vocales, entre los que deberán participar los responsables de las distintas Unidades de Archivo del Ente Público, y
+
+IV. Representantes de la Dirección Jurídica o equivalente y del Órgano de Control Interno del Ente Público, así como el responsable de la Oficina de Información Pública.
 
 ###### Artículo 15.
 
-El Consejo Estatal, será la instancia superior en el Estado de Durango y sus municipios, encargado de la coordinación, planeación y supervisión del Sistema Nacional, y estará integrado por:
+Los componentes operativos deberán atenderse mediante las siguientes figuras funcionales:
 
-I. El Gobernador del Estado de Durango, quien fungirá como Presidente;
+I. Unidades generales del Ente Público, conformadas por:
 
-II. El Secretario General de Gobierno, quien fungirá como Vicepresidente;
+a. Unidad Central de Correspondencia o equivalente;
 
-III. El Procurador General de Justicia del Estado;
+b. Unidad de Archivo de Concentración o equivalente, y
 
-IV. El Secretario de Comunicaciones y Obras Públicas;
+c. Unidad de Archivo Histórico o equivalente.
 
-V. Tres Presidentes Municipales;
+II. Unidades particulares en cada área administrativa:
 
-VI. Los funcionarios representantes o delegados en la entidad de las autoridades federales que forman parte del Consejo Nacional; y
+a. Unidad de Documentación en Trámite o equivalente, y
 
-VII. El Secretario Ejecutivo del Consejo Estatal.
+b. Unidad de Archivo de Trámite o equivalente.
+
+Las funciones de estas unidades podrán ser desarrolladas de manera conjunta, atendiendo a las necesidades de cada una de las áreas administrativas del Ente Público.
 
 ###### Artículo 16.
 
-A convocatoria del Consejo Estatal, participarán además, los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública.
+La Unidad Central de Correspondencia o equivalente conocida genéricamente como Oficialía de Partes, será la encargada de brindar los servicios centralizados de recepción y despacho de la correspondencia oficial dentro de los Entes Públicos.
 
 ###### Artículo 17.
 
-Los cargos del Consejo Estatal, serán honoríficos, a excepción del de Secretario Ejecutivo, quien sí percibirá sueldo.
+La Unidad de Documentación en Trámite o equivalente es la responsable de brindar integralmente los servicios de correspondencia y control de gestión en cada una de las áreas administrativas.
 
 ###### Artículo 18.
 
-El Consejo Estatal, conocerá y resolverá sobre los asuntos siguientes:
-
-I. La coordinación en el Estado del Sistema Nacional;
-
-II. La determinación de lineamientos para el establecimiento de políticas generales en materia de seguridad pública;
-
-III. La aprobación del Programa Estatal;
-
-IV. Formulación de propuestas para el Programa Nacional;
-
-V. Evaluación periódica de los programas nacional y estatal;
-
-VI. La determinación de medidas para vincular el Sistema Nacional y Estatal con otros regionales y locales;
-
-VII. La emisión de bases y reglas para la realización de operativos conjuntos entre corporaciones policiales federales, locales y municipales en el Estado;
-
-VIII. La realización de programas de seguridad pública en cooperación con los municipios y otras entidades federativas;
-
-IX. La elaboración de propuestas de reformas a leyes y reglamentos en el Estado en materia de seguridad pública;
-
-X. El análisis de proyectos y estudios que se sometan a su consideración por conducto del Secretario Ejecutivo;
-
-XI. La expedición de reglas para la organización y funcionamiento en el Estado del Sistema Nacional; y
-
-XII. Los demás que sean necesarios para cumplir los objetivos de la presente Ley, la Ley General y otros ordenamientos aplicables.
+La Unidad de Archivo de Trámite o equivalente es la responsable de la administración de los documentos de archivo en gestión, de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones de cada área administrativa.
 
 ###### Artículo 19.
 
-Corresponderá al Vicepresidente, la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento en el Estado, del Sistema Nacional.
+La Unidad de Archivo de Concentración o equivalente es la responsable de la administración de documentos de archivo en la fase semiactiva, cuya frecuencia de consulta ha disminuido y que permanecen en él hasta que concluye su plazo de conservación en razón de sus valores primarios de carácter administrativo, legal y fiscal.
 
 ###### Artículo 20.
 
-Para el conocimiento de las distintas materias de coordinación a que se refiere esta Ley y la Ley General, las autoridades del Estado y de los municipios, participarán en las conferencias de prevención y readaptación social, las de procuración de justicia y en las de participación de la comunidad.
+La Unidad de Archivo Histórico o equivalente es la responsable de organizar, describir, conservar, preservar, administrar y divulgar la memoria documental institucional.
 
 ###### Artículo 21.
 
-El Presidente designará y removerá al Secretario Ejecutivo del Consejo Estatal.
+Las Unidades que integran el Sistema interactuarán dentro del ciclo vital de documentos para la correcta administración de los mismos, estableciendo criterios, procedimientos e instrumentos de control documental y archivístico homogéneos y estandarizados.
 
 ###### Artículo 22.
 
-El Secretario Ejecutivo del Consejo Estatal, deberá cumplir con los siguientes requisitos:
+Los responsables de las unidades operativas del Sistema serán designados por las personas que tengan facultades legales para ello, y deberán contar con el perfil, conocimientos y experiencia en archivística, así como capacitarse continuamente en la materia, de conformidad con el Programa Institucional de Desarrollo Archivístico que se establezca en la materia.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Tener más de 35 años de edad;
-
-III. Contar con título profesional de licenciado en derecho o en administración, debidamente registrado; y
-
-IV. Ser de reconocida probidad, y contar con experiencia en áreas de la administración pública.
-
-#### Sección I. De la Carrera Policial
+#### Sección IV. De las funciones de la estructura del Sistema
 
 ###### Artículo 23.
 
-El Consejo Estatal, se reunirá por lo menos cada tres meses, a convocatoria del Vicepresidente, quien integrará la agenda de los asuntos a tratar.
+Son funciones del Coordinador de Archivos o equivalente, las siguientes:
+
+I. Diseñar, proponer, desarrollar, instrumentar y evaluar, los planes, programas y proyectos de desarrollo archivístico;
+
+II. Establecer las políticas y medidas técnicas para la regulación de los procesos archivísticos durante el ciclo vital de los documentos de archivo;
+
+III. Formular los instrumentos, procesos y métodos de control archivístico del Ente Público;
+
+IV. Fungir como Secretario Técnico del Coteciad del Ente Público;
+
+V. Promover la operación regular del Coteciad y coadyuvar en la integración de su Reglamento de Operación y Programa Anual de Trabajo;
+
+VI. Elaborar y presentar los modelos técnicos o manuales para la organización y procedimientos de los archivos de trámite, concentración y, en su caso, histórico del Ente Público, en coordinación con los responsables de dichas unidades, atendiendo a los presentes Lineamientos;
+
+VII. Coordinar los trabajos para la elaboración de los principales instrumentos de control archivístico dentro del Ente Público, proponiendo el diseño, desarrollo, implementación y actualización del Sistema de Clasificación Archivística, el Catálogo de Disposición Documental y los inventarios que se elaboren para la identificación y descripción de los archivos institucionales;
+
+VIII. Establecer, en coordinación con la instancia responsable de la función dentro del Ente Público, un amplio programa de capacitación en la materia, así como las principales estrategias para el desarrollo profesional del personal que se dedique al desempeño de las funciones archivísticas;
+
+IX. Coadyuvar con la instancia responsable de la función dentro del Ente Público, en la elaboración de un programa de necesidades para la normalización de los recursos materiales que se destinen a los archivos, propiciando la incorporación de mobiliario, equipo técnico, de conservación y seguridad, e instalaciones apropiadas para los archivos, de conformidad con las funciones y servicios que éstos brindan, y
+
+X. Coadyuvar con la instancia responsable de la función, en el diseño, desarrollo, establecimiento y actualización de la normatividad que sea aplicable dentro del Ente Público, para la adquisición de tecnologías de la información para los archivos, así como para la automatización de archivos, la digitalización o microfilmación de los documentos de archivo o para la gestión, administración y conservación de los documentos electrónicos.
 
 ###### Artículo 24.
 
-Las convocatorias para las sesiones, contendrán la fecha y lugar en que se celebrarán, y si son ordinarias o extraordinarias. Para el efecto, las sesiones ordinarias serán las que se celebren periódicamente, y extraordinarias, las que se convoquen en cualquier tiempo.
+Las funciones del Coteciad son:
+
+I. Constituirse como el órgano técnico consultivo, de instrumentación y retroalimentación de la normatividad aplicable en la materia dentro de los archivos del Ente Público;
+
+II. Realizar las valoraciones documentales que guardan los archivos del Ente Público;
+
+III. Propiciar el desarrollo de medidas y acciones permanentes de coordinación y concertación entre sus miembros que favorezcan la implantación de las normas archivísticas para el mejoramiento integral de los archivos del Ente Público;
+
+IV. Participar en los eventos técnicos y académicos que en la materia se efectúen en el Ente Público, y
+
+V. Emitir el Reglamento de Operación del Comité y su Programa Anual de Trabajo, mismo que deberá remitirse al Instituto dentro de los primeros treinta días del mes de enero del año que corresponda para su registro.
 
 ###### Artículo 25.
 
-Los miembros del Consejo Estatal, podrán proponer acuerdos y resoluciones, sobre seguridad pública, así como vigilar su cumplimiento.
+Son funciones de la Unidad Central de Correspondencia o equivalente:
+
+I. Coadyuvar con el Coordinador de Archivos o equivalente en el desarrollo e implementación formal de los instrumentos de control de la correspondencia, que resulten necesarios para el manejo de la documentación que ingrese o egrese del Ente Público en forma centralizada, debiendo observar la normatividad institucional;
+
+II. Recibir, registrar, manejar y controlar la correspondencia que ingrese al Ente Público en forma centralizada, procurando su expedita distribución a las áreas administrativas que correspondan, y
+
+III. Manejar, controlar y despachar oportunamente la documentación que egrese del Ente Público en forma centralizada.
 
 ###### Artículo 26.
 
-El Presidente del Consejo Estatal, conducirá la política general de seguridad pública en el Estado, conforme a los objetivos de los Sistemas Nacional y Estatal, y los ordenamientos jurídicos aplicables; presidirá las sesiones ordinarias y extraordinarias, y celebrará los convenios a que se refiere el artículo 6º de esta Ley.
+Son funciones de las Unidades de Documentación en Trámite o equivalente:
+
+I. Coadyuvar con el Coordinador de Archivos o equivalente del Ente Público en el desarrollo, instrumentación y actualización de la normatividad aplicable a escala institucional y, particularmente, en la que se instrumente para las unidades de documentación en trámite;
+
+II. Recibir, registrar y controlar la correspondencia que ingrese directamente al área administrativa de adscripción y, en su caso, la que reciba de la Unidad Central de Correspondencia;
+
+III. Turnar a las áreas tramitadoras la correspondencia que ingrese al área administrativa, estableciendo en coordinación con la instancia responsable dentro de ésta, los mecanismos y controles para el seguimiento de la correspondencia en trámite, de conformidad con lo que al respecto dispongan las políticas y procedimientos de control de gestión que se establezcan en el Ente Público, y
+
+IV. Despachar la correspondencia de su área de adscripción, llevando los controles y registros de distribución que se establezcan al efecto.
 
 ###### Artículo 27.
 
-El Vicepresidente del Consejo Estatal, por su parte, tendrá las siguientes atribuciones:
+Son funciones de la Unidad de Archivo de Trámite o equivalente:
 
-I. Suplir al Presidente del Consejo, en caso de ausencia;
+I. Coadyuvar con el Coordinador de Archivos o equivalente del Ente Público en el desarrollo, instrumentación y actualización de la normatividad archivística aplicable a escala institucional y, particularmente, en la que se instrumente para los Archivos de Trámite, y
 
-II. Convocar al Consejo a sesión extraordinaria, previo acuerdo del Presidente; y
-
-III. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo, así como su operatividad, informando de ello a éste, así como al Presidente.
+II. Integrar o coadyuvar en la integración en las áreas generadoras, los expedientes asociados a la gestión institucional del Área Administrativa de adscripción, recibiéndolos de ellas para su clasificación, ordenación, descripción, resguardo y para facilitar el acceso, valoración y transferencia de la documentación al Archivo de Concentración del Ente Público.
 
 ###### Artículo 28.
 
-Serán funciones del Secretario Ejecutivo del Consejo Estatal, las siguientes:
+Son funciones de la Unidad de Archivo de Concentración o equivalente:
 
-I. Elaborar las propuestas del contenido del Programa Estatal y someterlas a la aprobación del Consejo;
+I. Coadyuvar con el Coordinador de Archivos o equivalente del Ente Público en el desarrollo, instrumentación y actualización de la normatividad archivística aplicable a escala institucional y, particularmente, la que correspondan al Archivo de Concentración;
 
-II. Redactar y certificar los acuerdos que se tomen en el Consejo;
+II. Operar los servicios para la administración y control de los documentos de archivo en etapa Semiactiva del Ente Público, encargándose de la coordinación, organización y control de los procesos de transferencias primarias y la ordenación y ubicación topográfica de los acervos Semiactivos;
 
-III. Llevar el archivo de los acuerdos, convenios y resoluciones del Consejo;
+III. Establecer el calendario de caducidades de los documentos de archivo bajo su resguardo y efectuar los procesos de disposición documental y el préstamo de expedientes en la etapa Semiactiva, en coordinación con los Archivos de Trámite del Sistema, y
 
-IV. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
-
-V. Proponer al Consejo, para su aprobación, en su caso, las políticas, lineamientos y acciones, para el funcionamiento de las instituciones de seguridad pública y los servicios privados del Estado y sus municipios;
-
-VI. Coordinar en el Estado, el servicio nacional de apoyo a la carrera policial y a las instituciones estatales y municipales de formación de policías;
-
-VII. Coordinar acciones conjuntas de los cuerpos de seguridad pública;
-
-VIII. Administrar y sistematizar los datos e instrumentos de información que necesite el Sistema Nacional y Estatal, así como recabar los datos que se requieran;
-
-IX. Informar periódicamente al Consejo sobre sus actividades;
-
-X. Formular sugerencias a las autoridades competentes, para que los cuerpos de seguiridad (sic) pública, desarrollen eficientemente sus funciones;
-
-XI. Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo y sin menoscabo de otras que realicen las autoridades competentes;
-
-XII. Tomar las medidas necesarias para la efectiva coordinación de la seguridad pública;
-
-XIII. Realizar estudios especializados sobre seguridad pública; y
-
-XIV. Las demás que le señalen las leyes aplicables.
+IV. Llevar a cabo, en su caso, los procesos de transferencia secundaria de los documentos de archivo que hayan prescrito en sus valores primarios, administrativos, legales o fiscales, elaborando las actas administrativas que correspondan, en coordinación con la Unidad de Archivo Histórico Institucional.
 
 ###### Artículo 29.
 
-En los municipios del Estado de Durango, se instalarán Consejos Municipales de Coordinación de Seguridad Pública, previa convocatoria de los ayuntamientos.
+Son funciones de la Unidad de Archivo Histórico o equivalente:
 
-### CAPÍTULO II. DE LAS INSTANCIAS DE COORDINACIÓN
+I. Coadyuvar con el Coordinador de Archivos o equivalente del Ente Público en el desarrollo, instrumentación y actualización de la normatividad archivística aplicable a escala institucional y, particularmente, la que corresponda al Archivo Histórico del Ente Público;
+
+II. Recibir y controlar los documentos de archivo que le remita, mediante el proceso de transferencia secundaria, la Unidad de Archivo de Concentración del Ente Público y organizar los Fondos, Secciones y Series que constituyan su acervo, de conformidad con el principio de procedencia y orden original y la normatividad aplicable en la materia a escala institucional, así como en concordancia con las mejores prácticas y normas internacionales para la descripción, normalización del acceso, conservación, preservación y divulgación social y cultural del archivo histórico del Ente Público;
+
+III. Elaborar la Guía General de Fondos del Archivo Histórico del Ente Público y los catálogos, inventarios, índices y controles indispensables para el manejo de la documentación histórica de la institución, y
+
+IV. Establecer, en el marco de los programas de desarrollo archivístico del Ente Público, programas para la difusión del archivo histórico institucional.
+
+### Capítulo Tercero. De los procesos e instrumentos esenciales de control archivístico
 
 ###### Artículo 30.
 
-Los Consejos Municipales de Coordinación de Seguridad Pública, se integrarán de la forma siguiente:
-
-I. El Presidente Municipal, que será el Presidente del Consejo;
-
-II. Un Representante del Consejo Estatal, nombrado por el Vicepresidente;
-
-III. El titular del Ministerio Público;
-
-IV. El titular de la Policía Judicial con destacamento en el municipio;
-
-V. El titular de la Policía Preventiva y/o Tránsito del municipio;
-
-VI Los titulares de las instituciones de seguridad pública federal en los lugares donde las haya; y
-
-VII. Un Secretario Ejecutivo, que será nombrado por el Presidente Municipal y ratificado por el ayuntamiento.
+Los procesos archivísticos son el conjunto de actos concatenados, mediante los cuales el Ente Público le da seguimiento al ciclo de vida de los documentos, desde su producción o ingreso, hasta su transferencia al archivo histórico o su eliminación definitiva por no contener valores secundarios.
 
 ###### Artículo 31.
 
-Para el cumplimiento de los objetivos y operatividad del sistema, los consejos municipales, conforme lo establece esta Ley, y demás ordenamientos jurídicos aplicables, se coordinarán con las demás instancias involucradas, en materia de la seguridad pública.
+El Coordinador de Archivos, en consulta con el Coteciad, emitirá los instrumentos de control para la regulación de los procesos archivísticos que se llevan a cabo a lo largo del ciclo vital de los documentos en el Ente Público, e instrumentarlas en coordinación con las unidades de archivo.
 
 ###### Artículo 32.
 
-Son atribuciones del (sic) los consejos municipales, las siguientes:
+Los instrumentos de control del Sistema son aquellos elementos que permiten la revisión técnica y administrativa de los procesos archivísticos asociados al ciclo vital de los documentos de archivo.
 
-I. Aprobar, conforme a esta Ley, las políticas de seguridad pública, que deban aplicarse, en el ámbito de su competencia; así como establecer las medidas conducentes para la debida observancia y cumplimiento de las mismas;
-
-II. Analizar la problemática de seguridad pública en el municipio, estableciendo objetivos y políticas para su adecuada solución, que sirvan de apoyo a los programas municipales, estatales y federales de seguridad pública;
-
-III. Adoptar las medidas necesarias para la profesionalización de los cuerpos de seguridad pública municipal;
-
-IV. Contribuir al establecimiento y perfeccionamiento de los registros estatal y nacional de servidores públicos, armamento y equipo;
-
-V. Coadyuvar en la integración, ampliación y perfeccionamiento del sistema de información de apoyo y de la localización de personas;
-
-VI. Proponer ante el Consejo Estatal, la celebración de convenios, contratos y acuerdos con organismos e instituciones de los sectores público, social y privado, los necesarios, para la prestación del servicio de seguridad en el municipio; y
-
-VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
-
-#### Sección II. De la Formación y Actuación de los
-
-Miembros de las Instituciones Policiales
+#### Sección I. De los procesos archivísticos
 
 ###### Artículo 33.
 
-Para efectos de esta Ley, la carrera policial es el elemento básico para la formación de los integrantes de las instituciones policiales, a fin de cumplir con los principios de actuación y desempeño; comprenderá los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción y separación del servicio, así como su evaluación.
+Los procesos archivísticos básicos son los siguientes:
+
+I. Integración de expedientes y series;
+
+II. Clasificación;
+
+III. Descripción;
+
+IV. Valoración;
+
+V. Disposición;
+
+VI. Baja o depuración documental, y
+
+VII. Transferencias primarias y secundarias.
 
 ###### Artículo 34.
 
-La carrera policial en sus diversos niveles estatal y municipal, se establecerá con carácter de obligatoria y permanente. Deberá instrumentarse por el Estado y los municipios en sus respectivos ámbitos de competencia y de manera coordinada, a través de un servicio nacional de apoyo que homologue procedimientos y busque la equivalencia de los contenidos mínimos de planes y programas para la formación respectiva.
+Los documentos de archivo deben integrarse y obrar en expedientes, o unidades de documentación compuesta, constituidos por uno o varios documentos de archivo, ordenados lógica y cronológicamente y relacionados por un mismo asunto, materia, actividad o trámite.
+
+La integración de expedientes deberá hacerse en fólderes, carpetas o legajos plenamente identificados, preferentemente con carátulas estandarizadas en todo el Ente Público, con el objeto de homologar su clasificación y descripción. Los expedientes deberán foliarse para la integridad de la información que contienen y también deberá evitarse incorporar en ellos, en lo posible, elementos que dañen o lastimen a los documentos que los constituyen, como clips o grapas.
 
 ###### Artículo 35.
 
-La dignificación de las corporaciones policiales será considerada por la legislación respectiva, acorde con la calidad y riesgo de la función y las posibilidades del Estado y sus municipios.
+Los expedientes que se relacionen con el ejercicio de una función o atribución genérica, formarán parte de una Serie Documental, la cual constituye un concepto central en la organización de Archivos y se instituye como una categoría de agrupamiento e integración superior de los expedientes individuales.
+
+Los expedientes deberán siempre asociarse a la Serie Documental o función de la que derive su creación y organizarse de conformidad con el Sistema de Clasificación que se establezca dentro del Ente Público.
 
 ###### Artículo 36.
 
-Para que la actuación de los integrantes de las instituciones policiales en el Estado, se apeguen a los principios constitucionales, legales, de eficiencia, profesionalismo y honradez, el Consejo Estatal, promoverá que las normas aplicables prevean como mínimo los deberes siguientes:
+La Clasificación Archivística es el proceso mediante el cual se identifica, agrupa, sistematiza y codifican los expedientes de acuerdo con su origen estructural y funcional.
 
-I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
+Todos los expedientes deberán estar correctamente clasificados mediante la utilización de un código que los identifique plenamente, el cual deberá contener, sin menoscabo de niveles intermedios que el Ente Público establezca, al menos los siguientes aspectos:
 
-II. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+I. Código o clave de la Unidad Administrativa o área productora del expediente;
 
-III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, ideología política o por algún otro motivo;
+II. Código de la serie a la que pertenece el expediente que se clasifica;
 
-IV. Abstenerse en todo momento y ante cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros actos o acciones crueles, inhumanas o degradantes, aún cuando se trate de una orden superior o se argumenten razones especiales, tales como la amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra circunstancia;
+III. Título del tema, asunto o materia a la que se refiere el expediente;
 
-V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que, en ejercicio de sus derechos y con carácter pacífico realice la población;
+IV. Número consecutivo del expediente dentro de la Serie a la que pertenece;
 
-VI. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente;
+V. Año de apertura y en su caso, cierre del expediente;
 
-VII. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+VI. Los datos de valoración y disposición documental que se asocien al expediente, y
 
-VIII. Velar por la vida e integridad física de las personas detenidas en tanto se ponen a disposición del ministerio público o de la autoridad competente;
-
-IX. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-X. Obedecer las órdenes de los superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sean conforme a derecho; y
-
-XI. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan con las excepciones que determinen las leyes.
-
-En el Reglamento Interno y en los instrumentos jurídicos respectivos, se establecerán sanciones por el incumplimiento de los deberes que establece este artículo.
+VII. Los datos asociados a la información de acceso restringido y, en su caso, apertura pública del expediente, de conformidad con lo que al respecto prevea la Ley.
 
 ###### Artículo 37.
 
-De conformidad con la Ley General y su reglamento, se determinarán las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
+La descripción archivística es el registro sistematizado de la información de los documentos de archivo, recopilado, organizado y jerarquizado de forma tal que sirva para localizar y explicar el contexto y sistema que los ha producido.
+
+La descripción archivística deberá realizarse con base en las normas institucionales, nacionales o internacionales universalmente aceptadas que convengan a los Entes Públicos, con el objeto de generar los instrumentos descriptivos básicos que faciliten el control y acceso a la información archivística, los cuales, al menos deberán ser los siguientes:
+
+I. Inventarios,
+
+II. Catálogos, y
+
+III. Guías generales de Fondos.
 
 ###### Artículo 38.
 
-En el Estado de Durango y sus municipios, se sistematizará la información sobre seguridad pública, mediante los instrumentos tecnológicos modernos, que permitan el fácil y rápido acceso a los usuarios a que se refiere esta Ley y la Ley General, misma que suministrará e intercambiará con la federación, los estados, el Distrito Federal y los municipios de la entidad.
+La valoración documental es el proceso de análisis mediante el cual se determinan los valores primarios o secundarios de los documentos.
+
+El valor documental es la condición que guardan los documentos de archivo, la cual les confiere características administrativas, legales y fiscales en los archivos de trámite o concentración (valores primarios) o bien, evidenciales, testimoniales e informativos, que determinan su conservación permanente en un archivo histórico (valores secundarios). La valoración de documentos permite determinar los plazos de guarda o vigencias de los documentos dentro del Sistema, así como determinar su disposición documental.
 
 ###### Artículo 39.
 
-El acceso a la información sobre seguridad pública, se establecerá de acuerdo con el artículo 45 de la Ley General, en los diversos niveles de consulta, respecto de:
+La disposición documental es el destino sucesivo inmediato de los expedientes y series documentales dentro del Sistema Institucional de Archivos, una vez que prescriben sus valores primarios, administrativos, legales y fiscales, dando lugar a la selección de los documentos de archivo que adquieren un valor secundario o a la baja documental o depuración de los que no tienen valor secundario o histórico.
 
-I. La Policía Preventiva;
-
-II. La Policía Judicial;
-
-III. El Ministerio Público;
-
-IV. Las Autoridades Judiciales;
-
-V. Las Autoridades Administrativas en materia de Readaptación Social; y
-
-VI. Otras Autoridades.
+Con base en los procesos de valoración y disposición documental, que invariablemente deberán efectuarse dentro de los Entes Públicos por grupos de valoración integrados al seno de su Coteciad, con las modalidades que se establezcan en los reglamentos de operación de los Comités respectivos, se integrarán los Catálogos de Disposición Documental y sus instrumentos auxiliares, tales como el calendario de caducidades, los inventarios de transferencia primaria y secundaria, así como los inventarios de baja o depuración de archivos, con los cuales se procederá a la selección de documentos con valor secundario o histórico o bien a la ejecución de los procesos de baja o depuración documental.
 
 ###### Artículo 40.
 
-La información será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público información que ponga en riesgo la seguridad pública, la investigación de la comisión de delitos, o atente contra el honor de las personas. El incumplimiento de esta obligación se equipara al delito de revelación de secretos, sin perjuicio de responsabilidades de otra naturaleza.
+La baja documental o depuración es el proceso de eliminación razonada y sistemática de documentación que haya prescrito en sus valores primarios: administrativos, legales y fiscales, y que no posea valores secundarios o históricos: evidenciales, testimoniales o informativos, de conformidad con la valoración de los documentos de archivo.
+
+El proceso de baja documental deberá comprender cuando menos las acciones siguientes:
+
+I. El Archivo de Concentración del Ente Público deberá preparar el inventario de la documentación que haya prescrito en sus valores administrativos, legales y fiscales y que no posea valores secundarios, de conformidad con lo dispuesto en el Catálogo de Disposición Documental del Ente Público, para operar la baja o depuración de los expedientes y series sujetos a este proceso;
+
+II. Los Entes Públicos deberán solicitar al Coteciad, el Dictamen de Valoración Documental de aquéllos archivos cuyo valores primarios y secundarios hayan concluido;
+
+III. El Coteciad llevará a cabo el proceso de valoración documental en los términos establecidos en los presentes Lineamientos y con base en el Dictamen referido en la fracción que precede emitirá, en su caso, la Declaratoria de Inexistencia de Valores Primarios y Secundarios de los archivos objeto de depuración;
+
+IV. Una vez que los Entes Públicos cuenten con la Declaratoria de Inexistencia de valores Primarios y Secundarios, procederán a solicitar por escrito al Instituto la autorización para operar la baja definitiva de los archivos vencidos objeto de depuración, y
+
+V. Con la Declaratoria de referencia, el Instituto, previa verificación del caso ante las instancias competentes, emitirá un dictamen de baja definitiva y notificará dicha circunstancia al titular del Ente Público para que éste proceda en los términos de las disposiciones relativas a la baja de dichos documentos.
 
 ###### Artículo 41.
 
-Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la investigación correspondiente, con el objeto de que, en su caso, se anote la corrección que proceda.
+Para la emisión del dictamen de baja definitiva los Entes Públicos deberán acompañar a su solicitud la documentación siguiente:
 
-#### Sección II. Del Registro Nacional del Personal de Seguridad Pública
+I. Solicitud de baja definitiva de archivos emitida por el titular del Ente Público;
+
+II. Dictamen de Valoración Documental de archivos;
+
+III. Declaración de Inexistencia de Valores Primarios y Secundarios, e
+
+IV. Inventario descriptivo de la documentación objeto de baja en formato electrónico.
+
+La solicitud de baja definitiva de archivos deberá indicar el Ente Público al que pertenecen; el área o áreas que los generaron y la última que los tuvo en su poder: el período que comprenden; el tipo de información que contienen; el plazo y el procedimiento del que dispone el ciudadano para solicitar su consulta, así como la mención de si se conserva respaldo electrónico para la consulta del mismo.
+
+Una vez que el Instituto emita el dictamen de baja definitiva, los Entes deberán publicar en la Gaceta Oficial del Distrito Federal y en sus portales de Internet, la solicitud de baja definitiva referida en el párrafo anterior y el dictamen emitido por el Instituto, indicando el destino que dará a los archivos.
+
+Dicha publicación deberá hacerse por lo menos 60 días antes de la destrucción o enajenación de los archivos.
+
+Los Entes Públicos deberán resguardar el dictamen y los inventarios correspondientes, a partir de la destrucción o enajenación de los archivos.
 
 ###### Artículo 42.
 
-El Registro Nacional del Personal de Seguridad Pública, se conformará como lo ordena la Ley General.
+Los Entes Públicos deberán proporcionar al Instituto copia de las actas de baja o de enajenación que emitan en las que deberá constar la fecha, hora y lugar en la que tuvo lugar la destrucción de los archivos vencidos y, en su caso, los datos de la persona física o moral con la que procedió la enajenación o destrucción de los archivos.
+
+Con la información de referencia, el Instituto integrará un Registro Central de Bajas Documentales autorizadas, mismo que publicará y mantendrá actualizado en su portal de Internet.
+
+La destrucción de archivos en los que se contenga información reservada sólo podrá ser autorizada por el Instituto una vez que hayan transcurrido tres años posteriores a la conclusión del período de reserva.
 
 ###### Artículo 43.
 
-El Registro contendrá por lo menos:
+Transferencia primaria es el proceso de traslado controlado y sistemático de expedientes de consulta esporádica de un archivo de trámite a un archivo de concentración y la transferencia secundaria alude al traslado controlado y sistemático, con base en las disposiciones contenidas en el Catálogo de Disposición Documental, de los expedientes y series del Archivo de Concentración al Archivo histórico, para su conservación permanente.
 
-I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública;
+###### Articulo 44.
 
-II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor; y
+Para efectuar de manera controlada los procesos archivísticos básicos previamente descritos, el Coordinador de archivos, en comunicación con el Coteciad, diseñará, implantará y actualizará periódicamente una serie de instrumentos de control archivístico, de conformidad con lo establecido en los presentes lineamientos.
 
-III. Cualquier cambio de adscripción, actividad o rango, así como las razones que lo motivaron.
-
-Cuando a los integrantes de las instituciones de seguridad pública se les dicte auto de formal prisión, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al Registro.
-
-Las órdenes de detención o aprehensión se notificarán cuando no pongan en riesgo la investigación.
-
-###### Artículo 44.
-
-Las autoridades del Estado de Durango y sus municipios, deberán inscribir y mantener actualizado, en el registro, los datos relativos a todos los integrantes de las instituciones de seguridad pública.
-
-#### Sección I. De las Reglas Generales Sobre la Información
+#### Sección II. De los instrumentos de control archivístico
 
 ###### Artículo 45.
 
-Se consideran miembros de las instituciones de seguridad pública, a quienes tengan nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
+Los Instrumentos básicos de control archivístico que deberán diseñarse, implantarse y actualizarse dentro del Sistema son los siguientes:
+
+I. Manuales de Organización y Procedimientos;
+
+II. Cuadro General de Clasificación Archivística;
+
+III. Tabla de Determinantes de oficina;
+
+IV. Catálogo de Series Documentales;
+
+V. Carátulas estandarizadas de expedientes;
+
+VI. Catálogo de Disposición documental;
+
+VII. Calendario de Caducidades;
+
+VIII. Inventarios;
+
+IX. Formatos estandarizados para transferencias, y
+
+X. Guía General de Fondos.
 
 ###### Artículo 46.
 
-Los integrantes de las instituciones de seguridad pública en el estado y sus municipios, ostentarán una identificación que incluya fotografía, nombre, nombramiento y clave de inscripción en el Registro Nacional de Seguridad Pública.
+Los Manuales de Organización y de Procedimientos son instrumentos en los que debe establecerse la organización estructural del Sistema Institucional de Archivos y su funcionamiento.
+
+Los Manuales de organización y procedimientos deberán contemplar al menos el siguiente capitulado:
+
+I. Presentación del Manual;
+
+II. Objetivos;
+
+III. Políticas para la Administración de Documentos de archivo dentro del Ente Público;
+
+IV. Organización estructural del Sistema Institucional de Archivos;
+
+V. Funcionamiento del Sistema Institucional de Archivos;
+
+VI. Procedimientos operativos;
+
+VII. Formatos e instructivos de operación, y
+
+VIII. Diagramas de flujo.
 
 ###### Artículo 47.
 
-La consulta del registro será obligatoria y previa al ingreso de toda persona a cualquier institución policial en el estado y sus municipios. Con los resultados de la consulta, la autoridad procederá de conformidad con las normas conducentes.
-
-#### Sección III. Del Registro Nacional de Armamento y Equipo
+El Cuadro General de Clasificación Archivística es el modelo e instrumento lógico que representa, de forma sistemática, las categorías establecidas como resultado de la clasificación archivística y que refleja la estructura de los fondos con base en las estructuras orgánicas y las atribuciones y funciones de los Entes Públicos.
 
 ###### Artículo 48.
 
-Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes del Estado de Durango y sus municipios, manifestarán al Registro Nacional de Armamento y Equipo lo siguiente:
-
-I. Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas, la marca, modelo, tipo, número de serie y motor para el registro del vehículo; y
-
-II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
+La Tabla de Determinantes de Oficina es el instrumento auxiliar de la clasificación archivística que permite identificar plenamente, a través de códigos asignados, a las Áreas Administrativas de un Ente Público acorde con su organigrama.
 
 ###### Artículo 49.
 
-Toda persona que ejerza funciones de seguridad pública, sólo podrá portar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se hubiesen asignado en lo particular y estén registradas colectivamente para la institución de seguridad pública a que pertenezcan, conforme a la Ley Federal de Armas de Fuego y Explosivos.
+El Catálogo de Series Documentales es un instrumento auxiliar de la clasificación archivística en el que, mediante la asignación de un código y la descripción de la tipología documental asociada a las diversas series documentales, se establece la plena identificación de éstas en el proceso clasificatorio.
 
 ###### Artículo 50.
 
-Las armas solo podrán ser portadas durante el tiempo del ejercicio de funciones, o para un horario, misión o comisión determinados, de acuerdo con los ordenamientos de cada institución.
+Las carátulas de los expedientes deberán registrar la información que permita la plena identificación y agrupación archivística de los mismos, en concordancia con la codificación que se les ha asignado.
+
+El formato para la carátula estandarizada de los expedientes del Ente Público deberá considerar la información siguiente:
+
+I. Nombre de la unidad administrativa generadora de los expedientes o Fondo;
+
+II. Área productora del expediente o sección;
+
+III. Denominación de la serie documental con la que se asocia el expediente;
+
+IV. Título del expediente;
+
+V. Asunto o materia (breve extracto o descripción del contenido del expediente);
+
+VI. Código asignado al expediente, de conformidad con el Cuadro General de Clasificación Archivística;
+
+VII. Fecha extrema de apertura y, en su caso, de cierre del expediente;
+
+VIII. Número de fojas útiles al cierre del expediente;
+
+IX. Vigencias documentales o plazos de retención del expediente en el Archivo de Trámite y en el Archivo de Concentración del Ente Público, y
+
+X. Disposición documental al término de sus vigencias.
+
+Además de la información anterior, en la carátula de los expedientes, cuando así corresponda, deberán indicarse los datos que describan, de conformidad con la Ley, si el expediente en su totalidad o en alguna de sus partes, se ha considerado como información de acceso restringido, señalándose además, en su caso, el fundamento jurídico de la reserva, la fecha de clasificación y la fecha o situación de desclasificación o apertura pública del expediente.
 
 ###### Artículo 51.
 
-Los miembros de los cuerpos de seguridad pública, serán responsables de la custodia, mantenimiento y buen estado del armamento y equipo que se les asigne para el desempeño de sus funciones. Las autoridades competentes, deberán verificar el cumplimiento de este dispositivo.
+El Catálogo de Disposición Documental es el instrumento que registra de manera general y sistemática, los valores primarios de la documentación, los plazos de conservación o vigencia documental en los archivos de trámite y concentración, así como la clasificación asignada a la información como pública, reservada o confidencial y la determinación de su destino final, al término de sus vigencias.
+
+Dicho Catálogo deberá emitirse por el Ente, con instrucciones para su uso institucional y llenado, y deberá remitirse al Instituto para su conocimiento.
+
+El formato del Catálogo de Disposición Documental deberá contener, al menos, los siguientes campos:
+
+I. Encabezado del Catálogo con el logotipo institucional, nombre del Ente Público y nombre del instrumento, esto es, “Catálogo de Disposición Documental”, así como el número total de fojas que lo integran;
+
+II. Año y, en su caso, clave del formato del Catálogo; información:
+
+a) Clave de la serie documental que se relaciona en el Catálogo;
+
+b) Denominación de la Serie;
+
+c) Tipos de documentos de archivo que integran a los expedientes de la serie;
+
+d) Valoración de los documentos de archivo: administrativa, legal y fiscal;
+
+e) Vigencia o plazos de retención de los expedientes asociados a cada una de las series que se describen en el Catálogo; vigencia en el Archivo de Trámite y en el Archivo de Concentración, y
+
+f) Disposición Documental, destinada a describir el destino final de los documentos de archivo al término de su vigencia:
+
+1) Carácter de la información asociada a los expedientes de la Serie como información pública o de acceso restringido;
+
+2) Plazo de reserva, en su caso.
 
 ###### Artículo 52.
 
-En el caso de que los elementos de seguridad pública aseguren armas y/o municiones, lo comunicarán de inmediato al Registro Nacional de Armamento y Equipo, y las pondrán a disposición de las autoridades competentes, en los términos de las disposiciones de la Ley Federal de Armas de Fuego y Explosivos.
+El Calendario de caducidades es un instrumento auxiliar de la valoración documental en el que se establecerán los tiempos en que, de conformidad con el Catálogo de Disposición Documental, debe operarse los procesos de transferencia, selección y baja de la documentación archivística.
 
 ###### Artículo 53.
 
-El incumplimiento de las disposiciones contenidas en los artículos 50 y 51 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
+Los Inventarios son instrumentos de consulta que describen las series y/o expedientes de un archivo, con el objeto de tener el debido control de los mismos, tanto en los archivos de trámite, concentración y, en su caso, histórico, así como para la eliminación de documentación sin valores secundarios.
 
-#### Sección IV. De la Estadística de Seguridad Pública y la Información
+Los Entes Públicos deberán contar con los inventarios de descripción básica de los expedientes y series que se encuentren depositados en los diversos archivos de la institución, en los que deberá registrarse la información que permita la plena identificación, descripción y localización de los expedientes y series que se incluyan en los propios inventarios. Los Entes Públicos deberán contar con al menos los siguientes inventarios:
 
-de Apoyo a la Procuración de Justicia
+I. Inventarios de los Archivos de Trámite;
+
+II. Inventarios de Transferencia Primaria;
+
+III. Inventario del Archivo de Concentración;
+
+IV. Inventarios de Transferencia Secundaria, en su caso;
+
+V. Inventario de Archivo Histórico, en su caso, y
+
+VI. Inventario de depuración o baja de expedientes.
 
 ###### Artículo 54.
 
-En la estadística de seguridad pública, regida por esta Ley y la Ley General, se señalarán los instrumentos de acopio de datos, que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en el ámbito del Estado de Durango y sus municipios, con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y paz pública, Para este efecto, dispondrá de los mecanismos que permitan la evaluación y reorientación de las políticas de seguridad pública.
+El inventario de los Archivos de Trámite y Concentración deberá realizarse de conformidad con las disposiciones siguientes:
+
+I. Por Series Documentales, desde la fecha de entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal (9 de mayo de 2003) y años anteriores;
+
+II. Por expedientes a partir del 10 de mayo de 2003 y en adelante;
+
+III. El inventario de Depuración o baja documental deberá realizarse invariablemente por expedientes y de conformidad con lo dispuesto en el artículo 54 de Ley, y
+
+IV. La dictaminación de los procesos de depuración o baja de la documentación acumulada por los Entes Públicos del Distrito Federal que no posea valores primarios y secundarios se llevará a cabo conforme a lo dispuesto en el proceso de baja documental o depuración.
 
 ###### Artículo 55.
 
-Las normas generales para la recepción de la información, serán establecidas por el reglamento y demás ordenamientos aplicables.
+Los inventarios estandarizados para la ejecución de las transferencias documentales son los instrumentos con los cuales se agilizará el traslado controlado y sistemático de expediente de una unidad de archivo a otro, según sea el caso.
 
-### CAPÍTULO III. DE LA PROFESIONALIZACIÓN DE
-
-LOS CUERPOS DE SEGURIDAD PÚBLICA
+### Capítulo Cuarto. De la gestión de documentos electrónicos
 
 ###### Artículo 56.
 
-Las estadísticas de seguridad pública sistematizarán los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias, de tratamiento de menores, y los factores asociados a la problemática de seguridad pública.
+Los Entes Públicos del Distrito Federal, en el marco de su Sistema, deberán establecer medidas para la administración, uso, control y conservación de los documentos de archivo electrónicos, garantizando los aspectos siguientes:
+
+I. La incorporación y uso ordenado de las tecnologías de la información en la generación de documentos de archivo electrónicos asociados a los procesos de gestión institucional;
+
+II. Establecer programas para la gestión de documentos de archivo electrónicos;
+
+III. La incorporación de medidas, normas y especificaciones técnicas nacionales e internacionales, para garantizar la autenticidad, seguridad, integridad y disponibilidad de los documentos de archivo electrónicos y su control archivístico;
+
+IV. Garantizar el uso y conservación de la documentación electrónica sustantiva como información de largo plazo, y
+
+V. Propiciar la incorporación de procesos e instrumentos para la clasificación, descripción, así como para la valoración y disposición de documentación electrónica.
 
 ###### Artículo 57.
 
-Las instituciones de prevención, procuración, administración de justicia, readaptación social y, todas las instancias del gobierno estatal y municipal que deban contribuir a la seguridad pública, aportarán la información relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
-
-En los casos de resoluciones de libertad por desvanecimiento de datos, falta de elementos para procesar y sentencias absolutorias, la autoridad judicial que conozca, comunicará lo conducente para dar de baja de la base de datos la información respectiva.
+Los Entes Públicos deben mantener al personal archivístico capacitado y actualizado permanentemente para la habilitación técnica y la adquisición de competencias laborales, relacionadas con la administración y conservación de los documentos de archivo electrónicos.
 
 ###### Artículo 58.
 
-El Ministerio Público, solo se reservará la información que ponga en riesgo alguna investigación, pero la proporcionará en cuanto deje de existir tal condición.
+Los Entes Públicos propiciarán, con el concurso de las instancias competentes en sus respectivas instituciones y en el marco de su Sistema, el desarrollo ordenado del programa para la automatización de archivos, la digitalización de imágenes y el programa de microfilmación, auspiciando medidas de racionalidad y eficiencia en la aplicación y adquisición de tecnologías incorporadas para la administración de documentos de archivo, la gestión y la conservación de archivos, en los diversos soportes documentales.
 
-### CAPÍTULO IV. DE LA INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
+### Capítulo Quinto. De la gestión de documentos de archivo de acceso restringido
 
 ###### Artículo 59.
 
-El Consejo Estatal, impulsará las acciones necesarias para que se establezca un servicio para la localización de personas y bienes.
+Los documentos de archivo que contengan información de acceso restringido por los Entes Públicos del Distrito Federal deberán identificarse y organizarse de conformidad con lo establecido en los presentes Lineamientos en materia de integración y clasificación archivística, por lo que para su correcta administración y control, se aplicarán las disposiciones técnicas siguientes:
 
-### CAPÍTULO V. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+I. Todos los documentos de archivo en cualquiera de sus soportes, deberán estar plenamente identificados, agrupados y sistematizados; es decir, se les asignará una carátula y un código clasificatorio, con base en el Cuadro General de Clasificación Archivística;
+
+II. Los documentos de archivo de acceso restringido se sujetarán a lo establecido en materia de valoración documental para todas las series documentales a las que pertenezcan, registrándose en el Catálogo de Disposición Documental el plazo de reserva que corresponda a las series de acceso restringido;
+
+III. Si dentro de una serie documental se ha restringido el acceso a un solo expediente o a un grupo de expedientes, éstos deberán registrarse en un inventario especial dentro de cada área administrativa en el que se señalen los datos de identificación siguientes:
+
+a. Nombre del área productora o usuaria de los expedientes de acceso restringido;
+
+b. Título del expediente;
+
+c. Serie documental a la que pertenece;
+
+d. Año del expediente y en su caso fecha de cierre del mismo;
+
+e. Plazo de reserva del expediente;
+
+f. Justificación jurídica de la reserva;
+
+g. Fecha de apertura pública del expediente, y
+
+h. Responsable de la custodia de los expedientes de acceso restringido;
+
+IV. Una vez concluidos los plazos de reserva y de vigencia archivística, todos los expedientes que contengan información de acceso restringido, en su modalidad de reservada, de conformidad con el Catálogo de Disposición Documental del Ente Público, se considerarán como información de valor permanente, transfiriéndose al Archivo Histórico institucional para su conservación;
+
+V. Sólo podrá restringirse el acceso público a los expedientes y series del Ente Público cuando contengan información de acceso restringido, en términos de la Ley, y
+
+VI. Los documentos de archivo que hayan sido caracterizados como de acceso restringido por contener este tipo de información en sus modalidades de información reservada y confidencial se sujetarán a lo dispuesto en la materia dentro de la Ley.
+
+### Capítulo Sexto. De los recursos operativos de los archivos
 
 ###### Artículo 60.
 
-El Consejo Estatal, promoverá que en el Estado se establezca un servicio de comunicación telefónica que reciba los reportes de la comunidad, sobre emergencias, faltas y delitos de que tenga conocimiento. El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y de carácter privado.
+El Ente Público, conforme a su disponibilidad presupuestal y normatividad aplicable, en el marco del Sistema establecerá medidas para la profesionalización, el crecimiento institucional y la capacitación permanente del personal dedicado a la función de archivos.
 
 ###### Artículo 61.
 
-Para la atención de los reportes de información, emergencias, faltas y delitos que los ciudadanos deseen hacer del conocimiento de la autoridad, se establecerá un servicio de comunicación que tendrá acceso inmediato con las instituciones de seguridad pública, salud, protección civil y las demás asistenciales públicas y privadas. Con este propósito, se instalarán en puntos estratégicos de las poblaciones del Estado, módulos denominados de seguridad, información y quejas que, además, brindarán servicios de seguridad y protección física y patrimonial a los habitantes.
+El personal que en el Ente Público efectúe actividades archivísticas deberá cubrir el perfil requerido para su desempeño.
 
 ###### Artículo 62.
 
-El Gobierno del Estado y los municipios, acordarán a través de los convenios de coordinación, la forma y términos en que operará el servicio de comunicación y los módulos a que se refiere el artículo anterior. En estos convenios de coordinación, se considera también el establecimiento de un servicio para la localización de personas y bienes.
+Los Entes Públicos con la participación de las instancias competentes en la materia y dentro del Sistema, propiciarán, en un marco de racionalidad y austeridad presupuestal, el establecimiento de proyectos ordenados para la adquisición de los recursos, locales, mobiliario y equipo técnico y de seguridad para la conservación preventiva y, en su caso, correctiva, y la preservación de los documentos y archivos.
 
-## TÍTULO TERCERO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD PÚBLICA
+### Capítulo Séptimo. Del Programa Institucional de Desarrollo Archivístico
 
 ###### Artículo 63.
 
-En el Estado sólo podrán funcionar organismos particulares de seguridad, que hubieren obtenido previamente la acreditación respectiva de las autoridades federales y/o estatales, éstas por conducto de la Vicepresidencia del Consejo Estatal.
+Los Entes Públicos del Distrito Federal deberán integrar anualmente, un Programa Institucional de Desarrollo Archivístico en el que se contemplen los objetivos, estrategias, proyectos y actividades que se llevarán a cabo para dar cumplimiento a lo previsto por los artículos 60 y 62 de los presentes Lineamientos.
 
 ###### Artículo 64.
 
-Los requisitos y condiciones para la prestación de los servicios privados de seguridad, la denominación, los mecanismos para su supervisión y las causas y procedimientos para determinar sanciones, serán conforme a las disposiciones jurídicas aplicables.
+El Programa Institucional de Desarrollo Archivístico deberá incluir, entre otros aspectos, los siguientes:
+
+I. Proyectos y acciones de desarrollo e instrumentación de normatividad técnica;
+
+II. Proyectos de capacitación y desarrollo profesional del personal archivístico;
+
+III. Proyectos para la adquisición, con base en las condiciones presupuestales de cada Ente Público, de los recursos materiales de mayor urgencia que requieran los archivos de la institución;
+
+IV. El desarrollo de estudios e investigaciones para la incorporación ordenada de tecnologías de información en el campo de los archivos;
+
+V. Acciones de difusión y divulgación archivística y para el fomento de una nueva cultura institucional en la materia;
+
+VI. Proyectos para la conservación y preservación de la información archivística;
+
+VII. Proyectos y planes preventivos que permitan enfrentar situaciones de emergencia, riesgo o catástrofes, y
+
+VIII. Proyectos de difusión de los archivos de trámite, concentración e histórico.
 
 ###### Artículo 65.
 
-Para los efectos de la presente Ley, los servicios privados de seguridad son auxiliares a la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva. Los particulares que presten este servicio estarán impedidos para ejercer las funciones que corresponden a las autoridades de seguridad pública.
+Para la ejecución, control y evaluación del Programa Institucional de Desarrollo Archivístico, los Entes Públicos establecerán las medidas que se estimen necesarias, siendo obligatorio, en el marco de las acciones de transparencia y rendición de cuentas, publicar el citado Programa y el Informe Anual de su cumplimiento en los portales de Internet de cada Ente Público.
+
+El calendario e informes de avance anual deberán remitirse al Instituto, a más tardar, el 31 de enero de cada año en formato impreso y electrónico para su registro.
+
+### Capítulo Octavo. De los mecanismos de coordinación archivística
 
 ###### Artículo 66.
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por esta Ley, el reglamento respectivo, la Ley General y demás disposiciones aplicables; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia, al Sistema Nacional.
-
-## TÍTULO CUARTO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+El Instituto, en coordinación con los Entes Públicos del Distrito Federal, establecerá mecanismos de coordinación y cooperación interinstitucional para la convergencia de esfuerzos, el desarrollo de actividades conjuntas, tanto de carácter técnico como para la difusión de la importancia de los archivos en el marco de la transparencia gubernamental y la rendición de cuentas, y para el reconocimiento institucional y social de la actividad archivística.
 
 ###### Artículo 67.
 
-El Consejo Estatal y los Consejos Municipales, promoverán la participación de la sociedad en la creación de "Comités de Consulta y Participación Ciudadana", debiendo estar integrados por personas responsables.
+El Instituto, con la participación de los Entes Públicos propiciará la capacitación del personal archivístico, la organización de eventos académicos que vinculen a la comunidad archivística del Distrito Federal y la cooperación con organismos tanto nacionales como internacionales para el fomento de una nueva cultura institucional y social de los archivos.
 
 ###### Artículo 68.
 
-La comunidad urbana y rural, y la sociedad en general, a través de los Comités, participarán apoyando a los Consejos Estatal y a los Consejos Municipales de Coordinación de Seguridad Pública, aportando proyectos para hacer eficaz y eficiente la coordinación interinstitucional de los cuerpos de seguridad pública en el combate de la delincuencia.
+El Instituto establecerá y publicará en su sitio Web un Registro Central de Documentación Archivística que contendrá toda la información relativa a los procesos e instrumentos de control archivístico y programas interinstitucionales de archivos de los Entes Públicos, a fin de evaluar su desarrollo, así como la ejecución de los programas de trabajo y para el control y dictamen de los procesos de eliminación y selección de archivos.
 
-###### Artículo 69.
+La documentación que contendrá el Registro será la siguiente:
 
-Para la integración de los Comités, los Consejos Municipales de Coordinación de Seguridad Pública, convocarán a los sectores sociales de la comunidad, llamando a las personas más representativas a colaborar en el programa de seguridad pública.
+I. Normatividad oficial de los Entes Públicos en materia de archivos;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 1999)</small>
+II. Programa Institucional de Desarrollo Archivístico;
 
-## TITULO QUINTO. DEL PADRÓN DE PROPIETARIOS Y POSEEDORES
+III. Informes de evaluación del desarrollo archivístico en los Entes Públicos;
 
-DE VEHÍCULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+IV. Solicitudes de dictamen, relaciones de inventarios y autorizaciones de baja documental;
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+V. Solicitudes de dictamen, relaciones de inventarios y control de archivos seleccionados como documentación histórica, y
 
-###### ARTICULO 70.
+VI. Directorios actualizados de los responsables de Archivos de los Entes Públicos del Distrito Federal.
 
-Con el objetivo de construir un banco de información e identificación, la Procuraduría General de Justicia del Estado creará y actualizará periódicamente el Padrón de Propietarios y Poseedores de Vehículos Automotores de Procedencia Extranjera que circulan en el Estado de Durango, cuya internación y estancia no se acredite en los términos de la legislación vigente aplicable.
+## TRANSITORIOS
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+Primero. Los presentes Lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
 
-###### ARTICULO 71.
+Segundo. Los Entes Públicos, con independencia de que cuenten con normatividad archivística aplicable al Ente, especialmente en materia de clasificación archivística o valoración documental, deberán elaborar los manuales de operación referidos en términos de los presentes lineamientos, dentro de los seis meses siguientes a la entrada en vigor de este instrumento normativo.
 
-La inscripción en el Padrón es obligatoria para todas las personas que sean propietarios o poseedores de vehículos de procedencia extranjera a que se refiere el artículo anterior; para la selección de la marca, modelo o destino, se estará a lo dispuesto en el Reglamento que para tal efecto emita el Ejecutivo del Estado a través de la Secretaría de Finanzas y de Administración. En el caso de las personas que transmitan la propiedad o la posesión de vehículos registrados en el Padrón, estarán obligados a notificarlo inmediatamente a la Procuraduría, para efecto de la actualización del Padrón, aportando los datos correspondientes.
+En tanto, podrán seguir rigiéndose por su normatividad en todo aquello que no contravenga a lo dispuesto por los presentes Lineamientos.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+Tercero. El programa de desarrollo archivístico de los Entes Públicos correspondiente al año 2008, deberá contemplar, además de lo dispuesto en el artículo 63 de los presentes Lineamientos, el diseño y ejecución de los siguientes proyectos de trabajo:
 
-###### ARTICULO 72.
+a. Programa anual de capacitación archivística del Ente Público;
 
-Para la inscripción en el padrón de uno o más vehículos, el propietario o poseedor deberá presentar los documentos que la Procuraduría considere necesarios para tal efecto. La presentación de estos documentos, tendrá el único objetivo de acreditar y comprobar la información que se incluirá en el Padrón.
+b. Desarrollo del Manual para la organización y funcionamiento del Sistema Institucional de Archivos del Ente Público;
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1999)</small>
+c. Instalación de su Comité Institucional de Administración de Documentos y la formulación de su Reglamento de operación y programa de trabajo específico;
 
-###### ARTICULO 73.
+d. Desarrollo del cuadro de Clasificación Archivística del Ente Público
 
-La información que conformará el Padrón, será la que establezca el Reglamento respectivo, debiendo contener por lo menos, el nombre, edad, domicilio, ocupación, número telefónico y el carácter de propietario o poseedor; y la marca, tipo, modelo, número de motor, número de serie, color exterior, lugar de procedencia y número de placa extranjera de cada vehículo.
+e. Desarrollo del Catálogo de Disposición Documental de la institución;
 
-TRANSITORIOS:
+f. Inventarios de Archivo de Trámite y concentración del Ente Público;
 
-PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+g. Directorio de responsables de los Archivos del Ente Publico, y
 
-SEGUNDO.- Se abroga el decreto que creó el Consejo Consultivo Estatal de Seguridad Pública, publicado en el Periódico Oficial Nº 5 del 17 de enero de 1985, así como las demás disposiciones que se opongan a la presente ley.
+h. Cronograma de las actividades asociadas a los proyectos de trabajo.
 
-TERCERO.- El Consejo Estatal, se instalará dentro de un plazo de 90 días contados a partir de la publicación de la presente Ley.
+Cuarto. El Sistema de Clasificación entrará en vigor a partir de su creación y formalización institucional dentro del Ente Público.
 
-CUARTO.- El reglamento de la presente Ley, se expedirá en un término de 180 días.
+Por ningún motivo deberá reclasificarse la información anterior a la emisión formal del Programa de Clasificación Archivística, ésta deberá conservarse en los términos en los que se organizó, respetando el principio de procedencia y orden original de la documentación.
 
-El Ciudadano Gobernador Constitucional del Estado, dispondrá se publique, circule y observe.
+Quinto. La fecha límite para que los Entes Públicos presenten sus programas de desarrollo archivístico a partir de 2008, será el último día hábil del mes de enero de cada año. Asimismo, se deberán remitir al Instituto, en la misma fecha, para su validación y registro.
 
-Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (12) doce días del mes de Mayo del año de (1999) Mil Novecientos Noventa y Nueve.
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2007)</small>
 
-DIP. CARLOS ABRAHAM GARZA LIMÓN, PRESIDENTE.- DIP. OSCAR GARCÍA BARRÓN, SECRETARIO.- DIP. JAIME RUIZ CANAAN, SECRETARIO.- RÚBRICAS
+Sexto. Para el cumplimiento de los presentes Lineamientos, los Entes Públicos del Distrito Federal tomarán en consideración los siguientes aspectos:
 
-POR TANTO MANDO SE IMPRIMA PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
+a) Conformar su Sistema Institucional de Archivos de manera equivalente a lo establecido en los artículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 y 31 de los presentes Lineamientos. Una vez que hayan sido nombrados los responsables de la conformación y funciones del Sistema antes mencionado, se informará al Instituto para su registro.
 
-DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS DOCE DÍAS DEL MES DE MAYO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
+b) Emitir la normatividad interna a que se refieren los artículos 3, 45, 46 y Segundo Transitorio, de conformidad con los procedimientos establecidos en los ordenamientos legales aplicables. Con relación a la conformación de su Sistema Institucional de Archivos, se remitirá al Instituto la expedición de la normatividad respectiva para su opinión y registro.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- RÚBRICAS.
+c) Elaborar el Programa de Desarrollo Archivístico mencionado en los artículos 62, 63, 64, 65, 68, segundo párrafo, fracción II, Tercero y Quinto Transitorios de los Lineamientos o incluir dentro de sus programas institucionales los proyectos relacionados con el desarrollo archivístico. Lo anterior de acuerdo con la estructura programática que aprueben sus instancias internas competentes. En cualquiera de los dos supuestos anteriores, los programas se enviarán al Instituto para su opinión y registro.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+d) Implementar las acciones necesarias para la capacitación del personal que actualmente realiza actividades archivísticas e incorporar dentro de los perfiles de cargos y puestos de quienes realicen esas actividades, los conocimientos y experiencias sobre la materia.
 
-P.O. 26 DE DICIEMBRE DE 1999.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+G.O. 25 DE JULIO DE 2007.
 
-SEGUNDO.- El presente Decreto es temporal y su vigencia será hasta que el H. Congreso de la Unión resuelva la Iniciativa de Decreto relativa a la regularización de vehículos automotores de procedencia extranjera cuya estancia en el país es irregular.
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE ADICIONA EL PRESENTE ORDENAMIENTO.
 
-TERCERO.- El Ejecutivo Estatal, dentro del término de diez días contados a partir de que entre en vigor el presente Decreto, expedirá el Reglamento respectivo al Título Quinto de la Ley de Coordinación de Seguridad Pública en el Estado de Durango, para proveer su exacto cumplimiento.
+PRIMERO. Se aprueba adicionar el artículo sexto transitorio a los Lineamientos Generales en Materia de Archivos del Distrito Federal,...
 
-CUARTO.- Los propietarios o poseedores de vehículos automotores de procedencia extranjera a que se refiere el presente Decreto, deberán inscribirse en el Padrón, dentro del término de seis meses contados a partir de la fecha en que entre en vigor el Reglamento respectivo al Título Quinto de la citada ley.
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se instruye al Secretario Técnico para que realice las acciones necesarias para la publicación del presente Acuerdo en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
+
+CUARTO. Se instruye al Secretario Técnico para que realice las acciones necesarias a fin de que el presente Acuerdo sea comunicado a los Entes Públicos del Distrito Federal.
