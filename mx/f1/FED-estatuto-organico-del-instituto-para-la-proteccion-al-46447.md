@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-46447"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-10-10"
-last_updated: "2005-10-10"
+last_updated: "2007-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-09-02"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO, PUBLICADO EN EL D.O.F. DE 25 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de octubre de 2005.
 
@@ -952,3 +954,15 @@ SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al A
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
 
 México, D.F., a 2 de septiembre de 2005.- El Secretario Ejecutivo, Mario Beauregard Alvarez.- Rúbrica.- El Secretario de la Junta de Gobierno, Haydeé Lorena Lara Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 25 DE JULIO DE 2007.
+
+PRIMERO.- El presente Estatuto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario publicado en el Diario Oficial de la Federación el 10 de octubre de 2005, salvo por lo dispuesto en el artículo siguiente.
+
+TERCERO.- Los manuales, lineamientos y demás disposiciones administrativas aplicables a las unidades administrativas del Instituto, continuarán en vigor en lo que no se opongan al presente Estatuto, hasta que se expidan las que los sustituyan.
+
+CUARTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
