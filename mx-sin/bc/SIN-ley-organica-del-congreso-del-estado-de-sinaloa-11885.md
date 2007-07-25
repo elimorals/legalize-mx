@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2007-02-09"
+last_updated: "2007-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -641,9 +641,17 @@ XXIV. De Participación Ciudadana;
 
 XXV. De Honor y Disciplina Parlamentaria;
 
-XXVI. De Justicia; e
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2007)</small>
 
-XXVII. Instructora.
+XXVI. De Vivienda;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2007)</small>
+
+XXVII. De Justicia; e
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2007)</small>
+
+XXVIII. Instructora.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -2012,6 +2020,12 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE FEBRERO DE 2007.
 
 DECRETO NUMERO 477
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
