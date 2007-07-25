@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-generales-en-materia-de-archivos-55404"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-05-09"
-last_updated: "2007-05-09"
+last_updated: "2007-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55404&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2007-07-25"
 
 LINEAMIENTOS GENERALES EN MATERIA DE ARCHIVOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2007.
 
 Lineamientos publicado en la Gaceta Oficial del Distrito Federal, el miércoles 9 de mayo de 2007.
 
@@ -828,3 +828,29 @@ Cuarto. El Sistema de Clasificación entrará en vigor a partir de su creación 
 Por ningún motivo deberá reclasificarse la información anterior a la emisión formal del Programa de Clasificación Archivística, ésta deberá conservarse en los términos en los que se organizó, respetando el principio de procedencia y orden original de la documentación.
 
 Quinto. La fecha límite para que los Entes Públicos presenten sus programas de desarrollo archivístico a partir de 2008, será el último día hábil del mes de enero de cada año. Asimismo, se deberán remitir al Instituto, en la misma fecha, para su validación y registro.
+
+> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2007)</small>
+
+Sexto. Para el cumplimiento de los presentes Lineamientos, los Entes Públicos del Distrito Federal tomarán en consideración los siguientes aspectos:
+
+a) Conformar su Sistema Institucional de Archivos de manera equivalente a lo establecido en los artículos 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 y 31 de los presentes Lineamientos. Una vez que hayan sido nombrados los responsables de la conformación y funciones del Sistema antes mencionado, se informará al Instituto para su registro.
+
+b) Emitir la normatividad interna a que se refieren los artículos 3, 45, 46 y Segundo Transitorio, de conformidad con los procedimientos establecidos en los ordenamientos legales aplicables. Con relación a la conformación de su Sistema Institucional de Archivos, se remitirá al Instituto la expedición de la normatividad respectiva para su opinión y registro.
+
+c) Elaborar el Programa de Desarrollo Archivístico mencionado en los artículos 62, 63, 64, 65, 68, segundo párrafo, fracción II, Tercero y Quinto Transitorios de los Lineamientos o incluir dentro de sus programas institucionales los proyectos relacionados con el desarrollo archivístico. Lo anterior de acuerdo con la estructura programática que aprueben sus instancias internas competentes. En cualquiera de los dos supuestos anteriores, los programas se enviarán al Instituto para su opinión y registro.
+
+d) Implementar las acciones necesarias para la capacitación del personal que actualmente realiza actividades archivísticas e incorporar dentro de los perfiles de cargos y puestos de quienes realicen esas actividades, los conocimientos y experiencias sobre la materia.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+G.O. 25 DE JULIO DE 2007.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE SE ADICIONA EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueba adicionar el artículo sexto transitorio a los Lineamientos Generales en Materia de Archivos del Distrito Federal,...
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se instruye al Secretario Técnico para que realice las acciones necesarias para la publicación del presente Acuerdo en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
+
+CUARTO. Se instruye al Secretario Técnico para que realice las acciones necesarias a fin de que el presente Acuerdo sea comunicado a los Entes Públicos del Distrito Federal.
