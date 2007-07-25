@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-sanidad-animal-60"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1993-06-18"
-last_updated: "2004-06-16"
+last_updated: "2007-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE SANIDAD ANIMAL, PUBLICADA EN EL D.O.F. DE 25 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de junio de 1993.
 
@@ -1027,3 +1029,25 @@ SEXTO.- Se deroga el artículo segundo transitorio de la Ley Federal de Sanidad 
 D.O.F. 16 DE JUNIO DE 2004.
 
 ÚNICO.- La presente reforma entrará en vigor el 1 de junio de 2004.
+
+D.O.F. 25 DE JULIO DE 2007.
+
+PRIMERO.- La presente Ley Federal de Sanidad Animal entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley Federal de Sanidad Animal publicada en el Diario Oficial de la Federación el 18 de junio de 1993.
+
+TERCERO.- En tanto no se publique el Reglamento de esta Ley, seguirán aplicándose en lo que no contravenga a sus disposiciones el Reglamento para Campañas de Sanidad Animal, el Reglamento para el Control de Productos Químicos-Farmacéuticos, Biológicos, Alimenticios, Equipo y Servicios para Animales, el Reglamento de la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos en Materia de Movilización de Animales y sus Productos y el Reglamento para la Industrialización Sanitaria de la Carne y las demás disposiciones reglamentarias, normativas y administrativas vigentes a la fecha de entrada en vigor del presente ordenamiento.
+
+CUARTO.- Los registros, permisos, autorizaciones, certificados y aprobaciones otorgados con anterioridad a la fecha de entrada en vigor de esta Ley seguirán vigentes, los nuevos trámites se sujetarán a las disposiciones de la presente Ley.
+
+QUINTO.- Los Organismos Coordinadores de la Movilización Animal, dejarán de operar como tales en un plazo de veinticuatro meses contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un plazo de doce meses, contados a partir de la entrada en vigor de esta Ley, para elaborar, proponer y publicar en el Diario Oficial de la Federación, el marco normativo general en materia de buenas prácticas pecuarias de los bienes de origen animal. Asimismo la Secretaría tendrá un plazo de doce meses contados a partir de la publicación de esta Ley para expedir el o los Reglamentos que se deriven de la presente Ley, en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada Secretaría, cuando se trate del procesamiento en Establecimientos Tipo Inspección Federal.
+
+SÉPTIMO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un plazo de doce meses, contados a partir de la entrada en vigor del Reglamento, para establecer y aplicar las bases para la implementación de sistemas de trazabilidad en animales, bienes de origen animal o productos para uso o consumo animal.
+
+OCTAVO.- La Secretaría tendrá un plazo de veinticuatro meses, contados a partir del inicio de la vigencia de esta Ley, para reestructurar y asignar los recursos necesarios para que los servicios veterinarios se ajusten en los términos que se establecen en esta Ley.
+
+NOVENO.- La Secretaría en un plazo máximo de doce meses publicará en el Diario Oficial de la Federación los puntos de verificación e inspección zoosanitaria internos autorizados.
+
+DÉCIMO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley Federal de Sanidad Animal que ésta abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
