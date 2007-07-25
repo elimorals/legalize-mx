@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2007-03-30"
+last_updated: "2007-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -293,11 +293,15 @@ II.- Coadyuvar con el Ministerio Público;
 
 III.- Estar presente en el desarrollo de todos los actos procesales en los que el inculpado tenga este derecho;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2007)</small>
 
-IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requieran, pudiendo optar por el profesionista de su elección cuando la disponibilidad de éstos así lo permita; y
+IV.- Recibir asistencia médica de urgencia y psicológica cuando lo requieran, pudiendo optar por el profesional de su elección cuando la disponibilidad de éstos así lo permita;
 
-V. Los demás que señalen las leyes.
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2007)</small>
+
+V.- La garantía de reserva de su identidad y paradero por lo que en consecuencia, no podrá ser divulgado para ser transmitido o publicado en medio masivo de comunicación alguno, cualquier dato, hecho o documento que esta disposición tutela; lo anterior sólo será aplicable en los tipos penales contemplados en cualquiera de los Artículos 165 bis, 176, 318, 325, 357 ó 357 bis del Código Penal para el Estado de Nuevo León. La referida garantía podrá ser renunciable únicamente mediante manifestación y ratificación del interesado ante el Ministerio Público o la autoridad judicial en su caso; y
+
+VI.- Las demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5532,3 +5536,7 @@ Artículo Segundo.- El Ejecutivo del Estado, deberá expedir el reglamento respe
 P.O. 30 DE MARZO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; excepto en lo referente a los delitos de Violencia Familiar establecido en el Artículo 287 Bis, el Equiparable a la Violencia Familiar dispuesto en el Artículo 287 Bis 2 y el de Lesiones tipificado en los artículos 300 y 301, cuando el inculpado fuere pariente o persona que tenga relación con el ofendido según lo dispongan los artículos 287 Bis y 287 Bis 2, todos del Código Penal para el Estado de Nuevo León, respecto de los cuales el Procedimiento Oral Penal entrará en vigor a los noventa días naturales contados a partir del día de la publicación del presente Decreto.
+
+P.O. 25 DE JULIO DE 2007.
+
+Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
