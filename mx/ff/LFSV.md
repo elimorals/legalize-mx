@@ -4,7 +4,7 @@ identifier: "LFSV"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-01-05"
-last_updated: "1994-01-05"
+last_updated: "2007-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LFSV"
 
 LEY FEDERAL DE SANIDAD VEGETAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 2007.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 5 de enero de 1994.
+Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1994.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -42,109 +42,171 @@ LEY FEDERAL DE SANIDAD VEGETAL.
 
 ### CAPITULO I. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 1o.
 
-La presente ley es de observancia general en todo el territorio nacional y tiene por objeto regular y promover la sanidad vegetal. Sus disposiciones son de orden público e interés social.
+La presente Ley es de observancia general en todo el territorio nacional y tiene por objeto regular y promover, la sanidad vegetal, así como la aplicación, verificación y certificación de los sistemas de reducción de riesgos de contaminación física, química y microbiológica en la producción primaria de vegetales. Sus disposiciones son de orden público e interés social.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 2o.
 
-La sanidad vegetal tiene como finalidad promover y vigilar la observancia de las disposiciones fitosanitarias; diagnosticar y prevenir la diseminación e introducción de plagas de los vegetales, sus productos y subproductos; establecer medidas fitosanitarias; y regular la efectividad biológica, aplicación, uso y manejo de insumos, así como el desarrollo y prestación de actividades y servicios fitosanitarios.
+La sanidad vegetal tiene como finalidad promover y vigilar la observancia de las disposiciones legales aplicables; diagnosticar y prevenir la diseminación e introducción de plagas de los vegetales, sus productos o subproductos que representen un riesgo fitosanitario; así como establecer medidas fitosanitarias y regular la efectividad de los insumos fitosanitarios y de los métodos de control integrado.
+
+La regulación en materia de sistemas de reducción de riegos de contaminación, tiene como finalidad, promover, verificar y certificar las actividades efectuadas en la producción primaria de vegetales encaminadas a evitar su contaminación por agentes físicos, químicos o microbiológicos, a través de la aplicación de Buenas Prácticas Agrícolas y el uso y manejo adecuados de insumos utilizados en el control de plagas.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 3o.
 
-Las medidas fitosanitarias que establezca la Secretaría serán las necesarias para asegurar el nivel adecuado de protección y calidad fitosanitarias en todo o parte del territorio nacional, para lo cual tomará en consideración el análisis de riesgo, así como las características de la zona donde se origine el problema y las de la zona a la que se destinen los vegetales.
+Las medidas fitosanitarias que establezca la Secretaría, serán las necesarias para asegurar el nivel adecuado de protección y condición fitosanitaria en todo o parte del territorio nacional, para lo cual tomará en consideración la evidencia científica y en su caso, el análisis de riesgo de plagas, así como las características agroecológicas de la zona donde se origine el problema fitosanitario y las de la zonas a la que se destinen los vegetales, productos o subproductos; buscando proteger y conservar la fauna benéfica nativa y el equilibrio natural.
+
+La Secretaría establecerá, las medidas para la reducción de riesgos de contaminación en la producción primaria de vegetales, necesarias para minimizar la presencia de agentes contaminantes físicos, químicos y microbiológicos, determinados a través de un análisis de riesgos.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 4o.
 
-Las medidas fitosanitarias se aplicarán para el combate de plagas que afectan a los recursos y materias primas forestales maderables y no maderables.
+Los programas, proyectos y demás acciones que, en cumplimiento a lo dispuesto en esta Ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ### CAPITULO II. CONCEPTOS
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 5o.
 
-Para los efectos de la ley se entiende por:
+Para los efectos de la Ley se entiende por:
 
-Actividades fitosanitarias: aquéllas vinculadas con la producción, industrialización, movilización o comercialización de vegetales, sus productos o subproductos o insumos, que realicen las personas físicas o morales sujetas a los procedimientos de certificación o verificación previstos en esta ley;
+Actividades relacionadas con los vegetales: Comprende las que se realicen en la producción primaria y empaque de vegetales en campo en lo relativo a la minimización de riesgos a que se refiere esta Ley;
 
-Agente de control biológico: parasitoide, depredador o agente patogénico empleado para el control y regulación de poblaciones de plagas;
+Acreditación: El acto por el cual una Entidad de Acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación para la evaluación de la conformidad;
 
-Agente patogénico: microorganismo capaz de causar enfermedades a los vegetales;
+Acondicionamiento: Medida fitosanitaria ordenada por la Secretaría para adecuar o preparar a los vegetales, sus productos o subproductos con la finalidad de evitar la dispersión de plagas;
 
-Aprobación: acto por el que la Secretaría reconoce a personas físicas o morales como aptas para operar como organismos nacionales de normalización, organismos de certificación, unidades de verificación o laboratorios de pruebas;
+Actividades Fitosanitarias: Aquéllas vinculadas con la producción, industrialización, movilización o comercialización de vegetales, sus productos o subproductos o insumos, que realicen las personas físicas o morales sujetas a los procedimientos de certificación o verificación fitosanitarias previstos en esta Ley;
 
-Calidad fitosanitaria: condición que adquieren los vegetales, sus productos o subproductos por no ser portadores de plagas que los afecten, o bien, la presencia de éstas no rebasa los niveles de tolerancia;
+Agente de Control Biológico: Parasitoide, depredador, entomopatógeno, u organismo antagonista empleado para el control y regulación de poblaciones de plagas;
 
-Campaña fitosanitaria: conjunto de medidas fitosanitarias para la prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
+Agente Patogénico: Microorganismo capaz de causar enfermedades a los vegetales, o a los insectos;
 
-Certificado fitosanitario: documento oficial expedido por la Secretaría o las personas aprobadas o acreditadas para tal efecto, que constata el cumplimiento de las disposiciones fitosanitarias a que se sujetan la movilización, importación o exportación de vegetales, sus productos o subproductos;
+Agroindustrias: Instalación donde se transforma un vegetal en productos y subproductos que pueden representar un riesgo fitosanitario;
 
-Cuarentenas: restricciones a la movilización de mercancías que se establecen en normas oficiales, con el propósito de prevenir o retardar la introducción de plagas en áreas donde no se sabe que existan. Por sus objetivos podrán ser exteriores, si previenen la introducción y presencia de plagas exóticas, o interiores, si retardan la propagación, controlan o erradican cualquier plaga que se haya introducido;
+Análisis de Riesgo de Plagas; Evaluación de Riesgo de Plagas; y Manejo del Riesgo de Plagas: Es la determinación del potencial de daño de una plaga o enfermedad, en términos cuantitativos o cualitativos;
 
-Disposiciones fitosanitarias: las previstas en los reglamentos, decretos, acuerdos y normas oficiales aplicables en materia de sanidad vegetal;
+Aprobación: Acto por el que la Secretaría, previa acreditación por una Entidad de Acreditación reconoce a personas físicas o morales como aptas para operar como organismos de certificación, unidades de verificación o laboratorios de pruebas;
 
-Efectividad biológica: resultado conveniente que se obtiene al aplicar un insumo en el control o erradicación de una plaga que afecta a los vegetales;
+Auditoría de BPA´s: Procedimiento por el cual la Secretaría, o un organismo de certificación, determina que un proceso de producción agrícola se ajusta a la normatividad en la materia;
 
-Estación cuarentenaria: instalación fitosanitaria en donde se mantienen temporalmente los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, equipos y envases que impliquen un riesgo fitosanitario, para confirmación de diagnóstico y, en su caso, tratamiento profiláctico, destrucción o retorno a su país de origen;
+Buenas Prácticas Agrícolas (BPA´s): Conjunto de medidas higiénico-sanitarias mínimas que se realizan en el sitio de producción primaria de vegetales, para asegurar que se minimiza la posibilidad de contaminación física, química y microbiológica de un vegetal o producto fresco;
 
-Inspección: acto que practica la Secretaría para constatar mediante verificación, el cumplimiento de las disposiciones fitosanitarias y, en caso de incumplimiento, aplicar las medidas fitosanitarias e imponer las sanciones administrativas correspondientes, expresándose a través de un acta;
+Condición Fitosanitaria: Característica que adquieren los vegetales, sus productos o subproductos por no ser portadores de plagas que los afecten, o bien, debido a que la presencia de éstas no rebasa los niveles de tolerancia;
 
-Insumo de nutrición vegetal: cualquier sustancia o mezcla que contenga elementos útiles para la nutrición y desarrollo de los vegetales;
+Campaña Fitosanitaria: Conjunto de medidas fitosanitarias para la prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
-Insumo fitosanitario: cualquier sustancia o mezcla utilizada en el control de plagas de los vegetales tales como plaguicidas, agentes de control biológico, material transgénico, feromonas, atrayentes y variedades de plantas cultivadas resistentes a plagas;
+Certificado de Cumplimiento de BPA´s: Documento que expide la Secretaría, posterior a la validación de un dictamen expedido por las personas acreditadas y aprobadas para tal efecto, a solicitud de los interesados o por determinación de la Secretaría, mediante el cual se acredita que se han aplicado sistemas de BPA´s en unidades de producción primaria de vegetales;
 
-Laboratorio de pruebas: persona moral aprobada por la Secretaría para realizar diagnósticos fitosanitarios, análisis de residuos y calidad de plaguicidas, así como evaluaciones de efectividad biológica de los insumos, en los términos establecidos en esta Ley y la ley de la materia;
+Certificado Fitosanitario: Documento oficial expedido por la Secretaría o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, movilización, importación o exportación de vegetales así como sus productos o subproductos que representen un riesgo fitosanitario;
 
-Límites máximos de residuos: concentración máxima de residuos de plaguicidas permitido en o sobre vegetales previo a su cosecha, determinada en base a la norma oficial correspondiente;
+Contaminante: Cualquier agente físico, químico, microbiológico, materia extraña u otras sustancias no añadidas intencionalmente a los vegetales que comprometen su aptitud de ser comestibles;
 
-Material transgénico: genotipos modificados artificialmente que, debido a sus características de multiplicación y permanencia en el ambiente, tienen capacidad para transferir a otro organismo genes recombinantes con potencial de presentar efectos previsibles o inesperados;
+Cuarentenas: Restricciones a la movilización de mercancías que se establecen en disposiciones legales aplicables en materia de sanidad vegetal, con el propósito de prevenir o retardar la introducción de plagas en áreas donde no se sabe que existan. Por sus objetivos podrán ser exteriores, si previenen la introducción y presencia de plagas exóticas, o interiores, si retardan la propagación, controlan o erradican cualquier plaga que se haya introducido;
 
-Medidas fitosanitarias: las establecidas en normas oficiales para conservar y proteger a los vegetales, sus productos o subproductos de cualquier tipo de daño producido por las plagas que los afecten;
+Cuarentena Vegetal Postentrada: Actividad aplicada a un embarque, después de su entrada al país o a una zona libre o de baja prevalencia;
 
-Movilización: transportar, llevar o trasladar de un lugar a otro;
+Dictamen de efectividad biológica: Documento que emite la Secretaría, una vez que analiza la información sobre los estudios de efectividad biológica de un insumo fitosanitario o de nutrición vegetal, en el que se establece la opinión técnica sobre la conveniencia o negativa de su registro;
 
-Norma mexicana: las normas de referencia de observancia voluntaria, que emitan los organismos nacionales de normalización en los términos de la Ley Federal sobre Metrología y Normalización;
+Disposiciones legales aplicables: Las previstas en esta Ley, reglamentos, decretos, acuerdos, normas oficiales mexicanas y lineamientos aplicables en materia de sanidad vegetal y sistemas de reducción riesgos de contaminación en la producción primaria de vegetales;
 
-Norma oficial: las normas oficiales mexicanas en materia de sanidad vegetal de carácter obligatorio expedidas por la Secretaría en términos de esta Ley y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
+Efectividad Biológica: Resultado conveniente que se obtiene al aplicar un insumo en el control o erradicación de una plaga que afecta a los vegetales;
 
-Organismo auxiliar: organizaciones de productores agrícolas o forestales, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas fitosanitarias que ésta implante en todo o parte del territorio nacional;
+Estación Cuarentenaria: Instalaciones fitosanitarias especializadas para el aislamiento de vegetales, sus productos o subproductos, donde se practican medidas fitosanitarias para prevenir o controlar la diseminación de plagas de los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, equipos y envases que impliquen un riesgo fitosanitario; para confirmación de diagnóstico y, en su caso, tratamiento profiláctico, destrucción o retorno a su país de origen;
 
-Organismo de certificación: persona física o moral aprobada por la Secretaría, para evaluar el cumplimiento de las normas oficiales, expedir certificados fitosanitarios y dar seguimiento posterior a la certificación inicial, a fin de comprobar periódicamente el cumplimiento de las normas oficiales;
+Erradicación: Aplicación de medidas fitosanitarias tendientes a reducir o eliminar la presencia de una plaga en un área geográfica determinada;
 
-Organismo nacional de normalización: persona física o moral aprobada por la Secretaría para elaborar normas mexicanas en materia de sanidad vegetal;
+Hoja de Requisitos Fitosanitarios: Documento expedido por la Secretaría que contiene las disposiciones de observancia general a cumplir, para la importación de vegetales, sus productos o subproductos, que pueda representar un riesgo fitosanitario, cuyos requisitos no estén establecidos en una norma oficial mexicana;
 
-Plaga: forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
+Inspección: Acto que practica la Secretaría para constatar mediante verificación, el cumplimiento de las disposiciones legales aplicables en materia de Sanidad Vegetal y de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales y, en caso de incumplimiento, aplicar las medidas fitosanitarias e imponer las sanciones administrativas correspondientes, expresándose a través de un acta de carácter administrativo;
 
-Plaga exótica: la que es originaria de otro país;
+Insumo Biológico: Cualquier agente de control biológico usado para el control de plagas agrícolas;
 
-Plaguicida: insumo fitosanitario destinado a prevenir, repeler, combatir y destruir a los organismos biológicos nocivos a los vegetales tales como: insecticidas, fungicidas, herbicidas, acaricidas, molusquicidas, nematicidas y rodenticida;
+Insumo de Nutrición Vegetal: Cualquier sustancia o mezcla que contenga elementos útiles para la nutrición y desarrollo de los vegetales;
 
-Producto vegetal: órganos o partes útiles de los vegetales que por su naturaleza o la de su producción, transformación, comercialización o movilización pueden crear un peligro de propagación de plagas;
+Insumo Fitosanitario: Cualquier sustancia o mezcla utilizada en el control de plagas de los vegetales tales como plaguicidas, agentes de control biológico, feromonas, atrayentes, coadyuvantes y variedades de plantas cultivadas resistentes a plagas;
 
-Profesional fitosanitario: profesionista con estudios relacionados con la sanidad vegetal, que es apto, para coadyuvar con la Secretaría en el desarrollo de los programas de extensión y capacitación que en la materia implante, así como en la ejecución de las medidas fitosanitarias que establezca con el dispositivo nacional de emergencia de sanidad vegetal;
+Laboratorio de Pruebas: Persona moral acreditada y aprobada por la Secretaría para realizar diagnósticos fitosanitarios, análisis de residuos de plaguicidas y contaminantes físicos, químicos y microbiológicos y de calidad de plaguicidas, así como evaluaciones de efectividad biológica de los insumos fitosanitarios y de nutrición vegetal, en los términos establecidos en esta Ley;
 
-Puntos de verificación interna: instalaciones ubicadas en las vías terrestres de comunicación, en donde se constatan los certificados fitosanitarios expedidos y, en su caso, se verifican e inspeccionan los vegetales, sus productos o subproductos, los insumos, vehículos de transporte, materiales, maquinaria y equipos que pueden diseminar plagas cuando se movilizan de una zona a otra;
+Límites Máximos de Residuos: Concentración máxima de residuos de plaguicidas permitida en o sobre vegetales;
 
-Secretaría: la Secretaría de Agricultura y Recursos Hidráulicos;
+Medidas Fitosanitarias: Las establecidas en Leyes, reglamentos, normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad vegetal para conservar y proteger a los vegetales, sus productos o subproductos de cualquier tipo de daño producido por las plagas que los afecten;
 
-Servicios fitosanitarios: la certificación y verificación de normas oficiales que realizan la Secretaría o las personas físicas o morales aprobadas;
+Movilización: Transportar, llevar o trasladar de un lugar a otro;
 
-Subproducto vegetal: el que se deriva de un producto vegetal cuyo proceso de producción o transformación no asegura su calidad fitosanitaria;
+Norma Mexicana: La que elabore un organismo nacional de normalización, o la Secretaría, en los términos de la Ley Federal sobre Metrología y Normalización, que prevé para un uso común y repetido reglas, especificaciones, atributos, métodos de prueba, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción primaria u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado;
 
-Tratamiento: procedimiento de naturaleza química, física o de otra índole, para eliminar, remover o inducir esterilidad a las plagas que afectan a los vegetales;
+Norma Oficial Mexicana: Las normas oficiales mexicanas en materia de sanidad vegetal o sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, de carácter obligatorio, expedidas por la Secretaría en términos de esta Ley y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
 
-Unidad de verificación: persona física o moral aprobada por la Secretaría para prestar, a petición de parte, servicios de verificación de normas oficiales y expedir certificados fitosanitarios;
+Organismo Auxiliar: Organizaciones de productores agrícolas, que fungen como auxiliares de la Secretaría en el desarrollo de las medidas fitosanitarias y de reducción de riesgos de contaminación en la producción primaria de vegetales que ésta implante en todo o parte del territorio nacional; incluye a los Comités Estatales de Sanidad Vegetal y a las Juntas Locales, estas últimas pueden adoptar, en forma transitoria el carácter regional, cuando la problemática fitosanitaria así lo exija;
 
-Vegetales: se refiere a los individuos que pertenecen al reino vegetal, considerándose las especies agrícolas, forestales y silvestres;
+Organismo de Certificación: Personas morales acreditadas por una Entidad de Acreditación y aprobadas por la Secretaría, a efecto de coadyuvar en la evaluación de la conformidad de las normas oficiales mexicanas o normas mexicanas en materia de Sanidad Vegetal y de sistemas reducción de riesgos de contaminación en la producción primaria de vegetales;
 
-Verificación: constatación ocular o comprobación mediante muestreo y análisis de laboratorio, del cumplimiento de las normas oficiales, expresándose a través de un dictamen;
+Organismo Nacional de Normalización: Persona moral que tenga por objeto elaborar normas mexicanas en materia de Sanidad Vegetal;
 
-Verificación en origen: la que realizan la Secretaría o los organismos de certificación o unidades de verificación acreditados o reconocidos en términos de esta Ley, para constatar en el país de origen, previo a su importación, el cumplimiento de las normas oficiales o la calidad fitosanitaria de los vegetales, sus productos o subproductos;
+País de Origen: País donde se han cultivado vegetales, sus productos o subproductos y que pueden representar un riesgo fitosanitario;
 
-Zona bajo control fitosanitario: área geográfica determinada en la que se aplican medidas fitosanitarias a fin de controlar, combatir, erradicar o disminuir la incidencia o presencia de una plaga, en un periodo y para una especie vegetal específicos;
+País de Exportación: País al cual ha llegado un embarque y se ha dividido, almacenado o cambiado de embarque para tener como destino final otro país;
 
-Zona de baja prevalencia: área geográfica determinada que presenta infestaciones de especies de plagas no detectables que, con base en el análisis de riesgo correspondiente, no causan impacto económico; y
+Plaga: Forma de vida vegetal o animal o agente patogénico, dañino o potencialmente dañino a los vegetales;
 
-Zona libre: área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una plaga de vegetales específica, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la Secretaría.
+Plaga Cuarentenaria: Plaga de importancia económica potencial para el área en peligro aún cuando la plaga no existe o, si existe, no está extendida y se encuentra bajo control oficial;
+
+Plaga no Cuarentenaria Reglamentada: Plaga cuya presencia en semillas y material propagativo para plantación, influye en el uso de este material, con repercusiones económicamente inaceptables y por lo tanto, está regulada en el territorio de la parte contratante importadora;
+
+Plaga Exótica: La que es originaria de otro país;
+
+Plaguicida: Insumo fitosanitario destinado a prevenir, repeler, combatir y destruir a los organismos biológicos nocivos a los vegetales, sus productos o subproductos;
+
+Producción primaria: proceso que incluye desde la preparación del terreno, siembra, desarrollo del cultivo, cosecha y empaque de los vegetales en campo;
+
+Producto Vegetal: Órganos o partes útiles de los vegetales que por su naturaleza o la de su producción, transformación, comercialización o movilización puedan crear un peligro de propagación de plagas;
+
+Profesional Fitosanitario Autorizado: Profesionista con estudios relacionados con la sanidad vegetal, apto para coadyuvar con los productores y con la Secretaría, en la aplicación de medidas fitosanitarias previstas en disposiciones legales aplicables en materia de Sanidad Vegetal, en los programas de extensión y capacitación y en la instrumentación del dispositivo nacional de emergencia de Sanidad Vegetal;
+
+Punto de entrada: Aeropuerto, puerto marítimo o punto fronterizo terrestre oficialmente reconocido para la importación de vegetales, sus productos o subproductos y/o entrada de pasajeros, con objeto de asegurar que éstos, no representen un riesgo fitosanitario para el país;
+
+Puntos de Verificación Interna: instalaciones autorizadas por la Secretaría ubicadas en las vías terrestres de comunicación, en donde se constatan los certificados fitosanitarios expedidos o cualquier otro documento legalmente reconocido que ampare la movilización de los vegetales, sus productos o subproductos, los insumos, vehículos de transporte, materiales, maquinaria y equipos que pueden diseminar plagas cuando se movilizan de una zona a otra;
+
+Riesgo Fitosanitario: Es la evaluación del impacto fitosanitario o agroecológico que se determina ante el supuesto de la introducción o establecimiento de un organismo en un lugar del cual no es nativo o no está establecido;
+
+Sanidad Vegetal: Actos que competen a la Secretaría, orientados a la prevención, control y erradicación de plagas que afectan a los vegetales, sus productos o subproductos;
+
+Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+Servicios Fitosanitarios: La certificación y verificación de normas oficiales que realiza la Secretaría o las personas físicas o morales aprobadas;
+
+Sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales: Medidas y procedimientos establecidos por la Secretaría en normas oficiales mexicanas y demás disposiciones legales aplicables para garantizar que, durante el proceso de producción primaria, los vegetales obtienen óptimas condiciones sanitarias al reducir la contaminación física, química y microbiológica a través de la aplicación de Buenas Prácticas Agrícolas;
+
+Subproducto Vegetal: El que se deriva de un producto vegetal y que puede representar un riesgo fitosanitario;
+
+Tratamiento: Procedimiento de naturaleza química, física o de otra índole, para eliminar, remover o inducir esterilidad a las plagas que afectan a los vegetales;
+
+Tercero especialista: Profesional autorizado por la Secretaría para auxiliar en la evaluación de la conformidad, a través de verificaciones, en la aplicación de regulaciones en materia de Sanidad Vegetal y de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales;
+
+Unidad de Verificación: Persona física o moral acreditada por una Entidad de Acreditación y aprobada por la Secretaría para prestar, a petición de parte, servicios de verificación de Normas Oficiales Mexicanas y demás disposiciones legales aplicables en materia de Sanidad Vegetal y de reducción de riesgos de contaminación de vegetales;
+
+Vegetales: Individuos que pertenecen al reino vegetal, considerándose las especies agrícolas, sus productos o subproductos; que conservan sus cualidades originales y no han sufrido transformación alguna;
+
+Verificación: La constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio, o examen de documentos que se realizan para la evaluación de la conformidad;
+
+Verificación en Origen: La que realiza la Secretaría, mediante personal oficial u organismos de certificación acreditados y aprobados para constatar en el país de origen, previo a su importación, el cumplimiento de las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de Sanidad Vegetal;
+
+Zona Bajo Control Fitosanitario: Área agroecológica determinada en la que se aplican medidas fitosanitarias a fin de controlar, combatir, erradicar o disminuir la incidencia o presencia de una plaga, en un periodo y para una especie vegetal específicos;
+
+Zona Bajo Protección: Área agroecológica en la que no está presente una plaga, sin embargo, no se han completado todos los requisitos para su reconocimiento como zona libre;
+
+Zona de Baja Prevalencia: Área geográfica determinada que presenta infestaciones de especies de plagas no detectables que, con base en el análisis de riesgo correspondiente, no causan impacto económico;
+
+Zona libre: Área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una plaga específica de vegetales, durante un periodo determinado, de acuerdo con las medidas fitosanitarias aplicables establecidas por la Secretaría.
 
 ### CAPITULO III. DE LA AUTORIDAD COMPETENTE
 
@@ -158,9 +220,13 @@ Son atribuciones de la Secretaría en materia de sanidad vegetal:
 
 I. Promover, coordinar y vigilar, en su caso, las actividades y servicios fitosanitarios en los que participen las diversas dependencias y entidades de la administración pública federal, gobiernos estatales y municipales, organismos auxiliares y particulares vinculados con la materia;
 
-II. Promover y orientar la investigación en materia de sanidad vegetal, el desarrollo de variedades resistentes contra plagas y la multiplicación y conservación de agentes de control biológico;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-III. Promover la armonización y equivalencia internacional de las disposiciones fitosanitarias;
+II. Promover y orientar la investigación en materia de sanidad vegetal, el desarrollo de variedades resistentes contra plagas y la multiplicación y conservación de agentes de control biológico o métodos alternativos para el control de plagas;
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+III. Promover la armonización y equivalencia internacional de las disposiciones legales aplicables;
 
 IV. Proponer al titular del Ejecutivo Federal la formulación o la adhesión a los tratados internacionales que en materia de sanidad vegetal sean de interés para el país, y suscribir los acuerdos interinstitucionales que sean necesarios para lograr la armonización internacional de las medidas fitosanitarias;
 
@@ -172,7 +238,9 @@ VI. Concertar acciones con los organismos auxiliares y particulares vinculados c
 
 VII. Celebrar y promover la suscripción de acuerdos y convenios con instituciones académicas y científicas, nacionales o extranjeras, orientados a desarrollar proyectos conjuntos de investigación científica, capacitación e intercambio de tecnología en materia de sanidad vegetal;
 
-VIII. Dictaminar sobre los aspectos fitosanitarios de los límites máximos de residuos de plaguicidas que se establezcan y, en el ámbito de su competencia, vigilar su observancia;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+VIII. Regular las especificaciones bajo las cuales se deberán desarrollar los estudios de campo para el establecimiento de los límites máximos de residuos de plaguicidas que establezca la autoridad competente en la materia;
 
 IX. Elaborar y aplicar permanentemente, programas de capacitación y actualización técnica en materia de sanidad vegetal;
 
@@ -180,55 +248,155 @@ X. Elaborar, recopilar y difundir regularmente, información y estadísticas en 
 
 XI. Organizar, integrar y coordinar el Consejo Nacional Consultivo Fitosanitario e integrar los consejos consultivos estatales;
 
-XII. Establecer, instrumentar y coordinar el Comité Consultivo Nacional de Normalización de Protección Fitosanitaria;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XII. Establecer, instrumentar, organizar y coordinar el Comité Consultivo Nacional de Normalización de Protección Fitosanitaria;
 
 XIII. Formular, aplicar y, en el ámbito de su competencia, expedir las disposiciones y medidas fitosanitarias, necesarias, certificando, verificando e inspeccionando su cumplimiento;
 
-XIV. Proponer la modificación o cancelación de normas oficiales en materia de sanidad vegetal, cuando científicamente hayan variado los supuestos que regulan o no se justifique la continuación de su vigencia;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XIV. Proponer la modificación o cancelación de normas oficiales mexicanas en materia de sanidad vegetal, cuando científicamente hayan variado los supuestos que regulan o no se justifique la continuación de su vigencia;
 
 XV. Normar las características o especificaciones que deben reunir los equipos, materiales, dispositivos e instalaciones que se utilicen en la prevención y combate de plagas o en las zonas bajo control fitosanitario, verificando su operación;
 
-XVI. Normar en el ámbito de su competencia los aspectos fitosanitarios y de nutrición vegetal de la producción orgánica agrícola y silvícola;
+XVI. (DEROGADA, D.O.F. 26 DE JULIO DE 2007)
 
 XVII. Elaborar, actualizar y difundir el Directorio Fitosanitario;
 
-XVIII. Prevenir la introducción al país de plagas que afecten a los vegetales y ejercer el control fitosanitario en la importación y exportación de vegetales, sus productos o subproductos y agentes causales de problemas fitosanitarios;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XVIII. Prevenir la introducción al país de plagas que afecten a los vegetales, sus productos o subproductos y ejercer el control fitosanitario en la movilización nacional, importación y exportación de vegetales, sus productos o subproductos y agentes causales de problemas fitosanitarios;
 
 XIX. Controlar los aspectos fitosanitarios de la producción, industrialización, comercialización y movilización de vegetales, sus productos o subproductos, vehículos de transporte, materiales, maquinaria y equipos agrícolas o forestales cuando implique un riesgo fitosanitario;
 
 XX. Establecer y aplicar las cuarentenas de vegetales, sus productos o subproductos;
 
-XXI. Ordenar la retención, disposición o destrucción de vegetales, sus productos o subproductos, viveros, cultivos, siembras, cosechas, plantaciones, empaques, embalajes y semillas, en los términos y supuestos indicados en esta Ley, su reglamento y las normas oficiales respectivas;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-XXII. Declarar zonas libres o de baja prevalencia;
+XXI. Ordenar la retención, disposición o destrucción de vegetales, sus productos o subproductos, viveros, cultivos, siembras, cosechas, plantaciones, empaques, embalajes y semillas, en los términos y supuestos indicados en esta Ley, su reglamento, las normas oficiales mexicanas y demás disposiciones legales aplicables;
 
-XXIII. Dictaminar la efectividad biológica de los plaguicidas e insumos de nutrición vegetal;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-XXIV. Regular las actividades y servicios fitosanitarios promoviendo su financiamiento;
+XXII. Declarar zonas libres, de baja prevalecía o bajo protección;
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXIII. Dictaminar la efectividad biológica de los plaguicidas e insumos de nutrición vegetal y regular su uso fitosanitario autorizado;
+
+XXIV. (DEROGADA, D.O.F. 26 DE JULIO DE 2007)
 
 XXV. Instrumentar y coordinar el Dispositivo Nacional de Emergencia de Sanidad Vegetal;
 
-XXVI. Aprobar a organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas en materia de sanidad vegetal, propiciando su acreditamiento;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-XXVII. Organizar, verificar, inspeccionar y normar la operación de organismos de certificación, unidades de verificación y laboratorios de pruebas;
+XXVI. Aprobar organismos de certificación, unidades de verificación y laboratorios de pruebas acreditados en materia de sanidad vegetal;
 
-XXVIII. Instrumentar, organizar y operar el servicio oficial de seguridad fitosanitaria en los puertos aéreos, marítimos y terrestres, actuando en coordinación con las demás dependencias competentes;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXVII. Organizar, verificar, inspeccionar y normar la operación de organismos de certificación, unidades de verificación, laboratorios de prueba aprobados y terceros especialistas;
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXVIII. Organizar, operar y supervisar en los puertos aéreos, marítimos y terrestres, la verificación e inspección de vegetales, productos o subproductos que puedan representar un riesgo fitosanitario;
 
 XXIX. Establecer, coordinar, verificar e inspeccionar las estaciones cuarentenarias y los puntos de verificación interna;
 
 XXX. Otorgar el Premio Nacional de Sanidad Vegetal;
 
-XXXI. Atender las denuncias populares que se presenten, imponer sanciones y resolver recursos de revisión, en los términos de esta Ley; y
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-XXXII. Las demás que señalen esta ley, demás leyes federales y tratados internacionales en los que sean parte los Estados Unidos Mexicanos.
+XXXI. Atender las denuncias populares que se presenten, imponer sanciones, resolver recursos de revisión, así como presentar denuncias ante la autoridad competente por la probable existencia de un delito, en términos de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXII. Evaluar los niveles de riesgo fitosanitario de una plaga de interés cuarentenario, con el propósito de determinar si debe ser reglamentada, así como las medidas fitosanitarias que deban adoptarse;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXIII. Determinar las características y especificaciones que debe reunir el diagnostico fitosanitario de plagas y el procedimiento para su obtención por parte de los particulares;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXIV. Autorizar y regular el uso, movilización, importación y reproducción de agentes de control biológico vivos que se utilicen en el control de plagas que afectan a los vegetales, sus productos o subproductos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXV. Desarrollar y participar en programas de promoción y capacitación sobre el buen uso y manejo fitosanitario de los insumos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXVI. Supervisar, inspeccionar y normar la operación técnica de los laboratorios aprobados y concesionados;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXVII. Normar, autorizar, verificar y certificar los puntos de verificación interna interestatales;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXVIII. Organizar, operar y supervisar los cordones fitosanitarios;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXXIX. Implantar sistemas de gestión de calidad institucional y en los órganos de coadyuvancia;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XL. Validar, generar y divulgar tecnología fitosanitaria en materia de sanidad vegetal y capacitar al personal oficial y privado; y
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XLI. Las demás que señalen esta Ley, demás Leyes Federales y Tratados Internacionales en los que sean parte los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 7o-A.
+
+Son atribuciones de la Secretaría en materia de reducción de riesgos de contaminación en la producción primaria de vegetales:
+
+I. Aplicar y vigilar el cumplimiento de las normas oficiales mexicanas y otras disposiciones legales aplicables, así como realizar los actos de autoridad correspondientes;
+
+II. Promover y capacitar en la aplicación de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, así como promover y orientar la investigación en la materia;
+
+III. Reconocer y certificar las áreas integrales de aplicación de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales;
+
+IV. Promover la armonización y equivalencia internacional de las disposiciones en esta materia;
+
+V. Celebrar acuerdos para una efectiva coordinación de acciones con los gobiernos de las entidades federativas y organismos auxiliares, en los cuales se determinará el ejercicio de funciones operativas y los demás aspectos que se consideren necesarios.
+
+Los acuerdos y convenios que suscriba la Secretaría con los gobiernos estatales y los organismos auxiliares tendrán como objetivo, que estos coadyuven en la ejecución de atribuciones en esta materia;
+
+VI. Celebrar acuerdos de coordinación con otras autoridades del gobierno federal, para realizar actividades de control y regulación en esta materia;
+
+VII. Promover la suscripción de acuerdos y convenios con instituciones académicas y científicas, nacionales o extranjeras, orientados a desarrollar proyectos conjuntos de investigación científica, capacitación e intercambio de tecnología;
+
+VIII. Expedir normas oficiales mexicanas y demás disposiciones legales aplicables relacionadas con los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales.
+
+La Secretaría expedirá los documentos técnicos, que sirvan de base para la aplicación de las Buenas Prácticas Agrícolas y de Manejo;
+
+IX. Organizar y operar la certificación, inspección y vigilancia de los procesos de producción primaria de los vegetales, donde se apliquen las BPA´s;
+
+X. Reconocer a profesionales como terceros autorizados para que coadyuven con la Secretaría en la aplicación y vigilancia del cumplimiento de las BPA´s, que se realicen en las unidades de producción primaria;
+
+XI. Proporcionar a la autoridad competente encargada de otorgar el registro, la información sobre los niveles de residuos obtenidos en los estudios de campo que contribuyen al establecimiento de los límites máximos de residuos de plaguicidas por esta última;
+
+XII. Expedir las disposiciones legales aplicables para regular los sistemas de minimización de riesgos de contaminación en la producción primaria de los vegetales; y
+
+XIII. Las demás que le correspondan conforme a otros ordenamientos.
+
+Las atribuciones señaladas en los artículos 7 y 7-A, se establecerán en normas oficiales mexicanas, acuerdos, lineamientos u otras disposiciones legales aplicables, que se publicarán en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 8o.
 
-Las dependencias y entidades de la administración pública federal deberán coordinar sus actividades con la Secretaría, cuando tengan relación con la materia de sanidad vegetal.
+La Secretaría se coordinará con las dependencias y entidades de la administración pública federal, cuando tengan relación en materia de sanidad vegetal y sistemas de reducción de riesgos de contaminación en la producción primaria de los vegetales.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 9o.
 
-La Secretaría de Hacienda y Crédito Público coadyuvará con la Secretaría para que, en el ámbito de sus atribuciones, vigile el cumplimiento de las disposiciones fitosanitarias aplicables en la importación y exportación de vegetales, sus productos o subproductos.
+La Secretaría de Hacienda y Crédito Público coadyuvará con la Secretaría para que en el ámbito de sus atribuciones, vigile el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal en la importación y exportación de vegetales, sus productos o subproductos cuando representen un riesgo fitosanitario.
 
 ###### Artículo 10.
 
@@ -242,17 +410,27 @@ A petición de la Secretaría, la de Relaciones Exteriores, por conducto de sus 
 
 El Comité Consultivo Nacional de Normalización de Protección Fitosanitaria se integrará y realizará las funciones que se indican en el reglamento respectivo y se sujetará a los lineamientos generales de la Comisión Nacional de Normalización.
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 13.
 
-Las actividades y servicios de certificación y verificación a cargo de particulares, se sujetará a la aprobación que previamente emita la Secretaría, quien propiciará su acreditamiento y verificará e inspeccionará su operación.
+Las actividades y servicios de certificación, auditorías y verificación en materia de Sanidad Vegetal y de sistemas reducción de riesgos de contaminación en la producción primaria de los vegetales podrán realizarse por particulares, sujetándose a la acreditación y aprobación en los términos de la Ley Federal sobre Metrología y Normalización.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 14.
 
-La Secretaría organizará y coordinará la integración y operación de los organismos auxiliares en los términos del reglamento de esta Ley.
+La Secretaría organizará y coordinará en el ámbito territorial que se considere necesario, la integración, operación, supervisión y evaluación de Comités Estatales y Juntas Locales de Sanidad Vegetal para la aplicación de medidas y campañas fitosanitarias y de reducción de riesgos de contaminación en la producción primaria de vegetales, los cuales se regularán en los términos del reglamento de esta Ley y demás disposiciones legales aplicables.
+
+La Secretaría promoverá la profesionalización de los Comités Estatales y Juntas Locales de Sanidad Vegetal, así como la estandarización de su operación y vigilará que los recursos humanos, materiales y financieros que, en su caso, sean proporcionados por la Federación, Estados y Municipios, y aportados por los productores o derivados de la prestación de servicios sanitarios se ajusten a la Normatividad vigente y a principios de equidad, transparencia y racionalidad.
+
+La Junta Local podrá adoptar en forma transitoria el carácter regional cuando la problemática fitosanitaria así lo exija.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 15.
 
-La Secretaría estará facultada para solicitar y recibir el apoyo de la fuerza pública, con el objeto de cumplir con las atribuciones que le confiere esta Ley.
+La Secretaría estará facultada para solicitar y recibir el apoyo de las demás autoridades, incluyendo el auxilio de la fuerza pública, con el objeto de cumplir con las atribuciones que le confiere esta Ley.
 
 ### CAPITULO IV. DEL CONSEJO NACIONAL CONSULTIVO FITOSANITARIO
 
@@ -282,11 +460,15 @@ La Secretaría brindará la asesoría técnica que en la materia le requieran lo
 
 ### CAPITULO I. DE LAS MEDIDAS FITOSANITARIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 19.
 
-Las medidas fitosanitarias tienen por objeto prevenir, confinar, excluir, combatir o erradicar las plagas que afectan a los vegetales, sus productos o subproductos.
+Las medidas fitosanitarias tienen por objeto prevenir, confinar, excluir, combatir o erradicar las plagas que afectan a los vegetales, sus productos o subproductos, cuando puedan representar un riesgo fitosanitario.
 
-Las medidas fitosanitarias se determinarán en normas oficiales que tendrán como finalidades, entre otras, establecer:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Las medidas fitosanitarias se determinarán en normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad vegetal, publicadas en el Diario Oficial de la Federación y que tendrán como finalidades entre otras, establecer:
 
 I. Los requisitos fitosanitarios y las especificaciones, criterios y procedimientos para:
 
@@ -294,25 +476,47 @@ a). Formular diagnósticos e identificación de plagas de los vegetales;
 
 b). Diseñar y desarrollar programas para manejo integrado de plagas, muestreo y pronóstico en materia de sanidad vegetal;
 
-c). Formular estudios de efectividad biológica sobre insumos;
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-d). Determinar la calidad fitosanitaria de los vegetales;
+c). Desarrollar estudios de efectividad biológica sobre insumos;
 
-e). Controlar la movilización, importación y exportación de vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales y equipos susceptibles de ser portadores de plagas, así como de agentes patogénicos;
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-f). Instalar y operar viveros, huertos, empacadoras, almacenes, aserraderos, plantaciones y patios de concentración;
+d). Determinar la condición fitosanitaria de los vegetales y de los insumos fitosanitarios;
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+e). Controlar la movilización, importación y exportación de vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales y equipos susceptibles de ser portadores de plagas, así como de agentes patogénicos que puedan representar un riesgo fitosanitario;
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+f). Instalar y operar laboratorios fitosanitarios, invernaderos, agroindustrias, despepitadoras, viveros, instalaciones para la producción de material propagativo, huertos, empacadoras, almacenes, plantaciones y patios de concentración que puedan constituir un riesgo fitosanitario, así como empresas de tratamientos y puntos de verificación interna;
 
 g). Transportar y empacar vegetales, sus productos o subproductos que impliquen un riesgo fitosanitario;
 
 h). Manejar material de propagación y semillas;
 
-i). Siembras o cultivos de vegetales; plantaciones y labores culturales específicas, y trabajos posteriores a las cosechas;
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+i). Siembras o cultivos de vegetales; plantaciones y labores culturales específicas, así como trabajos de campo posteriores a las cosechas;
 
 j). Aprobar organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas;
 
-k). Certificar, verificar e inspeccionar las normas oficiales aplicables a las actividades o servicios fitosanitarios que desarrollen o presten los particulares; y
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-l). Retener, disponer o destruir vegetales, sus productos o subproductos, viveros, cultivos, siembras, cosechas, plantaciones, empaques, embalajes y semillas, cuando sean portadores o puedan diseminar plagas que los afecten, o bien, hayan sido tratados con insumos que no estén certificados y, en su caso, registrados, o rebasen los límites máximos de residuos previo a la cosecha;
+k) Certificar, verificar e inspeccionar las normas oficiales aplicables a las actividades o servicios fitosanitarios que desarrollen o presten los particulares;
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+l) Retener, disponer o destruir vegetales, sus productos o subproductos, viveros, cultivos, siembras, cosechas, plantaciones, empaques, embalajes y semillas, cuando sean portadores o puedan diseminar plagas que los afecten;
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+m) El aviso de inicio de funcionamiento que deben presentar las personas físicas o morales, que desarrollen o presten actividades o servicios fitosanitarios que conforme a las normas oficiales mexicanas deban sujetarse a certificación y verificación; y
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+n) La movilización de vegetales, sus productos o subproductos que no requieren del certificado fitosanitario.
 
 II. Las campañas de sanidad vegetal de carácter preventivo, de combate y erradicación;
 
@@ -320,35 +524,59 @@ III. Las cuarentenas y mecanismos para vigilar su cumplimiento;
 
 IV. La determinación de exigencias y condiciones fitosanitarias mínimas que deberá reunir la importación de vegetales, sus productos o subproductos, cuando el riesgo fitosanitario o la situación concreta a prevenirse no esté contemplada en una norma oficial específica;
 
-V. Las características de los tratamientos para el saneamiento, desinfección y desinfestación de vegetales, sus productos o subproductos, instalaciones, vehículos de transporte, maquinaria, materiales, equipo, embalajes, envases y contenedores;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-VI. La capacidad que deberán tener las personas responsables de elaborar estudios de efectividad biológica de insumos;
+V. Las características de los tratamientos para el saneamiento, desinfección y desinfestación de vegetales, sus productos o subproductos, instalaciones, vehículos de transporte, maquinaria, materiales, equipo, embalajes, envases y contenedores que puedan representar un riesgo fitosanitario;
 
-VII. Las condiciones de sanidad y seguridad vegetal que deberán observarse en las instalaciones industriales, comerciales y de servicios en donde se desarrollen o presten actividades o servicios fitosanitarios; y
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+VI. Los requisitos que deberán cumplir las personas físicas o morales responsables de elaborar estudios de efectividad biológica de insumos;
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+VII. Las condiciones fitosanitarias que deberán observarse en las instalaciones en donde se desarrollen o presten actividades o servicios fitosanitarios orientados a prevenir, controlar y erradicar plagas que afecten a los vegetales, sus productos y subproductos; y
 
 VIII. Las demás que se regulan en esta Ley así como aquellas que, conforme a la técnica y adelantos científicos, sean apropiadas para cada caso.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Los requisitos y especificaciones señaladas en el reglamento de esta Ley y demás disposiciones legales aplicables en materia de sanidad vegetal y de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, que originen la prestación de trámites y servicios por parte de la Secretaría, se regularán en los términos de la Ley Federal del Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+La Secretaría podrá solicitar y recibir el apoyo de las autoridades federales, estatales y locales, para asegurar el cumplimiento de las disposiciones señaladas en este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 20.
 
-Las normas oficiales además de fundarse y motivarse en términos de esta Ley y demás disposiciones fitosanitarias, deberán:
+Las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de Sanidad Vegetal y de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, para ser publicados en el Diario Oficial de la Federación, además de fundarse y motivarse en términos de esta Ley, su reglamento y demás disposiciones fitosanitarias, deberán:
 
-I. Sustentarse en principios científicos, tomando en cuenta, cuando corresponda, las diferentes condiciones geográficas y otros factores pertinentes;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+I. Sustentarse en evidencias y principios científicos, tomando en cuenta, cuando corresponda, las diferentes condiciones geográficas y otros factores pertinentes;
 
 II. Estar basadas en una evaluación de costo-beneficio, que incluya un análisis de riesgo;
 
 III. Tomar en cuenta las normas, directrices o recomendaciones internacionales pertinentes; y
 
-IV. Abrogarse cuando ya no exista base científica que las sustente.
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-La Secretaría podrá solicitar el apoyo de las autoridades competentes para asegurar el cumplimiento de las normas oficiales.
+IV. Cancelarse cuando ya no exista base científica que las sustente.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 21.
 
-Para promover el desarrollo y prestación de actividades y servicios fitosanitarios a cargo de los particulares que cumplan con las normas oficiales, la Secretaría elaborará, actualizará y difundirá el Directorio Fitosanitario.
+La Secretaría elaborará, actualizará y difundirá el Directorio fitosanitario, con objeto de regular el desarrollo y prestación de actividades y servicios a cargo de los particulares, en los términos señalados en esta Ley.
 
-Dicho directorio consistirá en un catálogo de datos que incluirá la información básica de los profesionales fitosanitarios y las personas físicas o morales aprobadas o que desarrollen actividades fitosanitarias, que cumplan las normas oficiales que les son aplicables.
+Dicho directorio consistirá en un catálogo de datos que incluirá la información básica de los profesionales y las personas físicas o morales acreditadas y aprobadas o que desarrollen actividades, que cumplan las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de sanidad vegetal.
 
-### CAPITULO II. DE LA MOVILIZACION, IMPORTACION Y EXPORTACION
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE JULIO DE 2007)</small>
+
+### CAPITULO II. DE LA MOVILIZACION, IMPORTACION Y EXPORTACION EN MATERIA DE SANIDAD VEGETAL
 
 ###### Artículo 22.
 
@@ -356,59 +584,115 @@ La movilización por el interior del territorio nacional de las mercancías a qu
 
 I. De zonas bajo control fitosanitario hacia zonas libres o de baja prevalecencia;
 
-II. Entre dos o más zonas bajo control fitosanitario, transitando por zonas libres o de baja prevalencia; y
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+II. Entre dos o más zonas bajo control fitosanitario, transitando por zonas libres, bajo protección o de baja prevalencia; y de zonas de baja prevalencia o bajo protección, hacia zonas libres; y
 
 III. Entre dos o más zonas libres o de baja prevalencia, transitando por zonas bajo control fitosanitario.
 
-La movilización de recursos y materias primas que provengan de vegetales afectados por plagas, se sujetará a las disposiciones previstas en esta Ley, independientemente del cumplimiento de los requisitos que para su transporte prevé la Ley Forestal.
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Los productos regulados que se movilicen en zonas bajo el mismo estatus fitosanitario, deberán cumplir con los elementos de rastreabilidad que permitan determinar el origen y la condición fitosanitaria del producto. El reglamento de esta Ley determinará los supuestos aplicables para este caso.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+La movilización de recursos y materias primas que provengan de vegetales, sus productos o subproductos, afectados por plagas, se sujetará a las disposiciones previstas en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 23.
 
 Queda sujeta a control mediante la expedición del certificado fitosanitario la importación de las siguientes mercancías cuando sean susceptibles de ser portadoras de plagas:
 
-I. Vegetales, sus productos o subproductos, agentes patogénicos y cualquier tipo de insumos, materiales y equipos;
+I. Vegetales, sus productos o subproductos, agentes patogénicos y cualquier tipo de insumos, materiales y equipos que puedan representar un riesgo fitosanitario;
 
-II. Vehículos de transporte o embalajes y contenedores en los que se movilicen o contengan las mercancías mencionadas en la fracción anterior o cuando impliquen un riesgo fitosanitario; y
+II. Vehículos de transporte o embalajes y contenedores en los que se movilicen o contengan las mercancías mencionadas en la fracción anterior o cuando impliquen un riesgo de diseminación de plagas que afectan a los vegetales, sus productos o subproductos; y
 
-III. Maquinaria agrícola y forestal, o partes de ésta.
+III. Maquinaria agrícola usada, o partes de ésta.
 
-La Secretaría aplicará las disposiciones fitosanitarias y expedirá normas oficiales que establezcan las características y especificaciones fitosanitarias a que se sujetará dicha importación, así como las mercancías que, en su caso, queden exceptuadas del certificado fitosanitario.
+La Secretaría aplicará las disposiciones fitosanitarias y expedirá normas oficiales mexicanas y demás disposiciones legales aplicables que establezcan las características y especificaciones fitosanitarias a que se sujetará dicha importación, así como las mercancías que, en su caso, queden exceptuadas del certificado fitosanitario.
 
-Asimismo coadyuvará, en el ámbito de su competencia, con las Secretarías de Salud y de Desarrollo Social, verificando que se cumplan las normas oficiales aplicables en la importación de insumos.
+Asimismo coadyuvará, en el ámbito de su competencia, con la Secretaría de Salud, verificando que se cumplan las normas oficiales y demás disposiciones legales aplicables en la importación de vegetales que pudieran constituir un riesgo.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 24.
 
-Quien importe cualquiera de las mercancías enunciadas en el artículo anterior, comprobará en el punto de inspección fitosanitaria de entrada, que cumplen la norma oficial que prevé la situación concreta aplicable al objeto de la importación.
+Quien importe cualquiera de las mercancías enunciadas en el artículo anterior, comprobará en el punto de inspección fitosanitaria de entrada, que cumplen la norma oficial mexicana y demás disposiciones legales aplicables en materia fitosanitaria que prevé la situación concreta aplicable al objeto de la importación.
 
-Cuando el riesgo fitosanitario o la situación concreta a prevenirse no esté contemplada en una norma oficial específica, los interesados deberán cumplir los requisitos mínimos establecidos en las normas oficiales aplicables en situaciones generales.
+Cuando el riesgo fitosanitario o la situación concreta a prevenirse no esté contemplado en una norma oficial específica, los interesados deberán cumplir los requisitos mínimos que establece la hoja de requisitos de importación, prevista en las normas oficiales mexicanas y demás disposiciones legales aplicables para situaciones generales.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 25.
 
-La Secretaría expedirá las normas oficiales que establezcan las especificaciones, criterios y procedimientos para que a costa del interesado, se solicite a la Secretaría o a los organismos de certificación o unidades de verificación acreditados, la verificación en origen de las mercancías que vayan a importarse.
+La Secretaría expedirá las normas oficiales mexicanas y demás disposiciones legales aplicables, que establezcan las especificaciones, criterios y procedimientos para que con cargo al interesado, se solicite a la Secretaría, a los organismos de certificación o unidades de verificación acreditados, la verificación en origen de las mercancías que vayan a importarse.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 26.
 
-Cuando la importación o internación de las mercancías reguladas en este Capítulo implique un riesgo fitosanitario, únicamente podrá realizarse por las aduanas y puertos marítimos, aéreos y terrestres que se determinen en los acuerdos que para el efecto expidan conjuntamente los Secretarios de Hacienda y Crédito Público y de Agricultura y Recursos Hidráulicos, mismos que deberán publicarse en el Diario Oficial de la Federación.
+Cuando la importación o internación de las mercancías reguladas en este Capítulo implique un riesgo fitosanitario, únicamente podrá realizarse por las aduanas y puertos marítimos, aéreos y terrestres que se determinen en los acuerdos que para el efecto expidan conjuntamente los Secretarios de Hacienda y Crédito Público y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, mismos que deberán publicarse en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 27.
 
-Los interesados en la exportación de vegetales, sus productos o subproductos y cualquier material o equipo que implique un riesgo fitosanitario, una vez que comprueben el cumplimiento de la norma oficial aplicable, podrán solicitar el correspondiente certificado fitosanitario.
+La Secretaría expedirá el certificado fitosanitario internacional para la exportación de las mercancías descritas en el Artículo 23 de esta Ley, una vez que compruebe el cumplimiento de las normas oficiales mexicanas y de la legislación vigente del país que importa la mercancía.
+
+La Secretaría determinará el procedimiento que deberá aplicarse para la obtención del certificado fitosanitario internacional.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 27-A.
+
+Para la importación de vegetales, sus productos o subproductos que estén contemplados en el acuerdo de fracciones arancelarias, reguladas por la Secretaría y la Secretaría de Economía, deberán cumplirse los requisitos fitosanitarios establecidos, en las normas oficiales mexicanas, hojas de requisitos fitosanitarios o planes de trabajo binacionales. La Secretaría determinará mediante el Reglamento de ésta Ley, los supuestos en los que se establecerán dichos requisitos.
+
+El interesado deberá obtener previamente las hojas de requisitos fitosanitarios para los vegetales, sus productos y subproductos que pretende ingresar al país y comprobar su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 28.
 
-La información que contendrán los certificados fitosanitarios y los supuestos a que se sujetará su expedición, se precisarán en el reglamento de esta Ley y en las normas oficiales respectivas.
+La información que contendrán los certificados fitosanitarios y los supuestos a que se sujetará su expedición, se precisarán en el reglamento de esta Ley, en normas oficiales mexicanas y demás disposiciones legales aplicables.
 
-Cuando la movilización o importación de productos o subproductos vegetales no requieran de certificado fitosanitario, deberá mencionarse ostensiblemente durante su comercialización, las disposiciones fitosanitarias que cumplen o, en su defecto, las normas mexicanas o las especificaciones fitosanitarias del fabricante, del productor, del país de origen o las internacionales.
+Cuando la movilización o importación de vegetales, sus productos o subproductos no requieran de certificado fitosanitario, deberá mencionarse ostensiblemente durante su comercialización, las disposiciones legales aplicables que cumplen o, en su defecto, las normas mexicanas o las especificaciones fitosanitarias del fabricante, del productor, del país de origen o las internacionales.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 29.
 
-Los agentes aduanales, así como quienes importen o movilicen alguna o varias de las mercancías enunciadas en el artículo 23, serán responsables de vigilar que se cumplan con las disposiciones fitosanitarias y, en su caso, que exista el certificado fitosanitario correspondiente.
+Los agentes aduanales, así como quienes importen o movilicen alguna o varias de las mercancías enunciadas en el artículo 23, serán responsables de vigilar que se cumplan las disposiciones legales aplicables en materia de sanidad vegetal o de sistemas de reducción de riesgos de vegetales, y en su caso, que existan los certificados correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 29-A.
+
+Las importaciones que cumplan con los requisitos establecidos en la Norma Oficial Mexicana específica o en las hojas de requisitos fitosanitarios, se les expedirá el certificado fitosanitario de importación, en los Puntos de Ingreso al país.
+
+El personal oficial deberá realizar una verificación documental y física de las importaciones para constatar su cumplimiento antes de expedir dicho certificado.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 30.
 
-Cuando se compruebe que las mercancías enunciadas reguladas en este Capítulo, no cumplen con las disposiciones fitosanitarias respectivas, la Secretaría ordenará su reexportación o su destrucción a costa del propietario o importador.
+Cuando se compruebe que las mercancías a que se refiere este Capítulo, no cumplen con las disposiciones de observancia general que le sean aplicables, el importador o su representante podrán:
 
-En los supuestos expresamente previstos por la norma oficial aplicable, la Secretaría podrá ordenar que el interesado a su costa, realice el tratamiento o acondicionamiento de las mercancías objeto de la importación.
+I. Retornar la mercancía al país de origen o enviarla a otro país que la acepte;
+
+II. Optar por su destrucción con cargo y aceptación del importador cuando se cuente con las facilidades para ello;
+
+III. Reacondicionar la mercancía cuando esa medida esté científicamente comprobada; o
+
+IV. Solicitar a la propia Secretaría la evaluación del riesgo fitosanitario y de ser procedente la autorización para su ingreso, bajo el procedimiento de cuarentena postentrada. La mercancía se mantendrá en una estación cuarentenaria o instalación autorizada por la Secretaría, en tanto se emite el diagnóstico de laboratorio de pruebas.
+
+De no elegir alguna de las opciones citadas en las fracciones anteriores, transcurridos diez días hábiles posteriores a la fecha de retención de las mercancías, la Secretaría procederá a destruirlas o a someterlas a proceso sanitario para su tratamiento y darles el destino que la misma determine.
+
+En cualquiera de los casos, los gastos originados por el manejo fitosanitario de las mercancías, serán cubiertos por el importador o su representante.
+
+La autorización de las instalaciones para realizar cuarentenas postentrada (sic), se realizará de acuerdo al procedimiento establecido por la Secretaría.
+
+Las cuarentenas postentradas estarán sujetas a la autorización de la Secretaría y en las instalaciones que la misma determine.
 
 ### CAPITULO III. DE LAS CAMPAÑAS Y CUARENTENAS
 
@@ -416,9 +700,31 @@ En los supuestos expresamente previstos por la norma oficial aplicable, la Secre
 
 La Secretaría expedirá las normas oficiales que establezcan las campañas y cuarentenas fitosanitarias que sean necesarias.
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 32.
 
-Las normas oficiales que establezcan campañas fitosanitarias, deberán fijar, cuando menos, el área geográfica de aplicación; la plaga a prevenir, combatir o erradicar; las especies vegetales afectadas; las medidas fitosanitarias aplicables; los requisitos y prohibiciones a observarse; los mecanismos de verificación e inspección; los métodos de muestreo y procedimientos de diagnóstico; la delimitación de las zonas bajo control fitosanitario, y la terminación de la campaña.
+Las normas oficiales mexicanas y demás disposiciones legales aplicables que establezcan las campañas fitosanitarias, deberán fijar:
+
+I. El área geográfica de aplicación;
+
+II. La plaga a prevenir, combatir o erradicar;
+
+III. Las especies vegetales afectadas;
+
+IV. Las medidas fitosanitarias aplicables;
+
+V. Los requisitos y prohibiciones a observarse;
+
+VI. Los mecanismos de verificación e inspección;
+
+VII. Los métodos de muestreo y procedimientos de diagnóstico;
+
+VIII. La delimitación de las zonas bajo control fitosanitario;
+
+IX. La terminación de la campaña; y
+
+X. Los criterios para evaluar y medir el impacto de las acciones de las campañas.
 
 ###### Artículo 33.
 
@@ -432,99 +738,225 @@ III. Elaboración de programas de trabajo en el que se describan las acciones co
 
 IV. Aplicación inmediata de los métodos de combate existentes, preferentemente a través de su uso integrado; y
 
-V. Evaluación detallada de los resultados y beneficios obtenidos al término de la campaña.
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+V. Evaluación detallada de los resultados y beneficios obtenidos anualmente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 34.
 
-Las normas oficiales que establezcan cuarentenas, además de fijar las medidas fitosanitarias a aplicarse, deberán determinar, cuando menos:
+Las normas oficiales mexicanas que establezcan cuarentenas, además de fijar las medidas fitosanitarias a aplicarse, deberán determinar, cuando menos:
 
 I. El objetivo de la cuarentena;
 
 II. La plaga cuarentenaria que justifica su establecimiento; y
 
-III. El ámbito territorial de aplicación y los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales o equipos sujetos o cuarentena.
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+III. El ámbito territorial de aplicación y los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales o equipos sujetos a cuarentena que puedan representar un riesgo fitosanitario.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 35.
 
-La Secretaría mediante normas oficiales determinará los requisitos y medidas fitosanitarias que deberán cumplirse para movilizar a zonas libres vegetales, sus productos o subproductos cuarentenados, así como los vehículos de transporte, maquinaria, materiales o equipo que hayan estado en contacto con ellos.
+La Secretaría mediante normas oficiales mexicanas y disposiciones legales aplicables en materia de sanidad vegetal determinará los requisitos y medidas fitosanitarias para movilizar a zonas libres, bajo protección y/o baja prevalencia, vegetales, sus productos o subproductos cuarentenados, así como los vehículos de transporte, maquinaria, materiales o equipo que hayan estado en contacto con ellos.
 
 Cuando se compruebe que la movilización de las mercancías enunciadas en el párrafo anterior implica un riesgo fitosanitario, la Secretaría revocará los certificados que se hayan expedido y aplicará las medidas fitosanitarias necesarias.
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 36.
 
-La Secretaría expedirá las normas oficiales que establezcan las características y especificaciones que deben reunir las estaciones cuarentenarias, así como las regiones donde se justifique su establecimiento. En dichas instalaciones se mantendrán en observación los vegetales, sus productos o subproductos sujetos a control cuarentenario, que se pretendan introducir o movilizar en el territorio nacional.
+La Secretaría expedirá las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de sanidad vegetal que establezcan las características y especificaciones que deben reunir las estaciones cuarentenarias y las instalaciones de cuarentena postentrada, así como las regiones donde se justifique su establecimiento.
+
+En dichas instalaciones, se mantendrán en observación los vegetales, sus productos o subproductos sujetos a control cuarentenario, que se pretenda introducir o movilizar en el territorio nacional.
 
 ###### Artículo 37.
 
 Con base en el resultado de los muestreos en áreas geográficas específicas y la certeza comprobada de la no presencia o baja prevalencia de una plaga, la Secretaría podrá declarar zonas libres o de baja prevalencia de plagas que afecten a los vegetales.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 37 bis.- Las personas físicas o morales que desarrollen o presten actividades o servicios fitosanitarios, que conforme a las normas oficiales correspondientes o demás disposiciones legales aplicables, deban sujetarse a certificación y verificación fitosanitarias, presentarán a la Secretaría, directamente o a través de los organismos de certificación o unidades de verificación aprobados, el aviso de inicio de funcionamiento, en el que se harán constar los datos del interesado y que cumple con las especificaciones, criterios y procedimientos previstos en las normas oficiales que le sean aplicables.
+
+Una vez que se verifique y certifique la veracidad de la información proporcionada, así como el cumplimiento de las disposiciones establecidas en la normatividad respectiva, con base en el aviso indicado en el párrafo anterior, la Secretaría la inscribirá en el Directorio Fitosanitario.
+
+La actualización y difusión de la información que se inscriba en el Directorio Fitosanitario, se harán en los términos del reglamento de esta Ley.
+
 ### CAPITULO IV. DEL CONTROL DE INSUMOS, ACTIVIDADES Y SERVICIOS
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 38.
 
-La Secretaría establecerá a través de normas oficiales, los procedimientos para certificar y evaluar la efectividad biológica, aplicación, uso y manejo en el campo, que deberán reunir los insumos fitosanitarios y de nutrición vegetal. Asimismo determinará las actividades y servicios fitosanitarios cuya prestación y desarrollo deberá sujetarse a normas oficiales y a la certificación y verificación correspondientes.
+La Secretaría establecerá a través de normas oficiales mexicanas y demás disposiciones legales aplicables:
+
+I. Los procedimientos para certificar, dictaminar y evaluar la efectividad biológica;
+
+II. Los procedimientos para la aplicación, uso y manejo en el campo;
+
+III. Las especificaciones para realizar los estudios de campo para el establecimiento de límites máximos de residuos; y
+
+IV. Las especificaciones fitosanitarias y de buen uso que deberán observarse en apego a lo establecido en el dictamen técnico de efectividad biológica.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 39.
 
-Los plaguicidas e insumos de nutrición vegetal deberán contar con el registro de la dependencia de la administración pública federal competente. Los interesados presentarán para dictamen un estudio de efectividad biológica a la Secretaría u organismos de certificación o unidades de verificación acreditados, mismo que se remitirá a la dependencia encargada del registro opinando sobre la conveniencia de inscribir el insumo de que se trate, así como las plagas específicas y cultivos sobre los que se recomienda su aplicación.
+Los interesados presentarán para su dictamen los estudios de efectividad biológica que la Secretaría determine, mismo que se remitirá a la dependencia encargada del registro del insumo de que se trate, así como los cultivos, plagas, dosis, métodos de aplicación, intervalo de seguridad que se recomiendan para su aplicación previo a la cosecha.
 
-Las personas físicas o morales que desarrollen o presten cualquier actividad o servicio fitosanitarios, deberán asegurarse que los insumos que recomienden o utilicen cuenten con la certificación y, en su caso, el registro correspondientes.
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 39 bis.- Las personas físicas o morales que desarrollen o presten actividades fitosanitarias, deberán observar las especificaciones establecidas en el dictamen de efectividad biológica de los insumos fitosanitarios y de nutrición vegetal.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 40.
 
-Los laboratorios de pruebas acreditados que formulen los estudios de efectividad biológica indicados en el artículo anterior, se sujetarán a las especificaciones, criterios y procedimientos establecidos en las normas oficiales correspondientes.
+Las personas físicas o morales reconocidas por la Secretaría para formular los estudios de efectividad biológica indicados en el artículo anterior, se sujetarán a las especificaciones, criterios y procedimientos establecidos en las normas oficiales mexicanas correspondientes y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 41.
 
-La Secretaría podrá solicitar al fabricante o a los laboratorios de pruebas acreditados, información técnica sobre la calidad fitosanitaria de insumos que se utilicen en actividades agrícolas y forestales, a fin de controlar, vigilar y revaluar su efectividad biológica, aplicación, uso y manejo.
+La Secretaría podrá solicitar a la persona física o moral que haya obtenido el registro del insumo fitosanitario o de nutrición vegetal ante la autoridad competente, que reevalúe su efectividad biológica, aplicación, uso y manejo de conformidad con lo establecido en la norma oficial mexicana aplicable.
 
-En todo caso, la información que se proporcione a la Secretaría será confidencial, respetando los derechos de autor o de patente correspondientes.
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 41 bis.- Las personas físicas o morales que desarrollen o presten actividades fitosanitarias relacionadas con insumos fitosanitarios o de nutrición vegetal deberán contar con programas de capacitación y promoción sobre el buen uso de insumos, así como participar en los programas que la Secretaría determine en esta materia.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 41 ter.- La Secretaría podrá solicitar a los propietarios de los registros de los insumos fitosanitarios o de nutrición vegetal, información sobre el uso fitosanitario relacionada con los volúmenes de aplicación, cultivos, regiones, plagas por cada producto registrado.
 
 ###### Artículo 42.
 
 La Secretaría, a través de normas oficiales, podrá determinar los insumos fitosanitarios que sólo podrán ser adquiridos o aplicados por recomendación escrita de profesionales fitosanitarios y bajo supervisión de la Secretaría. Para tal efecto, los profesionales fitosanitarios deberán satisfacer los requisitos indicados en el reglamento de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 42 bis.- La Secretaría establecerá y desarrollará el Programa Nacional de Monitoreo de Residuos de Plaguicidas en vegetales para determinar que los insumos fitosanitarios, son utilizados conforme a lo establecido en los dictámenes técnicos de efectividad biológica otorgados.
+
 ###### Artículo 43.
 
-La aplicación, uso y manejo de material transgénico en programas experimentales o en el combate de plagas, requerirá del certificado fitosanitario correspondiente que expida la Secretaría o los organismos de certificación acreditados y estará sujeto a los mecanismos de verificación e inspección previstos en las normas oficiales respectivas.
+(DEROGADO, D.O.F. 26 DE JULIO DE 2007)
 
 ###### Artículo 44.
 
-Las personas físicas o morales que desarrollen o presten actividades o servicios fitosanitarios que, conforme a las normas oficiales correspondientes, deban sujetarse a certificación y verificación fitosanitarias, presentarán a la Secretaría, directamente o a través de los organismos de certificación o unidades de verificación aprobados o acreditados, el aviso de inicio de funcionamiento, en el que se harán constar los datos del interesado y que cumple con las especificaciones, criterios y procedimientos previstos en las normas oficiales que le sean aplicables.
-
-El aviso indicado en el párrafo anterior permitirá a la Secretaría integrar el Directorio Fitosanitario, estando facultada para verificar e inspeccionar en cualquier tiempo y lugar, la veracidad de la información fitosanitaria proporcionada.
-
-La actualización y difusión de la información que se inscriba en el Directorio Fitosanitario, se harán en los términos del reglamento de esta ley.
+(DEROGADO, D.O.F. 26 DE JULIO DE 2007)
 
 ###### Artículo 45.
 
-Las personas físicas o morales que se dediquen a la fabricación, formulación, importación, aplicación y comercialización de insumos fitosanitarios y de nutrición vegetal, deberán solicitar a las unidades de verificación u organismos de certificación acreditados que, con posterioridad a la certificación y con la periodicidad que establezca la norma oficial respectiva, corroboren que la efectividad biológica y las recomendaciones sobre aplicación, uso y manejo sean las indicadas en la misma norma.
+(DEROGADO, D.O.F. 26 DE JULIO DE 2007)
 
 ### CAPITULO V. DEL DISPOSITIVO NACIONAL DE EMERGENCIA DE SANIDAD VEGETAL
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 46.
 
-Cuando se detecte la presencia de plagas que ponga en situación de emergencia fitosanitaria a una o varias especies vegetales, en todo o en parte del territorio nacional, la Secretaría instrumentará el Dispositivo Nacional de Emergencia de Sanidad Vegetal, que consistirá en la aplicación urgente y coordinada de las medidas fitosanitarias necesarias y en la expedición de la norma oficial de emergencia correspondiente, la cual será de aplicación inmediata y obligatoria, en términos del artículo 48 de la Ley Federal sobre Metrología y Normalización.
+Cuando se detecte la presencia de plagas que pongan en situación de emergencia fitosanitaria a una o varias especies vegetales, en todo o en parte del territorio nacional, la Secretaría instrumentará el Dispositivo Nacional de Emergencia de Sanidad Vegetal, que consistirá en la aplicación urgente y coordinada de las medidas fitosanitarias necesarias.
 
-La Secretaría podrá determinar en las normas oficiales de emergencia, los insumos fitosanitarios cuya aplicación es la adecuada para el control de la plaga a combatir o erradicar.
+Para la instrumentación del Dispositivo Nacional de Emergencia, la Secretaría determinará los insumos fitosanitarios cuya aplicación es la adecuada para el control de la plaga a combatir o erradicar.
 
 ###### Artículo 47.
 
 La Secretaría podrá acordar y convenir con los gobiernos de los estados, organismos auxiliares y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias fitosanitarias que surjan por la presencia de plagas exóticas o existentes en el territorio nacional, que pongan en peligro el patrimonio agrícola o forestal del país.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+
+## TITULO SEGUNDO BIS. DE LOS SISTEMAS DE REDUCCION DE RIESGOS DE CONTAMINACION EN LA PRODUCCION PRIMARIA DE VEGETALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-A.
+
+La Secretaría determinará mediante normas oficiales mexicanas y demás disposiciones legales aplicables en materia de reducción de riesgos de contaminación, las medidas que habrán de aplicarse en la producción primaria de vegetales, sin perjuicio de las atribuciones que les correspondan a las autoridades sanitarias en materia de salubridad general.
+
+Las disposiciones previstas en este Artículo tendrán como finalidad entre otras:
+
+I. Normar, verificar y certificar los sistemas de reducción de riesgos de contaminación física, química y microbiológica durante la producción primaria de vegetales;
+
+II. Constatar y certificar el cumplimiento de BPA's;
+
+III. Establecer los estándares de reducción de riesgos de contaminación durante la producción primaria de los vegetales; y
+
+IV. Regular en lo relativo a la reducción de riesgos de contaminación en la producción primaria de los vegetales.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-B.
+
+Será aplicable en la reducción de riesgos de contaminación en la producción primaria de los vegetales, lo dispuesto en los artículos 20 y 21 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-C.
+
+Los vegetales y los lugares o establecimientos e instalaciones relacionados con su producción primaria podrán ser objeto, en cualquier tiempo, de evaluación, auditorias, verificación y certificación del cumplimiento de BPA´s que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables en la materia o las autoridades de otros países, para el caso de productos de exportación.
+
+Dichas evaluaciones o auditorias podrán realizarse a iniciativa de la Secretaría o a petición de parte.
+
+Las evaluaciones, verificaciones, auditorias y certificaciones podrá realizarlas la Secretaría directamente o a través de unidades de verificación, terceros autorizados, organismos de certificación o laboratorios de pruebas, y el resultado se hará constar en un informe, dictamen o certificado, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-D.
+
+Los certificados que emita la Secretaría tendrán las características, vigencia, requisitos y formalidades que establezcan los ordenamientos que deriven de esta Ley, su reglamento, normas oficiales mexicanas, demás disposiciones legales aplicables y tratados internacionales en la materia.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-E.
+
+Únicamente los particulares cuyos procesos de producción primaria de vegetales cuenten con un certificado de cumplimiento de BPA´s podrán ostentar el distintivo de sistema reducción de riesgos de contaminación que emita la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-F.
+
+La periodicidad con la que deberá renovarse la certificación de cumplimiento de BPA´s por parte de los interesados se especificará en las normas oficiales mexicanas o demás disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-G.
+
+Los particulares que cuenten con un certificado de cumplimiento de BPA´s y detecten una posible fuente de contaminación en la producción primaria de vegetales, deberán establecer las medidas de control necesarias para corregirlo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-H.
+
+La Secretaría podrá requerir que los particulares que pretendan ingresar vegetales al país, presenten un certificado o documentación oficial del país de origen que avale la aplicación de sistemas de reducción de riesgos durante su producción primaria.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-I.
+
+La Secretaría supervisará y podrá reconocer, la implementación de sistemas de minimización de riesgos de contaminación durante la producción primaria de vegetales que se aplique en otros países.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 47-J.
+
+La Secretaría podrá coordinarse con la Secretaría de Salud para el control de los vegetales de importación que pudieran constituir un riesgo para la salud humana.
+
 ## TITULO TERCERO. DE LA APROBACION, CERTIFICACION Y VERIFICACION E INSPECCION
 
 ### CAPITULO I. DE LA APROBACION
 
-## TITULO CUARTO. DE LOS INCENTIVOS, DENUNCIA CIUDADANA, SANCIONES Y RECURSOS DE REVISIÓN
-
-### CAPITULO II. DE LA CERTIFICACION
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 48.
 
-Corresponde a la Secretaría otorgar aprobaciones por materias específicas a personas físicas o morales para operar como:
+Corresponde a la Secretaría, otorgar aprobación, previa acreditación y sobre materias específicas, a personas físicas y morales para operar como:
 
-I. Organismos nacionales de normalización;
+I. (DEROGADA, D.O.F. 26 DE JULIO DE 2007)
 
 II. Organismos de certificación;
 
@@ -532,41 +964,61 @@ III. Unidades de verificación; y
 
 IV. Laboratorios de pruebas.
 
-Una misma persona podrá obtener una o varias de las aprobaciones a que hacen referencia las fracciones II a IV, del presente artículo.
+> <small>(DEROGADO SEGUNDO Y TERCER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-Se requerirá el acreditamiento de la Secretaría de Comercio y Fomento Industrial cuando se realicen actividades relacionadas con el ámbito competencial de dos o más dependencias.
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-En ningún caso las personas aprobadas podrán certificar o verificar el cumplimiento de normas oficiales a sí mismas o cuando tengan un interés directo.
+La Secretaría podrá autorizar a profesionales fitosanitarios como coadyuvantes en la aplicación de medidas sanitarias y a terceros especialistas como coadyuvantes en la evaluación de conformidad con los términos de esta Ley y su reglamento.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+En ningún caso las personas aprobadas podrán certificar o verificar el cumplimiento de normas oficiales mexicanas así mismas o cuando tengan un interés directo.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 49.
 
-Para otorgar la aprobación a que se refiere el artículo anterior, la Secretaría formará comités de evaluación en materia de sanidad vegetal, integrados por técnicos calificados y con experiencia en los campos de las ramas específicas.
+Para otorgar la aprobación a que se refiere el artículo anterior, la Secretaría podrá formar y pedir opinión a los comités de evaluación en materia de sanidad vegetal y de sistemas de reducción de riesgos de contaminación en vegetales durante la producción primaria, mismos que estarán integrados por técnicos calificados y con experiencia en los campos de las ramas específicas.
 
-Las especificaciones, criterios y procedimientos que deberán satisfacer los interesados en obtener de la Secretaría, la aprobación que se regula en este Capítulo, así como las materias sobre las que podrán prestarse los servicios fitosanitarios, se establecen en el reglamento respectivo de esta ley y en las normas oficiales correspondientes.
+Las especificaciones, criterios y procedimientos que deberán satisfacer los interesados en obtener la aprobación que se regula en este Capítulo, así como las materias sobre las que podrán prestarse los servicios fitosanitarios, se establecerán en el reglamento de esta Ley y en las disposiciones legales aplicables.
 
-La acreditación de los organismos nacionales de normalización, organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por la Secretaría, se hará en los términos previstos en la Ley Federal sobre Metrología y Normalización.
+La acreditación de los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por la Secretaría, se hará en los términos previstos en la Ley Federal sobre Metrología y Normalización.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 50.
 
 Es responsabilidad de las personas físicas o morales a que se refiere el artículo 48 de esta Ley:
 
-I. Prestar los servicios y desarrollar las actividades que se indiquen en las normas oficiales que se expidan sobre el particular;
+I. Prestar los servicios y desarrollar las actividades que se indiquen en las normas oficiales mexicanas que se expidan sobre el particular;
 
-II. Avisar a la Secretaría cuando conozcan sobre la presencia de una enfermedad o plaga de vegetales que de acuerdo con las normas oficiales respectivas, sea de notificación obligatoria;
+II. Avisar a la Secretaría cuando conozcan sobre la presencia de una enfermedad o plaga de vegetales, sus productos o subproductos que puedan representar un riesgo fitosanitario y que de acuerdo con las normas oficiales mexicanas y demás disposiciones legales aplicables, sea de notificación obligatoria;
 
-III. Presentar a la Secretaría informes sobre los certificados fitosanitarios que expidan, en la forma y plazos que determine el reglamento de esta ley;
+III. Presentar a la Secretaría informes sobre los certificados fitosanitarios y de sistemas de reducción de riesgo de contaminación en la producción primaria de los vegetales u otra documentación en estas materias que autorice la Secretaría, en la forma y plazos que determine el reglamento de esta Ley y demás disposiciones aplicables;
 
-IV. Informar periódicamente a la Secretaría sobre los servicios fitosanitarios que presten;
+IV. Informar periódicamente a la Secretaría sobre los servicios fitosanitarios y de reducción de riesgos de contaminación en la producción primaria de vegetales, que presten;
 
-V. Asistir a la Secretaría en casos de emergencia fitosanitaria; y
+V. Asistir a la Secretaría en casos de emergencia fitosanitaria o de riesgos de contaminación en la producción primaria de vegetales;
 
-VI. Cumplir con las demás obligaciones a su cargo.
+VI. Atender los requerimientos de la Secretaría como órganos de coadyuvancia en la aplicación de políticas, estrategias, programas operativos y mecanismos de coordinación con los organismos auxiliares en materia de Sanidad Vegetal;
 
-### CAPITULO III. DE LA VERIFICACION E INSPECCION
+VII. Expedir certificados fitosanitarios de acuerdo a la normatividad emitida por la Secretaría; y
+
+VIII. Cumplir con las demás obligaciones a su cargo.
+
+La Secretaría podrá retirar la aprobación otorgada a las personas físicas o morales cuando incumplan con alguna de las obligaciones señaladas en el presente artículo y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Artículo 50 bis.- Para realizar actividades de auditorias de cumplimiento de BPA´s en unidades de producción primaria de vegetales, la Secretaría emitirá, a través de disposiciones legales aplicables, los criterios bajo los cuales se reconocerá a terceros especialistas que realizarán dichas actividades.
+
+### CAPITULO II. DE LA CERTIFICACION
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 51.
 
-La Secretaría está facultada para certificar que los vegetales, sus productos y subproductos, así como los procesos, métodos, instalaciones, servicios o actividades relacionadas con la sanidad vegetal, cumplen con las disposiciones, especificaciones, criterios y procedimientos previstos en esta ley, su reglamento y las normas oficiales correspondientes.
+La Secretaría está facultada para certificar que los vegetales, sus productos o subproductos, así como los procesos, métodos, instalaciones, servicios o actividades relacionadas con la sanidad vegetal y con los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, cumplen con las disposiciones, especificaciones, criterios y procedimientos previstos en esta Ley, su reglamento, normas oficiales mexicanas y demás disposiciones legales aplicables.
 
 ###### Artículo 52.
 
@@ -574,45 +1026,59 @@ La certificación de normas oficiales se realizará por la Secretaría o por org
 
 La Secretaría reconocerá o aprobará, mediante acuerdos que deberán publicarse en el Diario Oficial de la Federación, a los órganos reguladores y organismos de certificación extranjeros, cuyas certificaciones del cumplimiento de normas oficiales serán reconocidas para efectos de importación, conforme al principio de reciprocidad que se pacte en los tratados internacionales o acuerdos interinstitucionales.
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 53.
 
-La certificación que hagan las personas físicas o morales aprobadas o acreditadas, será solamente en aquellas materias para las que fueron específicamente aprobadas o reconocidas por la Secretaría, en los términos de esta ley y del reglamento.
+La certificación que hagan las personas físicas o morales acreditadas por una Entidad de Acreditación y aprobadas por la Secretaría, serán solamente en aquellas materias para las que fueron específicamente acreditadas y aprobadas, en los términos de las disposiciones legales aplicables.
 
-### CAPITULO I. DE LOS INCENTIVOS
+### CAPITULO III. DE LA VERIFICACION E INSPECCION
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 54.
 
-La Secretaría podrá verificar e inspeccionar en cualquier tiempo y lugar el cumplimiento de las disposiciones fitosanitarias mediante:
+La Secretaría podrá verificar e inspeccionar en cualquier tiempo y lugar el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal y de reducción de riesgos de contaminación en la producción primaria de vegetales mediante:
 
-I. Verificación de los lugares donde se produzcan, fabriquen, almacenen o comercialicen vegetales, sus productos o subproductos, o se apliquen, expendan, usen o manejen insumos fitosanitarios y de nutrición vegetal;
+I. Verificación de los lugares donde se produzcan, empaquen, fabriquen, almacenen o comercialicen vegetales, sus productos o subproductos que representan riesgo fitosanitario, o se apliquen, usen o manejen insumos fitosanitarios y de nutrición vegetal;
 
-II. Verificación de los establecimientos donde se desarrollen o presten actividades o servicios fitosanitarios; y
+II. Verificación de los establecimientos donde se desarrollen o presten actividades o servicios fitosanitarios o actividades relacionadas con sistemas de reducción de riesgos de contaminación durante su producción primaria; y
 
-III. Inspección a los vehículos de transporte y embalajes en los que se movilicen, importen o exporten y se contengan vegetales, sus productos o subproductos y maquinaria agrícola y forestal o partes de ésta.
+III. Inspección a los vehículos de transporte y embalajes en los que se movilicen, importen o exporten y se contengan vegetales, sus productos o subproductos y maquinaria agrícola o partes de esta que puedan constituir un riesgo fitosanitario.
+
+Las verificaciones e inspecciones que lleve acabo la Secretaría con objeto de constatar el cumplimiento de los sistemas de reducción de riesgos de contaminación en vegetales, estas se llevarán a cabo en las unidades de producción primaria o en las instalaciones donde existan éstos productos; para el caso de las importaciones, se realizarán previo acuerdo con la Secretaría de Salud.
 
 Los resultados de las verificaciones o de los actos de inspección que realice la Secretaría, se asentarán en dictámenes o actas, respectivamente.
 
-El procedimiento y criterios a que se sujetarán la verificación y los actos de inspección, se determinarán en el reglamento de esta ley y en la norma oficial respectiva.
+El procedimiento y criterios a que se sujetarán la verificación y los actos de inspección, se determinarán en el reglamento de esta Ley, en la norma oficial mexicana respectiva y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 55.
 
-La Secretaría, aleatoriamente, podrá verificar o inspeccionar vegetales, sus productos o subproductos, vehículos de transporte, embalajes, maquinaria, equipos e insumos fitosanitarios y de nutrición vegetal que cuenten con certificados fitosanitarios, con el objeto de comprobar el cumplimiento de las normas oficiales aplicables, estando facultada para suspender o revocar en cualquier tiempo y lugar y sin responsabilidad alguna, los certificados fitosanitarios que se hayan expedido y para aplicar las medidas fitosanitarias necesarias, cuando se detecte la existencia de algún riesgo fitosanitario superveniente.
+La Secretaría aleatoriamente, podrá verificar o inspeccionar vegetales, sus productos o subproductos; establecimientos, instalaciones, vehículos de transporte, embalajes, maquinaria, equipos, así como el uso fitosanitario de insumos fitosanitarios y de nutrición vegetal para constatar que cuenten con certificados fitosanitarios, con el objeto de comprobar el cumplimiento de las normas oficiales mexicanas y demás disposiciones legales aplicables, estando facultada para suspender o revocar en cualquier tiempo y lugar y sin responsabilidad alguna, los certificados fitosanitarios que se hayan expedido, y aplicar las medidas necesarias, cuando se detecte la existencia de algún riesgo fitosanitario superveniente.
 
 ###### Artículo 56.
 
 Las unidades de verificación aprobadas o acreditadas, sólo podrán realizar verificaciones a petición de parte y sobre las materias en las que fueron aprobadas en términos del reglamento de esta ley; los dictámenes de verificación que formulen serán reconocidos por la Secretaría y los organismos de certificación acreditados.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 57.
 
-Cuando el dictamen de una verificación determine la existencia de riesgos fitosanitarios o probables infracciones a las disposiciones fitosanitarias, el responsable del dictamen lo presentará a la Secretaría quien realizará la inspección respectiva.
+Cuando el dictamen de una verificación determine la existencia de riesgos fitosanitarios, físicos, químicos o microbiológicos; durante la producción primaria de vegetales sus productos o subproductos, o se detecten probables infracciones a las disposiciones de esta Ley, el responsable del dictamen lo presentará a la Secretaría quien realizará la inspección respectiva.
 
-Si del resultado de la inspección se determina la comisión de alguna infracción a las disposiciones fitosanitarias, la Secretaría ordenará la imposición de las sanciones administrativas causadas y la aplicación de las medidas fitosanitarias necesarias.
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Si del resultado de la inspección se determina la comisión de alguna infracción a las disposiciones legales aplicables en materia de sanidad vegetal o a los sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales, o la condición fitosanitaria de éstos, la Secretaría ordenará la imposición de las sanciones administrativas así como la aplicación de las medidas fitosanitarias o de reducción de riesgos necesarias.
 
 Cuando el dictamen de verificación o el acta de inspección determine la probable comisión de un delito, deberá formularse la denuncia correspondiente ante la autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 58.
 
-La Secretaría contará con los puntos de inspección fitosanitaria internacional necesarios, para asegurar el nivel de protección fitosanitaria apropiado.
+La Secretaría contará con puntos de inspección internacional en materia de sanidad vegetal necesarios, para asegurar el nivel de protección apropiado en la materia antes mencionada.
 
 Para efectos del párrafo anterior, son puntos de inspección fitosanitaria internacional los siguientes:
 
@@ -620,25 +1086,39 @@ I. Los instalados en puertos y terminales marítimas, aéreas, ferroviarias y te
 
 II. Aquellos que se ubiquen en territorio extranjero, de acuerdo con los tratados internacionales y acuerdos interinstitucionales que se suscriban; y
 
-III. Otros que por excepción fije la Secretaría en base al análisis de riesgo fitosanitario.
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-El establecimiento y operación de los puntos de inspección señalados en este artículo, se sujetará al reglamento de esta ley.
+III. Otros que por excepción fije la Secretaría en base al análisis de riesgo fitosanitario, así como de la condición fitosanitaria de vegetales, sus productos o subproductos.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+El establecimiento y operación de los puntos de inspección señalados en este artículo se sujetará a los términos que determine el Reglamento de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 59.
 
-La Secretaría podrá instalar y operar directamente en el territorio nacional puntos de verificación interna, o acordar o permitir su instalación y operación a los gobiernos de los estados o a particulares que así lo soliciten conforme al reglamento de esta ley y la norma oficial respectiva.
+La Secretaría podrá instalar y operar directamente en el territorio nacional puntos de verificación interna, o acordar o permitir su instalación y operación a los gobiernos de los estados o a particulares que así lo soliciten conforme al reglamento de esta Ley, normas oficiales mexicanas y demás disposiciones legales aplicables.
 
-La instalación y operación de los puntos de verificación indicados en el párrafo anterior, se sujetará al reglamento de esta ley y a las especificaciones, criterios y procedimientos establecidos en la norma oficial aplicable.
+La instalación y operación de los puntos de verificación indicados en el párrafo anterior, se sujetará al reglamento de esta Ley y a las especificaciones, criterios y procedimientos establecidos en las normas oficiales mexicanas y demás disposiciones legales aplicables.
+
+El establecimiento y operación de los puntos de inspección señalados en este artículo, será autorizado por la Secretaría cuando éstos tengan como objetivo mantener confinada una plaga o proteger, zonas libres, bajo protección o de baja prevalencia.
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 60.
 
-Ante el riesgo de diseminación de una plaga, la Secretaría estará facultada para realizar la toma de muestras necesarias sujetándose al reglamento de esta Ley y las normas oficiales correspondientes.
+Ante el riesgo de diseminación de una plaga o la sospecha de contaminación durante la producción primaria de los vegetales, la Secretaría sujetándose a lo que dispongan el Reglamento de esta Ley, las normas oficiales mexicanas y demás disposiciones legales aplicables, estará facultada para realizar la toma de muestras necesarias.
 
-El campo agrícola, huerto, vivero, plantación, aserradero, patio de concentración, recinto, lote o vehículo de transporte del que se haya tomado la muestra, quedará bajo la guarda, custodia y responsabilidad de su propietario o porteador en el mismo lugar o en aquel que éste designe o, en su defecto, en el que determine la Secretaría, quedando prohibida su movilización o comercialización hasta en tanto se compruebe su inocuidad.
+El campo agrícola, huerto, vivero, plantación, aserradero, patio de concentración, recinto, lote o vehículo de transporte del que se haya tomado la muestra, quedará bajo la guarda custodia y responsabilidad de su propietario o porteador en el mismo lugar o en aquel que éste designe o, en su defecto, en el que determine la Secretaría, quedando prohibida su movilización o comercialización hasta en tanto se compruebe su óptima condición fitosanitaria.
 
-De comprobarse la presencia de una plaga que afecte la sanidad de los vegetales, la Secretaría procederá en los términos del primer párrafo del artículo 30.
+De comprobarse la presencia de una plaga o algún contaminante que afecte la sanidad de los vegetales, sus productos o subproductos, la Secretaría procederá en los términos del primer párrafo del artículo 30.
 
-### CAPITULO II. DE LA DENUNCIA CIUDADANA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE JULIO DE 2007)</small>
+
+## TITULO CUARTO. DE LOS INCENTIVOS, DENUNCIA CIUDADANA, SANCIONES, RECURSO DE REVISION Y DELITOS
+
+### CAPITULO I. DE LOS INCENTIVOS
 
 ###### Artículo 61.
 
@@ -648,11 +1128,13 @@ Se instituye el Premio Nacional de Sanidad Vegetal, con el objeto de reconocer y
 
 El procedimiento para la selección de los acreedores al premio señalado en el artículo anterior, así como las demás prevenciones que sean necesarias, se establecerán en el reglamento de esta ley.
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO II. DE LA DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 63.
 
-Todo ciudadano podrá denunciar directamente ante la Secretaría o a través de sus delegaciones en los estados, los hechos, actos u omisiones que atenten contra la sanidad vegetal.
+Todo ciudadano podrá denunciar directamente ante la Secretaría, los hechos, actos u omisiones que atenten contra la sanidad vegetal o la contaminación en la producción primaria de vegetales y la condición fitosanitaria.
 
 ###### Artículo 64.
 
@@ -660,9 +1142,11 @@ La denuncia podrá presentarse por cualquier ciudadano, bastando, para darle cur
 
 Una vez recibida la denuncia, la Secretaría la hará saber a la persona o personas a quienes se imputen los hechos denunciados y efectuará, en su caso, las diligencias necesarias para la comprobación de los hechos así como para la evaluación correspondiente.
 
-La Secretaría, a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los treinta días hábiles siguientes, el resultado de la inspección de los hechos y medidas fitosanitarias adoptadas.
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
-### CAPITULO IV. DEL RECURSO DE REVISION
+La autoridad que recibió la denuncia, a más tardar dentro de los treinta días hábiles siguientes a la presentación de una denuncia, deberá hacer del conocimiento del denunciante el trámite que se haya dado a aquélla y, en su caso, dentro de los sesenta días hábiles siguientes, el resultado de la inspección de los hechos y medidas fitosanitarias o de reducción de riesgos de contaminación o de condición fitosanitaria adoptadas.
+
+### CAPITULO III. DE LAS SANCIONES
 
 ###### Artículo 65.
 
@@ -672,23 +1156,31 @@ Las infracciones a lo dispuesto en esta ley y demás disposiciones que emanen de
 
 Son infracciones administrativas:
 
-I. Incumplir lo establecido en las normas oficiales derivadas de la presente ley; en cuyo caso se impondrá multa de 50 a 20,000 salarios;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+I. Incumplir lo establecido en las normas oficiales mexicanas y demás disposiciones legales aplicables derivadas de la presente Ley; en cuyo caso se impondrá multa de 50 a 20,000 salarios;
 
 II. Movilizar, importar o exportar vegetales, sus productos o subproductos e insumos sujetos a control fitosanitario sin contar, cuando se requiera, del certificado fitosanitario; en cuyo caso se impondrá multa de 2,000 a 20,000 salarios;
 
 III. Incumplir la obligación prevista en el artículo 29 de esta Ley; en cuyo caso se impondrá multa de 2,000 a 15,000 salarios;
 
-IV. Incumplir con las disposiciones fitosanitarias a que se refiere el artículo 30 de esta ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+IV. Incumplir con las disposiciones legales aplicables en materia de sanidad vegetal a que se refiere el artículo 30 de esta Ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios;
 
 V. Incumplir con lo establecido en el artículo 39 de esta ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios;
 
-VI. No proporcionar a la Secretaría la información a que hace referencia el párrafo primero del artículo 41 de esta ley; en cuyo caso se impondrá multa de 300 a 3,000 salarios;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
-VII. Expender, adquirir o aplicar insumos que requieren recomendación escrita incumpliendo lo dispuesto por el artículo 42 de esta ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios;
+VI. No proporcionar a la Secretaría la información a que hace referencia el artículo 41 de esta Ley; en cuyo caso se impondrá multa de 300 a 3,000 salarios;
 
-VIII. No dar el aviso de inicio de funcionamiento a que hace referencia el párrafo primero del artículo 44 de esta ley; en cuyo caso se impondrá multa de 200 a 2,000 salarios;
+VII. (DEROGADA, D.O.F. 26 DE JULIO DE 2007)
 
-IX. Incumplir la obligación establecida en el artículo 45 de esta ley; en cuyo caso se impondrá multa de 200 a 10,000 salarios;
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+VIII. No dar el aviso de inicio de funcionamiento a que hace referencia el párrafo primero del artículo 37 bis de esta Ley; en cuyo caso se impondrá multa de 200 a 2,000 salarios;
+
+IX. (DEROGADA, D.O.F. 26 DE JULIO DE 2007)
 
 X. Incumplir con las medidas fitosanitarias de emergencia previstas en el artículo 46 de esta ley; en cuyo caso se impondrá multa de 300 a 30,000 salarios;
 
@@ -702,25 +1194,61 @@ XIV. Incumplir lo establecido en los artículos 53 y 56 de la presente ley; en c
 
 XV. No observar lo previsto en el artículo 57; en cuyo caso se impondrá multa de 500 a 10,000 salarios;
 
-XVI. Incumplir la obligación de guarda y custodia prevista en el párrafo segundo del artículo 60 de la ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios; y
+XVI. Incumplir la obligación de guarda y custodia prevista en el párrafo segundo del artículo 60 de la ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios; y (sic)
 
-XVII. Las demás infracciones a lo establecido en la presente ley; en cuyo caso se impondrá multa de 50 a 15,000 salarios.
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XVII. Producir, importar, exportar o comercializar vegetales sin contar con el certificado y el distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria, cuando las disposiciones legales aplicables lo determinen; en cuyo caso se impondrá una multa de 2,000 a 20,000 salarios;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XVIII. Producir, exportar o comercializar vegetales sin contar con el certificado de BPA´s en los términos de las normas oficiales y demás disposiciones legales aplicables; en cuyo caso se impondrá una multa de 4,000 a 40,000 salarios;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XIX. Negarse a apoyar la instrumentación del Dispositivo de Emergencia u otro requerimiento, que haga la Secretaría a los organismos de coadyuvancia aprobados o acreditados, en cuyo caso se impondrá una multa de 500 a 5,000 salarios y la cancelación de la aprobación;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XX. La Secretaría suspenderá de manera precautoria las autorizaciones, permisos o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará a la instancia competente la suspensión de la acreditación correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXI. Ostentar que un producto agrícola o actividad a que se refiere el Título Segundo Bis de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta o cuando el resultado de la evaluación de la conformidad exprese incumplimiento o insuficiencias de las condiciones para la certificación correspondiente del vegetal; en cuyo caso se impondrá una multa de 200 a 20,000 salarios; y
+
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+XXII. Las demás infracciones a lo establecido en la presente Ley; en cuyo caso se impondrá multa de 50 a 15,000 salarios.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+La Secretaría suspenderá de manera precautoria las autorizaciones, permisos, certificaciones o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará la suspensión precautoria de la acreditación autorizada a dichas personas.
 
 Para los efectos del presente artículo, por salario se entiende, el salario mínimo general vigente en el Distrito Federal, al momento de cometerse la infracción.
 
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 67.
 
-La Secretaría podrá clausurar hasta por quince días, los viveros, huertos, empacadoras, recintos, almacenes, aserraderos, plantaciones, patios de concentración y cualquier otro establecimiento donde se desarrollen o presten actividades o servicios fitosanitarios, cuando se infrinja lo previsto en los artículos 19, fracciones I, incisos f) al i), II a V y VII, 38, 39 y 60 párrafo segundo de esta ley.
+La Secretaría clausurará hasta por quince días, los viveros, huertos, empacadoras, recintos, almacenes, aserraderos, plantaciones, patios de concentración y cualquier otro establecimiento donde se desarrollen o presten actividades o servicios fitosanitarios, cuando se infrinja lo previsto en los artículos 19, fracciones I, incisos f) al i), II a V y VII, 38, 39 y 60 párrafo segundo de esta Ley.
 
-La Secretaría también podrá ordenar que, a costa del infractor, se inmovilicen y, en su caso, destruyan los vegetales, sus productos o subproductos, insumos, semillas, material de propagación o cualquier otro susceptible de diseminar plagas, que se localicen en cualquiera de los establecimientos mencionados en el párrafo anterior.
+La Secretaría ordenará que con cargo del infractor, se inmovilicen y, en su caso, destruyan los vegetales, sus productos o subproductos, insumos, semillas, material de propagación o cualquier otro susceptible de diseminar plagas, que se localicen en cualquiera de los establecimientos mencionados en el párrafo anterior.
+
+Asimismo, la Secretaría clausurará de manera temporal o definitiva en caso de reincidencia las instalaciones dedicadas a la producción de vegetales, sus productos o subproductos, cuando se infrinja lo previsto en el Título Segundo Bis de esta Ley y las normas oficiales mexicanas y demás disposiciones legales aplicables correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 68.
 
-La Secretaría sancionará con la suspensión temporal de la aprobación o permiso a:
+La Secretaría sancionará con la suspensión temporal de la aprobación, reconocimiento a terceros o permiso a:
 
-I. Las personas físicas o morales aprobadas que incumplan con lo dispuesto en los artículos 40, 48 párrafo final, 50, 53, 56 y 57 de esta ley; y
+I. Las personas físicas o morales aprobadas que incumplan con lo dispuesto en los artículos 40, 48 párrafo final, 50, 53, 56 y 57 de esta ley; y (sic)
 
-II. Los particulares que hayan obtenido el permiso previsto en el artículo 59 de esta ley cuando incumplan con las normas oficiales aplicables.
+II. Los particulares que hayan obtenido el permiso previsto en el artículo 59 de esta ley cuando incumplan con las normas oficiales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
+
+III. Los terceros autorizados que incumplan con lo mencionado en los artículos 47-A, 47-B, 47-C, 47-D, 47-E, 47-F, 47-G, 47-H, 47-I y 47-J de esta Ley.
 
 ###### Artículo 69.
 
@@ -732,11 +1260,15 @@ La Secretaría publicará en el Diario Oficial de la Federación, la resolución
 
 Para la imposición de sanciones la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor, debiendo previamente conceder audiencia al interesado, en los términos que establezca el reglamento de la presente ley.
 
+### CAPITULO IV. DEL RECURSO DE REVISION
+
 ###### Artículo 71.
 
 Contra las resoluciones dictadas por la Secretaría con fundamento en esta ley, se podrá interponer el recurso de revisión dentro del término de quince días hábiles siguientes a la fecha de su notificación.
 
-El recurso de revisión tiene por objeto revocar, modificar o confirmar la resolución reclamada y los fallos que se dicten, contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos resolutivos.
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+Los términos y condiciones relativos al recurso de revisión deberán apegarse a lo establecido en la Ley Federal de Procedimiento Administrativo.
 
 ###### Artículo 72.
 
@@ -745,6 +1277,44 @@ La interposición del recurso se hará mediante escrito dirigido a la Secretarí
 La interposición del recurso suspenderá la ejecución de la resolución impugnada, por lo que hace al pago de multas.
 
 El reglamento de la presente ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+
+### CAPITULO V. DE LOS DELITOS
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 73.
+
+Al que ingrese al territorio nacional o movilice dentro del mismo, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, cuando los mismos ocasionen o puedan ocasionar daños a la agricultura nacional, sin contar con la documentación fitosanitaria, se le impondrá la pena de cuatro a diez años de prisión y multa de hasta mil días de salario mínimo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 74.
+
+Al que evada un Punto de Verificación Interna o Internacional, teniendo la obligación de ser inspeccionado en el mismo, al ingresar o movilizar en el territorio nacional, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, se le impondrá la pena de dos a siete años de prisión y multa hasta mil días de salario mínimo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 75.
+
+Se sancionará con la penalidad de dos a siete años de prisión y multa de hasta mil días de salario mínimo, sin perjuicio de las sanciones administrativas a las que se hiciera acreedor:
+
+I. Al que expida, emita o suscriba certificados en materia fitosanitaria y de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales y condición fitosanitaria de los mismos, sin verificar que los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, cumplan con los requerimientos exigidos por la normatividad correspondiente; y
+
+II. Al que permita o autorice por cualquier medio, el ingreso o movilización dentro del territorio nacional de vegetales, sus productos o subproductos vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, que no cumplan con los requisitos exigidos por la normatividad respectiva.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 76.
+
+Al que sin tener la autorización o certificación de la autoridad competente, ordene o ejecute cualquier actividad en materia fitosanitaria, se le impondrá la pena de dos a siete años de prisión y multa de hasta mil días multa (sic).
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 77.
+
+Al que ostente que un vegetal, sus productos o subproductos o actividad relacionada con sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuenta con la certificación de la autoridad competente, sin comprobarlo, se le impondrá una pena de dos a siete años de prisión y multa de mil quinientos días multa (sic).
 
 ## TRANSITORIOS
 
@@ -763,3 +1333,13 @@ QUINTO.- Los Patronatos para la Investigación, Fomento y Sanidad Vegetal, así 
 México, D.F., a 20 de diciembre de 1993.- Sen. Eduardo Robledo Rincón.- Presidente.- Dip. Cuauhtémoc López Sánchez.- Presidente.- Sen. Antonio Melgar Aranda.- Secretario.- Dip. Sergio González Santa Cruz.- Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE JULIO DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se reconoce plena validez a los registros, permisos, autorizaciones, certificados y guías expedidos con anterioridad a la fecha de entrada en vigor de este decreto, siempre que se ajusten a las disposiciones que quedan sin efecto.
+
+Artículo Tercero. En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan al presente decreto, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente ordenamiento.
