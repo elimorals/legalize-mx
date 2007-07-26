@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-consejo-estatal-de-promocion-43424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-11"
-last_updated: "2006-02-21"
+last_updated: "2007-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE PROMOCION ECONOMICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2007.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2005.
 
@@ -76,6 +76,8 @@ Para la planeación, programación y ejecución de sus objetivos, el Consejo con
 
 El Consejo contará con una Junta de Gobierno que será el órgano máximo del organismo y un Director General, quien se apoyará en las áreas de apoyo técnico y administrativo que en adelante se detallan, a fin de ejercer las atribuciones y obligaciones que competen al Consejo.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 5°.
 
 Acorde a lo dispuesto en el artículo anterior, el Consejo estará integrado de manera enunciativa, más no limitativa por los siguientes órganos:
@@ -86,17 +88,19 @@ II. Director General;
 
 III. Coordinación General;
 
-IV. Dirección Jurídica;
+IV. Coordinación General de Análisis Económico y Competitividad;
 
-V. Dirección Administrativa;
+V. Dirección Jurídica;
 
-VI. Dirección de Análisis;
+VI. Dirección Administrativa;
 
-VII. Dirección de Evaluación y Seguimiento;
+VII. Dirección de Análisis;
 
-VIII. Dirección de Parques Industriales; y
+VIII. Dirección de Evaluación y Seguimiento;
 
-IX. Las demás áreas que sean indispensables para el ejercicio de las atribuciones del Consejo que se autoricen por la Junta de Gobierno.
+IX. Dirección de Parques Industriales; y
+
+IX (SIC). Las demás áreas que sean indispensables para el ejercicio de las atribuciones del Consejo que se autoricen por la Junta de Gobierno.
 
 ### Capítulo III. De la Junta de Gobierno
 
@@ -186,9 +190,11 @@ XV. Las demás que le confieran las disposiciones legales y reglamentarias que r
 
 Al frente de cada área operativa habrá un Director, asistentes, coordinadores, auxiliares, así como el personal técnico y administrativo, que las necesidades del servicio requieran y autorice la Junta de Gobierno en base al Presupuesto del Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 2007)</small>
+
 ###### Artículo 14.
 
-La Coordinación General y las Direcciones del Consejo son órganos administrativos subordinados jerárquicamente al Director General y tendrán las siguientes atribuciones:
+Las Coordinaciones Generales y las Direcciones del Consejo son órganos administrativos subordinados jerárquicamente al Director General y tendrán las siguientes atribuciones:
 
 I. Auxiliar al Director General dentro de la esfera de su competencia;
 
@@ -208,7 +214,9 @@ VIII. Proporcionar al Director General, la información técnica o administrativ
 
 IX. Las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
-### Capítulo VI. De la Coordinación General
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JULIO DE 2007)</small>
+
+### Capítulo VI. De las Coordinaciones Generales
 
 ###### Artículo 15.
 
@@ -225,6 +233,22 @@ IV. Atender las peticiones de las personas físicas y jurídicas en relación a 
 V. Informar al Director sobre los asuntos acontecidos en la marcha del Organismo, y
 
 VI. Las demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2007)</small>
+
+###### Artículo 15 Bis.
+
+La Coordinación General de Analisis Económico y Competitividad tendrá las siguientes atribuciones:
+
+I. Asistir a la Dirección General;
+
+II. Hacer el análisis permanente de los incentivos y estrategias de fomento que se adoptan en otros Estados del País e incluso en el extranjero;
+
+III. Analizar la situación económica de Jalisco y el resto de los estados del país;
+
+IV. Asesorar de manera permanente al Director General del Órganismo en la forma de decisiones y en la elaboración de estrategias que permitan hacer más eficiente el otorgamiento de apoyos por el Consejo Estatal de Promoción Económica;
+
+V. las (sic) demás que le confieran las disposiciones legales y reglamentarias que resulten aplicables, la Junta o el Director General.
 
 ### Capítulo VII. De la Dirección Jurídica
 
@@ -394,13 +418,13 @@ El Comité contará con las facultades que le establece la Ley de Transparencia 
 
 ### Capítulo XII. De las Suplencias
 
-> <small>(REFORMADO Y REUBICADO, P.O. 21 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 22.
 
 Las ausencias temporales del Director serán suplidas por el titular de la Coordinación General, sólo en caso de que la ausencia sea mayor a 30 días naturales, se solicitará al Gobernador del Estado que designe el suplente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 21 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -427,3 +451,9 @@ P.O. 21 DE FEBRERO DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 26 DE JULIO DE 2007.
+
+PRIMERO.- La modificación al Reglamento Interior del Consejo Estatal de Promoción Económica entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Envíese copia del presente acuerdo al titular del Poder Ejecutivo del Estado de Jalisco por conducto de su Secretario General de Gobierno.
