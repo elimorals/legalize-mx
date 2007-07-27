@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-establece-las-bases-para-la-entrega-recepcion-16089"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2006-11-17"
+last_updated: "2007-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE ESTABLECE LAS BASES PARA LA ENTREGA RECEPCION ADMINISTRATIVA EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo del 2000.
 
@@ -93,9 +93,11 @@ Los servidores públicos que en los términos de esta ley, se encuentren obligad
 
 Ningún servidor público, que se encuentre sujeto a la presente ley podrá dejar el cargo sin llevar a cabo el acto de entrega recepción correspondiente, para cuyo efecto el superior jerárquico deberá designar el sustituto definitivo o provisional en un plazo no mayor de 15 días hábiles contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo; en caso de incumplimiento a este precepto, se deslindarán las responsabilidades oficiales, imponiéndose, en su caso, las sanciones correspondientes en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos aplicables. En caso de urgencia para la entrega recepción, a criterio del superior jerárquico, se habilitarán horas, o días para hacer la entrega correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 9.
 
-Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega. Cuando por alguna causa justificada plenamente, el servidor público obligado a la entrega no pueda realizarla, dicha obligación correrá a cargo del órgano interno de control que corresponda.
+Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran, misma que podrán entregar a través de cualquier medio electrónico que facilite su manejo y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles, contados a partir del acto de entrega. Cuando por alguna causa plenamente justificada, el servidor público obligado a la entrega no pueda realizarla, dicha obligación correrá a cargo del órgano interno de control que corresponda.
 
 Se considerará como causa justificada la incapacidad física o mental del servidor público obligado.
 
@@ -347,7 +349,9 @@ IX. Otros.
 
 En general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento o en su caso desviación o modificación de programas y demás información y documentación relativa que señale el manual de normatividad respectivo.
 
-La información a que se refiere este artículo deberá detallarse de tal manera que contenga todos los datos necesarios y suficientes para determinar, ubicar e identificar con facilidad el concepto de que se trata, así como para determinar la situación y estado en que se encuentre.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
+La información a que se refiere este artículo deberá detallarse de tal manera que contenga todos los datos necesarios y suficientes para determinar, ubicar e identificar con facilidad el concepto de que se trata, así como para determinar la situación y estado en que se encuentre; pudiendo la entidad o dependencia que se encuentre en este proceso, en cuanto a la entrega de expedientes, almacenar los mismos en los medios electrónicos que estén a su alcance y faciliten su revisión. Lo mismo se aplicará a lo referente en el artículo 9 de la presente Ley.
 
 ### CAPITULO TERCERO. DEL PROCESO DE ENTREGA RECEPCION
 
@@ -506,3 +510,13 @@ Artículo Segundo. Las disposiciones relativas a la Ley Orgánica del Poder Legi
 Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscales, hasta su total conclusión.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 27 DE JULIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
