@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88965"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-16"
-last_updated: "2005-12-16"
+last_updated: "2007-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88965&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-08-29"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 27 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de diciembre de 2005.
 
@@ -548,3 +550,19 @@ LA H. ASAMBLEA GENERAL APRUEBA EL "ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NAC
 Atentamente
 
 El Secretario General, Carlos Acedo Valenzuela.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE JULIO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante Acuerdo 1221 de la sesión ordinaria número 88 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, celebrada el día 29 de agosto de 2005, y publicado en el Diario Oficial de la Federación el 16 de diciembre de 2005.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su aprobación por la Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+###### ARTICULO TERCERO.
+
+El presente Estatuto Orgánico será publicado de acuerdo a las instrucciones de la Asamblea General.
