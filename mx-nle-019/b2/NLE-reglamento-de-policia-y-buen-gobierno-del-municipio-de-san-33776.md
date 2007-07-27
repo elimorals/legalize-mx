@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2007-03-30"
+last_updated: "2007-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -67,7 +67,9 @@ II. El Secretario del R. Ayuntamiento;
 
 III. Secretario de Finanzas y Tesorero Municipal;
 
-IV. Secretario de Seguridad Publica;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+IV. Secretario de Seguridad Pública y Vialidad;
 
 V. Director o Coordinador de Jueces Calificadores;
 
@@ -129,7 +131,9 @@ IX. Mantener la limpieza en cárcel municipal;
 
 X. Constituirse en depositario de las pertenencias, bienes u objetos que le sean recogidos previo recibo que se entregue a los arrestados, todo lo cual devolverá al momento de que sean puestos en libertad;
 
-XI. Llevar un libro de registro de las personas detenidas en el que por orden cronológico y en forma numerada, se asienten los datos relacionados con la identidad de las personas, así como el motivo o motivos de su detención;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+XI. Llevar un libro de registro donde en orden cronológico y en forma enumerada se asienten los datos relacionados con la identidad de las personas, así como el motivo o motivos de su detención, o capturar los datos de acuerdo al programa de identificación biométrica para corroborar los datos de identidad de las personas detenidas por faltas administrativas; y
 
 XII. Y las demás que le señalen las leyes y reglamentos aplicables.
 
@@ -147,27 +151,51 @@ Se consideran infracciones, todas aquéllas acciones y omisiones que contravenga
 
 Para los efectos del presente Reglamento, las infracciones son:
 
-I. Al Orden Público;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-II. A la Seguridad de la Población;
+I. Al orden público;
 
-III. A la Moral y a las Buenas Costumbres;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-IV. Al Derecho de Propiedad;
+II. A la seguridad de la población;
 
-V. Al Ejercicio del Comercio y del Trabajo;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-VI. Contra la Salud; y
+III. A la moral y a las buenas costumbres;
 
-VII. Contra la Ecología.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+IV. Al derecho de propiedad;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+V. Al ejercicio del comercio y del trabajo;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+VI. Contra la salud; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+VII. Contra la ecología.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2005)</small>
 
 Se consideran infracciones con agravante, todas aquéllas acciones y omisiones que contravengan las disposiciones de este reglamento, siempre y cuando la persona a quien se le impute la acción u omisión infractora se encuentre en estado de ebriedad o bajo los efectos de alguna droga o sustancia que produzca efectos similares, para lo cual el Juez Calificador atenderá los resultados del examen médico a que se refiere el artículo 34 de este Reglamento.
 
-###### ARTÍCULO 13.
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
 
-Son Infracciones al Orden Público:
+También se considerarán infracciones con agravante, cuando el infractor sea reincidente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+Hay reincidencia siempre que el infractor cometa la misma violación a las disposiciones de este Reglamento si no han transcurrido dos años desde la aplicación de la sanción anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
+###### ARTÍCULO 13
+
+Son infracciones al orden público:
 
 I. Romper, alterar o mutilar las boletas de infracciones o cualquier tipo de notificación que sea realizada por parte de la Autoridad Municipal;
 
@@ -177,7 +205,11 @@ III. Pronunciar en lugares públicos, expresiones injuriosas, despectivas o que 
 
 IV. Molestar o alterar el orden en la vía pública o lugares públicos;
 
-V. Ingerir bebidas alcohólicas en la vía pública o lugares públicos no permitidos;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+V. Ingerir bebidas alcohólicas en la vía pública o lugares públicos no permitidos, así como en el interior de vehículos de propulsión mecánica, animal y/o humana que se encuentren en circulación o estacionados en la vía pública o lugares públicos.
+
+Se presumirá que una persona cae en el supuesto del párrafo anterior, cuando el presunto infractor tenga aliento alcohólico y dentro de su radio de acción se encuentre una botella, lata, envase o cualquier otro recipiente que contenga una bebida alcohólica que ha sido abierta, tenga los sellos rotos o el contenido se encuentre parcial o totalmente consumido;
 
 VI. Consumir o intoxicarse con drogas o tóxicos;
 
@@ -191,13 +223,23 @@ X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de 
 
 Xl. Efectuar bailes en salones clubes y centros sociales sin el permiso correspondiente;
 
-XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
+XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
+
+XIV. Comprar bebidas alcohólicas en cualquier establecimiento fuera de los horarios permitidos por los Reglamentos Municipales y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
-Son Infracciones a la Seguridad de la Población:
+Son infracciones a la seguridad de la población:
 
 I. Oponerse o resistirse a un mandato legítimo de cualquier Autoridad, ya sea Federal, Estatal o Municipal;
 
@@ -215,29 +257,63 @@ VII. Detonar cohetes, hacer fogatas, utilizar combustibles o materiales flamable
 
 VIII. Participar en grupos que causen molestias a las personas o sus bienes, en lugares públicos o en la proximidad de sus domicilios, o en éstos;
 
-IX. Conducir vehículos, en estado de ebriedad o bajo los efectos de drogas o tóxicos;
+(REFORMADA, P.O. 27 DE JULIO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
 
-X. Provocar falsas alarmas en reuniones públicas o privadas;
+IX. Conducir en Estado de Ebriedad, Estado de Ineptitud para Conducir, Evidente Estado de Ebriedad, vehículos de propulsión ya sea mecánica, animal y/o humana;
 
-Xl. Solicitar con falsas alarmas, los servicios de la Policía, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2007)</small>
 
-XII. Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la Autoridad;
+X. Conducir vehículos, bajo los efectos de drogas o tóxicos;
 
-XIII. Provocar incendios, derrumbes y demás actividades análogas en sitios públicos o privados;
+XI. Provocar falsas alarmas en reuniones públicas o privadas;
 
-XIV. Portar o utilizar objetos o substancias que entrañen peligro de causar daño a las personas, sin permiso de la Autoridad competente. Excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador, o de uso decorativo;
+XIl. Solicitar con falsas alarmas, los servicios de la Policía, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados;
 
-XV. Azuzar perros y otros animales con la intención de causar daños o molestias a las personas o sus bienes; y
+XIII. Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la Autoridad;
 
-XVI. Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen los daños señalados en la fracción anterior.
+XIV. Provocar incendios, derrumbes y demás actividades análogas en sitios públicos o privados;
+
+XV. Portar o utilizar objetos o substancias que entrañen peligro de causar daño a las personas, sin permiso de la Autoridad competente. Excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador, o de uso decorativo;
+
+(REFORMADA, P.O. 27 DE JULIO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
+
+XVI. Azuzar animales causando daños o molestias a las personas o sus bienes; y
+
+XVII. Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen los daños señalados en la fracción anterior.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
 
 Para los efectos de la fracción IX, todos los elementos de policía y tránsito deberán poner al presunto infractor a disposición del Juez Calificador en turno para la realización del procedimiento administrativo de calificación establecido en este reglamento y aplicar la sanción correspondiente, quedando el vehículo a disposición de la Dirección de Tránsito y Vialidad de este municipio para los efectos administrativos a que hubiere lugar.
 
+(ADICIONADO, P.O. 27 DE JULIO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
+
+Para la aplicación de este artículo deberá entenderse por:
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Conductor.- Toda persona que conduce, maneja o tiene control físico de un vehículo automotor, de propulsión animal y/o humana en la vía pública o lugar público.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Estado de Ebriedad.- Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Estado de Ineptitud para Conducir.- Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Evidente Estado de Ebriedad.- Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico.
+
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+El Evidente Estado de Ebriedad se demostrará ante la Autoridad Municipal cuando derivado del consumo de alcohol etílico o sustancias, se aprecie que la persona presente alteraciones en la coordinación, la respuesta a reflejos, la alteración del equilibrio o del lenguaje.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-Son Infracciones a la Moral y Buenas Costumbres:
+Se consideran infracciones a la moral y buenas costumbres:
 
 I. Dirigirse o asediar a las personas en forma impertinente o mediante frases o ademanes soeces;
 
@@ -273,9 +349,11 @@ XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate 
 
 XVII. Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 16.
 
-Son Infracciones al Derecho de Propiedad:
+Son infracciones al derecho de propiedad:
 
 I. Colocar anuncios de diversiones públicas, propaganda comercial, religiosa o política en edificios públicos, o colocar ésta incumpliendo con las especificaciones emitidas por la Autoridad, o sin el permiso correspondiente en los lugares autorizados;
 
@@ -301,13 +379,15 @@ IX. Introducirse a lugares públicos o privados cercados, sin el permiso de la p
 
 X. Reservar, rentar o invadir espacios en la vía pública destinados para el estacionamiento de vehículos, a excepción de los que cuenten con el permiso municipal respectivo; y
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
 
-XI Alterar, mover o de cualquier manera modificar la forma, color o estructura original de cualquier mueble o inmueble que se ubique en los parques, jardines, calzadas, avenidas o vía pública sin la previa autorización del R. Ayuntamiento.
+XI. Alterar, mover o de cualquier manera modificar la forma, color o estructura original de cualquier mueble o inmueble que se ubique en los parques, jardines, calzadas, avenidas o vía pública sin la previa autorización del Republicano Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
-Son infracciones al ejercicio del Comercio y del Trabajo:
+Se consideran infracciones al ejercicio del comercio y del trabajo:
 
 l. Trabajar en forma habitual como billetero, fijador de propaganda, limpia botas, fotógrafo, vendedor ambulante, filarmónico, cantante ambulante, sin la autorización ni licencia municipal cuando fuere exigida por la Autoridad o bien, sin sujetarse a las condiciones requeridas para la prestación del servicio;
 
@@ -317,9 +397,11 @@ III. Ejercer actos de comercio sin la autorización de la Autoridad en cementeri
 
 IV. Desempeñar cualquier actividad cuando para ello se requiera del permiso o licencia de la Autoridad Municipal y no se cuente con ello; o bien, cuando no se sujete a las condiciones requeridas para la prestación de un servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 18.
 
-Son Infracciones Contra la Salud:
+Son infracciones contra la salud:
 
 l. Arrojar a lugares públicos o terrenos baldíos, animales muertos, escombros, basuras, substancias fétidas o tóxicas.
 
@@ -339,9 +421,11 @@ VIII. Arrojar en los sistemas de desagüe, animales muertos, escombros, desperdi
 
 IX. Realizar fogatas en la vía o lugares públicos que constituyan algún riesgo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 19.
 
-Son Infracciones contra la Ecología.
+Se consideran infracciones contra la ecología:
 
 I. La destrucción y maltrato de los árboles, flores y cualquier ornamento que se encuentre en las plazas, parques y cualquier otro tipo de lugares públicos y de propiedad privada.
 
@@ -371,13 +455,17 @@ Cualquier persona que cometa por acción u omisión una infracción de carácter
 
 Cuando de un hecho o hechos se constituyan violaciones a otros ordenamientos legales independientemente de la sanción a que se haga acreedor la o las personas que cometan faltas a lo señalado en este reglamento el juez calificador en turno deberá dar vista de los hechos a la autoridad competente que tenga las facultades para conocer del acto.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 24.
 
-Las fallas cometidas de padres a hijos y viceversa, y entre cónyuges, se sancionarán a petición expresa de parte interesada y/o del ofendido, lo anterior en el caso en que dicha conducta se realice dentro de cualquier lugar privado.
+Las faltas cometidas de padres a hijos y viceversa y entre cónyuges, se sancionarán a petición expresa del ofendido.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 25.
 
-El Juez Calificador por la infracción o infracciones al presente reglamento tendrá la facultad para decidir, según su criterio y circunstancias aplicar cualquiera de las sanciones siguientes:
+El Juez Calificador por la infracción o infracciones al presente reglamento tendrá la facultad para decidir, según su criterio y circunstancias, aplicar por cada infracción, cualquiera de las sanciones siguientes:
 
 I. Amonestación,
 
@@ -395,6 +483,10 @@ El párrafo que antecede se observará para la imposición de las multas relacio
 
 En ambos supuestos se le cobrará conjuntamente con la multa impuesta el dictamen médico que se elabore a la persona detenida, cuyo valor será de 2-dos cuotas.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+Cuando la sanción que se aplique al detenido consista en una multa, ésta será considerada como un crédito fiscal, de conformidad con lo dispuesto en el Código Fiscal del Estado.
+
 ###### ARTÍCULO 27.
 
 Al aplicarse la multa, deberá de tomarse en consideración la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica del infractor, la condición social, educación y antecedentes del mismo.
@@ -411,13 +503,19 @@ Los infractores a que se hace referencia en los párrafos anteriores, tendrán l
 
 Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-treinta y seis horas.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 207)</small>
+
+El Juez Calificador podrá acumular las sanciones administrativas contenidas en el presente ordenamiento legal, que correspondan a 2-dos o más infracciones cometidas por la misma persona, incluyendo las diversas infracciones cometidas, en diferente tiempo, modo y circunstancias.
+
 ###### ARTÍCULO 29.
 
 Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si esta compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 30.
 
-SI el Juez Calificador observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o al Consejo Tutelar para Menores, poniendo a su disposición a la persona arrestada.
+Si el Juez Calificador observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o bien a la autoridad competente, poniendo a su disposición a la persona arrestada.
 
 ###### ARTÍCULO 31.
 
@@ -463,9 +561,119 @@ f) Ordenar la práctica de cualquier diligencia que le permita esclarecer la ver
 
 g) Apreciar y valorar los hechos que se le planteen y las pruebas que se le aporten en conciencia; y
 
-h) Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda.
+h) Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda;
 
-V. Dictará y notificará la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+V. Dictará y notificará la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados; Y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2007)</small>
+
+VI. A solicitud del infractor las sanciones administrativas, podrán conmutarse por servicio comunitario, sujetándose al procedimiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS.- Se exceptúa del beneficio del servicio comunitario a aquellos infractores que se encuentren en estado de ebriedad, de ineptitud para conducir o bajo el influjo de alguna sustancia, droga o enervante.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-1.- Se entiende por servicio comunitario, la actividad en beneficio de la comunidad, que realice el infractor a fin de resarcir la afectación ocasionada por la comisión de una infracción al presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-2.- El procedimiento a seguir para otorgar la conmutación de la sanción por el beneficio del servicio comunitario deberá sujetarse a las siguientes disposiciones:
+
+I. Que el beneficio lo solicite por comparecencia o por escrito, en el cual reconozca su responsabilidad en la falta administrativa que cometió y manifieste que no volverá a reincidir y se comprometa a cumplir con el servicio comunitario;
+
+II. Que al momento en que formule su solicitud no se encuentre en estado de ebriedad o bajo los efectos de alguna droga o sustancia que produzca efectos similares;
+
+III. Para obtener la conmutación de la sanción administrativa por la de servicio comunitario, el infractor deberá de acreditar su domicilio con documento fehaciente;
+
+IV. Que no haya infringido el presente reglamento dos o más veces dentro del periodo de dos años anteriores a la fecha en que solicita realizar el servicio comunitario; y,
+
+V. Que el detenido garantice el importe de la sanción económica que por concepto de multa se le haya impuesto equivalente a las horas de arresto que a éste le falten por cumplir, mediante cualesquiera de las tres formas que ·a continuación se establecen, a elección del infractor:
+
+a. Depósito en efectivo realizado en la ventanilla de la Secretaría de Finanzas y Tesorería Municipal, adscrita a la Secretaría de Seguridad Pública y Vialidad de este Municipio;
+
+b. Depósito en efectivo realizado en la Secretaría de Finanzas y Tesorería General del Estado, o en las oficinas recaudadoras en los distritos foráneos, a favor del Municipio de San Pedro Garza García, Nuevo León; y,
+
+c. Póliza expedida por compañía afianzadora legalmente constituida y autorizada, que tenga su domicilio en el Estado de Nuevo León, a favor del Municipio de San Pedro Garza García, Nuevo León.
+
+El certificado o comprobante que se expida deberá quedar bajo el resguardo y custodia de la Secretaría de Finanzas y Tesorería Municipal de San Pedro Garza García.
+
+Esta garantía podrá ser dispensada por el Juez Calificador en turno, cuando el infractor sea primigenio y notoriamente no cuente con los recursos para cubrir el monto que corresponda a la misma.
+
+En el caso de menores de edad, la petición deberá hacerse por escrito con la autorización de sus padres, tutor o representante legal, debiendo ser firmada por los mismos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-3.- Las horas de servicio comunitario a conmutar por el infractor se calcularan conforme a la siguiente tabla:
+
+Horas de Arresto Horas de Servicio Comunitario
+
+8 4
+
+12 6
+
+18 9
+
+22 11
+
+25 1 ½
+
+29 14 ½
+
+32 16
+
+36 18
+
+Tratándose de una sanción económica las horas de servicio comunitario se determinarán conforme a lo siguiente:
+
+Sanción en Horas Equivalentes Horas de
+
+cuotas de Arresto Servicio Comunitario
+
+1 a 32 8 4
+
+33 a 64 12 6
+
+65 a 96 18 9
+
+97 a 128 22 11
+
+129 a 160 25 12 ½
+
+161 a 192 29 14 ½
+
+193 a 224 32 16
+
+225 a 250 36 18
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-4.- Una vez otorgado el beneficio de servicio comunitario, el Director de Jueces Calificadores notificará, al día hábil siguiente, a las dependencias municipales la relación de infractores que obtuvieron la conmutación de la infracción por el beneficio del servicio comunitario, señalando el tiempo para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-5.- El infractor se presentará ante la dependencia municipal a la cual se le envió para realizar el servicio comunitario, al día hábil siguiente en que haya sido puesto en libertad, para que le sea asignada el área en la que realizará el servicio comunitario.
+
+La supervisión y asignación de actividades de las personas que hayan solicitado la conmutación de la sanción administrativa por el beneficio del servicio comunitario, estará a cargo de la dependencia municipal asignada, para lo cual se observará lo siguiente:
+
+I. El servicio comunitario se realizará cumpliendo un mínimo de 4-cuatro horas y hasta un máximo de 18-dieciocho horas en la dependencia municipal que se asigne;
+
+II. Para el cumplimiento del servicio comunitario la Secretaría o Dependencia deberá tomar en cuenta las condiciones físicas y mentales, profesión u oficio, horarios de trabajo o académicos y demás circunstancias personales del infractor, con el fin de no interferir en sus actividades ordinarias; y,
+
+III. El infractor dedicará como máximo 4-cuatro horas diarias a la realización del servicio comunitario, debiendo completar el mismo en-un término no mayor de 15-quince días naturales, contados a partir del día siguiente en que se le otorgue dicho beneficio.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-6.- La dependencia municipal asignada para el servicio comunitario, informará a la Dirección de Jueces Calificadores, mediante oficio, sobre el cumplimiento y conclusión del servicio comunitario o en su caso la omisión del mismo.
+
+El incumplimiento en cualquiera de las obligaciones del servicio comunitario, se entenderá como renuncia al mismo y en consecuencia se hará efectiva la garantía otorgada.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2007)</small>
+
+ARTÍCULO 33 BIS-7.- Una vez que se haya acreditado que el beneficiario concluyó el servicio comunitario, la garantía depositada se reembolsará al infractor, previa constancia expedida por la Dirección de Jueces Calificadores.
 
 ###### ARTÍCULO 34.
 
@@ -491,7 +699,9 @@ ARTÍCULO.- 38.- Si las Infracciones a que se refiere este ordenamiento y demás
 
 Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del Juez Calificador en turno, el cual conocerá y resolverá, aplicando la sanción correspondiente conforme al presente Reglamento; debiendo entregar al menor infractor a los padres, tutores o representantes legales, previo el cumplimiento de la sanción impuesta.
 
-En aquellos casos en que los hechos u omisiones sean tipificadas como delitos previstos por el Código Penal el Juez Calificador deberá remitir al menor infractor al Delegado del Consejo Estatal para Menores y en su ausencia directamente al Consejo.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
+En aquellos casos en que los hechos u omisiones sean tipificados como delitos previstos por el Código Penal el Juez Calificador deberá remitir y poner a disposición de la autoridad competente al menor infractor, lo anterior para el efecto de que se resuelva su situación jurídica por la conducta o conductas realizadas.
 
 ### CAPITULO SEXTO. DEL COMITÉ DE HONOR Y JUSTICIA DE SEGURIDAD PÚBLICA Y VIALIDAD
 
@@ -509,9 +719,11 @@ Contra los actos y resoluciones de la Autoridad Municipal, dictados con motivo d
 
 El recurso de inconformidad tiene por objeto que la Autoridad confirme, revoque o modifique la sanción económica impuesta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 42.
 
-El recurso de inconformidad que interponga, deberá presentarse ante la Secretaría del R. Ayuntamiento. El afectado contará con un plazo de 5-cinco días hábiles para la promoción del recurso, contados a partir del día siguiente de la notificación.
+El recurso de inconformidad que interponga, deberá presentarse ante la Secretaría del Republicano Ayuntamiento. El afectado contará con un plazo de 5-cinco días hábiles para la promoción del recurso, contados a partir del día siguiente de la notificación.
 
 El recurso mencionado, deberá formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado. El escrito deberá contener:
 
@@ -547,7 +759,9 @@ Dentro de un término no mayor de 15-quince días hábiles, después de concluir
 
 El Comité de Honor y Justicia de Seguridad Pública y Vialidad se constituye como un órgano de carácter administrativo, auxiliar del Presidente Municipal, el cual tendrá competencia para conocer y sustanciar los procedimientos que se deriven de las quejas y denuncias que se presenten en contra de los elementos de Policía y de Tránsito de la Secretaría de Seguridad Pública y Vialidad.
 
-La sustanciación del procedimiento de responsabilidad administrativa se regirá por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
+
+La sustanciación del procedimiento de responsabilidad administrativa se regirá por la ley o leyes aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2007)</small>
 
@@ -637,7 +851,9 @@ II.- Establecer en coordinación con la Contraloría Municipal, módulos de aten
 
 III.- Organizar cursos, conferencias o pláticas relacionadas con el servicio de seguridad pública, vialidad, protección civil, e instrumental y equipo utilizado, en los que se involucren a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, como parte de su capacitación y adiestramiento permanente;
 
-IV.- Resolver en estricto apego a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, los Procedimientos de Responsabilidad Administrativa que con motivo de las quejas y denuncias se inicien en contra de los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2007)</small>
+
+IV.- Resolver en estricto apego a la ley del Sistema de Seguridad Pública del Estado de Nuevo León, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, los Procedimientos de Responsabilidad Administrativa que con motivo de las quejas y denuncias se inicien en contra de los "oficiales" de policía y tránsito;
 
 V.- Emitir recomendaciones al Secretario de Seguridad Pública y Vialidad, Director de Policía y Director de Tránsito, para disciplinar a los servidores públicos a los que hace referencia el artículo 45 del presente Reglamento, cuando sus conductas activas u omisivas no sean constitutivas de infracción a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
@@ -679,11 +895,11 @@ En caso de que la resolución dictada por el Comité de Honor y Justicia de Segu
 
 En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2007)</small>
 
 ###### ARTÍCULO 58.
 
-Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del Republicano Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del Republicano Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
 
 ## TRANSITORIOS
 
@@ -732,3 +948,9 @@ Artículo Primero.- Las reformas por adición y modificación al REGLAMENTO DE P
 Artículo Segundo.- La integración del Comité de Honor y Justicia de Seguridad Pública y Vialidad para ser integrado con motivo de esta reforma y dar inició a la sucesión escalonada de sus miembros ciudadanos será de la manera siguiente:
 
 Por única vez dos de los integrantes ciudadanos del Comité serán electos por un periodo de cinco años, sin posibilidad de reelección. El resto de los miembros ciudadanos del Comité serán electos por el periodo ordinario de tres años.
+
+P.O. 27 DE JULIO DE 2007.
+
+Artículo Primero. Las presentes Reformas por Modificación y Adición al Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, N.L., entrarán en vigor a los 30-treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+Artículo Segundo. Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las presentes Reformas.
