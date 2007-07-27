@@ -4,7 +4,7 @@ identifier: "TRA-tratado-de-libre-comercio-de-america-del-norte-17-de-76"
 country: "mx"
 rank: "tratado"
 publication_date: "1993-12-08"
-last_updated: "2006-06-23"
+last_updated: "2007-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,253 +19,253 @@ issue_date: "1993-12-07"
 ---
 # TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (17 DE DICIEMBRE DE 1992)
 
-MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, FORMALIZADAS MEDIANTE INTERCAMBIO DE COMUNICACIONES LOS DIAS VEINTE DE ENERO, OCHO Y VEINTICUATRO DE MARZO DE DOS MIL SEIS, ENTRE LOS GOBIERNOS DE LOS ESTADOS UNIDOS MEXICANOS, LOS ESTADOS UNIDOS DE AMERICA Y CANADA, RESPECTIVAMENTE
+MODIFICACIONES AL APENDICE 6, DISPOSICIONES ESPECIALES, DEL ANEXO 300-B DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Modificaciones publicadas en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de junio de 2006.
+Modificaciones publicadas en el Diario Oficial de la Federación, el viernes 27 de julio de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
+FELIPE DE JESÚS CALDERÓN HINOJOSA, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
 
-Los días veinte de enero, ocho y veinticuatro de marzo de dos mil seis, se adoptaron en las ciudades de México, Washington, D.C. y Ottawa, las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, cuyo texto en español consta en la copia certificada adjunta.
+Los días nueve y trece de noviembre de dos mil seis, el Gobierno de los Estados Unidos de América y el Gobierno de los Estados Unidos Mexicanos adoptaron en las ciudades de Washington, D.C. y México, respectivamente, las Modificaciones al Apéndice 6 del Anexo 300-B del Tratado de Libre Comercio de América del Norte, cuyo texto en español consta en la copia certificada adjunta.
 
-Las Modificaciones mencionadas fueron aprobadas por la Cámara de Senadores del Honorable Congreso de la Unión, el veintiséis de abril de dos mil seis, según decreto publicado en el Diario Oficial de la Federación del dos de junio del propio año.
+Las Modificaciones mencionadas fueron aprobadas por la Cámara de Senadores del Honorable Congreso de la Unión, el quince de marzo de dos mil siete, según decreto publicado en el Diario Oficial de la Federación del veintinueve de junio del propio año.
 
-Por lo tanto, para su debida observancia, en cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, promulgo el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el cinco de junio de dos mil seis.
+Por lo tanto, para su debida observancia, en cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, promulgo el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el veinticuatro de julio de dos mil siete.
 
 #### Sección I Animales Vivos y Productos del Reino Animal (Capítulos 1 a 5).
 
 ## TRANSITORIO
 
-UNICO.- El presente Decreto entrará en vigor el cinco de julio de dos mil seis.
+ÚNICO.- El presente Decreto entrará en vigor el treinta de julio de dos mil siete.
 
-Vicente Fox Quesada.- Rúbrica.- El Secretario del Despacho de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.
+Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
 
 JOEL ANTONIO HERNANDEZ GARCIA, CONSULTOR JURIDICO DE LA SECRETARIA DE RELACIONES EXTERIORES.
 
 CERTIFICA:
 
-Que en los archivos de esta Secretaría obra el original correspondiente a México de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días veinte de enero, ocho y veinticuatro de marzo de dos mil seis, entre los Gobiernos de los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, respectivamente, cuyo texto en español es el siguiente:
+Que en los archivos de esta Secretaría obra el original correspondiente a México de las Modificaciones al Apéndice 6 del Anexo 300-B del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días nueve y trece de noviembre de dos mil seis, entre el Gobierno de los Estados Unidos de América y el Gobierno de los Estados Unidos Mexicanos, respectivamente, cuyo texto en español es el siguiente:
 
-ADECUACIÓN DE REGLAS DE ORIGEN DEL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE
+TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Cacao y sus preparaciones
+Modificación al Apéndice 6, Disposiciones especiales, del Anexo 300-B
 
-### Capítulo 18, 1806.32: Eliminar la regla de origen aplicable a la subpartida 1806.31, 1806.32 y 1806.90 y reemplazarla con la siguiente regla:
+Reglas aplicables a boxers de algodón
 
-1806.31 a 1806.90 Un cambio a la subpartida 1806.31 a 1806.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+Para fines del comercio entre México y EE.UU., y a partir del 7 de junio de 2006, se considerará originario a un bien de cualquiera de dichas Partes, siempre que se cumpla en el territorio de una o más de cualquiera de dichas Partes el cambio de clasificación arancelaria que se indica a continuación y se cumplan las demás disposiciones aplicables del Tratado.
 
-Jugo de arándano
+62.06 Un cambio a la partida 62.06 de
 
-### Capítulo 20, 2009.90: Eliminar la regla de origen aplicable a la subpartida 2009.90 y reemplazarla con las siguientes reglas:
+cualquier otro Capítulo, excepto de la
 
-2009.90 Un cambio a la subpartida 2009.90 de cualquier otro capítulo;
+partida 51.06 a 51.13, 52.04 a
 
-un cambio a mezclas de jugo de arándano de la subpartida 2009.90 de cualquier otra subpartida dentro del capítulo 20, excepto de la subpartida 2009.11 a 2009.39 o jugo de arándano de la subpartida 2009.80, habiendo o no cambios de cualquier otro capítulo, cumpliendo con un contenido regional no menor a:
+52.12, 53.07 a 53.08 o 53.10 a 53.11,
 
-(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+### Capítulo 54 o partida 55.08 a 55.16,. 58.01 a 58.02 o 60.01 a 60.06, siempre
 
-(b) 50 por ciento, cuando se utilice el método de costo neto; o
+que el bien esté cortado y cosido o de
 
-un cambio a cualquier otro bien de la subpartida 2009.90 de cualquier otra subpartida dentro del capítulo 20, habiendo o no cambios de cualquier otro capítulo, siempre que ni un solo ingrediente de jugo de una sola fruta, ni ingredientes de jugo de un solo país que no sea Parte, constituya, en forma simple, más del 60 por ciento del volumen del bien.
+otra manera ensamblado en territorio
 
-Minerales metalíferos, escorias y cenizas
+de una o más de las Partes.
 
-### Capítulo 26, 26.01-26.21: Eliminar la regla de origen aplicable a la partida 26.01 a 26.21 y reemplazarla con la siguiente regla:
+6207.11 Nota: Los boxers de algodón, para hombres o
 
-26.01 a 26.21 Un cambio a la partida 26.01 a 26.21 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+niños, se considerarán como originarios
 
-Pieles (excepto la peletería) y cueros
+siempre y cuando sean cortados y
 
-### Capítulo 41, 41.04-41.13, 41.15: Eliminar la regla de origen aplicable a la partida 41.04 a 41.15 y reemplazarla con las siguientes reglas:
+cosidos o de otra manera ensamblados
 
-41.04 Un cambio a la partida 41.04 de cualquier otra partida, excepto de la partida 41.07.
+en territorio de una o más de las Partes
 
-4105.10 Un cambio a la subpartida 4105.10 de la partida 41.02 o de cualquier otro capítulo.
+y si la tela de ligamento tafetán de la
 
-4105.30 Un cambio a la subpartida 4105.30 de la partida 41.02, subpartida 4105.10 o de cualquier otro capítulo.
+parte exterior de la prenda, salvo la
 
-4106.21 Un cambio a la subpartida 4106.21 de la subpartida 4103.10 o de cualquier otro capítulo.
+pretina, es totalmente hecha de una o
 
-4106.22 Un cambio a la subpartida 4106.22 de la subpartida 4103.10 o 4106.21 o de cualquier otro capítulo.
+más de las siguientes:
 
-4106.31 Un cambio a la subpartida 4106.31 de la subpartida 4103.30 o de cualquier otro capítulo.
+(a) Tela de la subpartida 5208.41, de
 
-4106.32 Un cambio a la subpartida 4106.32 de la subpartida 4103.30 o 4106.31 o de cualquier otro capítulo.
+hilo teñido, con un contenido de fibra
 
-4106.40 Un cambio a cueros o pieles curtidos de la subpartida 4106.40 en estado húmedo (incluido el “wet-blue”) de la subpartida 4103.20 o de cualquier otro capítulo; o
+100 por ciento algodón, de 95 a 100
 
-un cambio a cueros o pieles de la subpartida 4106.40 en “crust” (crosta) de la subpartida 4103.20 o de cueros o pieles curtidos de la subpartida 4106.40 en estado húmedo (incluido el “wet-blue”) o de cualquier otro capítulo.
+gramos por metro cuadrado, con
 
-4106.91 Un cambio a la subpartida 4106.91 de la subpartida 4103.90 o de cualquier otro capítulo.
+número promedio de hilo 1 de 37 a 42
 
-4106.92 Un cambio a la subpartida 4106.92 de la subpartida 4103.90 o 4106.91 o de cualquier otro capítulo.
+en la cuenta métrica;
 
-41.07 Un cambio a la partida 41.07 de la partida 41.01 o de cualquier otro capítulo.
+(b) Tela de la subpartida 5208.42, de
 
-41.12 Un cambio a la partida 41.12 de la partida 41.02, subpartida 4105.10 o de cualquier otro capítulo.
+hilo teñido, con un contenido de fibra
 
-41.13 Un cambio a la partida 41.13 de la partida 41.03, subpartida 4106.21 o 4106.31, cueros o pieles curtidos en estado húmedo (incluido el “wet-blue”) de la subpartida 4106.40, subpartida 4106.91 o de cualquier otro capítulo.
+100 por ciento algodón, de peso inferior
 
-41.14 Un cambio a la partida 41.14 de la partida 41.01 a 41.03 o de cualquier otro capítulo, excepto de cueros o pieles de la partida 41.01 a 41.03 que hayan sufrido un proceso de curtido (incluido el precurtido) reversible.
+o igual a 105 gramos por metro cuadrado,
 
-4115.10 a 4115.20 Un cambio a la subpartida 4115.10 a 4115.20 de la partida 41.01 a 41.03 o de cualquier otro capítulo.
+con número promedio de hilo de 47 a 53
 
-Corcho y sus manufacturas
+en la cuenta métrica;
 
-### Capítulo 45, 45.01-45.02, 45.03-45.04: Eliminar la regla de origen aplicable a la partida 45.01 a 45.02 y 45.03 a 45.04 y reemplazarla con la siguiente regla:
+(c) Tela de la subpartida 5208.51,
 
-45.01 a 45.04 Un cambio a la partida 45.01 a 45.04 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+estampada, con un contenido de fibra
 
-Hilados de filamentos de rayón viscosa
+100 por ciento algodón, de 93 a 97
 
-### Capítulo 54, 54.08: Eliminar la regla de origen aplicable a la partida 54.08 y reemplazarla con la siguiente regla:
+gramos por metro cuadrado, con número promedio de
 
-54.08 Un cambio a la partida 54.08 de hilados de filamentos de rayón viscosa de la partida 54.03 o de cualquier otro capítulo, excepto de la partida 51.06 a 51.10, 52.05 a 52.06 o 55.09 a 55.10.
+hilo de 38 a 42 en la cuenta métrica;
 
-Fibra corta de rayón trilobal; hilados de nailon sin texturar
+(d) Tela de la subpartida 5208.52,
 
-### Capítulo 56, 56.01-56.09: Eliminar la regla de origen aplicable a la partida 56.01 a 56.09 y reemplazarla con las siguientes reglas y nota al pie de página:
+estampada, con un contenido de fibra 100
 
-56.01 Un cambio a toallas sanitarias o tampones de la subpartida 5601.10 de fibra corta de rayón trilobal (38 mm, 3.3 decitex) de la subpartida 5504.10 o de cualquier otro capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11 o capítulo 54 a 55; o
+por ciento algodón, de 112 a 118 gramos
 
-un cambio a cualquier otro bien de la partida 56.01 de cualquier otro capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11 o capítulo 54 a 55.
+por metro cuadrado, con número promedio
 
-56.02 a 56.05 Un cambio a la partida 56.02 a 56.05 de cualquier otro capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11 o capítulo 54 a 55.
+de hilo de 38 a 42 en la cuenta métrica;
 
-56.06 Un cambio a la partida 56.06 de hilados rígidos (10) de la subpartida 5402.41 o de cualquier otro capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11 o capítulo 54 a 55.
+(e) Tela de la subpartida 5210.11, cruda,
 
-56.07 a 56.09 Un cambio a la partida 56.07 a 56.09 de cualquier otro capítulo, excepto de la partida 51.06 a 51.13, 52.04 a 52.12, 53.07 a 53.08 o 53.10 a 53.11 o capítulo 54 a 55.
+con un contenido de fibra de 51 a 60 por
 
-(10 )Para efecto de esta regla el término “hilados rígidos” se refiere exclusivamente a aquellos que son semiopacos no texturados, multifilamentos no torcidos o con una torsión no mayor a 50 vueltas por metro de poliamida de tipo 66 de 7 denier/5 filamentos, 10 denier/7 filamentos o 12 denier/5 filamentos de la subpartida 5402.41.
+ciento algodón, de 49 a 40 por ciento
 
-Plumas y plumón preparados y artículos de plumas o plumón; flores artificiales; manufacturas de cabello
+poliéster, de 100 a 112 gramos por
 
-### Capítulo 67, 67.01-67.04: Eliminar la regla de origen aplicable a la fracción arancelaria 6701.00.aa y la partida 67.01 a 67.04 y reemplazarla con las siguientes reglas:. 67.01 Un cambio a la partida 67.01 de cualquier otra partida; o
+metro cuadrado, con número promedio
 
-un cambio a un artículo de plumas o plumón de la partida 67.01 de cualquier otro bien de dicha partida o de cualquier otra partida.
+de hilo de 55 a 65 en la cuenta métrica;
 
-67.02 a 67.04 Un cambio a la partida 67.02 a 67.04 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+(f) Tela de la subpartida 5210.41, de
 
-Vidrio y sus manufacturas
+hilo teñido, con un contenido de fibra de
 
-### Capítulo 70, 70.01-70.02: Eliminar la regla de origen aplicable a la partida 70.01 a 70.02 y reemplazarla con las siguientes reglas:
+51 a 60 por ciento algodón, 49 a 40 por
 
-70.01 Un cambio a la partida 70.01 de cualquier otra partida.
+ciento poliéster, de 77 a 82 gramos por
 
-7002.10 Un cambio a la subpartida 7002.10 de cualquier otra partida.
+metro cuadrado, con número promedio
 
-7002.20 Un cambio a la subpartida 7002.20 de cualquier otro capítulo.
+de hilo de 43 a 48 en la cuenta métrica;
 
-7002.31 Un cambio a la subpartida 7002.31 de cualquier otra partida.
+(g) Tela de la subpartida 5210.41, de
 
-7002.32 a 7002.39 Un cambio a la subpartida 7002.32 a 7002.39 de cualquier otro capítulo.
+hilo teñido, con un contenido de fibra de
 
-Metales no-ferrosos:
+51 a 60 por ciento algodón, 49 a 40 por
 
-Cobre
+ciento poliéster, de 85 a 90 gramos por
 
-### Capítulo 74, 74.01-74.03: Eliminar la regla de origen aplicable a la partida 74.01 a 74.02 y 74.03 y reemplazarla con las siguientes reglas:. 74.01 a 74.03 Un cambio a la partida 74.01 a 74.03 de cualquier otra partida, incluyendo otra partida dentro del grupo, excepto de la partida 74.04; o
+metro cuadrado, con número promedio
 
-un cambio a la partida 74.01 a 74.03 de la partida 74.04, habiendo o no cambios de cualquier otra partida, incluyendo otra partida dentro del grupo, cumpliendo con un contenido regional no menor a:
+de hilo de 69 a 75 en la cuenta métrica;
 
-(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+(h) Tela de la subpartida 5210.51,
 
-(b) 50 por ciento, cuando se utilice el método de costo neto.
+estampada, con un contenido de fibra de
 
-Plomo
+51 a 60 por ciento algodón, 49 a 40 por
 
-### Capítulo 78, 78.03-78.06: Eliminar la regla de origen aplicable a la partida 78.03 a 78.06 y reemplazarla con las siguientes reglas:. 78.03 Un cambio a la partida 78.03 de cualquier otra partida; o
+ciento poliéster, de 107 a 113 gramos por
 
-un cambio a alambre de la partida 78.03 de cualquier otro bien de dicha partida, habiendo o no cambios de cualquier otra partida, siempre que la sección transversal de las barras no originarias se reduzca al menos en 50%.
+metro cuadrado, con número promedio
 
-7804.11 a 7804.20 Un cambio a la subpartida 7804.11 a 7804.20 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo; o
+de hilo de 33 a 37 en la cuenta métrica;
 
-un cambio a hojas de espesor inferior o igual a 0.15 mm (sin incluir el soporte) de la subpartida 7804.11 de cualquier otro bien de dicha subpartida, habiendo o no cambios de cualquier otra subpartida.
+(i) Tela de la subpartida 5210.51,
 
-78.05 a 78.06 Un cambio a la partida 78.05 a 78.06 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+estampada, con un contenido de fibra de
 
-Cinc y sus manufacturas
+51 a 60 por ciento algodón, 49 a 40 por
 
-### Capítulo 79, 79.01-79.03, 79.04-79.07: Eliminar la regla de origen aplicable a la partida 79.01 a 79.03 y 79.04 a 79.07 y reemplazarla con las siguientes reglas:
+ciento poliéster, de 92 a 98 gramos por
 
-79.01 a 79.02 Un cambio a la partida 79.01 a 79.02 de cualquier otro capítulo.
+metro cuadrado, con número promedio
 
-7903.10 Un cambio a la subpartida 7903.10 de cualquier otro capítulo.
+de hilo de 43 a 48 en la cuenta métrica; o
 
-7903.90 Un cambio a la subpartida 7903.90 de cualquier otra partida.
+(j) Tela de la subpartida 5210.51,
 
-79.04 Un cambio a la partida 79.04 de cualquier otra partida; o
+estampada, con un contenido de fibra de
 
-un cambio a alambre de la partida 79.04 de cualquier otro bien de dicha partida, habiendo o no cambios de cualquier otra partida, siempre que la sección transversal de las barras no originarias se reduzca al menos en 50%.
+51 a 60 por ciento algodón, 49 a 40 por
 
-79.05 Un cambio a la partida 79.05 de cualquier otra partida; o
+ciento poliéster, de 105 a 112 gramos
 
-un cambio a hojas de espesor inferior o igual a 0.15 mm (sin incluir el soporte) de la partida 79.05 de cualquier otro bien de dicha partida, habiendo o no cambios de cualquier otra partida.
+por metro cuadrado, con número
 
-79.06 a 79.07 Un cambio a la partida 79.06 a 79.07 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+promedio de hilo de 50 a 60 en la cuenta
 
-Estaño
+métrica.
 
-### Capítulo 80, 80.03-80.04, 80.05-80.07: Eliminar la regla de origen aplicable a la partida 80.03 a 80.04 y 80.05 a 80.07 y reemplazarla con las siguientes reglas:. 80.03 Un cambio a la partida 80.03 de cualquier otra partida; o
+Un cambio a la subpartida 6207.11 de
 
-un cambio a alambre de la partida 80.03 de cualquier otro bien de dicha partida, habiendo o no cambios de cualquier otra partida, siempre que la sección transversal de las barras no originarias se reduzca al menos en 50%.
+cualquier otro Capítulo, excepto de la
 
-80.04 a 80.07 Un cambio a la partida 80.04 a 80.07 de cualquier otra partida, incluyendo otra partida dentro del grupo.
+partida 51.06 a 51.13, 52.04 a 52.12,
 
-Los demás metales comunes
+53.07 a 53.08 o 53.10 a 53.11, Capítulo
 
-### Capítulo 81, 8101.10-8101.94-81.12-81.13: Eliminar la regla de origen aplicable desde la subpartida 8101.10 a 8101.94 y hasta la partida 81.12 a 81.13 y reemplazarla con las siguientes reglas:
+54 o partida 55.08 a 55.16, 58.01 a
 
-8101.10-8110.90 Un cambio a la subpartida 8101.10 a 8110.90 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+58.02 o 60.01 a 60.06, siempre que el
 
-81.11 Un cambio a polvos o manufacturas de manganeso de la partida 81.11 de cualquier otro bien de dicha partida; o
+bien esté cortado y cosido o de otra
 
-un cambio a cualquier otro bien de la partida 81.11 de cualquier otra partida.
+manera ensamblado en territorio de una
 
-8112.12-8113.00 Un cambio a la subpartida 8112.12 a 8113.00 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+o más de las Partes.
 
-Aparatos receptores de televisión
+1 La definición de número promedio de hilo esta contenida en la Sección 10 del Anexo 300-B.
 
-### Capítulo 85, 8528.12.bb: Eliminar la primera regla de origen aplicable a la fracción arancelaria 8528.12 bb y la Nota cuyo texto inicia con la redacción “Desde Enero 1 de 1999...”.
+6207.19-6207.99 Un cambio a la subpartida 6207.19 a
 
-### Capítulo 85, 8528.12.ff, 8528.12: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.12.ff y la subpartida 8528.12 y reemplazarla con la siguiente regla:
+6207.99 de cualquier otro Capítulo,
 
-8528.12 Un cambio a la subpartida 8528.12 de la fracción arancelaria 8528.12.gg o de cualquier otra partida.
+excepto de la partida 51.06 a 51.13,
 
-### Capítulo 85, 8528.13: Eliminar la regla de origen aplicable a la subpartida 8528.13 y reemplazarla con la siguiente regla:
+52.04 a 52.12, 53.07 a 53.08 o 53.10 a
 
-8528.13 Un cambio a la subpartida 8528.13 de cualquier otra partida.
+53.11, Capítulo 54 o partida 55.08 a
 
-### Capítulo 85, 8528.21.bb: Eliminar la primera regla de origen aplicable a la fracción arancelaria 8528.21 bb y la Nota cuyo texto inicia con la redacción “Desde Enero 1 de 1999...”.
+55.16, 58.01 a 58.02 o 60.01 a 60.06,
 
-### Capítulo 85, 8528.21.ff, 8528.21: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.21.ff y la subpartida 8528.21 y reemplazarla con la siguiente regla:
+siempre que el bien esté cortado y
 
-8528.21 Un cambio a la subpartida 8528.21 de la fracción arancelaria 8528.21.gg o de cualquier otra partida.
+cosido o de otra manera ensamblado en
 
-### Capítulo 85, 8528.22: Eliminar la regla de origen aplicable a la subpartida 8528.22 y reemplazarla con la siguiente regla:
+territorio de una o más de las Partes.
 
-8528.22 Un cambio a la subpartida 8528.22 de cualquier otra partida.
+62.08-62.10 Un cambio a la partida 62.08
 
-### Capítulo 85, 8528.30.ff, 8528.30: Eliminar la regla de origen aplicable a la fracción arancelaria 8528.30.ff y la subpartida 8528.30 y reemplazarla con la siguiente regla:
+a 62.10 de cualquier otro Capítulo,
 
-8528.30 Un cambio a la subpartida 8528.30 de la fracción arancelaria 8528.30.gg o de cualquier otra partida.
+excepto de la partida 51.06 a 51.13,
 
-Controles
+52.04 a 52.12, 53.07 a 53.08 o 53.10 a
 
-### Capítulo 90, 9032.20-9032.89: Eliminar la regla de origen aplicable a la subpartida 9032.20 a 9032.89 y reemplazarla con las siguientes reglas:. 9032.20-9032.89 (67) Un cambio a la subpartida 9032.20 a 9032.89 de cualquier otra partida; o
+53.11, Capítulo 54 o partida 55.08 a
 
-un cambio a la subpartida 9032.20 a 9032.89 de la subpartida 9032.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+55.16, 58.01 a 58.02 o 60.01 a 60.06,
 
-(a) 45 por ciento, cuando se utilice el método de valor de transacción, o
+siempre que el bien esté cortado y
 
-(b) 35 por ciento, cuando se utilice el método de costo neto.
+cosido o de otra manera ensamblado en
 
-(67 )Si un bien comprendido en la subpartida 9032.89 es para uso en un vehículo automotor del capítulo 87, las disposiciones del artículo 403 pueden aplicarse.
+territorio de una o más de las Partes.
 
-La presente es copia fiel y completa en español de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días veinte de enero, ocho y veinticuatro de marzo de dos mil seis, entre los Gobiernos de los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, respectivamente.
+La presente es copia fiel y completa en español de las Modificaciones al Apéndice 6 del Anexo 300-B del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días nueve y trece de noviembre de dos mil seis, entre el Gobierno de los Estados Unidos de América y el Gobierno de los Estados Unidos Mexicanos, respectivamente.
 
-Extiendo la presente, en siete páginas útiles, en la Ciudad de México, Distrito Federal, el dos de junio de dos mil seis, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
+Extiendo la presente, en cuatro páginas útiles, en la Ciudad de México, Distrito Federal, el nueve de julio de dos mil siete, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
 
 ###### Artículo 34
 
