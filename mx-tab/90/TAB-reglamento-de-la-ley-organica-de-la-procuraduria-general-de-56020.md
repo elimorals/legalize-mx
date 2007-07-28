@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2007-04-11"
+last_updated: "2007-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 11 de abril de 2007.
 
@@ -155,7 +155,9 @@ e) Instituto de Capacitación y Profesionalización.
 
 III.- SUBPROCURADURÍA DE INVESTIGACIÓN:
 
-a) Dirección de Averiguaciones Previas, que contará con;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
+
+a) Dirección de Averiguaciones Previas Centro, que contará con;
 
 a.1. Mesa Dictaminadora;
 
@@ -1207,11 +1209,17 @@ I. Delegación Regional con sede en la ciudad de Cárdenas, cuya circunscripció
 
 II. Delegación Regional con sede en la ciudad de Cunduacán, cuya circunscripción territorial serán los municipios de Comalcalco, Paraíso, Jalpa de Méndez y Cunduacán;
 
-III. Delegación Regional con sede en la ciudad de Frontera, cuya circunscripción territorial serán los municipios de Centla y Nacajuca;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-IV. Delegación Regional con sede en la ciudad de Jalapa, cuya circunscripción territorial serán los municipios de Jalapa, Teapa y Tacotalpa; y
+III. Delegación Regional con sede en la ciudad de Frontera, cuya circunscripción territorial serán los municipios de Centla, Jonuta y Nacajuca;
 
-V. Delegación Regional con sede en la ciudad de Emiliano Zapata, cuya circunscripción territorial serán los municipios de Emiliano Zapata, Macuspana, Jonuta, Balancán y Tenosique.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
+
+IV. Delegación Regional con sede en la ciudad de Jalapa, cuya circunscripción territorial serán los municipios de Jalapa, Macuspana, Teapa y Tacotalpa; y
+
+(REFORMADA, P.O. 28 DE JULIO DE 2007) (F. DE E., P.O. 3 DE OCTUBRE DE 2007)
+
+V. Delegación Regional con sede en la ciudad de Emiliano Zapata, cuya circunscripción territorial serán los municipios de Emiliano Zapata, Balancán y Tenosique.
 
 ### CAPÍTULO II. AGENCIAS DEL MINISTERIO PÚBLICO FORÁNEAS
 
@@ -1327,6 +1335,22 @@ En contrá de los funcionarios públicos que teniendo la obligación de excusars
 
 En caso de calificarse de legal el impedimento, excusa o recusación de un funcionario público, el asunto será turnado a quien designe el Procurador.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2007)</small>
+
+TÍTULO DECIMOTERCERO
+
+DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE JULIO DE 2007)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2007)</small>
+
+###### ARTÍCULO 57.
+
+Corresponde a la Unidad de Acceso a la Información el ejercicio de las atribuciones y obligaciones que establece la Ley de Transparencia y Acceso a la Información del Estado de Tabasco y su Reglamento.
+
 T R A N S I T O R I O S
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1348,3 +1372,9 @@ CONSEJERO JURIDICO DEL PODER EJECUTIVO.
 LIC. GUSTAVO ROSARIO TORRES.
 
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE JULIO DE 2007.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
