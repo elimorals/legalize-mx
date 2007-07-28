@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ganaderia-del-estado-de-colima-14220"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-10"
-last_updated: "2006-04-04"
+last_updated: "2007-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE GANADERIA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 10 de abril de 1999.
 
@@ -729,11 +729,27 @@ II.- Sacar de la zona en que se encuentren o de la entidad o introducir en ésta
 
 III.- Arrojar a los mares, ríos, arroyos, canales, presas, lagunas o cualquier depósito de agua, así como a la orilla de caminos, animales muertos o parte de ellos;
 
-IV.- Transportar por los caminos del Estado, semovientes destinados a la reproducción, sin llevar consigo el certificado de vacunas aplicadas de acuerdo con la Legislación de la materia; y
+> <small>(REFORMADA, P.O. 28 DE JULIO 2007)</small>
 
-V.- Comprar, vender, trasladar o realizar cualquier otro acto que ponga en riesgo la salud pública con un animal o sus despojos cuando éste haya sido atacado por enfermedad infectocontagiosa.
+IV Transportar por los caminos del Estado, semovientes destinados a la reproducción, sin llevar consigo el certificado de vacunas aplicadas de acuerdo con la Legislación de la materia;
 
-Se prohibe la introducción al Estado, de leche sin proceso de pasteurización, que provenga de zonas o establos que no cuenten con certificado de estar libres de brucella y tuberculosis.
+> <small>(REFORMADA, P.O. 28 DE JULIO 2007)</small>
+
+V Comprar, vender, trasladar o realizar cualquier otro acto que a sabiendas ponga en riesgo la salud pública con un animal en pie, canal, sea éste total o en partes, o sus despojos cuando haya sido atacado por enfermedad infectocontagiosa o alimentado con sustancias tóxicas o riesgosas prohibidas por Ley o Normas Oficiales Mexicanas emitidas por autoridad competente.
+
+Se prohíbe la introducción al Estado, de leche sin proceso de pasteurización, que provenga de zonas o establos que no cuenten con certificado de estar libre de brucella y tuberculosis; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO 2007)</small>
+
+VI Introducir, y en su caso, sacrificar para su distribución y consumo en el Estado, animales o partes de éste que a sabiendas presenten residuos o hayan sido alimentados con sustancias tóxicas o riesgosas para la salud de los consumidores en términos de las disposiciones legales aplicables o las Normas Oficiales Mexicanas emitidas por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO 2007)</small>
+
+ARTICULO 104 BIS.- Comete el delito en contra de las medidas zoosanitarias previstas por Ley, quien realice cualquiera de las acciones prohibidas señaladas en las fracciones I, II, V y VI del artículo anterior.
+
+A quien cometa este delito se le impondrá una pena de dos a siete años de prisión y multa de doscientos hasta dos mil veces el salario mínimo vigente en la zona económica en que se lleve a cabo el hecho, sin perjuicio a la que corresponda por otros resultados de la conducta atribuible, para lo cual se estará a lo que estipule el Código Penal vigente para el Estado de Colima.
+
+En caso de reincidencia, se aumentarán las penas en una mitad más.
 
 ###### ARTICULO 105.
 
@@ -958,3 +974,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 4 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 28 DE JULIO DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
