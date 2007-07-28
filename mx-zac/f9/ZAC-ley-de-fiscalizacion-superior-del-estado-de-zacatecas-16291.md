@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2007-06-09"
+last_updated: "2007-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE ZACATECAS
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE ZACATECAS
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -113,9 +113,9 @@ III. Legislatura: la Legislatura del Estado;
 
 IV. Auditoría Superior del Estado: La entidad de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-V. Comisión: La Comisión de Vigilancia de la Legislatura encargada de evaluar, supervisar y controlar el desempeño de la Auditoria Superior del Estado;
+V. Comisión: La Comisión de Vigilancia de la Legislatura encargada de evaluar y supervisar el desempeño de la Auditoría Superior del Estado;
 
 VI. Entes Públicos del Estado: Los organismos públicos autónomos, organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos estatales; las demás personas del derecho público de carácter estatal, autónomas por disposición legal, así como los órganos jurisdiccionales que determinen las leyes;
 
@@ -137,9 +137,25 @@ XIII. Fiscalización Superior: Facultad a cargo de la Legislatura, ejercida por 
 
 XIV. Programas: Los contenidos en los Planes de Desarrollo, en los programas operativos anuales y en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales,
 
-XV. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, en uso de sus facultades de Fiscalización a las entidades sujetas a revisión; y
+XV. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, en uso de sus facultades de Fiscalización a las entidades sujetas a revisión; y (sic)
 
-XVI. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+XVI. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XVII. Pliego de Observaciones: Documento en el cual se reflejan o asientan las observaciones que presumen la existencia de responsabilidad de carácter resarcitorio determinadas dentro del proceso de revisión y fiscalización superior de las Cuentas Públicas, mismo que se da a conocer a las entidades fiscalizadas o servidores públicos que hayan dejado de serlo, a efecto de que sea solventado en el plazo establecido en esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XVIII. Informe del Resultado: Documento elaborado por la Auditoría Superior del Estado, que contiene el resultado del proceso de revisión y fiscalización superior de las cuentas públicas; además, las acciones promovidas o por promover, que se turnan a la Comisión de Vigilancia, para someterlo a la consideración del Pleno de la Legislatura del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XIX. Informe de Solventación: Documento en el cual se reflejan o asientan las observaciones de carácter resarcitorio subsistentes al plazo de solventación establecido en esta Ley; además, entre otros documentos, con el que se da inicio al procedimiento para el fincamiento de responsabilidad resarcitoria; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XX. Informes Complementarios: Aquellos que rinde la Auditoría Superior del Estado a la Legislatura por conducto de la Comisión de Vigilancia, respecto del estado que guardan las acciones promovidas contenidas en el Informe de Resultados.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -171,7 +187,7 @@ Para los efectos de esta Ley, las Cuentas Públicas estarán constituidas por lo
 
 El Ejecutivo del Estado y los Ayuntamientos deberán remitir a la Auditoría Superior del Estado, toda la documentación comprobatoria y justificativa de la Cuenta Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
 
 ###### Artículo 8.
 
@@ -183,17 +199,21 @@ De no presentarse en los plazos señalados, serán aplicadas las sanciones estab
 
 Asimismo, los Poderes del Estado y los entes públicos estatales rendirán a la Auditoría Superior del Estado, a más tardar el 31 de agosto del año en que se ejerza el presupuesto respectivo, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, por el período comprendido del 1º. de enero al 30 de junio del ejercicio fiscal en curso. Dicho informe será consolidado y remitido por el Ejecutivo Estatal, a través de la Secretaría del Ramo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2007)</small>
 
 ###### Artículo 9.
 
-Los Ayuntamientos presentarán a la Legislatura, y en sus recesos a la Comisión Permanente, dentro del mes de febrero, la Cuenta Pública correspondiente al año anterior.
+Los Ayuntamientos presentarán a la Legislatura, y en sus recesos a la Comisión Permanente, dentro del mes de febrero, la Cuenta Pública correspondiente al año anterior. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública, cuando medie solicitud del Ayuntamiento suficientemente justificada a juicio de la Legislatura o de la Comisión Permanente, presentada por lo menos con quince días de anticipación a la conclusión del plazo, debiendo comparecer en todo caso el Presidente Municipal a informar de las razones que lo motiven. En ningún caso la prórroga excederá de un mes.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
 
 De no presentarse en los plazos señalados, serán aplicadas las sanciones establecidas en la presente Ley, sin perjuicio de las señaladas en su caso por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
 Los Municipios y los entes públicos municipales rendirán a la Auditoría Superior del Estado, en forma consolidada, dentro de los quince días siguientes a la conclusión del periodo, el Informe Trimestral de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2007)</small>
+
+Igualmente presentarán a la Auditoría Superior del Estado, en forma consolidada y dentro de los cinco días siguientes a la conclusión del mes, los informes contables financieros, de obra pública y de aportaciones federales, de su cuenta pública mensual, acompañados con su soporte documental, así como las actas de las sesiones de cabildo celebradas durante el período.
 
 ###### Artículo 10.
 
@@ -373,11 +393,11 @@ La Auditoría Superior del Estado será responsable solidaria de los daños y pe
 
 ### CAPÍTULO III. DEL INFORME DEL RESULTADO DE LA REVISIÓN Y FISCALIZACIÓN SUPERIOR DE LAS CUENTAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
 
 ###### Artículo 31.
 
-La Auditoria Superior del Estado, tendrá un plazo de cinco meses, contados a partir del día siguiente a aquel en el que la Legislatura, o en su caso, la Comisión Permanente, le remita la correspondiente Cuenta Pública, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el Informe del Resultado de que se trate, mismo que tendrá carácter público; mientras ello no suceda, la Auditoria Superior del Estado deberá guardar estricta reserva de sus actuaciones e informaciones.
+La Auditoría Superior del Estado, tendrá un plazo de cinco meses, contados a partir del día siguiente a aquél en el que la Legislatura, o en su caso, la Comisión Permanente, le remita la correspondiente Cuenta Pública, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el Informe del Resultado de que se trate, mismo que tendrá carácter público, hasta que sea leído como dictamen en el Pleno de la Legislatura; mientras ello no suceda, la Auditoría Superior del Estado, deberá guardar estricta reserva de sus actuaciones e informaciones.
 
 ###### Artículo 32.
 
@@ -387,7 +407,9 @@ a) Los dictámenes de la revisión de la respectiva Cuenta Pública;
 
 b) El apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, con respecto a la evaluación de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes, bajo criterios de eficacia, eficiencia y economía;
 
-c) El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
+
+c) El cumplimiento de los principios de contabilidad o normas de información financiera gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
 
 d) Los resultados de la gestión financiera;
 
@@ -399,11 +421,11 @@ g) Los comentarios y observaciones de los auditados.
 
 En el supuesto de que conforme al apartado b) de este artículo, no se cumplan con los objetivos y metas establecidas en los programas aprobados, la Auditoría Superior del Estado hará las observaciones y recomendaciones que a su juicio sean procedentes.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
 
 ###### Artículo 33.
 
-La Legislatura deberá resolver lo concerniente en cada una de las Cuentas Públicas. La Auditoria Superior del Estado dará cuenta a la Comisión tanto del informe de resultados de la Auditoria, como de las acciones que considere procedentes promover en materia de fincamiento de responsabilidades y de la imposición de las sanciones respectivas, así como de la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos, que pretenda realizar de conformidad con lo dispuesto en esta Ley.
+La Legislatura deberá resolver lo concerniente en cada una de las Cuentas Públicas. La Auditoría Superior del Estado dará cuenta a la Comisión tanto del informe de resultados de la Auditoría, como de las acciones que considere promover o, en su caso, las que haya promovido, a través de Informes Complementarios, en materia de fincamiento de responsabilidades y de la imposición de las sanciones respectivas, así como de la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos, que pretenda realizar o haya interpuesto de conformidad con lo dispuesto por esta Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -431,7 +453,7 @@ Artículo 33 C. Cuando la Auditoria Superior del Estado, además de imponer la m
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
 
-Artículo 33D.- Lo dispuesto en los artículos anteriores respecto a las medidas de apremio, no excluyen la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables, ni del fincamiento de otras responsabilidades.
+Artículo 33 D.- Lo dispuesto en los artículos anteriores respecto a las medidas de apremio, no excluyen la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables, ni del fincamiento de otras responsabilidades.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -473,7 +495,7 @@ El Auditor Superior del Estado, con sujeción a los convenios celebrados, acorda
 
 ### CAPÍTULO I. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
 
 ###### Artículo 36.
 
@@ -525,11 +547,13 @@ Las responsabilidades que se finquen a los servidores públicos de los Poderes d
 
 La Auditoría Superior del Estado, con base en las disposiciones de esta Ley, formulará a los Poderes del Estado, Municipios y demás entes públicos fiscalizados los pliegos de observaciones derivados de la revisión y fiscalización superior de las Cuentas Públicas, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
 
 ###### Artículo 43.
 
-Los Poderes del Estado, Municipios y demás entes públicos fiscalizados, dentro de un plazo improrrogable de veinte días hábiles contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventar los mismos ante la Auditoria Superior del Estado. Cuando los pliegos de observaciones no sean solventados dentro del término señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio fundado y motivado de la Auditoria Superior del Estado para solventar las observaciones, iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente Capítulo, y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en términos de esta Ley.
+Los Poderes del Estado, Municipios y demás entes públicos fiscalizados, dentro de un plazo improrrogable de veinte días hábiles contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventar los mismos ante la Auditoría Superior del Estado. Cuando los pliegos de observaciones no sean solventados dentro del término señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio fundado y motivado de la Auditoría Superior del Estado para solventar las observaciones; ésta emitirá el Informe de Solventación respectivo e iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente Capítulo, y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en términos de esta Ley.
+
+Al momento de presentar la documentación e información para la solventación de los pliegos de observaciones, los presuntos responsables determinados en ellos, deberán señalar domicilio para oír y recibir todo tipo de notificaciones, mismo que deberá estar ubicado en esta ciudad capital.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO PARA EL FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
 
@@ -543,7 +567,7 @@ A la audiencia podrá asistir, según sea el caso, el representante de los Poder
 
 Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
 
 II. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado resolverá fundada y motivadamente dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y fincará, en su caso, el pliego definitivo de responsabilidades en el que se determine la indemnización correspondiente, a él o los sujetos responsables, y notificará a éstos dicho pliego, remitiéndole un ejemplar de la resolución autorizada a la Secretaría de Finanzas o a la Tesorería Municipal, si así, corresponde, para el efecto de que si en un plazo de quince días naturales contados a partir de la notificación, el crédito no es cubierto, se haga efectivo en términos de ley, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos dicho pliego será también notificado al titular del Poder, o entidad pública fiscalizada, según corresponda y al órgano de control interno respectivo.
 
@@ -585,7 +609,7 @@ La Auditoría Superior del Estado podrá abstenerse de sancionar al infractor, p
 
 Las sanciones y demás resoluciones que emita la Auditoría Superior del Estado conforme a esta Ley, podrán ser impugnadas por el servidor público o por los particulares, personas físicas o morales, ante la propia Auditoria Superior del Estado, mediante el recurso de revocación o bien, mediante juicio de nulidad ante el Tribunal de lo Contencioso Administrativo. El recurso de revocación se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
 
 ###### Artículo 51.
 
@@ -637,11 +661,11 @@ Cualquier gestión de cobro que haga la autoridad competente al responsable, int
 
 ### CAPÍTULO ÚNICO. DE LA COMISIÓN DE VIGILANCIA
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2007)</small>
 
 ###### Artículo 57.
 
-La Legislatura contará con una Comisión de Vigilancia que tendrá por objeto, coordinar las relaciones entre ésta y la Auditoria Superior del Estado; controlar y supervisar su desempeño y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos.
+La Legislatura contará con una Comisión de Vigilancia que tendrá por objeto, coordinar las relaciones entre ésta y la Auditoría Superior del Estado; evaluar su desempeño y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos.
 
 ###### Artículo 58.
 
@@ -655,33 +679,31 @@ I. Supervisar las actividades de la Auditoría Superior del Estado;
 
 II. Dictaminar, unida a las Comisiones de Hacienda, las respectivas Cuotas Públicas;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-III. Presentar al Pleno de la Legislatura, el dictamen relativo a la terna para ocupar el cargo de Auditor Superior del Estado, que se integrará con las propuestas que formulen las fracciones parlamentarias representadas en la Legislatura;
+III. Presentar al Pleno de la Legislatura, el dictamen relativo a la terna para ocupar el cargo de Auditor Superior del Estado, que se integrará con las propuestas que formulen los grupos parlamentarios representados en la Legislatura;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
 
 IV. Dictaminar acerca de la solicitud de licencia o remoción del Auditor Superior del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-V. Conocer y aprobar el proyecto de presupuesto anual de la Auditoria Superior del Estado, autorizar su distribución por programa y objeto del gasto, y darlo conocer al Pleno de la Legislatura para los efectos legales conducentes;
+V. Conocer el proyecto de presupuesto anual de la Auditoría Superior del Estado, autorizar su distribución por programa y objeto del gasto, y darlo a conocer al Pleno de la Legislatura para los efectos legales conducentes;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-VI. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual del órgano fiscalizador, así como la debida aplicación de los recursos a cargo de éste;
+VI. Supervisar el cumplimiento de los objetivos y metas del programa operativo anual del órgano fiscalizador, así como la debida aplicación de los recursos a cargo de éste;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-VII. Realizar las observaciones que considere permitente respecto del informe de resultados, preliminares, complementarios o definitivos que presente el órgano fiscalizador y remitirlas a las Comisiones Dictaminadoras correspondientes.
+VII. Realizar las observaciones que considere pertinentes respecto del informe de resultados, preliminares, complementarios o definitivos que presente el órgano fiscalizador y remitirlas a las Comisiones Dictaminadoras correspondientes, previo acuerdo con la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+VIII. (DEROGADA, P.O. 28 DE JULIO DE 2007)
 
-VIII. Autorizar la resolución de la Auditoria Superior del Estado, relativa a la obtención de la imposición de sanción, o a la condenación total o parcial de las multas impuestas de conformidad con lo establecido por esta Ley;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
-
-IX. Recibir informe de las acciones que se deriven de la revisión y fiscalización de las cuentas públicas;
+IX. Recibir los informes de resultados o complementarios de las acciones que se deriven de la revisión y fiscalización de las Cuentas Públicas;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -691,9 +713,9 @@ X. Recibir informes de las medidas de apremio que se deriven de los procedimient
 
 XI. Instruir al órgano fiscalizador, sin menoscabo de las facultades de éste, la práctica de visitas, inspecciones y auditorias a los órganos sujetos de esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-XII. Autoriza al órgano fiscalizador, los lineamientos y criterios para la administración de los bienes y recursos a su cargo, así como la custodia de la documentación justificativa y comprobatoria de los sujetos de revisión;
+XII. Conocer los lineamientos y criterios que utilice el Órgano Fiscalizador, para la administración de los bienes y recursos a su cargo, así como la custodia de la documentación justificativa y comprobatoria de los sujetos de revisión;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
 
@@ -705,11 +727,19 @@ XIV. De acuerdo a las posibilidades presupuestales, contratar Asesores Externos 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
 
-XV. Acordar la prorroga de los plazos a que hace mención esta Ley; y
+XV. Acordar la prorroga de los plazos a que hace mención esta Ley; y (sic)
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XVI. Citar, por conducto de su Presidente, al Auditor Superior del Estado, para conocer de forma pormenorizada el Informe de Resultados de la revisión de las Cuentas Públicas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
+
+XVII. Recibir del Pleno o de la Comisión Permanente, los Informes de Avance de Gestión Financiera y los Informes Anuales de las Cuentas Públicas y turnarlos a la Auditoría Superior del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
 
-XVI. Las que deriven de esta Ley, su Reglamento y las disposiciones generales y acuerdos, que al efecto emita la Legislatura del Estado.
+XVIII. Las que deriven de esta Ley, su Reglamento y las disposiciones generales y acuerdos, que al efecto emita la Legislatura del Estado.
 
 ## TÍTULO SEXTO. ORGANIZACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
@@ -777,13 +807,13 @@ I. Representar a la Auditoría Superior del Estado ante las Entidades fiscalizad
 
 II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior del Estado atendiendo a las previsiones del ingreso y del gasto público estatal;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-III. Administrar en apego a los lineamientos y criterios autorizados por la Comisión, los bienes y recursos a cargo de la Auditoría Superior del Estado en forma independiente y autónoma, respecto de los Poderes del Estado, conforme a la ley y reglamentos y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la entidad, sujetándose a lo dispuesto en la normatividad aplicable; así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
+III. Administrar en apego a los lineamientos, los bienes y recursos a cargo de la Auditoría Superior del Estado en forma independiente y autónoma, respecto de los Poderes del Estado, conforme a la ley y reglamentos y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la entidad, sujetándose a lo dispuesto en normatividad aplicable; así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-IV. Proponer a la Legislatura para su aprobación, a través de la Comisión, el programa anual de actividades de la entidad a su cargo, así como el programa anual de auditorías, visitas e inspecciones;
+IV. Aprobar el programa anual de actividades de la entidad a su cargo, así como el programa anual de auditorías, visitas e inspecciones, mismos que se harán del conocimiento de la Legislatura;
 
 V. Proponer a la Legislatura, de conformidad con lo establecido en esta Ley, el Reglamento Interior de la Auditoría Superior del Estado, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, así como todo lo concerniente a la organización y funcionamiento del órgano a su cargo;
 
@@ -807,9 +837,9 @@ XIV. Recibir de la Comisión los Informes de Avance de la Gestión Financiera y 
 
 XV. Formular y entregar, por conducto de la Comisión, los Informes de Resultados de las revisiones de las Cuentas Públicas a la Legislatura, dentro de los plazos establecidos en esta Ley;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-XVI. Presentar informando de ello a la Comisión, denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus Haciendas Públicas, o al patrimonio de los entes públicos fiscalizados, así como denuncias de juicio político; de conformidad con lo señalado en el Título Séptimo de la Constitución Política de la entidad;
+XVI. Presentar denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus Haciendas Públicas, o al patrimonio de los entes públicos fiscalizados, así como denuncias de juicio político; de conformidad con lo señalado en el Título Séptimo de la Constitución Política de la entidad, informando de ello a la Comisión;
 
 XVII. Celebrar convenios de coordinación o colaboración con los Poderes del Estado y los gobiernos municipales, así como con organismos que agrupen a entidades de fiscalización superior homólogas, con éstas directamente y con el sector privado;
 
@@ -853,9 +883,9 @@ IX. Resolver el recurso de revocación que se interponga en contra de actos o re
 
 X. Recabar e integrar la documentación y comprobación necesaria, para ejercitar las acciones legales en el ámbito penal que procedan, como resultado de las irregularidades que se detecten en la revisión, auditorías o visitas que practiquen;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2007)</small>
 
-XI. Promover informando de ello a la Comisión, ante las autoridades competentes el fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo de los Poderes del Estado, Municipios y demás entes públicos fiscalizados;
+XI. Promover, ante las autoridades competentes el fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo de los Poderes del Estado, Municipios y demás entes públicos fiscalizados, informando de ello a la Comisión de Vigilancia;
 
 XII. Formular los proyectos de Informes del (sic) Resultados de las revisiones de las Cuentas Públicas, así como de los demás documentos que se les indique; y
 
@@ -999,7 +1029,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE ENERO DE 2006.
 
@@ -1016,3 +1046,9 @@ P.O. 9 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 28 DE JULIO DE 2007.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
