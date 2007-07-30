@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-transparencia-del-53817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2007-01-29"
+last_updated: "2007-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2007.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero de 2007.
 
@@ -37,7 +37,7 @@ En Decreto Número 169, de fecha del 22 de mayo del 2006, contiene la Ley de Tra
 
 Por lo anteriormente expuesto y fundado, se emite el siguiente:
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES.
+REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -95,7 +95,15 @@ III. Los Comisionados;
 
 IV. El Secretario Ejecutivo;
 
-V. Las Direcciones de Difusión, Jurídica y Desarrollo Normativo, Informática así como la de Administración y Finanzas.
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
+
+V. El Secretario de Acuerdos;
+
+VI. Las Direcciones de Difusión, Jurídica y Desarrollo Normativo, Informática así como la de Administración y Finanzas; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
+
+VII. El Notificador.
 
 ### CAPITULO SEGUNDO. Del Pleno
 
@@ -417,7 +425,9 @@ Los Comisionados para el cumplimiento de sus funciones tendrán el apoyo de sus 
 
 Son atribuciones del Secretario Ejecutivo, las siguientes:
 
-l. Encargarse de la administración general del Instituto, responsabilizándose del Área de Contabilidad, atención de Recursos Humanos, mantenimiento, adquisiciones en lo relativo a intendencia, seguridad y todas aquéllas que sean necesarias para el buen funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2007)</small>
+
+I. Encargarse de la administración general del Instituto, responsabilizándose del Área de Contabilidad, atención de Recursos Humanos, servicios generales, adquisiciones en lo relativo a seguridad y todas aquéllas que sean necesarias para el buen funcionamiento del Instituto;
 
 II. Auxiliar al Comisionado Presidente en la elaboración del proyecto anual del presupuesto de egresos del Instituto y generar la requisición para gastos u órdenes de servicio en los términos aprobados en el mismo, así como elaborar los estados financieros anuales del Instituto;
 
@@ -451,7 +461,15 @@ XVI. Auxiliar al Comisionado Presidente en la supervisión de los trabajos de la
 
 XVII. Proponer al Pleno del Instituto el nombramiento del Secretario de Acuerdos, que le auxiliará en el desarrollo de las sesiones ordinarias y extraordinarias, así como las demás funciones inherentes a su cargo;
 
-XVIII. las demás que señale este Reglamento, así como en los acuerdos tomados en sesión del Instituto.
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
+
+XVIII. Sustanciar y resolver sobre el Recurso de Revisión;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2007)</small>
+
+XIX. Tener fe pública; y
+
+XX. Las demás que señale este Reglamento, así como en los acuerdos tomados en sesión del Instituto.
 
 ###### Artículo 41.
 
@@ -469,13 +487,55 @@ V. No participar activamente, en algún partido u organización política, ni se
 
 VI. Ser mayor de treinta años al momento de su elección.
 
-### CAPITULO SEXTO. De las Direcciones
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 30 DE JULIO DE 2007)</small>
 
-###### Artículo 42.
+### CAPÍTULO SEXTO. Del Secretario de Acuerdos
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+###### Articulo 42.
+
+Para ser Secretario de Acuerdos del Instituto, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Poseer título de Licenciado en Derecho y cédula profesional legalmente expedida, con un mínimo de antigüedad de tres años anteriores a su designación;
+
+III. No haber sido condenado por delito doloso ni haber sido inhabilitado para un cargo público;
+
+IV. Ser mayor de veinticinco años al momento de su elección.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 43.
+
+Son atribuciones del Secretario de Acuerdos:
+
+l. Coadyuvar con el Secretario Ejecutivo en la elaboración del proyecto del orden del día, para las sesiones ordinarias y extraordinarias;
+
+II. Elaborar las actas del Pleno y llevar el registro y control de la documentación de las mismas;
+
+III. Autorizar las resoluciones y demás actos que competen al Pleno;
+
+IV Tendrá fe pública en todo lo relativo al ejercicio de sus funciones; en lo conducente serán las mismas que le asigne el Pleno y el Secretario Ejecutivo;
+
+V. Intervenir en los actos que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
+
+VI. Redactar y autorizar las actas de audiencia, en las que corresponda dar cuenta y autorizar las resoluciones que recaigan en los expedientes; y
+
+VII. Expedir certificados de las constancias que obren en los expedientes.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 30 DE JULIO DE 2007)
+
+### CAPITULO SEPTIMO. De las Direcciones
+
+(REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 30 DE JULIO DE 2007)
+
+###### Artículo 44.
 
 Los titulares de las Direcciones previstas en este Reglamento, así como las de nueva creación, deberán reunir los requisitos siguientes:
 
-l. Ser ciudadano mexicano en Pleno ejercicio de sus derechos;
+I. Ser ciudadano mexicano en Pleno ejercicio de sus derechos;
 
 II. Contar con título y cédula profesional, así como acreditar un mínimo de dos años de experiencia en su profesión;
 
@@ -487,11 +547,13 @@ V. Ser Mayor de veinticuatro años al momento de su elección.
 
 VI. En el caso del Director de Asuntos Jurídicos y Desarrollo Normativo, éste deberá de contar con título y cédula profesional de Licenciado en Derecho.
 
-###### Artículo 43.
+(REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 30 DE JULIO DE 2007)
+
+###### Artículo 45.
 
 Para el cumplimiento de las funciones del Instituto, éste se auxiliará de las siguientes Direcciones de Área:
 
-l. Dirección de Difusión;
+I. Dirección de Difusión;
 
 II. Dirección Jurídica y Desarrollo Normativo;
 
@@ -499,11 +561,13 @@ III. Dirección de Informática; y
 
 IV. Dirección de Administración y Finanzas.
 
-###### Artículo 44.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 46.
 
 Corresponde a la Dirección de Difusión las siguientes atribuciones:
 
-l. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, contenidos en el programa operativo anual aprobado por el Pleno;
+I. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, contenidos en el programa operativo anual aprobado por el Pleno;
 
 II. Operar el centro de documentación especializado en materia de transparencia; conocer el estado que guardan los trabajos de investigación en la materia y difundir los resultados de los mismos;
 
@@ -517,7 +581,7 @@ VI. Contribuir al análisis relativo a los temas de Información de acceso restr
 
 VII. Dar seguimiento al cumplimiento de las normas, resoluciones y recomendaciones que en materia de transparencia y acceso a la información emita el Instituto;
 
-VIII. Realizar la verificación periódica sobre el cumplimiento de la publicidad de las obligaciones y acciones de transparencia contenidas en la ley;
+VIII. Realizar la verificación periódica sobre el cumplimiento de la publicidad de las obligaciones y acciones de transparencia contenidas en la Ley;
 
 IX. Dar seguimiento al cumplimiento de las disposiciones que en materia de archivos, información reservada y protección de datos personales que emita el Instituto;
 
@@ -533,17 +597,19 @@ XIV. Asesorar a los entes públicos en el cumplimiento de sus obligaciones;
 
 XV. Coordinar, en el ámbito de su competencia, la Red de Transparencia y Acceso a la Información Pública del Estado;
 
-XVI. Promover al Instituto y a cualquiera de sus integrantes en asuntos oficiales; asimismo, brindar información a la ciudadanía a través del servicio telefónico 01-800; y
+XVI. Promover al Instituto y a cualquiera de sus integrantes en asuntos oficiales; así mismo, brindar información a la ciudadanía a través del servicio telefónico 01-800; y
 
-XVII. Las demás que le encomiende el Pleno, el Presidente y las que se deriven del presente Reglamento.
+XVII. Las demás que le encomiende el Pleno, el Presidente y las que se deriven (sic) presente Reglamento.
 
-###### Artículo 45.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 47.
 
 La Dirección Jurídica y Desarrollo Normativo tendrá las siguientes atribuciones:
 
-l. Coadyuvar con el Comisionado Presidente en la representación del Instituto ante los tribunales federales y del fuero común, así como ante cualquier autoridad administrativa en los asuntos en que aquél tenga interés o injerencia jurídica; incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
+I. Coadyuvar con el Comisionado Presidente en la representación del Instituto ante los tribunales federales y del fuero común, así como ante cualquier autoridad administrativa en los asuntos en que aquél tenga interés o injerencia jurídica; incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
 
-II. Coadyuvar con el Comisionado Presidente y Secretario Ejecutivo en la representación del Instituto para formular denuncias, querellas o desistimientos en materia penal, así como quejas o denuncias ante las autoridades administrativas;
+II. Coadyuvar con el Comisionado Presidente y Secretario Ejecutivo en la representación del Instituto para formular denuncias, querellas o desistimientos en materia penal, así como quejas o denuncias antes (sic) las autoridades administrativas;
 
 III. Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley y los que el Pleno le encomiende;
 
@@ -553,13 +619,13 @@ V. Elaborar los proyectos de normas internas y demás ordenamientos necesarios p
 
 VI. Coadyuvar en la revisión jurídica de los manuales de las Direcciones del Instituto y brindarles la asesoría jurídica que requieran;
 
-VII. Substanciar el Recurso de Inconformidad en los términos previstos en la Ley y el presente Reglamento, así como elaborar los proyectos de resolución que correspondan;
+VII. Dar trámite al Recurso de Inconformidad, elaborando los proyectos de acuerdo sobre el trámite y resolución del mismo;
 
 VIII. Formular, revisar y validar los proyectos de convenios y contratos en los que el Instituto sea parte y, en su caso, proponer las adecuaciones convenientes conforme a los requisitos legales propios de su celebración y registrarlos para su control;
 
 IX. Participar en calidad de asesor de adquisiciones, arrendamientos y servicios del Instituto y demás comités creados por el Pleno del Instituto;
 
-X. Expedir copia certificada, cuado se solicite y siempre que la ley lo permita, de todos aquellos documentos que obren en el archivo del Instituto;
+X. (DEROGADA, P.O. 30 DE JULIO DE 2007)
 
 XI. Asesorar legalmente al Instituto y a cualquiera de sus integrantes en asuntos oficiales; así mismo, brindar información a la ciudadanía a través del servicio telefónico 01-800;
 
@@ -569,11 +635,13 @@ XIII. Como unidad de enlace del Instituto, tendrá a su cargo el control y resgu
 
 XIV. Las demás que le encomiende el Pleno, el Presidente y las que se deriven del presente Reglamento y la Ley.
 
-###### Artículo 46.
+(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 30 DE JULIO DE 2007)
+
+###### Artículo 48.
 
 La Dirección de Informática, tendrá las siguientes atribuciones:
 
-l. Proponer al Pleno, por conducto de su Presidente, los procedimientos, lineamientos e instructivos que deban regir el desarrollo, operación y mantenimiento de la infraestructura informática y de comunicaciones del Instituto;
+I. Proponer al Pleno, por conducto de su Presidente, los procedimientos, lineamientos e instructivos que deban regir el desarrollo, operación y mantenimiento de la infraestructura informática y de comunicaciones del Instituto;
 
 II. Ejecutar las políticas informáticas y las pautas para el diseño de las redes de cómputo y el desarrollo de sistemas, así como para la asignación de equipo y programas de cómputo;
 
@@ -601,19 +669,21 @@ XIII. Contribuir, desde el punto de vista informático, con los planes y program
 
 XIV. Elaborar el presupuesto de adquisición para el equipo de informática necesario y para el mantenimiento del mismo y presentarlo al Secretario Ejecutivo para su posible aprobación ante el pleno; y
 
-XV. Las demás que le encomiende el Pleno, el Comisionado Presidente y las que se deriven del presente Reglamento y la Ley.
+XIV (sic). Las demás que le encomiende el Pleno, el Comisionado Presidente y las que se deriven del presente Reglamento y la Ley.
 
-###### Artículo 47.
+(REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 30 DE JULIO DE 2007)
+
+###### Artículo 49.
 
 La Dirección de Administración y Finanzas tendrá las siguientes atribuciones:
 
-l. Integrar el programa operativo anual y formular el proyecto de presupuesto anual del Instituto y presentarlo al Comisionado Presidente;
+I. Integrar el programa operativo anual y formular el proyecto de presupuesto anual del Instituto y presentarlo al Comisionado Presidente;
 
 II. Ejercer las partidas presupuestales aprobadas, aplicando las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales, así como de prestación de servicios generales en el Instituto;
 
 III. Establecer y operar los sistemas para el ejercicio y control presupuestal a fin de garantizar un efectivo sistema de rendición de cuentas;
 
-IV. Elaborar y presentar al Pleno, por conducto del Comisionado Presidente, los informes mensuales y anual sobre el avance programático presupuestal y del cumplimiento en la ejecución del presupuesto y del programa operativo anual;
+IV. Elaborar y proponer al Pleno, por conducto del Comisionado Presidente, los informes mensuales y anual sobre el avance programático presupuestal y del cumplimiento en la ejecución del presupuesto y del programa operativo anual;
 
 V. Hacer las previsiones presupuestales para realizar las actividades establecidas en los programas del Instituto;
 
@@ -637,6 +707,36 @@ XIV. Integrar y custodiar el archivo de concentración e histórico del Institut
 
 XV. La (sic) demás que le encomiende el Pleno, el Comisionado Presidente y las que deriven del presente Reglamento y la Ley.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2007)</small>
+
+### CAPITULO OCTAVO. Del Notificador
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+###### Articulo 50.
+
+Para ser Notificador del Instituto de Transparencia, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos civiles.
+
+II. Ser de notoria buena conducta.
+
+III. No haber sido condenado por delito intencional con pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 51.
+
+Son atribuciones del Notificador:
+
+I. Notificar diligentemente los asuntos de su competencia que tendrán fe pública en ejercicio de sus funciones;
+
+II. Notificar en el tiempo y forma prescritos por las disposiciones legales aplicables a la transparencia, las resoluciones recaídas en los expedientes, que para tal efecto le sean turnados;
+
+III. Practicar las diligencias que le encomiende el Pleno del Instituto;
+
+IV. Las demás que señalen las disposiciones legales aplicables.
+
 TRANSITORIOS:
 
 Artículo Primero. Este Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Por lo tanto envíese al Ejecutivo para su publicación en el mismo.
@@ -654,3 +754,9 @@ C.P. Luis Emilio López González, COMISIONADO CIUDADANO PRESIDENTE.
 Lic. César Octavio López Rodríguez, COMISIONADO CIUDADANO.
 
 Lic. Jorge Alejandro Doring Zuazo, COMISIONADO CIUDADANO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE JULIO DE 2007.
+
+Articulo Único. Las presentes adiciones y reformas al Reglamento Interior, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
