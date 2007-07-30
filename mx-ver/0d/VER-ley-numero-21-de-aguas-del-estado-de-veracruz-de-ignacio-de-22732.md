@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2007-01-09"
+last_updated: "2007-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2007.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -113,7 +113,9 @@ VII. Comisión: Comisión del Agua del Estado de Veracruz;
 
 VIII. Condiciones particulares de descarga: las concentraciones de elementos físicos, químicos o bacteriológicos, que contienen las descargas de aguas residuales de un usuario específico;
 
-IX. Consejo: Consejo del Sistema Veracruzano del Agua;
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2007)</small>
+
+IX. Consejo: Consejo del Sistema Veracruzano del Agua de la Comisión del Agua del Estado de Veracruz;
 
 X. Cuota: Contraprestación que deben pagar los usuarios por los servicios públicos;
 
@@ -213,6 +215,8 @@ El servicio de suministro de agua potable que proporcionen los Ayuntamientos o e
 
 En cualquier caso, la prestación del servicio se ajustará a criterios de generalidad, continuidad, regularidad, uniformidad, calidad, eficiencia y cobertura, para satisfacer las demandas de los diversos usuarios, promoviendo las acciones necesarias para lograr su autosuficiencia técnica y financiera.
 
+> <small>(REFORMADO [N. DE E. SE MODIFICA SU ESTRUCTURA], G.O. 30 DE JULIO DE 2007)</small>
+
 ### CAPÍTULO II. DEL SISTEMA VERACRUZANO DEL AGUA
 
 > <small>(REFORMADO, G.O. 6 DE JUNIO DE 2006)</small>
@@ -289,229 +293,21 @@ En los casos de utilidad pública, la Comisión y los Organismos Operadores Muni
 
 El Ejecutivo del Estado, por sí o a promoción de la Comisión o del Organismo Operador Municipal respectivo, podrá decretar la expropiación o la ocupación temporal correspondiente, sujetándose a las Leyes sobre la materia.
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
 ### CAPÍTULO III. DE LA PROGRAMACIÓN HIDRÁULICA EN EL ESTADO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
 
 ###### Artículo 12.
 
-Se crea el Consejo del Sistema Veracruzano del Agua como instancia responsable de la coordinación, planeación y supervisión del Sistema Veracruzano del Agua. El Consejo contará con autonomía técnica y de gestión y su patrimonio se constituirá por:
-
-I. El presupuesto necesario para el cumplimiento de sus funciones, que apruebe el Congreso del Estado;
-
-II. Las aportaciones que las dependencias o entidades de los órdenes federal, estatal o municipal hagan en su favor;
-
-III. Los ingresos que perciba por la prestación de sus servicios;
-
-IV. Las donaciones, herencias, legados y demás aportaciones que las personas físicas o morales hagan en su favor;
-
-V. Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su patrimonio; y
-
-VI. Los demás bienes y derechos que adquiera por cualquier título legal.
-
-###### Artículo 13.
-
-El Consejo del Sistema Veracruzano del Agua se integrará por:
-
-I. Un Presidente, que será nombrado por el Congreso del Estado para un periodo de seis años;
-
-II. Vocales;
-
-a) Los Presidentes Municipales representantes de las siguientes subregiones hidrológicas del Estado:
-
-1. Bajo Pánuco y Zona Norte de Veracruz: Pánuco y Poza Rica.
-
-2. Alto Balsas y Ríos Actopan, La Antigua y Jamapa: Xalapa y Veracruz.
-
-3. Río Papaloapan: Córdoba y San Andrés Tuxtla.
-
-4. Coatzacoalcos: Minatitlán y Coatzacoalcos.
-
-b) El titular de la Comisión.
-
-c) El Secretario de Desarrollo Regional.
-
-d) El Secretario de Finanzas y Planeación.
-
-e) El Secretario de Desarrollo Económico.
-
-f) El Secretario de Desarrollo Agropecuario, Forestal y Pesquero.
-
-g) El Secretario de Educación y Cultura; y
-
-> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
-
-h) El Secretario de Salud; y
-
-III. Un Secretario del Consejo, designado por el Presidente del mismo.
-
-Previo acuerdo del Consejo, podrán participar en sus sesiones, titulares de los Organismos Operadores Municipales, representantes de organizaciones del sector social y privado, así como de las dependencias, entidades u órganos de naturaleza federal en la Entidad, vinculados directamente con la materia de aguas.
-
-> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
-
-El Congreso, previa calificación de la causa, podrá remover al Presidente del Consejo.
-
-> <small>(ADICIONADO, G.O. 6 DE JUNIO DE 2006)</small>
-
-El Consejo contará con el personal técnico y administrativo estrictamente necesario ara su funcionamiento, de conformidad con las disposiciones legales y presupuestales aplicables.
-
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
-
-### CAPÍTULO I. DE LAS AUTORIDADES ESTATALES
-
-###### Artículo 14.
-
-El Consejo celebrará una sesión ordinaria cada tres meses, así como las extraordinarias que, a juicio de sus integrantes, sean necesarias. El Presidente y los Vocales tendrán derecho a voz y voto; y el Secretario del Consejo sólo participará con derecho a voz, pero no a voto.
-
-El Consejo tomará sus resoluciones mediante el voto de la mayoría de sus miembros presentes y, sólo en caso de empate, el Presidente tendrá voto de calidad.
-
-#### SECCIÓN PRIMERA. DEL CONSEJO DEL SISTEMA VERACRUZANO DEL AGUA
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
-
-###### Artículo 15.
-
-Son atribuciones del Consejo:
-
-I. Ejercer la coordinación, planeación y supervisión del Sistema Veracruzano del Agua;
-
-II. Formular las políticas, lineamientos y normatividad técnica para la conducción, planeación, formulación, promoción, instauración, ejecución y evaluación de la Programación Hidráulica en el Estado;
-
-III. Establecer, organizar, supervisar y operar el Sistema de Información Hidráulica, el cual incorporará las bases de datos existentes en dependencias u órganos federales, estatales y municipales, sobre: climatología, hidrometría, calidad del agua, usos del agua, así como temas afines;
-
-IV. Proponer, de conformidad con lo dispuesto por esta ley y demás legislación aplicable, convenios de coordinación entre las instancias federal, estatal o municipal, con pleno respeto a sus atribuciones constitucionales y legales;
-
-V. Estudiar y, en su caso, atender las propuestas que en materia de agua realicen los sectores social y privado;
-
-VI. Aprobar las acciones de planeación y programación hidráulica que habrán de tratarse en el Consejo de Cuenca correspondiente;
-
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-VII. Proponer la actualización al marco jurídico del sector hidráulico;
-
-VIII. Desarrollar y promover la tecnología del agua en el Estado, así como impulsar su difusión y transferencia;
-
-IX. Fomentar, promover y desarrollar la formación y capacitación de los recursos humanos calificados que sean necesarios para asegurar el aprovechamiento y manejo sustentable e integral del agua;
-
-X. Ejecutar, orientar, promover y coordinar los estudios, programas de investigación, desarrollo tecnológico, consultoría especializada, información técnica, difusión, orientación y capacitación en materia de agua y saneamiento;
-
-XI. Integrar los balances hidráulicos superficiales y subterráneos, de acuerdo con las normas aplicables, y definir la disponibilidad por cuencas, subcuencas y acuíferos, para apoyar la integración de los planes de desarrollo estatal y municipales;
-
-XII. Ejecutar, orientar, promover y coordinar, estudios hidrológicos e hidráulicos de los ríos de Veracruz, para identificar las zonas sujetas a riesgos de inundaciones;
-
-XIII. Emitir los dictámenes que le sean solicitados por dependencias y entidades, estatales o municipales, para la formulación de declaratorias de zonas de riesgo hidrometeorológicos, y en general de todos aquellos temas relativos a la presencia o ausencia de los recursos hidráulicos;
-
-XIV. Prestar servicios de investigación, desarrollo tecnológico, capacitación y asesoría, establecer vínculos con instituciones nacionales e internacionales de investigación y docencia e integrar un acervo de los estudios del Estado en la materia;
-
-XV. Establecer, en coordinación con las autoridades competentes, los mecanismos de regulación para el cumplimiento de normas para certificar la calidad del equipo y maquinaria asociados al uso y aprovechamiento del agua, así como para promover una nueva cultura del agua como un bien escaso y que requiere el cuidado de su calidad y desarrollo sustentable;
-
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-XVI. Participar en la elaboración de anteproyectos de normas sobre agua y para la acreditación de laboratorios en el estado, así como establecer y evaluar indicadores de gestión en la prestación de los servicios que se regulan en esta ley;
-
-XVII. Proponer, consensuar, aprobar y difundir las orientaciones de política hidráulica y de los servicios públicos;
-
-XVIII. Atender las consultas y asesorías que le soliciten la Comisión o los organismos operadores municipales;
-
-XIX. Elaborar y coordinar los programas y proyectos de su competencia, hacer la evaluación de los mismos y realizar los estudios necesarios sobre la viabilidad técnica y financiera de las concesiones a que se refiere esta Ley;
-
-XX. Asistir técnicamente a las unidades y distritos de riego y temporal tecnificado, así como asesorar a los usuarios de riego con el objeto de propiciar un aprovechamiento racional del agua;
-
-XXI. Apoyar en la consolidación y desarrollo técnico a las asociaciones de usuarios de distritos, unidades de riego y drenaje;
-
-XXII. Orientar y promover la construcción, conservación y aprovechamiento óptimo de sistemas de riego;
-
-XXIII. Orientar y promover la modernización de los distritos y unidades de riego;
-
-XXIV. Promover la participación de inversionistas en la construcción de nuevas obras de riego, acuacultura, turismo, generación de energía eléctrica y protección ambiental, a fin de lograr un desarrollo sustentable;
-
-XXV. Proponer a las autoridades competentes la creación de agroindustrias en el área de influencia de los distritos y unidades de riego y de acuacultura, que permitan generar un valor agregado a los productos agropecuarios;
-
-XXVI. Promover la reutilización e intercambio de las aguas residuales para el riego de áreas agrícolas y otros usos compatibles, ajustándose a las normas oficiales mexicanas;
-
-XXVII. Definir e instrumentar el programa de investigación en materia de agua en el Estado;
-
-XXVIII. Celebrar convenios con instituciones de educación técnica y superior, inversionistas y otras con objetos similares o complementarios, tendentes a fomentar y promover actividades de investigación en materia de manejo racional del agua y para el diseño y ejecución de programas y acciones de cultura del agua;
-
-XXIX. Solicitar a las autoridades competentes la aplicación de medidas de seguridad, cuando tenga noticia de un hecho que pueda poner en peligro la salud y seguridad públicas;
-
-XXX. Aprobar los reglamentos necesarios para su adecuada organización y funcionamiento;
-
-XXXI. Crear las comisiones o comités necesarios para el cumplimiento de sus fines, de conformidad con su reglamento interno;
-
-XXXII. Participar en los Consejos de Cuenca;
-
-XXXIII. Promover, conjuntamente con los Ayuntamientos, la construcción de obras de protección contra inundaciones;
-
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-XXXIV. Emitir opinión, a solicitud del Congreso del Estado, en controversias surgidas por la prestación de los servicios públicos entre los municipios y el Ejecutivo estatal en materia de aguas, así como en los procesos de concesiones para la prestación de dichos servicios públicos y en general sobre el servicio que estén prestando los organismos operadores; y
-
-XXXV. Las demás que expresamente señalen esta ley y demás legislación aplicable;
-
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 6 DE JUNIO DE 2006)</small>
-
-###### Artículo 16.
-
-La participación en el Consejo no implica transferir atribuciones o facultades legales entre las autoridades estatales y municipales, sino su coordinación para el ejercicio de las mismas, con el propósito de integrar el Sistema Veracruzano del Agua y cumplir con las metas de programación e información hidráulicas previstas en esta ley.
-
-###### Artículo 17.
-
-Para ser Presidente del Consejo se deberá cumplir con los requisitos siguientes:
-
-I. Ser veracruzano, en términos de lo dispuesto por la Constitución del Estado;
-
-II. Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
-
-III. Tener un modo honesto de vivir;
-
-IV. Contar, al momento de su designación, con una experiencia de carácter científico o tecnológica de, al menos, cinco años en materia de aguas; y
-
-V. No tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se haya concedido los beneficios de conmutación o suspensión condicional de la sanción.
-
-###### Artículo 18.
-
-El Presidente del Consejo tendrá las atribuciones siguientes:
-
-I. Representar legalmente al Consejo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes;
-
-II. Someter al Consejo, para su aprobación, las acciones de planeación y programación de sus actividades;
-
-III. Coordinar las actividades técnicas, administrativas y financieras del Consejo;
-
-IV. Celebrar los actos jurídicos de dominio y administración que acuerde el Consejo;
-
-> <small>(F. DE E., G.O. 16 DE AGOSTO DE 2001)</small>
-
-V. Gestionar y obtener conforme a la legislación aplicable y previa autorización del Consejo, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas o privadas;
-
-VI. Someter a la aprobación del Consejo, el anteproyecto de presupuesto, para su remisión al Congreso del Estado, de conformidad con las disposiciones aplicables;
-
-> <small>(F. DE E., G.O. 16 DE AGOSTO DE 2001)</small>
-
-VII. Ejecutar los acuerdos del Consejo;
-
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-VIII. Rendir, para su aprobación, un informe anual de actividades al Consejo y una vez aprobado, presentarlo al Congreso del Estado;
-
-IX. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
-
-X. Someter a la aprobación del Consejo el proyecto de reglamento interior del organismo; y
-
-XI. Las demás que señalen expresamente esta Ley y las leyes del Estado.
-
-###### Artículo 19.
-
 La conducción, planeación, formulación, promoción, instauración, ejecución y evaluación de la Programación Hidráulica en el Estado comprenderá:
 
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-I. La integración y actualización del inventario de las aguas nacionales asignadas por la federación, al estado o a los municipios, de las que formen parte de reservas constituidas conforme a las leyes en la materia, y de las aguas de jurisdicción estatal y sus bienes públicos inherentes, así como de los usos del agua en la entidad y de la infraestructura federal, estatal o municipal para su aprovechamiento y control;
+I. La integración y actualización del inventario de las aguas nacionales asignadas por la Federación al Estado o a los Ayuntamientos, de las que formen parte de reservas constituidas conforme a las leyes en la materia, y de las aguas de jurisdicción estatal y sus bienes públicos inherentes, así como de los usos del agua en la Entidad y de la infraestructura federal, estatal o municipal para su aprovechamiento y control;
 
 II. La integración y actualización del catálogo de proyectos estatales y municipales para el aprovechamiento y manejo del agua en el Estado, y para la preservación y control de su calidad;
 
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-III. La formulación de planes, programas, políticas y estrategias, sectoriales, regionales, municipales y de cuenca que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el estado, así como la generación, control y preservación de su cantidad y calidad, incluido el tratamiento y reúso de las aguas residuales;
+III. La formulación de planes, programas, políticas y estrategias, sectoriales, regionales, municipales y de cuenca que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el Estado, así como el control y preservación de su cantidad y calidad, incluido el tratamiento y reúso de las aguas residuales;
 
 IV. La aprobación, por parte del Ejecutivo, del Programa Hidráulico Estatal;
 
@@ -521,13 +317,23 @@ VI. La medición sistemática de la ocurrencia del agua, el aprovechamiento del 
 
 La programación hidráulica del Estado se constituirá en el subprograma específico por Entidad, correspondiente al Estado de Veracruz, a que se refiere la Ley federal de la materia.
 
-###### Artículo 20.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
 
-El Consejo realizará la formulación, seguimiento, evaluación y actualización de la programación hidráulica en el Estado, con la participación de los gobiernos estatal y municipales y los usuarios.
+###### Artículo 13.
 
-Las disposiciones reglamentarias que emita el Consejo, con apego a lo dispuesto por esta ley, establecerán los procedimientos para la participación de las autoridades estatales, municipales y los usuarios del agua en el proceso de programación hidráulica, quienes proporcionarán al Consejo la información que requiera para la debida integración del Sistema de Información Hidráulica.
+Corresponderá a la Comisión del Agua del Estado de Veracruz, a través del Consejo del Sistema Veracruzano del Agua la formulación, seguimiento, evaluación y actualización de la programación hidráulica en el Estado, con la participación de los gobiernos estatal y municipales y los usuarios.
 
-###### Artículo 21.
+En las disposiciones reglamentarias de esta ley, se establecerán los procedimientos para la participación de las autoridades estatales, municipales y los usuarios del agua en el proceso de programación hidráulica.
+
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES ESTATALES Y MUNICIPALES
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+### CAPÍTULO I. DE LAS AUTORIDADES ESTATALES
+
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 14.
 
 El Ejecutivo del Estado tendrá las atribuciones siguientes:
 
@@ -545,13 +351,19 @@ VI. Establecer las vedas de control y protección de cuerpos de agua de jurisdic
 
 VII. Las demás que expresamente le señale la presente Ley y otras disposiciones legales aplicables.
 
-###### Artículo 22.
+> <small>(REFORMADA, G.O. 30 DE JULIO DE 2007)</small>
 
-Se crea la Comisión del Agua del Estado de Veracruz como un organismo público descentralizado, dotado de autonomía de gestión, personalidad jurídica y patrimonio propios, cuya organización y funcionamiento se regirá por las disposiciones de esta ley y su reglamento; su domicilio se localizará en la ciudad de Xalapa-Enríquez. La Comisión fungirá, para los efectos de esta ley, como Organismo Operador Estatal y tendrá las atribuciones siguientes:
+#### SECCIÓN PRIMERA. DE LA COMISIÓN DEL AGUA DEL ESTADO DE VERACRUZ
 
-I. Coordinar la planeación y presupuestación del sector estatal hidráulico, así como los servicios públicos que preste, cumpliendo con la programación hidráulica que realice el Consejo del Sistema Veracruzano del Agua;
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
 
-II. Cumplir y hacer cumplir los planes, programas, políticas y estrategias que establezca el Consejo, para la administración de las aguas de jurisdicción estatal y la prestación de los servicios a que se refiere la presente Ley, en el ámbito de su competencia;
+###### Artículo 15.
+
+Se crea la Comisión del Agua del Estado de Veracruz como un organismo público descentralizado, dotado de autonomía de gestión, personalidad jurídica y patrimonio propios, cuya organización y funcionamiento se regirá por las disposiciones de esta ley y su reglamento; su domicilio se localizará en la ciudad de Xalapa-Enríquez. La Comisión fungirá como Organismo Operador Estatal, será responsable de la coordinación, planeación y supervisión del Sistema Veracruzano del Agua y tendrá las atribuciones siguientes:
+
+I. Coordinar la planeación y presupuestación del sector estatal hidráulico, así como los servicios públicos que preste;
+
+II. Cumplir y hacer cumplir los planes, programas, políticas y estrategias para la administración de las aguas de jurisdicción estatal y la prestación de los servicios a que se refiere la presente Ley, en el ámbito de su competencia;
 
 III. Administrar las aguas de jurisdicción estatal;
 
@@ -571,13 +383,11 @@ X. Solicitar a las autoridades competentes la expropiación, ocupación temporal
 
 XI. Establecer y difundir las normas técnicas referentes a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, drenaje, alcantarillado, disposición y tratamiento de aguas residuales;
 
-> <small>(REFORMADA, G.O. 6 DE JUNIO DE 2006)</small>
-
-XII. Definir en el ámbito de su competencia, las fuentes de abastecimiento de agua y las normas técnicas para su distribución;
+XII. Definir, en el ámbito de su competencia, las fuentes de abastecimiento de agua potable y las normas técnicas para su distribución;
 
 XIII. Promover, apoyar y, en su caso, realizar por sí o a través de particulares, la potabilización del agua, el tratamiento de las aguas residuales y el reúso de las mismas;
 
-XIV. Coadyuvar con los Organismos Operadores Municipales o Intermunicipales, cuando así lo soliciten, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios;
+XlV. Coadyuvar con los Organismos Operadores Municipales o Intermunicipales, cuando así lo soliciten, en las gestiones de financiamiento y planeación de obras para los sistemas requeridos en la prestación de los servicios;
 
 XV. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes, con objeto de dotar de agua a centros de población y asentamientos humanos;
 
@@ -591,11 +401,17 @@ XIX. Ejecutar los programas estatales en materia de aguas, así como en las acci
 
 XX. Ejecutar las funciones que transfiera la Federación al Gobierno del Estado, a través de los convenios o acuerdos de descentralización o coordinación que celebren;
 
-XXI. Participar en los Consejos de Cuenca, en representación del Ejecutivo del Estado; y
+XXI. Participar en los Consejos de Cuenca, en representación del Ejecutivo del Estado;
 
-XXII. Las demás que expresamente le confieran esta Ley y otros ordenamientos aplicables.
+XXII. Las demás que expresamente le confieran esta Ley y otros ordenamientos aplicables;
 
-###### Artículo 23.
+XXIII. Establecer, organizar, supervisar y operar el Sistema de Información Hidráulica, el cual incorporará las bases de datos existentes en dependencias u órganos federales, estatales y municipales, sobre: climatología, hidrometría, calidad del agua, usos del agua, así como temas afines; y
+
+XXIV. Integrar los balances hidráulicos superficiales y subterráneos, de acuerdo con las normas aplicables, y definir la disponibilidad por cuencas, subcuencas y acuíferos, para apoyar la integración de los planes de desarrollo estatal y municipales.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 16.
 
 El patrimonio de la Comisión estará constituida por:
 
@@ -615,7 +431,9 @@ VII. Los demás bienes y derechos que adquiera por cualquier título legal.
 
 Los bienes de la Comisión, afectos directamente a la prestación de los servicios públicos de suministro de agua en bloque, agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, serán inembargables e imprescriptibles.
 
-###### Artículo 24.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 17.
 
 La administración de la Comisión estará a cargo de:
 
@@ -625,11 +443,13 @@ II. El Director General.
 
 La Comisión tendrá el personal técnico y administrativo que requiera para su funcionamiento, en términos de lo señalado por las disposiciones legales, reglamentarias y presupuestales aplicables.
 
-###### Artículo 25.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
 
-El Consejo de Administración se integrará por los siguientes miembros:
+###### Artículo 18.
 
-I. El Gobernador del Estado y los Secretarios de: Finanzas y Planeación; de Desarrollo Agropecuario, Forestal y Pesquero; de Salud y Asistencia; y de Desarrollo Regional;
+El Consejo de Administración se integrará por los siguientes miembros;
+
+I. El Gobernador del Estado y los Secretarios de: Finanzas y Planeación; de Desarrollo Agropecuario, Forestal y Pesca; de Salud y de Desarrollo Social y Medio Ambiente;
 
 II. Un representante de los usuarios; y
 
@@ -643,7 +463,9 @@ El Consejo de Administración, previo acuerdo de sus integrantes, podrá invitar
 
 El Consejo de Administración será presidido por el Gobernador del Estado o, en sus ausencias, por quien éste designe de entre sus demás miembros; sesionará por lo menos una vez cada tres meses y tomará sus resoluciones por mayoría de votos de sus miembros presentes. Sólo en caso de empate el Presidente tendrá voto de calidad.
 
-###### Artículo 26.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 19.
 
 El Consejo de Administración de la Comisión tendrá las siguientes atribuciones indelegables:
 
@@ -655,7 +477,7 @@ III. Establecer, en el ámbito de su competencia, cuotas y tarifas para el cobro
 
 IV. Examinar y, en su caso, aprobar el programa operativo anual de la Comisión que le presente el Director General;
 
-V. Resolver sobre los asuntos que en materia de servicios someta a su consideración el Director General;
+V. Resolver sobre los asuntos que en materia de servicios someta a su consideración el Director General.
 
 VI. Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos;
 
@@ -673,7 +495,9 @@ XII. Aprobar y expedir el reglamento interior de la Comisión, así como los man
 
 XIII. Las demás que le otorguen la presente ley y las disposiciones legales aplicables.
 
-###### Artículo 27.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 20.
 
 Al frente de la Comisión habrá un Director General, quien deberá cumplir con los requisitos siguientes:
 
@@ -687,7 +511,9 @@ IV. Contar, al momento de su designación, con una experiencia profesional, téc
 
 V. No tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se haya concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-###### Artículo 28.
+> <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 21.
 
 El Gobernador del Estado nombrará y removerá libremente al Director General, quien tendrá las siguientes atribuciones:
 
@@ -711,13 +537,13 @@ IX. Gestionar y obtener, conforme a la legislación aplicable y previa autorizac
 
 X. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las erogaciones extraordinarias;
 
-XI. Ordenar el pago a la Federación de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable;
+XI. Ordenar el pago a la Federación de los derechos por el uso o aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable.
 
 XII. Ejecutar los acuerdos del Consejo de Administración;
 
 XIII. Rendir un informe anual de actividades de la Comisión, así como rendir los informes sobre el cumplimiento de acuerdos del Consejo de Administración; resultados de los estados financieros; avance en las metas establecidas en el programa operativo anual, en los programas de operación autorizados por el propio Consejo de Administración, cumplimiento de los programas de obras y erogaciones en las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente ejercicio;
 
-XIV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+XlV. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
 XV. Ordenar la práctica de visitas de inspección y verificación, de conformidad con lo dispuesto en esta ley y demás legislación aplicable;
 
@@ -725,17 +551,103 @@ XVI. Ordenar que se practiquen, en forma regular y periódica, tomas de muestras
 
 XVII. Imponer sanciones a los usuarios por infracciones a las disposiciones de esta ley;
 
-XVIII. Resolver el recurso administrativo de revocación que se interponga en contra de sus resoluciones;
+XVIII. Resolver el recurso administrativo de revocación que se interponga en contra de sus resoluciones.
 
 XIX. Someter a la aprobación del Consejo de Administración el proyecto de reglamento interior del organismo; y
 
 XX. Las demás que señalen expresamente esta Ley y las leyes del Estado.
 
-###### Artículo 29.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 22.
+
+La Comisión para el mejor desempeño de sus funciones contará con un Subdirector y un Coordinador General, que serán designados libremente por el Director General.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 23.
+
+El órgano de vigilancia de la Comisión se integrará y tendrá las atribuciones que el reglamento de esta ley disponga y su titular será designado en términos de la legislación aplicable.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 24.
 
 La Comisión, a petición de los Ayuntamientos, podrá prestar transitoriamente, de conformidad con lo dispuesto por la Constitución Federal, la Constitución Local y demás legislación aplicable, los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como realizar la construcción, operación, conservación y mantenimiento de la infraestructura hidráulica correspondiente.
 
 La Comisión, durante el período de operación transitoria a que se refiere el párrafo anterior, tendrá las facultades que expresamente le otorguen la presente ley y demás disposiciones legales aplicables a los organismos operadores municipales.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 25.
+
+El Director General designará y removerá libremente a quienes estén al frente de los organismos operadores municipales o regionales a través de los cuales preste el servicio de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 26.
+
+Para cumplir con la atribución de coordinar, planear y supervisar la programación hidráulica estatal, la Comisión integrará un órgano consultivo denominado Consejo del Sistema Veracruzano del Agua.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 27.
+
+El Consejo del Sistema Veracruzano del Agua será presidido por el Gobernador del Estado y se integrará con los vocales siguientes:
+
+I. Los Presidentes Municipales representantes de las siguientes subregiones hidrológicas del Estado:
+
+a) Bajo Pánuco y Zona Norte de Veracruz: Pánuco y Poza Rica.
+
+b) Alto Balsas y Ríos Actopan, La Antigua y Jamapa: Xalapa y Veracruz.
+
+c) Río Papaloapan: Córdoba y San Andrés Tuxtla.
+
+d) Coatzacoalcos: Minatitlán y Coatzacoalcos.
+
+II. El Secretario de Desarrollo Social y Medio Ambiente.
+
+III. El Secretario de Finanzas y Planeación.
+
+IV. El Secretario de Salud.
+
+V. El Secretario de Desarrollo Económico y Portuario.
+
+VI. El Secretario de Desarrollo Agropecuario, Forestal y Pesca.
+
+VII. El Secretario de Educación;
+
+VIII. Dos diputados, representantes del H. Congreso del Estado; y
+
+IX. Un Secretario Técnico del Consejo, que será el Director General de la Comisión y estará encargado de ejecutar los acuerdos del Consejo.
+
+Previo acuerdo del Consejo, podrán participar en sus sesiones, titulares de los Organismos Operadores Municipales, regionales, representantes de organizaciones del sector social y privado, así como de las dependencias, entidades u órganos de naturaleza estatal o federal en la Entidad, vinculados directamente con la materia de aguas.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 28.
+
+El Consejo se reunirá en sesión ordinaria cada tres meses, así como las extraordinarias que, a juicio de sus integrantes, sean necesarias.
+
+El Consejo tomará sus resoluciones mediante el voto de la mayoría de sus miembros presentes y, sólo en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+###### Artículo 29.
+
+Corresponde al Consejo del Sistema Veracruzano del Agua:
+
+I. Formular las políticas, lineamientos y normatividad técnica para la conducción, planeación, formulación, promoción, instauración, ejecución y evaluación de la Programación Hidráulica en el Estado;
+
+II. Proponer, de conformidad con lo dispuesto por esta ley y demás legislación aplicable, convenios de coordinación entre las instancias federal, estatal o municipal, con pleno respeto a sus atribuciones constitucionales y legales;
+
+III. Proponer al Ejecutivo Estatal actualizaciones al marco jurídico del sector hidráulico;
+
+IV. Proponer, consensuar, aprobar y difundir las orientaciones de política hidráulica y de los servicios públicos de agua;
+
+V. Emitir opinión, a solicitud del Congreso del Estado, en los procesos de concesiones para la prestación del servicio público de agua potable, drenaje alcantarillado y disposición final de aguas residuales; y
+
+VI. Las demás que sean compatibles con su objeto.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES MUNICIPALES
 
@@ -839,7 +751,7 @@ El Gobierno del Estado, en el ámbito de su competencia, podrá otorgar concesio
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 9 DE ENERO DE 2007)</small>
 
-#### SECCIÓN SEGUNDA. DEL PRESIDENTE DEL CONSEJO
+#### SECCIÓN PRIMERA. DE LOS ORGANISMOS OPERADORES DE NATURALEZA MUNICIPAL
 
 ###### Artículo 36.
 
@@ -911,7 +823,9 @@ XVI. Examinar y, en su caso, aprobar los informes de avance de la gestión finan
 
 > <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XVII. Entregar mensualmente al Congreso del Estado los informes de avance de la gestión financiera aprobados, y en el mes de mayo la cuenta pública aprobada; y
+XVII. Entregar mensualmente al Congreso del Estado los informes de avance de la gestión financiera aprobados, y en el mes de mayo la
+
+cuenta pública aprobada; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE ENERO DE 2007)</small>
 
@@ -979,7 +893,9 @@ El Director del organismo operador municipal rendirá anualmente al Ayuntamiento
 
 El informe a que se refiere el párrafo anterior, deberá contener en forma explícita el grado de cumplimiento de las metas establecidas en el programa operativo anual y las aclaraciones que al respecto considere convenientes.
 
-#### SECCIÓN PRIMERA. DE LA COMISIÓN DEL AGUA DEL ESTADO DE VERACRUZ
+#### SECCIÓN SEGUNDA. DE LOS ORGANISMOS OPERADORES INTERMUNICIPALES
+
+> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -1043,8 +959,6 @@ II. Contratos administrativos de: conservación; mantenimiento; ampliación; o r
 
 #### SECCIÓN PRIMERA. DE LAS CONCESIONES
 
-#### SECCIÓN PRIMERA. DE LOS ORGANISMOS OPERADORES DE NATURALEZA MUNICIPAL
-
 ###### Artículo 47.
 
 Los Ayuntamientos del Estado podrán otorgar:
@@ -1102,10 +1016,6 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 Los particulares podrán realizar el tratamiento y disposición de sus aguas residuales, previa descarga al drenaje, sin necesidad de obtener concesión.
 
 #### SECCIÓN SEGUNDA. DE LAS OBRAS DE INFRAESTRUCTURA HIDRÁULICA
-
-#### SECCIÓN SEGUNDA. DE LOS ORGANISMOS OPERADORES INTERMUNICIPALES
-
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2007)</small>
 
 ###### Artículo 55.
 
@@ -1463,7 +1373,9 @@ El órgano de gobierno del organismo operador, o el concesionario podrán, a su 
 
 Las tarifas para el cobro de los servicios de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, una vez aprobadas se publicarán en la Gaceta Oficial y en la tabla de avisos del Ayuntamiento del municipio correspondiente. El Consejo vigilará la correcta aplicación de las metodologías y dictaminará lo conducente, pudiendo hacer observaciones al prestador de los servicios.
 
-Las revisiones a las metodologías, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por el Consejo cada cinco años, cuando menos. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2007)</small>
+
+Las revisiones a las metodologías, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por el Consejo cada año.
 
 ###### Artículo 102.
 
@@ -2106,3 +2018,15 @@ Tercero. Los organismos operadores de carácter municipal o regional creados com
 G.O. 9 DE ENERO DE 2007.
 
 Único. Este Decreto entrará en vigor a los tres días de su publicación en la Gaceta Oficial del gobierno del estado.
+
+G.O. 30 DE JULIO DE 2007.
+
+Primero. El presente Decreto entrará en vigencia el día 31 de julio de 2007, previa su publicación en la Gaceta Oficial del Estado.
+
+Segundo. A efecto de dar cumplimiento a lo dispuesto por el artículo 101 de la Ley, la Comisión realizará los trabajos pertinentes para que en el presente año se adecúen las tarifas por el costo del servicio.
+
+Tercero. Todos los recursos materiales, financieros y humanos con que cuenta el Consejo del Sistema Veracruzano del Agua, así como el presupuesto asignado para el Ejercicio Fiscal del año 2007, pasan a la Comisión del Agua del Estado de Veracruz de Ignacio de la Llave.
+
+Cuarto. La Secretaría de Finanzas y Planeación y la Secretaría de Trabajo, Previsión Social y Productividad, cuidarán del apego a la legalidad en lo conducente a las relaciones laborales y profesionales, según sea el caso, de quienes integran el personal del Consejo del Sistema Veracruzano del Agua.
+
+Quinto. El reglamento de esta Ley deberá ser adecuado en el término de noventa días naturales a partir de la vigencia del presente Decreto.
