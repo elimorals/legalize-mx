@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2007-04-16"
+last_updated: "2007-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -334,6 +334,14 @@ Un ejemplar de dicho índice deberá integrarse a los folios correspondientes, l
 Los notarios guardarán en su archivo los libros en los que conste la razón de cierre en los términos del Artículo 27 de esta Ley y sus apéndices e índices, durante el período de dos años contados a partir de la fecha de la certificación relativa a la mencionada razón de cierre.
 
 A la expiración de dicho término, el notario entregará junto con los apéndices e índices, los libros de protocolo al Registro Público de la Propiedad y del Comercio, donde quedarán definitivamente guardados, y en el cual los interesados podrán obtener ulteriores testimonios, copias de los mismos y certificaciones que puedan entregarse de acuerdo a la Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+ARTICULO 33 BIS.- Escritura es el instrumento original que el notario asienta en el protocolo para hacer constar un acto jurídico y que tiene la firma y el sello del notario.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2007)</small>
+
+ARTICULO 33 TER.- Las escrituras se asentarán empleándose tinta indeleble, letra clara, sin abreviaturas, salvo el caso de inserción de documentos que serán transcritos con las abreviaturas y guarismos que contengan. Tampoco se usarán guarismos a no ser que la misma cantidad se asiente en letras, excepción de aquéllos casos en que sea preciso para mayor claridad usar solamente guarismos. Los blancos o huecos, si los hubiere, se cubrirán con líneas de tinta fuertemente grabadas, precisamente antes de que se firme la escritura. Las palabras equivocadas o inútiles, se testarán cruzándolas con una línea que las deje legibles; las faltantes, se entrerrenglonarán indicando con una línea el lugar a que corresponden; unas y otras se salvarán al final del acta reproduciéndolas íntegramente, anotando las testadas como no válidas y las entrerrenglonadas, como valederas. Se prohíben las enmendaduras y raspaduras.
 
 ###### ARTICULO 34.
 
@@ -1146,3 +1154,9 @@ Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecid
 ###### ARTICULO CUARTO.
 
 El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
+
+P.O. 30 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
