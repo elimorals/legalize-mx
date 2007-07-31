@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "1991-12-31"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -51,9 +51,19 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de observancia general para los Titulares de las dependencias y entidades de los Poderes del Estado y sus trabajadores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 2007)</small>
+
 ###### ARTICULO 2.
 
-El trabajo es un derecho y un deber sociales. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia. No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, edad, religión, doctrina política o condición social.
+El trabajo es un derecho y un deber social. No es artículo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de raza, sexo, edad, preferencias sexuales, doctrina política, creencias religiosas, estado de gravidez, antecedentes penales, o cualquier otra que signifique un detrimento hacia la igualdad de oportunidades de las personas.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+La carta de antecedentes penales se exigirá únicamente para aquéllos que apliquen para ocupar un cargo en los cuerpos de seguridad pública o policía.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -1860,3 +1870,9 @@ PRIMERO.- Cuando en los Artículos del Estatuto, se haga mención al Sindicato s
 Las disposiciones que sean aplicables a las dependencias según el ordenamiento reformado, lo serán también en lo conducente a las Entidades Paraestatales, salvo disposición en contrario.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
