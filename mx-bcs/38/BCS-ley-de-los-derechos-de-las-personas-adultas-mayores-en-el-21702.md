@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2001-06-20"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -45,25 +45,33 @@ SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE B
 
 ### Capítulo único. Disposiciones Generales
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2007)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público, de interés social y de observancia general en el Estado de Baja California Sur. Tiene por objeto proteger y reconocer los derechos de las personas de sesenta años de edad en adelante, sin distinción alguna, para propiciarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural.
+Esta Ley es de orden público, de interés social y de observancia general en el Estado de Baja California Sur. Tiene por objeto reconocer, garantizar y proteger el ejercicio de los derechos de las personas adultas mayores, con perspectiva de genero a efecto de elevar su calidad de vida y promover su plena integración al desarrollo social, económico, político y cultural de la entidad, así como establecer las bases y disposiciones para su cumplimiento.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2007)</small>
 
 ###### Artículo 2.
 
-Toda persona de sesenta años de edad en adelante, gozará de los beneficios de esta ley sin perjuicio de los contenidos en otras disposiciones.
+Toda persona de sesenta años de edad en adelante, gozará de los beneficios de esta Ley sin perjuicio de los contenidos en otras disposiciones.
 
 La responsabilidad de vigilancia, seguimiento y aplicación de esta Ley, estará a cargo de:
 
-I. El Gobernador del Estado de Baja California Sur;
+I. El Titular del Poder Ejecutivo del Estado, el Sistema para el Desarrollo Integral de la Familia y demás dependencias y entidades que integran la Administración Pública, así como de organismos desconcentrados y demás entidades paraestatales en el ámbito de sus respectivas competencias y jurisdicción;
 
-II. Las secretarías y demás dependencias que integran la Administración Pública, así como de los órganos desconcentrados y entidades paraestatales, en el ámbito de sus respectivas competencias y jurisdicción;
+II. El Poder Legislativo del Estado, a través de la Comisión Permanente de la Familia y la Asistencia Pública;
 
-III. La familia de la persona mayor de sesenta años; y
+III. El Poder Judicial del Estado, en el ámbito que corresponda;
 
-IV. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+IV. Los Municipios de la entidad, en el ámbito de sus respectivas competencias y jurisdicciones;
 
-Los sectores público, social y privado, en términos de lo dispuesto por este artículo, celebrarán los convenios o acuerdos de colaboración entre sí, y con las instancias correspondientes que realicen alguna o varias actividades que constituyen los objetivos de esta ley.
+V. La familia de las personas adultas mayores vinculada por el parentesco, en cualquiera que sea este, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables;
+
+VI. La Comisión Estatal de Derechos Humanos en el ámbito de su competencia; y
+
+VII. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación, así como los sectores social y privado.
 
 ###### Artículo 3.
 
@@ -87,9 +95,21 @@ IV. Ley.- La presente Ley de los Derechos de las Personas Mayores de sesenta añ
 
 V. Geriatría.- El servicio brindado para la atención de la salud de las personas mayores de sesenta años;
 
-VI. Gerontología.- Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial; y
+VI. Gerontología.- Servicio otorgado por personas dedicadas al estudio del envejecimiento desde una perspectiva biopsicosocial; y (sic)
 
-VII. Integración social.- El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado de Baja California Sur y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral.
+VII. Integración social.- El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Estado de Baja California Sur y la sociedad organizada, encaminadas a modificar y superar las circunstancias que impidan a las personas adultas mayores su desarrollo integral;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
+
+VIII.- Perspectiva de Género.- Las políticas, programas y acciones cuyo propósito es la promoción y generación de condiciones de igualdad y equidad de oportunidades entre las personas;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
+
+IX.- Tanatologia.- Los estudios encaminados a procurar una muerte digna con cuidados, paliativos biológicos, sicológicos y sociales;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
+
+X.- Atención Médica.- El conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores de sesenta años en todos los niveles, con el fin de proteger, promover y restaurar su salud.
 
 ## TÍTULO SEGUNDO. Principio y Derechos
 
@@ -123,7 +143,9 @@ II. A la no discriminación, por lo que la observancia a sus derechos se hará s
 
 III. A una vida libre de violencia;
 
-IV. A ser respetados en su persona, en su integridad física, psicoemocional y sexual;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2007)</small>
+
+IV. A ser respetados y reconocidos en su calidad de seres humanos, ya sean hombres o mujeres, como dignas personas adultas mayores, cualesquiera que sea su origen étnico o racial, impedimentos o situaciones de cualquier tipo;
 
 V. A ser protegidos contra toda forma de explotación;
 
@@ -159,9 +181,13 @@ I. De asociarse y reunirse;
 
 II. A recibir información sobre las instituciones que prestan servicios para su atención integral;
 
-III. A recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos; y
+III. A recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos; y (sic)
 
-IV. A participar en la vida cultural, deportiva y recreativa de su comunidad.
+IV. A participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
+
+V. A obtener información gerontología disponible en los ámbitos medico, jurídico, social, cultural, económico y demás relativos, con el objeto de incrementar su cultura, analizar y accionar programas para contribuir a la prevención y auto cuidado hacia la vejez.
 
 E) Del trabajo:
 
@@ -201,11 +227,15 @@ La Coordinación de Programas de Bienestar Social, a través del Sistema para el
 
 ## TÍTULO CUARTO. De las Facultades y Obligaciones de las autoridades
 
-### Capítulo I. Del Gobernador
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE JULIO DE 2007)</small>
+
+### Capítulo I. Del Titular del Poder ejecutivo del Estado
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2007)</small>
 
 ###### Artículo 10.
 
-Corresponde al Gobernador del Estado de Baja California Sur, en relación a las personas mayores de sesenta años.
+Corresponde al Titular del Poder Ejecutivo del Estado de Baja California Sur, en relación a las personas mayores de sesenta años:
 
 I. Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
 
@@ -237,7 +267,9 @@ La Secretaría General de Gobierno deberá:
 
 I. Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores de sesenta años, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin más restricciones que su limitación física o mental;
 
-II. En coordinación con la Secretaría de Promoción y Desarrollo Económico deberá impulsar programas de autoempleo para las personas adultas mayores de sesenta años, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2007)</small>
+
+II. En coordinación con la Secretaría de Promoción y Desarrollo Económico y la Dirección del Trabajo y Previsión Social, deberá impulsar programas de autoempleo para las personas adultas mayores de sesenta años, de acuerdo a su profesión u oficio, a través de apoyo financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
 
 III. Proporcionar asesoría jurídica y representación legal a las personas adultas mayores de sesenta años, a través de personal capacitado a fin de garantizar su integridad y evitar cualquier acto de discriminación, respetando en todo momento su heterogeneidad.
 
@@ -265,7 +297,11 @@ c) Asistirlos para que ingieran sus alimentos y medicamentos;
 
 d) Movilización;
 
-e) Atención personalizada en caso de encontrarse postrados.
+e) Atención personalizada en caso de encontrarse postrados;
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2007)</small>
+
+f) Tanatología.
 
 Se entenderá por atención médica al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores de sesenta años en todos los niveles, con el fin de proteger, promover y restaurar su salud.
 
@@ -393,9 +429,13 @@ III. El Secretario General de Gobierno;
 
 IV. El Secretario de Salud;
 
-V. El Sistema Integral para el Desarrollo Integral de la Familia en el Estado de Baja California Sur; y
+V. El Sistema Integral para el Desarrollo Integral de la Familia en el Estado de Baja California Sur; y (sic)
 
-VI. El Diputado Presidente de la Comisión de la Familia y la Asistencia Pública del Congreso del Estado de Baja California Sur.
+VI. El Diputado Presidente de la Comisión de la Familia y la Asistencia Pública del Congreso del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2007)</small>
+
+VII.- Un integrante de la Comisión Estatal de Derechos Humanos.
 
 El Consejo invitará a formar parte del mismo a nueve representantes de organizaciones sociales, privadas o ciudadanos que se hayan destacado por su trabajo y estudio en la materia, quienes podrán coordinar los grupos de trabajo del Consejo.
 
@@ -586,3 +626,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE JULIO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
