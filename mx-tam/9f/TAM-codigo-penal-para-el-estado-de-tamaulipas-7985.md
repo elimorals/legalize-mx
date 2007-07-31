@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-07-04"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1927,7 +1927,7 @@ I.- Si el delito es cometido con un menor de catorce años de edad, la sanción 
 
 II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta; y
 
-III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes más y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -2684,6 +2684,10 @@ Al responsable del delito a que se refiere el artículo anterior se le impondrá
 ###### ARTICULO 261.
 
 Comete el delito de usurpación de funciones públicas el que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones como tal.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+Se equipará a la usurpación de funciones públicas la prestación, desempeño, implementación u ostentación, directa o indirecta, de servicios privados de seguridad, siempre que no se cuente con el registro o la autorización correspondiente en los términos de la ley de la materia. A quien se encuentre en este supuesto se le impondrá hasta cuatro tantos de la sanción que corresponda en los términos del artículo 263 de este Código.
 
 ###### ARTICULO 262.
 
@@ -3817,7 +3821,7 @@ XIII.- Cuando se enajenen o trafiquen de cualquier manera un vehículo o vehícu
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-XIV.- Cuando se altere o modifique de cualquier manera la documentación que acreditre la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
+XIV.- Cuando se altere o modifique de cualquier manera la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
@@ -4536,6 +4540,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE JULIO DE 2007.
 
 DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
