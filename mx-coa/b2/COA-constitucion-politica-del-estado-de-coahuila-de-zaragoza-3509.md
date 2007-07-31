@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-06-29"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -3392,7 +3392,9 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 
 La Ley Suprema Coahuilense puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte del bloque de la constitucionalidad local, deben observarse los requisitos siguientes:
 
-I. Iniciativa suscrita cuando menos por tres diputados o por el Gobernador, a la vez que se darán dos lecturas con un intervalo de diez días.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2007)</small>
+
+I. Iniciativa suscrita por el Gobernador del Estado o por uno o varios Diputados, a la que se le darán dos lecturas con un intervalo de diez días.
 
 II. Dictamen de la Comisión respectiva al que se darán dos lecturas con un intervalo de seis días.
 
@@ -4079,3 +4081,9 @@ P.O. 29 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 31 DE JULIO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
