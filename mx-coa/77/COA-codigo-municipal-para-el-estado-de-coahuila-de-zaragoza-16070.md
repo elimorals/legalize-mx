@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2007-06-29"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2641,6 +2641,14 @@ Las disposiciones de este título son de orden público y de observancia general
 
 Trabajador es toda persona física que presta un servicio físico e intelectual a las entidades públicas municipales, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de raza, sexo, edad, preferencias sexuales, doctrina política, creencias religiosas, estado de gravidez, antecedentes penales o cualquier otra que signifique un detrimento hacia la igualdad de oportunidades de las personas. Sin que esta prohibición contravenga a lo dispuesto por otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+La carta de antecedentes penales se exigirá únicamente para aquéllos que apliquen para ocupar un cargo en los cuerpos de seguridad pública o policía.
+
 ###### ARTÍCULO 258.
 
 Para los efectos de este título los trabajadores al servicio de las entidades públicas municipales se dividen en:
@@ -3689,9 +3697,13 @@ Es competencia de los juzgados municipales calificar las conductas previstas en 
 
 Los juzgados municipales son competentes también para conocer y resolver el recurso de inconformidad que, de acuerdo con este código, sea promovido ante ellos por los particulares.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2007)</small>
+
 ###### ARTÍCULO 385.
 
-Se exceptúa de lo establecido en los artículos anteriores, lo relativo a la materia tributaria municipal. Sin embargo, las leyes que regulan la hacienda municipal podrán otorgarle a los juzgados municipales la competencia que se estime pertinente.
+Se exceptúa de lo establecido en los artículos anteriores, lo relativo a la materia tributaria municipal y en materia de adquisiciones, arrendamientos y contratación de servicios que realicen los municipios y las entidades paramunicipales sujetándose en esta última materia a lo previsto por la Ley de Adquisiciones, Arrendamiento y Contratación de Servicios para el Estado de Coahuila, de Zaragoza.
+
+Sin embargo, las leyes que regulan la hacienda municipal, en lo que a esa materia se refiere, podrán otorgarle a los juzgados municipales la competencia que se estime pertinente.
 
 ###### ARTÍCULO 386.
 
@@ -4070,3 +4082,19 @@ P.O. 29 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 31 DE JULIO DE 2007.
+
+DECRETO NUMERO 312.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE JULIO DE 2007.
+
+DECRETO NUMERO 327.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
