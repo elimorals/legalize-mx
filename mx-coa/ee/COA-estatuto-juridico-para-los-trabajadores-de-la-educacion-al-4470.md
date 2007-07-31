@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "1963-01-16"
+last_updated: "2007-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -48,6 +48,12 @@ La presente Ley (sic) es de observancia general para todas las Autoridades y Fun
 ###### ARTICULO 2o.
 
 Trabajador de la Educación al Servicio del Estado, es toda persona que presta al Gobierno del Estado y Municipios, un servicio Docente, material o de ambos géneros, en virtud del nombramiento que le fuere expedido.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
+
+###### ARTICULO 2o Bis.
+
+Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de trabajo, así como limitar el ingreso a los programas de capacitación y formación profesional por razones de raza, sexo, edad, preferencias sexuales, doctrina política, creencias religiosas, estado de gravidez, antecedentes penales o cualquier otra que signifique un detrimento hacia la igualdad de oportunidades de las personas.
 
 ###### ARTICULO 3o.
 
@@ -904,3 +910,9 @@ LIC. JOSE SAUCEDO SILLER.
 P.O. 16 DE ENERO DE 1963.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 31 DE JULIO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
