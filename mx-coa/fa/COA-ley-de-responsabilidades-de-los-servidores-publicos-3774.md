@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2007-01-26"
+last_updated: "2007-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 24 de abril de 1984.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
 EL C. LIC. JOSE DE LAS FUENTES RODRIGUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL 
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO 1o.
 
@@ -65,7 +65,7 @@ VI.- El registro patrimonial de los servidores públicos.
 
 Son sujetos de esta Ley:
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001
 
 I. Los representantes de elección popular, los miembros del Poder Judicial, los servidores públicos del estado y de los municipios cualquiera que sea su jerarquía, rango u origen de su nombramiento o lugar en que presten sus servicios, los consejeros electorales del Consejo (sic) General del Instituto Electoral y de Participación Ciudadana de Coahuila y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, y en las entidades paraestatales o paramunicipales.
 
@@ -97,7 +97,7 @@ VIII.- Los Ayuntamientos Municipales y sus Dependencias;
 
 IX.- Los Organos Municipales de Control;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001
 
 X. Los organismos públicos autónomos, así como los Consejos (sic) Directivos u órganos de gobierno equivalentes, y las dependencias respectivas de las entidades paraestatales y paramunicipales; y
 
@@ -129,7 +129,7 @@ VI.- Por Superior Jerárquico: El jefe inmediato del servidor público, en los t
 
 ### CAPITULO PRIMERO. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO 6o.
 
@@ -305,7 +305,7 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y presentando los ele
 
 El Ministerio Público, en su caso, podrá formular requerimientos ante el propio Congreso del Estado, para los mismos efectos.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO 31.
 
@@ -333,7 +333,7 @@ Si el Congreso resolviere que no procede acusar al servidor público denunciado,
 
 Las declaraciones que en estos casos emita el Congreso del Estado, serán inatacables.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO 35.
 
@@ -443,7 +443,9 @@ III.- Utilizar los recursos que tenga asignados para el desempeño de su empleo,
 
 IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquéllas;
 
-V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2007)</small>
+
+V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste, evitando la discriminación y segregación de las mismas, por razón de sexo, edad, preferencias sexuales, creencias religiosas, estado de gravidez, antecedentes penales o cualquier otra que signifique un detrimento hacia la igualdad de las personas;
 
 VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
@@ -461,35 +463,39 @@ XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o p
 
 XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente, para ocupar un empleo, cargo o comisión en el servicio público;
 
-XIII.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellas de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2007)</small>
 
-XIV.- Informar por escrito al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+XIII.- Abstenerse de efectuar cualquier práctica discriminatoria que limite u obstaculice las oportunidades de acceso, permanencia y ascenso de trabajo, así como el ingreso a los programas de capacitación y formación profesional, o cualquier otra que signifique un detrimento hacia la igualdad de las personas;
 
-XV.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos, mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate, en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+XIV.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellas de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-XVI.- Desempeñar su empleo, cargo o comisión, sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobadas que el Estado, Municipio o entidades paraestatales o paramunicipales, le otorguen por el desempeño de su función, sean para él o para las personas a que se refiere la fracción XIII;
+XV.- Informar por escrito al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
 
-XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
+XVI.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos, mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate, en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XVII.- Desempeñar su empleo, cargo o comisión, sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobadas que el Estado, Municipio o entidades paraestatales o paramunicipales, le otorguen por el desempeño de su función, sean para él o para las personas a que se refiere la fracción XIII;
+
+XVIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-XVIII.- Presentar con oportunidad y veracidad la Declaración de situación patrimonial, ante el órgano estatal de control;
+XIX.- Presentar con oportunidad y veracidad la Declaración de situación patrimonial, ante el órgano estatal de control;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-XIX.- Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba del órgano estatal de control, o en su caso, del órgano municipal de control correspondiente, o de los órganos que tengan a su cargo estas funciones, en los Poderes Judicial y Legislativo;
+XX.- Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba del órgano estatal de control, o en su caso, del órgano municipal de control correspondiente, o de los órganos que tengan a su cargo estas funciones, en los Poderes Judicial y Legislativo;
 
-XX.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las disposiciones que al efecto se dicten;
+XXI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las disposiciones que al efecto se dicten;
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
+XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1993)</small>
 
-XXII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+XXIII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1993)</small>
 
-XXIII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
+XXIV.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
@@ -567,7 +573,7 @@ II.- El cociente se multiplicará por el salario mínimo mensual vigente en la c
 
 Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en la zona correspondiente a la capital del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO 59.
 
@@ -916,3 +922,9 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan al pr
 P. O. 26 DE ENERO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE JULIO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
