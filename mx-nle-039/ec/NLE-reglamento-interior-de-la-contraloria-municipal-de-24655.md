@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-municipal-de-24655"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-26"
-last_updated: "2002-04-26"
+last_updated: "2007-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de abril de 2002.
 
@@ -41,9 +41,11 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD D
 
 DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 1.
 
-La Secretaría de la Contraloría tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública Municipal, la Ley de Responsabilidades de los Servidores Públicos del Estado de Nuevo León y sus Municipios, el Reglamento de la Administración Pública Municipal del Municipio de Monterrey, así como otras leyes, reglamentos, decretos y acuerdos. Además tendrá las siguientes atribuciones:
+La Secretaría de la Contraloría tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, el Reglamento Orgánico de la Administración Pública del Municipio de Monterrey, así como otras leyes, reglamentos, decretos y acuerdos. Además tendrá las siguientes atribuciones:
 
 I. Proponer y aplicar las normas y criterios en materia de control y evaluación que deben observar las dependencias municipales.
 
@@ -63,23 +65,39 @@ VIII. Establecer y operar un sistema de quejas, denuncias y sugerencias.
 
 IX. Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal en los términos del Reglamento correspondiente.
 
-X. Verificar los estados financieros de la Tesorería Municipal, así como la remisión de la cuenta pública municipal a la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+X. Verificar los estados financieros de la Tesorería Municipal, así como la remisión de la cuenta pública municipal al H. Congreso del Estado.
 
 XI. Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, en los términos de la Ley de responsabilidades de los servidores públicos del Estado y Municipios de Nuevo León.
 
 XII. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales.
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+XIII. Promover la cultura de la legalidad, honestidad, transparencia, rendición de cuentas y acceso a la información.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+XIV. Inhibir y sancionar las prácticas y conductas corruptas.
+
 ###### ARTÍCULO 2.
 
 La Secretaría de la Contraloría debed (sic) establecer y mantener un adecuado sistema de control y vigilancia como apoyo a las dependencias municipales, que garantice el manejo de los recursos públicos dando cumplimiento estricto a los principios de legalidad, eficiencia, eficacia y transparencia, con apego a la normatividad establecida, verificando el cumplimiento de sus objetivos y protegiendo el patrimonio del municipio, implementando para tal fin, acciones preferentemente de carácter preventivo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 3.
 
-Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, la Secretaría de la Contraloría del Municipio de la Ciudad de Monterrey Nuevo León contará con las siguientes unidades administrativas:
+Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, el Secretario de la Contraloría del Municipio de la Ciudad de Monterrey Nuevo León contará con las siguientes unidades administrativas:
 
-I. Dirección de Auditoria.
+I. Dirección de Auditoria;
 
-II. Dirección Jurídica.
+II. Dirección de Normatividad;
+
+III. Coordinación Administrativa; y
+
+IV. Coordinación Técnica.
 
 ## TÍTULO SEGUNDO. DE LAS FACULTADES Y ORGANIZACIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -97,17 +115,23 @@ III. Decidir la práctica de revisiones, evaluaciones, auditorías, verificacion
 
 IV. Solicitar la participación de Auditores Externos y Consultores que coadyuven en el cumplimiento de las funciones de verificación y vigilancia que le competen a la Secretaría, previa aprobación del R. Ayuntamiento.
 
-V. Proponer o designa (sic) representantes de la Secretaría de la Contraloría para asistir en el comité de adquisiciones, arrendamientos y en el comité de apoyo para la adjudicación y fallos de los concursos de obra pública y en los que se generen, así como en los órganos de control interno de las entidades municipales.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+V. Proponer o designar representantes de la Secretaría de la Contraloría para asistir al Comité de Adquisiciones, Arrendamientos y Servicios y al Comité de Apoyo para la Adjudicación y Fallos de los Concursos de Obra Pública, así como a las Comisiones, Comités, Consejos y Fideicomisos en los que el R. Ayuntamiento o el Presidente Municipal instruyan su participación.
 
 VI. Informar al Ayuntamiento trimestralmente de sus actividades.
 
-VII. Nombrar o contratar al personal de la Secretaría de la Contraloría para el buen desempeño de sus funciones
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+VII. Seleccionar y nombrar al personal de la Secretaría de la Contraloría para el buen desempeño de sus funciones.
 
 VIII. Actualizar y validar los Manuales de Organización, Procedimientos y demás disposiciones.
 
 IX. Resolver las Inconformidades y Recursos Administrativos que le competan.
 
-X. Informar al Presidente Municipal sobre los resultados de tas (sic) revisiones de las dependencias del Municipio que hayan sido objeto de fiscalización.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+X. Informar al Presidente Municipal y a la Comisión de Hacienda del R. Ayuntamiento sobre los resultados de las revisiones de las dependencias del Municipio que hayan sido objeto de fiscalización.
 
 XI. El Secretario para la mejor distribución y desarrollo del trabajo, podrá delegar facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo, a cuyo efecto expedirá los acuerdos correspondientes que deberán ser publicados en la Gaceta Municipal y en el Periódico Oficial del Estado.
 
@@ -155,6 +179,8 @@ XI. Las demás funciones que las disposiciones legales y reglamentarias les atri
 
 DE LA DIRECCIÓN DE AUDITORÍA
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2007, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PASANDO DE QUINCE FRACCIONES A TRECE.</small>
+
 ###### ARTÍCULO 8.
 
 Corresponde al Director de Auditoría:
@@ -167,81 +193,105 @@ III. Practicar revisiones, auditorías e inspecciones, de acuerdo con el Secreta
 
 IV. Verificar que las operaciones efectuadas por las dependencias, sean con apego a las normas jurídicas y procedimientos establecidos.
 
-V. Formular, con base a los resultados de las auditorias y evaluaciones realizadas, observaciones y recomendaciones a las dependencias con el objeto de eficientar y propiciar los requerimientos de calidad total.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-VI. Supervisar y verificar que se apliquen correctamente los recursos provenientes de fondos federales o estatales derivados de acuerdos o convenios que se celebren con la Federación o el Estado, a fin de que se cumpla con todos los términos de las disposiciones establecidas en los mismos.
+V. Supervisar y verificar que se apliquen correctamente los recursos provenientes de fondos federales o estatales derivados de acuerdos o convenios que se celebren con la Federación o el Estado, a fin de que se cumpla con todos los términos de las disposiciones establecidas en los mismos.
 
-VII. Llevar a cabo actividades de inspección, vigilancia y supervisión, directamente o con el apoyo de la otra dirección de la Secretaría de la Contraloría, a efecto de verificar que en la ejecución de las obras públicas se cumplan con las normas, procedimientos, disposiciones legales aplicables y con los objetivos y metas preestablecidos.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-VIII. Vigilar el cumplimiento de las disposiciones contenidas en los acuerdos y convenios celebrados entre la Federación y el Municipio y el Estado y Municipio, de donde se deriven la inversión de fondos federales y Estatales para la realización de obras públicas y supervisar su correcta aplicación.
+VI. Llevar a cabo actividades de inspección, vigilancia y supervisión, directamente o con el apoyo de la otra dirección de la Secretaría de la Contraloría, a efecto de verificar que en la ejecución de las obras públicas se cumplan con las normas, procedimientos, disposiciones legales aplicables y con los objetivos y metas preestablecidos.
 
-IX. Vigilar que la ejecución de las obras públicas se lleven a cabo conforme a la planeación, programación y presupuestación aprobados.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-X. Practicar revisiones, auditorias, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas, con el objeto de verificar que con apego a las normas y procedimientos legales cumplan con los requisitos de aprobación, licitación, contratación, anticipo y pago de estimaciones, así como el finiquito, entrega y recepción de las mismas.
+VII. Vigilar que la ejecución de las obras públicas se lleven a cabo conforme a la planeación, programación y presupuestación aprobados.
 
-XI. Vigilar que los contratistas cumplan con los requisitos que establecen las disposiciones legales y fiscales aplicables para realizar obras públicas.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-XII. Informar al Secretario de la Contraloría del resultado de revisiones, auditorias, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas y recomendar la instrumentación de acciones y medidas preventivas y correctivas que sean necesarias.
+VIII. Practicar revisiones, auditorias, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas, con el objeto de verificar que con apego a las normas y procedimientos legales cumplan con los requisitos de aprobación, licitación, contratación, anticipo y pago de estimaciones, así como el finiquito, entrega y recepción de las mismas.
 
-XIII. Realizar estudios y evaluaciones de las innovaciones técnicas en materia de control, para recomendar los cambios pertinentes con el propósito de optimizar y propiciar la mejora continua de las dependencias de la Administración Municipal.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-XIV. Elaborar y exponer el Programa de Entrega-Recepción de la Administración Municipal en cumplimiento al reglamento establecido para ello.
+IX. Vigilar que los contratistas cumplan con los requisitos que establecen las disposiciones legales y fiscales aplicables para realizar obras públicas.
 
-XV. Las demás que le confieren las disposiciones legales aplicables y el Secretario de la Contraloría.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
-DE LA DIRECCIÓN JURÍDICA
+X. Informar al Secretario de la Contraloría del resultado de revisiones, auditorias, peritajes, inspecciones, fiscalizaciones y evaluaciones de las obras públicas y recomendar la instrumentación de acciones y medidas preventivas y correctivas que sean necesarias.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+XI. Realizar estudios y evaluaciones de las innovaciones técnicas en materia de control, para recomendar los cambios pertinentes con el propósito de optimizar y propiciar la mejora continua de las dependencias de la Administración Municipal.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+XII. Elaborar y exponer el Programa de Entrega-Recepción de la Administración Municipal en cumplimiento al reglamento establecido para ello.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+
+XIII. Las demás que le confieren las disposiciones legales aplicables y el Secretario de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+Para el despacho de los asuntos de su competencia, el Director de Auditoría contará con un Coordinador de Auditoría de Obra Pública, un Coordinador de Control Interno y un Coordinador de Auditoría, así como el personal contable, técnico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2007)</small>
+
+DE LA DIRECCIÓN DE NORMATIVIDAD
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 9.
 
-Competen al Director Jurídico, las siguientes atribuciones:
+Competen al Director de Normatividad, las siguientes atribuciones:
 
-I. Actuar como órgano de consulta de las unidades administrativas del municipio, sobre cuestiones jurídicas relativas al desarrollo de su función que se presenten en el cumplimiento de las obligaciones que les imponen las leyes, decretos, reglamentos, acuerdos y demás lineamientos vigentes.
+I. Vigilar y comprobar el debido cumplimiento por parte de los servidores públicos, de las obligaciones derivadas de los reglamentos municipales, las normatividades establecidas y demás ordenamientos legales.
 
-II. Vigilar y comprobar el debido cumplimiento por parte de los servidores públicos, de las obligaciones derivadas de los reglamentos municipales, las normatividades establecidas y demás ordenamientos legales.
+II. Verificar que se dé seguimiento a las observaciones y recomendaciones, producto de las revisiones, así como promover la resolución de las mismas.
 
-III. Verificar que se dé seguimiento a las observaciones y recomendaciones, producto de las revisiones, así como promover la resolución de las mismas.
+III. Compilar los ordenamientos legales relacionados con las funciones de la Secretaría de la Contraloría y mantenerlos actualizados conforme a las reformas y adiciones que se generen.
 
-IV. Compilar los ordenamientos legales relacionados con las funciones de la Secretaría de la Contraloría y mantenerlos actualizados conforme a las reformas y adiciones que se generen.
+IV. Proporcionar capacitación sobre temas jurídicos al personal de la Secretaría de la Contraloría, relacionada con sus funciones.
 
-V. Proporcionar capacitación sobre temas jurídicos al personal de la Secretaría de la Contraloría, relacionada con sus funciones.
+V. Proponer y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y lineamientos en general que tengan atribuciones o relación directa con la Secretaría de la Contraloría.
 
-VI. Proponer y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y lineamientos en general que tengan atribuciones o relación directa con la Secretaría de la Contraloría.
+VI. Revisar los convenios y contratos en que la Secretaría de la Contraloría intervenga o deba suscribir, así como aquellos que por disposición de la ley le corresponda analizar.
 
-VII. Revisar los convenios y contratos en que la Secretaría de la Contraloría intervenga o deba suscribir, así como aquellos que por disposición de la ley le corresponda analizar.
+VII. Instrumentar y proporcionar capacitación, así como asesoría legal a las dependencias y entidades municipales que lo soliciten para la implementación de sus sistemas de control, manejo de recursos, responsabilidades e interpretación de la normatividad establecida para ello.
 
-VIII. Instrumentar y proporcionar capacitación, así como asesoría legal a las dependencias y entidades municipales que lo soliciten para la implementación de sus sistemas de control, manejo de recursos, responsabilidades e interpretación de la normatividad establecida para ello.
+VIII. Mantener actualizado el padrón de servidores públicos municipales, obligados a presentar declaración de situación patrimonial de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-IX. Recibir y registrar las declaraciones patrimoniales de los servidores públicos, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios ds (sic) de Nuevo León y las normas, criterios y formatos establecidos o que establezca la Secretaria de la Contraloría.
+IX. Supervisar que las Dependencias y Entidades cumplan en tiempo y forma con la obligación de subir y actualizar la información requerida en la normatividad aplicable en el Portal Oficial de Internet del Municipio.
 
-X. Mantener actualizado el padrón de servidores públicos municipales, obligados a presentar declaración de situación patrimonial de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+X. Colaborar en el ámbito de sus atribuciones con las instancias respectivas en la implementación, seguimiento, intercambio de información y evaluación de los sistemas de control preventivo del enriquecimiento ilegítimo o ilícito de los servidores públicos.
 
-XI. requerir a los servidores públicos para el cumplimiento de la obligación de rendir su declaración de situación patrimonial de conformidad con la Ley de Responsabilidades.
+XI. Coadyuvar con el Síndico Segundo en la vigilancia a los servidores públicos para el cumplimiento de la obligación de rendir su manifestación de bienes patrimoniales de conformidad con la legislación aplicable.
 
-XII. Colaborar en el ámbito de sus atribuciones con las instancias respectivas en la implementación, seguimiento, intercambio de información y evaluación de los sistemas de control preventivo del enriquecimiento ilegítimo o ilícito de los servidores públicos.
+XII. Tramitar y resolver las inconformidades que se presenten en materia de adquisiciones con recursos estatales, en los términos de la normatividad aplicable y de su competencia.
 
-XIII. Instaurar y resolver los procedimientos de responsabilidad administrativa contra servidores públicos de la Administración Municipal, por conductas que pudieran constituir responsabilidades administrativas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, detectadas con motivo de auditorias y evaluaciones realizadas por la Secretaría de la Contraloría.
+XIII. Instaurar y resolver los procedimientos de responsabilidad administrativa contra servidores públicos de la Administración Municipal, por conductas que pudieran constituir responsabilidades administrativas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, detectadas con motivo de auditorias y evaluaciones realizadas por la Secretaría de la Contraloría y derivadas de la atención a quejas y denuncias.
 
-XN (SIC). Tramitar y resolver las inconformidades que se presenten en materia de recursos estatales, en los términos de la normatividad aplicable y de su competencia.
+XIV. Tramitar y resolver las inconformidades que se presenten en materia de obra pública y servicios relacionados con la misma, adquisiciones, arrendamientos y prestación de servicios en los términos de la normatividad aplicable y de su competencia.
 
-XV. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos por la Secretaría de la Contraloría.
+XV. Coadyuvar con las autoridades de la procuración de justicia, a efecto de concluir satisfactoriamente los asuntos con los delitos cometidos por servidores públicos que hayan sido detectados por la Secretaría de la Contraloría.
 
-XVI. Elaborar las denuncias o querellas respecto a los asuntos competencia de la Secretaría de la Contraloría, cuando se presuma la existencia de hechos que pudieran configurar algún delito, cuando lo instruya el Secretario de la Contraloría y turnarlo a la autoridad competente.
+XVI. Elaborar, en coordinación con la Dirección jurídica de la Secretaría del Ayuntamiento las denuncias o querellas respecto a los asuntos competencia de la Secretaría de la Contraloría, cuando se presuma la existencia de hechos que pudieran configurar algún delito, cuando lo instruya el Secretario de la Contraloría y turnarlo a la autoridad competente.
 
-XVII. Coadyuvar con las autoridades de la procuración de justicia, a efecto de concluir satisfactoriamente los asuntos con los delitos cometidos por servidores públicos que hayan sido detectados por la Secretaría de la Contraloría.
+XVII. Desarrollar y difundir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Municipal.
+
+XVIII. Organizar y coordinar eventos de desarrollo y actualización profesional.
+
+XIX. Emitir opiniones y recomendaciones sobre proyectos de normas y disposiciones con fines de control.
+
+XX. Asistir y apoyar en la interpretación de la normatividad que regula las funciones y responsabilidades de cada entidad y dependencia municipal.
+
+XXI. Mantener actualizado un manual general de las normas expedidas para regular el funcionamiento de los órganos de control de las dependencias de la Administración Municipal.
 
 XVIII. Llevar el registro de los servidores públicos sancionados y proporcionar información que se solicite en términos de ley, reglamentos, decretos y acuerdos.
 
-XIX. Desarrollar y difundir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Municipal.
+XXII. Instrumentar y aplicar programas, acciones y estrategias de Transparencia, Rendición de Cuentas y Acceso a la Información.
 
-XX. Organizar y coordinar eventos de desarrollo y actualización profesional.
+XXIII. Diseñar y aplicar programas y acciones de fomento a la ética en el servicio público y estrategias de combate a la corrupción, y
 
-XXI. Emitir opiniones y recomendaciones sobre proyectos de normas y disposiciones con fines de control.
-
-XXII. Asistir y apoyar en la interpretación de la normatividad que regula las funciones y responsabilidades de cada entidad y dependencia municipal.
-
-XXIII. Mantener actualizado un manual general de las normas expedidas para regular el funcionamiento de los órganos de control de las dependencias de la Administración Municipal.
-
-XXIV. Las demás que le confieran las disposiciones legales aplicables y el Secretario de la Contraloría Municipal.
+Para el despacho de los asuntos de su competencia, el Director de Normatividad contará con un Coordinador de Responsabilidades, un Coordinador de Responsabilidades de Policía y Tránsito, así como el personal técnico, jurídico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
 
 Transitorio (sic)
 
@@ -260,3 +310,9 @@ LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C. P. ROBERTO RAMÍREZ VILLARREAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2007.
+
+Artículo Único.- Las reformas por adición y modificación al REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
