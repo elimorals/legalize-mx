@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2007-03-15"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -85,7 +85,9 @@ F).- La organización, coordinación y vigilancia del ejercicio de las actividad
 
 G).- La promoción de la formación de recursos humanos para la salud;
 
-H).- La coordinación de la investigación para la salud y el control de éstas en seres humanos;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+H).- La coordinación de la investigación para la salud y el control de éstas en seres humanos. Asimismo, el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres humanos;
 
 I).- La información relativa a las condiciones, recursos y servicios de salud;
 
@@ -263,19 +265,43 @@ XII.- Coadyuvar, con las dependencias federales competentes, en la regulación y
 
 XIII.- Establecer, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos disponibles para transplantes dentro de su competencia, mismo que se integrará, entre otros elementos, por un Consejo Estatal, un registro de donantes y otro de beneficiarios.
 
-Para realizar transplantes de personas que hayan perdido la vida, deberá ocurrir la muerte cerebral del donante. Esta se presenta cuando existen los siguientes signos:
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
-a).- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+Para efectos de esta ley, la pérdida de la vida ocurre cuando:
 
-b).- Ausencia de automatismo respiratorio, y
+A. Se presente la muerte cerebral, o
 
-c).- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+B. Se presenten los siguientes signos de muerte:
+
+a. La ausencia completa y permanente de conciencia;
+
+b. La ausencia permanente de respiración espontánea;
+
+c. La ausencia de los reflejos del tallo cerebral, y
+
+d. El paro cardiaco irreversible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2007)</small>
+
+La muerte cerebral se presenta cuando existen los siguientes signos:
+
+A. Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+B. Ausencia de automatismo respiratorio, y
+
+C. Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexía pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-Los signos señalados en los incisos anteriores deberán corroborarse por la prueba de angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o la prueba de electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
-No existirá impedimento alguno para que a solicitud o autorización del o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme al orden expresado, se prescinda de los medios artificiales que eviten que la persona que presenta muerte cerebral comprobada manifieste los demás signos de muerte a que no se refiere el párrafo segundo de esta fracción.
+Los signos a que refiere el párrafo anterior deberán corroborarse mediante angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas: el o la cónyuge el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada, se manifiesten los demás signos de muerte a que se refiere esta fracción.
 
 XIV.- Coordinar el Sistema Estatal de Información Básica en materia de salud;
 
@@ -1521,6 +1547,10 @@ En la diligencia de verificación sanitaria y recolección de muestras se deber�
 
 ## TITULO DECIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 142.
 
 Son medidas de seguridad sanitaria las siguientes:
@@ -1611,6 +1641,10 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la autoridad sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
+### CAPITULO SEGUNDO. DE LA EXTRACCION Y TRASPLANTE DE ORGANOS Y COMPONENTES ANATOMICOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 151.
 
 La infracción a los preceptos de esta ley, sus reglamentos y disposiciones legales que de ella emanen, serán sancionadas administrativamente por la autoridad sanitaria competente, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -1683,6 +1717,10 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
+### CAPITULO TERCERO. DEL CONSEJO ESTATAL DE PROCURACION Y TRASPLANTES DE ORGANOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 163.
 
 El ejercicio de las facultades discrecionales de la autoridad sanitaria, se sujetará a los siguientes criterios:
@@ -1724,6 +1762,10 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 ###### ARTICULO 170.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 171.
 
@@ -1775,6 +1817,10 @@ II.- Que no se siga perjuicio al interés social, ni se contravengan disposicion
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 180.
 
 El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente ley, prescribirá en el término de cinco años.
@@ -1790,6 +1836,406 @@ Cuando el presunto infractor impugne los actos de la autoridad sanitaria compete
 ###### ARTICULO 183.
 
 Los interesados podrán hacer valer la prescripción, por vía de excepción. La autoridad deberá declararla de oficio.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+## TITULO DECIMO SEPTIMO. DE LA DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS HUMANOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 184.
+
+Las disposiciones de este Título tienen por objeto el fomento y promoción de la cultura de la donación de órganos, tejidos y células humanos, de manera coordinada con el Consejo y el Centro Nacional de Trasplantes, en términos de la Ley General de Salud y este ordenamiento.
+
+Asimismo, regula el funcionamiento general del Consejo Estatal de Trasplantes y establece las bases del Centro Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 185.
+
+El Gobierno del Estado, por conducto de la Secretaría de Salud y el titular del Consejo Estatal de Trasplantes, concurrirá ante el Consejo Nacional de Trasplantes a efecto de consolidar la coordinación que propicie el efectivo cumplimiento de los objetivos, acciones y actividades contenidas en el Programa Nacional de Trasplantes.
+
+Igualmente, se propiciarán las medidas tendentes a estrechar vínculos en la materia con los diversos Consejos que funcionen en los Estados de la República y el Distrito Federal; con las instituciones de educación superior; facultades de medicina, colegios y academias médicas legalmente reconocidas; y en sí, con toda aquella institución vinculada a la salud humana que coadyuve al desarrollo integral de la cultura de la donación de órganos, tejidos y células humanos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 186.
+
+El Consejo Estatal de Trasplantes se ocupará de promover y apoyar las acciones en materia de trasplantes de órganos, tejidos y células humanos que se realicen en las instituciones de salud de los sectores público, social y privado; impulsar la reducción de la morbilidad y mortalidad por padecimientos susceptibles de ser corregidos mediante el procedimiento quirúrgico de trasplante; y alentar las acciones educativas para fomentar la cultura de la donación altruista de órganos, tejidos y células humanos vivos, en los supuestos que la ley lo permita al ocurrir la pérdida de la vida.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 187.
+
+Para los efectos de esta ley, se entiende por:
+
+I. Aféresis: el procedimiento practicado por instituciones médicas que cuenten con bancos de sangre o servicios de transfusión, para la separación de componentes de la sangre provenientes de un proveedor único, mediante centrifugación directa o mediante equipo de flujo continuo o discontinuo;
+
+II. Autoinjerto o trasplante unipersonal: el reemplazo de componentes anatómicos por otros provenientes del propio organismo;
+
+III. Banco de órganos y tejidos: el establecimiento que tenga como finalidad primordial la obtención de órganos y tejidos humanos para su preservación y suministro terapéutico;
+
+IV. Banco de sangre: el establecimiento autorizado para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus derivados;
+
+V. Cadáver: el cuerpo humano en el que se ha comprobado la pérdida de la vida;
+
+VI. Certificado de pérdida de la vida: el documento expedido por el médico que practicó los exámenes en el cuerpo inerte;
+
+VII. Célula: la unidad fundamental de los organismos vivos, generalmente de tamaño microscópico, capaz de reproducción independiente y formada por un citoplasma y un núcleo rodeados por una membrana;
+
+VIII. Componentes: los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
+
+IX. Componentes sanguíneos: los elementos de la sangre y demás sustancias que la conforman;
+
+X. Concentrados celulares: las células que se obtienen de la sangre humana en los términos que son útiles;
+
+XI. Derivados de la sangre: los productos obtenidos de la misma que tienen aplicación terapéutica, diagnóstica o de investigación;
+
+XII. Disponente: la persona que en términos de la ley, le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+
+XIII. Disposición de órganos, tejidos y células humanos: el conjunto de actividades relativas a la obtención, preservación, preparación, utilización, suministro y destino final de órganos, tejidos y células humanos con fines terapéuticos, de docencia o de investigación;
+
+XIV. Donador o donante: la persona que tácita o expresamente autoriza para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes sean utilizados para trasplantes;
+
+XV. Donación expresa: la autorización por escrito mediante la cual el donante autoriza la disposición de sus órganos, tejidos, células o demás componentes; ésta puede recaer en favor de determinada persona o institución; asimismo, puede establecer las circunstancias de modo, lugar y tiempo para dichos efectos;
+
+XVI. Donación tácita: la ausencia de manifestación negativa de una persona para que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga el consentimiento de las personas que establece esta ley;
+
+XVII. Muerte cerebral: la presencia de los signos referidos en el artículo 8, fracción XIII, de esta ley;
+
+XVIII. Órgano: la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
+
+XIX. Pérdida de la vida: la situación que se presenta cuando se actualizan los sucesos referidos en el artículo 8, fracción XIII de esta ley;
+
+XX. Potencial receptor: la persona que por razones terapéuticas requiere de un órgano, tejido o células humanos mediante un trasplante;
+
+XXI. Receptor: la persona que recibe para su uso terapéutico un órgano, tejido, células o productos humanos;
+
+XXII. Tejidos: la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función;
+
+XXIII. Terapéutica: la rama de la medicina que establece los principios aplicables y los medicamentos o medios para el tratamiento de las enfermedades en forma racional; y
+
+XXIV. Trasplante: la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo u otro y que se integren al organismo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 188.
+
+Para la aplicación de este ordenamiento se considera de naturaleza supletoria las previsiones de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 189.
+
+La Secretaría de Salud del Estado queda facultada para realizar la interpretación administrativa de esta ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 190.
+
+Cualquier persona podrá donar en vida componentes anatómicos cuando se cumplan los siguientes requisitos:
+
+I. El donante sea mayor de edad, en pleno goce de sus facultades mentales y que, además, su estado de salud sea el adecuado para el procedimiento de ablación;
+
+II. El donante y el receptor hayan sido previamente informados de las consecuencias de su decisión y que una vez impuestos de ello, otorguen su consentimiento en forma escrita, libre, consciente y desinteresada. Este consentimiento deberá anexarse a sus respectivas historias clínicas;
+
+III. El receptor del componente anatómico que vaya a ser extraído sea una persona previamente determinada; y
+
+V. La ablación de órganos, de tejidos o de células, no implique riesgo de incapacidad funcional temporal o permanente para el donante.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 191.
+
+Una vez ocurrida la pérdida de la vida de una persona en los términos de esta ley, se podrá disponer de todos o parte de sus componentes anatómicos cuando exista previa autorización. Si no se obtuvo su previo consentimiento, se procederá mediante autorización de el o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, o los familiares por afinidad, conforme a la prelación señalada.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 192.
+
+El retiro de los componentes anatómicos de un cadáver será efectuado por los médicos que integren el equipo de trasplantes o por profesionales médicos autorizados por ese equipo, el cual deberá ser diferente al equipo médico que atendió al otrora paciente cuando ingresó a la atención médica.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 193.
+
+Los profesionales médicos que integren el equipo de trasplantes, o los autorizados para realizar el retiro de los componentes anatómicos de un cadáver, suscribirán por triplicado un acta en la cual dejarán constancia del estado de los componentes retirados.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 194.
+
+Los trasplantes de órganos y componentes anatómicos se realizarán en hospitales o instituciones de salud debidamente autorizados por la autoridad competente, debiendo encontrarse dotados, por lo menos, de lo siguiente:
+
+I. Laboratorio de inmunología con capacidad para realizar pruebas de la especialidad, para los controles pre y post-operatorios;
+
+II. Laboratorio de hematología, bioquímica y microbiología;
+
+III. Servicio de neurología y electro-encefalografía;
+
+IV. Servicio de cardiología y medicina general;
+
+V. Servicio de alergología;
+
+VI. Servicio quirúrgico y de anestesia, con equipo completo, inclusive para realizar la circulación extra corpórea entre el donante y el receptor, cuando el tipo de trasplante así lo requiera, para el caso de donación en vida de componentes anatómicas;
+
+VII. Servicio de recuperación especial y exclusivo para trasplantes e injertos, con monitores suficientes y adecuados;
+
+VIII. Equipos para la conservación de órganos y componentes anatómicos para el trasplante o injerto; y
+
+IX. Grupos médicos altamente especializados en trasplantes e injertos y en las diversas ramas de la medicina relacionadas con los órganos o componentes anatómicos que fueren a trasplantarse o injertarse.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 195.
+
+El Consejo constituye un órgano de la administración pública estatal integrado conforme a lo dispuesto por esta ley, cuyo objeto es propiciar que la Secretaría de Salud dé cumplimiento a sus atribuciones en materia de donación de órganos, tejidos y células humanos para trasplantes a potenciales receptores y receptores.
+
+El Consejo tiene una función auxiliar para la dependencia mencionada. El desempeño de sus miembros es de carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 196.
+
+El Consejo Estatal de Procuración y Trasplantes de Órganos estará integrado por:
+
+I. El Gobernador del Estado, quien será su Presidente Honorario;
+
+II. El Secretario de Salud, quien fungirá como Presidente Ejecutivo;
+
+III. El Secretario de Educación, quien será vocal;
+
+IV. El Procurador General de Justicia, quien será vocal;
+
+V. Los Directores de los Hospitales de carácter estatal que cuenten con capacidad de procuración y trasplante de órganos, así como con la autorización oficial correspondiente para realizarlos, quienes serán vocales; y
+
+VI. Un representante por cada uno de los hospitales privados que estén autorizados para realizar trasplantes de órganos, tejidos o células humanos en el Estado, quienes serán vocales.
+
+Cada representante, podrá designar un suplente que cubrirá sus ausencias. Estos no podrán tener rango inferior al de Director de Área o equivalente en el caso de la administración pública estatal, o el rango inmediato inferior al del titular en los demás casos. Los integrantes del Consejo tendrán carácter honorífico y por su desempeño no percibirán retribución, emolumentos o compensación económica alguna.
+
+El Presidente Ejecutivo podrá invitar a las sesiones del Consejo a representantes de instituciones privadas o públicas federales, estatales o municipales, que guarden relación con el objeto del Consejo, quienes participarán solamente con derecho a voz.
+
+Las sesiones serán presididas por el Presidente Honorario y en ausencia de éste, por el Presidente Ejecutivo. La Junta sesionará válidamente con la asistencia de la mayoría de sus miembros, siempre que concurra el Presidente. Sus decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente tiene voto de calidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 197.
+
+El Consejo Estatal de Procuración y Trasplantes de Órganos sesionará conforme lo establezca el Reglamento que expida el Ejecutivo del Estado, pero deberá hacerlo al menos cuatro veces al año.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 198.
+
+El Consejo contará con un Secretario Técnico, que será el titular del Centro Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 199.
+
+El Consejo Estatal de Procuración y Trasplantes de Órganos tendrá a su cargo las siguientes atribuciones:
+
+I. Diseñar, instrumentar, operar y dirigir en congruencia con los planes y programas nacionales y estatales, las políticas en materia de asignación y control de las donaciones y trasplantes de órganos, tejidos y células humanos;
+
+II. Elaborar y aplicar el Programa Estatal de Trasplantes;
+
+III. Impulsar el funcionamiento y las actividades del Centro Estatal de Trasplantes, conforme a las disposiciones de esta ley y los ordenamientos que lo rijan;
+
+IV. Mantener comunicación y coordinación con el Consejo Nacional de Trasplantes, a efecto de emprender acciones de complementación y colaboración con las acciones del Registro Nacional de Trasplantes;
+
+V. Proporcionar información y colaborar con las acciones del Registro Nacional de Trasplantes;
+
+VI. Dictar medidas y lineamientos generales, para una mejor operación del Registro Estatal de Trasplantes y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos, tejidos y células;
+
+VII. Supervisar y propiciar la actualización permanente del Registro Estatal de Trasplantes, en el cual figurarán la relación de donadores, potenciales receptores y receptores, que se integrarán en forma sistemática y cronológica de acuerdo con la presentación de la determinación, solicitud o constancia correspondiente, según proceda;
+
+VIII. Promover y fomentar, a través de actividades educativas, de investigación, información y difusión en la población, la cultura y donación altruista de órganos, tejidos y células humanos, y de trasplantes;
+
+IX. Fomentar y sistematizar el estudio y la investigación de los trasplantes de órganos, tejidos y células humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en trasplante;
+
+X. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplantes, así como los estudios e investigaciones en la materia en calidad de posgrados o especialidades;
+
+XI. Coadyuvar en la prevención de cualquier violación a las disposiciones legales sobre donación de órganos, tejidos y células humanos;
+
+XII. Proponer al Ejecutivo del Estado que por conducto de las Secretarías de Salud y de Educación, dentro de sus respectivas atribuciones y competencias, incluyan programas especiales de educación tendentes a la promoción y difusión de la cultura y donación altruista de órganos, tejidos y células humanos, y de trasplantes, conforme a las bases y lineamientos establecidos por el Consejo; y
+
+XIII. Las demás que le señalen otras disposiciones legales de la materia y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 200.
+
+El Consejo Estatal de Procuración y Trasplantes de Órganos podrá determinar la creación de comités y grupos de trabajo que estime convenientes, tanto de carácter permanente como transitorio, para el estudio y solución de los asuntos relacionados con su propósito institucional.
+
+La integración de cada uno de los comités, así como su organización y funcionamiento, se sujetarán a lo que disponga el Reglamento del Consejo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 201.
+
+Corresponde al Presidente del Consejo:
+
+I. Promover los programas y proyectos que se le planteen para análisis y, en su caso, aprobación del Consejo;
+
+II. Convocar a las sesiones del Consejo, por conducto del Secretario Técnico;
+
+III. Someter a votación los asuntos tratados en las sesiones y firmar las actas que se elaboren con dicho motivo;
+
+IV. Vigilar la ejecución de los acuerdos y determinaciones del Consejo; y
+
+V. Todas aquellas que en el orden de las atribuciones del Consejo, resulten necesarias para dar cumplimiento a su propósito institucional.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 202.
+
+Corresponde al Secretario Técnico:
+
+I. Preparar el programa de trabajo del Consejo;
+
+II. Elaborar y proponer al Presidente del Consejo el orden del día de las sesiones; verificar que se integre el quórum y elaborar las actas de las mismas;
+
+III. Integrar el archivo de las sesiones celebradas y los acuerdos tomados, adjuntando los documentos que las integren;
+
+IV. Dar seguimiento de los acuerdos tomados por el Consejo e informar al Presidente su grado de avance;
+
+V. Administrar los recursos humanos, financieros y materiales que se le asignen para el cumplimiento de sus atribuciones, en términos de las disposiciones aplicables a la administración pública estatal centralizada; y
+
+VI. Las demás que le asignen el Consejo o su Presidente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 203.
+
+Corresponde a los vocales del Consejo:
+
+I. Asistir puntualmente a las sesiones;
+
+II. Revisar, analizar, opinar y votar los asuntos que sean sometidos a la consideración del Consejo;
+
+III. Desempeñar cumplidamente las comisiones que le asigne el Consejo e informar de su avance o cumplimiento, en su caso;
+
+IV. Instrumentar el cumplimiento de los acuerdos asumidos en la dependencia, entidad o institución que represente; y
+
+V. Las demás que le asignen el Consejo o su Presidente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 204.
+
+Para el cumplimiento y operatividad de las acciones del Consejo, en la Secretaría de Salud se establecerá el Centro Estatal de Trasplantes, como una unidad administrativa de la misma.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 205.
+
+El Centro Estatal de Trasplantes, tendrá las siguientes funciones:
+
+I. Organizar y operar en el Estado las actividades de donación altruista y trasplantes de órganos, tejidos y células humanos;
+
+II. Realizar acciones tendentes a garantizar a la población el respeto y la protección del derecho a la libre donación de órganos, tejidos y células humanos, así como de ser sujeto de trasplante de éstos;
+
+III. Proponer y fortalecer la participación de la comunidad en la donación altruista y trasplantes de órganos, tejidos y células humanos;
+
+IV. Desarrollar las acciones que sean necesarias para mejorar la calidad de los procedimientos de trasplantes y para el eficiente servicio de salud en lo que se refiere a trasplantes y donación altruista de órganos, tejidos y células humanos;
+
+V. Promover, apoyar y llevar a cabo la capacitación en la materia de los profesionales, especialistas y técnicos;
+
+VI. Fomentar la formación de recursos humanos en la docencia, investigación y aplicación operativa de los trasplantes y de la cultura de donación altruista de órganos, tejidos y células humanos, llevándose a cabo bajo lineamientos que se establecen en la Ley General de Salud y este ordenamiento;
+
+VII. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones públicas, sociales y privadas, la investigación, estudio y análisis de aspectos específicos en materia de donación altruista y trasplantes de órganos, tejidos y células humanos;
+
+VIII. Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, análisis, estudio y recopilación de información, documentación e intercambio que realice en materia de donación altruista y trasplante de órganos, tejidos y células humanos;
+
+IX. Coadyuvar con las autoridades sanitarias federales y estatales en términos de los acuerdos o convenios de coordinación que al efecto se suscriban en lo referente al control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células humanos, así como de las actividades relacionadas con éstos, de los establecimientos en que se realicen dichos actos y de la actuación apegada a las disposiciones legales aplicables a la materia, de los profesionales de las disciplinas de la salud que intervengan en la extradición de órganos y tejidos o en trasplantes;
+
+X. Realizar con estricto apego a la ley, los estudios y documentar los resultados que se obtengan y que tiendan a mejorar los procedimientos de donación y trasplantes de órganos, tejidos y células humanos;
+
+XI. Operar y mantener actualizado en el Consejo Nacional de Trasplantes y con las autoridades sanitarias federales y estatales, el Registro Estatal de Trasplantes;
+
+XII. Coadyuvar con el Consejo Nacional de Trasplantes en la decisión y vigilancia de la asignación de órganos, tejidos y células humanos, en el ámbito de sus atribuciones;
+
+XIII. Emitir opiniones, acuerdos y resoluciones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y células humanos, así como con los procedimientos de los mismos, actividades relacionadas con éstas y respecto de los establecimientos en que se realicen dichos actos, ya sea de manera oficiosa, o bien, cuando éstas le sean requeridas por las autoridades sanitarias federales o estatales, así como por las autoridades judiciales;
+
+XIV. Atender los requerimientos e instrucciones del Consejo Estatal de Procuración y Trasplantes de Órganos en el ámbito de su competencia;
+
+XV. Fomentar y promover la cultura de donación altruista de órganos, tejidos y células humanos en el Estado;
+
+XVI. Coordinarse con las diferentes dependencias y autoridades federales y estatales para el cumplimiento de sus funciones;
+
+XVII. Utilizar los recursos que le sean asignados por la Secretaría de Salud, conforme a las normas administrativas que le señale esa dependencia;
+
+XVIII. Celebrar los convenios que sean necesarios para el cumplimiento de sus funciones, con la autorización del Consejo Estatal de Procuración y Trasplantes de Órganos;
+
+XIX. Realizar las demás acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación altruista de órganos, tejidos y células humanos;
+
+XX. Hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad, sin demérito de las atribuciones del Centro Nacional de Trasplantes para tales efectos;
+
+XXI. Promover en la sociedad las aportaciones altruistas de carácter económico a favor de las actividades del Centro, orientar a los aportantes sobre las formas de realizarlo e informar al Consejo y, por su conducto, a la Secretaría de Salud, de los recursos que pueden recibirse por esa vía, a fin de que se realicen las gestiones administrativas para documentar las aportaciones y aplicarlas al desarrollo del Centro; y
+
+XXII. Las demás que para el cumplimiento de sus funciones le confieran otros ordenamientos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 206.
+
+El Registro Estatal de Trasplantes de Tamaulipas tiene por objeto integrar la relación de donadores, potenciales receptores y receptores de órganos, tejidos y células humanos para trasplantes.
+
+En particular, le compete asegurar el eficaz cumplimiento y la puntual observancia de la voluntad de la persona que expresamente dona sus órganos, tejidos y células humanos en los términos previstos por la legislación aplicable.
+
+El Registro estará a cargo del Consejo Estatal de Trasplantes, por conducto del Centro Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 207.
+
+El Registro Estatal de Trasplantes tiene carácter reservado y únicamente tendrán acceso a su información:
+
+I. La autoridad judicial, cuando medie causa justificada;
+
+II. La autoridad sanitaria, cuando medie causa justificada;
+
+III. El Consejo Estatal de Trasplantes y Procuración de Órganos para el cumplimiento de sus funciones; y
+
+IV. Los establecimientos autorizados, conforme a la legislación aplicable, para la realización de trasplantes, en los casos y con las limitaciones que establece este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 208.
+
+Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador, deberán solicitar y obtener información del Registro Estatal de Trasplantes, así como la disposición que el mismo hubiese hecho respecto de sus órganos, tejidos y células, con objeto de proceder a la ablación de los órganos, tejidos y células humanos, una vez satisfechos los requisitos legales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 209.
+
+En la procuración de órganos, tejidos y células humanos para trasplantes se seguirá el siguiente procedimiento, según sea el caso, sin perjuicio de la normatividad federal aplicable:
+
+I. Los Coordinadores Hospitalarios establecerán una vigilancia continua en dichos establecimientos, para detectar el ingreso a ellos de pacientes en estado crítico, por lo que identificarán a los donadores potenciales, con apoyo en el personal médico correspondiente y tomarán las medidas pertinentes para determinar su viabilidad como donador; asimismo, se establecerá contacto con el Centro Estatal de Trasplantes, para verificar si el donador potencial se encuentra inscrito en el Registro Estatal de Trasplantes como donador con consentimiento expreso;
+
+II. Una vez emitido, en su caso, el diagnóstico clínico de muerte cerebral, el Coordinador Hospitalario solicitará y gestionará oportunamente la certificación de pérdida de vida para la disposición de órganos, tejidos y células humanos en los términos de la Ley General de Salud y de este ordenamiento;
+
+III. En caso de no localizar el consentimiento expreso del donador potencial, el Coordinador Hospitalario, con apoyo en los médicos tratantes, acudirá ante los familiares del paciente para notificar la muerte y solicitar la donación. Al efecto, procederá conforme a la prelación señalada en el artículo 191 de esta ley;
+
+IV. En todos los casos, para la disposición de órganos, tejidos o células humanos, el Coordinador Hospitalario avisará de inmediato al Centro Estatal de Trasplantes para que se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
+
+V. El Centro Estatal de Trasplantes establecerá comunicación inmediata con el Registro Nacional de Trasplantes y verificará la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia del caso, para la determinación de la asignación de los órganos, tejidos y células humanos;
+
+VI. Una vez determinada la asignación, se establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
+
+VII. De presentarse las condiciones óptimas para la intervención dentro del plazo más inmediato posible, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Coordinador Hospitalario, conjuntamente con el Director General del propio Hospital, se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo; y
+
+VIII. Habiéndose realizado el trasplante, el Coordinador Hospitalario dará aviso oportuno por escrito del procedimiento realizado al Centro Nacional de Trasplantes, al Registro Nacional de Trasplantes, al Centro Estatal de Trasplantes y al Registro Estatal de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 210.
+
+El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos, tejidos y células humanos destinados a ser trasplantados, así como a los potenciales receptores de la donación, cuando la urgencia del caso así lo amerite.
 
 T R A N S I T O R I O S
 
@@ -1862,3 +2308,29 @@ P.O. 15 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Acuerdo Gubernamental mediante el cual se creó el Consejo Estatal de Trasplantes del Estado de Tamaulipas, del 22 de febrero del 2000, publicado en el Periódico Oficial del Estado el 4 de mayo de 2000.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos, financieros y materiales que a la fecha estuvieren asignados al Consejo Estatal de Trasplantes, continuarán asignados al mismo, sin demérito de precisar los que corresponden al Centro Estatal de Trasplantes con la intervención de la Secretaría de Salud, de Finanzas y de Administración, así como de la Contraloría Gubernamental en los que les corresponda.
+
+###### ARTICULO CUARTO.
+
+El Consejo Estatal de Trasplantes a que refiere este Decreto deberá realizar su sesión de instalación conforme a lo previsto en las reformas y adiciones que se hacen a la Ley de Salud para el Estado mediante este instrumento, a más tardar 120 días naturales posteriores a su entrada en vigor, para lo cual el Presidente Ejecutivo girará los citatorios e invitaciones respectivos.
+
+###### ARTICULO QUINTO.
+
+El Ejecutivo del Estado podrá realizar las reasignaciones de recursos necesarios para que el Consejo Estatal de Trasplantes y el Centro Estatal de Trasplantes puedan cumplir con sus atribuciones en el presente ejercicio fiscal o, en su caso y para el mismo fin, hará las adecuaciones presupuestales con base en las disposiciones del Presupuesto de Egresos del Estado para el ejercicio fiscal en curso.
+
+###### ARTICULO SEXTO.
+
+El proyecto de Reglamento del Consejo Estatal de Trasplantes será propuesto por sus integrantes al Ejecutivo del Estado dentro de los noventa días naturales contados a partir de la fecha de la sesión de instalación del mismo.
