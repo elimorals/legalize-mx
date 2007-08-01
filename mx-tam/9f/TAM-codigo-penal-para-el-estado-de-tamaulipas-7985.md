@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-07-31"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -705,9 +705,11 @@ Las penas por delito culposo, con excepción de la reparación del daño, no exc
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al sentenciado por culpa.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 76.
 
-Si un delito de culpa es tan leve que no produce lesiones y causa solamente daño en propiedad ajena, por un valor menor de siete días de salario, sólo se sancionará con una multa hasta por la misma cantidad y la reparación del daño.
+No se impondrá pena alguna a quien por culpa provoque un daño en propiedad ajena que no exceda de cien veces el salario mínimo diario vigente en la capital del Estado, siempre y cuando no produzcan lesiones y el agente no se encuentre bajo el influjo de la ingestión de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares.
 
 ###### ARTICULO 77.
 
@@ -1845,7 +1847,7 @@ III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugar
 
 Al responsable del delito de lenocinio se le impondrá una sanción de cinco a diez años de prisión y multa de mil a dos mil días salario. Si el responsable del delito de lenocinio realiza su conducta con una persona menor de dieciséis años de edad, o por conducto de ésta, la sanción será de siete a doce años de prisión y multa de mil a dos mil días salario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 201.
 
@@ -2307,15 +2309,7 @@ En todos los delitos previstos en este capítulo, además de la sanción de pris
 
 ### CAPITULO II. ESTUPRO
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-###### ARTICULO 270.
-
-Comete el delito de estupro, al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, empleando abuso de autoridad u obteniendo su consentimiento por medio de engaño.
-
-Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 235.
 
@@ -2628,6 +2622,8 @@ Comete el delito de estupro quien tenga cópula con persona mayor de doce y meno
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 271.
 
@@ -3281,6 +3277,8 @@ Si en la comisión del delito de filicidio participara un médico, partero o enf
 
 ### CAPITULO VIII. DAÑO EN PROPIEDAD
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 356.
 
 Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
@@ -3395,11 +3393,11 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 ###### ARTICULO 373.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004).
 
 ###### ARTICULO 374.
 
-(DEROGADO, P.O. 4 DE JULIO DE 2007)
+(DEROGADO, P.O. 4 DE JULIO DE 2007).
 
 ###### ARTICULO 375.
 
@@ -3915,7 +3913,7 @@ Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes volunt
 
 ###### ARTICULO 433.
 
-Comete el delito de daño en propiedad, el que por cualquier medio cause destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero.
+Comete el delito de daño en propiedad, el que por cualquier medio cause destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, salvo que el importe del daño no exceda de diez veces el salario mínimo diario vigente en la capital del Estado.
 
 ###### ARTICULO 434.
 
@@ -4420,3 +4418,21 @@ P.O. 31 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado establecerá los juzgados de paz conforme a las disponibilidades de su presupuesto de egresos. En tanto se nombran y entran en funciones los jueces de paz, sus funciones serán desempeñadas por los jueces menores.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos civiles que sean competencia de los jueces de paz conforme a esta ley que se encuentren en trámite ante diversa autoridad al momento de su entrada en vigor, continuarán su trámite ante la misma autoridad conforme a las leyes aplicables al iniciarse el procedimiento correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con los hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
