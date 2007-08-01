@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2007-03-13"
+last_updated: "2007-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -6389,6 +6389,8 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, 
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 828.
 
 Para que sean aplicables las disposiciones de este Capítulo en la transmisión hereditaria del patrimonio familiar, es necesario que se pruebe que éste se ha constituido de conformidad a lo dispuesto por el Código Civil.
@@ -6417,7 +6419,7 @@ VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de i
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 830.
 
@@ -6457,7 +6459,7 @@ Siempre que haya oposición de algún aspirante a la herencia, el notario suspen
 
 ###### ARTICULO 836.
 
-En los negocios de la competencia de los juzgados menores se aplicarán las disposiciones de este Título, salvo que se trate de asuntos que deban tramitarse conforme a la Legislación Mercantil y a la Ley General de Títulos y Operaciones de Crédito, ya que entonces éstas serán las aplicables, en lo conducente.
+En los negocios de la competencia de los juzgados menores se aplicarán las disposiciones de este Título, salvo que se trate de asuntos que deban tramitarse conforme a la legislación mercantil, a la Ley General de Títulos y Operaciones de Crédito o la Ley de Justicia de Paz, ya que entonces éstas serán las aplicables, en lo conducente.
 
 ###### ARTICULO 837.
 
@@ -6469,11 +6471,7 @@ Los documentos y objetos presentados por las partes les serán devueltos al term
 
 ###### ARTICULO 839.
 
-Cuando ante un juez menor se discutan cuestiones que por su cuantía no merezcan tramitación de juicio, o bien asuntos estrictamente personales o familiares, se resolverá lo procedente en forma conciliatoria y en una sola audiencia de la que se levantará acta por triplicado; el original será agregado al cuaderno que para tal efecto debe llevarse, y las copias se entregarán a las partes.
-
-El juez nunca podrá obligar a los interesados a aceptar determinado acuerdo o convenio. Este, en su caso, que será complementario del acta, únicamente tendrá validez respecto de quienes lo firmen, hecho lo cual, el juez le otorgará su aprobación.
-
-Son nulas de pleno derecho las actas y convenios en que se resuelvan cuestiones que no sean de la competencia del juez menor.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2007)
 
 ###### ARTICULO 840.
 
@@ -6501,7 +6499,9 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ###### ARTICULO 844.
 
-Los negocios cuyo interés no exceda de cien veces al salario mínimo general vigente en la Capital del Estado, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Para los asuntos mayores de diez veces el salario mínimo se seguirá el procedimiento fijado para el juicio sumario; los que no excedan se resolverán conforme a los artículos siguientes.
+Los negocios cuyo interés no exceda de ciento cincuenta veces al salario mínimo diario general vigente en la Capital del Estado, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias.
+
+Para los asuntos mayores de cuarenta y cinco veces el salario mínimo se seguirá el procedimiento fijado en los artículos siguientes.
 
 ###### ARTICULO 845.
 
@@ -7448,3 +7448,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado establecerá los juzgados de paz conforme a las disponibilidades de su presupuesto de egresos. En tanto se nombran y entran en funciones los jueces de paz, sus funciones serán desempeñadas por los jueces menores.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos civiles que sean competencia de los jueces de paz conforme a esta ley que se encuentren en trámite ante diversa autoridad al momento de su entrada en vigor, continuarán su trámite ante la misma autoridad conforme a las leyes aplicables al iniciarse el procedimiento correspondiente.
+
+###### ARTICULO CUARTO.
+
+Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
