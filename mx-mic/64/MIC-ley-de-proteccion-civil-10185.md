@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-10185"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1993-12-23"
+last_updated: "2007-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 23 de diciembre de 1993.
 
@@ -121,25 +121,33 @@ VI.- Supervisar la elaboración y edición del Atlas Estatal de Riesgos;
 
 VII.- Proponer las reformas que se estimen necesarias a las leyes y reglamentos, que tengan relación con el objeto y funcionamiento del Organismo;
 
-VIII.- Vigilar la adecuada racionalización del uso y destino de los recursos que se asignen para la prevención, auxilio y apoyo a la población ante situaciones de grave riesgo colectivo o desastre;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-IX.- Evaluar la situación de desastre, la capacidad de respuesta de la Entidad y, en su caso, solicitar el apoyo al Sistema Nacional de Protección Civil;
+VIII.- Vigilar y garantizar la adecuada distribución y entrega de recursos económicos asignados para la prevención, auxilio y apoyo de la población ante situaciones de riesgo o desastre;
 
-X.- Constituirse en sesión permanente ante la concurrencia de un desastre, para tomar las determinaciones que procedan, a fin de garantizar el auxilio a la población afectada y su adecuada recuperación;
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-XI.- Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando problemas y proponiendo normas y programas que permitan acciones concretas;
+IX.- Vigilar y garantizar que los insumos donados en los centros de acopio sean entregados a los damnificados;
 
-XII.- Vigilar que las autoridades y personal de la Administración Pública Estatal, así como organizaciones voluntarias presten la información y colaboración oportuna y adecuada para el cumplimiento de sus objetivos;
+X.- Evaluar la situación de desastre, la capacidad de respuesta de la Entidad y, en su caso, solicitar el apoyo al Sistema Nacional de Protección Civil;
 
-XIII.- Constituir comisiones para el cumplimiento de sus funciones;
+XI.- Constituirse en sesión permanente ante la concurrencia de un desastre, para tomar las determinaciones que procedan, a fin de garantizar el auxilio a la población afectada y su adecuada recuperación;
 
-XIV.- Determinar las medidas de seguridad necesarias y las sanciones correspondientes, que deban imponerse por las infracciones a las disposiciones de esta Ley;
+XII.- Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando problemas y proponiendo normas y programas que permitan acciones concretas;
 
-XV.- Crear un fondo para la atención de desastres;
+XIII.- Vigilar que las autoridades y personal de la Administración Pública Estatal, así como organizaciones voluntarias presten la información y colaboración oportuna y adecuada para el cumplimiento de sus objetivos;
 
-XVI.- Expedir el Reglamento interno para el funcionamiento del Sistema Estatal de Protección Civil; y
+XIV.- Constituir comisiones para el cumplimiento de sus funciones;
 
-XVII.- Las demás que siendo congruentes con las anteriores, le atribuya esta Ley, sus Reglamentos y demás disposiciones aplicables.
+XV.- Determinar las medidas de seguridad necesarias y las sanciones correspondientes, que deban imponerse por las infracciones a las disposiciones de esta Ley;
+
+XVI.- Crear un fondo para la atención de desastres;
+
+XVII.- Expedir el Reglamento interno para el funcionamiento del Sistema Estatal de Protección Civil; y
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+XVIII.- Las demás que siendo congruentes con las anteriores, le atribuya esta Ley, sus reglamentos y demás disposiciones aplicables.
 
 ###### ARTICULO 11.
 
@@ -592,3 +600,11 @@ DIPUTADO PRESIDENTE.- ING. GUSTAVO LOPEZ MENDOZA.- DIPUTADO SECRETARIO.- MARGARI
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 22 días del mes de Diciembre de 1993, mil novecientos noventa y tres.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
