@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2007-07-20"
+last_updated: "2007-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2007.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -782,11 +782,11 @@ La sujeción a regímenes de servicio público se apegará a lo dispuesto por la
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 29.
 
-En los casos de invasión perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado, los Departamentos Administrativos y la Procuraduría General de la República y con aprobación del Congreso de la Unión, y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculos para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación, pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
+En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
 ### CAPITULO II.
 
@@ -1454,7 +1454,9 @@ XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranje
 
 1a.- El Consejo de Salubridad General dependerá directamente del Presidente de la República, sin intervención de ninguna Secretaría de Estado, y sus disposiciones generales serán obligatorias en el país.
 
-2a.- En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el País, el Departamento de Salubridad tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+
+2a.- En caso de epidemias de carácter grave o peligro de invasión de enfermedades exóticas en el país, la Secretaría de Salud tendrá obligación de dictar inmediatamente las medidas preventivas indispensables, a reserva de ser después sancionadas por el Presidente de la República.
 
 3a.- La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.
 
@@ -1934,33 +1936,33 @@ XIX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
 XX.- Las demás que le confiere expresamente esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 90.
 
-La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y Departamentos Administrativos y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
+La Administración Pública Federal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo de la Federación que estarán a cargo de las Secretarías de Estado y definirá las bases generales de creación de las entidades paraestatales y la intervención del Ejecutivo Federal en su operación.
 
-Las leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre estas y las Secretarías de Estado y Departamentos Administrativos.
+La (sic) leyes determinarán las relaciones entre las entidades paraestatales y el Ejecutivo Federal, o entre éstas y las Secretarías de Estado.
 
 ###### Art. 91.
 
 Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 92.
 
-Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán estar firmados por el Secretario de Estado o Jefe de Departamento Administrativo a que el asunto corresponda, y sin este requisito no serán obedecidos.
+Todos los reglamentos, decretos, acuerdos y órdenes del Presidente deberán estar firmados por el Secretario de Estado a que el asunto corresponda, y sin este requisito no serán obedecidos.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 93.
 
-Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos.
+Los Secretarios del Despacho, luego que esté abierto el periodo de sesiones ordinarias, darán cuenta al Congreso del estado que guarden sus respectivos ramos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
-Cualquiera de las Cámaras podrá citar a los secretarios de estado, al Procurador General de la República, a los jefes de los departamentos administrativos, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Cualquiera de las Cámaras podrá citar a los Secretarios de Estado, al Procurador General de la República, así como a los directores y administradores de los organismos descentralizados federales o de las empresas de participación estatal mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -2016,9 +2018,11 @@ Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince año
 
 Ninguna persona que haya sido Ministro podrá ser nombrada para un nuevo período, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+
 ###### Art. 95.
 
-Para ser electo Ministro de la Suprema Corte de Justicia de la Nación, se necesita:
+Para ser electo ministro de la Suprema Corte de Justicia de la Nación, se necesita:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
@@ -2036,9 +2040,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
-VI.-No haber sido secretario de estado, jefe de departamento administrativo, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
+VI.-No haber sido Secretario de Estado, Procurador General de la República o de Justicia del Distrito Federal, senador, diputado federal ni gobernador de algún Estado o Jefe del Distrito Federal, durante el año previo al día de su nombramiento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2560,11 +2564,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los Consejeros Electorales, y el Secretario Ejecutivo del Instituto Federal Electoral, los Magistrados del Tribunal Electoral, los Directores Generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los magistrados de Circuito y jueces de Distrito, los magistrados y jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los consejeros electorales, y el secretario ejecutivo del Instituto Federal Electoral, los magistrados del Tribunal Electoral, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2586,11 +2590,11 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
 ###### Art. 111.
 
-Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Magistrados de la Sala Superior del Tribunal Electoral, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Federal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el consejero Presidente y los consejeros electorales del Consejo General del Instituto Federal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5197,6 +5201,12 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- La Federación, los Estados y el Distrito Federal, en sus respectivos ámbitos de competencia, deberán expedir las leyes en materia de acceso a la información pública y transparencia, o en su caso, realizar las modificaciones necesarias, a más tardar un año después de la entrada en vigor de este Decreto.
 
 Tercero.- La Federación, los Estados y el Distrito Federal deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de la entrada en vigor del mismo. Las leyes locales establecerán lo necesario para que los municipios con población superior a setenta mil habitantes y las demarcaciones territoriales del Distrito Federal cuenten en el mismo plazo con los sistemas electrónicos respectivos.
+
+D.O.F. 2 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Congreso de la Unión al inicio de la vigencia del presente Decreto hará las adecuaciones correspondientes a la legislación federal, conforme a lo estipulado en este Decreto. Los estados y el Distrito Federal deberán adecuar sus leyes conforme a las disposiciones del presente Decreto a más tardar seis meses después de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
