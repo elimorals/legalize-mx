@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-05-30"
+last_updated: "2007-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -413,9 +413,15 @@ La prisión consiste en la privación de la libertad corporal del sujeto activo 
 
 En toda pena de prisión se computará el tiempo de detención y de prisión preventiva. Tratándose de dos o más penas de prisión, impuestas cada una en sentencias diferentes, se cumplirán invariablemente de manera sucesiva.
 
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 49.
 
-Cuando la prisión no exceda de tres años, el juez podrá suspender su ejecución en los términos que establece este código.
+Cuando la prisión no exceda de cinco años, el juez podrá suspender su ejecución en los términos que establece este código.
+
+Cuando se ejecute la orden de aprehensión y se dicte en el término auto de formal prisión en contra de una persona mayor de 70 años de edad, mujeres en los tres últimos meses de embarazo, discapacitados y personas enfermas declaradas por autoridad competente o afectadas por una enfermedad en fase terminal debidamente comprobada, el juez podrá ordenar que la prisión preventiva, se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan, con opinión de la representación social y previa garantía que haga de la reparación del daño, no así en los delitos leves, cuya pena máxima sea de tres años.
+
+No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su peligrosidad. En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
 
 ### CAPÍTULO V. TRATAMIENTO EN LIBERTAD O SEMILIBERTAD PERSONAL
 
@@ -783,9 +789,11 @@ Si el beneficiado con la libertad condicional dejare de cumplir con alguna de la
 
 ### CAPÍTULO IX. SUSPENSIÓN CONDICIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 96.
 
-El juez podrá suspender la ejecución de la pena privativa de libertad que no exceda de tres años, cuando el sentenciado:
+El juez podrá suspender la ejecución de la pena privativa de libertad que no exceda de cinco años, cuando el sentenciado:
 
 I. No revele peligrosidad social y haya observado buena conducta;
 
@@ -1132,6 +1140,12 @@ A quien en estado de ebriedad, bajo el influjo de alguna droga o en forma temera
 Si el conductor causare uno o más homicidios se le impondrán de cinco a veinte años de prisión y multa hasta de ochocientas veces el salario, además de la suspensión de cinco a diez años del derecho para conducir vehículos de motor.
 
 A los conductores de vehículos particulares que, conduciendo en las condiciones a que se refieren los párrafos anteriores, causen lesiones u homicidio, se les aplicará la pena prevista para los delitos culposos, aumentada hasta en una mitad.
+
+> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
+###### Artículo 147 Bis.
+
+Tratándose de lesiones culposas u homicidio culposo cometido por médicos en el ejercicio de sus funciones profesionales, el Agente del Ministerio Público deberá dentro de la integración de la investigación ministerial, solicitar a la Comisión de Arbitraje Médico del Estado de Veracruz, la expedición del dictamen técnico correspondiente.
 
 ### CAPÍTULO IV. INDUCCIÓN O AYUDA AL SUICIDIO
 
@@ -1519,7 +1533,9 @@ Igual sanción se aplicará a quien de manera individual o colectiva abuse de me
 
 A quien, sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico-sexual o la haga ejecutarlo, se le impondrán de uno a seis años de prisión y multa hasta de cien días de salario.
 
-Si la víctima es menor de catorce años o incapaz de comprender el significado del hecho o por cualquier causa no pueda resistir, se impondrán prisión de tres a ocho años y multa hasta de doscientos cincuenta días de salario.
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
+Si la víctima es menor de catorce años o incapaz de comprender el significado del hecho o por cualquier causa no pueda resistir, se impondrán prisión de cinco a ocho años y multa hasta de doscientos cincuenta días de salario.
 
 ###### Artículo 187.
 
@@ -1774,6 +1790,8 @@ IV. Contramarque o contraseñale animales ajenos en cualquier parte, sin derecho
 V. Expida certificados falsos para obtener guías simulando ventas; haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello; o use documentos falsificados para cualquier negociación sobre ganados o cueros.
 
 ### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 213.
 
@@ -2041,7 +2059,7 @@ No procederá el perdón para quien habiéndolo obtenido sea procesado nuevament
 
 ###### Artículo 241.
 
-Se impondrán de dos a seis años de prisión y multa de cien a trescientos días de salario al familiar que, sin causa justificada o sin orden de autoridad competente, sustraiga a una persona menor de dieciséis años de edad o a un incapaz, de la custodia o guarda de quien legítimamente la tenga o bien lo retenga sin la voluntad de éste.
+Al que le una parentesco con persona menor de dieciséis años de edad o incapaz, o al que por instrucciones de aquél, sin causa justificada o sin orden de autoridad competente, lo sustraiga de la custodia o guarda de quien la tenga de hecho o por derecho o bien lo retenga sin la voluntad de éste, se impondrá de dos a seis años de prisión y multa de cien a trescientos días de salario.
 
 ###### Artículo 242.
 
@@ -2062,6 +2080,12 @@ La misma pena se impondrá a quien con igual propósito reciba ilegalmente a un 
 Si el menor es trasladado fuera del territorio nacional, las sanciones serán de siete a veinte años de prisión y multa hasta de quinientos días de salario.
 
 Cuando en la comisión del delito no haya existido el consentimiento a que se alude en la fracción I, las penas se aumentarán hasta el doble.
+
+> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
+###### Artículo 243 Bis.
+
+Se impondrá prisión de diez a veinte años y multa hasta de mil días de salario mínimo a quien sustraiga en territorio veracruzano a un menor o incapaz de su seno familiar, para trasplantar de su cuerpo, al de otro individuo, tejidos u órganos, aunque esto se realice en territorio nacional o extranjero.
 
 ###### Artículo 244.
 
@@ -2116,6 +2140,8 @@ Se aplicarán las mismas sanciones en caso de que la cópula sea entre hermanos.
 A quien reiteradamente haga uso de la fuerza física o moral contra una persona incapaz, menor de dieciséis años o que no pueda resistir, sujeta o no a su custodia, guarda, protección, educación, instrucción o cuidado, se le impondrán de seis meses a seis años de prisión y multa hasta de trescientos días.
 
 ### CAPÍTULO III. PORNOGRAFÍA INFANTIL O DE INCAPACES
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
 
@@ -2465,9 +2491,13 @@ III. Cometer cualquier delito.
 
 No se considerarán corrupción de menores o de incapaces los programas o cursos educativos que impartan instituciones públicas o privadas, sobre funciones sexual o reproductiva, preventivos de enfermedades de transmisión sexual o de embarazo de adolescentes, siempre que esos programas o cursos estén debidamente aprobados por autoridad competente.
 
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 288.
 
-A quien emplee o permita que menores de dieciséis años laboren en cantinas, prostíbulos o algún centro de vicio, se le impondrán de uno a seis años de prisión y multa hasta de ochenta días de salario.
+A quien emplee o permita que menores de dieciséis años laboren en cantinas, prostíbulos o algún centro de vicio, se le impondrán de uno a seis años de prisión y multa hasta de ochenta días de salario y además, con cierre definitivo del establecimiento en caso de reincidencia.
+
+Para los efectos de este precepto se considerará como empleado en la cantina, prostíbulo o centro de vicio al menor de dieciséis años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
 ###### Artículo 289.
 
@@ -2477,11 +2507,13 @@ A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que 
 
 ###### Artículo 290.
 
-Se impondrán de cinco a quince años de prisión y multa hasta de quinientos días de salario a quien induzca, facilite u obligue por cualquier medio, a un menor de dieciséis años o a un incapaz a realizar actos sexuales o de exhibicionismo corporal, para fotografiarlos, filmarlos o exhibirlos mediante anuncios impresos, electrónicos o cualquier otro medio.
+Al que procure, facilite, induzca u obligue por cualquier medio a una persona menor de dieciséis años o incapaz a realizar actos de exhibicionismo corporal o sexuales, con el objeto de videograbarla, fotografiarla o exhibirla a través de difusión gráfica, fotográfica, analógica, digital y de cualquier otra especie tecnológica o medio de difusión, se le impondrán de siete a dieciséis años de prisión y multa de mil a cinco mil días de salario, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 291.
 
-La misma pena se impondrá a quien elabore, reproduzca, compre, venda, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
+Se impondrán las mismas sanciones a quien financie, elabore, reproduzca, comercialice, distribuya, compre, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
 
 ### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -2497,7 +2529,9 @@ III. Regentee, administre o sostenga prostíbulos, casas de cita o lugares de co
 
 IV. Por cualquier medio obligue o retenga a una persona para que ejerza la prostitución contra su voluntad; o
 
-V. Explote, regentee, induzca, solicite, encubra, concierte, permita, utilice u obtenga algún lucro del comercio sexual de un menor de edad o incapaz de comprender el hecho. En este caso se impondrán prisión de tres a doce años y multa hasta de quinientos días de salario.
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2007)</small>
+
+V. Explote, regentee, induzca, solicite, encubra, concierte, permita, utilice u obtenga algún lucro del comercio sexual de un menor de edad o incapaz de comprender el hecho. En este caso se impondrán prisión de seis a catorce años y multa hasta de quinientos días de salario.
 
 ###### Artículo 293.
 
@@ -3122,3 +3156,59 @@ G.O. 30 DE MAYO DE 2007.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo Segundo. Se derogan todas las disposiciones opuestas a este decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 888 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 186 DEL CODIGO.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 889 POR EL QUE SE ADICIONA EL ARTICULO 243 BIS AL CODIGO.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 890 POR EL QUE SE REFORMA LA FRACC. V DEL ARTICULO 292 DEL CODIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 891 POR EL QUE SE REFORMAN LOS ARTICULOS 49 Y 96 DEL CODIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 892 POR EL QUE SE REFORMA EL ARTICULO 241 DEL CODIGO.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 893 POR EL QUE SE REFORMAN LOS ARTICULOS 288, 290 Y 291 DEL CODIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 894 POR EL QUE SE ADICIONA EL ARTICULO 147 BIS AL CODIGO.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
