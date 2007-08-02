@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-07-31"
+last_updated: "2007-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -408,11 +408,15 @@ Los ciudadanos, mediante el ejercicio del voto, y de entre los candidatos propue
 
 La renovación de los poderes legislativo y ejecutivo y de los Ayuntamientos del estado se realizará mediante elecciones libres, auténticas y periódicas, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-I. El sufragio popular es un derecho político fundamental del ciudadano coahuilense. Este derecho será universal y su ejercicio libre, secreto y directo.
+I. El sufragio popular es un derecho y un deber político fundamental del ciudadano coahuilense. Este derecho será universal y su ejercicio libre, secreto, obligatorio y directo.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 El ciudadano coahuilense tendrá el derecho a ser votado para todos los cargos de elección popular, siempre que cumpla con las calidades que la ley establezca. La ley garantizará que las personas con capacidades diferentes gocen de instrumentos adecuados para facilitar su derecho a votar.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Los ciudadanos podrán afiliarse individual y libremente a los partidos políticos. Esta Constitución y la ley garantizan mecanismos democráticos para que los ciudadanos puedan hacer efectivos sus derechos políticos a votar, ser votados y de libre asociación a través del sistema de partidos políticos.
 
@@ -446,29 +450,59 @@ III. La organización de las elecciones locales y de los procedimientos del pleb
 
 El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituirá conforme a las bases siguientes:
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones y profesional en su desempeño.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 2. Gozará de autonomía presupuestal y financiera en los términos que establezca la ley.
 
-3. Sesionará en forma pública a través de un Consejo General, que será su órgano superior de dirección, integrado por cinco consejeros electorales que durarán en su encargo siete años.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-4. Los consejeros electorales propietarios y suplentes serán designados por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+3. Sesionará en forma pública a través de un Consejo General, que será su órgano superior de dirección, integrado por cinco consejeros electorales que durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+4.- Los consejeros electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno, en los términos y conforme a los procedimientos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 5. Los partidos políticos, en los términos que establezca la ley, tendrán derecho a contar con un representante propietario, con su respectivo suplente, por cada uno de ellos que participará con voz, pero sin voto, en las sesiones del Consejo General del Instituto.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 6. Contará en su estructura con órganos directivos, ejecutivos, técnicos y de vigilancia, en los términos que la ley establezca.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 7. La base de su funcionamiento será el servicio profesional electoral.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 8. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 9. Tendrá a su cargo, además de las atribuciones que le confiera la ley, la preparación, organización, desarrollo, vigilancia y validez del proceso electoral, de los procedimientos del plebiscito y del referendo, la validación del porcentaje ciudadano de la iniciativa popular y la salvaguarda del sistema de partidos políticos, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 El Instituto convocará a elecciones cuando fuere necesario. El Instituto calificará, en los términos previstos por la ley, las elecciones de gobernador, diputados y Ayuntamientos y emitirá las declaratorias de validez de las elecciones correspondientes y las comunicará a los poderes públicos del estado, para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Una vez que se emitan las declaraciones de validez o cuando fueren resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la elección de que se trate, el Instituto declarará formalmente electos al gobernador, a los diputados y a los presidentes municipales, regidores y síndicos de los Ayuntamientos del Estado de Coahuila de Zaragoza. Esta función sólo tendrá efectos declarativos y podrá ejercerse a través de los órganos del Instituto conforme lo establezca la ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2007)</small>
+
+Además deberá encargarse de difundir la cultura cívica con el objetivo de fomentar en los niños y jóvenes del sistema educativo publico y privado del estado la importancia de elegir a nuestros representantes populares, destinando el Congreso del Estado una partida presupuestal especial para el Instituto, para este fin.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 10. La ley determinará los requisitos para ser consejero electoral.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 11. Todo órgano, dependencia o entidad de los gobiernos estatal y municipal deberá colaborar con el Instituto, en los términos de las disposiciones aplicables, para el mejor ejercicio de sus funciones, bajo los principios de fidelidad estatal y municipal.
 
@@ -536,13 +570,17 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 33.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con quince diputados electos bajo el principio de representación proporcional, en los términos que disponga esta Constitución y la ley de la materia.
+El Congreso del Estado se renovará en su totalidad cada cuatro años y se integrará con veinte diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con once diputados electos bajo el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley reglamentaria entre aquellos partidos políticos o coaliciones que obtengan cuando menos el 3.5% de la votación válida emitida en el Estado para la elección de diputados.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Los diputados de mayoría relativa o de representación proporcional, siendo todos representantes populares, tendrán los mismos derechos y obligaciones.
 
@@ -570,7 +608,9 @@ IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas 
 
 V. El orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.
 
-VI. El tope máximo de diputados que puede alcanzar un partido o coalición por ambos principios, no deberá exceder del sesenta por ciento de los integrantes del Congreso del Estado en los términos que disponga la ley.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+VI. El tope máximo de diputados que puede alcanzar un partido o coalición por ambos principios, no excederá de veinte diputados en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -886,9 +926,9 @@ III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya
 
 IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
 
-(REFORMADA, P.O. 22 DE ABRIL DE 1994)(F. DE E., P.O. 10 DE MAYO DE 1994)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-V. Nombrar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
+V. Nombrar y, en su caso, ratificar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1968,7 +2008,7 @@ A. El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado 
 
 > <small>(F. DE E., P.O. 31 DE JULIO DE 2007)</small>
 
-I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala la fracción II del artículo 135 de esta Constitución, y funcionará en Pleno en los términos que disponga la ley.
+I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala la fracción II del artículo 135 de esta Constitución, y funcionará en pleno en los términos que disponga la Ley.
 
 II. La designación de los magistrados del Tribunal Electoral deberá contar con la aprobación de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado en la sesión de que se trate. El procedimiento de designación se sujetará a lo dispuesto por el artículo 146 de esta Constitución y demás leyes aplicables.
 
@@ -2008,9 +2048,9 @@ X. No se requerirá declaración de apertura o instalación para iniciar la func
 
 El Tribunal Electoral comunicará la conclusión del proceso electoral a las autoridades a que se refiere el párrafo anterior.
 
-Una vez declarada la conclusión del proceso electoral que corresponda y previos los avisos correspondientes, el Tribunal Electoral lo comunicará al Pleno del Tribunal Superior de Justicia y éste, oyendo la opinión del Consejo de la Judicatura, determinará la fecha de inicio de las actuaciones del Tribunal Electoral, como órgano auxiliar del Tribunal Superior de Justicia, asignándole la materia de la que deba conocer, sin perjuicio de que continúe conociendo de los asuntos propios de su competencia. En ese caso, su funcionamiento se regirá por las disposiciones que establezca la ley de la materia relativas a las Salas del Tribunal Superior de Justicia.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-La competencia en materia electoral y de participación ciudadana del Tribunal Electoral será preferente en su trámite y resolución a cualquier otra competencia que le corresponda como órgano auxiliar del Tribunal Superior de Justicia.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 XI. El Pleno del Tribunal Electoral emitirá su opinión sobre la acción de inconstitucionalidad de que conozca el Tribunal Superior de Justicia en materia electoral, sistema de partidos o de participación ciudadana. La ley regulará el procedimiento de la opinión jurisdiccional.
 
@@ -2380,7 +2420,7 @@ La Justicia Constitucional Local se erige dentro del régimen interior del Estad
 
 La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 41, 99, 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Cuando la autoridad jurisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
+Cuando la Autoridad Jurisdiccional considere en su resolución que una norma, es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -2482,7 +2522,7 @@ El Municipio Libre.
 
 El Gobierno Municipal.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2518,7 +2558,7 @@ Los gobiernos estatal y municipal y los organismos públicos autónomos, en la e
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2592,13 +2632,11 @@ IV. Iniciará sus funciones el primero de enero del año inmediato siguiente al 
 
 V. La ley de la materia introducirá el principio de representación proporcional en la elección de los Ayuntamientos, en todos los Municipios del Estado.
 
-VI. Cuando el presidente municipal electo no se presente a tomar posesión del cargo; o en caso de falta absoluta del presidente municipal, que ocurra durante los primeros seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un presidente municipal interino.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+VI. Cuando el presidente municipal electo no se presente a tomar posesión del cargo o en caso de falta absoluta, el Congreso del Estado, con la concurrencia de cuando menos dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos a un presidente municipal, quien se encargará de concluir el período. El nombramiento se hará conforme a la propuesta que realice la dirigencia estatal del partido político que haya obtenido el triunfo en el municipio correspondiente.
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, dentro de los noventa días siguientes al de la designación del presidente interino, expedirá la convocatoria para la elección del presidente municipal que deba concluir el período, debiendo precisar en la convocatoria, la fecha en que habrá de celebrarse dicha elección.
-
-Cuando la falta absoluta del presidente municipal ocurriere después de los seis meses del período correspondiente, el Congreso del Estado, con la concurrencia de cuando menos las dos terceras partes del total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un presidente municipal sustituto, quien se encargará de concluir el período.
+En el caso de coaliciones la ley reglamentaria determinara el procedimiento correspondiente.
 
 VII. Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será sustituido conforme el sistema de suplentes o se procederá de otra forma con arreglo a la ley.
 
@@ -4087,3 +4125,13 @@ P.O. 31 DE JULIO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los diputados electos en el proceso electoral a celebrarse en el año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el período comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el 1 de enero de 2012 para culminar el día 31 de diciembre de 2013.
