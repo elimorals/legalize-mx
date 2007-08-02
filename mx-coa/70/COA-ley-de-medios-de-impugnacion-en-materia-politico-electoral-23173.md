@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2007-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA POLITICO-ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -211,9 +211,11 @@ Se entiende por horas hábiles las que se señalen conforme a la Ley Orgánica d
 
 Para los efectos de este artículo, se entenderá que el proceso electoral ha concluido, cuando las constancias de mayoría o de asignación respectivas y las declaratorias de validez correspondientes, hayan quedado firmes e inatacables.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 23.
 
-Los medios de impugnación previstos en esta ley, deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con la ley aplicable.
+Los medios de impugnación previstos en esta ley, deberán presentarse dentro de los tres días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con la ley aplicable.
 
 ###### Artículo 24.
 
@@ -675,7 +677,7 @@ Si las resoluciones o sentencias del Tribunal Electoral no quedan cumplidas por 
 
 Todas las autoridades que tengan o deban tener intervención en el cumplimiento de una resolución o sentencia del Tribunal Electoral, estarán obligadas a realizar, dentro del ámbito de su competencia, los actos necesarios para su eficaz cumplimiento y estarán sujetas a las mismas responsabilidades y procedimientos a que aluden los artículos anteriores.
 
-### CAPÍTULO X. EL SISTEMA DE NULIDADES EN MATERIA ELECTORAL
+### CAPÍTULO IX. LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
 
 ###### Artículo 75.
 
@@ -695,7 +697,7 @@ V. Arresto hasta por treinta y seis horas.
 
 Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente del Tribunal Electoral o por el magistrado instructor, por sí mismos o con el apoyo de la autoridad competente.
 
-### CAPÍTULO IX. LOS MEDIOS DE APREMIO Y DE LAS CORRECCIONES DISCIPLINARIAS
+### CAPÍTULO X. EL SISTEMA DE NULIDADES EN MATERIA ELECTORAL
 
 ###### Artículo 77.
 
@@ -839,9 +841,11 @@ En los casos del artículo anterior, el Tribunal Electoral podrá modificar el a
 
 Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de gobernador, diputados o Ayuntamientos previstos en esta ley; el Tribunal Electoral declarará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 93.
 
-Todos los juicios electorales promovidos en el proceso electoral, durante la etapa de preparación de las elecciones, deberán estar resueltos en un plazo no mayor de dieciocho días a partir de su presentación, salvo el caso de extrema urgencia en que dicho plazo se podrá reducir a juicio del tribunal, sin que se afecten las garantías de las partes.
+Todos los juicios electorales promovidos en el proceso electoral deberán estar resueltos en un plazo no mayor de doce días a partir de que la autoridad responsable cumpla con las obligaciones previstas en los artículos 45 y 50 de esta ley; dicho plazo se podrá reducir a juicio del tribunal, sin que se afecten las garantías de las partes.
 
 Los demás juicios electorales que se promuevan fuera del proceso electoral, serán resueltos en un plazo máximo de treinta días contados a partir de la presentación del medio de impugnación de que se trate.
 
@@ -974,3 +978,11 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE JESUS RAUL SIFUENTES GUERRERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
