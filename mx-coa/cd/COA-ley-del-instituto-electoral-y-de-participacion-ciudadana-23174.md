@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-electoral-y-de-participacion-ciudadana-23174"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2001-11-16"
+last_updated: "2007-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 16 de noviembre de 2001.
 
@@ -169,7 +169,9 @@ IV. El Instituto manejará prudentemente su patrimonio conforme a la ley. En tod
 
 V. El Instituto podrá celebrar acuerdos con la dependencia del Poder Ejecutivo del Estado que corresponda, para que ésta coadyuve, total o parcialmente, en las funciones relacionadas con la administración, control y fiscalización de su patrimonio.
 
-VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el Instituto deberá observar las disposiciones aplicables a los órganos del gobierno del estado, según la materia de que se trate.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el Instituto deberá observar las disposiciones aplicables a los órganos del gobierno del estado, según la materia de que se trate, siempre y cuando dichas disposiciones no contravengan los principios rectores de la función electoral.
 
 ###### Artículo 20.
 
@@ -285,51 +287,75 @@ En todo caso, los representantes de los partidos políticos que sean designados 
 
 Los partidos políticos podrán sustituir en todo tiempo a sus representantes. Para tal efecto, comunicarán con toda oportunidad a través de su representante acreditado ante el Instituto, el aviso correspondiente al consejero presidente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE AGOSTO DE 2007)</small>
+
 APARTADO TERCERO
 
-LA DESIGNACIÓN DE LOS CONSEJEROS ELECTORALES
+LA DESIGNACIÓN DE CONSEJEROS ELECTORALES
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 34.
 
 La designación de los consejeros electorales, propietarios y suplentes, se sujetará al procedimiento siguiente:
 
-I. El Consejo General del Instituto emitirá una convocatoria pública para que cualquier ciudadano pueda inscribirse dentro del plazo de diez días naturales, para que su perfil sea tomado en cuenta para elaborar la lista a que se refiere la fracción siguiente.
+I. El Consejo General del Instituto, a más tardar noventa días naturales antes de concluir el periodo constitucional del cargo de consejero electoral, emitirá una convocatoria pública, para que cualquier ciudadano coahuilense, pueda inscribirse dentro del plazo de diez días naturales, a fin que pueda ser examinado el cumplimiento de los requisitos exigidos en la presente ley, para ocupar el cargo de consejero electoral, por conducto del propio Instituto Electoral.
 
-II. El Consejo General del Instituto enviará al Congreso del Estado, una lista de candidatos de cinco personas por cada cargo, propietarios y suplentes, para ocupar el cargo vacante de que se trate.
+II. Concluido el plazo para el registro de los aspirantes al cargo de consejero electoral, el Instituto Electoral, dentro de los siguientes diez días naturales, emitirá un dictamen que deberá ser aprobado, por las dos terceras partes de los integrantes del Consejo General, en el que señale el número de aspirantes registrados, y establezca quienes cumplieron con los requisitos exigidos en la presente Ley, mismos que continuarán con el procedimiento de selección.
 
-III. Los grupos parlamentarios de los diferentes partidos representados en el Congreso del Estado, dentro de la lista de candidatos a que se refiere la fracción que antecede, formularán sus propuestas al seno de una comisión plural del Congreso del Estado.
+III. Los aspirantes que hayan acreditado los requisitos legales, deberán sujetarse a un examen teórico y práctico por escrito, de conocimientos en materia electoral, siendo aplicado conjuntamente por dos instituciones de educación superior del Estado, una pública y otra privada, en los días y horas señalados por el Consejo General del Instituto, que en todo momento coordinará y vigilará lo relativo al procedimiento de aplicación del referido examen, el cual deberá ser efectuado, dentro de los diez días naturales siguientes.
 
-IV. La comisión plural realizará el dictamen correspondiente y lo presentará al Pleno del Congreso del Estado, para su discusión y, en su caso, aprobación.
+IV. Conocidos los resultados, el Instituto deberá remitir al Congreso del Estado, los expedientes de los aspirantes que hubieren acreditado los exámenes de que habla la fracción anterior, a fin de que este órgano legislativo dentro de los siguientes veinte días naturales, contados a partir de la fecha en que le sean enviados los expedientes, para que los convoque a comparecer en audiencia pública ante el Pleno del propio Congreso ó ante la Comisión que éste designe para tal efecto.
 
-V. Las dos terceras parte del total de los miembros del Congreso del Estado, aprobarán o rechazarán las designaciones de los consejeros electorales correspondientes.
+V. Concluido el período de audiencias, los grupos parlamentarios de los diferentes partidos representados en el Congreso del Estado, podrán formular sus propuestas del listado de aquellos aspirantes que hayan cumplido con cada uno de los requisitos establecidos en las fracciones anteriores, o en su caso propondrán la ratificación de alguno de los Consejeros Electorales que terminan su periodo, ante una Comisión plural del Congreso del Estado.
+
+VI. La Comisión plural realizará el dictamen correspondiente y lo presentará al Pleno del Congreso del Estado para su discusión y en su caso aprobación.
+
+VII. Las dos terceras partes de los miembros del Congreso del Estado, aprobarán o rechazarán las designaciones de los consejeros electorales.
 
 ###### Artículo 35.
 
 Para ser designado consejero electoral, propietario o suplente, se deberán cumplir los requisitos siguientes:
 
-I. Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles, mayor de 30 años de edad y menor de 65 años de edad.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+I. Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles, mayor de 27 años de edad el día de su designación.
 
 II. Estar inscrito en el registro federal de electores y contar con credencial para votar.
 
-III. Poseer al día de la designación título profesional o de formación equivalente y tener conocimientos en la materia político-electoral.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-IV. No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos tres años inmediatos a la fecha de su designación.
+III. Poseer al día del registro de aspirantes a ocupar el cargo, título profesional o de formación equivalente y tener conocimientos en la materia político-electoral.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+IV. No haber desempeñado en ningún caso, un cargo de elección popular federal, estatal o municipal.
 
 V. No desempeñar un cargo o comisión en cualquiera de los órganos del Instituto Federal Electoral u otro órgano electoral de entidades federativas, diferente al Instituto.
 
-VI. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, durante los últimos tres años inmediatos a la fecha de su designación.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-VII. No tener antecedentes de una militancia activa, pública y notoria en algún partido político, cuando menos tres años antes de su designación.
+VI. No haber sido en ningún momento, dirigente de un comité directivo, ejecutivo o equivalente de un partido político a nivel nacional, estatal o municipal, ni representante del mismo ante ningún organismo electoral en el país.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+VII. No tener antecedentes, en ningún caso de una militancia activa, pública y notoria en algún partido político.
 
 VIII. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 IX. Tener residencia en el estado durante los últimos tres años, salvo el caso de ausencia por desempeño de cargo público al servicio de la federación, del estado o del municipio.
 
-X. No ser Secretario de Estado, ni Procurador General de Justicia del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos de que se separe de su encargo con un año de anticipación al día de su nombramiento.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+X. No haber sido Secretario de Estado, ni Procurador General de Justicia del Estado o Subsecretario en la Administración Pública Federal, Estatal o Municipal.
 
 ###### Artículo 36.
 
 Los consejeros electorales, propietarios y suplentes, rendirán la protesta de ley ante el Congreso del Estado y durarán en su encargo siete años a partir del día en que surta efectos su designación.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+Los Consejeros Electorales propietarios podrán ser ratificados por el Congreso del Estado, por una sola ocasión, para el periodo inmediato posterior a aquel en que se hayan desempeñado como tales.
 
 ###### Artículo 37.
 
@@ -385,19 +411,23 @@ El Consejo General tendrá las atribuciones siguientes:
 
 I. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación y organización ciudadana; así como dictar las normas y previsiones destinadas a hacer efectivas tales disposiciones.
 
-II. Promover de manera permanente la educación cívica y la participación de los ciudadanos en los procesos electorales.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+II. Promover de manera permanente la educación cívica y la participación de los ciudadanos en los procesos electorales, así mismo desarrollar un programa de difusión para los niños y jóvenes del sistema educativo público y privado del Estado para dar a conocer la importancia de elegir a nuestros representantes populares.
 
 III. Celebrar convenios de apoyo y colaboración con autoridades federales, estatales o municipales, así como con el Instituto Federal Electoral.
 
 IV. Establecer la estructura administrativa de los órganos del Instituto.
 
-V. Establecer la integración, organización, funcionamiento y atribuciones de las Comisiones del Instituto y demás comisiones o subcomisiones que establezca esta ley o que cree el Consejo General, para el debido funcionamiento del Instituto.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+V. Establecer y regular la integración, organización, funcionamiento y atribuciones de las comisiones del Instituto y demás comisiones o subcomisiones que establezca esta ley o que cree el Consejo General para el debido funcionamiento del Instituto, con el número de miembros que para cada caso se determine.
 
 VI. Expedir los reglamentos interiores, circulares y lineamientos generales necesarios para el funcionamiento del Instituto y sus órganos.
 
 VII. Formular y aprobar el estatuto del Servicio Profesional Electoral.
 
-VIII. Acordar el funcionamiento e integración de las comisiones y/o subcomisiones que considere necesarias para el desempeño de sus funciones, con el número de miembros que para cada caso se determine y con las facultades que estime conveniente.
+VIII. (DEROGADA, P.O. 2 DE AGOSTO DE 2007)
 
 IX. Dirimir cualquier tipo de conflicto competencial entre los órganos del Instituto, resolviendo en definitiva.
 
@@ -405,7 +435,9 @@ X. Preparar, organizar, desarrollar y validar los procesos electorales, plebisci
 
 XI. Aprobar el proyecto de presupuesto anual de egresos del Instituto, a efecto de que el consejero presidente lo envíe al Ejecutivo del Estado para los efectos correspondientes.
 
-XII. Acreditar a los partidos políticos nacionales que, una vez satisfechos los requisitos que establece la ley de la materia, pretendan participar en los procesos locales.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+XII. Acreditar a los partidos políticos nacionales que, una vez satisfechos los requisitos que establece la ley de la materia, soliciten la inscripción de su registro.
 
 XIII. Resolver, en los términos de la ley aplicable, el otorgamiento o pérdida del registro de los partidos políticos y de las asociaciones políticas estatales.
 
@@ -415,13 +447,15 @@ La comisión revisará que los partidos solicitantes cumplan con los requisitos 
 
 XIV. Resolver sobre los convenios de coalición. Para este efecto, contará con una comisión de verificación para el registro de coaliciones, integrada por tres consejeros electorales. La comisión revisará que los partidos solicitantes cumplan con los requisitos que establece la ley de la materia.
 
-XV. Resolver sobre el registro de candidaturas comunes a los cargos de elección popular del estado o de los municipios.
+XV. (DEROGADA, P.O. 2 DE AGOSTO DE 2007)
 
-XVI. Propiciar condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social, y realizar las gestiones necesarias a fin de que éstos ofrezcan tarifas iguales a los partidos políticos participantes en un proceso electoral local.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+XVI. Regular los mecanismos para que los partidos políticos puedan acceder en forma equitativa a los medios de comunicación social y realizar las gestiones necesarias a fin de que estos ofrezcan tarifas iguales a los participantes en un proceso electoral local.
 
 XVII. Propiciar condiciones de equidad en la competencia electoral.
 
-XVIII. Regular los mecanismos para que los partidos políticos puedan acceder en forma equitativa a los medios de comunicación social.
+XVIII. (DEROGADA, P.O. 2 DE AGOSTO DE 2007)
 
 XIX. Monitorear el comportamiento de los medios de comunicación durante los procesos electorales.
 
@@ -459,9 +493,13 @@ XXXV. Realizar el cómputo estatal de la elección de Gobernador, declarar la va
 
 XXXVI. Realizar el cómputo estatal para la elección de diputados de representación proporcional, hacer la asignación correspondiente y entregar las constancias respectivas.
 
-XXXVII. Investigar por los medios legales pertinentes, cualesquiera de los hechos relacionados con el proceso electoral y, de manera especial, los que denuncien los partidos políticos y que se consideren contrarios a la ley.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
 
-XXXVIII. Expedir la reglamentación necesaria para regular la propaganda de los partidos políticos, así como establecer un sistema de mamparas y espacios específicos para colocar la propaganda que se utilizará durante el proceso electoral, a fin de evitar la contaminación visual y la afectación del entorno urbano y del medio ambiente.
+XXXVII. Dictaminar sobre cualesquiera de los hechos relacionados con el proceso electoral y, de manera especial, sobre los que denuncien los partidos políticos y que se consideren contrarios a la ley.
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+XXXVIII. Expedir la reglamentación necesaria para regular la propaganda de los partidos políticos, a fin de evitar contaminación visual y la afectación del entorno urbano y del medio ambiente.
 
 XXXIX. Supervisar, vigilar y auditar en cualquier tiempo el origen, el ejercicio y el destino de los recursos de los partidos políticos y de los candidatos.
 
@@ -599,7 +637,9 @@ III. La Comisión de Organización y Capacitación.
 
 IV. La Comisión de Participación Ciudadana.
 
-Estos órganos directivos funcionarán en forma permanente sin perjuicio de las demás comisiones que se prevean en esta ley u otras disposiciones aplicables o que sean creadas por el Consejo General, para la eficaz marcha del Instituto.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+Estos órganos directivos y las demás comisiones que se prevean en esta ley u otras disposiciones aplicables o que sean creadas por el Consejo General para la eficaz marcha del Instituto, funcionarán con el apoyo de las direcciones del Instituto.
 
 ###### Artículo 55.
 
@@ -617,19 +657,23 @@ El Consejo General podrá delegar funciones a las comisiones.
 
 Cada comisión estará integrada por tres consejeros electorales. De entre ellos, elegirán a un presidente de la Comisión, que coordinará los trabajos de la misma.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 58.
 
-Las comisiones del Consejo General contarán con el personal necesario para cumplir su función y que sea acordado por el Consejo General de acuerdo a la disponibilidad presupuestal del Instituto.
-
-En todo caso, el personal que integre cada una de las comisiones deberá ser especializado en la materia u objeto de la comisión.
+Las comisiones del Consejo General para realizar el desahogo de sus funciones contarán con el apoyo de las direcciones del Instituto, según la comisión de la cual se trate.
 
 APARTADO SEGUNDO
 
 LA COMISIÓN DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 59.
 
-La Comisión de Administración se encargará del manejo de los recursos financieros, humanos y técnicos del Instituto, cuidando en todo momento la correcta administración y ejercicio del presupuesto de egresos correspondiente.
+La Comisión de Administración se encargará de supervisar el manejo de los recursos financieros, humanos y técnicos del Instituto, cuidando en todo momento la correcta administración y ejercicio del presupuesto de egresos correspondiente.
+
+Las facultades de la Comisión de Administración se llevarán a cabo por conducto de la Dirección de Administración en los términos de las disposiciones aplicables.
 
 ###### Artículo 60.
 
@@ -669,9 +713,13 @@ APARTADO TERCERO
 
 LA COMISIÓN DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 61.
 
-La Comisión de Asuntos Jurídicos se encargará de las cuestiones legales relacionadas con el funcionamiento del Instituto.
+La Comisión de Asuntos Jurídicos se encargará de supervisar las cuestiones legales relacionadas con el funcionamiento del Instituto.
+
+Las facultades de la Comisión de Asuntos Jurídicos se llevarán a cabo por conducto de la Dirección de Asuntos Jurídicos en los términos de las disposiciones aplicables.
 
 ###### Artículo 62.
 
@@ -707,9 +755,13 @@ APARTADO CUARTO
 
 LA COMISIÓN DE ORGANIZACIÓN Y CAPACITACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 63.
 
-La Comisión de Organización y Capacitación se encargará de la organización, funcionamiento y vigilancia de los comités distritales y municipales electorales y de mesas directivas de casilla, a fin de promover el adecuado funcionamiento del proceso electoral, así como de la capacitación permanente de los ciudadanos que participarán como funcionarios, con la finalidad de que desempeñen correctamente su encomienda durante el desarrollo de la jornada electoral.
+La Comisión de Organización y Capacitación se encargará de supervisar la organización, funcionamiento y vigilancia de los comités distritales y municipales electorales y de mesas directivas de casilla, a fin de promover el adecuado funcionamiento del proceso electoral, así como de la capacitación permanente de los ciudadanos que participarán como funcionarios, con la finalidad de que desempeñen correctamente su encomienda durante el desarrollo de la jornada electoral.
+
+Las facultades de la Comisión de Organización y Capacitación se llevarán a cabo por conducto de la Dirección de Organización y Capacitación en los términos de las disposiciones aplicables.
 
 ###### Artículo 64.
 
@@ -753,15 +805,25 @@ XVIII. Presentar al consejero presidente un informe trimestral de su actuación.
 
 XIX. Cumplir y hacer cumplir los acuerdos del Instituto que se refieran a los asuntos de su competencia.
 
-XX. Las demás que le confiera esta ley, otras disposiciones aplicables o el Consejo General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2007)</small>
+
+XX. Elaborar y ejecutar el programa de educación cívica dirigido a los diferentes niveles de educación del estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2007)</small>
+
+XXI. Las demás que le confiera esta ley, otras disposiciones aplicables o el Consejo General.
 
 APARTADO QUINTO
 
 LA COMISIÓN DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 65.
 
-La Comisión de Participación Ciudadana se encargará de la instrumentación de los procedimientos del plebiscito, referendo, iniciativa popular e integración, vigilancia y certificación de los Consejos de Participación Ciudadana, en los términos de las disposiciones aplicables.
+La Comisión de Participación Ciudadana se encargará de supervisar la instrumentación de los procedimientos del plebiscito, referendo, iniciativa popular e integración, vigilancia y certificación de los Consejos de Participación Ciudadana, en los términos de las disposiciones aplicables.
+
+Los trabajos operativos se realizarán por los miembros del lnstituto designados por la Dirección General.
 
 ###### Artículo 66.
 
@@ -785,11 +847,11 @@ VII. Las demás que le confiera esta ley, otras disposiciones aplicables o el Co
 
 #### SECCIÓN PRIMERA. LA JUNTA GENERAL EJECUTIVA
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 67.
 
-La Junta General Ejecutiva del Instituto será presidida por el consejero presidente del Consejo General y se integrará por el Director General y el Secretario Técnico.
-
-La Junta General Ejecutiva deberá reunirse por lo menos una vez al mes y sus sesiones se desarrollarán en lo conducente, en los términos previstos por el artículo 39 de esta ley.
+La Junta General Ejecutiva del Instituto será presidida por el consejero presidente del Consejo General y se integrará por el Director General y el Secretario Técnico, así como los directores de área del Instituto.
 
 ###### Artículo 68.
 
@@ -843,7 +905,9 @@ Los comités distritales electorales son órganos encargados de la preparación,
 
 En cada uno de los distritos electorales en que se divida el estado, funcionará un comité distrital electoral, con residencia en la cabecera del distrito correspondiente.
 
-Los comités distritales electorales podrán contar, para su auxilio, con delegados municipales designados por el Consejo General del Instituto, a propuesta de su consejero presidente, los que serán suficientes para cubrir las necesidades que por el número de electores y la configuración del distrito se presenten.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+Los comités distritales electorales podrán contar, para su auxilio, con delegados municipales los que serán suficientes para cubrir las necesidades que por el número de electores y la configuración del distrito se presenten.
 
 ###### Artículo 72.
 
@@ -897,7 +961,9 @@ IX. Enviar la documentación del cómputo distrital al Instituto, para que éste
 
 X. Remitir al Instituto copia certificada por el secretario, de las actas de las sesiones que celebre e informar sobre el desarrollo de sus funciones.
 
-XI. Designar al personal técnico, auxiliar, administrativo y manual que sea necesario para el desempeño de sus funciones, previa consulta con el Consejo General.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+XI. Designar al personal técnico, auxiliar, administrativo y manual que sea necesario para el desempeño de sus funciones, previa consulta con la Dirección General.
 
 XII. Auxiliar a los comités municipales electorales de su jurisdicción en el proceso de capacitación y selección de funcionarios de las mesas directivas de casilla.
 
@@ -949,7 +1015,9 @@ I. Observar la ley y los acuerdos que dicte el Consejo General en el ámbito de 
 
 II. Intervenir dentro de su jurisdicción en la preparación, organización, desarrollo y vigilancia de los procesos electorales de gobernador y Ayuntamientos.
 
-III. Elaborar y ejecutar un programa de capacitación electoral a ciudadanos que servirá para designar a los funcionarios de las mesas directivas de casilla, bajo los lineamientos que para tal efecto emita el Consejo General.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+III. Ejecutar un programa de capacitación electoral a ciudadanos que servirá para designar a los funcionarios de las mesas directivas de casilla, bajo los lineamientos que para tal efecto emita el Consejo General.
 
 IV. Participar en la designación de funcionarios de casilla en los términos que establezca la ley correspondiente.
 
@@ -961,7 +1029,9 @@ VII. Seleccionar los lugares en que habrán de ubicarse las casillas en cada una
 
 VIII. Remitir al Consejo General copia de las actas de cada una de las sesiones que celebre e informar sobre el desarrollo del proceso electoral.
 
-IX. Designar al personal técnico, auxiliar, administrativo y manual que sea necesario para el desempeño de sus funciones, previa consulta con el Consejo General.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+IX. Designar al personal técnico, auxiliar, administrativo y manual que sea necesario para el desempeño de sus funciones, previa consulta con la Dirección General.
 
 X. Realizar el cómputo municipal de la votación para Gobernador del Estado y remitir al Instituto los resultados de la misma.
 
@@ -1001,7 +1071,9 @@ El Instituto vigilará que se cumplan los derechos laborales del ciudadano y pon
 
 Para ser integrante de la mesa directiva de casilla se requiere:
 
-I. Ser ciudadano residente en la sección electoral que comprenda la casilla.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+I. Ser ciudadano residente en la sección electoral que comprenda la casilla. En el caso del secretario técnico preferentemente se buscará que cumpla con este requisito.
 
 II. Estar inscrito en el registro federal de electores y contar con credencial para votar.
 
@@ -1012,6 +1084,10 @@ IV. Saber leer y escribir y tener un modo honesto de vivir.
 V. Haber participado en los cursos de capacitación electoral a ciudadanos impartidos por los órganos electorales.
 
 VI. No ser servidor público de confianza con mando superior, ni tener cargo de dirección partidista.
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+VII. Los secretarios técnicos tendrán que ser personas que no hayan militado en un partido político ni hayan sido representantes de aquellos ante cualquier órgano electoral.
 
 ###### Artículo 86.
 
@@ -1229,6 +1305,10 @@ La Comisión de Vigilancia, Evaluación y Disciplina es el órgano de control in
 
 Se integrará por tres consejeros electorales propietarios y por el Director General. De entre ellos elegirán a un presidente, que coordinará los trabajos de la comisión.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+Los trabajos operativos se realizarán por los miembros del Instituto designados por la Dirección General.
+
 ###### Artículo 95.
 
 La Comisión de Vigilancia, Evaluación y Disciplina tendrá las atribuciones siguientes:
@@ -1248,6 +1328,10 @@ V. Conocer, tramitar y, en su caso, resolver los procedimientos disciplinarios e
 La Comisión de Contraloría y de Fiscalización tendrá a su cargo la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones del Instituto, de los partidos políticos, así como la aplicación de las políticas, criterios y lineamientos generales establecidos por el Consejo General.
 
 Se integrará por tres consejeros electorales propietarios y por el Director General. De entre ellos elegirán a un presidente, que coordinará los trabajos de la comisión.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+Los trabajos operativos se realizarán por los miembros del Instituto designados por la Dirección General.
 
 ###### Artículo 97.
 
@@ -1628,3 +1712,11 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE JESÚS RAUL SIFUENTES GUERRERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE AGOSTO DE 2007.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
