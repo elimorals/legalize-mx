@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2007-05-11"
+last_updated: "2007-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2097,13 +2097,15 @@ DELITOS CONTRA LA SOCIEDAD
 
 ###### ARTÍCULO 260.
 
-PREVENCIÓN GENERAL CON RELACIÓN A ELEMENTO SUBJETIVO ESPECÍFICO Y A LA CONSUMACIÓN DE LAS CONDUCTAS TÍPICAS DE ESTE TÍTULO. Las conductas que previene este título se sancionan penalmente y se deben consumar premeditadamente para incumplir, falsear, alterar e impedir el proceso electoral en cualquiera de sus fases.
+(DEROGADO, P.O. 2 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 261.
 
 PREVENCIÓN GENERAL CON RELACIÓN A TERMINOLOGÍA. Para los efectos de este título, se entiende por:
 
-I. FUNCIONARIO ELECTORAL. Quienes en los términos del Código Electoral del Estado, integren los órganos que cumplen las funciones públicas electorales.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2007)</small>
+
+I. FUNCIONARIO ELECTORAL. Quienes desempeñen un cargo, empleo o comisión de cualquier naturaleza en los términos de la Ley de Instituciones Políticas y Procedimientos Electorales y de la Ley del Instituto Electoral y de Participación Ciudadana de Coahuila.
 
 II. FUNCIONARIO PARTIDISTA. Los dirigentes de un partido político, sus candidatos y los ciudadanos a quienes los partidos políticos otorgan representación para actuar en el proceso electoral.
 
@@ -2206,6 +2208,10 @@ XII. COACCIÓN AL COMPROMISO DEL VOTO. Obligue a la declaración firmada del ele
 ###### ARTÍCULO 266.
 
 SANCIONES Y FIGURAS TÍPICAS DE PROPICIAR LA INSTALACIÓN ILEGAL DE CASILLA O USURPACIÓN DE FUNCIONES ELECTORALES. Se impondrá multa de cincuenta a doscientas veces el salario mínimo y prisión de uno a seis años, al ciudadano que propicie intencionalmente la instalación ilegal de una casilla electoral o usurpe funciones electorales.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 266 BIS. Se aplicará prisión de tres a cinco años y multa a quienes, para ejercer un derecho o con pretexto de ejercerlo, o para evitar que se cumpla una ley, se reúnan tumultuariamente en el interior o en el exterior del local de una autoridad, empleen violencia física o psicológica en las personas o con daño sobre las cosas, o amenacen con actos violentos e inmediatos de igual clase a la autoridad electoral para obligarla a tomar una determinación o evitar que la autoridad electoral cumpla con las obligaciones que le impone la ley.
 
 #### SECCIÓN SEGUNDA. DELITOS COMETIDOS POR FUNCIONARIOS ELECTORALES
 
@@ -2903,7 +2909,7 @@ Para proceder penalmente por cualquiera de las conductas previstas en este artí
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
+ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3853,7 +3859,7 @@ II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
 
 ###### ARTÍCULO 387.
 
-CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACIÓN O DE LA EQUIPARADA A LA VIOLACIÓN. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
+CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPARADA A LA VIOLACION. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
 
 I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
@@ -4542,3 +4548,9 @@ P.O. 11 DE MAYO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
