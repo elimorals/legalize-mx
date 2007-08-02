@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-07-19"
+last_updated: "2007-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2007.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -880,6 +880,10 @@ Lo dispuesto en este artículo se aplicará también, en lo conducente, cuando s
 Iniciada la investigación ministerial, ésta tenderá a probar el cuerpo del delito en el caso que se indaga, las circunstancias en que fue cometido, la identidad y responsabilidad de quienes participaron en él, así como a salvaguardar los legítimos intereses de la víctima u ofendido, asegurar las personas y cosas relacionadas con los hechos, precisar los daños y perjuicios causados y cuanto más sea conducente a desarrollarla conforme a su naturaleza y finalidades.
 
 El Ministerio Público tomará o solicitará inmediatamente las medidas precautorias que estime procedentes, en relación con las personas o con los bienes relacionados con la investigación.
+
+> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
+En su caso, el Ministerio Público tendrá como obligación solicitar los dictámenes técnicos emitidos por la Comisión de Arbitraje Médico del Estado, a fin de ser considerados en la integración de la investigación ministerial.
 
 A través de los elementos de convicción que obren en la investigación ministerial, se determinará, en su caso, la procedencia del ejercicio de la acción penal.
 
@@ -1869,67 +1873,99 @@ El juez o tribunal reconocerá el valor de las pruebas aportadas a la investigac
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTOS
 
-### CAPÍTULO I. PROCEDIMIENTO SUMARIO
+> <small>(REFORMADO EN SU DENOMINACION, G.O. 2 DE AGOSTO DE 2007)</small>
+
+### CAPÍTULO I. DE LOS JUICIOS ORALES SUMARIOS
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 279.
 
-El procedimiento sumario se tramitará de la manera siguiente:
+El juicio oral sumario se tramitará conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
+I. Al dictar el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del juicio oral sumario en los casos de delitos cuyo término medio aritmético de la pena aplicable no exceda de 6 años;
 
-I. Al dictarse el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad no exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de quince días;
+II. En los casos de delitos cuyo término medio aritmético de la pena aplicable sea mayor al límite que prevé la fracción anterior, el juez resolverá de oficio y de inmediato la apertura del juicio oral sumario, si se da alguno de los siguientes supuestos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+a) Se trate de delito flagrante; o
 
-II. Al dictarse el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de treinta días, cuando se esté en cualquiera de los casos siguientes:
+b) Exista confesión ante la autoridad judicial o ratificación ante ésta de la confesión que se rindió en la investigación ministerial, apoyada con otros medios de prueba como se establece en este Código;
 
-a) Se trate de delito flagrante;
+III. En el caso de concurso de delitos, se tomará en cuenta para los efectos de la fracción anterior, el supuesto de mayor penalidad.
 
-b) Exista confesión ante la autoridad judicial o ratificación ante ésta de la que se rindió en la investigación ministerial, apoyada con otros medios de prueba como se establece en este Código; o
-
-c) El término medio aritmético de la pena de prisión aplicable no exceda de cinco años.
-
-Una vez que el juzgador acuerde cerrar la instrucción citará para la audiencia a que se refiere el artículo 296; y
-
-> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
-
-III. Dictado el auto de formal prisión o de sujeción a proceso, si las partes manifiestan su conformidad dentro de los tres días siguientes a la notificación y no tienen más pruebas que ofrecer, se continuará el procedimiento sumario en los términos establecidos en este Código.
-
-El inculpado podrá optar por el procedimiento ordinario dentro de los tres días siguientes al en que se le notifique la incoación del juicio sumario.
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 280.
 
-Si el auto de formal prisión se dicta a dos o más personas, únicamente se abrirá el procedimiento sumario si todos los procesados estuvieren de acuerdo con lo dispuesto en el artículo anterior.
+Si el auto de formal prisión se dicta a dos o más personas, únicamente se abrirá el juicio oral sumario si todos los procesados estuvieren de acuerdo en que así sea, de conformidad con lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 281.
 
-El acuerdo de apertura del procedimiento sumario se revocará para seguir el ordinario cuando así lo soliciten el inculpado o su defensor; en este último supuesto, será necesaria la ratificación de aquél dentro de los tres días siguientes a la notificación del auto relativo. De revocarse, se abrirán los términos del procedimiento ordinario previsto en el capítulo II de este Título.
+El acuerdo de apertura del juicio oral sumario se revocará, para seguir el procedimiento ordinario, cuando así lo soliciten dentro de los tres días siguientes a la notificación del auto relativo, el inculpado o su defensor; en este último supuesto, será necesaria la ratificación del inculpado, la que deberá efectuarse en un término similar de tres días.
 
-> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+De revocarse el acuerdo, se abrirá el procedimiento ordinario en los términos previstos en el capítulo II de este Título.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 282.
 
-Acordada la apertura del juicio sumario, en los casos a que ser refiere la fracción I del artículo 279 de este Código, se concederá un término común de quince días, para el ofrecimiento y desahogo de pruebas y de treinta días en los de su fracción II.
+Acordada la apertura del juicio oral sumario, se convocará a una audiencia pública para el desahogo de pruebas, en la que se recibirán las mismas bajo las reglas siguientes:
+
+I. Las documentales, se desahogarán conforme a su propia naturaleza y deberán ofrecerse y ratificarse, en su caso, en la propia audiencia, por la parte oferente;
+
+II. Para la inspección y reconstrucción de hechos; para el reconocimiento y la confrontación y para la prueba presuncional o circunstancial, se estará a lo previsto en este Código, debiéndose ofrecer en un término no mayor a tres días, a partir de que surta efectos la notificación del auto de apertura del juicio y agotar su desahogo tres días antes de la audiencia, ratificándose el contenido de dichas actuaciones previas durante la misma;
+
+III. Para las pruebas periciales, se procederá en la misma forma prevista en la fracción anterior y el juez recabará los dictámenes definitivos hasta tres días antes de la audiencia. El dictamen pericial se rendirá conforme a las reglas de este Código. Obtenidos los dictámenes y conocidos por las partes, se citará a los peritos a la audiencia para que en ella los ratifiquen y, en su caso, sean interrogados por las partes. Cuando fuere necesario, el juez podrá de oficio nombrar un perito tercero en discordia, para que en un término no mayor al que se le otorgó a las partes, rinda y ratifique su dictamen. Este perito también deberá presentarse a la audiencia, en los mismos términos y condiciones que sus pares;
+
+IV. Para las pruebas testimoniales y careos o para la ampliación de la confesión en términos del artículo 216, se ofrecerán y recibirán dichas probanzas en el marco de la citada audiencia y su desahogo y valoración se regirán por los principios de oralidad, inmediatez, concentración, contradicción y publicidad; pudiendo tanto el juzgador como las partes interrogar al procesado y, en su caso al agraviado y a los testigos, en términos del artículo 251 de este Código;
+
+V. Al concluir la recepción de las pruebas, el juez conminará a las partes a verter sus alegatos finales, sin detrimento al derecho que tienen de presentar sus conclusiones por escrito, en términos del artículo 283 de este ordenamiento. Habiéndose expuesto los alegatos, se dará por cerrada la audiencia;
+
+VI. Entre el acuerdo de inicio del juicio oral sumario y la realización de la audiencia de mérito, no deberá transcurrir un plazo mayor a cuarenta días hábiles;
+
+VII. El juez acordará lo que corresponda en cuanto a los citatorios, la preparación de las probanzas, las medidas de apremio que se requieran para la adecuada realización de la audiencia y su eventual diferición (sic), en términos de lo dispuesto por este Código, siendo aplicable en lo conducente el Reglamento de los Juicios Orales Sumarios, expedido por el Consejo de la Judicatura del Poder Judicial del Estado;
+
+VIII. La audiencia sólo podrá diferirse mediante auto debidamente fundado y motivado, sin que pueda excederse de forma alguna el término previsto en la fracción VI de este mismo artículo;
+
+IX. Antes del inicio de la audiencia y, cuando resulte oportuno, durante el desarrollo de ésta, el juez expondrá a las partes las opciones de que disponen para la resolución pronta de su controversia, mediante la aplicación de las disposiciones de la vigente Ley de Medios Alternativos para la Solución de Conflictos. En caso de haber conformidad entre las partes y de ser posible a criterio del juez, se declarará concluido el juicio oral sumario y se remitirá el expediente para su tramitación conforme al ordenamiento antes referido.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 283.
 
-Recibidas las pruebas o renunciado el término, el Ministerio Público y la defensa formularán sus conclusiones en un término improrrogable de tres días para cada uno.
+Una vez cerrada la audiencia de presentación y desahogo de pruebas en el juicio oral sumario, el Ministerio Público y la defensa deberán formular sus conclusiones en un término improrrogable de tres días.
+
+En caso de no hacerlo, el juez tomará como conclusiones los alegatos vertidos en la audiencia, y procederá a estudiar el expediente para emitir la sentencia.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 284.
 
-Recibidas las conclusiones el juez citará para la audiencia que se llevará a cabo dentro de tres días. Cumplido lo anterior, la sentencia se dictará dentro de un término de tres días.
+El juez citará a las partes a escuchar la sentencia, en una audiencia para tal fin, que deberá celebrarse en un plazo no mayor a diez días hábiles contados a partir de haber expirado el término para la presentación de las conclusiones.
+
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 285.
 
-En los casos de lesiones, el juez o tribunal recabará los dictámenes periciales definitivos.
+La sentencia deberá darse a conocer a las partes en la audiencia mencionada en el artículo anterior, y deberá emitirse en términos de lo previsto por el artículo 298 de este Código.
 
-El dictamen pericial se rendirá conforme a las reglas de este Código. Obtenidos los dictámenes y convocadas previamente las partes para que asistan si lo desean, se citará inmediatamente a los peritos para una audiencia en la que los ratifiquen y lleven a cabo la junta respectiva.
-
-Si no se pusieren de acuerdo, el juez nombrará un perito tercero en discordia, para que en un término no mayor al que se le otorgó a las partes rinda y ratifique su dictamen.
+> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 286.
 
-Las resoluciones en el juicio sumario a que se refiere la fracción I del artículo 279 únicamente admiten el recurso de apelación contra el auto de plazo constitucional y sentencia definitiva.
+Las resoluciones en el juicio oral sumario, podrán ser impugnadas mediante el recurso de revocación, que en este caso será resuelto por el juez en la misma audiencia de que se trate. Contra la sentencia definitiva, sólo se admitirá el recurso de apelación.
+
+> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
+
+###### Artículo 286 Bis.
+
+Las actuaciones procesales celebradas en las audiencias, deberán registrarse por escrito, por video, audio o cualquier otro medio electrónico que garantice su reproducción.
+
+Las partes tendrán acceso a estos registros, que quedarán bajo custodia del Órgano Jurisdiccional. Para la emisión de copias o reproducciones de los mismos, se estará a lo que prevé este Código para la expedición de documentos certificados y su presentación como prueba deberá ser de manera íntegra, las partes no podrán hacer ediciones o cortes a la prueba de mérito.
+
+Cuando se pretendan utilizar registros de video o audio en el juicio oral sumario, se deberá preservar el original en condiciones que aseguren su inalterabilidad, sin perjuicio de la obtención de copias o reproducciones que podrán utilizarse para otros fines del proceso.
 
 ### CAPÍTULO II. PROCEDIMIENTO ORDINARIO
 
@@ -2207,7 +2243,7 @@ Si el motivo de la apelación fuere un (sic) sentencia absolutoria, se tratará 
 
 Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días declarará si el recurso ha sido bien o mal admitido. En el último caso, se devolverán los autos al juzgado de su origen.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2007)</small>
 
 ###### Artículo 324.
 
@@ -3096,3 +3132,21 @@ G.O. 19 DE JULIO DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 887.
+
+Primero. El presente Decreto surtirá efectos 120 días después de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+Tercero. El Consejo de la Judicatura del Poder Judicial del Estado expedirá, en un plazo no mayor a 90 días del inicio de la vigencia de esta Ley, el Reglamento de Juicios Orales Sumarios, que tendrá aplicación supletoria en la materia regulada por esta (sic) reformas.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 894.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
