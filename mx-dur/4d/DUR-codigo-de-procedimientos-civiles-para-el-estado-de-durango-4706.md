@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2004-05-02"
+last_updated: "2007-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -835,21 +835,23 @@ VIII.- En los demás casos que la Ley disponga.
 
 Cuando variare el personal de un Tribunal, no se proveerá decreto haciendo saber el cambio, salvo que éste ocurriere cuando el negocio esté pendiente únicamente de la sentencia, sino que al margen del primer proveído que se dictare, después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 116.
 
-La primera notificación al promovente, a los terceros que no sean parte en el juicio y las demás notificaciones personales posteriores al emplazamiento y a que se refieren las Fracciones II a VIII del Artículo 114, se harán personalmente al interesado o a su representante o procurador, en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y la hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega.
+Las notificaciones personales se harán conforme a las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+I. Cuando deban hacerse al demandado o actor, terceros o persona extraña al juicio, con domicilio o casa señalados para oír notificaciones en el lugar de la residencia del juez o tribunal que conozca del asunto, el notificador respectivo buscará a la persona a quien deba hacerse, para que la diligencia se entienda directamente con ella; si no la encontrare, le dejará citatorio para hora fija del día siguiente en que no se hubiere notificado; y si no espera, se hará la notificación por cédula.
+
+El citatorio se entregará a los parientes, empleados o domésticos del interesado, o a cualquier otra persona que viva en la casa o trabaje en el despacho, después de que el notificador se haya cerciorado de que vive allí la persona que debe ser notificada o que sea el domicilio señalado; de todo lo cual asentará razón en autos. Si la notificación debe hacerse en la casa o despacho señalado para oír notificaciones, el notificador entregará el citatorio a las personas que vivan en esa casa o se encontraren en el despacho, asentando razón en el expediente. El citatorio contendrá una síntesis de la resolución que deba notificarse.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 117.
 
-Si se tratare del emplazamiento y no se encontrare al demandado, se le hará notificación por cédula.
+Si se tratare del emplazamiento o de las establecidas en las fracciones II a VIII del artículo 114 y no se encontrare a la persona que se notifica previo citatorio, se entregará la cédula junto con los documentos de traslado o resolución a notificar, a los parientes, empleados o domésticos del interesado, o a cualquier otra persona que viva en la casa o trabaje en el despacho, después de que el notificador se haya cerciorado de que vive allí la persona que debe ser notificada o que sea el domicilio señalado; de todo lo anterior se asentará razón en autos.
 
-La cédula, en los casos de este Artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquier persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser notificada; en la razón que se asentará del acto, se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado que ahí tiene su domicilio la persona buscada.
-
-Además de la cédula, se entregará a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copias simples de los demás documentos que el actor haya exhibido con su libelo inicial.
+Además de la cédula, se entregará a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, mas, en su caso, copias simple de los demás documentos que el actor, haya exhibido con su libelo inicial, o de la resolución a notificar.
 
 ###### ARTICULO 118.
 
@@ -987,9 +989,9 @@ III.- Tres días para celebración de juntas, reconocimientos de firmas, exhibic
 
 IV.- Tres días para todos los demás casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-ARTICULO 137 BIS.- La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta antes de que se concluya la audiencia de pruebas, alegatos y sentencia si transcurridos 90 días naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+ARTICULO 137 BIS.- La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta antes de que se concluya la audiencia de pruebas, alegatos y sentencia si transcurridos 90 días naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes; salvo que el Juez las haya citado para oír sentencia, entonces no operará la caducidad de la instancia. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
 
 (ADICIONADA, P.O. 17 DE ENERO DE 1982)(F. DE E., P.O. 4 DE NOVIEMBRE DE 1982)
 
@@ -4703,9 +4705,11 @@ Llegados los autos o el testimonio en su caso, al tribunal superior, este sin ne
 
 En el auto a que se refiere el artículo anterior mandará el tribunal poner a la disposición del apelante los autos por seis días en la secretaría, para que exprese agravios. Del escrito de expresión de agravios se corre traslado a la contraria por otros seis días durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 694.
 
-En caso de que el apelante omitiera en el término de ley expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración correspondiente el superior, a petición de parte.
+En caso de que el apelante omitiera en el término de ley expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración correspondiente el superior.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -5283,9 +5287,13 @@ V.- Las resoluciones sobre los proyectos mencionados;
 
 VI.- Lo relativo a la aplicación de los bienes.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 778.
 
-Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquel para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción (sic).
+Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquel para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias, se refieran sólo a una parte de los bienes hereditarios. En este caso, se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formación.
+
+El juez competente o el notario público que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda a la Dirección General de Notarías y éste a su vez solicitará vía electrónica el reporte de búsqueda al Registro Nacional de Avisos de Testamento.
 
 ### CAPITULO II.
 
@@ -5807,9 +5815,11 @@ Si se presentaren dos o más testamentos cerrados de una misma persona, sean de 
 
 Declaración de ser formal el testamento ológrafo.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 870.
 
-El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia, depositó su testamento ológrafo, como se dispone en el Art. 1438 del Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se continúe su última voluntad.
+El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la sucesión, depositó su testamento ológrafo, como se dispone en el artículo 1438 del Código Civil, dirigirá oficio a la Dirección General de Notarías, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
 
 ###### ARTICULO 871.
 
@@ -5873,9 +5883,11 @@ ARTICULO 779 (sic).- Hechas las publicaciones que ordena el Art. 1474 del Códig
 
 Del testamento hecho en país extranjero.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 880.
 
-Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público, tomará razón en el libro a que se refiere el artículo 1442 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación Cónsul o Vice-Cónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el capítulo IV, Título III del libro III del Código Civil.
+Si el testamento fuere ológrafo, luego que lo reciba el encargado el Director General de Notarías, tomará razón en el libro a que se refiere el artículo 1442 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del funcionario correspondiente de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título III del libro III del Código Civil.
 
 ###### ARTICULO 881.
 
@@ -6918,3 +6930,13 @@ P.O. 2 DE MAYO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 2 DE AGOSTO DE 2007.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial del Gobierno Constitucional del Estado de Durango.
+
+TERCERO.- Las notificaciones, que no se hubiesen hecho a la fecha de entrada en vigor del presente decreto, se deberán hacer conforme a las reglas del mismo, de lo contrario, serán nulas, previa promoción del medio de defensa que corresponda.
+
+CUARTO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere la presente iniciativa de reforma y adición, se podrá recibir el informe de aviso de testamento impreso en papel hasta por un período de doce meses contados a partir de la entrada en vigor del presente decreto.
