@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-05-17"
+last_updated: "2007-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE AGOSTO DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -122,6 +122,12 @@ XVI. Entidades Coordinadas: Las que se designen formando parte de un sector dete
 
 XVII. Estatuto: El Estatuto de Gobierno del Distrito Federal;
 
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(ADICIONADA, G.O. 3 DE AGOSTO DE 2007)</small>
+
+XVII BIS. Investigación y desarrollo de tecnología. Los gastos e inversión destinados directa y exclusivamente a la ejecución de proyectos que se encuentren dirigidos al desarrollo de productos, materiales o procesos de producción, que representen un avance científico o tecnológico, de conformidad con las reglas generales acordadas por el Sistema de Aguas de la Ciudad de México y el Instituto de Ciencia y Tecnología del Distrito Federal;
+
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 XVIII. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
@@ -186,9 +192,9 @@ XXXII. Programa Operativo Anual: Al instrumento que deriva del Programa Operativ
 
 XXXIII. Programa Operativo: El Programa Operativo de la Administración Pública del Distrito Federal que cuantifica los objetivos y metas previstos en el Programa General, los programas y los programas delegacionales para la asignación de recursos presupuestales y se referirá a la actividad conjunta de la Administración Pública Local;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
-XXXIV. Proyecto de Presupuesto: Es el documento que elabora, integra y consolida la Secretaría y que contiene la estimación de gastos a efectuar por parte de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos, para el año inmediato siguiente, mismo que el Jefe de Gobierno presenta a la Asamblea para su aprobación;
+XXXIV. Proyecto de Presupuesto: Es el documento que elabora, integra y consolida la Secretaría y que tiene la estimación de gastos a efectuar por parte de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos, así como la Asamblea y el Tribunal en su carácter de órganos de gobierno, para el año inmediato siguiente, mismo que el Jefe de Gobierno presenta a la Asamblea para su aprobación;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -3764,6 +3770,12 @@ El Sistema de Aguas, restablecerá los servicios hidráulicos una vez cubiertos 
 
 No obstante lo anterior, la autoridad quedará facultada para suspender o restringir nuevamente el servicio, a partir del día siguiente a aquel en que deba hacerse el pago de una parcialidad, y el usuario entere un importe menor a ésta, u omita el pago de la misma.
 
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2007)</small>
+
+ARTICULO 199 BIS.- El 1% de los Derechos por la Prestación de servicios por el suministro de Agua establecidos en la Ley de Ingresos del Distrito Federal serán destinados a investigación y desarrollo de tecnología para la gestión integral del agua de conformidad con las reglas generales acordadas por el Sistema de Aguas de la Ciudad de México y el Instituto de Ciencia y Tecnología del Distrito Federal.
+
 (REUBICADA, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Segunda. De los Servicios de Prevención y Control de la Contaminación Ambiental
@@ -6348,6 +6360,10 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6383,10 +6399,6 @@ El servicio de recepción de residuos sólidos no peligrosos se prestará siempr
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
-
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8294,7 +8306,7 @@ El importe de las entregas derivadas de la recolección a que se refieren los ar
 
 #### Sección Tercera. De los Proyectos de los Organos Autónomos
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 358.
 
@@ -8482,11 +8494,11 @@ Cuando de la documentación que se acompañe a los bienes que vaya a recibir la 
 
 ### CAPITULO I. De la Ministración de Fondos
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 374.
 
-La Secretaría atenderá las solicitudes de pago o de fondos que las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como órganos autónomos, autoricen con cargo a sus presupuestos, para el financiamiento de sus programas en función de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
+La Secretaría atenderá las solicitudes de pago o de fondos que las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, así como la Asamblea y el Tribunal en su carácter de órganos de gobierno y órganos autónomos, autoricen con cargo a sus presupuestos, para el financiamiento de sus programas en función de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -8512,7 +8524,9 @@ La Secretaría emitirá las disposiciones para la utilización de los sistemas e
 
 I. Las especificaciones de los equipos y sistemas electrónicos y las unidades administrativas que estarán facultadas para autorizar su uso;
 
-II. Los requisitos y obligaciones que deberán cumplir los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos que tramiten y autoricen para su pago las cuentas por liquidar certificadas;
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
+
+II. Los requisitos y obligaciones que deberán cumplir los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, entidades, la Asamblea y el Tribunal en su carácter de órganos de gobierno y órganos autónomos que tramiten y autoricen para su pago las cuentas por liquidar certificadas;
 
 III. Los medios de identificación electrónica que hagan constar la validez del trámite y autorización citados en la fracción anterior, llevados a cabo por los servidores públicos autorizados, y
 
@@ -8546,9 +8560,9 @@ Todas las erogaciones se harán por medio de una cuenta por liquidar certificada
 
 Las cuentas por liquidar certificadas cumplirán con los requisitos que establezcan las reglas de carácter general, que con apego a lo dispuesto en este Código, emita la Secretaría para los procedimientos del ejercicio presupuestal.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
 
-Los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos que hayan autorizado los pagos a través de las cuentas por liquidar certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
+Los servidores públicos de las dependencias, órganos desconcentrados, delegaciones, entidades, la Asamblea y el Tribunal en su carácter de órganos de gobierno y órganos autónomos que hayan autorizado los pagos a través de cuentas por liquidar certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
 
 ARTICULO 379 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -8614,13 +8628,15 @@ De no cumplir con los requisitos antes señalados, dichos compromisos se pagará
 
 Para el caso de que las estimaciones de ingresos no se cumplan, la Secretaría determinará el registro presupuestal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 383.
 
-Las dependencias, órganos desconcentrados, delegaciones, entidades y los órganos a que se refiere el artículo 448 de este Código, que por cualquier motivo al término del ejercicio fiscal que corresponda, conserven fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría, dentro de los quince días naturales siguientes al cierre del ejercicio. Las dependencias, órganos desconcentrados, delegaciones, entidades y los órganos autónomos que hayan recibido recursos federales así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los diez días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
+Las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos que por cualquier motivo al término del ejercicio fiscal que corresponda, conserven fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría, dentro de los quince días naturales siguientes al cierre del ejercicio. Las dependencias, órganos desconcentrados, delegaciones, entidades, y órganos autónomos que hayan recibido recursos federales así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los diez días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2007)</small>
+
+Los órganos de gobierno a que se refiere la fracción IX del artículo 439 de este Código, deberán informar a la Asamblea dentro de los primeros cinco días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen a dichos órganos, de conformidad con lo dispuesto por el artículo 374 de este Código, Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -9304,9 +9320,9 @@ I. Exposición de motivos, en la que se señalen los efectos económicos y socia
 
 II. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y prioridades, así como las unidades responsables de su ejecución;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
-III. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los programas contenidos en el Presupuesto de las dependencias, órganos desconcentrados, delegaciones, entidades y órganos autónomos, precisando los recursos involucrados para su consecución;
+III. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los programas contenidos en el Presupuesto de las dependencias, órganos desconcentrados, delegaciones, entidades, la Asamblea y el Tribunal en su carácter de órganos de gobierno y órganos autónomos, precisando los recursos involucrados para su consecución;
 
 IV. Explicación y comentarios de los programas considerados como prioritarios, los especiales y las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
@@ -9316,11 +9332,13 @@ VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso;
 
 VII. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
-VIII. Los proyectos de presupuesto de egresos de los órganos autónomos, definidos en las fracciones III, IV, V, VI, VII y VIII del artículo 448 de este Código, especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
+VIII. Los proyectos de presupuesto de egresos de los órganos autónomos definidos en las fracciones del artículo 448 de este Código, especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
 
-IX. Los montos de los recursos públicos que correspondan a los órganos definidos en las fracciones I y II del mismo artículo, y
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
+
+IX. Los montos de los recursos públicos que correspondan a la Asamblea y al Tribunal en su carácter (sic) órganos de gobierno, y
 
 X. En general, toda la información programática-presupuestal que se considere útil para mostrar la proposición en forma clara y completa.
 
@@ -9418,37 +9436,27 @@ Las dependencias coordinadoras de sector analizarán la congruencia intrasectori
 
 ###### ARTICULO 448.
 
+La Asamblea y el Tribunal en su carácter de órganos de gobierno cuentan con autonomía para la elaboración de su presupuesto sujetándose a lo dispuesto en el segundo párrafo del artículo 383 de este Código.
+
 Para la elaboración de su Presupuesto de Egresos gozarán de autonomía los siguientes órganos:
 
-I. La Asamblea;
+I. Las Autoridades Electorales;
 
-II. El Tribunal;
+II. La Comisión;
 
-III. Las Autoridades Electorales;
+III. El Tribunal de lo Contencioso;
 
-IV. La Comisión;
+IV. La Junta;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2004)</small>
+V. El Instituto; y
 
-V. El Tribunal de lo Contencioso;
+VI. La Universidad.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VI. La Junta;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VII. El Instituto, y
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VIII. La Universidad.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 449.
 
-El proyecto del Presupuesto de Egresos que remitan los órganos autónomos enunciados en el artículo anterior al Jefe de Gobierno, deberá ajustarse a las previsiones de ingresos que les comunique la Secretaría, para su envío a la Asamblea, y se integrará con:
+El Proyecto de Presupuesto de Egresos que remitan los órganos de gobierno a que se refiere la fracción IX del artículo 439 de este Código y los órganos autónomos enumerados en el artículo anterior al Jefe de Gobierno, para su envío a la Asamblea se integrará con:
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -11062,9 +11070,9 @@ La Secretaría, en el ámbito de sus atribuciones, cuando descubra o tenga conoc
 
 Asimismo, fincará responsabilidades resarcitorias en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea emita pliegos de observaciones que no hayan sido solventados, previa solicitud que dicha autoridad presente, en términos del artículo 577 de este Código.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2007)</small>
 
-De igual forma fincará responsabilidades resarcitorias en el caso de que los órganos autónomos a que se refiere el artículo 448 del Código, se lo soliciten fundada y motivadamente, de acuerdo con lo previsto por el artículo 577 de este Código.
+De igual forma fincará responsabilidades resarcitorias en el caso de que la Asamblea y el Tribunal en su carácter de órganos de gobierno y los órganos autónomos a que se refiere el artículo 448 del Código, se lo soliciten fundada y motivadamente, de acuerdo con lo previsto por el artículo 577 de este Código.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2004)</small>
 
@@ -11078,9 +11086,9 @@ Las solicitudes que se presenten a la Procuraduría Fiscal, para el inicio del p
 
 I. Estar dirigida al Procurador Fiscal del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2007)</small>
 
-II. Expresar los hechos constitutivos de los probables daños y perjuicios a la Hacienda Pública del Distrito Federal o al Patrimonio de las entidades o de los órganos autónomos;
+II. Expresar los hechos constitutivos de los probables daños y perjuicios a la Hacienda Pública del Distrito Federal o al Patrimonio de las entidades, de la Asamblea y del Tribunal en su carácter de órganos de gobierno o de los órganos autónomos;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -17303,3 +17311,19 @@ Los productos de las enajenaciones relacionadas en los artículos transitorios a
 CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
 
 QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
+
+G.O. 3 DE AGOSTO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observación y aplicación.
+
+G.O. 3 DE AGOSTO DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2 CON UNA FRACCION XVII BIS Y 199 BIS DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y entre en vigor el 1 de enero de 2008.
+
+SEGUNDO.- Las reglas generales para la aplicación de este recurso serán publicadas a los 60 días de la publicación de la presente reforma.
