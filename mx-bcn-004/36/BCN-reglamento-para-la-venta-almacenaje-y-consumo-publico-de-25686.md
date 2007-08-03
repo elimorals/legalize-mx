@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2007-05-25"
+last_updated: "2007-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -73,7 +73,9 @@ AUTORIDAD MUNICIPAL: Son los órganos de Gobierno Municipal que tienen la facult
 
 COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: Como la competente para dictaminar sobre los permisos, para la venta, almacenaje y consumo público de bebidas alcohólicas en el Municipio de Tijuana Baja California, así como para el estudio y análisis de los requisitos y de la factibilidad en su caso sobre los cambios de domicilio y de las revocaciones de los permisos otorgados.
 
-DICTAMEN DE COMISION: Es la resolución que emite la Comisión Reguladora de bebidas alcohólicas, respecto del expediente de solicitud de permiso, cambio de domicilio o revocación, debidamente integrado y que se somete a consideración del Cabildo.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
+
+DICTAMEN DE COMISION: Es la resolución que emite la Comisión Reguladora de bebidas alcohólicas, respecto del expediente de solicitud de permiso o revocación, debidamente integrado y que se somete a consideración del Cabildo.
 
 PERMISO: La autorización por escrito que otorga la autoridad municipal en cumplimiento al Dictamen de procedencia emitido por el pleno de Cabildo para que una persona física o moral, pueda distribuir, almacenar o vender, bebidas alcohólicas.
 
@@ -175,9 +177,9 @@ V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
 Son facultades del Ayuntamiento:
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2007)</small>
 
-I.- Otorgar o negar en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el Artículo 10 de la Ley, y el presente ordenamiento, atendiendo al orden público e interés social, así como los cambios de domicilio y las revocaciones de los mismos;
+I.- Otorgar, negar o revocar en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el Artículo 10 de la Ley, y el presente ordenamiento, atendiendo al orden público e interés social y las revocaciones de los mismos:
 
 II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
 
@@ -451,15 +453,15 @@ La Dirección de Regulación Municipal, podrá autorizar horarios extraordinario
 
 ### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 21.
 
-El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos para la venta, almacenaje y venta para consumo público de bebidas alcohólicas, así como los cambios de domicilio de los establecimientos que cuenten con el permiso correspondiente.
+El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos nuevos para la venta, almacenaje y venta para consumo público de bebidas alcohólicas.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+El Cabildo decidirá el otorgar o negar la solicitud sobre el permiso permanente o eventual gastronómico, para la venta, almacenaje, o venta para consumo público, de bebidas alcohólicas, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
 
-El cabildo decidirá, el otorgar o negar la solicitud sobre el permiso permanente o eventual gastronómico, para la venta, almacenaje o venta para consumo público, de bebidas alcohólicas, los cambios de domicilio, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
+Los cambios de domicilio de los establecimientos que cuenten con el permiso correspondiente, serán autorizados por la autoridad administrativa por conducto de la Secretaría de Desarrollo Económico, siempre y cuando se cumpla con la normatividad vigente. La Secretaría de Desarrollo Económico deberá informar al Cabildo sobre los resultados del ejercicio de esa atribución.
 
 > <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
 
@@ -707,13 +709,13 @@ Transcurrido el plazo que (sic) el presente reglamento o la prórroga otorgada p
 
 ### CAPITULO SÉPTIMO. DE LOS CAMBIOS DE TITULAR, DOMICILIO, GIRO Y DE NOMBRE COMERCIAL
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 42.
 
-El Presidente Municipal, por conducto del Secretario del Ayuntamiento o el Director General de Gobierno, podrá autorizar el cambio de titular, cambio de giro o cambio de nombre comercial, de los negocios que exploten los permisos que expida, de acuerdo a sus facultades, cuando se reúnan los requisitos que señala el presente reglamento, y la ley conforme al supuesto de que se trate.
+El Presidente Municipal, por conducto del Secretario de Desarrollo Económico o el Departamento de Desarrollo Económico podrá autorizar el cambio de titular, cambio de giro o cambio de nombre comercial, de los negocios que exploten los permisos que expida, de acuerdo a sus facultades, cuando se reúnan los requisitos que señala el presente reglamento, y la ley conforme al supuesto de que se trate.
 
-Para el cambio de nombre comercial, deberá el permisionario dar aviso a la autoridad municipal correspondiente, anexando para tal efecto la documentación oficial por medio de la cual haya notificado dicho cambio ante la autoridad competente.
-
-Los cambios de domicilio son facultad del Ayuntamiento autorizarlos, por conducto de la autoridad municipal.
+Es facultad del Secretario de Desarrollo Económico autorizar los cambios de domicilio.
 
 ###### ARTICULO 43.
 
@@ -772,6 +774,10 @@ XIII.- Tratándose de cambio de titular con motivo de una cesión de derechos de
 XIV.- Contar con certificado de no adeudo fiscal, y
 
 XV.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2007)</small>
+
+El Secretario de Desarrollo Económico autorizará los cambios de domicilio de los negocios que así lo soliciten y exploten permisos autorizados por la autoridad correspondiente, siempre y cuando se cumplan los requisitos a que se refiere este artículo.
 
 ###### ARTICULO 47.
 
@@ -1388,3 +1394,9 @@ P.O. 25 DE MAYO DE 2007.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se publicará en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, y en un diario local de mayor circulación y/o la Gaceta Municipal, para conocimiento de los vecinos.
+
+P.O. 3 DE AGOSTO DE 2007.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al momento de su aprobación y se publicará en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, y en un diario local de mayor circulación y/o la Gaceta Municipal para conocimiento de los vecinos.
