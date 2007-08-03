@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-sindicatura-municipal-de-tijuana-38960
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2005-09-23"
+last_updated: "2007-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SINDICATURA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -109,7 +109,13 @@ IX.- Establecer sistemas de trabajo con el propósito de mejorar continuamente l
 
 X.- Rendir informe al Síndico Procurador de los resultados obtenidos por la Dirección.
 
-XI.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2007)</small>
+
+XI.- Conocer las quejas y denuncias, así como investigar de oficio hechos en donde se presuma que elementos de la Secretaria de Seguridad Pública Municipal hayan violado o dejado de cumplir con alguno o algunos de los requisitos de permanencia, e instruir el procedimiento de remoción en contra de los miembros de la Institución Policial de la Secretaría de Seguridad Pública Municipal, de conformidad con la Ley que regula la relación administrativa de los miembros de las Instituciones Policiales del Estado de Baja California y el Reglamento de la Secretaria de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2007)</small>
+
+XII.- Las demás que en ejercicio de sus facultades le encomiende expresamente el Síndico Procurador.
 
 ###### ARTICULO 7.
 
@@ -316,3 +322,11 @@ Las presentes reformas y adiciones entrarán en vigor en el momento de su aproba
 Se derogan todas aquellas disposiciones municipales que se opongan a las presentes reformas y adiciones.
 
 ARTICULO TRECERO (SIC).- Realícense los ajustes presupuestales que correspondan a efecto de dar cumplimiento a la presente adición y reforma.
+
+P.O. 3 DE AGOSTO DE 2007.
+
+PRIMERO.- La presente iniciativa entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- PUblíquese en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Baja California, asi como en un diario de mayor circulación en la localidad y/o en la Gaceta Municipal para conocimiento de los vecinos.
+
+TERCERO.- Se derogan todas aquellas disposiciones municipales que se opongan al presente acuerdo edilicio.
