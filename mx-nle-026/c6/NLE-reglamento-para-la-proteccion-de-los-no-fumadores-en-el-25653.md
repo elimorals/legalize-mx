@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-25653"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-27"
-last_updated: "2007-02-16"
+last_updated: "2007-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES, EN EL MUNICIPIO DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 1993.
 
@@ -59,7 +59,9 @@ II.- Las Asociaciones de padres de familia de las escuelas e institutos público
 
 En los locales cerrados y establecimientos en los que se expenda al público alimentos para consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán de limitar de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores y para quienes fumen durante su estancia en las mismas. En los hospitales y clínicas deberá destinarse una sala de espera con sección reservada para quienes deseen fumar.
 
-Dichas secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE AGOSTO DE 2007)</small>
+
+Asimismo deberán colocar emblemas visibles para el público, que indique las secciones correspondientes y extractores o purificadores para que las personas que no fuman no sean afectadas en su salud.
 
 ###### ARTICULO 5.
 
@@ -75,9 +77,13 @@ Se establece la prohibición de fumar:
 
 I.- En los cines, teatros y auditorios cerrados a los que tenga acceso el público en general, con excepción de las secciones de fumadores en los vestíbulos;
 
-II.- En centros de salud, salas de espera, auditorios, bibliotecas y cualquier otro lugar cerrado de las Instituciones médicas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2007)</small>
 
-III.- En los vehículos de servicio público de transporte colectivo de pasajeros que circulan en el Municipio;
+II.- En centros de salud, salas de espera, auditorios, bibliotecas de las Instituciones Médicas, así como en las escuelas de educación, inicial, básica, media y superior y de educación especial, y cualquier otro lugar público cerrado;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2007)</small>
+
+III.- En los vehículos de servicio público de transporte colectivo de pasajeros, así como en los de transporte escolar, que circulan en el Municipio;
 
 IV.- En las oficinas de unidad administrativa dependientes de la Autoridad Municipal, en las que se proporcione atención directa al público;
 
@@ -243,9 +249,11 @@ El Secretario de Bienestar Social y Desarrollo Comunitario, dictará y notificar
 
 Si transcurrido el plazo, no se ha notificado la resolución que corresponda se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-En todo lo previsto en el presente Reglamento se estará a lo dispuesto por la Ley de Protección de los No Fumadores del Estado de Nuevo León.
+En todo lo no previsto en el presente Reglamento se estará a lo dispuesto por la Ley de Protección de los No Fumadores del Estado de Nuevo León.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -310,3 +318,9 @@ P.O. 16 DE FEBRERO DE 2007.
 PRIMERO.- Las presentes reformas de los reglamentos objeto de este Dictamen, entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado, y deberá dárseles difusión en la Gaceta Municipal del R. Ayuntamiento de Cd. Guadalupe, N. L.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativos (sic) que contravengan las presentes disposiciones.
+
+P.O. 3 DE AGOSTO DE 2007.
+
+## [N. DE E. TRANSITORIO DE LOS “ACUERDOS DEL 1 AL 7 APROBADOS EN SESIÓN ORDINARIA DEL 25 DE JULIO DE 2007”.]
+
+ÚNICO: - Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
