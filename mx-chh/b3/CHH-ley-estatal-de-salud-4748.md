@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2005-11-09"
+last_updated: "2007-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -1115,9 +1115,21 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO IV. ACCIDENTES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2007)</small>
 
-### CAPITULO UNICO
+### CAPITULO III BIS. DEL CANCER MAMARIO Y DEL CANCER CERVICO-UTERINO
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2007)</small>
+
+ARTICULO 123 BIS.- Se establecerán los programas especiales de detección y atención especializada de cáncer mamario y cérvico-uterino, que tendrán como objeto la promoción, prevención, detección y tratamiento oportuno y especializado de los mismos en mujeres residentes en el territorio del Estado.
+
+Dichos programas serán gratuitos y permanentes.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2007)</small>
+
+ARTICULO 123 TER.- La Secretaría de Fomento Social será responsable de planear, organizar, coordinar, ejecutar y vigilar dichos programas.
+
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 124.
 
@@ -1143,7 +1155,7 @@ Para mayor eficacia de las acciones a las que se refiere este artículo, se crea
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 126.
 
@@ -1317,7 +1329,7 @@ El organismo del Ejecutivo Estatal previsto en el Artículo 131 de esta Ley tend
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 151.
 
@@ -1341,7 +1353,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 153.
 
@@ -1361,7 +1373,7 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO IV. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 155.
 
@@ -1381,9 +1393,9 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos sicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley, independiente de su responsabilidad penal.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 157.
 
@@ -1405,7 +1417,7 @@ El Ejecutivo del estado podrá celebrar con los municipios, los convenios conduc
 
 ## TITULO DECIMO PRIMERO. DE LA SALUD LOCAL
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 161.
 
@@ -1445,7 +1457,7 @@ III.- Contar, en su caso, con los auxiliares del responsable que determinen los 
 
 ARTICULO 166 BIS.- Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas embriagantes en los términos de la Ley respectiva y demás lugares que determine la reglamentación respectiva, deberán expender en dichos sitios, preservativos masculinos.
 
-### CAPITULO IV. PANTEONES
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 167.
 
@@ -1459,7 +1471,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad san
 
 Los vendedores, locatarios y toda persona cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a observar las condiciones higiénicas indispensables para su debido mantenimiento y desempeño de sus actividades, sujetándose a lo que dispone esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. PANTEONES
 
 ###### ARTICULO 170.
 
@@ -1493,7 +1505,7 @@ Las construcciones deberán ser inspeccionadas por la autoridad sanitaria, quien
 
 Cuando los edificios, construcciones o terrenos presenten un peligro por su insalubridad e inseguridad, la autoridad sanitaria deberá ejecutar las obras que estime de urgencia, con cargo a sus propietarios, poseedores o dueños de negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 178.
 
@@ -1507,7 +1519,7 @@ Para el establecimiento y funcionamiento de panteones, se estará a lo dispuesto
 
 Para establecer un panteón se necesita licencia expedida por la autoridad sanitaria, quien la otorgará después de oír la opinión del ayuntamiento correspondiente y de la Junta Central de Agua y Saneamiento del Estado.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 181.
 
@@ -1533,7 +1545,7 @@ La basura deberá manipularse higiénicamente antes de llegar al basurero o a la
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, sus reglamentos y normas técnicas aplicables.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 187.
 
@@ -1551,7 +1563,7 @@ Queda prohibida la matanza de animales en casas o domicilios particulares. Cuand
 
 La matanza de animales en los rastros autorizados, se efectuará en los días y horas que fije la autoridad sanitaria, teniendo en consideración las condiciones del lugar y los elementos que la propia autoridad disponga para realizar las inspecciones necesarias.
 
-### CAPITULO IX. RECLUSORIOS
+### CAPITULO VIII. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 191.
 
@@ -1589,7 +1601,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos líquidos o sólidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO X. BAÑOS PUBLICOS Y ALBERCAS
+### CAPITULO IX. RECLUSORIOS
 
 ###### ARTICULO 200.
 
@@ -1607,7 +1619,7 @@ Para el funcionamiento de los lugares a que se refiere este capítulo, se requie
 
 Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas y los establecimientos similares serán fijados por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS PUBLICOS Y ALBERCAS
 
 ###### ARTICULO 204.
 
@@ -1621,7 +1633,7 @@ Los reclusorios en cuanto a sus condiciones sanitarias estarán sujetos al contr
 
 Los reclusorios deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario su traslado a un hospital.
 
-### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 207.
 
@@ -1635,7 +1647,7 @@ Los baños públicos y albercas para brindar el servicio al público, deberán o
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPITULO XII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
 
 ###### ARTICULO 210.
 
@@ -1645,7 +1657,7 @@ Se entiende por centros de reunión todas aquellas edificaciones destinadas al a
 
 El funcionamiento de los establecimientos a que se refiere el presente capítulo deberá estarse a lo dispuesto en esta Ley y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos y las normas técnicas correspondientes.
 
-### CAPITULO XIV. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XIII. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTICULO 212.
 
@@ -1655,19 +1667,19 @@ Se entiende por peluquerías y salones de belleza, los establecimientos dedicado
 
 El funcionamiento y personal de los establecimientos a que se refiere el presente capítulo, deberán cumplir con lo establecido en esta Ley, sus reglamentos y normas técnicas correspondientes.
 
-### CAPITULO XV. GASOLINERAS
+### CAPITULO XIV. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 214.
 
 Se entiende por establecimientos de hospedaje los hoteles, moteles, casas de huéspedes, así como cualquier edificación que se destine a dar albergue a personas.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XV. GASOLINERAS
 
 ###### ARTICULO 215.
 
 Se entiende por transporte todo aquel vehículo destinado al traslado de carga de alimentos perecederos o de pasajeros, sea cual fuere su medio de propulsión.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 216.
 
@@ -1679,7 +1691,7 @@ Las gasolineras deberán contar con las instalaciones de seguridad que establezc
 
 ## TITULO DECIMO SEGUNDO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 218.
 
@@ -1739,7 +1751,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se recaudarán en la forma que establezca la legislación fiscal.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 228.
 
@@ -1791,7 +1803,7 @@ La Dirección, a través del Departamento citado emitirá la resolución que cor
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 235.
 
@@ -1825,7 +1837,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 240.
 
@@ -1885,7 +1897,7 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ## TITULO DECIMO CUARTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 249.
 
@@ -1979,7 +1991,7 @@ Si del dictamen resultara que el bien asegurado es nocivo, se podrá determinar,
 
 La desocupación o desalojo de casa, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. RECURSOS DE REVISION Y REVOCACION
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 261.
 
@@ -2059,7 +2071,7 @@ Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE REVISION Y REVOCACION
 
 ###### ARTICULO 273.
 
@@ -2132,6 +2144,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTICULO 282.
 
 Cuando del contenido de una acta de inspección se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la medida de seguridad o de la imposición de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 283.
 
@@ -2324,3 +2338,9 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 9 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de Fomento Social, deberá implementar los programas especiales y permanentes de detección y atención especializada de cáncer mamario y cérvico-uterino en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
