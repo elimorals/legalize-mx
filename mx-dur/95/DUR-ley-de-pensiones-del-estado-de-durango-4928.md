@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-pensiones-del-estado-de-durango-4928"
 country: "mx"
 rank: "ley"
 publication_date: "1982-04-08"
-last_updated: "1982-04-08"
+last_updated: "2007-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE PENSIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE PENSIONES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 5 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 8, domingo 11, jueves 15 y domingo 18 de abril de 1982.
 
@@ -898,3 +900,61 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo., a los dos días del mes de Marzo de mil novecientos ochenta y dos.
 
 El Gobernador Constitucional del Estado Lic. Armando del Castillo Franco. Rúbrica. El Secretario General de Gobierno Lic. Carlos Galindo Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE AGOSTO DE 2007.
+
+PRIMERO.- Se abroga la Ley de Pensiones del Estado de Durango aprobada por decreto número 55 de la LV Legislatura, de fecha 2 de marzo de 1982, y publicado en los periódicos oficiales del Gobierno del Estado números 28, 29, 30 y 31, de fechas 8, 11, 15 y 18 de abril del mismo año respectivamente, y se derogan las reformas y adiciones que hubieren sido incorporadas. Asimismo, se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+SEGUNDO.- Las personas que al entrar en vigor esta Ley tengan derechos adquiridos de conformidad con ordenamientos anteriores, podrán optar por acogerse a los beneficios establecidos en éstos o a los que otorga la presente Ley. En ningún caso podrán coexistir ambos, por lo que la concesión de uno excluye el otro, con excepción de lo dispuesto en el artículo 60 de esta Ley.
+
+Los trabajadores continuarán gozando de las prestaciones aprobadas por el Consejo Directivo, adicionales a las establecidas en el ordenamiento correspondiente.
+
+TERCERO.- Los servidores públicos que ingresen a prestar sus servicios con posterioridad a la entrada en vigor de la presente Ley, quedarán sujetos a lo establecido en las disposiciones de la misma.
+
+CUARTO.- Los miembros del Consejo Directivo, el Director General y demás personal de la Dirección de Pensiones, continuarán con el mismo carácter en el ejercicio de sus cargos y con reconocimiento de su antigüedad en el servicio.
+
+La integración y constitución del Consejo Directivo, en los términos que alude el artículo 12 de la presente Ley, se efectuará en la sesión ordinaria inmediata posterior a la entrada en vigor del presente ordenamiento.
+
+QUINTO.- Los deudores de la Dirección por operaciones cuyo importe no esté liquidado al entrar en vigor esta Ley, quedan sujetos a su cumplimiento en función de la obligación originalmente contraída.
+
+SEXTO.- Las solicitudes de prestaciones que tenga en trámite la Dirección al tiempo que entre en vigor esta Ley, se resolverán de conformidad con la misma.
+
+SÉPTIMO.- Las controversias que surjan sobre la aplicación de esta Ley, así como todas aquellas en que la Dirección fuere parte, serán competencia de los Tribunales del Estado de Durango.
+
+OCTAVO.- Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+NOVENO.- Las disposiciones del Título V, Capítulo II, Sección Tercera de la presente Ley, no serán aplicables a los trabajadores al servicio de la educación agrupados en la Sección 44 del Sindicato Nacional de Trabajadores de la Educación, quienes en caso de invalidez, se regirán por las disposiciones relativas a la Ley de Educación del Estado de Durango.
+
+DÉCIMO.- El ajuste de las cuotas y aportaciones obligatorias establecidas en el artículo 41 de esta Ley, entrarán en vigor de la siguiente manera:
+
+TRABAJADORES
+
+- Al inicio de le vigencia de esta ley 0.8%
+
+- 1º de enero de 2008 0.7%
+
+- 1º de enero de 2009 0.8%
+
+- 1º de enero de 2010 0.7%
+
+DEPENDENCIAS
+
+- Al inicio de la vigencia de esta ley 1%
+
+- 1º de enero de 2008 1%
+
+- 1º de enero de 2009 1%
+
+- 1º de enero de 2010 0.9%
+
+DÉCIMO PRIMERO.- Las cuentas ya existentes trasladadas del Sistema de Ahorro para el Retiro (SAR) al PROACER, seguirán acumulándose en razón del importe equivalente al 2% del salario base de los servidores públicos. La periodicidad con que se realice el descuento sobre nómina de las cuotas voluntarias, será de manera quincenal.
+
+DÉCIMO SEGUNDO.- El Gobernador del Estado expedirá la reglamentación correspondiente al presente ordenamiento en un plazo no mayor de noventa días naturales, contados a partir de la fecha de entrada en vigor de la presente Ley. En tanto se expiden el Reglamento de la Ley y demás reglamentación derivada de este decreto, el Consejo Directivo resolverá lo conducente.
+
+DÉCIMO TERCERO.- Las disposiciones establecidas en la Sección Segunda del Capítulo III de esta Ley, no serán aplicables a los trabajadores que se afilien a la Dirección después del inicio de su vigencia.
+
+Los trabajadores con derecho al estímulo a que se refiere el artículo 96, podrán solicitarlo observando lo siguiente: con 30 a 35 años de servicio, a partir del segundo año de que haya iniciado su vigencia esta Ley; a aquéllos que tengan de 35 años un día en adelante, a partir del primer año de vigencia.
+
+DÉCIMO CUARTO.- Las disposiciones de la Ley Reglamentaria de los artículos 72 y 73 de la Ley de Pensiones, relativas al Fondo de la Vivienda, se entenderá que se refiere a lo considerado en esta materia en el presente decreto.
