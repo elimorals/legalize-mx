@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-procuraduria-social-del-distrito-158
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-28"
-last_updated: "2003-03-27"
+last_updated: "2007-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15888&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-02-09"
 
 REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 6 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -573,3 +575,15 @@ G.O. 27 DE MARZO DE 2003.
 DECRETO QUE REFORMAN Y ADICIONAN LOS ARTICULOS 3, 8, 9 Y 11 DEL REGLAMENTO.
 
 UNICO.- El presente decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE AGOSTO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Hasta en tanto la Procuraduría cuente con la totalidad de Oficinas Delegacionales a que se refiere el artículo 24 de la Ley, será facultad del Procurador determinar la competencia de las ya existentes, por concepto de materia o territorio, a efecto de facilitar a los particulares la atención a sus demandas.
+
+Tercero. El Procurador dictará las medidas que con motivo del presente Reglamento resulten necesarias para su plena vigencia y, en particular, las relativas a la readscripción de los recursos humanos y materiales con que cuenta la Procuraduría.
+
+Cuarto. Hasta en tanto se concluye el proceso de transferencia del personal y de los recursos materiales correspondientes a las Oficinas Delegacionales, el Subprocurador de Defensa y Exigibilidad de Derechos Ciudadanos tendrá la facultad para delegar las atribuciones que señala el Reglamento, en los servidores públicos subalternos de su adscripción.
+
+Quinto. Se abroga el Reglamento de la Ley de la Procuraduría Social del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el nueve de febrero de dos mil, así como todas las disposiciones jurídicas que contravengan el presente decreto.
