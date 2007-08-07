@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2007-06-12"
+last_updated: "2007-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -4617,7 +4617,9 @@ ART. 1139.- No se requieren formalidades especiales para acudir ante el juez de 
 
 Esta disposición no es aplicable a los casos de divorcio o de la pérdida de la patria potestad.
 
-Tratándose de violencia familiar prevista en el artículo 284 ter del Código Civil del Estado, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hiciere, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+Tratándose de violencia familiar prevista en el artículo 284.5 del Código Civil del Estado, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hiciere, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida.
 
 Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
@@ -4968,3 +4970,37 @@ CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta d
 QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial del Estado.
+
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio de 2007.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamentó de la ley que se expide, dentro de los noventa días siguientes a la entrada en vigor del artículo Primero de este Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema a que se refiere la Ley que se expide, se integrará dentro de los sesenta días siguientes a la entrada en vigor del artículo Primero del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento del Sistema. Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, dentro de los noventa días siguientes a la integración del mismo.
+
+###### ARTICULO QUINTO.
+
+En los presupuestos de egresos para el ejercicio del año 2008, el Ejecutivo del Estado y los municipios, deberán considerar los recursos para el cumplimiento de los programas y acciones que deriven de la ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+El Honorable Congreso del Estado, al aprobar el Presupuesto de Egresos del Poder Ejecutivo del Estado para el ejercicio del año 2008, y años subsecuentes, verificará se incluya en los rubros y partidas respectivas, los recursos destinados al desarrollo y cumplimiento de dichos programas y acciones.
+
+Así mismo, verificará que en los presupuestos de egresos para el ejercicio del año 2008 de los municipios, se consideren los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
