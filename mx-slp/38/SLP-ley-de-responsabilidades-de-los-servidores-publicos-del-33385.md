@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2004-12-23"
+last_updated: "2007-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -451,7 +451,9 @@ IV. Custodiar y cuidar la documentación e información que por razón de su emp
 
 V. Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
 
-VI. Observar en la dirección de sus subalternos las debidas reglas del trato y abstenerse de incurrir en desviación o abuso de autoridad;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2007)</small>
+
+VI. Observar en la dirección de sus subalternos, las debidas reglas del trato y abstenerse de incurrir en desviación o abuso de autoridad, así como de conductas de hostigamiento y acoso sexual sobre los mismos. Los superiores jerárquicos del hostigador o acosador, están obligados a recibir y dar curso a las quejas que se presenten por estos motivos;
 
 VII. Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
@@ -940,3 +942,37 @@ TERCERO. Considerando la importancia de la responsabilidad patrimonial del estad
 CUARTO. Se deroga el Título Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado el 14 de agosto de 2003; así como todas las demás disposiciones legales y reglamentarias que se opongan a este Ordenamiento.
 
 QUINTO. Los asuntos que en materia de reparación de daños y perjuicios por responsabilidad administrativa de los servidores públicos, que se encuentren en trámite en las entidades, serán resueltos por las autoridades competentes, en los términos de las disposiciones vigentes en la fecha en que inició el procedimiento administrativo correspondiente.
+
+P.O. 7 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial del Estado.
+
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio de 2007.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamento de la Ley que se expide, dentro de los noventa días siguientes a la entrada en vigor del artículo Primero de este Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema a que se refiere la Ley que se expide, se integrará dentro de los sesenta días siguientes a la entrada en vigor del artículo Primero del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, dentro de los noventa días siguientes a la integración del mismo.
+
+###### ARTICULO QUINTO.
+
+En los presupuestos de egresos para el ejercicio del año 2008, el Ejecutivo del Estado y los municipios, deberán considerar los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+El Honorable Congreso del Estado, al aprobar el Presupuesto de Egresos del Poder Ejecutivo del Estado para el ejercicio del año 2008, y años subsecuentes, verificará se incluya en los rubros y partidas respectivas, los recursos destinados al desarrollo y cumplimiento de dichos programas y acciones.
+
+Así mismo, verificará que en los presupuestos de egresos para el ejercicio del año 2008 de los municipios, se consideren los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
