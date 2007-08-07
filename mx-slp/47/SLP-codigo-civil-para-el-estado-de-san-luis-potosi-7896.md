@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2007-07-10"
+last_updated: "2007-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1207,7 +1207,9 @@ XVIII.- La separación de los cónyuges por más de dos años independientemente
 
 XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
-Para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 284 ter de este Código.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+Para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 284.5 de este Código;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
 
@@ -1547,7 +1549,13 @@ ART. 284.4.- Es obligación de los progenitores e integrantes de la familia prom
 
 ART. 284.5.- Los miembros de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atenté contra su integridad física o psíquica o ambas, independientemente de que pueda producir o no lesiones, y exista una relación de parentesco, matrimonio o concubinato.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+Por violencia familiar se consideran los actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar, o maltratar de manera física, verbal, psicológica, patrimonial, económica y sexual, independientemente de que se produzcan o no lesiones; cometidos por una persona en contra de su cónyuge, concubina o concubinario, o con quien haya mantenido o mantenga una relación de hecho; pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado o adoptante, ejercidos dentro o fuera del domicilio familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+En todas las sentencias que se dicten con motivo de violencia familiar, se ordenará a las partes se sometan a tratamientos reeducativos integrales, especializados y gratuitos, en las instituciones el Estado competentes.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -2023,6 +2031,10 @@ No podrán impedirse, sin justa causa, las relaciones personales entre el menor 
 
 Sólo por mandado judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+La violencia familiar en términos de lo señalado en el artículo 284.5 de este Código, será causa para la restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas y niños.
+
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
 ART. 378.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
@@ -2047,7 +2059,9 @@ Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas pe
 
 ART. 383.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-La facultad de corregir no implica infringir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 284 ter de este Código.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+La facultad de corregir no implica infringir al menor actos de fuerza que atenten contra su integridad física o psíquica, en los términos de lo dispuesto por el artículo 284.5 de este Código.
 
 ART. 384.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejercen igual derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -2153,9 +2167,9 @@ VI.- Cuando el que la ejerza sea condenado por dos o más veces por delito grave
 
 VII.- En los casos que los padres sean condenados por la comisión de un delito de violencia familiar, y en los resultados de los estudios de peligrosidad, ésta sea superior a la media.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
-ART. 404 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 284 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+ART. 404 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 284.5 de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ART. 405.- La madre o abuela que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
 
@@ -9862,3 +9876,37 @@ TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalad
 CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
 
 QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
+
+P.O. 7 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial de Estado.
+
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al di a siguiente de su publicación en el Periódico Oficial del Estado.
+
+El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio dé 2007.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamentó de la ley que se expide, dentro de los noventa días siguientes a la entrada en vigor del artículo Primero de este Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema a que se refiere la Ley que se expide, se integrará dentro de los sesenta días siguientes a la entrada en vigor del artículo Primero del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento del Sistema. Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, dentro de los noventa días siguientes a la integración del mismo.
+
+###### ARTICULO QUINTO.
+
+En los presupuestos de egresos para el ejercicio del año 2008, el Ejecutivo del Estado y los municipios, deberán considerar los recursos para el cumplimiento de los programas y acciones que deriven de la ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+El Honorable Congreso del Estado, al aprobar el Presupuesto de Egresos del Poder Ejecutivo del Estado para el ejercicio del año 2008, y años subsecuentes, verificará se incluya en los rubros y partidas respectivas, los recursos destinados al desarrollo y cumplimiento de dichos programas y acciones.
+
+Así mismo, verificará que en los presupuestos de egresos para el ejercicio del año 2008 de los municipios, se consideren los recursos para el cumplimiento dé los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
