@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2007-03-12"
+last_updated: "2007-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -777,9 +777,19 @@ IX. De Fomento Industrial y Comercio;
 
 X. De Asuntos Agropecuarios y Pesca;
 
-XI. De Asuntos Indígenas, en donde exista población indígena; y,
+XI. De Asuntos Indígenas, en donde exista población indígena; y, (sic)
 
-XII. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo unánime de sus miembros determine.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
+
+XII. De acceso a la Información Pública;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2007)</small>
+
+XIII. De asuntos migratorios donde se requiera; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
+
+XlV. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de sus miembros determine.
 
 ###### Artículo 38.
 
@@ -1036,6 +1046,36 @@ VIII. Buscar mecanismos de consulta a los pueblos indígenas, para que sean toma
 IX. Establecer políticas para mejorar las condiciones de salud de las mujeres, apoyar los programas especiales de educación y nutrición a niños y jóvenes de las familias migrantes y velar por el respeto a los derechos humanos y promover la difusión de sus culturas; y,
 
 X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+###### Artículo 47 Ter.
+
+La Comisión de Asuntos Migratorios tendrá las siguientes funciones:
+
+I. Proponer y promover políticas públicas municipales de atención al migrante y sus familias;
+
+II. Usar mecanismos de consulta con los migrantes y sus familias, para que sus opiniones y propuestas sean tomadas en cuenta en la elaboración de los planes municipales de desarrollo;
+
+III. Fomentar la participación y vinculación de las asociaciones de migrantes en sus municipios y comunidades de origen; y,
+
+IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+Artículo 47 Quarter. La Comisión de Acceso a la Información Pública, tendrá las siguientes funciones:
+
+I. Vigilar el cumplimiento de la Ley de Acceso a la Información Pública del Estado de Michoacán; en particular que se difunda la información de oficio y se mantenga actualizada;
+
+II. Orientar a las personas sobre el trámite y procedimiento para solicitar información pública al Ayuntamiento;
+
+III. Proponer en su caso, la información que deba ser clasificada como reservada o confidencial en los términos de la Ley de la materia;
+
+IV. Ser el vínculo de comunicación del Ayuntamiento con la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán;
+
+V. Elaborar y proponer el informe anual correspondiente, a la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán; y,
+
+VI. Las demás que establezca la Ley y demás disposiciones aplicables.
 
 ###### Artículo 48.
 
@@ -2131,9 +2171,15 @@ XX. Horarios Comerciales;
 
 XXI. Rastros y Expendios de Carne;
 
-XXII. Anuncios, Espectáculos y Diversiones Públicos; y,
+XXII. Anuncios, Espectáculos y Diversiones Públicos; y, (sic)
 
-XXIII. Los demás que requieran los Ayuntamientos para el cumplimiento de sus atribuciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
+
+XXIII. de (sic) acceso a la información pública; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
+
+XXIV. Los demás que requieran los ayuntamientos, para el cumplimiento de sus atribuciones.
 
 ###### Artículo 149.
 
@@ -2440,3 +2486,9 @@ P.O. 12 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 7 DE AGOSTO DE 2007.
+
+Primero. El presente decreto entrará en vigor el 1º de enero del año 2008.
+
+Segundo. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
