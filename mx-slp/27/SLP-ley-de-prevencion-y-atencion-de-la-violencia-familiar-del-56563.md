@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2007-07-10"
+last_updated: "2007-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -425,13 +425,13 @@ Las Unidades de Atención contarán, preferentemente, con:
 
 I. Dirección;
 
-II. Área de trabajo social;
+II. Area de trabajo social;
 
-III. Área de servicios médicos;
+III. Area de servicios médicos;
 
 IV. Area de servicios jurídicos;
 
-V. Área de atención psicológica, y
+V. Area de atención psicológica, y
 
 VI. Espacios para el albergue temporal y atención de las personas receptoras de violencia familiar, quienes podrán ser auxiliadas por instituciones públicas o privadas.
 
@@ -509,7 +509,7 @@ La facilitación de servicios de atención, no exime al padre, a la madre, o a l
 
 ###### ARTICULO 38.
 
-En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de legalidad, imparcialidad, gratuidad, reserva, breve trámite y oralidad; privilegiando el principio de conciliación.
+En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de, legalidad, imparcialidad, gratuidad, reserva, breve trámite y oralidad; privilegiando el principio de conciliación.
 
 El procedimiento se iniciará inmediatamente, cuando por cualquier medio se tenga conocimiento de un hecho constitutivo de violencia familiar.
 
@@ -543,11 +543,17 @@ La autoridad competente podrá decretar de oficio, o a petición de parte, las s
 
 I. Medidas de protección inmediata:
 
-a) El depósito de la persona receptora de la violencia familiar en un albergue o domicilio, que garantice su integridad personal, en cuyo caso deberá contarse con la anuencia de la persona que asuma tal responsabilidad.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
-b) Prohibición al generador de la violencia de acercarse al domicilio donde se encuentra en depósito, lugar de trabajo, de estudios, o cualquier otro que frecuente la persona receptora de violencia.
+a) Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
 
-c) Reingreso de la persona receptora de la violencia familiar a su domicilio, una vez que se salvaguarde su seguridad.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+b) El depósito de la persona receptora de de la violencia familiar en un albergue o domicilio que garantice su integridad personal, en cuyo caso deberá contarse con la anuencia de la persona que asuma tal responsabilidad.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+c) Prohibición al generador de la violencia de acercarse al domicilio donde se encuentra en depósito, lugar de trabajo, de estudios, o cualquier otro que frecuente la persona receptora de violencia.
 
 d) Prohibición a la persona generadora de violencia, de intimidar o molestar a la persona receptora de violencia en su entorno social, así como a cualquier integrante de su familia.
 
@@ -555,11 +561,25 @@ Las medidas de protección inmediata tendrán una temporalidad no mayor de seten
 
 II. Medidas cautelares:
 
-a) La suspensión temporal al generador de la violencia familiar, del régimen de visitas y convivencia con sus descendientes.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
-b) El embargo preventivo de bienes de la persona generadora de la violencia, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias.
+a) Desocupación del agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo.
 
-c) La obligación de proporcionar alimentos de manera provisional e inmediata.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+b) Reingreso de la persona receptora de la violencia familiar a su domicilio, una vez que se salvaguarde su seguridad.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+c) La suspensión temporal al generador de la violencia familiar del régimen de visitas y convivencia con sus descendientes.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+d) El embargo preventivo de bienes de la persona generadora de la violencia, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+e) La obligación de proporcionar alimentos de manera provisional e inmediata.
 
 Las medidas cautelares serán tramitadas ante los juzgados de lo Familiar; y en los lugares en que no los hubiere, ante los juzgados civiles de Primera Instancia, Mixtos o Menores.
 
@@ -676,3 +696,39 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial del Estado.
+
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio de 2007.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamento de la Ley que se expide, dentro de los noventa días siguientes a la entrada en vigor del artículo Primero de este Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema a que se refiere la Ley que se expide, se integrará dentro de los sesenta días siguientes a la entrada en vigor del artículo Primero del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, dentro de los noventa días siguientes a la integración del mismo.
+
+###### ARTICULO QUINTO.
+
+En los presupuestos de egresos para el ejercicio del año 2008, el Ejecutivo del Estado y los municipios, deberán considerar los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+El Honorable Congreso del Estado, al aprobar el Presupuesto de Egresos del Poder Ejecutivo del Estado para el ejercicio del año 2008, y años subsecuentes, verificará se incluya en los rubros y partidas respectivas, los recursos destinados al desarrollo y cumplimiento de dichos programas y acciones.
+
+Así mismo, verificará que en los presupuestos de egresos para el ejercicio del año 2008 de los municipios, se consideren los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
