@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-07-10"
+last_updated: "2007-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1045,6 +1045,10 @@ IV. Hay traición cuando se utiliza la perfidia, violando la fe o la seguridad q
 
 V. Hay cruel perversidad cuando el inculpado actúa sanguinariamente y con tal saña, que revelan en el sujeto un profundo desprecio por la vida humana.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
+También se considerarán calificadas las lesiones y el homicidio, y serán sancionados como tal, cuando se cometan en agravio de una mujer por su condición de género.
+
 ###### ARTICULO 124.
 
 Al que sorprendiendo a su cónyuge en el acto carnal o próximo a la consumación, mate o lesione a cualquiera de los culpables o a ambos, salvo el caso de que el agresor haya contribuido a la corrupción de su cónyuge, se le impondrá la mitad de la pena del delito de que se trate.
@@ -1361,7 +1365,7 @@ Cuando el delito fuere cometido por quien desempeñe un cargo o empleo público,
 
 ### CAPITULO VI. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 149.
 
@@ -1441,7 +1445,9 @@ Este delito se sancionará con una pena de dos a seis años de prisión y sanci�
 
 ###### ARTICULO 158 Bis.
 
-Comete el delito de hostigamiento sexual, quien valiéndose de la subordinación que ejerce sobre una persona, la asedie, acose o le demande actos de naturaleza sexual, con fines lascivos, o los solicite para un tercero, con la amenaza de causarle un malo o negarle un beneficio al que tenga derecho relacionado con las expectativas que pueda tener en el ámbito laboral, docente, doméstico o cualquier otro.
+Comete el delito de hostigamiento sexual, quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a una persona de cualquier sexo, para sí o para un tercero, con la amenaza de causar a la víctima un perjuicio relacionado con las expectativas que pueda tener en el ámbito laboral, docente, doméstico o de cualquier otra índole, o negarle un beneficio al que tenga derecho; ya sea entre superior o inferior jerárquico, entre iguales o en cualquier circunstancia que implique subordinación.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
 
 Este delito se sancionará con una pena de uno a tres años de prisión y multa de doscientos a trescientos salarios mínimos.
 
@@ -1553,6 +1559,8 @@ Este delito se sancionará con una pena de uno a cuatro años de prisión y sanc
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 169.
 
 Comete el delito de matrimonio ilegal quien, fuera del caso de bigamia, contrae matrimonio con conocimiento de la existencia de un impedimento.
@@ -1629,21 +1637,21 @@ LENOCINIO DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TI
 
 ###### ARTICULO 177.
 
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, que ejerza la fuerza física o moral así como la omisión grave en contra de un miembro de su familia en su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones.
+Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o hasta el cuarto grado o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica y sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de 160 a 200 días de salario mínimo, asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados y gratuitos.
 
-Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de 160 a 200 días de salario mínimo; asimismo, el culpable perderá el derecho de pensión alimenticia y se le sujetará a tratamiento psicológico adecuado.
-
-Este delito se perseguirá por querella necesaria, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+Este delito se perseguirá por querella, salvo que la víctima sea menor de edad, incapaz, o se trate de personas adultas mayores, en cuyo caso, se perseguirá de oficio.
 
 ###### ARTICULO 178.
 
 Se equipara a la violencia familiar cualquiera de los actos señalados en el artículo anterior de este Código, cuando se cometan en contra de la persona con la que se encuentre unida fuera del matrimonio, de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquiera otra que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 179.
 
-En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias.
+En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable, para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas necesarias y, dictará, en su caso, la consistente en la prohibición para el agresor de acercarse al ofendido en un radio de cuando menos 100 metros.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -3196,3 +3204,37 @@ TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalad
 CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
 
 QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
+
+P.O. 7 DE AGOSTO DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El artículo Primero del presente Decreto entrará en vigor el día uno de octubre del año 2007, previa publicación en el Periódico Oficial del Estado.
+
+Los artículos Segundo, Tercero, Cuarto y Quinto de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+El artículo Sexto del presente Decreto una vez publicado en el órgano oficial respectivo, entrará en vigor el día que adquiera plena vigencia el Decreto Legislativo No. 197, publicado en el Periódico Oficial del Estado el 10 de julio de 2007.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamento de la Ley que se expide, dentro de los noventa días siguientes a la entrada en vigor del artículo Primero de este Decreto.
+
+###### ARTICULO TERCERO.
+
+El Sistema a que se refiere la Ley que se expide, se integrará dentro de los sesenta días siguientes a la entrada en vigor del artículo Primero del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, dentro de los noventa días siguientes a la integración del mismo.
+
+###### ARTICULO QUINTO.
+
+En los presupuestos de egresos para el ejercicio del año 2008, el Ejecutivo del Estado y los municipios, deberán considerar los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+El Honorable Congreso del Estado, al aprobar el Presupuesto de Egresos del Poder Ejecutivo del Estado para el ejercicio del año 2008, y años subsecuentes, verificará se incluya en los rubros y partidas respectivas, los recursos destinados al desarrollo y cumplimiento de dichos programas y acciones.
+
+Así mismo, verificará que en los presupuestos de egresos para el ejercicio del año 2008 de los municipios, se consideren los recursos para el cumplimiento de los programas y acciones que deriven de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
