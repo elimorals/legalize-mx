@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-08-02"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1719,6 +1719,14 @@ b) Se ejecute con violencia física o moral en las personas o en las cosas, o bi
 
 c) Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias.
 
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
+
+III. De cinco a ocho años de prisión y multa hasta de doscientos días de salario mínimo, cuando;
+
+a) Se sustraiga el mobiliario o equipo de una escuela, impidiendo el desempeño de sus funciones; o
+
+b) Adquieran, oculten o comercien los bienes producto del robo a escuelas.
+
 ###### Artículo 206.
 
 A quien, en el medio rural, robe algún instrumento o máquina de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar, colmenas, abejas o sus productos se le sancionará de la manera siguiente:
@@ -3212,3 +3220,9 @@ DECRETO No. 894 POR EL QUE SE ADICIONA EL ARTICULO 147 BIS AL CODIGO.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
