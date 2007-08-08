@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-5946"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-10"
-last_updated: "1994-10-10"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDIGENAS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 10 de octubre de 1994.
 
@@ -39,165 +39,357 @@ D E C R E T A :
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDIGENAS DEL ESTADO DE MEXICO
 
-### CAPITULO PRIMERO. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE AGOSTO DE 2007)</small>
+
+### CAPITULO PRIMERO. Naturaleza, Objeto y Atribuciones
 
 ###### Artículo 1.
 
 Se crea el Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México, como un organismo público descentralizado con personalidad jurídica y patrimonio propios.
 
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas, estará sectorizado a la Secretaría de Desarrollo Social.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+Para efectos de esta Ley, cuando se haga referencia al CEDIPIEM o Consejo, se entenderá que se trata del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 2.
 
-El Consejo definirá, ejecutará y evaluará las políticas de atención a los pueblos indígenas.
+El CEDIPIEM tiene como objeto definir, orientar, coordinar, promover, ejecutar, evaluar y dar seguimiento a las políticas, programas, estrategias y acciones para el desarrollo integral de los pueblos indígenas.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 3.
 
-El Consejo constituirá un sistema de planeación y ejecución con las diversas dependencias, ámbitos de gobierno y grupos indígenas del Estado de México.
+Para el cumplimiento de su objeto el CEDIPIEM tendrá las siguientes atribuciones:
 
-### CAPITULO SEGUNDO. De las Atribuciones del Consejo
+I. Establecer las políticas, estrategias, programas y acciones para el desarrollo integral, equitativo y sustentable de los pueblos indígenas del Estado de México;
+
+II. Propiciar el fortalecimiento, difusión, revaloración y reposicionamiento de la cultura, valores sociales y cosmovisión de los pueblos indígenas, así como preservar el uso de sus lenguas;
+
+III. Realizar por sí o a través de terceros, estudios e investigaciones orientadas a promover el desarrollo integral de los pueblos indígenas, así como para contribuir al enriquecimiento, preservación de su acervo histórico y cultural;
+
+IV. Concertar con los sectores público, social y privado, la ejecución de acciones conjuntas en beneficio de los pueblos indígenas;
+
+V. Promover, realizar y participar en foros, congresos, seminarios y demás eventos relacionados con su objeto, por si o en representación del Ejecutivo del Estado;
+
+VI. Actuar como interlocutor de las instancias gubernamentales y los pueblos indígenas y ser enlace con los organismos que tengan el mismo objetivo, procurando que en su actuación reconozcan, protejan y respeten los sistemas normativos internos, los valores culturales, religiosos y espirituales propios de dichos pueblos, así como considerar los problemas que planteen de manera individual o colectiva;
+
+VII. Fortalecer las formas de organización propias de las comunidades indígenas, que propicien la elevación y evaluación de los índices de bienestar social y coadyuven a la reconstitución, al ejercicio de la libre determinación y autonomía de los pueblos y comunidades indígenas, respetando su organización originaria;
+
+VIII. Impulsar la capacitación y organización participativa al interior de las comunidades indígenas, respetando sus formas internas de organización;
+
+IX. Promover, coordinar, operar y evaluar las políticas y programas de apoyo a los pueblos indígenas, en coordinación con los gobiernos municipales y la participación, en su caso, de las dependencias y organismos auxiliares de la administración pública estatal;
+
+X. Coadyuvar y asistir a los indígenas que lo soliciten, en asuntos que tengan interés para la defensa de sus derechos ante las autoridades federales, estatales y municipales involucradas;
+
+XI. Promover el cumplimiento de las disposiciones legales federales, estatales y municipales, así como los compromisos de carácter internacional que suscriba o haya suscrito el gobierno mexicano, con relación a la protección y desarrollo de los pueblos indígenas;
+
+XII. Proponer los mecanismos necesarios para la obtención de los recursos, para la implementación de programas y acciones para el desarrollo de los pueblos indígenas;
+
+XIII. Celebrar convenios, contratos y acuerdos de colaboración con instituciones, entidades federales, estatales y municipales, organismos del sector público, social y privado y organismos nacionales, extranjeros y multinacionales para el logro de su objeto y el fortalecimiento de sus atribuciones;
+
+XIV. Ser instancia de consulta para la formulación, ejecución y evaluación de las acciones que realicen las dependencias y organismos auxiliares de la administración pública estatal, en materia de apoyo a los pueblos indígenas, sin que esto sustituya las consultas que refiere el artículo 9 fracción II inciso a) de la Ley de Derechos y Cultura Indígena del Estado de México;
+
+XV. Proponer programas y acciones que contribuyan a dar cumplimiento a los principios constitucionales, en materia de atención a los pueblos y comunidades indígenas;
+
+XVI. Expedir en el ámbito de su competencia, el Reglamento Interior y las disposiciones necesarias, a fin de hacer efectivas las atribuciones que se le confieren para el cumplimiento de su objeto;
+
+XVII. Intervenir en casos de controversias entre las autoridades municipales y las comunidades indígenas, para propiciar acuerdos conciliatorios;
+
+XVIII. Las demás que le establezcan otras disposiciones legales y las que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE AGOSTO DE 2007)</small>
+
+### CAPITULO SEGUNDO. De la Organización del Consejo
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 4.
 
-El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México, tendrá las siguientes atribuciones:
+La dirección y administración del CEDIPIEM corresponde:
 
-I. Aprobar las políticas, estrategias, programas y acciones para el desarrollo integral de los pueblos indígenas del Estado de México;
+I. A la Junta de Gobierno;
 
-II. Impulsar los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de los pueblos indígenas y al mejoramiento de sus condiciones de vida;
+II. Al Vocal Ejecutivo.
 
-III. Coordinar acciones de atención a los pueblos indígenas, asegurando el autodesarrollo de sus regiones a través de la planeación, ejecución y supervisión de programas;
+El Consejo contará con las unidades administrativas, órganos técnicos, servidores públicos y demás personal necesario para la prestación del servicio de conformidad con las disposiciones legales, administrativas y el presupuesto autorizado.
 
-IV. Aprobar el financiamiento para proyectos específicos de apoyo a núcleos indígenas;
+> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE AGOSTO DE 2007)</small>
 
-V. Actuar como interlocutor de las instancias gubernamentales y los pueblos indígenas y ser enlace con los organismos que tengan el mismo objetivo;
+### CAPITULO TERCERO. De la Junta de Gobierno
 
-VI. Promover y fortalecer las formas de organización propias de las comunidades indígenas, que propicien la elevación de los índices de bienestar social, respetando su organización originaria;
-
-VII. Impulsar la capacitación y la organización participativa al interior de las comunidades indígenas;
-
-VIII. Asumir la defensa de los intereses jurídicos de los indígenas;
-
-IX. Establecer con los Gobiernos Municipales la adecuada coordinación de políticas y acciones que son objeto de esta ley;
-
-X. Cumplir con los compromisos de carácter internacional que suscriba o haya suscrito el Gobierno Mexicano con relación a la protección y desarrollo de los pueblos indígenas;
-
-XI. Celebrar convenios de colaboración con instituciones y organismos nacionales, extranjeros y multinacionales para el desarrollo y fortalecimiento de sus atribuciones;
-
-XII. Conocer y aprobar el programa anual de inversión destinado al Programa de Desarrollo Integral de los Pueblos Indígenas, que será administrado por el Fondo Estatal;
-
-XIII. Conocer y aprobar los presupuestos anuales de ingresos y egresos;
-
-XIV. Aprobar el Reglamento Interior; y
-
-XV. Las demás que establezcan otras leyes.
-
-### CAPITULO TERCERO. De la Integración del Consejo
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 5.
 
-El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México, estará integrado por:
+El funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento.
 
-I. Un Presidente, que será el Secretario de Educación, Cultura y Bienestar Social;
-
-II. Un Vicepresidente, que será el Director General de Promoción Social de la propia Secretaría;
-
-III. Seis vocales, que serán:
-
-a) El Procurador General de Justicia.
-
-b) El Secretario de Desarrollo Agropecuario.
-
-c) El Secretario de Desarrollo Urbano y Obras Públicas.
-
-d) El Secretario de Desarrollo Económico.
-
-e) El Director General del Instituto de Salud del Estado.
-
-f) Un representante del Gobierno Federal, a invitación del Presidente del Consejo.
-
-IV. Cinco vocales de los pueblos indígenas, uno por cada grupo étnico originario, que durarán en su cargo dos años;
-
-V. Dos vocales indígenas invitados por el Presidente del Consejo, que durarán en su cargo dos años;
-
-VI. Un Secretario Técnico, que será el Vocal Ejecutivo del Consejo designado por el Presidente, quien concurrirá a las sesiones con voz pero sin voto; y
-
-VII. Un Comisario designado por el Gobernador del Estado, a propuesta del Secretario de la Contraloría.
-
-Por cada vocal habrá un suplente.
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 6.
 
-El Consejo integrará las comisiones necesarias, en las que se incluya a los Presidentes Municipales de aquellos municipios que cuenten con población indígenas; así como a los especialistas en la materia.
+La Junta de Gobierno es la máxima autoridad del CEDIPIEM y estará integrada por:
+
+I. Un Presidente, quien será el Secretario de Desarrollo Social;
+
+II. Un Secretario Técnico, quien será el Vocal Ejecutivo;
+
+III. Un Comisario, quien será el representante de la Secretaría de la Contraloría;
+
+IV. Veinte vocales, quien serán:
+
+a) El Secretario de Finanzas.
+
+b) El Secretario de Desarrollo Agropecuario.
+
+c) El Secretario de Desarrollo Urbano.
+
+d) El Secretario de Agua y Obra Pública.
+
+e) El Secretario de Desarrollo Económico.
+
+f) El Secretario de Educación.
+
+g) El Procurador General de Justicia.
+
+h) El Secretario de Salud.
+
+i) El Secretario del Medio Ambiente.
+
+j) Un representante del Poder Legislativo.
+
+A invitación del Presidente:
+
+k) Un representante del Gobierno Federal.
+
+l) Siete representantes de los pueblos indígenas originarios del Estado de México, de los cuales dos corresponderán al pueblo Mazahua, dos al pueblo Otomí y uno por cada uno de los pueblos Nahua, Tlahuica y Matlazinca, los cuales durarán en su cargo tres años.
+
+m) Dos representantes de los pueblos indígenas migrantes asentados en el Estado de México, y cuenten con mayor representatividad, los cuales durarán en su cargo tres años.
+
+El presidente deberá designar a los representantes que refieren los incisos l) y m), del presente artículo considerando las propuestas que le presenten los ayuntamientos que cuenten con comisiones de asuntos indígenas, las organizaciones sociales con clara orientación en la materia, los pueblos y las comunidades indígenas, buscando que en su designación se respeten los criterios de pluralidad política y social de la región en que vivan. Para tal efecto, el presidente deberá emitir una convocatoria pública que establezca los requisitos y criterios de selección, la que deberá difundirse entre los pueblos y las comunidades indígenas originarias del estado y migrantes.
+
+Estos espacios de representación deberán recaer sobre autoridades tradicionales reconocidas por las comunidades o líderes representativos y deberán reunir los siguientes requisitos:
+
+1.- Pertenecer a un pueblo indígena y ser hablante de la lengua materna.
+
+2.- Tener una relación permanente con el pueblo indígena al que pertenece.
+
+3.- Poseer calidad moral y compromiso con sus pueblos y que esta sea socialmente reconocida.
+
+4.- Tener amplia experiencia en el trabajo a favor de los pueblos indígenas.
+
+5.- No haber desempeñado cargo partidista, un año antes de la designación.
+
+En la selección de los consejeros indígenas se procurará aplicar un criterio de equidad de tal manera que se cuente con la presencia de consejeros hombres y mujeres. Se procurará que en el caso de los representantes de los pueblos Mazahua y Otomí, la selección deberá de tomar en cuenta la distribución geográfica y regional de sus integrantes, así como en el caso de los migrantes, que correspondan a pueblos diferentes.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 7.
 
-El funcionamiento del Consejo se regirá por lo dispuesto por la Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado y su Reglamento.
+Los integrantes de la Junta de Gobierno tendrán voz y voto, con excepción del Secretario Técnico, el Comisario y el representante del Gobierno Federal, quienes sólo tendrán voz.
+
+Por cada uno de los integrantes de la Junta de Gobierno se nombrará un suplente. El cargo otorgado dentro de la Junta de Gobierno será honorífico.
+
+El Presidente podrá invitar a las sesiones de la Junta de Gobierno a representantes de otras dependencias y organismos auxiliares, así como de los sectores social y privado, vinculados con los asuntos del Organismo, quienes tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 8.
 
-El Secretario Técnico que será el Vocal Ejecutivo del Consejo, tendrá las siguientes atribuciones:
+La Junta de Gobierno sesionará en forma ordinaria cada dos meses, y en forma extraordinaria cuando el Presidente lo estime necesario o a petición de la tercera parte de los miembros de este órgano de gobierno. Sus decisiones se tomarán por unanimidad o mayoría de votos y, en caso de empate el Presidente tendrá voto de calidad.
 
-I. Representar oficialmente al Consejo;
-
-II. Elaborar y someter a consideración del Consejo, el Programa de Desarrollo Integral de los Pueblos Indígenas del Estado de México;
-
-III. Presentar al Consejo el Programa Anual de Trabajo con base en los lineamientos establecidos por el Programa de Desarrollo Integral de los Pueblos Indígenas del Estado de México;
-
-IV. Programar y coordinar las acciones que en atención a las comunidades indígenas se realizan en la entidad;
-
-V. Presentar al Consejo los proyectos de inversión que serán remitidos al Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas para su financiamiento;
-
-VI. Evaluar el impacto social de las acciones emprendidas en las regiones indígenas;
-
-VII. Coordinar las acciones que se encomienden a las comisiones;
-
-VIII. Presentar al Consejo el proyecto de Reglamento Interior;
-
-IX. Concentrar y analizar las investigaciones sobre los problemas específicos de las comunidades indígenas, con el objeto de contar con diagnósticos sociales, económicos y culturales;
-
-X. Enviar al Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas los proyectos de inversión aprobados por el Consejo para su financiamiento;
-
-XI. Proponer al Consejo, alternativas de financiamiento para proyectos específicos de apoyo a núcleos indígenas;
-
-XII. Elaborar y promover proyectos de capacitación y adiestramiento dirigidos a los núcleos indígenas;
-
-XIII. Ejecutar con las comunidades, proyectos productivos, sociales y culturales que hayan sido aprobados por el Consejo; y
-
-XIV. Las demás que le señalen el Reglamento Interior o le encomiende el Consejo.
+> <small>(REFORMADO Y REUBICADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 9.
 
-El patrimonio del Consejo estará constituido por:
+Las sesiones de la Junta de Gobierno serán válidas con la asistencia de cuando menos la mitad más uno de sus miembros, siempre que entre ellos se encuentre el Presidente y el Secretario Técnico o sus respectivos suplentes debidamente acreditados. El Secretario Técnico expedirá la convocatoria por acuerdo del Presidente.
 
-I. El presupuesto que le asigne el Gobierno Estatal; y
-
-II. Los bienes y demás ingresos que por cualquier título adquiera.
+> <small>(REFORMADO Y REUBICADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 10.
 
-La administración del patrimonio del Consejo se llevará a cabo conforme a lo establecido en la Ley de Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México.
+Son atribuciones de la Junta de Gobierno:
 
-### CAPITULO CUARTO. De las Atribuciones del Secretario Técnico
+I. Establecer las políticas y lineamientos generales del CEDIPIEM;
+
+II. Conocer y aprobar el programa anual de inversión destinado al Programa de Desarrollo Integral de los Pueblos Indígenas, que será administrado por el Fondo Estatal;
+
+III. Aprobar y evaluar los programas y proyectos del CEDIPIEM y sus modificaciones;
+
+IV. Aprobar los proyectos del programa operativo anual, de los presupuestos de ingresos y egresos del programa de inversiones;
+
+V. Aprobar los proyectos de reglamentos, manuales y demás disposiciones que rijan el funcionamiento del CEDIPIEM;
+
+VI. Aprobar los proyectos de adquisición y contratación de bienes y servicios;
+
+VII. Aprobar los convenios, contratos y acuerdos que celebre el CEDIPIEM con las dependencias o entidades de la administración pública federal, estatal o municipal o con los sectores social y privado;
+
+VIII. Aprobar la estructura orgánica del Consejo, así como sus modificaciones;
+
+IX. Conocer y aprobar, en su caso, los estados financieros que presente el Vocal Ejecutivo, previo dictamen del auditor externo;
+
+X. Solicitar en cualquier tiempo al Vocal Ejecutivo del Consejo, informes del estado que guardan los programas y presupuestos a cargo del CEDIPIEM;
+
+XI. Aprobar la cuenta anual de ingresos y egresos del CEDIPIEM;
+
+XII. Aprobar los informes de actividades que rinda el Vocal Ejecutivo;
+
+XIII. Vigilar la prestación y conservación del patrimonio del CEDIPIEM, así como conocer y resolver sobre los actos que asignen o dispongan de sus bienes;
+
+XIV. Aceptar las donaciones, legados y demás bienes que otorguen a favor del CEDIPIEM;
+
+XV. Autorizar la creación y extinción de comités y grupos de trabajo internos así como las comisiones necesarias, en las que se incluya a los Presidentes Municipales y a la representación indígena legítimamente reconocida, de aquellos municipios que cuenten con este sector de la población, así como a los especialistas en la materia.
+
+XVI. Las demás que le confiera esta Ley y las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE AGOSTO DE 2007)</small>
+
+### CAPITULO CUARTO. Del Vocal Ejecutivo
+
+> <small>(REFORMADO Y REUBICADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 11.
 
-Se crea el Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México con las aportaciones de los gobiernos federal, estatal y municipales, cuya administración estará a cargo de un Comité que será el órgano responsable de aplicar las inversiones aprobadas por el Consejo.
+El Vocal Ejecutivo del CEDIPIEM, será nombrado y removido por el Gobernador del Estado, a propuesta del Presidente de la Junta de Gobierno.
+
+En los casos de ausencia temporal será sustituido por quien designe la Junta de Gobierno y en las definitivas por quien designe el Gobernador, en los términos del párrafo anterior.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 12.
 
-El Comité a que se refiere el artículo anterior estará integrado por:
+El Vocal Ejecutivo del CEDIPIEM, tendrá las siguientes atribuciones:
 
-I. Un Presidente designado por el Consejo a propuesta de su Presidente;
+l. Administrar y representar legalmente al Consejo con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para realizar actos de dominio, requerirá la autorización expresa de la Junta de Gobierno, de acuerdo con la legislación y reglamentación administrativa vigente:
 
-II. Un representante de la Secretaría de Finanzas y Planeación;
+II. Elaborar y someter a la aprobación de la Junta de Gobierno, el Programa para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-III. Un representante de la Secretaría de la Contraloría; y
+III. Vigilar el cumplimiento del objeto, planes y programas del Consejo;
 
-IV. Un representante de cada uno de los dos pueblos indígenas con mayor número de integrantes.
+IV. Dar cumplimiento a los acuerdos que emita la Junta de Gobierno;
 
-T R A N S I T O R I O S
+V. Proponer a la Junta de Gobierno las políticas generales del Consejo y aplicarlas;
+
+VI. Asumir la defensa de los derechos de los indígenas, ante las autoridades federales, estatales y municipales;
+
+VII. Proponer al Ejecutivo del Estado el diseño e instrumentación de acuerdos y convenios para el bienestar de los pueblos indígenas, con la participación del sector público, social y privado;
+
+VIII. Celebrar convenios, contratos y acuerdos con dependencias y entidades federales, estatales y municipales, organismos del sector público, privado y social, nacionales y extranjeros, previa aprobación de la Junta de Gobierno;
+
+IX. Elaborar el programa anual de inversión, destinado al Programa de Desarrollo Integral de los Pueblos Indígenas, que será administrado por el Fondo Estatal;
+
+X. Elaborar los presupuestos anuales de ingresos y egresos del Consejo;
+
+XI. Presentar a la Junta de Gobierno, para su autorización, los proyectos de programa operativo anual, presupuesto anual de ingresos y egresos y el programa de inversión del Consejo, con base a los lineamientos establecidos por el Programa de Desarrollo Integral de los Pueblos Indígenas del Estado de México, del Plan de Desarrollo del Estado, de los programas que de éste se deriven y de las estrategias y prioridades estatales;
+
+XII. Vigilar el cumplimiento de las disposiciones y acuerdos que normen la estructura y funcionamiento del Consejo;
+
+XIII. Programar y coordinar las acciones para la atención a las comunidades indígenas que se realicen en la Entidad;
+
+XIV. Presentar a la Junta de Gobierno los proyectos de inversión, que serán remitidos al Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas, para su financiamiento;
+
+XV. Proponer a la Junta de Gobierno para su aprobación, las modificaciones a la organización administrativa, para el eficaz cumplimiento del objeto del Consejo;
+
+XVI. Evaluar el impacto social de las acciones emprendidas en los municipios con población indígena;
+
+XVII. Coordinar las acciones que la Junta de Gobierno encomiende a las comisiones, así como proponer la creación de comités y grupos de trabajo interno;
+
+XVIII. Presentar a la Junta de Gobierno para su discusión y aprobación, los proyectos de reglamentos internos, manuales administrativos y demás disposiciones que rijan el funcionamiento del Consejo, así como la adquisición y contratación de bienes y servicios;
+
+XIX. Promover la realización de estudios e investigaciones orientadas a analizar la problemática de los pueblos y comunidades indígenas y proponer acciones para su atención;
+
+XX. Informar cada dos meses a la Junta de Gobierno sobre los estados financieros y los avances de los programas de inversión, así como de las actividades realizadas por el Consejo;
+
+XXI. Rendir un informe anual de actividades del Consejo;
+
+XXII. Enviar al Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas, los proyectos de inversión aprobados por la Junta de Gobierno, para su financiamiento;
+
+XXIII. Proponer a la Junta de Gobierno, alternativas de financiamiento para proyectos específicos de apoyo a núcleos indígenas;
+
+XXIV. Elaborar y promover proyectos de capacitación y adiestramiento dirigidos a los núcleos indígenas;
+
+XXV. Informar a la Junta de Gobierno de los nombramientos, renuncias y remociones de los servidores públicos del Consejo;
+
+XXVI. Nombrar y remover al personal de confianza, cuyo nombramiento o remoción no esté determinado de otra manera;
+
+XXVII. Ejecutar con las comunidades, los proyectos productivos, sociales y culturales que hayan sido aprobados por la Junta de Gobierno;
+
+XXVIII. Las demás que le confiere esta ley y otras disposiciones legales aplicables o le encomiende la Junta de Gobierno.
 
 ### CAPITULO QUINTO. Del Patrimonio del Consejo
 
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 13.
+
+El patrimonio del Consejo estará constituido por:
+
+I. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
+
+II. Los legados, donaciones y demás bienes otorgados en su favor, así como los productos de los fideicomisos en los que se señale como fideicomisario;
+
+III. Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+IV. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 14.
+
+La administración del patrimonio del Consejo se llevará a cabo conforme a lo establecido en las disposiciones legales aplicables, y lo destinará al cumplimiento de su objeto.
+
 ### CAPITULO SEXTO. Del Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 15.
+
+Se crea el Fondo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México, con la aportación de los gobiernos federal, estatal y municipales, cuya administración estará a cargo de un Comité que será el órgano responsable, de aplicar las inversiones aprobadas por la Junta de Gobierno.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 16.
+
+El Comité a que se refiere el artículo anterior estará integrado por:
+
+I. Un Presidente designado por la Junta de Gobierno a propuesta de su Presidente;
+
+II. Un representante de la Secretaría de Finanzas;
+
+III. Un representante de la Secretaría de la Contraloría.
+
+A invitación del Presidente:
+
+IV. Un representante de cada uno de los dos pueblos indígenas originarios con mayor número de integrantes, que durarán en su cargo tres años;
+
+V. Un representante de los pueblos indígenas migrantes, que durará en su cargo tres años buscando que en su designación se respeten los criterios de pluralidad política y social de la región en que vivan;
+
+VI. El Presidente deberá designar a los representantes que refieren las fracciones IV y V del presente artículo, conforme a lo dispuesto por el Artículo 6 de este ordenamiento, para nombrar a los representantes indígenas ante la Junta de Gobierno.
+
+El Comité informará periódicamente de la aplicación de los recursos del Fondo a cada uno de los gobiernos que aporten recursos para su integración.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 8 DE AGOSTO DE 2007)</small>
+
+### CAPITULO SEPTIMO. Del Personal
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 17.
+
+Para el cumplimiento de su objeto, el Consejo contará con personal general y de confianza, en términos de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2007)</small>
+
+###### Artículo 18.
+
+El personal del Consejo gozará de las prestaciones y servicios que establece la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -238,3 +430,19 @@ LIC. EMILIO CHUAYFFET CHEMOR
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CESAR CAMACHO QUIROZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 8 DE AGOSTO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Vocal Ejecutivo proveerá lo necesario para que el Consejo corresponda a las disposiciones que se establecen en la Ley de Transparencia y Acceso a la Información Pública del Estado de México, de cuya transparencia informará a la Junta de Gobierno.
+
+CUARTO.- El CEDIPIEM expedirá su Reglamento Interno en un plazo no mayor de 90 días a partir de la fecha en que tenga lugar la sesión de Instalación de la Junta de Gobierno.
+
+QUINTO.- El Poder Legislativo nombrará al Diputado que integrará la Junta de Gobierno del CEDIPIEM.
+
+SEXTO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
