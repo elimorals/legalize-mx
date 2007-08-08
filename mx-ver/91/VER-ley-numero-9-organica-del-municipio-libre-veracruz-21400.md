@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2007-03-21"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -551,7 +551,7 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y (sic)
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
 
 > <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -1803,6 +1803,8 @@ Cuando las licitaciones a que hace referencia el párrafo anterior, no sean idó
 
 ### CAPÍTULO II. DE LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 114.
 
 Para efectos de la presente ley se consideran servidores públicos municipales a los Ediles, los Agentes y Subagentes Municipales, los Secretarios y los Tesoreros Municipales, los titulares de las dependencias centralizadas, de órganos desconcentrados y de entidades paramunicipales y, en general, toda persona que desempeñe un empleo, cargo o comisión de confianza en los Ayuntamientos; asimismo a todas aquellas personas que manejen o apliquen recursos económicos municipales.
@@ -1929,43 +1931,31 @@ Se concede acción popular para denunciar ante el Procurador General de Justicia
 
 ### CAPÍTULO III. DE LA SUSPENSIÓN Y DECLARACIÓN DE DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 124.
 
-El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, cumpliendo con el procedimiento que se enuncia en esta ley, podrá suspender o revocar el mandato de alguno o algunos de los Ediles.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender o revocar el mandato de alguno de los ediles.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 125.
 
-Son causas graves para que se suspenda o revoque el mandato a los Ediles:
+Son causas graves para que se suspenda o revoque el mandato de los ediles, además de las que señala el artículo 13 de la Ley de Juicio Político y Declaración de Procedencia para el Estado de Veracruz de Ignacio de la Llave, las siguientes:
 
-I. Los actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y su correcto despacho, como son:
+I. Faltar a las sesiones del Ayuntamiento, sin causa justificada, por tres veces dentro del período de tres meses, o dejar de desempeñar las atribuciones propias de su encargo;
 
-a) El ataque a las instituciones democráticas;
+II. Dejar de presentarse a las sesiones del Ayuntamiento o al desempeño de sus atribuciones, cuando habiendo solicitado su separación al cargo, el Congreso no haya resuelto sobre la procedencia de ésta;
 
-b) El ataque a la forma de gobierno republicano, representativo y federal;
+III. La comisión de delitos intencionales durante su encargo; o
 
-c) Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+IV. Los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus atribuciones.
 
-d) El ataque a la libertad de sufragio;
-
-e) La usurpación de atribuciones;
-
-f) Cualquier infracción a la Constitución General de la República, a la Constitución Política del Estado o a las Leyes que de ellas emanen, cuando cause perjuicios graves al Estado, al Municipio o a la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones;
-
-g) Las omisiones de carácter grave, en los términos del inciso anterior;
-
-h) Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Estatal o Municipal y a las leyes que determinen el manejo de los recursos económicos estatales y de los municipios;
-
-i) Faltar a las sesiones del Ayuntamiento, sin causa justificada, por tres veces dentro del plazo de tres meses o dejar de desempeñar las atribuciones propias de su cargo; o
-
-j) Dejar de presentarse a las sesiones del Ayuntamiento o al desempeño de sus funciones, cuando habiendo solicitado su separación al cargo, el Congreso no haya resuelto sobre la procedencia de ésta;
-
-II. La comisión de delitos intencionales durante su encargo; o
-
-III. Los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 126.
 
-Es facultad del Congreso, calificar la gravedad, según el caso, para la procedencia de la suspensión o la revocación del mandato.
+El Congreso del Estado tiene competencia para calificar la gravedad, según el caso, para la procedencia de la suspensión o la revocación del mandato.
 
 Cuando proceda la revocación del mandato, el Congreso del Estado podrá sancionar con la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público. La inhabilitación será de uno a diez años.
 
@@ -1975,15 +1965,19 @@ De los delitos del orden común cometidos por los Presidentes o Síndicos Munici
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA SUSPENSIÓN Y REVOCACIÓN DEL MANDATO DE LOS MIEMBROS DEL AYUNTAMIENTO Y SUSPENSIÓN DE AYUNTAMIENTOS
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 128.
 
-El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, cumpliendo con el procedimiento que se enuncia en el presente Título, podrá suspender o declarar la desaparición de los Ayuntamientos.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender o declarar la desaparición de los Ayuntamientos.
 
 ###### Artículo 129.
 
 Son causas graves para que se suspenda un Ayuntamiento:
 
-I. Que incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho, en términos de lo establecido por la fracción I, del artículo 125 de esta Ley; o
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2007)</small>
+
+I. Que incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho, en términos de lo establecido por el artículo 125 de esta ley; o
 
 II. Que por cualquier causa, exista falta de propietarios o suplentes y no hubiere el quórum que permita celebrar sesiones.
 
@@ -2001,81 +1995,47 @@ III. La renuncia o separación mayoritaria de los Ediles, declarada procedente p
 
 ###### Artículo 131.
 
-Se concede acción popular para denunciar ante el Congreso del Estado o la Diputación Permanente, en su caso, las causas a que se refieren los artículos 125 y 129 de esta Ley. Toda denuncia deberá ser ratificada dentro de las setenta y dos horas siguientes a su presentación.
+Se concede acción popular para denunciar ante el Congreso del Estado o la Diputación Permanente, en su caso, las causas graves que señalan los artículos 125 y 129 de esta ley.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 132.
 
-Si la denuncia se presenta y ratifica cuando esté en receso el Congreso del Estado, la Diputación Permanente y la Comisión de Gobernación resolverán sobre la procedencia o improcedencia de aquella. En caso de que proceda, la Diputación Permanente convocará a sesión extraordinaria del Congreso del Estado, que se llevará a cabo en un plazo no menor de tres días; en todo caso y durante este término, recabará informes para los efectos del artículo 136 de esta ley.
+Para la suspensión y revocación del mandato de los ediles, así como para la suspensión de los Ayuntamientos, el Congreso del Estado actuará, en lo conducente, conforme al procedimiento que indican los artículos del 18 al 25, inclusive, de la Ley de Juicio Político y Declaración de Procedencia para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 133.
 
-Si la denuncia se presenta y ratifica cuando el Congreso esté en sesiones, conocerán las Comisiones de Gobernación y de Justicia y Puntos Constitucionales, para que resuelvan sobre la procedencia o improcedencia de aquella, en la hipótesis prevista en el artículo 131.
+El Congreso del Estado determinará la procedencia de la denuncia que refiere el artículo 131 de esta ley, a través de las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales; y la instrucción del procedimiento lo substanciará por conducto de la Comisión Permanente Instructora. El Pleno del Congreso del Estado resolverá en definitiva.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 134.
 
-La Diputación Permanente y la Comisión de Gobernación, para resolver sobre la procedencia o improcedencia de la denuncia, deberán determinar si la conducta atribuida corresponde a las enumeradas por los artículos 125 y 129 de esta ley y si él o los denunciados son servidores públicos municipales, en los términos de la misma.
+Si el Congreso del Estado acuerda suspender o revocar el mandato de algún miembro del Ayuntamiento, la resolución que la contenga ordenará que se llame al suplente, para que se le tome la protesta y asuma el cargo, en los términos de esta ley.
 
-###### Artículo 135.
+Artículos 135. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-Una vez acreditados los supuestos del artículo anterior, la denuncia se turnará a la Comisión Instructora.
+Artículos 136. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-###### Artículo 136.
+Artículos 137. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-La Comisión Instructora practicará todas las diligencias necesarias para la comprobación de la conducta y el hecho materia de aquella, estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+Artículos 138. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-La Comisión Instructora informará al denunciado sobre la materia de aquella, haciéndole saber su derecho a defenderse y que deberá, a su elección, comparecer o informar por escrito, dentro de los siete días naturales siguientes a la notificación.
+Artículos 139. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-###### Artículo 137.
+Artículos 140. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-La Comisión Instructora abrirá un período de prueba de quince días naturales dentro del cual recibirá las pruebas que ofrezcan el servidor público o su defensor y las que ésta considere necesarias.
+Artículos 141. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-Si al concluir el plazo señalado no hubiese sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Comisión Instructora podrá ampliarlo, a petición del denunciado, en la medida que resulte estrictamente necesario.
+Artículos 142. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-En todo caso, la Comisión Instructora calificará la pertinencia de las pruebas, desechando las que a su juicio sean improcedentes.
+Artículos 143. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-###### Artículo 138.
+Artículos 144. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
-Terminada la instrucción del procedimiento, se pondrá el expediente, por un plazo de cuarenta y ocho horas, a la vista del servidor público y su defensor, a fin de que tomen los datos que requieran para formular alegatos, que deberán presentar por escrito dentro de los tres días naturales siguientes al vencimiento del segundo plazo mencionado, si lo hubiere.
-
-###### Artículo 139.
-
-Transcurrido el plazo para la presentación de alegatos, se hayan o no entregado éstos, la Comisión Instructora formulará sus conclusiones en vista de las constancias del procedimiento. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del proceso.
-
-###### Artículo 140.
-
-Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Comisión Instructora continuarán, proponiendo que se declare que no ha lugar a proceder en su contra por la conducta o el hecho materia de la denuncia, que dio origen al procedimiento.
-
-Si de las constancias aparece la probable responsabilidad del servidor público, las conclusiones terminarán proponiendo la aprobación de lo siguiente:
-
-I. Que está debidamente comprobado el hecho materia de la denuncia; y
-
-II. Que existe probable responsabilidad del inculpado;
-
-De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
-
-###### Artículo 141.
-
-Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión Instructora las entregará al Secretario de la Mesa Directiva del Congreso para que dé cuenta al Presidente del mismo, quien anunciará que el Congreso del Estado debe reunirse y resolver sobre la imputación, dentro de los tres días naturales siguientes, lo que hará saber el Secretario, al servidor público denunciado, para que se presente personalmente asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
-
-###### Artículo 142.
-
-La Comisión Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas al Secretario, conforme a los artículos anteriores, dentro del plazo de cuarenta y cinco días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar del Congreso del Estado que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días.
-
-###### Artículo 143.
-
-El día señalado, conforme al artículo 141 de esta Ley, la Secretaría dará lectura a las constancias procedimentales o una síntesis que contenga los puntos sustanciales de éstas; así como las conclusiones de la Comisión Instructora. Acto continuo se concederá la palabra al servidor público o a su defensor o a ambos si alguno de éstos lo solicitare, para que alegue lo que convenga a sus intereses.
-
-Retirados el servidor público y su defensor, se procederá a discutir y a votar las conclusiones propuestas por la Comisión Instructora.
-
-###### Artículo 144.
-
-Tomada la decisión por el Congreso del Estado, se dictará resolución, la que se notificará personalmente y se publicarán los puntos resolutivos en la Gaceta Oficial del Estado.
-
-Para que la resolución condenatoria tenga validez se requerirá el voto aprobatorio de las dos terceras partes de los integrantes del Congreso del Estado.
-
-###### Artículo 145.
-
-Toda resolución en la que se declare la suspensión o revocación del mandato de un miembro del Ayuntamiento, contendrá la orden para que se llame al suplente, para que se le tome la protesta y asuma el cargo, en los términos de esta Ley.
+Artículos 145. (DEROGADO, G.O. 8 DE AGOSTO DE 2007)
 
 ###### Artículo 146.
 
@@ -2095,27 +2055,21 @@ Dicha resolución se notificará a los acusados y se publicará en la Gaceta Ofi
 
 Dictada la resolución a que se refiere este artículo se continuará con el procedimiento ordenado en el presente Capítulo.
 
-### CAPÍTULO VI. DEL JUICIO DE PROCEDENCIA
+### CAPÍTULO VI. DE LA DECLARACIÓN DE PROCEDENCIA
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 148.
 
 Cuando el Congreso del Estado al recibir la denuncia, tenga conocimiento de que se han presentado las causas previstas en el artículo 130 de esta ley, de inmediato la turnará a la Comisión Instructora, para que sin demora notifique al Ayuntamiento, reciba las pruebas y alegatos que éste ofrezca y emita un dictamen sobre la procedencia o improcedencia de la declaración de desaparición del Ayuntamiento. Con vista en el dictamen, el Congreso del Estado resolverá lo procedente.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE AGOSTO DE 2007)</small>
+
 ### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 149.
 
-Para la declaración de procedencia en contra de Presidentes Municipales, Síndicos o de Presidentes de Concejos Municipales, por la comisión de delitos, se estará a lo siguiente:
-
-I. Se requerirá denuncia del Ministerio Público u orden de Juez competente, las que serán acompañadas de copia certificada de averiguación previa debidamente determinada o de causa radicada;
-
-II. El Congreso del Estado o la Diputación Permanente turnarán el expediente a la Comisión de Justicia y Puntos Constitucionales, la que, previa comprobación del carácter de Presidente Municipal, Síndico o Presidente de Concejo Municipal, hará la notificación al interesado para que en el plazo de cinco días hábiles manifieste lo que a su derecho convenga;
-
-III. Vencido el plazo anterior la Comisión dictaminará, para el caso de que la conducta imputada esté tipificada por el Código Penal, que ha lugar a proceder en contra del munícipe;
-
-IV. De encontrarse el Congreso en receso, la Diputación Permanente convocará de inmediato a un período de sesiones extraordinarias para que aquél resuelva, en una sola sesión, si es de aprobarse el dictamen;
-
-V. De aprobarse el dictamen por el voto de las dos terceras partes de la totalidad de los integrantes del Congreso, el munícipe cesará de inmediato en sus funciones.
+Para la declaración de procedencia en contra del Presidente Municipal y del Síndico, por la comisión de delitos, el Congreso del Estado actuará con base en la ley de la materia.
 
 ### CAPÍTULO VIII. DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS ENUNCIADOS EN EL PRESENTE TÍTULO
 
@@ -2690,3 +2644,9 @@ G.O. 21 DE MARZO DE 2007.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Los procedimientos de revocación o suspensión del mandato de los ediles, así como de suspensión de ayuntamientos que se encuentren substanciándose al iniciar la vigencia de este decreto, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público, o del ayuntamiento inculpados.
