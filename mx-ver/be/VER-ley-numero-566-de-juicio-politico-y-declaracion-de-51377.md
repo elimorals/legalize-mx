@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-566-de-juicio-politico-y-declaracion-de-51377"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-10"
-last_updated: "2006-08-10"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 8 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 10 de agosto de 2006.
 
@@ -317,7 +317,9 @@ IV. El Jurado de Procedencia acordará, por el voto de las dos terceras partes d
 
 Artículo 36
 
-1. Si el Jurado de Declaración acuerda proceder penalmente, el servidor público será privado del fuero constitucional, y quedará inmediatamente separado de su empleo, cargo o comisión, y sujeto a la jurisdicción de los tribunales competentes.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2007)</small>
+
+1. Si el Jurado de Procedencia acuerda proceder penalmente, el servidor público será privado del fuero constitucional, y quedará inmediatamente separado de su empleo, cargo o comisión, y sujeto a la jurisdicción de los tribunales competentes.
 
 2. El Congreso del Estado, a través de la Secretaría General, notificará el acuerdo que contiene la Declaración de Procedencia y la remoción del fuero constitucional mediante oficio al inculpado, al denunciante o querellante y al Ministerio Público quien podrá solicitar las medidas precautorias conducentes, de conformidad con la legislación penal.
 
@@ -388,3 +390,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 8 DE AGOSTO DE 2007.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+Segundo. Los procedimientos de revocación o suspensión del mandato de los ediles, así como de suspensión de ayuntamientos que se encuentren substanciándose al iniciar la vigencia de este decreto, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público, o del ayuntamiento inculpados.
