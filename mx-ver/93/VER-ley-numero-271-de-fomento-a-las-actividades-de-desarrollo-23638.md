@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-23638
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2003-03-18"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 11 de febrero de 2002.
 
@@ -59,7 +59,11 @@ II. Fomentar condiciones sociales que favorezcan integralmente el desarrollo hum
 
 III. Promover la realización de obras y la prestación de servicios públicos para beneficio de la población;
 
-IV. Coadyuvar en las acciones de fomento al desarrollo regional, turístico, industrial y comunitario, de manera sustentable y el aprovechamiento de los recursos naturales, la protección del medio ambiente y la conservación y restauración del equilibrio ecológico;
+IV. Coadyuvar en las acciones de fomento al desarrollo regional, turístico, industrial y comunitario, de manera sustentable y el aprovechamiento de los recursos naturales, la protección del medio ambiente y la conservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2007)</small>
+
+Las organizaciones de la sociedad civil, cuyo objeto social contemple el aprovechamiento de los recursos naturales, deberán ajustar su ejercicio a los criterios previstos en los ordenamientos legales aplicables en materia ambiental, así como a las disposiciones de los reglamentos, normas oficiales, programas de ordenamiento ecológico y demás normatividad que de los mismos se derive;
 
 V. Promover acciones de prevención y protección civil;
 
@@ -250,3 +254,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
