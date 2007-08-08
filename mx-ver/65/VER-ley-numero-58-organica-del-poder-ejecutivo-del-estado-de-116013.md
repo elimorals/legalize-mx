@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2006-08-30"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1189,6 +1189,14 @@ XXIV. Promover programas y actividades para orientar, informar y lograr la parti
 
 XXV. Organizar y fomentar la investigación relacionada con la ecología;
 
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
+
+XXV Bis. Formular, conducir y ejecutar las políticas relativas a la flora y fauna silvestres que correspondan al ámbito de competencia del Estado, en términos de lo que dispongan las leyes federales y locales en la materia y de conformidad con los convenios que se suscriban con la federación;
+
+> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
+
+XXV Ter. Elaborar proyectos para construir zoológicos, así como el llevar a cabo la administración, coordinación y supervisión de la operación y funcionamiento de los ya existentes y nuevos en el Estado, cuyo fin sea el de ser centros de conservación, preservación y exhibición de flora y fauna, que tengan como objetivo la investigación, educación, recreación y esparcimiento para la población.
+
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXVI. Promover y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los Gobiernos Federales y Municipales;
@@ -2070,3 +2078,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los recursos materiales, humanos y financieros, que correspondían a la Secretaría de Seguridad Pública en materia de prevención y readaptación social pasan a la Secretaría de Gobierno.
 
 Tercero. El Gobernador del Estado en un término de noventa días a partir de la vigencia del presente Decreto, realizará las adecuaciones a los reglamentos internos de las dependencias que modifican sus atribuciones.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 896 QUE ADICIONA LAS FRACCIONES XXV BIS Y XXV TER AL ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+Tercero. La Secretaría de Desarrollo Social y Medio Ambiente, en un plazo de treinta días de la entrada en vigor del presente decreto, deberá adecuar su Reglamento Interior a las presentes disposiciones.
