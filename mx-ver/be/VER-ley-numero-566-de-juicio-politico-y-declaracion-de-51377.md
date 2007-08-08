@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-566-de-juicio-politico-y-declaracion-de-51377"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-10"
-last_updated: "2006-08-10"
+last_updated: "2007-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,370 +21,288 @@ state: "VER"
 ---
 # LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 30 DE OCTUBRE DE 2006., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 10 de agosto de 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de marzo de 2000.
 
-Que la Sexagésima Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente ley para su promulgación y publicación:
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
 
-La Sexagésima Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el gobierno interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-Ley número 566
+"NUMERO 83
 
-DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
 
-### Capítulo I. Disposiciones Generales
+LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-Artículo 1
+DISPOSICIONES GENERALES
 
-Esta ley es reglamentaria de los artículos 76, 77 y 78 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, en materia de juicio político y declaración de procedencia.
+### CAPITULO I. De los Objetos y Sujetos
 
-Artículo 2
+###### ARTICULO 1º.
 
-Son autoridades competentes para aplicar esta ley:
+La presente Ley es de orden público e interés general y tiene por objeto la protección de la salud de las personas no fumadoras de los efectos nocivos de la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas, en locales cerrados, establecimientos y vehículos a que se refieren los Artículos 4º y 7º de la presente Ley.
 
-I. En el Poder Legislativo:
+Para los efectos de la presente Ley se debe entender por fumar, que es la inhalación y exhalación de humo derivado de la combustión del tabaco o cualquier producto natural o artificial que deteriore el estado físico o emocional de una o más personas.
 
-a) El Pleno del Congreso del Estado, erigido en jurado de acusación, o de procedencia, según sea el caso;
+###### ARTICULO 2º.
 
-b) Las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales; y
+La aplicación y vigilancia del cumplimiento de esta Ley corresponde al Poder Ejecutivo a través del Instituto de Salud, mediante las Unidades Administrativas correspondientes, así como a los Ayuntamientos en sus respectivos ámbitos de competencia.
 
-c) La Comisión Permanente Instructora.
+###### ARTICULO 3º.
 
-II. En el Poder Judicial:
+En la vigilancia del cumplimiento de esta Ley, participarán también en la forma que está señalada, los propietarios, poseedores o responsables y empleados de los locales cerrados, establecimientos y medios de transporte a los que se refieren los Artículos 4º y 7º de esta Ley, así como las asociaciones de padres de familia de las escuelas e instituciones públicas y privadas.
 
-a) El Pleno del Tribunal Superior de Justicia, constituido en jurado de sentencia; y
+### CAPITULO II. De las Secciones Reservadas en Locales Cerrados y Establecimientos
 
-b) La sala constitucional, con el carácter de Comisión de Enjuiciamiento.
+###### ARTICULO 4º.
 
-Artículo 3
+En los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate, deberán delimitar de acuerdo a la demanda de los usuarios, secciones reservadas para no fumadores y para quienes fumen durante su estancia en los mismos. Estas secciones deberán identificarse con señalamientos visibles al público y contar con extractores de aire y ventilación adecuada.
 
-Los acuerdos del Congreso del Estado y las resoluciones del Tribunal Superior de Justicia en la materia objeto de esta ley, no admiten recurso alguno.
+###### ARTICULO 5º.
 
-Artículo 4
+Los propietarios, poseedores o responsables de los locales cerrados y establecimientos de que se trate, dispondrán la forma en que ellos mismos o sus empleados vigilarán, que fuera de las secciones señaladas a que se refiere el artículo anterior no haya personas fumando. En caso de haberlas, deberán exhortarlas a dejar de fumar o a cambiarse a la sección indicada. En caso de negativa los responsables de los locales podrán negarse a prestar los servicios al cliente infractor. Si el infractor persiste en su conducta deberá darse aviso a la fuerza pública.
 
-En el juicio político y la declaración de procedencia no se dispensarán los trámites parlamentarios establecidos en los capítulos II y III de esta ley.
+###### ARTICULO 6º.
 
-Artículo 5
+Quedan excluidos de la obligación contenida en el Artículo 4º de la presente Ley los propietarios, poseedores o responsables de cafeterías, fondas o cualquiera otra negociación en que se expendan alimentos o bebidas que tengan capacidad de prestar sus servicios hasta para treinta personas o para los que se instalen temporalmente hasta por 90 días.
 
-1. El Congreso del Estado se abstendrá de erigirse en jurado de acusación o de procedencia, según sea el caso, sin comprobar fehacientemente que el servidor público acusado ha sido previamente citado.
+### CAPITULO III. De los Lugares en que Queda Prohibida la Práctica de Fumar
 
-2. Igual impedimento que señala el párrafo anterior, tendrá el Tribunal Superior de Justicia para constituirse en jurado de sentencia.
+###### ARTICULO 7º.
 
-Artículo 6
+Se prohibe fumar:
 
-1. En el juicio político y la declaración de procedencia, se abstendrán de votar los diputados que hubieren presentado la imputación contra el servidor público. Tampoco podrán hacerlo los diputados que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercerlo.
+I.- En los cines, bibliotecas, teatros, salas de conferencias y auditorios cerrados y cubiertos a los que tenga acceso el público en general;
 
-2. Igual impedimento que el señalado en el párrafo anterior tienen los magistrados, respecto del Juicio Político.
+II.- En toda Unidad Médica;
 
-Artículo 7
+III.- En los vehículos de servicio público de transporte de pasajeros que circulen en el Estado;
 
-1. En el juicio político y la declaración de procedencia los acuerdos del Congreso del Estado y las resoluciones del Tribunal Superior de Justicia, se tomarán en sesión pública o privada, según puedan afectarse las buenas costumbres o el interés general.
+IV.- En áreas de atención al público de tiendas de autoservicio, oficinas bancarias, financieras, industriales, comerciales y de bienes y servicios;
 
-2. Las comunicaciones entre el Congreso del Estado y el Tribunal Superior de Justicia, se harán por conducto del Secretario General y el Secretario General de Acuerdos del Pleno, respectivamente.
+V.- En centros comerciales, excepto en aquellas áreas ventiladas y con la señalización respectiva;
 
-Artículo 8
+VI.- En los salones de clases de las escuelas de educación especial, preescolar, primaria, secundaria, media superior y superior;
 
-El Congreso del Estado y el Tribunal Superior de Justicia, para el debido cumplimiento de sus atribuciones y para hacer respetar sus determinaciones, mediante acuerdo de la mayoría de sus integrantes presentes en la sesión respectiva podrán emplear los medios de apremio señalados en el Código de Procedimientos Penales del Estado.
+VII.- En las oficinas de los tres Poderes del Estado, las unidades administrativas dependientes del Gobierno Federal, del Estado y Municipios, excepto en aquellas áreas ventiladas y con la señalización respectiva;
 
-Artículo 9
+VIII.- En áreas de atención al público, salas de espera, sanitarios de aeropuertos, Centrales de Autobuses y Estaciones Ferroviarias del Estado.
 
-1. Los acuerdos del Congreso del Estado y las sentencias del Tribunal Superior de Justicia en materia de juicio político y declaración de procedencia, se inscribirán en el Registro de Servidores Públicos Sancionados e Inhabilitados y se publicarán en la Gaceta Oficial del gobierno del estado.
+###### ARTICULO 8º.
 
-2. Los acuerdos del Congreso del Estado y las sentencias del Tribunal Superior de Justicia en materia de juicio político y declaración de procedencia, se comunicarán al Ministerio Público, al servidor público o a quien hubiere hecho la acusación y, en su caso, se harán del conocimiento del ente público al que esté adscrito el acusado.
+Los propietarios, poseedores o responsables de los establecimientos o vehículos a que se refiere el Artículo 7º del presente Ordenamiento deberán fijar en el interior y exterior de los mismos, letreros o emblemas visibles que indiquen expresamente la prohibición de fumar, en caso de que algún usuario se niegue a cumplir con la prohibición, se deberá dar aviso a la fuerza pública.
 
-Artículo 10
+### CAPITULO IV. De la Divulgación, Concientización y Promoción
 
-En el caso de las declaratorias a que hacen referencia los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, se aplicarán las disposiciones previstas en esta ley.
+###### ARTICULO 9º.
 
-Artículo 11
+El Poder Ejecutivo, a través del Instituto de Salud, promoverá ante los titulares de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, que en las oficinas de sus respectivas unidades administrativas, órganos y entidades paraestatales, destinadas a la atención al público y que se ubican en el Estado, coloquen los emblemas y letreros que indican la prohibición de fumar.
 
-1. Para la determinación de la denuncia, instrucción y resolución del juicio político y la declaración de procedencia se aplicará supletoriamente el Código de Procedimientos Penales del Estado. Asimismo, se atenderán, en lo conducente, las disposiciones del Código Penal del Estado.
+###### ARTICULO 10.
 
-2. La formulación de los dictámenes de las comisiones permanentes y las incidencias que surjan en el Pleno del Congreso del Estado, erigido en jurado de acusación o de procedencia, según sea el caso, se ajustarán a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado, así como en su Reglamento para el Gobierno Interior.
+El Poder Ejecutivo a través del Instituto de Salud promoverá la realización de campañas contra el tabaquismo, utilizando todos los medios de comunicación que estén a su alcance y programas de concientización y divulgación de esta Ley, principalmente en:
 
-3. La actuación de la Comisión de Enjuiciamiento y del Pleno del Tribunal Superior de Justicia, constituido en jurado de sentencia, estará a lo que señala la Ley Orgánica del Poder Judicial.
+I.- Oficinas y despachos públicos y privados;
 
-### Capítulo II. Del juicio político
+II.- Auditorios, salas de juntas y conferencias;
 
-Artículo 12
+III.- Restaurantes, cafeterías y demás instalaciones de las empresas privadas y a los que se refieren los Artículos 4º y 7º de esta Ley;
 
-1. Procede el juicio político cuando la actuación de los servidores públicos que refiere el artículo 77 de la Constitución Política del Estado afecte a los intereses públicos fundamentales y a su correcto despacho.
+IV.- Instalaciones de las instituciones educativas, públicas y privadas;
 
-2. No procede el juicio político por la mera expresión de ideas.
+V.- Medios de transporte colectivos de los sindicatos y de las empresas que proporcionen estos servicios a sus empleados.
 
-Artículo 13
+###### ARTICULO 11.
 
-Afectan a los intereses públicos fundamentales, y por consiguiente a su correcto despacho:
+Los integrantes de las asociaciones de padres de familia de las escuelas e instituciones públicas y privadas podrán vigilar de manera individual o colectiva que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a que acuden los alumnos y el personal docente de las respectivas instituciones educativas.
 
-I. El ataque a los entes públicos;
+Queda prohibido a las autoridades de las escuelas e instituciones públicas y privadas hacer propaganda, publicitar o permitir que se haga promoción del consumo del tabaco dentro de sus instalaciones y eventos que realicen.
 
-II. El ataque a la forma de Gobierno del Estado, así como a la organización política y administrativa de los municipios;
+### CAPITULO V. De la Venta del Tabaco y Similares
 
-III. La violación sistemática a las garantías individuales o sociales;
+###### ARTICULO 12.
 
-IV. La violación sistemática a los planes, programas o presupuestos, así como a la normativa aplicable a la recaudación, manejo, administración y aplicación de los caudales públicos;
+En ningún caso y de ninguna forma se podrá vender, expender o suministrar tabaco a menores de edad.
 
-V. El ataque al ejercicio del sufragio;
+###### ARTICULO 13.
 
-VI. La usurpación de atribuciones;
+Se prohibe la venta de cigarrillos a través de máquinas expendedoras, a excepción de que éstas se encuentren ubicadas en lugares de acceso exclusivo para personas mayores de edad.
 
-VII. Cualesquier acción u omisión en forma intencional que origine una infracción a la Constitución Política o a las leyes del Estado, cuando cause daños o perjuicios o motive algún trastorno en el funcionamiento de los entes públicos;
+### CAPITULO VI. De la Vigilancia
 
-VIII. Cualesquier acción u omisión que provoque en forma dolosa la suspensión o desaparición de algún ayuntamiento, o la suspensión o revocación del mandato de alguno de sus ediles; o
+###### ARTICULO 14.
 
-IX. Los supuestos que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ambas emanan.
+El Poder Ejecutivo a través del Instituto de Salud del Estado de Aguascalientes y los Ayuntamientos, ejercerán las funciones de vigilancia e inspección que correspondan y aplicarán las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que les confieren otros ordenamientos locales y federales aplicables en la materia.
 
-Artículo 14
+###### ARTICULO 15.
 
-1. El juicio político se podrá iniciar durante el período en que el servidor público desempeñe sus atribuciones, o dentro de un año después de la conclusión de su mandato.
+Las inspecciones se sujetarán a las siguientes bases:
 
-2. La sentencia se pronunciará en el plazo de un año siguiente al de la radicación de la denuncia.
+I.- El inspector deberá contar con orden por escrito que contenga la fecha y ubicación del local o establecimiento por inspeccionar, objeto y aspectos de la visita, fundamento legal y motivación de la misma, el nombre y firma de la autoridad que expide la orden y el nombre del inspector. Asimismo, deberá acompañar el oficio de comisión de conformidad como lo dispone la Ley de Procedimiento Administrativo del Estado de Aguascalientes;
 
-3. La acción para exigir la responsabilidad política prescribe al año siguiente al que concluya su mandato el servidor público.
+II.- El inspector deberá identificarse ante el propietario, poseedor o responsable con la credencial vigente que para tal efecto expida la autoridad competente y entregar copia legible de la orden de inspección;
 
-Artículo 15
+III.- Los inspectores practicarán la visita dentro de las veinticuatro horas siguientes a la expedición de la orden;
 
-1. Se concede acción popular para formular por escrito denuncia ante el Congreso del Estado, la que se presentará bajo protesta de decir verdad y deberá contener elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
+IV.- Al inicio de la visita, el inspector deberá requerir al visitado, designar a dos personas que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo éstos serán propuestos y nombrados por el propio inspector;
 
-2. Quien presente una denuncia cuya sentencia se hubiere formulado con falsedad estará sujeto a la responsabilidad civil o penal, según sea el caso, en los términos de las leyes respectivas. Cuando el denunciante fuese servidor público e incurriese en responsabilidad penal, se le impondrá, además de la sanción señalada, la inhabilitación por un término igual al de la pena privativa de libertad que le corresponda.
+V.- De toda visita, se levantará acta circunstanciada por triplicado en formas numeradas y foliadas en la que se expresará: lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de la misma, el acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia y por los testigos de asistencia propuestos por ésta o nombrados por el inspector, en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
 
-3. Las denuncias anónimas se desecharán de plano.
+VI.- El inspector comunicará al visitado si existen omisiones en el cumplimiento de cualquiera obligación a su cargo, ordenado en esta Ley;
 
-Artículo 16
+VII.- Uno de los ejemplares legibles del acta, quedará en poder de la persona con quien se entendió la diligencia, el original y la copia restante se entregará al Instituto de Salud o autoridad municipal competente, según el giro del local o establecimiento inspeccionado.
 
-Corresponde al Congreso del Estado instruir el juicio político actuando como jurado de acusación, y al Pleno del Tribunal Superior de Justicia fungir como jurado de sentencia.
+###### ARTICULO 16.
 
-Artículo 17
+La autoridad competente calificará el acto considerando la gravedad de la infracción, si existe reincidencia las circunstancias que hubieren concurrido, las pruebas aportadas y en su caso los alegatos formulados, dictará la resolución que proceda debidamente fundada y motivada, notificándole personalmente al visitado.
 
-1. El Congreso del Estado determinará la procedencia de la denuncia a través de las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales.
+### CAPITULO VII. De las Sanciones
 
-2. El Congreso del Estado instruirá el juicio político por conducto de la Comisión Permanente Instructora.
+###### ARTICULO 17.
 
-Artículo 18
+La contravención de las disposiciones de la presente Ley, dará lugar a la imposición de una sanción administrativa o económica en los términos de este capítulo.
 
-1. La denuncia se deberá radicar en la Secretaría General del Congreso del Estado, y se ratificará ante el Secretario General en el plazo de los tres días siguientes. Una vez ratificada, se enlistará en la siguiente sesión para que el Pleno, o la diputación permanente, según sea el caso, la conozca y la turne a las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales.
+Estas sanciones comprenden amonestación por escrito y multa.
 
-2. Si no se ratifica la denuncia en el plazo señalado en el párrafo anterior, se desechará de plano.
+###### ARTICULO 18.
 
-Artículo 19
+Para la aplicación de la sanción económica, se tomará en cuenta la gravedad de la infracción concreta, las condiciones económicas de las personas físicas o morales a que se sanciona, la reincidencia y demás circunstancias que sirvan para individualizar la infracción.
 
-1. Recibida la denuncia, las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales determinarán, en el plazo de tres días siguientes:
+###### ARTICULO 19.
 
-I. Si el denunciado es servidor público conforme al artículo 77 de la Constitución Política del Estado;
+Se considerará como infracción grave.
 
-II. Si la denuncia contiene la descripción de hechos que justifiquen que la conducta atribuida afecta a los intereses públicos fundamentales y a su correcto despacho; y
+I.- La venta de cigarros a menores de edad, personas con discapacidad mental o mujeres embarazadas;
 
-III. Si los elementos de prueba agregados a la denuncia permiten presumir la existencia de la infracción y la probable responsabilidad del denunciado, y por lo tanto amerita incoar el procedimiento.
+II.- La inducción de cualquier persona para hacer fumar o formar el hábito o dependencia al tabaquismo a menores de edad, o personas con discapacidad mental; y
 
-2. Si la denuncia no satisface los requisitos precisados en las fracciones anteriores, se determinará el sobreseimiento, y se notificará personalmente al denunciante, a través de la Secretaría General.
+III.- Fumar en cualquiera de los lugares a que se refiere el Artículo 7º de esta Ley con la presencia de lactantes, niños, ancianos, mujeres embarazadas y personas con discapacidad.
 
-3. Si la denuncia satisface los requisitos del párrafo 1, las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales formularán el dictamen previo y lo depositarán, junto con el expediente, en la Secretaría General.
+###### ARTICULO 20.
 
-Artículo 20
+Se sancionará con multa equivalente de uno a tres veces el salario mínimo diario general vigente en el Estado a las personas que fumen en los lugares que prohibe el presente ordenamiento.
 
-1. La Secretaría General turnará el dictamen previo y el expediente a la Comisión Permanente Instructora, en el plazo de tres días.
+###### ARTICULO 21.
 
-2. Dentro de los tres días de recibidos el dictamen previo y el expediente, la Comisión Permanente Instructora emplazará al denunciado, para que en el plazo de siete días siguientes al que surta efectos la notificación exponga lo que a su derecho convenga, por comparecencia personal o por escrito, a su elección.
+Se sancionará con multa equivalente de cinco a quince veces el salario mínimo diario general vigente en el Estado a los propietarios, poseedores o responsables de los locales cerrados, establecimientos o medios de transporte, en caso de incumplimiento de las disposiciones contenidas en los Artículos 4º, 5º, 7º y 8º de la presente Ley.
 
-Artículo 21
+###### ARTICULO 22.
 
-1. Vencido el plazo que refiere el párrafo 2 del artículo anterior, la Comisión Permanente Instructora practicará las diligencias necesarias con base en las manifestaciones del denunciado, y notificará personalmente al denunciante y al denunciado la fecha de la audiencia de pruebas y alegatos.
+Si el infractor fuese obrero o jornalero, la multa no será mayor al importe de su jornada o salario de un día. Tratándose de trabajadores no asalariados la multa no excederá del equivalente a un día de su ingreso. La calidad de obrero o jornalero podrá demostrarse con cualquier documento fehaciente expedido por el patrón o empleador o por alguna Institución de Seguridad Social. Los trabajadores no asalariados podrán demostrar esta calidad con cualquier documento público que compruebe el tipo de actividad que realiza de manera preponderante.
 
-2. La audiencia de pruebas y alegatos se desahogará dentro de diez días posteriores al vencimiento del plazo concedido al denunciado, para manifestar lo que a su derecho convenga.
+Los infractores a que hacen referencia los párrafos anteriores tendrán un período de diez días hábiles para demostrar su calidad de trabajador no asalariado, jornalero u obrero ante la autoridad competente y pagar en su caso el importe equivalente a un día de su ingreso.
 
-Artículo 22
+###### ARTICULO 23.
 
-1. La Comisión Permanente Instructora dictaminará los hechos denunciados, en el plazo de tres días posteriores a la fecha de la audiencia de pruebas y alegatos.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por 10 veces el salado mínimo diario general vigente en el Estado atendiendo las reglas de calificación que se establecen en el Artículo 16 de la presente Ley.
 
-2. Si de las constancias existentes se desprende que el denunciado no es responsable de los actos u omisiones imputados, la Comisión Permanente Instructora, en su dictamen, propondrá al jurado de acusación que acuerde no ha lugar a proceder en contra del servidor público.
+###### ARTICULO 24.
 
-Artículo 23
+En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta Ley, en un plazo de seis meses.
 
-1. Si de las constancias del procedimiento apareciere la responsabilidad del servidor público, la Comisión Permanente Instructora dictaminará:
+###### ARTICULO 25.
 
-I. Que está legalmente comprobada la conducta o el hecho materia de la denuncia y la responsabilidad del encausado; y
+A juicio de la autoridad, las sanciones a que se refiere este capítulo podrán conmutarse total o parcialmente, por la asistencia a clínicas de tabaquismo o similares que determine la autoridad competente.
 
-II. La propuesta de sanción que deba imponerse.
+###### ARTICULO 26.
 
-2. El dictamen que emita la Comisión Permanente Instructora lo turnará a la Secretaría General.
+La recaudación de las sanciones económicas, se canalizará al Centro de Prevención a las Adicciones, para aplicarse expresamente en el programa de prevención de tabaquismo.
 
-Artículo 24
+### CAPITULO VIII. De las Notificaciones
 
-1. La secretaría General enlistará el dictamen en la siguiente sesión del Pleno para su acuerdo, el que se votará en el plazo de siete días posteriores a la fecha de su turno.
+###### ARTICULO 27.
 
-2. Si el Congreso del Estado se encuentra en receso, la Secretaría General solicitará a la Diputación Permanente que convoque a sesión extraordinaria.
+La notificación de las resoluciones administrativas emitidas por las autoridades competentes en los términos de la presente Ley, será de carácter personal.
 
-3. Determinada la fecha de la sesión, la Secretaría General citará al acusado y a su defensor.
+###### ARTICULO 28.
 
-Artículo 25
+Cuando las personas a quien debe hacerse la notificación, no se encontraren, se les dejará citatorio para que estén presentes a una hora determinada del día hábil siguiente, apercibiéndolas que de no encontrarse, se entenderá la diligencia con quien se encuentre presente.
 
-1. Enlistado el dictamen y conforme al turno que le corresponda en el orden del día, el presidente de la mesa directiva declarará al Pleno que se erige en jurado de acusación, y se procederá conforme a lo siguiente:
+###### ARTICULO 29.
 
-> <small>(F. DE E., G.O. 30 DE AGOSTO DE 2006)</small>
+Si habiendo dejado citatorio el interesado no se encuentra presente en la fecha y hora señaladas se llevará a efecto la diligencia con quien se halle en el local o establecimiento a inspeccionar.
 
-I. La Secretaría de la Mesa Directiva dará lectura al dictamen o una síntesis que contenga los puntos substanciales y las conclusiones de la Comisión Permanente Instructora;
+###### ARTICULO 30.
 
-II. En seguida, se concederá la palabra al servidor público o a su defensor, hasta por treinta minutos para que replique lo que a sus intereses convenga;
+Las notificaciones se harán en horas y días hábiles.
 
-III. El presidente de la mesa directiva solicitará que el servidor público y su defensor se retiren del recinto; y
+### CAPITULO IX. Del Recurso de Revisión
 
-IV. El jurado de acusación acordará, por el voto de las dos terceras partes del número total de sus integrantes, si ha lugar a continuar el procedimiento.
+###### ARTICULO 31.
 
-2. Si el jurado de acusación no resuelve, por la mayoría calificada requerida, que es procedente la acusación, se ordenará archivar el expediente como asunto totalmente concluido.
+El recurso de Revisión tiene por objeto que la autoridad competente, revoque o modifique las resoluciones administrativas que se reclaman y será aplicable la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-Artículo 26
+TRANSITORIOS:
 
-1. Si el jurado de acusación acuerda que ha lugar a continuar el procedimiento, el acusado será puesto a disposición inmediata del Tribunal Superior de Justicia, al que deberá consignar el expediente que contiene la acusación y las constancias del procedimiento. La comisión Permanente Instructora sostendrá la acusación ante dicho tribunal.
+###### ARTICULO PRIMERO.
 
-2. Lo señalado en el párrafo anterior será aplicable si la Cámara de Diputados del Congreso de la Unión hace la declaratoria correspondiente, en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, respecto de los servidores públicos, y por las causas que refiere el artículo 13 de esta ley.
+Esta Ley, entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Estado.
 
-Artículo 27
+###### ARTICULO SEGUNDO.
 
-1. Recibido el expediente en la Secretaría General de Acuerdos, se turnará al Pleno del Tribunal Superior de Justicia para declarar que la Sala Constitucional se erige en Comisión de Enjuiciamiento, y le enviará sin demora las constancias.
+En los locales cerrados y establecimientos a que se refiere el Artículo 4º deberán delimitarse las secciones reservadas para los fumadores y no fumadores dentro de los treinta días siguientes a la publicación de la presente Ley en el Periódico Oficial del Estado.
 
-2. La Comisión de Enjuiciamiento dictará auto de radicación en el plazo de tres días posteriores a que le turne el Pleno el expediente, y lo notificará por oficio, por conducto de la Secretaría General de Acuerdos, a la Comisión Permanente Instructora y al acusado, para que en el plazo de tres días posteriores a que surta efectos el emplazamiento, presenten por escrito sus alegatos.
+###### ARTICULO TERCERO.
 
-Artículo 28
+En todo lo no previsto por la ley de Protección a los No Fumadores se aplicará lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Aguascalientes, de aplicación supletoria, principalmente en lo que se refiere a inspección y vigilancia, aplicación de sanciones, notificaciones y medios de impugnación.
 
-1. La Comisión de Enjuiciamiento escuchará a la Comisión Permanente Instructora que sostiene la acusación, y al acusado o su defensor. Asimismo, podrá disponer la práctica de las diligencias que considere necesarias para integrar su proyecto de resolución.
+###### ARTICULO CUARTO.
 
-2. Transcurrido el plazo que señala el párrafo 2 del artículo anterior, con alegatos o sin ellos, la Comisión de Enjuiciamiento formulará su proyecto de resolución, en vista de las consideraciones hechas en la acusación y, en su caso los alegatos formulados, admitiendo la sanción propuesta por la Comisión Permanente Instructora, o proponiendo la que en su concepto deba imponerse al servidor público y expresando los preceptos legales en que se funde.
+Los propietarios, poseedores o responsables de los vehículos a que se refieren los Artículos 7º, fracción III y 8º deberá dar cumplimiento a la obligación de fijar en el interior y exterior de los vehículos las señalizaciones adecuadas, dentro de los treinta días siguientes contados a partir de la publicación de la presente Ley en el Periódico Oficial del Estado.
 
-3. Emitido el proyecto de resolución, la Comisión de Enjuiciamiento lo depositará en la Secretaría General de Acuerdos del Pleno.
+###### ARTICULO QUINTO.
 
-Artículo 29
+Se derogan las disposiciones que contravengan lo dispuesto en la presente ley.
 
-Recibido el Proyecto de Resolución por la Secretaría General de Acuerdos, el presidente del Tribunal Superior de Justicia convocará al Pleno para erigirse en Jurado de Sentencia, en el plazo de setenta y dos horas siguientes a su depósito, y citará a la Comisión Permanente Instructora, al acusado y a su defensor.
+Al Ejecutivo para su sanción.
 
-Artículo 30
+Dado en el salón de sesiones del H. Congreso del Estado, a los veinticinco días del mes de enero del año dos mil.- D.P., Manuel Agustín Reed Segovia.- D.S. Luis Macías Romo.- D.P. Salvador Delgado Esquivel.- Rúbricas".
 
-1. A la hora señalada para la audiencia, el presidente del Tribunal Superior de Justicia declarará al Pleno que se erige en Jurado de Sentencia, y se procederá conforme a lo siguiente:
+Y tenemos el honor de comunicarlo a usted para su conocimiento y publicación en el Periódico Oficial del Estado, reiterándole las seguridades de nuestra consideración distinguida.
 
-I. La Secretaría General de Acuerdos dará lectura al proyecto de resolución formulado por la Comisión de Enjuiciamiento;
+SUFRAGIO EFECTIVO. NO REELECCION.
 
-II. Acto continuo, se concederá la palabra a la Comisión Permanente Instructora y, al servidor público o su defensor; y
+DIPUTADO PRESIDENTE,
 
-III. El Jurado de Sentencia dictará resolución absolutoria o, por el voto de las dos terceras partes del número total de sus integrantes, resolución condenatoria y, en su caso, la sanción correspondiente, la que se notificará personalmente a las partes.
+Manuel Agustín Reed Segovia.
 
-2. Si la resolución del Jurado de Sentencia es absolutoria o no se obtiene la mayoría calificada que exige el precepto anterior, se denegará la declaración de inhabilitación o destitución.
+DIPUTADO SECRETARIO,
 
-Artículo 31
+Luis Macías Romo.
 
-1. Si la resolución del Jurado de Sentencia es condenatoria, se sancionará al servidor público, si está en funciones, con la destitución del cargo y la inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un período de uno hasta diez años, atendiendo a la gravedad de la infracción. Si no está en funciones, se decretará su inhabilitación en los términos indicados.
+DIPUTADO SECRETARIO,
 
-2. La resolución se notificará personalmente al sancionado y se comunicará por oficio al Congreso del Estado.
+Salvador Delgado Esquivel.
 
-Artículo 32
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-1. Toda sentencia del Tribunal Superior de Justicia que determine que la denuncia fue producida con falsedad, deberá condenar al denunciante, cuando sea un particular, a cubrir las costas judiciales ocasionadas al denunciado.
+Aguascalientes, Ags., 15 de marzo de 2000.
 
-2. La presente disposición deberá hacerse del conocimiento del denunciante al momento en que ratifique su denuncia.
+Felipe González González.
 
-### Capítulo III. De la Declaración de Procedencia
+EL SECRETARIO GENERAL DE GOBIERNO,
 
-Artículo 33
+Lic. Abelardo Reyes Sahagún.
 
-Cualquier ciudadano podrá presentar ante el Ministerio Público denuncia o querella, bajo su responsabilidad y acompañado de elementos de prueba, a fin de que pueda procederse penalmente en contra de los servidores públicos mencionados en el artículo 78 de la Constitución Política del Estado.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Artículo 34
+P.O. 30 DE OCTUBRE DE 2006.
 
-1. Para los efectos de proceder penalmente en contra de los servidores públicos precisados en el artículo 78 de la Constitución Política del Estado, el Congreso del Estado actuará, en lo conducente, conforme al procedimiento previsto en los artículos del 17 al 24, inclusive.
+###### ARTÍCULO PRIMERO.
 
-2. El Congreso del Estado determinará la procedencia de la denuncia o el pedimento del Ministerio Público, a través de las Comisiones Permanentes Unidas de Gobernación y de Justicia y Puntos Constitucionales. En este caso, además de los requisitos establecidos en el artículo 19, precisará la subsistencia del fuero constitucional cuya remoción se solicita.
+La presente Ley entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
 
-3. El Congreso del Estado instruirá la Declaración de Procedencia por conducto de la Comisión Permanente Instructora.
+###### ARTÍCULO SEGUNDO.
 
-Artículo 35
+Se abroga la Ley para la Protección de los No Fumadores del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes, el 20 de marzo del año dos mil.
 
-1. Concluida la instrucción y enlistado el dictamen conforme al artículo 24, así como al turno que le corresponda en el orden del día, el presidente de la Mesa Directiva declarará al Pleno que se erige en Jurado de Procedencia, y se procederá conforme a lo siguiente:
+###### ARTÍCULO TERCERO.
 
-I. La Secretaría de la Mesa Directiva dará lectura al dictamen o una síntesis que contenga los puntos substanciales, y las conclusiones de la Comisión Permanente Instructora;
-
-II. Posteriormente, se concederá la palabra al servidor público o su defensor, hasta por treinta minutos para que replique lo que a sus intereses convenga;
-
-III. El presidente de la Mesa Directiva solicitará que el servidor público y su defensor se retiren del recinto legislativo; y
-
-IV. El Jurado de Procedencia acordará, por el voto de las dos terceras partes del número total de sus integrantes, si ha lugar a proceder penalmente contra el denunciado.
-
-2. Si el Jurado de Procedencia acuerda que no ha lugar a proceder penalmente, o no se integra la mayoría calificada que exige el numeral anterior para la resolución condenatoria, se ordenará archivar el expediente como asunto totalmente concluido.
-
-Artículo 36
-
-1. Si el Jurado de Declaración acuerda proceder penalmente, el servidor público será privado del fuero constitucional, y quedará inmediatamente separado de su empleo, cargo o comisión, y sujeto a la jurisdicción de los tribunales competentes.
-
-2. El Congreso del Estado, a través de la Secretaría General, notificará el acuerdo que contiene la Declaración de Procedencia y la remoción del fuero constitucional mediante oficio al inculpado, al denunciante o querellante y al Ministerio Público quien podrá solicitar las medidas precautorias conducentes, de conformidad con la legislación penal.
-
-Artículo 37
-
-En caso de que el Jurado de Procedencia del Congreso del Estado acuerde que no ha lugar para proceder penalmente contra el servidor público, no se podrá seguir procedimiento ulterior por la misma causa mientras subsista el fuero constitucional, sin perjuicio de que continúe su curso cuando el servidor público haya concluido el desempeño de su encargo.
-
-Artículo 38
-
-Cuando se haya incoado proceso penal en contra de alguno de los servidores públicos mencionados en el artículo 78 de la Constitución Política del Estado, sin haber agotado el procedimiento para la Declaración de Procedencia, el Congreso del Estado o, en su caso la Diputación Permanente, librará oficio al juez que conozca la causa, a fin de que suspenda el proceso.
-
-> <small>(F. DE E., G.O. 30 DE AGOSTO DE 2006)</small>
-
-Artículo 39
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado, será removerle el fuero constitucional y separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria, no cabe la gracia del indulto.
-
-Artículo 40
-
-1. No se requerirá Declaración de Procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 78 de la Constitución Política del Estado, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
-
-2. Si el servidor público ha vuelto a desempeñar sus atribuciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los señalados en el artículo 78 de la Constitución Política del Estado, se procederá de acuerdo a lo dispuesto en este capítulo.
-
-Artículo 41
-
-Para proceder penalmente por la comisión de delitos de orden federal contra el Gobernador del Estado, diputados locales o magistrados del Poder Judicial, en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado, al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procederá conforme a sus atribuciones y en los términos y con las formalidades de esta ley al retiro del fuero que la Constitución Política del Estado otorga a tales servidores públicos, y a la separación del cargo en tanto esté sujeto a proceso penal.
-
-## TRANSITORIOS
-
-Primero. Esta ley entrará en vigor a los diez días de su publicación en la Gaceta Oficial del gobierno del estado.
-
-> <small>(F. DE E., G.O. 30 DE AGOSTO DE 2006)</small>
-
-Segundo. Se deroga el Título Segundo Procedimientos ante la Legislatura y el Tribunal Superior de Justicia del Estado en Materia de Juicio Político y Declaración de Procedencia, así como sus artículos del 5 al 45, inclusive, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Veracruz de Ignacio de la Llave, publicada el nueve de febrero de mil novecientos ochenta y cuatro.
-
-Tercero. Los procedimientos de Juicio Político o Declaración de Procedencia que se encuentren substanciándose al iniciar la vigencia de esta ley, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público inculpado.
-
-Dada en la ciudad de Boca del Río, Veracruz de Ignacio de la Llave, en los salones Ulúa 4 y 5 del inmueble denominado World Trade Center, declarado recinto oficial de la LX Legislatura del Honorable Congreso del Estado, a los dieciocho días del mes de julio del año dos mil seis.
-
-Ramiro de la Vequia Bernardi
-
-Diputado presidente
-
-Rúbrica.
-
-Gladys Merlín Castro
-
-Diputada Secretaria
-
-Rúbrica.
-
-> <small>(F. DE E., G.O. 14 DE AGOSTO DE 2006)</small>
-
-Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/5096, de los diputados presidente y secretario de la Sexagésima Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta y un días del mes de julio del año dos mil seis.
-
-> <small>(F. DE E., G.O. 14 DE AGOSTO DE 2006)</small>
-
-A t e n t a m e n t e
-
-> <small>(F. DE E., G.O. 14 DE AGOSTO DE 2006)</small>
-
-Sufragio efectivo. No reelección
-
-> <small>(F. DE E., G.O. 14 DE AGOSTO DE 2006)</small>
-
-Licenciado Fidel Herrera Beltrán
-
-Gobernador del Estado
-
-Rúbrica.
+El Poder Ejecutivo del Estado emitirá el Reglamento respectivo en un plazo no mayor de 120 días naturales, a partir de la entrada en vigencia de la presente Ley.
