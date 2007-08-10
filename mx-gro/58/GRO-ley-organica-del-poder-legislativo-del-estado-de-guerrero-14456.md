@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2007-06-26"
+last_updated: "2007-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -735,13 +735,17 @@ XXIV. De Recursos Naturales y Desarrollo Sustentable;
 
 XXV. De Examen Previo;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-XXVI. Instructora; y
+XXVI. Instructora;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado.
+XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+XXVIII. Para la Atención del Acceso a la Información Pública.
 
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
@@ -1180,6 +1184,30 @@ VIII. Recibir y dictaminar la comprobación del presupuesto ejercido por la Audi
 IX. Recibir el proyecto de presupuesto anual de la Auditoria General del Estado para su inclusión en el proyecto de presupuesto de egresos del H. Congreso; y
 
 X. Las demás que establezca la ley de la materia y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+###### Artículo 77 Bis.
+
+A la Comisión para la Atención del Acceso a la Información Pública, le corresponde conocer de los siguientes asuntos:
+
+I. De la vigilancia del cumplimiento por parte del Congreso del Estado, de las normas, reglamentos, criterios y lineamientos en materia de Acceso a la Información Pública;
+
+II. De la vigilancia y evaluación de las actividades de la Unidad Administrativa de Enlace para el Acceso a la Información Pública del Congreso del Estado;
+
+III. De la vigilancia y supervisión para que las áreas técnicas y administrativas del Congreso proporcionen la información pública solicitada;
+
+IV. Los que se refieren a las iniciativas de reformas, adiciones o derogaciones de la Ley de Acceso a la Información Pública del Estado de Guerrero;
+
+V. Analizar el informe anual de la Comisión para el Acceso de la Información Pública del Estado de Guerrero y presentar al Pleno el informe de las acciones y resultados obtenidos por parte de esa Comisión;
+
+VI. Ser el enlace entre la Comisión para el Acceso a la Información Pública y el Congreso del Estado, para la implementación de las acciones de capacitación y promoción de una cultura de apertura a la información;
+
+VII. Conocer del Recurso de Reconsideración interpuesto por los ciudadanos en contra de la negativa a proporcionar información o cuando ésta se proporcione en forma ambigua, parcial u obscura por parte del Congreso del Estado y, emitir y presentar al Pleno, la resolución correspondiente;
+
+VIII. Colaborar en la elaboración del informe justificado que rendirá el Representante Jurídico del Congreso del Estado ante el Tribunal de lo Contencioso Administrativo, por la interposición del Recurso de Revisión en contra de la resolución del Recurso de Reconsideración, y
+
+IX. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión permanente, en su caso, le sean turnados.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -2452,5 +2480,11 @@ Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para 
 P.O. 26 DE JUNIO DE 2007.
 
 Primero.- El presente Decreto entrará en vigor a partir de la fecha de su expedición.
+
+Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en los medios electrónicos de que disponga a fin de que sea del conocimiento general.
+
+P.O. 10 DE AGOSTO DE 2007.
+
+Primero.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en los medios electrónicos de que disponga a fin de que sea del conocimiento general.
