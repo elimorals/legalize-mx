@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-51731"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-26"
-last_updated: "2007-02-07"
+last_updated: "2007-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51731&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-01"
 
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de septiembre de 2006.
 
@@ -193,7 +193,9 @@ La Convocatoria, los Criterios Generales y los Específicos de evaluación para 
 
 La solicitud de ingreso o reingreso se presentará en los términos y plazos que se establezcan en la Convocatoria correspondiente, y deberá acompañarse de:
 
-I. Convenio o contrato institucional, el cual deberá contener: nombramiento, funciones asignadas, tiempo comprometido en horas/semana/mes, así como fecha de inicio y finalización del mismo;
+> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 2007)</small>
+
+I. Convenio o Contrato institucional vigente, o documento oficial original y actualizado de adscripción, que especifique las condiciones a que está sujeto su contrato o convenio institucional, el cual deberá contener: nombramiento, funciones asignadas, tiempo comprometido en horas/semanas/mes, así como fecha de inicio y finalización del mismo;
 
 II. Curriculum vitae completo con copia de documentos oficiales que acrediten nacionalidad y edad;
 
@@ -752,3 +754,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto en el presente Acuerdo.
 
 TERCERO.- Los asuntos pendientes de trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con el mismo.
+
+D.O.F. 10 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del 29 de junio de 2007, y deberá publicarse en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones administrativas que contravengan lo dispuesto en el presente Acuerdo.
+
+TERCERO.- Los asuntos que se encuentren en trámite derivados de las Convocatorias para ingresar o reingresar al Sistema Nacional de Investigadores 2006 y 2007, se sujetarán a lo dispuesto en el presente Acuerdo.
