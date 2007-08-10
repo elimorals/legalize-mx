@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-lo-contencioso-administrativo-del-3347"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-31"
-last_updated: "2005-08-19"
+last_updated: "2007-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el martes 31 de enero de 1989.
 
@@ -41,11 +41,11 @@ LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 1o.
 
-El Tribunal de lo Contencioso Administrativo del Estado, es un órgano autónomo en sus fallos e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+El Tribunal de lo Contencioso Administrativo del Estado, es un Órgano Constitucional Autónomo independiente de cualquier autoridad administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1989)</small>
 
@@ -53,83 +53,87 @@ El Tribunal de lo Contencioso Administrativo del Estado, es un órgano autónomo
 
 El Tribunal de lo Contencioso Administrativo, tendrá a su cargo dirimir las controversias de carácter administrativo que se susciten entre la Administración Pública del Estado, los Municipios, y Organismos Descentralizados, y los particulares; así como entre el fisco estatal y los fiscos municipales, sobre preferencias en el cobro de créditos fiscales.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-El Tribunal de lo Contencioso Administrativo, residirá en la Capital del Estado y tendrá la organización y procedimiento jurisdiccional que esta Ley establece.
+El principio de carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los parámetros de excelencia, objetividad, imparcialidad, profesionalismo e independencia, es uno de los principios rectores de esta ley.
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 4o.
 
-El Tribunal se integrará con tres Magistrados Numerarios y dos Magistrados Supernumerarios. Estos últimos se integrarán al Pleno del Tribunal en los casos necesarios.
+Los órganos que componen al Tribunal son el Pleno y las Salas.
 
-Contará, además, con un Secretario General de Acuerdos y los Secretarios Auxiliares, Actuarios y demás personal jurídico y administrativo que requiera el servicio.
+El Pleno estará integrado por tres Magistrados Numerarios. Habrá dos Magistrados Supernumerarios, quienes se integrarán al Pleno en los casos que señale este ordenamiento.
+
+Las Salas conocerán en primera instancia y ejercerán la competencia que señale esta Ley; teniendo como titular a un Magistrado Numerario o Supernumerario.
+
+El Tribunal contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta y de Acuerdos, Actuarios y demás personal que requiera el servicio, quienes estarán adscritos a los órganos y ejercerán las facultades que determine esta Ley.
 
 ###### ARTICULO 5o.
 
 El Tribunal ejercerá sus funciones, en Pleno y en Salas.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 6o.
 
-El Ejecutivo del Estado propondrá al Congreso una terna de profesionistas que reúnan los requisitos previstos en el siguiente artículo, cada vez que sea necesario nombrar un nuevo Magistrado del Tribunal, para que la Legislatura lo elija mediante el voto de mayoría calificada. En caso de que ninguno de los profesionistas propuestos obtenga dicha votación, se procederá a una segunda ronda, en la cual no participará el miembro de la terna que haya obtenido menos votos de los tres. Para decidir el nombramiento a favor de uno de los integrantes restantes, se requerirá la votación por mayoría absoluta.
+Los Magistrados del Tribunal de lo Contencioso Administrativo desempeñarán su cargo por un período de seis años, durante el cual sólo podrán ser removidos mediante Juicio Político, y podrán ser nombrados para otro periodo de seis años.
 
-Los Magistrados nombrados mediante este procedimiento, rendirán su protesta ante el Congreso del Estado y desempeñarán su cargo por un período de seis años, durante el cual sólo podrán ser removidos mediante Juicio Político. Treinta días antes de que termine el período de un Magistrado, el Titular del Ejecutivo podrá proponerlo al Congreso del Estado para nombrarlo como tal, para otro período de seis años, sin necesidad de formular terna. La legislatura sólo podrá ratificar al Magistrado mediante los votos de la misma mayoría calificada.
+Seis meses antes de que concluya el periodo de Magistrado del Tribunal de lo Contencioso Administrativo, éste podrá manifestar al Congreso del Estado su interés de ser nombrado para un periodo más; para lo cual, el Congreso solicitará al órgano administrativo de dicho Tribunal documentación que ampare el desempeño del Magistrado a efecto de realizar, a través de la Comisión de Legislación y Puntos Constitucionales, la evaluación del desarrollo de sus funciones, que deberá sujetarse a criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación; la Comisión podrá citar al Magistrado a efecto de hacerse llegar elementos que le permitan una mejor valoración.
+
+La Comisión presentará al Pleno del Congreso el dictamen que verse sobre el nombramiento o no, para otro periodo de 6 años, de dicho funcionario. El Congreso del Estado por el voto de la mayoría calificada aprobará dicho nombramiento. En caso de no resultar nombrado para un periodo más de seis años, el Congreso del Estado emitirá tres meses antes de que concluya el periodo de Magistrado del Tribunal, convocatoria para realizar el nombramiento de un nuevo Magistrado de Tribunal de lo Contencioso Administrativo. La convocatoria deberá contener como mínimo, el plazo límite de la inscripción, requisitos de Ley a cubrir por los aspirantes, y el procedimiento de la elección.
+
+Una vez recibida la documentación de los aspirantes, la Comisión someterá a consideración del Pleno del Congreso su opinión respecto (sic) las personas idóneas para ocupar el cargo de Magistrado, elaborando un dictamen que presentará al Pleno del Congreso, que deberá contener los nombres de los candidatos a ocupar dicho cargo, anexando los documentos que sean necesarios para acreditar que tienen la aptitud para el desempeño de la función y que cumplen con los requisitos de ley. Para decidir el nombramiento de Magistrados de lo Contencioso Administrativo, se requerirá de la votación por mayoría calificada de los integrantes del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 7o.
 
-Para ser Magistrado del Tribunal de lo Contencioso Administrativo, se requiere:
+Para ser nombrado Magistrado del Tribunal, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+I.- Cumplir con los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia del Estado, contenidos en el artículo 60 de la Constitución Política del Estado Libre y Soberano de Baja California;
 
-II.- Tener más de 35 años de edad y menos de 65, el día de la designación;
+II.- Tener por lo menos cinco años de experiencia profesional en Derecho Administrativo o Tributario.
 
-III.- Poseer título profesional de Licenciado en Derecho, expedido cuando menos cinco años antes del día de su designación, por Institución legalmente facultada para ello;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
-
-V.- Tener por lo menos tres años de experiencia profesional en Derecho Administrativo y Tributario, y
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
-
-VI.- Tener una residencia en el Estado, de cinco años anteriores al día de su nombramiento.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 8o.
 
-No podrán reducirse los emolumentos de los Magistrados durante el término de su cargo.
+No podrán reducirse los emolumentos de los Magistrados durante su encargo. Los Magistrados no se consideran como trabajadores.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 9o.
 
-Las faltas temporales de los Magistrados Numerarios serán cubiertas por los Supernumerarios, así como las definitivas, en tanto se provea al nombramiento del Magistrado Numerario en los términos de la presente Ley.
+Las faltas temporales de los Magistrados Numerarios en asuntos de Pleno, serán cubiertas por los Supernumerarios, así como las definitivas, en tanto se provea al nombramiento del Magistrado Numerario en los términos de la presente Ley.
 
-(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E. 28 DE JULIO DE 2000)
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 10.
 
-Las licencias a los Magistrados serán concedidas por el Tribunal en Pleno, sin goce de sueldo, hasta por dos meses.
+Las licencias a los Magistrados serán concedidas por el Pleno sin goce de sueldo, hasta por dos meses, con excepción de licencias que se soliciten con el objeto de realizar actividades de investigación académica, las cuales podrán otorgarse hasta por seis meses, y por única ocasión durante el período en que estén fungiendo en el cargo.
 
-Las que excedan del plazo señalado, sólo podrá concederlas el Gobernador del Estado, con la aprobación de la Legislatura Local o de la Comisión Permanente, en su caso.
+Las que excedan de los plazos señalados, sólo podrá concederlas por causas justificadas el Congreso del Estado o la Comisión Permanente en su caso, a petición del Pleno del Tribunal.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 11.
 
-El Tribunal tendrá un Presidente, que a su vez, podrá integrar una de las Salas. Durará en su cargo un año, pudiendo ser reelecto.
+El Tribunal tendrá un Presidente. Durará en su cargo dos años, y no podrá ser reelecto para el periodo inmediato.
 
 ###### ARTICULO 12.
 
-El Secretario General de Acuerdos, será nombrado por el Tribunal en Pleno. Sus faltas temporales serán suplidas por el personal que para tal efecto designe el Tribunal, en los términos de la presente Ley.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2007)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Para ser Secretario o Actuario del Tribunal, se requiere:
+Para ser Secretario de Estudio y Cuenta o Secretario de Acuerdos, se requiere:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -147,11 +151,15 @@ IV.- No haber sido condenado por delito intencional, y
 
 V.- Tener una residencia en el Estado, de cinco años anteriores al día de su nombramiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Para ser Actuario del Tribunal, se requiere cumplir con los mismos requisitos que se establecen para Secretario de Estudio y Cuenta o Secretario de Acuerdos, excepto la experiencia profesional a que se refiere la tercera fracción.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 14.
 
-Los Magistrados en funciones, Secretarios de Acuerdos y Actuarios, estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estado, Municipio, Entidades Públicas Paraestatales o de índole privada, excepto los de carácter docente u honorífico.
-
-También estarán impedidos para ejercer su profesión salvo en causa propia.
+Los Magistrados, Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos y Actuarios en funciones, estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estado, Municipio, entidades públicas paraestatales o de índole privada, excepto los de carácter docente u honorífico.
 
 ### CAPITULO TERCERO. DEL PLENO
 
@@ -161,9 +169,11 @@ También estarán impedidos para ejercer su profesión salvo en causa propia.
 
 El Tribunal se integra en Pleno con tres Magistrados en funciones. Para que pueda sesionar, será indispensable la presencia de todos sus miembros.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 16.
 
-Las resoluciones del Tribunal en Pleno, se tomarán por unanimidad o por mayoría de votos de los Magistrados, que no podrán abstenerse de votar, sino cuando tengan impedimento legal.
+Las resoluciones del Pleno, se tomarán por unanimidad o por mayoría de votos de los Magistrados, que no podrán abstenerse de votar, sino cuando tengan impedimento legal, caso en el cual se procederá conforme a la fracción I del articulo 17 y de no ser posible la sustitución, se procederá conforme a la fracción III del artículo 18 de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -191,15 +201,23 @@ VI.- Fijar la circunscripción territorial de las salas del tribunal, y en su ca
 
 VII.- Dictar sentencia en los juicios que se promuevan ante las Salas del Tribunal de lo Contencioso Administrativo atendiendo lo previsto por la Ley de Acceso a la Información Pública para el Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 18.
 
-El Tribunal en Pleno tiene además, las siguientes atribuciones:
+El Pleno, tiene además las siguientes facultades:
 
-I.- Designar a su Presidente;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-II.- Fijar la sede de las Salas del Tribunal y la adscripción de los Magistrados, Secretarios Auxiliares y Actuarios de las Salas;
+I.- Designar a su Presidente, y acordar el sistema para suplirlo en caso de faltas temporales.
 
-III.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+II.- Fijar la adscripción a las Salas de los Magistrados, Secretarios de Acuerdos y Actuarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+
+III.- Llamar a un Secretario de Estudio y Cuenta para que integre Pleno, cuando por falta definitiva o temporal de los Magistrados Supernumerarios, o bien por estar impedidos para conocer de los Juicios en que intervengan, sea el único medio que evite la denegación del servicio de administración de justicia.
 
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E., P.O. 28 DE JULIO DE 2000)
 
@@ -207,11 +225,25 @@ IV.- Elaborar, discutir, y aprobar el Presupuesto de Egresos del Tribunal;
 
 V.- Aprobar y reformar el Reglamento Interno del Tribunal;
 
-VI.- Nombrar y remover al Secretario General de Acuerdos y a los demás Secretarios Auxiliares y Actuarios, previa opinión del Magistrado de la Sala de su adscripción; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+VI.- Nombrar y remover al Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal adscrito al Pleno;
 
-VII.- Dictar las medidas que exijan el buen servicio y la disciplina del Tribunal e imponer las sanciones administrativas que procedan, a los Secretarios, Actuarios y demás personal del Tribunal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+
+VII.- Nombrar y remover a los Secretarios de Acuerdos, Actuarios y demás personal de las Salas, previa opinión de sus titulares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+
+VIII.- Resolver acerca de los permisos, licencias y renuncias del personal, previa opinión del Magistrado al cual se encuentren subordinados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+
+IX.- Designar al servidor público adscrito al Pleno que suplirá las faltas temporales del Secretario General de Acuerdos, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+
+X.- Dictar las medidas que exijan el buen servicio y la disciplina del Tribunal e imponer las sanciones administrativas que procedan a los Magistrados y demás personal del mismo, en los términos que señalen las disposiciones legales aplicables.
 
 ### CAPITULO CUARTO. DEL PRESIDENTE
 
@@ -223,17 +255,23 @@ El Presidente del Tribunal será designado de entre sus miembros, en la primera 
 
 Son atribuciones del Presidente del Tribunal:
 
-I.- Representar al Tribunal, ante todo tipo de autoridades;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-II.- Integrar una de la Salas del Tribunal;
+I.- Representar al Tribunal, ante todo tipo de autoridades pudiendo delegar dicha representación por acuerdo del pleno.
 
-III.- Conocer y despachar la correspondencia del Tribunal;
+II.- (DEROGADA, P.O. 10 DE AGOSTO DE 2007)
 
-IV.- Conceder o negar licencias hasta de cinco días, por año, a los Secretarios, Actuarios y personal administrativo del Tribunal, previa opinión del Magistrado de la Sala que corresponda;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+III.- Conocer y despachar la correspondencia del Pleno;
+
+IV.- (DEROGADA, P.O. 10 DE AGOSTO DE 2007)
 
 V.- Dirigir los debates y conservar el orden, durante las sesiones plenarias;
 
-VI.- Autorizar con el Secretario General de Acuerdos, las Actas del Tribunal en Pleno, en las que se harán constar sus deliberaciones y las resoluciones que se tomen;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+VI.- Autorizar con el Secretario General de Acuerdos, las actas del Pleno, en las que se harán constar las deliberaciones y resoluciones que se tomen;
 
 VII.- Publicar los precedentes y la jurisprudencia del Tribunal;
 
@@ -245,13 +283,13 @@ VIII.- Sustanciar los recursos que sean de la competencia del Tribunal en Pleno 
 
 IX.- Proyectar y someter a la consideración del Pleno, el Presupuesto Anual de Egresos del Tribunal y dictar las órdenes relacionadas con el ejercicio del mismo;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-X.- Enviar oportunamente el Anteproyecto del Presupuesto de Egresos del Tribunal al Poder Ejecutivo del Estado, para que se incorpore al Proyecto del Presupuesto de Egresos del Gobierno del Estado, con las observaciones correspondientes;
+X.- Enviar oportunamente el Anteproyecto del Presupuesto de Egresos del Tribunal al Poder Ejecutivo del Estado, para que se incorpore al Proyecto del Presupuesto de Egresos del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-XI.- Proyectar y someter a la consideración del Tribunal, el Reglamento Interior del mismo;
+XI.- Proyectar y someter a consideración del Pleno, el Reglamento Interior del Tribunal;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
@@ -263,9 +301,15 @@ XIII.- Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPITULO QUINTO. DE LAS SALAS
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-El Tribunal de lo Contencioso Administrativo, funcionará en Salas, integradas por un Magistrado cada una. Tendrán la residencia y circunscripción territorial que les fije el Tribunal en Pleno.
+El Tribunal de lo Contencioso Administrativo, funcionará en Salas.
+
+Estarán integradas por un Magistrado Numerario o Supernumerario cada una y el personal jurídico y administrativo que sea necesario para el cumplimiento de sus funciones.
+
+Los Magistrados Supernumerarios integrarán Sala en el Municipio de Tijuana y Ensenada.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
@@ -285,21 +329,33 @@ V.- Los que versen sobre pensiones y jubilaciones, a cargo del Instituto de Segu
 
 VI.- Los dictados conforme a otras leyes que le otorguen competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad;
+VII.- Los de carácter administrativo y fiscal favorables a los particulares, emanados de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados, cuando dichas autoridades promuevan su nulidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE AGOSTO DE 2005)</small>
 
 VIII.- Los que se emitan en materia de acceso a la información pública, atendiendo lo previsto por la fracción VII del artículo 17 de esta Ley.
 
-Para efectos de este artículo, son definitivos los actos o resoluciones que no puedan ser revocados o modificados, sino mediante recurso administrativo o medio de defensa previsto por la Ley que rija el acto, o en el proceso contencioso administrativo.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+Para efectos de este artículo, son definitivos los actos o resoluciones que no puedan ser revocados o modificados, sino mediante recurso administrativo o medio de defensa previsto por la ley que rija el acto, o en el proceso contencioso administrativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Las faltas temporales de los Magistrados en las Salas, se suplirán por el Primer Secretario de Acuerdos cuando no excedan de dos meses y cuando excedan de este término, serán cubiertas por la persona que nombre el Pleno. Las faltas definitivas se cubrirán con nueva designación. Por el periodo de suplencia el funcionario recibirá los mismos emolumentos que el Magistrado.
 
 ###### ARTICULO 23.
 
 Las Salas del Tribunal conocerán por razón de territorio, respecto de los juicios que promuevan los particulares o las autoridades, con domicilio en su circunscripción territorial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+En caso de excusa, recusación o impedimento del titular, se procederá conforme al artículo 17 fracción I y de no ser posible conforme a lo dispuesto en la fracción III del artículo 18 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-Son atribuciones de los Magistrados que integran las Salas:
+Son facultades de los Magistrados que integran las Salas:
 
 I.- Despachar la correspondencia de las Salas;
 
@@ -317,19 +373,29 @@ VI.- Las demás que les señalen las disposiciones legales.
 
 ### CAPITULO SEXTO. DE LOS SECRETARIOS Y ACTUARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 25.
 
-Son atribuciones del Secretario General de Acuerdos, las siguientes:
+Son facultades del Secretario General de Acuerdos, las siguientes:
 
 I.- Acordar con el Magistrado Presidente, lo relativo a las sesiones del Tribunal en Pleno;
 
-II.- Dar cuenta en las sesiones del Tribunal, tomar la votación de los Magistrados, formular el Acta relativa y comunicar las decisiones que se acuerden;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-III.- Engrosar los fallos del Tribunal autorizándolos con su firma en unión del Presidente;
+II.- Dar cuenta en las sesiones del Pleno, tomar la votación de los Magistrados, formular el acta relativa y comunicar las decisiones que se acuerden;
 
-IV.- Llevar el turno de los Magistrados que deban formular ponencias para la resolución del Tribunal;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-V.- Tramitar y firmar la correspondencia administrativa del Tribunal, que no competa al Presidente;
+III.- Engrosar los fallos del Pleno autorizándolos con su firma en unión del Presidente;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+IV.- Llevar el turno de los Magistrados que deban formular ponencias para la resolución del Pleno;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+V.- Tramitar y firmar la correspondencia administrativa del Pleno, que no competa al Presidente;
 
 VI.- Llevar el registro de las personas que puedan ser designadas peritos terceros o en rebeldía de las partes;
 
@@ -339,27 +405,61 @@ VIII.- Proyectar los autos y resoluciones que le indique el Presidente del Tribu
 
 IX.- Las demás que le encomiende el Presidente del Tribunal, esta Ley y demás Ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+El Secretario General de Acuerdos estará adscrito al Pleno.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+###### ARTÍCULO 25 Bis.
+
+Son facultades de los Secretarios de Estudio y Cuenta, las siguientes:
+
+I.- Auxiliar a los Magistrados en la formulación de proyectos de resoluciones que se les encomienden;
+
+II.- Suplir las faltas temporales del Secretario General de Acuerdos; y
+
+III.- Las demás que les encomienden los Magistrados, el Secretario General de Acuerdos, esta Ley y demás disposiciones legales y reglamentarias aplicables.
+
+Los Secretarios de Estudios y Cuenta, estarán adscritos al Pleno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 26.
 
-Son atribuciones de los Secretarios Auxiliares, las siguientes:
+Son facultades de los Secretarios de Acuerdos, las siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 I.- Auxiliar al Magistrado de la Sala de su adscripción en la formulación de proyectos de autos de trámite y de resoluciones que se les encomienden;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+
 II.- Efectuar las diligencias que les encomiende el Magistrado de la Sala, cuando éstas deban practicarse fuera del local del Tribunal;
 
-III.- Suplir las faltas temporales del Secretario General de Acuerdos;
+III.- (DEROGADA, P.O. 10 DE AGOSTO DE 2007)
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 IV.- Redactar y autorizar las actas de las audiencias en las que les corresponda dar cuenta y autorizar las resoluciones que recaigan en los expedientes;
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
+
 V.- Expedir y certificar constancias que obren en los expedientes, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 VI.- Las demás que les encomienden los Magistrados, el Secretario General de Acuerdos, esta Ley y demás ordenamientos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Los Secretarios de Acuerdos estarán adscritos a las Salas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 27.
 
-Son atribuciones de los Actuarios:
+Son facultades de los Actuarios:
 
 I.- Notificar en tiempo y forma prescritos por la Ley, las resoluciones recaídas en los expedientes que para tal efecto les sean turnadas;
 
@@ -367,7 +467,13 @@ II.- Formular los Oficios de notificación de los acuerdos que se dicten y envia
 
 III.- Practicar las diligencias que les encomiende el Magistrado; y
 
-IV.- Las demás que les señalen los Magistrados, el Secretario General de Acuerdos, los Secretarios Auxiliares, esta Ley y demás Ordenamientos.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+IV.- Las demás que les señalen los Magistrados, el Secretario General de Acuerdos, los Secretarios de Estudio y Cuenta y Secretarios de Acuerdos, esta Ley y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Los Actuarios estarán adscritos al Pleno o a las Salas.
 
 ### CAPITULO SEPTIMO. DE LAS VACACIONES Y GUARDIAS
 
@@ -377,9 +483,11 @@ IV.- Las demás que les señalen los Magistrados, el Secretario General de Acuer
 
 El personal del Tribunal disfrutará de su período vacacional, en los mismos términos que se señale para el Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 29.
 
-Antes de iniciar el período de vacaciones, el Presidente designará al personal correspondiente, para que provean y despachen durante el receso, los asuntos de trámite y dicten resoluciones de notoria urgencia.
+Antes de iniciar el período de vacaciones, el Presidente designará al personal correspondiente, para que provean y despachen durante el receso, las resoluciones de notoria urgencia relativas a la suspensión de los actos impugnados.
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO CONTENCIOSO
 
@@ -417,19 +525,21 @@ Toda promoción deberá estar firmada por quien la formule y sin este requisito 
 
 Ante el Tribunal de lo Contencioso Administrativo, no procederá la gestión de negocios. Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a mas tardar en la fecha de presentación de la demanda o de la contestación en su caso.
 
-La representación de los particulares, se otorgará en Escritura Pública o Carta Poder, firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario Público o ante el Secretario General del Tribunal.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+La representación de los particulares, se otorgará en Escritura Pública o Carta Poder, firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante el Notario Público o ante el Secretario General de Acuerdos o, Secretarios de Acuerdos.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 Los profesionistas autorizados en los juicios contenciosos-administrativos, podrán ser coadyuvantes de la justicia administrativa para efectos de la entrega de oficios de notificación a las autoridades demandadas, en los términos del Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
-Los particulares o sus representantes, podrán autorizar por escrito a Licenciado en Derecho o Contador Público, que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos, y demás previstas por esta Ley y ordenamientos reglamentarios.
+Los particulares o sus representantes, podrán autorizar por escrito a Licenciado en Derecho o Contador Público que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos, y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante y demás previstas por esta Ley y ordenamientos reglamentarios.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
-Las autoridades demandadas no podrán ser representadas en el juicio contencioso administrativo, pero podrán nombrar delegados para el efecto de que rindan pruebas, aleguen, hagan promociones en las mismas audiencias e interpongan recursos. Se exceptúa de lo anterior a los Ayuntamientos, quienes podrán comparecer por conducto del Síndico Procurador en los términos de la legislación municipal.
+Las autoridades demandadas no podrán ser representadas en el juicio contencioso administrativo, pero podrán nombrar delegados para el efecto de que reciban notificaciones, excepción hecha de los requerimientos, rindan pruebas, aleguen, hagan promociones en las mismas audiencias e interpongan recursos. Se exceptúa de lo anterior a los Ayuntamientos, quienes podrán comparecer por conducto del Síndico Procurador en los términos de la legislación municipal.
 
 ###### ARTICULO 34.
 
@@ -457,13 +567,19 @@ Los Magistrados del Tribunal en el ejercicio de sus funciones tienen el deber de
 
 ### CAPITULO SEGUNDO. DE LAS NOTIFICACIONES Y TERMINOS
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 37.
 
 Las resoluciones se notificarán a más tardar el tercer día siguiente a aquel en que se pronuncien.
 
-Los particulares en el primer escrito que presenten deberán señalar domicilio en la población donde resida la Sala ante la que se promueva, y comunicar en su caso, el cambio del mismo, para que en éste se practiquen las notificaciones que deban ser personales. En caso de no hacerlo así, éstas se realizarán por lista, hasta en tanto no se señale el domicilio conforme a este artículo.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+Los particulares en el primer escrito que presenten, deberán señalar domicilio en la población donde resida la Sala ante la que se promueva, y comunicar en su caso, el cambio del mismo, para que en éste se practiquen las notificaciones que deban ser personales. En caso de no hacerlo así, éstas se realizarán por lista de estrados, hasta en tanto no se señale el domicilio conforme a este artículo. Cuando se promueva ante el Pleno será optativo el señalar domicilio para recibir notificaciones personales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Las autoridades que cuenten con área o departamento jurídico dependiente de la propia administración pública, podrán señalar en su primer escrito como domicilio para recibir notificaciones, las oficinas públicas de dicho departamento o área jurídica en la circunscripción que corresponda a la instancia en que se promueve.
 
 ###### ARTICULO 38.
 
@@ -491,7 +607,9 @@ H).- La resolución dictada en algún recurso.
 
 I).- En todos aquéllos casos en que el Magistrado Instructor, así los ordene.
 
-III.- Fuera de los casos señalados en las Fracciones anteriores, las notificaciones que deban hacerse a los particulares, se harán en el local del Tribunal, si se presentan dentro de las veinticuatro horas siguientes a aquélla en que se haya dictado la resolución. Cuando no se presenten, se hará por lista autorizada que se fijará en sitio visible del local del Tribunal.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
+
+III.- Fuera de los casos señalados en las fracciones anteriores, las notificaciones que deban hacerse a los particulares, se harán en el local del Tribunal, si se presentan dentro de las veinticuatro horas siguientes a aquella en que se haya dictado la resolución. Cuando no se presenten, se hará por lista autorizada por el Actuario quien la fijará en sitio visible del local del Tribunal. La lista de estrados, deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trata. El Actuario autorizará con su firma esta lista, asentando en autos la constancia correspondiente.
 
 Las notificaciones surtirán sus efectos, al día hábil siguiente a aquél en que fueron hechas.
 
@@ -502,6 +620,10 @@ En las actuaciones respectivas, el Actuario deberá asentar la razón del envío
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 La notificación omitida o irregular, se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de la misma, salvo cuando se promueva su nulidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Las notificaciones personales y por oficio, podrán efectuarse a las partes de encontrarse presentes en las oficinas del Tribunal.
 
 ###### ARTICULO 39.
 
@@ -579,15 +701,19 @@ III.- Si han sido Abogados o Apoderados de las partes en el mismo asunto;
 
 IV.- Si tuviesen amistad estrecha o enemistad manifiesta con alguna de las partes o con sus representantes;
 
-V.- Si hubiesen aconsejado como Asesores respecto del acto impugnado, o si hubiesen emitido, en otra instancia, la resolución o procedimiento combatido; y
+V.- Si hubiesen aconsejado como Asesores respecto del acto impugnado, o si hubiesen emitido, en otra instancia, la resolución o procedimiento combatido; y (sic)
 
-VI.- Si son partes en un juicio similar pendiente de resolución por el Tribunal.
+VI.- Si son partes en un juicio similar pendiente de resolución por el Tribunal;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2007)</small>
+
+VII.- Si hubiesen dictado en la primera instancia del Juicio la resolución recurrida.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 43.
 
-Los Magistrados del Tribunal que se consideren impedidos para conocer de algún asunto, harán la manifestación ante el Pleno del Tribunal, el que calificará la excusa y llamará, en su caso, al Magistrado Supernumerario.
+Los Magistrados del Tribunal que se consideren impedidos para conocer de algún asunto, harán la manifestación ante el Pleno del Tribunal, el que calificará la excusa y en su caso, procederá en los términos previstos en esta Ley.
 
 ###### ARTICULO 44.
 
@@ -606,6 +732,10 @@ La entrega de una resolución, por escrito al particular, se considera como noti
 En los casos de negativa ficta, el interesado podrá interponer la demanda en cualquier tiempo mientras no se dicte resolución expresa, y siempre que haya transcurrido el término en que la autoridad debió dictar la resolución. A falta de término establecido, el silencio de las autoridades administrativas se considerará resolución negativa cuando transcurran sesenta días naturales.
 
 Las autoridades podrán deducir la acción de lesividad de sus actos y resoluciones en favor de los particulares, dentro de los cinco años siguientes a la fecha en que se le hayan notificado éstos, salvo que dicha resolución haya producido efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época sin exceder de los cinco años del último efecto producido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2007)</small>
+
+Cuando se trate de créditos fiscales que no rebasen los cien salarios mínimos o multas indeterminadas, podrá presentarse la demanda a través de formatos apropiados y gratuitos para que el interesado sólo llene los espacios en blanco, pudiendo operar en estos casos la suplencia de la queja, así mismo se tendrá como excepción hecha a la representación a que hace referencia el articulo 33 de esta ley, que en este caso el interesado podrá optar ser representado por el profesionista señalado o por persona de su confianza la cual tendrá las mismas facultades.
 
 ###### ARTICULO 46.
 
@@ -637,7 +767,9 @@ VI.- La fecha en que se tuvo conocimiento del acto o resolución impugnada;
 
 VII.- Las pruebas que ofrezca;
 
-En caso de que se ofrezcan pruebas pericial o testimonial, se precisarán los hechos sobre las que deban versar y señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos, se tendrán por no ofrecidas; y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+En caso de que se ofrezca la prueba testimonial, se precisarán los hechos sobre las que deban versar y señalarán los nombres y domicilios de los testigos. Asimismo, al ofrecer la prueba pericial, se deberán señalar los puntos sobre los que versará. Sin estos señalamientos se tendrán por no ofrecidas;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
@@ -863,21 +995,33 @@ El propio Tribunal hará el requerimiento y aplazará la audiencia por un térmi
 
 La prueba pericial tendrá lugar en las cuestiones de carácter técnico, científico o artístico. El Perito deberá tener título en la especialidad a la que pertenezca la cuestión sobre la que deba rendirse el peritaje, si estuviere legalmente reglamentada. Si no lo estuviese, o estándolo no fuere posible obtenerlo, podrá nombrarse a una persona entendida en la materia.
 
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999) (F. DE E., P.O. 28 DE JULIO DE 2000)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 77.
 
-Al ofrecer la prueba pericial, la parte oferente, presentará el cuestionario del perito, quien deberá rendir su dictamen por escrito dentro de un plazo no menor de cinco días. El acuerdo que admita el dictamen ordenará dar vista a las partes para que formulen sus observaciones en términos de este artículo.
+Al ofrecer la prueba pericial, la parte oferente presentará el cuestionario del perito.
 
-El Magistrado de la Sala solicitará al Titular de la Dependencia u Organismo Estatal o Municipal que estime idóneo, la designación de una persona con la preparación o conocimientos técnicos o científicos necesarios para que funja como perito del Tribunal dentro del juicio. El Titular será apercibido de que en caso de no proporcionar el perito solicitado, o no proporcionare las facilidades necesarias para desempeñar esta función, se le aplicarán los medios de apremio previstos para que este Tribunal haga cumplir sus determinaciones.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
-Los funcionarios y empleados que sean comisionados para fungir como peritos por la Dependencias y Entidades de la Administración Pública Estatal o Municipales, deberán desempeñar el cargo de perito como parte de sus funciones.
+El Magistrado solicitará al Titular de la Dependencia u Organismo Estatal o Municipal que estime idóneo, la designación de una persona con la preparación o conocimientos técnicos o científicos necesarios para que funja como perito del Tribunal dentro del juicio. El Titular será apercibido de que en caso de no proporcionar el perito solicitado, o no proporcionare las facilidades necesarias para desempeñar esta función, se le aplicarán los medios de apremio previstos para que el Magistrado haga cumplir sus determinaciones.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+Los funcionarios y empleados que sean comisionados para fungir como peritos por las Dependencias y Entidades de la Administración Pública Estatal o Municipal, deberán desempeñar el cargo de perito como parte de sus funciones, quienes deberán rendir su dictamen por escrito dentro del plazo de cinco días.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 En caso que sean necesarios apoyos o elementos para la elaboración de su dictamen, el perito contará con los apoyos que se determinen en el Reglamento Interior.
 
-Una vez presentado el dictamen, éste será puesto a disposición de las partes, para que estén en posibilidad de presentar objeciones al mismo por escrito, antes de la celebración de la audiencia. En ningún caso el plazo que se le otorgue a las partes podrá ser menor de cinco días hábiles para conocer del dictamen y formular sus objeciones si las consideran necesarias, las cuales deberán contener los elementos técnicos en que se basan. La parte que lo estime necesario podrá nombrar su propio perito a su costa, quien a partir de la aceptación del cargo, tendrá un plazo de diez días para formular su dictamen correspondiente. En caso de ser necesario, la realización de la audiencia se diferirá para respetar los plazos precisados en este párrafo.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+Una vez presentado el dictamen, éste será puesto a disposición de las partes, para que estén en posibilidad de presentar objeciones al mismo por escrito, antes de la celebración de la audiencia. En ningún caso el plazo que se le otorgue a las partes podrá ser menor de cinco días hábiles para conocer del dictamen y formular sus objeciones si las consideran necesarias, las cuales deberán contener los elementos técnicos en que se basan. Una vez rendido el dictamen del perito nombrado por el Magistrado, la parte que lo estime necesario podrá nombrar perito a su costa, quien a partir de la aceptación del cargo, tendrá un plazo de diez días para formular su dictamen correspondiente. En caso de ser necesario, la realización de la audiencia se diferirá para respetar los plazos precisados en este párrafo.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 En la audiencia, el perito o los peritos estarán obligados a dar respuesta a los cuestionamientos que verbalmente le formulen las partes y el Magistrado de la Sala, las que se harán constar en forma resumida en el acta que se levante de la audiencia, para ser valoradas al momento de la sentencia, junto con el dictamen y objeciones formuladas por escrito por las partes.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1999)</small>
 
 Los peritos no serán recusables pero deberán excusarse por alguna de las causas siguientes:
 
@@ -1003,7 +1147,9 @@ El Tribunal resolverá si la autoridad o servidor público ha cumplido con los t
 
 En el supuesto de que la autoridad demandada persista en su actitud omisa, el Tribunal solicitará al Titular de la Dependencia Estatal, Municipal u Organismo Descentralizado a quien se encuentre subordinado, para que conmine al funcionario responsable a cumplir con las determinaciones del Tribunal.
 
-Si no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, el Tribunal podrá decretar la destitución del servidor público responsable, excepto de que se trate de autoridad electa por voto popular, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+Si no obstante los requerimientos anteriores no se da cumplimiento a la resolución, el Magistrado remitirá el expediente al Pleno, quien podrá decretar la destitución del servidor público responsable, excepto de que se trate de autoridad electa por voto popular, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTICULO 89.
 
@@ -1069,7 +1215,9 @@ DE LA JURISPRUDENCIA
 
 Las sentencias firmes del Pleno del Tribunal de lo Contencioso Administrativo constituirán Jurisprudencia, siempre que lo resuelto se sustente en tres ejecutorias no interrumpidas por otra en contrario y hayan sido aprobadas por unanimidad de votos de los Magistrados que lo integran.
 
-La Jurisprudencia del Tribunal será obligatoria para el Pleno y sus Salas. También estarán obligadas a su observancia las autoridades administrativas sometidas a su jurisdicción. Cuando se invoquen tesis jurisprudenciales de este órgano, deberán proporcionarse los datos suficientes para su identificación y verificación.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
+
+La jurisprudencia del Tribunal será obligatoria para el Pleno y sus Salas. También estarán obligadas a su observancia las autoridades administrativas sometidas a su jurisdicción; excepción hecha en materia tributaria. Cuando se invoquen tesis jurisprudenciales de este órgano, deberán proporcionarse los datos suficientes para su identificación y verificación.
 
 Cuando alguna Sala o autoridad administrativa, dicte o ejecute un acto contraviniendo una tesis jurisprudencial, el Tribunal le solicitará un informe. Una vez confirmado el incumplimiento, el Pleno del Tribunal le aplicará los medios de apremio que establece esta Ley.
 
@@ -1113,25 +1261,25 @@ CAPITULO DECIMOQUINTO
 
 DEL RECURSO DE REVISION EN MATERIA DE ACCESO A LA INFORMACION
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 99.
 
-Las resoluciones que nieguen información a que hace referencia la Ley de Acceso a la Información Pública para el Estado de Baja California, o que la concedan tratándose de información confidencial y que sean competencia de este Tribunal, podrán ser impugnadas dentro de los quince días hábiles siguientes a la notificación mediante recurso de revisión ante el Tribunal de los Contencioso Administrativo del Estado. El solicitante expresará los agravios que le infiere la resolución y el procedimiento se sujetará a las reglas siguientes:
+Las resoluciones que nieguen información a que hace referencia la Ley de Acceso a la Información Pública para el Estado de Baja California, o que la concedan tratándose de información confidencial y que sean competencia de este Tribunal, podrán ser impugnadas mediante juicio de revisión cuyo procedimiento se sujetará a las reglas siguientes:
 
-I.- Las Salas del Tribunal conocerán de la instrucción de todo el procedimiento hasta ponerlo en estado de sentencia.
+I.- Las Salas conocerán de la instrucción de todo el procedimiento hasta ponerlo en estado de sentencia, debiéndose remitir el expediente al Pleno dentro de las veinticuatro horas siguientes de la conclusión de la audiencia;
 
-II.- Al recibir el recurso por escrito el Magistrado instructor dentro de los tres días hábiles siguientes requerirá a la autoridad un informe circunstanciado al que agregará copia certificada de la resolución impugnada y de todas las constancias relacionadas con el caso. Este informe será rendido a mas tardar dentro de los cinco días hábiles posteriores al requerimiento, bajo pena de multa de hasta cientos (sic) ochenta días de salario, salvo que hubiere mediado causa justificada. Este informe será puesto a disposición del recurrente para que formule sus objeciones.
+II.- El Magistrado Presidente designará al Magistrado Ponente, haciéndolo del conocimiento de las partes para que en un plazo de tres días, expresen lo que su derecho convenga. Transcurrido este plazo el Magistrado Ponente formulará proyecto de resolución y lo someterá a la consideración de los Magistrados dentro de los cinco días siguientes, quienes deberán emitir su voto dentro de los dos días siguientes;
 
-En el mismo auto citará a las partes a una audiencia de pruebas y alegatos que deberá ser celebrada dentro de un periodo máximo de ocho días hábiles a partir de la admisión del recurso y si hubiere tercero opositor, ordenará que el sujeto obligado lo emplace para que comparezca al Tribunal, dentro de los cinco días hábiles siguientes en defensa de su interés.
+III.- En este procedimiento el Tribunal deberá suplir la deficiencia de la queja a favor del solicitante, salvo que hubiere un tercero que tenga un derecho incompatible con la pretensión del demandante;
 
-III.- En este procedimiento el Tribunal suplirá la deficiencia de la queja a favor del solicitante, y si el Magistrado instructor lo considera indispensable podrá practicar diligencias para mejor proveer dentro de un plazo que no exceda de cinco días hábiles. Hecho lo anterior formulará un proyecto de resolución que elevará a la consideración del Pleno.
+IV.- La sentencia deberá ser cumplida dentro de las veinticuatro horas siguientes a su notificación;
 
-IV.- El Pleno del Tribunal resolverá dentro de los diez días hábiles siguientes y para la autoridad esta resolución será definitiva e inatacable y deberá ser cumplida dentro de las 24 horas siguientes a su notificación.
+V.- Si el Pleno lo determina procedente, en su sentencia podrá imponer al sujeto obligado una sanción pecuniaria de hasta ciento ochenta días de salario y de considerar que se configura un delito, enviará al Ministerio Público copia certificada del expediente para los efectos que corresponda;
 
-V.- Si el Pleno del Tribunal lo determina procedente en sentencia podrá imponer al sujeto obligado una sanción pecuniaria de hasta ciento ochenta días de salario y de considerar que se configura un delito, enviará al Ministerio Público copia certificada del expediente para los efectos que corresponda. En los casos de reincidencia en la negativa de cumplimiento a la resolución emitida por el Tribunal se estará a lo previsto en el capitulo duodécimo de esta Ley.
+VI.- Las Salas y el Pleno, tendrán acceso a la información clasificada como reservada o confidencial cuando resulte indispensable para sustanciar o resolver el recurso. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente; y
 
-Las Salas y el Pleno del Tribunal tendrán acceso a la información clasificada como reservada o confidencial cuando resulte indispensable para sustanciar o resolver el recurso. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+VII.- En lo que no se oponga a este procedimiento especial, se aplicarán las reglas del presente titulo.
 
 El Tribunal tendrá en todas sus oficinas formatos apropiados para que el interesado solo llene los espacios en blanco, y los proporcionará gratuitamente a quien lo solicite.
 
@@ -1202,3 +1350,13 @@ TERCERO.- Los Magistrados que a la fecha en que entren en vigor las presentes re
 P.O. 19 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2007.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: El Tribunal de lo Contencioso Administrativo solicitará en los términos de la legislación aplicable, la ampliación a su presupuesto de egresos correspondiente al ejercicio 2007 necesaria para el cumplimiento de la presentes reformas.
+
+TERCERO: El procedimiento y condiciones de ratificación de los actuales magistrados, se realizará conforme a las presentes reformas, inclusive si es magistrado saliente.
+
+CUARTO: Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
