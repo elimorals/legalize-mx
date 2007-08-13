@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2006-12-14"
+last_updated: "2007-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -237,7 +237,9 @@ Son prerrogativas de los diputados, además de las establecidas por los artícul
 
 I. Gozar de las licencias que le conceda el Pleno o la Permanente, en los términos de este Reglamento;
 
-II. Reasumir su cargo en el momento en que lo decidan, previo aviso por escrito al Presidente, cesando en sus funciones el suplente;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2007)</small>
+
+II. Reasumir su cargo, previo aviso por escrito al Presidente, presentándolo por lo menos durante cuarenta y ocho horas antes de la celebración de la sesión en la que sea comunicado al Pleno o la Diputación Permanente, cesando sus funciones el suplente cinco días después de la sesión de referencia;
 
 III. Recibir atención médica, así como ser beneficiarios de seguros de vida y gastos médicos, en los términos del presupuesto o del seguro que se contrate;
 
@@ -1556,3 +1558,9 @@ G.O. 14 DE DICIEMBRE DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
