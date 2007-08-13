@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2007-01-31"
+last_updated: "2007-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2007.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1053,9 +1053,11 @@ Para el cumplimiento de esta función el pleno de cada Comisión Legislativa pod
 
 Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Período Ordinario de cada Legislatura. Cada una de éstas, deberán reunirse en sesión plenaria por lo menos una vez cada dos meses y entregar a la instancia correspondiente un informe trimestral de sus actividades realizadas.
 
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 73.
 
-El Presidente de la Legislatura, durante el tiempo de su gestión, estará impedido para participar en cualquier comisión.
+El Presidente de la Legislatura y de la Diputación Permanente, durante el tiempo de su gestión, estarán impedidos para participar en cualquier comisión.
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1287,9 +1289,7 @@ Para estos casos se integrará también la Sección Instructora del Gran Jurado.
 
 El procedimiento de declaración de procedencia, se ajustará a la normatividad prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-## TITULO QUINTO. DE LA SUSPENSION Y DESAPARICION DE AYUNTAMIENTOS Y
-
-SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
+## TITULO QUINTO. DE LA SUSPENSION Y DESAPARICION DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
 
 ###### Artículo 103.
 
@@ -1582,3 +1582,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Las reformas a la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, contenidas en el presente Decreto, entrarán en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y los municipios correspondientes al ejercicio fiscal 2006.
+
+G.G. 13 DE AGOSTO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
