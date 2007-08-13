@@ -4,7 +4,7 @@ identifier: "CMX-circular-uno-bis-normatividad-en-materia-de-administracion-8753
 country: "mx"
 rank: "otro"
 publication_date: "2007-04-12"
-last_updated: "2007-06-27"
+last_updated: "2007-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-04-04"
 
 CIRCULAR UNO BIS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE AGOSTO DE 2007.
 
 Circular publicada en la Gaceta Oficial del Gobierno del Distrito Federal, el jueves 12 de abril de 2007.
 
@@ -306,6 +306,10 @@ Abreviaturas y Glosario de Términos
 
 11.12 Avalúos de Bienes del Distrito Federal
 
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+12. Del Instituto de Ciencia y Tecnología del Distrito Federal.
+
 Concordancia Normativa
 
 DISPOSICIONES GENERALES
@@ -429,6 +433,10 @@ GDF: Gobierno del Distrito Federal.
 GODF: Gaceta Oficial del Distrito Federal.
 
 IAIPDF: Instituto de Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+ICTDF: Instituto de Ciencia y Tecnología del Distrito Federal
 
 IMSS: Instituto Mexicano del Seguro Social.
 
@@ -655,6 +663,10 @@ m) Constancia de Remuneraciones Cubiertas y Retenciones efectuadas emitidas por 
 n) Manifestación por escrito, si tienen un empleo fuera de la APDF y si en dicho empleo se aplica el Crédito al Salario que establece la LISR, y
 
 o) Manifestación del empleado de no haber sido sujeto de jubilación mediante incorporación a programas de retiro con apoyo económico.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+p) Constancia de no inhabilitación expedida por la Secretaría de la Función Pública. Tratándose de los trabajadores a lista de raya no se requerirá de dicha constancia, debiendo las delegaciones únicamente verificar ante la CGDF que las personas no se encuentren inhabilitadas por la Secretaría de la Función Pública.
 
 El aspirante que no cumpla con los requisitos asentados no podrá ser contratado.
 
@@ -3863,6 +3875,32 @@ Este mecanismo sólo procederá si el monto de la renta pactada en el contrato a
 11.12.4 Todo dictamen valuatorio que la DGPI practique obliga a la Delegación solicitante, a realizar el pago de los servicios correspondientes que el mismo origine, derivado de las tarifas autorizadas por la Tesorería del Distrito Federal.
 
 Conforme a las políticas de operación que establece la DGPI, todos los avalúos y justipreciaciones de renta que se soliciten a ésta, deberán tramitarse mediante el formato “Solicitud de Servicios” que contendrá la base informativa que la propia solicitud señale.
+
+> <small>(ADICIONADO CON LOS NUMERALES QUE LO INTEGRAN, G.O. 13 DE AGOSTO DE 2007)</small>
+
+12. DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL DISTRITO FEDERAL.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+12.1 Las Delegaciones que requieran trabajos de investigación, estudios, proyectos y opiniones técnicas en materia de ciencia, tecnología e innovación en el Distrito Federal, los solicitarán al ICTDF, conforme a lo siguiente:
+
+a) A más tardar en la primera quincena del mes de febrero, deberán remitir al ICTDF la información relacionada con los trabajos en materia de ciencia, tecnología e innovación contemplados en sus PAAAPS, para que éste determine con mayor oportunidad los servicios que pueda ofrecerles, a fin de que cuente con mayores elementos para la consolidación de los trabajos.
+
+b) Las modificaciones que se hagan a los PAAAPS, al igual que las que se realicen a los presupuestos, deberán también notificarse con la debida oportunidad al ICTDF siempre que se traten de aspectos en materia de ciencia, tecnología e innovación.
+
+c) El documento que remitan las Delegaciones al ICTDF deberá contener como mínimo las expectativas del trabajo a desarrollar y, en su caso, los recursos aplicables, proponiendo alternativas de solución, estrategias de trabajo a desarrollar, así como las características y especificaciones técnicas de los bienes o servicios a contratar y la duración de los mismos.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+12.2 El ICTDF, derivado del análisis efectuado al trabajo solicitado, podrá determinar no proceder a desarrollarlo, emitiendo al efecto, en un plazo máximo de diez días hábiles, la carta de liberación a la Delegación solicitante, para que lo contrate directamente con las personas físicas o morales del sector público, social o privado, en términos del numeral 12.3.
+
+Sin perjuicio de lo anterior, invariablemente todos los trabajos en materia de ciencia, tecnología e innovación que vayan a desarrollar directamente las Delegaciones, deberán contar con la opinión técnica del ICTDF.
+
+Al efecto deberán remitir la documentación a que se refiere el numeral anterior.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2007)</small>
+
+12.3 El ICTDF impulsará y coordinará las acciones de las Delegaciones con las diferentes instituciones que intervienen en la definición o aplicación de políticas y programas en materia de desarrollo científico, tecnológico y de innovación, en la instrumentación y desarrollo de programas conjuntos.
 
 CONCORDANCIA NORMATIVA
 
