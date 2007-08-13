@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2006-09-14"
+last_updated: "2007-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -175,15 +175,19 @@ III.- Solicitar los servicios de asesoría profesional del sector público o pri
 
 Para el trámite de los asuntos de su competencia, las comisiones se reunirán cuantas veces sea necesario mediante citatorio que hagan sus respectivos presidentes a sus integrantes, de la siguiente manera:
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMAD, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
 I.- A través del Secretario de la directiva, en sesión;
 
-II.- En reunión de las propias comisiones;
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2007)</small>
+
+II.- En reunión de las propias comisiones, debiendo señalar el Orden del Día a tratar en la reunión;
 
 III.- Por escrito con acuse de recibo en las oficinas de los diputados, cuando menos con veinticuatro horas de anticipación.
 
-En todos los casos el citatorio contendrá el día, la hora, el lugar, y el asunto a tratar.
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
+
+En todos los casos el citatorio contendrá el día, la hora y el lugar, debiendo acompañar el Orden del Día a tratar.
 
 > <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -1171,7 +1175,7 @@ I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Le
 
 II.- Conocer de las responsabilidades administrativas y hacer efectivas las sanciones que correspondan, cuando así lo acuerde la Junta de Coordinación Política;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2004)</small>
 
 III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
 
@@ -1742,3 +1746,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 13 DE AGOSTO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
