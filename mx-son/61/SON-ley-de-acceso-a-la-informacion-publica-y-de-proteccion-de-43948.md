@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2005-12-29"
+last_updated: "2007-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2005
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -243,7 +243,27 @@ Además de la información referida en la fracción XVIII del artículo 14, los 
 
 También deberá difundirse, para que sea de libre acceso a cualquier persona, la información relativa a la contratación y designación de servidores públicos, sus gastos de representación, costos de viajes, emolumentos o pagos en concepto de viáticos y otros semejantes, sea cual fuere el nivel de dichos funcionarios e incluyendo a todas las personas que desempeñen funciones públicas aún cuando no tengan nombramiento o un cargo determinado.
 
-### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPITULO TERCERO. DE LA TRANSPARENCIA DE FIDEICOMISOS, MANDATOS O CONTRATOS ANÁLOGOS
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS.- Las dependencias y entidades del Gobierno del Estado o los Ayuntamientos no podrán reservar, con base en el secreto bancario o fiduciario, la información relativa a operaciones fiduciarias y bancarias que se lleven a cabo con recursos públicos estatales o municipales, sin perjuicio de que dicha información pueda ubicarse en algún otro supuesto de clasificación previsto en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS A.- Para efectos del presente Capítulo, por operaciones fiduciarias se entenderán aquellas que se realicen en virtud de fideicomisos públicos considerados entidades paraestatales o paramunicipales, así como fideicomisos, mandatos o contratos análogos que involucren recursos públicos estatales o municipales.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS B.- La información generada por los fideicomisos públicos, mandatos o contratos análogos a que se refiere el presente capítulo, será de acceso público en los términos de esta Ley. Los sujetos obligados deberán publicar en su página de internet, la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios y el monto de los mismos. La reserva fiduciaria sólo obliga y protege a la institución fiduciaria, más no al resto de las partes cuando se solicite la información a través del fideicomitente, de los fideicomisarios o del Comité Técnico, quienes estarán obligados a informar en los términos de esta Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS C.- Tratándose de fideicomisos no considerados entidades paraestatales o paramunicipales que involucren recursos públicos estatales o municipales, y/o recursos privados, el acceso a la información deberá otorgase únicamente por lo que se refiere a la aplicación de recursos públicos estatales o municipales, según corresponda.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Artículo 35 BIS D.- En el caso de fideicomisos privados que involucren recursos públicos estatales y/o municipales, la dependencia o entidad que erogue las aportaciones estatales o municipales, según corresponda, deberá otorgar acceso a la información relativa únicamente por lo que se refiere a la aplicación de los recursos públicos respectivos.
 
 #### SECCIÓN I. DISPOSICIONES COMUNES
 
@@ -381,11 +401,13 @@ V. En los demás casos que establezcan las leyes.
 
 Los sujetos obligados oficiales que posean, por cualquier título y de cualquier modo, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto.
 
-### CAPITULO SEGUNDO. DEL RECURSO DE REVISIÓN
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 14 DE AGOSTO DE 2007)</small>
+
+### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ## TÍTULO TERCERO. DEL ACCESO A LA INFORMACIÓN PÚBLICA
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPITULO SEGUNDO. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 36.
 
@@ -461,7 +483,7 @@ No se entregará ni se permitirá manipular o mutilar los documentos originales 
 
 Los sujetos obligados oficiales deberán auxiliar y otorgar todas las facilidades conducentes a las personas que soliciten el servicio de consulta directa de información pública.
 
-### CAPITULO UNICO. DEL SISTEMA DE ARCHIVOS
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 48.
 
@@ -593,6 +615,8 @@ Cualquier acción u omisión que se realice o deje de realizarse para eludir de 
 
 ## TITULO CUARTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
+### CAPITULO UNICO. DEL SISTEMA DE ARCHIVOS
+
 ###### Artículo 61.
 
 Los servidores públicos serán responsables por el incumplimiento de las obligaciones establecidas en esta Ley, así como por incurrir en alguno de los siguientes supuestos:
@@ -718,3 +742,29 @@ POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE
 B.O. 29 DE DICIEMBRE DE 2005.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos a que se refiere el artículo 47 BIS C de la Ley Orgánica del Poder Ejecutivo a fin de autorizar a los fiduciarios a proporcionar los requerimientos de información, deberán realizarse en un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En caso de que se modifique posteriormente la Ley de Deuda Pública del Estado de Sonora con respecto a los fideicomisos de financiamiento establecidos en el artículo 19 Bis de dicha Ley, se deberán respetar los derechos de los terceros que hayan contratado con dichos fideicomisos, en los términos y condiciones pactados.
+
+###### ARTÍCULO QUINTO.
+
+En los fideicomisos, mandatos o contratos análogos constituidos previamente a la entrada en vigor del presente Decreto, el fideicomitente, mandante o la persona facultada para ello instruirá al fiduciario o mandatario para que en un plazo improrrogable de 60 días naturales, contados a partir de la entrada en vigor del mismo, transparenten y rindan cuentas sobre el manejo de los recursos públicos estatales o municipales, según corresponda, que se hubieren aportado a dichos contratos, así como a proporcionar los informes que permitan su vigilancia y fiscalización, en términos del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
