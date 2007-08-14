@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ingresos-y-presupuesto-de-ingresos-del-estado-para-52680
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-31"
-last_updated: "2006-12-31"
+last_updated: "2007-08-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2007.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el domingo 31 de diciembre de 2006.
 
@@ -723,7 +723,9 @@ Cuando una ley impositiva contenga, además de las disposiciones propias del gra
 
 La recaudación proveniente de los conceptos previstos en el artículo 1o. de esta Ley, con excepción de los contenidos en el apartado B, aún cuando se destinen a fines específicos, se hará en las oficinas exactoras de la Secretaría de Hacienda y en las instituciones, empresas y medios electrónicos autorizados al efecto, excepto cuando la Secretaría de Hacienda celebre convenios de coordinación con los Municipios de la Entidad para la administración y cobro de algún concepto fiscal estatal, en cuyo caso el pago se efectuará en las oficinas de las tesorerías municipales, conforme a las bases que se estipulen en los convenios respectivos.
 
-Para que tenga validez el pago de las diversas prestaciones fiscales que establece esta Ley de Ingresos por los conceptos antes mencionados, el contribuyente deberá obtener en todos los casos el recibo oficial o la documentación, constancia, acuse de recibo electrónico u otros medios que para acreditar el pago de créditos fiscales establezca la Secretaría de Hacienda a través de disposiciones de carácter general. Las cantidades que se recauden por estos conceptos se concentrarán en la Secretaría de Hacienda y deberán reflejarse cualquiera que sea su forma o naturaleza, tanto en los registros de las oficinas recaudadoras como de la propia Secretaría.
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Para que tenga validez el pago de las diversas prestaciones fiscales que establece esta Ley de Ingresos por los conceptos antes mencionados, el contribuyente deberá obtener en todos los casos el recibo oficial o la documentación, constancia, acuse de recibo electrónico u otros medios que para acreditar el pago de créditos fiscales establezca la Secretaría de Hacienda a través de disposiciones de carácter general. Las cantidades que se recauden por estos conceptos se concentrarán en la Secretaría de Hacienda, o en el caso de los fideicomisos de financiamiento previstos en el artículo 19 Bis de la Ley de Deuda Pública del Estado de Sonora, se concentrarán con el fiduciario correspondiente, y deberán reflejarse cualquiera que sea su forma o naturaleza, tanto en los registros de las oficinas recaudadoras como de la propia Secretaría.
 
 A efecto de asegurar la recaudación de toda clase de créditos a favor del Gobierno del Estado, el Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos cuando constituya la única forma que tenga el deudor para cumplir con la obligación a su cargo y dichos bienes o servicios sean de fácil venta o realización, o resulten de utilidad para el Gobierno del Estado, a juicio de la propia Secretaría de Hacienda, quien tendrá la facultad de resolver sobre la aceptación o negativa de las solicitudes de dación en pago.
 
@@ -851,7 +853,9 @@ Tratándose de publicaciones de convocatorias en el Boletín Oficial del Gobiern
 
 A efecto de instituir un mecanismo permanente que impulse el fortalecimiento de la Hacienda Pública a través de la superación de las metas establecidas en materia de ingresos estatales, la mejora continua de la calidad del sistema fiscal de la Entidad y la atención de las necesidades presupuestarias vinculadas con el saneamiento financiero del Gobierno del Estado, podrá constituirse un fondo con recursos derivados de la eficiencia recaudatoria para modernizar e impulsar la productividad de la administración fiscal estatal, para consolidar una mejor posición financiera del erario público y para el fortalecimiento del sistema de pensiones a cargo del Gobierno del Estado, previa publicación en el Boletín Oficial del Gobierno del Estado del Acuerdo correspondiente expedido por el Secretario de Hacienda.
 
-Este fondo se integrará con los recursos consolidados provenientes del aumento de la recaudación fiscal sobre el presupuesto establecido en la Iniciativa presentada por el Ejecutivo del Estado para instituir el presente ordenamiento, en lo correspondiente a los conceptos de ingresos señalados en el artículo 1º de esta Ley, apartado A, fracciones I, II numeral 3, III numerales 2 y 8, V numerales 2, 3, 6 y 11 a 17, 20 y 21, una vez deducidos los recursos que correspondan a los municipios en los términos del artículo 2º de esta Ley.
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Este fondo se integrará con los recursos consolidados provenientes del aumento de la recaudación fiscal sobre el presupuesto establecido en la Iniciativa presentada por el Ejecutivo del Estado para instituir el presente ordenamiento, en lo correspondiente a los conceptos de ingresos señalados en el artículo 1º de esta Ley, apartado A, fracciones I, II numeral 3, III numerales 2 y 8, V numerales 6 y 11 a 17, una vez deducidos los recursos que correspondan a los municipios en los términos del artículo 2º de esta Ley.
 
 El monto de los recursos correspondientes a este fondo se determinará trimestralmente tomando como referencia la calendarización establecida en el Anexo Único de esta Ley de Ingresos.
 
@@ -974,3 +978,31 @@ A partir de la fecha en que esta Ley entre en vigor, quedarán sin efecto las di
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 28 DE DICIEMBRE DE 2006.- DIPUTADO PRESIDENTE.- CARLOS DANIEL FERNÁNDEZ GUEVARA.- RUBRICA.- DIPUTADO SECRETARIO.- REYNALDO MILLÁN COTA.- RUBRICA.- DIPUTADA SECRETARIA.- SUSANA SALDAÑA CAVAZOS.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO TOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARÁN.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 14 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos a que se refiere el artículo 47 BIS C de la Ley Orgánica del Poder Ejecutivo a fin de autorizar a los fiduciarios a proporcionar los requerimientos de información, deberán realizarse en un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En caso de que se modifique posteriormente la Ley de Deuda Pública del Estado de Sonora con respecto a los fideicomisos de financiamiento establecidos en el artículo 19 Bis de dicha Ley, se deberán respetar los derechos de los terceros que hayan contratado con dichos fideicomisos, en los términos y condiciones pactados.
+
+###### ARTÍCULO QUINTO.
+
+En los fideicomisos, mandatos o contratos análogos constituidos previamente a la entrada en vigor del presente Decreto, el fideicomitente, mandante o la persona facultada para ello instruirá al fiduciario o mandatario para que un plazo improrrogable de 60 días naturales, contados a partir de la entrada en vigor del mismo, transparenten y rindan cuentas sobre el manejo de los recursos públicos estatales o municipales, según corresponda, que se hubieren aportado a dichos contratos, así como a proporcionar los informes que permitan su vigilancia y fiscalización, en términos del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a 60 días, contados a partir de la entra en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
