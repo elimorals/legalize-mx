@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2006-12-29"
+last_updated: "2007-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL:14 DE AGOSTO DE 2007.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -45,9 +45,11 @@ CODIGO FISCAL DEL ESTADO DE SONORA
 
 ### CAPITULO UNICO. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 1º.
 
-Las personas físicas y las morales están obligadas a contribuir para los gastos públicos conforme a las leyes fiscales respectivas. Sólo mediante Ley podrá destinarse una contribución a un gasto público específico.
+Las personas físicas y las morales están obligadas a contribuir para los gastos públicos conforme a las leyes fiscales respectivas. Sólo cuando así lo dispongan las leyes aplicables, podrá afectarse una contribución u otro ingreso a un gasto público específico u otro fin especial o específico.
 
 El Estado de Sonora queda obligado a pagar contribuciones únicamente cuando las leyes lo señalen expresamente.
 
@@ -79,6 +81,10 @@ Los Impuestos, contribuciones especiales, derechos y aprovechamientos se regular
 
 Las participaciones son ingresos derivados del rendimiento de impuestos federales correspondientes al Estado y se regularán por lo que establezcan las leyes fiscales federales que las otorgan, en su defecto, por lo que establezcan los convenios de colaboración administrativa que se celebren con la Federación.
 
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Las participaciones no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo, con autorización del Congreso del Estado de Sonora, para el pago de obligaciones a cargo del Estado, sus entidades paraestatales, los municipios o sus entidades paramunicipales, incluyendo las afectaciones que cualquiera de ellos efectúe a favor de los fiduciarios de los fideicomisos de financiamiento establecidos en la Ley de Deuda Pública del Estado de Sonora.
+
 Los productos se regularán por lo que prevengan los contratos o concesiones respectivos, por este Código y supletoriamente por el derecho común.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
@@ -87,9 +93,11 @@ Los productos se regularán por lo que prevengan los contratos o concesiones res
 
 Son créditos fiscales los que tenga derecho a percibir el Estado que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena. Las autoridades distintas de las fiscales que remitan créditos fiscales a la Secretaría de Hacienda para su cobro, deberán estar debidamente notificados en los términos de las leyes aplicables.
 
-La recaudación administración, determinación y cobranza proveniente de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado quién ejercerá estas facultades por conducto de la Secretaría de Finanzas, a través de sus oficinas exactoras, autoridades fiscales coordinadas o por las Instituciones de Crédito autorizadas para tal efecto.
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
-La recaudación de los ingresos que la ley les determine un fin específico, se hará por las oficinas exactoras de la Secretaría de Finanzas.
+La recaudación, administración, determinación y cobranza proveniente de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado, quien ejercerá estas facultades por conducto de la Secretaría de Hacienda, a través de sus oficinas exactoras, autoridades fiscales coordinadas, o por medio de las Instituciones de Crédito o las entidades mercantiles autorizadas para tal efecto por la misma Secretaría.
+
+> <small>(DEROGADO TERCER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 La Administración Pública Estatal, centralizada y paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, de conformidad con las disposiciones de este Código y las Leyes de Hacienda del Estado y Municipal. Igual obligación tendrán los Municipios del estado cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
 
@@ -3098,3 +3106,29 @@ B.O. 29 DE DICIEMBRE DE 2006.
 Artículo Primero,- El presente decreto entrará en vigor a partir del 1? (sic) de enero de 2007, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Dentro de los treinta días siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal deberá emitir las disposiciones administrativas correspondientes que contemplen y regulen el Registro Único de Personas Acreditadas (RUPA) a que se refiere este Decreto.
+
+B.O. 14 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos a que se refiere el artículo 47 BIS C de la Ley Orgánica del Poder Ejecutivo a fin de autorizar a los fiduciarios a proporcionar los requerimientos de información, deberán realizarse en un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En caso de que se modifique posteriormente la Ley de Deuda Pública del Estado de Sonora con respecto a los fideicomisos de financiamiento establecidos en el artículo 19 Bis de dicha Ley, se deberán respetar los derechos de los terceros que hayan contratado con dichos fideicomisos, en los términos y condiciones pactados.
+
+###### ARTÍCULO QUINTO.
+
+En los fideicomisos, mandatos o contratos análogos constituidos previamente a la entrada en vigor del presente Decreto, el fideicomitente, mandante o la persona facultada para ello instruirá al fiduciario o mandatario para que en un plazo improrrogable de 60 días naturales, contados a partir de la entrada en vigor del mismo, transparenten y rindan cuentas sobre el manejo de los recursos públicos estatales o municipales, según corresponda, que se hubieren aportado a dichos contratos, así como a proporcionar los informes que permitan su vigilancia y fiscalización, en términos del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
