@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2006-07-06"
+last_updated: "2007-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -629,7 +629,7 @@ IX.- Realizar una labor permanente de difusión y orientación hacia la poblaci�
 
 X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
 
-XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realice en el Estado.
+XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -733,7 +733,7 @@ V.- Promover la creación de fuentes de empleo mediante el fomento del desarroll
 
 VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
 
-VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, el turismo y de la minería;
+VII.- Organizar, apoyar y difundir estudios e investigaciones que contribuyan al desarrollo de la productividad y el crecimiento económico de las empresas, de la industria, del turismo y de la minería;
 
 VIII.- Evaluar anualmente la aplicación de los incentivos que se otorguen conforme a la Ley de Fomento Económico y comunicar sus resultados a la Secretaría de Hacienda y al Titular del Poder Ejecutivo;
 
@@ -885,7 +885,7 @@ XI.- Promover programas relativos al desarrollo integral de los pueblos y las co
 
 B. En materia de desarrollo regional:
 
-I.- Intervenir en la planeación formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
+I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
 
 II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
 
@@ -1161,15 +1161,79 @@ El Ejecutivo Estatal, en el decreto que autorice la constitución del fideicomis
 
 Los comités técnicos y los directores generales de los fideicomisos públicos se ajustarán, en cuanto a su integración, facultades y funcionamiento a las disposiciones que en este Título se establecen para los órganos de gobierno y para los directores generales de los organismos descentralizados, en cuanto le sean compatibles a su naturaleza.
 
-El Ejecutivo Estatal podrá constituir fideicomisos públicos que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, en cuyo caso estarán asignados a una dependencia de la administración pública estatal responsable y cuyo patrimonio podrá incluir, además de los recursos estatales, recursos federales o provenientes del sector privado, con el objeto de apoyar entidades y organismos de interés público que se indiquen en los mismos. A estos fideicomisos también le serán aplicables las disposiciones de fiscalización de la administración pública estatal.
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+El Ejecutivo Estatal podrá constituir fideicomisos públicos que no se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, en cuyo caso estarán asignados a una dependencia de la administración pública estatal responsable de que se apliquen a los fines para los cuales fueron constituidos y cuyo patrimonio podrá incluir, además de los recursos estatales, recursos federales o provenientes del sector privado. A estos fideicomisos también le serán aplicables las disposiciones de fiscalización de la administración pública estatal.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Los fideicomisos públicos referidos en el párrafo anterior estarán sujetos en la contratación de bienes y servicios, a las disposiciones normativas que regulan tales actos en la administración pública estatal.
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
 
 ARTICULO 47 BIS.- Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, el comité técnico emitirá las instrucciones necesarias para dar efectivo cumplimiento.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2007)</small>
 
-ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
+ARTICULO 47 BIS A.- En los contratos constituidos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de su objeto no lo permita.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS B.- En los fideicomisos públicos, mandatos o contratos análogos constituidos por dependencias o entidades del Gobierno del Estado, o que administren recursos públicos estatales, corresponderá al fiduciario por instrucciones expresas del fideicomitente, del mandante o de quien celebre el contrato análogo, dar cumplimiento a los requerimientos de información solicitados por las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado o por el Instituto Superior de Auditoría y Fiscalización, en el ámbito de sus respectivas competencias, relativos al manejo y destino de recursos públicos estatales.
+
+Los titulares de las dependencias, entidades u órganos autónomos encargados de la coordinación de los fideicomisos, mandatos o contratos análogos, o con cargo a cuyo presupuesto se hayan otorgado recursos, deberán coadyuvar con las unidades de enlace correspondientes, la Secretaría de la Contraloría General del Estado y el Instituto Superior de Auditoría y Fiscalización, a efecto de que se atiendan debidamente los requerimientos de información que se realicen para el cumplimiento de sus funciones de acceso a la información, control y fiscalización.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS C.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales, deberán realizar los actos necesarios a fin de que se autorice a la fiduciaria en los contratos respectivos a proporcionar la información a que se refiere el primer párrafo del artículo anterior, sin que se requiera autorización por cada solicitud de información, así como de cuidar que las reglas de operación que, en su caso, se emitan y las modificaciones que excepcionalmente se propongan a las mismas, no desvirtúen los propósitos, bases, medidas de control y objetivos para los que fueron constituidos aquéllos.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS D.- Los titulares de las dependencias o entidades del Gobierno del Estado que constituyan fideicomisos públicos, mandatos o contratos análogos, o que administren recursos públicos estatales o, en su caso, los beneficiarios de dichos recursos deberán proporcionar a las unidades de enlace respectivas, la Secretaría de la Contraloría General del Estado y al Instituto Superior de Auditoría y Fiscalización, la información y documentación de que dispongan y que les sea requerida en relación con la aplicación de esos recursos a los fines específicos para los cuales fueron otorgados.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS E.- Los recursos públicos aportados a fideicomisos, mandatos o contratos análogos por dependencias y entidades del Gobierno del Estado, se considerarán públicos para efectos de transparencia y rendición de cuentas, aun cuando se aporten a fideicomisos constituidos por los particulares.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS F.- En todo fideicomiso, mandato o contrato análogo celebrado por las dependencias o entidades del Gobierno del Estado o con recursos públicos estatales, deberá preverse que dichas dependencias o entidades están obligadas dentro de los límites y alcances de la presente ley, a transparentar y rendir cuentas sobre el manejo de dichos recursos y a proporcionar los informes que faciliten su fiscalización.
+
+Asimismo, deberá señalarse que el fideicomitente instruye a la fiduciaria para rendir los informes correspondientes.
+
+En los contratos antes señalados, se deberá incluir la siguiente cláusula:
+
+"El Fiduciario o el mandatario, con la autorización del fideicomitente, mandante o la persona facultada para ello, tienen la obligación de transparentar y rendir cuentas sobre el manejo de los recursos públicos estatales que se hubieren aportado a este fideicomiso o mandato y a proporcionar los informes que permitan su vigilancia y fiscalización, en los términos de la Ley Orgánica del Poder Ejecutivo. Para este fin, se instruye a la fiduciaria para que rinda los informes correspondientes que faciliten la fiscalización referida."
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS G.- La información que generen las dependencias y entidades del Gobierno del Estado en materia de fideicomisos, mandatos o contratos análogos para la integración de los informes trimestrales que se envían al Congreso del Estado deberá incluir: ingresos de recursos públicos otorgados en el período, incluyendo rendimientos financieros y egresos realizados en el período, así como su destino.
+
+La información señalada en el párrafo anterior será de acceso público en los términos de la Ley de Acceso a la lnformación Pública del Estado de Sonora y deberá ser puesta a disposición del público en los términos del artículo 14 del mismo ordenamiento legal, así como la relación de los fideicomisos, mandatos o contratos análogos a los que aporten recursos presupuestarios, el monto de estos, programa al que está vinculado el fideicomiso o contrato, partida presupuestaria con cargo a la cual se aportaron o aportan los recursos y la unidad administrativa responsable de coordinarlos.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS H.- Las modificaciones a los contratos de fideicomisos, mandatos o contratos análogos que involucren recursos públicos estatales, que impliquen una desviación a la autorización correspondiente se realizará a través de un convenio modificatorio en los términos de las disposiciones aplicables, el cual deberá celebrarse, en lo conducente, de conformidad con el procedimiento establecido para la constitución del fideicomiso, mandato o contrato análogo respectivo.
+
+En los fideicomisos públicos considerados entidades, la Secretaría de Hacienda podrá proponer al Ejecutivo del Estado su modificación cuando así convenga al interés público.
+
+Formalizado el convenio modificatorio, el fideicomitente, mandante o su equivalente, por conducto de la dependencia o entidad a la que se encuentre asignado el mismo o con cargo a cuyo presupuesto se hayan otorgado los recursos, deberá remitirlo a la Secretaría de Hacienda con el objeto de actualizar su registro en el sistema.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS I.- La Secretaría de Hacienda o, en su caso, las dependencias y entidades a las que se asignen los fideicomisos o que con cargo a su presupuesto se aportaron los recursos presupuestarios fideicomitidos, con la participación que corresponda al fideicomitente, excepto en aquellos constituidos por la Federación, los Municipios o los particulares, promoverán la extinción de los fideicomisos que no se consideren entidades paraestatales que hayan alcanzado sus fines, o que estos sean imposibles de alcanzar, o que en los dos ejercicios fiscales anteriores no hubieran realizado acción alguna tendiente a alcanzar los fines para los que fueron constituidos, salvo que en este último caso, se justifique su vigencia.
+
+Lo anterior, sin perjuicio de la revisión que, en su caso, realicen los órganos de control y fiscalización correspondientes sobre la aplicación de los recursos públicos estatales aportados.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+ARTICULO 47 BIS J.- En la extinción de los fideicomisos no considerados organismos descentralizados y contratos análogos se observará lo siguiente:
+
+I.- El fideicomitente o su equivalente en el contrato análogo, o, en su caso, el Comité Técnico, instruirá a la fiduciaria para que elabore el convenio de extinción, con la participación de la dependencia a la cual se hubiere asignado el fideicomiso o contrato análogo.
+
+II.- La extinción del fideicomiso o contrato análogo se formalizará mediante la firma del convenio de extinción correspondiente; y
+
+III.- Realizado lo anterior, las dependencias y entidades a las que se asignen los fideicomisos o que con cargo a su presupuesto se aportaron los recursos presupuestarios fideicomitidos, entregará dentro de los 15 días hábiles posteriores a la Secretaría de Hacienda el convenio de extinción, anexando copia del oficio de entero de recursos públicos estatales remanentes, y solicitarán la cancelación correspondiente en el Registro de fideicomisos, mandatos y contratos análogos del Gobierno del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -1278,6 +1342,10 @@ Asimismo, las entidades paraestatales proveerán los recursos materiales, servic
 ###### ARTICULO 60.
 
 Las empresas de participación estatal mayoritaria, en los términos de este Capítulo y sin perjuicio de lo establecido en sus estatutos y en la legislación civil o mercantil aplicable, para su control, vigilancia y evaluación contarán con los instrumentos de control a que se refiere el artículo 57 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+Los fideicomisos públicos a que se refiere el artículo 47 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1628,3 +1696,29 @@ Los ingresos que obtenga el Estado derivados del cobro de las contribuciones por
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+B.O. 14 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos a que se refiere el artículo 47 BIS C de la Ley Orgánica del Poder Ejecutivo a fin de autorizar a los fiduciarios a proporcionar los requerimientos de información, deberán realizarse en un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+En caso de que se modifique posteriormente la Ley de Deuda Pública del Estado de Sonora con respecto a los fideicomisos de financiamiento establecidos en el artículo 19 Bis de dicha Ley, se deberán respetar los derechos de los terceros que hayan contratado con dichos fideicomisos, en los términos y condiciones pactados.
+
+###### ARTÍCULO QUINTO.
+
+En los fideicomisos, mandatos o contratos análogos constituidos previamente a la entrada en vigor del presente Decreto, el fideicomitente, mandante o la persona facultada para ello instruirá al fiduciario o mandatario para que en un plazo improrrogable de 60 días naturales, contados a partir de la entrada en vigor del mismo, transparenten y rindan cuentas sobre el manejo de los recursos públicos estatales o municipales, según corresponda, que se hubieren aportado a dichos contratos, así como a proporcionar los informes que permitan su vigilancia y fiscalización, en términos del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
