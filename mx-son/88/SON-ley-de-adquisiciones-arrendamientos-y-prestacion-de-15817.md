@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "1992-12-28"
+last_updated: "2007-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -151,13 +151,23 @@ II.- Sujetarse a las previsiones contenidas en los programas operativos anuales 
 
 III.- Ajustarse a los objetivos, metas y previsión de recursos establecidos en sus respectivos presupuestos de egresos autorizados.
 
-IV.- Tomar en consideración las estrategias y políticas previstas por el Gobierno Federal y los Gobiernos Municipales en sus respectivos planes y programas, a fin de coadyuvar a la consecución de sus objetivos de desarrollo; y
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2007)</small>
 
-V.- Respetar las demás disposiciones legales y reglamentarias que rijan las operaciones objeto del presente ordenamiento.
+IV.- Tomar en consideración las estrategias y políticas previstas por el Gobierno Federal y los Gobiernos Municipales en sus respectivos planes y programas, a fin de coadyuvar a la consecución de sus objetivos de desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE AGOSTO DE 2007)</small>
+
+V.- Sujetarse a las disposiciones de las autorizaciones correspondientes del Congreso del Estado para afectaciones presupuestales multianuales, que en su caso emita; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 14 DE AGOSTO DE 2007)</small>
+
+VI.- Respetar las demás disposiciones legales y reglamentarias que rijan las operaciones objeto del presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Conforme a lo dispuesto en el artículo anterior y con sujeción al presupuesto de egresos autorizado y a los lineamientos generales que se emitan en materia de gasto, las dependencias y entidades deberán formular sus programas anuales de adquisiciones, arrendamientos y servicios. En la elaboración de dichos programas se considerará, enunciativamente:
+Conforme a lo dispuesto en el artículo anterior y con sujeción al presupuesto de egresos autorizado y a los lineamientos generales que se emitan en materia de gasto, las dependencias y entidades deberán formular sus programas anuales de adquisiciones, arrendamientos y servicios, y los que abarquen más de un ejercicio presupuestal. En la elaboración de dichos programas se considerará, enunciativamente:
 
 I.- Los objetivos y metas de la dependencia o entidad, a corto y mediano plazo.
 
@@ -191,9 +201,11 @@ Las entidades remitirán sus programas y presupuestos de adquisiciones, arrendam
 
 Las dependencias coordinadoras de sector y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría los programas y presupuestos mencionados en la fecha que ésta determine, para verificar la relación que guarden dichos programas con los objetivos y prioridades del Plan y de los programas sectoriales, institucionales, regionales y especiales que, en su caso, les corresponda ejecutar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 15.
 
-(DEROGADO, B.O. 28 DE DICIEMBRE DE 1992)
+En las adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestario, las dependencias o entidades deberá determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -640,3 +652,29 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
+
+B.O. 14 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos a que se refiere el artículo 47 BIS C de la Ley Orgánica del Poder Ejecutivo a fin de autorizar a los fiduciarios a proporcionar los requerimientos de información, deberán realizarse en un plazo no mayor de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En caso de que se modifique posteriormente la Ley de Deuda Pública del Estado de Sonora con respecto a los fideicomisos de financiamiento establecidos en el artículo 19 Bis de dicha Ley, se deberán respetar los derechos de los terceros que hayan contratado con dichos fideicomisos, en los términos y condiciones pactados.
+
+###### ARTÍCULO QUINTO.
+
+En los fideicomisos, mandatos o contratos análogos constituidos previamente a la entrada en vigor del presente Decreto, el fideicomitente, mandante o la persona facultada para ello instruirá al fiduciario o mandatario para que en un plazo improrrogable de 60 días naturales, contados a partir de la entrada en vigor del mismo, transparenten y rindan cuentas sobre el manejo de los recursos públicos estatales o municipales, según corresponda, que se hubieren aportado a dichos contratos, así como a proporcionar los informes que permitan su vigilancia y fiscalización, en términos del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
