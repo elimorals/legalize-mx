@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2006-09-06"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -485,9 +485,11 @@ DE LA ATENCIÓN PROFESIONAL A LA FAMILIA. El Tribunal Superior de Justicia del E
 
 ### CAPÍTULO II. DEL PARENTESCO
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 26.
 
-CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de consanguinidad y afinidad.
+CLASES DE PARENTESCO.- Este Código reconoce únicamente los parentescos de consanguinidad, afinidad y civil.
 
 ###### ARTÍCULO 27.
 
@@ -496,6 +498,12 @@ PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe 
 ###### ARTÍCULO 28.
 
 PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes consanguíneos de la mujer, y entre la mujer y los parientes consanguíneos del varón.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+###### ARTÍCULO 28 Bis.
+
+PARENTESCO CIVIL. El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, salvo el caso de adopción plena.
 
 ###### ARTÍCULO 29.
 
@@ -529,19 +537,29 @@ ARTÍULO (SIC) 35.- ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de
 
 ACREEDOR ALIMENTISTA. Es acreedor alimentista toda aquella persona que no pueda bastarse a sí misma, y es deudor alimentista el obligado a proporcionar alimentos, en los términos establecidos en este capitulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 37.
 
-OBLIGACIÓN ALIMENTARIA ENTRE CÓNYUGES. Los cónyuges deben darse alimentos. La Ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale.
+OBLIGACIÓN ALlMENTARIA ENTRE CONYUGES. Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio.
 
 Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por los artículos 65 y 737 de este Código.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+Los alimentos se otorgarán siempre y cuando el cónyuge acredite estar imposibilitado para obtener alimentos en virtud de su edad, estado físico y mental, incapacidad o cualquiera otro que le impida desarrollar una actividad remunerada, así como acredite tener la necesidad de recibirlos en virtud de no contar con bienes que le permitan obtener ingresos para adquirir los alimentos necesarios.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 38.
 
-OBLIGACIÓN ALIMENTARIA DE LOS ASCENDIENTES. Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+OBLIGACIÓN ALIMENTARlA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 39.
 
-OBLIGACIÓN ALIMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado.
+OBLIGACIÓN ALlMENTARIA DE LOS ASCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
 
 ###### ARTÍCULO 40.
 
@@ -557,9 +575,11 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 OBLIGACIÓN ALIMENTARIA EN ADOPCIÓN. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 43.
 
-ALIMENTOS. Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá, no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar o esté cursando una carrera profesional y no cause baja de la misma, conforme al reglamento escolar, por materias no aprobatorias.
+ALlMENTOS.- Los alimentos comprenden la comida, el vestido, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
 
 En los mismos términos se entienden los alimentos respecto a los acreedores alimentarios a que se refiere el artículo 41 de este Ordenamiento.
 
@@ -657,7 +677,7 @@ NEGATIVA DEL DEUDOR ALIMENTARIO A ENTREGAR LOS ALIMENTOS. Cuando el deudor alime
 
 CONTINUIDAD DE LA OBLIGACIÓN DE DAR ALIMENTOS A CARGO DEL CÓNYUGE SEPARADO. El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 86 de este Código. En tal virtud el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo familiar de su residencia, que obligue al otro a que suministre los gastos por el tiempo que dure la separación, así como también que satisfaga los adeudos contraídos en los términos del artículo anterior.
 
-Si dicha proporción no se pudiera determinar, el Juez según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de los que ha dejado de cubrir desde que se separó.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO IV. DE LA EMANCIPACIÓN
 
@@ -672,6 +692,10 @@ II.- A solicitud del menor, si demuestra su buena conducta y su aptitud para el 
 III.- Por concesión de los padres siempre que el sujeto demuestre su buena conducta y su aptitud para el buen manejo de sus intereses
 
 IV.- Por concesión del tutor, siempre que el sujeto demuestre su buena conducta y su aptitud para el buen manejo de sus intereses.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+Para declararse la emancipación de acuerdo a las fracciones II, III y IV, se requiere autorización judicial competente.
 
 ###### ARTÍCULO 61.
 
@@ -1093,6 +1117,10 @@ ADMINISTRACIÓN DE ALGUNOS BIENES ADQUIRIDOS POR LOS CONSORTES. Los bienes que l
 
 SERVICIOS HONORÍFICOS ENTRE CÓNYUGES. Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+En caso de que uno de los cónyuges se ausentara o estuviera impedido por alguna otra causa que no fuera originado por una enfermedad, el cónyuge que se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a la actividad desarrollada.
+
 ###### ARTÍCULO 123.
 
 PARTICIPACIÓN DEL USUFRUCTO ENTRE CÓNYUGES. El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede, correspondiendo la otra mitad del usufructo a los sujetos a la patria potestad.
@@ -1149,9 +1177,11 @@ DONACIONES COMUNES Y ANTENUPCIALES. Son aplicables a las donaciones antenupciale
 
 CONFIRMACIÓN DE LAS DONACIONES HECHAS ENTRE CONSORTES. Los consortes pueden hacerse donaciones si están casados bajo el régimen de separación de bienes, las que sólo se confirmarán con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, no sean mayores del cincuenta por ciento del patrimonio del donante al momento de hacer la donación, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 134.
 
-REVOCACIÓN DE LAS DONACIONES ENTRE ESPOSOS. Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello que calificará el Juez, o por ingratitud del donatario, si el matrimonio hubiera sido disuelto por divorcio necesario y el donatario fuere declarado culpable en los casos de las fracciones I, II, III, IV, VIII, IX, X, XI, XII, XIII, XIV y XV, del artículo 175 de este ordenamiento.
+REVOCACIÓN DE LAS DONACIONES ENTRE CONYUGES. Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello que calificará el Juez, o por ingratitud del donatario, si el matrimonio hubiera sido disuelto por divorcio necesario y el donatario fuere declarado culpable en los casos de las fracciones I II, III, IV, VIII, IX, X, XI, XII, XIII, XIV, XV, XXIII Y XXIV del artículo 175 de este ordenamiento.
 
 ###### ARTÍCULO 135.
 
@@ -1475,11 +1505,19 @@ XVIII.- La separación del hogar conyugal por una causa que sea bastante para so
 
 XIX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
 
-XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y
+XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y (sic)
 
 XXI.- Cuando uno de los cónyuges cometa un delito intencional en agravio de sus hijos;
 
-XXII.- El mutuo consentimiento, vía divorcio voluntario una vez que se cumplan los requisitos señalados en el artículo 489 del Código Procesal Familiar, o administrativo, según sea el caso.
+XXII.- El mutuo consentimiento, vía divorcio voluntario una vez que se cumplan los requisitos señalados en el artículo 489 del Código Procesal Familiar, o administrativo, según sea el caso;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+XXIII.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse el mismo, con persona distinta al cónyuge y que judicialmente así sea declarado;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+XXIV.- El hecho que el cónyuge varón tenga conocimiento del nacimiento de un hijo suyo procreado antes del matrimonio y nacido dentro de él, con mujer distinta a su cónyuge y que judicialmente así sea declarado o que voluntariamente lo haya reconocido.
 
 ###### ARTÍCULO 176.
 
@@ -1547,9 +1585,11 @@ II.- Los hijos nacidos dentro de los trescientos días siguientes a la disoluci�
 
 Este plazo se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 183.
 
-DESCONOCIMIENTO DE LOS HIJOS POR ADULTERIO DE LA MADRE. El marido no podrá desconocer a los hijos, por el solo hecho de que la madre declare que no son hijos de su esposo.
+DESCONOCIMIENTO DE LOS HIJOS POR ADULTERIO DE LA MADRE. El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre fehacientemente que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o no podía engendrar hijos.
 
 ###### ARTÍCULO 184.
 
@@ -1765,9 +1805,11 @@ LA MATERNIDAD O PATERNIDAD NO SE PRESUMEN POR DAR ALIMENTOS. El hecho de dar ali
 
 PLAZO PARA EJERCITAR LAS PRETENSIONES DE PATERNIDAD O MATERNIDAD. Las pretensiones de investigación de paternidad o maternidad sólo podrán intentarse en vida de los padres. Si estos hubieren fallecido durante la menor edad de los hijos, estos tendrán derecho de intentar la pretensión antes que se cumplan cuatro años de su mayor edad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 217.
 
-DERECHOS DE LOS HIJOS RECONOCIDOS O ADMITIDOS. El hijo reconocido por el padre, o admitido por la madre, o por ambos, así como el que haya acreditado su filiación en los términos de los artículos precedentes, tienen derecho a:
+DERECHOS DE LOS HIJOS RECONOCIDOS O ADMITIDOS. El hijo reconocido por el padre o admitido por la madre o por ambos, mediante acta del registro civil de nacimiento, así como el que haya acreditado su filiación en los términos de los artículos precedentes, tienen derecho:
 
 I.- Llevar el apellido del que lo reconoce o admite, o respecto del cual haya acreditado su filiación;
 
@@ -2367,7 +2409,9 @@ I.- A alimentar al incapacitado;
 
 II.- A destinar de preferencia los recursos del incapacitado a su reintegración física y social;
 
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del plazo que el Juez designe, con intervención del curador y del mismo incapacitado si ha cumplido dieciséis años de edad. El plazo para formar el inventario no podrá ser mayor de seis meses;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+III.- A formar inventario solemne y circunstanciado, anexando avalúo de los bienes que constituyen el patrimonio del incapaz, si dichos bienes producen frutos civiles, industriales o de otra naturaleza análoga, dentro del plazo que el juez designe con intervención del curador y del mismo incapacitada se ha cumplido dieciséis años de edad. El plazo para formar el inventario no podrá ser mayor de seis meses;
 
 IV.- A administrar el caudal de los incapacitados. La propiedad, administración y usufructo de los bienes que el pupilo ha adquirido con su trabajo le corresponden a éste;
 
@@ -2693,9 +2737,11 @@ DISPOSICIONES GENERALES. La adopción es la institución jurídica de protecció
 
 La adopción siempre será benéfica para el adoptado, atendiendo al interés superior del mismo y el respeto de sus derechos fundamentales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 361.
 
-QUIENES PUEDEN ADOPTAR. Los mayores de veintiocho años y menores de cincuenta y ocho años de edad, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga, como mínimo, diecisiete años más que el adoptado y que la adopción sea benéfica para éste, acreditando:
+QUIENES PUEDEN ADOPTAR. - Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
 
 I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, como un hijo propio, según las circunstancias de la persona que trata de adoptar;
 
@@ -2704,6 +2750,10 @@ II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salu
 III.- Su identidad, antecedentes familiares, entorno social y motivos para adoptar, y
 
 IV.- Que acepta expresamente, que el Sistema para el Desarrollo Integral de la Familia en Morelos, a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+Tratándose de incapaces no se requiere edad mínima ni máxima para los adoptantes.
 
 ###### ARTÍCULO 362.
 
@@ -2754,6 +2804,10 @@ III.- El adoptado se integrará a la familia de los adoptantes, adquiriendo; laz
 ###### ARTÍCULO 369.
 
 INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a la adopción, se dará intervención como parte al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría de la Defensa del Menor y la Familia.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+En caso de que el Sistema para el Desarrollo Integral de la Familia no acepte ó consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental ó cualquiera otro motivo análogo.
 
 ###### ARTÍCULO 370.
 
@@ -3077,9 +3131,11 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser mayore
 
 Salvo autorización por escrito del Director General del Registro Civil, queda prohibido a los empleados del Registro Civil servir como testigos, en caso de hacerlo, serán destituidos de su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 423.
 
-ACTAS DEL REGISTRO CIVIL. Las actas del Registro Civil se asentarán en formatos especiales que se denominarán “Formas del Registro Civil” y serán autorizadas por el Director General del Registro Civil; las inscripciones se harán por triplicado. Deberán contener la Clave Única de Registro de Población o en su defecto su transcripción.
+ACTAS DEL REGISTRO CIVIL. Las actas del Registro Civil se asentarán en formatos especiales que se denominarán "Formas del Registro Civil" y serán autorizadas por el Director General del Registro Civil; las inscripciones se harán por triplicado. Deberán contener la Clave Única del Registro de Población.
 
 Las actas del Registro Civil sólo pueden asentarse en los formatos a que se refiere este artículo, la infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
 
@@ -4883,9 +4939,11 @@ CONCURRENCIA DE ASCENDIENTES POR UNA O AMBAS LÍNEAS. Si hubiere ascendientes po
 
 Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 723.
 
-CONCURRENCIA DE ADOPTANTES CON PADRES DEL ADOPTADO. Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales únicamente entre los adoptantes quedando fuera y sin derecho alguno los padres biológicos del adoptado.
+CONCURRENCIA DE ADOPTANTES CON PADRES DEL ADOPTADO. Concurriendo los adoptantes con ascendientes del adoptado, la herencia de este se dividirá por partes iguales, únicamente entre los adoptantes.
 
 ###### ARTÍCULO 724.
 
@@ -5874,3 +5932,15 @@ SECRETARIO DE GOBIERNO
 GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 15 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
