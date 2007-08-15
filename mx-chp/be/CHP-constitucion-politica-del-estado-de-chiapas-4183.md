@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-05-16"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -369,7 +369,7 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO PRIMERO. DE LA INSTITUCION DEL MINISTERIO PUBLICO
+### CAPITULO PRIMERO (SIC). DE LA INSTITUCION DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -777,7 +777,7 @@ XLIII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
 
 XLIV.- Citar a los Presidentes Municipales para que informen sobre el estado que guardan sus respectivos ramos;
 
-XLV.- Sancionar las licencias mayores de quince días que soliciten los integrantes de los Ayuntamientos; y
+XLV.- Sancionar las licencias mayores de quince días que soliciten los integrantes de los Ayuntamientos; y (sic)
 
 XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado;
 
@@ -794,6 +794,10 @@ XLVIII.- Legislar en materia de plebiscito e iniciativa popular;
 XLIX.- Expedir la Ley que regule el Organo de Fiscalización Superior del Congreso (sic) Estado;
 
 L.- (DEROGADA, P.O. 17 DE AGOSTO DE 2003)
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+LI.- Autorizar al Titular del Poder Ejecutivo así como a los Municipios del Estado, la celebración de contratos de prestación de servicios y cualesquiera otros actos jurídicos a largo plazo, que tengan por objeto crear infraestructura o realizar inversiones públicas productivas con la participación del sector privado. Asimismo, aprobar en el presupuesto de egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
@@ -2926,3 +2930,7 @@ Décimo Quinto.- En el plazo de noventa días contados a partir de la publicaci�
 Décimo Sexto.- En tanto entra en vigencia el Código de Organización del Poder Judicial del Estado, se observará en lo que proceda, la Ley Orgánica del Poder Judicial del Estado de Chiapas y su Reglamento. Lo no previsto será resuelto mediante acuerdo por el Tribunal Constitucional o el Consejo de la Magistratura, según sea el caso de conformidad a sus atribuciones.
 
 Décimo Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE AGOSTO DE 2007.
+
+Único.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
