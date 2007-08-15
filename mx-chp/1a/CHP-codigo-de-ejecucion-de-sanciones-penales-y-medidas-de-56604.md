@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2007-05-30"
+last_updated: "2007-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -125,9 +125,11 @@ El régimen de prisión preventiva, tiene por objeto mantener al interno a dispo
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada lugar y las posibilidades presupuestales, existirán instituciones especializadas y establecimientos especiales, así como establecimientos de mínima, media y de máxima seguridad.
 
+> <small>(REFORMADO, P.O 15 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 8°.
 
-Salvo en el caso de delitos de crimen organizado, el sitio en que se desarrolle la prisión preventiva será distinto del que se destine para el cumplimiento de las penas y estarán separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. En ambos casos, de ser posible, se buscará que la separación implique la reclusión en edificios distintos y que tengan una organización, autoridades y personal diferenciados. En ningún caso los menores infractores podrán ser internados en los establecimientos regulados por este Código, salvo que durante el internamiento cometieran un delito ya habiendo adquirido la mayoría de edad penal.
+El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para el cumplimiento de las penas y estarán separados los procesados de los sentenciados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. En ambos casos, de ser posible, se buscará que la separación implique la reclusión en edificios distintos y que tengan una organización, autoridades y personal diferenciados. En ningún caso los menores infractores podrán ser internados en los establecimientos regulados por este Código, salvo que durante el internamiento cometieren un delito ya habiendo adquirido la mayoría de edad penal.
 
 ###### Artículo 9°.
 
@@ -1542,3 +1544,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dos días del mes de mayo del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.-Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE AGOSTO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
