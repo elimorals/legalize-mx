@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "2003-12-31"
+last_updated: "2007-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -69,9 +71,9 @@ Distrito II. Cabecera: Tantoyuca. Municipios: Citlaltépetl, Chalma, Chiconamel,
 
 Distrito III. Cabecera: Chicontepec. Municipios: Benito Juárez, Huayacocotla, Ilamatlán, Ixhuatlán de Madero, Texcatepec, Tlachichilco, Zacualpan, Zontecomatlán y Chicontepec.
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADO POR ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 918, G.O. 15 DE AGOSTO DE 2007)</small>
 
-Distrito IV. Cabecera: Ciudad de Álamo, perteneciente al municipio de Temapache. Municipios: Castillo de Teayo, Tepetzintla, Tihuatlán y Temapache.
+Distrito IV. Cabecera: Ciudad de Álamo, perteneciente al municipio de Álamo Temapache. Municipios: Castillo de Teayo, Tepetzintla, Tihuatlán y Álamo Temapache.
 
 > <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -270,3 +272,7 @@ G.O. 31 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
