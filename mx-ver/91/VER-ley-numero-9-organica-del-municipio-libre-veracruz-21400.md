@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2007-08-08"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -551,7 +553,7 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo;
 
 > <small>(REFORMADA, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -2650,3 +2652,7 @@ G.O. 8 DE AGOSTO DE 2007.
 Primero. Este decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Los procedimientos de revocación o suspensión del mandato de los ediles, así como de suspensión de ayuntamientos que se encuentren substanciándose al iniciar la vigencia de este decreto, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público, o del ayuntamiento inculpados.
+
+G.O. 15 DE AGOSTO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
