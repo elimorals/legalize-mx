@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2007-08-02"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2007.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1587,6 +1587,10 @@ XXIX-L.- Para expedir leyes que establezcan la concurrencia del gobierno federal
 > <small>(ADICIONADA, D.O.F. 5 DE ABRIL DE 2004)</small>
 
 XXIX-M.- Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2007)</small>
+
+XXIX-N.- Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, Estados y Municipios, así como del Distrito Federal, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -5207,6 +5211,12 @@ D.O.F. 2 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Congreso de la Unión al inicio de la vigencia del presente Decreto hará las adecuaciones correspondientes a la legislación federal, conforme a lo estipulado en este Decreto. Los estados y el Distrito Federal deberán adecuar sus leyes conforme a las disposiciones del presente Decreto a más tardar seis meses después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE AGOSTO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
