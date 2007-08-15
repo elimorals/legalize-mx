@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2006-09-06"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -295,9 +295,11 @@ I. Se dará entera fe y crédito a los actos, registros públicos y procedimient
 
 II. La fuerza ejecutoria de las sentencias pronunciadas por los tribunales de los Estados, se determinará de acuerdo con las bases establecidas por el artículo 121 de la Constitución Política de la República.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 3°.
 
-ACTOS CELEBRADOS EN EL EXTRANJERO. En los asuntos a que se refiere este código, se respetarán los tratados y convenciones en vigor, y, a falta de ellos tendrá aplicación lo siguiente:
+ACTOS CELEBRADOS EN EL EXTRANJERO. En los asuntos a que se refiere este código, se respetarán los tratados internacionales en vigor, y, a falta de ellos tendrá aplicación lo siguiente:
 
 I. La jurisdicción y competencia de los tribunales del Estado de Morelos, no quedará excluida por prórroga a favor de una jurisdicción extranjera hecha por convenio de los particulares;
 
@@ -321,9 +323,11 @@ La tramitación de los asuntos judiciales no podrá alterarse o entorpecerse por
 
 ORDEN PÚBLICO DE LA LEY PROCESAL. La observancia de las normas procesales es de orden público. En consecuencia, para la tramitación y resolución de los asuntos ante los tribunales, se estará a lo dispuesto por este código, sin que por acuerdo de los interesados pueda renunciarse al derecho de recusación, ni alterarse o modificarse las demás normas esenciales del procedimiento, pero con las limitaciones que se establecen en este mismo código es lícito a las partes solicitar del tribunal la suspensión del procedimiento o la ampliación de términos cuando exista conformidad entre ellas y no se afecten derechos de terceros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 6°.
 
-SUPLENCIA DE SILENCIO, OSCURIDAD O INSUFICIENCIA. En el caso de silencio, oscuridad o insuficiencia de las disposiciones del presente código, el juez deberá suplirlos mediante la aplicación de los principios generales del derecho procesal.
+SUPLENCIA DE SILENCIO, OSCURIDAD O INSUFICIENCIA. En el caso de silencio, oscuridad o insuficiencia de las disposiciones del presente Código, el Juez deberá suplirlos mediante la aplicación de los principios generales del derecho procesal, y de manera supletoria las disposiciones del Código Procesal Civil para el Estado de Morelos.
 
 El poder de investigación de estos principios, corresponde al juez y su aplicación no queda sujeta a traba legal alguna.
 
@@ -509,9 +513,35 @@ VII. La división, orden y excusión, y
 
 VIII. Las demás a que dieren este carácter las leyes. En los casos de las fracciones I a V y en los demás que se refieren a presupuestos procesales, tendrá aplicación lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 29.
 
-EXCEPCIONES DE PREVIO Y ESPECIAL PRONUNCIAMIENTO. La incompetencia, la litispendencia, la conexidad o la cosa juzgada sólo serán de previo y especial pronunciamiento cuando al hacerlas valer se acompañen los documentos justificativos de las mismas.
+EXCEPCIONES DE PREVIO Y ESPECIAL PRONUNCIAMIENTO. La incompetencia, la litispendencia, la conexidad o la cosa juzgada serán de previo y especial pronunciamiento y se substanciaran:
+
+I.- Incompetencia.- La defensa de incompetencia puede promoverse por inhibitoria o declinatoria.
+
+II.- Litispendencia.- Procede cuando un Juez conoce ya del mismo negocio sobre el cual el procesado es el mismo demandado. El que la oponga debe señalar precisamente el juzgado donde se tramite el primer juicio y se remitirán los autos al Juzgado que primero conoció del negocio.
+
+III.- Conexidad.- La defensa o contra pretensión de conexidad tiene por objeto la remisión de los autos en que se opone, al juzgado que previno en el conocimiento de la causa conexa. La parte que oponga la defensa de conexidad acompañará con su escrito de contestación, copia autorizada de la demanda y de la contestación, que iniciarán el juicio conexo.
+
+Casos de improcedencia de la conexidad. No procede ni se admitirá la defensa de conexidad; cuando:
+
+a) Los litigios estén en diversas instancias
+
+b) Los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferente.
+
+c) El órgano ante quien se sigue el juicio sobre el cual deba hacerse la acumulación sea incompetente por razón de la materia o de la cuantía, para conocer del que se pretende acumular;
+
+d) Ambos juicios tengan trámites incompatibles
+
+e) Se trate de juicio (sic) se ventile en el extranjero.
+
+Si se declara procedente la contraprestación o defensa de conexidad, se mandarán acumular los autos al juicio más antiguo para que, aunque se sigan por cuerda separada, se resuelvan en la misma sentencia.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 29 BIS.- PRUEBA CONTRAPRESTACIONES.- En las defensas de litispendencia, conexidad y cosa juzgada, la inspección de los autos será prueba bastante para su procedencia.
 
 ## TÍTULO TERCERO. DE LAS PARTES
 
@@ -689,31 +719,31 @@ Los representantes del fisco federal y local y cualquier otro funcionario que de
 
 ### CAPÍTULO III. ASISTENCIA TÉCNICA DE LAS PARTES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 47.
 
-ASISTENCIA TÉCNICA DE ABOGADOS. Será optativo para las partes acudir asesoradas por uno o más abogados.
+ASISTENCIA TÉCNICA DE ABOGADOS. Las partes deben comparecer a juicio asistidas o representadas por uno ó más abogados.
 
-En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un abogado o asesor legal, debiéndose girar los oficios al órgano público que corresponda, para el efecto de que se designe al profesionista que se encargará de la asistencia técnica, quien deberá acudir, desde luego, a enterarse del asunto, concediéndole un plazo de tres días para iniciar el ejercicio de su encargo.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
-La incomparecencia del abogado legalmente reconocido en autos, a una diligencia, dará lugar a que se le imponga una sanción equivalente a diez días de salario mínimo general vigente en el Estado y sin perjuicio de la responsabilidad civil que se derive, se citará a una nueva audiencia, misma que se llevará a cabo aún sin la presencia del abogado.
+En caso de que las partes omitieran designar abogado, el tribunal procederá en los términos de los artículos 13 fracción I y 15 del párrafo segundo de la Ley Orgánica de la Defensoría Pública del Estado, a suplir la carencia de defensa letrada, abogado o licenciado en derecho que se encargará de la asistencia técnica, quien deberá acudir al juzgado a enterarse del asunto en un plazo de tres días para iniciar el ejercicio de su encargo.
 
-I. La intervención de los abogados para la asistencia técnica de las partes deberá llevarse a cabo mediante la designación de patronos de los interesados, y
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
-II. Como mandatarios, en los términos del mandato judicial respectivo.
+La intervención de los abogados para la asistencia técnica de las partes deberá llevarse a cabo mediante la designación de patronos de los interesados, como mandatarios en los términos del mandato judicial respectivo.
 
 Las partes podrán revocar en cualquier tiempo la designación de abogados patronos y los poderes que tuvieren otorgados a éstos, y a su vez, los abogados tendrán siempre el derecho de renunciar al patrocinio o mandato, debiendo continuar la defensa hasta la designación de sustitutos, o, notificación a las partes.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
-REQUISITOS QUE DEBEN REUNIR LOS ABOGADOS. Para intervenir como abogados en juicio, asesorando y prestando asistencia técnica a las partes, se requiere ser mexicano por nacimiento o naturalización, poseer título legalmente expedido y debidamente registrado, obtener de la Dirección de Profesiones de la Secretaría de Educación la patente de ejercicio e inscribirla ante el Tribunal Superior de Justicia del Estado.
+REQUISITOS QUE DEBEN REUNIR LOS ABOGADOS. Para intervenir como abogados patronos, deberán tener título legalmente expedido y registrado y haber obtenido de la Dirección General de Profesiones de la Secretaría de Educación la patente de ejercicio respectiva, así como haber registrado título y cédula en la Dirección de Profesiones del Estado y en la sección correspondiente del Tribunal Superior de Justicia del Estado.
 
-Las autoridades judiciales rechazarán la intervención en calidad de patronos respecto de personas que no reúnan los requisitos anteriores. Igualmente, rechazarán los mandatos para asuntos judiciales determinados, cuando no sean otorgados a favor de profesionales con título registrado.
+Las autoridades judiciales rechazarán la intervención en calidad de patronos respecto de personas que no reúnan los requisitos anteriores. Igualmente, rechazarán los mandatos para asuntos judiciales determinados, cuando no sean otorgados a favor de profesionales con titulo registrado. De presentarse alguna de estas circunstancias deberá hacerlo del conocimiento del Ministerio Público investigador de forma inmediata.
 
-La intervención de pasantes de derecho será admitida cuando tengan autorización para práctica profesional, extendida por la referida Dirección General de Profesiones, y, siempre que el límite de tiempo fijado en la autorización respectiva no hubiese expirado, y, se haya también, registrado ante el Tribunal Superior de Justicia del Estado.
-
-Los abogados entran en funciones una vez que presentan ante el Juzgado el escrito que contenga su designación y su aceptación del cargo, debidamente firmado por quienes lo suscriben.
-
-Pudiendo hacerse dicha designación y aceptación, desde la demanda o contestación, incluso verbalmente.
+La intervención de pasantes de derecho será admitida cuando obtenga autorización para la práctica profesional expedida y registrada en la forma señalada para los licenciados en derecho.
 
 ###### ARTÍCULO 49.
 
@@ -895,15 +925,29 @@ COMPETENCIA CONCURRENTE. La competencia concurrente, en los casos de aplicación
 
 COMPETENCIA POR RAZÓN DE TERRITORIO. Es órgano judicial competente por razón de territorio:
 
-I. El Juzgado de la circunscripción territorial en que el actor o el demandado tengan su domicilio, a elección del promovente, salvo que la Ley ordene otra cosa.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el de el demandado.
+I.- El Juzgado de la circunscripción territorial en que el actor o el demandado tengan su domicilio a elección del promovente, salvo que la ley ordena otra cosa. Si el demandado no tuviere domicilio fijo dentro del Estado, o fuere desconocido, será competente para conocer del proceso el órgano donde esté ubicado el domicilio del actor, salvo el derecho del demandado para impugnar la competencia;
+
+II. Para los asuntos referentes al matrimonio o al divorcio, lo será el del domicilio conyugal. Excepto en el caso de divorcio, si se alegare abandono o separación de hecho, será competente el órgano judicial que elija el promovente de entre su domicilio y el de el demandado;
 
 III. En los negocios relativos a la tutela, el Tribunal de la residencia de los tutores, salvo para su designación en el que lo será el del domicilio del menor o del incapaz;
 
 IV. En las controversias sobre anulación o rectificación de actas del estado civil, el Tribunal del lugar del fuero del Oficial del Registro Civil;
 
-V. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el órgano del domicilio que escoja el actor.
+V. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el órgano del domicilio que escoja el actor;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+VI.- En los negocios para suplir el consentimiento de quien ejerza la patria potestad o sobre impedimentos para contraer matrimonio el tribunal del domicilio de los pretendientes;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+VII.- En los conflictos acerca de alimentos, el del domicilio del acreedor alimentario;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+VIII.- En los juicios sucesorios, el Tribunal en cuyo ámbito espacial haya tenido su último domicilio el auto de la herencia, o, en su defecto, el de la ubicación de los bienes raíces que formen el caudal hereditario, si estuvieren en varios lugares, el de aquél en que se encuentre el mayor número de bienes y a falta de domicilio el del lugar del fallecimiento del autor de la sucesión. Si este no estuviere domiciliado en la República será competente el Tribunal que lo fuese de acuerdo con las reglas anteriores en la hipótesis de apertura del juicio sucesorio ante Tribunales Mexicanos.
 
 ###### ARTÍCULO 74.
 
@@ -1143,9 +1187,11 @@ IV. El arresto hasta por tres días en casos graves.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, esta podrá pedir al tribunal que se le oiga en justicia y se citará para la audiencia, dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 110.
 
-HABILITACIÓN DE HORAS HÁBILES. Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los domingos, aquellos que las leyes declaren festivos, los de vacaciones de los tribunales y cuando de hecho no se trabaje.
+HABILITACIÓN DE DIAS Y HORAS HÁBILES.- Las actuaciones judiciales se practicaran en días y horas hábiles. Son días y horas hábiles todos los días del año, menos los sábados y los domingos, aquellos que las leyes declaren festivos y en los que por disposición del Tribunal Superior de Justicia se suspendan las labores.
 
 Se entiende por horas hábiles, las de oficinas autorizadas para cada juzgado o tribunal. Para las actuaciones de los actuarios o las que se practiquen fuera del tribunal, serán horas hábiles las que medien entre las siete y las dieciocho horas. Principiada una diligencia en horas hábiles podrá válidamente concluirse, auque (sic) se actúe en horas inhábiles, sin necesidad de determinación especial del juez.
 
@@ -1265,15 +1311,17 @@ Las multas se duplicarán en caso de reincidencia. Si el infractor fuese jornale
 
 El pago de la multa debe comprobarse ante el juez mediante la presentación de certificado o recibo.
 
-II. El auxilio de la fuerza pública, que deberá prestarse en el momento que sea solicitado;
+II. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
-III. El cateo por orden escrita;
+III. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
 IV. El arresto hasta por quince días, después de haberse aplicado la medida a que se refiere en la fracción I, y
 
 V. La rotura de cerraduras.
 
-En todos los casos en que el Juez impongan (sic) multas, girará oficio a la Secretaría de Hacienda para hacer efectivo el pago.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+En todos los casos en que el Juez imponga multas, girará oficio a la Secretaría de Hacienda para hacer efectivo el pago.
 
 Si la falta de cumplimiento llegare a implicar la comisión de un delito, se consignaran los hechos a la autoridad competente.
 
@@ -1291,9 +1339,13 @@ II. La diligenciación no podrá afectar a terceros extraños a la contienda jud
 
 III. Cuando a una autoridad judicial se le deleguen facultades para citar y examinar a una persona como testigo o, para absolución de posiciones, se entenderán delegadas también las facultades necesarias para concluir la recepción de estas pruebas, así como para usar medidas de apremio para hacer cumplir sus determinaciones;
 
-IV. En la diligenciación de exhortos no se sucintaran ni promoverán cuestiones de competencia; sin perjuicio de que el juez requerido decida si le corresponde cumplimentarlos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-V. El juez requerido podrá resolver las cuestiones que se presenten con motivo de la ejecución de los andamientos del requeriente y en la misma forma tendrán facultades para corregir por medio de queja, los actos de los actuarios en los casos precedentes; pero las resoluciones que dicte, nunca afectaran ni modificaran la resolución de que se trata, y
+IV. En la diligenciación de exhortos no se suscitarán ni promoverán cuestiones de competencia; sin perjuicio de que el juez requerido decida si le corresponde cumplimentarlos;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+V. El juez requerido podrá resolver las cuestiones que se presenten con motivo de la ejecución de los mandamientos del requirente y en la misma forma tendrán facultades para corregir por medio de queja, los actos de los actuarios en los casos precedentes; pero las resoluciones que dicte, nunca afectaran ni modificaran la resolución de que se trata, y
 
 VI. para (sic) la diligenciación de exhortos enviados por tribunales de los Estados, no será necesario la legalización de las firmas de los funcionarios que los expidan.
 
@@ -1381,7 +1433,9 @@ EMPLAZAMIENTO. En las notificaciones de emplazamiento deberán cumplirse las sig
 
 I. El emplazamiento debe hacerse según los casos, a las personas que a continuación se indican:
 
-a) S i se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezca de capacidad procesal, pues en este caso, se hará el emplazamiento a su representante legal. Sólo se autoriza el emplazamiento por medio de apoderado cuando este radique dentro de la jurisdicción del tribunal y la persona emplazada radique fuera de este lugar o se ignore su paradero o si el apoderado vive fuera de la jurisdicción pero dentro de la República y el emplazado en el extranjero no tiene domicilio o se ignore su domicilio. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para que (sic) la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación. A petición del apoderado y según las circunstancias, el juez podrá ampliar el término para contestar el emplazamiento hasta por treinta días más si el apoderado necesitare recabar instrucciones de su mandante;
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+a) Si se tratare de personas físicas directamente a la parte a quien se va a emplazar, a menos de que carezca de capacidad procesal, pues en este caso, se hará el emplazamiento a su representante legal. Solo se autoriza el emplazamiento por medio de apoderado cuando este radique dentro de la jurisdicción del tribunal y la persona emplazada radique fuera de este lugar o se ignore su paradero o si el apoderado vive fuera de la jurisdicción pero dentro de la República y el emplazado en el extranjero no tiene domicilio o se ignore su domicilio. En este caso se requiere que el apoderado tenga poder general o especial bastante para contestar la demanda y para la defensa en juicio del emplazado. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación;
 
 b) Tratándose de personas morales, asociaciones, agrupaciones, instituciones o bien de dependencias o servicios de la administración pública, el emplazamiento se hará por conducto de las personas u órganos que las representen. Si los representantes fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la representación corresponde a una junta o colectividad bastará que se haga a la persona que la ostente;
 
@@ -1429,9 +1483,7 @@ Las notificaciones de que habla este artículo se harán precisamente en el domi
 
 ###### ARTÍCULO 136.
 
-NOTIFICACIÓN A TRAVÉS DEL NOTARIO. A solicitud de las partes el emplazamiento y notificaciones personales podrán hacerse por notario público titulado, quienes los llevarán a cabo cumpliendo en lo conducente lo dispuesto en los dos artículos anteriores y expedirán constancia o certificación pormenorizada que se agregará a los autos como justificante de la diligencia.
-
-Asimismo, previo el acuerdo expreso de las partes que conste en el expediente respectivo, las notificaciones a que se refiere el párrafo anterior, podrán hacerse a través del Boletín Judicial surtiendo plenos efectos.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 137.
 
@@ -1469,7 +1521,9 @@ III. La nulidad de notificación deberá reclamarse por la parte perjudicada en 
 
 IV. Los jueces pueden, en cualquier tiempo, aunque no lo pidan las partes, mandar repetir las notificaciones irregulares o defectuosas, sin lesionar derechos legalmente adquiridos por las partes.
 
-La nulidad se trasmitirá en la vía incidental. En el incidente sólo procederá concederse término probatorio cuando la irregularidad no se derive de datos que aparezcan en el expediente. El incidente sólo tendrá efectos suspensivos cuando se trate de emplazamiento. La sentencia que se dice mantendrá reponer la notificación declarada nula y determinará el alcance de la nulidad respecto de las actuaciones del juicio conforme a las reglas anteriores. El juez puede sancionar con multa a los funcionarios o a las partes que aparezcan como culpables de la irregularidad, y
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+La nulidad se tramitará en la vía incidental. En el incidente sólo procederá concederse término probatorio cuando la irregularidad no se derive de datos que aparezcan en el expediente. El incidente sólo tendrá efectos suspensivos cuando se trate de emplazamiento. La sentencia que se dice mantendrá reponer la notificación declarada nula y determinará el alcance de la nulidad respecto de las actuaciones del juicio conforme a las reglas anteriores. El juez puede sancionar con multa a los funcionarios o a las partes que aparezcan como culpables de la irregularidad, y
 
 V. Sólo por errores u omisiones sustanciales, tipográficas o de impresión que hagan no identificables los juicios, podrá solicitarse la nulidad de las notificaciones hechas por el Boletín Judicial.
 
@@ -1590,6 +1644,10 @@ b) Sólo procederá por falta de promoción de las partes, ya sea en el expedien
 c) La caducidad debe ser declarada a petición de parte, y el auto relativo será apelable en el efecto suspensivo, y,
 
 d) Cada parte reportará los gastos y costas que hubiere erogado.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+III. El sobreseimiento del juicio.- Lo anterior en términos del Artículo 165 de este ordenamiento.
 
 ###### ARTÍCULO 155.
 
@@ -1817,9 +1875,11 @@ PRINCIPIO DE GRATUIDAD. El trámite de cualquier procedimiento del orden familia
 
 PRINCIPIO DE SUPLENCIA DE LA DEFICIENCIA DE LA QUEJA. En los asuntos del orden familiar los Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos, supliendo lo necesario al efecto de proteger la unidad de la familia y el derecho de los menores e incapacitados.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 192.
 
-PRINCIPIO DE NO PRECLUSIÓN. Dentro del procedimiento, el tribunal deberá dictar las medidas necesarias para tener a la vista todos los elementos de convicción suficientes para demostrar la procedencia de la acción y de las excepciones, sin que pueda dejar de admitirlas argumentando la preclusión del periodo probatorio.
+PRINCIPIO DE NO PRECLUSIÓN.- Dentro del procedimiento, el Tribunal deberá dictar las medidas necesarias para tener a la vista todos los elementos de convicción suficientes para demostrar la procedencia de la acción y de las excepciones, salvo el período probatorio que una vez concluido no se admitirá prueba alguna a excepción de pruebas supervenientes.
 
 # LIBRO TERCERO. DE LOS ACTOS PREJUDICIALES
 
@@ -2061,9 +2121,11 @@ Si el proveído cautelar se pidiese como acto prejudicial, la demanda deberá pr
 
 Si la providencia cautelar se solicitase después de iniciado el procedimiento, se substanciará en incidente ante el mismo Juez que conozca del negocio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 234.
 
-RECLAMACIÓN DE LA PROVIDENCIA POR EL DEUDOR O POR UN TERCERO. El deudor podrá reclamar la providencia en cualquier tiempo hasta antes de la sentencia, que se dicte en el juicio correspondiente, para cuyo efecto se le notificará ésta, en caso de no haberse ejecutado con su persona o con su representante legítimo. La reclamación deberá fundarse en que la medida cautelar fue innecesaria o no se practicó de acuerdo con la Ley.
+RECLAMACIÓN DE LA PROVIDENCIA POR EL DEUDOR O POR UN TERCERO. El deudor podrá reclamar la providencia en cualquier tiempo hasta antes de la sentencia, que se dicte en el juicio correspondiente, para cuyo efecto se le notificará ésta, en caso de no haberse ejecutado con su persona o con su representante legítimo. La reclamación deberá fundarse en que la medida cautelar fue innecesaria o no se practicó de acuerdo con la Ley. Su realización se hará sin suspensión del procedimiento excepto para el caso de tratarse de alimentos.
 
 También puede reclamar la providencia un tercero, cuando sus bienes hayan sido objeto del secuestro. Estas reclamaciones se substanciarán en forma incidental.
 
@@ -2455,9 +2517,11 @@ VI. El Juez citará a una audiencia de conciliación y depuración, que deberá 
 
 ### CAPÍTULO III. DE LA REBELDÍA Y LA COMPARECENCIA TARDÍA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 284.
 
-DECLARACIÓN DE REBELDÍA Y SUS EFECTOS. Transcurrido el plazo fijado en el emplazamiento, sin haber sido contestada la demanda y una vez hecha la certificación de preclusión del plazo, se hará la declaración de rebeldía, sin que medie petición de parte y se procederá a desahogar la audiencia de conciliación y depuración.
+DECLARACIÓN DE REBELDÍA Y SUS EFECTOS. Transcurrido el plazo fijado en el emplazamiento, sin haber sido contestada la demanda y una vez hecha la certificación de preclusión del plazo, se hará la declaración de rebeldía, sin que medie petición de parte y se procederá señalar fecha y hora para el desahogo de la audiencia de conciliación y depuración.
 
 Para hacer la declaración de rebeldía, el juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes fueron hechas al demandado en forma legal. Si el demandante no señaló casa en el lugar del juicio y si el demandado quebrantó el arraigo.
 
@@ -2641,9 +2705,11 @@ MEDIOS DE PRUEBA. Son admisibles como medios de prueba aquellos elementos que pu
 
 ### CAPÍTULO II. DEL OFRECIMIENTO Y ADMISIÓN DE PRUEBAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 314.
 
-APERTURA DEL PLAZO PARA OFRECER PRUEBAS. Si los litigantes no llegaren a un convenio en la audiencia de conciliación y depuración, o no asistieren a ésta, el Juez mandará recibir el pleito a prueba. El período para ratificar las pruebas ofrecidas en la demanda y en la contestación, así como para ofrecer otras pruebas es de cinco días, que empezarán a contarse desde el día siguiente al de la notificación personal del auto que ordena abrir el juicio a prueba.
+APERTURA DEL PLAZO PARA OFRECER PRUEBAS. Si los litigantes no llegaren a un convenio en la audiencia de conciliación y depuración, o no asistieren a ésta, el Juez mandará recibir el pleito a prueba. El periodo para ratificar las pruebas ofrecidas en la demanda y en la contestación, así como para ofrecer otras pruebas es de cinco días, que empezarán a contarse desde el día siguiente al que surta efectos la notificación por Boletín Judicial del auto que ordena abrir el juicio a prueba.
 
 El Juez esta obligado a proveer respecto de la admisión o desechamiento de las pruebas ofrecidas por las partes en sus escritos de demanda y contestación, aún cuando éstas no hubieren sido ratificadas dentro del plazo a que este artículo se refiere.
 
@@ -2772,6 +2838,34 @@ El que haya de absolver posiciones o rendir declaración de parte será citado p
 La confesional y la declaración de parte podrán ofrecerse y recibirse en cualquier momento antes de la fecha de la audiencia de recepción y desahogo de pruebas quedando las partes obligadas, cuando así lo exigiere la contraria, a declarar bajo protesta de decir verdad.
 
 En caso de que el absolvente comparezca, el juez abrirá el pliego o el interrogatorio, según corresponda, lo calificará y aprobará las posiciones y preguntas que encuentre ajustadas a lo dispuesto por el presente capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2007)</small>
+
+El que deba absolver posiciones será declarado confeso cuando:
+
+I.- Notificado y apercibido legalmente sin justa causa no comparezca;
+
+II.- Compareciendo se niegue a declarar sobre las posiciones calificadas de legales; y
+
+III.- Al declarar insista en no responder afirmativa o negativamente o trate de contestar con evasivas.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+En el primer caso, el juez abrirá el pliego y calificara las posiciones antes de hacer la declaración.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+La justa causa para no comparecer deberá hacerse del conocimiento del juzgado hasta antes de la hora señalada para absolver posiciones exhibiéndose los justificantes por el emisario legalmente constituido.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+Se tendrá por confeso al absolvente en los hechos que admita judicialmente, que sean propios y en lo que le perjudique jurídicamente.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+La resolución que declare confeso al absolvente o en que deniegue esta declaración, es apelable en el efecto devolutivo, si fuere apelable la sentencia definitiva.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE AGOSTO DE 2007)</small>
 
 Si el articulante omite presentar el pliego o el interrogatorio con anticipación a la fecha de la audiencia y no concurre a ella se tendrá por desierto el medio probatorio.
 
@@ -3475,9 +3569,11 @@ REVISIÓN DE OFICIO DE SENTENCIAS SOBRE NULIDAD DE MATRIMONIO. La sentencia reca
 
 LEGITIMACIÓN EN EL DIVORCIO NECESARIO. El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él. La pretensión de divorcio sólo podrá ejercitarse por los consortes.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 432.
 
-TRAMITACIÓN PERSONALÍSIMA DEL DIVORCIO NECESARIO. Los cónyuges no pueden hacerse representar por apoderados.
+MANDATO ESPECIAL EN EL DIVORCIO NECESARIO. Los cónyuges pueden hacerse representar por apoderados, pero el mandato deberá ser especial y expreso.
 
 ###### ARTÍCULO 433.
 
@@ -3539,13 +3635,19 @@ DE LAS FACULTADES DE SUPLENCIA DEL JUEZ DE LO FAMILIAR. La sentencia, en los jui
 
 PUNTOS RESOLUTIVOS DE LA SENTENCIA DE DIVORCIO SOBRE LA SITUACIÓN DE LOS HIJOS. La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-I. Los hijos quedarán bajo la custodia del cónyuge que no dio causa al divorcio, pero a la muerte de éste el otro progenitor podrá recobrar la custodia de los menores;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-II. Cuando el divorcio se funde en la separación de los cónyuges, los hijos quedarán bajo la custodia de la cónyuge mujer si son menores de siete años, y si fueren mayores de esta edad, permanecerán al lado del mismo cónyuge junto a quien han vivido durante la separación.
+I. En los casos comprendidos en las fracciones XI, XIII, XIV, XVI, XVII y XX del Artículo 175 del Código Familiar, el juez previo los estudios que estime necesarios decretará al cuidado de cual de los progenitores deberán quedar los hijos menores atendiendo al interés primordial de estos. Ambos cónyuges conservarán el ejercicio de la patria potestad. En el caso de la fracción XIV por la comisión del delito que afecte la integridad física y moral de los hijos, hipótesis en la que perdura la patria potestad al cónyuge que dio causa al divorcio, el Juez resolverá a su criterio de acuerdo con las circunstancias la forma y términos del cuidado y custodia de los hijos menores;
 
-III. Si los dos cónyuges hubieren dado causa al divorcio, el juez podrá asignar el cuidado al cónyuge que considere incapaz de causarle daño a los menores, y si no lo hubiere podrá suspenderles a ambos el ejercicio de la custodia, nombrando un tutor;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
-IV. Cuando la causa del divorcio estuviere comprendida en las facciones IV y XXI del artículo 175 del Código Familiar para el estado de Morelos, el cónyuge culpable perderá la patria potestad sobre el menor.
+II. Cuando la causa del divorcio estuviere comprendida en las fracciones II III, IV, V, VIII, X, XII y XV del artículo 175 del Código Familiar, los hijos permanecerán al cuidado del cónyuge que no dio causa al divorcio, pero a la muerte de este, el otro progenitor podrá recuperarla en los casos de la fracción I del citado artículo; si los dos cónyuges hubieren dado causa al divorcio se les suspenderá en el ejercicio de la patria potestad; pero a la muerte de uno de ellos la recuperará el otro, salvo los casos a que se refiere las fracciones III, IV, V y XXI del artículo 175 del Código Familiar en que no podrán volver a ejercerla. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o descendiente que determine el juez, y si no hay quien la ejerza se les nombrará tutor. En los casos de las fracciones VIII y XII del artículo 175 del Código Familiar el cónyuge privado del ejercicio de la patria potestad podrá recuperarla si a criterio del juez conviniera a los menores, decidiendo respecto del cuidado y custodia de los mismos. Si la causa del divorcio estuviere comprendida dentro de las fracciones VII y XV del artículo 175 del Código Familiar el cónyuge que hubiere sido privado de la patria potestad podrá recuperarla si comprueba ante el juez encontrarse rehabilitado previo el pronunciamiento respectivo;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+III. En el caso de la fracción II del Articulo 175 del Código Familiar el menor quedara a lado de la madre;
+
+IV. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 440.
 
@@ -3659,39 +3761,97 @@ La resolución que se dicte no es apelable.
 
 ### CAPÍTULO V. DE LA RECTIFICACIÓN DE ACTAS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ### CAPÍTULO I. GENERALIDADES
 
 ###### ARTÍCULO 456.
 
-LA RECTIFICACIÓN DE UN ACTA DEL ESTADO CIVIL SÓLO PUEDE HACERSE POR SENTENCIA JUDICIAL. La rectificación o modificación de las actas del estado civil no puede hacerse sino mediante sentencia que dicte el Juez de lo Familiar, salvo el reconocimiento y admisión que voluntariamente haga el padre o la madre a su hijo, en los casos autorizados por el Código Familiar.
+LA RECTIFICACIÓN, MODIFICACIÓN, COMPLEMENTACIÓN O AMPLIACIÓN DE UN ACTA DEL ESTADO CIVIL DE LAS PERSONAS PUEDE HACERSE:
 
-###### ARTÍCULO 457.
+I. Por Sentencia Judicial.
 
-CUANDO SE PUEDE PEDIR LA RECTIFICACIÓN O LA MODIFICACIÓN DE ACTAS. Habrá lugar a pedir la rectificación de actas del estado civil por falsedad; por modificación, cuando se alega que el acta registrada no pasó; por enmienda, o cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+II. Por resolución administrativa de la Dirección General del Registro Civil.
 
-###### ARTÍCULO 458.
+III. Por reconocimiento o admisión que voluntariamente haga el padre o la madre a su hijo, en los casos autorizados por el Código Familiar.
 
-ACLARACIÓN, COMPLEMENTACIÓN O AMPLIACIÓN DE LAS ACTAS DEL ESTADO CIVIL. La aclaración, complementación o ampliación de las actas del estado civil, o cuando se tratare de errores mecanográficos, ortográficos o cualesquiera que no varíen el contenido, ni los datos esenciales de los documentos originales, deberá solicitarse ante el Director del Registro Civil del Estado de Morelos, mediante escrito que contenga la mención del error en cuestión, quien examinará la solicitud y si lo considera procedente ordenará las correcciones, enviando copia al Oficial del Registro Civil correspondiente.
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
-###### ARTÍCULO 459.
+ARTÍCULO 456 BIS.- QUIENES PUEDEN SOLICITAR LA RECTIFICACIÓN O MODIFICACIÓN DE ACTAS. Pueden pedir la rectificación o modificación de un acta del estado civil:
 
-QUIÉNES PUEDEN SOLICITAR LA RECTIFICACIÓN O MODIFICACIÓN DE ACTAS. Pueden pedir la rectificación o modificación de una acta del estado civil:
+I. Las personas de cuyo estado civil se trate o sus legítimos representantes;
 
-I. Las personas de cuyo estado se trate o sus legítimos representantes;
-
-II. Las que se mencionan en el acta como relacionadas con el estado civil de la persona, cuya acta se pretende rectificar, pero únicamente por lo que respecta a los datos del propio promovente; y,
+II. Las que se mencionan en el acta como relacionadas con el estado civil de la persona de cuya acta se pretende rectificar, pero únicamente por lo que respecta a los datos de los propios promoventes;
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+###### ARTÍCULO 457.
+
+PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR SENTENCIA JUDICIAL.- las actas del Estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución judicial
+
+I. Cuando los datos a complementar, aclarar, rectificar o modificar alteren sustancialmente los de las personas de cuyo estado civil se trate;
+
+II. Cuando se trate de asuntos en los que se presuma que se altera o afecte la filiación o parentesco con alguna de las personas que se mencionan en el acta relacionadas con el estado civil de la persona cuya acta se pretende rectificar;
+
+III. La modificación parcial o total del nombre de pila o los apellidos de la persona en su acta de nacimiento;
+
+IV. Todos aquellos que por su naturaleza no pueda conocer la Dirección General del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 457 BIS.- TRÁMITE DE LA RECTIFICACIÓN O MODIFICACIÓN POR SENTENCIA JUDICIAL. El juicio sobre rectificación o modificación se tramitará en la vía de controversia familiar en contra del Oficial del Registro Civil ante quien consta el acta de que se trata, excluyendo la audiencia de conciliación, por lo que el juez deberá depurar el procedimiento al momento de fijar la litis, antes de abrir el juicio a prueba. Dará intervención al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+###### ARTÍCULO 458.
+
+SENTENCIA SOBRE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS DEL ESTADO CIVIL. El juicio concluirá con el dictado de la sentencia que será apelable en efecto suspensivo. Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 458 BIS.- PROCEDENCIA DE LA RECTIFICACIÓN O MODIFICACIÓN POR RESOLUCIÓN ADMINISTRATIVA. La rectificación o modificación de las actas del Estado Civil de las personas podrán ser rectificadas o modificadas mediante resolución que dicte la Dirección General del Registro Civil en los siguientes casos:
+
+1. Cuando se trate de errores ortográficos, de escritura, mecanográficos o los generados por los medios electrónicos, de cómputo o de sistematización utilizados o cualesquiera que no alteren sustancialmente los datos esenciales del documento original.
+
+2. Cuando se trate de complementar los datos de las personas relacionadas con el estado civil de la persona cuya acta se pretenda modificar.
+
+3. Cuando se trate de ampliar o reducir el nombre de las personas relacionadas con el estado civil de la persona de cuya acta se trate siempre y cuando no se afecte a terceros.
+
+4. Cuando se trate de modificar mediante una complementación o abreviación de alguno de los nombres de pila de las personas de cuyo acto del estado civil se trate o de aquellas personas en el acta relacionadas.
+
+5. La complementación o abreviación del nombre de pila de los contrayentes en el acta de matrimonio siempre y cuando se solicite por ambos cónyuges y el expediente de vida de aquel cuyo dato pretende modificarse así lo acredite.
+
+6. Cuando se trate de modificar o rectificar los demás datos de los contrayentes o de las personas que se relacionan con el estado civil de las personas cuya acta pretenda modificarse siempre y cuando los documentos que sirvan de base para acreditar el error u omisión no hayan sido modificados con posterioridad a la celebración del acto civil de que se trate y conste tal situación en el expediente de vida de la persona de cuyo dato pretenda modificarse.
+
+7. Cuando se trate de errores de reproducción gráfica que se desprendan notoriamente del expediente de vida de las personas de cuyo acto del estado civil se trate o el de las personas relacionadas en el acta.
+
+8. Cuando por error mecanográfico o de redacción se haya impuesto de manera incorrecta el sexo de la persona de cuyo estado civil se trate, siempre y cuando por la lógica se desprenda que el nombre corresponde a uno u otro sexo, que el expediente de vida acredite el sexo que se pretende y que un médico certifique tal situación.
+
+9. Cuando se trate de modificar el mes de nacimiento de la persona de cuyo estado civil se trate, siempre y cuando se acredite con el expediente de vida y lo permita el orden lógico seguido en los libros de registro.
+
+10. La complementación o aclaración de los datos insertos en un acta de defunción siempre y cuando se acrediten con el expediente de vida de la persona cuya defunción fue asentada y mediante escrito aclaratorio bajo protesta de decir verdad de la persona que proporcionó los datos con los que fueron llenados tanto el certificado de defunción como el acta misma.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 459.
+
+TRÁMITE DE LA RECTIFICACIÓN O MODIFICACIÓN DE LAS ACTAS DEL ESTADO CIVIL DE LAS PERSONAS POR RESOLUCIÓN ADMINISTRATIVA DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL. El procedimiento de rectificación o modificación de las actas del estado civil de las personas se tramitará ante la Dirección Estatal del Registro Civil mediante solicitud por escrito en el que se haga mención del error que se pretende corregir, acompañado de copia certificada del acta en la que conste el error así como del expediente de vida de la persona de cuyo dato se pretende modificar.
+
+Analizará la solicitud, cotejará el acta original y examinará los documentos proporcionados en el expediente de vida.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 460.
 
-TRÁMITE DE LA RECTIFICACIÓN. El juicio sobre rectificación o modificación se tramitará en la vía de controversia familiar contra el Oficial del Registro Civil ante quien consta el acta de que se trata, excluyendo la audiencia de conciliación, por lo que el Juez deberá depurar el procedimiento al momento de fijar la litis, antes de abrir el juicio a prueba.
+RESOLUCIÓN ADMINISTRATIVA SOBRE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS DEL ESTADO CIVIL. La Dirección General del Registro Civil emitirá resolución la cual en caso de ser procedente se mandará tanto a la Oficialía del Registro Civil correspondiente como a al Archivo General ordenándose la anotación marginal correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 461.
 
-SENTENCIA SOBRE RECTIFICACIÓN O MODIFICACIÓN DE ACTAS DEL ESTADO CIVIL. El juicio concluirá con el dictado de la sentencia que será apelable en efecto suspensivo.
-
-Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+DEL EXPEDIENTE DE VIDA.- Para efectos del presente capítulo el expediente de vida se refiere a todos aquellos documentos de las personas que han ido integrando a lo largo de su vida tanto de su vida pública como privada desde el nacer hasta el morir, que demuestran la realidad socio-jurídica de las mismas.
 
 # LIBRO QUINTO. DE LOS PROCEDIMIENTOS NO CONTENCIOSOS
 
@@ -3727,7 +3887,7 @@ Cuando fuere necesaria la audiencia de una persona, se la citará conforme a Der
 
 ###### ARTÍCULO 465.
 
-INTERVENCIÓN DEL MINISTERIO PÚBLICO. En todos los procedimientos no contenciosos tendrá participación el Ministerio Público.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2007)
 
 ### CAPÍTULO ÚNICO. TRAMITACIÓN DE INCIDENTES
 
@@ -3871,7 +4031,9 @@ La resolución que se pronuncie no es apelable y quedará sin efecto cuando los 
 
 AUTORIZACIÓN PARA QUE UN MENOR SALGA DEL PAÍS CUANDO FALTARE EL CONSENTIMIENTO DE UNO DE LOS PROGENITORES. La solicitud de autorización para que un menor salga del país cuando faltare el consentimiento de uno de los progenitores se tramitará en un procedimiento no contencioso ante el Juez de lo Familiar, quien decidirá tomando en cuenta el tiempo que el menor necesite permanecer fuera del país, lugar del arribo, personas con las que viajará y con las que permanecerá durante su estancia en el extranjero así como el objetivo del viaje.
 
-La autorización a que se refiere este artículo en ningún caso podrá exceder de seis meses.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+La autorización a que se refiere este artículo en ningún caso podrá exceder de un año.
 
 ## TÍTULO QUINTO. DIVORCIO POR MUTUO CONSENTIMIENTO
 
@@ -3885,9 +4047,11 @@ El consorte menor de edad necesita de tutor especial para solicitar el divorcio 
 
 El divorcio voluntario no puede pedirse sino pasado un año de la celebración del matrimonio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 489.
 
-DOCUMENTOS QUE DEBEN PRESENTAR LOS CONSORTES QUE PRETENDEN DIVORCIARSE. Cuando ambos consortes convengan en divorciarse, deberán ocurrir al Tribunal competente a manifestar su voluntad, presentando el convenio que exige este artículo; documento expedido por el Departamento de Orientación Familiar del Tribunal o del Sistema para el Desarrollo Integral de la Familia en que conste que los cónyuges han recibido asesoría legal y psicológica sobre la trascendencia de la unidad familiar y los efectos del divorcio, en especial sobre la importancia del cumplimiento de las obligaciones respecto de los hijos, así como copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores e incapacitados.
+DOCUMENTOS QUE DEBEN PRESENTAR LOS CONSORTES QUE PRETENDEN DIVORCIARSE. Cuando ambos consortes convengan en divorciarse, deberán ocurrir al Tribunal competente a manifestar su voluntad, presentando el convenio que exige este artículo; así como copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores e incapacitados.
 
 El convenio referido contendrá los siguientes requisitos:
 
@@ -3901,7 +4065,9 @@ IV. La cantidad que a título de alimentos un cónyuge debe pagar al otro mientr
 
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la propuesta para dividirla y liquidarla, así como la designación de liquidadores, a este efecto se acompañará un inventario y avalúo de todos los bienes de la sociedad. La administración de los bienes en el curso del juicio lo resolverá el Juez desde luego; el divorcio y la liquidación de la sociedad conyugal se pronunciarán al proveerse la sentencia de fondo;
 
-VI. Informe del bien que servirá como garantía de alimentos, cuyo valor no podrá ser inferior al equivalente de seis meses de pensión alimenticia. En caso de otorgarse la garantía en cantidad líquida, deberá expresarse además el lugar en que queda a disposición del acreedor; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+VI. Informe del bien que servirá como garantía de alimentos, cuyo valor no podrá ser inferior al equivalente de tres meses de pensión alimenticia. En caso de otorgarse la garantía en cantidad líquida, deberá expresarse además el lugar en que queda a disposición del acreedor; y
 
 VII. La manera de efectuar el régimen de visitas a los descendientes, si hubiere lugar a ello, estableciéndose los días y horarios en que deba ejercerse este derecho.
 
@@ -3941,7 +4107,9 @@ CADUCIDAD DE LA INSTANCIA EN DIVORCIO VOLUNTARIO. El Tribunal declarará sin efe
 
 I. Si los cónyuges dejaren pasar más (sic) tres meses sin continuar el procedimiento;
 
-II. Si no asistieren justificadamente uno o ambos cónyuges a la junta de avenencia; y,
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+II. Si no asistieren injustificadamente uno o ambos cónyuges a la junta de avenencia; y,
 
 III. Cuando los cónyuges se reconcilien como se prevé en el artículo siguiente.
 
@@ -3967,19 +4135,21 @@ COPIA DE LA SENTENCIA EJECUTORIADA DE DIVORCIO AL REGISTRO CIVIL. Ejecutoriada l
 
 ## TÍTULO SEXTO. DIVORCIO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 503.
 
-EL DIVORCIO ADMINISTRATIVO. El divorcio administrativo procede a petición expresa de los cónyuges casados bajo el régimen de separación de bienes o que habiendo tenido algún tipo de sociedad conyugal, ésta se haya liquidado de común acuerdo. Debe tramitarse ante el Oficial del Registro Civil del lugar donde tuvieron su último domicilio o donde contrajeron matrimonio; comprobando con copias certificadas lo siguiente:
+EL DIVORCIO ADMINISTRATIVO.- El divorcio administrativo procede a petición expresa de los cónyuges casados dentro del Estado de Morelos o tengan su domicilio habitual en él, bajo el régimen de separación de bienes o que habiendo tenido algún tipo de sociedad conyugal, ésta se haya liquidado de común acuerdo. Debe tramitarse ante la Dirección General del Registro Civil del Estado de Morelos, comprobando con copias certificadas lo siguiente:
 
-1.- Ser mayores de edad, no tener hijos en común.
+I. Ser mayores de edad,
 
-2.- Tener hijos mayores de veinticinco años que ya no tengan derecho a recibir alimentos.
+II. No tener hijos en común o teniéndolos sean mayores de 25 años que ya no tengan derecho a recibir alimentos, o siendo menores de 25 no tengan derecho a recibirlos.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantarán un acta en que harán constar la solicitud del divorcio y citará a los cónyuges para que se presenten a ratificarla dentro de los quince días siguientes.
+La Dirección General del Registro Civil, previa identificación de los consortes levantará un acta en la que se hará constar la solicitud de divorcio y citará a los cónyuges a que se presenten a ratificarla dentro de los quince días siguientes.
 
-Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio.
+Si los consortes ratifican, en ese acto se recibirán dos testigos debidamente identificados a quienes les consten los datos manifestados en la solicitud de divorcio y la Dirección General del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la de matrimonio y en la de nacimiento.
 
-El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad o que siendo mayores dependen económicamente de los divorciantes, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal, sufriendo ambos las penas que establezca el código de la materia.
+El divorcio así obtenido, no surtirá efectos legales si se comprueba que los cónyuges tienen hijos menores de veinticinco años de edad con los que tengan obligación alimentaria o que siendo mayores de esa edad dependen económicamente de los divorciantes, lo mismo sucederá si se acredita que no han liquidado la sociedad conyugal sufriendo ambos las penas que establezca el código de la materia.
 
 ## TÍTULO SÉPTIMO. PETICIÓN DE SEPARACIÓN DE CÓNYUGES
 
@@ -4507,7 +4677,7 @@ APERTURA DE LA SEGUNDA INSTANCIA. La segunda instancia no puede abrirse sin que 
 
 ###### ARTÍCULO 571.
 
-REVISIÓN DE SENTENCIA OFICIOSA. La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del Registro Civil y sobre nulidad de matrimonio, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
+(DEROGADO, P.O. 15 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 572.
 
@@ -4719,7 +4889,7 @@ III. Contra la denegación de la apelación;
 
 IV. Por exceso, o defecto en la ejecución de la sentencia dictada en segunda instancia;
 
-V. Contra el auto que deseche u omita admitir pruebas, y
+V. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
 VI. En los demás casos fijados por la ley.
 
@@ -6482,3 +6652,15 @@ SECRETARIO DE GOBIERNO
 GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estado de Morelos, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
