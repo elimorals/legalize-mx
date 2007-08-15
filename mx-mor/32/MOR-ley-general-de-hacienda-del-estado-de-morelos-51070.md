@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2007-03-21"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -1089,7 +1089,7 @@ III. Por la sustitución de deudor o de acreedor, en cualquier caso: ocho días 
 
 IV. Por contratos de hipoteca celebrados por Instituciones de Crédito, Seguros, o de Fianzas, sobre el importe de las operaciones: 5.0 al millar;
 
-V; Por la inscripción de la cancelación de los contratos de hipoteca a que alude la fracción que precede: 5.0 al millar
+V. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
 
 VI. Por el Registro de Cédulas Hipotecarias: quince días de salario mínimo general vigente en el Estado;
 
@@ -1383,7 +1383,7 @@ Los derechos por los servicios que preste la Dirección General del Registro Civ
 
 Tarifa en días de salario
 
-mínimo general vigente en
+Mínimo general vigente en
 
 el Estado
 
@@ -1455,19 +1455,23 @@ a) Ordinarias 1.5
 
 b) Urgentes 3.0
 
-XI. Distribución de formatos a oficialías
+XI. Distribución de formatos a oficialías municipales del Registro Civil:
 
-municipales del Registro Civil:
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
-a) De registro 0.57
+a) De registro 0.057
 
-b) Para certificaciones 0.57
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+
+b) Para certificación 0.080
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
 
 XII. Anotación marginal por procedimiento
 
-administrativo de la Dirección Estatal del 2
+de corrección administrativa de la Dirección Estatal del 2
 
-Registro Civil a las Oficialías Municipales:
+Registro Civil:
 
 XIII. Por concepto de certificación de
 
@@ -1476,6 +1480,10 @@ documentos y firmas se causarán los
 derechos establecidos en el Capítulo Décimo
 
 Séptimo del presente Título.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
+
+XIV. Trámite y resolución de Divorcio Administrativo. 50
 
 ### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE EDUCACIÓN POR INSTITUCIONES PRIVADAS
 
@@ -2383,7 +2391,11 @@ I. En los contratos de arrendamiento la renta mensual se convertirá a salarios 
 
 Tarifa en días de
 
-salario mínimo general vigente en el Estado
+salario mínimo
+
+general vigente
+
+en el Estado
 
 a) Hasta 10 días de salario 0.7 5
 
@@ -2445,9 +2457,11 @@ Cuando los trabajos anteriores deban realizarse en lugares en donde no haya Conv
 
 IV. Otros servicios:
 
-Tarifa en días de salario
+Tarifa en días de
 
-mínimo general vigente
+salario mínimo
+
+general vigente
 
 en el Estado
 
@@ -3122,3 +3136,9 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente decreto.
+
+P.O. 15 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
