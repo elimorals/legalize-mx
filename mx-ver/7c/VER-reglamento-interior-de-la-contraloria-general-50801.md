@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-contraloria-general-50801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2007-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -660,3 +662,9 @@ GOBERNADOR DEL ESTADO
 LIC. REYNALDO G. ESCOBAR PÉREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 15 DE AGOSTO DE 2007.
+
+Quinto. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
