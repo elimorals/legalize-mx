@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-catastro-del-estado-de-veracruz-de-5187
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-25"
-last_updated: "2006-09-25"
+last_updated: "2007-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Reglamento Publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 25 de septiembre de 2006.
 
@@ -533,7 +535,9 @@ II. Los dígitos correspondientes a municipio, se asignarán de acuerdo con la n
 
 161 Tehuipango
 
-162 Temapache
+> <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2007)</small>
+
+162 Álamo Temapache
 
 163 Tempoal
 
@@ -1376,3 +1380,9 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE AGOSTO DE 2007.
+
+Quinto. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
