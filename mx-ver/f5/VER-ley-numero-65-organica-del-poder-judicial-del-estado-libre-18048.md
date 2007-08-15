@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2007-07-02"
+last_updated: "2007-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2007.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -2432,3 +2434,7 @@ Primero. El presente Decreto surtirá efectos al siguiente día de su publicaci�
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
 
 Tercero. Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente decreto serán remitidos a los Juzgados de adolescentes que corresponda.
+
+G.O. 15 DE AGOSTO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
