@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-508
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2007-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -1469,7 +1469,9 @@ b). Chicontepec (Cabecera Distrital), Benito Juárez, Ixhuatlán de Madero, Zont
 
 c). Tantoyuca (Cabecera Distrital), Chalma, Chiconamel, Platón Sánchez, Tempoal, Chontla e Ixcatepec.
 
-d). Naranjos - Amatlán de los Reyes (Cabecera Distrital), Ozuluama, Citlaltépetl, Chinampa de Gorostiza, Tamalín, Tantima, Tancoco, Tepetzintla, Tuxpan y Temapache.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL DECRETO NUMERO 918, G.O. 15 DE AGOSTO DE 2007)</small>
+
+d). Naranjos - Amatlán de los Reyes (Cabecera Distrital), Ozuluama, Citlaltépetl, Chinampa de Gorostiza, Tamalín, Tantima, Tancoco, Tepetzintla, Tuxpan y Álamo Temapache.
 
 e). Papantla (Cabecera Distrital), Coahuitlán (Progreso de Zaragoza), Coyutla, Coxquihui, Espinal, Tecolutla, Mecatlán, Chumatlán, Filomeno Mata, Zozocolco de Hidalgo, Poza Rica de Hidalgo, Coatzintla y Cazones de Herrera.
 
@@ -4480,3 +4482,17 @@ GOBERNADOR DEL ESTADO
 LIC. REYNALDO G. ESCOBAR PÉREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE AGOSTO DE 2007.
+
+Primero. Se modifica el nombre del municipio de Temapache por el de Álamo de Temapache, en razón de satisfacerse los requisitos previstos en los artículo (sic) 33 fracción XI inciso g) de la Constitución Política local y 3° de la Ley Orgánica del Municipio Libre.
+
+Segundo. Las disposiciones legales que se refieran a este municipio únicamente como Temapache se entenderán referidas al mismo con su nuevo nombre de Álamo Temapache.
+
+Tercero. Comuníquese la presente resolución al H. Ayuntamiento de Temapache, Veracruz de Ignacio de la Llave, para los efectos legales a que haya lugar.
+
+Cuarto. Notifíquese al Instituto Nacional de Estadística Geografía e Informática, así como a los Poderes Ejecutivo y Judicial del estado para los efectos legales procedentes.
+
+Quinto. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
