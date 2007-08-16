@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2006-06-29"
+last_updated: "2007-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -63,39 +63,51 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 127 de la Constitución Política del Estado de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias de la Administración Pública Estatal y los Ayuntamientos.
+La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 127 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos.
 
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley se entenderá por:
 
-I.- SECRETARÍA: La Secretaria de Finanzas y de Administración
+I.- SECRETARÍA: La Secretaria de Finanzas y de Administración.
 
-II.- CONTRALORIA: La Secretaría de la Contraloría del Estado.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-III.- DEPENDENCIAS: Las señaladas en las fracciones del artículo 23 de la Ley Orgánica de la Administración Pública del Estado de Durango.
+II.- CONTRALORÍA: La Secretaría de la Contraloría y Modernización Administrativa del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+III.- DEPENDENCIAS: Las señaladas en las fracciones del artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Durango.
 
 IV.- ENTIDADES: Los organismos públicos descentralizados Estatales o Municipales, las empresas de participación Estatal o Municipal mayoritaría (sic) y los fideicomisos en donde el fideicomitente sea el Gobierno del Estado.
 
-V.- PROVEEDOR: Toda persona debidamente inscrita en el padrón que celebre contratos de adquisiciones, arrendamientos o servicios.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-VI.- LOS ORGANISMOS ADSCRITOS: Los mencionados en la Ley Orgánica de la Administración Pública del Estado de Durango.
+V.- PROVEEDOR: Toda persona física o moral debidamente inscrita en el padrón de proveedores del Gobierno del Estado de Durango, que tenga capacidad legal y financiera para celebrar contratos de adquisiciones, arrendamientos o servicios.
 
-VII.- AYUNTAMIENTO: Los Ayuntamientos del Estado de Durango.
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-VIII.- SERVICIOS: Serán todos aquéllos que se contraten, relacionados con bienes muebles, respecto a instalación, reparación, conservación y mantenimiento.
+VI.- LICITANTE: La persona física o moral que participe en cualquier procedimiento de Licitación Pública o bien de Invitación a cuando menos tres proveedores.
 
-IX.- ACCIONES DE OPERACIÓN: Las adquisiciones, arrendamientos y servicios que se efectúen para el desempeño particular de cada dependencia en la realización de sus funciones específicas.
+VII.- LOS ORGANISMOS ADSCRITOS: Los mencionados en la Ley Orgánica de la Administración Pública del Estado de Durango.
 
-X.- COMITÉ: Comité de Adquisiciones.
+VIII.- AYUNTAMIENTO: Los Ayuntamientos del Estado de Durango.
 
-XI.- UNIDAD: Aquella área de la administración pública del Estado o Municipio que tenga a su cargo las acciones de administración relativas a adquisiciones
+IX.- SERVICIOS: Serán todos aquéllos que se contraten, relacionados con bienes muebles, respecto a instalación, reparación, conservación y mantenimiento.
 
-XII.- COMPRANET: Sistema electrónico de Compras Gubernamentales
+X.- ACCIONES DE OPERACIÓN: Las adquisiciones, arrendamientos y servicios que se efectúen para el desempeño particular de cada dependencia en la realización de sus funciones específicas.
 
-XIII.- INTERNET: Red de Comunicaciones Internacionales.
+XI.- COMITÉ: Comité de Adquisiciones.
+
+XII.- UNIDAD: Aquella área de la administración pública del Estado o Municipio que tenga a su cargo las acciones de administración relativas a adquisiciones.
+
+XIII.- COMPRANET: Sistema electrónico de Compras Gubernamentales.
+
+XIV.- INTERNET: Red de Comunicaciones Internacionales.
 
 ###### ARTÍCULO 3.
 
@@ -131,13 +143,17 @@ Las funciones que en esta Ley se asignen a la Unidad, la Secretaría, las Depend
 
 Las atribuciones que esta Ley le confiere a la Contraloría son:
 
-I.- Actuar como órgano de control dentro de los procedimientos de licitación, adjudicación y contratación de la materia a que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+I.- Actuar como órgano preventivo de control y vigilancia dentro de los procedimientos de licitación, adjudicación y contratación de la materia a que se refiere esta Ley.
 
 II.- Dictar las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de este ordenamiento legal.
 
 III.- Será responsable de la observación de criterios que promuevan la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
 
-IV.- Resolverá las inconformidades, revocaciones y revisiones interpuestas, con motivo de la aplicación de la presente Ley.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+IV.- Resolverá las inconformidades, así como los recursos de revocación y revisión interpuestos, con motivo de la aplicación de la presente Ley.
 
 V.- La Contraloría estará facultada para interpretar esta normatividad para efectos administrativos.
 
@@ -185,9 +201,11 @@ Las controversias que se susciten con motivo de la aplicación de esta Ley se so
 
 Las controversias que se susciten con motivo de los contratos celebrados con base en esta Ley, se someterán a la jurisdicción de los tribunales estatales o al arbitraje, según se estipule en dichos contratos.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 11.
 
-En lo no previsto por la presente Ley serán aplicables supletoriamente los Códigos Civil y de Procedimientos Civiles para el Estado de Durango.
+En lo no previsto por la presente Ley será aplicable supletoriamente el Código de Justicia Administrativa del Estado de Durango.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -209,9 +227,11 @@ Las Dependencias, Entidades y Ayuntamientos formularán su programa anual de adq
 
 Los organismos anteriormente señalados se abstendrán de realizar y modificar contratos al respecto, cuando no hubiese saldo disponible en la correspondiente partida presupuestal.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 14.
 
-Las unidades compradoras de las dependencias y entidades de la Administración Pública Estatal y Municipal deberán estar integradas al sistema electrónico de compras gubernamentales COMPRANET, y a más tardar el 31 de Enero de cada año darán a conocer a los interesados sus programas anuales a que se refiere el artículo anterior, para que los proveedores puedan conocer esa información, salvo que exista causa justificada para no hacerlo en el término establecido. Dichos datos serán de carácter informativo sin compromiso de contratación y podrán ser modificados, suspendidos o cancelados, sin responsabilidad alguna para la dependencia o entidad de que se trate.
+Las unidades compradoras de las dependencias y entidades de la Administración Pública Estatal y Municipal deberán estar integradas al sistema electrónico de compras gubernamentales COMPRANET, y a más tardar el 31 de Enero de cada año darán a conocer a los interesados sus programas anuales a que se refiere el artículo anterior, para que los proveedores puedan conocer esa información, salvo que exista causa justificada para no hacerlo en el término establecido. Dichos datos serán de carácter informativo sin compromiso de contratación y podrán ser modificados, suspendidos o cancelados, sin responsabilidad alguna para la dependencia o entidad de que se trate con excepción de aquella información que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública del Estado de Durango.
 
 En aquellos casos en que por razones técnicas no se pudiera establecer o instalar el sistema electrónico de compras gubernamentales COMPRANET, deberán realizar una publicación de sus programas anuales, en alguno de los periódicos de mayor circulación, en la zona de que se trate y en la Capital del Estado.
 
@@ -227,9 +247,11 @@ Las adquisiciones, arrendamientos y servicios de todo tipo de bienes, prestació
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
-La Secretaría, las Dependencias, la Unidad, las Entidades y los Ayuntamientos, bajo su responsabilidad podrán arrendar, contratar adquisiciones y servicios:
+la Secretaría, las Dependencias, la Unidad, las Entidades y los Ayuntamientos, bajo su responsabilidad podrán arrendar, contratar adquisiciones y servicios:
 
 I.- Por licitación:
 
@@ -240,6 +262,8 @@ b).- Por invitación restringida cuando menos a tres proveedores.
 II.- La adjudicación directa.
 
 Los Ayuntamientos, establecerán los lineamientos para las licitaciones, con intervención de la Contraloría, tomando como base sus presupuestos de Egresos.
+
+La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres proveedores, con la entrega de la primera invitación; ambos procedimientos concluyen con la firma del contrato.
 
 ###### ARTÍCULO 18.
 
@@ -267,9 +291,11 @@ Los Proveedores quedarán obligados ante la Secretaría, la Unidad, las Dependen
 
 La Secretaría, la Unidad, las Dependencias, las Entidades, y los Ayuntamientos, exigirán la restitución de lo pagado o la reposición de los bienes o servicios, cuando éstos no sean de la calidad, especificaciones o características pactadas, sin perjuicio de la imposición de las sanciones y procedimientos legales que procedan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 23.
 
-Si en un período de 15 días naturales, contados a partir de la fecha en que se detecten irregularidades, en los bienes o servicios, por parte de la convocante y/o la Contraloría, la Secretaría, la Unidad, las Dependencias, Entidades y los Ayuntamientos según corresponda, no obtienen la respectiva restitución, a pesar de la notificación de éstas, podrán rescindir el contrato correspondiente al Proveedor y adjudicar, a la segunda propuesta solvente más baja del concurso del cual se derivó la contratación, sin perjuicio de la sanción correspondiente.
+Si en un período de 15 días naturales, contados a partir de la fecha en que se detecten irregularidades, en los bienes o servicios, por parte de la convocante y/o la Contraloría, la Secretaría, la Unidad, las Dependencias, Entidades y los Ayuntamientos según corresponda, no obtienen la respectiva restitución, a pesar de la notificación de éstas, podrán rescindir el contrato correspondiente de conformidad con lo establecido en el artículo 49 bis de esta ley, al Proveedor y adjudicar, a la segunda propuesta solvente más baja del concurso del cual se derivó la contratación, sin perjuicio de la sanción correspondiente.
 
 En caso de que los proveedores incumplan con las obligaciones derivadas de los contratos y pedidos respectivos, la adquiriente o la Contraloría, en su caso, procederá a declarar la rescisión de los actos jurídicos respectivos, misma que se comunicará por escrito al proveedor para que éste en un término de 10 días hábiles contados a partir del día siguiente al que se lleve a cabo la notificación, manifieste lo que a su derecho convenga, procediendo la dependencia, entidad o ayuntamiento a resolver lo procedente dentro de los diez días naturales siguientes al que hubiere recibido el escrito de contestación. Si las causas de rescisión fueran imputables al proveedor se procederá a hacer efectiva la garantía y se abstendrán de cubrir los importes restantes.
 
@@ -285,9 +311,11 @@ Los actos, convenios, pedidos, contratos y negocios jurídicos relativos a los r
 
 La Secretaría, la Unidad, las Dependencias, Entidades y Ayuntamientos, así como la Contraloría, en su caso, harán valer la nulidad y procederán, a exigir la restitución de lo pagado y la devolución de los bienes adquiridos o arrendados. Para tal efecto se estará a lo dispuesto por los artículos 22 y 23 de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 25.
 
-Deberá darse siempre a los proveedores de servicios locales, nacionales o extranjeros, un trato en igualdad de circunstancias, contratándose con el proveedor que garantice el objeto a que se refiere el artículo 16 de esta Ley.
+Deberá darse siempre a los proveedores de servicios locales, nacionales o extranjeros un trato en igualdad de circunstancias. En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las dependencias y entidades y ayuntamientos proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante, contratándose con el proveedor que garantice el objeto a que se refiere el artículo 16 de esta Ley.
 
 ###### ARTÍCULO 26.
 
@@ -313,23 +341,31 @@ VI.- En caso de arrendamiento, la indicación de si éste es con opción a compr
 
 VII.- Los criterios generales conforme a los cuales se adjudicará el contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 28.
 
 Las bases que emitan las convocantes para las licitaciones públicas se pondrán a disposición de los interesados vía internet a través del sistema electrónico de compras gubernamentales o en las oficinas de las convocantes, a partir de la fecha de publicación de la convocatoria y hasta siete días naturales previos al acto de presentación y apertura de proposiciones y contendrán, cuando menos, lo siguiente:
 
 I.- Nombre o denominación de la convocante;
 
-II.- Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+II.- Forma en que se acreditará la existencia y personalidad jurídica del licitante; fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen;
 
 III.- Fecha, hora y lugar para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
 
-IV.- Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+IV.- Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecten la solvencia de la propuesta;
 
 V.- El idioma en que deberán presentarse las proposiciones;
 
 VI.- La indicación de que ninguna de las condiciones contenidas en las bases de licitación, así como de las proposiciones que sean presentadas por los proveedores podrán ser negociadas;
 
-VII.- Criterios claros para la adjudicación de los contratos;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE AGOSTO DE 2007)</small>
+
+VII.- Criterios claros y detallados para la evaluación de las propuestas y adjudicación de los contratos;
 
 VIII.- Descripción completa de los bienes, arrendamientos o servicios; información específica sobre el mantenimiento; asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas; período de garantía y, en su caso, otras opciones adicionales de cotización;
 
@@ -341,15 +377,25 @@ XI.- La indicación de si se entregará anticipo, en cuyo caso deberá señalars
 
 XII.- La indicación si la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor o a varios;
 
-XIII.- Señalamiento de que será causa de descalificación la comprobación de que algún proveedor ha acordado con otro u otros elevar los precios de los bienes y servicios;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-XIV.- Penas convencionales por atraso en las entregas;
+XIII.- Señalamiento de que será causa de descalificación la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes y servicios;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+XIV.- Penas convencionales por atraso en las entregas o en la prestación de los servicios;
 
 XV.- Instrucciones para elaborar y entregar las proposiciones y garantías;
 
-XVI.- La indicación, en los casos de licitación internacional, que los pagos se harán en moneda nacional; y
+XVI.- La indicación, en los casos de licitación internacional, que los pagos se harán en moneda nacional; y (sic)
 
-XVII.- La indicación de que las licitantes deberán presentar en sobres cerrados y por separado las propuestas tanto técnicas como económicas.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+XVII.- La indicación de que los licitantes deberán presentar sus propuestas en sobre cerrado conteniendo los aspectos tanto técnicos como económicos;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+XVIII.- La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o proveedor según sea el caso, salvo que exista impedimento, la indicación de que los mencionados derechos, para el caso de la contratación de servicios de consultoría, asesorías, estudios e investigaciones, se estipularán a favor de las dependencias, entidades y ayuntamientos, en los términos de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -361,35 +407,39 @@ El plazo para la presentación y apertura de proposiciones no será menor de sie
 
 Para el caso de Proyectos de Inversión y Prestación de Servicios, el plazo para la presentación y apertura de proposiciones no será menor de siete días naturales, y el plazo mayor se establecerá en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 30.
 
-En las licitaciones la entrega de proposiciones se hará por escrito, mediante dos sobres cerrados que contendrán por separado, la propuesta técnica y la propuesta económica, incluyendo en esta última la garantía de seriedad de las ofertas.
+En las licitaciones la entrega de proposiciones se hará por escrito, mediante un sobre cerrado que contendrá por separado, los aspectos técnicos así como los económicos, incluyendo en estos últimos la garantía de sostenimiento de las propuestas.
 
 ###### ARTÍCULO 31.
 
 A los actos de apertura de proposiciones podrá invitarse a funcionarios o representantes de los sectores públicos, privados y sociales que se consideren convenientes. Así mismo deberá estar presente un representante de la Contraloría a la cual deberá enviar el convocante la invitación con 3 días hábiles de anticipación como mínimo, antes de la realización de la licitación o concurso.
 
-Cuando por causas de fuerza mayor no imputables a la Contraloría, ésta no pudiera estar presente en el acto, la licitante deberá turnar la documentación correspondiente al órgano de control a la mayor brevedad posible para su análisis y seguimiento.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
+Cuando por causas de fuerza mayor no imputables a la Contraloría, ésta no pudiera estar presente en el acto, la convocante deberá turnar la documentación correspondiente al órgano de control a la mayor brevedad posible para su análisis y seguimiento.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 32.
 
-Las personas físicas o morales que participen en las licitaciones que prevé la presente Ley, deberán garantizar, mediante la garantía que se establezca en la convocatoria:
+Las personas físicas o morales que participen en las licitaciones que prevé la presente Ley, deberán garantizar, mediante la garantía que se fije en la convocatoria:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2006)</small>
+I.- La garantía de sostenimiento de las propuestas en los procedimientos de licitación, cuyo monto de garantía será un mínimo de 5% del valor total de la propuesta económica;
 
-I.- La seriedad de las proposiciones en los procedimientos de adjudicación, cuyo monto de garantía será el que se fije en la convocatoria;
+II.- Los anticipas que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo; y
 
-II.- Los anticipos que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo; y
-
-III.- El cumplimiento de los contratos.
+III.- Garantía de cumplimiento de los contratos, cuyo monto de la garantía se determinará dependiendo de la magnitud del contrato.
 
 ###### ARTÍCULO 33.
 
 Las garantías que deban otorgarse conforme a esta ley, serán constituidas en favor de la Secretaría de Finanzas y Adminstración (sic) o de las tesorerías municipales, según sea el caso, salvo que se trate de Entidades, en cuyo caso las garantías se constituirán en su favor.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2007)</small>
+
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE LlCITACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
 ###### ARTÍCULO 34.
 
@@ -397,7 +447,9 @@ El acto de presentación y apertura de proposiciones, en el que podrán particip
 
 a) En la primera etapa:
 
-I.- Los licitantes entregarán sus proposiciones en sobres cerrados en forma inviolable, se procederá a la apertura de la propuesta técnica exclusivamente, y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la convocante transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+I.- Los licitantes entregarán sus proposiciones en sobre cerrado, en forma inviolable, se procederá a la apertura de las propuestas, y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la convocante transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación; en este acto, la revisión de la documentación se efectuará en forma cuantitativa, sin entrar al análisis detallado de su contenido, el cual se efectuará durante el proceso de evaluación de las propuestas:
 
 II.- Los participantes o un representante común nombrado por éstos, rubricarán todas las propuestas técnicas presentadas. En caso de que la apertura de las proposiciones económicas no se realice en la misma hora y fecha, los sobres que las contengan serán, firmados por los licitantes y los servidores públicos de las dependencias o entidades presentes y quedarán en custodia de la convocante, quien establecerá en el acta correspondiente la fecha, lugar y hora en que se llevará a cabo la segunda etapa, levantando el acta correspondiente precisando el acto. Durante este período, la convocante hará el análisis detallado de las propuestas técnicas aceptadas.
 
@@ -433,7 +485,9 @@ La convocante procederá a declarar desierta una licitación cuando las posturas
 
 La convocante se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
 
-I.- (DEROGADA, P.O. 29 DE JUNIO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2007)</small>
+
+I.- Aquellas que no cuenten con su registro vigente de Padrón de Proveedores;
 
 II.- En las que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas en que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
@@ -479,17 +533,53 @@ El atraso de la dependencia, entidad o municipio en la formalización de los con
 
 Los derechos y obligaciones que se deriven de los contratos de adquisiciones, arrendamientos o servicios, no podrán cederse en forma parcial o total a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro, en cuyo caso, se deberá contar con la conformidad previa de la dependencia, entidad o ayuntamiento de que se trate.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 41 BIS.- Los contratos o pedidos de adquisiciones, arrendamientos y servicios deberán contener, en lo aplicable, lo siguiente:
+
+I. La autorización del presupuesto para cubrir el compromiso derivado del contrato;
+
+II. La garantía del sostenimiento de las propuestas y la de cumplimiento de los contratos que deberán ser de conformidad con lo establecido en el artículo 32 de esta Ley;
+
+III. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
+
+IV. El precio unitario y el importe total a pagar por los bienes o servicios;
+
+V. La fecha o plazo, lugar y condiciones de entrega;
+
+VI. Porcentaje, número y fechas o plazo de las exhibiciones y amortización de los anticipos que se otorguen;
+
+VII. Forma, términos y porcentaje para garantizar los anticipos y el cumplimiento del contrato;
+
+VIII. Plazo y condiciones de pago del precio de los bienes o servicios;
+
+IX. Precisión de sí el precio es fijo o sujeto a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste;
+
+X. Condiciones, términos y procedimientos para la aplicación de penas convencionales por atraso en la entrega de los bienes o servicios, por causas imputables d los proveedores;
+
+XI. La descripción pormenorizada de los bienes o servicios objeto del contrato, incluyendo, en su caso, la marca y modelo de los bienes;
+
+XII. Salvo que exista impedimento, la estipulación de que los derechos inherentes a la propiedad intelectual, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor de la dependencia o de la entidad, según corresponda, en términos de las disposiciones legales aplicables; y
+
+XIII. Los demás aspectos y requisitos previstos en las bases e invitaciones, así como los relativos al tipo de contrato de que se trate.
+
+Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan, en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 42.
 
 La garantía del anticipo o la del cumplimiento del contrato correspondiente deberá entregarse en un plazo que no excederá de diez días hábiles, contados a partir de su firma.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
+Si el proveedor no firmare el contrato perderá a favor de la convocante la garantía de seriedad que hubiere otorgado, y la dependencia, entidad o ayuntamiento podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35 párrafo IV de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 43.
 
 En caso de que la convocante no firme el contrato respectivo dentro del término señalado en el artículo 38, deberá reintegrar al proveedor la garantía de seriedad que otorgó a favor de la convocante.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
+El proveedor a quien se hubiere adjudicado el contrato, no estará obligado a suministrar los bienes o prestar el servicio, si la convocante, por causas no imputables al mismo proveedor, no firmare el contrato dentro del plazo establecido en esta Ley, en cuyo caso se reembolsarán los gastos no recuperables que estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
 ###### ARTÍCULO 44.
 
@@ -533,11 +623,43 @@ Tratándose de incumplimiento del proveedor por la no entrega de los bienes o de
 
 Los proveedores cubrirán las cuotas compensatorias que conforme a la Ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación a contrato.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 49 BIS.- La convocante, la Secretaria, la Unidad, las Dependencias, Entidades y los Ayuntamientos, según corresponda, podrán, en cualquier momento, rescindir administrativamente los contratos cuando el proveedor incurra en incumplimiento de sus obligaciones, conforme al procedimiento siguiente:
+
+l. Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de cinco días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
+
+II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer;
+
+III. La determinación de dar o no por rescindido el contrato, deberá ser debidamente fundada, motivada y comunicada al proveedor dentro de los diez días hábiles siguientes a lo señalado en la fracción I de este artículo, para que, manifieste lo que a su derecho convenga, procediendo la dependencia, entidad o ayuntamiento a resolver lo procedente dentro de los diez días naturales siguientes al que hubiere recibido el escrito de contestación. Si las causas de rescisión fueran imputables al proveedor, se procederá a hacer efectiva la garantía y se abstendrán de cubrir los importes restantes.
+
+La situación descrita en el párrafo anterior, deberá hacerse del inmediato conocimiento de la Contraloría, por escrito, por conducto de los titulares de los organismos contratantes para su respectivo seguimiento y evaluación; y
+
+IV. Cuando se rescinda el contrato se formulará el finiquito correspondiente, a efecto de hacer constar los pagos que deba efectuar la dependencia o entidad por concepto de los bienes recibidos o los servicios prestados hasta el momento de rescisión.
+
+Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto, previa aceptación y verificación de la dependencia o entidad de que continúa vigente la necesidad de los mismos, aplicando, en su caso, las penas convencionales correspondientes.
+
+La dependencia o entidad podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que la rescisión del contrato pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas. En este supuesto, deberá elaborar un dictamen en el cual justifique que los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
+
+Al no dar por rescindido el contrato, la dependencia o entidad establecerá con el proveedor otro plazo, que le permita subsanar el incumplimiento que hubiere motivado el inicio del procedimiento. El convenio modificatorio que al efecto se celebre, deberá contener las medidas jurídicas necesarias que garanticen el cumplimiento de los plazos, condiciones y términos establecidos, por lo que se deberán establecer penas convencionales, así como garantizar que el proveedor realizara el pago de daños y perjuicios que pudiese ocasionar con su incumplimiento.
+
+Las dependencias y entidades podrán establecer en las bases de licitación, invitaciones y contratos, deducciones al pago de bienes o servicios con motivo del incumplimiento parcial o deficiente en que pudiera incurrir el proveedor respecto a las partidas o conceptos que integran el contrato. En estos casos, establecerán el límite de incumplimiento a partir del cual podrán cancelar total o parcialmente las partidas o conceptos no entregados, o bien rescindir el contrato en los términos de artículo.
+
+Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquél en que hubiere sido adjudicado el contrato, la dependencia o entidad convocante podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
+
+Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado, o se determine la nulidad total o parcial de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad emitida por el órgano de control correspondiente. En estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
+
 ###### ARTÍCULO 50.
 
 Las dependencias, entidades o ayuntamientos estarán obligados a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
 
 Para los efectos del párrafo anterior, las dependencias, entidades o ayuntamientos en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación de personal que operarán los equipos.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 50 BIS.- Cuando en la prestación del servicio se presente caso fortuito o de fuerza mayor, la dependencia o entidad, bajo su responsabilidad podrá suspender la prestación del servicio, en cuyo caso únicamente se pagarán aquellos que hubiesen sido efectivamente prestados y se reintegrarán los anticipos no amortizados.
+
+Cuando la suspensión obedezca a causas imputables a la dependencia o entidad, en las bases de la licitación y el contrato deberá preverse la forma de pagar al proveedor los gastos no recuperables durante el tiempo que dure está suspensión.
 
 ### CAPÍTULO QUINTO. DEL COMITÉ DE ADQUISICIONES
 
@@ -557,21 +679,43 @@ V.- Coadyuvar al cumplimiento de esta Ley y las demás disposiciones aplicables 
 
 El comité será un órgano de carácter técnico interinstitucional, de naturaleza técnica, consultiva y de opinión.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO SEXTO. DE LOS PROVEEDORES Y SU REGISTRO
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 52.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 2006)
+La Contraloría realizará y mantendrá actualizado el padrón de proveedores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 53.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 2006)
+Los interesados a formar parte del Padrón de Proveedores, deberán cumplir cuando menos, los siguientes requisitos:
+
+I.- Presentar solicitud ante la Contraloría en el formato previamente establecido y aprobado por ésta;
+
+II.- Cuando dicho trámite se lleve a cabo por persona física deberá acompañarse a éste, copia certificada de su cédula de identificación fiscal así como el documento donde acredite su actividad preponderante;
+
+III.- Tratándose de personas morales, su representante legal o persona que lo represente deberá anexar a su solicitud copia debidamente notariada, además de su cédula de identificación fiscal, del acta constitutiva y sus respectivas reformas, en el caso de organismos descentralizados la ley o Decreto que los creó, y por último, con respecto a fideicomisos, el contrato correspondientes;
+
+IV.- Además mediante la exhibición del documento original, acreditar que es comerciante o productor, legalmente establecido, el que previo cotejo con la copia respectiva, se reintegrará al solicitante;
+
+V.- Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas y demás bienes muebles, y en su caso, para el arrendamiento de éstos o la prestación de servicios; y
+
+VI.- Pagar previamente los derechos establecidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 54.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 2006)
+Los proveedores a que se refiere el artículo anterior que incumplan con cualquier requisito, no serán registrados en el padrón correspondiente, así mismo que no den cumplimiento a los contratos establecidos con Dependencias, Entidades, Ayuntamientos o cualquier otro organismo al que se refiere esta ley, serán dados de baja, cuando las causas sean imputables a su persona, los cuales estarán imposibilitados a formar parte de éste hasta transcurrido el término de 2 años, contados a partir del acto realizado.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 54 BIS.- Los proveedores registrados y vigentes podrán ser publicados en la página de Internet del Gobierno del Estado para que las dependencias y entidades de la administración pública estatal y municipal puedan tener fácil acceso a la información de quién está registrado como proveedor, así como por este medio publicitar a los proveedores.
 
 ### CAPÍTULO SÉPTIMO. DE LOS ALMACENES
 
@@ -860,3 +1004,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 16 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente.
