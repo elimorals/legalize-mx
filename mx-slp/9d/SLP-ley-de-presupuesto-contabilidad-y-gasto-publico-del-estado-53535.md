@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5353
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2006-12-21"
+last_updated: "2007-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2007.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de diciembre de 2006.
 
@@ -477,7 +477,9 @@ Los titulares y servidores públicos adscritos a las dependencias y entidades de
 
 I. Ejecutar el gasto con sujeción a capítulos, conceptos, calendarios y partidas presupuestales, llevando control de la disponibilidad financiera;
 
-II. No contraer obligaciones para subsecuentes ejercicios, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+II. No contraer obligaciones para subsecuentes ejercicios, excepto en los casos en que se hubiere obtenido autorización del Congreso del Estado, o lo establezca la Ley de Deuda Pública del Estado de San Luis Potosí, y
 
 III. No contraer compromisos sin previa autorización presupuestal.
 
@@ -605,6 +607,30 @@ En el Poder Legislativo las funciones de evaluación y control serán llevadas a
 
 Las responsabilidades que afecten a la Hacienda Pública Estatal, derivadas del incumplimiento de las disposiciones contenidas en el presente Ordenamiento y demás normas que se expidan con base en éste, serán determinadas y sancionadas en el ámbito de sus respectivas competencias, por la Contraloría General del Estado, el Congreso del Estado, la Contaduría Mayor de Hacienda o su equivalente, y los órganos de control interno respectivos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2007)</small>
+
+### CAPITULO IX. Del Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 75.
+
+La Oficialía Mayor del Poder Ejecutivo tendrá a su cargo, el Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo, en el cual se inscribirán todos los actos jurídicos relacionados con las obras de infraestructura realizadas bajo la modalidad de prestación de servicios o arrendamientos a largo plazo; asimismo, se llevará, una inscripción de los inversionistas o proveedores que participen en los proyectos citados.
+
+Por su parte, la Secretaría de Finanzas deberá incluir en el Presupuesto de cada año, la partida presupuestal, con los recursos suficientes, para cubrir el pago de los servicios o arrendamientos de largo plazo, durante todos los años de vigencia de los contratos. Para cumplir con lo anterior, la Oficialía Mayor deberá presentarle a más tardar el mes de noviembre del ejercicio anterior, la información de cada uno de los contratos vigentes en el Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 76.
+
+Los encargados del Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo, tienen la responsabilidad de permitir a los particulares que lo soliciten, que se enteren de la información y documentos relacionados con el control del registro, en términos de lo señalado en la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 77.
+
+El reglamento de la presente Ley establecerá la organización, funciones, procedimientos y políticas del Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo, a efecto de que cualquier interesado pueda acceder al mismo.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -638,3 +664,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE AGOSTO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
