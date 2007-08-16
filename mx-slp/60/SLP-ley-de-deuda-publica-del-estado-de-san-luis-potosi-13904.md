@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-de-san-luis-potosi-13904"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-18"
-last_updated: "2002-02-02"
+last_updated: "2007-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de marzo de 1999.
 
@@ -41,13 +41,17 @@ LEY DE DEUDA PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 1°.
 
-Es materia de esta Ley el establecimiento de bases para regular la concertación, contratación, registro, control, aplicación, publicación y mecanismos de garantía de pago de las operaciones de deuda pública en el Estado.
+Esta Ley es de orden público; y tiene por objeto establecer las bases y requisitos para regular la contratación, registro, control, aplicación, publicación de obligaciones financieras y mecanismos de garantía de pago, así como la emisión de valores de las operaciones de deuda pública del Estado.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-La deuda pública estatal está constituida por las obligaciones directas y contingentes, derivadas de empréstitos o de financiamiento a cargo de las siguientes dependencias y entidades de la administración pública estatal y municipal:
+###### ARTICULO 2°.
+
+La deuda pública estatal está constituida por las obligaciones financieras directas y contingentes, derivadas de empréstitos o de financiamientos a cargo de las siguientes dependencias y entidades de la administración pública estatal:
 
 I. El Poder Ejecutivo del Estado;
 
@@ -57,61 +61,81 @@ III. Las empresas de participación estatal mayoritaria;
 
 IV. Los fideicomisos en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores, y
 
-V. Los ayuntamientos, los organismos descentralizados municipales y los fideicomisos en los que los municipios sean fideicomitentes, cuando el Poder Ejecutivo del Estado sea aval o deudor solidario, en el caso de que aquellos hubieran incumplido sus obligaciones directas.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 3º.
+V. Los ayuntamientos, los organismos descentralizados municipales y los fideicomisos en los que municipios sean fideicomitentes, cuando el Poder Ejecutivo del Estado sea aval o deudor solidario.
 
-Constituyen la deuda pública estatal directa y contingente, las obligaciones que contraigan las dependencias y entidades enumeradas en el artículo anterior, dentro del marco jurídico que establecen los artículos 117 fracción VIII de la Constitución General de la República, así como los artículos 57 fracción XIV y 80 fracción XX de la Constitución Política del Estado, y son las siguientes:
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-I. Empréstitos o financiamientos directos que contrate el Ejecutivo del Estado, y
+###### ARTICULO 3°.
 
-II. Pasivos contingentes por empréstitos o financiamientos que contraten las dependencias y entidades de la administración pública estatal y municipal a que se refiere el artículo 2o. de esta Ley.
+Constituyen la deuda pública directa y contingente, las obligaciones financieras que contraigan las entidades enumeradas en el artículo anterior, dentro del marco jurídico que establece el artículo 117 fracción VIII de la Constitución General de la República, así como los artículos 57 fracción XIV y 80 fracción XX de la Constitución Política del Estado; y son las siguientes:
+
+I. Directa: empréstitos, financiamientos o emisiones de valores que contrate directamente el Ejecutivo del Estado, y
+
+II. Contingente: empréstitos o financiamientos que contraten las entidades de la administración pública estatal y municipal, cuando él Poder Ejecutivo del Estado sea aval o deudor solidario.
 
 ###### ARTICULO 4º.
 
 Para efectos de esta Ley, se entiende por operaciones financieras de deuda pública las siguientes:
 
-I. La suscripción de títulos de crédito o de cualquier otro documento pagadero a plazos;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-II. La adquisición de bienes o la contratación de obras o servicios cuyo pago se pacte a plazos superiores a seis meses o con vencimiento posterior al cierre del ejercicio fiscal de la contratación;
+I. La suscripción de títulos de crédito pagaderos a plazos, a excepción de lo dispuesto por la fracción III del artículo 5º de esta Ley;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+II. La adquisición de bienes, o la contratación de obras o servicios o arrendamientos, cuyo pago se pacte a plazos superiores a doce meses, a excepción de lo dispuesto por la fracción III del artículo 5º de esta Ley;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
 
 III. La emisión y colocación de valores, títulos de crédito y demás documentos mencionados en la Ley del Mercado de Valores que conforme a su naturaleza tenga permitido emitir, los que serán inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios, y se cotizarán en la Bolsa Mexicana de Valores, S.A. de C. V., mediante los cuales se capten recursos financieros para el Estado y se optimicen los ya existentes;
 
-IV. Todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-V. Los pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores.
+IV. Los pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-###### ARTICULO 5º.
+V. El refinanciamiento, la renegociación o reestructuración de los pasivos anteriores, cuyo propósito sea disminuir, administrar o mejorar las condiciones de la deuda pública estatal.
 
-No se entenderán como deuda pública estatal, los financiamientos directos con la banca de desarrollo y la comercial a corto plazo, que contrate el Poder Ejecutivo o las dependencias y entidades de la administración pública estatal y municipal, enunciadas en el artículo 2º del presente ordenamiento, para solventar necesidades temporales de flujo de caja, cuyos vencimientos y liquidación efectivamente se realicen sin excepción, en el mismo ejercicio fiscal, y no excedan del término del período constitucional que les corresponda.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-La Secretaría de Finanzas será la única dependencia del Poder Ejecutivo del Estado, facultada para autorizar la contratación de deuda de corto plazo a las dependencias y entidades de la administración pública estatal señaladas en el artículo 2o. de esta Ley.
+###### ARTICULO 5°.
 
-Los financiamientos de corto plazo mencionados, no se considerarán dentro de los montos anuales de endeudamiento autorizados, y estarán sujetos a los requisitos de información y registro previstos en esta Ley.
+No constituyen deuda pública las obligaciones financieras que de forma directa, indirecta o contingente, contraigan los entes públicos a que se refiere el artículo 2° del presente Ordenamiento, en los siguientes casos:
+
+l. Cuando actúen como sujetos de derecho privado;
+
+II. Cuando los financiamientos directos con la banca de desarrollo y la comercial a corto plazo, que contrate el Poder Ejecutivo o las entidades de la administración pública estatal, se realicen para solventar necesidades temporales de flujo de caja, cuyos vencimientos y liquidación efectivamente se realicen, sin excepción, en el mismo ejercicio fiscal, y no excedan del término del periodo constitucional que les corresponda, y
+
+III. Cuando celebren contratos para la adquisición de bienes o para prestación de servicios o arrendamientos de largo plazo, que tengan por objeto crear infraestructura pública, ni la afectación de ingresos, ni los mecanismos de afectación para cubrir dichos contratos.
+
+Los financiamientos de corto plazo mencionados, no se considerarán dentro de los montos anuales de endeudamiento autorizados, y estarán sujetos a los requisitos de información y registro previstos en la Ley, con excepción de los préstamos quirografarios que no requieren registro.
 
 ###### ARTICULO 6º.
 
 Además de las disposiciones previstas en esta Ley, el financiamiento que obtengan las dependencias y entidades de la administración pública estatal y municipal, a que se refiere el artículo 2o. de la misma, se sujetará a las normas que en materia federal le sean aplicables.
 
-###### ARTICULO 7º.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-Los empréstitos o financiamientos comprendidos en la deuda pública estatal estarán invariablemente destinados a inversiones públicas productivas y obras de beneficio social, entendiéndose como tales:
+###### ARTICULO 7°.
 
-I. Los que se destinen a obras públicas que generen ingresos y a otros proyectos cuyos planes de operación garanticen su carácter autorrecuperable;
+Las obligaciones financieras comprendidas en la deuda pública estatal, estarán invariablemente destinadas a inversiones públicas productivas y obras de beneficio social, que produzcan beneficios económicos y sociales a la ciudadanía, al Estado o región en la celebración de contratos regionales, entendiéndose como tales los que se destinen a:
 
-> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 1999)</small>
+I. La construcción de obras públicas;
 
-II. Los destinados a la creación, ampliación o mejoramiento de los servicios públicos que produzcan ingresos a la Entidad y sean de beneficio social para el Estado;
+II. Las adquisiciones o manufactura de bienes;
 
-III. La adquisición de bienes inmuebles para integrar áreas de reserva urbana, siempre que existan planes y programas de desarrollo aprobados para ejecución de proyectos específicos;
+III. Las acciones de beneficio social;
 
-IV. Los que se destinen a atender situaciones de emergencia y desastres, y
+IV. La creación, ampliación o mejoramiento de los servicios públicos;
 
-V. Los que se destinen a reestructurar adeudos, en aquellos casos en que se presenten problemas de recuperación, o cuando otra institución ofrezca mejores condiciones financieras.
+V. La adquisición de bienes inmuebles que sean destinados al servicio público o para integrar áreas de reserva urbana, siempre que existan planes y programas de desarrollo aprobados para ejecución de proyectos específicos;
+
+VI. Las que atienden situaciones de emergencia y desastre, y
+
+VII. La reestructura de adeudos cuando ésta implique un aumento en los términos y condiciones de los mismos.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL PODER LEGISLATIVO Y EL PODER EJECUTIVO EN MATERIA DE DEUDA PUBLICA ESTATAL
 
@@ -125,7 +149,9 @@ La propuesta debe contener los elementos de juicio que la sustenten y la menció
 
 II. Autorizar, previa solicitud del Titular del Poder Ejecutivo del Estado debidamente justificada y con apego a esta Ley, los montos de endeudamiento adicionales a los aprobados en la Ley de Ingresos, cuando medien circunstancias extraordinarias que lo ameriten;
 
-III. Autorizar de manera expresa, dentro de los montos aprobados en la Ley de Ingresos, la contratación de endeudamiento cuyos plazos de amortización rebasen el término de la gestión del Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+III. Autorizar de manera expresa, dentro de los montos aprobados en la Ley de Ingresos, la contratación de endeudamiento, cuyos plazos de amortización rebasen el ejercicio fiscal o el término de la gestión del Titular del Poder Ejecutivo;
 
 IV. Autorizar la afectación en garantía de pago de las participaciones federales que correspondan al Estado, sus proyecciones de ingresos propios o los bienes muebles o inmuebles que posea y que no se encuentren destinados directamente a la prestación de un servicio público;
 
@@ -133,9 +159,11 @@ V. Verificar que las operaciones de endeudamiento se realicen conforme a las dis
 
 VI. Las demás que en materia de deuda pública le correspondan conforme a otras disposiciones legales.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2007)</small>
 
-Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y con la intervención que conforme a sus atribuciones competa a la Contraloría General del Estado y a la Comisión Gasto-Financiamiento, las siguientes atribuciones:
+###### ARTÍCULO 9º.
+
+Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, las siguientes atribuciones:
 
 > <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 1999)</small>
 
@@ -145,11 +173,13 @@ II. Tomar las medidas de carácter administrativo relativas al pago del principa
 
 III. Fungir como aval o deudor solidario en la contratación de empréstitos o financiamientos a cargo de las demás dependencias y entidades de la administración pública estatal y municipal a que se refiere el artículo 2o. de esta Ley;
 
-> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-IV. Reestructurar, cuando así se justifique, los créditos ya adquiridos como deudor directo o como aval o deudor solidario, modificando tasas de interés, plazos, condiciones y formas de pago, previa aprobación del Congreso del Estado;
+IV. Reestructurar, cuando así se justifique, las obligaciones financieras ya adquiridas como deudor directo o como aval o deudor solidario, modificando tasas de interés, plazos, condiciones y formas de pago, previa aprobación del congreso del Estado, cuando la modificación implique aumento en los términos originalmente autorizados;
 
-V. Llevar un registro actualizado y detallado de la deuda pública estatal, que refleje, su situación en los estados financieros mensuales y en la cuenta de la hacienda pública estatal;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+V. Llevar un registro actualizado y detallado de la deuda pública estatal, que refleje la situación de la misma en la Hacienda Pública Estatal y Municipal;
 
 VI. Publicar cada tres meses en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad, información relativa a la deuda pública estatal, con números a marzo, junio, septiembre y diciembre de cada año;
 
@@ -173,9 +203,21 @@ XV. Instrumentar los mecanismos de garantía de pago adecuados para el cumplimie
 
 XVI. Afectar las participaciones de los ayuntamientos cuando estos la señalen expresamente como fuente de pago y garantía de obligaciones ante instituciones financieras de acuerdo con lo que establece la Ley de Deuda Pública Municipal del Estado de San Luis Potosí, y que hayan incurrido en incumplimiento de sus obligaciones de crédito;
 
-XVII. Llevar el registro actualizado y detallado de la deuda pública municipal, y asesorar a los municipios a fin de que su aplicación se de en los términos señalados por el Congreso del Estado, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
-XVIII. Las demás que en materia de deuda pública se deriven de ésta y otras disposiciones legales.
+XVII. Llevar el registro actualizado y detallado de la deuda pública municipal, y asesorar a los municipios a fin de que su aplicación se dé en los términos señalados por el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+XVIII. Afectar las participaciones o fondos de aportación federal correspondientes al Estado, cuando éstas se señalen expresamente como fuente de pago y garantía de las obligaciones financieras contratadas, y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+
+XIX. Las demás que en materia de deuda pública se deriven de este y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+
+La Secretaría de Finanzas será la única dependencia del Poder Ejecutivo del Estado, facultada para autorizar la contratación de deuda de corto plazo, a las entidades de la administración pública estatal.
 
 ### CAPITULO III. DE LA CONTRATACION DE EMPRESTITOS O FINANCIAMIENTOS DE LA ADMINISTRACION PUBLICA ESTATAL
 
@@ -330,3 +372,9 @@ P.O. 2 DE FEBRERO DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDOS. Se derogan todas las disposiciones que se opongan a este Decreto.
