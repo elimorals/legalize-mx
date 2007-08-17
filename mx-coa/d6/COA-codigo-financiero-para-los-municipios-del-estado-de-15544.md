@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2007-06-29"
+last_updated: "2007-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -197,9 +197,11 @@ Las iniciativas de las leyes de ingresos de los Municipios se formularán de con
 
 Estas iniciativas se remitirán acompañadas del presupuesto de ingresos para su discusión, aprobación en su caso y publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 22.
 
-Las leyes de ingresos regirán en el curso del año para el cual se expidan, pero si por cualquier circunstancia no se publicaran continuarán en vigor las del año anterior, salvo los casos de excepción que establezca el Congreso del Estado.
+Las leyes de ingresos regirán en el curso del año para el cual se expidan, pero si por cualquier circunstancia el Congreso no aprobara una o varias leyes de ingresos, o que estando aprobadas no se publicaran continuarán en vigor las del año anterior con las actualizaciones que sean pertinentes de acuerdo al índice nacional de precios al consumidor, salvo los casos de excepción que establezca el Congreso del Estado.
 
 ###### ARTÍCULO 23.
 
@@ -4276,3 +4278,9 @@ P.O. 29 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 17 DE AGOSTO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
