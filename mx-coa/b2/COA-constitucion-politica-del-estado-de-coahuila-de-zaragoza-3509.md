@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2007-08-02"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1059,6 +1059,10 @@ El Congreso deberá aprobar en el Presupuesto de Egresos del ejercicio las parti
 a) Que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y: (sic)
 
 b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+
+En el caso de no aprobarse la Ley de Ingresos o el Presupuesto de Egresos, continuarán en vigor las del año inmediato anterior, con las actualizaciones que sean pertinentes de acuerdo al índice nacional de precios al consumidor;
 
 Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los Municipios, así como determinar, también anualmente, las bases, montos y plazos que habrán de observarse conforme a los principios que establece el artículo 158-T de esta Constitución, para que los Municipios reciban de inmediato y sin demora las participaciones y aportaciones federales o estatales que les correspondan.
 
@@ -2420,7 +2424,7 @@ La Justicia Constitucional Local se erige dentro del régimen interior del Estad
 
 La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 41, 99, 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Cuando la Autoridad Jurisdiccional considere en su resolución que una norma, es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
+Cuando la atoridad jrisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
@@ -2518,11 +2522,9 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+### CAPÍTULO II. EL GOBIERNO MUNICIPAL
 
-El Gobierno Municipal.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2558,7 +2560,7 @@ Los gobiernos estatal y municipal y los organismos públicos autónomos, en la e
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2743,6 +2745,10 @@ Los Municipios administrarán libremente su hacienda conforme a las bases siguie
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o, en su caso, por los Concejos Municipales, o bien, por quien ellos autoricen, conforme a la ley y su reglamento.
 
 II. El Congreso del Estado discutirá y aprobará las leyes de ingresos de los Municipios, en los términos de las disposiciones aplicables. La deuda pública municipal se sujetará a los principios que establece esta Constitución y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+
+En el caso de no aprobarse alguna de las leyes de ingresos, continuarán en vigor las del año inmediato anterior del municipio o municipios de que se trate, con las actualizaciones a que se refiere el tercer párrafo de la fracción XXXIII del artículo 67 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
 
@@ -4135,3 +4141,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El periodo de cuatro años para los integrantes del Congreso del Estado será aplicable a partir de la renovación a realizarse en el año 2013. En consecuencia y por única ocasión, los diputados electos en el proceso electoral a celebrarse en el año 2008, correspondiente a la Quincuagésima Octava Legislatura, durarán en su encargo el período comprendido del 1 de enero de 2009 al 31 de diciembre de 2011 y los diputados electos en el proceso electoral a celebrarse en el año 2011, correspondiente a la Quincuagésima Novena Legislatura, entrarán en su encargo el 1 de enero de 2012 para culminar el día 31 de diciembre de 2013.
+
+P.O. 17 DE AGOSTO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
