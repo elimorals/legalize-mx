@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-comision-4278
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-06"
-last_updated: "1980-05-06"
+last_updated: "2007-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO "COMISION ESTATAL DE ENERGETICOS"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 326, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2007., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 6 de mayo de 1980.
 
@@ -362,3 +364,15 @@ El Secretario del Ejecutivo del Estado
 LIC. ROBERTO OROZCO MELO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
