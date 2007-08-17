@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2007-03-21"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -381,9 +381,15 @@ XLIV. Determinar por sí, o a solicitud del Gobernador del Estado, la celebraci�
 
 XLV. Solicitar al Gobernador del Estado la celebración de un plebiscito, sujetándose previamente a las formalidades del proceso legislativo y de conformidad con las leyes aplicables;
 
-XLVI. Elaborar, aprobar y ejercer su presupuesto anual de egresos, de conformidad con la legislación aplicable. La Comisión de Administración y Presupuesto preparará el anteproyecto anual de egresos del Congreso, para los efectos de lo dispuesto en el artículo 33 fracción IV de esta ley; el que, en su caso, será turnado al Titular del Poder Ejecutivo a fin de que se incluya en la iniciativa anual del presupuesto de egresos del Gobierno del Estado; y
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2007)</small>
 
-XLVII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
+XLVI. Elaborar, aprobar y ejercer su presupuesto anual de egresos, de conformidad con la legislación aplicable. La Comisión de Administración y Presupuesto preparará el anteproyecto anual de egresos del Congreso, para los efectos de lo dispuesto en el artículo 33 fracción IV de esta ley; el que, en su caso, será turnado al titular del Poder Ejecutivo a fin de que se incluya en la iniciativa anual del presupuesto de egresos del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.O. 17 DE AGOSTO DE 2007)</small>
+
+XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, Género y Familia, el Parlamento de las Mujeres Veracruzanas; y
+
+XLVIII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -1296,3 +1302,11 @@ G.O. 21 DE MARZO DE 2007.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE AGOSTO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo máximo de 90 días hábiles, posteriores a la entrada en vigor del presente Decreto, la Comisión Permanente de Equidad, Género y Familia, deberá presentar al Pleno o, en su caso, a la Diputación Permanente, el Proyecto de Reglamento del Parlamento de las Mujeres Veracruzanas para su aprobación.
