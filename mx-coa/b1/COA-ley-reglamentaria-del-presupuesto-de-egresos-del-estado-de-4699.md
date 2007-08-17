@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "1975-07-02"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -172,6 +172,10 @@ El C. Gobernador deberá presentar a la consideración de la Legislatura del Est
 ###### ARTICULO 18.
 
 Una vez que la Legislatura del Estado haya aprobado la Ley de Ingresos, previa la discusión de la iniciativa correspondiente, presentada por el Ejecutivo de conformidad con la Constitución Política Local, se procederá al examen y estudio del proyecto de Presupuesto de Egresos, por conducto de la Comisión respectiva.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+
+En el caso de no aprobarse alguna de las leyes de ingresos, continuarán en vigor las del año inmediato anterior del municipio o municipios de que se trate, con las actualizaciones que sean pertinentes de acuerdo al índice nacional de precios al consumidor.
 
 ###### ARTICULO 19.
 
@@ -328,3 +332,11 @@ ING. EULALIO GUTIERREZ TREVIÑO.- Rúbrica.
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. OSCAR VILLEGAS RICO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
