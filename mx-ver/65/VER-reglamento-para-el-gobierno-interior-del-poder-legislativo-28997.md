@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2007-08-13"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE AGOSTO DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -662,6 +662,10 @@ Cuando exista causa justificada, la Junta de Coordinación Política podrá prop
 ###### Artículo 61.
 
 La competencia de las comisiones permanentes deriva de su denominación, con relación a las respectivas áreas de la administración pública estatal y municipal, así como de las normas que rigen el funcionamiento del Congreso, u otras disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2007)</small>
+
+La Comisión Permanente de Equidad, Género y Familia cada año organizará el Parlamento de las Mujeres Veracruzanas en la sede que determine el Pleno o, en su caso, la Diputación Permanente.
 
 ###### Artículo 62.
 
@@ -1564,3 +1568,11 @@ G.O. 13 DE AGOSTO DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 17 DE AGOSTO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo máximo de 90 días hábiles, posteriores a la entrada en vigor del presente Decreto, la Comisión Permanente de Equidad, Género y Familia, deberá presentar al Pleno o, en su caso, a la Diputación Permanente, el Proyecto de Reglamento del Parlamento de las Mujeres Veracruzanas para su aprobación.
