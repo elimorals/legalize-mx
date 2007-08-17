@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-48393
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-02-08"
-last_updated: "2006-02-08"
+last_updated: "2007-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48393&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-23"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2007.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de febrero de 2006.
 
@@ -517,7 +517,9 @@ XXIV. Celebrar acuerdos con los titulares y demás personal de las unidades admi
 
 XXV. Delegar en sus subalternos atribuciones que tenga encomendadas, previo acuerdo con el Titular del Organismo;
 
-XXVI. Suscribir los documentos, convenios y contratos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación o le correspondan por suplencia;
+> <small>(REFORMADA, D.O.F.17 DE AGOSTO DE 2007)</small>
+
+XXVI. Suscribir los documentos, convenios y contratos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia, así como iniciar los procedimientos de rescisión de contratos y pedidos y suscribir las determinaciones, comunicaciones y notificaciones correspondientes de la rescisión;
 
 XXVII. Proporcionar información, datos o cooperación técnica que le sean requeridos por dependencias e instituciones públicas y privadas, en términos de la legislación aplicable;
 
@@ -921,7 +923,9 @@ III. Establecer y difundir a las unidades administrativas del Organismo, las pol
 
 IV. Conducir los procesos licitatorios para la adquisición o contratación de bienes, arrendamientos, obras públicas y servicios del Organismo, correspondientes a su ámbito de competencia;
 
-V. Suscribir los pedidos y contratos, derivados de la adquisición de bienes y contratación de los arrendamientos y los servicios bajo su responsabilidad;
+> <small>(REFORMADA, D.O.F.17 DE AGOSTO DE 2007)</small>
+
+V. Suscribir los pedidos y contratos, derivados de la adquisición de bienes y contratación de los arrendamientos y los servicios bajo su responsabilidad, así como iniciar los procedimientos de rescisión de contratos y pedidos y suscribir las determinaciones, comunicaciones y notificaciones correspondientes de la rescisión;
 
 VI. Supervisar el cumplimiento de los contratos relativos a los diversos seguros de bienes muebles e inmuebles contratados por el Organismo;
 
@@ -1026,3 +1030,9 @@ TERCERO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conf
 Se expide en la Ciudad de México, Distrito Federal, el día dieciséis de enero de dos mil seis.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, en cumplimiento con lo acordado por la Junta de Gobierno del Sistema Nacional para el Desarrollo Integral de la Familia, C.P. Ana Rosa Payán Cervera.- Rúbrica.
 
 México, D. F., a 23 de enero de 2006.- La Responsable de la Información y Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Ana Rosa Payán Cervera.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 17 DE AGOSTO DE 2007.
+
+Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
