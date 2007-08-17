@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-07-23"
+last_updated: "2007-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,37 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 23 de julio de 2007.
+Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de agosto de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte; artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, que actualiza la estructura de la clasificación aduanera introduciendo las modificaciones llevadas a cabo por el Comité de Nomenclatura de la Organización Mundial de Aduanas;
+Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las Partes;
 
-Que es necesario adecuar la normatividad de comercio exterior a dichas modificaciones, y
+Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+
+Que la oferta nacional de leche y derivados lácteos es insuficiente, por lo que es necesario complementarla con importaciones a efecto de que las industrias que los utilizan en sus procesos productivos tengan acceso a insumos en condiciones similares a las que tienen en el exterior;
+
+Que el 23 de enero de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, así como su modificación publicada en el Diario Oficial de la Federación el 11 de mayo de 2007;
+
+Que los cupos mínimos destinados a la empresa del sector público han sido asignados en su totalidad para cubrir las necesidades del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo, por lo que es necesario satisfacer sus requerimientos de abasto social para el resto del año;
+
+Que el artículo décimo transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en la fracción IV, párrafo quinto, que los cupos adicionales equivalentes a un 29.7% de los cupos libres de arancel asignados a LICONSA S.A. de C.V. y los equivalentes a un 8.1% de los cupos libres de arancel asignados a la industria privada, serán entregados a los respectivos beneficiarios en el mes de agosto del 2007;
+
+Que la Secretaría de Economía y la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación están de acuerdo en el incremento de este cupo y han consultado a los productores y consumidores de la cadena productiva sobre dicha cuota adicional, y
 
 Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO PRIMERO.
 
-Los cupos, para exportar a los Estados Unidos de América y a Canadá, bienes textiles y prendas de vestir no originarios producidos en territorio nacional, en adelante cupos de exportación, así como para importar de dichos países bienes textiles y prendas de vestir no originarios, producidos en el territorio de éstos, susceptibles de recibir trato de preferencia arancelaria conforme a lo dispuesto en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte durante el periodo del 1 de enero al 31 de diciembre de cada año, son los que se determinan a continuación:
+El incremento al cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, es el que se determina en el cuadro siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -186,41 +196,43 @@ Aceites, Aceites de Petróleo y Betunes
 
 ###### ARTICULO TERCERO.
 
-Pueden solicitar el registro de sus productos las personas físicas y morales establecidas en los Estados Unidos Mexicanos, mediante el procedimiento siguiente:
-
-a) Los interesados deberán presentar la "Solicitud de Inscripción en el Registro de Bienes Textiles y Prendas de Vestir no originarios elegibles para recibir de trato de preferencia arancelaria" formato SE-03-012-1, en la "Ventanilla de cupos TLC" de la Dirección General de Comercio Exterior de esta Secretaría, sita en Insurgentes Sur No. 1940, planta baja, colonia Florida, código postal 01030, México, D.F. o en la representación federal de esta Secretaría, que le corresponda. No existe hoja de requisitos específicos.
-
-b) El horario de recepción será de 9:00 a 14:00 horas, en días hábiles.
-
-c) La Secretaría expedirá, en su caso, la Constancia de Registro a las solicitudes en un plazo no mayor a siete días hábiles, contados a partir de la fecha de recepción de la solicitud. La Constancia de Registro es válida únicamente en el año en el que se realice el registro, por lo que cada año deberá realizar este trámite.
+Podrá solicitar asignación de la cuota adicional la empresa del sector público encargada del programa de abasto social de leche, de conformidad a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo.
 
 ###### ARTICULO CUARTO.
 
-Las personas que obtengan Constancia de Registro, deberán solicitar, ante la oficina en la cual obtuvieron dicha Constancia, la expedición del Certificado de Elegibilidad correspondiente para cada embarque, en el formato SE-03-013-2 “Solicitud de certificado de elegibilidad para bienes textiles y prendas de vestir con Canadá y Estados Unidos de América”, en horario de 9:00 a 10:00 horas. La resolución será entregada entre las 13:00 y las 14:00 horas del mismo día de la solicitud de expedición”.
+La asignación del cupo a que se refiere el presente Acuerdo se hará a través de la Dirección General de Comercio Exterior, de conformidad con lo señalado en los artículos segundo y tercero de este Acuerdo.
+
+La mercancía no podrá comercializarse en el mismo estado físico en que se importa.
 
 ###### ARTICULO QUINTO.
 
-Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las Representaciones Federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: www.cofemer.gob.mx.
+Las solicitudes de asignación del incremento al cupo mínimo mencionado en este Acuerdo, deberán presentarse en el formato SE-03-011-1 Solicitud de Asignación de Cupo, en la ventanilla de la Representación Federal de esta Secretaría que corresponda.
 
 ###### ARTICULO SEXTO.
 
-Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas señaladas en el artículo tercero de este instrumento, que tengan antecedentes de consumo de maíz amarillo importado bajo cupo en el año 2006, cuyas plantas industriales no estén ubicadas en los estados de Yucatán, Quintana Roo, Campeche y Tabasco, que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, y que comprueben ante el Comité Nacional Sistema-Producto Maíz que han ofrecido oportunidades de agricultura por contrato que no han sido concretadas, la asignación de la cuota adicional de importación de maíz amarillo, será conforme a lo siguiente:
+Una vez asignado el monto para importar dentro del arancel-cupo, la Secretaría, a través de la Dirección General de Comercio Exterior o de la Representación Federal correspondiente, expedirá los certificados de cupo, previa solicitud del interesado en el formato SE-03-013-5 Solicitud de certificados de cupo (obtenido por asignación directa).
 
-La Dirección General de Comercio Exterior recibirá la documentación que avale que el solicitante ha ofrecido oportunidades de agricultura por contrato que no han sido concretadas, y solicitará a la Dirección General de Desarrollo de Mercados presente dichos elementos, junto con la solicitud de asignación de cupo adicional de maíz amarillo, en consulta del Comité Nacional Sistema Producto Maíz, quien analizará y, en su caso, solicitará a las autoridades competentes el otorgamiento de las cuotas adicionales necesarias, el monto de dichas cuotas será determinado por el Comité, de acuerdo con la documentación que avale las oportunidades de agricultura por contrato que no han sido concretadas que presente el solicitante. Una vez realizado lo anterior, la Dirección General de Desarrollo de Mercados notificará el resultado de dicha consulta, así como el monto a asignar a la Dirección General de Comercio Exterior, quien otorgará el monto de cupo de importación de maíz amarillo que el Comité Nacional Sistema Producto Maíz haya determinado.
+El certificado de cupo es nominativo e intransferible.
+
+La vigencia máxima de los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de 2007 y será improrrogable.
 
 ###### ARTICULO SEPTIMO.
 
-Para las personas físicas o morales de las industrias: almidonera, cerealera, frituras y botanas y del sector pecuario (incluyendo la fabricación de alimentos balanceados) señaladas en el artículo tercero de este instrumento, que hayan acreditado ante Apoyos y Servicios a la Comercialización Agropecuaria (ASERCA/SAGARPA) lo dispuesto en el Anexo I de este instrumento, y que comprueben con el incremento en sus consumos de maíz amarillo y/o granos forrajeros mediante reporte de auditor externo, el incremento en su capacidad instalada o utilizada de 2007, respecto a la de 2006, y que cumplan con la hoja de requisitos correspondiente anexa a este instrumento, se les otorgará un monto extra de la cuota adicional de importación de maíz amarillo de la siguiente forma.
+Los formatos a que se hace referencia en este Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria en las siguientes direcciones electrónicas:
 
-En caso de que el solicitante se encuentre en el supuesto señalado en el párrafo anterior y cumpla con lo establecido en la hoja de requisitos correspondiente, podrá ingresar una nueva solicitud, asignándosele un monto extra de la cuota adicional de maíz amarillo equivalente a dos veces el incremento del consumo auditado de maíz amarillo y/o granos forrajeros del periodo enero-junio de 2007, respecto a los consumos de maíz amarillo y/o granos forrajeros del periodo enero-junio de 2006.
+a) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
 
-La información correspondiente al periodo enero-junio de 2006, deberá coincidir con el reporte de auditor presentado para la asignación del cupo mínimo de 2007 o, en su caso, el que presente para la asignación de la cuota adicional de maíz amarillo de 2007, la asignación del monto extra de la cuota adicional de importación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior de la Secretaría de Economía, sin que medie opinión por parte de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA.
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
+
+b) Para el formato de expedición del certificado de cupo (SE-03-013-5): “Solicitud de certificados de cupo (obtenido por asignación directa)”:
+
+http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-A
 
 ###### ARTICULO SEGUNDO.
 
-Los cupos descritos en las columnas (2), (3) y (5) del cuadro del artículo primero del presente Acuerdo, se asignarán de manera directa bajo la modalidad de “Primero en Tiempo, Primero en Derecho".
+Para la asignación del monto adicional a que se refiere el presente Acuerdo, se aplicará el mecanismo de asignación directa, conforme al siguiente cuadro:
 
-Los cupos de importación de bienes textiles y prendas de vestir no originarios, procedentes de Canadá, especificados en la columna (4) del cuadro del artículo primero del presente Acuerdo, son administrados por el gobierno canadiense, mediante la expedición de certificados de elegibilidad que otorga a sus empresas exportadoras.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTICULO QUINTO.
 
@@ -486,14 +498,8 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2007.
 
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004.
-
-TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
-
-CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
-
-México, D.F., a 26 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D. F., a 10 de agosto de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
