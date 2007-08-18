@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-sistema-para-el-desarrollo-integral-465
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-01"
-last_updated: "2005-10-01"
+last_updated: "2007-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 1 de octubre del 2005.
 
@@ -143,7 +143,11 @@ VI. Dirección de Atención a Personas con Discapacidad;
 
 VII. Unidad Administrativa;
 
-VIII. Unidad de Planeación, Evaluación y Finanzas; (sic)
+VIII. Unidad de Planeación, Evaluación y Finanzas;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2007)</small>
+
+IX. Centro de Desintoxicación para Personas con Problemas de Adicciones.
 
 ###### Artículo 7.
 
@@ -951,9 +955,93 @@ XXVIII. Participar en el proceso de planeación y evaluación de la función tec
 
 XXIX. Las demás funciones que le sean asignadas por la Presidenta del Patronato o la Dirección General del DIF Tabasco.
 
-### Capítulo VIII: Del Consejo Técnico de Adopciones
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
 
-### Capítulo IX: De las Suplencias de los Servidores Públicos del DIF
+### Capítulo VII Bis
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
+###### Artículo 42 Bis.
+
+El Centro de Desintoxicación para Personas COI Problemas de Adicciones, para el cumplimiento de su objeto, tendrá la (sic) siguientes atribuciones:
+
+l. Ofrecer consulta externa a pacientes con problemas de adicciones;
+
+II. Proporcionar atención médica integral, oportuna y de calidad mediante un programa de desintoxicación, estabilización y d terapia individual, grupal y familiar;
+
+III. Mantener un programa de post-tratamiento, a través de una red de servicios de cuidado continuo, que ofrecerá grupos terapéutico semanales;
+
+IV. Procurar capacitación y enseñanza dirigida al personal que labore en las Unidades Regionales, que se creen por las necesidades del servicio;
+
+V. Realizar fomento a la salud, en materia de adicciones en el ámbito de su competencia;
+
+VI. Realizar investigaciones sobre el problema de las adicciones en la población tabasqueña;
+
+VII. Dar cabal cumplimiento a las Normas Oficiales Mexicanas para la prevención, tratamiento y control de las adiciones y la prestación de servicios de asistencia social para menores y adultos mayores; y en general, a la normatividad sanitaria que se aplique a las actividades del Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+VIII. Gestionar recursos mediante donativos .y eventos sociales a través de patronatos y organizaciones, para la operación del Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+IX. Coordinarse y asesorarse para un mejor cumplimiento de su objeto, con las Instituciones públicas y privadas que atiendan problemas de adicciones;
+
+X. Asistir a la Dirección General en la suscripción de los acuerdos, convenios o contratos, con las instancias públicas y privadas, que le permitan el logro de su objeto, en materia de tratamiento integral de las adicciones;
+
+XI. Desempeñar todas aquellas actividades que le permitan el debido cumplimiento de sus atribuciones; y
+
+XII. Las demás que le encomiende la Dirección General.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
+###### Artículo 42 Bis 1.
+
+El Centro de Desintoxicación para Personas con Problemas de Adicciones, para su adecuado desempeño, contará con la siguiente estructura orgánica:
+
+l. Una Coordinación General;
+
+II. Una Sub-Coordinación Administrativa;
+
+III. Una Sub-Coordinación Clínica.
+
+El Centro de Desintoxicación para Personas con Problemas de Adicciones contará, además, con las Unidades Administrativas que se creen por las necesidades del servicio y que se autoricen en el presupuesto.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
+###### Artículo 42 Bis 2.
+
+El Centro de Desintoxicación para Personas con Problemas de Adicciones será presidido por un Coordinador General, con nivel de Director, y tendrá a su cargo el ejercicio de las siguientes facultades:
+
+l. Coordinar las actividades de atención medica integral, en materia de prevención y tratamiento de las adicciones que le corresponda al Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+II. Planear, programar, dirigir, evaluar y vigilar el adecuado funcionamiento del Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+III. Formular proyectos de inversión para su realización y aprobación, en su caso, por la Dirección General;
+
+IV. Administrar los recursos financieros, materiales y humanos que le sean asignados, para el desempeño de sus funciones;
+
+V. Presentar ante la Dirección General el proyecto de programación y presupuesto; así como las estimaciones de ingresos probables anuales del Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+VI. Someter a consideración de la Dirección General la designación del personal de las Unidades Administrativas que formen parte del Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+VII. Representar al Centro de Desintoxicación para Personas con Problemas de Adicciones y realizarlas actividades necesarias, de conformidad con sus facultades, para la consecución de su objeto;
+
+VIII. Proponer a la Dirección General las políticas y programas que, en materia de atención integral de adicciones, le competan al Centro de Desintoxicación para Personas con Problemas de Adicciones en beneficio de la población tabasqueña;
+
+IX. Informar trimestralmente a la Dirección General sobre el desarrollo de las funciones realizadas;
+
+X. Presentar ante la Dirección General las previsiones administrativas que éste debe realizar en forma anual, para el cumplimiento de sus atribuciones;
+
+XI. Dar seguimiento a los acuerdos suscritos por la Dirección General y verificar su oportuno cumplimiento;
+
+XII. Proponer a la Dirección General, la Creación de las Unidades Regionales necesarias, para el correcto ejercicio de sus obligaciones, correspondiéndole la responsabilidad de coordinarlas;
+
+XIII. Dotar a las Unidades Regionales de los recursos materiales, humanos y financieros, para el mejor cumplimiento de sus funciones, con cargo a su presupuesto asignado;
+
+XIV. Coordinar, realizar y participar en cursos, seminarios, foros, diplomados, actos culturales y programas que coadyuven a la difusión del control de las adicciones;
+
+XV. Vigilar el cumplimiento de las normas, lineamientos, políticas y procedimientos de carácter interno, que deban observar los servidores públicos adscritos al Centro de Desintoxicación para Personas con Problemas de Adicciones;
+
+XVI. Las demás que sean necesarias para el debido funcionamiento del Centro, así como las que señale la Dirección General.
+
+### Capítulo VIII: Del Consejo Técnico de Adopciones
 
 ###### Artículo 43.
 
@@ -982,6 +1070,8 @@ VI. Cuatro Consejeros que serán un profesional en psicología, un profesional e
 ###### Artículo 46.
 
 Las decisiones del Consejo Técnico de Adopciones deberá de tomarse por mayoría de votos de los integrantes del mismo que se encuentren presentes y serán de carácter irrevocable, en caso de empate el voto de calidad lo emitirá la Presidenta.
+
+### Capítulo IX: De las Suplencias de los Servidores Públicos del DIF
 
 ###### Artículo 47.
 
@@ -1022,3 +1112,11 @@ SECRETARIO DE SALUD
 L.E.P. ANA BEATRÍZ HERNÁNDEZ PERALTA
 
 DIRECTORA GENERAL DEL DIF TABASCO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la operación inicial del Centro y en su caso de las Unidades Regionales, se le deberá dotar de los recursos materiales, humanos y financieros necesarios para su buen funcionamiento.
