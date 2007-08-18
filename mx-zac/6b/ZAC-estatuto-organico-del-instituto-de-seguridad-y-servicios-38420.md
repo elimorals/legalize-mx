@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-seguridad-y-servicios-38420"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-13"
-last_updated: "2004-03-13"
+last_updated: "2007-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS., PUBLICADO EN EL P.O. DE 18 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de marzo de 2004.
 
@@ -614,3 +616,15 @@ Los Manuales de Organización y de Procedimientos y de Servicios al Público, de
 Los asuntos no previstos en la Ley del Instituto, en el presente Estatuto o demás disposiciones relativas, se estará a lo que al efecto acuerde la Junta Directiva.
 
 Aprobado por la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas, en Sesión celebrada en la Ciudad de Zacatecas, Zacatecas, en fecha 09 de Octubre del año 2003.- (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. DE 18 DE AGOSTO DE 2007.
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Segundo.- Se deroga el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado el día 13 de marzo del 2004 en el suplemento número 21, del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Tercero.- El contenido del artículo 23 de este Estatuto será aplicable en tanto se regularice lo referente a la emisión del dictamen financiero de los estados financieros correspondientes a los ejercicios fiscales 2003, 2004, 2005 y 2006, responsabilidad a cargo del Auditor Externo.
+
+Artículo Cuarto.- Todo lo no previsto en el presente Estatuto, se resolverá conforme a lo que determine la Junta Directiva, la Ley, el Manual o cualquier otra disposición legal o administrativa aplicable.
