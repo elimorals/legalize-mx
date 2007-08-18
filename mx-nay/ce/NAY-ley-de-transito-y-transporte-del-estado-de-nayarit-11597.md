@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2002-09-28"
+last_updated: "2007-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2007.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -1229,9 +1229,7 @@ Las personas físicas y morales como permisionarios, se obligarán a presentar l
 
 Los permisos para prestar el servicio público de transporte serán siempre temporales, durarán hasta 10 años y serán renovables siempre y cuando prevalezcan las condiciones que determinaron su otorgamiento, se esté al corriente en el pago de las contribuciones y derechos fiscales respectivos y las demás obligaciones inherentes.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2001)</small>
-
-ARTICULO 140 A.- Los permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios públicos de transporte, previa autorización de la Secretaría.
+ARTICULO 140 A.- (DEROGADO, P.O. 18 DE AGOSTO DE 2007)
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2001)</small>
 
@@ -1239,13 +1237,53 @@ ARTICULO 140 B.- Los permisos a que se refiere este Capítulo, se otorgarán a n
 
 La Secretaría General de Gobierno, vigilará que las asignaciones de permisos no generen prácticas monopólicas.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
+ARTICULO 140 C.- Una vez satisfechos los requisitos que prevé esta ley para el otorgamiento de permisos del servicio público de transporte, el Titular del Ejecutivo expedirá un título que deberá reunir los siguientes requisitos:
+
+I. Nombre y domicilio del permisionario;
+
+II. La modalidad del servicio público;
+
+III. Centro de población o región donde se prestará el servicio público, especificando el sitio o ruta según corresponda;
+
+IV. Derechos y obligaciones del permisionario;
+
+V. Plazo del permiso, especificando la fecha de su expedición;
+
+VI. Causas de extinción del permiso;
+
+VII. Nombre y firma del Titular del Poder Ejecutivo; y
+
+VIII. Las demás disposiciones que establezca la ley y acuerde la Secretaría General de Gobierno.
+
+El título donde se consigne el permiso, deberá inscribirse en el Registro Público de la Propiedad y del Comercio en la sección correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
+ARTICULO 140 D.- El titular de permiso del servicio de transporte público podrá registrar en la Dirección y en el Registro Público de la Propiedad y del Comercio, una lista de sucesores de los derechos consignados en el permiso, en la que consten los nombres de las personas y el orden de preferencia, conforme al cual deberá hacerse la adjudicación.
+
+La designación de sucesores será libre y se formalizará ante Notario Público, ésta podrá ser modificada por el titular, en cuyo caso será válida la de la fecha posterior.
+
+Previamente a la adjudicación, la autoridad deberá constatar que se observe lo dispuesto por los artículos 9 fracción V, 10 fracción IV, 14 fracción II inciso a), 125, 127 y demás disposiciones aplicables del presente ordenamiento.
+
 ###### ARTICULO 141.
 
 En caso que el permisionario opere simultáneamente otro o más vehículos distintos al que ampara el permiso, se procederá a revocarlo, con independencia de las sanciones y multas que penalmente correspondan.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 142.
 
-Las cesiones de derechos quedan prohibidas, en todo caso, se considerarán fraudulentas y solo podrán surtir efecto en beneficio de derechohabientes por orfandad o viudez.
+El permiso que por su naturaleza es inembargable, después de tres años de haberse otorgado, así como los derechos en él conferidos, será susceptibles de transmisión a terceros, mismos que deberán sujetarse previamente a las siguientes prescripciones:
+
+I. La transmisión del permiso no interrumpe el plazo previsto en el artículo 140 de la presente ley;
+
+II. Recabar de la autoridad las autorizaciones correspondientes en los términos a que alude el párrafo final del artículo 140 D de esta ley; y
+
+III. Protocolizar en escritura pública la transmisión mediante el pago del derecho correspondiente.
+
+Satisfechos los requisitos anteriores, el adquirente deberá tramitar ante la Dirección la expedición del título a que alude esta Ley.
 
 ###### ARTICULO 143.
 
@@ -1295,7 +1333,9 @@ I.- Por haber expirado el plazo señalado al momento de su otorgamiento o respec
 
 II.- Por revocación;
 
-III. Por renuncia o fallecimiento de su titular;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2007)</small>
+
+III. Por renuncia de su titular;
 
 IV.- Por renuncia o extinción de la persona moral permisionaria, y
 
@@ -1944,3 +1984,11 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 18 DE AGOSTO DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Los titulares de permisos del servicio público de transporte, contarán con un plazo de 6 meses contados a partir de la entrada en vigor de la presente reforma, para tramitar ante la Dirección el Título donde se contenga el permiso.
+
+Tercero. Las transmisiones de permisos del servicio público de transporte, que a la entrada en vigor del presente Decreto se hubieren realizado, deberán ser debidamente protocolizados en los términos indicados, en un plazo no mayor de 6 meses; en caso de omisión a esta disposición el Ejecutivo Estatal podrá revocarlos.
