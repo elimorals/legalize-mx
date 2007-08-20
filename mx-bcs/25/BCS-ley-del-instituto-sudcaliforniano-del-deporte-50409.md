@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-del-deporte-50409"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-30"
-last_updated: "2006-04-30"
+last_updated: "2007-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2007.
 
-Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el DOMINGO 30 de abril de 2006.
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de abril de 2006.
 
 NARCISO AGÚNDEZ MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -223,9 +223,13 @@ XIV. Administrar todas aquellas instalaciones deportivas de su competencia de ac
 
 XV. Nombrar, suspender, remover, en su caso, a los trabajadores que presten sus servicios en el Instituto, cuya designación no esté a cargo de la Junta de Gobierno;
 
-XVI. Imponer las medidas disciplinarias que se establezcan en el Reglamento Interior de acuerdo con la Ley de las Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, que sean necesarias para el buen funcionamiento de la institución; y
+XVI. Imponer las medidas disciplinarias que se establezcan en el Reglamento Interior de acuerdo con la Ley de las Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, que sean necesarias para el buen funcionamiento de la institución; y (sic)
 
-XVII. Las demás que le confiere esta Ley, el Reglamento Interior del Instituto y la Junta de Gobierno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE AGOSTO DE 2007)</small>
+
+XVII. Crear el Salón de la Fama del Deportista Sudcaliforniano; y
+
+XVIII. Las demás que le confiere esta Ley, el Reglamento Interior del Instituto y la Junta de Gobierno.
 
 ### CAPITULO CUARTO. PATRIMONIO DEL INSTITUTO
 
@@ -265,6 +269,14 @@ TERCERO.- Se deroga la Fe de Erratas al decreto 1290 en lo referente al Institut
 
 CUARTA (SIC).- La Junta de Gobierno del Instituto contará con un plazo no mayor a 60 días para aprobar su Reglamento Interior y con 90 días para aprobar sus Manuales de Organización y de Procedimientos.
 
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2007)</small>
+
+QUINTO.- La Junta de Gobierno del Instituto Sudcaliforniano del Deporte, contará con un plazo no mayor de 60 días a partir de la fecha de la aprobación de este Decreto, para elaborar el Reglamento del Salón de la Fama del Deporte Sudcaliforniano.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2007)</small>
+
+SEXTO.- La Junta de Gobierno del Instituto Sudcaliforniano del Deporte, a través de su Presidente, promoverá lo necesario para que el Gobierno del Estado, destine recursos económicos suficientes, para que el Salón de la Fama del Deportista Sudcaliforniano, que existe en las instalaciones del Instituto, sea rehabilitado en su totalidad; o en su caso la construcción de nuevas instalaciones, su mantenimiento, así como la asignación de recursos humanos para su óptima operación.
+
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ BAJA CALIFORNIA SUR, A LOS ONCE DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL SEIS.
 
 DIP. OCTAVIO RESENDIZ CORNEJO
@@ -288,3 +300,9 @@ NARCISO AGUNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL ULUARTE CASTRO
+
+B.O. 20 DE AGOSTO DE 2007.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
