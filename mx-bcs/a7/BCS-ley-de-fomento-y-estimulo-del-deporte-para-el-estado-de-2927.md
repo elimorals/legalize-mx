@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-y-estimulo-del-deporte-para-el-estado-de-2927"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-20"
-last_updated: "1999-06-20"
+last_updated: "2007-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO Y ESTIMULO DEL DEPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de junio de 1995.
 
@@ -329,11 +329,25 @@ IX.- Ejercer el derecho de voto en la agrupación a la que pertenezca y desempe�
 
 X.- Obtener de las autoridades el registro, reconocimiento y autorización, en su caso, que lo acredite como deportista, previo el cumplimiento de las normas de su deporte, en caso de participar en competencias con carácter selectivo;
 
-XI.- Recibir becas, estímulos, premios, recompensas y reconocimientos;
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2007)</small>
 
-XII.- Los discapacitados dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades; y
+XI.- Recibir becas, estímulos, premios, recompensas y reconocimientos, y pertenecer al Salón de la Fama del Deporte Sudcaliforniano;
 
-XIII.- Los demás que le otorguen esta ley u otros ordenamientos legales aplicables a cada caso.
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2007)</small>
+
+XII.- Los Sudcalifornianos que por su mérito ingresen al Salón de la Fama, serán seleccionadas por el Sistema Estatal del Deporte (SISEDE), a propuesta de las organizaciones deportivas de las diferentes disciplinas;
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2007)</small>
+
+XIII.- EL Sistema Estatal del Deporte, establecerá los requisitos que deberán reunir las propuestas, para que los deportistas distinguidos ingresen al Salón de la Fama del Deporte Sudcaliforniano;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2007)</small>
+
+XIV.- Los discapacitados, dispondrán de los espacios adecuados para el pleno desarrollo de sus actividades; y
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2007)</small>
+
+XV.- Los demás que le otorguen esta Ley, u otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO, B.O. 20 DE JUNIO DE 1999)</small>
 
@@ -538,3 +552,7 @@ El Reglamento Interior del Instituto Sudcaliforniano del Deporte se adecuará en
 ###### ARTÍCULO SÉPTIMO.
 
 Se deroga el decreto número 714, por el que se creó e Instituto de la Juventud y el Deporte en el Estado de Baja California Sur, de fecha 25 de mayo de 1989, publicado en el Boletín Oficial del Gobierno del Estado el día 5 de julio del mismo año.
+
+B.O. 20 DE AGOSTO DE 2007.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
