@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2000-del-pleno-del-consejo-de-la-46471"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-11-17"
-last_updated: "2006-02-17"
+last_updated: "2007-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-11-10"
 
 ACUERDO GENERAL 75/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y OBRA PUBLICA EN EL CONSEJO DE LA JUDICATURA FEDERAL, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTICULO 134 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2007.
 
 Acuerdo publicado en la Primera Sección Diario Oficial de la Federación, el viernes 17 de noviembre de 2000.
 
@@ -89,19 +89,33 @@ X. Programación y Presupuesto: La Dirección General de Programación y Presupu
 
 XI. Recursos Materiales y Servicios Generales: La Dirección General de Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal;
 
-XII. Administración Regional: Las Administraciones Regionales del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
-XIII. Areas Operativas: La Dirección General de Recursos Materiales y Servicios Generales, la Dirección General de Administración Regional, las Administraciones Regionales y las Delegaciones Administrativas del Consejo de la Judicatura Federal;
+XII. Administraciones de Edificios: Las Administraciones de Edificios del Distrito Federal y zona metropolitana del Consejo de la Judicatura Federal;
 
-XIV. Organos Administrativos: Los órganos administrativos que integran al Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
-XV. Organos Jurisdiccionales: Los Tribunales de Circuito y los Juzgados de Distrito del Poder Judicial de la Federación;
+XIII. Áreas Operativas: La Dirección General de Recursos Materiales y Servicios Generales, la Dirección General de Administración Regional, las Administraciones Regionales, las Delegaciones Administrativas y las Administraciones de Edificios en el Distrito Federal y zona metropolitana del Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+XIV. Órganos Administrativos: Los órganos administrativos que integran al Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+XV. Órganos Jurisdiccionales: Los Tribunales de Circuito y los Juzgados de Distrito del Poder Judicial de la Federación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
 XVI. Proveedor: La persona física o moral que suministre o arriende bienes muebles;
 
-XVII. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de servicios de cualquier naturaleza, según corresponda; y,
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
-XVIII. Día Hábil: Los días de labores del Consejo de la Judicatura Federal, comprendiéndose, los que se encuentran dentro de los periodos de sesiones conforme al artículo 70 de la Ley Orgánica del Poder Judicial de la Federación, excluyéndose los sábados y domingos, los que la propia Ley establece como inhábiles en el artículo 163, así como los que determine el Pleno mediante Acuerdos.
+XVII. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de servicios de cualquier naturaleza, según corresponda; y
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+XVIII. Día Hábil: Los días de labores del Consejo de la Judicatura Federal, comprendiéndose los que se encuentran dentro de los periodos de sesiones conforme al artículo 70 de la Ley Orgánica del Poder Judicial de la Federación, excluyéndose los sábados y domingos, los que la propia Ley establece como inhábiles en el artículo 163, así como los que determine el Pleno mediante Acuerdos.
 
 ###### ARTICULO 3o.
 
@@ -229,7 +243,9 @@ I. En caso de que el contrato se haya adjudicado mediante el procedimiento de li
 
 II. En caso de que el contrato se haya asignado mediante el procedimiento de adjudicación directa, o si constituye un caso de excepción pero su monto se encuentra dentro del parámetro fijado por el Consejo para adjudicación directa, será firmado únicamente por el Director General de Recursos Materiales y Servicios Generales.
 
-Los Administradores Regionales y los Delegados Administrativos podrán autorizar y suscribir las adjudicaciones de contratos que correspondan, así como los pedidos o las órdenes de trabajo que se deriven de aquéllos, conforme a los montos establecidos en las Políticas y Lineamientos para el Ejercicio Desconcentrado del Presupuesto de Egresos del Consejo de la Judicatura Federal, correspondiente al ejercicio de que se trate, aprobado por el Pleno.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+Los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios podrán autorizar y suscribir las adjudicaciones de contratos que correspondan, así como los pedidos o las órdenes de trabajo que se deriven de aquéllos, conforme a los montos establecidos en las Políticas y Lineamientos para el Ejercicio Desconcentrado del Presupuesto de Egresos del Consejo de la Judicatura Federal, correspondiente al ejercicio de que se trate, aprobado por el Pleno.
 
 ###### ARTICULO 18.
 
@@ -415,9 +431,11 @@ VIII. Invariablemente deberá incluirse en el orden del día un apartado corresp
 
 IX. En la primera sesión del año deberán analizarse los parámetros que regirán para los distintos procedimientos licitatorios en el ejercicio de que se trate, los cuales se someterán a consideración de la Comisión.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 27.
 
-DE LA PARTICIPACION DEL COMITE PARA LA DESCONCENTRACION ADMINISTRATIVA. El Comité, a través del funcionario o funcionarios que designe, auxiliará en los grupos de trabajo que se formen para concretar y fortalecer la desconcentración de funciones hacia las Administraciones Regionales y Delegaciones Administrativas del Consejo en materia de adquisiciones, arrendamientos, obras y servicios, coadyuvando en la creación, en su caso, de subcomités que realicen tareas semejantes, con los que establecerá la coordinación correspondiente.
+DE LA PARTICIPACION DEL COMITE PARA LA DESCONCENTRACION ADMINISTRATIVA. El Comité, a través del funcionario o funcionarios que designe, auxiliará en los grupos de trabajo que se formen para concretar y fortalecer la desconcentración de funciones hacia las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios del Consejo en materia de adquisiciones, arrendamientos, obras y servicios, coadyuvando en la creación, en su caso, de subcomités que realicen tareas semejantes, con los que establecerá la coordinación correspondiente.
 
 ### CAPITULO IV. DE LOS PROGRAMAS DE EJECUCION
 
@@ -493,9 +511,11 @@ COORDINACION Y RESPONSABILIDAD DE LAS AREAS OPERATIVAS. La Secretaría Ejecutiva
 
 Una vez autorizados los programas, las áreas operativas serán las responsables de su ejecución, debiendo informar mensualmente a la Secretaría Ejecutiva respecto del avance obtenido, para que ésta, a su vez, presente el informe a la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 32.
 
-DE LAS CONTRATACIONES NO PROGRAMADAS. Para la celebración de contrataciones no programadas, los órganos administrativos y jurisdiccionales de la zona metropolitana deberán solicitarlo mediante escrito dirigido a Recursos Materiales y Servicios Generales, debiendo acompañar a su solicitud las especificaciones detalladas de los bienes, servicios u obra pública requeridos, así como su justificación, expresando los motivos que la sustenten.
+DE LAS CONTRATACIONES NO PROGRAMADAS. Para la celebración de contrataciones no programadas, los órganos administrativos y jurisdiccionales del Distrito Federal y zona metropolitana, deberán solicitarlo mediante escrito dirigido a la Administración del Edificio que corresponda, debiendo acompañar a su solicitud las especificaciones detalladas de los bienes, servicios u obra pública requeridos, así como su justificación, expresando los motivos que la sustenten.
 
 Los requerimientos de adquisiciones, arrendamientos y prestación de servicios, así como de obra pública de los órganos jurisdiccionales y administrativos del interior de la República y de las casas del Fideicomiso del Programa para dotar de vivienda a Magistrados y Jueces del Poder Judicial de la Federación, serán atendidos a través de los Administradores Regionales y los Delegados Administrativos de conformidad con las disposiciones que emita al respecto la Secretaría Ejecutiva.
 
@@ -647,7 +667,9 @@ V. Las que por causas a ellas imputables no hubieren cumplido sus obligaciones r
 
 VI. Aquéllas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso, para la adjudicación de un contrato, en su celebración, durante su vigencia o en la presentación o desahogo de una inconformidad;
 
-VII. Las que cuenten con información sobre las características, precio de los bienes, servicios u obra a realizar por parte del Consejo, por haber participado en una licitación anterior sobre dichos bienes, servicios u obra, que los coloque en una situación privilegiada respecto de los demás proveedores o contratistas;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+Vll. Las que estén en una situación privilegiada respecto de los demás proveedores o contratistas, en virtud de contar con información sobre las características, precio de los bienes, servicios u obra a realizar por parte del Consejo, por haber participado en un procedimiento de contratación anterior sobre dichos bienes, servicios u obra;
 
 VIII. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables;
 
@@ -981,11 +1003,15 @@ De las operaciones que se celebren al amparo del presente artículo, las áreas 
 
 PROCEDIMIENTO PARA LA ADJUDICACION DIRECTA. Para la adjudicación directa que se realice en virtud de la naturaleza de la operación, conforme lo previsto en la fracción III del artículo 16 del presente Acuerdo, se deberá realizar el procedimiento siguiente:
 
-I. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, presentarán al Comité la propuesta de adjudicación debidamente fundada y motivada, en la que se indique las razones por las que resulta conveniente realizar la contratación mediante el procedimiento de adjudicación directa, señalando el monto de la misma, acompañando en su caso el curriculum del proveedor o contratista propuesto y demás condiciones o elementos que considere pertinentes;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+I. Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, presentarán al Comité la propuesta de adjudicación debidamente fundada y motivada, en la que se indique las razones por las que resulta conveniente realizar la contratación mediante el procedimiento de adjudicación directa, señalando el monto de la misma, acompañando, en su caso, el currículum del proveedor o contratista propuesto y demás condiciones o elementos que considere pertinentes;
 
 II. El Comité autorizará la adjudicación con los elementos presentados; y,
 
-III. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, procederán a la formalización del contrato o pedido respectivo.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+III. Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, procederán a la formalización del contrato o pedido respectivo.
 
 ###### ARTICULO 71.
 
@@ -1069,9 +1095,11 @@ Para los procedimientos anteriores, además de lo dispuesto por este artículo, 
 
 ARTICULO 72 TER.- SUPERVISION. La supervisión es la responsable de la vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por el contratista, de conformidad con lo establecido en las bases y contrato respectivo, misma que deberá realizarse por la persona física o moral, que para tal efecto haya designado el Comité, previo informe que rinda a la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 73.
 
-EVALUACION DE LAS PROPUESTAS. Para la adjudicación de los contratos, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, evaluarán las propuestas con el objeto de apreciar su solvencia, las características técnicas mínimas, la calidad, tiempo, lugar y condiciones de entrega o de ejecución y demás circunstancias establecidas en las bases o invitación respectiva, calificando únicamente aquellos concursantes que cumplan con la totalidad de los aspectos enunciados, independientemente de que la materia sea de adquisiciones, arrendamientos, prestación de servicios u obra pública.
+EVALUACION DE LAS PROPUESTAS. Para la adjudicación de los contratos, Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, evaluarán las propuestas con el objeto de apreciar su solvencia, las características técnicas mínimas, la calidad, tiempo, lugar y condiciones de entrega o de ejecución y demás circunstancias establecidas en las bases o invitación respectiva, calificando únicamente aquellos concursantes que cumplan con la totalidad de los aspectos enunciados, independientemente de que la materia sea de adquisiciones, arrendamientos, prestación de servicios u obra pública.
 
 En caso de que los concursantes hayan manifestado en sus propuestas, de conformidad con las bases de licitación, estar en posibilidad de ofertar los insumos requeridos por debajo de los precios del mercado, el área correspondiente lo deberá tomar en cuenta al realizar la evaluación.
 
@@ -1093,7 +1121,9 @@ PLAZO PARA FORMALIZAR CONTRATOS. Los contratos deberán formalizarse dentro del 
 
 Si el interesado no firma el contrato por causas imputables a él, dentro del plazo a que se refiere el párrafo anterior, el Comité podrá autorizar, sin necesidad de un nuevo procedimiento, que el contrato se adjudique al participante que haya presentado la siguiente propuesta solvente más baja, de conformidad con lo asentado en el dictamen respectivo, y así sucesivamente, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento.
 
-En caso de que ningún participante se encuentre dentro de dicho rango, se someterá para aprobación del Comité una propuesta que elaborará Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, en la que incluirán el análisis de la conveniencia de adjudicar al segundo lugar, aun cuando no se encuentre dentro del rango antes mencionado o realizar un nuevo procedimiento para su adjudicación.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+En caso de que ningún participante se encuentre dentro de dicho rango, se someterá para aprobación del Comité una propuesta que elaborará Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, en la que incluirán el análisis de la conveniencia de adjudicar al segundo lugar, aun cuando no se encuentre dentro del rango antes mencionado o realizar un nuevo procedimiento para su adjudicación.
 
 El interesado a quien se haya adjudicado el contrato no estará obligado a suministrar los bienes, prestar el servicio o realizar la obra correspondiente, si el Consejo, por conducto del funcionario competente en términos de este Acuerdo, por causas imputables a él, no firma el contrato. En este supuesto, el Consejo, a solicitud escrita del interesado le cubrirá los gastos no recuperables que haya realizado para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el proceso de adjudicación de que se trate.
 
@@ -1183,11 +1213,15 @@ PORCENTAJE DE ANTICIPO. En las contrataciones en materia de adquisiciones de bie
 
 Tratándose de contratos de obra pública y servicios relacionados con la misma, con autorización del Comité, previo informe que rinda a la Comisión, se otorgará un anticipo de hasta el cincuenta por ciento del monto total del contrato como máximo; y conforme a los mismos requisitos, podrá otorgarse un anticipo adicional, para la adquisición de equipos y materiales de importación que se requieran para la realización de la obra. El monto del anticipo adicional, se realizará de acuerdo al tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana, publicado por el Banco de México, vigente a la fecha de adquisición.
 
-En las contrataciones que se realicen por conducto de las Administraciones Regionales y Delegaciones Administrativas, la Dirección General de Administración Regional, podrá otorgar anticipos hasta por un treinta y cinco por ciento del monto total de la contratación, previa autorización del Comité y a propuesta de los Administradores Regionales y Delegados Administrativos, quienes justificarán la conveniencia de su otorgamiento.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+En las contrataciones que se realicen por conducto de las administraciones regionales, delegaciones administrativas y Administraciones de Edificios, la Dirección General de Administración Regional o la Dirección General de Recursos Materiales y Servicios Generales según corresponda, podrán otorgar anticipos hasta por un treinta y cinco por ciento del monto total de la contratación, previa autorización del Comité y a propuesta de los Administradores Regionales, Delegados Administrativos y los Administradores de Edificios, quienes justificarán la conveniencia de su otorgamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 81.
 
-DE LAS AREAS ENCARGADAS DE ESTABLECER EL PORCENTAJE DE ANTICIPO. De acuerdo a la naturaleza y particularidades de la contratación, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, establecerán el porcentaje de anticipo que se otorgará en la contratación de que se trate.
+DE LAS AREAS ENCARGADAS DE ESTABLECER EL PORCENTAJE DE ANTICIPO. De acuerdo a la naturaleza y particularidades de la contratación, Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, establecerán el porcentaje de anticipo que se otorgará en la contratación de que se trate.
 
 Tratándose de contrataciones de adquisiciones, los anticipos se otorgarán únicamente cuando se trate de adquisición de bienes de fabricación especial o sobre diseño, y en aquéllas en que por las condiciones del mercado, y a solicitud de los proveedores, resulte necesario y no cause perjuicio al Consejo.
 
@@ -1247,13 +1281,17 @@ ARTICULO 88 BIS.- PAGOS EN EXCESO. Tratándose de pagos en exceso que haya recib
 
 No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista sean compensadas en la estimación inmediata siguiente.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 89.
 
-INFORME DEL AJUSTE. Cuando ocurran circunstancias no previstas en el contrato que originen un aumento o reducción del precio pactado o de los costos de los trabajos, Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, elaborarán un informe detallado que contenga el ajuste de precios o costos, emitiendo su opinión respecto de la procedencia y lo presentarán al Comité, a fin de que lo autorice, de considerarlo conveniente.
+INFORME DEL AJUSTE. Cuando ocurran circunstancias no previstas en el contrato que originen un aumento o reducción del precio pactado o de los costos de los trabajos, Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, elaborarán un informe detallado que contenga el ajuste de precios o costos, emitiendo su opinión respecto de la procedencia y lo presentarán al Comité, a fin de que lo autorice, de considerarlo conveniente.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 90.
 
-RECEPCION Y VERIFICACION DE LOS SERVICIOS. Recursos Materiales y Servicios Generales o Administración Regional, según corresponda, serán las responsables de la recepción de los bienes y de los servicios prestados, por lo que verificarán que cumplan con las especificaciones establecidas en el contrato respectivo.
+RECEPCION Y VERIFICACION DE LOS SERVICIOS. Recursos Materiales y Servicios Generales, Administración Regional o las Administraciones de Edificios, según corresponda, serán las responsables de la recepción de los bienes y de los servicios prestados, por lo que verificarán que cumplan con las especificaciones establecidas en el contrato respectivo.
 
 > <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 53/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2005)</small>
 
@@ -1263,13 +1301,17 @@ TERMINACION DE LOS TRABAJOS. Tratándose de obra pública, el contratista comuni
 
 Recibidos físicamente los trabajos, las partes deberán elaborar, dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
 
-De existir desacuerdo entre las partes respecto al finiquito, o bien, si el contratista no acude ante el Consejo para su elaboración, dentro del plazo señalado en el contrato, éste procederá a elaborarlo debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda. Si trascurrido este plazo no realiza alguna gestión, se tendrá por aceptado, sin que proceda reclamación posterior.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+De existir desacuerdo entre las partes respecto al finiquito, o bien, si el contratista no acude ante el Consejo para su elaboración, dentro del plazo señalado en el contrato, éste procederá a elaborarlo debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión.
 
 Determinado el saldo total, el Consejo pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva o en su caso, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 92.
 
-RECEPCION DE SERVICIOS Y TRABAJOS CONTRATADOS POR ADMINISTRACIONES REGIONALES Y DELEGACIONES ADMINISTRATIVAS. Tratándose de contrataciones realizadas por las Administraciones Regionales y Delegaciones Administrativas, ellas serán las responsables de la recepción de los bienes, los servicios prestados y de los trabajos de obra pública correspondientes, debiendo proceder conforme lo señalado en los puntos precedentes, e informar sobre la recepción a la Dirección General de Administración Regional.
+RECEPCION DE SERVICIOS Y TRABAJOS CONTRATADOS POR ADMINISTRACIONES REGIONALES, DELEGACIONES ADMINISTRATIVAS Y ADMINISTRACIONES DE EDIFICIOS. Tratándose de contrataciones realizadas por las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios, ellas serán las responsables de la recepción de los bienes, los servicios prestados y de los trabajos de obra pública correspondientes, debiendo proceder conforme lo señalado en los puntos precedentes, e informar sobre la recepción a la Dirección General de Administración Regional o a la Dirección General de Recursos Materiales y Servicios Generales, según corresponda.
 
 ###### ARTICULO 93.
 
@@ -1624,3 +1666,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente Acuerdo.
+
+D.O.F. 21 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional, así como al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, según corresponda.
