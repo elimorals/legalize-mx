@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2007-05-01"
+last_updated: "2007-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -539,7 +539,13 @@ XLII.- Designar entre sus miembros las comisiones permanentes o transitorias par
 
 XLIII.- Representar legalmente al Municipio con todas las facultades de un apoderado general con las limitaciones que marca la Ley; nombrar asesores y delegados, y otorgar poderes generales y especiales para pleitos y cobranzas.
 
-XLIV.- Las demás que determina este Código o cualquier otra Ley y sus reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2007)</small>
+
+XLIV.- Establecer los Centros de Mediación Municipal necesarios conforme a la ley de la materia.
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+
+XLV.- Las demás que determina este Código o cualquier otra Ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -674,6 +680,10 @@ XIX.- Rendir a la población un informe anual detallado del estado que guarda la
 XX.- Solicitar autorización del Ayuntamiento para ausentarse de la cabecera del Municipio por períodos mayores de cinco días.
 
 XXI.- Imponer las sanciones administrativas a los que infrinjan el bando de policía y buen gobierno, por sí o a través de un juez calificador.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
+
+XXII.- Promover ante el Ayuntamiento la creación de Centros de Mediación Municipal en términos de la ley de la materia.
 
 ###### ARTICULO 56.
 
@@ -996,6 +1006,12 @@ Tratándose de infracciones a los reglamentos de policía y buen gobierno, la Po
 ###### ARTICULO 76.
 
 La organización y funcionamiento de la Policía Preventiva se regirá por lo dispuesto en la Ley de Seguridad Pública para el Estado de Tamaulipas, y en ningún caso se permitirá el funcionamiento del servicio secreto u organizaciones similares de Policía Preventiva Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 76 Bis.
+
+Los Centros de Mediación Municipal se regirán por lo dispuesto en la Ley de Mediación para el Estado, su reglamento y demás disposiciones que resulten aplicables.
 
 ### CAPITULO XIII. DE LOS ORGANISMOS DE COLABORACION
 
@@ -3622,3 +3638,17 @@ P.O. 1 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Mediación del Estado de Tamaulipas se establecerá con base en la disponibilidad presupuestal. Hasta en tanto no sea establecido, sus facultades serán asumidas por el Instituto para la Reforma Integral del Sistema de Seguridad y Justicia.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los seis meses posteriores a la entrada en vigor de este Decreto, el Pleno del Supremo Tribunal de Justicia del Estado expedirá el Reglamento Interno a que se refiere el artículo 25 de la Ley de Mediación para el Estado de Tamaulipas.
