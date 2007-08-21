@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2006-11-09"
+last_updated: "2007-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -443,9 +443,11 @@ Las unidades globalizadoras deberán informar al Pleno sobre cualquier variació
 
 El Consejo deberá incluir en los informes trimestrales, un reporte sobre el monto total erogado durante el periodo correspondiente a los contratos a que se refiere este artículo. Asimismo, deberá incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos del presente Acuerdo General y de la Ley.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 41.
 
-El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Administraciones Regionales y Delegaciones Administrativas, conforme al presente Acuerdo General y demás disposiciones aplicables.
+El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios del Distrito Federal y zona metropolitana, conforme al presente Acuerdo General y demás disposiciones aplicables.
 
 ###### Artículo 42.
 
@@ -771,7 +773,9 @@ III. A solicitud de las unidades ejecutoras de gasto, después de satisfacer el 
 
 En todos los casos, las adecuaciones presupuestarias que realice la Secretaría, deberán apegarse a las disposiciones legales y normativas aplicables.
 
-A nivel de gasto regional, la Dirección General de Administración Regional y las Administraciones Regionales realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
+A nivel de gasto desconcentrado, las Direcciones Generales de Administración Regional y Recursos Materiales y Servicios Generales, así como las Administraciones Regionales y las Administraciones de Edificios del Distrito Federal y zona metropolitana, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
 
 De los movimientos realizados la Secretaría deberá informar periódicamente a la Comisión y al Pleno.
 
@@ -789,9 +793,11 @@ IV. Cuando lo solicite de manera expresa la Comisión.
 
 ### CAPITULO IV. De la Desconcentración del Ejercicio del Gasto
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 26/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 80.
 
-Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría podrá desconcentrar en las Administraciones Regionales y Delegaciones Administrativas, la realización de funciones presupuestales y operaciones financieras, en los términos del presente Acuerdo General y demás disposiciones aplicables.
+Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría podrá desconcentrar en las Administraciones Regionales, Delegaciones Administrativas y las Administraciones de Edificios del Distrito Federal y zona metropolitana, la realización de funciones presupuestales y operaciones financieras, en los términos del presente Acuerdo General y demás disposiciones aplicables.
 
 ###### Artículo 81.
 
@@ -1252,3 +1258,13 @@ SEPTIMO.- La Dirección General de Recursos Humanos deberá realizar lo conducen
 OCTAVO.- La Dirección General de Recursos Materiales y Servicios Generales deberá realizar lo conducente para contar con un sistema de inventarios de activo fijo que permita un control administrativo, registro contable y el manejo adecuado de los inventarios, a más tardar en el ejercicio fiscal de 2007.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de treinta de octubre de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers y Miguel A. Quirós Pérez.- México, Distrito Federal, a treinta de octubre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 21 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 75/2000, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para que las Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública en el Consejo de la Judicatura Federal se Ajusten a los Criterios Contemplados en el Artículo 134 Constitucional, así como al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal, según corresponda.
