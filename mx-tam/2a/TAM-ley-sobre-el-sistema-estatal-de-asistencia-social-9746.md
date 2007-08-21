@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2006-09-06"
+last_updated: "2007-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -225,9 +225,9 @@ V.- Promover el impulso del sano crecimiento físico, mental y social de la niñ
 
 VI.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-VII.- Prestar servicios de asistencia jurídica y de orientación social, especialmente a los sujetos mencionados en el artículo 5º de esta ley;
+VII.- Prestar servicios de asistencia jurídica, de orientación social y de mediación, especialmente a los sujetos mencionados en el artículo 5º de esta ley;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -435,13 +435,17 @@ XXIV.- Proponer a las autoridades correspondientes la adaptación o readaptació
 
 XXV.- Cuidar a niños expósitos investigando la solvencia moral de quienes los pretenden adoptar, vigilando el proceso de integración de los adoptados;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito; y
+XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-XXVII.- Las demás que establezcan las disposiciones aplicables en la materia.
+XXVII.- Prestar servicios de mediación a través de los Centros que al efecto se establezcan conforme a la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
+
+XXVIII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 20.
 
@@ -583,9 +587,17 @@ VI.- Planear, dirigir y controlar el funcionamiento del organismo con sujeción 
 
 VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del organismo;
 
-VIII.- Actuar en representación de la Junta de Gobierno con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-IX.- Las demás que sean necesarias para el ejercicio de las anteriores.
+VIII.- Actuar en representación de la Junta de Gobierno con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+
+IX.- Establecer Centros de Mediación previo acuerdo de la Junta de Gobierno, en los términos de la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
+
+X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 33.
 
@@ -756,3 +768,17 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Mediación del Estado de Tamaulipas se establecerá con base en la disponibilidad presupuestal, hasta en tanto no sea establecido, sus facultades serán asumidas por el Instituto para la Reforma Integral del Sistema de Seguridad y Justicia.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los seis meses posteriores a la entrada en vigor de este Decreto, el Pleno del Supremo Tribunal de Justicia del Estado expedirá el Reglamento Interno a que se refiere el artículo 25 de la Ley de Mediación para el Estado de Tamaulipas.
