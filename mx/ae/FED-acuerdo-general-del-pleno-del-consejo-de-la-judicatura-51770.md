@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2006-11-17"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE AGOSTO DE 2007.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -179,15 +179,47 @@ Los jueces de distrito que participen en los concursos para la designación de m
 
 El Consejo, a través del Instituto o del órgano designado por el Pleno, deberá expedir y entregar las constancias necesarias que acrediten fehacientemente el lugar, día y hora en que los servidores públicos realizaron su inscripción, sustentaron los exámenes, aprobaron los cursos y, en su caso, asistieron a los cursos propedéuticos correspondientes.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 20 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES., D.O.F. 22 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 20.
 
-El Pleno podrá expedir nombramiento de Magistrado de Circuito o de Juez de Distrito a quien, habiendo ocupado alguno de dichos cargos, se hubiese separado de él por motivos personales o causas legales que, por no ser de gravedad, no constituyan impedimento insalvable.
+El Pleno podrá reincorporar a quien, habiendo ocupado el cargo de magistrado de Circuito o de juez de Distrito, se hubiese separado de él por motivos personales o causas legales que, por no ser de gravedad, no constituyan impedimento insalvable.
 
-Presentada, por una sola vez, la solicitud de reincorporación, la que deberá formularse por escrito de manera respetuosa y motivada, el Pleno, en sesión privada, examinará la solicitud. En dicha sesión se evaluará el desempeño que el solicitante hubiese tenido en su trayectoria dentro del Poder Judicial de la Federación, la conducta personal observada en su actuación y la fama pública de que goce después de separado, y la conveniencia que su otorgamiento pudiere resultar para el buen servicio. La decisión en el sentido de otorgar el nombramiento solicitado deberá tomarse por al menos cinco votos.
+La solicitud de reincorporación, referida a la última categoría desempeñada, deberá presentarse, en única ocasión, ante la Secretaría Ejecutiva del Pleno.
 
-No procederá la solicitud de nombramiento si el motivo de separación se hubiera dado por declaración de incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Tampoco procederá, cuando la causa de separación hubiera derivado de actos constitutivos de delito, de reiteradas faltas a la moral o a la disciplina, o alguna otra que se considere totalmente incompatible con la función jurisdiccional, tales como las señaladas en las fracciones I a VI del artículo 131 de la Ley. La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
+La solicitud de reincorporación, deberá formularse por escrito de manera respetuosa y motivada, a la que se acompañará:
 
-La solicitud de nombramiento y, en su caso, su otorgamiento, deberán referirse a la última categoría desempeñada.
+a) Currículum Vitae;
+
+b) Constancia de las actividades profesionales desarrolladas durante el tiempo en que estuvo separado del cargo; y
+
+c) Constancia de las actividades académicas realizadas en ese periodo.
+
+Recibida la solicitud, el Secretario Ejecutivo observará el siguiente procedimiento:
+
+I. Formará y registrará el expediente bajo el número que le corresponda;
+
+II. Ordenará que se publique el inicio del procedimiento de reincorporación por una vez en el Diario Oficial de la Federación, así como la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en el portal WEB del Consejo y en los estrados y lugares más visibles de los órganos jurisdiccionales ubicados en el o los circuitos en los que el solicitante se hubiera desempeñado como titular, a efecto de hacer saber al público en general, el nombre de la persona que solicita su reincorporación para que, dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente al en que se hubiera publicado en el Diario Oficial de la Federación, cualquier persona pueda formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con esa solicitud;
+
+III. Comunicará el inicio del trámite al solicitante respectivo y le entregará un ejemplar de la guía de estudio aprobada para los concursos internos de oposición de la plaza a reincorporar. Asimismo, lo citará para que en la fecha y hora determinadas por la Comisión, presente examen escrito de conocimientos, elaborado con base en la guía de estudio;
+
+IV. Realizado el examen a que se refiere la fracción anterior, se señalará día y hora para que el interesado sea entrevistado por la Comisión de Carrera Judicial. De esta diligencia se levantará acta circunstanciada y se hará registro de audio e imagen;
+
+V. Requerirá al Contralor del Poder Judicial de la Federación para que rinda un informe de la evolución de la situación patrimonial del solicitante durante el tiempo en que se desempeñó como titular de un órgano jurisdiccional;
+
+VI. Requerirá a la Dirección General de Recursos Humanos para que remita en original o copia el expediente personal del solicitante;
+
+VII. Ordenará recabar la información estadística sobre la actividad del solicitante en los órganos en que se hubiese desempeñado como titular;
+
+VIII. Solicitará a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección practicadas, de los informes circunstanciados rendidos y de los procedimientos administrativos disciplinarios incoados en contra del servidor público; y
+
+IX. Turnará el expediente al Consejero Presidente de la Comisión a fin de que elabore el dictamen correspondiente para someterlo al Pleno.
+
+El Pleno, en la sesión correspondiente evaluará el desempeño que el solicitante tuvo en su trayectoria dentro del Poder Judicial de la Federación, la conducta observada en su actuación, la fama pública de que goce después de separado, su preparación profesional, así como la conveniencia de su reincorporación. La decisión en el sentido de aceptar la reincorporación al cargo de juez de Distrito o magistrado de Circuito, según el caso, deberá tomarse por al menos cinco votos.
+
+Aprobada la reincorporación y una vez que se designe el órgano de adscripción, el funcionario deberá rendir la protesta que exige el artículo 97 de la Constitución Federal.
+
+No procederá la reincorporación si el motivo de separación se dio por declaración de incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Tampoco procederá, cuando la causa de separación hubiera derivado de actos constitutivos de delito, de reiteradas faltas a la moral o a la disciplina, o alguna otra que se considere totalmente incompatible con la función jurisdiccional, tales como las señaladas en las fracciones I a VI del artículo 131 de la Ley. La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
 
 ### Capítulo II. De la Adscripción
 
@@ -1372,3 +1404,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 22 DE AGOSTO DE 2007.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación; y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página WEB del Consejo de la Judicatura Federal.
+
+TERCERO.- Los procedimientos de reincorporación que, a la entrada en vigor de este acuerdo, se estén tramitando, se sujetarán a las disposiciones de este acuerdo.
