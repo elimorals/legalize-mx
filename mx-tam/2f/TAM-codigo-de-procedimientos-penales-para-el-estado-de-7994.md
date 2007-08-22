@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2006-09-12"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1968,6 +1968,24 @@ Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes
 No se obligará a declarar al tutor, pupilo o cónyuge del inculpado ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados y en la colateral hasta el cuarto inclusive, ni a los que estén ligados con el inculpado por afecto, respeto, gratitud o estrecha amistad.
 
 La circunstancia anterior se hará saber a estas personas y si tuvieren voluntad de declarar se les recibirá su declaración por el Ministerio Público o por el Juez en su caso y se hará constar lo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+ARTICULO 249 BIS.- No estarán obligados a declarar sobre la información que reciban, conozcan o tengan en su poder:
+
+I.- Los abogados, y los notarios, respecto de los asuntos en los cuales hubieran intervenido y tengan información que deban reservarse para el ejercicio de su profesión;
+
+II.- Los ministros de cualquier culto, con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten;
+
+III.- Los periodistas, respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta pudiera llevar a la identificación de las personas que, con motivo del ejercicio de su actividad, les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado;
+
+IV.- Los que tengan la obligación legal de no revelar secretos;
+
+En caso de que alguna o algunas de las personas comprendidas en las fracciones anteriores manifiesten su deseo de declarar y cuenten con el consentimiento expreso de quien les confió el secreto, información o confesión, se hará constar dicha circunstancia y se recibirá su declaración o testimonio.
+
+La reserva de información que, por disposición de la propia ley, deben guardar los servidores públicos, se hará del conocimiento de la autoridad que requiera la declaración o testimonio y, en todo caso, se estará a lo dispuesto en la ley que rija las facultades del servidor público correspondiente.
+
+Al servidor público que viole lo dispuesto en este artículo, se le aplicarán las penas a que se refiere el artículo 212 del Código Penal del Estado, pero si el delito es cometido contra la administración de justicia establecido en el articulo 232, se le aplicarán las penas a que se refiere el artículo 233 ambos del mismo ordenamiento.
 
 ###### ARTICULO 250.
 
@@ -4394,3 +4412,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes que establezcan las leyes del Sistema Integral de Justicia para Adolescentes, a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo que disponga la ley especial reglamentaria de los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y los dispositivos correspondientes de la Constitución Política del Estado.
 
 Para determinar las medidas de tratamiento contenidas en la ley estatal de justicia juvenil, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
