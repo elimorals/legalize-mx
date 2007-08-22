@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-08-15"
+last_updated: "2007-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -437,7 +437,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO (SIC). DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -457,9 +457,9 @@ II.- Los funcionarios que a continuación se indican, si no se separan definitiv
 
 A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Fiscal General del Estado, el Fiscal General Adjunto y Fiscales Regionales, el Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores Dependientes del Ejecutivo;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-B) Los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado; y los Jueces de Primera Instancia;
+B) Los Magistrados y Consejeros de la Magistratura del Poder Judicial del Estado; y los Jueces de Primera Instancia;
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -627,11 +627,11 @@ I.- Al Gobernador del Estado;
 
 II.- A los Diputados;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
-III.- Al Supremo Tribunal de Justicia del Estado en materia de su ramo; y
+III. A la Magistratura Superior del Estado en materia de su ramo; y (sic),
 
-IV.- A los Ayuntamientos en asuntos municipales.
+IV.- A los Ayuntamientos en asuntos municipales;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -739,9 +739,9 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
-XXX.- Expedir convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en los Poderes del Estado que sean de elección popular, y en los ayuntamientos cuando estos desaparecieren por alguna circunstancia, así como en aquellos casos en que el tribunal electoral declare la nulidad de cualquiera de las elecciones;
+XXX.- Expedir convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en los Poderes del Estado que sean de elección popular, y en los Ayuntamientos cuando estos desaparecieren por alguna circunstancia, así como en aquellos casos en que el Tribunal de Justicia Electoral y Administrativa declare la nulidad de cualquiera de las elecciones;
 
 XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o sublevación interior, si no lo hubiere hecho antes el Ejecutivo del Estado;
 
@@ -753,9 +753,9 @@ XXXIII.- Recibir del Órgano de Fiscalización Superior del Congreso (sic) Estad
 
 XXXIV.- Publicar su Memoria anual de labores;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
-XXXV.- Dirimir los conflictos que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia del Estado, salvo que se trate de controversias sobre la constitucionalidad de sus actos, las que están reservadas a la Suprema Corte de Justicia de la Nación;
+XXXV.- Dirimir los conflictos que se susciten entre el Ejecutivo y la Magistratura Superior del Estado, salvo que se trate de controversias sobre la constitucionalidad de sus actos, las que están reservadas a la Suprema Corte de Justicia de la Nación;
 
 XXXVI.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
@@ -781,9 +781,9 @@ XLV.- Sancionar las licencias mayores de quince días que soliciten los integran
 
 XLVI.- Expedir todas las leyes que sean necesarias con objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los otros Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
-XLVII.- Instituir al Tribunal Electoral del Poder Judicial del Estado, así como al Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y demás legislación aplicable;
+XLVII.- Instituir al Tribunal de Justicia Electoral y Administrativa del poder Judicial del Estado, así como al Instituto Estatal Electoral, en los términos de lo dispuesto por esta Constitución y demás legislación aplicable;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1075,9 +1075,9 @@ XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año resp
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
-XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados del Supremo Tribunal y el respectivo del Tribunal del Servicio Civil del Poder Judicial del Estado;
+XXI. Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados del Poder Judicial;
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
@@ -1153,7 +1153,9 @@ En el caso de delitos electorales, la Institución del Ministerio Público, actu
 
 En la investigación y persecución de los demás delitos del fuero común la Institución del Ministerio Público ejercerá sus atribuciones a través de la Fiscalía General del Estado, auxiliándose de una policía que estará bajo su autoridad y mando inmediato; por lo tanto le corresponderá solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde, asimismo, velar porque los juicios de tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
 
-La Fiscalía General del Estado es un Organismo Público Autónomo, con personalidad jurídica y patrimonio propios que estará presidida por un Fiscal General, quien deberá cumplir los mismos requisitos para ser Magistrado del Supremo Tribunal de Justicia del Estado; será propuesto por el Titular del Poder Ejecutivo y designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos, por la Comisión Permanente con la misma votación calificada. La designación o rechazo de la propuesta, se deberá realizar dentro de un plazo de siete días naturales, si el Congreso o la Comisión Permanente no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el Ejecutivo deberá realizar una nueva propuesta, mientras tanto podrá designar un Fiscal Interino. La ley establecerá la organización y funcionamiento de la Fiscalía General del Estado.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+La Fiscalía General del Estado es un Organismo Público Autónomo, con personalidad jurídica y patrimonio propios que estará presidida por un Fiscal General, quien deberá cumplir los mismos requisitos que para ser Magistrado de la Magistratura Superior del Estado; será propuesto por el Titular del Poder Ejecutivo y designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos, por la Comisión Permanente con la misma votación calificada. La designación o rechazo de la propuesta, se deberá realizar dentro de un plazo de siete días naturales, si el Congreso o la Comisión Permanente, no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el Ejecutivo deberá realizar una nueva propuesta, mientras tanto podrá designar un Fiscal Interino. La Ley establecerá la organización y funcionamiento de la Fiscalía General del Estado.
 
 El Fiscal General del Estado durará en su cargo seis años, podrá ser designado para un segundo periodo; deberá presentar anualmente al Congreso del Estado un informe de actividades.
 
@@ -1633,9 +1635,9 @@ Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los 
 
 Para los efectos de este título, tendrán el carácter de Servidores Públicos, los Representantes de elección Popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Paraestatal, Municipal, así como del Instituto Estatal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-El Gobernador del Estado, los Diputados Estatales, los Magistrados del Supremo Tribunal de Justicia del Estado y los Presidentes Municipales, sólo serán responsables por violaciones graves a la Constitución General de la República, a la del Estado y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos.
+El Gobernador del Estado, los Diputados Estatales, los Magistrados del Poder Judicial del Estado y los Presidentes Municipales, solo serán responsables por violaciones graves a la Constitución General de la República, a la del Estado y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1657,11 +1659,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado, los Secretarios de Despacho, el Fiscal General del Estado, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Contralor General, los Vocales Ejecutivos, Los Coordinadores Generales, los Presidente (sic) Municipales, los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
+Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado, los Secretarios de Despacho, el Fiscal General del Estado, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidente Municipales, los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
 
 > <small>(ADICIONADO [N. DE E. ANTES SEGUNDA PARTE DEL PRIMER PARRAFO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -1671,19 +1673,19 @@ Cuando el Gobernador del Estado, los Diputados al Congresos del Estado, los Magi
 
 Cuando los Servidores Públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las Leyes de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectivamente ante la Sala Superior del Supremo Tribunal de Justicia, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
+Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Constitucional de la Magistratura Superior del Estado, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-En conocimiento de la acusación, y erigido el Tribunal de Sentencia, la Sala Superior aplicará la sanción correspondiente mediante resolución emitida cuando menos por cinco votos de los miembros presentes reunidos en pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una comisión del Jurado de acusación integrada por dos diputados.
+En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal Constitucional de la Magistratura Superior del Estado aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de los miembros presentes reunidos en pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una comisión del jurado de acusación integrada por dos diputados.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
@@ -1691,11 +1693,11 @@ Las sanciones consistirán en la destitución del Servidor Público y en su inha
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la Ley penal cometidos por el Gobernador del Estado, por los diputados locales, por los magistrados y Consejeros de la Judicatura del Poder Judicial, por los Secretarios y Subsecretarios de despacho, por el Procurador General y Subprocuradores de Justicia; el Contralor General, los vocales ejecutivos, los coordinadores generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal y de fideicomisos públicos, por el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales; el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en Jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales del Orden Común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados Locales, por los Magistrados y Consejeros de la Magistratura Superior del Estado, por los Secretarios y Subsecretarios de Despacho, por el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales; el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral; el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros Servidores Públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los Tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros de la Judicatura del Poder Judicial del Estado incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de su miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del Orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado incurran en delitos Federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo, la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1709,19 +1711,19 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 73.
 
-De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y la Sala Superior del Supremo Tribunal de Justicia en Tribunal de Sentencia; el Jurado de Acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de inculpabilidad, el Servidor Público continuará en el ejercicio de su cargo, si fuere la de culpabilidad quedará separado inmediatamente del mismo y se turnará el caso a la Sala Superior del Supremo Tribunal de Justicia del Estado en Pleno, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos diputados locales, resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
+De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y el Tribunal Constitucional de la Magistratura Superior del Estado erigida en Tribunal de Sentencia; el Jurado de Acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de inculpabilidad, el servidor público continuará en el ejercicio de su cargo, si fuere la inculpabilidad quedará separado inmediatamente del mismo y se turnará el caso al Tribunal Constitucional de la Magistratura Superior del Estado en pleno, con audiencia del encausado, de su defensor y de una comisión del jurado de acusación integrada por dos diputados locales, resolverá por mayoría de votos lo que proceda de acuerdo con la ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones por responsabilidad administrativa, además de las que señalen las Leyes, serán personales y patrimoniales; las primeras consistirán en la suspensión, destitución e inhabilitación del Servidor Público y las segundas deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 70 fracción III, de esta Constitución, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca la Sala Superior del Supremo Tribunal de Justicia del Estado.
+La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca el Tribunal Constitucional de la Magistratura Superior del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1733,13 +1735,13 @@ La responsabilidad por delitos cometidos por cualquier Servidor Público será e
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 70 de esta propia Constitución.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 75.
 
-Las declaraciones y resoluciones del Congreso del Estado y del Supremo Tribunal de Justicia del Estado emitidas en los casos a que se refiere este título son inatacables.
+Las declaraciones y resoluciones del Congreso del Estado y de la Magistratura Superior del Estado emitidas en los casos a que se refiere este título son inatacables.
 
-En todos los casos señalados en este título en que el inculpado sea Diputado al Congreso del Estado o Magistrado del Supremo Tribunal de Justicia del Estado, éste desde luego, será inhabilitado para intervenir en la votación correspondiente.
+En todos los casos señalados en este titulo en que el inculpado sea Diputado al Congreso del Estado o Magistrado del Poder Judicial, este desde luego, será inhabilitado para intervenir en la votación correspondiente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1761,11 +1763,11 @@ Todos los funcionarios públicos del Estado percibirán una compensación por su
 
 Todos los funcionarios y empleados del Estado y de los Municipios, al tomar posesión de sus cargos, harán protesta formal de respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador, los Magistrados, el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales, los Agentes del Ministerio Público, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Procurador General, Subprocuradores, los Agentes del Ministerio Público, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, el Oficial Mayor de Gobierno, los Secretarios del Supremo Tribunal de Justicia, los Actuarios, Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como arbitradores, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales, los Agentes del Ministerio Público, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, los Secretarios y actuarios del Poder Judicial, los Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2934,3 +2936,9 @@ Décimo Séptimo.- Se derogan todas aquellas disposiciones que se opongan al pre
 P.O. 15 DE AGOSTO DE 2007.
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+Primero.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
