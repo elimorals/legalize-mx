@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-para-adolescentes-del-estado-de-sinaloa-51701"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 11 de septiembre de 2006.
 
@@ -581,9 +581,11 @@ Cuando se detenga a una persona por un hecho que requiera querella de parte ofen
 
 La detención se notificará inmediatamente a sus padres, tutores o representantes, y cuando no sea posible, se les notificará en el plazo más breve posible.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 47.
 
-El adolescente detenido en flagrancia queda a disposición del Ministerio Público para Adolescentes, quien deberá proceder a su remisión dentro de las treinta y seis horas siguientes, o bien ordenar su libertad.
+El adolescente detenido en flagrancia queda a disposición del Ministerio Público para Adolescentes, quien deberá proceder a su remisión dentro de las cuarenta y ocho horas siguientes, o bien ordenar su libertad.
 
 ###### Artículo 48.
 
@@ -1915,6 +1917,22 @@ d) Si existieran adolescentes menores de catorce años privados de su libertad, 
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+###### ARTÍCULO OCTAVO.
+
+La Sala de Circuito Especializada para Adolescentes a que se refiere el artículo 36, segundo párrafo, de la Ley Orgánica del Poder Judicial del Estado de Sinaloa, así como los artículos 8, fracción VII; 16, fracción IV; 197; y, 206 de la Ley de Justicia para Adolescentes del Estado de Sinaloa, podrá iniciar su funcionamiento cuando el Pleno del Supremo Tribunal de Justicia haga las evaluaciones correspondientes en el ámbito de aplicación del Sistema Estatal atingente al Poder Judicial, si de las mismas resulta adecuado para la consecución de los objetivos de la propia Ley.
+
+Las evaluaciones deberán realizarse, dentro de los dieciséis meses siguientes a la iniciación de la vigencia de la Ley de Justicia para Adolescentes del Estado de Sinaloa.
+
+En tanto transcurre el término señalado en el párrafo anterior, la Cuarta Sala del Supremo Tribunal de Justicia conocerá y resolverá los recursos correspondientes a la Sala de Circuito Especializada para Adolescentes.
+
+Asimismo, la Dirección Especializada en Justicia para Adolescentes a que se refieren los artículos 20, fracción IX; 45 Bis; y, 45 Ter de la Ley Orgánica del Ministerio Público del Estado de Sinaloa, podrá iniciar su funcionamiento después que el Consejo Ministerial de la Procuraduría General de Justicia del Estado haga las evaluaciones correspondientes en el ámbito de aplicación del Sistema Estatal atingente a dicha institución. Las evaluaciones deberán realizarse en los mismos términos señalados en el párrafo segundo de este artículo.
+
+En tanto transcurre el término señalado en el párrafo segundo de este artículo, la Dirección de Averiguaciones Previas de la Procuraduría General de Justicia del Estado, conocerá de la materia correspondiente a la Dirección Especializada en Justicia para Adolescentes.
+
+Si de las evaluaciones que realicen el Pleno del Supremo Tribunal de Justicia y el Consejo Ministerial de la Procuraduría General de Justicia del Estado, se determina la pertinencia del funcionamiento de la Sala de Circuito Especializada para Adolescentes y de la Dirección Especializada en Justicia para Adolescentes, se tomarán de inmediato las providencias para su implementación. En caso de que se concluya, que para el cumplimiento del objeto de la Ley de Justicia para Adolescentes del Estado de Sinaloa, es mejor que la Cuarta Sala del Supremo Tribunal de Justicia y la Dirección de Averiguaciones Previas de la Procuraduría General de Justicia del Estado, respectivamente, sean las que tengan las atribuciones de seguir conociendo de la materia a que se refiere este artículo, el Supremo Tribunal de Justicia y el Poder Ejecutivo presentarán a la consideración de este H. Congreso del Estado, las iniciativas que conforme a Derecho procedan.
+
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los siete días del mes de septiembre de dos mil seis.
 
 C. FRANCISCO JAVIER RODRÍGUEZ ESPINOZA
@@ -1952,3 +1970,11 @@ Dr. Ernesto Cebreros Murillo.
 El Secretario de Salud
 
 Dr. Héctor Ponce Ramos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el 12 de septiembre de 2007, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
