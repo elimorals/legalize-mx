@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2006-09-12"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -959,7 +959,9 @@ XIV. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores P�
 
 XV. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan implicar responsabilidad administrativa, aplicando la sanción que corresponda y, en su caso, turnarlos al Ministerio Público;
 
-XVI. Intervenir, para efectos de verificación, en los actos de entrega y recepción intermedia y final de las unidades administrativas de las dependencias y entidades de la administración pública estatal y municipal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XVI. Intervenir, para efectos de verificación y recepción intermedia y final de las unidades administrativas de las dependencias y entidades de la administración pública estatal;
 
 XVII. Brindar asesoría y apoyo técnico a los órganos de control interno del gasto público municipal, cuando así lo soliciten;
 
@@ -1124,3 +1126,9 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
