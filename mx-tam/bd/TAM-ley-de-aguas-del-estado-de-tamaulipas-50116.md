@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2006-02-15"
+last_updated: "2007-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULlPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -787,7 +787,9 @@ II. Los titulares de tres dependencias municipales, las que serán, preferenteme
 
 III. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
-IV. Un Diputado al Congreso del Estado del distrito donde desarrolle sus funciones el organismo operador; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+IV. Un Diputado al Congreso del Estado con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
 
 V. Tres representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social del Municipio, de entre quienes se nombrará al Secretario.
 
@@ -807,7 +809,9 @@ I. Los presidentes municipales de los municipios que hayan celebrado convenio;
 
 II. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
-III. Un Diputado al Congreso del Estado del distrito o distritos donde desarrolle sus funciones el organismo operador; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+III. Un Diputado al Congreso del Estado con residencia en el distrito o los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
 
 IV. Tres representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social en el territorio de los municipios asociados, quienes serán designados en los términos del decreto de creación que corresponda, debiendo uno representar, preferentemente, a los usuarios domésticos, otro a los comerciales y de servicio, y el último a los industriales.
 
@@ -2033,6 +2037,10 @@ g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria 
 
 2. Todos los usuarios, tanto del sector público, social y privado, están obligados al pago de los servicios públicos conforme a los precios y tarifas que se establezcan y actualicen en los términos de esta ley por el prestador de dichos servicios.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y discapacitados hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia.
+
 ###### Artículo 142.
 
 Las tarifas para calcular el cobro por el servicio de agua deberán considerar en su estructura niveles de consumo para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo a fin de promover el uso eficiente del agua.
@@ -2632,3 +2640,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de febrero del año dos mil seis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE AGOSTO DE 2007.
+
+DECRETO No. LIX-963
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+DECRETO No. LIX-966
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
