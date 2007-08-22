@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2007-02-21"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -378,6 +378,10 @@ VI. TRAMITAR Y RESOLVER LOS RECURSOS ADMINISTRATIVOS QUE INTERPONGAN LOS CIUDADA
 VII. INTERVENIR EN LOS JUICIOS O ANTE CUALQUIER AUTORIDAD EN DEFENSA DE LOS INTERESES DE LA HACIENDA PUBLICA ESTATAL Y DE LA PROPIA SECRETARIA.
 
 VIII. PARTICIPAR Y REPRESENTAR AL GOBERNADOR DEL ESTADO, EN LOS CONVENIOS QUE SE CELEBREN CON LA FEDERACION PARA ASUMIR POTESTADES HACENDARIAS EN MATERIA FEDERAL Y EJERCERLAS EN LOS TERMINOS QUE SEÑALEN LAS LEYES.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+VIII-A. CELEBRAR CONVENIOS DE COLABORACION CON LA FEDERACION Y CON OTROS ESTADOS PARA IMPLEMENTAR PROYECTOS DE PRESTACION DE SERVICIOS.
 
 IX. CELEBRAR CONVENIOS CON LOS MUNICIPIOS PARA LA ADMINISTRACION DE CONTRIBUCIONES Y APROVECHAMIENTOS, ASI COMO LOS QUE DERIVEN DE LOS CONVENIOS CON LA FEDERACION, LA ADMINISTRACION DE SISTEMAS Y LA ASESORIA EN MATERIA CATASTRAL, CON ESTRICTO APEGO A SU AUTONOMIA Y EN CUMPLIMIENTO A LO DISPUESTO POR LA CONSTITUCION POLITICA LOCAL Y DEMAS LEGISLACION APLICABLE.
 
@@ -1384,3 +1388,9 @@ P.O. 21 DE FEBRERO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
