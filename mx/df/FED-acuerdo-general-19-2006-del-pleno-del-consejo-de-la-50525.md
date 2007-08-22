@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-19-2006-del-pleno-del-consejo-de-la-50525"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2007-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50525&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-03-15"
 
 ACUERDO GENERAL 19/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL MECANISMO PARA EFICIENTAR LA DETERMINACION DEL DESTINO FINAL DE LOS BIENES DECOMISADOS Y ASEGURADOS NO RECLAMADOS PUESTOS A DISPOSICION DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 27/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ADMINISTRACION Y DESTINO DE BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICION DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Sexta Sección del Diario Oficial de la Federación, el miércoles 31 de mayo de 2006.
 
@@ -146,3 +148,37 @@ TERCERO.- La Contraloría del Poder Judicial de la Federación elaborará el for
 CUARTO.- Se derogan el párrafo segundo del artículo 3o., el artículo 4o., así como el cuarto párrafo del numeral 5o., del Acuerdo del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Atención de los Asuntos Relacionados con los Bienes Asegurados y Decomisados a que se Refieren los Artículos 40 y 41 del Código Penal para el Distrito Federal en Materia de Fuero Común y para Toda la República en Materia de Fuero Federal, aprobado en sesión de diecinueve de agosto de mil novecientos noventa y ocho; así como las demás disposiciones que se opongan al presente Acuerdo.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 19/2006, del Pleno del Consejo de la Judicatura Federal, que Establece el Mecanismo para Eficientar la Determinación del Destino Final de los Bienes Decomisados y Asegurados no Reclamados Puestos a Disposición del Propio Consejo, fue aprobado por el Pleno del propio Cuerpo Colegiado, en sesión de quince de marzo de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a diecinueve de mayo de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 22 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Este Acuerdo deberá publicarse en el Diario Oficial de la Federación, y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Atención de los Asuntos Relacionados con los Bienes Asegurados y Decomisados a que se Refieren los Artículos 40 y 41 del Código Penal para el Distrito Federal en Materia de Fuero Común y para Toda la República en Materia de Fuero Federal, aprobado en sesión de diecinueve de agosto de mil novecientos noventa y ocho; así como el Acuerdo General 19/2006, del Pleno del Consejo de la Judicatura Federal, publicado en el Diario Oficial de la Federación el treinta y uno de mayo de dos mil seis, y las demás disposiciones administrativas emitidas con anterioridad, que se opongan a lo dispuesto en el presente Acuerdo.
+
+CUARTO.- La Contraloría del Poder Judicial de la Federación, a través de la Dirección General de Responsabilidades, entregará a la unidad administrativa que designe el titular de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, los expedientes que obren en sus archivos relacionados con bienes asegurados no reclamados y decomisados respecto de los cuales se hayan expedido los certificados de disponibilidad respectivos, en un plazo que no deberá de exceder de sesenta días naturales contados a partir de la publicación de este Acuerdo.
+
+Asimismo, con apoyo de la Dirección General de Aplicaciones Informáticas, el sistema informático que estableció la Contraloría, a fin de que sea utilizado por dicha Secretaría Ejecutiva para el adecuado ejercicio de sus funciones.
+
+QUINTO.- Corresponderá a la Dirección General de Aplicaciones Informáticas, en coordinación con la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, el diseño e implantación del programa informático que se requiera para la debida operación y funcionamiento del Registro a que se refiere el artículo 10 del presente Acuerdo.
+
+SEXTO.- La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales con apoyo de Asuntos Jurídicos, propondrá al Pleno el formato de constancia de adjudicación a que se refiere el artículo 44 de este Acuerdo.
+
+SEPTIMO.- La Secretaría Ejecutiva de Finanzas, en un lapso no mayor de cuarenta y cinco días naturales, contados a partir de la publicación del presente Acuerdo, propondrá a la Comisión de Administración, para su autorización, los Manuales de Normas y Procedimientos correspondientes.
+
+OCTAVO.- Los titulares de los órganos jurisdiccionales podrán acordar sobre el destino de los bienes asegurados no reclamados y decomisados puestos a disposición del Consejo, que tengan un valor menor al equivalente a seis meses de salario mínimo general vigente para el Distrito Federal, preferentemente a la expedición del certificado de disponibilidad respectivo.
+
+La determinación del destino de dichos bienes que realicen los titulares de los órganos jurisdiccionales, deberá comunicarse a la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales.
+
+NOVENO.- El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales del Consejo de la Judicatura Federal, deberá solicitar a los titulares de los órganos jurisdiccionales que emitan los certificados de disponibilidad correspondientes, a la mayor brevedad posible, a partir de la entrada en vigor del presente Acuerdo, para su remisión a la citada Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, para lograr lo previsto en el artículo 242 de la Ley Orgánica del Poder Judicial de la Federación y demás relativos.
+
+Para tales efectos, podrán consultar la información del sistema informático, contenido en el portal del Consejo de la Judicatura Federal, implementado por la Contraloría del Poder Judicial de la Federación.
+
+El formato de certificado de disponibilidad que deberá ser utilizado por los titulares de los órganos jurisdiccionales, será el que dicha Contraloría remitió a través del Oficio-Circular CA/BA/002/2006, de veintiocho de junio de dos mil seis, en cumplimiento a lo dispuesto por el artículo Tercero Transitorio del Acuerdo General 19/2006, del Pleno del Consejo de la Judicatura Federal, con la salvedad de que deberá modificarse el fundamento para expedir los mismos, una vez que entre en vigor el presente Acuerdo.
+
+DECIMO.- Para los efectos de lo previsto en los artículos 12 y 19 de este Acuerdo, la Secretaría Ejecutiva de Finanzas deberá auxiliar a la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, para que en un plazo que no deberá exceder de noventa días naturales contados a partir de la publicación del presente Acuerdo, se emita el proyecto de resolución de los bienes asegurados no reclamados y decomisados consistentes en numerario, respecto de los cuales se haya emitido el certificado de disponibilidad respectivo, para que los recursos puedan ser aplicados al Fondo de Apoyo a la Administración de Justicia.
+
+DECIMOPRIMERO.- Toda referencia que se haga en otros acuerdos a la Contraloría del Poder Judicial de la Federación como unidad administrativa encargada de los asuntos relacionados con bienes asegurados no reclamados y decomisados, se entenderá hecha a la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, de conformidad con lo previsto en el presente Acuerdo.
