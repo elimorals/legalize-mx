@@ -1,0 +1,472 @@
+---
+title: "LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE TAMAULIPAS"
+identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
+country: "mx"
+rank: "ley"
+publication_date: "2007-08-22"
+last_updated: "2007-08-22"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tam"
+scjn_id: "57174"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "101"
+reform_count: "49"
+scjn_last_update: "2026-09-29"
+issue_date: "2007-07-04"
+state: "TAM"
+---
+# LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE TAMAULIPAS
+
+LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
+
+EUGENIO HERNÁNDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y EL ARTÍCULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O No. LIX-959
+
+MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 1.
+
+1. Las presentes disposiciones son de orden público, interés social y de aplicación obligatoria en el Estado de Tamaulipas, y se dictan con base en lo dispuesto por los artículos 4, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, y 17 fracción III de la Constitución Política del Estado.
+
+2. Esta ley complementa y desarrolla, en el ámbito estatal, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y tiene por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, para lo cual establece los principios y modalidades que propiciarán y asegurarán el acceso a las mujeres a una vida sin violencia, donde se favorezcan su desarrollo y bienestar.
+
+3. Toda acción que se desprenda de la aplicación e interpretación de esta ley tenderá a la prevención, atención y erradicación de usos y prácticas de ejercicio de la violencia contra las mujeres, así como a su correspondiente sanción, en su caso, sea con base en sus disposiciones o en cualesquiera otras de carácter administrativo, civil o penal tendentes a dichos objetivos.
+
+4. En la aplicación e interpretación de esta ley se considerarán los principios constitucionales de igualdad jurídica entre la mujer y el hombre, respeto a la dignidad humana de las mujeres, no discriminación y libertad de la mujer; así como las previsiones de la Ley General para Prevenir y Erradicar la Discriminación en el Estado de Tamaulipas.
+
+###### Artículo 2.
+
+1. En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
+
+a) implementar mecanismos certeros que sustenten la igualdad jurídica entre mujeres y hombres;
+
+b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
+
+c) evitar por todos los medios las prácticas discriminatorias;
+
+d) asegurar el pleno disfrute de los derechos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
+
+e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la libertad y los derechos de la mujer en su sentido más amplio.
+
+###### Artículo 3.
+
+1. Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
+
+a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
+
+b) Física: cualquier acción u omisión que produzca un daño no accidental en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
+
+c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
+
+d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones laborales semejantes;
+
+e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad humana, integridad, libertad y seguridad; y
+
+f) Diversa: cualquier forma análoga que lesione o pueda lesionar la dignidad, integridad o libertad de la mujer.
+
+### Capítulo II. Modalidades de la violencia
+
+###### Artículo 4.
+
+1. Violencia familiar contra la mujer es toda acción u omisión abusiva intencional de poder dirigida a dominarla, someterla, controlarla o agredirla física, verbal, psicológica, patrimonial, económica o sexualmente, dentro o fuera del domicilio común o familiar, cuando el agresor tenga o haya tenido relación matrimonial, de concubinato, parentesco por consanguinidad o afinidad, o cualquier relación de hecho que haya implicado la convivencia en un domicilio común o familiar.
+
+2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres víctimas de la violencia familiar.
+
+3. Al efecto, impulsarán modelos de atención, prevención y sanción, con base en los siguientes elementos:
+
+a) brindar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, a efecto de favorecer la reparación del daño que se le haya producido, así como facilitarle su empoderamiento;
+
+b) otorgar servicios de reeducación al individuo agresor de carácter integral, especializado y gratuito, para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y, en general, los patrones de comportamiento basados en la superioridad del sexo masculino;
+
+c) procurar que la atención que se otorgue tanto a la víctima como al agresor, se ejecute por persona distinta y en lugares diferentes; en particular, se favorecerá la separación y alejamiento de la víctima y su agresor; y
+
+d) establecer inmuebles que sirvan como refugio para víctimas y sus descendientes, los cuales funcionarán gratuitamente.
+
+###### Artículo 5.
+
+1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
+
+2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación o todo tipo de discriminación por condiciones de género.
+
+3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
+
+###### Artículo 6.
+
+1. Violencia comunitaria contra la mujer es toda acción u omisión abusiva intencional de poder que a partir de actos individuales o colectivos que transgreden los derechos fundamentales de toda mujer, propiciando su denigración, discriminación, marginación o exclusión de carácter público.
+
+2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres de la violencia en la comunidad.
+
+3. Al efecto, impulsarán modelos de atención, prevención y sanción, sobre la base de los siguientes elementos:
+
+a) promover la educación y reeducación libre de estereotipos, sobre roles o papeles sociales predeterminados o la superioridad de los varones;
+
+b) dar seguimiento al comportamiento violento de los individuos, grupos o ámbitos de la sociedad, en perjuicio de las mujeres; y
+
+c) establecer un banco de datos en el cual obren las órdenes de protección y las personas sujetas a ellas, a efecto de generar el intercambio de información de las diversas instancias y, con base en sus resultados, realizar las acciones necesarias de política criminal.
+
+###### Artículo 7.
+
+1. Violencia institucional contra la mujer es toda acción u omisión abusiva de cualquier servidor público de los órdenes estatal o municipal que la discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y disfrute de sus derechos y libertades fundamentales; así como la que pretenda obstaculizar u obstaculice el acceso de la mujer al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las manifestaciones y modalidades de violencia conceptualizadas en esta ley.
+
+2. En el cumplimiento de sus atribuciones, todo servidor público deberá ejercer funciones de prevención de acciones u omisiones de violencia contra la mujer. Cunado (sic) el servidor público se percate de alguna acción u omisión de esa naturaleza, deberá dar aviso a la autoridad competente para su debida atención.
+
+###### Artículo 8.
+
+1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, las agresiones e incluso, la privación de la vida de la mujer.
+
+2. Los individuos o la comunidad de determinada circunscripción territorial del Estado podrán plantear la declaratoria de alerta de violencia de género, con la finalidad de enfrentar, sancionar y erradicar la violencia feminicida.
+
+3. La alerta de violencia de género constituye el conjunto de acciones de las instituciones públicas del Estado para enfrentar, sancionar y erradicar la violencia feminicida en un municipio o región determinados de la entidad federativa. Esta acción pugnará por garantizar la seguridad de las mujeres y el cese de la violencia en su contra. Al efecto, podrá establecerse un grupo interinstitucional y multidisciplinario con perspectiva de género que brinde seguimiento a las acciones emprendidas, ya sean preventivas, de seguridad o de justicia, así como que elabore los reportes especiales por zona y el comportamiento de los índices de violencia contra las mujeres. En su caso, se les otorgará la publicidad en términos de la alerta.
+
+4. La declaratoria de alerta de violencia de género contra las mujeres, podrá emitirse por el Ejecutivo del Estado, cuando:
+
+a) la comisión de delitos contra la vida, la integridad personal, la libertad y la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada y por su magnitud la sociedad así lo reclame;
+
+b) exista un agravio que impida en forma generalizada el ejercicio pleno de los derechos humanos por parte de las mujeres; y
+
+c) Lo (sic) soliciten los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado Mexicano sea parte.
+
+### Capítulo III. De las Órdenes de Protección
+
+###### Artículo 9.
+
+1. Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, para salvaguardar sus derechos, siendo fundamentalmente precautorias y cautelares.
+
+2. Dichas órdenes deberá emitirlas la autoridad competente que conozca de los hechos que constituyan violencia en contra de las mujeres.
+
+3. Las órdenes de protección son de carácter personal e intransferible, pudiendo ser:
+
+a) de emergencia;
+
+b) preventivas; o
+
+c) de naturaleza meramente civil.
+
+4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 72 horas y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+
+5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
+
+###### Artículo 10.
+
+1. Son órdenes de protección de emergencia las siguientes:
+
+a) las que determinan que el agresor deba desocupar el domicilio común o familiar donde habita la víctima, sin importar si el agresor acredita derechos reales respecto del inmueble o la titularidad de algún contrato, bastando que la víctima habite ese sitio;
+
+b) la prohibición al agresor de acercarse al domicilio, lugar de trabajo, de estudios, y al de los ascendientes y descendientes de la víctima;
+
+c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste; y
+
+d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+
+2. Son órdenes de protección preventivas las siguientes:
+
+a) la retención de cualquier arma de fuego, cortante, punzo-cortante o punzo-contundente del agresor, sean propias o las posea con motivo de prestación de servicios lícitos;
+
+b) la elaboración de un inventario de bienes muebles e inmuebles de propiedad o uso común, incluyendo los implementos de trabajo de la víctima;
+
+c) el uso y disfrute de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
+
+d) el apoyo policial a la víctima para tener acceso seguro al momento de tomar sus pertenencias personales y las de sus descendientes;
+
+e) la entrega inmediata de los objetos de uso personal y documentos de identidad de la víctima y de sus descendientes;
+
+f) el auxilio policial en favor de la víctima, con autorización para ingresar a su domicilio en su ayuda; y
+
+g) brindar servicios de reeducación de carácter integral, especializado y gratuito, con perspectiva de género al agresor, en instituciones públicas debidamente acreditadas.
+
+3. Son órdenes de protección de naturaleza civil las siguientes:
+
+a) la suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+b) la prohibición al agresor de enajenar o gravar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+c) la posesión exclusiva de la víctima sobre el inmueble que sirve como domicilio particular; y
+
+d) la garantía de otorgar pensión alimenticia provisional e inmediata.
+
+4. Las órdenes de protección de naturaleza civil ameritan simultáneamente la promoción por la vía civil que corresponda al hecho de que se trate, sin demérito de que los titulares de los órganos jurisdiccionales valoren las órdenes de protección dictadas previamente o, en su caso, en ejercicio de sus atribuciones determinen las medidas pertinentes, pero siempre prefiriéndose las que brinden mayor protección a la víctima.
+
+### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+
+### Capítulo V. De las atribuciones
+
+###### Artículo 11.
+
+1. El Estado y los municipios se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+2. Las medidas que se implementen para logar (sic) su objeto deberán ser ajenas a cualquier práctica discriminatoria.
+
+3. El Sistema Estatal se integrará con los titulares de:
+
+a) la Secretaría de Desarrollo Social, Cultura y Deporte;
+
+b) la Secretaría de Seguridad Pública;
+
+c) la Procuraduría General de Justicia;
+
+d) la Secretaría de Salud del Estado;
+
+e) la Secretaría de Educación del Estado;
+
+f) los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios;
+
+g) el Instituto de la Mujer Tamaulipeca; y
+
+h) las corporaciones policiales preventivas municipales.
+
+4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
+
+###### Artículo 12.
+
+1. El Sistema Estatal impulsará el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a que se refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y sus acciones se realizarán en concordancia a los preceptos de ese ordenamiento, enriqueciéndolos, en su caso, con las premisas y circunstancias que deriven de los aspectos culturales y las costumbres en determinada región que sean útiles para salvaguardar el propósito de la presente ley estatal.
+
+2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres.
+
+### Capítulo VI. De la atención y refugio para víctimas
+
+###### Artículo 13.
+
+1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte:
+
+a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
+
+b) conducir la política estatal integral desde la perspectiva de género, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerándose al efecto los términos de la política nacional de la materia;
+
+c) fomentar el desarrollo social con una visión integral que garantice a las mujeres una vida libre de violencia;
+
+d) impulsar la promoción, el conocimiento y el respeto de los derechos humanos de las mujeres;
+
+e) contribuir al funcionamiento y consolidación del Sistema Estatal;
+
+f) efectuar acciones encaminadas a mejorar las condiciones de vida de las mujeres;
+
+g) promover políticas de igualdad de condiciones entre hombres y mujeres, que tiendan a la eliminación de las desproporciones y desequilibrio de género;
+
+h) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+i) participar en la elaboración del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres a que refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+j) promover, en coordinación con la Federación, programas y proyectos de atención, educación, derechos humanos de las mujeres y erradicación de la violencia en su contra, en los términos del Programa referido en el inciso anterior;
+
+k) difundir ampliamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta ley;
+
+l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia; y
+
+m) las demás que le confieren esta ley u otros ordenamientos aplicables.
+
+2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Desarrollo Social, Cultura y Deporte. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+###### Artículo 14.
+
+1. A la Secretaría de Seguridad Pública, le corresponde:
+
+a) instrumentar cursos de capacitación al personal administrativo y operativo, que les permita atender responsablemente los casos de violencia contra las mujeres;
+
+b) integrar un archivo que contenga los antecedentes, circunstancias, acciones y resultados de los casos de violencia contra las mujeres de que conozca;
+
+c) formular acciones y programas de concientización orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres y la ausencia de violencia en su contra;
+
+d) proveer de la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres;
+
+e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+
+###### Artículo 15.
+
+1. A la Procuraduría General de Justicia le corresponde:
+
+a) instrumentar cursos de capacitación que provean personal profesional para atender los casos de violencia contra las mujeres;
+
+b) ofrecer orientación y asesoría a las mujeres víctimas de cualquier tipo o modalidad de violencia, con objeto de alentar su atención y protección;
+
+c) dictar las medidas inmediatas para que la mujer víctima de la violencia reciba atención médica de urgencia, cuando sea el caso;
+
+d) promover la cultura de respeto a los derechos humanos de las mujeres;
+
+e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+
+###### Artículo 16.
+
+1. A la Secretaría de Salud del Estado le corresponde:
+
+a) diseñar instrumentos para la política de prevención y atención de la violencia contra la mujer, como parte integral de la política de salud destinada a las mujeres;
+
+b) brindar atención médica y psicológica a las mujeres víctimas de la violencia, por medio de las instituciones públicas del sector salud, sin demérito de lo que dispongan las normas de protección a las víctimas del delito;
+
+c) proporcionar capacitación en materia de atención a las mujeres víctimas de violencia, al personal de las instancias públicas que lo soliciten;
+
+d) generar un archivo de datos que contengan los hechos relativos a violencia contra las mujeres atendidas por el sector salud, la manifestación y modalidad de violencia, sus efectos y los recursos erogados en su atención; esta información la compartirá con las instancias competentes cuando la soliciten;
+
+e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+
+###### Artículo 17.
+
+1. A la Secretaría de Educación del Estado le corresponde:
+
+a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
+
+b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos de la mujer a una vida libre de violencia;
+
+c) incorporar en los programas educativos la difusión y enseñanza del respeto de los derechos humanos de las mujeres;
+
+d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres;
+
+e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
+
+f) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+g) las demás que le confieran esta ley u otros ordenamientos aplicables.
+
+###### Artículo 18.
+
+1. A los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, en el ámbito de sus respectivas competencias, les corresponde:
+
+a) coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
+
+b) participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia en su contra, en los términos que se les soliciten las instancias facultadas para ello;
+
+c) proveer de refugios para víctimas, así como de provisiones de alimentación indispensables para aquéllas y sus familiares, cuando así lo requieran justificadamente;
+
+d) promover programas de concientización de las comunidades para el respeto de los derechos humanos de la mujer;
+
+e) establecer programas regenerativos para quienes ejerzan actos de violencia contra las mujeres;
+
+f) coadyuvar en la adopción y consolidación del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+g) celebrar convenios de colaboración coordinación y concertación en la materia; y
+
+h) las demás que le confieran esta ley u otros ordenamientos aplicables.
+
+###### Artículo 19.
+
+1. Las corporaciones policiales preventivas de los municipios del Estado cumplirán las instrucciones relacionadas con esta ley que dispongan las autoridades administrativas competentes.
+
+2. A su vez, con base en el orden jurídico aplicable, auxiliarán a las mujeres víctimas de violencia en la forma más amplia que les sea posible.
+
+3. También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
+
+###### Artículo 20.
+
+1. Al Instituto de la Mujer Tamaulipeca le corresponde:
+
+a) fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar con (sic) la Violencia contra las Mujeres, a través de su Directora General;
+
+b) integrar los expedientes que contengan las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación de ese fenómeno;
+
+c) proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que considere pertinentes, para contribuir a prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres;
+
+d) colaborar en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+e) canalizar a las mujeres víctimas de la violencia a programas de reeducación de carácter integral, especializado y gratuito, con objeto de que puedan participar activamente en la vida pública, privada y social;
+
+f) promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+g) difundir ampliamente la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia y de seguridad pública, garanticen la integridad física de quienes sean víctimas o denunciantes de violencia en contra de las mujeres.
+
+h) promover foros educativos, exposiciones de toda índole, programas radiofónicos o televisivos, obras de teatro, conferencias y todo método que sea útil para que la población en general conozca esta ley, los derechos humanos de la mujer y la importancia de respetarlos.
+
+i) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+j) las demás que le confieren esta ley u otros ordenamientos aplicables.
+
+2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
+
+###### Artículo 21.
+
+1. Toda autoridad estatal o municipal, en el ámbito de sus atribuciones, deberá prestar atención a las víctimas de la violencia en contra de las mujeres. A su vez, deberá fomentar la adopción y aplicación de programas y acciones de protección a las víctimas de esos hechos.
+
+2. En su caso, dichas autoridades gestionarán la atención gratuita a las víctimas por parte de instituciones del sector salud, de carácter médico, psicológico o psiquiátrico.
+
+3. Igualmente, proveerán de refugio seguro a las víctimas de la violencia contra la mujer, en el cual disfruten de seguridad, higiene y apoyo alimentario.
+
+###### Artículo 22.
+
+1. En Tamaulipas las mujeres víctimas de la violencia disfrutan del derecho a:
+
+a) recibir un trato de respeto a su integridad;
+
+b) ejercer a plenitud sus derechos de toda índole;
+
+c) obtener protección inmediata y efectiva por parte de las autoridades;
+
+d) recibir información oportuna, suficiente y veraz para decidir sobre las opciones inherentes a su atención;
+
+e) contar con asesoría jurídica gratuita y expedita;
+
+f) disfrutar de la atención y cuidados médicos que requiera;
+
+g) acudir a un refugio mientras lo necesite;
+
+h) en general, a ser educadas y apreciadas socialmente con independencia de cualquier estereotipo de comportamiento y/o práctica cultural basados en prejuicios de inferioridad o subordinación.
+
+2. En caso de que la víctima tenga descendientes menores de edad, podrá incorporarlos a su refugio por el tiempo que esto sea indispensable.
+
+3. El agresor deberá participar en los programas de reeducación integral, especializada y gratuita, previa disposición de la autoridad competente conforme a los Códigos de Procedimientos Civiles y de Procedimientos Penales para el Estado.
+
+###### Artículo 23.
+
+1. Los refugios deberán estar acondicionados de tal forma que resulten sitios seguros para las mujeres víctimas de la violencia, los cuales contarán con los satisfactores básicos para su subsistencia.
+
+2. Además, deberán disponer del personal médico, psicológico y jurídico para proporcionar apoyo, asesoría y cuidados a la víctima, según corresponda.
+
+###### Artículo 24.
+
+1. En los refugios se deberá:
+
+a) aplicar el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+b) velar por la seguridad de las mujeres víctimas de la violencia que reciban;
+
+c) proporcionar la atención médica, psicológica y jurídica necesarias para la víctima;
+
+d) dar a las mujeres víctimas de la violencia, información útil para que decidan sobre sus opciones de atención;
+
+e) contar con personal capacitado y suficiente para brindar un servicio óptimo y expedito; y
+
+f) dotar de todo aquello que sea necesario para la protección y atención de las mujeres víctimas de la violencia y, en su caso, de sus descendientes.
+
+2. Asimismo, en los refugios se implementarán los programas reeducativos integrales, a fin de que las mujeres víctimas de la violencia puedan volver a participar con plenitud en el desarrollo de su vida cotidiana.
+
+###### Artículo 25.
+
+1. La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que subsistan los motivos de inestabilidad física, psicológica, o de riesgo inminente.
+
+2. En ningún caso se podrá mantener a las mujeres víctimas de la violencia en los refugios, en contra de su voluntad.
+
+T R A N S I T O R I O S
+
+Artículo Primero. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El Sistema Estatal a que se refiere esta ley se integrará dentro de los cuatro meses siguientes a la entrada en vigor de esta ley.
+
+Artículo Tercero. Los recursos para cumplir con los términos de esta ley se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales y municipales involucradas, las cuales harán las debidas previsiones en la planeación y programación de los subsecuentes presupuestos de Egresos del Estado.
+
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 29 de junio del año 2007.- DIPUTADA PRESIDENTA.- ANASTACIA GUADALUPE FLORES VALDÉZ.- Rúbrica.- DIPUTADA SECRETARIA.- AÍDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- ALEJANDRO CENICEROS MARTÍNEZ.- Rúbrica."
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cuatro días del mes de julio del año dos mil siete.
+
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
