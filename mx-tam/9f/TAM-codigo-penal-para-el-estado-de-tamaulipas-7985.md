@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2007-08-01"
+last_updated: "2007-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -581,7 +581,7 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
@@ -1277,7 +1277,9 @@ III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su repres
 
 También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
 
-a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículo 305 fracciones I y II, 307, 310, 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículos 305 fracciones I y II, 307; 310; 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 368 bis; 368 ter; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
 
 b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
 
@@ -2113,6 +2115,14 @@ X.- Autorice, contrate o permita a quien se encuentre inhabilitado por resoluci�
 
 XI.- Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bis, del Código de Procedimientos Penales para el Estado de Tamaulipas, acerca de la información obtenida con motivo del desempeño de su actividad.
+
 ### CAPITULO I. RESPONSABILIDAD MEDICA, TECNICA Y ADMINISTRATIVA
 
 ###### ARTICULO 213.
@@ -2411,6 +2421,14 @@ XXXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
 XXXVIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XXXIX.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una averiguación previa o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean confidenciales, y;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XL.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bis, del Código de Procedimientos Penales para el Estado de Tamaulipas, acerca de la información obtenida con motivo del desempeño de su actividad.
+
 ###### ARTICULO 233.
 
 Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
@@ -2419,7 +2437,9 @@ Al responsable en la comisión de los delitos previstos en el artículo anterior
 
 I.- Si infringió las fracciones I, II, III, VII, VIII, XXI, XXV o XXVI, se le impondrá una sanción de uno a seis años de prisión y multa de cien a doscientos días de salario; y
 
-II.- Si infringió las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII o XXIV, se le impondrá una sanción de dos a ocho años de prisión y multa de cien a doscientos días salario.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+II.- Si infringió las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXXIX y XL, se le impondrá una sanción de dos a ocho años de prisión y multa de cien a doscientos días salario.
 
 ###### ARTICULO 234.
 
@@ -3015,15 +3035,17 @@ Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubinari
 
 A quien comete el delito de violencia intrafamiliar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en que se perseguirá de oficio.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ARTICULO 368 ter.- Se equipara a la violencia intrafamiliar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona, siempre y cuando el agresor y el agredido habiten en la misma casa.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-ARTICULO 368 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
+ARTICULO 368 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
@@ -3241,7 +3263,7 @@ Comete el delito de homicidio el que priva de la vida a otro.
 
 ###### ARTICULO 330.
 
-Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, se tendrá como mortal una lesión cuando concurran las siguientes circunstancias:
+Para la aplicación de las sanciones que correspondan al que infrinja el artículo, se tendrá como mortal una lesión cuando concurran las siguientes circunstancias:
 
 I.- Que la muerte se deba a las alteraciones causadas por la lesión en el o los órganos interesados, algunas de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable o por no tenerse al alcance los recursos necesarios; y
 
@@ -3523,11 +3545,11 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 ###### ARTICULO 373.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004).
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 374.
 
-(DEROGADO, P.O. 4 DE JULIO DE 2007).
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ###### ARTICULO 375.
 
@@ -4535,9 +4557,9 @@ DECRETO No. LIX-916 POR EL QUE SE REFORMA EL ARTICULO 383 Y SE DEROGAN LOS ARTIC
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 4 DE JULIO DE 2007.
-
 DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+P.O. 4 DE JULIO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4566,6 +4588,22 @@ Los procedimientos civiles que sean competencia de los jueces de paz conforme a 
 ###### ARTÍCULO CUARTO.
 
 Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con los hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+DECRETO No. LIX-964
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+DECRETO No. LIX-965
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
