@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-publica-del-estado-de-michoacan-de-ocampo-2631
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2004-11-17"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el miércoles 18 de septiembre de 2002.
 
@@ -1247,13 +1247,11 @@ Para lo no previsto en este Capítulo, se aplicará en forma supletoria la Ley d
 
 ###### Artículo 97.
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley y sus reglamentos, podrán impugnarse mediante el recurso de inconformidad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 98.
 
-El recurso de inconformidad, se interpondrá por escrito dentro del término de diez días hábiles siguientes a la fecha en que haya surtido efectos la notificación de la resolución que se impugna, ante la propia autoridad que la emitió.
-
-La substanciación del recurso de inconformidad se tramitará conforme a lo dispuesto en el Reglamento de esta Ley.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -1342,3 +1340,9 @@ P.O. 17 DE NOVIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
