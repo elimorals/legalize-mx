@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1996-12-30"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -165,7 +165,7 @@ VI. Por ejecución de obras públicas, resulten perjudicados o beneficiados con 
 
 VII. El predio sea objeto de trasmisión de dominio;
 
-VIII. Se cambie el régimen de propiedad individual por el de condominio, y (sic)
+VIII. Se cambie el régimen de propiedad individual por el de condominio, y (sic9
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -491,45 +491,23 @@ Los servidores públicos de la Tesorería, que por dolo o negligencia alteren o 
 
 ###### ARTICULO 47.
 
-Los propietarios o poseedores de predios ubicados en el Territorio del Estado, podrán interponer por sí o por conducto de sus representantes legales, el recurso administrativo que establece esta Ley en contra de las acciones catastrales.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 48.
 
-En recurso de revocación se interpondrá contra las resoluciones o acuerdos dictados por la autoridad catastral, dentro del término de veinte días hábiles, contados a partir del siguiente de la fecha de la notificación de la resolución o acuerdo que se impugna.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 49.
 
-El recurso de la revocación procederá por:
-
-I. Error en la determinación de las medidas del predio que hayan servido para establecer el valor catastral;
-
-II. Error en la clasificación del tipo de terreno o de construcción de que se trate;
-
-III. Error en la aplicación de los valores unitarios que sirvieron de base para la determinación del valor catastral;
-
-IV. Error en el coeficiente de demérito o incremento que señalen el Reglamento de esta Ley;
-
-V. Falta de aplicación de los coeficientes de demérito o incremento, que señalen el Reglamento de esta Ley,
-
-VI. Cualquier otro error u omisión que afecte la valuación o datos de registro del predio.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 50.
 
-EI recurso de revocación deberá ser interpuesto por propietarios o poseedores de predios, o por sus representantes legales, en escrito dirigido a la autoridad catastral, debiendo señalar la fracción o fracciones del artículo anterior en que fundamenten su recurso, acompañando los elementos de prueba que convengan a sus intereses.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-La autoridad catastral, o en su caso, la autoridad municipal, con base en convenio que al efecto se suscriba, una vez que tenga por presentado el recurso, ordenará suspender la ejecución de la resolución o acuerdo materia de la revocación, siempre a solicitud de la parte interesada.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 51.
 
-La autoridad catastral, o en su caso, la autoridad municipal, con base en convenio que al efecto se suscriba, examinará los motivos de inconformidad y las pruebas aportadas debiendo dictar resolución en el término de cuarenta y cinco días hábiles, confirmando, modificando, revocando o nulificando la resolución o acuerdo impugnado, la que será notificada al
-
-recurrente en los términos que establece esta Ley.
-
-Para el caso de que la autoridad catastral o municipal en su caso, requiera realizar trabajos de rectificación de superficies, citación a interesados o concurrencia a inspección ocular, se amplía el término para resolver a noventa días hábiles.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -970,3 +948,9 @@ P.O. 30 DE DICIEMBRE DE 1996.
 PRIMERO.- El presente decreto entrará en vigor el primero de enero de 1997, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
