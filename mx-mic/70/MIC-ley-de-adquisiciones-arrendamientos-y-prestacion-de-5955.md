@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-5955"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-11"
-last_updated: "2007-07-06"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 11 de junio de 1998.
 
@@ -473,49 +473,27 @@ Las responsabilidades y las sanciones a que se refiere la presente ley, son inde
 
 ###### ARTICULO 45.
 
-Procederá el recurso de revocación contra:
-
-I.- Las resoluciones que dicten las dependencias, entidades, la Coordinación de Control y Desarrollo Administrativo, la Contaduría General de Glosa en su caso, o el Comité en relación con las materias que le competen por disposición de esta ley; y,
-
-II.- Las resoluciones del Director General en el cumplimiento de sus atribuciones.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 46.
 
-El recurso de revocación se interpondrá por escrito ante la autoridad que haya emitido la resolución recurrida, dentro de los quince días hábiles siguientes a su notificación o de aquel en que se haya tenido conocimiento del mismo.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 47.
 
-El escrito en el que se interponga el recurso de revocación deberá contener:
-
-I.- El nombre y domicilio del recurrente y, en su caso, de quien promueva en su nombre. Si fueron varios los recurrentes, el nombre y domicilio del representante común;
-
-II.- El interés jurídico que le asista;
-
-III.- La autoridad que haya dictado la resolución;
-
-IV.- La mención precisa de la resolución que motiva la interposición del recurso;
-
-V.- Los agravios que le cause la resolución recurrida;
-
-VI.- El ofrecimiento y aportación de pruebas; y,
-
-VII.- El lugar y fecha de la interposición del recurso.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 48.
 
-La autoridad al recibir el recurso, verificará si éste fue interpuesto en tiempo y forma, admitiéndolo o rechazándolo según proceda.
-
-Admitido el recurso, desahogará las pruebas que procedan en un plazo que no excederá de quince días hábiles contados a partir de que surta efecto la notificación del proveído de admisión.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 49.
 
-Las pruebas aportadas dentro del escrito del recurso de revocación serán valoradas al dictar la resolución que corresponda, misma que podrá confirmar, modificar o revocar la resolución recurrida.
-
-Dicha resolución se notificará al interesado personalmente o por correo certificado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 50.
 
-En la substanciación y resolución del recurso en lo que no esté previsto en esta ley, se aplicarán supletoriamente las disposiciones del Código de Procedimientos Civiles del Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -566,3 +544,9 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL
 P.O. 6 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
