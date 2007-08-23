@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-10185"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "2007-08-02"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 23 de diciembre de 1993.
 
@@ -525,61 +525,31 @@ Dicho importe se considerará crédito fiscal en favor del Estado y su cobro pod
 
 ###### ARTICULO 55.
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley, sus Reglamentos y disposiciones que de ella emanen, podrán impugnarse mediante el recurso de inconformidad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 56.
 
-El recurso de inconformidad se interpondrá por escrito dentro del término de quince días hábiles siguientes a la fecha de su notificación, ante la propia autoridad que hubiere dictado la resolución recurrida, personalmente o por correo certificado con acuse de recibo, siempre y cuando el recurrente tenga su domicilio fuera de la población donde esté la sede de la autoridad emisora, en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente se haya depositado en el servicio postal mexicano.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 57.
 
-En el escrito en el que se interpone el recurso se señalará:
-
-I.- Nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando, debidamente el carácter con que comparece, si éste no se tiene justificado ante la autoridad que conozca del asunto;
-
-II.- El acto o resolución que se impugna;
-
-III.- La fecha en que, bajo protesta de decir verdad, manifiesta el recurrente que tuvo conocimiento de la resolución recurrida;
-
-IV.- La Autoridad que haya dictado la resolución, ordenado o ejecutado el acto;
-
-V.- Los hechos objeto del recurso;
-
-VI.- Los agravios que, a juicio del recurrente, le cause la resolución o el acto impugnado;
-
-VII.- Las pruebas que el recurrente ofrezca en relación con el acto o resolución impugnada y que por causas supervenientes no hubiere estado en posibilidad de ofrecer al oponer sus defensas en el escrito a que se refiere el artículo 39 de esta Ley; no podrá ofrecerse como prueba la confesión de la autoridad, y
-
-VIII.- Los preceptos legales en que se funde el recurso.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 58.
 
-Una vez recibido el recurso, la autoridad que conozca del asunto verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo; si hubiere alguna irregularidad en el escrito y si se hubiere omitido en él alguno de los requisitos a que se refiere el artículo 57 de esta Ley; si no se hubiere expresado con precisión el acto reclamado, la autoridad mandará prevenir al promovente para que llene los requisitos emitidos, haga las aclaraciones que corresponda dentro del término de tres días, expresando en el auto relativo las irregularidades o deficiencias que deben llenarse para que el promovente pueda subsanarlas en tiempo, bajo apercibimiento que de no hacerlo el recurso se tendrá por no interpuesto.
-
-Admitido el recurso, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 59.
 
-La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los siguientes requisitos:
-
-I.- Lo solicite así el interesado;
-
-II.- No se siga perjuicio al interés general;
-
-III.- No se trate de infractores reincidentes;
-
-IV.- Que de ejecutarse la resolución, pueda causar daño de difícil reparación para el recurrente; y
-
-V.- Se garantice el importe de la multa ante la Oficina exactora correspondiente.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 60.
 
-Para la apreciación y valoración de las pruebas, se estará a lo dispuesto por el Código de Procedimientos Civiles vigente en el Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 61.
 
-Transcurrido el término para el desahogo de las pruebas, si las hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado personalmente o por correo certificado con acuse de recibo.
-
-La resolución que se dicte en el recurso de inconformidad, será definitiva y contra ella no cabe recurso alguno.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 T R A N S I T O R I O S
 
@@ -608,3 +578,9 @@ P.O. 2 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
