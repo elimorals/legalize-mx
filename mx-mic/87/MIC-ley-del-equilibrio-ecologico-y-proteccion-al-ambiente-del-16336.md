@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-16336
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2004-11-22"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de abril del 2000.
 
@@ -127,7 +127,7 @@ IV. El saneamiento de cuerpos de agua de jurisdicción estatal;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-V. El cuidado de los sitios necesarios para asegurar la protección de la biodiversidad y el mantenimiento e incremento de los recursos genéticos de fauna silvestre y acuática.
+V. El cuidado de los sitios necesarios para asegurar la protección de la biodiversidad y el mantenimiento e incremento de los recursos genéticos de fauna silvestre y acuática;
 
 VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
@@ -151,7 +151,7 @@ XIII. La protección del paisaje urbano del Estado;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIV. El establecimiento de zoológicos para la preservación de especies de fauna raras, endémicas, amenazadas o en peligro de extinción.
+XIV. El establecimiento de zoológicos para la preservación de especies de fauna raras, endémicas, amenazadas o en peligro de extinción;
 
 XV. Las interacciones del sector pesquero y acuícola con el medio ambiente y los ecosistemas acuáticos y marinos, de tal manera que garanticen su aprovechamiento sustentable.
 
@@ -1317,7 +1317,7 @@ II. Salvaguardar la integridad genética de las especies silvestres que habitan 
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-III. Asegurar el aprovechamiento racional de los ecosistemas y sus elementos que no estén considerados en otras leyes.
+III. Asegurar el aprovechamiento racional de los ecosistemas y sus elementos que no estén considerados en otras leyes;
 
 IV. Proporcionar un campo propicio para la investigación científica, el estudio y monitoreo de los ecosistemas y su equilibrio y la educación sobre el medio natural;
 
@@ -2013,55 +2013,27 @@ Cuando la autoridad competente imponga alguna o algunas de las medidas de seguri
 
 ###### Artículo 190.
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley y de sus disposiciones reglamentarias, podrán ser recurridas por los interesados en el término de quince días hábiles siguientes a la fecha de la notificación.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 191.
 
-El recurso de inconformidad se interpondrá por escrito ante la autoridad que hubiere dictado la resolución recurrida, personalmente o por correo certificado con acuse de recibo, en cuyo caso, se tendrá como fecha de presentación la del día en que el escrito correspondiente haya sido depositado en el servicio postal.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 192.
 
-El escrito en el que se interponga el recurso deberá señalar:
-
-I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando notarialmente la personalidad o personería con que comparece, si ésta no se tenía justificada ante la autoridad que conozca del asunto;
-
-II. La fecha en que, bajo protesta de decir verdad y con pruebas fehacientes, el recurrente manifieste que tuvo conocimiento de la resolución recurrida;
-
-III. El acto o resolución que se impugna;
-
-IV. Los agravios que a juicio del recurrente, le cause la resolución o el acto impugnado;
-
-V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
-
-VI. Los documentos que el recurrente ofrezca como prueba, que tengan relación directa o inmediata con la resolución o acto impugnado y que por causas supervinientes que no hubiere estado en posibilidad de ofrecer al oponer sus defensas en el escrito al que se refiere el artículo 191 de esta Ley. Dichos documentos, en su caso, deberán acompañarse al escrito a que se refiere este artículo;
-
-VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución de que se trate, acompañando los documentos que se relacionen con éste, no pudiendo ofrecer como prueba la confesión de la autoridad; y,
-
-VIII. La solicitud de suspensión del acto o resolución que le afecte, previa comprobación de haber garantizado, en su caso, debidamente el interés fiscal.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 193.
 
-Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo.
-
-Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan, en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 194.
 
-La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los siguientes requisitos:
-
-I. Lo solicite el interesado;
-
-II. No se afecte el interés público;
-
-III. No se trate de infractores reincidentes;
-
-IV. Que de ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente; y,
-
-V. Se garantice el interés fiscal o en su caso, los daños que origine el recurrente, a criterio de la autoridad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 195.
 
-Transcurrido el término para el desahogo de las pruebas, si las hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado, la cual, se notificará al interesado personalmente o por correo certificado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ### Capítulo IV. De la Denuncia Popular
 
@@ -2150,3 +2122,9 @@ P.O. 22 DE NOVIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia a partir de los treinta días siguientes al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
