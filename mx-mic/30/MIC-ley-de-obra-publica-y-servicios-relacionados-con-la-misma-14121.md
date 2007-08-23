@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "1998-12-07"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -779,23 +781,7 @@ La manifestación de hechos falsos se sancionará conforme a las disposiciones l
 
 ###### Artículo 69.
 
-Contra las resoluciones que dicten la Secretaría, la Coordinación o los ayuntamientos en el ejercicio de las atribuciones que les asigna esta Ley, el interesado podrá interponer recurso de revocación dentro del término de diez días naturales contados a partir del día siguiente al de la notificación de la resolución.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I. Se interpondrá por escrito ante quien haya emitido la resolución, se comprobará el interés jurídico y se expresarán los agravios que la resolución cause al recurrente; en el mismo escrito se ofrecerán las pruebas, acompañándose la resolución impugnada, así como la constancia de la notificación;
-
-II. La autoridad, al recibir el recurso, verificará si éste fue interpuesto en tiempo y forma, admitiéndolo o rechazándolo según proceda;
-
-III. Serán admisibles todo tipo de pruebas, excepto la de confesión de las autoridades y aquellas que sean contrarias a la moral y al derecho. En todo caso, las pruebas deberán acompañarse al escrito en que se promueva el recurso;
-
-IV. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos, si no se cumple con estos requisitos serán desechadas;
-
-V. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente y con el del perito que la autoridad determine. De no presentar el dictamen el perito del recurrente dentro del plazo que establece esta Ley, la prueba será declarada desierta;
-
-VI. La autoridad, acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes para dilucidar las cuestiones controvertidas y ordenará el desahogo de las mismas dentro de un plazo de quince días hábiles, el que será improrrogable; y,
-
-VII. Vencido el plazo para el desahogo de las pruebas, se dictará acuerdo de citación para resolución, misma que deberá emitirse dentro de los treinta días naturales siguientes.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -820,3 +806,11 @@ DIPUTADO PRESIDENTE.- SERGIO LOPEZ MELCHOR.- DIPUTADO SECRETARIO.- VICTOR CORONA
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 4 cuatro días del mes de Diciembre de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
