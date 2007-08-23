@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-caminos-y-puentes-del-estado-de-michoacan-de-ocampo-4001
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-14"
-last_updated: "2004-06-14"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 14 de junio de 2004.
 
@@ -951,25 +951,15 @@ Las sanciones que se señalan en este título, se aplicarán sin perjuicio de la
 
 ###### Artículo 82.
 
-En contra de las resoluciones que dicte la Secretaría, con motivo de la terminación de permisos, el permisionario, podrá interponer ante la propia Secretaría, el recurso de inconformidad dentro del término de 15 días hábiles, contados a partir del día hábil siguiente al que se notifique la resolución impugnada.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 83.
 
-La substanciación de los recursos se sujetará al procedimiento siguiente:
-
-I. Se interpondrán por escrito expresando los agravios que la resolución impugnada le cause, así mismo, el recurrente ofrecerá las pruebas que estime pertinentes para soportar el recurso de que se trate. En el recurso no será admisible la prueba confesional, en la que se articulen posiciones a las autoridades que dictaron la resolución impugnada;
-
-II. Las pruebas que ofrezca el recurrente, deberán estar relacionadas con cada uno de los agravios expresados;
-
-III. La autoridad acordará lo que proceda sobre la admisión del recurso y de las pruebas ofrecidas, las que deberán desahogarse en un plazo no mayor de 15 días hábiles, el que será improrrogable;
-
-IV. En caso de ofrecerse prueba pericial, ésta se desahogará dentro de los 15 días hábiles, a partir de su ofrecimiento con la presentación del dictamen a cargo del perito designado por el recurrente; de no presentarse el dictamen dentro del plazo previsto, la prueba será declarada desierta; y,
-
-V. Terminado el plazo para el desahogo de las pruebas, la autoridad dictará la resolución que proceda en un término que no exceda de 30 días hábiles.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 84.
 
-La resolución será notificada a los interesados en su domicilio, o por correo certificado con acuse de recibo.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -998,3 +988,11 @@ PRESIDENTE.- DIP. JOSÉ LEONARDO VALLEJO ROJAS.- SECRETARIA.- DIP. MARTHA SALUD 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 02 dos días del mes de junio del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
