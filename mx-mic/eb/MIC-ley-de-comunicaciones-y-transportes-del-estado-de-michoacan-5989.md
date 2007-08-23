@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-comunicaciones-y-transportes-del-estado-de-michoacan-598
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-19"
-last_updated: "1998-12-21"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MIC"
 
 LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 19 de julio de 1982.
 
@@ -394,11 +394,9 @@ XVII. Transportar ganado de procedencia ilegal y,
 
 XVIII. Exigirlo así el interés público.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 45.
 
-Contra las resoluciones que se dicten por la Secretaría de Comunicaciones y Obras Públicas y/o la Comisión Coordinadora del Transporte Público de Michoacán con motivo de la aplicación de esta Ley o de su reglamento, procederá el recurso de revocación, ante la propia autoridad que emita el acto. La admisión y substanciación del recurso de revocación se llevará en los términos del reglamento de la presente Ley.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TITULO TERCERO. RED ESTATAL DE COMUNICACIONES ELECTRICAS
 
@@ -467,3 +465,9 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTICULO SEGUNDO
 
 El titular del Poder Ejecutivo del Estado expedirá el reglamento de la Ley de Comunicaciones y Transportes del Estado de Michoacán.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
