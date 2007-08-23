@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-instituciones-de-asistencia-privada-del-estado-de-40025"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-09"
-last_updated: "2004-06-09"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 9 de junio de 2004.
 
@@ -1227,31 +1227,27 @@ Cuando los jueces no rindan a la Junta los informes y avisos previstos por esta 
 
 ###### Artículo 144.
 
-Contra los actos del Presidente de la Junta, procede el recurso de revisión ante el pleno de la Junta.
-
-El recurso se presentará ante el propio Presidente, dentro del plazo de diez días hábiles siguientes a la fecha en que el promovente tenga conocimiento de los actos que reclame, puntualizará éstos, expresará los agravios correspondientes y ofrecerá las pruebas que a sus intereses convenga.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 145.
 
-El Presidente de la Junta admitirá el recurso, ordenará la suspensión de los efectos del acto reclamado y dará cuenta al pleno de la Junta dentro de los treinta días hábiles siguientes. Si hubiere un tercero perjudicado, le hará saber el motivo de la inconformidad, para que dentro del término de cinco días hábiles, exprese lo que a sus intereses convenga y ofrezca pruebas.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 146.
 
-Recibidos los autos por el pleno de la Junta, señalará día y hora para el desahogo de las pruebas y alegatos, dentro de los quince días hábiles siguientes. La Junta podrá señalar a dos de sus miembros para la atención de la audiencia.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 147.
 
-El pleno dictará resolución dentro de los siguientes quince días hábiles. Su resolución será inapelable.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 148.
 
-Contra las resoluciones del pleno de la Junta, distintas a las de los artículos anteriores, procede el recurso de revocación, que se interpondrá dentro de los cinco días hábiles siguientes a la fecha en que tenga conocimiento del acto reclamado, debiéndose puntualizar éste, expresar agravios y ofrecer pruebas en el escrito, por el que se interpone el recurso. Se presentará ante el Presidente de la Junta.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 149.
 
-Dada cuenta con el escrito de agravios, la Junta lo admitirá a trámite, y dará fecha para el desahogo de las pruebas. Podrá autorizar a dos de sus miembros para la atención de la audiencia.
-
-El pleno dictará resolución en cinco días hábiles. Su resolución será inapelable.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 T R A N S I T O R I O S
 
@@ -1288,3 +1284,11 @@ PRESIDENTE.- DIP. JOSÉ LEONARDO VALLEJO ROJAS.- SECRETARIA.- DIP. MARTHA SALUD 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 21 veintiún días del mes de mayo del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
