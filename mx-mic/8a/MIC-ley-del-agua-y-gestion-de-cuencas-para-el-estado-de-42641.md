@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2005-02-25"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTION DE CUENCAS PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -1941,19 +1941,15 @@ Los ingresos a que se refiere el artículo anterior, para efectos de cobro, en l
 
 ###### Artículo 144.
 
-Contra resoluciones y actos de los municipios, a través de sus organismos operadores que causen agravio a los particulares, así como en contra de las resoluciones y actos administrativos de la Comisión, éstos podrán interponer recurso de revisión dentro del plazo de quince días hábiles siguientes a la fecha de su notificación.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 145.
 
-El recurso de revisión tiene por objeto revocar, modificar o confirmar la resolución administrativa reclamada y los fallos que se dicten contendrán la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución. El Reglamento de la presente Ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
-
-La interposición del recurso se hará por escrito dirigido al titular del organismo operador del Ayuntamiento o a la Comisión en su caso, en el que se deberán expresar el nombre y domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se considere necesarios, así como las constancias que acrediten la personalidad del promoverte.
-
-Si se recurre la imposición de una multa, se suspenderá el cobro de ésta hasta que sea resuelto el recurso, siempre y cuando se garantice su pago en los términos previstos por las disposiciones fiscales.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 146.
 
-En lo relativo a la interpretación, sustanciación y resolución del recurso de revisión que contempla esta Ley, se aplicarán supletoriamente los Códigos Civil y de Procedimientos Civiles del Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ### CAPÍTULO CUARTO. DE LA DENUNCIA POPULAR
 
@@ -2014,3 +2010,9 @@ Las cuotas y tarifas de agua potable, alcantarillado y saneamiento, aprobadas po
 ###### ARTÍCULO TERCERO.
 
 Cuando la Ley de Ingresos de los Municipios del Estado de Michoacán de Ocampo para el Ejercicio Fiscal del Año 2005 y las leyes de ingresos de los municipios de Hidalgo, Chavinda, Cotija, La Piedad, Lázaro Cárdenas, Morelia, Sahuayo, Uruapan, Zamora y Zitácuaro, Michoacán, para el Ejercicio Fiscal del Año 2005, refieran a la Ley del Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, deberá entenderse indistintamente a ésta o a la Ley de Agua y Gestión de Cuencas del Estado de Michoacán de Ocampo, según hayan sido aprobadas las cuotas y tarifas de los servicios.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
