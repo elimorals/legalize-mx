@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2007-03-02"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -1055,11 +1055,11 @@ La Secretaría, con el conocimiento del Consejo y fundamentando y motivando plen
 
 ###### ARTÍCULO 132.
 
-Las resoluciones dictadas con motivo de la aplicación de la presente Ley y de sus disposiciones reglamentarias, podrán ser recurridas por los interesados en el término de quince días hábiles siguientes a la fecha de la notificación.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 133.
 
-El recurso de inconformidad se interpondrá ante la autoridad que hubiere dictado la resolución recurrida, señalando copia al Consejo, el que emitirá opinión que la autoridad podrá tomar en cuenta.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -1096,3 +1096,11 @@ PRESIDENTE.- DIP. DAVID GARIBAY TENA.- PRIMER SECRETARIO.- DIP. JUAN ANTONIO IXT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 8 ocho días del mes de febrero del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
