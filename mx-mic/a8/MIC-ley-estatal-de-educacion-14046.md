@@ -4,7 +4,7 @@ identifier: "MIC-ley-estatal-de-educacion-14046"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "1998-12-07"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ESTATAL DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -1183,39 +1183,19 @@ DEL RECURSO ADMINISTRATIVO
 
 ###### ARTICULO 139.
 
-Con excepción del apercibimiento y la amonestación, respecto de los cuales sólo procederá la solicitud de aclaración, las sanciones podrán reclamarse mediante el recurso de reconsideración, el que se promoverá dentro de los diez días naturales siguientes a la notificación de la resolución.
-
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá carácter de definitiva.
-
-El establecimiento educativo expresará los agravios que le cause la resolución recurrida ante la autoridad que la dictó, quien deberá resolver la impugnación en un plazo no mayor de treinta días naturales.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 140.
 
-El recurso se interpondrá por escrito y la autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe, en el mismo acto devolverá copia debidamente sellada o firmada por el interesado.
-
-En el recurso deberán expresarse el nombre y el domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
-
-En el caso de incumplimiento de los requisitos antes señalados, la autoridad educativa declarará improcedente el recurso.
-
-Al interponerse el recurso podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. La autoridad educativa que esté conociendo el recurso podrá allegarse los elementos de convicción adicionales que consideren necesarios.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 141.
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
-
-Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
-
-I.- Que lo solicite el recurrente;
-
-II.- Que el recurso haya sido admitido;
-
-III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley; y,
-
-IV.- Que no ocasione daños o perjuicios a los educandos o a terceros en los términos de esta Ley.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 142.
 
-En caso de que el particular haya cubierto una multa, por este hecho queda sin efecto en su perjuicio, el recurso de reconsideración interpuesto.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -1248,3 +1228,11 @@ DIPUTADO PRESIDENTE.- SERGIO LÓPEZ MELCHOR.- DIPUTADO SECRETARIO.- VÍCTOR CORO
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 4 cuatro días del mes de Diciembre de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
