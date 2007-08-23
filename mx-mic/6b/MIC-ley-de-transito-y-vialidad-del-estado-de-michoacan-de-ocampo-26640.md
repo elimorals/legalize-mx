@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2004-11-17"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -113,11 +113,11 @@ II. El Secretario de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
-III. El Tesorero General; y,
+III. El Tesorero General; y (sic),
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2004)</small>
 
-IV. El Director de Seguridad Pública y Tránsito.
+IV. El Director de Seguridad Pública y Tránsito;
 
 V. El Director de Seguridad Pública y Tránsito.
 
@@ -699,53 +699,31 @@ Los municipios aplicarán las sanciones de tránsito y vialidad de conformidad a
 
 ###### Artículo 74.
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley y su reglamento, podrán impugnarse mediante el recurso de inconformidad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 75.
 
-El recurso de inconformidad se interpondrá por escrito dentro del término de diez días hábiles siguientes a la fecha en que haya surtido efectos la notificación de la resolución que se impugna, ante la autoridad que la emitió.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 76.
 
-La ejecución de la resolución impugnada podrá suspenderse, si por su naturaleza es posible, cuando no se afecte el orden público o interés social y se garanticen mediante fianza determinada por la autoridad, los daños y perjuicios que pudieran causarse al confirmarse la resolución impugnada.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 77.
 
-El escrito en que se interponga el recurso de inconformidad deberá contener los requisitos siguientes:
-
-I. Nombre y domicilio;
-
-II. Resolución que se impugna;
-
-III. Autoridad que dictó la resolución impugnada;
-
-IV. Fecha en que fue notificada la resolución impugnada; y,
-
-V. Las pruebas y los hechos en que se apoye el recurso.
-
-Con el escrito de inconformidad, en su caso, se exhibirán los documentos que acrediten la personalidad o personería del inconforme.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 78.
 
-Recibido el escrito de inconformidad, se abrirá un período de pruebas de diez días hábiles, a efecto de que se desahoguen las que se hayan ofrecido y admitido.
-
-Si por la naturaleza de las pruebas el término resulta insuficiente, la autoridad podrá ampliarlo por un período no mayor a diez días hábiles.
-
-En materia de ofrecimiento, admisión y valoración de las pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Michoacán.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 79.
 
-Concluido el período de pruebas, la autoridad, dentro del término de diez días hábiles dictará resolución que confirme, modifique o revoque la resolución impugnada. La resolución del recurso de inconformidad será definitiva.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 80.
 
-Serán notificaciones personales, las siguientes:
-
-I. El acuerdo de admisión del recurso y pruebas; y
-
-II. La resolución que ponga fin al recurso.
-
-Las notificaciones personales se harán en las oficinas de la autoridad si el recurrente acude a éstas o por correo certificado con acuse de recibo. Las demás resoluciones se notificarán por estrados.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 81.
 
@@ -804,3 +782,9 @@ P.O. 17 DE NOVIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
