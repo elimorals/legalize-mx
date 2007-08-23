@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-apicola-del-estado-de-michoacan-de-ocampo-39571"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-14"
-last_updated: "2004-05-14"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE FOMENTO APICOLA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 14 de mayo del 2004.
 
@@ -451,27 +453,15 @@ El Ayuntamiento podrá cancelar el permiso para la instalación de apiarios medi
 
 ###### Artículo 42.
 
-Las resoluciones dictadas con motivo de la aplicación de esta Ley y su Reglamento, podrán ser impugnadas por los interesados mediante recurso de inconformidad, en un término de ocho días hábiles a partir de su notificación.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 43.
 
-La interposición del recurso se hará por escrito ante la autoridad que emitió la resolución, expresando:
-
-I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece;
-
-II. El acto o la resolución que se impugna;
-
-III. Los agravios que a juicio del recurrente, le causen la resolución o el acto impugnado; y,
-
-IV. Los medios de prueba que estime convenientes.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 44.
 
-Al recibir el recurso, la autoridad del conocimiento verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo.
-
-Para el caso de que lo admita, desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir del día hábil siguiente al de la notificación del proveído de admisión.
-
-Una vez desahogadas las pruebas o vencido el término probatorio, se resolverá en definitiva lo conducente, en un término no mayor de quince días hábiles.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 T R A N S I T O R I O S
 
@@ -508,3 +498,11 @@ PRESIDENTE.- DIP. RAÚL MORÓN OROZCO.- SECRETARIO.- DIP. RAFAEL RAMÍREZ SÁNCH
 En cumplimiento a lo dispuesto por la facción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 21 veintiuno días del mes de abril del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
