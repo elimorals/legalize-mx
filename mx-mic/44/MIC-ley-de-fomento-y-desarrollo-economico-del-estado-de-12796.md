@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-economico-del-estado-de-12796"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-03"
-last_updated: "2007-07-06"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y DESARROLLO ECONOMICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 3 de diciembre de 1998.
 
@@ -533,11 +533,7 @@ ARTlCULO 56.- Las multas serán impuestas por la Tesorería General del Estado y
 
 ###### ARTICULO 57.
 
-Contra las determinaciones en que se impongan cualesquiera de las sanciones o en su caso la cancelación de los incentivos y estímulos que se determinen en esta Ley, podrá interponerse el recurso de revocación en el término de diez días hábiles, a partir de la notificación.
-
-La interposición del recurso se hará por escrito ante la autoridad que dictó el acuerdo que se recurre, expresando el nombre y domicilio del recurrente, las constancias que acrediten su personalidad, y los agravios que considere se le causan, acompañando los elementos de prueba que considere necesarios.
-
-La autoridad competente, resolverá en definitiva en un término no mayor de diez días hábiles.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2007)</small>
 
@@ -574,3 +570,9 @@ La Secretaría, deberá en un plazo máximo de 90 noventa días naturales siguie
 ###### ARTÍCULO TERCERO.
 
 El logotipo ganador deberá de inscribirse y establecerse en el reglamento respectivo, que el Ejecutivo Estatal deberá expedir dentro de un término de 180 ciento ochenta días naturales, siguientes al inicio de vigencia del presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
