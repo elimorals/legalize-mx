@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-urbano-del-estado-de-michoacan-de-ocampo-1262
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-15"
-last_updated: "1995-06-15"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Michoacán, el jueves 15 de junio de 1995.
 
@@ -3167,73 +3167,51 @@ Las autoridades competentes, podrán además de practicar visitas de inspección
 
 ###### ARTICULO 308.
 
-Se establecen como medio de defensa de los particulares en contra de las medidas de seguridad, de las sanciones y de las demás resoluciones dictadas por las autoridades con apoyo en esta Ley y que causen afectación a los intereses de particulares, los recursos de reconsideración, de queja y de revocación, los cuales serán substanciados en la forma y términos que establezcan este ordenamiento.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 309.
 
-Contra las resoluciones administrativas que se dicten en la aplicación de esta Ley, procederá el recurso de revocación ante las autoridades que las hubiesen dictado. Este recurso deberá interponerse dentro de los 15 días hábiles siguientes al de la notificación respectiva.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 310.
 
-Procede el recurso de reconsideración contra resoluciones que impongan las sanciones a que esta Ley se refiere y que el interesado estime indebidamente fundadas y motivadas.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 311.
 
-Procede el recurso de queja contra resoluciones administrativas que los interesados estimen violatorias de esta Ley o de los programas de desarrollo urbano.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 312.
 
-Los recursos mencionados, deberán formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado.
-
-Los escritos deberán contener:
-
-I.- El nombre y domicilio del recurrente y en su caso, de quien promueve en su nombre. Si fueren varios los recurrentes, el nombre y domicilio de su representante común;
-
-II.- El interés específico que le asiste;
-
-III.- La autoridad o autoridades que dictaron el acto recurrido;
-
-IV.- La mención precisa del acto de autoridad que motiva la interposición del recurso;
-
-V.- Los conceptos de violación o, en su caso, las objeciones a la sanción reclamada;
-
-VI.- Las pruebas que ofrezcan; y
-
-VII.- El lugar y la fecha de la promoción.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 313.
 
-El recurso de reconsideración se interpondrá ante la propia autoridad que emitió la resolución, dentro del término de 15 días hábiles, contados a partir de la fecha en que fuere notificada la sanción.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 314.
 
-El recurso de queja se interpondrá ante el superior jerárquico del funcionario que hubiere dictado el acto administrativo recurrido.
-
-El recurso se interpondrá dentro del término de 15 días hábiles a partir de la fecha de la publicación del acto en el Periódico Oficial del Estado, cuando esto se exija por la Ley, o en su defecto a partir de la fecha de la notificación al recurrente o de la fecha en que tuvo conocimiento del acto.
-
-Del escrito en que se formule el recurso, se entregará copia al funcionario señalado como responsable.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 315.
 
-La autoridad que deba conocer de cualquiera de los recursos mencionados, lo admitirá si están dentro del termino legal y si cumplen con los requisitos del artículo 312, pero si el recurso fuera obscuro o irregular, prevendrá al particular para que lo aclare, corrija o complete dentro del término de 5 días hábiles a partir de que surta efectos la notificación respectiva. En caso de que el recurrente no dé cumplimiento al acuerdo preventivo, la autoridad lo desechará de pleno.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 316.
 
-Al radicarse el recurso, se dará vista a las personas, que, en su caso, hubieren gestionado el acto recurrido para que participen en la tramitación de aquél.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 317.
 
-Las pruebas que ofrezca el recurrente deberán anexarse al momento de la presentación del recurso, a excepción de la pericial, que contará con un plazo para su presentación no mayor de 15 días hábiles siendo admisible todo tipo de pruebas que tengan relación con el acto impugnado, con excepción de aquellas que atenten contra la moral y la confesión de las autoridades; en consecuencia, las que sean procedentes serán calificadas y desahogadas en la resolución administrativa que dicte la autoridad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 318.
 
-Dentro de un término no mayor de 30 días naturales después de concluido el período de pruebas, la autoridad confirmará, modificará o revocará el acto recurrido.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### ARTICULO 319.
 
-Los recursos de reconsideración, queja y revocación, suspenderán la ejecución de los actos impugnados, siempre que no cause perjuicio al interés social ni se contravengan disposiciones de orden público.
-
-En los casos en que pueda ocasionarse daño o perjuicio a terceros, la suspensión sólo procederá si el recurrente otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquella se causaren, si no se obtiene resolución favorable en el recurso.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -3258,3 +3236,11 @@ MORELIA, MICHOACAN A 21 DE JULIO DE 1994.
 En cumplimiento a lo dispuesto por la fracción I del Artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 2 días del mes de diciembre de 1994, mil novecientos noventa y cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- LIC. JESUS REYNA GARCIA.- EL SECRETARIO DE DESARROLLO URBANO Y ECOLOGIA.- ING. MARIANO CARREON GIRON. (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
