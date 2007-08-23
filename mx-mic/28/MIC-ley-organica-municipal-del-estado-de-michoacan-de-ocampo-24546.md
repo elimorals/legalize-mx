@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2007-08-07"
+last_updated: "2007-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2187,27 +2187,37 @@ Los Ayuntamientos tendrán la facultad de expedir el Bando de Gobierno Municipal
 
 ## TÍTULO DÉCIMO. DEL PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
 
-### Capítulo I. Del Contencioso Administrativo Municipal
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+
+### Capítulo I. De la Justicia Administrativa Municipal
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 150.
 
-Los Ayuntamientos podrán crear los órganos necesarios, para dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+Los ayuntamientos podrán crear los órganos necesarios, para dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-La integración, funcionamiento y atribuciones de los organismos contenciosos, se determinarán en el reglamento que expida, según el caso, cada Ayuntamiento.
+La integración, funcionamiento y atribuciones de los organismos de justicia, se determinarán en el reglamento que expida, según el caso, cada Ayuntamiento.
 
-###### Artículo 151.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
-Los actos y resoluciones dictadas por el Ayuntamiento, por el Presidente Municipal y por las Dependencias y Entidades de la Administración Pública Municipal, podrán ser impugnadas mediante el recurso de inconformidad, cuando afecten intereses jurídicos de los particulares.
+###### Articulo 151.
+
+Los actos y resoluciones dictadas por el Ayuntamiento, por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnadas mediante el recurso de revisión, cuando afecten intereses jurídicos de los particulares.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 152.
 
-El recurso de Inconformidad a que hace referencia el artículo anterior deberá interponerse ante el propio Ayuntamiento.
+El recurso de revisión a que hace referencia el artículo anterior deberá interponerse ante el propio Ayuntamiento.
 
-En este caso el Secretario del Ayuntamiento, fungirá como instructor del procedimiento del recurso de inconformidad, integrando el expediente.
+En este caso el Secretario del Ayuntamiento, fungirá como instructor del procedimiento del recurso de revisión, integrando el expediente.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 153.
 
-Tratándose de actos y resoluciones que emitan el Presidente Municipal y las Dependencias y Entidades de la Administración Pública Municipal, el recurso de inconformidad se interpondrá ante el Tribunal de lo Contencioso Administrativo Municipal.
+Tratándose de actos y resoluciones que emitan el Presidente Municipal y las dependencias y entidades de la Administración Pública Municipal, el recurso de revisión se interpondrá ante el Tribunal de Justicia Administrativa Municipal.
 
 ### Capítulo II. De las Responsabilidades
 
@@ -2251,35 +2261,53 @@ Las sanciones y los procedimientos que deban aplicarse por infracciones a las no
 
 Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, podrán adoptar y ejecutar de inmediato contra los responsables, las medidas de seguridad necesarias de conformidad con las disposiciones aplicables.
 
-### Capítulo IV. Procedimiento del Recurso de Inconformidad
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+
+### Capítulo IV. Procedimiento del Recurso de Revisión
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 162.
 
-El recurso de inconformidad, se tramitará conforme a lo establecido en esta ley y en lo no previsto, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+El recurso de revisión, se tramitará conforme a lo establecido en esta Ley y en lo no previsto, se aplicará supletoriamente el Código de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 163.
 
-El recurso de inconformidad, se interpondrá por escrito, dentro del término de diez días hábiles, contados a partir de la fecha en que el acto haya ocurrido o se tenga conocimiento del mismo, o bien, haya surtido efectos la notificación de la resolución que se impugna.
+El recurso de revisión, se interpondrá por escrito, dentro del término de diez días hábiles, contados a partir de la fecha en que el acto haya ocurrido o se tenga conocimiento del mismo, o bien, haya surtido efectos la notificación de la resolución que se impugna.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 164.
 
-El escrito a través del cual se interponga el recurso de inconformidad, contendrá los siguientes requisitos:
+El escrito a través del cual se interponga el recurso de revisión, contendrá los siguientes requisitos:
 
-I. Nombre y domicilio del recurrente;
+I. El nombre, denominación o razón social y domicilio del inconforme y en su caso, de quien promueve en su nombre;
 
-II. La autoridad que realizó el acto o emitió la resolución impugnada, indicando con claridad en que consiste;
+II. La autoridad o autoridades que dictaron el acto impugnado;
 
-III. La fecha en que el acto o resolución le fue notificado o tuvo conocimiento de la misma;
+III. La manifestación del particular, bajo protesta de decir verdad, de la fecha en que tuvo conocimiento de la resolución que impugna;
 
-IV. Exposición sucinta de los motivos de inconformidad;
+IV. La descripción clara y sucinta de los hechos o razones que den motivo al recurso;
 
-V. Relación de pruebas que ofrezca, para justificar los hechos en que se apoya el recurso; y,
+V. Los conceptos de violación o en su caso, las objeciones a la resolución o acto que se reclama;
 
-VI. Los documentos que justifiquen la personalidad del promovente, cuando el recurso se interponga por el representante legal o mandatario del inconforme.
+VI. Las pruebas que en su caso ofrezca, señalando aquellas que obren en el expediente administrativo;
+
+VII. El lugar y fecha de la presentación del recurso de revisión;
+
+VIII. El domicilio para oír notificaciones, el cual deberá ser dentro de la ciudad de residencia de la autoridad administrativa competente para resolver el recurso o en su caso, la dirección de correo electrónico para recibir notificaciones; y,
+
+IX. Cuando no se gestione en nombre propio, el carácter con el que ocurre.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 165.
 
-Recibido el escrito de inconformidad, se abrirá un término de prueba de diez días hábiles, a efecto de que se desahoguen aquellas que se hayan admitido y ofrecido.
+Recibido el escrito de revisión, se abrirá un término de prueba de diez días hábiles, a efecto de que se desahoguen aquellas que se hayan admitido y ofrecido.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 166.
 
@@ -2492,3 +2520,9 @@ P.O. 7 DE AGOSTO DE 2007.
 Primero. El presente decreto entrará en vigor el 1º de enero del año 2008.
 
 Segundo. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
