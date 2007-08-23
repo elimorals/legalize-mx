@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-instituto-de-vivienda-del-estado-de-10179"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-02"
-last_updated: "1996-12-02"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley Orgánica publicada en la Sección Segunda del Periódico Oficial, el lunes 2 de diciembre de 1996.
 
@@ -315,49 +315,27 @@ De los Recursos Administrativos.
 
 ###### Artículo 20.
 
-Procederá el recurso de revocación:
-
-I. Contra procedimientos de ejecución de créditos derivados de contratos de compraventa o arrendamiento de inmuebles otorgados por el Instituto;
-
-II. Contra las resoluciones administrativas que cancelen o rescindan contratos de posesión o dominio de un bien inmueble; y
-
-III. Contra la resolución que otorgue un crédito sobre un bien inmueble objeto de crédito anterior y vigente, concedido o asignado a persona distinta del acreditado en segundo término.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 21.
 
-El recurso de revocación se interpondrá por escrito ante la autoridad que haya emitido la resolución o realizado el acto, dentro de los quince días hábiles siguientes a su notificación o de aquél en que se haya tenido conocimiento del mismo.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 22.
 
-El escrito por el que se interponga el recurso de revocación deberá contener:
-
-I. El nombre y domicilio del recurrente, y en su caso, de quien promueva en su nombre. Si fueran varios los recurrentes, el nombre y domicilio del representante común;
-
-II. El interés jurídico que le asiste;
-
-III. La autoridad o autoridades que dictaron la resolución o ejecutaron el acto recurrido;
-
-IV. La mención precisa del acto de autoridad que motiva la interposición del recurso;
-
-V. Los agravios que le cause la resolución o el acto recurrido;
-
-VI. Las pruebas que ofrezcan; y,
-
-VII. El lugar y fecha del recurso.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 23.
 
-La autoridad, al recibir el recurso, verificará si éste fue interpuesto en tiempo, admitiéndolo o rechazándolo.
-
-Admitido el recurso, desahogará las pruebas que procedan en un plazo que no excederá de veinte días hábiles contados a partir de que surta efecto la notificación del proveído de admisión.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 24.
 
-Dentro de los diez días hábiles siguientes al desahogo de las pruebas, si las hubiese, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado. Dicha resolución se notificará al interesado personalmente o por correo certificado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 25.
 
-En lo relativo a la substanciación y resolución del recurso que contempla esta Ley, se aplicarán supletoriamente las disposiciones del Código de Procedimientos Civiles del Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -384,3 +362,11 @@ DIPUTADO PRESIDENTE.- JORGE CANEDO VARGAS.- DIPUTADO SECRETARIO.- SERAFIN RIOS A
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de noviembre de 1996 mil novecientos noventa y seis.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que iniciaron.
