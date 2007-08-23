@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2004-11-22"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -1633,55 +1633,27 @@ Cuando la Comisión imponga las medidas de seguridad previstas en esta Ley, se i
 
 ###### Artículo 168.
 
-Las resoluciones dictadas con motivo de la aplicación de la presente Ley y de sus disposiciones reglamentarias, podrán ser recurridas por los interesados en el término de quince días hábiles siguientes a la fecha de notificación.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 169.
 
-El Recurso de Inconformidad se interpondrá por escrito ante la autoridad que hubiere dictado la resolución recurrida, personalmente o por correo certificado con acuse de recibo, en cuyo caso, se tendrá como fecha de presentación la del día en que el escrito correspondiente haya sido depositado en el Servicio Postal.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 170.
 
-El escrito en que se interponga el recurso deberá señalar:
-
-I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando notarialmente la personalidad o personería con que comparece, si ésta no se tenía justificada ante la Comisión dentro del procedimiento;
-
-II. La fecha en que, bajo protesta de decir verdad y con pruebas fehacientes, el recurrente manifieste que tuvo conocimiento de la resolución recurrida;
-
-III. El acto o resolución que se impugna;
-
-IV. Los agravios que a juicio del recurrente, le cause la resolución o el acto impugnado;
-
-V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
-
-VI. Los documentos que el recurrente ofrezca como prueba, que tenga relación directa o inmediata con la resolución o acto impugnado y que por causas supervenientes que no hubiere estado en posibilidad de ofrecer al oponer sus defensas en el escrito al que se refiere el artículo 154 de la presente Ley. Dichos documentos, en su caso, deberán acompañarse al escrito a que se refiere este artículo;
-
-VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución de que se trate, acompañando los documentos que se relacionen con éste, no pudiendo ofrecer como prueba la confesión de la autoridad; y,
-
-VIII. La solicitud de suspensión del acto o resolución que le afecte, previa comprobación de haber garantizado, en su caso, debidamente el interés fiscal.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 171.
 
-Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo en trámite o rechazándolo.
-
-Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 172.
 
-La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los requisitos siguientes:
-
-I. Lo solicite el interesado;
-
-II. No se afecte el interés público;
-
-III. No se trate de infractores reincidentes;
-
-IV. Que de ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente; y,
-
-V. Se garantice el interés fiscal o en su caso, los daños que origine el recurrente, a criterio de la autoridad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 173.
 
-Transcurrido el término para el desahogo de pruebas, si las hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado, la cual, se notificará al interesado personalmente o por correo certificado. En todo lo no previsto para este procedimiento, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ### CAPÍTULO IV. DE LA DENUNCIA POPULAR
 
@@ -1740,3 +1712,11 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS.- SECRETARIO.- DIP. AMADEO BOL
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 3 tres días del mes de noviembre del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
