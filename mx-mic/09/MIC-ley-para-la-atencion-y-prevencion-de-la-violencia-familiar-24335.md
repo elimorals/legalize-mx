@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-prevencion-de-la-violencia-familiar-2433
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2002-02-11"
+last_updated: "2007-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY PARA LA ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2002.
 
@@ -259,15 +261,15 @@ II. Arresto administrativo inconmutable hasta por treinta y seis horas.
 
 ###### Artículo 25.
 
-Contra las resoluciones y la imposición de sanciones, procederá el recurso de revisión, que se tramitará por escrito en un plazo no mayor de quince días. Se presentará ante la autoridad que dictó la resolución o sanción, expresando los motivos de inconformidad que a su parecer le cause.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 26.
 
-Recibido el escrito promoviendo el recurso de revisión, la autoridad procederá a admitirlo o a desecharlo por extemporáneo, turnado el expediente original, según sea el caso, al Director del Sistema Estatal o Municipal, para el Desarrollo Integral de la Familia, a quien competerá dictar la resolución que en derecho proceda. En la tramitación de la resolución del recurso se aplicará supletoriamente lo dispuesto por el Código de Procedimientos Civiles del Estado.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ###### Artículo 27.
 
-La resolución que se dicte al recurso de revisión, será inatacable.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2007)
 
 ## TRANSITORIOS
 
@@ -288,3 +290,11 @@ DIPUTADA PRESIDENTA.- MARÍA ORTEGA RAMÍREZ.- DIPUTADO SECRETARIO.- ALFREDO ROS
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 7 siete días del mes de enero del año 2002 dos mil dos.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
