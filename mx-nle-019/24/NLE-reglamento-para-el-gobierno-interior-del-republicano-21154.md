@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2006-12-18"
+last_updated: "2007-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL R. AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -65,7 +65,9 @@ INDICE
 
 ## ARTÍCULOS TRANSITORIOS
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL R. AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
+
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
 ## TITULO PRIMERO.
 
@@ -79,21 +81,25 @@ Disposiciones generales.
 
 El presente Reglamento es de interés público y de observancia general en el territorio del Municipio de San Pedro Garza García, Nuevo León.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 2.
 
-Es objetivo de este Reglamento establecer las bases, en los términos de la Ley de la materia, de la integración, organización y funcionamiento del R. Ayuntamiento de San Pedro Garza García, Nuevo León.
+Es objetivo de este Reglamento establecer las bases, en los términos de la Ley de la materia, de la integración, organización y funcionamiento del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
 
 ###### ARTÍCULO 3.
 
 El Ayuntamiento es un órgano autónomo, colegiado deliberante que será la autoridad máxima en la programación, regulación, vigilancia y evaluación del ejercicio administrativo municipal, y cuyos miembros son de elección por sufragio universal, libre, igual, secreto y directo.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 4.
 
-El Ayuntamiento se integrará con los siguientes miembros:
+El Ayuntamiento se integrara con los siguientes miembros:
 
-I. Un Presidente Municipal, responsable directo de convocar, y dirigir las sesiones, de la ejecución de los acuerdos del Ayuntamiento y de encabezar la Administración Pública Municipal; y
+l.- Un Presidente Municipal, quien será el responsable directo de convocar y dirigir las sesiones, así como de la ejecución de los acuerdos emitidos por el Ayuntamiento y de encabezar la Administración Pública Municipal; y
 
-II. Un conjunto de regidores y síndicos, representantes de la comunidad encargados de programar, regular, vigilar y evaluar el ejercicio administrativo municipal, conforme a las disposiciones legales aplicables y en concordancia con los planes, programas, normas y criterios definidos por el propio Ayuntamiento.
+II.- Un conjunto de regidores y sindicos, quienes serán los representantes de la comunidad encargados de programar, regular, vigilar y evaluar el ejercicio administrativo municipal, conforme a las disposiciones legales aplicables y en concordancia con los planes, programas, normas y criterios definidos por el propio Ayuntamiento.
 
 Los regidores electos por mayoría relativa y los designados conforme al principio de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
@@ -101,43 +107,57 @@ Los regidores electos por mayoría relativa y los designados conforme al princip
 
 Los síndicos y regidores, podrán solicitar licencia al Ayuntamiento, la cual podrá ser temporal o definitiva, con goce de sueldo o sin goce de sueldo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 6.
 
-La licencia temporal podrá ser de una sesión y hasta de cuatro sesiones por año, la cual podrá ser renovada únicamente por dos sesiones más; el Ayuntamiento resolverá en cada caso atendiendo a las razones que motiven la licencia temporal, si ésta incluye el goce de sueldo para el solicitante y en que casos procede el goce del sueldo para el suplente.
+La licencia temporal podrá ser de una sesión y hasta de cuatro sesiones por año, la cual podrá ser renovada únicamente por dos sesiones mas; el Ayuntamiento resolverá en cada caso atendiendo a las razones que motiven la licencia temporal, si esta incluye el goce de sueldo para el solicitante y en que casos procede el goce del sueldo para el suplente.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 7.
 
-No podrán concederse, tal número de licencias que afecten el quórum para declarar válidamente instalada la sesión.
+No podrán concederse tal número de licencias que afecten el quórum para declarar válidamente instalada la sesión.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 8.
 
-El Ayuntamiento en sesión, acordará la solicitud de licencia, la cual se hará constar en el acta.
+El Ayuntamiento, en sesión, acordara la solicitud de licencia, la cual se hará constar en el acta.
 
 ###### ARTÍCULO 9.
 
 En caso de incapacidad médica debidamente acreditada de algún síndico o regidor, cuando ésta exceda de dos sesiones e inhabilite para el desempeño de sus atribuciones y obligaciones, será sometida al Ayuntamiento, para efecto de determinar, si se concede una licencia temporal.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 10.
 
-En caso de que algún regidor o síndico deje de desempeñar su cargo por licencia temporal o definitiva, otorgada por el R. Ayuntamiento, suspensión o revocación del mandato decretado por el H. Congreso del Estado, será sustituido por su suplente previa convocatoria del Presidente Municipal, la cual se realizará dentro de las 24 horas siguientes.
+En caso de que algún regidor o síndico deje de desempeñar su cargo por licencia temporal o definitiva, otorgada por el republicano Ayuntamiento, suspensión o revocación del, mandato decretado por el H. Congreso del Estado, será sustituido por su suplente previa convocatoria del Presidente Municipal, la cual se realizará dentro de las 24 horas siguientes.
 
-El suplente, en el término de 72 horas, deberá tomar protesta ante el R. Ayuntamiento y asumir el cargo.
+El suplente, en el término de 72 horas, deberá tomar protesta ante el Republicano Ayuntamiento y asumir el cargo.
 
-En el caso de licencia temporal o suspensión, una vez agotado su período, el regidor o síndico asumirá de nuevo su cargo, tomando la protesta del mismo ante el R. Ayuntamiento.
+En el caso de licencia temporal o suspensión, una vez agotado su período, el regidor o síndico asumirá de nuevo su cargo, tomando la protesta del mismo ante el Republicano Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 11.
 
-El Presidente Municipal, para el mayor desempeño de las funciones encomendadas por el Ayuntamiento, se apoyará en las dependencias y entidades que conforman la administración municipal, así como las que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, la Ley de la materia, y demás disposiciones legales aplicables.
+El Presidente Municipal, para el mayor desempeño de las funciones encomendadas por el Ayuntamiento, se apoyara en las dependencias y entidades que conforman la administración municipal, así como las que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, la Ley de la materia, y demás disposiciones legales aplicables.
 
-Los titulares de las dependencias y las entidades que conforman la administración municipal, serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos del Secretario del R. Ayuntamiento, Secretario de Finanzas y Tesorero Municipal y del Contralor, que requieren de la aprobación de los integrantes del Ayuntamiento.
+Los titulares de las dependencias y las entidades que conforman la administración municipal, serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos del Secretario del Republicano Ayuntamiento, Secretario de Finanzas y Tesorero Municipal y del Contralor, que requieren de la aprobación de los integrantes del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 12.
 
-El Ayuntamiento constituido conforme a lo señalado por la Constitución Política del Estado de Nuevo León, y la Ley de la materia, es el órgano de Gobierno del Municipio de San Pedro Garza García, Nuevo León.
+El Ayuntamiento, constituido conforme a lo señalado por la Constitución Política del Estado Libre y Soberano de Nuevo León, y la Ley de la materia, es el órgano de Gobierno del Municipio de San Pedro Garza García, Nuevo León.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 13.
 
-Los miembros del Ayuntamiento durarán en su cargo tres años y entrarán en funciones el 31 de octubre del año que corresponda a la celebración de elecciones para la renovación de Ayuntamientos. La desaparición y suspensión del Ayuntamiento así como la revocación del mandato a algunos de sus miembros, sólo podrá ser aplicable por el H. Congreso del Estado, si se incurre en alguna de las causas señaladas en la Ley de la materia, asegurando siempre el derecho a presentar en su favor las pruebas que ameriten su defensa.
+Los miembros del Ayuntamiento duraran en su cargo tres años y entrarán en funciones el 31 de octubre del año que corresponda a la celebración de elecciones para la renovación de Ayuntamientos. La desaparición y suspensión del Ayuntamiento, así como la revocación del mandato a algunos de sus miembros, sólo podrá ser aplicada por el H. Congreso del Estado, si se incurre en alguna de las causas señaladas en la Ley de la materia, asegurando siempre el derecho a presentar en su favor las pruebas que ameriten su defensa.
 
 ### CAPÍTULO II.
 
@@ -147,17 +167,23 @@ De la residencia e instalación.
 
 El Ayuntamiento de San Pedro Garza García, Nuevo León, residirá en la Ciudad de San Pedro Garza García, Nuevo León, tendrá su domicilio legal que ocupe la sede principal del Gobierno Municipal.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 15.
 
-Calificada la elección del nuevo Ayuntamiento por el H.Congreso del Estado de Nuevo León y publicados en el Periódico Oficial del Estado de Nuevo León, los nombres de las personas electas, el Presidente Municipal en funciones los convocará por concurrir a la sesión solemne para la instalación del Ayuntamiento que establece la Ley de la materia.
+Calificada la elección del nuevo Ayuntamiento por las autoridades electorales competentes y publicados en el Periódico Oficial del Estado de Nuevo León, los nombres de las personas electas, el Presidente Municipal en funciones los convocara para concurrir a la sesión solemne para la instalación del Ayuntamiento que establece la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 16.
 
-Reunidos el día y hora señalados en la convocatoria, bajo la dirección del Presidente Municipal en funciones, los integrantes del Ayuntamiento saliente y los electos, el Secretario del Ayuntamiento dará lectura a los nombres de estos últimos y encontrándose la mayoría, el Presidente Municipal saliente, declarará la existencia del quórum legal para todos los efectos de Ley.
+Reunidos el día y hora señalados en la convocatoria, bajo la dirección del Presidente Municipal en funciones, los integrantes del Ayuntamiento saliente y los electos, el Secretario del Republicano Ayuntamiento dará lectura a los nombres de estos últimos y encontrándose la mayoría, el Presidente Municipal saliente, declarará la existencia del quórum legal para todos los efectos de Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 17.
 
-El Presidente Municipal saliente, tomará protesta de Ley al nuevo Ayuntamiento en los siguientes términos: "Protestáis cumplir leal y patrióticamente el cargo que el pueblo en ejercicio de su soberanía os ha conferido a través del voto, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, las Leyes y Reglamentos que de ellas emanen, mirando en todo por el bien del Municipio y la prosperidad general". Los integrantes del Ayuntamiento entrante expresarán extendiendo su brazo derecho: "Sí Protesto".
+El Presidente Municipal, saliente, tomara protesta de Ley al nuevo Ayuntamiento en los siguientes términos: "¿Protestáis cumplir leal y patrióticamente el cargo que el pueblo en ejercicio de su soberanía os ha conferido a través del voto, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, las Leyes y Reglamentos que de ellas emanen, mirando en todo por el bien del Municipio y la prosperidad general?" Los integrantes del Ayuntamiento entrante expresaran extendiendo su brazo derecho: "Si Protesto".
 
 El Presidente Municipal saliente expresará:
 
@@ -173,9 +199,11 @@ En el acto de protesta deberán ponerse de pie los miembros del Ayuntamiento que
 
 Si el día señalado por la Ley para la protesta no concurrieran uno o más miembros de los electos, la rendirán en la primera sesión a la cual asistan.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
-Concluido el acto de protesta y habiendo quedado legítimamente instalado el Ayuntamiento que deberá fungir durante el próximo período constitucional, la autoridad saliente hará la entrega del Gobierno y la Administración, al Ayuntamiento, en términos establecido (sic) por la Ley respectiva.
+Concluido el acto de protesta y habiendo quedado legítimamente instalado el Ayuntamiento que deberá fungir durante el próximo periodo constitucional, la autoridad saliente hará la entrega del Gobierno y la Administración, al Ayuntamiento, en los términos establecidos por la Ley respectiva.
 
 ### CAPÍTULO III.
 
@@ -189,17 +217,25 @@ I. Durante las sesiones, discutir los asuntos que se pongan a consideración, y 
 
 II. Difundir entre los ciudadanos los reglamentos municipales.
 
-III. Procurar que la prestación de los servicios de alcantarillado, alumbrado público, limpia, panteones, calles, parques y jardines, seguridad pública y tránsito, sea de la más alta calidad y acorde con las necesidades de los ciudadanos.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE AGOSTO DE 2007)</small>
+
+III.- Procurar que la prestación de los servicios de alcantarillado, alumbrado público, limpia, panteones, calles, parques y jardines, seguridad pública y tránsito, sea de la más alta calidad y acorde con las necesidades de los ciudadanos.
 
 IV. Dar a conocer a los ciudadanos los programas del Gobierno Municipal, para mantener informada a la ciudadanía sobre las acciones de gobierno.
 
 V. Fomentar que entre los Ayuntamientos del área metropolitana, exista intercambio de experiencias en cuanto la Administración Pública Municipal, y con ella eficientarla.
 
-VI. Difundir, mediante la Gaceta Municipal el Plan Municipal de Desarrollo.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+VI. Difundir, mediante la Gaceta Municipal, el Plan Municipal de Desarrollo.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE AGOSTO DE 2007)</small>
 
 VII. Promover entre los ciudadanos al (sic) catálogo de patrimonio histórico y cultural del Municipio, y exhortar a la población a la conservación de los bienes inmuebles con carácter de patrimonio histórico y cultural.
 
-VIII. Buscar una actualización de los reglamentos municipales, acorde a la evolución del Municipio y la Administración Pública Municipal.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+VIII. Buscar la actualización de los reglamentos municipales, acorde a la evolución del Municipio y la Administración Pública Municipal.
 
 IX. Contemplar dentro del presupuesto de egresos, todas las acciones necesarias para el mejor desarrollo de la Administración Pública Municipal.
 
@@ -229,33 +265,51 @@ Del presidente Municipal.
 
 Son atribuciones del Presidente Municipal, las siguientes:
 
-I. Convocar y establecer el orden de los asuntos que deben ponerse a discusión en las sesiones, atendiéndose preferentemente aquellos que se refieran a utilidad pública, a no ser que por mayoría de votos de los integrantes del Ayuntamiento, se decida por otro orden.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
 
-Conceder el uso de la palabra a los miembros del Ayuntamiento en el orden que lo soliciten. Pero en caso que observe que algún miembro, solo pretenda prolongar el asunto sin contar con bases sólidas, le retirará el uso de la palabra y se proseguirá con la sesión, a solicitud de algún miembro del Ayuntamiento.
+I. Convocar y establecer el orden de los asuntos que deben ponerse a discusión en las sesiones, atendiéndose preferentemente aquellos que se refieran a utilidad, pública, a no ser que por mayoría de votos de los integrantes del Ayuntamiento se decida por otro orden.
 
-III (SIC). Hacer uso de la palabra en las sesiones del Ayuntamiento para emitir su criterio sobre el asunto que se trate, teniendo voto de calidad en caso de empate en las decisiones que tome el Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
 
-IV. Exhortar, a instancia propia o solicitud de algunos de los miembros del cuerpo colegiado al integrante que no observe la conducta adecuada durante el desarrollo de la sesión respectiva a fin de que guarde el orden y respeto que el Ayuntamiento merece.
+II. Conceder el uso de la palabra a los miembros del Ayuntamiento en el orden que lo soliciten, pero en caso que observe que algún miembro solo pretenda prolongar el asunto sin contar con bases solidas, le retirara el uso de la palabra y se proseguirá con la sesión.
 
-V. Solicitar la suspensión de la sesión respectiva cuando rebase las tres horas de duración que fija el Reglamento a no ser que por mayoría de votos se decida por los miembros del Ayuntamiento continuarla, hasta agotar los asuntos a tratar.
+III. Hacer uso de la palabra en las sesiones del Ayuntamiento para emitir su criterio sobre el asunto que se trate, teniendo voto de calidad en caso de empate en las decisiones que tome el Ayuntamiento.
 
-VI. Cumplir adecuadamente con todas y cada una de las facultades y obligaciones que le concede o fije las Leyes, Reglamentos o el propio Ayuntamiento, así como aquellas que resulte (sic) inherentes al cargo que desempeña.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+IV. Exhortar, a instancia propia o solicitud de alguno de los miembros del cuerpo colegiado al integrante que no observe la conducta adecuada durante el desarrollo de la sesión respectiva, a fin de que guarde el orden y respeto que el Ayuntamiento merece.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+V. Solicitar la suspensión de la sesión respectiva cuando rebase las tres horas de duración que fija el Reglamento, a no ser, que por mayoría de votos, se decida por los miembros del Ayuntamiento continuarla, hasta agotar los asuntos a tratar.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+VI. Cumplir adecuadamente con todas y cada una de las facultades y obligaciones que le concedan las Leyes, Reglamentos o el propio Ayuntamiento, así como aquellas que resulten inherentes al cargo que desempeña.
 
 VII. Procurar que los Secretarios rindan los informes mensuales.
 
-VIII. Auxiliarse de los demás integrantes del Ayuntamiento para el cumplimiento de sus funciones para tal caso, proponiendo comisiones permanentes o transitorias, en las que eligirá (sic) a los ediles que la integrarán.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+VIII. Auxiliarse de los demás integrantes del Ayuntamiento para el cumplimiento de sus funciones, para tal caso proponiendo Comisiones permanentes o transitorias.
 
 IX. Firmar los acuerdos, las actas de las sesiones y la correspondencia oficial en unión del Secretario del Ayuntamiento.
 
 X. Proponer al Ayuntamiento el reconocimiento a personas o instituciones que se distinguen por su actuar en beneficio de la comunidad.
 
-XI. Proponer al Ayuntamiento la declaratoria de hermanamiento con otras ciudades nacionales o extranjeras.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+XI. Proponer al Ayuntamiento la declaratoria de hermanamiento con otras ciudades, nacionales o extranjeras.
 
 XII. Proponer al Ayuntamiento la participación en agrupaciones locales, nacionales e internacionales.
 
-XIII. Ser el responsable de la colaboración y coordinación que debe guardarse con las autoridades electorales en términos de la legislación federal y estatal aplicable.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
 
-XIV. Decretar un receso en o durante las sesiones cuando lo estime conveniente.
+XIII. Ser el responsable de la colaboración y coordinación que debe guardarse con las autoridades electorales, en términos de la legislación federal y estatal aplicable.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+XIV. Decretar recesos durante las sesiones cuando lo estime conveniente.
 
 XV. Las demás que se desprendan de la Ley de la materia, este Reglamento y otras disposiciones generales.
 
@@ -269,13 +323,17 @@ Los regidores tendrán las siguientes atribuciones:
 
 I. Asistir con puntualidad a las sesiones a las que sean convocados, tendiendo derecho a participar con voz y voto.
 
-II. Solicitar el (sic) Presidente Municipal el uso de la palabra esperando el turno que les corresponda para su intervención.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+II. Solicitar al Presidente Municipal el uso de la palabra esperando el turno que les corresponda para su intervención.
 
 III. Observar la compostura necesaria durante la sesión respectiva.
 
 IV. Proponer a los demás miembros del Ayuntamiento los proyectos que revistan importancia y resulten necesarios para la solución de los problemas que se atienden en sus comisiones.
 
-V. Manifestar su inconformidad sobre el trámite que dicte el Presidente Municipal para la solución de determinado asunto, debiendo señalar el que su (sic) criterio sea procedente y exponer los motivos y fundamentos en que se basa.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+V. Manifestar su inconformidad sobre el trámite que dicte el Presidente Municipal para la solución de determinado asunto, debiendo señalar el que a su criterio sea procedente y exponer los motivos y fundamentos en que se basa.
 
 VI. Auxiliar al Ayuntamiento en sus actividades a través de la comisión o comisiones que le sean encomendadas.
 
@@ -289,9 +347,13 @@ X. Vigilar el exacto cumplimiento de las Leyes, Reglamentos y disposiciones eman
 
 XI. Atender las indicaciones que el Presidente Municipal les haga para el mejor desarrollo de las comisiones.
 
-XII. Solicitar informe por escrito a los Secretarios de la Administración Pública Municipal.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
 
-XIII. Dar aviso al Secretario del Ayuntamiento por escrito en caso de falta a las sesiones.
+XII. Solicitar informe, por escrito, a los Secretarios de la Administración Pública Municipal.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+XIII. Dar aviso al Secretario del Ayuntamiento, por escrito, en caso de falta a las sesiones.
 
 XIV. Las demás que les fijen las Leyes, Reglamentos, o el propio Ayuntamiento.
 
@@ -303,7 +365,9 @@ De los síndicos.
 
 Los síndicos, tendrán las atribuciones siguientes:
 
-I. Asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento, tendiendo derecho a participar con voz y voto en las deliberaciones y votaciones que se realicen en ella.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+I. Asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento, teniendo derecho a participar con voz y voto en las deliberaciones y votaciones que se realicen en ellas.
 
 II. Observar una conducta adecuada en el desarrollo de las sesiones y para poder expresar su criterio respecto al asunto que considere pertinente, deberán solicitar al Presidente Municipal les conceda el uso de la palabra, esperando el turno que les corresponde.
 
@@ -315,7 +379,9 @@ V. Vigilar que con oportunidad se presenten al H Congreso del Estado de Nuevo Le
 
 VI. Cuidar que la Hacienda Pública Municipal no sufra menoscabo y dilucidar las cuestiones relativas a la presentación de glosas, informes trimestrales y cuenta pública.
 
-VII. Dar avisos (sic) por escrito al Secretario del Ayuntamiento en caso de falta a las sesiones.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+VII. Dar aviso, por escrito, al Secretario del Ayuntamiento, en caso de falta a las sesiones.
 
 VIII. Las demás que resulten procedentes, conforme a los ordenamientos legales y Reglamentos, así como por disposición del Ayuntamiento.
 
@@ -341,25 +407,31 @@ II. Extraordinarias.
 
 III. Solemnes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 27.
 
-Son ordinarias las sesiones que, en los términos de la Ley respectiva, se celebraran los segundos y cuartos martes de cada mes, comenzando por regla general a las 8:00 horas y terminando a las 11:00 horas pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, con la facultad de cambiar día y hora según las condiciones correspondientes.
+Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se celebrarán los segundo y cuarto (sic) martes de cada mes, comenzando por regla general a las 8:00 horas y terminando a las 11:00 horas, pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, con la facultad de cambiar día y hora según las condiciones correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 28.
 
-Serán extraordinarias las sesiones que se celebren cuando un asunto urgente lo requiera. Para ello bastará la solicitud del Presidente Municipal o, de cuando menos, la mitad más uno de los miembros del Ayuntamiento.
+Serán extraordinarias las sesiones que se celebren cuando un asunto urgente lo requiera. Para ello, bastara la solicitud del Presidente Municipal o, de cuando menos, la mitad más uno de los miembros del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 29.
 
-Serán solemnes aquellas a las que el Ayuntamiento les dé ese carácter por la importancia del asunto de que se trate. Siempre serán sesiones solemnes:
+Serán solemnes aquellas a las que el Ayuntamiento les dé ese carácter por la importancia del asunto de que se trate. Se consideran sesiones solemnes:
 
 I. La protesta del Ayuntamiento.
 
 II. La lectura del informe del Presidente Municipal.
 
-III. Las sesiones a las que concurren el Presidente de la República o el Gobernador del Estado a las que concurran titulares de Poderes Públicos Federales, Estatales o de otros Municipios.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+III. Las sesiones a las que concurran el Presidente de la Republica o el Gobernador del Estado y los titulares de otros Poderes Públicos Federales, Estatales o de otros Municipios.
 
 IV. En las que se haga entrega de las llaves de la ciudad o algún otro premio o reconocimiento que el Ayuntamiento determine otorgar en este tipo de sesiones.
 
@@ -367,63 +439,77 @@ IV. En las que se haga entrega de las llaves de la ciudad o algún otro premio o
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el recinto oficial del Ayuntamiento en Palacio Municipal, y las solemnes en el recinto que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial. En caso especial y previo acuerdo del Ayuntamiento, podrán celebrarse en otro lugar abierto o cerrado, que previamente sea declarado como recinto oficial para la celebración de la sesión.
 
+(REFORMADO, P.O. 27 DE AGOSTO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
+
 ###### ARTÍCULO 31.
 
 Las sesiones del Ayuntamiento conforme a lo señalado por la Ley respectiva, serán públicas, salvo en los siguientes casos:
 
-I. Cuando por naturaleza de los asuntos a tratar, sea, a juicio del Ayuntamiento, conveniente la presencia exclusiva de sus miembros.
+l.- Cuando por naturaleza de los asuntos a tratar, sea, a juicio del Ayuntamiento, conveniente la presencia exclusiva de sus miembros.
 
-II. Cuando los asistentes invitados no guarden el orden debido, por lo cual, el Secretario del Ayuntamiento, los invitará a abandonar el recinto y reanudar la sesión únicamente con los miembros del Ayuntamiento.
+II.- Cuando los asistentes invitados no guarden el orden debido, por lo cual, el Secretario del Republicano Ayuntamiento, los invitará a abandonar el recinto y reanudar la sesión únicamente con los miembros del Ayuntamiento.
 
 ###### ARTÍCULO 32.
 
 La convocatoria para las sesiones extraordinarias y solemnes, se efectuarán mediante notificación por escrito, especificando los asuntos a tratar, en el domicilio del miembro del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 33.
 
-Para que las sesiones del Ayuntamiento sean validas, se necesita la asistencia de la mitad más uno de sus integrantes.
+Para que las sesiones del Ayuntamiento sean válidas, se necesita la asistencia de la mitad más uno de sus integrantes.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 34.
 
-Los miembros del Ayuntamiento podrán celebrar sesiones de carácter informativo, previas a las sesiones ordinarias, las cuales se verificarán por convocatoria escrita, en el domicilio del miembro del Ayuntamiento. La convocatoria será enviada por el Secretario del Ayuntamiento, con 24 horas de anticipación. Las sesiones se celebrarán en el lugar y horario que para tal efecto se señale.
+Los miembros del Ayuntamiento podrán celebrar sesiones de carácter informativo, previas a las sesiones ordinarias, las cuales se verificaron por convocatoria escrita, en el domicilio del miembro del Ayuntamiento. La convocatoria será enviada por el Secretario del Republicano Ayuntamiento, con 24 horas de anticipación. Las sesiones se celebrarán en el lugar y horario que para tal efecto se señale.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 35.
 
-El miembro del Ayuntamiento que no hubiere asistido a una sesión, podrá solicitar que se le informe de o los acuerdos tomados en su ausencia.
+El miembro del Ayuntamiento que no hubiere asistido a una sesión, podrá solicitar que se le informe del o de los acuerdos tomados en su ausencia.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 36.
 
-En la sesión, el Secretario del R. Ayuntamiento, dará cuenta de los asuntos en el orden siguiente:
+En la sesión, el Secretario del Republicano Ayuntamiento, dará cuenta de los asuntos en el orden siguiente:
 
-I. Lista de Asistencia.
+I.- Lista de Asistencia.
 
-II. Declaratoria de quórum en su caso y de apertura de la sesión.
+II.- Declaratoria de quórum en su caso y de apertura de la sesión.
 
-III. Aprobar el acta de la sesión anterior, cuyas copias se proporcionarán oportunamente para que se formulen, por escrito, las sugerencias de corrección.
+III.- Aprobar el acta de la sesión anterior, cuyas copias se proporcionarán oportunamente para que se formulen, por escrito, las sugerencias de corrección.
 
-IV. Se recibirán por escrito las sugerencias de corrección al acta de la sesión anterior que formulen los miembros del Ayuntamiento, consultándose a los demás integrantes sobre su aprobación o modificación en caso de divergencia sobre su contenido. A continuación, se procederá a firmar dicha acta por cada uno de los integrantes.
+IV.- Se recibirán por escrito las sugerencias de corrección al acta de la sesión anterior que formulen los miembros del Ayuntamiento, consultándose a los demás integrantes sobre su aprobación o modificación en caso de divergencia sobre su contenido. A continuación, se procederá a firmar dicha acta por cada uno de los integrantes.
 
-V. Informe sobre el cumplimiento de los acuerdos adoptados por el R. Ayuntamiento en la sesión anterior.
+V.- Informe sobre el cumplimiento de los acuerdos adoptados por el Republicano Ayuntamiento en la sesión anterior.
 
-VI. Iniciativas propuestas por los integrantes del Ayuntamiento.
+VI.- Iniciativas propuestas por los integrantes del Ayuntamiento.
 
-VII. Asuntos específicos a tratar por las Comisiones.
+VII.- Asuntos especificas a tratar por las Comisiones.
 
-VIII. Asuntos generales. Los asuntos generales a tratar deberán ser inscritos al principio de la sesión.
+VIII.- Asuntos generales. Los asuntos generales a tratar deberán ser inscritos al principio de la sesión.
 
-IX. Clausura.
+IX.- Clausura.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 37.
 
-Las sesiones tendrán una duración de tres horas, el Ayuntamiento podrá acordar que se prolongue (sic). Durante las mismas queda prohibido fumar y recibir llamadas por teléfonos celulares.
+Las sesiones tendrán una duración de tres horas, el Ayuntamiento podrá acordar que se prolonguen. Durante las mismas queda prohibido fumar, hacer y recibir llamadas por teléfonos celulares.
 
 ###### ARTÍCULO 38.
 
 Los integrantes del Ayuntamiento deben asistir a todas las sesiones.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 39.
 
-Los Secretarios de la Administración Municipal, cuando se discuta algún asunto de su competencia, deberán comparecer ante el Ayuntamiento por acuerdo de este mismo o a solicitud del Presidente Municipal. Dicha reunión será privada o pública conforme al acuerdo que para tal efecto tome el Ayuntamiento.
+Los Secretarios de la Administración Municipal, cuando se discuta algún asunto de su competencia, deberán comparecer ante el Ayuntamiento por acuerdo de este mismo o a solicitud del Presidente Municipal. Dicha reunión será privada o pública, conforme al acuerdo que para tal efecto tome el Ayuntamiento.
 
 Durante el desarrollo de las sesiones el Presidente Municipal podrá solicitar que se realice consulta a algún miembro de la administración pública que se encuentre presente entre el público.
 
@@ -433,41 +519,67 @@ Para permitir el ingreso a la sala de sesiones se requerirá la inscripción en 
 
 De las discusiones en las sesiones.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 40.
 
-El Presidente Municipal, presidirá las sesiones y dirigirá el uso de la palabra pudiendo delegarla en el Secretario del Ayuntamiento, proporcionando la información para el mayor entendimiento de los asuntos.
+El Presidente Municipal presidirá las Sesiones y de manera directa o a través del Secretario del Republicano Ayuntamiento dirigirá el desarrollo de las mismas conforme al orden del día establecido, proporcionando la información para el mayor entendimiento de los asuntos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 41.
 
-Conforme a la orden del día se leerá la iniciativa, proposición u oficio que la hubiere provocando (sic) y después el dictamen de la comisión a cuyo examen se remitió.
+Conforme al orden del día se leerá el documento que contiene el tema materia de la discusión.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 42.
 
-La comisión dictaminadora deberá explicar los motivos y exponer su dictamen y leerá constancias del expediente, si fuere necesario, acto seguido se pondrá el asunto a consideración de los miembros del Ayuntamiento, para que realicen sus manifestaciones.
+Se expondrán los argumentos que funde y motiven la propuesta de acuerdo contenido en el documento, en su caso se leerán las constancias del expediente y acto seguido se pondrá el asunto a consideración de los integrantes del Republicano Ayuntamiento, para que realicen sus manifestaciones.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 43.
 
-Los miembros del Ayuntamiento, podrán hacer uso de la palabra ilimitadamente.
+Los miembros del Ayuntamiento podrán hacer uso de la palabra ilimitadamente.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 44.
 
-Si al ponerse a discusión una propuesta, ninguno de los miembros del Ayuntamiento hace uso de la palabra en contra de ésta se someterá a votación de inmediato.
+Si al ponerse a discusión una propuesta, ninguno de los miembros del Republicano Ayuntamiento hace uso de la palabra en contra de ésta, se someterá a votación de inmediato.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 45.
 
-El integrante del Ayuntamiento que haga uso de la palabra ya sea para informar o discutir, tendrá libertad para expresar sus ideas sin que pueda ser reconvenido por ello, pero se abstendrá de emitir ofensa alguna en cualquier forma.
+El integrante del Republicano Ayuntamiento que haga uso de la palabra ya sea para informar o discutir, tendrá libertad para expresar sus ideas sin que pueda ser reconvenido por ello, pero se abstendrá de emitir ofensa alguna en cualquier forma.
 
 ###### ARTÍCULO 46.
 
 Cuando la discusión derive en cuestiones ajenas al tema tratado, el Presidente Municipal hará volver al tema de discusión y procurará centrar la misma y llamar al orden a quien lo quebrante.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 47.
 
-Cuando un Reglamento, dictamen, moción o proposición constare de más de un artículo se discutirá primero en lo general y se declarara que ha lugar a votar. Se discutirá después cada artículo en lo particular.
+Cuando un Reglamento, dictamen, moción o proposición constare de más de un artículo se discutirá primero en lo general y una vez agotado el debate, se consultará a los integrantes del Republicano Ayuntamiento si desean reservar algún artículo en lo particular.
 
-En caso de los Reglamentos, la votación en lo general y en lo particular podrá realizarse en diferentes sesiones.
+En caso de que no se reserve alguno, se votara integro en un solo acto el Reglamento, dictamen, moción o proposición.
 
-Siempre que algún integrante del Ayuntamiento lo solicite, se podrá acordar, por mayoría de votos que se divida un artículo en las partes necesarias para facilitar la discusión.
+En el supuesto de que se hayan hecho reservas, se votara en lo general el dictamen, salvo los artículos reservados en lo particular.
+
+Una vez agotado lo anterior, se procederá a la votación en lo particular, de la siguiente manera:
+
+l.- La deliberación se constreñirá únicamente a los artículos que cada uno de los integrantes del Republicano Ayuntamiento hayan reservado.
+
+II.- Se concederá el uso de la palabra a los integrantes del Republicano Ayuntamiento, en el orden numérico ascendente de los artículos reservados.
+
+III.- Se abrirá la discusión permitiéndose únicamente réplica y contrarréplica hasta por tres minutos por cada intervención y solo podrán ser interrumpidos por quien preside la Sesión.
+
+IV.- Una vez agotada la discusión, se redactara el texto propuesto del artículo derivado de la discusión, mismo que será leído por el Secretario del Republicano Ayuntamiento y se someterá a la votación de los integrantes del Pleno del Republicano Ayuntamiento.
+
+Siempre que algún integrante del Republicano Ayuntamiento lo solicite, se podrá acordar, por mayoría de votos que se divida un artículo en las partes necesarias para facilitar la discusión…
 
 Durante la discusión de un tema en el cual apareciere que el miembro del Ayuntamiento, tuviere interés personal, familiar o de negocios, se abstendrá de participar en la discusión indicándolo así, desde el momento en que se pone a consideración del Ayuntamiento el asunto correspondiente.
 
@@ -479,13 +591,17 @@ Todo miembro del Ayuntamiento tiene facultad para realizar en las sesiones las p
 
 De las votaciones.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 49.
 
-Las resoluciones o acuerdos del Ayuntamiento se tomarán por votación de la mayoría de los integrantes presentes; sólo tratándose de la aprobación de iniciativas de adición o reforma a la Constitución Política del Estado de Nuevo León, de aprobación o reforma a los Reglamentos municipales se requerirá del voto de las dos terceras partes de los miembros. Igualmente se requerirá tal votación para el ejercicio de acciones de inconstitucionalidad, en los casos de afectaciones al patrimonio inmobiliario o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
+Las resoluciones o acuerdos del Ayuntamiento se tomarán por votación de la mayoría de los integrantes presentes; solo tratándose de la aprobación de iniciativas de adición o reforma a la Constitución Política del Estado Libre y Soberano de Nuevo León, de aprobación o reforma a los Reglamentos municipales se requerirá del voto de las dos terceras partes de los miembros. Igualmente se requerirá tal votación para el ejercicio de acciones de inconstitucionalidad, en los casos de afectaciones al patrimonio inmobiliario o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
+
+(REFORMADO, P.O. 27 DE AGOSTO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 50.
 
-Antes de iniciar la votación el Presidente Municipal, hará la siguiente declaración: "Se somete a votación de los presentes", seguidamente el Secretario del Ayuntamiento procederá a recogerla en los términos previstos por este Reglamento.
+Antes de iniciar la votación el Secretario del Republicano Ayuntamiento hará la siguiente declaración: "Se somete a votación el siguiente acuerdo", dando lectura al texto del acto propuesto, en seguida recogerá la votación en los términos previstos por este Reglamento.
 
 ###### ARTÍCULO 51.
 
@@ -507,105 +623,121 @@ II. El Secretario del Ayuntamiento anotará los que voten afirmativamente, así 
 
 III. Concluida la votación, el Secretario del Ayuntamiento, procederá a efectuar el cómputo y dirá el número total de cada lista, haciéndolo constar en el acta respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 53.
 
 Serán votaciones nominales cuando:
 
-I. Se requiera aprobar el Plan Municipal de Desarrollo.
+l.- Se requiera aprobar el Plan Municipal de Desarrollo.
 
-II. En la aprobación de los Reglamentos, circulares y disposiciones Administrativas.
+II.- En la aprobación de los Reglamentos, circulares y disposiciones Administrativas.
 
-III. En el caso de iniciativa de adiciones o reformas a la Constitución Política del Estado de Nuevo León.
+III.- En el caso de iniciativa de adiciones o reformas a la Constitución Política del Estado Libre y Soberano de Nuevo León.
 
-IV. Todos aquellas que, a solicitud de cuando menos dos terceras partes de los miembros del Ayuntamiento, así lo acuerden.
+IV.- Todos aquellas que, a solicitud de cuando menos dos terceras partes de los miembros del Ayuntamiento, así lo acuerden.
+
+La votación nominal podrá realizarse de manera económica, en los casos que así lo acuerden las dos terceras partes de los integrantes del Republicano Ayuntamiento presentes en la Sesión.
+
+En este caso deberá asentarse en el acta el sentido y numero de los votos discordantes y enunciar quienes los emitieron.
 
 ###### ARTÍCULO 54.
 
 Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento, será económicas; que consistirá en levantar la mano.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 55.
 
-Las votaciones para elegir personas, se harán por cédula impersonal, asegurando el secreto del voto y se depositarán en una ánfora. El Secretario del Ayuntamiento, procederá al recuento de la votación y manifestará en voz alta el resultado, haciéndolo constar en al (sic) acta respectiva.
+Las votaciones para elegir personas, se harán por cédula impersonal, asegurando el secreto del voto y se depositaran en una ánfora. El Secretario del Republicano Ayuntamiento, procederá al recuento de la votación y manifestará en voz alta el resultado, haciéndolo constar en al (sic) acta respectiva.
 
-El Presidente Municipal, los Síndicos y los Regidores, deberán de excusarse de intervenir en cualquier forma en la votación en aquellos asuntos en que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pudiera resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta de cuarto grado, por afinidad o civiles hasta el segundo grado o para terceros con las que tengan relaciones personales, laborales o de negocios o para socios o sociedades de las que el servidor público forme o haya formado parte.
+El Presidente Municipal, los Síndicos y los Regidores, deberán de excusarse de intervenir en cualquier forma en la votación en aquellos asuntos en que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pudiera resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta de cuarto grado, por afinidad o civiles hasta el segundo grado o para terceros con los que tengan relaciones personales, laborales o de negocios o para socios o sociedades de las que el servidor público forme o haya formado parte.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 56.
 
-En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal resolverá el asunto en cuestión en ejercicio de su voto de calidad, pudiendo abstenerse exponiendo sus razones.
+En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal resolverá el asunto en cuestión en ejercicio de su voto de calidad, pudiendo abstenerse, exponiendo sus razones.
 
 Los Síndicos y Regidores al momento de la votación, podrán excusarse o abstenerse, expresando las razones conducentes.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 57.
 
-Los acuerdos sobre resoluciones del Ayuntamiento, sólo podrán ser revocados, observando lo dispuesto en la Ley de la materia.
+Los acuerdos sobre resoluciones del Ayuntamiento, solo podrán ser revocados observando lo dispuesto en la Ley de la materia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO IV.
 
-De las comisiones.
+De las Comisiones.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 58.
 
-Para estudiar, examinar, proponer alternativas de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, este órgano colegiado se organizará en comisiones, que podrán ser permanentes o transitorias.
+Para estudiar, examinar, proponer alternativas de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, este órgano colegiado se organizará en Comisiones, que podrán ser permanentes o transitorias.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 59.
 
-Las comisiones del Ayuntamiento serán presididas por alguno de sus miembros, elegida por estos mismos, a excepción de la Comisión de Hacienda y Patrimonio Municipal y la de Gobierno y Reglamentación, las cuales serán presididas por el Sindico Primero y el Sindico Segundo respectivamente y estarán integradas por cuando menos tres de sus miembros, siendo necesario que al menos un regidor lo sea por el principio de representación proporcional. Nadie podrá presidir más de dos comisiones.
+Las Comisiones del Ayuntamiento serán presididas por alguno de sus miembros, elegido por estos mismos, a excepción de la Comisión de Hacienda y Patrimonio Municipal y la de Gobierno y Reglamentación, las cuales serán presididas por el Sindico Primero y el Sindico Segundo respectivamente y estarán integradas por cuando menos tres de sus miembros, siendo necesario que al menos un regidor lo sea por el principio de representación proporcional. Nadie podrá presidir más de dos Comisiones.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 60.
 
-Las comisiones permanentes se nombraran en la primera sesión del año de gestión, y serán de carácter obligatorio las siguientes:
+Las Comisiones permanentes se nombrarán en la primera sesión del año de gestión, y serán de carácter obligatorio las siguientes:
 
-l. De Gobierno y Reglamentación, que será presidida por el Sindico Segundo.
+I.- De Gobierno y Reglamentación, que será presidida por el Sindico Segundo.
 
-II. De Hacienda y Patrimonio Municipal, que será presidida por el sindico primero.
+II.- De Hacienda y Patrimonio Municipal, que será presidida por el Síndico Primero.
 
-III. De Infraestructura y Servicios Públicos.
+III.- De Infraestructura y Servicios Públicos.
 
-IV. De Desarrollo Social.
+IV.- De Desarrollo Social.
 
-V. De Espectáculos y Expendios de Bebidas Alcohólicas.
+V.- De Espectáculos y Expendios de Bebidas Alcohólicas.
 
-VI. De Honor y Justicia.
+VI.- De Honor y Justicia.
 
-VIl. De Participación Ciudadana.
+VII.- De Participación Ciudadana.
 
-VlII. De Desarrollo Urbano.
+VIII.- De Desarrollo Urbano.
 
-IX. De Seguridad Pública y Vialidad.
+IX.- De Seguridad Pública y Vialidad.
 
-X. Medio Ambiente e Imagen Urbana.
+X.- Medio Ambiente e Imagen Urbana.
 
-XI. De Transparencia.
+XI.- De Transparencia.
 
-XII. Todas las demás que determine el Ayuntamiento en el ejercicio de sus atribuciones que se consideren necesarias para el eficaz despacho de los asuntos Municipales.
+XII.- Todas las demás que determine el Ayuntamiento en el ejercicio de sus atribuciones, que se consideren necesarias para el eficaz despacho de los asuntos Municipales.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 61.
 
-Son atribuciones de las comisiones de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
+Son atribuciones de las Comisiones de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
 
-I. De Gobierno y Reglamentación.
+l.- De Gobierno y Reglamentación.
 
 1. Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Nuevo León, las Leyes que de ella emanen, el presente Reglamento y demás ordenamientos legales que normen la vida jurídica del Municipio.
 
 2. Realizar un dictamen de las iniciativas a Reglamentos Municipales, el cual deberá contener una exposición de motivos.
 
-3. Proponer al R. Ayuntamiento las iniciativas del Reglamento que formule la propia comisión.
+3. Proponer al R. Ayuntamiento las iniciativas del Reglamento que formule la propia Comisión.
 
 4. Elaborar el Padrón Municipal de los habitantes del Municipio.
 
-5. Llevar el registro de los templos religiosos de conformidad con el artículo 130 Constitucional y las demás que le confiera el Ayuntamiento.
+5. (DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
-6. Recibir las iniciativas que presenten los residentes del Municipio, para su análisis y dictamen y proponerla al Ayuntamiento.
+6. Recibir las iniciativas que presenten los residentes del Municipio, para su análisis y dictamen y proponerlas al Ayuntamiento.
 
 7. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-II. De Hacienda y Patrimonio Municipal.
+II.- De Hacienda y Patrimonio Municipal
 
 1. Proponer el inventario de bienes municipales.
 
@@ -615,7 +747,7 @@ II. De Hacienda y Patrimonio Municipal.
 
 4. Fomentar mecanismos para el correcto cumplimiento de las Leyes Reglamentos y demás disposiciones de carácter fiscal.
 
-5. Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobaba.
+5. Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobado.
 
 6. Promover y vigilar el cumplimiento y observancia oportuna del Plan Municipal de Desarrollo.
 
@@ -623,7 +755,7 @@ II. De Hacienda y Patrimonio Municipal.
 
 8. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-III. De Infraestructura y Servicios Públicos.
+III.- De Infraestructura y Servicios Públicos.
 
 1. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de servicios públicos.
 
@@ -635,23 +767,23 @@ III. De Infraestructura y Servicios Públicos.
 
 5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-IV. De Desarrollo Social.
+IV.- De Desarrollo Social.
 
-1. Desarrollar actividades educativas, culturales, cívicas y recreativas, tanto a los empleados municipales como a los sampetrinos.
+1. Desarrollar actividades educativas, culturales, cívicas y recreativas, tanto a los trabajadores y empleados municipales, así como a los sampetrínos.
 
 2. Fomentar la participación de la ciudadanía en los desfiles cívicos, atléticos y eventos municipales.
 
 3. Promover campañas de salubridad.
 
-4. Buscar la otorgación de becas a las estudiantes de escasos recursos y altas calificaciones.
+4. Buscar el otorgamiento de becas a estudiantes de escasos recursos y altas calificaciones.
 
 5. Fomentar entre los ciudadanos la conservación de los inmuebles municipales.
 
 6. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-V. De Espectáculos y Expendios de bebidas alcohólicas.
+V.- De Espectáculos y Expendios de bebidas alcohólicas.
 
-1. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta a al copeo.
+1. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta o al copeo.
 
 2. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella cerrada.
 
@@ -659,17 +791,17 @@ V. De Espectáculos y Expendios de bebidas alcohólicas.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-VI. De Honor y Justicia.
+VI.- De Honor y Justicia.
 
-1. Auxiliar al Ayuntamiento, en el caso del procedimiento de responsabilidad, establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado, cuando se trate de un miembro de elección popular.
+1. Auxiliar al Ayuntamiento, en el caso del procedimiento de responsabilidad, establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, cuando se trate de un miembro de elección popular.
 
-2. Analizar el trato de los empleados municipales con los sampetrinos, proponiendo mejora la imagen de los Servidores Públicos.
+2. Analizar el trato de los empleados municipales con los sampetrinos, proponiendo mejorar la imagen de los Servidores Públicos.
 
 3. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-VII. De Participación Ciudadana.
+VII.- De Participación Ciudadana.
 
-1. Promover la participación de las juntas de vecinos en las actividades municipales.
+1. Promover la participación de las Juntas de Vecinos en las actividades municipales.
 
 2. Vigilar que las solicitudes de los ciudadanos a las diferentes Dependencias municipales, sean debidamente diligenciadas.
 
@@ -677,11 +809,11 @@ VII. De Participación Ciudadana.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-VIII. De Desarrollo Urbano.
+VIII.- De Desarrollo Urbano.
 
-1. Las conferidas en el Reglamento del Plan Parcial.
+1. Las conferidas en los Reglamentos de la materia.
 
-2. Difundir el contenido de planos, programas, leyes y reglamentos urbanísticos al público en general.
+2. Difundir el contenido de los planes, programas, leyes y reglamentos de la materia al público en general.
 
 3. Buscar la participación de la ciudadanía en la revisión de los planes, programas y proyectos de ordenamiento urbano.
 
@@ -689,11 +821,11 @@ VIII. De Desarrollo Urbano.
 
 5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-IX. De Seguridad Pública y Vialidad.
+IX.- De Seguridad Pública y Vialidad.
 
-1. Fomentar medidas de orden publica a los ciudadanos.
+1. Fomentar medidas de orden público a los ciudadanos.
 
-2. Proponer al uso de tecnología a la prevención de delitos y accidentes viales.
+2. Proponer el uso de tecnología a la prevención de delitos y accidentes viales.
 
 3. Buscar impartir cursos de educación vial.
 
@@ -703,15 +835,15 @@ IX. De Seguridad Pública y Vialidad.
 
 6. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-X. De Medio Ambiente e Imagen Urbana.
+X.- De Medio Ambiente e Imagen Urbana.
 
 1. Atender, conocer y dictaminar sobre asuntos que se sometan al Ayuntamiento en materia de medio ambiente e imagen urbana.
 
-2. Vigilar que se cumplan los acuerdas del Ayuntamiento en materia de parques y jardines.
+2. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de parques y jardines.
 
 3. Conocer y dictaminar lo relacionado a los anuncios.
 
-4. Promover campañas da Salud.
+4. Promover campañas de Salud.
 
 5. Fomentar campañas entre los empleados municipales de conservación de los recursos materiales.
 
@@ -721,9 +853,9 @@ X. De Medio Ambiente e Imagen Urbana.
 
 8. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal o de reglamento.
 
-XI. De Transparencia.
+XI.- De Transparencia.
 
-l. Vigilar el cumplimiento del Reglamento da Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N. L., e Interpretar en el orden administrativo este Ordenamiento, con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad, así como resolver lo no previsto en el mencionado Reglamento.
+1. Vigilar el cumplimiento del Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N. L., e interpretar en el orden administrativo este Ordenamiento, con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad, así como resolver lo no previsto en el mencionado Reglamento.
 
 2. Orientar a los particulares acerca de las solicitudes de acceso a la información.
 
@@ -731,7 +863,7 @@ l. Vigilar el cumplimiento del Reglamento da Acceso a la Información Pública G
 
 4. Recomendar a la Contraloría Municipal las medidas disciplinarias y sanciones a aplicar por el incumplimiento de lo preceptuado al Reglamento de la materia.
 
-5. Garantizar el debido ejercicio del derecho a la privacidad y la Protección de la información que en términos del Reglamento de Acceso a la información Pública Gubernamental de Municipio de San Pedro Garza García, N. L., no podrá ser suministrada estableciendo los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las dependencias administrativas municipales.
+5. Garantizar el debido ejercicio del derecho a la privacidad y la protección de la información que en términos del Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, N. L., no podrá ser suministrada estableciendo los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las dependencias administrativas municipales.
 
 6. Promover la difusión e investigación sobre el derecho de acceso a la información pública, para fomentar la cultura sobre este derecho.
 
@@ -739,39 +871,51 @@ l. Vigilar el cumplimiento del Reglamento da Acceso a la Información Pública G
 
 8. Informar periódicamente a la comunidad, a través del Republicano Ayuntamiento, sobre los asuntos que haya recibido, el estado que guardan y la forma en que hubieran sido resueltos.
 
-9. Proponer la impartición de recursos a los Servidores Públicos.
+9. Proponer la impartición de cursos a los Servidores Públicos.
 
 10. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal o de reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 62.
 
-Las comisiones transitorias serán las que se organicen para la solución o estudio de asuntos determinados, sus facultades serán precisadas en acuerdo del Ayuntamiento y por tiempo preestablecido.
+Las Comisiones transitorias serán las que se organicen para la solución o estudio de asuntos determinados; sus facultades serán precisadas en acuerdo del Ayuntamiento y por tiempo preestablecido.
 
-Las reuniones de las comisiones permanentes y, en su caso las de las transitorias, quedarán asentadas en una minuta.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 63.
 
-Las comisiones fundarán por escrito sus dictámenes y concluirán las partes resolutivas con proposiciones claras y precisas que permitan orientar la consecución de acuerdos y resoluciones, y en caso de tratarse de iniciativa de Reglamentos Municipales, éstos deberán contener una exposición de motivos, el texto de la norma, incluyendo los títulos, capítulos y artículos.
+Las Comisiones fundaran por escrito sus dictámenes y concluirán las partes resolutivas con proposiciones claras y precisas que permitan orientar la consecución de acuerdos y resoluciones; en caso de tratarse de iniciativa de Reglamentos Municipales, estos deberán contener una exposición de motivos, el texto de la norma, incluyendo los títulos, capítulos y artículos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 64.
 
-El dictamen de las comisiones debe estar firmado, al menos por la mayoría de los miembros que las componen, pudiendo ser leído parcial o íntegramente ante el Ayuntamiento.
+El dictamen de las Comisiones debe estar firmado, al menos, por la mayoría de los miembros que las componen, pudiendo ser leído parcial o íntegramente ante el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 65.
 
-Para el desempeño de sus funciones los miembros de las comisiones contarán con el apoyo documental y administrativo requerido, en caso de negativa o negligencia, la comisión o alguno de sus integrantes, elevará recurso de queja al Presidente Municipal para que se apliquen las sanciones correspondientes.
+Para el desempeño de sus funciones los miembros de las Comisiones contarán con el apoyo documental y administrativo requerido. En caso de negativa o negligencia, la Comisión o alguno de sus integrantes, elevara recurso de queja al Presidente Municipal para que se apliquen las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 66.
 
-Las comisiones despacharán los asuntos que les encomienden en un plazo no mayor de treinta días, salvo que obre acuerdo en contrario de entre sus miembros; las comisiones se reunirán para tratar los asuntos de su competencia, previa convocatoria de su Presidente por escrito, en el lugar, fecha y hora indicados. En caso de urgencia el Presidente podrá convocar de forma verbal y de manera inmediata.
+Las Comisiones despacharan los asuntos que les encomienden en un plazo no mayor de treinta días, salvo que obre acuerdo en contrario de entre sus miembros; las Comisiones se reunirán para tratar los asuntos de su competencia, previa convocatoria de su Presidente por escrito, en el lugar, fecha y hora indicados. En caso de urgencia, el Presidente podrá convocar de forma verbal y de manera inmediata.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 67.
 
-El Ayuntamiento, si el caso lo amerita, podrá acordar previa audiencia, alguna sanción de tipo administrativo a los integrantes de la comisión que incurrieron en incumplimiento de sus responsabilidades.
+El Ayuntamiento, si el caso lo amerita, podrá acordar previa audiencia, alguna sanción de tipo administrativo a los integrantes de la Comisión que incurrieron en incumplimiento de sus responsabilidades.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 68.
 
-Los miembros de las comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
+Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
 ### CAPÍTULO V.
 
@@ -797,23 +941,31 @@ II. A los Regidores y Síndicos.
 
 III. A los ciudadanos del Municipio de San Pedro Garza García, Nuevo León.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 72.
 
-Las iniciativas a los Reglamentos municipales, formuladas por los ciudadanos del Municipio de San Pedro Garza García, Nuevo León, deben ser por escrito, contener el nombre y firma de quien la propone, una exposición de motivos, el texto del Reglamento, incluyendo títulos, capítulos y artículos, y presentarse ante el Secretario del Ayuntamiento, quien la turnara a la Comisión de Gobierno y Reglamentación.
+Las iniciativas a los Reglamentos municipales, formuladas por los ciudadanos del Municipio de San Pedro Garza García, Nuevo León, deben ser por escrito, contener el nombre y firma de quien la propone, una exposición de motivos, el texto del Reglamento, incluyendo títulos, capítulos y artículos, y presentarse ante el Secretario del Republicano Ayuntamiento, quien la turnará a la Comisión de Gobierno y Reglamentación.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 73.
 
-La iniciativa de un Reglamento Municipal será sometida a la opinión pública mediante convocatoria del Presidente Municipal y Secretario del Ayuntamiento, las cuales serán recibidas por escrito en la Secretaría del Ayuntamiento, y deberán de contener nombre, firma y domicilio de quien las presente, mismas que serán remitidas a la Comisión de Gobierno y Reglamentación para su dictamen y presentación ante el Ayuntamiento.
+La iniciativa de un Reglamento Municipal será sometida a la opinión pública mediante convocatoria del Presidente Municipal y Secretario del Republicano Ayuntamiento, las cuales serán recibidas por escrito en la Secretaria del Ayuntamiento, y deberán de contener nombre, firma y domicilio de quien las presente, mismas que serán remitidas a la Comisión de Gobierno y Reglamentación para su dictamen y presentación ante el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 74.
 
 La discusión y aprobación de las iniciativas de Reglamentos municipales, deberán realizarse en sesión de Ayuntamiento.
 
-Con tal objeto, el Secretario del Ayuntamiento, realizará la citación respectiva con una anticipación de 7 días por lo menos adjuntando copia de la iniciativa o reforma a realizarse, siempre previa consulta pública a la ciudadanía.
+Con tal objeto, el Secretario del Republicano Ayuntamiento realizará la citación respectiva con una anticipación de 7 días por lo menos, adjuntando copia de la iniciativa o reforma a realizarse, siempre previa consulta pública a la ciudadanía.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 75.
 
-Aprobado que fuere un Reglamento o su modificación, el Presidente Municipal promulgará y ordenará la publicación en el refrendo del Secretario del Ayuntamiento, enviando un tanto de la misma para su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+Aprobado que fuere un Reglamento o su modificación, el Presidente Municipal promulgara y ordenará la publicación en el refrendo del Secretario del Republicano Ayuntamiento, enviando un tanto de la misma para su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal, para su posterior difusión.
 
 ###### ARTÍCULO 76.
 
@@ -823,61 +975,67 @@ El Presidente Municipal ordenará la publicación de los Reglamentos, sus reform
 
 Previo a todo proceso de reglamentación municipal, deberán establecerse los medios idóneos para la participación y opinión de los habitantes del Municipio de San Pedro Garza García, Nuevo León.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ### CAPÍTULO VI.
 
-Del Secretario del Ayuntamiento.
+Del Secretario del Republicano Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 78.
 
-El Secretario del Ayuntamiento ocupará asiento en las sesiones al lado derecho junto al Presidente Municipal, dando cuenta de todos los asuntos.
+El Secretario del Republicano Ayuntamiento ocupará asiento en las sesiones al lado derecho, junto al Presidente Municipal, dando cuenta de todos los asuntos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 79.
 
-El Secretario del Ayuntamiento, tendrá las siguientes atribuciones y obligaciones:
+El secretario del Republicano Ayuntamiento, tendrá las siguientes atribuciones y obligaciones:
 
-I. Presentarse treinta minutos antes de la hora señalada para que de inicio la sesión de Ayuntamiento, a fin de colaborar que el local respectivo se encuentre en condiciones necesarias para llevar a cabo la reunión correspondiente.
+I.- Presentarse treinta minutos antes de la hora señalada para que de inicio la sesión de Ayuntamiento, a fin de corroborar que el local respectivo se encuentre en condiciones necesarias para llevar a cabo la reunión correspondiente.
 
-II. En las sesiones, pasar lista de asistencia.
+II.- En las sesiones, pasar lista de asistencia.
 
-III. Asistir al Presidente Municipal, en la celebración de las sesiones del Ayuntamiento.
+III.- Asistir al Presidente Municipal, en la celebración de las sesiones del Ayuntamiento.
 
-IV. Elaborar las actas de las sesiones del Ayuntamiento, y difundirlas entre los ediles, cuidando que contengan el nombre de quien presida cada sesión, las horas de apertura y clausura, las observaciones, correcciones y aprobación del acta anterior, una relación nominal de los munícipes presentes y de los ausentes con permiso o sin el, así como una relación sucinta, ordenada y clara de cuanto se trate y resolviere en las sesiones.
+IV.- Elaborar las actas de las sesiones del Ayuntamiento, y difundirlas entre los ediles, cuidando que contengan el nombre de quien presida cada sesión, las horas de apertura y clausura, las observaciones, correcciones y aprobación del acta anterior, una relación nominal de los munícipes presentes y de los ausentes con permiso o sin él, así como una relación sucinta, ordenada y clara de cuanto se trate y resolviere en las sesiones.
 
-V. Verificar los Reglamentos, Acuerdos y demás disposiciones y documentos que expide el Ayuntamiento.
+V.- Verificar los Reglamentos, Acuerdos y demás disposiciones y documentos que expide el Ayuntamiento.
 
-VI. Conservar bajo su responsabilidad los sellos oficiales del Ayuntamiento.
+VI.- Conservar bajo su responsabilidad los sellos oficiales del Ayuntamiento.
 
-VII. Cuidar de la publicación de los Reglamentos y/o acuerdos del Ayuntamiento en su caso.
+VII.- Cuidar de la publicación de los Reglamentos y/o acuerdos del Ayuntamiento.
 
-VIII. Cuidar de que se impriman y circulen con toda oportunidad los dictámenes de las Comisiones y las iniciativas o proporciones que las motiven.
+VIII.- Cuidar de que se impriman y circulen con toda oportunidad los dictámenes de las Comisiones y las iniciativas o proposiciones que las motiven.
 
-IX. Informar al Ayuntamiento el estado que guardan los negocios públicos y suministrarle todos los datos de que pueda disponer.
+IX.- Informar al Ayuntamiento el estado que guardan los negocios públicos y suministrarle todos los datos de que pueda disponer.
 
-X. Llevar los libros siguientes: El de acta de las sesiones de Ayuntamiento donde se asienten todos los asuntos tratados y los asuntos tomados, el libro en el que se transcriban los Reglamentos y demás disposiciones de observancia general que expida el Ayuntamiento, y: El libro en que se registre la entrada de personas sujetas a arresto administrativo.
+X.- Llevar los libros siguientes: El de acta de las sesiones de Ayuntamiento donde se asienten todos los asuntos tratados y los acuerdos tomados, el libro en el que se transcriban los Reglamentos y demás disposiciones de observancia general que expida el Ayuntamiento, y: El libro en que se registre la entrada de personas sujetas a arresto administrativo.
 
-XI. Conservar el archivo del Ayuntamiento, ordenándolo por expediente numerado, haciendo cada año un índice de los correspondientes a el, coleccionando todos los del año en uno o más legajos y formar los libros respectivos.
+XI.- Conservar el archivo del Ayuntamiento, ordenándolo por expediente numerado, haciendo cada año un índice de los correspondientes a él, coleccionando todos los del año en uno o más legajos y formar los libros respectivos.
 
-XII. Llevar un archivo sobre citatorios, ordenes del día, y cualquier material informativo que ayude para aclaraciones futuras.
+XII.- Llevar un archivo sobre citatorios, ordenes del día, y cualquier material informativo que ayude para aclaraciones futuras.
 
-XIII. Dar a conocer, a todas las dependencias del Ayuntamiento, los acuerdos tomados por ese cuerpo colegiado y las decisiones del Presidente Municipal.
+XIII.- Dar a conocer, a todas las dependencias del Ayuntamiento, los acuerdos tomados por ese cuerpo colegiado y las decisiones del Presidente Municipal.
 
-XIV. Facilitar, a los miembros del Ayuntamiento, los libros, documentos y expedientes del Archivo Municipal, cuando necesiten consultar los antecedentes de los mismos relativos al desempeño de sus funciones.
+XIV.- Facilitar, a los miembros del Ayuntamiento, los libros, documentos y expedientes del Archivo Municipal, cuando necesiten consultar los antecedentes de los mismos relativos al desempeño de sus funciones.
 
-XV. No permitir la extracción de ningún documento de la Secretaría o del archivo, sin previa autorización del Presidente Municipal o del Ayuntamiento.
+XV.- No permitir la extracción de ningún documento de la Secretaría o del archivo, sin previa autorización del Presidente Municipal o del Ayuntamiento.
 
-XVI. Expedir copia certificada de los documentos que soliciten los interesados, previa autorización del Presidente Municipal o del Ayuntamiento y previo el pago, en su caso, de los derechos correspondientes.
+XVI.- Expedir copia certificada de los documentos que soliciten los interesados, previa autorización del Presidente Municipal o del Ayuntamiento y previo el pago, en su caso, de los derechos correspondientes.
 
-XVII. Guardar la debida reserva de los asuntos que se refiera al desarrollo de sus funciones, así como de aquellas que se le encomienden.
+XVII.- Guardar la debida reserva de los asuntos que se refiera al desarrollo de sus funciones, así como de aquellas que se le encomienden.
 
-XVIII. Recibir las propuestas de iniciativas a Reglamentos de los ciudadanos del Municipio y turnarlas a la Comisión de Gobierno y Reglamentación.
+XVIII.- Recibir las propuestas de iniciativas a Reglamentos de los ciudadanos del Municipio y turnarlas a la Comisión de Gobierno y Reglamentación.
 
-XIX. Recibir las opiniones de iniciativas a Reglamentos de los ciudadanos del Municipio, solicitadas mediante la consulta pública y turnarlas a la Comisión de Gobierno y Reglamentación.
+XIX.- Recibir las opiniones de iniciativas a Reglamentos de los ciudadanos del Municipio, solicitadas mediante la consulta pública y turnarlas a la Comisión de Gobierno y Reglamentación.
 
-XX. Extender reconocimientos a los ciudadanos que presenten iniciativas de Reglamentos municipales.
+XX.- Extender reconocimientos a los ciudadanos que presenten iniciativas de Reglamentos municipales.
 
-XXI. Refrendar, con el Presidente Municipal los acuerdos del Ayuntamiento.
+XXI.- Refrendar, con el Presidente Municipal los acuerdos del Ayuntamiento.
 
-XXII. Y las demás que le fijen las Leyes, Reglamentos, el Presidente Municipal o el propio Ayuntamiento.
+XXII.- Las demás que le fijen las Leyes, Reglamentos, el Presidente Municipal o el propio Ayuntamiento.
 
 ## TITULO TERCERO.
 
@@ -891,9 +1049,11 @@ Disposiciones generales.
 
 Cuando una sesión del Ayuntamiento sea pública, los asistentes e invitados están obligados a guardar el orden debido y mantenerse en silencio, absteniéndose de participar en el desarrollo de la sesión.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 81.
 
-Iniciada una sesión pública del Ayuntamiento, a juicio del Ayuntamiento por la naturaleza de los asuntos a tratar, podrá cambiarse a sesión privada, y para tal efecto los asistentes e invitados deberán desalojar en orden el recinto oficial, a exhortación del Presidente Municipal.
+Iniciada una sesión pública del Ayuntamiento, a juicio del mismo, por la naturaleza de los asuntos a tratar, podrá cambiarse a sesión privada, y para tal efecto los asistentes e invitados deberán desalojar en orden el recinto oficial, a exhortación del Presidente Municipal.
 
 ###### ARTÍCULO 82.
 
@@ -903,15 +1063,19 @@ Los asistentes e invitados a una sesión del Ayuntamiento, deberán permanecer s
 
 Los asistentes o invitados a la sesión del Ayuntamiento podrán grabarla, videograbarla o fotografiarla, previo registro al inicio de la sesión.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO 84.
 
-Los asistentes e invitados a la sesión, se abstendrán de introducir objetos punzo cortantes, armas de fuego, armas blancas, y en general cualesquier objeto que represente un riesgo a la seguridad de las personas, carteles, mantas o anuncios publicitarios; por lo que se deberán de presentar en estado conveniente, respetando las normas sociales y de buena conducta.
+Los asistentes e invitados a la sesión, se abstendrán de introducir objetos punzo cortantes, armas de fuego, armas blancas, y en general cualesquier objeto que represente un riesgo a la seguridad de las personas, así como carteles, mantas o anuncios publicitarios; por lo que se deberán de presentar en estado conveniente, respetando las normas sociales y de buena conducta.
+
+(REFORMADO, P.O. 27 DE AGOSTO DE 2007) (F. DE E., P.O. 17 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 85.
 
-En caso en que se altere el orden, durante las sesiones, el Presidente Municipal amonestará a los asistentes o invitados, a que guarden el orden, y en caso de incumplimiento, se ordenará expulsarlo de la sesión.
+En caso de que se altere el orden durante las sesiones, el Presidente Municipal amonestará a los asistentes o invitados, a que guarden el orden, y en caso de incumplimiento, se ordenara expulsarlo de la sesión.
 
-Si los asistentes o invitados cometieran alguna falta grave o importante, el Ayuntamiento podrá solicitar el uso de la fuerza pública.
+Si los asistentes o invitados cometieran alguna falta grave o importante, podrá solicitar el uso de la fuerza pública.
 
 ## ARTÍCULOS TRANSITORIOS.
 
@@ -938,3 +1102,11 @@ SECRETARIO DEL R. AYUNTAMIENTO
 P.O. 18 DE DICIEMBRE DE 2006.
 
 UNICO.- Las presentes Reformas a este Reglamento para el Gobierno Interior del R. Ayuntamiento de San Pedro Garza García, N.L., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE AGOSTO DE 2007.
+
+Artículo Primero. Las presentes Reformas por Modificación y Adición al Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+Artículo Segundo. Los Reglamentos que se encuentren en proceso de aprobación, modificación, reforma o abrogación se sujetaran a las disposiciones del presente Reglamento una vez que entre en vigor.
+
+Artículo Tercero. Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las presentes Reformas.
