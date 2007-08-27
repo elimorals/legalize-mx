@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2007-03-30"
+last_updated: "2007-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1563,7 +1563,11 @@ En el caso de la fracción II de este artículo, además de la pena prevista, se
 
 La reparación del daño, con excepción del delito de atentados al pudor, comprenderá el pago de alimentos a la mujer y a los hijos si los hubiere con motivo del delito y se hará en la forma y términos que fija la Ley Civil para los casos de divorcio.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ## TITULO NOVENO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO IX. EXTORSION
 
@@ -1571,7 +1575,7 @@ La reparación del daño, con excepción del delito de atentados al pudor, compr
 
 ###### ARTICULO 189.
 
-Al que mediante comunicación dolosa, impute a una persona física o moral un hecho que cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá prisión de tres meses a dos años o de noventa a ciento ochenta días multa.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ### CAPITULO X. USURA
 
@@ -1579,65 +1583,55 @@ Al que mediante comunicación dolosa, impute a una persona física o moral un he
 
 ###### ARTICULO 190.
 
-Cuando la comunicación se refiera a persona fallecida, pero afecte a sus herederos legítimos, se aplicará lo dispuesto por el artículo anterior.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 191.
 
-No se impondrá sanción alguna al inculpado de difamación si probare la verdad de sus imputaciones en los casos siguientes:
-
-I.- Si la imputación hubiere tenido por objeto defender o garantizar un interés público actual;
-
-II.- Si el imputado fuere una persona que haya obrado como servidor público, dentro de sus funciones; o
-
-III.- Si el hecho imputado está declarado cierto por sentencia firme y el acusado obra por un interés legítimo.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 192.
 
-No se comete el delito de difamación cuando:
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
-I.- Se expresa técnicamente un parecer sobre una producción literaria, artística, científica o industrial;
-
-II.- Se manifieste un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público o que con la debida reserva, se hizo por humanidad, por prestar un servicio a personas con quien tenga parentesco o amistad o dándose informes que se hubieran pedido, si no se hiciere a sabiendas calumniosamente; o
-
-III.- En el trámite de algún asunto y relacionado con éste, se presente un escrito o se pronuncie un discurso difamatorio ante los tribunales. En estos casos sólo se podrá imponer al autor alguna corrección disciplinaria, pero si la imputación se extiende a personas extrañas al litigio o involucra hechos no relacionados con el asunto de que se trate, se aplicará las sanciones correspondientes a la difamación o calumnias.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO XI. ENCUBRIMIENTO POR RECEPTACION
 
 ###### ARTICULO 193.
 
-Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de seis meses a dos años o de noventa a ciento ochenta días multa.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 194.
 
-Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia, o en su caso, se suspenderá el procedimiento iniciado por esta última hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 195.
 
-Al acusado por el delito de calumnia se le admitirán pruebas de su imputación y, si ésta quedare probada, se le eximirá de sanción, salvo en el caso previsto por la fracción III del artículo 191 cuando exista sentencia irrevocable que absuelva al calumniado no se admitirá prueba alguna de dicha imputación.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO XII. DISPOSICIONES COMUNES
 
 ###### ARTICULO 196.
 
-No se podrá proceder contra el responsable de difamación o calumnia, sino por querella de parte.
-
-Cuando la difamación o calumnia se refieran a una persona ya fallecida, se procederá por querella del cónyuge o de alguno de sus ascendientes, descendientes o hermanos. Si el delito se hubiese cometido con anterioridad al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas si aquél hubiese permitido la ofensa y, pudiendo hacerlo, se haya abstenido de presentar la querella, salvo que hubiese dispuesto que lo hicieran sus herederos.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 197.
 
-Los documentos u objetos que hubieren servido de medio para los delitos contra el honor, se decomisarán e inutilizarán, salvo los casos de excepción previstos por las leyes, o a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos, en cuyo caso se hará en el documento una anotación sumaria de la sentencia pronunciada en contra del acusado.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 198.
 
-Cuando sea condenado el acusado de un delito de difamación o calumnia, se hará publicación de la sentencia si lo solicita la parte ofendida. Cuando el delito se haya cometido utilizando un medio de comunicación social, los responsables de éste estarán obligados a dar a conocer el fallo en el mismo medio utilizado para su comisión imponiéndoseles diez días multa por cada día que pase sin hacerlo, a partir de aquél en que se les haya notificado la sentencia.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 199.
 
-No servirá de excusa de la difamación o la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado en la República o en otro país.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ###### ARTICULO 200.
 
-Las personas morales que resulten responsables en relación con alguno de los delitos comprendidos en este Título, serán sancionadas, además, con prohibición de uno a cuatro meses para realizar determinados actos u operaciones, conforme a los (sic) dispuesto por el artículo 70.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
 
 ## TITULO DECIMO. DELITOS CONTRA EL PATRIMONIO
 
@@ -3376,3 +3370,7 @@ P.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE AGOSTO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
