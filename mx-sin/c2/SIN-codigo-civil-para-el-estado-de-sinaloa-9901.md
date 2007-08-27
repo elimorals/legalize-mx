@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-08-30"
+last_updated: "2007-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4827,7 +4827,7 @@ El que tuviere noticias de la existencia de bienes vacantes en el Estado y quisi
 
 ###### Artículo 788.
 
-El Ministerio Público, si estima que procede, ocurrirá al Juez de Primera Instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el Periódico Oficial y en otro de los de mayor circulación, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluta (sic) de dichos bienes y, si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el Juez declarará los bienes vacantes y los adjudicará al Fisco del Estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público.
+El Ministerio Público, si estima que procede, ocurrirá al Juez de Primera Instancia del lugar, quien desde luego mandará fijar avisos en los bienes de que se trate y hará publicarlos por tres veces en el Periódico Oficial y en otro de los de mayor circulación, convocando a quienes se crean con derecho a los bienes de que se trate; se recabarán los informes y noticias que sea posible sobre el abandono absoluto de dichos bienes y, si en vista de esos informes y pasado un mes de la última publicación no se presenta persona alguna, el Juez declarará los bienes vacantes y los adjudicará al Fisco del Estado. En este procedimiento se tendrá al que hizo la denuncia como coadyuvante del Ministerio Público.
 
 ###### Artículo 789.
 
@@ -9303,7 +9303,7 @@ El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo
 
 ###### Artículo 1699.
 
-El error de cálculo soló da lugar a que se rectifique.
+El error de cálculo sólo da lugar a que se rectifique.
 
 ###### Artículo 1700.
 
@@ -9835,9 +9835,27 @@ Los créditos por indemnización, cuando la víctima fuere un asalariado, son in
 
 Las anteriores disposiciones se observarán en el caso del artículo 2529 de este Código.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 1800.
 
-Independientemente de los daños y perjuicios, el Juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquella muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1812.
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de si misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+Cuando un hecho u omisión ilícito produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva de acuerdo con el artículo 1797, así como el Estado y sus servidores públicos. Conforme al artículo 1812, todos ellos del presente Código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+###### Artículo 1800 Bis.
+
+No estará obligado a la reparación del daño moral, quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6º y 7º de la Constitución Política de los Estados Unidos Mexicanos, y 13 de la Convención Americana de Derechos humanos.
+
+En todo caso, quien demande la reparación del daño moral, por responsabilidad contractual o extracontractual deberá acreditar plenamente la licitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ###### Artículo 1801.
 
@@ -12902,8 +12920,6 @@ El depositario no está obligado a entregar la cosa cuando judicialmente se haya
 ###### Artículo 2411.
 
 El depositario puede, por justa causa, devolver la cosa antes del plazo convenido.
-
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
 
 ###### Artículo 2412.
 
@@ -16060,3 +16076,7 @@ P.O. 30 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE AGOSTO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
