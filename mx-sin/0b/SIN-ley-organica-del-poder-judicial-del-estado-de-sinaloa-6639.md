@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2006-09-11"
+last_updated: "2007-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 397 POR EL QUE SE REFORMA Y ADICIONA LA LEY, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2006, ENTRARA EN VIGOR UN AÑO DESPUES DE SU PUBLICACION.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -134,6 +132,10 @@ Las cabeceras de dichos Distritos Judiciales serán las poblaciones de: Los Moch
 ###### ARTICULO 17.
 
 Los Juzgados de Primera Instancia ejercerán jurisdicción en todo el territorio del Distrito Judicial de su residencia y, en su caso, en los que fijen las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+Los Juzgados de Primera Instancia que conozcan de asuntos en materia penal, podrán resolver lo que jurídicamente corresponda, respecto de las solicitudes formuladas por el Ministerio Público, durante el periodo de integración de la averiguación previa, para la práctica del cateo en distritos judiciales distintos al de su residencia.
 
 ###### ARTICULO 18.
 
@@ -1200,3 +1202,9 @@ c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución defin
 d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+P.O. 27 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
