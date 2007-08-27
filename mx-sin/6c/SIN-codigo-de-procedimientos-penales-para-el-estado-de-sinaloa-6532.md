@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2007-03-30"
+last_updated: "2007-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -1945,13 +1945,13 @@ Cuando alguna de las partes solicite la diligencia de reconstrucción, deberá p
 
 El cateo sólo podrá practicarse en virtud de orden escrita expedida por la autoridad judicial competente, en la que se expresen su objeto y necesidades, el lugar que ha de inspeccionarse, la persona o personas que han de localizarse o aprehenderse o los objetos que se buscan y han de asegurarse, a lo que únicamente debe limitarse la diligencia, levantándose al concluir el acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa por la autoridad que practique la diligencia.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
-Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen el registro. Solicitada una orden de cateo el juez la decretará o negará dentro de las veinticuatro horas siguientes.
+Cuando el Ministerio Público actúe como investigador de delitos, podrá pedir a la autoridad judicial que practique cateos, proporcionando a ésta los datos que justifiquen su registro. Cuando lo considere necesario, y así lo solicite el Ministerio Público, será competente para resolver y conceder el cateo un Juez distinto al del lugar en que hubiere de practicarse. Solicitada una orden de cateo el Juez la decretará o negará dentro de las veinticuatro horas siguientes.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
-Si dicha autoridad concede la práctica del cateo, señalará a los servidores públicos o gentes de la Policía Ministerial que lo practiquen y una vez concluida la diligencia se enviará al Ministerio Público, en su caso, el acta correspondiente. La autoridad que concede el cateo, siempre designará a uno de sus servidores públicos para que asista a la diligencia.
+Las diligencias de cateo se practicarán por el Tribunal que las decrete o por el secretario o actuario del mismo, o por el Ministerio Público que la solicite, según se designen en el mandamiento. Si alguna autoridad hubiere solicitado del Ministerio Público promoción de cateo, podrá asistir a la diligencia.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1991)</small>
 
@@ -3952,6 +3952,12 @@ P.O. 11 DE AGOSTO DE 2006.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 30 DE MARZO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE AGOSTO DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
