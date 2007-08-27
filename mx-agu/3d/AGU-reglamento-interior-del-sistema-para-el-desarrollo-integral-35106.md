@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2007-02-26"
+last_updated: "2007-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -725,37 +725,25 @@ XXVIII.- Realizar las demás funciones inherentes al puesto y las demás que le 
 
 La Procuraduría, Direcciones y Coordinaciones de Área que establece el presente ordenamiento jurídico se auxiliarán de los siguientes Departamentos y Jefaturas de Unidad que respectivamente se señalan:
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
 I.- PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA:
 
 a) Departamento Jurídico;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2006)</small>
-
-1. Unidad Jurídica del Adulto Mayor;
+1.- Unidad Jurídica;
 
 b) Departamento Jurídico Contencioso;
 
-1. Unidad Jurídica Contenciosa;
-
 c) Departamento de Protección a Menores;
 
-1. Unidad de Psicología;
+d) Departamento de Psicología
 
-2. Unidad de Trabajo Social;
+e) Departamento de Casa DIF
 
-3 Unidad de Casa DIF.
+f) Departamento de Tutelas
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2005)</small>
-
-g) (sic) Jefe de Departamento de Procesos Institucionales y Transparencia de la Información.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2006)</small>
-
-h).Departamento del Centro de Encuentro y Convivencia;
-
-1. Unidad de Trabajo Social; y
-
-2. Unidad de Psicología.
+g) Departamento de Procesos Institucionales y Transparencia de la Información.
 
 II.- DIRECCION DE ADMINISTRACION Y FINANZAS:
 
@@ -791,7 +779,9 @@ b) Departamento de Finanzas;
 
 7. Unidad de Informática.
 
-c) (sic) (REFORMADO [N. DE E. DEROGADO], P.O. 18 DE ABRIL DE 2005)
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+c) Departamento de Auditoria Interna;
 
 III.- DIRECCION DE DESARROLLO FAMILIAR:
 
@@ -975,9 +965,13 @@ d) (sic) Unidad de enlace con Sectores Sociales.
 
 ### CAPITULO XI. De la Suplencia de los Servidores Públicos del DIF Estatal
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 40.
 
 El Director General del DIF Estatal será suplido en sus ausencias temporales o accidentales menores a treinta días por el Procurador de la Defensa del Menor y la Familia; en ausencias mayores, o en casos especiales, será suplido por quien designe el Gobernador Constitucional del Estado ratificado por el Consejo Directivo.
+
+En caso de que el Director General deba ser suplido por el Procurador de la Defensa del Menor y la Familia y este no se encuentre en funciones por cualquier razón, el Director General será suplido por el funcionario que jerárquicamente le siga al Procurador en términos de lo establecido en el artículo 14 del presente Reglamento.
 
 ###### Artículo 41.
 
@@ -1600,3 +1594,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE FEBRERO DE 2007.
 
 UNICO.- Las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2007.
+
+UNICO.- Las reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
