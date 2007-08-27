@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2006-01-09"
+last_updated: "2007-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -279,6 +279,12 @@ J) Los demás consejos que debido a las necesidades de la administración se for
 II. Comité de Planeación para el Desarrollo Municipal (COPLADEM);
 
 III. Comité del Programa de Ciudades Hermanas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 21 Bis.
+
+Las autoridades del Gobierno Municipal a fin de hacer cumplir sus determinaciones podrán aplicar supletoriamente las disposiciones legales contenidas en el Código Civil, Código de Procedimientos Civiles, así como en la Ley del Procedimiento Administrativo, todos ellos del Estado de Aguascalientes.
 
 ### CAPITULO SEGUNDO. De las Funciones de los Miembros del Ayuntamiento
 
@@ -1632,11 +1638,21 @@ Recibida la solicitud de licencia que cumpla con los requisitos a que se refiere
 
 En el caso de que la solicitud no cuente con todos los documentos, ni se satisfagan todos los requisitos a que se refiere el Artículo 156 de este ordenamiento; o que de la visita a que se refiere el artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados cumplan con los mismos. En caso contrario, se tendrá como no presentada la solicitud y el pago de los derechos quedarán a favor del erario municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 159.
 
-Las licencias deberán revalidarse durante los meses de enero y febrero del año que corresponda; para ese efecto los interesados deberán presentar la solicitud acompañada de la licencia original y dos copias de las mismas.
+Las licencias deberán revalidarse durante los meses de enero y febrero de cada año; para ese efecto los interesados deberán presentar la solicitud acompañada de la licencia original y dos copias de las mismas.
 
 Durante los trámites de revalidación, deberá quedar copia de la licencia en el establecimiento o local correspondiente, así como comprobante de la solicitud de revalidación.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+Las licencias que están operando y que no hayan sido revalidadas en el plazo señalado no podrán seguir operando, y para el caso de que la licencia no se haya revalidado en dos años consecutivos será cancelada de oficio a manera definitiva del padrón que se lleva al efecto en la dirección de finanzas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2007)</small>
+
+Para el caso de las licencias que no estén operando no se pagará resello, siempre y cuando el titular de la misma dé aviso por escrito a la Dirección de Finanzas dentro del plazo de revalidación, para lo cual deberá de rendirse una “TARJETA INFORMATIVA” por parte del Departamento de Reglamentos a fin de que resuelva dicha dirección sobre el particular.
 
 ###### ARTICULO 160.
 
@@ -14277,3 +14293,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 9 DE ENERO DE 2006.
 
 UNICO.- La presente reforma al Artículo 96 del Código Municipal de Jesús María, Ags., entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes".
+
+P.O. 27 DE AGOSTO DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
