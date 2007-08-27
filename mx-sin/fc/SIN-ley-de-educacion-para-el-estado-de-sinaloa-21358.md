@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-21358"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-30"
-last_updated: "2006-10-25"
+last_updated: "2007-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACION PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de abril de 2001.
 
@@ -127,9 +127,13 @@ XI. Impulsará la creatividad artística, el conocimiento de la cultura universa
 
 XII. Fomentará la integración e interacción de los diferentes grupos que forman la comunidad sinaloense, a través de una educación congruente con las características propias de cada zona o región;
 
-XIII. Procurará que los maestros y educandos, con el apoyo de los padres de familia, participen, práctica y activamente, en el desarrollo económico, social y cultural de sus comunidades; y
+XIII. Procurará que los maestros y educandos, con el apoyo de los padres de familia, participen, práctica y activamente, en el desarrollo económico, social y cultural de sus comunidades; y (sic)
 
-XIV. Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2007)</small>
+
+XIV. Fomentará además los valores de respeto, libertad, solidaridad, tolerancia, equidad y la no discriminación con el propósito de que los estudiantes se desenvuelvan en forma responsable y honesta, permitiéndoles enfrentar retos y adversidades con una visión del futuro de sí mismos y de la sociedad; y
+
+XV. Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general.
 
 ###### ARTÍCULO 10.
 
@@ -1202,3 +1206,9 @@ El presente decreto empezará a surtir sus efectos a partir del día siguiente a
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, en un plazo de sesenta días naturales contados a partir de la iniciación de la vigencia de este Decreto, elaborará la reglamentación correspondiente.
+
+P.O. 27 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
