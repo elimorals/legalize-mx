@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2007-08-17"
+last_updated: "2007-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -39,17 +39,21 @@ Número: 169.
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
-### CAPITULO PRIMERO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 2007)</small>
 
-COMPETENCIA Y ATRIBUCIONES DE LA TESORERIA GENERAL DEL ESTADO EN MATERIA DE PRESUPUESTO DE EGRESOS.
+### CAPITULO PRIMERO
+
+COMPETENCIA Y ATRIBUCIONES DE LA SECRETARIA DE FINANZAS EN MATERIA DE PRESUPUESTO DE EGRESOS.
 
 ###### ARTICULO 1o.
 
 Se entiende por Presupuesto de Egresos del Estado, la ley expedida por la Legislatura Local, a iniciativa del Ejecutivo, en la que se contienen las previsiones financieras para sufragar el gasto público a cargo del Gobierno del Estado, durante el año fiscal que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 2o.
 
-La Tesorería General del Estado en materia de Presupuesto de Egresos, tendrá las atribuciones siguientes:
+La Secretaría de Finanzas en materia de Presupuesto de Egresos, tendrá las atribuciones siguientes:
 
 I.- De acuerdo con las instrucciones del Ejecutivo, determinar anualmente en el proyecto de Presupuesto de Egresos, las sumas que se proponga destinar a cada una de las dependencias gubernamentales, en el ejercicio fiscal correspondiente; sin que el total de estas sumas exceda a la estimación de los ingresos del mismo ejercicio fiscal;
 
@@ -65,21 +69,29 @@ VI.- Examinar en su aspecto financiero los contratos y demás actos que impongan
 
 VII.- Dictaminar sobre la conveniencia de que el Ejecutivo del Estado contrate los empréstitos o compromisos que requiera el desarrollo integral de la Entidad;
 
-VIII.- Realizar estudios de carácter presupuestal, con el propósito de formar estadísticas razonadas respecto al desarrollo de los servicios públicos y determinar si su costo corresponde a la función que prestan. El resultado de los estudios y estadísticas a que se refiere esta fracción, servirá a la Tesorería para vigilar el correcto ejercicio del Presupuesto de Egresos, y la preparación del que habrá de regir en el ejercicio fiscal siguiente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2007)</small>
+
+VIII.- Realizar estudios de carácter presupuestal, con el propósito de formar estadísticas razonadas respecto al desarrollo de los servicios públicos y determinar si su costo corresponde a la función que prestan. El resultado de los estudios y estadísticas a que se refiere esta fracción, servirá a la Secretaría para vigilar el correcto ejercicio del Presupuesto de Egresos, y la preparación del que habrá de regir en el ejercicio fiscal siguiente;
 
 IX.- Expedir el instructivo que regule la formación y aplicación del Presupuesto de Egresos, a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 3o.
 
-La Tesorería General del Estado desempeñará las atribuciones señaladas en el Artículo anterior, por conducto de la Dirección de Egresos de conformidad con las prescripciones de esta Ley y su Reglamento.
+La Secretaría de Finanzas desempeñará las atribuciones señaladas en el Artículo anterior, por conducto de la Subsecretaría de Egresos de conformidad con las prescripciones de esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 4o.
 
-La Tesorería General del Estado deberá proporcionar a las diversas dependencias del Ejecutivo y al Poder Judicial, todos los datos estadísticos, estudios o informes que requieran para la preparación y ejecución del Presupuesto, en lo que éste respectivamente les concierna.
+La Secretaría de Finanzas deberá proporcionar a las diversas dependencias del Ejecutivo y al Poder Judicial, todos los datos estadísticos, estudios o informes que requieran para la preparación y ejecución del Presupuesto, en lo que éste respectivamente les concierna.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 5o.
 
-La comisión que designe el Congreso del Estado, podrá recabar de la Tesorería General todos los datos estadísticos o informes que puedan contribuir a la mejor inteligencia de las proposiciones contenidas en el proyecto de Presupuesto de Egresos.
+La comisión que designe el Congreso del Estado, podrá recabar de la Secretaría de Finanzas todos los datos estadísticos o informes que puedan contribuir a la mejor inteligencia de las proposiciones contenidas en el proyecto de Presupuesto de Egresos.
 
 ### CAPITULO SEGUNDO.
 
@@ -129,37 +141,51 @@ CANCELACION DE PASIVO;
 
 II.- Estos capítulos se distribuirán en partidas que representarán las autorizaciones específicas del Presupuesto.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 10.
 
-La división de los capítulos en partidas se hará en la forma que determine el instructivo que al efecto expedirá la Tesorería General del Estado, en los términos de la Fracción IX del Artículo 2o. de esta Ley.
+La división de los capítulos en partidas se hará en forma que determine el instructivo que al efecto expedirá la Secretaría de Finanzas, en los términos de la Fracción IX del Artículo 2 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 11.
 
-El instructivo a que se refiere el artículo anterior, contendrá una clasificación de empleos en la que se cuidará de agrupar funciones afines, con el propósito de que las remuneraciones guarden una estrecha relación con el servicio que se desempeñe, en el entendido de que queda a juicio de la Tesorería General del Estado, modificar la clasificación cuando así lo considere conveniente.
+El instructivo a que se refiere el artículo anterior, contendrá una clasificación de empleos en la que se cuidará de agrupar funciones afines, con el propósito de que las remuneraciones guarden una estrecha relación con el servicio que se desempeñe, en el entendido de que queda a juicio de la Secretaría de Finanzas, modificar la clasificación cuando así lo considere conveniente.
 
 ### CAPITULO TERCERO.
 
 DE LA PREPARACION DEL PRESUPUESTO.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 12.
 
-Antes del último día hábil del mes de Julio de cada año, las dependencias del Gobierno del Estado deberán enviar a la Tesorería General, las observaciones que crean convenientes hacer al Presupuesto de Egresos en vigor, en lo que les concierne a cada una de ellas, proponiendo las modificaciones correspondientes para el ejercicio fiscal siguiente.
+Antes del último día hábil del mes de Julio de cada año, las dependencias del Gobierno del Estado deberán enviar a la Secretaría de Finanzas, las observaciones que crean convenientes hacer al Presupuesto de Egresos en vigor, en lo que les concierne a cada una de ellas, proponiendo las modificaciones correspondientes para el ejercicio fiscal siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 13.
 
-Con base en las observaciones y propuestas a que se refiere el artículo que precede, la Tesorería General hará las modificaciones que estime pertinentes al instructivo para la formación del Presupuesto, señalando las sumas asignadas a cada dependencia, de acuerdo con las indicaciones recibidas del C. Gobernador del Estado. El instructivo, una vez modificados se dará a conocer por la Tesorería a cada una de las dependencias antes del último día hábil del mes de Agosto.
+Con base en las observaciones y propuestas a que se refiere el artículo que precede, la Secretaría de Finanzas hará las modificaciones que estime pertinentes al instructivo para la formación del Presupuesto, señalando las sumas asignadas a cada dependencia, de acuerdo con las indicaciones recibidas del C. Gobernador del Estado. El instructivo, una vez modificados se dará a conocer por la Secretaría a cada una de las dependencias antes del último día hábiI del mes de Agosto.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 14.
 
-Dentro de los primeros 15 días del mes de septiembre a más tardar, las dependencias de cada uno de los Poderes del Estado enviarán a la Tesorería General, sus proyectos preliminares de Presupuesto, ajustándose a la suma asignada de acuerdo con el artículo anterior. Los proyectos en cuanto a su estructura formal, deberán seguir los lineamientos prescritos por el instructivo recibido de la Tesorería.
+Dentro de los primeros 15 días del mes de septiembre a más tardar, las dependencias de cada uno de los Poderes del Estado enviarán a la Secretaría de Finanzas, sus proyectos preliminares de Presupuesto, ajustándose a la suma asignada de acuerdo con el Artículo anterior. Los proyectos en cuanto a su estructura formal, deberán seguir los lineamientos prescritos por el instructivo recibido de la Secretaría.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 15.
 
-Previos (sic) los estudios, revisiones o investigaciones que la Tesorería General del Estado, estime necesario hacer, de acuerdo con lo previsto en el Capítulo Primero de esta Ley, esta Dependencia formulará el proyecto de Presupuesto que deberá poner a la consideración del Ejecutivo del Estado antes del último día hábil del mes de octubre. Anexo al proyecto de que se trata, la Tesorería presentará un informe en el que se hagan consistir los datos y consideraciones que sirvieron de base a la elaboración del mismo.
+Previos los estudios, revisiones o investigaciones que la Secretaría de Finanzas, estime necesario hacer, de acuerdo con lo previsto en el Capítulo Primero de esta Ley, esta Dependencia formulará el proyecto de Presupuesto que deberá poner a la consideración del Ejecutivo del Estado antes del último día hábil del mes de octubre. Anexo al proyecto de que se trata, la Secretaría presentará un informe en el que se hagan consistir los datos y consideraciones que sirvieron de base a la elaboración del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 16.
 
-Si alguna de las dependencias dejare de presentar su proyecto de Presupuesto en el plazo que fija la presente ley, la Tesorería General quedará facultada para formularlo, a efecto de que se presente con oportunidad el proyecto de Presupuesto íntegro, a la Legislatura del Estado.
+Si alguna de las dependencias dejare de presentar su proyecto de Presupuesto en el plazo que fija la presente ley, la Secretaría de Finanzas quedará facultada para formulario, a efecto de que se presente con oportunidad el proyecto de Presupuesto íntegro, a la Legislatura del Estado.
 
 ### CAPITULO CUARTO.
 
@@ -177,9 +203,11 @@ Una vez que la Legislatura del Estado haya aprobado la Ley de Ingresos, previa l
 
 En el caso de no aprobarse alguna de las leyes de ingresos, continuarán en vigor las del año inmediato anterior del municipio o municipios de que se trate, con las actualizaciones que sean pertinentes de acuerdo al índice nacional de precios al consumidor.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 19.
 
-La Legislatura del Estado podrá solicitar la presencia del C. Tesorero General del Estado en las Sesiones en que se discuta el proyecto de Presupuesto de Egresos.
+La Legislatura del Estado podrá solicitar la presencia del Secretario de Finanzas en las Sesiones en que se discuta el proyecto de Presupuesto de Egresos.
 
 ###### ARTICULO 20.
 
@@ -189,29 +217,39 @@ Las asignaciones del Presupuesto que estuvieren previstas por leyes especiales, 
 
 DE LA EJECUCION DEL PRESUPUESTO.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 21.
 
-La Tesorería General cuidará de la exacta aplicación del Presupuesto aprobado por la Legislatura Local, de conformidad con las disposiciones de esta Ley y su Reglamento. En el ejercicio de esta función la Tesorería tendrá todas las facultades que sean necesarias para realizar las inspecciones y comprobaciones correspondientes y sin perjuicio de la Facultad que la Constitución Política Local otorga a la Comisión de Hacienda del Congreso del Estado, en su Artículo 67 Fracción XXXI.
+La Secretaría de Finanzas cuidará de la exacta aplicación del Presupuesto aprobado por la Legislatura Local, de conformidad con las disposiciones de esta Ley y su Reglamento. En el ejercicio de esta función la Secretaría tendrá todas las facultades que sean necesarias para realizar las inspecciones y comprobaciones correspondientes y sin perjuicio de la Facultad que la Constitución Política Local otorga a la Comisión de Hacienda del Congreso del Estado, en su Artículo 67 Fracción XXXI.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 22.
 
-La Tesorería General no hará ningún pago que no esté expresamente consignado en el Presupuesto de Egresos, o autorizado por Leyes o Decretos especiales.
+La Secretaría de Finanzas no hará ningún pago que no esté expresamente consignado en el Presupuesto de Egresos, o autorizado por Leyes o Decretos especiales.
 
 ###### ARTICULO 23.
 
 La asignación de las partidas fija el límite máximo de las erogaciones, a no ser que se trate de partidas de ampliación automática que con tal carácter se señalen expresamente en el Presupuesto, para aquellas erogaciones cuyo monto no sea posible prever.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 24.
 
-La ministración de fondos públicos se hará por medio de autorizaciones de pago extendidas de acuerdo con los requisitos y los formularios que al efecto señale el Reglamento de esta Ley, o en su defecto, la Tesorería General del Estado.
+La ministración de fondos públicos se hará por medio de autorizaciones de pago extendidas de acuerdo con los requisitos y los formularios que al efecto señale el Reglamento de esta Ley, o en su defecto, la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 25.
 
-La Tesorería General examinará y emitirá el dictamen correspondiente, en relación a los actos y contratos que comprometan el crédito público para que por conducto del Gobernador del Estado sean sometidos a la consideración del Congreso del Estado para los efectos señalados en el Artículo 67, fracción XIV de la Constitución Política Local.
+La Secretaria de Finanzas examinará y emitirá el dictamen correspondiente, en relación a los actos y contratos que comprometan el crédito público para que por conducto del Gobernador del Estado sometidos a la consideración del Congreso del Estado para los efectos señalados en el Artículo 67, fracción XIV de la Constitución Política Local.
 
-###### ARTICULO 26.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
-Ningún acto o contrato que genere un gasto con cargo al Presupuesto, se considerará exigible dentro del año fiscal en ejercicio, si no ha sido registrado y autorizado por la Tesorería General, dentro de los límites presupuestales.
+###### ARTÍCULO 26.
+
+Ningún acto o contrato que genere un gasto con cargo al Presupuesto, se considerará exigible dentro del año fiscal en ejercicio, si no ha sido registrado y autorizado por la Secretaría de Finanzas, dentro de los límites presupuestales.
 
 ###### ARTICULO 27.
 
@@ -255,17 +293,21 @@ Para los efectos del Presupuesto, la deuda pública comprende las obligaciones p
 
 La deuda pública comprenderá asimismo, las obligaciones que deban ser satisfechas en años posteriores al que fueron contraídas, de conformidad con la autorización del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 36.
 
-Cuando se pretenda contraer obligaciones financieras que afecten futuros ejercicios fiscales, la Tesorería General del Estado emitirá un dictamen, manifestando su opinión en relación a la conveniencia o inconveniencia de la celebración de actos o contratos que contengan obligaciones financieras que afecten futuros ejercicios fiscales.
+Cuando se pretenda contraer obligaciones financieras que afecten futuros ejercicios fiscales, la Secretaría de Finanzas emitirá un dictamen, manifestando su opinión en relación a la conveniencia o inconveniencia de la celebración de actos o contratos que contengan obligaciones financieras que afecten futuros ejercicios fiscales.
 
 ###### ARTICULO 37.
 
 Para pagar las obligaciones que dentro de los términos legales se contraigan en un ejercicio fiscal, que deban cubrirse en años futuros, es necesario que las Dependencias incluyan dentro de sus presupuestos las cantidades necesarias para hacerlas efectivas, en las proporciones que se vayan devengando en cada ejercicio, pues sólo se comprenderán en la deuda pública, cuando para contraer esas obligaciones se haya hecho necesaria la contratación de un empréstito.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 38.
 
-Con los datos ministrados por las Dependencias del Gobierno, la Tesorería General del Estado formulará, a más tardar el último de marzo, un estado que muestre el monto de la deuda pública flotante proveniente del ejercicio del Presupuesto. Las asignaciones por concepto de deuda pública destinada a cubrir las asignaciones a que se refiere el artículo anterior, se ampliaran aprovechando los saldos no afectados de las partidas del ejercicio fiscal precedente, hasta la cantidad necesaria para cubrir las obligaciones consignadas en el Estado formulado por la Tesorería General.
+Con los datos ministrados por las Dependencias del Gobierno, la Secretaría de Finanzas formulará, a más tardar el último de marzo, un estado que muestre el monto de la deuda pública flotante proveniente del ejercicio del Presupuesto. Las asignaciones por concepto de deuda pública destinada a cubrir las asignaciones a que se refiere el artículo anterior, se ampliaran aprovechando los saldos no afectados de las partidas del ejercicio fiscal precedente, hasta la cantidad necesaria para cubrir las obligaciones consignadas en el estado formulado por la Secretaría de Finanzas.
 
 ###### ARTICULO 39.
 
@@ -279,17 +321,21 @@ DE LAS REFORMAS AL PRESUPUESTO DE EGRESOS.
 
 La aplicación de leyes o decretos posteriores a la aprobación del Presupuesto de Egresos que implique el desembolso de fondos públicos no previstos, motivará las modificaciones necesarias al propio Presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 41.
 
-En los casos a que se refiere el artículo anterior, el Ejecutivo, por conducto de la Tesorería General del Estado, preparará las iniciativas de reformas correspondientes en la misma forma que el Presupuesto General.
+En los casos a que se refiere el artículo anterior, el Ejecutivo, por conducto de la Secretaría de Finanzas, preparará las iniciativas de reformas correspondientes en la misma forma que el Presupuesto General.
 
 Cuando la Hacienda Pública del Estado cuente con disponibilidad cuyo monto supere la cobertura del gasto público autorizado para el Ejercicio Fiscal, el Ejecutivo del Estado, previa autorización del Congreso, queda facultado para aplicarlas dentro de la programación general de las actividades oficiales.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 42.
 
-Cuando las asignaciones fijadas en el Presupuesto de Egresos resultaren insuficientes o inadecuadas para cubrir el servicio a que se destinen, las Dependencias Gubernamentales solicitarán de la Tesorería General del Estado, las modificaciones correspondientes, presentando al efecto los informes que justifiquen su petición.
+Cuando las asignaciones fijadas en el Presupuesto de Egresos resultaren insuficientes o inadecuadas para cubrir el servicio a que se destinen, las Dependencias Gubernamentales solicitarán de la Secretaría de Finanzas, las modificaciones correspondientes, presentando al efecto los informes que justifiquen su petición.
 
-En los casos en que se considere justificada la modificación, la Tesorería General preparará la iniciativa correspondiente para ser sometida por el Ejecutivo a la consideración de la Legislatura del Estado, si aquél lo estima pertinente.
+En los casos en que se considere justificada la modificación, la Secretaría de Finanzas preparará la iniciativa correspondiente para ser sometida por el Ejecutivo a la consideración de la Legislatura del Estado, si aquél lo estima pertinente.
 
 TRANSITORIOS:
 
@@ -340,3 +386,9 @@ P.O. 17 DE AGOSTO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Quedan derogadas las disposiciones legales que se opongan al presente decreto.
