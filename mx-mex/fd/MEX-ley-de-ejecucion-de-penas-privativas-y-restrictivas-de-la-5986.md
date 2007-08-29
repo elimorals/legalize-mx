@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2006-08-08"
+last_updated: "2007-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -119,7 +119,7 @@ Todos los cuerpos de seguridad pública del Estado y municipios, están obligado
 
 ### CAPITULO I. De las Atribuciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 10.
 
@@ -155,13 +155,17 @@ XIII. Seleccionar y capacitar al personal de los centros en todos los niveles, t
 
 XIV. Auxiliar a las víctimas del delito a través de la Ley respectiva.
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2002)</small>
 
-XV. Vigilar y exigir que el sector privado con el que se haya firmado convenios y contratos cumpla las obligaciones contraídas respecto de la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones; de la prestación de servicios de operación en los centros que atienda; y de la atención psicológica de los internos;
+XV. Vigilar y exigir que el sector privado con el que se haya firmado convenios y contratos cumpla las obligaciones contraídas respecto de la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones; de la prestación de servicios de operación en los centros que atienda; y de la atención psicológica de los internos.
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-XVI. Las demás que le señalen las leyes y reglamentos.
+XVI. Supervisar en auxilio de la autoridad ejecutora de sentencias, los sustitutivos de la pena de prisión y la suspensión condicional, ejerciendo la orientación, supervisión y vigilancia necesarias sobre las personas que cumplan su sentencia en esta modalidad, así como de aquellas que se encuentren gozando de algún beneficio preliberacional y notificar a la autoridad ejecutora sobre el incumplimiento de las condiciones o conclusiones de éstos; y
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XVII. Las demás que le señalen las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -449,9 +453,19 @@ Durante el período de tratamiento, se sujetará a los internos a las medidas qu
 
 ### CAPITULO I. Del Régimen de Tratamiento
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 44.
 
-El tratamiento de los internos tendrá como base el trabajo, la capacitación para el mismo y la educación.
+El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas, de salud o de cualquier otra índole autorizada por la ley, orientadas a la readaptación social del sentenciado, bajo la supervisión y cuidado de la autoridad que ejerza la vigilancia. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+
+La semilibertad implica alteración de periodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida, quedando bajo la orientación y cuidado de la autoridad que ejerza el control y vigilancia.
+
+La duración de este sustitutivo comprenderá un término igual al de la pena de prisión sustituida, siempre y cuando el sentenciado acredite haber realizado por lo menos en una semana, tres jornadas de trabajo no remuneradas a favor de la comunidad, en razón de dos horas por jornada, las cuales se ajustarán a los horarios en los que éste pueda realizarlas, de acuerdo al programa que para ese fin establezca la institución en la cual va a realizarlas.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Artículo 44 bis.- El tratamiento de los internos tendrá como base el trabajo, la capacitación para el mismo y la educación.
 
 > <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2006)</small>
 
@@ -707,7 +721,9 @@ Los centros contarán permanentemente con los elementos necesarios para prestar 
 
 Los servicios médicos de los centros, velarán por la salud física y mental de la población interna. Sin perjuicio de lo anterior y a solicitud escrita del interno y de sus familiares, o de la persona previamente designada por aquél, podrá permitirse a médicos ajenos al establecimiento, que examinen y traten a un interno, en este caso el tratamiento respectivo cuyo costo será a cargo del solicitante, deberá ser autorizado previamente por el jefe de los servicios médicos del centro, pero la responsabilidad profesional en su aplicación en consecuencia, será de aquéllos.
 
-El tratamiento hospitalario en Instituciones Públicas, sólo podrá autorizarse por recomendación de las Autoridades Médicas de los centros cuando exista grave riesgo para la vida o secuelas posteriores que puedan afectar la personalidad del interno o no se disponga de los elementos necesarios para la atención adecuada.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+El tratamiento hospitalario en Instituciones Públicas, solo podrá autorizarse por recomendación de las Autoridades Médicas de los centros cuando exista grave riesgo para la vida o secuelas posteriores que puedan afectar la integridad personal del interno o no se disponga de los elementos necesarios para la atención adecuada. Así mismo, toda mujer en trabajo de parto, deberá ser trasladada al centro hospitalario más cercano para ser atendida durante el mismo exista o no complicación alguna. La autoridad competente proveerá lo necesario para tal efecto, así como su reincorporación, a la brevedad, a su centro.
 
 ###### Artículo 92.
 
@@ -972,3 +988,19 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 73.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 76.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
