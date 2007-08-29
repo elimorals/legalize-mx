@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-410
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-15"
-last_updated: "2004-09-15"
+last_updated: "2007-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MORELIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 15 de septiembre de 2004.
 
@@ -107,7 +107,9 @@ XII. COPLADEMUN. Al Comité de Planeación para el Desarrollo del Municipio de M
 
 XIII. INTERÉS PÚBLICO. La valoración atribuida a los fines que persigue la consulta y examen de la información pública, a efecto de contribuir a la informada toma de decisiones de las personas en el marco de una sociedad democrática;
 
-XIV. INFORMACIÓN DE OFICIO. La información de carácter general que obligatoriamente deben proporcionar el Comité, a través del Centro de Tecnologías de Información del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+XIV. INFORMACIÓN DE OFICIO. La información de carácter general que obligatoriamente debe publicar el Comité, a través del Centro Municipal de Información Pública;
 
 XV. INFORMACIÓN PÚBLICA. El registro, archivo o cualquier dato que se recopile, mantenga, procese o se encuentre en posesión del Comité;
 
@@ -117,7 +119,9 @@ XVII. INFORMACIÓN RESERVADA. La que se encuentra temporalmente sujeta a alguna 
 
 XVIII. INFORMACIÓN CONFIDENCIAL. La que se encuentra en posesión del Comité relativa a las personas, protegida por el derecho fundamental a la privacidad;
 
-XIX. CENTRO DE TECNOLOGÍAS. La oficina donde se concentra la Información Pública del Municipio de Morelia, para ser procesada y puesta a disposición de quien la requiera en los términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+XIX. CENTRO MUNICIPAL DE INFORMACIÓN PÚBLICA (CEMUNIP). La oficina donde se concentra la Información Pública del Municipio de Morelia, para ser procesada y puesta a disposición de quien la requiera en los términos del presente Reglamento;
 
 XX. PERSONA. Las personas físicas o morales en pleno ejercicio de sus derechos;
 
@@ -127,55 +131,17 @@ XXII. SERVIDOR PÚBLICO. Las personas físicas que realicen cualquier actividad 
 
 ### CAPÍTULO II. DE LA INFORMACIÓN DE OFICIO
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Los titulares de las dependencias, entidades y unidades, que tengan a su resguardo la Información de Oficio, serán los responsables de entregarla sistemáticamente en medios magnéticos al Centro de Tecnologías de Información Pública del H. Ayuntamiento, para su adecuada y oportuna difusión.
+###### Artículo 5°.
 
-Los titulares de las dependencias, entidades y unidades, deberán poner a la consideración del Comité, los formatos en los que se publicará la información y la periodicidad de la actualización de la misma.
+El titular del Centro Municipal de Información Pública será el responsable de compilar sistemáticamente en medios electrónicos la Información de Oficio, entre las dependencias, entidades y unidades que la tengan a su resguardo, para su adecuada y oportuna difusión.
 
 En los casos en que la información resida en diferentes dependencias, entidades y unidades, se designará a una de ellas, como responsable de concentrar la información y entregarla oportunamente al Centro de Tecnologías de la Información Pública del H. Ayuntamiento de Morelia.
 
 ###### Artículo 6º.
 
-De acuerdo a la clasificación que de la información de oficio hace la Ley, las dependencias, entidades y unidades responsables de proporcionarlas serán:
-
-Información o Unidades Dependencias, Entidades
-
-I. Su estructura orgánica, los servicios que presta, las atribuciones por unidad administrativa y la normatividad que las rige, así como la forma de acceder a ellos; Secretaría de Administración
-
-II. Decretos administrativos, reglamentos, circulares y demás disposiciones de observancia general; Sindicatura
-
-III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes, incluyendo sus curriculas académica y laboral; Secretaría de Administración
-
-IV. La remuneración mensual integral por puesto, según lo establezcan las disposiciones correspondientes; Secretaría de Administración
-
-V. Las opiniones, datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento de permisos, concesiones o licencias que la Ley confiere autorizar a cualquiera de las entidades públicas, así como las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios; Secretaría del Ayuntamiento
-
-VI. Manuales de organización y procedimientos, y en general, la base legal que fundamente la actuación de las entidades públicas; Contraloría Municipal
-
-VII. La información sobre el presupuesto asignado, así como los informes sobre su ejecución, en los términos que establezcan los Presupuestos de Egresos de las entidades públicas; Tesorería Municipal
-
-VIII. Los resultados de todo tipo de auditorias concluidas hechas al ejercicio presupuestal de cada una de las entidades públicas; Contraloría Municipal
-
-IX. Los destinatarios y el uso autorizado de toda entrega de recursos públicos y subsidios, cualquiera que sea su fin; Tesorería Municipal
-
-XI. (SIC) El nombre, domicilio legal y dirección electrónica, en su caso, de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública; Secretaría del Ayuntamiento
-
-XII. Las fórmulas de participación ciudadana, en su caso, para la toma de decisiones por parte de las entidades públicas; Sindicatura Municipal
-
-XIII. Informe sobre las iniciativas que se presenten ante el Congreso del Estado y sus dictámenes; Sindicatura Municipal
-
-XIV. Los informes de gestión financiera y cuenta pública; Tesorería Municipal
-
-XV. Las controversias entre poderes públicos, iniciadas por el Congreso o cualquiera de sus integrantes; Sindicatura Municipal
-
-XVI. Los informes anuales de actividades; Presidencia
-
-XVII. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, prestación de servicios, concesiones, permisos y autorizaciones, así como sus resultados; Secretaría de Administración
-
-XVIII. Los resultados de las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, concesiones y prestación de servicios; Secretaría de Administración
-
-XIX. La obra pública directa que ejecute cualquier entidad pública, contenida en los presupuestos de egresos. COPLADEMUN.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2007)
 
 ###### Artículo 7º.
 
@@ -185,9 +151,11 @@ La responsabilidad de la veracidad y oportunidad de la información de oficio y 
 
 ### CAPÍTULO III. DE LA INFORMACIÓN RESERVADA
 
-###### Artículo 8º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-Para los efectos de este Reglamento será declarada información reservada la así clasificada mediante acuerdo del titular de cada una de las áreas de la Administración Pública del Municipio de Morelia y sólo procede en los casos siguientes:
+###### Articulo 8°.
+
+Para los efectos de este Reglamento será declarada información reservada la así clasificada mediante acuerdo del Comité Técnico de Acceso a la Información Pública del Municipio de Morelia y sólo procede en los casos siguientes:
 
 I. Cuando se trate de información cuya divulgación ponga en riesgo la seguridad del Municipio de Morelia, la vida, la seguridad o la salud de las personas;
 
@@ -205,9 +173,11 @@ IX (sic). Cuando se trate de información que pueda generar una ventaja personal
 
 X. Cuando se trate de información que pueda dañar la estabilidad financiera o económica del Ayuntamiento.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-En caso de que alguna de las áreas de la administración pública municipal, considere que un documento debe clasificarse como información reservada o restringida por ser información confidencial o contener datos personales, deberá remitir de inmediato dicha solicitud mediante oficio al Ayuntamiento de Morelia, el oficio deberá contener los elementos necesarios para fundar y motivar dicha clasificación, así como las razones de tal propuesta; lo anterior para el efecto de que ponga la información Pública a consideración del Comité Técnico de Acceso a la Información Pública del Ayuntamiento de Morelia tal hecho, y este último resuelva en términos de Ley lo conducente.
+###### Artículo 9°.
+
+En caso de que alguna de las áreas de la Administración Pública Municipal considere que un documento debe clasificarse como información reservada o restringida por ser información confidencial o contener datos personales, deberá remitir de inmediato dicha solicitud mediante oficio al Secretario del Ayuntamiento de Morelia, exponiendo los elementos necesarios para fundar y motivar dicha clasificación, así como las razones de tal propuesta; lo anterior para el efecto de que ponga la información Pública a consideración del Comité Técnico de Acceso a la Información Pública del Municipio de Morelia tal hecho, y este último resuelva en términos de Ley lo conducente.
 
 ###### Artículo 10.
 
@@ -245,11 +215,13 @@ El Comité Técnico de Acceso a la Información Pública del Municipio de Moreli
 
 El Comité Técnico de Acceso a la Información Pública del Municipio de Morelia, por separado dictará los lineamientos de carácter general o particular a que deberán sujetarse las dependencias, entidades y unidades administrativas, para la publicación de la información de oficio y las respuestas a las solicitudes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 16.
 
 En el supuesto de existir duda en la aplicación del presente ordenamiento, su interpretación corresponderá al propio Comité.
 
-El Comité se integrará en los términos del artículo 4º del acuerdo por el que se estableció su creación, quedando de la siguiente manera:
+El Comité se integrará en los términos del artículo 4° del acuerdo por el que se estableció su creación, quedando de la siguiente manera:
 
 I. El Presidente Municipal de Morelia;
 
@@ -257,13 +229,19 @@ II. El Síndico Municipal de Morelia;
 
 III. El Secretario del Ayuntamiento, quien será el Secretario Técnico del Comité;
 
-IV. Los Regidores integrantes de la Comisión de Planeación, Programación y Desarrollo del H. Ayuntamiento;
+IV. Los Regidores integrantes de la Comisión de Planeación, Programación y Desarrollo de H. Ayuntamiento;
 
 V. El Tesorero Municipal;
 
-VI. El Secretario de Administración; y,
+VI. El Secretario de Administración;
 
-VII. El Coordinador del COPLADEMUN.
+VII. El Contralor Municipal;
+
+VIII. El Director de Archivo General, Histórico y Museo de la Ciudad;
+
+IX. El Director de Informática; y,
+
+X. El Coordinador del COPLADEMUN.
 
 Cuando por caso excepcional en la integración de la Comisión de Planeación, Programación y Desarrollo del H. Ayuntamiento, no se encuentre representada alguna de las fracciones políticas que conforman el Ayuntamiento, el Comité podrá acordar la integración a dicho comité del Regidor que la fracción no representada proponga.
 
@@ -283,9 +261,11 @@ El Comité podrá sesionar válidamente con la presencia de cuatro de sus miembr
 
 En los casos en que el Comité sesione con más de cuatro de sus integrantes, para que sus decisiones sean legales deberán ser tomadas por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 21.
 
-Terminada cada Sesión del Comité, el Secretario Técnico asistido por el Titular del Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia emitirán el acuerdo respectivo y lo turnará para firma a los integrantes del Comité para su firma (sic).
+Terminada cada Sesión del Comité, el Secretario Técnico asistido por el Titular del Centro Municipal de Información Pública emitirán el acuerdo respectivo y lo turnarán a los integrantes del Comité para su firma.
 
 ###### Artículo 22.
 
@@ -299,33 +279,53 @@ III. Establecer los lineamientos y políticas generales para el manejo, mantenim
 
 IV. Las demás que le confieran este Reglamento y/o el Pleno de este Comité;
 
-V. Resolver los Recursos de Inconformidad presentados en las oficinas que ocupa el Centro de Tecnologías de Información Pública; y,
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-VI. Resolver todas las solicitudes de información pública presentadas ante el Centro de Tecnologías de Información.
+V. Resolver los Recursos de Inconformidad presentados en las oficinas que ocupa el Centro Municipal de Información Pública; y (sic),
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+VI. Resolver todas las solicitudes de información pública presentadas ante el Centro Municipal de Información Pública.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+VII. Es facultad del Comité, emitir las recomendaciones, sugerencias y acciones administrativas correspondientes, por la inobservancia de las presentes disposiciones.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 23.
 
-El Comité tendrá acceso a toda la documentación en poder del Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, para garantizar así la certeza de sus decisiones.
+El Comité tendrá acceso a toda la documentación en poder del Centro Municipal de Información Pública, para garantizar así la certeza de sus decisiones.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 24.
 
-Los titulares de todas la (sic) áreas de la administración pública municipal deberán proporcionar el apoyo necesario al Comité Técnico de Acceso a la Información Pública y al Centro de Tecnologías de Información Pública de H. Ayuntamiento para garantizar su buen desempeño.
+Los titulares de todas las áreas de la Administración Pública Municipal deberán proporcionar el apoyo necesario al Comité Técnico de Acceso a la Información Pública y al Centro Municipal de Información Pública para garantizar su buen desempeño.
 
-### CAPÍTULO V. DEL CENTRO DE TECNOLOGÍAS DE INFORMACIÓN PÚBLICA DEL H. AYUNTAMIENTO DE MORELIA
+> <small>(REFORMADA SU DENOMINACION, P.O 29 DE AGOSTO DE 2007)</small>
+
+### CAPÍTULO V. DEL CENTRO MUNICIPAL DE INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 25.
 
-Se crea el Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, en los términos de lo establecido en el artículo 9 fracción XI de la Ley de Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+Se crea el Centro Municipal de Información Pública, en los términos de lo establecido en el artículo 9 fracción XI de la Ley de Acceso a la Información Pública del Estado de Michoacán de acampo.
 
 ###### Artículo 26.
 
-El lugar para Sesionar del Comité serán las oficinas que ocupa el Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, con cede (sic) en la cabecera del Municipio.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2007)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 27.
 
-Son atribuciones del Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia:
+Son atribuciones del Centro Municipal de Información Pública:
 
-I. Recibir de todas las solicitudes de información;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+I. Recibir las solicitudes de información pública;
 
 II. Notificar la información pública presentadas (sic) ante el Comité, en los términos de este Reglamento;
 
@@ -337,7 +337,9 @@ V. Sistematizar la información para facilitarla al público y capturar en medio
 
 VI. Proporcionar apoyo técnico a todas las áreas de la administración pública municipal, en la elaboración y ejecución de sus programas de información;
 
-VII. Mantener actualizada la información mínima de oficio contemplada en el artículo 3º de este Reglamento, y subir a la página de Internet respectiva la información mínima de oficio que le autorice para ese efecto el Pleno del Comité;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+
+VII. Mantener actualizada la información mínima de oficio y subir a la página de Internet respectiva, la que autorice para ese efecto el Pleno del Comité;
 
 VIII. Orientar a los ciudadanos sobre los trámites y procedimientos para la obtención de la información pública;
 
@@ -345,39 +347,29 @@ IX. Informar cuando previamente a una solicitud se haya puesto a disposición de
 
 X. Las demás que le confiera el presente ordenamiento y/o el Pleno del Comité.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 28.
 
-El Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, pondrá a disposición del público en general, equipos de cómputo, mismo que deberá incluir una impresora, para el único efecto de poder consultar mediante este equipo la información mínima de oficio que haya autorizado el Comité.
-
-El responsable del mantenimiento y buen funcionamiento de dicho equipo de cómputo será el titular del área de Informática del Municipio.
+El Centro Municipal de Información Pública pondrá a disposición del público en general, equipos de cómputo, mismos que deberán incluir una impresora, para el único efecto de poder consultar mediante este equipo la información mínima de oficio que haya autorizado el Comité.
 
 ### CAPÍTULO VI. DE LA EVALUACIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 29.
 
-Las dependencias, entidades y unidades deberán presentar al Comité, a más tardar el día primero de marzo, un informe correspondiente al año anterior. Su omisión será motivo de responsabilidad.
+El Centro Municipal de Información Pública debe elaborar un informe anual, el cual deberá ser presentado para su aprobación al Comité Técnico de Acceso a la Información Pública a más tardar el 28 de febrero.
 
-El informe deberá contener:
-
-I. El número de solicitudes de información recibidas por la entidad y la información objeto de las mismas;
-
-II. La cantidad de solicitudes tramitadas y atendidas, así como el número de solicitudes pendientes;
-
-III. Las prórrogas por circunstancias excepcionales a las solicitudes de acceso a la información de la entidad pública;
-
-IV. El tiempo de trámite y la cantidad de servidores públicos involucrados en la tarea;
-
-V. La cantidad de resoluciones emitidas por la entidad en las que se negó la solicitud de información y la causa de la negativa; y,
-
-VI. La cantidad de recursos de inconformidad recibidos, el motivo que los originó y la resolución emitida.
+Una vez aprobado, este informe será presentado a la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán, de conformidad con lo que señala el Artículo 44 de la Ley.
 
 ###### Artículo 30.
 
-La Presidencia Municipal y la Secretaría del Ayuntamiento, en el ámbito de sus respectivas competencias, verificarán periódicamente el cumplimiento del presente acuerdo, a fin de que se apliquen, en su caso, las medidas conducentes.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2007)
 
 ###### Artículo 31.
 
-Es facultad del Comité, emitir las recomendaciones, sugerencias y acciones administrativas correspondientes, por la inobservancia de las presentes disposiciones.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2007)
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO
 
@@ -385,67 +377,83 @@ Es facultad del Comité, emitir las recomendaciones, sugerencias y acciones admi
 
 Cualquier persona podrá solicitar al H. Ayuntamiento de Morelia, la información pública de su interés, en términos de lo establecido en este Reglamento y la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 33.
 
-El Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia será la (sic) encargado de recibir las solicitudes de información y estará abierta al público en general de las 9:00 a las 15:00 horas en días hábiles.
+El Centro Municipal de Información Pública será la oficina encargada de recibir las solicitudes de información pública.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 34.
 
-El Centro de Tecnologías de Información Pública del Ayuntamiento de Morelia deberá turnar a las dependencias, entidades y unidades administrativas correspondientes, las solicitudes recibidas por los ciudadanos, en un plazo no mayor a tres días hábiles de la fecha de recepción.
+El Centro Municipal de Información Pública deberá turnar a las dependencias, entidades y unidades administrativas correspondientes, las solicitudes recibidas por los ciudadanos, en un plazo no mayor a tres días hábiles de la fecha de recepción.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 35.
 
-Las dependencias, entidades o unidades, tendrán un plazo máximo de 10 días hábiles para entregar la respuesta a la solicitud turnada.
+Las dependencias, entidades o unidades, tendrán un plazo máximo de 10 días hábiles para entregar al Centro Municipal de Información Pública la respuesta a la solicitud turnada.
 
-En caso de requerir una prórroga, esta deberá ser solicitada por escrito dirigido a la Comisión, en los 10 días naturales posteriores a la recepción de la solicitud, especificando las razones por las cuales hará uso de la prórroga excepcional, la cual, no podrá ser mayor a 10 días hábiles más del plazo descrito en el párrafo anterior.
+En caso de requerir una prórroga, esta deberá ser solicitada por escrito dirigido al Centro Municipal de Información Pública, en los 10 días naturales posteriores a la recepción de la solicitud, especificando las razones por las cuales hará uso de la prórroga excepcional, la cual, no podrá ser mayor a 10 días hábiles más del plazo descrito en el párrafo anterior.
 
-En caso de existir alguna prórroga, el Comité deberá hacerla del conocimiento del solicitante.
+En caso de existir alguna prórroga, el Centro Municipal de Información Pública deberá hacerla del conocimiento del solicitante.
 
-Las dependencias, entidades y unidades, deberán entregar al Centro de Tecnologías la información completa señalada en las solicitudes, acompañada de la información adicional que para efectos de cobro y control solicite el Comité, en los formatos que para este fin diseñe y de a conocer el Comité.
+Las dependencias, entidades y unidades, deberán entregar al Centro Municipal de Información Pública la información completa señalada en las solicitudes, acompañada de la información adicional que para efectos de cobro y control solicite el Comité, en los formatos que para este fin diseñe y dé a conocer el Comité.
 
 ###### Artículo 36.
 
 Para efectos del presente Reglamento, el silencio de la entidad no se interpreta como negación a la solicitud, sino como un acto de violación a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 37.
 
-La solicitud deberá hacerse por escrito, en cuyo caso El Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, registrará en un formato las características de la solicitud y procederá a entregar una copia al solicitante.
+La solicitud deberá hacerse por escrito, en cuyo caso el Centro Municipal de Información Pública, registrará en un formato las características de la solicitud y procederá a entregar una copia al solicitante.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 38.
 
 La solicitud deberá contener cuando menos los datos siguientes:
 
-I. Identificación de la autoridad a quien se dirija;
+I. Identificación del Presidente Municipal como la autoridad a quien se dirige;
 
-II. Nombre, datos generales y copia simple de la identificación oficial del solicitante;
+II: Nombre, datos generales y Copia simple de la identificación oficial del solicitante;
 
 III. Identificación precisa de los datos e información que requiere;
 
 IV. Domicilio para recibir notificaciones; y,
 
-V. El solicitante deberá fundar y razonar el motivo de su petición.
+V. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
-Si la solicitud no contiene los datos requeridos, el Comité Técnico de Acceso a la Información Pública del Municipio de Morelia, deberá hacerlo saber al solicitante, en un plazo no mayor de cinco días hábiles después de recibida, para que la complete; tratándose de la omisión de lo dispuesto en la fracción anterior, la notificación se realizará por medio de lista publicada en los estrados de la Presidencia Municipal de Morelia.
+Si la solicitud no contiene los datos requeridos, el Centro Municipal de Información Pública, deberá hacerlo saber al solicitante, en un plazo no mayor de cinco días hábiles después de recibida, para que la complete; tratándose de la omisión de lo dispuesto en la tracción anterior, la notificación se realizará por medio de lista publicada en los Estrados de la Presidencia Municipal de Morelia.
 
-###### Artículo 39.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-La solicitud de información presentada en los términos de este Reglamento deberá ser contestada en un plazo no mayor de quince días hábiles. El plazo se podrá prorrogar en forma excepcional por diez días hábiles más, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, El Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, deberá comunicar, antes del vencimiento del plazo de quince días hábiles, las razones por las cuales hará uso de la prórroga excepcional.
+###### Articulo 39.
+
+La solicitud de información presentada en los términos de este Reglamento deberá ser contestada en un plazo no mayor de quince días hábiles. El plazo se podrá prorrogar en forma excepcional por diez días hábiles más, de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, el Centro Municipal de Información Pública, deberá comunicar, antes del vencimiento del plazo de quince días hábiles, las razones por las cuales hará uso de la prórroga excepcional.
 
 ###### Artículo 40.
 
 Cumplido el plazo, si la solicitud de información no se hubiese contestado o la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá interponer los recursos previstos en este Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 41.
 
-Para efectos del presente Reglamento, la omisión de contestación por parte del Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, no se interpreta como negación a la solicitud, sino como un acto de violación a lo previsto en este ordenamiento, a la Ley de Acceso a la Información Pública del Estado de Michoacán y a la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
+Para efectos del presente Reglamento, la omisión de contestación por parte del Centro Municipal de Información Pública, no se interpreta como negación a la solicitud, sino como un acto de violación a lo previsto en este ordenamiento, a la Ley de Acceso a la Información Pública del Estado de Michoacán y a la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
-###### Artículo 42.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
-En la resolución que conceda al particular el acceso a cierta información pública, se le indicará el costo de su búsqueda, reproducción y envío, conforme a lo que disponga la Ley de Ingresos para el Municipio de Morelia vigente al momento.
+###### Articulo 42.
+
+En la resolución que conceda al particular el acceso a cierta información pública, se le indicará el costo de su reproducción, conforme a lo que disponga la Ley de Ingresos para el Municipio de Morelia vigente.
 
 ###### Artículo 43.
 
-En ningún caso el consto (sic) de la información será más elevado del monto total del soporte en el cual se entregue dicha Información, sea esta impresa, digital y/o en medio magnético.
+(DEROGADO, P.O. 29 DE AGOSTO DE 2007)
 
 ### CAPÍTULO VIII. DE LAS NOTIFICACIONES
 
@@ -453,11 +461,13 @@ En ningún caso el consto (sic) de la información será más elevado del monto 
 
 Cuando el particular señale domicilio para recibir la información y demás notificaciones, ésta (sic) se harán mediante instructivo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 45.
 
-Cuando el solicitante señale como medio para recibir la información o demás notificaciones, una dirección de correo electrónico, las notificaciones se harán por esa vía y la entrega de la información, si es procedente, se hará de esa manera siempre y cuando el formato de la información solicitada lo permita; en caso contrario, se le notificará al solicitante por ese medio tal imposibilidad, exhortándolo a que se apersone en el domicilio que ocupa el Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia, para recibir la información solicitada.
+Cuando el solicitante señale como medio para recibir la información o demás notificaciones, una dirección de correo electrónico, las notificaciones se harán por esa vía y la entrega de la información, si es procedente, se hará de esa manera siempre y cuando el formato de la información solicitada lo permita; en caso contrario, se le notificará al solicitante por ese medio tal imposibilidad, exhortándolo a que se apersone en el domicilio que ocupa el Centro Municipal de Información Pública, para recibir la información solicitada.
 
-En estos casos se tendrá como legalmente notificado al particular, a partir del día en que El Centro de Tecnologías de Información Pública del H. Ayuntamiento de Morelia envíe el correo electrónico respectivo.
+En estos casos se tendrá como legalmente notificado al particular, a partir del día en que el Centro Municipal de Información Pública envíe el correo electrónico respectivo.
 
 ### CAPÍTULO IX. DEL RECURSO
 
@@ -564,3 +574,9 @@ M. C. VÍCTOR M. LAGUNAS RAMÍREZ
 LIC. ARMANDO SÁNCHEZ MURILLO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
