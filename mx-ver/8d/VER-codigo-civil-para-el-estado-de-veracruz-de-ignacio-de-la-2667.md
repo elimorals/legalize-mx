@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2006-08-24"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2007.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -47,7 +47,9 @@ ARTICULO 2°
 
 Las leyes, decretos, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos, tres días después de la fecha de su publicación en la "Gaceta Oficial" del Estado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2007)</small>
+
+El inicio de vigencia de las disposiciones normativas de observancia general que refiere el párrafo anterior, se sujetará a los términos que, al efecto dispone la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 ARTICULO 3°
 
@@ -15948,3 +15950,7 @@ G.O. 24 DE AGOSTO DE 2006.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Las autoridades administrativas y judiciales pondrán a disposición de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave, en una relación de acuerdo con sus características, los bienes susceptibles de venta, donación, remate o destrucción, a fin de que dicha dependencia dictamine y proceda a la venta, remate o destrucción de esos bienes.
+
+G.O. 29 DE AGOSTO DE 2007.
+
+Único. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
