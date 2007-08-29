@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-07-19"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
+(REFORMADO, G.G. 29 DE AGOSTO DE 2007) (F. DE E., G.G. 5 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 bis y 274; el de robo contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el articulo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en el artículo 205 primero y segundo párrafos, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de infante, previsto en el articulo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el de violación, señalado por los artículos 273 y 274; el de robo contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V y XV y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -639,15 +639,25 @@ XIII. El estado y funcionamiento mecánico del objeto que manipulaba el agente; 
 
 XIV. El estado del medio ambiente en el que actuaba.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 58.
 
-Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este código, siempre que no se trate de un delito grave.
+Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este Código.
 
-Si no se trata de un delito grave y el inculpado al rendir su declaración preparatoria confiesa espontánea, lisa y llanamente los hechos que se le imputan, o en el mismo acto ratifica la rendida en indagatoria, el juzgador reducirá en un tercio la pena que le correspondería conforme a este código.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-Si el inculpado de un delito patrimonial no agravado, paga espontáneamente la reparación del daño antes o en la celebración de la primera audiencia de ofrecimiento de pruebas, el órgano jurisdiccional podrá reducir la pena hasta en una mitad.
+Si el inculpado al rendir su declaración preparatoria confiesa espontánea, lisa y llanamente los hechos que se le imputan, o en el mismo acto ratifica la rendida en indagatoria, el juzgador reducirá en un tercio la pena que le correspondería conforme a este Código.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Si el inculpado de un delito patrimonial, paga espontáneamente la reparación del daño antes o en la celebración de la primera audiencia de ofrecimiento de pruebas, el órgano jurisdiccional podrá reducir la pena hasta en una mitad.
 
 La sentencia que reduzca la pena en términos del primero y segundo párrafo deberá ser confirmada por el tribunal de alzada correspondiente, para que surta efectos. Entretanto, la pena se entenderá impuesta sin la reducción autorizada por este artículo.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+La reducción a que se refiere este artículo no se concederá en delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 ### CAPITULO III. CULPA Y ERROR
 
@@ -677,9 +687,11 @@ II. Se encuentre bajo el influjo de drogas, enervantes o psicotrópicos;
 
 III. Abandone a la víctima o no le preste auxilio;
 
-IV. No cuente con la licencia o el permiso de conductor respectivo; y
+IV. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
-V. Cause lesiones a más de tres personas, de las que requieran hospitalización o pongan en peligro la vida o se cause la muerte de dos o más personas.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+V. Cause lesiones a más de tres personas, de las que pongan en peligro la vida o se cause la muerte de dos o más personas.
 
 > <small>(ADICIONADO, G.G. 26 DE MAYO DE 2006)</small>
 
@@ -725,27 +737,39 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 68.
 
 En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos, sin que el total exceda de setenta años.
 
 ### CAPITULO VII. CONMUTACION DE PENAS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios cuando se trate de delitos graves señalados así por la ley.
+La reincidencia y habitualidad referida en los articulas 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios cuando se trate de delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
 ### CAPITULO VIII. SUSPENSION CONDICIONAL DE LA CONDENA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 70.
 
-La pena de prisión impuesta podrá ser conmutada por el órgano jurisdiccional, por la de treinta a ciento cincuenta días multa o por igual número de jornadas de trabajo en favor de la comunidad, cuando no exceda de tres años, y se reúnan además los siguientes requisitos:
+La pena de prisión impuesta podrá ser sustituida, a juicio del Juzgador, en los siguientes términos:
 
-I. Que no se trate de delito grave;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-II. Que sea delincuente primario;
+l. Por multa, cuando la pena de prisión no exceda de cuatro años;
 
-III. Que haya demostrado buena conducta con anterioridad al delito;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años;
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+III. Por jornadas de trabajo a favor de la comunidad, cuando la pena de prisión no exceda de cinco años;
 
 IV. Que tenga modo honesto de vivir;
 
@@ -755,15 +779,35 @@ VI. Que haya pagado la reparación del daño y la multa; y
 
 VII. Que el sentenciado se adhiera al beneficio, dentro de los treinta días siguientes al que cause ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta. El órgano jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo sus condiciones personales, podrá prorrogar este término hasta por treinta días.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Artículo 70 BIS.- La sustitución de la sanción privativa de libertad procederá cuando se cubran los siguientes requisitos:
+
+I. Que el sentenciado no haya sido condenado con anterioridad por delito doloso que se persiga de oficio;
+
+II. Que haya demostrado buena conducta con anterioridad al delito;
+
+III. Que no se haya sustraído de la acción judicial durante el procedimiento;
+
+IV. Que haya pagado o garantizado la reparación del daño y la multa;
+
+V. Cuente con una persona conocida que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el sustitutivo; y
+
+VI. Que el sentenciado se adhiera al beneficio dentro de los treinta días siguientes a los que cause ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta. El Órgano Jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo sus condiciones personales, podrá prorrogar este término hasta por treinta días más.
+
+El juez dejará sin efectos la sustitución y ordenará que se ejecute la pena de prisión impuesta cuando al sentenciado se le condene en otro proceso por delito doloso que cause ejecutoria, o cuando el sentenciado no cumpla con las condiciones que le fueren señaladas para tal efecto por la Autoridad Ejecutora, salvo que el juzgador estime conveniente en este último caso, apercibirlo de que si incurre en una nueva falta, se hará efectiva la sanción sustituida.
+
 ### CAPITULO IX. REMISION JUDICIAL DE LA PENA
 
 ###### Artículo 71.
 
-La pena de prisión impuesta podrá ser suspendida por el órgano jurisdiccional, cuando no exceda de cuatro años, y se reúnan además los siguientes requisitos:
+La pena de prisión impuesta podrá ser suspendida motivadamente por el Órgano Jurisdiccional, a petición de parte o de oficio, cuando no exceda de cinco años, y se reúnan además los siguientes requisitos:
 
-I. Que no se trate de delito grave;
+I. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
-II. Que sea delincuente primario;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+II. Que el sentenciado no haya sido condenado con anterioridad por delito doloso que se persiga de oficio;
 
 III. Que haya demostrado buena conducta con anterioridad al delito;
 
@@ -775,29 +819,45 @@ VI. Que haya pagado la reparación del daño y la multa.
 
 El sentenciado se podrá adherir al beneficio hasta antes de compurgar la pena de prisión impuesta.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 72.
 
-El plazo de suspensión de la ejecución de la pena será de uno a cuatro años, que fijarán los tribunales a su prudente arbitrio, atendidas las circunstancias objetivas del delito y subjetivas del inculpado.
+Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado estará obligado a:
+
+I. Otorgar garantía o se sujete a las medidas que le fijen para asegurar su presentación ante la autoridad siempre que fuere requerido;
+
+II. Observar buena conducta durante el término de suspensión;
+
+III. Desempeñar ocupación lícita;
+
+IV. Presentarse mensualmente ante la autoridad que ejerza el cuidado y vigilancia;
+
+V. Presentarse ante las autoridades judiciales o del órgano ejecutor de sentencias cuantas veces sea requerido para ello;
+
+VI. Obligarse a residir en determinado lugar del que no podrá ausentarse sin permiso de la autoridad ejecutora;
+
+VII. Abstenerse de causar molestias al ofendido o a sus familiares;
+
+VIII. Acreditar que se ha cubierto la reparación del daño y la multa, pudiendo el juez fijar los plazos para ello, de acuerdo a la situación económica del sentenciado; y
+
+IX. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora el cumplimiento de las obligaciones contraídas por el beneficio.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 73.
 
-El beneficiado con la suspensión condicional estará obligado a:
+La suspensión comprenderá la pena de prisión y multa, en cuanto a las demás sanciones impuestas, el Juez o el Tribunal resolverá según las circunstancias del caso.
 
-I. Observar buena conducta durante el término de suspensión;
+La suspensión tendrá una duración igual a la de la pena suspendida. Una vez transcurrida ésta, se considerará extinguida la pena impuesta, siempre que durante este término el sentenciado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, en cuyo caso el juez revocará la suspensión concedida y ordenará la ejecución de la sentencia.
 
-II. Presentarse mensualmente ante las autoridades del órgano ejecutor de penas, las que le otorgarán el salvoconducto respectivo;
+Si el sentenciado falta al cumplimiento de las obligaciones contraídas, el juez podrá hacer efectiva la pena suspendida o apercibirlo de que si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha pena.
 
-III. Quedar sujeto a la vigilancia de la autoridad ejecutora;
+Al sentenciado que se le haya suspendido la pena se le harán saber las obligaciones a las que queda sujeto, así como los efectos del incumplimiento de las mismas, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso la aplicación de lo previsto en este artículo.
 
-IV. Presentarse ante las autoridades judiciales o del órgano ejecutor de penas cuantas veces sea requerido para ello;
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-V. Comunicar a las autoridades del órgano ejecutor de penas sus cambios de domicilio;
-
-VI. No ausentarse del estado sin previo permiso de las autoridades del órgano ejecutor de penas;
-
-VII. Tener un modo honesto de vivir; y
-
-VIII. No residir en el lugar en que se cometió el delito por un término igual al de la pena.
+Artículo 73 BIS.- El sentenciado que considere que al dictarse sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el juez de la causa.
 
 ###### Artículo 74.
 
@@ -2353,7 +2413,7 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -2761,41 +2821,33 @@ No se procederá contra el inculpado del estupro, si no es por querella de la mu
 
 ###### Artículo 273.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de diez a quince años de prisión, y de doscientos a dos mil días multa.
+Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de cinco a quince años de prisión, y de doscientos a dos mil días multa.
 
-> <small>(F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)</small>
+Comete también el delito de violación y se sancionará como tal, el que introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-Comete también el delito de violación quien introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+Se equipara a la violación la cópula o introducción por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por cualquier enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años. En estos casos, se aplicará la pena establecida en el párrafo primero de este artículo.
 
-> <small>(F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)</small>
+Cuando el ofendido sea menor de quince años y mayor de trece años, haya dado su consentimiento para la cópula y no concurra modificativa, siempre que contraiga matrimonio con el inculpado, se extinguirá la acción penal o la pena en su caso.
 
-Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal o anal, independientemente de su sexo, exista eyaculación o no.
+Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo, exista eyaculación o no.
 
-> <small>(ADICIONADO, G.G. 10 DE AGOSTO DEL 2004)</small>
+Artículo 273 BIS.- (DEROGADO, G.G. 29 DE AGOSTO DE 2007)
 
-Artículo 273 BIS.- Si la persona ofendida fuere menor de quince años, se impondrán de veinte a cuarenta y cinco años de prisión y de doscientos a dos mil días multa.
-
-(F. DE E., G.G. 4 DE OCTUBRE DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
-
-Se equipara a la violación la cópula o introducción por vía vaginal, anal u oral, cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 274.
 
-Son circunstancias que agravan el delito de violación las siguientes:
+Son circunstancias que modifican el delito de violación:
 
-(REFORMADA, G.G. 10 DE AGOSTO DEL 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
+l. Cuando en la comisión del delito de violación participen dos o más personas se impondrán, de treinta y cinco a sesenta años de prisión y de cien a quinientos días multa;
 
-I. Cuando en la comisión del delito de violación intervengan dos o más personas se impondrán, además de las penas señaladas en los artículos 273 y 273 Bis, de treinta y cinco a setenta años de prisión y de cien a quinientos días multa;
+II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en el artículo 273 se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
 
-(REFORMADA, G.G. 10 DE AGOSTO DEL 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
+III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será además, destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
 
-II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en los artículos 273 y 273 Bis se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
+IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y
 
-III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor; y
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
-
-IV. Cuando por delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y (sic)
+V. Cuando el ofendido sea menor de quince años, y se utilice la violencia física o moral, se le impondrá de diez a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo.
 
 SUBTITULO QUINTO
 
@@ -2919,11 +2971,19 @@ VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en diner
 
 Son circunstancias que agravan la penalidad en el delito de robo y se sancionarán además de las penas señaladas en el artículo anterior con las siguientes:
 
-I. Cuando se cometa con violencia, se impondrán de cinco a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa;
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en sus bienes, males graves o se realice en desventaja numérica sobre el sujeto pasivo. Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o la que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con lo robado;
+I. Cuando se cometa con violencia, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa.
 
-II. Cuando se cometa en el interior de casa habitación o en el interior de un vehículo particular, se impondrán de seis a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
+La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en sus bienes, males graves o se realice en desventaja numérica sobre el sujeto pasivo. Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o la que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con lo robado.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Esta conducta se considerará como delito grave, cuando el monto de lo robado exceda de ciento cincuenta veces el salario mínimo o que se causen lesiones de las previstas en los artículos 237 fracciones II y III, y 238 fracciones III, IV y V de este Código;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+II. Cuando se cometa en el interior de casa habitación, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
 Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
 
@@ -2933,13 +2993,15 @@ III. Cuando se cometa en el interior de casa habitación o en el interior de un 
 
 IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-V. Cuando se cometa el robo de un vehículo automotor, de una o más de las partes que lo conforman o de la mercancía transportada a bordo de aquél, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio, en su caso, de la agravante a que se refiere la fracción I de este artículo;
+V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación hasta por veinte años para desempeñar empleo, cargo o comisión públicos;
 
 VII. Cuando lo cometa un dependiente o un doméstico contra su patrón, algún miembro de su familia, huésped o invitado, en cualquier parte que lo cometa, se impondrán de tres meses a tres años de prisión.
 
@@ -2953,11 +3015,25 @@ X. Cuando lo cometan los trabajadores encargados de empresas o establecimientos 
 
 XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, taller o escuela en que habitualmente trabajen, estudien o en la habitación, oficina, bodega u otros sitios a los que tengan libre entrada por el carácter indicado, se impondrán de seis meses a tres años de prisión;
 
-XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución definitiva e inhabilitación por veinte años para desempeñar otro empleo, cargo o comisión públicos; y
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución definitiva e inhabilitación hasta por veinte años para desempeñar otro empleo, cargo o comisión públicos;
 
 XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XIV. Cuando el robo se cometa al interior de un vehículo automotor o recaiga sobre una o más de las partes que lo conforman o sobre objetos meramente ornamentales o de aquellos que transitoriamente se encuentran en su interior, se impondrán de seis meses a seis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, sin perjuicio en su caso, del agravante a que se refiere la fracción I de este artículo.
+
+En el supuesto de esta fracción, cuando el monto de lo robado exceda de trescientas veces el salario mínimo, se aumentará la pena de prisión hasta en una mitad más, sin perjuicio en su caso, de la agravante a que se refiere la fracción III de este artículo; y
+
+> <small>N. DE E. EL ANTERIOR ULTIMO PARRAFO DEL ARTICULO CORRESPONDE A LA PRESENTE FRACCION.</small>
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XV. Si en los actos mencionados en las fracciones anteriores, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este articulo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 ###### Artículo 291.
 
@@ -3606,3 +3682,19 @@ G.G. 19 DE JULIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 72.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 76.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
