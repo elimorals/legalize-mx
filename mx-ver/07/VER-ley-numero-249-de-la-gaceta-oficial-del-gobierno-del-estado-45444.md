@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-249-de-la-gaceta-oficial-del-gobierno-del-estado-454
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-06"
-last_updated: "2005-08-05"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 249 DE LA GACETA OFICIAL DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 6 de julio de 2005.
 
@@ -90,6 +90,14 @@ V. Un sumario de su contenido.
 ###### Artículo 6.
 
 Las leyes, decretos, reglamentos, acuerdos y demás disposiciones normativas de observancia general, obligan y surten sus efectos jurídicos tres días después de su publicación en la Gaceta Oficial, a menos de que en el instrumento publicado se señale expresamente el inicio de su vigencia.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2007)</small>
+
+Antes de la entrada en vigor del nuevo instrumento normativo, mantendrá su vigencia el que se abrogue, o la parte que se derogue, según sea el caso. El cómputo de los plazos para el inicio de vigencia de los instrumentos publicados en la Gaceta Oficial, se sujetará a las siguientes reglas:
+
+I. Los plazos fijados en días, se computarán en días naturales; y
+
+II. Los plazos señalados en meses o años, y los que fijen una fecha determinada para su entrada en vigor, correrán de momento a momento y se entenderá que incluyen los días inhábiles.
 
 ### Capítulo II. De la Gaceta Oficial
 
@@ -324,3 +332,7 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 29 DE AGOSTO DE 2007.
+
+Único. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
