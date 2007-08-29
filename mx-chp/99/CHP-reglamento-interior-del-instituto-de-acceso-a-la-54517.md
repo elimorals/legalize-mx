@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-acceso-a-la-54517"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2007-02-14"
+last_updated: "2007-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DE LA ADMINISTRACION PUBLICA ESTATAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO OCTAVO TRANSITORIO DEL DECRETO NO. 270, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de febrero de 2007.
 
@@ -558,3 +560,29 @@ Dado y aprobado en la Sala de Sesiones del Instituto de Acceso a la Información
 Así lo acordaron por unanimidad de votos los CC. Gildardo Arturo Domínguez Ruiz; Consejero General y Consejeros, Dra. María Elena Tovar González y Hermann Hoppenstedt Pariente, ante el Lic. Gerardo Aguilar Yáñez, Secretario de Acuerdos quien da fe.
 
 Lic. Gildardo Arturo Domínguez Ruiz, Consejero General- Dra. María Elena Tovar González, Consejera.- Lic. Hermann Hoppenstedt Pariente, Consejero.- Lic. Gerardo Aguilar Yáñez, Secretario de Acuerdos.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, bajo las modalidades previstas en los artículos siguientes.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Derivado de la entrada en vigor del presente decreto y en términos de los artículos quinto, sexto, séptimo y noveno transitorios del presente decreto, los solicitantes podrán ejercer su derecho de acceso a la información a partir del día primero de enero de 2008.
+
+Artículo Cuarto.- Los sujetos obligados deberán emitir sus reglamentos o acuerdos generales de esta ley, o en su caso, realizar las modificaciones necesarias, en un plazo no mayor a los noventa días, contados a partir del día siguiente de la entrada en vigor de este decreto.
+
+Artículo Quinto.- Los Poderes del Estado, los Órganos Autónomos, así como los Municipios que tengan una población superior a los setenta mil habitantes, deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de los mecanismos de acceso a la información y de los procedimientos del recurso de revisión a los que se refieren este Decreto, a más tardar al treinta y uno de diciembre de 2007.
+
+Artículo Sexto.- Los Municipios con población inferior a setenta mil habitantes deberán contar con sistemas electrónicos para que los solicitantes puedan hacer uso de los mecanismos de acceso a la información y de los procedimientos del recurso de revisión a los que se refieren este Decreto, a más tardar dentro de un año a partir de la entrada en vigor del presente Decreto.
+
+Artículo Séptimo.- Los solicitantes podrán ejercer su derecho de acceso a la información en los Municipios con población inferior a setenta mil habitantes, por la vía electrónica, a partir del día siguiente en que se haya cumplido el plazo a que se refiere el artículo transitorio anterior; y por escrito a partir del día primero de enero de 2008.
+
+Artículo Octavo.- A partir de la entrada en vigencia del presente decreto, se abroga el Reglamento Interior del Instituto de Acceso a la Información Pública para la Administración Pública Estatal, publicado en el Periódico Oficial del Estado número 013, de fecha 14 de febrero de 2007, con publicación número 064-A-2007.
+
+Artículo Noveno.- Se deroga el artículo sexto transitorio de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, publicado en el Periódico Oficial del Estado número 388, de fecha 12 de octubre del año 2006.
+
+Artículo Décimo.- El Instituto a través del Consejero General, deberá someter a consideración del Poder Ejecutivo del Estado, en un plazo no mayor a los noventa días, contados a partir de la publicación del presente decreto, el proyecto de Reglamento Interior de dicho organismo público descentralizado, para su expedición y publicación correspondiente.
+
+Artículo Décimo Primero.- El Instituto en el ámbito de su competencia y apego a la Ley, cumplirá y vigilará la observancia de los artículos transitorios del presente Decreto.
