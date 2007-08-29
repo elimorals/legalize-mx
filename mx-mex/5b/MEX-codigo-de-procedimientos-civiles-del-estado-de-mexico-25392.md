@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2007-01-16"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -901,7 +901,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -911,13 +911,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
 Prohibición de borrar y abreviar
 
@@ -1697,6 +1697,10 @@ Posibilidad de modificar sentencia ejecutoria
 
 213.- Las sentencias dictadas en juicios de alimentos, sobre patria potestad, interdicción, procesos judiciales no contenciosos y las demás que prevengan las leyes, sólo tendrán autoridad de cosa juzgada mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la acción que se dedujo en el juicio correspondiente; sólo podrán alterarse o modificarse mediante nuevo juicio.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Podrán acudir, a través de un juicio autónomo, a solicitar la modificación de sentencia definitiva que haya determinado la pérdida de la patria potestad por incumplimiento de la pensión alimenticia únicamente cuando se compruebe que ha cumplido con ésta por más de un año y, en su caso, otorgue garantía anual sobre la misma, para que proceda su recuperación.
+
 Es irrecurrible el auto que declara sentencia ejecutoria
 
 ###### Artículo 1.
@@ -2119,13 +2123,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2189,7 +2193,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
@@ -4061,9 +4065,11 @@ Apelación de la sentencia que concede alimentos
 
 Suplencia de la queja en asuntos del orden familiar
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 2.
 
-140.- En el conocimiento y decisión de los juicios del orden familiar, el Juez puede realizar suplencia de la queja.
+140.- En el conocimiento y decisión de los juicios del orden familiar, el Juez puede realizar suplencia de la queja. En los casos en que se solicite o a juicio del Juzgador, éste deberá escuchar la opinión de los menores de edad, y valorará de acuerdo al grado de madurez que aprecie en los menores, a efecto de determinar en forma definitiva sobre su guarda y custodia; serán representados en dicha diligencia por el Ministerio Público adscrito al Juzgado de lo Familiar, quien velará que se representen los derechos del menor o de los menores.
 
 ### CAPITULO VII. De la Fase de Alegatos
 
@@ -5585,11 +5591,13 @@ II. Controversia de violencia familiar.
 
 347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez, capacidad para opinar y en todos los asuntos que les afecten con la intervención del Ministerio Público.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 2.
 
-348.- Los procedimientos que señala este Capítulo se iniciarán por escrito, mediante queja que se elaborará ante el Tribunal Superior de Justicia y será distribuido en los siguientes lugares públicos; Oficialía de Registro Civil, Oficialía Calificadora y las mediadoras conciliadoras en los municipios, Comisión Municipal de Derechos Humanos y Sistemas Municipales de Desarrollo Integral de la Familia, Juzgados de lo Familiar. Esta queja podrá ser presentada por:
+348.- Los procedimientos que señala el presente Capítulo se iniciarán por escrito, mediante formato de queja, previamente distribuido por el Poder Judicial del Estado de México en los siguientes lugares públicos: Oficialía del Registro Civil, Oficialía Calificadora y las mediadoras conciliadoras en los municipios, Coordinación Municipal de Derechos Humanos, Sistemas Municipales para el Desarrollo Integral de la Familia y Juzgados de lo Familiar.
+
+Esta queja podrá ser presentada por:
 
 I. El receptor de la violencia familiar;
 
@@ -5655,25 +5663,39 @@ Si las partes llegan a un acuerdo se elaborará el convenio correspondiente que 
 
 ###### Artículo 2.
 
-354.- Recibida la demanda se correrá traslado al agresor, emplazándolo para que conteste dentro del plazo de cinco días.
+354.- Recibida la queja se correrá traslado al generador de violencia, emplazándolo para que conteste dentro del plazo de cinco días.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 2.
 
-355.- Al admitirse la demanda de violencia familiar, si hubiere urgencia, podrán dictarse mientras dure el procedimiento las medidas de protección siguientes:
+355.- Al admitirse la queja de violencia familiar, si hubiere urgencia, podrán dictarse mientras dure el procedimiento las medidas de protección siguientes:
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 I. Ordenar al presunto generador de violencia que salga inmediatamente del domicilio común, aunque fuera propietario del inmueble. Si se resiste se utilizará la fuerza pública;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 II. Autorizar al receptor o agredido un domicilio diferente de aquél en el que se genera la violencia, si así lo solicita;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 III. Prohibir al presunto generador de violencia el acceso al domicilio del grupo familiar, así como a los lugares de trabajo o de estudio de la víctima;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 IV. Prohibir al presunto generador de violencia familiar y a aquellas personas que estén de acuerdo con él, acercarse a una distancia determinada de cualquier lugar donde se encuentre la víctima u otro miembro del grupo familiar; y cualquier contacto físico, verbal, telefónico o de otra índole;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 V. Ordenar la exclusión del agresor y el reingreso de la víctima al domicilio del grupo familiar, cuando ésta, por razones de seguridad personal ha debido salir del mismo;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 VI. Fijar una pensión alimenticia provisional a favor de la víctima (s) y los menores; y
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 VII. Emitir una orden de protección y auxilio policial, dirigida a las autoridades de seguridad pública de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión fuera de su domicilio.
 
@@ -5695,11 +5717,11 @@ VII. Emitir una orden de protección y auxilio policial, dirigida a las autorida
 
 358.- Concluida la audiencia, el Juez procederá a dictar resolución dentro de los cinco días siguientes.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 2.
 
-359.- En la sentencia se determinará la forma de restablecer la paz, y el orden familiar, mediante la adopción de las medidas señaladas en el artículo 2.355 del presente ordenamiento o las que el Juez considere pertinentes, conducentes a la integración del grupo familiar conforme a la ley.
+359.- En la sentencia se determinará la forma de restablecer la paz y el orden familiar, mediante la adopción de las medidas que el Juez considere pertinentes, conducentes a la integración del grupo familiar conforme a la ley.
 
 > <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -5717,7 +5739,7 @@ Disposiciones aplicables
 
 #### SECCION SEGUNDA. De la Controversia de Violencia Familiar
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO II. De la Autorización para Vender, Gravar Bienes y Transigir
 
@@ -6790,3 +6812,23 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 74.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que se encuentren en trámite se resolverán de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor este Decreto.
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 75.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El formato al que se refiere el artículo 2.348 deberá ser elaborado por el Poder Judicial del Estado de México; y modificado por éste mismo cuando sea necesario en razón de actualizaciones por reformas a los diferentes ordenamientos del Estado.
