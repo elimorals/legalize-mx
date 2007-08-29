@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-comision-estatal-de-derechos-17929"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-23"
-last_updated: "2006-02-01"
+last_updated: "2007-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2007 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -646,3 +648,15 @@ RÚBRICAS
 P.O. 1 DE FEBRERO DE 2006.
 
 > <small>[N. DE E. EL “ACUERDO DEL H. CONSEJO CONSULTIVO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE MORELOS, POR EL QUE SE ADICIONA EL ARTÍCULO 29 BIS Y SE REFORMA EL ARTÍCULO 33 Y SE DEROGA EL 35 DEL REGLAMENTO INTERNO DEL ORGANISMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 7 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.]</small>
+
+P.O. 29 DE AGOSTO DE 2007.
+
+PRIMERO.- Aprobado por el Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Morelos el presente Reglamento Interno el 16 de agosto de 2007, queda abrogado el Reglamento Interno de la Comisión Estatal de Derechos Humanos de Morelos de 21 de agosto de 2000 y todas las disposiciones normativas que se opongan a su contenido.
+
+SEGUNDO.- El Presidente y el Secretario Ejecutivo formularán los proyectos de Manuales de Organización y Procedimientos, Normas de Operación, lineamientos, circulares y disposiciones complementarias al Reglamento y lo someterán a la aprobación del Consejo Consultivo.
+
+TERCERO.- El Reglamento de la Comisión de Derechos Humanos del Estado de Morelos entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado.
+
+CUARTO.- El presente Reglamento ha sido propuesto por el Colegio de Visitadores de la Comisión y el Secretario Ejecutivo Lic. César Hidalgo Valverde, siendo sancionado por el Presidente de la Comisión de Derechos Humanos del Estado de Morelos, Ingeniero José Fausto Gutiérrez Aragón el 10 de agosto de 2007.
+
+QUINTO.- Las dudas que produzca la interpretación del presente Reglamento, en lo interno, será ventilado por el Colegio de Visitadores de la Comisión y sancionado por su Consejo Consultivo.
