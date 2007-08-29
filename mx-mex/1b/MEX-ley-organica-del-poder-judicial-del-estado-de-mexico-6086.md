@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2007-05-23"
+last_updated: "2007-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -2055,9 +2055,15 @@ IX. Resolver sobre el otorgamiento de la libertad condicional, apoyándose en lo
 
 X. Resolver sobre la revocación de beneficios o tratamiento de ley otorgados para el caso de incumplimiento de obligaciones atribuibles al sentenciado, con apoyo en los dictámenes técnico jurídicos e informes emitidos por los Consejos Interno y Técnico Interdisciplinarios correspondientes;
 
-XI. Visitar y entrevistar a los internos con sentencia ejecutoria, que sean susceptibles de obtener algún beneficio o tratamiento; y
+XI. Visitar y entrevistar a los internos con sentencia ejecutoria, que sean susceptibles de obtener algún beneficio o tratamiento; y (sic)
 
-XII. Las demás que señalen otras disposiciones legales.
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XII. Resolver sobre el otorgamiento del beneficio de libertad condicionada al Sistema de Localización y Rastreo contenido en esta ley, apoyándose en los dictámenes técnicos e informes emitidos por los Consejos Técnico e Interno Interdisciplinarios correspondientes; y
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XIII. Las demás que señalen otras disposiciones legales.
 
 > <small>(ADICIONADO, G.G. 23 DE MAYO DE 2007)</small>
 
@@ -2107,7 +2113,9 @@ Por cada dos días de trabajo del interno se hará remisión de uno de prisión,
 
 A los internos que por falta de ocupación laboral asistan regularmente a la escuela le serán tomadas en cuenta dichas actividades para el efecto de la remisión parcial de la pena y cualquier otra medida tendente a su reincorporación social.
 
-La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+La remisión parcial de la pena no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2149,7 +2157,9 @@ IV. Traslado a la Institución abierta; y
 
 V. El régimen de prelibertad.
 
-El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio calificado, violación y robo con violencia de acuerdo a las agravantes que establece el artículo 290 del Código Penal del Estado de México.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+El régimen de prelibertad no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que se califique como grave.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2195,15 +2205,53 @@ VII. Presentación quincenal al Centro Preventivo y de Readaptación Social.
 
 Al ser concedida la prelibertad, en cualquiera de sus modalidades, el Juez Ejecutor de Sentencias del Centro Preventivo y de Readaptación Social correspondiente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Artículo 201 bis.- El beneficio de libertad condicionada al Sistema de Localización y Rastreo, es un medio de ejecutar la sanción penal hasta en tanto se alcance algún beneficio de prelibertad, remisión parcial de la pena o libertad condicional.
+
+Este beneficio no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, robo que se califique como grave.
+
+Para la concesión de este beneficio el Juez se apoyará en el dictamen que emitan los Consejos Técnicos e Interno Interdisciplinarios correspondientes.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Artículo 201 ter.- El beneficio de libertad condicionada al Sistema de Localización y Rastreo a que se refiere el artículo anterior, se concederá al sentenciado que cumpla con los siguientes requisitos:
+
+I. Sea primo delincuente;
+
+II. Que la pena privativa de libertad no sea menor a siete años ni mayor de quince años. En ningún caso, se concederá a los sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que se califique como grave;
+
+III. Que le falte por lo menos un año para alcanzar el beneficio de prelibertad;
+
+IV. Cubra o garantice en su totalidad la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
+
+V. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el beneficiado;
+
+VI. Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continua estudiando;
+
+VII. Cuente con aval afianzador;
+
+VIII. Acredite apoyo familiar;
+
+IX. Cubra el costo del dispositivo electrónico de monitoreo individual, en las condiciones que para ello establezca el reglamento; y
+
+X. Las demás que establezca el Reglamento que regule este beneficio.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 202.
 
-La prelibertad será revocada por el Juez Ejecutor de Sentencias en los siguientes casos:
+La prelibertad o el beneficio de libertad condicionada al Sistema de Localización y Rastreo, serán revocados por el Juez Ejecutor de Sentencias en los siguientes casos:
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 I. Por cometer un nuevo delito, y que dentro del término constitucional resulte, probable responsable; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
+
 II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada; y
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
 III. Cuando el interno presente conductas no acordes al tratamiento preliberacional instaurado.
 
@@ -2225,11 +2273,11 @@ V. Que el beneficiado con libertad condicional resida en el lugar que se determi
 
 La designación se hará conciliando las circunstancias de que al interno no pueda proporcionársele trabajo en el lugar que se fije, con el hecho de que su permanencia en él, no sea obstáculo para su enmienda.
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 204.
 
-La libertad condicional no se concederá a los reincidentes, ni a los habituales, ni a los sentenciados por delitos graves, debiéndose observar al respecto lo que dispone el Código Penal del Estado de México.
+La libertad condicional no se concederá en los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2434,3 +2482,9 @@ G.G. 23 DE MAYO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
