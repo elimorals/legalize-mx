@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2005-08-05"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2007.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -123,7 +123,7 @@ Para su debida validez y eficacia, las comunicaciones entre los servidores públ
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 2 DE FEBRERO DE 2004)</small>
 
-El incumplimientos de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la ley de la materia y este Código, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
+El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la ley de la materia y este Código, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
 
 ###### Artículo 4.
 
@@ -223,7 +223,7 @@ IX. Expedirse de conformidad con el procedimiento administrativo que establezcan
 
 Son requisitos de validez del acto administrativo escrito, los siguientes:
 
-I. Señalar el lugar y la fecha de su emisión. Tratándose de actos administrativos individuales deberá hacerse mención, en la notificación, de la oficina en que se encuentre y pueda ser consultado el expediente respectivo y, en su caos, el nombre del interesado a quien vaya dirigido;
+I. Señalar el lugar y la fecha de su emisión. Tratándose de actos administrativos individuales deberá hacerse mención, en la notificación, de la oficina en que se encuentre y pueda ser consultado el expediente respectivo y, en su caso, el nombre del interesado a quien vaya dirigido;
 
 II. En el caso de actos administrativos que por disposición legal deban ser notificados personalmente, se hará mención de esta circunstancia en ellos;
 
@@ -263,11 +263,15 @@ Los actos administrativos de carácter individual, cuando lo prevean los ordenam
 
 Los manuales de organización que expidan las dependencias y entidades, se harán públicos a través de internet. Los particulares podrán consultarlos en la unidad administrativa que corresponda y, en su caso, solicitar copia certificada de los mismos, previo pago de los derechos correspondientes. Los instructivos y formatos que expida la Administración Pública estatal se publicarán en la Gaceta Oficial del Estado, previamente a su aplicación.
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2007)</small>
+
+El inicio de vigencia de los actos administrativos que refiere el primer párrafo de este artículo, se sujetará a los términos que, al efecto dispone la Ley de la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 13.
 
-Los actos administrativos a que se refiere los párrafos primero y cuarto del artículo anterior, sólo podrán ser abrogados o derogados por otro posterior que así lo declare expresamente, o porque contenga disposiciones total o parcialmente incompatibles con el anterior, siempre que el acto anterior sea de igual o menor jerarquía que el posterior.
+Los actos administrativos que indica el párrafo primero del artículo anterior, sólo podrán ser abrogados o derogados por otro posterior que así lo declare expresamente, o porque contenga disposiciones total o parcialmente incompatibles con el anterior, siempre que el acto anterior sea de igual o menor jerarquía que el posterior.
 
 ###### Artículo 14.
 
@@ -571,7 +575,7 @@ Pueden articularse posiciones al mandatario, siempre que tenga poder bastante pa
 
 ###### Artículo 55.
 
-Si el citado para absolver posiciones comparece, la autoridad o el Tribunal abrirán el pliego y procederán a realizar la calificación de las posiciones.
+Si el citado para absolver posiciones comparece, la autoridad o el Tribunal abrirán (sic) el pliego y procederán a realizar la calificación de las posiciones.
 
 ###### Artículo 56.
 
@@ -987,7 +991,7 @@ El procedimiento administrativo podrá iniciarse de oficio o a petición del int
 
 ###### Artículo 123.
 
-Lo informes, manifestaciones, o declaraciones rendidos por los interesados a la autoridad, se presumirán ciertos salvo prueba en contrario; sin embargo, podrán ser objeto de control y verificación por parte de la autoridad.
+Los informes, manifestaciones, o declaraciones rendidos por los interesados a la autoridad, se presumirán ciertos salvo prueba en contrario; sin embargo, podrán ser objeto de control y verificación por parte de la autoridad.
 
 > <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1405,7 +1409,7 @@ c) Tratándose de visitas domiciliarias de carácter fiscal, las contribuciones 
 
 II. La visita se realizará en el lugar o lugares señalados en la orden. De toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores;
 
-I(REFORMADA, G.O. 6 DE ENERO DE 2003)
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
 
 III. Si al presentarse los auditores, inspectores o visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante legal los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren la visita se iniciará con quien se encuentre en el lugar visitado;
 
@@ -1977,7 +1981,7 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comprobarse en forma fehaciente al hacerse valer el recurso de revocación o el juicio contencioso.
 
-En ningún caso, el fisco estatal o municipal entrarán en los juicios universales. Cuando se inicie un juicio concursal, la autoridad jurisdiccional que conozca del asunto, deberá dar aviso a las autoridades fiscales competentes para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento de ejecución.
+En ningún caso, el fisco estatal o municipal entrarán (sic) en los juicios universales. Cuando se inicie un juicio concursal, la autoridad jurisdiccional que conozca del asunto, deberá dar aviso a las autoridades fiscales competentes para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento de ejecución.
 
 ###### Artículo 221.
 
@@ -2245,7 +2249,7 @@ El procedimiento a que se refiere este capítulo, se inscribirá en un registro,
 
 En contra de las resoluciones definitivas que se dicten en el procedimiento a que se refiere este Capítulo, se podrá interponer el recurso de revocación o el juicio contencioso previstos en este Código.
 
-Las resoluciones revocatorias o anulatorias dictadas con motivo de la interposición del recurso o del juicio, tendrán el efecto de restituir al servidor publico en el goce de los derechos de que hubiese sido privado por la ejecución de la sanción, sin perjuicio de lo que establezcan otras normas.
+Las resoluciones revocatorias o anulatorias dictadas con motivo de la interposición del recurso o del juicio, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de la sanción, sin perjuicio de lo que establezcan otras normas.
 
 ###### Artículo 257.
 
@@ -2559,7 +2563,7 @@ Artículo 259 S. En el supuesto de que los servicios se hayan prestado parcialme
 
 Artículo 259 T. La dación en pago quedará formalizada y el crédito extinguido de la siguiente manera:
 
-I. Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado, misma que se otorgara dentro de los 45 días hábiles siguiente (sic) a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
+I. Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado, misma que se otorgara dentro de los 45 días hábiles siguiente a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
 
 II. Tratándose de bienes muebles, a la fecha de firma del acta de entrega de los mismos, que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación. Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor; y
 
@@ -2721,7 +2725,7 @@ I. El promovente se desista expresamente;
 
 II. El recurrente fallezca durante el procedimiento, si el acto o resolución impugnado sólo afecta a su persona;
 
-III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el articulo anterior;
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
 
 IV. Hayan cesado los efectos del acto impugnado;
 
@@ -3159,7 +3163,7 @@ Las partes podrán recusar a los magistrados del Tribunal, cuando estén en algu
 
 La recusación de magistrados se promoverá mediante escrito que se presente ante la Sala Regional en que se halle adscrito el magistrado, acompañando las pruebas que se ofrezcan. La Sala Regional, dentro de los cinco días siguientes, enviará al Presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento de la Sala Superior. A falta de informe, se presumirá cierto el impedimento. Si la Sala Superior considera fundada la recusación, el magistrado recusado será sustituido por quien esa designe.
 
-Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el secretario de acuerdos del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar esta fundada, sustituirá al magistrado recusado.
+Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el secretario de acuerdos del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar está fundada, sustituirá al magistrado recusado.
 
 Los magistrados que conozcan de una recusación serán irrecusables para ese sólo efecto.
 
@@ -3359,7 +3363,7 @@ El recurso de revisión podrá ser interpuesto por cualquiera de las partes, con
 
 De ser procedente el recurso, el Presidente de la Sala Superior designará a un magistrado ponente y mandará correr traslado del mismo a las demás partes por el plazo de cinco días posteriores al en que surta efectos la notificación, para que expongan lo que a su derecho convenga.
 
-Vencido dicho plazo, el magistrado ponente formulará el proyecto de resoIución y dará cuenta del mismo a la Sala Superior en un plazo de diez días, la cual dictará la resolución respectiva dentro de los cinco días siguientes.
+Vencido dicho plazo, el magistrado ponente formulará el proyecto de resolución y dará cuenta del mismo a la Sala Superior en un plazo de diez días, la cual dictará la resolución respectiva dentro de los cinco días siguientes.
 
 ###### Artículo 346.
 
@@ -3504,3 +3508,7 @@ Artículo Cuarto. Se derogan los artículos Segundo y Tercero Transitorios de la
 Artículo Quinto. Comuníquese este Decreto a los ciudadanos Presidentes Municipales de los Ayuntamientos del Estado para su debido cumplimiento.
 
 Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los artículos 35 segundo párrafo, 49 fracción II de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y 7 fracción II de la Ley de la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 29 DE AGOSTO DE 2007.
+
+Único. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
