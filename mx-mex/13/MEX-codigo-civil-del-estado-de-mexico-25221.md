@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2007-01-16"
+last_updated: "2007-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ENERO DEL 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1411,7 +1411,7 @@ VIII. Padecer enajenación mental incurable;
 
 IX. La separación del domicilio conyugal por más de seis meses sin causa justificada;
 
-X. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda del divorcio;
+X. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan difícil la vida en común;
 
@@ -1429,7 +1429,9 @@ XVII. El grave o reiterado maltrato físico o mental de un cónyuge hacia los hi
 
 XVIII. Permitir ser instrumento, de un método de concepción humana artificial, sin el consentimiento de su cónyuge;
 
-XIX. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
+XIX. La separación de los cónyuges por más de un año, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
 
 > <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -2471,7 +2473,11 @@ I. Cuando el que la ejerza es condenado por delito doloso grave;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
-II. Cuando por las costumbres depravadas de los que ejercen la patria potestad, malos tratos o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito;
+II. Cuando por las costumbres depravadas de los que ejercen la patria potestad, malos tratos o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Quien haya perdido la patria potestad por el abandono de sus deberes alimentarios, podrá recuperar la misma, cuando compruebe que ha cumplido con ésta por más de un año y, en su caso, otorgue garantía anual sobre la misma;
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
@@ -3783,19 +3789,27 @@ Efectos de la extinción del patrimonio familiar
 
 396.- Toda persona que sufra violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer queja de estos hechos ante el órgano jurisdiccional, en términos del Código de Procedimientos Civiles.
 
-Concepto de grupo familiar
-
-> <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 4.
 
 397.- Para los efectos del presente título se entiende por:
 
-I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad física, psicológica, moral, sexual, patrimonial y la libertad de una persona en el ámbito del grupo familiar, aún cuando se configure un delito;
+I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad física, psicológica, moral, sexual, patrimonial y/o la libertad de una persona en el ámbito del grupo familiar aún cuando se configure un delito:
 
-II. Grupo familiar: Conjunto de personas vinculadas por relaciones de intimidad, de mutua consideración, y apoyo derivados del parentesco, filiación o convivencia fraterna;
+a. Violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales pueden conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
 
-III. Receptor de violencia: Persona que sufre el maltrato físico, psicológico, sexual y daño patrimonial;
+b. Violencia física: Es cualquier acto que infringe daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas.
+
+c. Violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios del receptor de violencia.
+
+d. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad del receptor de violencia y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía del generador de violencia hacia el receptor de la violencia.
+
+e. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los integrantes del grupo familiar.
+
+II. Grupo familiar: Conjunto de personas vinculadas por relaciones de: intimidad, mutua consideración y apoyo, parentesco, filiación o convivencia fraterna; o bien, tengan alguna relación conyugal o de concubinato;
+
+III. Receptor de Violencia: Persona que sufre el maltrato físico, psicológico, sexual y/o daño patrimonial;
 
 IV. Generador de violencia: Persona que a través de su acción, omisión o abuso lesiona los derechos de los miembros del grupo familiar; y
 
@@ -16708,3 +16722,23 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 74.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos que se encuentren en trámite se resolverán de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor este Decreto.
+
+G.G. 29 DE AGOSTO DE 2007.
+
+DECRETO NUMERO 75.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El formato al que se refiere el artículo 2.348 deberá ser elaborado por el Poder Judicial del Estado de México; y modificado por éste mismo cuando sea necesario en razón de actualizaciones por reformas a los diferentes ordenamientos del Estado.
