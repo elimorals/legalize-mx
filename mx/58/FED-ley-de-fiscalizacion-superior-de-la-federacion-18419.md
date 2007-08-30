@@ -4,7 +4,7 @@ identifier: "FED-ley-de-fiscalizacion-superior-de-la-federacion-18419"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2005-04-04"
+last_updated: "2007-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18419&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-27"
 
 LEY DE FISCALIZACION SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 29 de diciembre de 2000.
 
@@ -304,6 +304,10 @@ En el supuesto de que conforme al apartado b) de este artículo, no se cumplan c
 ###### Artículo 32.
 
 La Auditoría Superior de la Federación en el Informe del Resultado, dará cuenta a la Cámara de los pliegos de observaciones que se hubieren fincado, de los procedimientos iniciados para el fincamiento de responsabilidades y de la imposición de las sanciones respectivas, así como de la promoción de otro tipo de responsabilidades y denuncias de hechos presuntamente ilícitos, que realice de conformidad con lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2007)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, la Auditoría Superior de la Federación deberá informar detalladamente a la Cámara de Diputados por conducto de la Comisión de Vigilancia de la Auditoría Superior de la Federación, del estado que guarda la solventación de observaciones, recomendaciones y acciones promovidas hechas a las entidades fiscalizadas. Para tal efecto, el informe a que se refiere este párrafo será semestral y deberá ser presentado a más tardar los días 15 de los meses de abril y octubre de cada año, con los datos disponibles al cierre de los meses inmediatos anteriores.
 
 ## TITULO TERCERO. De la Fiscalización de Recursos Federales Ejercidos por Entidades Federativas, Municipios y Particulares
 
@@ -896,3 +900,7 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 D.O.F. 4 DE ABRIL DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE AGOSTO DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
