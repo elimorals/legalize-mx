@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-08-17"
+last_updated: "2007-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,33 +18,245 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de agosto de 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DIVERSO ACUERDO, PUBLICADO EN EL D.O.F. DE 4 DE AGOSTO DE 2008, SE MODIFICA EL PRESENTE ORDENAMIENTO EN SU CONSIDERANDO CUARTO Y ARTICULOS PRIMERO, SEGUNDO Y TERCERO TRANSITORIOS.</small>
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 30 de agosto de 2008.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comunicaciones y Transportes.
+
+MANUEL RODRIGUEZ ARREGUI, Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, con fundamento en los artículos 36 fracciones I, IX, XII y XXVII de la Ley Orgánica de la Administración Pública Federal; 1o., 5, fracciones I, III y IV, 12 y 59 de la Ley de Caminos, Puentes y Autotransporte Federal; el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 20 de diciembre de 1993; 1o., 3o., 7o., 9o., y 17 del Reglamento de Autotransporte Federal y Servicios Auxiliares; 1o., 3o., 6o., fracciones IX y XVII, y 19 del Reglamento Interior de la Secretaría de Comunicaciones y Transportes, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las Partes;
+Que el comercio entre México y Estados Unidos de América, a raíz de la entrada en vigor del Tratado de Libre Comercio de América del Norte (TLCAN), y hasta 2006 se ha incrementado sustancialmente hasta alcanzar aproximadamente los 330 mil millones de dólares en 2006 y alrededor del 70 por ciento de este comercio es transportado por carretera.
 
-Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
+Que para conservar las ventajas competitivas respecto a otras regiones del mundo, es necesario redoblar los esfuerzos de las naciones participantes para promover e incentivar el intercambio comercial.
 
-Que la oferta nacional de leche y derivados lácteos es insuficiente, por lo que es necesario complementarla con importaciones a efecto de que las industrias que los utilizan en sus procesos productivos tengan acceso a insumos en condiciones similares a las que tienen en el exterior;
+Que la cercanía de los mercados nacionales con el mercado de Estados Unidos representa una gran ventaja competitiva y que es necesario aprovecharla para promover nuestro intercambio comercial con el exterior.
 
-Que el 23 de enero de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo mínimo para importar en 2007, leche en polvo originaria de los Estados Unidos de América, dentro del arancel cuota, establecido en el Tratado de Libre Comercio de América del Norte, así como su modificación publicada en el Diario Oficial de la Federación el 11 de mayo de 2007;
+Que con objeto de instrumentar las recomendaciones del informe final del Panel de Solución de Controversias del Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 6 de febrero de 2001, los Estados Unidos Mexicanos y los Estados Unidos de América han acordado llevar a cabo de manera recíproca un Programa Demostrativo de acceso al autotransporte de carga por un periodo de un año, a través del cual se autorizará la participación de 100 empresas representativas del transporte de cada país, cuya operación estará sujeta a las reglas expedidas en forma equitativa por ambos gobiernos, a fin de procurar un trato justo, no discrecional y bajo el principio de no discriminación respecto de los nacionales de cada país.
 
-Que los cupos mínimos destinados a la empresa del sector público han sido asignados en su totalidad para cubrir las necesidades del programa de abasto social de leche, conforme a los requerimientos de su programa anual de compras de leche fluida y de leche en polvo, por lo que es necesario satisfacer sus requerimientos de abasto social para el resto del año;
+Que a través de dicho programa se autorizará el servicio de autotransporte transfronterizo de carga internacional hacia el interior de ambos países.
 
-Que el artículo décimo transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007 establece en la fracción IV, párrafo quinto, que los cupos adicionales equivalentes a un 29.7% de los cupos libres de arancel asignados a LICONSA S.A. de C.V. y los equivalentes a un 8.1% de los cupos libres de arancel asignados a la industria privada, serán entregados a los respectivos beneficiarios en el mes de agosto del 2007;
+Que se tiene previsto que ambos países otorguen 25 permisos cada mes, hasta alcanzar la expedición de 100 permisos por cada uno o hasta que todas las empresas interesadas en participar (sin rebasar 100), cumplan con todos los requisitos, hayan recibido el permiso y operen regularmente.
 
-Que la Secretaría de Economía y la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación están de acuerdo en el incremento de este cupo y han consultado a los productores y consumidores de la cadena productiva sobre dicha cuota adicional, y
+Que el Programa Demostrativo pretende que los autotransportistas de cada país adquieran experiencia operativa, aclaren los procedimientos de apertura y operación fronteriza y se facilite a cada gobierno la evaluación objetiva sobre el desempeño operativo de los autotransportistas nacionales en el territorio del otro país.
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que asimismo se busca contar con elementos objetivos de análisis para establecer parámetros, condiciones y procedimientos recíprocos y regulares de autorización en ambos países, que permitan el desarrollo del autotransporte transfronterizo.
 
-ACUERDO POR EL QUE SE DA A CONOCER EL INCREMENTO AL CUPO MINIMO PARA IMPORTAR EN 2007, LECHE EN POLVO ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA, DENTRO DEL ARANCEL-CUOTA, ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+Que ambos países se han comprometido a adoptar una política que tienda a eliminar cualquier trato discriminatorio a empresas de autotransporte y a sus operadores de acuerdo con los principios del TLCAN.
+
+Que en el Programa Demostrativo se busca balancear el número de vehículos que operen los autotransportistas de ambos países, y no se comprenden, los servicios de autotransporte de carga de materiales y residuos peligrosos, objetos voluminosos o de gran peso, fondos y valores, grúas industriales, pasaje, turismo, servicios auxiliares, arrendamiento, traslado, paquetería y mensajería, ni de servicios domésticos en cualquiera de sus modalidades.
+
+Que en el Programa Demostrativo se mantiene la reserva de la carga doméstica (la que se realiza entre puntos del interior de la República) establecida en el Anexo I del Capítulo XII del TLCAN, para las empresas mexicanas con cláusula de exclusión de extranjeros.
+
+Que la apertura acordada al autotransporte transfronterizo de carga dará posibilidades adicionales a la movilización de mercancías de las que actualmente se dispone, contribuyendo a reducir costos de transporte e impulsar con mayor efectividad e intensidad el comercio entre ambos países.
+
+Que el resultado exitoso del Programa permitirá que los importadores y exportadores cuenten con servicios puerta a puerta y justo a tiempo en sus procesos de intercambio comercial, lo que favorecerá el incremento del comercio exterior mexicano.
+
+Que la operación del Programa Demostrativo permitirá contar con la información relacionada con la situación jurídico administrativa de las empresas y personas físicas, además de conocer y verificar que los operadores que ingresarán con las unidades cuentan con capacitación y experiencia en la conducción, con condiciones adecuadas de salud física y mental y habilidad en el uso y entendimiento del idioma español. La realización del Programa contribuirá a elevar los niveles de seguridad en la conducción de vehículos dentro del territorio nacional.
+
+Que es necesario verificar que los vehículos reciben el mantenimiento adecuado y se encuentran en óptimas condiciones para su operación para disminuir las probabilidades de accidentes por fallas mecánicas y conocer la forma en que cada empresa opera el servicio.
+
+Que lo anterior permitirá otorgar permisos a quienes garanticen el cumplimiento de la totalidad de los preceptos de la legislación vigente en materia de autotransporte y las disposiciones del TLCAN y de este Acuerdo.
+
+Que en razón de lo anterior se hace necesario crear una modalidad temporal para operar el servicio de autotransporte de carga internacional y permitir la expedición de los permisos correspondientes, para lo cual, se deben dar a conocer los requisitos y el procedimiento que se seguirá para su expedición, con lo que se dará seguridad jurídica a los solicitantes y transparencia en el proceso de autorización.
+
+Con base en las anteriores consideraciones, he tenido a bien emitir el siguiente:
+
+ACUERDO POR EL QUE SE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
+
+Primero.- Se crea con carácter temporal la modalidad para operar y explotar el servicio de autotransporte transfronterizo de carga internacional, el cual aplicará a las solicitudes de permiso que formulen los autotransportistas domiciliados en los Estados Unidos de América, en adelante los EUA, ya sea de EUA hacia los Estados Unidos Mexicanos, en adelante México, o de México hacia EUA sin hacer servicios entre dos puntos dentro del territorio Mexicano.
+
+Segundo.- Se requiere permiso otorgado por la Secretaría de Comunicaciones y Transportes, en adelante la Secretaría, para la operación y explotación del servicio de autotransporte transfronterizo de carga internacional.
+
+Los permisos que se expidan para esta modalidad no facultarán la operación del autotransporte de carga de materiales y residuos peligrosos, objetos voluminosos o de gran peso, fondos y valores, grúas industriales, pasaje, turismo, servicios auxiliares, arrendamiento, traslado, paquetería y mensajería, ni de servicios domésticos en cualquiera de sus modalidades, lo cual se hará constar en los permisos respectivos.
+
+Tercero.- El trámite se realizará únicamente en las oficinas de la Dirección General de Autotransporte Federal, en México Distrito Federal situadas en Calzada de las Bombas número 411, cuarto piso, colonia Los Girasoles Coapa en México, Distrito Federal. La resolución correspondiente deberá emitirse en un plazo que no exceda de 45 días hábiles. Si transcurrido dicho plazo no se ha emitido la resolución respectiva, se entenderá como negativa.
+
+En los casos en que las solicitudes no contengan los datos o no cumplan los requisitos aplicables, la Secretaría emitirá, dentro de los 15 días hábiles siguientes a la recepción de la solicitud para iniciar el trámite, el oficio de prevención para que los interesados subsanen la omisión dentro del plazo de 10 días hábiles contados a partir de que surta efectos la notificación, transcurrido el plazo sin desahogar la prevención, se desechará el trámite.
+
+De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo citado, no se podrá desechar el trámite argumentando que está incompleto.
+
+Cuarto.- Para la obtención de los permisos para el servicio de autotransporte transfronterizo de carga internacional el solicitante deberá:
+
+1. Presentar solicitud en el formato TFC-USA-01(Anexo 1), y documentos que respalden la información
+
+2. Presentar documento de asignación del Número de Registro para el pago de impuestos en los EUA.
+
+3. Presentar certificado de nacimiento o pasaporte vigente (en caso de Persona Física)
+
+4. Acreditar registro del Departamento de Transporte de EUA, en adelante DOT Federal, y documento del Departamento de Transporte de cualquier estado de EUA, en adelante DOT Estatal, de asignación de placas, en donde se identifique el nombre, denominación o razón social del permisionario, el Número de Identificación Vehicular y marca del vehículo al que la Secretaría le asignará las placas de servicio transfronterizo.
+
+5. Presentar Estatutos Constitutivos o Acta Constitutiva de la Sociedad (en caso de persona moral) y sus modificaciones, en donde se consideren dentro de las actividades a desarrollar, la prestación del servicio de autotransporte de carga, traducido al idioma español por perito traductor y debidamente apostillado.
+
+6. Acreditar con poder otorgado ante fedatario público, cédula fiscal e identificación oficial con fotografía, la capacidad legal de su representante. El poder deberá detallar las facultades que se confieren al representante legal que realizará el trámite en México. El Representante deberá presentar escrito en que señale domicilio y correo electrónico para recibir notificaciones y su compromiso de notificar a la SCT sobre cualquier cambio que se llegue a dar, en un plazo no mayor de 15 días.
+
+7. Presentar comprobante del pago de derechos por el trámite, conforme a la tarifa vigente de la Ley Federal de Derechos.
+
+8. Presentar documento que acredite la propiedad o legal posesión del vehículo, que contenga las características de éste. Cuando no se describan las características se anexará ficha técnica.
+
+9. Presentar póliza de seguro de responsabilidad civil por daños a terceros vigente y comprobante de pago de prima con cobertura de riesgo en México, por un mínimo de 19,000 días de salario mínimo general vigente en el Distrito Federal, en la que conste el Número de Identificación Vehicular (NIV) de cada unidad asegurada. Dicha póliza deberá ser expedida por aseguradora con cobertura en el territorio mexicano, con vigencia mínima de un año y señalar en forma precisa el concepto de responsabilidad civil por daños a terceros.
+
+10. Presentar el certificado vigente de baja emisión de contaminantes; expedido por centro de verificación de emisiones contaminantes autorizado por la Secretaría o certificado emitido de conformidad con las regulaciones y procedimientos de EUA, el cual será reconocido como válido para efectos de demostrar el cumplimiento de lo dispuesto por las normas oficiales mexicanas Norma Oficial Mexicana NOM-041-SEMARNAT-2006, Que Establece Los Límites Máximos Permisibles de Emisión de Gases Contaminantes Provenientes del Escape de los Vehículos Automotores en Circulación que Usan Gasolina Como Combustible, publicada en el Diario Oficial de la Federación el 6 de Marzo de 2007 y, Norma Oficial Mexicana NOM-045-ECOL-1996, Que establece los Niveles Máximos Permisibles de Opacidad del Humo Proveniente del Escape de Vehículos Automotores en Circulación que Usan Diesel o Mezclas que Incluyen Diesel Como Combustible, publicada en el Diario Oficial de la Federación el 22 de abril de 1997.
+
+11. En todos los casos, las unidades deberán aprobar la verificación técnica de las condiciones físico mecánicas, en las visitas de inspección que para el efecto realice la Secretaría en el lugar en donde se localicen las instalaciones de la empresa solicitante (In situ), conforme a la Norma Oficial Mexicana NOM-068-SCT-2-2000 Transporte Terrestre -Servicio de Autotransporte Federal de Pasaje, Turismo, Carga y Transporte Privado-Condiciones-Físico-Mecánica y de Seguridad para la Operación en Caminos y puentes de Jurisdicción Federal, publicada en el Diario oficial de la Federación el 24 de julio de 2000 o la que la sustituya.
+
+12. Presentar copia de la Licencia Comercial de Conductor, documento que acredite que los operadores relacionados han sido contratados en los Estados Unidos de América bajo la legislación laboral de ese país, documento oficial que contenga el registro oficial de población y el número oficial para el pago de impuestos; constancias de la capacitación recibida en los dos últimos años; partes de accidentes de la Policía de Caminos, dictámenes de aseguradoras o reportes del Departamento de Transporte de EUA, de accidentes en los que se haya visto involucrado cada uno de los conductores que cruzarán a territorio mexicano en los 2 últimos años, así como reporte de infracciones emitido por autoridad competente.
+
+13. Acreditar con copias de los reportes emitidos por el auditor o documento que haga sus veces, el resultado de las auditorías que le han practicado a la empresa las autoridades competentes, en donde se señale el número de infracciones, multas o sanciones que le han aplicado a la empresa y las causas que motivaron cada una.
+
+14. Presentar copia de los reportes proporcionados al Departamento de Transporte en donde se contenga información sobre la operación de los dos últimos años, indicando número de viajes; tipo de unidades utilizadas; productos que transporta; orígenes y destinos; accidentes que causaron daños, heridos o muertos; Programas de seguridad que aplican; Programas de mantenimiento preventivo y correctivo; programa de capacitación de operadores.
+
+15. Presentar impresión de la marca comercial, sello o símbolo de la empresa.
+
+Para la entrega de los requisitos enlistados el solicitante deberá requisitar y enviar el formato TFC-USA-02 (Anexo 2).
+
+Quinto.- Todos los solicitantes de un permiso deberán requisitar y enviar el formato TFC-USA-03 (Anexo 3), y aprobar las inspecciones de seguridad que les practiquen In Situ los servidores públicos de la SCT, quienes verificarán entre otras cosas:
+
+I. Domicilio del solicitante,
+
+II. Instalaciones con que cuenta el transportista,
+
+III. Los vehículos que ingresarán a México y sus expedientes, en donde deberá obrar entre otras cosas, constancia del programa de mantenimiento preventivo y correctivo que se le haya practicado a cada unidad; de las revisiones físico mecánicas efectuadas, de las verificaciones de emisiones contaminantes; así como de la documentación en donde consten las características de los vehículos, las cuales se constatarán con las que físicamente presenten las unidades.
+
+IV. Verificar expedientes de los conductores, los que deben contener:
+
+a) Nombre completo,
+
+b) Fecha y lugar de nacimiento,
+
+c) Edad,
+
+d) Número del registro oficial de población,
+
+e) Número de registro para declarar ingresos,
+
+f) Domicilio,
+
+g) Número y tipo de licencia,
+
+h) Fecha de expedición y vencimiento de la licencia,
+
+i) Restricciones que tenga en la conducción de vehículos de autotransporte,
+
+j) Capacitación recibida,
+
+k) Accidentes en los que se haya visto involucrado en los dos últimos años
+
+l) Contrato de prestación de servicios
+
+m) Acreditación de habilidad en uso y entendimiento del idioma español
+
+n) Registro de resultados de exámenes médicos y/o certificado de salud y registro de exámenes toxicológicos y alcoholimetrías.
+
+o) Infracciones por causas imputables al operador que le hayan aplicado en los dos últimos años, y
+
+p) Obligaciones y funciones que el operador tenga en la empresa.
+
+V. Seguro vigente por un año, contra daños a terceros
+
+VI. Acreditación del Representante Legal
+
+La violación a cualquiera de las siguientes disposiciones de seguridad, serán causas por las cuales los solicitantes no acreditarán la inspección de seguridad.
+
+a) No implementar un programa para detectar y controlar el consumo de drogas de abuso, alcohol y/o sustancias controladas.
+
+b) Emplear a un conductor que se haya negado a presentar la prueba de drogas de abuso, alcohol o sustancias controladas requeridas.
+
+c) Emplear y contratar a un conductor que se sabe ha resultado positivo en la prueba de drogas de abuso, alcohol o sustancias controladas.
+
+d) Permitir, exigir o autorizar con conocimiento de causa a un conductor cuya licencia haya sido suspendida, revocada o cancelada.
+
+e) Permitir, exigir o autorizar con conocimiento de causa a un conductor en periodo de descalificación, la operación de un vehículo automotor.
+
+f) Operar un vehículo automotor sin contar con el seguro de responsabilidad civil por daños a terceros.
+
+g) Emplear o contratar a un conductor que no cuente con la capacidad suficiente.
+
+h) Emplear o contratar a un conductor físicamente no apto para realizar sus funciones.
+
+i) Que el conductor no cuente con la bitácora de horas de servicio.
+
+j) Requerir o permitir la operación de un vehículo automotor declarado como fuera de servicio y sin realizar las reparaciones pertinentes.
+
+k) Utilizar un vehículo automotor que no ha sido inspeccionado de manera periódica.
+
+Sexto.- En caso de que el titular de un permiso al que se refiere este Acuerdo, quiera dar de alta vehículos adicionales a los que ampara el permiso, deberá presentar los documentos previstos en los numerales 6, 7, 8, 9, 10 y 11 del artículo cuarto, así como solicitud en formato TFC-USA-04 (Anexo 4).
+
+La resolución correspondiente deberá emitirse en un plazo que no exceda de 20 días hábiles. Si transcurrido dicho plazo no se ha emitido la resolución respectiva, se entenderá como negativa.
+
+En los casos en que las solicitudes no contengan los datos o no cumplan los requisitos aplicables, la Secretaría emitirá dentro de los 15 días hábiles siguientes a la recepción de la solicitud para iniciar el trámite, el oficio de prevención para que los interesados subsanen la omisión dentro del plazo de 10 días hábiles contados a partir de que surta efectos la notificación, transcurrido el plazo sin desahogar la prevención, se desechará el trámite.
+
+De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo citado, no se podrá desechar el trámite argumentando que está incompleto.
+
+Séptimo.- Los permisos que se expidan al amparo del presente Acuerdo bajo ninguna circunstancia podrán ser cedidos, transferidos o extendidos a otras empresas o personas físicas.
+
+Octavo.- El Procedimiento que se seguirá para el otorgamiento de los permisos constará de las siguientes etapas:
+
+1. Integración y presentación de solicitud y expediente con requisitos documentales,
+
+2. Revisión físico mecánica e inspección a empresa o persona física en sus instalaciones (in situ),
+
+3. Análisis, validación de información y determinación sobre la procedencia del otorgamiento de permisos, en donde se verificará la información de las empresas filiales, asociadas o relacionadas con la solicitante ya descalificadas.
+
+Noveno.- La Secretaría llevará un registro de las sociedades y personas físicas, que se autoricen para prestar el servicio de autotransporte transfronterizo de carga general internacional.
+
+Los cambios respecto a la denominación o razón social, objeto social y domicilio, así como integración del órgano de administración, socios, operadores, características de los vehículos o datos de las pólizas de seguro, proporcionados en el expediente de origen, deberán registrarse ante la Secretaría, dentro de los siguientes quince días naturales a que ocurra dicha modificación, presentando solicitud en escrito libre y documento en el que conste la modificación.
+
+La resolución correspondiente deberá emitirse en un plazo que no exceda de 15 días hábiles. Si transcurrido dicho plazo no se ha emitido la resolución respectiva, se entenderá como negativa.
+
+Décimo.- Los vehículos automotores para el servicio de autotransporte transfronterizo de carga general internacional, estarán dotados de placas metálicas de identificación, calcomanías y tarjetas de circulación, éstos tendrán la misma vigencia que corresponde a la del Programa Demostrativo.
+
+Décimo Primero.- Los semirremolques de procedencia extranjera que se internen al país en forma temporal, podrán circular en los caminos de jurisdicción federal, hasta por el periodo autorizado en los términos de la ley de la materia, siempre y cuando acrediten su legal estancia. Para su arrastre deberán utilizar un vehículo automotor autorizado para la prestación del servicio de autotransporte transfronterizo de carga internacional.
+
+Décimo Segundo.- Los permisionarios están obligados a vigilar y constatar que los conductores de sus vehículos cuentan con la licencia comercial de conductor, que poseen habilidad en el uso y entendimiento del idioma español y cuenten con su Bitácora de horas de servicio debidamente requisitada e implementar en su empresa un programa para detectar y controlar el consumo de drogas de abuso, alcohol y/o sustancias controladas.
+
+Décimo Tercero.- Los operadores deberán portar en todo momento en los vehículos autorizados la siguiente documentación:
+
+a) Tarjeta de Circulación original, cuyos datos concuerden plenamente con los del vehículo con el que se opera el servicio de autotransporte transfronterizo de carga.
+
+b) Placas metálicas de identificación otorgadas por la SCT, las cuales deberán ser colocadas una en la parte delantera y otra en la parte trasera de la unidad motriz, las unidades de arrastre sólo contarán con pedimento de importación temporal el cual deberá ser mostrado a la autoridad que así lo solicite.
+
+c) Calcomanía que deberá coincidir con la serie correspondiente a las placas metálicas de las unidades motrices y colocarse en una parte visible del parabrisas.
+
+d) La Póliza de seguro de responsabilidad civil por daños que se indica en el numeral 9, punto cuarto de este Acuerdo y, en su caso, original del endoso que mencione el NIV, marca, número de motor y año de fabricación que identifique el vehículo y datos del permisionario como nombre (para personas físicas) o denominación (para personas morales) y domicilio.
+
+e) Contrato de prestación de servicios de autotransporte o documento que haga las veces de la Carta Porte, en original, que contenga por lo menos la siguiente información
+
+1.- Denominación o Razón social (para personas morales) o nombre (para personas físicas) del permisionario y del expedidor y sus domicilios;
+
+2.- Nombre y domicilio del destinatario;
+
+3.- Designación de la mercancía con expresión de su calidad genérica, peso y marcas o signos exteriores de los bultos o embalaje en que se contengan y en su caso, el valor declarado de los mismos;
+
+4.- Precio del transporte y de cualquier otro cobro derivado del mismo;
+
+5.- Fecha en que se efectúa la expedición;
+
+6.- Lugar de recepción de la mercancía por el autotransportista; y
+
+7.- Lugar y fecha o plazo en que se realizará la entrega al destinatario.
+
+f) Calcomanía vigente de la Alianza de Seguridad de Vehículos Comerciales, en adelante CVSA, que haya sido asignada por las autoridades de su país de origen o por servidores públicos de la SCT y deberá corresponder al periodo vigente, o en su caso, la correspondiente a la Norma Oficial Mexicana NOM-068-SCT-2-2000, Transporte Terrestre-Servicio de Autotransporte Federal de Pasaje, Turismo, Carga y Transporte Privado-Condiciones-Físico-Mecánica y de Seguridad para la operación en Caminos y Puentes de Jurisdicción Federal, publicada en el Diario Oficial de la Federación el 24 de julio de 2000, o la que la sustituya.
+
+g) Licencia Comercial de Conductor vigente, en original que haya sido expedida por las autoridades de algún Estado de los EUA.
+
+h) Pedimento de importación temporal vigente y Aviso de importación / exportación temporal, de los vehículos de autotransporte (remolque o semirremolque y camión unitario o tractocamión), con los que se opera el servicio.
+
+i) Bitácora de horas de servicio original, debidamente requisitada
+
+j) Deberán portar original o copia del último resultado del examen médico y/o certificado de salud.
+
+La falta de estos documentos dará lugar a la aplicación de las sanciones previstas en las disposiciones legales vigentes.
+
+Los vehículos autorizados para operar el servicio de autotransporte transfronterizo de carga general internacional, sólo podrán ser conducidos en territorio mexicano por operadores que acrediten habilidad en el uso y comprensión del idioma español, el incumplimiento de esta disposición dará lugar a que se ponga fuera de servicio al vehículo hasta que el conductor sea sustituido por otro que cumpla este requisito.
+
+Décimo Cuarto.- La Secretaría establecerá los mecanismos de coordinación con la Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, para verificar el cumplimiento del presente Acuerdo.
+
+Décimo Quinto.- La modalidad para la operación y explotación del servicio de autotransporte transfronterizo de carga internacional, se sujetará a las disposiciones de este Acuerdo, y para lo no previsto en el mismo, se estará a lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal, los tratados internacionales, los reglamentos, las normas y demás disposiciones administrativas que emita la Secretaría.
 
 ###### ARTICULO PRIMERO.
 
@@ -52,13 +264,13 @@ El incremento al cupo mínimo para importar en 2007, leche en polvo originaria d
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-De conformidad con el artículo décimo transitorio, fracción I, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2007, el arancel-cupo aplicable a la cuota adicional a la mínima acordada en el Tratado de Libre Comercio de América del Norte para la importación de las mercancías originarias en el propio Tratado, comprendidas en la fracción arancelaria 1005.90.03, es el que a continuación se indica:
+Se modifican el Considerando Cuarto y los Artículos PRIMERO y SEGUNDO TRANSITORIOS y se adiciona un TERCER Artículo transitorio al presente Acuerdo, para quedar como sigue:
 
-(VEASE ARCHIVO ANEXO)
+CONSIDERANDO CUARTO
 
-Lo dispuesto en este artículo sólo será aplicable a las mercancías que cuenten con certificado de cupo expedido por la Secretaría de Economía.
+Que con objeto de continuar con la instrumentación de la resolución final del Panel de Solución de Controversias del Tratado de Libre Comercio de América del Norte, de febrero de 2001, los Estados Unidos Mexicanos y los Estados Unidos de América han acordado que la vigencia del Programa Demostrativo de acceso al autotransporte de carga será hasta el 31 de agosto de 2010, a través del cual se autorizará la participación de hasta 100 empresas representativas del transporte de cada país, cuya operación estará sujeta a las reglas expedidas en forma equitativa por ambos gobiernos, a fin de procurar un trato justo, no discrecional y bajo el principio de no discriminación respecto de los nacionales de cada país.
 
 ### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
 
@@ -498,8 +710,38 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, y concluirá su vigencia el 31 de diciembre de 2007.
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente durante un año.
 
-México, D. F., a 10 de agosto de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+SEGUNDO.- Los permisos que se expidan al amparo del presente Acuerdo, tendrán una vigencia máxima de un año, la cual empezará a contar a partir de la fecha de su expedición, hasta el 31 de agosto de 2008.
+
+México, Distrito Federal, a los veintisiete días del mes de agosto de dos mil siete.- El Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, Manuel Rodríguez Arregui.- Rúbrica.
+
+Subsecretaría de Transporte
+
+Dirección General de Autotransporte Federal
+
+Dirección del Centro Metropolitano del Autotransporte
+
+SOLICITUD DE REGISTRO COMO ASPIRANTE A OBTENER UN PERMISO Y ALTA DE VEHICULO PARA OPERAR EL SERVICIO TRANSFRONTERIZO DE CARGA INTERNACIONAL
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE AGOSTO DE 2008.
+
+EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+A CONTINUACION SE TRANSCRIBE EL ARTICULO UNICO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO QUE CREA LA MODALIDAD TEMPORAL DEL SERVICIO DE AUTOTRANSPORTE TRANSFRONTERIZO DE CARGA INTERNACIONAL ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LOS ESTADOS UNIDOS DE AMERICA
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y estará vigente hasta 31 de agosto de 2010.
+
+SEGUNDO.- Los permisos que se expidan al amparo del presente Acuerdo, tendrán una vigencia hasta el 31 de agosto de 2010.
+
+TERCERO.- Los permisos que se hayan expedido en fecha anterior a la entrada en vigor de la presente modificación se entenderán prorrogados hasta el 31 de agosto de 2010.
