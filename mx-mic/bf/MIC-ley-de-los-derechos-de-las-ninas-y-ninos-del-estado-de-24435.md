@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-las-ninas-y-ninos-del-estado-de-24435"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-05"
-last_updated: "2002-02-05"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Segunda en el Periódico Oficial del Estado de Michoacán, el martes 5 de febrero del 2002.
 
@@ -83,7 +83,9 @@ V.- Acciones Marginadas: Las actividades que realizan las niñas y niños que se
 
 VI.- Administración Pública del Estado: El conjunto de dependencias centralizadas y entidades paraestatales que integren los órganos de gobierno;
 
-VII.- Asistencia Social: El conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las niñas y niños su desarrollo integral, así como la protección física, mental y social en estado de necesidad, hasta lograr su incorporación a una vida plena y productiva;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VII.- Asistencia Social: Se consideran servicios de asistencia e integración social el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los individuos, familias o grupos de población en situación de riesgo;
 
 VIII.- Atención Integral: Las acciones que deban realizar los órganos locales de gobierno, familia y sociedad a favor de las niñas y niños, tendientes a satisfacer sus necesidades básicas, propiciar su desarrollo integral y garantizar sus derechos;
 
@@ -121,7 +123,9 @@ g) Víctimas de cualquier abuso, explotación laboral o sexual; o
 
 h) Cualquier otra situación o actividad que ponga en riesgo o impida su desarrollo integral; y,
 
-XVIII.- Organizaciones Sociales y Privadas: Las instituciones y asociaciones, que realicen acciones a favor de las niñas y niños en el Estado de Michoacán;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+XVIII.- Organizaciones: Sociedades, asociaciones o agrupaciones civiles, privadas y sociales, legalmente constituidas o no, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social y las previstas en esta Ley.
 
 ## TITULO SEGUNDO. De los Principios Rectores y de los Derechos de las Niñas y Niños en el Estado de Michoacán
 
@@ -141,17 +145,37 @@ b) En la atención a las niñas y niños en los servicios públicos;
 
 c) En la formación y ejecución de políticas públicas; relacionadas con las niñas y niños;
 
-II.- La corresponsabilidad o concurrencia, que asegura la participación y responsabilidad de la familia, órganos locales de gobierno y sociedad en la atención de las niñas y niños;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-III.- El de igualdad y equidad en todos los ámbitos que conciernen a las niñas y niños;
+II.- Solidaridad: Relación de ayuda mutua entre personas, familias, comunidades, organizaciones y órdenes de gobierno, de manera corresponsable para lograr el desarrollo pleno de las niñas y los niños;
 
-IV.- El de la familia como espacio preferente para el desarrollo de las niñas y niños;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-V.- El que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas, especificas, cuidando que todas las niñas y niños ejerzan sus derechos con equidad;
+III.- Equidad: Superación en todos los sentidos de la desigualdad social que existe en toda la niñez del Estado;
 
-VI.- El que las niñas y niños deben vivir en un ambiente libre de violencia; y,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-VIl. El respeto universal a la diversidad cultural, étnico y religiosa.
+IV.- El de protección de la familia: como espacio preferente para el desarrollo de las niñas y los niños;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+V.- Respeto de las etapas de la niñez: El que la niña o niño tienen diversas etapas de desarrollo y diversas necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas, específicas, cuidando que todas las niñas y niños ejerzan sus derechos con equidad;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VI.- Seguridad: El que las niñas y niños deben vivir en un ambiente libre de violencia;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VII.- Respeto a la diversidad de los niños y las niñas: En su multiculturalidad, multilateralidad en aspectos de género, edad, capacidades diferentes, condición social, salud, religión, de opiniones, preferencias, o cualquier otra para superar toda condición de discriminación y fomentar la tolerancia;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VIII.- lntegralidad: La articulación y complementariedad de planes, programas, acciones e iniciativas de los sectores público, privado y social tendientes a un desarrollo social sostenido y equilibrado de las niñas y los niños; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IX.- Participación social: Capacidad de las niñas y los niños para opinar e integrarse, individual u organizadamente en la formulación, ejecución, evaluación y supervisión de las políticas, programas y acciones.
 
 ### Capítulo II. De los Derechos de las Niñas y Niños
 
@@ -179,7 +203,9 @@ I.- A la identidad, tomando como base el conjunto de atributos y derechos de la 
 
 II.- A ser registrados después de su nacimiento, con un nombre y apellidos propios, de conformidad con lo establecido en la legislación civil;
 
-III.- A vivir y crecer en el seno de una familia;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III.- A vivir y crecer en el seno de una familia y a cuidados especiales en los primeros años de su vida;
 
 IV.- A integrarse libremente y sin presión de ninguna autoridad, institución u organización a un hogar provisional y a recibir los beneficios de la adopción, llegado el caso;
 
@@ -187,7 +213,9 @@ V.- A emitir su opinión en todos los asuntos que le afecten y a ser escuchado t
 
 VI.- A recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones; y,
 
-VII.- A recibir el apoyo de los órganos locales de gobierno, en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia Michoacana, Supremo Tribunal de Justicia en el Estado, de las Subprocuradurias Competentes y de la Comisión Estatal de Derechos Humanos del Estado de Michoacán.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VII.- A recibir el apoyo de los órganos de gobierno, en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como enunciativamente los son: el Gabinete de Desarrollo Social, Sistema para el Desarrollo Integral de la Familia Michoacana, Supremo Tribunal de Justicia en el Estado, la Procuraduría General de Justicia del Estado y la Comisión Estatal de Derechos Humanos.
 
 C) A la salud y alimentación:
 
@@ -263,9 +291,11 @@ La Secretaria de Salud y demás autoridades competentes, en coordinación con el
 
 El jefe del Ejecutivo Estatal, a través de la Secretaria de Salud y el Sistema para el Desarrollo Integral de la Familia Michoacana, en coordinación con las demás instancias locales y federales establecerá las normas y los mecanismos necesarios a fin de que, cuando una niña o niño se vea separado de su familia de origen, se procure su reencuentro con ellas, o bien, para la localización de sus familiares en los casos de abandono, sustracción o retención ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 14.
 
-Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaria de Salud, el Sistema para el Desarrollo Integral de la Familia Michoacana y la Coordinación de Gestión Social, quienes deberán brindarle asistencia social, atención integral y en su caso, procurarles un hogar provisional.
+Cuando una niña o niño se vea privado de su familia, tendrá derecho a recibir el apoyo de la Secretaría de Salud, de la Secretaria de Desarrollo Social y del Sistema para el Desarrollo Integral de la Familia Michoacana, quienes deberán brindarle asistencia social, atención integral y en su caso, procurarle un hogar provisional.
 
 ###### Artículo 15.
 
@@ -315,7 +345,9 @@ XI.- Las demás que le confieren otros ordenamientos jurídicos.
 
 Corresponde a la Procuraduría de la Defensa del Menor y la Familia, dependiente del Sistema de Desarrollo Integral de la Familia Michoacana, en relación con las niñas y los niños:
 
-I.- Formular, fomentar, coordinar, instrumentar y difundir, salvo de que en forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de defensa y representación jurídica, provisión, prevención, protección y participación para e! mejoramiento general de sus condiciones de vida, en el Estado de Michoacán, promoviendo la equidad y la igualdad de oportunidades, tendientes a disminuir la exclusión social;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+I.- Formular, fomentar, coordinar, instrumentar y difundir, en coordinación con el Subcomité de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado, los programas y acciones de defensa y representación jurídica, provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida, en el Estado de Michoacán, promoviendo la debida observancia de los derechos y principios previstos en esta Ley y demás disposiciones legales aplicables;
 
 II.- Gestionar, coordinar y evaluar la cooperación técnica internacional en la Entidad;
 
@@ -329,7 +361,9 @@ VI.- Detectar las necesidades de definir los objetivos de las políticas sociale
 
 VII.- Establecer acciones y líneas estratégicas de gestión social en su beneficio;
 
-VIII.- Establecer, fomentar, coordinar y ejecutar programas dirigidos al fortalecimiento de la familia en la Entidad, en coordinación con el Sistema para el Desarrollo Integral de la Familia Michoacana;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VIII.- Establecer, fomentar, coordinar y ejecutar programas dirigidos al fortalecimiento de la familia en la Entidad, en coordinación con el Sistema para el Desarrollo Integral de la Familia Michoacana, el Subcomité de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado, las organizaciones y la sociedad;
 
 IX.- Promover los servicios integrales en los diferentes Centros de Asistencia;
 
@@ -341,9 +375,11 @@ XII.- Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales p
 
 XIII.- Las demás que confieran otros, ordenamientos jurídicos.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 19.
 
-Las (sic) Coordinación de Gestión Social y el Sistema para el Desarrollo Integral de la Familia Michoacana, se coordinarán a fin de que promuevan y vigilen el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban la alimentación de calidad, necesaria para su desarrollo integral.
+La Secretaría de Desarrollo Social y el Sistema para el Desarrollo Integral de la Familia Michoacana, se coordinarán a fin de que promuevan y vigilen el cumplimiento del derecho a la alimentación de las niñas y niños, estableciendo las medidas y mecanismos necesarios para coadyuvar a que reciban alimentación de calidad, necesaria para su desarrollo integral.
 
 ### Capítulo III. De la Secretaría de Salud
 
@@ -353,7 +389,9 @@ Corresponde a la Secretaria de Salud del Estado en relación con las niñas y ni
 
 I.- Realizar las acciones necesarias de prevención y provisión para garantizar la salud;
 
-II.- Concertar convenios con instituciones públicas y privadas, federales o estatales, para la prestación de servicios gratuitos a niñas y niños en condiciones de desventaja social, maltratos, victimas de delitos, con discapacidad, con enfermedades terminales o niñas embarazadas, en cuanto a hospitalización, tratamiento y rehabilitación;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+II.- Coordinarse con la Secretaría de Desarrollo Social para la concertación de convenios con instituciones públicas y privadas, federales o estatales, para la prestación de servicios gratuitos a niñas y niños en condiciones de desventaja social, maltratos, víctimas de delitos, con discapacidad, con enfermedades terminales o niñas embarazadas, en cuanto a hospitalización, tratamiento y rehabilitación;
 
 III.- Garantizar que su hospitalización se haga con respeto a sus derechos;
 
@@ -389,9 +427,11 @@ III.- Asegurar que todos los sectores de la sociedad, y en particular los padres
 
 IV.- Desarrollar campañas en materia de educación sexual, encaminadas a la prevención de embarazos no deseados y enfermedades de transmisión sexual.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 22.
 
-La Secretaria de Salud del Estado, promoverá la celebración de convenios con instituciones públicas y privadas federales o estatales para la prestación de servicios gratuitos a niñas y niños maltratados, víctimas de delitos, con discapacidad, con enfermedades terminales o niñas y adolescentes embarazadas, en cuanto a la hospitalización, tratamiento y rehabilitación.
+Las facultades previstas para la Secretaría de Salud y la Secretaría de Desarrollo Social, se entienden sin perjuicio de la intervención que en ellas puede tener el Subcomité de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado.
 
 ### Capítulo IV. Del Sistema para el Desarrollo Integral de la Familia Michoacana
 
@@ -447,7 +487,9 @@ Corresponde a los Presidentes Municipales a través del Sistema para el Desarrol
 
 I.- Participar en la elaboración y ejecución de los programas dirigidos a solucionar la problemática que les afecte, en su respectiva demarcación territorial;
 
-II.- Impulsar dentro de su demarcación las actividades de defensa y representación jurídica, protección provisional, prevención, participación y atención en su Coordinación con las dependencias del ramo; y,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ll.- Impulsar dentro de su demarcación las actividades de defensa y representación jurídica, protección provisional, prevención, participación y atención en coordinación con el Sistema para el Desarrollo Integral de la Familia, el Subcomité de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado, las dependencias que lo integran o cualquier otra que coadyuve a tales fines; y,
 
 III.- Promover la concertación entre los sectores público, privado y social para mejorar su calidad de vida en la demarcación territorial.
 
@@ -543,17 +585,21 @@ III.- Fomentar el otorgamiento de becas en las instituciones particulares a fin 
 
 IV.- Impulsar programas de fomento educativo con los padres, educandos y maestros.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 35.
 
-La Coordinación de Gestión Social, en coadyuvancia con la Secretaría de Educación en el Estado propiciarán, fomentarán y promoverán propuestas y programas para incluir a las niñas y niños excluidos de la educación básica obligatoria.
+La Secretaría de Desarrollo Social en coordinación con la Secretaría de Educación, fomentará y promoverá propuestas y programas para incluir en la educación básica obligatoria, a las niñas y niños excluidos.
 
 ###### Artículo 36.
 
 La Secretaría de Educación en el Estado en coordinación con dependencias, organismos y otras entidades competentes establecerán programas alternativos de atención y educación extraescolar a través de actividades recreativas, culturales y científicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 37.
 
-El Instituto Michoacano de Cultura, en coordinación con dependencias, organismos y otras entidades competentes fomentará:
+La Secretaria de Cultura, en coordinación con dependencias, organismos y otras entidades competentes fomentará:
 
 I.- El acceso a los espacios culturales del estado, favoreciendo la expresión conocimiento de sus valores, historia y tradiciones;
 
@@ -643,9 +689,11 @@ Aun y cuando la niña o niño se encuentren bajo la custodia de su padre, o madr
 
 #### Sección Tercera. De las Niñas y Niños en Situación de Calle
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 49.
 
-El Sistema para el Desarrollo Integral de la Familia Michoacana y los Sistemas Municipales, tendrán la obligación de establecer, un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las mediadas de defensa jurídica de provisión, prevención, protección y asistencia.
+La Secretaría de Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia Michoacana y los Sistemas Municipales, tendrán la obligación de establecer un programa específico y prioritario para brindar a las niñas y niños en situación de calle, las medidas de defensa jurídica, de provisión, prevención, protección y asistencia.
 
 ###### Artículo 50.
 
@@ -705,7 +753,7 @@ I.- Establecer una coordinación interinstitucional, entre las Instituciones pú
 
 II.- Intercambiar experiencias sobre los modelos de atención que aplica cada institución, así como sus avances y dificultades que se presenten en el desarrollo de los mismos, para procurar la optimización de los recursos disponibles y la calidad de los mismos;
 
-III.- Garantizar un sistema de canalización y seguimiento a los casos de niñas y niños sujetos a tutela dativa definitiva y de las demás figuras que prevé el Código Civil del Estado, para que estos sean enviados a las instituciones que ofrezcan servicios adecuados a sus circunstancias y necesidades; y, (sic)
+III.- Garantizar un sistema de canalización y seguimiento a los casos de niñas y niños sujetos a tutela dativa definitiva y de las demás figuras que prevé el Código Civil del Estado, para que estos sean enviados a las instituciones que ofrezcan servicios adecuados a sus circunstancias y necesidades; y,
 
 ###### Artículo 58.
 
@@ -756,3 +804,11 @@ DIPUTADA PRESIDENTA.- MARÍA ORTEGA RAMÍREZ.- DIPUTADO SECRETARIO.- ALFREDO ROS
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 7 siete días del mes de enero del año 2002 dos mil dos.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
