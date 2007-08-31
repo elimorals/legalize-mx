@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-07-06"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1499,11 +1499,9 @@ III.- Que la privación se prolongue por más de setenta y dos horas;
 
 IV.- Que el autor sea, o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
-
 ###### Artículo 163.
 
-Atenuación de la punibilidad.- Si el agente espontáneamente pone en libertad a la víctima dentro de las treinta y seis horas siguientes a la privación, la pena prevista en los dos artículos anteriores se disminuirá hasta la mitad.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
 ### CAPITULO I. VIOLACION
 
@@ -1571,11 +1569,9 @@ I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo d
 
 II.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2004)</small>
-
 ###### Artículo 166.
 
-Atenuación de la punibilidad por arrepentimiento pos-factum.- Si el agente delictivo espontáneamente pone en libertad al secuestrado dentro de las treinta y seis horas siguientes a la comisión del delito, la pena será de cinco a diez años de prisión, y multa de cien a doscientos días, siempre y cuando el sujeto se entregue voluntariamente a la autoridad competente y no haya logrado los propósitos a que se refiere el artículo 164.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
 ###### Artículo 167.
 
@@ -2381,7 +2377,9 @@ Daño culposo.- También es punible el daño culposo, pero solo se perseguirá a
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO II. ASOCIACION DELICTUOSA
+### CAPITULO II. ASOCIACION DELICTUOSA Y PANDILLERISMO
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 232.
 
@@ -2591,21 +2589,37 @@ II.- Al que sin un fin lícito o sin el permiso correspondiente, hiciere acopio 
 
 En todos los casos incluidos en este artículo, además de las sanciones señaladas, se decomisarán las armas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ### CAPITULO IV. LENOCINIO Y TRATA DE PERSONAS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### Artículo 247.
 
-Tipo y punibilidad.- Se impondrá prisión de seis meses a seis años y hasta doscientos días multa al que de manera permanente tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el sólo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido.
+Tipo y punibilidad.- Se impondrá prisión de dos a ocho años y hasta quinientos días multa al que de manera permanente tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 248.
 
-Agravante por pandillerismo.- Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que intervengan en su comisión, además de las sanciones que les correspondan por él o los delitos cometidos, la de dos a seis años de prisión. Se entiende por pandilla, para los efectos de esta disposición, la reunión ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+Tipo y punibilidad.- Se impondrá prisión de tres meses a dos años, a los integrantes de una pandilla que:
 
-Si en la comisión de uno o más delitos en los términos del párrafo anterior intervienen menores como integrantes de la pandilla, esta circunstancia no relevará de responsabilidad a los mayores de edad y se aplicará el aumento de la sanción a que este artículo se refiere.
+I.- Ejerzan violencia física o moral sobre alguna persona o personas; y
+
+II.- Participen en riñas con otras pandillas o personas.
+
+La imposición de las penas por la comisión de este delito será sin perjuicio de las que correspondan por la comisión de otros.
+
+La violencia moral prevista en la fracción I de este artículo, será perseguible por querella de la parte ofendida.
+
+Se entiende por pandilla, la reunión ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+Artículo 248 BIS.- Agravante por Pandillerismo.- Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que intervengan en su comisión, además de las sanciones que les correspondan por él o los delitos cometidos, la de dos a ocho años de prisión; esta agravante no se aplicará para las conductas tipificadas en el artículo 248.
+
+Si en la comisión de uno o más delitos en los términos del párrafo anterior intervienen personas menores de dieciocho años de edad como integrantes de la pandilla, esta circunstancia no relevará de responsabilidad a los mayores de edad y se aplicará el aumento de la sanción a que este artículo se refiere, además de las sanciones que correspondan por la comisión de otros delitos.
 
 ### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL Y TECNICA
 
@@ -3015,9 +3029,7 @@ Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta c
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
 
-###### Artículo 307
-
-QUATER.- Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de las leyes de la materia.
+Artículo 307 QUATER (SIC).- Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de las leyes de la materia.
 
 Asimismo incurre en responsabilidad penal y le aplicarán las mismas penas señaladas en el presente artículo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto por las leyes de la materia, a sabiendas de esta circunstancia.
 
@@ -3647,7 +3659,7 @@ I.- Funcionarios Electorales. Quienes en los términos de la Legislación Estata
 
 II.- Funcionarios Partidistas. Los dirigentes de los partidos políticos y de las agrupaciones políticas, y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorguen representación para actuar en el proceso electoral ante los órganos electorales en los términos de la Legislación Estatal Electoral;
 
-III.- Documentos Públicos Electorales. Las actas oficiales de instalación de casillas; de escrutinio y cómputo de las mesas directivas de casilla; de los cómputos distritales y municipales, y en general los documentos expedidos en el ejercicio de sus atribuciones por los órganos del Instituto Estatal Electoral.
+III.- Documentos Públicos Electorales. Las actas oficiales de instalación de casillas; de escrutinio y cómputo de las mesas directivas de casilla; de los cómputos distritales y municipales, y en general los documentos expedidos en el ejercicio de sus atribuciones por los órganos del Instituto Estatal Electoral;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
 
@@ -3685,11 +3697,11 @@ III.- Vote con una credencial de la que no sea titular;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-IV.- Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral;
+IV. Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-V.- El día de la elección organice la reunión o traslado de votantes con el objeto de influir en el sentido de su voto;
+V. El día de la elección organice la reunión o traslado de votantes con el objeto de influir en el sentido de su voto;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
@@ -3703,7 +3715,7 @@ IX.- Viole el secreto del voto obligando a los electores el día de la jornada e
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
-X.- Obstaculice, interfiera o impida dolosamente que una casilla electoral se instale o clausure conforme a la ley;
+X. Obstaculice, interfiera o impida dolosamente que una casilla electoral se instale o clausure conforme a la ley;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
 
@@ -3721,7 +3733,7 @@ XIV.- Viole sellos colocados en los documentos públicos electorales o en los lu
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
 
-XV.- Durante las campañas electorales, se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda política impresa de partidos políticos, coaliciones o candidatos, colocadas en los lugares autorizados por las disposiciones legales o por los acuerdos tomados por las autoridades electorales competentes.
+XV. Durante las campañas electorales, se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda política impresa de partidos políticos, coaliciones o candidatos, colocadas en los lugares autorizados por las disposiciones legales o por los acuerdos tomados por las autoridades electorales competentes.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
 
@@ -4280,3 +4292,15 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reform
 P.O. 6 DE JULIO DE 2007.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+DECRETO No. 347
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+DECRETO No. 361
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
