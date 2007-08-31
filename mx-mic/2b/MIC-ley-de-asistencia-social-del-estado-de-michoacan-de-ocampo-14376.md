@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "1987-11-19"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -39,25 +39,45 @@ LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social y sus disposiciones regirán el Sistema Estatal de Asistencia Social.
+La presente Leyes de orden público e interés social, y tiene por objeto definir, regular y fijar las bases y procedimientos de la asistencia social, promover el desarrollo integral de la familia, apoyar la formación, subsistencia, y desarrollo de las personas que carezcan de integración familiar o de familia, así como organizar y dotar de competencia al Sistema para el Desarrollo Integral de la Familia estableciendo las bases concurrentes con el Ejecutivo del Estado, el Sistema Estatal de Desarrollo Social y los sectores privado y social.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 2o.
 
-Esta ley tiene por objeto fijar las bases y procedimientos para el establecimiento del servicio estatal de asistencia social, promover el desarrollo integral de la familia y apoyar la formación, subsistencia y desarrollo de las personas que carezcan de integración familiar o de familia.
+Para los efectos de esta Ley se entiende por:
+
+I. Consejo Consultivo: Consejo Consultivo de Desarrollo Social al que se refiere la Ley de Desarrollo Social para el Estado de Michoacán;
+
+II. Subcomité: Subcomité de Desarrollo Social del Comité de Planeación para el Desarrollo del Estado;
+
+III. Organismo: Sistema para el Desarrollo Integral de la Familia;
+
+IV. Secretaría: Secretaría de Desarrollo Social en el Estado; y,
+
+V. Sistema: Sistema Estatal de Desarrollo Social al que se refiere la Ley de Desarrollo Social para el Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 3o.
 
-Corresponde al Estado proporcionar servicios asistenciales encaminados al desarrollo integral de la familia, así como apoyar en su formación y subsistencia a los individuos carentes de familiares esenciales.
+Corresponde al Estado en el marco de la corresponsabilidad con los sectores privado y social y bajo los principios de la política de desarrollo social a que se refiere la Ley de la materia, proporcionar los servicios de asistencia social, así como apoyar en su formación y subsistencia a los individuos carentes de familiares esenciales.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley, se entiende por Asistencia Social, el conjunto de acciones tendientes a modificar las circunstancias de carácter social que impidan al individuo su desarrollo integral o mejorar las que tenga favorables, así como las destinadas a la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, tendientes a lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta Ley, se entienden como servicios de asistencia social el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los individuos, familias o grupos de población en situación de riesgo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 5o.
 
-Son destinatarios de los servicios de asistencia social, preferentemente, los siguientes:
+Son participantes y sujetos de atención de los servicios de asistencia social, preferentemente los siguientes:
 
 I. Menores en estado de abandono, desamparo, desnutrición, o sujetos a maltrato;
 
@@ -125,13 +145,15 @@ El Sistema para el Desarrollo Integral de la Familia Michoacana, Organismo Públ
 
 ###### ARTICULO 8o.
 
-Cuando en este ordenamiento se haga mención al Organismo se entenderá hecha al Sistema para el Desarrollo Integral de la Familia Michoacana.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
 ###### ARTICULO 9o.
 
 El Organismo para el logro de sus objetivos tendrá las siguientes funciones:
 
-I. Promover y prestar servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional para el Desarrollo Integral de la Familia, así como el propio Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+I. Promover y prestar servicios de asistencia social, con apoyo en las normas que dicte la Secretaría de Salud y el Sistema Nacional para el Desarrollo Integral de la Familia, así como el Ejecutivo (sic) a través de la Secretaría de Desarrollo Social. Las facultades de las dependencias y entidades mencionadas, se entienden sin perjuicio de las atribuciones del Sistema;
 
 II. Apoyar el desarrollo de la familia y de la comunidad;
 
@@ -163,9 +185,11 @@ XV. Participar en programas de rehabilitación y educación especial; y
 
 XVI. Las demás que establezcan las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 10.
 
-Las funciones del Organismo son de orden público y por lo tanto, habrá de coordinar acciones con dependencias federales, estatales y municipales, y con instituciones privadas.
+Las funciones del Organismo son de orden público y por lo tanto, habrá de coordinar acciones con dependencias y entidades federales, el Sistema Estatal de Desarrollo Social y los gobiernos municipales, así como con instituciones privadas y sociales.
 
 ###### ARTICULO 11.
 
@@ -365,31 +389,39 @@ En todo caso, se considerarán empleados de confianza los titulares de la Presid
 
 ### CAPITULO III. DE LA COORDINACION Y CONCERTACION
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 26.
 
-Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales en situación de riesgo, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Único de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 27.
 
-Con el objeto de ampliar la cobertura y la calidad de los servicios de salud en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado a través del Organismo, promoverá la celebración de convenios entre éste y los gobiernos municipales, a fin de:
+Con el objeto de ampliar la cobertura y la calidad de los servicios de salud en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado a través de la Secretaría de Salud en su conjunto o del Organismo, promoverán la celebración de convenios con los gobiernos municipales, a fin de:
 
 I. Establecer programas conjuntos;
 
-II. Promover la conjugación de los dos niveles de gobierno en la aportación de recursos financieros;
+II. Promover la conjugación de los tres niveles de gobierno en la aprobación de recursos financieros;
 
 III. Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
 
-IV. Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y
+IV. Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la asistencia privada, estatal y municipal; y,
 
-V. Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
+V. Fortalecer el patrimonio de los sistemas Municipales para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 28.
 
-El Gobierno del Estado a través del Organismo, promoverá ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.
+El Organismo y los integrantes competentes del Sistema, promoverán ante los gobiernos municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática entre los distintos órdenes de gobierno a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales en situación de riesgo y coordinar su oportuna atención.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 29.
 
-El Organismo celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley. La concertación en todo caso deberá ajustarse a las siguientes bases:
+El Ejecutivo del Estado, a través del Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado, con objeto de coordinar su participación en la realización de programas de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley, la Ley de DesarrolIo (sic) para el Estado de Michoacán y demás relativas. La concertación en todo caso deberá ajustarse a las siguientes bases:
 
 I. Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
@@ -399,25 +431,33 @@ III. Fijación del objeto, materia y alcances jurídicos de los compromisos que 
 
 IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 30.
 
-El Gobierno del Estado, con el objeto de ampliar la cobertura de los servicios de salud de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la entidad, a través del Organismo, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que la rijan.
+El Gobierno del Estado, con el objeto de ampliar la cobertura de los servicios de salud y de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la Entidad, a través del Organismo, de la Secretaria y del Subcomité, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles, privadas y otras similares, las que con recursos del sector público o con recursos propios que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que la rijan.
 
 El Gobierno del Estado, a través del Organismo, aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El Organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+Asimismo, el Organismo certificará y reconocerá la calidad en los servicios de asistencia y desarrollo social que realicen las organizaciones previstas en la Ley de Desarrollo Social para el Estado de Michoacán.
 
 ###### ARTICULO 31.
 
 A propuesta del Organismo, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 32.
 
-El Gobierno del Estado, a través del Organismo y mediante la inducción, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
+El Gobierno del Estado, a través del Organismo o el Consejo Consultivo por cuenta propia, promoverán la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social. Dichas acciones se llevarán a cabo bajo los principios de equidad, solidaridad e integralidad, tomando especial atención en las comunidades afectadas por la marginación.
 
-El Gobierno del Estado y el Organismo pondrán especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física o mentalmente.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 33.
 
-El Organismo promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
+El Ejecutivo Estatal a través de la Secretaria o el Organismo, promoverán la organización y participación de la comunidad para que con base en los principios a que se refiere esta Ley, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
 
 ###### ARTICULO 34.
 
@@ -470,3 +510,9 @@ P.O. 19 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
