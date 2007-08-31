@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-06-01"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1719,7 +1719,9 @@ V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de co
 
 VI.- Padecer sífilis, tuberculosis o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
 
-VII.- Padecer enajenación mental incurable;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VII.- Padecer enajenación mental incurable; declarada judicialmente;
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -1743,11 +1745,11 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que s
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
-XVII.- La separación de los cónyuges por más de dos años, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+XVII.- La separación de los cónyuges por más de dos años, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-XVIII.- Las conductas de violencia familiar, generadas por un cónyuge contra los hijos de ambos o de alguno de ellos, entendiéndose por éstas, el uso de la fuerza física o moral así como las omisiones graves que de manera reiterada se ejerzan contra los mismos y que atenten contra su integridad física, psíquica o ambas independientemente de que pueda producir o no lesión, y
+XVIII.- Las conductas de violencia familiar, generadas por un cónyuge contra el otro, contra los hijos de ambos o de alguno de ellos, entendiéndose por éstas, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene efecto para causar daño, así como las omisiones graves que de manera reiterada se ejerzan contra los mismos y que atenten contra su integridad física, psicológica, sexual y económica independientemente de que pueda producir o no lesión, y;
 
 > <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2713,7 +2715,7 @@ Los hijos menores de dieciocho años de edad, no emancipados, están bajo la pat
 
 ###### ARTICULO 410.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a las personas menores de dieciocho años de edad infractores.
+La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuánto a la guarda y educación de las personas menores de dieciocho años de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con Leyes y Reglamentos relativos a las personas menores de dieciocho años de edad infractores.
 
 ###### ARTICULO 411.
 
@@ -15852,3 +15854,7 @@ P.O. 1 DE JUNIO DE 2007.
 DECRETO N° 340
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
