@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-tris-de-numeros-de-pronosticos-para-31950
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2006-09-08"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31950&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -35,9 +35,11 @@ REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
 El presente reglamento tiene por objeto regular el sorteo Tris de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 2o.
 
-El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cuatro dígitos formando un número determinado del 0000 al 9999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
+El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cinco dígitos formando un número determinado del 00000 al 99999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -55,7 +57,9 @@ Para los efectos de este reglamento, se entenderá por:
 
 3.- Sorteo.- El proceso que tiene lugar desde la captación oficial de participaciones, hasta la selección de ganadores; en el cual, los poseedores o titulares de un boleto mediante la selección previa de una combinación de números, obtienen el derecho a participar en un procedimiento estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar una combinación de números, que genera uno o varios ganadores de un premio.
 
-4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+4.- Volante.- El documento que contiene los espacios para poder anotar y/o seleccionar en ellos los números con que se desee participar en el sorteo.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -89,37 +93,37 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 
 11.- Ceremonia.- Acto oficial de selección al azar de la combinación ganadora.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 4o.
 
-El sorteo Tris de números tendrá catorce modalidades que Pronósticos podrá ofrecer al público separadamente y con la oportunidad que considere conveniente: directa; candado de seis; candado de tres; par inicial; inicial; par final; final; supercandado de seis; supercandado de tres; Tris de cuatro; supercandado de veinticuatro; supercandado de doce; supercandado de seis y supercandado de cuatro.
+El sorteo Tris de números tendrá trece modalidades que Pronósticos podrá ofrecer al público separadamente y con la oportunidad que considere conveniente: Directa de 5, Directa de 4, Directa de 3, Supercandado de 24, Supercandado de 12, Supercandado de 6, Supercandado de 4, Súper de 6, Súper de 3, Par Final, Par Inicial, Final, Inicial.
 
-a) La modalidad directa consiste en seleccionar un número de tres dígitos que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+I. En la modalidad Directa de 5, el participante gana si acierta a los cinco dígitos del número ganador del sorteo en el orden exacto.
 
-b) La modalidad candado de seis consiste en seleccionar un número de tres dígitos diferentes que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+II. En la modalidad Directa de 4, el participante gana si acierta a los cuatro últimos dígitos del número ganador del sorteo en el orden exacto.
 
-c) La modalidad candado de tres consiste en seleccionar un número de tres dígitos con uno de ellos repetido, que será ganador si cualquiera de sus tres permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+III. En la modalidad Directa de 3, el participante gana si acierta a los tres últimos dígitos del número ganador del sorteo en el orden exacto.
 
-d) La modalidad par inicial consiste en seleccionar un número de dos dígitos, el de las centenas y el de las decenas, que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el de las centenas y el de las decenas del número que salga en el sorteo.
+IV. En la modalidad Supercandado de 24, el participante adquiere las veinticuatro permutaciones (Directas de 4) que es posible construir con cuatro dígitos distintos entre si. El participante gana si y sólo si una de las 24 directas de cuatro que adquirió corresponde a los cuatro últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será doble al de la modalidad Supercandado de 12.
 
-e) La modalidad inicial consiste en seleccionar un número de un dígito, el de las centenas, que será ganador si coincide precisamente con el dígito de las centenas del número que salga en el sorteo.
+V. En la modalidad Supercandado de 12, el participante adquiere las doce permutaciones (Directas de 4) de cuatro dígitos que es posible construir con cuatro dígitos cuando dos de ellos son idénticos entre si. El participante gana si y sólo si una de las 12 directas de cuatro que adquirió corresponde a los cuatro últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será doble al de la modalidad Supercandado de 6.
 
-f) La modalidad par final consiste en seleccionar un número de dos dígitos, el de las decenas y de las unidades, que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el de las decenas y el de las unidades del número que salga en el sorteo.
+VI. En la modalidad Supercandado de 6, el participante adquiere las seis permutaciones de cuatro dígitos que es posible construir con cuatro dígitos cuando dos de ellos son idénticos entre si por pares. El participante gana si y sólo si una de las seis directas de cuatro que adquirió corresponde a los cuatro últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será seis veces superior al precio unitario de la modalidad Directa de 4.
 
-g) La modalidad final consiste en seleccionar un número de un dígito, el de las unidades, que será ganador si coincide precisamente con el dígito de las unidades del número que salga en el sorteo.
+VII. En la modalidad Supercandado de 4, el participante adquiere las cuatro permutaciones de cuatro dígitos que es posible construir con cuatro dígitos cuando tres de ellos son idénticos entre si y uno es distinto. El participante gana si y sólo si una de las cuatro directas de cuatro que adquirió corresponde a los cuatro últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será cuatro veces superior al precio unitario de la modalidad Directa de 4.
 
-h) La modalidad supercandado de seis consiste en seleccionar un número de tres dígitos diferentes, que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será seis veces superior al de la modalidad candado de seis.
+VIII. En la modalidad Súper de 6, el participante adquiere las seis permutaciones que es posible construir con tres dígitos distintos entre si. El participante gana si y sólo si una de las seis directas de tres que adquirió corresponde a los tres últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será doble al de la modalidad Súper de 3.
 
-i) La modalidad supercandado de tres consiste en seleccionar un número de tres dígitos uno de ellos repetido, que será ganador si cualquiera de sus tres permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será tres veces superior al de la modalidad candado de tres.
+IX. En la modalidad Súper de 3, el participante adquiere las tres permutaciones que es posible construir con tres dígitos cuando dos de ellos son iguales entre si. El participante gana si y sólo si una de las tres directas de tres que adquirió corresponde a los tres últimos dígitos del número ganador del sorteo en el orden exacto. Su precio será tres veces superior al precio unitario de la modalidad Directa de 3.
 
-j) La modalidad tris de cuatro consiste en seleccionar un número de cuatro dígitos que será ganador si coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo.
+X. En la modalidad Par Final, el participante gana si acierta a los dos últimos dígitos, del número ganador del sorteo, en el orden exacto, es decir, a los correspondientes a la posición de las decenas y al de las unidades.
 
-k) La modalidad supercandado de veinticuatro consiste en seleccionar un número de cuatro dígitos diferentes, que será ganador si cualquiera de sus veinticuatro permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será veinticuatro veces superior al de la modalidad tris de cuatro.
+XI. En la modalidad Par Inicial, el participante gana si acierta a los dos primeros dígitos del número ganador del sorteo, en el orden exacto, es decir, los correspondientes a las posiciones de las decenas de millar y a unidades de millar.
 
-l) La modalidad supercandado de doce consiste en seleccionar un número de cuatro dígitos, uno de ellos repetido, que será ganador si cualquiera de sus doce permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será doce veces superior al de la modalidad tris de cuatro.
+XII. En la modalidad Final, el participante gana si acierta al último dígito del número ganador del sorteo, es decir, al correspondiente a las unidades.
 
-m) La modalidad supercandado de seis consiste en seleccionar un número de cuatro dígitos, dos de ellos repetidos, que será ganador si cualquiera de sus seis permutaciones posibles coincide precisamente, dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será seis veces superior al de la modalidad tris de cuatro.
-
-n) La modalidad supercandado de cuatro consiste en seleccionar un número de cuatro dígitos, uno de ellos repetido tres veces, que será ganador si cualquiera de sus cuatro permutaciones posibles coincide precisamente dígito por dígito y en el mismo orden, con el número que salga en el sorteo. Su precio será cuatro veces superior al de la modalidad tris de cuatro.
+XIII. En la modalidad Inicial, el participante gana si acierta al primer dígito del número ganador del sorteo, es decir, al correspondiente a las decenas de millar.
 
 ###### Artículo 5o.
 
@@ -197,31 +201,43 @@ El agente autorizado remitirá a las oficinas generales de Pronósticos, por los
 
 Podrán tenerse sorteos diarios y se celebrarán en las fechas previstas en la oferta que Pronósticos haga al público.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 16o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 18o. de este Reglamento;
+
+2. La grabación en video de dicho sorteo que conservará Pronósticos;
+
+3. Los emitidos por la Terminal;
+
+4. Los mencionados en la línea telefónica del conmutador de Pronósticos, y
+
+5. Los publicados en la página Web de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 17o.
 
 El día y hora fijados para la ceremonia, en presencia del Inspector designado por la Secretaría de Gobernación, se procederá conforme a lo siguiente:
 
-I. Se introducirán en una urna 10 (diez) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 0 (cero) al 9 (nueve), inclusive.
+I. Se introducirán en cinco urnas diferentes; la primera para las unidades, la segunda para las decenas, la tercera para las centenas, la cuarta para las unidades de millar y la quinta para las decenas de millar, 10 (diez) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 0 (cero) al 9 (nueve), inclusive.
 
-II. Ante la presencia del representante del Director General, designado en los términos del artículo 18o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+II. Ante la presencia del representante del Director General, designado en los términos del Artículo 18o. de este Reglamento, de un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
-III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Coordinación de Tecnologías de la Información y Comunicaciones entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Órgano Interno de Control.
 
-IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer al azar de la urna de las unidades, una de las esferas cuyo número será el dígito ganador para las unidades, de la urna de las decenas, una esfera cuyo número será el dígito ganador para las decenas, de la urna de las centenas, una esfera cuyo número será el dígito ganador para las centenas, y de la urna de las unidades de millar, una esfera cuyo número será el dígito ganador para las unidades de millar. De esta manera, los dígitos de las esferas extraídas al azar y en su orden de salida formarán el número ganador.
+IV. En presencia de los mismos funcionarios señalados en la fracción II del presente Artículo, se llevará a cabo la ceremonia, procediendo a extraer al azar de la urna de las unidades, una de las esferas cuyo número será el dígito ganador para las unidades, de la urna de las decenas, una esfera cuyo número será el dígito ganador para las decenas, de la urna de las centenas, una esfera cuyo número será el dígito ganador para las centenas, de la urna de las unidades de millar, una esfera cuyo número será el dígito ganador para las unidades de millar y de la urna de las decenas de millar, una esfera cuyo número será el dígito ganador para las decenas de millar. De esta manera, los dígitos de las esferas extraídas al azar y en el orden indicado formarán el número ganador.
 
-V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III del presente artículo.
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea, al cual, conforme a lo previsto en la fracción II de este Artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Coordinación de Tecnologías de la Información y Comunicaciones en la caja de seguridad a que se refiere la fracción III del presente Artículo.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -239,33 +255,37 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 ### Capítulo IV. De los premios
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 19o.
 
-Se instituyen los siguientes premios para cada una de las modalidades a que se refiere el artículo 4o.
+Se instituyen los siguientes premios para cada una de las modalidades a que se refiere el Artículo 4o.
 
-a) La modalidad directa de tres (Tris de tres) tendrá un premio de 537.6344 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+I. La modalidad Directa de 5, tendrá un premio de 53,763.4408 veces su precio unitario, para cada número de cinco dígitos ganador del sorteo, en el orden exacto.
 
-b) La modalidad candado de seis tendrá un premio de 86.0215 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+II. En la modalidad Directa de 4, tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador del sorteo, en el orden exacto.
 
-c) La modalidad candado de tres tendrá un premio de 172.0430 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+III. En la modalidad Supercandado de 24, tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador del sorteo, en el orden exacto.
 
-d) Las modalidades par inicial y par final tendrán un premio de 53.7634 veces su precio unitario, para cada número de dos dígitos ganador en el sorteo.
+IV. En la modalidad Supercandado de 12, tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador del sorteo, en el orden exacto.
 
-e) Las modalidades inicial y final tendrán un premio de 5.3763 veces su precio unitario, para cada número de un dígito ganador en el sorteo.
+V. En la modalidad Supercandado de 6, tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador del sorteo, en el orden exacto.
 
-f) La modalidad supercandado de seis tendrá un premio de 89.6057 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+VI. En la modalidad Supercandado de 4, tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador del sorteo, en el orden exacto.
 
-g) La modalidad supercandado de tres tendrá un premio de 179.2114 veces su precio unitario, para cada número de tres dígitos ganador en el sorteo.
+VII. En la modalidad Directa de 3 tendrá un premio de 537.6344 veces su precio unitario, para cada número de tres dígitos ganador del sorteo, en el orden exacto.
 
-h) La modalidad directa de cuatro (Tris de cuatro) tendrá un premio de 5,376.3440 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+VIII. En la modalidad Súper de 6, tendrá un premio de 537.6344 veces su precio unitario, para cada número de tres dígitos ganador del sorteo, en el orden exacto.
 
-i) La modalidad supercandado de veinticuatro tendrá un premio de 224.0143 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+IX. En la modalidad Súper de 3, tendrá un premio de 537.6344 veces su precio unitario, para cada número de tres dígitos ganador del sorteo, en el orden exacto.
 
-j) La modalidad supercandado de doce tendrá un premio de 448.0286 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+X. En la modalidad Par Final tendrá un premio de 53.7634 veces su precio unitario, para cada número de dos dígitos ganador del sorteo, en el orden exacto.
 
-k) La modalidad supercandado de seis tendrá un premio de 896.0573 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+XI. En la modalidad Par Inicial, tendrá un premio de 53.7634 veces su precio unitario, para cada número de dos dígitos ganador del sorteo, en el orden exacto.
 
-l) La modalidad supercandado de cuatro tendrá un premio de 1,344.0860 veces su precio unitario, para cada número de cuatro dígitos ganador en el sorteo.
+XII. En la modalidad Final, tendrá un premio de 5.3763 veces su precio unitario, para el último dígito del número ganador del sorteo, en el orden exacto.
+
+XIII. En la modalidad Inicial, tendrá un premio de 5.3763 veces su precio unitario, para el primer dígito del número ganador del sorteo, en el orden exacto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -287,11 +307,11 @@ De la cantidad restante, así como de las demás que se determinen al efecto de 
 
 Dentro de los cinco días hábiles siguientes a la publicación a que se refiere el artículo 16o. de este reglamento, el participante que tenga interés legítimo deberá impugnar los resultados del sorteo mediante la presentación de escrito de inconformidad ante Pronósticos, en el que deberá exponer las razones de la impugnación y acompañar el documento que funde su reclamación.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 22o.
 
-La Comisión Dictaminadora de Reclamaciones integrada por los funcionarios de Pronósticos designados por su Director General y por el Inspector de la Secretaría de Gobernación, estudiará y resolverá las inconformidades. El Director General de Pronósticos proveerá el cumplimiento de la resolución que se dicte.
+La Comisión Dictaminadora de Reclamaciones integrada por los funcionarios de Pronósticos designados por su Director General, estudiará y resolverá las inconformidades. El Director General de Pronósticos proveerá el cumplimiento de la resolución que se dicte.
 
 La Comisión Dictaminadora de Reclamaciones deberá reunirse en la fecha, lugar y hora que señale su Presidente y aceptará o desechará las reclamaciones o inconformidades que se presenten, notificando dicha resolución al reclamante dentro de los treinta días hábiles posteriores.
 
@@ -303,9 +323,11 @@ Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisi�
 
 Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 24o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el Reglamento publicado en el Diario Oficial de la Federación del 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos el Reglamento de Agentes vigente.
 
 ### Capítulo VI. Del pago de premios
 
@@ -396,3 +418,11 @@ Segundo.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Tercero.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Cuarto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
+
+D.O.F. 31 DE AGOSTO DE 2007.
+
+Primero.- El presente acuerdo entra en vigor el día que se publique en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
