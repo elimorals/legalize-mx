@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2006-09-09"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -4749,6 +4749,82 @@ OCTAVO. Disposiciones presupuestales
 
 En los presupuestos de Egresos para los años fiscales del 2007 y siguientes, deberán aprobarse los recursos financieros para la implementación de las disposiciones de este Código.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+NOVENO. Denominaciones.
+
+Para los efectos del régimen de transición, se entenderá por Código de Procedimientos Penales, el aprobado el veintidós de octubre de mil novecientos setenta y nueve, promulgado el tres de diciembre del mismo año y publicado el nueve de agosto de mil novecientos ochenta; y por Código Procesal Penal el aprobado el seis de septiembre de dos mil seis, promulgado y publicado el nueve de septiembre del mismo año en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO. Vigencia.
+
+El Código de Procedimientos Penales se seguirá aplicando en el Estado hasta la conclusión del último proceso que se haya iniciado bajo su vigencia.
+
+Todos los hechos ocurridos en cualquier región del Estado, antes de la implementación de la reforma procesal penal, serán juzgados conforme al Código de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO PRIMERO. Reglas de prescripción.
+
+Las reglas de prescripción previstas por el Código Procesal Penal, serán aplicables a los procesos iniciados bajo su vigencia y las previstas en el Código Penal del Estado Libre y Soberano de Oaxaca, lo serán para aquellos procesos cuyos hechos ocurrieron bajo la vigencia del Código de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO SEGUNDO. Delitos permanentes y continuados.
+
+El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que se iniciaron bajo la vigencia del Código de Procedimientos Penales y que continúen desarrollándose en un territorio donde se encuentre vigente el Código Procesal Penal, será el regulado por el primero de los ordenamientos citados en este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO TERCERO. Prohibición de acumulación de procesos.
+
+No procederá la acumulación de procesos, cuando alguno de los hechos objeto de tales procesos esté sometido al Código Procesal Penal y otro al Código de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO CUARTO. Eficacia retroactiva.
+
+En el curso del procedimiento penal regido por el Código de Procedimientos Penales, podrán aplicarse, las disposiciones del Código Procesal Penal que se refieran a:
+
+I. En averiguación previa, la facultad para abstenerse de investigar, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal;
+
+II. En las demás etapas del procedimiento penal:
+
+a).- Conciliación;
+
+b).- Suspensión del proceso a prueba; y
+
+c).- Procedimiento abreviado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO QUINTO. Competencias.
+
+Las facultades que el Código Procesal Penal le concede al Juez de Garantía o de Control de Legalidad, para los efectos de este régimen de transición, serán ejercidas por el Juez Penal o Juez de Primera Instancia que corresponda y las demás al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO SEXTO. Oportunidad.
+
+Para los efectos de esta Ley, la conciliación podrá celebrarse hasta antes de la celebración de la audiencia final a que se refiere el artículo 459 del Código de Procedimientos Penales.
+
+La suspensión del proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 225 del Código de Procedimientos Penales.
+
+Sin tomar en cuenta las sanciones a que se refiere el artículo 469 del Código de Procedimientos Penales, el procedimiento abreviado se tramitará conforme a lo dispuesto en el mismo precepto, siguiendo las normas del Código Procesal, y podrá solicitarse hasta tres meses después de dictarse el auto de formal prisión o de sujeción a proceso. Los hechos que el imputado deberá reconocer, son aquellos por los que se haya dictado el auto de formal prisión o de sujeción a proceso.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO SEPTIMO.
+
+Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud. En su caso, el Juez de Garantía o de Control de Legalidad actuará como Juez Penal con las potestades señaladas en el Código de Procedimientos Penales; o bien, en su caso, el Juez Penal asumirá las funciones del Juez de Garantía o de Control de Legalidad con las potestades y procedimientos previstos en el Código Procesal Penal.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+DECIMO OCTAVO. Jueces de Ejecución.
+
+Las facultades concedidas por el Código Procesal Penal a los Jueces de Ejecución, se entenderán otorgadas a los Jueces de Primera Instancia que hayan tramitado el proceso conforme al Código de Procedimientos Penales.
+
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
 DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Felipe del Agua, Municipio de Oaxaca de Juárez, Centro, Oax., 06 de septiembre de 2006.
@@ -4794,3 +4870,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día nueve de septiembre del año 2007. Publíquese previamente en el Periódico Oficial del Gobierno del Estado.
