@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-2006-del-pleno-de-la-suprema-52043"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52043&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-10-10"
 
 ACUERDO GENERAL NUMERO 16/2006, DE NUEVE DE OCTUBRE DE DOS MIL SEIS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN ARTICULOS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO REGULATORIOS DEL ACREDITAMIENTO RESPECTIVO, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 17/2007 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 31 DE AGOSTO DE 2007, SE DETERMINA EL LEVANTAMIENTO DE APLAZAMIENTO Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN ARTICULOS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, REFORMADOS POR DECRETOS PUBLICADOS EN EL D.O.F. DE 1 DE DICIEMBRE DE 2004 Y 7 DE JUNIO DE 2005, QUE REGULAN EL SISTEMA DE ACREDITAMIENTO DEL IMPUESTO AL VALOR AGREGADO Y OTROS TEMAS RELACIONADOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de octubre de 2006.
 
@@ -76,3 +78,13 @@ El Presidente en funciones de la Suprema Corte de Justicia de la Nación, Minist
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en su Sesión Privada celebrada ayer, por unanimidad de nueve votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente en funciones Díaz Romero, emitió el Acuerdo General número 16/2006, RELATIVO AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN ARTICULOS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO REGULATORIOS DEL ACREDITAMIENTO RESPECTIVO, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, que antecede. México, Distrito Federal, a diez de octubre de dos mil seis.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de nueve fojas útiles, concuerda fiel y exactamente con su original constante en el Acuerdo Número 16/2006, y se certifica para dar cumplimiento a lo dispuesto en el Punto Segundo Transitorio.- México, Distrito Federal, a diez de octubre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 31 DE AGOSTO DE 2007.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
