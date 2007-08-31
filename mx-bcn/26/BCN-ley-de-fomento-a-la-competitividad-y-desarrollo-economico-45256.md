@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2005-06-10"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -299,15 +299,25 @@ I. Generación de Empleos
 
 Esquema 1. Número de empleos directos a generar, a partir de la implementación del Proyecto de Inversión:
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 a) De 1 a 10 empleos 1 punto
 
-b) De 11 a 50 empleos 2 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-c) De 51 a 250 empleos 3 puntos
+b) De 11 a 50 empleos 3 puntos
 
-d) De 251 a 500 empleos 4 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-e) Más de 500 empleos 5 puntos
+c) De 51 a 250 empleos 6 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+d) De 251 a 500 empleos 9 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+e) Más de 500 empleos 12 puntos
 
 Esquema 2. Número de empleos indirectos a generar por Empresas nuevas que se establezcan en el Estado, como consecuencia directa del Proyecto de Inversión:
 
@@ -341,39 +351,57 @@ II. Nivel Salarial de los Nuevos Empleos
 
 Esquema 1. De 11 a 50 empleos directos a generar con un sueldo promedio diario de:
 
-a) Entre 3 y 5 SMG 1 punto
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-b) Entre 6 y 7 SMG 2 puntos
+a) Entre 3 y 5 SMG 2 punto
 
-c) Entre 8 y 10 SMG 3 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-d) Entre 11 y 15 SMG 4 puntos
+b) Entre 6 y 8 SMG 3 puntos
 
-e) Más de 15 SMG 5 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+c) Entre 9 y 11 SMG 4 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+d) Más de 11 SMG 5 puntos
 
 Esquema 2. De 51 a 250 empleos directos a generar con un sueldo promedio diario de:
 
-a) Entre 3 y 5 SMG 2 puntos
-
-b) Entre 6 y 7 SMG 4 puntos
-
-c) Entre 8 y 10 SMG 6 puntos
-
-d) Entre 11 y 15 SMG 8 puntos
-
-e) Más de 15 SMG 10 puntos
-
-Esquema 3. Más de 250 empleos directos a generar con un sueldo promedio diario de:
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 a) Entre 3 y 5 SMG 3 puntos
 
-b) Entre 6 y 7 SMG 6 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-c) Entre 8 y 10 SMG 9 puntos
+b) Entre 6 y 8 SMG 6 puntos
 
-d) Entre 11 y 15 SMG 12 puntos
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-e) Más de 15 SMG 15 puntos
+c) Entre 9 y 11 SMG 8 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+d) Más de 11 SMG 10 puntos
+
+Esquema 3. Más de 250 empleos directos a generar con un sueldo promedio diario de:
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+a) Entre 3 y 5 SMG 6 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+b) Entre 6 y 8 SMG 9 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+c) Entre 9 y 11 SMG 12 puntos
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+d) Más de 11 SMG 15 puntos
 
 III. Monto y Origen de la Inversión
 
@@ -818,3 +846,23 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el ejercicio fiscal del año 2007, se aplicará el porcentaje de 80% (ochenta por ciento), para la exención del impuesto sobre remuneraciones al trabajo personal, que prevé el artículo 181 que se adiciona a la Ley de Hacienda del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+Se condona a los contribuyentes a que se refiere el artículo 181 que se adiciona a la Ley de Hacienda del Estado de Baja California, del pago del impuesto sobre remuneraciones al trabajo personal causado desde el primero de enero de 2007 hasta la entrada en vigor de este Decreto, en el porcentaje previsto en el artículo que antecede.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el artículo segundo transitorio del Decreto número 185, publicado en el Periódico Oficial del Estado, el día 24 de febrero de 2006.
