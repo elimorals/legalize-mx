@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-expropiacion-del-estado-de-michoacan-de-ocampo-6407"
 country: "mx"
 rank: "ley"
 publication_date: "1964-04-02"
-last_updated: "1964-04-02"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 2 de abril de 1964.
 
@@ -276,3 +278,19 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 15 de marzo del Año Legislati
 Por tanto mando se imprima, publique, circule y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 30 de marzo de 1964.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Lic. Agustín Arriaga Rivera.- EL PRIMER SECRETARIO GENERAL DE GOBIERNO, Lic. Rafael García de León.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Expropiación del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado el 2 de abril de 1964.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de expropiación que no se encuentren concluidos a la fecha de entrada en vigor de la presente Ley, seguirán substanciándose en los términos de la Ley abrogada.
