@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-12628"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-08-31"
-last_updated: "1998-08-31"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -45,9 +45,11 @@ LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
 ### CAPITULO I. ATRIBUCIONES
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-La Procuraduría General de Justicia, es la dependencia del Poder Ejecutivo del Estado, en la que se integran la Institución del Ministerio Público y sus órganos auxiliares directos para el despacho de los asuntos que le atribuyen los artículos 95, 97, 98, 99 y 100 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la Constitución Política de los Estados Unidos Mexicanos, el presente Ordenamiento y las demás disposiciones legales aplicables.
+###### Artículo 1°.
+
+La Procuraduría General de Justicia del Estado, es la dependencia del Poder Ejecutivo del Estado, en la que se integran la Institución del Ministerio Público y sus órganos auxiliares directos para el despacho de los asuntos que le atribuye la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre Soberano de Michoacán de Ocampo, la presente Ley y las demás disposiciones aplicables.
 
 ###### Artículo 2º.
 
@@ -79,9 +81,11 @@ III.- Promover la pronta, expedita y debida procuración e impartición de justi
 
 IV.- Las demás que las disposiciones legales le señalen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 7º.
 
-En la investigación y persecución de los delitos, al Ministerio Público corresponde:
+En la investigación y persecución de los delitos le corresponde al Ministerio Público el ejercicio de las atribuciones siguientes:
 
 I.- Durante la averiguación previa:
 
@@ -121,7 +125,9 @@ c) Poner a disposición del juez, ante quien se ejercite la acción penal, los i
 
 d) Pedir embargo precautorio para garantizar la reparación del daño, cuando proceda;
 
-e) Ejecutar, por conducto de la Policía Ministerial, las órdenes de aprehensión o de comparecencia y poner a los detenidos a disposición del juez; y,
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+e) Ejecutar, por conducto de la Policía Ministerial Investigadora las órdenes de aprehensión, reaprehensión o de comparecencia y poner a los detenidos a disposición del Juez; y,
 
 f) Las demás que las disposiciones legales le señalen; y,
 
@@ -139,6 +145,10 @@ e) Promover en segunda instancia las impugnaciones que la ley prevea, ofrecer la
 
 f) Realizar las demás atribuciones que las leyes le señalen.
 
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IV. Proporcionar durante todas las etapas auxilio y orientación legal a las víctimas y ofendidos, en los términos de la Ley de la materia.
+
 ###### Artículo 8°.
 
 La vigilancia de la legalidad y de la pronta y expedita procuración e impartición de justicia, comprende:
@@ -147,7 +157,9 @@ I.- Velar por la vigencia plena de la Constitución Política de los Estados Uni
 
 II.- Proponer al Gobernador del Estado proyectos de ley, reglamentos, decretos y demás actos legislativos para la observancia de la Constitución de los Estados Unidos Mexicanos y de la particular del Estado;
 
-III.- Proponer las medidas necesarias para el mejoramiento de la procuración e impartición de justicia en la Entidad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III. Implementar las medidas necesarias para el mejoramiento de la procuración e impartición de justicia en la Entidad y el desarrollo de estudios en materia de criminología;
 
 IV.- Hacer del conocimiento del Gobernador del Estado y del Supremo Tribunal de Justicia del la Entidad, los abusos e irregularidades que adviertan en los juzgados o tribunales, que afecten la pronta, expedita y debida impartición de justicia;
 
@@ -167,23 +179,29 @@ En el ejercicio de las atribuciones a que se refieren los artículos anteriores,
 
 ### CAPITULO II. BASES DE ORGANIZACION
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 11.
 
-La Procuraduría contará con subprocuradurías de justicia, direcciones técnicas y administrativas y demás personal que sea necesario para el ejercicio de sus funciones. Estas dependencias tendrán la denominación, estructura y funciones específicas que determine el Reglamento de esta Ley.
+La Procuraduría contará con subprocuradurías de justicia, fiscalías especiales, direcciones, unidades técnicas y administrativas y demás personal que sea necesario para el ejercicio de sus atribuciones. Las unidades administrativas mencionadas en el presente artículo, tendrán la denominación, estructura y facultades específicas que determine el Reglamento de esta Ley.
 
 ###### Artículo 12.
 
 Los subprocuradores auxiliarán al Procurador en las funciones que la presente Ley le encomiende.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 13.
 
-Los subprocuradores, el Visitador General, los visitadores dependientes de éste, directores de averiguaciones previas, de control de procesos, jurídico y los jefes de agentes del Ministerio Público, tendrán la calidad de agentes del Ministerio Público.
+Los subprocuradores, los fiscales especiales, el Visitador General, los visitadores dependientes de éste, los directores de averiguaciones previas, de control de procesos, el Director Jurídico Consultivo y los jefes de agentes del Ministerio Público, tendrán la calidad de agentes del Ministerio Público.
 
 ###### Artículo 14.
 
 Son auxiliares del Ministerio Público, obligados a cumplir con sus órdenes:
 
-I.- La Policía Ministerial;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+l. La Policía Ministerial Investigadora;
 
 II.- Los peritos de la Institución;
 
@@ -191,21 +209,29 @@ III.- El Director de Seguridad Pública y Tránsito del Estado y los elementos a
 
 IV.- Los síndicos, jefes de tenencia y encargados del orden en los municipios de la Entidad; y,
 
-V.- La Policía Municipal.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+V. Las policías Estatal Preventiva y Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 15.
 
-El Procurador General de Justicia será nombrado y removido libremente por el Gobernador del Estado, de quien dependerá directamente.
+El Procurador General de Justicia será nombrado por el Gobernador del Estado, con ratificación del Congreso y dependerá directamente del Gobernador. Los requisitos para ser Procurador General de Justicia, serán los previstos en la Constitución Política del Estado.
 
-Para ser Procurador General, se requiere reunir los requisitos que señala la Constitución Política del Estado.
+Durante el tiempo de su encargo, sólo podrá ser removido por el Gobernador o a solicitud del Congreso del Estado.
+
+El Procurador rendirá informe anual por escrito al Congreso del Estado respecto de las acciones y resultados de la institución a su cargo, a más tardar en la segunda quincena de agosto.
 
 ###### Artículo 16.
 
 Los subprocuradores serán designados y removidos por el Gobernador, a propuesta del Procurador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 17.
 
-En la designación del personal del Ministerio Público, Policía Ministerial y de Servicios Periciales, se atenderá a lo establecido en esta Ley y a lo que dispongan los acuerdos administrativos, con apego a las disposiciones siguientes:
+En la designación del personal del Ministerio Público, Policía Ministerial Investigadora y de Servicios Periciales, se atenderá a lo establecido en la presente Ley y a lo que disponga la normativa aplicable, con apego a las disposiciones siguientes:
 
 I.- Para ser agente del Ministerio Público se requiere:
 
@@ -213,19 +239,25 @@ a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civil
 
 b) Tener título de Licenciado en Derecho y un año de ejercicio profesional;
 
-c) Acreditar que ha observado buena conducta y no haber sido sentenciado ejecutoriamente como responsable de delitos intencionales o dolosos; y,
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+c) Acreditar que ha observado buena conducta y no haber sido sentenciado ejecutoriamente como responsable de delitos dolosos; y,
 
 d) Contar con Cartilla del Servicio Militar Nacional liberada.
 
 El Procurador podrá designar agentes especiales para que intervengan, con la misma representación social, en asuntos en los que, a juicio de aquél, sea útil esta intervención. La designación recaerá en juristas que cuenten con prestigio personal y profesional;
 
-II.- Para ser agente de la Policía Ministerial, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar el día de su designación como mínimo con 21 años de edad, y como máximo con 38, gozar de buena salud y aprobar los exámenes respectivos; y,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+II.- Para ingresar como Agente de la Policía Ministerial Investigadora, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar al día de su designación como mínimo con veintiún años de edad y como máximo treinta y cinco años de edad, gozar de buena salud y aprobar los exámenes respectivos; y,
 
 III.- Para ser perito oficial, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar con título legalmente expedido y registrado ante autoridad competente, en la materia de que se trate, o en su defecto, acreditar tener los conocimientos idóneos sobre la disciplina en que deba dictaminar. Esto último cuando la ley no exija título para su ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 18.
 
-Para ingresar al servicio de la Procuraduría como agente del Ministerio Público, de la Policía Ministerial o perito, los interesados deberán participar en los concursos de oposición a que se convoque. Excepcionalmente cuando se trate de personas de reconocido prestigio y experiencia profesional, por acuerdo del Procurador, podrá dispensarse el cumplimiento del requisito anterior.
+Para ingresar al servicio de la Procuraduría como Agente del Ministerio Público, Agente de la Policía Ministerial Investigadora o Perito, los interesados deberán participar en los concursos de oposición a que se convoque, conforme al Reglamento de esta Ley. Excepcionalmente cuando se trate de personas de reconocido prestigio y experiencia profesional, y por acuerdo del Procurador, podrá dispensarse el cumplimiento del requisito.
 
 Quienes ingresen al servicio de la Procuraduría, estarán obligados a participar en los cursos que se organicen, en los que se les capacitará y actualizará en la función de representación social que corresponde a la institución, y sobre las materias especiales que de acuerdo con la función corresponda en cada caso; todo ello, conforme a los programas que al efecto se aprueben, de conformidad con el Reglamento de esta Ley.
 
@@ -233,17 +265,23 @@ Quienes ingresen al servicio de la Procuraduría, estarán obligados a participa
 
 El Procurador expedirá los acuerdos, circulares y manuales de organización y procedimientos, que conduzcan al cumplimiento eficaz de las funciones de la Institución y resolverá, por sí o por delegación, lo relativo al ingreso, promoción, adscripción, renuncias, sanciones y estímulos a los funcionarios y empleados, sin perjuicio del cumplimiento de las normas que regulan las relaciones entre el Estado y sus trabajadores.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 20.
 
-La Policía Ministerial estará bajo la autoridad y mando inmediato del Ministerio Público, y en sus actuaciones se sujetará a las órdenes que éste le diere en el ejercicio de sus funciones. En caso contrario, se procederá como legalmente corresponda.
+La Policía Ministerial Investigadora estará bajo la autoridad y mando inmediato del Ministerio Público, y en el ejercicio de sus funciones se sujetará a las órdenes que éste le diere, conforme a la normativa aplicable. En caso contrario, se procederá como legalmente corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 21.
 
-La Policía Ministerial, en cumplimiento a las órdenes escritas o verbales que le dé el Ministerio Público en ejercicio de sus funciones, deberá proceder a la investigación de los hechos denunciados como delito, así como a las localizaciones y presentaciones, las detenciones en caso de flagrante delito, ejecutará las órdenes de aprehensión, reaprehensión y comparecencia que dicte la autoridad judicial, auxiliará en los cateos y en todas aquellas diligencias en que sea necesaria su participación.
+La Policía Ministerial Investigadora, en cumplimiento a las órdenes escritas o verbales que le dé el Ministerio Público en ejercicio de sus funciones en términos de la normativa aplicable, deberá proceder a la investigación de los hechos denunciados como delito, así como a las localizaciones y presentaciones, las detenciones en caso de flagrante delito, ejecutará las órdenes de aprehensión, reaprehensión y comparecencia que dicte la autoridad judicial, auxiliará en los cateos y en todas aquellas diligencias en que sea necesaria su participación.
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-En su carácter de auxiliar del Ministerio Público, cuando no exista o no se encuentre el síndico municipal, la Policía Ministerial podrá recibir denuncias y querellas por delitos del orden común, sólo cuando por extrema urgencia y ausencia del Ministerio Público no sea posible que el Representante Social la reciba. En este caso quien tome la denuncia, deberá dar cuenta a la brevedad al Ministerio Público, ante el que hará la ratificación respectiva, cuando se trate de querella.
+###### Articulo 22.
+
+En su carácter de auxiliar del Ministerio Público, cuando no exista o no se encuentre el Síndico Municipal, la Policía Ministerial Investigadora podrá recibir denuncias y querellas por delitos del orden común, sólo cuando por extrema urgencia y ausencia del Ministerio Público no sea posible que el Representante Social las reciba. En este caso quien tome la denuncia, deberá dar cuenta a la brevedad al Ministerio Público, ante el que se hará la ratificación respectiva, cuando se trate de querella.
 
 ###### Artículo 23.
 
@@ -313,9 +351,11 @@ Las labores docentes únicamente podrán desempeñarse por el personal de la Ins
 
 El personal técnico de Servicios Periciales no podrán aceptar el cargo de perito en ningún asunto ajeno de la Institución, o en otra instancia, únicamente como tercero en discordia en los casos que determine la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 31.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Ministerial, dará lugar al empleo de medidas de apremio o a la imposición de correcciones y sanciones, según el caso, en los términos que prevengan el Código Penal y el Código de Procedimientos Penales del Estado.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Ministerial Investigadora, dará lugar al empleo de medidas de apremio o a la imposición de correcciones y sanciones, según el caso, en los términos que prevengan el Código Penal y el Código de. Procedimientos Penales del Estado y demás disposiciones aplicables.
 
 ###### Artículo 32.
 
@@ -325,13 +365,323 @@ Se podrá imponer al personal de la Procuraduría, por las faltas en que incurra
 
 Cuando se impute la comisión de un delito a un agente del Ministerio Público, el juez que conozca del asunto pedirá al Procurador que lo ponga a su disposición, sin perjuicio de que se adopten las medidas cautelares que correspondan para evitar que el inculpado se sustraiga a la acción de la justicia. El Procurador se atendrá a lo dispuesto por el órgano jurisdiccional. La detención que se practique en contravención a este precepto, será sancionada en los términos que prevenga el Código Penal.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 34.
 
-El Ministerio Público o la Policía Ministerial sólo expedirán constancias de actuaciones y registros que obren en su poder, cuando exista mandamiento de autoridad competente, que funde y motive su requerimiento, o cuando resulte indispensable la expedición de dichas constancias para el ejercicio de derechos o el cumplimiento de obligaciones previstas por la ley.
+El Ministerio Público o la Policía Ministerial Investigadora sólo expedirán constancias de actuaciones y registros que obren en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento, o cuando resulte indispensable la expedición de dichas constancias para el ejercicio de derechos o el cumplimiento de obligaciones previstas por las disposiciones aplicables.
 
 ###### Artículo 35.
 
 El Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, ampliará en lo conducente las disposiciones de esta ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
+
+### CAPITULO IV. DEL FONDO AUXILIAR PARA LA PROCURACION DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 36.
+
+Con la finalidad de apoyar a la Procuraduría General de Justicia del Estado, en la modernización y mejoramiento del ejercicio de sus atribuciones, se establece el Fondo Auxiliar para la Procuración de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 37.
+
+El Fondo Auxiliar para la Procuración de Justicia del Estado, se integra con:
+
+l. Fondos constituidos por:
+
+a) El monto de las cauciones otorgadas para garantizar la libertad provisional ministerial bajo caución, que se hagan efectivas en los casos y plazos señalados en el Código de Procedimientos Penales del Estado de Michoacán;
+
+b) Las multas que por cualquier causa impongan los agentes del Ministerio Público, conforme a lo que establece el Código de Procedimientos Penales del Estado de Michoacán;
+
+c) Los intereses que generen las inversiones de los depósitos en dinero o en valores en las instituciones de crédito que autorice el Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia del Estado;
+
+d) Los objetos o instrumentos materia del delito, cuando no se reclamen en la forma y términos previstos en los Códigos Penal y de Procedimientos Penales del Estado de Michoacán;
+
+e) Los muebles y valores depositados en las agencias del Ministerio Público, que no fueren reclamados por el depositario o por quien tenga derecho o interés jurídico, dentro de los términos legales y computados éstos a partir de la fecha en la que se pudo solicitar la devolución o entrega, teniéndose como fecha la de la notificación respectiva;
+
+f) El monto de la reparación del daño cuando la parte ofendida no lo reclame o renuncie al mismo, en los términos del Código Penal del Estado de Michoacán;
+
+g) Otros ingresos que con motivo de la administración de los bienes asegurados o resguardados se generen;
+
+II. Fondos ajenos constituidos por depósitos en efectivo, hipoteca o prenda que por cualquier causa se realicen o se hayan realizado ante las agencias del Ministerio Público o instituciones de crédito; y,
+
+III. El monto de donaciones y aportaciones que realice cualquier persona física o moral, instituciones públicas o privadas, nacionales e internacionales.
+
+Las cantidades que se reciban en el renglón de fondos ajenos, serán reintegradas a los depositantes o beneficiarios, según proceda, mediante orden por escrito del titular de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, en un término no mayor a cinco días hábiles a partir de la solicitud.
+
+Transcurrido el plazo legal establecido en el inciso a) de la fracción I del presente artículo sin reclamación de parte legitima, los objetos, instrumentos, muebles, inmuebles o valores respectivos, pasarán a formar parte del Fondo Auxiliar para la Procuración de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 38.
+
+Los recursos del Fondo Auxiliar para la Procuración de Justicia del Estado, se destinarán:
+
+I. A la capacitación y profesionalización del personal de la General de Justicia el Estado;
+
+II. A la adquisición de equipo y material necesario;
+
+III. A la adquisición de inmuebles;
+
+IV. En programas de atención a víctimas del delito; y,
+
+V. En otros rubros relacionados con la Procuración de Justicia.
+
+Todos estos siempre y cuando no se encuentren considerados en el Presupuesto de Egresos anual.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 39.
+
+La Administración del Fondo Auxiliar para la Procuración de Justicia del Estado, se llevará a cabo por un Consejo Técnico que se integrará por:
+
+l. El Procurador General de Justicia, que será el Presidente;
+
+II. Un representante de la Tesorería General del Estado;
+
+III. El titular de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, que será el Secretario Técnico; y,
+
+IV. El Contralor Interno de la Procuraduría General de Justicia del Estado, que tendrá a su cargo de la vigilancia del fondo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 40.
+
+Al Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia, le corresponde el ejercicio de las atribuciones siguientes:
+
+I. Administrar los recursos económicos que constituyen el Fondo Auxiliar para la Procuración de Justicia;
+
+II. Disponer de los bienes asegurados, decomisados o donados, en venta o subasta pública, conforme lo establece el Código Penal del Estado de Michoacán, para cumplir con los fines del Fondo Auxiliar para la Procuración de Justicia;
+
+III. Celebrar los actos jurídicos necesarios para realizar los fines del Fondo Auxiliar para la Procuración de Justicia; y,
+
+IV. Ordenar la práctica de las auditorias necesarias, para vigilar que el Fondo Auxiliar para la Procuración de Justicia, se ejecute de manera adecuada, honesta y transparente, a través de la Secretaría de la Contraloría y Desarrollo Administrativo o la Auditoría Superior de Michoacán.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 41.
+
+Al Presidente del Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia, le corresponde el ejercicio de las atribuciones siguientes:
+
+l. Representar al Fondo Auxiliar para la Procuración de Justicia y al Consejo Técnico;
+
+II. Convocar y presidir las reuniones del Consejo Técnico;
+
+III. Coordinar, organizar y vigilar el adecuado funcionamiento del Consejo Técnico y del Fondo Auxiliar para la Procuración de Justicia;
+
+IV. Proponer al Consejo Técnico el Presupuesto de Egresos del Fondo Auxiliar para la Procuración de Justicia, a efecto de ejercer los recursos financieros obtenidos, en términos del artículo 38 de la presente Ley; y,
+
+V. Previa autorización del Consejo Técnico, suscribir los acuerdos, convenios y contratos necesarios para cumplir los fines del Fondo Auxiliar para la Procuración de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 42.
+
+Al Secretario del Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia compete:
+
+I. Recibir y registrar los ingresos del Fondo Auxiliar para la Procuración de Justicia;
+
+II. Invertir en la forma que determine el Consejo Técnico, los ingresos del Fondo Auxiliar para la Procuración de Justicia, dentro de los cinco días hábiles siguientes a la recepción de las sumas que se le remitan;
+
+III. Realizar los registros de los egresos del Fondo Auxiliar para la Procuración de Justicia con autorización del Consejo Técnico;
+
+IV. Rendir al Consejo Técnico mensualmente un informe sobre el estado financiero de los ingresos y egresos del Fondo Auxiliar para la Procuración de Justicia;
+
+V. Llevar el libro de las reuniones del Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia;
+
+VI. Elaborar la documentación relativa a las actividades del Fondo Auxiliar para la Procuración de Justicia;
+
+VIl. Recabar de las unidades administrativas de la Procuraduría General de Justicia del Estado, las necesidades de recursos materiales, y elaborar la propuesta correspondiente del Presupuesto de Egresos del Fondo Auxiliar para la Procuración de Justicia, en términos del artículo 38 de la presente Ley;
+
+VIII. Elaborar el informe anual de Ingresos y Presupuesto de egresos del Fondo Auxiliar para la Procuración de Justicia y someterlo a la consideración del Consejo Técnico para su análisis y aprobación, en el mes de diciembre de cada año;
+
+IX. Depositar en la cuenta bancaria correspondiente, las cantidades en efectivo que se hayan asegurado como producto del delito por personal de la Procuraduría General de Justicia del Estado;
+
+X. Vigilar que exista liquidez en la cuenta bancaria de la Procuraduría General de Justicia del Estado, para efectuar la devolución de los depósitos y para poner a disposición de la autoridad judicial las cauciones; y,
+
+XI. Realizar las devoluciones a las personas que lo soliciten y que tengan derecho a ello, mediante la exhibición de la ficha de depósito y el oficio que ordene la entrega al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 43.
+
+Las funciones que realicen los miembros del Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia, son honoríficas, por lo que no se otorgará remuneración alguna por la prestación de sus servicios.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 44.
+
+La Administración del Fondo Auxiliar para la Procuración de Justicia se sujetará a las siguientes bases:
+
+l. Se podrán invertir las cantidades que integran el Fondo Auxiliar para la Procuración de Justicia, en adquisición de títulos o bonos en renta fija o al día;
+
+II. Los egresos del Fondo Auxiliar para la Procuración de Justicia, se sujetarán al presupuesto de egresos, que en diciembre de cada año anterior se formulará por su Consejo Técnico y que empezará a correr el primero de enero siguiente; y,
+
+III. Anualmente se realizará una auditoría para verificar el manejo del Fondo Auxiliar para la Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 45.
+
+Las fianzas en dinero, hipoteca o prenda recibidos por las Agencias del Ministerio Público se documentarán mediante las fichas de depósito por recibos de caja y deberán remitirse a la mayor brevedad al Fondo Auxiliar para la Procuración de Justicia, acompañados de una copia del recibo mencionado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 46.
+
+Las entregas o reintegros de depósito al beneficiario o depositante se documentarán mediante recibos de entrega.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 47.
+
+El Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia, sesionará ordinariamente cada trimestre y de manera extraordinaria cuando se requiera, previa convocatoria.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 48.
+
+Para la debida administración de los recursos del Fondo Auxiliar para la Procuración de Justicia, los agentes del Ministerio Público informarán al Secretario Técnico del Consejo, de los casos en que:
+
+I. Se impongan sanciones económicas como medios de apremio;
+
+II. Se otorgue y se revoque la libertad bajo caución otorgada a indiciados, y por tanto, se haga efectiva la caución;
+
+III. Se decrete el aseguramiento de bienes, instrumentos y objetos producto del delito.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
+
+### CAPITULO V. PROCEDIMIENTO DE ENAJENACION EN SUBASTA PUBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 49.
+
+La Procuraduría General de Justicia del Estado, a través de la Dirección de Servicios Administrativos, con la intervención de un representante de la Secretaría de la Contraloría y Desarrollo Administrativo y uno de la Tesorería General del Estado, llevarán a cabo el procedimiento de enajenación en subasta pública de los objetos o valores que se encuentren a su disposición y que no hayan sido reclamados por quien tenga derecho a ellos, una vez transcurridos ciento ochenta días de haber quedado bajo el resguardo de la misma.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 50.
+
+La Procuraduría General de Justicia del Estado, deberá tener un inventario de todos los objetos o valores que se encuentren a su disposición que no hayan sido reclamados por quien tenga derecho, señalando con precisión la causa o motivo por el cual fueron asegurados o resguardados, tiempo, lugar y características que permitan su identificación.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 51.
+
+La Procuraduría General de Justicia del Estado, antes de iniciar cualquier procedimiento de enajenación, deberá publicar en el Periódico Oficial del Estado y en un diario de mayor circulación en el Estado, un edicto por medio del cual se notifiquen a todas aquellas personas que tuvieran derecho sobre los bienes, valores o vehículos, que vayan a ser subastados, para que en un lapso de noventa días naturales, contados a partir de la publicación, concurran a solicitar su devolución, acreditando su legítima propiedad, con apercibimiento, que trascurrido el plazo, se enajenarán en subasta pública.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 52.
+
+Transcurrido el término y previo avaluó de los bienes, se citará a remate en primera almoneda publicándose mediante edicto por única vez en el Periódico Oficial del Estado y en un diario de amplia circulación en el Estado, cuando menos diez días antes de la fecha del remate, señalando las bases del remate, lugar, fecha, hora y ubicación de exhibición de los bienes a los interesados.
+
+El remate deberá celebrarse en las oficinas de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 53.
+
+La base para el remate de los bienes, será la que resulte de la valuación hecha por peritos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 54.
+
+Será postura legal para los bienes muebles la que cubra el cincuenta por ciento del avalúo y las dos terceras partes en tratándose de inmuebles.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 55.
+
+Para tomar parte en la subasta los licitadores deberán consignar previamente ante el Director de Servicios Administrativos de la Procuraduría General de Justicia del Estado, una cantidad igual al diez por ciento en efectivo del valor de cada uno de los bienes de su interés, que servirá de base para el remate sin cuyo requisito no serán admitidos.
+
+El Director de Servicios Administrativos de la Procuraduría General de Justicia del Estado, devolverá las consignaciones a sus respectivos dueños inmediatamente después de celebrado el remate contra la entrega del recibo correspondiente, excepto la del mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y en su caso, como parte del pago del precio de la venta.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 56.
+
+Las posturas se formularán por escrito ante la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, desde la fecha de publicación de la convocatoria, hasta tres días anteriores al de la celebración del remate, en las que se contenga:
+
+I. Nombre, edad, estado civil y domicilio del postor;
+
+II. La cantidad que ofrezca por el bien o bienes sujetos al remate;
+
+III. El recibo del depósito para tener derecho al remate; y,
+
+IV. La sumisión expresa a la autoridad que lleva a cabo el remate para cumplir las obligaciones derivadas de la almoneda.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 57.
+
+El remate se llevará a cabo bajo las siguientes reglas:
+
+l. El día y hora señalado para el remate, la autoridad pasará lista de los postores presentados, declarará que va a proceder el remate y no admitirá nuevos postores;
+
+II. Procederá enseguida a la revisión de las posturas presentadas, desechando las que no contengan postura legal y las que no estuvieren acompañadas del recibo de depósito;
+
+III. Calificadas de legales las posturas se les dará lectura para que los postores presentes puedan mejorarlas, debiendo proceder en el orden numérico progresivo con el que se haya identificado cada unidad en la convocatoria. Si hay varias posturas iguales la autoridad decidirá el orden para mejorar la oferta;
+
+IV. Hecha la declaración de la postura considerada preferente, se preguntará por orden, si alguno de los licitadores la mejora; en caso de que alguno la mejore dentro de los dos minutos que sigan a la pregunta, se interrogará de nuevo si algún postor puja la mejora y así sucesivamente con respecto a las pujas que se hagan;
+
+V. En cualquier momento en que pasados dos minutos de hecha la pregunta correspondiente, no se mejore la última postura o puja, se declarará fincado el remate a favor del postor que hubiere hecho aquélla; y,
+
+VI. Si dos o más licitantes ofrecen como última postura igual suma de contado, se le asignará al primer oferente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 58.
+
+Una vez fincado el remate se aplicará el depósito constituido y se prevendrá al comprador para que dentro de los tres días siguientes consigne ante la Tesorería General del Estado, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras. Consignado el saldo, la Tesorería General del Estado, remitirá a la brevedad el monto total del remate al Fondo Auxiliar para la Administración de Justicia.
+
+Si no lo consigna en el plazo señalado o por cualquier otro motivo dejara de tener efecto la venta, se procederá a nueva subasta como si no se hubiera celebrado, perdiendo el postor el depósito realizado que se aplicará al Fondo Auxiliar para la Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 59.
+
+Consignado el precio, los bienes rematados se entregarán al comprador dentro de tres días siguientes y la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, otorgará la factura correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 60.
+
+El producto de la venta obtenido del remate, previa deducción de los gastos ocasionados por honorarios de los peritos valuadores, publicación de convocatorias y otros gastos justificados que determine el Procurador General de Justicia con base en las constancias que obren en el expediente relativo, permanecerá en el Fondo Auxiliar para la Procuración de Justicia, a disposición de quien acredite su derecho a recibirlo, por un término de seis meses contados a partir de la fecha de la notificación que se haga en la forma prescrita en el Código Penal del Estado de Michoacán.
+
+Si durante el término aludido acude el interesado y acredita fehacientemente su derecho, la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, entregará al beneficiario la cantidad correspondiente, previa deducción de los costos y gastos generados.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Articulo 61.
+
+Cuando no se hubiere fincado el remate en primera almoneda, se citará a segunda almoneda mediante la publicación por una sola vez en el Periódico Oficial del Estado y un diario de amplia circulación en la Entidad la convocatoria correspondiente, de modo que la subasta tenga lugar después de siete días de hecha la publicación. La base para el remate en segunda almoneda. Se determinará deduciendo un diez por ciento de la señalada para la primera.
+
+Si en la segunda almoneda no se finca el remate por falta de postores, los bienes podrán venderse fuera de subasta pública por la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, con la intervención de la representación correspondiente de la Secretaría de la Contraloría y Desarrollo Administrativo y la Tesorería General del Estado. Para tal efecto, se anunciará la venta mediante invitación que se realice de cuando menos tres posibles postores.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 62.
+
+Si no se presenta comprador en las condiciones del artículo que antecede, la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, podrá hacer la enajenación directa o encomendar a las empresas o instituciones dedicadas a la compraventa o subasta de bienes o valores, para que hagan su mejor oferta, el importe obtenido se depositará en el Fondo Auxiliar para la Procuración de Justicia, previa deducción de los gastos erogados.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 63.
+
+Cuando el propietario de los bienes comparezca ante la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado, un día antes de la celebración del remate, acredite fehacientemente su derecho y cubra los costos y gastos que se hayan generado, se suspenderá el remate respecto al bien o bienes de que se trate y serán entregados a su propietario.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 64.
+
+El Consejo Técnico para el Fondo Auxiliar para la Procuración de Justicia, determinará bajo acuerdo debidamente fundado y motivado, los casos en donde no se tenga que recurrir al procedimiento de subasta pública y se lleve a cabo otro tipo de traslación de dominio.
 
 T R A N S I T O R I O S
 
@@ -356,3 +706,15 @@ DIPUTADO PRESIDENTE.- ALFREDO ESQUIVEL RAMIREZ.- DIPUTADO SECRETARIO.- VICTOR CO
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 27 veintisiete días del mes de agosto de 1998, mil novecientos noventa y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, para adecuarlo al presente Decreto.
