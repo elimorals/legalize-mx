@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "1983-08-08"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -175,9 +175,33 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada máxi
 
 Por cada cinco días de trabajo disfrutará el trabajador de dos días de descanso, con goce de salario íntegro.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 22.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de dos meses después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
+Las mujeres trabajadoras tendrán los siguientes derechos:
+
+l. Durante el período de embarazo, a no realizar trabajos que exijan esfuerzos que signifiquen un peligro para su salud en relación con la gestación;
+
+II. A que no se les exija el examen de no gravidez o esterilización, al solicitar empleo;
+
+III. A que no se les despida del cargo que desempeñen por razones de embarazo;
+
+IV. Disfrutar de 90 días de descanso posteriores al parto con goce de sueldo, adicionales al descanso prenatal;
+
+V. Durante el período de lactancia tendrán dos descansos por día, de media hora cada uno, para amamantar a sus hijos;
+
+VI. Solicitar permisos económicos, cuando requieran atender a sus hijos enfermos; y,
+
+VII. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón de embarazo se le hayan otorgado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 22 BIS. Los hombres trabajadores esposos o concubinos tendrán los siguientes derechos:
+
+I. Disfrutar a partir del nacimiento de sus hijos e hijas, de diez días naturales de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio; y,
+
+II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado.
 
 ###### ARTICULO 23.
 
@@ -894,3 +918,11 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 30 de junio de 1
 DIPUTADA PRESIDENTA.- MARIA HERMINIA YOLANDA MOLINA CORTES.- DIPUTADO SECRETARIO.- LIC. JERJES AGUIRRE AVELLANEDA.- DIPUTADO SECRETARIO.- RAUL TOVAR ORTIZ.- (Firmados).
 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia Michoacán, a los 21 veintiún días del mes de julio de 1983 mil novecientos ochenta y tres.- Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Dr. Roberto Robles Garnica.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
