@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-06-01"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2071,7 +2071,7 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 ### CAPITULO IV. De la recepción y práctica de las pruebas
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(RREFORMADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 295.- El Juez queda facultado al admitir las pruebas ofrecidas para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes la hubieren propuesto con anterioridad.
 
@@ -4091,9 +4091,9 @@ ART. 593.- Traducida la ejecutoria en la forma prevista en el artículo 325, se 
 
 La apelación se substanciará sumariamente.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 594.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
+ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4459,13 +4459,13 @@ Divorcio por mutuo consentimiento
 
 ART. 660.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 269 del Código Civil, deberán ocurrir al Tribunal competente presentando el convenio que se exige en el artículo 270 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos que sean personas menores de dieciocho años de edad.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-ART. 661.- Hecha la solicitud citará el Tribunal a los cónyuges, al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al Sistema para el Desarrollo Integral de la Familia, los puntos del convenio relativos a la situación de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuges deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+ART. 661.- Hecha la solicitud citará el Tribunal a los cónyuges, al Ministerio Público y al Sistema para el Desarrollo Integral de la Familia, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos y no se encuentran en el supuesto del artículo siguiente, en ese mismo acto oirán el convenio en el que quedaren garantizados los derechos de los cónyuges y el Tribunal dictará sentencia a través de la cual quedará disuelto el vínculo matrimonial.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-ART. 662.- Si insistieren los cónyuges en su propósito de divorciarse, citará el Tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
+ART. 662.- Cuando en el matrimonio existan hijos menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal citará a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada, y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos que sean personas menores de dieciocho años de edad o personas que no tengan capacidad para comprender el significado del hecho, el Tribunal oyendo el parecer del representante del Ministerio Público y del Sistema para el Desarrollo Integral de la Familia sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -6752,3 +6752,9 @@ P.O. 4 DE DICIEMBRE DE 2006.
 P.O. 1 DE JUNIO DE 2007.
 
 ÚNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procesos que se hayan iniciado anterior a la vigencia de la presente reforma, seguirán desarrollándose conforme a las normas jurídicas vigentes al momento de la presentación de la demanda de divorcio.
