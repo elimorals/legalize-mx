@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2004-12-31"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -1147,7 +1147,7 @@ Hasta 125 M3 26 días de salario mínimo
 
 Hasta 150 M3 52 días de salario mínimo
 
-Hasta 250M3 94.7 días salario mínimo
+Hasta 250 M3 94.7 días salario mínimo
 
 Hasta 500 M3 231.8 días de salario mínimo
 
@@ -1595,7 +1595,7 @@ d) Alquiler de nichos por diez años 60 salarios mínimos
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-e)Venta de ataúdes:
+e) Venta de ataúdes:
 
 Venta de ataúd metálico. 49.8 salarios mínimos
 
@@ -2441,7 +2441,7 @@ Las multas serán cobradas en los términos de las disposiciones legales que las
 
 ###### Artículo 173.
 
-Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Transito, y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
 (VEASE TABLA ANEXA)
 
@@ -2485,7 +2485,9 @@ Las aportaciones federales para fines específicos que a través de los diferent
 
 Son ingresos extraordinarios los que se originen de los organismos descentralizados, desconcentrados, de participación municipal, así como ingresos derivados de los convenios de colaboración administrativa con Entidades Federales.
 
-## TÍTULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS Y PERSONAS CON DISCAPACIDAD
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE AGOSTO DE 2007)</small>
+
+## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
 
@@ -2531,7 +2533,25 @@ Se establece, en favor de los pensionados y jubilados, una reducción que será 
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en Artículos 183 de esta ley.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. PERSONAS ADULTAS MAYORES
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2007)</small>
+
+Artículo 188 bis. Para los efectos de este Capítulo se consideran personas Adultas Mayores aquéllas personas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur, en términos de lo establecido por la Ley de las Personas Adultas Mayores en el Estado y que acrediten dicha calidad con la documentación oficial correspondiente, estableciéndose en su favor una reducción que será del 50% en el pago de las contribuciones que a continuación se indican:
+
+I. Impuesto Predial, únicamente sobre el inmueble donde viva la persona adulta mayor y que sea de su propiedad.
+
+II. Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que preste en materia de propiedad sobre bienes de la persona adulta mayor.
+
+III. Derechos por servicios del Registro Civil, únicamente en actos relativos a la persona adulta mayor, así como de su cónyuge o sus descendientes menores de edad.
+
+IV. Derechos por Legalización de Firmas, expedición de certificados y copias certificadas, únicamente en actos en los que exista interés directo de la persona adulta mayor.
+
+V. Derechos por servicios de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo, propiedad de la persona adulta mayor.
+
+Asimismo se establece, a favor de las personas adultas mayores, una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado, tratamiento y saneamiento.
+
+Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de las personas adultas mayores, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en el párrafo anterior.
 
 ###### Artículo 186.
 
@@ -2559,9 +2579,13 @@ IV. De un 50% de descuento en derechos por servicios de control vehicular, únic
 
 V. De un 50% de descuento por el servicio de agua potable y alcantarillado, tratamiento y saneamiento para uso doméstico, en el pago de los derechos de las solicitudes de contrato del servicio de agua potable y alcantarillado, así mismo para la solicitud de cambio de propietario, para personas con discapacidad o tutor legal que acrediten los requisitos del programa.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE AGOSTO DE 2007)</small>
+
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ## TÍTULO DÉCIMO. ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 189.
 
@@ -2711,7 +2735,7 @@ B.O. 31 DE DICIEMBRE DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-P.O. 31 DE DICIEMBRE DE 2004.
+B.O. 31 DE DICIEMBRE DE 2004.
 
 ###### ARTICULO PRIMERO
 
@@ -2720,3 +2744,7 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE AGOSTO DE 2007.
+
+ÚNICO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
