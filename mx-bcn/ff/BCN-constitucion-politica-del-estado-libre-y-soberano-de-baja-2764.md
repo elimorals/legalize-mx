@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2007-02-02"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:2 DE FEBRERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1907,6 +1907,10 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2007)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
 La responsabilidad por delitos cometidos durante el tiempo de su encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 94.
@@ -2840,3 +2844,17 @@ A).- DOS CONSEJEROS SERÁN DESIGNADO (SIC) POR UN PERIODO DE SEIS AÑOS;
 B).- UN CONSEJERO SERÁ DESIGNADO POR UN PERIODO DE CUATRO AÑOS, Y
 
 C).- UN CONSEJERO SUPERNUMERARIO CUYA DESIGNACIÓN SERÁ POR UN PERIODO DE CUATRO AÑOS.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobada que sea la presente reforma, deberá enviarse a los Ayuntamientos del Estado de Baja California, en los términos del artículo 112 de la Constitución Política del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
