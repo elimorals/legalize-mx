@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2004-05-20"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -1890,6 +1890,10 @@ DÉCIMO SEGUNDO.- Las dependencias, la Procuraduría General de la República, l
 
 DÉCIMO TERCERO.- Los Poderes Legislativo y Judicial de la Federación, las entidades y las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, contarán con un plazo de ciento veinte días naturales contados a partir de la fecha de publicación de la presente Ley, para promover la inscripción en el Registro Público de la Propiedad Federal de los títulos que acrediten la propiedad de los inmuebles que hayan adquirido y no se encuentren registrados.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+En el caso de aquellos Decretos Presidenciales que asignaron bienes inmuebles a los Poderes Legislativo y sus dos Cámaras, y Judicial de la Federación, se determina que dichos Decretos constituyen, en cada caso, los títulos que acreditan la propiedad de los inmuebles a favor de dichos Poderes, los que contarán con un plazo de ciento veinte días naturales, contados a partir de la fecha de la publicación del presente Decreto, para promover su inscripción en el Registro Público de la Propiedad Federal y su incorporación al Sistema de Información Inmobiliaria Federal y Paraestatal.
+
 DÉCIMO CUARTO.- En tanto se expiden los reglamentos, normas, bases, lineamientos y demás disposiciones derivadas de la presente Ley, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a este ordenamiento, independientemente de que respecto de los inmuebles sujetos al régimen de dominio público de la Federación que formen parte del patrimonio de los organismos descentralizados, sus respectivos órganos de gobierno podrán aprobar en cada caso específico la realización de los actos jurídicos a que se refieren los artículos 65 y 84 de la presente Ley.
 
 DÉCIMO QUINTO.- Las dependencias administradoras de inmuebles deberán establecer un programa para integrar en el registro de la contabilidad gubernamental el valor de los inmuebles de su competencia.
@@ -1899,3 +1903,9 @@ DÉCIMO SEXTO.- Para dar cumplimiento a lo establecido en la fracción IV, del a
 México, D.F., a 23 de marzo de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Rafael Melgoza Radillo, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 2007.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
