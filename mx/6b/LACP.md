@@ -4,7 +4,7 @@ identifier: "LACP"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2007-06-28"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21346&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LACP"
 
 LEY DE AHORRO Y CREDITO POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -100,79 +100,93 @@ Las Entidades tendrán por objeto el ahorro y crédito popular; facilitar a sus 
 
 Se entenderá como ahorro y crédito popular la captación de recursos en los términos de esta Ley provenientes de los Socios o Clientes de las Entidades, mediante actos causantes de pasivo directo o, en su caso contingente, quedando la Entidad obligada a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados, así como la colocación de dichos recursos hecha entre los Socios o Clientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 2005)</small>
-
-Artículo 4 bis.- No se considerará que realizan operaciones de ahorro y crédito popular, en los términos del Artículo 4 de esta Ley, las asociaciones, sociedades civiles y sociedades cooperativas, así como los grupos de personas físicas que tengan por objeto exclusivamente la captación de recursos de sus integrantes para su colocación entre éstos, que cumplan con los siguientes requisitos:
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-I. La colocación y entrega de los recursos captados por las asociaciones y sociedades civiles, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, sociedad civil o grupo de personas físicas;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-II. El número máximo de sus asociados, socios o integrantes será de 250 personas;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-III. Sus activos no podrán ser superiores a 350,000 Unidades de Inversión (UDIS);
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-IV. Se abstendrán de comunicar, informar, anunciar o de cualquier otra forma de naturaleza análoga o similar, dar a conocer a través de cualquier medio de publicidad o medio informativo, sus operaciones;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-V. Deberán registrarse, por conducto de un representante y a cargo del grupo, asociación o sociedad civil que representen, ante la Federación de su elección, a efecto de dar a conocer:
-
-a. El número de sus integrantes;
-
-b. El monto de sus activos, y
-
-c. El lugar o lugares donde se reúnan para llevar a cabo sus operaciones.
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-VI. La información citada deberá actualizarse semestralmente;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-VII. Deberán operar en uno o más municipios de una Entidad Federativa de la República Mexicana, o en dos o más municipios colindantes de hasta tres Entidades Federativas de la República Mexicana, y
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-VIII. Deberán establecer de forma destacada, en toda la documentación que utilicen para instrumentar las operaciones a que se refiere este artículo, que no son Entidades de Ahorro y Crédito Popular, así como que no están sujetas a la autorización de la Comisión, ni a la inspección y vigilancia de ninguna Federación, y que no cuentan con el Fondo de Protección a que se refiere esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2003)</small>
-
-Las asociaciones y sociedades civiles, así como los grupos de personas físicas que cumplan con los requisitos a que se refiere este artículo podrán operar sin sujetarse a los requisitos exigidos por la presente Ley. Asimismo, no se considerará que se ubican en la prohibición establecida en la fracción I del artículo 103 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 4 Bis.
 
-No se considerará que realizan operaciones de ahorro y crédito popular, en los términos del artículo 4o. de esta Ley, las asociaciones y sociedades civiles, así como los grupos de personas físicas que tengan por objeto exclusivamente la captación de recursos de sus integrantes para su colocación entre éstos, que cumplan con los siguientes requisitos:
+No se considerará que realizan operaciones de ahorro y crédito popular, en los términos del artículo 4o. de esta Ley, las asociaciones o sociedades que tengan por objeto exclusivamente la captación de recursos de sus asociados o socios cuando se cumpla con los requisitos siguientes:
 
-I. La colocación y entrega de los recursos captados por las asociaciones y sociedades civiles, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, sociedad civil o grupo de personas físicas;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
-II. El número máximo de sus asociados, socios o integrantes será de 250 personas;
+I. La colocación y entrega de los recursos captados por las asociaciones y sociedades, se lleve a cabo solamente con sus asociados o socios;
 
-III. Sus activos no podrán ser superiores a 350,000 Unidades de Inversión (UDIS);
+II. (DEROGADA, D.O.F. 31 DE AGOSTO DE 2007)
+
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+III. Sus activos no podrán ser superiores a 6'500,000 de Unidades de Inversión (UDIS);
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
 IV. Se abstendrán de comunicar, informar, anunciar o de cualquier otra forma de naturaleza análoga o similar, dar a conocer a través de cualquier medio de publicidad o medio informativo, sus operaciones;
 
-V. Deberán registrarse, por conducto de un representante y a cargo del grupo, asociación o sociedad civil que representen, ante la Federación de su elección, a efecto de dar a conocer:
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
-a. El número de sus integrantes;
+V. Deberán registrarse, por conducto de un representante de la asociación o sociedad, ante una Federación de su elección autorizada por la Comisión, a efecto de dar a conocer:
 
-b. El monto de sus activos, y
+a) (DEROGADO, D.O.F. 31 DE AGOSTO DE 2007)
 
-c. El lugar o lugares donde se reúnan para llevar a cabo sus operaciones.
+b. El monto de sus activos;
+
+c. El lugar o lugares donde se reúnan para llevar a cabo sus operaciones, y
+
+d) El nombre de sus directivos, funcionarios y administradores.
+
+El registro a que se refiere esta fracción no implica relación contractual o de supervisión alguna y será sin costo a cargo de las asociaciones o sociedades referidas. Las Federaciones no podrán cobrar a estas últimas concepto alguno derivado de la aplicación de lo previsto en este precepto.
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
 VI. La información citada deberá actualizarse semestralmente;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
+
 VII. Deberán operar en uno o más municipios de una Entidad Federativa de la República Mexicana, o en dos o más municipios colindantes de hasta tres Entidades Federativas de la República Mexicana, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
 VIII. Deberán establecer de forma destacada, en toda la documentación que utilicen para instrumentar las operaciones a que se refiere este artículo, que no son Entidades de Ahorro y Crédito Popular, así como que no están sujetas a la autorización de la Comisión, ni a la inspección y vigilancia de ninguna Federación, y que no cuentan con el Fondo de Protección a que se refiere esta Ley.
 
-Las asociaciones y sociedades civiles, así como los grupos de personas físicas que cumplan con los requisitos a que se refiere este artículo podrán operar sin sujetarse a los requisitos exigidos por la presente Ley. Asimismo, no se considerará que se ubican en la prohibición establecida en la fracción I del artículo 103 de la Ley de Instituciones de Crédito.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las asociaciones y sociedades que cumplan con los requisitos a que se refiere este artículo podrán operar sin sujetarse a los requisitos exigidos por la presente Ley para las Entidades. Asimismo, se considerará que no se ubican en la prohibición establecida en el artículo 103 de la Ley de Instituciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las asociaciones o sociedades en las que exista coincidencia de una o más personas en las funciones de administración, ya sea como, directivos, funcionarios, empleados, representantes o cualquier otro tipo de función vinculada con los negocios de la asociación o sociedad, serán consideradas como una única asociación o sociedad, para efectos del límite previsto en la fracción III anterior.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 4 Bis 1.
+
+Las asociaciones y sociedades a que se refiere el artículo anterior, exclusivamente podrán captar recursos de sus asociados o socios mediante préstamos que éstos les otorguen.
+
+En virtud de lo anterior, las referidas asociaciones o sociedades no podrán llevar a cabo operaciones reservadas para Entidades en términos de esta Ley, ni para cualquier otra entidad financiera que requiera autorización del Gobierno Federal, ni podrán recibir préstamos o créditos de entidades financieras nacionales o extranjeras, fideicomisos públicos u Organismos de Integración; recibir o emitir órdenes de pago o transferencia de fondos en moneda nacional o extranjera; emitir títulos de crédito, en serie o en masa, así como descontar, dar en garantía o negociar dichos títulos; afectar o enajenar los derechos provenientes de los financiamientos que realicen con sus asociados o socios; realizar operaciones por cuenta de sus asociados o socios, incluyendo la compra y venta de divisas y operaciones de factoraje financiero; expedir y operar tarjetas de débito, recargables o de crédito, y realizar inversiones en el capital social de entidades financieras.
+
+Asimismo, las asociaciones y sociedades citadas no podrán participar en la distribución de productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 4 Bis 2.
+
+Las asociaciones o sociedades a que hace referencia el artículo 4 Bis, podrán celebrar con la Federación que las haya registrado, un contrato de prestación de servicios a través del cual se les proporcione un programa que les permita estar en posibilidad de solicitar la autorización de la Comisión para organizarse y funcionar como Entidad cuando conforme a esta Ley deba hacerlo.
+
+Los contratos de prestación de servicios que, en su caso, celebren las Federaciones con las asociaciones o sociedades referidas en el párrafo anterior, deberán prever, cuando menos, las obligaciones a cargo de la asociación o sociedad de que se trate, o de las personas que ejerzan funciones de administración del grupo de personas, que a continuación se indican:
+
+I. Dar cumplimiento a las obligaciones contenidas en los programas definidos por la Federación correspondiente, dentro de los plazos previstos para ello. Para tales efectos, los contratos deberán prever metas periódicas que permitan a la sociedad, asociación o grupo de personas de que se trate, implementar de manera paulatina requerimientos de control interno, de contabilidad y bases para la formulación, presentación y publicación de los estados financieros, los cuales deberán ser congruentes con las disposiciones que en dichas materias emita la Comisión para Entidades con un monto de activos equivalente al de la sociedad, asociación o grupo de personas de que se trate;
+
+II. Proporcionar a la Federación los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la información que aquélla considere necesaria en la forma y términos que les señale, así como permitir el acceso a sus oficinas, locales y demás instalaciones, siempre que ello sea necesario para verificar el cumplimiento de los programas a que se refiere este artículo, y
+
+III. Llevar a cabo los actos necesarios para obtener un dictamen por parte de una Federación y solicitar la autorización de la Comisión para organizarse y funcionar como Entidad, al término del programa determinado por la Federación.
+
+Las asociaciones o sociedades a que se refiere este artículo que decidan no celebrar contrato de prestación de servicios con la Federación ante la cual estén registradas, o bien que habiéndolo celebrado incumplan con las obligaciones y términos contenidos en el programa que al efecto se hubiese implementado, podrán continuar celebrando operaciones que impliquen captación de recursos entre sus asociados, socios o integrantes sin sujetarse a lo previsto en la Ley, siempre que se sujeten a lo previsto en el artículo 4 Bis y 4 Bis 1 anteriores.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 4 Bis 3.
+
+Las asociaciones o sociedades a que se refiere el artículo 4 Bis, que rebasen el límite previsto en la fracción III del citado precepto, podrán seguir celebrando operaciones que impliquen captación de recursos entre sus asociados o socios sujetándose a lo dispuesto en el artículo 4 Bis 1 anterior, siempre y cuando dentro de los ciento ochenta días siguientes a aquél en el que se verifique la situación antes referida, soliciten la autorización de la Comisión para organizarse y funcionar como Entidad en términos de esta Ley.
+
+Las asociaciones o sociedades a que se refiere este artículo, podrán continuar realizando operaciones que impliquen captación de recursos entre sus asociados o socios, hasta en tanto la Comisión resuelva su solicitud, siempre y cuando ésta se acompañe de un dictamen favorable por parte de una Federación.
 
 ###### Artículo 5o.
 
@@ -189,6 +203,10 @@ Las cajas de ahorro a que hace mención la legislación laboral, no estarán suj
 ###### Artículo 7o.
 
 Para efectos de lo dispuesto por la fracción I del artículo 103 de la Ley de Instituciones de Crédito, se considerará a las Entidades como intermediarios financieros, por lo que queda prohibida a cualquiera otra persona física o moral distintas a las señaladas en la citada fracción I del artículo 103, la captación de recursos del público de manera directa o indirecta en el territorio nacional, mediante actos causantes de pasivo directo o contingente, obligándose a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Para efectos de este artículo y del artículo 103 de la Ley de Instituciones de Crédito se entenderá que existe captación de recursos del público cuando: se solicite, ofrezca o promueva la obtención de fondos o recursos de persona indeterminada o mediante medios masivos de comunicación, o se obtengan o soliciten fondos o recursos de forma habitual o profesional.
 
 ###### Artículo 8o.
 
@@ -210,13 +228,17 @@ VI. La Ley Federal de Procedimiento Administrativo en sus Títulos Tercero A, re
 
 ### Capítulo I. Disposiciones Comunes
 
-###### Artículo 9o.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
-Se requerirá dictamen favorable de una Federación y autorización de la Comisión, para la organización y funcionamiento de las Entidades. Por su propia naturaleza las autorizaciones serán intransmisibles.
+###### Artículo 9.
+
+Se requerirá dictamen favorable de una Federación y autorización que compete otorgar discrecionalmente a la Comisión, para la organización y funcionamiento de las Entidades. Por su propia naturaleza las autorizaciones serán intransmisibles.
 
 Para obtener la autorización de la Comisión para operar como Entidad, las solicitudes deberán presentarse ante una Federación, quien elaborará un dictamen respecto de la procedencia de la solicitud.
 
-La Comisión resolverá las solicitudes de autorización que se acompañen del dictamen favorable de la Federación respectiva. Las Federaciones remitirán a la Comisión las solicitudes, acompañando su dictamen y a su vez la Comisión entregará su resolución a través de dichas Federaciones.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La Comisión resolverá las solicitudes de autorización que se acompañen del dictamen favorable de la Federación respectiva. Las Federaciones remitirán a la Comisión las solicitudes, acompañando su dictamen y a su vez la Comisión entregará su resolución a dichas Federaciones, así como a las sociedades solicitantes.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2003)</small>
 
@@ -260,7 +282,9 @@ d) Las bases relativas a su organización y control interno.
 
 IV. La relación de los probables administradores, principales directivos y personas que integrarán los órganos a que se refiere esta Ley. Adicionalmente, tratándose de Sociedades Financieras Populares, la relación de socios fundadores y el monto de su aportación;
 
-V. La indicación del capital social mínimo fijo, de conformidad con lo dispuesto por el artículo 116 de esta Ley, así como la propuesta de Nivel de Operaciones que le asignará la Comisión;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+V. La indicación del capital mínimo, de conformidad con lo dispuesto por el artículo 116 de esta Ley, así como la propuesta de Nivel de Operaciones que le asignará la Comisión;
 
 VI. El acreditar la solvencia económica de la sociedad, debiendo comprobar fehacientemente su capacidad para cumplir con la regulación prudencial que establece esta Ley de acuerdo al Nivel de Operaciones que se proponga;
 
@@ -282,7 +306,9 @@ En ningún momento la denominación de la Entidad podrá formarse con el nombre,
 
 La admisión y retiro de Socios, se realizará de conformidad con lo dispuesto en los estatutos o bases constitutivas de la Entidad, informándose en todo caso al consejo de administración.
 
-Las Cooperativas en sus estatutos o bases constitutivas deberán prever que los Socios podrán solicitar su retiro de la Entidad en cualquier tiempo, siempre y cuando no existan operaciones activas pendientes, en cuyo caso deberán liquidarlas previamente, así como que dichos Socios no podrán solicitar el retiro de sus aportaciones si con ello la Cooperativa incumple con las disposiciones aplicables relativas al capital social mínimo fijo o al índice de capitalización que deba mantener.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las Cooperativas en sus estatutos o bases constitutivas deberán prever que los Socios podrán solicitar su retiro de la Entidad en cualquier tiempo, siempre y cuando no existan operaciones activas pendientes, en cuyo caso deberán liquidarlas previamente, así como que dichos Socios no podrán solicitar el retiro de sus aportaciones si con ello la Cooperativa incumple con las disposiciones aplicables relativas al capital mínimo o al índice de capitalización que deba mantener.
 
 ###### Artículo 12.
 
@@ -363,6 +389,10 @@ Lo señalado en el párrafo anterior, no se aplicará a consejeros que represent
 Las Entidades a través de su asamblea, podrán designar consejeros independientes para que participen en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
 
 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Entidad, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La Comisión, mediante disposiciones de carácter general, determinará los casos en los que las Entidades, atendiendo a su Nivel de Operaciones, deberán contar con al menos un Consejero independiente.
 
 ###### Artículo 20.
 
@@ -694,7 +724,7 @@ XXXI. Realizar inversiones en el capital social de la Federación a la que se en
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XXXII. Previa autorización de la Comisión, realizar inversiones en acciones de Administradoras de Fondos para el Retiro, Sociedades de Inversión Especializadas en Fondos para el Retiro y Sociedades Operadoras de Sociedades de Inversión. Lo anterior, sin perjuicio de los términos y condiciones que para cada caso señalen las leyes específicas correspondientes.
+XXXII. Previa autorización de la Comisión, realizar inversiones en acciones de Administradoras de Fondos para el Retiro, Sociedades de Inversión Especializadas en Fondos para el Retiro y Sociedades Operadoras de Sociedades de Inversión. Lo anterior, sin perjuicio de los términos y condiciones que para cada caso señalen las leyes específicas correspondientes;
 
 En ningún caso, las Entidades podrán asumir el control de manera individual de las Administradoras de Fondos para el Retiro, Sociedades de Inversión Especializadas en Fondos para el Retiro y Sociedades Operadoras de Sociedades de Inversión en las que realicen inversiones en términos de esta fracción.
 
@@ -706,7 +736,11 @@ XXXIII. Ofrecer y distribuir, entre sus Socios o Clientes, las acciones de las s
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XXXIV. Llevar a cabo la distribución y pago de productos, servicios y programas todos ellos gubernamentales.
+XXXIV. Llevar a cabo la distribución y pago de productos, servicios y programas todos ellos gubernamentales;
+
+> <small>(ADICIONADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+XXXV. Ofrecer y distribuir, entre sus Socios o Clientes, seguros que se formalicen a través de contratos de adhesión, por cuenta de alguna institución de seguros debidamente autorizada de conformidad con la Ley General de Instituciones y Sociedades Mutualistas de Seguros y sujetándose a lo establecido en el artículo 41 de la referida ley.
 
 La Comisión podrá autorizar a las Entidades la realización de operaciones análogas o conexas a las señaladas en este artículo, incluyendo el otorgamiento de garantías a que se refiere el artículo 92 de esta Ley.
 
@@ -822,15 +856,17 @@ La Comisión podrá promover ante la autoridad judicial para que designe al liqu
 
 ### Capítulo II. De las Sociedades Cooperativas de Ahorro y Préstamo
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 38.
 
-La constitución de las Cooperativas se llevará a cabo con arreglo a lo dispuesto en el Título Segundo Capítulo I de la Ley General de Sociedades Cooperativas, con excepción de lo siguiente:
+La constitución de las Cooperativas se llevará a cabo con arreglo a lo dispuesto en la Ley General de Sociedades Cooperativas, con excepción de lo siguiente:
 
 I. El acta constitutiva y sus modificaciones, deberán ser protocolizadas únicamente ante notario o corredor público;
 
 II. Las Cooperativas contarán con personalidad jurídica, patrimonio propio y podrán celebrar actos jurídicos a partir de la inscripción de su acta constitutiva en el Registro Público de Comercio que corresponda a su domicilio social;
 
-III. El número mínimo de Socios no será menor de cien para las Entidades con Nivel de Operaciones I, y de doscientos para las Entidades con Nivel de Operaciones II a IV, y
+III. El número mínimo de Socios no será menor de cien para las Entidades con Nivel de Operaciones I, y de doscientos para las Entidades con Nivel de Operaciones II a IV, y (sic)
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
@@ -1038,7 +1074,9 @@ g) Las medidas correctivas mínimas a las que deberán sujetarse las Entidades, 
 
 h) Los mecanismos voluntarios de solución de controversias entre las Entidades y sus Socios o Clientes;
 
-i) El programa de control y corrección interno para prevenir conflictos de interés y uso indebido de la información, que se establezca conforme a las reglas de carácter general que emita la Comisión;
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+i) El programa de control y corrección interno para prevenir conflictos de interés y uso indebido de la información;
 
 j) Los procedimientos aplicables para el caso de que las Entidades incumplan sus obligaciones, incluyendo penas convencionales a su cargo y a favor de la Federación, y
 
@@ -1058,9 +1096,17 @@ e) El programa de control y corrección interno, y
 
 f) Los procedimientos aplicables para el caso de que las Federaciones incumplan sus obligaciones, incluyendo penas convencionales a su cargo y a favor de la Confederación.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La Comisión podrá, en todo momento, ordenar adecuaciones al reglamento interior de los Organismos de Integración, así como objetar las resoluciones o determinaciones adoptados por los órganos sociales de éstos, incluyendo la designación de funcionarios o miembros de sus órganos colegiados internos, cuando derivado del ejercicio de sus funciones de inspección y vigilancia la Comisión determine la existencia de algún conflicto de interés o uso indebido de información, o bien cuando las personas designadas para el ejercicio de un determinado cargo o comisión, no cumplan, a juicio de la Comisión, con los requisitos de independencia, capacidad técnica o solvencia moral o económica que, en su caso, deban observar en términos de esta Ley y las disposiciones que de ella emanen.
+
 ###### Artículo 56.
 
 Los Organismos de Integración proporcionarán a sus afiliadas, la información sobre los servicios que ofrecen, y sobre el Fondo de Protección, con el objeto de fortalecer la cultura financiera en general y del ahorro popular en particular, el conocimiento y desarrollo de sus intermediarios, y el fortalecimiento de esquemas de financiamiento para individuos y micro, pequeñas y medianas empresas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las Federaciones deberán agrupar el costo vigente de los servicios que presten en los conceptos siguientes: cuotas de afiliación, cuotas de supervisión auxiliar, cuotas por el servicio de asistencia técnica y cuotas por servicios complementarios y notificar a la Comisión el costo desglosado de cada uno de los conceptos referidos, así como sus modificaciones, dentro de los treinta días posteriores a cada modificación, con el fin de que ésta publique dicha información a través de su página electrónica de la red mundial "Internet". De igual forma, las Federaciones deberán poner a disposición del público en general de manera permanente y a través de medios electrónicos, el costo desglosado de cada uno de los conceptos antes referidos que se encuentren vigentes, debiendo actualizar esta información a más tardar treinta días después de cada modificación. La Comisión podrá solicitar a las Federaciones, de considerarlo necesario, que efectúen aclaraciones a la información que pongan a disposición del público respecto de la agrupación que en términos de este artículo realicen, así como que proporcionen información más detallada respecto de cada concepto de cobro.
 
 ###### Artículo 57.
 
@@ -1130,9 +1176,15 @@ Sin perjuicio de lo dispuesto en el artículo 47, la supervisión auxiliar de la
 
 La supervisión consistirá en verificar que las Entidades cumplan con las disposiciones de esta Ley, con las reglas prudenciales emitidas por la Comisión, con los contratos de afiliación o de supervisión auxiliar, según se trate y con las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las Federaciones se encontrarán obligadas a detallar los servicios complementarios que pueden prestar y sus costos a sus Entidades afiliadas, así como a las Entidades no afiliadas que supervisen de manera auxiliar. Asimismo, las Federaciones tendrán prohibido condicionar la prestación del servicio de supervisión auxiliar a la contratación de servicios complementarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 63.
 
-Las Federaciones deberán contar con una asamblea general de afiliados que será el órgano supremo de la Federación y estará integrado por los representantes de las Entidades afiliadas. Además contarán con un consejo de administración, un gerente general, un consejo de vigilancia del que se designará un contralor normativo, un Comité de Supervisión y un auditor legal.
+Las Federaciones deberán contar con una asamblea general de afiliados que será el órgano supremo de la Federación y estará integrado por los representantes de las Entidades afiliadas. Además contarán con un consejo de administración, un gerente general, un consejo de vigilancia o un contralor normativo, un Comité de Supervisión y un auditor legal.
 
 La Comisión, de acuerdo a los criterios que determine en reglas de carácter general, podrá exceptuar a las Federaciones de alguno de los órganos o personas antes indicados.
 
@@ -1156,11 +1208,13 @@ Dicho consejo de administración podrá estar conformado hasta en un treinta por
 
 Los consejeros tendrán la obligación de comunicar al presidente del consejo sobre cualquier situación en la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación y resolución correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 65 Bis.
 
-Las Federaciones a través de su asamblea general de afiliados, podrán designar consejeros independientes para que participen en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+Las Federaciones a través de su asamblea general de afiliados, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2003)</small>
 
 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Federación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
 
@@ -1248,13 +1302,19 @@ VIII. Reportar al consejo de administración de la Federación sobre su gestión
 
 IX. Las demás que los estatutos de la Federación determinen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 70.
 
-La vigilancia interna de la Federación estará a cargo de un consejo de vigilancia, o su equivalente, cuyas responsabilidades y obligaciones deberán determinarse en los estatutos de la Federación correspondiente.
+La vigilancia interna de la Federación estará a cargo de un consejo de vigilancia, o su equivalente, o del contralor normativo, cuyas responsabilidades y obligaciones deberán determinarse en los estatutos de la Federación correspondiente.
 
-Tratándose del consejo de vigilancia, éste será encabezado por un contralor normativo, quien será elegido por el consejo de administración y aprobado por la asamblea general, y será el responsable de vigilar que los funcionarios y empleados de la Federación, cumplan con la normatividad aplicable.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
-El contralor normativo realizará las siguientes funciones:
+El consejo de vigilancia o el contralor normativo serán elegidos por la asamblea general, y serán los responsables de vigilar que los funcionarios y empleados de la Federación, cumplan con la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+El consejo de vigilancia o el contralor normativo realizarán las siguientes funciones:
 
 I. Verificar que las Federaciones cumplan con la regulación aplicable;
 
@@ -1426,7 +1486,9 @@ II. Contar con el dictamen favorable de la Federación, y
 
 III. Contar con la autorización de la Comisión, para operar como Entidad.
 
-La formalización de dicho convenio deberá efectuarse a más tardar dentro de los diez días hábiles siguientes a la fecha en que se les haya notificado la autorización para operar como Entidad y deberán enviar un ejemplar del mismo a la Comisión a través de la Federación respectiva.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La formalización de dicho convenio deberá efectuarse a más tardar dentro de los diez días hábiles siguientes a la fecha en que haya quedado inscrito en el Registro Público de Comercio el acta constitutiva de la Entidad y deberán enviar un ejemplar del mismo a la Comisión a través de la Federación respectiva.
 
 ###### Artículo 84.
 
@@ -1436,11 +1498,13 @@ La Entidad podrá solicitar en cualquier momento a la Federación correspondient
 
 La Federación a través del Comité de Supervisión, podrá dictaminar la desafiliación de una Entidad cuando ésta incumpla con las obligaciones a que se refiere el artículo 58 fracción VI, así como en los casos previstos en su reglamento interior.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 86.
 
-La Entidad que solicite su desafiliación, no tendrá derecho a que se le reintegren las aportaciones que haya efectuado con anterioridad al Fondo de Protección, pero podrá seguir disfrutando de los derechos inherentes al mismo, en caso de que se afilie a otra Federación que a su vez esté afiliada a la misma Confederación.
+La Entidad que solicite su desafiliación, no tendrá derecho a que se le reintegren las aportaciones que haya efectuado con anterioridad al Fondo de Protección, pero podrá seguir disfrutando de los derechos inherentes al mismo, en caso de que se afilie o celebre un contrato de supervisión auxiliar con otra Federación que a su vez esté afiliada a la misma Confederación.
 
-Para los efectos de los artículos 84 y 85, la Federación continuará ejerciendo sobre la Entidad desafiliada, las labores de supervisión auxiliar, debiendo esta última cubrir el costo de esa supervisión en términos del artículo 88 de esta Ley, hasta en tanto celebre un nuevo contrato de afiliación con una Federación distinta, o se sujete al régimen de Entidad no afiliada, de conformidad con lo dispuesto en esta Ley.
+Para los efectos de los artículos 84 y 85, la Federación continuará ejerciendo sobre la Entidad desafiliada, las labores de supervisión auxiliar, debiendo esta última cubrir el costo de esa supervisión en términos del artículo 88 de esta Ley, hasta en tanto celebre un nuevo contrato de afiliación con una Federación distinta, o se sujete al régimen de Entidad no afiliada, de conformidad con lo dispuesto en esta Ley. Tratándose de Entidades que celebren un nuevo contrato de afiliación con una Federación distinta, la formalización de dicho convenio deberá efectuarse a más tardar dentro de los cinco días hábiles siguientes a la fecha de celebración de dicho contrato y deberán enviar un ejemplar del mismo a la Comisión a través de la nueva Federación.
 
 #### Sección Quinta. De la Escisión, Fusión, Venta, Disolución y Liquidación
 
@@ -1450,13 +1514,31 @@ Las sociedades que, habiéndose organizado con arreglo a esta Ley para operar co
 
 La Comisión, conforme a lo dispuesto en el artículo 9o., asignará a las Entidades no afiliadas una Federación para que las supervise de manera auxiliar, debiendo celebrarse al efecto, un contrato de supervisión auxiliar entre dicha Federación y la Entidad no afiliada.
 
-La formalización del contrato a que se refiere el párrafo anterior, deberá efectuarse a más tardar dentro de los diez días hábiles siguientes a la fecha en que se haya notificado la asignación de la Federación que supervisará de manera auxiliar a la Entidad, la cual deberá enviar un ejemplar del mismo a la Comisión a través de la Federación respectiva.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La formalización del contrato a que se refiere el párrafo anterior, deberá efectuarse a más tardar dentro de los diez días hábiles siguientes a la fecha en que haya quedado inscrito en el Registro Público de Comercio el acta constitutiva de la Entidad, la cual deberá enviar un ejemplar del mismo a la Comisión a través de la Federación respectiva.
 
 ###### Artículo 88.
 
 En el contrato de supervisión auxiliar que celebre la Entidad no afiliada, deberá establecerse, entre otras estipulaciones, la conformidad por parte de la Entidad con los términos y condiciones en que se ejercerá la facultad de supervisión auxiliar, previstos en esta Ley, en las disposiciones que de ella emanen, así como en el reglamento interior de la Federación, y el reconocimiento de la Entidad para sujetarse a las medidas correctivas y mecanismos previstos en la Sección Quinta, Capítulo II, Título Tercero de esta Ley, que instrumente la Federación.
 
 La Entidad no afiliada tendrá todas las obligaciones de las Entidades afiliadas inherentes a la supervisión auxiliar, incluyendo la de cubrir el costo de la supervisión auxiliar.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+La Federación a través del Comité de Supervisión, podrá dictaminar la rescisión del contrato de supervisión auxiliar de una Entidad en los casos previstos en su reglamento interior, así como por los previstos en el propio contrato de supervisión auxiliar.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las Entidades no afiliadas podrán solicitar en cualquier momento a la Federación correspondiente la rescisión de su contrato de supervisión auxiliar, la cual únicamente será reconocida previo dictamen de un auditor externo designado por la Federación y con cargo a la Entidad, que determine la viabilidad financiera de la misma.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las Entidades no afiliadas que rescindan su contrato de supervisión auxiliar, no tendrán derecho a que se les reintegren las aportaciones que hayan efectuado con anterioridad al Fondo de Protección, pero podrán seguir disfrutando de los derechos inherentes al mismo, en caso de que se afilien o celebren un contrato de supervisión auxiliar con otra Federación que a su vez esté afiliada a la misma Confederación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Para los efectos de lo previsto por el presente artículo, la Federación continuará ejerciendo sobre la Entidad no afiliada que rescinda su contrato de supervisión auxiliar, las labores de supervisión auxiliar, debiendo esta última cubrir el costo de esa supervisión, hasta en tanto celebre un contrato de afiliación o celebre un nuevo contrato de supervisión auxiliar con una Federación distinta. Tratándose de Entidades que celebren un nuevo contrato de supervisión auxiliar con una Federación distinta, la formalización de dicho convenio deberá efectuarse a más tardar dentro de los cinco días hábiles siguientes a la fecha de celebración de dicho contrato y deberán enviar un ejemplar del mismo a la Comisión a través de la nueva Federación.
 
 ###### Artículo 89.
 
@@ -1506,7 +1588,9 @@ II. Efectuada la aplicación a que se refiere la fracción anterior, procederá 
 
 III. Una vez hechas las aportaciones por parte del Fondo de Protección, éste deberá otorgar a los anteriores Socios el derecho a adquirir títulos representativos del capital social de la Entidad conforme a los porcentajes de que eran titulares hasta la fecha en que el propio Fondo de Protección haya suscrito y pagado los nuevos títulos, previo pago de la proporción de pérdidas que les corresponda.
 
-Para efectos de lo anterior, el Fondo de Protección publicará el aumento de capital que se realice. Los Socios a que se refiere la fracción III del artículo anterior, contarán con un plazo de treinta días hábiles a partir de la publicación mencionada, para adquirir del Fondo de Protección los títulos que correspondan.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Para efectos de lo anterior, el Fondo de Protección publicará el aumento de capital que se realice. Los Socios a que se refiere la fracción III del presente artículo, contarán con un plazo de treinta días hábiles a partir de la publicación mencionada, para adquirir del Fondo de Protección los títulos que correspondan.
 
 En beneficio del interés público, en los estatutos y en los títulos representativos del capital social de las Entidades, deberá preverse expresamente lo dispuesto en el artículo 92, así como el consentimiento de los Socios a las condiciones previstas en el mismo.
 
@@ -1580,11 +1664,13 @@ Dicho consejo de administración podrá estar conformado hasta en un treinta por
 
 Los consejeros tendrán la obligación de comunicar al presidente del consejo sobre cualquier situación en la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación y resolución correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 101 Bis.
 
-Las Confederaciones a través de su asamblea general, podrán designar consejeros independientes para que participen en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+Las Confederaciones a través de su asamblea general, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2003)</small>
 
 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Confederación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
 
@@ -1622,7 +1708,9 @@ Las Federaciones que no formen parte de una Confederación, deberán convenir co
 
 Las Entidades podrán utilizar los recursos del Fondo de Protección siempre y cuando hayan realizado aportaciones de carácter continuo durante un plazo mínimo de dos años. Las Entidades deberán informar a sus Socios o Clientes la fecha a partir de la cual iniciará la vigencia del sistema del Fondo de Protección respectivo, estableciendo de forma clara y visible en sus sucursales, oficinas, en su publicidad y en toda la documentación que utilicen para instrumentar operaciones, que no contarán con la protección de dicho Fondo, hasta en tanto no hayan realizado las aportaciones al mismo durante el plazo a que se refiere este párrafo.
 
-Excepcionalmente y a juicio de la Comisión, las Entidades no afiliadas podrán establecer su propio Fondo de Protección, cumpliendo con los requisitos establecidos en las disposiciones de carácter general que al efecto emita la Comisión, el cual en ningún caso podrá brindar menores beneficios para los ahorradores que los previstos en el presente Capítulo.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Excepcionalmente y a juicio de la Comisión, las Entidades no afiliadas podrán establecer temporalmente un fondo de protección especial, cumpliendo con los requisitos establecidos en las disposiciones de carácter general que al efecto emita la Comisión, el cual en ningún caso podrá brindar menores beneficios para los ahorradores que los previstos en el presente Capítulo. Las referidas disposiciones deberán prever los términos y condiciones para que las Entidades transfieran los recursos del citado fondo a un Fondo de Protección.
 
 ###### Artículo 106.
 
@@ -1672,7 +1760,9 @@ II. Absorber los costos que se deriven de la aplicación de alguno de los mecani
 
 III. Realizar las operaciones y contratos de carácter mercantil o civil que sean necesarios para el cumplimiento del objeto del Fideicomiso;
 
-IV. Coordinar, y en su caso, participar en procesos de fusión, escisión, venta, disolución y liquidación de las Entidades;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+IV. Coordinar, y en su caso, participar en procesos de fusión, escisión, venta, disolución y liquidación de las Entidades, conforme a las instrucciones del Comité Técnico;
 
 V. Comunicar a la Comisión y a la Federación respectiva las irregularidades que por razón de sus competencias les corresponda conocer;
 
@@ -1704,7 +1794,9 @@ VI. Nombrar a las personas que se encargarán de la administración de la Entida
 
 VII. Aprobar los casos en que proceda otorgar apoyos financieros a las Entidades en los términos del artículo 92 y 106;
 
-VIII. Seleccionar alguno de los mecanismos a que se refiere la Sección Quinta, Capítulo II, Título Tercero de esta Ley, que corresponda en su caso a la Entidad;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+VIII. Seleccionar alguno de los mecanismos a que se refiere la Sección Quinta, Capítulo II, Título Tercero de esta Ley, que corresponda en su caso a la Entidad, determinando la participación del fiduciario;
 
 IX. Determinar la forma y términos en que se ejercerán en su caso, los derechos corporativos y patrimoniales inherentes a los títulos a que se refiere el artículo 92;
 
@@ -1926,9 +2018,17 @@ III. De 200 a 500 días de salario a las Entidades y Federaciones que no present
 
 IV. De 300 a 3,000 días de salario a las Entidades, Federaciones o Confederaciones que hagan caso omiso de los requerimientos de la Comisión o de la Secretaría a que se refiere esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+IV Bis. De 300 a 3,000 días de salario a la Entidad que omita someter a la aprobación de la Comisión las modificaciones a sus estatutos o bases constitutivas. Igual sanción se impondrá a la Federación que supervise auxiliarmente a la entidad de que se trate;
+
 V. De 500 a 2,000 días de salario a las Entidades que no cumplan con las aportaciones para cubrir el Fondo de Protección;
 
 VI. De 500 a 2,000 días de salario a las Entidades, Federaciones o Confederaciones que realicen publicidad engañosa o confusa;
+
+> <small>(ADICIONADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+VI Bis. De 500 a 2,000 días de salario a las Federaciones que no lleven a cabo la notificación a la Comisión el costo desglosado de cada uno de los conceptos agrupados del costo vigente de los servicios que presten en términos de lo dispuesto por el artículo 56 de esta Ley, no difundan dicha información o no la actualicen de conformidad con el referido artículo, o bien no atiendan las aclaraciones que solicite la Comisión de acuerdo con el citado precepto;
 
 VII. De 500 a 3,000 días de salario a las Entidades que obstaculicen las facultades que esta Ley y otras disposiciones aplicables le confieren a la Secretaría o a la Comisión;
 
@@ -1944,23 +2044,21 @@ XI. De 1,000 a 2,000 días de salario a las Entidades que no lleven su contabili
 
 XII. De 1,000 a 3,000 días de salario por el uso de las palabras a que se refiere el artículo 6o. de esta Ley, en el nombre de personas morales y establecimientos distintos a los autorizados para ello conforme al mismo precepto;
 
-XIII. De 1,000 a 3,000 días de salario a las Entidades, Federaciones y Confederaciones que no permitan las visitas de inspección de las Federaciones o de la Comisión, según se trate, o bien que obstruyan las labores de supervisión.
+XIII. De 1,000 a 3,000 días de salario a las Entidades, Federaciones y Confederaciones que no permitan las visitas de inspección de las Federaciones o de la Comisión, según se trate, o bien que obstruyan las labores de supervisión;
+
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+XIV. De 1,000 a 5,000 días de salario al contralor normativo o a los miembros del consejo de vigilancia de Federaciones o Confederaciones que no lleve a cabo las funciones de vigilancia conforme a lo que establece esta Ley;
+
+Igual sanción se impondrá a la Federación o Confederación que por cualquier medio impida que el contralor normativo o a los miembros del consejo de vigilancia realicen sus funciones de conformidad a lo previsto en esta Ley;
 
 > <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
-XIV. De 1,000 a 5,000 días de salario al contralor normativo de Federaciones o Confederaciones que no lleve a cabo las funciones de vigilancia conforme a lo que establece esta Ley;
-
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
-
-Igual sanción se impondrá a la Federación o Confederación que por cualquier medio impida que el contralor normativo realice sus funciones de conformidad a lo previsto en esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
-
-XV. De 1,000 a 5,000 días de salario al consejero independiente de Entidades, Federaciones o Confederaciones, que actúe en las sesiones del consejo de administración en contravención a la presente Ley y a las disposiciones que emanen de ella.
+XV. De 1,000 a 5,000 días de salario al consejero independiente de Entidades, Federaciones o Confederaciones, que actúe en las sesiones del consejo de administración en contravención a la presente Ley y a las disposiciones que emanen de ella;
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-Igual sanción se le impondrá a las Entidades que no cumplan con lo dispuesto en el penúltimo párrafo del artículo 105, estableciendo de forma clara y visible en sus sucursales, oficinas, en su publicidad y en toda la documentación que utilicen para instrumentar sus operaciones, que no contarán con la protección de dicho Fondo, hasta en tanto no hayan realizado las aportaciones al mismo durante el plazo a que se refiere dicho párrafo.
+Igual sanción se le impondrá a las Entidades que no cumplan con lo dispuesto en el penúltimo párrafo del artículo 105, estableciendo de forma clara y visible en sus sucursales, oficinas, en su publicidad y en toda la documentación que utilicen para instrumentar sus operaciones, que no contarán con la protección de dicho Fondo, hasta en tanto no hayan realizado las aportaciones al mismo durante el plazo a que se refiere dicho párrafo;
 
 > <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
@@ -1988,6 +2086,12 @@ VII. (DEROGADA, D.O.F. 27 DE ENERO DE 2003)
 
 Se sancionará con multa de 1,000 a 5,000 días de salario a los notarios, registradores, o corredores públicos que tramiten o inscriban actos que incluyan operaciones prohibidas por esta Ley, o bien autoricen la celebración de operaciones reguladas por esta Ley a personas distintas a las Entidades, Federaciones y Confederaciones. La misma multa se impondrá cuando las personas mencionadas con anterioridad, actúen sin que medie la autorización de la Comisión para los casos en que ésta sea necesaria.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 132 Bis.
+
+Las instituciones de crédito y casas de bolsa tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las asociaciones o sociedades que capten recursos de sus socios o asociados o del público, sin cumplir con los requisitos previstos en esta Ley o en la Ley de Instituciones de Crédito. Asimismo, dichas instituciones y casas de bolsa, deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas asociaciones o sociedades, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones, siempre que tengan conocimiento del incumplimiento mencionado.
+
 ###### Artículo 133.
 
 Se impondrá pena de prisión de 2 a 10 años y multa hasta de 5,000 días de salario a los funcionarios, integrantes de los órganos de administración o empleados de las Entidades, Federaciones o Confederaciones que causen un perjuicio económico a algún Socio o Cliente por haber dispuesto para sí o para otro de la información a la que tiene acceso. Quien cometa esta conducta será responsable de cubrir los daños y perjuicios que hubiere causado.
@@ -2014,17 +2118,51 @@ Se impondrá pena de prisión de 6 meses a 5 años y multa hasta de 2,000 días 
 
 Se impondrá pena de prisión de 3 a 8 años y multa hasta de 1,000 días de salario a los funcionarios, integrantes de los órganos de administración o empleados de las Entidades, Federaciones o Confederaciones que hayan sido beneficiados por su participación en el otorgamiento de créditos o que soliciten dinero o cualquier otra cosa para agilizar la tramitación o aprobación de algún crédito o servicio que se ofrezca.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 136 Bis.
+
+Serán sancionados con prisión de uno a seis años las personas que por sí o a través de otra persona o por medio de nombres comerciales o por cualquier medio de publicidad, se ostenten como Entidad de Ahorro y Crédito Popular, Sociedad Financiera Popular, Sociedad Cooperativa de Ahorro y Préstamo, Caja Rural, Caja Popular, Caja de Ahorro u otras que expresen ideas semejantes en cualquier idioma, sin contar con la autorización de la Comisión para operar con tal carácter.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 136 Bis 1.
+
+Serán sancionados con prisión de dos a diez años, los consejeros, así como los directivos, empleados de las Entidades o quienes intervengan directamente en la autorización de créditos a una misma persona física, o a una o más personas morales o fideicomisos cuyo control directo o indirecto corresponda a una sola persona, cuando el monto de las operaciones excedan el 5 por ciento del total de los activos de la Entidad acreditante en la fecha de su otorgamiento o al cierre del último mes calendario previo a la fecha de la operación.
+
+La misma pena se impondrá a los consejeros, así como los directivos, empleados de las Entidades o quienes intervengan directamente en la autorización de créditos a una o más personas morales o fideicomisos, cuyo control directo o indirecto corresponda a grupos de personas que mantengan nexos de parentesco consanguíneo o por afinidad hasta el cuarto grado o civil, cuando el monto de las operaciones excedan el 10 por ciento del total de los activos de la Entidad acreditante en la fecha de su otorgamiento o al cierre del último mes calendario previo a la fecha de la operación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 136 Bis 2.
+
+Serán sancionados con prisión de dos a diez años, los consejeros, así como los directivos o empleados de las personas morales que se encuentren operando en términos del Artículo 4 Bis de esta Ley que intervengan directamente en la autorización de créditos a una misma persona física, o a una o más personas morales o fideicomisos cuyo control directo o indirecto corresponda a una sola persona, cuando el monto de las operaciones excedan el 5 por ciento del total de los activos de la persona moral acreditante en la fecha de su otorgamiento o al cierre del último mes calendario previo a la fecha de la operación.
+
+La misma pena se impondrá a los consejeros, así como los directivos, empleados de las personas morales que se encuentren operando en términos del Artículo 4 Bis de esta Ley que intervengan directamente en la autorización de créditos a una o más personas morales o fideicomisos, cuyo control directo o indirecto corresponda a grupos de personas que mantengan nexos de parentesco consanguíneo o por afinidad hasta el cuarto grado o civil, cuando el monto de las operaciones excedan el 10 por ciento del total de los activos de la Entidad acreditante en la fecha de su otorgamiento o al cierre del último mes calendario previo a la fecha de la operación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 136 Bis 3.
+
+Serán sancionados con prisión de uno a cinco años, los consejeros, directivos o empleados de personas morales que se encuentren operando en términos del Artículo 4 Bis de esta Ley, que intervengan directamente en la determinación de las tasas de interés aplicables a los préstamos que reciban de sus asociados o socios, cuando dicha tasa sea superior a dos veces la tasa de interés interbancaria de equilibrio a 28 días, o la que la sustituya, dada a conocer por el Banco de México, vigente a la fecha en que se celebre la operación.
+
+Se impondrá la misma pena a los consejeros, directivos o empleados de personas morales que se encuentren operando en términos del Artículo 4 Bis de esta Ley, que intervengan directamente en la autorización de créditos o préstamos a un mismo asociado o socio, con tasas de interés inferiores en un cincuenta por ciento a la tasa de interés interbancaria de equilibrio, dada a conocer por el Banco de México o la que la sustituya, vigente en la fecha de celebración de la operación, siempre que el monto del crédito o préstamo respectivo, represente en dicha fecha el cinco por ciento o más del total de los activos de la persona moral acreditante.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 136 Bis 4.
+
+Se impondrá de tres a doce años de prisión, a consejeros, directivos o empleados de las Entidades o de las personas morales que se encuentren operando en términos del Artículo 4 Bis de esta Ley que, mediante la alteración de las cuentas activas o pasivas o de las condiciones de los contratos hagan u ordenen que se registren operaciones o gastos inexistentes o que se exageren los reales, o que dolosamente realicen cualquier acto u operación ilícita o prohibida por la ley, generando en cualquiera de dichos supuestos un quebranto o perjuicio en el patrimonio de la Entidad o persona moral de que se trate, en beneficio económico propio ya sea directamente o a través de interpósita persona.
+
+La pena a que se refiere este artículo será de uno a tres años de prisión cuando se acredite haber reparado el daño y resarcido el perjuicio ocasionado.
+
 ###### Artículo 137.
 
 Para efectos de lo dispuesto en el artículo 400 Bis del Código Penal Federal, se entenderá que las Entidades y los Organismos de Integración forman parte del Sistema Financiero, por lo que serán aplicables a dichos sujetos las sanciones previstas en dicho artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ENERO DE 2003)</small>
-
 ###### Artículo 138.
 
-Los consejeros, funcionarios y administradores de las asociaciones y sociedades civiles, y a las personas físicas que capten recursos en contravención a lo señalado en el artículo 4 Bis de esta Ley, así como la persona física, consejeros, funcionarios y administradores de las personas morales que capten recursos del público en contravención de lo dispuesto por el artículo 7o. de esta Ley, serán sancionados en términos de lo dispuesto por el artículo 111 de la Ley de Instituciones de Crédito.
-
-Para determinar la comisión de este delito, la autoridad competente podrá revisar la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a las operaciones mencionadas, en cuyo caso, ordenará la suspensión inmediata de operaciones y procederá a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate. El procedimiento de inspección, suspensión de operaciones y clausura anterior es de interés público.
+(DEROGADO, D.O.F. 31 DE AGOSTO DE 2007)
 
 ###### Artículo 139.
 
@@ -2039,6 +2177,24 @@ c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse informar a s
 d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
 
 e) Inciten u ordenen no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 140.
+
+En los casos previstos en los artículos 133, 134, 135, 136, 136 Bis, 136 Bis 1 y 139 de esta Ley, se procederá en forma indistinta a petición de la Secretaría, previa opinión de la Comisión; o bien, a petición de los Organismos de Integración, de la Entidad de que se trate o de quien tenga interés jurídico.
+
+Los delitos previstos en los artículos 136 Bis 2 y 136 Bis 3 de esta Ley, únicamente podrán perseguirse por querella de quien tenga interés jurídico.
+
+Tratándose del delito previsto en el artículo 136 Bis 4 de esta Ley, únicamente podrá perseguirse por querella de cualquier socio o asociado de la Entidad o persona moral que corresponda, o bien, a petición de la Secretaría, previa opinión de la Comisión, siempre que se trate de Entidades.
+
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+###### Artículo 141.
+
+La acción penal en los casos previstos en esta Ley perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de los Organismos de Integración; de la Entidad de que se trate o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, Organismos de Integración, Entidad de que se trate o quien tenga interés jurídico, tengan conocimiento del delito y del probable responsable, y si no tienen ese conocimiento en cinco años.
+
+Una vez llenado el requisito de procedibilidad dentro del plazo mencionado, la prescripción seguirá corriendo según las reglas para los delitos perseguibles de oficio en términos del Código Penal Federal.
 
 ## TRANSITORIOS
 
@@ -2230,15 +2386,21 @@ En el evento de que la Federación detecte algún posible incumplimiento a las o
 
 La Federación de igual forma, y para efectos de lo dispuesto en el penúltimo párrafo del artículo Quinto Transitorio de este Decreto, deberá dar aviso de lo anterior al Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
 
-Las sociedades o asociaciones que cumplan con todos y cada uno de los requisitos previstos en este precepto, podrán continuar realizando las operaciones a que se refiere el primer párrafo de este artículo hasta el 31 de diciembre de 2008. Lo anterior, en el entendido de que a más tardar en esa fecha, deberán obtener la autorización de la Comisión para constituirse y operar como Entidades.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las sociedades o asociaciones que cumplan con todos y cada uno de los requisitos previstos en este precepto, podrán continuar realizando las operaciones a que se refiere el primer párrafo de este artículo hasta el 31 de diciembre de 2008. Lo anterior, en el entendido de que a más tardar en esa fecha, deberán presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidades.
 
 Las Federaciones publicarán semestralmente en el Diario Oficial de la Federación y en cuando menos un periódico de amplia circulación en el ámbito geográfico en el que operen, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del presente artículo y que cumplan con los requisitos señalados en este precepto.
 
-Las sociedades o asociaciones a que se refiere este artículo que al 31 de diciembre de 2008 no obtengan la autorización de la Comisión para operar como Entidades o que se ubiquen en el supuesto de incumplimiento señalado en el tercer párrafo de la fracción V de este artículo, deberán abstenerse de realizar operaciones que impliquen captación. En caso contrario, se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Las sociedades o asociaciones a que se refiere este artículo que al 31 de diciembre de 2008 no presenten su solicitud de autorización a la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidades o que se ubiquen en el supuesto de incumplimiento señalado en el tercer párrafo de la fracción V de este artículo, deberán abstenerse de realizar operaciones que impliquen captación. En caso contrario, se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables.
 
 Las sociedades o asociaciones a que se refiere este precepto que incumplan alguno de los requisitos previstos en este artículo, o bien no obtengan la autorización de la Comisión para operar como Entidades en la fecha a que se refiere el párrafo anterior, deberán hacer esta situación del conocimiento de sus socios o asociados, mediante publicación en un periódico de amplia circulación en las plazas en las que operen, así como mediante la colocación de avisos en sus oficinas o sucursales. Lo anterior sin perjuicio de que la Federación respectiva deberá hacer este hecho del conocimiento público mediante las Citadas publicaciones.
 
-Para efectos de lo previsto en este precepto, la fracción III del artículo 3, los párrafos primero, tercero y quinto del Artículo 5, el segundo párrafo del Artículo 6, el párrafo primero del Artículo 7, el párrafo primero del Artículo 8, los Artículos 38-A a 38-Q, el párrafo primero del Artículo 45 bis-3, el Artículo 51, el párrafo sexto del Artículo 53 y el párrafo segundo del Artículo 78 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirán aplicando en los términos vigentes y hasta el 31 de diciembre de 2008 a las Sociedades de Ahorro y Préstamo que cumplan con los requisitos contenidos en este artículo.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
+Para efectos de lo previsto en este precepto, la fracción III del artículo 3, los párrafos primero, tercero y quinto del Artículo 5, el segundo párrafo del Artículo 6, el párrafo primero del Artículo 7, el párrafo primero del Artículo 8, los Artículos 38-A a 38-Q, el párrafo primero del Artículo 45 bis-3, el Artículo 51, el párrafo sexto del Artículo 53 y el párrafo segundo del Artículo 78 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirán aplicando en los términos vigentes para aquellas Sociedades de Ahorro y Préstamo que cumplan con los requisitos contenidos en este artículo, hasta en tanto la Comisión Nacional Bancaria y de Valores resuelva su solicitud de autorización para operar como entidades de Ahorro y Crédito Popular.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER PARRAFO SEGUNDO DEL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2294,9 +2456,11 @@ No será aplicable en la realización de las operaciones contenidas en este art�
 
 A las Sociedades de Ahorro y Préstamo y Uniones de Crédito que de conformidad con lo establecido en la Ley de Ahorro y Crédito Popular sean autorizadas por la Comisión como Entidades de Ahorro y Crédito Popular, les será revocada la autorización que les hubiere sido otorgada en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito a partir de la fecha en que surta efectos la autorización para operar como Entidad de Ahorro y Crédito Popular, sin que se ubiquen en estado de disolución y liquidación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Las sociedades cooperativas, así como las sociedades y asociaciones civiles que capten recursos de sus socios o asociados para su colocación entre éstos y que tengan la intención de solicitar la autorización de la Comisión para constituirse y operar como Entidades, podrán transformarse en sociedades cooperativas de ahorro y préstamo o en sociedades anónimas, mediante acuerdo de la mayoría de los socios o asociados con derecho a voto.
+Las sociedades cooperativas, así como las sociedades, asociaciones civiles y sociedades de solidaridad social que capten recursos de sus socios o asociados para su colocación entre éstos y que tengan la intención de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades de Ahorro y Crédito Popular, podrán transformarse en sociedades cooperativas de ahorro y préstamo o en sociedades anónimas, mediante acuerdo de la mayoría de los socios o asociados con derecho a voto. Las sociedades de solidaridad social que se transformen en términos de este artículo, perderán dicho carácter a partir de la fecha en que surta efectos a terceros el acuerdo de transformación, por lo quedarán sin efectos por ministerio de ley, las autorizaciones o permisos que la autoridad competente hubiere otorgado para que se constituyeran con el carácter de sociedad de solidaridad social. Lo anterior no implicara que se ubiquen en estado de disolución y liquidación.
 
 El acuerdo de transformación adoptado de conformidad con lo señalado en el párrafo anterior deberá protocolizarse ante Fedatario Público.
 
@@ -2339,3 +2503,157 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 31 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las sociedades o asociaciones que a la fecha de entrada en vigor de este Decreto realicen operaciones que impliquen la captación de recursos de sus socios o asociados para su colocación entre éstos, que no hubiesen dado cumplimiento a los requisitos previstos en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, en la fecha prevista para tales efectos en el primer párrafo del artículo transitorio antes citado, deberán abstenerse de realizar actividades que impliquen captación de recursos, salvo que a más tardar el 31 de diciembre de 2007, o a los ciento ochenta días naturales contados a partir de la fecha en que entre en vigor el presente Decreto, lo que suceda después, cumplan con los requisitos siguientes:
+
+I. La asamblea general de socios o asociados de la sociedad o asociación de que se trate, acuerde llevar a cabo los actos necesarios para obtener la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidad y sujetarse a los términos y condiciones previstos en este artículo. El acuerdo de la asamblea deberá incluir la conformidad de ésta para que la sociedad o asociación asuma las obligaciones que se originen de los programas a que se refiere el artículo Cuarto Transitorio del presente Decreto.
+
+De igual forma, la asamblea, en su carácter de órgano supremo de la sociedad o asociación correspondiente, deberá aprobar su afiliación a una Federación autorizada por la Comisión Nacional Bancaria y de Valores, o la celebración de un contrato de prestación de servicios, en términos de lo señalado en la fracción II de este artículo, manifestando que dichos actos quedarán sujetos al cumplimiento de los programas a que se refiere el artículo Cuarto Transitorio del presente Decreto.
+
+Asimismo, la asamblea general de socios o asociados, deberá expresar su consentimiento para que la sociedad o asociación sea evaluada y clasificada de conformidad con lo establecido en el artículo Tercero Transitorio del presente Decreto, manifestando además que conoce y está de acuerdo con el contenido de la metodología y criterios que se utilicen para efectos de su evaluación y clasificación.
+
+Los órganos de administración de las sociedades o asociaciones deberán adoptar los acuerdos mencionados en los párrafos anteriores, y
+
+II. Se afilie a una Federación autorizada por la Comisión Nacional Bancaria y de Valores, o en su defecto, celebre con alguna de ellas, un contrato de prestación de servicios que prevea, entre otros aspectos, que la Federación le proporcione asesoría técnica, legal, financiera y de capacitación, y que permita a la Federación evaluar el cumplimiento de la sociedad o asociación al artículo Cuarto Transitorio del presente Decreto.
+
+La Federación deberá verificar, previamente a la celebración de los actos referidos en el párrafo anterior, que la sociedad o asociación haya dado cumplimiento a lo previsto en la fracción I de este artículo.
+
+Las Federaciones podrán afiliar hasta el último día del plazo a que se refiere el primer párrafo de este artículo, así como prestar servicios de asesoría técnica, legal, financiera y de capacitación, a sociedades o asociaciones que tengan intención de sujetarse a los términos de la Ley de Ahorro y Crédito Popular. A partir de la fecha anteriormente indicada, las Federaciones solamente podrán mantener afiliadas y prestar los servicios antes mencionados, a Entidades o a sociedades o asociaciones que cumplan con lo previsto en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, así como en lo dispuesto por el presente Decreto.
+
+Las sociedades o asociaciones que se afilien a una Federación en términos de lo dispuesto por este artículo, no podrán participar en las sesiones de los órganos sociales de la Federación cuando se traten asuntos que estén relacionados, directa o indirectamente, con el régimen previsto en el presente Decreto; con la organización, integración, funcionamiento y desempeño del Comité de Supervisión correspondiente, o con cualquier otro aspecto relacionado con la supervisión auxiliar que ejerza la Federación. No podrán formar parte del Comité de Supervisión de la Federación, personas que tengan vínculos laborales o económicos con las sociedades o asociaciones que la propia Federación tenga afiliadas en términos de este artículo.
+
+Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior.
+
+Las sociedades y asociaciones que en términos de lo previsto en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, fueron clasificadas en la categoría D, prevista en el inciso d) de la fracción IV del referido artículo transitorio, podrán sujetarse al régimen previsto en este Decreto, siempre y cuando acrediten ante la Federación previamente a su afiliación o a la celebración del contrato de prestación de servicios a que se refiere este artículo, que cumplen con los requisitos de solvencia señalados en la metodología y criterios a que se refiere el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
+
+TERCERO.- Las sociedades o asociaciones que hayan dado cumplimiento a lo dispuesto por el artículo Segundo Transitorio anterior, deberán someterse a una evaluación por parte de la Federación con la que se hayan afiliado o celebrado un contrato de prestación de servicios, a fin de que ésta las clasifique, con la opinión de un consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, en las categorías previstas en este precepto. Para efectos de lo anterior, las Federaciones deberán evaluar a las sociedades o asociaciones correspondientes, con base en la metodología y criterios que las Federaciones de manera conjunta con los consultores, hayan formulado en términos de lo dispuesto en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
+
+La Federación con la opinión de los consultores, clasificará a las sociedades o asociaciones en alguna de las categorías siguientes:
+
+I. Categoría A. Aquellas sociedades o asociaciones que estén en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades en términos de esta Ley;
+
+II. Categoría B. Aquellas sociedades o asociaciones que requieran de un plan de estabilización financiera y operativa, así como de un programa de ajuste para estar en posibilidades de cumplir con los requisitos mínimos para solicitar la autorización de la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades;
+
+III. Categoría C. Aquellas sociedades o asociaciones que requieran llevar a cabo un proceso de reestructuración que pueda implicar, entre otros aspectos, su fusión con otra sociedad, su escisión o la transmisión de activos y pasivos, entre otros, y que además puedan necesitar apoyos financieros, a fin de estar en posibilidad de cumplir los requisitos mínimos para solicitar la autorización a la Comisión Nacional Bancaria y de Valores para constituirse y operar como Entidades, o
+
+IV. Categoría D. Aquellas sociedades o asociaciones que no estén en posibilidad de cumplir con los requisitos mínimos para poder solicitar la autorización para constituirse y operar como Entidades.
+
+Para efecto de la clasificación a que se refieren las fracciones anteriores, no se considerará dentro de los requisitos que las sociedades o asociaciones deban cumplir para obtener la autorización de la Comisión Nacional Bancaria y de Valores en términos de lo previsto en este artículo, al dictamen a que se refiere el artículo 9 de la Ley de Ahorro y Crédito Popular.
+
+Las Federaciones y los consultores deberán clasificar a las asociaciones o sociedades a que se refiere este artículo, en las categorías antes mencionadas, a más tardar el 30 de junio de 2008. Las asociaciones o sociedades que en términos de lo previsto en este artículo, hubiesen sido clasificadas en la categoría D referida en la fracción IV anterior, no podrán participar en los programas de asesoría, capacitación y seguimiento contemplados en el artículo Cuarto Transitorio de este Decreto por lo que deberán abstenerse de realizar operaciones que impliquen captación de recursos.
+
+Las asociaciones o sociedades que se encuentren en el supuesto referido en el párrafo anterior, podrán someter por una única ocasión a la Federación la solicitud de ser clasificadas nuevamente, aun con posterioridad a la fecha a que se refiere este precepto, siempre y cuando no hayan transcurrido más de 90 días desde que recibieron el resultado de su clasificación, y hayan efectivamente suspendido las operaciones que implican captación de recursos. En caso de que como resultado de la nueva clasificación hubiesen sido clasificadas en cualquiera de las categorías a que se refieren las fracciones I, II ó III de este artículo, podrán participar en los programas de asesoría, capacitación y seguimiento contemplados en el artículo Cuarto Transitorio de este Decreto. En caso contrario, la Federación deberá dar por terminada la afiliación o el contrato de prestación de servicios celebrado con la asociación o sociedad de que se trate, e informará de este hecho a la Comisión Nacional Bancaria y de Valores. La terminación anticipada a que se refiere este párrafo, no generará responsabilidad alguna a cargo de la Federación.
+
+CUARTO.- Las sociedades o asociaciones que al 1 de julio de 2008 hubieren dado cumplimiento a los requisitos previstos en los artículos Segundo y Tercero Transitorios de este Decreto, deberán sujetarse a programas de asesoría, capacitación y seguimiento con la Federación a la que se hayan afiliado o con la que hayan celebrado el contrato de prestación de servicios. Dichos programas deberán desarrollarse por la referida Federación con la opinión de un consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo y deberán considerar, en su caso, los Trabajos de Consolidación definidos en el artículo 2, fracción XI, de la Ley que Crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
+
+Las Federaciones, así como los consultores referidos en el párrafo anterior, deberán desarrollar los programas de asesoría, capacitación y seguimiento que resultarán aplicables a cada una de las sociedades o asociaciones a que se refiere este artículo, a más tardar el 31 de diciembre de 2008.
+
+QUINTO.- Las sociedades o asociaciones que cumplan con todos los requisitos previstos en los artículos Segundo, Tercero y Cuarto Transitorios de este Decreto dentro de los plazos previstos para ello, y que además hayan sido clasificadas por alguna Federación en cualquiera de las Categorías previstas en las fracciones I, II y III del artículo Tercero Transitorio anterior, podrán continuar realizando operaciones que impliquen la captación de recursos de sus socios o asociados para su colocación entre éstos hasta el 31 de diciembre de 2010, en los términos y bajo las condiciones previstos por el artículo Octavo Transitorio del presente Decreto. Lo anterior, siempre y cuando den cumplimiento a todas y cada una de las obligaciones, términos y condiciones contenidas en los programas establecidos en el artículo Cuarto Transitorio anterior, y en el entendido de que a más tardar el 31 de diciembre de 2010 deberán presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular en términos de la Ley de la materia.
+
+Las sociedades o asociaciones que de conformidad con lo dispuesto en este artículo, hayan solicitado a la Comisión Nacional Bancaria y de Valores la autorización para organizarse y funcionar como Entidades, podrán seguir captando recursos hasta en tanto reciban una respuesta por parte de la referida Comisión a su solicitud de autorización, siempre y cuando la solicitud haya sido acompañada del dictamen favorable de una Federación.
+
+SEXTO.- Las Federaciones con la opinión de los consultores con experiencia en finanzas populares contratados por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, deberán evaluar periódicamente el cumplimiento de los programas de asesoría, capacitación y seguimiento referidos en el artículo Cuarto Transitorio de este Decreto, pudiendo modificar la clasificación originalmente asignada, como consecuencia de la evaluación periódica antes referida.
+
+En el evento de que la Federación detecte algún posible incumplimiento a las obligaciones consignadas en los programas mencionados en el párrafo anterior, deberá notificar este hecho a la sociedad o asociación de que se trate, a fin de que ésta en un plazo de quince días hábiles contados a partir de la fecha de la notificación, subsane las observaciones respectivas a satisfacción de la Federación con la opinión del consultor. En caso contrario, o bien de no atenderse la notificación en el plazo correspondiente, la Federación deberá dar por terminada la afiliación o el contrato de prestación de servicios celebrado con la sociedad o asociación de que se trate, e informará de este hecho a la Comisión Nacional Bancaria y de Valores. La terminación anticipada a que se refiere este párrafo, no generará responsabilidad alguna a cargo de la Federación.
+
+La Federación de igual forma, y para efectos de lo dispuesto en el último párrafo del artículo Noveno Transitorio de este Decreto, deberá dar aviso de lo anterior al Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
+
+Las asociaciones o sociedades que en términos de lo previsto en este artículo, hubiesen sido clasificadas en la categoría D referida en la fracción IV del artículo Tercero Transitorio anterior, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
+
+Las asociaciones o sociedades que se encuentren en el supuesto referido en el párrafo anterior, podrán someter por una única ocasión a la Federación la solicitud de ser clasificadas nuevamente, dentro de un plazo de 90 días contado a partir de la fecha en que se les hubiese notificado que fueron clasificadas en la citada categoría D, siempre y cuando hayan efectivamente suspendido las operaciones que implican captación de recursos. En caso de que se hubieren subsanado, a satisfacción de la Federación con la opinión del consultor, las circunstancias que las ubicaron en dicha categoría, podrán continuar con el programa de asesoría, capacitación y seguimiento al cual originalmente estaban sujetas, con adecuaciones que resulten pertinentes.
+
+SÉPTIMO.- Las sociedades o asociaciones a que se refiere el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, que al 31 de diciembre de 2008 no estén en posibilidad de solicitar la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidades, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus socios o asociados para su colocación entre éstos.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, excepcionalmente podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2010, aquellas sociedades o asociaciones que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios, con la opinión favorable del consultor con experiencia en finanzas populares contratado por el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo.
+
+Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedades deberán obtener la prórroga en cuestión a más tardar el 31 de diciembre de 2008, siempre que a dicha fecha se encuentren clasificadas en alguna de las Categorías referidas en los incisos a), b) y c) de la fracción IV del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005.
+
+Las sociedades y asociaciones a que hace referencia este artículo, deberán acordar con la Federación a la que se hubiesen afiliado o con la que hayan celebrado contrato de prestación de servicios y con el consultor correspondiente, metas y compromisos periódicos encaminados a la presentación de su solicitud de autorización para organizarse y funcionar como Entidad. Dichos acuerdos deberán ajustarse a lo dispuesto por la Ley de Ahorro y Crédito Popular y la regulación secundaria que de ella derive, en particular a lo relativo a criterios contables, capital mínimo, requerimientos de capitalización, provisionamiento de cartera, control interno y proceso crediticio.
+
+Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que se hubiesen acogido a la prórroga a la que se refiere el presente artículo.
+
+OCTAVO.- Las sociedades o asociaciones referidas en los artículos Quinto y Séptimo anterior, a partir del 1 de enero de 2009 deberán sujetarse a lo siguiente:
+
+I. No podrán incrementar sus activos crediticios en un porcentaje superior al veinte por ciento anual de su valor al 31 de diciembre de 2008, valuados de conformidad con las disposiciones que emita la Comisión Nacional Bancaria y de Valores para Entidades de Ahorro y Crédito Popular con activos por un monto equivalente a los de la sociedad o asociación de que se trate, durante todo el período en el que se sujeten a este régimen;
+
+II. No podrán abrir nuevas sucursales, y
+
+III. No podrán celebrar operaciones distintas a las que les correspondería realizar de acuerdo al Nivel de Operaciones que, en su caso, les podría ser asignado como Entidades de Ahorro y Crédito Popular de acuerdo a su número de activos, ámbito geográfico y número de socios o asociados.
+
+Las asociaciones o sociedades que al 31 de diciembre de 2010 no hubieran solicitado la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidad de Ahorro y Crédito Popular en términos de la Ley de la materia, deberán abstenerse de realizar operaciones que impliquen captación de recursos.
+
+NOVENO.- Las sociedades o asociaciones a que se refieren los artículos Quinto y Séptimo Transitorios de este Decreto podrán distribuir productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con éstos, desde el 1 de enero de 2009 y hasta que la Comisión Nacional Bancaria y de Valores resuelva respecto de su solicitud de autorización, siempre y cuando ésta haya sido presentada en términos del presente Decreto y cumplan con los requisitos siguientes:
+
+I. Estén clasificadas en la categoría a que se refiere el inciso a) de la fracción IV del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, o en la categoría contenida en la fracción I del artículo Tercero Transitorio del presente Decreto, y
+
+II. Se sujeten en todo momento a las reglas de operación de los apoyos, programas o servicios gubernamentales correspondientes, así como a las demás normas o disposiciones o acuerdos que resulten aplicables.
+
+A partir del 1 de enero de 2009, las sociedades y asociaciones que no cumplan con los requisitos previstos en la fracción I de este artículo, deberán abstenerse de distribuir productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos.
+
+Para efectos de lo señalado en el párrafo anterior, las sociedades y asociaciones que se ubiquen en el supuesto señalado en el mismo párrafo, contarán con un plazo de treinta días hábiles, contados a partir del 1 de enero de 2009, para pagar, liquidar, finiquitar o dar por terminadas las operaciones derivadas de los productos, servicios y programas gubernamentales vigentes a esa fecha.
+
+En caso de que en términos de lo previsto en el último párrafo del artículo Sexto Transitorio del presente Decreto, el Banco del Ahorro Nacional y Servicios Financieros, S.N.C., Institución de Banca de Desarrollo, tenga conocimiento de que una sociedad o asociación que realice operaciones de las previstas en este artículo, incumpla con los requisitos establecidos en la fracción I de este precepto, deberá informarlo a la Secretaría de la Función Pública, a fin de que dicha Secretaría, por conducto de los Órganos Internos de Control correspondientes, lo haga del conocimiento de las dependencias, entidades u organismos de la Administración Pública Federal encargadas de la administración y distribución de programas, productos o apoyos gubernamentales.
+
+DÉCIMO.- Para efectos de las evaluaciones que las Federaciones deben llevar a cabo de conformidad con lo dispuesto en los artículos Tercero, Cuarto y Sexto Transitorios de este Decreto, así como en el Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, las Federaciones, con la previa opinión favorable de los consultores a que se hace referencia en los citados preceptos, podrán efectuar modificaciones a la metodología y criterios que en términos de dichos artículos hubiesen formulado, la cual deberá considerar la regulación de carácter prudencial aplicable a Entidades de Ahorro y Crédito Popular que la Comisión Nacional Bancaria y de Valores emita en términos de la Ley de Ahorro y Crédito Popular. Las modificaciones que, en su caso, se efectúen deberán aplicar de forma general y no implicar reducción alguna a los requisitos o estándares originalmente establecidos.
+
+Las Federaciones, con la opinión del consultor referido en el párrafo anterior, podrán modificar la clasificación originalmente asignada a las sociedades o asociaciones que se hubieren sujetado al régimen previsto en el artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, con motivo de la evaluación periódica que en términos del referido precepto deben llevar a cabo.
+
+Las Federaciones deberán incluir en las publicaciones semestrales que deben efectuar en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, un listado en el que se mencionen las sociedades o asociaciones que hayan afiliado o asesoren en términos de lo previsto en la fracción II del artículo Segundo Transitorio de este Decreto y que cumplan con los requisitos señalados tanto en dicho precepto como en los artículos Tercero y Cuarto Transitorios del presente Decreto.
+
+DÉCIMO PRIMERO.- Las asociaciones o sociedades referidas en los artículos Quinto y Séptimo anteriores, que al 31 de diciembre de 2010 no estén en condiciones de presentar a la Comisión Nacional Bancaria y de Valores su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, deberán abstenerse de realizar operaciones que impliquen captación de recursos entre sus asociados o socios.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, podrán continuar llevando a cabo las referidas operaciones hasta el 31 de diciembre de 2012, aquellas asociaciones o sociedades que obtengan una prórroga a su programa de asesoría, capacitación y seguimiento de la Federación a la que se hubieren afiliado o con la que hubieren celebrado contrato de prestación de servicios.
+
+Para efectos de lo previsto en el párrafo anterior, las asociaciones o sociedades deberán obtener la prórroga en cuestión a más tardar el 31 de diciembre de 2010, sujetándose a lo siguiente:
+
+I. Exclusivamente podrán captar recursos de sus asociados o socios mediante préstamos que éstos les otorguen y solamente podrán dar créditos a tales personas;
+
+II. No podrán llevar a cabo las operaciones reservadas para Entidades de Ahorro y Crédito Popular en términos de la Ley de Ahorro y Crédito Popular, ni para cualquier otra entidad financiera que requiera autorización del Gobierno Federal, ni podrán recibir préstamos o créditos de entidades financieras nacionales o extranjeras, fideicomisos públicos u Organismos de Integración; recibir o emitir órdenes de pago en moneda nacional o extranjera; emitir títulos de crédito, en serie o en masa, así como descontar, dar en garantía o negociar dichos títulos; afectar o enajenar los derechos provenientes de los financiamientos que realicen con sus asociados o socios; realizar operaciones por cuenta de sus asociados o socios incluyendo la compra y venta de divisas y operaciones de factoraje financiero; expedir y operar tarjetas de débito, recargables o de crédito, y realizar inversiones en acciones de entidades financieras. Asimismo, no podrán participar en la distribución de productos, servicios y programas gubernamentales, actuar como agentes de pago de los mencionados programas y otorgar créditos o prestar servicios relacionados con aquéllos;
+
+III. Deberán sujetarse a lo dispuesto en el artículo Octavo Transitorio del presente Decreto, y
+
+IV. Presenten a la Comisión su solicitud para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, a más tardar el 31 de diciembre de 2012.
+
+DÉCIMO SEGUNDO.- Las asociaciones o sociedades que tengan por objeto la captación de recursos de sus asociados o socios para su colocación entre éstos, que no se hayan ajustado a lo previsto en los artículos Segundo, Tercero, Cuarto, Quinto, Sexto y Décimo Primero Transitorios de este Decreto, en los términos, plazos y condiciones en ellos señalados, deberán abstenerse de realizar operaciones que impliquen captación de recursos a partir del día siguiente a aquél en el que se verifique algún incumplimiento a lo dispuesto en los citados artículos Transitorios. En caso contrario, se ubicarán en los supuestos de infracción previstos por la ley y por las disposiciones que resulten aplicables.
+
+Las asociaciones o sociedades mencionadas en el párrafo anterior, deberán hacer del conocimiento de sus asociados o socios esta situación, mediante publicación en un periódico de amplia circulación en las plazas en las que operen, así como mediante la colocación de avisos en sus oficinas o sucursales. Lo anterior, sin perjuicio de que la Federación respectiva deberá hacer este hecho del conocimiento público por los mismos medios.
+
+Las instituciones de crédito y casas de bolsa tendrán prohibido celebrar operaciones activas, pasivas o de servicios con las asociaciones o sociedades que se ubiquen en los supuestos de incumplimiento a que se refiere este artículo. Asimismo, dichas instituciones y casas de bolsa, deberán realizar los actos necesarios para rescindir las operaciones que tuvieren contratadas con las referidas asociaciones o sociedades, de conformidad con las disposiciones legales aplicables y acorde a la naturaleza de tales operaciones. La prohibición a que se refiere este párrafo, así como la prohibición a que se refiere el artículo 132 Bis, por lo que respecta a las operaciones de depósito bancario de dinero a la vista, entrará en vigor el 1 de enero de 2010.
+
+Sin perjuicio de lo anterior, las Federaciones proveerán al adecuado cumplimiento y observancia de la Ley de Ahorro y Crédito Popular, cuando detecten que se verifique algún incumplimiento a lo dispuesto en los artículos Segundo, Tercero, Cuarto, Quinto, Sexto y Décimo Primero Transitorios de este Decreto, para lo cual incluirán en las publicaciones a que se refiere el Artículo Décimo Transitorio anterior a las asociaciones y sociedades que se ubiquen en los supuestos de incumplimiento mencionados.
+
+DÉCIMO TERCERO.- No podrán sujetarse al régimen previsto por el artículo Segundo Transitorio del presente Decreto, aquellas sociedades o asociaciones cuyos administradores, consejeros, funcionarios, directivos, gerentes y en general sus representantes, a la entrada en vigor del presente Decreto que: i) se encuentren sujetos a un proceso penal por algún delito patrimonial ya sea del fuero común o del fuero federal relacionado con las actividades realizadas por la sociedad, asociación, unión de crédito, sociedad cooperativa y sociedades de ahorro y préstamo de que se trate, o ii) hayan sido condenados por sentencia irrevocable por la comisión de delito patrimonial ya sea del fuero común o del fuero federal.
+
+Para efectos de lo dispuesto en el párrafo anterior, los administradores, consejeros, funcionarios, directivos, gerentes y en general los representantes que formen parte de las personas morales que hayan decidido acogerse a este beneficio, deberán declarar bajo protesta de decir verdad ante la Federación, dentro del plazo de treinta días hábiles a que se refiere el artículo Segundo Transitorio del presente Decreto, que: (i) no han sido condenados por sentencia irrevocable por la comisión de los delitos señalados en el párrafo anterior y (ii) no están sujetas a algún proceso penal tendiente al fincamiento de responsabilidades legales por cualquiera de los delitos señalados en el párrafo anterior.
+
+DÉCIMO CUARTO.- Las Federaciones autorizadas por la Comisión Nacional Bancaria y de Valores antes de la entrada en vigor del presente Decreto, contarán con un plazo que vencerá el 31 de diciembre de 2010 para tener afiliadas el número mínimo de entidades a que hace referencia el primer párrafo de la fracción I del artículo 53 de la Ley de Ahorro y Crédito Popular.
+
+DÉCIMO QUINTO.- No resultará aplicable el plazo previsto en el artículo 9 de la Ley de Ahorro y Crédito Popular para que la Comisión Nacional Bancaria y de Valores resuelva las solicitudes de autorización para la organización y funcionamiento de Entidades, que la citada Comisión reciba en cumplimiento a lo dispuesto en los artículos Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, Quinto y Décimo Primero Transitorios del presente Decreto.
+
+DÉCIMO SEXTO.- Las Federaciones que a la fecha de entrada en vigor del presente Decreto no hayan constituido los Fondos de Protección en términos de lo dispuesto en el artículo Noveno Transitorio del Decreto por el que se expide la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 4 de junio de 2001, deberán constituir los citados Fondos a más tardar el 31 de diciembre de 2008, por lo que podrán administrar temporalmente los Fondos de Protección hasta dicha fecha. La Comisión Nacional Bancaria y de Valores, a solicitud de la Federación y por única ocasión, podrán otorgar discrecionalmente una prórroga de hasta doce meses para constituir los referidos Fondos de Protección, así como para continuar con su administración y para afiliarse o convenir con una Confederación el traspaso de los recursos que integran dichos fondos.
+
+Las Federaciones que no hubieren constituido los Fondos de Protección en términos de lo previsto por el párrafo anterior, o bien que una vez constituidos no se hubiesen afiliado a una Confederación autorizada o convenido con alguna de éstas el traspaso de los recursos de las Entidades que supervisen de manera auxiliar en el plazo previsto en el párrafo anterior, se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley.
+
+El destino de los recursos que integren los Fondos de Protección administrados por Federaciones a quienes la Comisión Nacional Bancaria y de Valores revoque la autorización para desempeñar la función de supervisión auxiliar, se determinará observando lo dispuesto en el artículo 105 de la Ley.
+
+DÉCIMO SÉPTIMO.- Las Entidades de Ahorro y Crédito Popular autorizadas por la Comisión Nacional Bancaria y de Valores para organizarse y funcionar con tal carácter, cuyos activos a la fecha de entrada en vigor del presente Decreto, valuados de conformidad con las disposiciones aplicables, tengan un valor inferior al monto previsto en la fracción III del artículo 4 Bis de la Ley de Ahorro y Crédito Popular en los términos definidos en este Decreto, mantendrán dicha autorización a menos de que decidan solicitar su revocación a la referida Comisión. En tal caso, solamente podrán llevar a cabo operaciones que impliquen la captación de recursos de sus asociados o socios, con sujeción a lo dispuesto en los artículos 4 Bis, 4 Bis 1 y 4 Bis 3 del citado ordenamiento legal.
+
+DÉCIMO OCTAVO.- Las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, respectivamente, a las sociedades de ahorro y préstamo y uniones de crédito, quedarán sin efecto por ministerio de ley:
+
+I. Tratándose de sociedades de ahorro y préstamo que no hubieren presentado su solicitud de autorización para organizarse y funcionar como Entidad de Ahorro y Crédito Popular, en los términos y dentro de los plazos contenidos en el presente Decreto o bien, habiéndolo hecho, la solicitud hubiese sido denegada.
+
+La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación las autorizaciones que, hayan quedado sin efecto con base en lo previsto en la presente fracción, y
+
+II. Tratándose de sociedades de ahorro y préstamo y uniones de crédito que hubieren obtenido la autorización de la Comisión Nacional Bancaria y de Valores para organizarse y funcionar como Entidad de Ahorro y Crédito Popular e iniciado operaciones con tal carácter.
+
+DÉCIMO NOVENO.- Los procedimientos de revocación de las autorizaciones para la constitución y operación de sociedades de ahorro y préstamo que se encuentren llevando a cabo, y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva por la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento respectivo.
+
+VIGÉSIMO.- El período durante el cual operará el Fideicomiso que Administrará el Fondo para el Fortalecimiento de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores, será hasta que cumpla totalmente con sus fines o se extinga su patrimonio, lo que ocurra primero.
+
+VIGÉSIMO PRIMERO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las cajas que conforman al Sector de Ahorro y Crédito Popular como parte de una campaña de cultura financiera.
+
+VIGÉSIMO SEGUNDO.- Las Comisiones Unidas de Hacienda y Crédito Público y de Fomento Cooperativo y Economía Social de la Cámara de Diputados del Congreso de la Unión realizarán las consultas y estudios necesarios a fin de lograr la actualización de la regulación de las sociedades cooperativas que no realizan intermediación financiera, de acuerdo a su naturaleza, a más tardar el 30 de noviembre de 2007.
