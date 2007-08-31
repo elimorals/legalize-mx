@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2006-02-24"
+last_updated: "2007-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -2073,6 +2073,22 @@ Las personas a que se refiere el primer párrafo de este artículo, deberán cub
 
 Se entiende por actividades agrícolas, ganaderas, pesqueras y silvícolas, las referidas en el Código Fiscal de la Federación.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+###### ARTICULO 181.
+
+Estarán exentos del setenta por ciento del impuesto sobre remuneraciones al trabajo personal, por los pagos por remuneraciones al trabajo personal, que efectúen las personas físicas o morales, que se identifiquen como necesarios para la realización de los siguientes actos o actividades:
+
+Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, excepto las operaciones de maquila y submaquila para exportación en los términos del inciso b) de la fracción IV del artículo 29 de la Ley del Impuesto al Valor Agregado.
+
+Enajenación de bienes o prestación de servicios, que se realicen por residentes en el Estado, a quien resida en una entidad federativa de este país, distinta a Baja California, siempre que la entrega material de bienes o prestación de servicios se lleve a cabo fuera del Estado.
+
+Cuando los pagos por concepto de remuneraciones al trabajo personal no sean plenamente identificables como necesarios para la realización de los actos o actividades a que se refiere este artículo, se podrán considerar como tales en el por ciento que representen respecto del total de los realizados en el período correspondiente.
+
+Las personas a que se refiere el primer párrafo de este artículo, deberán cubrir el impuesto adicional para la educación media y superior y los accesorios que en su caso se generen, sobre el total del impuesto sobre remuneraciones al trabajo personal que se cause, sin considerar la exención prevista en este Artículo. Asimismo, deberán cumplir las obligaciones previstas en el artículo 151-20 de esta Ley.
+
+La exención a que se refiere este artículo no será aplicable a las personas físicas o morales que se encuentren gozando de algún otro estímulo fiscal en los términos de esta Ley.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -2469,17 +2485,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 
 ###### ARTÍCULO SEGUNDO.
 
-Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas, hubieren sido sujetas de los beneficios que se encontraban previstos en el Artículo Segundo Transitorio, del Decreto No. 55, publicado en el Periódico Oficial del Estado, en fecha 10 de junio de 2005 seguirán gozando de los mismos, siempre y cuando continúen realizando las operaciones por las que les correspondió dicho beneficio, en los siguientes porcentajes:
-
-I. Durante el ejercicio fiscal 2006 en un 90%;
-
-II. Durante el ejercicio fiscal 2007 en un 80%, y
-
-III, Durante el ejercicio fiscal 2008 en un 70%.
-
-Estos beneficios no serán aplicables a las Empresas que reciban un estímulo fiscal, en los términos del artículo 175 de la Ley de Hacienda del Estado de Baja California.
-
-Se condona a los contribuyentes a que se refiere este artículo, del pago del impuesto sobre remuneraciones al trabajo personal causado del primero de enero de 2006 hasta la entrada en vigor de la presente reforma, en el porcentaje que sea necesario para alcanzar la exención establecida en la fracción I.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO TERCERO.
 
@@ -2494,3 +2500,21 @@ Una vez transcurrido el plazo de noventa días previstos en el párrafo anterior
 ###### ARTÍCULO QUINTO.
 
 Se condona a los contribuyentes a que se refiere el artículo 180 de esta reforma, del pago del impuesto sobre remuneraciones al trabajo personal causado del primero de enero de 2006 hasta la entrada en vigor de este Decreto, en los mismos términos y porcentajes que se establecen en dicho artículo.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el ejercicio fiscal del año 2007, se aplicará el porcentaje de 80% (ochenta por ciento), para la exención del impuesto sobre remuneraciones al trabajo personal, que prevé el artículo 181 que se adiciona a la Ley de Hacienda del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+Se condona a los contribuyentes a que se refiere el artículo 181 que se adiciona a la Ley de Hacienda del Estado de Baja California, del pago del impuesto sobre remuneraciones al trabajo personal causado desde el primero de enero de 2007 hasta la entrada en vigor de este Decreto, en el porcentaje previsto en el artículo que antecede.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el artículo segundo transitorio del Decreto número 185, publicado en el Periódico Oficial del Estado, el día 24 de febrero de 2006.
