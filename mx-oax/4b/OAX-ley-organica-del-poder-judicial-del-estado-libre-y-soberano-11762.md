@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "2006-12-30"
+last_updated: "2007-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -67,13 +67,15 @@ I. El Pleno del Honorable Tribunal Superior de Justicia del Estado;
 
 II. Las Salas Especializadas en razón de la materia;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-III. Los Juzgados de Primera Instancia en las materias civil, penal, familiar, de garantía y juicio oral, especializados para adolescentes, de ejecución de sanciones y, mixtos;
+III. Las Salas Regionales y Tribunales Unitarios;
 
-IV. Las Salas Regionales y Tribunales Unitarios;
+(REFORMADA, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
-V. Los Juzgados de Primera Instancia; y
+IV. Los Juzgados de Primera Instancia en las materias Civil, Penal, Familiar, de Garantía o de Control de Legalidad, de Juicio Oral para Adultos y Especializados para Adolescentes, de Ejecución de Sanciones y Mixtos; y (sic)
+
+V. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 VI. El Jurado de Ciudadanos.
 
@@ -85,9 +87,11 @@ VI. El Jurado de Ciudadanos.
 
 El Tribunal Superior de Justicia, se integrará con el número de Magistrados que requieran sus necesidades y que le permita su presupuesto de egresos.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 6.
 
-El Tribunal Superior de Justicia, funcionará en Pleno y en Salas Centrales, Auxiliar, Regionales y Tribunales Unitarios; tendrá anualmente dos períodos de sesiones con sus respectivos recesos, que serán determinados por el Pleno.
+El Tribunal Superior de Justicia, funcionará en Pleno y en Salas Centrales, Regionales y Tribunales Unitarios.
 
 ###### ARTICULO 7.
 
@@ -141,21 +145,33 @@ Son facultades exclusivas del Pleno, además de las que la Constitución del Est
 
 I. Vigilar la autonomía e independencia del Poder Judicial del Estado;
 
-II. Conocer de los conflictos que surjan entre las distintas Salas del Tribunal Superior; los miembros de la Sala en conflicto tendrán voz pero no voto;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+II. Conocer de los conflictos que surjan entre las distintas Salas del Tribunal Superior y los que surjan entre los miembros de una misma Sala; los miembros de las Salas o Sala de que se trate tendrán voz pero no voto; y en consecuencia, para estos efectos no podrá integrar Pleno al momento de la resolución de dicho conflicto, debiéndose notificar dicha resolución a los Magistrados en conflicto en un plazo no superior a veinticuatro horas;
 
 III. Conocer de la recusación o excusa conjunta de los Magistrados de una Sala;
 
 IV. Calificar en cada caso los impedimentos o excusas que sus miembros presenten, para conocer de asuntos de la competencia del Pleno;
 
-V. Determinar, a propuesta de la Presidencia, el número de Salas en que funcionará el Tribunal Superior y el número de Magistrados que las integrarán;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-VI. Acordar, cuando el presupuesto lo permita y las necesidades de la función jurisdiccional lo exija, la creación de la Sala Auxiliar y de las Salas Regionales o Tribunales Unitarios;
+V. Determinar, a propuesta del Presidente, especialidad y ámbito de competencia de las Salas del Tribunal Superior, así como el número de Magistrados que las integrarán;
 
-VII. Determinar el número y especialización por materia de los Juzgados, según las necesidades de la pronta y eficaz administración de justicia;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-VIII. Determinar cuando fuere necesario, el número de los Distritos Judiciales;
+VI. Acordar, cuando el presupuesto lo permita y las necesidades de la función jurisdiccional lo exija, la creación de Salas Colegiadas o Unitarias;
 
-IX. Cambiar, transitoria o permanentemente, la residencia de los Juzgados;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VII. Acordar dentro de las posibilidades presupuestales, la conformación de Juzgados, por los Jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma Unitaria o Colegiada de conformidad con lo dispuesto por la Ley. En esto casos el Pleno designará a propuesta del Presidente a uno de los Jueces en calidad de coordinador;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+VIII. Determinar el número y ámbito de competencia de los Circuitos y de los Distritos Judiciales;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IX. Cambiar, transitoria o permanentemente, la residencia de los órganos jurisdiccionales;
 
 X. Emitir los acuerdos que sean necesarios para:
 
@@ -169,9 +185,13 @@ XII. Nombrar cuando se estime conveniente, Comisiones permanentes o transitorias
 
 XIII. Designar, a propuesta de la Presidencia, al o a los Servidores Públicos que habrán de fungir como Visitador o como Visitadores;
 
-XIV. Nombrar a los Jueces a propuesta de la Presidencia;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-XV. Conocer de las renuncias y conceder licencias no administrativas a los Magistrados, Jueces y demás Servidores Públicos del Poder Judicial del Estado, en los términos que prevé la Constitución Política del Estado;
+XIV. Nombrar, a propuesta del Presidente mediante concurso público a los Jueces;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+XV. Conocer de las renuncias y licencias de Magistrados y Jueces en términos del capítulo VII de este Título;
 
 XVI. Examinar y, en su caso, aprobar oportunamente a petición de la Presidencia, el proyecto anual del presupuesto de egresos del Poder Judicial;
 
@@ -179,7 +199,9 @@ XVII. Proponer, y en su caso nombrar, a instancia del Presidente del Tribunal, a
 
 XVIII. Promover por conducto de la Presidencia, Iniciativas de Ley, en los términos que prevenga la Constitución Política del Estado;
 
-XIX. Aprobar los Reglamentos que regulen la organización y funcionamiento del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+XIX. Aprobar los Reglamentos y otros acuerdos que regulen la organización y funcionamiento del Poder Judicial del Estado;
 
 XX. Aprobar el Programa Anual de estímulos y recompensas de los Servidores Públicos del Poder Judicial del Estado;
 
@@ -231,6 +253,10 @@ c).- Los proyectos de Acuerdos generales conducentes al mejoramiento de la admin
 
 IX. Nombrar a los Secretarios Judiciales de Acuerdos, de Estudio y Cuenta y Ejecutores de las Salas y de los Juzgados;
 
+(ADICIONADA, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
+IX bis. Nombrar al Coordinador y Administradores de los Juzgados de Garantía o de Control de Legalidad, y de los Tribunales de Juicio Oral;
+
 X. Proponer al Pleno, a los Magistrados y demás Servidores Públicos del Poder Judicial, que deban integrar los Organismos especializados que prevengan las Leyes que resulten aplicables;
 
 XI. Nombrar a los titulares y demás Servidores Públicos de las Unidades Auxiliares de la Presidencia y removerlos con justa causa;
@@ -245,7 +271,9 @@ XV. Cuidar que los Magistrados Presidentes de las Salas y los Jueces rindan los 
 
 XVI. Presentar a consideración del Pleno, oportunamente el anteproyecto del presupuesto de egresos del Poder Judicial;
 
-XVII. Conceder licencias a los Magistrados, Jueces y demás Servidores Públicos del Poder Judicial, en los términos previstos en la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+XVII. Conceder licencias a los servidores públicos del Poder Judicial en termino del capítulo VII de este Título;
 
 XVIII. Imponer sanciones a los Servidores Públicos del Poder Judicial, en los casos de su competencia de acuerdo con la presente Ley;
 
@@ -253,7 +281,9 @@ XIX. Administrar los recursos humanos, financieros y materiales y ejercer las pa
 
 XX. Dar cuenta al Pleno, al término de cada período de sesiones y cuantas veces sea requerido para ello, de todos los actos que lleve a cabo en el ejercicio de sus funciones;
 
-XXI. Informar anualmente, en el mes de noviembre, a la ciudadanía Oaxaqueña, en presencia de los otros Poderes, del estado que guarda la administración de justicia;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+XXI. Presentar un informe anual en sesión solemne del Pleno, sobre el estado que guarda la Administración de Justicia;
 
 XXII. Publicar los Acuerdos generales del Pleno y los propios. En cada caso se indicará la forma de publicación;
 
@@ -273,17 +303,27 @@ Las ausencias del Magistrado Presidente de Sala serán cubiertas por el Magistra
 
 Las Salas del Honorable Tribunal Superior de Justicia del Estado, conocerán de los recursos y medios de impugnación que la ley de la materia determine, en los procesos seguidos en los Juzgados de todo el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 17.
 
-Las audiencias de vista serán públicas, salvo lo previsto en el párrafo tercero del Artículo 11 de esta Ley y se celebrarán diariamente en días hábiles.
+Salvo disposición contraria de la ley, las audiencias de vista serán públicas, y se celebrarán en días hábiles.
 
 Las resoluciones de las Salas se tomarán por unanimidad o mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra particular y razonado.
 
-En los términos de esta Ley, de su Reglamento y de la adjetiva que resulte aplicable, las Salas aplicarán correcciones disciplinarias a los Jueces, Secretarios Judiciales de Acuerdos, de Estudio y Cuenta y Ejecutores, cuando aparezca que incurrieron en faltas o irregularidades en los asuntos que se revisan, remitiendo constancia al expediente personal del infractor y poniendo el caso en conocimiento del Pleno o del Presidente, según proceda para los efectos legales pertinentes.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+En los términos de esta Ley, de su Reglamento y de la adjetiva que resulte aplicable, las Salas aplicarán correcciones disciplinarias a los Secretarios Judiciales de Acuerdos, de Estudio y Cuenta y Ejecutores, cuando aparezca que incurrieron en faltas o irregularidades en los asuntos que se revisan, o remitiran de inmediato, las constancias conducentes a la Visitaduría para los efectos legales pertinentes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+Las irregularidades atribuidas a los Jueces por faltas a la función pública serán conocidas en todos los casos por la Visitaduría del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 18.
 
-Las Salas del Honorable Tribunal Superior de Justicia del Estado, tendrán el siguiente ámbito de competencia:
+Las Salas del Honorable Tribunal Superior de Justicia del Estado que se establezcan, atendiendo a las necesidades del servicio y a los recursos disponibles, tendrán el siguiente ámbito de competencia:
 
 I. Las Centrales, conocerán de los recursos que la Ley de la materia determine en los procesos seguidos en los juzgados de los Distritos Judiciales del Centro, Etla, Ocotlán, Zimatlán, Ejutla, Miahuatlán, Zaachila, Nochixtlán, Sola de Vega, Tlacolula, San Carlos Yautepec, lxtlán, Villa Alta, Choapam, Teotitlán, Huautla, Cuicatlán y Zacatepec Mixe;
 
@@ -295,7 +335,7 @@ IV. La Regional con residencia en la Ciudad de Tuxtepec, conocerá de los recurs
 
 V. La Regional con residencia en Puerto Escondido, conocerá de los recursos que la Ley de la materia determine en los procesos seguidos en los Juzgados de los Distritos Judiciales de Puerto Escondido, Pinotepa Nacional, Jamiltepec, Juquila, Pochutla, Santa Cruz y Santa María Huatulco; y
 
-VI. La Auxiliar será mixta y conocerá de los asuntos que en auxilio de las Centrales determine el Pleno.
+VI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 ###### ARTICULO 19.
 
@@ -303,9 +343,13 @@ Las Salas conocerán además:
 
 I. De acuerdo a su especialidad y en su caso las Mixtas, de los conflictos competenciales, de las recusaciones y excusas de los Jueces de Primera Instancia;
 
-II. Las Salas Penales o Mixtas de las solicitudes de declaración de inocencia y de los Juicios de Amparo que se promuevan en contra de actos de los Jueces de Primera Instancia, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos y las Civiles o Mixtas en su caso, de los Juicios de Responsabilidad que se promuevan en contra de los Jueces; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-III. El ámbito de competencia de los Tribunales Unitarios se determinará según su lugar de residencia, siguiendo las reglas establecidas en el artículo 18.
+II. Las Salas Penales o Mixtas de las solicitudes de reconocimiento de inocencia y de los Juicios de amparo que se promuevan en contra de actos de los Jueces de Primera Instancia, en los términos de la fracción XII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos y las Civiles o Mixtas en su caso, de los Juicios de Responsabilidad que se promuevan en contra de los Jueces; y
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la Primera Instancia. En materia penal, con excepción de lo dispuesto en la Ley de Justicia para Adolescentes, el recurso de casación deberá ser conocido por Magistrados que no hubieren intervenido en el mismo asunto en apelación; y la solicitud de reconocimiento de inocencia deberán conocerla magistrados que no hubieren intervenido antes en el mismo asunto.
 
 ###### ARTICULO 20.
 
@@ -441,27 +485,69 @@ II. Las labores que les encomiende la Superioridad en todo lo referente al servi
 
 III. Las demás que les señale esta Ley y el Reglamento. En ausencia del Ejecutor, el Secretario de Acuerdos asumirá sus funciones.
 
-### CAPITULO I. DEL TERRITORIO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VII. DE LAS LICENCIAS
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 31 BIS.- Las licencias podrán ser ordinarias, extraordinarias y especiales.
+
+I. Son ordinarias aquéllas que se concedan hasta por treinta días, en cuyo caso serán otorgadas por el Presidente del Tribunal Superior de Justicia;
+
+II. Son extraordinarias aquéllas que se concedan por mas de treinta días y hasta por un máximo de un año, en cuyo caso serán otorgadas por el Pleno; y
+
+III. Son especiales y serán otorgadas por el Pleno, las que se concedan por razón de capacitación, actualización, especialización u otra análoga, por elección popular, así como las que se otorguen por razón de comisiones a desarrollarse en el propio Poder Judicial; en estos casos, el término de la licencia será por el tiempo que duren los estudios o la comisión.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 31 TER.- Salvo la licencia a la que se refiere la fracción II del artículo siguiente, no podrá concederse nueva licencia si no se ha laborado cuando menos, un tiempo igual al de la duración a una licencia previa, contado a partir de la reincorporación del servidor publico a sus actividades.
+
+En las licencias extraordinarias otorgadas con una duración de un año, el término para conceder una nueva licencia por más de quince días, será de un año.
+
+La concesión o negativa de las licencias estará condicionada al normal desarrollo del servicio de administración de justicia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 31 QUÁTER.- En todo caso, las licencias se entenderán otorgadas sin goce de sueldo. Independientemente de lo previsto por otras disposiciones aplicables, sólo se concederán licencias con goce de sueldo a juicio de quien deba otorgarlas, si:
+
+I. Es de uno a tres días máximo, en un plazo de cuatro meses, y sin que pueda exceder de nueve días al año, sin importar la causa;
+
+II. Se concede por razón de capacitación, actualización, especialización u otra análoga, y se concederá por el tiempo que duren los estudios, los que deberán justificarse a través de un reporte escrito, conferencias o cualquier otro medio de multiplicación del conocimiento adquirido.
+
+Además, previo a la concesión de la licencia, el solicitante deberá suscribir una carta compromiso en la que se obligue a continuar laborando para el Poder Judicial por un plazo igual al doble del tiempo de la licencia que en su caso se le conceda.
+
+El incumplimiento de lo establecido en el párrafo anterior dará lugar a la devolución por parte del servidor público de todas aquellas percepciones que por cualquier concepto le hubieren sido suministradas por el Tribunal en el plazo de licencia;
+
+III. Se solicita por causa de muerte de cónyuge, padres o hijos, hasta por diez días;
+
+IV. Se solicita por enfermedad grave de alguno de los acreedores alimentarios hasta por un máximo de cinco días, sin que pueda concederse más de tres licencias de este tipo en el lapso de un año; y,
+
+V. Las que se otorguen para comisiones que deban desarrollarse dentro del propio Poder Judicial, serán por el tiempo que dure dicha comisión.
 
 ## TITULO TERCERO. DE LOS DISTRITOS JUDICIALES
 
-### CAPITULO II. DE LOS JUZGADOS
+### CAPITULO I. DEL TERRITORIO
+
+(REFORMADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 ###### ARTICULO 32.
 
-En el Estado habrá los Juzgados Penales, Civiles, Familiares, Especializados de Adolescentes, de Ejecución de Sanciones y Mixtos que sean necesarios para la pronta y expedita administración de justicia.
+En el Estado habrá los Juzgados Penales, Civiles, Familiares, de Garantía o de Control de Legalidad, de Juicio Oral para Adultos, Especializados para Adolescentes, de Ejecución de Sanciones y Mixtos que sean necesarios para la pronta y expedita administración de justicia.
 
-Los Juzgados de Adolescentes serán de Garantía, de Juicio y de Ejecución de Medida Sancionadora.
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-Los Juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en distritos judiciales en la forma y términos que determine el Pleno.
+La jurisdicción de primera instancia en materia penal adversarial oral y de justicia para adolescentes comprende a los Jueces de Garantía o de Control de Legalidad, a los de Juicio Oral y de Ejecución.
+
+Los Juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en circuitos y distritos judiciales en la forma y términos que determine el Pleno.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 33.
 
-Para determinar el territorio competencial de los Juzgados y de los Distritos Judiciales, el Pleno del Tribunal Superior de Justicia del Estado atenderá a las condiciones geográficas y a la facilidad de las comunicaciones entre los centros de población, sin afectar las categorías y denominaciones políticas de tales centros.
+Para determinar el territorio competencial de los Juzgados, de los Circuitos y Distritos Judiciales, el Pleno del Tribunal Superior de Justicia del Estado atenderá a las condiciones geográficas y a la facilidad de las comunicaciones entre los centros de población, sin afectar las categorías y denominaciones políticas de tales centros.
 
-### CAPITULO III. DE LOS JUECES, SECRETARIOS Y EJECUTORES
+### CAPITULO II. DE LOS JUZGADOS
 
 ###### ARTICULO 34.
 
@@ -473,7 +559,11 @@ Los Secretarios de Acuerdos, serán sustituidos por el Secretario de Estudio y C
 
 En ausencia del Ejecutor, el Secretario de Acuerdos, ejercerá las funciones que le correspondan al ausente.
 
-### CAPITULO IV. DEL JURADO DE CIUDADANOS
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 34 BIS.- Los Juzgados de Garantía, Control de Legalidad, Especializados para Adolescentes y de Ejecución de Sanciones, se integrarán por un Juez para conocer del caso; los de Juicio Oral para Adultos siempre con tres jueces; lo anterior sin perjuicio de lo dispuesto en la fracción VII del artículo 13 de esta Ley.
+
+### CAPITULO III. DE LOS JUECES, SECRETARIOS Y EJECUTORES
 
 ###### ARTICULO 35.
 
@@ -485,49 +575,89 @@ II. Tener cuando menos, 25 años de edad en la fecha de su nombramiento título 
 
 III. Tener dos años de ejercicio profesional cuando menos, el día de su nombramiento y aprobar el curso de especialización judicial y un examen de oposición teórico y práctico en sesión pública ante jurado de Magistrados, designados por el Presidente del Tribunal;
 
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III BIS. Satisfacer los requisitos que exija la carrera judicial;
+
 IV. Pertenecer preferentemente al Poder Judicial del Estado y en su caso haberse desempeñado con la categoría de Secretario de Acuerdos o de Estudio y Cuenta, sin notas de demérito en su expediente; y
 
-V. No haber sido condenado por la comisión de algún delito, excepto culposos por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol o alguna droga o enervante.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+V. No haber sido condenado por la comisión de algún delito, excepto culposos por tránsito de vehículos, salvo que en este último caso se haya cometido bajo los influjos del alcohol o alguna droga o enervante.
 
 Los Jueces serán responsables por la función pública encomendada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y de esta Ley; en consecuencia en cualquier tiempo se les podrá fincar responsabilidades.
 
 Durarán en su función cuatro años, al término de los cuales, si fueren ratificados, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezcan las Leyes aplicables.
 
-La inamovilidad del Juez se da en su relación laboral con el Poder Judicial, la que se respetará íntegramente, salvo por las causas que determine esta Ley; podrán ser rotados de un Distrito Judicial a otro o en el mismo Distrito Judicial aún de una materia a otra, según las necesidades del servicio o cuando lo determine la Presidencia del Tribunal.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+La inamovilidad del Juez se da en su relación laboral con el Poder Judicial, la que se respetará íntegramente, salvo por las causas que determine esta Ley; podrán ser rotados de un Distrito Judicial a otro o en el mismo Distrito Judicial aún de una materia a otra, según las necesidades del servicio.
 
 ###### ARTICULO 36.
 
 Son atribuciones de los Jueces:
 
-I. Conocer en primera instancia de los asuntos penales, civiles, mercantiles y familiares en el orden común y auxiliar a los Tribunales Federales, cuando para ello sean requeridos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+I. Conocer en primera instancia de los asuntos penales, responsabilidad para adolescentes, civiles, mercantiles y familiares en el orden común y auxiliar a los Tribunales Federales, cuando para ello sean requeridos;
 
 II. Calificar las excusas y recusaciones de sus Secretarios Judiciales y de los Peritos ante él designados;
 
-III. Cumplir inmediatamente las instrucciones de la superioridad;
+III. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 IV. Diligenciar los exhortos, despachos, requisitorias y suplicatorias, dentro de los plazos legales;
 
-V. Llevar al corriente los libros de control que ordene la superioridad;
+V. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
-VI. Recibir y entregar el Juzgado con formal inventario;
+VI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 VII. Practicar visitas por lo menos una vez cada quince días si son Jueces Penales o Mixtos a los reclusorios de su territorio, levantando acta, la que remitirán desde luego al Presidente del Tribunal Superior de Justicia;
 
-VIII. Ser el Jefe Administrativo del Juzgado, por ende:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-a).- Vigilar que el Juzgado a su cargo preste la atención al público en general, de lunes a viernes y sábados, en los horarios que establezca el Reglamento de esta Ley;
+VIII. Salvo en los supuestos señalados en el artículo siguiente, ser el Jefe Administrativo del Juzgado, y en este último caso le corresponde:
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+a).- Vigilar que el Juzgado a su cargo preste la atención al público;
 
 b).- En caso de notoria urgencia, conceder licencias económicas hasta por tres días al personal a su cargo, informando a la Dirección de Administración del Tribunal Superior de Justicia;
 
-c).- Aplicar las sanciones previstas en las fracciones I y II de los artículos 80 y 81 de esta Ley, dando cuenta de inmediato a la Dirección de Administración del Tribunal Superior de Justicia, reportando las faltas graves al Pleno o al Presidente de dicho Tribunal para los efectos a que haya lugar;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
-IX. Proporcionar oportunamente al Pleno, al Presidente del Tribunal Superior de Justicia, a las Unidades Auxiliares de la Presidencia, Autoridades Federales o Estatales los datos estadísticos que le soliciten;
+c).- Proporcionar oportunamente al Pleno, al Presidente del Tribunal Superior de Justicia, a las Unidades Auxiliares de la Presidencia, Autoridades Federales o Estatales los datos estadísticos que le soliciten;
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+d).- Remitir al Archivo General del Poder Judicial, los expedientes que de acuerdo al Reglamento deban ser depositados en dicho Archivo;
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+e).- Remitir dentro del improrrogable plazo de setenta y dos horas al Fondo para la Administración de Justicia, las cantidades que les sean entregadas por concepto de multas, fianzas, depósitos y consignaciones; de no hacerlo se le aplicarán las sanciones previstas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+f).- Cumplir las instrucciones administrativas de los órganos competentes;
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+g).- Llevar al corriente los libros de control que disponga el órgano competente; y
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+h).- Recibir y entregar el Juzgado con formal inventario;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IX. Aplicar las sanciones previstas en las fracciones I y II de los artículos 80 y 81 de esta Ley, dando cuenta de inmediato a la Dirección de Administración del Tribunal Superior de Justicia, reportando las faltas graves al Pleno o al Presidente de dicho Tribunal para los efectos a que haya lugar;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE AGOSTO DE 2007)</small>
 
 X. Decretar en casos urgentes, el cambio de lugar de reclusión de los procesados que se encuentren a su disposición;
 
-XI. Remitir al Archivo General del Poder Judicial, los expedientes que de acuerdo al Reglamento deban ser depositados en dicho Archivo;
+XI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
-XII. Remitir dentro del improrrogable plazo de setenta y dos horas al Fondo para la Administración de Justicia, las cantidades que les sean entregadas por concepto de multas, fianzas, depósitos y consignaciones; de no hacerlo se le aplicarán las sanciones previstas en esta Ley; y
+XII. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 Xlll. Las demás que les confiera el Pleno del Tribunal Superior de Justicia, esta Ley y su Reglamento.
 
@@ -543,11 +673,57 @@ Los Jueces residirán en el domicilio donde se ubique el Juzgado al que estén a
 
 Cuando el Juez tuviera impedimento legal para conocer en determinados asuntos, será sustituido por el Juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la Sala que conozca del impedimento.
 
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
+ARTICULO 39 BIS.- En los Juzgados de Garantía o Control de Legalidad y en los Tribunales de Juicio Oral deberá nombrarse un administrador, con las siguientes atribuciones:
+
+I. Dirigir las labores administrativas del Juzgado de su adscripción;
+
+II. Vigilar y controlar el buen desempeño de los funcionarios y empleados a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV. Remitir a la Presidencia del Tribunal Superior, un informe estadístico anual dentro de los primeros cinco días hábiles del mes de enero y otro mensual en igual término sobre los trámites realizados en los juzgados o tribunales, siendo sujeto de responsabilidad administrativa por omisión;
+
+V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos;
+
+VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+
+VIII. Distribuir los asuntos entre los jueces por turno riguroso, respetando la agenda previamente establecida; y
+
+IX. Las demás que determinen las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTÍCULO 39 TER.- Para ser administrador se requiere:
+
+I. Ser mayor de veinticinco años;
+
+II. Ser profesionista titulado, con experiencia en la Administración Pública;
+
+III. No haber sido condenado por la comisión de algún delito, excepto culposos por tránsito de vehículos, salvo que en este último caso se haya cometido bajo los influjos del alcohol o alguna droga o enervante.
+
 ###### ARTICULO 40.
 
 Los requisitos para ser Secretario de Acuerdos, de Estudio y Cuenta y Ejecutores, así como sus respectivas atribuciones, serán los que establezca el Reglamento.
 
-### CAPITULO I. DE LOS ALCALDES
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 40 BIS.- Los Juzgados se integrarán con los Jueces, secretarios, auxiliares, funcionarios y empleados que sean necesarios para el servicio público, conforme determine el Pleno del Tribunal Superior y autorice el presupuesto.
+
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+Los Juzgados de Garantía o Control de Legalidad y Tribunales Orales, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del Juzgado y Tribunal.
+
+El Pleno podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 40 TER.- En el proceso penal adversarial oral, los Jueces y Magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
+
+### CAPITULO IV. DEL JURADO DE CIUDADANOS
 
 ###### ARTICULO 41.
 
@@ -567,7 +743,7 @@ El Poder Judicial dispondrá de una partida presupuestal para cubrir una remuner
 
 ## TITULO CUARTO. DE LOS AUXILIARES DEL PODER JUDICIAL
 
-### CAPITULO II. DE LA DIRECCION DE SERVICIOS PERICIALES
+### CAPITULO I. DE LOS ALCALDES
 
 ###### ARTICULO 45.
 
@@ -577,9 +753,7 @@ Todos los demás Servidores Públicos del Estado, son Auxiliares de la Administr
 
 En los lugares en los que no exista la figura Jurídica del Alcalde, serán auxiliares del Poder Judicial, las Autoridades Comunitarias de los Pueblos y Comunidades Indígenas en los términos de los Artículos 16 y 138 Bis A de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley Reglamentaria respectiva.
 
-### CAPITULO III. DEL CENTRO DE MEDIACION JUDICIAL
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO II. DE LA DIRECCION DE SERVICIOS PERICIALES
 
 ###### ARTICULO 46.
 
@@ -597,7 +771,9 @@ La organización y estructura de la Dirección de Servicios Periciales, se estab
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO I. DE LA ADMINISTRACION INTERNA
+### CAPITULO III. DEL CENTRO DE MEDIACION JUDICIAL
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 48.
 
@@ -665,7 +841,7 @@ El Centro de Mediación Judicial podrá tener sedes regionales que serán asigna
 
 ## TITULO QUINTO
 
-### CAPITULO II. DE LA VISITADURIA
+### CAPITULO I. DE LA ADMINISTRACION INTERNA
 
 ###### ARTICULO 52.
 
@@ -689,11 +865,17 @@ VI. El Instituto de Capacitación y Especialización del Poder Judicial y de la 
 
 VII. La Dirección del Fondo para la Administración de Justicia;
 
-VIII. La Dirección de Archivo y Boletín Judicial; y
+VIII. La Dirección de Archivo y Boletín Judicial; y (sic)
 
-IX. Los demás que requieran el funcionamiento de la Administración Interna y autorice el presupuesto de egresos.
+(ADICIONADA, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
-### CAPITULO III. DE LA DIRECCION DE CONTRALORÍA INTERNA
+IX. La Coordinación administrativa de los Juzgados de Garantía o Control de Legalidad y Tribunal Oral; y,
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+X. Los demás que requieran el funcionamiento de la administración interna y autorice el presupuesto de egresos.
+
+### CAPITULO II. DE LA VISITADURIA
 
 ###### ARTICULO 54.
 
@@ -701,19 +883,23 @@ La Visitaduría estará a cargo de uno o más visitadores y tiene las atribucion
 
 I. Practicar visitas generales o especiales a las diversas dependencias del Poder Judicial, para verificar el cumplimiento de las disposiciones legales y las emitidas por el Pleno o por la Presidencia del Tribunal Superior de Justicia;
 
-II. Atender las quejas y denuncias, formuladas por el público ó por los titulares de las distintas Areas del Poder Judicial, relativas a las faltas de los Servidores Públicos Judiciales y darles el trámite correspondiente;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+II. Atender las quejas y denuncias, formuladas por el público ó por los titulares de las distintas áreas del Poder Judicial, relativas a las faltas a la función pública encomendada a los servidores públicos judiciales y darles el trámite correspondiente;
 
 III. Iniciar, diligenciar y resolver el instructivo de responsabilidad, aplicando la sanción correspondiente, en los términos previstos en esta Ley y en su Reglamento, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho; y
 
 IV. Las demás que le señale el Reglamento y la Presidencia del Tribunal Superior de Justicia.
 
-### CAPITULO IV. DE LA DIRECCION DE PLANEACION
+### CAPITULO III. DE LA DIRECCION DE CONTRALORÍA INTERNA
 
 ###### ARTICULO 55.
 
 La Dirección de Contraloría Interna, estará a cargo de un profesionista de la Contaduría y tiene las siguientes atribuciones:
 
-I. Practicar las Auditorías Financieras, Operacionales, de Resultados de Programas, de Legalidad, Contables, Administrativas, de Supervisión Física; fincar, cuando proceda, la responsabilidad respectiva a los Servidores Públicos del Poder Judicial, remitiendo el resultado al Presidente del Tribunal Superior de Justicia y al titular del Area respectiva;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+I. Practicar las auditorías financieras, operacionales, de resultados de programas, de legalidad, contables, administrativas, de supervisión física; fincar, cuando proceda, la responsabilidad administrativa resarcitoria a los servidores públicos del Poder Judicial, remitiendo el resultado al Presidente del Tribunal Superior de Justicia y al titular del área respectiva;
 
 II. Intervenir en la entrega y recepción de bienes cuando ocurran cambios de titulares de las diversas Areas del Poder Judicial elaborando el acta respectiva;
 
@@ -727,7 +913,7 @@ VI. Recibir la declaración de la situación patrimonial de los Servidores Públ
 
 VII. Las demás que le señale el Reglamento y la Presidencia del Tribunal Superior de Justicia.
 
-### CAPITULO V. DE LA DIRECCION DE ADMINISTRACION
+### CAPITULO IV. DE LA DIRECCION DE PLANEACION
 
 ###### ARTICULO 56.
 
@@ -745,7 +931,7 @@ V. Coordinar la vigilancia y evaluación del ejercicio del gasto y del presupues
 
 VI. Las demás que le señale el Reglamento y la Presidencia del Tribunal Superior de Justicia.
 
-### CAPITULO VI. DE LA DIRECCION DE FINANZAS
+### CAPITULO V. DE LA DIRECCION DE ADMINISTRACION
 
 ###### ARTICULO 57.
 
@@ -769,7 +955,7 @@ VIII. Recibir, resguardar, controlar y, en su caso, administrar previa orden del
 
 IX. Las demás que le señale el Reglamento y la Presidencia del Tribunal Superior de Justicia.
 
-### CAPITULO VII. DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
+### CAPITULO VI. DE LA DIRECCION DE FINANZAS
 
 ###### ARTICULO 58.
 
@@ -787,7 +973,7 @@ V. Instrumentar y operar conjuntamente con el Director del Fondo para la Adminis
 
 VI. Las demás que le señalen el Reglamento y la Presidencia del Tribunal Superior de Justicia.
 
-### CAPITULO VIII. DE LA DIRECCION DEL FONDO PARA LA ADMINISTRACION DE JUSTICIA
+### CAPITULO VII. DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
 
 ###### ARTICULO 59.
 
@@ -795,25 +981,69 @@ El Instituto de Capacitación y Especialización del Poder Judicial y de la Carr
 
 Los objetivos, la estructura orgánica, las funciones y las actividades del Instituto de Capacitación y Especialización del Poder Judicial del Estado; se establecerán en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 59 BIS.- La capacitación y la acreditación de la evaluación respectiva, serán los presupuestos de todo nombramiento y la actualización deberá ser la base de cualquier ascenso.
+
+Todos los servidores judiciales están obligados a asistir, participar y acreditar los cursos y demás eventos que lleve a cabo el Instituto, para su mejoramiento profesional.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 59 TER.- La carrera judicial tiene por objeto, con base en el sistema de méritos y de oposición, garantizar la eficiencia en la administración de justicia y asegurar, en igualdad de oportunidades, el ingreso, la permanencia, el ascenso y la adscripción de los Jueces del Estado y demás servidores a los que se refiere el artículo 60 de esta Ley.
+
+La carrera judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 60.
 
-Se instituye la Carrera Judicial, misma que estará integrada por las siguientes categorías:
+La Carrera Judicial estará integrada por las siguientes categorías:
 
 I. Juez de Primera Instancia;
 
-II. Secretario de Acuerdos de Sala o Tribunal Unitario;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-III. Secretario de Estudio y Cuenta de Sala o Tribunal Unitario;
+II. Secretario de Acuerdos de Sala;
 
-IV. Secretario Proyectista de Juzgado; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III. Secretario de Estudio y Cuenta de Sala;
+
+IV. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 V. Secretario de Acuerdos de Juzgado.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 60 BIS.- El jurado encargado de evaluar los antecedentes de los interesados y de realizar los exámenes de oposición, se integrará por:
+
+I. Tres Magistrados, preferentemente de la materia a examinar, designados por riguroso turno; y
+
+II. El Director del Instituto de Capacitación y Especialización del Poder Judicial y de la Carrera Judicial.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 60 TER.- El jurado, una vez realizados los exámenes a los que se refiere este capítulo, deberá:
+
+I. Calificar a los aspirantes tomando en cuenta su experiencia profesional y académica, desempeño en la docencia, obras publicadas, aspectos disciplinarios, y en su caso, la antigüedad, calidad y capacidad demostrada en el desempeño de cargos anteriores en el Poder Judicial o en la Administración Pública, conforme determinen los acuerdos respectivos del Pleno;
+
+I. Calificar los exámenes teórico-prácticos realizados por los concursantes; y
+
+III. Presentar al Presidente el dictamen correspondiente, para que éste lo turne al Pleno, señalando a las tres personas que, conforme a los criterios de la carrera, sean las más idóneas para ocupar el puesto vacante y dando a conocer el resultado del examen en relación con los datos sustentantes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 60 QUÁTER.- El Pleno del Tribunal Superior sólo podrá nombrar a aquellos candidatos incluidos en la terna propuesta por el jurado.
+
+Será nulo de pleno derecho cualquier nombramiento que contravenga las reglas señaladas en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
 ###### ARTICULO 61.
 
-El ingreso y promoción para las categorías que conforman la Carrera Judicial y demás requisitos que deban satisfacerse, se establecerán en el Reglamento de esta Ley.
+El Pleno del Tribunal Superior de Justicia emitirá los acuerdos pertinentes para instrumentar la carrera judicial de conformidad con lo dispuesto en esta Ley.
 
-### CAPITULO IX. DEL ARCHIVO Y BOLETIN JUDICIAL
+### CAPITULO VIII. DE LA DIRECCION DEL FONDO PARA LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 62.
 
@@ -889,7 +1119,7 @@ VI. Sufragar los gastos que originen las acciones que ordene la Presidencia del 
 
 La estructura orgánica de la Dirección del Fondo para la Administración de Justicia, se establecerá en el Reglamento de esta Ley.
 
-### CAPITULO I. DE LA COMISION DE RECESOS
+### CAPITULO IX. DEL ARCHIVO Y BOLETIN JUDICIAL
 
 ###### Artículo 68.
 
@@ -907,17 +1137,37 @@ IV. Llevará el control riguroso de las Oficialías de Partes comunes del Poder 
 
 El Reglamento fijará las atribuciones de los Servidores Públicos del Archivo y de las Oficialías de Partes y determinará la división de las secciones, la forma de los asientos, índices y libros que deban llevarse.
 
-### CAPITULO II. DE LAS JUBILACIONES DE LOS MAGISTRADOS
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
+### CAPITULO X. DE LA COORDINACION ADMINISTRATIVA DE LOS JUZGADOS DE GARANTIA O CONTROL DE LEGALIDAD Y TRIBUNAL ORAL
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
+ARTICULO 68 BIS (SIC).- La Coordinación Administrativa tiene como objetivo estructurar, organizar y planear los proyectos para la implementación del funcionamiento de los Juzgados de Garantía o Control de Legalidad y Tribunal Oral, con las siguientes atribuciones:
+
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+I. Establecer los modelos de gestión para el funcionamiento de los Juzgados de Garantía o Control de Legalidad y Tribunal Oral, adoptando las metodologías propias a la estructura, acorde a lo establecido en las leyes;
+
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+II. Establecer y mantener actualizados los programas de capacitación al personal administrativo de los Juzgados de Garantía o Control de Legalidad y Tribunal Oral;
+
+> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+III. Establecer acciones, con las diferentes Direcciones del Poder Judicial, con el objeto de realizar la puesta en marcha de los Juzgados de Garantía o Control de Legalidad y Tribunal Oral; y,
+
+IV. Las demás que señale el reglamento.
 
 ## TITULO SEXTO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO I. DE LA COMISION DE RECESOS
 
 ###### ARTICULO 70.
 
 Durante los recesos a que se refiere el artículo 6 de esta Ley, funcionará una Comisión de Recesos, integrada por el Presidente del Tribunal Superior de Justicia y dos Magistrados que designará el Pleno en la última sesión de cada período. La Comisión de Receso, integrará la Sala Penal que resulte autoridad responsable en algún Juicio de Amparo, cumplirá con la Ejecutoria respectiva. Al iniciar el siguiente período de sesiones, se informará al Pleno de las resoluciones ordenes y medidas dictadas durante el receso.
 
-### CAPITULO II. DE LAS SANCIONES Y DE LAS AUTORIDADES COMPETENTES PARA APLICARLAS
+### CAPITULO II. DE LAS JUBILACIONES DE LOS MAGISTRADOS
 
 ###### ARTICULO 71.
 
@@ -927,17 +1177,27 @@ Las jubilaciones de los Magistrados son obligatorias o voluntarias.
 
 Es causa de jubilación obligatoria, padecer incapacidad física o mental, total y permanente, que haga imposible el desempeño del cargo.
 
-La incapacidad a que se refiere este artículo la calificará el Pleno con vista en dictámenes que emitan facultativos en la materia, oyendo al Magistrado a jubilar y en su caso, del o los dictámenes de los facultativos que éste ofrezca.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+La incapacidad a que se refiere este artículo la calificará el Pleno con vista en dictámenes que emitan facultativos en la materia, oyendo al Magistrado a jubilar cuando le sea posible y así lo solicite, o en su caso con los dictámenes de los facultativos que éste ofrezca.
 
 ###### ARTICULO 73.
 
 Los Magistrados podrán jubilarse voluntariamente por alguna de las causas siguientes:
 
-I. Tener quince o más años efectivos como Magistrado y cincuenta y cinco años de edad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
-II. Tener diez o más años de servicios efectivos como Magistrado, siempre que hayan cumplido sesenta años de edad; y
+I. Tener quince o más años efectivos como Magistrado y cincuenta años de edad;
 
-III. Tener veinticinco años al servicio del Gobierno del Estado, de los cuales diez como Magistrado y otros cinco como Servidores Públicos Judiciales, siempre y cuando tenga más de cincuenta y cinco años de edad.
+II. Tener diez o más años de servicios efectivos como Magistrado, siempre que hayan cumplido sesenta años de edad; y (sic)
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+III. Tener veinticinco años de servicios efectivos en el Poder Judicial del Estado, de los cuales cinco como Magistrado; y
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IV. Acreditar haber estado veinte años al servicio del Gobierno del Estado y tener cinco años de servicios efectivos como Magistrado, además de contar con más de cincuenta y cinco años de edad.
 
 ###### ARTICULO 74.
 
@@ -959,9 +1219,25 @@ Al fallecer un Magistrado, Jubilado o en ejercicio, la pensión se transmitirá 
 
 El pago de las pensiones mencionadas en el presente Capítulo, se hará por la Dirección de Administración del Tribunal Superior de Justicia del Estado a partir del día siguiente en que haya sido aprobada la jubilación respectiva; la aprobación deberá hacerse en un plazo de quince días contados a partir de la solicitud respectiva.
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+### CAPITULO III. DE LOS REGISTROS EN MATERIA PENAL ADVERSARIAL ORAL
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+ARTICULO 77 BIS.- En materia penal adversarial oral tendrán la validez y eficacia de un documento físico original de registro, los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un Juez de la referida materia utilice los medios indicados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad, aunque no se impriman en papel ni sean firmados.
+
+Las autoridades judiciales de la materia podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos a los tribunales, siempre que remitan el documento original dentro de los tres días siguientes, en cuyo caso la presentación de la petición o recurso se tendrá como realizada en el momento de recibida la primera comunicación.
+
+El Pleno del Tribunal Superior de Justicia dictará los reglamentos o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios para garantizar su seguridad y conservación, así como para determinar el acceso del público a la información contenida en las bases de datos, conforme a la Ley.
 
 ## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 78.
 
@@ -970,6 +1246,8 @@ La infracción a las disposiciones de esta Ley, de su Reglamento o de cualquier 
 ###### ARTICULO 79.
 
 Los Jueces y demás Servidores Públicos del Poder Judicial del Estado, son responsables administrativamente de las faltas que cometan en el ejercicio de sus cargos, quedando sujetos a los procedimientos y sanciones que establezca esta Ley, sin perjuicio de que puedan ser sujetos a los procedimientos y sanciones que señalen las demás Leyes que resulten aplicables.
+
+### CAPITULO II. DE LAS SANCIONES Y DE LAS AUTORIDADES COMPETENTES PARA APLICARLAS
 
 ###### ARTICULO 80.
 
@@ -995,7 +1273,9 @@ III. Suspensión en la función de diez días a tres meses; y
 
 IV. Destitución de funciones y, en su caso consignación al Ministerio Público.
 
-Estas acciones podrán aplicarse sin sujeción al orden establecido. En todo caso y de existir daño patrimonial se impondrá su reparación.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+Estas sanciones y las correspondientes a faltas al orden laboral podrán aplicarse sin sujeción al orden establecido, en caso de reincidencia, la sanción se aumentará gradualmente, de existir daño patrimonial se impondrá su reparación.
 
 ###### ARTICULO 82.
 
@@ -1005,13 +1285,23 @@ I. El Pleno del Tribunal Superior de Justicia, en la revisión de instructivos d
 
 II. El Presidente del Tribunal Superior de Justicia, en todos los casos de falta de orden laboral por medio de la Dirección de Administración;
 
-III. La Visitaduría, en los términos que se prevengan en el Reglamento; y
+III. La Visitaduría, en los términos que se prevengan en el Reglamento; y (sic)
 
-IV. Los Presidentes de Salas y los Jueces, en los términos del tercer párrafo del Artículo 17, 21 fracción V y 36 fracción VIII; inciso c), respectivamente de la presente Ley.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+IV. Los Presidentes de Salas y los Jueces, en los términos del tercer párrafo del artículo 17, 21 fracción V y 36 fracción IX, respectivamente de la presente ley; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2007)</small>
+
+V. La Dirección de Contraloría Interna, por el fincamiento de responsabilidades administrativas resarcitorias, en términos de lo dispuesto por el Capítulo III de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+
+### CAPITULO III. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 83.
 
-En caso de falta de carácter laboral, se estará a lo dispuesto por la Ley del Servicio Civil.
+En caso de falta de carácter laboral, se estará a lo dispuesto por ésta Ley, su reglamento, la Ley del Servicio Civil para los Empleados del Gobierno del Estado y supletoriamente la Ley Federal del Trabajo en casos no previstos. Para aplicar una sanción por faltas al orden laboral, el Director de Administración se sujetará al procedimiento establecido en el siguiente artículo.
 
 ###### ARTICULO 84.
 
@@ -1126,3 +1416,13 @@ SEGUNDO.- La Sala Especializada de Adolescentes resolverá los recursos de apela
 TERCERO.- Los órganos que se instituyen por virtud de este Decreto, deberán funcionar al inicio de la vigencia de la Ley de Justicia para Adolescentes, para lo cual las dependencias de los Poderes relacionados, adoptarán las medidas reglamentarias y de infraestructura para tal efecto.
 
 CUARTO.- Los Juzgados Especializados en adolescentes, con residencia en el Distrito Judicial del Centro, tendrán competencia en todo el Estado, hasta en tanto se instalen en otros Distritos Judiciales, en cuyo caso el Pleno del Tribunal Superior de Justicia determinará la jurisdicción territorial que les corresponda.
+
+P.O. 31 DE AGOSTO DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Queda vigente el artículo séptimo transitorio de la Ley Orgánica del Poder Judicial del Estado, publicada en el ejemplar del Periódico Oficial del Gobierno del Estado, No. 42 de 16 de octubre del año de 1999.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente ley.
+
+CUARTO.- El Pleno del Tribunal Superior de Justicia, en cumplimiento a lo dispuesto en la fracción XIX del artículo 13, dentro de los treinta días siguientes al inicio de su vigencia, elaborará y aprobará el Reglamento Interno de la misma; en tanto los problemas de interpretación que surjan serán resueltos por el Presidente del Tribunal Superior de Justicia.
