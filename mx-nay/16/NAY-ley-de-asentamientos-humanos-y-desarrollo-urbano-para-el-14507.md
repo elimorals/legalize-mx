@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2002-09-28"
+last_updated: "2007-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -777,9 +777,13 @@ IV. Los Planes de Desarrollo Urbano de los Centros de Población;
 
 V. Los Planes Parciales de Desarrollo Urbano;
 
-VI. Los Planes Regionales de Ordenamiento Territorial; y
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-VII. Los Programas Sectoriales de Desarrollo Urbano.
+VI. Los Planes Parciales de Urbanización;
+
+VII. Los Planes Regionales de Ordenamiento Territorial; y
+
+VIII. Los Programas Sectoriales de Desarrollo Urbano.
 
 ###### ARTÍCULO 37.
 
@@ -927,21 +931,53 @@ XVII. La determinación de los objetivos particulares para el desarrollo general
 
 XVIII. Los demás requisitos que establezcan las dependencias normativas.
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-Los planes parciales de desarrollo urbano, además de los elementos básicos que señala el artículo 37 de esta Ley, contendrán como mínimo lo siguiente:
+###### ARTÍCULO 42.- A.
 
-I. La referencia al Plan de Desarrollo Urbano de Centro de Población del cual derivan;
+(sic) Los Planes Parciales de Desarrollo Urbano, son los instrumentos ejecutivos para la realización de acciones de urbanización, cuya elaboración corresponde al sector público en los casos previstos por esta Ley. Estos planes se formularán, aprobarán y administrarán conforme a las siguientes disposiciones:
+
+I.- Integran el conjunto de normas específicas a efecto de precisar la zonificación y regular los usos y destinos en los predios localizados en su área de aplicación;
+
+II.- Se consideran como un complemento técnico del Plan Municipal de Desarrollo Urbano y del Plan de Desarrollo Urbano de Centro de Población, por lo que sus disposiciones deben ser correspondientes y guardar congruencia entre sí;
+
+III.- Los Ayuntamientos podrán elaborar, consultar y en su caso aprobar Planes Parciales de Desarrollo Urbano para un área, barrio o colonia del centro de población a partir de la solicitud de los propietarios de predios y fincas, los grupos sociales y en particular, las asociaciones de vecinos legalmente constituidas; así mismo podrán presentar propuestas a efecto de evaluar, modificar o cancelar un Plan Parcial de Desarrollo Urbano y en su caso, modificar en forma parcial el Plan de Desarrollo Urbano de Centro de Población ó del Plan Municipal de Desarrollo Urbano, conforme las disposiciones de la presente Ley;
+
+IV.- Deberán indicar las acciones y políticas de conservación, protección, restauración y aprovechamiento, a partir de lo estipulado en los Programas de Ordenamiento Ecológico; y
+
+V.- Serán formulados, aprobados y publicados conforme a lo establecido en el Capítulo II del presente Titulo.
+
+B. Los Planes Parciales de Desarrollo Urbano, además de los elementos básicos que señala el artículo 37 de esta Ley, contendrán como mínimo lo siguiente:
+
+I. La referencia al Plan de Desarrollo Urbano del Centro de Población o Plan Municipal de Desarrollo Urbano del cual derivan;
 
 II. Las políticas y objetivos que se persiguen;
 
-III. La delimitación de la zona que comprenda;
+III. La delimitación de la zona que comprendan y su espacio de influencia, definiéndolas como áreas de aplicación y estudio respectivamente;
 
-IV. La descripción actual de la zona, de sus aprovechamientos predominantes y de la problemática que presenta, así como de la zona circundante;
+IV. La descripción actual específica del área de aplicación, de sus aprovechamientos predominantes, de la problemática que presentan, así como del área de estudio;
 
-V. La zonificación secundaria;
+V. La zonificación secundaria; determinando los usos y destinos específicos del área de aplicación, conforme a la propuesta del proyecto de urbanización o de la acción urbanística a realizarse, definiendo las normas de control de densidad de la edificación, y en su caso, los mecanismos que permitan la transferencia y compensación de densidades para cada tipo de zona;
 
-VI. Los proyectos de las obras o servicios a ejecutar, con señalamiento de las etapas y condiciones para su ejercicio, así como los lineamientos administrativos y financieros;
+VI. Los proyectos de las obras o servicios a ejecutar, así como la referencia a las normas de diseño urbano, relativas a la ingeniería de tránsito y urbana, con señalamiento de las etapas y condiciones para su ejercicio, así como los lineamientos administrativos y financieros, que determinen:
+
+a) Los criterios para el diseño de las vialidades, precisando sus secciones mínimas y normas de trazo de las vialidades en función a su jerarquía;
+
+b) Los criterios de diseño para obras de urbanización que faciliten el acceso y desplazamiento de personas con problemas de discapacidad;
+
+c) Los criterios para la localización de infraestructura, incluyendo el trazo de redes, derechos de paso y zonas de protección;
+
+d) Las obras mínimas de urbanización requeridas en cada tipo de zona;
+
+e) La determinación de las áreas de donación, en función de las características de cada zona, de reserva de espacios para actividades de fomento y difusión del deporte y la cultura; así como los criterios para su localización, en especial, las destinadas a áreas verdes y escuelas;
+
+f) Las obras mínimas de edificación para equipamiento urbano en las áreas de donación requeridas en cada tipo de zona;
+
+g) En su caso, la propuesta de permuta de las áreas de donación, conforme a las disposiciones que se indican en el artículo 195 Bis de esta Ley;
+
+h) Las normas de configuración urbana e imagen visual; y
+
+i) Las demás normas específicas de carácter general o regional que se consideren necesarias;
 
 VII. Las obligaciones y responsabilidades de los propietarios de predios y fincas comprendidas en el área de aplicación del Plan Parcial y de sus usuarios respecto a modalidades en su aprovechamiento y acciones de conservación, mejoramiento y crecimiento que se determinen;
 
@@ -949,15 +985,95 @@ VIII. Los estudios económicos, financieros y fiscales preliminares, cuando las 
 
 IX. Los plazos y condiciones para que las autoridades, propietarios y usuarios, den cumplimiento a las obligaciones a su cargo en la ejecución de las acciones definidas en el mismo plan parcial;
 
-X. Los plazos para que los Consejos Consultivos Municipales, Comités de Acción ciudadana y asociaciones de vecinos, o los habitantes que resulten afectados, presenten sus inconformidades;
+X. Los usos y destinos comprendidos en el proyecto;
 
-XI. Los resultados previsibles que se obtendrán con la ejecución del proyecto en beneficio de la zona, predio o área, y de sus habitantes;
+XI. Las medidas e instrumentos para la ejecución del plan o proyecto; y
 
-XII. Los usos y destinos comprendidos en el proyecto;
+XII. Los demás requisitos que establezcan las dependencias normativas.
 
-XIII. Las medidas e instrumentos para la ejecución del plan o proyecto; y
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-XIV. Los demás requisitos que establezcan las dependencias normativas.
+###### ARTÍCULO 42 Bis.
+
+Los Planes Parciales de Urbanización, son los instrumentos ejecutivos para la realización de acciones de urbanización, cuya elaboración corresponde a los particulares, en los casos previstos por esta Ley.
+
+Será obligatorio formular un Plan Parcial de Urbanización cuando implique:
+
+I. Transformar el suelo rústico a urbanizado en áreas de reserva urbana ó en reservas territoriales, determinando los usos y destinos correspondientes;
+
+II. Transformar el suelo rústico mediante obras de urbanización en predios localizados fuera del centro de población, determinando los usos y destinos correspondientes, en predios de propiedad privada o social;
+
+III. Establecer o modificar los usos y destinos para una zona específica del centro de población ó para una zona de crecimiento;
+
+IV. Determinar áreas de restricción por paso de redes de infraestructura; o
+
+V. Determinar obligaciones específicas a cargo de los propietarios de predios y fincas, en acciones de conservación, mejoramiento y crecimiento;
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 42 Ter.
+
+Los Planes mencionados en el artículo anterior se formularán y administrarán conforme a las siguientes disposiciones:
+
+I.- Determinarán la zonificación secundaria ó específica, señalando los usos, destinos y reservas en los predios donde se proponga realizar;
+
+II.- Regularán y controlarán la urbanización y la edificación, y en general, la utilización de los predios y fincas en su área de aplicación;
+
+III.- Autorizarán la subdivisión o lotificación del predio o predios a desarrollar, individualizando los lotes resultantes con la determinación específica de los usos y destinos que les correspondan;
+
+IV.- Delimitarán e identificarán las áreas de donación, conforme los lineamientos previstos en el presente ordenamiento;
+
+V.- En su caso, propondrán la permuta de las áreas de donación, conforme a las disposiciones que se indican en el artículo 195 Bis de esta Ley, con la finalidad de promover una mejor distribución de los espacios de uso común, del equipamiento urbano y los servicios públicos en el centro de población;
+
+VI.- Determinarán en forma específica las áreas de restricción; regularán y controlarán la urbanización y la edificación; y en general determinarán la utilización de los predios y fincas en su área de aplicación;
+
+VII.- Integrarán las obras, acciones e inversiones con la estructura urbana del centro de población; y
+
+VIII.- En su caso, determinarán los predios que resultarán beneficiados o afectados, así como las obligaciones correspondientes a cargo de sus titulares, derivadas de obras de urbanización o edificación, para integrar la infraestructura o el equipamiento urbano del centro de población.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 42 Quater.
+
+Los Planes Parciales de Urbanización, además de los elementos básicos que señala el artículo 37 de esta Ley, contendrán como mínimo lo siguiente:
+
+I.- El enunciado del Plan y datos generales del proyecto;
+
+II.- La referencia al Plan de Desarrollo Urbano del Centro de Población o del Plan Municipal de Desarrollo Urbano del cual se derivan;
+
+III.- La fundamentación jurídica;
+
+IV.- Los objetivos generales y específicos;
+
+V.- La delimitación del área de estudio y del área de aplicación;
+
+VI.- El análisis y síntesis de los elementos condicionantes a la urbanización;
+
+VII.- La determinación de los usos y destinos específicos del área de aplicación, conforme a la propuesta del proyecto de urbanización o de la acción urbanística a realizarse, definiendo las normas de control de densidad de la edificación, y en su caso, los mecanismos que permitan la transferencia y compensación de densidades y/o usos de suelo para cada tipo de zona;
+
+VIII.- La referencia a las normas de diseño urbano, relativas a la ingeniería de tránsito y a la ingeniería urbana que determinen:
+
+a) Los criterios de diseño de las vialidades, precisando las secciones mínimas y normas de trazo en función a su jerarquía;
+
+b) Los criterios de diseño para obras de urbanización que faciliten el acceso y desplazamiento de personas con problemas de discapacidad;
+
+c) Los criterios para la localización de infraestructura, incluyendo el trazo de redes, derecho de paso y zonas de protección;
+
+d) Las obras de urbanización requeridas en cada tipo de zona;
+
+e) La determinación de las áreas de donación, en función de las características de cada zona;
+
+f) Las obras mínimas de edificación para equipamiento urbano en las áreas de donación requeridas en cada tipo de zona;
+
+g) En su caso, la propuesta de permuta de las áreas de donación, conforme a las disposiciones que se indican en el artículo 195 Bis de esta Ley;
+
+h) Las normas de configuración urbana e imagen visual; y
+
+i) Otras normas específicas de carácter general o regional que se consideren necesarias;
+
+IX.- En el caso de acciones de conservación o mejoramiento, además de los elementos aplicables antes mencionados, deberá de considerarse la zonificación especifica con las restricciones, en su caso, respecto de los predios y fincas objetos de estas acciones.
+
+Así mismo, contendrán los plazos y condiciones para que las autoridades, propietarios y usuarios, den cumplimiento a las obligaciones a su cargo en la ejecución de las acciones definidas en el mismo plan parcial.
 
 ###### ARTÍCULO 43.
 
@@ -1035,9 +1151,13 @@ Los Planes Municipales de Desarrollo Urbano, los de Centros de Población y los 
 
 Para elaborar y aprobar los Planes Municipales de Desarrollo Urbano, de Centros de Población y los que de éstos se deriven, se seguirá el procedimiento siguiente:
 
-I. El Ayuntamiento en Sesión de Cabildo acordará que se elabore el Proyecto de Plan correspondiente;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-II. Formulado el Proyecto de Plan por la dependencia municipal en materia de planeación urbana, con la colaboración del Consejo Consultivo Municipal correspondiente, será presentado al Ayuntamiento en Sesión de Cabildo, en la cual se acordará someterlo a consulta pública;
+I. El Ayuntamiento en Sesión de Cabildo acordará que se elabore el Proyecto de Plan correspondiente, a excepción de los Planes Parciales de Urbanización, en que será suficiente que el promotor notifique al área técnica correspondiente del Ayuntamiento el inicio de la elaboración del mismo;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+II. Formulados los Proyectos de Planes a que se refiere la fracción anterior serán presentados al Ayuntamiento en Sesión de Cabildo, en la cual se acordará someterlos a consulta pública;
 
 III. La dependencia municipal en materia de planeación urbana con la colaboración del Consejo Consultivo Municipal correspondiente, coordinará el proceso de audiencias públicas, a fin de promover la participación ciudadana en su elaboración;
 
@@ -1051,15 +1171,25 @@ VII. Terminado o ajustado el Proyecto, el Presidente Municipal lo remitirá a la
 
 VIII. Recabado el dictamen de congruencia o los comentarios y recomendaciones de la Secretaría, se procederá a revisar el Proyecto para considerar las opiniones recibidas si las hubiere, hecho lo cual se turnará al Presidente Municipal para los efectos internos de dictaminación correspondiente, mismo que será presentado en Sesión de Cabildo para su aprobación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 2001)</small>
+(NOTA: EL 2 DE OCTUBRE DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 81/2007, DECLARÓ LA INVALIDEZ DE ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+EL AYUNTAMIENTO EN SU CASO, PODRÁ AUTORIZAR LOS PLANES PARCIALES DE DESARROLLO URBANO Y DE URBANIZACIÓN, CUANDO EXISTAN CONTRADICCIONES CON LOS INSTRUMENTOS DE PLANEACIÓN DE NIVEL SUPERIOR PREVISTOS EN EL PRESENTE TÍTULO, CUANDO A JUICIO DE AQUEL SE JUSTIFIQUE QUE LAS CONDICIONES QUE DIERON ORIGEN A LA REALIZACIÓN DE TALES INSTRUMENTOS OBSERVAN UNA VARIACIÓN SUSTANCIAL, O CUANDO JUSTIFIQUEN LA REALIZACIÓN DE UNA OBRA, ACCIÓN O INVERSIÓN QUE PRESENTE MEJORES CONDICIONES A LAS ORIGINALMENTE DISPUESTAS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 53.
 
-Los Planes Municipales de Desarrollo Urbano, de Centro de Población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado, para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de Ley; con excepción de los programas parciales de desarrollo, que bastará la aprobación de Cabildo, para su publicación e inscripción, remitiendo copia al Congreso para su conocimiento.
+Los Planes Municipales de Desarrollo Urbano, de centro de población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de ley. En lo que se refiere a los Planes Parciales de Desarrollo Urbano y los Parciales de Urbanización, bastará la aprobación de Cabildo, su publicación e inscripción, remitiendo copia al Congreso para su conocimiento.
 
 La documentación que se remita al Congreso comprenderá:
 
-I. El Plan Municipal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+I. El documento técnico del Plan de Desarrollo Urbano correspondiente;
 
 II. La versión abreviada del mismo;
 
@@ -1417,9 +1547,13 @@ VIII. Las zonas de desarrollo controlado y de salvaguarda o amortiguamiento, esp
 
 IX. Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
 
-X. Las zonas de reserva y de preservación ecológica; y
+X. Las zonas de reserva y de preservación ecológica; y (sic)
 
-XI. Las demás disposiciones que de acuerdo con esta Ley sean procedentes.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+XI. Las normas de diseño urbano;
+
+XII. Las demás disposiciones que de acuerdo con esta Ley sean procedentes.
 
 ###### ARTÍCULO 92.
 
@@ -2385,9 +2519,13 @@ IV. Copia certificada del Acta Constitutiva de la Sociedad, Fideicomiso o Empres
 
 V. Comprobantes de pago de los impuestos y derechos sobre el predio.
 
-VI. Dictamen de compatibilidad urbanística y de usos y destinos derivados del Plan de Desarrollo Urbano del Centro de Población.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-VII. Manifestación de impacto ambiental validada por el Instituto.
+VI. Dictamen de compatibilidad urbanística y de usos y destinos derivados del Plan de Desarrollo Urbano del Centro de Población, de los Planes Parciales de Desarrollo Urbano o de Urbanización;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Manifestación de impacto ambiental validada por la Secretaría del Medio Ambiente;
 
 VIII. Memoria descriptiva del fraccionamiento y proyecto general a escala de lotificación, con señalamiento de manzanas, zonificación interna, propuesta de nomenclatura, localización de áreas verdes y áreas de donación, así como de los planos y memorias de cálculo de las vialidades, localización de la fuente de abastecimiento y redes de agua potable y alcantarillado, electrificación y alumbrado público;
 
@@ -2530,6 +2668,22 @@ IV. Terrenos afectados por restricciones federales o estatales;
 V. Camellones u otras áreas verdes en vialidades; y
 
 VI. En general, todos aquellos terrenos que por sus características y condiciones no puedan ser aprovechados.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 195 Bis.
+
+El Ayuntamiento podrá aceptar la permuta de las áreas de donación, cuando se pretenda promover una mejor distribución de los espacios de uso común, del equipamiento urbano y de los servicios públicos.
+
+Los predios y el equipamiento que se ofrezcan en permuta, deberán localizarse preferentemente en el mismo centro de población, en el área de estudio o en la unidad territorial que en su caso, establezca el Plan Parcial.
+
+El urbanizador podrá continuar el proceso de autorización, ejecución y recepción de obras de su proyecto, si garantiza concluir la permuta, mediante una fianza expedida por una compañía autorizada, por el monto que se determine en el avalúo y acepte como equivalente;
+
+Cuando las áreas de donación a que obliga esta Ley, por la naturaleza de las obras, acciones e inversiones no representen mejoras a la calidad de vida de la población local, el Ayuntamiento, podrá convenir con el desarrollador, que el valor total o parcial de los bienes afectos a la donación se destinen a obras, acciones o ingresos municipales que decida el propio Ayuntamiento.
+
+Para garantizar la equivalencia razonable de entre los bienes permutados, se deberá contar con un avalúo emitido por un perito certificado, a fin de obtener el valor comercial del área permutable, y el costo de las obras de urbanización a ejecutarse y del equipamiento respectivo.
+
+En las zonas habitacionales de alta densidad no deberán permutarse las áreas de donación ni su equipamiento, éstas se deberán determinar y aportar en los mismos predios a urbanizar.
 
 ### CAPÍTULO VIII. DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE LOTES
 
@@ -3201,9 +3355,13 @@ DIP. PRESIDENTE
 
 HECTOR MEDINA RODRIGUEZ
 
-DIP. SECRETARIO DIP. SECRETARIO,
+DIP. SECRETARIO
 
-J.- BELEM MONTES BALDERAS JORGE A. MONDRAGON GLEZ.
+J.- BELEM MONTES BALDERAS
+
+DIP. SECRETARIO,
+
+JORGE A. MONDRAGON GLEZ.
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital a los cuatro días del mes de mayo de mil novecientos noventa y nueve.
 
@@ -3260,3 +3418,7 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
