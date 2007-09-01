@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-patronato-de-la-feria-nacional-de-56749
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2007-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL PATRONATO DE LA FERIA NACIONAL DE LA CIUDAD DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de julio de 2007.
 
@@ -41,9 +41,11 @@ REGLAMENTO INTERIOR DEL PATRONATO DE LA FERIA NACIONAL DE LA CIUDAD DE ZACATECAS
 
 El Patronato de la Feria Nacional de la Ciudad de Zacatecas, es un órgano auxiliar de la administración pública del Estado, directivo de la feria y coordinado sectorialmente por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 2.
 
-El Patronato tiene como objeto la organización, fomento y comercialización de la Feria Nacional de la Ciudad de Zacatecas, para apoyar los programas sociales que realice el Sistema Estatal para el Desarrollo Integral de la Familia y el auxilio de personas afectadas en casos de siniestro o en situación de vulnerabilidad.
+El Patronato tiene como objeto social, como actividad preponderante la realización de carreras de caballos, peleas de gallos y juegos con cruce de apuestas, así como rifas, sorteos, juegos de dados, naipes y ruleta, así como todas aquellas actividades análogas, que estén permitidas por la Ley Federal de Juegos y Sorteos y su Reglamento.
 
 ###### Artículo 3.
 
@@ -416,3 +418,9 @@ Artículo primero.- El presente reglamento entrará en vigor al día siguiente d
 Artículo segundo.- Quedan derogadas las disposiciones normativas que se opongan al presente reglamento.
 
 Aprobado en sesión del Patronato de la Feria Nacional de la Ciudad de Zacatecas celebrada a los diecisiete días del mes de julio del año dos mil siete. Presidenta del Patronato.- Amalia D. García Medina, Gobernadora del Estado; Presidenta Ejecutiva del Patronato.- Claudia Corichi García; Vocales.- L.C. Jorge Miranda Castro, Secretario de Finanzas de Gobierno del Estado; M. en C. Daniel Fajardo Ortíz, Secretario de Desarrollo Agropecuario de Gobierno del Estado; L.C. Nicolás Castañeda Tejeda, Secretario de Desarrollo Económico de Gobierno del Estado; M en C. Flavio Campos Viramontes, Secretario de Educación y Cultura de Gobierno del Estado; Lic. Rafael Flores Mendoza, Secretario de Turismo de Gobierno del Estado; L.E. Eduardo Ruiz Fierro, Oficial Mayor de Gobierno del Estado; Dr. Gerardo de Jesús Félix Domínguez, Presidente Municipal de Zacatecas; Miguel González Valdez, Presidente de la Unión Ganadera Regional; Ing. Martín David Solís Serna, Presidente de la Cámara Nacional de la Industria de la Transformación; Lic. Eugenio Vázquez Vázquez, Presidente de la Cámara Nacional de Comercio de Zacatecas; Coordinadora General del Comité Organizador de la Feria Nacional de la Ciudad de Zacatecas. L.A.E. María Dolores Serna Ibarra.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- La presente reforma entrará en vigor el mismo día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
