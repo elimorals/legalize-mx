@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-de-credito-educativo-del-5617
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-05"
-last_updated: "2007-07-05"
+last_updated: "2007-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CREDITO EDUCATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 5 de julio de 2007.
 
@@ -301,7 +301,11 @@ Los acuerdos y opiniones del Comité de Crédito requerirán la firma de los tit
 
 El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado, y contará con las siguientes atribuciones:
 
-I.- Administrar, manejar y representar legalmente al Instituto;
+I.- Administrar, manejar y representar legalmente al Instituto.
+
+> <small>(ADICIONADO, B.O. 3 DE SEPTIEMBRE DE 2007)</small>
+
+El director general como representante legal del instituto de crédito educativo del Estado de Sonora, tendrá todas las facultades generales y las que requieran poder o clausula especial, para actos de dominio, actos de administración y para pleitos y cobranzas conforme a la ley, con base en los artículos 2831 y 2868 del Código Civil para el Estado de Sonora y sus correlativos de los distintos Códigos Civiles de la Republica Mexicana; para transigir, para comprometer en árbitros, para absolver y articular posiciones, para hacer cesión de bienes, para recusar, para desistirse, para recibir pagos, y para los demás actos que expresamente determine la ley; artículos 9, 10 y 11 de la Ley general de títulos y operaciones de crédito; suscripción, endoso, aval y negociación de titulas y operaciones de crédito; para representar al organismo en la junta local de conciliación y arbitraje, junta federal de conciliación y arbitraje, tribunal estatal de la contencioso administrativo, agencias investigadoras del ministerio publico y todas las demás instancias y autoridades administrativas del ámbito estatal, municipal y federal, al como ante los juzgados de primera instancia, salas de segunda instancia y cualquier otro órgano del Supremo Tribunal de Justicia del Estado, juzgados de distrito, tribunales unitarios de circuito tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; pudiendo conferir poderes generales o especiales, por delegación parcial o total, para representar al organismo ante la junta local de conciliación y arbitraje, junta federal de conciliación y arbitraje, tribunal estatal de lo contencioso administrativo, agencias investigadoras del ministerio público y todas la demás instancias y autoridades administrativas del ámbito estatal, municipal y federal, así como ante los juzgados de primera instancia, salas de segunda instancia, y cualquier otro órgano del Supremo Tribunal de Justicia en el Estado, juzgados de distrito, tribunales unitarios de circuito, tribunales colegiados de circuito y cualquier otra autoridad en el ámbito judicial; así como revocar o sustituir los mismos, siendo todo lo anterior en forma enunciativa mas no limitativa;
 
 II.- Formular los programas institucionales, así como los proyectos de presupuestos del Instituto y presentarlos para su aprobación a la Junta Directiva;
 
@@ -710,3 +714,11 @@ ANEXO
 ORGANIGRAMA ESTRUCTURAL
 
 > <small>N. DE E. VEASE ANEXO EN LA SECCION I EL B. O. DE 5 DE JULIO DE 2007, PAGINA 23.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 3 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL SIGUIENTE DÍA DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
