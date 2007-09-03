@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-dan-a-conocer-diversas-disposiciones-5601
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-06-28"
-last_updated: "2007-06-28"
+last_updated: "2007-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-06-21"
 
 ACUERDO POR EL QUE SE DAN A CONOCER DIVERSAS DISPOSICIONES EN MATERIA DE INSTRUMENTOS Y PROGRAMAS DE COMERCIO EXTERIOR, ASI COMO LA TABLA DE CORRELACION TIGIE 2002-TIGIE 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2007.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2007.
 
@@ -51,7 +51,9 @@ Para efectos del presente Acuerdo se entenderá por:
 
 I. DOF, al Diario Oficial de la Federación;
 
-II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen y Cupos;
+> <small>(REFORMADA POR ARTICULO SEGUNDO TRANSITORIO DE LA PRIMERA MODIFICACION AL ACUERDO POR EL QUE LA SECRETARIA DE ECONOMIA EMITE REGLAS Y CRITERIOS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR, D.O.F. 3 DE SEPTIEMBRE DE 2007)</small>
+
+II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen, Cupos, Certificados de Cumplimiento de Normas Oficiales Mexicanas, Evaluaciones Positivas de Producto Exclusivo y para la no aplicación de Cuotas Compensatorias;
 
 III. TIGIE 2002, a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 18 de enero de 2002 y sus modificaciones;
 
@@ -320,3 +322,19 @@ La información contenida en el presente Anexo tiene carácter indicativo; no cr
 (VEASE ARCHIVO ANEXO)
 
 México, D.F., a 21 de junio de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 3 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el artículo 2, fracción II del Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la tabla de correlación TIGIE 2002-TIGIE 2007, publicado en el Diario Oficial de la Federación el 28 de junio de 2007, para quedar como sigue:
+
+"Artículo 2.- Para efectos del presente Acuerdo se entenderá por:
+
+I. . . .
+
+II. Instrumentos y programas de comercio exterior, al Programa IMMEX, al Programa PROSEC De las Industrias Diversas, al Programa PROSEC en la modalidad de productor indirecto, a los Permisos Previos de importación y de exportación, Avisos Automáticos de Exportación, Certificados de Origen, Cupos, Certificados de Cumplimiento de Normas Oficiales Mexicanas, Evaluaciones Positivas de Producto Exclusivo y para la no aplicación de Cuotas Compensatorias;
+
+III. a XI. . . .".
