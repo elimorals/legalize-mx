@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-enajenaciones-y-11784"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2005-09-03"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES Y SERVICIOS DEL PODER EJECUTIVO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 14 de febrero de 1998.
 
@@ -210,6 +210,10 @@ VIII.- Las demás previsiones que deban tomarse en cuenta, según la naturaleza 
 ARTICULO 15 BIS.- De conformidad con lo establecido en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, las dependencias y entidades de la Administración Pública Estatal, podrán celebrar contratos para prestación de servicios a largo plazo, los cuales involucran recursos de varios ejercicios fiscales, celebrados entre una dependencia o entidad y un inversionista proveedor, mediante el cual se establece, por una parte, la obligación a cargo del inversionista proveedor de prestar a largo plazo con financiamiento privado, uno o más servicios con los activos que éste contribuya, sobre inmuebles propios o de un tercero, incluyendo el sector público, de conformidad con un contrato para prestación de servicios y, por la otra, la obligación de pago, por parte de la dependencia o entidad, por los servicios que le sean proporcionados.
 
 Los servicios que el inversionista proveedor proporcione, conforme a los contratos para prestación de servicios a largo plazo, podrán consistir en el mantenimiento, administración, operación, explotación, diseño, construcción, arrendamiento, transferencia de activos o financiamiento de bienes muebles o inmuebles.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+El pago de la contraprestación prevista en los contratos para prestación de servicios a largo plazo, podrá ser efectuado por las Dependencias o Entidades, mediante ingresos propios, cuotas o aportaciones, participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales o locales, de los que puedan disponer para ese fin, de conformidad con la legalización aplicable.
 
 La asignación de los contratos establecidos en este artículo, se hará de acuerdo con los procedimientos establecidos en la presente Ley, por lo que las dependencias y entidades emitirán un dictamen técnico-económico que cumplan con los requisitos establecidos en el artículo 30 de esta Ley, para adjudicar los mencionados contratos.
 
@@ -1072,3 +1076,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 3 DE SEPTIEMBRE DE 2005.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
