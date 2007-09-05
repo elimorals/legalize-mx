@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2005-09-03"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -45,11 +45,17 @@ LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL
 
 Esta Ley es de orden público y de carácter general y tiene por objeto establecer las bases y requisitos para concertación, contratación, registro, regulación y control de financiamientos o cualesquiera otra obligación que forme parte de la deuda pública Estatal y Municipal del Estado de Oaxaca.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Asimismo establece las bases mínimas correspondientes a la emisión de valores, realizada de manera directa por los Entes Públicos del Estado, o por los fideicomisos emisores de valores que los mismos constituyan.
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley se establecen las siguientes definiciones:
 
-I.- Financiamiento: es la contratación de empréstitos, prestamos o créditos que sean consecuencia de las operaciones de donde se deriva la deuda pública Estatal o Municipal, según sea el caso de conformidad con lo estipulado en el Artículo 117, fracción VIII, segundo párrafo, de la Constitución Política de los Estado Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Financiamiento: es la contratación de empréstitos, préstamos o créditos y la suscripción de títulos de crédito por los cuales se constituya la deuda pública estatal o municipal, según sea el caso, de conformidad con lo estipulado en el artículo 117 fracción VIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Obligaciones directas: las contratadas por el Gobierno del Estado a través del Poder Ejecutivo o por los gobiernos municipales a través de los Ayuntamientos por concepto de operaciones financieras constitutivas de deuda pública;
 
@@ -61,7 +67,9 @@ En el caso del Gobierno del Estado, De los Municipios u organismos de la Adminis
 
 En el caso de los Municipios. De los Organismos Descentralizados Municipales; y
 
-V.- Inversiones Públicas Productivas: son las destinadas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que en forma directa o indirecta produzcan incrementos en los ingresos o beneficios sociales al Estado o Municipios.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Inversiones Públicas Productivas: Aquellas destinadas a la ejecución de obras públicas, acciones, adquisiciones o manufactura de bienes y prestación de servicios públicos, al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente, ya sea mediante refinanciamientos o reestructuras financieras, o a cualquier otra finalidad de interés público o social, que en forma directa o indirecta, inmediata o mediatamente, produzcan beneficios para la población o generen un incremento en los ingresos o liberen recursos públicos para el Estado o los Municipios, incluyendo además, las acciones que se destinen para apoyar las inversiones en materia de educación, salud, comunicaciones, desarrollo regional, fomento agropecuario y forestal, turismo, cultura, pesca, seguridad pública y combate a la pobreza, que fomenten el crecimiento económico y la equidad social, o bien, aquellas acciones que permitan hacer frente a cualquier calamidad o desastre natural.
 
 ###### Artículo 3.
 
@@ -75,7 +83,9 @@ III.- Los Organismos de la Administración Pública Paraestatal;
 
 IV.- Los Organismos Descentralizados Municipales; y
 
-V.- Los Fideicomisos en que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Los Fideicomisos Públicos, que formen parte de la administración pública paraestatal o paramunicipal, en los que el Fideicomitente sea alguno de los Entes Públicos del Estado señalados en las fracciones anteriores.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
@@ -110,6 +120,18 @@ III.- Cuando no se cubran los requisitos señalados en la presente Ley;
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
 IV.- Cuando celebren contratos para prestación de servicios a largo plazo, previstos en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Tampoco constituirá deuda pública estatal ni municipal, las obligaciones que contraigan los fideicomisos a que se refiere el Capítulo VII de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Los compromisos que conforme a los términos y condiciones de los fideicomisos a que se refiere el artículo 26 Bis de esta Ley y el Capítulo VII de la misma, asuman los Entes Públicos como obligaciones de hacer o no hacer, incluidas las obligaciones para sustituir los bienes y/o derechos, así como los flujos de efectivo derivados de los mismos, afectos al patrimonio del fideicomiso de que se trate, no constituirán deuda pública en ninguno de los casos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+El Estado, en los fideicomisos a que se refiere el párrafo anterior, previa autorización de la Legislatura del Estado, podrá obligarse a indemnizar de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de sus obligaciones de hacer y no hacer relacionadas con la afectación o cesión al patrimonio de los fideicomisos mencionados, de los bienes y/o derechos, así como los flujos de efectivo derivados de los mismos.
 
 ###### Artículo 6.
 
@@ -149,9 +171,9 @@ IV.- Reconocer y autorizar el pago de la deuda pública;
 
 V.- Solicitar informes para revisar y aprobar el uso y destino de los recursos financieros contratados por el Ejecutivo del Estado, Municipios y Organismos Descentralizados de ambos niveles de gobierno;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Autorizar la afectación como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le corresponden al Estado o al Municipio, así como de los bienes de dominio privado de los entes públicos en los términos de la legislación aplicable;
+VI.- Autorizar a los Entes Públicos del Estado a que se refiere el artículo 3 de esta Ley, para afectar o ceder o utilizar como fuente o garantía de pago, o ambas, de los financiamientos u obligaciones que celebren, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer para ese fin, de conformidad con la legislación aplicable;
 
 VII.- Autorizar montos de endeudamiento adicionales a los previstos en la Ley de Ingresos vigente al tiempo de su presentación, únicamente por circunstancias extraordinarias que así lo exijan;
 
@@ -163,7 +185,11 @@ IX.- Las demás que le asignen las Leyes, Decretos y Reglamentos.
 
 Son facultades del Ejecutivo del Estado, en materia de deuda pública:
 
-I.- Incluir en los proyectos de Ley de Ingresos del Estado que se presenten a la Legislatura Local, los conceptos y montos de endeudamiento anual;
+I.- Incluir en los proyectos de Ley de Ingresos del Estado que se presenten a la Legislatura Local, los conceptos y montos de endeudamiento anual.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Asimismo, presentar a la Legislatura del Estado las solicitudes relativas a los montos de endeudamiento adicionales, afectaciones o cesiones y constitución de fuentes o garantías de pago a que se refiere el artículo 9 de esta Ley, en sus fracciones VI y VII, para su aprobación;
 
 II.- Incluir en el Presupuesto Anual de Egresos del Estado un capítulo especial de deuda pública;
 
@@ -179,15 +205,21 @@ Corresponde a la Secretaría de Finanzas, en materia de deuda pública:
 
 I.- Concertar y contratar los financiamientos y demás operaciones financieras para inversiones públicas productivas, que corresponda al Gobierno del Estado, suscribiendo los documentos necesarios para ello, siempre y cuando ese endeudamiento haya sido aprobado por la Legislatura Local;
 
-II.- Formular el capítulo de endeudamiento en el proyecto de Ley de Ingresos del Estado y presentarlo para su autorización al Titular del Ejecutivo a más tardar el 1o. de diciembre de cada año;
+II.- Formular el capítulo de endeudamiento en el proyecto de Ley de Ingresos del Estado y presentarlo para su autorización al Titular del Ejecutivo a más tardar el 1o. de diciembre de cada año.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Asimismo, formular las solicitudes que serán sometidas por el Ejecutivo del Estado, para aprobación de la Legislatura del Estado, relativas a los montos de endeudamiento adicionales, afectaciones o cesiones y constitución de fuentes o garantías de pago a que se refiere el artículo 9 de esta Ley, en sus fracciones VI y VII;
 
 III.- Formular el capítulo de deuda pública que se incluirá en el Presupuesto Anual de Egresos del Estado;
 
 IV.- Celebrar los convenios y suscribir los documentos o títulos de crédito necesarios para formalizar las operaciones de reestructuración de los financiamientos adquiridos directa, indirecta o contingentemente;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-V.- Afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le correspondan al Estado, como resultado de las obligaciones de pasivo contraídas en forma directa o como avalista; así como dar en garantía los bienes de dominio privado, estatales que haya autorizado la Legislatura;
+V.- Afectar, ceder o utilizar, como fuente o garantía de pago directa o alterna, o ambas, de los financiamientos que contrate directamente el Estado o de aquellos en los que funja como garante, avalista, deudor solidario, subsidiario o sustituto, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales o locales, de los que pueda disponer, con ese fin, de conformidad con la legislación aplicable y realizar en su caso, los pagos que correspondan mediante dichas garantías o fuentes de pago.
+
+Al efecto tendrá todas las facultades para negociar y concertar los términos y condiciones que sean necesarias o convenientes para la consecución de las afectaciones o cesiones a que se refiere el párrafo anterior, pudiendo celebrar los convenios, contratos y demás actos necesarios, convenientes o complementarios;
 
 VI.- Efectuar los pagos de las obligaciones contraídas por los Municipios cuando éstos así lo soliciten, dichos pagos se efectuarán descontándolos de las participaciones que les correspondan. Asimismo en caso de incumplimiento de los financiamientos contraídos, efectuar los pagos de las obligaciones garantizadas con afectación de las participaciones;
 
@@ -209,9 +241,17 @@ XIV.- Llevar el Registro Único de Obligaciones y Financiamiento de todas las ob
 
 XV.- Suscribir o emitir títulos de crédito, valores, bonos o cualquier otro documento pagadero a plazo, conforme a los planes y programas aprobados de contratación de deuda pública;
 
-XVI.- Concertar, analizar, formalizar financiamiento y otorgar en su caso, el aval del Gobierno del Estado a los Municipios, sólo cuando los mismos estén contenidos o autorizados en la Ley de Ingresos respectiva o en cualquier otro decreto aprobado por la Legislatura; y
+XVI.- Concertar, analizar, formalizar financiamiento y otorgar en su caso, el aval del Gobierno del Estado a los Municipios, sólo cuando los mismos estén contenidos o autorizados en la Ley de Ingresos respectiva o en cualquier otro decreto aprobado por la Legislatura; y (sic)
 
-XVII.- Las demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+XVII.- Emitir, previa autorización de la Legislatura del Estado, valores en representación del Estado de Oaxaca, en los términos de esta Ley y de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+XVIII.- Contratar directamente a Instituciones Calificadoras de Valores debidamente autorizadas en los Estados Unidos Mexicanos, auditores externos, asesores especializados, agentes estructuradores, intermediarios financieros, proveedores de precios y/o otras instituciones necesarias o convenientes, a efecto de que asesoren a los Entes Públicos del Estado, y en su caso, entre otras actividades, emitan su opinión respecto de la calidad crediticia del Estado, de los créditos que contraten los Entes Públicos del Estado, de las emisiones de valores y de la estructura, así como del mecanismo de pago, garantía o ambos, de los financiamientos y emisiones de valores de los Entes Públicos del Estado. Asimismo, podrá contratar a dichas personas o instituciones, para que en sus correspondientes ámbitos, realicen la revisión periódica de las calificaciones respectivas, la dictaminación de los estados financieros del Estado que incluyan la situación financiera de la deuda pública, realicen la colocación de valores entre el público inversionista, entre otros. Y de manera general, realizar cualquier acto jurídico o material que coadyuve a mejorar la capacidad crediticia, las condiciones y estructura de financiamiento de los Entes Públicos del Estado; y
+
+XIX.- Las demás que señalen las Leyes, Decretos y Reglamentos.
 
 ###### Artículo 12.
 
@@ -219,7 +259,9 @@ A los Municipios, en los términos de su Ley Orgánica, les corresponde:
 
 I.- Incluir en el Proyecto de Ley de Ingresos Municipal, los conceptos y montos de endeudamiento anual;
 
-II.- Solicitar autorización a la Legislatura del Estado, para contratar deuda pública y, en su caso, afectar en garantía las participaciones que en ingresos federales les correspondan, así como dar en garantía sus bienes del dominio privado;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Solicitar autorización a la Legislatura del Estado, para contratar deuda pública y, en su caso, dar en garantía sus bienes del dominio privado, afectar, ceder o utilizar como fuente o garantía de pago, o ambas, de los financiamientos u obligaciones que celebren, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales, estatales o municipales de los que puedan disponer para ese fin, de conformidad con la legislación aplicable;
 
 III.- Celebrar contratos para la obtención de financiamiento y demás operaciones de deuda pública Municipal, suscribiendo los documentos respectivos, siempre y cuando se tenga la autorización de la Legislatura;
 
@@ -245,7 +287,7 @@ El Ejecutivo del Estado a través de la Secretaría de Finanzas, los Municipios,
 
 ###### Artículo 14.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas y los Municipios, a través de su Unidad Administrativa representativa, en cumplimiento a lo dispuesto por el Artículo 117, Fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, sólo podrán emitir valores, bonos u otros títulos de deuda, pagaderos en moneda nacional y dentro del territorio nacional, previa autorización de la Legislatura del Estado. En los contratos, valores, bonos o títulos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta, a extranjeros. Sin estos requisitos, los documentos citados no tendrán validez.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 15.
 
@@ -343,35 +385,55 @@ La desviación de los recursos crediticios obtenidos, sin la respectiva justific
 
 Los entes públicos, deberán indicar claramente, los recursos que se utilizarán para el pago de los financiamientos, que se pretendan contratar, que serán preferentemente, los que se deriven de las obras que se realicen.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+El pago de obligaciones de los financiamientos de los Entes Públicos del Estado, a través de mecanismos legales de garantía o pago, implementados mediante la afectación o cesión de algún porcentaje necesario y suficiente de derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales o locales, que puedan disponerse para ese fin, de conformidad con la legislación aplicable, será realizado, una vez que las obligaciones correspondientes hayan sido inscritas o presentadas a inscripción cuando corresponda, en el Registro Único de Obligaciones y Empréstitos que lleva la Secretaría de Hacienda y Crédito Público y en el Registro Único de Obligaciones y Financiamientos a cargo de la Secretaría de Finanzas, según le sea aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+El procedimiento para la desafectación de los ingresos y derechos a que se refiere el párrafo anterior, deberá ser previsto en el decreto correspondiente de la Legislatura del Estado que autorice la afectación o cesión.
+
 ### CAPÍTULO V. DE LAS GARANTÍAS Y AVALES
 
 ###### Artículo 23.
 
 El Ejecutivo del Estado a través de la Secretaría de Finanzas, los Municipios a través de la Unidad Administrativa representativa, los Organismos de la Administración Pública Paraestatal y los Organismos Descentralizados Municipales, al presentar la solicitud de autorización de endeudamiento a que se refiere esta Ley, deberán señalar las garantías que otorgarán a los acreedores, para que la Legislatura Local proceda al análisis de dicha solicitud.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, y los Municipios a través de la Unidad Administrativa representativa, podrán afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales les correspondan, así como aquellos bienes del dominio privado de su propiedad, siempre y cuando se cumplan los requisitos que señala la presente Ley y demás disposiciones aplicables. Asimismo, deberán inscribir dichas obligaciones en el Registro Unico de Obligaciones y Financiamientos de la Secretaría de Finanzas.
+Los Entes Públicos del Estado podrán utilizar como fuente o garantía de pago directa o alterna, o ambas, de los financiamientos que contraten, un porcentaje necesario y suficiente de sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales o locales, de los que puedan disponer para ese fin, de conformidad con la legislación aplicable, así como, los bienes del dominio privado que les correspondan, lo anterior de conformidad con la autorización de la Legislatura para la contratación de los citados financiamientos y el mecanismo de pago o garantía respectivo.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 25.
 
-El ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá otorgar aval para garantizar operaciones de deuda pública de los Municipios o de los Organismos de la Administración Pública Paraestatal. Asimismo, los Municipios a través de los Ayuntamientos, podrán otorgar aval a sus Organismos Descentralizados Municipales para el mismo efecto; siempre y cuando, en ambos casos, los recursos que se obtengan, sean destinados a proyectos públicos productivos y se encuentren dentro del programa financiero de actividades de dichos entes, dando cumplimiento a las disposiciones de la presente Ley.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá otorgar aval para garantizar operaciones de deuda pública como fuente o garantía de pago, o ambas de los Municipios o de los Organismos de la Administración Pública Paraestatal. Asimismo, los Municipios a través de los Ayuntamientos, podrán otorgar aval a sus Organismos Descentralizados Municipales para el mismo efecto, siempre y cuando, en ambos casos, los recursos que se obtengan, sean destinados a Inversiones Públicas Productivas y se encuentren dentro del programa financiero de actividades de dichos entes, dando cumplimiento a las disposiciones de la presente Ley.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 26.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá establecer mecanismos para afectar como fuente de pago o en garantía o ambos de las obligaciones constitutivas de deuda pública, las participaciones fiscales y el derecho a percibirlas que en ingresos federales le correspondan al Estado, siempre y cuando, dicha afectación esté autorizada por la Legislatura del Estado mediante la Ley de Ingresos del Estado de Oaxaca o a través de un decreto especifico, y dicha afectación no se contraponga a lo dispuesto en la Ley de Coordinación Fiscal Federal.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas y los Municipios, podrán establecer mecanismos para afectar o ceder como fuente de pago o en garantía, o ambos, de las obligaciones que contraigan de conformidad con la legislación aplicable, las participaciones en ingresos federales, fondos o aportaciones federales, que de conformidad con la legislación aplicable pueda disponer para ese fin, así como el derecho a percibirlos, siempre y cuando, dicha afectación o cesión esté autorizada por la Legislatura del Estado, mediante la Ley de Ingresos del Estado de Oaxaca, o a través de un Decreto específico, y dicha afectación o cesión no se contraponga a lo dispuesto, en su caso, en la Ley de Coordinación Fiscal.
 
-Los mecanismos a que se refiere el presente artículo, deberán sujetarse al artículo 9 de la Ley de Coordinación Fiscal Federal.
+Los mecanismos a que se refiere el presente artículo, deberán sujetarse, en su caso, a la Ley de Coordinación Fiscal y a las demás disposiciones que sean aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 26 Bis.
+
+Los Entes Públicos del Estado, en la contratación de sus financiamientos podrán celebrar fideicomisos de administración y pago o de garantía, afectando o cediendo como patrimonio del fideicomiso un porcentaje necesario y suficiente de sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales o cualesquier otros ingresos, federales o locales, de los que puedan disponer para ese fin, de conformidad con la legislación aplicable.
+
+Los fideicomisos a que se refiere el presente artículo, en ningún caso, serán considerados como parte de la administración pública paraestatal o paramunicipal, por lo que no les es aplicable lo previsto por la Ley de Entidades Paraestatales del Estado de Oaxaca, ni tampoco lo previsto por la Ley que regula los Fideicomisos con Participación Estatal.
 
 ### CAPÍTULO VI. DEL REGISTRO ÚNICO DE OBLIGACIONES Y FINANCIAMIENTOS
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Finanzas tendrá a su cargo el Registro Único de Obligaciones y Financiamientos constitutivos de deuda pública Estatal y Municipal, a través de la Unidad Administrativa que ésta determine. En dicho Registro se anotarán el monto, condiciones financieras, destino de los recursos obtenidos, fuente de pago y características generales, así como los requisitos que establece el Artículo 19 de la presente Ley.
+La Secretaría de Finanzas tendrá a su cargo el Registro Único de Obligaciones y Financiamientos Estatal y Municipal, a través de la Unidad Administrativa que ésta determine. En dicho Registro se anotarán el monto, condiciones financieras, destino de los recursos obtenidos, fuente de pago y características generales, respecto de obligaciones y financiamientos del Estado y de los Municipios, así como los requisitos que establece el artículo 19 de la presente Ley.
 
 ###### Artículo 28.
 
@@ -420,6 +482,100 @@ El procedimiento a que se refiere el párrafo anterior no será aplicable tratá
 ###### Artículo 35.
 
 En caso de incumplimiento, los acreedores de los entes a que se refiere el primer párrafo del Artículo anterior, podrán solicitar a la Secretaría de Finanzas, el pago de las obligaciones contratadas e incumplidas, siempre y cuando, estén inscritas en el Registro Único de Obligaciones y Financiamientos. Para tal efecto, los acreedores antes referidos, deberán justificar plenamente el incumplimiento de que se trate.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPÍTULO VII. DE LA EMISIÓN Y COLOCACIÓN DE VALORES Y DE LOS FIDEICOMISOS EMISORES DE VALORES Y DE CAPTACIÓN DE RECURSOS
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 36.
+
+Los Entes Públicos del Estado podrán obtener financiamientos mediante la emisión de valores en el mercado de valores mexicano.
+
+Asimismo, los Entes Públicos del Estado podrán constituir fideicomisos emisores de valores y/o de captación de recursos, cuyo patrimonio se integre en términos de la autorización de la Legislatura del Estado a que se refiere el artículo 38 de esta Ley.
+
+Los fideicomisos a que se refiere el presente artículo, en ningún caso, serán considerados como parte de la administración pública paraestatal o paramunicipal, por lo que no les es aplicable lo previsto por la Ley de Entidades Paraestatales del Estado de Oaxaca, y tampoco lo previsto por la Ley que regula los Fideicomisos con Participación Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 37.
+
+Los Entes Públicos del Estado, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, sólo podrán emitir títulos de deuda pública pagaderos en moneda nacional y dentro del territorio Nacional, previa autorización de la Legislatura del Estado. Asimismo, dichos requisitos deberán ser cumplidos por los fideicomisos a que se refiere el artículo 42 de esta Ley, con respecto a la emisión de valores y en los actos jurídicos, a través de los cuales se efectúe la captación de recursos.
+
+Tanto en el acta de emisión, en su caso, como en los títulos mismos, así como en los actos jurídicos a través de los cuales se efectúe la captación de recursos, según corresponda, deberán citarse los datos fundamentales respecto a la autorización, así como la prohibición de su cesión a extranjeros, sean éstos Gobiernos, entidades gubernamentales, personas físicas o morales, u organismos internacionales. Si en tales instrumentos no se consignan dichas prevenciones, los mismos no tendrán validez alguna.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 38.
+
+Corresponde a la Legislatura del Estado, autorizar a los Entes Públicos del Estado a que se refiere el artículo 3 de esta Ley, para afectar o ceder al patrimonio de fideicomisos a que se refiere el presente Capítulo, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer para ese fin, de conformidad con la legislación aplicable, a efecto de que sirvan como base de la emisión de valores y de la captación de recursos, mismos que deberán contar a su vez con la autorización de la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 39.
+
+Corresponde al Ejecutivo del Estado, someter a la autorización de la Legislatura del Estado, los actos a que se refiere el artículo anterior, cuando se trate de los fideicomisos constituidos por los Entes Públicos señalados en las fracciones I, III y V, esta última en lo que corresponda, del artículo 3 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 40.
+
+Corresponde a la Secretaría de Finanzas:
+
+I.- Formular las solicitudes que serán sometidas por el Ejecutivo del Estado para aprobación de la Legislatura del Estado, relativas a la constitución de los fideicomisos a que se refiere el artículo 39 de esta Ley y a la emisión de valores de los Entes Públicos señalados en las fracciones I, III y V, esta última en lo que corresponda, del artículo 3 de esta Ley;
+
+II.- Afectar o ceder los ingresos, derechos y bienes a que se refiere el artículo 38 de esta Ley, al patrimonio de los fideicomisos a que se refiere el artículo 39 de esta Ley, a efecto de que sirvan como base de la emisión de valores y/o de la captación de recursos, previa autorización de la Legislatura en términos del artículo 38 de esta Ley.
+
+Al efecto tendrá todas las facultades para negociar y concertar los términos y condiciones que sean necesarias o convenientes para la consecución de las afectaciones o cesiones a que se refiere el párrafo anterior, pudiendo celebrar los convenios, contratos y demás actos necesarios, convenientes o complementarios;
+
+III.- Vigilar que la capacidad de pago de los fideicomisos a que se refiere el artículo 39 de la presente Ley, sea suficiente para cubrir puntualmente los compromisos que contraigan para tal efecto los fiduciarios respectivos; debiendo supervisar de forma permanente la adecuada estructura financiera de los fideicomisos de que se trate; y
+
+IV.- Contratar directamente a Instituciones Calificadoras de Valores debidamente autorizadas en los Estados Unidos Mexicanos, auditores externos, asesores especializados, agentes estructuradores, intermediarios financieros, proveedores de precios y otros necesarios o convenientes, a efecto de que asesoren a la administración pública, y en su caso, entre otras actividades, emitan su opinión respecto de la calidad crediticia de los fideicomisos a que se refiere el artículo 39 de la presente Ley, de sus emisiones de valores y los actos jurídicos a través de los cuales se realiza la captación de recursos y de su estructura. Asimismo, podrá contratar a dichas personas, para que en sus correspondientes ámbitos, realicen la revisión periódica de las calificaciones respectivas, la dictaminación de los estados financieros del propio fideicomiso, que incluyan su situación financiera, la colocación de los valores, y de manera general, realizar cualquier acto jurídico o material que coadyuve a mejorar la capacidad crediticia, las condiciones y estructura de los fideicomisos a que se refiere el artículo 39 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 41.
+
+Los Municipios podrán solicitar a la Legislatura del Estado, la afectación o cesión de los ingresos, derechos y bienes señalados en el artículo 38 de esta Ley, al patrimonio de los fideicomisos a que se refiere el presente Capítulo, a efecto de que sirvan como base de la emisión de valores.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 42.
+
+Las emisiones de valores autorizadas por la Legislatura del Estado en los términos de la presente Ley, podrán ser realizadas de manera directa por el Ente Público del Estado de que se trate o por un fideicomiso de los referidos en el presente Capítulo, constituido por alguno o diversos Entes Públicos del Estado, con ese fin y de conformidad con el correspondiente decreto de autorización de la Legislatura del Estado, en términos del contrato constitutivo del mismo, de acuerdo a la legislación aplicable.
+
+Los fideicomisos a que se refiere el presente Capítulo podrán realizar la captación de recursos a través de los actos jurídicos que celebren de conformidad con el correspondiente decreto de autorización de la Legislatura del Estado, en términos del acto jurídico respectivo y de acuerdo con la legislación aplicable.
+
+En todo caso, las obligaciones pactadas en términos de los fideicomisos a que se refieren los párrafos anteriores, podrán ser inscritas en el registro a que se refiere el artículo 27 de esta Ley, sin perjuicio de lo previsto por los artículos 5, párrafo segundo y 32 de dicha Ley. Asimismo, en virtud de que ninguna de las obligaciones a cargo de los fideicomisos a que se refiere el presente Capítulo constituye deuda pública, el riesgo de incumplimiento de las mismas correrá a cargo exclusivamente de los tenedores de los valores emitidos por dichos fideicomisos y sus acreedores.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 43.
+
+Para llevar a cabo la emisión de los valores, los Entes Públicos del Estado o en su caso, el fideicomiso emisor constituido por los mismos, deberán cumplir con la Ley del Mercado de Valores y, en su caso, con las disposiciones de carácter general aplicables en materia de valores en los cuales se incluyen obligaciones, como lo son, de manera enunciativa, pero no limitativa, las relativas a la revelación de información, la auditoría de información financiera, la obtención de calificaciones al programa y/o a las emisiones de valores en particular y la contratación de intermediarios financieros encargados de la colocación de los valores.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 44.
+
+En la emisión de valores, los Entes Públicos del Estado o en su caso, los fiduciarios de los fideicomisos a que se refiere el presente Capítulo, podrán constituir garantías, esquemas financieros o contratar a aseguradoras financieras y cualesquiera otras personas que otorguen una garantía financiera a los valores emitidos.
+
+De la misma manera, los fiduciarios de los fideicomisos a que se refiere el presente Capítulo podrán, conjuntamente con la celebración de los actos jurídicos por los cuales realicen captación de recursos, constituir o contratar cualesquiera garantías de pago.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 45.
+
+Los valores que se emitan por los Entes Públicos del Estado o por los fideicomisos emisores, que los primeros constituyan, podrán ser colocados de manera privada o entre el gran público inversionista por uno o varios intermediarios financieros autorizados al efecto, a través de una bolsa de valores mexicana.
+
+Los actos jurídicos por los cuales los fideicomisos a que se refiere el presente Capítulo capten recursos, deberán ser celebrados con personas mexicanas exclusivamente.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 46.
+
+La autorización que otorgue la Legislatura del Estado, para que los Entes Públicos del Estado o los fideicomisos a que se refiere el presente Capítulo, puedan llevar a cabo la emisión de valores y en su caso, la celebración de los actos jurídicos por los cuales se capten recursos, deberá señalar que el destino de los recursos que se obtengan, será la realización de Inversiones Públicas Productivas, así como el monto o cantidad máxima autorizada, y demás características generales; pudiendo establecer disposiciones relativas al pago de intereses, comisiones o gastos asociados, que tenga que cubrir el Ente Público emisor o el fideicomiso respectivo, en su caso; además de las autorizaciones para la celebración de todos los actos jurídicos o materiales, necesarios o convenientes al efecto.
 
 TRANSITORIOS:
 
@@ -488,3 +644,7 @@ SEGUNDO.- Las disposiciones contenidas en el presente Decreto serán aplicables 
 P.O. 3 DE SEPTIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
