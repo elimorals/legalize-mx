@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -91,9 +91,25 @@ d) Otros no especificados.
 
 Ningún gravamen podrá recaudarse si no está previsto en la Ley de Ingresos del Estado o por una disposición fiscal especial.
 
-Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente las leyes y decretos fiscales del estado.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 Las cuotas que se fijen en ley por los servicios de seguridad especializada que preste el estado a los particulares que los soliciten, son derechos, y en consecuencia créditos fiscales, por lo que les serán aplicables las disposiciones contenidas en este Código.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 3 Bis.
+
+Los ingresos a que se refiere el presente Código, solamente podrán afectarse o cederse, cuando así lo establezca la Legislatura del Estado, mediante Ley o Decreto, en los siguientes casos:
+
+I.- Cuando la afectación o cesión se realice como medio de pago o garantía de la deuda pública de los Entes Públicos del Estado a que se refiere la Ley de Deuda Pública Estatal y Municipal;
+
+II.- Para constituir el patrimonio de los fideicomisos a que se refiere el Capítulo VII de dicha Ley, en los términos y previo cumplimiento de los requisitos que la misma Ley establece;
+
+III.- Para la realización de cualquier otra atribución que le corresponda al Estado o Municipio;
+
+IV.- Para el cumplimiento de cualquier otra obligación de estos últimos; o
+
+V.- En cualquier otro caso, que así lo determine la Legislatura del Estado.
 
 ###### ARTICULO 4.
 
@@ -247,7 +263,9 @@ Cuando de conformidad con este artículo se entienda que hay enajenación, el ad
 
 ARTICULO 13 A.- Cuando las disposiciones fiscales obliguen a los contribuyentes a presentar documentos o declaraciones, podrán optar por cumplir con sus obligaciones a través de los medios electrónicos que señale la Secretaría de Finanzas del Gobierno del Estado.
 
-Asimismo, y tratándose del pago de sus contribuciones, éstas podrán ser mediante transferencia electrónica de fondos a favor de la Secretaría de Finanzas del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Asimismo, y tratándose del pago de sus contribuciones y otros ingresos, podrá efectuarse mediante transferencia electrónica de fondos, a favor de la Secretaría de Finanzas del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -505,9 +523,13 @@ V Omita el pago de dos parcialidades; y
 
 VI Por el incumplimiento a cualquiera de las obligaciones consignadas a su cargo, en el convenio de pago en parcialidades.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 28.
 
-El pago deberá efectuarse en las Oficinas Recaudadoras de Rentas de la Secretaría de Finanzas del Gobierno del Estado, oficinas, instituciones u organismos que al efecto autorice la propia Secretaría, dentro de la circunscripción territorial que corresponda al domicilio del obligado; debiendo recabar quien lo realice, el comprobante correspondiente.
+El pago deberá efectuarse en las Oficinas Recaudadoras de Rentas de la Secretaría de Finanzas del Gobierno del Estado, oficinas, instituciones u organismos, de conformidad con el artículo 5 de este Código dentro de la circunscripción territorial que corresponda al domicilio del obligado; debiendo recabar quien lo realice, el comprobante correspondiente.
+
+Asimismo, la propia Secretaría de Finanzas del Gobierno del Estado podrá establecer, de conformidad con el artículo 5 de este Código, que el pago deba efectuarse en las sucursales o a través de los medios electrónicos que al efecto proporcionen los bancos y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, y que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Secretaría de Finanzas del Gobierno del Estado, como auxiliares en la administración y recaudación de los Ingresos mencionados, considerando al efecto la mayor cobertura y eficiencia posibles; debiendo recabar quien realice el pago, el comprobante correspondiente. Al efecto, la Secretaría de Finanzas podrá celebrar los acuerdos, contratos y convenios que sean necesarios o convenientes con los entes privados y públicos antes señalados.
 
 ###### ARTICULO 29.
 
@@ -2660,3 +2682,7 @@ SEGUNDO.- Lo dispuesto en el artículo 68 del presente Código, se aplicará al 
 TERCERO.- Lo dispuesto en el artículo 121, penúltimo párrafo del presente Código, se aplicará a los embargos precautorios que hayan sido trabados a partir de la fecha de entrada en vigor del presente Decreto, siempre y cuando la autoridad haya iniciado facultades de comprobación a partir de la misma fecha.
 
 CUARTO.- La Secretaría de Finanzas contará con un plazo de hasta 180 días contados a partir de la entrada en vigor del presente decreto, para emitir las reglas generales a que se refiere el artículo 13 B.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
