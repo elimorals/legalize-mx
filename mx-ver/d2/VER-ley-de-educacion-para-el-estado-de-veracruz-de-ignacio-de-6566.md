@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2007-06-26"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -67,9 +67,11 @@ La educación es el medio fundamental para adquirir, transmitir y acrecentar la 
 
 El fin primordial del proceso educativo es la formación integral del educando; y para lograr su desarrollo armónico debe asegurarse que éste participe de manera activa, estimulando su iniciativa, su sentido de responsabilidad individual y social, y su espíritu creativo.
 
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 5°.
 
-El Estado impartirá educación preescolar, primaria y secundaria. La primaria y la secundaria serán obligatorias. Estos servicios, de carácter público, se ofrecerán en el marco del federalismo y en la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos, y conforme a la distribución de la función social educativa, establecida en la Ley General de Educación.
+El Estado impartirá educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria serán obligatorias. Estos servicios, de carácter público, se ofrecerán en el marco del federalismo y en la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos, y conforme a la distribución de la función social educativa, establecida en la Ley General de Educación.
 
 ###### ARTICULO 6°.
 
@@ -117,7 +119,11 @@ XI. Valorar la esencia de las tradiciones y de las manifestaciones culturales de
 
 > <small>(ADICIONADA, G.O. 11 DE AGOSTO DE 2006)</small>
 
-XII. Fomentar el conocimiento y la cultura de la prevención del delito, de la protección civil y de vialidad preventiva.
+XII. Fomentar el conocimiento y la cultura de la prevención del delito, de la protección civil y de vialidad preventiva;
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+XIII. Promover, a través de las dependencias y entidades correspondientes, la realización de estudios sobre los valores nutricionales mínimos que deban tener los educandos para un mejor desempeño escolar de acuerdo a su edad y desarrollo.
 
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2002)</small>
 
@@ -169,7 +175,11 @@ IX. Integrar el registro de academias, gimnasios, clubes y escuelas particulares
 
 X. Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos del sistema educativo estatal, con base en las disposiciones legales aplicables;
 
-XI. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizar actividades que propicien mayor aprecio social por el trabajo del magisterio.
+XI. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizar actividades que propicien mayor aprecio social por el trabajo del magisterio;
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+XII. Aprobar el reglamento interno de las instituciones de educación superior, vigilando que contenga medios de solución de controversias entre estudiantes y académicos o áreas administrativas.
 
 ###### ARTICULO 14.
 
@@ -387,9 +397,11 @@ La educación inicial favorecerá el desarrollo de las capacidades físicas, cog
 
 La educación preescolar promoverá el desarrollo integral del niño, ofreciéndole oportunidades de realización que le permitan identificarse como ser individual y miembro de un grupo social.
 
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 39.
 
-La educación preescolar constituye el primer nivel de la educación básica y atenderá a niños cuyas edades fluctúen entre los cuatro y los seis años y no es un antecedente obligatorio para la educación primaria.
+La educación preescolar es obligatoria y constituye el primer nivel de la educación básica y atenderá a niños cuyas edades fluctúen entre los cuatro y los seis años.
 
 ### CAPITULO II. DE LA EDUCACION PRIMARIA
 
@@ -593,7 +605,9 @@ Se procurará la aplicación de los programas y guías metodológicas oficiales 
 
 La educación física que imparta el Estado, tendrá además de los propósitos establecidos, los siguientes:
 
-I. Estimular la disciplina del ejercicio físico y la práctica del deporte;
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+I. Estimular la disciplina del ejercicio físico y la práctica del deporte. En las instituciones de educación básica se promoverá la realización de estas actividades por lo menos una hora cada tercer día;
 
 II. Desarrollar actitudes responsables hacia la preservación de la salud, propiciar el rechazo a las adicciones y prevenir las conductas delictivas; y
 
@@ -657,21 +671,33 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios se otorg
 
 I. Con personal que acredite la preparación adecuada para impartir educación y, en su caso, satisfaga los demás requisitos que señalen las autoridades competentes;
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento; y
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
-III. Con planes y programas de estudio que la Secretaría de Educación y Cultura considere procedentes, en el caso de educación distinta de la preescolar, primaria, la secundaria, la normal y demás para la formación de docentes de educación básica.
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+III. Con planes y programas de estudio que la Secretaría de Educación y Cultura considere procedentes, en el caso de educación distinta de la preescolar, primaria, la secundaria; la normal y demás para la formación de docentes de educación básica; y
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Con un reglamento interno que norme las actividades académicas y administrativas, así como la relación de los alumnos con la institución a la que están adscritos, estableciendo un mecanismo de solución de controversias.
 
 > <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2005)</small>
 
 Los particulares deberán refrendar anualmente las autorizaciones y los reconocimientos de validez oficial de estudios que les hayan sido otorgados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 79.
 
-La Secretaría de Educación y Cultura publicará anualmente en la Gaceta Oficial, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión, en dicha lista, de las instituciones a las que revoque o retire las autorizaciones o reconocimientos respectivos.
+La Secretaría de Educación publicará en la Gaceta Oficial en la segunda quincena del mes de enero y en la segunda quincena del mes de julio, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicará a más tardar al tercer día de la expedición del acuerdo correspondiente, la inclusión o la supresión, en dicha lista, de las instituciones a las que revoque o retire las autorizaciones o reconocimientos respectivos.
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, deberán incluir en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Los municipios deberán exhibir permanentemente las publicaciones que hace mención el primer párrafo de este artículo, en los lugares de mayor concurrencia.
 
 ###### ARTICULO 80.
 
@@ -753,7 +779,9 @@ II. Incumplir con lo dispuesto en el artículo 81;
 
 III. Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
 
-En los supuestos previstos en este artículo, además de aplicarse las sanciones señaladas en la fracción I del artículo 85, podrá procederse a la clausura del plantel respectivo.
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+En los supuestos previstos en este artículo, además de aplicarse las sanciones señaladas en la fracción I del artículo 85, se procederá a la clausura del plantel respectivo, sin perjuicio de las sanciones que otras instancias apliquen.
 
 ###### ARTICULO 87.
 
@@ -887,7 +915,11 @@ II. Colaborar con las autoridades educativas en el mejoramiento de los edificios
 
 III. Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
 
-IV. Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+IV. Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
+
+> <small>(ADICIONADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+V. Participar con las autoridades escolares, dependencias y entidades correspondientes, en el diseño de programas sobre alimentación familiar, que permitan a los padres orientar el consumo que hagan sus hijos de los productos que sean comercializados por las cooperativas escolares.
 
 ###### ARTICULO 101.
 
@@ -1008,3 +1040,35 @@ G.O. 26 DE JUNIO DE 2007.
 Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 906.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 911.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 912.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 913.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
