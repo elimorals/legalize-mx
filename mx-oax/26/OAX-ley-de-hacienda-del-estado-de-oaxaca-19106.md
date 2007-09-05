@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -53,9 +53,11 @@ A falta de disposición expresa, se aplicarán las previstas en el Código Fisca
 
 En la Ley de Ingresos del Estado de Oaxaca, se establecerán anualmente los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que deban recaudarse en el ejercicio fiscal de que se trate, así como las participaciones federales, incentivos por administración de ingresos federales y los fondos de aportaciones y subsidios federales que establezcan los ordenamientos, sistemas y convenios de coordinación, y otros ingresos extraordinarios contemplados en la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 3.
 
-La administración y recaudación de todos los ingresos establecidos legalmente serán de la competencia de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, la cual podrá ser auxiliada por otras dependencias oficiales, organismos públicos y privados, por disposición de la Ley, o a petición de la propia Secretaría.
+La administración y recaudación de todos los ingresos establecidos legalmente, serán de la competencia de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, la cual podrá ser auxiliada por otras dependencias oficiales, bancos, entidades financieras, casas comerciales, oficinas postales o terceros, así como por organismos públicos y privados, por disposición de la Ley, o mediante convenio que celebre la propia Secretaría con los mismos.
 
 Cuando en alguna otra ley se dé una denominación distinta a la Secretaría de Finanzas del Gobierno del Estado de Oaxaca o a alguna de las Direcciones, Unidades Administrativas, Departamentos, Oficinas u Organismos Desconcentrados que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la propia Secretaría.
 
@@ -791,21 +793,31 @@ Por los servicios que preste la Secretaría General de Gobierno, se pagarán los
 
 Los servicios que presta el Estado en materia de control vehicular, causarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 42.
 
-Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, de acuerdo con los siguientes períodos:
+Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas, oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, o cualquier otro establecimiento auxiliar de los señalados en el artículo 3 de esta ley, de acuerdo con los siguientes periodos;
 
-I.- En los casos de emplacamiento o bajas de placas será:
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-a).- Cuando se trate de emplacamiento, dentro de los 15 días siguientes a la fecha de adquisición del vehículo; y,
+I.- En los casos de emplacamiento, bajas de placas y reemplacamiento será:
+
+a).- Cuando se trate de emplacamiento, dentro de los 15 días siguientes a la fecha de adquisición del vehículo;
 
 b).- Cuando se trate de bajas de placas, dentro de los 15 días siguientes a aquel en que se hizo la operación;
 
-II.- Para el caso del refrendo anual de vehículos, el periodo de pago comprenderá los meses de enero a marzo de cada año; y,
+c).- Cuando se trate de reemplacamiento, dentro del plazo que se establezca en la Ley de Ingresos correspondiente al ejercicio fiscal en que deba efectuarse, debiendo realizarse por lo menos cada tres años.
 
-III.- En los demás casos, en el momento que la persona solicite la prestación del servicio.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Para el caso de refrendo anual de vehículos, el periodo de pago comprenderá los meses de enero a marzo de cada año;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+III.- En el caso de la constancia pericial para determinar las condiciones de seguridad o de comodidad de los vehículos automotrices del servicio público y privado, el periodo de pago comprenderá los meses de enero a marzo de cada año; y
+
+IV.- En los demás casos, en el momento que la persona solicite la prestación del servicio.
 
 ### CAPITULO V. SERVICIOS CATASTRALES
 
@@ -1084,3 +1096,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 30 DE DICIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2007, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
