@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2007-08-29"
+last_updated: "2007-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -59,21 +59,63 @@ ARTICULO 4°
 
 La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
 
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ARTICULO 5°
 
-Las leyes veracruzanas, incluyendo las que se refieren al estado y capacidad de las personas, y las federales en su caso, se aplican a todos los habitantes del Estado, ya sean mexicanos o extranjeros, y ya estén domiciliados en éste, o sean transeúntes.
+Las leyes veracruzanas y las federales en su caso, se aplican a todos los habitantes del Estado, ya sean mexicanos o extranjeros, así como a los actos y hechos ocurridos en su territorio o jurisdicción y también aquellos que se sometan a dichas leyes, salvo cuando éstas contemplen la aplicación de un derecho extranjero y salvo, además, lo previsto en los Tratados y Convenciones de que México sea parte.
 
-ARTICULO 6°
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-Los efectos jurídicos de actos y contratos celebrados fuera del Estado, que deban ser ejecutados en el territorio de éste, se regirán por las disposiciones del presente Código y demás leyes veracruzanas, y por las federales en su caso.
+ARTICULO 5° A.
 
-ARTICULO 7°
+La determinación del derecho aplicable se hará conforme a las reglas siguientes:
 
-Los bienes inmuebles sitos en el Estado y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este Código y demás leyes veracruzanas, y por las federales en su caso, aun cuando los dueños o poseedores de aquéllos sean extranjeros.
+I. Las situaciones jurídicas válidamente creadas en la Entidad o en un Estado extranjero conforme a su derecho deberán ser reconocidas;
 
-ARTICULO 8°
+II. El estado y capacidad de las personas físicas se rige por el derecho del lugar de su domicilio;
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde sobrevengan. Sin embargo, los residentes fuera del Estado, sean mexicanos o extranjeros, quedan en libertad para sujetarse a las formas prescritas por este Código y demás leyes veracruzanas, cuando el acto haya de tener ejecución en aquél.
+III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+
+IV. La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, los residentes fuera del Estado, sean mexicanos o extranjeros, podrán sujetarse a las disposiciones de este Código, cuando el acto haya de tener ejecución en aquél.
+
+V. Salvo lo previsto en los artículos anteriores, los efectos jurídicos de los actos y contratos celebrados fuera del Estado, que deban ser ejecutados en el territorio de éste, se regirán por las disposiciones del presente Código y demás leyes veracruzanas, y por las federales en su caso, salvo que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
+
+Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la Federación.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 5° B.
+
+En la aplicación del derecho extranjero se observará, lo siguiente:
+
+I. Se aplicará como lo haría el juez extranjero correspondiente, para lo cual el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
+II. Se aplicaría el derecho sustantivo extranjero, salvo cuando dadas las especiales circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas mexicanas o de un tercer estado;
+
+III. No será impedimento para la aplicación del derecho extranjero, que el derecho mexicano no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+
+IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+
+V. Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la Federación.
+
+> <small>(ADICIONADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 5° C.
+
+No se aplicará el derecho extranjero:
+
+I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+
+II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
+
+ARTICULO 6° (DEROGADO, G.O. 5 DE SEPTIEMBRE DE 2007)
+
+ARTICULO 7° (DEROGADO, G.O. 5 DE SEPTIEMBRE DE 2007)
+
+ARTICULO 8° (DEROGADO, G.O. 5 DE SEPTIEMBRE DE 2007)
 
 ARTICULO 9°
 
@@ -87,9 +129,11 @@ ARTICULO 11
 
 Contra la observancia de la ley, no puede alegarse desuso, costumbre o práctica en contrario.
 
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ARTICULO 12
 
-El que funde su derecho en leyes que no sean federales o del Estado, deberá probar la existencia de ellas y que son aplicables al caso.
+El que funde su derecho en leyes de otra entidad federativa o país extranjero, únicamente queda obligado a probar su aplicabilidad al caso concreto.
 
 ARTICULO 13
 
@@ -15954,3 +15998,9 @@ Segundo. Las autoridades administrativas y judiciales pondrán a disposición de
 G.O. 29 DE AGOSTO DE 2007.
 
 Único. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
