@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-deberan-observar-las-dependencias-y-51207"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2004-09-06"
-last_updated: "2004-09-06"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51207&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-08-31"
 
 ACUERDO QUE ESTABLECE LOS LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL PARA EL CONTROL, LA RENDICION DE CUENTAS E INFORMES Y LA COMPROBACION DEL MANEJO TRANSPARENTE DE LOS RECURSOS PUBLICOS FEDERALES OTORGADOS A FIDEICOMISOS, MANDATOS O CONTRATOS ANALOGOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, PUBLICADO EN EL D.O.F. DE 5 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de septiembre de 2004.
 
@@ -112,3 +114,25 @@ CUARTO.- Para efectos de lo establecido en el lineamiento sexto, los titulares d
 Sufragio Efectivo. No Reelección.
 
 México, Distrito Federal, a los treinta y un días del mes de agosto de dos mil cuatro.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 5 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo por el que se expide el Manual de Normas Presupuestarias para la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2004 y se derogan aquéllas disposiciones que contravengan lo dispuesto por el presente Reglamento.
+
+TERCERO. Se abroga el Acuerdo que establece los lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal para el control, la rendición de cuentas e informes y la comprobación del manejo transparente de los recursos públicos federales otorgados a fideicomisos, mandatos o contratos análogos, publicado en el Diario Oficial de la Federación el 6 de septiembre de 2004.
+
+CUARTO. Las dependencias o entidades que requieran tramitar la autorización a que se refiere el artículo 8 D de este Reglamento y que con anterioridad hayan participado en la creación de empresas, sociedades o asociaciones, civiles o mercantiles, o en el aumento de su capital o patrimonio o en la adquisición de todo o parte de éstos, sin haber obtenido la autorización del Ejecutivo Federal prevista en el artículo 8o de la abrogada Ley de Presupuesto, Contabilidad y Gasto Público Federal, o en el artículo 8 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberán previo a la realización de dicho trámite, presentar a la Secretaría de Hacienda y Crédito Público el informe a que se refiere el artículo 8 C de este Reglamento, para el efecto de que la Secretaría únicamente tome conocimiento de la participación estatal que se hubiere realizado.
+
+Las empresas de participación estatal mayoritaria y las sociedades y asociaciones, civiles o mercantiles, que por primera ocasión tramiten una autorización de acuerdo con el artículo 8 D de este Reglamento, deberán incluir en su informe, lo relativo al régimen jurídico de su constitución, salvo que para ésta se hubiera obtenido la autorización correspondiente en los términos del artículo 8 C del mismo.
+
+QUINTO. Hasta en tanto la Secretaría emite los términos a que hace referencia el segundo párrafo del artículo 47 del presente Reglamento, se considera que un programa o proyecto de inversión modifica su alcance, cuando el monto total de inversión del mismo varíe en más de 25 por ciento en términos reales, respecto al monto previsto en el último análisis costo y beneficio presentado para registrar el programa o proyecto, o actualizar su registro en la Cartera.
+
+SEXTO. Para los efectos del Título Cuarto, Capítulo II, Sección III de este Reglamento, y en tanto la Secretaría emite nuevas disposiciones en la materia, continuará aplicando lo dispuesto en el Acuerdo por el que se expiden los lineamientos para el manejo de las disponibilidades financieras de las entidades paraestatales de la Administración Pública Federal, publicado el 28 de junio de 2006 en el Diario Oficial de la Federación.
+
+SÉPTIMO. El modelo a que se refiere el artículo 215, fracción II de este Reglamento se dará a conocer en el portal de Internet de la Secretaría a más tardar dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. En aquellos fideicomisos, o análogos que a la entrada en vigor del presente Decreto se encuentren en proceso de extinción o cuya vigencia haya concluido y no se haya formalizado el convenio de extinción respectivo, en ambos casos por virtud de cualquier situación de hecho o de derecho originada durante su operación o extinción, corresponderá a la unidad responsable de la dependencia con cargo a cuyo presupuesto se hayan aportado los recursos presupuestarios, o que coordine su operación, resolver dicha situación y realizar los actos necesarios que permitan llevar a cabo la formalización de su extinción.
