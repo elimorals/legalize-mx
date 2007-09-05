@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2007-01-19"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -1045,6 +1045,10 @@ Las entidades paraestatales a que se refiere este artículo, tendrán funciones 
 
 Son fideicomisos públicos los que se establezcan por la Legislatura del Estado o por el titular del Ejecutivo Estatal a través de decreto, que tengan como propósito, auxiliar al Ejecutivo en la realización de actividades prioritarias, siendo fideicomitente único por parte del Gobierno del Estado, la Secretaría de Finanzas en representación del Titular del Poder Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Los fideicomisos emisores de valores a que se refiere el Capítulo VII de la Ley de Deuda Pública Estatal y Municipal, así como los fideicomisos que se constituyen como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por los Entes Públicos a que se refiere el artículo 3 fracciones I, III y V de la Ley de Deuda Pública Estatal y Municipal, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública paraestatal, por lo que no les es aplicable lo previsto por la presente ley, ni lo previsto por la Ley que regula los Fideicomisos con Participación Estatal.
+
 ###### Artículo 53.
 
 El Poder Ejecutivo intervendrá en las operaciones de las entidades paraestatales, a través de una coordinación sectorial por parte de sus dependencias, considerando la esfera de competencia de éstas y su relación con el objeto de dichas entidades.
@@ -1158,3 +1162,7 @@ P.O. 19 DE ENERO DE 2007.
 PRIMERO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los recursos humanos, materiales y financieros de la Coordinación de Comunicación Social del Poder Ejecutivo del Estado de Oaxaca, pasarán a la Dirección de Comunicación Social de la Secretaría Técnica del Ejecutivo, lo que tendrá entendido el Gobernador del Estado para los efectos legales y administrativos correspondientes.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
