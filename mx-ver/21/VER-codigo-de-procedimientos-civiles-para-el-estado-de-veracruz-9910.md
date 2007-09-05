@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2006-02-14"
+last_updated: "2007-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -1631,9 +1631,11 @@ ARTICULO 230
 
 Ni la prueba en general, ni los medios de prueba establecidos por la ley, son renunciables.
 
+> <small>(REFORMADO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ARTICULO 231
 
-Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
+Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos, costumbres o jurisprudencia.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5943,11 +5945,17 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al d
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 14 DE FEBRERO DE 2006.
+G.O. 14 DE FEBRERO DE 2006.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
