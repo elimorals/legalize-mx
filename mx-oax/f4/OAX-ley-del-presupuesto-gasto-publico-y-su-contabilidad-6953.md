@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2005-09-03"
+last_updated: "2007-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -131,6 +131,12 @@ El Presupuesto de Egresos del Estado comprenderá también, en capítulo especia
 
 Las entidades a que se refiere la fracción IV del artículo 2o. de esta Ley deberán presentar por separado ante la Secretaría de Finanzas y dentro de los plazos establecidos para la entrega de los anteproyectos, el Presupuesto de Ingresos, costos y gastos propios de las mismas y que no correspondan al Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 14 Bis.
+
+El Presupuesto de Egresos del Estado, incluirá las partidas correspondientes a los compromisos derivados de ingresos y derechos previamente afectados o cedidos a los fideicomisos, a que se refiere el Capítulo VII de la Ley de Deuda Pública Estatal y Municipal, mientras dichos fideicomisos estén vigentes. El Ejecutivo Estatal contemplara lo previsto en este artículo, al formular el Proyecto de Presupuesto de Egresos de cada ejercicio fiscal.
+
 ###### Artículo 15.
 
 Para la formulación del proyecto de Presupuesto de Egresos del Estado, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de Presupuesto con base en los programas respectivos.
@@ -192,6 +198,10 @@ Para los efectos del párrafo anterior, deberán tomarse en cuenta las circunsta
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 Los ajustes y reducciones que efectúe el Ejecutivo Estatal en observancia de lo anterior, deberán realizarse en forma colectiva, sin afectar los programas prioritarios del gasto social y, en general, los programas estratégicos, optando preferentemente en los casos de programas de inversión por aquellos de menor productividad e impacto social y económico, esta afectación tampoco opera en programas cuya aplicación esté orientada a la construcción de la equidad de género y de programas de inversión.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+Sin menoscabo de lo anteriormente señalado, el Ejecutivo Estatal, con cargo a los recursos a que se refiere el primer párrafo del presente artículo, deberá efectuar el pago de las obligaciones del Estado asumidas conforme a lo previsto por el artículo 5 párrafo cuarto, de la Ley de Deuda Pública Estatal y Municipal. En caso de que los recursos disponibles no sean suficientes para el pago total de dichas obligaciones en el año calendario correspondiente, la partida relativa para el pago de las cantidades restantes deberá incluirse en el Presupuesto de Egresos del año calendario siguiente, considerando en todo caso las posibilidades financieras del Estado, debiendo conservarse las directrices de la programación del gasto público estatal, la estructura y el equilibrio presupuestal.
 
 ###### Artículo 21.
 
@@ -434,3 +444,7 @@ UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 3 DE SEPTIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
