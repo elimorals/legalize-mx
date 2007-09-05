@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2007-02-07"
+last_updated: "2007-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY NUMERO 62 ESTATAL DE PROTECCION AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
-Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
+Ley publicada en el alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
 Al margen un sello que dice: Estados Unidos Mexicanos, Gobernador del Estado de Veracruz-Llave.
 
@@ -81,107 +81,107 @@ XII. La Educación Ambiental.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Actividades riesgosas: Las que pueden generar efectos contaminantes en los ecosistemas o dañar la salud y no son consideradas por la Federación como altamente riesgosas.
+I.- Actividades riesgosas: Las que pueden generar efectos contaminantes en los ecosistemas o dañar la salud y no son consideradas por la Federación como altamente riesgosas.
 
-II. Aguas residuales: aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original.
+II.- Aguas residuales: aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original.
 
-III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados.
+III.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados.
 
-IV. Áreas naturales protegidas de competencia Federal: Las zonas del territorio nacional sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley.
+IV.- Áreas naturales protegidas de competencia Federal: Las zonas del territorio nacional sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley.
 
-V. Áreas naturales protegidas: zonas del territorio estatal y aquellas sobre las que el Estado ejerce su soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas o restauradas y están sujetas al régimen previsto en la presente Ley con el fin de preservar e interconectar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento sustentable de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
+V.- Áreas naturales protegidas: zonas del territorio estatal y aquellas sobre las que el Estado ejerce su soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas o restauradas y están sujetas al régimen previsto en la presente Ley con el fin de preservar e interconectar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento sustentable de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
 
-VI. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos.
+VI.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos.
 
-VII. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
+VII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
 
-VIII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
+VIII.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
 
-IX. Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y con base en el ordenamiento ecológico del territorio, con el fin de asegurar a las generaciones presentes y venideras, un ambiente propicio para su desarrollo y la de los recursos naturales que les permitan satisfacer sus necesidades.
+IX.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y con base en el ordenamiento ecológico del territorio, con el fin de asegurar a las generaciones presentes y venideras, un ambiente propicio para su desarrollo y la de los recursos naturales que les permitan satisfacer sus necesidades.
 
-X. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico.
+X.- Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico.
 
-XI. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural.
+XI.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural.
 
-XII. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas.
+XII.- Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas.
 
-XIII. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
+XIII.- Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
 
-XIV. Criterios ecológicos: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental.
+XIV.- Criterios ecológicos: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental.
 
-XV. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+XV.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XVI. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos.
+XVI.- Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XVII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados.
+XVII.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados.
 
-XVIII. Educación Ambiental: Proceso tendiente a la formación de una conciencia crítica, valores y actitudes que tiendan a la prevención y la solución de los problemas ambientales, como condición para alcanzar la sustentabilidad.
+XVIII.- Educación Ambiental: Proceso tendiente a la formación de una conciencia crítica, valores y actitudes que tiendan a la prevención y la solución de los problemas ambientales, como condición para alcanzar la sustentabilidad.
 
-XIX. Educación Ambiental Formal: El proceso que se efectúa en el sistema escolarizado e incluye la dimensión ambiental en la estructura de los planes y programas de los distintos rangos educativos, incorporando también elementos de innovación pedagógica en los procesos didácticos.
+XIX.- Educación Ambiental Formal: El proceso que se efectúa en el sistema escolarizado e incluye la dimensión ambiental en la estructura de los planes y programas de los distintos rangos educativos, incorporando también elementos de innovación pedagógica en los procesos didácticos.
 
-XX. Educación Ambiental No Formal: Es la que se desarrolla paralela e independientemente a la educación formal, no estando inscrita en programas escolarizados y es susceptible de dirigirse a grupos diferenciados, tales como obreros, campesinos, asociaciones vecinales, comunidades indígenas, entre otros.
+XX.- Educación Ambiental No Formal: Es la que se desarrolla paralela e independientemente a la educación formal, no estando inscrita en programas escolarizados y es susceptible de dirigirse a grupos diferenciados, tales como obreros, campesinos, asociaciones vecinales, comunidades indígenas, entre otros.
 
-XXI. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XXI.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXII. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
+XXII.- Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin la inducción del hombre;
 
-XXIII. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
+XXIII.- Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XXIV. Espacio Natural Protegido: Cualquier área natural protegida o área privada de conservación de jurisdicción estatal.
+XXIV.- Espacio Natural Protegido: Cualquier área natural protegida o área privada de conservación de jurisdicción estatal.
 
-XXV. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
+XXV.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación.
 
-XXVI. Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
+XXVI.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre.
 
-XXVII. Formación Ambiental: Es aquella que propicia la incorporación de la dimensión ambiental en todas las áreas del conocimiento y la acción humana, con el propósito de contribuir a la construcción de relaciones de interdependencia positivas entre la sociedad y la naturaleza.
+XXVII.- Formación Ambiental: Es aquella que propicia la incorporación de la dimensión ambiental en todas las áreas del conocimiento y la acción humana, con el propósito de contribuir a la construcción de relaciones de interdependencia positivas entre la sociedad y la naturaleza.
 
-XXVIII. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
+XXVIII.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
-XXIX. Ley General: La Ley General del equilibrio Ecológico y la Protección al Ambiente.
+XXIX.- Ley General: La Ley General del equilibrio Ecológico y la Protección al Ambiente.
 
-XXX. Manejo de residuos sólidos no peligrosos: conjunto de operaciones de recolección, transporte, almacenamiento, reciclaje, tratamiento o disposición final de los mismos.
+XXX.- Manejo de residuos sólidos no peligrosos: conjunto de operaciones de recolección, transporte, almacenamiento, reciclaje, tratamiento o disposición final de los mismos.
 
-XXXI. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
+XXXI.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XXXII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
+XXXII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XXXIII. Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico–infecciosas.
+XXXIII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico–infecciosas.
 
-XXXIV. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
+XXXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-XXXV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
+XXXV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XXXVI. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
+XXXVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
-XXXVII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+XXXVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
-XXXVIII. Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano.
+XXXVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano.
 
-XXXIX. Recursos genéticos: El material genético de valor real o potencial.
+XXXIX.- Recursos genéticos: El material genético de valor real o potencial.
 
-XL. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+XL.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
 
-XLI. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes.
+XLI.- Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes.
 
-XLII. Registro Estatal de Espacios Naturales Protegidos: Registro en el que se llevará control de los datos relacionados con las Áreas naturales Protegidas y las Áreas privadas de Conservación de jurisdicción estatal.
+XLII.- Registro Estatal de Espacios Naturales Protegidos: Registro en el que se llevará control de los datos relacionados con las Áreas naturales Protegidas y las Áreas privadas de Conservación de jurisdicción estatal.
 
-XLIII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+XLIII.- Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
 
-XLIV. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico - infecciosas, representen un peligro para el equilibrio ecológico o el ambiente.
+XLIV.- Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico - infecciosas, representen un peligro para el equilibrio ecológico o el ambiente.
 
-XLV. Residuos sólidos de origen municipal: los residuos no peligrosos que se generan en casas habitación, parques, jardines, vías públicas, instituciones públicas y privadas, sitios de reunión, mercados, comercios, demoliciones, construcciones, instituciones, establecimientos comerciales y de servicio, en general, todos aquellos generados en las actividades de los centros de población.
+XLV.- Residuos sólidos de origen municipal: los residuos no peligrosos que se generan en casas habitación, parques, jardines, vías públicas, instituciones públicas y privadas, sitios de reunión, mercados, comercios, demoliciones, construcciones, instituciones, establecimientos comerciales y de servicio, en general, todos aquellos generados en las actividades de los centros de población.
 
-XLVI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+XLVI.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 > <small>(REFORMADA, G.O. 7 DE FEBRERO DE 2007)</small>
 
-XLVII. Secretaría: Secretaría de Desarrollo Social y Medio Ambiente.
+XLVII.- Secretaría: Secretaría de Desarrollo Social y Medio Ambiente.
 
-XLVIII. Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
+XLVIII.- Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
-XLIX. Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
+XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
 
-L. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+L.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA Y LAS ATRIBUCIONES
 
@@ -189,15 +189,15 @@ L. Vocación natural: Condiciones que presenta un ecosistema para sostener una o
 
 Son autoridades en materia Ambiental en el Estado:
 
-I. El Ejecutivo Estatal a través de:
+I.- El Ejecutivo Estatal a través de:
 
 A. El C. Gobernador del Estado
 
 B. La Secretaría
 
-II. Las autoridades municipales del Estado
+II.- Las autoridades municipales del Estado
 
-III. Las demás que señale esta ley.
+III.- Las demás que señale esta ley.
 
 ###### Artículo 5.
 
@@ -215,63 +215,63 @@ Las atribuciones en materia de conservación, preservación y restauración del 
 
 Corresponde al Ejecutivo Estatal:
 
-I. Formular, conducir y evaluar la política ambiental estatal;
+I.- Formular, conducir y evaluar la política ambiental estatal;
 
-II. Aplicar los instrumentos de política ambiental previstos en esta Ley y las demás disposiciones aplicables,
+II.- Aplicar los instrumentos de política ambiental previstos en esta Ley y las demás disposiciones aplicables,
 
-III. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación,
+III.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación,
 
-IV. Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, de jurisdicción estatal;
+IV.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, de jurisdicción estatal;
 
-V. Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de contaminación atmosférica. En el caso de las fuentes móviles limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría; en el reglamento que al efecto expida, así como en las Normas Oficiales Mexicanas;
+V.- Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de contaminación atmosférica. En el caso de las fuentes móviles limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría; en el reglamento que al efecto expida, así como en las Normas Oficiales Mexicanas;
 
-VI. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente Ley y el Artículo 149 de la Ley General;
+VI.- Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente Ley y el Artículo 149 de la Ley General;
 
-VII. Emitir los criterios y Normas Técnicas Ambientales en materia de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
+VII.- Emitir los criterios y Normas Técnicas Ambientales en materia de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
 
-VIII. Establecer, regular, administrar y vigilar las áreas naturales protegidas previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo Convenio se podrá otorgar la administración al municipio que corresponda.
+VIII.- Establecer, regular, administrar y vigilar las áreas naturales protegidas previstas en esta Ley, con la participación de los gobiernos municipales y la sociedad civil; en su caso, previo Convenio se podrá otorgar la administración al municipio que corresponda.
 
-IX. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas y fuentes móviles de competencia estatal;
+IX.- Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas y fuentes móviles de competencia estatal;
 
-X. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tengan asignadas;
+X.- Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tengan asignadas;
 
-XI. Formular, expedir, evaluar y ejecutar los programas de ordenamiento ecológico del territorio a que se refiere el Artículo 16 de esta Ley, con la participación de los municipios respectivos y la sociedad civil;
+XI.- Formular, expedir, evaluar y ejecutar los programas de ordenamiento ecológico del territorio a que se refiere el Artículo 16 de esta Ley, con la participación de los municipios respectivos y la sociedad civil;
 
-XII. Regular y controlar el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que solo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+XII.- Regular y controlar el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que solo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
 
-XIII. Atender los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios; cuando los gobiernos municipales no cuenten con recursos técnicos o financieros para tales o cuando estos no convengan al respecto, y a solicitud expresa de los Municipios interesados.
+XIII.- Atender los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios; cuando los gobiernos municipales no cuenten con recursos técnicos o financieros para tales o cuando estos no convengan al respecto, y a solicitud expresa de los Municipios interesados.
 
-XIV. Participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+XIV.- Participar en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-XV. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones IV, VII, IX y X de este Artículo;
+XV.- Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones IV, VII, IX y X de este Artículo;
 
-XVI. Conducir la política estatal de información y difusión en materia ambiental de conformidad con lo dispuesto en el titulo quinto de esta Ley;
+XVI.- Conducir la política estatal de información y difusión en materia ambiental de conformidad con lo dispuesto en el titulo quinto de esta Ley;
 
-XVII. Promover la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en el titulo quinto de esta Ley;
+XVII.- Promover la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en el titulo quinto de esta Ley;
 
-XVIII. Evaluar el impacto ambiental de las obras o actividades y en su caso de los estudios de riesgo correspondientes, que no se encuentren expresamente reservadas a la federación y, en su caso, la expedición de las autorizaciones correspondientes, de conformidad con lo dispuesto por el Artículo 38 de la presente Ley;
+XVIII.- Evaluar el impacto ambiental de las obras o actividades y en su caso de los estudios de riesgo correspondientes, que no se encuentren expresamente reservadas a la federación y, en su caso, la expedición de las autorizaciones correspondientes, de conformidad con lo dispuesto por el Artículo 38 de la presente Ley;
 
-XIX. Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la federación, de conformidad con lo dispuesto en el Artículo 11 de la Ley General;
+XIX.- Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la federación, de conformidad con lo dispuesto en el Artículo 11 de la Ley General;
 
-XX. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
+XX.- Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
 
-XXI. Emitir recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
+XXI.- Emitir recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XXII. Atender en coordinación con la federación los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
+XXII.- Atender en coordinación con la federación los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
 
-XXIII. Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
+XXIII.- Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
 
-XXIV. Auspiciar la formación y capacitación de cuadros técnicos;
+XXIV.- Auspiciar la formación y capacitación de cuadros técnicos;
 
-XXV. Formular denuncia o querella ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal;
+XXV.- Formular denuncia o querella ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal;
 
-XXVI. Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia;
+XXVI.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia;
 
-XXVII. Promover el uso de transporte alternativo, así como espacios para su circulación;
+XXVII.- Promover el uso de transporte alternativo, así como espacios para su circulación;
 
-XXVIII. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+XXVIII.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
-XXIX. Resolver los Recursos de revisión de acuerdo con lo establecido por la presente Ley.
+XXIX.- Resolver los Recursos de revisión de acuerdo con lo establecido por la presente Ley.
 
 Las atribuciones que se otorgan al Ejecutivo del Estado serán ejercidas por la Secretaría, salvo aquellas que por disposición de esta ley y otros ordenamientos, corresponden al Gobernador del Estado.
 
@@ -279,55 +279,55 @@ Las atribuciones que se otorgan al Ejecutivo del Estado serán ejercidas por la 
 
 Corresponde a las autoridades Municipales del Estado de Veracruz, en el ámbito de su competencia, las siguientes facultades:
 
-I. Formular, conducir y evaluar la política ambiental municipal,
+I.- Formular, conducir y evaluar la política ambiental municipal,
 
-II. La aplicación de los instrumentos de política ambiental previstos en esta Ley y sus reglamentos,
+II.- La aplicación de los instrumentos de política ambiental previstos en esta Ley y sus reglamentos,
 
-III. Conservar, preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales salvo cuando se trate de asuntos de competencia del Estado o de la Federación.
+III.- Conservar, preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales salvo cuando se trate de asuntos de competencia del Estado o de la Federación.
 
-IV. Participar coordinadamente con el Ejecutivo Federal y Estatal, en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan,
+IV.- Participar coordinadamente con el Ejecutivo Federal y Estatal, en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan,
 
-V. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos y de conformidad a lo establecido por las Normas Oficiales Mexicanas,
+V.- La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos y de conformidad a lo establecido por las Normas Oficiales Mexicanas,
 
-VI. Participar con el Estado en la aplicación de las normas técnicas ambientales que éste expida, para regular las actividades que no sean consideradas altamente riesgosas,
+VI.- Participar con el Estado en la aplicación de las normas técnicas ambientales que éste expida, para regular las actividades que no sean consideradas altamente riesgosas,
 
-VII. Crear, regular y administrar zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley,
+VII.- Crear, regular y administrar zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley,
 
-VIII. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, con la participación que de acuerdo con esta Ley corresponda al gobierno del Estado,
+VIII.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, con la participación que de acuerdo con esta Ley corresponda al gobierno del Estado,
 
-IX. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles de jurisdicción estatal y municipal,
+IX.- Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles de jurisdicción estatal y municipal,
 
-X. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación de las autoridades estatales en los términos de la presente Ley; y demás disposiciones aplicables,
+X.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación de las autoridades estatales en los términos de la presente Ley; y demás disposiciones aplicables,
 
-XI. Formular y expedir los programas de ordenamiento ecológico municipal y/o comunitario del territorio, en congruencia con lo señalado en otros ordenamientos ecológicos que correspondan, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas,
+XI.- Formular y expedir los programas de ordenamiento ecológico municipal y/o comunitario del territorio, en congruencia con lo señalado en otros ordenamientos ecológicos que correspondan, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas,
 
-XII. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte municipal,
+XII.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte municipal,
 
-XIII. El manejo y disposición final de los residuos sólidos que no sean considerados peligrosos por esta Ley y de acuerdo con el Título Quinto de la misma,
+XIII.- El manejo y disposición final de los residuos sólidos que no sean considerados peligrosos por esta Ley y de acuerdo con el Título Quinto de la misma,
 
-XIV. Participar coordinadamente con la autoridad estatal en la evaluación del impacto ambiental de obras o actividades de competencia municipal y estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial,
+XIV.- Participar coordinadamente con la autoridad estatal en la evaluación del impacto ambiental de obras o actividades de competencia municipal y estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial,
 
-XV. Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
+XV.- Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
 
-XVI. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la federación o a los estados,
+XVI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la federación o a los estados,
 
-XVII. Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
+XVII.- Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
 
-XVIII. Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia,
+XVIII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia,
 
-XIX. Formular querella o denuncia ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal,
+XIX.- Formular querella o denuncia ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal,
 
-XX. Participar en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios en su circunscripción territorial.
+XX.- Participar en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios en su circunscripción territorial.
 
-XXI. Vigilar el cumplimiento de las normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones V, VIII, IX y X de este Artículo,
+XXI.- Vigilar el cumplimiento de las normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones V, VIII, IX y X de este Artículo,
 
-XXII. Formular y conducir la política municipal de información y difusión en materia ambiental,
+XXII.- Formular y conducir la política municipal de información y difusión en materia ambiental,
 
-XXIII. Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
+XXIII.- Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
 
-XXIV. Atender los demás asuntos que en materia de conservación, preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+XXIV.- Atender los demás asuntos que en materia de conservación, preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
 
-XXV. Resolver los recursos de revisión de acuerdo con lo establecido por esta Ley.
+XXV.- Resolver los recursos de revisión de acuerdo con lo establecido por esta Ley.
 
 ### CAPÍTULO III. DE LA COORDINACIÓN
 
@@ -449,9 +449,9 @@ I.- La naturaleza y características de cada ecosistema, dentro del Estado de Ve
 
 II.- La vocación de cada zona o región del Estado, en función de sus recursos naturales, la distribución y densidad de la población y las actividades económicas predominantes
 
-III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales
+III.- Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales
 
-IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales
+IV.- El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales
 
 V.- El impacto ambiental de nuevos asentamientos humanos, obras o actividades.
 
@@ -995,11 +995,15 @@ XII. Diseñar, editar y producir materiales de difusión, divulgación, informac
 
 XIII. Promover la coordinación entre las diferentes instancias oficiales y no gubernamentales, involucradas con el quehacer ambiental y educativo en la entidad, con la finalidad de optimizar recursos humanos, materiales y económicos, para así estar en posibilidad de lograr en un menor tiempo la concientización de la sociedad sobre los problemas ambientales y su participación en las posibles alternativas de solución.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 59.
 
-La Secretaría en coordinación con la Secretaría de Educación y Cultura promoverán que las Instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas en la formación de profesionales e investigadores que estudien las causas y los efectos de deterioro ambiental y sus alternativas de solución, además:
+La Secretaría en coordinación con la Secretaría de Educación y los municipios del Estado, promoverán que las Instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas en la formación de profesionales e investigadores que estudien las causas y los efectos de deterioro ambiental y sus alternativas de solución, además:
 
-I). Promoverá el desarrollo de la investigación, la capacitación, el adiestramiento y la formación en materia ambiental junto a la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, la Secretaría de Gobierno y aquellas dependencias o instituciones del sector social y privado cuyos programas incidan en el aprovechamiento de los recursos naturales, el desarrollo y la prevención de riesgos que puedan afectar la calidad del medio ambiente.
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+I) Promoverá el desarrollo de la investigación, la capacitación, el adiestramiento y la formación en materia ambiental junto a la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, la Secretaría de Gobierno, los municipios del Estado y aquellas dependencias o instituciones del sector social y privado cuyos programas incidan en el aprovechamiento de los recursos naturales, el desarrollo y la prevención de riesgos que puedan afectar la calidad del medio ambiente.
 
 II) Incluirá programas de educación ambiental que fomenten la participación comunitaria en la formulación, implementación y seguimiento de los planes de manejo de las áreas naturales protegidas de jurisdicción estatal y las federales asignadas por convenios celebrados con la Federación.
 
@@ -2471,15 +2475,15 @@ Si faltare alguno de los requisitos anteriores, y la autoridad instructora no pu
 
 El recurrente deberá acompañar al escrito de interposición del recurso, los siguientes documentos:
 
-I. Escritura notarial o carta poder debidamente notarizada con la que acredite la personería del representante legal.
+I.- Escritura notarial o carta poder debidamente notarizada con la que acredite la personería del representante legal.
 
-II. Documento en el que conste la resolución recurrida.
+II.- Documento en el que conste la resolución recurrida.
 
-III. Constancia de notificación de la resolución recurrida. En caso de que el interesado manifieste que no se le dejó este documento, declarará bajo protesta de decir verdad, la fecha en que tuvo conocimiento del acto o resolución recurrida.
+III.- Constancia de notificación de la resolución recurrida. En caso de que el interesado manifieste que no se le dejó este documento, declarará bajo protesta de decir verdad, la fecha en que tuvo conocimiento del acto o resolución recurrida.
 
-IV. Las pruebas documentales que ofrezca.
+IV.- Las pruebas documentales que ofrezca.
 
-V. Cuestionario que deberá resolver el perito en caso de ofrecer la prueba pericial.
+V.- Cuestionario que deberá resolver el perito en caso de ofrecer la prueba pericial.
 
 Si no se exhiben alguno de estos documentos se requerirá al interesado para que lo haga en un término de tres días, apercibiéndole que para el caso de no hacerlo así, se tendrá por no interpuesto el recurso en el caso de las fracciones I, II y III de este artículo; y se tendrán por no ofrecidas las pruebas en el caso de las fracciones IV y V de este artículo.
 
@@ -2606,3 +2610,9 @@ Primero. El presente Decreto entrará en vigencia el día ocho de febrero de 200
 Segundo. Los recursos materiales y financieros con que cuenta el Consejo Estatal de Protección al Ambiente, así como los asignados en el Presupuesto de Egresos para el ejercicio 2007, se reintegrarán a la Secretaría de Finanzas y Planeación para ser aplicados en programas específicos en materia de protección, conservación y restauración del medio ambiente en el estado de Veracruz de Ignacio de la Llave.
 
 Tercero. El personal que preste sus servicios al Consejo Estatal de Protección al Ambiente será solventado en términos de la legislación aplicable.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigencia a los tres días siguientes a su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
