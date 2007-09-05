@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2005-08-12"
+last_updated: "2007-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -229,7 +229,7 @@ VII. Las demás previsiones que deban tomarse en cuenta, según la naturaleza y 
 
 A fin de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad y de apoyar en condiciones de competencia a las áreas prioritarias del desarrollo en el Estado, los programas anuales referidos en el artículo anterior, servirán de base al área encargada de la función financiera y administrativa en cada institución para planear, programar y licitar públicamente las compras y la contratación de servicios en forma consolidada.
 
-(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
 ###### Artículo 17.
 
@@ -339,9 +339,13 @@ Las dependencias, organismos y entidades señaladas en el artículo 1 de esta Le
 
 I. La que rebase el monto de 181,612 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación pública nacional o internacional;
 
-II. La que se encuentre entre los 181, 612 y los 90, 807 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación pública estatal;
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-III. La que se encuentre entre los 90, 806 y los 1,136 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitaciones simplificada; y
+II. La que se encuentra entre los 181, 612 y los 90,806 salarios mínimos general vigente en la zona económica de la localidad más .01 centavos, se hará en licitación pública estatal;
+
+> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+
+III. La que se encuentre entre los 90,806 y los 1,135 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación simplificada; y
 
 IV. La inferior a los 1,135 salarios mínimos general vigente en la zona económica de la localidad, se hará en adjudicación directa.
 
@@ -1142,3 +1146,9 @@ G.O. 12 DE AGOSTO DE 2005.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 5 DE SEPTIEMBRE DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
