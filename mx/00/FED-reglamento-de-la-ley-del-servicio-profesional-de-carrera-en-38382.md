@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-profesional-de-carrera-en-383
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-02"
-last_updated: "2004-04-02"
+last_updated: "2007-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38382&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-03-31"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACION PUBLICA FEDERAL, PUBLICADO EN EL D.O.F. DE 6 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 2 de abril de 2004.
 
@@ -1124,3 +1126,39 @@ Con base en estos diagnósticos, la Unidad integrará un diagnóstico general, p
 Décimo Segundo.- En tanto se expidan las disposiciones administrativas previstas en el presente Reglamento, se continuarán aplicando las emitidas con anterioridad en todo lo que no se oponga al mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de marzo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE SEPTIEMBRE DE 2007.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan el Reglamento de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, publicado el 2 de abril de 2004 en el Diario Oficial de la Federación, así como las disposiciones siguientes:
+
+El Acuerdo que establece los Lineamientos para la Instalación y Facultades de los Comités Técnicos de Profesionalización y Selección de las Dependencias y Órganos Desconcentrados de la Administración Pública Federal Centralizada; el Acuerdo que tiene por objeto establecer los criterios que las dependencias de la Administración Pública Federal y los órganos desconcentrados de las mismas, deberán observar al autorizar la ocupación temporal de un puesto vacante o de nueva creación dentro del Sistema de Servicio Profesional de Carrera, en los casos excepcionales a que se refiere el artículo 34 de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, y los Lineamientos para determinar y autorizar puestos clave en la Administración Pública Federal Centralizada, publicados el 18 de septiembre de 2003, el 11 de abril y el 2 de mayo de 2005 en el Diario Oficial de la Federación, respectivamente.
+
+Tercero.- En tanto se expiden las disposiciones previstas en el presente Reglamento, se continuarán aplicando las emitidas con anterioridad en lo que no se opongan al mismo.
+
+Cuarto.- Las dependencias podrán extender hasta por diez meses, contados a partir de la fecha en que entre en vigor este Reglamento, la vigencia de los nombramientos autorizados conforme al artículo 34 de la Ley, siempre que los puestos correspondientes se encuentren ocupados y no estén sujetos a concurso, haciéndolo del conocimiento de la Secretaría, en el entendido de que los puestos respectivos deberán convocarse dentro de los ciento veinte días hábiles siguientes a la fecha señalada en esta disposición.
+
+Quinto.- Los servidores públicos que a la entrada en vigor de este Reglamento se encuentren ocupando puestos del Sistema sin haber obtenido su nombramiento como servidores públicos de carrera, podrán optar, previa notificación que por escrito realicen al Comité Técnico de Profesionalización que corresponda, por alguno de los procedimientos siguientes:
+
+I. Concluir su proceso de certificación de ingreso, con base en las reglas vigentes al momento en que lo iniciaron;
+
+II. Acreditar el resultado satisfactorio en por lo menos una evaluación anual de desempeño, así como la aprobación de las evaluaciones en desarrollo administrativo y calidad previstas en este Reglamento, o
+
+III. Resultar ganador en el concurso del puesto que ocupa, conforme a lo previsto por este Reglamento.
+
+Si al término de los tres años siguientes, contados a partir de la fecha de entrada en vigor de este Reglamento, los servidores públicos no han obtenido su nombramiento como servidores públicos de carrera, el puesto que desempeñan se sujetará a concurso en términos del presente ordenamiento, por lo que en caso de no participar o de participar y no resultar ganadores, cesarán en sus funciones.
+
+Sexto.- El trámite de los asuntos relacionados con la operación del Sistema que se hubiesen iniciado con anterioridad a la entrada en vigor del presente ordenamiento, continuará hasta su conclusión de conformidad con las disposiciones vigentes al momento en que iniciaron.
+
+Séptimo.- En tanto las dependencias desarrollen sus procesos de reclutamiento y selección conforme a las disposiciones de este Reglamento, utilizarán las herramientas establecidas por la Secretaría.
+
+Octavo.- Los Comités Técnicos de Profesionalización de los órganos administrativos desconcentrados, constituidos a la entrada en vigor de este Reglamento, se entenderán autorizados en los términos del artículo 13 del mismo.
+
+Noveno.- Los Comités de Profesionalización, durante el primer trimestre de 2008 comunicarán a la Secretaría, el programa de certificación de las capacidades profesionales de los servidores públicos de carrera que hubieren ingresado al Sistema en los años 2004, 2005, 2006 y 2007, y que a la entrada en vigor del presente ordenamiento no las hubieren certificado, para efectos de lo previsto en el artículo 52 de la Ley, y conforme a esta disposición deberán prever los plazos máximos en que deberán realizarlas.
+
+Décimo.- Hasta en tanto los servidores públicos considerados como de libre designación obtienen su nombramiento como servidores públicos de carrera conforme a lo previsto en el transitorio quinto de este Reglamento, podrán ser sujetos de movimientos o trayectorias laterales, conforme a las disposiciones del presente ordenamiento.
+
+Décimo Primero.- Los métodos de evaluación del desempeño a que se refiere el artículo 64 de este Reglamento, se someterán a revisión de la Secretaría dentro del plazo de veinte días hábiles a partir de la publicación en el Diario Oficial de la Federación de los lineamientos correspondientes.
