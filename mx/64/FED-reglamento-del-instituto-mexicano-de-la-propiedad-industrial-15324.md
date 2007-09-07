@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-la-propiedad-industrial-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-14"
-last_updated: "2004-07-15"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-09"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de diciembre de 1999.
 
@@ -45,7 +45,9 @@ I. Ley, la Ley de la Propiedad Industrial;
 
 II. Estatuto, el Estatuto Orgánico del Instituto Mexicano de la Propiedad Industrial;
 
-III. Secretaría, la Secretaría de Comercio y Fomento Industrial, y
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+III. Secretaría, la Secretaría de Economía, y
 
 IV. Instituto, el Instituto Mexicano de la Propiedad Industrial.
 
@@ -63,7 +65,19 @@ a) Propiedad Industrial, y
 
 b) Los Servicios de Apoyo;
 
-IV. Coordinación de Planeación Estratégica;
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Coordinaciones de:
+
+a) Planeación Estratégica
+
+i) Subdirección Divisional de Planeación;
+
+ii) Subdirección Divisional de Evaluación
+
+- Coordinación Departamental de Integración Documental y Estadística;
+
+b) Proyectos Especiales;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
@@ -81,35 +95,61 @@ i) Subdirección Divisional de Procesamiento Administrativo de Patentes;
 
 - Coordinación Departamental de Archivo de Patentes;
 
-ii) Subdirección Divisional de Examen de Fondo de Patentes;
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ii) Subdirección Divisional de Examen de Fondo de Patentes Áreas Biotecnológica, Farmacéutica y Química;
 
 - Coordinación Departamental de Examen de Fondo Área Química;
 
-- Coordinación Departamental de Examen de Fondo Área Eléctrica;
-
 - Coordinación Departamental de Examen de Fondo Área Biotecnológica;
 
-- Coordinación Departamental de Examen de Fondo Área Mecánica, Modelos de Utilidad y Diseños Industriales;
+- Coordinación Departamental de Examen de Fondo Área Farmacéutica;
+
+- Coordinación Departamental de Calidad y Opiniones Técnicas;
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+iii) Subdirección Divisional de Examen de Fondo de Patentes Áreas Mecánica, Eléctrica y de Registros de Diseños Industriales y Modelos de Utilidad;
+
+- Coordinación Departamental de Examen de Fondo Área Mecánica;
+
+- Coordinación Departamental de Examen de Fondo Área Eléctrica;
+
+- Coordinación Departamental de Examen Área Diseños Industriales y Modelos de Utilidad;
 
 b) Marcas
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
 i) Subdirección Divisional de Procesamiento Administrativo de Marcas;
 
 - Coordinación Departamental de Recepción y Control de Documentos;
 
-- Coordinación Departamental de Conservación de Derechos;
-
 - Coordinación Departamental de Archivo de Marcas;
 
-ii) Subdirección Divisional de Examen de Signos Distintivos;
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ii) Subdirección Divisional de Examen de Signos Distintivos A;
 
 - Coordinación Departamental de Examen de Marcas A;
 
 - Coordinación Departamental de Examen de Marcas B;
 
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+iii) Subdirección Divisional de Examen de Signos Distintivos B;
+
 - Coordinación Departamental de Examen de Marcas C;
 
 - Coordinación Departamental de Examen de Marcas D;
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+iv) Subdirección Divisional de Servicios Legales, Registrales e Indicaciones Geográficas;
+
+- Coordinación Departamental de Resoluciones Jurídicas de Signos Distintivos;
+
+- Coordinación Departamental de Conservación de Derechos;
 
 c) Protección a la Propiedad Intelectual
 
@@ -135,9 +175,23 @@ iii) Subdirección Divisional de Infracciones Administrativas en Materia de Come
 
 - Coordinación Departamental de Resoluciones en Infracciones en Materia de Comercio;
 
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
 iv) Subdirección Divisional de Cumplimiento de Ejecutorias;
 
 - Coordinación Departamental de Cumplimiento de Ejecutorias;
+
+- Coordinación Departamental de Recursos de Revisión;
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+v) Subdirección Divisional de Marcas Notorias; Investigación; Control y Procesamiento de Documentos;
+
+- Coordinación Departamental de Resoluciones de Marcas Notorias;
+
+- Coordinación Departamental de Procesamiento de Documentos;
+
+- Coordinación Departamental de Inteligencia y vínculo con Autoridades Federales, de las Entidades Federativas y Municipales;
 
 d) Sistemas y Tecnología de la Información
 
@@ -217,6 +271,16 @@ iv) Titular de la Oficina Regional Bajío;
 
 - Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
 
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+v) Titular de la Oficina Regional Centro;
+
+- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+- Coordinación Departamental de Promoción;
+
 h) Administración
 
 i) Subdirección Divisional de Recursos Humanos;
@@ -259,29 +323,97 @@ VI. Órgano Interno de Control, que se rige conforme al artículo 21 de este Reg
 
 La representación, atención, trámite y resolución de los asuntos que competan al Instituto, corresponden al Director General, quien para la mejor coordinación y desarrollo del trabajo podrá delegar facultades en servidores públicos subalternos, mediante acuerdos que se publicarán en el Diario Oficial de la Federación, sin perjuicio de su ejercicio directo, de conformidad con lo establecido en las disposiciones legales y administrativas aplicables.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Además de lo previsto en el párrafo anterior, para el mejor desempeño de las funciones de la entidad, los Directores Generales Adjuntos, Directores Divisionales, Subdirectores Divisionales y Coordinadores Departamentales a que se refiere el artículo 3o. de este Reglamento, ejercerán las facultades que les sean delegadas por el Director General en los términos de las disposiciones aplicables.
+Además de lo previsto en el párrafo anterior, para el mejor desempeño de las funciones del Instituto, los Directores Generales Adjuntos, Coordinadores, Directores Divisionales, Subdirectores Divisionales y Coordinadores Departamentales a que se refiere el artículo 3o. de este Reglamento, ejercerán las facultades que les sean delegadas por el Director General en los términos de las disposiciones aplicables.
 
 La Junta de Gobierno se regirá por el Estatuto que se expida conforme lo dispone la Ley Federal de las Entidades Paraestatales.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 5o.
 
-Sin perjuicio de lo dispuesto por el artículo 3o. de este Reglamento, la adscripción y organización interna de las áreas administrativas del Instituto se establecerán en el Estatuto Orgánico.
+Sin perjuicio de lo dispuesto por el artículo 3o. de este Reglamento, la adscripción y organización interna de las áreas administrativas del Instituto se establecerá en el Estatuto.
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 6o.
 
-En los casos de ausencia temporal, impedimento o excusa del Director General, el despacho y la resolución de los asuntos administrativos quedarán a cargo del Director General Adjunto, Coordinador o Director Divisional que aquél designe conforme a la competencia que establece este Reglamento. Asimismo, los Directores Generales Adjuntos, Coordinador y Directores Divisionales serán suplidos por los inmediatos inferiores jerárquicos, y en ausencia o a falta de éstos por quien determine el Director General Adjunto, Coordinador o Director Divisional.
+En los casos de ausencia temporal, impedimento o excusa del Director General, será suplido en el orden siguiente: por los Directores Generales Adjuntos de Propiedad Industrial; de los Servicios de Apoyo; los Directores Divisionales de Asuntos Jurídicos, y de Administración o, por el Coordinador de Planeación Estratégica.
 
-### CAPÍTULO II. DE LOS DIRECTORES GENERALES ADJUNTOS Y COORDINADOR
+La ausencia temporal, impedimento o excusa de los Directores Generales Adjuntos se suplirá por el Director Divisional al cual corresponda el asunto. La ausencia temporal, impedimento o excusa de los Coordinadores y Directores Divisionales serán suplidas por el Subdirector Divisional al que corresponda el despacho del asunto de que se trate, y de no existir, por el servidor público que designe el Coordinador o Director Divisional. La ausencia temporal, impedimento o excusa de los Subdirectores Divisionales serán suplidas por el Coordinador Departamental al que corresponda el despacho del asunto de que se trate, y de no existir, por el servidor público que designe el Coordinador o Director Divisional.
 
-### CAPÍTULO III. DE LAS DIRECCIONES DIVISIONALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPÍTULO I BIS. DEL DIRECTOR GENERAL
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTÍCULO 6o.
+
+BIS. El Director General tendrá, además de las facultades que le otorgan los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales; 6o. de la Ley y el Capítulo II del Título XII de la Ley Federal del Derecho de Autor, las siguientes:
+
+I. Administrar y representar al Instituto y ejercer las funciones que, conforme a las disposiciones aplicables, tenga conferidas;
+
+II. Celebrar, otorgar y suscribir toda clase de actos y documentos inherentes al objeto y en cumplimiento de las funciones del Instituto;
+
+III. Determinar, dirigir y controlar los programas institucionales, políticas y normas del Instituto;
+
+IV. Proponer el anteproyecto de presupuesto, los programas institucionales y el informe periódico del desempeño de las actividades del Instituto, ante la Junta de Gobierno y ejercer el presupuesto aprobado, con sujeción a las disposiciones normativas aplicables;
+
+V. Proponer al Titular del Ejecutivo Federal, por conducto de la Secretaría, los proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos que deban ser suscritos por el Presidente de la República para el cumplimiento de la Ley y otras disposiciones jurídicas en materia de propiedad industrial y, en su caso, derechos de autor;
+
+VI. Informar al Secretario de Economía sobre los asuntos competencia del Instituto;
+
+VII. Adscribir orgánicamente las áreas administrativas del Instituto, así como expedir los Manuales de Organización, de Procedimientos y de Servicios al Público, necesarios para el funcionamiento del Instituto;
+
+VIII. Nombrar y remover al personal del Instituto, conforme a la normatividad aplicable, cuya aprobación no sea de la competencia de la Junta de Gobierno;
+
+IX. Convocar, conforme a las disposiciones legales aplicables, a las sesiones ordinarias contempladas en el calendario aprobado por la Junta de Gobierno y ejecutar los acuerdos que dicte dicho órgano;
+
+X. Presentar a la Junta de Gobierno para su aprobación los proyectos de Estatuto, los Manuales de Organización, de Procedimientos y de Servicios al Público del Instituto, así como los planes y programas de estudio;
+
+XI. Dirigir las actividades de promoción, asesoría, difusión y estudio en la materia de propiedad industrial, y propiciar el apoyo institucional que se requiera a nivel nacional en el ámbito de sus atribuciones;
+
+XII. Participar, en coordinación con las dependencias, entidades y demás autoridades, entidades federativas, instituciones públicas y privadas, nacionales o extranjeras, en el cumplimiento de los objetivos que establece la Ley y demás disposiciones aplicables;
+
+XIII. Definir, en coordinación con la Secretaría y la Secretaría de Relaciones Exteriores, las estrategias de negociación ante los organismos internacionales en que participe el Instituto;
+
+XIV. Dirigir, en coordinación con la Secretaría de Relaciones Exteriores, las negociaciones en comisiones, comités y subcomités, dentro del ámbito de su competencia, a nivel bilateral, regional y multilateral;
+
+XV. Dar seguimiento, en coordinación con la Secretaría de Relaciones Exteriores, a las negociaciones internacionales relacionadas con el ámbito de la competencia que le confiere la Ley, la Ley Federal del Derecho de Autor y demás disposiciones aplicables en la materia;
+
+XVI. Supervisar, en el ámbito de su competencia, la aplicación de los tratados o acuerdos internacionales en materia de propiedad intelectual de los que México sea parte;
+
+XVII. Proporcionar, en el ámbito de su competencia, asesoría en las negociaciones internacionales en que los Estados Unidos Mexicanos participe, así como de la aplicación de los tratados o acuerdos comerciales internacionales;
+
+XVIII. Conducir, en coordinación con las autoridades competentes, las negociaciones internacionales en materia de solución de controversias relativas a la competencia que al Instituto le confiere la Ley, la Ley Federal del Derecho de Autor y demás disposiciones aplicables en la materia y participar en las instancias derivadas de los tratados o acuerdos comerciales internacionales en dicha materia;
+
+XIX. Coordinar las consultas con otras dependencias y sectores involucrados en los procesos de negociación de tratados o acuerdos comerciales internacionales a nivel bilateral, regional y multilateral, en el ámbito de su competencia;
+
+XX. Dirigir la elaboración de estudios y materiales de apoyo a los proyectos relacionados con las negociaciones en materia de propiedad industrial, que le sean solicitados por la Secretaría u otras dependencias o entidades;
+
+XXI. Evaluar y difundir los avances de las negociaciones en materia de propiedad industrial con otros países, organismos comerciales o bloques económicos;
+
+XXII. Promover las relaciones interinstitucionales con las distintas oficinas de propiedad industrial o intelectual y los organismos internacionales, en coordinación con otras dependencias o entidades;
+
+XXIII. Asegurar la congruencia de las negociaciones internacionales en materia de propiedad industrial con la legislación mexicana vigente;
+
+XXIV. Fijar y expedir las Condiciones Generales de Trabajo del Instituto, con la intervención que legalmente le corresponda al Sindicato;
+
+XXV. Vigilar la debida observancia de los ordenamientos que rijan al Instituto, y
+
+XXVI. Las demás que le confieran las disposiciones aplicables y la Junta de Gobierno.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPÍTULO II. DE LOS DIRECTORES GENERALES ADJUNTOS Y COORDINADORES
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 7o.
 
-Compete a cada Director General Adjunto y Coordinador:
+Compete a cada Director General Adjunto y Coordinador, adscritos a la Dirección General:
 
 I. Acordar con el Director General el despacho y resolución de los asuntos que estén bajo su responsabilidad y supervisar el funcionamiento de las áreas administrativas a su cargo;
 
@@ -319,19 +451,43 @@ XVI. Las demás que le confieran las disposiciones legales aplicables, el Direct
 
 Compete a la Dirección General Adjunta de Propiedad Industrial:
 
-I. Establecer las políticas y lineamientos institucionales para los trámites relativos al otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor;
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-II. Otorgar o negar las patentes, los registros de modelos de utilidad, diseños industriales y esquemas de trazado de circuitos integrados, los registros de marcas y avisos comerciales, la publicación de nombres comerciales y las autorizaciones de uso de denominaciones de origen; que se tramiten de acuerdo con lo previsto en las disposiciones aplicables en la materia, así como substanciar y resolver cualquier procedimiento establecido y previsto en la Ley respecto al otorgamiento de patentes;
+I. Establecer las políticas y lineamientos institucionales para los trámites relativos al otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas, de las declaraciones de notoriedad o fama de marcas, substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor;
 
-III. Proporcionar asesoría sobre los trámites relativos al otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor;
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+II. Otorgar o negar las patentes, los registros de modelos de utilidad, diseños industriales y esquemas de trazado de circuitos integrados, los registros de marcas y avisos comerciales, la publicación de nombres comerciales, las autorizaciones de uso de denominaciones de origen y las declaraciones de notoriedad o fama de marcas; que se tramiten de acuerdo con lo previsto en las disposiciones aplicables en la materia, así como substanciar y resolver cualquier procedimiento establecido y previsto en la Ley respecto al otorgamiento de patentes;
+
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+III. Proporcionar asesoría sobre los trámites relativos al otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor, así como de las declaraciones de notoriedad o fama de marcas;
 
 IV. Organizar, coordinar y evaluar la atención, orientación y supervisión respecto de los servicios que se prestan al público en el ámbito de su competencia;
 
-V. Emitir las resoluciones relacionadas con los procedimientos para el otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor;
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Actuar como conciliador de los intereses de las partes involucradas en los procedimientos de declaración administrativa, cuando el caso lo amerite o las partes así lo soliciten, y
+V. Emitir las resoluciones relacionadas con los procedimientos para el otorgamiento y conservación de los derechos de propiedad industrial y de las declaraciones administrativas substanciados conforme a la Ley y, en su caso, a la Ley Federal del Derecho de Autor, así como de las declaraciones de notoriedad o fama de marcas;
 
-VII. Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela la Ley, cuando los involucrados lo designen expresamente como tal, y cumpliendo con las formalidades que para el caso exige el Código de Comercio.
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Actuar como conciliador de los intereses de las partes involucradas en los procedimientos de declaración administrativa, cuando el caso lo amerite o las partes así lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela la Ley, cuando los involucrados lo designen expresamente como tal, y cumpliendo con las formalidades que para el caso exige el Código de Comercio;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VIII. Instruir la elaboración de mecanismos y estrategias de información e investigación que permitan anticipar y prevenir acciones en materia de protección a la propiedad industrial reguladas en la Ley y de infracciones administrativas en materia de comercio previstas en la Ley Federal del Derecho de Autor, que pudieran presentarse;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IX. Planear, desarrollar, vigilar y verificar el levantamiento de encuestas, vinculadas con las actividades institucionales, en el ámbito de su competencia, previo acuerdo con el Director General, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+X. Evaluar la información estadística de carácter nacional, regional o sectorial captada, procesada y presentada por la Dirección Divisional de Protección a la Propiedad Intelectual en el ámbito de su competencia, así como dictar normas de control y verificación de la calidad de la información.
 
 ###### ARTÍCULO 9o.
 
@@ -385,11 +541,31 @@ VI. Realizar estudios de métodos y procedimientos con base en los manuales de o
 
 VII. Elaborar proyectos de reestructuración organizacional, con base en los resultados del estudio de métodos y procedimientos y en las estrategias institucionales, y
 
-VIII. Proponer y evaluar programas institucionales relativos a productividad, calidad, desregulación y descentralización de las operaciones.
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+VIII. Proponer y evaluar programas institucionales relativos a productividad y calidad de las operaciones.
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTÍCULO 10 BIS. Compete a la Coordinación de Proyectos Especiales:
+
+I. Determinar y preparar análisis para efectos de la planeación e integración de los proyectos específicos y la preparación de los informes que al respecto se emitan;
+
+II. Establecer la metodología para la planeación y la revisión del avance sobre los proyectos en desarrollo;
+
+III. Colaborar con la Dirección Divisional de Administración en los procesos de obra pública y servicios relacionados con las mismas, en el ámbito de planeación, programación, presupuestación, adjudicación, contratación, gasto, ejecución, control de las obras, recepción e integración documental;
+
+IV. Promover y establecer mecanismos de coordinación y de intercambio de información y colaboración entre las distintas áreas del Instituto, a efecto de mejorar la calidad en el desarrollo de los proyectos específicos;
+
+V. Coordinar y supervisar la participación de las Direcciones Generales Adjuntas, Coordinaciones y Direcciones Divisionales en la planeación, práctica, supervisión, control y evaluación de los proyectos específicos;
+
+VI. Aportar los elementos metodológicos, asistencia técnica y evaluaciones de calidad en el desempeño de la supervisión de proyectos que le sean requeridos por el Director General;
+
+VII. Coordinar el diseño y supervisión del funcionamiento del sistema de seguimiento, atención y resolución dada a los proyectos que se desarrollen, así como de las observaciones, recomendaciones y acciones promovidas por las distintas áreas del Instituto en seguimiento a éstos, y
+
+VIII. Disponer lo conducente para la integración, actualización y conservación del archivo de información básica de los proyectos específicos para apoyar las funciones de la Dirección General.
+
+### CAPÍTULO III. DE LAS DIRECCIONES DIVISIONALES
 
 ###### ARTÍCULO 11.
 
@@ -481,9 +657,45 @@ IX. Actuar como conciliador de los intereses de las partes involucradas en los p
 
 X. Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela la Ley, cuando los involucrados lo designen expresamente como tal, y cumpliendo con las formalidades que para el caso exige el Código de Comercio;
 
-XI. Expedir copias simples y certificadas, previa solicitud, de las constancias que obren en los archivos del Instituto que sean ofrecidas como prueba en un procedimiento de declaración administrativa, así como efectuar el cotejo de la copia simple que se exhiba, y
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-XII. Coordinar sus actividades con las unidades administrativas correspondientes de las dependencias y entidades de la Administración Pública Federal, de los gobiernos de las entidades federativas y municipios, para el desarrollo de los asuntos de su competencia.
+XI. Expedir copias simples y certificadas, previa solicitud, de las constancias que obren en los archivos del Instituto que sean ofrecidas como prueba en un procedimiento de declaración administrativa, así como efectuar el cotejo de la copia simple que se exhiba;
+
+> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XII. Coordinar sus actividades con las unidades administrativas correspondientes de las dependencias y entidades de la Administración Pública Federal, de los gobiernos de las entidades federativas y municipios, para el desarrollo de los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XIII. Substanciar el procedimiento de declaración de notoriedad o fama de marcas y, en su caso, girar oficios de requisitos, desechamientos, abandonos, prórrogas, desistimientos, así como cualquier otro acto relacionado con dicho procedimiento y con las actualizaciones y transmisiones, que conforme a la Ley procedan;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XIV. Emitir las declaraciones de notoriedad o fama de marcas correspondientes, conforme a lo dispuesto en la Ley, así como las actualizaciones y transmisiones que procedan;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XV. Operar conjuntamente con las autoridades competentes de cualquier nivel y proporcionarles la información estadística y la cooperación técnica que le sea requerida por éstas, así como captar, procesar y difundir dicha información cuando provenga de los niveles nacional, regional o sectorial;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XVI. Elaborar y ejecutar el programa institucional de investigación, a nivel nacional, regional y por sector económico, relacionado con la protección a la propiedad industrial regulada en la Ley y de infracciones administrativas en materia de comercio previstas en la Ley Federal del Derecho de Autor;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XVII. Proponer, ejecutar y dar seguimiento del levantamiento de encuestas vinculadas con las actividades institucionales en materia de protección a la propiedad industrial regulada en la Ley y de infracciones administrativas en materia de comercio previstas en la Ley Federal del Derecho de Autor;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XVIII. Elaborar informes que contengan datos y estadísticas sobre mecanismos y estrategias de información e investigación que permitan anticipar y prevenir acciones en materia de protección a la propiedad industrial reguladas en la Ley y de infracciones administrativas en materia de comercio previstas en la Ley Federal del Derecho de Autor, así como de la presentación y trámite de procedimientos administrativos de infracción;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XIX. Proponer la celebración de convenios en materia de investigación y asistencia con instituciones públicas y privadas, que tengan por objeto el fomento y protección de los derechos de propiedad industrial, la transferencia de tecnología, el estudio y promoción de desarrollo tecnológico, la innovación, la diferenciación de productos, así como con instituciones educativas y de investigación y agrupaciones gremiales, coordinando las acciones relativas a su cumplimiento y evaluación, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XX. Difundir en la Gaceta la información estadística relevante obtenida del levantamiento de encuestas, vinculadas con las actividades institucionales en materia de protección a la propiedad industrial regulada en la Ley y de infracciones administrativas en materia de comercio previstas en la Ley Federal del Derecho de Autor.
 
 ###### ARTÍCULO 15.
 
@@ -603,51 +815,67 @@ XI. Elaborar e integrar el programa anual de adquisiciones, arrendamientos y ser
 
 XII. Administrar los bienes muebles e inmuebles y demás servicios generales y de apoyo que se requieran.
 
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 20.
 
 Compete a la Dirección Divisional de Asuntos Jurídicos:
 
-I. Representar al Instituto en los actos jurídicos en los que intervenga;
+I. Intervenir y representar al Instituto en todos los actos jurídicos en los que sea parte y autorizar a los servidores públicos adscritos a ésta para representar a la entidad ante diversas autoridades;
 
-II. Realizar los trámites administrativos necesarios para el cumplimiento de las facultades del Instituto ante las dependencias y entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas;
+II. Ejercer las acciones judiciales, contencioso-administrativas y del trabajo que competan al Instituto y denunciar ante el Ministerio Público los hechos que lo ameriten; así como contestar los requerimientos de informes solicitados por dicha representación social, por las autoridades judiciales, administrativas y laborales;
 
-III. Denunciar ante el Ministerio Público los hechos que pudieran ser constitutivos de delito y contestar los requerimientos de informes solicitados por dicha representación social, por las autoridades judiciales, administrativas y laborales;
+III. Formular los informes previos y justificados en los juicios de amparo y contestaciones de demandas en toda clase de procedimientos judiciales, del trabajo o contencioso-administrativos, ofrecer pruebas, absolver posiciones, comparecer en todo tipo de audiencias, formular alegatos, interponer toda clase de recursos y, en general, darle trámite y seguimiento a dichos procedimientos;
 
-IV. Formular y revisar en el aspecto jurídico, los convenios y contratos que deba suscribir el Instituto y llevar a cabo el control de los mismos;
+IV. Remitir al área competente las ejecutorias pronunciadas por las autoridades judiciales, administrativas y laborales, y registrar el cumplimiento de las mismas;
 
-V. Expedir constancias de inscripción en el Registro General de Poderes del Instituto;
+V. Tramitar y otorgar constancias de inscripción al Registro General de Poderes, así como requerir lo necesario para su otorgamiento y en su caso, cancelar la inscripción correspondiente; llevar el Registro Único de Personas Acreditadas, de conformidad con la normatividad aplicable y expedir las constancias correspondientes;
 
-VI. Formular los informes previo y justificado e interponer los recursos que procedan en los juicios de amparo, en los que se señale al Instituto como autoridad responsable;
+VI. Formular, revisar y dictaminar en su aspecto jurídico, los convenios y contratos que deba suscribir el Instituto, así como ejercer su resguardo y custodia;
 
-VII. Remitir al área administrativa emisora del acto reclamado, las ejecutorias pronunciadas por el Poder Judicial de la Federación y registrar el cumplimiento de las mismas;
+VII. Asesorar a las áreas del Instituto en el levantamiento de actas administrativas, así como dictaminar sobre la procedencia de sanciones al personal, de conformidad con las Condiciones Generales de Trabajo y, en su caso, en las demás disposiciones aplicables en materia laboral;
 
-VIII. Intervenir como asesor jurídico, actuar como área de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones del Instituto;
+VIII. Establecer las formalidades y requisitos jurídicos que deban contener los documentos de uso oficial que se utilicen por las áreas del Instituto;
 
-IX. Formular, revisar y someter a la consideración del Director General, los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas competencia del Instituto;
+IX. Inscribir las firmas de los servidores públicos del Instituto facultados para hacer constar la legitimidad de documentos, previa certificación de la Dirección Divisional de Administración; así como ser el enlace con el área correspondiente de la Secretaría de Gobernación en esta materia;
 
-X. Informar oportunamente a las áreas administrativas, de aquellas disposiciones jurídicas que sean publicadas en el Diario Oficial de la Federación y que estén relacionadas con las funciones del Instituto;
+X. Llevar un seguimiento sistemático de los acuerdos tomados en las sesiones de la Junta de Gobierno e informar al Director General periódicamente su evolución;
 
-XI. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones propias del Instituto;
+XI. Formular y revisar los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones de observancia general en las materias competencia del Instituto, así como dictaminar los proyectos normativos que propongan las diversas áreas que lo componen, para someterlos a la consideración del Director General; llevar la compilación de los mismos; preparar y supervisar las ediciones que en su caso se hagan respecto a las disposiciones jurídicas a que se refiere este apartado y emitir la opinión que corresponda respecto de ordenamientos de otras dependencias de la Administración Pública Federal que tengan relación con las materias de la competencia del propio Instituto;
 
-XII. Establecer, sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes u otras disposiciones jurídicas que regulen el ejercicio de las facultades y funcionamiento del Instituto, y
+XII. Ser el enlace con el Diario Oficial de la Federación; dar seguimiento a sus publicaciones e informar oportunamente a las áreas administrativas del Instituto de aquellas disposiciones y normas relacionadas con sus funciones y cuya atención trascienda su esfera de competencia;
 
-XIII. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, laborales o Ministerio Público.
+XIII. Realizar estudios jurídicos en materia de propiedad industrial, así como sobre temas de interés vinculados con las funciones del Instituto;
+
+XIV. Intervenir como asesor jurídico del Instituto en las materias de su competencia y en los convenios, tratados o acuerdos internacionales en los que éste participe, sin perjuicio de las facultades conferidas a otras áreas administrativas en este Reglamento;
+
+XV. Sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes u otras disposiciones jurídicas que regulen el ejercicio de las facultades y funcionamiento del Instituto, y
+
+XVI. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, laborales o Ministerio Público.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2002)</small>
 
-### CAPÍTULO V. DE LAS OFICINAS REGIONALES
+### CAPÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2002)</small>
 
 ###### ARTÍCULO 21.
 
 El Instituto cuenta con el Órgano Interno de Control, al frente del cual el Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, serán suplidas conforme a lo previsto por el artículo 54 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 66, 67 y 69 del Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Las ausencias del Titular del Órgano Interno de Control, así como las de los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, serán suplidas conforme a lo previsto por el artículo 75 del Reglamento Interior de la Secretaría de la Función Pública.
 
 Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Órgano Interno de Control, así como los titulares de las áreas de responsabilidades, de quejas, de auditoría de control y evaluación y de auditoría interna, se auxiliarán del personal adscrito al propio Órgano Interno de Control.
 
 El incumplimiento de las obligaciones previstas para el personal mencionado en el párrafo anterior, dará lugar al fincamiento de responsabilidades administrativas de conformidad con las disposiciones aplicables.
+
+### CAPÍTULO V. DE LAS OFICINAS REGIONALES
 
 ###### ARTÍCULO 22.
 
@@ -714,3 +942,11 @@ D.O.F. 1 DE JULIO DE 2002.
 D.O.F. 15 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
+
+TERCERO.- Las acciones que lleve a cabo el Instituto Mexicano de la Propiedad Industrial para la aplicación del presente Decreto, así como las modificaciones a su estructura orgánica, se sujetarán a los recursos aprobados para dicho objeto en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, sin incrementar el presupuesto regularizable de servicios personales.
