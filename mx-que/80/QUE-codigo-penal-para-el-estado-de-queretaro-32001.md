@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2006-11-17"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -915,7 +915,7 @@ La extinción de la potestad de ejecutar las penas y medidas de seguridad corres
 
 ###### ARTICULO 102.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Órgano Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
+Si durante la ejecución de las penas o medidas de seguridad se advierte una causa de extinción de la pretensión punitiva o la potestad ejecutiva, sin que esta circunstancia se hubiere hecho valer durante el período de preparación del ejercicio de la acción penal o en el proceso, se solicitará ante el Organo Jurisdiccional que hubiere conocido del asunto la libertad absoluta del reo resolviéndose lo procedente.
 
 ### CAPITULO IV. AMNISTIA
 
@@ -1177,7 +1177,7 @@ Se entiende que el homicidio y las lesiones son calificadas cuando:
 
 I.- El agente haya reflexionado sobre la comisión del delito;
 
-II.- El agente haya realizado el hecho empleando medios o aprovechando circunstancias tales que imposibiliten la defensa del ofendido y aquél no corra riesgo de ser muerto o lesionado, con conocimiento de esta situación;
+II.- El agente haya realizado el hecho empleadno medios o aprovechando circunstancias tales que imposibiliten la defensa del ofendido y aquél no corra riesgo de ser muerto o lesionado, con conocimiento de esta situación;
 
 III.- El agente haya realizado el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las tácitas que éste debia esperar de aquél, por las relaciones que fundadamente deben inspirar seguridad o confianza;
 
@@ -1681,7 +1681,9 @@ V.- Por una o varias personas armadas o llevando cualquier instrumento peligroso
 
 VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven caudales; o en contra de las personas que las custodian, manejan, transportan, o que por cualquier motivo estén presentes, o en local abierto al público;
 
-VII.- Respecto de vehículo estacionado en la vía pública o en otro lugar destinado a su guarda o reparación, y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VII.- Respecto de vehículo o maquinaria, estacionados en la vía pública o en otro lugar destinado a su guarda o reparación, y
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
 
@@ -2229,13 +2231,13 @@ ORDEN EN EL DESARROLLO URBANO
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-Artículo 246 E. Al que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, para que sean o puedan ser destinados para vivienda, comercio o industria, sin contar con la autorización para transferir expedida por las autoridades competentes, se le aplicarán de 2 a 8 años de prisión y de 120 hasta 400 días multa.
+Artículo 246 E.- Al que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, para que sean o puedan ser destinados para vivienda, comercio o industria, sin contar con la autorización para transferir expedida por las autoridades competentes, se le aplicarán de 2 a 8 años de prisión y de 120 hasta 400 días multa.
 
 No se considerará fraccionamiento Irregular, para los efectos de este título, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero estos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, tanto para escriturarlas a su favor o para ceder sus derechos a terceros.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-Artículo 246 F. Se aplicarán de 4 a 10 años de prisión y de 180 hasta 500 días multa a los autores intelectuales y a quienes instiguen o dirijan la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular o a los funcionarios públicos que realicen actos u omisiones para alentar o permitir un asentamiento irregular.
+Artículo 246 F.- Se aplicarán de 4 a 10 años de prisión y de 180 hasta 500 días multa a los autores intelectuales y a quienes instiguen o dirijan la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular o a los funcionarios públicos que realicen actos u omisiones para alentar o permitir un asentamiento irregular.
 
 Para los efectos de este Título, se entiende por asentamiento humano irregular un grupo de personas que se establezcan o pretendan establecerse en un inmueble dividido o lotificado para fines de vivienda, comercio o industria sin contar con las autorizaciones expedidas por las autoridades competentes y por fraccionamiento irregular cualquier división de un predio en lotes sin tener las autorizaciones administrativas correspondientes.
 
@@ -3550,3 +3552,9 @@ Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se 
 P.O. 17 DE NOVIEMBRE DE 2006
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE QUERETARO.
+
+P.O. 7 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
