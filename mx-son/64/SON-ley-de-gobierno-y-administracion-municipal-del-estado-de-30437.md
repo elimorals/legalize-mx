@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2004-12-27"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -2149,9 +2149,17 @@ Las dependencias y entidades, en el proceso de planeación que realicen de sus a
 
 I. Sujetarse a los objetivos, estrategias y líneas de acción contenidas en el Plan Municipal de Desarrollo y a los programas que se deriven del mismo que, en su caso, les corresponda ejecutar;
 
-II. Ajustarse a los objetivos y metas de sus correspondientes programas-presupuestos; y
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-III. Respetar las demás disposiciones legales que rijan las operaciones objeto del presente ordenamiento.
+II. Ajustarse a los objetivos y metas de sus correspondientes programas-presupuestos;
+
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+III. Dar preferencia a la adquisición de bienes y servicios que impacten de menor manera al medio ambiente, bajo el principio de un consumo sustentable; y
+
+> <small>(ADICIONADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Respetar las demás disposiciones legales que rijan las operaciones objeto del presente ordenamiento.
 
 ###### Artículo 222.
 
@@ -3754,3 +3762,7 @@ B.O. 27 DE DICIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación el Boletín Oficial del Gobierno del Estado de Sonora.
 
 Artículo Segundo.- Dentro de los sesenta días naturales siguientes al de su publicación, los ayuntamientos interesados deberán remitir al Congreso del Estado, las adecuaciones pertinentes a sus correspondientes Leyes de Ingresos y Presupuestos de Ingresos, para contemplar los supuestos señalados en el presente ordenamiento.
+
+B.O. 7 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
