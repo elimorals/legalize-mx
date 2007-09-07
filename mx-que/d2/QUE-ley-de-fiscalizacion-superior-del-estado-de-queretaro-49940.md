@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-del-estado-de-queretaro-49940"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-24"
-last_updated: "2006-03-24"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de marzo de 2006.
 
@@ -79,13 +79,39 @@ A falta de disposición expresa en la Ley, se aplicarán, en forma supletoria y 
 
 ### Capítulo Único. Organización y Funcionamiento
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-Al frente de la Entidad Superior de Fiscalización del Estado habrá un Auditor Superior del Estado designado conforme a lo previsto por el artículo 47 de la Constitución Política del Estado, por el voto de las dos terceras de los integrantes de la Legislatura.
+La Entidad Superior de Fiscalización del Estado, para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, se organizará de la siguiente manera:
+
+I. El titular de la Entidad, que será el Auditor Superior del Estado;
+
+II. La Secretaría Técnica;
+
+III. La Contraloría Interna y Acceso a la Información Pública;
+
+IV. Las Direcciones de:
+
+a) Fiscalización Jurídica;
+
+b) Fiscalización de Entidades Estatales;
+
+c) Fiscalización de Entidades Municipales;
+
+d) Fiscalización de Obra Pública Estatal y Municipal;
+
+e) Administrativa;
+
+f) Informática; y
+
+V. Las demás áreas y personal que requiera para su funcionamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 8.
 
-La designación del Auditor Superior del Estado se sujetará al procedimiento siguiente:
+Al frente de la Entidad Superior de Fiscalización del Estado habrá un Auditor Superior del Estado, en los términos del artículo 47 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga, electo por el voto de las dos terceras partes de los integrantes de la Legislatura y cuya designación se sujetará al procedimiento siguiente:
 
 I. El Presidente de la Mesa Directiva de la Legislatura formulará la convocatoria pública correspondiente, a efecto de recibir las solicitudes;
 
@@ -492,3 +518,11 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
