@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2005-07-22"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -413,7 +413,7 @@ En este caso, los predios que se propongan deberán tener valor igual o superior
 
 ###### Artículo 30.
 
-El urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o de otro diverso, si realiza sobre el mismo una edificación o equipamiento especifico que requiera la zona.
+EI urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o de otro diverso, si realiza sobre el mismo una edificación o equipamiento especifico que requiera la zona.
 
 La Dirección podrá aceptar la propuesta de menor superficie pero con edificación o infraestructura siempre y cuando cuente con los siguientes elementos:
 
@@ -421,7 +421,7 @@ I.- Un dictamen técnico en el que se determine la necesidad del equipamiento es
 
 II.- Que el valor del predio cuya propiedad se vaya a transmitir, incluyendo la edificación o infraestructura a construir por el urbanizador, sea igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 31.
 
@@ -431,11 +431,9 @@ La Dirección podrá aceptar dicha obra o infraestructura urbana en lugar del á
 
 I.- Se cuente con un dictamen técnico emitido por la misma Dirección y aprobado por el Ayuntamiento, en el que se determine la obra o infraestructura urbana.
 
-II.- El costo de la obra o infraestructura urbana sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta. Para efectos de lo anterior, el costo de la obra o infraestructura urbana se determinará aplicando los valores unitarios de obra pública que emita la Secretaría de Asentamientos Humanos y Obras Públicas del Estado; y el valor del área para equipamiento será el que determine la Comisión Estatal de Avalúo y/o un perito valuador autorizado.
+II.- El costo de la obra o infraestructura urbana sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta. Para efectos de lo anterior, el costo de la obra o infraestructura urbana se determinará aplicando los valores unitarios de obra pública que emita la Secretaría de Infraestructura y Desarrollo Urbano del Estado; y el valor del área para equipamiento será el que determine la Comisión Estatal de Avalúo y/o un perito valuador autorizado.
 
 III.- En el caso de que la obra de infraestructura urbana tenga un costo superior al valor del predio que debía transmitirse, y el urbanizador o promotor inmobiliario no esté dispuesto a asumir la parte diferencial, podrá quedar ésta a cargo del Municipio. Dicha cantidad se compensará con los importes que el urbanizador o promotor inmobiliario deba pagar por concepto de derechos que genere la autorización de la acción de urbanización de la que se trate, u otra que lleve a cabo posteriormente.
-
-La opción a que se refiere este artículo sólo será aplicable en el caso de que la obra de infraestructura urbana que se proponga, sea de las que pueden ser ejecutadas mediante asignación directa conforme a la normatividad en materia de obras públicas.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -1138,3 +1136,7 @@ QUINTO.- Las subdivisiones que se hubieren autorizado y que no se hubieren inscr
 P.O. 22 DE JULIO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 7 DE SEPTIEMBRE DE 2007
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
