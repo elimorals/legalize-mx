@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-del-instituto-de-acceso-a-la-informacion-publica-52055"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52055&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-10-23"
 
 ACUERDO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE DEBERAN OBSERVAR LOS ENTES PUBLICOS DEL DISTRITO FEDERAL EN LA RECEPCION, REGISTRO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA Y DE ACCESO O RECTIFICACION DE DATOS PERSONALES A TRAVES DEL SISTEMA ELECTRONICO INFOMEX
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE SEPTIEMBRE DE 2007.
 
 Acuerdo publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 27 de octubre de 2006.
 
@@ -192,11 +192,19 @@ XXIV. Solicitud recibida por escrito material: Es la presentada personalmente po
 
 XXV. Solicitud verbal: Es la que realiza el solicitante o su representante legal directamente en la Oficina de Información Pública de manera oral, misma que se captura en el formato respectivo por parte de los servidores públicos de dicha Oficina.
 
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XXVI. Solicitud recibida por el TEL-INFODF: Es la que registra el agente del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal en el sistema INFOMEX, a petición del solicitante realizada, vía telefónica, conforme a lo establecido en los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF).
+
 4. Las Oficinas de Información Pública registrarán y tramitarán todas las solicitudes, a través de INFOMEX, independientemente del medio de recepción de aquéllas.
 
 INFOMEX asignará automáticamente un número de folio para cada solicitud que se registre o se presente; este número de folio será único y con él los solicitantes podrán dar seguimiento a sus solicitudes.
 
-5. Las solicitudes cuya presentación se haga ante las Oficinas de Información Pública o a través del módulo electrónico de INFOMEX después de las quince horas, zona horaria del Centro de los Estados Unidos Mexicanos, o en días inhábiles, se considerarán recibidas el día hábil siguiente.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+5. Las solicitudes cuya presentación se haga ante las Oficinas de Informacion Pública, a través del módulo electrónico de INFOMEX o ante el Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal en INFOMEX después de las quince horas, zona horaria del Centro de los Estados Unidos Mexicanos, o en días inhábiles, se considerarán recibidas el día hábil siguiente.
+
+INFOMEX después de las quince horas, zona horaria del Centro de los Estados Unidos Mexicanos, o en días inhábiles, se considerarán recibidas el día hábil siguiente.
 
 De igual manera, los recursos de revisión presentados mediante el módulo electrónico de INFOMEX después de las dieciocho horas, zona horaria del Centro de los Estados Unidos Mexicanos o en días inhábiles, se considerarán recibidos el día hábil siguiente.
 
@@ -259,6 +267,16 @@ El Instituto registrará diariamente en INFOMEX los pagos realizados por los sol
 Cuando el solicitante o su representante legal acuda personalmente a la Oficina de Información Pública a presentar su solicitud por escrito y permanezca en dicha Oficina hasta el momento en que se expida el acuse correspondiente, éste le será entregado de inmediato.
 
 Para efecto de notificaciones, en los casos previstos en este lineamiento, se seguirá el procedimiento referido en este capítulo, salvo la fracción II del Lineamiento 8.
+
+> <small>(ADICIONADO, G.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+14. Bis. Las solicitudes identificadas, en el menú “avisos del sistema” del sistema INFOMEX, con el nombre de solicitante “TEL-INFODF”, deberán ser atendidas, por el personal de la Oficina de Información Pública que corresponda, como si se tratarán de solicitudes ingresadas en el Módulo Manual. Estas solicitudes se identificarán en el menú de “avisos del sistema” como un tipo de solicitud manual y el solicitante como “TEL-INFODF”.
+
+En las solicitudes recibidas con el nombre de usuario TEL-INFODF, la Oficina de Información Pública observará, en lo conducente, lo dispuesto por los lineamientos 8, excepto las fracciones I y II, 9, 10, 11 y 13, salvo en lo que respecta a la notificación para que el solicitante realice el pago de los costos de reproducción y envío, caso en el que deberá notificar al solicitante que podrá acudir al Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal a recoger las fichas de pago respectivas para que el particular realice el depósito correspondiente en las instituciones autorizadas, o bien comunicarse al número telefónico de dicho centro para que los agentes le proporcionen los datos necesarios, vía telefónica o por correo electrónico, para que efectúe el pago directamente en dichas instituciones.
+
+Para el supuesto previsto en el numeral 8, fracción IV de los presentes Lineamientos, deberá informar al solicitante que la prevención deberá desahogarse, vía telefónica, con el apoyo del TEL-INFODF.
+
+En caso de inconformidad contra las respuestas recaídas a las solicitudes o contra la omisión de respuesta, el solicitante podrá interponer el recurso de revisión ante el Instituto dentro de los quince días hábiles siguientes a aquel en que surta efectos la notificación de la respuesta, de acuerdo a lo establecido en la Ley.
 
 ### Capítulo II. Registro y trámite de solicitudes a través del módulo electrónico de INFOMEX
 
@@ -336,6 +354,18 @@ Cuando el solicitante o su representante legal acuda personalmente a la Oficina 
 
 Para efecto de notificaciones, en los casos previstos en este lineamiento, se seguirá el procedimiento referido en este capítulo, salvo la fracción II del lineamiento 19.
 
+> <small>(ADICIONADO, G.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+25. Bis. Las solicitudes identificadas, en el menú “avisos del sistema” del sistema INFOMEX, con el nombre de solicitante “TEL-INFODF”, deberán ser atendidas, por el personal de la Oficina de Información Pública que corresponda, como si se tratarán de solicitudes ingresadas en el Módulo Manual. Estas solicitudes se identificarán en el menú de “avisos del sistema” como un tipo de solicitud manual y el solicitante como “TEL-INFODF”.
+
+En las solicitudes recibidas con el nombre de usuario TEL-INFODF, la Oficina de Información Pública observará, en lo conducente, lo dispuesto en los lineamientos 18, excepto en su párrafo segundo, 19, salvo las fracciones I y II, 20, 21, 22, 23 y 24.
+
+Para el supuesto previsto en el numeral 19, fracción IV de los presentes Lineamientos, deberá informar al solicitante que la prevención deberá desahogarse, vía telefónica, con el apoyo del TEL-INFODF.
+
+Para el supuesto previsto en el segundo párrafo de la fracción IV del lineamiento 19, el particular podrá acudir al TEL-INFODF, para que éste anexe las constancias en el Sistema INFOMEX, cuando la Oficina de Información Pública considere que el formato electrónico es idóneo, de conformidad con la política definida por el titular de cada uno de los Entes Públicos; en caso contrario, el particular deberá enviar los documentos requeridos a través de correo certificado o mensajería, con acuse de recibo, o presentarlos directamente ante la Oficina de Información Pública dentro del plazo legal.
+
+En caso de inconformidad contra las respuestas recaídas a las solicitudes o contra la omisión de respuesta, el solicitante podrá interponer el recurso de revisión ante el Instituto dentro de los quince días hábiles siguientes a aquel en que surta efectos la notificación de la respuesta, de acuerdo a lo establecido en la Ley.
+
 ### Capítulo III. Registro y trámite de solicitudes a través del módulo electrónico de INFOMEX
 
 26. Para poder presentar solicitudes de acceso o rectificación de datos personales en el módulo electrónico de INFOMEX, los particulares deberán tener una clave de usuario y una contraseña, mismas que les serán asignadas por el sistema al registrarse, proporcionando nombre y domicilio o medio para recibir notificaciones.
@@ -371,3 +401,13 @@ La Oficina de Información Pública deberá contar, al menos, con un equipo de c
 Asimismo, serán inhábiles los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores o los términos relativos a los procedimientos previstos en estos Lineamientos, mismos que se publicarán en la Gaceta Oficial del Distrito Federal o en el órgano de difusión oficial que corresponda, además de darse a conocer en el sitio de Internet de INFOMEX.
 
 (Rubricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 7 DE SEPTIEMBRE DE 2007.
+
+SE TRASCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LOS LINEAMIENTOS.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO. Se instruye al Secretario Técnico para que en el ámbito de sus atribuciones realice las gestiones necesarias para que el presente acuerdo se comunique a los titulares de los Entes Públicos obligados y a las Oficinas de Información Pública, así como para que sea publicado en la Gaceta Oficial del Distrito Federal, en el Portal de Internet y en los estrados del INFODF, respectivamente.
