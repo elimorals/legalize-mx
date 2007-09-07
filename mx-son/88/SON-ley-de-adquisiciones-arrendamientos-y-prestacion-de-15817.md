@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "2007-08-14"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -155,13 +155,17 @@ III.- Ajustarse a los objetivos, metas y previsión de recursos establecidos en 
 
 IV.- Tomar en consideración las estrategias y políticas previstas por el Gobierno Federal y los Gobiernos Municipales en sus respectivos planes y programas, a fin de coadyuvar a la consecución de sus objetivos de desarrollo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-V.- Sujetarse a las disposiciones de las autorizaciones correspondientes del Congreso del Estado para afectaciones presupuestales multianuales, que en su caso emita; y
+V.- Sujetarse a las disposiciones de las autorizaciones correspondientes del Congreso del Estado para afectaciones presupuestales multianuales, que en su caso emita;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 14 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Respetar las demás disposiciones legales y reglamentarias que rijan las operaciones objeto del presente ordenamiento.
+VI.- Dar preferencia a la adquisición de bienes y servicios que impacten de menor manera al medio ambiente, bajo el principio de un consumo sustentable; y
+
+> <small>(ADICIONADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VII.- Respetar las demás disposiciones legales y reglamentarias que rijan las operaciones objeto del presente ordenamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
 
@@ -678,3 +682,7 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 ###### ARTÍCULO SEXTO.
 
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
+
+B.O. 7 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
