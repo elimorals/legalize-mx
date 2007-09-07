@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2006-09-14"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -49,11 +49,19 @@ I.- El Supremo Tribunal de Justicia;
 
 II.- Los Tribunales Regionales de Circuito;
 
-III.- Los Juzgados de Primera Instancia; y
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-IV.- Los Juzgados Locales.
+III.- Los Juzgados de Primera Instancia;
 
-Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, cuya integración, organización y funcionamiento se sujetará a las bases que se establecen en esta Ley.
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- Los Juzgados Locales; y
+
+> <small>(ADICIONADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- El Consejo del Poder Judicial.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ## TITULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -105,33 +113,39 @@ Los acuerdos y resoluciones del Pleno del Supremo Tribunal de Justicia deberán 
 
 El Supremo Tribunal de Justicia tendrá, funcionando en Pleno, en el ámbito jurisdiccional, las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primer Instancia, excepto los especializados en justicia para adolescentes, o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
+I.- Conocer de las cuestiones de competencia que se susciten entre los Tribunales Regionales de Circuito, entre Jueces de Primera Instancia o entre Jueces Locales pertenecientes a distintos Distritos Judiciales del Estado;
 
 II.- Calificar y resolver las causas de recusación o excusa de los Magistrados del Supremo Tribunal de Justicia y de los Magistrados de los Tribunales Regionales de Circuito;
 
-III.- Resolver, en los asuntos cuyo conocimiento le competa, de las recusaciones de los Jueces de Primera Instancia, ordenando la remisión del expediente a quien corresponda;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+III.- Resolver, en los asuntos cuyo conocimiento le competa, de las recusaciones de los Jueces de Primera Instancia, excepto de los especializados en justicia para adolescentes, ordenando la remisión del expediente a quien corresponda;
 
 IV.- Conocer y resolver de las solicitudes de indulto necesario o reconocimiento de inocencia;
 
-V.- Ejercer la facultad de atracción cuando se estime que un asunto de la competencia de los Tribunales Regionales de Circuito deba ser resuelto por alguna de las Salas del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Ejercer la facultad de atracción cuando se estime que un asunto de la competencia de los Tribunales Colegiados Regionales de Circuito deba ser resuelto por alguna de las Salas del Supremo Tribunal de Justicia;
 
 VI.- Conocer, en única instancia, de los juicios de responsabilidad civil, en contra de los Magistrados del Supremo Tribunal de Justicia y de los Magistrados Regionales de Circuito;
 
-VII.- Elaborar, y mantener permanentemente actualizada, una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándola por ramas, especialidades y distritos judiciales.
-
-Sin perjuicio de lo previsto en las leyes, en los lugares donde no existan peritos oficiales con nombramiento expreso, fungirán como tales las personas aptas en las especialidades de que se trate, que estén desempeñando el magisterio en las escuelas oficiales o que sean funcionarios o empleados de carácter técnico en establecimientos dependientes del Gobierno del Estado; y
+VII.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 VIII.- Conocer de cualquier otro asunto de la competencia del Supremo Tribunal de Justicia, cuyo conocimiento no corresponda a las Salas, a las Comisiones, o a la Presidencia del mismo.
 
-Los asuntos a que se refieren las fracciones anteriores, con excepción del señalado en la fracción VII, deberán distribuirse por riguroso turno, en orden de su designación, entre los integrantes del Pleno del Supremo Tribunal de Justicia, para que, en su oportunidad, formulen los proyectos de resolución.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los asuntos a que se refieren las fracciones anteriores deberán distribuirse por riguroso turno, en orden de su designación, entre los integrantes del Pleno del Supremo Tribunal de Justicia, para que, en su oportunidad, formulen los proyectos de resolución.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 11.
 
 El Pleno del Supremo Tribunal de Justicia, además de las atribuciones enumeradas en el artículo anterior, ejercerá las siguientes facultades:
 
-I.- Elegir al Presidente del Supremo Tribunal de Justicia y, conocer, aceptar o rechazar, en su caso, su renuncia a dicho cargo;
+I.- Elegir al Presidente del Supremo Tribunal de Justicia y, conocer, aceptar o rechazar, en su caso, su renuncia a dicho cargo:
 
 II.- Determinar la adscripción de los Magistrados a las Salas y acordar los cambios pertinentes entre sus integrantes;
 
@@ -139,83 +153,51 @@ III.- Determinar el sistema de distribución de los asuntos que deban conocer la
 
 IV.- Autorizar la creación de las Comisiones que sean necesarias, para la atención de los asuntos de su competencia y designar a los Magistrados que integrarán las mismas;
 
-V.- Conceder licencias a sus integrantes, en términos de lo dispuesto en el artículo 116 de la Constitución Política del Estado de Sonora;
+V.- Conceder licencias a sus integrantes, en términos de lo dispuesto en el artículo 116 de la Constitución Política del Estado de Sonora, así como en los casos previstos en esta ley;
 
-VI.- Autorizar el pago de los honorarios a los magistrados suplentes cuando entren en funciones;
+VI.- Autorizar el pago de los honorarios a los Magistrados suplentes cuando entren en funciones;
 
-VII.- Acordar el retiro forzoso de los Magistrados del Supremo Tribunal de Justicia al cumplir éstos los sesenta y cinco años de edad;
+VlI.- Nombrar, conforme a lo que esta Ley establece respecto a la Carrera Judicial, al Secretario General de Acuerdos del Supremo Tribunal de Justicia, a los Secretarios Auxiliares y Secretarios Proyectistas, así como a los demás empleados subalternos del Supremo Tribunal de Justicia del Estado, cuya designación no corresponda a otra autoridad, y aceptarles sus renuncias;
 
-VIII.- Dictar las bases de organización y funcionamiento de los órganos auxiliares del Poder Judicial del Estado y, en su caso, los acuerdos de creación de los mismos;
+VIlI.- Nombrar al Magistrado o Magistrados que deban proveer los trámites de carácter urgente, durante los periodos de receso o vacacionales del Supremo Tribunal de Justicia;
 
-IX.- Nombrar al Secretario General de Acuerdos del Supremo Tribunal de Justicia, a los Secretarios Auxiliares, Secretarios Proyectistas y demás empleados subalternos del Supremo Tribunal de Justicia del Estado, cuya designación no corresponda a otra autoridad, así como aceptarles sus renuncias;
+IX.- Evaluar, periódicamente, el funcionamiento de los órganos del Supremo Tribunal de Justicia y adoptar las medidas permanentes para mejorarlo;
 
-X.- Nombrar, a propuesta de su Presidente, con excepción de los funcionarios a que se refiere el artículo 82, fracción II, de esta ley, a los titulares de los órganos auxiliares administrativos del Poder Judicial del Estado, y resolver sobre sus renuncias;
+X.- Rendir al Congreso del Estado y al Ejecutivo Estatal, por conducto de su Presidente los informes que le soliciten sobre el ramo judicial;
 
-XI.- Nombrar al magistrado o magistrados que deban proveer los trámites de carácter urgente, durante los períodos de receso o vacacionales del Supremo Tribunal de Justicia;
+XI.- Fijar los periodos vacacionales de que deban disfrutar los servidores públicos del Supremo Tribunal de Justicia;
 
-XII.- Conocer y aceptar las renuncias que presenten los Magistrados Regionales de Circuito y los Jueces de Primera Instancia y nombrar, provisionalmente, a las personas que deberán sustituirlos en dichos cargos, hasta en tanto se realiza la designación definitiva, con base en lo que establece la presente ley, respecto a la carrera judicial;
+XII.- Conceder licencias en los términos previstos por esta ley;
 
-XIII.- Determinar, provisionalmente, el cambio de adscripción de los Magistrados Regionales de Circuito y de los Jueces de Primera Instancia y comunicarlo al Consejo del Poder Judicial del Estado de Sonora, para el ejercicio de las atribuciones de éste;
+XIII.- Expedir las disposiciones generales de observancia obligatoria que fueren necesarias para el adecuado ejercicio de sus atribuciones, especialmente las relativas al régimen disciplinario de los servidores públicos del Supremo Tribunal de Justicia;
 
-XIV.- Determinar el número y los distritos judiciales que comprenderán cada uno de los circuitos en que se divida el territorio del Estado;
+XIV.- Aprobar, con las modificaciones que estime pertinentes, el Proyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado que someta a su consideración el Consejo del mismo Poder, para los efectos señalados por la fracción VII del artículo 79 de la Constitución Política del Estado de Sonora;
 
-XV.- Determinar el número de los Tribunales Regionales de Circuito que existirán en cada uno de los circuitos;
+Aprobar, con las modificaciones que estime pertinentes, el Proyecto de Presupuesto Anual de Egresos del Fondo para la Administración de Justicia que someta a su consideración el propio Consejo, ordenando su publicación en el Boletín Oficial del Gobierno del Estado.
 
-XVI.- Determinar el número y, en su caso, la especialización por materia, de los Juzgados de Primera Instancia que existirán en cada uno de los distritos judiciales;
+Asimismo, autorizar las adecuaciones que considere necesarias al Presupuesto Anual de Egresos del Poder Judicial y al del Fondo para la Administración de Justicia, a fin de que se efectúen transferencias de recursos y se amplíen los montos originalmente asignados a programas que requieran recursos adicionales, para permitir un mejor cumplimiento de los mismos;
 
-> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+XV.- Cuando lo considere pertinente, revisar los acuerdos generales del Consejo del Poder Judicial del Estado para confirmados, modificados o revocados.
 
-Determinar, mediante Acuerdos Generales, la jurisdicción territorial que tendrán los juzgados especializados en justicia para adolescentes, que podrá abarcar dos o más distritos judiciales;
+Revisar las decisiones de ratificación de los Magistrados Regionales de Circuito y Jueces que emita el Consejo, resolver dentro de los treinta días hábiles siguientes a la fecha en que se notifique al Pleno tal determinación, si se confirma o se revoca.
 
-XVII.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos;
+Para el caso de revocación, en los supuestos previstos en esta fracción, se requerirá el voto aprobatorio de, cuando menos, las dos terceras partes del total de los integrantes del Pleno del propio Tribunal.
 
-XVIII.- Nombrar, provisionalmente, Magistrados Regionales de Circuito y Jueces de Primera Instancia cuando, en los casos previstos en esta ley, se declaren desiertos los concursos;
+XVI.- Conocer y resolver los recursos de revisión interpuestos contra los acuerdos del Consejo del Poder Judicial del Estado relativos a nombramientos, adscripción, readscripción, no ratificación y remoción de Magistrados Regionales de Circuito y Jueces, en los términos establecidos en la presente Ley. En caso de revocación, se requerirá la votación indicada en la fracción que antecede;
 
-XIX.- Ordenar, cuando se considere conveniente por necesidades del servicio, la instalación de Juzgados de Primera Instancia Supernumerarios, y señalar el período de su funcionamiento, así como los asuntos de los que deban conocer;
+XVII.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas del Supremo Tribunal de Justicia.
 
-XX.- Evaluar, periódicamente, el funcionamiento de los órganos del Poder Judicial del Estado y adoptar las medidas pertinentes para mejorarlo;
+Asimismo, por conducto del Presidente del Supremo Tribunal de Justicia, apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente en la Capital del Estado al día de cometerse la falta y arrestos hasta por treinta y seis horas, a aquellas personas que falten al respeto a algún órgano o miembro del mismo Supremo Tribunal en las promociones que presenten o mediante actos que realicen en sus recintos;
 
-XXI.- Ordenar la realización de visitas extraordinarias a los Tribunales Regionales de Circuito y a los Juzgados de Primera Instancia y Locales, cuando estime que se ha cometido una falta grave, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
+XVIII.- Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos del Supremo Tribunal de Justicia en términos de lo que dispone esta Ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 123 de la Constitución Política del Estado;
 
-XXII.- Rendir al Congreso del Estado y al Ejecutivo Estatal, por conducto de su Presidente, los informes que le soliciten sobre el ramo judicial;
+XIX.- Iniciar leyes y decretos ante el Congreso del Estado o proponer la reforma de los vigentes, en lo relativo al ramo de administración de justicia; y
 
-XXIII.- Fijar los períodos vacacionales de que deban disfrutar los servidores públicos del Poder Judicial del Estado;
-
-XXIV.- Conceder licencias en los términos previstos por esta ley;
-
-XXV.- Desarrollar el sistema de carrera judicial, el cual se regirá por los principios de excelencia, profesionalismo, imparcialidad, objetividad, independencia y antigüedad y con base en criterios de igualdad de oportunidades, méritos y capacidades;
-
-XXVI.- Expedir las disposiciones generales de observancia obligatoria que fueren necesarias para el adecuado ejercicio de sus atribuciones, especialmente las relativas a la carrera judicial y régimen disciplinario de los servidores públicos del Poder Judicial del Estado;
-
-XXVII.- Aprobar el Proyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado, que le someta a su consideración el Presidente del Supremo Tribunal de Justicia y remitirlo al Gobernador del Estado, para los efectos señalados en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, y ejercer el mismo conforme a las disposiciones legales correspondientes;
-
-XXVIII.- Emitir bases generales para que las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial del Estado, se ajuste a los criterios contemplados en el artículo 150 de la Constitución Política local;
-
-XXIX.- Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
-
-XXX.- Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado;
-
-XXXI.- Emitir las disposiciones que resulten necesarias, a efecto de normar, a través de la implementación de Libros de Gobierno, un efectivo sistema de registro que refleje la actuación de los Juzgados de Primera Instancia, así como los trámites relativos a la substanciación de los diversos medios de impugnación en los Tribunales Regionales de Circuito;
-
-XXXII.- Administrar los bienes muebles e inmuebles del Poder Judicial del Estado, cuidando de su mantenimiento, conservación y acondicionamiento;
-
-XXXIII.- Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
-
-XXXIV.- Llevar, por conducto de la Visitaduría Judicial y Contraloría, el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial;
-
-XXXV.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas del Poder Judicial del Estado;
-
-XXXVI.- Dictar las disposiciones generales necesarias para el ingreso, estímulos, capacitación, actualización, ascensos y promociones del personal administrativo del Poder Judicial del Estado;
-
-XXXVII.- Iniciar leyes y decretos ante el Congreso del Estado o proponer la reforma de los vigentes, en lo relativo al ramo de administración de justicia; y
-
-XXXVIII.- Las demás que determinen las leyes.
+XX.- Las demás que determinen las leyes.
 
 > <small>(ADICIONADO, B.O. 20 DE MAYO DE 2004)</small>
 
-###### ARTICULO 11 Bis.
-
-Queda prohibido al Pleno del Supremo Tribunal de Justicia la entrega de numerario o bienes en especie a magistrados, jueces y a servidores públicos administrativos de primer nivel del Poder Judicial, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones.
+ARTICULO 11 BIS.- Queda prohibido al Pleno del Supremo Tribunal de Justicia la entrega de numerario o bienes en especie a magistrados, jueces y a servidores públicos administrativos de primer nivel del Poder Judicial, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones.
 
 ### CAPITULO TERCERO. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -245,29 +227,35 @@ VII.- Sustituir, en los casos de impedimento, a los magistrados de las Salas, en
 
 VIII.- Informar al Gobernador del Estado de las ausencias definitivas de Magistrados del Supremo Tribunal de Justicia que produzcan la vacante de dicho cargo y que deba ser cubierta mediante el respectivo nombramiento;
 
-IX.- Practicar inspecciones periódicas en la Secretaría General de Acuerdos del Supremo Tribunal de Justicia, con el fin de vigilar la puntualidad del acuerdo y la observancia de las disposiciones reglamentarias, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IX.- Practicar inspecciones periódicas en la Secretaria General de Acuerdos del Supremo Tribunal de Justicia, con el fin de vigilar la puntualidad del acuerdo y la observancia de las disposiciones reglamentarias;
 
 X.- Informar al Pleno de las irregularidades que encontrare en la práctica de las inspecciones a que se refiere la fracción anterior, sin perjuicio de dictar, de inmediato, en forma provisional, las medidas que estime pertinentes;
 
 XI.- Hacer excitativas a los Magistrados del Supremo Tribunal de Justicia y a los Magistrados Regionales de Circuito, así como a los jueces y demás funcionarios que incurrieren en demora en el cumplimiento de sus obligaciones, a petición de parte interesada, y aún de oficio, sin perjuicio de que el Pleno dicte las medidas que estime procedentes;
 
-XII.- Someter, anualmente, a la aprobación del Pleno del Supremo Tribunal de Justicia, para los efectos correspondientes, el anteproyecto de Presupuesto de Egresos del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-XIII.- Ejercer, conforme a las disposiciones legales aplicables, el Presupuesto de Egresos del Poder Judicial del Estado;
+XII.- Someter, anualmente, a la aprobación del Pleno del Supremo Tribunal de Justicia, para los efectos correspondientes, el anteproyecto de Presupuesto Anual de Egresos del Poder Judicial del Estado y en el mes de diciembre de cada año el del Fondo para la Administración de Justicia;
+
+XIII.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 XIV.- Solicitar informes a las Salas del Supremo Tribunal de Justicia, a los Tribunales Regionales de Circuito, a los Juzgados de Primera Instancia y a cualquier otro órgano del Poder Judicial;
 
 XV.- Conceder licencias en los términos establecidos en la presente ley;
 
-XVI.- Dirigir la publicación del Boletín de Información Judicial del Estado;
+XVI.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 XVII.- Dictar las medidas necesarias para el buen servicio y disciplina del Supremo Tribunal de Justicia; y
 
 XVIII.- Las demás que le confieran las leyes, reglamentos y acuerdos generales.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 14.
 
-Al Presidente del Supremo Tribunal de Justicia le corresponde, sin perjuicio de las atribuciones señaladas en el artículo que antecede, velar para que la administración de justicia sea pronta, completa e imparcial, debiendo proponer al Pleno del Supremo Tribunal de Justicia los acuerdos que juzgue conducentes para el mejor desempeño de la función judicial.
+Al Presidente del Supremo Tribunal de Justicia le corresponde, sin perjuicio de las atribuciones señaladas en el artículo que antecede, proponer al Pleno los acuerdos que juzgue conducentes para que la impartición de justicia sea pronta, completa e imparcial.
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -337,9 +325,11 @@ Cuando a juicio de las Salas del Supremo Tribunal de Justicia, se considere que 
 
 ### CAPITULO QUINTO. DE LAS COMISIONES DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 24.
 
-El Supremo Tribunal de Justicia, para el despacho de los asuntos de su competencia de naturaleza no jurisdiccional, contará con aquellas Comisiones permanentes o transitorias que, mediante Acuerdo, determine el Pleno del mismo; en todo caso, existirán las comisiones de Carrera Judicial y la de Disciplina.
+El Supremo Tribunal de Justicia, para el despacho de los asuntos de su competencia de naturaleza no jurisdiccional, contará con aquellas comisiones permanentes o transitorias que, mediante Acuerdo, determine el Pleno del mismo; en todo caso, existirá la Comisión de Disciplina.
 
 ###### ARTICULO 25.
 
@@ -387,7 +377,9 @@ El Presidente del Supremo Tribunal de Justicia sustituirá a cualquiera de los M
 
 Cuando los tres Magistrados de una de las Salas estuvieran impedidos para conocer de un asunto, conocerá de él la otra Sala.
 
-En el supuesto de que se hubieren agotado las suplencias internas conforme a los artículos anteriores, y no existiera acuerdo mayoritario sobre el asunto de que se trate, se seguirá el procedimiento previsto en este artículo.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+En el supuesto de que se hubieren agotado las suplencias internas conforme a los artículos anteriores, y no existiera acuerdo mayoritario sobre el asunto de que se trate, se seguirá el procedimiento previsto en el siguiente artículo.
 
 ###### ARTICULO 35.
 
@@ -429,7 +421,9 @@ IX.- Guardar en el secreto los pliegos, escritos, documentos, objetos y valores,
 
 X.- Presentar a la Presidencia, dentro de los diez primeros días de cada mes, una noticia de los negocios despachados durante el mes anterior, consignando los que queden pendientes, con expresión del último trámite, su fecha y el magistrado a quien corresponda conforme al turno;
 
-XI.- Integrar y mantener permanentemente actualizados, para los efectos de la carrera judicial, los expedientes personales de los servidores públicos que ostenten las categorías a que se refiere el artículo 124 de esta ley;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XI.- Integrar y mantener permanentemente actualizados, para los efectos de la carrera judicial, los expedientes personales de los servidores públicos del Supremo Tribunal de Justicia que ostenten las categorías a que se refieren las fracciones II, IV, VII y X del artículo 124 de esta ley; y
 
 XII.- Las demás facultades y obligaciones que le señalen otras disposiciones legales o le confieran el Pleno, las Salas, las comisiones o el Presidente del Supremo Tribunal de Justicia.
 
@@ -437,9 +431,11 @@ XII.- Las demás facultades y obligaciones que le señalen otras disposiciones l
 
 El Secretario General de Acuerdos, para el cumplimiento de sus atribuciones, contará con los Secretarios Auxiliares de Acuerdos y con los demás servidores públicos que autorice el presupuesto.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 39.
 
-Las faltas temporales que no excedan de tres meses, así como los casos de impedimento del Secretario General de Acuerdos, serán suplidos por los Secretarios Auxiliares, conforme al orden numérico de su designación. Si las faltas excedieren de ese tiempo, el Pleno del Supremo Tribunal de Justicia nombrará Secretario General de Acuerdos interino, o al nuevo Secretario, en caso de falta definitiva.
+Las faltas temporales que no excedan de tres meses, así como los casos de impedimento del Secretario General de Acuerdos, serán suplidos por los Secretarios Auxiliares, conforme al orden numérico de su designación. Si las faltas excedieren de ese tiempo, el Pleno del Supremo Tribunal de Justicia nombrará Secretario General de Acuerdos interino, o al nuevo Secretario, en caso de falta definitiva, sin perjuicio de que antes de que transcurra dicho plazo de tres meses, el mismo Pleno designe provisionalmente a la persona que sustituya al Secretario.
 
 ###### ARTICULO 40.
 
@@ -459,11 +455,13 @@ Los Tribunales Colegiados Regionales de Circuito se integrarán por tres magistr
 
 Los Tribunales Unitarios Regionales de Circuito se compondrán de un magistrado cada uno.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 42.
 
-Los Tribunales Regionales de Circuito tendrán la jurisdicción territorial que determine el Pleno del Supremo Tribunal de Justicia mediante Acuerdos Generales, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
+Los Tribunales Regionales de Circuito tendrán la jurisdicción territorial que determine el Pleno del Consejo del Poder Judicial mediante Acuerdos Generales, mismos que deberá publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-Los Magistrados Regionales de Circuito no podrán abandonar la residencia del Tribunal al que estén adscritos sin permiso previo otorgado por el Presidente del Supremo Tribunal de Justicia, o bien, por el funcionario que determine el Pleno, mediante acuerdo general.
+Los Magistrados Regionales de Circuito no podrán abandonar la residencia del Tribunal al que estén adscritos sin permiso previo otorgado por el Presidente del Consejo del Poder Judicial, o bien, por el funcionario que determine el Pleno del propio Consejo, mediante acuerdo general.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -493,15 +491,13 @@ III.- De las recusaciones de los jueces de primera instancia promovidas en los a
 
 > <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 43 Bis.
-
-Los Tribunales Unitarios Regionales de Circuito conocerán:
+ARTICULO 43 BIS.- Los Tribunales Unitarios Regionales de Circuito conocerán:
 
 I.- De los recursos de apelación, denegada apelación, queja, revocación y revisión extraordinaria interpuestos contra sentencias, interlocutorias y autos dictados por jueces de primera instancia en procedimientos seguidos a adolescentes, a quienes se atribuya la comisión de una conducta tipificada como delito por las leyes penales;
 
 II.- De la calificación de los impedimentos, excusas y recusaciones de los jueces de justicia para adolescentes;
 
-III.- De las cuestiones de competencia que se susciten entre los jueces especializados en justicia para adolescentes; y
+III.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 IV.- De los demás asuntos que les encomienden las leyes.
 
@@ -519,19 +515,23 @@ Las resoluciones de los Tribunales Colegiados Regionales de Circuito se tomarán
 
 El Magistrado de Tribunal Colegiado Regional de Circuito que disintiere de la mayoría podrá formular voto particular, el cual se insertará en la resolución respectiva, si fuere presentado dentro de los tres días siguientes a la fecha de la sesión.
 
-> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 45.
 
-Cuando un Magistrado de Tribunal Colegiado Regional de Circuito estuviere impedido para conocer de un negocio o se excuse, aceptándosele la excusa, o calificándose de procedente el impedimento o faltare accidentalmente o esté ausente por un término no mayor de un mes, será suplido por el Secretario de Acuerdos, quien asumirá la ponencia, sin perjuicio de que en este último supuesto y antes de que transcurra dicho plazo, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a quien supla al Magistrado de que se trate.
+Cuando un Magistrado de Tribunal Colegiado Regional de Circuito estuviere impedido para conocer de un negocio o se excuse, aceptándosele la excusa, o calificándose de procedente el impedimento o faltare accidentalmente o esté ausente por un término no mayor de quince días, será suplido por el Secretario de Acuerdos, quien asumirá la ponencia, sin perjuicio de que en este último supuesto y antes de que transcurra dicho plazo, el Pleno del Consejo del Poder Judicial designe provisionalmente a quien supla al Magistrado de que se trate.
 
-Cuando un Magistrado de Tribunal Unitario Regional de Circuito falte por un término no mayor de quince días al despacho del Tribunal, el Secretario de Acuerdos practicará las diligencias y dictará resoluciones de carácter urgente, independientemente de que antes de que transcurra el plazo de referencia, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que sustituya al Magistrado.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Cuando un Magistrado de Tribunal Unitario Regional de Circuito falte por un término no mayor de quince días al despacho del Tribunal, el Secretario de Acuerdos practicará las diligencias y dictará resoluciones de carácter urgente, independientemente de que antes de que transcurra el plazo de referencia, el Pleno del Consejo del Poder Judicial designe provisionalmente a la persona que sustituya al Magistrado.
 
 Cuando la excusa o impedimento afecte a dos o más Magistrados de Tribunales Colegiados Regionales de Circuito, conocerá del negocio el Tribunal Colegiado Regional de Circuito geográficamente más próximo.
 
 Asimismo, cuando la excusa o impedimento afecte al Magistrado de un Tribunal Unitario Regional de Circuito, conocerá del negocio el Tribunal Unitario Regional de Circuito geográficamente más próximo, y mientras se remiten los autos, el secretario respectivo practicará las diligencias urgentes y dictará los proveídos de mero trámite.
 
-Las ausencias de los Magistrados Regionales de Circuito mayores de quince días y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Supremo Tribunal de Justicia.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Las ausencias de los Magistrados Regionales de Circuito mayores de quince días y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Consejo del Poder Judicial.
 
 > <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -627,7 +627,9 @@ II.- Distrito Judicial de Agua Prieta, que comprende las siguientes Municipalida
 
 III.- Distrito Judicial de Altar, que comprende las siguientes Municipalidades: ALTAR, con la Comisaría de El Plomo; CABORCA; ATIL; OQUITOA; SARIC, con la Comisaría de Sásabe; TRINCHERAS, con la Comisaría de El Puerto de Camou; PITIQUITO, con la Comisaría de La Ciénega; y TUBUTAMA, con las Comisarías de La Reforma y La Sangre. Cabecera: CABORCA;
 
-IV.- Distrito Judicial de Cajeme, que comprende las siguientes Municipalidades: CAJEME, con las Comisarías de Cócorit, Esperanza, Providencia y Pueblo Yaqui; BACUM y ROSARIO, con las Comisarías de Cedros, Nuri, La Dura y Movas, las Comisarias de Vícam, Pótam; Torín y San Ignacio Río Muerto de la Municipalidad de GUAYMAS. Cabecera: CIUDAD OBREGON;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- Distrito Judicial de Cajeme, que comprende las siguientes Municipalidades: CAJEME, con las Comisarías de Cócorit, Esperanza, Providencia y Pueblo Yaqui; BACUM, SAN IGNACIO RÍO MUERTO y ROSARIO, con las Comisarías de Cedros, Nuri, La Dura y Movas, las Comisarías de Vícam, Pótam y Torín de la Municipalidad de GUAYMAS. Cabecera: CIUDAD OBREGÓN;
 
 V.- Distrito Judicial de Cananea, que comprende las siguientes Municipalidades: CANANEA; ARIZPE, con las Comisarías de Chinapa, Bacanuchi y Sinoquipe; BACOACHI y NACO. Cabecera: CANANEA;
 
@@ -635,7 +637,9 @@ VI.- Distrito Judicial de Guaymas, que comprende las siguientes Municipalidades:
 
 VII.- Distrito Judicial de Hermosillo, que comprende las siguientes Municipalidades: HERMOSILLO, con las Comisarías de El Poblado Miguel Alemán y San José de Gracia; LA COLORADA, con las Comisarías de San José de Pimas, Moradillas, Tecoripa y Estación Serdán; SAN JAVIER; SUAQUI GRANDE; MAZATAN; SAN MIGUEL DE HORCASITAS, con las Comisarías de Los Angeles y Pesqueira; CARBO; ONAVAS y SOYOPA, con las Comisarías de Tónichi, San Antonio de la Huerta, Llano Colorado y Rebeico; las Comisarías de Félix Gómez y Puerto Libertad del Municipio de PITIQUITO; la Comisaría de Querobabi del Municipio de OPODEPE. Cabecera: HERMOSILLO;
 
-VIII.- Distrito Judicial de Huatabampo, que comprende las siguientes Municipalidades: HUATABAMPO, con las Comisarías de Citavaro, La Galera, Jupare, Etchoropo, Yavaros, Moroncarit y Agiabampo; y ETCHOJOA, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucarit, San Pedro y Villa Juárez. Cabecera: HUATABAMPO;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VIII.- Distrito Judicial de Huatabampo, que comprende las siguientes Municipalidades: HUATABAMPO, con las Comisarías de Citavaro, La Galera, Jupare, Etchoropo, Yavaros, Moroncarit y Agiabampo; ETCHOJOA, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucarit y San Pedro; y BENITO JUÁREZ. Cabecera: HUATABAMPO;
 
 IX.- Distrito Judicial de Magdalena, que comprende las siguientes Municipalidades: MAGDALENA, con las Comisarías de San Ignacio y San Lorenzo; CUCURPE; IMURIS, con la Comisaría de Terrenate; SANTA ANA, con las Comisarías de Estación Llano, Coyotillo y Santa Martha; BENJAMIN HILL. Cabecera: MAGDALENA;
 
@@ -669,15 +673,21 @@ III.- Los Juzgados de lo Mercantil;
 
 IV.- Los Juzgados de lo Penal;
 
-> <small>(REFORMADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-V.- Los Juzgados Mixtos; y
+V.- Los Juzgados Especializados en Justicia para Adolescentes; y
 
-> <small>(ADICIONADA, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Los Juzgados Especializados en Justicia para Adolescentes.
+VI.- Los Juzgados Mixtos.
 
-Además, cuando se considere conveniente por las necesidades del servicio, podrán crearse Juzgados de Primera Instancia Supernumerarios.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los Juzgados a que se refieren las fracciones I, II, IV y VI, podrán conocer de la materia de justicia especializada para adolescentes, según lo determine el Consejo del Poder Judicial, atendiendo a las necesidades de servicio.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Además, el Consejo podrá crear juzgados de primera instancia supernumerarios.
 
 ###### ARTICULO 57.
 
@@ -685,9 +695,15 @@ Los Juzgados de Primera Instancia se compondrán de un Juez y del número de sec
 
 Los Jueces de Primera Instancia deberán actuar, en todos los casos, con Secretarios de Acuerdos o, en ausencia de éstos, con testigos de asistencia.
 
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los actuarios adscritos a las Centrales de Actuarios, estarán autorizados para llevar a efecto diligencias en expedientes, exhortos y requisitorias provenientes de juzgados distintos al que los nombró.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 58.
 
-Los Jueces de Primera Instancia deberán residir en las cabeceras de sus respectivos Distritos Judiciales, y no podrán abandonar su residencia sin permiso previo otorgado por el Presidente del Supremo Tribunal de Justicia o bien, por el funcionario que determine el Pleno, mediante acuerdo general.
+Los Jueces de Primera Instancia deberán residir en las cabeceras de sus respectivos Distritos Judiciales, y no podrán abandonar su residencia sin permiso previo otorgado por el Presidente del Consejo del Poder Judicial o bien, por el funcionario que determine el Pleno del propio Consejo, mediante acuerdo general.
 
 ### CAPITULO TERCERO. DE LAS ATRIBUCIONES DE LOS JUECES DE PRIMERA INSTANCIA
 
@@ -731,11 +747,11 @@ Los Juzgados Mixtos conocerán de los asuntos a que se refieren los artículos p
 
 > <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 63 Bis.
+ARTICULO 63 BIS.- Los Juzgados Especializados en Justicia para Adolescentes conocerán de los procedimientos seguidos a los adolescentes en los que se les atribuya la comisión de conductas tipificadas como delitos por las leyes penales.
 
-Los Juzgados Especializados en Justicia para Adolescentes conocerán de los procedimientos seguidos a los adolescentes en los que se les atribuya la comisión de conductas tipificadas como delitos por las leyes penales.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Los Juzgados Especializados en Justicia para Adolescentes podrán ejercer jurisdicción en uno o más distritos judiciales, según lo determine el Pleno del Supremo Tribunal de Justicia en el Acuerdo de su creación.
+Los Juzgados Especializados en Justicia para Adolescentes podrán ejercer jurisdicción en uno o más distritos judiciales, según lo determine el Pleno del Consejo del Poder Judicial en el Acuerdo de su creación.
 
 ###### ARTICULO 64.
 
@@ -745,7 +761,7 @@ I.- Nombrar y remover a sus Secretarios y Actuarios y demás personal del Juzgad
 
 Para el nombramiento de los Secretarios y Actuarios se deberá observar lo que establece esta ley en materia de carrera judicial;
 
-II.- Nombrar a los Jueces Locales de sus Distritos, sometiendo dichos nombramientos a la aprobación del Pleno del Supremo Tribunal de Justicia;
+II.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 III.- Decidir las cuestiones de competencia entre dos o más jueces locales pertenecientes a sus Distritos;
 
@@ -755,15 +771,21 @@ V.- Integrar y mantener permanentemente actualizados, para los efectos de la car
 
 VI.- Remitir al Centro de Información Estadística del Poder Judicial del Estado de Sonora, en la forma y períodos que se determinen, los datos que, derivados del ejercicio de sus atribuciones, les sean requeridos por dicho Centro;
 
-VII.- Determinar el sistema de distribución de los asuntos que deban conocer cada una de sus Secretarías, sin perjuicio de la observancia de las disposiciones que, para el caso, emita el Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VII.- Determinar el sistema de distribución de los asuntos que deban conocer cada una de sus Secretarías, sin perjuicio de la observancia de las disposiciones que, para el caso, emita el Pleno del Consejo del Poder Judicial;
 
 VIII.- Evaluar, periódicamente, el funcionamiento de sus juzgados y adoptar las medidas pertinentes para mejorarlo;
 
 IX.- Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas del juzgado; y
 
-X.- Las demás que les señalen otras disposiciones legales o les confieran el Pleno o el Presidente del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Cuando existan varios Juzgados de Primera Instancia en un mismo Distrito Judicial, las facultades señaladas en las fracciones II y III de este artículo, serán ejercidas por el Juez de lo Civil y, en caso de que en el Distrito Judicial respectivo hubiere más de uno, por el primero en su orden numérico.
+X.- Las demás que les señalen otras disposiciones legales o les confieran el Pleno del Consejo de Poder Judicial o su Presidente.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Cuando existan varios Juzgados de Primera Instancia en un mismo Distrito Judicial, la facultad, señalada en la fracción III de este artículo, será ejercida por el Juez de lo Civil y, en caso de que en el Distrito Judicial respectivo hubiere más de uno, por el primero en su orden numérico.
 
 ###### ARTICULO 65.
 
@@ -771,9 +793,11 @@ En los lugares en que no resida Juez de Distrito o cuando éste servidor no hubi
 
 ### CAPITULO CUARTO. DE LA RESIDENCIA, ESPECIALIDAD, JURISDICCION Y TURNOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 66.
 
-El Pleno del Supremo Tribunal de Justicia, mediante Acuerdos Generales que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora, determinará el número, la residencia, la especialidad por materia, la jurisdicción territorial y el conocimiento por turnos de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
+El Pleno del Consejo del Poder Judicial, mediante Acuerdos Generales que deberán publicarse en el Boletín Oficial del Gobierno del Estado, determinará el número, la residencia, la especialidad por materia, la jurisdicción territorial y el conocimiento por tumos de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
 
 ###### ARTICULO 67.
 
@@ -781,19 +805,29 @@ En cada Distrito Judicial deberá existir, cuando menos, un Juzgado Mixto de Pri
 
 ### CAPITULO QUINTO. DE LOS JUZGADOS DE PRIMERA INSTANCIA SUPERNUMERARIOS
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 68.
 
-Los Juzgados Supernumerarios podrán ser mixtos o especializados por materia; se instalarán previo acuerdo que emita el Pleno del Supremo Tribunal de Justicia, el cual deberá publicarse en el Boletín Oficial del Gobierno del Estado, y precisar la competencia y el período de funcionamiento de los mismos.
+Los Juzgados Supernumerarios podrán ser mixtos o especializados por materia: se instalarán previo acuerdo que emita el Pleno del Consejo del Poder Judicial, el cual deberá publicarse en el Boletín Oficial del Gobierno del Estado, y precisar la competencia y el periodo de funcionamiento de los mismos.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 69.
 
-Lo relativo a jurisdicción, nombramientos, atribuciones, deberes, sistemas de suplencia y demás circunstancias que previene la presente ley para los Jueces de Primera Instancia, serán aplicables para los Jueces de Primera Instancia Supernumerarios, con excepción de lo relativo al período de nombramiento que para éstos no podrá ser mayor de un año.
+Lo relativo a jurisdicción, nombramientos, atribuciones, deberes, sistemas de suplencia y demás circunstancias que previene la presente ley para los Jueces de Primera Instancia, serán aplicables para los Jueces de Primera Instancia Supernumerarios, con excepción de lo relativo al periodo de nombramiento, el cual será por el tiempo que determine el Consejo del Poder Judicial.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPITULO QUINTO BIS. DE LA TRANSFORMACION TEMPORAL DE JUZGADOS DE PRIMERA INSTANCIA
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 69 BIS.- El Consejo del Poder Judicial tiene la facultad de acordar la transformación temporal de cualquier juzgado de primera instancia en juzgado de primera instancia “A” y juzgado de primera instancia "B", conservando ambos la denominación del órgano jurisdiccional de origen, para atender la carga de trabajo excesiva o problemas de rezago. En el acuerdo de transformación temporal de juzgados se establecerán los lineamientos relativos a las atribuciones de sus titulares, la infraestructura del personal, mobiliario e informática que compartirán y el personal jurisdiccional que se distribuirá para quedar una parte bajo las órdenes del titular de la adscripción y otra parte bajo las órdenes del Juez a quien se adscribirá en forma temporal.
+
+Asimismo, se establecerán los lineamientos para la distribución y atención de los expedientes de los que conozca el órgano jurisdiccional de origen y los que ingresen a los órganos “A” y “B” que se establezcan.
 
 ### CAPITULO SEXTO. DE LOS SECRETARIOS DE ACUERDOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
-
-### CAPITULO SEPTIMO. DEL SISTEMA DE SUPLENCIAS EN LOS JUZGADOS DE PRIMERA INSTANCIA
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 70.
 
@@ -825,17 +859,17 @@ XII.- Ejercer, bajo su responsabilidad, por sí mismos o por conducto de los ser
 
 XIII.- Las demás que les señalen esta ley u otras disposiciones legales aplicables.
 
-### CAPITULO UNICO. DE LOS JUECES LOCALES
+### CAPITULO SEPTIMO. DEL SISTEMA DE SUPLENCIAS EN LOS JUZGADOS DE PRIMERA INSTANCIA
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 71.
 
-Cuando un Juez de Primera Instancia falte por un término menor de quince días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario de Ramo Civil, practicará las diligencias y dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que sustituya al Juez de que se trate.
+Cuando un Juez de Primera Instancia falte por un término menor de treinta días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario del Ramo Civil, practicará las diligencias dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el Pleno del Consejo del Poder Judicial designe provisionalmente a la persona que sustituya al Juez de que se trate.
 
-En las ausencias de los Jueces de Primera Instancia superiores a quince días, pero que no excedan de treinta, el Pleno del Supremo Tribunal de Justicia, designará a la persona que deba sustituirlo durante la ausencia, o bien, autorizará al Secretario referido en el párrafo que antecede, para que se encargue del despacho del Juzgado, sin que pueda resolver en definitiva.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
-
-Las ausencias de los Jueces de Primera Instancia mayores de un mes y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Supremo Tribunal de Justicia.
+Las ausencias de los Jueces de Primera Instancia mayores de un mes y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Consejo del Poder Judicial.
 
 > <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -847,9 +881,9 @@ Quienes suplan en sus funciones a los Jueces de Primera Instancia, en los supues
 
 En caso de impedimento legal de un Juez de Primera Instancia en los lugares donde existan dos o más, el negocio de que se trate pasará a otro Juez del mismo ramo no impedido o, en su defecto, a los de ramo distinto, en orden al número de su designación.
 
-> <small>(ADICIONADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Cuando el impedimento legal sea respecto de un Juez Especializado en Justicia para Adolescentes, no será aplicable la última parte del párrafo que antecede y el negocio de que se trate pasará a otro Juez de la misma categoría y ramo no impedido, del Distrito Judicial más próximo.
+Cuando el impedimento legal sea respecto de un Juez Especializado en Justicia para Adolescentes, no será aplicable la última parte del párrafo que antecede y el asunto de que se trate pasará a otro Juez que tenga competencia para conocer de dicha materia, del Distrito Judicial más próximo.
 
 > <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -865,17 +899,21 @@ En los lugares en donde sólo exista un Juez de Justicia para Adolescentes o má
 
 Las ausencias temporales de los Secretarios de Acuerdos de los Juzgados de Primera Instancia, serán cubiertas por la persona que designe el Juez en forma provisional. Las ausencias absolutas se cubrirán conforme a lo establecido por el sistema de carrera judicial.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 76.
 
-Las ausencias de los Actuarios que no excedan de quince días serán cubiertas por otro de los Actuarios del mismo Juzgado y, las que excedan de dicho plazo, por la persona que designe el Juez, en forma provisional. Las ausencias absolutas se cubrirán conforme a lo establecido por el sistema de carrera judicial.
+Las ausencias temporales de los Actuarios serán cubiertas por la persona que designe el Juez en forma provisional. Las ausencias absolutas se cubrirán conforme a lo establecido por el sistema de carrera judicial.
 
 ## TITULO QUINTO. DE LOS JUZGADOS LOCALES
 
-### CAPITULO PRIMERO. DE SUS ATRIBUCIONES
+### CAPITULO UNICO. DE LOS JUECES LOCALES
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 77.
 
-Habrá un Juez Local Propietario en cada una de las cabeceras de los Municipios del Estado, y en aquellos lugares que determine el Pleno del Supremo Tribunal de Justicia del Estado.
+Habrá un Juez Local Propietario en cada una de las cabeceras de los Municipios del Estado, y en aquellos lugares que determine el Pleno del Consejo del Poder Judicial del Estado.
 
 Por cada Juez propietario habrá un suplente.
 
@@ -903,97 +941,219 @@ V.- Conocer de los demás asuntos que les encomienden las leyes.
 
 Los Juzgados Locales que no residan en las cabeceras de los Distritos Judiciales, conocerán a prevención de los negocios que les sean consignados y una vez desahogadas las primeras diligencias, remitirán lo actuado al Juzgado Local de la cabecera o al de Primera Instancia del Distrito Judicial que corresponda.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 81.
 
-Los suplentes de los Jueces Locales entrarán en funciones a falta o por impedimento de los propietarios. Si los Juzgados Locales funcionan con Secretario, éste suplirá las faltas accidentales o temporales de los titulares. En caso de recusación, excusa o falta temporal del Juez Local y de quien deba suplirlo, entrarán en funciones por su orden, los propietarios y suplentes de los períodos anteriores.
+Los suplentes de los Jueces Locales entrarán en funciones a falta o por impedimento de los propietarios. Si los Juzgados Locales funcionan con Secretario, éste suplirá las faltas accidentales o temporales de los titulares. En caso de recusación, excusa o falta temporal del Juez Local de quien deba suplirlo, entrarán en funciones por su orden, los propietarios y suplentes de los periodos anteriores, sin perjuicio de que en este último caso, el Consejo del Poder Judicial del Estado designe provisionalmente a la persona que deba suplido.
 
 ## TITULO SEXTO. DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-### CAPITULO SEGUNDO. DE SU INTEGRACION
+### CAPITULO PRIMERO. DE SUS ATRIBUCIONES
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 82.
 
-El Consejo del Poder Judicial del Estado de Sonora es un órgano permanente de la administración de justicia, y tendrá las siguientes atribuciones:
+La administración del Poder Judicial estará a cargo del Consejo del Poder Judicial del Estado, el cual ejercerá la vigilancia disciplina del mismo Poder, a excepción del Supremo Tribunal de Justicia, y las demás funciones que señala la Constitución Política del Estado de Sonora, en los términos que establece esta ley. El Consejo del Poder Judicial del Estado velará, en todo momento, por la autonomía de los órganos del Poder Judicial del Estado y por la independencia e imparcialidad de los miembros de este último, y tendrá las siguientes atribuciones:
 
-I.- Nombrar y adscribir a los Magistrados de los Tribunales Regionales de Circuito y a los Jueces de Primera Instancia, así como resolver sobre la ratificación y cambios de adscripción de los mismos, con base en lo que establece esta ley respecto a la carrera judicial;
+I.- Nombrar y adscribir a los Magistrados de los Tribunales Regionales de Circuito y a los Jueces de Primera Instancia, así como resolver sobre la ratificación y cambios de adscripción de los mismos, con base en lo que establece esta ley respecto a la carrera judicial.
 
-II.- Designar al Director General de Formación, Capacitación y Especialización Judiciales y al titular de la Visitaduría Judicial y Contraloría, ambos del Poder Judicial del Estado de Sonora, de las ternas correspondientes que, al efecto, presente el Presidente del propio Consejo y resolver sobre las renuncias de éstos;
+Asimismo, nombrar cada dos años a los Jueces Locales;
 
-III.- Opinar, previos análisis e investigaciones que realice, sobre los programas docentes de formación, capacitación, actualización y especialización que diseñe y ejecute la Dirección General de Formación, Capacitación y Especialización Judiciales;
+II.- Resolver sobre las renuncias que presenten los Magistrados Regionales de Circuito los Jueces de Primera Instancia y Locales;
 
-IV.- Coadyuvar con la Dirección General de Formación, Capacitación y Especialización Judiciales, en el diseño de sistemas de evaluación permanente del desempeño de los servidores públicos del Poder Judicial, en los que se apoyen los procedimientos de ascenso, promoción y estímulos de los mismos;
+III.- Nombrar provisionalmente a los Magistrados de los Tribunales Regionales de Circuito y Jueces de Primera Instancia y Locales, hasta en tanto se realiza la designación definitiva, conforme a lo que establece la presente ley respecto a la carrera judicial;
 
-V.- Opinar respecto del sistema de estímulos que establezca el Pleno del Supremo Tribunal de Justicia, para los servidores públicos que desarrollen funciones jurisdiccionales, que comprenderá el desempeño en el ejercicio de la función, los cursos seguidos, la antigüedad en el servicio, el grado académico y lo demás que se estime necesario;
+IV.- Nombrar al Secretario Ejecutivo del Pleno y a los de las Comisiones que en su caso determine el Consejo, así como a los titulares de sus órganos auxiliares, de las ternas correspondientes que, al efecto, presente el Presidente del propio Consejo y resolver sobre sus renuncias y licencias, removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes.
 
-VI.- Emitir opinión, a solicitud del Pleno del Supremo Tribunal de Justicia, en relación con lo siguiente:
+Asimismo, nombrar al demás personal del Consejo del Poder Judicial del Estado, de las Comisiones y de los órganos auxiliares, conforme al Presupuesto de Egresos, así como conocer de sus licencias, renuncias, suspensión y en su caso remoción;
 
-a).- Sistemas de modernización de la función judicial;
+V.- Establecer las Comisiones que estime convenientes para el adecuado funcionamiento del Consejo, y designar a los Consejeros que deban integrarlas;
 
-b).- Actualización de las normas que regulan la organización y funcionamiento del Poder Judicial; y
+VI.- Dictar las bases generales de organización y funcionamiento de las Comisiones y de los órganos auxiliares;
 
-c).- Procedimientos, instrumentos y mecanismos tendientes a eficientar la administración de justicia.
+VII.- Coordinar y supervisar el funcionamiento de las Comisiones y de los órganos auxiliares del Consejo del Poder Judicial del Estado;
 
-### CAPITULO TERCERO. DE SU ORGANIZACION Y FUNCIONAMIENTO
+VIII.- Expedir los reglamentos en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 120 de la Constitución Política del Estado de Sonora;
+
+IX.- Suspender en sus cargos a los Jueces Locales, a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado;
+
+X.- Suspender en sus funciones a los Jueces Locales a quienes se libre orden de aprehensión o se les dicte auto de formal prisión por delito de carácter intencional o preterintencional, o por cualquiera de aquellos cuya pena máxima exceda de seis años de prisión;
+
+XI.- Resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 123 de la Constitución Política del Estado;
+
+XII.- Calificar y resolver las causas de excusa de los Consejeros del Poder Judicial, de los que integran las Comisiones del propio Consejo y del Titular de la Visitaduría Judicial y Contraloría;
+
+XIII.- Elaborar el proyecto del Presupuesto Anual de Egresos del Poder Judicial del Estado y el del Fondo para la Administración de Justicia, los cuales enviará al Presidente del Supremo Tribunal de Justicia para que los someta a la consideración del Pleno de ese órgano, y aprobado o modificado el primero de los presupuestos se envíe al titular del Poder Ejecutivo para los efectos previstos por la fracción VII del artículo 79 de la Constitución Política del Estado;
+
+XIV.- Administrar los presupuestos a que se refiere la fracción que antecede, una vez aprobado por el Congreso del Estado el concerniente al Poder Judicial y por el Pleno del Supremo Tribunal de Justicia el relativo al Fondo para la Administración de Justicia;
+
+XV.- Solicitar al Pleno del Supremo Tribunal de Justicia la autorización de las adecuaciones que considere necesarias al Presupuesto Anual de Egresos del Poder Judicial y al del Fondo para la Administración de Justicia, a fin de que se efectúen transferencias de recursos y se amplíen los montos originalmente asignados a programas que requieran recursos adicionales, para permitir un mejor cumplimiento de los mismos;
+
+XVI.- Acordar conforme a los presupuestos de egresos del Poder Judicial del Estado y del Fondo para la Administración de Justicia, el otorgamiento de estímulos al desempeño del personal del Poder Judicial del Estado;
+
+XVII.- Determinar el número y los distritos judiciales que comprenderán cada uno de los circuitos en que se divida el territorio del Estado;
+
+XVIII.- Determinar el número de los Tribunales Regionales de Circuito que existirán en cada uno de los circuitos;
+
+XIX.- Determine el número y, en su caso, la especialización por materia, de los Juzgados de Primera Instancia y Locales que existirán en cada uno de los distritos judiciales, o en una parte territorial de los mismos:
+
+XX.- Determinar, mediante acuerdos, la creación de Tribunales Regionales de Circuito y de Juzgados de Primera Instancia y Locales. Asimismo, acordar la instauración de Centrales de Actuarios en las cabeceras de los distritos judiciales que así lo requieran, para la mejor organización y prestación de servicio de notificaciones;
+
+XXI.- Acordar la creación de Centros de Mediación, regular su funcionamiento y designar al personal que formará parte de ellos;
+
+XXII.- Cambiar la residencia de los Tribunales Regionales de Circuito, de los Juzgados de Primer Instancia y la de los Juzgados Locales;
+
+XXIII.- Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia d los Tribunales Regionales de Circuito o de los Juzgados de Primera Instancia, cuando en un mismo lugar haya varios de ellos, y acordar la creación de Oficialias de Partes Comunes;
+
+XXIV.- Resolver, cuando se considere conveniente por necesidades de servicio, la instalación de Juzgados de Primera Instancia Supernumerarios y señalar el periodo de su funcionamiento, así como los asuntos de los que deban conocer;
+
+XXV.- Acordar la transformación temporal de Juzgados de Primera Instancia en Juzgados “A” y “B” en los términos que señala esta ley;
+
+XXVI.- Establecer la normatividad y los criterios para modernizar las estructuras orgánicas del Poder Judicial del Estado, los sistemas y procedimientos administrativos internos, así como los de servicio al público;
+
+XXVII.- Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Poder Judicial del Estado:
+
+XXVIII.- Desarrollar el sistema de carrera judicial, el cual se regirá por los principios de excelencia, profesionalismo, imparcialidad, objetividad, independencia y antigüedad, con base en criterios de igualdad de oportunidades, méritos y capacidades;
+
+XXIX.- Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón, así como para la remoción del personal administrativo de Poder Judicial del Estado;
+
+XXX.- Convocar periódicamente a congresos estatales o regionales de magistrados, jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial del Estado y proponer las medidas pertinentes para mejorarlos;
+
+XXXI.- Investigar y determinar las responsabilidades y sanciones a los servidores públicos y empleado del propio Consejo, de los Tribunales Regionales de Circuito y Juzgados de Primera Instancia y Locales, en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que el Consejo dicte en materia disciplinaria;
+
+XXXll.- Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial y Contraloría;
+
+XXXIII.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia, Juzgados Locales y órganos auxiliares del Consejo.
+
+XXXIV.- Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente en la Capital del Estado al día de cometerse la falta, a aquellas personas que falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que presenten o en los actos que realicen ante el Consejo del Poder Judicial del Estado;
+
+XXXV.- Emitir las disposiciones que resulten necesarias a efecto de normar, a través de la implementación de libros de gobierno en medios electrónicos y en soportes de papel, un efectivo sistema de registro que refleje la actuación de los juzgados, así como los trámites relativos a la substanciación de los diversos medios de impugnación y revisiones oficiosas en los Tribunales Regionales de Circuito;
+
+XXXVI.- Administrar los bienes muebles e inmuebles del Poder Judicial del Estado, cuidando su mantenimiento, conservación y acondicionamiento;
+
+XXXVII.- Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial del Estado en ejercicio de su Presupuesto de Egresos, se ajuste a los criterios contemplados en el articulo 150 de la Constitución Política del Estado;
+
+XXXVIII.- Acordar la donación o entrega en comodato a instituciones de educación pública, de beneficencia o de asistencia social, de bienes muebles que se den de baja y que no sean útiles para el servicio del Poder Judicial del Estado;
+
+XXXIX.- Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+
+XL.- Llevar, por conducto de la Visitaduría Judicial y Contraloría, el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial;
+
+XLI.- Formar y mantener permanentemente actualizada, una lista con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales.
+
+Sin perjuicio de lo previsto en las leyes, en los lugares donde no existan peritos oficiales con nombramiento expreso, fungirán como tales las personas aptas en las especialidades de que se trate, que estén desempeñando el magisterio en las escuelas oficiales o que sean funcionarios o empleados de carácter técnico en establecimientos dependientes del Gobierno del Estado;
+
+XLII.- Fijar los periodos vacacionales de que deban disfrutar los funcionarios jurisdiccionales y servidores públicos del Poder Judicial del Estado, con excepción del Supremo Tribunal de Justicia;
+
+XLIII.- Conceder licencias en los términos previstos por esta ley; y
+
+XLIV.- Desempeñar cualquier otra función que la ley encomiende al Consejo.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 82 BIS.- Son atribuciones del Presidente del Consejo del Poder Judicial del Estado, las siguientes:
+
+I.- Representar al Consejo y a sus Comisiones ante toda clase de autoridades y en los actos oficiales, incluyendo las autoridades de amparo e interponer toda clase de recursos;
+
+II.- Tramitar los asuntos de la competencia del Pleno del Consejo y turnar los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución.
+
+Tratándose de los asuntos de responsabilidad de los Magistrados Regionales de Circuito, Jueces, Consejeros y de los titulares de los órganos auxiliares del propio Consejo, se tramitarán por el Presidente de la Comisión de Disciplina del mismo órgano colegiado hasta el estado de dictar resolución. Hecho lo anterior, la Comisión de Disciplina revisará el procedimiento y si lo encuentra ajustado a derecho turnará el expediente al Presidente del Consejo para que sea turnado al Consejero que corresponda, a fin de que elabore el proyecto de resolución.
+
+En caso de que el Presidente del Consejo estime dudoso o trascendental algún trámite, designará a un Consejero ponente para que someta el asunto a la consideración del Pleno del mismo Consejo, el fin de que éste determine lo que corresponda;
+
+III.- Presidir el Pleno del Consejo, dirigir los debates y conservar el orden en las sesiones;
+
+IV.- Despachar la correspondencia oficial del Consejo, salvo la reservada a los Presidentes de las Comisiones;
+
+V.- Proponer al Pleno el nombramiento del Secretario Ejecutivo y de los titulares de los órganos auxiliares del propio Consejo:
+
+VI.- Vigilar el funcionamiento de los órganos auxiliares del Consejo;
+
+VII.- Dictar las medidas que se requieran para salvaguardar el respeto y consideración que corresponde a los servidores públicos del Poder Judicial del Estado y solicitar el uso de la fuerza pública, cuando ello fuere necesario, para preservar el orden y funcionamiento de cualesquiera de los recintos del propio Poder;
+
+VIII.- Informar al Congreso y al Gobernador del Estado de las vacantes que se produzcan en el Consejo que deban ser cubiertas mediante sus respectivos nombramientos;
+
+IX.- Otorgar licencias en los términos previstos en esta Ley;
+
+X.- Firmar las resoluciones y acuerdos del Pleno del Consejo y legalizar por si o por conducto del Secretario Ejecutivo, la firma de los servidores públicos del Poder Judicial del Estado, en los casos en que la Ley exija este requisito;
+
+XI.- Proponer al Pleno del Consejo los acuerdos que juzgue conducentes para que la impartición de justicia en los Tribunales Regionales de Circuito y Juzgados de Primera Instancia y Locales, sea pronta, completa e imparcial;
+
+XII.- Dirigir la publicación del Boletín de Información Judicial del Estado; y
+
+XIII.- Las demás que determinen las leyes y los correspondientes reglamentos internos y acuerdos generales.
+
+### CAPITULO SEGUNDO. DE SU INTEGRACION
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 83.
 
-El Consejo del Poder Judicial del Estado de Sonora se integrará por hasta once miembros; en dicha integración concurrirán, invariablemente, el Presidente del Supremo Tribunal de Justicia, quien también lo será del Consejo; un Magistrado del Supremo Tribunal de Justicia, designado por el Pleno de este órgano; el Procurador General de Justicia del Estado; un consejero designado por el Consejo del Colegio de Notarios del Estado de Sonora, de entre los integrantes del señalado Colegio y, un diverso, designado por el Consejo de la Comisión Estatal de Derechos Humanos, de entre sus miembros.
+El Consejo del Poder Judicial se integrará por cinco Consejeros propietarios y cuatro suplentes, en los términos establecidos por el artículo 120 de la Constitución Política del Estado.
 
-Asimismo, podrán integrar el Consejo:
-
-a).- Tres consejeros designados por el Congreso del Estado o, en los recesos de éste, por la Diputación Permanente, de entre las personas que le propongan las organizaciones de los sectores social y privado de la entidad;
-
-b).- Un consejero designado por quienes hayan ocupado el cargo de Presidente del Supremo Tribunal de Justicia en el Estado, elegido de entre éstos;
-
-c).- Un consejero que será el decano de la Escuela o Departamento de Derecho de la Universidad de Sonora; y
-
-d).- Un consejero designado por la Asamblea de la Barra Sonorense de Abogados, A. C., de entre sus integrantes.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 84.
 
-La designación de los consejeros a que se refiere el segundo párrafo del artículo anterior, se sujetará a las siguientes bases:
+Los Consejeros deberán reunir los requisitos señalados en el artículo 114 de la Constitución Política del Estado y además ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. Los designados por el Supremo Tribunal de Justicia, adicionalmente deberán gozar con reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la fecha de la designación.
 
-I.- La designación de consejeros que corresponde al Congreso del Estado solamente podrá recaer en las personas que, para el efecto, sean propuestas por las organizaciones de los sectores social y privado de la entidad, cuyo padrón de miembros no sea menor a cincuenta personas; excluyéndose de este mecanismo de designación la agrupación señalada en el inciso d) del artículo que antecede.
+El Congreso del Estado, para designar a sus consejeros, emitirá una convocatoria que se publicará en la gaceta parlamentaria y, cuando menos, en dos de los periódicos de mayor circulación en el Estado en la cual se fijarán las fechas, los requisitos y los procedimientos idóneos para la realización de la propuestas del caso.
 
-Para las designaciones a que se refiere esta fracción, el Congreso del Estado emitirá una convocatoria que se publicará, cuando menos, en dos de los periódicos de mayor circulación en el Estado, en la cual se fijarán las fechas, los requisitos y los procedimientos idóneos para la realización de las propuestas del caso;
-
-II.- Para la designación del consejero referido en el inciso b) del artículo que antecede, el Presidente del Supremo Tribunal de Justicia convocará, por escrito, con una anticipación mínima de quince días, a las personas que hayan fungido como Presidentes de este órgano, a una sesión especial que tendrá, como único propósito, la designación relativa. Dicha reunión se llevara al cabo, cuando asistan, cuando menos, cinco de las personas citadas. El Presidente del Supremo Tribunal de Justicia tendrá la función, exclusivamente, de declarar abierta la sesión, permitiendo la libre deliberación de los asistentes, quienes, al concluir la reunión, le comunicarán a aquél la designación que se haya realizado, debiéndose elaborar un acta en la que conste la elección del caso;
-
-III.- Para formalizar la designación del decano de la Escuela o Departamento de Derecho, como integrante del Consejo, el Presidente del Supremo Tribunal de Justicia solicitará al rector de la Universidad de Sonora, la información respecto a que persona corresponde el decanato relativo, debiéndose considerar, para estos efectos, exclusivamente, el tiempo en que el maestro haya impartido clases en la Escuela o Departamento de Derecho antes señalados. El Presidente del Supremo Tribunal de Justicia convocará a la persona que ostente el carácter antes referido, sin mayores trámites, para que se integre al Consejo; y
-
-IV.- La designación del consejero que corresponde a la Barra Sonorense de Abogados, A. C., se llevará al cabo mediante el voto de las dos terceras partes de los miembros de dicha asociación que concurran a la asamblea correspondiente, ya sea que ésta se celebre en primera o segunda convocatoria. En la convocatoria que se emita para la celebración de la asamblea del caso, se deberá especificar, con claridad, como uno de los puntos del orden del día, la circunstancia de que se realizará la designación a que se refiere esta fracción.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 85.
 
-El Consejo del Colegio de Notarios y el Consejode (sic) la Comisión Estatal de Derechos Humanos, una vez realizadas las designaciones a que se refiere el artículo 83, lo comunicarán al Presidente del Supremo Tribunal de Justicia, para los efectos de la incorporación del consejero que corresponda a las sesiones del Consejo; en los mismos términos deberán proceder el Congreso del Estado y la Barra Sonorense de Abogados, A.C..
+Con excepción del Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo y los propietarios no podrán ser nombrados para un nuevo periodo. En el caso de que llegare a nombrarse a un Magistrado del Supremo Tribunal de Justicia como consejero, su nombramiento se hará con arreglo a las disposiciones de la Constitución Política del Estado.
+
+El periodo de nombramiento de los Consejeros propietarios y de sus suplentes, se computará a partir de la fecha en que los primeros entren en funciones.
+
+Si al término del periodo del nombramiento de los Consejeros, por cualquier motivo no se hace la designación de nuevos Consejeros o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que conformen el Consejo del Poder Judicial del Estado, hasta que tomen posesión los nuevamente nombrados.
+
+En caso de falta absoluta o definitiva de un Consejero, se designará a la persona que deba sustituirlo, quien desempeñará sus funciones hasta concluir el periodo de aquél.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 86.
 
-Si por cualquier causa no se designan los consejeros señalados en los incisos a), b), c) y d) del artículo 83, en la sesión de instalación del Consejo se declararan vacantes los puestos respectivos para el período que corresponda. En este supuesto, el Consejo funcionará, válidamente, con los consejeros que hayan sido oportunamente designados.
+Para los efectos de la designación de Consejeros que realice el Supremo Tribunal de Justicia, sólo serán considerados los Magistrados y Jueces con nombramiento definitivo, aun cuando estén desempeñando algún otro cargo en forma provisional, siempre que esto sea dentro del Poder Judicial del Estado.
+
+Los Magistrados y Jueces nombrados Consejeros, se separarán de su función jurisdiccional mediante licencia que, tratándose de Jueces de Primera Instancia y Magistrados Regionales de Circuito apruebe el Pleno del propio Consejo, o el Pleno del Supremo Tribunal de Justicia cuando se trate de integrantes de este último órgano o conforme lo dispone el articulo 116 de la Constitución Política del Estado.
+
+Las licencias surtirán efectos a partir de la fecha en que los Magistrados o Jueces inicien sus funciones como Consejeros. Al término de la respectiva licencia, el Pleno del Cuerpo Colegiado que corresponda reincorporará al Magistrado o Juez de que se trate al Tribunal o Juzgado de la última adscripción que hubiere tenido conforme al carácter de nombramiento definitivo, a menos que hayan sido legalmente separados del cargo o hubiesen renunciado a él.
+
+Los términos de los nombramientos de los Magistrados y Jueces de Primera Instancia designados Consejeros, se suspenderán a partir de que entren en funciones en estos últimos cargos y se reanudarán desde la fecha en que nuevamente sean reincorporados a su función jurisdiccional.
 
 ###### ARTICULO 87.
 
-El consejero designado por la Barra Sonorense de Abogados, A. C., a juicio de la Asamblea General de ese organismo, deberá ser una persona que se haya distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas.
+(DEROGADO, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 ###### ARTICULO 88.
 
-Para obtener y conservar la designación de miembro del Consejo, en el supuesto previsto en el inciso a), del artículo 83, serán requisitos tener un antecedente de honorabilidad absoluta, buena conducta constante, reconocido espíritu de servicio comunitario y distinción especial en la tarea o profesión en que se desempeñe la persona de que se trate.
+(DEROGADO, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 ###### ARTICULO 89.
 
-Con excepción del Presidente del Supremo Tribunal de Justicia, del Magistrado de dicho órgano y del Procurador General de Justicia, quienes conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un término de cuatro años y no podrán ser reelectos. Asimismo, el decano de la Escuela o Departamento de Derecho, mientras conserve esta calidad, continuará como integrante del Consejo.
+(DEROGADO, B.O. 7 DE SEPTIEMBRE DE 2007)
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO TERCERO. DE SU ORGANIZACION Y FUNCIONAMIENTO
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 90.
 
-El Consejo del Poder Judicial del Estado de Sonora funcionará en pleno y se constituirá, legalmente, con la asistencia de su presidente y de, cuando menos, cuatro consejeros más.
+El Consejo del Poder Judicial del Estado funcionará en Pleno o a través de Comisiones. El Pleno del Consejo se constituirá legalmente con la asistencia de su Presidente y de tres Consejeros más. Los Consejeros tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos previstos por el artículo 126 del Código de Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 91.
 
-Las resoluciones del Consejo se tomarán por el voto de la mayoría de los consejeros presentes en sesión. Los consejeros no podrán abstenerse de votar. El Presidente del Consejo tendrá voto de calidad en caso de empate.
+Las resoluciones del Consejo se tomarán por el voto de la mayoría de los Consejeros presentes en sesión. Los Consejeros no podrán abstenerse de votar sino cuando tengan un impedimento legal o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, el Presidente tendrá voto de calidad.
 
-El Consejero que disintiere de la mayoría podrá formar voto particular, que se insertará en el acta respectiva si lo presenta dentro de los cinco días siguientes a la fecha de la sesión.
+El Pleno del Consejo calificará los impedimentos de sus miembros que hubiesen sido planteados en asuntos de su competencia. En caso de que el impedido fuere el Presidente, o de falta temporal del mismo, será sustituido por el Magistrado del Supremo Tribunal de Justicia que corresponda en el orden progresivo de su designación numérica. En caso de impedimento o de falta temporal de cualquiera de los demás Consejeros, será sustituido por el suplente respectivo.
+
+El Consejero que disintiere de la mayoría podrá formular voto particular que se insertará en el acta respectiva si lo presenta dentro de los cinco días siguientes a la fecha de la sesión.
 
 ###### ARTICULO 92.
 
@@ -1003,67 +1163,119 @@ Las sesiones ordinarias se llevarán al cabo en los días y horas que el Pleno d
 
 El Consejo podrá sesionar de manera extraordinaria cuando lo determine su Presidente, o bien, a solicitud de, cuando menos, dos de sus integrantes; en este último caso, la solicitud deberá presentarse al Presidente del propio Consejo, a fin de que emita la convocatoria correspondiente.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 93.
 
-Los acuerdos del Consejo deberán notificarse personalmente lo más pronto posible a la persona interesada, actuando al efecto en auxilio de aquél los Juzgados de primera instancia.
+De los acuerdos del Consejo y de las Comisiones se levantarán actas por el Secretario Ejecutivo del primero y por los de estas últimas, respectivamente, las cuales serán firmadas por los Consejeros que los tomaron y por los propios Secretarios, debiendo notificarse personalmente los del Pleno del Consejo lo más pronto posible a la persona interesada, actuando en auxilio de aquellos los Juzgados de Primera Instancia.
+
+Cuando el Pleno del Consejo estime que sus reglamentos, acuerdos o resoluciones pudieran resultar de interés general, deberá ordena su publicación en el Boletín Oficial del Estado.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 94.
 
-El Consejo nombrará, a propuesta de su Presidente, a un Secretario Técnico, y contará con el demás personal de apoyo que nombre por así requerirlo su funcionamiento.
+El Consejo nombrará, a propuesta de su Presidente, al Secretario Ejecutivo del Pleno ya los de las Comisiones que estime necesarios para el desarrollo de sus funciones; contarán con el personal de apoyo que autorice el Presupuesto de Egresos del Poder Judicial del Estado y con las atribuciones que el Pleno del Consejo determine mediante acuerdos generales.
+
+El Secretario Ejecutivo del Pleno y los de las Comisiones de Carrera Judicial y de Disciplina que en su caso designe el mismo Pleno, deberán contar con título profesional de licenciado en derecho, y los de las demás Comisiones que también llegare a nombrar, con título profesional afín a la función que les corresponda, expedidos legalmente, además es necesario que todos cuenten con experiencia mínima de dos años, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año.
+
+El Secretario Ejecutivo del Pleno y de la Comisión y Disciplina tendrán fe pública en el desempeño de sus funciones.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
-Para el ejercicio de las atribuciones a que se refiere el artículo 82, con excepción de las previstas en las fracciones I y II, del mismo precepto, el Consejo podrá crear comisiones, las cuales, en todos los casos, serán transitorias y se integrarán conforme a las bases que determine el propio Consejo. Estas comisiones se abocarán a realizar las actividades que se les encomienden, rindiendo los informes que sean pertinentes al Pleno del Consejo, a fin de que éste emita las opiniones y propuestas que, en su caso, correspondan.
+Para el ejercicio de sus atribuciones, el Pleno del Consejo podrá crear las Comisiones que estime pertinentes, conforme al presupuesto autorizado, las cuales serán transitorias o permanentes, pero siempre existirán las de administración, carrera judicial, disciplina, creación de nuevos órganos, nombramientos y adscripción.
+
+Las atribuciones de las Comisiones serán las que les asigne esta ley, su reglamento y el Pleno del Consejo del Poder Judicial, mediante los acuerdos que emita éste.
+
+Cada Comisión se integrará por los Consejeros que determine el Pleno del Consejo.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 96.
 
-El Presupuesto de Egresos del Poder Judicial, que se incorpore al Presupuesto de Egresos del Estado, deberá contener las previsiones de gasto necesarias, para cubrir las erogaciones que se efectúen con motivo del ejercicio de las atribuciones asignadas al Consejo.
+El sentido de las resoluciones o acuerdos de las Comisiones se decidirá por mayoría de votos de sus integrantes.
 
-## TITULO SEPTIMO. DE LOS ORGANOS AUXILIARES ADMINISTRATIVOS DEL SUPREMO TRIBUNAL DE JUSTICIA
+El Pleno del Consejo calificará las excusas e impedimentos de los miembros de las Comisiones.
 
-### CAPITULO SEGUNDO. DE LA OFICIALIA MAYOR DEL SUPREMO TRIBUNAL DE JUSTICIA
+Las Comisiones creadas nombrarán a su respectivo Presidente y mediante acuerdos del Pleno del Consejo se determinará el tiempo que deba permanecer en el cargo.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+## TITULO SEPTIMO. DE LOS ORGANOS AUXILIARES DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 97.
 
-Son órganos auxiliares administrativos del Supremo Tribunal de Justicia, los siguientes:
+Son órganos auxiliares del Consejo del Poder Judicial, los siguientes:
 
-I.- La Oficialía Mayor del Supremo Tribunal de Justicia, la cual tendrá adscritas a:
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-- La Dirección General de Administración.
+I.- La Secretaría Ejecutiva de Administración, la cual tendrá adscritas a:
 
-- La Dirección de Recursos Humanos y Materiales.
+a) La Dirección General de Administración.
 
-- La Dirección de Servicios de Cómputo.
+b) La Dirección de Recursos Humanos y Materiales.
+
+c) La Dirección de Servicios de Cómputo.
+
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 II.- El Instituto de la Judicatura Sonorense, el cual tendrá adscritos a:
 
-- El Centro de Información Estadística del Poder Judicial del Estado de Sonora.
+a) El Centro de Información Estadística del Poder Judicial del Estado de Sonora.
 
-- La Unidad de Apoyo y Modernización de la Función Judicial.
+b) La Unidad de Apoyo y Modernización de la Función Judicial.
 
-- La Dirección General de Formación, Capacitación y Especialización Judiciales.
+c) La Dirección General de Formación, Capacitación y Especialización Judiciales.
 
 III.- La Visitaduría Judicial y Contraloría; y
 
 IV.- El Archivo General del Poder Judicial del Estado.
 
-Además, el Supremo Tribunal de Justicia podrá contar, previo Acuerdo del Pleno, con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen, conforme a la disponibilidad de recursos presupuestales.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-### CAPITULO TERCERO. DEL INSTITUTO DE LA JUDICATURA SONORENSE
+Además, el Consejo del Poder Judicial podrá contar, previo Acuerdo del Pleno, con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen, conforme a la disponibilidad de recursos presupuestales.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los titulares de los órganos auxiliares del Consejo y de las Direcciones, Centros y Unidades adscritos a ellos, deberán contar con titulo profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de dos años, gozar de buena reputación y no haber sido condenados por delito intencional, con sanción privativa de libertad mayor de un año. Los órganos auxiliares contarán con el personal que fije el presupuesto.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los órganos auxiliares tendrán las atribuciones contenidas en la presente Ley, en los acuerdos generales y en los reglamentos internos que emita el Pleno del Consejo del Poder Judicial.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPITULO SEGUNDO. DE LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN DEL CONSEJO DEL PODER JUDICIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 98.
 
-A la Oficialía Mayor del Supremo Tribunal de Justicia le corresponden las siguientes atribuciones:
+A la Secretaría Ejecutiva de Administración del Consejo del Poder Judicial le corresponden las siguientes atribuciones:
 
-I.- Elaborar, anualmente, conforme a las instrucciones que le comunique el Presidente del Supremo Tribunal de Justicia del Estado, el anteproyecto del Presupuesto de Egresos del Poder Judicial del Estado de Sonora y presentarlo a la consideración de éste para su trámite posterior;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-II.- Llevar el registro relativo al ejercicio del gasto público estatal autorizado al Poder Judicial, de acuerdo con los programas, subprogramas y partidas del presupuesto de egresos correspondiente;
+I.- Elaborar, anualmente, conforme a las instrucciones que le comunique el Presidente del Consejo, el anteproyecto del Presupuesto de Egresos del Poder Judicial del Estado de Sonora, así como el concerniente al Fondo para la Administración de Justicia, y presentarlos a la consideración del mismo Pleno, por conducto de su Presidente, para su trámite posterior;
 
-III.- Realizar la evaluación del ejercicio del gasto público autorizado al Poder Judicial y proponer las modificaciones programáticas y presupuestales que se requieran;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Llevar el registro relativo al ejercicio del gasto público estatal autorizado al Poder Judicial, y al Fondo para la Administración de Justicia de acuerdo con los programas, subprogramas y partidas de los presupuestos de egresos correspondientes;
+
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+III.- Realizar la evaluación del ejercicio del gasto público autorizado al Poder Judicial, así como el del Fondo para la Administración de Justicia y proponer las modificaciones programáticas y presupuestales que se requieran;
 
 IV.- Establecer normas, lineamientos y políticas en materia de administración, remuneración, y desarrollo de los servidores públicos que realicen funciones jurisdiccionales en el Poder Judicial del Estado de Sonora, en coordinación con el Instituto de la Judicatura Sonorense;
 
-V.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial del Estado de Sonora;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Tramitar los nombramientos, adscripciones, readscripciones, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial del Estado de Sonora, conforme a las determinaciones que emanen de los órganos respectivos que establecen las leyes;
 
 VI.- Controlar y llevar el registro de las personas sujetas al pago de honorarios;
 
@@ -1079,23 +1291,33 @@ XI.- Celebrar y rescindir, en su caso, contratos de arrendamiento de bienes inmu
 
 XII.- Controlar y registrar las entradas y salidas de bienes muebles del almacén del Poder Judicial del Estado de Sonora; y
 
-XIII.- Las demás que le señalen las leyes, reglamentos, el Pleno o el Presidente del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XIII.- Las demás que le señalen las leyes, reglamentos, el Pleno o el Presidente del Consejo del Poder Judicial.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 99.
 
-Las bases generales de organización y funcionamiento de la Dirección General de Administración y de las Direcciones de Recursos Humanos y Materiales y de Servicios de Cómputo, se determinarán por el Pleno del Supremo Tribunal de Justicia, mediante los Acuerdos respectivos, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
+Las bases generales de organización y funcionamiento de la Dirección General de Administración y de las Direcciones de Recursos Humanos y Materiales y de Servicios de Cómputo, se determinarán por el Pleno del Consejo del Poder Judicial, mediante los Acuerdos respectivos, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
-### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
+### CAPITULO TERCERO. DEL INSTITUTO DE LA JUDICATURA SONORENSE
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 100.
 
-El Instituto de la Judicatura Sonorense tendrá por objeto llevar al cabo las acciones relativas a:
+El Instituto de la Judicatura Sonorense es el órgano auxiliar del Consejo del Poder Judicial del Estado en materia de investigación, información estadística y modernización, así como de formación, capacitación y actualización de los miembros del Poder Judicial del Estado y de quienes aspiren a permanecer a la administración de justicia. Estará a cargo de un Coordinador General y tendrá las siguientes funciones:
 
 I.- El diseño y operación del Sistema de Información para el Control y Evaluación de las Noticias Estadísticas del Poder Judicial del Estado de Sonora, a efecto de planear el desarrollo del mismo;
 
-II.- La definición de la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público del Poder Judicial del Estado; y
+II.- La definición de la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público del Poder Judicial del Estado;
 
-III.- La instrumentación de procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, reconocimiento y separación del cargo de los servidores públicos que realicen funciones jurisdiccionales en el Poder Judicial del Estado de Sonora, y a la operación, en su caso, de los programas relativos.
+III.- La instrumentación de procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, reconocimiento y separación del cargo de los servidores públicos del Poder Judicial del Estado de Sonora, y a la operación, en su caso, de los programas relativos;
+
+IV.- Coordinar y supervisar el funcionamiento de las oficinas bajo su dependencia; y
+
+V.- Las demás que determinen las leyes, el reglamento y el Consejo del Poder Judicial del Estado.
 
 #### SECCION PRIMERA. DEL CENTRO DE INFORMACION ESTADISTICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
@@ -1109,9 +1331,17 @@ II.- Recabar y procesar la información contenida en las noticias estadísticas 
 
 III.- Analizar la información disponible, canalizando a las áreas correspondientes los reportes estadísticos relativos;
 
-IV.- Proponer estrategias específicas, para el mejoramiento permanente de los mecanismos de captación y procesamiento de las noticias estadísticas; y
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-V.- La demás que le confieran el Pleno del Supremo Tribunal de Justicia o su Presidente.
+IV.- Proponer estrategias específicas, para el mejoramiento permanente de los mecanismos de captación y procesamiento de las noticias estadísticas;
+
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Presentar al Pleno del Consejo del Poder Judicial, por conducto de su Presidente, dentro del mes de enero, un informe que contenga los datos estadísticos recabados en el año que precedió, conforme al diseño de lineamientos que permitan evaluar, con toda claridad, el desempeño de la función jurisdiccional; y
+
+> <small>(ADICIONADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+VI.- Las demás que le confieran el Pleno del Consejo del Poder Judicial.
 
 #### SECCION SEGUNDA. DE LA UNIDAD DE APOYO Y MODERNIZACION DE LA FUNCION JUDICIAL
 
@@ -1119,7 +1349,9 @@ V.- La demás que le confieran el Pleno del Supremo Tribunal de Justicia o su Pr
 
 A la Unidad de Apoyo y Modernización de la Función Judicial le corresponden las siguientes atribuciones:
 
-I.- Elaborar, bajo la dirección del Presidente del Supremo Tribunal de Justicia, el Boletín de Información Judicial del Estado, mismo que se deberá de publicar, periódicamente, con el carácter de órgano informativo del Poder Judicial del Estado de Sonora;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Elaborar, bajo la dirección del Presidente del Consejo del Poder Judicial, el Boletín de Información Judicial del Estado, mismo que se deberá de publicar periódicamente, con el carácter de órgano informativo del Poder Judicial del Estado de Sonora;
 
 II.- Administrar el funcionamiento de la Biblioteca del Supremo Tribunal de Justicia;
 
@@ -1127,7 +1359,9 @@ III.- Sistematizar los criterios adoptados por las Salas del Supremo Tribunal de
 
 IV.- Recopilar los ordenamientos jurídicos que tengan relación con la administración de justicia y mantener informados a los servidores públicos del Poder Judicial del Estado de Sonora de sus modificaciones;
 
-V.- Elaborar los anteproyectos de leyes, acuerdos, circulares y demás disposiciones de observancia obligatoria que determine el Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Elaborar los anteproyectos de leyes, acuerdos, circulares y demás disposiciones de observancia obligatoria cuando así lo determine el Pleno del Consejo del Poder Judicial;
 
 VI.- Participar con la Dirección General de Formación, Capacitación y Especialización Judiciales en la elaboración y ejecución de sus programas;
 
@@ -1139,11 +1373,17 @@ IX.- Coadyuvar en la actualización de la normatividad que regule la organizaci�
 
 X.- Proponer modificaciones estructurales y de operación, para las distintas unidades administrativas del Poder Judicial del Estado de Sonora, con el fin de lograr el óptimo aprovechamiento de los recursos disponibles;
 
-XI.- Proponer diseños de formatos, instructivos y manuales para una mejor operación de los Tribunales, de los Juzgados y de las diversas unidades administrativas que integran el Poder Judicial del Estado de Sonora;
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-XII.- Elaborar, en coordinación con la Oficialía Mayor del Supremo Tribunal de Justicia, proyectos de distribución de áreas y de diseño de oficinas; y
+XI.- Cuando así lo determine el Pleno del Consejo, proponer diseños de formatos, instructivos y manuales para una mejor operación de los Tribunales, de los Juzgados y de las diversas unidades administrativas que integran el Poder Judicial del Estado de Sonora;
 
-XIII.- Las demás que le confieran el Pleno o el Presidente del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XII.- Elaborar, en coordinación con la Secretaria Ejecutiva de Administración, proyectos de distribución de áreas y de diseño de oficinas; y
+
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+XIII.- Las demás que le confieran el Pleno del Consejo del Poder Judicial.
 
 #### SECCION TERCERA. DE LA DIRECCION GENERAL DE FORMACION, CAPACITACION Y ESPECIALIZACION JUDICIALES
 
@@ -1177,25 +1417,31 @@ V.- Difundir, en coordinación con la Unidad de Apoyo y Modernización de la Fun
 
 VI.- Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 105.
 
-La Dirección General de Formación, Capacitación y Especialización Judiciales tendrá un Comité Académico que presidirá su director, el cual estará integrado por, cuando menos, cuatro miembros más, mismos que serán designados por el Pleno del Supremo Tribunal de Justicia, a propuesta de su Presidente y previa consulta de éste con la Comisión de Carrera Judicial.
+La Dirección General de Formación, Capacitación y Especialización Judiciales tendrá un Comité Académico que presidirá su Director, el cual estará integrado por, cuando menos, cuatro miembros más, mismos que serán designados por el Pleno del Consejo del Poder Judicial, a propuesta de su Presidente.
 
 Las designaciones de los integrantes del Comité Académico serán hechas, preferentemente, entre aquellas personas que cuenten con reconocida experiencia profesional o académica, o hayan prestado sus servicios con eficiencia y probidad en el Poder Judicial del Estado de Sonora, durarán en su cargo tres años, pudiendo ser reelectos.
 
 Los cargos de los integrantes del Comité Académico, con excepción del Director General, podrán ser honoríficos.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 106.
 
-El Comité Académico, en consulta con la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, tendrá como función determinar los lineamientos, políticas y estrategias de los programas de formación, capacitación y actualización a cargo de la Dirección, así como los mecanismos de evaluación y rendimiento de los servidores públicos del Poder Judicial estatal que desempeñen funciones jurisdiccionales. A la vez, el Comité Académico participará, conforme a las bases que se emitan por el Pleno del Supremo Tribunal de Justicia, en la preparación y aplicación de los exámenes de aptitud y los de oposición.
+El Comité Académico, en consulta con el titular del Instituto de la Judicatura Sonorense, tendrá como función determinar los lineamientos, políticas y estrategias de los programas de formación, capacitación y actualización a cargo de la Dirección, así como los mecanismos de evaluación y rendimiento de los servidores públicos del Poder Judicial estatal que desempeñen funciones jurisdiccionales. A la vez, el Comité Académico participará, conforme a las bases que se emitan por el Pleno del Consejo del Poder Judicial, en la preparación y aplicación de los exámenes de aptitud y los de oposición.
 
 #### SECCION PRIMERA. DE LOS CONCURSOS DE OPOSICION
 
-### CAPITULO QUINTO. DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO CUARTO. DE LA VISITADURIA JUDICIAL Y CONTRALORIA
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 107.
 
-A la Visitaduría Judicial y Contraloría le corresponde inspeccionar el funcionamiento de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, para supervisar las conductas de los titulares de dichos órganos, así como controlar y verificar el cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos del Poder Judicial y la actuación de los servidores públicos del mismo; para tales efectos, tendrá las siguientes atribuciones:
+A la Visitaduría Judicial y Contraloría le corresponde inspeccionar el funcionamiento de los Tribunales Regionales de Circuito, de los Juzgados, de las Centrales de Actuarios, Oficialías de Partes Comunes y de los Centros de Mediación para supervisar las conductas de quienes laboran en dichos órganos, así como controlar y verificar el cumplimiento de las normas de funcionamiento administrativo que los rijan; para tales efectos, tendrá las siguientes atribuciones:
 
 I.- En el ámbito de visitaduría judicial:
 
@@ -1207,27 +1453,47 @@ c).- Comprobar el cumplimiento de las disposiciones que regulan lo relativo al a
 
 d).- Hacer constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprende la visita, y determinar, en los juzgados de lo penal y mixtos, si los procesados que disfruten de libertad provisional bajo caución han cumplido con la obligación de presentarse en los plazos fijados;
 
-e).- Examinar los expedientes formados con motivo de las causas penales y civiles que se estime conveniente, a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y requisitorias han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados. En cada uno de los expedientes revisados, se pondrá la constancia respectiva; y
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-f).- Las demás que en esta materia determinen el Pleno del Supremo Tribunal de Justicia y su Presidente.
+e).- Examinar los expedientes que se estimen convenientes, formados con motivo de las causas penales, civiles y las instruidas a adolescentes por conductas tipificadas como delitos por las leyes penales, a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y requisitorias han sido diligenciados y si se han observado los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos otorga a los procesados, así como los que la propia Constitución y la Ley que establece el Sistema Integral de Justicia para Adolescentes del Estado de Sonora, prevén para los mismos adolescentes. En cada uno de los expedientes revisados, se pondrá la constancia respectiva; y
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+f).- Las demás que en esta materia determinen las leyes, el reglamento y el Pleno del Consejo del Poder Judicial.
 
 II.- En el ámbito de contraloría:
 
-a).- Vigilar el cumplimiento de las normas de control establecidas por el Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-b).- Comprobar el cumplimiento, por parte de los órganos auxiliares administrativos del Supremo Tribunal de Justicia, de las obligaciones derivadas de las disposiciones en materia de programación, presupuestación, egresos, financiamiento, patrimonio, fondos y valores;
+a).- Vigilar el cumplimiento de las normas de control establecidas por el Pleno del Consejo del Poder Judicial;
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+b).- Comprobar el cumplimiento, por parte de los órganos auxiliares del Consejo del Poder Judicial, de las obligaciones derivadas de las disposiciones en materia de programación, presupuestación, egresos, financiamiento, patrimonio, fondos y valores;
 
 c).- Llevar, con excepción de lo relativo a los Magistrados del Supremo Tribunal de Justicia, el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial del Estado;
 
 d).- Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial del Estado; y
 
-e).- Las demás que en esta materia determinen el Pleno del Supremo Tribunal de Justicia y su Presidente.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+e).- Las demás que en esta materia determinen las leyes, el reglamento y el Pleno del Consejo del Poder Judicial.
 
 ###### ARTICULO 108.
 
 Las funciones que en esta ley se confieren a la Visitaduría Judicial y Contraloría serán ejercidas por los visitadores adscritos a la misma.
 
-Los visitadores, de acuerdo con los sorteos periódicos que realicen el Pleno del Supremo Tribunal de Justicia, o bien, cuando éste lo determine discrecionalmente, deberán inspeccionar de manera ordinaria los Tribunales Regionales de Circuito y los Juzgados de Primera Instancia, cuando menos dos veces por año.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Los visitadores, de acuerdo con los sorteos periódicos que realicen el Pleno del Consejo del Poder Judicial, o bien, cuando éste lo determine discrecionalmente, deberán inspeccionar de manera ordinaria los Tribunales Regionales de Circuito y los Juzgados, cuando menos dos veces por año.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+El titular de la Visitaduría Judicial y Contraloría y los visitadores, tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos previstos por el artículo 126 del Código del Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+El titular de la Visitaduría Judicial y Contraloría calificará y resolverá las causas de excusa de los visitadores.
 
 ###### ARTICULO 109.
 
@@ -1237,29 +1503,31 @@ Los visitadores, en la práctica de las inspecciones que realicen, deberán toma
 
 De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trata, o bien, las opiniones favorables que respecto al funcionamiento del órgano visitado se formulen, así como las manifestaciones que en relación a la visita o al contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez o magistrado que corresponda y la del visitador.
 
-Una copia del acta levantada por el visitador será entregada al titular del órgano visitado y el original se conservará en la Visitaduría Judicial y Contraloría, a fin de que se determine lo que corresponda. En caso de que se actualicen causales de responsabilidad, se dará vista a la Comisión de Disciplina del Supremo Tribunal de Justicia, para los efectos que procedan.
+> <small>(ADICIONADO [N. DE. E. REFORMADO], B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+Una copia del acta levantada por el visitador será entregada al titular del órgano visitado y el original se conservará en la Visitaduría Judicial y Contraloría, a fin de que se determine lo que corresponda. En caso de que se actualicen causales de responsabilidad, se dará vista al Pleno del Consejo del Poder Judicial, por conducto de su Presidente, y a la Comisión de Disciplina, para los efectos que procedan, sin perjuicio de que Visitaduría Judicial y Contraloría inicie el procedimiento de responsabilidad que corresponda, en los supuestos previstos por la fracción IV del artículo 145 de esta ley.
+
+### CAPITULO QUINTO. DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 111.
 
-El Supremo Tribunal de Justicia tendrá bajo su dependencia el Archivo General del Poder Judicial del Estado y dictará todas las medidas necesarias para su organización y conservación.
+El Consejo del Poder Judicial tendrá bajo su dependencia el Archivo General del Poder Judicial del Estado y dictará todas las medidas necesarias para su organización y conservación.
 
 Este archivo, en los términos de la Ley que Regula la Administración de Documentos Administrativos e Históricos del Estado de Sonora, se integrará al Sistema Estatal de Archivos Públicos.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 112.
 
-Se depositarán en el Archivo General del Poder Judicial del Estado:
+Se depositarán en el Archivo General del Poder Judicial del Estado, todos los expedientes que se hubieren tramitado en los Tribunales del Estado, una vez transcurridos los periodos que después de concluidos determine el Pleno del Consejo del Poder Judicial, así como los documentos que señale esta ley, su reglamento y el propio Pleno del Consejo.
 
-I.- Todos los expedientes del orden civil o mercantil, que se hubieren tramitado ante los tribunales del Estado, dos años después de concluidos;
-
-II.- Todos los expedientes del orden penal, a los cuatro años de concluidos por los tribunales del Estado; y
-
-III.- Los demás documentos que las leyes determinen.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 113.
 
-Los Tribunales Regionales de Circuito y los Juzgados de Primera Instancia, al remitir los expedientes al Archivo General, harán constar en libro exprofeso lo que contenga cada remisión, comunicándolo por oficio al encargado del Archivo y al Presidente del Supremo Tribunal de Justicia.
+Los Tribunales Regionales de Circuito y los Juzgados, al remitir los expedientes al Archivo General, harán constar en libro exprofeso lo que contenga cada remisión, comunicándolo por oficio al encargado del Archivo y al Presidente del Consejo del Poder Judicial.
 
 ###### ARTICULO 114.
 
@@ -1279,19 +1547,23 @@ Las certificaciones y constancias que se refieran a expedientes o documentos arc
 
 ## TITULO OCTAVO. DE LA CARRERA JUDICIAL
 
-### CAPITULO SEGUNDO. DEL INGRESO A LA CARRERA JUDICIAL
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 118.
 
 El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado, con excepción de los Magistrados del Supremo Tribunal de Justicia, se hará mediante el sistema de carrera judicial a que se refiere el presente Título, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad, en su caso.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 119.
 
-En los procedimientos para el ingreso a la carrera judicial, la Comisión de Carrera Judicial y el Instituto de la Judicatura Sonorense tendrán la facultad de verificar la información que los aspirantes proporcionen.
+En los procedimientos para el ingreso a la carrera judicial, el Consejo del Poder Judicial del Estado y el Instituto de la Judicatura Sonorense tendrán la facultad de verificar la información que los aspirantes proporcionen.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 120.
 
-Para ser Magistrado Regional de Circuito se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de treinta años, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, además de los requisitos previstos en esta ley respecto de la carrera judicial.
+Para ser Magistrado Regional de Circuito se requiere reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia, además de los previstos en esta ley respecto de la carrera judicial.
 
 Los Magistrados Regionales de Circuito durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados, continuarán en el desempeño de sus funciones por diez años más.
 
@@ -1301,21 +1573,27 @@ Los Magistrados Regionales de Circuito, sin perjuicio de lo establecido en el pr
 
 Para ser Secretario General de Acuerdos del Supremo Tribunal de Justicia, se deberán reunir los mismos requisitos que, para ser Magistrado Regional de Circuito, señala el artículo anterior.
 
-Para ser Secretario Proyectista y Secretario Auxiliar de Acuerdos del Supremo Tribunal de Justicia y de Tribunal Regional de Circuito, así como para ser Secretario de Acuerdos de Tribunal Regional de Circuito, se deberán satisfacer los mismos requisitos exigidos para ser Magistrado Regional de Circuito, salvo el de la edad mínima y el de la práctica profesional que, en este caso, será de tres años.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Para ser Secretario Proyectista y Secretario Auxiliar de Acuerdos del Supremo Tribunal de Justicia y de Tribunal Regional de Circuito, así como para ser Secretario de Acuerdos de Tribunal Regional de Circuito, se deberán satisfacer los mismos requisitos exigidos para ser Juez de Primera Instancia.
 
 Los servidores públicos de carácter jurisdiccional a que se refiere el presente artículo, serán nombrados y removidos de conformidad con las disposiciones que en materia de carrera judicial y responsabilidades establece esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 122.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, mayor de veintiséis años, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, además de los requisitos previstos en esta ley respecto de la carrera judicial.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, además de los requisitos previstos en esta ley respecto de la carrera judicial.
 
 Los Jueces de Primera Instancia durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados, continuarán en el desempeño de sus funciones por diez años más.
 
 Los Jueces de Primera Instancia, sin perjuicio de lo establecido en el presente artículo, podrán ser privados de sus cargos, en cualquier momento, por las causas que señala esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 123.
 
-Los Secretarios de Acuerdos de los Juzgados de Primera Instancia deberán contar con una experiencia profesional de al menos un año y satisfacer los mismos requisitos que para ser Juez, salvo el de la edad mínima.
+Los Secretarios de Acuerdos de los Juzgados de Primera Instancia deberán contar con una experiencia profesional de al menos un año y satisfacer los mismos requisitos que para ser Juez.
 
 Los Actuarios del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, con título de Licenciado en Derecho expedido legalmente, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año.
 
@@ -1345,11 +1623,13 @@ IX.- Actuario Ejecutor; y
 
 X.- Actuario Notificador.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 125.
 
-El Pleno del Supremo Tribunal de Justicia, previa opinión del Consejo del Poder Judicial del Estado de Sonora, establecerá, de acuerdo con la disponibilidad de recursos presupuestales y mediante disposiciones de carácter general, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados, la antigüedad, el grado académico y lo demás que se estime necesario.
+El Consejo del Poder Judicial del Estado de Sonora, administrará, de acuerdo con los presupuestos autorizados, mediante disposiciones generales, el sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tornará en cuenta el desempeño en el ejercicio de su función, los cursos realizados, la antigüedad, el grado académico y lo demás que se estime necesario.
 
-### CAPITULO TERCERO. DE LA ADSCRIPCION Y RATIFICACION
+### CAPITULO SEGUNDO. DEL INGRESO A LA CARRERA JUDICIAL
 
 #### SECCION SEGUNDA. DE LOS EXAMENES DE APTITUD
 
@@ -1361,9 +1641,11 @@ I.- Concurso interno de oposición; y
 
 II.- Concurso de oposición libre.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 127.
 
-El Pleno del Supremo Tribunal de Justicia, a propuesta de la Comisión de Carrera Judicial, determinará qué plazas de Magistrados Regionales de Circuito y de Jueces de Primera Instancia deberán ser cubiertas mediante concurso interno de oposición, y cuáles a través de concurso de oposición libre.
+El Pleno del Consejo del Poder Judicial del Estado, determinará qué plazas de Magistrados Regionales de Circuito y de Jueces de Primera Instancia deberán ser cubiertas mediante concurso interno de oposición, y cuáles a través de concurso de oposición libre.
 
 ###### ARTICULO 128.
 
@@ -1373,11 +1655,15 @@ En los concursos internos de oposición para las plazas de Magistrado Regional d
 
 Los concursos internos de oposición y de oposición libre se sujetarán al siguiente procedimiento:
 
-I.- La Comisión de Carrera Judicial del Supremo Tribunal de Justicia, previo Acuerdo del Pleno de dicho Tribunal, emitirá una convocatoria que deberá publicarse, por una vez, en el Boletín Oficial del Gobierno del Estado de Sonora y, cuando menos, por dos veces, en dos de los diarios de mayor circulación en el Estado, con intervalo de cinco días hábiles entre cada publicación.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+I.- El Consejo del Poder Judicial del Estado emitirá una convocatoria que deberá publicarse, por una vez, en el Boletín Oficial del Gobierno del Estado de Sonora y, cuando menos, por dos veces, en dos de los diarios de mayor circulación en el Estado, con intervalo de cinco días hábiles entre cada publicación.
 
 En la convocatoria se deberá especificar la naturaleza del concurso, ya sea interno de oposición o de oposición libre; a la vez, señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán al cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios.
 
-El Presidente de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia deberá remitir al Consejo del Poder Judicial del Estado de Sonora, copia de la convocatoria a que se refiere la presente fracción, a efecto de que el Presidente de este órgano se encuentre en posibilidad de dar a conocer, a los integrantes del Consejo, el inicio del procedimiento de designación correspondiente.
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+El Presidente del Consejo del Poder Judicial del Estado hará llegar a los Magistrados integrantes del Supremo Tribunal de Justicia, copia de la convocatoria a que se refiere la presente fracción, a efecto de enterarlos del inicio del procedimiento de designación correspondiente.
 
 II.- Los aspirantes inscritos deberán resolver, por escrito, un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que se concursa.
 
@@ -1399,27 +1685,33 @@ El Presidente del Consejo, una vez recibida la información a que se refiere el 
 
 Una vez culminado el procedimiento anterior, previa la deliberación de los integrantes del Consejo, se hará la designación y adscripción correspondientes, comunicándolo al Pleno del Supremo Tribunal de Justicia, para los efectos de que éste provea sobre la protesta constitucional del caso.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 131.
 
-Los cuestionarios y casos prácticos a que se refieren las fracciones II y III del artículo 129 serán elaborados por el Instituto de la Judicatura Sonorense, previa aprobación y bajo la supervisión de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, la cual determinará lo que resulte necesario para la aplicación y evaluación de los mismos.
+Los cuestionarios y casos prácticos a que se refieren las fracciones II y III del artículo 129 serán elaborados por el Instituto de la Judicatura Sonorense, bajo la supervisión de la Comisión de Carrera Judicial del Consejo del Poder Judicial, la cual propondrá lo que resulte necesario para la aplicación y evaluación de los mismos.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 132.
 
-El jurado encargado de los exámenes orales se integrará por: un magistrado de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, quien lo presidirá; un magistrado del Supremo Tribunal de Justicia, que puede o no ser integrante de la Comisión de Carrera Judicial, y un integrante del Comité Académico de la Dirección General de Formación, Capacitación y Especialización Judiciales.
+El jurado encargado de los exámenes orales se integrará por: un Consejero de la Comisión de Carrera Judicial del Consejo del Poder Judicial, quien lo presidirá; un Magistrado Regional de Circuito o Juez de Primera Instancia, dependiendo de la categoría para la cual se concursa y un integrante del Comité Académico de la Dirección General de Formación, Capacitación y Especialización Judiciales.
 
 ###### ARTICULO 133.
 
 Para acceder a las categorías señaladas en las fracciones II y de la IV a la X del artículo 124 de esta ley, se requerirá, en todos los casos, del acreditamiento de un examen de aptitud.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 134.
 
-La organización y celebración de los exámenes de aptitud, para las categorías referidas en el artículo que antecede, se llevarán al cabo conforme a las bases que determine el Pleno del Supremo Tribunal de Justicia, a propuesta de la Comisión de Carrera Judicial de dicho órgano, las cuales se sujetarán a lo que disponga la presente ley.
+La organización y celebración de los exámenes de aptitud, para las categorías referidas en el artículo que antecede, se llevarán al cabo conforme a las bases que determine el Pleno del Consejo del Poder Judicial, las cuales se sujetarán a lo que disponga la presente ley.
 
-Las personas interesadas en ingresar a las categorías antes señaladas, podrán solicitar que se les practique un examen de aptitud y, de aprobarlo, serán consideradas en la lista que deberá integrar la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, para ser tomadas en cuenta en caso de presentarse una vacante en alguna de dichas categorías.
+Las personas interesadas en ingresar a las categorías antes señaladas, podrán solicitar que se les practique un examen de aptitud y, de aprobarlo, serán consideradas en la lista que deberá integrar la Comisión de Carrera Judicial del Consejo del Poder Judicial, para ser tomadas en cuenta en caso de presentarse una vacante en alguna de dichas categorías.
 
-La Comisión de Carrera Judicial del Supremo Tribunal de Justicia determinará el tiempo máximo que las personas aprobadas en los términos del párrafo anterior permanecerán en dicha lista.
+El Pleno del Consejo del Poder Judicial determinará el tiempo máximo que las personas aprobadas en los términos del párrafo anterior permanecerán en dicha lista.
 
-### CAPITULO PRIMERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO TERCERO. DE LA ADSCRIPCION Y RATIFICACION
 
 ###### ARTICULO 135.
 
@@ -1465,21 +1757,83 @@ III.- El grado académico, que comprende el nivel de estudios con que cuente el 
 
 IV.- Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 139.
 
-El Presidente de la Comisión de Carrera Judicial del Supremo Tribunal de Justicia, para la ratificación y readscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, remitirá al Presidente del Consejo del Poder Judicial del Estado de Sonora los expedientes de los servidores públicos relativos, debiéndose sujetar el referido Consejo, para las ratificaciones y readscripciones del caso, en lo conducente, al procedimiento establecido en el artículo 130 de esta ley.
+El Presidente de la Comisión de Carrera Judicial del Consejo del Poder Judicial, para la ratificación y readscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, remitirá al Presidente del mencionado Consejo los expedientes de los servidores públicos relativos, debiéndose sujetar este órgano, para las ratificaciones y readscripciones del caso, en lo conducente, al procedimiento establecido en el artículo 130 de esta Ley.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+## TITULO OCTAVO BIS. DEL NOMBRAMIENTO Y DE LA RATIFICACION DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPITULO UNICO. DEL NOMBRAMIENTO Y DE LA RATIFICACION DE MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 139 BIS.- Los Magistrados del Supremo Tribunal de Justicia serán designados para un periodo de nueve años conforme a lo previsto por la Constitución Política del Estado de Sonora; podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de la propia Constitución.
+
+Al finalizar el periodo constitucional para el que fueron designados los Magistrados del Supremo Tribunal de Justicia, el Ejecutivo y el Congreso del Estado realizarán la evaluación correspondiente de los mismos, para determinar si continúan cumpliendo o no con los requisitos señalados en el artículo 114 de la Constitución Política del Estado de Sonora y si en el ejercicio de su encargo cumplieron o no con los principios de objetividad, profesionalismo, independencia, honorabilidad, imparcialidad, eficiencia y capacidad, en la impartición de justicia y para, con base en ello, resolver si se ratifica o no a los Magistrados.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 139 BIS-A.- En el procedimiento de evaluación del desempeño de los Magistrados del Supremo Tribunal de Justicia, deberá integrarse un expediente individualizado con la siguiente documentación:
+
+I.- Las constancias y documentos con las que se comprueben los requisitos a que se refiere el artículo 114 de la Constitución Política del Estado de Sonora; y
+
+II.- Los documentos debidamente certificados respecto de lo siguiente:
+
+a).- El número total de asuntos turnados al Pleno del Supremo Tribunal y el número total de asuntos resueltos por el mismo, durante el periodo de encargo del Magistrado sujeto de evaluación;
+
+b).- El número total de asuntos asignados a cada una de las ponencias del Pleno y el total de asuntos resueltos por las mismas, durante el periodo de encargo del Magistrado sujeto de evaluación;
+
+c).- El número del total de sentencias elaboradas por las ponencias del Pleno que hubiesen sido impugnadas, especificando el número de las que hayan sido revocadas por resoluciones de fondo en cumplimiento de las sentencias de amparo;
+
+d).- El número total de asuntos turnados a la Sala a la que haya estado adscrito el Magistrado sujeto a evaluación, así como el número total de asuntos resueltos por dicha Sala, durante el periodo de su encargo;
+
+e).- El número total de asuntos asignados a cada una de las ponencias que forman la Sala a la que haya estado adscrito el Magistrado sujeto a evaluación y el total de asuntos resueltos por las mismas, así como el número de los que hubiesen sido impugnados, especificando el número de resoluciones que hayan sido revocadas por resoluciones de fondo en cumplimiento de las sentencias de amparo, durante el periodo de su encargo;
+
+f).- El grado de oportunidad legal de la emisión de las resoluciones correspondientes a las ponencias del Magistrado sujeto a evaluación, así como el número de excitativas de justicia interpuestas;
+
+g).- El número de quejas que se hayan promovido en contra del Magistrado sujeto a evaluación, la evolución de los procedimientos respectivos y, en su caso, el sentido de las resoluciones emitidas en los mismos; y
+
+h).- El número de licencias solicitadas por el Magistrado sujeto a evaluación, así como el número de faltas a las labores normales y a las sesiones del Pleno y de la Sala a la que esté adscrito, especificando si éstas fueron justificadas o no.
+
+La información prevista en esta fracción deberá desglosarse por año, desde la fecha en que el Magistrado haya iniciado el periodo de su encargo;
+
+III.- El grado académico del Magistrado, los diversos cursos de actualización y especialización acreditados de manera fehaciente, y su participación en actividades académicas y otras relacionadas con la impartición de justicia;
+
+IV.- La información de carácter objetivo sobre el desempeño del Magistrado sujeto a evaluación que el Ejecutivo y el Congreso del Estado consideren pertinente solicitar al Supremo Tribunal de Justicia; y
+
+V. La información u opinión que el Ejecutivo y el Congreso del Estado consideren pertinente solicitar a diversas entidades públicas o privadas, particularmente de las asociaciones de profesionistas relacionadas con la impartición de justicia, respecto del Magistrado sujeto a evaluación.
+
+La información a que se refieren las fracciones I y III deberá ser proporcionada por el Magistrado de que se trate a solicitud del Ejecutivo y del Congreso del Estado, dentro del plazo que los mismos señalen.
+
+La información referida en las fracciones II y IV deberá ser entregada por el Supremo Tribunal de Justicia al Ejecutivo y al Congreso del Estado, dentro del plazo que los mismos señalen.
+
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 139 BIS-B.- El Ejecutivo del Estado deberá emitir una resolución debidamente fundada y motivada en la que determine si procede o no la ratificación del Magistrado.
+
+Cuando la resolución del Ejecutivo fuere de no ratificación, el Magistrado terminará su encargo y el Gobernador del Estado procederá al nombramiento del nuevo Magistrado y lo someterá a la aprobación del Congreso del Estado.
+
+Si la resolución es de ratificación, la someterá a la aprobación del Congreso del Estado, turnándole el expediente correspondiente. La resolución que emita el Congreso deberá ser debidamente fundada y motivada.
+
+Cuando el Congreso del Estado resuelva la no aprobación de la ratificación del Magistrado, lo comunicará de inmediato al Ejecutivo para que proceda a hacer el nombramiento del nuevo Magistrado y lo someta a la aprobación del mismo Congreso.
+
+En caso que el Congreso del Estado apruebe la ratificación del Magistrado, el acuerdo relativo a la reelección será comunicado al Ejecutivo y al Supremo Tribunal de Justicia.
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPITULO SEGUNDO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SONORA
+### CAPITULO PRIMERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 ## TITULO DECIMO. DEL RECURSO DE REVISION
 
-### CAPITULO UNICO. DEL RECURSO DE REVISION
+### CAPITULO SEGUNDO. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-## TITULO DECIMO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPITULO PRIMERO. DE LA PROTESTA CONSTITUCIONAL
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 140.
 
@@ -1515,27 +1869,33 @@ Serán causas de responsabilidad para los servidores públicos que desempeñen f
 
 Se considerarán como faltas graves de los servidores públicos del Poder Judicial del Estado de Sonora, el incumplimiento de las obligaciones contenidas en las fracciones XVI a XVIII y XX a XXII del artículo 63 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; además, serán faltas graves de los servidores públicos del Poder Judicial del Estado que desempeñen funciones jurisdiccionales, el incumplimiento de las obligaciones señaladas en las fracciones I a IV del artículo 141 de esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 144.
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado, a que se refiere este Título, se iniciará de oficio o por queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el Agente del Ministerio Público. La incoación de los procedimientos antes anotados, cuando se trate de Magistrados Regionales de Circuito y Jueces de Primera Instancia, se comunicará al Consejo del Poder Judicial del Estado de Sonora.
+El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial del Estado a que se refiere este Título, se iniciará de oficio o por queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el Agente del Ministerio Público.
 
 Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
 Las quejas o denuncias que se formulen deberán estar apoyadas en pruebas documentales o en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 145.
 
 Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial del Estado, así como para aplicar las sanciones a que se refiere el artículo 148 de esta ley:
 
-I.- El Supremo Tribunal de Justicia, funcionando en Pleno, tratándose de faltas de sus Magistrados;
+I.- El Supremo Tribunal de Justicia, funcionando en Pleno, tratándose de faltas de sus Magistrados y del Secretario General de Acuerdos;
 
-II.- El Presidente del Supremo Tribunal de Justicia, tratándose de faltas de los titulares de los órganos auxiliares administrativos del Poder Judicial del Estado;
+II.- El Supremo Tribunal de Justicia, funcionando a través de la Comisión de Disciplina, tratándose de servidores públicos del mismo Tribunal, no comprendidos en la fracción anterior;
 
-III.- La Comisión de Disciplina del Supremo Tribunal de Justicia, tratándose de faltas de los Magistrados Regionales de Circuito, de los Jueces de Primera Instancia y del Secretario General de Acuerdos; y
+II.- El Consejo del Poder Judicial del Estado, funcionando en pleno, tratándose de faltas de los Magistrados Regionales de Circuito, de los Jueces, de los Consejeros y de los titulares de los órganos auxiliares del propio Consejo; y
 
 IV.- La Visitaduría Judicial y Contraloría, tratándose de servidores públicos no comprendidos en las fracciones anteriores.
 
-Cuando de un mismo acto se derive responsabilidad a un Magistrado Regional de Circuito, o a un Juez de Primera Instancia o al Secretario General de Acuerdos y a otro u otros servidores públicos del Poder Judicial del Estado, el asunto lo conocerá la Comisión de Disciplina del Supremo Tribunal de Justicia.
+Cuando de un mismo acto se derive responsabilidad para alguno de los servidores a que se refieren las fracciones I y II de este numeral y a otro u otros servidores públicos del Poder Judicial del Estado, el asunto lo conocerá el Supremo Tribunal de Justicia, funcionando en Pleno o a través de la Conclusión de Disciplina, según corresponda.
+
+Cuando de un mismo acto se derive responsabilidad para alguno de los servidores a que se refiere la fracción III de este artículo y a otro u otros de los servidores públicos a que se refiere la fracción IV del presente artículo, el asunto lo conocerá el Pleno del Consejo del Poder Judicial.
 
 ###### ARTICULO 146.
 
@@ -1597,9 +1957,11 @@ I.- Cuando incurran en una falta grave en el desempeño de sus cargos; y
 
 II.- Cuando reincidan en una causa de responsabilidad sin haber atendido las observaciones o amonestaciones que se les hagan por faltas a la moral o a la disciplina que deben guardar conforme a la ley y a las disposiciones de carácter general.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 152.
 
-Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Supremo Tribunal de Justicia, previo informe que se le rinda, proveerá lo que resulte necesario para su corrección o remedio inmediato.
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, previo informe que se le rinda, en su caso, proveerá lo que resulte necesario para su corrección o remedio inmediato.
 
 ###### ARTICULO 153.
 
@@ -1609,33 +1971,39 @@ Si se determina que la queja fue interpuesta sin motivo, se impondrá al quejoso
 
 Las resoluciones por las que se impongan sanciones administrativas consistentes en la destitución del cargo de Magistrados Regionales de Circuito y de Jueces de Primera Instancia, podrán ser impugnadas por el servidor público ante el Pleno del Supremo Tribunal de Justicia, mediante el recurso de revisión que establece esta ley.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 155.
 
-Las resoluciones que impongan sanciones a los Magistrados Regionales de Circuito y Jueces de Primera Instancia, o que determinen la inexistencia de responsabilidad de éstos, se comunicarán, en todos los casos, al Consejo del Poder Judicial del Estado de Sonora, remitiéndole copia autorizada de la resolución respectiva.
+Las resoluciones que impongan sanciones a los Magistrados Regionales de Circuito y Jueces, o que determinen la inexistencia de responsabilidad de éstos, se comunicarán, en todos los casos al Pleno del Supremo Tribunal de Justicia.
 
-### CAPITULO SEGUNDO. DE LAS VACACIONES Y DIAS INHABILES
+### CAPITULO UNICO. DEL RECURSO DE REVISION
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 156.
 
-Tienen obligación de presentar declaración anual de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos: los Magistrados del Supremo Tribunal de Justicia, los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia, el Secretario General de Acuerdos del Supremo Tribunal de Justicia, los Secretarios Proyectistas, los Secretarios de Acuerdos de los Tribunales Regionales de Circuito, los Secretarios Auxiliares de Acuerdos de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, los actuarios, el Oficial Mayor del Supremo Tribunal de Justicia, los titulares de los órganos auxiliares administrativos del Supremo Tribunal de Justicia, y todos aquellos servidores públicos que determine el Pleno mediante disposiciones de observancia general.
+Tienen obligación de presentar declaración anual de situación patrimonial, bajo protesta de decir verdad, los siguientes servidores públicos: los Magistrados del Supremo Tribunal de Justicia, los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia, el Secretario General de Acuerdos del Supremo Tribunal de Justicia, los Secretarios Proyectistas, los Secretarios de Acuerdos de los Tribunales Regionales de Circuito, los Secretarios Auxiliares de Acuerdos del Supremo Tribunal de Justicia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia, los actuarios, los Consejeros del Poder Judicial, los titulares de sus órganos auxiliares y de las direcciones de éstos, así como todos aquellos servidores públicos que determine el Pleno del Consejo del Poder Judicial, mediante disposiciones de observancia general.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 157.
 
-Los Magistrados del Supremo Tribunal de Justicia presentarán su declaración anual de situación patrimonial ante la Secretaría de la Contraloría General del Estado, y los demás servidores públicos del Poder Judicial, ante la Visitaduría Judicial y Contraloría del Poder Judicial del Estado, la que expedirá, previo acuerdo del Pleno del Supremo Tribunal de Justicia, las normas y los formatos bajo los cuales se deberá presentar la declaración de situación patrimonial del caso, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+Los Magistrados del Supremo Tribunal de Justicia y los Consejeros del Poder Judicial del Estado presentarán su declaración anual de situación patrimonial ante la Secretaría de la Contraloría General del Estado, y los demás servidores públicos del Poder Judicial, ante la Visitaduría Judicial y Contraloría del Consejo del Poder Judicial del Estado, la que expedirá, previo acuerdo del Pleno del propio Consejo, las normas y los formatos bajo los cuales se deberá presentar la declaración de situación patrimonial del caso, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 158.
 
 En lo no previsto en el presente capítulo se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-## TITULO DECIMO SEGUNDO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+## TITULO DECIMO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO TERCERO. DE LAS LICENCIAS
+### CAPITULO PRIMERO. DE LA PROTESTA CONSTITUCIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 159.
 
-Las decisiones dictadas por el Consejo del Poder Judicial del Estado de Sonora que se refieran al nombramiento, adscripción y cambio de adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, podrán impugnarse ante el Pleno del Supremo Tribunal de Justicia, mediante el recurso de revisión.
-
-En los casos a que se refiere el párrafo anterior, y en el previsto en el artículo 154 de esta ley, el recurso de revisión tendrá como único objeto que el Pleno del Supremo Tribunal de Justicia determine si se nombró, adscribió, readscribió o removió a un Magistrado Regional de Circuito o Juez de Primera Instancia, con estricto apego a los requisitos formales previstos en esta ley, o en los acuerdos generales expedidos por el propio Pleno del Supremo Tribunal de Justicia.
+Las decisiones dictadas por el Consejo del Poder Judicial del Estado de Sonora que se refieran al nombramiento, adscripción, cambio de adscripción y no ratificación de Magistrados Regionales de Circuito y Jueces, que hubiesen sido designados mediante concurso de oposición, podrán impugnarse ante el Pleno del Supremo Tribunal de Justicia, mediante el recurso de revisión. En los casos a que se refiere el párrafo anterior, y en el previsto en el artículo 154 de esta ley, el recurso de revisión tendrá como objeto que el Pleno del Supremo Tribunal de Justicia confirme, modifique o revoque dichas decisiones.
 
 ###### ARTICULO 160.
 
@@ -1643,9 +2011,11 @@ El recurso de revisión podrá interponerse:
 
 I.- Tratándose de las resoluciones de nombramiento o adscripción con motivo de un examen de oposición, por cualquiera de las personas que hubieran participado en él;
 
-II.- Tratándose de las resoluciones de remoción, por el Magistrado Regional de Circuito o Juez de Primera Instancia afectado por la misma; y
+> <small>(REFORMADA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-III.- Tratándose de las resoluciones de cambio de adscripción, por el funcionario judicial que, en su caso, hubiera solicitado el cambio de adscripción y se le hubiere negado.
+II.- Tratándose de las resoluciones de remoción, de no ratificación y de las relativas a la readscripción, por el Magistrado Regional de Circuito o Juez afectado por la misma; y
+
+III.- (DEROGADA, B.O. 7 DE SEPTIEMBRE DE 2007)
 
 ###### ARTICULO 161.
 
@@ -1665,21 +2035,23 @@ En caso de que el recurso de revisión se presente en contra de resoluciones de 
 
 Cuando alguna de las partes ofrezca una prueba documental que no obre en su poder, solicitará al Magistrado ponente que requiera a la autoridad que cuente con ella, a fin de que la proporcione a la brevedad posible.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 165.
 
-Las resoluciones del Pleno del Supremo Tribunal de Justicia que declaren fundado el recurso de revisión planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que la autoridad que lo haya emitido dicte una nueva resolución en un plazo no mayor a treinta días naturales.
+La resolución del Pleno del Supremo Tribunal de Justicia que recaiga al recurso de revisión planteado, confirmará, modificará o revocará el acto impugnado.
 
-La nulidad del acto que se reclame no producirá la invalidez de las actuaciones del Magistrado Regional de Circuito o Juez de Primera Instancia nombrado o adscrito.
+La resolución emitida en revisión por el Pleno del Supremo Tribunal de Justicia, no producirá la invalidez de las actuaciones del Magistrado Regional de Circuito o Juez de que se trate.
 
-La interposición de la revisión no interrumpirá, en ningún caso, los efectos de la resolución impugnada.
+La interposición de la revisión no suspenderá, en ningún caso, los efectos de la resolución impugnada.
 
-## TITULO DECIMO TERCERO. DEL SERVICIO SOCIAL DE PASANTES
+## TITULO DECIMO SEGUNDO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO UNICO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
+### CAPITULO SEGUNDO. DE LAS VACACIONES Y DIAS INHABILES
 
 ###### ARTICULO 166.
 
-Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado rendirán su protesta ante el Congreso del Estado o ante la Diputación Permanente; los Magistrados Regionales de Circuito y los Jueces de Primera Instancia lo harán ante el Pleno del Supremo Tribunal y los Jueces Locales lo harán ante el Juez de Primera Instancia que los hubiere designado.
+Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia del Estado rendirán su protesta ante el Congreso del Estado o ante la Diputación Permanente; los Magistrados Regionales de Circuito y los Jueces de Primera Instancia lo harán ante el Pleno del Supremo Tribunal y los Jueces Locales lo harán ante el Juez de Primera Instancia que para ese efecto designe el Consejo del Poder Judicial del Estado.
 
 Los demás empleados y funcionarios del Poder Judicial del Estado de Sonora rendirán su protesta ante aquéllos de quienes dependan jerárquicamente.
 
@@ -1689,29 +2061,37 @@ La protesta a que se refiere este capítulo se prestará en los siguientes térm
 
 La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen y cumplir leal y patrióticamente el cargo de ... que (la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?". El interpelado contestará: "Sí protesto". Acto continuo dirá la persona ante quien se otorga la protesta; "Si no lo hiciereis así la Nación y el Estado os lo demanden".
 
-### CAPITULO UNICO. DEL SERVICIO SOCIAL DE PASANTES
+### CAPITULO TERCERO. DE LAS LICENCIAS
 
 ###### ARTICULO 168.
 
 Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y Locales, así como los demás empleados de confianza del Poder Judicial del Estado de Sonora gozarán, anualmente, de dos períodos vacacionales de diez días hábiles cada uno; para disfrutar de los señalados períodos vacacionales se requerirá tener, en todos los casos, más de seis meses consecutivos de servicios.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 169.
 
-El Pleno del Supremo Tribunal de Justicia nombrará al Magistrado o Magistrados que deban proveer los trámites de carácter urgente durante los períodos vacacionales de este órgano. Los Tribunales Regionales de Circuito designarán de entre sus integrantes al Magistrado o Magistrados que realizarán la tramitación de los asuntos urgentes de su competencia durante los períodos vacacionales.
+El Pleno del Supremo Tribunal de Justicia nombrará al Magistrado o Magistrados que deban proveer los trámites de carácter urgente durante los periodos vacacionales de este órgano. Los Tribunales Regionales de Circuito designarán de entre sus integrantes al Magistrado o Magistrados que realizarán la tramitación de los asuntos urgentes de su competencia durante los periodos vacacionales.
 
-Los Jueces de Primera Instancia designarán al Secretario que se encargue del despacho del juzgado durante los períodos vacacionales correspondientes.
+Los Magistrados de Tribunales Unitarios Regionales de Circuito y los Jueces de Primera Instancia designarán al Secretario que se encargue del despacho durante los periodos vacacionales correspondientes.
 
 ###### ARTICULO 170.
 
 Los servidores públicos designados para cubrir los recesos disfrutarán de las correspondientes vacaciones dentro del mes siguiente al período vacacional respectivo.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 171.
 
-En los órganos del Poder Judicial del Estado de Sonora se consideran como días inhábiles los sábados y domingos, el 1º de enero, 5 y 24 de febrero, 21 de marzo, 1 y 5 de mayo, 17 de julio, 15 y 16 de septiembre, 12 de octubre, 2 y 20 de noviembre y 25 de diciembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley.
+En los órganos del Poder Judicial del Estado de Sonora se consideran como días inhábiles los sábados y domingos, el 1° de enero, el primer lunes de febrero, en conmemoración del 5 de febrero, el 24 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, 1º y 5 de mayo, 17 de julio, 15 y 16 de septiembre, 12 de octubre, 2 de noviembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre y 25 de diciembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 172.
 
-Lo relativo a vacaciones y días inhábiles de los trabajadores de base del Poder Judicial del Estado de Sonora se regirá por la Ley del Servicio Civil para el Estado de Sonora.
+Lo no previsto en este Capítulo respecto a vacaciones y días inhábiles de los trabajadores de base del Poder Judicial del Estado de Sonora se regirá por la Ley del Servicio Civil para el Estado de Sonora.
+
+### CAPITULO UNICO. DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 173.
 
@@ -1737,23 +2117,39 @@ Las licencias mayores a tres meses se otorgarán de manera extraordinaria y por 
 
 Toda licencia deberá concederse a través de un escrito en el que se hará constar la calificación de las razones aducidas en la solicitud de la licencia respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 178.
 
-Las licencias que no excedan de treinta días de los Magistrados Regionales de Circuito, Jueces de Primera Instancia, Secretario General de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares y Actuarios del Supremo Tribunal de Justicia, así como las de los demás empleados de confianza de los órganos auxiliares administrativos del Supremo Tribunal de Justicia, serán concedidas por el Presidente del Supremo Tribunal de Justicia, las que excedan de ese término serán concedidas por el Pleno de dicho órgano.
+Las licencias que no excedan de un mes de los Magistrados Regionales de Circuito y Jueces, podrán ser concedidas por el Presidente del Consejo del Poder Judicial del Estado; las que excedan de ese término serán concedidas por el Pleno de dicho órgano. Las licencias que no excedan de un mes del Secretario General de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y demás personal del Supremo Tribunal de Justicia, podrán ser concedidas por el Presidente del mismo Supremo Tribunal; las que excedan de ese término podrán ser concedidas por el Pleno de ese órgano.
 
 En el caso de los Secretarios Proyectistas adscritos a los Magistrados del Supremo Tribunal de Justicia, previamente a la concesión de las licencias cuyo otorgamiento corresponda al Presidente del Supremo Tribunal de Justicia, se recabará la opinión de aquéllos.
 
+> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 178 BIS.- Las licencias que no excedan de un mes de los integrantes del Consejo del Poder Judicial del Estado, los de las Comisiones y del Secretario Ejecutivo del Consejo, de los titulares de los órganos auxiliares y de los directores y subdirectores, así como del resto del personal que formen parte de estos órganos, podrán ser otorgadas por el Presidente del Consejo del Poder Judicial del Estado; las que excedan de este término, podrán ser concedidas por el Pleno de este cuerpo colegiado.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 179.
 
-Las licencias que no excedan de treinta días de los Secretarios de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares y Actuarios de los Tribunales Regionales de Circuito, se concederán por el Presidente del Tribunal Regional de Circuito al que se encuentren adscritos y, las que excedan de ese término, por Acuerdo de los integrantes del Tribunal Regional de Circuito respectivo.
+Las licencias que no excedan de un mes de los Secretarios de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y demás personal de los Tribunales Colegiados Regionales de Circuito, podrán ser concedidas por el Presidente del Tribunal Regional de Circuito al que se encuentren adscritos y, las que excedan de ese término, por Acuerdo del Pleno del Consejo del Poder Judicial del Estado.
+
+Las licencias que no excedan de un mes de los Secretarios de Acuerdos, Secretarios Proyectistas, Secretarios Auxiliares, Actuarios y demás personal de los Tribunales Unitarios Regionales de Circuito, podrán ser concedidas por el Titular de los mismos. Las que excedan de ese tiempo, podrán ser concedidas por el Pleno del Consejo del Poder Judicial del Estado.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 180.
 
-Las licencias de los Secretarios de Acuerdos y Actuarios de los Juzgados de Primera Instancia, menores de treinta días, se otorgarán por los titulares de dichos órganos y, las que excedan de ese plazo, por el Pleno del Supremo Tribunal de Justicia.
+Las licencias de los Secretarios de Acuerdos, Actuarios y demás personal de los Juzgados de Primera Instancia, menores de un mes, podrán ser otorgadas por los titulares de dichos órganos y, las que excedan de ese plazo, por el Pleno del Consejo del Poder Judicial del Estado.
 
 ###### ARTICULO 181.
 
 Lo relativo a licencias de los trabajadores de base del Supremo Tribunal de Justicia se regirá por lo dispuesto en la Ley del Servicio Civil para el Estado de Sonora.
+
+## TITULO DECIMO TERCERO. DEL SERVICIO SOCIAL DE PASANTES
+
+### CAPITULO UNICO. DEL SERVICIO SOCIAL DE PASANTES
 
 ###### ARTICULO 182.
 
@@ -1779,13 +2175,17 @@ VIII.- Todos los demás a quienes la ley les confiera tal carácter.
 
 Los pasantes de las distintas carreras universitarias podrán prestar su servicio social en el Poder Judicial del Estado de Sonora, conforme a la normatividad de las instituciones de enseñanza superior correspondientes y a lo señalado en el presente Capítulo.
 
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 184.
 
-El Presidente del Supremo Tribunal de Justicia propondrá a las diversas instituciones de enseñanza superior en el Estado, la suscripción de los convenios relativos, a fin de que los pasantes de las diferentes carreras puedan prestar su servicio social en el Poder Judicial del Estado de Sonora, realizando tanto funciones administrativas como jurisdiccionales.
+El Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, propondrá a las diversas instituciones de enseñanza superior en el Estado, la suscripción de los convenios relativos, a fin de que los pasantes de las diferentes carreras puedan prestar su servicio social en el Poder Judicial del Estado de Sonora, realizando tanto funciones administrativas como jurisdiccionales.
+
+> <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 185.
 
-La Oficialía Mayor del Supremo Tribunal de Justicia determinará los mecanismos para el registro, control y seguimiento de los prestadores de servicio social a que se refiere el presente Capítulo.
+El Instituto de la Judicatura determinará los mecanismos para el registro, control y seguimiento de los prestadores de servicio social a que se refiere el presente Capítulo.
 
 ###### ARTICULO 186.
 
@@ -1852,3 +2252,31 @@ En tanto se establezcan más de un Tribunal Unitario Regional de Circuito, en ca
 ###### ARTÍCULO TERCERO.
 
 Hasta en tanto se establezca un Juzgado Especializado en Justicia para Adolescentes en cada uno de los Distritos, el Pleno del Supremo Tribunal de Justicia al acordar la creación de los mismos, podrá determinar que ejerza competencia en dos o más distritos judiciales.
+
+B.O. 7 DE SEPTIEMBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones que se derogan o se modifican mediante este Decreto, continuarán aplicándose por el Supremo Tribunal de Justicia, sus Comisiones, sus órganos auxiliares administrativos y por el Consejo del Poder Judicial del Estado constituido conforme a las Leyes 179 y 181 publicadas los días 11 de noviembre y 12 de diciembre de 1996, respectivamente, en el Boletín Oficial del Gobierno del Estado, hasta en tanto se instale el nuevo Consejo del Poder Judicial del Estado.
+
+A partir de la instalación del nuevo Consejo del Poder Judicial del Estado, éste asumirá las funciones que constitucional y legalmente le corresponden en sustitución del Consejo que deje de funcionar e iniciará la aplicación de las disposiciones creadas y reformadas mediante este Decreto.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones relativas a la Oficialía Mayor del Supremo Tribunal de Justicia continuarán aplicándose hasta en tanto se designe al Secretario Ejecutivo de Administración y éste entre en funciones.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto se establezca más de un Tribunal Unitario Regional de Circuito, en casos de excusa o impedimento del Magistrado Unitario Regional de Circuito, el Pleno del Consejo del Poder Judicial del Estado designará a quien deba suplirlo.
+
+###### ARTICULO QUINTO.
+
+Hasta en tanto se establezca un Juzgado Especializado en Justicia para Adolescentes en cada uno de los Distritos, o se acuerde que los juzgados a que se refieren las fracciones I, II, IV y VI del artículo 56 de este Decreto, conozcan de dicha materia, el Consejo del Poder Judicial del Estado podrá determinar que los Juzgados Especializados en Justicia para Adolescentes ejerzan competencia en dos o más distritos judiciales.
+
+###### ARTICULO SEXTO.
+
+Los órganos auxiliares administrativos del Supremo Tribunal de Justicia, creados por acuerdos del Pleno de este Cuerpo Colegiado, pasarán a formar y parte bajo la dependencia del Consejo del Poder Judicial.
