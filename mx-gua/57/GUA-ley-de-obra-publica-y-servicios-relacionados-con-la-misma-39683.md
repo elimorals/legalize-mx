@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2005-09-16"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIDICO OFICIAL DEL ESTADO DE GUANAJUATO: 16 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -135,11 +135,17 @@ El Ejecutivo del Estado aprobará su programa de obra pública y servicios relac
 
 Igualmente los Poderes Legislativo y Judicial, así como los Organismos Autónomos por Ley y los Ayuntamientos, deberán aprobar sus respectivos programas de obra pública y lo integrarán en su presupuesto de egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 6.
 
-El Ejecutivo del Estado, por conducto de la Secretaría podrá convenir con los Poderes Legislativo, Judicial, Organismos Autónomos por Ley y con los Ayuntamientos, la ejecución de la obra pública y los servicios relacionados con la misma, cuando cuenten con los recursos presupuestales y los expedientes técnicos debidamente dictaminados y validados por la normativa competente para tal efecto.
+El Ejecutivo del Estado, por conducto de la Secretaría o de las entidades paraestatales a las que se refiere el artículo 3 de esta Ley, podrá convenir con los Poderes Legislativo, Judicial, Organismos Autónomos por Ley y con las autoridades municipales, la ejecución de la obra pública y los servicios relacionados con la misma, cuando cuenten con los recursos presupuestales y los expedientes técnicos debidamente dictaminados y validados por la normativa competente para tal efecto.
 
 Previamente a la ejecución de la obra a que se refiere este artículo, se deberán suscribir los convenios indicando en ellos, los términos y condiciones para la coordinación de las acciones.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+En los convenios que se suscriban con las autoridades municipales, a criterio de la Secretaría o de las entidades paraestatales a las que se refiere el artículo 3 de esta Ley, podrá acordarse además el que se exima la validación del expediente, siempre que se trate de obras urgentes, de bajo monto o de fácil realización.
 
 ###### Artículo 7.
 
@@ -587,7 +593,9 @@ III.- La forma en que los participantes deberán acreditar su personalidad jurí
 
 IV.- La solicitud de registro en el padrón de contratistas;
 
-V.- El capital contable requerido, el cual no podrá ser mayor al 30% del importe estimado de la obra por ejecutar, salvo que las características, naturaleza, complejidad y magnitud de la obra determinen solicitar un capital contable mayor al señalado;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V.- El capital contable requerido, el cual no podrá ser mayor al 30% del importe estimado de la obra por ejecutar;
 
 VI.- El tipo de contrato;
 
@@ -610,6 +618,10 @@ XIV.- La indicación de que no podrán participar quienes se encuentren dentro d
 XV.- La especificación de que los requisitos y condiciones consignados en las convocatorias serán invariables, salvo las modificaciones procedentes de la convocante o las determinaciones que la autoridad considere que mejoran el proyecto derivadas de las juntas de aclaraciones, las que se darán a conocer mediante notificación personal y por escrito a todos los participantes;
 
 XVI.- Las garantías que se deberán otorgar en los términos del artículo 48 fracción V de esta Ley;
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Para el caso de las garantías de cumplimiento contractual, de anticipos y de vicios ocultos, deberán preverse al menos dos modalidades de las señaladas en el artículo 73 Bis de la presente Ley, con la finalidad de que el participante pueda optar por la más conveniente;
 
 XVII.- Los criterios conforme a los cuales se decidirá la adjudicación; y
 
@@ -807,7 +819,9 @@ En el análisis de los precios unitarios, los costos incluirán:
 
 I.- Directos.- Los cargos por concepto de materiales, mano de obra, incluidos los de previsión y seguridad social, herramienta, maquinaria y equipo de construcción;
 
-II.- Indirectos.- Un porcentaje del costo directo que incluirá los cargos correspondientes a la administración de oficinas centrales, de la obra, seguros y fianzas;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Indirectos.- Un porcentaje del costo directo que incluirá los cargos correspondientes a la administración de oficinas centrales, de la obra, seguros y garantías;
 
 III.- Financiamiento.- Un porcentaje de la suma de los costos directos e indirectos; considerando los gastos que realizará en la ejecución de los trabajos según programa propuesto, anticipo otorgado, periodicidad, plazo de trámite y pago de las estimaciones que recibirá, señalando el indicador económico de la tasa de interés que aplicará; y
 
@@ -971,13 +985,41 @@ En los supuestos anteriormente señalados, deberán acreditarse los criterios y 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 73 Bis.
+
+Las garantías que deban constituirse de conformidad con lo dispuesto en la presente Ley, podrán otorgarse bajo las siguientes modalidades:
+
+I.- Fianza;
+
+II.- Carta de crédito;
+
+III.- Garantía fiduciaria;
+
+IV.- Certificado de depósito;
+
+V.- Cheque cruzado, únicamente para el supuesto previsto en el artículo 75 fracción I de esta Ley;
+
+VI.- Contrato de hipoteca; y
+
+VII.- Contrato de prenda.
+
+Las garantías referidas en las fracciones I a III deberán ser otorgadas por instituciones debidamente acreditadas y autorizadas para tal efecto, de reconocida capacidad, seriedad, responsabilidad y solvencia económica y moral. El certificado de depósito a que hace referencia la fracción IV deberá tramitarse ante la Secretaría de Finanzas y Administración o la Tesorería Municipal, o demás instituciones acreditadas y autorizadas para tal efecto. Los contratos aludidos en las fracciones VI y VII deberán otorgarse en los términos de la legislación aplicable.
+
+Los requisitos que deban cumplir las garantías que se contienen en el presente artículo, se establecerán en el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 74.
 
-Las garantías a que se refiere esta Ley, deberán otorgarse por los contratistas en favor de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, según se trate del Estado o de los Ayuntamientos o de los Organismos Autónomos por Ley, cuando estos últimos sean los contratantes.
+Las garantías a que se refiere esta Ley se constituirán a favor de la Secretaría de Finanzas y Administración tratándose de contratos que celebre el Poder Ejecutivo y sus dependencias, así como los poderes Legislativo y Judicial.
 
-Cuando la Secretaría o los Ayuntamientos celebren convenios de colaboración para la ejecución de obras públicas con otras dependencias y éstas participen presupuestalmente, se precisará en los mismos el nombre del ente público a quien se debe otorgar la fianza.
+En los contratos que celebre la administración pública municipal, las garantías correspondientes se constituirán a favor de las Tesorerías Municipales.
 
-Las fianzas a que se refiere la presente Ley, deberán ser otorgadas por instituciones debidamente acreditadas y autorizadas para tal efecto, de reconocida capacidad, seriedad, responsabilidad y solvencia económica y moral.
+Los Organismos Autónomos y las entidades paraestatales y paramunicipales serán beneficiarios de las garantías relativas a los contratos que al efecto suscriban.
+
+Cuando las autoridades facultadas para aplicar esta Ley, celebren entre sí convenios de colaboración para la ejecución de obras públicas, se precisará en dichos instrumentos la autoridad a favor de la cual deberán constituirse las garantías correspondientes.
 
 ###### Artículo 75.
 
@@ -985,17 +1027,21 @@ Las personas que participen en licitaciones públicas o celebren contratos de ob
 
 I.- Seriedad de la propuesta, que corresponderá al 5% del valor de la misma.
 
-Esta garantía será exhibida en cheque cruzado, que conservará la convocante hasta la fecha del fallo, y le será devuelta en ese acto a los licitadores no ganadores.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Al participante ganador se le regresará sólo contra la entrega de las fianzas de garantía de cumplimiento y de anticipo;
+Esta garantía será exhibida en cheque cruzado expedido a favor de la convocante, quien lo conservará hasta la fecha del fallo, y le será devuelto en ese acto a los licitadores no ganadores.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+En el caso del licitante ganador dicha garantía sólo le será devuelta contra la entrega de las garantías de cumplimiento y de anticipo previstas en las fracciones II y III de este artículo;
 
 II.- Anticipo, que se constituirá por el 100% del mismo;
 
 III.- Cumplimento, que corresponderá al 10% del importe total contratado.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-En el caso de que por causas imputables al contratista, éste no exhiba las fianzas de anticipo y de cumplimiento de obligaciones contractuales, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato respectivo, se hará acreedor a una multa administrativa dentro de los rangos establecidos en la presente Ley.
+En el caso de que por causas imputables al contratista, éste no exhiba las garantías de anticipo y de cumplimiento de obligaciones contractuales, dentro de los diez días naturales siguientes a la fecha de firma del contrato respectivo, se hará acreedor a una multa administrativa dentro de los rangos establecidos en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1003,19 +1049,25 @@ La sanción deberá fundarse y motivarse, y
 
 IV.- Concluida la obra y como parte del finiquito de la misma, el contratista deberá sustituir la garantía de cumplimiento por otra equivalente al 10% del monto total de los trabajos realmente ejecutados, incluyendo los conceptos pagados por ajuste de costos, misma que servirá para prever la probable existencia de vicios ocultos.
 
-Esta fianza deberá tener una vigencia de doce meses contados a partir del acto de entrega-recepción.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-Con excepción de la señalada en la fracción I, las garantías de que se trata podrán ser otorgadas mediante póliza expedida por compañía afianzadora.
+Esta garantía deberá tener una vigencia de doce meses contados a partir del acto de entrega-recepción.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 76.
 
 El otorgamiento de los anticipos será como mínimo del 20% para compra de materiales y del 10% para cubrir los gastos correspondientes al inicio de la obra.
 
-El importe del anticipo será otorgado al contratista dentro de los cinco días hábiles siguientes a la entrega de la fianza correspondiente; en el caso de que se atrase por causa justificada el otorgamiento del anticipo, el inicio de la obra se diferirá en igual número de días.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+El importe del anticipo será otorgado al contratista dentro de los cinco días hábiles siguientes a la entrega de la garantía correspondiente; en el caso de que se atrase por causa justificada el otorgamiento del anticipo, el inicio de la obra se diferirá en igual número de días.
 
 Lo anterior sin perjuicio de la responsabilidad administrativa en que incurra el servidor público encargado de tal obligación.
 
-Cuando el contratista no entregue la fianza de anticipo dentro del plazo señalado en el artículo 75, fracción III, párrafo segundo de esta Ley, no procederá el diferimiento y por lo tanto, deberá iniciar los trabajos en la fecha establecida originalmente.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Cuando el contratista no entregue la garantía de anticipo dentro del plazo señalado en el artículo 75, fracción III, párrafo segundo de esta Ley, no procederá el diferimiento y por lo tanto, deberá iniciar los trabajos en la fecha establecida originalmente.
 
 ###### Artículo 77.
 
@@ -1033,17 +1085,23 @@ En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de lo
 
 Tratándose de servicios relacionados con la obra pública, el porcentaje a otorgarse como anticipo será determinado por la contratante atendiendo a las características, complejidad y magnitud del servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 79.
 
-En el caso de rescisión o terminación anticipada del contrato, la amortización del saldo del o los anticipos, se reintegrará a la contratante en un plazo no mayor de veinte días naturales a partir de la fecha de su notificación, vencido el plazo, sin que se hubiere reintegrado dicho saldo, su importe se considerará crédito fiscal a favor de la contratante, sin que la fianza respectiva pierda su naturaleza y eficacia.
+En el caso de rescisión o terminación anticipada del contrato, la amortización del saldo del o los anticipos, se reintegrará a la contratante en un plazo no mayor de veinte días naturales a partir de la fecha de su notificación, vencido el plazo, sin que se hubiere reintegrado dicho saldo, su importe se considerará crédito fiscal a favor de la contratante, sin que la garantía respectiva pierda su naturaleza y eficacia.
 
 El contratista que no reintegre dicho saldo en el plazo señalado, cubrirá los recargos correspondientes conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato, para el caso de prórroga del pago de créditos fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 80.
 
-La contratante podrá eximir al contratista del otorgamiento de la fianza de garantía de cumplimiento, cuando se den los siguientes supuestos:
+La contratante podrá eximir al contratista del otorgamiento de la garantía de cumplimiento, cuando se den los siguientes supuestos:
 
-I.- Cuando se trate de contratos o convenios adicionales cuyo importe no rebase el monto de 1,250 veces el salario mínimo diario vigente en el Estado de Guanajuato, en estos casos no se otorgará porcentaje alguno de anticipo;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Cuando se trate de contratos o convenios adicionales cuyo importe no rebase el monto de 2,500 veces el salario mínimo diario vigente en el Estado de Guanajuato, en estos casos no se otorgará porcentaje alguno de anticipo;
 
 II.- Tratándose de Organismos Públicos Autónomos por Ley; y
 
@@ -1387,7 +1445,9 @@ Una vez notificado el finiquito, el contratista tendrá un plazo de diez días h
 
 Determinado el saldo total, la contratante en su caso, pondrá a disposición del contratista o consultor el pago correspondiente mediante depósito en su cuenta; o bien, exigirá el reintegro de los importes resultantes debiendo simultáneamente, levantar el acta administrativa que de por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-En el supuesto de que el contratista o consultor no reintegre los importes resultantes en su contra en un plazo de cinco días hábiles, contados a partir del siguiente a su notificación, la contratante procederá a la ejecución de la o las fianzas respectivas y suspenderá su registro en el padrón de contratistas, por el periodo que establezca esta Ley.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+En el supuesto de que el contratista o consultor no reintegre los importes resultantes en su contra en un plazo de cinco días hábiles, contados a partir del siguiente a su notificación, la contratante procederá a la ejecución de la o las garantías respectivas y suspenderá su registro en el padrón de contratistas, por el periodo que establezca esta Ley.
 
 ###### Artículo 109.
 
@@ -1403,7 +1463,9 @@ La contratante comunicará al Órgano de control correspondiente con cinco días
 
 Concluida la obra o servicio, no obstante su recepción formal, el contratista o consultor quedará obligado a responder de los defectos y vicios ocultos, así como de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo y en esta Ley.
 
-Para garantizar durante doce meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, se estará a lo establecido en la fracción IV del artículo 75 de esta Ley, si al término de la vigencia de la garantía no hay inconformidad de la contratante, se liberará la fianza.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+Para garantizar durante doce meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, se estará a lo establecido en la fracción IV del artículo 75 de esta Ley, si al término de la vigencia de la garantía no hay inconformidad de la contratante, ésta se liberará.
 
 ###### Artículo 112.
 
@@ -1634,3 +1696,9 @@ P.O. 16 DE SEPTIEMBRE DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto en la legislación conforme a la cual se iniciaron.
