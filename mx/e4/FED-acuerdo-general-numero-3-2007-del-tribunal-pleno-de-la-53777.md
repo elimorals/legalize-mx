@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-3-2007-del-tribunal-pleno-de-la-53777"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-13"
-last_updated: "2007-02-13"
+last_updated: "2007-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-01-29"
 
 ACUERDO GENERAL NUMERO 3/2007, DE VEINTINUEVE DE ENERO DEL AÑO DOS MIL SIETE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION EN LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE IMPUGNAN LOS PRECEPTOS MATERIA DE ESTUDIO DE LAS COMISIONES FISCALES INTEGRADAS POR EL MISMO TRIBUNAL PLENO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NUMERO 21/2007, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2007, SE LEVANTA EL APLAZAMIENTO, Y LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y CONSERVACION POR ESTOS, PARA SU RESOLUCION, DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN ARTICULOS DE LA LEY DEL IMPUESTO SOBRE LA RENTA RELACIONADOS CON EL CALCULO DEL IMPUESTO RELATIVO, DE LAS PERSONAS FISICAS QUE PERCIBEN INGRESOS POR LA PRESTACION DE UN SERVICIO PERSONAL SUBORDINADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de febrero de 2007.
 
@@ -74,3 +76,13 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo Número 3/2007, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION EN LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SE IMPUGNAN LOS PRECEPTOS MATERIA DE ESTUDIO DE LAS COMISIONES FISCALES INTEGRADAS POR EL MISMO TRIBUNAL PLENO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el veintinueve de enero de dos mil siete, por unanimidad de diez votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a veintinueve de enero de dos mil siete.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de nueve fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo Número 3/2007, y se certifica para dar cumplimiento a lo dispuesto en el Punto Tercero Transitorio.- México, Distrito Federal, a veintinueve de enero de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 7 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Comuníquese este acuerdo a los Tribunales Colegiados y Unitarios de Circuito y a los Juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
