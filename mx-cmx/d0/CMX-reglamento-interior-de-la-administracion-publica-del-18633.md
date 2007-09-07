@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-06-29"
+last_updated: "2007-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1108,7 +1108,9 @@ III. Establecer vinculación entre las unidades de la Secretaría de Salud del D
 
 IV. Establecer normas y lineamientos para la completa aplicación de la legislación referente a los medicamentos, basados en el análisis de la Ley de Salud del Distrito Federal;
 
-V. Participar en el establecimiento de medidas necesarias para combatir las enfermedades transmisibles y las adicciones, así como la prevención de accidentes;
+> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2007)</small>
+
+V. Participar en la formulación, coordinación y ejecución de políticas y programas para combatir las enfermedades transmisibles y las adicciones, así como la prevención de accidentes;
 
 VI. Proponer en el Proyecto de Presupuesto de Egresos del Distrito Federal cuando menos el monto equivalente a los recursos destinados en el ejercicio fiscal anterior, a excepción de los no regularizables destinados a infraestructura y equipamiento;
 
@@ -11333,3 +11335,9 @@ Segundo.- Este decreto entrará en vigor al día siguiente hábil al de su publi
 Tercero.- Los asuntos, competencia de la nuevas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-operativo, que antes de la entrada en vigor del presente decreto correspondían a otras unidades administrativas distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien formalmente sus actividades.
 
 Cuarto.- A la Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-operativo de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+G.O. 7 DE SEPTIEMBRE DE 2007.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
