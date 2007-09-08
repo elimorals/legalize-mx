@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2007-05-26"
+last_updated: "2007-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
-Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
+Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
 INDICE GENERAL
 
@@ -1003,7 +1003,41 @@ ART. 101.- El matrimonio se celebrará dentro de los ocho días siguientes, en e
 
 ART. 102.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-Acto continuo, el oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, les será leída la carta de matrimonio civil, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio y si aceptan los declarará unidos en legítimo matrimonio en nombre de la ley y de la sociedad que representa ese acto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+Siendo Carta de matrimonio la siguiente:
+
+El matrimonio es un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que los pretendientes, previas las formalidades que establece la ley, se presenten ante la autoridad y expresen libremente su voluntad de unirse en matrimonio. El matrimonio civil no puede celebrarse más que por un solo hombre y una sola mujer.
+
+La bigamia y la poligamia continúan prohibidas y sujetas a las penas que les tienen señaladas nuestras leyes.
+
+El matrimonio, es el medio idóneo para el desarrollo de la familia, conservar la especie y suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano, pues ésta no existe en la persona sola, sino en la dualidad conyugal. Los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para si.
+
+El hombre, actuando con fortaleza y responsabilidad, debe proporcionar a la mujer apoyo, protección y comprensión, tratándola siempre con amorosa generosidad, especialmente cuando ella se entrega incondicionalmente a él y que la sociedad se la ha confiado por conducto de este matrimonio.
+
+La mujer, con actuar igualmente entregada y responsable, debe dar a su esposo, aliento, comprensión, consuelo y buen consejo, tratándolo siempre con amor y con la misma generosidad con la cual desea ser tratada.
+
+El uno y el otro se deben y tendrán siempre y en todo lugar respeto, fidelidad, confianza y ternura, y procurarán que lo que el uno esperaba del otro al unirse hoy en matrimonio se convierta en una hermosa realidad.
+
+Los casados deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aun más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
+
+Ambos deberán prepararse, con el estudio amistoso y la mutua corrección de sus defectos para desempeñar de la mejor manera posible la mas alta magistratura de la vida que es la de ser padres de familia para que sus hijos encuentren en ustedes el buen ejemplo y una conducta digna de servirles de modelo.
+
+Como escuchamos, este mensaje comienza diciendo que el matrimonio es un contrato civil. Así lo prevé el Código Civil vigente en nuestro estado. El matrimonio da lugar al nacimiento de derechos y obligaciones recíprocas para los casados y crea un nuevo estado civil para ustedes, con todo lo que ello implica.
+
+Sin duda el matrimonio es un vínculo precioso, en el que un hombre y una mujer (sin perder su individualidad) deciden unirse para crear un proyecto de vida en común y trabajar juntos por ese proyecto. Afortunadamente, dado el marco Constitucional del que gozamos en nuestro país cada pareja puede decidir cuál será ese proyecto de vida con enorme libertad. Obviamente es un gran privilegio y a la vez una enorme responsabilidad.
+
+La decisión que han tomado, además de ser una decisión racional, ve involucrada la parte emocional como un factor determinante, pues se entiende que hay entre ambos un afecto lo suficientemente fuerte como para haberlos hecho llegar al punto de unir sus vidas en matrimonio. Los exhorto no solo a preservar, sino a fortalecer ese afecto.
+
+No podemos negar la posibilidad jurídica de disolver el vínculo jurídico matrimonial, pero les recuerdo que el matrimonio no debe ser visto como una unión liviana o pasajera, sino como un lazo con pretensión de perdurar y que logre proveerlos a ustedes y a la familia que formen juntos del ambiente de estabilidad y solidez óptimo.
+
+Les recuerdo también que aún cuando el varón y la mujer tengamos ciertas diferencias naturales somos iguales ante la ley, así lo expresa la Constitución Política de los Estados Unidos Mexicanos.
+
+Construyan un matrimonio digno, que sea de edificación para ustedes como individuos, para su familia y para toda la sociedad.
 
 ART. 103.- Se levantará luego el acta de matrimonio en la cual se hará constar:
 
@@ -10306,3 +10340,7 @@ Artículo Cuarto.- Los juicios para la constitución del patrimonio familiar que
 P.O. 26 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El Presente decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
