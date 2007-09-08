@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2007-05-12"
+last_updated: "2007-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -473,9 +473,11 @@ III. Proceder a la entrega-recepción de la situación que guarda la administrac
 
 ### CAPÍTULO III. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS Y SUS COMISIONES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 37.
 
-La organización y funcionamiento del ayuntamiento será determinada de conformidad con esta Ley y el reglamento que para tal efecto se expida, mismo que deberá prever las facultades y obligaciones de los funcionarios que la administración pública municipal requiera.
+La organización y funcionamiento del ayuntamiento y de la administración pública municipal será determinada de conformidad con esta Ley y el Reglamento del Gobierno Municipal que para tal efecto expida el ayuntamiento respectivo.
 
 ###### ARTICULO 38.
 
@@ -501,7 +503,9 @@ Cuando los acuerdos se refieran a normas de carácter general que sean de observ
 
 Para estudiar, examinar y resolver los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos, los cabildos funcionarán mediante comisiones integradas cada una por tres de sus miembros, procurando que reflejen la pluralidad y proporcionalidad de sus integrantes. Cada comisión tendrá un presidente y dos secretarios, a excepción de la de hacienda que estará integrada por cinco miembros y será presidida por la primera minoría.
 
-La denominación de las comisiones, sus características, obligaciones y facultades, serán establecidas en los reglamentos que para tal efecto expidan los cabildos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+La denominación de las comisiones, sus características, obligaciones y facultades, serán establecidas en el Reglamento del Gobierno Municipal que para tal efecto expida el ayuntamiento.
 
 Las comisiones pueden ser permanentes y transitorias y bajo ninguna circunstancia pueden tener facultades ejecutivas. De acuerdo a las posibilidades presupuestales de los ayuntamientos, las comisiones dispondrán de recursos humanos y materiales para el mejor cumplimiento de sus funciones.
 
@@ -881,9 +885,11 @@ El Congreso, de conformidad con lo dispuesto por el artículo 87, fracción I, d
 
 ### CAPÍTULO X. DE LAS AUTORIDADES AUXILIARES
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 60.
 
-Las autoridades auxiliares municipales actuarán en sus respectivas jurisdicciones como representantes de los ayuntamientos y, por consiguiente, tendrán las atribuciones que sean necesarias para mantener el orden, la tranquilidad y la seguridad de los vecinos del lugar donde actúen. Ejercerán atribuciones administrativas conforme lo determine el reglamento de la administración pública municipal.
+Las autoridades auxiliares municipales actuarán en sus respectivas jurisdicciones como representantes de los ayuntamientos y, por consiguiente, tendrán las atribuciones que sean necesarias para mantener el orden, la tranquilidad y la seguridad de los vecinos del lugar donde actúen. Ejercerán atribuciones administrativas conforme lo determine el Reglamento del Gobierno Municipal.
 
 ###### ARTICULO 61.
 
@@ -1507,6 +1513,8 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 110.
 
 La planeación constituye la base de la administración pública municipal y tiene como sustento el sistema de planeación democrática, previsto en la Constitución General, en la Constitución, en la Ley de Planeación del Estado y en esta Ley.
@@ -1553,73 +1561,107 @@ Los actos de preparación del plan y programas estarán a cargo de los consejos 
 
 ###### ARTICULO 116.
 
-Los ayuntamientos están facultados para elaborar, expedir, reformar, adicionar y abrogar los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general y obligatoria en el municipio, en los términos siguientes:
+Los Ayuntamientos están facultados para aprobar, de acuerdo con esta Ley, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen el gobierno y la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal.
 
-I. Respetar las disposiciones de la Constitución General y de la Constitución, así como las leyes federales o estatales, con estricta observancia de las garantías individuales;
+Los ordenamientos jurídicos anteriores podrán reformarse cuando se cumplan con los requisitos de discusión, aprobación, promulgación y publicación por parte del Ayuntamiento.
 
-II. Delimitación de la materia que regulan;
-
-III. Sujetos obligados;
-
-IV. Objeto sobre el que recae la reglamentación;
-
-V. Derechos y obligaciones de los habitantes;
-
-VI. Autoridad responsable de su aplicación;
-
-VII. Facultades y obligaciones de las autoridades;
-
-VIII. Los procedimientos administrativos que deben seguirse para la obtención de permisos, licencias y autorizaciones municipales;
-
-IX. Sanciones y procedimiento para la imposición de las mismas; y
-
-X. Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
-
-Los ordenamientos a que se refiere este artículo, serán aprobados por los cabildos y publicados en el periódico oficial.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 117.
 
-Los procedimientos a que se refiere la fracción VIII del artículo anterior, deberán regularse en cada uno de los reglamentos y disposiciones municipales relativas y contendrán, como mínimo:
+El derecho de iniciar o reformar bandos, reglamentos y disposiciones administrativas de observancia general, compete a:
 
-I. La dependencia municipal encargada de la tramitación;
+I.- El Presidente Municipal;
 
-II. La autoridad competente para emitir la resolución respectiva;
+II.- El Síndico;
 
-III. Los requisitos y condiciones que deban satisfacerse, así como los formularios y documentación necesarios;
+III.- Los Regidores;
 
-IV. Plazos para que la autoridad competente emita su resolución; y
+IV.- Las autoridades auxiliares municipales;
 
-V. Costo de los derechos municipales, en su caso.
+V.- Los organismos de participación ciudadana y vecinal que se constituyan en cada Municipio de conformidad con el reglamento respectivo, y
 
-Con el propósito de que la población conozca con claridad y oportunidad los diversos procedimientos administrativos, las dependencias municipales les darán amplia publicidad, por los medios que consideren adecuados.
+VI.- Los ciudadanos del Municipio de conformidad con lo dispuesto por el artículo 96 de la Constitución.
+
+Las iniciativas se sujetarán al trámite que al efecto disponga el Reglamento del Gobierno Municipal. Los ordenamientos jurídicos municipales y sus reformas, para ser obligatorios, deberán ser publicados en el Periódico Oficial del Estado. Adicionalmente las dependencias municipales les darán la más amplia difusión por los medios que consideren adecuados.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 118.
 
-Los ayuntamientos expedirán, ente otros, los siguientes reglamentos:
+Los Ayuntamientos expedirán para su respectiva jurisdicción el Reglamento del Gobierno Municipal que deberá regular cuando menos las siguientes materias:
 
-I. El general de cada ayuntamiento;
+I.- La organización y funcionamiento del Cabildo:
 
-II. El de cabildo;
+a) Atribuciones, funciones y responsabilidades de los munícipes;
 
-III. El de la administración pública municipal centralizada y paramunicipal;
+b) Sesiones de Cabildo;
 
-IV. El de los servicios públicos municipales;
+c) Comisiones, y
 
-V. Los de desarrollo urbano;
+d) Procedimiento de reglamentación municipal.
 
-VI. Los de ecología;
+II.- La organización, funcionamiento y distribución de competencias de la administración pública municipal centralizada:
 
-VII. El de salud pública, previa coordinación con la autoridad estatal;
+a) Estructura orgánica, y
 
-VIII. El que regule la participación ciudadana y vecinal;
+b) Atribuciones, funciones y responsabilidades de las dependencias municipales.
 
-IX. El que regule las actividades de los habitantes del municipio, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria; y
+III.- La organización y funcionamiento de las autoridades auxiliares municipales:
 
-X. Los demás que sean necesarios para dar cumplimiento a las leyes municipales.
+a) Procedimiento de elección, y
+
+b) Atribuciones, funciones y responsabilidades de las autoridades auxiliares.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 119.
 
-Los municipios que no cuenten con bandos de policía y gobierno, reglamentos y disposiciones administrativas de observancia general y obligatoria, aplicarán las disposiciones similares de los municipios de Colima o Manzanillo. En cada caso, el cabildo expedirá el acuerdo correspondiente, que deberá publicarse en el periódico oficial.
+Sin perjuicio de lo dispuesto en el artículo anterior los Ayuntamientos expedirán en el ámbito de su competencia, entre otros, los siguientes reglamentos:
+
+I.- Los que regulen a los organismos que integran a la administración pública paramunicipal;
+
+II.- Los que regulen la prestación de los servicios públicos municipales;
+
+III.- Los que regulen la zonificación, planeación y desarrollo urbano de conformidad con las bases establecidas en las leyes estatales en la materia;
+
+IV.- Los que regulen la protección al ambiente y la ecología;
+
+V.- Los que garanticen la transparencia gubernamental y el ejercicio del derecho de acceso a la información pública municipal;
+
+VI.- Los relativos a salud pública y educación, previa coordinación con la autoridad estatal;
+
+VII.- Los que estructuren los organismos de participación ciudadana y vecinal;
+
+VIII.- Los que regulen las actividades de los habitantes del Municipio y establecen la relación del Ayuntamiento con los particulares, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria; y
+
+IX.- Los demás que sean necesarios para dar cumplimiento a las leyes municipales.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 119 BIS.- Los ordenamientos jurídicos que regulen materias, procedimientos, funciones y servicios públicos a cargo del Municipio deberán contener como mínimo las disposiciones sobre:
+
+I.- Materia que regulan;
+
+II.- Fines que persiguen;
+
+III.- Atribuciones de las autoridades competentes;
+
+IV.- Derechos y obligaciones de las personas;
+
+V.- Procedimiento para la obtención de licencias, permisos o autorizaciones;
+
+VI.- Faltas e infracciones;
+
+VII.- Sanciones; y
+
+VIII.- Vigencia.
+
+Los Ayuntamientos vigilarán que los ordenamientos jurídicos municipales que al efecto expidan o reformen guarden concordancia con las disposiciones de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 119 TER.- Todos los municipios deberán contar con el Reglamento del Gobierno Municipal y con aquellos ordenamientos que sean necesarios para el cumplimiento de sus fines. Sin menoscabo de esta obligación aquellos Municipios que no cuenten con bandos de policía y gobierno, reglamentos y disposiciones administrativas de observancia general y obligatoria, aplicarán las disposiciones similares de los municipios de Colima o Manzanillo. En cada caso, el Cabildo expedirá el acuerdo correspondiente, que deberá publicarse en el Periódico Oficial.
 
 ## TÍTULO SÉPTIMO. DEL PROCESO CONTENCIOSO MUNICIPAL
 
@@ -1800,3 +1842,9 @@ TERCERO.- Para el caso de la aprobación por el Cabildo y su remisión al Congre
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos expedirán el Reglamento del Gobierno Municipal que corresponda a su jurisdicción en un plazo no mayor de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
