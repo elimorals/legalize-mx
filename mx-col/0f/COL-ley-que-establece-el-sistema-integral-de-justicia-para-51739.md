@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2006-09-09"
+last_updated: "2007-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -333,9 +333,11 @@ En los casos de consignación con detenido o cuando se haya otorgado al menor la
 
 Si se ratifica la detención, el Juez analizará la procedencia del beneficio y el monto o naturaleza de la caución otorgada, pudiendo modificar las condiciones o revocar el beneficio cuando se trate de delito grave que no admita libertad provisional, debiendo el Ministerio Público entregar al Juez, con la consignación, el monto de la caución en efectivo, el acta de hipoteca o la póliza de la fianza exhibida por el infractor.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 34.
 
-Por su clara antijuricidad, la tendencia criminal de su autor y la intensidad del daño que causan, se consideran como delitos graves, que no alcanzan libertad caucional y que legitiman la detención provisional o las medidas de internamiento de menores infractores: el homicidio simple o calificado; las lesiones dolosas que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o una incapacidad total y permanente para trabajar, así como las lesiones que ponen en peligro la vida, la privación ilegal de libertad y el secuestro; la violación en todas sus formas y modalidades; el robo con violencia en las personas, en lugar habitado; aprovechando catástrofes o desórdenes públicos y el realizado por dos o más personas empleando premeditación o asechanza; el abigeato cometido con violencia o en grupos de dos o más personas, y la asociación delictuosa en su forma de delincuencia organizada.
+Por su clara antijuricidad, la tendencia criminal de su autor y la intensidad del daño que causan, se consideran como delitos graves, que no alcanzan libertad caucional y que legitiman la detención provisional o las medidas de internamiento de menores infractores: el homicidio simple o calificado; las lesiones dolosas que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o una incapacidad total y permanente o Incapacidad parcial y permanente para trabajar, así como las lesiones que ponen en peligro la vida, la privación ilegal de libertad y el secuestro; la violación en todas sus formas y modalidades; el robo con violencia en las personas, en las cosas o en el lugar habitado; el robo de vehículo de motor; así como el robo aprovechando catástrofes o desórdenes públicos y el realizado por dos o más personas empleando premeditación o asechanza; el abigeato cometido con violencia o en grupos de dos o más personas, y la asociación delictuosa en su forma de delincuencia organizada; igualmente se consideran graves los delitos de tentativa de homicidio simple o calificado; la de secuestro, así como la tentativa de robo en lugar habitado y de vehículo de motor y la tentativa de violación en todas sus formas y modalidades.
 
 ###### Artículo 35.
 
@@ -989,6 +991,14 @@ V. Recluirse a partir de las diez de la noche en su domicilio, salvo autorizaci�
 
 VI. Sujetarse a las medidas de orientación y supervisión que se le impongan.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTEIMBRE DE 2007)</small>
+
+El beneficio a que se refiere este artículo, en todo caso se otorgará previa caución que así determine el Instituto, misma que no excederá en ningún caso y por ningún motivo, de cien unidades de salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTEIMBRE DE 2007)</small>
+
+Cuando el infractor dejare de cumplir con las obligaciones descritas en las fracciones anteriores sin causa justificada, se revocará el beneficio concedido y se perderá la garantía otorgada en beneficio del Estado en los términos de la Ley respectiva.
+
 ###### Artículo 137.
 
 Cuando el infractor viole alguna de las condiciones de la libertad condicional, el Instituto decidirá si se le apercibe por una sola vez con revocarle el beneficio en caso de reincidencia o, atendiendo a la gravedad de la violación, si deja sin efecto la libertad condicional y ordena el internamiento del menor por todo el tiempo que faltaba para el cumplimiento de la medida.
@@ -1034,3 +1044,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al (sic) día 30 del mes de agosto del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA, LIC. ARTURO DÍAZ RIVERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
