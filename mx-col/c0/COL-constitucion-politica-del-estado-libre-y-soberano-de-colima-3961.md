@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2006-10-07"
+last_updated: "2007-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -277,9 +277,9 @@ I.- Del orden federal, las que determine la Constitución General de la Repúbli
 
 II.- Reformar esta Constitución previos los requisitos que ella misma establece; legislar sobre todos los ramos de la administración o gobierno interiores que sean de la competencia del Estado, conforme a la Constitución Federal; así como también reformar, abrogar y derogar las leyes que expidiere;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
-III.- Aprobar anualmente, a más tardar el 31 de diciembre, la ley de ingresos y el presupuesto de egresos del Estado así como las leyes de ingresos de los municipios del año siguiente y decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los gobiernos estatal y municipales. Si en la fecha mencionada no hubieren sido aprobados los ordenamientos referidos, quedarán en vigor sin modificaciones en forma provisional los del año en curso, hasta en tanto sean aprobados los nuevos ordenamientos;
+III.- Aprobar anualmente, a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada seis años para el caso del cambio de gobierno del ejecutivo del Estado, la Ley de Ingresos y Presupuesto de Egresos del Estado, así como a más tardar el 30 de noviembre, y en su caso, hasta el 15 de diciembre de cada tres años para el caso del cambio de gobierno municipal, las leyes de ingresos de los municipios del año siguiente y decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los Gobiernos Estatal y Municipales. Si en la fecha mencionada no hubieren sido aprobados los ordenamientos referidos, quedarán en vigor sin modificaciones en forma provisional los del año en curso, hasta en tanto sean aprobados los nuevos ordenamientos;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -689,9 +689,9 @@ XIV.- Conceder indultos y reducir y conmutar penas conforme a la ley.
 
 XV.- Celebrar convenios con los Gobiernos Federal y de los Estados para que los reos sentenciados por delitos del orden común, puedan cumplir sus sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
-XVI.- Remitir cada año para su aprobación al Congreso del Estado, en la primera quincena del mes de diciembre, los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado.
+XVI.- Remitir cada año para su aprobación al Congreso del Estado, a más tardar el 31 de octubre, y en su caso, hasta el 15 de noviembre de cada seis años, cuando con motivo del cambio de gobierno del Ejecutivo del Estado, los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -779,7 +779,7 @@ XXXIX.- Organizar y conducir la planeación democrática del desarrollo del Esta
 
 > <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-XL.- Promover el desarrollo del Estado en materia económica, social y cultural;
+XL.- Promover el desarrollo del Estado en materia económica, social y cultural.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
 
@@ -1075,11 +1075,11 @@ Para la investigación de los delitos y persecución de los delincuentes, la Pro
 
 El Procurador General de Justicia será nombrado y removido libremente por el Ejecutivo del Estado, de quien dependerá en forma directa. El nombramiento y remoción de los demás servidores públicos de esta Institución será conforme a lo dispuesto por su propia ley orgánica.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 83.
 
-Para ser Procurador General de Justicia y Sub-procurador, se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+Para ser Procurador General de Justicia y Sub-Procurador se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, a excepción de la edad, que no será menor de 30 años y, del título profesional de licenciado en derecho, con antigüedad mínima de cinco años, expedida (sic) por autoridad o institución legalmente facultada para ello.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -1469,11 +1469,11 @@ De acuerdo a las posibilidades presupuestales de los Ayuntamientos, las comision
 
 Las renuncias y licencias de los munícipes, se admitirán y concederán por los respectivos Cabildos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 94.
 
-Los Ayuntamientos estarán obligados a remitir anualmente al Congreso del Estado para su aprobación, sus proyectos de leyes de ingresos, durante la primera quincena del mes de noviembre.
+Los Ayuntamientos, estarán obligados a remitir anualmente al Congreso del Estado para su aprobación sus proyectos de leyes de ingresos, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, cuando con motivo del cambio de gobierno municipal.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
@@ -1721,11 +1721,11 @@ Contra los funcionarios Públicos de que habla el artículo 74, fracción III s�
 
 Lo dispuesto en el artículo anterior se observará desde que los funcionarios entren en el ejercicio de su cargo, aún por delitos cometidos con anterioridad.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 125.
 
-Todos los Funcionarios Públicos a que se refiere el artículo 139 de esta Constitución, que estén separados de su cargo con licencia, gozarán de fuero Constitucional.
+Los funcionarios públicos a que se refiere el artículo 121 de esta Constitución dejarán de gozar de fuero constitucional o de cualquier otra inmunidad procesal al momento de concluir sus funciones por el período legal para el que fueron electos o designados, así como por la separación de su cargo bajo cualquier modalidad, inclusive por la licencia que al efecto se les conceda.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
@@ -1819,11 +1819,11 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 
 Todo cargo o empleo público es incompatible con cualquiera de la Federación, del Estado, de los Municipios o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, exceptuándose los de los ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 139.
 
-Los Diputados, el Gobernador y los munícipes gozan de fuero desde la declaración de validez de su elección. Los Magistrados del Supremo Tribunal de Justicia, los Secretarios de la Administración Pública Estatal y el Procurador General de Justicia, gozan de fuero desde el día en que tomen posesión de sus cargos.
+Los Diputados y Munícipes Propietarios y el Gobernador del Estado gozan de fuero desde la declaración de validez de su elección. Los Diputados y Munícipes Suplentes desde el momento que asuman la titularidad y ejerzan la función. Los Magistrados del Poder Judicial, del Tribunal Electoral, el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, el Presidente de la Comisión de Derechos Humanos, así como los Consejeros Electorales del Instituto Electoral del Estado, gozarán del fuero desde el día en que tomen posesión de sus cargos y durante su ejercicio.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -1964,6 +1964,26 @@ XI.- El Estado, con la participación de los sectores público, social y privado
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
 XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa del Estado y de los Municipios, tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 1° Bis.
+
+El derecho a la información se regirá por los siguientes principios y bases:
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+IV. Se establecerán mecanismos de acceso a la información y procedimiento de revisión expeditos. Estos procedimientos se sustanciarán ante órganos u organismos especializados e imparciales, y con autonomía operativa, de gestión y de decisión.
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas física o morales.
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 ###### Artículo 2°.
 
@@ -2656,6 +2676,10 @@ P.O. 15 DE MAYO DE 2006.
 P.O. 7 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
