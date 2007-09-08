@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2007-07-14"
+last_updated: "2007-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -245,9 +245,93 @@ El Gobernador, coordinadamente con la Secretaría de Salud podrá convenir con l
 
 Corresponde a los Ayuntamientos:
 
-I.- Asumir las atribuciones que se le deleguen en términos de esta Ley y de los convenios que se suscriban; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
-II.- Formular y desarrollar programas municipales de la materia en el marco de los sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de los planes Nacional, Estatal y Municipal de Desarrollo.
+I. Asumir las atribuciones que se le deleguen en términos de esta Ley y de los convenios que se suscriban;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+II. Formular y desarrollar programas municipales de la materia en el marco de los Sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+III. Determinar y ejercer en el ámbito de su competencia en coordinación con la secretaria (sic), los medios de control y vigilancia necesarios para evitar y prevenir el uso y consumo así como la venta y utilización indebida de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, cuando se trate de menores de edad e incapaces, en los términos del Reglamento que para tal efecto el Gobierno Municipal expida.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 12 BIS.- Para los efectos de la fracción tercera del artículo anterior se considerarán a demás de los señalados en la ley General, en esta Ley, y en su caso, en el Reglamento Municipal respectivo como inhalantes con efectos psicotrópicos las siguientes sustancias:
+
+a).- Materias primas que se utilizan en la industria aisladamente o en combinación:
+
+1. Hidrocarburos.
+
+2. Hidrocarburos halgenados.
+
+3. Hidrocarburos nitrados.
+
+4. Esteres.
+
+5. Cetonas.
+
+6. Alcoholes.
+
+7. Esteres Glicoeteres.
+
+b).- Productos terminados que contengan alguna de las materias del inciso anterior:
+
+1. Adelgasadores (sic). (conocidos como thineres).
+
+2. Adhesivos, pegamentos o cementos.
+
+3. Pinturas.
+
+4. Barnices.
+
+5. Lacas.
+
+6. Esmaltes.
+
+7. Gasolinas.
+
+8. Removedores.
+
+9. Desengrasantes.
+
+10. Selladores.
+
+11. Aerosoles.
+
+12, Anticongelantes.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 12 BIS 1.- A fin de prevenir y combatir el uso y consumo por inhalación de las sustancias señaladas en el artículo anterior, los expendedores deberán sujetar sus actos a las siguientes medidas de control sanitario:
+
+I. La prohibición de su venta a menores de edad e incapaces; y
+
+II. Colocar en un lugar visible dentro de su establecimiento un letrero con la siguiente leyenda: "PROHIBIDA LA VENTA A MENORES DE EDAD DE SUBSTANCIAS TÓXICAS CUYO CONSUMO POR CUALQUIER VÍA O INHALACIÓN PROLONGADA O REITERADA, ORIGINE GRAVES DAÑOS PARA LA SALUD".
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 12 BIS 2.- Los Ayuntamientos conjuntamente con las autoridades educativas y de salud en el Estado llevarán a cabo una campaña de orientación para evitar que en los trabajos escolares se empleen o se le haga algún uso indebido de alguna de las substancias señaladas en el artículo 12 Bis de esta Ley.
+
+De igual forma, los inspectores municipales promoverán y llevarán a cabo campañas permanentes de información y orientación al público en general, para la prevención de daños a la salud provocadas por el consumo de substancias inhalantes, a través de foros de información y publicaciones periódicas al respecto.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 12 BIS 3.- Los Ayuntamientos en los términos del Reglamento que al efecto expida, por conducto de su personal autorizado deberán:
+
+I. Verificar periódicamente que en los centros de trabajo donde se utilicen sustancias inhalantes con efectos psicotrópicos no empleen a menores de catorce años de edad o incapaces, salvo que siendo mayor de catorce y menor de dieciséis años cuente con autorización de su representante legal y en su caso a falta de esta la autoridad laboral correspondiente;
+
+II. Evitar en la medida de lo posible a través de programas y acciones de gobierno implementadas en el ámbito de su competencia que los menores de edad y los incapaces utilicen con fines tóxicos las sustancias referidas en el artículo 12 Bis de esta Ley;
+
+III. Supervisar que los establecimientos en donde se expenda cualquiera de las sustancias comprendidas en el artículo a que hace referencia el párrafo anterior, cuenten con los permisos y licencias correspondientes, los cuales deberán estar en lugar visible al público;
+
+IV. Requerir los registros de venta que sobre las sustancias señaladas en el artículo 12 Bis de esta Ley realicen los establecimientos del ramo, en donde se especifique nombre, domicilio, sustancia y cantidad vendida a su cliente.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 12 BIS 4.- Las contravenciones a las disposiciones contenidas en los artículos 12 BIS1 al 12 BIS3 darán lugar a las medidas de seguridad y a las sanciones que se señalan en la presente ley, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos o conlleven en sí la violación a otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 13.
 
@@ -1388,3 +1472,7 @@ P.O. 2 DE SEPTIEMBRE DE 2006.
 P.O. 14 DE JULIO DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
