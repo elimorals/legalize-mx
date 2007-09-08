@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2007-07-05"
+last_updated: "2007-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1065,7 +1065,9 @@ Son facultades y obligaciones del Gobernador del Estado:
 
 I. Promulgar, ejecutar, hacer que se ejecuten las leyes y ejercer en su caso, la facultad de hacer observaciones a las mismas en los términos y plazos que establece esta Constitución;
 
-II. Presentar cada año al Congreso, a más tardar el día quince de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+
+II. Presentar cada año al Congreso, a más tardar el día 1° de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente;
 
 III. Rendir por escrito al Congreso, el día primero de febrero de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;
 
@@ -1993,9 +1995,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -2015,11 +2017,11 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO I. Prevenciones generales
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
-
 ### CAPITULO II. De las reformas a la Constitución
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2125,13 +2127,13 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
-
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2652,3 +2654,9 @@ TERCERO.- Las reformas al artículo 56 de la Constitución Política del Estado,
 P.O. 5 DE JULIO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 8 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Notifíquese a los municipios de Jalisco sobre la propuesta de reforma constitucional, para los efectos legales correspondientes.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
