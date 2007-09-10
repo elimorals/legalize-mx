@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-10186"
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-01"
-last_updated: "2005-08-08"
+last_updated: "2007-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 10 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 1 de septiembre de 1994.
 
@@ -2384,3 +2386,37 @@ El presente Decreto entrará en vigor a los sesenta días siguientes al de su pu
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los sesenta días siguientes a la publicación del presente Decreto, el Gobernador del Estado deberá crear la Administración del Patrimonio de la Beneficencia Pública Estatal, adscrita al organismo público descentralizado denominado Servicios de Salud de Michoacán, con atribuciones para normar y operar el Sistema Estatal de Cuotas de Recuperación, así como para vigilar su cumplimiento, reformando, en lo conducente, las disposiciones administrativas.
+
+P.O. 10 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los noventa días siguientes al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Salud del Estado de Michoacán, publicada en el Periódico Oficial del Estado el 1 de septiembre de 1994.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan, y sus referencias a la Ley de Salud que se abroga, se entienden hechas, en lo aplicable a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las autorizaciones sanitarias que se hubieren expedido con anterioridad al inicio de vigencia de la presente Ley, serán válidas por tiempo indefinido, con la modalidad de que cuando cambien de razón social, domicilio o propietario deberán ser renovadas.
+
+###### ARTÍCULO QUINTO.
+
+Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Todos los actos, procedimientos y recursos administrativos que se hubiesen iniciado con anterioridad a la entrada en vigor de la presente Ley, se substanciarán conforme a las disposiciones de la Ley que se abroga.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expidan los reglamentos que se deriven de esta Ley, seguirán aplicándose los reglamentos federales y las normas de la Secretaría.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
