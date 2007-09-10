@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2005-del-pleno-del-consejo-de-la-51636"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-02-08"
-last_updated: "2005-02-08"
+last_updated: "2007-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-01-19"
 
 ACUERDO GENERAL 3/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DEJA SIN EFECTOS EL CARACTER IMPERATIVO DEL DIVERSO 87/2003, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 29/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de febrero de 2005.
 
@@ -74,3 +76,13 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 3/2005, del Pleno del Consejo de la Judicatura Federal, por el que se Deja Sin Efectos el Carácter Imperativo del Diverso 87/2003, que establece el Uso Obligatorio del Módulo de Captura del Sistema Integral de Seguimiento de Expedientes, relativo a las Sentencias Dictadas en los Tribunales de Circuito y Juzgados de Distrito fue aprobado por el Pleno del propio Consejo, en sesión de diecinueve de enero de dos mil cinco, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez, en contra del voto emitido por el Consejero Luis María Aguilar Morales.- México, Distrito Federal, a diecinueve de enero de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 10 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el uno de noviembre de dos mil siete.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 87/2003, 3/2005 y 15/2005 del Pleno del Consejo de la Judicatura Federal y se derogan todas las disposiciones emitidas por el propio Consejo, que se opongan al presente Acuerdo.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
