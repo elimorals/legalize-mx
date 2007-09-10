@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2007-05-11"
+last_updated: "2007-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -1767,17 +1767,23 @@ II.- El órgano electoral correspondiente notificará, capacitará y evaluará a
 
 III.- El Consejo Electoral respectivo, hará una relación de los ciudadanos con las mejores calificaciones de estos cursos y éstos serán insaculados para designar al Presidente, Secretario, dos Escrutadores y sus suplentes comunes;
 
-IV.- Si cuarenta y cinco días naturales antes de la elección de que se trate y aplicadas las medidas anteriores no fuesen suficientes los ciudadanos para ocupar todos los cargos, a propuesta del Presidente del Consejo respectivo, se convocará, capacitará, evaluará y designará, a los funcionarios faltantes de entre aquellos ciudadanos que aparezcan en la lista nominal de electores correspondientes; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- Si sesenta días naturales antes de la Elección de que se trate y aplicadas las medidas anteriores no fuesen suficientes los ciudadanos para ocupar todos los cargos, a propuesta del Presidente del Consejo respectivo, se convocará, capacitará, evaluará y designará, a los funcionarios faltantes de entre aquellos ciudadanos que aparezcan en la lista nominal de electores correspondientes; y
 
 V.- A más tardar quince días después de la insaculación, los Consejos Electorales respectivos iniciarán con los cursos de capacitación.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 111.
 
-Integradas las mesas directivas de casillas en los términos del artículo 110 de esta Ley y treinta días naturales antes de la fecha de elecciones de Gobernador, Diputados o de Ayuntamientos, los Consejos Distritales o Municipales electorales, publicarán en sus respectivas demarcaciones y en los diarios de mayor circulación del Estado, una relación que indique: la sección electoral, la ubicación, número y cantidad de casillas electorales que se instalarán, así como los nombres de sus integrantes.
+Integradas las mesas directivas de casillas en los términos del Artículo 110 de esta Ley y cincuenta y cinco días naturales antes de la fecha de elecciones de Gobernador, Diputados o de Ayuntamientos, los Consejos Distritales o Municipales Electorales, publicarán en sus respectivas demarcaciones y en los diarios de mayor circulación del Estado, una relación que indique: La sección electoral, la ubicación, número y cantidad de casillas electorales que se instalarán, así como los nombres de sus integrantes.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 112.
 
-Quince días naturales después de la primera publicación, el Consejo Distrital o Municipal publicará la lista definitiva de las casillas, su ubicación y sus integrantes, con las modificaciones procedentes.
+Cuarenta días naturales antes de la elección, el Consejo Distrital o Municipal Publicará la lista definitiva de las casillas, su ubicación y sus integrantes, con las modificaciones procedentes.
 
 ###### Artículo 113.
 
@@ -3396,3 +3402,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2007.
+
+UNICO.- El presente Decreto, entrará en vigor el día siguiente de su Publicación, en el Periódico Oficial del Estado.
