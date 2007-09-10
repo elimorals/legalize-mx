@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-87-2003-del-pleno-del-consejo-de-la-4478
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-12-12"
-last_updated: "2005-05-20"
+last_updated: "2007-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,9 @@ issue_date: "2003-12-03"
 
 ACUERDO GENERAL 87/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO GENERAL 15/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 2005, SE MODIFICA EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 29/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 3/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE FEBRERO DE 2005, DEJA SIN EFECTOS EL PRESENTE ORDENAMIENTO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de diciembre de 2003.
 
@@ -100,3 +98,11 @@ TERCERO.- La Dirección General de la Coordinación de Compilación y Sistematiz
 CUARTO.- En el módulo de Tesis del Sistema Integral de Seguimiento de Expedientes (SISE), deberá continuarse con la captura de las tesis aprobadas por cada uno de los tribunales colegiados de Circuito, a fin de que los demás órganos jurisdiccionales puedan imponerse de su contenido, sin perjuicio de lo dispuesto en el numeral 195, fracciones II y III, de la Ley de Amparo.
 
 QUINTO.- La Unidad de Estadística y Planeación Judicial será la responsable de vigilar el correcto funcionamiento del Sistema y del cumplimiento a lo establecido en el presente acuerdo.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el uno de noviembre de dos mil siete.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 87/2003, 3/2005 y 15/2005 del Pleno del Consejo de la Judicatura Federal y se derogan todas las disposiciones emitidas por el propio Consejo, que se opongan al presente Acuerdo.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
