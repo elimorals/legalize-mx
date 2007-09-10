@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-15-2005-del-pleno-del-consejo-de-la-4478
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2007-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-04-13"
 
 ACUERDO GENERAL 15/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO 87/2003, QUE ESTABLECE EL USO OBLIGATORIO DEL MODULO DE CAPTURA DEL SISTEMA INTEGRAL DE SEGUIMIENTO DE EXPEDIENTES, RELATIVO A LAS SENTENCIAS DICTADAS EN LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 29/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 20 de mayo de 2005.
 
@@ -86,3 +88,13 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 TERCERO.- La Unidad de Estadística y Planeación Judicial, otorgará a la Dirección General de la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación, las claves de acceso necesarias para consulta de las sentencias y tesis, y deberá presentar un informe a la Comisión de Administración, sobre el cumplimiento del presente acuerdo en el término de 90 días naturales, contados a partir del día de su publicación.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Acuerdo General 15/2005, del Pleno del Consejo de la Judicatura Federal, que Modifica el Diverso 87/2003, que Establece el Uso Obligatorio del Módulo de Captura del Sistema Integral de Seguimiento de Expedientes, Relativo a las Sentencias Dictadas en los Tribunales de Circuito y Juzgados de Distrito, fue aprobado por el Pleno del Consejo, en sesión de trece de abril de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a trece de abril de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 10 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente acuerdo entrará en vigor el uno de noviembre de dos mil siete.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 87/2003, 3/2005 y 15/2005 del Pleno del Consejo de la Judicatura Federal y se derogan todas las disposiciones emitidas por el propio Consejo, que se opongan al presente Acuerdo.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
