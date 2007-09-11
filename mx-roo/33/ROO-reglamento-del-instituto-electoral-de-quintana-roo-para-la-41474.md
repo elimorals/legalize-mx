@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-instituto-electoral-de-quintana-roo-para-la-4147
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-14"
-last_updated: "2004-10-14"
+last_updated: "2007-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO, PARA LA FISCALIZACION DEL ORIGEN, MONTO, APLICACION Y EMPLEO DE LOS RECURSOS QUE LOS PARTIDOS POLITICOS Y COALICIONES UTILICEN CON MOTIVO DE LAS PRECAMPAÑAS QUE EFECTUEN PARA ELEGIR A SUS CANDIDATOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA LA FISCALIZACION DE LOS RECURSOS UTILIZADOS EN LAS PRECAMPAÑAS QUE LLEVEN A CABO LOS PARTIDOS POLITICOS Y COALICIONES., PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de octubre de 2004.
 
@@ -322,3 +324,21 @@ C. JORGE ELROD LÓPEZ CASTILLO.
 SECRETARIO GENERAL
 
 El QUE SUSCRIBE CIUDADANO LICENCIADO JORGE ELROD LÓPEZ CASTILLO, EN MI CALIDAD DE SECRETARIO GENERAL DEL INSTITUTO ELECTORAL DE QUINTANA ROO, CON FUNDAMENTO EN LO DISPUESTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO:-------------------------------------CERTIFICÓ ----------------------------------------QUE LA PRESENTE COPIA FOTOSTÁTICA CONCUERDA FIEL Y EXACTAMENTE CON SU ORIGINAL, Y SE EXPIDE EN VEINTITRÉS FOJAS ÚTILES A UNA CARA, DEBIDAMENTE SELLADAS Y COTEJADAS, PARA LOS EFECTOS LEGALES CONDUCENTES.------------------------------------------- SE EXTIENDE LA PRESENTE EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS OCHO DÍAS DEL MES DE OCTUBRES DEL AÑO DOS MIL CUATRO. -------------------------------
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día de su aprobación por el Consejo General del Instituto Electoral de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto Electoral de Quintana Roo, para la fiscalización del origen, monto, aplicación y empleo de los recursos que los partidos políticos y coaliciones utilicen con motivo de las precampañas que efectúen para elegir a sus candidatos.
+
+TERCERO.- La fiscalización a los recursos que los partidos políticos o coaliciones obtengan para realizar sus precampañas en el ejercicio dos mil siete, se llevará a cabo conforme a lo dispuesto por el presente Reglamento.
+
+CUARTO.- Se instruye a la Dirección de Partidos Políticos, para que los informes sobre el origen, monto y empleo de los recursos, así como la documentación comprobatoria respectiva de los aspirantes a candidatos que contendieron al interior de los Partidos Políticos Nacionales Revolucionario Institucional, de la Revolución Democrática y del Trabajo en el contexto del proceso electoral local ordinario 2004-2005, les sea devuelta en términos del artículo 51 del presente Reglamento.
+
+QUINTO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo para su debida difusión y conocimiento público.
+
+SEXTO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
+
+SÉPTIMO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Quintana Roo, para los efectos conducentes.
