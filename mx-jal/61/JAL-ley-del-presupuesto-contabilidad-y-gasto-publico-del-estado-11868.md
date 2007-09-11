@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2006-07-18"
+last_updated: "2007-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -47,33 +47,27 @@ La presente ley tiene por objeto regular las acciones relativas a la planeación
 
 De igual forma, el titular del Poder Ejecutivo Estatal por conducto de la "Secretaría", dictará las normas para la aplicación e interpretación administrativa de esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 2.
 
 Para los efectos de esta ley se entenderá por:
 
-I. Secretaría: A la Secretaría de Finanzas;
+I. Secretaría: A la Secretaria de Finanzas;
 
-II. Dependencias: A las Secretarías y Dependencias del Poder Ejecutivo y sus Organismos Desconcentrados;
+II. Dependencias: A las secretarías y dependencias del Poder Ejecutivo y sus organismos desconcentrados;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
+III. Entidades: A los organismos descentralizados, empresas de participación estatal mayoritaria, y los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, entendiéndose como tales, los que define la Ley Orgánica del Poder Ejecutivo;
 
-III. Entidades: A los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, y los Fideicomisos Públicos en los que el fideicomitente sea el Gobierno del Estado, entendiéndose como tales, los que define la Ley Orgánica del Poder Ejecutivo;
+IV. El Comité: Al Comité Interno de Presupuesto del Poder Ejecutivo del Estado.
 
-IV. El Comité: Al Comité Interno de Presupuestación del Poder Ejecutivo del Estado.
+(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000) (REPUBLICADO, P.O. 11 DE SEPTIEMBRE DE 2007)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+V. Unidad Presupuestal: a los poderes Legislativo y Judicial, los organismos públicos autónomos, así como las dependencias y entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales por el Congreso. Se identifica con los dos primeros dígitos, de la clave presupuestal;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2000)</small>
+VI. Clave Presupuestal: Es la codificación completa que sistematiza la información del presupuesto de egresos de acuerdo con la clasificación administrativa, funcional, programática y económica. Esto es, identifica unidad presupuestal, organismo, programa de gobierno y partida, Así mismo, integra las asignaciones presupuéstales que resultan de las etapas de programación y presupuesto; y
 
-V. Unidad Presupuestal: A los Poderes Legislativo y Judicial, así como las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales por el Congreso. Se identifica con los dos primeros dígitos, de la clave presupuestal;
-
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2000)</small>
-
-VI. Clave Presupuestal: Es la codificación completa que sistematiza la información del Presupuesto de Egresos de acuerdo con la clasificación administrativa, funcional, programática y económica. Esto es, identifica unidad presupuestal, organismo, programa de gobierno y partida. Así mismo, integra las asignaciones presupuestarias que resultan de las etapas de programación y presupuesto;
-
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2000)</small>
-
-VII. Partida Presupuestal: Es la codificación terminal que, mediante los cuatro últimos dígitos de la clave presupuestal, identifica de manera concreta el concepto del que se trata, y se define en el Clasificador por objeto de gasto.
+VII. Partida Presupuestal: Es la codificación terminal que, mediante los cuatro últimos dígitos de la clave presupuestal, identifica de manera concreta el concepto del que se trata, y se define en el Clasificador por Objeto del Gasto.
 
 ###### Artículo 3.
 
@@ -83,15 +77,19 @@ El Comité Interno de Presupuestación del Poder Ejecutivo del Estado, es la ins
 
 El Presupuesto de Egresos de la entidad será el que contenga el decreto que apruebe el Congreso del Estado, a iniciativa del titular del Poder Ejecutivo, autorizando las previsiones del gasto público que habrán de realizar las dependencias y entidades para costear durante el período de un año las acciones, obras y servicios públicos previstos en los programas a cargo de los responsables de ejercer el gasto público.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 5.
 
 Se entiende por gasto público, las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, transferencias, pagos de pasivo y deuda pública que realizan:
 
 I. El Poder Legislativo;
 
-II. El Poder Judicial; y
+II. El Poder Judicial:
 
-III. El Poder Ejecutivo, por conducto de sus Dependencias y Entidades.
+III. El Poder Ejecutivo, por conducto de sus dependencias y entidades; y
+
+IV. Los organismos públicos autónomos, que expresamente reconoce la Constitución Política del estado de Jalisco.
 
 ###### Artículo 6.
 
@@ -165,15 +163,21 @@ A la Iniciativa de Presupuesto de Egresos del Estado que presente el titular del
 
 En ningún caso, los Presupuestos de los Poderes Legislativo y Judicial podrán ser inferiores al ejercido el año inmediato anterior actualizado con base en la cifra oficial de inflación que publique el Banco de México.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 18.
 
-Los Poderes, al formular sus respectivos proyectos de presupuestos, lo harán cumpliendo con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado. Tanto el Legislativo como el Judicial, deberán enviar dichos proyectos al titular del Poder ejecutivo en la fecha señalada por el artículo 29 de esta Ley, para su consideración e inclusión en la iniciativa de presupuesto de egresos del Estado.
+Los poderes Legislativo y Judicial así como los organismos públicos autónomos al formular sus respectivos proyectos de presupuestos, lo harán cumpliendo con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad, atendiendo en todo momento las previsiones del ingreso y prioridades del Estado, quienes deberán enviar dichos proyectos al titular del Poder Ejecutivo en la fecha señalada por el artículo 29 de esta Ley, para su consideración e inclusión en la iniciativa de presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 Los proyectos de presupuestos a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen todos los empleos públicos, con inclusión de los diputados, magistrados y consejeros del Poder Judicial, según corresponda, así como las remuneraciones que, por concepto de salarios y prestaciones de ley, les sean asignadas a estos servidores públicos.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
 Los proyectos de presupuesto deben contener el desglose de los diferentes rubros en que se dividan, así como de las partidas que representen las autorizaciones específicas del presupuesto.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 Todos los entes públicos, contemplarán en los presupuestos correspondientes, de acuerdo a la disponibilidad de sus recursos, una asignación presupuestal destinada a cubrir las liquidaciones, indemnizaciones o finiquitos de ley; sin que, bajo ninguna circunstancia, pueda realizarse la incorporación de bonos, gratificaciones por fin el encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación.
 
@@ -225,11 +229,11 @@ El importe del presupuesto de Egresos, no deberá exceder de la estimación de l
 
 La Secretaría fijará anualmente, de acuerdo a las instrucciones del titular del Poder Ejecutivo, las sumas definitivas que habrán de incluirse en el proyecto de presupuesto de Egresos para cada una de las unidades presupuestales, observando lo dispuesto por esta ley.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 29.
 
-Para la formulación del proyecto de Presupuesto de Egresos del Gobierno del Estado, las Dependencias y Entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a las normas y montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaría, a más tardar el día 1º de Septiembre de cada año. Por lo que respecta a las Entidades sectorizadas, éstas lo harán por conducto y con la validación de la Dependencia coordinadora del sector correspondiente, en el mismo plazo.
+Para la formulación del proyecto de presupuesto de egresos del Gobierno del Estado, de las dependencias y entidades elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a las normas y montos que establezca el titular del Poder Ejecutivo, por conducto de la Secretaría, remitiéndolos, en el caso de las dependencias, directamente a la Secretaria, a más tardar el 15 de agosto de cada año. Por lo que respecta a las entidades sectorizadas, éstas lo harán por conducto y con la validación de la dependencia coordinadora del sector correspondiente, en al mismo plazo.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
@@ -385,9 +389,11 @@ Corresponde a la Secretaría de Finanzas emitir el Clasificador por Objeto del G
 
 ### Capítulo V. De la Iniciativa, Aprobación y Reformas al Presupuesto
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 42.
 
-El titular del Poder Ejecutivo deberá presentar al Congreso del Estado, para su aprobación a más tardar el 15 de noviembre de cada año, el proyecto de presupuesto de ingresos y egresos que reúna los requisitos señalados en esta ley, para ejercer en el año siguiente.
+El titular del Poder Ejecutivo deberá presentar al Congreso del Estado, para su aprobación a más tardar el 1° de noviembre de cada año, el proyecto de presupuesto de ingresos y egresos que reúna los requisitos señalados en esta Ley, para ejercer en el año siguiente.
 
 ###### Artículo 43.
 
@@ -402,6 +408,10 @@ Las Dependencias y Entidades, no podrán bajo ninguna circunstancia gestionar an
 ###### Artículo 45.
 
 El Congreso del Estado en pleno o a través de sus comisiones, podrá requerir del Titular de la Secretaría los datos e informes por escrito que sean necesarios para la mejor comprensión de las proposiciones contenidas en la iniciativa del presupuesto de Egresos, cuando el caso lo amerite, solicitará la comparecencia del mismo o de cualquiera de los titulares de las Unidades Presupuestales, Dependencias y Entidades para que aclaren las previsiones propuestas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+
+El presupuesto de egresos deberá ser aprobado a más tardar el 15 de diciembre.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -1008,3 +1018,7 @@ P.O. 24 DE FEBRERO DE 2005.
 P.O. 18 DE JULIO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE SEPTIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
