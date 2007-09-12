@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-contaduria-general-del-congreso-del-4564"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-07-19"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DEL CONGRESO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -331,6 +331,12 @@ Esta ley entrará en vigor al día siguiente de su publicación en el Periódico
 
 Se abroga la Ley Orgánica de la Contaduría General, publicada en el Periódico Oficial del Estado el 21 de marzo de 1987 y se deroga cualquier otra disposición que se opongan (sic) al presente decreto.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO TERCERO.
+
+La Ley Orgánica de la Contaduría General, seguirá vigente hasta que concluya la revisión a las cuentas públicas del ejercicio fiscal del 2006 y anteriores, y serán llevadas a cabo por la Auditoría Superior en los términos de la citada ley.
+
 DADO en el Palacio del Poder Legislativo en la ciudad de Chihuahua, Chih., a los veintinueve días del mes de Junio de Mil Novecientos Noventa y Cinco.
 
 DIPUTADO PRESIDENTE
@@ -380,3 +386,43 @@ P.O. 19 DE JULIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite o por iniciar en la Contaduría General del Congreso, al entrar en vigor este Decreto, y que correspondan a las auditorías o revisiones de Cuentas Públicas del ejercicio fiscal del 2006 y anteriores, continuarán tramitándose por la Auditoría Superior en los términos de la Ley Orgánica de la Contaduría General del Congreso del Estado de Chihuahua, hasta su conclusión.
+
+Para los efectos de este artículo, el Auditor Superior del Estado gozará de las facultades que la Ley Orgánica de la Contaduría General del Congreso del Estado de Chihuahua, le concede al Contador General.
+
+###### ARTÍCULO TERCERO.
+
+Las auditorías de las Cuentas Públicas Anuales de los Entes Fiscalizables, se llevarán a cabo por la Auditoría Superior, conforme a las disposiciones de esta Ley, a partir de las correspondientes al ejercicio fiscal 2007 y, en el caso de las Cuentas Públicas trimestrales de los Ayuntamientos, se revisarán a partir del ejercicio fiscal 2008.
+
+###### ARTÍCULO CUARTO.
+
+Por lo que respecta a la Auditoría de Gestión, se apegará a lo que establece el artículo quinto transitorio del Decreto No. 922/07 II P.O.
+
+###### ARTÍCULO QUINTO.
+
+En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de esta Ley, en que se haga mención a la Contaduría General del Congreso, se entenderán referidos a la Auditoría Superior.
+
+###### ARTÍCULO SEXTO.
+
+Todos los bienes, archivos y recursos presupuestales asignados a la Contaduría General del Congreso, pasarán a la Auditoría Superior, quien igualmente se subroga en todos los derechos y obligaciones de aquélla.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los servidores públicos y demás personal de la Contaduría General del Congreso pasarán a formar parte de la Auditoría Superior, y se respetarán sus condiciones laborales, antigüedad y demás derechos en los términos de las disposiciones legales aplicables.
+
+###### ARTÍCULO OCTAVO.
+
+La Auditoría Superior tendrá un plazo de 90 días hábiles a la entrada en vigor de esta Ley, para expedir el Reglamento de la Ley de Auditoría Superior del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones contrarias a la presente Ley.
