@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2006-12-27"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -725,9 +725,13 @@ XXXI.- Dirigir y vigilar la emisión de la revista del Poder Judicial, tomando p
 
 XXXII.- Tener bajo su control directamente o por conducto del Oficial Mayor, la vigilancia de los edificios en que se encuentren instaladas las Dependencias del Poder Judicial en el Estado, dictando las medidas adecuadas para su conservación e higiene, así como determinar la distribución de las oficinas judiciales en sus diversos departamentos;
 
-XXXIII.- Conceder audiencia dentro de las horas de oficina, a las personas que la soliciten; y
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
-XXXIV.- Todas las demás que le confieran las leyes.
+XXXIII.- Presentar al Congreso la cuenta general de ingresos y egresos, trimestral y anualmente, una vez aprobada por el Pleno. En el primer caso, dentro del mes siguiente a la terminación del período y, en el segundo, dentro de los dos meses posteriores a la terminación del ejercicio fiscal;
+
+XXXIV.- Conceder audiencia dentro de las horas de oficina, a las personas que la soliciten; y
+
+XXXV.- Todas las demás que le confieran las leyes.
 
 ###### ARTICULO 56.
 
@@ -1047,9 +1051,13 @@ I.- Controlar, inspeccionar, investigar, vigilar, supervisar y evaluar la activi
 
 II.- Formular y actualizar los manuales de organización del Poder Judicial;
 
-III.- Intervenir en las juntas del Comité de Adquisiciones, Arrendamientos, Servicios y Obra Pública, en calidad de asesor, con derecho a voz pero no a voto; y
+III.- Intervenir en las juntas del Comité de Adquisiciones, Arrendamientos, Servicios y Obra Pública, en calidad de asesor, con derecho a voz pero no a voto;
 
-IV.- Atender los asuntos que directamente le encomiende el Pleno o el Presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- Preparar la cuenta general de ingresos y egresos, trimestral y anualmente a ser presentada al Pleno del Supremo para su aprobación y posterior remisión al Congreso del Estado; y
+
+V.- Atender los asuntos que directamente le encomiende el Pleno o el Presidente.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -3186,3 +3194,35 @@ P.O. 27 DE DICIEMBRE 2006.
 Inicio de Vigencia.
 
 El presente artículo iniciará su vigencia el primero de enero de dos mil siete, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión global y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación.
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieran la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
