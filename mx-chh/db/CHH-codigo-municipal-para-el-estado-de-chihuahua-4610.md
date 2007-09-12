@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2007-06-30"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -913,7 +913,9 @@ III.- Revisar que el ejercicio del gasto se realice llenando todos los requisito
 
 IV.- Vigilar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería, previo certificado de ingresos;
 
-V.- Asistir a las visitas de inspección que realice la Contaduría General del Congreso o la Contraloría del Estado o de la Federación a la tesorería municipal, e informar de los resultados a los ayuntamientos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Asistir a las auditorías o revisiones que realice la Auditoría Superior del Estado, la Secretaría de la Contraloría del Estado o la Secretaría de la Función Pública, e informar de los resultados al Ayuntamiento;
 
 VI.- Vigilar que oportunamente se remita al Congreso la cuenta pública municipal;
 
@@ -3834,3 +3836,35 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
