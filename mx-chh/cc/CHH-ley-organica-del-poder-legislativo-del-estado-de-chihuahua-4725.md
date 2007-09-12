@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2006-06-14"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -543,7 +543,9 @@ La Junta de Coordinación parlamentaria es un órgano plural dotado de atribucio
 
 Fungirá como Secretario Técnico el Titular de la Unidad Técnica y de Investigación Legislativa, quien auxiliará al Presidente de la Junta en el Ejercicio de sus atribuciones, dará fe de lo acontecido en las sesiones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, informará sobre su cumplimiento y dará cuenta con los proyectos de dictamen de las comisiones.
 
-A las reuniones de la Junta también deberán asistir los titulares de la Oficialía Mayor y de la Contaduría General, quienes participarán con derecho a voz.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+A las reuniones de la Junta también deberán asistir los titulares de la Oficialía Mayor y de la Auditoría Superior, quienes participarán con derecho a voz.
 
 La Junta tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará mediante votación. Para ello, los coordinadores de los grupos parlamentarios dispondrán de voto ponderado, sobre la base de un total de diez votos, en función del número de miembros que integran sus respectivos grupos.
 
@@ -575,7 +577,9 @@ II.- Propiciar la celebración de acuerdos parlamentarios respecto a los asuntos
 
 III.- Proponer al Pleno, para su aprobación, a los diputados que integrarán las comisiones y comités del Congreso;
 
-IV.- Proponer al Pleno los nombramientos de Oficial Mayor, Contador General y titular de la Unidad Técnica y de Investigación Legislativa;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+V (SIC).- Proponer al Pleno los nombramientos de Oficial Mayor, Auditor Superior y titular de la Unidad Técnica y de Investigación Legislativa;
 
 V.- Conocer y dar trámite al Anteproyecto de Presupuesto de Egresos del Congreso que le presente el Comité de Administración;
 
@@ -615,17 +619,19 @@ El Congreso contará con las comisiones que sean necesarias para el mejor cumpli
 
 I.- De Dictamen Legislativo;
 
-II.- De Vigilancia de la Contaduría General;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+II.- De Fiscalización;
 
 III.- Jurisdiccionales, y
 
 IV.- Especiales.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 45.
 
-Las comisiones de Dictamen Legislativo y de Vigilancia de la Contaduría General se constituyen con carácter definitivo y funcionarán durante toda la Legislatura, se denominan ordinarias y se integrarán a más tardar en la cuarta sesión posterior a la de instalación del Congreso, con un máximo de cinco miembros y un mínimo de tres. Su mesa directiva se integrará por un presidente y un secretario, quienes junto con los demás miembros de cada comisión, serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria.
+Las Comisiones de Dictamen Legislativo y de Fiscalización se constituyen con carácter definitivo y funcionarán durante toda la Legislatura; se denominan Ordinarias y se integrarán a más tardar en la cuarta sesión posterior a la de instalación del Congreso, con un máximo de cinco miembros y un mínimo de tres. Su mesa directiva se integrará por un Presidente y un Secretario, quienes junto con los demás miembros de cada Comisión, serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2004)</small>
 
@@ -891,29 +897,57 @@ La Junta de Coordinación Parlamentaria podrá proponer al pleno el aumento o la
 
 En su integración, las Comisiones de Dictamen Legislativo reflejarán la composición plural del Congreso. Los Diputados podrán formar parte de no más de tres Comisiones de Dictamen Legislativo y solamente podrán presidir una.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 63.
 
-La Comisión de Vigilancia de la Contaduría General, estará integrada por tres miembros; uno de los cuales necesariamente deberá representar a la primera minoría.
+La Comisión de Fiscalización, estará integrada por tres miembros; uno de los cuales necesariamente deberá representar a la primera minoría.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 64.
 
-Son atribuciones de la Comisión de Vigilancia de la Contaduría General:
+Son atribuciones de la Comisión de Fiscalización:
 
-I.- Vigilar la organización y el funcionamiento de la Contaduría General del Congreso;
+I. Ser el conducto de comunicación entre el Congreso y la Auditoría Superior;
 
-II.- Informar al Congreso o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+II. Evaluar el cumplimiento de los objetivos y metas del Programa Anual de Auditoría;
 
-III.- Remitir a la Contaduría General, para su revisión y glosa, las cuentas públicas del Gobierno del Estado y de los municipios que le turne el presidente del Congreso;
+III. Elaborar el dictamen derivado de la solicitud de revisión específica, de conformidad a lo establecido por el artículo 64 bis de la Ley Orgánica del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+IV. Proponer durante la presentación del Programa Anual de Auditoría, la adición de Entes Fiscalizables no contemplados en dicho programa;
 
-IV.- Ordenar a la Contaduría General la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a entes públicos cuyas cuentas públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+V. Citar, por conducto de su presidente, previo acuerdo de la misma, al Auditor Superior;
 
-V.- Emitir dictamen sobre la revisión y glosa de las cuentas públicas estatales y municipales practicadas por la Contaduría General del Congreso;
+VI. Vigilar la recepción en el Congreso de las Cuentas Públicas y remitirlas a la Auditoría Superior, que le turne el Presidente del Congreso;
 
-VI.- Presentar al pleno del Congreso los dictámenes que elabore a partir de las glosas de las cuentas públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad sancionándose con la remoción de sus miembros; y
+VII. Vigilar que el funcionamiento de la Auditoría Superior y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-VII.- Las demás que le confieren esta Ley, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables.
+VIII. Revisar el contenido del Reglamento de la Ley de Auditoría Superior, que le presente el Auditor Superior e informar al Pleno;
+
+IX. Recibir y dictaminar los Informes Técnicos de Resultados que le presente la Auditoría Superior, dentro de los dos meses siguientes a la recepción;
+
+X. Ordenar al Auditor Superior que ejercite las acciones legales correspondientes, en su caso, derivadas del Informe Especial; y
+
+XI. Las demás que le confiera la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo, esta Ley y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+###### Art. 64 Bis.
+
+La solicitud a que se refiere la fracción III del artículo anterior, deberá cumplir con los siguientes requisitos:
+
+I. Que sea formulada por escrito;
+
+II. Fundar y motivar su solicitud;
+
+III. Acompañar los medios de prueba con los que se trate de demostrar la existencia de la irregularidad cometida;
+
+IV. No referirse a hechos que excedan del ejercicio fiscal inmediato anterior, y
+
+V. Haber causado un daño al patrimonio de los Entes Fiscalizables.
+
+La revisión será concreta y específica sobre los hechos denunciados.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1025,11 +1059,15 @@ Funcionarán dentro del Congreso de acuerdo con esta Ley, otros ordenamientos le
 
 I.- Oficialía Mayor;
 
-II.- Contaduría General, y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Auditoría Superior; y
 
 III.- La Unidad Técnica y de Investigación Legislativa.
 
-Para ser Oficial Mayor se requiere: Ser mexicano en pleno ejercicio de sus derechos, mayor de 25 años y tener título de Licenciado en Derecho o en alguna área administrativa; los requisitos para el Contador General serán los que determine la ley. Para ser titular de la Unidad Técnica y de Investigación Legislativa se requieren los mismos requisitos que para ser Oficial Mayor con excepción de la profesión que deberá ser necesariamente Licenciado en Derecho.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+Para ser Oficial Mayor se requiere: Ser mexicano en pleno ejercicio de sus derechos, mayor de 25 años y tener título de Licenciado en Derecho o en alguna área administrativa; los requisitos para el Auditor Superior serán los que determine la Ley de Auditoría Superior del Estado. Para ser titular de la Unidad Técnica y de Investigación Legislativa se requieren los mismos requisitos que para ser Oficial Mayor, con excepción de la profesión, que deberá ser necesariamente Licenciado en Derecho.
 
 Los Titulares serán nombrados por el pleno, a propuesta de la Junta de Coordinación Parlamentaria.
 
@@ -1089,9 +1127,11 @@ XVI.- Recibir y presentar al Comité de Administración, sin modificación algun
 
 XVII.- Atender a las demás actividades que le señalen la presente ley y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 74.
 
-La Contaduría General del Congreso tendrá la organización, funcionamiento y atribuciones que establecen la Constitución Política del Estado, esta Ley, su orgánica y demás.
+La Auditoría Superior tendrá la organización, funcionamiento y atribuciones que establecen la Constitución Política del Estado, esta Ley, la propia y demás ordenamientos aplicables.
 
 ###### Art. 75.
 
@@ -1611,7 +1651,13 @@ La parte interesada en el Juicio Político o en la solicitud de declaración de 
 
 Las denuncias por faltas administrativas en contra de servidores públicos del Congreso, de presidentes municipales y regidores de los ayuntamientos se presentarán ante la Oficialía Mayor del Congreso.
 
-Una vez ratificadas las denuncias, la Oficialía Mayor las turnará al Presidente del Congreso o de la Diputación Permanente, en su caso, con el objeto de que se substancie el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formule el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso en que resolverá en definitiva el propio Presidente.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+Una vez ratificadas las denuncias, la Oficialía Mayor las turnará al Presidente del Congreso o de la Diputación Permanente, en su caso, quien por conducto de la Unidad Jurisdiccional, substanciará el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos y formulará el dictamen que se presentará para su resolución al Pleno, excepto cuando se trate de servidores públicos del Congreso, en que resolverá en definitiva el propio Presidente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+Si la denuncia no se apoyara en prueba alguna o fuere notoriamente improcedente, se desechará de plano por la directiva del Congreso o por la Diputación Permanente en su caso.
 
 ### CAPITULO III. DE LA ELECCION DE SERVIDORES PUBLICOS
 
@@ -1703,9 +1749,11 @@ En los períodos de receso del Congreso, las protestas que deban rendir el Gober
 
 ## TITULO NOVENO. DE LA DECLARACION PATRIMONIAL
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 165.
 
-La Comisión de Vigilancia de la Contaduría General llevará el registro y control de las declaraciones de situación patrimonial de servidores públicos del Congreso, de conformidad con esta Ley y demás disposiciones legales aplicables.
+La Comisión de Fiscalización llevará el registro y control de las declaraciones de situación patrimonial de servidores públicos del Congreso, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
 ###### Art. 166.
 
@@ -1715,15 +1763,23 @@ I.- Los diputados;
 
 II.- El Oficial Mayor;
 
-III.- El Contador General del Congreso;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+III.- El Auditor Superior del Estado;
 
 IV.- El titular de la Unidad Técnica y de Investigación Legislativa;
 
 V.- Los jefes de las áreas dependientes de la Oficialía Mayor y de la Contaduría General;
 
-VI.- Los auditores de la Contaduría General, y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
-VII.- Los que recauden, vigilen o administren fondos o bienes públicos.
+VI.- Los Auditores Especiales y el Director General de la Auditoría Superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+VII.- Los Coordinadores, Directores, Jefes de Departamento, Jefes de Oficina, Supervisores, Auditores y las unidades administrativas de la Auditoría Superior; y
+
+VIII.- Los que recauden, vigilen o administren fondos o bienes públicos.
 
 ###### Art. 167.
 
@@ -1735,9 +1791,11 @@ II.- La anual, durante el mes de octubre de cada año, y
 
 III.- La final, dentro de los sesenta días naturales siguientes a la conclusión de la función o encargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 168.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, la Comisión de Vigilancia de la Contaduría General lo comunicará al presidente del Congreso, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de treinta días naturales, apercibido de que, de no hacerlo, se le impondrá una multa de hasta doscientas veces el salario mínimo diario. La falta de requerimiento no exime el cumplimiento de la obligación.
+En caso de no presentarse la declaración inicial o anual en los plazos fijados, la Comisión de Fiscalización lo comunicará al Presidente del Congreso, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de treinta días naturales, apercibido de que, de no hacerlo, se le impondrá una multa de hasta doscientas veces el salario mínimo diario. La falta de requerimiento no exime el cumplimiento de la obligación.
 
 En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que dé cumplimiento a lo requerido en un plazo de treinta días naturales, apercibido que, de no hacerlo, causará baja o se llamará a su suplente, según sea el caso.
 
@@ -1745,9 +1803,11 @@ En caso de persistir la omisión, se le hará efectiva la multa y se le conminar
 
 Si no se presenta la declaración final dentro del plazo establecido, se impondrá al omiso una sanción pecuniaria hasta por doscientas veces el salario mínimo diario vigente y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso, a fin de que proceda conforme a derecho.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 170.
 
-La Comisión de Vigilancia de la Contaduría General diseñará y proporcionará gratuitamente los formatos e instructivos conforme a los cuales los servidores públicos del Congreso deberán presentar su declaración de situación patrimonial.
+La Comisión de Fiscalización diseñará y proporcionará gratuitamente los formatos e instructivos conforme a los cuales los servidores públicos del Congreso deberán presentar su declaración de situación patrimonial.
 
 ###### Art. 171.
 
@@ -2034,3 +2094,35 @@ P.O. 14 DE JUNIO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor inmediatamente después de su aprobación.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
