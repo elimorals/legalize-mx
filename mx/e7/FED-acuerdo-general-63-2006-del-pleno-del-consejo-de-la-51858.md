@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-63-2006-del-pleno-del-consejo-de-la-51858"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-09"
-last_updated: "2006-10-09"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51858&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-09-20"
 
 ACUERDO GENERAL 63/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 31/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 12 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 9 de octubre de 2006.
 
@@ -542,3 +544,17 @@ SEGUNDO.- Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación el
 TERCERO.- Para su mayor difusión, este Acuerdo se publicará en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 63/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión de veinte de septiembre de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veinte de septiembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable para concursos que en el futuro se convoquen.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal.
+
+TERCERO.- Se abroga el Acuerdo General 63/2006 del Pleno del Consejo de la Judicatura Federal.
+
+CUARTO.- Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación el texto íntegro de este Acuerdo General, para los efectos a que haya lugar.
+
+QUINTO.- En virtud de que el Pleno del Consejo en sesión ordinaria celebrada el veintiocho de febrero de dos mil siete, suspendió el Decimocuarto Concurso Interno de Oposición para la Designación de Magistrados de Circuito, se ordena cancelarlo por no ajustarse a los términos del presente Acuerdo.
