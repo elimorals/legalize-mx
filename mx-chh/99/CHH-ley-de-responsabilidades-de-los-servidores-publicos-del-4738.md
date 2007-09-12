@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2004-08-07"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -221,9 +221,9 @@ Cuando con motivo de una revisión, inspección o auditoría, por parte de la au
 
 Proporcionar copia certificada de la documentación necesaria que le soliciten el extitular o extitulares de la dependencia, organismo o ente que preside y permitirle tener acceso a los archivos que se encuentren bajo su custodia, donde se contengan los documentos de que se pretenda obtener la certificación respectiva, con el propósito de que se de contestación a las observaciones derivadas de la revisión o auditoría practicada por la autoridad competente, tomando siempre las medidas adecuadas para dar cumplimiento con la obligación establecida en el primer párrafo de esta fracción;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
-V.- Responder al pliego de observaciones que, en su caso, formule la Contaduría General del Congreso del Estado, en el plazo a que se refiere el artículo 7 de su respectiva Ley Orgánica, con motivo de las auditorías, visitas o inspecciones que practique.
+V.- Responder al pliego de observaciones que, en su caso, formule la Auditoría Superior del Estado, en el plazo a que se refiere el Artículo 34 de su respectiva Ley, con motivo de las auditorías o revisiones que practique;
 
 VI.- Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
 
@@ -407,7 +407,11 @@ La Dirección General notificará al superior jerárquico en que labore el servi
 
 IV.- Cuando no se cuente con elementos suficientes para resolver o se descubrieren algunos que impliquen nueva responsabilidad a cargo del denunciado o de otras personas, y hasta antes de la citación para resolución, para mejor proveer podrá ordenarse la práctica de diligencias, así como el emplazamiento de los servidores públicos involucrados. Cuando la Dirección General practique éstas, el superior jerárquico podrá designar un representante que participe en las mismas;
 
-V.- De todas las diligencias que se practiquen, se levantará Acta circunstanciada que deberán suscribir quienes en ella intervengan. En caso de negativa se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+V.- De todas las diligencias que se practiquen, se levantará Acta circunstanciada que deberán suscribir quienes en ella intervengan. En caso de negativa se asentará tal circunstancia, sin que esto afecte su valor probatorio;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+VI.- Para lo no dispuesto en el presente procedimiento, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
 ###### ARTICULO 35.
 
@@ -549,7 +553,7 @@ Se derogan la décima segunda parte, Libro Unico, de las responsabilidades y san
 
 ###### ARTICULO TERCERO.
 
-Independientemente de las disposiciones que establece esta Ley, quedaran preservados los derechos sindicales de los trabajadores de base al servicio del Estado y de los Municipios respecto a su relación laboral.
+Independientemente de las disposiciones que establece esta Ley, quedarán preservados los derechos sindicales de los trabajadores de base al servicio del Estado y de los Municipios respecto a su relación laboral.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1989)</small>
 
@@ -660,5 +664,37 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE AGOSTO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
