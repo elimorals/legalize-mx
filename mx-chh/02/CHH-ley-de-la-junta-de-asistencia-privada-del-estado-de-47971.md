@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-junta-de-asistencia-privada-del-estado-de-47971"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2005-12-28"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
-Ley publicada en e Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 2005.
+Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 2005.
 
 EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -299,9 +299,11 @@ El órgano de vigilancia de la Junta de Asistencia Privada estará integrado por
 
 La actuación del Comisario se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua y por las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 16.
 
-La Secretaría de la Contraloría del Estado, así como la Contaduría General del Congreso del Estado realizarán las visitas y auditorias al Organismo, a fin de supervisar el adecuado funcionamiento de control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, además de lo que contemplan las disposiciones legales aplicables.
+La Secretaría de la Contraloría del Estado, así como la Auditoría Superior del Estado realizarán auditorías y revisiones al Organismo, a fin de supervisar el adecuado funcionamiento de control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las disposiciones legales aplicables.
 
 ### Capítulo VII. De las Responsabilidades
 
@@ -364,3 +366,37 @@ LIC. JOSE REYEZ BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
