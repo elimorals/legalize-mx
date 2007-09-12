@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2007-06-30"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -65,7 +65,9 @@ Las universidades y demás instituciones de educación superior a las que la ley
 
 La Comisión Estatal de Derechos Humanos y el Consejo Estatal de Elecciones, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia del presente ordenamiento.
 
-Las instituciones a que se refiere este artículo, en lo que se refiere a la situación y manejo de sus ingresos, egresos y a su estado patrimonial, quedan sujetas en cuanto a su revisión y glosa, en exclusiva, a las facultades que las leyes le conceden al Congreso del Estado en esta materia, por conducto de la Contaduría General.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+Las instituciones a que se refiere este artículo, en lo que se refiere a la situación y manejo de sus ingresos, egresos y a su estado patrimonial, quedan sujetas en cuanto a su revisión y fiscalización, en exclusiva, a las facultades que las leyes le conceden al Congreso del Estado en esta materia, por conducto de la Auditoría Superior del Estado.
 
 ###### Artículo 4º.
 
@@ -601,7 +603,9 @@ La dependencia coordinadora de sector, a través de su titular o representante, 
 
 La Contraloría del Estado, salvo lo dispuesto en el artículo 3º de esta ley, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento de los sistemas de control así como el cumplimiento de las responsabilidades a cargo de sus órganos de gobierno y del coordinador general y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieran incurrido.
 
-Sin perjuicio de lo anterior, el Congreso del Estado, en los términos de la Ley Orgánica de la Contaduría General, podrá realizar visitas, revisiones y auditorías a las entidades paraestatales, para los efectos de fiscalización que señalan la Constitución y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+Sin perjuicio de lo anterior, el Congreso del Estado, en los términos de la Ley de Auditoría Superior del Estado, podrá realizar auditorías y revisiones a las entidades paraestatales, para los efectos de auditoría y fiscalización que señalan la Constitución y demás leyes aplicables.
 
 ###### Artículo 69.
 
@@ -736,3 +740,35 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
