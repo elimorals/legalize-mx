@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-ayuntamiento-de-32108"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-13"
-last_updated: "2003-06-13"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL AYUNTAMIENTO DE AGUALEGUAS, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 13 de junio de 2003.
 
@@ -1137,91 +1137,91 @@ L).- Cuando el conductor se encuentre en estado de ebriedad o bajo el influjo de
 
 V.- La licencia de conducir podrá ser retirada por los elementos de la Dirección de Policía y Tránsito cuando el conductor infractor sea menor de edad y en los casos que proceda la suspensión o cancelación de la licencia de acuerdo con las fracciones II y III en este artículo.
 
-VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a cada infracción en particular.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
-T A B U L A D O R.
+VI.- El cobro de una multa se hará aplicando la cantidad en cuotas que corresponda a cada infracción en particular, considerando que una cuota equivale al salario mínimo vigente en el municipio.
 
-Manejar sin licencia $ 60.00
+MANEJAR SIN LICENCIA 1.5
 
-No portar tarjeta de circulación $ 60.00
+NO PORTAR TARJETA DE CIRCULACION 1.5
 
-Exceso de Velocidad en Zona Escolar $ 150.00
+EXCESO DE VELOCIDAD EN ZONA ESCOLAR 3.0
 
-Exceso de Velocidad $ 100.00
+EXCESO DE VELOCIDAD 2.0
 
-Manejar en estado de ebriedad $250.00
+MANEJAR EN ESTADO DE EBRIEDAD 5.0
 
-No respetar el rótulo de ALTO $ 60.00
+NO RESPETAR EL ROTULO DE ALTO 1.5
 
-No obedecer las señales del agente $ 60.00
+NO OBEDECER LAS SEÑALES DEL AGENTE 1.5
 
-Manejar vehículo un menor de edad $100.00
+MANEJAR VEHICULO UN MENOR DE EDAD 2.0
 
-Jugar carreras con otro vehículo $ 100.00
+JUGAR CARRERAS CON OTRO VEHICULO 2.0
 
-Estacionarse en lugar prohibido $ 50.00
+ESTACIONARSE EN LUGAR PROHIBIDO 1.0
 
-Circular sin Placas $ 60.00
+CIRCULAR SIN PLACAS 1.5
 
-Por Chocar y Huir $ 300.00
+POR CHOCAR Y HUIR 6.0
 
-Circular en sentido contrario $ 60.00
+CIRCULAR EN SENTIDO CONTRARIO 1.5
 
-Invadir carril contrario $ 60.00
+INVADIR CARRIL CONTRARIO 1.5
 
-Circular sin luces generales $ 100.00
+CIRCULAR SIN LUCES GENERALES 2.0
 
-Falta de luces posteriores $ 50.00
+FALTA DE LUCES POSTERIORES 1.0
 
-No ceder el paso a los peatones
+NO CEDER EL PASO A LOS PEATONES
 
-cuando ellos tienen derecho $ 30.00
+CUANDO ELLOS TIENEN DERECHO 1.0
 
-No hacer cambio de luces $ 30.00
+NO HACER CAMBIO DE LUCES 1.0
 
-Voltear en “U” en un lugar prohibido $ 10.00
+VOLTEAR EN “U” EN UN LUGAR PROHIBIDO 1.0
 
-Rebasar la línea de paso para peatones $ 20.00
+REBASAR LA LINEA DE PASO PARA PEATONES 1.0
 
-Efectuar rebasar más de 10 metros $ 50.00
+EFECTUAR REBASAR MAS DE 10 METROS 1.0
 
-Viajar más de tres personas en el asiento
+VIAJAR MAS DE TRES PERSONAS EN EL ASIENTO
 
-delantero $ 50.00
+DELANTERO 1.0
 
-Dañar o destruir señales oficiales de la
+DAÑAR O DESTRUIR SEÑALES OFICIALES DE LA
 
-Dirección de Tránsito y Transporte $ 150.00
+DIRECCION DE TRANSITO Y TRANSPORTE 3.0
 
-Estacionarse a la derecha en la calle de
+ESTACIONARSE A LA DERECHA EN LA CALLE DE
 
-una sola circulación $ 70.00
+UNA SOLA CIRCULACION 1 .5
 
-Estacionarse a la izquierda en calle de
+ESTACIONARSE A LA IZQUIERDA EN LA CALLE DE
 
-doble circulación $ 70.00
+DOBLE CIRCULACIÓN 1.5
 
-Estacionarse en un octavo $ 50.00
+ESTACIONARSE EN UN OCTAVO 1.0
 
-Usar indebidamente el claxon $ 30.00
+USAR INDEBIDAMENTE EL CLAXON 1.0
 
-Usar sirenas o faros de luz roja delanteros
+USAR SIRENAS O FARO DE LUZ ROJA DELANTEROS
 
-en vehículos no autorizados $ 150.00
+EN VEHICULO NO AUTORIZADO 3.0
 
-Usar cadenas sobre las llantas en calle
+USAR CADENAS SOBRE LAS LLANTAS EN CALLE
 
-pavimentada $ 100.00
+PAVIMIENTADA (SIC) 2.0
 
-Por patinar $ 150.00
+POR PATINAR 3.0
 
-Por tomar en vía pública $ 150.00
+POR TOMAR EN VIA PUBLICA 3.0
 
-Escandalizar en vía pública $ 150.00
+ESCANDALIZAR EN VIA PUBLICA 3.0
 
-Por traer música alta $ 150.00
+POR TRAER MUSICA ALTA 3.0
 
-Agredir a la Autoridad (Física o Verbalmente) $ 250.00
+AGREDIR A LA AUTORIDAD (FISICA O VERBALMENTE) 5.0
 
 ART. 90.- Al aplicarse la multa deberá tomarse en consideración, la naturaleza de la infracción cometida, las causas que la produjeron y la capacidad económica la condición social, educación y antecedentes del infractor. Si el infractor fuese jornalero, obrero o trabajador la multa no deberá exceder del importe de su jornal o salario de un día.
 
@@ -1298,3 +1298,9 @@ PRESIDENTE MUNCIPAL (SIC)
 C. CESAR SAUCEDA HERNÁNDEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
