@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2007-03-14"
+last_updated: "2007-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE CODIGO, EL TITULO VIGESIMO SEXTO DEL MISMO ENTRARA EN VIGOR EL 2 DE ENERO DE 2008; EN TANTO, QUEDARA VIGENTE Y SE APLICARA EL TITULO VIGESIMO DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS, PUBLICADO EN EL P.O. NUMERO 97 DE FECHA 11 DE OCTUBRE DE 1990.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2013,107 +2011,67 @@ Si en los delitos mencionados en el presente título participa algún servidor p
 
 ###### Artículo 251.
 
-Comete el delito de difamación, el que con el ánimo de dañar, comunique por cualquier medio a una o más personas, la imputación que se hace a otra persona física o moral de un hecho cierto o falso, determinado o indeterminado, que pueda causarle una afectación en su honor, dignidad, reputación o le genere deshonra, descrédito o desprecio o afecte su reputación.
-
-Al responsable del delito de difamación, se le impondrá una pena de tres a nueve años de prisión y multa de cien a mil días de salario.
-
-Cuando el delito de difamación se cometa en contra de un menor de edad, la pena de prisión se aumentará hasta en una tercera parte.
-
-El delito de difamación, únicamente se perseguirá por querella de parte ofendida.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 252.
 
-Al sujeto activo de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación, sino en los casos siguientes:
-
-I.- Cuando la imputación se haya hecho a un depositario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones, y;
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable, y el sujeto activo obre por motivo de interés público, o por interés privado pero legítimo y sin ánimo de dañar.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 253.
 
-No se comete el delito de difamación, cuando la persona a quien se imputa:
-
-I.- Haya manifestado técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
-
-II.- Haya expresado a su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que actuó en cumplimiento de un deber o por interés público o que con la debida reserva lo hizo por humanidad, por prestar un servicio a una persona con quien tenga parentesco o amistad o dando informes que le hubieren sido requeridos, si no lo hiciere a sabiendas calumniosamente.
-
-III.- Haya elaborado un escrito presentado ante el Ministerio Público o los tribunales o alguna autoridad en ejercicio de sus funciones, o haya pronunciado un discurso ante un Órgano Jurisdiccional, pues en tal caso si hiciere uso de expresiones difamatorias, según la gravedad del caso, podrá aplicarse al sujeto activo alguna de las correcciones disciplinarias que establezca la ley.
-
-IV.- Fuere periodista en ejercicio de sus funciones y no faltare a la verdad en los términos de los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Si la imputación difamatoria o calumniosa se extiende a personas extrañas al litigio o envuelve en hechos no relacionados con el asunto de que se trate, se actualizará la comisión del delito de difamación o cualquiera otro que llegara a tipificarse.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ### Capítulo I. Delitos Contra la Moral Pública
 
 ###### Artículo 254.
 
-Comete el delito de calumnia, el que impute falsamente a otro mediante denuncia o querella, la comisión de un hecho que la ley califique como delito, a sabiendas de que el hecho es falso o de que el imputado no es el responsable.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 255.
 
-Se sancionará con prisión de tres a nueve años y multa de cien a mil días de salario:
-
-I. Al que impute a otro un hecho determinado calificado como delito por la ley, si este hecho es falso o es inocente la persona a quien se imputa;
-
-II. Al patrón, que con el propósito de eludir sus obligaciones laborales, impute indebidamente a uno o más de sus trabajadores la comisión de un delito;
-
-III. Al que presente denuncia o querella calumniosa, entendiéndose por tales aquellas en que su autor impute un delito a persona determinada sabiendo que ésta es inocente o que aquel no se ha cometido;
-
-IV. Al que, para hacer que un inocente aparezca como autor de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-Si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que aquél.
-
-El delito de calumnia únicamente se perseguirá por querella de parte ofendida.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 256.
 
-No se admitirá prueba alguna de la veracidad de la imputación al acusado de la calumnia ni se librará de la sanción correspondiente, cuando exista sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute, o cuando haya procedido el reconocimiento de inocencia, pero en todo caso, al acusado de calumnia le será permitido aportar pruebas que demuestren su inocencia.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 257.
 
-No se procederá en contra del calumniador cuando:
-
-I.- Probare plenamente haber tenido causas bastantes y suficientes para incurrir en error.
-
-II.- Cuando los hechos imputados al calumniado hayan resultado ciertos aunque no constitutivos de delito y el calumniador, por error les haya atribuido ese carácter.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 258.
 
-Cuando haya pendiente un proceso seguido por un delito imputado calumniosamente, se suspenderán los términos de prescripción para la persecución del delito de calumnia, se suspenderán, asimismo, el procedimiento y el ejercicio de la acción penal hasta que se dicte sentencia irrevocable que ponga fin al primer proceso.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ### Capítulo II. Delitos Contra la Dignidad de las Personas
 
 ###### Artículo 259.
 
-No exime de responsabilidad al sujeto activo en la comisión de los delitos de difamación y calumnia, la circunstancia de que el hecho imputado sea notorio o de que aquél no haya hecho más que reproducir lo ya publicado en el Estado o fuera de él.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 260.
 
-Se perseguirá por querella del cónyuge supérstite, de la concubina o del concubinario, pareja permanente, de los ascendientes o descendientes o de los hermanos del ofendido, el delito de difamación o calumnia cuando el sujeto pasivo haya muerto y la difamación o la calumnia se haya llevado a cabo con posterioridad a su fallecimiento.
-
-Si la difamación o la calumnia se llevaron a cabo en vida del sujeto pasivo y éste haya tenido conocimiento de las imputaciones, no se atenderá la querella de las personas mencionados en el párrafo anterior, salvo que el ofendido así lo haya dispuesto como responsabilidad de sus herederos.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 261.
 
-Cuando el autor del delito de difamación o de calumnia haya sido condenado por sentencia irrevocable, el ofendido podrá solicitar la publicación de la sentencia en tres periódicos, a costa del condenado. Cuando el delito se haya cometido por conducto de algún medio de comunicación, los dueños, gerentes o directores de éste, hayan sido o no responsables del delito, estarán obligados a difundir la sentencia en los términos en que el juzgador lo disponga, en la misma sección en donde se publicó el hecho imputado al sujeto pasivo, y en el mismo horario y programa en caso de tratarse de un medio electrónico.
-
-Se impondrán diez días de multa por cada día que transcurra sin que se realice dicha publicación, contado a partir del momento en que se notifique la obligación.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 262.
 
-Los escritos, estampas, impresos, litografías, grabados, pinturas, videos, discos o cualquier otro objeto que hubiese servido para la comisión del delito de difamación o de calumnia, se decomisarán y en su caso se inutilizarán o destruirán, a menos que se trate de algún documento público o privado que importe obligaciones o derechos; en tal caso se hará una anotación sumaria de la sentencia pronunciada en el propio documento.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 263.
 
-Quien difunda, de cualquier manera un hecho difamatorio o calumnioso, no siendo su autor, será responsable del delito de difamación o de calumnia y se le impondrá la pena prevista para el delito que resulte.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 264.
 
-Serán responsables de los delitos de difamación o calumnia cometidos a través de los medios de comunicación y se impondrá la pena que corresponda al delito o delitos cometidos en los términos de este título, a los autores de la difusión o escrito.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 265.
 
-El responsable de los delitos de difamación o de calumnia que haya sido condenado mediante sentencia irrevocable, estará obligado a la reparación del daño, previa la tramitación del incidente a que se refiere el Código de Procedimientos Penales, o al desahogo del juicio civil correspondiente.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
 ## Título Noveno. Delitos Contra el Estado Civil y el Matrimonio
 
@@ -3553,9 +3511,23 @@ VIII.- No tomar al inculpado su declaración preparatoria dentro de las cuarenta
 
 IX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia o querella.
 
-A quien cometa los delitos previstos en las fracciones I, II, III, VIII y IX, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+X.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una averiguación previa o en un proceso penal y que por disposición de la Ley o resolución de la autoridad judicial, sean confidenciales; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+XI.- Obligar a declarar a las personas que se mencionan en el artículo 195 BIS, del Código de Procedimientos Penales para el Estado Libre y Soberano de Chiapas, acerca de la información obtenida con motivo del desempeño de su actividad.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+A quien cometa los delitos previstos en las fracciones I, II, III, VIII, IX, X y XI, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
 
 A quien cometa el delito previsto en la fracción IV, V, VI y VII, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+En todos los delitos previstos en este Capítulo, además de las penas de prisión y multa previstas, el servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
 
@@ -4143,8 +4115,6 @@ La pena prevista en el párrafo anterior, será aumentada en una mitad cuando la
 
 Para efectos de este artículo se entiende que son producto de una actividad ilícita los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito aunque no se haya dictado aún sentencia respecto del mismo, y no pueda acreditarse su legítima procedencia.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO, EL PRESENTE TITULO ENTRARA EN VIGOR A PARTIR DEL 2 DE ENERO DE 2008.</small>
-
 ## Título Vigésimo Séptimo. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
 
 ###### Artículo 479.
@@ -4362,3 +4332,21 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dieciséis días del mes de febrero del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE CODIGO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 268
+
+Artículo Primero: El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 275
+
+Artículo Primero.- El presente decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
