@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2005-12-10"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -319,9 +319,11 @@ El órgano de vigilancia del Instituto estará integrado por un Comisario Públi
 
 La actuación de los Comisarios se ajustará, en todo caso, a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua por las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-La Secretaría de la Contraloría del Estado, así como la Contaduría General del Congreso del Estado realizarán las visitas y auditorias al Instituto, a fin de supervisar el adecuado funcionamiento del control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las demás disposiciones legales aplicables.
+La Secretaría de la Contraloría del Estado, así como la Auditoría Superior del Estado realizarán auditorías y revisiones al Instituto, a fin de supervisar el adecuado funcionamiento del control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las disposiciones legales aplicables.
 
 ###### Artículo 21.
 
@@ -438,3 +440,37 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Los dictámenes que deban recaer a las Cuentas Públicas del Gobierno del Estado y de los Municipios, así como a los estados financieros de los demás Entes Fiscalizables, correspondientes a los ejercicios fiscales de los años 2006 y anteriores, se realizarán por la Comisión de Fiscalización del Congreso del Estado, quien desahogará las funciones que en su momento atendió la Comisión de Vigilancia de la Contaduría General, contando para tal efecto, con las siguientes atribuciones:
+
+I. Vigilar la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+II. Informar al Congreso, o en su caso a la Diputación Permanente, sobre el manejo de los fondos públicos;
+
+III. Remitir a la Auditoría Superior del Estado, para su revisión y glosa, las Cuentas Públicas del Gobierno del Estado y de los municipios que le turne el Presidente del Congreso;
+
+IV. Ordenar a la Auditoría Superior la práctica de visitas, inspecciones y auditorías, así como ampliaciones a las mismas, siempre que en este último caso se refieran a Entes Fiscalizables cuyas Cuentas Públicas no hayan sido aprobadas o a los que se les haya negado su aprobación;
+
+V. Emitir dictamen sobre la revisión y glosa de las Cuentas Públicas estatales y municipales practicadas por la Auditoría Superior del Estado;
+
+VI. Presentar al Pleno del Congreso los dictámenes que elabore a partir de las glosas de las Cuentas Públicas estatales y municipales practicadas por la Contaduría General. Los dictámenes serán emitidos por la Comisión en un término que no excederá de dos meses, contados a partir de la recepción de las glosas. El incumplimiento de lo anterior será causa grave de responsabilidad, sancionándose con la remoción de sus miembros; y
+
+VII. Las demás que le confieren la Ley Orgánica del Poder Legislativo, la Ley Orgánica de la Contaduría General del Congreso y otros ordenamientos legales aplicables a la Comisión de Vigilancia de la Contaduría General del Congreso y que serán desarrolladas por la Comisión de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez cumplida la condición que dio origen a la previsión expresa a que se refiere el Artículo Transitorio anterior, la Comisión de Fiscalización dejará de contar con las atribuciones que han sido señaladas en el Artículo de referencia, sin necesidad de declaración expresa por parte del Congreso del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Comisión de Vigilancia de la Contaduría General del Congreso, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Comisión de Fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
