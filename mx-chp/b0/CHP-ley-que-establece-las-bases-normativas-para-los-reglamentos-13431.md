@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-normativas-para-los-reglamentos-134
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-26"
-last_updated: "1998-08-26"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE RASTROS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO Y SANIDAD PECUARIA PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 1998.
 
@@ -574,3 +576,17 @@ DADO EN EL SALON DE SESIONES DEL H. PODER LEGISLATIVO, EN LA CIUDAD DE TUXTLA GU
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECINUEVE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
 ROBERTO ALBORES GUILLEN.- GOBERNADOR DEL ESTADO.- ARELY MADRID TOVILLA.- SECRETARIA DE GOBIERNO.- FRANCISCO HUMBERTO CORDOVA CORDERO, SECRETARIO DE SALUD.- LIBRADO DE LA TORRE GONZALEZ.- SECRETARIO DE AGRICULTURA Y GANADERIA.- ROMEO ORANTES GORDILLO.- SECRETARIO DE ECOLOGIA, RECURSOS NATURALES Y PESCA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+Artículo Primero.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Con la consideración mencionada en el artículo transitorio anterior, se abrogan la Ley Pecuaria para el Estado de Chiapas publicada en el Periódico Oficial del Estado, número 127 de fecha 18 de Diciembre de 1996 y la Ley que Establece las Bases Normativas para los Reglamentos Municipales en materia de Rastros del Estado de Chiapas publicada en Periódico Oficial del Estado número 045, 2ª sección de fecha 26 de agosto de 1998.
+
+Artículo Tercero.- Las Comisiones Estatal de Clasificación de Ganado y Carnes, de Inspección y Vigilancia para la Revisión y Verificación Legal de la Movilización de Animales en el Estado de Chiapas y la Comisión Interinstitucional para la Regulación de los Centros de Sacrificio Municipales, así como el Grupo Estatal de Emergencias de Sanidad Animal, deberán quedar instaladas dentro del término de ciento ochenta días a partir de la entrada en vigor del presente decreto.
+
+Artículo Cuarto.- Una vez instaladas las Comisiones y el Grupo Estatal que refiere, el artículo transitorio anterior, deberán emitir sus lineamientos, manuales o reglas de operación dentro del plazo de noventa días a partir del día siguiente en que haya quedado formalmente instalada, misma que será a convocatoria de la Secretaría del Campo.
+
+Artículo Quinto.- La Secretaría del Campo, deberá emitir el Reglamento de la Ley en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
