@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-45305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-01"
-last_updated: "2005-06-01"
+last_updated: "2007-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 1 de junio de 2005.
 
@@ -2053,31 +2053,41 @@ X. Llevar registro en sus bienes informáticos de la incidencia delictiva en el 
 
 XI. Las demás que establezca la Ley Orgánica, éste Reglamento y demás disposiciones aplicables.
 
-#### Sección Novena. Dirección General de Coordinación Interinstitucional
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+
+#### Sección Novena. Coordinación General de Relaciones Interinstitucionales
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 163.
 
-La Dirección General de Coordinación Interinstitucional impulsará la relación de la Fiscalía General con las dependencias, unidades administrativas y órganos de la administración pública federal, estatal y municipal, así como con los órganos, instituciones, organizaciones y demás estructuras de la iniciativa privada, empresarial, comercial, de servicios, ganadera, agrícola y educativa, que de acuerdo con sus programas, fines y metas, se relacionen con la actividad de la Fiscalía General.
+La Coordinación General de Relaciones Interinstitucionales, impulsará la relación de la Fiscalía General con las dependencias, unidades administrativas y órganos de la administración pública federal, estatal y municipal, así como con los órganos, instituciones, organizaciones y demás estructuras de la iniciativa privada, empresarial, comercial, de servicios, ganadera, agrícola y educativa, que de acuerdo con sus programas, fines y metas, se relacionen con la actividad de la Fiscalía General.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 164.
 
-Son facultades de la Dirección General del (sic) Coordinación Interinstitucional, las siguientes:
+Son facultades de la Coordinación General de Relaciones Interinstitucionales, las siguientes:
 
 I. Establecer comunicación directa y permanente con todas las instituciones, dependencias, unidades administrativas, organizaciones, estructuras y órganos citados en el artículo anterior;
 
-II. Representar al Fiscal General en todos los fideicomisos públicos y privados en los que la Fiscalía General forme parte, llevando un buen registro y control del ejercicio de los mismos;
+II. Promover con los organismos gubernamentales y privados, aportaciones a la Fiscalía General de bienes muebles e inmuebles, equipo de oficina, equipo para los elementos de la agencia, vehículos, armamento, uniformes, equipo informático y programas de capacitación ministerial, policial y administrativa, que contribuyan a un mejor desempeño de las tareas encomendadas a la Fiscalía General;
 
-III. Promover con los organismos gubernamentales y privados, aportaciones a la Fiscalía General de bienes muebles e inmuebles, equipo de oficina, equipo para los elementos de la Agencia, vehículos, armamento, uniformes, equipo informático y programas de capacitación ministerial, policial y administrativa, que contribuyan a un mejor desempeño de las tareas encomendadas a la Fiscalía General;
+III. Promover ante las instituciones educativas de nivel técnico y universitario, programas de prestación de servicio social de sus egresados en las labores de la Fiscalía General;
 
-IV. Promover ante las instituciones educativas de nivel técnico y universitario, programas de prestación de servicio social de sus egresados en las labores de la Fiscalía General;
+IV. Fortalecer y mejorar las acciones referentes a la procuración de justicia federal con la finalidad de incrementar la capacidad de respuesta a la demanda ciudadana;
 
-V. Recabar de las Fiscalías Generales Adjuntas, Fiscalías Regionales, Fiscalía de Justicia Indígena, Fiscalías Especializadas, Coordinaciones Generales, Direcciones Generales, unidades administrativas y órganos de la Fiscalía General, la información necesaria para tener al día la comprobación de las erogaciones que se realizan con motivo de las investigaciones;
+V. Participar con instituciones de gobierno, organismos sociales y privados, en foros que permitan establecer convenios de colaboración que se orienten al cumplimiento oportuno del programa estatal de desarrollo y sus programas derivados;
 
-VI. En coordinación con la Dirección General Jurídica, Normativa y Consultiva, elaborar los contratos y convenios de los insumos que de sus actividades recabe;
+VI. Establecer con las autoridades federales, estatales, municipales, sociales y privadas, las vías de comunicación y coordinación, cuya función se relacione con la procuración de justicia, dar seguimiento al avance y cumplimiento de los convenios y programas que se determinen para garantizar este propósito del Ejecutivo Estatal;
 
-VII. Dar opinión técnica en la contratación de equipo especializado que se requiera en la Fiscalía General y colaborar en la elaboración de los contratos respectivos; y,
+VII. Precisar en el H. Congreso del Estado, Asamblea Legislativa y Legislatura de los Estados de la República, el seguimiento de los asuntos que de acuerdo a la normatividad establecida son competencia de la Fiscalía General del Estado;
 
-VIII. Las demás que establezca la Ley Orgánica, éste Reglamento y demás disposiciones aplicables.
+VIII. Ejercer un efectivo control y seguimiento del avance y cumplimiento de los acuerdos que se determinen en la Conferencia Nacional de Procuración de Justicia, así como promover la cooperación de las Procuradurías Generales de Justicia del Distrito Federal y de entidades federativas del país;
+
+IX. Dar opinión técnica en la contratación de equipo especializado que se requiera en la Fiscalía General y colaborar en la elaboración de los contratos respectivos; y,
+
+X. Las demás que establezca la Ley Orgánica, este Reglamento y demás disposiciones aplicables.
 
 #### Sección Décima. De la Dirección General de Bienes Asegurados
 
@@ -2880,3 +2890,11 @@ Artículo Décimo Segundo.- Toda vez que las designaciones en la nueva estructur
 Dado en las instalaciones de la Fiscalía General del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de abril del año Dos mil Cinco.
 
 Mariano F. Herrán Salvatti, Fiscal General del Estado de Chiapas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2007.
+
+Primero.- La presente disposición entrará en vigor el día de su suscripción.
+
+Segundo.- Publíquese en el Periódico Oficial del Estado.
