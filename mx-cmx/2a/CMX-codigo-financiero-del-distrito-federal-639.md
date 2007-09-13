@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-08-03"
+last_updated: "2007-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO POR EL QUE MODIFICA EL CODIGO, LA PRESENTE ADICION ENTRARA EN VIGOR A LOS 30 DIAS SIGUIENTES DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -5500,6 +5502,10 @@ a). Concesión de Servicio Público de Transporte Colectivo de Pasajeros:
 
 3. Por reposición de título-concesión $2,324.30
 
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+4.- Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,200.00
+
 b). Autorización de Servicio de Transporte Público Metropolitano de Pasajeros:
 
 > <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
@@ -5765,6 +5771,10 @@ c). Por reposición de título concesión $2,320.70
 > <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
 d). Por la autorización de cesión de derechos de concesión $6,043.60
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+e).- Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $5,800.00
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -6360,10 +6370,6 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6399,6 +6405,10 @@ El servicio de recepción de residuos sólidos no peligrosos se prestará siempr
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -17327,3 +17337,11 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2 CON UNA FRACCION XVII
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y entre en vigor el 1 de enero de 2008.
 
 SEGUNDO.- Las reglas generales para la aplicación de este recurso serán publicadas a los 60 días de la publicación de la presente reforma.
+
+G.O. 13 DE SEPTIEMBRE DE 2007.
+
+Primero.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en la Gaceta Oficial del Distrito Federal. Para mayor difusión publíquese en el Diario Oficial de la Federación.
+
+Segundo.- El Órgano Ejecutivo local contará con 60 días a partir de la publicación en la Gaceta Oficial para realizar las modificaciones y adecuaciones a los procedimientos correspondientes.
+
+Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
