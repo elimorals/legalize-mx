@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2006-02-22"
+last_updated: "2007-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE FEBRERO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -650,6 +650,8 @@ Dicha concesión además de dar cumplimiento a los requisitos que se establecen 
 
 ### CAPÍTULO IV. DE LA CESIÓN O TRANSMISIÓN DE LAS CONCESIONES
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 33 Ter.
 
 Previo al otorgamiento de la adecuación de la concesión con medidas específicas para la seguridad en el servicio de transporte público de pasajeros individual, el concesionario, deberá además de cumplir con el contenido del artículo 29 de esta Ley, con los siguientes requisitos ya sea por las personas físicas o titulares, según corresponda:
@@ -744,9 +746,9 @@ Si la solicitud es presentada en tiempo y forma, la Secretaría tendrá como má
 
 ###### Artículo 36.
 
-Los derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, no deberán enajenarse o rentarse.
+Los derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, sólo podrán cederse, o transmitirse; previa autorización expresa, y por escrito de la Secretaría.
 
-Cualquier tipo de arrendamiento ó enajenación que se realice, será nula y no surtirá efecto legal alguno.
+Cualquier tipo de cesión o transmisión que se realice sin cumplir con el requisito establecido en el párrafo anterior, será nula y no surtirá efecto legal alguno.
 
 ###### Artículo 37.
 
@@ -754,41 +756,57 @@ La persona física titular de una concesión, tendrá derecho a nombrar hasta tr
 
 I.- Los beneficiarios tienen que ser parientes en línea recta en primer grado, colaterales en segundo grado o cónyuge;
 
-II.- La incapacidad física o mental, la declaración judicial de ausencia o la muerte del titular, que deberán acreditarse de manera fehaciente con los documentos idóneos para el efecto;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+II.- La incapacidad física o mental parcial o total y definitiva, la Declaración Judicial de Ausencia o fallecimiento del Titular, deberán acreditarse de manera fehaciente, con los documentos comprobatorios que para el efecto requieran o expidan las autoridades competentes;
 
 III.- El orden de prelación deberá ser excluyente y dejar constancia por escrito de la renuncia o imposibilidad, en su caso; y
 
 IV.- El beneficiario deberá cumplir con lo dispuesto en las fracciones III y IV del artículo siguiente.
 
-La solicitud de transmisión de derechos por alguna de las causas señaladas en este precepto, deberá presentarse dentro de los sesenta días siguientes al que se haya actualizado alguno de los supuestos. El no cumplir con esta obligación será causa de que la concesión se declare extinta.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+La solicitud de transmisión de derechos, por alguna de las causas señaladas en la fracción II (sic) este precepto, deberá presentarse dentro de los sesenta días siguientes, al que se haya actualizado alguno de los supuestos. El no cumplir con esta obligación, será causa de preclusión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 38.
 
-Para el cumplimiento de lo estipulado en el artículo anterior, la Secretaría deberá aprobar la cesión y/o transmisión de los derechos y obligaciones derivadas de una concesión, siempre y cuando se den los siguientes supuestos:
+Para el cumplimiento de lo dispuesto en los artículos 36 y 37, la Secretaría deberá aprobar la cesión o transmisión de los derechos y obligaciones derivadas de una concesión; siempre y cuando se den los siguientes supuestos:
 
-I.- Que la concesión de que se trate, hubiere estado a nombre del titular por un lapso no menor de dos años;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
-II.- Que el titular haya cumplido con todas las obligaciones establecidas en la concesión y en las demás disposiciones jurídicas y administrativas aplicables;
+I.- Que la concesión de que se trate, esté vigente y a nombre del titular cedente;
+
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Que el titular cedente haya cumplido con todas las obligaciones establecidas en la concesión y en las demás disposiciones jurídicas y administrativas aplicables hasta el momento en que se actualice la hipótesis;
 
 III.- Que el titular propuesto reúna los requisitos establecidos en la concesión y en las demás disposiciones jurídicas y administrativas aplicables; y
 
 IV.- Que el titular propuesto acepte expresamente, en su caso, las modificaciones establecidas por la Secretaría para garantizar la adecuada prestación del servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 39.
 
-La solicitud para la cesión o transmisión de los derechos y obligaciones derivados de una concesión, deberá presentarse por escrito ante la Secretaría a través del formato correspondiente y cumpliendo con todos y cada uno de los requisitos establecidos para el efecto.
+La solicitud para la autorización de cesión o transmisión de derechos y obligaciones derivados de una concesión, deberá presentarse por escrito ante la Secretaría, a través del formato correspondiente y cumpliendo con todos y cada uno de los requisitos establecidos para el efecto.
 
 De aprobarse la cesión de una concesión, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente otorgada la concesión, además de las modificaciones que en su caso, hubiere realizado la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 40.
 
-La Secretaría resolverá la solicitud de cesión o transmisión de los derechos derivados de una concesión, en un término que no excederá de cuarenta días hábiles a partir de que los interesados hayan cumplido todos los requisitos.
+La Secretaría resolverá la solicitud de cesión o transmisión de los derechos derivados de una concesión, en un término que en ningún caso excederá de cuarenta días hábiles a partir de que los interesados hayan cumplido todos los requisitos, la falta de respuesta de la autoridad en el plazo señalado se entenderá como resuelta en sentido positivo para el solicitante.
 
 Si agotado el plazo mencionado no se ha resuelto la petición respectiva, se entenderá como favorable para los efectos legales procedentes sin necesidad de certificación alguna y el interesado deberá presentar dentro de los cinco días siguientes, los comprobantes de pago de derechos y la documentación e información respectiva, para que dentro de los quince días posteriores le sea otorgado el documento correspondiente.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 41.
 
-Los derechos derivados de una concesión, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio público de transporte de pasajeros, sólo podrán ser gravados por el concesionario, mediante la conformidad expresa y por escrito de la Secretaría, sin cuyo requisito la operación que se realice, no surtirá efecto legal alguno.
+Los derechos derivados de la concesión, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio público de transporte de pasajeros, sólo podrán ser gravados por el concesionario, mediante autorización expresa y por escrito de la Secretaría, sin cuyo requisito la operación que se realice, no surtirá efecto legal alguno.
 
 ### CAPÍTULO VII. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES
 
@@ -1174,15 +1192,19 @@ Con el propósito de renovar y mejorar el parque vehicular y la infraestructura 
 
 Estará a cargo de la Secretaría el Registro Público de Transporte, el cual tiene encomendada el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 72.
 
-El Registro Público de Transporte a través de su titular, será el depositario de la fe pública y registral de los actos jurídicos, documentos relacionados con el transporte público, privado y particular en el Distrito Federal.
+El Registro Público de Transporte a través de su titular, será el depositario de la fe pública y registral de los actos jurídicos y documentos relacionados con el transporte en todas sus modalidades en el Distrito Federal.
 
 ###### Artículo 73.
 
 El Registro Público de Transporte se integrará por:
 
-I.- Registro de concesiones;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Registro de los titulares de las Concesiones;
 
 II.- Registro de permisos de transporte privado y mercantil;
 
@@ -1194,25 +1216,29 @@ V.- Registro de vehículos matriculados en el Distrito Federal;
 
 VI.- Registro y seguimiento de infracciones, sanciones y delitos;
 
-VII.- Registro de operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación; y
+VII.- Registro de operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación; y (sic)
 
-VIII.- Las demás que sean necesarias a juicio de la Secretaría.
+> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+VIII.- Registro de operadores por concesión, de transporte público individual y colectivo de pasajeros y de carga;
+
+IX.- Las demás que sean necesarias a juicio de la Secretaría.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 74.
 
-Sólo se permitirá el acceso al público en general, respecto a los datos relacionados en las fracciones I y IV del artículo que antecede, y estrictamente en cuanto a información que no involucre cuestiones personales y confidenciales de los titulares de los derechos respectivos.
+La información contenida en el Registro Público de Transporte, deberá ser colocada en la página de Internet del Gobierno del Distrito Federal y a petición de parte que acredite su interés legítimo, el Registro Público de Transporte proporcionará en un plazo no mayor a diez días hábiles la información contenida en sus acervos; excepto datos personales que pongan en peligro la integridad física de los titulares de los derechos respectivos.
 
 ###### Artículo 75.
 
 El titular, funcionarios y empleados del Registro Público de Transporte, serán responsables de la confidencialidad, guarda y reserva de los registros e información contenida en éste.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 76.
 
-Fuera de los supuestos contenidos en las fracciones I y IV del artículo 73, el Registro Público de Transporte únicamente podrá proporcionar información en los siguientes casos:
-
-I.- Que el solicitante acredite fehacientemente ser titular de algún derecho o registro ante la Secretaría; y
-
-II.- A solicitud formal y por escrito de autoridad competente, que funde y motive la necesidad de la información.
+El Registro Público de Transporte; además de los supuestos del presente Capítulo, proporcionará los datos que se le requieran por Ley; o bien, a solicitud formal y por escrito de autoridad competente que funde y motive, la necesidad de la información.
 
 ###### Artículo 77.
 
@@ -2065,3 +2091,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 13 DE SEPTIEMBRE DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 72, 73, 74 Y 76.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero del año dos mil ocho. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 13 DE SEPTIEMBRE DE 2007.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 36, 37, 38, 39, 40 y 41
+
+Primero.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en la Gaceta Oficial del Distrito Federal. Para mayor difusión publíquese en el Diario Oficial de la Federación.
+
+Segundo.- El Órgano Ejecutivo local contará con 60 días a partir de la publicación en la Gaceta Oficial para realizar las modificaciones y adecuaciones a los procedimientos correspondientes.
+
+Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
