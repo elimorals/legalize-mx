@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-feria-nacional-de-la-ciudad-de-zacatecas-873
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-16"
-last_updated: "1994-08-10"
+last_updated: "2007-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FERIA NACIONAL DE LA CIUDAD DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 16 de septiembre de 1981.
 
@@ -67,13 +67,19 @@ Para la administración, funcionamiento y desarrollo de la Feria Nacional de la 
 
 El Patronato de la Feria Nacional de la Ciudad de Zacatecas, es el organismo directivo de la Feria y se integrará por los sectores públicos y privados que enseguida se mencionan:
 
-a) Presidente Consultivo: El Gobernador Constitucional del Estado;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
-b) Presidente Ejecutivo: La persona que presida el Sistema Estatal para el Desarrollo Integral de la Familia en el Estado; y
+a) Presidente Consultivo: El Gobernador o Gobernadora del Estado;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+b) Presidente Ejecutivo: La persona que presida el Sistema Estatal para el Desarrollo Integral de la Familia, y
 
 c) Vocales:
 
-1. El Secretario de Planeación y Finanzas del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+1. El Secretario de Finanzas del Gobierno del Estado;
 
 2. El Oficial Mayor de Gobierno del Estado;
 
@@ -81,15 +87,21 @@ c) Vocales:
 
 4. El Secretario de Educación y Cultura del Gobierno del Estado;
 
-5. Un representante de la Unión Ganadera Regional;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+5. Un representante de la Unión Ganadera Regional de Zacatecas;
 
 6. Un representante de la Cámara Nacional de la Industria de la Transformación;
 
 7. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo de Zacatecas;
 
-8. El Delegado en el Estado de la Secretaría de Turismo;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
-9. Un representante del H. Cabildo Municipal de Zacatecas;
+8. El Secretario de Turismo;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+9. Un representante del H. Ayuntamiento Municipal de Zacatecas;
 
 10. El número de auxiliares que se estimen necesarios para el cumplimiento de determinadas funciones que decida el propio Patronato.
 
@@ -147,15 +159,29 @@ El Patronato exigirá la rendición de cuentas a quienes administren las cuestio
 
 ### CAPITULO II. FACULTADES DEL PATRONATO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 8.
 
-El Patronato tendrá las siguientes facultades:
+El Patronato de la Feria Nacional de la Ciudad de Zacatecas, tendrá como objeto social, la promoción de actividades económicas, turísticas, agropecuarias y otras de naturaliza análoga, que impacten en el Desarrollo del Estado; la realización de las actividades a que se refiere la Ley Federal de Juegos y Sorteos y su Reglamento, así como a destinar los recursos económicos que se obtengan por la ejecución de las mismas, a obras de beneficio social en los términos de la presente Ley. Tendrá las siguientes facultades:
 
 a) Proceder al nombramiento de los vocales, auxiliares y Comité Organizador de la Feria; que de acuerdo con la presente Ley queden a su arbitrio;
 
-b) Proceder al examen de las cuentas que rindan las personas que desempeñen funciones de carácter financiero y de administración de bienes, durante el tiempo en que se encuentre vigente su nombramiento; y
+b) Proceder al examen de las cuentas que rindan las personas que desempeñen funciones de carácter financiero y de administración de bienes, durante el tiempo en que se encuentre vigente su nombramiento; y (sic)
 
-c) Exigir, en su caso, personalmente o mediante la intervención de autoridades competentes, las responsabilidades en que incurran las personas que intervengan directa o indirectamente en el desarrollo de las actividades propias de la Feria.
+c) Exigir, en su caso, personalmente o mediante la intervención de autoridades competentes, las responsabilidades en que incurran las personas que intervengan directa o indirectamente en el desarrollo de las actividades propias de la Feria;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+d) Promover actividades económicas, turísticas, agropecuarias o de cualquier otra naturaleza, en el ámbito de su competencia;
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+e) Realizar, gestionar, pactar o contratar permisos o autorizaciones para juegos con apuestas, apuestas, sorteos, cruces con apuestas, carreras, espectáculos y demás eventos de esta naturaleza, en los términos de la Ley Federal de Juegos y Sorteos y el Reglamento de la Ley Federal de Juegos y Sorteos, y
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
+f) Destinar los fondos que se obtengan de las actividades señaladas en las fracciones anteriores, a obras de beneficio o asistencia social, las cuales serán ejecutadas por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ### CAPITULO III. FACULTADES DEL PRESIDENTE CONSULTIVO
 
@@ -297,11 +323,11 @@ Los bienes muebles, inmuebles, instalaciones y derechos que integran el complejo
 
 El Estado y el Sistema Estatal para el Desarrollo Integral de la Familia celebrarán los contratos o convenios que sean necesarios para determinar las condiciones en que deba desarrollarse el usufructo y administración de los bienes muebles e inmuebles a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 23.
 
-El mantenimiento y conservación de los bienes muebles e inmuebles así como las instalaciones a que se refiere el Artículo 21, queda a cargo de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas y Oficialía Mayor respectivamente, del Gobierno del Estado.
+El mantenimiento y conservación de los bienes muebles e inmuebles así como las instalaciones a que se refiere el Artículo 21, queda a cargo de la Secretaría de Obras Públicas y Oficialía Mayor de Gobierno.
 
 ###### ARTICULO 24.
 
@@ -369,15 +395,17 @@ El Patronato fijará las cuotas que deban cubrirse por el uso de espacios de la 
 
 La misma autorización a que se refiere el artículo 32, deberá solicitarse y obtenerse para el caso de que instituciones oficiales requieran del uso de las instalaciones de la Feria para la presentación de actos cívicos o de festejos ocasionales.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 36.
 
-La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, a más de la imposición de una sanción pecuniaria de mil a diez mil pesos, que se hará efectiva por conducto de la Dirección General de Finanzas y Tesorería.
+La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, a más de la imposición de una sanción pecuniaria de cien a trescientas cuotas de salario mínimo general vigente en el Estado, pesos, que se hará efectiva por conducto de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 37.
 
-La Secretaría de Planeación y Finanzas deberá ser consultada para la instalación de los puestos de exhibición o de algún espectáculo público.
+La Secretaría de Finanzas deberá ser consultada para la instalación de los puestos de exhibición o de algún espectáculo público.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -442,3 +470,11 @@ PRIMERO.- El Patronato expedirá el Reglamento Interior de la Feria dentro de un
 SEGUNDO.- Quedan derogadas todas las disposiciones legales que se opongan a esta Ley.
 
 TERCERO.- Las reformas que se adoptan en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2007.
+
+Artículo primero.- El presente Decreto entrará en vigor el mismo día de su aprobación.
+
+Artículo segundo.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
