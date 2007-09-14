@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2002-10-25"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -729,9 +729,7 @@ En ningún caso se gravará dos veces una misma operación con el impuesto a que
 
 II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1994)</small>
-
-No se pagará este impuesto por la adquisición de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2324,3 +2322,7 @@ P.O. 25 DE OCTUBRE DE 2002.
 DECRETO No. 103
 
 UNICO: La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de la publicación en el Periódico Oficial del Estado.
