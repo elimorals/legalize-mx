@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2007-05-18"
+last_updated: "2007-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -75,9 +75,25 @@ XV. Órganos de Control: Las áreas o unidades administrativas de las Entidades,
 
 XVI. Proceso Concluido: Aquél que las Entidades reporten como tal, en el Informe de Avance de Gestión Financiera, con base en el gasto devengado conforme a la estructura programática autorizada;
 
-XVII. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-XVIII. Programas: Los derivados de los Planes Estatal y Municipales de Desarrollo, sean sectoriales, especiales, subregionales y los operativos anuales que sustentan el Presupuesto de Egresos a los que se sujeta la gestión financiera de las Entidades.
+XVII. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XVIII. Programas: Los derivados de los Planes Estatal y Municipales de Desarrollo, sean sectoriales, especiales, subregionales y los operativos anuales que sustentan el Presupuesto de Egresos a los que se sujeta la gestión financiera de las Entidades, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XIX. Titulares de las Entidades: Los servidores públicos que se señalan en los siguientes incisos:
+
+a).- En el Poder Ejecutivo del Estado, el Gobernador del Estado tratándose de la administración pública centralizada y en relación a las entidades paraestatales que forman parte de la administración pública descentralizada las personas físicas designadas por el Gobernador como sus responsables.
+
+b).- En los Municipios, el Presidente Municipal tratándose de la administración pública centralizada y en relación a las entidades paramunicipales las personas físicas señaladas como responsables de acuerdo a su instrumento de creación.
+
+c).- En los Poderes Legislativos y Judicial y el Tribunal de lo Contencioso Administrativo los servidores públicos que funjan como sus respectivos Presidentes.
+
+d).- En el Instituto Estatal Electoral, el Presidente del Consejo Estatal Electoral, en la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado, el Procurador de los Derechos Humanos, y en los demás Organismos Constitucionales Autónomos del Estado, las personas físicas designadas como Presidentes por la Ley de su creación.
 
 ###### ARTÍCULO 3.
 
@@ -129,11 +145,17 @@ d) Informe sobre la aplicación de los recursos por transferencias y aportacione
 
 VII. En general, toda información que se considere útil para demostrar en forma clara y concreta la gestión realizada.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 9.
 
-Las Entidades enviarán al Congreso, a más tardar el treinta y uno de marzo de cada año, su Cuenta Pública correspondiente al ejercicio fiscal anterior.
+Los titulares de las Entidades deberán enviar al Congreso del Estado a más tardar el treinta y uno de marzo de cada año, su Cuenta Pública correspondiente al ejercicio fiscal anterior.
 
-Asimismo, las Entidades deberán remitir al Congreso, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, dentro de los meses de abril, julio y octubre del ejercicio en curso en el caso de los tres primeros, y el correspondiente al cuarto trimestre del año se incluirá en la remisión de la Cuenta Pública correspondiente.
+De la misma forma estarán obligados a remitir al Congreso, el Informe de Avance de Gestión Financiera sobre los resultados físicos y financieros de los programas a su cargo, dentro de los meses de abril, julio y octubre del ejercicio en curso en el caso de los tres primeros, y el correspondiente al cuarto trimestre del año se incluirá en la remisión de la Cuenta Pública correspondiente.
+
+Transcurrido el plazo señalado en los párrafos anteriores, sin que se hubiere remitido la Cuenta Pública o el Informe de Avance de Gestión Financiera, el Órgano informará a la Comisión de dicho incumplimiento y simultáneamente requerirá al titular de la Entidad, para que en un plazo de quince días hábiles contados a partir del día en que se reciba, remita la Cuenta Pública o el Informe de Avance de Gestión Financiera, según se trate, anexando un informe detallado en el que se señalen las causas o motivos por los cuales no se dio cumplimiento a la obligación señalada en los párrafos primero o segundo de este artículo. El Órgano hará del conocimiento a la Comisión el contenido de dichos informes, para que ésta dé cuenta al Pleno del Congreso y determine, lo que legalmente proceda.
+
+Si concluido el plazo señalado en el párrafo anterior, el titular de la Entidad no remitiere la Cuenta Pública o el Informe de Avance de Gestión Financiera, el Auditor Superior de Fiscalización hará la denuncia penal correspondiente y procederá a requerir, si lo hubiere, al superior jerárquico del titular omiso, el envío de la Cuenta Pública o el Informe de Avance de Gestión Financiera, según corresponda.
 
 ###### ARTÍCULO 10.
 
@@ -149,15 +171,15 @@ La documentación original comprobatoria y justificatoria del ingreso y gasto p�
 
 Las Entidades mantendrán a disposición del Organo dicha documentación original por lo menos durante dos años posteriores a la fecha de presentación de la Cuenta Pública que corresponda. Una vez transcurrido dicho término se digitalizará en los términos de la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 13.
 
-Las entidades deberán proporcionar al Órgano, dentro del plazo de diez días hábiles siguientes a la notificación del oficio de solicitud fundada y motivada, la información y documentación complementaria o adicional que éste les solicite, cuando a su juicio la remitida no sea suficiente para el esclarecimiento de los hechos de las operaciones efectuadas.
+Los servidores públicos de las Entidades deberán proporcionar al Órgano, dentro del plazo de diez días hábiles siguientes al de la notificación del oficio de solicitud fundada y motivada, la información y documentación complementaria o adicional que éste les solicite, cuando a su juicio la remitida no sea suficiente para el esclarecimiento de los hechos de las operaciones efectuadas.
 
-En los casos de incumplimiento a lo señalado en el párrafo anterior y en el artículo 9 de esta Ley, se hará del conocimiento del Congreso, por conducto de la Comisión, para que resuelva lo procedente. Asimismo, lo hará del conocimiento del superior jerárquico de la persona que haya incurrido en la omisión.
+En los casos de incumplimiento a lo señalado en el párrafo anterior, se hará del conocimiento del Congreso, por conducto de la Comisión, para que resuelva lo procedente. Asimismo, si lo hubiere, lo hará del conocimiento del superior jerárquico del titular que haya incurrido en la omisión.
 
-El Órgano deberá resolver con respecto a la solventación requerida, y en su caso efectuada, dentro de un plazo de diez días hábiles, contados a partir del día siguiente del que se dio debido cumplimiento a las obligaciones a que se refiere el primer párrafo de este artículo, haciéndolo del conocimiento de la Entidad respectiva.
+El Órgano deberá resolver con respecto a la solventación requerida, y en su caso efectuada, dentro de un plazo de diez días hábiles, contados a partir del día siguiente del que se dio debido cumplimiento a las obligaciones a que se refiere el primer párrafo de este artículo, haciéndolo del conocimiento a los titulares de los servidores públicos de las entidades respectivas.
 
 ###### ARTÍCULO 14.
 
@@ -934,3 +956,7 @@ P.O. 2 DE MARZO DE 2007.
 P.O. 18 DE MAYO DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
