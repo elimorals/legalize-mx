@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "2006-09-29"
+last_updated: "2007-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -189,9 +189,9 @@ Asimismo queda prohibido, prestar simultáneamente servicios de cualquier carác
 
 El Programa de Seguridad Pública para el Estado de Baja California, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizar los Cuerpos de Seguridad en el corto, mediano y largo plazo. Este programa tendrá carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestal anual, así como a las disposiciones y lineamientos que sobre el particular dicten los órganos competentes.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-El Programa de Seguridad Pública para el Estado de Baja California se elaborará dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Secretaría y los ayuntamientos, con la colaboración de la Procuraduría en lo que a la investigación y persecución de delitos le corresponde y con la intervención del Consejo Ciudadano de Seguridad Pública y de los Comités Ciudadanos Municipales de Seguridad Pública en los términos del artículo 52, fracciones I y II de esta Ley; dicho Plan se revisará anualmente y su resumen se publicará en el Periódico Oficial del Estado.
+El Programa de Seguridad Pública para el Estado de Baja California se elaborará dentro de los seis meses siguientes a la publicación del Plan Estatal de Desarrollo y a los Planes de Desarrollo Municipales, por la Secretaría y los Ayuntamientos, con la colaboración de la Procuraduría en lo que a la investigación y persecución de delitos le corresponde y con la intervención del Consejo Ciudadano de Seguridad Pública y de los Comités Ciudadanos Municipales de Seguridad Pública en los términos del artículo 52, fracciones I y II de esta Ley; dicho Programa se revisará anualmente respecto a sus resultados, tomando como base la disminución de la problemática que atienda, y su resumen se publicará en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -201,11 +201,11 @@ Corresponde al Gobernador del Estado y a los Presidentes Municipales, en sus res
 
 El programa deberá guardar congruencia con los Programas Nacionales y se sujetará a las previsiones contenidas en el mismo. En la formulación del programa, el Gobierno del Estado y los Municipios llevarán a cabo los foros de consulta previstos en la Ley de Planeación del Estado de Baja California; atenderán los lineamientos generales que establezcan los programas nacionales en materia de seguridad, procuración, prevención del delito y readaptación social, además de considerar las opiniones del Consejo y de los comités municipales de participación en materia de seguridad pública y de las organizaciones vecinales o sociales en general.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 16.
+###### ARTICULO 16.
 
-Los Ayuntamientos y la Secretaría, informarán al Gobernador del Estado y al Congreso del Estado, sobre los avances del programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio del derecho que le asiste al Poder Legislativo de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas dependencias.
+Los Ayuntamientos y la Secretaría, informarán anualmente al Congreso del Estado y al Gobernador del Estado los resultados y avances del programa, y por separado de cualquier otro informe que legalmente deban rendir, sin perjuicio del derecho que le asiste al Poder Legislativo de recabar información sobre casos o materias concretas en los términos de Ley. El Congreso del Estado evaluará los avances y remitirá sus observaciones a dichas dependencias.
 
 ###### ARTÍCULO 17.
 
@@ -1104,3 +1104,7 @@ P.O. 24 DE FEBRERO DE 2006.
 P.O. 29 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
