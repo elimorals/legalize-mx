@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2007-04-14"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2131,17 +2131,31 @@ Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de 
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-## TITULO SEXTO. De la Comisión Estatal de los Derechos Humanos
+## TITULO SEXTO. De la Comisión para la Defensa de los Derechos Humanos
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138 BIS], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTICULO 114.
+###### Artículo 114.
 
-La Comisión Estatal de Derechos Humanos es un organismo descentralizado, con personalidad jurídica y patrimonio propios, que se encargará de la protección, observancia, promoción, estudio y divulgación de los derechos humanos, previstos por el orden jurídico mexicano.
+La protección y promoción de los derechos humanos en el Estado Libre y Soberano de Oaxaca estará a cargo de un organismo público, autónomo, con personalidad jurídica y patrimonio propios denominado Comisión para la Defensa de los Derechos Humanos. Su objeto es la defensa, promoción de la cultura del respeto, estudio y divulgación de los derechos humanos consagrados en esta Constitución, así como en el resto del orden jurídico mexicano y fomentar el respeto a la identidad y derechos de las comunidades y pueblos indígenas del Estado.
 
-Esta Comisión conocerá de quejas en contra de actos y omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que viole estos derechos. Así mismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+La Comisión conocerá de las quejas que presenten cualquier persona, grupo de personas u organización no gubernamental reconocida en el Estado, sobre actos u omisiones de naturaleza administrativa que se consideren violatorios de los derechos humanos y provengan de cualquier servidor público del Estado o los Municipios, con excepción de los del Poder Judicial del Estado. En los mismos términos conocerá y se pronunciará sobre la incidencia de violaciones a derechos humanos entre particulares, siempre que no se trate de conflictos estrictamente individuales; la ley determinará los casos y alcances de este supuesto.
+
+La Comisión formulará recomendaciones públicas no vinculatorias, propuestas, informes, así como denuncias y quejas a las autoridades respectivas. No tendrá competencia para intervenir o conocer de quejas referentes a asuntos electorales, laborales y jurisdiccionales.
+
+Cada año el Congreso del Estado le asignará a la Comisión el presupuesto necesario para cumplir con todas sus atribuciones de manera adecuada y eficaz.
+
+La Comisión tendrá la facultad de iniciativa de ley en materia de derechos humanos, incluyendo la de presentar anualmente el proyecto de presupuesto para su discusión, ante el Congreso del Estado, de acuerdo con lo que dispongan las leyes de la materia. Asimismo, podrá interponer acciones de inconstitucionalidad, en contra de leyes expedidas por la Legislatura del Estado, en los términos del artículo 105 fracción II inciso g), párrafo primero, segunda parte de la Constitución Política de los Estados Unidos Mexicanos.
+
+La Comisión para la Defensa de los Derechos Humanos, contará con un Consejo Consultivo integrado por diez personas, designadas por el voto de las dos terceras partes de los integrantes del Congreso del Estado. La Ley fijará los procedimientos para la postulación de aspirantes que serán sometidos a la consideración del Congreso, bajo los principios de pluralidad, equidad de género, apartidismo y no discriminación. Cada dos años serán sustituidos los dos Consejeros de mayor antigüedad, salvo que fueren propuestos y ratificados para un segundo periodo.
+
+La Comisión estará a cargo de su Presidente, quien también integrará y presidirá el Consejo Consultivo de la misma. El Presidente de la Comisión deberá contar preferentemente con titulo de licenciado en derecho y su nombramiento se llevará a cabo conforme al procedimiento establecido en el párrafo anterior. El Presidente de la Comisión durará en su encargo 5 años y podrá ser propuesto y ratificado para un segundo período. Sólo podrá ser removido conforme al procedimiento establecido en el Titulo Séptimo de esta Constitución.
+
+> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
+
+El Presidente de la Comisión para la Defensa de los Derechos Humanos, deberá presentar anualmente un informe de labores, en los términos que disponga la Ley.
 
 (REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3084,6 +3098,14 @@ DUODECIMO.- Se derogan todas las disposiciones constitucionales y legales que se
 P.O. 14 DE ABRIL DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+PRIMERO - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado, contará con un plazo de seis meses contados a partir de la publicación del presente Decreto, para emitir la Ley Reglamentaria respectiva.
+
+TERCERO.- Hasta en tanto se expida la Ley Reglamentaria del artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca, que se reforma con el presente Decreto, se seguirán aplicando en todas y cada una de sus partes la actual Ley de la Comisión de Derechos Humanos del Estado Libre y Soberano de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
