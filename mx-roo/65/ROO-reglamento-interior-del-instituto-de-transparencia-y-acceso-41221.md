@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-instituto-de-transparencia-y-acceso-412
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-30"
-last_updated: "2004-09-30"
+last_updated: "2007-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en el Número 18 Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de septiembre de 2004.
 
@@ -83,9 +83,17 @@ III. Los Consejeros Vocales;
 
 IV. Comisiones y Comités;
 
-V. El Secretario; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Las Direcciones de: A) Jurídica Consultiva, B) Capacitación, C) Vinculación, D) Administración, E) Informática, y E) Contraloría Interna.
+V. El Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VI. La Contraloría Interna que para efectos de este reglamento, en lo sucesivo se le denominará Órgano Interno de Control; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Las Direcciones: A) Jurídica Consultiva, B) De Capacitación, C) De Vinculación y D) De Administración.
 
 ### Capítulo Tercero. De la Junta de Gobierno
 
@@ -111,7 +119,9 @@ V. Llevar a cabo, a petición de parte, investigaciones en relación a quejas so
 
 VI. Ordenar a los Sujetos Obligados que proporcionen información a los solicitantes en los términos de la presente Ley;
 
-VII. Promover en la sociedad el conocimiento, uso y aprovechamiento de la información pública, así como la capacitación y actualización de los trabajadores públicos en la cultura de acceso a la información pública y protección de datos personales, a través de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Acordar las líneas de acción pata la promoción en la sociedad, del conocimiento, uso y aprovechamiento de la información pública, así como la capacitación y actualización de los trabajadores públicos en la cultura de acceso a la información pública y la protección de datos personales, a través de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
 
 VIII. Garantizar la protección de los datos personales;
 
@@ -125,9 +135,13 @@ XII. Proponer a las autoridades educativas competentes la inclusión en los prog
 
 XIII. Impulsar, conjuntamente con instituciones de educación superior, la investigación, difusión y docencia sobre el derecho de acceso a la información pública que promueva la sociabilización de conocimientos sobre él tema;
 
-XIV. Difundir y ampliar el conocimiento sobre la materia de la Ley;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-XV. Realizar tos estudios e Investigaciones necesarios para el, buen desempeño de sus atribuciones;
+XIV. Acordar sobre la difusión y ampliación del conocimiento sobre la materia de la Ley;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XV. Acordar sobre la realización de los estudios e investigaciones necesarios para el buen desempeño de sus atribuciones;
 
 XVI. Procurar, a petición de los particulares, la conciliación de sus intereses cuando estos entren en conflicto con los Sujetos Obligados, con motivo de la aplicación de esta ley;
 
@@ -145,27 +159,53 @@ XXII. Expedir normas internas de funcionamiento;
 
 XXIII. Aprobar la contratación del personal del Instituto, por conducto de una Comisión o Comité para él efecto establecido;
 
-XXIV. Aprobar el orden del día de sus sesiones y los recesos para las mismas; y
+XXIV. Aprobar el orden del día de sus sesiones y los recesos para las mismas; y (sic)
 
-XXV. Las demás que le confiera esta Ley.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXV. Elaborar los programas que deriven del Plan Estatal de Desarrollo; inherentes a sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXVI. Elaborar y rendir, en cualquier tiempo, al Congreso del Estado los informes relativos al estado que guarda la ejecución de sus programas y el ejercicio de su presupuesto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXVlI. Expedir lineamientos, acuerdos y cualquier normatividad inherente al debido funcionamiento organizacional, operacional y de ejecución del gasto público del Instituto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXVIII. Ejercer, las atribuciones que, en el marco del Sistema de Planeación Democrática del Estado de Quintana Roo, le otorga el Artículo 28 y demás relativos y aplicables de Ley de Planeación Para el Desarrollo del Estado de Quintana Roo; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXIX. Las demás que le confiera la Ley y el presente Reglamento.
 
 ###### Artículo 7°.
 
 La Junta de Gobierno celebrará sesiones ordinarias y extraordinarias.
 
-Las sesiones ordinarias se llevarán a cabo dos veces al mes, en las fechas que se establezcan en el calendario, que para tal efecto se apruebe mes con mes.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-Las sesiones extraordinarias serán convocadas en cualquier tiempo cuando los asuntos en cartera, por su propia y especial naturaleza, ameriten ser tratados con celeridad.
+Las sesiones ordinarias se llevarán a cabo por lo menos dos veces al mes.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+Las sesiones extraordinarias serán convocadas en cualquier tiempo cuando los asuntos que por su propia y especial naturaleza, ameriten ser tratados con celeridad o exclusividad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 8°.
 
-Las sesiones de la Junta de Gobierno serán convocadas por el Consejero Presidente, o por los Consejeros Vocales cuando aquel no haya convocado a la sesiones con las formalidades que previene el presente reglamento, o bien éstos califiquen la urgencia de asunto que amerite su inmediata atención, por lo que en estos casos, entre la entrega de convocatoria que emitan los Consejeros Vocales y la celebración de la sesión, deberá mediar por lo menos doce horas.
+Las sesiones de la Junta de Gobierno serán convocadas por el Consejero Presidente, o por los Consejeros Vocales cuando aquel no haya convocado a la sesiones con las formalidades que previene el presente Reglamento, o bien, éstos califiquen la urgencia del asunto que amerite su inmediata atención.
 
 Durante la ausencia del Consejero Presidente, corresponderá al Consejero Vocal de mayor antigüedad convocar a sesiones.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 9°.
 
-Para que las sesiones de la Junte de Gobierno sean válidas, se requiere haber convocado debidamente a sus Integrantes, de conformidad a lo que se establece en el presente reglamento, y que a la misma, asistan por lo menos, dos de sus integrantes.
+Para que las sesiones de la Junta de Gobierno sean válidas, se requiere haber convocado debidamente a sus integrantes, de conformidad a lo que se establece en el presente Reglamento, y que a la misma asistan, por lo menos, dos de sus Integrantes, siempre y cuando se encuentre entre ellos el Consejero Presidente.
 
 ###### Artículo 10.
 
@@ -179,7 +219,9 @@ Los integrantes de la Junta de Gobierno solo podrán votar a favor o en contra. 
 
 La convocatoria, a sesión ordinaria deberá ser entregada a los integrantes de la misma, por lo menos con cuarenta y ocho horas de anticipación, y deberán acompañarse la orden del día propuesto, así como los documentos necesarios para imponerse debidamente de los asuntos a tratar.
 
-En tanto que la convocatoria a sesión extraordinaria se realizará en los mismos términos que la ordinaria, con excepción de su entrega, la cual deberá realizarse por lo menos con veinticuatro horas de anticipación.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+En tanto que, la convocatoria a sesión extraordinaria podrá ser realizada en cualquier tiempo; acompañándose a la misma los documentos necesarios para su desahogo y citándose para que asistan a la sesión a cualquier funcionario del Instituto que así se considere pertinente.
 
 ###### Artículo 12.
 
@@ -189,11 +231,15 @@ I. Pase de lista de asistencia y verificación de quórum legal;
 
 II. Declaración de instalación de la sesión;
 
-III. Lectura, y aprobación en su caso, del acta de la sesión anterior;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-IV. Lectura de correspondencia y acuerdos de su trámite;
+III. Aprobación, en su caso, del acta de la sesión anterior;
 
-V. Asuntos, específicos a tratar;
+IV. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2007)
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+V. Los asuntos a tratar en la sesión, haciéndolo con la debida separación por Consejero ponente y sin que se incluyan el tratamiento de dos o más puntos en uno sólo, siguiendo el orden de la convocatoria;
 
 VI. Asuntos generales; y
 
@@ -213,13 +259,17 @@ IV. Lectura y aprobación del acta de la sesión extraordinaria;
 
 V. Clausura de la Sesión.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 14.
 
-Cualquier integrante de la Junta de Gobierno puede proponer asuntos a tratar en las sesiones, siempre y cuando, estos se comuniquen por escrito con setenta y dos, horas de anticipación a que se celebre la sesión.
+Cualquier integrante de la Junta de Gobierno puede proponer asuntos a tratar en las sesiones ordinarias, siempre y cuando, estos se comuniquen por escrito con setenta y dos horas de anticipación a que se celebre la sesión, a fin de que sean considerados en la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 15.
 
-Todas las sesiones de la Junta de Gobierno son de naturaleza pública. En consecuencia, deberá de comunicarse al público en general, mediante cedula de notificación que se fije en los estrados que para tal efecto se habiliten en las instalaciones oficiales del Instituto, así como en el sitio web.
+Todas las sesiones de la Junta de Gobierno son de naturaleza pública y se regirán bajo los lineamientos que al efecto expidan y aprueben sus integrantes. En consecuencia, deberá de comunicarse al público en general, inmediatamente después de que haya sido firmada la convocatoria, mediante cédula de notificación que se fije en los estrados que para tal efecto se habiliten en las instalaciones oficiales del Instituto, así como en el sitio web de este último.
 
 ###### Artículo 16.
 
@@ -229,15 +279,39 @@ I. Lugar, fecha y hora en que se celebre;
 
 II. Nombre de quienes participan;
 
-III. Los asuntos tratados;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-IV. La constancia de acuerdos tomados; y
+III. Relación ordenada y clara de cuanto se trate y acuerde en las sesiones;
 
-V. La trascripción literal de la participación de los que en la misma intervengan.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+IV. El extracto del argumento y propuesta concreta de la participación de los que en la misma intervengan;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+V. La trascripción literal de la participación de los que en la misma intervengan y que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VI. La expresión y sentido de la votación;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VII. La constancia de los documentos o instrumentos que por separado formarán parte del acta, como anexos;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VIII. La fecha y hora de clausura de la sesión; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+IX. La firma de los integrantes de la Junta de Gobierno presentes.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
-Las actas de sesión de la Junta de Gobierno son de carácter público, y deberán publicarse las mismas en el sitio web del Instituto.
+Las actas de sesión de la Junta de Gobierno son carácter público y deberán publicarse en el sitio web del Instituto, a más tardar dentro de las veinticuatro horas posteriores a su aprobación, de conformidad con la normatividad aplicable. Entre tanto, el titular de la Secretaria Ejecutiva pondrá un listado que contenga un extracto de los acuerdos tomados por la Junta de Gobierno para cada sesión en la web, en un plazo que no podrá ser mayor a las 48 horas de concluida la sesión de que se trate.
 
 ###### Artículo 18.
 
@@ -263,7 +337,9 @@ IV. Otorgar poderes para pleitos y cobranzas, representación legal y actos de a
 
 V. Otorgar autorización al titular de la Dirección Administrativa del instituto, a fin de que éste realice gestiones operativas para el buen despacho de las actividades inherentes a su encomienda;
 
-VI. Rendir, un informe mensual, a los integrantes de la Junta de Gobierno, respecto del uso y destino de los recursos asignados al Instituto;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Presentar el informe mensual de ejercicio, uso y destino de los recursos asignados al Instituto emitido por la Dirección de Administración bajo la suspensión de éste, a los integrantes de la Junta de Gobierno;
 
 VII. Proporcionar a los Consejeros Vocales toda la información que le soliciten en el, marco de su actuar oficial;
 
@@ -295,27 +371,39 @@ VI. Las demás que se les asignen por disposición legal, reglamentaria, disposi
 
 Para el despacho de encomiendas especificas, por acuerdo de la Junta de Gobierno o por disposición normativa, se podrá crear Comisiones y Comités de carácter transitorios o bien permanentes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 23.
 
-Las Comisiones y Comités se integrarán de acuerdo con lo que determine la Junta de Gobierno, en todo caso, habrá un Consejero quién presidirá las mismas.
+Las comisiones y comités se integrarán de acuerdo con lo que determine la Junta de Gobierno, en todo caso, habrá un Consejero o Director quien presidirá las mismas.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
-Las Comisiones y Comités, por conducto de su presidente, rendirán informes mensuales respecto del despacho y atención de los asuntos encomendados.
+Las comisiones y comités, por conducto de su presidente, rendirán informes mensuales respecto de despacho y atención de los asuntos encomendados y un informe final que deberá presentarse ante la Secretaría Ejecutiva, dentro de los tres días siguientes a la conclusión del procedimiento o del logro objeto para el cual fueron creados; quién deberá presentarlo en la sesión inmediata posterior a la Junta de Gobierno.
 
 ###### Artículo 25.
 
 De cada reunión de trabajo de las Comisiones y Comités se levantará una minuta que pormenorice los asuntos desahogados, así como los acuerdos tomados.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+Así mismo, de cada reunión de trabajo entre los Consejeros, entre Directores o entre éstos con la presencia del Secretario Ejecutivo, o entre Coordinadores, se levantará una minuta que pormenorice los asuntos desahogados así como los acuerdos tomados.
+
 ### Capítulo Séptimo. Del Secretario
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 26.
 
-El Secretario es un órgano de apoyo de la Junta de Gobierno, y ejecutor, cuando así se indique, de las determinaciones de la misma.
+El Secretario Ejecutivo es un órgano de apoyo de la Junta de Gobierno y ejecutor de las determinaciones de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 27.
 
-El Secretario tendrá las siguientes atribuciones y deberes:
+El Secretario Ejecutivo tendrá las siguientes atribuciones y deberes:
 
 I. Acordar con los Consejeros de la Junta de Gobierno, lo conducente para la celebración de las sesiones ordinarias y extraordinarias de la Junta de Gobierno;
 
@@ -341,9 +429,53 @@ XI. Servir de enlace operativo entre la Junta de Gobierno y las Direcciones del 
 
 XII. Apoyar en todo aquello que los Consejeros requieran para el desempeño de sus funciones;
 
-XIII. Atender las solicitudes de la Dirección de Vinculación, en materia de Acceso a la Información Pública que obre en el Instituto; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-XIV. las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+XIII. Atender las solicitudes de la Unidad de Vinculación, en materia de Acceso a la Información Pública que obre en el Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XIV. Dar seguimiento a los acuerdos de la Junta de Gobierno, hasta su conclusión;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XV. Proponer a la Junta de Gobierno y ejecutar los proyectos de la infraestructura informática y telecomunicación que requiera el Instituto, para el adecuado y eficaz desempeño de su encomienda legal y desarrollar la misma, para la atención de cualquier área del Instituto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XVI. Crear el sitio web del Instituto y responsabilizarse de su administración, de conformidad con lo que determine la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XVII. Coadyuvar y participar en la elaboración de programas inherentes a la sociaIización del derecho de acceso a la información y la protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XVIII. Tener bajo su adscripción la oficialía de partes del Instituto, recibir, turnar y despachar la correspondencia;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XIX. Representar al Instituto en los asuntos que la Junta de Gobierno, le encomiende;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XX. Elaborar anteproyectos para reformar y adicionar el presente Reglamento y la normatividad del Instituto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXI. Realizar los actos tendientes y necesarios para ejecutar la política de comunicación social del Instituto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXII. Proponer a la Junta de Gobierno, campañas de difusión en medios de comunicación relativas al ejercicio del derecho de acceso a la información y respecto de las funciones y actividades del Instituto;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXIII. Elaborar el informe de actividades y resultados que debe rendir, anualmente, el Consejero Presidente del Instituto ante el Congreso del Estado, en términos del artículo 49 de la Ley de Transparencia y Acceso a la Información Pública de Quintana Roo; y someterlo a la consideración y, en su caso, aprobación la Junta de Gobierno; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES FRACCION XIV], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+XXIV. Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
 
 A.- Para ser titular de la Secretaría se requiere reunir y mantener los requisitos previstos en el artículo 43 de la Ley.
 
@@ -353,105 +485,215 @@ C.- La Secretaría contará con el personal necesario para atender su encomienda
 
 ### Capítulo Octavo. De los (sic) Direcciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 28.
 
-El instituto contará en su estructura administrativa de las siguientes Direcciones:
+El Instituto contará en su estructura administrativa con las siguientes Direcciones:
 
 A. Jurídica Consultiva.
 
 I.- La Dirección Jurídica Consultiva, tendrá las siguientes atribuciones y deberes:
 
-1) Asesorar a todos los órganos del Instituto, para que éstos en su actuar oficial, se conduzcan en, estricto apego a las disposiciones constitucionales y legales;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-2) Coadyuvar con los Consejeros y el Secretario, en la tramitación y resolución de los recursos de revisión, elaborando para tal fin, proyectos de acuerdos y de resoluciones;
+1) La defensa jurídica institucional, representar al Instituto, previa delegación de atribuciones que le otorgue el Consejero Presidente por escrito, de conformidad con lo previsto en la legislación civil y sus correlativas, ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que tenga interés o injerencia jurídica, incluyendo el ejercicio de todos los derechos procesales que las leyes reconocen a las partes y promover el juicio de amparo en contra de los actos y leyes que afecten la esfera jurídica del Instituto o los de quien éste represente;
 
-3) Notificar todas aquellas resoluciones y/o acuerdos que tome la Junta General, por medio del personal facultado para ello;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Intervenir en todo tipo de juicio o proceso jurisdiccional, o bien administrativo, en que el Instituto sea parte, y para velar por los intereses del mismo;
+2) Formular denuncias, querellas, así como quejas o denuncias ante las autoridades correspondientes;
 
-5) Elaborar o revisar todos los Convenios, Contratos, Bases o, cualquier tipo de instrumento legal que signifique la adquisición de obligaciones a cargo del Instituto, informando de los alcances y trascendencia de los mismos, a los integrantes de la Junta de Gobierno, previo a la firma;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-6) Analizar el marco jurídico del Instituto, con la finalidad de elaborar proyecto de propuestas modificatorias al mismo o bien la expedición de diversa normatividad;
+3) Otorgar perdón en materia penal o desistirse de las instancias, previo mandato de la Junta de Gobierno;
 
-7) Compilar las disposiciones y acuerdos de la Junta de Gobierno;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-8) Compilar leyes, reglamentos y en general cualquier tipo de normatividad, de jurisdicción estatal o municipal en la entidad, así como procurar el acopio de los ejemplares del Diario Oficial de la Federación y del Periódico Oficial del Gobierno del Estado de Quintana Roo;
+4) Elaborar los proyectos de normas, lineamientos y criterios que establece la Ley y los que la Junta de Gobierno le encomiende;
 
-9) Elaborar estudios comparativos de las Constituciones y Legislaciones existentes en la República Mexicana, en materia de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-10) Atender las solicitudes de la Dirección de Vinculación, en materia de Acceso a la Información Publica que obre en el Instituto; y
+5) Elaborar proyectos de criterios y lineamientos respecto a la tutela de protección de datos personales; así como reglas generales para la creación de un sistema de archivos, atendiendo la relación Institucional con el Archivo General del Estado;
 
-11) Las demás que se, le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+6) Asesorar, revisar y coadyuvar en proyectos, manuales de cualquier área del Instituto, en especial aquellos que refieran a la aplicación de la Ley, si como en el diseño de normas internas y demás Ordenamientos necesarios para el óptimo funcionamiento del Instituto;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+7) Coadyuvar en la substanciación de los recursos de revisión, en los términos previstos en la Ley, el presente Reglamento y demás normatividad aplicable, así como elaborar las propuestas de proyectos de resolución en ponencia de los consejeros Integrantes de la Junta de Gobierno;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+8) Notificar todas aquellas resoluciones y/o acuerdos que tome la Junta de Gobierno, a través del personal facultado para ello;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+9) Compilar las disposiciones y acuerdos de la Junta de Gobierno;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+10) Compilar leyes, reglamentos y en general cualquier tipo de normatividad, de jurisdicción federal, estatal o municipal, así como de los ejemplares del Diario Oficial de la Federación y del Periódico Oficial del Gobierno del Estado de Quintana Roo;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+11) Elaborar estudios comparativos de las constituciones y legislaciones existentes en la república mexicana, en materia de transparencia y acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+12) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública que obre en el Instituto;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+13) Coadyuvar en el fomento de la transparencia y el derecho de acceso a la información, a través de aquéllas estrategias que la Junta de Gobierno apruebe;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+14) Participar en los eventos, conferencias, talleres, simposios y en general en todas aquellas actividades que realice el Instituto derivadas de su planeación estratégica;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+15) Formular, revisar, validar y dar seguimiento a los proyectos de convenios y contratos en los que el Instituto sea parte hasta su suscripción y, en su caso, proponer las adecuaciones convenientes conforme a las disposiciones legales aplicables para la mejor operatividad de los mismos, así como llevar un registro para su control;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+16) Coadyuvar con el Órgano Interno de Control del Instituto, en la instrumentación de los procedimientos administrativos a que hubiere lugar, incluso cuando se trate de acciones legales en contra de servidores o exservidores públicos del Instituto, promoviendo en ejecución de mandato la acción legal correspondiente;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+17) Emitir un informe mensual sobre tos asuntos jurídicos del Instituto;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+18) Elaborar el anteproyecto de programa de trabajo anual del área a su cargo y remitirlo oportunamente a la Unidad Administrativa de Planeación del Instituto, observando los lineamientos que para el efecto se le instruyan; y
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+19) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
 
 II.- Para ser titular de la Dirección Jurídica Consultiva se requiere reunir y mantener los siguientes requisitos:
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
 
 2) Estar inscrito en el padrón electoral y contar con credencial para votar;
 
-3) Tener más de veinticinco años de edad;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Poseer título profesional de Licenciado en Derecho expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado en Derecho a la Información;
+3) Tener veinticinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Poseer título profesional de licenciado en derecho expedido por la institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la Información, derecho administrativo o gestión pública;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
 6) No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
 
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete años anteriores a la fecha de designación;
+7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
+8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 III.- El cargo de titular de la Dirección Jurídica Consultiva es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
-IV.- El personal jurídico de la Dirección Jurídica Consultiva se íntegra con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-1) Abogados Proyectistas.
+IV.- La Dirección Jurídica Consultiva contará con el personal necesario para atender su encomienda, de conformidad con el catálogo de puestos y funciones y la disposición presupuestal del Instituto.
 
-Los abogados proyectistas, entre otras funciones que se les asigne, se encargarán de elaborar los proyectos de resolución de los Recursos de Revisión que se tramiten en el Instituto. Estarán asignados operativamente a cada integrante de los integrantes de la Junta de Gobierno.
+1) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-2) Abogados Consultores.
+2) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-Los abogados consultores, entre otras funciones que se les asigne, se encargarán de coadyuvar en las tareas propias de la Dirección Jurídica Consultiva.
-
-3) Abogados Notificadores.
-
-Los Abogados Notificadores, entre otras funciones que se les asigne, se encargarán de notificar las resoluciones y acuerdos del Instituto, y por tal virtud, estará investido de la facultad de dar fe respecto y únicamente, de las diligencias que en tal sentido realice.
+3) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 B. Capacitación.
 
 I.- La Dirección de Capacitación, tendrá las siguientes atribuciones y deberes:
 
-1) Elaborar los proyectos de contenidos conceptuales que revele la importancia social del derecho de acceso a la información pública y la protección de datos personales, que el Instituto debe promover ante las autoridades educativas del Estado, a fin de incluirlos en los planes y programas de estudio de los diversos niveles educativos. Para facilitar lo anterior, además, diseñará una propuesta de material didáctico;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-2) Organizar Diplomados, Seminarios, Coloquios, Cursos, Talleres, Conferencias y demás eventos análogos, dirigidos a los sujetos obligados y a la ciudadanía en general, con el propósito de que el, Instituto difunda la Ley y mantenga actualizado el conocimiento sobre la materia;
+1) Elaborar, ejecutar y evaluar los programas y proyectos de capacitación e investigación en materia de transparencia, acceso a la información pública y temas relacionados y contenidos en el programa operativo anual aprobado por la Junta de Gobierno;
 
-3) Generar e instrumentar programas de capacitación permanente para el personal del Instituto, con la finalidad de que aquellos adquieran, actualicen o incrementen los conocimientos necesarios para el debido y eficaz desempeño de sus responsabilidades;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Generar todo tipo de material que facilite sus actividades propias y naturales de capacitación;
+2) Coadyuvar en la vinculación del Instituto con todas aquellas instancias educativas públicas, privadas y sociales con el propósito de promover la cultura de la transparencia y acceso a la información pública;
 
-5) Llevar un registro de personas capacitadas;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-6) Atender las solicitudes de la Dirección de vinculación, en materia de Acceso a la Información Pública que obre en el Instituto; y
+3) Contribuir al análisis relativo a los temas de acceso a la información pública, información reservada y de protección de datos personales, capacitando y fortaleciendo a los entes públicos en estas materias;
 
-7) Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Informar mensualmente por escrito, del avance y resultados de sus actividades, a la Junta de Gobierno;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+5) Elaborar los proyectos de contenidos conceptuales y programáticos que revelen la importancia social del derecho de acceso a la información pública y la protección de datos personales, que el Instituto debe promover ante las autoridades educativas del Estado, a fin de incluirlos en los planes y programas de estudio de los diversos niveles educativos. Para facilitar lo anterior, además, diseñará una propuesta de material didáctico;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+6) Promover en las instituciones educativas de nivel superior la inclusión de la temática de transparencia en los planes y programas educativos y extracurriculares, así como en los foros nacionales e internacionales correspondientes;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+7) Proponer y organizar diplomados, seminarios, coloquios, cursos, talleres, conferencias y demás eventos análogos, dirigidos a los Sujetos Obligados y a la ciudadanía en general, con el propósito de fomentar la cultura de la transparencia y el derecho de acceso a la información;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+8) Administrar y operar el Centro de Información y Documentación Especializado en Materia de Transparencia y Acceso a la Información del Instituto y recopilar los trabajos de investigación que en la materia se lleven a cabo; así como la instrumentación inherente al servicio público;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+9) Generar e instrumentar programas de capacitación permanente para el personal del Instituto, con la finalidad de que aquellos adquieran, actualicen o incrementen los conocimientos necesarios para el debido y eficaz desempeño de sus responsabilidades;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+10) Generar todo tipo de material que facilite sus actividades propias y naturales de capacitación y llevar un catálogo de los mismos;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+11) Llevar un registro de personas capacitadas; observando lo relativo a la protección de datos personales;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+12) Coadyuvar en el fomento de la transparencia y el derecho de acceso a la información, a través de aquéllas estrategias que la Junta de Gobierno apruebe;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+13) Elaborar el anteproyecto de programa de trabajo anual del área a su cargo y remitirlo oportunamente a la Unidad Administrativa de Planeación del Instituto, observando los lineamientos que para tal efecto se le instruyan;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+14) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+15) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
 
 II.- Para ser titular de la Dirección de Capacitación se requiere reunir y mantener los, siguientes requisitos:
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y en pleno ejercicio de sus derechos políticos y civiles;
 
 2) Estar inscrito en el padrón electoral, y contar con credencial para votar;
 
-3) Tener más de veinticinco años de edad;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Poseer título profesional de Licenciado en Derecho o en cualquier rama de las Ciencias Sociales, expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios dé postgrado, y habilidades pedagógicas;
+3) Tener veinticinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Poseer título profesional de licenciado en pedagogía o en cualquier rama de las ciencias sociales, expedido por la institución de educación superior legalmente facultada para ello, así como la cédula profesional con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la información, derecho administrativo o gestión pública;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
 6) No estar Inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
 
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete años anteriores a la fecha de designación;
+7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
+8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 III.- El cargo de titular de la Dirección de Capacitación es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
@@ -461,39 +703,95 @@ C. Vinculación.
 
 I.- La Dirección de Vinculación tendrá las siguientes atribuciones y deberes:
 
-1) Coadyuvar en las tareas de comunicación entre el Instituto y los sujetos obligados, a fin de que se establezca y mantenga la debida relación institucional ordenada en la Ley, con excepción de lo relativo al Recurso de Revisión;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-2) Recepcionar, tramitar y resolver, por conducto de su titular, sobre las solicitudes de acceso a la información pública que obre en poder del Instituto, en términos de la Ley;
+1) Coadyuvar en las tareas de comunicación y difusión entre el Instituto y los Sujetos Obligados, a fin de que se establezca y mantenga la debida relación institucional ordenada en la Ley, con excepción de lo relativo al Recurso de Revisión;
 
-3) Responsabilizarse de la recepción y turno de la correspondencia que se deposite en las instalaciones del Instituto;
+2) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-4) Realizar los actos tendientes y necesarios para ejecutar la política de comunicación social del Instituto;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-5) Generar un directorio completo de las Unidades de Vinculación de los sujetos obligados y, mantener la debida comunicación con los mismos, en los términos que mande la Ley y/o los acuerdos de la Junta de Gobierno;
+3) Generar un directorio completo de las Unidades de Vinculación y de Enlace de los Sujetos Obligados y mantener la debida comunicación con los mismos, en los términos que mande la Ley y los acuerdos de la Junta de Gobierno;
 
-6) Generar un directorio completo, de entes privados, que promocionen la Transparencia y el Acceso e la Información Pública, en los términos que, permita la Ley o bien como lo acuerde la Junta de Gobierno;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-7) Generar un directorio completo de organismos públicos de Transparencia y Acceso a la Información Pública de la República Mexicana;
+4) Generar un directorio completo de entes privados, públicos y gubernamentales que promocionen la transparencia y el acceso a la información pública, en los términos que permitan la Ley o bien como lo acuerde la Junta de Gobierno;
 
-8) Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-II.-Para ser titular de la Dirección de Vinculación se requiere reunir y mantener los siguientes requisitos:
+5) Generar un directorio completo de organismos públicos de transparencia y acceso a la información pública de la Republica Mexicana u homólogos;
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+6) Realizar la verificación periódica sobre el cumplimiento de la publicidad de las obligaciones y acciones de transparencia contenidas en la Ley; respecto de los Sujetos Obligados y rendir un informe mensual a la Junta de Gobierno sobre ésta;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+7) Dar seguimiento al cumplimiento de las disposiciones que en materia de archivos, información reservada y protección de datos personales emita el Instituto;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+8) Proponer a la Junta de Gobierno, un sistema de índices e indicaciones de transparencia sobre el comportamiento del ejercicio del derecho de acceso a la información;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+9) Diseñar, ejecutar y supervisar los sistemas y metodologías de evaluación sobre el cumplimiento de las obligaciones de transparencia aprobadas por la Junta de Gobierno;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+10) Formular proyectos de recomendaciones necesarias para el cumplimiento de la Ley;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+11) Generar acciones que favorezcan la participación ciudadana y proyectos para la atención a la sociedad en sus distintos sectores;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+12) Asesorar a los entes de gobierno en el cumplimiento de sus obligaciones derivadas de la Ley;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+13) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+14) Llevar y difundir la agenda de eventos e Invitaciones oficiales y el cronograma de actividades institucionales;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+15) Informar mensualmente por escrito, del avance y resultados de sus actividades, a la Junta de Gobierno;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+16) Elaborar el anteproyecto de programa de trabajo anual del área a su cargo y remitirlo oportunamente a la Unidad Administrativa de Planeación del Instituto, observando los lineamientos que para el efecto de (sic) le instruyan; y
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+I7) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
+
+II.- Para ser titular de la Dirección de Vinculación se requiere reunir y mantener los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
 
 2) Estar inscrito en el padrón electoral y contar con credencial para votar;
 
-3) Tener más de veinticinco años de edad;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Poseer titulo profesional de Licenciado en Derecho o en cualquier rama de las Ciencias Sociales, expedido por la Institución de, Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado, y habilidades para las relaciones públicas;
+3) Tener veinticinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Poseer título profesional de licenciado en derecho o en cualquier rama de las ciencias sociales y/o económicas, expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la Información y habilidades para las relaciones públicas;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
 6) No estar Inhabilitado para el desempeño de funciones públicas, ni estar sujeto, a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
 
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete años anteriores a la fecha de designación;
+7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
+8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 III.- El cargo de titular de la Dirección de Vinculación es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
@@ -505,145 +803,239 @@ I.- La Dirección de Administración tendrá las siguientes atribuciones y deber
 
 1) Proponer a la Junta de Gobierno, las políticas de administración que posibiliten la funcionalidad eficaz y transparente del Instituto;
 
-2) Elaborar el proyecto de presupuesto anual de egresos del Instituto, con base al planteamiento que formulen los diversos órganos del Instituto;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+2) Coadyuvar con la Unidad Administrativa de Planeación en la elaboración del proyecto de programa operativo anual y del presupuesto anual de egresos del Instituto, con base al planteamiento que formulen los diversos órganos del Instituto;
 
 3) Elaborar y proponer el Catalogo de Puestos y Funciones, para su aprobación por parte de la Junta de Gobierno;
 
-4) En unión del Consejero Presidente, su titular, rendir mensualmente un informe sobre el ejercicio de los recursos asignados al Instituto. A dicho informe se le deberá acompañar de los documentos comprobatorios respectivos;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Rendir mensualmente un informe a la Junta de Gobierno sobre el ejercicio de los recursos asignados al Instituto. A dicho informe se le deberá acompañar los documentos comprobatorios respectivos;
 
 5) Llevar la contabilidad, control presupuestal, así como la observancia de las disposiciones que emita la Junta de Gobierno en materia de adquisiciones de bienes y servicios y similares;
 
-6) Retener las contribuciones que por derecho se tengan que realizar, y procurar lo pertinente para enterarlo a las autoridades que correspondan;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-7) Atender las necesidades administrativas y de servicios que requieran los órganos del Instituto;
+6) Retener las contribuciones que por derecho se tengan que realizar y hacer lo pertinente para enterarlo a las autoridades que correspondan;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+7) Atender las necesidades administrativas y de servicios que requieran los órganos del Instituto; generando protocolos y formatos de control de recursos, servicios y consumibles;
 
 8) Generar y mantener el padrón de empleados del Instituto, procurando lo conducente para la atención debida de las obligaciones laborales;
 
-9) Firmar, en unión al Consejero Presidente, todos los cheques que se expidan con cargo al Instituto;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-10) Levantar el inventario de bienes del Instituto y mantenerlo actualizado;
+9) Firmar, en unión al Consejero Presidente, todos los cheques que se expidan con cargo de las cuentas bancarias del Instituto;
 
-11) Atender las solicitudes de la Dirección de Vinculación, en materia de Acceso a la Información Pública que obre en el Instituto; y
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-12) Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+10) Levantar y administrar el inventario de bienes del Instituto y mantenerlo actualizado;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+11) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública que obre en el Instituto;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+12) Generar y mantener actualizado el padrón de proveedores; priorizando siempre la eficiencia en la contratación de servicios y optimización de los recursos institucionales;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+13) Crear un sistema de control de resguardo de los bienes patrimoniales del Instituto, en su carácter de responsable de la seguridad y buen uso de los mismos a fin de que logren su vida útil;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+14) Elaborar programas de mantenimiento y conservación de los bienes muebles e inmuebles del Instituto;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+15) Participar en los comités creados por la Junta de Gobierno; así como en los procedimientos y demás actos que tengan lugar en materia de bienes adquisiciones, arrendamientos, prestación de servicios y obra pública, a fin de vigilar que se cumpla con la normatividad aplicable;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+16) Atender y solventar las observaciones del órgano Interno de Control del Instituto;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+17) Atender las auditorias y trámites ante el Órgano Superior de Fiscalización del Estado;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+18) Informar mensualmente por escrito, del avance y resultado de sus actividades, a la Junta de Gobierno;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+18) (sic) Elaborar el anteproyecto de programa de trabajo anual del área a su cargo y remitirlo oportunamente a la Unidad Administrativa de Planeación del lnstituto, observando los lineamientos que para tal efecto se le instruyan; y
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+20) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, o bien por acuerdo de la Junta de Gobierno.
 
 II.- Para ser titular de la Dirección de Administración se requiere reunir y mantener los siguientes requisitos:
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
 
 2) Estar inscrito en el padrón electoral y contar con credencial para votar;
 
-3) Tener más de veinticinco años de edad;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Poseer titulo profesional de licenciado en cualquiera de las Ciencias Administrativas, Económicas, Financieras o Derecho expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado, y habilidades administrativas;
+3) Tener veinticinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Poseer título profesional de licenciatura en cualquiera de las ciencias administrativas, económicas y/o financieras expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en administración y/o finanzas públicas y/o gestión gubernamental;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
 6) No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
 
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete años anteriores a la fecha de designación;
+7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
+8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 III.- El cargo de titular de la Dirección de Administración es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
 IV.- La Dirección de Administración contará con el personal idóneo para atender, su encomienda, de conformidad con el catálogo de puestos y funciones, y la disposición presupuestaria.
 
-E. Informática.
+E. (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-I.- La Dirección de Informática tendrá las siguientes atribuciones y deberes:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-1) Proponer a la Junta de Gobierno la infraestructura informática que requiera el Instituto para el adecuado y eficaz desempeño de su encomienda legal, y desarrollar la misma;
+F. Contraloría Interna a la que en lo sucesivo se le denominará Órgano Interno de Control
 
-2) Proponer a la Junta de Gobierno sistemas informáticos que permitan, en lo posible, la unificación de los, mismos, con respecto de los que utilicen los entes, públicos con los que el Instituto deba interactuar con motivo de su encomienda legal;
+I.- El Órgano Interno de Control tendrá las siguientes atribuciones y deberes:
 
-3) Crear el sitio web del Instituto y responsabilizarse de su administración, de conformidad con lo que para tal efecto determine la Junta de Gobierno;
+1) Fiscalizar e inspeccionar el uso de los recursos del lnstituto;
 
-4) Desarrollar un, sistema de comunicación interna y externa que posibilite a coadyuvancia para el uso racional de los recursos asignados y del propio Instituto;
+2) Practicar auditorias a los órganos del Instituto, respecto del despacho de su debida encomienda y enterar de los resultados en vía de informe escrito, a los integrantes de la Junta de Gobierno dentro de los 30 días siguientes a la conclusión de las mismas;
 
-5) Procurar lo conducente para el mantenimiento de los bienes informáticos del Instituto, así como para el desarrollo de sistemas;
+3) Ser autoridad en materia de responsabilidades de los empleados del lnstituto;
 
-6) En unión con la Dirección de Capacitación, instruir a los empleados del instituto en el manejo de los equipos informáticos, comunicaciones, y medidas de seguridad;
+4) Recepcionar, tramitar y resolver, en el ámbito de su competencia, las quejas planteadas en contra de trabajadores del Instituto;
 
-7) Atender las solicitudes de la Dirección de Vinculación, en materia de Acceso a la Información Pública que obre en el Instituto; y
+5) Generar y administrar el padrón de personas inhabilitadas para desempeñar cualquier empleo, cargo o comisión dentro del Instituto;
 
-8) Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+6) Proponer programas encaminados a la debida consecución de los programas y planes de trabajo de cada una de las á reas del Instituto, a efecto de verificar y evaluar los mismos;
 
-II.- Para ser titular de la Dirección de Informática se requiere reunir y mantener los siguientes requisitos:
+7) Supervisar, a través de la Unidad Administrativa de Planeación, el proyecto de presupuesto anual de egresos del Instituto, con base al planteamiento que formulen los diversos órganos del lnstituto, de acuerdo con lo establecido en la normatividad de la materia y en congruencia con lo dispuesto en los artículos 59, 79 y 80 de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio, de sus derechos políticos y civiles;
+8) Formular, ordenar, ejecutar y supervisar el Programa Anual de Auditoria Interna;
+
+9) Emitir opiniones consultivas sobre el proyecto de presupuesto de egresos del lnstituto, así como sobre el ejercido y los métodos de control utiIizados;
+
+10) Aplicar y en su caso, promover ante las instancias correspondientes, las acciones administrativas y legales que deriven de los resultados de las auditorias;
+
+11) Realizar el seguimiento de las observaciones que, como resultado de las auditorias externas, se hayan formulado a las distintas áreas del lnstituto;
+
+12) Dar seguimiento a las observaciones y recomendaciones que deriven de las auditorias practicadas por cualquier unidad fiscalizadora externa; así como establecer los mecanismos de retroalimentación y de mejora continua;
+
+13) Recibir, investigar y resolver quejas y denuncias que se presenten en contra de los servidores públicos lnstituto, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
+
+14) Proponer, por conducto de la Junta de Gobierno, la normatividad apIicabIe al ámbito de competencia del Órgano Interno de Control del Instituto;
+
+15) Realizar auditorias a las áreas del lnstituto, a fin de verificar la eficacia, economía y eficiencia de sus actividades y programas para el cumplimiento de sus objetivos y metas, en términos de las leyes, reglamentos y demás normatividad aplicable;
+
+16) Revisar, en la ejecución de las auditorias Internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulen su ejercicio y que las operaciones financieras se registran contable y presupuestamente en forma oportuna; así como la calidad de los controles administrativos para proteger el patrimonio del Instituto, evaluando las metas y objetivos de los programas del Instituto y en su caso, determinar las desviaciones de los mismos y las causas que le dieron origen;
+
+17) Emitir un diagnostico que aporte elementos a la Junta de Gobierno respecto de los productos esperados de una auditoria extrema, así como coadyuvar en desarrollo de los trabajos que de ella deriven;
+
+18) Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a las diversas áreas del Instituto, así como a proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
+
+19) Elaborar los formatos e integrar el padrón de los servidores públicos del Instituto obligados a presentar declaración de su situación patrimonial, recibiéndolas o, en su caso, requiriéndolas, a fin llevar el registro y seguimiento de la evolución de la situación patrimonial correspondiente y establecer los mecanismos para difundir dicha obligación;
+
+20) Asistir a los actos de entrega-recepción de los servidores públicos del Instituto, de mandos medios superiores y homólogos, con motivo de la separación del encargo, empleo o comisión, a fin de verificar que se cumpla con las disposiciones normativas aplicables;
+
+21) Participar en los comités creados por la Junta de Gobierno; así como en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública, a fin de vigilar que se cumpla con la normatividad aplicable; resolver las inconformidades que presenten los proveedores, contratistas o concursantes, así como los procedimientos administrativos para declarar la inhabilitación de proveedores, acorde con lo establecido en la normatividad en la materia;
+
+22) Realizar acciones preventivas para el adecuado cumplimiento de las normas aplicables a la operación interna del Instituto, así como revisar los manuales administrativos y demás normas que faciliten su organización y funcionamiento;
+
+23) Elaborar el anteproyecto de programa de trabajo anual del área a su cargo y remitirlo oportunamente a la Unidad Administrativa de Planeación del Instituto, observando los lineamientos que para el efecto se le instruyan;
+
+24) Atender las solicitudes de la Unidad de Vinculación, en materia de acceso a la información pública que obre en el lnstituto;
+
+25) Verificar la calendarización anual del gasto elaborada (sic) por la Dirección de Administración, para el correcto ejercicio de los recursos autorizados, destinados a la ejecución de su respectivo programa institucional;
+
+26) Vigilar y validar que la Dirección de Administración registre el avance del ejercicio del gasto y el alcance de las metas de acuerdo a la programación y aprobación de su programa operativo anual;
+
+27) Informar mensualmente por escrito, del avance y resultado de sus actividades, a la Junta de Gobierno;
+
+28) Reportar a la Junta de Gobierno, cuando se detecte alguna acción u omisión que contravenga lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, el reglamento de esa ley, la Ley, el presente Reglamento y demás disposiciones legales aplicables en la materia; y
+
+29) Las demás que se le asignen por disposición legal, reglamentaria o equivalente, en el ámbito de su competencia, o bien por acuerdo de la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Para ser titular del Órgano Interno de Control se requiere reunir y mantener los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
 
 2) Estar inscrito en el padrón electoral y contar con credencial para votar;
 
-3) Tener más de veinticinco años de edad;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Poseer título profesional de licenciado en informática o similares, expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado, y experiencia práctica;
+3) Tener veinticinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+4) Poseer titulo profesional de licenciatura en cualquiera de las ciencias administrativas, económicas y/o financieras, expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado y experiencia práctica;
 
 5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
 
 6) No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
 
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete, años anteriores a la fecha de designación;
+7) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
+8) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-III.- El cargo de titular de la Dirección de Informática es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-IV.- La Dirección de Informática contará con el personal necesario para atender su encomienda, de conformidad con el catálogo de puestos y funciones, y la disposición presupuestaria.
+III.- El cargo de titular del órgano Interno de Control es de confianza y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
 
-F. Contraloría Interna.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-I.- La Contraloría Interna tendrá las siguientes atribuciones y deberes:
+IV.- El Órgano Interno de Control contará con el personal necesario para atender su encomienda, de conformidad con el Catálogo de Puestos y Funciones, y la disposición presupuestaria.
 
-1) Fiscalizar el buen uso de los recursos del Instituto, así como del desempeño de sus trabajadores, con excepción de los Consejeros;
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-2) Ser autoridad en materia de responsabilidades de los empleados del Instituto;
+### Capítulo Noveno. De la Unidad Administrativa de Planeación
 
-3) Recepcionar, tramitar y resolver, en el ámbito de su competencia, respecto de las quejas y/o denuncias planteadas en contra de trabajadores del Instituto;
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-4) Elaborar los formatos que deberá aprobar la Junta de Gobierno, para que sus trabajadores rindan su declaración de situación patrimonial;
+Artículo 28 BIS.- Se crea la Unidad Administrativa de Planeación del lnstituto, que formará parte de la estructura orgánica del mismo a nivel de jefatura de departamento dependiente del Órgano Interno de Control, como la Instancia encargada de vigilar la aplicación de las normas, principios y bases de la planeación del desarrollo dentro del lnstituto.
 
-5) Fungir como depositario de las manifestaciones patrimoniales de los trabajadores del Instituto, levantando al efecto un registro que guardará y administrará;
+La Unidad Administrativa de Planeación del lnstituto tendrá las siguientes atribuciones:
 
-6) Generar y administrar, el padrón de personas inhabilitadas para desempeñar cualquier empleo, cargo o comisión en el Instituto;
+I. Garantizar, en el ámbito de su competencia, el cumplimiento de las etapas del proceso de planeación para el desarrollo estatal;
 
-7) Practicar auditorias a los órganos del Instituto, respecto del despacho de su debida encomienda, y enterar de los resultados en vía de informe, a los integrantes de la Junta de Gobierno;
+II. Formular, en términos de los artículos 59, 79 y 80 de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, el proyecto de Programa InstitucionaI del Instituto;
 
-8) Atender las solicitudes de la Dirección de Vinculación, en materia de Acceso a la Información Pública que obre en el Instituto; y
+III. Elaborar, el Informe de avance del cumplimiento del Programa Institucional del Instituto, en términos de lo dispuesto en el artículo 46 de la Ley de Planeación para el Desarrollo del Estado de Quintana Roo y someterlo a revisión del Órgano Interno de Control del Instituto para su posterior aprobación por parte de la Junta de Gobierno;
 
-9) Las demás que se le asigne por disposición legal, reglamentaria, disposición normativa u equivalente, o bien por acuerdo de la Junta de Gobierno.
+V. Elaborar el presupuesto por programas en concordancia con la estrategia contenida en el Plan de Desarrollo Estatal en la materia de su competencia;
 
-II.- Para ser titular de la Contraloría Interna se requiere; reunir y mantener los siguientes requisitos:
+VI. Verificar que el Programa InstitucionaI del instituto y la asignación de recursos guarden relación con los objetivos, metas y prioridades del Plan Estatal de Desarrollo y la evaluación de su ejecución;
 
-1) Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
+VII. Dar seguimiento al cumplimiento de los convenios de coordinación y de participación, respecto de las obligaciones a su cargo;
 
-2) Estar inscrito en el padrón electoral y contar con credencial para votar;
+VIII. Establecer las estrategias a seguir para el cumplimiento del Programa InstitucionaI y programa operativo anual, ambos del lnstituto; y
 
-3) Tener más de veinticinco años de edad;
-
-4) Poseer título profesional de Licenciado en Derecho, Contador, Administración o Economista, expedido por la Institución de Educación Superior legalmente facultada para ello, así como la Cédula Profesional, y de manera preferente, estudios de postgrado, y experiencia práctica;
-
-5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional;
-
-6) No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto a proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto;
-
-7) Tener residencia en la entidad y vecindad en algún municipio, durante los siete años anteriores a la fecha de designación;
-
-8) No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
-
-III.- El cargo de titular de la Contraloría Interna es de confianza, y no forma parte del servicio de carrera, por lo que podrá ser removido libremente por acuerdo de la Junta de Gobierno.
-
-IV.- La Contraloría Interna contará con independencia para el ejercicio de sus atribuciones, y contará con el personal necesario para atender su encomienda, de conformidad con el Catálogo, de Puestos y Funciones, y la disposición presupuestaria.
-
-### Capítulo Único. Disposiciones Generales
+IX. Las demás que le confieran la Ley de Planeación para el Desarrollo del Estado de Quintana Roo, el Reglamento de esa Ley, la Ley, el presente Reglamento, y otros ordenamientos legales aplicables en la materia y las que le instruya la Junta de Gobierno del Instituto.
 
 ## Título Segundo. Del Acceso a la Información en Poder del Instituto
 
-### Capitulo Único. Disposiciones Generales
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 29.
 
-La Dirección de Vinculación, en materia de acceso a la información pública en poder del Instituto, tendrá las atribuciones siguientes:
+Se crea la Unidad de Vinculación, que formará parte de la estructura orgánica institucional a nivel de jefatura de departamento dependiente de la secretaria Ejecutiva; quien tendrá las siguientes atribuciones:
 
 I. Recabar y proveer lo conducente, a fin de difundir la información pública a que se refiere el Artículo 15 de la Ley;
 
@@ -673,285 +1065,183 @@ XIII. Informar semestralmente a la Junta de Gobierno o en cualquier momento a re
 
 XIV. Las demás acciones necesarias para garantizar y agilizar el flujo de acceso a la información pública en los términos de la ley y demás disposiciones normativas.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+La Junta de Gobierno del lnstituto nombrará al titular de la Unidad de Vinculación.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+Para ser titular de la Unidad de Vinculación se requiere reunir y mantener los siguientes requisitos:
+
+1) Ser mexicano por nacimiento, sin tener otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
+
+2) Estar inscrito en el padrón electoral y contar con credencial para votar;
+
+3) Tener veinticinco años de edad cumplidos el día de su designación;
+
+4) Poseer titulo profesional de licenciado en derecho o en cualquier rama de las ciencias sociales y/o económicas, expedido por la Institución de educación superior legalmente facultada para ello, así como la cédula profesional, con más de tres años de ejercicio profesional y de manera preferente, estudios de postgrado en derecho a la información y habilidades para las relaciones públicas;
+
+5) Gozar de buena reputación, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no Intencional; y
+
+6) No estar inhabilitado para el desempeño de funciones públicas, ni estar sujeto proceso para determinar alguna responsabilidad administrativa, al momento de ser propuesto.
+
 ###### Artículo 30.
 
-Cualquier persona o su representante podrán presentar, ante la Dirección de Vinculación del Instituto, una solicitud de acceso a la información por, medio de escrito libre o en los formatos que apruebe la Junta de Gobierno.
-
-La solicitud deberá hacerse por escrito, a menos que la índole del asunto permita que sea verbal.
-
-En todos los casos, la Dirección de Vinculación registrará en un formato la solicitud y procederá a entregar una copia del mismo al interesado.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 31.
 
-La solicitud de acceso a la información que se presente por escrito deberá contener cuando menos los siguientes datos:
-
-I. Nombre del solicitante y domicilio para recibir notificaciones, mismo que deberá estar ubicado en la ciudad de Chetumal, Quintana Roo; de no señalar domicilio las notificaciones se realizarán por estrados;
-
-II. La descripción clara y precisa deja información solicitada;
-
-III. Cualquier otro dato que a juicio del solicitante facilite la localización de la información solicitada; y
-
-IV. La modalidad en que el solicitante; desee le sea proporcionada la información, siempre y cuando fuera posible; en todo caso, la información se entregará en el estado en que se encuentre. La obligación de proporcionar información no incluye el procesamiento de la misma, ni el presentarla conforme al interés del solicitante.
-
-Si los datos proporcionados por el solicitante no bastan para localizar los documentos o son erróneos, la Dirección de Vinculación podrá requerir al solicitante, por una vez y dentro de los diez días hábiles siguientes a la presentación de la solicitud, para que indique otros elementos o corrija los datos. En caso de que no de cumplimiento al requerimiento se desechará su solicitud. Este requerimiento interrumpirá el plazo establecido en el Artículo 58 de la Ley.
-
-El solicitante deberá contar con el apoyo de la Dirección de Vinculación del Instituto, en caso de así requerirlo, en la elaboración de las solicitudes de acceso a la información, en los casos en que el solicitante no sepa leer, ni escribir.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 32.
 
-La Dirección de Vinculación solo estará obligada a entregar documentos que el Instituto, genere, recopile, mantenga, procese, administre o resguarde, sin más limitaciones que la misma no sea de carácter reservada o confidencial. La obligación de acceso a la información se dará por cumplida, cuando se pongan a disposición del solicitante para consulta los documentos en el sitio donde se encuentren; o bien, mediante la expedición de copias simples, certificadas o cualquier otro medio.
-
-El acceso de Información, se dará solamente en la forma en que lo permita el documento de que se trate, pero, se entregará en su totalidad o parcialmente, a petición del solicitante.
-
-En el caso de que la información solicitada por el particular ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos, disponibles en internet, o cualquier otro medio, se le hará saber por escrito, la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 33.
 
-Cuando la Información solicitada, se encuentre en el Instituto, y en caso de viabilidad para su otorgamiento, la Dirección de Vinculación deberá comunicara procedencia del acceso a la información y la manera en que se encuentra disponible la información, a efecto de que se determine el costo de la misma, en su caso.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 34.
 
-Cuando la información solicitada no se encuentre en los archivos del Instituto, la Dirección de Vinculación, expedirá un acuerdo que confirme la inexistencia del documento solicitado.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 35.
 
-Toda solicitud de Información realizada en los términos de la presente Ley deberá ser satisfecha en un plazo no mayor de diez días hábiles. El plazo se podrá, prorrogar en forma excepcional por otros diez días hábiles de mediar circunstancias que hagan difícil reunir la información solicitada. En su caso, la Dirección de Vinculación deberá comunicar al solicitante, tres días antes del vencimiento del plazo de diez días, las razones por las cuales hará uso de la prórroga excepcional. En ningún caso el plazo excederá de veinte días hábiles.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 36.
 
-Cumplido; el plazo previsto en el artículo anterior, si la solicitud de información no se hubiese satisfecho ó la respuesta fuese ambigua o parcial a juicio del solicitante, éste podrá interponer el recurso previsto en la Ley.
-
-Cuando no se dé respuesta en tiempo y forma a la solicitud de acceso a la información, el silencio de la Dirección de Vinculación se entenderá como una negación de acceso a la información por lo que se configura la negativa ficta.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 37.
 
-En el caso de que la solicitud sea rechazada, se le comunicará por escrito al solicitante dentro de los cinco días hábiles siguientes a la presentación de la solicitud. Esta negativa deberá estar fundada y motivada, con base en la Ley el presente ordenamiento.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 38.
 
-La Dirección de Vinculación no estará obligada a dar trámite a solicitudes de acceso ofensivas, cuando haya entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona, o cuando la información se encuentre disponible públicamente. En este caso, deberán indicar al solicitante el lugar, en donde se encuentre la información.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 39.
 
-La búsqueda de información pública que soliciten las personas será gratuita. No obstante, el solicitante cubrirá los gastos propios de su reproducción y entrega, que en todo caso no podrán ser superiores a la suma de:
-
-I. El costo de los materiales utilizados en la reproducción de la información;
-
-II. El costo de envío.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ## Título Tercero. De las Relaciones Laborales y el Sistema Civil de Carrera
 
-### Capítulo Quinto (sic). Disposiciones Generales
+### Capitulo Único. Disposiciones Generales
 
 #### Sección Primera. Disposiciones Generales
 
 ###### Artículo 40.
 
-Las presentes disposiciones tienen el ánimo de establecer las prevenciones en materia laboral y del servicio civil de carrera en el Instituto.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 41.
 
-Todos los que laboren en el Instituto, cualesquiera que se (sic) la naturaleza del cargo que detenten se consideran con la categoría de confianza, con las consecuencias que ello implica.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 42.
 
-Solamente quienes formen parte del Servicio Civil de carrera gozarán de estabilidad en su encargo, sin que ello signifique inamovilidad, en los propios términos que se establezcan en el presente reglamento.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 #### Sección Segunda. Jornadas y Prestaciones
 
 ###### Artículo 43.
 
-Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición para prestar sus servicios.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 44.
 
-La jornada de trabajo en el Instituto se desarrollará en los días y horas que el presente ordenamiento señala como hábiles, y por lo tanto, laborables. En ningún caso podrá exceder de ocho horas diarias, y con un goce de al menos un día de descanso por semana.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 45.
 
-Los trabadores del Instituto están obligados a registrar en las tarjetas correspondientes y/o firmar en las listas de labores que se dispongan, su entrada y salida.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 46.
 
-Los trabajadores deberán asistir puntualmente a sus labores en los horarios de labores del Instituto. Se le concederá al trabajador una tolerancia de 10 minutos para registrar su tarjeta o firmar la lista de entrada al iniciar sus labores; si el registro o firma se hace después de cinco minutos de su hora de entrada se, considerará como retardo; si el trabajador se presenta a su trabajo después de 10 minutos de su hora de entrada no se le permitirá laborar y se computará como falta injustificada, salvo que acredite ante la Dirección de Administración causa justificada, y se considerará como retardo.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 47.
 
-El trabajador que incurra cuatro veces en retardos injustificados en el término de 15 días será computado como falta. Los retardos no serán acumulables de una quincena a otra.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 48.
 
-Si el trabajador abandona sus labores antes de su hora de salida sin la autorización del titular del órgano del Instituto al que se encuentra asignado, o bien si únicamente regresa para registrar su salida, se considerará ésta como una falta injustificada, independientemente de las sanciones que correspondan.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 49.
 
-La falta de asistencia de un trabajador del Instituto será justificada en los siguientes casos:
-
-I. Cuando se le haya concedido una licencia por la Dirección de Administración;
-
-II. Cuando sufra de una enfermedad debidamente comprobada a través de una constancia escrita de la institución de la seguridad Social a la que se encuentra afiliado, o por médico particular;
-
-III. Cuando le haya sido otorgada una comisión oficial por parte del titular del órgano del, Instituto al que se encuentre asignado; y
-
-IV. Cuando a juicio del Director de Administración, el trabajador compruebe que la causa que le impidió acudir a sus labores está justificada.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 #### Sección Tercera. Estímulos, Vacaciones y Licencias
 
 ###### Artículo 50.
 
-Los trabajadores que laboren los días:
-
-I. Domingos;
-
-II. 1 de Enero;
-
-III. 5 de Febrero;
-
-IV. 21 de Marzo;
-
-V. 5 de Abril (cada seis años cuando corresponda a la transición del Poder Ejecutivo del Estado);
-
-VI. 1 de Mayo;
-
-VII. 5 de Mayo;
-
-VIII. 10 de. Mayo; (Únicamente para las madres trabajadoras);
-
-IX. 12 de Junio;
-
-X. 16 de Septiembre;
-
-XI. 12 de octubre;
-
-XII. 20 de Noviembre;
-
-XIII. 1 de Diciembre (cada seis años cuando corresponda a la transición del Poder Ejecutivo Federal);
-
-XIV. 25 de Diciembre y;
-
-XV. Los que se autoricen por parte de la Junta de Gobierno.
-
-Tendrán derecho a percibir, además del 100 % de su salario correspondiente, una prima del 100% del mismo por laborar en días de descanso, sobre el salario diario asignado.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 51.
 
-Las trabajadoras disfrutarán del pago de salario íntegro de cuatro semanas de descanso antes de la fecha aproximada del parto y ocho semanas, después del mismo. Durante el periodo de lactancia tendrán dos periodos de descanso extraordinario, por día, de media hora cada uno, para amamantar a sus hijos, a partir del término de su licencia y hasta cubrir seis meses.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 52.
 
-Por cada seis meses consecutivos de servicios, los trabajadores disfrutarán de un período de vacaciones de seis días hábiles en las fechas que se señalen para tal efecto, con el pago correspondiente de la prima vacacional. Por cada año de servicio se agregarán dos días hábiles de vacaciones hasta llegar a un máximo de doce días hábiles por periodo.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 53.
 
-Cuando el trabajador no pudiese hacer uso de las vacaciones en los períodos señalados por necesidades de servicio, disfrutará de ellas dentro de los treinta días siguientes a la fecha en que haya desaparecido la causa que le impidiere el disfrute de ese descanso, pero en ningún caso los que laboren en un período de vacaciones tendrán derecho a doble de sueldo.
-
-Los períodos de vacaciones se disfrutarán en las fechas en que el Consejero Presidente apruebe, según las necesidades del servicio.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 54.
 
-Los trabajadores podrá (sic) solicitar permiso para faltar a sus labores con el fin de atender asuntos personales; el titular de la Dirección de Administración estará facultado para conceder licencias económicas con goce de sueldo, hasta por tres días económicos en un mes, y sin excederse de tres veces en un año para un mismo trabajador.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 55.
 
-Sólo la Junta de Gobierno podrá conceder licencia por un período de más de tres días y por lapsos mayores sin goce de sueldo de acuerdo con las siguientes bases:
-
-I. Hasta por un mes a los trabajadores que tengan como mínimo dos años de antigüedad y;
-
-II. Hasta por dos meses a los que tengan cinco años de antigüedad en adelante.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 56.
 
-El Instituto pagará íntegramente el sueldo del trabajador, cuando éste sea comisionado a cursos de capacitación o cualesquiera que sea su denominación.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 57.
 
-Los trabajadores que deseen una licencia deberán presentar previamente una solicitud ante la Dirección de Administración, acompañada de la documentación que esta requiera. Las licencias que se concedan en los términos de los artículos anteriores le computarán como tiempo efectivo de servicio para efectos escalafonarios.
-
-Para los efectos de las licencias sin goce de sueldo, no se podrá conceder otra sin haber laborado un mínimo de un año a partir de la fecha de incorporación.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 #### Sección Cuarta. De los Salarios
 
 ###### Artículo 58.
 
-Salario es la retribución que debe pagarse a los trabajadores del Instituto por sus servicios personales y subordinados.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 59.
 
-El salario será uniforme para cada unos de los niveles o categorías de trabajó establecidos en el presente Reglamento y/o en el Catálogo de Puestos y Funciones:
-
-Todas y cada una de las prestaciones de los trabajadores, serán calculadas tomando como referencia el salario, que se integra: del sueldo de base más los estímulos y cualquier apoyo económico que se otorgue, cualesquiera que sea su denominación.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 60.
 
-Los pagos se efectuarán únicamente en moneda de curso legal, los días 15 y 30 de cada mes, junto con las demás prestaciones que tuviera a su favor el trabajador.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 61.
 
-Además de un salario, los trabajadores del Instituto gozarán de las siguientes prestaciones:
-
-I. Un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, el cual deberá pagarse en un 50% durante la primera quincena de diciembre y el otro 50% durante la primera quincena del mes de enero siguiente y será equivalente a 40 días de salario;
-
-II. Si el trabajador hubiere iniciado la prestación de sus servicios antes del 1° de julio, recibirá la totalidad del aguinaldo, y si la prestación de servicios hubiere iniciado posteriormente a esta fecha, el aguinaldo será proporcional a los días laborados;
-
-III. El trabajador contará con una prima vacacional equivalente al 100% del salario que corresponda a los días al año en que el trabajador goce de sus vacaciones, esta prima deberá entregarse al trabajador antes de su periodo de vacaciones y;
-
-IV. El pago de quinquenio por los años de servicio, cuyo tabulador será autorizado por la Junta de Gobierno.
-
-Independientemente de lo anterior, los trabajadores del Instituto podrán beneficiarse de diversas prestaciones que autorice la Junta de Gobierno.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 62.
 
-Sólo podrán hacerse retenciones, descuentos o deducciones al salario de los trabajadores del Instituto cuando se trate:
-
-I. De deudas contraídas con el Instituto o con otras dependencias por concepto de anticipo de salarios, préstamos a corto, mediano y largo plazo, pagos hechos con exceso, errores o pérdidas debidamente comprobadas;
-
-II. Del cobro de cuotas o aportación de fondos para la constitución de cooperativas de consumo y cajas de ahorro siempre que el trabajador hubiese manifestado previamente de una manera expresa su conformidad;
-
-III. De los descuentos ordenados por la institución de Seguridad Social respectiva, con motivo de obligaciones contraídas por el trabajador;
-
-IV. De los descuentos para el pago de pensiones alimenticias ordenadas por la Autoridad Judicial competente;
-
-V. De las contribuciones fiscales; y
-
-VI. Las demás que el trabajador autorice por escrito.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 63.
 
-Cuando un trabajador del Instituto deje de prestar sus servicios, se cubrirá con el pago de las siguientes prestaciones:
-
-I. Tres meses de salario íntegro por concepto de indemnización;
-
-II. Doce días por cada año trabajado, por concepto de reconocimiento por antigüedad;
-
-III. El sueldo correspondiente a quince días de trabajo por concepto de bono de gratificación;
-
-IV. Vacaciones no disfrutadas y;
-
-V. El aguinaldo o la parte proporcional del mismo;
-
-La primera fracción del presente artículo no aplica cuando la separación del cargo sea consecuencia de una sanción que determine la Junta de Gobierno.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 64.
 
-Cuando la autoridad competente determine mediante resolución en términos de Ley, que fue ilegal la remoción, rescisión, destitución o baja del trabajador, no se le reinstalará, atento al carácter de trabajador de confianza, en tal caso, bastara con que se indemnice con el pago de las prestaciones indicadas en el artículo anterior.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 #### Sección Quinta. De la terminación de la relación laboral
 
 ###### Artículo 65.
 
-La relación de trabajo terminará por cualquiera de las causas siguientes:
-
-I. Por renuncia del trabajador;
-
-II. Por abandonó del empleo por parte del trabajador;
-
-III. Por muerte del trabajador;
-
-IV. Por incapacidad permanente del trabajador, ya sea física o mental, que le impida el desempeño de sus funciones, previamente comprobada por autoridad competente;
-
-V. Por destitución como sanción; y
-
-VI. Las demás que se estipulen.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 #### Sección Sexta. Del Servicio Civil de Carrera
 
@@ -959,101 +1249,77 @@ VI. Las demás que se estipulen.
 
 El Servicio Civil de Carrera es el instrumento para profesionalizar las actividades del Instituto, y se regirá por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia.
 
-Se conforma con los procesos de ingreso, formación y capacitación, desarrollo profesional, promoción y ascenso, evaluación, estímulos y sanciones.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
+Este se Integrará por los procesos y/o procedimientos de Ingreso, formación y capacitación, desarrollo profesional, promoción y ascenso, evaluación, estímulos y sanciones, mismos que establecerán a través de lineamientos la Junta de Gobierno, observando las normas y estándares estatales que para el efecto se apliquen.
 
 ###### Artículo 67.
 
-Para la debida administración del Servicio Civil de Carrera, se conformará una Comisión para tal fin que se integrará por un Consejero de la Junta de Gobierno, el Director de Administración y el Contralor Interno, y actuará de conformidad al presente reglamento y a las reglas de operación que expida la Junta de Gobierno.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 68.
 
-Son personal del Servicio Civil de Carrera quienes ocupen los siguientes puestos:
-
-I. Subdirector;
-
-II. Abogados proyectistas;
-
-III. Abogados Consultores;
-
-IV. Abogados Notificadores;
-
-V. Jefes de Departamento; y
-
-VI. Jefes de Área.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 69.
 
-El acto por medio del cual se determina el alta de las personas que satisficieron los requisitos para el cargo, se denomina ingreso.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 70.
 
-El ingreso comprende las siguientes etapas:
-
-I. Expedición de convocatoria;
-
-II. Reclutamiento de aspirantes;
-
-III. Preselección de Aspirantes;
-
-IV. Evaluación de Aspirantes;
-
-V. Selección de Aspirantes Idóneos;
-
-VI. Determinación de persona para el puesto; y
-
-VII. Expedición de nombramientos.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 71.
 
-Los requisitos para los cargos se establecerán en el Catálogo de Puestos y Funciones.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 72.
 
-Las, vacantes que se generen en los puesto de carrera, se cubrirán por ascenso, readscripción, o bien por concurso.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 73.
 
-A partir del ingreso al programa de servicio de carrera, que será con el carácter, de provisional, el trabajador podrá participar en el proceso de adjudicación de la titularidad cuando se emita la convocatoria respectiva, a cargo de la Comisión administradora del servicio.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
-###### Artículo 74
+###### Artículo 74.
 
-La titularidad se traduce en estabilidad más no inamovilidad, por lo que podrá separar del puesto cuando se de motivo inequívoco y justificado para ello.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 75.
 
-La formación y capacitación del personal de carrera será realizado por la Dirección de Capacitación, a instancia de la Comisión Administradora del Servicio.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 76.
 
-La capacitación tendrá como fin el actualizar los conocimientos del personal de carrera, de acuerdo con el perfil y al puesto que ostenten.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 77.
 
-Al final de toda capacitación se realizará un examen, cuyos resultados serán agregados en el expediente personal de cada trabajador. En todo caso, se deberá aprobar la totalidad de las capacitaciones que reciba el personal de carrera.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 78.
 
-La evaluación es el instrumento de medición del cumplimiento de metas y tareas asignadas al personal de carrera, en atención a la naturaleza asignada por virtud del puesto otorgado.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 79.
 
-La Comisión Administradora del Servicio Civil de Carrera establecerá los medios por las cuales se efectuará la evaluación, debiendo notificar al personal de carrera de manera previa a su implementación.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 80.
 
-Al personal de carrera que se distinga en el buen desempeño del encargo, y que obtenga evaluaciones positivas, se hará acreedor a los estímulos económicos y reconocimiento que apruebe la Comisión Administradora del Servicio Civil de Carrera.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 81.
 
-El ascenso es la promoción a un nivel superior con respecto del que se venía desempeñando, y se otorgará teniendo en cuenta la experiencia, la capacitación y la evaluación obtenida.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 82.
 
-La Comisión Administradora, del Servicio Civil de Carrera tomará los acuerdos necesarios para el buen despacho de su encomienda.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ## Título Cuarto. De las Responsabilidades Administrativas
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo Quinto (sic). Disposiciones Generales
 
 ###### Artículo 83.
 
@@ -1133,9 +1399,11 @@ Se notificará al trabajador en forma personal y al denunciante o quejoso person
 
 ## Título Quinto. Prevenciones Complementarias
 
+### Capítulo Único. Disposiciones Generales
+
 ###### Artículo 93.
 
-Son días y horas laborables en el Instituto, de Lunes a Viernes, de las ocho a las dieciséis horas, con excepción que se declaren inhábiles por la Junta de Gobierno.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 94.
 
@@ -1176,3 +1444,21 @@ Consejero Vocal
 Lic. Susana Verónica Ramírez Sandoval
 
 Consejero Vocal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Las presentes modificaciones entrarán en vigor el mismo día de su aprobación por parte de la Junta de Gobierno.
+
+SEGUNDO. Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO. Se deja sin efecto cualquier ordenamiento de igual o menor jerarquía que se contraponga a lo dispuesto en el presente ordenamiento.
+
+CUARTO. A más tardar dentro de los sesenta días hábiles siguientes a la aprobación del presente ordenamiento se deberá adecuar la normatividad interna del Instituto y realizar las adecuaciones operativas inherentes.
+
+QUINTO. En tanto se expide y adecua la normatividad interna del Instituto a que se refiere el presente Reglamento, se seguirán aplicando las disposiciones vigentes en las materias respectivas, en todo lo que no contravenga a este ordenamiento.
+
+SEXTO. La Dirección de Administración realizará de Inmediato las acciones pertinentes para operar y dar eficacia a las presentes modificaciones, debiendo presentar para ello, a la Junta de Gobierno del lnstituto, el proyecto de reasignación y ampliación de presupuesto para consolidar la creación de la Unidad Administrativa de Planeación y de la Unidad de Vinculación y presentará, en su caso la solicitud de ampliación de presupuesto referida ante la autoridad competente.
+
+SÉPTIMO. El Órgano Interno de Control del Instituto vigilará el adecuado cumplimiento de las presentes modificaciones.
