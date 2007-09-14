@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-3993
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-04"
-last_updated: "2005-09-23"
+last_updated: "2007-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "GUA"
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ACAMBARO, GTO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de junio de 2004.
 
@@ -444,43 +444,33 @@ I. Cuando una Dependencia o Entidad notifique a la Unidad de Acceso que no tiene
 
 II. Cuando la información solicitada esté clasificada como reservada o confidencial.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, DEJANDO A SALVO EL ARTICULO 41, DE ACUERDO CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+
 ### CAPITULO SEPTIMO. DEL PROCEDIMIENTO PARA CORRECCION DE DATOS
 
 ###### Artículo 35°.
 
-Se procederá a la rectificación de datos personales cuando exista solicitud por parte del interesado, dirigida a la Unidad de Acceso a la Información Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 36°.
 
-La solicitud de corrección de datos deberá contener:
-
-I. Los datos que se pretenden corregir haciendo referencia en donde constan los mismos;
-
-II. Indicar los datos correctos y si es posible acreditar la exactitud de los que se proporcionan; y
-
-III. En caso de que pretenda complementar los datos personales, indicar la información faltante.
-
-A efecto de lo anterior, deberán acreditar los particulares su personalidad como titulares de los datos personales a que hacen referencia, o su representante respectivamente, en el caso de estos últimos, la representación será con carácter legal en los términos de la normatividad correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 37°.
 
-La Unidad e Acceso a la Información Pública solicitará en un plazo de 3 tres días hábiles siguientes al de recepción de la solicitud respectiva, a la Unidad de Enlace correspondiente, la remisión del expediente o documentos que contengan los datos personales del solicitante; indicando se señale cómo se obtuvieron los datos personales que en dicha documentación constan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 38°.
 
-La Unidad de Acceso a la Información Pública con el apoyo de la Unidad de Enlace respectiva, analizará la procedencia de dicha modificación, dicho análisis se realizará en un término de 15 quince días hábiles a partir de la recepción de la solicitud.
-
-Así mismo, se podrá requerir al solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 39°.
 
-Si resulta procedente la modificación, se emitirá un acuerdo en el cual se instruya a la Dependencia o Entidad correspondiente, a realizar la modificación de los datos respectivos, señalando los datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
-
-Así mismo, la Unidad de Acceso de la Información Pública, notificará al solicitante en un plazo que no excederá de 30 treinta días hábiles siguientes al de la determinación de procedencia de las modificaciones, que las mismas fueron conducentes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 40°.
 
-En caso de que se determine que no es procedente la modificación, la unidad de Acceso notificará la (sic) interesado expresando las razones y fundamento que tomó en consideración para determinar la no procedencia de la corrección de los datos, dicho plazo no excederá de 30 treinta días hábiles siguientes del término señalado en el artículo 26 de la Ley de Acceso a la Información.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCION, INFORMES, CORRECCION Y CANCELACION DE DATOS PERSONALES PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 41°.
 
@@ -533,3 +523,29 @@ P.O. 23 DE SEPTIEMBRE DE 2005.
 Artículo Primero.- Las presentes adiciones entraran en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Estado, debiéndose además publicarse en la Gaceta Municipal.
 
 Artículo segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+P.O. 14 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al cuarto día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Capítulo séptimo del Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Acámbaro, Guanajuato. Que comprende los artículos 35, 36, 37, 38, 39 y 40 del citado ordenamiento, dejando a salvo el artículo 41.
+
+###### ARTÍCULO TERCERO.
+
+Los formatos relativos al acceso y corrección de datos personales, deberán estar formulados a partir de un mes después de publicado el reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El manual de procedimientos para asegurar el adecuado funcionamiento de la corrección, cancelación e información de datos personales de la Unidad de Acceso a la Información Pública deberá estar formulado a más tardar 40 días después de la publicación de este reglamento.
+
+###### ARTÍCULO QUINTO.
+
+La capacitación a cada uno de los servidores públicos de las Dependencias y Entidades, deberá ser proporcionada por la Unidad de Acceso a la Información Pública a más tardar antes del término del año 2007.
+
+###### ARTÍCULO SEXTO.
+
+Toda disposición en contrario al presente reglamento se tendrá por no hecha en los términos de la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
