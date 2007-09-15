@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2006-02-01"
+last_updated: "2007-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS, PUBLICADO POR DECRETO NO. 511 EN EL P.O. DE 15 DE SEPTIEMBRE DE 2007, SEGUIRA RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -2347,65 +2349,73 @@ IV.- Ataques a las Vías de Comunicación. Prevista en el Artículo 152;
 
 V.- Terrorismo. Previsto en los Artículos 169 y 170;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Corrupción de Menores.- Previsto en los Artículos 183 y 185;
+VI.- Delitos contra la desarrollo de las personas menores de edad y la protección integral de personas que no tienen capacidad para comprender el significado del hecho.- Previsto en los artículos 181, 181 bis y 182;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-VII.- Violación. Previsto en los Artículos 236 y 237;
-
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
-
-VIII.- Asalto. Previsto en los Artículos 263 y 264;
+VII.- Utilización de imágenes o voz de personas menores de edad o de personas que no tiene la capacidad para comprender el significado del hecho para la pornografía.- Previsto en el artículo 183;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-IX.- Plagio. Previsto en el Artículo 266;
+VIII.- Violación. Previsto en los Artículos 236 y 237;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-X.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299;
+IX.- Asalto. Previsto en los Artículos 263 y 264;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XI.- Parricidio. Previsto en el Artículo 306;
+X.- Plagio. Previsto en el Artículo 266;
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+XI.- Trata de personas.- Previsto en los artículos 271 Bis, 271 Ter y 271 Quáter;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XII.- Infanticidio. Previsto en el Artículo 307;
+XII.- Homicidio Doloso. Previsto en los artículos 293 con relación al 297, 298 y 299;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XIII.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el valor de lo robado exceda de quinientas cuotas;
+XIII.- Parricidio. Previsto en el Artículo 306;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XIV.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
+XIV.- Infanticidio. Previsto en el Artículo 307;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+XV.- Robo. Previsto en el artículo 317 en relación con el 320, cuando el valor de lo robado exceda de quinientas cuotas;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
+
+XVI.- Robo.- Previsto en el artículo 317 en relación con el 321 en sus fracciones I, IV, V y VII, cuando el valor de lo robado exceda de trescientas cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
 
-XV.- Abigeato. Previsto en el artículo 330, cuando el valor del ganador robado exceda de doscientos cincuenta cuotas;
+XVII.- Abigeato. Previsto en el artículo 330, cuando el valor del ganador robado exceda de doscientos cincuenta cuotas;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XVI.- Tortura. Previsto en los Artículos 371, 372 y 373;
+XVIII.- Tortura. Previsto en los Artículos 371, 372 y 373;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XVII.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290;
+XIX.- Lesiones. Doloso, previsto en el artículo 285 en relación con el artículo 286 fracción V y los artículos 287, 289 y 290;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
 
-XVIII.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal;
+XX.- Delito Electoral. A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
 
-XIX. Secuestro Exprés. A que se refiere el artículo 265 bis;
+XXI.- Secuestro Exprés. A que se refiere el artículo 265 bis;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 2005)</small>
 
-XX.- Extorsión. En la hipótesis prevista por el artículo 341 bis.
+XXII.- Extorsión. En la hipótesis prevista por el artículo 341 bis.
 
 ###### ARTICULO 351.
 
@@ -3488,3 +3498,81 @@ P.O. 1 DE FEBRERO DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- A las personas que hayan cometido alguno de los delitos contemplados en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el momento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+
+P.O. 15 DE SEPTIEMBRE DE 2007.
+
+DECRETO NO. 511.
+
+Inicio de Vigencia
+
+Artículo primero.- El presente Código iniciará su vigencia el cinco de enero de dos mil nueve, con las modalidades que enseguida se precisan.
+
+Aplicación
+
+Artículo segundo.- Sus disposiciones se aplicarán a hechos que ocurran, en el Distrito Judicial Primero de la Capital, a partir de las cero horas del día cinco de enero del año dos mil nueve; en los Distritos Judiciales Segundo de Fresnillo y Séptimo de Calera, a partir de las cero horas del día primero de julio del año dos mil nueve y, respecto a los hechos que ocurran en el resto del territorio del Estado, a partir de las cero horas del día cuatro de enero del año dos mil diez.
+
+Abrogación
+
+Artículo tercero.- El Código de Procedimientos Penales para el Estado de Zacatecas publicado en el Periódico Oficial, Órgano de Gobierno del Estado número cincuenta y siete, correspondiente al día diecinueve de julio de mil novecientos sesenta y siete, seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
+
+Derogación Tácita
+
+Artículo cuarto.-Quedan derogados, en los términos señalados en los textos precedentes, los preceptos legislativos de la Entidad que se opongan a las disposiciones de este Ordenamiento.
+
+Delitos Permanentes y Continuados
+
+Artículo quinto.- El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Procedimientos Penales para el Estado y que continúen desarrollándose bajo la presente ley será el regulado por el primero de los ordenamientos citados en este artículo.
+
+Prohibición de Acumulación de Procesos
+
+Artículo sexto.- No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y al Código que data de mil novecientos sesenta y siete.
+
+Eficacia Retroactiva
+
+Artículo séptimo.- A partir del cinco de enero del año dos mil nueve, y siempre que sea oportuno dentro del trámite procesal, deberán aplicarse, en el curso del procedimiento regido por el Código anterior, las disposiciones del presente Ordenamiento que se refieran a: A) indemnización al imputado; B) facultad de no inicio de la investigación, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal; C) conciliación y suspensión del proceso a prueba; D) procedimiento abreviado, y E) recurso de revisión.
+
+Las facultades que este Código le concede al Juez de garantía, serán ejercidas para efectos de este artículo, por el Juez de primera instancia, mixto o penal según corresponda.
+
+La conciliación podrá celebrarse hasta antes del desahogo de la audiencia final a que se refiere el artículo 298 del Código de Procedimientos Penales para el Estado de Zacatecas de mil novecientos sesenta y siete; la suspensión del proceso a prueba o el procedimiento abreviado podrán decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 156 del citado Código de Procedimientos Penales.
+
+Adecuación del Orden Jurídico Estatal
+
+Artículo octavo.- Dentro del término de doce meses contados a partir del día siguiente de la publicación de este Código en el Periódico Oficial, Órgano del Gobierno del Estado, los Poderes Legislativo, Ejecutivo y Judicial deberán, en el ámbito de sus respectivas competencias, expedir las disposiciones legales correspondientes para adecuar el orden jurídico estatal a lo establecido en el presente Código.
+
+Supletoriedad de este Código en la Ley de Justicia para Adolescentes del Estado de Zacatecas
+
+Artículo noveno.- Para los efectos de la supletoriedad a que se refiere el artículo 10 de la Ley de Justicia para Adolescentes en el Estado, el presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Suficiencia Presupuestaria
+
+Artículo décimo.- El Presupuesto de Egresos del Estado para el ejercicio fiscal dos mil ocho, deberá establecer las previsiones y partidas presupuestales respectivas, para implementar el Sistema de Justicia señalado en el presente Código en lo concerniente a infraestructura y capacitación. Igualmente el presupuesto de egresos de los años subsiguientes deberán establecer las partidas presupuestales necesarias según los requerimientos de este ordenamiento.
+
+Constitución del Fideicomiso de Reparación del Daño a las Víctimas
+
+Artículo decimoprimero.- Dentro de los noventa días siguientes a la entrada en vigor de este Código, deberá constituirse el Fideicomiso de Reparación del Daño a las Víctimas.
+
+DISPOSICIONES ADICIONALES
+
+Integración de la Comisión para la Implementación del Nuevo Sistema de Justicia Penal del Estado
+
+###### Artículo 1.
+
+La Comisión para la Implementación del Nuevo Sistema de Justicia Penal del Estado, será un órgano técnico y político que deberá integrarse en un término de treinta días naturales, contados a partir del día siguiente a la publicación de este Código, en el Periódico Oficial, Órgano del Gobierno del Estado. Esta comisión tiene por objeto impulsar las acciones necesarias para la implementación del presente Código.
+
+Dicho cuerpo colegiado se integrará por el Secretario General de Gobierno; el Secretario de Finanzas, el Diputado Presidente de la Comisión de Seguridad Pública de la Legislatura del Estado; por un Magistrado designado por el Pleno del Tribunal Superior de Justicia del Estado; por el Procurador General de Justicia del Estado, por el Director de la Defensoría Pública y por el Presidente de la Comisión Estatal de Derechos Humanos.
+
+La Comisión para la Implementación del Nuevo Sistema de Justicia Penal del Estado, se extinguirá una vez que haya cumplido el objetivo para el que fue creada.
+
+###### Artículo 2.
+
+Esta Comisión podrá integrar las subcomisiones técnicas que considere necesarias, a efecto de tener asesoría técnica para realizar las acciones que a ella correspondan.
+
+P.O. 15 DE SEPTIEMBRE DE 2007.
+
+DECRETO NO. 525.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo tercero.- Dentro del término de seis meses contados a partir de la publicación de este Decreto, la Legislatura del Estado, deberá aprobar las disposiciones correspondientes, con la finalidad de proporcionar la asistencia y protección integral a las víctimas de trata de personas.
