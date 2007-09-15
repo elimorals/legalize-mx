@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2006-10-25"
+last_updated: "2007-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -983,83 +983,87 @@ Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la vent
 
 Estas disposiciones sólo serán aplicables cuando no existan otras de la competencia federal.
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA O A LAS BUENAS COSTUMBRES E INCITACION A LA PROSTITUCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-181.- Se aplicarán de tres a seis meses de prisión o multa de cinco a veinticinco cuotas:
+### CAPITULO I
 
-I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
+DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-II.- Al que públicamente y por cualquier medio ejecute o haga ejecutar por otros, exhibiciones obscenas; y
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-III.- Al que de modo escandaloso invite a otro al comercio carnal.
+181.- A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, al consumo de estupefacientes, substancias psicotrópicas u otras susceptibles de producir dependencia o bebidas embriagantes, para que adquiera los hábitos de la fármacodependencia o el alcoholismo, o a formar parte de una asociación delictuosa o de la delincuencia organizada, se le impondrá pena de seis meses a tres años de prisión y multa de veinte a cincuenta cuotas.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los hábitos de la farmacodependencia o del alcoholismo, o forme parte de una asociación delictuosa o de la delincuencia organizada, las penalidades podrán aumentarse hasta en un tanto más.
 
-Cuando los actos a que se refiere este artículo se realicen en plazas, parques, avenidas, calles y otros espacios considerados como vía pública, donde concurran habitualmente menores de edad o por estar próximos a centros de diversión y esparcimiento para familias o a edificios escolares, sean lugares por donde los propios menores deben transitar, se podrá imponer a los responsables de seis a doce meses más de prisión y multa de veinte a cien cuotas.
+A quien emplee, aún gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas para su consumo inmediato o se presenten al público espectáculos sexuales, se le aplicará prisión de seis meses a un año y multa de cinco a veinte cuotas así como el cierre definitivo del establecimiento.
 
-182.- Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una persona jurídica o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del juez, se disolverá la empresa o se suspenderán sus actividades hasta por un año.
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-### CAPITULO II. CORRUPCION DE MENORES
+181 Bis.- A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovísuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de veinte a cincuenta cuotas.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
 
-183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciocho años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
+El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de cinco a veinte cuotas.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
-183 Bis.- También cometen el delito de corrupción de menores y se harán acreedores a las sanciones previstas:
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
+182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
+### CAPITULO II. UTILIZACION DE IMAGENES O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-III.- Quienes vendan o regalen a los menores de dieciocho años de edad, en la cantidad que fuere, cualquier tipo de droga, enervante o sustancia psicotrópica, cuya producción, transporte, tráfico o comercio estén prohibidos en términos de ley; induzcan a su consumo, o empleen a los menores para tales efectos.
+183.- Comete este delito:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
-184.- Al que emplee menores de dieciocho años en cantinas, tabernas o expendios de bebidas embriagantes de consumo inmediato, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
-Igual sanción se impondrá a quien emplee menores de dieciocho años en lenocinio o establecimientos análogos.
+III. Quien posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+IV. Quien financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones anteriores.
 
-185.- Las sanciones que señalan los tres artículos anteriores, se duplicarán cuando el que corrompa o emplee al menor sea ascendiente, padrastro, madrastra o tutor de aquél, privando al responsable de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
+Al autor de los delitos previstos en las fracciones I y II se le impondrá la pena de tres a siete años de prisión y multa de diez a treinta cuotas. Al autor de los delitos previstos en la fracción III se le impondrá la pena de uno a tres años de prisión y multa de cinco a veinte cuotas. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de cuatro a nueve años de prisión y multa de veinte a cincuenta cuotas.
 
-186.- Quienes hayan sido sancionados por los delitos de que trata este capítulo quedarán inhabilitados para ser tutores o curadores.
+Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en los (sic) en el capítulo VI del Titulo Decimoquinto de este Código.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+183 Bis.- Las penas que resulten aplicables por los delitos previstos en este Título, se aumentarán hasta una tercera parte de acuerdo con lo siguiente:
+
+I. Si el sujeto activo se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+
+II. Si el sujeto activo del delito tiene parentesco por consaguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la victima, o tenga una relación análoga al parentesco con el sujeto pasivo; además cuando corresponda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+184.- Los sujetos activos de los delitos a que se refiere este Titulo quedarán inhabilitados para ser tutores o curadores.
+
+185.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
+
+186.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 
 ## TITULO QUINTO. DELITOS CONTRA LA SALUD PUBLICA
 
 ### CAPITULO III. LENOCINIO
 
-187.- Comete el delito de lenocinio:
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-I.- Toda persona que explote el cuerpo de otra por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+187.- Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente de los servicios sexuales de una persona mayor de edad. A quien cometa este delito se le aplicará prisión de tres a cinco años y de veinte a setenta cuotas.
 
-II.- El que induzca o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución;
+187 Bis.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 
-III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos; y
+188.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 
-IV.- (DEROGADA, P.O. 28 DE MAYO DE 1994)
+189.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2007)
 
-El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
+## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
-
-187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de dieciocho años de edad, será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
-
-188.- Al que dé en arrendamiento una finca teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de tres meses a seis meses, o multa de cinco a quince cuotas o trabajo en favor de la comunidad hasta por quince días.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
-
-189.- Si el que cometiere los delitos a que se refiere el artículo 187 y 187 Bis fuere ascendiente, tutor o curador del menor que resultare agraviado, se le impondrá como pena, además de las sanciones corporales y pecuniarias previstas, la pérdida de la patria potestad o, en su caso, de la prerrogativa de ser tutor o curador, privándosele de todo derecho sobre los bienes del ofendido. Si la víctima es mayor de edad, ésta última disposición se aplicará, en lo conducente, cuando el sancionado sea el cónyuge u otra persona que tuviere sobre aquella alguna otra autoridad.
-
-## TITULO SEXTO. DELITOS CONTRA LA MORAL PUBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO IV. APOLOGIA DEL DELITO O DE ALGUN VICIO
 
@@ -1729,19 +1733,21 @@ Si el asalto se efectuare de noche o si fueran varios los asaltantes, se aplicar
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD O DE OTROS DERECHOS
 
-265.- Se aplicarán de tres meses a tres años de prisión y multa de cinco a treinta cuotas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+265.- Se aplicarán de tres a siete años de prisión y multa de veinte a setenta y cinco cuotas:
 
 I.- Al que ilegalmente prive a otro de su libertad personal;
 
-II.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida ya sea empleando violencia física o moral o valiéndose del engaño o de cualquier otro medio semejante;
+II.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2007)
 
 III.- Al particular que por medio de la violencia obligue a una persona a tolerar, hacer u omitir alguna cosa; y
 
 IV.- Al que de alguna manera viole con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado en favor de las personas.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
-Cuando los ilícitos tipificados en las cuatro fracciones anteriores se cometan en perjuicio de personas menores de doce años se duplicarán las sanciones aplicables.
+Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perjuicio de personas menores de dieciocho años se duplicarán las sanciones aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE MAYO DE 2005)</small>
 
@@ -1774,6 +1780,40 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 271.- No se procederá contra el raptor sino por queja de la persona ofendida o de su cónyuge o concubinario, pero si la persona raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, del mismo menor.
 
 Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPITULO VI. TRATA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+271 Bis.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, entregue o reciba para si o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extraer sus órganos, tejidos o sus componentes.
+
+Para efectos de este artículo se entenderá por explotación, el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o sus componentes.
+
+Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+271 Ter.- El consentimiento otorgado por la victima en cualquier modalidad del delito de trata de personas, no constituirá causa que excluye el delito.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
+
+271 Quáter.- A quien cometa el delito de trata de personas se le aplicará:
+
+l. De seis a doce años de prisión y multa de cincuenta a cien cuotas;
+
+II. De nueve a dieciocho años de prisión y multa de cincuenta a ciento cincuenta cuotas, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tenerla. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años, de conformidad al procedimiento establecido por la ley.
+
+III. Las penas que resulten de las fracciones I y II de este artículo, se incrementarán hasta una mitad, cuando:
+
+a) El delito es cometido en contra de una persona menor de dieciocho años de edad;
+
+b) El delito es cometido en contra de una persona mayor de sesenta años de edad;
+
+c) El delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho, o
+
+d) El sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la victima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda o custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la victima y el derecho que pudiere tener respecto de los bienes de ésta.
 
 ### CAPITULO I. DIFAMACION
 
@@ -1837,6 +1877,8 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+
 ### CAPITULO I. LESIONES
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
@@ -1885,7 +1927,7 @@ Cuando el autor de la lesión sea persona de notoria escasa instrucción a crite
 
 292.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO II. HOMICIDIO
 
@@ -1920,8 +1962,6 @@ II.- Cuando se infieran varias lesiones, todas mortales, y constare quienes fuer
 III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quienes infirieron las primeras pero constare quienes lesionaron, a todos se aplicará de tres a doce años de prisión. Si se ignora quienes lesionaron, a todos los que intervinieron en la riña se les aplicará la misma sanción que señala esta fracción.
 
 299.- Al responsable de homicidio calificado se le impondrán de dieciséis a treinta años de prisión y multa de veinte a sesenta cuotas.
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. REGLAS COMUNES PARA LOS DELITOS DE LESIONES Y HOMICIDIO
 
@@ -2017,6 +2057,8 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 
 313.- No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
+
 ### CAPITULO IX. ABANDONO DE PERSONAS
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
@@ -2028,8 +2070,6 @@ Si el aborto lo causare un médico, cirujano, comadrona o partera, además de la
 315.- Al que encuentre abandonado o abandone en cualquier sitio a un menor o a un anciano incapaz de cuidarse a sí mismo a una persona lesionada, inválida o amenazada de un peligro cualquiera, se le aplicarán de tres a seis meses de prisión o multa de una a cinco cuotas si no diera aviso inmediato a la autoridad u omitiese prestarles el auxilio necesario cuando pudiere hacerlo sin riesgo personal.
 
 316.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono sin prestarle o facilitarle asistencia a la persona a quien atropelló, o le causó un daño similar, será sancionado con la pena de tres a seis meses de prisión o multa de diez a veinticinco cuotas, por esta sola circunstancia. Si del abandono resultare la muerte, la sanción será de dos a ocho años de prisión; si resultaren lesiones o algún otro delito, se aplicará la mitad de las sanciones que correspondan a aquéllos.
-
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO I. ROBO
 
@@ -2495,6 +2535,8 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO I. ORDEN DE APREHENSION ILEGAL
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
@@ -2502,8 +2544,6 @@ III.- Mediante cualquier acción u omisión que no constituya delito diverso, ej
 365.- Se aplicará prisión de tres meses a tres años y multa de cincuenta a cien cuotas al servidor público que libre una orden de aprehensión cuando no proceda denuncia o querella legalmente formulada sobre un hecho determinado que la ley tipifique como delito, sancionado cuando menos con pena privativa de libertad y ésta no esté señalada en forma alternativa con otra diversa.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO II. RETENCION ILEGITIMA
 
@@ -2711,6 +2751,8 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
+## TITULO VIGESIMO
+
 ### CAPITULO TERCERO. DE LOS MINISTROS DE CULTOS RELIGIOSOS
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
@@ -2718,8 +2760,6 @@ X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento
 377.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de los actos propios de su ministerio, induzcan pública o privadamente al electorado a votar en favor o en contra de un candidato, partido político o a la abstención del ejercicio del derecho de votar.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
-
-## TITULO VIGESIMO
 
 ### CAPITULO CUARTO. DE LOS FUNCIONARIOS ELECTORALES
 
@@ -2791,6 +2831,10 @@ V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u o
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 1997)</small>
 
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
@@ -2857,10 +2901,6 @@ XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
 ### CAPITULO SEXTO. DE LOS OBSERVADORES ELECTORALES
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
@@ -2875,6 +2915,10 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
+## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
@@ -2883,9 +2927,9 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+## TITULO VIGESIMO TERCERO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ### CAPITULO OCTAVO. DE LOS SERVIDORES PUBLICOS
 
@@ -2920,10 +2964,6 @@ VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
-
-## TITULO VIGESIMO TERCERO
-
-> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -3072,3 +3112,11 @@ P.O. 25 DE OCTUBRE DE 2006.
 PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- A las personas que hayan cometido algún delito en las circunstancias que se contempla, en el presente Decreto, con anterioridad a su entrada en vigor, les serán aplicadas las disposiciones del Código Penal del Estado vigente en el comento de su comisión, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+
+P.O. 15 DE SEPTIEMBRE DE 2007.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo tercero.- Dentro del término de seis meses contados a partir de la publicación de este Decreto, la Legislatura del Estado, deberá aprobar las disposiciones correspondientes, con la finalidad de proporcionar la asistencia y protección integral a las víctimas de trata de personas.
