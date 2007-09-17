@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-35721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2007-06-20"
+last_updated: "2007-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2003-12-02"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSITO METROPOLITANO, PUBLICADO EN LA G.O. DE 20 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LO DISPUESTO EN MATERIA DE CONTROL VEHICULAR Y EXPEDICION DE LICENCIAS Y PERMISOS DE CONDUCIR.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL CONTROL VEHICULAR Y DE LICENCIAS Y PERMISOS PARA CONDUCIR EN EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 17 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -1415,3 +1415,15 @@ SEGUNDO.- Se deroga el Reglamento de Tránsito del Distrito Federal publicado en
 TERCERO.- Lo dispuesto en la fracción XI del artículo 16 referente al Dispositivo de Geolocalización o de Georeferenciación Satelital Radioeléctrico o de tecnología similar, será obligatorio para los modelos 2008 en adelante.
 
 CUARTO.- Los propietarios de vehículos particulares que porten placas de matrícula del Distrito Federal anteriores a las vigentes, deberán reemplazarlas en un plazo de 30 días hábiles contados a partir del inicio de vigencia del presente Reglamento.
+
+G.O. 17 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. La fracción I, del Artículo 18, en lo relativo a la temporalidad de la vigencia de la Licencia para conducir Tipo A, entrará en vigor el 1º de Enero de 2008, en tanto, las licencias continuarán expidiéndose con la temporalidad establecida en el Artículo 23 del Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el 30 de Diciembre de 2003.
+
+Las Licencias Tipo A expedidas conforme al Reglamento de Tránsito del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el 30 de diciembre de 2003, mantendrán su carácter permanente.
+
+TERCERO. Se abroga el Reglamento de Transito del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el 30 de Diciembre de 2003.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
