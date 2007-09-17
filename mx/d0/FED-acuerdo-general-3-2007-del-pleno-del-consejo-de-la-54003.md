@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2007-del-pleno-del-consejo-de-la-54003"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-02-16"
-last_updated: "2007-02-16"
+last_updated: "2007-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-02-07"
 
 ACUERDO GENERAL 3/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE INVERSION DE RECURSOS FINANCIEROS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2007.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de febrero de 2007.
 
@@ -165,9 +165,11 @@ V. Verificar que las sesiones del Comité se lleven a cabo de acuerdo con los li
 
 VI. Las demás facultades que les sean encomendadas por la Comisión o por el Comité.
 
+> <small>(REFORMADO PRIMERO PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-El Comité tendrá un secretario técnico con preparación especializada en aspectos financieros, propuesto por el Secretario Ejecutivo de Finanzas, quien tendrá las facultades siguientes:
+El Secretario Técnico del Fondo de Apoyo a la Administración de Justicia fungirá también como Secretario Técnico del Comité de Inversión y será designado por el Comité Técnico del propio Fondo, deberá contar con preparación especializada en aspectos financieros y tendrá las facultades siguientes:
 
 I. Preparar y presentar el orden del día de la sesión a los integrantes del Comité con los antecedentes de los asuntos a tratar;
 
@@ -194,6 +196,10 @@ XI. Negociar y cerrar las inversiones con las instituciones financieras autoriza
 XII. Comunicar al Director General de Tesorería para que, en los términos acordados, realice la transferencia de recursos; y
 
 XIII. Las demás que le encomiende la Comisión, el Comité o el Presidente del Comité.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Artículo 10 bis.- Las atribuciones del Secretario Técnico del Fondo de Apoyo a la Administración de Justicia son independientes de las que se le confieren como Secretario Técnico del Comité de Inversión, aun cuando recaigan en la misma persona. Por lo tanto, su actuación sólo producirá efectos respecto del Comité en el que se encuentre en función.
 
 ###### Artículo 11.
 
@@ -253,7 +259,7 @@ III. Informar a la Comisión, con la periodicidad que ésta indique, sobre el fu
 
 ###### Artículo 16.
 
-El Secretario Técnico del Comité del Fondo de Apoyo a la Administración de Justicia podrá asistir a las sesiones del Comité.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 33/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2007)
 
 ###### Artículo 17.
 
@@ -290,3 +296,15 @@ SEGUNDO.- Se abroga el Acuerdo General 17/2006 del Pleno del Consejo de la Judic
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 El LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 3/2007, del Pleno del Consejo de la Judicatura Federal, que Regula la Integración y Funcionamiento del Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de febrero de dos mil siete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Miguel A. Quirós Pérez y Oscar Vázquez Marín.- México, Distrito Federal, a siete de febrero de dos mil siete.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Por esta ocasión, con la finalidad de dar cumplimiento al presente Acuerdo, expídase el nombramiento correspondiente al servidor público que haya sido designado como Secretario Técnico por el Comité Técnico del Fondo de Apoyo a la Administración de Justicia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
