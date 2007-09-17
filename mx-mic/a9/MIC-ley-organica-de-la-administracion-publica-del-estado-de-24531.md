@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2007-03-12"
+last_updated: "2007-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
 
@@ -159,7 +159,9 @@ Secretaría de Desarrollo Económico;
 
 Secretaría de Turismo;
 
-Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+Secretaría de Desarrollo Rural;
 
 Secretaría de Comunicaciones y Obras Públicas;
 
@@ -625,7 +627,9 @@ XVI. Promover la producción artesanal de las industrias familiares y proponer l
 
 XVII. Organizar y patrocinar congresos, seminarios, ferias, exposiciones y concursos, con alcance regional, nacional e internacional, sobre productos industriales, comerciales, mineros, de servicios, artesanales y pesqueros, con fines promocionales;
 
-XVIII. Fomentar en el medio rural en coordinación con la Secretaría de Desarrollo Agropecuario, la creación y el desarrollo de industrias y empresas;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+XVIII. Fomentar en el medio rural en coordinación con la Secretaría de Desarrollo Rural, la creación y el desarrollo de industrias y empresas;
 
 XIX. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, comercial, minera, de servicios, artesanal, pesquero, de abasto y exportaciones, contengan los convenios celebrados con la Administración Pública Federal;
 
@@ -675,9 +679,11 @@ XVI. Orientar y estimular las medidas de protección al turismo; y,
 
 XVII. Las demás que le confieran las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 28.
 
-A la Secretaría de Desarrollo Agropecuario le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Desarrollo Rural le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Elaborar y ejecutar los planes y programas estatales de desarrollo en materia agrícola y pecuaria, con la participación de los productores, y atendiendo a criterios de potencialidad en el uso de recursos, crear nuevas fuentes de ocupación, a efecto de elevar la productividad y mejorar los niveles de bienestar de la población;
 
@@ -1178,3 +1184,9 @@ P.O. 12 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
