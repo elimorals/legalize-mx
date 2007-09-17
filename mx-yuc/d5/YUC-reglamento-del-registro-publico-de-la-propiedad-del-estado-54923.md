@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-registro-publico-de-la-propiedad-del-estado-5492
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-20"
-last_updated: "2007-03-20"
+last_updated: "2007-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 20 de marzo de 2007.
 
@@ -289,9 +289,25 @@ DE LA FORMA Y EFECTOS DE LA INSCRIPCIÓN.
 
 DE LA INSCRIPCIÓN.
 
+> <small>(REFORMADO, D.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 22.
 
-El procedimiento de inscripción y anotación de los Títulos en el Registro Público se sujetará a las bases siguientes:
+Previo a su trámite registral correspondiente, las solicitudes de inscripciones, certificados y anotaciones serán sujetas a un procedimiento de verificación en la ventanilla que el Registro Público designe a efecto de cerciorarse de que los antecedentes registrales del predio de que se trate, coincidan con el trámite solicitado, otorgándole al usuario un comprobante del procedimiento de verificación que contendrá la fecha y hora de su presentación y el número de solicitud, que le dará derecho de iniciar por medio de la ventanilla de recepción el trámite de referencia en el sistema del Registro Público.
+
+El Registro Público procederá a realizar las correcciones en las discrepancias que existieran entre los datos contenidos en las solicitudes a que se refiere el párrafo anterior y los antecedentes registrales de los predios a que éstas se refieran, a efecto de garantizar la certeza jurídica en los trámites que se realicen en dicha Dirección.
+
+Cuando en una misma fecha coincidan dos o más solicitudes de verificación en la ventanilla respectiva sobre' un mismo predio, para los efectos de prelación en el proceso de verificación respecto de los derechos registra/es que existieran entre los interesados, se estará a la hora y orden de presentación en dicha ventanilla. Una vez que haya sido realizada la verificación, las solicitudes serán puestas a disposición de los interesados en ese mismo orden, con la hora y fecha de expedición del comprobante del trámite.
+
+Para cualquier otro trámite registral posterior que se requiera hacer respecto del predio verificado en términos de los párrafos anteriores, la prelación atenderá al orden de la solicitud del servicio registral que pretenda realizar el usuario en la ventanilla de recepción correspondiente.
+
+El procedimiento de verificación de las solicitudes a que se refiere este artículo se sujetará a un plazo máximo de respuesta de quince días hábiles.
+
+> <small>(ADICIONADO, D.O. 17 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 22
+
+Bis.- El procedimiento de inscripción y anotación de los Títulos en el Registro Público se sujetará a las bases siguientes:
 
 I.- Estará sujeto a un plazo máximo de respuesta de quince días hábiles;
 
@@ -828,3 +844,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 17 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
