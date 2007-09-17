@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-574
 country: "mx"
 rank: "ley"
 publication_date: "1977-02-01"
-last_updated: "1977-02-01"
+last_updated: "2007-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 17 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Suplemento al Periódico Oficial del Estado de Hidalgo, el 1 de febrero de 1977.
 
@@ -1170,3 +1172,29 @@ Dado en el Salón de Sesiones del H. Congreso del Estado, en Pachuca de Soto, Es
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, de Hidalgo, a los veintidós días del mes de enero de mil novecientos setenta y siete.- El Gobernador Constitucional Interino del Estado, LIC. JOSE LUIS SUAREZ MOLINA.- El Secretario de Gobierno, LIC. FERNANDO LUGO VERDUZCO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Hidalgo, Publicada en el Periódico Oficial del Estado, de fecha 1 de febrero de 1977, así como todas sus reformas y adiciones.
+
+TERCERO.- Los Ayuntamientos en un término no mayor de 180 días hábiles deberán ajustar sus disposiciones reglamentarias a fin de estar en concordancia con la presente Ley.
+
+CUARTO.- El Ejecutivo, en un término que no excederá de 180 días hábiles promoverá la expedición de las disposiciones reglamentarias de ésta Ley.
+
+QUINTO.- Los Programas de Desarrollo Urbano decretados con anterioridad a la vigencia de esta Ley, se mantendrán vigentes en sus términos y se integrarán al Sistema, surtiendo todos sus efectos legales, hasta en tanto no se abroguen o modifiquen de manera expresa, en los términos de este ordenamiento.
+
+SEXTO.- Las autorizaciones para el aprovechamiento de predios expedidas con anterioridad a la vigencia de esta Ley y de sus programas de desarrollo urbano, continuarán vigentes de acuerdo a lo dispuesto en la Ley con la que se otorgaron.
+
+SEPTIMO.- La Secretaría y el Municipio instrumentarán los mecanismos y sistemas de simplificación administrativa en materia de trámites y autorizaciones que contempla esta Ley.
+
+OCTAVO.- El Municipio en un término no mayor de 120 días capacitará por conducto de la Secretaría al personal encargado de asumir las funciones que establece la presente Ley.
+
+NOVENO.- Los Municipios tendrán 180 días a partir de la fecha de entrada en vigor de la presente Ley, para emitir o actualizar los Programas Municipales de Desarrollo Urbano, de los Centros de Población, así como los Programas Parciales y Sectoriales.
+
+En caso de que los Municipios no expidan los programas a que se refiere el párrafo anterior, podrán suscribir con el Estado, por conducto de la Secretaría, un convenio, a efecto de que, hasta en tanto se expidan dichos programas, éste expida las licencias, permisos, autorizaciones, constancias y dictámenes de uso del suelo, de construcción, fraccionamiento, urbanización, fusión, subdivisión, relotificación, reagrupamiento inmobiliario, cambio a régimen de propiedad en condominio y otros tendientes a la transformación, uso o aprovechamiento del suelo urbano, así como los permisos relacionados con la remodelación y urbanización.
+
+DECIMO.- Se derogan todas las disposiciones que se opongan al contenido del presente ordenamiento.
