@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-consejo-de-honor-y-justicia-de-seguridad-29260"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-28"
-last_updated: "2003-02-28"
+last_updated: "2007-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE SEGURIDAD PUBLICA PARA EL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de febrero de 2003.
 
@@ -59,7 +59,11 @@ II.- Los Cuerpos de Seguridad Pública del Estado:
 
 a).- Los elementos operativos de las Fuerzas de Seguridad Pública del Estado;
 
-b).- Los elementos operativos de la Policía Estatal de Caminos; y
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+b).- Los elementos asignados a la custodia de los Centros de Internación para Adolescentes; y
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 c).- Los elementos del Cuerpo Estatal de Seguridad Penitenciaria.
 
@@ -73,9 +77,7 @@ Para el cumplimiento de sus funciones, el Consejo gozará de las más amplias fa
 
 ###### ARTÍCULO 5o.
 
-Lo no previsto en el presente Reglamento será resuelto por el titular de la Secretaría de Seguridad Pública del Estado de Guanajuato.
-
-En lo no previsto en este Reglamento se aplicará en forma supletoria, el Código de Procedimientos Civiles para el Estado de Guanajuato.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN Y DEL FUNCIONAMIENTO DEL CONSEJO
 
@@ -85,11 +87,15 @@ En lo no previsto en este Reglamento se aplicará en forma supletoria, el Códig
 
 El Consejo de Honor y Justicia se integrará por:
 
-l.- Un Presidente, cuyo cargo recaerá en el Secretario de Seguridad Pública, quien podrá delegar esta función en el Subsecretario de Seguridad, sin menoscabo de su participación en cualquier evento;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
-II.- Un Secretario Técnico, que será nombrado por el Presidente del Consejo, el cual deberá contar con título de Licenciado en Derecho o equivalente, con experiencia mínima de dos años en áreas vinculadas a la Seguridad Pública;
+l.- Un Presidente que será el titular de la Secretaría de Seguridad Pública;
 
-III.- Un Vocal, que será un representante del Ejecutivo del Estado, nombrado por conducto del Secretario de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+II.- Un Secretario Técnico, que será nombrado por el Presidente del Consejo, el cual deberá contar con título de Licenciado en Derecho o su equivalente y pertenecer a la Secretaría de Seguridad Pública;
+
+III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 IV.- Un Vocal Técnico que será, según corresponda el asunto o el sujeto de investigación:
 
@@ -97,47 +103,55 @@ a).- El Director General de las Fuerzas de Seguridad Publica del Estado; o
 
 b).- El Director General de Ejecución Penitenciaria y Readaptación Social;
 
-V.- Un Vocal, que será nombrado por la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+V.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
-VI.- Un Vocal, que será un representante ciudadano del Consejo Estatal de Seguridad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
-VII.- Un Vocal, que será un representante de la Secretaría de la Contraloría del Estado;
+VI.- Un vocal, que será un representante ciudadano del Consejo Estatal de Consulta y Participación Ciudadana; y
 
-VIII.- Dos vocales, elementos de las Fuerzas de Seguridad Pública del Estado, o de la Policía Estatal de Caminos o del Cuerpo Estatal de Seguridad Penitenciaria, atendiendo al elemento sujeto al procedimiento disciplinario, que podrán ser:
+VII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
-a).- Un elemento de mando elegido, de entre todos los elementos de dichos rangos, según la adscripción del elemento o elementos sujetos a investigación; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
-b).- Un elemento de base elegido, de entre todos los elementos de tal rango que compongan la corporación, según la adscripción del elemento o elementos sujetos a investigación.
+VIII.- Un vocal, que será un representante de los integrantes del cuerpo de seguridad pública correspondiente, elegido mediante votación secreta de los elementos del cuerpo que se trate.
 
-Por cada uno de estos cargos se elegirá un suplente, designado en cada caso en particular en la primera sesión del año del Consejo.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+Por cada uno de los miembros del Consejo se designará un suplente.
 
 ### CAPÍTULO II. DE LAS FORMAS DE ASUMIR EL CARGO
 
 ###### ARTÍCULO 7o.
 
-El Presidente y el Secretario Técnico, permanecerán en el cargo durante el tiempo que dure su gestión. Los vocales de la Secretaria de Contraloría del Estado, de la Procuraduría de los Derechos Humanos del Estado, el representante del Consejo Estatal de Seguridad, el representante del Ejecutivo del Estado y los representantes de los Cuerpos de Seguridad del Estado, durarán en su cargo hasta en tanto no sean removidos por las propias autoridades u organismos que los hayan nombrado, caso en el cual su Titular designará a quién lo sustituya.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 8o.
 
-En los primeros 15 días del mes de diciembre de cada año, se convocará a la renovación de los vocales representantes del personal operativo admitiéndose hasta un máximo de cinco candidatos por grado. Cada elemento sólo podrá votar por el candidato que pertenezca a su mismo rango.
+En los primeros 15 días del mes de diciembre de cada año, se convocará a la renovación de los vocales representantes del personal operativo admitiéndose hasta un máximo de cinco candidatos.
 
 ###### ARTÍCULO 9o.
 
 La votación será secreta, mediante boletas que se depositaran en urnas transparentes. Al inicio de la votación un funcionario de la Secretaría de Seguridad con facultades para certificar documentos, dará fe de que las urnas se encuentran vacías y del cómputo al cierre de la elección.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 10.
 
-Los elementos de cada grado que obtengan el segundo lugar en la votación, serán asignados como suplentes del titular del grado y lo suplirá en sus ausencias temporales y en caso de ausencia definitiva, concluirá el período del titular.
+Los elementos que obtengan el segundo lugar de la votación, serán asignados como suplentes del titular y lo suplirá en sus ausencias temporales y en caso de ausencia definitiva, concluirá el periodo del titular.
 
 ###### ARTÍCULO 11.
 
 El tiempo para permanecer en el cargo de los elementos operativos que sean miembros del Consejo, será de un año, pudiendo darse la reelección de sus miembros únicamente por otro periodo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 12.
 
-Los miembros del Consejo que sean elementos operativos sólo podrán ser removidos o sustituidos en los casos siguientes:
+Los miembros del Consejo que sean elementos operativos únicamente podrán ser removidos o sustituidos en los casos siguientes:
 
-l.- Ascenso al grado inmediato;
+l.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 II.- Enfermedad o lesiones que tarden en sanar más de tres meses;
 
@@ -145,7 +159,7 @@ III.- Por actos u omisiones que a juicio del Consejo afecten la imagen de la cor
 
 IV.- Por la comisión de delitos o faltas graves en el ejercicio de sus funciones o fuera del servicio, a juicio de la propia corporación a que pertenezca o de la autoridad competente;
 
-V.- Por causa justificada a petición de las dos terceras partes de los elementos de su misma jerarquía, grado o rango de la corporación a la que pertenezca;
+V.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 VI.- Por renunciar o causar baja de la corporación; y
 
@@ -161,31 +175,35 @@ Los cargos dentro del Consejo de Honor y Justicia serán honoríficos, por lo qu
 
 El Consejo tendrá las atribuciones siguientes:
 
-I.- Conocer y resolver sobre las faltas graves en que incurran los elementos. de los Cuerpos de Seguridad Pública del Estado, con base en los principios de actuación previstos en la Ley de Seguridad Pública del Estado, así como las normas disciplinarias de los Cuerpos de Seguridad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Conocer y resolver sobre las faltas graves en que incurran los elementos de los Cuerpos de Seguridad Pública del Estado;
 
 II.- Practicar las diligencias necesarias que conlleven a resolver los asuntos o cuestiones discutidas respecto de la legalidad, honestidad, honorabilidad e imagen del actuar de los Cuerpos de Seguridad Pública Estatal;
 
-III.- Aprobar los manuales técnicos, sobre reconocimientos, promociones y ascensos, así como para establecer el formato de diplomas y medallas;
+III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
-IV.- Supervisar y vigilar el buen desarrollo de los concursos de ascensos, promociones y reconocimientos Que se lleven a cabo;
+IV.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 V.- Valorar, proponer y aprobar el otorgamiento de condecoraciones, reconocimientos, estímulos y recompensas, conforme a este Reglamento;
 
-VI.- Conocer y resolver el recurso de revocación, contemplado en este Reglamento;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+VI.- Conocer y resolver el recurso de reconsideración;
 
 VII.- Comunicar al titular del Cuerpo de Seguridad Pública, su resolución respecto a la probable comisión del delito o faltas graves cometidos por elementos activos de la corporación a su cargo;
 
 VIII.- Recibir y canalizar a la instancia correspondiente, todo tipo de sugerencias, quejas, opiniones, propuestas o peticiones que se formulen, relativas a la corporación o al servicio, mismas que deberán hacerse por escrito de manera pacífica y respetuosa;
 
-IX.- Se desechará de plano todo escrito anónimo, que sea dirigido con la finalidad exclusiva de ser una crítica destructiva sin que cuente con elementos suficientes que permitan presumir la existencia real de las faltas o hechos delatados;
+IX.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 X.- Presentar las denuncias de hechos que pudieren ser constitutivos de delito, en que incurran los miembros operativos activos de los Cuerpos de Seguridad Pública del Estado, ante las autoridades competentes siempre que el delito sea de los que se persiguen de oficio;
 
-XI.- Opinar sobre la conveniencia del reingreso de algún aspirante a los Cuerpos de Seguridad Pública del Estado, a petición del Presidente del Consejo;
+XI.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 XII.- Proponer acciones, medidas o proyectos para mejorar el funcionamiento de las corporaciones;
 
-XIII.- Proponer al titular del Cuerpo de Seguridad Pública, la Imposición de correctivos disciplinarios a los oficiales superiores por faltas cometidas en ejercicio del mando, siempre que constituyan faltas no graves que hayan de ser sancionadas de acuerdo con el presente Reglamento;
+XIII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 XIV.- Comunicar al titular del Cuerpo de Seguridad Pública, su resolución respecto a la probable comisión de delitos o faltas graves cometidos por elementos en activo de la corporación; y
 
@@ -203,21 +221,31 @@ III.- Dirigir las deliberaciones y las reuniones del Consejo;
 
 IV.- Proponer sanciones, estímulos, reconocimientos, condecoraciones y ascensos;
 
-V.- En la primera sesión del Consejo nombrará al Secretario Técnico del Consejo quien podrá ser designado de entre los integrantes del mismo o podrá ser un servidor público de la Secretaría de Seguridad Pública de probada honorabilidad y confianza;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+V.- Nombrar al Secretario Técnico del Consejo;
 
 VI.- Convocar por conducto del Secretario Técnico, a las sesiones del Consejo;
 
 VII.- Proponer los mecanismos que permitan el mejor funcionamiento del Consejo;
 
-VIII.- Informar cada seis meses sobre las actividades del Consejo; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+VIII.- Rendir todo tipo de informes respecto a las actividades del Consejo; y
 
 IX.- Las demás que le confiera el presente Reglamento y otras disposiciones legales vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 16.
 
-El Secretario Técnico, tendrá las siguientes atribuciones:
+El Secretario Técnico tendrá las siguientes atribuciones:
 
 I.- Recibir las quejas de los gobernados o de las autoridades por la actuación desviada u omisa de los elementos de los cuerpos de seguridad pública del Estado e investigar de oficio los hechos relativos a la misma;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+Se desecharán de plano las quejas, denuncias y promociones notoriamente maliciosas o improcedentes, así como los escritos anónimos;
 
 II.- Iniciar investigaciones de manera oficiosa respecto de faltas graves presuntamente cometidas por los elementos de los cuerpos de seguridad pública del Estado, allegándose de las pruebas necesarias para el esclarecimiento de los hechos y emitir el dictamen correspondiente;
 
@@ -235,13 +263,21 @@ Indicaciones el Presidente;
 
 VIII.- Elaborar todo tipo de comunicaciones que el Consejo envíe a las diversas autoridades;
 
-IX.- Llevar el archivo del Consejo;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+IX.- Llevar el archivo del Consejo y expedir certificaciones de los documentos ahí contenidos, así como realizar el cotejo de documentos;
 
 X.- Vigilar que se anexen al expediente del Cuerpo de Seguridad, las resoluciones que emita el pleno del Consejo;
 
-XI.- Vigilar el cumplimiento de los acuerdos del Consejo en el ámbito de su competencia; y
+XI.- Vigilar el cumplimiento de los acuerdos del Consejo en el ámbito de su competencia; y (sic)
 
-XII.- Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+XII.- Requerir o solicitar información a cualquier área de la Secretaría de Seguridad Pública, así como de cualquier dependencia o entidad para el cumplimiento de sus funciones en cualquier etapa del desarrollo de los procedimientos administrativos respectivos; y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+XIII.- Las demás que le confiera el presente Reglamento y otras disposiciones legales aplicables.
 
 El Secretario Técnico, podrá participar y emitir opiniones durante la substanciación del procedimiento, sin embargo, durante la deliberación tendrá sólo voz informativa, pero no voto.
 
@@ -279,7 +315,7 @@ I.- Por convocatoria del Presidente, para conocer y resolver sobre las faltas gr
 
 II.- Cuando se presente una situación urgente, de una acción o conducta de uno o varios elementos de los Cuerpos de Seguridad Pública;
 
-III.- Cuando se realice un informe de actividades cada seis meses;
+III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 VI.- Cuando se considere que se deba sustituir a algún miembro del Consejo; o;
 
@@ -305,9 +341,11 @@ La votación de los integrantes del Consejo se realizará, en forma secreta, med
 
 Todo expediente turnado al Consejo, deberá ser listado para su resolución en la siguiente sesión del Consejo, la cual no podrá diferirse salvo causa de fuerza mayor, debidamente motivada. La sesión del Consejo no podrá terminar sino hasta que se resuelvan todos los expedientes listados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 26.
 
-Las sesiones del Consejo, se ajustarán a las siguientes reglas:
+Las sesiones del Consejo se ajustarán a las siguientes reglas:
 
 I.- El Secretario Técnico, pasará lista de asistencia y procederá a declarar que existe el quórum legal;
 
@@ -323,7 +361,9 @@ VI.- Concluida la deliberación, se procederá a la votación. El Secretario Té
 
 VII.- El Presidente ordenará que se realicen las anotaciones y notificaciones correspondientes;
 
-VIII.- Los acuerdos y resoluciones que dicte el Consejo y la relatoría de la sesión, deberán hacerse constar por parte del Secretario Técnico en el acta circunstanciada que al efecto se levante, la cual deberá ser firmada por todos los presentes;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+VIII.- Los acuerdos y resoluciones que dicte el Consejo y la relatoría de la sesión, deberán hacerse constar por parte del Secretario Técnico en el acta que al efecto se levante, la cual deberá ser firmada por todos los asistentes;
 
 IX.- En su caso, el Secretario Técnico deberá elaborar por escrito la resolución que corresponda, de acuerdo con lo desarrollado en la audiencia y atendiendo a la votación respectiva; y
 
@@ -336,6 +376,10 @@ X.- El Secretario Técnico notificará al elemento o a los elementos Investigado
 ###### ARTÍCULO 27.
 
 Las faltas son aquellas conductas a cargo de los elementos de Seguridad Pública del Estado contrarias al cumplimiento de las obligaciones y deberes establecidos en los ordenamientos legales, que deben ser observados dentro y fuera del servicio, por lo que todo elemento que incurra en éstas, será sancionado en los términos del presente Reglamento. Si la infracción, además de una falta administrativa constituyere un delito, se hará del conocimiento de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+A efecto de poder permanecer en el servicio, los integrantes de los cuerpos de seguridad pública deberán cumplir con los requisitos de permanencia previstos en el artículo 63 D de la Ley de Seguridad Pública del Estado y con los demás que se establezcan en otros ordenamientos. En el caso de la evaluación al desempeño de la función, se considerará que un elemento no cumple con dichos requisitos de permanencia en el supuesto de que cometa una de las faltas graves previstas en este reglamento y que a juicio del Consejo de Honor y Justicia de Seguridad Pública para el Estado amerite la destitución o cese.
 
 ###### ARTÍCULO 28.
 
@@ -365,7 +409,7 @@ XI.- Vender, rentar, prestar o regalar el armamento, uniforme y en general el qu
 
 XII.- Participar o incitar en actos en los que se denigre, menoscabe o menosprecie a los Cuerpos de Seguridad, a la Secretaría de Seguridad Pública, a la corporación donde trabaja, dentro o fuera del servicio;
 
-XIII.- Acumular tres suspensiones de labores en un período de 90 noventa días hábiles;
+XIII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 XIV.- Engañar o intentar engañar a sus superiores jerárquicos con incapacidades falsas, alteradas o sin justificación;
 
@@ -395,7 +439,7 @@ XXVI.- Desenfundar, amagar o usar el equipo de armamento, sin causa justificada;
 
 XXVII.- Abandonar el servicio, comisión o capacitación, sin causa justificada;
 
-XXVIII.- Acumular hasta tres arrestos en un período de 90 noventa días naturales;
+XXVIII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 XXIX.- Abandonar o dar por terminado anticipadamente de manera injustificada un arresto;
 
@@ -405,7 +449,9 @@ XXXI.- Provocar accidentes viales de gravedad por negligencia o por el uso inade
 
 XXXII.- Imputar falsamente motivos de detención;
 
-XXXIII.- Desacatar la orden de un superior, salvo que la misma pueda ser constitutiva de delito, falta administrativa o conducta antisocial;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+XXXIII.- Desacatar la orden de un superior, salvo que la misma pueda ser constitutiva de delito o falta administrativa;
 
 XXXIV.- Ordenar a un subalterno la realización de una conducta que pueda constituir una falta grave o un delito;
 
@@ -421,31 +467,39 @@ XXXIX.- Las demás de naturaleza análogas (sic) de igual manera graves y de con
 
 ###### ARTÍCULO 29.
 
-Cuando algún elemento de los cuerpos de seguridad, incurra en conductas no previstas en el presente Reglamento, que por las circunstancias en las que ocurrieron o los efectos negativos considerados para la imagen, la operatividad o la seguridad de la corporación sean graves a juicio del Director General de la corporación a la que pertenezca dicho elemento, este deberá notificarlo por escrito al Consejo, describiendo la conducta y las razones por las que considera debe estimarse grave. El Consejo listará el asunto para el sólo efecto de calificar la gravedad y de resultar tal calidad, procederá a instruir al Secretario Técnico para que inicie el procedimiento correspondiente. La resolución que se emita no prejuzgará sobre la responsabilidad del elemento.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 30.
 
-Si el Consejo determina que la conducta del elemento operativo no es grave, procederá a notificar al Director General o servidor público de mayor rango administrativo en la plaza de dicho Cuerpo de Seguridad Pública para que éste, de manera directa, aplique la sanción correspondiente que consistirá en amonestación, arresto hasta por 36 horas o cambio de adscripción en los términos previstos en los (sic) 96, 97 y 98 fracciones I, II y III de la Ley de Seguridad Pública del Estado de Guanajuato, cuya resolución habrá de notificar al Consejo y hacerse las anotaciones señaladas en el presente Reglamento.
+En caso de que la falta cometida por un elemento de los cuerpos de seguridad pública, no esté considerada como grave en los términos del presente Reglamento, el superior jerárquico del elemento aplicará la sanción correspondiente, la que consistirá en: amonestación, arresto hasta por 36 horas sin perjuicio del servicio o cambio de adscripción; respetando la garantía de audiencia.
 
 ###### ARTÍCULO 31.
 
-Si el Consejo califica como grave la conducta, enviará su determinación al Secretario Técnico para que proceda de acuerdo a lo establecido en el artículo 46 del presente Reglamento.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 ### CAPÍTULO II. DE LAS MEDIDAS DISCIPLINARIAS
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 32.
 
-Las medidas disciplinarias son las sanciones a que se hacen acreedores los integrantes de los Cuerpos de Seguridad Pública Estatal, cuando desacaten los principio (sic) de actuación y las obligaciones que la Ley de Seguridad Pública y demás disposiciones legales les asignen o incurran en alguna de las faltas contempladas en el presente Reglamento.
+Las medidas disciplinarias son las sanciones a que se hacen acreedores los integrantes de los Cuerpos de Seguridad Pública Estatal, cuando incurran en alguna de las faltas contempladas en el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 33.
 
-Los elementos de los Cuerpos de Seguridad que incurran en alguna de las faltas graves señaladas en el Reglamento, serán sancionados de la siguiente manera:
+Los elementos de los Cuerpos de Seguridad que incurran en alguna de las faltas graves señaladas en el presente Reglamento, serán sancionados de la siguiente manera:
 
 I.- Amonestación;
 
 II.- Cambio de Adscripción;
 
-III.- Arresto hasta por 36 treinta y seis horas;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+III.- Arresto hasta por treinta y seis horas, sin perjuicio del servicio;
 
 IV.- Suspensión temporal de funciones sin goce de sueldo;
 
@@ -453,31 +507,47 @@ V.- Degradación; y
 
 VI.- Destitución o cese.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 34.
 
-La amonestación, es la comunicación mediante la cual el superior jerárquico advierte la omisión o falta en el cumplimiento de sus funciones al elemento operativo, conminándolo a corregirse, apercibiéndolo de que si reinciden su conducta, se hará acreedor a una sanción mayor. La amonestación podrá ser verbal o por escrito, en ambos casos deberá levantarse constancia de su aplicación.
+La amonestación es la comunicación mediante la cual el superior jerárquico advierte la omisión o falta en el cumplimiento de sus funciones al elemento operativo, conminándolo a corregirse, apercibiéndolo de que si reincide en su conducta, se hará acreedor a una sanción mayor. La amonestación deberá ser por escrito.
 
 ###### ARTÍCULO 35.
 
 El cambio de adscripción es el movimiento de plaza del elemento de Seguridad Pública del Estado a otro centro de trabajo dentro de la propia corporación y se decretará cuando el comportamiento del integrante del Cuerpo de Seguridad Pública haya afectado la disciplina y la buena marcha del grupo al que éste adscrito o bien sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 36.
 
-El arresto podrá imponerse hasta por treinta y seis horas, por faltas graves o por haber acumulado cinco amonestaciones en un año calendario. Deberá ordenarse por escrito, especificando motivo y duración del mismo.
+El arresto podrá imponerse hasta por treinta y seis horas, sin perjuicio del servicio.
+
+En caso de que un elemento incurra en una falta de las contempladas en el presente Reglamento y tenga acumulados dos arrestos en un año calendario, la sanción consistirá en suspensión, degradación o cese, según la gravedad de la última infracción.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 37.
 
-La suspensión temporal de funciones, es la separación temporal del ejercicio del cargo, sin goce de sueldo. La acumulación de dos suspensiones en un periodo de un año, será motivo de destitución.
+La suspensión temporal de funciones, es la separación temporal del ejercicio del cargo, sin goce de sueldo.
 
-El Consejo determinará el número de días de suspensión laboral, la cual podrá ser de 3 días a 6 meses y en caso de reincidencia, la medida disciplinaria impuesta, no será menor, ni igual a la última aplicada.
+El Consejo determinará el número de días de suspensión laboral, la cual podrá ser de 3 días a 6 meses.
+
+En caso de que un elemento incurra en una falta de las contempladas en el presente Reglamento y, tenga acumulados dos suspensiones en un año calendario, la sanción consistirá en degradación o destitución o cese, según la gravedad de la infracción.
 
 ###### ARTÍCULO 38.
 
 La degradación, es la disminución del rango o jerarquía dentro del Cuerpo de Seguridad al que se pertenece.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 39.
 
-La destitución o cese, es la separación definitiva del cargo por haberse encontrado responsable al elemento de haber incurrido en alguna de las faltas graves contempladas en este Reglamento, sin perjuicio de las sanciones penales que pudiera imponer la autoridad judicial.
+El cese es la separación definitiva del cargo por haberse encontrado responsable al elemento de haber incurrido en alguna de las faltas graves contempladas en el presente Reglamento, sin perjuicio de las sanciones penales que pudiera imponer la autoridad judicial.
+
+En el caso del cese, el elemento será removido libremente de su cargo, sin que proceda su reinstalación o restitución, independientemente de cualquier medio de impugnación que interponga y, en su caso, el estado sólo estará obligado a pagar una indemnización.
+
+La indemnización a que se refiere el párrafo anterior, consistirá exclusivamente en el pago de tres meses de salario y, en su caso, prima vacacional, prima de antigüedad y aguinaldo, en los términos de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE MEDIDAS DISCIPLINARIAS
 
@@ -515,43 +585,63 @@ Podrá practicar, dentro y fuera de sus oficinas, las diligencias pertinentes pa
 
 Si del análisis de los hechos materia de la queja o denuncia, el Secretario Técnico determina que no están previstos como falta grave en los términos del presente Reglamento, acordará lo conducente con el Secretario de Seguridad Pública del Estado y si éste ratifica tal determinación, el asunto se turnará al Director General del Cuerpo de Seguridad Pública al cual este adscrito el elemento o los elementos sobre los cuales se hace la imputación para que proceda de acuerdo en los términos del artículo 30.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 46.
 
-Si de la información obtenida, a juicio del Secretario Técnico, se desprenden suficientes elementos para tener por acreditada la probable comisión de una falta grave, que encuadre en las señaladas en este ordenamiento y la probable responsabilidad del o de los elementos involucrados, lo hará del conocimiento del Consejo.
-
-El Consejo analizará los informes y constancias presentados por el Secretario Técnico y de considerar que existen suficientes elementos de juicio que acrediten la existencia de los actos, y que éstos sean considerados graves, acordará el inicio del procedimiento disciplinario correspondiente en el que se respetará las garantías de audiencia y defensa legal del o los incoados.
+Si de la información obtenida, a juicio del Secretario Técnico, se desprenden suficientes elementos para tener por acreditada la probable comisión de una falta grave, que encuadre a las señaladas en este ordenamiento y la probable responsabilidad del o de los elementos involucrados, iniciará el procedimiento disciplinario correspondiente en el que se respetarán las garantías de audiencia y defensa legal del o los probables responsables.
 
 ###### ARTÍCULO 47.
 
 Los miembros del Consejo, tendrán la obligación de guardar la confidencialidad sobre la identidad de los denunciantes, los hechos investigados y el avance de las investigaciones.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 48.
 
-Si el Pleno del Consejo determina necesario suspender provisionalmente al presunto infractor, durante la substanciación del procedimiento, se decretará la suspensión sin goce de sueldo.
+Cuando lo solicite el titular del cuerpo de seguridad pública que se trate, el Secretario Técnico podrá decretar la suspensión provisional del puesto que ocupe el elemento con goce de sueldo, durante la substanciación del mismo.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 49.
 
-El Secretario Técnico notificará al o los elementos de Seguridad Pública involucrados el inicio del procedimiento, haciéndoles saber los hechos que den origen al mismo y la suspensión sin goce de sueldo de haberse decretado ésta. En dicha notificación los citará a una audiencia en la que podrán manifestar lo que a su derecho convenga y ofrecer las pruebas que estimen convenientes para su defensa, siendo admisibles todas, excepto la confesional por absolución de posiciones de las autoridades.
+El Secretario Técnico notificará al o los elementos de Seguridad Pública involucrados el inicio del procedimiento, haciéndoles saber los hechos que den origen al mismo y la suspensión con goce de sueldo de haberse decretado ésta. En dicha notificación los citará a una audiencia en la que podrán manifestar lo que a su derecho convenga y ofrecer las pruebas que estimen convenientes para su defensa, siendo admisibles todas, excepto la confesional por absolución de posiciones de las autoridades.
+
+> <small>(F. DE E., P.O. 30 DE OCTUBRE DE 2007)</small>
 
 Así mismo, en la notificación se apercibirá a los presuntos infractores que de no comparecer en la fecha, hora y lugar contenido en el citatorio, sin causa justificada, se tendrán por ciertos los hechos que se les atribuyen, salvo prueba en contrario y, en su rebeldía se continuará el procedimiento.
 
+> <small>(F. DE E., P.O. 30 DE OCTUBRE DE 2007)</small>
+
 El citatorio mediante el cual se comunique la comparecencia a los elementos investigados tendrá que hacérseles llegar al menos con 48 horas de anticipación previas a la celebración de la diligencia. De dicho citatorio se enviará copia a su superior jerárquico, quien deberá otorgar todas las facilidades necesarias, a efecto de que el o los elementos investigados tengan oportunidad de comparecer a la audiencia.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 50.
 
-Si por la naturaleza de las pruebas ofrecidas se hiciere necesario su desahogo, se abrirá un periodo probatorio de 5 días hábiles, sin perjuicio de que el mismo pueda ampliarse según el arbitrio del Presidente del Consejo.
+El elemento probable responsable podrá nombrar defensor para que lo asista en el procedimiento y en caso de no hacerlo se le designará de oficio.
+
+Se podrá decretar la práctica, repetición o ampliación de cualquiera diligencia probatoria, siempre que se estime necesaria y sea conducente para el conocimiento de la verdad sobre los puntos controvertidos.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 51.
 
-Desahogadas las pruebas, el Secretario Técnico emitirá un estudio previo, que deberá contener una exposición sucinta de los hechos; las pruebas que obren en el sumario y su valoración, así como la debida fundamentación y motivación, así como la forma y grado de participación y las circunstancias particulares del incoado y demás condiciones de los sujetos intervinientes en los hechos en la medida en que hayan influido para su realización, dejando el expediente en estado de resolver.
+Desahogadas las pruebas, el Secretario Técnico acordará con el Presidente del Consejo fecha para la celebración de la audiencia de deliberación y sentencia, la que habrá de verificarse con citación por escrito a los miembros del Consejo.
+
+Con anticipación a dicha audiencia, el Secretario Técnico remitirá a los miembros del Consejo un informe que contenga una exposición sucinta de los hechos y la relatoría de las pruebas que obran en el sumario, así como la forma y grado de participación y las circunstancias particulares de los probables responsables y demás condiciones de los sujetos intervinientes en los hechos en la medida en que hayan influido para su realización.
 
 ###### ARTÍCULO 52.
 
 El Secretario Técnico acordará con el Presidente del Consejo fecha para la celebración de la audiencia de deliberación y sentencia, la que habrá de verificarse con citación por escrito a los miembros del Consejo. La audiencia de deliberación y sentencia habrá de celebrarse dentro de los 10 días hábiles siguientes al acuerdo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 53.
 
-La audiencia de deliberación y sentencia comenzará con lectura del estudio previo que presente el Secretario Técnico, tras lo cual el Pleno del Consejo procederá, de inmediato y sin interrupción, a deliberar en sesión secreta y una vez analizadas las circunstancias de hecho y los elementos de prueba existentes, resolverá si el elemento incurrió en alguna o varias de las faltas graves señaladas en el presente Reglamento, en cuyo caso se impondrá la sanción que jurídicamente se estime procedente. Para dar cumplimiento a lo anterior el Secretario Técnico procederá a redactar la resolución respectiva en un plazo no mayor a 72 horas.
+En la audiencia de deliberación y sentencia, el Consejo procederá, de inmediato y sin interrupción, a deliberar en sesión secreta y una vez analizadas las circunstancias de hecho y los elementos de prueba existentes, resolverá si el elemento incurrió en alguna o varias de las faltas graves señaladas en el presente Reglamento, en cuyo caso se impondrá la sanción que jurídicamente se estime procedente.
+
+En cumplimiento a lo resuelto por el Consejo, el Secretario Técnico procederá a redactar la resolución, la que será suscrita por el Presidente.
 
 ###### ARTÍCULO 54.
 
@@ -561,7 +651,7 @@ I.- La gravedad de la falta;
 
 II.- Si la falta fue cometida de manera dolosa o por falta de cuidado del elemento;
 
-III.- La reincidencia en la violación al presente Reglamento;
+III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 IV.- La causación de daños o perjuicios a la sociedad, a su corporación o a la Secretaría;
 
@@ -571,7 +661,9 @@ VI.- La antigüedad en el servicio; y
 
 VII.- La condición socioeconómica del infractor.
 
-La resolución correspondiente deberá notificarse personalmente al elemento involucrado y, en su caso por oficio al quejoso.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+La resolución correspondiente deberá notificarse personalmente al elemento involucrado.
 
 Para los efectos del presente Reglamento se considerará reincidente al elemento que en un período de seis meses infrinja más de dos veces las disposiciones referidas en este Reglamento.
 
@@ -579,11 +671,13 @@ Para los efectos del presente Reglamento se considerará reincidente al elemento
 
 Una vez que cause ejecutoria la resolución el Secretario Técnico hará (sic) certificación correspondiente, quedando el elemento involucrado a disposición del Director General del Cuerpo de Seguridad Pública al que pertenezca, para la ejecución de la medida disciplinaria. El Secretario de Seguridad Pública se encargará de tomar las medidas que estime conducentes para verificar el cumplimiento de la misma.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+Si la sanción consistiera en cese, el elemento será removido de su cargo en el momento de la notificación de la resolución, sin que proceda su reinstalación o restitución, con independencia del medio de defensa que promueva, incluido el recurso previsto en el presente reglamento.
+
 ###### ARTÍCULO 56.
 
-Cuando se hubiere suspendido sin goce de sueldo al elemento y si se demostrase que no tiene responsabilidad en los hechos motivo del procedimiento, deberá pagársele íntegramente su salario por todo el tiempo que estuvo suspendido.
-
-Si la medida disciplinaria fuere de suspensión se computará como parte del cumplimiento de la misma todo el tiempo en que el elemento haya estado suspendido. Si la suspensión resultara mayor a la sanción se pagará íntegramente su salario por los días que ésta se hubiera excedido.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 57.
 
@@ -593,25 +687,33 @@ De todas las medidas disciplinarias impuestas por el Consejo se integrará copia
 
 Si en el curso del procedimiento o durante el periodo de ejecución el elemento involucrado causa baja por cualquier circunstancia, continuará el procedimiento hasta su conclusión, haciéndose la anotación de la resolución que recaiga en su hoja de servicio.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 59.
 
-En caso de no existir suficientes elementos o los que existan fuera endebles para acreditar la falta o la responsabilidad del elemento investigado en su comisión u omisión, el Consejo podrá ordenar el archivo provisional del asunto. Dado que la investigación puede reiniciarse en el caso de que dentro de los treinta días naturales posteriores a la resolución mencionada sobrevinieren elementos de prueba, se reabrirá el expediente. Si transcurrido dicho término no se aportaran otros datos, el Secretario Técnico de oficio certificará dicho estado y lo hará del conocimiento del Presidente del Consejo para ordenar el archivo definitivo de la investigación.
+En lo referente al procedimiento, en lo no previsto se estará a lo dispuesto en el Código de Procedimiento y Justicia Administrativa, excepto en cuanto al desahogo y valoración de las pruebas, en donde será supletorio el Código de Procedimientos Penales para el Estado de Guanajuato.
 
 ## TÍTULO CUARTO. DE LOS MEDIOS DE IMPUGNACIÓN
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE REVOCACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPÍTULO ÚNICO. DEL RECURSO DE RECONSIDERACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 60.
 
-En contra de la resolución del Consejo que ponga fin al procedimiento disciplinario, los elementos de los Cuerpos de Seguridad Pública afectados, podrán interponer el recurso de revocación, el cual se desahogará en los términos previstos en este Capítulo.
+En contra de la resolución del consejo que ponga fin al procedimiento disciplinario, los elementos de los Cuerpos de Seguridad Pública afectados podrán interponer el recurso de reconsideración, el cual se desahogará en los términos previstos en este Capítulo.
 
 ###### ARTÍCULO 61.
 
 El recurso se deberá interponer por el recurrente dentro de los tres días hábiles siguientes a la notificación de la resolución respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 62.
 
-El recurso de revocación se interpondrá ante el Secretario Técnico del Consejo en las oficinas en donde encuentre la sede su oficina en horario de servicio, debiendo reunir los siguientes requisitos:
+El recurso de reconsideración se interpondrá ante el Secretario Técnico del Consejo en las oficinas en donde encuentre la sede su oficina, en horario de servicio, debiendo reunir los siguientes requisitos:
 
 I.- Constar por escrito dirigido al Consejo;
 
@@ -621,15 +723,19 @@ III.- La fecha de notificación de la resolución impugnada;
 
 IV.- Exposición suscinta (sic) de hechos y agravios que le cause;
 
-V.- Ofrecimiento de las pruebas, en caso de existir;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Precisar los puntos petitorios; y
+V.- Ofrecimiento de las pruebas, en caso de existir; y (sic)
+
+VI.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2007)
 
 VII.- Firma del recurrente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 63.
 
-El recurso de revocación será desechado en los supuestos siguientes:
+El recurso de reconsideración será desechado en los supuestos siguientes:
 
 I.- Cuando se interponga fuera del término establecido en el presente Reglamento;
 
@@ -637,21 +743,29 @@ II.- Que no se presente por escrito y debidamente firmado; y
 
 III.- Que no contenga alguno de los requisitos en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 64.
 
-Recibido el escrito mediante el cual se interpone el recurso de revocación y analizando que cumpla los requisitos previstos en el artículo 62, el Secretario Técnico acordará con el Presidente del Consejo fecha para celebrar audiencia con la finalidad de resolver el recurso, la cual deberá desahogarse dentro de un plazo de 10 días hábiles para revocar, modificar o confirmar la resolución recurrida.
+Recibido el escrito mediante el cual se interpone el recurso de reconsideración y analizando que cumpla los requisitos previstos en el artículo 62, el Secretario Técnico acordará con el Presidente del Consejo fecha para celebrar audiencia con la finalidad de resolver el recurso.
 
-En el caso de que el escrito de interposición del recurso no se encuentre firmado o carezca de alguno de los requisitos a que se refiere la fracción III del artículo anterior, el Secretario Técnico deberá requerir por escrito al recurrente, a fin de que cuente con oportunidad para corregir su escrito de interposición del recurso, en un término de 3 tres días, de lo contrario se tendrá por no interpuesto.
+En el caso de que el escrito de interposición del recurso carezca de alguno de los requisitos a que se refieren las fracciones I, II, III y IV del artículo 62, el Secretario Técnico deberá requerir por escrito al recurrente, a fin de que cuente con oportunidad para corregir su escrito de interposición del recurso, en un término de 3 tres días, de lo contrario se tendrá por no interpuesto.
 
 ###### ARTÍCULO 65.
 
 Una vez admitido el recurso, se suspenderá la ejecución de la sanción en tanto el Consejo no resuelva de manera definitiva.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 66.
 
-En caso de haberse ofrecido pruebas supervinientes (sic), éstas se desahogarán en la misma audiencia en el caso de que su naturaleza así lo permita. En caso de no ser así, el Secretario Técnico las desahogará previo a la celebración de la audiencia.
+La resolución del recurso de reconsideración tendrá como efecto revocar, modificar o confirmar la resolución recurrida.
 
-En la misma audiencia el Consejo procederá a emitir la resolución respectiva de acuerdo con las reglas previstas en este Reglamento. Una vez que el Consejo emita la resolución respectiva la notificará al recurrente y al titular del cuerpo de seguridad respectiva por conducto del Secretario Técnico. Dicha resolución tendrá el carácter de definitiva e irrevocable.
+En caso de que la sanción consista en el cese, el recurso únicamente tendrá como efecto decidir sobre la procedencia o no de la indemnización.
+
+En la sesión correspondiente, el Consejo procederá a emitir la resolución respectiva de acuerdo con las reglas previstas en el presente Reglamento. La que será redactada por el Secretario Técnico y firmada por el Presidente.
+
+Si se hubieran ofrecido pruebas supervenientes, el Secretario Técnico las desahogará previo a la celebración de la sesión del Consejo.
 
 Las resoluciones derivadas del recurso interpuesto, se agregarán al expediente u hoja de servicio correspondiente.
 
@@ -768,3 +882,23 @@ JUAN MANUEL OLIVA RAMÍREZ.
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 FELIPE ARTURO CAMARENA GARCÍA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos disciplinarios que se encuentren en trámite al momento de la entrada en vigor del presente decreto, se sujetarán a las disposiciones procesales vigentes al momento de la falta administrativa, inclusive los recursos que se encuentren pendientes de su resolución. Se aplicarán aquellas medidas disciplinarias que sean más favorables a los elementos sujetos a procedimiento disciplinario.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de Honor y Justicia de Seguridad Pública para el Estado con su nueva integración, será competente para continuar conociendo de los procedimientos administrativos o de los recursos que se encuentren en trámite a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+En tanto inicia su vigencia el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, continuará aplicándose de manera supletoria en lo relativo al procedimiento el Código de Procedimientos Civiles para el Estado de Guanajuato.
