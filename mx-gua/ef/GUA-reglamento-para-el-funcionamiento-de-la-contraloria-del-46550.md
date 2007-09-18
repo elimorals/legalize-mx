@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2006-10-13"
+last_updated: "2007-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -283,6 +283,14 @@ En caso de inasistencia de alguno de ellos se convocará a una nueva Sesión en 
 
 En caso de que en la Sesión a la que se refiere el párrafo anterior no se integrara el quórum bastará con la asistencia de dos de sus integrantes para que sea válida.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+De darse tres inasistencias consecutivas del representante del Poder Legislativo o del representante de los partidos políticos ante la Contraloría, sin previo aviso al Presidente de ésta, el Consejo General designará un nuevo representante, observando el procedimiento señalado en el segundo párrafo del artículo 67 del Código.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2007)</small>
+
+En el caso de inasistencias del Presidente de la Contraloría por igual número de veces, los Consejeros Ciudadanos determinarán lo conducente en sesión del Consejo General.
+
 Las Sesiones serán reservadas y se efectuarán en el domicilio del Instituto.
 
 ###### Artículo 16.
@@ -516,3 +524,7 @@ P.O. 15 DE SEPTIEMBRE DE 2006.
 P.O. 13 DE OCTUBRE DE 2006.
 
 Único.- La reforma al presente reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2007.
+
+Único.- La presente adición entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
