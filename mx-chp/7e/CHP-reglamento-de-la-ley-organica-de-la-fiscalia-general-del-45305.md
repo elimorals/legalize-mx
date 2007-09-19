@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-45305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-01"
-last_updated: "2007-09-12"
+last_updated: "2007-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 1 de junio de 2005.
 
@@ -1625,9 +1625,15 @@ XI. Hacer llegar la cédula de citación que ordene la Fiscalía del Ministerio 
 
 XII. Rendir en todo caso y por escrito los informes resultantes de su intervención y de sus investigaciones;
 
-XIII. Vigilar que se atiendan de inmediato las llamadas de auxilio de la comunidad; y,
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2009)</small>
 
-XIV. Las demás que establezca la Ley Orgánica, éste Reglamento y demás disposiciones aplicables.
+XIII. Brindar seguridad y protección a las victimas u ofendidos por los delitos y a las personas que por sus características o condiciones personales, o cualquier otra circunstancia se encuentren relacionados en alguna averiguación previa o proceso, en los términos y condiciones que establezca el fiscal del ministerio publico;
+
+XIV. Vigilar que se atiendan de inmediato las llamadas de auxilio de la comunidad; y,
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2009)</small>
+
+XV. Las demás que establezca la ley Orgánica, éste reglamento y demás disposiciones aplicables.
 
 ###### Artículo 134.
 
@@ -2896,5 +2902,11 @@ Mariano F. Herrán Salvatti, Fiscal General del Estado de Chiapas.- Rúbrica.
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
 Primero.- La presente disposición entrará en vigor el día de su suscripción.
+
+Segundo.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2007.
+
+Primero.- La presente disposición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Publíquese en el Periódico Oficial del Estado.
