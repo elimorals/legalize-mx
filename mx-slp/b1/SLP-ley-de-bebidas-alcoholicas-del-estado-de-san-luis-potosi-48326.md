@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-48326"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-29"
-last_updated: "2005-12-29"
+last_updated: "2007-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 29 de diciembre de 2005.
 
@@ -393,7 +393,9 @@ VIII. Opinión técnica de la autoridad municipal. En aquellos casos en que el e
 
 IX. Comprobante de propiedad del inmueble o copia certificada del contrato que acredite el derecho al uso del mismo; y
 
-X. Carta de no antecedentes penales, expedida por autoridad competente.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2007)</small>
+
+X. Constancia de no antecedentes penales expedida por autoridad competente, en relación a la cual, únicamente constituirá un impedimento para otorgar el permiso solicitado, que el peticionario cuente con antecedentes penales de delitos graves, consignados como tal en la ley penal del Estado; y/o de los referentes a delitos contra la salud contemplados por el Código Penal Federal, y la Ley General de Salud.
 
 En lo que respecta a las fracciones IV, VII Y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la que tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Asimismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir su opinión o dictamen respectivo.
 
@@ -782,3 +784,11 @@ PRIMER SECRETARIO
 DIP. PEDRO PABLO CEPEDA SIERRA
 
 SEGUNDO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a su entrada en vigor.
