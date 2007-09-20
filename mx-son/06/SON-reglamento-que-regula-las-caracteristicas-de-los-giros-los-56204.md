@@ -4,7 +4,7 @@ identifier: "SON-reglamento-que-regula-las-caracteristicas-de-los-giros-los-5620
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-05"
-last_updated: "2007-07-05"
+last_updated: "2007-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO QUE REGULA LAS CARACTERISTICAS DE LOS GIROS, LOS TRAMITES PARA LA OBTENCION Y REVALIDACION DE LICENCIAS Y LAS FUNCIONES DEL COMITE DE EVALUACION DE TRAMITES Y LICENCIAS DE LA LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 5 de julio de 2007.
 
@@ -117,6 +117,10 @@ En los términos de la fracción III del artículo 20 de la Ley, en el área des
 
 Por tienda de autoservicio, se entenderá aquél establecimiento que reúna los requisitos señalados en la fracción VI, del artículo 10 de la Ley. Deberá contar además, con una superficie suficientemente amplia que permita a sus clientes el autoservicio de sus productos. Cuando dicha superficie sea inferior a 70 metros cuadrados de construcción para el autoservicio, el establecimiento será considerado como tienda de abarrotes para efectos de la expedición de la licencia correspondiente. Para determinar la proporción que deberá guardar este giro entre el inventario de mercancía diversa y de bebidas con contenido alcohólico a que se refiere el primer párrafo de la fracción VI, del artículo 10 de la Ley, se considerará únicamente el inventario en exhibición.
 
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+
+No podrá ubicarse ningún negocio con giro de tienda de autoservicio a menos de doscientos metros de otro similar ya establecido.
+
 Podrán enajenarse bebidas con contenido alcohólico brindando el servicio al cliente a través de ventanilla, solo en el caso de que no se afecte la infraestructura, características, finalidad y funcionamiento original de local destinado para este giro, debiendo contar en este supuesto con autorización por escrito de la Dirección, la cual deberá mantenerse en el establecimiento para efectos de verificación por parte de los inspectores del ramo. La contravención a lo anterior, será considerada infracción por operar con giro distinto al autorizado y el infractor se hará acreedor a las sanciones establecidas en la Ley.
 
 Los casos excepcionales a que se refiere este artículo y el correlativo de la Ley, serán resueltos por la Secretaría, por conducto de la Dirección.
@@ -204,3 +208,11 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Dado en la residencia del Poder Ejecutivo del Estado en la ciudad de Hermosillo, Sonora, el día primero del mes de junio de dos mil siete.
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARÁN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
