@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2007-08-07"
+last_updated: "2007-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2149,6 +2149,18 @@ V. Cuando el valor de lo dañado exceda de un mil quinientas veces el salario m�
 
 Para estimar la cuantía del daño se atenderá únicamente al valor intrínseco del objeto dañado, pero, si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuese posible fijar su valor, se aplicará una pena de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a doscientos días de salario.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 213 Bis.
+
+Se equipara al delito de daño en las cosas, cuando utilizando cualquier tipo de sustancia o medio, se realicen pintas, escrituras, dibujos, signos, códigos, tallones, mensajes, figuras o gráficos de todo tipo, en bienes muebles e inmuebles, sin consentimiento del dueño o de quien legalmente posea la cosa.
+
+Este delito se sancionará con una pena de 6 meses a 3 años de prisión y multa de 50 a 100 días de salario mínimo general vigente; así como la reparación del daño que consistirá en dejar en las mismas condiciones en que se encontraba la cosa, objeto material del hecho, en lo que se refiere a las mismas dimensiones o superficies.
+
+Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico o arquitectónico, o el daño se cause sobre bienes de cantera, piedra, madera o cualquier otro material de difícil o imposible reparación, se sancionará con pena de 6 meses a 6 años de prisión y multa de 75 a 150 días de salario mínimo general vigente, además de que se perseguirá de oficio.
+
+Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la ley de la materia.
+
 ###### ARTICULO 214.
 
 Al que cause daño a bienes de valor científico, histórico, artístico, cultural, de servicio público, bosques, selvas, pastos o cultivos de cualquier género, se le impondrá una pena de tres a diez años de prisión y sanción pecuniaria de sesenta a doscientos días de salario mínimo.
@@ -3238,3 +3250,9 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
