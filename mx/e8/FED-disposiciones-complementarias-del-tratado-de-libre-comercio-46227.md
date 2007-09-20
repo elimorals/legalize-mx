@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2007-06-30"
+last_updated: "2007-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,29 +19,29 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-DECRETO QUE MODIFICA EL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE A PARTIR DEL 19 DE NOVIEMBRE DE 2006 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA DE COLOMBIA
+ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 48 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
 
-Decreto publicado en la Tercera Sección del Diario Oficial de la Federación, el sábado 30 de junio de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de septiembre de 2007.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 31 y 34 de la Ley Orgánica de la Administración Pública Federal y 2o. y 14 de la Ley de Comercio Exterior, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (Tratado) fue aprobado por el Senado de la República el 13 de julio de 1994, promulgado el 31 de diciembre de 1994, para entrar en vigor al día siguiente y publicado en el Diario Oficial de la Federación el 9 de enero de 1995;
+Que el 1 de enero de 1995 entró en vigor el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado) en el cual las Partes establecieron, de conformidad con el artículo 6-20 del propio Tratado, un Comité de Integración Regional de Insumos (CIRI);
 
-Que el 23 de mayo de 2006 el Gobierno de Venezuela notificó al Gobierno de los Estados Unidos Mexicanos su decisión formal de denunciar el Tratado, por lo que de conformidad con el artículo 23-08 del mismo, dicha denuncia surtió efectos a partir del 19 de noviembre de ese mismo año según el Decreto por el que se determina que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, firmado en la ciudad de Cartagena de Indias, Colombia, el trece de junio de mil novecientos noventa y cuatro, queda sin efectos entre los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, a partir del diecinueve de noviembre de dos mil seis, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006;
+Que el 23 de mayo de 2006 el gobierno de Venezuela notificó al gobierno de México su decisión de denunciar el Tratado, por lo que de conformidad con el artículo 23-08 del mismo, dicha denuncia surtió efectos a partir del 19 de noviembre del presente año;
 
-Que el 17 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia;
+Que el 17 de noviembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto por el que se determina que el Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela, firmado en la ciudad de Cartagena de Indias, Colombia, el trece de junio de mil novecientos noventa y cuatro, queda sin efectos entre los Estados Unidos Mexicanos y la República Bolivariana de Venezuela, a partir del diecinueve de noviembre de dos mil seis;
 
-Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
+Que el artículo 6-24 del Tratado faculta a la Comisión Administradora del Tratado (la Comisión) para que emita una resolución y establezca una dispensa, en los montos y términos convenidos por el CIRI en su dictamen para la utilización de los materiales a que se refiere el párrafo 3 del artículo 6-21;
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
+Que el 6 de agosto de 2007 el CIRI presentó un dictamen a la Comisión en el que determinó otorgar una dispensa para la utilización de ciertos materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido a fin de que estos bienes puedan recibir el trato arancelario preferencial previsto en el Tratado, y
 
-Que resulta necesario ajustar el Decreto mencionado en el tercer considerando para reflejar dichas modificaciones y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+Que la Comisión de conformidad con el artículo 6-24 del Tratado, y tomando en consideración el dictamen presentado por el CIRI, adoptó el 9 de agosto de 2007 la Decisión No. 48 por la que acordó otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido, y que estos bienes puedan recibir el trato arancelario preferencial del Tratado, he tenido a bien expedir el siguiente
 
-DECRETO
+ACUERDO POR EL QUE SE DA A CONOCER LA DECISION No. 48 DE LA COMISION ADMINISTRADORA DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA, POR LA QUE SE OTORGA UNA DISPENSA TEMPORAL PARA LA UTILIZACION DE MATERIALES DE FUERA DE LA ZONA DE LIBRE COMERCIO PARA QUE DETERMINADOS BIENES TEXTILES Y DEL VESTIDO RECIBAN EL TRATO ARANCELARIO PREFERENCIAL DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS, LA REPUBLICA DE COLOMBIA Y LA REPUBLICA DE VENEZUELA
 
 ###### ARTICULO 1o.
 
@@ -209,35 +209,35 @@ La importación de mercancías provenientes de Venezuela, comprendidas en los ca
 
 ###### ARTICULO UNICO.
 
-Se da a conocer la dispensa temporal adoptada el 24 de noviembre de 2005 por los gobiernos de los Estados Unidos Mexicanos y la República de Colombia:
+Se da a conocer la Decisión No. 48 de la Comisión Administradora del Tratado, adoptada el 9 de agosto de 2007:
 
-“Dispensa temporal para la utilización de materiales de fuera de la zona de libre comercio para que determinados bienes textiles y del vestido reciban el trato arancelario preferencial del Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela.
+“DECISION No. 48
 
-Los gobiernos de los Estados Unidos Mexicanos y de la República de Colombia de conformidad con lo establecido en los artículos 6-20, 6-21, 6-22, 6-23 y 6-24 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República Bolivariana de Venezuela (Tratado), tomando en consideración el dictamen emitido el 18 de octubre de 2005 por el Comité de Integración Regional de Insumos (CIRI), que determina la posibilidad de otorgar una dispensa para la utilización de materiales producidos u obtenidos fuera de la zona de libre comercio en la manufactura de ciertos bienes textiles y del vestido y que estos bienes puedan recibir el trato arancelario preferencial,
+Dispensa temporal para la utilización de materiales de fuera de la zona de libre comercio para que determinados bienes textiles y del vestido reciban el trato arancelario preferencial del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela.
 
-Acuerdan:
+La Comisión Administradora del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela (el Tratado), en cumplimiento con lo establecido en los Artículos 6-24 y 20-01 del mismo Tratado; tomando en consideración el dictamen presentado por el Comité de Integración Regional de Insumos (CIRI), de fecha 6 de agosto de 2007, conforme al Artículo 6-23, mediante el cual se determina la incapacidad del productor de disponer de los materiales indicados en el párrafo 1 del Artículo 6-21, así como los montos y términos de la dispensa requerida para que un bien pueda recibir el trato arancelario preferencial,
 
-1. Otorgar por el periodo del 1 de enero al 31 de diciembre de 2006, una dispensa temporal mediante la que los Estados Unidos Mexicanos aplicarán el arancel correspondiente a bienes originarios previsto en su calendario del anexo 1 al artículo 3-04 del Tratado a los siguientes bienes textiles y del vestido:
+DECIDE:
 
-a) Los capítulos 56, 58, 60, 61, 62 y 63 del Sistema Armonizado elaborados totalmente en Colombia, a partir de los materiales producidos u obtenidos fuera de la zona de libre comercio cuya descripción y clasificación a nivel de fracción arancelaria, se mencionan en las columnas A y B del cuadro de este Acuerdo;
+1. Otorgar por el periodo del 20 de septiembre al 31 de diciembre de 2007, una dispensa temporal mediante la cual los Estados Unidos Mexicanos aplicarán el arancel correspondiente a bienes originarios previsto en su calendario del anexo 1 al artículo 3-04 del Tratado a los siguientes bienes:
+
+a) Los bienes textiles y del vestido de los capítulos 61 y 62 del Sistema Armonizado elaborados totalmente en la República de Colombia, a partir de los materiales producidos u obtenidos fuera de la zona de libre comercio cuya descripción y clasificación a nivel de fracción arancelaria, se mencionan en las columnas A y B del cuadro de esta Decisión;
 
 y que cumplan con las demás condiciones aplicables para el trato arancelario preferencial de conformidad con el Tratado.
 
-2. Los bienes descritos en el punto 1 de este Acuerdo quedan sujetos a los mecanismos de verificación y certificación del capítulo VII del Tratado.
+2. Los bienes descritos en el punto 1 de esta Decisión quedan sujetos a los mecanismos de verificación y certificación del capítulo VII del Tratado.
 
-3. Colombia podrá utilizar cada uno de los materiales producidos u obtenidos fuera de la zona de libre comercio en la cantidad máxima señalada en la columna C del cuadro de este Acuerdo.
-
-4. La autoridad competente de Colombia deberá asegurar que el certificado de origen, llenado y firmado por el exportador, indique en el campo de observaciones la siguiente frase: “el bien cumple con lo establecido en el Acuerdo entre los Estados Unidos Mexicanos y la República de Colombia del 24 de noviembre de 2005 y utilizó (monto(s)) kgs. De la dispensa otorgada a (nombre del (de los) material(es) utilizado(s)), clasificado(s) en la fracción (fracciones) arancelaria(s) _______.”
-
-5. Para los productos que utilicen la dispensa establecida en este Acuerdo, el certificado de origen deberá amparar sólo productos clasificados en una misma subpartida (a nivel de 6 dígitos). Por ello, si un exportador envía productos clasificados en diferentes subpartidas, éste deberá llenar un certificado para cada una de ellas.
-
-CUADRO
+3. En la República de Colombia se podrán utilizar los materiales que se describen en el cuadro de esta Decisión, producidos u obtenidos fuera de la zona de libre comercio, en la cantidad máxima señalada en la columna C del cuadro de esta Decisión.
 
 (VEASE ARCHIVO ANEXO)
 
-6. Colombia notificará a los Estados Unidos Mexicanos un informe de utilización de la dispensa otorgada al amparo de este Acuerdo, conforme a los términos establecidos en el dictamen presentado por el CIRI a la Comisión.
+4. La autoridad competente de la República de Colombia deberá asegurar que el certificado de origen, llenado y firmado por el exportador, indique en el campo de observaciones la siguiente frase: "el bien cumple con lo establecido en la Decisión No. 48 de la Comisión Administradora del Tratado y utilizó (monto(s)) kgs. de la dispensa otorgada a (nombre del (de los) material(es) utilizado(s)), clasificado(s) en la fracción (fracciones) arancelaria(s) _______."
 
-7. Cualquier solicitud de prórroga o aumento a los montos determinados para alguno de los materiales establecidos en el cuadro de este Acuerdo, se efectuará conforme a lo dispuesto en la sección de “Vigencia” del dictamen presentado por el CIRI a la Comisión. En su caso, cualquier prórroga o aumento se dará a conocer a través de las gacetas oficiales correspondientes de los Estados Unidos Mexicanos y la República de Colombia."
+5. Para los productos que se beneficien de la dispensa establecida en esta Decisión, el certificado de origen deberá amparar sólo productos clasificados en una misma subpartida (a nivel de 6 dígitos). Por ello, si un exportador envía productos clasificados en diferentes subpartidas, éste deberá llenar un certificado para cada subpartida.
+
+6. Los Estados Unidos Mexicanos podrán solicitar a la República de Colombia, en cualquier momento, información que permita comprobar la utilización de la dispensa, así como la correcta aplicación de lo dispuesto en el dictamen presentado por el CIRI a la Comisión Administradora del Tratado, conforme a los términos establecidos en el dictamen.
+
+7. Cualquier solicitud de prórroga o aumento a los montos determinados para alguno de los materiales establecidos en el cuadro de esta Decisión, se efectuará conforme a lo dispuesto en el Tratado y el Reglamento de Operación del CIRI, adoptado por la Comisión Administradora del Tratado mediante la Decisión No. 46 de fecha 28 de noviembre de 2006. En su caso, cualquier prórroga o aumento se dará a conocer a través de las gacetas oficiales correspondientes de los Estados Unidos Mexicanos y la República de Colombia”.
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -267,6 +267,6 @@ VIII.- "Trato arancelario preferencial" y "tasa arancelaria preferencial", el ar
 
 ## TRANSITORIO
 
-ÚNICO.- El presente Decreto entrará en vigor a partir del 1 de julio de 2007.
+UNICO.- El presente Acuerdo estará en vigor del 20 de septiembre al 31 de diciembre de 2007.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 3 de septiembre de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
