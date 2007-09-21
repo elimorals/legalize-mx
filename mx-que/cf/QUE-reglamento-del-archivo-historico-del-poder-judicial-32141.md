@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-archivo-historico-del-poder-judicial-32141"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2003-06-18"
+last_updated: "2007-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "QUE"
 
 REGLAMENTO DEL ARCHIVO HISTORICO DEL PODER JUDICIAL DE QUERETARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO HISTORICO DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA, PUBLICADO EN EL P.O. EL 21 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 18 de junio de 2003.
 
@@ -235,3 +237,13 @@ LIC. NOEMÍ PALACIOS CAMACHO
 SECRETARIA DE ACUERDOS
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Este reglamento entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento del Archivo Histórico del Poder Judicial, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 18 de junio de 2003.
