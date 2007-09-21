@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-uso-de-vehiculos-oficiales-del-gobierno-4157
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2004-10-08"
+last_updated: "2007-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL USO DE VEHICULOS OFICIALES DEL GOBIERNO MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -61,9 +61,11 @@ El uso de los vehículos sólo podrá hacerse por personal que labora en la Admi
 
 El Presidente Municipal tendrá como atribución el nombrar al Jefe del Departamento de Bienes Muebles e Inmuebles y las demás que determinen éste y otros reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 7.
 
-El Sindico Municipal tendrá la facultad de imponer las correcciones disciplinarias y sanciones que se establecen en el presente ordenamiento; además de ejercitar cualquier acción civil, denuncia o querella, que tenga que ejecutar en protección y defensa de lo señalado por este ordenamiento.
+El Síndico Municipal tendrá la facultad de ejercitar cualquier acción civil o penal, que tenga que ejecutar en protección y defensa de lo señalado por este ordenamiento.
 
 ###### Artículo 8.
 
@@ -101,7 +103,9 @@ Los vehículos oficiales deberán ser utilizados exclusivamente para el servicio
 
 ###### Artículo 16.
 
-Los vehículos oficiales serán autorizados únicamente para el servicio oficial.
+(DEROGADO, P.O. 21 DE SEPTIEMBRE DE 2007)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 17.
 
@@ -109,7 +113,7 @@ A través de la Oficialía Mayor todos los vehículos oficiales se deberán rotu
 
 ###### Artículo 18.
 
-En cada vehículo se llevará una bitácora, en la cual se registrarán todos los días, cualquier eventualidad de importancia, como las siguientes:
+En cada vehículo se llevará una bitácora, misma que controlará y registrará el resguardante o quien sea designado para ello por el Titular de la Dependencia o Entidad, en la cual se anotará diariamente, cualquier eventualidad de importancia, como las siguientes:
 
 I.- Conductor;
 
@@ -133,13 +137,17 @@ X.- Carrocería; y
 
 XI.- Demás detalles que pongan en riesgo la integridad del vehículo y su conductor.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 19.
 
-Al recibir la unidad, el solicitante es el responsable de la misma, así como también, se obliga a registrar los datos en la bitácora del vehículo.
+Al recibir la unidad, el solicitante o resguardante es el responsable de la misma, así como también, se obliga a registrar los datos en la bitácora del vehículo, en los términos del artículo 18 del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 20.
 
-El Director o Jefe de Departamento según sea el caso, deberá firmar una ficha de resguardo de los vehículos a su cargo y será corresponsable del buen o mal uso que se haga de la unidad, debiendo reportar oportunamente las violaciones al presente reglamento.
+El Director o Jefe de Departamento según sea el caso, deberá firmar una ficha de resguardo de los vehículos a su cargo y será responsable del buen o mal uso que se haga de la unidad, debiendo reportar oportunamente las violaciones al presente reglamento.
 
 ###### Artículo 21.
 
@@ -157,9 +165,11 @@ El trabajador deberá abstenerse de circular con el vehículo fuera de los lími
 
 Los vehículos asignados al Presidente Municipal y a los Regidores estarán bajo su custodia las 24 horas del día.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 25.
 
-El conductor es responsable del deterioro que sufra el vehículo durante el tiempo que éste permanezca a su cargo o a su servicio. Cualquier perdida total, parcial o robo, deberá ser notificada en forma inmediata al Síndico Municipal para que proceda conforme a derecho.
+Cuando el conductor del vehículo oficial resulte responsable de un accidente de tránsito, según el parte del accidente de la Dirección de Tránsito y Transporte y el vehículo oficial presente pérdida total o parcial, el Director o Jefe de Área correspondiente deberá notificar por escrito en forma inmediata al Síndico Municipal, para que éste determine la responsabilidad del conductor de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de que a su vez se inicie el procedimientos (sic) civil o penal correspondiente.
 
 ###### Artículo 26.
 
@@ -215,31 +225,69 @@ Es responsabilidad del Jefe del Taller observar los servicios de garantía en ve
 
 ### CAPÍTULO VI. De las Sanciones
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+
 ### CAPÍTULO IV. Del Uso de Vehículos Oficiales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 35.
 
-Las violaciones al presente reglamento ameritan amonestación o sanción para quien resulte responsable, independientemente de la reparación del daño que se ocasione al vehículo o a terceros.
+Las violaciones al presente reglamento, serán sancionadas por el Síndico Procurador de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
-El uso inadecuado del vehículo será sancionado por el superior inmediato de su área mediante amonestación por escrito con copia para su expediente. Tratándose de reincidencia será de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, otorgándose al implicado el derecho de previa audiencia.
+El uso inadecuado del vehículo y el uso con descuido y negligencia por parte del conductor será sancionado por el supervisor inmediato de su área mediante amonestación por escrito con copia para su expediente. Tratándose de reincidencia será sancionado por el Síndico Municipal de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+Para efecto de este artículo se entiende por:
+
+I.- Uso inadecuado:
+
+a) uso de vehículo oficial para fines distintos al debido;
+
+b) Uso de vehículo oficial fuera de los límites del Municipio y/o abandonar el territorio nacional, sin autorización expresa;
+
+c) Uso de vehículo en días y horas no autorizadas;
+
+d) Uso de vehículo oficial sin contar con la licencia correspondiente, expedida por autoridad competente;
+
+e) Uso de vehículo oficial por personas no autorizadas para hacerlo, y
+
+f) Uso de vehículo oficial cuando no se encuentre laborando, ya sea por incapacidad médica, periodo vacacional o suspensión laboral.
+
+II.- Uso con descuido o negligencia:
+
+a) Resguardar físicamente el vehículo en los lugares prohibidos, inadecuados o riesgosos;
+
+b) Uso de vehículo oficial bajo el influjo de alcohol y/o enervantes y/o estupefacientes y/o sustancias psicotrópicas;
+
+c) Conducir el vehículo oficial en forma irresponsable sin respetar el Reglamento de Tránsito Municipal;
 
 ###### Artículo 37.
 
 Los daños causados a vehículos oficiales, así como los causados a terceros, ocasionados por el mal uso de las unidades, entendiéndose como tal el uso fuera de horario de labores sin aviso al superior inmediato, manejar en estado de ebriedad o bajo el influjo de alguna droga o sustancia psicotrópica no prescrita por médico autorizado, serán pagados en su totalidad por el conductor responsable, asumiendo la responsabilidad civil y penal que de ello se derive.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-Cuando el daño a vehículo oficial o a terceros se derive de un accidente provocado por el chofer, el responsable quedará obligado al pago en la forma y porcentaje que el Síndico Municipal determine, previo informe de peritos o acuerdo entre las partes.
+Cuando el daño a vehículo oficial se derive de un accidente provocado por el chofer del mismo, éste quedará obligado al pago y porcentaje que el Síndico Municipal determine, previo presupuesto de daños o acuerdo entre las partes. Cuando el conductor de un vehículo oficial cause daños a terceros, el afectado deberá acudir a la instancia correspondiente a efecto de reclamar lo procedente.
+
+Los daños ocasionados por un tercero a un vehículo oficial, cuando así sea determinado por el parte de accidente de la Secretaría de Seguridad Pública Municipal, el Director o Coordinador Administrativo de la dependencia correspondiente, deberá remitir oficio al Síndico Municipal, a efecto de que éste a su vez, presente la querella procedente ante la Agencia del Ministerio Público que corresponda.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 39.
 
-Cuando el accidente sea ocasionado por causas ajenas al chofer de la unidad según informe de los peritos, el Gobierno Municipal pagará los daños que se ocasionen, previo acuerdo de sesión colegiada del H. Ayuntamiento.
+Cuando el accidente sea ocasionado por causas ajenas al chofer de la unidad según el parte de accidente de la Dirección de Tránsito y Transporte Municipal, el Gobierno Municipal a través de la aseguradora correspondiente cubrirá inmediatamente los daños ocasionados al vehículo oficial y en el caso de vehículos afectados previo requerimiento del ministerio Público del Fuero Común o en su caso del Juzgado Penal. Tratándose de vehículos que no estén asegurados el pago se hará por el Gobierno Municipal previo acuerdo de Cabildo.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 40.
 
-En caso de accidente, se tiene la obligación de llamar al ajustador a cualquier hora. Para realizar convenios es necesario que se observe lo señalado en el artículo 11 de este reglamento, entendiéndose con esto que el conductor no está autorizado para realizar convenios.
+El Oficial Mayor a través del Departamento correspondiente, será responsable de que los vehículos que sean asegurables, cuenten con las pólizas de seguro correspondientes, en los términos y con las coberturas que se determinen por la Secretaría de Administración y Finanzas.
 
 ###### Artículo 41.
 
@@ -266,3 +314,9 @@ PRESIDENTE MUNICIPAL
 LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2007.
+
+UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
