@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-reconocimiento-denominado-medalla-chihuahua-428
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2005-01-01"
+last_updated: "2007-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de enero de 2005.
 
@@ -61,9 +61,11 @@ B).- Educación media superior.
 
 C).- Educación superior e investigación en el ámbito educativo.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 3.
 
-El premio consistirá en la entrega de una medalla, la cual contendrá la leyenda "Medalla Chihuahua al Mérito Educativo" y el escudo del Estado de Chihuahua así como una cantidad en efectivo, la cual se determinará anualmente por acuerdo del Titular del Poder Ejecutivo y del H. Congreso del Estado, o más tardar en el mes de diciembre.
+El premio consistirá en la entrega de una medalla, la cual contendrá la leyenda "Medalla Chihuahua al Mérito Educativo" y el escudo del Estado de Chihuahua, así como una cantidad en efectivo, la cual se determinará anualmente por acuerdo del Titular del Poder Ejecutivo y del H. Congreso del Estado, o más tardar en el mes de diciembre, la misma que deberá ser incrementada anualmente, por lo menos en la cuantía de incremento del índice inflacionario anual que registre el Banco de México.
 
 ###### ARTÍCULO 4.
 
@@ -148,3 +150,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
