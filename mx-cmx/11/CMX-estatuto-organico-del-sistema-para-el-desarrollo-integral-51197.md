@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-para-el-desarrollo-integral-51197
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-09"
-last_updated: "2006-08-09"
+last_updated: "2007-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51197&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-07-26"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 24 DE SEPTIEMBRE DE 2007, EL PRESENTE ESTATUTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 9 de agosto de 2006.
 
@@ -661,3 +663,11 @@ DIRECTORA GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL DIST
 (Firma)
 
 LIC. MARIA LUZ DE LA SOLEDAD LOZOYA LOZOYA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 24 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Se deroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 9 de agosto de 2006.
+
+SEGUNDO. Las reformas del presente Estatuto entrará (sic) en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
