@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-desarrollo-infantil-del-37164"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-17"
-last_updated: "2004-02-17"
+last_updated: "2007-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37164&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-15"
 
 REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 17 de febrero de 2004.
 
@@ -186,9 +186,11 @@ Su seguimiento y evaluación estará a cargo de la Oficialía Mayor.
 
 ### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN DE LOS INFANTES
 
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO PRIMER PARRAFO], G.O. 25 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-Toda solicitud de inscripción al CENDI deberá hacerse por escrito, detallando los datos generales del infante y del trabajador, así como los motivos que originan su petición, la cual se acompañará de:
+Las solicitudes para la prestación del servicio serán atendidas con base al área laboral del trabajador solicitante.
 
 a) Constancia de servicios y credencial vigente expedidas por la Oficialía Mayor o la Coordinación Administrativa según corresponda, así como copia fotostáticas (sic) del último recibo de pago;
 
@@ -216,9 +218,13 @@ g) Presentar la Cartilla Nacional de Vacunación del infante, en la que se consi
 
 h) Firmar de conformidad el presente Reglamento;
 
-i) Entregar copia del comprobante de domicilio y de teléfono de los padres; y
+i) Entregar copia del comprobante de domicilio y de teléfono de los padres; y (sic)
 
-j) Entregar el material de uso personal requerido para el infante durante su estancia en el CENDI.
+j) Entregar el material de uso personal requerido para el infante durante su estancia en el CENDI;
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2007)</small>
+
+k) Para el caso de cambio de ubicación del trabajador, el menor será inscrito o reinscrito al CENDI que corresponda al domicilio laboral del trabajador y de acuerdo a la disponibilidad de lugares en el mismo.
 
 En tanto los padres no cumplan con la totalidad de los requisitos documentales exigidos en el presente artículo, no se tendrá por inscrito al infante.
 
@@ -267,6 +273,10 @@ VI.- Junto con el infante, el trabajador (a) entregará al personal responsable 
 VII.- Diariamente al término del horario de servicio, serán entregados exclusivamente al trabajador (a) o a cualquiera de las personas a las que éste (a) haya autorizado en términos del artículo 21, inciso e) del presente ordenamiento, entre las 15:00 y 15:30 horas de lunes a jueves y los viernes de 14:00 a 14:30 horas. Quien recoja al infante deberán presentarse puntualmente y exhibir identificación oficial con fotografía;
 
 En caso de que el (la) trabajador (a) desee suprimir la autorización de alguna de las personas autorizadas para recoger a su hijo, deberá informarlo por escrito a la Titular, ya que de lo contrario, se procederá conforme a lo indicado en esta fracción sin responsabilidad para el CENDI.
+
+> <small>(ADICIONADO, G.O. 25 DE SEPTIEMBRE DE 2007)</small>
+
+Para el caso de que el menor asista a un CENDI que no corresponda al domicilio laboral del trabajador, no se concederá bajo ninguna circunstancia y sin excepción alguna tolerancia mayor a la estipulada.
 
 ###### Artículo 27.
 
@@ -467,3 +477,9 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 25 DE SEPTIEMBRE DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL D.F.
