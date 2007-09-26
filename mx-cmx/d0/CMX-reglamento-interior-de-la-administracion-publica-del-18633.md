@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-09-07"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -6374,29 +6374,29 @@ Las atribuciones relativas a la promoción y difusión de los marcos de referenc
 
 Dirección General de Contralorías Internas:
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Implantación y Seguimiento de Control Interno que estará a cargo de las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
+I. Integrar y presentar, para la autorización del titular de la Contraloría General, el Programa de Evaluación y Seguimiento de Control Interno de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, el cual estará a cargo de las Contralorías Internas;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 II. Vigilar y coordinar directamente, o a través de las Unidades Administrativas de Apoyo-Técnico Operativo correspondientes, a las Contralorías Internas y demás áreas que las integran, en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-III. Emitir y difundir, de acuerdo con la naturaleza de sus funciones, las normas, políticas y lineamientos para implantar los controles internos en los procedimientos de las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y, vigilar su estricto cumplimiento a través de las Contralorías Internas;
+III. Emitir y difundir, de acuerdo con la naturaleza de sus funciones, las normas, políticas y lineamientos para la evaluación y seguimiento de los controles internos de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y vigilar su estricto cumplimiento a través de las contralorías internas;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-IV. Identificar y proponer, para su autorización al titular de la Contraloría General, los procedimientos de control interno prioritarios que deberán implantarse en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y, supervisar y evaluar su realización a través de las Contralorías Internas;
+IV. Identificar y proponer para su autorización, al Titular de la Contraloría General, los procedimientos de control interno a evaluar y dar seguimiento a su cumplimiento en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal a través de las Contralorías Internas;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-V. Instrumentar, previa autorización del titular de la Contraloría General, la implantación de controles internos en procedimientos adicionales a los programados por las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, a fin de promover la eficiencia en las operaciones y verificar el cumplimiento de objetivos y normas vigentes;
+V. Instrumentar, previa autorización del Titular de la Contraloría General, la evaluación y seguimiento de procedimientos de control interno adicionales a los programados por las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, a fin de promover la eficiencia en las operaciones y verificar el cumplimiento de objetivos y normas vigentes;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Autorizar a las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; previo análisis, la modificación a su Programa de Implantación y Seguimiento de Control Interno;
+VI. Autorizar a las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, previo análisis, la modificación a su Programa de Evaluación y Seguimiento de Control Interno;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -6420,9 +6420,9 @@ XI. Requerir de acuerdo con la naturaleza de sus funciones, información y docum
 
 XII. Verificar la aplicación de los indicadores de gestión por parte de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, que establezca la Dirección General de Evaluación y Comisariado, a efecto de evaluar el desempeño y resultados de las mismas, a través de las Contralorías Internas;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XIII. Establecer las normas, políticas y lineamientos, así como el Sistema de Información y Evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, en cuanto a la implantación de controles internos y situación que guarde el seguimiento de los mismos;
+XIII. Establecer las normas, políticas y lineamientos, así como el Sistema de Información y Evaluación que permita conocer y controlar con oportunidad el desempeño de las Contralorías Internas en cuanto a la situación que guarde el seguimiento y evaluación de control interno en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -6432,9 +6432,9 @@ XIV. Expedir previo cotejo copias certificadas de los documentos que obren en su
 
 XV. Verificar los informes periódicos derivados de la aplicación del Programa Operativo Anual de la Dirección General de Contralorías Internas, y vigilar el estricto cumplimiento de las metas programadas en la actividad institucional autorizada;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XVI. Recibir, integrar y dictaminar por sí o por conducto de sus Unidades Administrativas de Apoyo Técnico-Operativo, los reportes de seguimiento a las observaciones y recomendaciones derivadas de la implantación de los Controles Internos de acuerdo con los plazos establecidos en los lineamientos respectivos;
+XVI. Recibir, integrar y dictaminar por sí o por conducto de sus Unidades Administrativas de Apoyo Técnico-Operativo, los reportes de seguimiento a las deficiencias detectadas y recomendaciones derivadas de la evaluación y seguimiento de los Controles Internos de acuerdo con los plazos establecidos en los lineamientos respectivos;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -6448,13 +6448,13 @@ XVIII. Supervisar, a través de las Contralorías Internas, la adecuada substanc
 
 XIX. Instruir a las contralorías internas la realización de los estudios e investigaciones que permitan proponer las mejoras regulatorias y administrativas para hacer más eficiente la operación y prevención de cualquier posible desviación en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XX. Dar aviso a la Dirección General de Auditoría, en los casos de detección de desviaciones recurrentes y relevantes a los controles internos implantados, con el propósito de que dicha Dirección General proceda de acuerdo con sus atribuciones;
+XX. Dar aviso a la Dirección General de Auditoría, en los casos de detección de desviaciones recurrentes y relevantes en los controles internos, con el propósito de que dicha Dirección General proceda de acuerdo con sus atribuciones;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XXI. Representar a la Contraloría General en los Comités de Control y Evaluación en los términos que determinen los lineamientos aplicables. Dicha representación podrá delegarse en los titulares de las Contralorías Internas, las cuales tendrán a su cargo la vigilancia y cumplimiento de su ejecución;
+XXI. Representar a la Contraloría General en los Comités de Control y Auditoría. Dicha representación podrá delegarse en los Titulares de las Contralorías Internas, las cuales tendrán a su cargo la vigilancia y cumplimiento de su ejecución en los términos que determinen los lineamientos aplicables;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -6520,9 +6520,13 @@ III. Proponer al titular de la Dirección General de Contralorías Internas para
 
 IV. Supervisar y vigilar el cumplimiento de las normas, políticas, procedimientos y programas que regulan el funcionamiento de las contralorías internas que coordina, a través de los instrumentos de control y evaluación necesarios, e informar sus resultados a la Dirección General de Contralorías Internas, y en su caso, tomar las medidas que estime convenientes para mejorar la eficiencia de las funciones asignadas, pudiendo asumir el ejercicio directo de las mismas;
 
-V. Asesorar a las contralorías internas que coordina, en la elaboración e integración de su Programa de Implantación y Seguimiento de Control Interno, de su Programa Operativo Anual, así como en cualquiera de las materias relacionadas a las atribuciones de aquellas;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Revisar y analizar los informes trimestrales que emiten y envían las contralorías internas que coordina, como resultado de las Implantaciones de Control Interno que se realizan en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como los reportes de deficiencias que generan; el seguimiento de compromisos para atender deficiencias detectadas y; el seguimiento de observaciones de auditoría interna en proceso de atención, solicitando las correcciones que se deriven de la revisión mencionada;
+V. Asesorar a las Contralorías Internas que coordina, en la elaboración e integración de su Programa de Evaluación y Seguimiento de Control Interno, de su Programa Operativo Anual, así como en cualquiera de las materias relacionadas a las atribuciones de aquellas;
+
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Revisar y analizar los informes trimestrales que emiten y envían las Contralorías Internas que coordina, como resultado de la Evaluación y Seguimiento que se de al Control Interno de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como los reportes de deficiencias que generan y el seguimiento de compromisos asumidos por las áreas antes mencionadas para atender las deficiencias detectadas;
 
 VII. Supervisar el seguimiento de las recomendaciones determinadas por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en materia de cuenta pública del Gobierno del Distrito Federal; así como conciliar esta información con las Contralorías Internas que les corresponda;
 
@@ -6530,15 +6534,19 @@ VIII. Verificar e instruir que las contralorías internas que coordina, instrume
 
 IX. Vigilar que las contralorías internas que coordina verifiquen en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, el cumplimiento a las disposiciones emitidas para el manejo de los recursos, así como también con la fiscalización oportuna de los recursos federales;
 
-X. Requerir la información y documentación a las contralorías internas que le corresponda, para verificar el seguimiento de las recomendaciones y compromisos resultantes del cumplimiento al Programa de Implantación y Seguimiento de Control Interno, así como la situación de éstos al término de un trimestre hasta su atención;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+X. Requerir la información y documentación a las contralorías internas que le corresponda, a fin de verificar la atención a las recomendaciones formuladas por éstas y los compromisos asumidos por las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, como resultado de las deficiencias detectadas en la ejecución del Programa de Evaluación y Seguimiento de Control Interno, así como la situación de los mencionados compromisos al término de cada trimestre hasta su atención;
 
 XI. Recibir, analizar y dictaminar la información periódica que les remitan las contralorías internas que les correspondan, para su archivo o remisión al área que proceda, así como su incorporación al Sistema de Información Periódica;
 
-XII. Verificar que el registro de los controles internos programados y realizados, recomendaciones y compromisos generados, así como los seguimientos de éstos se mantenga actualizado en el Sistema de Información Periódica;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XII. Verificar que la información generada con motivo de la Evaluación y Seguimiento de Control interno programado y realizado, recomendaciones y compromisos derivados de las deficiencias detectadas, se mantenga actualizado en el Sistema de Información Periódica;
 
 XIII. Enviar a las Contralorías Internas o a la Dirección General de Legalidad y Responsabilidades, los escritos, quejas, denuncias y/o aclaraciones de particulares o servidores públicos, que se reciban en forma directa en cualquiera de las Unidades Administrativas de la Contraloría General, para su atención de acuerdo a sus funciones o desahogo correspondiente;
 
-XIV. Informar periódicamente a la Dirección General de Contralorías Internas, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones.
+XIV. Informar periódicamente a la Dirección General de Contralorías Internas, sobre los asuntos de los órganos de control interno que les correspondan, relacionados con los resultados de sus funciones, para una adecuada toma de decisiones;
 
 XV. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como a las contralorías internas, cuando lo estime conveniente;
 
@@ -6566,15 +6574,17 @@ XXIV. Las demás que expresamente le atribuya el presente Reglamento y las demá
 
 Corresponde a las Contralorías Internas en las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, adscritas a la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-I. Proponer, para la aprobación del Titular de la Dirección General de Contralorías Internas, el Programa de Implantación y seguimiento de Control Interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
+I. Proponer, para la aprobación del Titular de la Dirección General de Contralorías Internas, el Programa de Evaluación y Seguimiento de Control Interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
 
-II. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2006)</small>
+II. Evaluar y dar Seguimiento al control interno implantado por las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, así como verificar que los procesos, procedimientos, actividades, prestación de servicios públicos, cumplimiento de programas y metas institucionales que sean objeto del control interno, se ajusten a las disposiciones jurídicas y/o administrativas aplicables;
 
-III. Formular recomendaciones para la solución de las deficiencias detectadas mediante la implantación o seguimiento de sistemas de control interno;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+III. Formular recomendaciones y dar seguimiento a los compromisos asumidos para la solución de las deficiencias detectadas en la evaluación y seguimiento de los sistemas de control interno de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal; así como informar el avance de atención de dichas recomendaciones y compromisos a la Dirección de Contralorías Internas correspondiente;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -11341,3 +11351,7 @@ G.O. 7 DE SEPTIEMBRE DE 2007.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
