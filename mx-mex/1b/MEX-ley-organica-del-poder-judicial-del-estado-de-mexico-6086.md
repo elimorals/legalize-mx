@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2007-08-29"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -495,9 +495,7 @@ IV. De los demás asuntos que les confieran esta ley, el reglamento interior del
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2003)</small>
 
-###### Artículo 44 Bis.
-
-Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, conocer y resolver:
+Artículo 44 bis.- Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, conocer y resolver:
 
 > <small>(F. DE E., P.O. 27 DE MAYO DE 2003)</small>
 
@@ -1293,9 +1291,7 @@ VI. No cumplir con los términos señalados en los ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-###### ARTICULO 116 Bis.
-
-Son faltas administrativas de los mediadores y conciliadores, las siguientes:
+ARTICULO 116 bis.- Son faltas administrativas de los mediadores y conciliadores, las siguientes:
 
 I.- Revelar los informes, datos, comentarios, opiniones, conversaciones y acuerdos de las partes de que tengan conocimiento con motivo del trámite de mediación o conciliación en el que intervengan;
 
@@ -1399,7 +1395,7 @@ Para la aplicación de las sanciones, se tomará en cuenta la gravedad de la fal
 
 ### CAPITULO TERCERO. De la Jurisprudencia del Tribunal
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 124.
 
@@ -1455,7 +1451,7 @@ El reglamento respectivo fijará las atribuciones de los empleados del archivo j
 
 El Boletín Judicial es el órgano encargado de publicar las listas de los acuerdos y de las resoluciones de las salas y de los juzgados que determine el pleno del tribunal, con efectos de notificación en términos del Código de Procedimientos Civiles; la jurisprudencia del tribunal y demás disposiciones de interés general.
 
-El jefe de la oficina del Boletín Judicial será el responsable de su publicación y distribución oportuna; para tal efecto, contará con el personal necesario. El incumplimiento de esta obligación será sancionada por el Consejo de la Judicatura.
+El jefe de la oficina del Boletín Judicial será el responsable de su publicación y distribución oportuna; para tal efecto, contará con el personal necesario. El incumplimiento de esta obligación será sancionada (sic) por el Consejo de la Judicatura.
 
 Para desempeñar el cargo de jefe de la oficina del Boletín Judicial se deberá cumplir con los mismos requisitos de un secretario de juzgado de primera instancia.
 
@@ -1495,13 +1491,11 @@ VI. Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
 La jurisprudencia que establezca el Tribunal Superior de Justicia funcionando en Pleno, será obligatoria para las salas regionales y los juzgados. La que establezca funcionando en salas, será obligatoria para los juzgados.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN G.G. DE 10 DE SEPTIEMBRE DE 2004, PÁGINA 2.]</small>
+
+> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2004)</small>
 
 Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos, con excepción de las resoluciones emitidas por la Sala Constitucional.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
-
-También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá (sic) pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1671,9 +1665,7 @@ La Escuela Judicial contará con un Director General designado por el Consejo de
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-###### Artículo 154 Bis.
-
-La Escuela Judicial podrá contar con las Unidades Académicas y Administrativas que se establezcan en su Reglamento Interior.
+Artículo 154 bis.- La Escuela Judicial podrá contar con las Unidades Académicas y Administrativas que se establezcan en su Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2211,7 +2203,9 @@ Artículo 201 bis.- El beneficio de libertad condicionada al Sistema de Localiza
 
 Este beneficio no se concederá en los casos de internos a disposición del Ejecutivo del Estado, que hayan sido sentenciados por los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, robo que se califique como grave.
 
-Para la concesión de este beneficio el Juez se apoyará en el dictamen que emitan los Consejos Técnicos e Interno Interdisciplinarios correspondientes.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+Para la concesión de este beneficio el Juez fijará las condiciones para su otorgamiento y se apoyará en el dictamen que emitan los Consejos Técnicos e Interno Interdisciplinarios correspondientes.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -2488,3 +2482,13 @@ G.G. 29 DE AGOSTO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
