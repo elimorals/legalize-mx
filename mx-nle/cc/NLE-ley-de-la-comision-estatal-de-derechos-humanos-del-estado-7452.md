@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-7452"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-28"
-last_updated: "2002-01-11"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de diciembre de 1992.
 
@@ -93,7 +93,13 @@ IX.- ELABORAR Y EJECUTAR PROGRAMAS PREVENTIVOS EN MATERIA DE DERECHOS HUMANOS;
 
 X.- SUPERVISAR EL RESPETO A LOS DERECHOS HUMANOS EN EL SISTEMA PENITENCIARIO DEL ESTADO Y EN SU CASO DIRIGIR RECOMENDACIONES A LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL;
 
-XI.- LAS DEMÁS QUE LE OTORGUEN LA PRESENTE LEY Y OTROS ORDENAMIENTOS LEGALES.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XI.- LA OBSERVANCIA DEL SEGUIMIENTO, EVALUACIÓN Y MONITOREO, EN MATERIA DE IGUALDAD DE DERECHOS ENTRE MUJERES Y HOMBRES, CONFORME A LA LEY DE LA MATERIA; Y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XII.- LAS DEMÁS QUE LE OTORGUEN LA PRESENTE LEY Y OTROS ORDENAMIENTOS LEGALES.
 
 ###### ARTÍCULO 7o.
 
@@ -534,3 +540,7 @@ P.O. 11 DE ENERO DE 2002.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Archívese como asunto totalmente concluido.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
