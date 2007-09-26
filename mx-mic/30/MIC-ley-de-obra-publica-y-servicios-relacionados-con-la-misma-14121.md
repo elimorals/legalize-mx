@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2007-08-23"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -243,9 +241,17 @@ La Secretaría está facultada para suspender o cancelar, en su caso, el registr
 
 I. Se les declare en estado de suspensión de pagos o bajo un procedimiento de quiebra, o en su caso, sujetos a concurso de acreedores;
 
-II. No cumplan en sus términos con algún contrato, incurran en cualquier acto u omisión por causa imputable a ellos, y perjudiquen con ello los intereses de la entidad, dependencia, ayuntamiento y entidades paramunicipales que correspondan, o el interés general; y,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-III. Hayan celebrado contratos en contravención con lo dispuesto en esta Ley, por causas que le sean imputables;
+II. No cumplan en sus términos con algún contrato, incurran en cualquier acto u omisión por causa imputable a ellos, y perjudiquen con ello los intereses de la entidad, dependencia, Ayuntamiento y entidades paramunicipales que correspondan, o el interés general;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+III. Hayan celebrado contratos en contravención con lo dispuesto en esta Ley, por causas que le sean imputables; y,
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Cuando el contratista, o alguno de sus socios, en caso de ser personal moral, haya sido sancionado o inhabilitado por cualquier entidad del país, mediando causa imputable a su giro como constructora o como funcionario de las propias entidades responsables de la contratación de obra pública.
 
 ###### Artículo 20.
 
@@ -814,3 +820,7 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
