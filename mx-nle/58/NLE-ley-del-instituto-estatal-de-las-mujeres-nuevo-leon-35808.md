@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2006-07-14"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -240,6 +240,14 @@ h) Consejo de Desarrollo Social;
 i) El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León; y
 
 j) El Consejo de Participación Ciudadana.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Las y los invitados permanentes, quienes tendrán derecho a voz, serán los que a continuación se mencionan:
+
+a) Un representante de Poder Legislativo del Estado; y
+
+b) Un representante del Poder Judicial del Estado.
 
 Las(os) integrantes de la Junta de Gobierno nombrarán en forma oficial y por escrito a su respectiva(o) suplente quien deberá ser funcionaria(o) del nivel inmediato inferior. En el caso de los representantes del Consejo, los suplentes serán designados de entre los miembros de este Órgano.
 
@@ -550,3 +558,7 @@ RUBÉN MARTÍNEZ DONDÉ
 P.O. 14 DE JULIO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
