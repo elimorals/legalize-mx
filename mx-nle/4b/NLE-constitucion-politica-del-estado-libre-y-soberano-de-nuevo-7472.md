@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2006-12-27"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -329,7 +329,7 @@ Los Diputados propietarios no podrán ser electos para el período inmediato con
 
 ###### Art. 50.
 
-Prefieren al cargo de Diputados los populares de los Supremos Poderes de la Unión y el de Gobernador.
+Prefieren al cargo de Diputado los populares de los Supremos Poderes de la Unión y el de Gobernador.
 
 Concurriendo el cargo de Diputado en una misma persona con cualquiera otro de los no especificados en este artículo, el electo optará por el que quiera.
 
@@ -827,7 +827,7 @@ El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, 
 
 No podrán ser electos para el período inmediato:
 
-a) El Gobernador, designado por el Congreso del Estado para concluir el periodo en caso de falta absoluta del constitucional; y
+a) El Gobernador designado por el Congreso del Estado para concluir el período en caso de falta absoluta del constitucional; y
 
 b) El Gobernador Interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
@@ -1001,7 +1001,7 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1015,7 +1015,7 @@ Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de l
 
 ###### Art. 92.
 
-Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluída la licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
+Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
 
 ###### Art. 93.
 
@@ -1231,25 +1231,45 @@ XVI. Dictar las medidas necesarias para la recepción, control y destino de los 
 
 XVII. Las demás facultades que las leyes le otorguen.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 98.
 
-Para ser Magistrado del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo o Consejero de la Judicatura del Estado, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, se requiere:
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
 II.- Tener cuando menos 35 años el día de la designación;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 III.- Poseer el día de la designación, título profesional de licenciado en derecho, con antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello;
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
 IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 V.- Haber residido en el Estado durante los dos años anteriores al día de la designación; y
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
 VI.- No haber sido Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, ni Diputado Federal o Local, cuando menos un año previo al día de su nombramiento.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+Para ser Consejero de la Judicatura se requiere reunir los mismos requisitos que se establecen para los Magistrados, con excepción de la edad, que será de cuando menos treinta años al día de la designación y del título profesional que deberá tener fecha de expedición de por lo menos cinco años anteriores al día de la designación.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+
 Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción de la edad, que será de cuando menos treinta años y del título profesional que deberá tener fecha de expedición de al menos siete años anterior al día de su nombramiento.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 Los Jueces Menores reunirán los mismos requisitos que se establecen para los Jueces de Primera Instancia, con excepción de la edad y título profesional, que serán cuando menos de veintisiete y cinco años, respectivamente.
 
@@ -1897,7 +1917,7 @@ El C. Ministro Fiscal continuará ejerciendo las funciones que le encomiendan la
 
 ###### Art. 5o.
 
-El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de Octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
+El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
 
 ###### Art. 6o.
 
@@ -2973,7 +2993,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo.- Las disposiciones referentes a los medios de control constitucional entrarán en vigor una vez que inicie la vigencia de la Ley que reglamente esa materia.
 
-Artículo Tercero.- A partir del día siguiente al de la publicación del presente Decreto y hasta la fecha indicada en el Transitorio Cuarto del presente Decreto, el Consejo de la Judicatura del Estado se integrará de la siguiente manera: con un Presidente, que lo será el Presidente del Tribunal Superior de Justicia, y con los actuales y tres Consejeros en funciones. El Presidente en funciones cesará en su encargo de Presidente, pero se mantendrá como integrante del Consejo de la Judicatura, hasta la fecha que se indica en el transitorio cuarto del presente Decreto. El Consejo de la Judicatura tomará sus decisiones por mayoría de votos de sus integrantes, teniendo su Presidente un voto de calidad en caso de empate, durante el tiempo que esté integrado por cuatro miembros.
+Artículo Tercero.- A partir del día siguiente al de la publicación del presente Decreto y hasta la fecha indicada en el Transitorio Cuarto del presente Decreto, el Consejo de la Judicatura del Estado se integrará de la siguiente manera: con un Presidente, que lo será el Presidente del Tribunal Superior de Justicia, y con los actuales tres Consejeros en funciones. El Presidente en funciones cesará en su encargo de Presidente, pero se mantendrá como integrante del Consejo de la Judicatura, hasta la fecha que se indica en el transitorio cuarto del presente Decreto. El Consejo de la Judicatura tomará sus decisiones por mayoría de votos de sus integrantes, teniendo su Presidente un voto de calidad en caso de empate, durante el tiempo que esté integrado por cuatro miembros.
 
 Artículo Cuarto.- El Consejo de la Judicatura se integrará con el Presidente del Tribunal Superior de Justicia y dos Consejeros, a partir de la fecha en que concluya el encargo del actual Consejero en funciones designado por el Pleno del Tribunal Superior de Justicia, o bien, al separarse este Consejero de su cargo por cualquier causa. Los Consejeros designados por el Titular del Poder Ejecutivo y por el H. Congreso del Estado, que en esa fecha se encuentren en funciones, continuarán en su cargo hasta completar el período para el que hubieren sido originalmente designados.
 
@@ -3038,3 +3058,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 27 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
