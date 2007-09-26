@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-del-estado-de-michoacan-29561"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-28"
-last_updated: "2007-02-13"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Michoacán, el viernes 28 de marzo de 2003.
 
@@ -213,7 +213,9 @@ III. Tener conocimiento en la estructuración, gestión y aplicación de sistema
 
 IV. No haber tenido durante el año previo al de su nombramiento, observaciones no salvaguardadas, por parte de la Secretaría o del órgano técnico de fiscalización del Estado, de otros estados o de la Auditoría Superior de la Federación;
 
-V. No haber tenido durante el año anterior ocupación alguna en cualquier asociación religiosa, institución pública, partido u organización política;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+V. No haber tenido durante el año anterior cargo directivo en dependencias o entidades de la administración pública, u ocupación en cualquier asociación religiosa, partido u organización política;
 
 VI. Poseer al día del nombramiento, título y cédula profesional debidamente registrado en las carreras de Contaduría Pública, Administración, Economía, carrera y/o especialidad afín, con antigüedad mínima de ocho años;
 
@@ -221,13 +223,17 @@ VII. Otorgar fianza administrativa ante el Congreso del Estado por el importe qu
 
 VIII. No haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena privativa de la libertad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 9°.
 
-El Auditor Superior de Michoacán, será propuesto por la Junta de Coordinación Política al Pleno del Congreso, y éste lo designará por el voto de las dos terceras partes de los diputados presentes en la sesión.
+El Auditor Superior y los Auditores Especiales, serán propuestos por la Junta de Coordinación Política al Pleno del Congreso. El Auditor Superior será designado por el voto de las dos terceras partes de los diputados presentes en la sesión y, los Auditores Especiales por mayoría simple.
 
 Si la propuesta no obtiene la votación de Ley, se regresará a la Junta de Coordinación Política para que replantee la propuesta.
 
-En el supuesto anterior, se prorrogará el nombramiento del Auditor Superior en funciones, hasta en tanto no se determine y designe al nuevo Auditor Superior, o en su defecto, lo sustituirá el Auditor Especial Técnico para llevar a cabo las actividades de la Auditoría Superior.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+En el supuesto anterior, se prorrogará el nombramiento del Auditor Superior en funciones, hasta en tanto no se determine y designe al nuevo Auditor Superior, o en su defecto, ante la imposibilidad de éste de continuar en el encargo, lo sustituirá, como encargado de despacho, el Auditor Especial de Normatividad y Control de Calidad. El Congreso del Estado de inmediato iniciará el procedimiento para designar al Auditor Superior.
 
 ###### ARTÍCULO 10.
 
@@ -248,6 +254,10 @@ IV. Elaborar el programa operativo anual de la Auditoría Superior, de conformid
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
 
 V. Elaborar los proyectos de reglamentos, para presentarse al pleno del Congreso a través de la Comisión. Todo Reglamento deberá ser publicado en el Periódico Oficial del Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+V BIS. Proponer a la Junta de Coordinación Política, los temas para la designación de cada uno de los Auditores Especiales; los cuales podrán ser removidos de su cargo en cualquier tiempo, por las causas que la Ley previene;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
 
@@ -293,13 +303,17 @@ XXI. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
 Corresponde al Auditor Superior, el trámite y resolución de los asuntos de su competencia, pero para la mejor y mayor organización y eficiencia del trabajo podrá delegar en Auditores Especiales, servidores públicos y subalternos, cualquiera de sus atribuciones, excepto aquellas que le resulten propias e indelegables por su naturaleza.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTÍCULO 13.
 
-La Auditoría Superior dispondrá de profesionistas en la materia y contará con dos Auditores Especiales, así como direcciones, departamentos, auditores y demás servidores públicos estrictamente necesarios para el mejor desempeño de sus actividades. Los Auditores Especiales serán:
+La Auditoría Superior dispondrá de profesionistas en la materia y contará con tres Auditores Especiales, así como direcciones, departamentos, auditores y demás servidores públicos estrictamente necesarios para el mejor desempeño de sus actividades. Los auditores especiales serán:
 
-I. Auditor Especial Técnico; y,
+l. Auditor Especial de Normatividad y Control de Calidad;
 
-II. Auditor Especial de Auditoría.
+II. Auditor Especial de Fiscalización Estatal; y,
+
+III. Auditor Especial de Fiscalización Municipal.
 
 ###### ARTÍCULO 14.
 
@@ -323,7 +337,9 @@ Son causas específicas de remoción del Auditor Superior y Auditores Especiales
 
 I. Incurrir en alguno de los supuestos que tiene previsto el artículo anterior;
 
-II. Ausentarse de sus labores sin causa justificada que califique la Comisión previo informe a la Junta de Coordinación Política. En ausencia del Auditor Superior, será sustituido por el Auditor Especial Técnico o Especial de Auditoría, en ese orden;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+II. Ausentarse de sus labores sin causa justificada que califique la Comisión, previo informe a la Junta de Coordinación Política. La ausencia del Auditor Superior, será cubierta por el Auditor Especial de Normatividad y Control de Calidad, como encargado de despacho o, ente (sic) la imposibilidad de éste, por el Auditor Especial de Fiscalización Estatal;
 
 III. Sustraer, omitir, destruir, ocultar o utilizar indebidamente la documentación que por razón de su cargo tenga a su cuidado o custodia, así como divulgar la información que deba mantener en reserva;
 
@@ -383,6 +399,22 @@ c) Evaluación en la aplicación del sistema de control y posterior seguimiento 
 
 d) Informe trimestral de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio, dentro de los treinta días naturales siguientes al en que concluya el trimestre.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+ARTÍCULO 18 BIS.- La Comisión presentará a la Comisión de Programación, Presupuesto y Cuenta Pública, como medio de interlocución el informe previo de Resultados de la Revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la Ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía, este informe contendrá enunciativamente comentarios generales sobre:
+
+a) Si la cuenta pública está presentada de acuerdo con los principios de contabilidad aplicables al sector gubernamental;
+
+b) Los resultados de la gestión financiera;
+
+c) Las comprobaciones de si las entidades se ajustaron a los criterios señalados en las Leyes de Ingresos y en las demás aplicables en la materia, así como en los Presupuestos de Egresos respectivos;
+
+d) El cumplimiento de los objetivos y metas de los programas y subprogramas a que deben ajustarse las entidades;
+
+e) El análisis de los subsidios, transferencias, apoyos para operación e inversión, las erogaciones adicionales y otras erogaciones o conceptos similares; y,
+
+f) Informe trimestral de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio, dentro de los treinta días naturales siguientes al en que concluya el trimestre.
+
 ###### ARTÍCULO 19.
 
 Los poderes del Estado y los ayuntamientos podrán formular queja o denuncia ante la Comisión sobre los actos u omisiones de los servidores públicos de la Auditoría Superior que contravengan las disposiciones de esta Ley, en cuyo caso, la Comisión substanciará la investigación a fin de determinar si se actualiza alguna de las causas previstas en los artículos 15 y 16 esta (sic) Ley.
@@ -427,11 +459,11 @@ Cuando conforme a esta Ley, los órganos internos de control colaboren con la Au
 
 ### CAPÍTULO SÉPTIMO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 25.
 
-La Auditoría Superior presentará al Congreso, el Informe de Resultados de la revisión, fiscalización y evaluación de la cuenta pública de las entidades, en el mes de diciembre del año en que fueron recibidas.
+La Auditoria Superior presentará al Congreso, el Informe de Resultados de la revisión, fiscalización y evaluación de la cuenta pública de las entidades, en el mes de septiembre del año en que fueron recibidas, salvo causa justificada que califique la Comisión, quien podrá otorgar prórroga hasta por quince días naturales.
 
 ###### ARTÍCULO 26.
 
@@ -754,3 +786,27 @@ DECRETOS DE REFORMAS A LA PRESENTE LEY.
 P.O. 13 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 232
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 245
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia al Auditor Especial Técnico o Auditor Especial de Auditoría, hechas en cualquier ordenamiento del Estado de Michoacán de Ocampo, se entenderá referida a los Auditores Especiales, conforme a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento Interior, se deberá adecuar al presente Decreto, delimitando las atribuciones de cada uno de los Auditores Especiales, a más tardar dentro de los sesenta días siguientes a su entrada en vigor.
