@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2007-02-13"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -469,7 +469,9 @@ II. Formular opiniones sobre los asuntos presentados al Congreso, tomando en con
 
 III. Tratar los asuntos políticos de carácter interno del Congreso;
 
-IV. Proponer al Congreso la designación del Secretario de Servicios Parlamentarios, del Secretario de Administración y Finanzas, el Contralor Interno, el Auditor Superior de Michoacán y el Director del Centro de Investigaciones y Estudios Legislativos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+IV. Proponer al Congreso la designación del Secretario de Servicios Parlamentarios, del Secretario de Administración y Finanzas, el Contralor Interno, el Auditor Superior de Michoacán, los auditores Especiales de la Auditoría Superior de Michoacán y el Director del Centro de Investigaciones y Estudios Legislativos;
 
 V. Proponer al Congreso, en Sesión Privada, la remoción de los funcionarios a que se refiere la fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la misma y proponer a las personas que deban sustituirlas;
 
@@ -733,17 +735,23 @@ III. Desahogar las consultas respecto de la aplicación e interpretación de la 
 
 IV. Coordinar y vigilar el trabajo de la Secretaría de Servicios Parlamentarios, así como del Centro de Investigaciones y Estudios Legislativos.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 64.
 
-Corresponde a la Comisión de Programación, Presupuesto y Cuenta Pública, participar, conocer y dictaminar, de manera enunciativa y no limitativa sobre los asuntos siguientes:
+La Comisión de Programación, Presupuesto y Cuenta Pública, actúa de acuerdo con lo dispuesto en la presente Ley y demás ordenamientos que regulen el funcionamiento del Congreso y sus Órganos. De manera enunciativa y no limitativa, le corresponde:
 
-I. Dictaminar anualmente las leyes de ingresos y el Presupuesto de Egresos del Estado;
+I. Revisar, analizar y dictaminar anualmente las Leyes de Ingresos y el Presupuesto de Egresos del Estado;
 
-II. Dictaminar los informes de resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía; y,
+II. Revisar, analizar y dictaminar la aplicación de los recursos de las entidades paraestatales y otros que dispongan de autonomía;
 
-III. Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+III. Revisar, analizar y dictaminar las cuentas públicas con base en los Informes de Resultados de la revisión de la Cuenta Pública del Estado y de los Ayuntamientos, de auditorías y revisiones practicadas en los plazos y con las modalidades que la ley señale, de la aplicación de los recursos de las entidades paraestatales y de las que dispongan de autonomía, recibidos de la Comisión Inspectora de la Auditoría Superior de Michoacán y presentarlo al Pleno del Congreso;
+
+IV. Recibir de la Comisión Inspectora de la Auditoria Superior de Michoacán y presentarlo al Pleno del Congreso, el Informe trimestral de las operaciones que haya practicado y el seguimiento de los informes de resultados de cada ejercicio, dentro de los treinta días naturales siguientes al en que concluya el trimestre;
+
+V. Los asuntos señalados en la Ley de Fiscalización Superior de Michoacán; y,
+
+VI. Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2005)</small>
 
@@ -1177,7 +1185,9 @@ El Congreso sesionará en Pleno obligatoriamente dos veces al mes y siempre que 
 
 El año legislativo se iniciará el quince de enero y terminará el catorce de enero del año siguiente.
 
-Durante los meses de enero a marzo de cada año, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al penúltimo año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, paramunicipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en esta Ley y demás disposiciones emanadas de la primera.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+Durante los meses de septiembre a diciembre de cada año, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, paramunicipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en esta Ley y demás disposiciones emanadas de la primera.
 
 Durante los meses de septiembre a diciembre de cada año, el Congreso debe examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
 
@@ -1800,3 +1810,27 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE FEBRERO DE 2007.
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 232, POR EL QUE SE REFORMAN LOS ARTICULOS 64 Y 96 DE LA LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 245, POR EL QUE SE REFORMA LA FRACCION IV DEL ARTICULO 40 DE LA LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia al Auditor Especial Técnico o Auditor Especial de Auditoría, hechas en cualquier ordenamiento del Estado de Michoacán de Ocampo, se entenderá referida a los Auditores Especiales, conforme a lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento Interior, se deberá adecuar al presente Decreto, delimitando las atribuciones de cada uno de los Auditores Especiales, a más tardar dentro de los sesenta días siguientes a su entrada en vigor.
