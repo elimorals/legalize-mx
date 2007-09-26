@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-08-29"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -737,19 +737,21 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 68.
 
 En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos, sin que el total exceda de setenta años.
 
-### CAPITULO VII. CONMUTACION DE PENAS
+### CAPITULO VII. SUSTITUCION DE PENA
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los articulas 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios cuando se trate de delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO VIII. SUSPENSION CONDICIONAL DE LA CONDENA
 
@@ -759,25 +761,27 @@ La reincidencia y habitualidad referida en los articulas 19 y 20 será tomada en
 
 La pena de prisión impuesta podrá ser sustituida, a juicio del Juzgador, en los siguientes términos:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-l. Por multa, cuando la pena de prisión no exceda de cuatro años;
+I. Por multa, de cincuenta a trescientos días, cuando la pena de prisión no exceda de cuatro años;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años;
+II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años. En ambos casos, su duración no podrá exceder de la correspondiente a la pena de prisión sustituida y se regulará en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado.
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+La modalidad de la semilibertad la determinará el juez, la que podrá ser modificada por razones de tratamiento por la autoridad administrativa, sin alterar su esencia.
 
-III. Por jornadas de trabajo a favor de la comunidad, cuando la pena de prisión no exceda de cinco años;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-IV. Que tenga modo honesto de vivir;
+III. Por cincuenta a quinientas jornadas de trabajo a favor de la comunidad, cuando la pena de prisión no exceda de cinco años.
 
-V. Que no se haya sustraído a la acción judicial durante el procedimiento;
+IV. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-VI. Que haya pagado la reparación del daño y la multa; y
+V. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-VII. Que el sentenciado se adhiera al beneficio, dentro de los treinta días siguientes al que cause ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta. El órgano jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo sus condiciones personales, podrá prorrogar este término hasta por treinta días.
+VI. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
+
+VII. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -789,9 +793,13 @@ II. Que haya demostrado buena conducta con anterioridad al delito;
 
 III. Que no se haya sustraído de la acción judicial durante el procedimiento;
 
-IV. Que haya pagado o garantizado la reparación del daño y la multa;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-V. Cuente con una persona conocida que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el sustitutivo; y
+IV. Que haya pagado la reparación del daño y la multa;
+
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+V. En el caso de las fracciones II y III del artículo 70, que cuente con una persona conocida que se comprometa y garantice a la autoridad ejecutora, el cumplimiento de las obligaciones contraídas por el sustitutivo; y
 
 VI. Que el sentenciado se adhiera al beneficio dentro de los treinta días siguientes a los que cause ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta. El Órgano Jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo sus condiciones personales, podrá prorrogar este término hasta por treinta días más.
 
@@ -825,7 +833,9 @@ El sentenciado se podrá adherir al beneficio hasta antes de compurgar la pena d
 
 Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado estará obligado a:
 
-I. Otorgar garantía o se sujete a las medidas que le fijen para asegurar su presentación ante la autoridad siempre que fuere requerido;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+I. Sujetarse a las medidas que le fijen para asegurar su presentación ante la autoridad siempre que fuere requerido;
 
 II. Observar buena conducta durante el término de suspensión;
 
@@ -839,15 +849,15 @@ VI. Obligarse a residir en determinado lugar del que no podrá ausentarse sin pe
 
 VII. Abstenerse de causar molestias al ofendido o a sus familiares;
 
-VIII. Acreditar que se ha cubierto la reparación del daño y la multa, pudiendo el juez fijar los plazos para ello, de acuerdo a la situación económica del sentenciado; y
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+VIII. Acreditar que se ha cubierto la reparación del daño y la multa; y
 
 IX. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora el cumplimiento de las obligaciones contraídas por el beneficio.
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 73.
-
-La suspensión comprenderá la pena de prisión y multa, en cuanto a las demás sanciones impuestas, el Juez o el Tribunal resolverá según las circunstancias del caso.
 
 La suspensión tendrá una duración igual a la de la pena suspendida. Una vez transcurrida ésta, se considerará extinguida la pena impuesta, siempre que durante este término el sentenciado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, en cuyo caso el juez revocará la suspensión concedida y ordenará la ejecución de la sentencia.
 
@@ -855,9 +865,9 @@ Si el sentenciado falta al cumplimiento de las obligaciones contraídas, el juez
 
 Al sentenciado que se le haya suspendido la pena se le harán saber las obligaciones a las que queda sujeto, así como los efectos del incumplimiento de las mismas, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso la aplicación de lo previsto en este artículo.
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-Artículo 73 BIS.- El sentenciado que considere que al dictarse sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el juez de la causa.
+Artículo 73 BIS.- El sentenciado que considere que al dictarse sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el juez de la causa, una vez que la sentencia haya causado ejecutoria.
 
 ###### Artículo 74.
 
@@ -2987,7 +2997,9 @@ II. Cuando se cometa en el interior de casa habitación, se impondrán de tres a
 
 Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
 
-III. Cuando se cometa en el interior de casa habitación o en el interior de un vehículo particular y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
 
 > <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -3023,13 +3035,9 @@ XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve a
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XIV. Cuando el robo se cometa al interior de un vehículo automotor o recaiga sobre una o más de las partes que lo conforman o sobre objetos meramente ornamentales o de aquellos que transitoriamente se encuentran en su interior, se impondrán de seis meses a seis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, sin perjuicio en su caso, del agravante a que se refiere la fracción I de este artículo.
-
-En el supuesto de esta fracción, cuando el monto de lo robado exceda de trescientas veces el salario mínimo, se aumentará la pena de prisión hasta en una mitad más, sin perjuicio en su caso, de la agravante a que se refiere la fracción III de este artículo; y
-
-> <small>N. DE E. EL ANTERIOR ULTIMO PARRAFO DEL ARTICULO CORRESPONDE A LA PRESENTE FRACCION.</small>
+XIV. Cuando el robo se cometa al interior de un vehículo automotor particular o recaiga sobre una o más de las partes que lo conforman o sobre objetos meramente ornamentales o de aquellos que transitoriamente se encuentran en su interior, se impondrán de seis meses a seis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, sin perjuicio en su caso, del agravante a que se refiere la fracción I de este artículo.
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -3698,3 +3706,13 @@ DECRETO NUMERO 76.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
