@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2007-09-13"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO POR EL QUE MODIFICA EL CODIGO, LA PRESENTE ADICION ENTRARA EN VIGOR A LOS 30 DIAS SIGUIENTES DE SU PUBLICACION.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -6370,6 +6368,10 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 #### Sección Décima Quinta. De los Derechos por los Servicios de Recolección y Recepción de Residuos Sólidos
 
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
+ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -6405,10 +6407,6 @@ El servicio de recepción de residuos sólidos no peligrosos se prestará siempr
 El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
-
-ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -13026,7 +13024,7 @@ Salvo que las leyes o resoluciones señalen una fecha para la iniciación de los
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 690.
 
@@ -13036,15 +13034,19 @@ Contra los actos o resoluciones administrativas de carácter definitivo emitidos
 
 Para los efectos del párrafo anterior y del juicio de nulidad tramitado ante el Tribunal Contencioso, las propuestas de declaraciones a que se refiere el primer párrafo del artículo 37 de este Código, no se consideran actos o resoluciones definitivas y, en consecuencia, es improcedente el juicio de nulidad y el recurso de revocación en su contra.
 
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+
 Cuando se haya hecho uso del recurso de revocación, previo desistimiento del mismo, el interesado podrá promover el juicio ante el Tribunal de lo Contencioso.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Lo señalado en el párrafo anterior, será aplicable siempre que el promovente lo realice dentro del plazo de hasta cuatro meses, que es el plazo que la autoridad tiene para resolver el recurso.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-Cuando se interponga recurso de revocación o se promueva juicio ante el Tribunal de lo Contencioso, en contra de actos o resoluciones que traigan consigo el cumplimiento de obligaciones fiscales, el promovente deberá anexar cheque de caja o certificado a nombre de la Tesorería, o el comprobante de pago realizado respecto a las contribuciones de que se trate. En caso de no cumplir con dicho requisito será improcedente el medio de defensa intentado.
+Cuando se interponga recurso de revocación o se promueva juicio ante el Tribunal de lo Contencioso, en contra de actos o resoluciones que traigan consigo el cumplimiento de obligaciones fiscales, el promovente deberá garantizar el interés fiscal y los posibles recargos en alguna de las formas señaladas por el artículo 52 de este Código. En caso de no cumplir con dicho requisito, el medio de defensa será procedente, pero la autoridad demandada podrá continuar con el procedimiento administrativo de ejecución independientemente de que no esté resulto (sic) el medio de defensa intentado.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 Lo anterior, no será aplicable cuando el afectado estime que ha operado a su favor la prescripción o la caducidad.
 
@@ -17345,3 +17347,9 @@ Primero.- El presente Decreto entrará en vigor a los 30 días siguientes al de 
 Segundo.- El Órgano Ejecutivo local contará con 60 días a partir de la publicación en la Gaceta Oficial para realizar las modificaciones y adecuaciones a los procedimientos correspondientes.
 
 Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 26 DE SEPTIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observación y aplicación.
