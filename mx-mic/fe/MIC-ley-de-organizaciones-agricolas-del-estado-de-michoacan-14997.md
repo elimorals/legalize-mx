@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-organizaciones-agricolas-del-estado-de-michoacan-14997"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-27"
-last_updated: "1997-03-27"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 1997.
 
@@ -49,47 +49,97 @@ LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN
 
 La presente Ley es reglamentaria del artículo 129 de la Constitución Política del Estado Libre y Soberano de Michoacán, en cuanto se refiere a la obligación del poder público de garantizar el desarrollo integral estatal, mediante el fomento del crecimiento económico, por lo que sus disposiciones son de orden público e interés social y tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las Organizaciones Agrícolas en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 2°.
 
-La interpretación y aplicación de las disposiciones contenidas en este ordenamiento, en la esfera administrativa, corresponderá al Ejecutivo Estatal a través de la Secretaría de Desarrollo Agropecuario y Forestal.
+La interpretación y aplicación de las disposiciones contenidas en este ordenamiento, en la esfera administrativa, corresponderá al Ejecutivo Estatal a través de la Secretaría de Desarrollo Rural.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 3°.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Productor Agrícola: Persona física o moral dedicada predominantemente a la explotación de una plantación, cultivo o rama agrícola especializada, cualesquiera que sea su régimen de tenencia de la tierra;
+I. Actividades Económicas: Las actividades agrícolas, de producción, industrialización, comercialización y de servicios;
 
-II. Organización Agrícola: Las asociaciones agrícolas y la Unión Agrícola del Estado;
+II. Actividades Rurales: Los procesos productivos primarios basados en recursos naturales renovables: agricultura, selvicultura; de transformación y de servicios del sector rural;
 
-III. Asociaciones Agrícolas: Agrupación de personas físicas o morales dedicadas a la producción agrícola y a actividades directas a la producción en el sector, pudiendo integrarse como asociaciones mixtas o especializadas y a la vez como municipales, o regionales;
+III. Actores de la Sociedad Rural: Personas físicas o morales de los sectores social y privado que integran la sociedad rural;
 
-IV. Asociación Agrícola Municipal: Agrupación de productores agrícolas en general o en ramas especializadas de esta actividad, constituidas en un municipio determinado;
+IV. Asociación Agrícola de Sistema Producto: Asociación de productores agrícolas cuya actividad predominante se dedique a un cultivo o sistema producto de la economía rural;
 
-V. Asociación Agrícola Regional: Agrupación de productores agrícolas en general o en ramas agrícolas especializadas, coinstituidas (sic) en una región del Estado;
+V. Asociación Agrícola Mixta: Agrupación de productores agrícolas en general sin importar la rama de producción agrícola a la que se dediquen;
 
-VI. Asociación Agrícola Mixta: Agrupación de productores agrícolas en general, sin importar la rama de producción agrícola a la que se dediquen;
+VI. Asociación Agrícola Regional: Agrupación de productores agrícolas en general o en ramas agrícolas en general o ramas especializadas, constituidas en una región del Estado;
 
-VII. Asociación Agrícola Especializada: Agrupación de productores agrícolas cuya actividad predominantemente se dedique a un cultivo o rama especializada de la economía rural.
+VII. Asociación Agrícola: Agrupación de personas físicas o morales dedicadas a la producción agrícola y actividades directas a la producción o conexas en el sector, pudiendo integrarse como asociaciones mixtas o por sistema producto municipales, regionales o estatal;
 
-En cada municipio, podrán formarse las asociaciones, atendiendo a los principales cultivos o grupos de cultivos afines; su jurisdicción puede comprender localidades rurales de otros municipios que se encuentre a una distancia tal que permita a los agricultores asistir con facilidad al punto de reunión;
+VIII. Autoridad Coadyuvante: Organismos que inciden en el sector rural en apoyo a las autoridades competentes y concurrentes, emanadas de un ordenamiento legal;
 
-VIII. Unión Agrícola Estatal: Agrupación de las asociaciones agrícolas del Estado;
+IX. Autoridad Competente: Titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Rural y los municipios;
 
-IX. SAGAR: Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+X. Autoridad Concurrente: Las dependencias y entidades que inciden en el sector rural en el ámbito de sus competencias;
 
-X. Secretaría: La Secretaría de Desarrollo Agropecuario y Forestal del Estado;
+XI. Centro Estatal de Agronegocios: Unidad de servicios de consultoría y gestión para las empresas agropecuarias del Estado fortaleciendo sus capacidades de gestión frente a los mercados; en especial en el diseño de planes de negocios para la comercialización, aprovechando el conocimiento de las ventajas en los diferentes sistemas-producto;
 
-XI. Certificado Fitosanitario: Documento oficial expedido por la SAGAR o las personas aprobadas y acreditadas para tal efecto, en el que consta el cumplimiento de las disposiciones fitosanitarias a que se sujetan la movilización, importación o exportación de vegetales, sus productos o subproductos;
+XII. Certificado Fitosanitario: Documento oficial expedido por la SAGARPA o las personas aprobadas y acreditadas para tal efecto, en el que consta el cumplimiento de las disposiciones fitosanitarias a que se sujetan la movilización, importación o exportación de vegetales sus productos o subproductos;
 
-XII. Norma Oficial Mexicana: Las normas oficiales mexicanas en materia de sanidad vegetal de carácter obligatorio, expedidas por la SAGAR en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización; y,
+XIII. Comisión: La Comisión Intersecretarial del Estado de Michoacán;
 
-XIII. Norma Mexicana: Las normas de referencia de observancia voluntaria, que emitan los organismos nacionales de normalización en los términos de la Ley Federal sobre Metrología y Normalización.
+XIV. Concurrencia: La acción o inversión conjunta de esfuerzos y recursos entre sociedad y gobierno; órdenes de gobierno y agentes de los diversos sectores de los ámbitos mencionados (gobierno, sociedad, sector productivo, ordenes) en el logro de los objetivos del desarrollo rural sustentable;
+
+XV. Consejo Distrital: El consejo para el desarrollo rural sustentable del distrito de desarrollo rural;
+
+XVI. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Integral Sustentable; para los efectos de esta Ley, el consejo estatal es el establecido en la legislación federal de desarrollo rural sustentable;
+
+XVII. Consejo Municipal: El consejo municipal para el desarrollo rural sustentable;
+
+XVIII. Desarrollo Rural Integral y Sustentable: El mejoramiento integral de las condiciones de vida de la población, mediante la realización de las actividades productivas y sociales en el territorio comprendido fuera de los núcleos considerados urbanos con base en las disposiciones aplicables, con el cuidado del entorno en que viven y la participación activa y organizada de los diversos agentes económicos y sociales del medio rural;
+
+XIX. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+
+XX. Ley de Desarrollo Rural Integral Sustentable: La Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo;
+
+XXI. Ley: Ley de Organizaciones Agrícolas del Estado de Michoacán;
+
+XXII. Norma Mexicana: Las normas de referencia de observación voluntaria, que emitan los organismos nacionales de normalización en los términos de la Ley Federal sobre Metrología y Normalización;
+
+XXIII. Norma Oficial Mexicana: Las normas oficiales mexicanas en materia de sanidad vegetal de carácter obligatorio, expedidas por la SAGARPA en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
+
+XXIV. Órdenes de Gobierno: Los gobiernos Federal, Estatal y Municipal;
+
+XXV. Organización Agrícola: Las asociaciones agrícolas y la Unión Agrícola del Estado;
+
+XXVI. Poblador Rural: Toda persona física o moral que, siendo propietario o usufructuario de tierra o no, realice acciones económicas y/o sociales en el medio rural;
+
+XXVII. Poder Ejecutivo Estatal: Gobierno del Estado de Michoacán de Ocampo. (Gobernador y todas las dependencias dependientes de él reconocidas en los diferentes ordenamientos legales);
+
+XXVIII. Productor Agrícola: Persona física o moral dedicada predominantemente a la explotación de una plantación, cultivo o rama agrícola especializada, cualquiera que sea su régimen de tenencia de la tierra;
+
+XXIX. Recursos Naturales: Los elementos naturales renovables y no renovables potencialmente aprovechables, y que proporcionan servicios ambientales a la sociedad;
+
+XXX. Región: Dos o más municipios o aquellas zonas que por sus características geográficas económicas o agro-climatológicas, sean coincidentes, y que así lo determine la Secretaría;
+
+XXXI. Rural: La definición territorial aplicada a poblaciones con actividades económicas preponderantemente primarias, hasta de dos mil quinientos habitantes; áreas conurbadas y áreas urbanas que realicen actividades agropecuarias, pesqueras, forestales o de transformación agroindustrial;
+
+XXXII. SAGARPA: Secretaría de Agricultura Ganadería y Desarrollo Rural, Pesca y Alimentación;
+
+XXXIII. Secretaría: La Secretaría de Desarrollo Rural;
+
+XXXIV. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; para fines de esta Ley es sinónimo de cadena productiva;
+
+XXXV. Socio Productor: La persona física que se registre en la asociación ubicada en la jurisdicción en la que desarrolle su actividad agrícola o en la que tenga su domicilio, dedicado a la explotación de una plantación, cultivo o a una rama agrícola especializada; y,
+
+XXXVI. Unión Agrícola Estatal: Agrupación principal de las asociaciones agrícolas del Estado.
 
 ###### Artículo 4°.
 
 La Secretaría, para los efectos de esta Ley, tendrá las siguientes atribuciones:
 
-I. Fomentar y promover las condiciones necesarias para el desarrollo de la producción agrícola estatal, vinculándola a los programas nacionales sobre la materia;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+I. Fomentar y promover las condiciones necesarias para el desarrollo de la producción agrícola estatal, vinculándola a los programas nacionales estatales, municipales, regionales y locales sobre la materia;
 
 II. Coadyuvar en la organización y capacitación de los productores agrícolas, de conformidad con esta Ley y su Reglamento;
 
@@ -101,23 +151,29 @@ V. Vigilar el funcionamiento de las organizaciones agrícolas y aplicar en su ca
 
 VI. Las demás que le confieran esta Ley y su Reglamento.
 
-###### Artículo 5.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-El Estado considera a las asociaciones agrícolas y a la Unión Agrícola Estatal, como organismos de consulta y colaboración y en consecuencia, están obligadas a proporcionar los informes técnico administrativos que les solicite la Secretaria.
+###### Artículo 5°.
+
+El Estado considerará a las asociaciones agrícolas y a la unión agrícola estatal, como organismos de consulta y colaboración en función de lo establecido en la Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo y, en consecuencia, están obligadas a proporcionar los informes técnicos administrativos que les solicite la Secretaría.
 
 ## TITULO SEGUNDO
 
 ### CAPITULO I. DE LAS ASOCIACIONES AGRICOLAS
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 6°.
 
-Las asociaciones agrícolas, son organizaciones con personalidad jurídica y patrimonio propio para el cumplimiento de sus fines, que deberán constituirse ante fedatario público, por diez o más productores, a fin de promover el desarrollo rural integral, así como la protección de los intereses económicos de sus agremiados.
+Las asociaciones agrícolas, son organizaciones con personalidad jurídica y patrimonio propio y con responsabilidad limitada o ilimitada, para el cumplimiento de sus fines, que deberán constituirse ante notario público, por diez o más productores, a fin de promover el desarrollo rural integral sustentable, así como la protección de los intereses económicos de sus agremiados.
 
 ###### Artículo 7°.
 
 Las asociaciones agrícolas constituidas, tendrán las siguientes finalidades:
 
-I. Gestionar y promover planes, programas, acciones y apoyos tendientes al mejoramiento de la producción agrícola y de la economía de los productores;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+I. Gestionar, participar y promover planes, programas, acciones y apoyos tendientes al mejoramiento de la producción agrícola y de la economía de los productores;
 
 II. Promover y fomentar entre sus agremiados la implementación de sistemas, métodos, técnicas y transferencias tecnológicas adecuadas para el desarrollo y explotación agrícolas;
 
@@ -125,13 +181,17 @@ III. Representar ante las autoridades los intereses comunes de sus agremiados y 
 
 IV. Proporcionar a sus miembros cuando lo requieran, asesoría técnica, jurídica, contable, financiera y administrativa;
 
-V. Pugnar por la capacitación y especialización de los productores en su ramo; y,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+V. Coadyuvar con las autoridades competentes para llevar a cabo programas de capacitación y especialización de los productores en su ramo; y,
 
 VI. Las demás que establezcan esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 8°.
 
-Los productores agrícolas agrupados en asociaciones agrícolas de carácter municipal o regional, ya sean mixtas o especializadas, de conformidad con el Reglamento de esta Ley, tendrán los siguientes derechos y obligaciones:
+Los productores agrícolas agrupados en asociaciones agrícolas de carácter municipal o regional, ya sean mixtas o por sistema-producto, de conformidad con el Reglamento de esta Ley, tendrán los siguientes derechos y obligaciones:
 
 I. Utilizar los servicios que preste la asociación;
 
@@ -149,11 +209,13 @@ Para los efectos legales que correspondan, las asociaciones agrícolas y la Uni�
 
 ### CAPITULO II. DE LA UNION AGRICOLA ESTATAL
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-La Unión Agrícola Estatal que se constituya de conformidad con esta Ley, se integrará por diez o más asociaciones agrícolas que se encuentren funcionando en el Estado, pudiendo formar parte de la misma, asociaciones agrícolas mixtas y especializadas, ya sean municipales o regionales. Tendrán personalidad jurídica y patrimonio propios.
+La Unión Agrícola Estatal que se constituya de conformidad con esta Ley, se integrará por diez o más asociaciones agrícolas que se encuentren funcionando en el Estado, pudiendo formar parte de la misma, asociaciones agrícolas mixtas y de sistemas-producto, ya sean municipales o regionales, tendrán personalidad jurídica y patrimonio propio.
 
-Podrán adherirse a la Unión Agrícola Estatal, de acuerdo con lo que disponga el Reglamento de esta Ley, todas aquellas asociaciones que así lo determinen posteriormente.
+Podrán adherirse a la unión agrícola estatal, de acuerdo con lo que disponga el Reglamento de esta Ley, todas aquellas asociaciones que así lo determinen posteriormente.
 
 ###### Artículo 11.
 
@@ -187,25 +249,35 @@ XI. Promover la utilización de los mecanismos para el fomento de la producción
 
 XII. Promover conjuntamente con las asociaciones, sistemas de asistencia técnica que permitan a los productores adoptar nuevas tecnologías, para elevar los niveles de productividad en las explotaciones agrícolas;
 
-XIII. Promover y constituir empresas comercializadoras de productores, para vincular la producción estatal con los mercados nacional e internacional, con el fin de mejorar el ingreso de los productores agrícolas, de acuerdo con las disposiciones jurídicas correspondientes; y,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-XIV. Las demás que establezca esta Ley, su Reglamento y las demás disposiciones jurídicas aplicables.
+XIII. Promover y constituir empresas comercializadoras de productores, para vincular la producción estatal con los mercados nacional e internacional, con el fin de mejorar el ingreso de los productores agrícolas, de acuerdo con las disposiciones jurídicas correspondientes;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XIV. Participar con el carácter de Organismo Coadyuvante en las reuniones del Consejo Estatal de Desarrollo Rural Integral Sustentable del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XV. Identificar y denunciar ante las autoridades competentes las tierras de producción agrícola que se encuentren sin trabajar y proponer las medidas necesarias para su incorporación a las actividades propias del sector; y,
+
+XVI. Las demás que establezca esta Ley, su Reglamento y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 13.
 
 Las asociaciones agrícolas afiliadas a la Unión Agrícola Estatal tendrán los siguientes derechos:
 
-I.- Utilizar los servicios que proporcionen el Centro Estatal pasa el Desarrollo Agrícola del Estado de Michoacán y su Organismo de Certificación;
+I. Utilizar los servicios que proporcione el Centro Estatal para el Desarrollo Agrícola del Estado de Michoacán y su organismo de certificación; así como del Centro de Agronegocios del Estado de Michoacán de Ocampo;
 
-II. Solicitar y recibir la protección y ayuda de la Unión, en la defensa de los intereses de las asociaciones y de sus agremiados;
+II. Solicitar y recibir la protección y ayuda de la unión, en la defensa de los intereses de las asociaciones y sus agremiados;
 
-III. Presentar al Comité Directivo y a la Asamblea de la Unión, iniciativas y propuestas que coadyuven a la realización de sus objetivos sociales;
+III. Presentar al comité directivo y a la asamblea de la unión, iniciativas y propuestas que coadyuven a la realización de sus objetivos sociales;
 
-IV. Solicitar al Comité Directivo o al órgano de vigilancia y ante su negativa al juez competente, que se convoque a las asambleas;
+IV. Solicitar al comité directivo o al órgano de vigilancia y ante su negativa al juez competente, que se convoque a las asambleas; y,
 
-V. Asistir por medio de sus representantes a las asambleas de la Unión y votar en ellas; y,
-
-VI. Los demás que establezca esta Ley, su Reglamento y las demás disposiciones jurídicas aplicables.
+V. Los demás que establezcan esta Ley, su Reglamento y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 14.
 
@@ -261,9 +333,11 @@ En caso de extinción, la Asamblea General designará un Comité de liquidación
 
 Extinguida la Unión Agrícola Estatal, los bienes que queden como remanente se destinarán como donativo a las escuelas o instituciones de enseñanza e investigación agrícola pertenecientes al sistema educativo del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-La Unión Agrícola Estatal constituirá el Centro Estatal para el Desarrollo Agrícola de Michoacán, que tendrá como objeto principal coordinar con los sectores público y privado el fomento de la comercialización de los productos agrícolas en las mejores condiciones, tanto en el mercado nacional como en el internacional.
+La Unión Agrícola Estatal constituirá el Centro Estatal para el Desarrollo Agrícola de Michoacán, mismo que estará vinculado al Centro de Agronegocios, al Centro Estatal de Capacitación y todos aquellos organismos que se derivan de la Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo, que tendrá como objetivo principal coordinar con los sectores público y privados el fomento de la comercialización de los productos agrícolas en las mejores condiciones, tanto en el mercado nacional como en el internacional.
 
 ###### Artículo 22.
 
@@ -277,9 +351,15 @@ III. Proponer a las asociaciones agremiadas a la Unión Agrícola Estatal, las t
 
 IV. Prestar servicios de desarrollo tecnológico para productos, procesos, operación y equipos relacionados con la producción, transformación, conservación, distribución y comercialización de productos agrícolas;
 
-V. Apoyar a los productores afiliados a la Unión Agrícola Estatal que lo soliciten, en la obtención de créditos; y,
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Las demás que se determinen en el Reglamento de esta Ley y en su acta constitutiva.
+V. Apoyar a los productores afiliados a la Unión Agrícola Estatal que lo soliciten, en la obtención de créditos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Apoyar en el proceso de registro de marcas y patentes de productos diseñados por productores michoacanos; y,
+
+VII. Las demás que se determinen en el Reglamento de esta Ley y en su acta constitutiva.
 
 ###### Artículo 23.
 
@@ -303,11 +383,13 @@ El costo de los servicios que proporcionen el Centro Estatal para el Desarrollo 
 
 ### CAPITULO UNICO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 26.
 
-Las sanciones por violaciones a la presente Ley, serán aplicadas por la Secretaría de Desarrollo Agropecuario y Forestal, las que consistirán en amonestación o multa de diez hasta doscientos días de salario mínimo vigente en el Estado, de acuerdo a la gravedad de la falta y conforme al procedimiento previsto en el Reglamento de esta Ley.
+Las sanciones por violaciones a la presente Ley serán aplicadas por la Secretaría, las que consistirán en amonestación o multa de diez hasta doscientos días de salario mínimo vigente en el Estado, de acuerdo a la gravedad de la falta y conforme al procedimiento previsto en el Reglamento de esta Ley.
 
-Tratándose de infracciones a las disposiciones internas de la Unión, la sanción que corresponda, será aplicada por la Comisión de Honor y Justicia que para tal efecto se instituya, de acuerdo al procedimiento previsto en el Reglamento.
+Tratándose de infracciones a las disposiciones internas de la unión, la sanción que corresponda, será aplicada por la comisión de honor y justicia que para tal efecto se instituya, de acuerdo al procedimiento previsto en el Reglamento.
 
 ###### Artículo 27.
 
@@ -350,3 +432,23 @@ DIPUTADO PRESIDENTE.- ALFREDO ESQUIVEL RAMIREZ.- DIPUTADO SECRETARIO.- LEONEL VI
 En cumplimiento a lo dispuesto por la fracción I del Artículo 60 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de marzo de 1997 mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- El SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las organizaciones de productores agrícolas que bajo el amparo de esta Decreto, se conviertan en asociaciones y que decidan integrarse a la Unión Agrícola Estatal, deberán ajustar sus estatutos y reglamentos a la Ley de Organizaciones Agrícolas del Estado de Michoacán, en un plazo de seis meses contados a partir de que soliciten su incorporación a la Unión.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado, adecuará el Reglamento de la Ley, conforme al presente Decreto, dentro de los noventa días siguientes a la entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, la reforma a la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, se entenderá por Secretaría de Desarrollo Rural a la Secretaría de Desarrollo Agropecuario.
