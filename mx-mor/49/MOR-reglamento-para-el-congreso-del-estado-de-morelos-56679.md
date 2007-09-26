@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS
+REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -819,7 +819,11 @@ VI. Himno Nacional Mexicano;
 
 VII. Intervención de un diputado por cada uno de los grupos y fracciones parlamentarias, que no excederán de 15 minutos;
 
-VIII. Presentación del informe del ciudadano Gobernador del Estado, durante el cual, podrán solicitársele hasta tres interpelaciones por cada grupo parlamentario que no excedan de tres minutos cada una, con relación al estado que guarda la administración pública, a las cuales deberá darse respuesta en el acto;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+VIII. Presentación del Informe del Gobernador del Estado, durante el cual, podrán solicitarse hasta tres interpelaciones con relación al estado que guarda la administración pública estatal por cada grupo parlamentario, que no excederán de tres minutos cada una, las cuales deberán ser contestadas en el acto.
+
+La Junta Política y de Gobierno acordará las condiciones y modalidades bajo las cuales se desarrollarán las interpelaciones; este acuerdo se hará del conocimiento de la Asamblea;
 
 IX. Respuesta del Diputado Presidente;
 
@@ -1838,3 +1842,11 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo primero.- El presente Decreto entrará en vigor el mismo día de su aprobación.
+
+Artículo segundo.- Para efectos de su divulgación, publíquese en la Gaceta Legislativa y en el Periódico Oficial "Tierra Y Libertad".
