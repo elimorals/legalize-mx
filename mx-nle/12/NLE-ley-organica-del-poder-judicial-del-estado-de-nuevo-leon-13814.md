@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2006-09-10"
+last_updated: "2007-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -181,11 +181,11 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 ### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 7.
 
-El Tribunal Superior de Justicia se integrará con catorce Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del artículo 115 de esta Ley.
+El Tribunal Superior de Justicia se integrará con dieciséis Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del Artículo 115 de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -2096,3 +2096,7 @@ Artículo Tercero.- En el Presupuesto de Egresos para el año 2007, deberán con
 P.O. 10 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
