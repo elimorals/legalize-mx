@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2007-08-29"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -453,15 +453,15 @@ Durante el período de tratamiento, se sujetará a los internos a las medidas qu
 
 ### CAPITULO I. Del Régimen de Tratamiento
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 44.
 
-El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas, de salud o de cualquier otra índole autorizada por la ley, orientadas a la readaptación social del sentenciado, bajo la supervisión y cuidado de la autoridad que ejerza la vigilancia. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+El tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas, de salud o de cualquier otra índole autorizada por la ley, orientadas a la readaptación social del sentenciado, bajo la supervisión y cuidado de la autoridad que ejerza la vigilancia. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
-La semilibertad implica alteración de periodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida, quedando bajo la orientación y cuidado de la autoridad que ejerza el control y vigilancia.
+La semilibertad implica alternación de periodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida, quedando bajo la orientación y cuidado de la autoridad que ejerza el control y vigilancia.
 
-La duración de este sustitutivo comprenderá un término igual al de la pena de prisión sustituida, siempre y cuando el sentenciado acredite haber realizado por lo menos en una semana, tres jornadas de trabajo no remuneradas a favor de la comunidad, en razón de dos horas por jornada, las cuales se ajustarán a los horarios en los que éste pueda realizarlas, de acuerdo al programa que para ese fin establezca la institución en la cual va a realizarlas.
+Las jornadas de trabajo a favor de la comunidad, consisten en la prestación de servicios no remunerados, preferentemente en instituciones públicas educativas y de asistencia social o en instituciones privadas asistenciales; el sentenciado deberá acreditar haber realizado por lo menos en una semana, tres jornadas de trabajo no remuneradas a favor de la comunidad, en razón de dos horas por jornada, las cuales se ajustarán a los horarios en los que éste pueda realizarlas, de acuerdo al programa que para ese fin establezca la institución en la cual va a realizarlas.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -1004,3 +1004,13 @@ DECRETO NUMERO 76.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
