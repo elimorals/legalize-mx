@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2007-03-13"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -329,7 +329,9 @@ XXVIII.- Poner a los inimputables mayores de edad a disposición del órgano jur
 
 XXIX.- Auxiliar al Ministerio Público Federal, al del Distrito Federal y al de los Estados de la República, en los términos que determinen las disposiciones jurídicas aplicables;
 
-XXX.- Coadyuvar en la localización de personas extraviadas o ausentes en el Estado y proponer al Procurador políticas para la atención integral de este problema;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XXX.- Recibir denuncias o querellas sobre desaparición de menores de edad, incapaces y personas mayores de setenta años, debiendo dictar acuerdo de inicio de forma inmediata y sin que medie intervalo alguno de tiempo entre el desconocimiento del paradero de la probable víctima y la noticia del hecho ante la autoridad; estando legitimado para hacerlo cualquier persona que le conste dicha ausencia. En consecuencia, estará obligado a informar con prontitud, a las dependencias que por mandato de ley sean competentes, sobre el extravío reportado, a fin de que coadyuven en la búsqueda y localización de la persona reportada;
 
 XXXI.- Realizar las acciones que le correspondan en materia de métodos alternos para la prevención y solución de conflictos conforme a la Ley de la materia y demás disposiciones legalmente aplicables;
 
@@ -2012,3 +2014,7 @@ Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrará
 Artículo Segundo.- Los miembros de las instituciones policiales que antes de la fecha del inicio de vigencia del presente Decreto estén sujetos a algún procedimiento de responsabilidad o de remoción concluirán dichos procedimientos con las normas que éstos iniciaron.
 
 Artículo Tercero.- Los Ayuntamientos, en el ámbito de su competencia, en un plazo de 90-noventa días naturales contados desde la vigencia del presente Decreto, deberán expedir los reglamentos que regularán sus respectivas instituciones policiales para dar cabal cumplimiento de lo establecido en el último párrafo del artículo 68 de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León; asimismo realizarán las adecuaciones que resulten necesarias a la reglamentación municipal respectiva.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
