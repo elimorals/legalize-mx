@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-para-adolescentes-del-estado-de-mexico-53769"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-25"
-last_updated: "2007-01-25"
+last_updated: "2007-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2007.
 
@@ -97,15 +97,21 @@ IV. Conducta Antisocial: Es la acción u omisión, típica y antijurídica reali
 
 V. Conducta Antisocial Grave: Cuando el Adolescente cometa alguna de las conductas antisociales siguientes:
 
-a) Homicidio; establecido en el artículo 241 del Código Penal del Estado de México, excepto el homicidio culposo, sin que en esta excepción, se incluyan los cometidos en estado de ebriedad, bajo el influjo de drogas, enervantes o psicotrópicos.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+a) Homicidio; establecido en el articulo 241 del Código Penal del Estado de México y el culposo establecido en el articulo 61 segundo párrafo, fracciones I, II y V.
 
 b) Secuestro; establecido en el artículo 259 del Código Penal del Estado de México, en todas sus modalidades, excepto los 2 últimos párrafos.
 
-c) Violación; establecido en el artículo 273, 273 bis y 274 del Código Penal del Estado de México.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+c) Violación; establecido en los artículos 273 y 274 del Código Penal del Estado de México.
 
 d) Lesiones; establecido en el artículo 238 fracción V del Código Penal del Estado de México.
 
-e) Robo; establecido en el artículo 290 fracciones I, II, III, IV y V del Código Penal del Estado de México.
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+e) Robo; establecido en el artículo 290 fracciones I en su tercer párrafo, II, III, IV y V del Código Penal del Estado de México.
 
 f) Rebelión; establecido en el artículo 107 y 108 excepto el último párrafo de éste y 110 del Código Penal del Estado de México.
 
@@ -2368,3 +2374,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 26 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
