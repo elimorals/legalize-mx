@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2007-08-07"
+last_updated: "2007-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -2225,7 +2225,17 @@ ART. 418.- Los cargos de tutor y de curador de un incapaz no pueden ser desempe�
 
 ART. 419.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Ministerio Público, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
-ART. 420.- La tutela es testamentaria, legítima o dativa.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+ART. 420. La tutela es autodesignada, testamentaria, legítima o dativa.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+ART. 420 BIS.- Toda persona mayor de edad capaz, puede designar al tutor o tutores que deberán encargarse de su persona y, en su caso, de su patrimonio, como al curador en previsión de encontrarse en los supuestos del artículo 410 fracciones II, III y IV de este Código.
+
+La designación de tutor o curador debe hacerse ante notario e inscribirse en escritura pública, y deberá contener expresamente, todas las reglas a las que se sujetará el tutor o curador. Esta designación es revocable en cualquier momento mediante las mismas formalidades.
+
+La persona designada no está obligada a aceptar el cargo, aunque no tenga excusa para ello, pero si lo acepta, deberá permanecer en él un año cuando menos, pasado el cual podrá solicitar al juez que se le releve del mismo.
 
 ART. 421.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va quedar sujeta a ella.
 
@@ -2281,7 +2291,9 @@ ART. 440.- El adoptante que ejerza la patria potestad tiene derecho de nombrar t
 
 ART. 441.- Ha lugar a tutela legítima:
 
-I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Cuando no hay quien ejerza la patria potestad; tutor autodesignado, ni testamentario;
 
 II.- Cuando deba nombrarse tutor por causa de divorcio.
 
@@ -2331,7 +2343,9 @@ ART. 453.- Los responsables de las casas de asistencias, públicas y privadas do
 
 ART. 454.- La tutela dativa tiene lugar:
 
-I.- Cuando no hay tutor testamentario ni persona a quien, conforme a la Ley, corresponda la tutela legítima;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+I.- Cuando no hay tutor autodesignado, testamentario, ni persona a quien, conforme a la ley, corresponda la tutela legítima;
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 442.
 
@@ -7899,7 +7913,11 @@ El mandato que implica el ejercicio de una profesión se presume aceptado cuando
 
 La aceptación puede ser expresa o tácita. Aceptación tácita es todo acto en ejecución de un mandato.
 
-ART. 2378.- Pueden ser objeto del mandato todos los actos ilícitos para los que la Ley no exige la intervención personal del interesado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+ART. 2378.- Puede ser objeto del mandato todos los actos lícitos para los que la ley no exige la intervención personal del interesado.
+
+El mandato habrá de subsistir aún cuando el mandante devengue incapaz, si éste así lo dispuso en su otorgamiento; asimismo, podrá tomar decisiones sobre el tratamiento médico y el cuidado de la salud del mandante, aún en aquellos casos en que éste haya quedado incapaz, si para ello hubiere sido expresamente autorizado por el mandante. Este mandato podrá ser revocado en cualquier momento por el mandante capaz. De igual manera, podrá ser revocado por el tutor en caso de que el mandante devengue incapaz, con las formalidades previstas en la ley.
 
 ART. 2379.- Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
@@ -7935,7 +7953,11 @@ I.- Cuando sea general;
 
 II.- Cuando el interés del negocio para que se confiere llegue a un mil pesos o exceda de esa cantidad;
 
-III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
+III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- En el supuesto del párrafo segundo del artículo 2378 de este Código.
 
 ART. 2386.- El mandato deberá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a mil pesos.
 
@@ -8087,7 +8109,9 @@ II.- Por la renuncia del mandatario;
 
 III.- Por la muerte del mandante o del mandatario;
 
-IV.- Por la interdicción de uno u otro;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+IV.- Por la interdicción de uno u otro, excepto que hubiere sido otorgado en los términos del segundo párrafo del artículo 2378 de este Código, y cuando el mandato se hubiera otorgado con la mención expresa de que habría de subsistir aún cuando el mandante devengue incapaz;
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fué concedido;
 
@@ -9910,3 +9934,9 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
