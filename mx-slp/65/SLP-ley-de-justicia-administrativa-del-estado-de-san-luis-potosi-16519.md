@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2001-10-01"
+last_updated: "2007-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -1017,6 +1017,10 @@ Para declarar o no la nulidad o anulabilidad de un acto administrativo, el Tribu
 
 Las sentencias definitivas deberán reconocer total o parcialmente la legalidad y validez de la resolución o acto impugnado; declarar total o parcialmente la nulidad de los mismos y de las consecuencias que de éstos se deriven, o decretar la nulidad del acto o resolución modificándolos para determinado efecto, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplir, salvo cuando se trate de facultades discrecionales.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+En los juicios en que se reclame la indemnización en los términos de la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí, en la sentencia se determinará, en su caso, la existencia de responsabilidad patrimonial a cargo de la entidad demandada, y el derecho del reclamante a la indemnización, fijándose el monto que ha de pagarse, conforme a los lineamientos de esa ley.
+
 ###### ARTICULO 97.
 
 De ser favorable la sentencia al actor, ésta dejará sin efecto el acto impugnado y las autoridades responsables quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieren sido indebidamente afectados o desconocidos, en los términos que se establezca.
@@ -1028,6 +1032,10 @@ Cuando se decrete la nulidad de una resolución fiscal o administrativa favorabl
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2001)</small>
 
 Cuando se trate de una sentencia favorable a la autoridad en los juicios promovidos por ésta en términos de la fracción VI del artículo 19 de esta Ley, el Tribunal comunicará inmediatamente la misma a la actora para los efectos que resulten conforme a lo determinado en la propia sentencia y en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2007)</small>
+
+El cumplimiento de las sentencias es de orden público e interés general, por lo tanto, todas las autoridades que por su competencia o funciones deban intervenir en su ejecución, aun que no hayan tenido el carácter de demandadas en el juicio, estarán obligadas a su cumplimiento y les serán aplicables las disposiciones del Capítulo XII de esta Ley.
 
 ###### ARTICULO 98.
 
@@ -1344,3 +1352,9 @@ PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en
 SEGUNDO. Los procedimientos contenciosos administrativos que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
 
 TERCERO. Se derogan las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, de la Ley de Adquisiciones del Estado de San Luis Potosí y de la Ley de Obra Pública del Estado de San Luis Potosí, y de los demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a partir de su entrada en vigor.
