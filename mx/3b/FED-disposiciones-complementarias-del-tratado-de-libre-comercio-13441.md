@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2007-09-10"
+last_updated: "2007-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,45 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS
+ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECEN LAS REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 10 de septiembre de 2007.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de septiembre de 2007.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los capítulos III, VII y XX del Tratado de Libre Comercio de América del Norte; artículos 60 de la Convención de Viena sobre el Derecho de los Tratados; 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 16, 17, 20, 21, 23 y 24 de la Ley de Comercio Exterior; 17, 18, 19, 20, 21, 22, 26, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y 16 del Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, y
+EDUARDO SOJO GARZA ALDAPE, Secretario de Economía, con fundamento en los artículos 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 5o. fracciones III, IV, VI y X, 9o., 10 y 25 de la Ley de Comercio Exterior; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado por el Senado de la República el 22 de noviembre de 1993, según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre de 1993, cuyo decreto de promulgación fue publicado en el mismo órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que el Anexo 311 del Tratado de Libre Comercio de América del Norte (TLCAN) prevé la obligación de las Partes de establecer reglas de marcado para determinar cuándo un bien podrá ser considerado como “bien de una Parte”, para los efectos de los Anexos 300-B, 302.2 y 311 del Tratado, así como para cualquier otro propósito que las Partes acuerden;
 
-Que el Anexo 703.2 del TLCAN establece el régimen de transición en materia de comercio de azúcares y jarabes entre México y los Estados Unidos de América hasta llegar al libre comercio el 1 de enero de 2008;
+Que el 7 de enero de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, modificado por los diversos dados a conocer en el mismo órgano informativo el 24 de septiembre de 1997 y el 9 de julio de 2002;
 
-Que existe una disputa entre México y los Estados Unidos de América relativa al cumplimiento de este último con sus obligaciones establecidas en el TLCAN de permitir el acceso a su mercado al azúcar mexicano;
+Que como resultado de los trabajos técnicos desarrollados por el Grupo de Trabajo sobre Reglas de Origen del TLCAN, se han efectuado modificaciones al Anexo 401 del TLCAN a fin de atender las nuevas necesidades de la industria mexicana y fomentar la inversión, el empleo y la competitividad de las exportaciones, por lo que es necesario actualizar las reglas de marcado antes mencionadas en función de dichas modificaciones, y
 
-Que por tal motivo México inició un procedimiento de solución de controversias conforme a las disposiciones pertinentes del TLCAN. La disputa no ha sido resuelta, entre otras cosas, porque, no obstante que México solicitó el establecimiento de un panel al amparo del Capítulo XX del TLCAN, habiendo previamente satisfecho todos los requisitos previstos en el mismo, los Estados Unidos de América se han negado a designar panelistas, según lo exige el TLCAN;
+Que el 28 de junio de 2007 la Comisión de Comercio Exterior, de conformidad con lo previsto en la Ley de Comercio Exterior, aprobó la modificación del Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y modificado el 24 de septiembre de 1997 y el 9 de julio de 2002, con objeto de reflejar en este Acuerdo las modificaciones al Anexo 401 del TLCAN, he tenido a bien expedir el siguiente:
 
-Que en este contexto, el 27 de julio de 2006 los Gobiernos de México y los Estados Unidos de América llegaron a un acuerdo que establece ciertas condiciones para el comercio bilateral de edulcorantes que contribuirá a facilitar la transición al libre comercio a partir del 1 de enero de 2008, pero también reconoce que la disputa entre ambos países continúa sin resolverse, aunque el acuerdo contribuye a lograr este objetivo;
-
-Que entre los acuerdos alcanzados, se prevé el otorgamiento por parte de México de un trato libre de arancel para 250,000 toneladas métricas (base seca) de fructosa originaria de los Estados Unidos de América durante el año comercial que inicia el 1 de octubre de 2006 y, durante los primeros tres meses del año comercial que inicia el 1 de octubre de 2007, una cantidad de no menos de 175,000 toneladas métricas (base seca) de fructosa salvo que los Estados Unidos de América y México determinen conjuntamente mantener esa cantidad en 250,000 toneladas métricas (base seca);
-
-Que el 31 de diciembre de 2002 se publicó en el Diario Oficial de la Federación el Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte;
-
-Que el 29 de septiembre de 2006 se publicó en el Diario Oficial de la Federación el Decreto que modifica el diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte para establecer un arancel cupo a la importación de la fructosa originaria de los Estados Unidos de América clasificada en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
-
-Que de conformidad con el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía, publicado en el Diario Oficial de la Federación el 9 de noviembre de 2005 y sus modificaciones, las mercancías establecidas en las fracciones arancelarias 1702.40.99, 1702.60.01, 1702.60.02 y 1702.60.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación están sujetas al requisito de permiso previo de importación;
-
-Que el 5 de octubre de 2006 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios;
-
-Que el artículo tercero transitorio de dicho Acuerdo establece que en caso de que el monto del cupo que se aplicará en el periodo del 1 de octubre al 31 de diciembre de 2007 varíe, la Secretaría de Economía lo dará a conocer a través de publicación en el Diario Oficial de la Federación;
-
-Que los Gobiernos de México y de los Estados Unidos de América, acordaron que México otorgará un trato libre de arancel a 175,000 toneladas métricas de fructosa (base seca) originaria de los Estados Unidos de América durante el periodo de octubre-diciembre de 2007;
-
-Que corresponde a la Secretaría de Economía dar seguridad jurídica en la aplicación de los criterios y requisitos para otorgar permisos previos, basándose en los principios de transparencia, certidumbre, mejora regulatoria y simplificación, y
-
-Que la Comisión de Comercio Exterior opinó favorablemente la medida a que se refiere el presente ordenamiento, he tenido a bien expedir el siguiente
-
-ACUERDO QUE MODIFICA AL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR FRUCTOSA ORIGINARIA DE LOS ESTADOS UNIDOS DE AMERICA Y SUS CRITERIOS
+ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECEN LAS REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO PRIMERO.
 
@@ -66,141 +46,1037 @@ El incremento al cupo mínimo para importar en 2007, leche en polvo originaria d
 
 ###### ARTICULO UNICO.
 
-Se modifica el artículo 1 fracción II del Acuerdo por el que se da a conocer el cupo para importar fructosa originaria de los Estados Unidos de América y sus criterios, publicado en el Diario Oficial de la Federación el 5 de octubre de 2006, para quedar como sigue:
+Se modifican en el Anexo de Reglas específicas de marcado de país de origen del Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuando una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus reformas publicadas en el mismo órgano informativo el 24 de septiembre de 1997 y el 9 de julio de 2002, las siguientes reglas:
 
-### Capítulo 3: Eliminar la regla de origen aplicable a la partida 03.01-03.07 y reemplazarla con las siguientes reglas:
+ANEXO DE REGLAS ESPECIFICAS
 
-03.01- 03.04 Un cambio a la partida 03.01 a 03.04 de cualquier otro Capítulo.
+REGLAS ESPECIFICAS DE MARCADO DE PAIS DE ORIGEN
 
-0305.10-0305.30 Un cambio a bienes salados o secos de la subpartida 0305.10 a 0305.30 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo, siempre que un bien de la subpartida 0305.20 a 0305.30 que haya sufrido un proceso de salado tenga un contenido mínimo de sal de 18 por ciento; o
+### Capítulo 9: Eliminar la regla de marcado aplicable al Capítulo 9 y reemplazarla con la siguiente regla:. 09.01 Un cambio a la partida 09.01 de cualquier
 
-Un cambio a cualquier otro bien de la subpartida 0305.10 a 0305.30 de cualquier otro Capítulo.
+otro capítulo.
 
-0305.41-0305.49 Un cambio a la subpartida 0305.41 a 0305.49 de cualquier otro Capítulo.
+0902.10-0902.40 Un cambio a la subpartida 0902.10 a
 
-0305.51 Un cambio a la subpartida 0305.51 de cualquier otra subpartida.
+0902.40 de cualquier otra subpartida,
 
-0305.59 Un cambio a Melanogrammus aeglefinus de la subpartida 0305.59 de cualquier otra subpartida; o
+incluyendo otra subpartida dentro del
 
-Un cambio a cualquier otro bien de la subpartida 0305.59 de cualquier otro Capítulo.
+grupo.
 
-0305.61 Un cambio a la subpartida 0305.61 de cualquier otro Capítulo.
+09.03 Un cambio a la partida 09.03 de cualquier
 
-0305.62 Un cambio a la subpartida 0305.62 de cualquier otra subpartida, siempre que el bien tenga un contenido mínimo de sal de 18 por ciento.
+otro capítulo.
 
-0305.63 Un cambio a la subpartida 0305.63 de cualquier otro Capítulo.
+0904.11 Un cambio a la subpartida 0904.11 de
 
-0305.69 Un cambio a Pollachius virens o Melanogrammus aeglefinus de la subpartida 0305.69 de cualquier otra subpartida, siempre que el bien tenga un contenido mínimo de sal de 18 por ciento; o
+cualquier otro capítulo.
 
-Un cambio a cualquier otro bien de la subpartida 0305.69 de cualquier otro Capítulo.
+0904.12 Un cambio a la subpartida 0904.12 de
 
-0306.11-0306.14 Un cambio a la subpartida 0306.11 a 0306.14 de cualquier otro Capítulo.
+cualquier otra subpartida.
 
-0306.19 Un cambio a la subpartida 0306.19 de cualquier otra subpartida, excepto de la subpartida 0306.29.
+0904.20 Un cambio a la subpartida 0904.20 de
 
-0306.21-0306.22 Un cambio a crustáceos secos de la subpartida 0306.21 a 0306.22, pelados o sin pelar, de crustáceos de la misma subpartida o cualquier otro Capítulo; o
+cualquier otro capítulo.
 
-Un cambio a cualquier otro bien de la subpartida 0306.21 a 0306.22 de cualquier otro Capítulo.
+09.05 Un cambio a la partida 09.05 de cualquier
 
-0306.23 Un cambio a la subpartida 0306.23 de cualquier otro Capítulo.
+otro capítulo.
 
-0306.24 Un cambio a cangrejos secos de la subpartida 0306.24, pelados o sin pelar, de cangrejos de la misma subpartida o cualquier otro Capítulo; o
+0906.10 Un cambio a la subpartida 0906.10 de
 
-Un cambio a cualquier otro bien de la subpartida 0306.24 de cualquier otro Capítulo.
+cualquier otro capítulo.
 
-0306.29 Un cambio a la subpartida 0306.29 de cualquier otra subpartida, excepto de la subpartida 0306.19.
+0906.20 Un cambio a la subpartida 0906.20 de
 
-0307.10-0307.99 Un cambio a bienes secos de la subpartida 0307.10 a 0307.99 de cualquier otro bien de la subpartida 0307.10 a 0307.99 o cualquier otro Capítulo;
+cualquier otra subpartida.
 
-Un cambio a harina, polvo y “pellets” de la subpartida 0307.99 de cualquier otra subpartida; o
+09.07 Un cambio a un bien de la partida 09.07
 
-Un cambio a cualquier otro bien de la subpartida 0307.10 a 0307.99 de cualquier otro Capítulo.
+de cualquier otro bien de dicha partida o
 
-Hierbas y Condimentos:
+de cualquier otro capítulo.
 
-Mejorana, Col Rizada y Cilantro
+0908.10-0909.50 Un cambio a un bien de la subpartida
 
-### Capítulo 7, 0712.90: Eliminar la regla de origen aplicable a la partida 07.01-07.14 y reemplazarla con las siguientes reglas:
+0908.10 a 0909.50 de cualquier otro bien
 
-07.01-07.11 Un cambio a la partida 07.01 a 07.113 de cualquier otro Capítulo.
+de dicha subpartida o de cualquier otro
 
-0712.10-0712.20 Un cambio a la subpartida 0712.10 a 0712.20 de cualquier otro Capítulo.
+capítulo.
 
-0712.90 Un cambio a mejorana, col rizada o cilantro, triturado o pulverizado, de la subpartida 0712.90 de mejorana, col rizada o cilantro, sin triturar o pulverizar, de la subpartida 0712.90 o cualquier otro Capítulo; o
+0910.10 Un cambio a un bien de la subpartida
 
-Un cambio a cualquier otro bien de la subpartida 0712.90 de cualquier otro Capítulo.
+0910.10 de cualquier otro bien de dicha
 
-07.13-07.14 Un cambio a la partida 07.13 a 07.14 de cualquier otro Capítulo.
+subpartida o de cualquier otro capítulo.
 
-Pimienta de Jamaica
+0910.20 Un cambio a la subpartida 0910.20 de
 
-### Capítulo 9, 0904.20: Eliminar la regla de origen aplicable a la subpartida 0904.20 y reemplazarla con las siguientes reglas:
+cualquier otro capítulo.
 
-0904.20 Un cambio a pimienta de jamaica, triturada o pulverizada, de la subpartida 0904.20 de pimienta de jamaica, sin triturar o pulverizar, de la subpartida 0904.20 o cualquier otro Capítulo; o
+0910.30 Un cambio a un bien de la subpartida
 
-Un cambio a cualquier otro bien de la subpartida 0904.20 de cualquier otro Capítulo.
+0910.30 de cualquier otro bien de dicha
 
-Tomillo; Hojas de Laurel
+subpartida o de cualquier otro capítulo.
 
-### Capítulo 9, 0910.40: Eliminar la regla de origen aplicable a la subpartida 0910.40 y reemplazarla con las siguientes reglas:
+0910.40 Un cambio a la subpartida 0910.40 de
 
-0910.40 Un cambio a un bien, triturado o pulverizado, de la subpartida 0910.40 de un bien, sin triturar o pulverizar, de la subpartida 0910.40 o cualquier otro Capítulo; o
+cualquier otro capítulo.
 
-Un cambio a cualquier otro bien de la subpartida 0910.40 de cualquier otro Capítulo.
+0910.50-0910.91 Un cambio a la subpartida 0910.50 a
 
-Semilla de apio; Albahaca, Romero y Salvia
+0910.91 de cualquier otra subpartida,
 
-### Capítulo 12, 1209.91: Eliminar la regla de origen aplicable a la partida 12.08-12.14 y reemplazarla con las siguientes reglas:
+incluyendo otra subpartida dentro del
 
-12.08 Un cambio a la partida 12.08 de cualquier otro Capítulo.
+grupo.
 
-1209.10-1209.30 Un cambio a la subpartida 1209.10 a 1209.30 de cualquier otro Capítulo.
+0910.99 Un cambio a semilla de eneldo, triturada
 
-1209.91 Un cambio a semillas de apio, trituradas o pulverizadas, de la subpartida 1209.91 de semilla de apio, sin triturar o pulverizar, de la subpartida 1209.91 o cualquier otro Capítulo; o
+o pulverizada, de la subpartida 0910.99 de
 
-Un cambio a cualquier otro bien de la subpartida 1209.91 de cualquier otro Capítulo.
+semilla de eneldo, sin triturar o pulverizar,
 
-1209.99 Un cambio a la subpartida 1209.99 de cualquier otro Capítulo.
+de la subpartida 0910.99 o de cualquier
 
-12.10 Un cambio a la partida 12.10 de cualquier otro Capítulo.
+otro capítulo; o
 
-1211.10-1211.40 Un cambio a la subpartida 1211.10 a 1211.40 de cualquier otro Capítulo.
+Un cambio a cualquier otro bien de la
 
-1211.90 Un cambio a albahaca, romero o salvia, triturada o pulverizada, de la subpartida 1211.90 de albahaca, romero o salvia, sin triturar o pulverizar, de la subpartida 1211.90 o cualquier otro Capítulo; o
+subpartida 0910.99 de cualquier otro
 
-Un cambio a cualquier otro bien de la subpartida 1211.90 de cualquier otro Capítulo.
+capítulo.
 
-12.12-12.14 Un cambio a la partida 12.12 a 12.14 de cualquier otro Capítulo.
+### Capítulo 12: Eliminar la regla de marcado aplicable al Capítulo 12 y reemplazarla con la siguiente regla:. 12.01-12.06 Un cambio a la partida 12.01 a 12.06 de
 
-Aceites de Pescado
+cualquier otro capítulo.
 
-### Capítulo 15, 1517.90: Eliminar la regla de origen aplicable a la partida 15.01-15.18 y reemplazarla con las siguientes reglas:
+1207.10-1207.60 Un cambio a la subpartida 1207.10 a
 
-15.01-15.16 Un cambio a la partida 15.01 a 15.16 de cualquier otro Capítulo, excepto de la partida 38.23.
+1207.60 de cualquier otro capítulo.
 
-1517.10 Un cambio a la subpartida 1517.10 de cualquier otro Capítulo, excepto de la partida 38.23.
+1207.91 Un cambio a un bien de la subpartida
 
-1517.90 Un cambio a cápsulas de aceite de pescado de la subpartida 1517.90 de aceite de pescado sin encapsular de la subpartida 1517.90 o cualquier otro Capítulo; o
+1207.91 de cualquier otro bien de dicha
 
-Un cambio a cualquier otro bien de la subpartida 1517.90 de cualquier otro Capítulo, excepto de la partida 38.23.
+subpartida o de cualquier otro capítulo.
 
-15.18 Un cambio a la partida 15.18 de cualquier otro Capítulo, excepto de la partida 38.23.
+1207.99 Un cambio a la subpartida 1207.99 de
 
-Preparaciones alimenticias, e.g., Mezclas Aromatizadas, Sopas, Salsas y Preparaciones
+cualquier otro capítulo.
 
-### Capítulo 21, 2103.90, 21.04, 2106.90: Eliminar la segunda regla de origen aplicable a la subpartida 2103.90 y la regla de origen aplicable a partida 21.04, fracción arancelaria 2106.90.dd y partida 21.06 y reemplazarla con las siguientes reglas:
+12.08-12.14 Un cambio a la partida 12.08 a 12.14
 
-2103.90 Un cambio a cualquier otro bien de la subpartida 2103.90 de levaduras de la subpartida 2106.90 o cualquier otra partida, excepto de cualquier otro bien de la partida 21.06.
+de cualquier otro capítulo.
 
-21.04 Un cambio a la partida 21.04 de levaduras de la subpartida 2106.90 o cualquier otra partida, excepto de cualquier otro bien de la partida 21.06.
+### Capítulo 13: Eliminar la regla de marcado aplicable al Capítulo 13 y reemplazarla con la siguiente regla:. 13.01 Un cambio a la partida 13.01 de cualquier
 
-21.06
+otro capítulo, excepto de concentrados
 
-2106.90.dd Un cambio a fracción arancelaria 2106.90.dd de levaduras de la subpartida 2102.10, 2102.20 o 2106.90 o cualquier otro Capítulo, excepto del Capítulo 4 o fracción arancelaria 1901.90.aa.
+de paja de adormidera de la subpartida
 
-21.06 Un cambio a cualquier otro bien de la partida 21.06 de levaduras de la subpartida 2102.10, 2102.20 o 2106.90 o cualquier otro Capítulo.
+2939.11.
 
-Aceites, Aceites de Petróleo y Betunes
+1302.11-1302.32 Un cambio a la subpartida 1302.11 a
+
+1302.32 de cualquier otro capítulo,
+
+excepto de concentrados de paja de
+
+adormidera de la subpartida 2939.11.
+
+1302.39 Un cambio a carragenina de la subpartida
+
+1302.39 de cualquier otro bien de dicha
+
+subpartida o de cualquier otro capítulo,
+
+siempre que el peso total de todos los
+
+materiales no originarios de la subpartida
+
+1302.39 no exceda el 50 por ciento del
+
+peso total del bien; o
+
+Un cambio a cualquier otro bien de la
+
+subpartida 1302.39 de cualquier otro
+
+capítulo, excepto de concentrados de
+
+paja de adormidera de la subpartida
+
+2939.11.
+
+22.08: Eliminar la regla de marcado aplicable a la partida 22.08 y reemplazarla con la siguiente regla:
+
+2208.20 Un cambio a la subpartida 2208.20 de
+
+cualquier otra partida, excepto de la
+
+fracción 2106.90.aa o 3302.10.aa.
+
+2208.30-2208.70 No se requiere cambio de clasificación
+
+arancelaria a la subpartida 2208.30 a
+
+2208.70, siempre que los ingredientes
+
+alcohólicos no originarios no constituyan
+
+más del 10 por ciento del contenido
+
+alcohólico del volumen del bien.
+
+2208.90 Un cambio a la subpartida 2208.90 de
+
+cualquier otra partida, excepto de la
+
+fracción 2106.90.aa o 3302.10.aa.
+
+2905.22-2925.49: Eliminar la regla de marcado aplicable a la subpartida 2905.22 a 2905.29 y reemplazarla con la siguiente regla:
+
+2905.22 Un cambio a la subpartida 2905.22 de
+
+alcohol alílico de la subpartida 2905.29 o
+
+de cualquier otra subpartida.
+
+2905.29 Un cambio a alcohol alílico de la
+
+subpartida 2905.29 de otros
+
+monoalcoholes no saturados de la
+
+subpartida 2905.29 o de cualquier otra
+
+subpartida: o
+
+un cambio a otros monoalcoholes no
+
+saturados de la subpartida 2905.29 de
+
+cualquier otra subpartida.
+
+2905.31-2905.49 Un cambio a la subpartida 2905.31 a
+
+2905.49 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro
+
+del grupo.
+
+41.04-41.06: Eliminar la regla de marcado aplicable a la partida 41.04 a 41.06 y reemplazarla con la siguiente regla:
+
+41.04 Un cambio a la partida 41.04 de cualquier
+
+otra partida.
+
+4105.10 Un cambio a la subpartida 4105.10 de
+
+cualquier otra partida.
+
+4105.30 Un cambio a la subpartida 4105.30 de
+
+la subpartida 4105.10 o de cualquier
+
+otra partida.
+
+4106.21 Un cambio a la subpartida 4106.21 de
+
+cualquier otra partida.
+
+4106.22 Un cambio a la subpartida 4106.22 de
+
+la subpartida 4106.21 o de cualquier
+
+otra partida.
+
+4106.31 Un cambio a la subpartida 4106.31 de
+
+cualquier otra partida.
+
+4106.32 Un cambio a la subpartida 4106.32 de la
+
+subpartida 4106.31 o de cualquier otra
+
+partida.
+
+4106.40 Un cambio a cueros o pieles curtidos
+
+de la subpartida 4106.40 en estado
+
+húmedo (incluido el “wet-blue”) de
+
+cualquier otra partida; o
+
+un cambio a cueros o pieles de la
+
+subpartida 4106.40 en “crust” (crosta) de
+
+cueros o pieles curtidos de la subpartida
+
+4106.40 en estado húmedo
+
+(incluido el “wet-blue”) o de cualquier
+
+otra partida.
+
+4106.91 Un cambio a la subpartida 4106.91 de
+
+cualquier otra partidaº.
+
+4106.92 Un cambio a la subpartida 4106.92 de
+
+la subpartida 4106.91 o de cualquier
+
+otra partida.
+
+### Capítulo 45: Eliminar la regla de marcado aplicable al Capítulo 45 y reemplazarla con la siguiente regla:. 45.01-45.04 Un cambio a la partida 45.01 a 45.04 de
+
+cualquier partida, incluyendo otra partida
+
+dentro del grupo.
+
+56.06: Eliminar la regla de marcado aplicable a la partida 56.06 y reemplazarla con la siguiente regla:
+
+56.06 Un cambio a la partida 56.06 de hilados
+
+rígidos(10) de la subpartida 5402.41 o
+
+de cualquier otra partida, excepto de
+
+la partida 50.04 a 50.05, 51.06 a 51.09,
+
+52.04 a 52.06, 53.06 a 53.08, 54.01,
+
+subpartida 5402.10 a 5402.39, cualquier
+
+otro bien de la subpartida 5402.41,
+
+subpartida 5402.42 a 5405.00, y 55.08
+
+a 55.10.
+
+(10) Para efecto de esta regla el término “hilados rígidos” se refiere exclusivamente a aquellos que son semiopacos no texturados, multifilamentos no torcidos o con una torsión no mayor a 50 vueltas por metro de poliamida de tipo 66 de 7 denier/5 filamentos, 10 denier/7 filamentos o 12 denier/5 filamentos de la subpartida 5402.41.
+
+71.06-71.12: Eliminar la regla de marcado aplicable a la partida 71.06 a 71.12 y reemplazarla con la siguiente regla:
+
+7106.10-7106.92 Un cambio a la subpartida 7106.10 a
+
+7106.92 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro del
+
+grupo; o
+
+No se requiere cambio de clasificación
+
+arancelaria a la subpartida 7106.91,
+
+habiendo o no cambios de cualquier
+
+otra subpartida, siempre que los
+
+materiales no originarios hayan
+
+sufrido un proceso de aleación,
+
+separación electrolítica, química
+
+o térmica.
+
+71.07 Un cambio a la partida 71.07 de cualquier
+
+otro capítulo.
+
+7108.11-7108.20 Un cambio a la subpartida 7108.11 a
+
+7108.20 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro del
+
+grupo; o
+
+No se requiere cambio de clasificación
+
+arancelaria a la subpartida 7108.12,
+
+habiendo o no cambios de cualquier
+
+otra subpartida, siempre que los
+
+materiales no originarios hayan sufrido
+
+un proceso de aleación, separación
+
+electrolítica, química o térmica.
+
+71.09 Un cambio a la partida 71.09 de cualquier
+
+otro capítulo.
+
+7110.11-7110.49 Un cambio a la subpartida 7110.11
+
+a 7110.49 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro del grupo.
+
+71.11 Un cambio a la partida 71.11 de cualquier
+
+otro capítulo.
+
+71.12 Un cambio a la partida 71.12 de cualquier
+
+otra partida.
+
+### Capítulo 78: Eliminar la regla de marcado aplicable al Capítulo 78 y reemplazarla con la siguiente regla:. 78.01-78.02 Un cambio a la partida 78.01 a 78.02 de
+
+cualquier otra partida, incluyendo otra
+
+partida dentro del grupo.
+
+78.03 Un cambio a la partida 78.03 de cualquier
+
+otra partida; o
+
+un cambio a alambre de la partida 78.03
+
+de cualquier otro bien de dicha partida,
+
+habiendo o no cambios de cualquier otra
+
+partida, siempre que la sección transversal
+
+de las barras no originarias se reduzca
+
+al menos en 50%.
+
+7804.11-7804.20 Un cambio a la subpartida 7804.11 a
+
+7804.20 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro
+
+del grupo;
+
+un cambio a hojas de espesor inferior o
+
+igual a 0.15 mm (sin incluir el soporte)
+
+de la subpartida 7804.11 de cualquier
+
+otro bien de dicha subpartida, habiendo
+
+o no cambios de cualquier otra
+
+subpartida; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: polvo excepto de
+
+laminillas; laminillas excepto de polvo;
+
+placas excepto de hojas o tiras; las demás
+
+hojas excepto de placas o tiras; tiras
+
+excepto de hojas o placa.
+
+78.05-78.06 Un cambio a la partida 78.05 a 78.06 de
+
+cualquier otra partida, incluyendo otra
+
+partida dentro del grupo; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: tubos excepto de
+
+tubería; tubería, excepto de tubos;
+
+accesorios de tubos o tubería excepto
+
+de tubos o tuberías; cables/cable
+
+trenzado/bandas chapadas.
+
+79.01-79.06: Eliminar la regla de marcado aplicable a la partida 79.01 a 79.06 y reemplazarla con la siguiente regla:
+
+79.01-79.03 Un cambio a la partida 79.01 a 79.03
+
+de cualquier otra partida, incluyendo
+
+otra partida dentro del grupo; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: matas; cinc en bruto;
+
+polvo excepto de laminillas; laminillas
+
+excepto de polvo; barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto
+
+de alambrón o barras; alambre excepto
+
+de alambrón; placas excepto de hojas o
+
+tiras; hojas excepto de placas o tiras;
+
+tiras excepto de hojas o placas, chapas,
+
+excepto de hojas o placas; tubos, excepto
+
+de tubería; tubería excepto de tubos;
+
+accesorios de tubo o tubería excepto de
+
+tubos o tuberías.
+
+79.04 Un cambio a la partida 79.04 de cualquier
+
+otra partida;
+
+un cambio a alambre de la partida 79.04
+
+de cualquier otro bien de dicha partida,
+
+habiendo o no cambios de cualquier otra
+
+partida, siempre que la sección transversal
+
+de las barras no originarias se reduzca al
+
+menos en 50%; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: matas; cinc en bruto;
+
+polvo excepto de laminillas; laminillas
+
+excepto de polvo; barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto
+
+de alambrón o barras; placas excepto
+
+de hojas o tiras; hojas excepto de placas
+
+o tiras; tiras excepto de hojas o placas,
+
+chapas, excepto de hojas o placas; tubos,
+
+excepto de tubería; tubería excepto de
+
+tubos; accesorios de tubo o tubería excepto
+
+de tubos o tuberías.
+
+79.05 Un cambio a la partida 79.05 de cualquier
+
+otra partida;
+
+un cambio a hojas de espesor inferior
+
+o igual a 0.15 mm (sin incluir el soporte)
+
+de la partida 79.05 de cualquier otro
+
+bien de dicha partida, habiendo o no
+
+cambios de cualquier otra partida; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: matas; cinc en bruto;
+
+polvo excepto de laminillas; laminillas
+
+excepto de polvo; barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto
+
+de alambrón o barras; alambre excepto
+
+de alambrón; placas excepto de hojas
+
+o tiras; las demás hojas excepto de
+
+placas o tiras; tiras excepto de hojas
+
+o placas, chapas, excepto de hojas
+
+o placas; tubos, excepto de tubería;
+
+tubería excepto de tubos; accesorios
+
+de tubo o tubería excepto de tubos
+
+o tuberías.
+
+79.06 Un cambio a la partida 79.06 de
+
+cualquier otra partida, incluyendo
+
+otra partida dentro del grupo; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: matas; cinc en bruto;
+
+polvo excepto de laminillas; laminillas
+
+excepto de polvo; barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto
+
+de alambrón o barras; alambre excepto
+
+de alambrón; placas excepto de hojas
+
+o tiras; hojas excepto de placas o tiras;
+
+tiras excepto de hojas o placas, chapas,
+
+excepto de hojas o placas; tubos, excepto
+
+de tubería; tubería excepto de tubos;
+
+accesorios de tubo o tubería excepto de
+
+tubos o tuberías.
+
+80.02-80.04: Eliminar la regla de marcado aplicable a la partida 80.02 a 80.04 y reemplazarla con la siguiente regla:
+
+80.02 Un cambio a la partida 80.02 de cualquier
+
+otra partida; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto de
+
+alambrón o barras; alambre, excepto
+
+de alambrón; placas excepto de hojas
+
+o tiras; hojas excepto de placas o tiras;
+
+tiras excepto de hojas o placas.
+
+80.03 Un cambio a la partida 80.03 de
+
+cualquier otra partida;
+
+un cambio a alambre de la partida 80.03
+
+de cualquier otro bien de dicha partida,
+
+habiendo o no cambios de cualquier otra
+
+partida, siempre que la sección transversal
+
+de las barras no originarias se reduzca
+
+al menos en 50%; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto
+
+de alambrón o barras; placas excepto
+
+de hojas o tiras; hojas excepto de placas
+
+o tiras; tiras excepto de hojas o placas.
+
+80.04 Un cambio a la partida 80.04 de cualquier
+
+otra partida; o
+
+un cambio a los siguientes bienes,
+
+incluyendo cambios desde los materiales
+
+de la misma partida: barras excepto de
+
+alambrón o perfiles; alambrón excepto
+
+de barras o perfiles; perfiles excepto de
+
+alambrón o barras; alambre, excepto
+
+de alambrón; placas excepto de hojas
+
+o tiras; hojas excepto de placas o tiras;
+
+tiras excepto de hojas o placas.
+
+8504.10-8504.90: Eliminar la regla de marcado aplicable a la subpartida 8504.10 a 8504.90 y reemplazarla con la siguiente regla:
+
+8504.10-8504.34 Un cambio a la subpartida 8504.10
+
+a 8504.34 de cualquier subpartida
+
+fuera del grupo, excepto de la subpartida
+
+8504.40 a 8504.50.
+
+8504.40 Un cambio a controladores de velocidad
+
+para motores eléctricos de la subpartida
+
+8504.40 de cualquier otra subpartida;
+
+8504.50 Un cambio a cualquier otro bien de la
+
+subpartida 8504.40 de cualquier otra
+
+subpartida, excepto de la subpartida
+
+8504.10 a 8504.50.
+
+Un cambio a la subpartida 8504.50
+
+de cualquier otra subpartida, excepto
+
+de la subpartida 8504.10 a 8504.40.
+
+8504.90 Un cambio a circuitos modulares
+
+para bienes de las subpartidas
+
+8504.40 y 8504.90 de cualquier
+
+otra fracción arancelaria;
+
+Un cambio a cualquier otro bien de
+
+la subpartida 8504.90 de cualquier
+
+otra partida.
+
+8506.90: Eliminar la regla de marcado aplicable a la subpartida 8506.90 y reemplazarla con la siguiente regla:
+
+8506.90 Un cambio a la subpartida 8506.90 de
+
+cualquier otra partida, excepto de
+
+desperdicios o desechos de pilas,
+
+baterías de pilas o acumuladores,
+
+eléctricos; pilas, baterías de pilas o
+
+acumuladores, eléctricos, inservibles
+
+de la subpartida 8548.10.
+
+8507.90: Eliminar la regla de marcado aplicable a la subpartida 8507.90 y reemplazarla con la siguiente regla:
+
+8507.90 Un cambio a la subpartida 8507.90 de
+
+cualquier otra partida, excepto de
+
+desperdicios o desechos de pilas,
+
+baterías de pilas o acumuladores,
+
+eléctricos; pilas, baterías de pilas o
+
+acumuladores, eléctricos, inservibles
+
+de la subpartida 8548.10.
+
+8516.10-8516.90: Eliminar la regla de marcado aplicable a la subpartida 8516.10 a 8516.90 y reemplazarla con la siguiente regla:
+
+8516.10-8516.80 Un cambio a la subpartida 8516.10 a
+
+8516.80 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro
+
+del grupo.
+
+8516.90 Un cambio a la subpartida 8516.90 de
+
+cualquier otra partida.
+
+8518.30: Eliminar la regla de marcado aplicable a la subpartida 8518.30 y reemplazarla con la siguiente regla:
+
+8518.30 Un cambio a microteléfonos de la
+
+subpartida 8518.30 de cualquier otra
+
+fracción arancelaria.
+
+Un cambio a los demás bienes de la
+
+subpartida 8518.30 de cualquier otra
+
+partida.
+
+85.28: Eliminar la regla de marcado aplicable a la partida 85.28 y reemplazarla con la siguiente regla:
+
+8528.12 Un cambio a la subpartida 8528.12
+
+de aparatos receptores de televisión
+
+incompletos o sin terminar (incluso los
+
+ensambles compuestos de todas las
+
+partes especificadas en la Nota aclaratoria
+
+4 del Capítulo 85 más una fuente de poder),
+
+que no incorporen tubos de rayos catódicos,
+
+pantalla plana o pantalla similar de la
+
+subpartida 8528.12 o de cualquier otra
+
+subpartida.
+
+8528.13 Un cambio a la subpartida 8528.13 de
+
+cualquier otra subpartida.
+
+8528.21 Un cambio a la subpartida 8528.21 de
+
+videomonitores incompletos o sin terminar
+
+(incluso los ensambles compuestos de
+
+las partes correspondientes entre las
+
+especificadas en los subpárrafos (a), (b),
+
+(c) y (e) en la nota aclaratoria 4 del
+
+### capítulo 85 más una fuente de poder),. que no incorporen tubos de rayos
+
+catódicos, pantalla plana o pantalla
+
+similar de la subpartida 8528.21 o
+
+de cualquier otra subpartida.
+
+8528.22 Un cambio a la subpartida 8528.22
+
+de cualquier otra subpartida.
+
+8528.30 Un cambio a la subpartida 8528.30 de
+
+videoproyectores incompletos o sin
+
+terminar (incluso los ensambles
+
+compuestos de las partes
+
+correspondientes entre las especificadas
+
+en los subpárrafos (a), (b), (c) y (e)
+
+en la Nota aclaratoria 4 del capítulo 85
+
+más una fuente de poder), que no
+
+incorporen tubos de rayos catódicos,
+
+pantalla plana o pantalla similar de la
+
+subpartida 8528.30 o de cualquier otra
+
+subpartida.
+
+9005.90: Eliminar la regla de marcado aplicable a la subpartida 9005.90 y reemplazarla con la siguiente regla:
+
+9005.90 Un cambio a la subpartida 9005.90 de
+
+cualquier otra partida.
+
+9007.91-9007.92: Eliminar la regla de marcado aplicable a la subpartida 9007.91 a 9007.92 y reemplazarla con la siguiente regla:
+
+9007.91 Un cambio a la subpartida 9007.91 de
+
+cualquier otra partida.
+
+9007.92 Un cambio a la subpartida 9007.92
+
+de cualquier otra partida, excepto de
+
+lentes de la partida 90.01 o lentes y
+
+partes para cámaras, proyectores
+
+ampliadores o reductores fotográficos
+
+de la partida 90.02.
+
+9008.90: Eliminar la regla de marcado aplicable a la subpartida 9008.90 y reemplazarla con la siguiente regla:
+
+9008.90 Un cambio a la subpartida 9008.90 de
+
+cualquier otra partida.
+
+9009.91-9009.99: Eliminar la regla de marcado aplicable a la subpartida 9009.91 a 9009.99 y reemplazarla con la siguiente regla:
+
+9009.91-9009.93 Un cambio a la subpartida 9009.91
+
+a 9009.93 de cualquier subpartida
+
+fuera del grupo, excepto partes que
+
+no sean reconocibles como concebidas
+
+exclusivamente para aparatos de fotocopia
+
+por sistema óptico y de termocopia
+
+de la subpartida 9009.99.
+
+9009.99 Un cambio a partes de fotocopiadoras
+
+de la subpartida 9009.12, especificadas
+
+en la nota 3 del capítulo 90, de la
+
+subpartida 9009.91, 9009.92 o 9009.93,
+
+partes que no sean reconocibles como
+
+concebidas exclusivamente para aparatos
+
+de fotocopia por sistema óptico y de
+
+termocopia de la subpartida 9009.99 o
+
+cualquier otra partida, siempre que al
+
+menos uno de los componentes de cada
+
+ensamble listados en la Nota 3 del
+
+### Capítulo 90 sea originario.. Un cambio a los demás bienes de la
+
+subpartida 9009.99 de cualquier otra
+
+subpartida.
+
+9013.90: Eliminar la regla de marcado aplicable a la subpartida 9013.90 y reemplazarla con la siguiente regla:
+
+9013.90 Un cambio a la subpartida 9013.90 de
+
+cualquier otra partida.
+
+95.01-95.06: Eliminar la regla de marcado aplicable a la partida 95.01 a 95.06 y reemplazarla con la siguiente regla:
+
+95.01 Un cambio a la partida 95.01 de cualquier
+
+otro capítulo.
+
+9502.10 Un cambio a la subpartida 9502.10 de
+
+cualquier otra subpartida, excepto de
+
+pieles para muñecas rellenas de la
+
+subpartida 9502.99.
+
+9502.91 Un cambio a la subpartida 9502.91 de
+
+cualquier otro capítulo.
+
+9502.99 Un cambio a la subpartida 9502.99 de
+
+cualquier otra partida, excepto de la
+
+subpartida 9503.41 a 9503.49.
+
+9503.10-9503.30 Un cambio a la subpartida 9503.10
+
+a 9503.30 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro del
+
+grupo.
+
+9503.41-9503.49 (1) Un cambio a la subpartida 9503.41
+
+a 9503.49 de cualquier otra partida; o un
+
+cambio a la subpartida 9503.41 a 9503.49
+
+de partes o accesorios de la subpartida
+
+9503.41 a 9503.49.
+
+(2) Un cambio a partes o accesorios de
+
+la subpartida 9503.41 a 9503.49, excepto
+
+de la partida 95.02, 61.11 o 62.09.
+
+9503.50-9503.60 Un cambio a la subpartida 9503.50 a
+
+9503.60 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro
+
+del grupo.
+
+9503.70-9503.90 Un cambio a la subpartida 9503.70 a
+
+9503.90 de cualquier otro capítulo.
+
+9504.10-9506.99 Un cambio a la subpartida 9504.10 a
+
+9506.99 de cualquier otra subpartida,
+
+incluyendo otra subpartida dentro
+
+del grupo.
 
 ###### ARTICULO TERCERO.
 
@@ -506,9 +1382,9 @@ III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisi
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 30 de agosto de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+México, D.F., a 8 de agosto de 2007.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
 
 ## TRANSITORIOS
 
