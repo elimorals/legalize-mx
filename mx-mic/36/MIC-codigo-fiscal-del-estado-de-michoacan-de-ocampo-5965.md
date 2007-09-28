@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2007-06-06"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -89,9 +89,11 @@ Créditos fiscales son las prestaciones económicas que tiene derecho a percibir
 
 La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Tesorería o por las oficinas que la misma autorice expresamente.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 8o.
 
-Los créditos o deudas entre los Gobiernos Estatal y Municipales, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren.
+Los créditos o deudas entre los Gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, Prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Tesorería General del Estado de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 9o.
 
@@ -303,17 +305,17 @@ I. El Gobernador del Estado;
 
 II. El Tesorero General;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 III. El Subtesorero General;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-IV. Los Directores de: Ingresos, Auditoría y Revisión Fiscal, Catastro y el Vocal Ejecutivo del Instituto Catastral y Registral;
+IV. Los Directores de: Ingresos, de Auditoria y Revisión Fiscal, de Catastro y el de Asuntos Jurídicos de la Tesorería General;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-V. Los Jefes de las Oficinas Recaudadoras dentro de sus respectivas jurisdicciones; y
+V. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisdicciones; y
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -333,17 +335,23 @@ IV. Crear nuevas administraciones y receptorías de rentas, cambiar el lugar de 
 
 V. Contraer obligaciones pecuniarias y obtener créditos, o avalar los que concerten los ayuntamientos y organismos públicos o descentralizados, siempre que fueren destinados a obras de beneficio colectivo en el Estado, de conformidad con las leyes de la materia;
 
-VI. Condonar o en su caso eximir total o parcialmente los créditos fiscales, cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de la actividad económica.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Condonar o en su caso eximir total o parcialmente los créditos fiscales, cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de la actividad económica, en el entendido de que el Gobernador del Estado no podrá condonar o en su caso eximir total o parcialmente los créditos fiscales derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo.
 
 Las disposiciones que al efecto se dicten, determinarán los créditos que se condonen, o en su caso se eximan, el importe o proporción de los beneficios, los sujetos que gozarán de los mismos, la región o la rama de actividad en la que producirán sus efectos, los requisitos que deban satisfacerse y el período al que se apliquen;
 
-VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; en el entendido de que el Gobernador del Estado no podrá condonar recargos y multas derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo;
 
 VIII. Acordar y hacer declaratorias correspondientes a las franquicias impositivas, de conformidad con las leyes fiscales respectivas;
 
 IX. Celebrar convenios con los contribuyentes para determinar el monto de los impuestos que deben pagar, siempre que impere una situación económica difícil de los sujetos para cubrir la totalidad de los créditos fiscales y que con tales convenios, se facilite el desarrollo de actividades que se traduzcan en mejoramiento económico y social de la Entidad;
 
-X. Conceder subsidios a los contribuyentes siempre y cuando el otorgamiento de éstos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Estado;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+X. Conceder subsidios a los contribuyentes siempre y cuando el otorgamiento de éstos coadyuve al desarrollo de las actividades económicas, culturales y sociales del Estado; en el entendido de que el Gobernador del Estado no podrá otorgar subsidios de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo;
 
 XI. Tramitar y resolver los asuntos y recursos que ante él se presenten, conforme a las leyes y reglamentos fiscales; y
 
@@ -497,29 +505,113 @@ III. Solicitar a la autoridad competente, se proceda por desobediencia a un mand
 
 La autoridad fiscal, podrá embargar precautoriamente los bienes o la negociación, cuando el contribuyente no garantice el cumplimiento de sus obligaciones, previamente a la determinación del crédito fiscal.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 39.
 
-Las autoridades fiscales del Estado a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales estarán facultados para:
+Las autoridades fiscales del Estado a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados, han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales estarán facultados para:
 
-I. Rectificar los errores aritméticos que aparezcan en los documentos;
+I. Rectificar los errores aritméticos omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que proporcionen en su domicilio, establecimiento o en las oficinas de las propias autoridades, datos, documentos o informes que requieran;
+II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que proporcionen en su domicilio, establecimiento o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, los datos, documentos o informes que se requieran;
 
-III. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
+III. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
-IV. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Tesorería tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial; y la propia Tesorería, a través de los abogados que designe, será coadyuvante del Ministerio Público, en los términos del Código Procesal Penal del Estado;
+IV. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales.
+
+Las actuaciones que practique la Tesorería tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial; y la propia Tesorería, a través de los abogados que designe, será coadyuvante del Ministerio Público, en los términos del Código Procesal Penal del Estado; y
+
+V. Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos, y revisar los datos, documentos o informes que se requieran.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 39-A.
+
+En la orden de visita, además de los requisitos a que se refiere el Artículo 36 de este Código, se deberá indicar:
+
+I. El lugar o lugares donde debe efectuarse la visita. El aumento de lugares a visitar deberá notificarse al visitado.
+
+II. El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
+
+III. Tratándose de las visitas domiciliarias a que se refiere el artículo 39 de este Código, las órdenes de visita deberán contener impreso el nombre del visitado.
+
+Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 39-B.
+
+En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
+
+I. La visita se realizará en el lugar o lugares señalados en la orden de visita.
+
+II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el visitado o su representante los esperen a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
+
+Si el contribuyente presenta aviso de cambio de domicilio después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio manifestado por el contribuyente y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten, salvo que en el domicilio anterior se verifique alguno de los supuestos establecidos en el artículo 14 de este Código, caso en el cual la visita se continuará en el domicilio anterior.
+
+III. Al iniciarse la visita en el domicilio fiscal los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos, si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 39-C.
+
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición los datos, documentos o informes que se requieran y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados, de los documentos los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita.
+
+Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, se certifiquen por los visitadores:
+
+I. El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
+
+II. No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+
+lll. Los datos anotados en los documentos o informes que se requieran, no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados dentro del plazo que señalen las disposiciones fiscales o cuando sean falsos o amparen operaciones inexistentes.
+
+IV. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso los datos, documentos o informes que se requieran sólo podrán recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+
+V. Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición los datos, documentos o informes que se requieran, correspondencia o contenido de cajas de valores.
+
+En el caso de que los visitadores obtengan copias certificadas de la documentación por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el articulo 39-D de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+###### ARTICULO 39-D.
+
+La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
+
+I. De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
+
+II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial cumpliendo al respecto con lo previsto en la fracción II del Artículo 39-B de este Código.
+
+lll. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+IV. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita.
+
+V. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
+
+VI. Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
+
+VII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la determinación del crédito fiscal correspondiente cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad o en los datos aportados por los particulares en las declaraciones complementarias que se presenten.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 40.
 
-Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos, se estará a lo siguiente:
+Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
 I. La solicitud se notificará en el domicilio manifestado ante la Tesorería, por la persona a quien va dirigida. Tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren;
 
-II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos; y
+II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los datos, informes o documentos;
 
-III. Los informes o documentos requeridos, deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
+III. Los datos, informes o documentos requeridos, deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
+
+IV. Cuando no hubiera observaciones o el contribuyente corrija totalmente su situación fiscal, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados.
 
 ###### ARTICULO 41.
 
@@ -531,15 +623,19 @@ Las autoridades fiscales que al ejercer las facultades de comprobación a que se
 
 Se tendrán por aceptados los hechos u omisiones contra los cuales el contribuyente o responsable solidario no se inconforme o respecto de los cuales no ofrezca pruebas para desvirtuarlos, en los términos del artículo 44 de este Código. El plazo para presentar la inconformidad se computará a partir del día siguiente al en que surta efectos la notificación del oficio.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 43.
 
 En caso de que con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, éstos tendrán los siguientes plazos para su presentación:
 
-I. Tres días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, cuando dichas pruebas sean de las que debe tener en su poder el contribuyente; y
+I. Los datos, documentos e informes solicitados en el curso de una visita, deberán presentarse de inmediato;
 
-II. Diez días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, en los demás casos.
+II. Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos, sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita; y,
 
-Los plazos a los que se refiere este artículo se podrán ampliar por las autoridades fiscales hasta por quince días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+III. Diez días contados a partir del siguiente a aquél en que se le notificó la solicitud respectiva, en los demás casos.
+
+Los plazos a los que se refiere este artículo se podrán ampliar por las autoridades fiscales hasta por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
 ###### ARTICULO 44.
 
@@ -677,23 +773,25 @@ I. El equivalente a 10 días de salario mínimo diario vigente en la región, a 
 
 II. El equivalente a 5 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones II y III.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 61.
 
 Son infracciones relacionadas con el ejercicio de las facultades de las autoridades fiscales, las siguientes:
 
-I. Impedir sin motivo legal, la práctica de visitas de inspección ordenadas por las autoridades fiscales y obstaculizarlas en cualquier forma;
+I. Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades.
 
-II. Negarse los contribuyentes o los terceros, a exhibir a los inspectores o las autoridades fiscales, los documentos y objetos que requieran en ejercicio de sus atribuciones, cuando estén obligados a hacerlo; y
+II. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
 
-III. Negarse los contribuyentes o los terceros, a proporcionar a los inspectores o a las autoridades fiscales, los datos e informaciones que soliciten en el ejercicio de sus atribuciones, proporcionándoselos falsos o incompletos o no proporcionándoselos dentro del plazo que se fije.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 62.
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de las autoridades a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I. De uno a tres tantos del monto de la contribución omitida, si hubo evasión de la misma y puede precisarse su monto; y
+I. Se aplicará una multa del 50% al 100% de las contribuciones omitidas a la comprendida en la fracción I.
 
-II. En caso contrario, se impondrán multas del equivalente a 30 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones I, II y III del artículo anterior.
+II. A la comprendida en la fracción II, se aplicará una multa equivalente a 100 días de salario mínimo diario vigente en la región.
 
 ###### ARTICULO 63.
 
@@ -1786,3 +1884,7 @@ P.O. 6 DE JUNIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+ARTÍCULO ÚNlCO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
