@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-52690
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-30"
-last_updated: "2006-12-30"
+last_updated: "2007-09-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2007
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Décima Sección al Periódico Oficial del Estado de Michoacán, el sábado 30 de diciembre de 2006.
 
@@ -433,7 +433,9 @@ L) Fondo de Apoyo Competitividad
 
 Ramas Productivas 38,713,976
 
-VIII. OTROS INGRESOS 947,205,524
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VIII. OTROS INGRESOS 4,447,205,524
 
 A) De Origen Estatal 114,799,506
 
@@ -491,7 +493,17 @@ Fuero Federal (Socorro
 
 de Ley) 20,663,930
 
-TOTAL INGRESOS 28,181'165'701
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+C) Empréstitos
+
+(Endeudamiento Neto
+
+Adicional) 3,500'000'000 3,500'000'000
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+TOTAL INGRESOS 31,681'165'701
 
 El Ejecutivo Estatal, por conducto de la Tesorería General informará trimestralmente al Congreso del Estado, dentro de los treinta días naturales siguientes al trimestre de que se trate, sobre los ingresos percibidos por el Gobierno del Estado, en relación a los montos estimados que se señalan en este artículo, excepto del último trimestre, cuya información quedará comprendida en la Cuenta Pública de la Hacienda Estatal del ejercicio.
 
@@ -2150,3 +2162,11 @@ PRESIDENTE.- DIP. MAURICIO MONTOYA MANZO.- PRIMER SECRETARIO.- DIP. MARTÍN GODO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de Diciembre del año 2006 dos mil seis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
