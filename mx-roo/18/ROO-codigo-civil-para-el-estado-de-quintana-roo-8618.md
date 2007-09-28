@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2007-06-26"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4209,11 +4209,11 @@ La liquidación de bienes a que se refiere el presente artículo, podrá realiza
 
 Para el caso de que opten por realizar el trámite de divorcio ante del Notario Público, deberá inscribirse en el Registro Civil de la Jurisdicción donde hayan celebrado el contrato matrimonial, el acta que al efecto se levante.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 801.
 
-El Oficial del Registro Civil, o en su caso, el Notario Público del conocimiento, previa identificación de los consortes y haciéndoles saber el contenido del Artículo 802, levantará un Acta en que hará constar la solicitud de divorcio, citará a los cónyuges para que se presenten a ratificarla a los quince días, y si los consortes hacen la ratificación, el Oficial los declarará divorciados, levantará el Acta respectiva y mandará hacer la anotación correspondiente en la del matrimonio así resuelto.
+El Oficial del Registro Civil o en su caso el Notario Público, previa identificación de los consortes y haciéndoles saber el contenido del Artículo 802, levantará un acta en que hará constar la solicitud de divorcio y la ratificación de la misma, en consecuencia, ya sea el Oficial del Registro Civil o el Notario Público, declarará la disolución del vínculo matrimonial, y solicitará se haga la anotación correspondiente en el acta de matrimonio.
 
 ###### Artículo 802.
 
@@ -7419,13 +7419,19 @@ No tendrá validez el testamento mientras no se justifique la identidad del test
 
 Se prohibe a los notarios o a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de multa a los notarios cuyo importe será de diez a cien días de salario mínimo y de la mitad a los que no lo fueren, que impondrá el Juez que conozca del juicio sucesorio y hará efectiva el recaudador de rentas del lugar.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 1437.
 
-El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador y si no lo hace es responsable de los daños y perjuicios que la dilación ocasione. Si los interesados están ausentes o son desconocidos del notario, la noticia se dará al Juez.
+El Notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador y si no lo hace es responsable de los daños y perjuicios que la dilación ocasione. Si los interesados están ausentes o son desconocidos del notario, la noticia se dará al Juez.
+
+En los casos en los que se otorgue un testamento, el notario que dé fe de su otorgamiento o la autoridad que lo reciba, o ambas si fuere el caso, deberán formular aviso de dicho otorgamiento en un término de 10 días hábiles siguientes a aquél en que se otorgó la voluntad testamentaria, a la autoridad registral correspondiente en los términos señalados en la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 1438.
 
-Lo dispuesto en el artículo anterior, se observará también por cualquiera que tenga en su poder un testamento.
+Lo dispuesto en el primer párrafo del artículo anterior, se observará también por cualquiera que tenga en su poder un testamento.
 
 ### CAPITULO CUARTO. Del testamento ológrafo
 
@@ -7629,17 +7635,53 @@ En el sobre cerrado que contenga el duplicado del testamento ológrafo, se pondr
 
 Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ella deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 1488.
 
-Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad, hasta que proceda hacer su entrega al mismo testador o al Juez competente.
+Hecho el depósito, el encargado del Registro Público de la Propiedad y del Comercio tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad, hasta que proceda hacer su entrega al mismo testador o al Juez competente.
+
+Cuando se deposite un testamento ológrafo en el Registro Público de la Propiedad y del Comercio, el registrador dentro de los diez días hábiles siguientes, dará aviso por vía electrónica, a la base de datos del Registro Nacional de Avisos de Testamento, en el que se expresarán los datos siguientes:
+
+I. Nombre completo del testador;
+
+II. Nacionalidad;
+
+III. Lugar y fecha de nacimiento;
+
+IV. Clave Única del Registro Nacional de Población (CURP);
+
+V. Estado Civil;
+
+VI. Nombre completo de los padres;
+
+VII. Lugar y fecha de su otorgamiento;
+
+VIII. Tipo de testamento;
+
+IX. Datos del Registro;
+
+X. Número de Escritura;
+
+XI. Tipo de Notario;
+
+XII. Nombre Completo del Notario;
+
+XIII. Número de Notaría; y
+
+XIV. Municipio de Adscripción.
 
 ###### Artículo 1489.
 
 En cualquier tiempo el testador tendrá derecho a retirar del Registro, personalmente o por medio de mandatario con poder notarial especial, el testamento depositado, haciéndose constar la entrega en un acta, que firmarán el interesado y el encargado del Registro.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 1490.
 
-El Juez ante quien se promueva juicio sucesorio pedirá informe al encargado del Registro Público, acerca de si en su oficina se ha depositado testamento ológrafo del autor de la sucesión, para que en caso de que así sea se le remita el testamento.
+El Juez ante quien se promueva juicio sucesorio pedirá informe al encargado del Registro Público de la Propiedad y del Comercio, acerca de si en su oficina se ha depositado testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+
+Cuando se tramite una sucesión ante notario público se deberá recabar la información de existencia o inexistencia de alguna disposición testamentaria mediante la búsqueda local nacional.
 
 ###### Artículo 1491.
 
@@ -7657,9 +7699,11 @@ Sólo cuando el original depositado haya sido destruido o robado se tendrá como
 
 El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto o con señales de violación, o las cláusulas que contiene o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 1495.
 
-El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan o al Registro Nacional de Avisos de Testamento.
 
 ### CAPITULO SEGUNDO. De la sucesión de los descendientes
 
@@ -16914,3 +16958,15 @@ P.O. 18 DE ABRIL DE 2007.
 P.O. 26 DE JUNIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 198
+
+ÚNICO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+DECRETO NUMERO 199
+
+ÚNICO.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
