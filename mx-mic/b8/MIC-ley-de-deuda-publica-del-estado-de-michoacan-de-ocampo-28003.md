@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2007-03-12"
+last_updated: "2007-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -45,41 +45,53 @@ LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 Esta Ley tiene por objeto establecer las bases para la contratación de empréstitos, así como regular la administración de la deuda pública del Estado.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-Asimismo, esta Ley regula la afectación de las participaciones que en ingresos federales tienen derecho a percibir el Estado Libre y Soberano de Michoacán de Ocampo y a sus Municipios, y los demás ingresos que correspondan a las entidades.
+Asimismo, esta Ley regula la afectación de las participaciones que en ingresos federales tienen derecho a percibir el Estado Libre y Soberano de Michoacán de Ocampo y sus Municipios, las aportaciones federales susceptibles de afectación, y los demás derechos y/o ingresos que correspondan al Estado Libre y Soberano de Michoacán de Ocampo y a sus municipios que sean susceptibles de afectación.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 2º.
 
-Para efectos de esta Ley, se entiende por deuda pública, la que se derive de los empréstitos y obligaciones contraídas por las operaciones que se mencionan en el artículo 3º de la misma, contratadas por las entidades que se señalan en dicho artículo, para la realización de inversiones públicas productivas. Dichos empréstitos y obligaciones deberán ser pagaderas en territorio y moneda nacional. Las entidades a que se hace referencia el artículo 3º de la presente Ley no podrán contraer deuda pública con personas físicas o morales, extranjeras o con gobiernos de otras naciones.
+Para efectos de esta Ley, se entiende por deuda pública, la que se derive de los empréstitos y obligaciones contraídas por las operaciones que se mencionan en el artículo 3° de la misma, contratadas por las entidades que se señalan en dicho artículo, para la realización de inversiones públicas productivas. Dichos empréstitos y obligaciones deberán ser pagaderas en territorio y moneda nacional. Las entidades a que hace referencia el artículo 3° de la presente Ley no podrán contraer deuda pública con personas físicas o morales, extranjeras o con gobiernos de otras naciones.
 
 Cuando las obligaciones que se asuman, se hagan constar en valores o títulos de crédito, en el texto de los mismos se deberá indicar que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana.
 
-La contratación de deuda por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
+El Congreso, previa solicitud del Gobierno del Estado y de los ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las leyes de ingresos y en el presupuesto de egresos para el caso del Estado, o en los presupuestos de egresos para el caso de los municipios, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias e imprevisibles que así lo exijan.
 
-El Congreso, previa solicitud del Gobierno del Estado y de los Ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de endeudamientos netos adicionales a los previstos en las leyes de ingresos y en el presupuesto de egresos para el caso del Estado, o en los presupuestos de egresos para el caso de los municipios, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias e imprevisibles que así lo exijan.
+La contratación de deuda pública por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
 
-No obstante lo anterior, las entidades podrán contratar deuda directa a corto plazo, en adición a los montos de endeudamiento neto aprobados en las leyes de ingresos correspondientes, siempre que su vencimiento y liquidación se realicen dentro del ejercicio anual para el que se contraten, y que su monto neto no exceda del cinco por ciento de sus respectivos presupuestos de egresos del ejercicio fiscal correspondiente.
+No obstante lo anterior, las entidades podrán contratar deuda directa de corto plazo sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en las leyes de Ingresos correspondientes, siempre y cuando se cumplan los siguientes requisitos:
 
-Asimismo, el Estado y sus Municipios podrán contratar deuda directa, siempre que su vencimiento y liquidación se realicen seis meses antes del término de la administración estatal o municipal que la contrate y que su monto neto no exceda del cinco por ciento de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal en que se contrate la deuda. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, tales como participaciones en ingresos federales y aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la entidad que corresponda, sin considerar recursos derivados de financiamiento.
+I. Que el plazo de pago del monto principal de la deuda no exceda de ciento ochenta días naturales, ni el periodo constitucional de la administración que contrató dicha deuda;
 
-La deuda contratada conforme a los dos párrafos anteriores quedará sujeta a los requisitos de información y registro previstos en esta Ley y no requerirá la autorización del Congreso, tanto para su contratación como para el otorgamiento de garantías.
+II. Que en todo momento, el saldo insoluto total del monto principal de dicha deuda no exceda del 5% de los ingresos ordinarios de la Entidad de que se trate durante el ejercicio fiscal correspondiente. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales y aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
 
-La deuda a que se refiere el párrafo anterior no podrá ser refinanciada o reestructurada.
+III. Que no se afecten en garantía o en pago el derecho a recibir participaciones o aportaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+La deuda contratada conforme al párrafo anterior, quedará sujeta a los requisitos de información y registro previstos en esta Ley.
 
-###### Artículo 3º.
+La deuda a que se refiere el párrafo sexto de este artículo no podrá ser refinanciada o reestructurada.
 
-La deuda pública está constituida por las obligaciones directas y contingentes derivadas de las operaciones que se señalan en el presente artículo y a cargo de las siguientes entidades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+###### Artículo 3°.
+
+La deuda pública está constituida por las obligaciones directas, contingentes y sin recurso derivadas de las operaciones que se señalan en el presente artículo y a cargo de las siguientes entidades:
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
 I. La Administración Pública Estatal, incluidas sus dependencias, organismos públicos descentralizados y empresas de participación estatal;
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
 II. La Administración Pública Municipal, incluidas sus dependencias, organismos públicos descentralizados y empresas de participación municipal; y
 
-III. Los fideicomisos en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+III. Los fideicomisos en los que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores, aún y cuando no se tenga recurso contra la entidad fideicomitente.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 Quedan sujetas a la presente Ley, las siguientes operaciones realizadas por las entidades antes mencionadas:
 
@@ -95,41 +107,43 @@ Quedan sujetas a la presente Ley, las siguientes operaciones realizadas por las 
 
 6) En general, todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 4º.
+###### Artículo 4°.
 
 Para los efectos de esta Ley, se entenderá por:
 
 I. Congreso: H. Congreso del Estado de Michoacán de Ocampo;
 
-II. Deuda o deuda pública: tendrá el significado atribuido en el artículo 2º de esta Ley;
+II. Deuda o deuda pública: tendrá el significado atribuido en el artículo 2° de esta Ley;
 
 III. Deuda contingente: la deuda de las entidades que cuenten con el aval o la garantía del Estado, o en su caso, de los municipios;
 
-IV. Deuda directa: la deuda que contratan directamente el Estado, o en su caso, los municipios;
+IV. Deuda directa: la deuda que contratan directamente el Estado, los municipios, o en su caso, la deuda pública emitida por los fideicomisos establecidos en la fracción III del artículo 3° que tenga recurso en contra de la entidad fideicomitente;
 
-V. Endeudamiento neto: la diferencia entre los ingresos derivados de deuda y los pagos de capital de deuda, en cada caso, durante el mismo ejercicio fiscal, en el entendido que durante un ejercicio fiscal habrá:
+V. Deuda pública sin recurso: la deuda pública emitida por los fideicomisos establecidos en la fracción III del artículo 3° que no tenga recurso en contra de la entidad fideicomitente;
+
+VI. Endeudamiento neto: la diferencia entre los ingresos derivados de deuda y los pagos de capital de deuda, en cada caso, durante el mismo ejercicio fiscal, en el entendido que durante un ejercicio fiscal habrá:
 
 a) Endeudamiento neto positivo, cuando los ingresos derivados de deuda sean superiores a los pagos de capital de deuda;
 
-b) Endeudamiento neto negativo, en caso de que los ingresos derivados de deuda sean inferiores a los pagos de capital de deuda; y
+b) Endeudamiento neto negativo, en caso de que los ingresos derivados de deuda sean inferiores a los pagos de capital de deuda; y,
 
 c) Endeudamiento neto neutral, cuando los ingresos derivados de deuda sean por un monto igual a los pagos de capital de deuda;
 
-VI. Entidades: las enumeradas en las fracciones I a III del artículo 3º de esta Ley;
+VII. Entidades: las enumeradas en las fracciones I a III del artículo 3° de esta Ley;
 
-VII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+VIII. Estado: el Estado Libre y Soberano de Michoacán de Ocampo;
 
-VIII. Municipios: los municipios en que se divide el territorio del Estado;
+IX. Municipios: los municipios en que se divide el territorio del Estado;
 
-IX. Reestructuración: modificación de tasas de interés, plazos, forma de pago u otros términos de una deuda existente;
+X. Reestructuración: modificación de tasas de interés, plazos, forma de pago u otros términos de una deuda existente;
 
-X. Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente;
+XI. Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente;
 
-XI. Registro: el Registro de Deuda a cargo del Gobierno del Estado, de los Municipios y sus respectivas entidades, el cual estará a cargo de la Tesorería General; y,
+XII. Registro: el Registro de Deuda a cargo del Gobierno del Estado, de los Municipios y sus respectivas entidades, el cual estará a cargo de la Tesorería General; y,
 
-XII. Tesorería General: la Tesorería General del Gobierno del Estado.
+XlII. Tesorería General: la Tesorería General del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -137,7 +151,9 @@ XII. Tesorería General: la Tesorería General del Gobierno del Estado.
 
 Para los efectos de esta Ley, se entiende por inversiones públicas productivas las destinadas a la ejecución de obras públicas, adquisiciones o manufactura de bienes y prestación de servicios públicos, así como cualesquiera obras o acciones que en forma directa o indirecta produzcan beneficios para la población, generen o liberen recursos públicos o produzcan incremento en los ingresos de las entidades, incluyendo las acciones para refinanciar o reestructurar deuda a cargo de las entidades.
 
-### CAPITULO SEGUNDO. DE LA APROBACIÓN Y CONTRATACIÓN DE DEUDA PÚBLICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+### CAPITULO SEGUNDO. DE LA APROBACIÓN Y CONTRATACIÓN DE LA DEUDA PÚBLICA
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -159,7 +175,9 @@ V. Negociar y celebrar los contratos y documentos que sean necesarios para estab
 
 VI. Negociar los términos y condiciones, contratar, celebrar y, en su caso, llevar a cabo cualquier acto en relación con operaciones de derivados financieros, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la deuda contratada por el Estado o las entidades paraestatales o que mejoren la capacidad crediticia del Estado;
 
-VII. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varias fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto autorizado por el Congreso, en el entendido que, cuando la emisión de los títulos se realice por conducto de fideicomisos, éstos no serán considerados, en ningún caso, parte de la administración pública paraestatal;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VII. Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable, así como otorgar las garantías que se requieran, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto autorizado por el Congreso, en el entendido que, cuando la emisión de los títulos se realice por conducto de fideicomisos, éstos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal y la deuda emitida por los mismos podrá ser con o sin recurso contra la entidad fideicomitente;
 
 VIII. Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tenga derecho a percibir el Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Gobierno del Estado, por conducto de la Tesorería General, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme a los artículos 9º, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
 
@@ -197,21 +215,33 @@ XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda,
 
 XIII. Inscribir en el Registro la deuda contraída por los municipios y las entidades paramunicipales.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 7º.
+###### Artículo 7°.
 
-Las entidades a que se refiere el artículo 3º de este ordenamiento, podrán contratar deuda directa en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el penúltimo párrafo del artículo 2º de esta Ley.
+Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el sexto párrafo del artículo 2° de esta propia Ley.
 
-Excepto en los casos previstos en el penúltimo párrafo del artículo 12 de esta Ley, para la autorización de la contratación de deuda directa o contingente, se deberá contar con lo siguiente:
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-I. Estados financieros de los últimos tres ejercicios fiscales, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses al momento de contraer la deuda de que se trate. Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y los principios de contabilidad referidos en el párrafo anterior. En caso entidades paraestatales y paramunicipales que estén organizadas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aplicables a empresas que cotizan en una bolsa en México;
+Excepto en los casos previstos en el sexto párrafo del artículo 2° de esta Ley, para la contratación de deuda pública, se deberá contar con lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+I. Estados financieros de los últimos tres ejercicios fiscales, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses al momento de contraer la deuda de que se trate. Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y los principios de contabilidad referidos en el párrafo anterior. En caso de entidades paraestatales y paramunicipales que estén organizadas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aplicables a empresas que cotizan en bolsa en México. En caso de que la deuda vaya a ser contratada por un fideicomiso de los establecidos en la fracción III del artículo 3°, los estados financieros que se deberán de presentar serán los de la entidad fideicomitente;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
 II. Con la calificación otorgada por al menos dos instituciones calificadoras de valores reconocidas por la Secretaría de Hacienda y Crédito Público a través de la Comisión Nacional Bancaria y de Valores;
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+
 III. Cuando se trate de las entidades a que se refiere la fracción II del artículo 3º de esta Ley y su presupuesto anual de ingresos no sea superior a setenta millones de pesos, actualizado anualmente con base al índice nacional de precios al consumidor que emita el Banco de México y las instituciones de crédito no establezcan como requisitos para las autorización y formalización de los empréstitos la calificación crediticia, se deberá contar con los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento, emitidos por la institución y crédito acreditante que opere en territorio nacional y la Tesorería General.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 La calificación que otorgue la institución calificadora a los dictámenes financieros sobre la viabilidad del crédito y la capacidad de endeudamiento, serán el principal parámetro para la autorización del empréstito.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 Adicionalmente se podrá contar con calificación en proyectos específicos previa autorización del Congreso del Estado cuando así convenga al Estado.
 
@@ -219,9 +249,9 @@ Adicionalmente se podrá contar con calificación en proyectos específicos prev
 
 Para efectos de esta Ley, se entiende por servicio de la deuda, el monto o cantidad a pagar en el territorio y moneda nacional, por concepto de capital, intereses, comisiones y otros gastos derivados de la contratación de empréstitos, por las entidades a que se refiere el artículo 3º de esta Ley.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-El monto correspondiente al pago del servicio de deuda, en ningún caso podrá ser mayor del dos y medio por ciento del presupuesto anual de egresos al momento de la contratación y con base en las proyecciones financieras.
+El monto correspondiente al pago del servicio de deuda, en ningún caso podrá ser superior al dos y medio por ciento del presupuesto anual de egresos al momento de la contratación y con base en las proyecciones financieras, en el entendido de que no se computará dentro del límite establecido en el presente párrafo la deuda pública sin recurso.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
@@ -241,47 +271,57 @@ Las entidades paraestatales y paramunicipales sólo podrán contratar deuda si c
 
 Los municipios deberán atender a lo dispuesto por el artículo 7° de esta Ley, cuando previa autorización del cabildo otorguen aval o responsabilidad solidaria a los organismos públicos descentralizados o empresas de participación municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-Con independencia de que se obtengan empréstitos cuya aplicación comprenda más de un ejercicio fiscal, en el presupuesto de egresos del Gobierno del Estado y de los municipios respectivos, se deberán prever las asignaciones de recursos derivados de dichos empréstitos para cada ejercicio.
+Con independencia de que se contrate deuda pública cuya aplicación comprenda más de un ejercicio fiscal, en el presupuesto de egresos de las entidades establecidas en las fracciones I y II del artículo 3°, se deberán prever las asignaciones de recursos para el pago de dicha deuda pública para cada ejercicio, en el entendido de que para el caso de deuda pública emitida por los fideicomisos establecidos en la tracción III del artículo 3°, la entidad fideicomitente tendrá la obligación de presupuestar dichas asignaciones.
 
 Asimismo, con independencia de lo dispuesto en el párrafo anterior, el Congreso del Estado, podrá autorizar adicionalmente, la contratación de deuda pública para su aplicación durante el ejercicio en que se solicite, sobre todo Cuando se trate de obras y acciones que deban ejecutarse durante alguna emergencia declarada por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 11.
 
-El Gobierno del Estado y los municipios, previa autorización del Congreso, podrán afectar como fuente de pago, garantía o ambas, de sus obligaciones, el derecho y/o los ingresos a las aportaciones federales susceptibles de afectación o a las participaciones que en ingresos federales les correspondan o cualquier otro ingreso o derecho susceptible de afectación.
+El Gobierno del Estado y los municipios, previa autorización del Congreso, podrán afectar como fuente de pago, garantía o ambas, de sus obligaciones y/o de las obligaciones de los fidecomisos establecidos en la fracción III del artículo 3°, siempre y cuando exista recurso en contra de la entidad fideicomitente, el derecho y/o los ingresos a las aportaciones federales, que sean susceptibles de afectación o a las participaciones que en ingresos federales les correspondan de conformidad con la legislación local y federal aplicable.
 
-El pago del servicio de la deuda del Gobierno del Estado y los municipios no podrá ser superior al dos y medio por ciento del presupuesto anual de egresos de cada entidad, a menos que exista autorización del Congreso del Estado.
+Asimismo, el Gobierno del Estado y los municipios, previa autorización del Congreso, podrán afectar como fuente de pago, garantía o ambas, de sus obligaciones y/o de las obligaciones de los fidecomisos establecidos en la fracción III del artículo 3°, aún y cuando sea deuda pública sin recurso, el derecho y/o los ingresos a cualquier otro ingreso o derecho susceptible de afectación de conformidad con la legislación local aplicable.
 
-En el caso de los municipios y entidades paramunicipales que contraten deuda pública sin aval del Gobierno del Estado y se garantice mediante la afectación de las participaciones que en ingresos federales les correspondan, se podrá celebrar contrato de mandato especial irrevocable para actos de dominio con el Gobierno del Estado, fideicomisos u otros mecanismos que autorice el Congreso, mediante los cuales se establezcan los mecanismos de pago.
+El pago del servicio de la deuda pública del Gobierno del Estado y los municipios no podrá ser superior al dos y medio por ciento del presupuesto anual de egresos de cada entidad, a menos que exista autorización del Congreso del Estado, en el entendido de que no se computará dentro del límite establecido en el presente párrafo, la deuda pública sin recurso emitida por los fideicomisos establecidos en la fracción III del artículo 3°, mientras que no exista recurso en contra de la entidad fideicomitente.
+
+En el caso de los municipios y entidades paramunicipales que contraten deuda pública sin aval del Gobierno del Estado y se garantice mediante la afectación de las participaciones que en ingresos federales les correspondan, se podrá celebrar contrato de mandato especial irrevocable para actos de dominio con el Gobierno del Estado, fideicomisos u otros mecanismos, que autorice el Congreso, mediante los cuales se establezcan los mecanismos de pago.
 
 Asimismo, podrá afectarse en garantía el derecho de cobro de los ingresos que generen o se prevea que puedan generar las obras de infraestructura o la prestación de servicios públicos, ya sea que éstas sean explotadas directamente por el Estado o los municipios o sean objeto de concesión a terceros.
 
-En el caso de los municipios, adicionalmente podrán afectar en garantía los recursos del Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal que les correspondan, independientemente de la denominación que se le pueda dar a este Fondo en el futuro.
-
-Excepto por lo señalado en la última parte del artículo 2º de la presente Ley, se requerirá la autorización previa del Congreso para llevar a cabo la afectación, en beneficio de los acreedores de la deuda de las entidades, ya sea como garantía, fuente de pago o en cualquier otra forma, del derecho y/o los ingresos a las participaciones que en ingresos federales les correspondan al Estado o a los municipios, el derecho y/o el ingreso a las aportaciones federales susceptibles de afectación, de las que tengan derecho a recibir los municipios en ingresos estatales, del derecho de las entidades de recibir cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación, incluyendo los señalados en el presente artículo. Tales afectaciones podrán también autorizarse respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia.
+Sujeto a lo establecido en el presente artículo, se requerirá la autorización previa del Congreso para llevar a cabo la afectación, en beneficio de los acreedores de la deuda pública de las entidades establecidas en el artículo 3° de esta ley, ya sea como garantía, fuente de pago o en cualquier otra forma, del derecho y/o los ingresos a las participaciones que en ingresos federales les correspondan al Estado o a los municipios, el derecho y/o el ingreso a las aportaciones federales que sean susceptibles de afectación de conformidad con esta ley o la legislación federal, de las que tengan derecho a recibir los municipios en ingresos estatales, del derecho de las entidades de recibir cualquier otro ingreso derivado de contribuciones, productos, aprovechamientos, accesorios o por cualquier otro concepto que sea susceptible de afectación, incluyendo los señalados en el presente artículo. Tales afectaciones podrán también autorizarse respecto a obligaciones que no constituyan deuda y que se deriven de contratos que celebren las entidades dentro de sus respectivos ámbitos de competencia.
 
 Asimismo, se requerirá la autorización previa del Congreso para que el Estado se constituya en garante, avalista o deudor solidario de deuda de cualquiera de las otras entidades y para que los municipios se constituyan en garantes, avalistas o deudores solidarios de deuda de las entidades paramunicipales.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 12.
 
-Para el pago de la deuda que obtengan el Estado y los Municipios, éstos podrán formalizar un mecanismo mediante la constitución de fideicomisos, los cuales no serán considerados, en ningún caso, parte de la administración pública estatal o municipal, según sea el caso, por lo que no les serán aplicables las disposiciones de las entidades paraestatales o paramunicipales, los cuales deberán prever, entre otros, los aspectos siguientes:
+De conformidad con lo establecido en el artículo 11, para el pago de la deuda que obtengan el Estado y los Municipios y/o los fideicomisos establecidos en la fracción III del artículo 3°, el Estado y los Municipios podrán formalizar mecanismos mediante la constitución de fideicomisos, los cuales no serán considerados, en ningún caso, parte de la administración pública estatal o municipal, según sea el caso, por lo que no les serán aplicables las disposiciones de las entidades paraestatales o paramunicipales, los cuales deberán prever, entre otros, los aspectos siguientes:
 
-I. La notificación y/o instrucción irrevocable a la Tesorería de la Federación, a la Tesorería General y/o cualquier autoridad competente de la afectación del derecho y/o los ingresos a las aportaciones federales susceptibles de afectación o a las participaciones que en ingresos federales les correspondan al Gobierno del Estado y a los municipios para los efectos a que haya lugar en términos de los contratos correspondientes;
+I. En su caso, la notificación y/o instrucción irrevocable a la Tesorería de la Federación, a la Tesorería General y/o cualquier autoridad competente, de la afectación del derecho y/o los ingresos a las aportaciones federales susceptibles de afectación o a las participaciones que en ingresos federales les correspondan al Gobierno del Estado y a los Municipios y de cualesquiera otros ingresos y/o derechos susceptibles de afectación, para los efectos legales a que haya lugar en términos de los contratos correspondientes;
 
-II. Las transferencias de los montos del Fondo General de Participaciones y de las aportaciones federales susceptibles de afectación se sujetarán a las condiciones de pago establecidas en la Ley de Coordinación Fiscal y, en su caso, de los anticipos a que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado, a las demás disposiciones aplicables y a los términos de los contratos de fideicomiso respectivos;
+II. En su caso, las transferencias de los montos de las participaciones y de las aportaciones federales susceptibles de afectación se sujetarán a las condiciones de pago establecidas en la Ley de Coordinación Fiscal y, en su caso, de los anticipos a que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado, a las demás disposiciones aplicables y a los términos de los contratos de fideicomiso respectivos;
 
-III. Que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos; y,
+III. En su caso, las transferencias de cualesquiera otros ingresos y/o derechos susceptibles de afectación se sujetarán a las condiciones de pago establecidas en las disposiciones aplicables y a los términos de los contratos de fideicomiso respectivos;
 
-IV. Que el fiduciario, una vez realizados los pagos correspondientes, transfiera a la cuenta que le indique la Tesorería General o las tesorerías municipales, según sea el caso, el remanente de las participaciones o de las aportaciones federales que les correspondan.
+IV. Que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos; y,
+
+V. Que el fiduciario, una vez realizados los pagos correspondientes, transfiera a la cuenta que le indique la Tesorería General o las tesorerías municipales, según sea el caso, el remanente de las participaciones o de las aportaciones federales o de cualquier otro ingreso susceptible de afectación que les correspondan.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 En caso de que se contrate deuda pública sin aval o responsabilidad solidaria del Gobierno del Estado o del Ayuntamiento, se podrá utilizar como mecanismo el pago directo al acreditante.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+
 Para que los Municipios afecten aportaciones federales susceptibles de afectación, como fuente de pago, garantía o ambas de sus créditos de corto plazo, se requerirá la previa autorización del Congreso. El Congreso, cuando lo considere conveniente, podrá autorizar a dos o más municipios, la constitución de mecanismos de fuente de pago, garantía o ambos, a los que se afecte el derecho y/o los ingresos a las aportaciones federales que les correspondan, para el pago de sus créditos de corto plazo, en el entendido que los recursos o ingresos de un Municipio no podrán afectarse al pago de obligaciones de otro u otros. Los decretos correspondientes deberán autorizar los montos máximos de endeudamiento, el derecho y/o los ingresos cuya afectación se autoriza, los mecanismos que podrán constituirse y a los que podrán adherirse los Municipios que así lo decidan. Los Municipios, para celebrar las operaciones autorizadas en término de dichos decretos deberán contar con la previa aprobación de sus Ayuntamientos, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
 Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal, el Gobierno del Estado podrá instrumentar mecanismos de captación, distribución, o ambos, de los recursos derivados de la coordinación fiscal, incluyendo los recursos que correspondan a los municipios para su posterior entrega, a través de cuentas, depósitos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la ley y a los convenios aplicables, sin perjuicio de cumplir con las afectaciones que, como fuente de pago o garantía, hubieren realizado los Municipios a favor de sus acreedores.
 
@@ -442,3 +482,9 @@ P.O. 12 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
