@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "1997-04-30"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -547,7 +547,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### Artículo 90.
 
-A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la responsabilidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
+A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la personalidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
 
 ###### Artículo 91.
 
@@ -963,11 +963,15 @@ IV.- El del domicilio del demandado, si se trata de ejercicio de una acción sob
 
 Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
 
-V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de audiencia;
+V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
 VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
 
 a).- de las acciones de petición de herencia;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías, así mismo, solicitará vía Internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -1459,7 +1463,7 @@ No pueden dictarse otras providencias precautorias, que las establecidas en este
 
 El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
 
-La prueba puede consistir en documento o en testigos idóneos, que serán por los menos tres.
+La prueba puede consistir en documento o en testigos idóneos, que serán por lo menos tres.
 
 ###### Artículo 239.
 
@@ -5776,3 +5780,7 @@ Se abrogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Todos los juicios hipotecarios que actualmente se siguen, se continuará tramitando conforme al procedimiento iniciado.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+ÚNICO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
