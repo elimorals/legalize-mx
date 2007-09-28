@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2007-09-26"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1997,9 +1997,31 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Art. 6o.
 
-La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que se ataque la moral, los derechos de tercero, provoque algún delito o perturbe el orden público.
+La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que se ataque a la moral, los derechos de tercero, provoque algún delito o perturbe el orden público. El derecho a la información será garantizado por el Estado.
+
+El ejercicio del derecho de acceso a la información, se regirá bajo los siguientes principios y bases:
+
+I.- Toda la información en posesión de cualquier autoridad, dependencia, unidades administrativas, entidad, órgano y organismo estatal y municipal es pública, y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fije la Ley. Para la interpretación de este derecho, prevalecerá el principio de máxima publicidad;
+
+II.- El ejercicio de este derecho podrá realizarse por escrito, en forma electrónica o verbal, conforme a los medios y modalidades que determine la Ley.
+
+Así mismo, se establecerán mecanismos expeditos de acceso a la información;
+
+III.- La información relativa a la vida privada y datos personales será protegida en los términos y con las excepciones que determine la Ley;
+
+IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos, en los términos que determine la legislación aplicable;
+
+V.- Un órgano autónomo especializado, con personalidad jurídica y patrimonio propio, conformado por ciudadanos designados por el Poder Legislativo, con las atribuciones, integración y organización que la Ley reglamentaria establezca, será encargado de conocer y resolver de manera imparcial y expedita conforme a los procedimientos de revisión que la misma Ley regule, las controversias que se susciten con motivo del ejercicio de este derecho;
+
+VI.- Los sujetos obligados, a los que se refiere la fracción I de este Artículo, deberán preservar sus documentos en archivos administrativos actualizados;
+
+VII.- Se establecerán mecanismos eficientes, de universal y fácil acceso, para que los sujetos obligados difundan como mínimo la información completa y actualizada de sus indicadores de gestión y el ejercicio de los recursos públicos, incluso los que entreguen a personas físicas o morales, así como la cultura de la transparencia y el acceso a la información; y
+
+VIII.- La inobservancia a las disposiciones en materia de transparencia y acceso a la información será sancionada en los términos que disponga la Ley.
 
 ###### Art. 7o.
 
@@ -2011,9 +2033,7 @@ Las Leyes Orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 
 Es inviolable el derecho de petición ejercido por escrito de una manera pacífica y respetuosa; pero en materias políticas sólo pueden ejercerlo los ciudadanos del Estado. A toda petición debe recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, y ésta tiene la obligación de hacer saber en breve término el resultado al peticionario.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
-
-Toda persona tiene derecho al acceso a la información pública, en los términos previstos por la ley reglamentaria. Un Órgano Autónomo, con personalidad jurídica y patrimonio propio, será el encargado de conocer y resolver las controversias que se susciten en la materia; la Ley establecerá las atribuciones, integración, forma de organización y funcionamiento de este Órgano, que estará conformado por ciudadanos designados por el Congreso del Estado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
@@ -3062,3 +3082,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los sujetos obligados, en los términos de la legislación aplicable, deberán implementar los medios tecnológicos y electrónicos necesarios para que las personas puedan ejercer el derecho de acceso a la información pública, así como de los procedimientos de revisión a los que se refiere este Decreto, en un plazo no mayor al que establece el Decreto Federal por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 20 de julio del 2007. Lo anterior con excepción de los municipios con población menor a los setenta mil habitantes.
