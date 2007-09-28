@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2006-12-30"
+last_updated: "2007-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -103,11 +103,11 @@ II. Los servidores públicos que autoricen cualquier trámite de registro y cont
 
 #### SECCIÓN TERCERA. DE LA BASE Y DE LA TASA
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 7°.
 
-El Impuesto a que se refiere este capítulo se calculará y pagará aplicando la tasa del 2.5%, sobre el importe que resulte de aplicar al importe total consignado en la factura original que ampare la propiedad del vehículo de que se trate, los factores que se señalan en la tabla siguiente:
+El Impuesto a que se refiere este capítulo se calculará y pagará aplicando la tasa del 2.5%, sobre el importe que resulte de aplicar al importe total consignado en la factura original que ampare la propiedad del vehículo de que se trate, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado, los factores que se señalan en la tabla siguiente:
 
 AÑO DE ANTIGÜEDAD FACTOR DE
 
@@ -257,7 +257,7 @@ De los recursos que se obtengan de la recaudación de este impuesto, se destinar
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES Y DEL PAGO
 
-### CAPÍTULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACION AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCION Y DEPENDENCIA DE UN PATRÓN
+### CAPÍTULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACION AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCION Y DEPENDENCIA DE UN PATRON
 
 #### SECCIÓN PRIMERA. DEL OBJETO Y DEL SUJETO
 
@@ -329,7 +329,9 @@ Cuando los sujetos de este impuesto inicien actividades con posterioridad al 1 d
 
 Se causará en el momento en que se realicen las erogaciones por el trabajo personal prestado bajo la dirección y dependencia de un patrón, y su pago será de la siguiente manera:
 
-a) Se harán pagos provisionales mensuales a más tardar el día 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente o en la sucursal que elija de las instituciones bancarias que en su caso se autoricen por la Tesorería General.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+a) Se harán pagos provisionales mensuales a más tardar el día 17 del mes siguiente a aquel en que se cause, mediante declaración provisional que deberá presentarse en la oficina recaudadora que corresponda al domicilio del contribuyente, a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones autorizadas por la Tesorería General.
 
 b) El pago correspondiente al ejercicio fiscal de que se trate deberá efectuarse mediante declaración anual, a más tardar el día 17 del mes de mayo del año siguiente a aquel en que se cause el impuesto.
 
@@ -399,9 +401,11 @@ III. Presentar los avisos, datos, documentos e informes que le sean requeridos p
 
 El incumplimiento de las obligaciones a que se refiere este capítulo, se sancionará conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 33.
 
-La recaudación que se obtenga de la aplicación de este impuesto, se destinará a fomentar el desarrollo económico del Estado y generar condiciones para la creación de más empleos en acuerdo del Ejecutivo, con las organizaciones productivas del Estado.
+La recaudación que se obtenga de la aplicación de este impuesto, se destinará a fomentar el desarrollo económico del Estado, a generar condiciones para la creación de más empleos en acuerdo del Titular del Ejecutivo, con las organizaciones productivas del Estado y a ser utilizada como fuente de pago y/o garantía de deuda pública del Estado y/o de los fideicomisos establecidos en la fracción III del articulo 3° de la Ley de Deuda Pública del Estado de Michoacán de Ocampo, previa autorización del Congreso del Estado.
 
 El Ejecutivo del Estado al presentar la Cuenta Pública informará al Congreso del Estado respecto del monto obtenido por la recaudación de este impuesto así como de su aplicación.
 
@@ -531,7 +535,9 @@ IV. Diseñar y emitir los formatos para control vehicular, que deberán contener
 
 V. Proporcionar a la Secretaría de Hacienda y Crédito Público la información actualizada de los registros efectuados en el “Registro Estatal Vehicular”, en la forma y términos de la normatividad respectiva; y,
 
-VI. Independientemente de que no lo establezca la normatividad correspondiente que expida la Secretaría de Hacienda y Crédito Público, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días siguientes en que se den los siguientes supuestos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Independientemente de que no lo establezca la normativa correspondiente que expida la Secretaría de Hacienda y Crédito Público, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días siguientes a la fecha de presentación de la denuncia ante la autoridad competente, de la pérdida de una o ambas placas, por robo o destrucción total de vehículos; por cambio de servicio y por restricción de circulación en otra entidad federativa.
 
 a) Cambio de propietario respecto del registrado, cuando el nuevo propietario tenga su domicilio fuera de la circunscripción territorial correspondiente a la oficina recaudadora que haya expedido las placas a nombre del propietario anterior. Cuando el nuevo propietario tenga su domicilio en la misma circunscripción territorial referida, únicamente solicitará la reposición de la tarjeta de circulación;
 
@@ -539,7 +545,9 @@ b) Cambio de domicilio a una población ubicada en circunscripción territorial 
 
 c) Por pérdida de una o ambas placas, por robo o destrucción total de vehículos, por cambio de servicio y por restricción de circulación en otra entidad federativa.
 
-Para la dotación de placas a los vehículos a que se refieren los supuestos de los incisos anteriores, la documentación que se solicite como requisito por la autoridad fiscal estatal, será únicamente para efectos de inscripción de los vehículos, en el “Registro Estatal Vehicular”, sin que dicho registro implique el reconocimiento de la autenticidad de los documentos, siendo responsabilidad de los particulares demostrar la misma, ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+Para la dotación de placas a los vehículos a que se refieren los supuestos enunciados en el párrafo que antecede, la documentación que se solicite como requisito por la autoridad fiscal estatal, será únicamente para efectos de inscripción de los vehículos, en el «Registro Estatal Vehicular», sin que dicho registro implique el reconocimiento de la autenticidad de los documentos, siendo responsabilidad de los particulares demostrar la misma, ante las autoridades competentes.
 
 Lo referido en el párrafo anterior, también será aplicable tratándose del documento denominado comúnmente “carta factura”.
 
@@ -764,3 +772,9 @@ P.O. 30 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 1º de enero de 2007, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
