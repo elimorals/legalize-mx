@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2007-08-22"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -431,7 +431,7 @@ III.- No pertenecer al estado eclesiástico o ser Ministro de algún culto; y
 
 IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ## TITULO CUARTO. DEL PODER LEGISLATIVO
 
@@ -443,7 +443,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 ###### ARTICULO 18.
 
-No podrán ser electos diputados estatales:
+No podrán ser electos Diputados Estatales:
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -453,9 +453,9 @@ I.- El Gobernador del Estado, los Senadores y los Diputados Federales, aun cuand
 
 II.- Los funcionarios que a continuación se indican, si no se separan definitivamente de sus cargos noventa días antes de la elección:
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Fiscal General del Estado, el Fiscal General Adjunto y Fiscales Regionales, el Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores Dependientes del Ejecutivo;
+A) El Secretario de Gobierno, los Secretarios de Despacho, los Subsecretarios de Gobierno, el Fiscal Electoral y los Fiscales de Distrito, y los integrantes de la Contraloría de la Legalidad Electoral, el Presidente de la Junta Local de Conciliación y Arbitraje, y los Directores Generales Dependientes del Ejecutivo;
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -507,9 +507,13 @@ El Instituto Estatal Electoral tendrá a su cargo, en forma integral y directa, 
 
 Los ciudadanos y los partidos políticos son corresponsales en la preparación, desarrollo, vigilancia y fiscalización de los procesos electorales; así como de la vigilancia y fiscalización de las precampañas en los términos de ley.
 
-La Fiscalía Electoral y la Contraloría de la Legalidad Electoral son Organos Autónomos, con personalidad jurídica y patrimonio propios. La Fiscalía Electoral, en su carácter de Ministerio Público, es responsable de la investigación y persecución de los delitos electorales. La Contraloría de la Legalidad Electoral es un Organo Colegiado que tendrá a su cargo la investigación a petición de los interesados de las violaciones a la ley, además será responsable de controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales. Las autoridades y particulares están obligados a acatar sus requerimientos. El Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, deberán guardar las reservas en el ejercicio de sus competencias. La ley establecerá su organización, funcionamiento y sanciones aplicables.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-El Fiscal Electoral y los integrantes de la Contraloría de la Legalidad Electoral, serán nombrados por el Congreso del Estado, a propuesta del Titular del Ejecutivo Estatal, por el voto de las dos terceras partes de los legisladores presentes y, en los recesos de éste, por la Comisión Permanente con la misma votación de mayoría calificada. Durarán ocho años en su encargo y podrán ser removidos exclusivamente en los términos del Título Noveno de esta Constitución.
+La Contraloría de la Legalidad Electoral es un órgano autónomo, con personalidad jurídica y patrimonio propios, que tendrá a su cargo la investigación a petición de los interesados de las violaciones a la ley, además será responsable de controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales. Las autoridades y particulares están obligados a acatar sus requerimientos. La Contraloría de la Legalidad Electoral es un órgano colegiado, y sus integrantes deberán guardar las reservas en el ejercicio de sus competencias. La ley establecerá su organización, funcionamiento y sanciones aplicables. Los integrantes de la Contraloría de la Legalidad serán nombrados por el Congreso del Estado, a propuesta del Titular del Ejecutivo Estatal, por el voto de las dos terceras partes de los legisladores presentes y, en los recesos de éste, por la Comisión Permanente con la misma votación de mayoría calificada. Durarán ocho años en su encargo y podrán ser removidos exclusivamente en los términos del Título Noveno de esta Constitución.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+La Fiscalía Electoral, es un órgano con independencia, autonomía técnica y presupuestaría, que forma parte integrante del Ministerio de Justicia del Estado. La Fiscalía Electoral, en su carácter de Ministerio Público, es responsable de la investigación y persecución de los delitos electorales y gozará de jurisdicción en todo el Estado; la ley establecerá su organización, funcionamiento y sanciones aplicables. Las autoridades y particulares están obligados a acatar sus requerimientos. El Fiscal Electoral será nombrado y removido en términos de lo dispuesto por el artículo 47, de esta Constitución, y deberá guardar las reservas en el ejercicio de sus competencias.
 
 La actividad de precampaña será regulada por la ley, pero en ningún caso durará más de 30 días. Cualquier persona que realice actos de proselitismo sin sujetarse a las disposiciones que señale la ley de la materia, independientemente de las demás sanciones, perderá el derecho a ser registrado como candidato al Cargo de Elección Popular por el cual realizó dichos actos.
 
@@ -719,9 +723,9 @@ XXI.- Prorrogar el periodo de sesiones ordinarias por el tiempo que lo requieran
 
 XXII.- Nombrar y remover libremente a sus funcionarios y empleados de confianza;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-XXIII.- Otorgar o negar la aprobación de los nombramientos de Magistrados del Poder Judicial del Estado, que se someta a su consideración conforme a esta Constitución y las Leyes secundarias;
+XXIII.- Otorgar o negar la aprobación de los nombramientos de funcionarios del Poder Judicial del Estado, así como ratificar o no a los miembros del Ministerio de Justicia del Estado, que sometan a su consideración conforme a esta Constitución y las leyes secundarias;
 
 XXIV.- Conceder licencia al Gobernador y a los Diputados para separarse de su cargo, en los términos de esta Constitución;
 
@@ -941,7 +945,7 @@ VIII. No tener parentesco por consanguinidad en los cuatro primeros grados, ni p
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2006)</small>
 
-## TITULO QUINTO BIS. DE LOS ORGANOS AUTONOMOS DEL ESTADO
+## TITULO QUINTO BIS. DEL MINISTERIO DE JUSTICIA Y DE LOS ORGANOS AUTONOMOS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -1005,19 +1009,27 @@ Será Gobernador Constitucional el ciudadano que obtenga la mayoría de votos em
 
 El Gobernador del Estado podrá separarse de la residencia de los Poderes, sin salir del territorio del Estado, por un tiempo que no exceda de dos meses. Si la separación es mayor de ese lapso, solicitará licencia al Congreso, o en su defecto a la Comisión Permanente. El Gobernador del Estado podrá ausentarse del territorio del mismo hasta por el término de un mes, previo aviso al Congreso o a la Comisión Permanente; en las ausencias del Gobernador del Estado con duración de mas de quince días, el Secretario de Gobierno asumirá la función de encargado del despacho. Este permiso podrá ser renovado hasta tres ocasiones y en el caso de que se trate de un período mayor, el Congreso del Estado o la Comisión Permanente designará un Gobernador Provisional o Interino, según el caso.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 42.
 
-Son facultades y obligaciones del Gobernador:
+Son facultades del Gobernador:
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, proveyendo en la esfera administrativa a su fiel observancia.
 
 Ejecutar los actos administrativos que al Ejecutivo del Estado encomienden las Leyes Federales;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 II.- Mantener relaciones políticas con el Gobierno Federal y con los órganos de gobierno de los demás Estados de la Federación;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 III.- Solicitar la protección de los Poderes de la Unión en caso de sublevación o trastorno interior;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 IV.- Cuidar que los fondos públicos en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley;
 
@@ -1037,6 +1049,8 @@ VII.- (DEROGADA, P.O. 17 DE JUNIO DE 1999)
 
 VIII.- Velar por la protección ciudadana, la seguridad pública, la conservación del orden, la tranquilidad y la seguridad del Estado;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 IX.- Ejercer el mando de la Fuerza Pública del Estado y la de los Municipios donde residiere habitual o transitoriamente;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
@@ -1051,17 +1065,27 @@ XI.- Declarar los casos en que proceda la expropiación de bienes y derechos de 
 
 XII.- Autorizar, expedir y cancelar patentes para el desempeño de la función notarial en los términos de la Legislación respectiva;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 XIII.- Decretar de acuerdo con la Legislación respectiva las medidas necesarias para ordenar los asentamientos humanos y establecer provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 XIV.- Expedir títulos profesionales conforme a la Ley;
 
-XV.- Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la Administración Pública;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+XV.- Iniciar ante el Congreso las leyes y decretos que juzgue convenientes;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 XVI.- Solicitar a la Comisión Permanente que convoque al Congreso a Sesiones Extraordinarias;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
 XVII.- Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, presentar al Congreso un informe debidamente documentado del Estado que guarden los diversos ramos de la Administración Pública;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 XVIII.- Presentar cada año al Congreso, al tercer día de la Apertura del Segundo Período Ordinario de Sesiones, la cuenta pública correspondiente al año anterior;
 
@@ -1073,23 +1097,43 @@ El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cu
 
 XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-XXI. Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados del Poder Judicial;
+XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los nombramientos de Magistrados de la Magistratura Superior del Estado y los señalados en el artículo 49 de esta Constitución;
 
-XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable.
 
-XXIII.- Turnar al Procurador Fiscal General del Estado los asuntos que deban ventilarse ante los tribunales, para que ejercite ante ellos sus atribuciones legales, sin menoscabo de las facultades del Ministerio Público.
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+Nombrar con la ratificación del Congreso, o en su caso de la Comisión Permanente, al Ministro de Justicia, al Fiscal Electoral y a los Fiscales de Distrito y removerlos libremente.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+Nombrar y remover libremente a los Fiscales Especializados, a los Fiscales Especiales, al Contralor General del Ministerio de Justicia del Estado y demás servidores públicos que determine la Ley Orgánica del Ministerio de Justicia;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+XXIII.- Turnar al Ministro de Justicia del Estado, los asuntos que deban ventilarse ante los tribunales, para que ejercite ante ellos sus atribuciones legales, así corno proponer al Consejo de Procuración de Justicia la creación de Fiscalías Especiales, cuando así lo considere pertinente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 El Ejecutivo podrá nombrar cuando así lo crea conveniente, a algún abogado que lo represente en determinado asunto.
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 XXIV.- Acordar que ocurran el Secretario General de Gobierno o los Secretarios de Despacho a las sesiones del Congreso, para que den a este los informes que pida o para apoyar en los debates las iniciativas que presentare o las observaciones que haga el Ejecutivo a los Proyectos de ley o decretos;
 
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 XXV.- Pedir la destitución por mala conducta de los funcionarios judiciales a que se refiere el párrafo segundo del Artículo 71;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante de la Administración Pública en actividad de interés social, dotándolos de los recursos necesarios para el mejor logro de sus fines, así como vigilar la correcta aplicación de dichos recursos por medio de supervisiones o auditorías;
 
@@ -1098,6 +1142,8 @@ XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante 
 XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución y la ley de la materia, la cual dispondrá los requisitos, alcances, términos y procedimientos, a los que estará sujeto el ejercicio de esta facultad.
 
 A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 XXVIII.- Las demás que le confiera expresamente esta Constitución.
 
@@ -1143,7 +1189,7 @@ Las ausencias de los titulares de las Dependencias serán suplidas en los térmi
 
 Los titulares de las dependencias y de las entidades deberán comparecer ante el congreso del Estado o ante sus Comisiones cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 47.
 
@@ -1151,21 +1197,109 @@ El Ministerio Publico es una institución pública, autónoma de buena fe, la cu
 
 En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
-En la investigación y persecución de los demás delitos del fuero común la Institución del Ministerio Público ejercerá sus atribuciones a través de la Fiscalía General del Estado, auxiliándose de una policía que estará bajo su autoridad y mando inmediato; por lo tanto le corresponderá solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde, asimismo, velar porque los juicios de tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+En la investigación y persecución de los demás delitos del fuero común la institución del ministerio público, ejercerá sus atribuciones a través del Ministerio de Justicia del Estado, auxiliándose de una policía que estará bajo su autoridad y mando inmediato; por lo tanto le corresponderá solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; le corresponde, así mismo, velar porque los juicios se tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la ley determine.
 
-La Fiscalía General del Estado es un Organismo Público Autónomo, con personalidad jurídica y patrimonio propios que estará presidida por un Fiscal General, quien deberá cumplir los mismos requisitos que para ser Magistrado de la Magistratura Superior del Estado; será propuesto por el Titular del Poder Ejecutivo y designado con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos, por la Comisión Permanente con la misma votación calificada. La designación o rechazo de la propuesta, se deberá realizar dentro de un plazo de siete días naturales, si el Congreso o la Comisión Permanente, no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el Ejecutivo deberá realizar una nueva propuesta, mientras tanto podrá designar un Fiscal Interino. La Ley establecerá la organización y funcionamiento de la Fiscalía General del Estado.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-El Fiscal General del Estado durará en su cargo seis años, podrá ser designado para un segundo periodo; deberá presentar anualmente al Congreso del Estado un informe de actividades.
+El Ministerio de Justicia del Estado es un Organismo Público Independiente, jerárquicamente subordinado al Gobernador del Estado, con personalidad jurídica y patrimonio propios, que estará integrado por un Ministro de Justicia, quien será su titular y representante legal; ocho Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales y un Fiscal Electoral, además, de un Consejo de Procuración dé Justicia y demás personal que señale su Ley Orgánica, quienes tendrán a su cargo las atribuciones propias de la Institución del Ministerio Público.
 
-El Fiscal General del Estado, intervendrá personalmente en las controversias y acciones a que se refiere el artículo 56 de esta Constitución.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-En todos los asuntos en que el Estado sea parte, y en los demás casos en que deba intervenir la Institución del Ministerio Público, el Fiscal lo hará por sí o por medio de sus funcionarios o agentes, salvo disposición en contrario.
+Los Fiscales de Distrito conocerán de los asuntos del Ministerio de Justicia del Estado, en jurisdicciones locales de sus respectivos distritos; serán órganos que gozarán de autonomía técnica y presupuestaría, y ejercerán sus atribuciones a través del principio de unidad, dependencia jerárquica de los Ministerios Públicos de sus respectivos distritos y con sujeción a los principios de imparcialidad y legalidad. Las jurisdicciones de los Fiscales de Distrito serán: Distrito Centro, Distrito Metropolitano, Distrito Istmo-Costa, Distrito Fronterizo Sierra, Distrito Fronterizo Costa, Distrito Altos, Distrito Norte y Distrito Selva. Los Municipios que integren los distritos serán determinados en la Ley Orgánica del Ministerio de Justicia.
 
-El Fiscal General del Estado y demás funcionarios de la Institución del Ministerio público serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo o en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-El Fiscal General del Estado, exclusivamente podrá ser removido de su cargo en los términos del Título Noveno de esta Constitución.
+El Ministerio de Justicia del Estado contará con las Fiscalías Especializadas en: Protección a los Derechos de las Mujeres; Atención a Delitos Cometidos en contra de Periodistas; Coordinación General; Visitaduría; Procedimientos Penales; Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad; Jurídica Normativa; Atención a Grupos Sensibles y Vulnerables; y Justicia Indígena, las que conocerán de los asuntos que en razón a su especialización les asigne la Ley Orgánica del Ministerio de Justicia; además de las fiscalías especiales que cree el Consejo de Procuración de Justicia a propuesta del Gobernador del Estado, las que tendrán las atribuciones que el propio Consejo determine.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Gobernador del Estado podrá solicitar al Consejo de Procuración de Justicia, el cambio de adscripción de los Fiscales de un distrito a otro.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia elaborará un proyecto general de presupuesto de egresos del Ministerio de justicia, integrado por los presupuestos de egresos que los Fiscales de Distrito y el Fiscal Electoral le presenten, el cual enviará al Ejecutivo para glosarlo al presupuesto de egresos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El salario de los Fiscales de Distrito, así como, del Fiscal Electoral será el equivalente a los que perciban los consejeros que integran el Consejo de la Magistratura del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+La Fiscalía Electoral tendrá jurisdicción en todo el Estado, gozará de autonomía técnica y presupuestaría para el desarrollo de la función ministerial en materia de delitos electorales y formará parte del Ministerio de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+Par (sic) ser nombrado Ministro de Justicia, Fiscal Electoral, Fiscal de Distrito, o Fiscal Especializado, se deberán cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+
+II. Tener cuando menos veinticinco años cumplidos el día de su designación.
+
+III. Poseer el día de su designación, con antigüedad mínima de cinco años, titulo y cédula profesional de licenciado en derecho, expedida por autoridad o institución legalmente facultada para ello.
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+
+V. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
+
+VI. Las demás que señale su ley reglamentaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia, el Fiscal Electoral y los Fiscales de Distrito, serán nombrados por el Titular del Poder Ejecutivo y ratificados por la mayoría de los miembros presentes del Congreso del Estado, o en sus recesos por la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+La ratificación o el rechazo del nombramiento, se deberá realizar dentro de un plazo de siete días naturales a la presentación del mismo. Si el Congreso del Estado o la Comisión Permanente no resolvieran dentro de dicho plazo, la designación se tendrá por ratificada; si el nombramiento fuera rechazado, el Ejecutivo deberá presentar nueva propuesta, mientras tanto podrá designar interino para cada cargo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+La ley establecerá la organización y funcionamiento del Ministerio de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia, el Fiscal Electoral y los Fiscales de Distrito podrán ser removidos libremente por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+Los Fiscales Especializados y los demás servidores públicos que señale la Ley Orgánica del Ministerio de Justicia del Estado, serán nombrados y removidos libremente por el Titular del Poder Ejecutivo del Estado. Así también, los fiscales especiales serán nombrados y removidos por el Gobernador del Estado y deberán reunir los mismos requisitos establecidos para los Fiscales de Distrito.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia, los Fiscales de Distrito y el Fiscal Electoral durarán en su cargo siete años, y podrán ser nombrados para un segundo período.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia del Estado, intervendrá personalmente en las controversias y acciones a que se refiere el artículo 56 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+En todos los asuntos en que el Estado sea parte, el Ministro de Justicia lo hará por sí o por medio de los funcionarios y en los demás casos en que deba intervenir la institución del Ministerio Público, lo harán los Fiscales de Distrito y el Fiscal Electoral, por sí o por medio de sus funcionarios o fiscales del ministerio público, salvo disposición en contrario.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministro de Justicia, los Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales y el Fiscal Electoral, así como los demás funcionarios de la institución del Ministerio Público serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo o en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Consejo de Procuración de Justicia, es el órgano colegido de mayor jerarquía del Ministerio de Justicia del Estado que estará integrado por el Ministro de Justicia, quien lo presidirá y los Fiscales de Distrito. El Fiscal Electoral no formará parte del Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Consejo de Procuración de Justicia funcionará en Pleno; los acuerdos serán tomados por mayoría de votos, sesionará por lo menos cada dos meses y podrá conformar quórum legal con cinco de sus miembros presentes.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Consejo de Procuración de Justicia, resolverá cualquier solicitud del Ejecutivo para cambiar de adscripción a los Fiscales de Distrito, así como para crear nuevas Fiscalías Especiales, además, determinará las medidas que tiendan a mejorar el sistema de procuración de justicia en la Entidad, independientemente de las atribuciones que le confiera la Ley Orgánica del Ministerio de Justicia.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+El Ministerio de Justicia del Estado, contará con una Contraloría General, cuyo titular será designado por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+La Contraloría General del Ministerio de Justicia del Estado, tendrá por objeto la fiscalización de los recursos financieros de los órganos que lo integran, así como la sustanciación y aplicación de sanciones administrativas de los funcionarios del mismo, con excepción del Ministro de Justicia del Estado, los Fiscales de Distrito y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado, para la substanciación del procedimiento correspondiente ante el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -1265,7 +1399,9 @@ IV. Resolver los conflictos de competencia que se susciten entre Salas Regionale
 
 V. Designar a los miembros del Consejo de la Magistratura y del Tribunal de Justicia Electoral y Administrativa que correspondan al Poder Judicial;
 
-VI. Conocer de los asuntos a petición fundada del Fiscal General de Justicia del Estado, que por su interés o trascendencia así lo ameriten; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VI. Conocer de los asuntos a petición fundada del Ministro de Justicia del Estado, que por su interés o trascendencia así lo ameriten; y
 
 VII. Ejercer las demás atribuciones que les confieran esta Constitución y la Ley.
 
@@ -1299,7 +1435,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 V. No ser ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento;
 
-VI. No haber sido Secretario de Despacho, Fiscal General del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VI. No haber sido Secretario de Despacho, Ministro de Justicia del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se separe del cargo un año antes del día de su nombramiento;
 
 VII. Acreditar conocimientos especializados en materia constitucional para el caso de los magistrados del Tribunal Constitucional; y
 
@@ -1369,7 +1507,9 @@ a) El Gobernador del Estado;
 
 b) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de leyes expedidas por el Congreso del Estado;
 
-c) El Fiscal General del Estado, en contra de leyes expedidas por el Congreso del Estado;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+c) El Ministro de Justicia del Estado, en contra de leyes expedidas por el Congreso del Estado;
 
 d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la Entidad.
 
@@ -1397,11 +1537,17 @@ El Consejo de la Magistratura es un órgano del Poder Judicial del Estado, con i
 
 Estará integrado por cinco consejeros, nombrados de la siguiente forma:
 
-V. (SIC) Dos por el Tribunal Constitucional, de los cuales uno será seleccionado tomando en consideración los criterios de antigüedad, preparación profesional y eficacia en el desempeño de las funciones, de entre una terna de. Magistrados de las Salas Regionales que le presente el Consejo de la Magistratura; y el otro, será elegido por Insaculación en audiencia pública, de entre una lista de cinco Jueces de Primera Instancia que se hayan distinguido por los mismos criterios utilizados para la elección de los anteriores,
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-VI. Dos nombrados por el Congreso del Estado o por la Comisión Permanente en su caso; y
+I. Dos por el Tribunal Constitucional, de los cuales uno será seleccionado tomando en consideración los criterios de antigüedad, preparación profesional y eficacia en el desempeño de las funciones, de entre una terna de Magistrados de las Salas Regionales que le presente el Consejo de la Magistratura; y el otro, será elegido por insaculación en audiencia pública, de entre una lista de cinco Jueces de Primera Instancia que se hayan distinguido por los mismos criterios utilizados para la elección de los anteriores;
 
-VII. Uno nombrado por el titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+II. Dos nombrados por el Congreso del Estado o por la Comisión Permanente en su caso; y
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+III. Uno nombrado por el Titular del Poder Ejecutivo del Estado.
 
 Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Noveno de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
@@ -1635,9 +1781,9 @@ Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los 
 
 Para los efectos de este título, tendrán el carácter de Servidores Públicos, los Representantes de elección Popular, los miembros del Poder Judicial, los funcionarios, los empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Paraestatal, Municipal, así como del Instituto Estatal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-El Gobernador del Estado, los Diputados Estatales, los Magistrados del Poder Judicial del Estado y los Presidentes Municipales, solo serán responsables por violaciones graves a la Constitución General de la República, a la del Estado y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos.
+El Gobernador del Estado, los Diputados Estatales, los Magistrados del Poder Judicial del Estado, El Ministro de Justicia, el Fiscal Electoral, los Fiscales de Distrito y los Presidentes Municipales, solo serán responsables por violaciones graves a la Constitución General de la República, a la del Estado y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -1659,11 +1805,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado, los Secretarios de Despacho, el Fiscal General del Estado, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidente Municipales, los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
+Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado, los Secretarios de Despacho, el Ministro de Justicia del Estado, el Fiscal Electoral, los Fiscales de Distrito, los integrantes de la Contraloría de la Legalidad Electoral, el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidente Municipales, los Consejeros Electorales del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
 
 > <small>(ADICIONADO [N. DE E. ANTES SEGUNDA PARTE DEL PRIMER PARRAFO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
@@ -1685,15 +1831,37 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
 ## TITULO SEPTIMO. DE LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
+###### Artículo 72.
+
+Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados locales, por los Magistrados y Consejeros de la Magistratura Superior del Estado, por los Secretarios y Subsecretarios de Despacho, por el Ministro de Justicia del Estado, Fiscales de Distrito y el Fiscal Electoral, el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los Tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
+
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros de la Magistratura del Poder Judicial del Estado incurran en delitos Federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo, la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
+
+Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la Legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
+
+En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados Locales, por los Magistrados y Consejeros de la Magistratura Superior del Estado, por los Secretarios y Subsecretarios de Despacho, por el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales; el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral; el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros Servidores Públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los Tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la ley penal cometidos por el Gobernador del Estado, por los Diputados Locales, por los Magistrados y Consejeros de la Magistratura Superior del Estado, por los Secretarios y Subsecretarios de Despacho, por el Ministro de Justicia del Estado, Fiscales de Distrito y el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral; el Contralor General, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros Servidores Públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los Tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -1763,11 +1931,11 @@ Todos los funcionarios públicos del Estado percibirán una compensación por su
 
 Todos los funcionarios y empleados del Estado y de los Municipios, al tomar posesión de sus cargos, harán protesta formal de respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador, los Magistrados, el Fiscal General del Estado, Fiscales Generales Adjuntos y Fiscales Regionales, los Agentes del Ministerio Público, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, los Secretarios y actuarios del Poder Judicial, los Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Ministro de Justicia del Estado, los Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales, los Agentes del Ministerio Público, el Fiscal Electoral, los integrantes de la Contraloría de la Legalidad Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, los Secretarios y actuarios del Poder Judicial, los Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2942,3 +3110,37 @@ P.O. 22 DE AGOSTO DE 2007.
 Primero.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción a lo relacionado con la Fiscalía Electoral del Estado, lo cual entrará en vigencia a partir del primero de enero del año 2008.
+
+Artículo Segundo.- Se extingue la Fiscalía General del Estado de Chiapas.
+
+Los recursos humanos, materiales y financieros de la Fiscalía General del Estado, pasarán a formar parte del patrimonio del Ministerio de Justicia del Estado de Chiapas. El personal de base adscrito a la Fiscalía General del Estado, continuará desempeñando sus actividades en el Ministerio de Justicia del Estado, quedando salvaguardados todos sus derechos laborales.
+
+Artículo Tercero.- Dentro del plazo de sesenta días contados a partir de la publicación de la presente reforma, deberá expedirse la Ley Orgánica del Ministerio de Justicia del Estado.
+
+Artículo Cuarto.- Si el titular de la extinta Fiscalía General del Estado fuera designado Ministro de Justicia, durará en su encargo únicamente dos años improrrogables, contados a partir de la publicación del presente decreto.
+
+El Gobernador del Estado procederá a hacer los nombramientos de los Fiscales Especializados dentro del término de los sesenta días naturales posteriores a la publicación de la presente reforma.
+
+Dentro del mismo término, el Ejecutivo del Estado propondrá al Congreso del Estado o a la Comisión Permanente en su caso, el nombramiento del Ministro de Justicia y los fiscales de distrito.
+
+Artículo Quinto.- En tanto se hacen los nombramientos de los servidores públicos a que hace alusión el artículo inmediato anterior, el Fiscal General asumirá las funciones y competencias que corresponden al Ministro de Justicia, y los fiscales regionales, las que corresponden a los fiscales de distrito.
+
+Los asuntos que se encuentren en trámite por la Fiscalía General del Estado, continuarán siendo desahogados y concluidos por el Ministerio de Justicia del Estado de Chiapas, previa razón que se asiente en cada uno de los expedientes con motivo de las presentes reformas.
+
+Artículo Sexto.- Una vez nombrados los fiscales de distrito se procederá a conformar el Consejo de Procuración de Justicia para determinar y organizar en la forma que determine la ley orgánica respectiva, los recursos que corresponderán a cada Fiscalía de Distrito y a las áreas centrales del Ministerio de Justicia.
+
+Artículo Séptimo.- Por única vez y en tanto se hacen los nombramientos correspondientes, el titular del Ministerio de Justicia del Estado acordará los términos de la Organización del Ministerio de Justicia con el titular del Ejecutivo del Estado. Así también, en tanto cobra vigencia la Ley Orgánica del Ministerio de Justicia del Estado, se observarán las disposiciones de la Ley Orgánica de la Fiscalía General del Estado que no se opongan al presente decreto.
+
+Lo no previsto, será resuelto mediante acuerdo del Ejecutivo del Estado a propuesta del Consejo de Procuración de Justicia.
+
+Artículo Octavo.- A partir de la fecha señalada en el artículo primero transitorio de las presentes reformas, los recursos humanos, materiales y financieros de la Fiscalía Electoral, pasarán a formar parte de la Fiscalía Electoral del Ministerio de Justicia del Estado de Chiapas.
+
+El Actual Fiscal Electoral del Estado, durará en su cargo como titular de la Fiscalía Electoral del Ministerio de Justicia del Estado de Chiapas, el tiempo que reste del período por el que fue nombrado.
+
+Artículo Noveno.- Lo contenido en la presente Constitución y las leyes secundarias, que tengan como referencia a la Fiscalía General del Estado, deberán entenderse en identidad al Ministerio de Justicia del Estado de Chiapas.
+
+Artículo Décimo.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
