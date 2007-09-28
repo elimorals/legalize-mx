@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2002-07-05"
+last_updated: "2007-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -687,13 +687,21 @@ IV. Vías estatales de comunicación, incluidos los caminos rurales;
 
 V. Zonas, fraccionamientos y parques industriales, incluidas las plantas agroindustriales;
 
-VI. La construcción y operación de sistemas para almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento o disposición final de los residuos industriales no peligrosos y en el caso de los residuos sólidos municipales es el tratamiento, confinamiento o disposición final;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+VI.- La prestación de servicios a terceros que tengan por objeto la operación de sistemas de almacenamiento, reuso, reciclaje, incineración, tratamiento y confinamiento o disposición final de residuos no peligrosos, así como la construcción y operación de los sistemas mencionados;
 
 VII. Aquellas obras y actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente;
 
-VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que se establezcan en los listados de actividades riesgosas; y
+VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que se establezcan en los listados de actividades riesgosas; y (sic)
 
-IX. Las que se determinen en los reglamentos, normas ambientales estatales.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+X. Las que se determinen en los reglamentos, normas ambientales estatales.
 
 Entre los municipios y la Secretaría, podrán establecerse convenios a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones, cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos severos al ambiente o impliquen un uso masivo de recursos naturales.
 
@@ -1381,17 +1389,11 @@ En todo caso, corresponde a la Secretaría, vigilar el adecuado funcionamiento d
 
 ###### ARTÍCULO 120.
 
-Queda prohibida la quema a cielo abierto de cualquier tipo de residuo.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 121.
 
-Solo se permitirá la quema a cielo abierto, en los siguientes casos:
-
-I. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
-
-II. Cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales y medie recomendación de alguna autoridad de atención a emergencias; y
-
-III. En caso de quemas agrícolas, cuando no cause daño ecológico grave a la calidad del aire, y no represente un riesgo a la salud, los ecosistemas y medie recomendación de alguna autoridad forestal, agraria o pecuaria.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ### CAPÍTULO IV. Prevención y control de la contaminación del suelo
 
@@ -1563,15 +1565,7 @@ VIII. Expedir en sus bandos de policía o reglamentos los requerimientos que con
 
 ###### ARTÍCULO 137.
 
-Se prohibe el depósito, infiltración o manejo de residuos que se acumulen o puedan acumularse en los suelos y que generen o puedan generar:
-
-I. Contaminación del suelo;
-
-II. Alteraciones nocivas en el proceso biológico de los suelos;
-
-III. Alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación; y
-
-IV. Riesgos, inseguridad y problemas de salud.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 138.
 
@@ -1587,17 +1581,7 @@ IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta
 
 ###### ARTÍCULO 139.
 
-Cuando por las acciones de generación, recolección, reuso, recuperación, reciclaje, transporte, almacenamiento, manejo, tratamiento incineración, confinamiento y disposición final de residuos sólidos no peligrosos, provoquen contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
-
-I. Realizar los análisis respectivos que determinen el grado de contaminación del sitio;
-
-II. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que este pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, para el predio o zona respectiva; y
-
-III. Indemnizar los daños causados, de conformidad con la legislación civil aplicable, en aquellos casos en que la recuperación y restauración no sean factibles.
-
-La responsabilidad a que se refiere este artículo es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
-
-Son responsables solidarios por los daños que se produzcan, tanto el generador, como las empresas o particulares que presten los servicios en estas áreas.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 140.
 
@@ -1605,63 +1589,41 @@ Las autoridades que tengan a su cargo la promoción y el fomento de las activida
 
 ###### ARTÍCULO 141.
 
-Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación al ambiente, la Secretaría y los municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la prevención de generación, minimización, reuso y reciclaje de residuos no peligrosos. Asimismo, promoverá el otorgamiento de instrumentos económicos en favor de quienes realicen dichas actividades.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
+
+> <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 142.
 
-La Secretaría y los municipios podrán convenir diversas acciones comunes en la implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de los mismos, y la identificación y mejoramiento de alternativas de reutilización y disposición final de residuos sólidos municipales, incluyendo la elaboración, actualización y evaluación de inventarios de los mismos y sus fuentes generadoras.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 143.
 
-Requiere autorización en materia de impacto ambiental por parte de la Secretaría, previo al inicio de obras y actividades:
-
-I. La prestación de servicios a terceros que tengan por objeto la operación de sistemas de almacenamiento, reuso, reciclaje, incineración, tratamiento y confinamiento o disposición final de residuos industriales no peligrosos; y
-
-II. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 144.
 
-Durante las diferentes etapas del manejo y disposición final de los residuos no peligrosos, se prohibe:
-
-I. El depósito o confinamiento en sitios no autorizados, públicos o privados;
-
-II. El fomento o creación de basureros clandestinos;
-
-III. La mezcla de residuos peligrosos con residuos no peligrosos, para diluir o reducir su nivel de peligrosidad;
-
-IV. El confinamiento o depósito final de residuos en Estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales estatales; y
-
-V. El depósito en sitios de disposición final autorizados para residuos sólidos municipales, de residuos industriales, residuos líquidos, residuos de lenta degradación y en general en lo que se refiere a la mezcla entre estos distintos tipos de residuos.
-
-La mezcla o dilución de los residuos no peligrosos con peligrosos, se considerará como un residuo peligroso.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 145.
 
-La generación, manejo, almacenamiento, recolección, transporte, tratamiento, reuso, reciclaje, recuperación, incineración, confinamiento o disposición final de residuos no peligrosos deberá hacerse conforme las disposiciones de la normatividad aplicable.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 146.
 
-Sólo se podrá autorizar el confinamiento de residuos sólidos municipales, industriales y de lenta degradación cuando éstos no puedan ser técnica ni económicamente sujetos de reuso, reciclaje o tratamiento.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 147.
 
-La responsabilidad del manejo y disposición final de los residuos no peligrosos corresponde a quien los genera. En el caso de que se contraten los servicios de manejo y disposición final de estos residuos, con empresas autorizadas a éstas corresponderá la responsabilidad de su operación, independientemente de la que corresponda al generador.
-
-Quienes generen, recolecten, transporten, almacenen, reusen, recuperen, o reciclen, residuos no peligrosos, deberán hacerlo del conocimiento de la Secretaría o los municipios, en los términos previstos en esta Ley y sus reglamentos.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 148.
 
-Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el reglamento de la presente Ley y los reglamentos municipales.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 149.
 
-En materia de revulcanización, aprovechamiento o comercialización de llantas o neumáticos de hule se observarán las siguientes disposiciones:
-
-I. La Secretaría o los municipios, crearán o autorizarán la operación de centros de transferencia y de reciclaje de llantas o neumáticos de desecho;
-
-II. Quienes se dediquen a dichas actividades deberán disponer las llantas de desecho que generen, en los centros de transferencia o reciclaje autorizados; y
-
-III. El manejo de estos residuos se sujetará a las disposiciones de la normatividad aplicable.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
 ###### ARTÍCULO 150.
 
@@ -2236,3 +2198,17 @@ BERNARDO BORBON VILCHES
 P.O. 5 DE JULIO DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor 90 días hábiles contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se expidan las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades Estatales y Municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta Ley, en un plazo no mayor de 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
