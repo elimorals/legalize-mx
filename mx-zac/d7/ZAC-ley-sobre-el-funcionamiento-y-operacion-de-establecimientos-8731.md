@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-el-funcionamiento-y-operacion-de-establecimientos-873
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-05"
-last_updated: "1996-12-28"
+last_updated: "2007-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY SOBRE EL FUNCIONAMIENTO Y OPERACION DE ESTABLECIMIENTOS DESTINADOS AL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 5 de enero de 1994.
 
@@ -564,3 +566,17 @@ Los asuntos pendientes de resolución, iniciados con anterioridad a la vigencia 
 ###### ARTICULO TERCERO.
 
 El reglamento de la presente Ley, deberá modificarse o ajustarse a las normas contenidas en el presente decreto, dentro de los siguientes 60 días al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2007.
+
+Artículo primero.- La presente Ley entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se abroga la Ley Sobre el Funcionamiento y Operación de Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas, de fecha veintiuno de diciembre de mil novecientos noventa y tres, publicada en Suplemento número 2 del Periódico Oficial, Órgano del Gobierno del Estado, en fecha 5 de enero de 1994; asimismo, se abroga el Reglamento de la Ley Sobre el Funcionamiento y Operación de Establecimientos Destinados al Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas, publicado en Suplemento número 3 al número 17 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 26 de febrero de 1997.
+
+Artículo tercero.- Se derogan las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+Artículo cuarto.- La Secretaría establecerá los enlaces y realizará las reuniones correspondientes con las tesorerías municipales con la finalidad de dar a conocer este conjunto de disposiciones e impulsar la aplicación de esta Ley.
+
+Artículo quinto.- Dentro de los noventa días siguientes a la entrada en vigor del presente ordenamiento, El Ejecutivo del Estado expedirá el Reglamento Estatal.
+
+Artículo sexto.- Dentro de los sesenta días siguientes a la entrada en vigor de esta Ley, deberá reformarse la Ley de Hacienda del Estado.
