@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2007-05-16"
+last_updated: "2007-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2007.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -925,9 +925,9 @@ XV.- Constituido en Colegio Electoral:
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
+B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1665,7 +1665,7 @@ La potestad de aplicar las leyes del fuero común en materia civil y penal en el
 
 DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 100.
 
@@ -1677,35 +1677,33 @@ DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
 Todos los cargos y empleos en el Poder Judicial son de aceptación y desempeño enteramente libres, pudiendo los nombrados tanto excusarse de aceptarlos como de renunciarlos ante la autoridad que haya hecho la designación.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 102.
 
-Si al terminarse el período señalado a los funcionarios judiciales no hubieren sido electos o nombrados quienes deban reemplazarlos o no se hubieren presentado éstos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados respectivamente.
+Si al terminarse el período señalado a los magistrados y jueces:
+
+1.- No se hubiera emitido el dictamen de evaluación y, con base en el mismo, llevado a cabo su reelección, en su caso, se entenderá que han sido ratificados en sus cargos, sin perjuicio de las responsabilidades en que incurran los funcionarios legislativos o judiciales en quienes recaiga la omisión.
+
+2.- No se hubieran electo o presentado quienes deban reemplazarlos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o se presenten los electos o nombrados, respectivamente.
+
+Si al terminarse el período señalado al resto de los funcionarios judiciales no hubieren sido electos o nombrados quienes deban reemplazarlos, o no se hubieren presentado éstos, continuarán aquellos en el ejercicio de sus funciones hasta que se haga la elección o el nombramiento o se presenten los electos o nombrados, respectivamente.
 
 ###### Art. 103.
 
-El Supremo Tribunal de Justicia se compondrá, cuando menos, de nueve magistrados, que serán designados de la siguiente manera:
+El Supremo Tribunal de Justicia se compondrá cuando menos de quince magistrados, que serán designados de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Cuando exista una vacante absoluta o se autorice la creación de una nueva Sala, el Supremo Tribunal de Justicia emitirá convocatoria pública dirigida a quienes satisfagan los requisitos que establece el artículo 108, por conducto de un Jurado, constituido por dos miembros del Poder Legislativo, dos del Poder Ejecutivo y dos magistrados del Poder Judicial.
 
-Cuando exista una vacante absoluta o se autorice la creación de una nueva sala, el Supremo Tribunal de Justicia convocará a los aspirantes a un concurso de méritos cuyo jurado, integrado en forma paritaria por representantes de los Poderes Ejecutivo y Judicial, seleccionará y someterá al pleno del Congreso una terna integrada por los candidatos mejor calificados.
+El Jurado elaborará los exámenes públicos de oposición que habrán de aprobar los aspirantes en los términos que disponga la Ley Orgánica respectiva. En igualdad de circunstancias se preferirá a aquellas personas que hayan prestado sus servicios con eficiencia y probidad en su honorabilidad, competencia y antecedentes, entre otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Los magistrados serán electos por el Congreso con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. Si luego de celebrada la segunda ronda de votación ninguno obtuviese la mayoría calificada, se elegirá a quien logre la mayoría absoluta; en caso de empate, se designará magistrado a quien ya preste sus servicios al Poder Judicial o, en su caso, al que tenga más años haciéndolo.
 
-En la formación de las ternas se preferirá, en igualdad de circunstancias, a los jueces de primera instancia o secretarios de sala que hayan prestado sus servicios con eficiencia y probidad.
+El procedimiento de elección se establecerá en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Los magistrados que concluyan su encargo podrán ser, en su caso, reelectos por el Congreso, por mayoría calificada de los diputados presentes.
 
-Los magistrados serán electos por mayoría absoluta de votos de los diputados presentes, en escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación, se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. En caso de empate tendrá que presentarse nueva terna.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Los magistrados que concluyan su encargo podrán ser ratificados por el Congreso, por mayoría absoluta de votos.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho en los asuntos del Poder Judicial.
+Los magistrados y jueces en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar otro cargo, empleo o comisión que fueren retribuidos, salvo los de docencia y fuera de las horas designadas al despacho de los asuntos del Poder Judicial.
 
 ###### Art. 104.
 
@@ -1731,13 +1729,15 @@ DE LOS JUECES DE PRIMERA INSTANCIA, MENORES Y DE PAZ.
 
 Nunca podrán desempeñar su función simultáneamente en el Tribunal, magistrados que entre sí sean cónyuges, parientes consanguíneos en línea recta o colateral dentro del cuarto grado. Tratándose de afines, la prohibición comprende la línea recta y la colateral dentro del segundo grado.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 107.
 
-Los Magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia durarán en su encargo tres años, al término de los cuales si los primeros fueren reelectos y los segundos ratificados por las dos terceras partes del número total de los Magistrados en Pleno, serán inamovibles y sólo podrán ser destituidos en los casos que determine esta Constitución, la Ley de Responsabilidad de los Servidores Públicos o la Orgánica del Poder Judicial.
+Los magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia durarán en su encargo tres años, al término de los cuales, si fueren reelectos los primeros por el Congreso y los segundos por las dos terceras partes del número de magistrados presentes en el Pleno, serán inamovibles y sólo podrán ser destituidos en los casos que determine esta Constitución o las leyes.
 
-Los Jueces Menores y de Paz durarán indefinidamente en el cargo y podrán ser destituidos en los casos en que la ley lo estipule o cuando lo estime conveniente el Pleno del Supremo Tribunal de Justicia.
+La reelección, en su caso, de los magistrados del Supremo Tribunal de Justicia, se realizará previa emisión de un dictamen, en el que se tomarán en cuenta, de conformidad con la Ley Orgánica respectiva, el desempeño que hayan tenido en el ejercicio de su función; los resultados de las visitas de inspección; el grado académico, que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente; no haber sido sancionado por falta grave, con motivo de una queja de carácter administrativa; y, los demás elementos que se consideren pertinentes, siempre que consten de manera indubitable.
+
+Los jueces de primera instancia podrán ser reelectos en los términos de esta Constitución y la Ley Orgánica respectiva. En tanto, los jueces menores y de paz durarán indefinidamente en el cargo y podrán ser destituidos en los casos en que la ley lo estipule o cuando lo estime conveniente el Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
 
@@ -1781,43 +1781,59 @@ a).- A los Jueces del Estado.
 
 b).- Libremente: a los Secretarios de Salas, visitadores judiciales y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otra forma en esta Constitución o en la Ley.
 
-V.- Crear y suprimir juzgados de acuerdo a las necesidades de la Administración de justicia.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+V.- Nombrar a su Presidente de entre sus integrantes, mediante votación por mayoría calificada de las dos terceras partes de los magistrados presentes en el Pleno.
 
-VI.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-VII.- Conceder licencias por más de diez días u hasta por seis meses a funcionarios y empleados del Poder Judicial.
+VI.- Crear y suprimir juzgados de acuerdo a las necesidades de la administración de justicia.
 
-VIII.- Suspender hasta por tres meses, por causa grave justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Poder Judicial.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
 
 Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
 
-IX.- Aprobar sus reglamentos interiores.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-X.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
+X.- Aprobar sus reglamentos interiores.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XI.- Formular el proyecto de presupuesto de egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
+XI.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
 
-XII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
 
-XIII.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
 
-XIV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
 
-XV.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución, y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
 
-XVI.- Ejercer las demás atribuciones que le señalan las leyes.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+XVI.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+XVII.- Ejercer las demás atribuciones que le señalan las leyes.
 
 ###### Art. 110.
 
@@ -3386,3 +3402,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Por lo que respecta a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado, junto con la correspondiente reforma a la Ley Orgánica del Poder Judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, por lo que se refiere a la reforma a la Constitución Política del Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. En tanto, la reforma a la Ley Orgánica del Poder Judicial tendrá aplicación el día inmediato posterior a la vigencia de la reforma constitucional.
