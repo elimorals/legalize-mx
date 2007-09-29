@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2007-09-12"
+last_updated: "2007-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -167,9 +167,11 @@ X. Los que tengan a su cargo la dirección o coordinación de las dependencias a
 
 XI. Los administradores de los Tribunales del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
 ###### ARTICULO 17.
 
-Con excepción de los Magistrados y Jueces que hayan adquirido inamovilidad, los funcionarios a que alude el artículo precedente, serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó.
+Con excepción de los magistrados y jueces, los funcionarios a que alude el artículo precedente serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -321,11 +323,15 @@ I. Será convocado, previo acuerdo del Pleno, por el Secretario General y lo lle
 
 II. Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
 
-III. Al examen que deba realizarse para elegir magistrados, jueces, al Director General del Centro Estatal de Mediación o a los Administradores de los Tribunales, se aplicarán las siguientes bases:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+III. Al examen que deba realizarse para elegir jueces, al Director General del Centro Estatal de Mediación o a los Administradores de los Tribunales, se aplicarán las siguientes bases:
 
 a) La Comisión formulará y entregará a los sustentantes una guía respecto de las materias o aspectos sobre los que versará el examen que deban presentar, cuyo contenido deberán definir siguiendo las recomendaciones del Centro de Formación y Actualización Judicial. En el examen correspondiente se incluirán aspectos dirigidos a evaluar la perspectiva de género.
 
-b) En el caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa, mediante la correspondiente insaculación. Tratándose de la designación de jueces, la Comisión se integrará por tres magistrados de la materia que deba conocer el Juzgado que se concursa, de igual forma mediante la correspondiente insaculación; tratándose de la designación del Director General del Centro Estatal de Mediación y de los Administradores de Tribunales, la Comisión se integrará por magistrados tanto civiles como penales, así como por especialistas en las materias de mediación o administración, según corresponda, avalados por una institución educativa legalmente reconocida.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+b) Para la designación de jueces se creará una Comisión integrada por tres magistrados de la materia que deba conocer el Juzgado que se concursa, de igual forma mediante la correspondiente insaculación; tratándose de la designación del Director General del Centro Estatal de Mediación y de los Administradores de Tribunales, la Comisión se integrará por magistrados tanto civiles como penales, así como por especialistas en las materias de mediación o administración, según corresponda, avalados por una institución educativa legalmente reconocida.
 
 c) La Comisión también deberá calificar a los aspirantes tomando en cuenta su experiencia profesional y académica, desempeño en la docencia, obras publicadas, aspectos disciplinarios y, en su caso, la antigüedad, calidad y capacidad demostrada en el desempeño de cargos anteriores en el Poder Judicial o en la administración pública, conforme se determine en el reglamento.
 
@@ -407,23 +413,37 @@ En cuanto a la extensión y límites de los Municipios y las Secciones Municipal
 
 El Supremo Tribunal de Justicia estará integrado, cuando menos, por quince magistrados. Funcionará en pleno o mediante salas unitarias o colegiadas, las cuales podrán ser centrales o regionales. El asiento del primero estará en la ciudad de Chihuahua y ejercerá jurisdicción en todo el Estado. Las Salas centrales residirán en la ciudad de Chihuahua y las Regionales en la población que determine el Pleno, con la competencia territorial y jurisdiccional que éste les asigne.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 39.
 
-Si se creara una nueva sala o hubiere ausencia absoluta de absoluta de algún magistrado, el Supremo Tribunal de Justicia convocará a concurso de méritos para la integración de terna, que se someterá al Congreso, para la elección del magistrado que deba cubrir la plaza. El procedimiento para ese efecto será conforme a las siguientes directivas:
+Si se creara una nueva sala o hubiera ausencia absoluta de algún magistrado, el Supremo Tribunal de Justicia emitirá convocatoria a exámenes públicos de oposición para cubrir la vacante respectiva.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2004)</small>
+El procedimiento para ese efecto será conforme a las siguientes reglas:
 
-I.- La convocatoria será publicada en el Periódico Oficial y, cuando menos, en los dos diarios de mayor circulación del Estado, las veces que el pleno considere adecuadas; en el caso de ausencia absoluta, la convocatoria deberá ser publicada dentro de los 180 días siguientes a partir de que ésta ocurra;
+I. El Supremo Tribunal de Justicia convocará a los miembros del Jurado, que estará integrado de la siguiente manera:
 
-II.- El Jurado de elección de la terna estará compuesto por dos representantes del Poder Judicial, designados mediante insaculación, y dos del Gobernador del Estado;
+a) Dos diputados del Poder Legislativo, designados por el Pleno, a propuesta de la Junta de Coordinación Parlamentaria;
 
-III.- El Jurado será presidido por el representante del Poder Judicial que fuere de más edad, quien tendrá voto de calidad en caso de empate;
+b) Dos integrantes del Poder Ejecutivo, designados por el Gobernador del Estado; y
 
-IV.- El Jurado para tomar su determinación considerará los antecedentes administrativos, profesionales y académicos de los concursantes, así como los resultados de las entrevistas que tuviera con ellos y de los exámenes que les hubiera aplicado. Además, en igualdad de circunstancias, preferirá a los jueces de primera instancia y a los secretarios de salas que hubieren prestado sus servicios al Poder Judicial del Estado con eficiencia y probidad, así como a quienes se hubieran distinguido por su honorabilidad y competencia en otras ramas de la profesión jurídica;
+c) Dos magistrados del Poder Judicial, designados mediante insaculación de entre su totalidad, por el Pleno del Supremo Tribunal de Justicia.
 
-V.- Definida la terna, el Jurado la comunicará directamente al Congreso del Estado o a su Diputación Permanente.
+El presidente será quien resulte electo por mayoría simple de los miembros del propio Jurado, y tendrá voto de calidad en caso de empate.
+
+II. El Jurado emitirá una convocatoria para la práctica de los exámenes públicos de oposición, la cual se expedirá con cuarenta y cinco días de anticipación. Será dirigida a quienes satisfagan los requisitos que impone el artículo 108 de la Constitución del Estado, y debidamente publicitada en los periódicos de mayor circulación, indicando el nombre de los sinodales. La convocatoria se publicará el número de veces que el jurado estime adecuado. La convocatoria señalará con claridad la vacante sujeta a concurso, el lugar día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios.
+
+III. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la plaza para la que se concursa.
+
+Dentro del número total de aspirantes sólo tendrán derecho a pasar a la siguiente etapa cinco por cada una de las vacantes sujetas a concurso que hayan obtenido las más altas calificaciones.
+
+IV. Los aspirantes seleccionados en términos de la fracción anterior resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas resoluciones y sentencias. Posteriormente, se procederá a la realización del examen oral y público que practique el Jurado, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de magistrado. La calificación final se determinará con el promedio de los puntos que cada miembro del Jurado le asigne al sustentante. Los puntajes se asignarán de acuerdo con la tabla de valores que para el efecto apruebe el propio Jurado.
+
+Al llevar a cabo su evaluación el Jurado tomará en consideración los cursos acreditados que haya realizado el sustentante; la antigüedad en el Poder Judicial del Estado; el desempeño; el grado académico y los cursos de actualización y especialización que haya demostrado.
+
+V. Concluidos los exámenes públicos de oposición y determinadas las calificaciones finales, el Jurado remitirá los nombres de los tres mejores sustentantes con sus resultados y datos curriculares al Congreso del Estado o a su Diputación Permanente, en su caso, para que ésta convoque a Período Extraordinario, si para el inicio del Ordinario faltaran más de quince días.
+
+VI. Los magistrados serán electos por el Congreso de entre la terna presentada por el Jurado con la votación de las dos terceras partes de los diputados presentes mediante escrutinio secreto. Si ninguno obtuviere tal mayoría en primera votación se repetirá ésta entre los dos que hubieran obtenido más sufragios y se declarará electo al que obtenga el expresado número de votos. Si luego de celebrada la segunda ronda de votaciones ninguno obtuviese la mayoría calificada, se elegirá a quien logre la mayoría absoluta; en caso de empate, se designará magistrado a quien ya prestara sus servicios al Poder Judicial o, en su caso, al que tenga más años haciéndolo.
 
 ###### ARTICULO 40.
 
@@ -515,7 +535,9 @@ Ningún Magistrado de los presentes en la sesión podrá abstenerse de votar ni 
 
 Son facultades del Pleno:
 
-l. Elegir, entre los magistrados inamovibles, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+I. Elegir, de entre sus integrantes, por mayoría calificada de las dos terceras partes de los magistrados presentes, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
 
 II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia.
 
@@ -611,27 +633,27 @@ XLI. Las demás atribuciones que estuvieren expresamente establecidas en la Cons
 
 ### CAPITULO III. DEL PRESIDENTE
 
-(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 51.
 
-El Presidente del Supremo Tribunal de Justicia lo será también del Tribunal Pleno y no integrará Sala. Durará en su encargo tres años, concluyendo su ejercicio el día cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los Magistrados inamovibles por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el día cinco de octubre del año en que corresponda la elección.
+El Presidente del Supremo Tribunal de Justicia lo será también del Tribunal Pleno y no integrará Sala. Durará en su encargo tres años, concluyendo su ejercicio el día cuatro de octubre del año que corresponda, con la posibilidad de ser reelecto. Su elección se hará de entre los magistrados, por mayoría de votos de los integrantes presentes del Pleno, en sesión que para ese único objeto se celebre el día cinco de octubre del año en que corresponda la elección.
 
-El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el Magistrado que corresponda, en el orden señalado en el artículo 53.
+El día de la elección y hasta antes de que se conozca el resultado de la misma, la Presidencia se ejercerá interinamente por el magistrado que corresponda, en el orden señalado en el artículo 53.
 
-En la designación de Presidente, ningún magistrado tendrá voto de calidad y, en caso de empate, se realizará una segunda votación con los candidatos que obtuvieron igualdad de votos, y si ninguno obtiene mayoría, de entre éstos se elegirá Presidente al Magistrado de mayor antigüedad en el cargo y, en igualdad de condiciones, al de mayor edad.
+En la designación de Presidente, ningún magistrado tendrá voto de calidad y, en caso de empate, se realizará una segunda votación con los candidatos que obtuvieron igualdad de votos, y si ninguno obtiene mayoría, de entre éstos se elegirá Presidente al magistrado que sea inamovible, o al de mayor antigüedad en el cargo y, en igualdad de condiciones, al de mayor edad.
 
 ###### ARTICULO 52.
 
 La renuncia al cargo de Presidente no implica al de Magistrado.
 
-(REFORMADO, P.O. 9 DE MARZO DE 2005) (REPUBLICADO, P.O. 16 DE MARZO DE 2005)
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 53.
 
-Las ausencias del Presidente del Supremo Tribunal hasta por cinco días se cubrirán, por el magistrado inamovible de aquél designe; si exceden de ese lapso pero no de treinta días, las ausencias se cubrirán, alternadamente y por orden, por los magistrados inamovibles de las salas penales y las civiles, hasta concluir con los existentes, para dar inicio a una nueva ronda. Si las ausencias fueren por más tiempo, el Pleno elegirá de entre sus miembros a quien ejerza la Presidencia. El sustituto continuará en el despacho de la Sala de que fuere titular. Si se trata de faltas de asistencia al despacho hasta por cinco días, bastará que el Presidente dé aviso a quien deba sustituirlo; si excedieren de ese lapso, deberá comunicarlo a todos los magistrados que integran el Tribunal Pleno para los efectos conducentes.
+La ausencias del Presidente del Supremo Tribunal hasta por cinco días se cubrirán por el magistrado que aquél designe; si exceden de ese lapso pero no de treinta días, las ausencias se cubrirán, alternadamente y por orden, por los magistrados de las salas penales y las civiles, hasta concluir con los existentes, para dar inicio a una nueva ronda. Si las ausencias fueren por más tiempo, el Pleno elegirá de entre sus miembros a quien ejerza la Presidencia. El sustituto continuará en el despacho de la Sala de que fuere titular. Si se trata de faltas de asistencia al despacho hasta por cinco días, bastará que el Presidente dé aviso a quien deba sustituirlo; si excedieren de ese lapso, deberá comunicarlo a todos los magistrados que integran el Tribunal Pleno para los efectos conducentes.
 
-En caso de ausencia absoluta del Presidente, se nombrará a quien deba sustituirlo para que concluya el periodo para el que aquél fue electo, conforme a los lineamientos señalados en el artículo 51.
+En caso de ausencia absoluta del Presidente, se nombrará a quien deba sustituirlo para que concluya el período para el que aquél fue electo, conforme a los lineamientos señalados en el artículo 51.
 
 ###### ARTICULO 54.
 
@@ -2435,11 +2457,11 @@ III.- Pedir el auxilio de la fuerza pública cuando fuere necesario para cumplir
 
 ## TITULO SEXTO. DE LA INAMOVILIDAD JUDICIAL
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 182.
 
-La inamovilidad es condición reservada a los magistrados, a los jueces de primera instancia y a los especializados para adolescentes infractores, por lo que no podrán ser destituidos sino por responsabilidad derivada de hechos ilícitos graves, previo procedimiento que se siga en su contra. Tampoco serán rebajados de la categoría salarial que tuvieren.
+La inamovilidad es condición reservada a los magistrados y a los jueces de primera instancia, por lo que no podrán ser destituidos sino en los términos de las Constituciones Federal y Local, y la legislación en materia de responsabilidad.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2449,19 +2471,69 @@ La inamovilidad sólo se extingue por destitución, renuncia o jubilación.
 
 La concesión de licencia temporal no la suspende.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 184.
 
-Los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y los especializados para adolescentes infractores serán nombrados por tres años y devendrán inamovibles si, al término de su encargo, los primeros son ratificados por el Congreso y los segundos por las dos terceras partes de los magistrados integrantes del Pleno.
+Los magistrados del Supremo Tribunal de Justicia y los jueces de primera instancia serán nombrados por tres años y devendrán inamovibles si, al término de su encargo, los primeros son reelectos por el Congreso y los segundos por las dos terceras partes de los magistrados presentes en el Pleno.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 185.
 
 Se precisa el consentimiento de los magistrados inamovibles para ser adscritos a sala diversa de la que ocupan.
 
-Sólo el Congreso podrá separarlos de su cargo, mediante declaración de proceder en su contra por la probable responsabilidad que pudieran tener en algún delito o a consecuencia de sanción impuesta con motivo de haber sido sometidos a juicio político.
+Sólo el Congreso podrá separarlos de su cargo, mediante declaración de proceder en su contra por la probable responsabilidad que pudieran tener en algún delito, así como a consecuencia de sanción impuesta en juicio político o derivada de un procedimiento administrativo que así lo amerite.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 a.- Corresponde al Congreso del Estado, reelegir, en su caso, a los magistrados al Supremo Tribunal de Justicia y declarar su inamovilidad, en los términos del artículo 107 de la Constitución Local, cuando el funcionario judicial reúna los siguientes requisitos:
+
+I. Aprobar su desempeño como juzgador, mediante evaluación en la que se consideren los elementos a que se refiere el segundo párrafo de dicho artículo; y
+
+II. Tener próximos por cumplir los tres años en su desempeño como juzgador.
+
+La garantía de permanencia se reconocerá, según el caso, a través de la reelección y la consecuente inamovilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 b.- El trámite de los expedientes de magistrados no inamovibles corresponderá al Presidente del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 c.- El Presidente levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de tres años a que alude el artículo 107 de la Constitución Local.
+
+El magistrado podrá hacer del conocimiento del Presidente el vencimiento del plazo, con la oportunidad mencionada.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 d.- El Presidente emitirá un acuerdo en el que se decretará el inicio del procedimiento de reelección o no, por lo que:
+
+I. Dispondrá que se forme y registre el expediente bajo el número que le corresponda, al cual deberá agregarse copia autorizada de la certificación a que se refiere el artículo anterior y, en su caso, el comunicado del funcionario;
+
+II. Ordenará que se publique el inicio del procedimiento por una vez en el Periódico Oficial del Estado, así como en los estrados, su sitio oficial de la red informática y lugares más visibles del órgano jurisdiccional de su adscripción, a efecto de hacer saber al público en general, el nombre del servidor público sujeto a reelección. Dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente al en que se hubiera publicado en el Periódico Oficial del Estado, cualquier interesado podrá formular por escrito, de manera respetuosa, las observaciones en relación con dicho funcionario, mismo que tendrá derecho a réplica;
+
+III. Comunicará el inicio del trámite al funcionario respectivo, para que ofrezca copia certificada de las constancias relativas a los cursos de posgrado concluidos y demás datos que estime pertinentes;
+
+IV. Requerirá al Contralor del Poder Judicial del Estado para que remita informe de los procedimientos administrativos formados en contra del servidor público, así como un informe de la evolución de su situación patrimonial;
+
+V. Ordenará recabar la información estadística sobre la actividad del funcionario sujeto a reelección;
+
+VI. Integrará los resultados de las visitas de inspección ordenadas por el Pleno, de los informes circunstanciados y de los procedimientos administrativos disciplinarios formulados en contra del servidor público; y
+
+VII. Turnará el expediente al Congreso del Estado, noventa días antes de la fecha de vencimiento del plazo por el que fue designado el magistrado. La omisión de esta disposición es causa de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 e.- El expediente será turnado por el Presidente del Congreso o de la Diputación Permanente, según corresponda, a la Comisión de Gobernación y Puntos Constitucionales, a fin de que elabore el dictamen correspondiente para someterlo al Pleno Legislativo.
+
+Antes de proceder a votar, los diputados se podrán enlistar para la discusión del dictamen, en los términos de la Ley Orgánica del Poder Legislativo. El sentido del voto de cada diputado será a favor o en contra del resolutivo del dictamen, mismo que se limitará a expresar si es de reelegirse o destituirse al magistrado en cuestión.
+
+Los magistrados podrán ser reelectos o no, si así se justifica por el Congreso, con la votación de las dos terceras partes de los diputados presentes, mediante escrutinio secreto. Si la mayoría calificada vota en contra del dictamen, se entenderá que el Pleno ha invertido el sentido de la resolución de aquél.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+ARTICULO 185 f.- El Presidente de la Mesa Directiva o de la Diputación Permanente comunicará a los magistrados el sentido de la resolución que se dicte en el procedimiento de reelección o no, en su caso. Cuando de la resolución devenga la reelección y la inamovilidad del funcionario judicial, se le rendirá la protesta definitiva ante el Pleno.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -3226,3 +3298,13 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+Por lo que respecta a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado, junto con la correspondiente reforma a la ley Orgánica del Poder Judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, por lo que se refiere a la reforma a la Constitución Política del Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. En tanto, la reforma a la Ley Orgánica del Poder Judicial tendrá aplicación el día inmediato posterior a la vigencia de la reforma constitucional.
