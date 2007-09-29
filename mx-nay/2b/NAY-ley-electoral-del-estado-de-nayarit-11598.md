@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "2007-03-24"
+last_updated: "2007-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -199,9 +199,11 @@ II. Diputados al Congreso Local cada tres años; y
 
 III. Ayuntamientos cada tres años.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 18.
 
-Para la realización de las elecciones ordinarias, el Congreso del Estado expedirá convocatoria en la primer quincena del mes de diciembre del año anterior en que se celebren las elecciones.
+Para la realización de las elecciones ordinarias, el Congreso del Estado expedirá la convocatoria el dieciocho de febrero del año en que se celebren las elecciones, la cual deberá publicarse al día siguiente en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### Artículo 19.
 
@@ -931,7 +933,7 @@ El Consejero Presidente y los Consejeros Ciudadanos tendrán dentro de este orga
 
 La organización, preparación, desarrollo y vigilancia de los procesos electorales locales, es una función pública del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio, denominado Consejo Estatal Electoral, cuya integración y funciones se determinan en esta Ley.
 
-Dicho organismo tendrá facultad para conferir definitivad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. al efecto otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las designaciones de Diputados y Regidores de Representación Proporcional.
+Dicho organismo tendrá facultad para conferir definitividad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. al efecto otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las designaciones de Diputados y Regidores de Representación Proporcional.
 
 Corresponde exclusivamente al Estado a través de los Poderes Legislativo y Ejecutivo determinar y proveer dentro del ámbito de sus respectivas competencias, los gastos de los distintos organismos electorales así como el financiamiento público de los partidos políticos.
 
@@ -1007,9 +1009,13 @@ Los Consejeros Ciudadanos propietarios y suplentes durarán en su cargo hasta tr
 
 Los Consejeros Ciudadanos recibirán la dieta de asistencia que para cada órgano y proceso electoral se determine, de conformidad con el presupuesto.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 76.
 
-El Consejo Estatal Electoral se instalará en la primer semana del mes de enero del año en que se celebren las elecciones ordinarias, con el objeto de preparar el proceso electoral. A partir de esta fecha y hasta la culminación de los comicios, el Consejo sesionará por lo menos dos veces al mes. Concluido el proceso se reunirá cuando sea convocado por su Presidente.
+El consejero Presidente y los consejeros ciudadanos propietarios y suplentes del Consejo Estatal Electoral, rendirán la protesta respectiva dentro de los primeros siete días del mes de enero del año de la elección.
+
+El Consejo sesionará por lo menos dos veces al mes. Concluido el proceso electoral se reunirá cuando sea convocado por su Presidente.
 
 ### CAPITULO IV. Consejos Municipales Electorales
 
@@ -1029,13 +1035,13 @@ IV. Resolver sobre el otorgamiento o pérdida de registro de los partidos polít
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-V. Integrar las comisiones permanentes de fiscalización de los ingresos y gastos ordinarios, precampañas y campañas electorales de los partidos políticos, de prerrogativas y radiodifusión, capacitación electoral y educación formadas con el número de miembros que convenga en cada caso, pudiendo integrar otras si fuera pertinente.
+V. Integrar las comisiones permanentes de fiscalización de los ingresos y gastos ordinarios, precampañas y campañas electorales de los partidos políticos, de prerrogativas y radiodifusión, capacitación electoral y educación formadas con el número de miembros que convenga en cada caso, pudiendo integrar otras si fuera pertinente;
 
 VI. Conocer y resolver sobre los convenios de coalición, fusión y frentes que los partidos políticos le presenten;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-VII. Ministrar a los partidos políticos las prerrogativas y el financiamiento público que les corresponde de acuerdo a la Ley.
+VII. Ministrar a los partidos políticos las prerrogativas y el financiamiento público que les corresponde de acuerdo a la Ley;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -1049,7 +1055,9 @@ X. Registrar la plataforma electoral que durante cada proceso deben presentar lo
 
 XI. Conocer y aprobar, en su caso, los criterios básicos que deberán satisfacer las empresas u organismos públicos y privados para la realización de sondeos de opinión, encuestas o sondeos rápidos;
 
-XII. Designar durante los últimos quince días del mes de enero del año de la elección, a los Presidentes y Consejeros Ciudadanos que deberán integrar los Consejos Municipales Electorales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+XII. Designar dentro de los últimos siete días del mes de febrero del año de la elección, a los Presidentes y Consejeros Ciudadanos, propietarios y suplentes, que deberán integrar los Consejos Municipales Electorales;
 
 XIII. Determinar el límite de gastos de campaña que pueden erogar los partidos políticos en cada proceso y tipo de elección, evaluando los informes que a este efecto se presenten;
 
@@ -1073,31 +1081,31 @@ XXII. Expedir su reglamento interior para el buen funcionamiento del Consejo Est
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXIII. Autorizar los estudios para la división territorial de la entidad en distritos electorales y su demarcación.
+XXIII. Autorizar los estudios para la división territorial de la entidad en distritos electorales y su demarcación;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXIV. Solicitar por conducto de su Consejero Presidente, el auxilio de la fuerza pública, para garantizar el desarrollo normal del proceso electoral.
+XXIV. Solicitar por conducto de su Consejero Presidente, el auxilio de la fuerza pública, para garantizar el desarrollo normal del proceso electoral;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXV. Procurar que todos los organismos electorales recurran a los criterios de equidad y género en su integración.
+XXV. Procurar que todos los organismos electorales recurran a los criterios de equidad y género en su integración;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXVI. Analizar la viabilidad del uso de nuevas tecnologías en la jornada electoral.
+XXVI. Analizar la viabilidad del uso de nuevas tecnologías en la jornada electoral;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXVII. Aprobar el anteproyecto de presupuesto de gastos de los procesos y organismos electorales que aplicará al ejercicio fiscal correspondiente. En dicho anteproyecto se incluirán los rubros de las prerrogativas y financiamiento público.
+XXVII. Aprobar el anteproyecto de presupuesto de gastos de los procesos y organismos electorales que aplicará al ejercicio fiscal correspondiente. En dicho anteproyecto se incluirán los rubros de las prerrogativas y financiamiento público;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXVIII. Vigilar que las autoridades estatales y municipales suspendan la publicación y difusión por cualquier medio, la obra pública y los programas asistenciales, en los términos que dispone el artículo 149 de la presente ley, excepto en los casos de programas de emergencias o programas de protección civil, por la eventualidad o presencia de riesgo a la población.
+XXVIII. Vigilar que las autoridades estatales y municipales suspendan la publicación y difusión por cualquier medio, la obra pública y los programas asistenciales, en los términos que dispone el artículo 149 de la presente ley, excepto en los casos de programas de emergencias o programas de protección civil, por la eventualidad o presencia de riesgo a la población;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
-XXIX. Promover e incentivar la cultura cívica mediante la realización de jornadas electorales en las que participe la niñez y adolescencia.
+XXIX. Promover e incentivar la cultura cívica mediante la realización de jornadas electorales en las que participe la niñez y adolescencia;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -1233,9 +1241,11 @@ Los Consejeros Ciudadanos de los Consejos Municipales Electorales, al igual que 
 
 De no existir dentro de la circunscripción municipal ciudadanos que reúnan los requisitos mencionados, la designación estará en función de aquellos ciudadanos que hayan cursado por lo menos estudios de nivel medio superior, en los términos del acuerdo que tome el Consejo Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 85.
 
-Los Consejos Municipales Electorales deberán integrarse e iniciar su funcionamiento a más tardar durante los primeros quince días del mes de febrero del año de la elección.
+Los Consejos Municipales Electorales deberán integrarse e iniciar su funcionamiento durante los primeros quince días del mes de marzo del año de la elección.
 
 ###### Artículo 86.
 
@@ -1367,17 +1377,23 @@ E).- Ser de reconocida probidad, y
 
 F).- Haber participado y aprobado, en su caso, el curso de capacitación o actualización que impartan los organismos electorales.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
 ###### Artículo 92.
 
-Para los efectos del artículo anterior, en la última semana del mes de febrero del año de la elección, los Consejos Municipales Electorales convocarán a quienes fungieron como funcionarios de casilla en el proceso federal o local anterior, los cuales serán acreditados como funcionarios para las casillas correspondientes si sus actuaciones no fueron motivo de impugnación.
+Para los efectos del artículo anterior, en la segunda quincena del mes de marzo del año de la elección, los Consejos Municipales Electorales convocarán a quienes fungieron como funcionarios de casilla en el proceso federal o local anterior, los cuales serán acreditados como funcionarios para las casillas correspondientes si sus actuaciones no fueron motivo de impugnación.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 93.
 
-Durante la primera quincena de marzo, los Consejos Municipales Electorales, notificarán a los ciudadanos a que se refiere el artículo anterior, que han sido convocados para integrar las mesas directivas de casilla para las elecciones estatales ordinarias, y que en la fecha señalada por la ley deberán concurrir a los cursos de actualización.
+Durante la segunda quincena de marzo del año de la elección, los Consejos Municipales Electorales, notificarán a los ciudadanos a que se refiere el artículo anterior, que han sido convocados para integrar las mesas directivas de casilla para las elecciones estatales ordinarias, y que en la fecha señalada por la ley deberán concurrir a los cursos de actualización.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 94.
 
-Realizados los trámites anteriores, los Consejos Municipales Electorales procederán, durante la segunda quincena de marzo del año de la elección, a insacular cuando menos un 15 por ciento de ciudadanos de la lista nominal de electores formulada con corte al 15 de febrero, de las secciones electorales que no hayan sido convocadas. La insaculación para cada sección electoral no deberá ser menor al número de cincuenta electores.
+Realizados los trámites anteriores, durante los primeros diez días del mes de abril del año de la eleccción, los Consejos Municipales Electorales procederán a insacular cuando menos un 15 por ciento de ciudadanos de la lista nominal de electores formulada con corte al 15 de febrero, de las secciones electorales que no hayan sido convocadas. La insaculación para cada sección electoral no deberá ser menor al número de cincuenta electores.
 
 Los Consejos Municipales Electorales se apoyarán para este efecto en los centros de cómputo del Registro Federal de Electores en los términos del convenio respectivo.
 
@@ -1711,9 +1727,9 @@ El Consejo Estatal Electoral celebrará convenios con el Instituto Federal Elect
 
 El proceso electoral es un conjunto de actos ordenados por la Constitución Política del Estado Libre y Soberano de Nayarit, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, que tienen por objeto la renovación periódica y democrática de los integrantes de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos de la entidad.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-El proceso electoral ordinario se inicia con la celebración de la primera sesión ordinaria del Consejo Estatal Electoral en la primera semana del mes de enero del año de las elecciones ordinarias y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, una vez que quede firme la última resolución de los medios de impugnación que se hubieren interpuesto.
+El proceso electoral ordinario inicia el 22 de febrero del año de la elección, y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, una vez que quede firme la última resolución de los medios de impugnación que se hubieren interpuesto.
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -1781,11 +1797,17 @@ c) Aportar los documentos que prueben la aceptación de la candidatura firmada p
 
 Los plazos para la presentación de la solicitud de registro de los candidatos en el año de la elección son los siguientes:
 
-I. Para Gobernador del Estado el registro se hará del 16 al 30 del mes de marzo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-II. Para Ayuntamientos, del 1o. al 15 de abril;
+I. Para Gobernador del Estado, del 1° al 10 del mes de abril;
 
-III. Para el registro de las fórmulas de candidatos a Diputados de Mayoría, del 16 al 30 de abril; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+II. Para Ayuntamientos, del 11 al 20 de abril;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+III. Para las fórmulas de candidatos a Diputados de Mayoría, del 21 al 30 de abril; y
 
 IV. Para las listas de Diputados y Regidores de Representación Proporcional, del 1o. al 5 de mayo.
 
@@ -1977,7 +1999,9 @@ En cada casilla se deberá garantizar el ejercicio del voto secreto, utilizándo
 
 El procedimiento para determinar la ubicación de las casillas, será el siguiente:
 
-I. Durante el mes de marzo del año de la elección los Presidentes de los Consejos Municipales Electorales, acompañados del Secretario y de los integrantes de los Consejos que así lo manifiesten, recorrerán las secciones de los correspondientes Municipios con el propósito de localizar lugares que cumplan con los requisitos fijados en el Artículo 157 de esta ley;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+
+I. Durante la segunda quincena del mes de marzo del año de la elección los Presidentes de los Consejos Municipales Electorales, acompañados del Secretario y de los integrantes de los Consejos que así lo manifiesten, recorrerán las secciones de los correspondientes Municipios con el propósito de localizar lugares que cumplan con los requisitos fijados en el Artículo 157 de esta ley;
 
 II. Durante los primeros cinco días del mes de abril, los Consejos Municipales Electorales recibirán de su respectivo Presidente, una lista proponiendo los lugares en que habrán de ubicarse las casillas;
 
@@ -3368,3 +3392,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE MARZO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
