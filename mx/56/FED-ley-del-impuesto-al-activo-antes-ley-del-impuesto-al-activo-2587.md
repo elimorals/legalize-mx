@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "2006-12-27"
+last_updated: "2007-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO EMPRESARIAL A TASA UNICA, PUBLICADA EN EL D.O.F. DE 1 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -746,3 +748,123 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ## Transitorios
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero de 2008.
+
+Artículo Segundo. Se abroga la Ley del Impuesto al Activo publicada en el Diario Oficial de la Federación el 31 de diciembre de 1988.
+
+A partir de la entrada en vigor de la presente Ley, quedan sin efecto el Reglamento de la Ley del Impuesto al Activo, las resoluciones y disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia del impuesto establecido en la Ley que se abroga.
+
+Las obligaciones derivadas de la Ley que se abroga conforme a esta fracción, que hubieran nacido por la realización durante su vigencia, de las situaciones jurídicas o de hecho previstas en dicha Ley, deberán ser cumplidas en los montos, formas y plazos establecidos en dicho ordenamiento y conforme a las disposiciones, resoluciones a consultas, interpretaciones, autorizaciones o permisos a que se refiere el párrafo anterior.
+
+Artículo Tercero. Los contribuyentes que hubieran estado obligados al pago del impuesto al activo, que en el ejercicio fiscal de que se trate efectivamente paguen el impuesto sobre la renta, podrán solicitar la devolución de las cantidades actualizadas que hubieran efectivamente pagado en el impuesto al activo en los diez ejercicios inmediatos anteriores a aquél en el que efectivamente se pague el impuesto sobre la renta, siempre que dichas cantidades no se hubieran devuelto con anterioridad o no se haya perdido el derecho a solicitar su devolución conforme a la Ley que se abroga.
+
+La devolución a que se refiere el párrafo anterior en ningún caso podrá ser mayor a la diferencia entre el impuesto sobre la renta que efectivamente se pague en el ejercicio de que se trate y el impuesto al activo pagado, sin considerar las reducciones del artículo 23 del Reglamento de la Ley del Impuesto al Activo, que haya resultado menor en los ejercicios fiscales de 2005, 2006 ó 2007 en los términos de la Ley que se abroga, sin que en ningún caso exceda del 10% del impuesto al activo a que se refiere el párrafo anterior por el que se pueda solicitar devolución. El impuesto al activo que corresponda para determinar la diferencia a que se refiere este párrafo será el mismo que se utilizará en los ejercicios subsecuentes.
+
+Cuando el impuesto sobre la renta que se pague en el ejercicio sea menor al impuesto empresarial a tasa única del mismo ejercicio, los contribuyentes podrán compensar contra la diferencia que resulte las cantidades que en los términos del párrafo anterior tengan derecho a solicitar su devolución.
+
+El impuesto al activo efectivamente pagado en los diez ejercicios inmediatos anteriores a aquél en el que efectivamente se pague el impuesto sobre la renta, a que se refiere el primer párrafo de este artículo, así como el impuesto al activo que se tome en consideración para determinar la diferencia a que se refiere el segundo párrafo del mismo, se actualizarán por el periodo comprendido desde el sexto mes del ejercicio al que corresponda el impuesto al activo, hasta el sexto mes del ejercicio en el que resulte impuesto sobre la renta a cargo del contribuyente que dé lugar a la devolución del impuesto al activo a que se refiere este artículo.
+
+Cuando el contribuyente no solicite la devolución ni efectúe la compensación en un ejercicio pudiéndolo haber hecho conforme a este artículo, perderá el derecho a hacerlo en ejercicios posteriores.
+
+Los derechos a la devolución o compensación previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindente y las escindidas en la proporción en la que se divida el valor del activo de la escindente en el ejercicio en que se efectúa la escisión. Para los efectos de este párrafo, el valor del activo será el determinado conforme al artículo 2o. de la Ley del Impuesto al Activo, vigente hasta el 31 de diciembre de 2007.
+
+Para los efectos de este artículo no se considera impuesto al activo efectivamente pagado el que se haya considerado pagado con el acreditamiento establecido en la fracción I del artículo 9 de la Ley del Impuesto al Activo que se abroga.
+
+Los contribuyentes sólo podrán solicitar la devolución a que se refiere este artículo, cuando el impuesto sobre la renta efectivamente pagado en el ejercicio de que se trate sea mayor al impuesto al activo que se haya tomado para determinar la diferencia a que se refiere el segundo párrafo de este artículo.
+
+Artículo Cuarto. Para los efectos del artículo 1, último párrafo, de la presente Ley, durante el ejercicio fiscal de 2008 se aplicará la tasa del 16.5% y durante el ejercicio fiscal de 2009 se aplicará la tasa del 17%.
+
+Así mismo, para los efectos del penúltimo párrafo de los artículos 8 y 10 de la presente Ley, durante el ejercicio fiscal de 2008 se aplicará el factor de 0.165 y durante el ejercicio fiscal de 2009 se aplicará el factor de 0.17.
+
+Artículo Quinto. Para los efectos del artículo 5, fracción I de la presente Ley, los contribuyentes podrán efectuar una deducción adicional en los términos de este artículo, tanto para la determinación del impuesto del ejercicio y de los pagos provisionales del mismo ejercicio, por las erogaciones que efectúen en inversiones nuevas, que en los términos de esta Ley sean deducibles, adquiridas en el periodo comprendido del 1 de septiembre al 31 de diciembre de 2007, hasta por el monto de la contraprestación efectivamente pagada por dichas inversiones en el citado periodo.
+
+El monto de la erogación a que se refiere el párrafo anterior se deducirá en una tercera parte en cada ejercicio fiscal a partir del 2008, hasta agotarlo. Tratándose de los pagos provisionales, se deducirá la doceava parte de la cantidad a que se refiere este párrafo, multiplicada por el número de meses comprendidos desde el inicio del ejercicio y hasta el mes al que corresponda el pago.
+
+La deducción que se determine en los términos de este artículo, se actualizará por el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2007 y hasta el último mes del ejercicio fiscal en el que se deduzca el monto que corresponda conforme al párrafo anterior. Tratándose de los pagos provisionales, dicha deducción se actualizará con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2007 y hasta el último mes al que corresponda al pago provisional de que se trate.
+
+La parte de las erogaciones por las inversiones nuevas, efectivamente pagada con posterioridad al periodo a que se refiere el primer párrafo de este artículo, será deducible en los términos de la presente Ley.
+
+Para los efectos de este artículo y del siguiente, se entiende por inversiones las consideradas como tales para los efectos de la Ley del Impuesto sobre la Renta y por nuevas las que se utilizan por primera vez en México.
+
+Artículo Sexto. Por las inversiones que se hayan adquirido desde el 1 de enero de 1998 y hasta el 31 de diciembre de 2007, que en los términos de esta Ley sean deducibles, los contribuyentes podrán aplicar un crédito fiscal contra el impuesto empresarial a tasa única de los ejercicios fiscales a que se refiere este artículo y de los pagos provisionales de los mismos ejercicios, conforme a lo siguiente:
+
+I. Determinarán el saldo pendiente de deducir de cada una de las inversiones a que se refiere este artículo, que en los términos de la Ley del Impuesto sobre la Renta tengan al 1 de enero de 2008.
+
+El saldo pendiente de deducir a que se refiere esta fracción se actualizará por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se adquirió el bien y hasta el mes de diciembre de 2007.
+
+II. El monto que se obtenga conforme a la fracción anterior se multiplicará por el factor de 0.175 y el resultado obtenido se acreditará en un 5% en cada ejercicio fiscal durante diez ejercicios fiscales a partir del ejercicio fiscal de 2008, en contra del impuesto empresarial a tasa única del ejercicio de que se trate. Tratándose del ejercicio fiscal de 2008 el factor aplicable será de 0.165 y para el ejercicio fiscal de 2009 el factor aplicable será de 0.17.
+
+Para los efectos de los pagos provisionales del ejercicio de que se trate, los contribuyentes podrán acreditar la doceava parte del monto que se obtenga conforme al párrafo anterior multiplicada por el número de meses comprendidos desde el inicio del ejercicio de que se trate y hasta el mes al que corresponda el pago.
+
+El crédito fiscal que se determine en los términos de esta fracción se actualizará por el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2007 y hasta el sexto mes del ejercicio fiscal en el que se aplique la parte del crédito que corresponda conforme al primer párrafo de esta fracción. Tratándose de los pagos provisionales, dicho crédito fiscal se actualizará con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2007 y hasta el último mes del ejercicio fiscal inmediato anterior a aquél en el que se aplique.
+
+El acreditamiento a que se refiere esta fracción deberá efectuarse antes de aplicar el impuesto sobre la renta propio a que se refiere el segundo párrafo del artículo 8 de esta Ley o el monto del pago provisional del impuesto sobre la renta propio a que se refiere el tercer párrafo del artículo 10 de la misma, según corresponda, y hasta por el monto del impuesto empresarial a tasa única del ejercicio o del pago provisional respectivo, según se trate.
+
+Lo dispuesto en este artículo no será aplicable a las inversiones nuevas, por las que se hubiera aplicado lo dispuesto en el artículo quinto transitorio de esta Ley.
+
+Cuando antes del ejercicio fiscal de 2018 el contribuyente enajene las inversiones a que se refiere este artículo o cuando éstas dejen de ser útiles para obtener los ingresos, a partir del ejercicio fiscal en que ello ocurra el contribuyente no podrá aplicar el crédito fiscal pendiente de acreditar correspondiente al bien de que se trate.
+
+No serán deducibles en los términos de esta Ley las erogaciones por las inversiones a que se refiere este artículo, pagadas con posterioridad al 31 de diciembre de 2007.
+
+Cuando el contribuyente no acredite el crédito fiscal a que se refiere este artículo, en el ejercicio que corresponda no podrá hacerlo en ejercicios posteriores.
+
+Artículo Séptimo. Tratándose de fusión de sociedades, la sociedad que subsista o la que surja con motivo de la fusión continuará aplicando, en los mismos términos y condiciones establecidos en el artículo sexto transitorio de esta Ley, los créditos fiscales pendientes de aplicar correspondientes a las sociedades que se fusionan, que hayan determinado conforme al citado artículo. Para estos efectos, la sociedad que subsista o surja con motivo de la fusión deberá identificar los créditos fiscales de manera individual y por separado de sus propios créditos.
+
+En el caso de escisión de sociedades, las sociedades escindentes y escindidas se dividirán los créditos pendientes de aplicar a que se refiere este artículo, en la proporción en la que se dividan entre ellas las inversiones y la suma del valor de los inventarios. Para estos efectos, las sociedades escindentes y escindidas deberán identificar los créditos fiscales de manera individual y por separado de sus créditos propios.
+
+Artículo Octavo. No estarán afectos al pago del impuesto empresarial a tasa única los ingresos que obtengan los contribuyentes por las actividades a que se refiere el artículo 1 de la presente Ley, efectuadas con anterioridad al 1 de enero de 2008, aun cuando las contraprestaciones relativas a las mismas se perciban con posterioridad a dicha fecha, salvo cuando los contribuyentes hubieran optado para los efectos del impuesto sobre la renta por acumular únicamente la parte del precio cobrado en el ejercicio.
+
+Artículo Noveno. Para los efectos del impuesto empresarial a tasa única a que se refiere la presente Ley, no serán deducibles las erogaciones que correspondan a enajenación de bienes, prestación de servicios independientes y al uso o goce temporal de bienes que se utilicen para realizar las actividades a que se refiere el artículo 1 de la presente Ley, que se hayan devengado con anterioridad al 1 de enero de 2008, aun cuando el pago se efectúe con posterioridad a dicha fecha.
+
+Artículo Décimo. Lo dispuesto en el artículo 4, fracción II, inciso e) de la presente Ley, será aplicable a las sociedades y asociaciones civiles que cuenten con secciones de ahorro y préstamo, a las sociedades de ahorro y préstamo y las sociedades y asociaciones que tengan por objeto únicamente la captación de recursos entre sus socios o asociados para su colocación entre éstos, que a la fecha de la entrada en vigor de la presente Ley no hayan obtenido autorización por parte de la Comisión Nacional Bancaria y de Valores para operar como entidades de ahorro y crédito popular, que de conformidad con las disposiciones de la Ley de Ahorro y Crédito Popular se encuentren en proceso de regularización, así como a las sociedades cooperativas de ahorro y préstamo.
+
+Artículo Décimo Primero. Lo dispuesto en el artículo 3, fracción I, cuarto párrafo de la presente Ley, también será aplicable a las sociedades y asociaciones que de conformidad con las disposiciones de la Ley de Ahorro y Crédito Popular se encuentren en proceso de autorización para operar como sociedades financieras populares.
+
+Artículo Décimo Segundo. Durante el ejercicio fiscal de 2008, las personas a que se refiere la fracción X del artículo 95 de la Ley del Impuesto sobre la Renta, que no cuenten con autorización para recibir donativos deducibles en los términos de la citada Ley, deberán pagar el impuesto que esta Ley establece conforme a las disposiciones aplicables. En el caso de que obtengan para dicho ejercicio la autorización antes mencionada, podrán solicitar en los términos de las disposiciones fiscales la devolución de las cantidades que efectivamente hubieran pagado por concepto del impuesto empresarial a tasa única en el citado ejercicio fiscal de 2008.
+
+Artículo Décimo Tercero. Para los efectos del artículo 6 fracción IV de esta Ley, durante el ejercicio fiscal de 2008, la adquisición de los bienes a que se refiere la regla 2.5.1 de la Resolución Miscelánea Fiscal publicada en el Diario Oficial de la Federación el 25 de abril del 2007, se podrá comprobar en los mismos términos establecidos en la misma, así como en las reglas 2.5.2 y 2.5.3 de la mencionada resolución, siempre que se trate de la primera enajenación realizada por las personas físicas dedicadas a las actividades señaladas en la citada regla 2.5.1.
+
+Los contribuyentes a que se refiere el artículo 4, fracción IV de esta Ley, que no se encuentren inscritos en el Registro Federal de Contribuyentes gozarán de la exención prevista en el citado artículo, siempre que se inscriban en dicho registro dentro del plazo y cumpliendo con los requisitos que para tal efecto establezca el Servicio de Administración Tributaria mediante disposiciones de carácter general, las cuales deberán ser publicadas a partir del mes de agosto de 2008. En dichas disposiciones también se establecerán los términos a que deberán sujetarse los documentos que se emitan durante el plazo correspondiente para efectos de comprobación de las adquisiciones a que se refiere el párrafo anterior. Así mismo, mediante reglas de carácter general, dicho órgano desconcentrado podrá otorgar facilidades administrativas para el cumplimiento de las obligaciones fiscales correspondientes al ejercicio fiscal de 2008, a los contribuyentes que cumplan sus obligaciones fiscales, en materia del impuesto sobre la renta, conforme a lo establecido en el Capítulo VII del Título II y en el Capítulo II del Título IV de la Ley del Impuesto sobre la Renta.
+
+Artículo Décimo Cuarto. Lo dispuesto en el artículo 4, fracción VII de esta Ley, no será aplicable a los contribuyentes personas físicas que tributen en los términos de los Capítulos II o III del Título IV de la Ley del Impuesto sobre la Renta, cuando enajenen bienes respecto de los cuales hubieran aplicado lo dispuesto en el artículo sexto transitorio de esta Ley.
+
+Artículo Décimo Quinto. Lo dispuesto en el artículo 5, fracción II, primer párrafo de esta Ley, no será aplicable a las contribuciones causadas con anterioridad al 1 de enero de 2008, aun cuando el pago de las mismas se realice con posterioridad a dicha fecha.
+
+Artículo Décimo Sexto. Lo dispuesto en el penúltimo y último párrafos de los artículos 8 y 10 de la presente Ley, no será aplicable por las erogaciones devengadas con anterioridad al 1 de enero de 2008, aun cuando el pago de las mismas se realice con posterioridad a dicha fecha.
+
+Artículo Décimo Séptimo. Para los efectos del sexto párrafo del artículo 8 de esta Ley, para el ejercicio fiscal de 2008, los contribuyentes podrán considerar como impuesto sobre la renta propio por acreditar el efectivamente pagado en los ejercicios fiscales de 2006 y 2007 en los términos del artículo 11 de la Ley del Impuesto sobre la Renta, siempre que no se haya acreditado con anterioridad contra el impuesto sobre la renta.
+
+Artículo Décimo Octavo. Para los efectos del artículo 17 de la presente Ley, hasta en tanto las autoridades estimen la cuota del impuesto empresarial a tasa única, las personas físicas que paguen el impuesto sobre la renta de conformidad con la Sección III del Capítulo II del Título IV de la ley de la materia, considerarán que el impuesto empresarial a tasa única forma parte de la determinación estimativa para los efectos del impuesto sobre la renta.
+
+Artículo Décimo Noveno. La Secretaría de Hacienda y Crédito Público deberá realizar un estudio que muestre un diagnóstico integral sobre la conveniencia de derogar los Títulos II y IV, Capítulos II y III de la Ley del Impuesto sobre la Renta, a efecto de que el tratamiento impositivo aplicable a los sujetos previstos en dichos títulos y capítulos quede regulado únicamente en la presente Ley. Para los efectos de este artículo el Servicio de Administración Tributaria deberá proporcionar al área competente de la Secretaría de Hacienda y Crédito Público, la información que tenga en su poder y resulte necesaria para realizar el estudio de referencia. Dicho estudio se deberá entregar a la Comisión de Hacienda y Crédito Público de la Cámara de Diputados a más tardar el 30 de junio de 2011.
+
+Artículo Vigésimo. El Ejecutivo Federal evaluará los resultados y efectos de la aplicación de la tasa a que se refiere el artículo 1 de esta Ley durante el ejercicio fiscal de 2008, tomando en cuenta el comportamiento de la economía del país. Dicha evaluación se tomará en cuenta para la presentación del paquete económico para 2009.
+
+Artículo Vigésimo Primero. Para los efectos del artículo 144 del Código Fiscal de la Federación, la suspensión del pago del impuesto empresarial a tasa única así como de su condonación, en los términos de dicho artículo, incluirá a quienes a la fecha de entrada en vigor de esta Ley se hubieran decretado la declaratoria de concurso mercantil.
+
+Lo anterior será igualmente aplicable a quienes con anterioridad a la entrada en vigor de la presente Ley, hubieren celebrado el convenio con sus acreedores en términos de la Ley de Concursos Mercantiles, conforme a lo siguiente:
+
+1.- Durante el periodo original pactado en dicho convenio gozarán de la suspensión del cobro del impuesto empresarial a tasa única, sin que dicha suspensión exceda de 3 años a partir del primero de enero de 2008.
+
+2.- Al término de los 3 años a que refiere el numeral anterior, las autoridades fiscales condonarán el pago del impuesto empresarial a tasa única conforme a lo siguiente:
+
+a) Determinarán al término de dicho periodo el saldo del impuesto empresarial a tasa única actualizado, por cada uno de los ejercicios en que hubiese operado la suspensión del cobro.
+
+b) La condonación que procederá por cada uno de los ejercicios fiscales, será la cantidad que resulte de multiplicar, el monto del impuesto empresarial a tasa única que se determine en cada ejercicio fiscal por el factor que más adelante se indica. La diferencia será el monto a pagar por este impuesto, el cual se enterará a más tardar el 31 de marzo del ejercicio inmediato posterior al del último ejercicio por el que opere la suspensión del cobro de dicho impuesto.
+
+El factor a que se refiere el párrafo anterior, se determinará dividiendo los ingresos gravados del ejercicio de 2007, entre los ingresos gravados que en cada ejercicio fiscal se obtengan conforme a las disposiciones de esta Ley. Dicho factor, en ningún caso excederá de la unidad.
+
+Para determinar los ingresos gravados del ejercicio de 2007, se aplicarán las disposiciones contenidas en esta Ley como si se hubiera calculado el impuesto en dicho ejercicio, con base a éstas.
+
+El beneficio a que se refiere el presente artículo no será aplicable en los siguientes supuestos:
+
+I.- En caso que durante el periodo de suspensión el contribuyente acuerde su fusión, independientemente del ejercicio en que ésta surta sus efectos.
+
+II.- En el caso que durante el periodo de suspensión exista un cambio de accionistas del más del 10% de las acciones con derecho a voto.
+
+Para el caso de sociedades mexicanas que tengan colocadas sus acciones ante el gran público inversionista, no será aplicable el beneficio que se refiere este artículo, cuando exista cambio de control de accionistas en términos del artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta.
+
+III.- En caso de que durante el periodo de suspensión, el contribuyente realice un cambio de actividad preponderante. Se entenderá como actividad preponderante la definida en términos del artículo 43 del Reglamento del Código Fiscal de la Federación.
