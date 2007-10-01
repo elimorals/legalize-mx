@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2005-07-07"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPSRM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -532,7 +532,9 @@ En caso de omisión en la entrega del escrito a que se refiere esta fracción, o
 
 XXIV. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
 
-Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán exigirse requisitos que tengan por objeto limitar la libre participación. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. La dependencia o entidad convocante tomará en cuenta las recomendaciones que, en su caso, emita la Comisión Federal de Competencia en materia de competencia entre los participantes dentro de los procesos de contratación y libre concurrencia a los mismos, conforme a las bases para licitaciones públicas. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
 
 Previo a la emisión de la convocatoria, las bases de licitación cuyo presupuesto estimado de contratación sea superior a diez mil veces el salario mínimo general vigente en el Distrito Federal elevado al mes, así como aquellas de monto inferior que las dependencias y entidades consideren convenientes, deberán ser difundidas a través de su página en Internet o en los medios de difusión electrónica que establezca la Secretaría de la Función Pública, al menos durante cinco días hábiles, contados a partir del día siguiente al de su difusión, lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale, o bien, invitarán a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las mismas.
 
@@ -571,6 +573,10 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 La entrega de proposiciones se hará en sobre cerrado. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
 Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Los actos, contratos, convenios o combinaciones que lleven a cabo los licitantes en cualquier etapa del procedimiento de licitación deberán apegarse a lo dispuesto por la Ley Federal de Competencia Económica en materia de prácticas monopólicas y concentraciones, sin perjuicio de que las dependencias y entidades determinarán los requisitos, características y condiciones de los mismos en el ámbito de sus atribuciones. Cualquier licitante o el convocante podrá consultar a la Comisión Federal de Competencia sobre la consistencia de una proposición conjunta con la legislación en materia de competencia, y dicha Comisión, sin juzgar sobre las proposiciones técnicas o económicas, dará respuesta exclusivamente por lo que se refiere a lo dispuesto en la Ley Federal de Competencia Económica, previa opinión de las dependencias y entidades que correspondan, las cuales determinarán lo conducente conforme a sus atribuciones.
 
 Para facilitar los procedimientos de contratación, las convocantes deberán efectuar revisiones preliminares respecto de la especialidad, experiencia y capacidad de los interesados, y cerciorarse de su inscripción en el registro de contratistas de la convocante, así como de la documentación distinta a la propuesta técnica y económica, de acuerdo con lo que establezca el reglamento de esta Ley. En ningún caso se podrá impedir el acceso a quienes no se encuentren inscritos en dicho registro, por lo que los licitantes que hayan cubierto el costo de las bases podrán presentar su propuesta en el acto de presentación y apertura de proposiciones de que se trate.
 
@@ -734,7 +740,9 @@ III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios
 
 Las dependencias y entidades podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
 
-Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos del artículo 30 de la Ley de Presupuesto Contabilidad y Gasto Público Federal.
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Los trabajos cuya ejecución comprenda más de un ejercicio fiscal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ###### ARTÍCULO 46.
 
@@ -1375,3 +1383,9 @@ D.O.F. 7 DE JULIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
