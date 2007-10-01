@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2007-09-05"
+last_updated: "2007-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -564,9 +564,9 @@ XXV. La indicación de que en caso de violaciones en materia de derechos inheren
 
 XXVI. El tipo y modelo de contrato.
 
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios no se podrán exigir requisitos que tengan por objeto limitar la libre participación. En ningún caso se establecerán requisitos o condiciones imposibles de cumplir. Previo a la emisión de la convocatoria, las bases de licitación cuyo presupuesto en conjunto represente al menos el cincuenta por ciento del monto total a licitarse por la dependencia o entidad en cada ejercicio fiscal, deberán ser difundidas a través de su página en Internet o en los medios de difusión electrónica que establezca la Secretaría de la Función Pública, al menos durante cinco días hábiles, contados a partir del día siguiente al de su difusión en dicho medio, lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale, o bien, invitarán a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las mismas.
+Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios no se podrán establecer requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. La dependencia o entidad convocante tomará en cuenta las recomendaciones que, en su caso, emita la Comisión Federal de Competencia en materia de competencia entre los participantes dentro de los procesos de contratación, y libre concurrencia a los mismos, conforme a las bases para licitaciones públicas cuyos requisitos, características y condiciones deberán ser determinados por las propias dependencias y entidades en el ámbito de sus atribuciones. En ningún caso se establecerán requisitos o condiciones imposibles de cumplir. Previo a la emisión de la convocatoria, las bases de licitación cuyo presupuesto en conjunto represente al menos el cincuenta por ciento del monto total a licitarse por la dependencia o entidad en cada ejercicio fiscal, deberán ser difundidas a través de su página en Internet o en los medios de difusión electrónica que establezca la Secretaría de la Función Pública, al menos durante cinco días hábiles, contados a partir del día siguiente al de su difusión en dicho medio, lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale, o bien, invitarán a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las mismas.
 
 ###### Artículo 32.
 
@@ -606,6 +606,10 @@ La entrega de proposiciones se hará en sobre cerrado que contendrá la propuest
 
 Salvo los casos justificados por las dependencias o entidades, en las bases de licitación, se establecerá que dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes a que cada persona se obligará, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Los actos, contratos, convenios o combinaciones que lleven a cabo los licitantes en cualquier etapa del procedimiento de licitación deberán apegarse a lo dispuesto por la Ley Federal de Competencia Económica en materia de prácticas monopólicas y concentraciones, sin perjuicio de que las dependencias y entidades determinarán los requisitos, características y condiciones de los mismos en el ámbito de sus atribuciones. Cualquier licitante o el convocante podrá consultar a la Comisión Federal de Competencia sobre la consistencia de una proposición conjunta con la legislación en materia de competencia, y dicha Comisión, sin juzgar sobre las proposiciones técnicas o económicas, dará respuesta exclusivamente por lo que se refiere a lo dispuesto en la Ley Federal de Competencia Económica, previa opinión de las dependencias y entidades que correspondan, las cuales determinarán lo conducente conforme a sus atribuciones.
+
 Previo al acto de presentación y apertura de proposiciones, las convocantes podrán efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quienes hayan cubierto el costo de las bases y decidan presentar su documentación y proposiciones en la fecha, hora y lugar establecido para la celebración del citado acto.
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
@@ -630,7 +634,9 @@ Las dependencias y entidades para hacer la evaluación de las proposiciones debe
 
 I. Los criterios de evaluación y adjudicación de las propuestas establecidos en las bases de licitación, considerando las características de la contratación que se trate;
 
-II. Corresponderá a los titulares de las dependencias y a los órganos de gobierno de las entidades establecer dichos criterios en sus políticas, bases y lineamientos, considerando los principios de transparencia, igualdad, imparcialidad, claridad, objetividad y precisión, por lo que no podrán estar orientados a favorecer a algún licitante;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+II. Corresponderá a los titulares de las dependencias y a los órganos de gobierno de las entidades establecer criterios de libre competencia de participantes y licitantes en sus políticas, bases y lineamientos, considerando los principios de transparencia, igualdad, imparcialidad, claridad, objetividad y precisión, por lo que no podrán estar orientados a favorecer a algún licitante o establecer restricciones al proceso de competencia y libre concurrencia;
 
 III. Tratándose de servicios, podrá utilizarse el mecanismo de puntos y porcentajes para evaluar las propuestas, en el que el rubro relativo al precio tendrá un valor porcentual del cincuenta por ciento, indicando en las bases la ponderación que corresponderá a cada uno de los demás rubros que serán considerados en la evaluación, de acuerdo con los lineamientos que para tal efecto emita la Secretaría de la Función Pública. Asimismo, cuando sea necesario, en el caso de servicios se solicitará el desglose de precios unitarios, precisando de qué manera será utilizado éste, y
 
@@ -680,9 +686,11 @@ Tratándose de licitaciones en las que una o varias partidas se declaren desiert
 
 Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, por caso fortuito o fuerza mayor. De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 39.
 
-Las dependencias y entidades previa justificación de la conveniencia de distribuir, entre dos o más proveedores de la partida de un bien o servicio, podrán hacerlo siempre que así se haya establecido en las bases de la licitación.
+Las dependencias y entidades previa justificación de la conveniencia de distribuir, entre dos o más proveedores de la partida de un bien o servicio, podrán hacerlo siempre que así se haya establecido en las bases de la licitación, y que no tenga como objeto o efecto restringir el proceso de competencia y libre concurrencia. La dependencia o entidad convocante tomará en cuenta las recomendaciones que, en su caso, emita la Comisión Federal de Competencia conforme al artículo 31, último párrafo, de esta Ley, en materia de distribución entre dos o más proveedores de la partida de un bien o servicio.
 
 En este caso, los precios de los bienes o servicios contenidos en una misma partida y distribuidos entre dos o más proveedores no podrán exceder del cinco por ciento respecto de la propuesta solvente más baja.
 
@@ -1353,3 +1361,9 @@ Los comités de adquisiciones, arrendamientos y servicios deberán establecer en
 ###### ARTÍCULO CUARTO.
 
 Los certificadores que otorguen la garantía de manejo sustentable del bosque a que se refiere el segundo párrafo del artículo 27 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán registrarse previamente ante la Secretaría de Medio Ambiente y Recursos Naturales, ante la cual deberán presentar los documentos que determinen los métodos, estudios y lineamientos de sus procesos de certificación.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
