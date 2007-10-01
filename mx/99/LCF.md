@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2006-12-27"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -1178,7 +1178,9 @@ Las aportaciones y sus accesorios que con cargo a los Fondos a que se refiere es
 
 Las aportaciones federales serán administradas y ejercidas por los gobiernos de las Entidades Federativas y, en su caso, de los Municipios y las Demarcaciones Territoriales del Distrito Federal que las reciban, conforme a sus propias leyes. Por tanto, deberán registrarlas como ingresos propios que deberán destinarse específicamente a los fines establecidos en los artículos citados en el párrafo anterior.
 
-El control y supervisión del manejo de los recursos a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El control, la evaluación y fiscalización del manejo de los recursos federales a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 
 I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las Entidades Federativas, corresponderá a la Secretaría de la Función Pública;
 
@@ -1186,9 +1188,17 @@ II.- Recibidos los recursos de los fondos de que se trate por las Entidades Fede
 
 La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos;
 
-III.- La fiscalización de las Cuentas Públicas de las Entidades Federativas, los Municipios y las Demarcaciones Territoriales del Distrito Federal, será efectuada por el Poder Legislativo local que corresponda, por conducto de su Contaduría Mayor de Hacienda u órgano equivalente conforme a lo que establezcan sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y, en su caso, de los Municipios y las Demarcaciones Territoriales del Distrito Federal, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley; y
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-IV.- La Auditoria Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del Título Tercero de la Ley de Fiscalización Superior de la Federación.
+III.- La fiscalización de las Cuentas Públicas de las entidades, los municipios y las demarcaciones territoriales del Distrito Federal, será efectuada por el Poder Legislativo local que corresponda, por conducto de su Contaduría Mayor de Hacienda u órgano equivalente conforme a lo que establezcan sus propias leyes, a fin de verificar que las dependencias del Ejecutivo Local y, en su caso, de los municipios y las demarcaciones territoriales del Distrito Federal, respectivamente aplicaron los recursos de los fondos para los fines previstos en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+IV.- La Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fiscalizar la Cuenta Pública Federal que corresponda, verificará que las dependencias del Ejecutivo Federal cumplieron con las disposiciones legales y administrativas federales y, por lo que hace a la ejecución de los recursos de los Fondos a los que se refiere este capítulo, la misma se realizará en términos del Título Tercero de la Ley de Fiscalización Superior de la Federación, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+V.- El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño a que se refiere el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Los resultados del ejercicio de dichos recursos deberán ser evaluados, con base en indicadores, por instancias técnicas independientes de las instituciones que los ejerzan, designadas por las entidades, a fin de verificar el cumplimiento de los objetivos a los que se encuentran destinados los Fondos de Aportaciones Federales conforme a la presente Ley. Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la presente Ley.
 
 Cuando las autoridades de las Entidades Federativas, de los Municipios o de las Demarcaciones Territoriales del Distrito Federal, que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos de los Fondos no han sido aplicados a los fines que por cada Fondo se señale en la Ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
 
@@ -1502,6 +1512,16 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991.
 
 D.O.F. 20 DE DICIEMBRE DE 1991.
 
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA
+
 ###### ARTICULO TERCERO.
 
 Las entidades federativas contarán con un plazo de cuatro meses a partir de la entrada en vigor de lo dispuesto en el ARTICULO SEGUNDO de esta Ley, para proponer a la Reunión Nacional de Funcionarios Fiscales, previo dictamen de la Comisión Permanente de Funcionarios Fiscales y conforme a las facultades establecidas en los artículos 19 y 21 de la Ley de Coordinación Fiscal, un programa de reordenamiento del comercio urbano en el ámbito de su competencia y jurisdicción, en los términos y plazos que determinen de mutuo acuerdo las citadas entidades federativas y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
@@ -1527,22 +1547,6 @@ La distribución de las citadas participaciones se determinarán para cada munic
 El porcentaje que resulte para cada municipio conforme al párrafo anterior, será el coeficiente de participación que se le aplicará para el año de 1994.
 
 Los municipios colindantes con la frontera o con litorales, podrán recibir las participaciones a que se refiere este artículo, siempre que la entidad federativa de que se trate celebre convenio con la Federación en materia de vigilancia y control de introducción ilegal al territorio nacional de mercancías de procedencia extranjera y en dichos convenios se establezcan descuentos en las participaciones a que se refiere el párrafo segundo de este artículo, en los casos en que se detecten mercancías de procedencia extranjera respecto de las cuales no se acredite su legal estancia en el país.
-
-## TRANSITORIO
-
-## TRANSITORIO
-
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
-
-D.O.F. 20 DE JULIO DE 1992.
-
-## TRANSITORIO
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE DICIEMBRE DE 1993.
-
-DISPOSICION TRANSITORIA
 
 ## TRANSITORIO
 
@@ -1604,8 +1608,6 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 
 D.O.F. 29 DE DICIEMBRE DE 1997.
 
-## TRANSITORIOS
-
 Primero.- El presente Decreto entrará en vigor el 1o. de enero de 1998.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
@@ -1634,8 +1636,6 @@ Noveno.- Para el ejercicio fiscal 1998, el porcentaje a que se refiere el artíc
 
 D.O.F. 31 DE DICIEMBRE DE 1998.
 
-## TRANSITORIOS
-
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
 SEGUNDO.- Para el ejercicio fiscal de 1999 el Fondo de Aportaciones para la Educación Tecnológica y de Adultos se determinará y distribuirá de conformidad con lo dispuesto en el Decreto de Presupuesto de Egresos de la Federación para el citado ejercicio y según lo acordado en los convenios de coordinación que suscriban los Estados y el Distrito Federal con el Ejecutivo Federal, por conducto de los organismos descentralizados correspondientes y de las Secretarías de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Educación Pública.
@@ -1644,13 +1644,9 @@ TERCERO.- Para el ejercicio fiscal de 1999, la distribución de los recursos ent
 
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
-## TRANSITORIO
-
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
 
 D.O.F. 31 DE DICIEMBRE DE 2000.
-
-## Transitorios
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2001, con las excepciones que se establecen en el artículo siguiente.
 
@@ -1723,3 +1719,71 @@ Primero. El presente Decreto entrará en vigor el primero de enero de 2007.
 Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad Pública, lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
 Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2006.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 11 DE MAYO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
+
+D.O.F. 15 DE DICIEMBRE DE 1995.
+
+Disposiciones Transitorias de la Ley de Coordinación Fiscal.
+
+Artículo Décimo Tercero.- En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
+
+I.- Las reformas y adiciones a la Ley de Coordinación Fiscal entrarán en vigor a partir del 1o. de enero de 1996, con excepción de la reforma al último párrafo del artículo 3o., la cual entrará en vigor a partir del 1o. de enero de 1997.
+
+II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
+
+a) Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia.
+
+b) A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior; se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto Sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
+
+Para los estados en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto Sobre Automóviles Nuevos, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
+
+III.- La reforma al tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal, no será aplicable a la deuda contraída por las entidades federativas y municipios al 31 de diciembre de 1995.
+
+T r a n s i t o r i o s
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+
+Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+Disposición Transitoria de la Ley de Coordinación Fiscal
+
+Artículo Décimo Primero.- En relación con las modificaciones a que se refiere el Artículo Décimo que antecede, se estará a lo siguiente:
+
+I.- Se deja sin efecto la reforma al último párrafo del artículo 3o., de la Ley de Coordinación Fiscal, que de conformidad con el Artículo Décimo Tercero, fracción I del Decreto por el que se expiden nuevas leyes fiscales y se modifican otras, publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995, entraría en vigor el 1o. de enero de 1997.
+
+II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
+
+a).- Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia, vigente hasta el 31 de diciembre de 1996.
+
+b).- A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior, se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
+
+Para las entidades en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente hasta el 31 de diciembre de 1996, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
+
+III.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1997 y 1998, se determinará conforme a lo establecido en la Ley Federal del Impuesto sobre Automóviles Nuevos, sin considerar las reducciones a que se refieren los artículos quinto y sexto transitorios de la citada Ley.
