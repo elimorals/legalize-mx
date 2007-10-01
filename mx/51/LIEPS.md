@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2006-12-27"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -120,7 +122,9 @@ II. En la prestación de los siguientes servicios:
 
 A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B) y C) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la misma.
 
-B) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 20%
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -350,13 +354,13 @@ Las disposiciones que establece el Código Fiscal de la Federación en materia d
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 5o.-A.
+###### ARTICULO 5o.-A.
 
 Los fabricantes, productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refieren los incisos A), B) y C) de la fracción I del artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos correspondan y enterarlo mediante declaración que presentarán ante las oficinas autorizadas, de conformidad con lo dispuesto en el primer párrafo del artículo 5o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
 Los contribuyentes que únicamente realicen las actividades a que se refiere el párrafo anterior y que por dichas actividades les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del citado párrafo, no tendrán obligación de presentar declaraciones de pago mensual.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 5o.
 
@@ -367,6 +371,14 @@ A.- Los fabricantes, productores, envasadores o importadores que a través de co
 Los contribuyentes a los que les sea retenido el impuesto sobre las contraprestaciones que le correspondan en los términos del párrafo anterior, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 5o.-B.
+
+Las personas que realicen las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, podrán disminuir del impuesto correspondiente a dichas actividades en el mes de que se trate, el monto de la participación que corresponda al Gobierno Federal de los productos obtenidos por los permisionarios, prevista en la Ley Federal de Juegos y Sorteos, que hayan pagado en el mismo mes. Cuando dicha disminución exceda del impuesto que deba enterar el contribuyente, la diferencia podrá disminuirla en los meses siguientes hasta agotarla, sin que en ningún caso dé lugar a acreditamiento, compensación o devolución alguna.
+
+Los contribuyentes también podrán disminuir del impuesto correspondiente a las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en el mes de que se trate, el monto del pago efectivamente realizado por concepto de los impuestos que las entidades federativas tengan establecidos sobre los juegos con apuestas y sorteos, sin que en ningún caso esta disminución exceda de la quinta parte del impuesto que establece esta Ley a dichas actividades. La disminución prevista en este párrafo se podrá realizar en la declaración de pago siguiente al mes en que se haya efectuado el entero de los impuestos establecidos por las entidades federativas.
+
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 6o.
 
@@ -433,6 +445,22 @@ f) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 g) La de cualquier tipo de bienes que se encuentren sujetos al régimen aduanero de recinto fiscalizado estratégico.
 
 II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+III. Por las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en los siguientes supuestos:
+
+a) Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 95, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
+
+b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio.
+
+c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes:
+
+1. No obtenga más de diez permisos para celebrar sorteos en un año de calendario.
+
+2. El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la actualización y los recargos respectivos.
 
 ###### ARTICULO 8o.
 
@@ -544,9 +572,23 @@ Cuando en forma ocasional se importe un bien por el que deba pagarse el impuesto
 
 Para calcular el impuesto en la prestación de servicios, se considerará como valor la contraprestación. En este caso, el impuesto se causa en el momento en que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. El impuesto se pagará de conformidad con el artículo 5o. de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 18.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
+Para calcular el impuesto por la realización de las actividades a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley, se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas. Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+Los valores a que se refiere este artículo se podrán disminuir con el monto de los siguientes conceptos:
+
+I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables. Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado.
+
+II. Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
+
+Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
 
 ### CAPITULO V. De las Obligaciones de los Contribuyentes
 
@@ -641,6 +683,10 @@ XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcoh
 > <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 XV. Los productores, envasadores e importadores de bebidas alcohólicas estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Los contribuyentes a que se refiere esta fracción o terceros con ellos relacionados, deberán proporcionar a las autoridades fiscales, con motivo de la solicitud de marbetes o precintos que realicen, la información o documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les hayan sido entregados.
 
 XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
 
@@ -778,11 +824,13 @@ Los porcientos a que se refieren las fracciones anteriores, únicamente son apli
 
 Cuando el contribuyente sea omiso en presentar por más de tres veces en un mismo ejercicio las declaraciones a que se refiere el artículo 19 de esta Ley, tenga adeudos fiscales a su cargo, salvo que los contribuyentes celebren convenio con las autoridades fiscales para cubrir a plazos, ya sea mediante pago diferido o en parcialidades o los hayan impugnado mediante cualquier medio de defensa, no se compruebe el uso de los marbetes o precintos entregados previamente, o se compruebe el uso incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o precintos a que se refiere esta Ley.
 
-> <small>(REFORMADO [N. DE E. ANTES TITULO III], D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 26-A.
 
-(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
+Las autoridades fiscales podrán requerir a los contribuyentes la información o documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no hacerlo en ese plazo, se les tendrá por desistidos de la solicitud de marbetes o precintos que, en su caso, hubieren formulado.
+
+> <small>(REFORMADO [N. DE E. ANTES TITULO III], D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO VII. De las Participaciones a las Entidades Federativas
 
@@ -797,6 +845,10 @@ II.- Los actos de organización de los contribuyentes del impuesto establecido e
 III.- La expedición o emisión de títulos, acciones u obligaciones y las operaciones relativas a los mismos por los contribuyentes del impuesto que esta Ley establece.
 
 El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+La prohibición a que se refiere el presente artículo no será aplicable respecto de los impuestos locales o municipales que establezcan las entidades federativas a las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la Ley de Coordinación Fiscal, el impuesto especial sobre producción y servicios correspondiente a las actividades mencionadas.
 
 ###### ARTICULO 28.
 
@@ -827,6 +879,12 @@ c).- 5% a los municipios de las entidades consumidoras.
 La Secretaría de Hacienda y Crédito Público cubrirá directamente las cantidades que correspondan a los municipios, de acuerdo con la distribución que señale la legislatura local respectiva y en su defecto, en función del número de sus habitantes según los datos del último censo.
 
 Los Estados que no se adhieran al Sistema Nacional de Coordinación Fiscal, podrán gravar la producción, acopio o venta de tabaco en rama con impuestos locales o municipales que en conjunto no excederán de un peso cincuenta y cinco centavos por kilo, que sólo podrán decretar las entidades en que aquél se cultive
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 29.
+
+Las entidades federativas que tengan celebrado con la Secretaría de Hacienda y Crédito Público convenio de coordinación para la administración del impuesto sobre la renta a cargo de las personas físicas que tributen conforme al régimen de pequeños contribuyentes de acuerdo con lo previsto en el Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, administrarán el impuesto especial sobre producción y servicios de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondiente a los contribuyentes que hayan optado por pagar el impuesto sobre la renta mediante estimativa practicada por las autoridades fiscales. Las entidades federativas recibirán como incentivo el 100% de la recaudación que obtengan por el citado concepto.
 
 ## TRANSITORIOS
 
@@ -2222,371 +2280,25 @@ AÑO TASA
 
 2008 28.5%
 
-## Transitorios
-
-Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
-
-Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
-
-D.O.F. 1 DE ENERO DE 2002.
-
-Disposiciones Transitorias de la Ley del Impuesto Especial
-
-sobre Producción y Servicios
-
-Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
-
-I. Los contribuyentes a que hace referencia el artículo 26-A de la Ley del Impuesto Especial Sobre Producción y Servicios, vigente hasta antes de la entrada en vigor del Artículo Primero de este Decreto, que hubiesen pagado el impuesto correspondiente en los términos de los artículos 26-C y 26-H, primer párrafo, vigentes en la citada Ley, no estarán obligados a pagar el impuesto que corresponda en los términos del citado Artículo Primero cuando los productos por los que ya se pagó el impuesto se enajenen, siempre y cuando presenten, dentro de los 5 días siguientes a la entrada en vigor del Artículo Primero del presente Decreto, un reporte que contenga lo siguiente:
-
-a) Inventario de existencias por tipo, marca, presentación y capacidad del envase, al día anterior al de la entrada en vigor del Artículo Primero del presente Decreto, distinguiendo aquéllas respecto de las cuales ya se pagó el impuesto y aquéllas por las que no se ha pagado el mismo.
-
-b) Copia de las declaraciones en las que se haya pagado el impuesto correspondiente a las existencias a que hace referencia el inciso anterior.
-
-La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales.
-
-II. Los productores, envasadores e importadores, de bebidas alcohólicas que con anterioridad a la entrada en vigor del Artículo Primero del presente Decreto hubieran optado por pagar el impuesto en los términos de los artículos 26-D y 26-H, segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, vigentes hasta antes de la entrada en vigor del citado Artículo Primero, y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente:
-
-a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
-
-TABLA
-
-PRODUCTO CUOTA POR LITRO $
-
-Aguardiente Abocado o Reposado 5.35
-
-Aguardiente Standard (blanco u oro)
-
-Charanda
-
-Licor de hierbas regionales
-
-Aguardiente Añejo 10.34
-
-Habanero
-
-Rompope
-
-Aguardiente con Sabor 12.29
-
-Cocteles
-
-Licores y Cremas de hasta 20% Alc. Vol.
-
-Parras
-
-Bacanora 17.60
-
-Comiteco
-
-Lechuguilla o raicilla
-
-Mezcal
-
-Sotol
-
-Anís 18.91
-
-Ginebra
-
-Vodka
-
-Ron 23.41
-
-Tequila joven o blanco
-
-Brandy 28.15
-
-Amaretto 28.56
-
-Licor de Café o Cacao
-
-Licores y Cremas de más 20% Alc. Vol.
-
-Tequila reposado o añejo
-
-Ron Añejo 33.92
-
-Brandy Reserva 36.72
-
-Ron con Sabor 53.46
-
-Ron Reserva
-
-Tequila joven o blanco 100% agave 54.61
-
-Tequila reposado 100% agave
-
-Brandy Solera 60.53
-
-Cremas base Whisky 79.60
-
-Whisky o Whiskey, Borbon o Bourbon,
-
-Tenessee "Standard"
-
-Calvados 139.24
-
-Tequila añejo 100% agave
-
-Cognac V.S. 168.34
-
-Whisky o Whiskey, Borbon o Bourbon,
-
-Tenessee "de Luxe"
-
-Cognac V.S.O.P. 283.31
-
-Cognac X.O. 1,068.01
-
-Otros 1,096.83
-
-Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
-
-En el mes de junio de 2002 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
-
-El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002.
-
-b) El impuesto determinado conforme al inciso anterior se pagará a más tardar el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, mediante declaración que se presentará ante las oficinas autorizadas, en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público.
-
-Los contribuyentes a que hace referencia esta fracción deberán presentar dentro de los 6 días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, mediante escrito libre, ante las autoridades fiscales, un reporte que contenga el inventario de dichas bebidas, al día anterior al de la entrada en vigor del Artículo Primero del citado Decreto, por tipo, marca, presentación, capacidad del envase y el número de envases que se tengan en existencias, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
-
-III. Los contribuyentes a que se refieren las fracciones I y II del presente Artículo, deberán informar mensualmente a la Secretaría de Hacienda y Crédito Público en el formato que al efecto publique dicha Secretaría, las enajenaciones realizadas en el mes de que se trate de los productos que se hubiesen reportado en los inventarios a que se refieren dichas fracciones.
-
-IV. Los contribuyentes que con posterioridad a la entrada en vigor del Artículo Primero del presente Decreto reciban devoluciones de bebidas alcohólicas por las que ya se hubiera pagado el impuesto, estarán a lo siguiente:
-
-a) Determinarán el impuesto pagado en la enajenación de dichos productos. En el caso de que no se pueda determinar el mes en el que dichos productos fueron enajenados, considerarán como impuesto pagado, la cantidad que resulte de aplicar al número de litros devueltos, la cuota por litro vigente en el tercer mes inmediato anterior a aquél en el que se efectuó la devolución.
-
-b) Cuando los productos devueltos sean nuevamente enajenados, se calculará el impuesto correspondiente en los términos de la fracción II de este artículo, considerando la cuota por litro vigente en el mes en el que se efectúa dicha enajenación.
-
-c) Del impuesto causado por dichas enajenaciones en los términos del inciso anterior, se podrá disminuir el impuesto pagado a que se refiere el inciso a) de esta fracción correspondiente a dichos productos.
-
-d) La diferencia que resulte a cargo del contribuyente en los términos del inciso anterior, deberá pagarse conjuntamente con el impuesto que corresponda al mes en que se efectúa la enajenación de dichos productos.
-
-Para los efectos de esta fracción, se considerará que los primeros productos devueltos fueron los primeros que se enajenaron posteriormente.
-
-Los contribuyentes a que hace referencia esta fracción deberán llevar un registro especial de devoluciones y enajenaciones de productos, en los términos que para tales efectos establezca la Secretaría de Hacienda y Crédito Público.
-
-V. Los contribuyentes del impuesto especial sobre producción y servicios, que a la entrada en vigor del Artículo Primero del presente Decreto tengan marbetes o precintos adquiridos con anterioridad que no se encuentren adheridos a los envases o recipientes que contengan bebidas alcohólicas, deberán informar el número de marbetes o precintos y el folio de cada uno de ellos, y devolver a las autoridades fiscales, dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, dichos marbetes o precintos.
-
-VI. Los contribuyentes que a la fecha de la entrada en vigor del Artículo Primero del presente Decreto tengan un monto de impuesto pendiente de disminuir en los términos del artículo 26-E de la Ley del Impuesto Especial sobre Producción y Servicios, vigente hasta antes de la entrada en vigor de dicho Artículo Primero, lo podrán disminuir del impuesto especial sobre producción y servicios que les corresponda pagar en los meses siguientes, hasta agotarlo.
-
-VII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a la entrada en vigor del Artículo Primero del presente Decreto cuenten con existencias de bebidas alcohólicas por las cuales los productores, envasadores e importadores, ya hubiesen pagado el impuesto correspondiente y esta situación se demuestre con los marbetes o precintos anteriores de los que a partir de la entrada en vigor del mismo autorice la Secretaría de Hacienda y Crédito Público, no estarán obligados a pagar el impuesto que corresponda a dichas bebidas ni podrán trasladarlo cuando las mismas se enajenen.
-
-VIII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a partir de la entrada en vigor del Artículo Primero de este Decreto adquieran bebidas alcohólicas que tengan adherido el marbete autorizado por la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del mismo, no deberán aceptar el traslado del impuesto especial sobre producción y servicios en la adquisición de dichas bebidas y no podrán trasladarlo cuando las mismas se enajenen. Respecto de dichos bienes no se considerarán contribuyentes del citado impuesto, por lo que no procede acreditamiento alguno.
-
-IX. Para los efectos de la fracción VI del artículo 7 de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002, se entenderá por ejercicio el año de calendario.
-
-X. Para los efectos de lo dispuesto por el artículo 19, fracciones VI y VIII de la Ley del Impuesto Especial sobre Producción y Servicios, en relación con los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, la determinación de las participaciones a las entidades federativas de la recaudación del impuesto especial sobre producción y servicios en los años de 2000 y 2001, por la realización de los actos o actividades gravados con dicho impuesto en materia de bebidas alcohólicas, se hará con base en el por ciento que corresponda a cada Estado, de conformidad con la recaudación participada en 1999 por entidad federativa.
-
-XI. Las personas físicas y morales, que hasta el 31 de diciembre de 2001 no hayan sido considerados como contribuyentes del impuesto especial sobre producción y servicios y que a partir de la entrada en vigor del Artículo Primero del presente Decreto tengan tal carácter, deberán presentar dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, un reporte que contenga el inventario de existencias por tipo, marca, presentación y capacidad, de los bienes por los que a partir de la entrada en vigor de dicho Artículo son considerados como contribuyentes del impuesto de referencia.
-
-La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales y deberá contener las existencias que se tengan hasta antes de la entrada en vigor del Artículo Primero del presente Decreto.
-
-XII. La obligación contenida en la fracción XVIII del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios entrará en vigor el 1o. de abril de 2002.
-
-XIII. Lo dispuesto en el Artículo Primero de este Decreto entrará en vigor el 1o. de enero de 2002.
-
-XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente:
-
-a) Cigarros con filtro:
-
-AÑO TASA
-
-2002 105%
-
-2003 107%
-
-2004 110%
-
-2005 110%
-
-b) Cigarros sin filtro:
-
-AÑO TASA
-
-2002 60%
-
-2003 80%
-
-2004 100%
-
-2005 110%
-
-Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
-
-Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
-
-D.O.F. 30 DE DICIEMBRE DE 2002.
+D.O.F. 1 DE OCTUBRE DE 2007.
 
 Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
 
-Artículo Primero. En relación con las modificaciones a que se refiere el Artículo Único de esta Ley, se estará a lo siguiente:
+###### ARTÍCULO SÉPTIMO.
 
-I. El presente Decreto entrará en vigor el 1o. de enero de 2003.
+En relación con las modificaciones a que se refiere el Artículo Sexto de este Decreto, y tratándose de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de la Ley del Impuesto Especial sobre Producción y Servicios, que se realicen con posterioridad a la fecha de la entrada en vigor del presente Decreto, sólo quedarán afectas al pago del impuesto las cantidades efectivamente percibidas a partir de su entrada en vigor, las cuales sólo se podrán disminuir con el monto de los siguientes conceptos:
 
-II. Para los efectos del inciso a) de la fracción II del Artículo Segundo de las Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios, vigente a partir del 1o. de enero de 2002, la tabla aplicable para el ejercicio fiscal de 2003 es la siguiente:
+I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables a partir de la fecha de la entrada en vigor del presente Decreto, en la proporción que representen las cantidades efectivamente percibidas a partir de dicha fecha respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
 
-TABLA
+II. Las cantidades efectivamente devueltas a los participantes a partir de la fecha de la entrada en vigor del presente Decreto, cuando se identifiquen con las cantidades efectivamente percibidas a partir de dicha fecha. Si las cantidades primeramente mencionadas no fuesen identificables de conformidad con lo anterior, se podrán disminuir en la proporción que representen las cantidades efectivamente percibidas a partir de la entrada en vigor del presente Decreto respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
 
-PRODUCTO CUOTA
+La disminución de las cantidades mencionadas en este inciso sólo se podrá realizar cuando se cumplan los requisitos a que se refiere la fracción II del artículo 18 de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-POR LITRO $
+...
 
-Aguardiente
+## TRANSITORIO
 
-Abocado o
-
-Reposado
-
-Aguardiente
-
-Standard
-
-(blanco u oro)
-
-Charanda Licor
-
-de hierbas
-
-regionales 5.52
-
-Aguardiente
-
-Añejo
-
-Habanero
-
-Rompope 10.67
-
-Aguardiente con
-
-Sabor Cocteles
-
-Licores
-
-y Cremas
-
-hasta 20% Alc. Vol.
-
-Parras 12.69
-
-Bacanora
-
-Comiteco
-
-Lechuguilla o
-
-raicilla
-
-Mezcal
-
-Sotol 18.16
-
-Anís
-
-Ginebra
-
-Vodka 19.52
-
-Ron Tequila
-
-joven o blanco 24.16
-
-Brandy 29.05
-
-Amaretto
-
-Licor de Café
-
-o Cacao
-
-Licores y
-
-Cremas de
-
-más de 20% Alc.
-
-Vol. Tequila
-
-reposado
-
-o añejo 29.48
-
-Ron Añejo 35.00
-
-Brandy
-
-Reserva 37.90
-
-Ron con Sabor
-
-Ron Reserva 55.18
-
-Tequila joven o
-
-blanco 100%
-
-agave Tequila
-
-reposado 100%
-
-agave 56.36
-
-Brandy
-
-Solera 62.47
-
-Cremas
-
-base Whisky
-
-Whisky o
-
-Whiskey,
-
-Borbón o
-
-Bourbon,
-
-Tenessee
-
-"Standard" 82.15
-
-Calvados
-
-Tequila añejo 100%
-
-agave 143.71
-
-Cognac V.S.
-
-Whisky o
-
-Whiskey,
-
-Borbón o
-
-Bourbon,
-
-Tenessee
-
-"de Luxe" 173.74
-
-Cognac V.S.O.P. 292.39
-
-Cognac X.O. 1,102.25
-
-Otros 1,131.99
-
-Las cuotas por litro establecidas en esta fracción se encuentran actualizadas para el primer semestre de 2003 con el factor de 1.0300.
-
-En el mes de junio de 2003 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
-
-El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2003, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2003.
-
-D.O.F. 31 DE DICIEMBRE DE 2003.
-
-Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios
+Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 ###### ARTICULO QUINTO.
 
