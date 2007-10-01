@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2007-01-30"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2007.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE ENERO DE 2007.
 
@@ -726,6 +726,10 @@ Cuando no se cumplan los requisitos a que se refieren los párrafos cuarto y qui
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro federal de contribuyentes a que se refiere el artículo 31 de este Código.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+En caso de que la firma no sea legible o se dude de su autenticidad, las autoridades fiscales requerirán al promovente a fin de que, en el mismo plazo señalado en el párrafo anterior, se presente a ratificar la firma plasmada en la promoción.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 18-A.
@@ -780,11 +784,11 @@ La protección y defensa de los derechos e intereses de los contribuyentes en ma
 
 La Procuraduría de la Defensa del Contribuyente se establece como organismo autónomo, con independencia técnica y operativa. La prestación de sus servicios será gratuita y sus funciones, alcance y organización se contienen en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 19.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -876,7 +880,9 @@ El Servicio de Administración Tributaria, mediante reglas de carácter general,
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-Artículo 20 BIS.- El Indice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20, que calcula el Banco de México, se sujeta a lo siguiente:
+###### Artículo 20
+
+BIS.- El Indice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20, que calcula el Banco de México, se sujeta a lo siguiente:
 
 I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
 
@@ -974,6 +980,18 @@ Cuando en la solicitud de devolución únicamente existan errores aritméticos e
 
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes, y documentos, a que se refiere el sexto párrafo anterior, pudiendo ejercerlas en cualquier momento.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Cuando con motivo de la solicitud de devolución la autoridad inicie facultades de comprobación con el objeto de comprobar la procedencia de la misma, los plazos a que hace referencia el párrafo sexto del presente artículo se suspenderán hasta que se emita la resolución en la que se resuelva la procedencia o no de la solicitud de devolución. El citado ejercicio de las facultades de comprobación concluirá dentro de un plazo máximo de noventa días contados a partir de la fecha en la que se notifique a los contribuyentes el inicio de dichas facultades. En el caso en el que la autoridad, para verificar la procedencia de la devolución, deba requerir información a terceros relacionados con el contribuyente, así como en el de los contribuyentes a que se refiere el apartado B del artículo 46-A de este Código, el plazo para concluir el ejercicio de facultades de comprobación será de ciento ochenta días contados a partir de la fecha en la que se notifique a los contribuyentes el inicio de dichas facultades. Estos plazos se suspenderán en los mismos supuestos establecidos en el artículo 46-A de este Código.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El ejercicio de las facultades de comprobación para verificar la procedencia de la devolución, será independiente del ejercicio de otras facultades que ejerza la autoridad con el fin de comprobar el cumplimiento de las obligaciones fiscales del contribuyente. La autoridad fiscal podrá ejercer las facultades de comprobación con el objeto de verificar la procedencia de cada solicitud de devolución presentada por el contribuyente, aún cuando se encuentre referida a las mismas contribuciones, aprovechamientos y periodos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Si concluida la revisión efectuada en el ejercicio de facultades de comprobación para verificar la procedencia de la devolución, se autoriza ésta, la autoridad efectuará la devolución correspondiente dentro de los 10 días siguientes a aquél en el que se notifique la resolución respectiva. Cuando la devolución se efectúe fuera del plazo mencionado se pagarán intereses que se calcularán conforme a lo dispuesto en el artículo 22-A de este Código.
+
 El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 17-A de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor y hasta aquél en el que la devolución esté a disposición del contribuyente. Para el caso de depósito en cuenta, se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución financiera señalada en la solicitud de devolución.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
@@ -984,15 +1002,19 @@ Cuando en el acto administrativo que autorice la devolución se determinen corre
 
 El monto de la devolución de la actualización a que se refiere el párrafo anterior, deberá ponerse, en su caso, a disposición del contribuyente dentro de un plazo de cuarenta días siguientes a la fecha en la que se presente la solicitud de devolución correspondiente; cuando la entrega se efectúe fuera del plazo mencionado, las autoridades fiscales pagarán intereses que se calcularán conforme a lo dispuesto en el artículo 22-A de este Código. Dichos intereses se calcularán sobre el monto de la devolución actualizado por el periodo comprendido entre el mes en que se puso a disposición del contribuyente la devolución correspondiente y el mes en que se ponga a disposición del contribuyente la devolución de la actualización.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que el requerimiento de datos, informes o documentos adicionales a que se refiere el sexto párrafo de este artículo o la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código, sobre las cantidades actualizadas, tanto por las devueltas indebidamente como por las de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
+Cuando las autoridades fiscales procedan a la devolución sin ejercer las facultades de comprobación a que se hace referencia en el párrafo noveno del presente artículo, la orden de devolución no implicará resolución favorable al contribuyente, quedando a salvo las facultades de comprobación de la autoridad. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código, sobre las cantidades actualizadas, tanto por las devueltas indebidamente como por las de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal. Para estos efectos, la solicitud de devolución que presente el particular, se considera como gestión de cobro que interrumpe la prescripción, excepto cuando el particular se desista de la solicitud.
 
 La devolución podrá hacerse de oficio o a petición del interesado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El Servicio de Administración Tributaria, mediante disposiciones de carácter general, podrá establecer los casos en los que no obstante que se ordene el ejercicio de las facultades de comprobación a que hace referencia el párrafo noveno del presente artículo, regirán los plazos establecidos por el párrafo sexto del mismo, para efectuar la devolución.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1052,11 +1074,11 @@ III. Cuando los contribuyentes soliciten que el certificado especial sea expedid
 
 IV. Se trate de contribuyentes que dictaminen u opten por dictaminarse para efectos fiscales de conformidad con el artículo 32-A de este Código.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $25,000.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $10,000.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1144,6 +1166,10 @@ b) Cambie su domicilio sin presentar el aviso correspondiente en los términos d
 
 c). No lleve contabilidad, la oculte o la destruya.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del Reglamento de este Código.
+
 IV. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
 
 V. Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones.
@@ -1182,9 +1208,9 @@ XV. La sociedad que administre o los propietarios de los inmuebles afectos al se
 
 XVI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-XVII. Los asociados, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por el asociante mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción III de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el periodo o a la fecha de que se trate.
+XVII. Los asociantes, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción III de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o la fecha de que se trate.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2022,7 +2048,9 @@ Lo señalado en el párrafo anterior, no constituirá instancia y las resolucion
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Artículo 36 BIS.- Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal, surtirán sus efectos en el ejercicio fiscal del contribuyente en el que se otorguen o en el ejercicio inmediato anterior, cuando se hubiera solicitado la resolución, y ésta se otorgue en los tres meses siguientes al cierre del mismo.
+###### Artículo 36
+
+BIS.- Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal, surtirán sus efectos en el ejercicio fiscal del contribuyente en el que se otorguen o en el ejercicio inmediato anterior, cuando se hubiera solicitado la resolución, y ésta se otorgue en los tres meses siguientes al cierre del mismo.
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988) (F. DE E., D.O.F. 17 DE ENERO DE 1989)
 
@@ -2186,9 +2214,9 @@ III. Practicar visitas a los contribuyentes, los responsables solidarios o terce
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como la declaratoria por solicitudes de devolución de saldos a favor de impuesto al valor agregado y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, así como para solicitar la exhibición de los comprobantes que amparen la legal propiedad o posesión de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
+V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del registro federal de contribuyentes, así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2366,9 +2394,9 @@ VIII. Cuando de la revisión de las actas de visita y demás documentación vinc
 
 Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la determinación del crédito fiscal correspondiente cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad o en los datos aportados por los particulares en las declaraciones complementarias que se presenten.
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales; a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2409,6 +2437,10 @@ IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o doc
 V. Tratándose de la fracción VIII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
 
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Diario Oficial de la Federación y en la página de Internet del Servicio de Administración Tributaria.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2510,6 +2542,10 @@ V. Si al cierre del acta de visita domiciliaria el visitado o la persona con qui
 
 VI. Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el registro federal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+La resolución a que se refiere el párrafo anterior deberá emitirse en un plazo que no excederá de seis meses contados a partir del vencimiento del plazo señalado en el párrafo que antecede.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 50.
@@ -2528,9 +2564,9 @@ Cuando las autoridades no emitan la resolución correspondiente dentro del plazo
 
 En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
+Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto por el último párrafo del artículo 46 de este Código.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -2652,9 +2688,21 @@ El plazo a que se refiere el segundo párrafo de la fracción I de este artícul
 
 Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el antepenúltimo párrafo del artículo 42 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales, tampoco se seguirá el mencionado orden en el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
+
+a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales.
+
+b) En el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+
+c) El dictamen no surta efectos fiscales.
+
+d) El contador público que formule el dictamen no esté autorizado o su registro esté suspendido o cancelado.
+
+e) El contador público que formule el dictamen desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del Reglamento de este Código.
+
+f) El objeto de los actos de comprobación verse sobre contribuciones o aprovechamientos en materia de comercio exterior; clasificación arancelaria; cumplimiento de regulaciones o restricciones no arancelarias; la legal importación, estancia y tenencia de mercancías de procedencia extranjera en territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2786,6 +2834,18 @@ II. Que la información contenida en los sistemas de contabilidad, a nombre del 
 
 III. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1´000,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+No se aplicará lo dispuesto en el párrafo anterior cuando, antes de que la autoridad inicie el ejercicio de sus facultades de comprobación, el contribuyente informe al Servicio de Administración Tributaria de los depósitos realizados, cubriendo todos los requisitos que dicho órgano desconcentrado establezca mediante reglas de carácter general.
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IV. Que son ingresos y valor de actos o actividades de la empresa por los que se deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa y ésta no los registre en contabilidad.
@@ -2846,19 +2906,23 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 63.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Hacienda y Crédito Público y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Hacienda y Crédito Público y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Las autoridades fiscales estarán a lo dispuesto en el párrafo anterior, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 69 de este Código.
+Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 69 de este Código.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
 > <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2984,9 +3048,9 @@ IV. Se levante el acta de incumplimiento de la obligación garantizada, en un pl
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Federal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas, o no se presente en la declaración del impuesto sobre la renta la información que respecto del impuesto al valor agregado o del impuesto especial sobre producción y servicios se solicite en dicha declaración; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en el que se debió haber presentado la declaración señalada. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-En los casos de responsabilidad solidaria a que se refiere el artículo 26 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
+En los casos de responsabilidad solidaria a que se refiere el artículo 26, fracciones III, X y XVII de este Código, el plazo será de cinco años a partir de que la garantía del interés fiscal resulte insuficiente.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -3008,15 +3072,15 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales exigibles de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley de Agrupaciones Financieras.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, así como la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400-Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público.
+La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -3027,6 +3091,10 @@ Sólo por acuerdo expreso del Secretario de Hacienda y Crédito Público se podr
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Mediante acuerdo de intercambio recíproco de información, suscrito por el Secretario de Hacienda y Crédito Público, se podrá suministrar la información a las autoridades fiscales de países extranjeros, siempre que se pacte que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente por el país de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+También se podrá proporcionar a la Secretaría del Trabajo y Previsión Social, previa solicitud expresa, información respecto de la participación de los trabajadores en las utilidades de las empresas contenida en la base de datos y sistemas institucionales del Servicio de Administración Tributaria, en los términos y condiciones que para tal efecto establezca el citado órgano desconcentrado.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3066,7 +3134,9 @@ Las multas que este Capítulo establece en por cientos o en cantidades determina
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
-Artículo 70 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, D.O.F. 15 DE DICIEMBRE DE 1995)
+###### Artículo 70
+
+BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3324,7 +3394,7 @@ I. De $2,140.00 a $6,430.00, a las comprendidas en las fracciones I, II y VI.
 
 II. De $2,770.00 a $5,530.00, a la comprendida en la fracción III, salvo tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de $1,967,870.00, supuestos en los que la multa será de $920.00 a $1,850.00.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3372,9 +3442,9 @@ III. No pagar las contribuciones dentro del plazo que establecen las disposicion
 
 IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-V. No proporcionar la información de las personas a las que les hubiera entregado cantidades en efectivo por concepto de crédito al salario de conformidad con el artículo 118 fracción V de la Ley del Impuesto sobre la Renta, o presentarla fuera del plazo establecido para ello.
+V. No proporcionar la información de las personas a las que les hubiera entregado cantidades en efectivo por concepto de subsidio para el empleo de conformidad con las disposiciones legales que lo regulan, o presentarla fuera del plazo establecido para ello.
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -4130,21 +4200,29 @@ V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de e
 
 Se sancionará con una multa de $81,910.00 a $109,210.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 89.
 
 Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
-I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
+I. Asesorar, aconsejar o prestar servicios para omitir total o parcialmente el pago de alguna contribución en contravención a las disposiciones fiscales.
 
-II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
+II. Colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
+III. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+No se incurrirá en la infracción a que se refiere la fracción primera de este artículo, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 90.
 
-Se sancionará con una multa de $21,430.00 a $42,870.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89.
+Se sancionará con una multa de $35,000.00 a $55,000.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+
+En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
+
+No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 12 DE MAYO DE 2006.</small>
 
@@ -4168,17 +4246,13 @@ No se incurrirá en la infracción a que se refiere el párrafo anterior, cuando
 
 Al contador público que cometa las infracciones a que se refiere el artículo 91-A de este Código, se le aplicará una multa del 10% al 20% de las contribuciones omitidas a que se refiere el citado precepto, sin que dicha multa exceda del doble de los honorarios cobrados por la elaboración del dictamen.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
-
 ###### Artículo 91-C.
 
-Es infracción de los contadores, abogados o cualquier otro asesor en materia fiscal, no advertir a los destinatarios de la opinión que otorgue por escrito, si el criterio contenido en la misma es diverso a los criterios que en su caso hubiere dado a conocer la autoridad fiscal conforme al inciso h) de la fracción I, del artículo 33 de este Código.
-
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2007)
 
 ###### Artículo 91-D.
 
-Los contadores, abogados o cualquier otro asesor en materia fiscal que cometan la infracción a que se refiere el artículo anterior serán sancionados con una multa de $20,000.00 a $30,000.00.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2007)
 
 ### CAPITULO I. Del Recurso Administrativo
 
@@ -4550,6 +4624,10 @@ Comete el delito de defraudación fiscal quien con uso de engaños o aprovechami
 
 La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos derivados de operaciones con recursos de procedencia ilícita.
+
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA DÉCIMA SEGUNDA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2006, D.O.F. DEL 30 DE ENERO DE 2007.</small>
@@ -4752,7 +4830,9 @@ La misma pena se impondrá a quien dolosamente destruya o deteriore dichas merca
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-Artículo 115 BIS.- Se impondrá sanción de seis a diez años de prisión al comercializador o transportista, de gasolina o diesel que tenga en su poder dichos combustibles, cuando éstos no contengan los trazadores o las demás especificaciones que Petróleos Mexicanos o sus organismos subsidiarios utilicen para la identificación de los productos mencionados.
+###### Artículo 115
+
+BIS.- Se impondrá sanción de seis a diez años de prisión al comercializador o transportista, de gasolina o diesel que tenga en su poder dichos combustibles, cuando éstos no contengan los trazadores o las demás especificaciones que Petróleos Mexicanos o sus organismos subsidiarios utilicen para la identificación de los productos mencionados.
 
 Tratándose de gasolina o diesel que estén sujetos a especificaciones de identificación para su comercialización exclusiva en zonas geográficas limitadas, también se aplicará la pena mencionada al comercializador o transportista, que tenga en su poder los combustibles mencionados, fuera de las zonas geográficas limitadas.
 
@@ -4821,6 +4901,10 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad c
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 El escrito de interposición del recurso podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Para los efectos del párrafo anterior, se entenderá como oficina de correos a las oficinas postales del Servicio Postal Mexicano y aquéllas que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5198,11 +5282,11 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 139.
 
-Las notificaciones por estrados se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día siguiente al primer día en que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -5357,6 +5441,14 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 También se suspenderá la ejecución del acto que determine un crédito fiscal cuando los tribunales competentes notifiquen a las autoridades fiscales sentencia de concurso mercantil dictada en términos de la ley de la materia y siempre que se hubiese notificado previamente a dichas autoridades la presentación de la demanda correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+En el caso del impuesto empresarial a tasa única causado con posterioridad a la declaratoria de concurso mercantil decretada por el tribunal competente, el cobro de dicho impuesto se suspenderá desde la notificación de dicha declaratoria, hasta que se firme el convenio respectivo entre el contribuyente con los acreedores y el fisco federal o en su caso sea decretada la quiebra del mismo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El impuesto señalado en el párrafo anterior podrá incluirse dentro de la condonación a que se refiere el artículo 146-B del Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -5650,7 +5742,9 @@ El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realiza
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-Artículo 156 BIS.- En el caso de embargo de depósitos bancarios en términos del artículo 155, fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
+###### Artículo 156
+
+BIS.- En el caso de embargo de depósitos bancarios en términos del artículo 155, fracción I, del presente Código, la autoridad que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que la inmovilice y conserve los fondos depositados.
 
 La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
 
@@ -5746,15 +5840,21 @@ Cuando las autoridades fiscales embarguen negociaciones, el depositario designad
 
 En la intervención de nogociaciones (sic) será aplicable, en lo conducente, las secciones de este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 165.
 
-El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+El interventor con cargo a la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, así como los costos y gastos indispensables para la operación de la negociación en los términos del Reglamento de este Código, deberá retirar de la negociación intervenida hasta el 10% de los ingresos percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos o reembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
 Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco federal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables o, en su caso, procederá a solicitar ante la autoridad competente el inicio del concurso mercantil.
 
 ###### Artículo 166.
 
@@ -5968,7 +6068,9 @@ Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudica
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Artículo 188 BIS.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+###### Artículo 188
+
+BIS.- En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
 
 Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco federal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 196-A de este Código.
 
@@ -6172,13 +6274,17 @@ II. Por consulta entre autoridades, si de dicha consulta depende la entrega de l
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Artículo 208 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+###### Artículo 208
+
+BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 209.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Artículo 209 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+###### Artículo 209
+
+BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 210.
 
@@ -6264,7 +6370,9 @@ Artículo 209 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDE
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-Artículo 228 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
+###### Artículo 228
+
+BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)
 
 ###### Artículo 229.
 
@@ -7264,8 +7372,6 @@ Unico. La presente Resolución entrará en vigor el 1o. de julio de 1999.
 
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
-
 Disposiciones Transitorias del Código Fiscal de la Federación.
 
 Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de esta Ley, se estará a lo siguiente:
@@ -7630,7 +7736,7 @@ Cuarto.- Los juicios que se encuentren en trámite ante el Tribunal Federal de J
 
 D.O.F. 6 DE ABRIL DE 2006.
 
-LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
 
 D.O.F. 12 DE MAYO DE 2006.
 
@@ -7718,9 +7824,9 @@ En el supuesto de que los particulares soliciten y manifiesten su conformidad an
 
 La revocación realizada en términos de este artículo no tendrá efectos retroactivos.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
-
 ## Transitorios
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
 
@@ -7739,3 +7845,109 @@ Quinto. Para efectos de lo dispuesto en la regla 2.4.24. de la presente Resoluci
 Sexto. En relación con la derogación de la regla 3.4.25., los contribuyentes que hubieran celebrado Convenio firmado por la autoridad competente de la PROFEPA estarán a lo dispuesto por dicha regla vigente hasta la entrada en vigor de la presente Resolución.
 
 Séptimo. Para los efectos de la regla 2.3.1.15. publicada en la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2006, el 28 de agosto de 2006, el dispositivo magnético a que se refiere la citada regla, se presentará en octubre de 2007.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+Disposiciones Transitorias del Código Fiscal de la Federación
+
+###### ARTÍCULO QUINTO.
+
+En relación con las modificaciones a que se refiere el artículo tercero de este Decreto se estará a lo siguiente:
+
+I. El Ejecutivo Federal mediante resoluciones de carácter general, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá dictar medidas relacionadas con la administración, el control, la forma de pago y los procedimientos señalados en las disposiciones fiscales, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes personas físicas con actividades empresariales y profesionales y personas morales, cuyos ingresos no hubiesen excedido de $4'000,000.00 en el ejercicio fiscal de 2007.
+
+II. Para los efectos del artículo 17-A, sexto párrafo del Código Fiscal de la Federación, se considerará que las cantidades establecidas en el artículo 90 del mismo Código se actualizaron por última vez en el mes de julio de 2007.
+
+III. El Servicio de Administración Tributaria, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá expedir reglas de carácter general relacionadas con las entidades autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, en las que se establezcan reglas de información que deberán de cumplir dichas entidades.
+
+...
+
+SE TRANSCRIBE EL ARTICULO OCTAVO DEL DECRETO POR EL SE REFORMAN DIVERSAS DISPOSICIONES, QUE SE RELACIONA CON EL CODIGO.
+
+SUBSIDIO PARA EL EMPLEO
+
+###### ARTÍCULO OCTAVO.
+
+Se otorga el subsidio para el empleo en los términos siguientes:
+
+I. Los contribuyentes que perciban ingresos a que se refieren el primer párrafo o la fracción I del artículo 110 de la Ley del Impuesto sobre la Renta, excepto los percibidos por concepto de primas de antigüedad, retiro e indemnizaciones u otros pagos por separación, gozarán del subsidio para el empleo que se aplicará contra el impuesto que resulte a su cargo en los términos del artículo 113 de la misma Ley. El subsidio para el empleo se calculará aplicando a los ingresos que sirvan de base para calcular el impuesto sobre la renta que correspondan al mes de calendario de que se trate, la siguiente:
+
+TABLA
+
+Monto de ingresos que sirven de
+
+base para calcular el impuesto
+
+Para ingresos de Hasta ingresos de Cantidad de subsidio
+
+$ $ para el empleo mensual
+
+$
+
+0.01 1,768.96 407.02
+
+1,768.97 2,653.38 406.83
+
+2,653.39 3,472.84 406.62
+
+3,472.85 3,537.87 392.77
+
+3,537.88 4,446.15 382.46
+
+4,446.16 4,717.18 354.23
+
+4,717.19 5,335.42 324.87
+
+5,335.43 6,224.67 294.63
+
+6,224.68 7,113.90 253.54
+
+7,113.91 7,382.33 217.61
+
+7,382.34 En adelante 0.00
+
+En los casos en que el impuesto a cargo del contribuyente que se obtenga de la aplicación de la tarifa del artículo 113 de la Ley del Impuesto sobre la Renta sea menor que el subsidio para el empleo mensual obtenido de conformidad con la tabla anterior, el retenedor deberá entregar al contribuyente la diferencia que se obtenga. El retenedor podrá acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros las cantidades que entregue a los contribuyentes en los términos de este párrafo. Los ingresos que perciban los contribuyentes derivados del subsidio para el empleo no serán acumulables ni formarán parte del cálculo de la base gravable de cualquier otra contribución por no tratarse de una remuneración al trabajo personal subordinado.
+
+En los casos en los que los empleadores realicen pagos por salarios, que comprendan periodos menores a un mes, para calcular el subsidio para el empleo correspondiente a cada pago, dividirán las cantidades correspondientes a cada una de las columnas de la tabla contenida en esta fracción, entre 30.4. El resultado así obtenido se multiplicará por el número de días al que corresponda el periodo de pago para determinar el monto del subsidio para el empleo que le corresponde al trabajador por dichos pagos.
+
+Cuando los pagos por salarios sean por periodos menores a un mes, la cantidad del subsidio para el empleo que corresponda al trabajador por todos los pagos que se hagan en el mes, no podrá exceder de la que corresponda conforme a la tabla prevista en esta fracción para el monto total percibido en el mes de que se trate.
+
+Cuando los empleadores realicen, en una sola exhibición, pagos por salarios que comprendan dos o más meses, para calcular el subsidio para el empleo correspondiente a dicho pago multiplicarán las cantidades correspondientes a cada una de las columnas de la tabla contenida en esta fracción por el número de meses a que corresponda dicho pago.
+
+Cuando los contribuyentes presten servicios a dos o más empleadores deberán elegir, antes de que alguno les efectúe el primer pago que les corresponda por la prestación de servicios personales subordinados en el año de calendario de que se trate, al empleador que les efectuará las entregas del subsidio para el empleo, en cuyo caso, deberán comunicar esta situación por escrito a los demás empleadores, a fin de que ellos ya no les den el subsidio para el empleo correspondiente.
+
+II. Las personas obligadas a efectuar el cálculo anual del impuesto sobre la renta a que se refiere el artículo 116 de la Ley del Impuesto sobre la Renta, por los conceptos a que se refieren el primer párrafo o la fracción I del artículo 110 de la misma Ley, que hubieran aplicado el subsidio para el empleo en los términos de la fracción anterior, estarán a lo siguiente:
+
+a) El impuesto anual se determinará disminuyendo de la totalidad de los ingresos obtenidos en un año de calendario, por los conceptos a que se refieren el primer párrafo o la fracción I del artículo 110 de la Ley del Impuesto sobre la Renta, el impuesto local a los ingresos por salarios y en general por la prestación de un servicio personal subordinado que hubieran retenido en el año de calendario, al resultado obtenido se le aplicará la tarifa del artículo 177 de la misma Ley. El impuesto a cargo del contribuyente se disminuirá con la suma de las cantidades que por concepto de subsidio para el empleo mensual le correspondió al contribuyente.
+
+b) En el caso de que el impuesto determinado conforme al artículo 177 de la Ley del Impuesto sobre la Renta exceda de la suma de las cantidades que por concepto de subsidio para el empleo mensual le correspondió al contribuyente, el retenedor considerará como impuesto a cargo del contribuyente el excedente que resulte. Contra el impuesto que resulte a cargo será acreditable el importe de los pagos provisionales efectuados.
+
+c) En el caso de que el impuesto determinado conforme al artículo 177 de la Ley del Impuesto sobre la Renta sea menor a la suma de las cantidades que por concepto de subsidio para el empleo mensual le correspondió al contribuyente, no habrá impuesto a cargo del contribuyente ni se entregará cantidad alguna a este último por concepto de subsidio para el empleo.
+
+Los contribuyentes a que se refieren el primer párrafo o la fracción I del artículo 110 de la Ley del Impuesto sobre la Renta, que se encuentren obligados a presentar declaración anual en los términos de la citada Ley, acreditarán contra el impuesto del ejercicio determinado conforme al artículo 177 de la misma Ley el monto que por concepto de subsidio para el empleo se determinó conforme a la fracción anterior durante el ejercicio fiscal correspondiente, previsto en la constancia que para tales efectos les sea proporcionada por el patrón, sin exceder del monto del impuesto del ejercicio determinado conforme al citado artículo 177.
+
+En el caso de que el contribuyente haya tenido durante el ejercicio dos o más patrones y cualquiera de ellos le haya entregado diferencias de subsidio para el empleo en los términos del segundo párrafo de la fracción anterior, esta cantidad se deberá disminuir del importe de las retenciones efectuadas acreditables en dicho ejercicio, hasta por el importe de las mismas.
+
+III. Quienes realicen los pagos a los contribuyentes que tengan derecho al subsidio para el empleo sólo podrán acreditar contra el impuesto sobre la renta a su cargo o del retenido a terceros, las cantidades que entreguen a los contribuyentes por dicho concepto, cuando cumplan con los siguientes requisitos:
+
+a) Lleven los registros de los pagos por los ingresos percibidos por los contribuyentes a que se refieren el primer párrafo o la fracción I del artículo 110 de la Ley del Impuesto sobre la Renta, identificando en ellos, en forma individualizada, a cada uno de los contribuyentes a los que se les realicen dichos pagos.
+
+b) Conserven los comprobantes en los que se demuestre el monto de los ingresos pagados a los contribuyentes, el impuesto sobre la renta que, en su caso, se haya retenido y las diferencias que resulten a favor del contribuyente con motivo del subsidio para el empleo.
+
+c) Cumplan con las obligaciones previstas en las fracciones I, II y VI del artículo 118 de la Ley del Impuesto sobre la Renta.
+
+d) Conserven los escritos que les presenten los contribuyentes en los términos del sexto párrafo de la fracción I de este precepto, en su caso.
+
+e) Presenten ante las oficinas autorizadas, a más tardar el 15 de febrero de cada año, declaración proporcionando información de las cantidades que paguen por el subsidio para el empleo en el ejercicio inmediato anterior, identificando por cada trabajador la totalidad de los ingresos obtenidos durante el ejercicio de que se trate, que sirvió de base para determinar el subsidio para el empleo, así como el monto de este último conforme a las reglas generales que al efecto expida el Servicio de Administración Tributaria.
+
+f) Paguen las aportaciones de seguridad social a su cargo por los trabajadores que gocen del subsidio para el empleo y las mencionadas en el artículo 109, fracción VII, de la Ley del Impuesto sobre la Renta, que correspondan por los ingresos de que se trate.
+
+g) Anoten en los comprobantes de pago que entreguen a sus trabajadores, por los ingresos por prestaciones por servicios personales subordinados, el monto del subsidio para el empleo identificándolo de manera expresa y por separado.
+
+h) Proporcionen a las personas que les hubieran prestado servicios personales subordinados constancias del monto de subsidio para el empleo que se determinó durante el ejercicio fiscal correspondiente.
+
+i) Entreguen, en su caso, en efectivo el subsidio para el empleo, en los casos a que se refiere el segundo párrafo de la fracción I de este precepto.
+
+## TRANSITORIO
+
+Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
