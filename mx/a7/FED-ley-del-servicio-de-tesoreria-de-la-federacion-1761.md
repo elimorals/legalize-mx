@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-tesoreria-de-la-federacion-1761"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2000-12-31"
+last_updated: "2007-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-12-19"
 
 LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 1985.
 
@@ -361,7 +361,7 @@ Los pagos y ministración de fondos a que se refiere el artículo anterior podr�
 
 ###### ARTICULO 41.
 
-El pago por remuneraciones al personal de la administración pública federal centralizada, se llevará a cabo por conducto de las dependencias que la integran respecto de los trabajadores de su adscripción, con observancia de lo dispuesto en el Reglamento de esta Ley y disposiciones administrativas aplicables.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2007)
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -1292,3 +1292,9 @@ D.O.F. 31 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
