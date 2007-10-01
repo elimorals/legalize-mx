@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2006-06-02"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -165,6 +165,42 @@ Los acuerdos por los cuales se deleguen facultades o se adscriban unidades admin
 ###### ARTICULO 17.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado y los Departamentos Administrativos podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 17 BIS.- Las dependencias y entidades de la Administración Pública Federal, conforme a lo previsto en los reglamentos interiores o sus ordenamientos legales de creación, respectivamente, podrán contar con delegaciones en las entidades federativas o, en su caso, en regiones geográficas que abarquen más de una entidad federativa, siempre y cuando sea indispensable para prestar servicios o realizar trámites en cumplimiento de los programas a su cargo y cuenten con recursos aprobados para dichos fines en sus respectivos presupuestos y observen lo siguiente:
+
+I. Los titulares de las delegaciones serán designados por el Titular de la respectiva dependencia o entidad y tendrán las atribuciones que señalen sus reglamentos interiores o los ordenamientos legales de creación de las entidades paraestatales. Asimismo, deberán reunir por lo menos los siguientes requisitos:
+
+a) Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Contar con estudios académicos en materias afines a las atribuciones que correspondan a la delegación respectiva;
+
+c) Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
+
+d) No haber sido sentenciado por delitos patrimoniales o estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+II. Los servidores públicos adscritos a las delegaciones se sujetarán a lo dispuesto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación y a las demás disposiciones previstas en dicha Ley, y
+
+III. Las dependencias o entidades responsables de la ejecución de programas sujetos a reglas de operación que requieran de la participación de una o más delegaciones ubicadas en una o varias entidades federativas para entregar un beneficio social directamente a la población, deberán sujetarse a lo siguiente:
+
+a) Ejecutar el programa con estricto apego a las reglas de operación;
+
+b) Dar a conocer, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la información siguiente:
+
+i) Las variaciones en su padrón activo, así como los resultados de su evaluación;
+
+ii) La relación de localidades en las que opera el programa;
+
+iii) El número de beneficiarios en cada una de ellas por entidad federativa, municipio y localidad;
+
+iv) El calendario de entrega de apoyos por entidad federativa, municipio y localidad, posterior a la entrega de los mismos;
+
+v) El ajuste semestral de los apoyos monetarios, de ser el caso;
+
+c) Incluir en toda la documentación y en la difusión del programa, la leyenda siguiente: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa", y
+
+d) Realizar acciones de orientación y difusión con los beneficiarios para garantizar la transparencia y evitar cualquier manipulación política del programa.
 
 ###### ARTICULO 18.
 
@@ -612,17 +648,23 @@ XIII.- Representar el interés de la Federación en controversias fiscales;
 
 XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo nacional;
 
-XV.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal, a la consideración del Presidente de la República;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-XVI.- Evaluar y autorizar los programas de inversión pública de las dependencias y entidades de la administración pública federal;
+XV.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos a la consideración del Presidente de la República;
 
-XVII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y evaluación del ejercicio del gasto público federal y de los presupuestos de egresos;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XVI.- Normar, autorizar y evaluar los programas de inversión pública de la administración pública federal;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XVII.- Llevar a cabo las tramitaciones y registros que requiera el control y la evaluación del ejercicio del gasto público federal y de los programas y presupuestos de egresos, así como presidir las instancias de coordinación que establezca el Ejecutivo Federal para dar seguimiento al gasto público y sus resultados;
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-XIX. Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica, así como establecer las normas y procedimientos para su organización, funcionamiento y coordinación;
+XIX.- Coordinar, conjuntamente con la Secretaría de la Función Pública, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
@@ -1262,9 +1304,9 @@ XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
 A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-I.- Organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal, y su congruencia con los presupuestos de egresos;
+I.- Organizar y coordinar el sistema de control y evaluación gubernamental; inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos; coordinar, conjuntamente con la Secretaría de Hacienda y Crédito Público, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales, así como concertar con las dependencias y entidades de la administración pública federal y validar los indicadores de gestión, en los términos de las disposiciones aplicables;
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -2153,3 +2195,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 2 DE JUNIO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
