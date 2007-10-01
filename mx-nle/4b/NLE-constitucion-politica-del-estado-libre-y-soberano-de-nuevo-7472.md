@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2007-09-28"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2007.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -456,6 +456,10 @@ Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
 X.- Fijar anualmente, a propuesta del Ejecutivo Estatal o de los Ayuntamientos, las contribuciones y demás ingresos que deberán formar la Hacienda Pública Estatal o Municipal respectivamente, procurando que sean suficientes para cubrir sus necesidades.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2007)</small>
+
+Si terminado un año, por cualquier circunstancia no se hubiere aprobado lo señalado en el párrafo anterior, mientras no haya aprobación expresa en diverso sentido seguirán vigentes las mismas del ejercicio que termina.
 
 XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
 
@@ -1817,11 +1821,11 @@ Para que las adiciones o reformas propuestas sean aprobadas, y se tengan como pa
 
 Para las adiciones o reformas a que se refieren los artículos anteriores se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del art. 86.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Art. 152.
 
-Las leyes a que se refieren los artículos 45, 63 fracciones XIII y XIX, 94, 95 y 118 son constitucionales y en su reforma se guardarán las mismas reglas que en las que cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
+Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2004)</small>
 
@@ -1933,7 +1937,7 @@ Lo dispuesto en el art. 123 entrará en vigor desde las elecciones Municipales d
 
 Dada en el Salón de Sesiones del Congreso Constituyente de Nuevo León, en Monterrey, a dieciséis de diciembre de mil novecientos diecisiete.
 
-Presidente, Agustín Garza González, Diputado Propietario por el primer Distrito Electoral.- Vice-Presidente, Salomón Pérez, Diputado Propietario por el octavo Distrito Electoral.- Galdino P. Quintanilla, Diputado Propietario por el Primer Distrito Electoral.- Gregorio Morales Sánchez, Diputado Propietario por el tercer Distrito Electoral.- Antonio Garza Zambrano, Diputado Propietario por el cuarto Distrito Electoral.- Abel A. Lozano, Diputado Propietario por el sexto Distrito Electoral.- Enrique M. Martínez, Diputado Propietario por el séptimo Distrito Electoral.- Everardo de la Garza, Diputado Propietario por el noveno Distrito Electoral.- Alberto Chapa, Diputado Propietario por el décimo Distrito Electoral.- José Ma. Charles, Diputado Propietario por el undécimo Distrito Electoral.- Miguel Rincón Ríos, Diputado Propietario por el décimo tercero Distrito Electoral.- Primer Secretario, José Treviño, Diputado Propietario por el segundo Distrito Electoral.- Segundo Secretario, Santiago Roel, Diputado Propietario por el primer Distrito Electoral.
+Presidente, Agustín Garza González, Diputado Propietario por el primer Distrito Electoral.-Vice-Presidente, Salomón Pérez, Diputado Propietario por el octavo Distrito Electoral.-Galdino P. Quintanilla, Diputado Propietario por el Primer Distrito Electoral.-Gregorio Morales Sánchez, Diputado Propietario por el tercer Distrito Electoral.- Antonio Garza Zambrano, Diputado Propietario por el cuarto Distrito Electoral.- Abel A. Lozano, Diputado Propietario por el sexto Distrito Electoral.- Enrique M. Martínez, Diputado Propietario por el séptimo Distrito Electoral.- Everardo de la Garza, Diputado Propietario por el noveno Distrito Electoral.- Alberto Chapa, Diputado Propietario por el décimo Distrito Electoral.- José Ma. Charles, Diputado Propietario por el undécimo Distrito Electoral.- Miguel Rincón Ríos, Diputado Propietario por el décimo tercero Distrito Electoral.- Primer Secretario, José Treviño, Diputado Propietario por el segundo Distrito Electoral.- Segundo Secretario, Santiago Roel, Diputado Propietario por el primer Distrito Electoral.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -3088,3 +3092,15 @@ P.O. 28 DE SEPTIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los sujetos obligados, en los términos de la legislación aplicable, deberán implementar los medios tecnológicos y electrónicos necesarios para que las personas puedan ejercer el derecho de acceso a la información pública, así como de los procedimientos de revisión a los que se refiere este Decreto, en un plazo no mayor al que establece el Decreto Federal por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 20 de julio del 2007. Lo anterior con excepción de los municipios con población menor a los setenta mil habitantes.
+
+P.O. 1 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 146, QUE ADICIONA LA FRACCION X DEL ARTICULO 63.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 152.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
