@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2006-12-27"
+last_updated: "2007-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -656,6 +656,10 @@ Los ingresos que genere cada proyecto de infraestructura productiva de largo pla
 
 En coordinación con la Secretaría, las entidades que lleven a cabo proyectos de infraestructura productiva de largo plazo deberán establecer mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos proyectos.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+En el proyecto de Presupuesto de Egresos se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión en infraestructura en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos hasta por el monto que, como porcentaje del gasto total en inversión del Presupuesto de Egresos, proponga el Ejecutivo Federal tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores; en dicho apartado podrán incluirse los proyectos de infraestructura a que se refiere el párrafo segundo de este artículo. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el Presupuesto de Egresos.
+
 ###### Artículo 33.
 
 En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
@@ -670,11 +674,35 @@ Una vez aprobada la asignación global de servicios personales en el Presupuesto
 
 Para la programación de los recursos destinados a programas y proyectos de inversión, las dependencias y entidades deberán observar el siguiente procedimiento, sujetándose a lo establecido en el Reglamento:
 
-I. Elaborar anualmente el documento de planeación que identifique los programas y proyectos de inversión que se encuentren en proceso de realización, así como aquéllos que se consideren susceptibles de realizarse en años futuros;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales, y
+I. Contar con un mecanismo de planeación de las inversiones, en el cual:
 
-III. Registrar cada programa y proyecto de inversión en la cartera que integra la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables.
+a) Se identifiquen los programas y proyectos de inversión en proceso de realización, así como aquéllos que se consideren susceptibles de realizar en años futuros;
+
+b) Se establezcan las necesidades de inversión a corto, mediano y largo plazo, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos.
+
+Los mecanismos de planeación a que hace referencia esta fracción serán normados y evaluados por la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+II. Presentar a la Secretaría la evaluación costo y beneficio de los programas y proyectos de inversión que tengan a su cargo, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. La Secretaría, en los términos que establezca el Reglamento, podrá solicitar a las dependencias y entidades que dicha evaluación esté dictaminada por un experto independiente. La evaluación no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria e inmediata de desastres naturales;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+III. Registrar cada programa y proyecto de inversión en la cartera que integra la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. La Secretaría podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por la Comisión Intersecretarial de Gasto Financiamiento, la cual determinará la prelación para su inclusión en el proyecto de Presupuesto de Egresos, así como el orden de su ejecución, para establecer un orden de los programas y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+
+a) Rentabilidad socioeconómica;
+
+b) Reducción de la pobreza extrema;
+
+c) Desarrollo Regional, y
+
+d) Concurrencia con otros programas y proyectos de inversión.
 
 ###### Artículo 35.
 
@@ -814,7 +842,9 @@ m) La información que permita distinguir el gasto regular de operación; el gas
 
 n) El destino que corresponda a los ingresos provenientes del aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal, el cual corresponderá a las entidades federativas para gasto en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente, y
 
-ñ) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, y
 
 III. Los anexos informativos, los cuales contendrán:
 
@@ -994,6 +1024,10 @@ El Ejecutivo Federal, por conducto de la Secretaría, podrá disponer que los fo
 
 La ministración de los recursos atenderá primordialmente el principio de oportunidad y respeto a los calendarios de gasto que se elaborarán con base en las prioridades y requerimientos de las dependencias y entidades, con el objeto de lograr una mayor eficacia en el uso de los recursos públicos.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Para efectos de lo anterior, la Tesorería de la Federación operará y administrará el sistema de la cuenta única de tesorería que será obligatorio para las dependencias y entidades. La Secretaría podrá emitir las normas y lineamientos para la implantación y funcionamiento de la cuenta única, así como también, tomando en cuenta las necesidades específicas de cada caso, establecer las excepciones procedentes. Lo anterior, sin perjuicio de las obligaciones que correspondan a los ejecutores de gasto o a sus unidades responsables y de administración.
+
 ###### Artículo 52.
 
 Los ejecutores de gasto realizarán los cargos al Presupuesto de Egresos, a través de cuentas por liquidar certificadas.
@@ -1096,6 +1130,14 @@ Los ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deber�
 
 Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables, a los programas prioritarios del ejecutor de gasto que los genere.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+El Ejecutivo Federal, por conducto de la Secretaría y la Función Pública, establecerá un programa de mediano plazo para promover la eficiencia y eficacia en la gestión pública de la Administración Pública Federal, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las dependencias y entidades y reduzcan gastos de operación. Dichas acciones deberán orientarse a lograr mejoras continuas de mediano plazo que permitan, como mínimo, medir con base anual su progreso.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales.
+
 ###### Artículo 62.
 
 Los ejecutores de gasto podrán realizar contrataciones de prestación de servicios de asesoría, consultoría, estudios e investigaciones, siempre y cuando:
@@ -1150,13 +1192,21 @@ VI. Las dependencias deberán cubrir los pagos en los términos autorizados por 
 
 VII. Las adecuaciones presupuestarias al gasto en servicios personales deberán realizarse conforme a lo dispuesto en los artículos 57 a 60 y 67 de esta Ley y a las disposiciones que establezca el Reglamento;
 
-VIII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+VIII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deberán constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
 
 IX. Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales;
 
 X. Sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el desempeño de comisiones oficiales, y
 
-XI. Las dependencias y entidades deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
+XI. Las dependencias y entidades deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+XII. Las condiciones de trabajo, los beneficios económicos y las demás prestaciones derivadas de los contratos colectivos de trabajo o que se fijen en las condiciones generales de trabajo de la Administración Pública Federal, no se harán extensivas a favor de los servidores públicos de mandos medios y superiores y personal de enlace.
+
+Los titulares de las entidades, independientemente del régimen laboral que las regule, serán responsables de realizar los actos necesarios y la negociación que sea procedente, durante los procesos de revisión de las condiciones generales de trabajo o de los contratos colectivos de trabajo, así como durante las revisiones de salario anuales, para que los servidores públicos de mando y personal de enlace al servicio de las entidades queden expresamente excluidos del beneficio de las prestaciones aplicables al personal de base, en los términos del artículo 184 de la Ley Federal del Trabajo, en aplicación directa o supletoria según se trate, con excepción de las de seguridad social y protección al salario.
 
 ###### Artículo 66.
 
@@ -1304,11 +1354,15 @@ Las dependencias, o las entidades a través de sus respectivas dependencias coor
 
 Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 78.
 
-Las dependencias, o las entidades a través de su respectiva dependencia coordinadora de sector, deberán realizar una evaluación de resultados de los programas sujetos a reglas de operación, por conducto de instituciones académicas y de investigación u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
+Las dependencias, o las entidades a través de su respectiva dependencia coordinadora de sector, deberán realizar una evaluación de resultados de los programas sujetos a reglas de operación, por conducto de expertos, instituciones académicas y de investigación u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
 
-En el caso de los programas que se encuentren en el primer año de operación podrá realizarse una evaluación parcial, siempre y cuando sea factible reportar resultados.
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+Las evaluaciones se realizarán conforme al programa anual que al efecto se establezca.
 
 Las dependencias y entidades deberán reportar el resultado de las evaluaciones en los informes trimestrales que correspondan.
 
@@ -1398,11 +1452,25 @@ En el caso de las entidades de control presupuestario indirecto, éstas también
 
 El Ejecutivo Federal deberá señalar en el proyecto de Presupuesto de Egresos la distribución de los programas sociales, estimando el monto de recursos federales por entidad federativa.
 
-### CAPÍTULO III. Del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+### CAPÍTULO III. De la Transparencia e Información sobre el ejercicio del gasto federalizado
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 85.
 
-(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+Los recursos federales aprobados en el Presupuesto de Egresos para ser transferidos a las entidades federativas y, por conducto de éstas, a los municipios y las demarcaciones territoriales del Distrito Federal se sujetarán a lo siguiente:
+
+I. Los recursos federales que ejerzan las entidades federativas, los municipios, los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, así como sus respectivas administraciones públicas paraestatales o cualquier ente público de carácter local, serán evaluados conforme a las bases establecidas en el artículo 110 de esta Ley, con base en indicadores estratégicos y de gestión, por instancias técnicas independientes de las instituciones que ejerzan dichos recursos, observando los requisitos de información correspondientes, y
+
+II. Las entidades federativas enviarán al Ejecutivo Federal, de conformidad con los lineamientos y mediante el sistema de información establecido para tal fin por la Secretaría, informes sobre el ejercicio, destino y los resultados obtenidos, respecto de los recursos federales que les sean transferidos.
+
+Para los efectos de esta fracción, las entidades federativas y, por conducto de éstas, los municipios y las demarcaciones territoriales del Distrito Federal, remitirán al Ejecutivo Federal la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+
+La Secretaría incluirá los reportes señalados en esta fracción, por entidad federativa, en los informes trimestrales; asimismo, pondrá dicha información a disposición para consulta en su página electrónica de Internet, la cual deberá actualizar a más tardar en la fecha en que el Ejecutivo Federal entregue los citados informes.
+
+Las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, publicarán los informes a que se refiere esta fracción en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
 ## TÍTULO QUINTO. De la Contabilidad Gubernamental
 
@@ -1566,6 +1634,10 @@ iii) Un análisis que permita conocer el monto, a valor presente, de la posició
 
 e) Los montos correspondientes a los requerimientos financieros del sector público, incluyendo su saldo histórico.
 
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
+f) La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos.
+
 II. Informes mensuales sobre los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda interna y externa. La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público del Congreso de la Unión, 30 días después del mes de que se trate.
 
 La Secretaría informará a la Cámara de Diputados, por conducto de la Comisión de Hacienda y Crédito Público, 30 días después de concluido el mes de que se trate, sobre la recaudación federal participable que sirvió de base para el cálculo del pago de las participaciones a las entidades federativas. La recaudación federal participable se calculará de acuerdo con lo previsto en la Ley de Coordinación Fiscal. La recaudación federal participable se comparará con la correspondiente al mismo mes del año previo y con el programa, y se incluirá una explicación detallada de su evolución.
@@ -1590,11 +1662,47 @@ La Secretaría emitirá las reglas de carácter general para el manejo de inform
 
 ### CAPÍTULO II. De la Evaluación
 
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 110.
 
-La Secretaría realizará bimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por la Función Pública y las Comisiones Ordinarias de la Cámara de Diputados.
+La Secretaría realizará trimestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias de la Cámara de Diputados.
 
-Para efectos del párrafo anterior, el Ejecutivo Federal enviará bimestralmente a la Cámara de Diputados la información necesaria, con desglose mensual.
+Para efectos del párrafo anterior, el Ejecutivo Federal enviará trimestralmente a la Cámara de Diputados la información necesaria, con desglose mensual.
+
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social coordinará las evaluaciones en materia de desarrollo social en términos de lo dispuesto en la Ley General de Desarrollo Social y lo dispuesto en esta Ley.
+
+La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño se sujetarán a lo siguiente:
+
+I. Efectuarán las evaluaciones por sí mismas o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
+
+II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
+
+a) Los datos generales del evaluador externo, destacando al coordinador de la evaluación y a su principal equipo colaborador;
+
+b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la dependencia o entidad;
+
+c) La forma de contratación del evaluador externo, de acuerdo con las disposiciones aplicables;
+
+d) El tipo de evaluación contratada, así como sus principales objetivos;
+
+e) La base de datos generada con la información de gabinete y/o de campo para el análisis de la evaluación;
+
+f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros;
+
+g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada;
+
+h) Un resumen ejecutivo en el que se describan los principales hallazgos y recomendaciones del evaluador externo;
+
+i) El costo total de la evaluación externa, especificando la fuente de financiamiento;
+
+III. Las evaluaciones podrán efectuarse respecto de las políticas públicas, los programas correspondientes y el desempeño de las instituciones encargadas de llevarlos a cabo. Para tal efecto, se establecerán los métodos de evaluación que sean necesarios, los cuales podrán utilizarse de acuerdo a las características de las evaluaciones respectivas;
+
+IV. Establecerán programas anuales de evaluaciones;
+
+V. Las evaluaciones, en la medida de lo posible, deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, en los casos que sea posible, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres, y
+
+VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
 ###### Artículo 111.
 
@@ -1693,3 +1801,67 @@ Primero. El presente Decreto entrará en vigor el primero de enero de 2007.
 Segundo. Durante el ejercicio fiscal 2007, en tanto se expide el Programa Nacional de Seguridad Pública, lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
 Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos para el Fortalecimiento de las Entidades Federativas en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2006.
+
+D.O.F. 1 DE OCTUBRE DE 2007.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+
+###### ARTÍCULO SEGUNDO.
+
+En relación con las modificaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria a que se refiere el artículo primero de este Decreto, se estará a lo siguiente:
+
+I. El Ejecutivo Federal establecerá, en los términos del párrafo primero del artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, un programa de mediano plazo para reducir el gasto destinado a actividades administrativas y de apoyo, a efecto de que antes de concluir su administración, se alcance una meta de ahorro hasta de 20% del equivalente al gasto de operación y administrativo de las dependencias del Gobierno Federal, para lo cual establecerá una meta de ahorro anual del 5% como mínimo.
+
+II. Las entidades paraestatales deberán establecer programas de austeridad e informar sus metas de ahorro. En las entidades de control directo a que se refiere la siguiente fracción y en las entidades en las que sea factible, las metas se basarán en estándares internacionales sobre gastos de operación, incluyendo el gasto en recursos humanos.
+
+III. Petróleos Mexicanos, Comisión Federal de Electricidad y Luz y Fuerza del Centro deberán realizar las siguientes acciones:
+
+a) Reducir el gasto en servicios personales;
+
+b) Lograr ahorros en materia de gasto administrativo y de apoyo;
+
+c) Cancelar plazas administrativas vacantes, salvo en los casos en que por su especialización se justifique su permanencia;
+
+d) Cancelar plazas de confianza que no tengan tareas asignadas, y
+
+e) Establecer indicadores, para evitar retrasos y sobrecostos, respecto a la ejecución de obras.
+
+Para los efectos de los incisos anteriores, las entidades a que se refiere esta fracción deberán suscribir, a más tardar el último día hábil de marzo de 2008, los convenios de desempeño a que se refiere el artículo 45 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en los cuales deberán comprometer las metas a alcanzar en cada una de las acciones señaladas en el párrafo anterior.
+
+El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado suscribirán convenios de desempeño, fijando metas de ahorro acordes a sus características.
+
+La Comisión Intersecretarial de Gasto Financiamiento dará seguimiento periódico al cumplimiento de los compromisos de resultados y, en su caso, emitirá las recomendaciones que estime pertinentes para el mejor cumplimiento de los mismos.
+
+IV. La Secretaría de Hacienda y Crédito Público, en coordinación con la Secretaría de la Función Pública, presentará a la Cámara de Diputados, a más tardar el último día hábil de mayo de 2008, un diagnóstico sobre las delegaciones en las entidades federativas de las dependencias y entidades de la Administración Pública Federal, tales como de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Desarrollo Social; de Economía; así como de la Comisión Nacional del Agua, entre otras delegaciones, en el cual identificará:
+
+a) El valor agregado de las mismas;
+
+b) Las duplicidades y áreas de oportunidad para optimizar el gasto;
+
+c) Las medidas que pueden llevarse a cabo en términos del programa de mediano plazo en materia de ahorro y eficiencia a que se refiere el artículo 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+
+d) Las actividades que realizan las delegaciones que pudieran influenciar los procesos electorales locales.
+
+V. Las medidas a que se refiere el inciso c) de la fracción anterior, deberán prever, por lo menos:
+
+a) La reducción del gasto en servicios generales, materiales y suministros, así como para la adquisición de bienes, y
+
+b) Otras medidas de racionalización del gasto.
+
+VI. Los ahorros a que se refiere este precepto deberán destinarse a gasto de inversión en infraestructura y a programas de desarrollo social.
+
+VII. El Ejecutivo Federal deberá informar al Congreso de la Unión respecto a lo previsto en las fracciones anteriores del presente artículo, a través de los informes trimestrales a que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+VIII. La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados dará seguimiento sobre el cumplimiento de lo dispuesto en las fracciones anteriores del presente artículo.
+
+IX. La implantación del sistema de la cuenta única de tesorería a que se refiere el artículo 51 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberá iniciar en el ejercicio fiscal 2008; su integración, operación y funcionamiento se instrumentará de forma gradual con base en las normas y lineamientos que la Secretaría emita en términos de dicho artículo.
+
+X. Las modificaciones a los artículos 32, último párrafo; 41, fracción II, inciso ñ) y 107, fracción I, inciso f) entrarán en vigor al día siguiente al de la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de gasto público.
+
+...
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
