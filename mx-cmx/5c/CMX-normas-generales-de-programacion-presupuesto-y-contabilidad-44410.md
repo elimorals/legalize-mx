@@ -4,7 +4,7 @@ identifier: "CMX-normas-generales-de-programacion-presupuesto-y-contabilidad-444
 country: "mx"
 rank: "norma"
 publication_date: "2005-04-11"
-last_updated: "2007-01-26"
+last_updated: "2007-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44410&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-04-02"
 
 NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 2007.
 
 Normas publicadas en la Gaceta Oficial del Distrito Federal, el lunes 11 de abril de 2005.
 
@@ -362,13 +362,11 @@ VI. Para el caso de los prestadores de servicios contratados por honorarios, se 
 
 #### Sección Tercera. De las Transferencias de Recursos Presupuestarios
 
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 40.
 
-La Secretaría Administrativa, durante el ejercicio del presupuesto del año correspondiente, podrá efectuar las transferencias de recursos presupuestarios entre partidas presupuestales, para cumplir con los programas y proyectos del Tribunal, sin exceder del presupuesto, previo dictamen de la Comisión de Administración, quien las presentará a la consideración y, en su caso, aprobación del Pleno.
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2007)</small>
-
-El Pleno podrá, en caso de urgencia justificada, autorizar a la Secretaría Administrativa realizar transferencias presupuestales entre partidas, sin necesidad del dictamen previo de la Comisión de Administración a que se refiere el párrafo anterior; para ello, será necesario que el titular de la Secretaria presente la solicitud correspondiente, en la que deberá exponer los argumentos que sustenten la necesidad de tal medida, debiendo señalar copia de conocimiento a la Comisión.
+La Secretaría Administrativa, durante el ejercicio del presupuesto del año correspondiente, podrá efectuar las transferencias de recursos presupuestales entre capítulos, para cumplir con los programas y proyectos del Tribunal, sin exceder del presupuesto, previo dictamen de la Comisión de Administración, quien lo someterá a consideración del Pleno.
 
 ###### Artículo 41.
 
@@ -667,3 +665,11 @@ G.O. 26 DE ENERO DE 2007.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Para su mejor conocimiento, se ordena al Titular de la Secretaría General que notifique los presentes Lineamientos a los servidores públicos del Tribunal, mediante oficio dirigido a los Titulares de área, acompañándoles copia de los mismos.
+
+G.O. 2 DE OCTUBRE DE 2007.
+
+PRIMERO. Las modificaciones a las Normas Generadle de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal y a los Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Tribunal Electoral del Distrito Federal, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente dictamen.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en la página de Internet del Tribunal.
