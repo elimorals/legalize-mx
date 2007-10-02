@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-por-el-que-se-fijan-las-reglas-para-la-elaboracion-5706
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-23"
-last_updated: "2006-06-23"
+last_updated: "2007-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57068&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-03-30"
 
 ACUERDO POR EL QUE SE FIJAN LAS REGLAS PARA LA ELABORACION, APROBACION, REGISTRO, PUBLICACION Y DIFUSION DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES QUE EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE OCTUBRE DE 2007.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 23 de junio de 2006.
 
@@ -48,15 +48,23 @@ Dicha época concluirá y dará inicio a la siguiente, por acuerdo del Tribunal 
 
 SEXTO. En virtud de lo anterior y con fundamento en lo dispuesto por el artículo 227, fracción II, inciso v) del Código Electoral local, el Pleno del Tribunal Electoral del Distrito Federal por unanimidad de votos, de los señores Magistrados tiene a bien expedir el presente
 
-A C U E R D O
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO NUMERO 068/2007, POR EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ACUERDO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DEL 2 DE OCTUBRE DE 2007.</small>
 
-Se fijan las reglas para la elaboración, aprobación, registro, publicación y difusión de las Tesis de Jurisprudencia y Relevantes que emita el Pleno del Tribunal Electoral del Distrito Federal, de conformidad con lo siguiente:
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+ACUERDO POR EL QUE SE FIJAN LAS REGLAS PARA LA ELABORACIÓN, APROBACIÓN, REGISTRO, PUBLICACIÓN Y DIFUSIÓN DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES QUE EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO PRIMERO. DE LAS COMPETENCIAS
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 1°.
 
-Corresponde al Pleno del Tribunal Electoral del Distrito Federal, establecer tesis de jurisprudencia y relevantes, así como la unificación de criterios en el caso de contradicción de tesis en materia electoral, y los que se dicten al resolver los conflictos laborales entre el Instituto Electoral del Distrito Federal y sus servidores y entre este Tribunal y sus propios servidores.
+Corresponde al Pleno del Tribunal Electoral del Distrito Federal, establecer tesis de jurisprudencia y relevantes en materia electoral, así como aquéllas que se dicten al resolver los conflictos o diferencias laborales entre el Instituto Electoral del Distrito Federal y sus servidores y entre este Tribunal y sus propios servidores, y los juicios de inconformidad administrativa que son de su competencia.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 2°.
 
@@ -66,37 +74,49 @@ I. El derecho electoral en materia jurisdiccional;
 
 II. El derecho electoral en materia administrativa, cuando corresponda a las funciones o actuación de los órganos electorales;
 
-III. Las controversias de índole laboral que surjan entre el Instituto Electoral del Distrito Federal y sus servidores públicos, así como entre los servidores del Tribunal y éste;
+III. Las controversias de índole laboral o administrativa que surjan entre el Instituto Electoral del Distrito Federal y sus servidores públicos, así como entre los servidores del Tribunal y éste;
 
 IV. La protección de los derechos político-electorales de los ciudadanos;
 
-V. Las impugnaciones que se presenten en los procesos de referéndum y plebiscito; y
+V. Las impugnaciones que se presenten en los procesos de participación ciudadana; y
 
-VI. Las que surjan de conjugar ambas materias, es decir, aquellas que se conocen como materia común, y que son susceptibles de obtenerse en diversos medios de impugnación, sin importar la materia.
+VI. Las que surjan de conjugar dichas materias, es decir, aquellas que se conocen como materia común, y que son susceptibles de obtenerse en diversos medios de impugnación, sin importar la materia.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA DIVERSIDAD DE TESIS
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 3°.
 
 Para la identificación de las diferentes tesis, se tendrá en cuenta lo siguiente:
 
-I. Tesis relevante: es aquella tesis aislada expresada por escrito, en forma abstracta de un criterio jurídico sustentado por el Tribunal al aplicar, interpretar o integrar una norma al caso concreto, que se compone tanto de rubro como de texto;
+I. Tesis relevante: es aquella tesis aislada expresada por escrito, en forma abstracta de un criterio jurídico sustentado por el Tribunal al aplicar, interpretar o integrar una norma al caso concreto, que se compone tanto de rubro como de texto; y
 
-II. Tesis de jurisprudencia por reiteración: es la que se integra cuando el Pleno sostenga el mismo criterio de aplicación, interpretación o integración de una norma en tres sentencias, no interrumpidas por otra en contrario, según lo dispuesto por el artículo 311, párrafo primero, del Código Electoral del Distrito Federal; y
+II. Tesis de jurisprudencia por reiteración: es la que se integra cuando el Pleno sostenga el mismo criterio de aplicación, interpretación o integración de una norma en tres sentencias, no interrumpidas por otra en contrario, según lo dispuesto por el artículo 311, párrafo primero, del Código Electoral del Distrito Federal.
 
-III. Tesis de jurisprudencia por unificación: es aquella que se define con la tesis adoptada por el Pleno del Tribunal al resolver una contradicción de tesis, o de una tesis con relación a una jurisprudencia definida, o bien, la contradicción entre jurisprudencias firmes, de conformidad con lo dispuesto en el artículo 311, párrafo segundo del ordenamiento legal invocado.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO TERCERO. DE LAS ÉPOCAS
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 4°.
 
 Para efectos de sistematización, los criterios sustentados en el periodo comprendido en el año 1999 corresponden a la Primera Época; en tanto que los criterios correspondientes a las tesis aprobadas durante el proceso electoral de 2000 a septiembre de 2005, corresponden a la Segunda Época.
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 5°.
 
 Los criterios sostenidos a partir del periodo de octubre de 2005, previo acuerdo del Pleno, corresponderán a la Tercera Época, la cual deberá mantenerse vigente, hasta en tanto se realicen modificaciones sustanciales a la normatividad electoral que puedan variar la conformación jurisdiccional del Tribunal Electoral del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ### CAPÍTULO CUARTO. DEL RUBRO Y TEXTO
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 6º.
 
@@ -112,7 +132,7 @@ c) Claridad, en el sentido de que comprenda todos los elementos necesarios para 
 
 d) Facilidad de localización, por lo que deberá comenzar la enunciación con el elemento que refleje de manera clara y terminante la norma, concepto, figura o institución materia de la interpretación.
 
-II. Reglas que deberán observarse para su redacción:
+II. Para su redacción deberá observarse lo siguiente:
 
 a) Evitar al principio o al final del rubro, el uso de artículos, pronombres, preposiciones, adverbios, fechas o cualquier otro tipo de vocablo que no remita de manera inmediata y directa a la norma, concepto, figura o institución materia de las tesis;
 
@@ -122,9 +142,11 @@ c) Evitar que el rubro sea redundante, esto es, que los conceptos se repitan inn
 
 d) Evitar que por omisión de una palabra o frase se cree confusión o no se entienda el rubro.
 
-###### ARTÍCULO 7°
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
-. El texto deberá elaborarse de acuerdo a las siguientes reglas:
+###### ARTÍCULO 7°.
+
+El texto deberá elaborarse de acuerdo a las siguientes reglas:
 
 I. Derivar en su integridad de la resolución correspondiente y no contener aspectos que, aun cuando se hayan tenido en cuenta en la discusión del asunto, no formen parte de aquélla;
 
@@ -140,7 +162,11 @@ VI. No deberán contenerse criterios contradictorios; y
 
 VII. No contendrá datos particulares (nombres de personas, partidos políticos, cantidades y objetos) de carácter eventual y contingente, sino exclusivamente los de naturaleza general y abstracta. Si se considera necesario ejemplificar con aspectos particulares el caso concreto, deberá expresarse, en primer término, la fórmula genérica y, en segundo lugar, la ejemplificación.
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ### CAPÍTULO QUINTO. REGLAS PARA LA ELABORACIÓN DEL PRECEDENTE
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 8°.
 
@@ -148,57 +174,65 @@ Para la elaboración del precedente se observarán las reglas siguientes:
 
 I. Se formará con la mención del juicio correspondiente, señalándose en su orden y, en su caso, el número del expediente, el nombre del promovente, la fecha de la sentencia, la votación, el ponente y el secretario;
 
-II. Cuando se trate de contradicción de tesis, no deberá señalarse al denunciante, sino al Magistrado Ponente;
+II. Cuando en relación con un asunto se hayan emitido diversas votaciones, en la tesis sólo deberá indicarse la que corresponde al tema que se consigne; y
 
-III. Cuando en relación con un asunto se hayan emitido diversas votaciones, en la tesis sólo deberá indicarse la que corresponde al tema que se consigne; y
+III. Los datos de identificación de las ejecutorias se ordenarán cronológicamente con el objeto de llevar un registro apropiado que permita determinar la integración de la jurisprudencia; esta enunciación se hará al final del texto.
 
-IV. Los datos de identificación de las ejecutorias se ordenarán cronológicamente con el objeto de llevar un registro apropiado que permita determinar la integración de la jurisprudencia; esta enunciación se hará al final del texto.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO SEXTO. PROCEDIMIENTO PARA LA ELABORACIÓN DE TESIS DE JURISPRUDENCIA Y RELEVANTES
 
-###### ARTÍCULO 9º
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
-El Magistrado Ponente al momento de someter a consideración del Pleno, los proyectos de resolución deberá formular conjuntamente los proyectos de tesis que a su juicio deriven de aquella, conforme a las reglas siguientes:
+###### ARTÍCULO 9°.
 
-I. Los proyectos de tesis que se autoricen deberán presentarse a la Secretaría General;
+El Magistrado Ponente al momento de someter a consideración del Pleno los proyectos de resolución, deberá formular conjuntamente los proyectos de tesis relevantes o de jurisprudencia que a su juicio deriven de aquella, conforme a las reglas siguientes:
 
-II. Recibidos los proyectos de tesis relevantes o de jurisprudencia en la Secretaría General, serán enviados a los Magistrados integrantes del Pleno, a fin de que presenten las observaciones atinentes. Se listarán en el respectivo orden del día de la reunión correspondiente, en la que, si así procede, se aprobará su texto y rubro, mediante votación de mayoría simple de los citados colegiados; asimismo, a dichas tesis se les asignará una clave o número;
+I. Los proyectos de tesis que formule la Ponencia, deberán someterse a consideración de la Comisión de Jurisprudencia, para que ésta emita su opinión;
 
-III. Fallado el asunto o aprobado el engrose, se procederá de inmediato a formular los textos definitivos de las tesis, los cuales serán remitidos a la Secretaría General para su debida certificación;
+II. Una vez emitida la opinión de la Comisión de Jurisprudencia, la Ponencia deberá remitir los proyectos de tesis a la Secretaría General;
 
-IV. Hecha la certificación a que se refiere la fracción anterior, la Secretaría General remitirá copia certificada de la tesis de jurisprudencia al Instituto Electoral del Distrito Federal para su conocimiento inmediato, independientemente de la publicación que se haga en la Gaceta Oficial del Distrito Federal y en la página de Internet del propio Tribunal; y
+III. Recibidos los proyectos de tesis de jurisprudencia o relevantes en la Secretaría General, así como la opinión de la Comisión de Jurisprudencia, serán enviados a los Magistrados integrantes del Pleno, a fin de que presenten las observaciones atinentes. Se listarán en el respectivo orden del día de la reunión correspondiente, en la que, si así procede, se aprobará su texto y rubro, mediante votación de cuatro votos de los integrantes del Pleno; asimismo, a dichas tesis se les asignará una clave o número;
 
-V. Para el ejercicio de las atribuciones a que se refiere este artículo, la Secretaría General contará con las áreas de apoyo que al efecto determine el Reglamento Interior del Tribunal.
+IV. Una vez aprobados por el Pleno los proyectos de tesis, se procederá de inmediato a formular los textos definitivos de las tesis, los cuales serán remitidos a la Secretaría General para su debida certificación;
 
-###### ARTÍCULO 10°
+V. Hecha la certificación a que se refiere la fracción anterior, la Secretaría General remitirá copia certificada de las tesis aprobadas al Instituto Electoral del Distrito Federal para su conocimiento inmediato, independientemente de la publicación que se haga en la Gaceta Oficial del Distrito Federal y en la página de Internet del propio Tribunal; y
+
+VI. Para el ejercicio de las atribuciones a que se refiere este artículo, la Secretaría General contará con las áreas de apoyo que al efecto determine el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 10°.
 
 La Secretaría General, con la colaboración de la Subdirección de Jurisprudencia y Estadística, deberá realizar las tareas siguientes:
 
-I. Verificar que el texto y los datos de identificación de las ejecutorias correspondientes a las tesis relevantes y de jurisprudencia que le hayan sido remitidas se refieran a las sentencias citadas;
+I. Verificar que el texto y los datos de identificación de las ejecutorias correspondientes a las tesis de jurisprudencia y relevantes que le hayan sido remitidas se refieran a las sentencias citadas;
 
-II. Corroborar que la votación de los asuntos en los cuales se sustenta la jurisprudencia sea la idónea para integrarla. Igualmente, verificará que los datos de identificación de las ejecutorias correspondan a la Época de que se trate;
+II. Corroborar que las sentencias de las cuales se sustraigan los proyectos de tesis, hayan sido confirmadas o causado estado;
 
 III. Verificar que todas las tesis, ejecutorias y votos particulares hayan sido, en su caso, oportunamente publicados, en la edición especializada;
 
 IV. Informar al Presidente del Tribunal sobre las tesis que contengan cambios de criterio del Pleno;
 
-V. Informar, igualmente, de las contradicciones de criterios, debiendo anotar el rubro y texto de los criterios en cuestión, así como los datos de identificación de las ejecutorias respectivas;
+V. Llevar un registro de las tesis del Pleno, para lo cual organizará en diversas carpetas con las copias certificadas de los criterios aprobados, debiendo implementar un control sistematizado;
 
-VI. Llevar un registro de las tesis del Pleno, para lo cual organizará en diversas carpetas con las copias certificadas de los criterios aprobados, debiendo implementar un control sistematizado;
+VI. Elaborar un índice alfabético al inicio de las carpetas, en el que se registre el rubro de las tesis, la clave que les corresponde y los datos de su publicación; asimismo, llevará un índice numérico de las referidas tesis; y
 
-VII. Elaborar un índice alfabético al inicio de las carpetas, en el que se registre el rubro de las tesis, la clave que les corresponde y los datos de su publicación; asimismo, llevará un índice numérico de las referidas tesis;
+VII. Mantener actualizado el registro antes mencionado y a disposición de los Magistrados y Secretarios del Tribunal, independientemente de las copias que se les hagan llegar, en su oportunidad, de cada una de las tesis aprobadas para su conocimiento y aplicación. Dicho registro también estará a disposición del público en general para su consulta.
 
-VIII. Mantener actualizado el registro antes mencionado y a disposición de los Magistrados y Secretarios del Tribunal, independientemente de las copias que se les hagan llegar, en su oportunidad, de cada una de las tesis aprobadas para su conocimiento y aplicación. Dicho registro también estará a disposición del público en general para su consulta; y
-
-IX. Asentar en la carpeta respectiva, tratándose de jurisprudencia por unificación, la fecha de presentación de la denuncia, el denunciante, el órgano que la sustentó, la fecha de resolución por parte del Pleno, rubro definitivo, clave de control interna y clave de publicación.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO SÉPTIMO. CLAVES DE CONTROL
 
-###### ARTÍCULO 11
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
-La clave de control de tesis relevantes y de jurisprudencia es el conjunto de letras y números que sirven para identificarlas.
+###### ARTÍCULO 11.
 
-###### ARTÍCULO 12
+La clave de control de tesis de jurisprudencia y relevantes es el conjunto de letras y números que sirven para identificarlas.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 12.
 
 La clave de control se integrará de la siguiente manera:
 
@@ -206,15 +240,15 @@ I. La abreviatura TEDF, que significa Tribunal Electoral del Distrito Federal;
 
 II. Los dígitos arábigos que correspondan al número de la tesis relevante, de acuerdo con el orden secuencial respectivo (por ejemplo: 001 para la primera, 002 para la segunda y 010 para la décima);
 
-III. Un dígito arábigo, precedido por un punto, para identificar la época de la emisión a la que corresponda la tesis (por ejemplo:.3 Tercera época);
+III. Un dígito arábigo, precedido por un punto, para identificar la época de la emisión a la que corresponda la tesis (por ejemplo: .3 Tercera época);
 
-IV. Las abreviaturas que correspondan al tipo de materia, por ejemplo: EL (materia electoral), LA (materia laboral), y MC (materia común);
+IV. Las abreviaturas que correspondan al tipo de materia, por ejemplo: EL (materia electoral), LA (materia laboral), MA (materia administrativa) y MC (materia común);
 
 V. Para indicar que se trata del primer criterio en ese mismo sentido, se citará además el número 1 cuando se registre una tesis relevante con el asunto que le dio origen, y el número progresivo que corresponda al precedente que sustente el mismo criterio hasta el tercero, atendiendo además a los lineamientos de la jurisprudencia; y
 
 VI. De acuerdo con las reglas anteriores la clave de control de las tesis se integra, por ejemplo, de la manera siguiente:
 
-Clave de control: TEDF001.3EL1
+Clave de control: TEDF001. 3EL1
 
 TEDF = conjunto de letras
 
@@ -226,107 +260,57 @@ EL = materia (electoral)
 
 1 = al número de precedente
 
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 13.
 
 La clave de control de las tesis de jurisprudencia por reiteración deberá contener, entre paréntesis, la clave que le corresponda como precedente tercero de tesis relevante o, en su caso, de ejecutoria, el número que les haya asignado el Pleno como tesis de jurisprudencia precedido de la letra “J”, y de los dos últimos dígitos del año de su formación.
 
-En el caso de que no se hubiere formulado y publicado tesis relevante previamente a la jurisprudencia, la Secretaria General formulará la clave que le corresponda como precedente tercero de tesis relevante, además de la clave de jurisprudencia respectiva.
+En el caso de que no se hubiere formulado y publicado tesis relevante previamente a la jurisprudencia, la Secretaría General formulará la clave que le corresponda como precedente tercero de tesis relevante, además de la clave de jurisprudencia respectiva.
 
-Ejemplo: (TEDF001.3EL3) J. 01/99
+Ejemplo: (TEDF001. 3EL3) J. 01/99
 
-### CAPÍTULO OCTAVO. DE LA VIGENCIA, INTERRUPCIÓN Y CONTRADICCIÓN DE LA JURISPRUDENCIA
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+### CAPÍTULO OCTAVO. DE LA VIGENCIA, INTERRUPCIÓN Y MODIFICACIÓN DE LA JURISPRUDENCIA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
-La clave de control de las tesis de jurisprudencia por unificación, deberá contener las claves correspondientes a las tesis contradictorias, el número que haya asignado el Pleno como criterios jurisprudenciales, precedido de las letras “JU” y de los dos últimos dígitos del año de su formación.
+Las tesis de jurisprudencia dejarán de tener carácter obligatorio en los casos siguientes:
 
-Ejemplo: (TEDF008.3EL3) (TEDF001.3EL3) JU.01/05
+I. Cuando el Pleno la interrumpa por un criterio distinto. En este caso, deberán expresarse en la resolución respectiva, las razones en que se funde el cambio. El nuevo criterio podrá ser susceptible de convertirse en tesis relevante o en jurisprudencia, cuando se siga sosteniendo por lo menos dos veces consecutivas más. Caso en que se estará a las reglas de conformación, publicación y declaración de jurisprudencia; y
+
+II. Cuando se detecten criterios que hayan dejado de aplicarse, ya sea por existir disposición expresa en el Código de la materia con motivo de reformas al mismo, o bien, porque su fundamentación sustancial se basa en leyes abrogadas o en preceptos derogados, cuya hipótesis no se encuentra prevista en el Código Electoral del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 15.
 
-Las tesis de jurisprudencia dejarán de tener carácter obligatorio en los casos siguientes:
+Se insertarán en su totalidad las tesis de jurisprudencia aprobadas por el Pleno en una compilación, que será publicada por este Tribunal Electoral, en las que se diferenciarán aquellas en las que no tengan vigencia o aplicabilidad, caso en el que se hará una anotación marginal que indique precisamente su no vigencia.
 
-I. Cuando el Pleno la interrumpa por un criterio distinto. En este caso, deberán expresarse en la resolución respectiva, las razones en que se funde el cambio. El nuevo criterio podrá ser susceptible de convertirse en tesis relevante o en jurisprudencia, cuando se siga sosteniendo por lo menos dos veces consecutivas más. Caso en que se estará a las reglas de conformación, publicación y declaración de jurisprudencia;
-
-II. Cuando se detecten criterios que hayan dejado de aplicarse, ya sea por existir disposición expresa en el Código de la materia con motivo de reformas al mismo, o bien, porque su fundamentación sustancial se basa en leyes abrogadas o en preceptos derogados, cuya hipótesis no se encuentra prevista en el Código Electoral del Distrito Federal; y
-
-III. Por no haber prevalecido en una contradicción de tesis.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 16.
 
-Se insertarán en su totalidad las tesis de jurisprudencia aprobadas por el Pleno en una compilación, que será publicada por este Tribunal Electoral, en las que se diferenciarán aquellas en las que no tengan vigencia o aplicabilidad, caso en el que se hará una anotación marginal que indique precisamente su no vigencia.
+La modificación de la jurisprudencia procederá cuando:
+
+I. Exista una sustitución total o parcial de un criterio jurisprudencial por otro nuevo;
+
+II. Para la modificación de la jurisprudencia se observarán las mismas reglas para su formación, establecidas en el Código Electoral del Distrito Federal; y
+
+III. En la resolución respectiva que modifique la jurisprudencia deberán expresarse las razones en que se funde el cambio.
+
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO NOVENO. REGLAS DE PUBLICACIÓN DE LAS TESIS
 
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 17.
 
-La denuncia de contradicción de tesis procederá cuando:
-
-a) Se refiere a tesis relevantes opuestas que hayan sido sustentadas en sesiones diferentes del Pleno;
-
-b) Una o más tesis relevantes que estén en contradicción con cualquier tesis de jurisprudencia; y
-
-c) Una o más tesis de jurisprudencia que se opongan entre sí.
-
-### CAPÍTULO DÉCIMO. CLAVES DE PUBLICACIÓN
-
-###### ARTÍCULO 18.
-
-Para denunciar la contradicción de criterios, se observarán las reglas siguientes:
-
-a) La contradicción podrá ser planteada por cualesquiera de los Magistrados de este Tribunal Electoral, actuando en forma individual o colegiada;
-
-b) Admitida a trámite la denuncia de contradicción de criterios, la misma deberá estar debidamente firmada por el o los solicitantes, debiendo mencionarse los criterios contradictorios, señalando el rubro, texto y datos de identificación de las respectivas ejecutorias.
-
-La denuncia en cita, deberá presentarse ante el Presidente del Tribunal, quien la turnará a la Comisión de Jurisprudencia, la cual en coadyuvancia con la Subdirección de Jurisprudencia, deberá proponer a la consideración del Pleno, un Proyecto de Acuerdo Plenario, mismo que contendrá el rubro y el texto de la tesis relevante o de jurisprudencia prevaleciente;
-
-c) La contradicción podrá plantearse en cualquier momento, pero sólo podrá ser resuelta por el Pleno del Tribunal Electoral, en el tiempo que transcurra entre dos procesos electorales. El criterio que prevalezca será obligatorio a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad;
-
-d) Para el caso de que la contradicción de criterios sea planteada por las partes que intervinieron en el asunto o medio de impugnación que le dio origen, deberá hacerse constar el nombre completo del denunciante y el domicilio para oír notificaciones;
-
-En tal supuesto, el escrito se presentará en la Oficialía de Partes de este Tribunal, debiéndose señalar los criterios correspondientes, así como el rubro, texto y datos de identificación de las respectivas ejecutorias.
-
-De la mencionada contradicción conocerá la Comisión de Jurisprudencia, quien deberá someter el respectivo Proyecto de Acuerdo que aclare la contradicción o su inexistencia, al Pleno de este Tribunal Electoral, quien en su caso, lo aprobará; y
-
-g) Admitida a trámite la denuncia de contradicción de criterios, deberá, en su caso, someterse a la consideración del Pleno.
-
-III. La resolución que dirima la contradicción de tesis, habrá de contener lo siguiente:
-
-a) La fecha en que sea dictada por el Pleno;
-
-b) La transcripción de los criterios denunciados;
-
-c) La consideración relativa a la existencia o inexistencia de la contradicción;
-
-d) Los fundamentos jurídicos sobre la aplicación, interpretación o integración de la norma, pudiéndose pronunciar a favor de alguna de las tesis contradictorias, o bien establecer un criterio diferente a los sustentados;
-
-e) En los puntos resolutivos habrá de asentarse la declaración sobre la existencia o inexistencia de la contradicción y la precisión del criterio que deba prevalecer como jurisprudencia obligatoria y, en su caso, la declaración de obligatoriedad de ese criterio;
-
-f) El criterio que prevalezca a la contradicción planteada será obligatorio a partir de que se haga la declaración formal del Pleno y deberá ser notificado de inmediato al denunciante y a las autoridades electorales del Distrito Federal; y
-
-g) Una vez resuelta la contradicción se procederá a ordenar el archivo definitivo del expediente como asunto concluido.
-
-###### ARTÍCULO 19.
-
-El Acuerdo Plenario en el que se resuelva la contradicción de tesis, habrá de contener lo siguiente:
-
-a) La fecha en que sea emitido por el Pleno;
-
-b) La transcripción de los criterios denunciados;
-
-c) La consideración relativa a la existencia o inexistencia de la contradicción;
-
-d) Los fundamentos jurídicos sobre la aplicación, interpretación o integración de la norma, y el pronunciamiento a favor de alguna de las tesis contradictorias, o bien, la declaración sobre la inexistencia de la contradicción y, en su caso, la precisión del criterio que deba prevalecer como jurisprudencia obligatoria;
-
-e) En los puntos resolutivos habrá de asentarse la declaración sobre la existencia o inexistencia de la contradicción y la precisión del criterio que deba prevalecer como jurisprudencia obligatoria y, en su caso, la declaración de obligatoriedad de ese criterio;
-
-f) El criterio que prevalezca a la contradicción planteada será obligatorio a partir de que se haga la declaración formal del Pleno y deberá ser notificado de inmediato al denunciante y a las autoridades electorales del Distrito Federal; y
-
-g) Una vez resuelta la contradicción se procederá a ordenar el archivo definitivo del expediente como asunto concluido.
-
-###### ARTÍCULO 20.
-
-La publicación de las tesis que se efectúen en el órgano de difusión del Tribunal, se sujetará a las reglas siguientes:
+La publicación de las tesis de jurisprudencia y relevantes que se efectúen en el órgano de difusión del Tribunal, se sujetará a las reglas siguientes:
 
 I. Las tesis que cumplan con los requisitos establecidos en este Acuerdo, se publicarán en la Gaceta Oficial del Distrito Federal y en la página de Internet del propio Tribunal, y a través de una compilación que contendrá criterios correspondientes a uno o varios procesos electorales;
 
@@ -338,23 +322,35 @@ IV. Cuando dos o más sentencias pronunciadas en el mismo período de publicaci�
 
 V. Cuando dos o más sentencias, pronunciadas en diferentes períodos de publicación, sustenten tesis iguales, se publicará, en su caso, sólo la primera de ellas y se reservará a realizar nuevamente su publicación cuando se reúnan las sentencias necesarias que conformen una tesis de jurisprudencia.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
 
-Tratándose de tesis relevantes y de jurisprudencia, la numeración progresiva se relacionará por el año en que sean emitidas.
+### CAPÍTULO DÉCIMO. CLAVES DE PUBLICACIÓN
 
-###### ARTÍCULO 22.
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 18.
+
+Tratándose de tesis de jurisprudencia y relevantes, la numeración progresiva se relacionará por el año en que sean emitidas.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 19.
 
 Las tesis relevantes se identifican con las letras TEDF; el dígito arábigo que identifique la época de la emisión a la que corresponda la tesis; la abreviatura que corresponda al tipo de materia más un espacio; los números arábigos que corresponden al asignado a la tesis y las dos últimas cifras del año en que fueron aprobadas, divididas por una línea diagonal.
 
 Ejemplo: TEDF3LA 001/05
 
-###### ARTÍCULO 23.
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 20.
 
 Los criterios de jurisprudencia se identifican con las letras en la forma como se precisó en el artículo anterior; el dígito arábigo que identifique la época de la emisión a la que corresponda la tesis, la abreviatura que corresponda al tipo de materia, seguido de la letra “J”, más un espacio y los números arábigos que sean asignados a la tesis, además de las dos últimas cifras del año en que fueron aprobadas, divididas por una línea diagonal.
 
 Ejemplo: TEDF3ELJ 001/05
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, G.O. 2 DE OCTUBRE DE 2007)</small>
+
+###### ARTÍCULO 21.
 
 La clave de publicación aparecerá en el órgano de difusión, a renglón seguido, posteriormente a la denominación del Tribunal y antes de los datos de identificación de las ejecutorias.
 
@@ -371,3 +367,13 @@ CUARTO. Este Acuerdo entrará en vigor al día siguiente de su publicación en l
 QUINTO. Se deroga el Acuerdo plenario número 63/99 y todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este Acuerdo.
 
 Así, por unanimidad de votos lo acordaron y firman los Magistrados numerarios, integrantes del Tribunal Electoral del Distrito Federal, en sesión plenaria, de treinta de marzo de dos mil seis. Lo anterior, ante el Secretario General, quien, con fundamento en lo dispuesto en los artículos 230, inciso j) del Código Electoral del Distrito Federal y 23, fracción XVII del Reglamento Interior de este Órgano Colegiado, autoriza y da fe.
+
+> <small>N. DE E. A CONTINUACION DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+G.O. 2 DE OCTUBRE DE 2007.
+
+PRIMERO. Este Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se modifica el Acuerdo Plenario número 056/2006, publicado en la Gaceta Oficial del Distrito Federal el veintitrés de junio de dos mil seis, en los términos establecidos.
+
+TERCERO. Se ordena publicar el contenido de este Acuerdo en los estrados y en la página de Internet del Tribunal Electoral del Distrito Federal.
