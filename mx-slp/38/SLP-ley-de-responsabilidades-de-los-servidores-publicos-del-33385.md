@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2007-08-07"
+last_updated: "2007-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2007.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -93,7 +93,9 @@ II. El Gobernador del Estado;
 
 III. El Supremo Tribunal de Justicia del Estado;
 
-IV. La Contaduría Mayor de Hacienda del Congreso del Estado, la que para efectos de esta Ley se entenderá por: Contaduría;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2007)</small>
+
+IV. La Auditoria Superior del Estado;
 
 V. La Contraloría General del Estado, la que para efectos de esta Ley se entenderá por: Contraloría;
 
@@ -111,7 +113,9 @@ XI. El Tribunal Estatal de Conciliación y Arbitraje, y
 
 XII. Las demás que determinen las leyes.
 
-Para los efectos de esta Ley se entenderá como órganos de control, la Contraloría, la Contaduría, la Contraloría del Poder Judicial y las contralorías internas de las dependencias y entidades de la administración pública del Estado y de los municipios.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2007)</small>
+
+Para efectos de esta Ley se entenderá como órganos de control, la Auditoria Superior del Estado, la Contraloría, la Contraloría del Poder Judicial, y las contralorías internas de las dependencias y entidades de la administración pública del Estado y de los municipios.
 
 ###### ARTICULO 4º.
 
@@ -491,7 +495,9 @@ XXIII. Proporcionar en forma oportuna y veraz la información y datos solicitado
 
 XXIV. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
-XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza, y a la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, en el caso del Poder Ejecutivo, o de la Contaduría cuando se trate de ayuntamientos y sus entidades, a propuesta razonada conforme a las disposiciones legales aplicables del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, o bien, suspendido o inhabilitado como proveedor o contratista;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2007)</small>
+
+XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza, y a la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien, con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, en el caso del Poder Ejecutivo, o de la Auditoría Superior del Estado cuando se trate de ayuntamientos y sus entidades, a propuesta razonada conforme a las disposiciones legales aplicables del titular de la dependencia o entidad de que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno, con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, o bien, suspendido o inhabilitado como proveedor o contratista;
 
 XXVI. Abstenerse de destinar recursos materiales o humanos para apoyar las campañas electorales de partidos políticos o candidatos;
 
@@ -545,9 +551,11 @@ Los servidores públicos de la Contraloría que incurran en responsabilidad admi
 
 El Congreso del Estado, conforme a su ley respectiva, establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades administrativas en que incurran tanto sus funcionarios y empleados, como los presidentes municipales, regidores y síndicos, así como para aplicar las sanciones correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 67.
 
-La Contaduría Mayor de Hacienda del Congreso del Estado aplicará las sanciones respectivas a sus auditores, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
+La Auditoría Superior del Estado aplicará las sanciones respectivas a sus auditores, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
 ###### ARTICULO 68.
 
@@ -845,15 +853,19 @@ III. Durante el mes de mayo de cada año deberá presentarse la declaración de 
 
 Si transcurridos los plazos a que hacen referencia las fracciones anteriores, no se hubiese presentado la declaración correspondiente sin causa justificada, se aplicarán las sanciones que correspondan previstas en el artículo 75 de esta Ley, substanciando el procedimiento administrativo disciplinario correspondiente, cuya resolución se comunicará al superior jerárquico para que proceda en los términos ordenados.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 105.
 
-La Contaduría establecerá las normas, políticas y procedimientos de carácter general, para llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos; y todos los órganos de control, en los ámbitos de sus respectivas competencias, expedirán los formatos y manuales específicos bajo los cuales aquéllos deberán presentar la declaración de su situación patrimonial, así como los instructivos que señalen lo que es obligatorio declarar, y los distribuirán adecuadamente para su debido conocimiento.
+La Auditoría Superior del Estado establecerá las normas, políticas y procedimientos de carácter general, para llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos; y todos los órganos de control, en los ámbitos de sus respectivas competencias, expedirán los formatos y manuales específicos bajo los cuales aquéllos deberán presentar la declaración de su situación patrimonial, así como los instructivos que señalen lo que es obligatorio declarar, y los distribuirán adecuadamente para su debido conocimiento.
 
 ###### ARTICULO 106.
 
 En la declaración inicial y final de situación patrimonial, se manifestarán los bienes inmuebles, con la fecha y valor de adquisición. En las declaraciones anuales se manifestarán sólo las modificaciones a su situación patrimonial.
 
-Tratándose de bienes muebles, la Contaduría Mayor de Hacienda del Congreso del Estado decidirá mediante Acuerdo General, las características que deba tener la declaración.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2007)</small>
+
+Tratándose de bienes muebles, la Auditoría Superior del Estado decidirá mediante Acuerdo General, las características que deba tener la declaración.
 
 ###### ARTICULO 107.
 
@@ -976,3 +988,9 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE OCTUBRE DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
