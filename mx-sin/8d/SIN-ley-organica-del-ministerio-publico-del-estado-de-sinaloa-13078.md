@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2006-09-11"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -337,15 +337,33 @@ IX. Dirección Especializada en Justicia para Adolescentes;
 
 X. Dirección de Policía Ministerial;
 
+> <small>(F. DE E., P.O. 24 DE OCTUBRE DE 2007)</small>
+
 XI. Coordinación Administrativa;
 
-XII. Unidad de Contraloría Interna;
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
 
-XIII. Agentes del Ministerio Público;
+XII. Unidad de Control de Confianza;
 
-XIV. Las Unidades Técnicas y Administrativas que se precisen en la presente Ley y su Reglamento; y
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
 
-XV. El personal que el servicio requiera.
+XIII. Unidad de Contraloría Interna;
+
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
+
+XIV. Unidad de Asuntos Internos;
+
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
+
+XV. Agentes del Ministerio Público;
+
+(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
+
+XV. Las Unidades Técnicas y Administrativas que se precisen en la presente Ley y su Reglamento; y,
+
+(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007) (F. DE E., P.O. 24 DE OCTUBRE DE 2007)
+
+XVI. El personal que el servicio requiere.
 
 Para el despacho de los asuntos de su competencia, los órganos y dependencias enumerados en este artículo se auxiliarán con las Coordinaciones, Unidades, Departamentos y Módulos que se establezcan en el Reglamento de esta Ley, en el que también se indicarán sus funciones.
 
@@ -945,9 +963,57 @@ XII. Recepcionar y entregar las Unidades Administrativas de la institución, con
 
 XIII. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
-### CAPITULO XII. DE LA UNIDAD DE CONTRALORÍA INTERNA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO XIII. DE LOS AGENTES DEL MINISTERIO PUBLICO
+### CAPITULO XI BIS. DE LA UNIDAD DE CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 52 Bis.
+
+La Unidad de Control de Confianza estará a cargo de un Jefe, quien será nombrado y removido directamente por el Procurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 52 Bis A. Para ser Jefe de la Unidad de Control de Confianza se requiere:
+
+I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+
+II. Contar con título y cédula profesional de Licenciatura, preferentemente de la ciencia o técnica, relacionadas con las atribuciones del área;
+
+III. Tener más de treinta años de edad;
+
+IV. Acreditar ejercicio profesional de cinco años, por lo menos;
+
+V. Ser de honradez y probidad notorias; y,
+
+VI. No haber sido condenado por delitos dolosos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 52 Bis B. Las atribuciones del Jefe de la Unidad de Control de Confianza serán:
+
+I. Planear, diseñar, proponer, efectuar, dirigir, dar seguimiento, operar, coordinar y aplicar las políticas y acciones de evaluación de control de confianza y el desempeño de servidores públicos y aspirantes a ingresar en la institución, que se consideren necesarias para la calificación del personal; resguardando la confidencialidad de la información y el respeto a la intimidad del individuo y sus derechos humanos;
+
+II. Promover, llevar a cabo y participar en la fijación, actualización, revisión y acreditación de los perfiles requeridos en los puestos de la institución, a fin de normar y proveer a la selección y evaluación del personal aspirante al ingreso en la Dependencia y el que se encuentre en activo dentro de la misma;
+
+III. Diseñar, proponer y aplicar en su caso, políticas y acciones para el desarrollo humano de los servidores públicos de la Procuraduría y coordinarse para ello con otras unidades administrativas competentes de la dependencia;
+
+IV. Diseñar y proponer las normas técnicas y lineamientos rectores de los procesos de evaluación y exámenes que practicará la Unidad, para su aprobación por el Procurador;
+
+V. Diseñar y establecer los lineamientos técnicos de evaluación, así como coordinar, dirigir y operar la práctica de los procesos y exámenes obligatorios a que deberán someterse los aspirantes para ingresar a la Procuraduría, a los Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, y a los servidores públicos de otras áreas que así determine el Procurador o el Consejo Ministerial, ya fueren aquellos de carácter inicial, periódicos, extraordinarios o permanentes;
+
+VI. Informar al Procurador y a los titulares de las entidades administrativas y órganos competentes cuando proceda y corresponda legalmente, los resultados de las evaluaciones que se practiquen, para el ingreso, reingreso, promoción, permanencia en la Dependencia, y de otros supuestos legales de evaluación que hubiere determinado el Procurador o instancias que la Ley autorice;
+
+VII. Establecer y controlar una base de datos que contenga los resultados de los procesos de evaluación de cada una de las personas a quienes se les haya practicado, y conformar un expediente documental respectivo a cada cual, que se mantendrá asimismo en el archivo correspondiente; todo lo cual resguardará rigurosamente por la naturaleza reservada que esta ley fija a dichas evaluaciones, exámenes y sus resultados, el expediente documental referido y la información que contenga, que sólo se excepcionará para proporcionarse a virtud de requerimiento motivado y fundado de autoridades jurisdiccionales y en procedimientos administrativos o judiciales;
+
+VIII. Realizar, promover y participar en coordinación con las unidades administrativas competentes, el seguimiento individual de los servidores públicos y el desarrollo de su potencialidad humana; e identificar los factores de riesgo dentro de su desarrollo, que repercutan en el desempeño optimo de sus funciones, así como ubicar áreas de oportunidad para establecer programas de prevención y atención para solucionar la problemática detectada;
+
+IX. Planear, organizar, programar, coordinar, asignar, supervisar, controlar y evaluar las actividades, funcionamiento y el desempeño de las atribuciones de su área, así como en su caso, asumir la realización de las mismas por sí; y,
+
+X. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
+
+### CAPITULO XII. DE LA UNIDAD DE CONTRALORÍA INTERNA
 
 ###### Artículo 53.
 
@@ -981,17 +1047,17 @@ III. Vigilar el cumplimiento de las normas de control, evaluación, fiscalizaci�
 
 IV. Formular un programa de auditorías a las distintas unidades administrativas de la Procuraduría General de Justicia, y una vez autorizado por el Procurador General de Justicia, ejecutarlo y darle seguimiento a la solución de las deficiencias e irregularidades detectadas;
 
-V. Recibir, llevar control e investigar, conforme a las normas y procedimientos aplicables, de las quejas y denuncias de irregularidades de los servidores públicos de la institución, resolviendo en su oportunidad sobre la aplicación de medidas o sanciones a que hubiere lugar;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2000)</small>
+V. Recibir, llevar control e investigar conforme a las normas aplicables de las quejas y denuncias de irregularidades de los servidores públicos de la institución, así como de los asuntos que de oficio inicie sobre las mismas, e instruir, sustanciar y resolver los procedimientos administrativos correspondientes por las irregularidades administrativas por violación a la Ley Orgánica del Ministerio Público del Estado de Sinaloa, Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa u otras disposiciones legales aplicables, en que incurran aquellos, aplicando las medidas y sanciones a que hubiere lugar; todo lo cual igualmente observará y es de su competencia en el supuesto prevenido por el párrafo último del artículo 72 de esta Ley;
 
-VI. Realizar visitas de supervisión a las dependencias del Ministerio Público, incluyendo a la Policía Ministerial, para verificar que el desempeño de sus funciones se ajuste al principio de legalidad;
+VI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
-VII. Formular un programa para la aplicación de exámenes antidrogas al personal de la institución, y una vez autorizado por el Procurador General de Justicia, ocuparse de su ejecución;
+VII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
-VIII. Llevar un estricto control del equipamiento policiaco, incluyendo las unidades móviles y de radio-comunicación, así como del armamento asegurado en los términos de las leyes correspondientes;
+VIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
-IX. Vigilar que el personal que presta sus servicios en la Procuraduría General de Justicia del Estado, no cuente con antecedentes penales en otra entidad del país;
+IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
 X. Comunicar a las instituciones afines de otras entidades, las bajas del personal de la Procuraduría General de Justicia del Estado, cuando la misma se deba a irregularidades en su actuación como servidores públicos;
 
@@ -999,17 +1065,69 @@ XI. Elaborar y proponer programas para prevenir y sistemas para identificar, inv
 
 XII. Proveer lo necesario para que los servidores públicos de la Institución cumplan, en los términos legales, con la declaración de situaciones patrimoniales, debiéndose coordinar para ello con la dependencia competente del Poder Ejecutivo del Estado;
 
-XIII. Atender y desahogar conforme a los procedimientos legales establecidos, las quejas y denuncias que se presenten en contra de los servidores públicos de la Institución, registrándoselas de inmediato en el Libro de Gobierno respectivo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XIV. Proveer la instalación, en lugares visibles, de buzones para la presentación de quejas y denuncias en las distintas unidades administrativas de la Institución, en los cuales deberán existir los formularios respectivos;
+XIII. Recibir, atender y desahogar conforme a los procedimientos legales establecidos las quejas y denuncias que se presenten en contra de los servidores públicos de la institución y que sean de su competencia, registrándolas de inmediato en el Libro de Gobierno respectivo, e intervenir desarrollar y operar en coordinación con otras entidades administrativas competentes, un sistema de análisis y procesamiento de la información para la planeación de acciones y su ejecución en el combate de la corrupción e impunidad;
+
+XIV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
 XV. Requerir a las Unidades Administrativas, los informes, datos, expedientes y documentos, necesarios para el cumplimiento de las atribuciones, funciones y despacho de sus asuntos; y
 
 XVI. Las demás que le confieran otras disposiciones legales y el Procurador General de Justicia.
 
-### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+### CAPITULO XII BIS. DE LA UNIDAD DE ASUNTOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 55 Bis.
+
+La Unidad de Asuntos Internos estará a cargo de un Jefe, quien tendrá la calidad de Agente del Ministerio Público y será nombrado y removido libremente por el Procurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 55 Bis A. Para ser Jefe de la Unidad de Asuntos Internos se requiere:
+
+I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+
+II. Poseer título y cédula profesional de licenciado en Derecho;
+
+III. Tener más de treinta años de edad;
+
+IV. Acreditar ejercicio profesional de cinco años, por lo menos;
+
+V. Ser de honradez y probidad notorias; y,
+
+VI. No haber sido condenado por delitos dolosos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 55 Bis B. Las atribuciones del Jefe de la Unidad de Asuntos Internos serán:
+
+I. Establecer y operar el sistema de inspección, revisión, supervisión, investigación y vigilancia del desempeño de las funciones de los servidores públicos de la institución, para asegurar sea de legalidad, eficaz y eficiente, y la conducta de aquellos para que se ajuste a la legalidad y respeto a derechos humanos;
+
+II. Ordenar, coordinar y realizar la vigilancia y visitas de inspección, revisión y supervisión, control, evaluación e investigación, a las distintas unidades orgánicas de la institución y a los servidores públicos de la misma; a fin de verificar que las unas y los otros cumplan con sus atribuciones, políticas operativas, ordenamientos legales en vigor y criterios normativos establecidos para el servicio;
+
+III. Conocer de los hechos que les sean denunciados o en los que intervengan oficiosamente, respecto de los servidores públicos de la Procuraduría;
+
+IV. Formular actas, observaciones, recomendaciones e instrucciones técnicas, jurídicas y administrativas para los servidores públicos de la institución que sean procedentes, para subsanar las deficiencias detectadas en las visitas practicadas en ejercicio de sus funciones y verificar su observancia; e intervenir desarrollar y operar en coordinación con otras entidades administrativas competentes, un sistema de análisis y procesamiento de la información para la planeación de acciones y su ejecución en el combate de la corrupción e impunidad;
+
+V. Dar las vistas o hacer las denuncias ante las autoridades competentes, por hechos irregulares de los servidores públicos;
+
+VI. Informar y dar vista al superior jerárquico o a la Unidad de Contraloría Interna o autoridad que corresponda, de las irregularidades o conductas que sean causa de probable responsabilidad administrativa en que hubieren incurrido los servidores públicos de la Procuraduría que se deriven de las visitas que practique a las unidades administrativas y órganos de la institución;
+
+VII. Dirigir y establecer sistemas para el registro, clasificación, manejo y reserva de las actividades y funciones del ámbito de su competencia, del seguimiento de las mismas y sus resultados;
+
+VIII. Requerir a las unidades administrativas y servidores públicos que integran la Procuraduría para que remitan informes, datos, expedientes, documentos, rindan declaraciones en su caso, que estime adecuados para el cumplimiento de las atribuciones, funciones y despacho de los asuntos de la competencia, en particular investigaciones, inspecciones, revisiones, supervisiones y verificaciones de las entidades administrativas y los servidores públicos de la Procuraduría;
+
+IX. Iniciar, integrar y resolver averiguaciones previas contra servidores públicos de la institución;
+
+X. Planear, organizar, programar, coordinar, asignar, supervisar, controlar y evaluar las actividades, funcionamiento y el desempeño de las atribuciones de su área, así como en su caso, asumir la realización de las mismas por sí; y,
+
+XI. Las demás que le confieran otras disposiciones legales o el Procurador General de Justicia.
+
+### CAPITULO XIII. DE LOS AGENTES DEL MINISTERIO PUBLICO
 
 ###### Artículo 56.
 
@@ -1165,9 +1283,7 @@ Contra las resoluciones de no ejercicio de la acción penal por hechos que se hu
 
 ## TITULO QUINTO. DE LOS IMPEDIMENTOS, AUSENCIAS, RECUSACIONES Y EXCUSAS
 
-### CAPITULO ÚNICO. DE LAS CAUSAS, SANCIONES Y PROCEDIMIENTO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 64.
 
@@ -1199,11 +1315,137 @@ El Gobernador del Estado calificará las excusas del Procurador General de Justi
 
 La profesionalización de la institución del Ministerio Público se regirá por la presente Ley, sus normas reglamentarias y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 69.
 
-La profesionalización del personal del Ministerio Público comprenderá el ingreso, formación, permanencia, promoción, especialización, prestaciones y sanciones de los Agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial.
+La profesionalización del personal del Ministerio Público comprenderá lo relativo a los Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, y se sujetará a las bases siguientes:
+
+I. Se compondrá de las etapas de ingreso, desarrollo y terminación:
+
+a) El ingreso comprenderá los requisitos y procedimientos de selección, formación, capacitación y adscripción inicial;
+
+b) El desarrollo comprenderá los requisitos y procedimientos de actualización, especialización, estímulos y reconocimientos, cambios de adscripción, desarrollo humano, evaluaciones de control de confianza y del desempeño, ascensos; y,
+
+c) La terminación comprenderá las causas y procedimientos de separación del servicio, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+
+II. Se organizará tomando en consideración lo dispuesto en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, así como en los convenios de colaboración, acuerdos y resoluciones que en su caso se celebren con instituciones públicas o privadas, de conformidad con los ordenamientos correspondientes;
+
+III. Tendrá carácter obligatorio y permanente y abarcará los programas, cursos, exámenes y concursos correspondientes a las diversas etapas de las ramas de Agente del Ministerio Público, Agente de Policía Ministerial y Perito, los cuales se realizarán por y con el auxilio de las unidades administrativas, comisiones y órganos que determinen las disposiciones aplicables, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas; y,
+
+IV. Promoverá el efectivo aprendizaje y el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio y que el contenido teórico y práctico de los programas de capacitación, actualización y especialización fomente que los Agentes del Ministerio Público del Estado y sus auxiliares directos ejerzan sus atribuciones con base en los principios establecidos en los artículos 4° y 5° de esta ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 69 Bis.
+
+El ingreso a la categoría básica de Agente del Ministerio Público, Agente de Policía Ministerial y Perito, se podrá realizar mediante concurso de oposición, según disponga el Consejo Ministerial.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis A. Los Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, serán adscritos y ascendidos por el Consejo Ministerial.
+
+Los ascensos a las categorías superiores de las ramas de Ministerio Público, Policía Ministerial y Perito, se podrá realizar mediante concurso de oposición según disponga el Consejo Ministerial.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis B. El Consejo Ministerial es la instancia con atribuciones para orientar, proveer, coordinar, disponer y normar el desarrollo y evaluación de la profesionalización de Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos, en los términos que establece esta Ley, y se integrará por: el Subprocurador General de Justicia, los Subprocuradores Regionales de Justicia de las Zonas Norte, Centro y Sur del Estado, el Coordinador Administrativo, el Director de Averiguaciones Previas, el Director de Control de Procesos, el Director de Investigación Criminalistica y Servicios Periciales, el Director de Policía Ministerial, el Director de Planeación, Desarrollo y Atención Ciudadana, el Jefe de la Unidad de Control de Confianza, el Jefe de la Unidad de Asuntos Internos y el Jefe de la Unidad de Contraloría Interna.
+
+El Consejo estará presidido por el Subprocurador General de Justicia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis C. Son atribuciones del Consejo Ministerial las siguientes:
+
+I. En relación con Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos:
+
+a) Orientar el desarrollo y evaluación de la profesionalización de tales servidores públicos del Ministerio Público, estableciendo y operando criterios y directrices para tal efecto, en los términos que establece esta Ley;
+
+b) Dirigir, coordinar, controlar, proveer y dar seguimiento con sujeción a las normas aplicables y con auxilio y en coordinación con otras instancias con atribuciones al efecto, respecto de las actividades de reclutamiento, selección, ingreso, formación, capacitación, actualización, especialización, adscripción, permanencia, promoción, reconocimiento, y estímulos de Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos;
+
+c) Disponer, llevar a cabo y aprobar mecanismos y convocatorias para el ingreso y ascenso, así como validar sus resultados;
+
+d) Disponer y proveer la celebración de concursos de oposición para el ingreso y ascensos cuando así lo estime necesario. En los supuestos de que habida convocatoria a concurso de oposición no acudan aspirantes, o que las necesidades del buen servicio de procuración de justicia hagan urgente cubrir la vacante; queda facultado el Consejo, para hacer libre proposición, y el nombramiento se podrá expedir con carácter provisional y temporal por un periodo máximo de seis meses; y,
+
+e) Decidir sobre el ingreso, adscripción inicial, cambios de adscripción, suplencias, ascensos y movimientos, para el legal, eficiente, profesional y honrado ejercicio de las atribuciones por los servidores públicos.
+
+II. Respecto del propio Consejo:
+
+a) Establecer directrices para su organización y funcionamiento;
+
+b) Designar de entre sus miembros al Secretario del Consejo;
+
+c) Proveer y decidir, en su caso, como legalmente corresponda para el establecimiento y señalamiento de los órganos, entidades administrativas y comisiones que deban auxiliarlo en el desempeño de sus funciones, y respecto de la asignación de personal técnico y administrativo de apoyo a las funciones del Consejo;
+
+d) Proponer e impulsar la celebración de convenios con las instituciones de enseñanza superior, para lograr la profesionalización de los Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos;
+
+e) Proveer y decidir en su caso, sobre la evaluación de control de confianza y del desempeño y la profesionalización de los demás servidores públicos; y,
+
+f) Las demás que le determinen otras disposiciones jurídicas o el Procurador General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis D. Son atribuciones del Presidente del Consejo Ministerial, las siguientes:
+
+I. Presidir el Consejo y dirigir los debates, conservar el orden en las sesiones y despachar la correspondencia oficial del Consejo;
+
+II. Representar legalmente al Consejo, rendir y suscribir toda clase de informes ante autoridades y proveer al cumplimiento de resoluciones en asuntos de su competencia, según proceda;
+
+III. Tramitar y firmar los asuntos de la competencia del Consejo;
+
+IV. Convocar a sesiones cada vez que lo estime necesario;
+
+V. Incoar y resolver los asuntos cuya atención no admita demora, según su importancia, dando cuenta al Consejo en la siguiente sesión;
+
+VI. Informar al Procurador General de Justicia de los contenidos de las actas, acuerdos y resoluciones que por su naturaleza o importancia deban hacerse de su conocimiento;
+
+VII. Proponer, disponer y llevar a cabo las medidas necesarias para el adecuado funcionamiento del Consejo y el cabal cumplimiento de sus atribuciones;
+
+VIII. Firmar las actas de sesión del Consejo conjuntamente con los demás consejeros que hubieren participado en dicha sesión, proveyendo para la observancia, seguimiento y cumplimiento de los acuerdos alcanzados, así como en su caso, informar y notificar de los mismos a quien legalmente corresponda;
+
+IX. Expedir y suscribir constancias, documentación y certificaciones, y legalizar la firma de los integrantes del Consejo en los casos en que se requiera y, en su caso, autorizar a uno o más miembros del consejo para que ejerzan esta atribución; y,
+
+X. Las demás que determinen otras disposiciones legales, le señale el Procurador General de Justicia del Estado o acuerde el Consejo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis E. Los aspirantes a ingresar como Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos deberán aprobar los procesos de evaluación inicial de control de confianza.
+
+Los servidores públicos en activo Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos deberán acudir, someterse y aprobar los exámenes y procesos de evaluación de control de confianza y del desempeño, que serán permanentes, periódicos y obligatorios.
+
+También deberán acudir, someterse y aprobar los exámenes y procesos de evaluación de control de confianza y del desempeño los demás servidores públicos que determine el Procurador o el Consejo Ministerial.
+
+Los procesos de evaluación de control de confianza y evaluación del desempeño, constarán de los siguientes exámenes:
+
+a) Patrimoniales y de entorno social;
+
+b) Psicométricos y psicológicos;
+
+c) Médicos y Toxicológicos;
+
+d) Poligráficos; y,
+
+e) Los demás que se consideren necesarios para la calificación del personal.
+
+Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos y las personas aspirantes a que se refiere el párrafo primero en lo que les sea conducente, son confiables y de integridad, que reúnen los perfiles institucionales, son calificados y cualificados para el desempeño, cumplen y satisfacen los requisitos para ingresar y permanecer y demás que se prevean en la Ley Orgánica del Ministerio Público y su Reglamento o en otras disposiciones legales aplicables, que dan debido cumplimiento a los principios de legalidad, eficacia, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis F. Los exámenes y sus resultados se evaluarán en conjunto, pero el examen toxicológico y sus resultados podrán presentarse y calificarse por separado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis G. Los servidores públicos serán citados y deberán presentarse y someterse a la práctica de los exámenes respectivos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis H. Los resultados de los procesos de evaluación serán confidenciales con excepción de lo que establezcan las disposiciones legales aplicables, así como en aquellos casos en que deban presentarse en procedimientos jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Artículo 69 Bis l. Los servidores públicos Agentes del Ministerio Público, Agentes de Policía Ministerial y Peritos que resulten no aptos al no acreditar ni aprobar los exámenes y procesos de evaluación, no acudan al citatorio al efecto, o no se sometan a los mismos sin causa justificada, serán destituidos de su cargo de conformidad con los procedimientos y disposiciones legales aplicables. Igualmente por no reunir los requisitos que para ingresar y permanecer como Agente del Ministerio Público, Agente de Policía Ministerial y Perito establece la Ley Orgánica del Ministerio Público del Estado de Sinaloa, su Reglamento y otras disposiciones legales aplicables, procederá la remoción de éstos sin que proceda su reinstalación o restitución.
+
+En los casos en que los demás servidores públicos de la institución respecto de los cuales el Procurador General de Justicia o el Consejo Ministerial haya determinado su sujeción a los procesos de evaluación, resulten no aptos, o no acudan al citatorio o no se sometan a los mismos sin causa justificada, dejarán de prestar sus servicios en la institución, de conformidad con los procedimientos y disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2000)</small>
 
@@ -1221,6 +1463,10 @@ El servicio civil de carrera del Ministerio Público se regirá por lo dispuesto
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ESPECIALES DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS Y AGENTES DE POLICIA MINISTERIAL
 
+### CAPITULO ÚNICO. DE LAS CAUSAS, SANCIONES Y PROCEDIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+
 ###### Artículo 71.
 
 Además de las señaladas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, son obligaciones, y su incumplimiento será causa de responsabilidad de los Agentes del Ministerio Público del Fuero Común, de los Agentes de Policía Ministerial del Estado y de los Peritos al servicio de la Procuraduría General de Justicia, las siguientes:
@@ -1233,21 +1479,69 @@ III. Observar un trato respetuoso con todas las personas, en el desempeño de su
 
 IV. Desempeñar su función sin aceptar gratificaciones;
 
-V. Preservar el secreto de los asuntos que por razón de su función conozcan, con las excepciones que determinen las leyes; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-VI. Velar por la integridad física de las personas que sean puestas a su disposición.
+V. Preservar el secreto de los asuntos que por razón de su función conozcan, con las excepciones que determinen las leyes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VI. Velar por la integridad física de las personas que sean puestas a su disposición;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VII. Aprobar los procesos de evaluación de control de confianza y del desempeño, permanentes, periódicos y obligatorios, acudir al ser citados para serles practicados y someterse a los mismos; según están establecidos en esta Ley, su Reglamento y demás disposiciones aplicables y cuando sean ordenados por el Procurador o el Consejo Ministerial de la Procuraduría General de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VIII. Impedir, por los medios que tuvieran a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IX. Abstenerse de ordenar o realizar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución Política del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+X. Abstenerse de cualquiera de las conductas siguientes: detentar, poseer, adquirir, utilizar, usar, transitar, custodiar, enajenar, traficar, prestar, trasladar, desmantelar, recibir, ocultar o cualquiera otra conducta análoga, en relación a un vehículo automotor robado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XI. Abstenerse de las conductas siguientes: detentar, poseer, usar, adquirir, enajenar, proporcionar, la documentación relativa a un vehículo robado o bien, alterarla o modificarla de cualquier manera;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XII. No usar, poseer, detentar o ser o conducirse como dueño respecto de bienes o un patrimonio en general que por su valor económico resulte desproporcionado e injustificado de adquirir con los lícitos ingresos que obtiene el servidor público;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XIII. No ser sujetos a proceso penal como probables responsables de delito doloso o culposo calificado como grave por la Ley; y,
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XIV. Las demás que fijen y resulten de esta Ley u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 72.
 
 Las sanciones imponibles por incurrir en las causas que se describen en el artículo precedente, son:
 
-I. Amonestación pública o privada;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II. Suspensión; y
+I. Apercibimiento;
 
-III. Remoción.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Las sanciones aplicables por incurrir en las causas referidas en el artículo anterior, serán aplicadas, por el Procurador General de Justicia, previa instauración del procedimiento administrativo correspondiente.
+II. Amonestación;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+III. Suspensión; y,
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV. Destitución.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Las sanciones imponibles precitadas por incurrir los Agentes del Ministerio Público, los Agentes de Policía Ministerial del Estado y Peritos al servicio de la Procuraduría General de Justicia, en las causas referidas en el artículo anterior, serán aplicadas por la Unidad de Contraloría Interna, previa instauración, integración, substanciación y resolución del procedimiento administrativo correspondiente.
 
 ###### Artículo 73.
 
@@ -1261,27 +1555,37 @@ III. El nivel jerárquico, antigüedad y preparación del responsable; y
 
 IV. Las circunstancias y medios de ejecución.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 74.
 
 El procedimiento administrativo para determinar la responsabilidad de los servidores públicos a que se refiere este Capítulo, será el siguiente:
 
-I. Se iniciará de oficio o por queja presentada ante la Contraloría Interna de la institución, por cualquier persona que tenga conocimiento del hecho, que se apoye con pruebas. Podrán formularse quejas anónimas, siempre que se acompañen de pruebas documentales.
+I. Se podrá iniciar de oficio por la Unidad de Contraloría Interna de la institución o por queja de cualquier persona que tenga conocimiento del hecho o por disposición del Procurador o el Consejo Ministerial.
 
-II. La Contraloría Interna remitirá copia de la queja y sus anexos al servidor público para que, en un término de cinco días, formule un informe sobre los hechos y aporte las pruebas que estime pertinentes.
+La Unidad de Contraloría Interna podrá allegarse en cualquier momento de los medios de prueba que estime necesarios y practicar diligencias u ordenar actuaciones a su juicio adecuadas en la investigación, determinación, conocimiento o esclarecimiento de los hechos. Cuando la queja resulte manifiestamente absurda, inverosímil e improcedente la Unidad de Contraloría Interna podrá desecharla de plano;
 
-> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 1998)</small>
+II. Iniciado el procedimiento administrativo la Unidad de Contraloría Interna citará al servidor público presunto responsable para que comparezca personalmente a una audiencia, haciéndole saber: los hechos que se le imputen; el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a declarar lo que a su interés convenga; a ofrecer pruebas; que en su oportunidad podrá alegar en la misma por sí o por medio de un defensor; su derecho a que se le faciliten todos los datos que solicite para su defensa y que consten en el procedimiento, derecho que consistirá en permitir a él y a su defensor imponerse del expediente, en la oficina de la Unidad de Contraloría Interna y en presencia del personal de la misma, lo que podrá realizar en días y horas hábiles; que deberá señalar domicilio ubicado en el lugar del procedimiento, para que se les hagan las notificaciones y en su caso, designar a quien pueda recibirlas en su nombre y representación, apercibido que de no hacerlo las notificaciones y citaciones aún las de carácter personal, se le efectuarán mediante escrito que se fijará en lugar visible al público de la dependencia; que si no comparece sin causa justificada a la audiencia o se abstiene de formular declaración alguna, se tendrán por presuntivamente ciertos los hechos imputados y por perdido el derecho que podría haber ejercitado, sin que ello sea obstáculo para la continuación del procedimiento;
 
-III. En cualquier momento, posterior a la recepción y análisis de la queja, la Contraloría Interna podrá determinar la suspensión del denunciado, siempre que así convenga para la conducción de las investigaciones. Esta suspensión no prejuzgará sobre la responsabilidad que se impute al servidor público, lo que se hará constar en la resolución respectiva. Si el servidor público suspendido no resultare responsable, será restituido en su empleo, cargo o comisión, y se le cubrirán las percepciones que hubiera dejado de recibir durante el tiempo de la suspensión.
+III. La audiencia se celebrará dentro de los treinta días hábiles siguientes a la notificación, aún sin la presencia del servidor público; en caso de comparecer se le recibirá su declaración, inclusive podrá presentarla por escrito y ratificarla en ese mismo acto. La Unidad de Contraloría Interna hará relación de las pruebas ofrecidas y acordará su admisión, preparación y desahogo; podrá rechazar las pruebas propuestas por el servidor público del caso, cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho; tal acuerdo deberá estar debidamente fundado y motivado. Cuando el servidor público se comprometa a presentar el día de la audiencia a sus testigos y ratificantes, o tratándose de la prueba a cargo de peritos, si no presenta a unos o a los otros, se declarará desierta la probanza. Cuando la citación a los testigos deba hacerlo la Unidad de Contraloría Interna, el oferente de la prueba deberá proporcionar el domicilio de los mismos; en caso de que el testigo no viva en el domicilio señalado por el oferente, la prueba será declarada desierta. En su oportunidad procesal se recibirán en la audiencia los alegatos que se formulen ya sean verbales o por escrito;
 
-IV. Recibido el informe y desahogadas las pruebas, si las hubiere, la Contraloría Interna resolverá lo que proceda conforme a derecho dentro de los diez días hábiles siguientes, notificando dicha resolución al denunciado dentro de las setenta y dos horas siguientes.
+El hecho de que alguna de las pruebas allegadas al procedimiento no haya sido debidamente preparada el día que tenga verificativo la audiencia, no será causa suficiente para diferirla. Se desahogarán las pruebas que estén en condiciones; una vez hecho lo anterior se suspenderá la audiencia, para continuarla en la fecha que fije la Unidad de Contraloría Interna, quien ordenará la preparación de las pruebas pendientes. Se notificará legalmente de lo anterior al servidor público interesado directamente o por conducto de quien hubiese sido autorizado para tal efecto. Concluida la etapa de desahogo de pruebas, en la misma audiencia, el servidor público presunto responsable podrá formular o ampliar sus alegatos, en forma verbal o por escrito, directamente o por conducto de su defensor;
 
-V. Contra las resoluciones que impongan alguna sanción, se podrá interponer el recurso de revisión que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, mismo que se substanciará en los términos que establece dicha ley.
+IV. En el supuesto que la Unidad de Contraloría Interna, no cuente con los elementos suficientes para resolver o, advierta elementos de prueba que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá ordenar la práctica de investigaciones y citará para otra u otras audiencias en los mismos términos antes señalados;
+
+V. En cualquier momento, posterior al inicio del procedimiento, la Contraloría Interna podrá determinar la suspensión del servidor público, siempre que así convenga para la conducción de las investigaciones. Esta suspensión no prejuzgará sobre la responsabilidad que se impute al servidor público, lo que se hará constar en la resolución respectiva. Si el servidor público suspendido no resultare responsable, será restituido en su empleo, cargo o comisión, y se le cubrirán las percepciones que hubiera dejado de recibir durante el tiempo de la suspensión; y,
+
+VI. Concluida la audiencia según sea el caso, si el expediente no excede de cien hojas la Unidad de Contraloría Interna dictará resolución dentro de los treinta días hábiles siguientes, sobre la existencia o no de responsabilidad administrativa, y en su caso, impondrá al servidor público responsable la sanción que corresponda. Por cada veinte hojas de exceso o fracción, se aumentarán tres días al plazo anterior. La resolución se notificará al servidor público dentro de los cinco días hábiles siguientes a su emisión.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 75.
 
-En lo no previsto respecto a la investigación e imposición de sanciones a los servidores públicos que señala este capítulo, se aplicarán las disposiciones conducentes de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+En lo no previsto respecto a la investigación, procedimiento y sus formalidades e imposición de las sanciones a los servidores públicos que señala este capítulo, se aplicarán las disposiciones conducentes de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y el Código de Procedimientos Penales para el Estado de Sinaloa.
 
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
+
+### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 76.
 
@@ -1402,3 +1706,9 @@ c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución defin
 d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad, sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Los procedimientos administrativos que se encuentren en trámite para la imposición de sanciones por el Procurador General de Justicia del Estado, se seguirán por su parte hasta su total resolución.
