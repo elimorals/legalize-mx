@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-economico-del-estado-de-chiapas-24657"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "1997-12-17"
+last_updated: "2007-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE DESARROLLO ECONOMICO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY PARA EL FOMENTO ECONOMICO Y LA ATRACCION DE INVERSIONES EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 3 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de diciembre de 1997.
 
@@ -634,3 +636,17 @@ DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOC
 JULIO CESAR RUIZ FERRO, GOBERNADOR DEL ESTADO.- HOMERO TOVILLA CRISTIANI, SECRETARIO DE GOBIERNO.- CESAR AUGUSTO CORZO VELASCO, SECRETARIO DE DESARROLLO ECONOMICO.- RUBRICAS.
 
 LAS FIRMAS DE ESTE DOCUMENTO CORRESPONDEN A LA PROMULGACION DEL DECRETO NUMERO 13.- POR EL QUE SE EXPIDE LA LEY DE DESARROLLO ECONOMICO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 3 DE OCTUBRE DE 2007.
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Dentro de los 60 días posteriores a la publicación de la (sic) presente Decreto el Ejecutivo del Estado, se deberá emitir el Reglamento de la misma; así como el Reglamento del Consejo Consultivo para el Fomento Económico y la Atracción de Inversiones.
+
+Tercero.- La Secretaría contará con un plazo de 90 días naturales a partir de la publicación de la Ley para el establecimiento de los CEDE-e a los que se refiere el segundo párrafo del artículo 36, de esta Ley; el mismo plazo se computará para la creación del Registro Empresarial.
+
+Cuarto.- Se abroga la Ley de Desarrollo Económico del Estado de Chiapas.
+
+Quinto.- Se derogan todas las disposiciones que se opongan a la presente Ley.
