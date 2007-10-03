@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2007-03-07"
+last_updated: "2007-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -1813,11 +1813,63 @@ V.- INVITADOS PERMANENTES.- Representante de la Secretaría de Salud, de la Ofic
 
 El funcionamiento y desarrollo de las sesiones del Comité de Informática, se regirán por su propio Reglamento.
 
+> <small>(ADICIONADO, P. O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 51.
+
+La Comisión de Vigilancia del Programa Residuos Peligrosos Biológico Infecciosos se integrará de la siguiente manera:
+
+I.- Presidente: El Director de Atención a la Salud;
+
+II.- Secretario Ejecutivo: El Subdirector de Hospitales;
+
+III.- Secretario Técnico: El responsable del programa de Residuos Peligrosos Biológico Infecciosos en los Servicios de Salud de Morelos;
+
+IV.- Vocales: El Director de Planeación, el Director de Administración, el Subdirector de Primer Nivel de Atención, el Subdirector de Almacenes y Control de Abasto y el Jefe de Departamento de Servicios Generales;
+
+V.- Asesor: El Subdirector Jurídico, quien participa con voz pero sin voto;
+
+VI.- Órgano de Control: Representante de la Comisaría de la Secretaría de la Contraloría quien participa con voz pero sin voto, y
+
+VII.- Invitado Permanente: Un representante de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Morelos, con voz pero sin voto.
+
+> <small>(ADICIONADO, P. O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 52.
+
+La comisión de vigilancia del Programa de Residuos Peligrosos Biológico Infecciosos tendrá las siguientes atribuciones:
+
+I.- Asesorar y apoyar en el ámbito de su competencia a las Unidades de Salud dependientes de los Servicios de Salud de Morelos, para llevar a cabo el Programa de Manejo de los Residuos Peligrosos Biológico Infecciosos, de acuerdo con la reglamentación y normatividad vigente;
+
+II.- Analizar el comportamiento de la generación de los residuos peligrosos biológico infecciosos a fin de disminuir la generación de los mismos;
+
+III.- Informar de los avances en la materia sobre la problemática que se presenta en la generación y manejo de residuos peligrosos biológico infecciosos, en las Unidades de Salud y presentar propuestas de solución para mejorar la eficiencia, y
+
+IV.- Presentar informes del comportamiento en la generación de residuos biológicos infecciosos por las Unidades Médicas al Comité de Adquisiciones, toda vez que sea pertinente, para agilizar los insumos necesarios para el desempeño del Programa de Residuos Peligrosos Biológico Infecciosos.
+
+> <small>(ADICIONADO, P. O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 53.
+
+La comisión de vigilancia del Programa de Residuos Peligrosos Biológico Infecciosos se constituirá en pleno con la asistencia de la mitad más uno del total de sus integrantes, las resoluciones y acuerdos se tomarán por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P. O. 3 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 54.
+
+El funcionamiento y desarrollo de las sesiones de la Comisión de vigilancia del Programa de Residuos Peligrosos Biológico Infecciosos, se regirá por su propio reglamento y por el Acuerdo que estable los lineamientos para la convocatoria y desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos auxiliares que integran el sector Paraestatal del Estado de Morelos.
+
+### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 3 DE OCTUBRE DE 2007)
+
+###### Artículo 55.
 
 Será facultad exclusiva de la Junta de Gobierno aprobar las modificaciones al presente Reglamento.
 
-###### Artículo 52.
+(REUBICADO [N. DE E. ANTES ARTICULO 52], P.O. 3 DE OCTUBRE DE 2007)
+
+###### Artículo 56.
 
 La iniciativa de modificaciones al Reglamento será facultad del Presidente de la Junta de Gobierno, del Director General del Organismo y de cuando menos dos miembros de la Junta de Gobierno.
 
@@ -1887,4 +1939,6 @@ SEGUNDO.- Se abroga el Decreto que crea el órgano desconcentrado de la Secretar
 
 TERCERO.- Se destina el bien inmueble en el que prestaba sus servicios el órgano desconcentrado de la Secretaría de Salud denominado "Hospital de la Mujer" al organismo descentralizado denominado Servicios de Salud de Morelos para que preste sus servicios la unidad administrativa de nueva creación.
 
-### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
+P.O. 3 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado de Morelos.
