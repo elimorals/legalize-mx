@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2007-09-12"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -271,13 +271,17 @@ ART. 55.- LOS ACTOS Y ACTAS DEL ESTADO CIVIL DEL PROPIO OFICIAL, DE SU CONYUGE, 
 
 ### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-ART. 56.- LAS DECLARACIONES DE NACIMIENTO, SE HARAN PRESENTANDO A LA NIÑA O NIÑO ANTE EL OFICIAL DEL REGISTRO CIVIL O SOLICITANDO LA COMPARECENCIA DEL MISMO AL LUGAR DONDE SE ENCUENTRA AQUEL.
+ART. 56.- EL ESTADO GARANTIZARA EL DERECHO A LA IDENTIDAD A TRAVES DEL REGISTRO DE NACIMIENTO UNIVERSAL, GRATUITO Y OBLIGATORIO, EN LOS TERMINOS DEL PRESENTE CODIGO.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1982)</small>
+LAS DECLARACIONES DE NACIMIENTO, SE HARAN PRESENTANDO AL MENOR ANTE EL OFICIAL DEL REGISTRO CIVIL O SOLICITANDO LA COMPARECENCIA DEL MISMO EN EL LUGAR QUE SE ENCUENTRA AQUEL.
 
-ART. 57.- TIENE OBLIGACION DE DECLARAR EL NACIMIENTO EL PADRE Y LA MADRE O CUALQUIERA DE ELLOS DENTRO DE LOS 180 DIAS DE OCURRIDO.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ART. 57.- TIENEN LA OBLIGACIÓN DE DECLARAR EL NACIMIENTO EL PADRE Y LA MADRE O CUALQUIERA DE ELLOS, DENTRO DE LOS CIENTO OCHENTA DIAS DE OCURRIDO ESTE.
+
+EL REGISTRO DE NACIMIENTO Y LA EXPEDICIÓN DE LA CONSTANCIA RESPECTIVA SERÁN GRATUITOS, SIEMPRE Y CUANDO OCURRAN DENTRO DEL PLAZO ESTABLECIDO EN EL PARRAFO QUE ANTECEDE.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2003)</small>
 
@@ -10562,3 +10566,9 @@ DECRETO NUMERO 276
 Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
