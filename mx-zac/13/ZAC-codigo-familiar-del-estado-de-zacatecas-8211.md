@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2006-11-11"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -107,9 +107,11 @@ CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 1.
 
-Las normas del derecho de familia son de carácter social y tutelares substancialmente de la mujer, de los menores, de los mayores incapacitados y de los ancianos.
+Las normas del derecho de familia son de orden social y tutelares de todos los integrantes de la Familia.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
@@ -141,9 +143,11 @@ El Estado promoverá la organización social y económica de la familia, mediant
 
 El hombre y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia. Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, tal como lo establece el artículo 4º de la Constitución Federal, sin que por ello se autorice el aborto, salvo en los casos señalados expresamente por la ley. La ley determinará los apoyos a la protección de los menores o incapacitados, a cargo de las instituciones públicas. Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental en los términos de la Ley de los Derechos del Niño.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 7.
 
-Las disposiciones de esta ley son de orden público e irrenunciables, y los derechos y obligaciones en ella consignados no pueden ser objeto de convenio, salvo las excepciones señaladas por la ley.
+Las disposiciones de esta ley son de orden público e irrenunciables, y los derechos y obligaciones en ella consignados no pueden ser objeto de convenio, salvo en aquellos casos que, sin contravenir disposiciones de orden público, las partes convengan sobre sus derechos, sin afectar a terceros, así como en las excepciones señaladas por la ley.
 
 ###### ARTICULO 8.
 
@@ -193,13 +197,19 @@ Las actas del Registro Civil, se asentarán en formatos especiales, en los térm
 
 Para asentar las actas del Registro Civil, se dispondrá de los formatos adecuados para los siguientes hechos o actos jurídicos: nacimiento, reconocimiento de hijos, matrimonio, divorcio, defunción. Asimismo, la inscripción de las resoluciones ejecutorias que declaren la ausencia, la presunción de muerte, la adopción, la tutela o la emancipación y la pérdida o limitación de la capacidad legal para administrar bienes.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+El Registro Civil resguardará las inscripciones, por medios informáticos o aquellos que el avance tecnológico ofrezca, en una base de datos en la que se reproducirá la información contenida en las actas asentadas en las formas que el Registro Civil permita para la conservación de los mismos y la certeza sobre su autenticidad.
+
 ###### ARTICULO 18.
 
 Los formatos del Registro Civil serán expedidos por la Secretaría de Finanzas y Tesorería, que los hará llegar con toda oportunidad a las Recaudaciones de Rentas para su entrega a los interesados.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 19.
 
-Una vez asentada el acta, los Oficiales del Registro Civil remitirán dos ejemplares al Archivo Estatal del mismo, otro a la Dirección General de Población de la Secretaría de Gobernación y un ejemplar al interesado; el original quedará en el archivo de la Oficialía.
+Una vez asentada el acta, los Oficiales del Registro Civil remitirán dos ejemplares al Archivo Estatal del mismo, otro a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, otro al Instituto Nacional de Estadística, Geografía e Informática, a través de medios magnéticos y electrónicos o en la forma y plazos que establezca el Reglamento y un ejemplar al interesado; el original quedará en el archivo de la Oficialía del Registro Civil.
 
 ###### ARTICULO 20.
 
@@ -237,9 +247,11 @@ La falsedad del acto inscrito y la nulidad de las actas del Registro Civil deber
 
 Los Oficiales del Registro Civil serán suplidos en sus faltas temporales por los Presidentes Municipales, y cuando éstos ejerzan por ministerio de ley las funciones de aquéllos la suplencia la harán las personas que los sustituyan legalmente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 29.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en cualquiera oficina del Registro Civil de la República, conforme a las leyes del lugar en que se efectúe tal registro, y a lo dispuesto por la fracción X del artículo 283 del Código de Procedimientos Civiles vigente en el Estado.
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en cualquiera oficina del Registro Civil de la República, conforme a las leyes del lugar en que se efectúe tal registro, y a lo dispuesto por el último párrafo del artículo 283 del Código de Procedimientos Civiles vigente en el Estado.
 
 ###### ARTICULO 30.
 
@@ -321,11 +333,13 @@ Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, podrán proc
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo el levantamiento.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 43.
 
-Está prohibido al Oficial del Registro Civil y a los testigos que conforme a este Código deben asistir al acto, hacer inquisición sobre la paternidad cuando la madre se hubiere acogido a la opción prevista en la fracción IV del artículo 40. Pero cuando la presentación fuere hecha por alguna otra persona que provisionalmente se hubiere hecho cargo del menor y el compareciente demuestre que la madre falleció o esté imposibilitada para la atención de su hijo, se le requerirá para que declare el nombre del padre y los datos que pudieren conducir a su identificación y localización, incluyéndose en el acta los que sean pertinentes para dicho fin.
+Está prohibido al Oficial del Registro Civil y a los testigos que conforme a este Código deben asistir al acto, hacer inquisición sobre la paternidad cuando ante el comparecimiento de la madre para levantar el acta de nacimiento, hubiere optado por la omisión del nombre del otro progenitor. Pero cuando la presentación fuere hecha por alguna otra persona que provisionalmente se hubiere hecho cargo del menor y el compareciente demuestre que la madre falleció o esté imposibilitada para la atención de su hijo, se le requerirá para que declare el nombre del padre y los datos que pudieren conducir a su identificación y localización, incluyéndose en el acta los que sean pertinentes para dicho fin.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 La constancia así asentada no tendrá efecto alguno en materia de reconocimiento paterno, ya que éste se sujetará a las normas previstas en este Código, pero servirá de base para que, por conducto del Consejo de Familia del Distrito Judicial que corresponda, se promueva la investigación del paradero del presunto padre a fin de que, una vez localizado, se haga de su conocimiento la existencia del menor y el estado de abandono en que se encuentra.
 
@@ -447,29 +461,37 @@ IV. Bajo qué régimen matrimonial desean celebrar su matrimonio.
 
 Al escrito a que se refiere el artículo anterior se acompañarán:
 
-I. El acta de nacimiento de los pretendientes o en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I. El acta de nacimiento de los pretendientes o en su defecto, la resolución en la que se registre la dispensa de edad a un menor de edad emitida por el Juez;
 
 II. La constancia de que prestan su consentimiento para que el matrimonio se formalice, las personas que, en su caso ejerzan sobre ellos la patria potestad o los tengan bajo su custodia;
 
-III. La declaración de dos testigos mayores de edad, que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos por cada uno de ellos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-IV. Un certificado suscrito por un médico titulado que asegure bajo protesta de decir verdad, que los pretendientes no padecen sífilis, ni enfermedad alguna crónica incurable y que sea, además contagiosa y hereditaria.
+III. La declaración de dos testigos mayores de edad, que conozcan a los pretendientes. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos por cada uno de ellos;
 
-Para los indigentes, tienen obligación de extender gratuitamente este certificado los médicos encargados de la salud, de carácter oficial;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio; en el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio.
+IV. Un certificado médico expedido por institución oficial, en el que haga constar que los pretendientes no padecen alguna enfermedad contagiosa, crónica o incurable;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. Los términos en que se determinen los derechos y obligaciones objeto del convenio, podrán establecerse como resultado de un procedimiento de mediación familiar. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen, de sociedad conyugal, el de separación de bienes o mixto. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejar de presentarse este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio.
 
 Al formalizarse el convenio se tendrá en cuenta lo que dispongan las leyes que regulen las capitulaciones matrimoniales, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber al efecto.
 
-Si fuere necesario conforme a derecho que el convenio conste en escritura pública, se acompañará el testimonio notarial de la misma.
+Si fuere necesario conforme a derecho que el convenio conste en escritura pública, se acompañará el testimonio notarial de la misma;
 
 VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los cónyuges es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en el caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
 VII. Copia certificada de la dispensa de impedimentos si los hubo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 67.
 
-En el caso de que los pretendientes, por falta de conocimiento no puedan redactar el convenio a que se refiere la fracción quinta, del artículo anterior lo redactará el Oficial del Registro Civil con los datos que los mismos pretendientes le suministren.
+En el caso de que los pretendientes, por falta de conocimiento no puedan redactar el convenio a que se refiere la fracción V, del artículo anterior podrán acudir a la instancia de mediación del Poder Judicial del Estado. Para su orientación y elaboración o bien, lo redactará el Oficial del Registro Civil con los datos que los mismos pretendientes le suministren.
 
 ###### ARTICULO 68.
 
@@ -615,7 +637,7 @@ El Jefe de cualquier puesto o destacamento militar tiene la obligación de dar p
 
 ###### ARTICULO 92.
 
-En todos los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de las circunstancias en que ocurrió. Las actas sólo contendrán los requisitos que prescribe el artículo ochenta y cuatro.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ### CAPITULO UNICO
 
@@ -625,6 +647,8 @@ A LA INCAPACIDAD LEGAL DE ADMINISTRAR BIENES, A LA AUSENCIA O PRESUNCION DE MUER
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 93.
 
 Las Autoridades Judiciales que declaren perdida la capacidad legal de alguna persona para que administre bienes, la ausencia o presunción de muerte, remitirán al Oficial del Registro Civil donde exista alguna acta relacionada con el estado civil de la persona referida, testimonio de la resolución ejecutoria para que haga las anotaciones marginales del caso y archive el instrumento con el mismo número del acta.
@@ -633,9 +657,11 @@ Las Autoridades Judiciales que declaren perdida la capacidad legal de alguna per
 
 DE ACTAS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 94.
 
-La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Juez de lo Familiar o Juez Municipal y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
 
 ###### ARTICULO 95.
 
@@ -675,9 +701,11 @@ La aclaración de las actas del estado civil procede cuando en el registro exist
 
 ### CAPITULO SEGUNDO. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 100.
 
-El matrimonio es la unión legítima de un solo hombre con una sola mujer, para procurar la procreación de los hijos y ayudarse mutuamente.
+El matrimonio es la unión jurídica de un hombre y una mujer donde ambos, mediante una comunidad de vida, y procurándose respeto, igualdad y ayuda mutua, constituyan una familia, con la posibilidad de procrear hijos de manera libre, responsable e informada.
 
 ###### ARTICULO 101.
 
@@ -693,39 +721,43 @@ El Estado establece el matrimonio como uno de los medios morales reconocidos por
 
 ###### ARTICULO 104.
 
-El que sin causa grave a juicio del Juez rehuse cumplir su promesa de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado, sin perjuicio de que igualmente esté obligado a cubrir la indemnización correspondiente al daño moral y material causado.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 105.
 
-La acción a que se refiere el artículo que precede, prescribe dentro de un año, contado desde el día en que debió celebrarse el matrimonio.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ### CAPITULO TERCERO. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
 ###### ARTICULO 106.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce, el Juez de lo Familiar de la residencia de los interesados puede conceder dispensas de edad, por causas graves y justificadas.
+Para contraer matrimonio es necesario que ambos contrayentes sean mayores de edad.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
 
 También es requisito para contraer matrimonio, la asistencia previa de los interesados a las pláticas de orientación prematrimonial con perspectiva de género, que llegare a implementar la correspondiente autoridad municipal.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 107.
 
-Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad. Este derecho lo tiene además la madre, aunque haya contraído segundas nupcias, y si el hijo vive con ella. A falta o por imposibilidad de los padres se necesita el consentimiento de los abuelos que ejerzan la patria potestad.
+Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 108.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de lo Familiar de la residencia del menor suplirá el consentimiento.
+A falta, negativa o imposibilidad de quienes ejerzan la patria potestad, el Juez de lo Familiar de la residencia de los interesados podrá conceder las dispensas de edad.
 
 ###### ARTICULO 109.
 
-Los interesados pueden ocurrir a la Autoridad Política superior respectiva cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido; la Autoridad mencionada, después de levantar una información sobre el particular, suplirá o no el consentimiento.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 110.
 
-Si el Juez se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán ante el Supremo Tribunal de Justicia del Estado, en los términos que disponga el Código de la materia.
+Si el Juez no concede dispensas de edad para que se celebre el matrimonio, los interesados pueden recurrir la decisión ante el Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles para el Estado.
 
 ###### ARTICULO 111.
 
@@ -742,6 +774,8 @@ El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá re
 ### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN
 
 DEL MATRIMONIO
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 114.
 
@@ -761,27 +795,33 @@ V. El adulterio habido entre las personas que pretendan contraer matrimonio, cua
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VII. La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1992)</small>
+VII. La violencia o miedo graves para la celebración forzada del matrimonio;
 
-VIII. La locura, la esterilidad o impotencia incurable para la cópula; la sífilis y las demás enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1992)</small>
+VIII. La enfermedad mental, la esterilidad o impotencia incurable para la cópula y las demás enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias, siempre que no haya manifestación expresa del libre consentimiento de los contrayentes de tener conocimiento y desestimar formalmente dicho impedimento;
 
-IX. Padecer alguno de los estados de discapacidad a que se refiere la Fracción II del Artículo 409.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IX. Padecer alguno de los estados de discapacidad a que se refiere la fracción II del artículo 409 de este Código, siempre que, no se haya formulado manifestación expresa del libre consentimiento de los contrayentes de tener conocimiento y desestimar formalmente los impedimentos, habiendo realizado estudios médicos que le demuestren fehacientemente al Juez de lo Familiar que tienen capacidad para decidir libremente;
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual, así como aquellos en los que esté prevista la libre manifestación del consentimiento del o de los contrayentes, que desestimen formalmente el impedimento.
 
 ###### ARTICULO 115.
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, mientras dure el lazo jurídico de la adopción.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 116.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese lapso diere a luz un hijo. En los casos de nulidad o de divorcio se contará ese tiempo desde que se interrumpió la cohabitación.
+La mujer que quiera contraer nuevo matrimonio, dentro de los trescientos días después de la disolución del anterior, deberá presentar un certificado médico de no embarazo, o dentro de ese lapso dar a luz un hijo. En los casos de nulidad o de divorcio se contará ese tiempo desde que se interrumpió la cohabitación.
 
 ###### ARTICULO 117.
 
@@ -807,23 +847,29 @@ DE LOS REGIMENES PATRIMONIALES, MATRIMONIALES Y CONCUBINARIOS
 
 ###### ARTICULO 120.
 
-El matrimonio crea la familia y establece entre los esposos igualdad de derechos y obligaciones.
+El matrimonio establece entre los cónyuges igualdad de derechos y obligaciones.
 
 ###### ARTICULO 121.
 
 El matrimonio impone a los cónyuges deberes recíprocos de cohabitación, de fidelidad, asistencia y comunidad de vida.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 122.
 
-Por el matrimonio los cónyuges adquieren la obligación de alimentar, mantener, educar, criar y proteger a los hijos.
+Los cónyuges adquieren la obligación de alimentar, mantener, educar, criar y proteger a los hijos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 123.
 
-Los cónyuges tienen derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, en los términos establecidos por la Ley.
+Los cónyuges tienen derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, así como a emplear cualquier método de procreación asistida para lograr su propia descendencia. Este derecho será ejercido de común acuerdo por los cónyuges en los términos establecidos por la Ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 124.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la Patria, en servicio público o social, o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal, que es el lugar establecido de común acuerdo por ellos, en el cual ambos disfrutan de iguales derechos y obligaciones. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la Patria, en servicio público o social, o cuando se establezca en un lugar insalubre o indecoroso.
 
 ###### ARTICULO 125.
 
@@ -831,21 +877,29 @@ Los cónyuges contribuirán económicamente al sostenimiento de la familia, a su
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 126.
 
-Los cónyuges deben contribuir con el producto de sus ingresos al sustento de la familia, cualquiera que sea su régimen matrimonial.
+Los cónyuges deben contribuir con sus ingresos al sustento de la familia, cualquiera que sea su régimen patrimonial.
+
+El desempeño de las actividades domésticas o el cuidado de los hijos se estimarán como contribución económica al sostenimiento del hogar.
 
 ###### ARTICULO 127.
 
-Cada uno podrá dedicarse a la profesión u oficio que posean cuando no sea perjudicial a los intereses o estructura familiares, fundamentalmente a la formación de los hijos.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 128.
 
-Los cónyuges y los hijos, en materia de alimentos tendrán derecho preferente sobre los ingresos y los bienes de quien tenga a su cargo el sostenimiento económico de la familia. Podrán demandar el aseguramiento de los bienes para hacer efectivos éstos.
+Los cónyuges y los hijos, en materia de alimentos tendrán derecho preferente sobre los ingresos y los bienes de quien tenga a su cargo el sostenimiento económico de la familia, sin que se afecte la conservación de la fuente de ingresos. Podrán demandar el aseguramiento de los bienes para hacer efectivos éstos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 129.
 
-El marido y la mujer tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite uno de los cónyuges el consentimiento del otro, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
 ###### ARTICULO 130.
 
@@ -855,17 +909,21 @@ El marido y la mujer menores de edad tendrán la administración de sus bienes, 
 
 Los cónyuges requerirán autorización judicial para contratar entre ellos, excepto cuando el contrato sea de mandato para pleitos y cobranzas, o para actos de administración.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 132.
 
-Se requiere autorización judicial para que el cónyuge sea fiador o aval de su consorte o se obligue solidariamente con él en asuntos de interés exclusivo de cada uno de ellos, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
+Se requiere autorización judicial para que el cónyuge sea fiador o aval de su cónyuge o se obligue solidariamente con él en asuntos de interés exclusivo de cada uno de ellos, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad. La ausencia de dicha autorización conlleva la nulidad del acto.
 
 ###### ARTICULO 133.
 
 El contrato de compraventa sólo podrá celebrarse entre los cónyuges, cuando el matrimonio esté sujeto a régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 134.
 
-El marido y la mujer durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ### CAPITULO SEXTO. DE LA SOCIEDAD CONYUGAL
 
@@ -877,17 +935,21 @@ El matrimonio puede celebrarse bajo el régimen de sociedad conyugal, bajo el de
 
 El hombre y la mujer, al celebrar el matrimonio, conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; por consiguiente todos los frutos y accesiones de dichos bienes, no serán comunes sino del dominio exclusivo de la persona a quien aquéllos correspondan, salvo lo establecido por esta Ley respecto a los gananciales matrimoniales.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 137.
 
-Se llaman capitulaciones matrimoniales a los pactos o acuerdos que los esposos celebren respecto de los bienes que aporten al matrimonio, los que adquieran con motivo de éste o durante su vigencia.
+Se llaman capitulaciones matrimoniales, al convenio que los contrayentes celebran previamente al matrimonio, así como a las modificaciones sucesivas que durante el mismo se hagan, respecto de los bienes que aporten al matrimonio, los que adquieran con motivo de éste o durante su vigencia; quedando expedita la vía de la mediación familiar para la obtención de los acuerdos que se requieran.
 
 ###### ARTICULO 138.
 
 El Oficial del Registro Civil ante quien se celebre el matrimonio, debe asentar en el tenor del acta con toda claridad, el régimen patrimonial por el que opten los esposos; su omisión, determinará que se considere que el matrimonio se celebra bajo el régimen de separación de bienes; sin embargo, salvo pacto en contrario, los cónyuges y concubinos tienen derecho en igual proporción a los gananciales del matrimonio según se establece en este Capítulo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 139.
 
-Se llaman gananciales matrimoniales o concubinarios, a los frutos y provechos que se obtienen con el esfuerzo común de los esposos, en la administración de los bienes comunes o personales, que sirven para el sostenimiento del hogar, y cuidado y educación de los hijos, sin perjuicio de que la propiedad y posesión de tales bienes la conserve quien tiene derecho a ello.
+Se llaman gananciales matrimoniales o concubinarios, a los frutos y provechos que se obtienen con el esfuerzo común de los cónyuges o concubinos, en la administración de los bienes comunes o personales, que sirven para el sostenimiento del hogar, y cuidado y educación de los hijos, sin perjuicio de que la propiedad y posesión de tales bienes la conserve quien tiene derecho a ello.
 
 ###### ARTICULO 140.
 
@@ -903,33 +965,35 @@ II. Las mejoras que los bienes de la comunidad hayan experimentado durante la vi
 
 III. Los bienes adquiridos con fondos o bienes comunes, o que sean el resultado del trabajo y esfuerzo de ambos.
 
-La esposa o concubina que se dedicare al cuidado o administración de los bienes de cuyos frutos se obtiene lo necesario para el sostenimiento de la familia, pero se dedique a la atención del hogar, hubiere o no hijos, tendrá derecho a los gananciales o utilidades de dichos bienes en un cincuenta por ciento, descontando lo que hubiere sido necesario invertir para el sostenimiento de la familia, educación y atención de ella.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+El cónyuge o concubinario que se dedicare al cuidado o administración de los bienes de cuyos frutos se obtiene lo necesario para el sostenimiento de la familia, o se dedique a las actividades domésticas, hubiere o no hijos, tendrá derecho a los gananciales o utilidades de dichos bienes en un cincuenta por ciento.
 
 Las disposiciones generales contenidas en este Capítulo son aplicables en lo conducente a los concubinos.
 
 ###### ARTICULO 142.
 
-El marido puede conceder a la mujer, de los productos que obtuviere por su trabajo o con sus bienes, una proporción mayor que la que le conceda la mujer respecto de los suyos.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 143.
 
-El marido también puede conceder a la mujer, una parte de los productos de su trabajo como profesión, comercio, industria, o de sus bienes, aunque la mujer no desempeñe trabajo alguno ni ejerza determinada profesión, comercio o industria, o carezca de bienes propios.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 144.
 
-Los pactos a que se refieren los artículos anteriores, sólo surtirán efectos con relación a tercero si consta en escritura pública, debidamente registrada, si se tratare de bienes raíces y no comprendan más de la mitad de los frutos o productos.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 145.
 
-El cónyuge que faltare a lo convenido, dará derecho al otro para pedir el cumplimiento del contrato o su rescisión para lo sucesivo, y el cumplimiento del mismo hasta la fecha de la demanda.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 146.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios u honorarios, para pagarse de las cantidades que correspondan los alimentos de ella y de sus hijos. También tendrá derecho preferente para igual objeto sobre los bienes propios del marido después de que se paguen con el valor de éstos los créditos hipotecarios o prendarios legalmente establecidos.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 147.
 
-El marido tendrá el derecho que a la mujer confiere el artículo anterior, cuando ésta tenga que contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 148.
 
@@ -973,9 +1037,11 @@ La administración de la sociedad corresponde a ambos cónyuges; pero puede conv
 
 Los actos de dominio sólo podrán realizarse por ambos cónyuges de común acuerdo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 153.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges. Los términos en que se determinen los derechos y obligaciones objeto del convenio pueden establecerse como resultado de un procedimiento de mediación. En los casos que alguno o ambos cónyuges fueren menores de edad, el convenio relativo sólo tendrá validez después de ser autorizado por el Juez de lo Familiar o Juez Municipal.
 
 ###### ARTICULO 154.
 
@@ -1033,9 +1099,11 @@ En el régimen de separación de bienes, los cónyuges conservarán la propiedad
 
 La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrarse el matrimonio sino también los que adquieran después. La separación de bienes puede ser absoluta o parcial.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 166.
 
-Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal, pero si son los consortes menores de edad se precisará autorización judicial.
+Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal o régimen mixto, pero si son los consortes menores de edad se precisará autorización judicial.
 
 ###### ARTICULO 167.
 
@@ -1053,9 +1121,11 @@ Las capitulaciones que establezcan separación de bienes, siempre contendrán un
 
 En este régimen corresponden a cada propietario, todos los productos y accesiones, salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 171.
 
-Los bienes que los cónyuges adquieran en lo personal por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro, pero en este caso el que administre será considerado como mandatario.
+Los bienes que los cónyuges adquieran en lo personal por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, serán del dominio exclusivo del que los reciba, a menos que se trate de donaciones de dependencias derivadas de programas de viviendas, o el donatario expresamente comparta la propiedad con el otro cónyuge.
 
 ###### ARTICULO 172.
 
@@ -1101,11 +1171,13 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Las donaciones antenupciales no son revocables por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a los dos prometidos y que ambos sean ingratos.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 180.
 
-Las donaciones antenupciales son revocables por el adulterio o el abandono injustificado del hogar conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+Las donaciones antenupciales son revocables cuando, durante el matrimonio el donatario cometa adulterio, violencia familiar, abandono de las obligaciones alimentarias u otras que a juicio del Juez de lo Familiar causen perjuicio al donante o a sus hijos.
 
-### CAPITULO DECIMO. DE LOS MATRIMONIOS NULOS E ILICITOS
+### CAPITULO DECIMO. DE LOS MATRIMONIOS NULOS
 
 ###### ARTICULO 181.
 
@@ -1123,6 +1195,8 @@ III. Estas donaciones no se anularán por la superveniencia de hijos, pero se re
 
 IV. Sólo se confirmarán con la muerte del donante.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ### CAPITULO DECIMO PRIMERO. DEL DIVORCIO
 
 ###### ARTICULO 183.
@@ -1139,9 +1213,11 @@ III. Que se haya celebrado en contravención a las solemnidades y formalidades s
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro del término de treinta días después de conocerlo, se tiene por ratificado el consentimiento, y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 185.
 
-El ser menor de dieciséis años el hombre y de catorce la mujer, al contraer matrimonio, dejará de ser causa de nulidad:
+Cuando el hombre o la mujer sean menores de edad al contraer matrimonio, dejará de ser causa de nulidad:
 
 I. Cuando haya habido hijos;
 
@@ -1157,7 +1233,9 @@ Cesa esta causa de nulidad:
 
 I. Si han pasado los treinta días sin que se haya pedido;
 
-II. Si dentro de este término el ascendiente ha consentido expresamente en el matrimonio, o tácitamente haciendo donaciones a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto como los expresados.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II. Si dentro de este término los que ejercen la patria potestad han consentido expresamente en el matrimonio, o tácitamente haciendo donaciones a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la descendencia como de los cónyuges en el Registro Civil, o practicando otros actos que a juicio del Juez de lo Familiar sean tan conducentes al efecto como los expresados.
 
 ###### ARTICULO 188.
 
@@ -1181,9 +1259,11 @@ En uno y en otro casos, la acción debe intentarse dentro de los seis meses sigu
 
 La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que queda libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 193.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurrieren las circunstancias siguientes:
+El miedo y la violencia familiar serán causa de nulidad del matrimonio si se presentan algunas de las circunstancias siguientes:
 
 I. Que uno y otra impliquen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
@@ -1191,7 +1271,9 @@ II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la perso
 
 III. Que uno u otra haya subsistido al tiempo de celebrarse el matrimonio.
 
-La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesó la violencia familiar.
 
 ###### ARTICULO 194.
 
@@ -1241,9 +1323,11 @@ Si ha habido buena fe de parte de uno sólo de los cónyuges, el matrimonio prod
 
 Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 205.
 
-La buena fe se presume; para destruir esta presunción se requiere, prueba plena si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales necesarias para separar a los cónyuges, asegurar alimentos de los acreedores, y poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges. De no llegarse a un acuerdo lo decidirá el Juez.
+La buena fe se presume. Para destruir esta presunción se requiere, prueba plena si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales necesarias para separar a los cónyuges, asegurar alimentos de los acreedores, y poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges. Para conseguir dicho acuerdo, podrán acudir a la instancia de mediación del Poder Judicial del Estado. De no llegarse a un acuerdo lo decidirá el Juez de lo Familiar.
 
 ###### ARTICULO 206.
 
@@ -1271,15 +1355,11 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 ###### ARTICULO 210.
 
-Es ilícito pero no nulo el matrimonio:
-
-I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-
-II. Cuando no se ha otorgado la previa dispensa al tutor para celebrar matrimonio con el pupilo, y cuando se celebre sin que haya transcurrido respecto de la mujer el término de trescientos días contados a partir de la disolución de un matrimonio anterior, o el término que como sanción, se señalare en una sentencia de divorcio al cónyuge culpable.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 211.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin la autorización de los padres de éste, del tutor o del Juez en sus respectivos casos, y los que autoricen estos matrimonios, incurrirán en las penas que señale el Código de la materia.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ### CAPITULO DECIMO SEGUNDO
 
@@ -1329,9 +1409,11 @@ La ley presume la reconciliación después de promovido el divorcio, al haber co
 
 Cuando los cónyuges dejaren pasar más de seis meses sin continuar el procedimiento de divorcio, ya se trate del voluntario o del necesario, el Tribunal declarará de oficio la caducidad del mismo y mandará archivar el expediente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 221.
 
-En los procedimientos de divorcio el Juez de oficio, deberá tomar todas las medidas necesarias para proteger el interés que el Estado tiene en garantizar el sustento de los hijos y lo relativo a la protección de la mujer que se encontrare encinta.
+En los procedimientos de divorcio el Juez, de oficio, deberá tomar las medidas necesarias para proteger el interés superior del niño garantizando el sustento de los hijos, la convivencia de éstos con ambos padres, salvo en los casos en que la ley disponga lo contrario, y lo relativo a la protección de la mujer que se encontrare embarazada.
 
 ###### ARTICULO 222.
 
@@ -1363,6 +1445,10 @@ VI. La manera de administrar los bienes de la sociedad conyugal durante el proce
 
 A este efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Si alguno de los cónyuges o ambos, tuvieren duda respecto de los términos en que se determinarán los derechos y obligaciones objeto del convenio, podrán acudir a la instancia de mediación del Poder Judicial del Estado para alcanzar acuerdos satisfactorios para ambas partes.
+
 ###### ARTICULO 225.
 
 El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
@@ -1391,45 +1477,73 @@ Si el convenio no fuere aprobado, no podrá decretarse el divorcio.
 
 ### CAPITULO DECIMO CUARTO. DEL CONCUBINATO
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 231.
 
 Son causas de divorcio:
 
 I. El adulterio de alguno de los cónyuges;
 
-II. El hecho de que la mujer dé a luz durante el matrimonio un hijo concebido antes de celebrarse aquél, y que judicialmente se declare que no es del marido;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-III. La propuesta del marido para prostituir a su mujer;
+II. El hecho de que alguno de los cónyuges durante el matrimonio tenga un hijo y que judicialmente se declare que no es del cónyuge;
 
-IV. La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito, aunque no sea de incontinencia carnal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+III. La propuesta de un cónyuge para prostituir al otro;
 
-VI. Ser cualquiera de los cónyuges incapaz para llenar los fines del matrimonio o padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria, y la impotencia incurable o la esterilidad de la mujer que sobrevengan después de celebrado el matrimonio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-VII. Padecer enajenación mental incurable. El divorcio por esta causa sólo puede demandarse después de dos años de haberse manifestado la enajenación mental;
+IV. La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito;
 
-VIII. El abandono injustificado de la casa conyugal por cualquiera de los consortes por más de seis meses consecutivos con abandono absoluto de las obligaciones inherentes al matrimonio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-IX. La separación del hogar conyugal por desavenencia entre los cónyuges, si se prolonga por más de un año; en este caso puede pedirlo el que no haya dado lugar o motivo a tal separación;
+V. La conducta de alguno de los cónyuges con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VI. Padecer cualquier enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria, y la impotencia incurable o la esterilidad de alguno de los cónyuges que sobrevengan después de celebrado el matrimonio;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VII. Padecer enfermedad mental incurable, previa declaración de interdicción. El divorcio por esta causa sólo puede demandarse después de dos años de haberse manifestado la enfermedad;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VIII. El abandono del domicilio conyugal por cualquiera de los cónyuges por más de seis meses consecutivos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IX. La separación de los cónyuges si se prolonga por más de un año, independientemente del motivo que la haya originado, la cual podrá ser invocada por cualquiera de ellos;
 
 X. La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesite para que se haga que preceda la declaración de ausencia;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XI. La violencia familiar de un cónyuge a otro a (sic) hacia los hijos, se ejerza o no, en el domicilio conyugal; así como las amenazas las injurias o los malos tratos recurrentes, o aún si no lo son, pero que, a juicio del juez, hagan imposible la vida en común. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 283 Bis de este Código;
+XI. La violencia familiar, recurrente o no, cometida por un cónyuge contra otro, o hacia los hijos de ambos, o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto en el artículo 283 Bis de este Código;
 
-XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar y la alimentación de los hijos, o el incumplimiento de la sentencia que condene al pago de tal obligación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XII. La negativa injustificada de los cónyuges a colaborar en las actividades domésticas, o a no cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar o la alimentación de los hijos, o el incumplimiento injustificado de la sentencia que condene al pago de tal obligación;
 
 XIII. La acusación calumniosa hecha por un cónyuge contra el otro por delito que merezca pena mayor de dos años de prisión;
 
-XIV. Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XIV. Cometer, uno de los cónyuges, un delito intencional por el cual haya sido condenado, por sentencia ejecutoriada;
 
 XV. Los hábitos de juego, de embriaguez o de uso indebido persistente, no terapéutico, de enervantes, estupefacientes o psicotrópicos, o de cualquiera otra substancia que altere la conducta del individuo y produzca farmacodependencia, y esta situación amenace con causar la ruina o desintegración de la familia, o constituya un continuo motivo de desavenencia conyugal;
 
-XVI. Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XVII. La extorsión moral de un cónyuge por el otro, siempre que implique crueldad mental y haga imposible la vida conyugal, a juicio del Juez.
+XVI. Cometer un cónyuge contra la persona o los bienes del otro o de los hijos, un acto que sea punible, siempre que tal acto tenga señalada en la ley una pena;
+
+XVII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XVIII. El incumplimiento injustificado de los convenios celebrados ante las unidades de atención a la violencia familiar o resoluciones o determinaciones de las autoridades judiciales o administrativas que se hayan ordenado, tendientes a corregir los actos de violencia familiar.
 
 ###### ARTICULO 232.
 
@@ -1439,9 +1553,11 @@ Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio que no ha
 
 El cónyuge ofendido por una causal de divorcio necesario deberá ejercitar la acción correspondiente dentro del término de un año contado a partir de la fecha en que tuvo conocimiento del hecho, o causa que lo motiva, salvo las excepciones señaladas por esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 234.
 
-Mientras que se decreta el divorcio, el Juez, al admitir la demanda, de oficio dictará provisionalmente las siguientes medidas:
+Mientras que se decreta el divorcio, al admitir la demanda el Juez, y en los casos que lo considere pertinente, con el auxilio de la instancia de mediación del Poder Judicial del Estado, de oficio dictará provisionalmente las siguientes medidas:
 
 I. La separación de los cónyuges;
 
@@ -1449,17 +1565,33 @@ II. Señalar y asegurar los alimentos que debe dar el deudor alimenticio al cón
 
 III. Las que estime convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes, ni en los de la sociedad conyugal;
 
-IV. Dictar, en su caso, las medidas precautorias para proteger a la mujer que quede encinta;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pide el divorcio propondrá la persona a cuyo cuidado deben quedar provisionalmente los hijos. El Juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona que crea conveniente en caso de no ser aceptada la propuesta;
+IV. Dictar, en su caso, las medidas precautorias para proteger a la mujer que quede embarazada;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pide el divorcio propondrá la persona a cuyo cuidado deben quedar provisionalmente los hijos. El Juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona que crea conveniente en caso de no ser aceptada la propuesta.
 
-VI. En la sentencia que decrete el divorcio, el Juez determinará los derechos y obligaciones derivadas de la patria potestad que conservará cada uno de los cónyuges, respecto de la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto, deberá el Tribunal oír al Ministerio Público, al Consejo Estatal de los Derechos del Niño, a los cónyuges, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos;
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+La custodia compartida se otorgará para proteger el interés superior del niño y solamente cuando exista común acuerdo entre los cónyuges. Presentarán un plan de custodia compartida especificando en qué términos y condiciones va a ejercerse el derecho de convivencia de los hijos, respetando los horarios de alimentación, estudio, descanso y condición de salud de los niños;
 
-VII. Los hijos quedarán bajo la custodia del cónyuge no culpable; sin embargo el Juez, en protección a los derechos de los menores, podrá disponer lo que considere más beneficioso para ellos, tomando en cuenta lo dispuesto en la fracción que precede y por la Ley de los Derechos del Niño. Si los dos cónyuges fueran culpables, los hijos quedarán al cuidado de los ascendientes a quienes corresponda la patria potestad en defecto de los padres; y si no los hubiere se les nombrará un tutor.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VI. En la sentencia que decrete el divorcio, el Juez determinará los derechos y obligaciones derivadas de la patria potestad que conservará cada uno de los cónyuges, respecto de la persona o personas y bienes de sus hijos, teniendo en cuenta el interés superior del niño, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto, podrá el Juez oír a los niños, por sí o por medio de un representante, al Ministerio Público, al Consejo Estatal de los Derechos del Niño, a los cónyuges, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VII. Los hijos quedarán bajo el régimen de custodia compartida, salvo que no convenga al interés superior del niño, quedarán bajo la custodia del cónyuge no culpable. El Juez, en protección a los derechos de los niños, podrá disponer lo que considere más beneficioso para ellos, tomando en cuenta lo dispuesto en la fracción que precede y por la Ley Estatal de los Derechos de las Niñas, los Niños y los Adolescentes. Si los dos cónyuges fueran culpables, los hijos quedarán al cuidado de los ascendientes a quienes corresponda la patria potestad en defecto de los padres; y si no los hubiere se les nombrará un tutor;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VIII. En caso de violencia familiar; deberá decretarse además:
+
+a) La asistencia obligatoria a terapias o tratamientos integrales, especializados y gratuitos, brindados por las unidades de atención a la violencia familiar, tanto a las víctimas, como al agresor, los cuales deberán prestarse de manera separada;
+
+b) La salida del cónyuge agresor del domicilio conyugal y la prohibición de que acuda al mismo, así como al centro laboral y los lugares que frecuenten las víctimas, y
+
+c) Cualquier otra medida que permita que cesen los actos de violencia familiar, con la finalidad de proteger la integridad y seguridad de las víctimas de violencia familiar.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
@@ -1475,9 +1607,13 @@ El cónyuge que diere causa al divorcio perderá todo lo que hubiere dado o prom
 
 Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, de los gananciales, y se tomarán las precauciones necesarias para asegurar el cumplimiento de las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayoría de edad, o recuperen su salud, si se tratare de incapacitados.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 238.
 
-En los casos de divorcio, el Juez, tomando en cuenta las circunstancias del caso y, entre ellas, la situación económica de los cónyuges, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias ni obtenga otros medios de subsistencia. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor.
+En los casos de divorcio, el Juez, tomando en cuenta las circunstancias del caso y, entre ellas, la situación económica de los cónyuges, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará durante el mismo tiempo que duró el matrimonio o en tanto no contraiga nupcias o viva en concubinato. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor.
+
+En los casos de violencia familiar, en la sentencia deberá condenarse al agresor a un tratamiento reeducativo, integral, especializado y gratuito, el cual será proporcionado por las unidades de atención a la violencia familiar.
 
 ###### ARTICULO 239.
 
@@ -1495,11 +1631,11 @@ Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer
 
 ### CAPITULO TERCERO. DE LA VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 241.
 
-El concubinato es un matrimonio de hecho; es la unión entre un hombre y una mujer libres de matrimonio y sin los impedimentos que la Ley señala para celebrarlo, que de manera pública y permanente, hacen vida en común, como si estuvieran casados, si tal unión perdura durante más de cinco años o procrearen hijos.
+El concubinato es un matrimonio de hecho, es la unión entre un hombre y una mujer libres de matrimonio y sin los impedimentos que la Ley señala para celebrarlo, que de manera pública y permanente, hacen vida en común, como si estuvieran casados, si tal unión perdura durante más de dos años o procrearen hijos.
 
 ###### ARTICULO 242.
 
@@ -1513,9 +1649,15 @@ III. El derecho a heredar en los términos señalados en el Código Civil;
 
 IV. En general los mismos derechos y obligaciones que tienen los hijos del matrimonio.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 243.
 
-La ruptura del concubinato, cesación de la vida en común, no origina derecho a reclamación alguna entre los concubinos.
+La ruptura del concubinato, cesación de la vida en común, origina entre los concubinos derechos y obligaciones alimentarios y sucesorios, independientemente de los demás reconocidos en este Código. Al terminar la convivencia, la concubina o el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tienen derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato, siempre que no contraiga matrimonio o viva en nuevo concubinato.
+
+Cuando los concubinos decidan terminar la convivencia y formalizar por la vía judicial los términos de la separación, podrán acudir a la instancia de mediación del Poder Judicial del Estado para convenirlos.
+
+El derecho que otorga este artículo prescribirá en un año, contado a partir de la terminación del concubinato.
 
 ###### ARTICULO 244.
 
@@ -1529,9 +1671,13 @@ La concubina no tiene derecho a usar el apellido del concubino, aun cuando los h
 
 La Ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 246.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un tronco común.
+El parentesco de consanguinidad es el vinculo que existe entre personas que descienden de un tronco común.
+
+También se considera parentesco por consanguinidad, el vínculo existente entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hubieren procurado el nacimiento.
 
 ###### ARTICULO 247.
 
@@ -1543,9 +1689,11 @@ Disuelto el matrimonio desaparece el parentesco por afinidad.
 
 Se asimila al parentesco por afinidad la relación que resulta del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de éste con aquélla. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 249.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre él o los adoptantes y el adoptado.
+El parentesco civil es el que nace de la adopción, se equipara al parentesco por consanguinidad y es aquél que existe entre el adoptado, los adoptantes, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
 ###### ARTICULO 250.
 
@@ -1569,23 +1717,35 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO SEGUNDO. DE LAS PRESUNCIONES DE PATERNIDAD
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 283 Bis.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como omisiones graves que se ejercen contra un miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicoemocional o sexual; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Sus modalidades son las siguientes:
+Por violencia familiar se considera todo acto u omisión intencional, aislado o reiterado, dirigido a dominar, someter, controlar o agredir, de manera mediante el uso de la fuerza verbal, física o psicológica, así como omisiones graves que se ejercen contra cualquier miembro de la familia por otro integrante de la misma, que atente contra su integridad física, psicológica, sexual, económica o patrimonial; ya sea que, se realicen dentro o fuera del domicilio conyugal y se produzcan o no lesiones. Los tipos de violencia familiar son los siguientes:
 
-I. Maltrato Físico: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento y control.
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
 
-II. Maltrato psicoemocional: Comportamiento consistente en acciones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celo pitia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, menoscabo, detrimento, disminución o afectación de la personalidad.
+II. Violencia Psicológica: Comportamiento consistente en acciones u omisiones reiteradas, cuyas formas de expresión pueden ser prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, sevicia, humillaciones, celotipia, conductas de abandono, así como omisiones, que provoquen en quien las recibe, depresión o menoscabo, detrimento, disminución o afectación en la autoestima o la inteligencia emocional.
 
-Se considera maltrato psicoemocional, toda acción u omisión mediante la que se intente causar daño psicológico a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso de su derecho de corregir.
+III. Violencia Sexual: Conducta consistente en la agresión física o con intimidación u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor, con independencia que el generador de dicha violencia guarde o no relación conyugal, de pareja, afectiva o de parentesco con los receptores de la violencia familiar.
 
-III. Maltrato sexual; Conducta consistente en la agresión física o moral, u hostigamiento, para obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+Se entenderá asimismo como violencia sexual, la mutilación genital, y la violencia contra los derechos sexuales y reproductivos, la cual consiste en cualquier acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud sexual y reproductiva, o afecte el ejercicio de la libertad sexual;
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+IV. Violencia contra los derechos sexuales y reproductivos: Cualquier tipo de actuación que impida, o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
+
+V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
+
+Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 283 Ter.
 
-También se consideran acciones de violencia familiar las previstas en este artículo, aun cuando el agresor y el agredido no habiten en el mismo domicilio, pero tengan relación de parentesco, ya sea por consanguinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado y custodia.
+También se consideran acciones de violencia familiar las previstas en este artículo, aún cuando el agresor y la víctima no habiten en el mismo domicilio, pero tengan o hayan tenido relación de parentesco, ya sea por consanguinidad, afinidad, adopción, matrimonio, concubinato u otra relación afín, o que convivan o que hayan convivido en el mismo domicilio y estén sujetos a patria potestad, tutela, guarda, protección, educación, cuidado, custodia, o que mantengan o hayan mantenido una relación afectiva, aún cuando no compartan el mismo domicilio.
 
 ###### ARTICULO 255.
 
@@ -1683,9 +1843,11 @@ VI.- El Consejo Estatal de los Derechos del Niño.
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el Juez un tutor interino.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 275.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos, o cualquiera otra forma de garantía suficiente a juicio del Juez, quien podrá remitir a las partes a un procedimiento de mediación, para alcanzar un acuerdo satisfactorio.
 
 ###### ARTICULO 276.
 
@@ -1699,11 +1861,17 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 
 Cesa la obligación de dar alimentos:
 
-I. Cuando el que la tiene carece de medios para cumplirla;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I. Cuando el que la tiene carece de medios para cumplirla y lo prueba mediante proceso jurisdiccional;
 
 II. Cuando el alimentista deje de necesitar los alimentos;
 
-III. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+III. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV. En caso de violencia familiar cometida por el acreedor alimentista, contra el que debe prestarlos.
 
 ###### ARTICULO 279.
 
@@ -1727,11 +1895,11 @@ Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimie
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
 
-### CAPITULO TERCERO. DE LOS HIJOS DE MATRIMONIO
+### CAPITULO TERCERO. DE LA FlLIACION DE LOS HIJOS
 
-### CAPITULO CUARTO. DE LAS PRUEBAS DE LA FILIACION DE
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-LOS HIJOS NACIDOS DE MATRIMONIO
+### CAPITULO CUARTO. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS
 
 ## TITULO TERCERO
 
@@ -1749,29 +1917,35 @@ La filiación resulta de las presunciones legales, o del nacimiento, o del recon
 
 El Estado, a través de la autoridad y organismos que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación a quienes hayan llegado a la pubertad.
 
-### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS
+### CAPITULO SEXTO. DEL RECONOCIMIENTO DE LOS HIJOS
 
-FUERA DE MATRIMONIO
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 287.
 
-Se presumen hijos de los cónyuges:
+Se presumen hijos de los cónyuges, salvo prueba en contrario;
 
-I. Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+I. Los hijos nacidos en cualquier momento después de la celebración del matrimonio;
 
-II. Los hijos nacidos dentro de los trescientos días siguientes a la terminación del matrimonio, ya provenga ésta de la muerte del marido, de la nulidad o de divorcio. Este término se contará en los casos de divorcio o nulidad, después que de hecho quedaren separados los cónyuges.
+II. Los hijos nacidos dentro de los trescientos días siguientes a la terminación del matrimonio, ya provenga ésta de la muerte del cónyuge, de la nulidad o de divorcio, siempre y cuando no hubiere contraído nuevo matrimonio la excónyuge. Este término se contará en los casos de divorcio o nulidad, después que de hecho quedaren separados los cónyuges.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 288.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+Contra esta presunción se admitirán como prueba las de haber sido físicamente imposible al cónyuge tener relaciones sexuales con su cónyuge, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento, así como aquellas derivadas de las pruebas científicas.
 
 ###### ARTICULO 289.
 
 No basta el dicho de la madre para excluir de la paternidad al marido. Mientras éste viva, únicamente él podrá reclamar contra la filiación del hijo favorecido por las presunciones de paternidad.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 290.
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado o que demuestre que durante los diez meses que precedieron al nacimiento no hubiere tenido acceso carnal con su esposa.
+El cónyuge no podrá desconocer a los hijos, alegando adulterio de la madre, salvo prueba en contrario.
+
+Tampoco se podrá desconocer la paternidad de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de reproducción asistida, si hubo consentimiento expreso en tales métodos.
 
 ###### ARTICULO 291.
 
@@ -1779,15 +1953,7 @@ El marido podrá desconocer al hijo nacido después de trescientos días contado
 
 ###### ARTICULO 292.
 
-El marido no podrá desconocer a un hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
-
-I. Si se probare que supo antes de casarse el embarazo de su futura consorte;
-
-II. Si asistió al levantamiento del acta de nacimiento y ésta fue firmada por él, o si contiene su declaración de no saber firmar;
-
-III. Si ha reconocido expresamente por suyo el hijo de su mujer;
-
-IV. Si el hijo no nació capaz de vivir.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 293.
 
@@ -1813,15 +1979,7 @@ Los herederos del marido, excepto en el caso del artículo anterior, no podrán 
 
 ###### ARTICULO 298.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajera nuevas nupcias dentro del periodo prohibido por esta ley, o hayan pasado trescientos días, la filiación del hijo que naciera después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
-
-I. Se presume que el hijo es del primer marido, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio, y antes de ciento ochenta días de la celebración del segundo;
-
-II. Se presume que el hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
-
-III. El hijo se presume nacido fuera de matrimonio, si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 299.
 
@@ -1833,9 +1991,11 @@ Todo acto de desconocimiento practicado de otra manera es nulo.
 
 Si el hijo no nace vivo o viable, nadie puede entablar demanda sobre la paternidad.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 301.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
+En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino, y en todo caso el Juez atenderá el interés superior del niño.
 
 ###### ARTICULO 302.
 
@@ -1849,51 +2009,65 @@ No puede haber sobre la filiación transacción o compromiso de árbitros.
 
 Puede haber transacción o arbitraje sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran derivarse, sin que las concesiones que se hagan al que se dice hijo, importen la condición de estado de hijo de matrimonio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 305.
 
-Se presumen hijos del concubinario y de la concubina:
+Se presumen hijos de los concubinos:
 
-I. Los nacidos después de ciento ochenta días contados desde que empezó el concubinato;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+l. Los nacidos en cualquier momento desde que inició la vida en común;
 
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la vida en común entre el concubinario y la concubina.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO SEPTIMO. DE LA ADOPCION
 
 ###### ARTICULO 306.
 
-La filiación de los hijos de los cónyuges se prueba con la partida de nacimiento de aquéllos y con el acta de matrimonio de éstos.
+La filiación de los hijos se prueba con el acta de nacimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 307.
 
-A falta de actas o si éstas fueran defectuosas, incompletas, o si hubiese en ellas omisión en cuanto a los nombres y apellidos o fueren judicialmente declaradas falsas, la filiación puede probarse con la posesión de estado de hijo de los cónyuges.
+A falta de acta o si ésta fuera defectuosa, incompleta, o si hubiese en ella omisión en cuanto a los nombres y apellidos o fuere judicialmente declarada falsa, la filiación puede probarse con la posesión de estado de hijo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 308.
 
-En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley autoriza; la sola prueba testimonial no será suficiente para probarlo, si no hubiere un principio de prueba por escrito indicios o presunciones resultantes de hechos ciertos, que se consideren bastantes para determinar su admisión.
+En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley autoriza; en todos los supuestos de hechos jurídicos en que haya dudas, presunciones, afirmaciones falsas, hechos contradictorios o que no han ocurrido, u otros de naturaleza semejante sobre la filiación, la maternidad o paternidad, dentro o fuera del matrimonio o por concubinato o cualquier otro supuesto jurídico semejante, se podrán realizar las pruebas científicas correspondientes, para resolver la controversia de los sujetos involucrados en los conflictos señalados. Quienes no acepten someterse a las pruebas citadas, se tendrán por ciertos los hechos que se les imputen, con todos los alcances legales, como si las pruebas se hubieran realizado y hubieren resultado positivas.
 
-Si uno solo de los registros fuere o estuviere inutilizado y exista duplicado, de éste deberá tomarse la prueba, sin admitirse de otra clase.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+### CAPITULO OCTAVO. DE LA ADOPCION INTERNACIONAL
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 309.
 
-Si hubiere hijos nacidos de dos personas que hubieren vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no puede disputarse a esos hijos su filiación por la sola falta de presentación del acta de matrimonio, siempre que se pruebe esa filiación en los términos preceptuados en los artículos precedentes.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 310.
 
-Si un individuo ha sido reconocido constantemente como hijo de matrimonio por la familia del marido o de la esposa, quedará probada la posesión de estado de hijo de matrimonio, si además concurren algunas de las siguientes circunstancias:
+Si una persona ha sido reconocida constantemente como hijo por la familia del padre o de la madre, quedará probada la posesión de estado de hijo, si además concurren alguna de las siguientes circunstancias:
 
-I. Que el hijo haya usado constantemente el apellido del que es su padre, con anuencia de éste;
+I. Que el hijo haya usado constantemente los apellidos de sus padres, con anuencia de éstos;
 
-II. Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
+II. Que el padre o la madre lo haya tratado como hijo, proveyendo a su subsistencia, educación y establecimiento;
 
-III. Que el presunto padre tenga la edad exigida para contraer matrimonio, más la edad del presunto hijo.
+III. Que los presuntos padres tengan la edad exigida para contraer matrimonio, más la edad del presunto hijo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 311.
 
-Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+La declaración de nulidad de matrimonio; haya habido buena o mala fe en los cónyuges al celebrarlo, no afectará la filiación de los hijos.
 
 ###### ARTICULO 312.
 
@@ -1915,49 +2089,59 @@ V. Los acreedores, legatarios y donatarios tendrán los mismos derechos que la L
 
 Las acciones a que se refieren los párrafos precedentes, prescriben a los cuatro años contados desde el fallecimiento del hijo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 314.
 
-La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
+La posesión de hijo no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
 
 ###### ARTICULO 315.
 
 Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 316.
 
-El matrimonio subsecuente de los padres determina que se tengan como nacidos de matrimonio los hijos concebidos o habidos antes de su celebración.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 317.
 
-Para justificar el hecho a que se refiere el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 318.
 
-Si el hijo fue reconocido por el padre y en el acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales, tampoco se necesita reconocimiento del padre si ya se expresa el nombre de éste en el acta de nacimiento.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 319.
 
-Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebre el matrimonio de sus padres.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 320.
 
-Pueden gozar también del derecho de la legitimación, los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaren descendientes.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 321.
 
-Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
 ###### ARTICULO 322.
 
-La filiación de los hijos cuyos padres no fueren cónyuges resulta, con relación a la madre, del sólo hecho del nacimiento. Para justificar este hecho son admisibles todos los medios de prueba, y en los juicios de intestado o de alimentos, se justificará la filiación respecto de la madre dentro del mismo procedimiento.
+La filiación materna resulta del sólo hecho del nacimiento, si hubiere suposición de parto, suplantación de niño o cualquier conflicto o duda sobre la filiación, podrán realizarse las pruebas científicas correspondientes, además serán admisibles todos los medios de prueba; en los juicios de intestado o de alimentos, se justificará la filiación respecto de la madre dentro del mismo procedimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 323.
 
-Respecto del padre, la filiación se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad; y en el caso de concubinato, se podrá justificar la filiación respecto del padre en el mismo juicio de intestado o de alimentos y será suficiente probar los extremos legales señalados por la ley para demostrar el concubinato. Esta acción es transmisible por herencia e imprescriptible.
+La filiación paterna se establece por el reconocimiento que se haga de los hijos o por una sentencia que declare la paternidad. Si hubiere negativa del presunto padre o cualquier conflicto de duda sobre la filiación, podrán realizarse las pruebas respectivas; y en el caso de concubinato, se podrá justificar la filiación respecto del padre en el mismo juicio de intestado o de alimentos y será suficiente probar los extremos legales señalados por la ley para demostrar el concubinato. Esta acción es transmisible por herencia e imprescriptible.
 
 ###### ARTICULO 324.
 
@@ -1975,9 +2159,11 @@ No obstante, el reconocimiento hecho por un menor es revocable si se prueba que 
 
 Puede reconocerse al hijo que aún no ha nacido y al que ha muerto si ha dejado descendientes; pero en este último caso el que reconoce no tiene derecho a heredar por intestado al reconocido y a sus descendientes ni a recibir alimentos de éstos.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 328.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+Los padres pueden reconocer a su hijo conjunta o separadamente. Aunque el reconocimiento sea posterior al nacimiento, los hijos adquieren todos sus derechos desde la fecha de nacimiento que consta en la primera acta.
 
 ###### ARTICULO 329.
 
@@ -2003,15 +2189,13 @@ IV. Por testamento;
 
 V. Por confesión judicial directa y expresa.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
-
 ###### ARTICULO 332.
 
-Cuando uno de los progenitores reconozca separadamente a un hijo y el otro estuviere legalmente unido en matrimonio con una tercera persona, el que reconoce no podrá revelar el nombre del otro progenitor ni exponer ninguna circunstancia por la que pueda identificársele. Las palabras que contengan esa revelación no constarán en el acta respectiva y si ya aparecieren se testarán de oficio, de modo que quedan absolutamente ilegibles. Para que surta efectos esta disposición, el matrimonio debe haber sido anterior al nacimiento del hijo reconocido y estar subsistente en la fecha del reconocimiento.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 333.
 
-El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el Notario que consienta en la violación del artículo que precede, serán castigados con una multa equivalente a treinta días del salario mínimo vigente.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -2031,11 +2215,11 @@ Si ambos progenitores contrajeron matrimonio entre sí, en el acta de reconocimi
 
 La mujer casada puede reconocer sin consentimiento del esposo, a un hijo habido con persona distinta a éste antes de su matrimonio. Es aplicable lo dispuesto en la parte final del artículo 334.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 337.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo propio por un hombre que no sea su marido, salvo cuando éste lo haya desconocido y se haya declarado, por sentencia firme, que no es hijo suyo. Son aplicables, en lo conducente, las reglas preceptuadas en los artículos 287 al 292 de este Código.
+El hijo de una mujer casada no podrá ser reconocido como hijo propio por un hombre que no sea su cónyuge, salvo cuando éste lo haya desconocido y se haya declarado, por sentencia firme, que no es hijo suyo. Son aplicables, en lo conducente, las reglas preceptuadas en los artículos 287 al 291 de este Código.
 
 ###### ARTICULO 338.
 
@@ -2057,13 +2241,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño a quien le ha dado s
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 343.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria potestad, y en caso de que no lo hicieren, el Juez de Primera Instancia, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia, y en caso de que no lo hicieren, el Juez de lo Familiar, oyendo a los padres, al Ministerio Público y, en su caso, al menor, resolverá atendiendo al interés superior del niño.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 344.
 
-En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público. El Juez competente, velando por los intereses del hijo reconocido, si considera inconveniente que ejerza la patria potestad quien primero lo reconoció, podrá determinar que quede bajo la custodia de quien lo reconoció en segundo término.
+En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no vivan juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de lo Familiar no creyere necesario modificar el convenio por causa grave, con audiencia de los progenitores, del menor y del Ministerio Público. El Juez, velando por los intereses del hijo reconocido, si considera inconveniente que ejerza la custodia quien primero lo reconoció, podrá determinar que quede bajo la custodia de quien lo reconoció en segundo término.
 
 ###### ARTICULO 345.
 
@@ -2079,11 +2267,11 @@ IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido 
 
 V. Cuando el hijo haya recibido alimentos del presunto padre.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 346.
 
-El hijo nacido fuera de matrimonio tiene el derecho de investigar la maternidad, la cual podrá probarse por cualquiera de los medios ordinarios; la indagación será discreta si la presunta madre es mujer casada. Esta restricción no surtirá efectos en los casos de menores que no hayan cumplido doce años de edad y no cuenten con medios de subsistencia; pero será requisito que los representantes legales del menor o el Ministerio Público, en su caso, comprueben que previamente se llevó a cabo una investigación de la paternidad, la cual tuvo por resultado que el presunto progenitor ya había fallecido o que, por sus condiciones de salud física o mental o su notoria insolvencia económica, no puede atender a las necesidades del menor.
+El hijo tiene derecho de investigar la maternidad, la cual podrá probarse por cualquiera de los medios ordinarios; la indagación será discreta si la presunta madre es mujer casada. Esta restricción no surtirá efectos en los casos de menores que no hayan cumplido doce años de edad y no cuenten con medios de subsistencia; pero será requisito que los representantes legales del menor o el Ministerio Público, en su caso, comprueben que previamente se llevó a cabo una investigación de la paternidad, la cual tuvo por resultado que el presunto progenitor ya había fallecido o que, por sus condiciones de salud física o mental o su notoria insolvencia económica, no puede atender a las necesidades del menor.
 
 ###### ARTICULO 347.
 
@@ -2093,21 +2281,29 @@ El hecho de dar alimentos constituye por sí solo una presunción juris-tantum d
 
 Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres. Si los padres hubieren fallecido durante la menor edad de los hijos, éstos tienen derecho de intentar la acción en todo tiempo, siendo imprescriptible para ellos y sus herederos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 349.
 
-El hijo reconocido por el padre, por la madre o por ambos, así como el que haya acreditado su filiación en los términos de esta Ley, tiene derecho:
+El hijo reconocido por el padre, por la madre o por ambos, así como el que haya acreditado su filiación en los términos de este Código, tiene derecho:
 
-I. A llevar el apellido del que lo reconoce, o respecto del cual haya acreditado su filiación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II. A ser alimentado por éste;
+I. A llevar el apellido de sus progenitores o ambos apellidos de quien lo reconozca;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II. A ser alimentado por éstos;
 
 III. A percibir la porción hereditaria que fije la ley en caso de intestado, o los alimentos correspondientes si no fuere instituido heredero, en el caso de la sucesión testamentaria.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 350.
 
-La acción que compete al hijo nacido fuera de matrimonio para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
+La acción que compete al hijo para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ###### ARTICULO 351.
 
@@ -2189,9 +2385,11 @@ El Juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 La adopción procede aun cuando el adoptante o adoptantes tengan hijos, si se acredita plenamente que tienen la solvencia moral y material para formarlos, educarlos y cuidarlos. Aunque sobrevengan hijos al o a los adoptantes, ésta subsistirá.
 
-### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTICULO 365.
 
@@ -2199,11 +2397,11 @@ La adopción puede revocarse:
 
 I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, en los términos establecidos por esta Ley;
 
-II. Por ingratitud del adoptado.
+II. Por ingratitud del adoptado;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-III.- Por maltrato, abandono o costumbres desordenadas, en los términos de la Ley de los Derechos del Niño. La revocación se tramitará de conformidad a lo dispuesto por el Código de Procedimientos Civiles.
+III. Por maltrato, abandono o costumbres desordenadas, en los términos de la Ley Estatal de los Derechos de las Niñas, los Niños y los Adolescentes, así como en los casos de violencia familiar, de acuerdo a lo dispuesto en el artículo 283 bis. de este Código. La revocación se tramitará de conformidad a lo dispuesto por el Código de Procedimientos Civiles.
 
 En este caso, el Ministerio Público, en protección al menor, ordenará la separación inmediata del adoptado; lo pondrá a la protección y cuidado de los ascendientes a los que legalmente les corresponda el ejercicio de la patria potestad; a su falta o impedimento, el menor pasará a la custodia del Sistema Estatal para el Desarrollo Integral de la Familia, y dentro de las veinticuatro horas siguientes pedirá al Juez la revocación de la adopción, quien deberá resolver en un término de setenta y dos horas a partir de la fecha de la solicitud.
 
@@ -2233,13 +2431,41 @@ En el caso de revocación por ingratitud, ésta deja de producir efectos desde q
 
 Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
 
-### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+
+###### ARTICULO 369 Bis.
+
+La adopción internacional es el acto jurídico que celebran personas con residencia habitual fuera del territorio nacional. Esta adopción se regirá por los tratados internacionales ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 369 Ter.
+
+En igualdad de circunstancias se dará preferencia en la adopción a mexicanos respecto de extranjeros.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 369 Quáter.
+
+Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención Sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema Estatal para el desarrollo Integral de la Familia, en su carácter de autoridad central, verifique y determine:
+
+l. Que el menor es adoptable;
+
+II. Que después de haber examinado adecuadamente las posibilidades de colocación del menor, se vea que la adopción es una alternativa y responde al interés superior del niño;
+
+III. Que las personas, instituciones y autoridades, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias de su consentimiento, el cual debe otorgarse libremente, sin que medie pago o compensación de clase alguna y constar por escrito, y
+
+IV. Que las autoridades centrales del Estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos son adecuados y aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 369 Quintus.- Una vez decretada la adopción, el Sistema Estatal para el Desarrollo Integral de la Familia, informará a la Secretaria de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaria de Gobernación, para los efectos legales y administrativos subsecuentes.
 
 ## TITULO CUARTO. DE LA PATRIA POTESTAD
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
-
-EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
 
 ###### ARTICULO 370.
 
@@ -2253,11 +2479,13 @@ Los menores de edad no emancipados están bajo la patria potestad, mientras exis
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 373.
 
-Su ejercicio quedará sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las Leyes aplicables.
+Su ejercicio quedará sujeto en cuanto a la custodia y educación de los niños, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables y, en su caso, a las que convengan las partes como resultado de un procedimiento de mediación.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 Salvo circunstancias excepcionales, no deberá separarse al niño menor de diez años de su madre.
 
@@ -2271,13 +2499,15 @@ II. Por el abuelo y abuela paternos;
 
 III. Por el abuelo y abuela maternos;
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-En los casos señalados en las fracciones II y III de este artículo no se establece un orden de prelación y se elegirá para el ejercicio de la patria potestad a quienes por su solvencia y reputación, resulten los más idóneos.
+En los casos señalados en las fracciones II y III de este artículo no se establece un orden de prelación y el Juez, en resolución motivada, podrá alterarlo atendiendo al interés superior del niño.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 375.
 
-Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad; si vivieren separados, por el primero que lo reconoció, a juicio del Juez, según lo dispuesto en esta Ley en el Capítulo relativo a la Filiación Natural.
+Cuando los dos progenitores han reconocido al hijo y viven juntos, ejercerán ambos la custodia; si vivieren separados, la custodia compartida será preferente, cuando se atienda al interés superior del niño, salvo circunstancias especiales que se analizarán según lo dispuesto en los artículos 343 y 344 de este Código.
 
 ###### ARTICULO 376.
 
@@ -2297,15 +2527,17 @@ Solamente por falta o impedimento del padre y de la madre, la patria potestad co
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan sin permiso de ellos o decreto de la Autoridad competente.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 380.
 
-Las personas que tienen al hijo bajo la patria potestad deben educarlo y corregirlo con respeto a su dignidad; por tanto, quedan prohibidos los castigos corporales e infamantes.
+Las personas que tienen al hijo en custodia, deben educarlo y corregido con respeto a su dignidad; por tanto, queda prohibido todo tipo de violencia en los términos de lo dispuesto por el artículo 283 bis y demás relativos de este Código.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 381.
 
-Las Autoridades, en caso necesario, auxiliarán a los titulares de la patria potestad en el ejercicio de ésta y de las demás facultades que la Ley les concede, haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
+Las Autoridades, en caso necesario, auxiliarán a los titulares, de la custodia en el ejercicio de ésta y de las demás facultades que la Ley les concede, haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente. Las diferencias surgidas con motivo de la custodia de los hijos menores de edad o de la regulación del régimen de convivencia, podrán ser resueltas mediante convenio que se obtenga de un procedimiento de mediación.
 
 ###### ARTICULO 382.
 
@@ -2319,7 +2551,9 @@ Las personas señaladas en las fracciones II y III del artículo 374 de este Có
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO SEXTO. DE LA TUTELA DATIVA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
+
+EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 384.
 
@@ -2405,7 +2639,7 @@ Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, p
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
 
 ###### ARTICULO 401.
 
@@ -2425,21 +2659,25 @@ I. Cuando el que la ejerce es condenado expresamente a la pérdida de ese derech
 
 II. En los casos de divorcio, teniendo en cuenta lo establecido al efecto por esta ley;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-III. Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la ley penal, tomando en cuenta lo dispuesto por la legislación de los derechos del niño;
+III. Cuando por las costumbres depravadas de quienes la ejerzan, violencia familiar, incumplimiento de las obligaciones alimentarias o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la ley penal; tomando en cuenta lo dispuesto por la legislación de los derechos del niño;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
 
 IV. La exposición por los que la ejercen; o los dejen abandonados por más de seis meses, si quedaran a cargo de alguna persona, considerando lo señalado en la fracción V del artículo 359 de este Código.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 403.
 
-La madre o la abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
+Cuando los que ejerzan la patria potestad contraigan segundas nupcias no perderán por este hecho los derechos y obligaciones inherentes a la patria potestad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 404.
 
-El nuevo marido no ejercerá la patria potestad sobre los hijos o nietos del matrimonio anterior.
+El nuevo cónyuge o concubino no ejercerá la patria potestad sobre los hijos o nietos de la unión anterior.
 
 ###### ARTICULO 405.
 
@@ -2449,7 +2687,15 @@ I. Por incapacidad declarada judicialmente;
 
 II. Por la ausencia declarada en forma;
 
-III. Por sentencia condenatoria que imponga como pena esa suspensión.
+III. Por sentencia condenatoria que imponga como pena esa suspensión;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV. Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o la vida de el ó los descendientes menores por parte de quien conserva la patria potestad, o
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+V. Por no permitir que se lleve a cabo la visita o convivencia decretadas por autoridad competente o en convenio aprobado judicialmente.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -2461,9 +2707,17 @@ I. Que trate, de palabra y/o de obra, a los que están sujetos a ella con injust
 
 II. Que de manera intencional o por negligencia, propicie que su educación sea física, intelectual o socialmente inadecuada;
 
-III. Que les imponga o fomente hábitos que puedan dañar su salud física o mental; y
+III. Que les imponga o fomente hábitos que puedan dañar su salud física o mental; y (sic)
 
-IV. Que incurra frecuentemente en actos y formas de conducta que impliquen malos ejemplos o que puedan contribuir a su corrupción.
+IV. Que incurra frecuentemente en actos y formas de conducta que impliquen malos ejemplos o que puedan contribuir a su corrupción;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+V. Que realice cualquier acto de violencia familiar, de acuerdo a lo dispuesto en el artículo 283 bis, de este Código, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VI. Que incumpla con sus obligaciones alimentarias.
 
 Las causales previstas en las fracciones II y III se tendrán por configuradas cuando quienes ejercen la patria potestad permitan intencionadamente que los que están sujetos a ella tengan acceso, libre y reiteradamente, a publicaciones o materiales audiovisuales cuyo contenido esté clasificado como exclusivo para adultos.
 
@@ -2477,11 +2731,11 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TITULO QUINTO. DE LA TUTELA
 
-### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 408.
 
-La tutela es la institución de derecho de familia que tiene por objeto la guarda de la persona y bienes de los que, no estando sujetos a patria potestad, tienen incapacidad natural y legal, o solamente la segunda para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapacitado en los casos especiales que señala la Ley. En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las Leyes aplicables.
+La tutela es la institución de derecho de familia que tiene por objeto la guarda de la persona y bienes de los que, no estando sujetos a patria potestad, tienen incapacidad natural y legal, o solamente la segunda para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapacitado en los casos especiales que señala la Ley. En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los niños, a las modalidades que le impriman las resoluciones que dicte el juez, de acuerdo con las Leyes aplicables; y a las que convengan como resultado de un procedimiento de mediación.
 
 ###### ARTICULO 409.
 
@@ -2581,9 +2835,7 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
-
-PARA ASEGURAR SU MANEJO
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 428.
 
@@ -2635,7 +2887,9 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
+
+PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 440.
 
@@ -2653,6 +2907,10 @@ I. A los hermanos, prefiriendo a los que lo sean por ambas líneas;
 
 II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado, inclusive.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+El Juez, en resolución motivada, podrá alterar el orden anterior atendiendo al interés superior del niño.
+
 ###### ARTICULO 442.
 
 Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo; si el menor hubiere cumplido catorce años, él hará la elección.
@@ -2663,7 +2921,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 1992)</small>
 
-### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 444.
 
@@ -2689,7 +2947,7 @@ A falta de tutor testamentario y de persona que con apego a los artículos anter
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
-### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 450.
 
@@ -2703,7 +2961,7 @@ Los directores de los hospitales y demás instituciones de beneficencia, donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 453.
 
@@ -2767,7 +3025,7 @@ Si el menor sujeto a tutela dativa en los términos establecidos en este Capítu
 
 Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
 
-### CAPITULO DECIMO CUARTO. DEL CURADOR
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 463.
 
@@ -2845,7 +3103,7 @@ En el caso de que se trata en el artículo anterior, se proveerá a la tutela co
 
 Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
 
-### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+### CAPITULO DECIMO CUARTO. DEL CURADOR
 
 ###### ARTICULO 471.
 
@@ -2893,7 +3151,7 @@ El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la 
 
 Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
 
 ###### ARTICULO 479.
 
@@ -2977,7 +3235,7 @@ Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por
 
 El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
-### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
 
 ###### ARTICULO 493.
 
@@ -3247,7 +3505,7 @@ En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitad
 
 Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
 
-### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 547.
 
@@ -3323,7 +3581,7 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 563.
 
@@ -3337,7 +3595,7 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
 
 La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
 
-### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 565.
 
@@ -3391,7 +3649,7 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 578.
 
@@ -3467,9 +3725,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
-
-DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 594.
 
@@ -3503,7 +3759,9 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
+
+DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 601.
 
@@ -3561,7 +3819,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes y tiene capaci
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO UNICO
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 610.
 
@@ -3669,7 +3927,7 @@ Cada seis meses, en el día correspondiente al que hubiere sido nombrado el repr
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
 
-### CAPITULO PRIMERO
+### CAPITULO UNICO
 
 ###### ARTICULO 632.
 
@@ -3717,7 +3975,7 @@ La declaración de ausencia se publicará por una vez en el Periódico Oficial y
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
 
-### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+### CAPITULO PRIMERO
 
 ###### ARTICULO 641.
 
@@ -3797,7 +4055,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
 
-### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
 
 ###### ARTICULO 659.
 
@@ -3815,7 +4073,7 @@ Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuvi
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO CUARTO. DE LA PROTECCION DE LOS INVALIDOS, NIÑOS Y ANCIANOS
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
 
 ###### ARTICULO 663.
 
@@ -3871,7 +4129,9 @@ La sentencia que declare la presunción de muerte de uno de los cónyuges, termi
 
 En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
 
-### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 674.
 
@@ -3892,6 +4152,8 @@ Lo dispuesto en los artículos anteriores, debe entenderse sin perjuicio de las 
 ###### ARTICULO 678.
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, o sus acciones no sean ejercitadas por sus representantes o por sus causahabientes.
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
 
 ###### ARTICULO 679.
 
@@ -4015,11 +4277,13 @@ Sólo puede constituirse el patrimonio de familia con bienes sitos en el lugar d
 
 Cada familia sólo puede constituir un patrimonio.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 694.
 
-El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general más alto vigente en la entidad, elevado al año, en la fecha en que se constituya el patrimonio, el que será susceptible de incremento periódico, en la medida en que se aumente el salario mínimo general.
+El valor máximo de los bienes afectados al patrimonio de familia será de sesenta mil cuotas de salario mínimo general vigente en la entidad, en la fecha en que se constituya el patrimonio, el que será susceptible de incremento periódico, en la medida en que se aumente el salario mínimo general.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 Para determinar el valor de los bienes que constituyan el patrimonio de familia se atenderá a lo dispuesto en el artículo 451 del Código de Procedimientos Civiles.
 
@@ -4089,13 +4353,19 @@ Al celebrarse el matrimonio, la mujer elegirá el nombre que como casada usará.
 
 La mujer puede optar por los siguientes nombres:
 
-I. Conservar su apellido de soltera;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II. Agregar al suyo el de su marido.
+I. Conservar su apellido propio;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II. Agregar al suyo el de su cónyuge.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 706.
 
-En caso de no haber declaración expresa, la mujer adoptará el apellido del marido.
+En caso de no haber declaración expresa, la mujer conservará su nombre y apellidos propios.
 
 ###### ARTICULO 707.
 
@@ -4109,9 +4379,11 @@ Cuando un matrimonio se disuelva por divorcio o nulidad, ejecutoriada la sentenc
 
 Si a la muerte del esposo, la viuda llevaba el apellido de él, podrá seguir usándolo si así lo desea.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 710.
 
-Si la viuda usaba su apellido de soltera, continuará con éste, sin tener derecho a cambiarlo por el de su difunto esposo.
+Si la viuda usaba su apellido propio, continuará con éste, sin tener derecho a cambiarlo por el de su difunto esposo.
 
 ###### ARTICULO 711.
 
@@ -4235,13 +4507,17 @@ Cuando los Consejos de Familia tengan conocimiento, de que un cónyuge abandonó
 
 Los Consejos de Familia vigilarán la integración familiar, mediante programas de orientación, dando a conocer a las autoridades competentes la existencia de algún problema.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 728.
 
-Los inválidos, niños y ancianos, tienen derecho a la protección integral por cuenta y a cargo de su familia.
+Las personas con discapacidad, niños y adultos mayores, tienen derecho a la protección integral por cuenta y a cargo de su familia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 729.
 
-El Gobierno del Estado, deberá dar protección social y asistencia a los niños, enfermos, desvalidos y ancianos.
+El Estado, deberá dar protección social y asistencia a los niños, enfermos, a las personas con discapacidad y adultos mayores en situación de desamparo.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -4249,29 +4525,31 @@ El Gobierno del Estado, deberá dar protección social y asistencia a los niños
 
 Todo niño abandonado por sus padres y/o familiares, por causa de enfermedad o prisión, o como consecuencia de conducta irresponsable, quedará bajo la protección y cuidado del Sistema Estatal para el Desarrollo Integral de la Familia. La misma atención se prestará a los menores huérfanos de padre y madre que carezcan de los otros familiares que, de acuerdo con las disposiciones de este Código, estarán obligados a proporcionarles los medios indispensables para su subsistencia.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 731.
 
-Para cumplir con sus objetivos en materia de atención a los menores, el Sistema Estatal para el Desarrollo Integral de la Familia tendrá las siguientes funciones:
+Para cumplir con sus objetivos en materia de atención a los niños, a las personas con discapacidad y adultos mayores, el Sistema Estatal para el Desarrollo Integral de la Familia tendrá las siguientes funciones:
 
-I. Custodiar por el tiempo que sea necesario a los menores que carezcan de hogar o que sean expuestos en la vía pública;
+I. Custodiar por el tiempo que sea necesario a los niños, personas con discapacidad y adultos mayores que carezcan de hogar o que sean expuestos en la vía pública;
 
-II. Tramitar, por conducto de los Consejos Familiares o del Ministerio Público, en su caso, la regularización de la situación legal de los menores que estén bajo su custodia o que no tengan quien los represente;
+II. Tramitar, por conducto del Ministerio Público, en su caso, la regularización de la situación legal de los niños, personas con discapacidad o adultos mayores que estén bajo su custodia o que no tengan quien los represente;
 
-III. Procurar, con medios propios o en coordinación con otras instituciones privadas o públicas, municipales, estatales o federales, que se proporcione a los menores la asistencia social necesaria para protegerlos del abandono, evitar su explotación y encauzar su rehabilitación cuando sufran invalidez física, mental o moral; y
+III. Procurar, con medios propios o en coordinación con otras instituciones privadas o públicas, municipales, estatales o federales, que se proporcione a los niños, a las personas con discapacidad o adultos mayores asistencia social necesaria para protegerlos del abandono, evitar su explotación y encauzar su rehabilitación cuando sufran discapacidad física o mental; y
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+IV. Informar al Consejo Estatal de los Derechos del Niño sobre la situación de los niños, bajo su custodia y posterior a la misma.
 
-IV. Informar al Consejo Estatal de los Derechos del Niño sobre la situación de los menores bajo su custodia y posterior a la misma.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 732.
 
-La protección de ancianos e inválidos desamparados, se llevará a cabo por el Sistema Estatal para el Desarrollo Integral de la Familia.
+La protección de los adultos mayores y personas con discapacidad, desamparados, se llevará a cabo por el Sistema Estatal para el Desarrollo Integral de la Familia con asesoría de la Comisión Estatal para la Integración Social de las Personas con Discapacidad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 733.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, para cumplir con los fines de esta Ley, procurará crear instituciones, en donde los ancianos e inválidos vivan, cuando carezcan de familia que les brinde protección o no posean los medios necesarios para hacerlo, procurarles atención médica; y procurar la construcción de Centros de Rehabilitación necesarios para lograr el restablecimiento de los enfermos.
+El Sistema Estatal para el Desarrollo Integral de la Familia y la Comisión Estatal para la Integración Social de las Personas con Discapacidad, para cumplir con los fines de este Código, podrán crear instituciones, en donde los adultos mayores y personas con discapacidad vivan, cuando carezcan de familia que les brinde protección o no posean los medios necesarios para hacerlo, gestionarles atención médica; y procurarán la construcción de Centros de Rehabilitación necesarios para lograr el restablecimiento de los mismos.
 
 ###### ARTICULO 734.
 
@@ -4410,3 +4688,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este decreto.
+
+Artículo tercero.- La titular del Ejecutivo dentro de los noventa días siguientes a la entrada en vigor de este instrumento legislativo, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento del Registro Civil.
+
+Artículo cuarto.- Los juicios iniciados con anterioridad a la vigencia del presente decreto, deberán concluirse de conformidad con las disposiciones vigentes al momento de su interposición.
