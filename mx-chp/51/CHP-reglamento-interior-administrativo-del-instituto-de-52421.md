@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-administrativo-del-instituto-de-52421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2006-10-18"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR ADMINISTRATIVO DEL ISSTECH
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE CHIAPAS: 18 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE CHIAPAS: 3 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 15 de junio de 2005.
 
@@ -300,17 +300,21 @@ VIII.- Organizar, dar seguimiento y mantener actualizados los estados de cuenta 
 
 IX.- Las demás que le confieran las disposiciones legales aplicables, el Manual General de Organización y las que le encomiende la Dirección General y/o la Subdirección General en la esfera de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 16.
 
 De conformidad con la estructura orgánica del Instituto, la Subdirección de Servicios Médicos contará con los órganos administrativos siguientes:
 
 Coordinación de Unidades Médicas.
 
+Enseñanza e Investigación.
+
 Departamento de Medicina Preventiva.
 
 Departamento de Atención Médica.
 
-Departamento de Planeación Médica y Epidemiológica.
+Departamento de Planeación Médica y Epidemiología.
 
 ###### Artículo 17.
 
@@ -626,25 +630,25 @@ VII.- Ejecutar las sanciones administrativas a que se hagan acreedores los traba
 
 VIII.- Las demás funciones que les atribuyan las disposiciones legales aplicables; el Manual General de Organización y la Subdirección de Área o Coordinación correspondiente, de acuerdo a su capacidad instalada y dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 34.
 
 De conformidad con la estructura orgánica del Instituto, éste contará con los órganos desconcentrados siguientes:
 
+Hospital de Especialidades "Vida Mejor”.
+
 Clínicas Hospitales.
 
-Clínica de Consulta Externa Tuxtla.
+Clínica de Consulta Externa “Tuxtla".
 
 Coordinaciones Médicas Regionales.
 
-Casas Clínicas Geriátricas.
+Casas Geriátricas.
 
-Centro Deportivo y Cultural Tuxtla.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2006)</small>
+Centro Deportivo y Cultural "Tuxtla".
 
 Unidad Deportiva ISSTECH.
-
-Oficinas de Enlace.
 
 ###### Artículo 35.
 
@@ -728,13 +732,17 @@ XI.- Formular y vigilar el cumplimiento del Programa Operativo Anual de la Coord
 
 XII.- Las demás que les señale el Manual General de Organización y demás normatividad aplicable, así como su superior inmediato, en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 38.
 
-Además de lo señalado en el artículo 33, del presente reglamento, los titulares de las Casas Clínicas Geriátricas tendrán las facultades y obligaciones siguientes:
+Además de lo señalado en el artículo 33, del presente reglamento, los titulares de las Casas Geriátricas tendrán las facultades y obligaciones siguientes:
 
 I.- Planear, dirigir y controlar las diferentes actividades sociales, culturales, recreativas y deportivas, que contribuyan a mejorar la calidad de vida del adulto mayor y lograr una mejor integración de los mismos, sean éstos derechohabientes, pensionados o jubilados del Instituto.
 
-II.- Difundir los programas y servicios para los adultos mayores que ofrece la Casa Clínica Geriátrica, entre los derechohabientes de los distintos sectores.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II.- Difundir los programas y servicios para los adultos mayores que ofrece la Casa Geriátrica, entre los derechohabientes de los distintos sectores.
 
 III.- Formular programas dinámicos aplicables al campo de la Geriatría, en beneficio de los adultos mayores.
 
@@ -742,11 +750,15 @@ IV.- Establecer comunicación con grupos particulares o instituciones que trabaj
 
 V.- Diseñar mecanismos adecuados para el control de los diversos servicios que se proporcionan a los derechohabientes, jubilados y pensionados en la etapa de adulto mayor.
 
-VI.- Supervisar el buen funcionamiento de las instalaciones, así como el mantenimiento preventivo y correctivo del equipo técnico de la Casa Clínica Geriátrica.
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)VI.- Supervisar el buen funcionamiento de las instalaciones, así como el mantenimiento preventivo y correctivo del equipo técnico de la Casa Geriátrica.
 
-VII.- Formular y vigilar el cumplimiento del Programa Operativo Anual de la Casa Clínica Geriátrica.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-VIII.- Las demás que les señale el Manual General de Organización y demás normatividad aplicable, así como su superior inmediato, en el ámbito de su competencia.
+VII.- Formular y vigilar el cumplimiento del Programa Operativo Anual de la Casa Geriátrica.
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VIII.- Las demás que le señalen el Manual General de Organización y demás normatividad aplicable, así como su superior inmediato, en el ámbito de su competencia.
 
 ###### Articulo 39.
 
@@ -875,5 +887,9 @@ Nelda Rosa Camacho Alayola, Secretaria de Administración en representación del
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 18 DE OCTUBRE DE 2006.
+
+Artículo Único.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2007.
 
 Artículo Único.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
