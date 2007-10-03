@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2007-08-27"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -589,6 +589,8 @@ El juzgador, tomando en cuenta las circunstancias del delito y las propias del d
 
 ### CAPITULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 #### SECCION TERCERA. CONSECUENCIAS PARA LAS PERSONAS MORALES
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS Y PRETERINTENCIONALES
@@ -627,7 +629,35 @@ La disolución consistirá en la conclusión definitiva de toda actividad social
 
 ###### ARTICULO 75.
 
-El juez fijará la pena o medida de seguridad que estime justa dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del delito realizado; la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima en la medida en que hayan influido en la realización del delito; y todas las circunstancias que hayan determinado la gravedad del hecho y la culpabilidad del sujeto.
+El juez fijará la pena o medida de seguridad que estime justa y la individualizará dentro de los límites señalados para cada delito, con base a la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
+
+I.- La naturaleza de la acción u omisión y los medios empleados para ejecutarlo;
+
+II.- La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
+
+III.- Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado
+
+IV. La forma y grado de intervención del agente en la comisión del delito; los vínculos de parentesco, amistad o relación entre el activo y el pasivo, así como su calidad y la de la víctima u ofendido;
+
+V.- La edad, el nivel de educación, las costumbres, condiciones sociales, económicas y culturales del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado pertenezca a un grupo étnico o pueblo indígena, se tomarán en cuenta, además, sus usos y costumbres;
+
+VI.- Las condiciones fisiológicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito;
+
+VII.- El comportamiento posterior del agente con relación al delito cometido; y,
+
+VIII.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando hayan influido en ésta.
+
+Para la adecuada aplicación de las penas y medidas de seguridad, el Juez deberá tomar conocimiento, directo del sujeto, de la víctima y de las circunstancias del hecho.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 75 BIS.- Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este código, siempre que no se trate de un delito grave.
+
+Si no se trata de un delito grave y el inculpado al rendir su declaración preparatoria confiesa espontánea, lisa y llanamente los hechos que se le imputan, o en el mismo acto ratifica la declaración rendida en indagatoria, el juzgador podrá reducir hasta en un tercio la pena que le correspondería conforme a este código.
+
+Para los efectos de este artículo, el juez sólo podrá aplicar una sola de las reducciones anteriormente señaladas.
+
+La sentencia que reduzca la pena en los términos del primero y segundo párrafo de este artículo, deberá ser confirmada por el tribunal de alzada correspondiente, para que surta efectos. Entretanto, la pena se entenderá impuesta sin la reducción autorizada por este artículo.
 
 Cuando se trate de punibilidad alternativa, el juzgador podrá imponer, motivando su resolución, la sanción privativa de la libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
 
@@ -1305,7 +1335,13 @@ III.- Obligar al sujeto pasivo o a persona distinta relacionada con él, a reali
 
 IV.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
 
-(ADICIONADO, P.O. 11 DE AGOSTO DE 2006).
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2006)</small>
+
+ARTICULO 167 BIS.- Comete el delito de privación de la libertad en su modalidad de secuestro instantáneo, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 201 y 231 de este Código o para obtener algún beneficio económico.
+
+Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001|)</small>
 
 ###### ARTICULO 167 Bis.
 
@@ -1727,9 +1763,7 @@ Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las 
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-###### ARTICULO 207 Bis.
-
-Se impondrán las mismas penas del artículo anterior al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
+ARTICULO 207 BIS.- Se impondrán las mismas penas del artículo anterior al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
 
 I.- Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes;
 
@@ -1759,7 +1793,7 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento de la persona que
 
 ### CAPITULO I BIS. VIOLENCIA INTRAFAMILIAR
 
-(REFORMADO, P.O. 11 DE AGOSTO DE 2006).
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
 
 ARTICULO 241 BIS.- Por violencia intrafamiliar debe entenderse cualquier acción u omisión que de manera directa e indirecta causare daño o sufrimiento físico, sexual, psicológico o patrimonial, a persona integrante del grupo familiar, por parte de pariente consanguíneo, en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, concubina o concubinario, cónyuge o excónyuge o con quien se haya procreado hijos.
 
@@ -1791,6 +1825,8 @@ Esta disposición no será aplicable cuando el delito tenga carácter federal, p
 
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 212.
 
 Al que con perjuicio de alguien, disponga para si o para otro, de cualquier cosa mueble ajena, de la que se le haya transmitido la tenencia pero no el dominio, se le impondrá las siguientes penas:
@@ -1811,7 +1847,7 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 ### CAPITULO III. TRAFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 214.
 
@@ -2055,7 +2091,7 @@ Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea
 
 ###### ARTICULO 242.
 
-Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de dos a cuatro años y de veinte a sesenta días multa.
+Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de tres a seis años y de cincuenta a doscientos días multa.
 
 Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, se impondrá de uno a tres años.
 
@@ -2065,7 +2101,7 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los seis d�
 
 ###### ARTICULO 243.
 
-Al que con o sin el consentimiento de quien ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva o cualquier otro fin, a cambio de un beneficio económico, se le aplicará prisión de dos a diez años y de cien a seiscientos días multa.
+Al que con o sin el consentimiento de quien ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva o cualquier otro fin, a cambio de un beneficio económico, se le aplicará prisión de cuatro a doce años y de doscientos a seiscientos días multa.
 
 Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo y al tercero que reciba el menor.
 
@@ -2101,7 +2137,7 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES E INCAPACES, PORNOGRAFIA INFANTIL Y PROSTITUCION DE MENORES
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 245.
 
@@ -2303,9 +2339,11 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ###### ARTICULO 273.
 
-Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad o al consumo de bebidas embriagantes; lo estimule o induzca a formar parte de una asociación delictuosa, a pertenecer a la delincuencia organizada o a cometer cualquier delito, se le impondrá de cinco a diez años de pena privativa de la libertad y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
+Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos encaminados a su perversión sexual, o impulsándolo a la práctica de la prostitución, la mendicidad o al consumo de bebidas embriagantes; lo estimule o induzca a formar parte de una asociación delictuosa, a pertenecer a la delincuencia organizada o a cometer cualquier delito, se le impondrá de cinco a doce años de prisión y de quinientos a setecientos días multa, y se le inhabilitará para ser tutor o curador.
 
-Las mismas penas se impondrán al que fomente, procure, propicie, posibilite, promueva, favorezca o facilite el consumo de narcóticos por un menor de dicha edad o de cualquier forma le haga entrega de los mismos, sin perjuicio de las consecuencias jurídicas que pudieran corresponderle si resultare de otros delitos.
+Al que induzca, fomente, procure, propicie, posibilite, promueva, favorezca o facilite el consumo de narcóticos por un menor de dicha edad o, de cualquier forma le haga entrega de los mismos, se le impondrá de seis a catorce años de prisión y de setecientos a mil días multa, sin perjuicio de las consecuencias jurídicas que pudieran corresponderle si resultare la comisión de otros delitos.
+
+Si el delito es cometido con un menor de doce años de edad, las penas se aumentarán hasta en una mitad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -2317,27 +2355,37 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto, se considerará que es empleado, el menor de edad que preste sus servicios por un salario, o cualquier otra prestación.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-ARTICULO 274 BIS.- Al que procure, facilite, obligue o induzca por cualquier medio a uno o más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos por cualesquier medio, con o sin el ánimo de obtener un lucro, se le impondrán de cinco a diez años de prisión y de quinientos a mil días multa.
+ARTICULO 274 BIS.- Al que procure, facilite, obligue o induzca por cualquier medio a uno o más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto y fin de videograbarlos, fotografiarlos o exhibirlos por cualesquier medio, con o sin el ánimo de obtener un lucro, se le impondrán de seis a doce años de prisión y de setecientos a mil días de multa.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 Al que por cualquier medio fije, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años se le impondrá la pena de ocho a catorce años de prisión y de quinientos a mil días multa. La misma pena se impondrá a quien con fines de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, publicite, distribuya o transmita el material a que se refieren las acciones anteriores.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
 Se impondrá prisión de ocho a dieciséis años y de ochocientos a mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí o a través de terceros, dirija, administre o supervise cualquier tipo de asociación con el propósito que se realicen las conductas previstas en los dos párrafos anteriores.
 
-Si el delito es cometido con un menor de doce años de edad las penas se aumentarán hasta una tercera parte.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+Si el delito es cometido con un menor de doce años de edad, las penas se aumentarán hasta en una mitad.
 
-ARTICULO 274 BIS A.- Al que promueva, facilite, consiga o entregue a una persona menor de dieciocho años de edad, para que ejerza la prostitución dentro o fuera del territorio de la Entidad, se le impondrá prisión de cinco a doce años y de cien a mil días multa.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+ARTICULO 274 BIS A.- Al que promueva, facilite, consiga o entregue a una persona menor de dieciocho años de edad, para que ejerza la prostitución dentro o fuera del territorio de la entidad, se le impondrá prisión de seis a catorce años y de doscientos a mil días multa.
 
-ARTICULO 274 BIS B.- Las penas previstas en los artículos 274 Bis y 274 Bis A se aumentarán hasta una mitad cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil con la víctima, sea su tutor o curador o habite en el mismo domicilio con ella, aunque no existiera parentesco alguno; asimismo perderá la patria potestad respecto del ofendido y el derecho que pudiera tener respecto a los bienes de éste, en su caso.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+ARTICULO 274 BIS B.- Las penas previstas en los artículos 273, 274 Bis y 274 Bis A se aumentarán hasta una mitad cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil con la víctima, sea su tutor o curador o habite en el mismo domicilio con ella, aunque no existiera parentesco alguno; asimismo perderá la patria potestad respecto del ofendido y el derecho que pudiera tener respecto a los bienes de éste, en su caso.
 
-ARTICULO 274 BIS C.- Si en la comisión de los delitos previstos en este capítulo se emplease la violencia, o el agente se valiese de la función pública que desempeña o aproveche los medios o circunstancias que le proporciona la profesión, oficio o cargo que ejerza, la pena se agravará en una mitad más y se le destituirá del empleo, cargo o comisión pública e inhabilitará para ocupar o ejercer otro similar, o se le suspenderá en el ejercicio de la profesión, según sea el caso.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 274 BIS C.- Si en la comisión de los delitos previstos en este capítulo se emplease la violencia, o el agente se valiese de la función pública que desempeña o aproveche los medios o circunstancias que le proporciona la profesión, oficio o cargo que ejerza, la pena se agravará en dos terceras partes más y se le destituirá del empleo, cargo o comisión pública e inhabilitará para ocupar o ejercer otro similar, o se le suspenderá en el ejercicio de la profesión, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 274 BIS D.- Al que teniendo conocimiento directo de la comisión de alguna de las conductas de corrupción o explotación de menores, de pornografía infantil o de prostitución de menores tipificadas en el presente capítulo, no las denuncie ante las autoridades preventivas o investigadoras de los delitos, se les impondrán de tres meses a un año de prisión o de cincuenta a doscientos días multa.
 
 ### CAPITULO V. INTIMIDACION
 
@@ -3374,3 +3422,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE AGOSTO DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+DECRETO NÚMERO 648, POR EL QUE SE REFORMA EL ARTÍCULO 75 Y SE ADICIONA EL ARTÍCULO 75 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+DECRETO NÚMERO 649, POR EL QUE SE REFORMAN LOS ARTÍCULOS 242, PRIMER PÁRRAFO; 243, PRIMER PÁRRAFO; 273; 274 BIS, PRIMER Y ÚLTIMO PÁRRAFOS; 274 BIS A; 274 BIS B; 274 BIS C; Y SE ADICIONA UN ARTÍCULO 274 BIS D AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
