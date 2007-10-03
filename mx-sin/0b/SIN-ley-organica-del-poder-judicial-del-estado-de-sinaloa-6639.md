@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2007-08-27"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -1087,9 +1087,13 @@ Las horas de despacho del Poder Judicial del Estado, serán comprendidas entre l
 
 Las dependencias del Poder Judicial del Estado permanecerán abiertas todos los días hábiles del año durante el horario fijado en el artículo anterior.
 
-Son días hábiles todos los del año, con excepción de sábados y domingos, los días primero de enero, cinco de febrero, veintiuno de marzo, primero de mayo, dieciséis de septiembre, veinte de noviembre y veinticinco de diciembre.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-El Supremo Tribunal en Pleno podrá acordar que se suspendan las labores hasta por tres días hábiles consecutivos.
+Son días hábiles todos los del año, con excepción de sábados y domingos; los días primero de enero; primer lunes de febrero, en conmemoración del cinco de febrero; tercer lunes de marzo, en conmemoración del veintiuno de marzo; primero de mayo; dieciséis de septiembre; tercer lunes de noviembre, en conmemoración del veinte de noviembre; y veinticinco de diciembre.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+El Supremo Tribunal en Pleno podrá acordar que se suspendan las labores hasta por cinco días hábiles consecutivos,
 
 De igual manera, podrá acordar suspensión de labores por dos veces al año hasta por once días hábiles cada ocasión, para efectos de vacaciones.
 
@@ -1208,3 +1212,9 @@ P.O. 27 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial" El Estado de Sinaloa".
