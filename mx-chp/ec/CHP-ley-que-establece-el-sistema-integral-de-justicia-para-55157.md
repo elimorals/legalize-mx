@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-sistema-integral-de-justicia-para-55157"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-07"
-last_updated: "2007-03-07"
+last_updated: "2007-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -97,57 +97,113 @@ III. Tratados internacionales, a los pactos, tratados, convenios, convenciones y
 
 IV. Leyes penales, a cualquier ordenamiento emitido de conformidad con la legislación aplicable que tipifique un acto u omisión como delito;
 
-V. Ley, a la Ley que establece el Sistema Integral de Justicia para adolescentes en el Estado de Chiapas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-VI. Adolescentes, a las personas que tengan entre 12 años cumplidos a 18 años cumplidos;
+V. Código, la normatividad interna que rige al Poder Judicial del Estado de Chiapas;
 
-VII. Menor, a toda persona que tenga menos de 18 años de edad;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-VIII. Niño o Niña, a las personas que tengan menos de doce años de edad;
+VI. Ley, a la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas;
 
-IX. Victima u ofendido, a la persona cuyos derechos o bienes hayan sido afectados por la conducta típica del adolescente;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-X. Comisión de Prevención, a la Comisión Especial de Prevención de Conductas Ilícitas de Adolescentes del Consejo Estatal de Seguridad Pública;
+VII. Adolescentes, a las personas que tengan entre 12 años cumplidos a 18 años cumplidos;
 
-XI. Secretaría, a la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XII. Fiscalía Especializada, a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por los Adolescentes, de la Fiscalía General del Estado;
+VIII. Menor, a toda persona que tenga menos de 18 años de edad;
 
-XIII. Fiscal Titular Especializado, al Fiscal a cargo de la Fiscalía Especializada para la Atención de delitos cometidos por los Adolescentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XIV. Fiscales Especializados, a los Fiscales del Ministerio Público adscritos a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por adolescentes;
+IX. Niño o Niña, a las personas que tengan menos de 12 años de edad;
 
-XV. Ministerio Público, al Fiscal del Ministerio Público de fuero común adscrito a la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XVI. Agente Especializado, al Agente Especializado en delitos cometidos por Adolescentes, de la Agencia Estatal de la Investigación adscrito a la Fiscalía Especializada para la Atención de Menores;
+X. Víctima u ofendido, a la persona cuyos derechos o bienes hayan sido afectados por la conducta típica del adolescente;
 
-XVII. Agentes Estatales de Investigación, al Agente de la Agencia Estatal de la Investigación de la Fiscalía General del Estrado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XVIII. Tribunales Especializados, a los Órganos Jurisdiccionales Especializados encargados de administrar Justicia para Adolescentes;
+XI. Comisión de Prevención, a la Comisión Especial de Prevención de Conductas Ilícitas de Adolescentes del Consejo Estatal de Seguridad Pública;
 
-XIX. Sala de Apelación de Justicia para Adolescentes, a la sala de Apelación Especializada en Justicia para Adolescentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XX. Juzgado Especializado, al Juzgado Especializado de Primera Instancia en Justicia para Adolescentes;
+XII. Secretaría, a la Secretaría de Seguridad y Protección Ciudadana;
 
-XXI. Magistrado, al Magistrado de las (sic) Sala de Apelación especializadas en Justicia para Adolescentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XXII. Juez, a los jueces de Primera Instancia Especializados en Justicia para Adolescentes;
+XIII. Fiscalía Especializada, a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por los Adolescentes, de la Fiscalía General del Estado;
 
-XXIII Unidad de Ejecución de Medidas, a la Unidad Administrativa de la Secretaría de Seguridad Pública, que tiene a su cargo la aplicación y vigilancia de las medidas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XXIV. Mediador, al funcionario del Juzgado Especializado de Primera Instancia encargado de la mediación;
+XIV. Fiscal Titular Especializado, al Fiscal a cargo de la Fiscalía Especializada para la Atención de delitos cometidos por los Adolescentes;
 
-XXV. Defensoría, a la Defensoría Social Especializada para Adolescentes del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XXVI. Conducta típica, a la conducta considerada como delito por las leyes penales vigentes en el Estado de Chiapas;
+XV. Fiscales Especializados, a los Fiscales del Ministerio Público adscritos a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por adolescentes;
 
-XXVII. Centro de internamiento, a los lugares exclusivos y especializados donde los adolescentes cumplen con una medida cautelar o definitiva de internamiento;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XXVIII. Conciliación: a la vía alternativa para resolver el conflicto entre el adolescente y la víctima u ofendido que se lleva a cabo ante el Fiscal Especializado o el Juez de Primera instancia y que garantiza el respeto a los derechos tanto del menor como de la víctima u ofendido;
+XVI. Ministerio Público, al Fiscal del Ministerio Público de fuero común adscrito a la Fiscalía General del Estado;
 
-XXIX. Mediación: a la vía alternativa de resolver el conflicto entre el Adolescente y la victima u ofendido que se lleva a cabo ante un Mediador antes de que se inicie el proceso.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-XXX. Medidas, las medidas de orientación, protección y tratamiento que impongan los tribunales especializados a los adolescentes que hayan realizado una conducta (sic).
+XVII. Agente Especializado, al Agente Especializado en delitos cometidos por Adolescentes, de la Agencia Estatal de la Investigación adscrito a la Fiscalía Especializada para la Atención de Menores;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XVIII. Agentes Estatales de Investigación, al Agente de la Agencia Estatal de la Investigación de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XIX. Tribunales Especializados, a los Órganos Jurisdiccionales Especializados encargados de administrar Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XX. Salas Especializadas; a las Salas Especializadas en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXI. Juzgado Especializado, Juzgados Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXII. Magistrados, a los Magistrados de las Salas Especializadas en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXIII. Juez, a los Jueces Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXIV. Unidad de Ejecución de Medidas, a la Unidad Administrativa de la Secretaría que tiene a su cargo la aplicación y vigilancia de las medidas;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXV. Mediador, al funcionario del Juzgado Especializado de Primera Instancia encargado de la mediación;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXVI. Defensoría, a la Defensoría Social Especializada para Adolescentes del poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXVII. Conducta típica, a la conducta considerada como delito por las leyes penales vigentes en el Estado de Chiapas;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXVIII. Centro de Internamiento, a los lugares exclusivos y especializados donde los adolescentes cumplen con una medida cautelar o definitiva de internamiento;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXIX. Conciliación: a la vía alternativa para resolver el conflicto entre el adolescente y la víctima u ofendido que se lleva a cabo ante el Fiscal Especializado o el Juez de Primera instancia y que garantiza el respeto a los derechos tanto del menor como de la víctima u ofendido;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXX. Mediación: a la vía alternativa de resolver el conflicto entre el Adolescente y la víctima u ofendido que se lleva a cabo ante un Mediador antes de que se inicie el proceso;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+XXXI. Medidas, las medidas de orientación, protección y tratamiento que impongan los tribunales especializados a los adolescentes que hayan realizado una conducta (sic).
 
 ### Capítulo II. De las Personas Sujetas a esta Ley
 
@@ -193,11 +249,13 @@ Al hacer las investigaciones la Fiscalía Especializada deberá tener siempre en
 
 Los tribunales especializados en Justicia para Adolescentes, del Poder Judicial del Estado son una autoridad jurisdiccional, independiente e imparcial a la que corresponde en términos del Artículo 18, de la Constitución Política de los Estados Unidos Mexicanos, la impartición de justicia para adolescentes en el Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 21.
 
-Los tribunales especializados en Justicia para Adolescentes, del Poder Judicial del Estado se integrará por Salas de Apelación de justicia para Adolescentes y los Juzgados Especializados de Primera Instancia, que sean necesarias para el cumplimiento de su objeto, los cuales actuarán de conformidad con las disposiciones procésales establecidas en esta Ley, valorando los hechos y las pruebas de manera directa para determinar la comisión de la conducta típica y la responsabilidad del adolescente, salvaguardando las garantías y derechos de éste; de la víctima u ofendido, especialmente cuando éstos también sean menores, y de la sociedad, así como, los fines para la seguridad pública.
+Los Tribunales Especializados en Justicia para Adolescentes, del Poder Judicial del Estado se integrarán por Salas Especializadas en Justicia para Adolescentes y los Juzgados Especializados que sean necesarias para el cumplimiento de su objeto, los cuales actuarán de conformidad con las disposiciones procesales establecidas en esta Ley, valorando los hechos y las pruebas de manera directa para determinar la comisión de la conducta típica y la responsabilidad del adolescente, salvaguardando las garantías y derechos de éste; de la víctima u ofendido especialmente cuando éstos también sean menores, y de la sociedad, así como, los fines para la seguridad pública.
 
-El Consejo de la Judicatura del Poder Judicial del Estado, podrá acordar la creación de nuevas salas de apelación y juzgados especializados de primera instancia, en atención a las necesidades del servicio.
+El Consejo de la Magistratura del Poder Judicial del Estado, a propuesta de la Magistratura Superior, podrá acordar la creación de nuevas Salas Especializadas y Juzgados Especializados, en atención a las necesidades del servicio.
 
 ###### Artículo 22.
 
@@ -453,59 +511,81 @@ Cuando el Ministerio Público, tenga conocimiento de que el menor haya cometido 
 
 Los tribunales especializados en Justicia para Adolescentes se componen por:
 
-I. Salas de Apelación de Justicia para Adolescentes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II. Los Juzgados Especializados de Primera Instancia Especializado en Justicia para Adolescentes;
+I. Salas Especializadas en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II. Los Juzgados Especializados en Justicia para Adolescentes;
 
 III. El Mediador; y,
 
 IV. El personal auxiliar que se requiera para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 53.
 
-La Sala de apelación de Justicia para Adolescentes se integrará por un Magistrado quien deberá contar con Titulo y Cedula Profesional de Licenciado en Derecho y con ejercicio profesional de cinco años por lo menos, y del número de secretarios, actuarios, y demás servidores públicos que determine el presupuesto.
+Las Salas de Justicia para Adolescentes se integrarán por tres magistrados y del número de secretarios, actuarios, y demás servidores públicos, que para tal efecto determine la naturaleza de sus atribuciones y del presupuesto, con estricto apego a lo dispuesto en el Código.
 
-El Magistrado de las Salas de Apelación, será nombrado de conformidad con la Constitución Estatal y la Ley Orgánica del Poder Judicial vigentes en el Estado. De la misma forma se nombrará un Magistrado Suplente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 54.
 
-La Sala de Apelación de Justicia para Adolescentes, tendrá su sede en la Ciudad de Tuxtla Gutiérrez, y tomará sus decisiones de conformidad con las disposiciones procesales establecidas en esta Ley, valorando los hechos y las pruebas, salvaguardando las garantías y derechos de éste; de la víctima u ofendido, especialmente cuando éstos también sean menores, y de la sociedad, así como los fines de seguridad pública.
+Las Salas Especializadas, tendrán su sede en la Ciudad de Tuxtla Gutiérrez, y tomará sus decisiones de conformidad con las disposiciones procesales establecidas en esta Ley, valorando los hechos y las pruebas, salvaguardando las garantías y derechos de éste; de la víctima u ofendido, especialmente cuando éstos también sean menores, y de la sociedad, así como los fines de seguridad pública.
 
 ###### Artículo 55.
 
 Cuando el Magistrado de la Sala de Apelación se encuentre impedido para conocer de un asunto, conocerá el Magistrado Suplente, en los casos en que ambos se encuentren impedidos para conocer, la Sala de Apelación remitirá las constancias del asunto a la Sala Superior del Poder Judicial del Estado, para que esta resuelva lo conducente.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 56.
 
-La Sala de apelación de Justicia para Adolescentes será competente para conocer de:
+Las Salas Especializadas, serán competentes para:
 
-I. De los recursos en contra de resoluciones dictadas por los Juzgado (sic) Especializados de Primera Instancia;
+I. Conocer de los recursos de apelación y de reconsideración que regule la Ley de la materia;
 
-II. De conflictos de competencia entre Juzgados Especializados de Primera Instancia;
+II. Conocer de los conflictos de competencia entre los Juzgados Especializados en Justicia para Adolescentes;
 
-III. Las demás que le otorguen otras disposiciones aplicables.
+III. Conocer de los impedimentos, las recusaciones y las excusas de sus miembros y de sus subalternos cuando se trate de asuntos en justicia para adolescentes y cuando medie oposición de parte;
+
+IV. Intervenir en los juicios de amparo, de los asuntos radicados en la Sala;
+
+V. Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 57.
 
-Corresponde a la Sala de Apelación de Justicia para Adolescentes:
+Corresponde a las Salas Especializadas:
 
 I. Tramitar los asuntos administrativos de su competencia;
 
-II. Autorizar en unión con el Secretario General de Acuerdos, las resoluciones y acuerdos de la Sala de Apelación;
+II. Autorizar en unión con el Secretario General de Acuerdos, sus resoluciones y acuerdos;
 
-III. Designar las medidas necesarias para la adecuada organización y funcionamiento de la Sala de Apelación.
+III. Designar las medidas necesarias para su adecuada organización y funcionamiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 58.
 
-Cada Juzgado Especializado de Primera Instancia se integrará por un Juez Especializado, que deberá ser Licenciado en Derecho, quien será designado por el Consejo de la Judicatura de conformidad con la Constitución Política del Estado de Chiapas y la Ley Orgánica del Poder Judicial del Estado, debiendo ser nombrados por cada Juez Especializado tres jueces suplentes.
+Cada Juzgado Especializado, se integrará por un Juez Especializado, que deberá ser Licenciado en Derecho, designado por el Consejo de la Magistratura de conformidad con la Constitución Estatal y el Código.
 
 ###### Artículo 59.
 
 Los juzgados Especializados de Primera Instancia, conocerán de los procedimientos en materia de adolescentes que sean sometidos a su consideración por la Fiscalía Especializada.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+En caso de los impedimentos, excusa o recusación, calificada procedente por la Sala Especializada, conocerá del asunto el Juez que para tal efecto establezca el código de organización del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 60.
 
-La Sala de Apelación de Justicia para Adolescentes y los Juzgados Especializados de Primera Instancia, contarán con los servidores públicos necesarios para el ejercicio de sus funciones de acuerdo a las necesidades del servicio y a las posibilidades presupuestarias.
+La Sala Especializada y los Juzgados Especializados, contarán con los servidores públicos necesarios para el ejercicio de sus funciones de acuerdo a las necesidades del servicio y a las posibilidades presupuestarias.
 
 ###### Artículo 61.
 
@@ -547,9 +627,11 @@ El Mediador es el funcionario del Juzgado de Primera Instancia que actuará con 
 
 I. Promover la solución alternativa del conflicto entre el adolescente y la víctima salvaguardando las garantías y derechos del adolescente; de la víctima u ofendido, especialmente cuando éstos también sean menores, y de la sociedad, así como los fines de seguridad pública.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 63.
 
-Los magistrados y los jueces del Tribunal Especializado durarán en su cargo 6 años.
+Los magistrados y los jueces especializados, durarán en su cargo el tiempo que para tal efecto determinen la Constitución Estatal y el Código.
 
 ## Título Tercero. Bases de la Responsabilidad de Adolescentes
 
@@ -3353,29 +3435,53 @@ La Secretaría de Seguridad Publica, en un plazo no mayor a seis meses, contados
 
 Quinto.- Los menores que estuvieren cumpliendo una medida de las previstas en la Ley para la Protección y el Tratamiento de Menores infractores para el Estado de Chiapas, continuarán dicho cumplimiento hasta la extinción de la responsabilidad en las condiciones previstas en dicha ley, siempre y cuando esto no contradiga al Artículo 18, de la de la (sic) Constitución Política de los Estados Unidos Mexicanos.
 
-Sexto.- En los procedimientos en curso a la entrada en vigor de la presente ley, el Consejo Tutelar de Menores del Estado remitirá las actuaciones a la Institución del Ministerio Público para que instruya lo procedente de conformidad con la presente Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Séptimo.- El Estado, dentro un plazo de seis meses contados a partir de la publicación de la presente Ley deberá instaurar el Tribunal Especializado en Justicia para Adolescentes, con todos sus órganos.
+Sexto.- El órgano jurisdiccional que determine el Poder Judicial del Estado, remitirá las actuaciones en curso de investigación que tenía a su cargo el Consejo Tutelar para Menores del Estado a la Institución del Ministerio Público de los asuntos que se tramiten de conformidad con la presente Ley.
 
-Octavo.- El Consejo de la Judicatura dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá adoptar las disposiciones oportunas para adecuar la plantilla de servidores públicos de los órganos del Tribunal Especializado en Justicia para Adolescentes, inclusive la Defensoría Social de Menores, así como para la selección, formación y capacitación del personal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Noveno.- La Fiscalía General del Estado dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley deberá crear la Fiscalía Especializada para la Atención de Menores, adoptando las disposiciones oportunas para adecuar la plantilla de la (sic) dicha Fiscalía, así como para la selección, formación y capacitación de su personal.
+Séptimo.- El Poder Judicial, a través de sus órganos, deberá instaurar los órganos especializados en justicia para adolescentes a más tardar el día veintiocho de febrero del año dos mil ocho.
 
-Décimo.- Durante el plazo de seis meses a que alude al Artículo transitorio anterior, los Fiscales del Ministerio Público que determine el Titular de la Fiscalía General del Estado, conocerán de los procedimientos en curso a la entrada en vigor de la presente Ley que les remita el Consejo de Menores del Estado, así como de aquellos hechos en que se encuentren implicados menores que se hagan del conocimiento de la Institución del Ministerio Público.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Los Fiscales del Ministerio Pública durante el término que alude el primer párrafo del presente Artículo transitorio consignarán sus determinaciones ante el Consejo de Menores del Estado.
+Octavo.- El Consejo de la Magistratura Superior del Poder Judicial del Estado, a más tardar el día veintiocho de febrero del año dos mil ocho, deberá emitir las disposiciones necesarias y adoptar las medidas oportunas que permitan adecuar la plantilla de servidores públicos para la integración y debido funcionamiento de los órganos especializados en justicia para adolescentes, de la Defensoría Social de Menores, observando los requisitos para su selección, formación y capacitación especializada.
 
-Décimo Primero.- El Poder Ejecutivo del Estado por conducto de la Secretaria de Seguridad Publica, dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá crear la Unidad de Ejecución de Medidas, adoptando las disposiciones oportunas para adecuar la plantilla de dicha unidad administrativa, así como para selección, formación y capacitación de su personal.
+Entre tanto aplicarán la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas, los Servidores Públicos que designe el Poder Judicial en términos de la legislación correspondiente.
 
-Décimo Segundo.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones dentro un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá adoptar las disposiciones oportunas para transformar el Centro de Tratamiento y Readaptación de Menores del Estado de Chiapas, en Centro de Internamiento previsto en la presente Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Décimo Tercero.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones dentro (sic) un plazo de seis meses contados a partir de la publicación de la presente Ley, deberá establecer las disposiciones reglamentarias necesarias para el adecuado desarrollo de la ejecución de las medidas establecidas en la presente Ley.
+Noveno.- La Fiscalía General del Estado a más tardar el día veintiocho de febrero del dos mil ocho, deberá crear la Fiscalía Especializada para la Atención de Adolescentes, adoptando las disposiciones oportunas para adecuar la plantilla de dicha Fiscalía, así como para la selección, formación y capacitación de su personal, entre tanto aplicarán la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas, los Servidores Públicos que determine el Titular de la Fiscalía General del Estado.
 
-Décimo Cuarto.- Al término de los seis meses a partir de la publicación de la presente Ley el Consejo de Menores del Estado remitirá todas las actuaciones al Tribunal Especializado en Justicia para Adolescentes para que instruya lo procedente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Décimo Quinto.- Al término de los seis meses a partir de la publicación de la presente Ley, los Fiscales del Ministerio Público determinados conforme el Artículo transitorio décimo remitirán todas las actuaciones a la Fiscalía Especializada para la Atención de Menores para que realice lo procedente.
+Décimo.- Durante el plazo a que se refiere el artículo transitorio anterior, los Fiscales del Ministerio Público que determine el Titular de la Fiscalía General del Estado, conocerán los procedimientos en curso que se tramiten ante el órgano jurisdiccional que determine el Poder Judicial, así como de aquellos hechos en que se encuentren implicados menores que se hagan del conocimiento de la institución del Ministerio Público.
 
-Décimo Sexto.- Al término de los seis meses a partir de la publicación de la presente Ley, los Procuradores de la Defensa del Menor deberán remitir todas las actuación (sic) a la Defensoría Social de Menores.
+Las Fiscales del Ministerio Público durante el término que alude el primer párrafo del presente artículo transitorio, consignarán sus determinaciones ante el órgano jurisdiccional que determine el Poder Judicial.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Primero.- La Secretaría de Seguridad y Protección Ciudadana, a más tardar el día veintiocho de febrero del dos mil ocho, deberá crear la Unidad de Ejecución de Medidas, adoptando las disposiciones oportunas para adecuar la plantilla de dicha unidad administrativa, así como para la selección, formación y capacitación de su personal, entre tanto funcionará el órgano administrativo que determine la Secretaría de Seguridad y Protección Ciudadana.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Segundo.- El Poder Ejecutivo del Estado, a más tardar el día veintiocho de febrero del año dos mil ocho, dentro del ámbito de sus atribuciones, deberá realizar las acciones necesarias para transformar el Centro de Tratamiento y Readaptación de Menores del Estado de Chiapas, en Centro de Internamiento previsto en la presente Ley, entre tanto seguirá en funciones el órgano administrativo mencionado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Tercero.- El Poder Ejecutivo del Estado, a más tardar el día veintiocho de febrero del año dos mil ocho, deberá establecer las disposiciones reglamentarias necesarias para el adecuado desarrollo de la ejecución de las medidas establecidas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Cuarto.- El órgano administrativo que se encuentra encargado de tramitar los procedimientos, deberá remitir todas las actuaciones al órgano jurisdiccional que determine el Poder Judicial del Estado, para que instruya lo procedente.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Quinto.- A más tardar el día veintiocho de febrero del año dos mil ocho, los Fiscales del Ministerio Público, determinados conforme al artículo transitorio décimo remitirán todas las actuaciones a la Fiscalía Especializada para la Atención de Menores para que realice lo procedente.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Décimo Sexto.- A más tardar el día veintiocho de febrero del año dos mil ocho, los Servidores Públicos encargados de la Defensa de Menores designados por el Poder Judicial, deberán remitir todas las actuaciones a la Defensoría Social de Adolescentes.
 
 Décimo Séptimo.- El Poder Ejecutivo del Estado, dentro del ámbito de sus atribuciones en un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley, deberá realizar lo procedente acerca de presupuesto, recursos humanos, técnicos y materiales asignados al Consejo de Menores del Estado.
 
@@ -3386,3 +3492,11 @@ Dado en el salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del Artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 23 días del mes de febrero del año 2007.
 
 Juan José Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
