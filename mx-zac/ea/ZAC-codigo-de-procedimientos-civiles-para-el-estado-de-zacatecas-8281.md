@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2006-11-15"
+last_updated: "2007-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -41,9 +41,7 @@ CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
 ## TITULO PRELIMINAR. Disposiciones Generales
 
-###### Artículo 1.
-
-Las disposiciones de ese Código regirán en el Estado de Zacatecas, en asuntos civiles.
+1.- Las disposiciones de ese Código regirán en el Estado de Zacatecas, en asuntos civiles.
 
 2.- Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia, en los plazos y términos que fija la ley y su servicio será gratuito.
 
@@ -2745,7 +2743,7 @@ VII.- De resoluciones que ordenen, con el carácter de provisional, medidas caut
 
 VIII.- De sentencias extranjeras cuya validez haya sido declarada por resolución firme conforme a este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2001)</small>
 
 403.- Serán órganos para ordenar la ejecución forzosa de las resoluciones judiciales los siguientes:
 
@@ -2943,7 +2941,7 @@ c) Si los señalados estuvieren en lugar diverso del en que se sigue el juicio, 
 
 El ejecutor, sin que para ello se necesite ulterior determinación del juez, deberá realizar con la mayor diligencia los actos complementarios del embargo, como dar posesión al depositario de bienes, aunque no estén en el lugar donde se practica la diligencia, si se encuentran dentro de la jurisdicción; notificación a deudores o a bancos, si se han embargado créditos; dar aviso preventivo al Registro Público, si se trata de bienes registrados; expedir copias certificadas de la diligencia y en general, para tomar todas las medidas y realizar los actos que tiendan a hacer más efectivo el aseguramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
 
 432.- Quedan exceptuados de embargo:
 
@@ -3297,7 +3295,7 @@ VII.- No habiendo postor, quedará al arbitrio del ejecutante pedir que se le ad
 
 Si en la segunda subasta tampoco hubiera licitadores, el actor podrá pedir la adjudicación por el precio que sirvió de base para la almoneda, o que se le entreguen en administración los bienes para aplicar sus productos al pago de capital, intereses y costas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 462.- No conviniendo al ejecutante ninguna de las dos medidas expresadas en el artículo que precede, podrá pedir que se celebre una tercera subasta con reducción del veinticinco por ciento del valor fijado en el avalúo. La subasta se anunciará y celebrará en la misma forma que la anterior.
 
@@ -3921,23 +3919,13 @@ V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, 
 
 ### CAPITULO II. Cuestiones matrimoniales
 
-555.- Los juicios que versen sobre incumplimiento de la promesa matrimonial, se regirán por las siguientes reglas:
+555.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-I.- En la demanda sólo podrá exigirse el pago de los gastos que se hubieren hecho con motivo del proyectado matrimonio, la indemnización a título de reparación moral, o la devolución de lo que se hubiere donado con tal motivo, o simultáneamente varias de estas peticiones;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II.- Si la demanda contuviere peticiones diversas de las que se mencionan en la fracción anterior, se tendrán por no hechas;
+556.- Cuando se solicite que el juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su representación al Oficial del Registro Civil. Si fuere adversa sin necesidad de apelación se remitirá el expediente al Tribunal Superior de Justicia para que, oyendo a los interesados, confirme o revoque la determinación.
 
-III.- No se dará curso a la demanda si apareciere que alguno de los prometidos, al celebrar los esponsales, no tenía la edad a que se refiere el artículo 230 del Código Civil, o siendo menor de edad, no obtuvo el consentimiento de sus representantes legales;
-
-IV.- Se acompañará el documento que contenga la promesa, excepto en el caso previsto en los dos últimos párrafos del artículo 233 del Código Civil;
-
-V.- Presentada la demanda, el juez citará a las partes a una audiencia en la que procurará un arreglo amistoso, y
-
-VI.- Si no se lograre, el juicio se tramitará conforme a las normas del juicio oral.
-
-556.- Cuando se solicite que el juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su representación al Oficial del Registro Civil. Si fuere adversa sin necesidad de apelación se remitirá el expediente al Supremo Tribunal para que, oyendo a los interesados, confirme o revoque la determinación.
-
-La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito. El juez después de levantar una información sobre el particular, oyendo a los padres y sin formalidades especiales, decidirá si decreta o no el depósito.
+El menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez que determine sobre el particular. El juez después de levantar la información correspondiente, oyendo a los padres y sin formalidades especiales, decidirá si la decreta.
 
 557.- Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento, el juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El juicio se hará constar en una sola acta cuando termine en un sólo día. La resolución que recaiga será inapelable.
 
@@ -3963,23 +3951,33 @@ VI.- Los demás asuntos relativos a cuestiones patrimoniales entre los consortes
 
 559.- Recibida la demanda, el juez citará a los cónyuges a una audiencia en la que los oirá. En ella recibirá el juez las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de fianza.
 
-Si se pide la terminación de la sociedad conyugal en los casos previstos por el artículo 279 del Código Civil, el juez decretará las medidas provisionales que estime oportunas para la conservación de los bienes de la sociedad legal a petición del actor, inclusive las de limitar las facultades del cónyuge administrador, tramitándose el litigio, en todo lo demás, conforme a las reglas del juicio oral.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-560.- Cuando se pida autorización judicial para que la mujer contrate con su marido, se obligue solidariamente con él en asuntos que sean de interés exclusivo de éste, o sea su fiadora, el juez recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la mujer, y oyendo al Ministerio Público, resolverá lo que proceda.
+Si se pide la terminación de la sociedad conyugal en los casos previstos por el artículo 154 del Código Familiar del Estado, el juez decretará las medidas provisionales que estime oportunas para la conservación de los bienes de la sociedad legal a petición del actor, inclusive las de limitar las facultades del cónyuge administrador, tramitándose el litigio, en todo lo demás, conforme a las reglas del juicio oral.
 
-561.- El cónyuge que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, en los casos previstos por el artículo 366 del Código Civil, exhibirá con su demanda la justificación de que se está en alguno de los casos previstos en las fracciones VI y VII del artículo 357 del mismo Código, o solicitará que se reciban las pruebas conducentes sobre estos hechos. El juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+560.- Cuando se pida autorización judicial para que los cónyuges contraten entre sí, se obliguen solidariamente en asuntos que sean de interés exclusivo de alguno de los cónyuges, o sean fiadores entre sí, el juez recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de alguno de ellos, y oyendo al Ministerio Público, resolverá lo que proceda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+561.- El cónyuge que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, exhibirá con su demanda la justificación de que se está en alguno de los casos previstos en las fracciones VI y VII del artículo 231 del Código Familiar del Estado, o solicitará que se reciban las pruebas conducentes sobre estos hechos. El juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda.
 
 Puede decretar como medida provisional y mientras se dicta sentencia, la separación de los cónyuges.
 
 ### CAPITULO III. Nulidad del matrimonio
 
-562.- Sólo las personas a quienes el Código Civil concede este derecho puede pedir la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o de cualquiera otra manera; pero los herederos podrán continuar la acción ya comenzada por el autor de la herencia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+562.- Sólo las personas a quienes el Código Familiar del Estado concede este derecho pueden pedir la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o de cualquiera otra manera; pero los herederos podrán continuar la acción ya comenzada por el autor de la herencia.
 
 563.- En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad necesitan de un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito-pulgar derecha del mismo, quien la ratificará en la presencia judicial.
 
 564.- La nulidad del matrimonio se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
-I.- Al admitirse la demanda se decretarán las medidas provisionales que procedan entre las autorizadas por el artículo 371 del Código Civil;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I.- Al admitirse la demanda se decretarán las medidas provisionales que procedan entre las autorizadas por el artículo 234 del Código Familiar del Estado;
 
 II.- Aunque medie admisión de hechos o allanamiento, el juicio se abrirá a prueba por el término de ley;
 
@@ -4013,7 +4011,9 @@ Ejecutoriada la sentencia, el tribunal, de oficio, enviará copia certificada al
 
 567.- El divorcio por mutuo consentimiento siempre tendrá lugar con intervención judicial.
 
-568.- La demanda de divorcio por mutuo consentimiento será formulada por ambos cónyuges, debiendo suscribirla con sus firmas, y, además con la huella dígito-pulgar derecha de cada uno.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+568.- El divorcio voluntario siempre tendrá lugar con intervención judicial. La demanda será formulada por ambos cónyuges, debiendo suscribirla con sus firmas, y, además con la huella dígito-pulgar derecha de cada uno.
 
 Con la demanda se acompañarán los siguientes documentos:
 
@@ -4021,7 +4021,9 @@ I.- Acta de matrimonio;
 
 II.- Actas de nacimiento de los hijos menores, y
 
-III.- El convenio que exige el artículo 362 del Código Civil.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+III.- El convenio que exige el artículo 224 del Código Familiar del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1975)</small>
 
@@ -4031,11 +4033,17 @@ III.- El convenio que exige el artículo 362 del Código Civil.
 
 571.- Los cónyuges no pueden hacerse representar por procurador en la junta a que se refiere el artículo 569 sino que deben comparecer personalmente, y, en su caso, acompañados del tutor especial.
 
-572.- En caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal dará por terminada la instancia, declarando sin efecto la solicitud y mandará archivar el expediente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-573.- El Ministerio Público podrá oponerse al divorcio por mutuo consentimiento en los siguientes casos:
+572.- En caso en que los cónyuges dejaren pasar más de seis meses sin continuar el procedimiento, el tribunal dará por terminada la instancia, declarando sin efecto la solicitud y mandará archivar el expediente.
 
-I.- Porque la solicitud se haya hecho en contravención a lo dispuesto en los artículos 363 y 365 del Código Civil;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+573.- El Ministerio Público podrá oponerse al divorcio voluntario en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I.- Porque la solicitud se haya hecho en contravención a lo dispuesto en los artículos 218 y 223 del Código Familiar del Estado;
 
 II.- Porque el convenio viole los derechos de los hijos, y
 
@@ -4049,7 +4057,9 @@ Cuando el convenio no fuere susceptible de aprobación, no podrá decretarse la 
 
 575.- El Juez que decrete el divorcio es competente para hacer cumplir y ejecutar el convenio que se apruebe en la sentencia. La ejecución se llevará a cabo, de acuerdo con las reglas de la ejecución forzosa.
 
-576.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 206, 207, 208 y 379 del Código Civil.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+576.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 79, 80, 81 y 222 del Código Familiar del Estado.
 
 ### CAPITULO V. Del divorcio necesario
 
@@ -4061,7 +4071,9 @@ Los cónyuges pueden hacerse representar por procuradores; pero el poder deberá
 
 579.- El Ministerio Público tendrá intervención en los juicios de divorcio necesario; pero la facultad para rendir pruebas quedará limitada a ofrecer sólo las que sirvan para el mantenimiento del vínculo.
 
-580.- Al admitirse la demanda de divorcio se dictarán provisionalmente y mientras dure el juicio, las disposiciones a que se refiere el artículo 371 del Código Civil. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida. El monto de la pensión puede ser modificado durante el juicio cuando cambien las posibilidades económicas y posición de los cónyuges. A petición de los abuelos, tíos o hermanos mayores, el juez, en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas a los hijos menores.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+580.- Al admitirse la demanda de divorcio se dictarán provisionalmente y mientras dure el juicio, las disposiciones a que se refiere el artículo 234 del Código Familiar del Estado. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida. El monto de la pensión puede ser modificado durante el juicio cuando cambien las posibilidades económicas y posición de los cónyuges. A petición de los abuelos, tíos o hermanos mayores, el juez, en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas a los hijos menores. El Juez podrá decretar el alejamiento del agresor, cuando lo considere necesario para la protección de las víctimas de violencia familiar.
 
 581.- El divorcio necesario se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
@@ -4087,11 +4099,15 @@ I.- Si hubiere inactividad total de las partes en el proceso por más de seis me
 
 II.- Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoria, y
 
-III.- Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y obligue al otro cónyuge a reunirse con él.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+III.- Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y otorgue el desistimiento.
 
 En estos casos no se admitirá nuevo divorcio por los mismos hechos que motivaron el juicio anterior.
 
-584.- La sentencia, en los juicios de divorcio necesario, resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes comunes, alimentos de los cónyuges y subsistencia de los hijos, aunque las partes no lo hayan pedido.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+584.- La sentencia, en los juicios de divorcio necesario, resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes comunes, alimentos de los cónyuges y subsistencia de los hijos, así como de los tratamientos especializados, integrales y gratuitos en caso de violencia familiar, tanto para el agresor como para la víctima; aunque las partes no lo hayan pedido.
 
 585.- Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil ante quien se celebró el matrimonio para que levante el acta correspondiente, anote la partida de matrimonio con la disolución del vínculo y para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
@@ -4101,27 +4117,43 @@ En estos casos no se admitirá nuevo divorcio por los mismos hechos que motivaro
 
 587.- Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
 
-I.- El desconocimiento de la paternidad de los hijos nacidos de matrimonio;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II.- La revocación del reconocimiento de hijos naturales;
+I.- El desconocimiento de la paternidad de los hijos;
 
-III.- La comprobación de la posesión de estado y filiación de los hijos legítimos, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+II.- La revocación del reconocimiento de hijos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+III.- La comprobación de la posesión de estado y filiación de los hijos, y
 
 IV.- La investigación de la paternidad y maternidad.
 
 588.- Pueden ejercitar las acciones de paternidad y filiación:
 
-I.- El marido o su tutor, si fuere incapaz, en los casos de desconocimiento de la paternidad de hijos nacidos de matrimonio. Los herederos del marido sólo tendrán este derecho, cuando teniendo o no tutor, el marido, haya muerto sin recobrar la razón. En los demás casos sólo podrán continuar la acción comenzada por el marido;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I.- El marido o su tutor, si fuere incapaz, en los casos de desconocimiento de la paternidad de hijos. Los herederos del marido sólo tendrán este derecho, cuando teniendo o no tutor, el marido, haya muerto sin recobrar la razón. En los demás casos sólo podrán continuar la acción comenzada por el marido;
 
 II.- La revocación del reconocimiento sólo puede ser intentada por el padre que lo hizo siendo menor; los otros interesados, sus herederos, y la madre, si el reconocimiento se hizo sin su conocimiento;
 
-III.- La acción sobre posesión de estado y filiación de hijos legítimos puede ser intentada por el hijo, por los acreedores de éste y sus legatarios y donatarios, en los casos autorizados por el Código Civil;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-IV.- La acción sobre investigación de la paternidad y maternidad, puede ser intentada por los hijos y sus descendientes, en los casos autorizados por el Código Civil.
+III.- La acción sobre posesión de estado y filiación de hijos puede ser intentada por el hijo, por los acreedores de éste y sus legatarios y donatarios, en los casos autorizados por el Código Familiar del Estado;
 
-589.- Las acciones de que hablan los dos artículos anteriores, sólo podrán intentarse dentro de los términos que para cada caso particular fija el Código Civil.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-590.- El Ministerio Público intervendrá en los juicios sobre paternidad y filiación, con la limitación de que en los que tengan por objeto el desconocimiento de la paternidad de hijos nacidos de matrimonio, sólo puede rendir pruebas que tiendan a demostrar que la filiación es legítima.
+IV.- La acción sobre investigación de la paternidad y maternidad, puede ser intentada por los hijos y sus descendientes, en los casos autorizados por el Código Familiar del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+589.- Las acciones de que hablan los dos artículos anteriores, sólo podrán intentarse dentro de los términos que para cada caso particular fija el Código Familiar del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+590.- El Ministerio Público intervendrá en los juicios sobre paternidad y filiación, con la limitación de que en los que tengan por objeto el desconocimiento de la paternidad, sólo puede rendir pruebas que tiendan a demostrar que la filiación es legítima.
 
 591.- Si el juicio se entablare por medio de apoderado, no será admitida la personalidad del representante si no tiene poder especial o que contenga cláusula expresa autorizándolo para ejercitar la acción y tramitar el juicio.
 
@@ -4165,29 +4197,43 @@ La resolución que se dicte no es apelable.
 
 596.- Para que se autorice la adopción, el que pretenda adoptar a alguna persona, deberá acreditar:
 
-I.- Que es mayor de treinta años y que tiene, por lo menos diecisiete años más de edad que la persona que se trata de adoptar;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-II.- Que no tiene descendientes, si el adoptante, sea hombre o mujer, no está unido a otra persona en matrimonio;
+I.- Que es mayor de veinticinco años y que tiene, por lo menos diecisiete años más de edad que la persona que se trata de adoptar;
+
+II.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
 III.- Que existe común acuerdo entre marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes;
 
 IV.- Que el adoptante o adoptantes tienen medios bastantes para promover a la subsistencia y educación del adoptado como de hijo propio, según las circunstancias de la persona que trata de adoptarse, y
 
-V.- Que el adoptante o adoptantes sean de buenas costumbres.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+V.- Que el adoptante o adoptantes acrediten que están en aptitud de adoptar.
 
 En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente.
 
-597.- Rendidas las justificaciones que se exigen en el articulo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 489 y 490 del Código Civil, el tribunal resolverá lo que corresponda, dentro del tercero día.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-598.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez lo citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 499 del Código Civil.
+596 BIS.- Para tramitar la Adopción Internacional se acreditarán los requisitos para ser adoptante que señala el Código Familiar del Estado y los tratados internacionales en la materia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+597.- Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 359 y 360 del Código Familiar del Estado, el juez resolverá lo que corresponda, dentro del tercer día.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+598.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez lo citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el último párrafo del artículo 366 del Código Familiar del Estado.
 
 Si la revocación se pide por ingratitud del adoptado, el juez mandará substanciar el procedimiento en juicio oral, entendiéndose con el adoptado si tuviere más de dieciocho años o con un tutor especial que se le nombre y además con el Ministerio Público. Para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas.
 
-599.- La impugnación de la adopción o la revocación, en los casos de los artículos 486 y 497 fracción II del Código Civil, se ventilarán en juicio oral.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+599.- La impugnación de la adopción o la revocación, en los casos de los artículos 357 y 365 fracción II del Código Familiar del Estado, se ventilarán en juicio oral.
 
 600.- Cuando el adoptado sea menor de edad o incapacitado, los procedimientos para autorizar la adopción o para impugnarla o revocarla, se seguirán con el Ministerio Público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO VIII. Rectificación de las actas del Registro Civil
 
@@ -4215,7 +4261,9 @@ Cuando se trate de la autorización necesaria para la inscripción de un registr
 
 ### CAPITULO IX. Interdicción e inhabilitación
 
-605.- La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción del demente, idiota, sordomudo, ebrio consuetudinario, o habituado al uso de drogas enervantes, deberá contener los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+605.- La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción de una persona, deberá contener los siguientes datos:
 
 I.- Nombre, edad, domicilio, estado civil y actual residencia del denunciado;
 
@@ -4321,9 +4369,13 @@ I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arr
 
 II.- Si hubiere alguna cantidad de dinero que resultare sobrante después de cubiertas las cargas y atenciones de la tutela o dinero que proceda de las redenciones de capitales o que se adquiera de cualquier otro modo, se ordenará que si excede de dos mil pesos, se impondrá por el tutor en hipoteca calificada bajo su responsabilidad en el plazo de un mes o se ampliará este por tres meses, si hubiere algún inconveniente grave para hacer la imposición. También podrá autorizarse la inversión en cédulas, bonos u otros valores que ofrezcan seguridad, a juicio del juez;
 
-III.- Exigirá que rindan cuentas los tutores, de acuerdo con lo dispuesto por el artículo 681 del Código Civil;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-IV.- Obligará a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o producto del caudal de los menores o incapacitados, después de cubiertas las sumas señaladas con arreglo a los artículos 629, 630 y 645 del Código Civil y de pagado el tanto por ciento de administración;
+III.- Exigirá que rindan cuentas los tutores, de acuerdo con lo dispuesto por el artículo 547 del Código Familiar del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV.- Obligará a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o producto del caudal de los menores o incapacitados, después de cubiertas las sumas señaladas con arreglo a los artículos 497, 498 y 513 del Código Familiar del Estado y de pagado el tanto por ciento de administración;
 
 V.- Si los jueces lo creyeren conveniente, decretarán el depósito cuando se presenten dificultades insuperables para la imposición de los sobrantes o capitales que tuvieren los menores o incapacitados;
 
@@ -4337,11 +4389,15 @@ Si se decidiere que existe impedimento o motivo de excusa o se decreta la separa
 
 626.- Sobre la rendición y aprobación de cuentas de los tutores, regirán las reglas de la ejecución forzosa con las siguientes modificaciones:
 
-I.- Las cuentas se rendirán dentro del mes de enero de cada año, conforme a lo dispuesto en el artículo 681 del Código Civil, debiendo cumplirse con esta obligación aunque no exista prevención judicial para ello;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+I.- Las cuentas se rendirán dentro del mes de enero de cada año, conforme a lo dispuesto en el artículo 547 del Código Familiar del Estado, debiendo cumplirse con esta obligación aunque no exista prevención judicial para ello;
 
 II.- Se requerirá prevención judicial para que las cuentas se rindan antes de llegar a ese término, a menos de que hubiese separación y remoción del tutor, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes a la fecha de la remoción o separación. En igual forma se procederá cuando la tutela llegue a su término por haber cesado el estado de minoridad o de interdicción, y
 
-III.- Las personas a quienes deben ser rendidas las cuentas, son: el juez, el curador, el mismo menor que haya cumplido dieciséis años de edad, el tutor que substituya en el cargo al tutor anterior, el pupilo que deje de serlo, el Ministerio Público y los demás personas que fije el Código Civil.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+III.- Las personas a quienes deben ser rendidas las cuentas, son: el juez, el curador, el mismo menor que haya cumplido dieciséis años de edad, el tutor que substituya en el cargo al tutor anterior, el pupilo que deje de serlo, el Ministerio Público y las demás personas que fije el Código Familiar del Estado.
 
 Del auto de aprobación pueden apelar el Ministerio Público y los demás interesados de que habla la fracción III. Del auto de desaprobación pueden apelar el tutor, el curador y el Ministerio Público o cualquier interesado, si la resolución desaprobatoria no acepta en su totalidad las objeciones que hubieren formulado.
 
@@ -4363,7 +4419,9 @@ II.- Derechos reales sobre inmuebles;
 
 III.- Alhajas y muebles preciosos, y
 
-IV.- Acciones de compañías industriales y mercantiles, cuyo valor en conjunto exceda de tres mil pesos.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV.- Acciones de compañías industriales y mercantiles.
 
 630.- Se necesita que al pedirse se expresen el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de ella.
 
@@ -4397,13 +4455,17 @@ En igual forma se procederá para llevar a cabo transacciones sobre bienes o der
 
 ### CAPITULO XII. Emancipación, habilitación de edad y autorizaciones
 
-636.- La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años, le será concedida cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignora su paradero o se niegan a representarlo, y si además se demuestra que el menor fue demandado y se le sigue un perjuicio grave de no promover el juicio, y comprueba su buena conducta y aptitud para el manejo de sus negocios.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+636.- La habilitación para comparecer en juicio que solicite el menor de dieciocho años, le será concedida cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignora su paradero o se niegan a representarlo, y si además se demuestra que el menor fue demandado y se le sigue un perjuicio grave de no promover el juicio, y comprueba su buena conducta y aptitud para el manejo de sus negocios.
 
 La autorización la concederá o denegará el juez, oyendo al menor y al Ministerio Público en una audiencia en la que recibirá las pruebas que se le presenten. La resolución que se dicte no es apelable.
 
 La autorización otorgada en estos casos quedará sin efecto cuando los padres o tutores se apersonen el el (sic) juicio respectivo.
 
-637.- Las demandas de emancipación procederán en los casos previstos por los artículos 728 y 729 del Código Civil.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+637.- Las demandas de emancipación procederán en los casos previstos en el Capítulo Único, Título Sexto del Libro Segundo del Código Familiar del Estado.
 
 La emancipación por matrimonio del menor se produce de pleno derecho y sin necesidad de declaración judicial.
 
@@ -4413,35 +4475,49 @@ La resolución no es apelable, y hecha la emancipación, no puede ser revocada.
 
 La resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
 
-Cuando medie autorización expresa del que ejerce la patria potestad o del tutor, habilitando de edad al menor de veintiún años, y mayor de dieciocho para ejercer el comercio, la emancipación podrá otorgarse por aquellos sin la intervención judicial.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-638.- La autorización judicial que demanden los emancipados o habilitados de edad para llevar a cabo cualquiera de los actos a que se refiere la fracción II del artículo 730 del Código Civil, se otorgará oyendo al menor emancipado y al Ministerio Público en una audiencia sin que se requieran formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+Cuando medie autorización expresa del que ejerce la patria potestad o del tutor, habilitando de edad al menor de dieciocho años, para ejercer el comercio, la emancipación podrá otorgarse por aquellos sin la intervención judicial.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+638.- La autorización judicial que demanden los emancipados o habilitados de edad para llevar a cabo cualquiera de los actos a que se refiere la fracción II del artículo 602 del Código Familiar del Estado, se otorgará oyendo al menor emancipado y al Ministerio Público en una audiencia sin que se requieran formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
 ### CAPITULO XIII. Declaración de ausencia y de presunción de muerte
 
-639.- A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez dictará las medidas conservativas a que se refieren los artículos 736, 738, 739 y 740 del Código Civil, y además mandará citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo en su caso copia de los edictos a los Cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un término que no bajará de tres meses ni pasará de seis para que se presente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-Si cumplido el término antes mencionado, el citado no compareciere por sí ni por apoderado legítimo, ni por medio de tutor o pariente que pueda representarlo, se procederá al nombramiento de representante conforme a las reglas del Código Civil.
+639.- A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez dictará las medidas conservativas a que se refieren los artículos 611, 613, 614 y 615 del Código Familiar del Estado, y además mandan citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo en su caso copia de los edictos a los Cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un término que no bajará de tres meses ni pasará de seis para que se presente.
 
-Anualmente se hará la publicación de nuevos edictos y se cumplirá con las demás disposiciones del Capítulo Primero del Título Undécimo del Código Civil.
+Si cumplido el término antes mencionado, el citado no compareciere por sí ni por apoderado legítimo, ni por medio de tutor o pariente que pueda representarlo, se procederá al nombramiento de representante conforme a las reglas del Código Familiar del Estado.
+
+Anualmente se hará la publicación de nuevos edictos y se cumplirá con las demás disposiciones del Capítulo Primero del Título Séptimo del Código Familiar del Estado.
 
 640.- La demanda por declaración de ausencia podrá promoverse pasados dos años desde el día en que haya sido nombrado el representante. En ella debe consignarse el nombre, apellido y residencia de los presuntos sucesores legítimos del desaparecido o los que hubieren sido nombrados en testamento público abierto, y cuando existan, el de su procurador o representante legal. Tienen legitimación para pedir la declaración de ausencia, los presuntos herederos legítimos del ausente, los instituidos en testamento abierto; los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente y el Ministerio Público.
 
 641.- Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días en el periódico oficial y en los principales del último domicilio del ausente, y en su caso, remitirá copia de los escritos a los Cónsules, como se indica en el artículo 639 de este Código.
 
-Pasados cuatro meses de la fecha de la última publicación si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia, mandando publicar la declaración como lo previene el artículo 764 del Código Civil.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+Pasados cuatro meses de la fecha de la última publicación si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia, mandando publicar la declaración como lo previene el artículo 639 del Código Familiar del Estado.
 
 El fallo que se pronuncie en el juicio de declaración de ausencia será apelable en el efecto suspensivo.
 
-642.- Hecha la declaración de ausencia y transcurridos los plazos de que habla el artículo anterior, el juez de oficio o a instancia de cualquiera que se crea interesado, procederá a abrir el testamento cerrado u ológrafo con las solemnidades prescritas por la ley, y pondrá en posesión provisional de los bienes a los herederos, quienes deberán dar fianza que asegure los resultados de la administración. En todo lo demás, se procederá de acuerdo con el Capítulo Tercero, Título Undécimo del Libro Segundo del Código Civil.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+642.- Hecha la declaración de ausencia y transcurridos los plazos de que habla el artículo anterior, el juez de oficio o a instancia de cualquiera que se crea interesado, procederá a abrir el testamento cerrado u ológrafo con las solemnidades prescritas por la ley, y pondrá en posesión provisional de los bienes a los herederos, quienes deberán dar fianza que asegure los resultados de la administración. En todo lo demás, se procederá de acuerdo con el Capítulo Tercero, Título Séptimo del Libro Segundo del Código Familiar del Estado.
 
 643.- La demanda para la declaración de presunción de muerte se sujetará en lo conducente, en cuanto a forma y legitimación, a lo dispuesto para la demanda sobre declaración de ausencia.
 
-La demanda podrá presentarse cuando hayan transcurrido seis años desde la declaración de ausencia, y en los casos en que ésta proceda legalmente, el juez declarará la presunción de muerte.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+La demanda podrá presentarse cuando hayan transcurrido tres años desde la declaración de ausencia, y en los casos en que ésta proceda legalmente, el juez declarará la presunción de muerte.
 
 644.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, y se requerirá a los poseedores provisionales para que den cuenta de su administración, y los herederos y demás interesados entrarán en posesión definitiva de los bienes sin garantía alguna. La que según la ley se hubiera dado, quedará cancelada. Si se llega a probar la muerte del ausente, la herencia se defiere a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional.
 
-La sentencia que declare la presunción de muerte de un ausente casado pone término a la sociedad conyugal, y en todo lo demás se procederá conforme a las reglas del Capítulo Quinto Título Undécimo, Libro segundo del Código Civil.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+La sentencia que declare la presunción de muerte de un ausente casado pone término a la sociedad conyugal, y en todo lo demás se procederá conforme a las reglas del Capítulo Quinto Título Séptimo, Libro segundo del Código Familiar del Estado.
 
 645.- La sentencia que declare la presunción de fallecimiento será ejecutada después de que haya pasado en autoridad de cosa juzgada. Una copia de la sentencia se enviará a la Oficina del Registro Civil en que conste la partida de nacimiento del ausente, para que se haga la anotación.
 
@@ -4861,7 +4937,7 @@ La resolución que niegue los alimentos es recurrible en queja ante el superior.
 
 714.- En los casos de divorcio y nulidad del matrimonio, el Juez separará a los cónyuges, dictando las medidas conducentes para que no se causen perjuicios en sus bienes y las precauciones que la Ley establece respecto a la mujer que quede encinta; aplicándose en lo que procediere las reglas del domicilio provisional como acto prejudicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 1975)</small>
 
 715.- El cambio de domicilio a uno provisional de menores e incapacitados, se decretará como providencia cautelar:
 
@@ -6202,3 +6278,13 @@ Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 15 DE NOVIEMBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este decreto.
+
+Artículo tercero.- La titular del Ejecutivo dentro de los noventa días siguientes a la entrada en vigor de este instrumento legislativo, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento del Registro Civil.
+
+Artículo cuarto.- Los juicios iniciados con anterioridad a la vigencia del presente decreto, deberán concluirse de conformidad con las disposiciones vigentes al momento de su interposición.
