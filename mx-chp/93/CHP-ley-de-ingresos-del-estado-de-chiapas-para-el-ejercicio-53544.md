@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-53544"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2006-12-20"
-last_updated: "2007-05-10"
+last_updated: "2007-10-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2007
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 20 de diciembre de 2006.
 
@@ -677,23 +677,27 @@ La autoridad hacendaria previa solicitud y justificación del Instituto de Desar
 
 Los derechos por los servicios que presta la Dirección del Registro Público de la Propiedad y de Comercio, serán cubiertos conforme a lo siguiente:
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 Servicio Tarifa
+
+S.M.D.V.E.
 
 I. Por la inscripción de documentos por los que:
 
-a) Se adquiera o transmita el dominio o la
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-posesión de bienes inmuebles o derechos
+a) Se adquiera o transmita el dominio
 
-reales, incluyendo compraventas en las que
+o la posesión de bienes inmuebles o
 
-el vendedor se reserve el dominio. 6.0 al millar
+derechos reales, incluyendo compraventas
 
-b) Se adquiera o transmita por primera
+en las que el vendedor se reserve el dominio. 20.5
 
-ocasión el dominio o la posesión de
+b) (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-viviendas de interés social. 2.5 al millar
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 c) Se realicen daciones en pago o
 
@@ -701,13 +705,11 @@ adjudicaciones judiciales o fiduciarias
 
 a personas que por disposición legal
 
-no puedan conservar la propiedad
+no puedan conservar la propiedad de los
 
-de los bienes dados en pago o
+bienes dados en pago o adjudicados. 15.5
 
-adjudicados. 6.0 al millar
-
-La base para el pago de los derechos contemplados en esta fracción, será el valor más alto entre el de adquisición o transmisión y el del avalúo practicado por la autoridad hacendaria o por persona autorizada por la misma.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 II. Por la inscripción de documentos
 
@@ -717,25 +719,25 @@ o usufructos vitalicios. 6.0 S.M.D.V.E.
 
 III. Por la inscripción de:
 
-a) Contratos u operaciones de crédito
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-o mutuo con garantía hipotecaria o
+a) Contratos u operaciones de crédito o
 
-prendaría. 4.0 al millar
+mutuo con garantía hipotecaria o prendaria. 20.5
 
-b) Contratos u operaciones de crédito
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-o mutuo con garantía hipotecaria o
+b) Contratos u operaciones de crédito o
 
-prendaría que se destinen al
+mutuo con garantía hipotecaria o prendaria
 
-financiamiento de la vivienda de
+que se destinen al financiamiento de la
 
-interés social o al financiamiento de
+vivienda de interés social o al
 
-la producción agrícola. 1.0 al millar
+financiamiento de la producción agrícola. 8.5
 
-La base para el pago de los derechos contemplados en esta fracción será el monto del crédito o de la obligación garantizada, sin incluir los intereses ni otros accesorios.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 IV. Por la inscripción de los convenios
 
@@ -777,13 +779,15 @@ o convenios mencionados en las
 
 fracciones VI y VII de este artículo. 8.0 S.M.D.V.E.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 IX. Por la inscripción de embargos sobre
 
 bienes inmuebles, o por inscripción de
 
-cédulas hipotecarias. 6.0 al millar
+cédulas hipotecarias. 15.5
 
-La base para el pago de los derechos contemplados en esta fracción será el monto del capital demandado, sin incluir los intereses ni otros accesorios.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 X. Por la cancelación de los gravámenes
 
@@ -793,17 +797,15 @@ artículo. 8.0 S.M.D.V.E.
 
 Cuando por resolución judicial o administrativa se adjudique un bien y este reporte varios gravámenes, el pago de derechos por cancelación se hará por cada gravamen, salvo que los gravámenes se encuentren relacionados con el mismo negocio, pues en este caso solo se pagarán derechos por la cancelación del primer gravamen y este dejara sin efecto la inscripción de los gravámenes subsecuentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+
 XI. Por la inscripción de documentos
 
 en que consten fianzas, contrafianzas
 
-u obligaciones solidarias con el fiador. 4.0 al millar
+u obligaciones solidarias con el fiador. 21.5
 
-La base para el pago de los derechos
-
-contemplados en esta fracción será el
-
-monto de la obligación garantizada.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 XII. Por la cancelación de inscripciones
 
@@ -1307,9 +1309,15 @@ efectos en el extranjero. 15.0
 
 ### Capítulo II. Derechos por Servicios que presta la Secretaría de Planeación y Finanzas
 
-#### Sección Primera. Servicios que presta la Dirección de Ingresos
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-#### Sección Segunda. Servicios de Control Vehicular, que prestan las Áreas de Recaudación de Ingresos
+#### Sección Primera (sic). Derechos por Servicios que Presta la Secretaría de Finanzas
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+#### Sección Segunda. Servicios que Presta la Dirección de Ingresos
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### Artículo 19.
 
@@ -1365,7 +1373,69 @@ V. Por la expedición de constancias de
 
 no adeudo. 3.0
 
-#### Sección Tercera. Servicios que presta la Dirección de Catastro Urbano y Rural
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VI. Expedición de permiso para
+
+la apertura y funcionamiento de establecimiento
+
+que tengan como actividad ofertar al público la
+
+celebración de contratos de mutuo con interés
+
+y garantía prendaria, a través de las llamadas
+
+Casas de Empeño. 500.0
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VII. Revalidación de permisos para la apertura,
+
+instalación y funcionamiento de establecimientos
+
+que tengan como actividad ofertar al público la
+
+celebración de contratos de mutuo con interés y
+
+garantía prendaria, a través de las llamadas
+
+Casas de Empeño. 500.0
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+VIII. Modificación de permisos para la apertura,
+
+Instalación y funcionamiento de establecimientos
+
+Que tengan como actividad ofertar al público la
+
+Celebración de contratos de muto con interés y
+
+Garantía prendaria, a través de las llamadas
+
+Casas de Empeño. 25.0
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IX. Por el estudio y análisis de la documentación
+
+presentada para solicitud de permisos de apertura,
+
+instalación y funcionamiento de establecimiento
+
+que tengan como actividad principal ofertar al
+
+público la celebración de contrato de mutuo con
+
+interés y garantía prendaria a través de las
+
+llamadas Casas de Empeño. 10.0
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+#### Sección Tercera. Servicios de Control Vehicular, que prestan las Áreas de Recaudación de Ingresos
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### Artículo 20.
 
@@ -1427,7 +1497,11 @@ triciclos o tetraciclos. 0.5
 
 Los contribuyentes que realicen el pago del derecho por renovación anual de tarjeta de circulación, señalado en la fracción VII de este artículo en los meses de enero y febrero, gozarán sobre el importe de éste una reducción del 20% y 10% respectivamente.
 
-#### Sección Cuarta. Servicios que presta la Dirección de Cobranza y Procedimientos Tributarios
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+#### Sección Cuarta. Servicios que presta la Dirección de Catastro Urbano y Rural
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### Artículo 21.
 
@@ -1456,6 +1530,8 @@ selectivo. 8.0
 III. Habitacionales urbanos de primera,
 
 horizontal y vertical tipo residencial. 14.0
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### Artículo 22.
 
@@ -1733,6 +1809,8 @@ solicitud de personas físicas o
 
 morales. 0.5
 
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
+
 ###### Artículo 23.
 
 Por autorización y registro de licencias para peritos valuadores causarán los derechos por cada especialidad de la siguiente forma:
@@ -1757,7 +1835,11 @@ IV. Aplicación de examen a aspirantes
 
 a perito valuador 8.0
 
-#### Sección Quinta. Servicios que presta la Dirección de Auditoria Fiscal
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+#### Sección Quinta. Servicios que presta la Dirección de Cobranza y Procedimientos Tributarios
+
+(REUBICADO, P.O. 3 DE OCTUBRE DE 2007)
 
 ###### Artículo 24.
 
@@ -1818,6 +1900,22 @@ III. Por la búsqueda de expedientes,
 que sean competencia de esta
 
 Dirección y que obren en sus archivos. 1.5
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+
+IV. Por la práctica de visita de verificación para
+
+otorgar el permiso de la apertura, instalación y
+
+funcionamiento de establecimiento que tengan
+
+como actividad principal ofertar al público la
+
+celebración de contrato mutuo con interés y
+
+garantía prendaria, a través de las llamadas
+
+Casas de Empeño. 15.0
 
 ### Capítulo III. Derechos por Servicios que presta la Secretaría de Seguridad Pública
 
@@ -3130,3 +3228,9 @@ P.O. 10 DE MAYO DE 2007.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las reformas a los artículos 202, 205-B, 206, 211, 216, 221, 228 y 236; así como la adición del artículo 271-H, del Código de la Hacienda Pública para el Estado de Chiapas, iniciarán su vigencia a partir del primero de enero de 2008.
+
+P.O. 3 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
