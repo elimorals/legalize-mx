@@ -4,7 +4,7 @@ identifier: "JAL-arancel-para-abogados-12365"
 country: "mx"
 rank: "otro"
 publication_date: "1955-01-01"
-last_updated: "2003-08-28"
+last_updated: "2007-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ARANCEL PARA ABOGADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 4 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 Arancel publicado en el Periódico Oficial del Estado de Jalisco, el sábado 1 de enero de 1955.
 
@@ -208,3 +208,11 @@ Segundo. La aplicación de este arancel será para los negocios que se inicien c
 P.O. 28 DE AGOSTO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE OCTUBRE DE 2007.
+
+PRIMERO. Se abroga el decreto 6010 publicado el primero de enero de 1955 que contiene el Arancel para Abogados.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+TERCERO. Los asuntos judiciales que hayan iniciado antes de la entrada en vigor del presente Arancel, se regirán por lo dispuesto en el Arancel para Abogados.
