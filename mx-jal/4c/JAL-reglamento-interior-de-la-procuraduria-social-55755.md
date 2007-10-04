@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-procuraduria-social-55755"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-19"
-last_updated: "2007-05-19"
+last_updated: "2007-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA PROCURADURIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 19 de mayo de 2007.
 
@@ -513,17 +513,301 @@ XII. Llevar el registro de desempeño de los agentes mediadores y conciliadores 
 
 La Procuraduría contará con un Coordinador General de Regiones que tendrá a su cargo la supervisión de las coordinaciones regionales en materia de defensoría de oficio, representación social y servicios jurídicos asistenciales, en los términos que determinen los Subprocuradores en el ámbito de sus respectivas atribuciones.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 35.
 
 El Coordinador General de Regiones se encargará de supervisar que en todas las regiones en las que presta sus servicios la Procuraduría, se haga en forma eficiente y con austeridad en la aplicación de los recursos de la misma.
 
+Asimismo, rendirá un informe mensual al Procurador y a los Subprocuradores, respecto de los servicios que presta la Procuraduría en el Estado.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 36.
 
-El Coordinador General Regiones rendirá informe mensual al Procurador y a los Subprocuradores, respecto de los servicios que presenta la Procuraduría en el Estado.
+Por cada Coordinación Regional habrá un Coordinador que tendrá a su cargo la supervisión y atribuciones en materia de defensoría de oficio, representación social y servicios jurídicos asistenciales, en los términos que determine la Ley, el presente Reglamento y el Coordinador General de Regiones.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 37.
 
-Habrá un Coordinador por cada Coordinación Regional que Tendrán a su cargo la supervisión y atribuciones en materia de defensoría de oficio, representación social y servicios jurídicos asistenciales, en los términos que determine la Ley, el presente Reglamento y el Coordinador General de Regiones.
+Las circunscripciones territoriales en las que prestarán sus servicios las Coordinaciones Regionales de la Procuraduría Social serán las siguientes:
+
+I.- Región 01 Norte con sede en Colotlán, que comprende los siguientes municipios:
+
+Bolaños
+
+Colotlán
+
+Chimaltitán
+
+Huejúcar
+
+Huejuquilla el Alto
+
+Mezquitic
+
+San Martín de Bolaños
+
+Santa María de los Ángeles
+
+Totatiche
+
+Villa Guerrero
+
+II.- Región 02 Altos Norte con sede en Lagos de Moreno, que integra a los siguientes municipios:
+
+Encarnación de Díaz
+
+Lagos de Moreno
+
+Ojuelos de Jalisco
+
+San Juan de los Lagos
+
+Teocaltiche
+
+Unión de San Antonio
+
+Villa Hidalgo
+
+San Diego de Alejandría
+
+III.- Región 03 Altos Sur con sede en Tepatitlán de Morelos, que se integracon los siguientes municipios:
+
+Acatic
+
+Arandas
+
+Cañadas de Obregón
+
+Jalostotitlán
+
+Jesús María
+
+Mexticacán
+
+San Ignacio Cerro Gordo
+
+San Julián
+
+San Miguel el Alto
+
+Tepatitlán de Morelos
+
+Valle de Guadalupe
+
+Yahualica de González Gallo
+
+IV.- Región 04 Ciénega con sede en Ocotlán, comprendiendo los siguientes municipios:
+
+Jamay
+
+La Barca
+
+Ocotlán
+
+Poncitlán
+
+Tototlán
+
+Zapotlán del Rey
+
+Chapala
+
+Jocotepec
+
+Tuxcueca
+
+Tizapán el Alto
+
+Atotonilco el Alto
+
+Ayotlán
+
+Degollado
+
+V.- Región 05 Sureste con sede en Tamazula de Gordiano, comprendiendo los municipios de:
+
+Concepción de Buenos Aires
+
+Jilotlán de los Dolores
+
+Manuel M. Diéguez
+
+Mazamitla
+
+La Manzarilla de la Paz
+
+Pihuamo
+
+Quitupan
+
+Tamazula de Gordiano
+
+Tecalitlán
+
+Valle de Juárez
+
+VI.- Región 06 Sur cuya sede es Zapotlán el Grande, comprendiendo los municipios de:
+
+Amacueca
+
+Atemajac de Brizuela
+
+Atoyac
+
+Zapotlán el Grande
+
+Gómez Farías
+
+Sayula
+
+Tapalpa
+
+Techaluta de Montenegro
+
+Teocuitatlán de Corona
+
+Tolimán
+
+Tonila
+
+Tuxpan
+
+San Gabriel
+
+Zacoalco de Torres
+
+Zapotiltic
+
+Zapotitlán de Vadillo
+
+VII. Región 07 Sierra de Amula con sede en el Grullo, integrada por los siguientes municipios:
+
+Atengo
+
+Ejutla
+
+El Grullo
+
+Juchitlán
+
+El Limón
+
+Tecolotlán
+
+Tenamaxtlán
+
+Tonaya
+
+Tuxcacuesco
+
+Unión de Tula
+
+Chiquilistlán
+
+VIII. Región 08 Costa Sur con sede en Autlán de Navarro, integrada por los municipios de:
+
+Autlán de Navarro
+
+Casimiro Castillo
+
+Cihuatlán
+
+Cuautitlán de García Barragán
+
+La Huerta
+
+Villa Purificación
+
+IX. Región 09 Costa Norte con sede en Puerto Vallarta, integrada por los municipios de:
+
+Cabo Corrientes
+
+Puerto Vallarta
+
+Tomatlán
+
+X. Región 10 Sierra Occidental con sede en Mascota, comprendiendo los municipios de:
+
+Atenguillo
+
+Guachinango
+
+Mixtlán
+
+Ayutla
+
+Cuautla
+
+Mascota
+
+San Sebastián del Oeste
+
+Talpa de Allende
+
+XI. Región 11 Valles con sede en Ameca, que comprende los municipios de:
+
+Ahualulco de Mercado
+
+Amatitán
+
+Ameca
+
+San Juanito de Antonio Escobedo
+
+Arenal
+
+Cocula
+
+Etzatlán
+
+Hostotipaquillo
+
+Magdalena
+
+San Marcos
+
+San Martín de Hidalgo
+
+Tala
+
+Tequila
+
+Teuchitlán
+
+XII. Región 12 Centro con sede en Guadalajara, que comprende los municipios de:
+
+Acatlán de Juárez
+
+Cuquío
+
+El Salto
+
+Ixtlahuacán del Río
+
+Ixtlahuacán de los Membrillos
+
+Juanacatlán
+
+San Cristóbal de la Barranca
+
+Tlajomulco de Zúñiga
+
+Villa Corona
+
+Zapotlanejo
+
+XIII. Subregión Centro Conurbada con sede en Guadalajara, comprendiendo los municipios de:
+
+Guadalajara
+
+TIaquepaque
+
+Tonalá
+
+Zapopan
 
 #### SECCIÓN V. DE LOS AGENTES DE LA PROCURADURÍA SOCIAL
 
@@ -836,3 +1120,13 @@ LIC. PEDRO RUIZ HIGUERA
 Procurador Social
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2007.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior de la Procuraduría Social entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Procurador Social deberá realizar las acciones que sean necesarias para establecer las Coordinaciones Regionales de la Procuraduría Social en las circunscripciones territoriales establecidas en el presente Reglamento, de conformidad con la disponibilidad presupuestaria.
+
+TERCERO. Hasta en tanto se establezcan las Coordinaciones Regionales como lo señala el presente Reglamento, el Procurador Social podrá, mediante acuerdo, establecer las circunscripciones territoriales conforme a los recursos con los que cuenta.
