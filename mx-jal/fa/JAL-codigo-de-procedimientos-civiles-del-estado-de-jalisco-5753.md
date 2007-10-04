@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2007-05-31"
+last_updated: "2007-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5268,9 +5268,17 @@ V.- La confesión de la deuda hecha ante Juez competente por el deudor o por su 
 
 VI.- Los convenios celebrados en el curso de un juicio ante el Juez, ya sea de las partes entre sí o de terceros que se hubiere obligado como fiadores, depositarios o en cualquiera forma;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE OCTUBRE DE 2007)</small>
+
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII.- El Juicio uniforme de contadores, si las partes ante el Juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2007)</small>
+
+VIII.- El Juicio uniforme de contadores, si las partes ante el Juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2007)</small>
+
+IX.- El contrato de prestación de servicios profesionales ratificado ante notario público.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5614,14 +5622,6 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5629,6 +5629,14 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8739,3 +8747,7 @@ SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de es
 P.O. 31 DE MAYO DE 2007.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
