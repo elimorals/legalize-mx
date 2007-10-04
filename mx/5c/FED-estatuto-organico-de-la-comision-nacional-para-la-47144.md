@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-47144"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-22"
-last_updated: "2005-12-22"
+last_updated: "2007-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47144&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-12-16"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS, PUBLICADO EN EL D.O.F. DE 4 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de diciembre de 2005.
 
@@ -1108,3 +1110,15 @@ CUARTO.- Se abroga el Acuerdo Delegatorio publicado en el Diario Oficial de la F
 QUINTO.- Las actuaciones que hayan sido iniciadas por las unidades administrativas previstas en el Estatuto Orgánico que deja de tener vigencia serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
 
 México, D.F., a 16 de diciembre de 2005.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Oscar Levín Coppel.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 4 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presidente, en ejercicio de las facultades que le confieren los artículos 26 y 27 de la Ley, DELEGA en los funcionarios titulares de las diversas unidades administrativas que este Estatuto Orgánico establece, las atribuciones señaladas en cada uno de los artículos contenidos en el mismo.
+
+TERCERO.- Se abroga el Estatuto Orgánico publicado en el Diario Oficial de la Federación el día 22 de diciembre de 2005.
+
+CUARTO.- Las actuaciones que hayan sido iniciadas por las unidades administrativas previstas en el Estatuto Orgánico que deja de tener vigencia serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
