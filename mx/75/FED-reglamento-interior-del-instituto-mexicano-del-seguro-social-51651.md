@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-mexicano-del-seguro-social-51
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-18"
-last_updated: "2006-09-18"
+last_updated: "2007-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-09-11"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 18 de septiembre de 2006.
 
@@ -2489,17 +2489,23 @@ e) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social
 
 Jurisdicción: Los Municipios de Jaral del Progreso, Moroleón, Salamanca, Santa Cruz de Juventino Rosas, Uriangato, Valle de Santiago y Yuriria.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
 XI. Delegación Estatal Guerrero.
 
 Jurisdicción: Estado de Guerrero.
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Acapulco.
 
-Jurisdicción: Los Municipios de Acapulco de Juárez, Ajuchitlán del Progreso, Atoyac de Álvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Copala, Copalillo, Copanatoyac, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Acapulco de Juárez, Ajuchitlán del Progreso, Atoyac de Álvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Cochoapa el Grande, Copala, Copalillo, Copanatoyac, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Joaquín de Herrera, Juchitán, Marquelia, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Chilpancingo.
 
-Jurisdicción: Los Municipios de Acatepec, Ahuacuotzingo, Alcozauca de Guerrero, Atlamajalcingo del Monte, Atlixtac, Cualác, Chilapa de Álvarez, Chilpancingo de los Bravo, Eduardo Neri, Huamuxtitlán, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Acatepec, Ahuacuotzingo, Alcozauca de Guerrero, Atlamajalcingo del Monte, Atlixtac, Cualác, Chilapa de Álvarez, Chilpancingo de los Bravo, Eduardo Neri, Huamuxtitlán, Iliatenco, Juan R. Escudero, Leonardo Bravo, Malinaltepec, Mártir de Cuilapan, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
 
 c) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Iguala.
 
@@ -2559,7 +2565,9 @@ Jurisdicción: Los Municipios de Cabo Corrientes, Cihuatlán, Puerto Vallarta, T
 
 g) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Tepatitlán de Morelos.
 
-Jurisdicción: Los Municipios de Acatíc, Arandas, Cañadas de Obregón, Encarnación de Díaz, Jalostotitlán, Jesús María, Lagos de Moreno, Mexticacán, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Miguel el Alto, Teocaltiche, Tepatitlán de Morelos, Unión de San Antonio, Valle de Guadalupe, Villa Hidalgo, Yahualica de González Gallo y Zapotlanejo.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Acatíc, Arandas, Cañadas de Obregón, Encarnación de Díaz, Jalostotitlán, Jesús María, Lagos de Moreno, Mexticacán, Ojuelos de Jalisco, San Diego de Alejandría, San Ignacio Cerro Gordo, San Juan de los Lagos, San Julián, San Miguel el Alto, Teocaltiche, Tepatitlán de Morelos, Unión de San Antonio, Valle de Guadalupe, Villa Hidalgo, Yahualica de González Gallo y Zapotlanejo.
 
 XIV. Delegación Regional Estado de México Oriente.
 
@@ -2567,7 +2575,9 @@ Jurisdicción: Comprende los Municipios de:
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Ecatepec.
 
-Jurisdicción: Los Municipios de Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de Las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tequixquiac y Zumpango.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de Las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tequixquiac, Tonanitla y Zumpango.
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Los Reyes-La Paz.
 
@@ -2865,7 +2875,9 @@ Jurisdicción: Los Municipios de Acuamanala de Miguel Hidalgo, Altzayanca, Amaxa
 
 XXX. Delegación Regional Veracruz Norte.
 
-Jurisdicción: Comprende los Municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alto Lucero, Altotonga, Alvarado, Ángel R. Cabada, Apazapan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzintla, Colipa, Cosautlán de Carvajal, Cotaxtla, Coxquihui, Coyutla, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ignacio de La Llave, Ilamatlán, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Jalacingo, Jalcomulco, Jamapa, Jilotepec, Juchique de Ferrer, La Antigua, Landero y Coss, Las Minas, Las Vigas de Ramírez, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Mecatlán, Medellín, Miahuatlán, Misantla, Naolinco, Naranjos Amatlán, Nautla, Ozuluama, Papantla, Paso de Ovejas, Perote, Platón Sánchez, Poza Rica de Hidalgo, Puente Nacional, Rafael Lucio, Saltabarranca, San Andrés Tuxtla, Santiago Tuxtla, Soledad de Doblado, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Tatatila, Tecolutla, Tenochtitlán, Teocelo, Tepetlán, Tepetzintla, Texcatepec, Tihuatlán, Tlacolulan, Tlachichilco, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Tuxpan, Úrsulo Galván, Vega de Alatorre, Veracruz, Villa Aldama, Xalapa, Xico, Yecuatla, Zacualpan, Zontecomatlán de López y Fuentes y Zozocolco de Hidalgo.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Comprende los Municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alto Lucero, Altotonga, Alvarado, Ángel R. Cabada, Apazapan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzintla, Colipa, Cosautlán de Carvajal, Cotaxtla, Coxquihui, Coyutla, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ignacio de La Llave, Ilamatlán, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Jalacingo, Jalcomulco, Jamapa, Jilotepec, Juchique de Ferrer, La Antigüa, Landero y Coss, Las Minas, Las Vigas de Ramírez, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Mecatlán, Medellín, Miahuatlán, Misantla, Naolinco, Naranjos Amatlán, Nautla, Ozuluama, Papantla, Paso de Ovejas, Perote, Platón Sánchez, Poza Rica de Hidalgo, Puente Nacional, Rafael Lucio, Saltabarranca, San Andrés Tuxtla, San Rafael, Santiago Tuxtla, Soledad de Doblado, Tamalín, Tamiahua, Tancoco, Tantima, Tantoyuca, Tatatila, Tecolutla, Tenochtitlán, Teocelo, Tepetlán, Tepetzintla, Texcatepec, Tihuatlán, Tlacolulan, Tlachichilco, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Tuxpan, Úrsulo Galván, Vega de Alatorre, Veracruz, Villa Aldama, Xalapa, Xico, Yecuatla, Zacualpan, Zontecomatlán de López y Fuentes y Zozocolco de Hidalgo.
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Lerdo de Tejada.
 
@@ -2873,7 +2885,9 @@ Jurisdicción: Los Municipios de Alvarado, Ángel R. Cabada, Catemaco, Lerdo de 
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Martínez de la Torre.
 
-Jurisdicción: Los Municipios de Altotonga, Atzalan, Colipa, Gutiérrez Zamora, Jalacingo, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, Tecolutla, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Altotonga, Atzalan, Colipa, Gutiérrez Zamora, Jalacingo, Juchique de Ferrer, Martínez de la Torre, Misantla, Nautla, San Rafael, Tecolutla, Tenochtitlán, Tlapacoyan, Vega de Alatorre y Yecuatla.
 
 c) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Poza Rica de Hidalgo.
 
@@ -2889,7 +2903,9 @@ Jurisdicción: Los Municipios de Acajete, Acatlán, Actopan, Alto Lucero, Apazap
 
 XXXI. Delegación Regional Veracruz Sur.
 
-Jurisdicción: Comprende los Municipios de: Acayucan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Amatitlán, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Coatzacoalcos, Coetzala, Comapa, Córdoba, Cosamaloapan de Carpio, Coscomatepec, Cosoleacaque, Cuichapa, Cuitláhuac, Chacaltianguis, Chinameca, Chocamán, Fortín, Hidalgotitlán, Huatusco, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Isla, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatláhuacan, Ixtaczoquitlán, Jáltipan, Jesús Carranza, José Azueta, Juan Rodríguez Clara, La Perla, Las Choapas, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mecayapan, Minatitlán, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naranjal, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Pajapan, Paso del Macho, Playa Vicente, Rafael Delgado, Río Blanco, San Andrés Tenejapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soteapan, Tatahuicapan de Juárez, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlacotepec de Mejía, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Totutla, Tres Valles, Tuxtilla, Uxpanapa, Xoxocotla, Yanga, Zaragoza, Zentla, Zongolica y los Municipios de Acatlán de Pérez Figueroa, Cosolapa y Nuevo Soyaltepec del Estado de Oaxaca.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Comprende los Municipios de: Acayucan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Amatitlán, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Coatzacoalcos, Coetzala, Comapa, Córdoba, Cosamaloapan de Carpio, Coscomatepec, Cosoleacaque, Cuichapa, Cuitláhuac, Chacaltianguis, Chinameca, Chocamán, Fortín, Hidalgotitlán, Huatusco, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Isla, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatláhuacan, Ixtaczoquitlán, Jáltipan, Jesús Carranza, José Azueta, Juan Rodríguez Clara, La Perla, Las Choapas, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mecayapan, Minatitlán, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naranjal, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Pajapan, Paso del Macho, Playa Vicente, Rafael Delgado, Río Blanco, San Andrés Tenejapan, San Juan Evangelista, Santiago Sochiapan, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soteapan, Tatahuicapan de Juárez, Tehuipango, Tenampa, Tepatlaxco, Tequila, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlacotepec de Mejía, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Totutla, Tres Valles, Tuxtilla, Uxpanapa, Xoxocotla, Yanga, Zaragoza, Zentla, Zongolica y los Municipios de Acatlán de Pérez Figueroa, Cosolapa y Nuevo Soyaltepec del Estado de Oaxaca.
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Coatzacoalcos.
 
@@ -2907,7 +2923,9 @@ Jurisdicción: Los Municipios de Alpatláhuac, Amatlán de Los Reyes, Atoyac, Ca
 
 d) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Cosamaloapan.
 
-Jurisdicción: Los Municipios de Acula, Amatitlán, Carlos A. Carrillo, Cosamaloapan de Carpio, Chacaltianguis, Isla, Ixmatláhuacan, José Azueta, Juan Rodríguez Clara, Otatitlán, Playa Vicente, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles y Tuxtilla.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Acula, Amatitlán, Carlos A. Carrillo, Cosamaloapan de Carpio, Chacaltianguis, Isla, Ixmatláhuacan, José Azueta, Juan Rodríguez Clara, Otatitlán, Playa Vicente, Santiago Sochiapan, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles y Tuxtilla.
 
 e) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Orizaba.
 
@@ -2931,7 +2949,9 @@ Jurisdicción: Estado de Zacatecas.
 
 a) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Ciudad de Zacatecas.
 
-Jurisdicción: Los Municipios de Apozol, Apulco, Atolinga, Benito Juárez, Concepción del Oro, Cuauhtémoc, El Plateado de Joaquín Amaro, El Salvador, Genaro Codina, General Francisco R. Murguía, General Pánfilo Natera, Guadalupe, Huanusco, Jalpa, Jerez, Juchipila, Loreto, Luis Moya, Mazapil, Melchor Ocampo, Mezquital del Oro, Momax, Monte Escobedo, Morelos, Moyahua de Estrada, Nochistlán de Mejía, Noria de Ángeles, Ojocaliente, Pánuco, Pinos, Susticacán, Tabasco, Tepechitlán, Tepetongo, Teúl de González Ortega, Tlaltenango de Sánchez Román, Trancoso, Trinidad García de la Cadena, Vetagrande, Villa García, Villa González Ortega, Villa Hidalgo, Villanueva y Zacatecas.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2007)</small>
+
+Jurisdicción: Los Municipios de Apozol, Apulco, Atolinga, Benito Juárez, Concepción del Oro, Cuauhtémoc, El Plateado de Joaquín Amaro, El Salvador, Genaro Codina, General Francisco R. Murguía, General Pánfilo Natera, Guadalupe, Huanusco, Jalpa, Jerez, Juchipila, Loreto, Luis Moya, Mazapil, Melchor Ocampo, Mezquital del Oro, Momax, Monte Escobedo, Morelos, Moyahua de Estrada, Nochistlán de Mejía, Noria de Ángeles, Ojocaliente, Pánuco, Pinos, Santa María de la Paz, Susticacán, Tabasco, Tepechitlán, Tepetongo, Teúl de González Ortega, Tlaltenango de Sánchez Román, Trancoso, Trinidad García de la Cadena, Vetagrande, Villa García, Villa González Ortega, Villa Hidalgo, Villanueva y Zacatecas.
 
 b) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Fresnillo.
 
@@ -3038,3 +3058,9 @@ OCTAVO. Las modificaciones que en virtud del presente Reglamento se lleven a cab
 > <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2006)</small>
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Francisco Javier Salazar Sáenz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
