@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2007-10-03"
+last_updated: "2007-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -445,31 +445,43 @@ Si las personas que tienen derecho a la reparación del daño renuncian a ella o
 
 ### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 51.
 
-El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos, objetos y productos del delito a favor del Fondo Auxiliar para la Administración de Justicia del Estado.
+El decomiso consiste en la aplicación por decisión jurisdiccional, de los instrumentos, objetos y productos del delito a favor del Fondo de Apoyo a la Procuración de Justicia del Estado y del Fondo Auxiliar para la Administración de Justicia del Estado, en los términos del presente Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 52.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán preventivamente si son de uso prohibido; si son de uso lícito lo mismo se hará, pero será hasta sentencia cuando se dicten dichas sanciones, por delito doloso. Si pertenecen a un tercero, sólo se decomisarán cuando hayan sido empleados con fines delictivos y con conocimiento de su dueño.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los instrumentos de uso lícito sólo se decomisarán al inculpado cuando se le condene por delito doloso. Si el instrumento pertenece a terceros, sólo se decomisará cuando se empleó para fines delictivos, con conocimiento de su dueño. Los productos, rendimientos o beneficios obtenidos por el inculpado o por otras personas, como resultado del delito, serán decomisados, al igual que las cosas sea cual sea su naturaleza que a nombre del inculpado o de terceros hayan sido adquiridas con aquellos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+La autoridad judicial determinará el destino de los instrumentos, objetos o productos del delito que sean materia de decomiso, en proporción del cincuenta por ciento respectivamente al Fondo Auxiliar para la Administración de Justicia del Estado y al Fondo de Apoyo a la Procuración de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 09 DE JULIO DE 1999)</small>
 
 Las autoridades competentes procederán al aseguramiento de bienes para efecto de la acreditación del cuerpo del delito y la probable responsabilidad, los que podrán ser materia de decomiso. Se actuará en los términos previstos en este párrafo, cualquiera que sea la naturaleza de los instrumentos o productos del delito.
 
-> <small>(REFORMADO P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 53.
 
-Los objetos o valores que se encuentren a disposición del Ministerio Público del Fuero Común, que no hayan sido decomisados ni recogidos por quien tenga derecho a ello en un lapso de seis meses, contados a partir de la notificación al interesado, se enajenarán en subasta pública en los términos establecidos por este Código y la Ley del Fondo de Apoyo a la Procuración de Justicia en el Estado y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado éste, no se presenta a recoger dicho producto dentro de los noventa días naturales siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración de justicia local, previas las deducciones de los gastos ocasionados.
+Los bienes, objetos o valores que sean asegurados por el Ministerio Público, que no sean recogidos por quien tenga derecho a ello en un plazo de cuarenta y cinco días hábiles, computable a partir de la notificación personal e indubitable al interesado, se enajenarán, previo avalúo pericial y mediante subasta pública, conforme a las reglas que precise el Fondo de Apoyo a la Procuración de Justicia del Estado y el producto de la venta se aplicará al mismo.
+
+La notificación al interesado, si está identificado o es identificable deberá hacerse personalmente si se tiene su domicilio, de no tenerse este último, la notificación se hará mediante escrito que se fijará durante quince días naturales en lugar visible al público en la Agencia del Ministerio Público que hubiere asegurado el bien, así como con la publicación de un edicto en el Periódico Oficial "El Estado de Sinaloa" y en un periódico de mayor circulación en el Estado.
+
+Cuando respecto de los bienes asegurados por la comisión de uno o varios delitos, no aparezcan datos de alguien con derecho a reclamarlos, no será necesaria notificación y la enajenación de los mismos deberá realizarse previo avalúo pericial y en subasta pública, y el producto de su venta se aplicará al Fondo de Apoyo a la Procuración de Justicia del Estado. De igual manera se procederá cuando los bienes asegurados no puedan ser identificados o identificables.
 
 Lo mismo se observará tratándose de objetos o valores que se encuentren a disposición de las autoridades judiciales, con la circunstancia de que el producto de la venta se destinará al mejoramiento de la administración de justicia local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 54.
 
-En el caso de bienes perecederos o de costosa conservación, que se encuentren a disposición del Ministerio Público del Fuero Común o de las autoridades judiciales, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, depositado en el Fondo de Apoyo a la Procuración de Justicia del Estado o del Fondo Auxiliar para la Administración de Justicia del Estado según corresponda.
+En el caso de bienes perecederos, de fácil descomposición o deterioro, de costosa conservación o de animales vivos, que sean asegurados por el Ministerio Público o que se encuentran a disposición de la autoridad judicial, se procederá a su venta inmediata, previo avalúo pericial y en subasta pública y el producto de la misma quedará depositado en el Fondo de Apoyo a la Procuración de Justicia del Estado o en el Fondo Auxiliar para la Administración de Justicia del Estado, según corresponda, a disposición de quien tenga derecho al mismo, quien dispondrá de un plazo de cuarenta y cinco días hábiles, computable a partir del día siguiente en que surta efectos la notificación personal e indubitable que al efecto se haga, para retirarlo, y si no lo hace, dicho importe se aplicará al Fondo respectivo.
 
 Si se tratare de substancias nocivas o peligrosas dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción si fuere indispensable.
 
@@ -775,6 +787,10 @@ Para los efectos de esta disposición, se entiende por pandilla la reunión habi
 
 Cuando se cometa algún delito por pandilla, se aplicarán, a los que intervengan en su comisión, además de las penas que les correspondan por él o los delitos cometidos, de seis meses a tres años de prisión.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policíaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
+
 ### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 95.
@@ -1009,11 +1025,13 @@ Si además de la pena de prisión el delito mereciere otra accesoria o alternati
 
 En los demás casos, la pretensión punitiva prescribirá en dos años.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 126.
 
-La pretensión punitiva que nazca de un delito que sólo pueda perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en dos años, contados a partir del día en que quienes puedan formular la querella o el acto equivalente tengan conocimiento del delito, y en tres años fuera de esta circunstancia.
+La querella o el acto equivalente a ésta, es requisito indispensable para el nacimiento de la pretensión punitiva del Estado para sancionar un delito que sólo pueda perseguirse a petición de parte ofendida. El plazo para su interposición prescribirá en dos años, contados a partir del día en que quienes puedan formular la querella o el acto equivalente tengan conocimiento del delito, pero no será mayor de tres años contados a partir del día en que el delito se cometió.
 
-Pero si satisfecho el requisito inicial de la querella o del acto equivalente, ya se hubiese deducido acción ante los tribunales, se observarán las reglas señaladas por la ley para los delitos que se persiguen de oficio.
+Satisfecho dentro del plazo antes señalado el requisito inicial de la querella o del acto equivalente, la prescripción de la pretensión punitiva deberá observar las reglas señaladas por la ley para los delitos que se persiguen de oficio.
 
 ###### ARTICULO 127.
 
@@ -1515,9 +1533,19 @@ A quien por medio de la violencia física o moral, realice cópula con persona d
 
 Para los efectos de este código, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 180.
 
-Se equipara a la violación y se castigará con prisión de diez a treinta años, cuando se realice la cópula con persona menor de doce años de edad, o con persona que aunque sea mayor de esa edad se halle sin sentido, o que por cualquier causa no tenga capacidad para comprender o posibilidad para resistir la conducta delictuosa.
+Se equiparará a la violación y se castigará con prisión de diez a treinta años:
+
+l. Al que sin violencia realice cópula con persona menor de doce años;
+
+II. Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
+
+III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+
+Si se ejerciere violencia física o moral, el mínimo y el máximo de la pena se aumentará en una mitad.
 
 ###### ARTICULO 181.
 
@@ -1573,9 +1601,11 @@ Sólo se perseguirá por querella de parte ofendida o de sus legítimos represen
 
 Para el delito de estupro, tanto el perdón otorgado por quien legalmente pueda hacerlo como el matrimonio del agente con la ofendida, extinguen la pretensión punitiva, cesando la acción penal, salvo que se declare nulo el matrimonio dentro del término de un año.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 187.
 
-Cuando se trate de los delitos de violación, inseminación artificial ilegal o atentados al pudor, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
+Cuando se trate de los delitos de violación, su equiparación, o cuando cualquiera de ambas se realice en forma tumultuaria, inseminación artificial ilegal o atentados al pudor, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -1753,31 +1783,67 @@ VII.- En caminos o carreteras de jurisdicción estatal.
 
 El agravamiento de las penas contenido en los dos artículos anteriores, también se aplicará tratándose de robo indeterminado y robo en grado de tentativa.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 207.
 
-Se impondrá de dos a diez años de prisión y de ciento ochenta a trescientos sesenta días multa, al que se apodere de cualquier vehículo automotor.
+Al que se apodere de un vehículo automotor ajeno, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley se le impondrá de dos a quince años de prisión y de trescientos cincuenta a quinientos cincuenta días multa.
 
-Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias previstas en el artículo 205 de este Código, la pena se aumentará de dos a diez años de prisión.
+La pena prevista en el párrafo anterior se aumentará en una mitad, al servidor público que participe en el apoderamiento de un vehículo automotor ajeno y que tenga a su cargo funciones de prevención, persecución, sanción del delito o ejecución de las penas y además se le aplicará la destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias previstas en el artículo 205 de este Código, a la pena prevista en el párrafo anterior se aumentará de dos a diez años de prisión.
 
-ARTICULO 207 BIS.- Se impondrán las mismas penas del artículo anterior al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 207 BIS.- Se sancionará con pena de dos a quince años de prisión y de trescientos cincuenta a quinientos días multa al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 I.- Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes;
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 II.- Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 III.- Detente, posea o custodie sin derecho, la documentación que acrediten la propiedad o identificación de un vehículo robado o bien, la altere o modifique de cualquier manera;
 
-IV.- Traslade el o los vehículos robados a otra entidad federativa; o
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+IV.- Traslade el o los vehículos robados a otra entidad federativa; o (sic)
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+VI.- Altere, modifique, falsifique, sustituya o suprima de cualquier modo, cualquiera de las series o numeración que identifican un vehículo automotor robado o de cualquiera de sus partes, o ejecute cualquier acto para ocultar la identidad original de aquél o éstas; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+VII.- Detente, posea, utilice, use, transite o custodie un vehículo robado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 A quien aporte recursos económicos o de cualquier índole, para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en los términos del artículo 18 de este Código.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por el doble del tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 207 BIS A.- Al que elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores, se le impondrán de cuatro a ocho años de prisión y de doscientos ochenta a cuatrocientos cincuenta días multa.
+
+Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, a sabiendas de que sean robados, falsificados u obtenidos indebidamente.
+
+Igualmente se impondrán dichas penas a quien, a sabiendas utilice para un vehículo robado o que se encuentre ilegalmente en el país, las placas, el engomado o los demás documentos oficiales expedidos para identificar otro vehículo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 207 BIS B.- A quien utilice para un vehículo las placas oficiales expedidas para identificar otro vehículo, se le impondrá de seis meses a dos años de prisión y hasta ciento cincuenta días multa.
 
 ###### ARTICULO 208.
 
@@ -1983,6 +2049,8 @@ Si la extorsión es realizada por una asociación delictuosa, o por servidor pú
 
 ### CAPITULO III. ARMAS PROHIBIDAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 232.
 
 Comete el delito de usura, el que abusando de la necesidad o ignorancia de una persona obtenga un lucro excesivo mediante préstamo con un interés superior al bancario u otras ventajas económicas desproporcionadas, de acuerdo con la naturaleza de la operación o con los usos comerciales.
@@ -2002,6 +2070,10 @@ Al que con ánimo de lucro, después de la ejecución de un delito y sin haber p
 Al que hubiese adquirido u ocultado el producto del delito sin conocimiento de su ilegítima procedencia, por no poner el cuidado necesario para asegurarse de que la persona de quien lo recibió tenía derecho para disponer de aquél, se le aplicará hasta la mitad de las penas señaladas en el artículo anterior.
 
 Se presume que no se tomaron las precauciones indispensables, cuando por la edad o condiciones económicas del que ofrece la cosa o por la naturaleza o valor de ésta, o por el precio en que se ofrece se infiera que no es propiedad del mismo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Se aplicará prisión de dos a seis años y de sesenta a ciento ochenta días multa, en el caso de que el producto del delito que se hubiese adquirido u ocultado sean bienes, frutos, productos, materiales, equipo, maquinaria, implementos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola, se presumirá que no se tomaron las precauciones indispensables, cuando no se obtenga por quien los adquiere u oculta, la documentación o cualquier otro medio legal apto que acredite la propiedad o derecho para disponer de ellos por aquél de quien se adquieren.
 
 ###### ARTICULO 235.
 
@@ -2093,7 +2165,9 @@ Este delito se perseguirá por querella de parte, excepto cuando el ofendido sea
 
 Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de tres a seis años y de cincuenta a doscientos días multa.
 
-Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, se impondrá de uno a tres años.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Cuando la sustracción de un menor o un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, lo cometa un familiar que no ejerza sobre él la patria potestad ni la tutela, se le impondrá de uno a tres años de prisión.
 
 Si el agente devuelve al menor o incapaz espontáneamente, dentro de los seis días siguientes a la consumación del delito se le aplicará hasta una tercera parte de las penas señaladas en los párrafos anteriores, según sea el caso.
 
@@ -2173,9 +2247,11 @@ Se aplicará pena de prisión de uno a cuatro años y de diez a cien días multa
 
 Salvo en los casos de deporte, prácticas de tiro dentro o fuera de competencia o periciales, en que no se aplicará pena alguna, si el disparo no se dirige contra alguna persona, se aplicarán de seis meses a dos años de prisión o de treinta a cincuenta días multa.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 250.
 
-La misma pena se impondrá al que ataque a alguien de tal manera que, en razón del medio empleado, del arma, la fuerza o destreza de la persona o de cualquier otra circunstancia semejante, pueda producir como resultado la muerte.
+Se aplicará prisión de uno a cuatro años y de diez días multa, al que ataque a otro de tal manera que, en razón del medio empleado, del arma, la fuerza o destreza de la persona o de cualquier otra circunstancia semejante, pueda producir como resultado la muerte.
 
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -2187,7 +2263,7 @@ Al que por incendio, explosión, inundación o por cualquier otro medio, cree un
 
 ###### ARTICULO 252.
 
-A quien porte, fabrique o acopie sin un fin lícito, instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años o de ciento ochenta a trescientos días multa y decomiso.
+A quien porte, fabrique o acopie sin un fin lícito, instrumentos de los no previstos en la Ley Federal de Armas de Fuego y Explosivos, que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de tres meses a tres años o de ciento ochenta a trescientos días multa y decomiso.
 
 Se entiende por acopio, la reunión de cinco o más armas de las que se refiere el párrafo anterior.
 
@@ -2198,6 +2274,10 @@ Los servidores públicos podrán portar las armas necesarias para el ejercicio d
 ###### ARTICULO 253.
 
 Al que forme parte de una asociación o banda de tres o más personas organizadas para delinquir, se le impondrá de uno a seis años de prisión, independientemente de la pena que le corresponda por el delito que pudiera cometer o haya cometido.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Cuando el miembro de la asociación sea o haya sido servidor público de alguna corporación de seguridad pública, la pena a que se refiere el párrafo anterior se aumentará en una mitad y se impondrá, además, la destitución del empleo, cargo o comisión públicos e inhabilitación de tres a seis años para desempeñar otro.
 
 ### CAPITULO II. MOTIN
 
@@ -2320,6 +2400,26 @@ Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un se
 ###### ARTICULO 271.
 
 Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de tres meses a tres años y de quince a noventa días multa, con independencia de las sanciones que le correspondan por la comisión de otros delitos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 271 BIS.- Se impondrán de tres a nueve años de prisión y de cien a quinientos días multa, al que, sin consentimiento de quien esté facultado para ello:
+
+I. Produzca, imprima, enajene, aún gratuitamente, distribuya, altere o falsifique tarjetas, títulos o documentos utilizados para la adquisición de bienes y servicios o para disposición de efectivo, otorgados por empresas comerciales distintas de las bancarias.
+
+II. Adquiera con propósito de lucro indebido, utilice, posea o detente, sin causa legitima, los objetos a que se refiere la fracción anterior o auténticos, sin el consentimiento de quien este facultado para ello;
+
+III. Altere los medios de identificación electrónica, o cualquiera de los objetos a que se refiere la fracción I.
+
+IV. Acceda a los equipos electromagnéticos de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+
+V. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos o documentos, para el pago de bienes o servicios o para disposición de efectivo, así como a quien posea o utilice la información sustraída, de esta forma;
+
+VI. Utilice indebidamente información confidencial o reservada de las instituciones o personas que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios, o de los titulares de dichos instrumentos o documentos; y,
+
+VII. Produzca, imprima, enajene, distribuya, altere, o falsifique vales utilizados para canjear bienes y servicios.
+
+En los casos de las fracciones VI y VII, si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán hasta en una mitad.
 
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
@@ -3434,6 +3534,32 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE OCTUBRE DE 2007.
 
 DECRETO NÚMERO 649, POR EL QUE SE REFORMAN LOS ARTÍCULOS 242, PRIMER PÁRRAFO; 243, PRIMER PÁRRAFO; 273; 274 BIS, PRIMER Y ÚLTIMO PÁRRAFOS; 274 BIS A; 274 BIS B; 274 BIS C; Y SE ADICIONA UN ARTÍCULO 274 BIS D AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO NÚMERO 650, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 94 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 253, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO NÚMERO 663, POR EL QUE SE REFORMAN LOS ARTÍCULOS 51; EL PÁRRAFO PRIMERO DEL 52; 53; Y, EL PÁRRAFO PRIMERO DEL 54; SE ADICIONA UN PÁRRAFO SEGUNDO, PASANDO EL ACTUAL PÁRRAFO SEGUNDO A SER PÁRRAFO TERCERO; AL 52; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se autoriza al Procurador General de Justicia del Estado para que, con la mayor brevedad, previo inventario y avalúo formulado por dos peritos valuadores de la propia institución, proceda a la venta de todos los bienes asegurados por el Ministerio Público, que lo hubieren sido a título de instrumentos u objetos de la comisión del delito o como producto de uno o más actos delictuosos, con más de dos años de antigüedad en esa calidad, que no hubiesen sido reclamados o recogidos por su dueño; su representante legal; en su caso, por su causahabiente o por quien pudiere haber tenido interés legitimo en los mismos.
+
+El producto de la venta de tales bienes deberá aplicarse, íntegramente, al Fondo de Apoyo para la Procuración de Justicia del Estado de Sinaloa.
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO NÚMERO 664, POR EL QUE SE REFORMAN LOS ARTÍCULOS 126; 180; 187, PRIMER PÁRRAFO; 207; Y 207 BIS, PRIMER PÁRRAFO; 242, SEGUNDO PÁRRAFO; 250; 252, PRIMER PÁRRAFO; Y SE ADICIONAN CON LAS FRACCIONES VI Y VII AL ARTÍCULO 207 BIS; LOS ARTÍCULOS 207 BIS A; 207 BIS B; UN TERCER PÁRRAFO, AL ARTÍCULO 234; Y, EL ARTÍCULO 271 BIS; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
 
 ###### ARTÍCULO ÚNICO.
 
