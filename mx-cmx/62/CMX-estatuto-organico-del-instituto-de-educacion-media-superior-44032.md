@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2006-10-13"
+last_updated: "2007-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-18"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2007.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -38,9 +38,11 @@ ESTATUTO ORGÁNICO DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR DEL DISTRITO FEDER
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 1.
 
-El Instituto de Educación Media Superior del Distrito Federal es un organismo público descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social del Distrito Federal, de conformidad con lo establecido en el Artículo Primero de su Decreto de Creación.
+El Instituto de Educación Media Superior del Distrito Federal es un Organismo Público Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de educación del Distrito Federal.
 
 ###### Artículo 2.
 
@@ -74,7 +76,9 @@ III. Estatuto de Gobierno: El Estatuto de Gobierno del Distrito Federal;
 
 IV. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
 
-V. Secretaría: La Secretaría de Desarrollo Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+
+V. Secretaría: La Secretaría de Educación del Distrito Federal;
 
 VI. Sistema: El Sistema de Bachillerato del Gobierno del Distrito Federal;
 
@@ -110,15 +114,29 @@ IV. El Titular de la Secretaría de Finanzas;
 
 V. El Titular de la Secretaría de Cultura;
 
-VI. El Titular de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
 
-VII. El Rector de la Universidad de la Ciudad de México;
+VI. El Titular de la Secretaría de Desarrollo Social;
 
-VIII. El Titular del Instituto de Ciencia y Tecnología del Distrito Federal;
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
 
-IX. Dos académicos emanados del Consejo Académico del Instituto; y
+VII. El Titular de la Oficialía Mayor;
 
-X. Dos ciudadanos designados por el Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+
+VIII. El Rector de la Universidad Autónoma de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+
+IX. El Titular del Instituto de ciencia y Tecnología del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2007)</small>
+
+X. Dos académicos emanados del Consejo Académico del Instituto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE OCTUBRE DE 2007)</small>
+
+XI. Dos ciudadanos designados por el Jefe de Gobierno del Distrito Federal.
 
 El cargo de miembro del Consejo será personal y no podrá desempeñarse por medio de representante. No obstante, cada titular podrá designar a su suplente, excepto en el caso del Presidente.
 
@@ -566,13 +584,13 @@ Los Órganos Consultivos se regirán por el reglamento para la Integración y Fu
 
 La educación media superior que imparta el Instituto, se realizará en los planteles que para este fin acuerde crear el Consejo de Gobierno. Los planteles conforman el Sistema de Bachillerato del Gobierno del Distrito Federal que se regirá por las Reglas Internas que para tal fin el Consejo de Gobierno apruebe.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 29.
 
-Cada plantel será administrado por un Subdirector de Coordinación de Planteles, el cual podrá ser nombrado de entre el personal académico por el Director General, y ratificado por el Consejo de Gobierno.
+Cada plantel será administrado por un Subdirector de Coordinación de Planteles, el cual podrá ser nombrado o removido por el Consejo de Gobierno, a propuesta del Director General, preferentemente de entre el personal académico del Instituto.
 
-Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación de Planteles se reincorporará al personal académico.
+Un Subdirector de Coordinación de Planteles durará en su cargo cuatro años y, en razón tanto de su desempeño como de los resultados obtenidos, podrá ser nombrado por un período igual en un plantel distinto. Una vez concluida su gestión, si así fuera el caso, el Subdirector de Coordinación del Planteles podrá reincorporarse a la función que desempeñaba antes de su primera designación u otra equivalente o semejante.
 
 ###### Artículo 30.
 
@@ -725,3 +743,9 @@ G.O. 13 DE OCTUBRE DE 2006.
 Primero. Publíquese la presente reforma en la Gaceta Oficial del Distrito Federal.
 
 Segundo. La presente reforma entrará en vigor a partir de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 5 DE OCTUBRE DE 2007.
+
+PRIMERO.- Publíquense las presentes reformas en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las presentes reformas entrarán en vigencia a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
