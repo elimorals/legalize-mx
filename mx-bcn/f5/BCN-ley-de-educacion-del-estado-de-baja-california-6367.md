@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2007-05-18"
+last_updated: "2007-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -167,7 +167,9 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Aplicar la educación física y la práctica del deporte.
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la vida, la salud, la institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la vida, la salud, la cultura de la donación de órganos, tejidos, células y huesos, la institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos.
 
 XI.- Informar y orientar a los educandos sobre los perjuicios que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, así como sus consecuencias nocivas, propiciando el rechazo a los vicios.
 
@@ -1128,3 +1130,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 18 DE MAYO DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
