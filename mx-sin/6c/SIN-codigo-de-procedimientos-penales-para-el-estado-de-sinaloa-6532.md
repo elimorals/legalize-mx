@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2007-08-27"
+last_updated: "2007-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -195,13 +195,13 @@ El Juez o Tribunal, que se estime incompetente para conocer de una causa, una ve
 
 Si la autoridad a quien se remita el proceso, a su vez se estimare incompetente, lo elevará al superior que debe de dirimir la competencia para que, con arreglo al Artículo 413 se dicte la resolución que corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 17.
 
-No obstante lo dispuesto en los artículos anteriores, también será competente para conocer de un asunto, un juez distinto al del lugar de la comisión del delito, si por razones de insuficiencia de seguridad en las prisiones, atendiendo a las características del hecho imputado, a las circunstancias personales del indiciado que no garanticen el desarrollo adecuado del proceso, el Ministerio Público considera necesario llevar el ejercicio de la acción penal ante otro juez.
+No obstante lo dispuesto en los artículos anteriores, también será competente para conocer de un asunto un juez distinto al del lugar de la comisión del delito, si por razones de seguridad en los Centros de Ejecución de las Consecuencias Jurídicas del Delito, atendiendo a las características del hecho imputado, a las circunstancias personales del indiciado y a otras igualmente justificables que no garanticen el desarrollo adecuado del proceso, el Ministerio Público considera necesario llevar el ejercicio de la acción penal ante otro juez.
 
-Lo anterior es igualmente aplicable para los casos en que, por las mismas razones, la autoridad judicial de oficio o a petición de parte, estime necesario trasladar a un procesado a algún centro de readaptación social distinto al del lugar de la comisión del delito, en los que será competente el tribunal del lugar en que se ubique dicho centro. Lo anterior no requerirá de substanciación alguna, debiendo indicar la autoridad judicial el distrito en que se ha de proseguir el proceso de que se trate.
+Lo anterior es igualmente aplicable para los casos en que, por las mismas razones, la autoridad judicial de oficio o a petición de parte, estime necesario trasladar a un procesado a algún Centro de Ejecución de las Consecuencias Jurídicas del Delito, distinto al del lugar de la comisión del delito, en los que será competente el tribunal del lugar en que se ubique dicho centro. Lo anterior no requerirá de substanciación alguna, debiendo indicar la autoridad judicial el distrito en que se ha de proseguir el proceso de que se trate.
 
 ### CAPITULO II. FORMALIDADES
 
@@ -863,9 +863,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO P.O. 30 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; secuestro instantáneo señalado en el artículo 167 Bis; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356, fracción VIII; 357 fracción III, 359 y 362.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; secuestro instantáneo señalado en el artículo 167 Bis, rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -1123,11 +1123,11 @@ Cuando el delito fuere de los que no dejan vestigios o indicios de su perpetraci
 
 Si de las primeras diligencias se desprende que la muerte no se deba a un delito, no se practicará la autopsia y el Ministerio Público entregará el cadáver.
 
-En todos los demás casos será indispensable este requisito, con las excepciones que este Código señale.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
-El Ministerio Público podrá autorizar, para efectos de trasplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas o desconocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre y cuando se compruebe la pérdida de la vida del donante por un médico distinto a los que intervendrán en el trasplante o en la obtención de órganos y tejidos, en los términos de la legislación federal en materia de salud.
+El Ministerio Público podrá autorizar, para efectos de transplantes, la disposición de órganos o tejidos de cadáveres de personas conocidas o desconocidas, cuando con motivo de una averiguación previa se encuentren a su disposición, siempre y cuando se compruebe la pérdida de la vida del donante por un médico distinto a los que intervendrán en el transplante o en la obtención de órgano y tejidos, en los términos de la legislación federal en materia de salud.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
@@ -1139,11 +1139,15 @@ Para el caso de personas desconocidas, la autorización deberá formularse dentr
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
-Estas autorizaciones procederán siempre y cuando el médico forense determine que no afectan la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para transplante (sic) cuenten con la autorización correspondiente.
+Estas autorizaciones procederán siempre y cuando el médico forense determine que no afectan la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para transplante cuenten con la autorización correspondiente.
 
 ###### ARTICULO 151.
 
 Cuando se trate de homicidio, además de la descripción que haga el que practique la diligencia, la harán también los peritos encargados de la autopsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Solamente podrá dejarse de practicar la autopsia cuando el Ministerio Público o el tribunal, en su caso, justifiquen que no es necesario o en las excepciones que este Código señala.
 
 ###### ARTICULO 152.
 
@@ -1421,15 +1425,13 @@ La orden de aprehensión que el Juez dicte, se transcribirá al Ministerio Públ
 
 Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, quien la hubiere ejecutado deberá poner al aprehendido, sin demora alguna, a disposición del Tribunal respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó, y dando a conocer al aprehendido el derecho que tiene para designar defensor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 186.
 
-Cuando no existan los datos requeridos conforme el artículo 16 constitucional, para ordenar la aprehensión del indiciado, el Juez, una vez decretada la negativa, sólo podrá volver a actuar en la causa, a virtud de nueva solicitud de orden de aprehensión, por parte del Ministerio Público, apoyada en pruebas diversas a las anteriormente consideradas por la autoridad judicial.
+Si el Juez niega la orden de aprehensión u orden de comparecencia por considerar que no están reunidos los requisitos previstos en los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, y 183 de este Código, regresará el expediente al Ministerio Público para que este continúe con el trámite correspondiente; consecuentemente, dicha resolución no es recurrible.
 
-En estos casos operará lo previsto en la parte final del Artículo 203.
-
-La resolución que nigue (sic) la orden de aprehensión por inexistencia de pruebas, no es recurrible. Es apelable en el efecto devolutivo la que la niegue por considerar que, aunque probado el hecho, no operan los supuestos del Artículo 16 Constitucional.
+Es apelable en el efecto devolutivo la que la niegue por considerar que, aunque probado el hecho, no operan los supuestos del artículo 16 Constitucional.
 
 ### CAPITULO III. DECLARACION PREPARATORIA Y NOMBRAMIENTO DE DEFENSOR
 
@@ -3057,7 +3059,9 @@ El Ministerio Público dentro del término de diez días, practicará desde lueg
 
 La acumulación tendrá lugar:
 
-I.- En los procesos que se siguen contra una misma persona, en los términos del Artículo 32 del Código Penal;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+l.- En los procesos que se siguen contra una misma persona, en los términos del artículo 24 del Código Penal para el Estado de Sinaloa;
 
 II.- En los que se sigan respecto de delitos conexos;
 
@@ -3511,21 +3515,49 @@ Para revocar la libertad caucional, siempre se deberá oír previamente al Minis
 
 ### CAPITULO I. REGLAS COMUNES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 511.
 
-(DEROGADO, P.O. 2 DE ENERO DE 2004)
+En lo relativo a la reparación del daño y perjuicio a cargo del delincuente, corresponde al Juez del proceso previa solicitud de la víctima o del ofendido. Esta autoridad concederá al sentenciado un término de diez días hábiles, contados a partir del día siguiente al en que se practique la notificación personal, para que voluntariamente cumpla la condena al pago de la reparación del daño y perjuicio; en caso de incumplimiento y si la condena fuese la restitución de la cosa obtenida por el delito, el juez dictará las providencias necesarias para restituir a la víctima u ofendido en el goce de sus derechos.
+
+Si la condena fuese el pago de la reparación del daño y perjuicio, el juez decretará el embargo de bienes propiedad del procesado que sean suficientes para cubrir el pago. Si hubiera garantía otorgada por el inculpado o por terceras personas por concepto de la reparación del daño y perjuicio, y la misma bastará para cubrir la condena por este concepto, el juez procederá a hacerla efectiva mediante su entrega a la persona a cuyo favor se condenó al acusado al pago de la reparación del daño y perjuicio; su (sic) resultase insuficiente, el juez se la entregará y acordará el embargo de bienes propiedad del sentenciado hasta por la cantidad faltante del total de la reparación del daño y perjuicio a que hubiere sido condenado.
+
+El depósito recaerá en la víctima o el ofendido, o en la persona que éste designe, a quien se le entregarán los bienes previa aceptación del cargo y protesta de su fiel y legal desempeño.
+
+Quedan exceptuados de embargo los bienes que establece el Código de Procedimientos Civiles para el Estado de Sinaloa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 512.
 
-(DEROGADO, P.O. 2 DE ENERO DE 2004)
+El procedimiento de reparación del daño y perjuicio se suspenderá si el condenado hace el pago liso y llano de la reclamado, en cuyo caso se levantará el embargo trabado en los bienes, procediendo a su devolución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 513.
 
-(DEROGADO, P.O. 2 DE ENERO DE 2004)
+Tratándose de bienes inmuebles, el juez de oficio procederá a su valuación, para lo cual girará oficio al Director General del Instituto Catastral del Estado de Sinaloa o a las autoridades que tengan estas funciones; tratándose de bienes muebles la valuación será realizada por los peritos que propongan las partes, los cuales serán designados de conformidad a las reglas establecidas en el capítulo respectivo del presente Código. De así requerirse, el Juez designará el perito, consultando primeramente en la lista de los peritos del Supremo Tribunal de Justicia del Estado, y posteriormente, en caso de ser necesario, en la lista de la Procuraduría General de Justicia del Estado.
+
+En el caso de los inmuebles, adicionalmente se girará oficio al Director del Registro Público de la Propiedad y del Comercio a fin de que remita certificado de gravámenes de los últimos diez años. En el caso de existir acreedores se les citará personalmente para que comparezcan a deducir sus derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 514.
 
-(DEROGADO, P.O. 2 DE ENERO DE 2004)
+Los bienes embargados serán vendidos en pública subasta, previo avalúo, mediante la publicación de un edicto en el periódico de mayor circulación en el Estado y otro en los estrados del Juzgado, por lo que el juez señalará fecha y hora precisa para su celebración, convocando a postores.
+
+Los postores presentarán el certificado de depósito que cubra el diez por ciento del valor de los bienes, según el avalúo, dados en remate como requisito para ser aceptados como postores, el Juez pasará la lista de postores y rechazará a los que no reúnan dicho requisito. La víctima u ofendido pueden participar como postores sin necesidad de exhibir el certificado mencionado.
+
+Será postura legal, la que cubra las dos terceras partes del avalúo pericial.
+
+En el orden en que se presentaron los postores harán públicamente su postura, pudiendo pujar y mejorarla, y el juez fincará el remate a favor de la postura mayor. No habiendo postor quedará el arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por las dos terceras partes del precio que sirvió de base para el remate o que saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación. Esta segunda subasta se anunciará y celebrará en igual forma que la anterior.
+
+Para decretar adjudicados los bienes, el adjudicatario deberá exhibir mediante certificado de depósito dentro de los tres días siguientes, la diferencia entre el depósito presentado a afecto de ser aceptado como postor y el precio en que se fincó el remate.
+
+En lo no previsto a ese respecto por el presente artículo, el Juez se ajustará a las disposiciones del Código de Procedimientos Civiles para el Estado de Sinaloa.
+
+Las resoluciones dictadas en la reparación del daño y perjuicio no admiten recurso alguno.
 
 ###### ARTICULO 515.
 
@@ -3669,9 +3701,11 @@ Concedida la rehabilitación por el Congreso, se comunicará al Tribunal que hub
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 546.
 
-Después de seis años de haberse cumplido la pena impuesta, de ocho años si se trata de reincidente y de doce si se trata de habitual o profesional, los registros o anotaciones de cualquier clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las autoridades judiciales, del Ministerio Público o policiales, para fines exclusivos de investigación.
+Los registros o anotaciones de cualquier clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las autoridades judiciales y del Ministerio Público o policiales, para fines exclusivos de investigación.
 
 > <small>(REFORMADO EN SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
 
@@ -3958,6 +3992,22 @@ P.O. 30 DE MARZO DE 2007.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 27 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO No. 650.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO No. 664.
 
 ###### ARTÍCULO ÚNICO.
 
