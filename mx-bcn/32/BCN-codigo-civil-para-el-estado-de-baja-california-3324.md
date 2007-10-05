@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-08-31"
+last_updated: "2007-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2455,11 +2455,11 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 385.
 
-Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+Las acciones de investigación de paternidad o maternidad se podrán intentar en cualquier momento.
 
 ###### ARTICULO 386.
 
@@ -9811,19 +9811,19 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 1793.
 
-La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando, ello sea imposible, en el pago de daños y perjuicios:
+La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior a el, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba;
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad permanente total o parcial o, temporal total o parcial, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal de Trabajo para riegos de trabajo. Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el salario mínimo diario vigente en el Estado. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
-II.- Cuando la utilidad o salario exceda del mínimo, no se tomará en cuenta sino el importe de éste para fijar la indemnización;
+En el caso de daños a las personas la indemnización incluirá todos los gastos médicos que la misma Ley Federal del Trabajo prevé para riesgos de trabajo, que el ofendido hubiere efectuado para recuperarse del daño causado.
 
-III.- Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el pago se acordará tomando como base también el salario mínimo;
-
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos;
-
-V.- Las anteriores disposiciones se observarán en el caso del artículo 2520 de este Código.
+Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en una sola exhibición.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
@@ -9843,11 +9843,25 @@ III. Cuando una persona sea víctima de la discriminación, humillación, acoso 
 
 IV. Cuando una persona sea víctima del abuso de un derecho.
 
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización de dinero, con independencia de que se haya causado un daño material, tanto responsabilidad contractual, como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurre en responsabilidad objetiva conforme al Artículo 1791, así como el Estado y sus servidores públicos conforme a los Artículos 1805 y 1806 todos del presente código.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado un daño material. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al Artículo 1791 del presente Código.
 
 La acción de reparación no es transmisible a terceros por actos entre vivos y solo pasa a los herederos de la víctima cuando esta haya intentado la acción en vida.
 
-El monto de la indemnización lo determinará el juez tomando encuentra los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
+
+La indemnización por daño moral en ningún caso excederá del equivalente a la que se prevé en este Código para el supuesto del daño que produzca la incapacidad permanente total de la víctima.
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración el juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y el alcance de la misma a través de los medios informativos que considere conveniente. En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma relevancia que hubiera tenido la difusión original.
 
@@ -9907,11 +9921,11 @@ En los casos previstos por los artículos 1801, 1802 y 1803 el que sufra el dañ
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 ###### ARTICULO 1806.
 
-El Estado y los municipios tienen la obligación de responder de los daños causados por sus funcionarios en el ejercicio de sus funciones que le estén encomendadas. Esta responsabilidad será solidaria ya sea tratándose de actos ilícitos dolosos y culposos.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2007)
 
 ###### ARTICULO 1807.
 
@@ -9958,6 +9972,12 @@ Los jefes de familia que habiten una casa o parte de ella, son responsables de l
 ###### ARTICULO 1812.
 
 La acción de exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño, o a partir de la fecha en que éste fue descubierto o debió haber sido descubierto por la víctima.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
+
+El término de prescripción se interrumpirá mientras la víctima tenga derecho a tramitar procedimientos para exigir la responsabilidad patrimonial del Estado o Municipios de Baja California, en los que se pueda determinar una participación concurrente de un particular.
 
 ## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
@@ -15858,3 +15878,19 @@ DECRETO N° 340
 P.O. 31 DE AGOSTO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO N° 408
+
+PRIMERO.- Las presentes reformas entrarán en vigor el primero de enero del año 2009.
+
+SEGUNDO.- Los procedimientos que a la entrada en vigor del presente Decreto se estén tramitando para exigir la responsabilidad civil objetiva o subjetiva de algún servidor público, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento correspondiente.
+
+P.O. 5 DE OCTUBRE DE 2007.
+
+DECRETO N° 410
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
