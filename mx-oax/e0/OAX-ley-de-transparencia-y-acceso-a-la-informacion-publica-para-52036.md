@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-520
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2006-09-16"
+last_updated: "2007-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR A LOS DIECIOCHO MESES POSTERIORES A SU PUBLICACION.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de septiembre de 2006.
 
@@ -701,7 +699,9 @@ TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor a los dieciocho meses posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-SEGUNDO.- El Titular del Poder Ejecutivo y la Legislatura del Estado, contarán con un plazo de doce meses para proponer y nombrar a los Consejeros del Instituto, después de la publicación de la presente Ley, quienes iniciaran el ejercicio del cargo en la misma fecha de entrada en vigor de la presente Ley; previa su protesta ante el Congreso del Estado. Los Consejeros contarán con un plazo de seis meses posteriores a su toma de protesta para la elaboración del Reglamento Interno y demás disposiciones normativas correspondientes, en el mismo término, los sujetos obligados procederán a designar a las áreas administrativas que realicen las funciones de unidades de enlace. Los acuerdos correspondientes se deberán de publicar en el Periódico Oficial del Gobierno del Estado y en los sitios de, información electrónica correspondiente. Las estructuras de las Unidades de Enlace, deberán integrarse con los recursos humanos, materiales y presupuestarios asignados a cada sujeto obligado, por lo que no deberán implicar erogaciones o autorizaciones presupuestales adicionales.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+SEGUNDO.- El Titular del Poder Ejecutivo y la Legislatura del Estado, procederán a nombrar a los Consejeros del Instituto Estatal para el Acceso a la Información Pública, una vez iniciada la vigencia de la presente Ley; previa su protesta ante el Congreso del Estado. Los Consejeros contarán con un plazo de seis meses posteriores a su toma de protesta para la elaboración del Reglamento Interno y demás disposiciones normativas correspondientes, en el mismo término, los sujetos obligados procederán a designar a las áreas administrativas que realicen las funciones de unidades de enlace. Los acuerdos correspondientes se deberán publicar en el Periódico Oficial del Gobierno del Estado y en los sitios de información electrónica correspondiente. Las estructuras de las Unidades de Enlace, deberán integrarse con los recursos humanos, materiales y presupuestarios asignados a cada sujeto obligado por lo que no deberán implicar erogaciones o autorizaciones presupuestales adicionales.
 
 TERCERO.- Los sujetos obligados proveerán lo necesario para clasificar la información pública y reservada, dentro de los seis meses siguientes a la publicación de la designación de las áreas administrativas que hagan las veces de Unidades de Enlace.
 
@@ -754,3 +754,9 @@ Oaxaca de Juárez, Oax., a 14 de septiembre del 2006.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su aprobación. Comuníquese al Ciudadano Gobernador Constitucional del Estado, para su conocimiento y fines legales. Publíquese en el Periódico Oficial del Gobierno del Estado.
