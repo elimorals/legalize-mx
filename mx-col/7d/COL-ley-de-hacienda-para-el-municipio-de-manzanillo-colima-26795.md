@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1747,7 +1747,7 @@ pasarela y table dance 1000.00
 
 29.- Restaurante clasificación "C" 20.00
 
-30.- Restaurantes–Bar 200.00
+30.- Restaurantes-Bar 200.00
 
 31.- Rosticerías 25.00
 
@@ -1843,11 +1843,17 @@ venta de cerveza 60.00
 
 58.- Snack-bar 300
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-59.- Venta de carnitas con cerveza 50
+59.- Tiendas de conveniencia 150.00 a 200.00
 
-En zona rural, por cada uno:
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+60.- Tiendas de conveniencia 150.00 a 200.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno
 
 1.- Tienda de abarrotes con venta de cerveza y mezcal 25.00
 
@@ -1919,7 +1925,7 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 23.- Restaurante clasificación "C" 2.00
 
-24.- Restaurantes–Bar 5.00
+24.- Restaurantes-Bar 5.00
 
 25.- Rosticerías 3.00
 
@@ -2055,6 +2061,10 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 61.- Venta de carnitas con cerveza 50.00
 
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+62.- Tiendas de conveniencia 10.00
+
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
 1.- Agencias 10.00
@@ -2103,7 +2113,7 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 23.- Restaurante clasificación "C" 0.50
 
-24.- Restaurantes–Bar 2.50
+24.- Restaurantes-Bar 2.50
 
 25.- Rosticerías 1.50
 
@@ -2234,6 +2244,10 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 (ADICIONADO, P.O. 15 DE ENERO DE 2003) (F. DE E., P.O. 22 DE FEBRERO DE 2003)
 
 60.- Venta de carnitas con cerveza 3.00
+
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+61.- Tiendas de conveniencia 1.50
 
 e) Por la autorización de:
 
@@ -3968,3 +3982,7 @@ P.O. 8 DE FEBRERO DE 2007.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
