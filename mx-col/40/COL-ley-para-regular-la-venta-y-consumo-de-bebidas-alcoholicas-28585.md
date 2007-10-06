@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -139,7 +139,9 @@ II. Establecimientos en donde en forma accesoria puedan venderse y consumirse be
 
 III. Lugares en los que en forma eventual pueden venderse y consumirse bebidas alcohólicas: bailes, ferias, kermeses, lienzos charros, plazas de toros, arenas de box o lucha libre, palenques y centros de espectáculos;
 
-IV. Sitios en donde puedan venderse bebidas alcohólicas en envase cerrado más no consumirse en ellos: tiendas de abarrotes, supermercados, depósitos de vinos y licores, depósitos de cerveza, agencias y distribuidoras y demás establecimientos similares; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+IV. Sitios en donde puedan venderse bebidas alcohólicas en envase cerrado más no consumirse en ellos: tiendas de abarrotes, supermercados, tiendas de conveniencia, depósitos de vinos y licores, depósitos de cerveza, agencias y distribuidoras y demás establecimientos similares; y
 
 V. Locales en donde pueden venderse pero no consumirse sustancias que contengan alcohol para fines industriales o medicinales, sin necesidad de autorización o licencia especial: ferreterías, farmacias y tlapalerías.
 
@@ -434,3 +436,7 @@ P.O. 30 DE ABRIL DE 2005.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
