@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-villa-de-alvarez-colima-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE VILLA DE ALVAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1569,9 +1569,17 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 29. Palenques 1000.00
 
-30. Otros giros no especificados 100.00 a 1000.00
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
 
-En zona rural, por cada uno:
+30. Tiendas de conveniencia 150.00 a 200.00
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+31. Otros giros no especificados 100.00 a 1000.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 1. Tienda de abarrotes con venta de cerveza y mezcal 50.00
 
@@ -1649,7 +1657,13 @@ b) Por el refrendo anual de funcionamiento, por cada una:
 
 31. Palenques de 450.00 a 500.00
 
-32. Otros giros no especificados 30.00 a 360.00
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+32. Tiendas de conveniencia 75.00 a 100.00
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+33. Otros giros no especificados 30.00 a 360.00
 
 c) Por la expedición de permisos para el funcionamiento temporal de establecimientos en los que se expendan bebidas alcohólicas, por cada día:
 
@@ -1711,7 +1725,13 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 29. Salón para fiestas 5.00
 
-30. Otros giros no especificados 2.00 a 30.00
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+30. Tiendas de conveniencia 10.00
+
+> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+31. Otros giros no especificados 2.00 a 30.00
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -1767,7 +1787,13 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 26. Tiendas de autoservicio y departamentales con venta de cerveza vinos y licores 0.50 a 5.00
 
-27. Otros giros no especificados 1.00 a 15.00
+(REFORMADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+27. Tiendas de conveniencia 1.50
+
+(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+
+28. Otros giros no especificados 1.00 a 15.00
 
 e) Por la autorización de:
 
@@ -2756,3 +2782,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
