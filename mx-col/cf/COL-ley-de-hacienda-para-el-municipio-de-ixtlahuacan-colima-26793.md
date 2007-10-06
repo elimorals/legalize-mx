@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1561,9 +1561,15 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 28.- Tiendas departamentales 50.00 a 150.00
 
-29.- Otros giros no especificados 10.00 a 500.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-En zona rural, por cada uno:
+29.- Tiendas de conveniencia 150.00 a 200.00
+
+30.- Otros giros no especificados 10.00 a 500.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 1.- Tienda de abarrotes con venta de cerveza y mezcal 10.00 a 50.00
 
@@ -1593,7 +1599,7 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 6.- Cenadurías 1.00 a 5.00
 
-7.- Centro botanero. 2.00 a 10.00
+7.- Centro botanero 2.00 a 10.00
 
 8.- Centros nocturnos 2.00 a 10.00
 
@@ -1601,7 +1607,7 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 10.- Depósitos de cerveza 1.00 a 5.00
 
-11.- Deposito de cerveza vinos y licores. 2.00 a 8.00
+11.- Deposito de cerveza vinos y licores 2.00 a 8.00
 
 12.- Discotecas 2.00 a 10.00
 
@@ -1631,11 +1637,15 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 25.- Tienda de abarrotes con venta de cerveza 1.00 a 5.00
 
-26.- Tiendas de autoservicio con venta de cerveza vinos y licores. 5.00 a 15.00
+26.- Tiendas de autoservicio con venta de cerveza vinos y licores 5.00 a 15.00
 
-27.- Tiendas departamentales. 5.00 a 15.00
+27.- Tiendas departamentales 5.00 a 15.00
 
-28.- Otros giros no especificados 1.00 a 15.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+28.- Tiendas de conveniencia 10.00
+
+29.- Otros giros no especificados 1.00 a 15.00
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -1693,7 +1703,11 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 27.- Tiendas departamentales 1.50 a 5.00
 
-28.- Otros giros no especificados 0.25 a 15.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+28.- Tiendas de conveniencia 1.50
+
+29.- Otros giros no especificados 0.25 a 15.00
 
 e) Por la autorización de:
 
@@ -1757,9 +1771,17 @@ CAMBIO DE DOMICILIO:
 
 29.- Tiendas departamentales 10.00 a 25.00
 
-30.- Otros giros no específicos 1.00 a 100.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-En zona rural, por cada uno:
+30.- Tiendas de conveniencia 75.00 a 100.00
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+31.- Otros giros no especificados 1.00 a 100.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 1.- Tienda de abarrotes con venta de cerveza y mezcal 1.00 a 5.00
 
@@ -2740,3 +2762,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
