@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1619,11 +1619,17 @@ Unidades de salario
 
 28.- Tiendas departamentales 250.00 a 500.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-29.- Otros no especificados. 50.00 a 1000
+29.- Tiendas de conveniencia 150.00 A 200.00
 
-En zona rural, por cada uno:
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+30.- Otros giros no especificados. 50.00 a 1000.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 (REFORMADO, P.O. 10 DE ABRIL DE 2004) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
@@ -1703,7 +1709,11 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 27.- Tiendas departamentales 10.00
 
-28.- Otros giros no especificados 2.00 a 30.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+28.- Tiendas de conveniencia 10.00
+
+29.- Otros giros no especificados 2.00 a 30.00
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -1815,9 +1825,13 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 27.- Tiendas departamentales 5.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-28.- Otros giros no específicos 1.00 a 15.00
+28.- Tiendas de conveniencia 1.50
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+29.- Otros giros no especificados 1.00 a 15.00
 
 e) Por la autorización de:
 
@@ -1881,9 +1895,17 @@ CAMBIO DE DOMICILIO:
 
 29.- Tiendas departamentales 250.00
 
-30.- Otros giros no específicos 5.00 a 240.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-En zona rural, por cada uno:
+30.- Tiendas de conveniencia 75.00 a 100.00
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+31.- Otros giros no específicados 5.00 a 240.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 1.- Tienda de abarrotes con venta de cerveza y mezcal 5.00
 
@@ -2886,3 +2908,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
