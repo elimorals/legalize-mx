@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1773,9 +1773,15 @@ con venta de cerveza, vinos y licores 100.00
 
 28.- Tiendas departamentales 200.00
 
-29.- Otros giros no especificados 20.00 a 500.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
-En zona rural, por cada uno:
+29.- Tiendas de conveniencia 150.00 a 200.00
+
+30.- Otros giros no especificados 20.00 a 500.00
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+En zona rural cada uno:
 
 1.- Tienda de abarrotes con venta de
 
@@ -1853,7 +1859,11 @@ con venta de cerveza, vinos y licores 8.00
 
 27.- Tiendas departamentales 10.00
 
-28.- Otros giros no especificados 2.00 a 30.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+28.- Tiendas de conveniencia 10.00
+
+29.- Otros giros no especificados 2.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -2339,7 +2349,7 @@ construcciones, nomenclaturas, cotas,
 
 fotogramétricas en coordenadas Universal
 
-Transversa de Mercator 120.00
+Transversa de Mercado 120.00
 
 VII. Por cartografía de plano general, en formato digital de la zona urbana de la cabecera municipal:
 
@@ -3266,3 +3276,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
