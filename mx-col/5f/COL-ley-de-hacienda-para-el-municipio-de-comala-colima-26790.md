@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2007-03-17"
+last_updated: "2007-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2007.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1455,7 +1455,11 @@ y Cerveza de 100.00 a 200.00
 
 17.- Marisquerías de 20.00 a 50.00
 
-18.- Otros giros no especificados de 20.00 a 500.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+18.- Tiendas de conveniencia 150.00 a 200.00
+
+19.- Otros giros no especificados de 20.00 a 500.00
 
 b).- Por el refrendo anual de licencias de funcionamiento, por cada una
 
@@ -1495,7 +1499,11 @@ y Cerveza de 25.00 a 50.00
 
 17.- Marisquerías de 10.00 a 25.00
 
-18.- Otros giros no especificados de 10.00 a 250.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+18.- Tiendas de conveniencia 75.00 a 100.00
+
+19.- Otros giros no especificados de 10.00 a 250.00
 
 c).- Por la expedición de permisos para el funcionamiento temporal de establecimientos en que se expendan bebidas alcohólicas por cada día:
 
@@ -1535,7 +1543,11 @@ o similares de 2.00 a 10.00
 
 16.- Marisquerías de 1.00 a 5.00
 
-17.- Otros giros no especificados de 1.00 a 30.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+17.- Tiendas de conveniencia 10.00
+
+18.- Otros giros no especificados de 1.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos que se expendan bebidas alcohólicas por cada hora:
 
@@ -1573,7 +1585,11 @@ o similares de 5.00 a 15.00
 
 15.- Marisquerías de 2.00 a 10.00
 
-16.- Otros giros no especificados de 1.00 a 30.00
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+
+16.- Tiendas de conveniencia 1.50
+
+17.- Otros giros no especificados de 1.00 a 30.00
 
 CAMBIO DE PROPIETARIO
 
@@ -2414,3 +2430,7 @@ P.O. 26 DE DICIEMBRE DE 2006.
 P.O. 17 DE MARZO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
