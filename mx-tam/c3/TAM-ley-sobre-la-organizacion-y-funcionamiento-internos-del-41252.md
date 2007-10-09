@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2007-06-20"
+last_updated: "2007-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1943,15 +1943,27 @@ El acta que se levante de cada sesión deberá contener una relación sucinta de
 
 3. Habrá un ejemplar del Diario de los Debates por cada sesión, en el cual se señalará la fecha de la misma, el nombre del diputado que la presida y un breve índice de contenido basado en el orden del día desahogado.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+4. El Pleno acordará la presentación del Diario de Debates en medios magnéticos, sea con relación a los ejemplares correspondientes a cada sesión o al conjunto de sesiones de un periodo ordinario o de un año legislativo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 166.
 
-1. La grabación de lo acontecido en las sesiones es un instrumento auxiliar para la conservación de la historia de los procesos parlamentarios del Estado, la cual comprenderá íntegramente las voces de las intervenciones que por cualquier causa se presenten en las sesiones.
+1. La Gaceta Parlamentaria es el órgano de difusión mediante el cual se proporciona información sobre las actividades del Pleno y de los órganos parlamentarios y administrativos del Congreso.
 
-2. El secretario general vigilará que el local de grabación se mantenga debidamente equipado.
+2. La Gaceta Parlamentaria se actualizará semanalmente y contendrá el orden del día, acta y correspondencia de la sesión más próxima, así como convocatorias de las reuniones de comisiones y comités, informes de los diversos órganos del Congreso, actos oficiales, avisos importantes sobre las actividades legislativas y cualquier otro que por acuerdo de la Mesa Directiva de consuno con la Junta de Coordinación Política deba publicitarse en este medio.
+
+3. Las características y forma de la Gaceta Parlamentaria serán fijadas por la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 167.
 
-El Pleno podrá acordar la presentación del Diario de los Debates en medios magnéticos, sea con relación a los ejemplares correspondientes a cada sesión o al conjunto de sesiones de un periodo ordinario o de un año legislativo.
+1. La grabación de lo acontecido en las sesiones es un instrumento para la conservación de la historia de los procesos parlamentarios del Estado, la cual comprenderá íntegramente las voces de las intervenciones que por cualquier causa se presenten en las sesiones.
+
+2. El secretario general vigilará que el local de grabación se mantenga debidamente equipado.
 
 ## TRANSITORIOS
 
@@ -2220,3 +2232,9 @@ P.O. 20 DE JUNIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición se publicará en el Periódico Oficial del Estado.
