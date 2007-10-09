@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2006-08-29"
+last_updated: "2007-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -547,6 +547,12 @@ IV.- Recepción de las obras de urbanización y equipamiento urbano, según se t
 
 Tratándose de desarrollos en condominio, la licencia de edificación podrá obtenerse por el desarrollador o por el condómino, en los términos que fije la Ley, los reglamentos y las disposiciones municipales aplicables, así como las características generales y arquitectónicas de la vivienda, locales o edificios que señale el reglamento del propio condominio.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 42 Bis.
+
+Para los efectos de esta Ley, así como los demás ordenamientos jurídicos, se entenderá por asentamiento humano irregular, el conglomerado demográfico que se conforme como fraccionamiento o desarrollo en condominio o bajo cualquier otra modalidad, y que no cuente con la aprobación de traza expedida por la autoridad municipal correspondiente, ni con lo establecido en el artículo 4 de la presente Ley.
+
 ###### Artículo 43.
 
 La aprobación de traza de un fraccionamiento o desarrollo en condominio deberá tramitarse ante la Dirección, anexando la documentación que se señale en el Reglamento que expida el Ejecutivo del Estado.
@@ -986,3 +992,7 @@ Tratándose de inmuebles de uso distinto al habitacional, los ayuntamientos esta
 Artículo Tercero.- El Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
 
 Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
