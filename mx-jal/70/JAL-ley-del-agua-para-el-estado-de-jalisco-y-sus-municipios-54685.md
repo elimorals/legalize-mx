@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2007-02-24"
+last_updated: "2007-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección V al Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -625,7 +625,9 @@ II. Tramitar los asuntos que le sean encomendados por el Presidente de la Junta 
 
 Son facultades del Director General:
 
-I. Representar a la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la Ley, sin perjuicio de que se otorguen otros poderes. Para ejercer actos de dominio, requerirá la autorización expresa de la Junta de Gobierno conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+I. Representar la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la ley, sin perjuicio de que la Junta de Gobierno otorgue otros poderes a diversas personas. Para ejercer actos de dominio, requerirá autorización expresa de la Junta de Gobierno, a la legislación aplicable; también podrá delegar la representación de apoderado con todas las facultades referidas o limitadas, según sea necesario;
 
 II. Ejecutar los acuerdos de la Junta de Gobierno;
 
@@ -655,9 +657,21 @@ IX. Someter a la aprobación de la Junta de Gobierno los proyectos de normas té
 
 X. Supervisar los programas aprobados por la Junta de Gobierno y responsabilizarse de su ejecución, así como del ejercicio presupuestal;
 
-XI. Nombrar y remover al personal de la Comisión; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2007)</small>
 
-XII. Las demás que le señale la Junta de Gobierno, ésta Ley y su Reglamento y las demás disposiciones legales aplicables.
+XI. Nombrar y remover al personal de la Comisión;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE OCTUBRE DE 2007)</small>
+
+XII. Certificar documentos que existan en los archivos del organismo público descentralizado;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+XIII. Designar, en ausencias temporales al personal subalterno que determine, a efecto de que le sustituya en funciones, y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+XIV. Las demás que le señalen la Junta de Gobierno, esta ley y su reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -1105,6 +1119,10 @@ VIII. Así como cualquier otra información que se estime pertinente para su int
 
 Los usuarios tendrán la obligación de cuidar que el agua se utilice con eficiencia a la vez que deberán evitar contaminarla fuera de los parámetros que se establezcan en las leyes, reglamentos, normas oficiales mexicanas, normas mexicanas, y normas oficiales estatales.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+También tendrán la obligación de pagar el costo del servicio de agua potable, así como del saneamiento, alcantarillado y puesta al pie de los domicilios de los usuarios, así como todos los servicios relacionados con el suministro del agua y los antes referidos.
+
 ###### Artículo 89.
 
 En épocas de escasez de agua, comprobada o previsible, de acuerdo con las condiciones que establezca el Reglamento de la Ley, el prestador de los servicios podrá acordar con el ayuntamiento las disminuciones en el abastecimiento y los plazos que durarán; dicho acuerdo deberá publicarse en el órgano de difusión oficial del municipio donde se aplique la disminución y deberá publicitarse a través de los medios de comunicación disponibles en el área, cuando menos con diez días de anticipación a la fecha en que se vaya a aplicar la medida.
@@ -1363,6 +1381,10 @@ Asimismo, la Comisión podrá apoyar a los ayuntamientos para definir las sus (s
 
 CUARTO. Dentro de los doce meses posteriores al día en que entre en vigor esta Ley, tanto los Ayuntamientos como el Poder Ejecutivo del Estado deberán publicar las disposiciones reglamentarias necesarias para la eficaz aplicación y cumplimiento de lo previsto por esta Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2007)</small>
+
+QUINTO. Todos los bienes y recursos materiales, financieros, humanos, tecnológicos y de metodología, obligaciones y derechos de la Comisión Estatal del Agua y Saneamiento (CEAS), pasarán a formar parte de la Comisión Estatal del Agua de Jalisco (CEA).
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
 GUADALAJARA, JALISCO, 31 DE ENERO DE 2007
@@ -1400,3 +1422,9 @@ El Secretario General de Gobierno
 C. P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
