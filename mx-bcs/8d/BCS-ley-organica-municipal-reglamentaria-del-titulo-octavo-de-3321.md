@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "2006-06-20"
+last_updated: "2007-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. 10 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -1616,3 +1618,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 20 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor 30 días naturales después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, expedida con fecha 17 de diciembre de 1976 y entró en vigor el 1° de enero de 1977.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Los Ayuntamientos del Estado deberán adecuar sus reglamentos y demás disposiciones conforme a lo dispuesto a esta (sic) Decreto a más tardar en un plazo de sesenta días naturales a partir de su entrada en vigor. En su caso, el Congreso del Estado deberá realizar las adecuaciones a las leyes secundarias o reglamentarias en materia Municipal del Estado en un término no mayor de noventa días.
+
+###### ARTICULO QUINTO.
+
+Los Ayuntamientos expedirán los reglamentos respectivos sesenta días naturales después de la publicación de la presente ley.
