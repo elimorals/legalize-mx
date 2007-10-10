@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2007-04-09"
+last_updated: "2007-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -1103,49 +1103,67 @@ IX. Los demás que se deriven de las leyes y reglamentos aplicables o que le enc
 
 Al titular de esta entidad administrativa se le denominará Coordinador General de Comunicación Social. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 50 Bis.
 
 Para la atención de sus atribuciones, la Coordinación General de Comunicación Social contará con la unidad administrativa siguiente:
 
-Canal de Radio de Gobierno del Estado de Sinaloa.
+Unidad de Radio y Televisión del Gobierno del Estado de Sinaloa
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 50 Bis-A.
 
-A la Coordinación General de Comunicación Social, a través del Canal de Radio de Gobierno del Estado de Sinaloa, le corresponde el despacho de los siguientes asuntos:
+A la Coordinación General de Comunicación Social, a través de la Unidad de Radio y Televisión del Gobierno del Estado de Sinaloa, le corresponde el despacho de los siguientes asuntos:
 
-I. Informar a la población del Estado acerca de los planes, programas y actividades de las diferentes dependencias gubernamentales;
+I. Difundir e informar a la población del Estado acerca de los planes, programas y actividades de las diferentes dependencias gubernamentales;
 
-II Contribuir a contrarrestar los hábitos de consumo negativos fomentados por diversos medios de comunicación masiva;
+II. Fomentar la cultura de la legalidad y valores fundamentales;
 
-III. Distribuir información veraz acerca de los acontecimientos más relevantes del Estado, del país y del mundo;
+III. Fomentar la cultura de la democracia y el pluralismo;
 
-IV. Contribuir a través de la comunicación a mejorar las condiciones de vida, en especial en las zonas rurales;
+IV. Distribuir a través de la difusión, información veraz acerca de los acontecimientos más relevantes del Estado, el país y el mundo;
 
-V. Informar a la población acerca de las prácticas sanitarias y medidas necesarias para el cuidado de la salud y prevención de las enfermedades;
+V. Contribuir a través de la comunicación para mejorar las condiciones de vida, en especial, en las zonas rurales;
 
-VI. Orientar e informar a los sinaloenses sobre la mejor utilización de los servicios públicos existentes;
+VI. Difundir e informar a la población acerca de las prácticas sanitarias y medidas necesarias para el cuidado de la salud y prevención de las enfermedades;
 
-VII. Promover el mejoramiento de los hábitos alimenticios y el uso más adecuado de los productos regionales, fomentando la educación nutricional;
+VII. Orientar e informar a los sinaloenses, mediante la difusión, sobre la mejor utilización de los servicios públicos existentes;
 
-VIII. Apoyar los programas de alfabetización tendientes a integrar la población hasta ahora marginada en estos aspectos;
+VIII. Difundir el mejoramiento de los hábitos alimenticios y el uso más adecuado de los productos regionales, fomentando la educación nutricional;
 
-IX. Ofrecer a la población información sobre los problemas del Estado y fomentar su participación en los esfuerzos comunes para la transformación de nuestra sociedad;
+IX. Difundir los programas de alfabetización, tendientes a integrar la población hasta ahora marginada en este aspecto;
 
-X. Promover el turismo elaborando y proporcionando información acerca de las diferentes zonas turísticas del Estado;
+X. Ofrecer a la población a través de la difusión, información sobre los problemas del Estado y exhortar su participación en los esfuerzos comunes para la transformación de nuestra sociedad;
 
-XI. Fomentar el interés por ras artes y las diversas manifestaciones de la cultura local, nacional y universal;
+XI. Difundir la imagen turística, elaborando y proporcionando información acerca de las diferentes zonas y actividades turísticas en el Estado;
 
-XII. Ofrecer alternativas de entretenimiento y diversión a los habitantes del Estado, difundiendo principalmente la cultura popular;
+XII. Fomentar a través de la difusión, el interés por las artes y las diversas manifestaciones de la cultura local, nacional y universal;
 
-XIII. Fomentar el conocimiento de las tradiciones y costumbres regionales, con el propósito de promover el proceso de identificación social y cultural de los habitantes del Estado;
+XIII. Difundir alternativas de entretenimiento y diversión a los habitantes del Estado, promoviendo principalmente la cultura popular;
 
-XIV. Contribuir a contrarrestar las posibles deformaciones originadas por la información que la población recibe a través de los diferentes medios de comunicación que tienen un enfoque comercial; y,
+XIV. Fomentar a través de su difusión, el conocimiento de las tradiciones y costumbres regionales, con el propósito de promover el proceso de Identificación social y cultural de los habitantes del Estado;
 
-XV. Los demás que sean inherentes a los propósitos de esta unidad administrativa, que deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+XV. Establecer las estaciones permisonadas de radio y televisión en diferentes partes del territorio del Estado, así como las antenas repetidoras de radio y televisión que se estimen necesarias;
+
+XVI. Coordinar la cobertura y difusión en las televisoras estatales, nacionales y extranjeras cuando así sea necesario, las actividades y programas realizados por el Ejecutivo del Estado y demás servidores de la Administración Pública Estatal; así como fomentar la elaboración de trabajos y diseño y la realización de campañas de difusión de las actividades gubernamentales;
+
+XVII. Realizar la producción de mensajes institucionales y promocionales, así como programas informativos para difundir las obras y acciones del Gobierno Estatal, bajo criterios de unificación institucional, calidad de estándares de producción y optimización de los recursos disponibles;
+
+XVIII. Producir programas especiales de televisión para ser transmitidos en las televisaras ubicadas en el Estado de Sinaloa o, en su caso, en las de cobertura nacional, de acuerdo a las políticas establecidas por el Coordinador General;
+
+XIX. Producir y elaborar enlaces y circuitos cerrados para conferencias de prensa o consultas ciudadanas, haciendo uso de los medios y recursos disponibles en materia de comunicación por televisión;
+
+XX. Contribuir en las actividades de recopilación, procesamiento y seguimiento de la información transmitida por los noticieros de televisión estatales y nacionales, relacionada con la actividad gubernamental y de interés para el Estado;
+
+XXI. Propiciar, previo acuerdo con el Coordinador General, la apertura de espacios en televisión para que los funcionarios del Poder Ejecutivo del Estado, informen objetivamente sobre el trabajo desempeñado cuando así sea necesario;
+
+XXII. Consolidar la difusión de las actividades institucionales por medio de una relación estrecha con concesionarios y gerentes de las empresas televisaras en el Estado y las de cobertura nacional;
+
+XXIII. Brindar asesoría a la Coordinación General en materia de manejo de información y campañas de mensajes institucionales y de promoción para televisión; y,
+
+XXIV. Las demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado o el Coordinador General.
 
 ### CAPÍTULO V. DE LA COORDINACIÓN DE DESARROLLO TECNOLÓGICO
 
@@ -1508,3 +1526,7 @@ La comisión liquidadora levantará un inventario de todos los bienes del organi
 El proceso de liquidación que se menciona, durará lo necesario para que la comisión liquidadora cumpla con su encargo y al final del mismo, los activos consistentes en bienes muebles e inmuebles pasarán a propiedad de Gobierno del Estado.
 
 La Comisión que se integre ejercerá las funciones necesarias y proveerá lo conducente a fin de resolver todo lo inherente al organismo que se liquida.
+
+P.O. 10 DE OCTUBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
