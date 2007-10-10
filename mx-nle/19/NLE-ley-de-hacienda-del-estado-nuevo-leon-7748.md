@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2007-01-13"
+last_updated: "2007-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1289,9 +1289,13 @@ f) Viáticos efectivamente erogados por cuenta del patrón y debidamente comprob
 
 g) Fondo de ahorro, despensas y alimentación;
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2007)</small>
 
-h).- Remuneraciones a personas discapacitadas invidentes, con deficiencia total auditiva, deficiencia total para hablar o con incapacidad motriz permanente, que les impida moverse sin ayuda de silla de ruedas, andador o muletas, según certificación del Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estatal para el Desarrollo Integral de la Familia.
+h) Las remuneraciones a personas discapacitadas.
+
+Para efectos de esta Ley se entiende por persona discapacitada, la que tenga una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
+
+El Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estatal para el Desarrollo Integral de la Familia, es el organismo certificador de las habilidades laborales de las personas discapacitadas.
 
 II.- Las erogaciones que efectúen:
 
@@ -1341,7 +1345,7 @@ c) Las actividades realizadas por el causante y otros datos que puedan utilizars
 
 ###### ARTICULO 160 Bis
 
-1. - Las personas físicas con actividades empresariales y las morales a que se refiere el Artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas, de acuerdo a las Reglas Generales que emita la Secretaría de Finanzas y Tesorería General del Estado.
+1.- Las personas físicas con actividades empresariales y las morales a que se refiere el Artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas, de acuerdo a las Reglas Generales que emita la Secretaría de Finanzas y Tesorería General del Estado.
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1349,11 +1353,15 @@ Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de 
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 160 bis-2. - Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
+###### ARTICULO 160 Bis
+
+2.- Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 160 bis-3.- El Contador Público registrado que vaya a dictaminar los estados financieros con relación al Impuesto Sobre Nóminas a que se refiere el artículo 160 bis-1, deberá comunicar a la Secretaría de Finanzas y Tesorería General del Estado, mediante escrito libre, el nombre, denominación o razón social de las personas físicas con actividades empresariales o morales que hayan optado por dictaminar sus estados financieros para efectos del Impuesto Sobre Nóminas; así como el número de su registro al padrón estatal en materia de dicho impuesto y los ejercicios que comprende dicho Dictamen.
+###### ARTICULO 160 Bis
+
+3.- El Contador Público registrado que vaya a dictaminar los estados financieros con relación al Impuesto Sobre Nóminas a que se refiere el artículo 160 bis-1, deberá comunicar a la Secretaría de Finanzas y Tesorería General del Estado, mediante escrito libre, el nombre, denominación o razón social de las personas físicas con actividades empresariales o morales que hayan optado por dictaminar sus estados financieros para efectos del Impuesto Sobre Nóminas; así como el número de su registro al padrón estatal en materia de dicho impuesto y los ejercicios que comprende dicho Dictamen.
 
 La constancia de la autorización al Contador Público para dictaminar estados financieros expedida por la Secretaría de Hacienda y Crédito Público, así como la copia de la cédula profesional del Contador Público que vaya a realizar dicho Dictamen, deberán adjuntarse al Aviso a que se refiere el artículo 160 bis-1 de esta Ley.
 
@@ -1383,51 +1391,9 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 160 bis-5.- Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
-
 ###### ARTICULO 160 Bis
 
-3.- El contador público registrado que desee dictaminar estados financieros con relación al Impuesto Sobre Nóminas, deberá reunir los siguientes requisitos:
-
-I.- Mediante escrito libre, solicitar la inscripción de su cédula profesional en el libro que para tal efecto se lleve en la Secretaría de Finanzas y Tesorería General del Estado y anexar constancia de la autorización para dictaminar estados financieros expedida por la Secretaría de Hacienda y Crédito Público.
-
-II.- Comunicar a la Secretaría de Finanzas y Tesorería General del Estado, lo siguiente:
-
-a) El nombre o denominación social de las personas físicas con actividades empresariales o morales por las cuales dictamina sus estados financieros; así como el número de su registro al padrón estatal en materia del Impuesto Sobre Nóminas.
-
-b) Número de registro asignable por la autoridad federal competente, al despacho contable en que preste sus servicios y en su caso, el nombre de los contadores públicos autorizados para dictaminar, que prestan sus servicios a las personas físicas con actividades empresariales o morales, señaladas en la relación que presente con base al inciso anterior.
-
-El contador público registrado, se compromete a informar a la Secretaría de Finanzas y Tesorería General del Estado, en un plazo no mayor de 15 días hábiles, los cambios que hubiere a los datos asentados en los puntos que anteceden. X
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 160 Bis
-
-4.- El dictamen que practique el contador público registrado, deberá reunir los requisitos del Artículo 52 del Código Fiscal del Estado y su revisión se sujetará a las siguientes formalidades del procedimiento:
-
-I.- La autoridad fiscal en el ejercicio de sus facultades de comprobación, requerirá indistintamente al contador público registrado que elaboró el dictamen, al contribuyente revisado, o a los terceros relacionados con el contribuyente o responsable solidario.
-
-a) Tratándose del contador público registrado, la autoridad fiscal podrá solicitarle, por escrito con copia al contribuyente, lo siguiente:
-
-1.-Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
-
-2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada; los cuales, en todo caso, se entiende que son propiedad del contador público.
-
-3.- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
-
-4.- La exhibición de los sistemas y registros contables y documentación original.
-
-b) Por lo que se refiere al contribuyente, la autoridad fiscalizadora estará facultada para requerir por escrito, con copia al contador público registrado, la información que se considere pertinente para cerciorarse del cumplimiento de sus obligaciones fiscales, así como la exhibición de sus sistemas y registros contables y documentación original correspondiente.
-
-c) Por lo que respecta a los terceros relacionados con los contribuyentes o responsables solidarios en los términos del Artículo 27 del Código Fiscal del Estado, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen.
-
-II.- En los términos del último párrafo del artículo 44 del Código Fiscal del Estado, se considera que se inicia el ejercicio de facultades de comprobación en relación con los contribuyentes que hayan presentado sus estados financieros dictaminados, cuando la autoridad fiscal competente lleve a cabo alguno de los actos señalados en los incisos b) y c) de la fracción anterior.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 160 Bis
-
-5. - Cuando este notificada una orden de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita. En este caso se le notificará dicha autorización dentro de un plazo de 30 días naturales siguientes a la solicitud respectiva.
+5.- Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
 
 ###### ARTICULO 161.
 
@@ -2695,7 +2661,7 @@ f) Hoteles de paso N$8,500.00
 
 Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
-II. - (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -2836,6 +2802,12 @@ Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasa
 ### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Humano y del Trabajo
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 276 Bis.
+
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
@@ -3018,10 +2990,6 @@ En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda 
 ## TITULO CUARTO. De los Productos
 
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
-
-ARTICULO 276 BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 278.
 
@@ -3598,3 +3566,7 @@ P.O. 13 DE ENERO DE 2007.
 DECRETO No. 59
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE OCTUBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor a partir del día 01 de enero del 2008.
