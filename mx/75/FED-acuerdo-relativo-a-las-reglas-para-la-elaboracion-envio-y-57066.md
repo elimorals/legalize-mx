@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-relativo-a-las-reglas-para-la-elaboracion-envio-y-57066
 country: "mx"
 rank: "acuerdo"
 publication_date: "1997-09-24"
-last_updated: "1997-09-24"
+last_updated: "2007-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57066&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-08-05"
 
 ACUERDO RELATIVO A LAS REGLAS PARA LA ELABORACION, ENVIO Y PUBLICACION DE LAS TESIS RELEVANTES Y DE JURISPRUDENCIA QUE EMITAN LAS SALAS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2007.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 24 de septiembre de 1997.
 
@@ -57,7 +57,9 @@ IV. Coordinación, la Coordinación de Jurisprudencia y Estadística Judicial;
 
 V. Coordinador, el Coordinador de Jurisprudencia y Estadística Judicial, y
 
-VI. Justicia Electoral, la revista Justicia Electoral, órgano de difusión del Tribunal Electoral del Poder Judicial de la Federación.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO DE LA SALA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 11 DE OCTUBRE DE 2007)</small>
+
+VI. Gaceta Electoral, la Gaceta de Jurisprudencia y Tesis Relevantes en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, medio de difusión del Tribunal Electoral.
 
 ### CAPITULO SEGUNDO. REGLAS PARA LA ELABORACION DE LAS TESIS RELEVANTES Y DE JURISPRUDENCIA
 
@@ -301,9 +303,11 @@ Una vez resuelta la contradicción, la Sala Superior ordenará el archivo del ex
 
 ### CAPITULO DECIMO. REGLAS DE PUBLICACION DE LAS TESIS
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO TERCERO DEL ACUERDO DE LA SALA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 11 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 21.
 
-La publicación de las tesis que se efectúe en Justicia Electoral se sujetará a las siguientes reglas:
+La publicación de la Jurisprudencia y Tesis Relevantes que se efectúe en la Gaceta Electoral se sujetará a las siguientes reglas:
 
 I. Las tesis enviadas a la Coordinación que cumplan con los requisitos establecidos en este Acuerdo se publicarán en el ejemplar del órgano de difusión del número que corresponda;
 
@@ -333,7 +337,7 @@ VII. Podrán corregirse, si así lo acuerda la Sala, los errores mecanográficos
 
 VIII. La Coordinación podrá solicitar a las Unidades de Jurisprudencia y Estadística Judicial de las Salas Regionales y, en su caso, al Magistrado Presidente de dicha Sala Regional el envío de la información necesaria para la publicación de referencia, y
 
-IX. La publicación de las tesis en Justicia Electoral se hará en un suplemento del número del ejemplar de la revista con el que se relacione.
+IX. (DEROGADA POR EL PUNTO TERCERO DEL ACUERDO DE LA SALA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 11 DE OCTUBRE DE 2007)
 
 ### CAPITULO DECIMO PRIMERO. CLAVES DE PUBLICACION
 
@@ -359,9 +363,11 @@ Ejemplos:
 
 S3ELJ 06/97 S3LAJU 01/97
 
+> <small>(REFORMADO POR PUNTO EL TERCERO DEL ACUERDO DE LA SALA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 11 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 25.
 
-La clave de publicación será asignada por la Coordinación y aparecerá en Justicia Electoral a renglón seguido, posteriormente a la denominación de la Sala y antes de los datos de identificación de las ejecutorias.
+La clave de publicación será asignada por la Coordinación y aparecerá en la Gaceta Electoral a renglón seguido, posteriormente a la denominación de la Sala y antes de los datos de identificación de las ejecutorias.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA DEL TRIBUNAL FEDERAL ELECTORAL
 
@@ -402,3 +408,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 Así lo aprobaron, por unanimidad de siete votos, los ciudadanos Magistrados que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, José Luis de la Peza, Leonel Castillo González, Eloy Fuentes Cerda, Alfonsina Berta Navarro Hidalgo, José Fernando Ojesto Martínez Porcayo, José de Jesús Orozco Henríquez y Mauro Miguel Reyes Zapata, bajo la presidencia del primero y ante el Secretario General de Acuerdos, que autoriza y da fe.- Rúbricas.
 
 El suscrito, Secretario General de Acuerdos de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, CERTIFICA: Que el presente "Acuerdo relativo a las reglas para la elaboración, envío y publicación de las tesis relevantes y de jurisprudencia que emitan las Salas del Tribunal Electoral del Poder Judicial de la Federación", fue aprobado por la Sala Superior, por unanimidad de siete votos, en sesión interna celebrada el día cinco de agosto de mil novecientos noventa y siete.- Lo que hago constar, para su publicación, en ejercicio de las facultades previstas en el artículo 201 fracción X de la Ley Orgánica del Poder Judicial de la Federación y en cumplimiento de las instrucciones del Magistrado José Luis de la Peza, Presidente del Tribunal Electoral del Poder Judicial de la Federación.- México, Distrito Federal, a dieciocho de septiembre de mil novecientos noventa y siete.- Doy fe.- El Secretario General de Acuerdos, Flavio Galván Rivera.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2007.
+
+PRIMERO. Este Acuerdo entrará en vigor en la fecha de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en la Gaceta de Jurisprudencia y Tesis relevantes en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en el Diario Oficial de la Federación, en la página electrónica de este Tribunal, y hágase del conocimiento de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, del Instituto Federal Electoral y de las autoridades locales en la materia, para su debido cumplimiento.
