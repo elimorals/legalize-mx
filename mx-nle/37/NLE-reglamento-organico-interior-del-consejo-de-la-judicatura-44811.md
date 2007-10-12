@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2007-05-11"
+last_updated: "2007-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -745,7 +745,7 @@ c) Revisar periódicamente los cursos de informática que se brinden a los servi
 
 d) Supervisar las medidas de seguridad y resguardos de la información almacenada en los equipos de cómputo del Poder Judicial, y vigilar el uso debido de las licencias de software instaladas.
 
-### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO
+### CAPITULO VI. DE LOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA DE LA JUDICATURA (SIC)
 
 Sección 1ª.
 
@@ -804,6 +804,8 @@ XXI.- Autorizar las copias certificadas que se ordene expedir;
 XXII.- Llevar el libro de registro de quejas y denuncias, y
 
 XXIII.- Las demás que determinen las disposiciones jurídicas y las que le sean encomendadas por el Presidente del Consejo, el Pleno, las Comisiones y los Consejeros.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
@@ -1042,6 +1044,46 @@ DEL CENTRO ESTATAL DE MÉTODOS ALTERNOS PARA LA SOLUCIÓN DE CONFLICTOS
 Artículo 60 bis III.- El Centro Estatal de Métodos Alternos para la Solución de Conflictos con que contara el Consejo de la Judicatura, se regirá conforme a lo dispuesto en la Ley de la materia y su reglamento que apruebe el Consejo.
 
 Artículo 60 bis IV.- El Titular del Centro Estatal de Métodos Alternos para la Solución de Conflictos será el Director designado para tal efecto por el Pleno, a propuesta del Presidente, quien deberá cumplir con los requisitos que para tal encargo señala la Ley de la Materia, y quien gozara de las facultades, atribuciones y obligaciones que reseña la misma, la Constitución y la Ley Orgánica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA P.O. 12 DE OCTUBRE DE 2007)</small>
+
+Sección 6ª.
+
+De la oficina ejecutiva de la Presidencia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO P.O. 12 DE OCTUBRE DE 2007)</small>
+
+Artículo 60 bis V.- La Oficina Ejecutiva de la Presidencia del Consejo de la Judicatura tendrá las funciones siguientes:
+
+I. Coordinar las unidades administrativas de asesoría, de apoyo técnico y de coordinación adscritas a la Presidencia del Consejo, en los términos que le instruya el Presidente;
+
+II. Brindar al Presidente del Consejo de la Judicatura el apoyo y la asesoría que no se encuentren exclusivamente encomendadas a otras unidades administrativas;
+
+III. Dar puntual seguimiento a las órdenes y acuerdo del Presidente del Consejo;
+
+IV. Dar seguimiento al cumplimiento de los programas, proyectos especiales o demás responsabilidades a cargo de los órganos y las unidades administrativas del Consejo de la Judicatura;
+
+V. Conducir las tareas propias de la imagen y opinión pública vinculadas con el Consejo de la Judicatura;
+
+VI. Apoyar al Presidente del Consejo de la Judicatura en la elaboración de discursos y mensajes públicos;
+
+VII. Diseñar la agenda y el calendario de eventos del Consejo de la Judicatura;
+
+VIII. Atender todo lo relacionado con la (sic) peticiones dirigidas al Presidente del Consejo respecto de asuntos relativos a relaciones institucionales y asegurar su debida atención por parte de las áreas que correspondan;
+
+IX. Conducir y evaluar las tareas de comunicación social de la Presidencia del Consejo de la Judicatura;
+
+X. Mantener las relaciones interinstitucionales de la Presidencia del Consejo de la Judicatura con las dependencias y entidades de la Administración Pública Estatal y Federal y, en general, con otras instituciones del Sector público, privado y social,
+
+XI. Coordinar la Secretaria Particular y la agenda personal del Presidente del Consejo;
+
+XII. Servir de enlace de comunicación entre la Presidencia del Consejo con los Jueces y demás servidores públicos del Poder Judicial, para la consecución de las funciones que correspondan a la oficina ejecutiva; y
+
+XIII. Las demás inherentes a las funciones anteriores y las que le encomiende expresamente el Presidente del Consejo.
 
 ### CAPITULO IX
 
@@ -2270,3 +2312,9 @@ P.O. 11 DE MAYO DE 2007.
 PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 2 dos de mayo del año 2007 dos mil siete, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
 
 SEGUNDO: Las reformas aludidas entrarán en vigor el día 15 quince de mayo del año 2007 dos mil siete.
+
+P.O. 12 DE OCTUBRE DE 2007.
+
+PRIMERO: Aprobadas en sesión plenaria del Consejo de la Judicatura de fecha 2 dos de octubre del año 2007 dos mil siete, se ordena su publicación en el Periódico Oficial del Estado y en el Boletín Judicial que edita el Tribunal Superior de Justicia del Estado.
+
+SEGUNDO: Las reformas aludidas entrarán en vigor el día 16 dieciséis de octubre del año 2007 dos mil siete.
