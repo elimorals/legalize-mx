@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-competencia-economica-11512"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-04"
-last_updated: "1998-03-04"
+last_updated: "2007-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11512&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1998-03-03"
 
 REGLAMENTO DE LA LEY FEDERAL DE COMPETENCIA ECONOMICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY FEDERAL DE COMPETENCIA ECONOMICA, PUBLICADO EN EL D.O.F. DE 12 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Diario Oficial de la Federación el miércoles 4 de marzo de 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de marzo de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -554,3 +556,15 @@ El Presidente de la Comisión deberá dictar acuerdo que admita o deseche el rec
 ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 2o. que entrará en vigor a los seis meses contados a partir de dicha entrada en vigor.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de marzo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 12 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Dentro de los treinta días siguientes a la entrada en vigor del presente Reglamento la Comisión debe publicar en el Diario Oficial de la Federación el cuestionario a que hace referencia el artículo 59 de este Reglamento. Mientras tanto debe atender las solicitudes con los elementos que establece dicho artículo y emitir cuestionarios que faciliten la presentación de documentos.
+
+TERCERO.- Se abroga el Reglamento de la Ley Federal de Competencia Económica publicado en el Diario Oficial de la Federación el 4 de marzo de 1998.
+
+CUARTO.- A los procedimientos que actualmente se encuentren en trámite, les serán aplicables hasta su conclusión, las disposiciones del instrumento que se abroga.
