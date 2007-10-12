@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transporte-publico-del-estado-de-queretaro-34067"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-05"
-last_updated: "2006-09-27"
+last_updated: "2007-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS AL PRESENTE ORDENAMIENTO, SU ENTRADA EN VIGOR SERA A LOS SESENTA DIAS HABILES POSTERIORES A SU PUBLICACION.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 5 de septiembre de 2003
 
@@ -1160,3 +1160,41 @@ PRIMERO. La presente Ley entrará en vigor sesenta días hábiles después de su
 SEGUNDO. La Secretaría de Salud valorará y expedirá las credenciales oficiales correspondientes a las personas con capacidades diferentes que lo soliciten, de acuerdo con las normas oficiales mexicanas y las suscritas por convenios internacionales ante la Organización Mundial de la Salud, a efecto de hacer efectivo el descuento.
 
 TERCERO. Las autoridades del transporte definidas en el artículo 3 de la Ley de Transporte del Estado, en coordinación con las asociaciones de concesionarios, y permisionarios, dentro del plazo de la publicación e inicio de vigencia de las presente reformas, mecanismos para dar a conocer a la sociedad y a los operadores el contenido de las mismas.
+
+P.O. 12 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor 90 días naturales posteriores al de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Transporte Público del Estado de Querétaro, aprobada el 31 de julio de 2003 y publicada el 05 de septiembre de 2003 en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo, dispondrá las medidas presupuestales y administrativas que resulten necesarias para la operación y funcionamiento de la Dirección de Transporte, conforme a las disposiciones de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado, a través de las autoridades competentes, establecerá y ejecutará los programas que resulten necesarios para la adaptación de las condiciones de operación de los servicios públicos de transporte existentes al momento de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En todas las acciones que establece la presente Ley, se considerará a todas las personas físicas o morales que tengan la calidad de concesionarios del servicio público de transporte, al momento de la entrada en vigor de la misma.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado, a través de la autoridad que corresponda, llevará a cabo el procedimiento administrativo para realizar el cambio de título de concesión para la prestación del servicio de grúa o de carga vigente hasta el momento de entrada en vigor de la presente Ley, por el de autorización para la prestación del servicio especializado en su modalidad de transporte con grúas o de carga.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas físicas o morales que al momento de la entrada en vigor de la presente Ley tengan la calidad de permisionarios, cumplirán con la temporalidad y condiciones de operación establecidas en el permiso que les fue otorgado por la anterior Dirección de Tránsito y Transporte, ahora Dirección de Transporte.
+
+###### ARTÍCULO OCTAVO.
+
+La disposición establecida en el artículo 51 del presente ordenamiento legal, surtirá efectos para los conductores que tramiten su licencia por primera vez, a partir de seis meses de iniciada la vigencia de esta Ley; para los conductores que renueven licencia no se les aplicará, pero suscribirán compromiso de continuar la capacitación correspondiente.
+
+###### ARTÍCULO NOVENO.
+
+El titular del Ejecutivo del Estado, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente Ley, expedirá los Reglamentos que la misma prevé para su ejecución y debida observancia.
