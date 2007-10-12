@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2004-08-13"
+last_updated: "2007-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2007.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -831,35 +831,73 @@ III. Asuntos Electorales;
 
 IV. Asuntos Municipales;
 
-V. Derechos Humanos;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-VI. Desarrollo Económico y Social, y Atención al Migrante;
+V. Atención al Migrante;
 
-VII. Desarrollo Urbano y Obra Pública;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-VIII. Educación, Ciencia y Tecnología y Cultura;
+VI. Derechos Humanos;
 
-IX. Equidad de Género;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-X. Fomento Agropecuario;
+VII. Desarrollo Económico y Social;
 
-XI. Gobernación y Puntos Constitucionales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-XII. Hacienda y Fiscalización;
+VIII. Desarrollo Urbano y Obra Pública;
 
-XIII. Justicia;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-XIV. Juventud y Deporte;
+IX. Educación, Ciencia y Tecnología y Cultura;
 
-XV. Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-XVI. Participación Ciudadana y Gestión Social;
+X. Equidad de Género;
 
-XVII. Responsabilidades;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
-XVIII. Salud Pública; y
+XI. Fomento Agropecuario;
 
-XIX. Seguridad Pública y Comunicaciones.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XII. Gobernación y Puntos Constitucionales;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XIII. Hacienda y Fiscalización;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XIV. Justicia;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XV. Juventud y Deporte;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XVI. Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XVII. Participación Ciudadana y Gestión Social;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XVIII. Responsabilidades;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XIX. Salud Pública;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XX. Seguridad Pública y Comunicaciones; y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+XXI. Turismo.
 
 El Pleno podrá acordar la constitución de comisiones especiales, cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto y el número de los integrantes que las conformarán y en su caso, el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán.
 
@@ -945,6 +983,22 @@ V.- Las solicitudes de los Ayuntamientos para que se les autorice a celebrar con
 
 VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+Artículo 88 bis.- Corresponde a la Comisión de Atención al Migrante, el conocimiento y dictamen de los asuntos siguientes:
+
+I.- Los relacionados con los planes, programas, estrategias y políticas para atender las causas que generan la migración en el Estado;
+
+II.- Los relativos a las acciones del gobierno estatal en materia de atención al migrante;
+
+III.- Los relacionados con el fortalecimiento de la vinculación intergubernamental para el desarrollo de los migrantes;
+
+IV.- Los relativos a las acciones de instancias nacionales como estatales por el respeto de los derechos humanos de los migrantes guanajuatenses;
+
+V.- Los relativos a programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes; y
+
+VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+
 ###### Artículo 89.
 
 Corresponde a la Comisión de Derechos Humanos, el conocimiento y dictamen de los siguientes asuntos:
@@ -963,9 +1017,11 @@ VI.- Los que se relacionen con el tutelaje y protección de los derechos de los 
 
 VII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 90.
 
-Corresponde a la Comisión de Desarrollo Económico y Social, y Atención al Migrante, el conocimiento y dictamen de los asuntos siguientes:
+Corresponde a la Comisión de Desarrollo Económico y Social, el conocimiento y dictamen de los asuntos siguientes:
 
 I.- Los relativos al desarrollo económico y social del Estado;
 
@@ -977,9 +1033,9 @@ IV.- Los que se refieran a la promoción y apoyo de la planta productiva del Est
 
 V.- Los que se refieran a la atención de los asuntos de pobreza extrema;
 
-VI.- Los relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los migrantes, así como el fortalecimiento de la vinculación intergubernamental para su desarrollo;
+VI.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2007)
 
-VII.- Los relativos a programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes;
+VII.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2007)
 
 VIII.- Los relacionados con el desarrollo de programas y políticas públicas en materia de desarrollo humano sustentable; y
 
@@ -1202,6 +1258,18 @@ I.- Las leyes relativas a la seguridad pública del Estado y de protección civi
 II.- El orden, seguridad pública, contingencias y desastres en el ámbito estatal;
 
 III.- Las leyes relativas a las vías de comunicación y transporte; y
+
+IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2007)</small>
+
+Artículo 103 bis.- Corresponde a la Comisión de Turismo, conocer y dictaminar los asuntos siguientes:
+
+I.- Los relativos a la legislación en materia de turismo, de competencia estatal;
+
+II.- Los relacionados con los planes, programas, estrategias y políticas en materia de desarrollo turístico; y
+
+III.- Los relativos a las acciones de los gobiernos estatal y municipales, así como la vinculación intergubernamental en materia de desarrollo turístico; y
 
 IV.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
@@ -2584,3 +2652,15 @@ Diputado Secretario.
 MA. EUGENIA ROJAS NAVARRETE.
 
 Diputada Secretaria.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Dentro de los quince días siguientes a la entrada en vigor del presente Decreto, la Junta de Gobierno y Coordinación Política propondrá al Pleno la integración de las comisiones de Atención al Migrante y de Turismo.
+
+Artículo Tercero. Los asuntos que se encuentren en trámite o en proceso ante la Comisión de Desarrollo Económico y Social, y Atención al Migrante, relacionados con la competencia que se establece en el presente decreto para la Comisión de Atención al Migrante, continuarán tramitándose por la Comisión de Desarrollo Económico y Social, en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite o en proceso ante la comisión especial creada para analizar y dictaminar las iniciativas y demás asuntos que en materia de turismo se presentaran ante el Congreso del Estado, relacionados con la competencia que se establece en el presente decreto para la Comisión de Turismo, continuarán tramitándose por dicha comisión especial, en los términos del acuerdo del Pleno del Congreso del Estado de fecha 3 de julio de 2007 y de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Guanajuato.
