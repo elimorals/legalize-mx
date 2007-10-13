@@ -4,7 +4,7 @@ identifier: "CHH-codigo-para-la-proteccion-y-defensa-del-menor-21825"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-02-02"
-last_updated: "2006-09-16"
+last_updated: "2007-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2006, LA PRESENTE REFORMA INICIARA SU VIGENCIA A PARTIR DEL 1 DE JULIO DE 2007 Y SU APLICACION SERA ACORDE A LOS HECHOS QUE OCURRAN EN LOS DISTRITOS QUE SE MENCIONA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 2 de febrero de 1994.
 
@@ -687,13 +685,17 @@ Artículo Primero. Inicio de Vigencia.- La presente Ley iniciará su vigencia el
 
 Artículo Segundo. Aplicación.- Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de enero del año dos mil ocho; y, respecto a los hechos que se produzcan en el resto del territorio del Estado, a partir de las cero horas del primero de julio del año dos mil ocho.
 
-Artículo Tercero. Derogación.- Los artículos 2°, inciso b); 8° Bis, así como del artículo 33 al 108 y todas las disposiciones relativas al procesamiento para menores señaladas en el Código para la Protección y Defensa del Menor, quedarán derogadas en aquellos Distritos en que entre en aplicación la presente Ley.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+Artículo Tercero. Derogación.- Los artículos 2, inciso b); 8° Bis, así como del artículo 33 al 108, y todas las disposiciones relativas al procesamiento de menores señaladas en el Código para la Protección y Defensa del Menor, quedarán derogados en aquellos distritos en que entre en aplicación la presente Ley, con las particularidades que se precisan en el artículo quinto transitorio.
 
 Artículo Cuarto. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
 
-Artículo Quinto. Asuntos en Trámite.- En los Distritos en los que inicie la aplicación de la presente Ley, los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con el Código para la Protección y Defensa del Menor, quedarán sujetos a todo lo previsto en la presente legislación. Para tales efectos, las autoridades de los Tribunales para Menores deberán trasladar los expedientes a las nuevas autoridades y poner a su disposición a los menores que se encuentren cumpliendo una medida de internamiento.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
-Las actuaciones realizadas en los asuntos iniciados con anterioridad a la vigencia de la presente Ley y que se encuentren en trámite, conservarán su validez, pero los procedimientos deben readecuarse a las nuevas disposiciones.
+Artículo Quinto. Asuntos en Trámite.- En los Distritos Judiciales en los que inicie la aplicación de la presente Ley, los adolescentes que se encuentren cumpliendo una medida, de conformidad con el Código para la Protección y Defensa del Menor, quedarán sujetos a todo lo previsto en la presente legislación. Para tales efectos, las autoridades de los tribunales para menores deberán poner a disposición de las nuevas autoridades a los menores que se encuentren cumpliendo una medida de internamiento.
+
+Los asuntos iniciados con anterioridad a la vigencia de la presente Ley, y que se encuentren en trámite, seguirán su curso hasta su conclusión conforme al Código para la Protección y Defensa del Menor.
 
 Las medidas adoptadas con anterioridad continuarán ejecutándose, sin perjuicio de que se modifiquen o se hagan cesar conforme a lo dispuesto en la presente Ley.
 
@@ -712,3 +714,9 @@ Artículo Undécimo. Liberación de Adolescentes.- Todos los adolescentes entre 
 Artículo Duodécimo. Tribunales Municipales.- Los tribunales municipales a los que hace referencia el Código para la Protección y Defensa del Menor, se disuelven a razón de la implementación del nuevo Sistema de Justicia para Adolescentes, en los Distritos Judiciales en donde vaya entrando la aplicación.
 
 Artículo Decimotercero. Traslación de recursos.- Los recursos materiales y humanos del Tribunal Central y Tribunal Superior para Menores dedicados a la función materialmente jurisdiccional, se pondrán a disposición del Poder Judicial del Estado para que en el ejercicio de sus facultades y su régimen interior, implemente el Sistema de Justicia para Adolescentes.
+
+P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
