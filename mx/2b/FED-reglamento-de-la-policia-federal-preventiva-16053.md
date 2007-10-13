@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-policia-federal-preventiva-16053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-26"
-last_updated: "2006-04-26"
+last_updated: "2007-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-17"
 
 REGLAMENTO DE LA POLICIA FEDERAL PREVENTIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de abril de 2000.
 
@@ -91,9 +91,13 @@ La Institución, de acuerdo con sus disponibilidades presupuestarias, establecer
 
 Los colores oficiales de la Institución son:
 
-I. El blanco marfil y negro brillante para usarse en cualquiera de sus combinaciones en los vehículos aéreos, marítimos y terrestres, y
+> <small>(REFORMADA, D.O.F. 13 DE OCTUBRE DE 2007)</small>
 
-II. El verde tabaco, beige, negro y gris oxford, en los uniformes que portará el personal de la Institución.
+I. El blanco y azul para usarse en cualquiera de sus combinaciones en los vehículos aéreos, marítimos y terrestres, y
+
+> <small>(REFORMADA, D.O.F. 13 DE OCTUBRE DE 2007)</small>
+
+II. El azul, blanco, negro y gris, en los uniformes que portará el personal de la Institución.
 
 ###### Artículo 8.
 
@@ -2224,3 +2228,13 @@ D.O.F. 26 DE ABRIL DE 2006.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+D.O.F. 13 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El diseño y uso de uniformes, vestuario, equipo complementario, divisas y distintivos, así como distribución y descripción de los colores y demás características de los bienes muebles e inmuebles de la Policía Federal Preventiva, se especificarán en el Manual correspondiente.
+
+CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin, en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente para la Secretaría de Seguridad Pública, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
