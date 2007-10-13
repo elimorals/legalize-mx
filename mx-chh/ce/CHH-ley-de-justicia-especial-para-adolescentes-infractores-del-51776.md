@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2006-09-16"
+last_updated: "2007-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR EL PRIMERO DE JULIO DEL AÑO DOS MIL SIETE.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -1299,13 +1297,19 @@ Artículo Primero. Inicio de Vigencia.- La presente Ley iniciará su vigencia el
 
 Artículo Segundo. Aplicación.- Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de enero del año dos mil ocho; y, respecto a los hechos que se produzcan en el resto del territorio del Estado, a partir de las cero horas del primero de julio del año dos mil ocho.
 
-Artículo Tercero. Derogación.- Los artículos 2°, inciso b); 8° Bis, así como del artículo 33 al 108 y todas las disposiciones relativas al procesamiento para menores señaladas en el Código para la Protección y Defensa del Menor, quedarán derogadas en aquellos Distritos en que entre en aplicación la presente Ley.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+Artículo Tercero. Derogación.- Los artículos 2, inciso b); 8° Bis, así como del artículo 33 al 108, y todas las disposiciones relativas al procesamiento de menores señaladas en el Código para la Protección y Defensa del Menor, quedarán derogados en aquellos distritos en que entre en aplicación la presente Ley, con las particularidades que se precisan en el artículo quinto transitorio.
 
 Artículo Cuarto. Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este Ordenamiento.
 
-Artículo Quinto. Asuntos en Trámite.- En los Distritos en los que inicie la aplicación de la presente Ley, los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con el Código para la Protección y Defensa del Menor, quedarán sujetos a todo lo previsto en la presente legislación. Para tales efectos, las autoridades de los Tribunales para Menores deberán trasladar los expedientes a las nuevas autoridades y poner a su disposición a los menores que se encuentren cumpliendo una medida de internamiento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
-Las actuaciones realizadas en los asuntos iniciados con anterioridad a la vigencia de la presente Ley y que se encuentren en trámite, conservarán su validez, pero los procedimientos deben readecuarse a las nuevas disposiciones.
+Artículo Quinto. Asuntos en Trámite.- En los Distritos Judiciales en los que inicie la aplicación de la presente Ley, los adolescentes que se encuentren cumpliendo una medida, de conformidad con el Código para la Protección y Defensa del Menor, quedarán sujetos a todo lo previsto en la presente legislación. Para tales efectos, las autoridades de los tribunales para menores deberán poner a disposición de las nuevas autoridades a los menores que se encuentren cumpliendo una medida de internamiento.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+Los asuntos iniciados con anterioridad a la vigencia de la presente Ley, y que se encuentren en trámite, seguirán su curso hasta su conclusión conforme al Código para la Protección y Defensa del Menor.
 
 Las medidas adoptadas con anterioridad continuarán ejecutándose, sin perjuicio de que se modifiquen o se hagan cesar conforme a lo dispuesto en la presente Ley.
 
@@ -1352,3 +1356,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
