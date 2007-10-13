@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2006-12-09"
+last_updated: "2007-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -187,9 +187,45 @@ VII.- Visitar los centros de reclusión, con el fin de constatar el respeto de l
 
 VIII.- Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario, en cuanto afecten sus derechos y beneficios;
 
-IX.- Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes; y
+IX.- Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes; y (sic)
 
-X.- Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+X.- Los Jueces de Ejecución de Penas deberán necesariamente resolver en audiencia oral, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva, y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+XI.- Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 12 Bis.
+
+Audiencia ante el Juez de Ejecución de Penas.
+
+La autoridad ejecutora para llevar a cabo la audiencia a que se refiere la fracción X del artículo 12, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
+
+Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Dirección de Ejecución de Penas y Medidas de Seguridad que sean designados para tal efecto, el o la sentenciada y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello.
+
+Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte.
+
+La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral.
+
+La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia, previstas en los artículos 328 y 329, ambos del Código Adjetivo Penal.
+
+La resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 371 del Código Procesal Penal.
+
+El Juez de Ejecución Penal valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
+
+De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia certificada a la Dirección de Ejecución Penal y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 12 Ter.
+
+Apertura de la audiencia.
+
+El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia de los intervinientes. Verificará las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia. Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público, al funcionario de la Dirección de Ejecución de Penas y Medidas de Seguridad y si está presente en la audiencia, a la víctima u ofendido. Al arbitrio del Juez de Ejecución Penal quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
 
 ###### Artículo 13.
 
@@ -1047,11 +1083,13 @@ Procedencia.
 
 La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine en el recurso de revisión, en los términos del Título Décimo, Capítulo V del Código de Procedimientos Penales.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 91.
 
 Libertad por revisión de sentencia.
 
-Cuando por revisión de sentencia se resuelva la absolución del condenado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Dirección para que la ejecute sin demora; así mismo, al Juez de Ejecución de Penas, para su conocimiento.
+Cuando por revisión de sentencia se resuelva la absolución del condenado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Dirección y al Juez de Ejecución de Penas para que sin demora la ejecuten; así mismo, a la Procuraduría General de Justicia del Estado, para su conocimiento.
 
 ###### Artículo 92.
 
@@ -1866,3 +1904,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
