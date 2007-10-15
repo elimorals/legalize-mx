@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2007-09-28"
+last_updated: "2007-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -723,7 +723,7 @@ En las salas del tribunal y en los juzgados, los Secretarios harán constar en l
 
 ###### Artículo 121.
 
-Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación personal y fuera de estos casos desde el día siguiente a aquel en que surtió sus efectos la notificación.
+Los términos judiciales empezarán a correr desde el día siguiente a aquél en que se hubiere hecho el emplazamiento o notificación personal y fuera de estos casos desde el día siguiente a aquél en que surtió sus efectos la notificación.
 
 ###### Artículo 122.
 
@@ -965,13 +965,13 @@ Cuando sean varios los demandados y tuvieren diversos domicilios será competent
 
 V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
-VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
+VI. Aquél en cuyo territorio radica un juicio sucesorio para conocer:
 
-a).- de las acciones de petición de herencia;
+a).- de las acciones de petición de herencia.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El Juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías, así mismo, solicitará vía Internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -5565,7 +5565,7 @@ Cuando se presente como actor o como reo alguien que no sea personalmente conoci
 
 No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
+El que se presente como actor o como reo usando nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que termine el Código Penal.
 
 Del Juicio
 
@@ -5784,3 +5784,7 @@ Todos los juicios hipotecarios que actualmente se siguen, se continuará tramita
 P.O. 28 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 15 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
