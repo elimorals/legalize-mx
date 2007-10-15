@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2007-06-18"
+last_updated: "2007-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -3097,9 +3097,9 @@ XXXVI.- Realizar el mantenimiento preventivo y correctivo en los cementerios y, 
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION PRIMERA. Definiciones
+#### SECCION PRIMERA. Del Consejo Directivo
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 219.
 
@@ -3121,13 +3121,13 @@ VII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: A
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION PRIMERA. Definiciones
+#### SECCION SEGUNDA. Del Consejo Consultivo
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION SEGUNDA. De la Amonestación
+#### SECCION TERCERA. Del Director General
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 220.
 
@@ -3177,9 +3177,9 @@ XXI.- Lo demás que señalen las leyes, el presente Código o le encomiende el H
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. Del Arresto
+#### SECCION CUARTA. Del Comisario
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 221.
 
@@ -3235,7 +3235,7 @@ XXI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Preside
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. El Cambio de Adscripción
+#### SECCION PRIMERA. Definiciones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3267,21 +3267,21 @@ XI.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presiden
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION QUINTA. De la Suspensión Temporal
+#### SECCION PRIMERA. Definiciones
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEXTA. De la Pérdida de Grado
+#### SECCION SEGUNDA. De la Amonestación
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEPTIMA. De la Rescisión o Destitución
+#### SECCION TERCERA. Del Arresto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCION CUARTA. El Cambio de Adscripción
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -7039,21 +7039,21 @@ III.- Arresto hasta por 36 horas.
 
 ### CAPITULO PRIMERO. De las Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 603.
 
-El presente Título tiene por objeto regular:
+El presente título tiene por objeto regular:
 
 I.- Los servicios públicos de agua potable, alcantarillado, saneamiento y su reuso;
 
-III (sic).- La organización, funcionamiento y atribuciones de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.;
+II.- La organización, funcionamiento y atribuciones de la Comisión de Agua Potable y Alcantarillado del Municipio de Pabellón de Arteaga, Ags.;
 
-IV.- La participación de los sectores gubernamental, social y privado en las diversas acciones relacionadas con el servicio;
+III.- La participación de los sectores gubernamental, social y privado en las diversas acciones relacionadas con el servicio;
 
-V.- Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reuso, los contratistas y los usuarios de dichos servicios; y
+IV.- Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reuso, los contratistas y los usuarios de dichos servicios; y
 
-VII.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reuso.
+V.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua potable, alcantarillado, saneamiento y su reuso.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7093,13 +7093,21 @@ XV.- Uso doméstico: la utilización del agua potable en casa-habitación para c
 
 XVI.- Ley: La Ley de Agua para el Estado de Aguascalientes;
 
-XVII.- La Comisión: La Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-XVIII.- Consejo Directivo: Al órgano máximo de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.;
+XVII.- La CAPAPA.- La Comisión de Agua Potable y Alcantarillado del Municipio de Pabellón de Arteaga, Ags.;
 
-XIX.- Consejo Consultivo: Al órgano colegia de apoyo y auxilio para la realización de los objetivos de la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags.;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-XX.- Director General: Al representante legal de la Comisión, con todas las facultades generales y especiales que le otorga la Ley y el presente título; y
+XVIII.- Consejo Directivo.- Al órgano máximo de la CAPAPA;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+XIX.- Consejo Consultivo.- Al órgano colegiado de apoyo y auxilio para la realización de los objetivos de CAPAPA;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+XX.- Director General.- Al representante legal de la CAPAPA, con todas las facultades generales y especiales que le otorga la Ley y el presente título; y
 
 XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
 
@@ -7107,37 +7115,17 @@ XXI.- Usuario: la persona, física o moral que utilice los servicios públicos.
 
 ### CAPITULO SEGUNDO. De la Prestación del Servicio de Agua potable y Alcantarillado
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 605.
 
-Tendrán derecho a recibir el servicio de agua potable y alcantarillado las personas que realicen actividades industriales, comerciales, agrícolas y de servicio así como los usuarios domésticos frente a cuyos predios se encuentran instaladas las tuberías de distribución de agua y de recolección de aguas residuales para lo cual deberá solicitar a la Comisión la instalación de las tomas respectivas y la conexión de sus descargas, cumpliendo con los requisitos y mediante el pago de los derechos y tarifas correspondientes.
+Tendrán derecho a recibir el servicio de agua potable y alcantarillado, los propietarios frente a cuyos predios se encuentren instaladas las tuberías de distribución de agua y de recolección de aguas residuales y pluviales, para lo cual deberán solicitar a la CAPAPA la instalación de las tomas respectivas y la conexión de sus descargas, cumpliendo con los requisitos y mediante el pago de los derechos y tarifas correspondientes.
 
-Para el caso concreto de las personas Físicas o Morales que ya desarrollan o que pretendan realizar actividades industriales, comerciales, agrícolas y de servicio deberán cumplir con los siguientes requisitos:
-
-I.- Tramitar sus permisos de descarga de agua residual ante la Comisión.
-
-II.- Observar las condiciones particulares de descarga de las aguas residuales con que deben verter a la red de drenaje y alcantarillado municipal de acuerdo al giro de la empresa y a la Ley vigente correspondiente que se le fije al momento del contrato.
-
-III.- Realizar cada seis meses un muestreo y análisis del agua residual de sus procesos a través de un laboratorio acreditado ante la entidad Mexicana de Acreditación A.C., que vierten a la red municipal en función de las condiciones particulares que se les fijó y entregarán una copia a la Comisión; y
-
-IV.- En el caso de que en los resultados de los análisis del agua residual que vierten a la red municipal esté fuera de norma y contaminen se les suspenderá el permiso para descargar sus aguas residuales hasta que presenten un programa de mejora.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 606.
 
-A cada predio o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas residuales y otra pluvial, cuando estos sistemas deban estar separados, y una descarga, cuando sean combinadas. La Comisión dictaminará la factibilidad de la instalación, y fijará las especificaciones técnicas a las que se sujetarán.
-
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
-
-Para el caso de las personas Físicas o Morales que ya desarrollan o que pretendan realizar actividades industriales, comerciales, agrícolas y de servicio y que son altamente demandantes de agua en el Municipio deberán cumplir con los siguientes requisitos:
-
-I.- Tramitar sus permisos de agua potable ante la Comisión.
-
-II.- Presentar un programa donde manifiesten la forma en que ahorrarán agua en sus procesos, para evitar consumos excesivos; y
-
-III.- Contar con medidores para verificar su cumplimiento que les serán instalados por la Comisión.
+A cada predio o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas residuales y otra pluvial, cuando estos sistemas deban estar separados, y una descarga, cuando sean combinadas. La CAPAPA dictaminará la factibilidad de la instalación, y fijará las especificaciones técnicas a las que se sujetarán.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2007)</small>
 
@@ -7151,17 +7139,19 @@ Presentada la solicitud debidamente requisitada, dentro de los quince días háb
 
 I.- Corroborar la veracidad de los datos proporcionados por el solicitante;
 
-Il.- Conocer las circunstancias que la Comisión considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+II.- Conocer las circunstancias que la CAPAPA considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente; y (sic)
 
 III.- Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios públicos solicitados; y
 
 IV.- Las conexiones e instalaciones de tomas solicitadas se autorizarán con base en el resultado de la visita practicada de acuerdo a la Ley, en un término de cinco días hábiles computables a partir de la recepción del informe. La elaboración del informe no podrá extenderse por más de quince días hábiles a partir de la visita.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 608.
 
-Firmado el contrato correspondiente, y previo pago del importe del costo de la instalación y conexión, y del importe de las cuotas que correspondan, la Comisión de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y en su caso, pluviales, lo cual deberá llevarse a cabo dentro de los treinta días hábiles siguientes a la fecha de pago. Cuando se trate de tomas solicitadas por establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije la Comisión.
+Firmado el contrato correspondiente, y previo pago del importe del costo de la instalación y conexión, y del importe de las cuotas que correspondan, la CAPAPA de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y en su caso, pluviales, lo cual deberá llevarse a cabo dentro de los treinta días hábiles siguientes a la fecha de pago. Cuando se trate de tomas solicitadas por establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije la CAPAPA.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7171,11 +7161,11 @@ Las tomas deberán instalarse en la entrada de los predios o establecimientos, y
 
 En el caso de propiedades en condominio, en cualquiera de sus modalidades, si existe una toma que abastece a todas las viviendas o departamentos, el prestador del servicio estará obligado a efectuar modificaciones necesarias para la instalación de aparatos medidores volumétricos, para cada una de las viviendas o departamentos que la componen, lo cual se efectuará en términos del párrafo anterior, previo acuerdo de las respectivas asambleas de condóminos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 610.
 
-Instalada la toma y hechas las conexiones respectivas, la Comisión comunicará al propietario o poseedor del predio, condominio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro del servicio.
+Instalada la toma y hechas las conexiones respectivas, la CAPAPA comunicará al propietario o poseedor del predio, condominio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro del servicio.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7191,11 +7181,13 @@ En ningún caso el propietario o poseedor del predio o establecimiento podrá op
 
 Independientemente de los casos en que conforme a la Ley proceda la suspensión o supresión de una toma de agua o de una descarga, el usuario podrá solicitar por escrito la suspensión o supresión respectiva, expresando las causas en que funde su solicitud.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 613.
 
-Las derivaciones de toma de agua o de descarga de alcantarillado requerirán de previa autorización del proyecto o control en su ejecución por la Comisión, debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar las cuotas y tarifas que le correspondan por el suministro de dichos servicios.
+Las derivaciones de toma de agua o de descarga de alcantarillado requerirán de previa autorización del proyecto o control en su ejecución por la CAPAPA debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar las cuotas y tarifas que le correspondan por el suministro de dichos servicios.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 Las personas que utilicen los servicios públicos de manera no autorizada, deberán pagar las tarifas que correspondan a dichos servicios y, además, se harán acreedores a las sanciones administrativas que se señalan en la Ley y el presente Código, y en su caso, a las sanciones penales relativas.
 
@@ -7205,19 +7197,29 @@ Las personas que utilicen los servicios públicos de manera no autorizada, deber
 
 Son obligaciones de los usuarios:
 
-I.- Pagar los servicios con base en las cuotas y tarifas, dentro del plazo establecido en el recibo correspondiente y en las oficinas que determine la Comisión;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-II.- Responder ante la Comisión por los adeudos que se generen en los términos de este título, cuando se transfiera la propiedad de un inmueble con sus servicios públicos, el nuevo propietario se subrogará en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al prestador de los servicios;
+I.- Pagar los servicios con base en las cuotas y tarifas, dentro del plazo establecido en el recibo correspondiente y en las oficinas que determine la CAPAPA;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+II.- Responder ante la CAPAPA por los adeudos que se generen en los términos de este título, cuando se transfiera la propiedad de un inmueble con sus servicios públicos, el nuevo propietario se subrogará en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al prestador de los servicios;
 
 III.- Pagar, por cada derivación, el importe de las cuotas de conexión que correspondan a una toma de agua directa, así como el servicio respectivo;
 
-IV.- Permitir el acceso al personal de la Comisión debidamente acreditado, al lugar en donde se encuentre el medidor;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-V.- Permitir el acceso a los inspectores o verificadores de la Comisión, para realizar la inspección del predio;
+IV.- Permitir el acceso al personal de la CAPAPA debidamente acreditado, al lugar en donde se encuentre el medidor;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+V.- Permitir el acceso a los inspectores o verificadores de la CAPAPA para realizar la inspección del predio;
 
 VI.- Cuidar que no se deterioren o destruyan los aparatos medidores;
 
-VII.- Informar a la Comisión en un plazo máximo de tres días hábiles, todo daño o perjuicio causado a los medidores;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+VII.- Informar a la CAPAPA en un plazo máximo de tres días hábiles, todo daño o perjuicio causado a los medidores;
 
 VIII.- Cubrir el monto de las obras necesarias para la reparación o sustitución del albañal si éste se destruye por causas imputables a los usuarios, propietarios o poseedores de los predios; y
 
@@ -7255,97 +7257,205 @@ VIII.- Formar comités para la promoción de la construcción, conservación, ma
 
 IX.- Adoptar las figuras jurídicas que estimen pertinentes para el mantenimiento y operación de los sistemas de agua potable y alcantarillado en los centros de población de las zonas rurales, debiendo el municipio o el organismo operador prestar el apoyo necesario; y
 
-XI (SIC).- Participar en la planeación, programación, administración, operación, supervisión o vigilancia de la Comisión en los términos de la Ley.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XI (SIC).- Participar en la planeación, programación, administración, operación, supervisión o vigilancia de la CAPAPA en los términos de la Ley.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 617.
 
-En épocas de escasez de agua, comprobada o previsible, la Comisión podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles. Cuando la escasez de agua sea originada por negligencia o falta de previsión de la Comisión, éste responderá en los términos que prevenga el contrato respectivo.
+En épocas de escasez de agua, comprobada o previsible, la CAPAPA podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles. Cuando la escasez de agua sea originada por negligencia o falta de previsión de la CAPAPA, éste responderá en los términos que prevenga el contrato respectivo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 618.
 
-La Comisión podrá ordenar la práctica de visitas por personal autorizado para verificar que:
+La CAPAPA podrá ordenar la práctica de visitas por personal autorizado para verificar que:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 I.- El uso de los servicios públicos sea el contratado;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 II.- El funcionamiento de las instalaciones sea acorde a lo que se disponga en la autorización concedida;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 III.- El funcionamiento de los medidores y las causas de alto o bajo consumo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 IV.- El diámetro exacto de las tomas y de las conexiones de las descargas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 V.- No existan tomas o derivaciones no autorizadas;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VI.- la existencia de fugas de agua; y
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Que las tomas y descargas cumplan con lo dispuesto en este título.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO TERCERO. De la Comisión de Agua Potable, Alcantarillado y Saneamiento
+El procedimiento de inspección o verificación se sujetará a las formalidades y procedimientos establecidos en la Ley del Procedimiento Administrativo del Estado y en el presente Código.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO TERCERO. De la Comisión de Agua Potable y Alcantarillado
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 619.
 
-El procedimiento de inspección o verificación se sujetará a las formalidades y procedimientos establecidos en el presente Código.
+La prestación del servicio público de agua potable, alcantarillado, saneamiento en el Municipio de Pabellón de Arteaga, Aguascalientes, correrá a cargo de un organismo público descentralizado de la administración municipal, con personalidad jurídica y patrimonio propios, denominado Comisión de Agua Potable y Alcantarillado del Municipio de Pabellón de Arteaga, Aguascalientes (CAPAPA).
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 619 BIS.- La CAPAPA es la entidad pública descentralizada perteneciente a la administración paramunicipal creada por el Ayuntamiento con régimen jurídico, personalidad jurídica y patrimonio propio para la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento en el Municipio, por tanto le corresponde la explotación, uso y aprovechamiento de las aguas superficiales o del subsuelo y residuales, desde el punto de su extracción o recepción, hasta su distribución, tratamiento y disposición final en los ámbitos de la competencia municipal y de conformidad con la asignación de la Comisión Nacional del Agua.
+
+La CAPAPA tendrá su domicilio legal en la ciudad de Pabellón de Arteaga, Aguascalientes, y sólo con aprobación del Ayuntamiento, será posible cambiar su domicilio fuera de la cabecera municipal, previa opinión emitida por el organismo operador.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 619 TER.- La CAPAPA, realizará las actividades correspondientes a la planeación, programación y ejecución de las obras necesarias para la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, en el Municipio, en los términos de este Código, de acuerdo con los requerimientos sociales a satisfacer, las cuales deberán estar vinculadas con los planes y programas de desarrollo municipal, estatales y federales, y demás disposiciones legales y reglamentarias aplicables, a la obra hidráulica, atendiendo los trámites ante el Instituto del Agua del Estado y la Comisión Nacional del Agua.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 619 QUATER.- La CAPAPA para el desempeño de sus funciones, contará con el auxilio de las dependencias municipales dentro de los límites de sus atribuciones, el Instituto del Agua del Estado y la Comisión Nacional del Agua, en los términos de la Ley del Agua del Estado y la Ley de Aguas Nacionales, observando las disposiciones legales y reglamentarias derivadas de los ordenamientos federales, estatales y municipales vigentes, en materia de explotación, uso o aprovechamiento de aguas; prevención y control de la contaminación de las aguas y, tratamiento y usos de las aguas residuales, en lo que concierne a la competencia municipal y con respeto (sic) a la competencia de los otros ámbitos de gobierno.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 620.
 
-La Comisión tendrá a su cargo:
+La CAPAPA tendrá las siguientes facultades:
 
-I.- Las atribuciones a que se refiere el Artículo 17 de la Ley, con excepción de la fracción X;
+I.- Proporcionar los servicios de agua potable, alcantarillado y saneamiento en la cabecera municipal y en los centros de población o comunidades rurales ubicados en el territorio municipal;
 
-II.- Determinar las cuotas y tarifas de conformidad con lo establecido en la Sección Tercera, Capitulo V, Título Tercero de la Ley;
+II.- La administración, operación y control de las obras destinadas a la prestación de los servicios a su cargo, las cuales comprenderán:
 
-III.- Rendir anualmente al Gobierno Municipal un informe de las labores de la Comisión, realizadas durante el ejercicio anterior, así como del estado general de la Comisión y sobre las cuentas de su gestión; dicho informe deberá presentarse dentro de los 60 días siguientes al término del ejercicio anterior;
+a).- Las destinadas a la captación de aguas superficiales, pluviales y del subsuelo, potabilización, conducción y distribución;
 
-IV.- Establecer las oficinas necesarias dentro de su jurisdicción;
+b).- Las utilizadas para la recolección, bombeo, conducción, alejamiento y disposición de las aguas residuales;
 
-V.- Formular y mantener actualizado el inventario de bienes y recursos que integran su patrimonio;
+c).- Las empleadas para el proceso de tratamiento y reuso de aguas residuales, su conducción y distribución, así como para la disposición final de afluentes y Iodos.
 
-VI.- Elaborar los estados financieros de la Comisión;
+III.- Rendir informes mensuales al Ayuntamiento, sobre el ejercicio de sus funciones debiendo proporcionarle sin perjuicio de lo anterior la información que le solicite en cualquier tiempo;
 
-VII.- Utilizar todos los ingresos que recaude, obtenga o reciba, exclusivamente en los servicios públicos, destinándolos en forma prioritaria a eficientar la administración y operación de la Comisión y posteriormente a ampliar la infraestructura hidráulica, ya que en ningún caso podrán ser destinados a otros fines;
+IV.- Proponer, al Ayuntamiento mediante estudio técnico, las tarifas para el pago de derechos por suministro de agua potable, para que sean fijadas las que correspondan de conformidad con este Código;
 
-VIII.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos; y
+V.- Determinar y cobrar los adeudos fiscales generados con motivo de la prestación de los servicios de acuerdo a las tarifas que para tal efecto se establezcan;
 
-IX.- Las demás que señalen la Ley, el presente Código y otros ordenamientos jurídicos.
+VI.- Ejercer la facultad económico-coactiva, derivada del incumplimiento de pago de los adeudos fiscales, así como los rezagos, multas y gastos de ejecución que correspondan de conformidad con las leyes de ingresos y de hacienda del Municipio;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+VII.- Programar el aprovechamiento de las fuentes de suministro de agua, cumpliendo con las normas y condiciones de calidad del agua para su suministro y la forma de su ejecución;
+
+VIII.- Establecer los sitios y formas de medición tanto del suministro de agua como de la descarga de aguas residuales, así como instalar y operar los aparatos medidores, verificar su funcionamiento y retiro en caso de daño;
+
+IX.- Promover y ejecutar programas de uso eficiente del agua y difundir una cultura del agua en el Municipio;
+
+X.- Respetar las reservas y los derechos de terceros, inscritos en el Registro Público de derechos de agua, regulado por la Ley;
+
+XI.- Controlar la descarga de contaminantes en aguas residuales a cuerpos receptores, drenaje, arroyos, ríos y demás afluentes del Municipio, incurriendo en responsabilidad grave, de no ejercer diligentemente este control;
+
+XII.- Planear, estudiar, proyectar, construir, rehabilitar, ampliar, operar, mantener y conservar la infraestructura del agua potable, alcantarillado, saneamiento, reuso de aguas y disposición final de Iodos en el Municipio;
+
+XIII.- Planear, coordinar, ejecutar y controlar las acciones tendientes a lograr la detección, extracción, conducción y potabilización del agua; reparación de las redes y equipos necesarios para el suministro del servicio, así como el drenaje, alcantarillado y saneamiento;
+
+XIV.- Prevenir y controlar la contaminación de las aguas que tiene asignadas para la prestación del servicio que le ha sido encomendado, de las aguas que se descarguen en los sistemas de drenajes y alcantarillados en los centros de población;
+
+XV.- Ejecutar obras necesarias, por sí o a través de terceros, para la prestación de los servicios públicos y recibir las que se construyan en la misma para la prestación de dichos servicios;
+
+XVI.- Establecer normas, técnicas, criterios y lineamientos para la prestación de los servicios a su cargo, vigilando su cumplimiento y observancia en particular sobre descargas de aguas residuales, para disposición, tratamiento y reuso de Iodos; fundamentándolas además de los estudios pertinentes, en estudios tecno-ecológicos de protección al ambiente;
+
+XVII.- Formular y mantener actualizado el registro e inventario de los pozos, bienes, recursos, reservas hidrológicas y demás infraestructura hidráulica en el Municipio;
+
+XVIII.- Realizar los trámites que sean necesarios para la obtención de créditos o financiamientos que se requieran para la debida prestación de los servicios, y contratar directamente éstos, respondiendo de sus adeudos con su propio patrimonio y con los ingresos que perciban, conforme a la Ley de Deuda Pública del Estado de Aguascalientes y demás disposiciones aplicables, solicitando el aval del H. Ayuntamiento, en su caso;
+
+XIX.- Propiciar la participación del sector público, social y privado para la mejor prestación de los servicios, incluyendo la elaboración de estudios para los efectos de la fracción XVI;
+
+XX.- Promover y en su caso, llevar a cabo la capacitación y actualización del personal que labore en el organismo operador;
+
+XXI.- Requerir a las personas y empresas que generen descargas de aguas residuales a los sistemas y redes de alcantarillado municipal, que instalen y empleen sistemas de tratamiento, para que dichas descargas se ajusten a los parámetros y lineamientos de las normas oficiales mexicanas y a las disposiciones técnicas de la materia;
+
+XXII.- Formular y mantener actualizado el padrón de usuarios;
+
+XXIII.- Celebrar los contratos necesarios para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
+
+XXIV.- Otorgar los permisos de descarga de aguas residuales y de reuso a los sistemas de drenaje o alcantarillado, en los términos de la legislación del Equilibrio Ecológico y Protección al Ambiente, de las Normas Oficiales Mexicanas a las entidades industriales agrícolas y de servicios;
+
+XXV.- Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda;
+
+XXVI.- Pagar oportunamente las contribuciones, derechos, aprovechamientos y productos federales en materia de agua y bienes nacionales inherentes, que establece la legislación fiscal aplicable;
+
+XXVII.- Elaborar los programas y presupuestos anuales de ingresos y egresos derivados de la prestación de los servicios públicos;
+
+XXVIII.- Ordenar y ejecutar la suspensión de los servicios públicos en los términos del Artículo 104 de la Ley de Agua del Estado;
+
+XXIX.- Promover programas de suministro de agua potable, de uso racional y eficiente del agua y de desinfección intradomiciliaria;
+
+XXX.- Procurar la selección profesional del personal directivo, tomando en consideración la experiencia profesional comprobada en la materia y desarrollar programas de capacitación y adiestramiento para su personal;
+
+XXXI.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, en los términos de Ley;
+
+XXXII.- Realizar las visitas de inspección y verificación conforme lo establecido en la Sección Cuarta del Capitulo V, del Titulo Tercero de la Ley del Agua del Estado;
+
+XXXIII.- Aplicar las sanciones que se establecen en el Articulo 125 de la Ley del Agua del Estado, por las infracciones que se cometan;
+
+XXXIV.- Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
+
+XXXV.- Formular y mantener actualizado el inventario de bienes y recursos que integran su patrimonio;
+
+XXXVI.- Utilizar todos los ingresos que recaude, obtenga o reciba, exclusivamente en los servicios públicos, destinándolos en forma prioritaria a eficientar la administración y operación del organismo y posteriormente a ampliar la infraestructura hidráulica, ya que en ningún caso podrán ser destinados a otros fines;
+
+XXXVII.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos;
+
+XXXVIII.- Las demás que señalen este Código, la Ley del Agua del Estado y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 621.
 
-El patrimonio de la Comisión estará constituido por:
+El patrimonio de la CAPAPA estará constituido por:
 
 I.- Los activos que formen parte inicial de su patrimonio;
 
-II.- Las aportaciones federales, estatales y municipales que en su caso se realicen;
+II.- Los bienes muebles e inmuebles destinados a la prestación de sus servicios;
 
-III.- Los ingresos por la prestación de los servicios públicos y el reuso de las aguas residuales tratadas, o por cualquier otro servicio que el organismo preste al usuario;
+III.- Las aportaciones federales, estatales y municipales que en su caso se realicen;
 
-IV.- Los créditos que obtenga para el cumplimiento de sus fines;
+IV.- Los ingresos por la prestación de los servicios públicos y el reuso de las aguas residuales tratadas o por cualquier otro servicio que el organismo preste al usuario;
 
-V.- Las donaciones, herencias, legados y demás aportaciones de los particulares, así como los subsidios y adjudicaciones a favor de la Comisión;
+V.- Los créditos que obtenga para el cumplimiento de sus fines;
 
-VI.- Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su propio patrimonio; y
+VI.- Las donaciones, herencias, legados y demás aportaciones de los particulares, así como los subsidios y adjudicaciones a favor del organismo;
 
-VII.- Los demás bienes y derechos que formen parte de su patrimonio por cualquier titulo legal.
+VII.- Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su propio patrimonio; y
 
-Los bienes de la Comisión operadora afectos directamente a la prestación de los servicios públicos serán inembargables e imprescriptibles.
+VIII.- Los demás bienes y derechos que formen parte de su patrimonio por cualquier titulo legal.
 
-Los bienes inmuebles de la Comisión destinados directamente a la prestación de los servicios públicos se considerarán bienes del dominio público municipal.
+Los bienes de CAPAPA afectos directamente a la prestación de los servicios públicos serán inembargables e imprescriptibles.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+Los bienes inmuebles del organismo destinados directamente a la prestación de los servicios públicos se considerarán bienes del dominio público municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 621 BIS.- Todos los ingresos que obtenga la CAPAPA con motivo del cobro de derechos, contribuciones, productos o aprovechamientos o los que se adquieran por cualquier motivo, serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento y ampliación de los servicios de agua potable, alcantarillado y saneamiento, reuso de aguas y disposición final de Iodos, así como para la adquisición de equipos, instalaciones e infraestructuras.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 621 TER.- El H. Ayuntamiento, podrá ordenar en cualquier momento, la realización de auditorías a CAPAPA, así como la inspección de libros, inventarios y cualquier otro documento que obre en poder del mismo, lo cual podrá realizarse por conducto de la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 622.
 
-La Comisión contará con:
+La CAPAPA contará con:
 
 I.- Un Consejo Directivo;
 
@@ -7353,13 +7463,17 @@ II.- Un Consejo Consultivo;
 
 III.- Un Director General;
 
-IV.- Un Comisario; y
+IV.- Un Director Operativo y un Director de Administración y Finanzas;
 
-V.- El personal técnico y administrativo que se requiera para su funcionamiento.
+V.- Un Comisario; y
+
+VI.- El personal técnico y administrativo que se requiera para su funcionamiento.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION QUINTA. De la Suspensión Temporal
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
 
 ###### ARTICULO 623.
 
@@ -7367,79 +7481,237 @@ El Consejo Directivo se integrará con:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
-lI.- El regidor de la Comisión correspondiente;
+II.- El Regidor de la Comisión de Agua Potable y Alcantarillado;
 
-III.- Un representante del Instituto;
+III.- Un representante deI INAGUA;
 
-IV.- Un representante por cada uno de los siguientes usuarios: Domésticos; Comerciales, de servicios, agropecuario e industriales, pudiendo ser los titulares de las cámaras o de sus agrupaciones gremiales.
+IV.- Un representante del Colegio de Médicos;
+
+V.- Un representante de alguna institución educativa;
+
+VI.- Un representante del Colegio de Profesionistas en la rama de Ingeniería Civil o Arquitectura;
+
+VII.- Un representante por cada uno de los siguientes usuarios:
+
+a) Domésticos, que podrá ser quien represente a los comités de colonos acreditados ante el Municipio;
+
+b) Comerciales;
+
+c) De servicios;
+
+d) Agropecuario;
+
+e) Industriales.
+
+En el caso de los comerciales, industriales, agropecuarios y de servicios, pueden ser los titulares de las cámaras o de sus agrupaciones gremiales.
+
+Los integrantes del Consejo Directivo enunciados en las fracciones II a VII tendrán el carácter de consejeros.
+
+El Director General de CAPAPA fungirá como Secretario del Consejo Directivo, a cuyas sesiones asistirá con voz, pero sin voto.
+
+Se podrá invitar a formar parte del Consejo Directivo al Síndico y al responsable de los servicios públicos, y con voz, pero sin voto, a representantes de las dependencias federales, estatales o municipales, así como a representantes de otros usos.
 
 Por cada representante propietario habrá un suplente.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 623 BIS.- La integración del Consejo Directivo, será realizada mediante voto directo y secreto de los integrantes del Ayuntamiento, siendo elegidos de entre los candidatos propuestos en términos de la invitación que emita para tal efecto el Presidente Municipal, con base en lo dispuesto por el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 623 TER.- Los integrantes del Consejo Directivo deberán contar con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser habitante del Municipio, con una residencia mínima de tres años, con excepción del representante del INAGUA y estar al corriente en el pago de los créditos de cualquier índole a favor de CAPAPA;
+
+III.- Gozar de reconocida honorabilidad y aptitud para desempeñar el cargo;
+
+IV.- No estar desempeñando algún puesto de elección popular, excepto tratándose del Síndico o Regidor del H. Ayuntamiento que integre la comisión del ramo;
+
+V.- No ser ministro o ejercer cargo en cualquier asociación religiosa; y
+
+VI.- Ser mayor de 18 años.
+
+El Presidente Municipal, expedirá los nombramientos respectivos a los integrantes del Consejo Directivo que resulten aprobados para integrarlo.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 623 QUATER.- El Consejo Directivo se renovará y entrará en funciones dentro del primer mes siguiente a la toma de protesta del H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 624.
 
-El Director General de la Comisión fungirá como Secretario del Consejo Directivo, a cuyas sesiones asistirá con voz, pero sin voto.
+En la misma sesión en que se apruebe la designación o a más tardar en la siguiente sesión ordinaria, el H. Ayuntamiento, a través del Presidente Municipal tomará protesta a los integrantes del Consejo Directivo en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+"Protestan ustedes cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Aguascalientes, las leyes que de ellas emanen, los acuerdos y disposiciones del H. Ayuntamiento y desempeñar leal y patrióticamente el cargo de integrantes del Consejo Directivo que este H. Ayuntamiento les ha conferido, velando en todo tiempo por el bienestar del Municipio":
+
+A lo que deberán contestar:
+
+"Sí, Protesto" y el Presidente les contestará:
+
+"Si así no lo hicieren, que el pueblo de Pabellón de Arteaga, se los demanda”.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 624 BIS.- El Consejo Directivo, hecha la protesta del cargo, deberá celebrar la sesión de instalación en la que procederá tomar la protesta al Director General designado por el H. Ayuntamiento.
+
+En esta sesión se acordará también la fecha de la próxima sesión ordinaria.
+
+De cada una de las sesiones se levantará acta circunstanciada, en la cual se asentarán los acuerdos tomados por el Consejo Directivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 625.
 
-El Consejo Directivo para el cumplimiento de los objetivos de la Comisión, tendrá las más amplias facultades de dominio, administración y representación que requieran de poder o cláusula especial conforme a la Ley, así como las siguientes atribuciones:
+El Consejo Directivo para el cumplimiento de los objetivos de la CAPAPA, tendrá las más amplias facultades de dominio, administración y representación que requieran de poder o cláusula especial conforme a la Ley, así como las siguientes atribuciones:
 
 I.- Establecer, en el ámbito de su competencia, los lineamientos y políticas en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios públicos y realizarse las obras que para ese efecto se requieran;
 
-II.- Analizar y aprobar el Proyecto Estratégico de Desarrollo de la Comisión que le presente el Director General y supervisar que se actualice periódicamente;
+II.- Analizar y aprobar el Proyecto Estratégico de Desarrollo de CAPAPA que le presente el Director General y supervisar que se actualice periódicamente;
 
-III.- Determinar las cuotas y tarifas de conformidad con lo establecido en el Título Tercero, Capítulo V, Sección Tercera de la Ley;
+III.- Determinar las cuotas y tarifas de conformidad con lo establecido en el Título Tercero, Capítulo V, Sección Tercera de la Ley de Agua del Estado;
 
 IV.- Resolver sobre los asuntos que en materia de servicios públicos y reuso someta a su consideración el Director General;
 
 V.- Otorgar poder general para actos de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la Ley, así como revocarlos y sustituirlos; además, en su caso, efectuar los trámites para la desincorporación de los bienes del dominio público que se quieran enajenar;
 
-VI.- Administrar el patrimonio de la Comisión y cuidar de su adecuado manejo;
+VI.- Administrar el patrimonio del organismo y cuidar de su adecuado manejo;
 
-VII.- Conocer y en su caso autorizar el programa y presupuesto anual de ingresos y egresos de la Comisión, conforme a la propuesta formulada por el Director General;
+VII.- Conocer y en su caso autorizar el programa y presupuesto anual de ingresos y egresos del organismo, conforme a la propuesta formulada por el Director General;
 
 VIII.- Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos y la realización de las obras;
 
-IX.- Aprobar los proyectos de inversión de la Comisión;
+IX.- Aprobar los proyectos de inversión del organismo;
 
 X.- Examinar y aprobar los estados financieros y los informes que deba presentar el Director General, previo conocimiento del informe del Comisario, y ordenar su publicación en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en la Entidad;
 
-XI.- Acordar la extensión de los servicios públicos a otros municipios, previa celebración de los convenios respectivos por los municipios de que se trate, en los términos de la presente Ley, para que el organismo operador se convierta en intermunicipal;
+XI.- Acordar la extensión de los servicios públicos a otros Municipios, previa celebración de los convenios respectivos por los Municipios de que se trate, en los términos de la Ley del Agua del Estado;
 
-XII.- Aprobar y expedir el Reglamento Interno y sus modificaciones, así como los manuales de organización, de procedimientos y de servicios al público;
+XII.- Implementar las acciones necesarias para el buen funcionamiento de la CAPAPA y la adecuada prestación de los servicios a su cargo;
 
-XIII.- Nombrar y remover al Director General de la Comisión; y
+XIII.- Vigilar que se preste y administre el servicio de agua potable, alcantarillado y saneamiento, en cantidad y oportunidad a la población;
 
-XIV.- Las demás que le asignen la Ley, el presente Código y otras disposiciones jurídicas aplicables.
+XIV.- Administrar la CAPAPA y su personal en atención a los lineamientos generales establecidos por este Código y las leyes respectivas, promoviendo su desarrollo y autosuficiencia administrativa, técnica y financiera;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XV.- Ordenar los estudios necesarios para determinar los requerimientos futuros de los caudales para la prestación de los servicios a su cargo, así como la elaboración de los proyectos de obras para la construcción, conservación, ampliación de las fuentes de suministro, redes de conducción de alcantarillado y reuso de aguas;
+
+XVI.- Aprobar el programa anual de obras a realizar en el siguiente ejercicio, sustentado en estudios técnicos, de acuerdo al presupuesto de egresos aprobado y de conformidad con el plan de desarrollo municipal, plan director del centro de población, plan maestro del agua potable y a los programas de apoyo, tanto federales, estatales y municipales;
+
+XVII.- Ordenar la formulación de los proyectos de obras para la construcción, conservación, rehabilitación y ampliación de las fuentes de suministro y redes de conducción de agua potable, alcantarillado y saneamiento;
+
+XVIII.- Aprobar la ejecución de las obras que sean necesarias para el desempeño de las funciones que se tiene encomendadas; pudiendo hacerlas en forma directa o por medio de terceros, de conformidad con las disposiciones legales;
+
+XIX.- Promover el desarrollo y autosuficiencia administrativa, técnica y financiera del organismo operador;
+
+XX.- Vigilar la correcta aplicación de las tarifas, el cobro de los adeudos y la conservación de su patrimonio;
+
+XXI.- Revisar mensualmente el estado contable de CAPAPA, el cual será presentado por el Director General, en el informe mensual de labores;
+
+XXII.- Autorizar la expedición de certificados de factibilidad para la dotación de los servicios a nuevos fraccionamientos que se pretendan construir en el Municipio, mismos que tendrán vigencia de 6 meses;
+
+XXIII.- Implementar, difundir y coordinar los programas de la cultura del agua y los mecanismos tendientes a fomentar el uso racional y eficiente del agua en el Municipio;
+
+XXIV.- Informar por conducto del Director General, mensualmente al H. Ayuntamiento, sin perjuicio de hacerlo cuando éste lo requiera, sobre los trabajos realizados por CAPAPA y su situación financiera;
+
+XXV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de bienes o la limitación de los derechos de dominio en los términos de las leyes aplicables;
+
+XXVI.- Presentar proyectos de modificaciones al presente Código ante el H. Ayuntamiento para su estudio y en su caso aprobación y publicación, y vigilar su correcta aplicación;
+
+XXVII.- Las demás que le asignen la Ley del Agua del Estado, el presente Código y las otras disposiciones vigentes en la materia.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 626.
 
-El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar su Presidente o el funcionario que éste designe y el representante del Instituto.
+El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar su Presidente o el funcionario que éste designe y el representante del Instituto los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
 Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
-El Consejo Directivo se reunirá, por lo menos, una vez cada tres meses y cuantas veces fuere convocado por su Presidente, por el Director General o por el Comisario de la Comisión, por propia iniciativa o a petición del cincuenta por ciento más uno de los miembros de la misma.
+El Consejo Directivo se reunirá, por lo menos, una vez cada tres meses y cuantas veces fuere convocado por su Presidente, por el Director General o por el Comisario de la CAPAPA, por propia iniciativa o a petición del cincuenta por ciento más uno de los miembros de la misma.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 626 BIS.- El H. Ayuntamiento a través de la Contraloría Municipal auditará y rendirá informes periódicos sobre el funcionamiento y administración del organismo operador.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 626 TER.- Cualquier integrante del Consejo Directivo que falte tres veces consecutivas a las asambleas a que haya sido convocado, previa la calificación de la ausencia, será removido por el Consejo, quien llamará al suplente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 627.
 
-El Director General de la Comisión Operador Municipal, rendirá semestralmente al municipio respectivo un informe general, aprobado previamente por el Consejo Directivo, de las labores realizadas durante el ejercicio.
+Corresponde al Presidente del Consejo Directivo:
+
+I.- Convocar y presidir las sesiones del Consejo Directivo;
+
+II.- Supervisar las actividades propias del organismo operador;
+
+III.- Autorizar junto con el Director, las erogaciones del presupuesto que deban efectuarse con motivo de su administración ordinaria y someter a la aprobación del Consejo Directivo las erogaciones extraordinarias;
+
+IV.- Suscribir, junto con el Director las convocatorias y la documentación relativa a los procedimientos de licitación pública y adjudicación de contratos de adquisiciones, obra pública y prestación de servicios relacionados con ésta, que emita CAPAPA;
+
+V.- Suscribir junto con el Secretario o Director General, las convocatorias para licitaciones públicas;
+
+VI.- Ratificar los nombramientos del personal de la categoría siguiente al Director General, que deba estar al servicio del organismo operador; y
+
+VII.- Expedir los nombramientos del personal que labore en el CAPAPA.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 627 BIS.- Corresponde a los consejeros:
+
+I.- Asistir con voz y voto a las reuniones del Consejo Directivo;
+
+II.- Desempeñar las comisiones que les sean encomendadas por el Consejo Directivo;
+
+III.- Proponer al Consejo Directivo los acuerdos que consideren pertinentes para la buena prestación de los servicios a cargo de CAPAPA;
+
+IV.- Las demás atribuciones que derivan del presente Código.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 627 TER.- El cargo de consejero será honorífico, por lo que no percibirán sueldo o compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 627 QUATER.- Son causas de remoción de los integrantes del Consejo Directivo las siguientes:
+
+I.- El incumplimiento de las funciones y trabajos que les corresponden;
+
+II.- La falta de respeto al derecho de petición de los particulares en los términos del Artículo 8° de la Constitución Política de los Estados Unidos Mexicanos;
+
+III.- El uso indebido de los recursos y bienes de CAPAPA;
+
+IV.- La determinación de cargas, prestaciones u obligaciones a los usuarios, que no estén previstas en este Código o leyes aplicables;
+
+V.- La insubordinación a la coordinación, supervisión y vigilancia que por conducto del Presidente Municipal, la Contraloría, el Síndico o el Comisario realice el H. Ayuntamiento;
+
+VI.- Obstaculizar o impedir las labores del Contralor Municipal;
+
+VII.- No excusarse de intervenir en asuntos propios del Consejo Directivo en que tenga interés personal o familiar;
+
+VIII.- Intervenir por sí, o por interpósita persona o por medio de empresas en las que tenga alguna participación, en contrataciones de obras públicas de CAPAPA;
+
+IX.- La falta de veracidad en toda clase de informes; y
+
+X.- No denunciar los delitos respecto de los cuales tenga conocimiento en razón de su encargo.
+
+La denuncia de cualquiera de las causas de remoción puede ser presentada ante el Presidente Municipal por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que el Presidente Municipal estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoria externa de CAPAPA, sin perjuicio de las practicadas por el Contralor Municipal y/o el Comisario.
+
+Para la remoción de cualquiera de los integrantes del Consejo Directivo que incurra en cualquiera de las causas antes señaladas, bastará con la verificación hecha por el Presidente Municipal, y dictamen sobre la denuncia, debiendo convocar al H. Ayuntamiento para que dictamine y en su caso nombre a quien deba sustituirlo.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION SEXTA. De la Pérdida de Grado
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. De las Faltas Contra la Salubridad General
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 628.
 
-El consejo consultivo se integra con diez miembros quienes representan en todo momento a los sectores social y privado, los cuales tendrán representatividad en el movimiento ciudadano por el agua, En el consejo Consultivo participará un representante de cada una de las siguientes instituciones, agrupaciones y organizaciones sociales.
+La CAPAPA contará con un Consejo Consultivo que se integrará con siete personas, representantes de los sectores social y privado del Municipio y designados por el H. Ayuntamiento. En el Consejo Consultivo participará un representante de cada una de las siguientes instituciones, agrupaciones y organizaciones sociales.
 
 - Cámara de Comercio;
 
@@ -7449,67 +7721,79 @@ El consejo consultivo se integra con diez miembros quienes representan en todo m
 
 - Patronato de la Feria; y
 
-- Cuatro representantes de los usuarios, quienes a juicio del consejo Directivo, deberán ser invitados a propuesta del Presidente.
+- Un representante de los usuarios, quien a juicio del Consejo Directivo, deberá ser invitado a propuesta del Presidente.
 
-Las Instituciones, agrupaciones y organizaciones señaladas con anterioridad designarán un representante con voz y con voto con un suplente, quien lo sustituirá en sus ausencias.
+Las instituciones, agrupaciones y organizaciones señaladas con anterioridad designarán un representante con voz y con voto con un suplente, quien lo sustituirá en sus ausencias. No podrán formar parte del Consejo Consultivo funcionarios o empleados de la CAPAPA o servidores públicos.
 
-No podrán formar parte del Consejo Consultivo funcionarios o empleados de la Comisión operador o servidores públicos.
+Los miembros del Consejo Consultivo actuarán en el mismo con el carácter de honorarios.
 
-Los miembros del consejo Consultivo actuarán en el mismo con el carácter de honorarios.
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+ARTICULO 628 BIS.- La CAPAPA proporcionará los elementos necesarios para que se integre el Consejo Consultivo y cuidará que sesione en la forma y términos que indique el Reglamento Interno.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 629.
 
-Los miembros del Consejo Consultivo designarán por mayoría de votos de entre ellos a un Presidente y a tres representantes, los cuales representarán al Consejo Consultivo ante la Comisión. Igualmente se designará a un Vicepresidente que suplirá al Presidente en sus ausencias.
+Los miembros del Consejo Consultivo designarán por mayoría de votos de entre ellos a un Presidente y a tres representantes, los cuales representarán al Consejo Consultivo ante la CAPAPA. Igualmente se designará a un Vicepresidente que suplirá al Presidente en sus ausencias.
 
 El Presidente, el Vicepresidente y los representantes a que se refiere el párrafo anterior, durarán dos años en sus cargos, pudiendo ser reelectos por una sola vez.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 630.
 
 El Consejo Consultivo se reunirá, por lo menos una vez cada tres meses y cuantas veces sea convocado por su Presidente, en todos los casos deberá hacerse la invitación por escrito y con 72 horas de anticipación. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes teniendo el Presidente el voto de calidad. El organismo operador le proporcionará la información que el propio Consejo Consultivo le requiera en relación a la prestación del servicio de agua potable, alcantarillado y saneamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 631.
 
 El Consejo Consultivo tendrá por objeto:
 
-I.- Hacer participe a los usuarios en la operación de la Comisión, haciendo las observaciones y las recomendaciones para su funcionamiento eficiente, eficaz y económico.
+I.- Hacer participes a los usuarios en la gestión del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente, eficaz y económico;
 
-II.- Conocer las tarifas o cotas (sic) y sus modificaciones haciendo las propuestas, observaciones y las sugerencias del caso;
+II.- Opinar sobre los resultados del organismo;
 
-III.- Evaluar los resultados de la Comisión;
+III.- Proponer mecanismos financieros o crediticios;
 
-IV.- Proponer los mecanismos financieros o crediticios;
+IV.- Coadyuvar para mejorar la situación financiera del organismo;
 
-V.- Coadyuvar para mejorar la citación (sic) financiera de la Comisión; y
+V.- Promover entre los usuarios el uso eficiente del agua y el cumplimiento de sus obligaciones;
 
-VI.- Las demás que señale el presente Título.
+VI.- Asesorar, valorar, analizar y emitir recomendaciones sobre los programas y acciones del organismo;
+
+VII.- Conocer las tarifas o cuotas y sus modificaciones haciendo las propuestas, observaciones y las sugerencias del caso;
+
+VIII.- Evaluar los resultados de la CAPAPA; y
+
+IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION SEPTIMA. De la Rescisión o Destitución
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
-
 ###### ARTICULO 632.
 
-El Director General de La Comisión deberá ser ciudadano mexicano mayor de treinta y cinco años de edad con experiencia técnica, administrativa y profesional, comprobada en materia de aguas, y tendrá las siguientes atribuciones:
+El Director General será nombrado por el H. Ayuntamiento a propuesta del Presidente Municipal.
 
-I.- Ejercer la representación legal de la Comisión, con las facultades que le confiere la Ley, el presente Código y las demás disposiciones legales de la materia;
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-Il.- Elaborar el Proyecto Estratégico de Desarrollo de la Comisión y actualizarlo periódicamente, sometiéndolo a la aprobación del Consejo Directivo;
+ARTICULO 632 BIS.- El Director General de la CAPAPA deberá ser ciudadano mexicano mayor de treinta y cinco años de edad con experiencia técnica, administrativa y profesional, comprobada en materia de aguas, y tendrá las siguientes atribuciones:
+
+I.- Ejercer la representación legal de la CAPAPA, con las facultades que le confiere la ley, el presente Código y las demás disposiciones legales de la materia;
+
+II.- Elaborar el Proyecto Estratégico de Desarrollo de la CAPAPA y actualizarlo periódicamente, sometiéndolo a la aprobación del Consejo Directivo;
 
 III.- Supervisar la ejecución del Proyecto Estratégico de Desarrollo aprobado por el Consejo Directivo;
 
 IV.- Publicar las cuotas y tarifas determinadas por el Consejo Directivo en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación de la Entidad;
 
-V.- Coordinar las actividades técnicas, administrativas y financieras de la Comisión para lograr una mayor eficiencia, eficacia y economía del mismo;
+V.- Coordinar las actividades técnicas, administrativas y financieras de la CAPAPA para lograr una mayor eficiencia, eficacia y economía del mismo;
 
-VI.- Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la Comisión;
+VI.- Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la CAPAPA;
 
 VII.- Gestionar y obtener, conforme a la legislación aplicable y previa autorización del Consejo Directivo, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
@@ -7519,51 +7803,103 @@ IX.- Ordenar el pago de los derechos por el uso o aprovechamiento de aguas y bie
 
 X.- Ejecutar los acuerdos del Consejo Directivo;
 
-XI.- Convocar a reuniones del Consejo Directivo, por propia iniciativa o a petición de dos o más miembros de la Junta o del comisario;
+XI.- Convocar a reuniones del Consejo Directivo, por propia iniciativa o a petición de dos o más miembros del Consejo Directivo o del Comisario;
 
-XIl.- Rendir al municipio el informe semestral de actividades de la Comisión, así como los informes sobre el cumplimiento de acuerdos de su Consejo Directivo; resultados de los estados financieros; avance en las metas establecidas en el Proyecto Estratégico de Desarrollo, en los programas de operación autorizados por el propio Consejo Directivo; cumplimiento de los programas de obras y erogaciones en las mismas; presentación anual del programa de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente periodo;
+XII.- Rendir al H. Ayuntamiento el informe mensual de actividades del organismo, así como los informes sobre el cumplimiento de acuerdos de su Consejo Directivo; resultados de los estados financieros; avance en las metas establecidas en el Proyecto Estratégico de Desarrollo, en los programas de operación autorizados por el propio Consejo Directivo; cumplimiento de los programas de obras y erogaciones en las mismas;
 
-XIII.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+XIII.- Presentar ante el H. Ayuntamiento el programa anual de labores y los proyectos del presupuesto de ingresos y egresos para el siguiente periodo;
 
-XIV.- Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en la Sección Cuarta del Capítulo V del Título Tercero de la Ley;
+XIV.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
-XV.- Ordenar que se practiquen, en forma regular y periódica, muestreos y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para garantizar y optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
+XV.- Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en la Sección Cuarta del Capitulo V del Título Tercero de la Ley del Agua del Estado;
 
-XVI.- Realizar las actividades que se requieran para lograr que la Comisión preste a la comunidad servicios adecuados y eficientes;
+XVI.- Ordenar que se practiquen, en forma regular y periódica, muestreos y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para garantizar y optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
 
-XVII.- Fungir como Secretario del Consejo Directivo con voz, pero sin voto, para lo cual se le citará a todas las sesiones;
+XVII.- Realizar las actividades que se requieran para lograr que el organismo preste a la comunidad servicios adecuados y eficientes;
 
-XVIII.- Nombrar y remover al personal de la comisión, debiendo informar al Consejo Directivo en su siguiente sesión;
+XVIII.- Fungir como Secretario del Consejo Directivo con voz, pero sin voto, para lo cual deberá:
 
-XIX.- Someter a la aprobación del Consejo Directivo el Reglamento Interno y sus modificaciones;
+a) Levantar y autorizar las actas de las reuniones celebradas por el Consejo, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de quienes intervinieron;
 
-XX.- Remitir al Consejo Consultivo, para su opinión, un informe sobre los resultados anuales de la Comisión; y
+b) Certificar las copias de actas y documentos que se encuentren en el archivo de CAPAPA; y
 
-XXI.- Las demás que le señale el Consejo Directivo, la Ley y el Reglamento Interno.
+c) Autorizar con su firma las comunicaciones que el Presidente dirija a nombre del Consejo;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XIX.- Nombrar y remover al personal del organismo, debiendo informar al Consejo Directivo en su siguiente sesión;
+
+XX.- Someter a la aprobación del Consejo Directivo propuestas de reformas a la Reglamentación;
+
+XXI.- Remitir al Consejo Consultivo, para su opinión, un informe sobre los resultados anuales del organismo;
+
+XXII.- Coordinar las actividades técnicas, operativas, administrativas y financieras de CAPAPA;
+
+XXIII.- Informar mensualmente al Consejo Directivo el estado financiero de CAPAPA;
+
+XXIV.- Tener a su cargo el inventario de bienes propiedad de CAPAPA, debiendo dar cuenta al Consejo Directivo de todas las modificaciones que sufra;
+
+XXV.- Tener a su cargo los libros o sistemas de contabilidad que se utilicen internamente;
+
+XXVI.- Vigilar la recaudación de los fondos de CAPAPA y su correcta aplicación;
+
+XXVII.- Aplicar las sanciones que correspondan, por la comisión de las infracciones previstas en el presente Código, en materia de agua potable y alcantarillado;
+
+XXVIII.- Celebrar, junto con el Presidente los convenios, contratos y demás actos jurídicos, así como las convocatorias para licitaciones;
+
+XXIX.- Suscribir, junto con el Presidente o Tesorero, los títulos de crédito, en los términos de la ley, excepto en calidad de avales; y
+
+XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la materia y el Código Municipal.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 633.
 
-Son atribuciones del Comisario:
+La CAPAPA contará con un Comisario, que será el Contralor Municipal, quien tendrá las siguientes atribuciones:
 
-I.- Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
+I. Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la Ley, los programas y presupuestos aprobados;
 
-II.- Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
+II. Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
 
-III.- Rendir anualmente en sesión ordinaria del Consejo Directivo un informe respecto a la veracidad y suficiencia de la información presentada por el Director General;
+III. Rendir anualmente en sesión ordinaria del Consejo Directivo un informe respecto a la veracidad y suficiencia de la información presentada por el Director General;
 
-IV.- Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que considere pertinentes;
+IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que considere pertinentes;
 
-V.- Convocar a sesiones ordinarias y extraordinarias en caso de omisión del Presidente o del Director General, y en cualquier otro caso en que lo juzgue conveniente;
+V. Convocar a sesiones ordinarias y extraordinarias en caso de omisión del Presidente o del Director General, y en cualquier otro caso en que lo juzgue conveniente;
 
-VI.- Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a las que deberá ser citado;
+VI. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a las que deberá ser citado;
 
-VII.- Verificar el cumplimiento de las obligaciones fiscales correspondientes por el uso o aprovechamiento de aguas y bienes nacionales inherentes; y
+VII. Verificar el cumplimiento de las obligaciones fiscales correspondientes por el uso o aprovechamiento de aguas y bienes nacionales inherentes; y
 
-VIII.- Supervisar permanentemente las operaciones de la Comisión.
+VIII. Supervisar permanentemente las operaciones de CAPAPA.
 
 El Comisario, para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico que requiera, con cargo al organismo, con la aprobación del Consejo Directivo.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 633 BIS.- Es responsabilidad de los funcionarios de CAPAPA, administrar, cuidar y mantener el desarrollo de los recursos financieros y humanos, así como el patrimonio y comunicación social de CAPAPA a su cargo cuando los funcionarios no cumplan con esta disposición, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 633 TER.- El H. Ayuntamiento por conducto del Presidente Municipal, coordinará y supervisará las acciones que realicen los funcionarios de CAPAPA, así como de los integrantes del Consejo Directivo, vigilando que se cumplan las funciones establecidas en este Código y las que se deriven de la ley que regula la prestación de los servicios de agua potable, alcantarillado y saneamiento en el Estado de Aguascalientes y de la Ley Nacional de Aguas.
+
+En las juntas del Consejo Directivo, deberá estar presente un miembro del H. Ayuntamiento, previamente designado por éste.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 633 QUATER.- Corresponde al Contralor Municipal, en relación con CAPAPA:
+
+I.- Aplicar las normas y criterios en materia de control y evaluación que deben ser observadas por CAPAPA;
+
+II.- Realizar auditorías periódicas a CAPAPA;
+
+III.- Participar en la entrega-recepción de CAPAPA; y
+
+IV.- Vigilar el desarrollo administrativo de CAPAPA a fin que se apliquen con eficiencia los recursos humanos y patrimoniales, realizando al respecto las observancias que considere pertinentes.
+
+Tanto el Presidente Municipal como el Contralor mantendrán informado al H. Ayuntamiento del ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -7615,13 +7951,13 @@ Los acuerdos y resoluciones se tomarán por mayoría de votos, y en caso de empa
 
 ### CAPITULO QUINTO. De la Administración
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 641.
 
-Para la administración de la Comisión habrá el número de directivos que determine el Consejo Directivo, los cuales serán auxiliados por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Comisión.
+Para la administración de la CAPAPA habrá el número de directivos que determine el Consejo Directivo, los cuales serán auxiliados por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la CAPAPA.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 642.
 
@@ -7629,7 +7965,7 @@ Corresponde a los Directivos:
 
 I.- Organizar, dirigir, coordinar y evaluar el desempeño de las labores encomendadas a las distintas áreas que integran la dirección correspondiente.
 
-II.- Formular sus actividades de acuerdo con los programas aprobados y con las políticas que señale el Director General para el logro de los objetivos y de las prioridades establecidas para la Comisión.
+II.- Formular sus actividades de acuerdo con los programas aprobados y con las políticas que señale el Director General para el logro de los objetivos y de las prioridades establecidas para la CAPAPA.
 
 III.- Rendir los informes y formular los dictámenes, estudios y las opiniones que les solicite el Director General.
 
@@ -7639,15 +7975,15 @@ V.- Acordar con el Director General los asuntos de las competencias de la direcc
 
 VI.- Intervenir en la selección y adscripción del personal que integre la planta de empleados de la dirección, en la promoción de los mismos; y exenciones; en el otorgamiento de estímulos y recompensas; así como en la aplicación de sanciones.
 
-VII.- Proporcionar informes y prestar asesoría a los demás funcionarios de la Comisión cuando lo requieran para el despacho de los asuntos a su cargo.
+VII.- Proporcionar informes y prestar asesoría a los demás funcionarios de la CAPAPA cuando lo requieran para el despacho de los asuntos a su cargo.
 
-VIII.- Someter a la consideración del director General los proyectos de reorganización administrativa de la Dirección correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo.
+VIII.- Someter a la consideración del Director General los proyectos de reorganización administrativa de la Dirección correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo.
 
 IX.- Elaborar los informes relativos a los asuntos de la competencia de la Dirección.
 
 X.- Representar a la Dirección en los términos que señalen las normas reglamentarias, y desempeñar las comisiones que les encomiende el Director General.
 
-XI.- Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la Comisión sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Director General.
+XI.- Revisar y rubricar los convenios, contratos, permisos y las autorizaciones en los que la CAPAPA sea parte, en los asuntos de su competencia, así como adoptar las resoluciones técnicas y administrativas, y firmar los contratos y convenios que expresamente les delegue el Director General.
 
 XII.- Atender al público en los asuntos de la competencia de la Dirección.
 
@@ -7657,119 +7993,137 @@ XIV.- Preparar y realizar las adquisiciones y servicios que deban celebrarse en 
 
 XV.- Promover la capacitación y el desarrollo de los programas de productividad del personal a su cargo.
 
-XVI.- Coordinar sus actividades con los analistas y demás personal de la Comisión; y
+XVI.- Coordinar sus actividades con los analistas y demás personal de la CAPAPA; y
 
 XVII.- Desempeñar las demás funciones que les confieren las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 643.
 
-Corresponde al Director Técnico:
+Para los aspectos operativos habrá un Director Técnico nombrado por el Consejo Directivo a propuesta de su Presidente, al que le corresponderá lo siguiente:
 
-I.- Coordinar los programas a corto y mediano plazo, de los servicios de agua potable y alcantarillado, incluyendo el saneamiento y los demás necesarios o que se requieran para la prestación de esos servicios.
+I.- Coordinar los programas a corto y mediano plazo, de los servicios de agua potable y alcantarillado, incluyendo el saneamiento y los demás necesarios o que se requieran para la prestación de esos servicios;
 
-II.- Coordinar los programas y proyectos de obras destinadas a la conservación, mantenimiento, rehabilitación y ampliación de las redes de agua potable y alcantarillado, así como para las instalaciones destinadas a la potabilización y tratamiento de aguas residuales provenientes de uso público urbano.
+II.- Coordinar los programas y proyectos de obras destinadas a la conservación, mantenimiento, rehabilitación y ampliación de las redes de agua potable y alcantarillado, así como para las instalaciones destinadas a la potabilización y tratamiento de aguas residuales provenientes de uso público urbano;
 
-III.- Elaborar y supervisar la ampliación de las normas y de los procedimientos técnicos que se refieren a la seguridad y al mantenimiento de instalaciones y equipo.
+III.- Elaborar y supervisar la ampliación de las normas y de los procedimientos técnicos que se refieren a la seguridad y al mantenimiento de instalaciones y equipo;
 
-IV.- Determinar el contenido de la capacitación técnica que deberá impartirse al personal correspondiente.
+IV.- Determinar el contenido de la capacitación técnica que deberá impartirse al personal correspondiente;
 
-V.- Supervisar el ejercicio de los presupuestos de gastos de operación, de conservación, de mantenimiento e inversiones en coordinación con la Dirección Administrativa de la Comisión.
+V.- Supervisar el ejercicio de los presupuestos de gastos de operación, de conservación, de mantenimiento e inversiones en coordinación con la Dirección Administrativa de la CAPAPA;
 
-VI.- Ejecutar la aplicación de los programas de servicios, seguridad y mantenimiento a las instalaciones y a los equipos de los servicios de agua potable y alcantarillad, incluyendo el saneamiento.
+VI.- Ejecutar la aplicación de los programas de servicios, seguridad y mantenimiento a las instalaciones y a los equipos de los servicios de agua potable y alcantarillado, incluyendo el saneamiento;
 
-VII.- Ejecutar las acciones necesarias para la adecuación de instalaciones y equipos de carácter operacional y seguridad en las redes de agua potable y alcantarillado, así como las instalaciones de potabilización y saneamiento y a las normas que establezcan en os (sic) términos de las disposiciones legales aplicables al Ejecutivo del Estado de Aguascalientes o a las demás autoridades competentes.
+VII.- Ejecutar las acciones necesarias para la adecuación de instalaciones y equipos de carácter operacional y seguridad en las redes de agua potable y alcantarillado, así como las instalaciones de potabilización y saneamiento y a las normas que establezcan en los términos de las disposiciones legales aplicables al Ejecutivo del Estado de Aguascalientes o a las demás autoridades competentes;
 
-VIII.- Realizar la actualización de los planos de las redes de agua potable y alcantarillado, incluyendo el saneamiento.
+VIII.- Realizar la actualización de los planos de las redes de agua potable y alcantarillado, incluyendo el saneamiento;
 
-IX.- Llevar a cabo las acciones necesarias para realizar labores de monitoreo preventivo en las redes de agua potable y alcantarillado.
+IX.- Llevar a cabo las acciones necesarias para realizar labores de monitoreo preventivo en las redes de agua potable y alcantarillado;
 
-X.- Supervisar que los usuarios que mediante convenio se les haya autorizado descargar sus aguas residuales a la red de alcantarillado municipal, cumplan con las Normas Oficiales Mexicanas establecidas en la materia por el Gobierno Federal, así como las Normas Estatales y las condiciones que señale el Reglamento Municipal de la materia, así como condiciones particulares de descarga que se expidan pro la Comisión. Se aplicará el Reglamento de Medio Ambiente y Ecología del Municipio de Pabellón de Arteaga, Ags., o en su defecto el que se tenga en ese momento en la materia.
+X.- Supervisar que los usuarios que mediante convenio se les haya autorizado descargar sus aguas residuales a la red de alcantarillado municipal, cumplan con las Normas Oficiales Mexicanas establecidas en la materia por el Gobierno Federal, así como las Normas Estatales y las condiciones que señale este Código, así como condiciones particulares de descarga que se expidan por la CAPAPA;
 
 XI.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o que le encomiende expresamente el Director General.
 
-XII.- Supervisar el desarrollo físico de la infraestructura necesaria para la prestación de los servicios de agua potable y alcantarillad, incluyendo el saneamiento.
+XII.- Supervisar el desarrollo físico de la infraestructura necesaria para la prestación de los servicios de agua potable y alcantarillado, incluyendo el saneamiento;
 
-XIII.- Supervisar los servicios en la infraestructura de agua potable, alcantarillado y saneamiento conforme a los programas operativos anuales autorizados.
+XIII.- Supervisar los servicios en la infraestructura de agua potable, alcantarillado y saneamiento conforme a los programas operativos anuales autorizados;
 
-XIV.- Promover y realizar las acciones necesarias para que la Comisión cuente con un sistema de informática para su operación, así como de los estudios cartográficos y de los apoyos técnico y programas de soporte informático que se requieran.
+XIV.- Promover y realizar las acciones necesarias para que la CAPAPA cuente con un sistema de informática para su operación, así como de los estudios cartográficos y de los apoyos técnico y programas de soporte informático que se requieran;
 
-XV.- Establecer las normas, especificaciones y los procedimientos para la rehabilitación, y conservación de las redes de agua potable, alcantarillado y demás instalaciones existentes.
+XV.- Establecer las normas, especificaciones y los procedimientos para la rehabilitación, y conservación de las redes de agua potable, alcantarillado y demás instalaciones existentes; y
 
-XVI.- Realizar los estudios de factibilidad para las conexiones de fraccionamientos a la Red Municipal de Agua Potable Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags., así como los presupuestos de pago por derecho de conexión tanto económica como en volumen demandado por el proyecto. Las tarifas aplicables deberán ser autorizadas por el consejo Directivo de la Comisión.
+XVI.- Realizar los estudios de factibilidad para las conexiones de fraccionamientos a la Red Municipal de Agua Potable, Alcantarillado y Saneamiento del Municipio de Pabellón de Arteaga, Ags., así como los presupuestos de pago por derecho de conexión tanto económica como en volumen demandado por el proyecto. Las tarifas aplicables deberán ser autorizadas por el Consejo Directivo de la CAPAPA.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 644.
 
-Corresponde al Oficial Mayor:
+Para los efectos administrativos y contables habrá un Director de Administración y Finanzas que será nombrado por el Consejo Directivo a propuesta del Presidente y tendrá las siguientes atribuciones:
 
-I.- Coordinarse con los Directores Técnico y Administrativo para brindar el apoyo necesario en ambas áreas;
+I.- Vigilar la recaudación de los fondos de CAPAPA y su correcta aplicación;
 
-II.- Llevar a cabo y mantener actualizado el inventario que conforma el patrimonio de la Comisión;
+II.- Autorizar junto con el Presidente las erogaciones correspondientes y suscribir con él los títulos de crédito, excepto como avales;
 
-III.- Llevar el control del mantenimiento preventivo del mobiliario y equipo de oficina;
+III.- Elaborar anualmente el presupuesto de ingresos y egresos para su presentación al Consejo Directivo para su aprobación; que se sujetará a los objetivos y prioridades que señale el plan de desarrollo municipal y sus programas atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios;
 
-IV.- Llevar el control del mantenimiento preventivo y correctivo del parque vehicular;
+a).- El equilibrio entre el ingreso y el egreso;
 
-V.- Llevar el control de adquisiciones de material, equipo y herramientas, necesarias para la prestación de os (sic) servicios a la ciudadanía;
+b).- Que el total de sueldos, salarios y prestaciones al personal, no exceda del cuarenta por ciento del total del presupuesto;
 
-VI.- Llevar el control de la dotación de combustible del parque vehicular;
+c).- Que la inversión en obra pública sea, cuando menos, del veinte por ciento del ingreso total;
 
-VII.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o que le encomiende expresamente el director General;
+d).- Que el gasto público comprenda las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, pago de deuda pública y de pasivos, entre estos últimos, las contingencias laborales y la responsabilidad patrimonial a cargo del Municipio;
 
-VIII.- Dirigir y coordinar las políticas y funciones referentes a la administración de los recursos humanos, materiales y financieros de la Comisión;
+e).- La distribución equitativa y proporcional del presupuesto de egresos, entre las delegaciones municipales que requieran de mayor dotación de servicios públicos;
 
-IX.- Observar y vigilar el cumplimiento de las disposiciones legales que rijan las relaciones laborales entre la comisión y los trabajadores a su servicio, así como de las contenidas en las condiciones generales de trabajo;
+IV.- Otorgar todas las facilidades para la práctica de auditorías cuando el H. Ayuntamiento lo determine;
 
-X.- Programar e impartir cursos para la capacitación técnica y administrativa del personal;
+V.- Las demás atribuciones que se deriven del presente Código y las que le encomiende el Consejo Directivo. Coordinarse con los Directores Técnico y Administrativo para brindar el apoyo necesario en ambas áreas;
 
-XI.- Tramitar permisos, licencias, tolerancias, vacaciones y exenciones a los trabajadores al servicio de la Comisión; a propuesta del Director General, del Director Técnico, o del Oficial Mayor;
+VI.- Llevar a cabo el inventario de los bienes propiedad de CAPAPA debiendo dar cuenta al Consejo Directivo de todas las modificaciones que sufra;
 
-XII.- Expedir, registrar y actualizar los nombramientos de los servidores públicos de la Comisión así como las credenciales de identificación correspondiente;
+VII.- Llevar el control del mantenimiento preventivo del mobiliario y equipo de oficina;
 
-XIII.- Llevar el control de la puntualidad y la asistencia del personal;
+VIII.- Llevar el control del mantenimiento preventivo y correctivo del parque vehicular;
 
-XIV.- Tramitar, suscribir y actualizar los contratos de prestación de servicios del personal que perciba su remuneración con cargo a honorarios;
+IX.- Llevar el control de adquisiciones de material, equipo y herramientas, necesarias para la prestación de los servicios a la ciudadanía;
 
-XV.- Proponer el otorgamiento de premiso (sic), estímulos y compensaciones a que se haga acreedor el personal de la Comisión;
+X.- Llevar el control de la dotación de combustible del parque vehicular;
 
-XVI.- Imponer a los trabajadores de la comisión las sanciones a que se haga (sic) acreedores en los términos señalados en las condiciones generales de trabajo de la Comisión;
+XI.- Realizar las demás actividades necesarias para el mejor desempeño de sus atribuciones o que le encomiende expresamente el Director General;
 
-XVII.- Promover la integración de la Comisión Mixta de Seguridad e Higiene, la cual determinará las normas aplicables en materia de prevención de riesgos profesionales y accidentes de trabajo;
+XII.- Dirigir y coordinar las políticas y funciones referentes a la administración de los recursos humanos, materiales y financieros de la CAPAPA;
 
-XVIII.- Elaborar los programas y proyectos presupuéstales relativos al capitulo de servicios personales y manejar las partidas correspondientes al presupuesto programático;
+XIII.- Vigilar las labores del personal exigiendo su debido cumplimiento e imponiendo en su caso, las amonestaciones y correcciones disciplinarias procedentes, vigilando el cumplimiento de las disposiciones legales que rijan las relaciones laborales entre la CAPAPA y los trabajadores a su servicio, así como de las contenidas en las condiciones generales de trabajo;
 
-XIX.- Proporcionar a los trabajadores los servicios sociales y demás prestaciones que autorice el Consejo Directivo;
+XIV.- Programar e impartir cursos para la capacitación técnica y administrativa del personal;
 
-XX.- Coordinar la formulación de los presupuestos de ingresos, gastos de capital y gastos de operación, con la colaboración de las demás áreas;
+XV.- Tramitar permisos, licencias, tolerancias, vacaciones y exenciones a los trabajadores al servicio de la CAPAPA; a propuesta del Director General, del Director Técnico, o del Oficial Mayor;
 
-XXI.- Supervisar el ejercicio del presupuesto autorizado;
+XVI.- Expedir, registrar y actualizar los nombramientos de los servidores públicos de la CAPAPA así como las credenciales de identificación correspondiente;
 
-XXII- Formular y gestionar las modificaciones, reformar (sic) o ampliaciones presupuéstales que se requieran;
+XVII.- Llevar el control de la puntualidad y la asistencia del personal;
 
-XXIII.- Manejar las finanzas de la Comisión para recepción, custodia y desembolso de efectivo y de valores, así como registrar estas operaciones;
+XVIII.- Tramitar, suscribir y actualizar los contratos de prestación de servicios del personal que perciba su remuneración con cargo a honorarios;
 
-XIV.- Registrar y controlar los compromisos y las operaciones financieras que afecten el ejercicio del presupuesto;
+XIX.- Proponer el otorgamiento de premios, estímulos y compensaciones a que se haga acreedor el personal de la CAPAPA;
 
-XXV.- Proponer al Consejo Directivo el establecimiento y manejar el sistema de (sic) contable de las necesidades de la Comisión;
+XX.- Imponer a los trabajadores de la CAPAPA las sanciones a que se hagan acreedores en los términos señalados en las condiciones generales de trabajo de la CAPAPA;
 
-XXVI.- Formular los estados financieros y legalmente obligatorios de la Comisión;
+XXI.- Promover la integración de la CAPAPA Mixta de Seguridad e Higiene, la cual determinará las normas aplicables en materia de prevención de riesgos profesionales y accidentes de trabajo;
 
-XXVII.- Elaborar y prestar oportunamente a las autoridades hacendarías, las declaraciones por concepto de impuestos de los que sea contribuyente o retenedora la Camisón;
+XXII.- Elaborar los programas y proyectos presupuestales relativos al capitulo de servicios personales y manejar las partidas correspondientes al presupuesto programático;
 
-XXVIII.- En coordinación con las demás áreas organizar, controlar, registrar, vigilar y manejar, de acuerdo con las normas aplicables, los bienes muebles e inmuebles de la comisión;
+XXIII.- Proporcionar a los trabajadores los servicios sociales y demás prestaciones que autorice el Consejo Directivo;
 
-XXIX.- Adquirir y suministrar los bienes de consumo y de inversión que se requieran en los términos que se señales (sic) en las normas legales aplicables, de cuerdo (sic) con el presupuesto y los programas autorizados;
+XXIV.- Coordinar la formulación de los presupuestos de ingresos, gastos de capital y gastos de operación, con la colaboración de las demás áreas;
 
-XXX.- Supervisar el cumplimiento de los contratos de adquisición y/o arrendamientote (sic) bienes inmuebles;
+XXV.- Supervisar el ejercicio del presupuesto autorizado;
 
-XXXI.- Organizar, controlar y supervisar el funcionamiento de las bodegas y de los almacenes, registrando las entradas y salidas de artículos, manteniendo al día la información sobre las existencias de acuerdo con los métodos y procedimientos establecidos;
+XXVI.- Formular y gestionar las modificaciones, reformas o ampliaciones presupuestales que se requieran;
 
-XXXII.- Obtener las autorizaciones y los permisos que se requieran para la adquisición de mercancía de procedencia extranjera; y
+XXVII.- Manejar las finanzas de la CAPAPA para recepción, custodia y desembolso de efectivo y de valores, así como registrar estas operaciones;
 
-XXXIII.- Manejar el sistema comercial y el padrón de usuarios de la Comisión, así como el servicio de atención al público.
+XVIII (sic).- Registrar y controlar los compromisos y las operaciones financieras que afecten el ejercicio del presupuesto;
+
+XXIX.- Proponer al Consejo Directivo el establecimiento y manejar el sistema de contable (sic) de las necesidades de la CAPAPA;
+
+XXX.- Formular los estados financieros y legalmente obligatorios de la CAPAPA;
+
+XXXI.- Elaborar y prestar oportunamente a las autoridades hacendarias, las declaraciones por concepto de impuestos de los que sea contribuyente o retenedora la Comisión;
+
+XXXII.- En coordinación con las demás áreas organizar, controlar, registrar, vigilar y manejar, de acuerdo con las normas aplicables, los bienes muebles e inmuebles de la CAPAPA;
+
+XXXIII.- Adquirir y suministrar los bienes de consumo y de inversión que se requieran en los términos que se señalen en las normas legales aplicables, de cuerdo con el presupuesto y los programas autorizados;
+
+XXXIV.- Supervisar el cumplimiento de los contratos de adquisición y/o arrendamiento de bienes inmuebles;
+
+XXXV.- Organizar, controlar y supervisar el funcionamiento de las bodegas y de los almacenes, registrando las entradas y salidas de artículos, manteniendo al día la información sobre las existencias de acuerdo con los métodos y procedimientos establecidos;
+
+XXXVI.- Obtener las autorizaciones y los permisos que se requieran para la adquisición de mercancía de procedencia extranjera; y
+
+XXXVII.- Manejar el sistema comercial y el padrón de usuarios de la CAPAPA, así como el servicio de atención al público.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -9371,6 +9725,8 @@ VII.- Todas las demás que se les asignen o se incluyan en otras Leyes, reglamen
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
+#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+
 ###### ARTICULO 780.
 
 Los principios éticos y los aspectos disciplinarios constituyen la base de la actuación adecuada de los elementos operativos de la Dirección y las Corporaciones Auxiliares.
@@ -9637,6 +9993,10 @@ Las solicitudes que tengan los elementos operativos, las elevarán por los condu
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+
 ###### ARTICULO 802.
 
 Los superiores jerárquicos deberán dar curso inmediato a las solicitudes que por su conducto eleven sus subalternos.
@@ -9690,6 +10050,10 @@ IV.- Las condiciones externas que motivaron la falta y los medios de ejecución;
 V.- La reincidencia en el incumplimiento de sus obligaciones.
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 807.
 
@@ -22728,3 +23092,13 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente Acuerdo.
+
+P.O. 15 DE OCTUBRE DE 2007.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente Acuerdo.
