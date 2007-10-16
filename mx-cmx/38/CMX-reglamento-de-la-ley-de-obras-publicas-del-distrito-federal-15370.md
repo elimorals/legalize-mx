@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-obras-publicas-del-distrito-federal-153
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-30"
-last_updated: "2006-07-24"
+last_updated: "2007-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15370&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-09"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 30 de diciembre de 1999.
 
@@ -218,7 +218,9 @@ b) Un Secretario Técnico, que será designado por el Presidente;
 
 c) Vocales, que son los titulares de cada una de las dependencias de la Administración Pública Centralizada del Distrito Federal; de las Unidades Administrativas de la Secretaría; de las Coordinaciones Técnica, Sectorial de Normas, Especificaciones y Precios Unitarios y Sectorial de Presupuesto y Estudios Técnicos; así como el de la Dirección General de Administración en la Secretaría;
 
-d) Dos ciudadanos, que serán designados por el Jefe de Gobierno del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos; y
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2007)</small>
+
+d) Dos ciudadanos, que serán acreditados y designados en términos de la Ley de Participación Ciudadana, quienes tendrán el carácter de Contralores Ciudadanos, y
 
 > <small>(REFORMADO, G.O. 24 DE JULIO DE 2006)</small>
 
@@ -234,7 +236,9 @@ b) Un Secretario Técnico, que será el Director General en materia de Obras de 
 
 c) Vocales, que serán los titulares de las delegaciones;
 
-d) Dos ciudadanos, que serán propuestos por consenso de los titulares de las delegaciones y ratificados por el Jefe de Gobierno del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos; y
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2007)</small>
+
+d) Dos ciudadanos, que serán acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos, y
 
 e) Asesores, que serán un representante de la Contraloría General, uno de la Dirección General Jurídica y de Gobierno del Órgano Político Administrativo cuyo Jefe Delegacional funja como presidente, por el mismo periodo, uno de la Contraloría Interna la Delegación que lo presida y los demás que determine el Comité Delegacional.
 
@@ -248,7 +252,9 @@ b) Un Secretario Técnico, que será designado por el Presidente;
 
 c) Vocales, que serán los que designe el órgano de gobierno de la entidad;
 
-d) Dos ciudadanos, que serán designados por el Jefe de Gobierno del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos; y
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2007)</small>
+
+d) Dos ciudadanos, que serán acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos, y
 
 e) Asesores, que serán un representante de la Contraloría General, uno de la Contraloría Interna y el titular del área jurídica de la Entidad y los demás que designe el Comité de la Entidad.
 
@@ -444,7 +450,9 @@ b) Un Secretario Técnico, que será designado por el Presidente del Subcomité;
 
 c) Vocales, que serán los titulares de cada unidad administrativa del nivel inmediato inferior al del presidente, cuyas funciones se vinculen con la materia, así como los titulares de las unidades administrativas de administración y de obras que integran la dependencia, órgano desconcentrado, unidad administrativa de la Secretaría o delegación de que se trate;
 
-d) Dos ciudadanos que serán designados por el Jefe de Gobierno del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos; y
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2007)</small>
+
+d) Dos ciudadanos que serán acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal, quienes tendrán el carácter de Contralores Ciudadanos, y
 
 e) Asesores, que será un representante del órgano de control interno de la dependencia, órgano desconcentrado, unidad administrativa de la Secretaría o delegación de que se trate.
 
@@ -1693,3 +1701,7 @@ G.O. 17 DE MAYO DE 2006.
 G.O. 24 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
