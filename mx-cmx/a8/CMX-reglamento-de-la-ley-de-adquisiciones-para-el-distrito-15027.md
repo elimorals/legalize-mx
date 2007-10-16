@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-adquisiciones-para-el-distrito-15027"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-23"
-last_updated: "2003-04-01"
+last_updated: "2007-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15027&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-19"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 23 de septiembre de 1999.
 
@@ -228,9 +228,9 @@ II.- Un Secretario Ejecutivo, que será el Director General de Recursos Material
 
 III.- Vocales, los Directores Generales de Administración u homólogos de la Administración Pública Centralizada y, para el caso de la Procuraduría General de Justicia del Distrito Federal, el Director General de Recursos Materiales y Servicios Generales;
 
-> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2007)</small>
 
-IV.- Dos Contralores Ciudadanos, los cuales serán acreditados y designados por el Jefe de Gobierno del Distrito Federal; y
+IV.- Dos contralores ciudadanos, acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
 
@@ -344,7 +344,9 @@ X.- Las demás que le confieran otras disposiciones aplicables a la materia.
 
 Artículo 21 BIS.- El Comité Delegacional se establecerá en los términos y con las facultades que expresamente le confiere la Ley.
 
-El Comité Delegacional se integrará con los Directores Generales de Administración en las Delegaciones y dos Contralores Ciudadanos propuestos por los titulares de las Delegaciones, que serán ratificados y acreditados por el Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 16 DE OCTUBRE DE 2007)</small>
+
+El comité delegacional se integrará con los directores generales de administración en las delegaciones y dos contralores ciudadanos acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 1 DE ABRIL DE 2003)</small>
 
@@ -410,9 +412,9 @@ III.- Un Secretario Técnico, que será el responsable de los recursos materiale
 
 IV.- Vocales, que serán los responsables de las áreas de programación y presupuesto, técnicas y almacenes, o sus equivalentes;
 
-> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2007)</small>
 
-V.- Dos Contralores Ciudadanos, nombrados por el Jefe de Gobierno; y
+V.- Dos contralores ciudadanos, acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
 
@@ -544,9 +546,9 @@ III.- Un Secretario Técnico, que será el servidor público encargado directo d
 
 IV.- Vocales, un representante del Comité Central o Delegacional, los responsables directos de programación y presupuesto y de almacenes de las Dependencias, Delegaciones u Órganos Desconcentrados y demás miembros que se establezcan en el Manual de Integración y Funcionamiento del Subcomité de que se trate;
 
-> <small>(REFORMADA, G.O. 1 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2007)</small>
 
-V.- Un Contralor Ciudadano acreditado; y
+V.- Dos contralores ciudadanos acreditados y designados en términos de la Ley de Participación Ciudadana del Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 1 DE ABRIL DE 2003)</small>
 
@@ -1055,3 +1057,9 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones administrativas y reglamentarias que se opongan a lo establecido en el presente Decreto.
 
 CUARTO. Los procedimientos de adquisiciones iniciados con anterioridad a la entrada en vigor de las presentes reformas, atenderán hasta su total conclusión al Reglamento vigente en el momento de su inicio, siempre y cuando no contravengan lo dispuesto en la Ley de Adquisiciones para el Distrito Federal.
+
+G.O. 16 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y reglamentarias que se opongan a lo establecido en el presente Decreto.
