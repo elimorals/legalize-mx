@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-sancionar-la-tortura-10189"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-10"
-last_updated: "1994-03-10"
+last_updated: "2007-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 237, PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 10 de marzo de 1994.
 
@@ -45,7 +47,7 @@ Comete el delito de tortura, cualquier servidor público del Estado o del Munici
 
 Se aplicarán las mismas penas al tercero que con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
-No se considerará como tortura, las penalidades o sufrimientos que sean consecuencia únicamente de sanciones legítimas, inherentes o incidentales a éstas, o derivados de un acto legítimo de autoridad.
+No se considerará como tortura, las penalidades o sufrimientos que sean consecuencia únicamente de sanciones legitimas, inherentes o incidentales a éstas, o derivados de un acto legítimo de autoridad.
 
 La incomunicación de los detenidos, que tenga como propósito conseguir los fines a que se refieren los párrafos anteriores, será considerada como tortura.
 
@@ -136,3 +138,19 @@ DIPUTADO PRESIDENTE.- ING. MANUEL TREJO GARCIA. - DIPUTADO SECRETARIO.- MARGARIT
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán, a los 25 días del mes de febrero de 1994, mil novecientos noventa y cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- EL SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para Prevenir y Sancionar la Tortura, aprobada en Decreto número 78, publicada el 10 de marzo de 1994, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que contravengan el presente Decreto.
