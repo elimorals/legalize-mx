@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2006-08-15"
+last_updated: "2007-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2007.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -267,13 +267,27 @@ La Comisión será la encargada de conocer de las peticiones, quejas y denuncias
 
 La ley determinará la organización, integración y atribuciones de la Comisión.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2007)</small>
+
+### CAPÍTULO I BIS. De la Comisión Estatal de Garantía de Acceso a la Información Pública
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 17 BIS.- En el Estado de San Luis Potosí es prerrogativa de todas las personas, conocer y acceder a la información pública, con las excepciones previstas en esta Constitución y en la ley de la materia.
+
+Del mismo modo, toda persona tiene el derecho a acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley, así como a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
+
+La Comisión Estatal de Garantía de Acceso a la Información Pública, es un organismo público con autonomía presupuestaria, operativa, de gestión y de decisión; encargado de garantizar el ejercicio de las prerrogativas asentadas en este precepto; y vigilar la aplicación y cumplimiento de la ley de la materia, resolviendo sobre actos u omisiones de naturaleza administrativa que incumplan el derecho de acceso a la información pública, por parte de los Poderes del Estado, los municipios y sus entidades, concesionarios de bienes y servicios, organismos constitucionales autónomos, partidos políticos y demás entes obligados; imponer a los servidores públicos sanciones pecuniarias por infracciones a la ley, y por incumplimiento de las resoluciones que dicte en la materia; y promover ante las autoridades competentes, las responsabilidades y las sanciones administrativas que correspondan; así como presentar denuncias ante los órganos de autoridad que correspondan.
+
+Dependiente de la Comisión habrá un Sistema Estatal de Documentación y Archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información, en posesión de las entidades públicas.
+
+La Comisión estará integrada por tres comisionados numerarios, y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
+
+Los comisionados durarán en su cargo cuatro años, y, en ese tiempo, no podrán ser removidos sino por las causas y a través de los procedimientos previstos por el Título Décimo Segundo de esta Constitución.
+
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPÍTULO II. De la Defensoría Social
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-### CAPÍTULO I. De los Habitantes del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -291,7 +305,7 @@ Tratándose de personas indígenas, los defensores sociales deberán hablar y es
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De los Ciudadanos Potosinos
+### CAPÍTULO I. De los Habitantes del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -355,7 +369,7 @@ Los potosinos, en igualdad de circunstancias, tendrán preferencia frente a los 
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. Del Sufragio
+### CAPÍTULO II. De los Ciudadanos Potosinos
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -435,7 +449,7 @@ La ley fijará el procedimiento para la pérdida y suspensión de los derechos o
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De los Partidos Políticos
+### CAPÍTULO I. Del Sufragio
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -491,7 +505,7 @@ Los organismos electorales competentes, con la participación de los partidos po
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. Del Referéndum y Plebiscito
+### CAPÍTULO II. De los Partidos Políticos
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -507,7 +521,7 @@ Con las prerrogativas y derechos contenidos en la Constitución Política de los
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. Del Congreso del Estado
+### CAPÍTULO III. Del Referéndum y Plebiscito
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -543,7 +557,7 @@ La ley establecerá las materias, requisitos, alcances, términos y procedimient
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Elección e Instalación del Congreso
+### CAPÍTULO I. Del Congreso del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -561,9 +575,9 @@ El Presidente del Congreso o de la Diputación Permanente, en su caso, velará p
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. De las Sesiones y Recesos del Congreso
+### CAPÍTULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 42.
 
@@ -651,9 +665,9 @@ Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO IV. De las Atribuciones del Congreso
+### CAPÍTULO III. De las Sesiones y Recesos del Congreso
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 51.
 
@@ -721,9 +735,9 @@ Si el Congreso estuviere en período extraordinario de sesiones cuando deba come
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO V. De la Diputación Permanente
+### CAPÍTULO IV. De las Atribuciones del Congreso
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 57.
 
@@ -857,9 +871,9 @@ El Congreso del Estado, a través de su Presidente, rendirá a la ciudadanía un
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO VI. De la Iniciativa y Formación de Leyes
+### CAPÍTULO V. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 59.
 
@@ -897,7 +911,7 @@ XII.- Cumplir con las obligaciones que le impongan la Legislatura y las disposic
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. Del Gobernador del Estado
+### CAPÍTULO VI. De la Iniciativa y Formación de Leyes
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -983,7 +997,7 @@ Ninguna ley tiene carácter obligatorio si no ha sido publicada con dicha formal
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De las atribuciones del Gobernador
+### CAPÍTULO I. Del Gobernador del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1061,7 +1075,7 @@ El cargo de Gobernador del Estado es irrenunciable y el individuo que lo desempe
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. Del Despacho del Ejecutivo
+### CAPÍTULO II. De las atribuciones del Gobernador
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1159,7 +1173,7 @@ Cuando se trate de Gobernador Provisional, no podrá celebrar acto o contrato al
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO IV. Del Ministerio Público
+### CAPÍTULO III. Del Despacho del Ejecutivo
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1183,7 +1197,7 @@ Los titulares de las dependencias del Ejecutivo serán responsables de todas las
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO V. De la Consejería Jurídica del Estado
+### CAPÍTULO IV. Del Ministerio Público
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1211,7 +1225,7 @@ En la persecución de los delitos y en las indagatorias que practique el Ministe
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO VI. De la Seguridad Pública
+### CAPÍTULO V. De la Consejería Jurídica del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1225,9 +1239,9 @@ A solicitud de los Ayuntamientos y sus entidades, el Consejero Jurídico prestar
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De la Seguridad Pública
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 88.
 
@@ -1245,7 +1259,7 @@ Los miembros de los cuerpos de seguridad pública, por la naturaleza de su funci
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. Del Supremo Tribunal de Justicia
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
@@ -1281,9 +1295,9 @@ El Consejo de la Judicatura determinará el número y especialización por mater
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
-### CAPÍTULO III. De los Jueces de Primera Instancia y Jueces Menores
+### CAPÍTULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2005)</small>
 
 ###### ARTÍCULO 91.
 
@@ -1379,7 +1393,7 @@ Los nombramientos de los Magistrados supernumerarios serán por seis años y pod
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO IV. De los Jueces Auxiliares
+### CAPÍTULO III. De los Jueces de Primera Instancia y Jueces Menores
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1427,7 +1441,7 @@ El cargo de juez no podrá ejercerse después de los setenta años de edad.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. Del Patrimonio
+### CAPÍTULO IV. De los Jueces Auxiliares
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1471,7 +1485,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que haya am
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Hacienda Pública
+### CAPÍTULO I. Del Patrimonio
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1491,7 +1505,7 @@ Los jueces auxiliares serán nombrados por el Consejo de la Judicatura, a elecci
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. De los Municipios del Estado
+### CAPÍTULO II. De la Hacienda Pública
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1527,7 +1541,7 @@ II.- Del dominio privado, los que ingresen a su patrimonio no comprendidos en la
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De los Requisitos para ser Miembro del Ayuntamiento, Concejo Municipal o Delegado
+### CAPÍTULO I. De los Municipios del Estado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1555,7 +1569,7 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO III. De la Formación, Fusión y Supresión de Municipios y Delegaciones Municipales
+### CAPÍTULO II. De los Requisitos para ser Miembro del Ayuntamiento, Concejo Municipal o Delegado
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1723,9 +1737,9 @@ Los Ayuntamientos podrán someter a plebiscito los actos que por su trascendenci
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO IV. De la Suspensión y Desaparición de Ayuntamientos y de la Suspensión y Revocación del Mandato de Alguno de sus Integrantes
+### CAPÍTULO III. De la Formación, Fusión y Supresión de Municipios y Delegaciones Municipales
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 117.
 
@@ -1757,7 +1771,7 @@ No estarán impedidos los ciudadanos a que se refiere la fracción II si se sepa
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO ÚNICO. Del Tribunal de lo Contencioso Administrativo
+### CAPÍTULO IV. De la Suspensión y Desaparición de Ayuntamientos y de la Suspensión y Revocación del Mandato de Alguno de sus Integrantes
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1773,7 +1787,7 @@ En las Delegaciones Municipales la autoridad será ejercida por un Delegado Muni
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. Del Tribunal de lo Contencioso Administrativo
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1837,7 +1851,7 @@ DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO I. De las Reformas
+### CAPÍTULO ÚNICO
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1857,7 +1871,7 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO, Y
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO II. De la Inviolabilidad
+### CAPÍTULO I. De las Reformas
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1911,13 +1925,11 @@ En los casos a que se refiere el segundo párrafo del Artículo 110 de la Consti
 
 Las declaraciones y resoluciones del Congreso no son recurribles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2007)</small>
 
 ###### ARTÍCULO 127.
 
-Para proceder penalmente contra los secretarios de Despacho, Procurador General de Justicia, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales y Auditor Superior del Estado, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo trámite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+Para proceder penalmente contra los secretarios de despacho, Procurador General de Justicia, diputados, magistrados del Supremo Tribunal de Justicia, presidentes municipales, Auditor Superior del Estado, y titulares de los organismos constitucionales autónomos, por la presunta comisión de delitos durante el tiempo y sólo en el ejercicio de su encargo, el Congreso del Estado declarará, por el voto de cuando menos las dos terceras partes de sus miembros, si ha o no lugar a proceder contra el presunto responsable; si la resolución del Congreso fuese negativa, se suspenderá todo trámite ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1974,6 +1986,10 @@ Las sanciones correspondientes se aplicarán en un período no mayor de tres mes
 TÍTULO DECIMOTERCERO
 
 PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
+### CAPÍTULO II. De la Inviolabilidad
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2442,3 +2458,33 @@ CUARTO. El Congreso del Estado expedirá la Ley de la Auditoría Superior del Es
 P.O. 15 DE AGOSTO DE 2006.
 
 UNICO. Una vez ratificado por los ayuntamientos del Estado el presente Decreto, éste entrará en vigor al dí a (sic) siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2007.
+
+PRIMERO. El artículo 1º. del presente Decreto, entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado, previo cumplimiento de lo dispuesto en el artículo 138 de la Constitución Política del Estado.
+
+SEGUNDO. Previa su publicación en el Periódico Oficial del Estado, el artículo 2º. de este Decreto, entrará en vigor el día en que inicie su vigencia el artículo 1º. de este mismo.
+
+TERCERO. A la entrada en vigor de este Decreto, los integrantes de la actual Comisión Estatal de Garantía de Acceso a la Información, pasarán a ocupar los cargos de comisionados numerarios del organismo autónomo que se crea en virtud del artículo 1º. de este Decreto; y concluirán su encargo en forma escalonada, con respeto irrestricto al orden en que fueron electos, debiendo concluir el comisionado que haya sido designado en primer término, en el plazo exacto de cuatro años para el que fue electo; y a partir de la conclusión del primero, en el término de un año concluirá el comisionado que le siga en el orden de elección y, finalmente, en el término de un año más, concluirá el tercero; debiendo en cada caso realizar las elecciones de relevo respectivas, para los comisionados que ocuparán dichos cargos, los cuales lo harán por un periodo exacto de cuatro años cada uno.
+
+CUARTO. Los comisionados supernumerarios serán electos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Con la entrada en vigor de este Decreto, se abroga la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el jueves 20 de marzo de 2003.
+
+SEXTO. La CEGAIP expedirá su reglamento interno, dentro de los tres meses siguientes a partir de la entrada en vigor del presente Decreto.
+
+SEPTIMO. Las entidades públicas, en el ámbito de sus respectivas competencias, establecerán mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos institucionales, para proporcionar a los particulares el acceso a la información pública y protección de datos personales, de conformidad con las bases y principios establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado. Estos reglamentos o acuerdos de carácter general, deberán ser expedidos a más tardar tres meses después de la entrada en vigor de la precitada ley.
+
+OCTAVO. Los titulares de las entidades públicas deberán crear las unidades de información pública, los comités de información, y designar a sus respectivos responsables, dentro de los noventa días naturales siguientes a la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado, y en ese mismo plazo, deberán iniciar sus funciones. Además, deberán notificarlo al Ejecutivo del Estado, para la publicación en el Periódico Oficial del Estado, de la lista de unidades de información pública.
+
+NOVENO. Las entidades públicas que no cuenten con facultades para certificar documentación, deberán modificar sus reglamentos internos, en un plazo de cuatro meses a partir de la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
+
+DECIMO. La información pública de oficio, a que se refiere los artículos 17, 18, 19, 20, 21, 22, 23 y 24 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor de esta Ley. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
+
+DECIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de dieciocho meses de la entrada en vigor de esta Ley, el índice de la información que posean; debiendo remitir una copia a la CEGAIP.
+
+DECIMO SEGUNDO. Los entes obligados deberán en un periodo no mayor de dieciocho meses, contados a partir de la entrada en vigor de esta Ley, completar la organización y funcionamiento de sus archivos administrativos, bajo los criterios que establezca el Sistema Estatal de Documentación y Archivos.
+
+DECIMO TERCERO. Se derogan todas aquellas disposiciones en leyes, reglamentos u ordenamientos legales, de igual, o menor jerarquía a esta Ley, que se le opongan.
+
+DECIMO CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública, que se expide mediante el presente Decreto, se concluirán en los términos de la ley que se abroga, por las autoridades que, conforme las disposiciones de la nueva ley, resulten competentes o que sustituyan a las autoridades que dejen de existir.
