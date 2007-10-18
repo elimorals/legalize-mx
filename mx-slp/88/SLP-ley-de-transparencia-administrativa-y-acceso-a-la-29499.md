@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-administrativa-y-acceso-a-la-29499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2004-04-20"
+last_updated: "2007-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA ADMINISTRATIVA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO DEL DECRETO NUMERO 234, PUBLICADO EN EL P.O. DE 18 DE OCTUBRE DE 2007, LA PRESENTE LEY HA SIDO ABROGADA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -672,3 +674,33 @@ P.O. 20 DE ABRIL DE 2004.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2007.
+
+PRIMERO. El artículo 1º. del presente Decreto, entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado, previo cumplimiento de lo dispuesto en el artículo 138 de la Constitución Política del Estado.
+
+SEGUNDO. Previa su publicación en el Periódico Oficial del Estado, el artículo 2º. de este Decreto, entrará en vigor el día en que inicie su vigencia el artículo 1º. de este mismo.
+
+TERCERO. A la entrada en vigor de este Decreto, los integrantes de la actual Comisión Estatal de Garantía de Acceso a la Información, pasarán a ocupar los cargos de comisionados numerarios del organismo autónomo que se crea en virtud del artículo 1º. de este Decreto; y concluirán su encargo en forma escalonada, con respeto irrestricto al orden en que fueron electos, debiendo concluir el comisionado que haya sido designado en primer término, en el plazo exacto de cuatro años para el que fue electo; y a partir de la conclusión del primero, en el término de un año concluirá el comisionado que le siga en el orden de elección y, finalmente, en el término de un año más, concluirá el tercero; debiendo en cada caso realizar las elecciones de relevo respectivas, para los comisionados que ocuparán dichos cargos, los cuales lo harán por un periodo exacto de cuatro años cada uno.
+
+CUARTO. Los comisionados supernumerarios serán electos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Con la entrada en vigor de este Decreto, se abroga la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el jueves 20 de marzo de 2003.
+
+SEXTO. La CEGAIP expedirá su reglamento interno, dentro de los tres meses siguientes a partir de la entrada en vigor del presente Decreto.
+
+SEPTIMO. Las entidades públicas, en el ámbito de sus respectivas competencias, establecerán mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos institucionales, para proporcionar a los particulares el acceso a la información pública y protección de datos personales, de conformidad con las bases y principios establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado. Estos reglamentos o acuerdos de carácter general, deberán ser expedidos a más tardar tres meses después de la entrada en vigor de la precitada ley.
+
+OCTAVO. Los titulares de las entidades públicas deberán crear las unidades de información pública, los comités de información, y designar a sus respectivos responsables, dentro de los noventa días naturales siguientes a la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado, y en ese mismo plazo, deberán iniciar sus funciones. Además, deberán notificarlo al Ejecutivo del Estado, para la publicación en el Periódico Oficial del Estado, de la lista de unidades de información pública.
+
+NOVENO. Las entidades públicas que no cuenten con facultades para certificar documentación, deberán modificar sus reglamentos internos, en un plazo de cuatro meses a partir de la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
+
+DECIMO. La información pública de oficio, a que se refiere los artículos 17, 18, 19, 20, 21, 22, 23 y 24 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, deberá publicarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor de esta Ley. Las entidades públicas obligadas deberán contar con sistemas electrónicos, para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información, y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de su entrada en vigor. Tratándose de municipios con población inferior a setenta mil habitantes, el plazo para contar con los sistemas electrónicos respectivos, será de cuatro años a partir de la entrada en vigor del presente Decreto.
+
+DECIMO PRIMERO. Todos los entes obligados publicarán en un plazo no mayor de dieciocho meses de la entrada en vigor de esta Ley, el índice de la información que posean; debiendo remitir una copia a la CEGAIP.
+
+DECIMO SEGUNDO. Los entes obligados deberán en un periodo no mayor de dieciocho meses, contados a partir de la entrada en vigor de esta Ley, completar la organización y funcionamiento de sus archivos administrativos, bajo los criterios que establezca el Sistema Estatal de Documentación y Archivos.
+
+DECIMO TERCERO. Se derogan todas aquellas disposiciones en leyes, reglamentos u ordenamientos legales, de igual, o menor jerarquía a esta Ley, que se le opongan.
+
+DECIMO CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública, que se expide mediante el presente Decreto, se concluirán en los términos de la ley que se abroga, por las autoridades que, conforme las disposiciones de la nueva ley, resulten competentes o que sustituyan a las autoridades que dejen de existir.
