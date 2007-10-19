@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2006-05-19"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -57,7 +57,9 @@ II.- La Secretaría de Salud del Estado; y
 
 III.- Los Ayuntamientos.
 
-Las Autoridades Sanitarias del Estado podrán delegar funciones en los servidores públicos que les estén subordinados; o en el personal de otras dependencias y entidades dentro de un mismo orden de Gobierno conforme a los acuerdos de coordinación que en su caso se celebren, previa publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia, y a los demás ordenamientos aplicables le correspondan, a través de un órgano con autonomía técnica y operativa denominado Comisión Estatal para la Protección contra Riesgos Sanitarios, la cual funcionará en los términos establecidos en el Reglamento correspondiente.
 
 ###### ARTÍCULO 3.
 
@@ -555,6 +557,8 @@ ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores e
 
 ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 41.
 
 Para los efectos de esta Ley, se consideran usuarios de servicios de salud a las personas que solicitan, requieren y obtienen dichos servicios de los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
@@ -611,6 +615,56 @@ Se concede acción popular para denunciar ante las Autoridades Sanitarias del Es
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
 
+#### SECCION X. DONACION Y TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER.- Las autoridades federales de salud en coordinación con los servicios de salud del Estado efectuarán el control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del Centro de Trasplantes, Procuración de Órganos y Tejidos del Estado de Baja California, mismo que funcionará en los términos establecidos en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER 1.- El objetivo principal del Centro será la asistencia social a la población, con el propósito de proporcionar servicios de salud en esta materia, los que prestará a través de aquellos recursos materiales y humanos establecidos dentro de los hospitales generales subordinados al Instituto de Servicios de Salud Pública del Estado, o en aquellas instituciones públicas establecidas para el logro de estos fines; además se le concede plena autonomía técnica y administrativa para emitir opiniones, acuerdos y resoluciones, relacionados con la procuración, obtención, fomento, control y vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, así como de las actividades relacionadas con éstos y respecto de los lugares en que se realicen dichos actos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER 2.- Para el cumplimiento y desarrollo de los objetivos, finalidades y funciones del Centro de Trasplantes y Procuración de Órganos y Tejidos, éste tendrá las siguientes atribuciones:
+
+I.- Ejercer la Procuración, Fomento y Vigilancia de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, de las actividades relacionadas con éstos y de los establecimientos en que se realicen dichos actos;
+
+II.- Recibir los avisos de los responsables sanitarios y de los comités internos de trasplantes, así como llevar su control y seguimiento;
+
+III.- Fomentar y vigilar el cumplimiento de las normas oficiales mexicanas en materia de órganos, tejidos y células, así como la donación y trasplante de estos respecto de los establecimientos en los que se realicen los actos relativos;
+
+IV.- Operar y mantener actualizado el registro estatal de trasplantes;
+
+V.- Decidir y vigilar dentro de su ámbito de competencia la asignación de órganos, tejidos y células de seres humanos;
+
+VI.- Fomentar y promover la cultura de donación, por métodos propios o en coordinación con el Consejo Estatal de Trasplantes;
+
+VII.- Vigilar y autorizar las investigaciones en las que en su desarrollo se utilicen órganos y tejidos de seres humanos con excepción de la sangre, así como de injerto y trasplantes que se pretendan realizar con fines de investigación, sin perjuicio de las atribuciones de otros organismos en estas actividades;
+
+VIII.- Constituir una Unidad Operativa de Procuración de Órganos y Tejidos, que tendrá como objetivo principal facilitar y gestionar los procesos para la obtención de órganos, tejidos y células de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud establecidas en el Estado.
+
+IX.- Vigilar que los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes se ajusten a las disposiciones legales aplicables en la materia;
+
+X.- Diseñar e impartir cursos de capacitación, con valor curricular, al personal de salud que participe en donaciones y trasplantes de órganos y tejidos;
+
+XI.- Rendir un informe al titular del Ejecutivo del Estado o al secretario del Ramo correspondiente, en cuanto a sus estados financieros, avances en los programas establecidos y evaluación de las metas alcanzadas;
+
+XII.- Realizar las demás acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación de órganos, células y tejidos de seres humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, que será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER 4.- El Centro estará a cargo de un Director General, mismo que será suplido en ausencias temporales menores de quince días por el servidor público de jerarquía inmediata inferior que designe. En ausencias mayores a quince días será suplido por un servidor público designado por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cubiertas por los servidores públicos que designe el Director del Centro de Trasplantes y Procuración de Órganos y Tejidos de Baja California.
+
 #### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
 #### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
@@ -623,11 +677,9 @@ Se concede acción popular para denunciar ante las Autoridades Sanitarias del Es
 
 #### SECCION III. DE LOS ACCIDENTES
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
-
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTÍCULO 51.
 
@@ -663,7 +715,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION III. DEL PROGRAMA CONTRA LA FARMACODEPENDENCIA
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 57.
 
@@ -687,7 +739,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION I. DISPOSICIONES COMUNES
+#### SECCION III. DEL PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTÍCULO 62.
 
@@ -775,7 +827,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+#### SECCION I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 73.
 
@@ -895,7 +947,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTÍCULO 89.
 
@@ -919,7 +971,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 ###### ARTÍCULO 92.
 
@@ -943,6 +995,8 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 ### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
+
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 #### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
@@ -950,8 +1004,6 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 #### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 #### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
-
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES
 
@@ -993,7 +1045,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
 
 ###### ARTÍCULO 99.
 
@@ -1021,7 +1073,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 102.
 
@@ -1045,7 +1097,7 @@ III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los prob
 
 Queda estrictamente prohibido vender tabaco en cualquiera de sus presentaciones a los menores de edad, a quién infrinja esta disposición se le sancionará en términos de la normatividad aplicable.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL
 
 ###### ARTÍCULO 105.
 
@@ -1065,11 +1117,13 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
+#### SECCION I. DE LAS AUTORIZACIONES
+
 #### SECCION II. DE LA REVOCACION DE PERMISOS SANITARIOS
 
-#### SECCION III. DE LOS CERTIFICADOS
-
 ### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 107.
 
@@ -1762,3 +1816,25 @@ SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones presupuestale
 TERCERO.- Para el debido a (sic) cumplimiento de la presente reforma, y en caso de no existir Norma Oficial Mexicana aplicable al propósito de la misma, se emplearán los criterios o lineamientos que en materia de nutrición sean aplicables, o al efecto se expidan por la propia Secretaría de Salud del Estado.
 
 CUARTO.- La Secretaría de Salud del Estado deberá remitir los lineamientos y criterios al Sistema Estatal de Educación y Bienestar Social para su conocimiento.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 374
+
+###### ARTÍCULO PRIMERO.
+
+Esta Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá las disposiciones reglamentarias correspondientes para la aplicación de la reforma a la presente Ley, dentro de los noventa días siguientes a la publicación de este Decreto.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 433
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan la presente reforma.
+
+TERCERO. El Poder Ejecutivo del Estado deberá elaborar el reglamento interno del Centro de Trasplantes y Procuración de Órganos y Tejidos en un término de noventa días.
