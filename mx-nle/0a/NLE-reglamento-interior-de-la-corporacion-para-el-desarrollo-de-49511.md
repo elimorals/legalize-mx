@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-corporacion-para-el-desarrollo-de-495
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-22"
-last_updated: "2006-02-22"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA CORPORACION PARA EL DESARROLLO DE LA ZONA FRONTERIZA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de febrero de 2006.
 
@@ -67,17 +67,25 @@ Para el ejercicio de sus atribuciones, funciones y despacho de los asuntos de su
 
 I. Dirección General.
 
-a. Dirección de Planeación y Desarrollo.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+a. Dirección de Desarrollo de Proyectos.
 
 b. Dirección Jurídica.
 
-c. Coordinación General Administrativa.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-d. Coordinación General de Operaciones.
+c. Dirección de Administración y Finanzas.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+d. Director de Operaciones, Logística y Promoción.
 
 II. Las demás unidades y personal administrativo, operativo y técnico que sean creadas por acuerdo de la Junta de Gobierno.
 
-Las Direcciones y Coordinaciones Generales dependerán jerárquicamente de la Dirección General y estarán integradas por las unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta de Gobierno, con las atribuciones que le sean determinadas en los Manuales de Organización y de Servicios, así como de Procedimientos que se expidan y realizarán sus funciones a través del personal que se requiera para satisfacer las necesidades del servicio público.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Las Direcciones dependerán jerárquicamente de la Dirección General y estarán integradas por las unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta de Gobierno con las atribuciones que le sean determinadas en los manuales de organización y de servicios, así como los procedimientos que se expidan y realizarán sus funciones a través del personal que se requiera para satisfacer las necesidades del servicio público.
 
 ###### Artículo 4.
 
@@ -89,9 +97,11 @@ Los servidores públicos pertenecientes a la estructura administrativa y operati
 
 El Director General de la Corporación, contará con las atribuciones señaladas en el artículo 20 de la Ley.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 6.
 
-El Director General podrá para el debido cumplimiento de sus funciones, conferir sus facultades delegables a los servidores públicos que integran las Direcciones y/o Coordinaciones Generales que le auxilien.
+El Director General podrá para el debido cumplimiento de sus funciones, conferir sus facultades delegables a los servidores públicos que integran las Direcciones que le Auxilien.
 
 ###### Artículo 7.
 
@@ -101,7 +111,9 @@ Para la delegación de las atribuciones que le corresponden, el Director General
 
 Son atribuciones indelegables del Director General, las señaladas en las fracciones I, III, V, XI, XII, XIII, XIV, XV, XVI, XVII, XIX y XX del artículo 20 de la Ley.
 
-### CAPÍTULO IV. DE LAS DIRECCIONES Y COORDINACIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+### CAPÍTULO IV. DE LAS DIRECCIONES
 
 ###### Artículo 9.
 
@@ -123,9 +135,11 @@ VII. Asignar funciones y responsabilidades al personal a su cargo, conforme a la
 
 VIII. Las demás que les confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-Además de lo señalado en el artículo anterior, corresponde a la Dirección de Planeación y Desarrollo:
+Además de lo señalado en el artículo anterior corresponde a la Dirección de Desarrollo De Proyectos:
 
 I. Elaborar y proponer políticas de planeación de la Corporación, atendiendo a las demás áreas que integran la estructura de la misma, en materia de planeación estratégica;
 
@@ -161,9 +175,11 @@ VII. Representar y defender legalmente el patrimonio de la Corporación, conform
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Coordinación General Administrativa:
+Corresponde a la Dirección de Administración y Finanzas:
 
 I. Llevar a cabo las funciones de contabilidad, ingresos, egresos, patrimonio, adquisiciones y recursos humanos, asegurando que se ejerzan bajo el marco jurídico y normativo establecido, así como su debido cumplimiento;
 
@@ -185,9 +201,11 @@ IX. Vigilar el cumplimiento de las obligaciones de previsión y seguridad social
 
 X. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Coordinación General de Operaciones:
+Corresponde a la Dirección de Operaciones, Logística y Promoción:
 
 I. Planear, organizar, dirigir, controlar y agilizar todas las actividades operativas de la Corporación en el Centro de Facilidades al Comercio Internacional (CEFACIL);
 
@@ -203,7 +221,9 @@ VI. Promover el aprovechamiento de las instalaciones del CEFACIL ante los repres
 
 VII. Vigilar y supervisar el correcto uso de los inmuebles propiedad de la Corporación otorgados en arrendamiento o por cualquier otro título jurídico;
 
-VIII. Coadyuvar con la Coordinación General de Administrativa, a efecto de llevar el control administrativo de las oficinas y personal de la Corporación en el CEFACIL;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VIII. Coadyuvar con la Dirección de Administración y Finanzas, a efecto de llevar el control administrativo de las oficinas y personal de la Corporación en el CEFACIL;
 
 IX. Informar al Director General de los ingresos generados por los servicios que presta la Corporación en el CEFACIL, y
 
@@ -238,3 +258,9 @@ LIC. ROGELIO CERDA PÉREZ
 EL C. DIRECTOR GENERAL DE LA CORPORACIÓN PARA EL DESARROLLO DE LA ZONA FRONTERIZA DE NUEVO LEÓN
 
 LIC. ARTURO GARCÍA ESPINOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
