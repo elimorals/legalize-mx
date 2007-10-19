@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2006-09-29"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -457,7 +457,7 @@ La autoridad municipal determinará en el reglamento correspondiente, el procedi
 
 ###### ARTÍCULO 31.
 
-Del delito de lesividad social.- Se impondrá una pena de tres meses a tres años de prisión y multa de mil a tres mil veces el salario mínimo vigente en el Estado, a la persona que sin contar con el permiso correspondiente o alterando los términos y condiciones que se contengan en él, venda, almacene para su venta, o proporcione bebidas alcohólicas para su consumo o permita que se realicen estas actividades, en la vía pública o en un establecimiento o casa habitación de su posesión o respecto de la cual se conduzca como poseedor, con fines de lucro.
+(DEROGADO, P.O. 19 DE OCTUBRE DE 2007)
 
 ###### ARTÍCULO 32.
 
@@ -554,3 +554,7 @@ P.O. 24 DE FEBRERO DE 2006.
 P.O. 29 DE SEPTIEMBRE DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+ÚNICO.- Las presentes reformas entrarán en vigor un día después al de su publicación en el Periódico Oficial del Estado.
