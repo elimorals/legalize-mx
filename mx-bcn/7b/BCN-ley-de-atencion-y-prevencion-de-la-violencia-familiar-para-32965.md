@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2006-10-27"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 247, LAS REFORMAS ENTRARAN EN VIGOR A PARTIR DEL PRIMERO DE MARZO DE DOS MIL SIETE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -37,9 +35,11 @@ LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público y tienen por objeto establecer las bases y procedimientos tendientes a salvaguardar la integridad física, psicológica, sexual y económica de los miembros de la familia, mediante la atención y prevención de la violencia familiar.
+Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos tendientes a salvaguardar la integridad física, psicológica, sexual y económica de los miembros de la familia, mediante la atención y prevención de la violencia familiar en el Estado de Baja California.
 
 ###### ARTÍCULO 2.
 
@@ -167,15 +167,25 @@ I. Proponer el Programa;
 
 II. Fomentar la coordinación, concertación, colaboración e información entre las instituciones públicas y privadas que se ocupen de la violencia familiar;
 
-III. Evaluar trimestralmente los logros y avances del Programa;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-IV. Promover e impulsar la participación en las acciones de atención y prevención de la violencia familiar;
+III. Vigilar la aplicación y cumplimiento del Programa;
 
-V. Fomentar la realización de estudios tendientes a conocer las causas y los impactos de la violencia familiar;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-VI. Difundir los contenidos de esta Ley y de los derechos en materia de violencia familiar;
+IV. Promover la capacitación y sensibilización de los operadores del sistema judicial, del personal profesional auxiliar, del policial, del sistema de salud y en general, de cualquiera que preste servicios en materia de violencia familiar, a efecto de mejorar la atención a las víctimas que requieran de su intervención;
 
-VII. Gestionar con los medios de comunicación, a fin de que participen en la difusión de los programas y medidas de atención y prevención de la violencia familiar, y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+V. Fomentar la realización de estudios tendientes a conocer las causas y los impactos de la violencia familiar; cuyos resultados servirán para diseñar modelos tendientes a la atención y prevención de la violencia familiar en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VI. Difundir los contenidos de esta Ley y de los derechos en materia de violencia familiar, cuyos resultados servirán para diseñar modelos tendientes a la atención y prevención de la violencia familiar en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VII. Gestionar con los medios de comunicación, a fin de que participen en la difusión de los programas, de campañas públicas encaminadas a sensibilizar y concientizar a la población sobre el problema de violencia familiar y, de las medidas de atención y prevención de la violencia familiar, y
 
 VIII. Proponer al Ejecutivo del Estado el proyecto de Reglamento Interno.
 
@@ -217,21 +227,23 @@ La ejecución del Programa quedará a cargo de las dependencias y entidades de l
 
 ### CAPÍTULO CUARTO. DE LA ATENCIÓN
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 18.
 
-La atención de la violencia familiar tiene como finalidad salvaguardar la integridad física y los derechos de la víctima de la violencia familiar y proporcionar el tratamiento integral a quien la genere.
+La atención de la violencia familiar tiene como finalidad salvaguardar la dignidad, la libertad, la igualdad, la integridad física y los derechos de la víctima de la violencia familiar y proporcionar el tratamiento integral a quien la genere.
 
 ###### ARTÍCULO 19.
 
 La atención será de carácter especializado, teniendo las características siguientes:
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 I. Tenderán a la resolución de la violencia familiar, respetando la dignidad y la diferencia de las personas involucradas a través de acciones de tipo:
 
-a) Terapéutico, a efecto de que se asuma la responsabilidad en el conflicto, reforzando la dignidad y reconstruyendo la identidad de los miembros de la familia involucrados;
+a) Terapéutico, a efecto de evitar que nuevos episodios de violencia ocurran en la familia, esto se logrará a través de diferentes estrategias. En la víctima, habrá de fomentarse la superación de las secuelas psicológicas derivadas de la situación de maltrato y recuperación de la autoestima, así como el aprendizaje de habilidades que permitan identificar las fases iniciales de la violencia, a efecto de prevenirla. En el agresor, habrá de fomentarse el aprendizaje del control de sus impulsos y del manejo de sus emociones.
 
-b) Educativo, para influir en la flexibilización y asumir derechos y obligaciones en la familia, y
-
-c) Protector, con el fin de garantizar la integridad y estabilidad emocional en la víctima de la violencia familiar que le permita la reorganización de su vida.
+b) Educativo, para difundir la adopción de prácticas familiares democráticas, orientadas a la distribución igualitaria de derechos y obligaciones.
 
 II. Será libre de prejuzgar sexo, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo;
 
@@ -293,9 +305,13 @@ Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento 
 
 I. Proporcionar a la víctima de la violencia familiar, la protección y auxilio derivado del Artículo 20, Apartado B de la Constitución Política de los Estados Unidos Mexicanos, pudiendo gestionar ante otras autoridades aquella que no este en posibilidades de proporcionar;
 
-II. Brindar asistencia a la víctima de violencia familiar, cuando así lo solicite a través de la unidad administrativa competente, y
+II. Brindar asistencia a la víctima de violencia familiar, cuando así lo solicite a través de la unidad administrativa competente, y (sic)
 
-III. Coadyuvar con los distintos organismos sociales que participan en la protección de las víctimas de la violencia familiar, en las actividades de aquellos centros o sistemas que brindan atención, protección y auxilio a la víctima de la violencia familiar.
+III. Coadyuvar con los distintos organismos sociales que participan en la protección de las víctimas de la violencia familiar, en las actividades de aquellos centros o sistemas que brindan atención, protección y auxilio a la víctima de la violencia familiar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+IV. Llevar el registro de los delitos que se cometan como consecuencia de violencia familiar, mismo que deberá de remitir semestralmente al Consejo para la Atención y Prevención de la Violencia Familiar en el Estado de Baja California.
 
 ### CAPÍTULO QUINTO. DE LA PREVENCIÓN
 
@@ -303,19 +319,21 @@ III. Coadyuvar con los distintos organismos sociales que participan en la protec
 
 La prevención de la violencia familiar estará orientada a propiciar una cultura que favorezca y coadyuve a crear un marco de libertad e igualdad entre las personas que integran la familia, eliminando las causas y patrones que generan y refuerzan la violencia familiar con el propósito de erradicarla, mediante la promoción de valores a través de la elaboración y ejecución de políticas públicas.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 27.
 
 Se establecen como políticas públicas de prevención las siguientes:
 
-I. Promoción del estudio e investigación de las causas y consecuencias de la violencia familiar, y en base a sus resultados, adoptar las medidas necesarias para su erradicación;
+I. Promoción del estudio e investigación de las causas y consecuencias de la violencia familiar, y con base en los resultados, adopción de las actuaciones necesarias para su erradicación;
 
-II. Impulso del proceso de modificación de patrones socio-culturales de conducta de hombres y mujeres impulsando la igualdad de condiciones entre los dos sexos, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y prácticas basadas en la supuesta superioridad o inferioridad de los géneros;
+II. Impulso del proceso de modificación de patrones socio-culturales de conducta de hombres y mujeres bajo la perspectiva de genero, incluyendo el diseño de programas de educación apropiados a todos los niveles, para contrarrestar prejuicios, costumbres y practicas basadas en la supuesta superioridad o inferioridad de los géneros;
 
-III. Impulso a la formación de promotores comunitarios cuya función básica sea estimular el programa para la atención y prevención de la violencia familiar;
+III. Impulso a la formación de promotores comunitarios cuya función básica sea estimular el programa parea (sic) la atención y prevención de la violencia familiar;
 
 IV. Promoción de estrategias de capacitación y difusión para el conocimiento, detección y prevención de la violencia familiar,
 
-V. Diseño de capacitación de los servidores públicos y de los organismos sociales que participen en la protección de las víctimas de la violencia familiar, a efecto de que su labor se sujete a los lineamientos de esta Ley, y
+V. Diseño de programas de capacitación para servidores públicos y de los organismos sociales que participen en la protección de las víctimas de la violencia familiar, a efecto de que su labor se sujete a los lineamientos de esta Ley, y
 
 VI. Elaboración de las estadísticas correspondientes que permitan conocer la diversa información que se pueda registrar en materia de Violencia Familiar.
 
@@ -365,6 +383,8 @@ La Procuraduría impondrá las sanciones previstas en el Capítulo VIII de la Le
 
 Las sanciones impuestas por la Procuraduría serán independientes de las previstas en el convenio respectivo.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTÍCULO 34.
 
 Las sanciones se determinarán tomando en cuenta los elementos siguientes:
@@ -373,7 +393,7 @@ I. La falta de interés para sujetarse al procedimiento conciliatorio;
 
 II. El incumplimiento al convenio establecido;
 
-III. Los daños que se hayan producido o puedan producirse en la salud de las víctimas de la violencia familiar;
+III. Los daños que se hayan producido o puedan producirse en la salud de las victimas de la violencia familiar;
 
 IV. Las condiciones personales y socioeconómicas del generador de la violencia familiar, y
 
@@ -472,3 +492,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
