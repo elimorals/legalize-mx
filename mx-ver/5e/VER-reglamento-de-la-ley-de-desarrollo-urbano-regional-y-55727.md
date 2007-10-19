@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-desarrollo-urbano-regional-y-55727"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2007-05-02"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de mayo de 2007.
 
@@ -71,7 +71,9 @@ IX. Instituto, al Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda
 
 X. Ley, a la Ley de Desarrollo Urbano, Regional y Vivienda para el Estado de Veracruz de Ignacio de la Llave.
 
-XI. Lote, a la fracción de terreno resultante de una autorización de fusión o división del suelo.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+XI. Lote, a la fracción de terreno resultante de una fusión o división del suelo.
 
 XII. Municipio, al respectivo gobierno municipal ante el cual se gestione, tramite o se lleve a cabo el procedimiento administrativo correspondiente.
 
@@ -113,9 +115,11 @@ La aplicación y vigilancia del cumplimiento de las disposiciones del presente R
 
 De la obligación de obtener autorizaciones.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 4.
 
-Toda acción que signifique la fusión o división del suelo, la construcción en, sobre o bajo la tierra, y cualquier cambio material en edificios existentes y en su uso, requerirán de la autorización previa y expresa de las autoridades estatales y municipales correspondientes, en los términos de la ley y su reglamentación.
+Toda acción que signifique la fusión o división del suelo, la construcción en, sobre o bajo la tierra, y cualquier cambio material en edificios existentes y en su uso, requerirán de la autorización previa y expresa de las autoridades estatales y municipales correspondientes, en los términos de la ley y su reglamentación, con excepción de la división, subdivisión y fusión del suelo que reúnan los requisitos mínimos de frente y superficie señalados por la ley, y en los que no se requiera el trazo de vías públicas, así como aquellas en las que las fracciones resultantes tengan su acceso a la vía pública a través de servidumbre de paso que se constituya en términos de lo que dispone el Código Civil; el Notario podrá consignarlas en instrumento público sin la autorización previa y expresa de las autoridades estatales y municipales correspondientes.
 
 Del carácter y propósitos de las autorizaciones.
 
@@ -189,19 +193,19 @@ Las tierras ejidales o comunales ubicadas en áreas no urbanizables quedan sujet
 
 De los documentos para acreditar la propiedad o posesión.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 11.
 
-Los documentos legales que los interesados podrán presentar para acreditar la propiedad en la obtención de las autorizaciones y dictámenes, serán: escrituras públicas o resoluciones judiciales o administrativas, inscritas en el Registro Público de la Propiedad y que contengan los datos de su inscripción. Tratándose de propiedad social, se podrá acreditar mediante los documentos idóneos reconocidos por la legislación agraria.
+Los documentos legales que los interesados podrán presentar para acreditar la propiedad en la obtención de las autorizaciones y dictámenes, serán: escrituras públicas, contratos privados o resoluciones judiciales o administrativas, inscritos en el Registro Público de la Propiedad y que contengan los datos de su inscripción. Tratándose de propiedad social, se podrá acreditar mediante los documentos idóneos reconocidos por la legislación agraria.
 
 De los cotejos.
 
 ###### Artículo 12.
 
-Para la obtención de autorizaciones y dictámenes, los solicitantes presentarán en original o copia certificada por fedatario público, los documentos legales que acrediten la propiedad de los predios o inmuebles de que se trate, su personalidad y la de sus representantes legales; y todos aquellos otros relacionados con los distintos trámites de que se trate. Las autoridades podrán admitir para su cotejo copia simple legible, sin tachaduras ni enmendaduras de dichos documentos originales o certificados, devolviendo éstos a su presentante.
+Para la obtención de autorizaciones y dictámenes, los solicitantes presentarán en original o copia certificada por notario público, los documentos legales que acrediten la propiedad de los predios o inmuebles de que se trate, su personalidad y la de sus representantes legales; y todos aquellos otros relacionados con los distintos trámites de que se trate. Las autoridades podrán admitir para su cotejo copia simple legible, sin tachaduras ni enmendaduras de dichos documentos originales o certificados, devolviendo éstos a su presentante.
 
-Los únicos facultados para autorizar con su firma los cotejos a que se refiere este artículo, serán lo (sic) titulares de las oficinas responsables de los trámites correspondientes.
-
-El cotejo de los documentos contendrá el lugar, la fecha, el nombre, la firma y el cargo del funcionario que coteja, el número del expediente al que se integra o, en su caso, el asunto de que se trate y el número de fojas cotejadas.
+> <small>(DEROGADO SEGUNDO Y TERCER PARRAFOS, G.O. 19 DE OCTUBRE DE 2007)</small>
 
 De las certificaciones.
 
@@ -1187,9 +1191,11 @@ VII. Los mecanismos e instrumentos financieros para la dotación de infraestruct
 
 De la declaratoria para la constitución de las reservas territoriales.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 62.
 
-La Declaratoria correspondiente para la constitución e incorporación de reservas territoriales, deberá contener:
+La Declaratoria correspondiente para la constitución e incorporación de reservas territoriales deberá ser inscrita en el Registro Público de la Propiedad, para que se pueda ejercer válidamente el derecho de preferencia a que se refiere el artículo 60 de esta Ley, y además deberá contener:
 
 I. Ubicación y superficie de las zonas comprendidas dentro de las reservas territoriales, definidas conforme a la normatividad expedida por Catastro del Estado, relativas a la georeferenciación y levantamientos topográficos, misma que estará integrada por:
 
@@ -1327,6 +1333,10 @@ II. Áreas urbanizables: son las previstas para el crecimiento de los centros de
 
 III. Áreas no urbanizables: son las áreas naturales protegidas; distritos de riego; zonas de recarga de mantos acuíferos; tierras de alto rendimiento agrícola, pecuario o forestal; derechos de vía; zonas arqueológicas y demás bienes del patrimonio histórico, artístico y cultural; los terrenos inundables y los que tengan riesgos previsibles de desastre; los que acusen fallas o fracturas en su estratificación geológica o que contengan galerías o túneles provenientes de laboreos mineros agotados o abandonados que no puedan rehabilitarse; las zonas de restricción que establezcan las autoridades competentes alrededor de los cráteres de volcanes y barrancas, así como los terrenos ubicados por encima de la cota que establezcan los organismos competentes para la dotación del servicio de agua potable; y las demás que como no urbanizables defina el plan de desarrollo urbano respectivo, en atención a políticas y estrategias de ordenación territorial y desarrollo urbano.
 
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+Para el conocimiento de dicha clasificación y el cumplimiento de las obligaciones inherentes consignadas en la Ley y en este Reglamento, el recibo del impuesto predial señalará la clasificación del suelo referida.
+
 De la fundación de centros de población.
 
 ###### Artículo 73.
@@ -1349,7 +1359,9 @@ II. Para las explotaciones agrícolas, forestales, pecuarias y mineras, así com
 
 III. Se permitirán igualmente los edificios e instalaciones definitivas o provisionales necesarias para los usos a que se refiere la fracción anterior, así como los indispensables para el aprovechamiento, mantenimiento y vigilancia de parques, áreas naturales protegidas o zonas de valor histórico, artístico y cultural o recreativas, siempre y cuando por sus dimensiones y características no impacten negativamente en su área de influencia.
 
-IV. Se permitirá la realización de subdivisiones, siempre y cuando se demuestre fehacientemente que no se aprovecharán con fines urbanos y cuenten con frente a vías públicas o frente a accesos que den a vías públicas.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+IV. Se permitirá la realización de subdivisiones, siempre y cuando se declare, bajo protesta de decir verdad, que no se aprovecharán con fines contrarios al programa de ordenamiento urbano correspondiente y cuenten con frente a vías públicas o acceso a las mismas mediante servidumbre de paso, en términos del Código Civil.
 
 V. Se permitirá una vivienda y sus instalaciones de apoyo por cada predio localizado en estas áreas, debiendo en todos los casos prevalecer el aprovechamiento del suelo en sus fines no urbanos y de conformidad con las disposiciones aplicables del programa de desarrollo regional y urbano correspondiente.
 
@@ -1363,7 +1375,9 @@ Las áreas ubicadas fuera de los límites de los centros de población con usos 
 
 I. Se permitirá la instalación de depósitos de combustible y de industrias de alto riesgo, en los términos que indique el respectivo dictamen de factibilidad regional, debiéndose prever un área de amortiguamiento en la que no se permitirá ningún tipo de construcción.
 
-II. Se permitirá la realización de subdivisiones, siempre y cuando se demuestre fehacientemente que no se aprovecharán con fines urbanos y cuenten con frente a vías públicas o frente a accesos que den a vías públicas.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+II. Se permitirá la realización de subdivisiones, siempre y cuando se declare, bajo protesta de decir verdad, que no se aprovecharán con fines contrarios al programa de ordenamiento urbano correspondiente y cuenten con frente a vías públicas o acceso a las mismas mediante servidumbre de paso, en términos del Código Civil.
 
 III. Se podrá autorizar la ejecución de conjuntos habitacionales campestres.
 
@@ -2859,17 +2873,25 @@ A quien habiendo obtenido la autorización para llevar a cabo un fraccionamiento
 
 De la subdivisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 133.
 
-Para los efectos de este Reglamento, subdivisión de predios es la partición de un terreno en dos o más fracciones que no requieran el trazo de vías públicas; en su caso puede generar servidumbre de paso con un ancho mínimo de tres metros, cuando el predio dominante no tenga acceso por vía pública.
+Para los efectos de este Reglamento, subdivisión de predios es la partición de un terreno en dos o más fracciones que no requieran el trazo de vías públicas; en su caso puede generar servidumbre de paso, cuando el predio dominante no tenga acceso por vía pública.
 
 En el caso de que exista un programa de desarrollo regional y urbano aplicable o una normatividad específica, debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
 
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+No se requiere autorización para las subdivisiones, cuando se trate de predios rústicos y en caso de predios ubicados en zonas urbanas o urbanizables, cuando la fracción resultante tenga frente a vía pública o servidumbre de paso legalmente constituida, en términos del Código Civil, y se cumpla con la superficie de lote que arroje la densidad que para la zona señale la ley o los programas aplicables.
+
 De las atribuciones del Instituto para autorizar subdivisiones.
+
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 134.
 
-Cuando no exista un programa de desarrollo regional y urbano vigente, se requerirá la autorización del Instituto para llevar a cabo la subdivisión de predios, cualquiera que sea su condición urbana o rural.
+Cuando no exista un programa de desarrollo regional y urbano vigente, se requerirá la autorización del Instituto para llevar a cabo la subdivisión de predios, salvo los casos de excepción.
 
 De los servicios públicos municipales mínimos que deberán reunir las vías publicas para la subdivisión de predios.
 
@@ -2881,9 +2903,11 @@ En caso de que la vía pública no cuente con estos servicios, el interesado est
 
 De las obligaciones en subdivisiones mayores de 10,000 metros cuadrados.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 136.
 
-Los titulares de predios mayores de 10,000 metros cuadrados de superficie que lleven a cabo su subdivisión, estarán obligados a ceder áreas de donación al estado y al municipio y ejecutar obras de equipamiento urbano, así como a garantizarlas, en forma proporcional a los usos que se tengan previstos, de acuerdo a las normas que para los fraccionamientos se establecen en este Reglamento.
+Los titulares de predios urbanos o urbanizables mayores de 10,000 metros cuadrados de superficie que lleven a cabo su subdivisión, estarán obligados a ceder áreas de donación al estado y al municipio y ejecutar obras de equipamiento urbano, así como a garantizarlas, en forma proporcional a los usos que se tengan previstos, de acuerdo a las normas que para los fraccionamientos se establecen en este Reglamento.
 
 De la exención de obligaciones en subdivisiones mayores de 10,000 metros cuadrados.
 
@@ -2903,7 +2927,9 @@ V. El predio a subdividir se ubique en áreas no urbanizables.
 
 VI. El predio sea afectado por límites estatales o municipales.
 
-VII. Se ejecute una resolución judicial que determine el embargo de predios o inmuebles.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+VII. Se ejecute una resolución judisdiccional que determine la adjudicación de inmuebles.
 
 VIII. La subdivisión obedezca a causas de utilidad pública y beneficio social.
 
@@ -2967,7 +2993,7 @@ D) Información gráfica y estadística, que constará en la solapa del plano:
 
 IV. Certificación de la escritura de propiedad por el Registro Público de la Propiedad y en caso de contar con ventas anteriores, presentar Certificado de notas marginales, con fecha que no exceda de 15 días de haber sido emitida.
 
-V. Certificado de libertad de gravámenes y, en caso de que el predio a subdividir presente gravamen, la anuencia por escrito del acreedor, quien acreditará su personalidad.
+V. (DEROGADA, G.O. 19 DE OCTUBRE DE 2007)
 
 VI. Documento emitido por autoridad competente que acredite que el predio materia de subdivisión cuenta al menos con los servicios públicos de agua potable, drenaje y energía eléctrica para el total de viviendas o lotes resultantes o, en su caso, convenio para la realización de éstos, celebrado con la autoridad correspondiente.
 
@@ -3101,9 +3127,11 @@ I. Documento inscrito en el Registro Público de la Propiedad, que acredite la p
 
 II. Constancia de zonificación, así como autorización de alineamiento y número oficial, cuando aquélla no lo contenga, excepto cuando se trate de lotes provenientes de fraccionamientos, subdivisiones o renotificaciones autorizados.
 
-III. Certificado de libertad de gravámenes.
+III. (DEROGADA, G.O. 19 DE OCTUBRE DE 2007)
 
-IV. Resolución de apeo y deslinde catastral o judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean menores a las contenidas en el documento con el que se acredite la propiedad; y resolución de apeo y deslinde judicial inscrita en el Registro Público de la Propiedad, cuando las medidas y superficies reales del predio sean mayores a las contenidas en dicho documento.
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+IV. Resolución de apeo y deslinde.
 
 V. Plano que contenga:
 
@@ -3130,6 +3158,10 @@ D) Información gráfica y estadística, que constará en la solapa del plano:
 - Nombre, cargo y firma del funcionario que autoriza.
 
 Cuando se trate de fusiones de predios en áreas no urbanizables o en áreas fuera de los límites de los centros de población, no se requerirá de la autorización de alineamiento y número oficial.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+No se requerirá permiso para las fusiones de predios que tengan el mismo uso o destino del suelo.
 
 Del procedimiento de autorización.
 
@@ -3693,7 +3725,9 @@ De la opinión técnica de aprovechamiento.
 
 Para efectos de informar y orientar a los particulares de la potencialidad de un predio con respecto a la normatividad contenida en los programas municipales de desarrollo urbano, a petición expresa de los interesados, el Instituto podrá emitir opiniones técnicas para indicar usos del suelo, densidades, intensidades máximas de aprovechamiento u ocupación del suelo y las restricciones aplicables a un determinado predio o inmueble.
 
-Para su obtención, se deberá presentar solicitud acompañada del Título de propiedad, preferentemente, o del contrato de promesa de compraventa debidamente legalizado, además del croquis de localización del predio o inmueble; se indicará el tipo de desarrollo y densidad pretendida. El Instituto emitirá la opinión técnica dentro de los 5 días siguientes a la fecha de recepción de la solicitud.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2007)</small>
+
+Para su obtención, se deberá presentar solicitud acompañada del Título de propiedad o posesión, además del croquis de localización del predio o inmueble; se indicará el tipo de desarrollo y densidad pretendida. El Instituto emitirá la opinión técnica dentro de los 5 días siguientes a la fecha de recepción de la solicitud.
 
 ## TÍTULO DÉCIMO. DE LA APERTURA DE VÍAS PÚBLICAS
 
@@ -4118,3 +4152,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 19 DE OCTUBRE DE 2007.
+
+Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
