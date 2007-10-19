@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-08-31"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -253,9 +253,17 @@ El procedimiento civil, salvo disposición en contrario, sólo se suspenderá en
 
 II.- Cuando el mismo u otro Juez deban resolver una controversia civil cuya definición sea previa a la decisión del juicio. Este podrá suspenderse total o parcialmente, según afecte la controversia todo o parte del fondo del negocio;
 
-III.- A petición de todas las partes interesadas, siempre que no se afecten derechos de tercero, y por un período que en ningún caso exceda de dos meses; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-IV.- En los demás casos en que la Ley lo determine.
+III.- A petición de todas las partes interesadas, siempre que no se afecten derechos de tercero, y por un período que en ningún caso exceda de dos meses;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+IV.- Cuando una de las partes interesadas o ambas, siempre que no se afecte el interés público o de terceros, solicite al Juzgador la mediación y conciliación hasta antes de la citación a sentencia, suspendiéndose el procedimiento por un periodo de dos meses en los términos previstos por la Ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+V.- En los demás casos en que la Ley lo determine.
 
 La suspensión se hará constar a petición de parte o de oficio y la reanudación del procedimiento una vez que cese la causa que motivó la suspensión, será ordenada por auto del Juez.
 
@@ -805,11 +813,15 @@ V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1987)</small>
 
-VI.- Las sentencias definitivas; y
+VI.- Las sentencias definitivas; y (sic)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-VII.- En los demás casos que la Ley lo disponga.
+VII.- La reconvención opuesta por la parte demandada; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VIII.- En los demás casos que la ley disponga.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -831,7 +843,9 @@ b).- Tratándose de personas morales, asociaciones, agrupaciones, instituciones 
 
 II.- El emplazamiento deberá hacerse en el domicilio que señale la parte que lo pide, que deberá ser precisamente el lugar en que habita el emplazado, si es persona física, y si se trata de persona jurídica en el domicilio social, y en sus oficinas o principal establecimiento de sus negocios, salvo que se trate de establecimientos o sucursales, en que lo será el del lugar de tales establecimientos o sucursales, si cuentan con representante facultado para comparecer en juicio, si se trata de negocios realizados por o con intervención de estos. El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona de que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarla, comprobar su personalidad en caso de representación y demás particulares;
 
-III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. Tratándose de arrendamiento o desahucio de vivienda o departamento, la cédula no podrá dejarse con personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que la recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el Juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no esté presente; en los demás casos deberá hacerse personal y directamente;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente, y se fijará atendiendo a las reglas de la lógica, tomando en consideración las circunstancias que se hayan manifestado para garantizar que el interesado tenga conocimiento real y efectivo del citatorio, además en el citatorio se fijará la persona a quien va dirigido, la diligencia a practicar, órgano judicial que lo emite, y los términos precisos del apercibimiento, para el caso que el interesado no atienda el citatorio, debiendo integrar la copia del mismo y levantar la razón del citatorio al momento de la diligencia. En caso de que no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. Tratándose de arrendamiento o desahucio de vivienda o departamento, la cédula no podrá dejarse con las personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que se le recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón de la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no esté presente; en los demás casos deberá hacerse personal y directamente;
 
 IV.- Cuando la persona a quien deba emplazarse no radique en el lugar del juicio, pero sí dentro del mismo distrito judicial, se aplicará lo dispuesto por los Artículos 105 y 106 de este Código. Si se halla en otro partido distinto o fuera del Estado pero dentro de la República, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el Capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del Juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto, bastando que así lo pida la parte interesada ante el Juez exhortado;
 
@@ -1425,9 +1439,9 @@ ART. 188.- En el incidente de recusación son admisibles todos los medios de pru
 
 ART. 189.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ART. 190.- Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de un salario mínimo, si se tratare de un Juez de Paz, hasta de diez veces el salario mínimo, si fuere un Juez de lo Civil; y hasta de veinte veces el salario mínimo si fuere un Magistrado. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
+ART. 190.- Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de diez salarios mínimos, si se tratare de un Juez de Paz; y hasta de veinte veces el salario mínimo, si fuere un Juez de lo Civil; y hasta de treinta veces el salario mínimo si fuere un Magistrado. La multa será a beneficio del Fondo para el Mejoramiento de la Administración de Justicia.
 
 No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
 
@@ -1863,7 +1877,9 @@ EXCEPCIONES DILATORIAS
 
 ART. 263.- Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se substanciarán, dejando en suspenso el principal. Resueltas que sean, continuarán en su caso el curso del juicio.
 
-La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, quien deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. En los incidentes en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+La declinatoria de jurisdicción se propondrá ante el Juez pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá desde luego los autos a su inmediato superior, dará vista a los interesados para que en un término de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes, resolverá la cuestión y mandará sin retardo los autos al Juez que estime competente, quien deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. En los incidentes en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1891,9 +1907,9 @@ Si el juez encontrare que el emplazamiento no se hizo correctamente, mandará re
 
 Se presumirán confesados los hechos de la demanda que se deje de contestar, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ART. 268.- El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días.
+ART. 268.- El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de nueve días.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -1911,17 +1927,25 @@ ART. 271. Queda abolida la práctica de oponer excepciones o defensas contradict
 
 ART. 272.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos, que podrán ser escritos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ART. 272 BIS.- Es deber del juez conciliar a las partes, durante cualquier etapa del procedimiento, hasta antes de citación a sentencia.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+En los juicios ordinarios civil, se realizará una audiencia conciliatoria obligatoria, la cual será desahogada oralmente en forma previa a la audiencia de pruebas y alegatos, o bien, dentro de la primera audiencia de desahogo de pruebas que se hayan ofrecido por escrito.
+
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2002)</small>
-
-ART. 272 BIS.- Es deber del juez conciliar a las partes, cuando éstas acudan al juzgado durante el desahogo de las pruebas, o bien, durante cualquier etapa del procedimiento.
-
-En los juicios ordinarios civil, se realizará una audiencia conciliatoria obligatoria, la cual será desahogada oralmente dentro de la audiencia de pruebas y alegatos, o bien, dentro de la primera audiencia de desahogo de pruebas que se hallan ofrecido por escrito.
 
 Es obligación del juez citar a las partes para que asistan a dicha audiencia de conciliación en forma personal y no por conducto de apoderado. El juez sin prejuzgar sobre el fondo del negocio, propondrá a las partes alternativas de solución al litigio, con el objeto de que diriman sus diferencias mediante convenio judicial, con el que pueda terminar la controversia y poner fin al procedimiento.
 
-De convenir las partes, el juez resolverá sobre la procedencia judicial de dicho convenio, para en su caso, elevarlo a la categoría de cosa juzgada. Caso contrario, se dará seguimiento normal al procedimiento, de conformidad a las disposiciones previstas en el primer párrafo del Artículo 273 de este Código.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-Para el cumplimiento de sus determinaciones, el juez podrá aplicar los medios de apremio establecidos en las fracciones I, II y IV del Artículo 73 de este Código, cuando una o ambas partes dejaran de concurrir sin causa justificada al seguimiento de dicho procedimiento.
+De convenir las partes, una vez que se haya redactado el convenio respectivo se le dará vista del mismo a sus apoderados para que afinen sus términos, luego entonces el juez resolverá sobre la procedencia judicial de dicho convenio, para en su caso, elevarlo a la categoría de cosa juzgada. Caso contrario, se dará seguimiento normal al procedimiento, de conformidad a las disposiciones previstas en el primer párrafo del Artículo 273 de este Código.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Para el cumplimiento de sus determinaciones, el juez podrá aplicar los medios de apremio establecidos en las fracciones I, II y IV del Artículo 73 de este Código, cuando una o ambas partes o sus apoderados dejaran de concurrir sin causa justificada al seguimiento de dicho procedimiento.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2071,7 +2095,7 @@ ART. 294.- Al día siguiente en que termine el período del ofrecimiento de prue
 
 ### CAPITULO IV. De la recepción y práctica de las pruebas
 
-(RREFORMADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 295.- El Juez queda facultado al admitir las pruebas ofrecidas para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes la hubieren propuesto con anterioridad.
 
@@ -2448,6 +2472,34 @@ ART. 347.- En caso de ser desechada la recusación, se impondrá al recusante un
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 348.- El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ART. 348 BIS.- En las acciones de investigación de paternidad o maternidad, cuando estas se nieguen o se ponga en duda las mismas, podrá pedirse y decretarse la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, también denominada ADN que se practicará conforme a las siguientes reglas:
+
+I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado.
+
+II.- El Juez con la presencia de las partes interesadas, sus representantes legales, del Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores e (sic) Dieciocho Años de Edad y la Familia en su caso, y del perito designado, presidirá la diligencia en la cual se tomarán las muestras físicas del presunto progenitor.
+
+En caso de que el presunto progenitor sin causa justificada no comparezca a la diligencia para la práctica de la prueba o se niegue expresamente a proporcionar las muestras necesarias para su práctica, se presumirá la filiación, salvo prueba en contrario.
+
+III.- El dictamen que rinda el perito responsable, deberá contener lo siguiente:
+
+a).- El señalamiento de las cuestiones que fueron materia de la pericia (sic).
+
+b).- Una relación detallada y explicativa de las operaciones o experimentos realizados para resolver las cuestiones periciales, señalando la fecha en que se produjeron y,
+
+c).- Las conclusiones o resultados obtenidos, especificando los principios de la ciencia, arte o técnica que sirvieron de apoyo,
+
+Si faltare alguno de estos requisitos, el dictamen carecerá de valor probatorio.
+
+IV.- Rendido y ratificado el dictamen en los términos de esta Ley, se pondrá a la vista de las partes y demás interesados para su observación y en su caso impugnación.
+
+V.- Los honorarios del perito serán cubiertos por la parte que ofreció la prueba.
+
+El valor de la prueba será plena, siempre y cuando concurran las condiciones antes señaladas y las observaciones o impugnaciones que en su caso se hicieron no estén justificadas a criterio del Juez.
+
+Serán aplicables a esta prueba, en lo conducente las reglas generales de la prueba pericial.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3364,6 +3416,10 @@ Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencid
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 476.- Presentada la demanda con el documento o la justificación correspondiente, dictará auto el Juez mandando requerir al inquilino, para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación; dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa días si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. Si lo pidiere el actor, en el mismo auto, mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. Mandará que en el mismo acto se le emplace para que dentro de cinco días ocurra a oponer las excepciones que tuviere, corriéndole traslado de la demanda, con entrega de las copias de Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+El emplazamiento en el juicio de desahucio solo se apegara a las reglas del artículo subsiguiente.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4535,7 +4591,9 @@ I.- Las sentencias definitivas en toda clase de juicios, excepto cuando la Ley d
 
 II.- Las sentencias interlocutorias, excepto cuando por disposición de la Ley no se otorgue a las partes el recurso o la sentencia definitiva no fuere apelable;
 
-III.- Los autos, cuando expresamente lo disponga este Código; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+III.- Los autos, cuando expresamente lo disponga este código y también lo fuera la sentencia definitiva, y
 
 IV.- Las sentencias que se dicten con el carácter de provisionales en procedimientos precautorios, sin perjuicio de que en los casos en que proceda, se reclame la providencia ante el mismo Juez o se levante por éste.
 
@@ -4579,9 +4637,11 @@ ART. 682.- De las sentencias interlocutorias con fuerza de definitivas, que no p
 
 Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, prudencialmente, el importe de los daños y perjuicios, que no bajarán de mil pesos ni podrán exceder de cinco mil, además de lo que importen las costas.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ART. 683.- Si la apelación procediera en el solo efecto devolutivo, solo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente, las constancias que deban integrarlo, que se adicionará con las que en la misma forma y dentro de tres días señale el colitigante. En todo caso, el Juez determinará las constancias estrictamente necesarias para el conocimiento de la apelación. Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso, a no ser que el apelante manifieste que prefiere esperar el envío de los autos originales cuando estén en estado.
+ART. 683.- Si la apelación procediera en el solo efecto devolutivo, solo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no geréricamente (sic) las constancias que deban de integrarlo, que se adicionará con las que en la misma forma y dentro de tres días señale el colitigante. En todo caso, el juez determinará las constancias estrictamente necesarias para el conocimiento de la apelación, mismas que si el recurrente omite hacer el señalamiento en la forma prescrita, se le requerirá para que lo subsane en tres días y de no hacerlo se le tendrá por no interpuesto el recurso, a no ser que el apelante manifieste que prefiere esperar el envío de los autos originales cuando estén en estado.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 Al recibirse las constancias ante el superior, si se ha dejado de actuar por más de tres meses, se notificará personalmente a las partes para que comparezcan ante dicho Tribunal.
 
@@ -4739,7 +4799,7 @@ ART. 714.- La responsabilidad civil en que puedan incurrir jueces y magistrados 
 
 ART. 715.- No podrá promoverse demanda de responsabilidad civil, sino hasta que queda determinado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 716.- Cuando la demanda se dirija contra un Juez de Paz, cualquiera que sea su cuantía, conocerá de ella el Juez de Primera Instancia a que aquél corresponda. Contra la sentencia que éste pronuncie, procederá la apelación en ambos efectos para ante el tribunal superior, si el juicio por su cuantía fuere apelable.
 
@@ -6021,7 +6081,9 @@ IV.- La constancia de la exposición o del tiempo de abandono para los efectos d
 
 V.- Tratándose de extranjeros, además de lo previsto con antelación, deberán acompañar los documentos que acrediten su legal estancia o residencia en México y autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción; certificado la idoneidad para adoptar expedido por la autoridad competente de su país de origen y constancia de que la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho, que se pretende adoptar ha sido autorizado para entrar y rescindir permanentemente en el.
 
-La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+La solicitud de adopción a que se refiere este artículo deberá ser suscrita en forma personal por el interesado, debiendo el Juez ordenar la ratificación de la misma, en su presencia, y con la intervención del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia y del Ministerio Público adscrito al Juzgado Familiar, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado o representante legal del interesado.
 
 (REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6167,9 +6229,9 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+ART. 926.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad y de alimentos, decretando las medidas proporcionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, debiendo razonar y sustentar la medida decretada.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6187,11 +6249,21 @@ III.- La asistencia de las partes deberá ser obligatoria y en forma personal y 
 
 IV.- En la audiencia, el Juez, sin prejuzgar sobre el fondo del negocio, hará una exhortación a las partes para que procuren llegar a un acuerdo conciliatorio;
 
-V.- Si el Juez logra avenir a las partes, se celebrará un convenio, que aprobado producirá los efectos jurídicos inherentes a una sentencia ejecutoriada;
+> <small>(REFORMADA, P.O. 19 E OCTUBRE DE 2007)</small>
 
-VI.- El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables o contravenir normas de orden público; y
+V.- Si el Juez logra avenir a las partes, se celebrará un convenio;
 
-VII.- Si el Juez no logra avenir a las partes, continuará con la siguiente etapa del procedimiento.
+> <small>(REFORMADA, P.O. 19 E OCTUBRE DE 2007)</small>
+
+VI.- Celebrado el convenio se le dará vista a los apoderados de las partes para que afinen los términos del mismo, luego será aprobado por el Juez y producirá los efectos jurídicos inherentes a una sentencia ejecutoriada;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VII.- El convenio, para ser aprobado, no deberá lesionar los derechos que conforme a la Ley son irrenunciables a contravenir normas de orden público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VIII.- Si el Juez no logra avenir a las partes, continuará con la siguiente etapa del procedimiento.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6758,3 +6830,39 @@ P.O. 31 DE AGOSTO DE 2007.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procesos que se hayan iniciado anterior a la vigencia de la presente reforma, seguirán desarrollándose conforme a las normas jurídicas vigentes al momento de la presentación de la demanda de divorcio.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 409
+
+ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 422
+
+ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 423
+
+ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 426
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 427
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 428
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
