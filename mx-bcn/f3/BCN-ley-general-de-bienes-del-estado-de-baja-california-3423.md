@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2005-07-22"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -377,7 +377,9 @@ De igual manera se faculta al Ejecutivo del Estado para enajenar a título gratu
 
 En el acuerdo respectivo se fijará el plazo dentro del cual deberá ser destinado el bien al objeto previsto. En su defecto, se entenderá que el plazo es de dos años.
 
-Si el Municipio, asociación o institución no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras revertirán en favor del Gobierno Estatal. Las condiciones a que se refiere este Artículo se insertarán en la escritura de enajenación respectiva.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Si el Municipio, asociación o institución privada, las instituciones y/o dependencias de la administración pública federal, no utilizaren el bien en el fin señalado, dentro del plazo previsto, o si habiéndolo hecho, dieren al inmueble un uso distinto, sin contar con previa autorización del Gobernador del Estado, tanto el bien como sus mejoras se revertirían a favor del Gobierno de Estatal. Las condiciones a que se refiere este artículo se insertarán en la escritura de enajenación respectiva.
 
 ###### ARTICULO 37.
 
@@ -598,5 +600,9 @@ Las solicitudes de desincorporación de bienes que se encuentre (sic) en trámit
 Los contratos de comodato que se encuentre (sic) vigentes al momento de la publicación de las presente reformas, se regirán hasta su terminación por las normas vigentes al momento de su celebración.
 
 P.O. 22 DE JULIO DE 2005.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
