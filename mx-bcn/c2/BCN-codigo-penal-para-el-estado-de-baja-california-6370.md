@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-09-14"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -469,15 +469,21 @@ Obligación del reo al pago de la reparación del daño.- Si no alcanza a cubrir
 
 Plazos para el pago de la reparación del daño.- La autoridad judicial tomando en cuenta la situación económica del obligado y a petición de parte interesada, podrá fijar plazos para el pago de la reparación del daño, siempre y cuando no excedan de seis meses y se garantice suficientemente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 43.
 
-Reparación del daño moral.- La reparación del daño moral será fijada a prudente arbitrio del Tribunal, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el salario mínimo vigente en el lugar en que resida; para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
+Reparación del daño moral.- La reparación del daño moral será fijada por los Jueces, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el salario mínimo vigente en el lugar en que resida; para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la victima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
 
-En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
 
@@ -498,6 +504,8 @@ VII.- Secuestro.
 VIII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
 
 IX.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Para efectos de este Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
 
@@ -593,7 +601,9 @@ Catálogo y clases de medidas.- Las medidas de seguridad que se pueden imponer c
 
 I.- Tratamiento en internamiento o en libertad de inimputables o de imputables disminuídos;
 
-II.- Deshabituación;
+> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
+
+II.- Tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos;
 
 III.- Prohibición de ir a circunscripción territorial determinada o de residir en ella;
 
@@ -605,7 +615,9 @@ VI.- Amonestación; y
 
 VII.- Las demás que prevengan las leyes.
 
-### CAPITULO III. DESHABITUACION
+### CAPITULO III. TRATAMIENTO PARA DEPENDIENTES A LAS BEBIDAS ALCOHÓLICAS, ESTUPEFACIENTES Y PSICOTRÓPICOS
+
+> <small>(REFORMADO, P.O 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 56.
 
@@ -627,11 +639,13 @@ Modificación o conclusión de la medida.- La autoridad ejecutora podrá resolve
 
 Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúe necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
 
+> <small>(REFORMADA SU DENOMINACION, P.O 19 DE OCTUBRE DE 2007)</small>
+
 ### CAPITULO IV. PROHIBICION DE IR A CIRCUNSCRIPCION DETERMINADA O DE RESIDIR EN ELLA
 
 ###### Artículo 60.
 
-Tratamiento de deshabituación o de desintoxicación.- Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o al abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará un tratamiento de deshabituación o desintoxicación, según el caso, que no podrá exceder del término de la pena impuesta por el delito cometido. Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
+Tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos.- Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o al abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará un tratamiento de deshabituación o desintoxicación, según el caso, que no podrá exceder del término de la pena impuesta por el delito cometido. Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
 
 ### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
@@ -747,9 +761,7 @@ No se tomará en consideración lo dispuesto en el párrafo anterior en caso de 
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
-###### Artículo 72
-
-BIS.- Habitualidad e individualización penal.- La habitualidad será tomada en cuenta para la individualización judicial de la pena, e implicará el no otorgamiento de los beneficios que la Ley prevea. En caso de habitualidad, el juzgador impondrá preferentemente los límites máximos señalados para cada delito.
+Artículo 72 BIS.- Habitualidad e individualización penal.- La habitualidad será tomada en cuenta para la individualización judicial de la pena, e implicará el no otorgamiento de los beneficios que la Ley prevea. En caso de habitualidad, el juzgador impondrá preferentemente los límites máximos señalados para cada delito.
 
 Para los efectos de este código, hay habitualidad cuando, quien habiendo sido condenado por diversas sentencias ejecutorias dictadas por cualquier Tribunal de la República o del extranjero es condenado nuevamente por un tercero ó más delitos dolosos. La condena dictada en una Entidad Federativa o en el Extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este código o en otra Ley del Estado.
 
@@ -921,9 +933,15 @@ II.- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin 
 
 III.- Asegurar que desarrollará una ocupación lícita dentro del plazo que se le fije, y que se abstendrá de causar molestias al ofendido o a sus familiares;
 
-IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y
+IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y (sic)
 
-V.- Pagar o garantizar la reparación de los daños y perjuicios causados.
+> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
+
+V.- Cumplir con las modalidades que le imponga el tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos apercibido respecto de su incumplimiento;
+
+((REFORMADA [N. DE E. ADICIONADA], P.O 19 DE OCTUBRE DE 2007)
+
+VI.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
 ###### Artículo 94.
 
@@ -1033,7 +1051,11 @@ V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios di
 
 Extinción por perdón del ofendido.- El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de dictarse sentencia de segunda instancia y el imputado no se oponga a su otorgamiento, una vez otorgado el perdón, éste no podrá revocarse.
 
-También extinguen la pretensión punitiva, los convenios judiciales celebrados entre el ofendido y el procesado, sancionados por el Juez Penal de la causa, en los delitos mencionados en el párrafo anterior.
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMA.</small>
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+También extinguen la pretensión punitiva, los convenios judiciales celebrados entre el ofendido y el procesado, sancionados por el Juez Penal de la causa, así como aquellos derivados de la intervención de un mediador o conciliador en los términos de las disposiciones legales aplicables, en los delitos mencionados en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -1423,15 +1445,17 @@ Omisión de auxilio.- Al que omita prestar auxilio a un menor expósito o abando
 
 La misma pena se impondrá a quien no estando en condiciones de prestar el auxilio, no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 158.
 
-Omisión de cuidado.- Al, que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla y con ello ponga en situación de peligro su integridad física y moral, se le aplicará prisión de uno a cuatro años, y se le privará del derecho de ejercer la patria potestad o tutela si el agente fuere ascendiente o tutor del ofendido.
+Al que abandone a una persona incapaz de valerse por si misma, teniendo la obligación de cuidarla se le impondrá prisión de seis meses a dos años y se le privará del derecho de ejercer la patria potestad o tutela si el agente fuera ascendiente o tutor del ofendido.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+Si del abandono se pone en situación de peligro la integridad física y moral del abandonado la pena se aumentará de uno a cuatro años de prisión, y si resultare algún otro delito, se aplicarán las reglas de la acumulación.
 
-Si del abandono resultare algún otro delito, se aplicarán las reglas de la acumulación.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Artículo 158 BIS.- Al que exponga a una persona incapaz de valerse por si misma, teniendo la obligación de cuidarla, se le impondrá una pena de uno a cuatro años de prisión y hasta cien días de multa. Si el responsable es ascendiente o tutor, además, perderá los derechos que tenga sobre la persona y bienes del menor.
 
 ###### Artículo 159.
 
@@ -1511,9 +1535,7 @@ Artículo 175 BIS.- A quien sin autorización o indebidamente, modifique, destru
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 175 Ter.
-
-A quien sin autorización o indebidamente, copie o accese a información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y multa equivalente de cincuenta a ciento cincuenta días de salario mínimo vigente.
+Artículo 175 TER.- A quien sin autorización o indebidamente, copie o accese a información contenida en sistemas o equipos de informática protegidos por algún mecanismo de seguridad, se le impondrán de tres meses a un año de prisión y multa equivalente de cincuenta a ciento cincuenta días de salario mínimo vigente.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1537,9 +1559,7 @@ III.- Causar daño o perjuicio al secuestrado o a persona distinta relacionado c
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-###### Artículo 164
-
-BIS.- Secuestro equiparado.- Se equipara al secuestro y se castigará de siete a quince años de prisión y hasta trescientos días multa a quien:
+Artículo 164 BIS.- Secuestro equiparado.- Se equipara al secuestro y se castigará de siete a quince años de prisión y hasta trescientos días multa a quien:
 
 I.- Secuestro express.- Prive de la libertad a otro y lo persuada u obligue de cualquier modo a realizar directa o indirectamente retiro de dinero en cajeros electrónicos u operaciones o transacciones bancarias, mercantiles, civiles o cualquier otra que produzca liberaciones de obligaciones, obtenga o no el beneficio.
 
@@ -1573,9 +1593,7 @@ V.- Que la víctima sea menor de edad o mayor de sesenta años de edad, o que po
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-###### Artículo 165
-
-BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164, 164 BIS y 165 de este Código y fuera de las causas de exclusión del delito:
+Artículo 165 BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164, 164 BIS y 165 de este Código y fuera de las causas de exclusión del delito:
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -1654,6 +1672,14 @@ Si el amenazador cumple su amenaza se acumulará la sanción de ésta y la del d
 ### CAPITULO IV. HOSTIGAMIENTO SEXUAL
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
+Artículo 184 BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su 'posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
+
+Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+
+Solo se procederá contra el hostigador, a petición de la parte ofendida.
+
+Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 ### CAPITULO I. DIFAMACION
 
@@ -2051,7 +2077,9 @@ V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, co
 
 VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y, (sic)
 
-VII.- Cuando se cometan por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VII.- Cuando se cometa por los empleados, obreros, artesanos, aprendices o discípulos, en la casa, taller, escuela, empresa o negociación en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -2403,11 +2431,11 @@ V.- Montes, bosques, pastos, o cultivos de cualquier género.
 
 Acumulación.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de la acumulación.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 231.
 
-Daño culposo.- También es punible el daño culposo, pero solo se perseguirá a querella de parte, a no ser que se trate de daños producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier substancia de efectos similares.
+Querella.- Los daños en propiedad ajena se perseguirán por querella de parte ofendida, con excepción de los causados por las conductas previstas en el artículo 228 Ter; las agravadas establecidas en el artículo 229 y los producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier sustancia de efectos similares previstas en los artículos 255 y 256 de este Código, cuya persecución será de manera oficiosa.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2492,6 +2520,26 @@ Tipo y punibilidad.- Al que sin tener relación familiar o de parentesco sustrai
 Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la prisión será de uno a tres años.
 
 Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Artículo 237 BIS.- Al padre o la madre que sustraiga a su hijo menor de doce años de edad o incapaz, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, se le impondrá una pena de uno a tres años de prisión y multa de cien a quinientos salarios mínimos.
+
+Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas señaladas.
+
+Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Artículo 237 TER.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que retenga a su hijo menor de doce años de edad o incapaz, con el fin de:
+
+I.- Impedir que el otro ascendiente ejerza el derecho a convivir con su hijo menor de edad o incapaz en los términos decretado por resolución o convenio judicial.
+
+II.- Impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
+
+Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+
+Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -2607,17 +2655,21 @@ I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas e
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 246.
 
-Punibilidad.- Se aplicará de seis meses a cinco años de prisión y hasta cien días multa:
+Punibilidad.- Se aplicará de un mes a tres años de prisión y hasta cien días multa;
 
 I.- Al que porte un arma de las señaladas en el artículo anterior.
 
 II.- Al que sin un fin lícito o sin el permiso correspondiente, hiciere acopio de las armas señaladas en el artículo anterior, y al que las importe, fabrique, regale o venda.
 
 En todos los casos incluidos en este artículo, además de las sanciones señaladas, se decomisarán las armas.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Artículo 246 BIS.- Excluyente de pretensión punitiva.- Será causa de excluyente de pretensión punitiva, el que el portador compruebe fehacientemente que los instrumentos, herramientas o utensilios comprendidos en el artículo 245, sean utilizados en las labores domésticas, del campo o en cualquier oficio, profesión o actividad deportiva, pero su uso deberá limitarse al local, ruta o área en que su poseedor se aboque o desempeñe tales actividades.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -2670,6 +2722,12 @@ Tipo y punibilidad.- Se sancionará con prisión hasta de seis meses a nueve añ
 El Juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las demás circunstancias mencionadas en el artículo 19 de este Código.
 
 Lo dispuesto en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de Leyes especiales y de que en los términos del artículo 247 de este Código se sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actores antes mencionados.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Artículo 250 BIS.- Del delito de lesividad social.- Se impondrá una pena de tres meses a tres años de prisión y multa de mil a tres mil veces el salario mínimo vigente en el Estado, a la persona que sin contar con el permiso correspondiente o alterando los términos y condiciones que se contengan en él, venda, almacene para su venta, o proporcione bebidas alcohólicas para su consumo o permita que se realicen estas actividades, en la vía pública o en un establecimiento o casa habitación de su posesión o respecto de la cual se conduzca como poseedor, con fines de lucro.
+
+La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieciocho años de edad.
 
 ### CAPITULO I. REBELION
 
@@ -3353,7 +3411,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 306.
 
@@ -3579,7 +3637,11 @@ Evasión culposa.- También es punible la comisión culposa de la evasión de pr
 
 ###### Artículo 332.
 
-Exclusión condicionada al quebrantamiento.- A quien quebrante la pena o medida de seguridad que se le hubiere impuesto, se le aplicará multa administrativa de cincuenta veces el salario mínimo; y en caso de que para el quebrantamiento hiciere uso de violencia o cause daño, se le aplicará además prisión de uno a dos años.
+Exclusión condicionada al quebrantamiento.- A quien quebrante la pena o medida de seguridad que se le hubiere impuesto, se le aplicará multa de cien veces el salario mínimo o prisión de tres a seis meses.
+
+Tratándose de la medida de seguridad relativa al tratamiento para dependientes a las bebidas alcohólicas, estupefacientes o psicotrópicos la pena consistirá en internamiento hasta por el término de sesenta días en el centro de rehabilitación que para tal efecto designe el juez.
+
+En caso de que para el quebrantamiento se hiciere uso de violencia o cause daño, se aumentará la pena de prisión de uno a dos años.
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad se le impondrá multa administrativa de cincuenta veces el salario mínimo y en caso de que haga uso de violencia se le impondrá además pena de uno a dos años de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida y favoreciere el quebrantamiento, tendrá multa administrativa de cincuenta veces el salario mínimo y pena de prisión de tres años, además inhabilitación para ocupar cargos públicos.
 
@@ -4378,3 +4440,37 @@ P.O. 14 DE SEPTIEMBRE DE 2007.
 DECRETO No. 379
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 389
+
+ÚNICO.- Las presentes reformas entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 422
+
+ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 423
+
+ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 441
+
+PRIMERO.- Las presentes Reformas entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 30 días a partir de la publicación de las presentes Reformas en el Periódico Oficial del Estado, para realizar mediante la Secretaría de Seguridad Publica los convenios con las instituciones privadas y públicas que reúnan los requisitos a los que refiere la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California.
+
+TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elaborar el Reglamento de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, particularmente en lo que toca al procedimiento y recursos administrativos, el otorgamiento y vigilancia de los beneficios de libertad, el procedimiento del tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos en las instituciones públicas y privadas, el procedimiento, las funciones del Consejo Técnico Interdisciplinario, la institución del régimen abierto y el servicio social de pasantes y voluntarios.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 442
+
+ÚNICO.- Las presentes reformas entrarán en vigor un día después al de su publicación en el Periódico Oficial del Estado.
