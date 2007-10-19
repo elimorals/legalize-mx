@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2006-10-27"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422, LA PRESENTE REFORMA ENTRARA EN VIGOR 18 MESES DESPUES DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1603,7 +1605,7 @@ DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
 ### CAPITULO VI. DE LOS ORGANOS AUXILIARES DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 155.
 
@@ -1685,7 +1687,7 @@ Las sesiones aprobadas en el calendario anual de actividades colegiadas aprobada
 
 Las resoluciones del Pleno del Consejo de la Judicatura del Estado, se tomarán por el voto de la mayoría de los Consejeros presentes, los Consejeros no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate; el Presidente tendrá voto de calidad.
 
-El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate (sic), tendrá voto de calidad.
+El Pleno del Consejo de la Judicatura del Estado calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe, absteniéndose de intervenir el Presidente impedido. Asumirá la presidencia del Consejo de la Judicatura con motivo de impedimento o excusa, el Consejero que por turno le corresponda, quien en su caso empate, tendrá voto de calidad.
 
 ### CAPITULO VII. DEL INSTITUTO DE LA JUDICATURA
 
@@ -1869,7 +1871,7 @@ El Secretario General del Consejo de la Judicatura deberá reunir los requisitos
 
 ###### ARTICULO 175.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarios, del Boletín Judicial, Contraloría y Oficialía de Partes.
+Para su adecuado funcionamiento, el Consejo de la Judicatura del Estado contará cuando menos con las siguientes Unidades Administrativas: del Instituto de la Judicatura, del Archivo Judicial y de Notarios, del Boletín Judicial, Contraloría y Oficialía de Partes, y el Centro Estatal de Justicia Alternativa.
 
 ### CAPITULO XII. DE LA OFICIALIA DE PARTES
 
@@ -1913,7 +1915,35 @@ El Instituto de la Judicatura llevará acabo (sic) cursos de preparación para l
 
 El Instituto de la Judicatura, contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPITULO I. DE LAS DESIGNACIONES
+### CAPITULO XIII. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 197 Bis.
+
+El Centro Estatal de Justicia Alternativa será el órgano auxiliar del Consejo de la Judicatura del Estado, que tendrá a su cargo la prestación de los siguientes servicios:
+
+I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado, y en materia penal en los delitos que sean perseguibles por querella así como en aquellos casos que establezca el Código de la materia;
+
+II.- Substanciar procedimientos de mediación y conciliación que pongan fin a las controversias judiciales, a petición expresa de parte interesada en los términos de la Ley de la materia;
+
+III.- Promover la mediación y la conciliación como alternativas de prevención y solución de controversias, y
+
+IV.- Las demás que establezcan los ordenamientos legales.
+
+Los servicios a que aluden las fracciones anteriores también podrán ser prestados por mediadores o conciliadores privados en los términos de esta Ley y la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 197 Bis
+
+1. - El Centro Estatal de Justicia Alternativa estará a cargo de un Director, y funcionará en los términos que determine el Consejo de la Judicatura del Estado de conformidad con la Ley de la materia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+
+TITULO DECIMOSEGUNDO
+
+DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 182.
 
@@ -1957,7 +1987,7 @@ III.- Realizar la microfilmación o captación por duplicado a efecto de que uno
 
 IV.- Relacionar al anverso y al reverso de los documentos, cuando la microfilmación o captación no se haga con equipo que capte simultáneamente las dos caras de dichos documentos y estos contengan anotaciones al reverso. Se destruirán las constancias procesales y documentos originales que hayan sido captados conforme a lo dispuesto anteriormente.
 
-### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
+### CAPITULO I. DE LAS DESIGNACIONES
 
 ###### ARTICULO 187.
 
@@ -1971,7 +2001,7 @@ El Boletín Judicial se publicará diariamente con excepción de sábados, domin
 
 La edición y publicación del Boletín Judicial estará a cargo del Tribunal Superior de Justicia y su administración corresponderá al Consejo de la Judicatura.
 
-### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
+### CAPITULO II. DEL INGRESO PROMOCION Y ASCENSO
 
 ###### ARTICULO 190.
 
@@ -2017,7 +2047,7 @@ El acta levantada por el visitador será entregada al Titular del Organo Visitad
 
 El Consejo de la Judicatura del Estado cuando tenga conocimiento de irregularidades que se realicen o se estén realizando en un órgano del Poder Judicial y que a juicio del propio Consejo amerite inmediata inspección, podrá llevarla a cabo por sí o por el visitador que designe sin que previamente se hubiese dado el aviso a que se refiere el artículo 209 de esta ley.
 
-### CAPITULO I. DEL SERVICIO MEDICO FORENSE
+### CAPITULO III. DE LA ADSCRIPCION Y RATIFICACION
 
 ###### ARTICULO 195.
 
@@ -2055,7 +2085,7 @@ III.- Durante el mes de mayo de cada año deberá presentarse la declaración de
 
 Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
 
-### CAPITULO II. DE LOS SINDICOS DE CONCURSO
+### CAPITULO I. DEL SERVICIO MEDICO FORENSE
 
 ###### ARTICULO 197.
 
@@ -2071,19 +2101,15 @@ III.- Fuera de la capital del Estado recibir promociones que deben presentarse a
 
 IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-TITULO DECIMOSEGUNDO
-
-DE LA CARRERA JUDICIAL EN LA ADMINISTRACION DE JUSTICIA
+### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
 ### CAPITULO III. DE LOS INTERVENTORES DE CONCURSO
 
 ### CAPITULO IV. DE LOS ALBACEAS, TUTORES Y CURADORES
 
 ### CAPITULO V. DE LOS NOTARIOS
-
-### CAPITULO VI. DE LOS PERITOS
 
 ###### ARTICULO 198.
 
@@ -2111,7 +2137,7 @@ VII.- Actuario del Poder Judicial del Estado.
 
 El Consejo de la Judicatura del Estado establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
+### CAPITULO VI. DE LOS PERITOS
 
 ###### ARTICULO 201.
 
@@ -2151,9 +2177,7 @@ III.- Un Magistrado del Tribunal Superior de Justicia que determine el Pleno del
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPITULO I. DE SU NATURALEZA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VII. DE LOS PRESTADORES DEL SERVICIO SOCIAL ADSCRITOS AL PODER JUDICIAL
 
 ###### ARTICULO 205.
 
@@ -2193,7 +2217,7 @@ TITULO DECIMOTERCERO
 
 DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO I. DE SU NATURALEZA
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2293,7 +2317,7 @@ V.- Calzar con su firma y nombre completo, los certificados y constancias que ex
 
 VI.- Las demás que les encomienden las leyes.
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2319,7 +2343,7 @@ IV.- Ser de notoria honradez y no haber sido condenado por delito intencional.
 
 V.- No encontrarse comprendido dentro de los casos previstos por el artículo 17 de esta ley.
 
-### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2343,7 +2367,7 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2351,7 +2375,7 @@ Serán causas de la remoción del interventor, no prestar vigilancia necesaria a
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
+### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2359,7 +2383,7 @@ Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designad
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
+### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2405,7 +2429,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2445,7 +2469,7 @@ DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
+### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2507,7 +2531,7 @@ Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2591,7 +2615,7 @@ Para sesionar válidamente en Pleno y resolver cuestiones administrativas intern
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
+### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2683,7 +2707,7 @@ XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
+### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2771,7 +2795,7 @@ XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
+### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2809,7 +2833,7 @@ XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
+### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2893,7 +2917,7 @@ XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
+### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2919,7 +2943,7 @@ VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
-### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2940,6 +2964,10 @@ II.- El cumplimiento de las obligaciones derivadas de las disposiciones en mater
 III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+
+### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 267.
 
@@ -3350,3 +3378,7 @@ ARTÍCULO TRANSITORIO.- Las presentes reformas entrarán en vigor el día siguie
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el Periódico Oficial del Estado.
