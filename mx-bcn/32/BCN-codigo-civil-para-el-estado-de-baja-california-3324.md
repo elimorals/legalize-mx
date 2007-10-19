@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-10-05"
+last_updated: "2007-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -445,11 +445,11 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo nacido de una relación entre parientes consanguíneos. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 65.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, dándose además intervención al Ministerio Público.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, y el Sistema procederá sin demora ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además a la custodia provisional de aquél y dando cuenta al Ministerio Público de la adscripción.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -463,11 +463,11 @@ La misma obligación tienen los jefes, directores o administradores de los estab
 
 En las actas que se levanten en los casos del Artículo anterior se expresarán con especificación todas las circunstancias que designa el Artículo 65, la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan, y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 68.
 
-Si con el niño encontrado o expuesto se hubieren hallado papeles, alhajas u otros objetos que puedan conducir o establecer la identificación de aquél, el Oficial del Registro Civil o quien ejerza sus funciones ordenará su depósito ante el Ministerio Público respectivo; mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+Si con el menor expósito o abandonado se hubieren hallado papeles, alhajas u otros objetos que puedan conducir o establecer la identificación de aquél, se depositarán en el Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, dando formal recibo de ellos al que recoja al menor, e informará al Ministerio Público acompañando copias de los documentos y descripción de los objetos encontrados.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -1181,11 +1181,15 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada so
 
 Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 161.
 
-Los cónyuges contribuirán al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. No estará obligado a contribuir económicamente el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+Los cónyuges contribuirán al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades.
+
+No estará obligado a contribuir económicamente el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+Se presume que la esposa realiza la aportación correspondiente a los alimentos cuando se dedica al cuidado del hogar y de los hijos, más aun cuando un hijo o hija sufra enfermedad o discapacidad permanente, salvo que se demuestre lo contrario.
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
@@ -1195,9 +1199,13 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 163.
 
-(DEROGADO, P.O. 20 DE JUNIO DE 1975)
+Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física y psíquica, y obligación de evitar conductas que generen violencia familiar, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social.
+
+La educación o formación de una persona menor de dieciocho años de edad no será en ningún caso considerada justificación para alguna forma de maltrato.
 
 ###### ARTICULO 164.
 
@@ -1853,7 +1861,25 @@ IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar 
 
 V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que queda encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VII.- Dictar cualquier medida de protección para garantizar la integridad y estabilidad emocional en la víctima de la violencia familiar que le permita la reorganización de su vida.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+###### ARTICULO 279 Bis.
+
+En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido, durante el matrimonio siempre que se concurran las condiciones siguientes:
+
+I. Hubieran estado casados bajo el régimen de separación de bienes;
+
+II. El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos; y
+
+III. Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
+
+El Juez de lo Familiar en la sentencia de divorcio, habrá de resolver atendiendo las circunstancias especiales de cada caso.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
 
@@ -1937,9 +1963,7 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco resultante de la adopción plena se equipara al de consanguinidad con todos sus efectos, tanto en relación al adoptado como a sus descendientes con respecto al adoptante.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-Los mismos efectos se manifestarán para aquellos parientes del adoptante con el adoptado, cuando hubieren intervenido en el procedimiento de adopción expresando su conformidad con la misma.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 291.
 
@@ -2527,15 +2551,13 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 391.
 
-La adopción simple podrá convertirse en plena siempre que se obtenga el consentimiento del adoptado, si este ya hubiere cumplido catorce años. Si fuere persona menor de dieciocho años de edad se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el Juez deberá resolver atendiendo al interés superior de la persona menor de dieciocho años de edad.
+La adopción simple podrá convertirse en plena siempre que se obtenga el consentimiento del adoptado, si este ya hubiere cumplido 14 años. Si fuere persona menor de catorce años de edad se requerirá el consentimiento de quien hubiere consentido en la adopción, siempre y cuando sea posible obtenerlo, de lo contrario el Juez, deberá resolver atendiendo al interés del adoptado y a la opinión que deberán emitir el Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, dependiente del Sistema para el Desarrollo Integral de la Familia de Baja California.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-Para que dicha conversión surta efectos con respecto a los parientes del adoptante con el adoptado y sus descendientes, se estará a lo previsto por el artículo 290 de este ordenamiento.
+Para que dicha adopción surta efectos respecto a los parientes del adoptante con el adoptado y sus descendientes, se estará a lo previsto por el artículo 290 de este ordenamiento.
 
 ###### ARTICULO 392.
 
@@ -2547,11 +2569,11 @@ El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las an
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 394.
 
-Para que la adopción simple o plena pueda tener lugar, deberán consentir en ella en sus respectivos casos:
+Para que la adopción simple o plena pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -2573,9 +2595,7 @@ V.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no
 
 Si la persona que se va a adoptar tiene más de catorce años de edad, también se necesita su consentimiento para la adopción.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1999)</small>
-
-VI.- Cuando se trate de adopción plena los parientes del adoptante en los términos del artículo 290 de este ordenamiento.
+VI.- (DEROGADA, P.O. 19 DE OCTUBRE DE 2007)
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -2597,7 +2617,9 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, y a la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia para que verifique si la adopción de la persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho le ha sido benéfica.
 
-Cuando el Juez resuelva no autorizar la adopción y la persona menor de dieciocho años de edad se encuentre viviendo con quien pretende adoptarlo, decretará la separación de la persona menor de dieciocho años de edad de aquél y ordenará su deposito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Cuando el Juez resuelva no autorizar la adopción y la persona menor de dieciocho años de edad se encuentre viviendo con quien pretende adoptarlo, decretará la separación de la persona menor de dieciocho años de edad de aquél y ordenará su depósito en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, para que lo reincorpore con las personas que gozan del ejercicio de la patria potestad sobre la persona menor de dieciocho años de edad y en caso de ser expósitos o abadanados (sic) quedarán legalmente bajo su tutela con el fin de buscar su reintegración inmediata y oportuna a un ambiente familiar a través de hogares adoptivos o substitutos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
@@ -15894,3 +15916,21 @@ DECRETO N° 410
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO N° 385
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO N° 392
+
+ÚNICO.- La presente reforma y la adición entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO N° 423
+
+ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
