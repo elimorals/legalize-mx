@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2001-12-21"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -243,9 +243,11 @@ Los peritos y demás auxiliares que requiera la administración de la justicia a
 
 La oficialía de partes central, ubicada en la sede del Tribunal, recibirá las promociones y correspondencia dirigida al Pleno, Presidencia y Primera Sala. Cada oficialía de partes de las Salas o de las Oficinas Auxiliares ubicadas fuera de la ciudad sede del Tribunal recibirá las promociones y correspondencia dirigida a las mismas y, además, actuará como oficialía de partes auxiliar del Pleno, para efectos de la recepción de promociones dirigidas al Pleno o a la Presidencia. Una vez que se registren las promociones y correspondencia en el libro respectivo, por riguroso orden numérico, se turnarán o remitirán como corresponda en el mismo día si las circunstancias lo permiten, sin perjuicio de que en casos urgentes se dé aviso a la Presidencia por vía de telefax para los efectos que procedan.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 33.
 
-Cuando la oficialía de partes se encuentre cerrada, sólo el Secretario General de Acuerdos o los Secretarios Auxilialres (sic) de las Salas u oficinas auxiliares que residan fuera de la Capital del Estado, podrán recibir personalmente las promociones correspondientes, aún en su domicilio, siempre que se trate de asuntos de término y se presenten el día de su vencimiento. Estas promociones se registrarán en el libro correspondiente, en la primera hora laborable del día hábil siguiente.
+Cuando la oficialía de partes se encuentre cerrada, sólo el Secretario General de Acuerdos en tratándose de asuntos de Pleno, o los Secretarios Auxiliares de las Salas en asuntos que correspondan a su competencia en razón del territorio previamente determinado por el Pleno, podrán recibir personalmente las promociones correspondientes, aún en su domicilio, siempre que se trate de asuntos de término y se presenten el día de su vencimiento. Estas promociones se registrarán en el libro correspondiente, en la primera hora laborable del día hábil siguiente.
 
 ###### ARTICULO 34.
 
@@ -380,3 +382,7 @@ PRIMERO.- Las reformas y adiciones al Reglamento del Tribunal, entrarán en vigo
 SEGUNDO.- Las reformas y adiciones al Reglamento, deberán publicase en el Boletín del Tribunal, para su difusión.
 
 TERCERO.- Dentro de los diez días hábiles siguientes a la publicación de estas reformas y adiciones, deberá quedar integrada la Comisión de Responsabilidades y Situación Patrimonial, la cual designará Presidente por el período que resta del año.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+UNICO.- La presente adición entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
