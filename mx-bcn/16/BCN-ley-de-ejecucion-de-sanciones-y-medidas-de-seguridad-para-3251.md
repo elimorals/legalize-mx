@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2006-10-27"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNICO DEL DECRETO NO. 247, POR EL QUE SE REFORMAN LOS ARTICULOS 2,4, 20, 28, 120, 123 Y 124 DE LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE MARZO DE 2007.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -603,6 +601,12 @@ Todo indiciado, a su ingreso al centro de readaptación social, recibirá inform
 
 Una vez dictado el autor de formal prisión, el interno será sometido a examen por el servicio médico, a fin de conocer su estado físico y mental; por el profesor, con el objeto de calificar su nivel cultural y por el supervisor laboral, para comprobar su habilidad y capacidad para el trabajo. Estos datos se agregarán al estudio socio-económico y a los informes sobre los antecedentes delictivos, para hacer un diagnóstico provisional sobre la personalidad del interno, cuyos resultados serán puestos en conocimiento del Juez Instructor, para los efectos legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Cuando del examen médico se desprenda que el interno sufre de una condición de dependencia al alcohol, los estupefacientes o psicotrópicos, éste podrá o deberá cuando así lo dispongan las autoridades de salud, ser integrado de inmediato a los programas de tratamiento de adicciones de acuerdo con las modalidades que corresponda en cada caso.
+
 Quienes practiquen estos estudios, deberán tener presente que está absolutamente prohibido utilizarlos como medios para obtener pruebas, acerca de la comisión del delito o de la responsabilidad penal del inculpado.
 
 ###### ARTICULO 65.
@@ -783,9 +787,13 @@ III.- La correcta interacción y la creación de un ambiente adecuado entre los 
 
 IV.- Detectar las situaciones en las que el estado emocional del interno amenace su integridad físicas (sic), la de terceros o la seguridad del centro.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 87.
 
-Las áreas médicas, psicológicas y psiquiátricas, deberán presentar los informes que le sean requeridos por las autoridades competentes y, en su caso, proporcionar a éstas los elementos técnicos especializados para identificar a los inimputables y sugerir el tipo de tratamiento.
+Las áreas médicas, psicológicas y psiquiátricas, deberán presentar los informes que le sean requeridos por las autoridades competentes y, en su caso, proporcionar a éstas los elementos técnicos especializados para identificar a los inimputables y dependientes a las bebidas alcohólicas, estupefacientes o psicotrópicos, así como sugerir el tipo de tratamiento.
 
 ###### ARTICULO 88.
 
@@ -889,9 +897,13 @@ II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se h
 
 ### CAPITULO IV. DE LA REMISION PARCIAL DE LA PENA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### ARTICULO 100.
 
-La remisión parcial de la pena consiste en el descuento de un día de prisión por cada dos días de trabajo, siempre y cuando el interno haya observado buena conducta durante su reclusión y revele efectiva readaptación social. Este último criterio será el determinante para conceder o negar el beneficio.
+La remisión parcial de la pena consiste en el descuento de un día de prisión por cada dos días de trabajo, siempre y cuando el interno haya observado buena conducta durante su reclusión y revele efectiva readaptación social, lo que implica el cumplir con las modalidades que imponga el tratamiento para dependientes a las bebidas alcohólicas, estupefacientes o psicotrópicos para el caso de aquellos sujetos a esta medida. Este último criterio será el determinante para conceder o negar el beneficio.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -934,6 +946,12 @@ III.- Cuando incurra en conductas contrarias a las impuestas.
 IV.- Cuando utilice drogas u otras substancias de efectos similares.
 
 V.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 1998)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VI.- Cuando el sentenciado incumpla con las obligaciones que le imponga el tratamiento para dependientes a las bebidas alcohólicas, estupefacientes o psicotrópicos.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -1080,6 +1098,12 @@ La Subsecretaría, oyendo la opinión del responsable del centro respectivo, pod
 ###### ARTICULO 128.
 
 Independientemente de la imputabilidad del interno, cuando el delito por el que se le acusa esté vinculado con el uso persistente de bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier substancia de efectos similares, la Dirección del Centro le aplicará un tratamiento de deshabituación o desintoxicación que no excederá de seis meses, cualquiera que sea la pena que se le imponga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Para los fines de lo prescrito en el párrafo anterior, la autoridad ejecutora, en coordinación con las autoridades de salud del Estado y con apoyo de instituciones públicas, privadas y de la sociedad civil, diseñara aquellos programas de atención medica para la aplicación del tratamiento de adicciones con la diversidad suficiente y las modalidades necesarias para la prestación de los servicios de la salud, durante todas las fases del proceso de readaptación y reintegración social.
 
 ### CAPITULO II. DE LA SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES Y EMPLEOS
 
@@ -1276,3 +1300,11 @@ SEXTO.- La Secretaría de Planeación y Finanzas del Estado coadyuvará con los 
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 30 días a partir de la publicación de las presentes Reformas en el Periódico Oficial del Estado, para realizar mediante la Secretaría de Seguridad Publica los convenios con las instituciones privadas y públicas que reúnan los requisitos a los que refiere la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California.
+
+TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elaborar el Reglamento de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, particularmente en lo que toca al procedimiento y recursos administrativos, el otorgamiento y vigilancia de los beneficios de libertad, el procedimiento del tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos en las instituciones públicas y privadas, el procedimiento, las funciones del Consejo Técnico Interdisciplinario, la institución del régimen abierto y el servicio social de pasantes y voluntarios.
