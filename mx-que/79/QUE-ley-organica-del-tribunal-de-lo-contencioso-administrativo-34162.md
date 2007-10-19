@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3416
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-29"
-last_updated: "2006-11-17"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -225,13 +225,15 @@ XLI. Ejercer las facultades que le sean conferidas en el Reglamento Interior del
 
 ### CAPITULO II. DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 12.
 
-El Magistrado Propietario de la Sala Unitaria durará en el ejercicio de su cargo cuatro años. Al término de este tiempo, podrá ser ratificado por la Legislatura del Estado para un periodo de ocho años, escuchando la opinión de las instituciones idóneas de los sectores público, privado y social que la Legislatura considere convenientes.
+El Magistrado Propietario de la Sala Unitaria durará en el ejercicio de su cargo cuatro años. Al término de este tiempo, podrá ser ratificado por la Legislatura del Estado hasta por dos ocasiones, por un periodo de cuatro años cada uno.
 
-Si se ratificase el nombramiento, el Magistrado sólo podrá ser removido del cargo por resolución que declare su responsabilidad política en los términos del Título Séptimo de la Constitución Política del Estado.
+Si se ratificara el nombramiento, el Magistrado sólo podrá ser removido, mediante resolución que declare su responsabilidad política en los términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
 
-Ninguna persona podrá ocupar el cargo de Magistrado Propietario en forma consecutiva, ni discontinua, por más de 12 años. Al vencimiento de dicho plazo, o antes si el Magistrado llega a la edad de sesenta y cinco años, cesará en sus funciones y tendrá derecho a un haber por concepto de retiro.
+Ninguna persona podrá ocular el cargo de Magistrado Propietario en forma consecutiva, ni discontinua, por más de doce años. Al vencimiento de dicho plazo o ante si el Magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por concepto de retiro.
 
 ###### Artículo 13.
 
@@ -978,3 +980,9 @@ Artículo Segundo.- Las disposiciones relativas a la Ley Orgánica del Poder Leg
 Artículo Tercero.- Los artículos 93 y 153 de la Ley Orgánica del Poder legislativo del Estado de Querétaro, derogados por la presente Ley, se aplicarán en los asuntos pendientes de la Comisión de Hacienda, relativos a dictámenes de cuentas públicas de las Entidades Fiscalizadas, hasta su total conclusión.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a la entrada en vigor de esta Ley.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
