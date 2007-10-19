@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2007-08-31"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -197,11 +199,11 @@ Cuando un magistrado, juez o secretario no se excuse a pesar de tener algún imp
 
 Funciones del Ministerio Público.- Corresponde al Ministerio Público llevar a cabo la averiguación previa, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte legalmente procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 20.
 
-Facultades del ministerio Público en la averiguación previa.- En la averiguación previa corresponde al Ministerio público:
+Facultades del Ministerio Público en la Averiguación Previa.- En la averiguación previa corresponde al Ministerio Público:
 
 I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos del orden común;
 
@@ -209,9 +211,13 @@ II.- Practicar u ordenar las diligencias conducentes a la comprobación del cuer
 
 III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines de la averiguación previa, así como las órdenes de cateo que procedan;
 
-IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-V.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficientes si lo estimare necesario; y
+IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas u ofendidos;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+V.- Restituir a la víctima u ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficientes si lo estimare necesario; y (sic)
 
 VI.- Determinar conforme a las disposiciones de este Código, la reserva o bien el ejercicio o no de la acción penal;
 
@@ -401,19 +407,29 @@ Permanencia del defensor.- El defensor designado en la averiguación previa o en
 
 Incumplimiento del defensor a sus obligaciones.- Cuando el Juzgador notare que el defensor incumpla alguna de las obligaciones señaladas en el Artículo 28, podrá imponerle una corrección disciplinaria; si el defensor fuere de oficio, el Juzgador deberá además, poner en conocimiento de los hechos al superior, señalándole el incumplimiento en que aquél hubiere incurrido. Las facultades que este precepto otorga al Juzgador, serán independientes del derecho que pueda corresponder al inculpado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-### CAPITULO IV. EL OFENDIDO
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+### CAPITULO IV. DE LA VICTIMA O EL OFENDIDO
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 33.
 
-Intervención del ofendido durante la averiguación previa.- Durante la averiguación previa, la persona ofendida o su representante legal deberán proporcionar al Ministerio Público todos aquellos datos, indicios y medios que tenga, que puedan contribuir a la demostración del cuerpo del delito, de la probable responsabilidad del inculpado y de los daños y perjuicios ocasionados por aquél.
+Intervención de la Víctima o el Ofendido durante la Averiguación Previa.- Durante la averiguación previa, la persona víctima o la ofendida o su representante legal deberán proporcionar al Ministerio Público todos aquellos datos, indicios y medios que tenga, que puedan contribuir a la demostración del cuerpo del delito, de la probable responsabilidad del inculpado y de los daños y perjuicios ocasionados por aquél.
 
-El Ministerio Público deberá notificar personalmente al ofendido las determinaciones que tome sobre el no ejercicio de la acción penal y la reserva del expediente.
+El Ministerio Público deberá notificar personalmente a la víctima o el ofendido las determinaciones que tome sobre el no ejercicio de la acción penal y la reserva del expediente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+Se entenderá por víctimas las personas que, individual o colectivamente, hayan sufrido daños, inclusive lesiones físicas o mentales, sufrimiento emocional, perdida financiera o menoscabo sustancial de los derechos fundamentales, como consecuencia de acciones u omisiones con motivo de la comisión de un delito.
+
+Se entenderá por ofendido a los familiares o personas a cargo que tengan relación inmediata con la víctima directa y a las personas que hayan sufrido daños al intervenir a la víctima en peligro o para prevenir la victimización.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 34.
 
-Derechos del ofendido.- La persona ofendida por el delito podrá coadyuvar con el Ministerio Público durante el proceso penal, proporcionando al juzgador, por conducto de aquél, todos los elementos que tenga y que conduzcan a comprobar el cuerpo del delito y la responsabilidad del inculpado; pedir que se decrete el embargo precautorio de los bienes para garantizar el monto de la reparación de los daños y perjuicios ocasionados por la comisión del delito, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código.
+Derechos de la Víctima o el Ofendido.- La persona víctima o la ofendida por el delito podrá coadyuvar con el Ministerio Público durante el proceso penal, proporcionando al juzgador, por conducto de aquél, todos los elementos que tenga y que conduzcan a comprobar el cuerpo del delito y la responsabilidad del inculpado; pedir que se decrete el embargo precautorio de los bienes para garantizar el monto de la reparación de los daños y perjuicios ocasionados por la comisión del delito, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Tendrá derecho a que la Procuraduría General de Justicia le otorgue asesoría jurídica, a través de los funcionarios que ésta determine, y a que las instituciones hospitalarias del Estado le presten atención médica de urgencia cuando se trate de lesiones delictivas, pero el representante legal de la institución de que se trate, podrá comparecer en el juicio penal a solicitar que se cubra el importe del servicio, como parte de la reparación del daño a cargo del delincuente.
 
@@ -429,7 +445,9 @@ Momentos en que pueden practicarse las actuaciones.- Las actuaciones podrán pra
 
 Idioma.- Las actuaciones deberán practicarse y levantarse usando exclusivamente el idioma castellano.
 
-Cuando el inculpado, el ofendido o los testigos no comprendan o no hablen dicho idioma, se estará a lo dispuesto por los Artículos 49 y 50 de este Código.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Cuando el inculpado, la víctima o el ofendido o los testigos no comprendan o no hablen dicho idioma, se estará a lo dispuesto por los artículos 49 y 50 de este Código.
 
 ###### Artículo 37.
 
@@ -475,9 +493,11 @@ En caso de urgencia o imposibilidad, los magistrados o jueces podrán comisionar
 
 Plazo para dar cuenta con las promociones.- Los secretarios deberán dar cuenta dentro del término de veinticuatro horas, con las promociones que se hicieren. Para el efecto, se hará constar en los expedientes el día y hora en que éstas se presenten o se hicieren.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 44.
 
-Entrega de expedientes.- Los expedientes no podrán entregarse a las partes ni al ofendido. Estas podrán imponerse de los autos en la secretaría del Tribunal o del Juzgado, debiéndose tomar las medidas necesarias, para que no los destruyan, alteren o sustraigan. Lo anterior no operará respecto del Ministerio Público, cuando se le dé vista para que formule conclusiones.
+Entrega de Expedientes: Los expedientes no podrán entregarse a las partes ni a la víctima u ofendido. Estas podrán imponerse de los autos en la secretaria del Tribunal o del Juzgado, debiéndose tomar las medidas necesarias, para que no los destruyan, alteren o sustraigan. Lo anterior no operará respecto del Ministerio Público, cuando se le dé vista para que formule conclusiones.
 
 ###### Artículo 45.
 
@@ -584,6 +604,12 @@ Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las 
 ###### Artículo 63.
 
 Trámites y providencias de oficio.- El Juzgador, puede dictar de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita.
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+El Juzgador deberá hacer del conocimiento de las partes a partir del auto de formal prisión y hasta antes de citación a sentencia, el derecho que tienen de conciliar sus intereses ante éste o solicitar la intervención de un mediador y conciliador, siempre y cuando se trate de delitos perseguibles por querella.
 
 ### CAPITULO IV. COMUNICACIONES JUDICIALES
 
@@ -1231,11 +1257,11 @@ V.- Se detenga al sentenciado o éste se presente para cumplir la pena impuesta,
 
 La garantía de reparación del daño solo será cancelada o devuelta al reo en lo (sic) casos de las fracciones III y IV que anteceden, salvo el caso contemplado en el párrafo segundo del Artículo 133 de este Código.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 135.
 
-Aplicación de la caución.- En los casos en que se haga efectiva la garantía, el importe de la caución relativa a la reparación del daño, quedará en depósito del fondo auxiliar que corresponda, a disposición del ofendido, mientras que la garantía de la buena conducta procesal ingresará definitivamente como patrimonio propio del fondo respectivo.
+Aplicación de la Caución.- En los casos en que se haga efectiva la garantía, el importe de la caución relativa a la reparación del daño, quedará en depósito del fondo auxiliar que corresponda, a disposición de la víctima o el ofendido, mientras que la garantía de la buena conducta procesal ingresará definitivamente como patrimonio propio del fondo respectivo.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1317,13 +1343,17 @@ Arraigo del procesado.- Cuando el procesado no deba ser internado en prisión pr
 
 ### CAPITULO VII. EMBARGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 142.
 
-Embargo precautorio.- Dictado el auto de radicación, el Ministerio Público, el ofendido o su legítimo representante podrán solicitar al Juzgador que decrete el embargo precautorio sobre bienes del inculpado en que pueda hacerse efectiva la reparación de daños y perjuicios.
+Embargo Precautorio.- Dictado el auto de radicación, el Ministerio Público, la víctima o el ofendido o su legítimo representante podrán solicitar al Juzgador que decrete el embargo precautorio sobre bienes del inculpado en que pueda hacerse efectiva la reparación de daños y perjuicios.
 
 El Juez dispondrá, con audiencia del inculpado salvo que éste se haya sustraído a la acción de la justicia, lo conducente, tomando en cuenta su probable cuantía, según las constancias procesales. Para tales efectos, se resolverá y de proceder se diligenciará embargo, notificando de inmediato al inculpado sobre la medida precautoria dictada, salvo que éste cumpla con lo dispuesto en el artículo siguiente. Se entiende que el inculpado se encuentra sustraído a la acción de la justicia a partir del momento en que se dicta en su contra orden de aprehensión o de reaprehensión y hasta en tanto se ejecuta ésta.
 
-Los automóviles, camiones y otros objetos de uso lícito con que se cometa el delito, se embargarán de oficio, si son propiedad del inculpado o de la persona obligada a la reaparición de daños y perjuicios.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Los automóviles, camiones y otros objetos de uso licito con que se cometa el delito, se embargarán de oficio, si son propiedad del inculpado o de la persona obligada a la reparación de daños y perjuicios.
 
 ###### Artículo 143.
 
@@ -1331,17 +1361,19 @@ No decreto o levantamiento del embargo.- El embargo no se decretará o se levant
 
 El embargo también se levantará si se decreta la libertad del inculpado por falta de elementos, si se dicta auto de sobreseimiento o sentencia absolutoria.
 
-### CAPITULO VIII. RESTITUCION DEL OFENDIDO EN SUS DERECHOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+### CAPITULO VIII. RESTITUCION DE LA VICTIMA O EL OFENDIDO EN SUS DERECHOS
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 144.
 
-Restitución de Derechos del Ofendido.- El ofendido o su legítimo representante, podrán solicitar al Ministerio Público, durante la averiguación previa, o por conducto de éste al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlos en el goce de los mismos, siempre que estén legalmente justificados.
+Restitución de Derechos de la víctima o el Ofendido.- La víctima o el ofendido o su legítimo representante, podrán solicitar al Ministerio Público, durante la averiguación previa, o por conducto de éste al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlos en el goce de los mismos, siempre que estén legalmente justificados.
 
-Si se trata de restituir al ofendido en el goce de un bien mueble, que constituya el objeto materia del delito y que no esté sujeto a registro por disposición de la Ley; se le entregará si aparece justificado en la averiguación previa que estaba en posesión de el hasta el momento mismo en que aquél se cometió, mediante los medios de prueba admisibles por esta ley.
+Si se trata de restituir a la víctima o el ofendido en el goce de un bien mueble, que constituya el objeto materia del delito y que no esté sujeto a registro por disposición de la Ley; se le entregará si aparece justificado en la averiguación previa que estaba en posesión de el hasta el momento mismo en que aquél se cometió, mediante los medios de prueba admisibles por esta ley.
 
-Si la entrega del bien pudiere lesionar derechos de terceros o del procesado, la devolución se hará siempre y cuando el ofendido, otorgue caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse.
+Si la entrega del bien pudiere lesionar derechos de terceros o del procesado, la devolución se hará siempre y cuando la víctima o el ofendido, otorgue caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse.
 
 ### CAPITULO IX. CATEOS
 
@@ -1655,9 +1687,11 @@ Protesta y exhortación al testigo.- Antes de que los testigos comiencen a decla
 
 A los menores de dieciocho años solo se les exhortará para que se conduzcan con verdad.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 191.
 
-Datos generales del testigo.- Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellido, edad, lugar de origen, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
+Datos Generales del Testigo.- Después de protestarlo o exhortarlo, se preguntará al testigo su nombre, apellido, edad, lugar de origen, domicilio, estado civil, profesión u ocupación; si se halla ligado con el inculpado, la víctima o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor contra alguno de ellos.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1753,7 +1787,9 @@ El careo se practicará dando lectura a las declaraciones que se reputen contrad
 
 Imposibilidad de practicar el careo.- Cuando agotados los medios de apremio no pudiere obtenerse la comparecencia de alguna de las personas que deba ser careada, el Juzgador ordenará al secretario que levante una certificación de este hecho, y practicará careo supletorio, leyéndose al presente la declaración del otro haciéndole notar las contradicciones que hubiere entre lo declarado por él.
 
-Tratándose de menores víctimas de delitos contra la libertad y seguridad sexual, no será permitido practicar careo entre el ofendido y el ofensor.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+Tratándose de personas menores de dieciocho años de edad o de personas que no tienen capacidad de comprender el significado del hecho víctimas de delitos contra la libertad y seguridad sexual de las personas, delitos contra el libre desarrollo de la personalidad y secuestro no será permitido practicar careo entre la víctima y el ofensor.
 
 ### CAPITULO VIII. DOCUMENTOS
 
@@ -1905,19 +1941,21 @@ Los servidores públicos a que se refiere el artículo 226 no están obligados a
 
 ### CAPITULO III. INICIACION POR QUERELLA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 228.
 
-Iniciación por querella.- Es necesaria la querella del ofendido solamente en los casos en que lo determine la Ley.
+Iniciación por Querella.- Es necesaria la querella de la víctima o el ofendido solamente en los casos en que lo determine la Ley.
 
 La querella también puede formularse verbalmente o por escrito, observándose para ello lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 229.
 
-Querella de menores incapaces, o personas con una incapacidad física o mental derivada de delitos culposos.- Cuando el ofendido sea menor de edad puede querellarse por sí mismo, siempre que haya cumplido catorce años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de incapaces, la querella se presentará por los representantes legales o por cualquier persona cuando carezca de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los casos del procedimiento penal.
+Querella de personas menores de dieciocho años de edad que no tengan la capacidad para comprender el significado del hecho, o personas con capacidades diferentes no tengan la capacidad para comprender el significado del hecho derivada de delitos culposos.- Cuando la víctima u el ofendido sea persona menor de dieciocho años de edad puede querellarse por sí mismo, siempre que haya cumplido catorce años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de personas con capacidades diferentes personas que no tengan la capacidad para comprender el significado del hecho, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor de dieciocho años de edad y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los casos del procedimiento penal.
 
-Cuando con motivo del tránsito de vehículos de motor, culposamente se cause lesión, y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
+Cuando con motivo del tránsito de vehículos de motor, culposomente (sic) se cause lesión, y la víctima u ofendido queden en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
 
 ###### Artículo 230.
 
@@ -1927,9 +1965,11 @@ Querella por poder.- La querella formulada en representación de personas físic
 
 ### CAPITULO I. DE LAS ACTUACIONES MINISTERIALES
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 231.
 
-Medidas a tomar durante la averiguación previa.- Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
+Medidas a Tomar Durante la Averiguación Previa.- Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas u ofendidos; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
@@ -2027,11 +2067,11 @@ Certificado de sanidad o de defunción.- Los certificados de sanidad o de defunc
 
 Atención médica urgente.- Cuando un lesionado necesite pronta atención, cualquier médico puede dársela y aun trasladarlo del lugar de los hechos al sitio apropiado para tal efecto, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación, los siguientes datos: nombre del lesionado, lugar preciso en que fue encontrado y circunstancias en que se hallaba; naturaleza de las lesiones que presente y causas probables que las originaron; curaciones que se le hubieren hecho y lugar preciso en que queda a disposición de la autoridad. La omisión de este aviso ameritará la imposición de la corrección disciplinaria que la autoridad estime conveniente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 247.
 
-Asistencia a las Víctimas cuando se trata de Menores, Enfermos Mentales o Incapaces.- Siempre que un delito fuere cometido por los ascendientes de las víctimas o personas que ejercían autoridad sobre ellos, y éstos son menores, enfermos mentales o incapaces, serán trasladados a una casa de reconocida honradez o una Institución asistencial, si no hubiere familiares idóneos que se hagan cargo de ellos, dando aviso de esta medida a la Procuraduría para la Defensa del Menor de dieciocho años de edad y la Familia, cuando se trate de menores o a la Institución de Asistencia Social, tratándose de enfermos mentales o incapaces.
+Siempre que un delito fuere cometido por los ascendientes de las víctimas o personas que ejercían autoridad sobre ellos, y estos son menores, enfermos mentales e incapaces, serán depositados en una casa de reconocida honradez o a una institución asistencial, si no hubiere familiares idóneos que se hagan cargo de ellos, dando aviso de esta medida a la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, cuando se trate de menores o a la institución de Asistencia Social, tratándose de enfermos mentales o incapaces. Determinando en la resolución de la medida el carácter de su ingreso, el tiempo que permanecerá en dichos lugares y las providencias necesarias para garantizar su seguridad e integridad física.
 
 ### CAPITULO III. PRESERVACION DE HUELLAS Y ASEGURAMIENTO DE INSTRUMENTOS Y OBJETOS DEL DELITO
 
@@ -2053,9 +2093,13 @@ Conservación de las cosas aseguradas.- Las cosas inventariadas conforme al art�
 
 Vista de las cosas aseguradas.- Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser asegurada. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 252.
 
-Elementos auxiliares de investigación.- Cuando para mayor claridad y comprobación de los hechos, fuere conveniente levantar el plano del lugar del delito y tomar fotografías, tanto de ese lugar como de las personas que hubieren sido víctimas del delito, se practicarán estas operaciones y se hará la copia o diseño de los efectos o instrumentos del mismo, aprovechando para ello todos los recursos que ofrezcan las artes. El plano, retrato, copia o diseño se unirán al acta.
+Elementos Auxiliares de Investigación.- Cuando para mayor claridad y comprobación de los hechos, fuere conveniente levantar el plano del lugar del delito y tomar fotografías, tanto de ese lugar como de las personas que hubieren sido víctimas u ofendidos del delito, se practicarán estas operaciones y se hará la copia o diseño de los efectos o instrumentos del mismo, aprovechando para ello todos los recursos que ofrezcan las artes.
+
+El plano, retrato, copia o diseño se unirán al acta.
 
 ###### Artículo 253.
 
@@ -2121,11 +2165,11 @@ Si la denuncia o querella se presenta ante un Agente del Ministerio Público inc
 
 ### CAPITULO II. NO EJERCICIO Y DESISTIMIENTO DE LA ACCION PENAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 262.
 
-Resolución de no Ejercicio de la Acción Penal.- Cuando en vista de las pruebas recabadas durante la averiguación previa, el Ministerio Público determine que no debe ejercitarse la acción penal por los hechos que fueron materia de acusación, el denunciante o querellante ofendido podrá interponer el Recurso de Revisión ante el mismo agente del Ministerio Público, en los diez días siguientes a la fecha que se haya hecho saber personalmente al interesado tal determinación. Mientras no se notifique dicha resolución, no correrá el término para interponer el recurso, pero si la prescripción de la pretensión punitiva.
+Resolución de no Ejercicio de la Acción Penal.- Cuando en vista de las pruebas recabadas durante la averiguación previa, el Ministerio Público determine que no debe ejercitarse la acción penal por los hechos que fueron materia de acusación, el denunciante o querellante víctima u ofendido podrá interponer el Recurso de Revisión ante el mismo agente del Ministerio Público, en los diez días siguientes a la fecha en que se haya hecho saber personalmente al interesado tal determinación. Mientras no se notifique dicha resolución no correrá el término para interponer el recurso, pero sí la prescripción de la pretensión punitiva.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
@@ -2391,9 +2435,11 @@ Plazo para dictar sentencia.- Citadas las partes para oír sentencia en los tér
 
 ### CAPITULO IV. ACLARACION DE SENTENCIA
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 293.
 
-Aclaración de sentencia.- El Ministerio Público, el inculpado o su defensor, podrán solicitar la aclaración de la sentencia definitiva, dentro de un plazo de tres días, contados desde la notificación y expresando claramente el punto respecto del cual la pidan. El ofendido también podrá solicitar la aclaración por lo que se refiere a la reparación del daño.
+Aclaración de Sentencia.- El Ministerio Público, el inculpado o su defensor, podrán solicitar la aclaración de la sentencia definitiva, dentro de un plazo de tres días, contados desde la notificación y expresando claramente el punto respecto del cual la pidan. La víctima o el ofendido también podrán solicitar la aclaración por lo que se refiere a la reparación del año.
 
 ###### Artículo 294.
 
@@ -2417,9 +2463,11 @@ Interrupción del plazo para apelar.- La aclaración propuesta interrumpe el pla
 
 ###### Artículo 298.
 
-Ejecutoriedad de las sentencias.- Las sentencias de primera instancia, causan ejecutoria:
+Ejecutoriedad de las Sentencias.- Las sentencias de primera instancia, causan ejecutoria:
 
-I.- Cuando sean consentidas expresamente por las partes y por el ofendido;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+I.- Cuando sean consentidas expresamente por las partes y por la víctima o el ofendido;
 
 II.- Si dentro del plazo que la Ley señala no se interpone el recurso de apelación;
 
@@ -2433,9 +2481,11 @@ Así mismo causan ejecutoria las sentencias de segunda instancia y aquellas cont
 
 ### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 299.
 
-Suspensión del procedimiento.- Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos siguientes:
+Suspensión del Procedimiento.- Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos siguientes:
 
 I.- Cuando el inculpado se hubiere sustraido a la acción de la justicia;
 
@@ -2443,11 +2493,27 @@ II.- Cuando el delito sea de aquellos que no pueden perseguirse sin antes cumpli
 
 III.- Cuando en cualquier etapa del procedimiento judicial el inculpado manifieste, conforme a dictámenes periciales, enajenación mental, desarrollo intelectual retardado, trastorno mental transitorio o cualquier otro estado mental que requiera tratamiento. En estos casos, se continuará el procedimiento por la vía especial procedente;
 
-IV.- Cuando no se pueda hacer saber al inculpado el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye para que pueda contestar el cargo, por encontrarse en estado de inconsciencia; y
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
 
-V.- En los demás casos en que la Ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o del ofendido o sus representantes, adopte el Juzgador las medidas precautorias patrimoniales que establece este Código.
+IV.- Cuando no se pueda hacer saber al inculpado el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye para que pueda contestar el cargo, por encontrarse en estado de inconsciencia;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+V.- Cuando tratándose de delitos perseguibles por querella, una de las partes interesadas solicite al Juzgador la intervención de un mediador y conciliador, suspendiéndose el procedimiento por un período de dos meses en los términos previstos por la Ley de la materia;
+
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+VI. - En los demás casos en que la Ley ordene expresamente la suspensión del procedimiento.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o de la víctima o el ofendido o sus representantes, adopte el Juzgador las medidas precautorias patrimoniales que establece este Código.
 
 ###### Artículo 300.
 
@@ -2521,9 +2587,11 @@ Reglas generales y condiciones de interposición.- Las resoluciones judiciales s
 
 Objeto de las impugnaciones.- Las impugnaciones, según el caso, tienen por objeto examinar si en la resolución recurrida no se aplicó la Ley correspondiente o se aplicó inexactamente; si se violaron los principios reguladores de la valoración de la prueba, o si se alteraron los hechos.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 311.
 
-Sujetos legitimados para impugnar.- Tienen derecho a interponer la impugnación que proceda, salvo disposición expresa de la Ley, el Ministerio Público, el inculpado y su defensor, así como el ofendido o sus legítimos representantes, cuando hayan sido reconocidos por el Juzgador de Primera Instancia como coadyuvantes del Ministerio Público para efecto de la reparación del daño y perjuicios.
+Sujetos Legitimados para Impugnar.- Tienen derecho a interponer la impugnación que proceda, salvo disposición expresa de la Ley, el Ministerio Público, el inculpado y su defensor, así como la víctima o el ofendido o sus legítimos representantes, cuando hayan sido reconocidos por el Juzgador de Primera Instancia como coadyuvantes del Ministerio Público para efecto de la reparación del daño y perjuicios.
 
 En este último caso el estudio del recurso se contraerá únicamente, a lo relativo a la reparación de daños y perjuicios, y a las medidas precautorias conducentes a asegurarla.
 
@@ -2577,9 +2645,9 @@ Al notificar al inculpado la sentencia de primera instancia, se la hará saber e
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria por parte del Tribunal que conozca de la apelación.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-Artículo 319 BIS.- Sujetos que pueden Apelar.- Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor, también puede interponer este recurso el ofendido y sus legítimos representantes, cuando hayan sido designados ante el Ministerio Público o ante el Juez de la causa, pero sólo contra el auto de sobreseimiento, las resoluciones que nieguen las medidas de aseguramiento patrimonial o la Sentencia Definitiva, cuando ésta sea condenatoria pero no decrete la reparación del daño o lo haga en cantidad inferior a la solicitada por el Ministerio Público.
+Artículo 319 BIS.- Sujetos que pueden Apelar.- Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor, también puede interponer este recurso la víctima o el ofendido y sus legítimos representantes, cuando hayan sido designados ante el Ministerio Público o ante el Juez de la causa, pero sólo contra el auto de sobreseimiento, las resoluciones que nieguen las medidas de aseguramiento patrimonial o la Sentencia Definitiva, cuando ésta sea condenatoria pero no decrete la reparación del daño o lo haga en cantidad inferior a la solicitada por el Ministerio Público.
 
 ###### Artículo 320.
 
@@ -3107,11 +3175,11 @@ Providencias precautorias.- El actor civil podrá solicitar providencias precaut
 
 Contenido de la litis.- La existencia y monto de los daños se probará en el juicio principal o en el incidente respectivo, quedando obligado el demandado incidental a cubrir la misma cantidad, en forma solidaria con el delincuente.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 401.
 
-Competencia para la ejecución.- La Ejecución de las resoluciones incidentales que decreten la reparación del daño a cargo de terceros, se hará por la autoridad fiscal a través del procedimiento económico coactivo, poniendo a disposición del ofendido, por conducto del Juez de la causa, la cantidad obtenida debidamente actualizada.
+Competencia para la Ejecución.- La Ejecución de las resoluciones incidentales que decreten la reparación del daño a cargo de terceros, se hará por la autoridad fiscal a través del procedimiento económico coactivo, poniendo a disposición de la víctima o el ofendido, por conducto del Juez de la causa, la cantidad obtenida debidamente actualizada.
 
 ###### Artículo 402.
 
@@ -3239,9 +3307,11 @@ Vigilancia del confinado.- Luego que cause ejecutoria la sentencia en que se imp
 
 ## TITULO TERCERO. MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 424.
 
-Internamiento o tratamiento en libertad de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos.- En caso en que un Juzgador determine la internación o tratamiento en libertad de un inimputable o de quien tenga el hábito o la necesidad de consumir estupefacientes o psicotrópicos el procedimiento de ejecución estará bajo la supervisión del Departamento de Servicios Coordinados de Prevención y Readaptación Social del Estado, y en los términos del Código Penal en la Entidad.
+Internamiento o tratamiento en libertad de inimputables y tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos.- En caso en que un juzgador determine la internación o tratamiento en libertad de un inimputable o de quien tenga el hábito o la necesidad de consumir bebidas alcohólicas, estupefacientes o psicotrópicos el procedimiento de ejecución estará bajo la supervisión del Departamento de Servicios Coordinados de Prevención y Readaptación Social del Estado, y en los términos del Código Penal en la Entidad.
 
 ## TITULO CUARTO
 
@@ -3580,3 +3650,71 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reform
 P.O. 31 DE AGOSTO DE 2007.
 
 ÚNICO.- La presente reforma entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 420
+
+PRIMERO.- Las presentes reformas entraran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 422
+
+ÚNICO.- La presente reforma entrará en vigor dieciocho meses después de su publicación en el periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 423
+
+ÚNICO: El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 441
+
+PRIMERO.- Las presentes Reformas entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 30 días a partir de la publicación de las presentes Reformas en el Periódico Oficial del Estado, para realizar mediante la Secretaría de Seguridad Publica los convenios con las instituciones privadas y públicas que reúnan los requisitos a los que refiere la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California.
+
+TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elaborar el Reglamento de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, particularmente en lo que toca al procedimiento y recursos administrativos, el otorgamiento y vigilancia de los beneficios de libertad, el procedimiento del tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos en las instituciones públicas y privadas, el procedimiento, las funciones del Consejo Técnico Interdisciplinario, la institución del régimen abierto y el servicio social de pasantes y voluntarios.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO NUMERO 444
+
+Artículo Primero.- Inicio de Vigencia.- El presente Código entrará en vigor a las cero horas del día primero de junio del año dos mil nueve en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+
+I. Ensenada, a partir de las cero horas del día primero de junio del año dos mil diez.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de junio del año dos mil once.
+
+Artículo Segundo.- Abrogación. El Código de Procedimientos Penales promulgado el veinte de agosto de mil novecientos ochenta y nueve seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado en la medida en que aquellos queden agotados.
+
+Artículo Tercero.- Derogación Tácita de Preceptos Incompatibles. A la entrada en vigor sucesiva del presente ordenamiento quedarán derogados los preceptos de la legislación de la Entidad que se le opongan.
+
+Artículo Cuarto.- Delitos Permanentes y Continuados. El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Procedimientos Penales de mil novecientos ochenta y nueve y que continúen desarrollándose bajo la vigencia de la presente Ley, será regulado por el primero de los Ordenamientos citados en este Artículo.
+
+Artículo Quinto.- Prohibición de Acumulación de Procesos. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+
+Artículo Sexto.- Eficacia Retroactiva.- Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de Baja California, promulgado en el año de mil novecientos ochenta y nueve, salvo lo que se dispone a continuación: A) La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa, los calificados como graves y el de delincuencia organizada previsto por la ley de la materia, B) Los acuerdos reparatorios y la suspensión del proceso a prueba, C) El procedimiento abreviado y D) El recurso de revisión.
+
+Las facultades que el presente Código concede al Juez de garantía, serán ejercidas, para efectos de este artículo, por el Juez de primera instancia penal, mixta o Juez de paz, según corresponda.
+
+Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales para el Estado de Baja California de mil novecientos ochenta y nueve, se estará a las siguientes normas de éste último.
+
+I. Los acuerdos reparatorios podrán celebrarse hasta antes de la celebración de la audiencia a que se refiere su artículo 291;
+
+II. La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone su artículo 285;
+
+III. El procedimiento abreviado se tramitará conforme a los dispuesto en el tercer párrafo de su artículo 284 bis, y podrá solicitarse hasta antes de que se desahoguen las pruebas ofrecidas por las partes, en este caso, éstas deberán desistirse de las probanzas pendientes de desahogo. Los hechos que el imputado deberá reconocer, son aquellos materia del auto de formal prisión o de sujeción a proceso.
+
+Artículo Séptimo.- Legislación de Transición.- Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría de Oficio, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación penitenciaria y en general, toda aquella que sea necesaria para su implementación.
+
+Artículo Octavo.- De los planes de implementación y presupuesto.- El Consejo de la Judicatura del Poder Judicial, la Procuraduría General de Justicia del Estado, la Defensoría de Oficio y toda dependencia a la que impacta la entrada en vigor de esta ley, deberán elaborar los planes y programas necesarios para una adecuada y correcta implementación del presente Código, así como establecer dentro de los proyectos de presupuesto respectivos, a partir del que se proyecte este año y en lo sucesivo, las partidas indispensables para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación, y todos los demás requerimientos que sean necesarios para cumplir los objetivos para la entrada en vigor del presente Código.
+
+Artículo Noveno.- De la Comisión Interinstitucional de Implementación.- Dentro de los sesenta días siguientes a la publicación de la presente ley, se constituirá la Comisión Interinstitucional para la Implementación del Código de Procedimientos Penales, integrada permanentemente por el Secretario General de Gobierno, que la presidirá, el Presidente y un Magistrado del Tribunal Superior de Justicia del Estado, dos Diputados del Congreso del Estado, el Procurador de Justicia del Estado y el Jefe de la Defensoría de Oficio, así como en forma transitoria por aquellos titulares de otras instituciones y dependencias, con quienes sea necesario realizar labores de coordinación para la correcta implementación y vigencia de las disposiciones del presente Código.
+
+Corresponderá a la Comisión planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas labores que sean necesarias para una correcta implementación del presente Código, así como coordinar las tareas entre las distintas instituciones involucradas con esa implementación.
