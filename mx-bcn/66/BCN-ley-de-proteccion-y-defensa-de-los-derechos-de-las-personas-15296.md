@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-las-personas-152
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-15"
-last_updated: "2005-11-18"
+last_updated: "2007-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 1999.
 
@@ -56,6 +56,10 @@ Las disposiciones de esta ley son de orden público e interés general y tiene p
 La Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia en el Estado, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, será el órgano facultado para proteger los derechos que para las personas menores de dieciocho años de edad consagran los Tratados Internacionales celebrados y que se celebren por el Presidente de la República con la aprobación del Senado; la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales aplicables.
 
 Asimismo la Procuraduría para la Defensa de las personas menores de dieciocho años de edad y la Familia, a través de su titular, deberá de vigilar que en todas las actuaciones, acuerdos o resoluciones que emitan las autoridades en el Estado prevalezca siempre el interés superior de la persona menor de dieciocho años de edad y la familia.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 2° BIS.- La Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia para proteger eficazmente los derechos de las personas menores de dieciocho años de edad enunciados en el artículo anterior, podrá recibir en todo momento por conducto de las diversas autoridades judiciales o administrativas competentes a cualquier persona menor de dieciocho años de edad presuntamente víctima de la comisión de algún delito, infracción o encontrarse bajo cualquier estado de vulnerabilidad; debiendo dichas autoridades acompañar al oficio de disposición certificado médico, su declaración inicial o de la persona que lo presentó ante aquella autoridad, o en su caso parte informativo levantado por los agentes que lo aseguraron, o la elaboración de una entrevista; lo anterior con el único propósito de que la procuraduría se encuentre en aptitud de proteger de una manera completa sus derechos elementales antes (sic) las instancias correspondientes.
 
 ###### ARTICULO 3°.
 
@@ -107,7 +111,9 @@ XI.- MALTRATO SEXUAL: Los actos u omisiones para el control, manipulación o dom
 
 Las personas menores de dieciocho años de edad, para el pleno y armonioso desarrollo de su personalidad, debe crecer en el seno de la familia, en un ambiente de felicidad, amor y comprensión.
 
-La Procuraduría, así como las autoridades administrativas o judiciales del Estado velarán porque las personas menores de dieciocho años de edad, no sean separados de sus padres contra la voluntad de éstos, excepto cuando por resolución judicial o cuando de manera preventiva la Procuraduría, determine de conformidad con las disposiciones legales aplicables, que la separación es necesaria en el interés superior de las personas menores de dieciocho años de edad y la familia. Tal determinación puede ser necesaria cuando las personas menores de dieciocho años de edad sean objeto de maltrato físico, mental o verbal, descuido de sus necesidades básicas, explotación por parte de sus padres y de quienes las tengan bajo su cuidado, uso del alcohol, alguna droga o sustancia psicotrópicas o estupefacientes por parte de los padres o de quienes tengan a la persona menor de dieciocho años de edad bajo su cuidado; o cuando éstos realicen o permitan que otros realicen cualquier conducta de acción u omisión y esto ponga en peligro la salud, la integridad física o mental de la persona menor de dieciocho años de edad, su dignidad y su seguridad personal; e informar al día siguiente hábil, al Ministerio Público o al Juez competente o a la autoridad política del lugar que corresponda, la medida dictada a efecto de que sea calificada.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+La Procuraduría, así como todas las autoridades administrativas o judiciales del Estado, velarán porque las personas menores de dieciocho años de edad no sean separados de sus padres contra la voluntad de éstos, excepto cuando por resolución judicial o cuando de manera preventiva la Procuraduría, determine de conformidad con las disposiciones legales aplicables que la separación es necesaria en el interés superior de las personas menores de dieciocho años de edad. Tal determinación puede ser necesaria cuando las personas menores de dieciocho años de edad sean objeto de maltrato físico, psicológico o verbal, descuido de sus necesidades básicas, explotación por parte de sus padres y de quien lo tenga bajo su cuidado, uso del alcohol, alguna droga o sustancia psicotrópica o estupefacientes por parte de sus padres o de quienes tengan a la persona menor de dieciocho años de edad bajo su cuidado, o cuando estos realicen o permitan que otros realicen cualquier conducta de acción u omisión y esto ponga en peligro la salud, la integridad física o psicológico de la persona menor de dieciocho años de edad, su dignidad y su seguridad personal; e informar al día siguiente hábil, al Ministerio Publico o al Juez competente o a la autoridad política del lugar que corresponda, la medida dictada a efecto de que sea calificada.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -153,11 +159,11 @@ La persona menor de dieciocho años de edad con capacidades diferentes deberá d
 
 ARTICULO.11.- La persona menor de dieciocho años de edad tiene derecho al disfrute del más alto nivel posible de salud y al servicio para el tratamiento de las enfermedades y padecimientos y a la rehabilitación de la salud.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 12.
 
-Los padres, o en su caso las personas a las que les incumbe la responsabilidad legal del cuidado de las personas menores de dieciocho años de edad dentro de sus posibilidades y medios económicos, deberán proporcionar a la persona menor de dieciocho años de edad las condiciones de vida necesarias para su desarrollo integral.
+Los padres, o en su caso las personas a las que les incumbe la responsabilidad legal del cuidado de las personas menores de dieciocho años de edad, dentro de sus posibilidades y medios económicos, deberán proporcionar a las personas menor de dieciocho años de edad las condiciones de vida necesarias para su desarrollo integral, así como brindar un trato digno y humano, un ambiente de afecto, de seguridad moral y material, para su estabilidad emocional y adecuado desarrollo físico y mental.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -176,6 +182,10 @@ Ninguna persona menor de dieciocho años de edad podrá ser sometida a torturas 
 ###### ARTICULO 15.
 
 Ninguna persona menor de dieciocho años de edad será privada de su libertad ilegal o arbitrariamente. Toda persona menor de dieciocho años de edad privada de su libertad será tratada con humanidad y el respeto que merece la dignidad inherente a la persona humana y en particular se considerarán las atenciones especiales por su edad y nivel de madurez.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+ARTICULO 15 BIS.- La persona menor de dieciocho años de edad desde su nacimiento tiene derecho a una identidad y nacionalidad.
 
 ### CAPITULO III. DE LA PROTECCION Y SEGURIDAD JURIDICA DE LOS MENORES
 
@@ -235,7 +245,9 @@ I.- Turnar al Ministerio Público los casos que se hagan de su conocimiento rela
 
 II.- Realizar todas las diligencias jurídicas necesarias para regularizar la situación de las las (sic) personas menores de dieciocho años de edad en riesgo, incluyendo aquellas en las que se encuentren relacionadas Autoridades Municipales, Estatales, Federales o en su caso autoridades de otro país, en las cuales se solicitará la cooperación internacional;
 
-III.- Prestar asesoría jurídica a la familia, siempre que su intervención sea conveniente para mantener la estabilidad familiar;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+III.- Prestar asesoría jurídica, orientación social y psicológica a la familia, para mantener la estabilidad familiar; promoviendo la colaboración y participación de otras instancias públicas o privadas, nacionales o extranjeras;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -265,9 +277,35 @@ X.- Fomentar la creación de brigadas para la detección y prevención de proble
 
 XI.- Difundir por los medios más eficaces, el conocimiento de la presente ley, a efecto de lograr su plena observancia;
 
-XII.- Levantar el acta circunstanciada de las actuaciones que en el cumplimiento de la presente ley se requiera; debiendo contener una relación suscinta (sic) de tiempo, modo y lugar de los hechos con la intervención de dos testigos presenciales como mínimo, que no tengan interés directo o indirecto en la controversia; y,
+XII.- Levantar el acta circunstanciada de las actuaciones que en el cumplimiento de la presente ley se requiera; debiendo contener una relación suscinta (sic) de tiempo, modo y lugar de los hechos con la intervención de dos testigos presenciales como mínimo, que no tengan interés directo o indirecto en la controversia; y (sic),
 
-XIII.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XIII.- Velar porque las personas menores de dieciocho años de edad maltratados, abandonados o víctimas de la violencia familiar, obtengan provisional o definitivamente un hogar seguro;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XIV.- Elaborar pesquisas relativa (sic) a las personas menores de dieciocho años de edad extraviadas, o en su caso publicar oficios de localización de familiares de las personas menores de dieciocho años de edad abandonados o expósitos a disposición de la procuraduría, así como la de realizar las acciones necesarias para constatar el abandono de las personas menores de dieciocho años de edad;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XV.- Emitir dictámenes que, en su caso respalden una solicitud ante el Ministerio Público, Juez competente o a la autoridad política del lugar que corresponda de la separación cautelar o definitiva de personas menores de dieciocho años de edad u otros incapaces que sufran de violencia familiar;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XVI.-Realizar las acciones necesarias para brindar atención y protección integral a las personas menores de dieciocho años de edad u otros incapaces que en la calle o lugares públicos, realicen actividades de riesgo o sean objeto de explotación laboral;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XVII.- Gestionar en su caso, ante la Oficialía del Oficial del Registro Civil la elaboración del acta de nacimiento de las personas menores de dieciocho años de edad expósitos o abandonados;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XVIII.- Solicitar a otras instancias públicas o privadas ya sean federales, estatales, municipales inclusive extranjeras, diversas peticiones, documentos, estudios sociales, valoraciones psicológicas, comparecencias documentadas de personas y demás que sean necesarias para la debida integración de los expedientes administrativos a su cargo;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+XIX.- Las demás contempladas en otras disposiciones legales que sean aplicables para el cumplimiento de su objetivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -459,7 +497,9 @@ II.- Desempeñar las funciones y comisiones que el Procurador le encomienda, inf
 
 III.- Planear y coordinar las actividades a su cargo;
 
-IV.- Recibir a los representantes de las Instituciones de Beneficencia Privada, a los solicitantes de las mismas y en general a toda persona que de acuerdo con las disposiciones legales, desee realizar actividades no lucrativas y con fines de utilidad pública y predominantemente humanitarios, asesorándolos sobre los trámites administrativos necesarios para lograr legalmente su establecimiento;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+IV.- Supervisar permanentemente la atención y cuidados que las instituciones públicas o privadas brindan a los menores que reciban en sus establecimientos;
 
 V.- Vigilar la debida integración de los expedientes de los asuntos de su competencia;
 
@@ -701,9 +741,13 @@ Se consideran infracciones:
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-I.- El no asistir, sin causa justificada a los citatorios emitidos por el DIF a través de la Procuraduría de la Defensa de las personas menores de dieciocho años de edad y la Familia; y,
+I.- El no asistir, sin causa justificada a los citatorios emitidos por el DIF a través de la Procuraduría de la Defensa de las personas menores de dieciocho años de edad y la Familia; y (sic),
 
-II.- El incumplimiento del convenio elaborado en el procedimiento de conciliación que haya sido elevado a cosa juzgada.
+II.- El incumplimiento del convenio elaborado en el procedimiento de conciliación que haya sido elevado a cosa juzgada;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
+III.- El incumplimiento de la obligación que tienen los jefes, directores o administradores de reclusión, y de cualquier casa de comunidad, especialmente de los hospitales, casas de maternidad e inclusas de presentar ante la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, a las personas menores nacidos abandonados o expuestos en ellas.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2003)</small>
 
@@ -760,3 +804,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
