@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2007-02-22"
+last_updated: "2007-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2007.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -81,17 +81,21 @@ III. Las oficialías que sean necesarias para el cumplimiento eficaz de este ser
 
 La Dirección General del Registro Civil dependerá de la Secretaría General de Gobierno del Estado; en tanto que los oficiales jefes y las oficialías dependerán de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 6.
 
-La Dirección General del Registro Civil tendrá a su cargo el Archivo General, en donde se conservarán los ejemplares de las actas y documentos relativos a las mismas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda.
+La Dirección General del Registro Civil tendrá a su cargo el Archivo General, donde se conservarán los ejemplares de las actas y los documentos relativos a las mismas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda. En caso de inscripción computarizada, la consulta, conservación y distribución de esta información se regirá conforme al procedimiento que establezca el reglamento respectivo.
 
-En caso de inscripción computarizada, la consulta, conservación y distribución de esta información se regirá conforme al procedimiento que establezca el reglamento respectivo.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
-> <small>(F. DE E., P.O. 8 DE ABRIL DE 2003)</small>
+Asimismo, será parte integrante del Archivo General la base de datos del Registro Civil, la cual estará conformada por los archivos electrónicos de las imágenes digitalizadas y datos capturados de los ejemplares de las actas, así como de los documentos relativos a las mismas, por lo que dichos archivos electrónicos tendrán el mismo valor probatorio que los ejemplares de las actas resguardados en los libros respectivos, siempre y cuando se encuentren respaldados por la firma electrónica del oficial del Registro Civil ante el que se hayan levantado, o en su caso, del Director General del Registro Civil.
 
-La Dirección General del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta Ley y su Reglamento.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
+
+La Dirección General del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
 Corresponde a la Dirección General del Registro Civil, la inspección, coordinación y supervisión de las Oficialías del Registro Civil en el Estado, a las cuales les proporcionará los manuales de procedimientos aplicables.
 
@@ -317,11 +321,11 @@ IX. No podrán dejar de anotarse los datos previstos en las formas del Registro 
 
 X. No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 30.
 
-Las actas del estado civil se sentarán en formatos con características especiales, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas, la elaboración será por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en las demás; se levantarán en forma computarizada o mecanografiada debiendo contener la Clave Única del Registro Nacional de Población (CURP).
+Las actas del estado civil se levantarán en formatos con características especiales que serán expedidos por la Dirección General del Registro Civil, a los que se les denomina formas del registro civil, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas; su elaboración será, salvo lo previsto en el artículo 32 de esta ley, por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en los demás casos, se levantarán en forma computarizada o mecanografiada, debiendo contener la clave única del registro de población.
 
 > <small>(F. DE E., 9 DE OCTUBRE DE 2004)</small>
 
@@ -331,11 +335,11 @@ El hacer constar un acto y el asentamiento del acta en un formato no autorizado 
 
 Para asentar los actos a que se refiere el artículo anterior, existirá un formato específico para cada uno. Si por cualquier causa no existiere, se asentará en el de inscripciones generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 32.
 
-Las formas del registro civil, serán expedidas por la dirección general del registro civil; los oficiales remitirán todas las copias que se generen a la misma dirección, exceptuando el ejemplar del acta que se entrega al interesado y el original que se queda en la Oficialía para formar los libros de cada uno de los actos.
+Los oficiales del Registro Civil remitirán todos los ejemplares que se generen a la Dirección General, exceptuando el que corresponda al interesado, así como el que se queda en la Oficialía para formar los libros de cada uno de los actos. Dicha remisión se tendrá por cumplimentada mediante el envío de la imagen digitalizada del acta respectiva, siempre que se encuentren respaldados en el archivo electrónico, con la firma electrónica del Oficial del Registro Civil correspondiente.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
@@ -355,11 +359,11 @@ Las actas relativas al nacimiento, reconocimiento de hijo, matrimonio y defunci�
 
 (NOTA: EL 21 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 3/2025, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 36.
 
-Los actos del estado civil relativos a la misma persona deberán anotarse en su acta DE NACIMIENTO Y EN LA de matrimonio cuando lo hubiera celebrado, debiendo remitirse mediante oficio, copia certificada al Archivo y Oficialía que corresponda, ya sea en el interior o fuera del Estado. Estas anotaciones marginales se insertarán en todas las copias certificadas que se expidan.
+Los actos del estado civil relativos a la misma persona deberán anotarse en su acta DE NACIMIENTO Y EN LA de matrimonio cuando lo hubiere celebrado, debiendo remitirse mediante oficio o utilizando los medios electrónicos de conformidad con esta ley y demás disposiciones aplicables, copia certificada al Archivo General y Oficialía que corresponda, ya sea en el interior o fuera del estado. Estas anotaciones marginales se insertarán en todas las copias certificadas que se expidan.
 
 ###### Artículo 37.
 
@@ -975,6 +979,10 @@ Cuando se presente la persona declarada ausente o cuya muerte se presumía o se 
 
 Las certificaciones de las copias y extractos de las actas y documentos que obren en los archivos de la Dirección General del Registro Civil y las oficialías, tendrán el mismo valor probatorio tratándose de trámites relativos al estado civil de las personas.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2007)</small>
+
+Las certificaciones a que se refiere el presente artículo podrán llevarse a cabo mediante la utilización de la firma electrónica, de conformidad con lo previsto en la presente ley, su reglamento y las demás disposiciones aplicables.
+
 Los formatos para la expedición de las copias y extractos referidos, serán autorizados por la misma Dirección, con las especificaciones técnicas y diseños que ésta determine.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
@@ -1310,3 +1318,11 @@ P.O. 22 DE FEBRERO DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
+
+P.O. 20 DE OCTUBRE DE 2007.
+
+PRIMERO. El presente decreto entrará en vigor (sic) los cuarenta y cinco días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Llévense a cabo las transferencias presupuestales que sean necesarias para su cumplimiento; para ello, la Dirección General del Registro Civil del Estado se coordinará con la Secretaría de Finanzas para la debida presupuestación y aplicación de los recursos que sean necesarios para tal efecto.
+
+TERCERO. La Dirección General del Registro Civil del Estado deberá desarrollar los programas computacionales y demás herramientas técnico-administrativas que sean indispensables para la ejecución del presente, respetando en todo momento la autonomía de los municipios.
