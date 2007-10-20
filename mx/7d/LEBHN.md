@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2006-06-02"
+last_updated: "2007-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2007.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -92,9 +92,11 @@ Corresponde a la Secretaría de Gobernación promover y regular el abanderamient
 
 En festividades cívicas o ceremonias oficiales en que esté presente la Bandera Nacional, deberán rendírsele los honores que le corresponden en los términos previstos en esta Ley y los Reglamentos aplicables; honores que, cuando menos, consistirán en el saludo civil simultáneo de todos los presentes, de acuerdo con el Artículo 14 de esta misma Ley.
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 10.
 
-El día 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión, destinados a difundir la historia y significación de la Bandera Nacional.
+El 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión destinados a difundir la historia y significación de la Bandera Nacional. En esta fecha, los poderes de los tres órdenes de gobierno realizarán jornadas cívicas en conmemoración, veneración y exaltación de la Bandera Nacional.
 
 ###### Artículo 11.
 
@@ -156,9 +158,11 @@ Aniversario de la promulgación de las Constituciones de 1857 y 1917.
 
 "Día de la Bandera"
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+
 1o. de marzo:
 
-Aniversario de la Proclamación del Plan de Ayutla.
+Aniversario de la proclamación del Plan de Ayutla.
 
 15 de marzo: (DEROGADO, D.O.F. 3 DE FEBRERO DE 2006)
 
@@ -234,6 +238,12 @@ Aniversario del nacimiento de José María Morelos en 1765.
 
 "Día de la Raza" y Aniversario del Descubrimiento de América, en 1492.
 
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+
+22 de octubre:
+
+Aniversario de la constitución del Ejército Insurgente Libertador, en 1810.
+
 23 de octubre:
 
 "Día Nacional de la Aviación".
@@ -248,19 +258,23 @@ Aniversario del nacimiento de Francisco I. Madero, en 1873.
 
 1o. de noviembre: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+
 6 de noviembre:
 
-Conmemoración de la Promulgación del Acta de la Independencia Nacional por el Congreso de Chilpancingo en 1813.
+Conmemoración de la promulgación del Acta de la Independencia Nacional por el Congreso de Chilpancingo, en 1813.
+
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
 
 20 de noviembre:
 
-Aniversario del inicio de la Revolución Mexicana en 1910.
+Aniversario del inicio de la Revolución Mexicana, en 1910.
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
 
-23 de noviembre.
+23 de noviembre:
 
-"Día de la Armada de México"
+"Día de la Armada de México".
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1991)</small>
 
@@ -727,3 +741,9 @@ D.O.F. 3 DE FEBRERO DE 2006.
 D.O.F. 2 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
