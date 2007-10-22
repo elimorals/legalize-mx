@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-44861"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-06"
-last_updated: "2006-11-28"
+last_updated: "2007-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-05-27"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO, FRACCION I TRANSITORIO DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, PUBLICADO EN EL D.O.F. DE 22 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 2005.
 
@@ -3662,3 +3664,51 @@ Cuarto. La Aduana de Guanajuato iniciará sus actividades una vez que entre en v
 D.O.F. 28 DE NOVIEMBRE DE 2006.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE OCTUBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Primero de este Decreto, que iniciará su vigencia en un plazo de dos meses contado a partir del día siguiente al de su publicación en el citado órgano de difusión.
+
+Segundo. Para los efectos del Artículo Primero del presente Decreto, se aplicarán las siguientes disposiciones:
+
+I. Se abroga el Reglamento Interior del Servicio de Administración Tributaria publicado en el Diario Oficial de la Federación el 6 de junio de 2005.
+
+II. Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas del Servicio de Administración Tributaria que cambian de denominación por virtud del Reglamento que se emite mediante este Decreto, se entenderán hechas o conferidas a las unidades administrativas que corresponda conforme al presente Decreto.
+
+III. En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del Reglamento que se emite mediante este Decreto continuarán siendo aplicables, en lo conducente, los acuerdos expedidos con anterioridad a la entrada en vigor de dicho Reglamento, en lo que no se oponga al mismo.
+
+IV. Salvo lo dispuesto en las fracciones V, VI, VII, VIII, IX y X siguientes, cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del Reglamento que se emite mediante este Decreto, deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la unidad administrativa competente terminar la sustanciación de los asuntos que se encuentren en trámite a la fecha señalada en el transitorio primero de este Decreto y, en su caso, dictar la resolución que corresponda.
+
+El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de este Decreto, pasarán a la unidad o unidades competentes distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+V. Para los efectos de las visitas domiciliarias y revisiones de gabinete iniciados por la Administración General de Aduanas y las unidades administrativas adscritas a la misma antes de la entrada en vigor del presente Decreto, se estará a lo siguiente:
+
+a) Las facultades de comprobación establecidas en el artículo 42, fracciones II y III del Código Fiscal de la Federación iniciados a partir del 29 de junio de 2006, serán sustanciados y concluidos por la unidad administrativa de la Administración General de Auditoría Fiscal Federal o de la Administración General de Grandes Contribuyentes que por razón del sujeto y circunscripción territorial corresponda en el momento en que entre en vigor el Reglamento que se emite mediante este Decreto, siempre y cuando no se haya levantado la última acta parcial o notificado el oficio de observaciones. En todos los casos, la nueva unidad competente notificará por escrito a los contribuyentes de la sustitución de autoridad.
+
+Los expedientes en trámite, archivo, personal, mobiliario y equipo en general a cargo de las unidades administrativas que dejan de tener competencia serán transferidos a la nueva unidad competente.
+
+b) Las facultades de comprobación establecidas en el artículo 42, fracciones II y III del Código Fiscal de la Federación iniciados a partir del 29 de junio de 2006 en los que se haya levantado la última acta parcial o notificado el oficio de observaciones, así como los iniciados antes del 29 de junio de 2006 serán sustanciados y concluidos por la Administración General de Aduanas.
+
+Una vez concluidos los asuntos a que se refiere este inciso, el personal, mobiliario y equipo en general serán transferidos a las unidades competentes.
+
+VI. La Administración General de Aduanas y sus unidades administrativas resolverán los procedimientos administrativos en materia aduanera que a la entrada en vigor del Reglamento que se emite mediante este Decreto tengan en proceso.
+
+VII. Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del Reglamento que se emite mediante este Decreto, se tramitarán y resolverán por la unidad administrativa del Servicio de Administración Tributaria que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme al citado Reglamento.
+
+La Administración General de Aduanas y sus unidades administrativas cumplimentarán las sentencias derivadas de juicios de nulidad o juicios de amparo, así como las resoluciones derivadas de recursos de revocación, recaídas respecto de las resoluciones que haya emitido en los actos de fiscalización y a los procedimientos administrativos en materia aduanera a que se refieren las fracciones V, inciso a) y VI, respectivamente.
+
+VIII. Para efectos de las facultades de comprobación iniciadas por las unidades administrativas adscritas a la Administración General de Grandes Contribuyentes, se estará a lo siguiente:
+
+a) Las facultades de comprobación iniciadas por las Administraciones Regionales de Grandes Contribuyentes, serán sustanciadas y concluidas por las unidades administrativas centrales dependientes de la Administración General de Grandes Contribuyentes.
+
+b) Las unidades administrativas centrales dependientes de la Administración General de Grandes Contribuyentes continuarán siendo competentes para sustanciar y concluir las facultades de comprobación iniciadas por ellas y por las Administraciones Regionales de Grandes Contribuyentes respecto de los sujetos referidos en las fracciones I a VI del inciso B del artículo 19 del Reglamento que se abroga y que con motivo del Reglamento que se emite mediante el presente Decreto ya no sean competencia de la Administración General de Grandes Contribuyentes.
+
+En todos los casos, la unidad administrativa competente notificará por escrito a los contribuyentes de la sustitución de autoridad.
+
+c) El cumplimiento de las sentencias derivadas de juicios de nulidad o de juicios de amparo, así como las resoluciones derivadas de recursos de revocación, recaídas respecto de las resoluciones que se hubieren emitido en los actos de fiscalización a que se refieren los incisos anteriores, se realizará por la unidad administrativa que sea competente en los términos del presente Reglamento.
+
+IX. La Administración General Jurídica y sus unidades administrativas ejercerán la facultad establecida en el artículo 14 fracción XLVII de este Reglamento, hasta en tanto la Junta de Gobierno del Servicio de Administración Tributaria emita Acuerdo en el que determine que la Administración General de Servicios al Contribuyente comenzará a ejercerla.
+
+X. La Administración Central de Destino de Bienes, transferirá al Servicio de Administración y Enajenación de Bienes la totalidad de los bienes provenientes de comercio exterior que se encuentren bajo su administración, guarda y custodia a la entrada en vigor del presente Decreto, asimismo llevará a cabo, de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la referida entidad de acuerdo con las disposiciones aplicables.
+
+Una vez realizadas las acciones a que se refiere el párrafo que antecede, el personal, mobiliario y equipo en general que haya sido utilizado para tales efectos continuará adscrito y resguardado por la Administración Central de Destino de Bienes.
