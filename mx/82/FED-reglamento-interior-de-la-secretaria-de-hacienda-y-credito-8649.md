@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2006-07-18"
+last_updated: "2007-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 2007.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -961,15 +961,19 @@ XXIV. Llevar la instrucción de los procedimientos en que deba intervenir la Sec
 
 XXV. Contestar en representación del Secretario los escritos de los particulares en que ejerzan el derecho de petición, en asuntos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-XXVI. Ejercer, en materia de infracciones o delitos, las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría; formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello; formular la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos que proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal o, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría manifiesten no tener objeción en su otorgamiento; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos, deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
+XXVI. Ejercer, en materia de infracciones o delitos, las atribuciones señaladas a la Secretaría en el Código Fiscal de la Federación y en las demás leyes, e imponer las sanciones correspondientes por infracciones a dichas leyes, excepto cuando competa imponerlas a otra unidad o autoridad administrativa de la Secretaría; formular las abstenciones para presentar denuncias, querellas, declaratorias de perjuicio o posible perjuicio o peticiones cuando exista impedimento legal o material para ello; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos, deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
 
-XXVII. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2001)
+> <small>(ADICIONADA, D.O.F 22 DE OCTUBRE DE 2007)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+XXVII. Formular la petición de sobreseimiento del proceso penal así como otorgar el perdón, en los casos que proceda, cuando se trate de delitos fiscales previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
 
-XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación de los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegarse de los elementos probatorios del caso, darle la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquéllos en que tenga conocimiento o interés, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría, y formular la petición de sobreseimiento del proceso penal u otorgar el perdón legal, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
+Tratándose de delitos previstos en leyes financieras, para la formulación de la petición del sobreseimiento o el otorgamiento del perdón se deberá contar con la no objeción para su otorgamiento por parte de las comisiones supervisoras del sistema financiero y otras áreas competentes de la Secretaría y, en su caso, podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
+
+XXVIII. Denunciar o querellarse ante el Ministerio Público de la Federación por los hechos que puedan constituir delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, allegarse de los elementos probatorios del caso, darle la intervención que corresponda al Órgano Interno de Control en la Secretaría y a la Secretaría de la Función Pública; denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida o en aquéllos en que tenga conocimiento o interés jurídico, coadyuvar en estos casos con el propio Ministerio Público, en representación de la Secretaría, y formular la petición de sobreseimiento del proceso penal u otorgar el perdón, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés jurídico en el asunto de que se trate manifiesten no tener objeción en su otorgamiento y, en su caso, podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1119,9 +1123,9 @@ LXXV. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 En los casos en que el Procurador Fiscal de la Federación así lo considere conveniente, podrá ejercer la representación de la Secretaría o de cualquiera de sus unidades administrativas, en cualquier tipo de juicio o procedimiento judicial o administrativo.
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones XXVI y XXVIII de este artículo, podrá ser ejercida por el Procurador Fiscal de la Federación, siempre que intervenga en forma conjunta con el Subprocurador Fiscal Federal de Investigaciones, o con los directores generales de Delitos Fiscales o de Delitos Financieros y Diversos o los directores de área adscritos a dichas direcciones generales, en el ámbito de su competencia.
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones XXVII y XXVIII de este artículo, podrá ser ejercida por el Procurador Fiscal de la Federación, siempre que intervenga en forma conjunta con el Subprocurador Fiscal Federal de Investigaciones, o con los directores generales de Delitos Fiscales o de Delitos Financieros y Diversos o los directores de área adscritos a dichas direcciones generales, en el ámbito de su competencia.
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -1297,7 +1301,9 @@ III. Coordinarse con las demás unidades administrativas de la Secretaría para 
 
 IV. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
 
-V. Autorizar los nombramientos del personal de base y de confianza de las unidades administrativas a su cargo, condicionados a la validación de la Dirección General de Recursos Humanos; proponer a la Oficialía Mayor el cese del personal de confianza y sindicalizado a su cargo, así como autorizar, ejecutar y controlar los demás asuntos relativos al personal de confianza con el apoyo de la Oficialía Mayor.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
+
+V. Autorizar los nombramientos del personal de base y de confianza de las unidades administrativas a su cargo, condicionados a la validación de la Dirección General de Recursos Humanos; cesar al personal de confianza y sindicalizado a su cargo, así como autorizar, ejecutar y controlar los demás asuntos relativos al personal de confianza con el apoyo de la Oficialía Mayor.
 
 Las acciones que la Oficialía Mayor deba realizar por virtud de esta fracción, se regirán por las directrices, normas, criterios y niveles de servicio a que se refiere el artículo 8o., fracción VII de este Reglamento;
 
@@ -6911,17 +6917,23 @@ Compete a la Subprocuraduría Fiscal Federal de Investigaciones:
 
 I. Investigar la comisión de delitos fiscales, de aquellos en que incurran servidores públicos de la Secretaría en el desempeño de sus funciones y de los que se cometan en perjuicio de la misma o de los que tenga conocimiento;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse y presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio, respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales, así como los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones y de otros hechos delictuosos que sean competencia de la Secretaría; formular las abstenciones cuando exista impedimento legal o material para ello, así como la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal o, tratándose de delitos previstos en leyes financieras, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría manifiesten no tener objeción en su otorgamiento; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
+II. Denunciar, querellarse y presentar las declaratorias de que el Fisco Federal ha sufrido o pudo haber sufrido perjuicio, respecto de delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales, así como los cometidos por servidores públicos de la Secretaría en ejercicio de sus funciones y de otros hechos delictuosos que sean competencia de la Secretaría; formular las abstenciones cuando exista impedimento legal o material para ello; orientar y asistir legalmente, cuando lo considere necesario, a los servidores públicos adscritos a la Secretaría que por el ejercicio de las atribuciones propias de sus cargos deban intervenir en los procedimientos penales incoados con base en la competencia a que se refiere este artículo;
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida y de aquellos de que tenga conocimiento o interés; formular las abstenciones cuando exista impedimento legal o material para ello, así como la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
+II Bis. Formular la petición de sobreseimiento del proceso penal así como otorgar el perdón, en los casos que proceda, cuando se trate de delitos fiscales previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2005)</small>
+Tratándose de delitos previstos en leyes financieras, para la formulación de la petición del sobreseimiento o el otorgamiento del perdón se deberá contar con la no objeción para su otorgamiento por parte de las comisiones supervisoras del sistema financiero y otras áreas competentes de la Secretaría y, en su caso, podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
 
-IV. Formular y presentar las peticiones, así como denunciar o querellarse, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento;
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
+
+III. Denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Secretaría resulte ofendida y de aquellos de que tenga conocimiento o interés jurídico; formular las abstenciones cuando exista impedimento legal o material para ello, así como la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés jurídico en el asunto de que se trate manifiesten no tener objeción en su otorgamiento y, en su caso, se podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
+
+IV. Formular y presentar las peticiones, así como denunciar o querellarse, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, por la comisión de los delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y de fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría que tengan injerencia o interés en el asunto de que se trate manifiesten no tener objeción en su otorgamiento; y, en su caso, se podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -7081,9 +7093,9 @@ LVI. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
 LVII. (DEROGADA, D.O.F. 7 DE MAYO DE 2004)
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones II, III y IV de este artículo, podrá ser ejercida por el Subprocurador Fiscal Federal de Investigaciones, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación o con los directores generales de Delitos Fiscales o de Delitos Financieros y Diversos o los directores de área adscritos a dichas direcciones generales, en el ámbito de su competencia.
+La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refieren las fracciones II Bis, III y IV de este artículo, podrá ser ejercida por el Subprocurador Fiscal Federal de Investigaciones, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación o con los directores generales de Delitos Fiscales o de Delitos Financieros y Diversos o los directores de área adscritos a dichas direcciones generales, en el ámbito de su competencia.
 
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -7095,9 +7107,11 @@ Compete a la Dirección General de Delitos Fiscales:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de los delitos de defraudación fiscal y sus equiparables, contrabando y sus equiparables y demás delitos fiscales e investigar los hechos delictuosos relativos a la materia de competencia de la Subprocuraduría Fiscal Federal de Investigaciones, a fin de aportar los elementos de prueba del delito y de la probable responsabilidad penal, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal.
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público; formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal así como otorgar el perdón, en los casos que proceda, previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director General de Delitos Fiscales, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones, o con cualquiera de los directores de área de su adscripción;
 
@@ -7131,9 +7145,11 @@ Compete a la Dirección de Defraudación Fiscal:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de defraudación fiscal, sus equiparables y demás delitos fiscales; así como de otros hechos delictuosos en que la Secretaría resulte ofendida, o de aquellos en los que tenga interés;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal.
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director de Defraudación Fiscal, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones, o con el Director General de Delitos Fiscales;
 
@@ -7161,9 +7177,11 @@ Compete a la Dirección de Contrabando:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión del delito de contrabando, sus equiparables y demás delitos fiscales; así como de otros delitos en que la Secretaría resulte ofendida o que tenga interés;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, en el caso de delitos fiscales, las unidades administrativas o autoridades del Servicio de Administración Tributaria informen que se encuentra satisfecho el interés del Fisco Federal.
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director de Contrabando, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones, o con el Director General de Delitos Fiscales;
 
@@ -7209,11 +7227,15 @@ Compete a la Dirección General de Delitos Financieros y Diversos:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de los siguientes delitos: los previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero; los delitos fiscales, excepto defraudación fiscal y sus equiparables y contrabando y sus equiparables; los cometidos por los servidores públicos de la Secretaría en ejercicio de sus funciones y otros hechos delictuosos en que ésta resulte ofendida o de aquellos en los que tenga interés en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría; investigar y allegarse de las pruebas relacionadas con los hechos que impliquen la probable comisión de delitos cometidos en contra del patrimonio de la Secretaría, así como instruir la integración de los expedientes relacionados con dichas investigaciones;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos que proceda, siempre y cuando, las unidades administrativas o autoridades del Servicio de Administración Tributaria, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría, que tenga injerencia o interés en el asunto de que se trate, manifiesten expresamente no tener objeción en su otorgamiento y, en su caso, que se encuentra satisfecho el interés del Fisco Federal.
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello;
 
-La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director General de Delitos Financieros y Diversos, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones o con cualquiera de los directores de área de su adscripción en el ámbito de su competencia;
+> <small>(ADICIONADA, D.O.F. 22 DE OCTUBRE DE 2007)</small>
+
+II Bis. Formular la petición de sobreseimiento del proceso penal así como otorgar el perdón, en los casos que proceda, cuando se trate de delitos fiscales previo informe del Servicio de Administración Tributaria en el que se establezca que se ha cubierto el interés fiscal al encontrarse pagados o garantizados a satisfacción del Fisco Federal, los créditos del contribuyente o de las personas morales en que éste ejerza el control efectivo, además se podrá considerar, entre otros, si el pago fue espontáneo, la existencia de juicios o litigios en contra del Fisco Federal y, en su caso, los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+Tratándose de delitos previstos en leyes financieras y de otros delitos en los que la Secretaría resulte ofendida o de aquellos en los que tenga interés, para la formulación de la petición del sobreseimiento o el otorgamiento del perdón se deberá contar con la no objeción para su otorgamiento por parte de las comisiones supervisoras del sistema financiero y otras áreas competentes de la Secretaría, según se trate y, en su caso, podrá considerar los elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -7273,9 +7295,11 @@ Compete a la Dirección de Delitos Financieros:
 
 I. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos previstos en las leyes que rigen a las instituciones de crédito, de seguros y fianzas, a las organizaciones y actividades auxiliares del crédito, al mercado de valores, al sistema de ahorro para el retiro y demás instituciones que integren el sistema financiero, así como de otros hechos delictuosos en que la Secretaría resulte ofendida o de aquéllos en los que tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría, que tengan injerencia o interés en el asunto de que se trate, manifiesten expresamente no tener objeción en su otorgamiento.
+II. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refiere la fracción anterior de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, las comisiones supervisoras del sistema financiero u otras áreas competentes de la Secretaría, que tengan injerencia o interés jurídico en el asunto de que se trate, manifiesten expresamente no tener objeción en su otorgamiento y, en su caso, se podrá considerar los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director de Delitos Financieros, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones, o con el Director General de Delitos Financieros y Diversos;
 
@@ -7311,9 +7335,11 @@ II. Apoyar en la investigación de los hechos delictuosos relativos a la materia
 
 III. Estudiar y recabar las pruebas, constancias, documentación e informes sobre la comisión de delitos fiscales, excepto defraudación fiscal y sus equiparables y contrabando y sus equiparables; de los cometidos por servidores públicos de la Secretaría en el ejercicio de sus funciones y de otros delitos en que ésta resulte ofendida o tenga interés, en las materias que no estén expresamente asignadas a otras unidades administrativas de la Secretaría; así como integrar los expedientes relacionados con las investigaciones a que se refiere esta fracción;
 
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE OCTUBRE DE 2007)</small>
 
-IV. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refieren las fracciones anteriores de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando, las unidades administrativas o autoridades del Servicio de Administración Tributaria, u otras áreas competentes de la Secretaría, que tengan injerencia o interés en el asunto de que se trate, manifiesten expresamente no tener objeción en su otorgamiento y, en su caso, que se encuentra satisfecho el interés del Fisco Federal.
+IV. Denunciar, querellarse, así como formular y presentar las declaratorias de perjuicio y peticiones que procedan, en relación con la responsabilidad penal y los hechos delictuosos a que se refieren las fracciones anteriores de este artículo, que deban hacerse al Ministerio Público, así como formular las abstenciones cuando exista impedimento legal o material para ello y la petición de sobreseimiento del proceso penal u otorgar el perdón en los casos en que así proceda, siempre y cuando las áreas competentes de la Secretaría que tengan injerencia o interés jurídico en el asunto de que se trate manifiesten no tener objeción en su otorgamiento y, en su caso, se podrá considerar los demás elementos que se establezcan en las disposiciones y lineamientos que se emitan para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 La facultad de formular la petición de sobreseimiento del proceso penal u otorgar el perdón a que se refiere esta fracción podrá ser ejercida por el Director de Delitos Diversos, siempre que intervenga en forma conjunta con el Procurador Fiscal de la Federación, o con el Subprocurador Fiscal Federal de Investigaciones, o con el Director General de Delitos Financieros y Diversos;
 
@@ -8818,3 +8844,9 @@ NOVENO.- Las referencias que se hacen y las atribuciones que se otorgan, a la Di
 DÉCIMO.- Los derechos laborales de los trabajadores de la Secretaría serán respetados. Los cargos de Directores Generales Adjuntos de Programación y Análisis del Sistema Financiero de Fomento y Coordinación con Entidades Agropecuarias y de Vivienda; de Coordinación con Entidades del Sistema Financiero Industrial, Comercio, Obras Públicas, Ahorro Popular y Servicios Financieros, y de Evaluación y Control de Asuntos Financieros, mismos que cambian de denominaciones con motivo del presente Decreto a Directores Generales Adjuntos de Programación y Análisis del Sistema Financiero de Fomento y Coordinación con Entidades Agropecuarias; de Coordinación con Entidades del Sistema Financiero Industrial, Comercio, Obras Públicas, Vivienda y Ahorro Popular, y de Asuntos Financieros, respectivamente, quedarán sujetos a lo dispuesto por artículo tercero transitorio del Decreto por el que se expide la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 10 de abril de 2003 y demás disposiciones aplicables.
 
 DÉCIMO PRIMERO. Las Coordinaciones Administrativas a que se refiere el sexto transitorio del "Decreto que reforma el Reglamento Interior de la Secretaría de Hacienda y Crédito Público y el Reglamento de la Ley del Servicio de Tesorería de la Federación", publicado en el Diario Oficial de la Federación el 7 de mayo de 2004, tendrán en su estructura hasta dos direcciones de área, con excepción de aquéllas que atiendan los asuntos relacionados con recursos materiales, humanos y financieros de más de ocho direcciones generales o unidades, en cuyo caso podrán contar con una dirección de área por cada cuatro direcciones generales o unidades cuyos asuntos atiendan, siempre y cuando dichas direcciones de área se cubran mediante movimientos compensados del presupuesto de servicios personales de la Subsecretaría que corresponda, de la Procuraduría Fiscal de la Federación, de la Tesorería de la Federación o de la Oficialía Mayor, según se trate.
+
+D.O.F. 22 DE OCTUBRE DE 2007.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL REGLAMENTO.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Primero de este Decreto, que iniciará su vigencia en un plazo de dos meses contado a partir del día siguiente al de su publicación en el citado órgano de difusión.
