@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-instituto-electoral-de-quintana-roo-para-41484"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-14"
-last_updated: "2004-10-14"
+last_updated: "2007-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,258 +21,746 @@ state: "ROO"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
 
-REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
+LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2020
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de Octubre de 2004.
+Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 16 de diciembre de 2019.
 
-REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PÚBLICO POR ACTIVIDADES ESPECÍFICAS A LOS PARTIDOS POLÍTICOS COMO ENTIDADES DE INTERÉS PÚBLICO.
+CARLOS MENDOZA DAVIS, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
-###### Artículo 1.
+QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-El presente Reglamento tiene por objeto establecer las normas, requisitos y procedimientos conforme a los cuales debe otorgarse el financiamiento público para el apoyo a las actividades específicas que los partidos políticos como entidades de interés público, realicen conforme a la fracción III base 5 del artículo 49 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y a la fracción III del artículo 85 de la Ley Electoral de Quintana Roo.
+DECRETO 2678
 
-###### Artículo 2.
+SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2020.
 
-En términos del artículo anterior, las actividades específicas de los partidos políticos que podrán ser objeto del financiamiento a que se refiere este Reglamento; serán exclusivamente las siguientes:
+Artículo Único.- Se expide la Ley de Ingresos del Estado de Baja California Sur para el Ejercicio Fiscal 2020, para quedar como sigue:
 
-I.- EDUCACIÓN Y CAPACITACIÓN POLÍTICA.
+LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2020
 
-La presente actividad tendrá como objeto, coadyuvar a la promoción y difusión de la cultura política, la formación ideológica y política de sus afiliados, y el fomento a los valores éticos y cívicos que aseguren una sana competencia política; así como preparar la participación activa de sus militantes en los procesos electorales fortaleciendo el régimen de partidos políticos.
+###### Artículo 1º.
 
-II.- INVESTIGACIÓN SOCIOECONÓMICA Y POLÍTICA.
+Los ingresos que la Hacienda Pública del Estado de Baja California Sur, percibirá durante el Ejercicio Fiscal comprendido del 1° de enero al 31 de diciembre del año 2020, deberán ser los que se obtengan por los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
-Estas actividades tienen la finalidad de realizar estudios, análisis, encuestas y diagnósticos sobre los problemas políticos, sociales y económicos del Estado de Quintana Roo, así como de sus municipios, que contribuyan directa o indirectamente a la elaboración de propuestas para su solución.
+CONCEPTO IMPORTE
 
-Los estudios aludidos en el párrafo anterior, deberán contener una metodología, que contemple técnicas de análisis que permitan verificar las fuentes de la información y comprobar los resultados obtenidos.
+(PESOS)
 
-III.- TAREAS EDITORIALES.
+TOTAL (1+2+3+4+5+6+7+8+9+0) $18,402,212,144
 
-Deberán destinarse a la difusión de las anteriores actividades, tales como la edición y producción de impresos, videograbaciones, medios ópticos y medios magnéticos, así como a la edición de sus publicaciones.
+1 Impuestos 1,252,425,185
 
-###### Artículo 3.
+1.1 Impuestos sobre los Ingresos 45,401,828
 
-No serán susceptibles del financiamiento a que se refiere este Reglamento:
+1.1.01 Impuesto sobre Enajenación de Bienes
 
-a) Las actividades ordinarias permanentes de los partidos políticos;
+Muebles 16,217,820
 
-b) Las actividades de propaganda electoral de los partidos políticos para las campañas de sus candidatos a puestos de elección popular, y los gastos operativos de campaña, en cualquiera de las elecciones en las que participen;
+1.1.02 Impuesto sobre la Obtención de
 
-c) Las encuestas que contengan reactivos sobre preferencias electorales;
+Premios 29,184,008
 
-d) Las actividades que tengan por objeto primordial la promoción del partido político, o de su posicionamiento frente a problemas nacionales y estatales, en medios masivos de comunicación;
+1.2 Impuestos sobre el Patrimonio 1,581,264
 
-e) Los gastos para la celebración de las reuniones por aniversario o por congresos y reuniones internas que tengan fines administrativos o de organización interna de los partidos políticos;
+1.2.01 Impuesto sobre Tenencia o Uso
 
-f) Los gastos por la compra de tiempos y espacios en medios de comunicación en general, y
+de Vehículos (IEV) 1,581,264
 
-g) Las erogaciones por conceptos de hipotecas de oficinas, institutos y/o fundaciones de los partidos políticos encargadas de realizar las actividades a que se refiere este Reglamento.
+1.3 Impuestos sobre la Producción, el Consumo
 
-###### Artículo 4.
+y las Transacciones 400,284,640
 
-Para efectos de este Reglamento, se consideran como gastos directos, aquellos que se relacionen con la realización de una actividad, susceptible de este financiamiento público en lo particular.
+1.3.01 Impuesto sobre la Prestación de Servicios
 
-En términos del párrafo anterior, se considerarán como gastos directos, los relacionados con:
+de Hospedaje 396,740,916
 
-a) Actividades de Educación y Capacitación Política como son:
+1.3.02 Impuesto por la Prestación de Servicios
 
-1. Gastos por difusión de la convocatoria o realización del evento específico tomando en cuenta lo dispuesto en el artículo 3 inciso f) del presente Reglamento;
+de Juegos con Apuestas y Concursos 3,543,724
 
-2. Honorarios del personal encargado de la realización y organización del evento específico;
+1.4 Impuesto al Comercio Exterior 0
 
-3. Viáticos del personal encargado de la organización y realización del evento específico;
+1.5 Impuestos sobre Nóminas y Asimilables 794,221,336
 
-4. Gastos por renta del local y mobiliario para la realización del evento específico;
+1.5.01 Impuesto sobre Nóminas 794,221,336
 
-5. Gastos por renta de equipo técnico en general para la realización del evento específico;
+1.6 Impuestos Ecológicos 0
 
-6. Gastos por adquisición de papelería para la realización del evento específico;
+1.7 Accesorios de Impuestos 10,936, 117
 
-7. Honorarios de expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico;
+1.7.01 Multas 486,379
 
-8. Viáticos de expositores, capacitadores, conferencistas o equivalentes que participen en el evento específico;
+1.7.02 Recargos 8,980,574
 
-9. Honorarios del personal auxiliar en las labores para la realización del evento específico;
+1.7.03 Intereses 1,192,720
 
-10. Gastos por alimentación y viáticos de los asistentes al evento específico, y
+1.7.04 Gastos de ejecución 276,444
 
-11. Gastos por preparación de los resultados del evento específico para su posterior publicación.
+1.8 Otros Impuestos 0
 
-b) Actividades de Investigación Socioeconómica y Política:
+1.9 Impuestos no Comprendidos en la Ley
 
-1. Gastos por difusión de la convocatoria para la realización de la investigación específica tomando en cuenta lo dispuesto por el artículo 3 inciso f) del presente Reglamento;
+de Ingresos Vigente, Causados en Ejercicios
 
-2. Honorarios de los investigadores por concepto de la realización de la investigación específica;
+Fiscales Anteriores Pendiente de
 
-3. Honorarios del personal auxiliar de la investigación específica;
+Liquidación o Pago 0
 
-4. Gastos por realización de las actividades de investigación específica de campo o gabinete;
+2 Cuotas y Aportaciones de Seguridad Social 0
 
-5. Gastos por adquisición de material bibliográfico y hemerográfico referente al tema de la investigación específica;
+2.1 Aportaciones para Fondos de Vivienda 0
 
-6. Gastos por adquisición de papelería para la realización de la investigación específica;
+2.2 Cuotas para el Seguro Social 0
 
-7. Honorarios del personal coordinador de las tareas de la investigación específica;
+2.3 Cuotas de Ahorro para el Retiro 0
 
-8. Gastos por la preparación de los productos de la investigación específica para su posterior publicación, y
+2.4 Otras cuotas y Aportaciones para la
 
-9. Gastos por renta de equipo técnico necesario para la realización de la investigación.
+Seguridad Social 0
 
-c) Las Tareas Editoriales:
+2.5 Accesorios de Cuotas y Aportaciones de
 
-1. Gastos por la producción de la publicación específica como son la formación, diseño, fotografía y edición de la publicación específica;
+Seguridad Social 0
 
-2. Gastos por impresión o reproducción de la actividad editorial, y
+3 Contribuciones de Mejoras 0
 
-3. Pagos por derechos de autor para la actividad específica.
+3.1 Contribuciones de Mejoras por Obras
 
-###### Artículo 5.
+Públicas 0
 
-Se entenderá por gastos indirectos los que se relacionen con actividades específicas en general, pero que no se vinculen con una actividad específica en particular.
+3.9 Contribuciones de Mejoras no
 
-Atendiendo a lo anterior, se consideran como gastos indirectos en los tres tipos de actividades, los que a continuación se describen:
+Comprendidas en la Ley de Ingresos
 
-1. Honorarios y gratificaciones a colaboradores cuya labor esté vinculada a más de una de las actividades específicas;
+Vigente, Causadas en Ejercicios Fiscales
 
-2. Gastos por renta, reparación y mantenimiento, servicios de agua, energía eléctrica, teléfono, seguridad y limpieza, y pago del impuesto predial de locales y oficinas del partido político en los que se realicen labores relacionadas con alguna actividad específica;
+Anteriores Pendientes de Liquidación o Pago 0
 
-3. Gastos por renta de espacios publicitarios y por servicios de publicidad vinculados a más de una actividad específica; con excepción a lo indicado en el inciso f) del artículo 3 del presente Reglamento;
+4 Derechos 560,976,496
 
-4. Pagos por servicios de mensajería vinculados a más de una actividad específica, y
+4.1 Derechos por el Uso, Goce,
 
-5. Gastos por adquisición de artículos de papelería y servicios de oficina vinculados a más de una actividad específica.
+Aprovechamiento o Explotación de
 
-###### Artículo 6.
+Bienes de Dominio Público 0
 
-En las actividades a que aluden el artículo 2 del presente ordenamiento, se procurará beneficiar al mayor número de personas; dichas actividades deberán desarrollarse dentro del territorio del Estado de Quintana Roo.
+4.2 Derechos a los Hidrocarburos (Derogado) 0
 
-###### Artículo 7.
+4.3 Derechos por Prestación de Servicios 552,813,465
 
-La documentación comprobatoria, que presenten los partidos políticos por las actividades específicas que desarrollen, deberá ser remitida a la Dirección de Partidos Políticos, con la copia del cheque con el que se acredita la erogación realizada, así como los formatos previstos en el presente Reglamento, debiendo cumplir con los requisitos establecidos en la Ley del Impuesto Sobre la Renta.
+4.3.01 Servicios prestados por la Secretaría
 
-###### Artículo 8.
+General de Gobierno 2,427,139
 
-Los gastos que comprueben los partidos políticos deberán referirse directamente a las actividades específicas de que se trata. Los gastos indirectos sólo serán objeto de este financiamiento público hasta por un 10% del monto total autorizado para cada partido político, y se aceptarán únicamente, cuando se acrediten que son estrictamente necesarios para realizar las actividades específicas objeto de este tipo de financiamiento público.
+4.3.02 Servicios prestados por la Secretaría
 
-###### Artículo 9.
+de Seguridad Pública 10,796,713
 
-Todos los comprobantes que presenten los partidos políticos, deberán estar debidamente requisitados, en los términos del artículo 13 del presente Reglamento, en el entendido de que, a falta de alguno de los requisitos mencionados, los gastos no serán susceptibles del financiamiento previsto por este Reglamento; asimismo, los formatos a que alude el presente Reglamento, deberán ser impresos y foliados por el propio partido político y estar debidamente autorizados por el Titular del Órgano Interno Responsable de la Percepción y Administración de los Recursos Ordinarios y de Campaña del partido político que se trate.
+4.3.03 Servicios prestados por la Secretaría
 
-En los términos del artículo 6 del Reglamento de fiscalización sobre el origen, monto, aplicación y empleo de los recursos de los partidos políticos ante el Instituto Electoral de Quintana Roo, el Titular del Órgano Interno Responsable de la Percepción y Administración de los Recursos Ordinarios y de Campaña, será el encargado de la presentación de los gastos y demás obligaciones previstas en este Reglamento.
+de Salud 48,721,188
 
-###### Artículo 10.
+4.3.04 Servicios prestados por la Procuraduría
 
-En relación a los activos fijos que adquieran los partidos políticos para destinarlos a la realización de actividades específicas, únicamente se tomarán en cuenta para efectos del financiamiento a que se refiere este Reglamento, los siguientes:
+General de Justicia y otras Secretarías 610,224
 
-I. La adquisición de mobiliario y equipo de oficina, y
+4.3.05 Servicios prestados por la Secretaría
 
-II. La adquisición de equipo de cómputo.
+de Planeación Urbana, Infraestructura y Movilidad 1,280,600
 
-Dichos activos fijos no podrán destinarse a actividades distintas a las contempladas en el artículo 2 del presente ordenamiento.
+4.3.06 Servicios prestados por la Secretaría
 
-Del monto total erogado en adquisición de activo fijo, se reembolsará a los partidos políticos, el porcentaje que se determine en términos de lo previsto en el segundo párrafo del artículo 19 del presente Reglamento, dicho reembolso sólo se aplicará a las erogaciones destinadas a la adquisición de activo fijo en el año inmediato anterior y se hará hasta en tres partes iguales al año, en los dos años subsecuentes, en la forma calendarizada a que se refiere el tercer párrafo del artículo 19 del presente Reglamento.
+de Finanzas y Administración 467,741,869
 
-Los partidos políticos deberán llevar un inventario específico de los activos fijos cuya adquisición haya sido reportada como gastos en actividades específicas; el inventario final deberá ser entregado junto con la última entrega trimestral a la que se refiere el artículo 14 del presente Reglamento.
+4.3.06.01 Servicios prestados por la
+
+Subsecretaría de Finanzas 12,604,997
+
+4.3.06.02 Servicios de Control Vehicular 223,776,540
+
+4.3.06.03 Servicios prestados por el Registro
+
+Público de la Propiedad y el Comercio 195,577,259
+
+4.3.06.04 Servicios prestados por el Registro
+
+Civil 17,757,308
+
+4.3.06.05 Servicios prestados por la Dirección
+
+Estatal del Registro Civil 16,771,176
+
+4.3.06.06 Servicios prestados por los Talleres
+
+Gráficos del Estado 1,254,589
+
+4.3.07 Servicios prestados por la Secretaría de
+
+Educación Pública 5,633,704
+
+4.3.08 Servicios prestados por la Contraloría
+
+General 358,560
+
+4.3.09 Servicios prestados por la Secretaría de
+
+Pesca, Acuacultura y Desarrollo Agropecuario 10,022,865
+
+4.3.10 Servicios Prestados por la Secretaría
+
+del Trabajo y Desarrollo Social 0
+
+4.3.11 Servicios prestados por la Secretaría
+
+de Turismo, Economía y Sustentabilidad 5,220,603
+
+4.4 Otros Derechos 0
+
+4.5 Accesorios de Derechos 8,163,031
+
+4.5.01 Recargos 8,163,031
+
+4.9 Derechos no Comprendidos en la Ley de
+
+Ingresos Vigentes, causados en Ejercicios
+
+Fiscales Anteriores Pendientes de
+
+Liquidación o Pago 0
+
+5 Productos 18,139,608
+
+5.1 Productos 18,139,608
+
+5.1.01 Productos Diversos 277,800
+
+5.1.02 Venta de Bienes Muebles e Inmuebles
+
+Propiedad del Estado 3,518,044
+
+5.1.03 Arrendamiento y Explotación de Bienes
+
+Muebles e Inmuebles 4,757,860
+
+5.1.04 Intereses Bancarios 9,585,904
+
+5.2 Productos de Capital (Derogado) 0
+
+5.9 Productos no Comprendidos en la Ley de
+
+Ingresos Vigente, Causados en Ejercicios
+
+Fiscales Anteriores Pendientes de
+
+Liquidación o Pago 0
+
+6 Aprovechamientos 588,555,181
+
+6.1 Aprovechamientos 552,935,027
+
+6.1.01 Otros Aprovechamientos 62,420,758
+
+6.1.02 Multas Administrativas Estatales no
+
+Fiscales 514,269
+
+6.1.03 Uso y Aprovechamiento de Obras del
+
+Estado 490,000,000
+
+6.2 Aprovechamientos Patrimoniales 35,418,107
+
+6.2.01 Aportaciones de Terceros a Obras y
+
+Servicios Públicos 31,661,618
+
+6.2.02 Aprovechamiento Provenientes de
+
+Obras Públicas 3,756,489
+
+6.3 Accesorios de Aprovechamientos 202,047
+
+6.3.01 Intereses Derivados del Pago
+
+Extemporáneo de Productos 202,047
+
+6.69 Aprovechamientos no Comprendidos en la
+
+Ley de Ingresos Vigentes, Causados en
+
+Ejercicios Fiscales Anteriores Pendientes de
+
+Liquidación o Pago 0
+
+7 Ingresos por Ventas de Bienes, Prestación de
+
+Servicios y Otros Ingresos 0
+
+7.1 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de Instituciones Públicas de
+
+Seguridad Social 0
+
+7.2 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de Empresas Productivas del Estado 0
+
+7.3 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de Entidades Paraestatales y
+
+Fideicomisos No Empresariales y No
+
+Financieros 0
+
+7.4 Ingresos por Venta de Bienes y Prestación
+
+de Servicios de Entidades Paraestatales
+
+Empresariales No Financieras con
+
+Participación Estatal Mayoritaria 0
+
+7.5 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de Entidades Paraestatales
+
+Empresariales Financieras Monetarias con
+
+Participación Estatal Mayoritaria 0
+
+7.6 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de Entidades Paraestatales
+
+Empresariales Financieras No Monetarias
+
+con Participación Estatal Mayoritaria 0
+
+7.7 Ingresos por Venta de Bienes y Prestación
+
+de Servicios de Fideicomisos Financieros
+
+Públicos con Participación Estatal
+
+Mayoritaria 0
+
+7.8 Ingresos por Ventas de Bienes y Prestación
+
+de Servicios de los Poderes Legislativo y Judicial,
+
+y de los Órganos Autónomos 0
+
+7.9 Otros Ingresos 0
+
+8 Participaciones, Aportaciones, Convenios,
+
+Incentivos Derivados de la Colaboración Fiscal y
+
+Fondos Distintos de Aportaciones 15,982,115,674
+
+8.1 Participaciones 6,049,396,271
+
+8.1.01 Fondo General de Participaciones 4,762,004,618
+
+8.1.02 Fondo de Fomento Municipal 220,850,358
+
+8.1.03 Impuestos Especiales sobre Producción
+
+y Servicios de Bebidas Alcohólicas 31,202,396
+
+8.1.04 Impuestos Especiales sobre Producción
+
+y Servicios de Cerveza 98,023,727
+
+8.1.05 Impuestos Especiales sobre Producción
+
+y Servicios de Tabacos Labrados 33,619,678
+
+8.1.06 Fondo de Fiscalización y Recaudación 238,366,290
+
+8.1.07 Fondo de Compensación de REPECOS
+
+e Intermedios 17,754,579
+
+8.1.08 Fondo de Compensación del Impuesto
+
+sobre Automóviles Nuevos 12,526,030
+
+8.1.09 Impuesto Especial sobre Producción y
+
+Servicios a la Gasolina y Diésel 270,465,579
+
+8.1.10 100% de la recaudación del ISR que
+
+se entere a la Federación, por el salario del
+
+personal de las Entidades Federativas 364,583,016
+
+8.2 Aportaciones 7,939,805,036
+
+8.2.01 Fondo de Aportaciones para la Nómina
+
+Educativa y Gasto Operativo 4,940,291,932
+
+8.2.01.01 FONE - Servicios Personales 4,709,048,806
+
+8.2.01.02 FONE - Gastos de Operación 231,243,126
+
+8.2.02 Fondo de Aportaciones para los
+
+Servicios de Salud 1,139,822,991
+
+8.2.03 Fondo de Aportaciones para la
+
+Infraestructura Social 423,868,275
+
+8.2.03.01 Fondo de Aportaciones para la
+
+Infraestructura Social Estatal 51,386,489
+
+8.2.03.02 Fondo de Aportaciones para la
+
+Infraestructura Social Municipal 372,481,786
+
+8.2.04 Fondo de Aportaciones para el
+
+Fortalecimiento de los Municipios 579,981,492
+
+8.2.05 Fondo de Aportaciones Múltiples 353,171,262
+
+8.2.05.01 Fondo de Aportaciones Múltiples
+
+para la Asistencia Social 88,195, 180
+
+8.2.05.02 Fondo de Aportaciones Múltiples
+
+para la Infraestructura de Educación Básica. 216,771,857
+
+8.2.05.03 Fondo de Aportaciones Múltiples
+
+para la Infraestructura de Educación Media
+
+Superior y Superior 48,204,225
+
+8.2.06 Fondo de Aportaciones para la
+
+Educación Tecnológica y de Adultos 72,614,008
+
+8.2.06.01 Fondo de Aportaciones para la
+
+Educación Tecnológica 36,635,558
+
+8.2.06.02 Fondo de Aportaciones para la
+
+Educación de Adultos 35,978,450
+
+8.2.07 Fondo de Aportaciones para la
+
+Seguridad Pública 207,244,886
+
+8.2.08 Fondo de Aportaciones para el
+
+Fortalecimiento a Entidades Federativas 222,810,190
+
+8.3 Convenios 1,317,310,043
+
+8.3.01 Convenios Reasignados 142,707,515
+
+8.3.01.01 Convenio Programas Regionales 23 2,557,718
+
+8.3.01.02 Comisión Nacional del Agua 58,823,513
+
+8.3.01.03 Convenio FORTASEG 29,847,502
+
+8.3.01.04 Secretaría de Gobernación 4,153,150
+
+8.3.01.05 Secretaría de Turismo 0
+
+8.3.01.06 Secretarla de Desarrollo Agrario,
+
+Territorial y Urbano (SEDATU) 0
+
+8.3.01.07 Sistema Estatal de Desarrollo
+
+Integral de la Familia (DIF) 4,893,410
+
+8.3.01.08 Secretaría de Finanzas y Administración 0
+
+8.3.01.09 Secretaría de Comunicación y
+
+Transporte (SCT) 0
+
+8.3.01.10 Convenio Prog. Nacional de
+
+Prevención del Delito (PNPD) 0
+
+8.3.01.11 Instituto de la Mujer 6,325,092
+
+8.3.01.12 Secretaría del Trabajo y Desarrollo
+
+Social 0
+
+8.3.01.13 Secretaría de Pesca, Acuacultura y
+
+Desarrollo Agropecuario 26,900,000
+
+8.3.01.14 Comisión Nacional de Cultura Física
+
+y Deporte (CONADE) 0
+
+8.3.01.15 Fortalecimiento Financiero 0
+
+8.3.01.16 Instituto Sudcaliforniano del
+
+Deporte 9,207,130
+
+8.3.02 Convenios de Organismos
+
+Descentralizados 956,730,704
+
+8.3.02.01 Universidad Autónoma de Baja
+
+California Sur (UABCS) 492,910,641
+
+8.3.02.02 Colegio de Bachilleres del Estado
+
+de Baja California Sur (COBACH) 108,992,968
+
+8.3.02.03 Colegio de Estudios Científicos y
+
+Tecnológicos del Estado de Baja California
+
+Sur (CECyTE) 128,315,522
+
+8.3.02.04 Instituto Estatal de Educación
+
+para Adultos (IEEA) 5,178,349
+
+8.3.02.05 Fondo de Aportación para la
+
+Educación Tecnológica (CONALEP) 0
+
+8.3.02.06 Instituto de Capacitación para los
+
+Trabajadores del Estado (ICATEBCS) 12,158,976
+
+8.3.02.07 Secretaría de Educación
+
+Pública (Ramo 11) 200,000,000
+
+8.3.02.08 Universidad Tecnológica de La Paz 9,174,248
+
+8.3.03 Convenio de Protección Social en Salud 217,871,824
+
+8.3.03.01 Secretaría de Salud (Ramo 12) 217,871,824
+
+8.4 Incentivos derivados de la Colaboración Fiscal 675,604,324
+
+8.4.01 Impuesto Sobre la Renta Derivado del
+
+Régimen de Pequeños Contribuyentes 37,215
+
+8.4.02 Impuesto sobre la Renta Derivado
+
+del Régimen de Intermedios 1,317
+
+8.4.03 Impuesto sobre la Renta Derivado de
+
+la Enajenación de Bienes Inmuebles 50,320,750
+
+8.4.04 Derivados por Actos de Fiscalización 268,482,135
+
+8.4.05 Impuesto sobre Tenencia o Uso de
+
+Vehículos 593,958
+
+8.4.06 Impuesto sobre Automóviles Nuevos 92,657,669
+
+8.4.07 Impuesto Especial sobre Producción y
+
+Servicios a la Gasolina y Diésel 870,746
+
+8.4.08 Derivados de la Inspección y Vigilancia 4,508,400
+
+8.4.09 Derechos por la Expedición de Permisos
+
+de Pesca Deportiva y Deportiva Recreativa 29,550,573
+
+8.4.10 Derechos Derivados del Uso o Goce de
+
+la Zona Federal Marítimo Terrestre 113,036,256
+
+8.4.11 Multas Administrativas Federales
+
+No Fiscales 4,337,439
+
+8.4.12 Derivados por Actos de Fiscalización
+
+Aduanera 510,000
+
+8.4.13 Régimen General de Ley 19,893,470
+
+8.4.14 Anexo 19 REPECOS e INTERMEDIOS 90,804,396
+
+8.5 Fondos distintos de Aportaciones 0
+
+8.5.01 Fondo Minero 0
+
+9 Transferencias, Asignaciones, Subsidios y
+
+Otras Ayudas 0
+
+9.1 Transferencias y Asignaciones 0
+
+9.2 Transferencias al Resto del Sector
+
+Público (derogado) 0
+
+9.3 Subsidios y Subvenciones 0
+
+9.4 Ayudas sociales (derogado) 0
+
+9.5. Pensiones y Jubilaciones 0
+
+9.6 Transferencias a Fideicomisos,
+
+Mandatos y Análogos (derogado) 0
+
+9.7 Transferencias del Fondo Mexicano del
+
+Petróleo para la Estabilidad y el Desarrollo 0
+
+0 Ingresos Derivados de Financiamiento 0
+
+0.1 Endeudamiento Interno 0
+
+0.2 Endeudamiento Externo 0
+
+0.3 Financiamiento Interno 0
+
+0.3.01 Empréstitos 0
+
+Los ingresos adicionales que perciba el Estado en el ejercicio fiscal de 2020, por mayor recaudación proveniente de fuentes locales, participaciones e incentivos económicos, fondos de aportaciones federales o nuevos conceptos derivados de convenios suscritos con el Gobierno Federal o Gobiernos Municipales e ingresos derivados por financiamiento, se incorporarán de manera automática a la presente Ley.
+
+###### Artículo 2º.
+
+Los ingresos provenientes de los conceptos enumerados en el artículo 1º de esta Ley, aun y cuando se destinen a fines específicos, se recaudarán invariablemente por la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, a través de las Oficinas de Recaudación de Rentas, Dependencias Estatales, instituciones de crédito, medios electrónicos o cualquier otro medio autorizado al efecto, excepto cuando la Secretaría de Finanzas y Administración celebre convenios de coordinación con los municipios de la Entidad, para la administración y cobro de algún concepto fiscal estatal o federal, en cuyo caso el pago se efectuará en las oficinas de las tesorerías municipales, conforme a las bases que se estipulen en los convenios respectivos.
+
+Para que tenga validez el pago de los diversos ingresos que establece la presente Ley, el contribuyente deberá obtener en todos los casos, el comprobante fiscal digitalizado por internet, recibo oficial, o documentación, constancia, acuse de recibo electrónico u otros medios que para acreditar el pago autorice y establezca la Secretaría de Finanzas y Administración, a través de disposiciones de carácter general.
+
+Para pagos a través de medios electrónicos o transferencia bancaria, previamente se deberá de contar con la línea de captura generada por parte de la Secretaría de Finanzas y Administración. El contribuyente deberá conservar el comprobante y número de folio correspondiente a la transacción, emitido por la institución bancaria prestadora del servicio.
+
+Las cantidades recaudadas deberán depositarse en las cuentas bancarias autorizadas, debiendo inscribirse, cualquiera que sea su forma o naturaleza, tanto en los registros de la propia Secretaría de Finanzas y Administración, como en la cuenta pública que esta formule. Sin excepción, en aquellas localidades que exista institución bancaria, el depósito deberá efectuarse al día hábil siguiente; de no existir sucursal bancaria, a más tardar, dentro de los cinco días hábiles siguientes y para el caso de que la captación se lleve a través de entes públicos o privados, autorizados como auxiliares en recaudación, el recurso deberá de ingresarse a las cuentas, a más tardar, el tercer día hábil.
+
+###### Artículo 3°.
+
+Los ingresos a que se refiere el artículo 1º de esta Ley, serán causados y recaudados de acuerdo con lo que dispone la Ley de Hacienda del Estado de Baja California Sur, Ley de Derechos y Productos del Estado de Baja California Sur, Ley del Impuesto Estatal Vehicular, Código Fiscal del Estado y Municipios del Estado de Baja California Sur, Ley de Coordinación Fiscal, Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2020, Convenio de Colaboración Administrativa en Materia Fiscal Federal, sus anexos y demás leyes, reglamentos y disposiciones relativas que se encuentren en vigor en el momento en que se causen.
+
+###### Artículo 4°.
+
+A las dependencias que omitan total o parcialmente cerciorarse del cobro o entero de los derechos que genere la prestación de servicios de carácter público, establecidos en la Ley de Derechos y Productos del Estado de Baja California Sur, se les disminuirá del presupuesto que se les haya asignado para el ejercicio, una cantidad equivalente al valor de la omisión, previa determinación de dicho monto conforme al procedimiento que establezca la Secretaría de Finanzas y Administración a través de Disposiciones de Carácter General.
+
+Solo tratándose de inscripciones de embargos en el Registro Público de la Propiedad y del Comercio, derivados de la aplicación del procedimiento administrativo de ejecución, practicado por las autoridades fiscales, los derechos serán cubiertos una vez que se haga efectivo el interés fiscal.
+
+###### Artículo 5°.
+
+Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones legales respectivas, se causarán recargos a la tasa del 1% mensual.
+
+Dichos recargos se causarán por cada mes o fracción que transcurra, a partir de la fecha de haber vencido el plazo hasta que se efectúe el pago. Los recargos se causarán hasta por cinco años y se calcularán sobre el monto total del crédito fiscal actualizado.
+
+En los casos en que se conceda prórroga o autorización para pagar en parcialidades los créditos fiscales, se causarán recargos conforme a lo siguiente:
+
+a) Tratándose de pagos a plazos en parcialidades de hasta 12 meses, la tasa de recargos será del 1% mensual.
+
+b) Tratándose de pagos a plazos en parcialidades de más de 12 meses y hasta 24 meses, la tasa de recargos será del 1.25% mensual.
+
+c) Tratándose de pagos a plazos en parcialidades superiores a 24 meses, así como tratándose de pagos a plazo diferido, la tasa de recargos será del 1.50% mensual.
+
+d) En el caso de operaciones de naturaleza privada, los intereses correspondientes se sujetarán a lo que se pacte en los contratos o acuerdos respectivos, en su defecto se causarán a una tasa del 2% mensual.
+
+###### Artículo 6°.
+
+De las cantidades que el Estado perciba por concepto de la captación del Impuesto Sobre Nóminas, corresponderá a los municipios un 46.8% sobre el 37.6% del total recaudado, cuya distribución deberá de efectuarse conforme a los porcentajes establecidos en la Ley de Coordinación Fiscal del Estado de Baja California Sur, quienes podrán ejercerlo de manera directa en obras de Infraestructura Social, aportarlo mensualmente al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en su municipio y/o al pago de alumbrado público.
+
+###### Artículo 7°.
+
+De las cantidades que el Estado perciba por concepto del Impuesto Sobre Enajenación de Bienes Muebles, corresponderá a los municipios una participación del 20% de las mismas, distribuyéndose de conformidad con lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
+
+###### Artículo 8°.
+
+De las cantidades que el Estado perciba por concepto del Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Ley del Impuesto Estatal Vehicular, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude, de conformidad con lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
+
+###### Artículo 9°.
+
+De las cantidades que el Estado perciba por concepto de los derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y del Comercio, serán distribuidas a los Municipios conforme a la fórmula prevista en el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur.
+
+###### Artículo 10°.
+
+De las cantidades que el Estado perciba por concepto del Fondo General de Participaciones, conforme a la Ley de Coordinación Fiscal, corresponderá a los municipios un 24% de las mismas, distribuyéndose de conformidad con lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 11.
 
-Los partidos políticos deberán presentar ante la Dirección de Partidos Políticos del Instituto, algún elemento que evidencie la actividad específica realizada, mismo que podrá consistir en el producto elaborado con la actividad, o en su defecto, en otros documentos con los que se acredite la realización de la actividad específica, en el entendido de que, a falta de esta evidencia o de la citada documentación, los comprobantes de gastos no tendrán validez para efectos de su validación y reembolso correspondiente.
-
-Las evidencias a que alude el párrafo precedente, así como los comprobantes que señala el artículo 8 del presente Reglamento, se agregarán al archivo de la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo.
-
-La calificación de los documentos referidos en el primer párrafo de este artículo, estará a cargo del personal del área de fiscalización de la Dirección de Partidos Políticos del Instituto, en el entendido de que serán estos quienes determinen si la documentación es la idónea para acreditar la realización de dicha actividad específica.
-
-A efecto de verificar lo establecido en el artículo 2, fracciones II y III, la Dirección de Partidos Políticos podrá solicitar la coadyuvancia del Centro de Información Electoral.
+De las cantidades que el Estado perciba por concepto de Fondo de Fomento Municipal, conforme a la Ley de Coordinación Fiscal, corresponderá a los municipios el 100%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 12.
 
-Los partidos políticos podrán invitar al personal de la Dirección de Partidos Políticos o de los órganos desconcentrados del Instituto Electoral de Quintana Roo para que en presencia de ellos, se lleve a cabo de manera selectiva, el desarrollo de las actividades específicas que vayan a ser objeto de comprobación, en cuyo caso, el personal que asista formulará la constancia correspondiente que servirá para los efectos de lo dispuesto en el artículo anterior.
+De las cantidades que el Estado perciba por concepto de Impuesto Especial Sobre Producción y Servicios por Bebidas Alcohólicas, por Cerveza y por Tabacos Labrados, conforme a la Ley de Coordinación Fiscal corresponderá a los municipios el 22%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 13.
 
-Los comprobantes de los pagos a que se refiere el artículo 9 del presente Reglamento, deberán ser invariablemente en originales, estar a nombre del partido político, y reunir todos los requisitos que señalen las disposiciones fiscales para considerarlos deducibles del Impuesto sobre la Renta de personas morales. Por otro lado, el partido político deberá incluir información que describa pormenorizadamente la actividad retribuida, los tiempos de su realización y los productos o artículos que resultasen de la actividad de que se trate, relacionándola con los comprobantes correspondientes.
-
-En el caso de las actividades realizadas en zonas rurales, el gasto por concepto de viáticos, es decir, de transporte, alimentos y hospedaje, podrán ser comprobados por medio de la bitácora en la que se señale con precisión los siguientes datos:
-
-a) Fecha y lugar en la que se efectuó la erogación;
-
-b) Monto de la erogación;
-
-c) Concepto específico del gasto;
-
-d) Firma de la persona que realizó el pago, y
-
-e) Firma de autorización.
-
-En toda ocasión deberán anexarse a las citadas bitácoras los comprobantes que se recaben de tales gastos, aun cuando estos no reúnan los requisitos exigidos en las disposiciones fiscales aplicables. Dichos gastos por concepto de viáticos no podrán ser superiores al 15% del total de la erogación realizada por el evento en cuestión.
+De las cantidades que el Estado perciba por concepto de Fondo de Fiscalización y Recaudación, conforme a la Ley de Coordinación Fiscal, corresponderá a los municipios el 20%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 14.
 
-Los partidos políticos deberán presentar ante la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo, dentro de los primeros diez días naturales de los meses de abril, julio y octubre de cada año, los formatos de gastos de que se trate, así como los documentos originales que comprueben los gastos erogados durante los trimestres enero a marzo, abril a junio y julio a septiembre del año de que se trate, respectivamente, por cualquiera de las actividades que se señalan en el artículo 2 de este Reglamento; la documentación correspondiente al último trimestre del año deberá ser presentada, ante la misma Dirección, a mas tardar el día diez de enero del año siguiente.
-
-Vencidos los plazos establecidos en el párrafo anterior, los partidos políticos no podrán acreditar gastos realizados en los periodos respectivos por este concepto para su correspondiente reembolso.
-
-La presentación a que alude el primer párrafo de este artículo, será mediante escrito debidamente firmado por el Titular del Órgano Interno Responsable de la Percepción y Administración de los Recursos Ordinarios y de Campaña.
+De las cantidades que el Estado perciba por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, corresponderá a los municipios el 20%, distribuyéndose de conformidad a lo previsto en Ley.
 
 ###### Artículo 15.
 
-En caso de existir errores u omisiones en los formatos o en la comprobación de los gastos que presenten los Partidos Políticos en los plazos establecidos en el artículo que antecede, la Dirección de Partidos Políticos, solicitará a los partidos políticos las aclaraciones o rectificaciones correspondientes y precisará los montos y las actividades específicas susceptibles de aclaración o rectificación, quienes contarán con un plazo de diez días hábiles, a partir de la notificación, para contestar a los requerimientos que se les realicen.
+De las cantidades que el Estado perciba por concepto del Impuesto Sobre Automóviles Nuevos, corresponderá a los municipios el 20%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 16.
 
-Si a pesar de las solicitudes formuladas al partido político, señaladas en el artículo anterior, persisten deficiencias en la comprobación de los gastos erogados o en las evidencias para la acreditación de las actividades realizadas, la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo, comunicará a la Comisión de Fiscalización los montos de gastos efectivamente comprobados para los efectos procedentes.
+De las cantidades que el Estado perciba por concepto del Impuesto Especial Sobre Producción y Servicios a la venta final de Gasolinas y Diésel, de las 9/11 partes que le corresponden al Estado, conforme a la Ley de Coordinación Fiscal, corresponderá a los municipios el 20%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 17.
 
-Para dar cumplimiento al otorgamiento del financiamiento previsto en este Reglamento, la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo realizará los cálculos para determinar el monto parcial a que ascenderá la partida presupuestal del financiamiento público por actividades específicas a los partidos políticos como entidades de interés público.
-
-Una vez que dichos cálculos sean aprobados por el Consejo General del Instituto Electoral de Quintana Roo, los resultados de los mismos, serán comunicados a la Dirección de Administración, para efectos de su inclusión en el anteproyecto de Presupuesto Anual de Egresos del Instituto Electoral de Quintana Roo.
+De las cantidades que el Estado perciba por concepto del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, corresponderá a los municipios el 20%, distribuyéndose de conformidad a lo previsto en la Ley de Coordinación Fiscal del Estado de Baja California Sur.
 
 ###### Artículo 18.
 
-En la segunda quincena del mes de febrero de cada año, la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo, integrará el informe final de las comprobaciones de gastos presentadas durante el año y enviará las cifras anuales a la Comisión de Fiscalización.
+De las Cantidades que el Estado perciba por concepto del Impuesto Sobre la Renta, que efectivamente se entere a la Federación, del salario del personal que preste un servicio personal subordinado en la administración municipal, corresponderá el 100% a los municipios.
 
 ###### Artículo 19.
 
-En la primera quincena del mes de marzo de cada año la Comisión de Fiscalización, presentará al Consejo General del Instituto Electoral de Quintana Roo, el Proyecto de Resolución acerca del importe definitivo a que ascendieron los gastos que los partidos políticos comprobaron haber erogado en el año inmediato anterior, para la realización de las actividades específicas que se mencionan en el artículo 2 de este Reglamento.
-
-Con base en dicha información y en la partida presupuestal autorizada para el financiamiento de las actividades específicas en los términos de la Ley Electoral de Quintana Roo, el Consejo General del Instituto Electoral de Quintana Roo determinará, a propuesta de la Comisión de Fiscalización, el monto total definitivo a que ascenderá durante el año de financiamiento a que se refiere el presente Reglamento, sin que bajo ningún concepto se acuerde en cantidad mayor al setenta y cinco por ciento anual, de los gastos comprobados en el año inmediato anterior. El Consejo General podrá acordar y gestionar, por conducto del Consejero Presidente, las ampliaciones presupuestales que correspondan.
-
-El monto que corresponda a cada partido político se dividirá en tres partes iguales que se ministrarán en los meses de mayo, julio y septiembre del año de que se trate.
-
-###### Artículo 20.
-
-Los originales de los documentos comprobatorios serán devueltos a solicitud de los partidos políticos, previa certificación que de los mismos efectúe la Secretaria General del Instituto Electoral de Quintana Roo, en términos del artículo 41 fracción XVII de la Ley Orgánica del Instituto Electoral de Quintana Roo.
-
-Las certificaciones que al efecto expida la Secretaría General se integrarán a los expedientes que deberá llevar la Dirección de Partidos Políticos del Instituto Electoral de Quintana Roo.
-
-###### Artículo 21.
-
-El titular del órgano interno, será el único autorizado para recibir las ministraciones a que tenga derecho cada partido político por el financiamiento previsto en el presente Reglamento.
-
-SEGUNDA PARTE (SIC). FORMATOS E INSTRUCTIVOS.
-
-> <small>N. DE E. VEASE FORMATOS E INSTRUCTIVOS EN EL EXTRAORDINARIO DEL P.O. DE 14 DE OCTUBRE DE 2004, PAGINAS DE LA 11 A LA 14.</small>
+Se establece un estímulo fiscal a favor de las personas físicas y morales, obligadas al pago del Impuesto Sobre Nóminas, que durante el ejercicio de 2020, integren a su planta laboral a personas con discapacidad, personas con 60 años de edad o mayores, consistente en un subsidio del 100% sobre el importe a pagar por dicho impuesto, causado por las erogaciones pagadas a las personas antes referidas.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+Artículo Primero.- La presente Ley estará en vigor dentro del periodo comprendido del primero de enero al treinta y uno de Diciembre del año 2020, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Se abroga el Reglamento para el Financiamiento a Partidos Políticos por Actividades Específicas.
+Artículo Segundo.- En el transcurso de la segunda quincena del mes de Octubre del año 2020, el Ejecutivo Estatal a través de la Secretaría de Finanzas y Administración, presentará ante el H. Congreso del Estado, para su valoración y autorización, un informe desglosado del comportamiento de los ingresos y del ejercicio Presupuestal de Egresos al cierre del mes de julio y proyectado al mes de diciembre del mismo año.
 
-TERCERO.- La fiscalización a los recursos erogados por concepto de actividades específicas por los partidos políticos, durante el ejercicio 2004, se llevará a cabo conforme a lo dispuesto por el Reglamento para el Financiamiento a Partidos Políticos por Actividades Específicas que se abroga.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS 05 DÍAS DEL MES DE DICEMBRE DE 2019
 
-CUARTO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo, para su debida difusión y conocimiento público.
+DIP. DANIELA VIVIANA RUBIO AVILÉS
 
-QUINTO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
+PRESIDENTA
 
-Así lo aprobaron por unanimidad de votos el Consejero Presidente, las Ciudadanas Consejeras y los Ciudadanos Consejeros Electorales del Consejo General del Instituto Electoral de Quintana Roo, en Sesión Extraordinaria celebrada el día veintitrés del mes de septiembre del año dos mil cuatro, en la ciudad de Chetumal, Capital del Estado de Quintana Roo.
+DIP. LORENIA LINETH MONTAÑO RUÍZ
 
-C. CARLOS ROMÁN SOBERANIS FERRAO.
+SECRETARIA
 
-CONSEJERO PRESIDENTE
+EN CUMPLIMIENTO A LO DISPUESTO POR LOS ARTÍCULOS 63, 79 FRACCIÓN II Y 81 SEGUNDO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS TRECE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECINUEVE.
 
-C. JORGE ELROD LÓPEZ CASTILLO.
+A T E N T A M E N T E
 
-SECRETARIO GENERAL
+GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR
+
+CARLOS MENDOZA DAVIS
+
+SECRETARIO GENERAL DE GOBIERNO
+
+ALVARO DE LA PEÑA ANGULO
