@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-fiscalizacion-sobre-el-origen-monto-41061"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-09"
-last_updated: "2004-09-09"
+last_updated: "2007-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 
 REGLAMENTO DE FISCALIZACION SOBRE EL ORIGEN, MONTO, APLICACION Y EMPLEO DE LOS RECURSOS DE LOS PARTIDOS POLITICOS ANTE EL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA LA FISCALIZACION A LOS RECURSOS ORDINARIOS Y DE CAMPAÑA DE LOS PARTIDOS POLITICOS NACIONALES Y LOCALES, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 9 de septiembre de 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+
+Reglamento publicado en el Extraordinario Número 53 al Periódico Oficial del Estado de Quintana Roo, el jueves 9 de septiembre de 2004.
 
 REGLAMENTO DE FISCALIZACIÓN SOBRE EL ORIGEN, MONTO, APLICACIÓN Y EMPLEO DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS ANTE EL INSTITUTO ELECTORAL DE QUINTANA ROO.
 
@@ -870,3 +872,29 @@ CERTIFICO
 QUE LA PRESENTE COPIA FOTOSTÁTICA CONCUERDA FIEL Y EXACTAMENTE CON SU ORIGINAL, Y SE EXPIDE EN OCHENTA Y OCHO FOJAS ÚTILES A UNA CARA, DEBIDAMENTE SELLADAS Y COTEJADAS, PARA LOS EFECTOS LEGALES CONDUCENTES.
 
 SE EXTIENDE LA PRESENTE EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TRES DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL CUATRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día de su aprobación por el Consejo General del Instituto Electoral de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento de Fiscalización sobre el Origen, Monto, Aplicación y Empleo de los Recursos de los Partidos Políticos ante el Instituto Electoral de Quintana Roo.
+
+TERCERO.- La fiscalización a los recursos otorgados para el sostenimiento de actividades ordinarias correspondiente al ejercicio 2006, se realizará conforme al presente Reglamento en todo lo que resulte favorable a los propios Institutos políticos.
+
+CUARTO.- Dentro de los diez días hábiles posteriores a la entrada en vigor del presente Reglamento, los partidos políticos acreditados a la fecha ante el Consejo General, deberán dar cumplimiento a las disposiciones establecidas en el artículo 17, inciso a) del presente Reglamento.
+
+QUINTO.- La fiscalización a los recursos otorgados para el sostenimiento de las actividades ordinarias correspondiente al ejercicio 2007, se realizará conforme al presente Reglamento en todo lo que resulte favorable a los propios institutos políticos.
+
+SEXTO.- La fiscalización de los recursos destinados para gastos de campaña correspondientes al proceso electoral local ordinario 2007-2008 se llevará a cabo conforme a lo dispuesto por el presente Reglamento.
+
+SÉPTIMO.- Se instruye a la Dirección de Partidos Políticos para que los informes sobre el origen, monto y empleo de los recursos, así como la documentación comprobatoria respectiva a los ejercicios ordinarios dos mil cuatro y dos mil cinco de los Partidos Políticos Nacionales, Acción Nacional, Revolucionario Institucional, de la Revolución Democrática, Convergencia y del Trabajo, les sea devuelta en términos del artículo 51 del presente Reglamento.
+
+OCTAVO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo para su debida difusión y conocimiento público.
+
+NOVENO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
+
+DÉCIMO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Quintana
+
+Roo, para los efectos conducentes.
