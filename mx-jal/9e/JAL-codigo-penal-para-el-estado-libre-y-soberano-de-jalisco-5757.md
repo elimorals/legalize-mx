@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2007-02-22"
+last_updated: "2007-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2379,19 +2379,15 @@ Si el acosador fuese servidor público y utilizase medios o circunstancias que e
 
 ### CAPITULO II. Injurias
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
 ### CAPITULO III. Difamación
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO IV. Calumnia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
-
 ### CAPITULO V. Reglas generales
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso y maltrato al infante
 
@@ -2791,11 +2787,15 @@ Cuando el raptor se case con la ofendida, no se procederá contra él ni contra 
 
 Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario mínimo, al que públicamente diere a otro, fuera de riña, una bofetada, o cualquier otro golpe simple que no cause lesiones, si no lo hiciere en ejercicio del derecho de corrección.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2007)</small>
+
 ### CAPITULO X. Daños en las cosas
 
 ###### Art. 198.
 
-Se impondrán de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa por el importe de cinco a veinte días de salario, al que por medio de cualquier expresión o acción, causare alguna ofensa grave a alguien.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO XI. Daño al patrimonio urbano
 
@@ -2803,33 +2803,23 @@ Se impondrán de diez a cincuenta jornadas de trabajo a favor de la comunidad o 
 
 ###### Art. 199.
 
-Se impondrán de dos meses a dos años de prisión o multa por el importe de cincuenta a cien días de salario mínimo, y la reparación del daño, al que comunicare, a una o más personas, la imputación que se hace a otra persona física o moral de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causar deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
 ###### Art. 200.
 
-El inculpado de difamación quedará exento de sanción, cuando pruebe que la imputación que hizo queda comprendida en alguno de los casos siguientes:
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
-I. Si la imputación hubiera tenido por objeto defender o garantizar un interés público actual;
-
-II. Si el imputado fuera una persona que haya obrado con carácter público y la imputación fuere relativa al ejercicio de sus funciones; y
-
-III. Si el hecho imputado está declarado cierto por sentencia irrevocable y el inculpado obre por un interés legítimo sin ánimo de dañar.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO XII. Despojo de inmuebles y aguas
 
 ###### Art. 201.
 
-Se impondrán de dos meses a dos años de prisión y multa por el importe de cincuenta a cien días de salario mínimo, al que impute a otro falsamente un delito, ya sea porque el hecho es falso, o inocente la persona a quien se le atribuya.
-
-Igual sanción se impondrá al que, para hacer que un inocente aparezca como culpable de un delito, ponga en las vestiduras del calumniado, en su casa, en su vehículo, o en cualquier lugar adecuado para ese fin, una cosa que pueda dar indicio o presunciones de responsabilidad.
-
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
 ###### Art. 202.
 
-Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia, la queja o la acusación, no se castigará como calumniador al que las hizo, si probare plenamente haber tenido causas bastantes para incurrir en error.
-
-Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusación, si los hechos que en ella se imputan son ciertos, aunque no constituyan un delito y él, errónea o falsamente, les haya atribuido ese carácter.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
 ### CAPITULO XIII. Del pillaje
 
@@ -2841,25 +2831,9 @@ Tampoco se aplicará sanción alguna al autor de una denuncia, queja o acusació
 
 No se procederá contra los autores de los delitos a que se refiere este título, sino por querella de los ofendidos o de sus legítimos representantes, excepto cuando sean cometidos en contra de algún representante o comisionado de alguno de los poderes o institución pública.
 
-Si las injurias o la difamación fueren recíprocas, el juez podrá, según las circunstancias, declarar exentas de sanción a las dos partes, o exigirles caución de no ofender.
-
-Si la injuria, difamación o calumnia, son posteriores al fallecimiento del ofendido, solo se procederá en virtud de querella de sus familiares.
-
-Si esos mismos delitos se cometen con anterioridad al fallecimiento del ofendido y éste hubiera perdonado la ofensa, o sabiendo que se había inferido, no hubiera presentado su querella pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la acción penal de esos delitos.
-
-No servirá de excusa de la difamación ni de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya difundido en la República o en otro país.
-
 ###### Art. 204.
 
-No se aplicará sanción alguna como responsable de difamación ni de injurias:
-
-I. Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber, o por interés público, o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad o dando informes que se le hubiesen pedido, si no lo hiciere a sabiendas, calumniosamente; y
-
-III. Al autor de un escrito presentado o de un discurso pronunciado, en cualquier tribunal, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la Ley.
-
-Lo prevenido en esta fracción no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2007)
 
 ## TITULO DECIMO NOVENO. DE LOS DELITOS ELECTORALES
 
@@ -4542,3 +4516,7 @@ UNICO. El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 22 DE FEBRERO DE 2007.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
