@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2007-05-31"
+last_updated: "2007-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
-(NOTA: EL 6 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 6/2023, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE MAYO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2007.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -887,8 +885,6 @@ Pasado un año desde que hubiere desaparecido el ausente, el Agente de la Procur
 
 Si el apoderado dentro del término que se le fije, no quiere o no puede dar la garantía, se tendrá por terminado el poder y se procederá al nombramiento de representante.
 
-> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
-
 ###### Art. 115.
 
 Pueden pedir la declaración de ausencia:
@@ -899,9 +895,7 @@ II. Los herederos instituidos en testamento público abierto;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-III. El Agente de la Procuraduría Social;
-
-IV. (DEROGADA, P.O. 31 DE MAYO DE 2007)
+III. El Agente de la Procuraduría Social.
 
 ###### Art. 116.
 
@@ -2754,8 +2748,6 @@ Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de l
 ###### Art. 445.
 
 La obligación de dar alimentos no comprende la de proveer de capital a los acreedores alimentarios para ejercer el oficio, arte o profesión a que se hubieren dedicado.
-
-> <small>N. DE E. EN RELACIÓN CON EL PRESENTE ARTÍCULO SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE JALISCO, http://congresojal.gob.mx/BibliotecaVirtual/</small>
 
 ###### Art. 446.
 
@@ -8371,6 +8363,10 @@ Los créditos por indemnización o reparación del daño son intransferibles y s
 
 La violación de cualesquiera de los derechos de personalidad produce el daño moral, que es independiente del daño material. El responsable del mismo tendrá la obligación de repararlo mediante una indemnización pecuniaria.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+
+No se considerará daño moral el causado por el ejercicio de los derechos de opinión, crítica, expresión e información, cuando se realice en los términos y con las limitaciones que establece la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Art. 1392.
 
 La acción de reparación del daño moral no es transmisible a tercero por acto entre vivos; solamente es transmisible a los herederos de la víctima, cuando ésta haya intentado la acción en vida.
@@ -8394,6 +8390,24 @@ VI. Los usos y costumbres del lugar donde se causó el daño.
 ###### Art. 1394.
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, prestigio personal o profesional, el juez independientemente de lo dispuesto en el artículo anterior ordenará, y en ejecución de sentencia a petición expresa del afectado y con cargo al responsable, la publicación de un extracto de la sentencia, de la que se desprenda con toda claridad las circunstancias y el alcance de la misma, a través de los medios informativos que considere convenientes; pero en los casos en que el daño se produzca por medio de un acto que haya sido difundido por los medios informativos o de difusión masiva, el juez ordenará que los mismos den publicidad al extracto de la sentencia con la misma importancia y consideración que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+
+Art. 1394 bis.- Estarán sujetas a la reparación del daño moral de acuerdo a lo establecido en el artículo anterior y, por tanto, se considerarán como hechos ilícitos, las siguientes conductas:
+
+I. El que divulgue la imputación que se hace a otra persona física o jurídica, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. El que impute a otro un hecho determinado y calificado como delito por la ley, si el hecho es falso o inocente la persona a quien se le imputa;
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2007)</small>
+
+Art. 1394 ter.- En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica o profesional, ni las que versen sobre acontecimientos privados divulgados públicamente por el propio afectado.
 
 ###### Art. 1395.
 
@@ -11181,7 +11195,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ###### Art. 1943.
 
-Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan sido viables.
+Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan (sic) sido viables.
 
 Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
@@ -17882,3 +17896,7 @@ SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de es
 P.O. 31 DE MAYO DE 2007.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE OCTUBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
