@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1240
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-13"
-last_updated: "2004-02-13"
+last_updated: "2007-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2007.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -373,9 +373,13 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos pol
 
 II. Contar con credencial para votar con fotografía;
 
-III. No tener más de sesenta y cinco años de edad ni menos de treinta, al día de su nombramiento.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2007)</small>
 
-IV. Contar con Título de Licenciado en Derecho expedido legalmente y práctica profesional de cuando menos cinco años;
+III. No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2007)</small>
+
+IV. Contar con Título de Licenciado en Derecho expedido legalmente y práctica profesional de cuando menos diez años;
 
 V. Preferentemente, tener conocimiento en materia electoral;
 
@@ -910,3 +914,9 @@ SEGUNDO.- Los Magistrados a elegirse en el año 2004 durarán en su encargo del 
 TERCERO.- El Tribunal Electoral del Estado, emitirá las disposiciones relativas a la organización, funcionamiento y desarrollo del servicio profesional de carrera electoral, en un plazo no mayor de 60 días a la entrada en vigor del presente Decreto para la aplicación del servicio de carrera a partir del próximo proceso electoral.
 
 CUARTO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
