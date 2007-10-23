@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-instituto-electoral-de-quintana-roo-para-41484"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-14"
-last_updated: "2004-10-14"
+last_updated: "2007-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de Octubre de 2004.
 
@@ -276,3 +278,19 @@ CONSEJERO PRESIDENTE
 C. JORGE ELROD LÓPEZ CASTILLO.
 
 SECRETARIO GENERAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día de su aprobación por el Consejo General del Instituto Electoral de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto Electoral de Quintana Roo para otorgar financiamiento público por actividades específicas a los partidos políticos como entidades de interés público.
+
+TERCERO.- La fiscalización a los recursos erogados por concepto de actividades específicas por los partidos políticos durante el ejercicio dos mil siete, se llevará a cabo conforme a lo dispuesto por el presente Reglamento.
+
+CUARTO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo, para su debida difusión y conocimiento público.
+
+QUINTO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
+
+SEXTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Quintana Roo, para los efectos conducentes.
