@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2007-08-15"
+last_updated: "2007-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -59,13 +59,17 @@ I. Centro Comunitario: Al Centro Estatal de Reinserción Social Comunitario;
 
 II. Código: A este Ordenamiento;
 
-III. Consejo: El Consejo de Ejecución de Sanciones Penales;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+III. El Consejo: Al Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
 IV. La Constitución del Estado: La Constitución Política del Estado de Chiapas;
 
 V. La Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-VI. La Fiscalía: A la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+VI. El Ministerio de Justicia: Al Ministerio de Justicia del Estado;
 
 VII. La Junta: La Junta de Gobierno del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
@@ -205,9 +209,11 @@ II. La reinserción social del sentenciado.
 
 #### Sección Primera. De la Junta
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 18.
 
-La autoridad suprema del Consejo es la Junta, la cual estará integrada por:
+La Autoridad Suprema del Consejo es la Junta, la cual estará integrada por:
 
 I. El Coordinador General del Gabinete;
 
@@ -219,7 +225,9 @@ IV. El Secretario de Desarrollo Social;
 
 V. El Secretario de Pueblos Indios; y,
 
-VI. El Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+VI. El Ministro de Justicia del Estado de Chiapas.
 
 Los cargos de la Junta serán honoríficos. Sus miembros podrán ser suplidos solamente por su inferior jerárquico inmediato.
 
@@ -369,21 +377,23 @@ XXV. Las demás que establezca este Código, que le ordene la Junta, su reglamen
 
 La Secretaría Ejecutiva, será el superior jerárquico de las autoridades penitenciarias de los Centros.
 
-### Capítulo II. De las Atribuciones de la Institución del Fiscal del Ministerio Público en la Ejecución de Sanciones Penales y Medidas de Seguridad
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+### Capítulo Segundo (sic). De las Atribuciones de la Institución del Ministerio Público en la Ejecución de Sanciones Penales y Medidas de Seguridad
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 25.
 
-La institución del Ministerio Público, tendrá las atribuciones siguientes:
+La Institución del Ministerio Público, tendrá las atribuciones siguientes:
 
-I. Supervisar el debido cumplimiento de las sanciones penales y medidas de seguridad impuestas por los Tribunales Penales del Estado;
+I. Coadyuvar con el Consejo en el cumplimiento de las sanciones penales y medidas de seguridad impuestas por los tribunales penales del Estado.
 
-II. Dar a conocer a la Secretaría Ejecutiva, los casos en que las personas hayan cumplido las sanciones penales y medidas de seguridad que les fueron impuestas, para mantener actualizado el registro de estadística criminal;
+II.- Rendir informes, documentos y, en general, toda clase de datos que le sean requeridos por la Secretaría Ejecutiva, y en su caso, solicitar los que sean necesarios para el ejercicio de sus funciones.
 
-III. Requerir informes y datos a la Secretaría Ejecutiva;
+III. Ser parte en la tramitación de los incidentes que se promuevan en los términos del presente Código.
 
-IV. Ser parte en la tramitación de los incidentes que se promuevan en los términos del presente Código; y,
-
-V. Las demás que éste Código, su reglamento y demás disposiciones aplicables establezcan.
+IV. Las demás que este Código, su reglamento y otros ordenamientos legales le confieran.
 
 ## Título Tercero. De las Reglas de Ejecución de Sanciones Penales y Medidas de Seguridad
 
@@ -615,9 +625,11 @@ Los Sentenciados a confinamiento, residirán en el lugar señalado por la Secret
 
 La Secretaría Ejecutiva, hará la designación del lugar donde se ejecute el confinamiento, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del sentenciado. Cuando se trate de delitos contra el orden constitucional y la seguridad del Estado, la designación la hará el juez de la causa.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 63.
 
-La Secretaría Ejecutiva, cuidará que el confinado obtenga trabajo en el lugar del confinamiento y en caso de que no lo obtuviere por causas no imputables al mismo, se le auxiliará con ese fin, por conducto del Patronato de Ayuda para la Reinserción Social.
+Las Secretaría Ejecutiva cuidará que el confinado obtenga trabajo en el lugar del confinamiento, y en caso de que no lo obtuviere por causa no imputable al mismo, se le auxiliará con ese fin por conducto de la Institución que al efecto se constituya.
 
 ### Capítulo III
 
@@ -985,9 +997,11 @@ Se permitirá a los internos, la adquisición de productos alimenticios y de con
 
 El trabajo dentro del establecimiento de reclusión será considerado como un deber del interno, siendo un elemento fundamental en el tratamiento para la reinserción social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 128.
 
-Por no tratarse de una relación voluntaria, sino que surge como consecuencia de la sentencia y del régimen de reinserción social, al trabajo que se realice en los centros, no le serán aplicables las leyes laborales.
+Por no tratarse de una relación voluntaria, sino que surge como consecuencia de un procedimiento penal o sentencia y del régimen de reinserción social, al trabajo que se realice en los centros, no le serán aplicables las leyes laborales.
 
 El trabajo penitenciario se regirá por los siguientes principios:
 
@@ -995,7 +1009,7 @@ I. Será remunerado con base en el salario mínimo general vigente en el área g
 
 II. Se realizará en las condiciones de seguridad e higiene previstas para el trabajo ordinario;
 
-III. Motivará la inscripción de los internos, en el sistema de seguridad social. Para este efecto se firmarán convenios con el Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas, con el objeto de que el otorgamiento de las prestaciones se adapte a las circunstancias peculiares de los internos en un establecimiento de reclusión;
+III. (DEROGADA, P.O. 24 DE OCTUBRE DE 2007)
 
 IV. No tendrá carácter aflictivo ni será aplicado como medida de corrección;
 
@@ -1315,9 +1329,11 @@ Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuida
 
 ### Capítulo IV. De la Libertad con Sentencia Suspendida
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 173.
 
-El Gobernador del Estado, podrá acordar la libertad de reos cuya sentencia ha ya causado ejecutoria, previo dictamen elaborado por la Comisión Interinstitucional, integrada por los titulares del Supremo Tribunal de Justicia del Estado, de la Comisión de Derechos Humanos del Congreso del Estado, de la Fiscalía General del Estado y de la Comisión de Derechos Humanos.
+El Gobernador del Estado, podrá acordar la libertad de reos cuya sentencia haya causado ejecutoria, previo dictamen elaborado por la Comisión Interinstitucional integrada por los titulares de la Magistratura Superior del Estado, de la Comisión de Derechos Humanos del Congreso del Estado, del Ministerio de Justicia del Estado y de la Comisión de los Derechos Humanos.
 
 Los titulares que integran la Comisión Interinstitucional podrán nombrar representantes ante ésta y funcionará con base en lo establecido en el reglamento que para tal efecto se expida.
 
@@ -1343,7 +1359,9 @@ Cuando en la sentencia se haya condenado al pago de multas, éstas deberán ser 
 
 Los beneficios contenidos en este Código, serán otorgados oficiosamente o a petición de parte interesada.
 
-El Presidente del Supremo Tribunal de Justicia del Estado, podrá solicitar el beneficio de Libertad con Sentencia Suspendida a favor de internos a quienes se considere otorgar el beneficio de conformidad a lo establecido en el artículo 128 del Código Penal para el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+El Presidente de la Magistratura Superior del Estado podrá solicitar el beneficio de la Libertad con Sentencia Suspendida a favor de internos a quienes se considere otorgar el beneficio de conformidad a lo establecido en el artículo 128, del Código Penal para el Estado de Chiapas.
 
 El Gobernador del Estado podrá tomar en consideración las solicitudes que le formule la mayoría del Congreso del Estado, en términos del artículo 129 del Código Penal para el Estado de Chiapas.
 
@@ -1552,3 +1570,11 @@ P.O. 15 DE AGOSTO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Todas las atribuciones que en relación a la Fiscalía General del Estado y de los órganos que integraban a ésta se hagan en el Código, se entenderán conferidas a los órganos, autoridades y demás personal que integran el Ministerio de Justicia del Estado, en términos de su Ley Orgánica.
