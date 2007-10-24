@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-del-agua-del-estado-de-22223
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-05"
-last_updated: "2001-09-05"
+last_updated: "2007-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de septiembre de 2001.
 
@@ -61,9 +61,11 @@ VI. Organismos, a los organismos prestadores de los servicios de agua potable, d
 
 La Comisión es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le encomienda la Ley, la Ley del Agua y otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 4.
 
-La Comisión se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su respectivo reglamento, y por los demás ordenamientos aplicables.
+La Comisión se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, y por los demás ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -137,7 +139,9 @@ XV. Delegar en la unidad administrativa correspondiente, previo acuerdo del Cons
 
 XVI. Proponer al Consejo la cancelación de los créditos fiscales que se ubiquen en los supuestos de incosteabilidad en su cobro o de insolvencia de los usuarios;
 
-XVII. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Comisión;
+> <small>(REFORMADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+XVII. Impulsar y coordinar las acciones de simplificación, desregulación y modernización de los trámites y servicios que ofrece la Comisión y promover la certificación de los procesos de trabajo;
 
 XVIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, con la intervención del área jurídica, así como los casos no previstos en el mismo, los cuales se resolverán administrativa o judicialmente, de acuerdo con la normatividad aplicable; y
 
@@ -155,9 +159,15 @@ III. Dirección General de Infraestructura Hidráulica;
 
 IV. Dirección General de Coordinación con Organismos Operadores;
 
-V. Dirección General de Administración y Finanzas; y
+V. Dirección General de Administración y Finanzas; y (sic)
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+VI. Dirección General de Asuntos Jurídicos; y
+
+> <small>(ADICIONADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+VII. Contraloría Interna.
 
 El Vocal Ejecutivo contará con el número de servidores públicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de conformidad con la normatividad establecida y de acuerdo con el presupuesto de egresos respectivo.
 
@@ -195,9 +205,15 @@ XI. Proporcionar, previo acuerdo del Vocal Ejecutivo, la información, datos o e
 
 XII. Rendir por escrito al Vocal Ejecutivo los informes diario, semanal, mensual y anual de las actividades realizadas por la dirección general a su cargo;
 
-XIII. Atender, en el ámbito de su competencia, todas aquellas disposiciones que emita el Consejo, por conducto del Vocal Ejecutivo; y
+XIII. Atender, en el ámbito de su competencia, todas aquellas disposiciones que emita el Consejo, por conducto del Vocal Ejecutivo; y (sic)
 
-XIV. Las demás que les confieren otras disposiciones legales y las que les encomiende el Vocal Ejecutivo.
+> <small>(REFORMADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+XIV. Proponer, ejecutar y evaluar acciones para la simplificación, desregulación y modernización de los trámites y servicios que ofrecen las unidades administrativas a su cargo y llevar a cabo la certificación de sus procesos; y
+
+> <small>(ADICIONADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+XV. Las demás que les confieren otras disposiciones legales y las que les encomiende el Vocal Ejecutivo.
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES
 
@@ -373,6 +389,30 @@ XIX. Realizar el registro contable del ejercicio del presupuesto de inversión d
 
 XX. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
 
+> <small>(REFORMADO, G.G. 24 DE OCTUBRE DE 2007)</small>
+
+Artículo 20 bis.- Corresponde a la Dirección General de Asuntos Jurídicos:
+
+I.- Sustanciar los asuntos de carácter legal, en que tenga injerencia la Comisión y que no sean competencia de otra unidad administrativa;
+
+II.- Asesorar a las unidades administrativas en los procedimientos administrativos que se inicien al personal de la Comisión;
+
+III.- Elaborar o revisar los proyectos de ordenamientos jurídicos de la Comisión, con la participación de las demás unidades administrativas del organismo;
+
+IV.- Formular los proyectos de contratos o convenios en los que la Comisión sea parte;
+
+V.- Ejercer las acciones, concurrir a juicio y formular las denuncias y querellas que procedan, en representación de la Comisión;
+
+VI.- Asesorar en materia jurídica a los servidores públicos de la Comisión, respecto al desarrollo de sus funciones;
+
+VII.- Proponer al Vocal Ejecutivo lineamientos, políticas y criterios de carácter jurídico que permitan mejorar las relaciones contractuales de la Comisión, a fin de proteger su patrimonio;
+
+VIII.- Promover la regularización de los inmuebles propiedad de la Comisión y de aquellos que tenga en operación o administración;
+
+IX.- Compilar y difundir entre el personal de la Comisión, los ordenamientos jurídicos y demás disposiciones de carácter normativo, que incidan en el desarrollo de sus funciones; y
+
+X.- Las demás que le confieren las disposiciones aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
+
 ### CAPITULO VI. DE LAS ATRIBUCIONES DE LA CONTRALORIA INTERNA
 
 ###### Artículo 21.
@@ -413,31 +453,25 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 Las residencias de construcción, gerencias regionales y unidades de apoyo administrativo, regirán su funcionamiento conforme a las disposiciones aplicables en la materia y en los manuales de organización y de procedimientos aprobados, debiendo conducir sus actividades de manera coordinada y supeditada a la normatividad que rige a todas las unidades administrativas de la Comisión.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 24 DE OCTUBRE DE 2007)</small>
+
 ### CAPÍTULO VIII. DE LA COMISIÓN INTERNA DE MODERNIZACIÓN Y MEJORAMIENTO INTEGRAL DE LA ADMINISTRACIÓN DE LA COMISIÓN
 
 ###### Artículo 24.
 
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Comisión es un mecanismo participativo de sus diversas unidades administrativas que tiene por objeto analizar y evaluar los programas, así como los servidos que ésta ofrece, con el fin de proponer medidas para elevar su eficiencia y eficacia.
+(DEROGADO, G.G. 24 DE OCTUBRE DE 2007)
 
 ###### Artículo 25.
 
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Comisión será presidida por el Vocal Ejecutivo y estará integrada por los titulares de las unidades administrativas del Organismo y demás servidores públicos que el determine.
+(DEROGADO, G.G. 24 DE OCTUBRE DE 2007)
 
 ###### Artículo 26.
 
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Comisión, realizará las siguientes funciones:
+(DEROGADO, G.G. 24 DE OCTUBRE DE 2007)
 
-I. Diseñar, establecer y supervisar el desarrollo del Programa de Modernización Administrativa de la Comisión;
+###### Artículo 27.
 
-II. Coordinar los trabajos de programación de las actividades de la Comisión;
-
-III. Establecer un sistema de evaluación permanente acerca de las actividades de las unidades administrativas de la Comisión, y
-
-IV Las demás Que le encomiende el Vocal Ejecutivo.
-
-###### Articulo 27.
-
-La Comisión Interna de Modernización y Mejoramiento Integral de la Administración de la Comisión, llevará a cabo reuniones cuando menos una vez cada dos meses.
+(DEROGADO, G.G. 24 DE OCTUBRE DE 2007)
 
 ### CAPITULO IX. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -465,12 +499,26 @@ Aprobado por el Consejo Directivo de la Comisión del Agua del Estado de México
 
 ARQ. FRANCISCO COVARRUBIAS GAITAN
 
-SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS Y PRESIDENTE DEL CONSEJO DIRECTIVO
+SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS Y
+
+PRESIDENTE DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
 ING. EDGARDO CASTAÑEDA ESPINOSA
 
-DIRECTOR GENERAL DEL PROGRAMA HIDRAULICO Y SECRETARIO DEL CONSEJO DIRECTIVO
+DIRECTOR GENERAL DEL PROGRAMA HIDRAULICO Y
+
+SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 24 DE OCTUBRE DE 2007.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
