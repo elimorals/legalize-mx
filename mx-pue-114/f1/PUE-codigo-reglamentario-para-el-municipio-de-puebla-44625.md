@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2007-06-22"
+last_updated: "2007-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4751,12 +4751,6 @@ El Honorable Ayuntamiento del Municipio de Puebla a través de la Tesorería Mun
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-###### Artículo 466.
-
-Los grupos voluntarios que soliciten donaciones, deberán cumplir con todos los requisitos establecidos en este Capítulo, debiendo estar inscritos en la Unidad Operadora Municipal de Protección Civil y extender el recibo correspondiente.
-
-DEL FONDO DE CONTINGENCIAS
-
 ###### Artículo 468.
 
 La Unidad Operativa Municipal de Protección Civil, vigilará y sancionará a los grupos voluntarios que reciban donaciones a favor de la atención de emergencias y no lo destinen a ello, con el objeto de verificar que estos beneficios cumplan con los fines que la ley y este Capítulo señalan. Lo anterior sin perjuicio de las sanciones previstas (sic).
@@ -6097,7 +6091,7 @@ Para los efectos del presente Capítulo se consideran como bebidas alcohólicas 
 
 La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de establecimientos que señale el presente Código Reglamentario.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 2006)</small>
 
 Los establecimientos a que se refieren las fracciones I, II, VII, XII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XIV, XVII y XIX del citado artículo.
 
@@ -11989,9 +11983,9 @@ II. Reducción de las fuerzas cortantes.- Podrán adoptarse fuerzas cortantes me
 
 1. El periodo natural de vibraciones se tomará igual a
 
-T = 2 ñ g (¡W ¡ 2) 1 / 2
+T = 2 ñ g (¡W¡ 2) 1/2
 
-g (P ¡ X¡)
+g (P¡ X¡)
 
 Donde:
 
@@ -12025,7 +12019,7 @@ a2 = 1.5r(1-q) W¡
 
 W¡h¡2
 
-Donde q = (Tb/T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
+Donde q= (Tb / T) r siendo r el exponente que se consigna en la tabla I. En este caso, los coeficientes a1, a2 son tales que la relación V/W es igual a a/Q cuando T es igual a y tiende a 1.25, 1.33 y 1.5 veces a/Q para terreno tipo I, II, III, respectivamente, cuando T tiende a infinitivo.
 
 III. Péndulos Invertidos.
 
@@ -12117,7 +12111,7 @@ Cuando en el análisis modal se desprecie el acoplamiento entre los grados de li
 
 En cambio, si en el análisis modal se reconoce explícitamente el acoplamiento mencionado, deberá incluirse el efecto de todos los modos naturales ordenados según valores decrecientes de sus periodos de vibración, que sean necesarios para que la suma de las masas efectivamente en cada dirección de análisis sea mayor o igual a 90 % de la masa total. Las masas modales efectivamente están dadas por las siguientes expresiones:
 
-M¡x = (Z¡T(M)X)/2/Z¡t(m)(Z¡)
+M¡x = (Z¡T(M)X)/2/Z¡t(m)(Z¡
 
 M¡y = (z¡)T(M)Y)2/(Z)T(M)(z¡)
 
@@ -12125,7 +12119,7 @@ M¡y = (z¡)T(M)Y)2/(Z)T(M)(z¡)
 
 (M) = Matriz de masas de la estructura
 
-Mix = Masa efectiva del modo i para la acción sísmica en la dirección x
+M ix = Masa efectiva del modo i para la acción sísmica en la dirección x
 
 Miy = Masa efectiva del modo i para la acción sísmica en la dirección y
 
@@ -12175,9 +12169,9 @@ He = (W¡X¡h¡/(¡W¡X¡)
 
 Donde:
 
-Wi = Peso del nivel i
+W i = Peso del nivel i
 
-Xi = Amplitud del desplazamiento modal en nivel i
+X i = Amplitud del desplazamiento modal en nivel i
 
 hi = Altura del nivel i sobre el desplante.
 
@@ -12185,7 +12179,7 @@ I. Análisis estático
 
 Si se opta por el análisis estático, cortante basal de la estructura con base flexible se calculará mediante
 
-V = a/Qw-(a/Q - a/Q)We)
+V = a/Qw-(a/Q - a/Q)We
 
 Donde:
 
@@ -12199,7 +12193,7 @@ Ordenada especial para la estructura con base rígida, se calcula según las ecs
 
 Q' = Factor reductito para el periodo fundamental de la estructura con base rígida
 
-=Factor reductito para el periodo efectivo de la estructura con base flexible
+= Factor reductito para el periodo efectivo de la estructura con base flexible
 
 El factor x se determina conforme a la ec. haciendo x =, donde es el amortiguamiento efecto de la estructura con base flexible. En la fracción III de este artículo se indica la forma de calcular el periodo y amortiguamiento efectivos del sistema suelo-estructura.
 
@@ -28227,29 +28221,31 @@ Es facultad del C. Presidente Municipal Constitucional, conceder los Reconocimie
 
 Los Reconocimientos señalados en el artículo anterior, consistirán en un diploma, firmado por el C. Presidente Municipal Constitucional y el Secretario del Honorable Ayuntamiento, según el galardón entregado, y en el cual se expresarán las razones de su otorgamiento.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2345.
 
-El Reconocimiento al "Mérito Empresarial", será otorgado a las empresas que han contribuido al desarrollo, generación de empleo y posicionamiento nacional e internacional de la Ciudad de Puebla.
+El Reconocimiento al "Mérito Empresarial", será otorgado a aquellas empresas que por sus actividades contribuyen al desarrollo económico, generación de empleo y posicionamiento nacional e internacional de la Ciudad de Puebla.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2346.
 
-El Reconocimiento al "Mérito Empresarial", consistirá de seis categorías:
+El Reconocimiento al "Mérito Empresarial", consistirá de siete categorías:
 
-I. Comercio y Servicios;
+I.- Comercio
 
-II. Industria;
+II.- Servicios
 
-III. Agro Industria;
+III.- Industria
 
-IV. Empresas Exportadoras;
+IV.- Agro Industria
 
-V. Turismo; y
+V.- Empresas Exportadoras
 
-VI. Empresas incubadas por Universidades.
+VI.- Turismo
+
+VII.- Empresas incubadas por Universidades.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28257,17 +28253,17 @@ VI. Empresas incubadas por Universidades.
 
 El Reconocimiento al "Mérito Empresarial", será entregado en Sesión Solemne de Cabildo, para cada una de sus categorías, durante la última semana del mes de noviembre de cada año.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2348.
 
-El Reconocimiento al "Mérito Empresarial", consistirá en una escultura hecha por artesanos poblanos, además de hacerse merecedores a recibir el descuento, que para tal efecto, determine la propia Tesorería Municipal en Impuesto Predial y Refrendo de Licencias de Funcionamiento.
+Se otorgará a las empresas acreedoras del Reconocimiento al Mérito Empresarial, una placa conmemorativa y/o una obra elaborada por artistas, poblanos, cuyas características quedarán a consideración del Consejo de Premiación del Reconocimiento al Mérito Empresarial, además de hacerse merecedores a recibir los estímulos fiscales que para tal efecto determine el propio Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2349.
 
-Para la selección de las empresas susceptibles a recibir el Reconocimiento al "Mérito Empresarial", deberá publicarse la convocatoria respectiva en dos de los diarios de mayor circulación en el Estado de Puebla y en la Pagina Web del Gobierno Municipal con la anticipación necesaria.
+La selección de las empresas candidatas a recibir el Reconocimiento al Mérito Empresarial, se efectuará de conformidad con las bases de la convocatoria que para tal efecto determine el Consejo de Premiación. La convocatoria y el nombre de las empresas ganadoras, deberán publicarse en dos de los diarios de mayor; circulación en el Estado de Puebla y en la Página Web del Gobierno Municipal, en las fechas para ello dispuestas por el Consejo de Premiación.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28275,11 +28271,11 @@ Para la selección de las empresas susceptibles a recibir el Reconocimiento al "
 
 El Reconocimiento al "Mérito Empresarial", será entregado por el Honorable Ayuntamiento de Puebla, a través del C. Presidente Municipal Constitucional.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
-###### Articulo 2351.
+###### Artículo 2351.
 
-Las propuestas de las empresas a recibir dicho Reconocimiento, deberán ser hechas por cada uno de los organismos que representan a los sectores señalados en el artículo 2346 del presente Capítulo, y presentadas ante la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Empresarial".
+Las propuestas de las empresas a recibir dicho Reconocimiento, deberán ser formuladas por cada uno de los organismos que representan a los sectores señalados en el artículo 2346 del presente Capítulo, y presentadas ante la Secretaría del Consejo de Premiación del Reconocimiento al "Mérito Empresarial".
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28301,9 +28297,17 @@ III. Contar con una reconocida trayectoria o antigüedad;
 
 IV. Ser generadora de un gran número de empleos dentro del Municipio;
 
-V. Contar con un proceso de innovación (involucrando tecnología de punta en general); y
+V. Contar con un proceso de innovación (involucrando tecnología de punta en general); y (sic)
 
-VI. Contar con certificación que la acrediten como una empresa de calidad.
+VI. Contar con certificación que la acrediten como una empresa de calidad;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+VII. Acreditar ser empresa socialmente responsable;
+
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+VIII. No haber sido objeto de sanciones graves en materia administrativa o fiscal en el año inmediato anterior al de esta convocatoria y hasta la fecha en que ocurra la ceremonia de entrega del reconocimiento.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28311,11 +28315,11 @@ VI. Contar con certificación que la acrediten como una empresa de calidad.
 
 Para efectos de la selección de las empresas susceptibles de ser condecoradas con la entrega del Reconocimiento al "Mérito Empresarial", únicamente podrán votar los miembros que conformen el Consejo de Premiación, y en caso de existir empate, el Presidente del Consejo tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2355.
 
-La selección previa que haga el Consejo de Premiación, del merecedor del Reconocimiento al "Mérito Empresarial", así como la decisión que éste haga, respecto de la empresa a la que se ha de entregar dicho Reconocimiento, será inapelables en todo caso.
+La selección previa que haga el Consejo de Premiación, de los merecedores del Reconocimiento al "Mérito Empresarial," así como la decisión que éste haga, respecto de las empresas a las que se ha de entregar dicho Reconocimiento, serán inapelables en todo caso.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28329,11 +28333,15 @@ El Consejo de Premiación es un órgano colegiado de carácter permanente, encar
 
 El Consejo de Premiación del Reconocimiento al "Mérito Empresarial", estará integrado por:
 
-l. Un Presidente, quien será el Presidente Municipal Constitucional, quien en caso de empate tendrá voto de calidad;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+I. Un Presidente, quien será el Presidente Municipal Constitucional de Puebla, quien en caso de empate tendrá voto de calidad;
 
 II. Un Secretario, quien será el Secretario de Fomento Económico, Turismo y Empleo; con voz y voto; y
 
-III. Seis Vocales, que serán el Presidente de la Comisión de Industria y Comercio del Honorable Ayuntamiento, los Representantes Legales de: BANCOMEXT, COMCE SUR, PYMEXPORTA, CEDECO y de la Secretaría del Trabajo y Competitividad, quienes tendrán voz y voto.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+III. Seis Vocales, que serán el Presidente de la Comisión de Industria y Comercio del Honorable Ayuntamiento, los representantes legales de Pro-México Banco Nacional de Comercio Exterior (Pro-México BANCOMEXT), Consejo Mexicano de Comercio Exterior Sur (COMCE Sur), Centro PYMEXPORTA Puebla, Secretaría de Desarrollo Económico del Gobierno del Estado de Puebla (SEDECO) y Secretaría del Trabajo y Competitividad del Gobierno del Estado de Puebla (STC), quienes tendrán voz y voto.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28363,11 +28371,11 @@ Los integrantes del Consejo de Premiación, designarán por escrito ante el prop
 
 El Consejo de Premiación, sesionará válidamente con la asistencia del cincuenta por ciento más uno de los integrantes, en privado y en el local que para tal efecto designe el propio Consejo, y las decisiones se tomarán por la simple mayoría de votos, y en caso de empate, el Presidente del Consejo de Premiación, tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2360.
 
-El Consejo de Premiación, sesionará en forma permanente, en los primeros días del mes de agosto, días en que se tendrá que elaborar, para su publicación, la respectiva convocatoria y será hasta el mes de octubre, cuando tengan que tomar la decisión de la empresa ganadora.
+El Consejo de Premiación sesionará en forma permanente en los primeros días del mes de agosto, días en que se tendrá que elaborar para su publicación, la respectiva convocatoria. Será en la última semana del mes de octubre, cuando dicho Consejo tenga que tomar la decisión de las empresas ganadoras.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28375,17 +28383,15 @@ El Consejo de Premiación, sesionará en forma permanente, en los primeros días
 
 La cita para las sesiones, estará a cargo del Secretario del Consejo, quien lo hará por lo menos con veinticuatro horas de anticipación, debiendo anexar el orden del día y todos los documentos necesarios para el desahogo de la sesión.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 2362.
 
-El cargo de integrante del Consejo de Premiación, será honorífico, por lo que no recibirán emolumento alguno como contraprestación por el desempeño de sus funciones, quedando obligados a guardar reserva sobre los asuntos de que conozcan con motivo de su empleo, cargo o comisión.
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+El cargo de integrante del Consejo de Premiación, será honorífico, por lo que los miembros del mismo, no recibirán emolumento alguno como contraprestación por el desempeño de sus funciones, quedando obligados a guardar reserva sobre los asuntos de que conozcan con motivo de su empleo, cargo o comisión.
 
 ###### Artículo 2363.
 
-El Consejo de Premiación, determinará la forma y término de las convocatorias que deban expedirse para el otorgamiento del Reconocimiento al "Mérito Empresarial", las cuales deberán ser debidamente publicadas en dos de los diarios de mayor circulación en el Estado de Puebla.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2007)
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
@@ -28846,3 +28852,9 @@ P.O. 22 DE JUNIO DE 2007.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las tarifas que se relacionan con el servicio público de estacionamiento y que se opongan al presente Dictamen.
+
+P.O. 24 DE OCTUBRE DE 2007.
+
+PRIMERO.- Las presentes reformas, adiciones y derogación del Reconocimiento al "Mérito Empresarial" del Capítulo 36 del Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
