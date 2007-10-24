@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-concesiones-de-servicios-e-infraestructura-publica-56573
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-16"
-last_updated: "2007-05-16"
+last_updated: "2007-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de mayo de 2007.
 
@@ -247,9 +247,13 @@ IV. Aquellas a quienes se les haya revocado una concesión o bien, cuando se enc
 
 V. Las demás que por cualquier causa se encuentren impedidas por disposición de esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 20.
 
-Las concesiones podrán otorgarse a través de licitación pública.
+Las concesiones podrán otorgarse a través de licitación pública o por adjudicación directa.
+
+Los procedimientos para otorgar las concesiones por cualquiera de las formas señaladas en el párrafo que antecede, se ajustarán a los procedimientos establecidos en esta Ley y su Reglamento.
 
 ### Capítulo Cuarto. Procedimiento para otorgar la Concesión
 
@@ -309,9 +313,11 @@ VI. Modelo de la concesión; y
 
 VII. Los demás elementos que a juicio de la Secretaría o de la dependencia municipal, resulten necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 24.
 
-Concluido el periodo de recepción de inscripciones y entrega de las propuestas, la Secretaría o dependencia municipal, según corresponda con la colaboración de la dependencia o entidad de la administración pública estatal o municipal que resulte procedente, atendiendo a la materia de que se trate, se avocará a analizar si las propuestas cumplen con los requisitos técnicos, financieros y legales exigidos, a efecto de elaborar, en su caso, el acuerdo para firma del Ejecutivo o acuerdo del cabildo del Ayuntamiento, en que conste la selección del ganador que será aquella persona física o moral que presente las mejores condiciones para el Estado o Municipio, en base a criterios de economía, eficacia, eficiencia, imparcialidad y honradez.
+Concluido el periodo de recepción de inscripciones y entrega de las propuestas, la Secretaría o dependencia municipal, según corresponda con la colaboración de la dependencia o entidad de la administración pública estatal o municipal que resulte procedente, atendiendo a la materia de que se trate y previo procedimiento que establezca el Reglamento de esta Ley, se avocará a analizar si las propuestas cumplen con los requisitos técnicos, financieros y legales exigidos, a efecto de elaborar, en su caso, el acuerdo para firma del Ejecutivo o acuerdo del cabildo del Ayuntamiento, en que conste la selección del ganador que será aquella persona física o moral que presente las mejores condiciones para el Estado o Municipio, en base a criterios de economía, eficacia, eficiencia, imparcialidad y honradez.
 
 El Ejecutivo o Ayuntamiento, según corresponda, emitirá el acuerdo debidamente fundado y motivado, el cual será notificado tanto a la persona beneficiada con la concesión, como a aquéllas cuya solicitud fue descartada. La proposición ganadora estará a disposición de los participantes durante diez días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga. En tal supuesto el Ejecutivo o Ayuntamiento, según corresponda, resolverá lo que estime pertinente en un plazo que no excederá de quince días naturales.
 
@@ -320,6 +326,36 @@ Otorgado y suscrito el título-concesión en base al acuerdo referido, dentro de
 ###### Artículo 25.
 
 Al resolverse sobre el otorgamiento de la concesión, la caución otorgada para garantizar su participación será devuelta a los participantes, excepto cuando abandonen el trámite sin causa justificada.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 25 Bis
+
+Se otorgarán concesiones mediante adjudicación directa, en los siguientes supuestos:
+
+I. Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o municipio, según se trate;
+
+II. Cuando existan circunstancias que puedan ocasionar pérdidas o costos adicionales importantes para el Estado o municipios, de otorgarse la concesión a través del proceso licitatorio;
+
+III. Cuando para cumplir el objeto de la concesión, se requiera de conocimientos y procedimientos de tecnología avanzada o especialidad determinada, titularidad de derechos, patentes, obras de arte u otros derechos exclusivos;
+
+IV. Cuando de efectuarse el procedimiento de licitación pública; pudiera afectarse la seguridad del Estado o municipio de que se trate, o comprometer información de naturaleza confidencial para cualquiera de los tres órdenes de gobierno;
+
+V. Cuando se realicen dos licitaciones públicas que hayan sido declaradas desiertas; y,
+
+VI. Cuando las condiciones o circunstancias sociales debidamente acreditadas, hagan necesaria la adjudicación de la concesión sin mora alguna.
+
+El Ejecutivo o el Ayuntamiento según se trate, al otorgar la concesión por adjudicación directa, deberá emitir dictamen en donde se acredite que la concesión otorgada se encuentra en cualesquiera de los supuestos previstos en el presente artículo, expresando el o los criterios en los que funda su determinación, pudiendo ser éstos economía, eficiencia, imparcialidad u honradez, que permitirán asegurar las mejores condiciones para el Estado o municipio, según se trate.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 25 Ter.
+
+Para otorgar la concesión según el procedimiento de adjudicación directa, se atenderá lo siguiente:
+
+Se solicitará al interesado en obtener la concesión de que se trate, que presente propuesta técnica para la prestación del servicio u objeto de la concesión, según lo dispuesto por esta Ley, dándole a conocer previamente las necesidades del Estado o Municipio según corresponda, a efecto de que pueda la Secretaría o dependencia municipal estudiar y analizar la conveniencia de otorgarle la concesión.
+
+El o los interesados en obtener la concesión, deberán presentar la propuesta técnica a que se refiere el párrafo anterior, de acuerdo a lo dispuesto en la presente Ley y su Reglamento.
 
 ### Capítulo Quinto. Del título y del plazo de la concesión
 
@@ -540,3 +576,15 @@ Dado en el salón de Sesiones del Honorable del (sic) Congreso del Estado de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la. Ciudad de Tuxtla Gutiérrez, Chiapas, a los diez días del mes de mayo del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Ejecutivo del Estado, dispondrá de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto para la expedición del Reglamento de la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Chiapas y sus Municipios.
+
+Artículo Cuarto.- Será de aplicación supletoria a la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Chiapas y sus Municipios, en lo que no se oponga a sus disposiciones y en tanto se expiden sus normas reglamentarias, la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas.
