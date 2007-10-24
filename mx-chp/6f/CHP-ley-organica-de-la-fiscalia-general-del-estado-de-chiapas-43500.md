@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-fiscalia-general-del-estado-de-chiapas-43500
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-24"
-last_updated: "2007-06-27"
+last_updated: "2007-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA FISCALIA GENERAL DE ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL MINISTERIO DE JUSTICIA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de noviembre de 2004.
 
@@ -1574,3 +1576,57 @@ P.O. 27 DE JUNIO DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE OCTUBRE DE 2007.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, con excepción a lo relacionado con la Fiscalía Electoral, lo cual entrará en vigor a partir del primero de enero del año dos mil ocho.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Fiscalía General del Estado.
+
+A partir del primero de enero del año dos mil ocho, se abroga la Ley Orgánica de la Fiscalía Electoral del Estado de Chiapas.
+
+Artículo Tercero.- Todos los procedimientos instaurados ante los órganos de la Fiscalía General del Estado, además de los de responsabilidad administrativa y de remoción, iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos de conformidad con las normas vigentes hasta antes de la entrada en vigor de la presente Ley.
+
+De conformidad con los Artículos Segundo y Octavo Transitorios, del Decreto de Reformas a la Constitución Política del Estado de Chiapas, publicado el veintiocho de septiembre de dos mil siete, toda vez que la Fiscalía General del Estado, se transformó en el Ministerio de Justicia del Estado, los recursos humanos, materiales y financieros pasarán a formar parte de él. Por lo tanto, no se requerirá ningún procedimiento de liquidación o contable, en virtud de que la reforma correspondiente implica sólo la transformación de la Fiscalía General del Estado en el Ministerio de Justicia del Estado.
+
+Los Fiscales del Ministerio Público, agentes estatales de investigación, peritos y demás personal, que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Fiscalía General del Estado, se someterán a las disposiciones del servicio profesional y de carrera ministerial del Ministerio de Justicia que se expidan para tal efecto.
+
+El personal de las demás unidades administrativas y órganos desconcentrados de la Fiscalía General del Estado, se someterán al procedimiento de ingreso aplicado por el Ministerio de Justicia.
+
+Artículo Cuarto.- Las menciones que otros ordenamientos jurídicos hagan a la Fiscalía General del Estado o al Fiscal General del Estado, se entenderán referidas al Ministerio de Justicia y a los funcionarios de su respectiva competencia de conformidad con el presente ordenamiento, respectivamente.
+
+Las menciones que otros ordenamientos jurídicos hagan a los fiscales auxiliares electorales de la Fiscalía Electoral, se entenderán referidas a los fiscales del ministerio público, de conformidad con las funciones asignadas a ellos en la presente Ley.
+
+Las referencias que se hagan en otras disposiciones jurídicas a los Agentes Estatales de Investigación, se entenderán referidas a la Policía Ministerial de conformidad con las funciones asignas a ellos en la presente Ley.
+
+Las menciones que otros ordenamientos jurídicos hagan a la Coordinación de Servicios Periciales de la Fiscalía General del Estado y a los funcionarios de ésta, se entenderán referidas a la Dirección de Técnica Forense y Criminalística del Ministerio de Justicia.
+
+Las referencias al Servicio Civil de Carrera de la Fiscalía General del Estado, que se realicen en otros ordenamientos jurídicos, se entenderán hechos al servicio de carrera ministerial a que se refiere esta Ley.
+
+Las menciones relativas a la Unidad Especializada Contra la Delincuencia Organizada a que se refiere el Código de Procedimientos Penales, se entenderán hechas a la Fiscalía Especializada Contra la Delincuencia Organizada que se establece en la presente Ley.
+
+Artículo Quinto.- Dentro del plazo de noventa días el Ministro de Justicia procederá a distribuir y reordenar las áreas que correspondan a las Fiscalías de Distrito y Especializadas en los términos de la presente Ley, así como reasignar al personal, conforme a la nueva organización de los órganos del Ministerio de Justicia.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros de la Fiscalía Electoral, pasarán a formar parte del Ministerio de Justicia del Estado, quien los reasignará de acuerdo con la Ley y reglamento respectivos a la Fiscalía Electoral del Ministerio de Justicia del Estado, salvo los de aquellas áreas que hayan dejado de existir, en cuyo caso formarán parte del patrimonio del Ministerio de Justicia del Estado.
+
+Artículo Séptimo: En virtud de que se crea por Decreto Constitucional, publicado el veintiocho de septiembre de dos mil siete, las (sic) Fiscalía Especializada en Protección a los Derechos de las Mujeres, exclusivamente los recursos humanos, materiales y financieros que formen parte de la Procuraduría de la Defensa de la Mujer, pasarán íntegramente a formar parte del Ministerio de Justicia del Estado, quien a través del Ministro de Justicia lo reasignará de acuerdo con la Ley y reglamentos respectivos.
+
+Artículo Octavo.- En tanto se nombren a los Titulares de las Fiscalías de Distrito, Especial y Especializados, los actuales encargados de los órganos ministeriales correspondientes, ejercerán las atribuciones propias del encargo conforme a la presente Ley.
+
+El Ministro de Justicia, Fiscales de Distrito, Fiscales Especializados, Fiscales Especiales y demás funcionarios competentes del Ministerio de Justicia, continuarán dando el trámite a los procedimientos que a la fecha venían desempeñando el personal de la Fiscalía General del Estado en los asuntos de su competencia.
+
+Artículo Noveno.- Los nombramientos o ratificaciones que correspondan a cada Fiscal Especializado, Especial o de Distrito sobre el personal de su adscripción, serán realizados dentro del plazo de sesenta días contados a partir de la publicación de la presente Ley o en su caso a partir de la toma de posesión de los funcionarios señalados.
+
+Artículo Décimo.- En tanto se integra plenamente el Ministerio de Justicia del Estado y se hacen los nombramientos respectivos, los actuales funcionarios tendrán la calidad de encargados del despacho y ejercerán las atribuciones que esta Ley prevé para los respectivos cargos en los asuntos en que éstos intervengan.
+
+Artículo Décimo Primero.- Se faculta al Ministro de Justicia para que, de acuerdo a la disponibilidad presupuestal del Ministerio de Justicia, pueda instalar gradualmente los órganos administrativos que con la entrada en vigor de la presente Ley se crean.
+
+Artículo Décimo Segundo.- Lo no previsto en la presente Ley, con relación a la organización y funcionamiento del Ministerio de Justicia, será resuelto por el Ministro de Justicia.
+
+Artículo Décimo Tercero.- El Ministro de Justicia dentro de un término de noventa días hábiles contados a partir de la entrada en vigencia de la presente Ley, deberá someter a consideración del Gobernador del Estado el proyecto de Reglamento de esta Ley, para su aprobación, expedición, publicación y circulación correspondientes.
+
+Los Fiscales de Distrito, los Fiscales Especializados y Especiales, así como los demás servidores públicos que integran el Ministerio de Justicia, deberán remitir al Ministro de Justicia la información que les sea requerida para la integración del proyecto de Reglamento de esta Ley.
+
+Artículo Décimo Cuarto.- El Ejecutivo del Estado expedirá el Reglamento de esta Ley.
+
+Artículo Décimo Quinto.- Se derogan todas las disposiciones que se opongan a la presente Ley, con las salvedades previstas en la misma.
