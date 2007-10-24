@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidades-de-los-servidores-publicos-del-6699"
 country: "mx"
 rank: "ley"
 publication_date: "1983-09-07"
-last_updated: "2006-01-25"
+last_updated: "2007-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 24 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el miércoles 7 de septiembre de 1983.
 
@@ -570,3 +572,15 @@ P.O. 25 DE ENERO DE 2006.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+P.O. 24 DE OCTUBRE DE 2007.
+
+PRIMERO.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, publicada el siete de septiembre de mil novecientos ochenta y tres, así como aquellas disposiciones que se opongan o sean contrarias al texto de la presente Ley.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad del Estado de Morelos.
+
+TERCERO.- Una vez que la presente Ley entre en vigor, los servidores públicos que no hayan presentado su declaración de situación patrimonial de inicio, deberán realizarla en los plazos y términos previstos en el reglamento de la autoridad receptora.
+
+CUARTO.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que le de origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
+
+QUINTO.- Se establece un plazo de treinta días hábiles para que las autoridades de los poderes estatales y municipales que correspondan, emitan o modifiquen los reglamentos respectivos relacionados con las disposiciones de la presente Ley.
