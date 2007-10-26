@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2007-10-19"
+last_updated: "2007-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2007.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -6705,7 +6705,11 @@ IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
 V.- Contra los ausentes del Estado, que se encuentren en servicio público;
 
-VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado de Baja California.
+VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado de Baja California;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2007)</small>
+
+VII.- Entre coherederos sobre bienes de la masa hereditaria.
 
 ### CAPITULO VI. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION
 
@@ -15319,13 +15323,13 @@ En los casos previstos en las dos Fracciones anteriores, se tomará razón del a
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
-XIII.- El testimonio de las informaciones ad perpétuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
+XIII.- El testimonio de las informaciones ad perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
 
 XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ###### ARTICULO 2870.
 
-Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuánto le fueren favorables.
+Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
 ###### ARTICULO 2871.
 
@@ -15934,3 +15938,9 @@ P.O. 19 DE OCTUBRE DE 2007.
 DECRETO N° 423
 
 ÚNICO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
