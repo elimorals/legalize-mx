@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2007-09-26"
+last_updated: "2007-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -370,9 +370,9 @@ XI BIS. A la Secretaría de Cultura:
 
 1.- Coordinación Interinstitucional;
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-2.- Coordinación de Vinculación Cultural;
+2.- Coordinación de Vinculación Cultural Comunitaria;
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -382,9 +382,21 @@ XI BIS. A la Secretaría de Cultura:
 
 4.- Coordinación de Programación Artística;
 
-5. Dirección de Promoción y Divulgación Cultural; y
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-6. (DEROGADO, G.O. 19 DE ENERO DE 2007)
+5.- Dirección de Divulgación Cultural;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE OCTUBRE DE 2007)</small>
+
+6.- Coordinación del Sistema de Teatros de la Ciudad de México;
+
+> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+7.- Coordinación de Circuito de Festivales; y
+
+> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+8.- Coordinación de Educación Artística.
 
 XII. La Procuraduría General de Justicia del Distrito Federal, se ubica en el ámbito orgánico del Gobierno del Distrito Federal; su estructura y funcionamiento se rige por las disposiciones jurídicas y administrativas correspondientes.
 
@@ -1102,7 +1114,9 @@ Corresponde a la Subsecretaría de Servicios Médicos e Insumos:
 
 I. Organizar y operar los servicios de atención médica de la Administración Pública del Distrito Federal orientados a la población abierta;
 
-II. Contribuir al desempeño del Sistema de Salud del Distrito Federal, organizado y coordinado por la Secretaría de Salud del Distrito Federal, mediante la prestación de los servicios hospitalarios y de urgencias;
+(REFORMADA, G.O. 26 DE OCTUBRE DE 2007) (F. DE E., G.O. 21 DE DICIEMBRE DE 2007)
+
+II. Contribuir al desempeño del Sistema de Salud del Distrito Federal, organizado y coordinado por la Secretaría de Salud del Distrito Federal, mediante la prestación de los servicios de atención médica y de urgencias de las Unidades Hospitalarias y Centros de Atención Toxicológica;
 
 III. Establecer vinculación entre las unidades de la Secretaría de Salud del Distrito Federal y el Organismo Descentralizado Servicios de Salud Pública del Distrito Federal, para la atención integral del paciente;
 
@@ -3280,9 +3294,9 @@ DE LA SECRETARIA DE SALUD.
 
 Corresponde a la Dirección General de Servicios Médicos y Urgencias:
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-I. Organizar, operar y controlar la prestación de los servicios de atención médica permanentes y de urgencias de las Unidades Hospitalarias y Centros de Atención Toxicológica a su cargo;
+I. Organizar, operar y controlar la prestación de los servicios de atención médica permanentes y de urgencias de las Unidades Hospitalarias a su cargo;
 
 II. Coordinarse con otras unidades de la Secretaría de Salud del Distrito Federal, así como con los organismos coordinados sectorialmente por ésta, especialmente con el Organismo Descentralizado Servicios de Salud Pública del Distrito Federal, en lo relativo a la atención integral del paciente;
 
@@ -4802,215 +4816,111 @@ X. Determinar las necesidades de información estadística y de mercado para el 
 
 DE LA SECRETARIA DE CULTURA.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
-
-Artículo 97 A.- Corresponde a la Coordinación Interinstitucional:
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-I. Proponer al Secretario la planeación y evaluación de las actividades culturales y artísticas de la Secretaría;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-II. Definir las acciones a seguir en materia cultural para atender a la población del Distrito Federal, en coordinación con los Órganos Político- Administrativos, sin menoscabo de su autonomía;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-III. Vincular a la Secretaría con distintas instituciones culturales para la realización conjunta o coordinada de programas o actividades culturales;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-IV. Supervisar la formalización y el cumplimiento de los convenios de colaboración que se generen como resultado de las acciones de vinculación cultural;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-V. Procurar y concertar acuerdos con otras instituciones de cultura (públicas y privadas), nacionales y extranjeras, para ampliar la oferta de las acciones culturales, desarrollando sus objetivos en el marco del más abierto reconocimiento de la pluralidad y diversidad cultural de la ciudad y del mundo;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VI. Promover y desarrollar acciones que permitan impulsar la participación de los habitantes de la Ciudad en la elaboración, promoción y divulgación de los proyectos culturales a cargo de la Administración Pública;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VII. Establecer y coordinar el sistema de información y comunicación que promueva de manera oportuna al público en general, la oferta y demanda cultural en la Ciudad de México;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VIII. Con apego a las disposiciones legales y administrativas vigentes, alentar la creación de patronatos que aporten recursos para ampliar la labor de difusión de orquestas, museos, teatros, y programas específicos, de acuerdo con la vocación filantrópica de la ciudad;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-IX. Estudiar y proponer las políticas específicas para el desarrollo de las áreas de la Secretaría, incluyendo las líneas de acción y los marcos de referencia para su ejecución;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-X. Efectuar el seguimiento de las acciones en relación con los objetivos y prioridades de los programas de la Secretaría;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XI. Coordinar el proceso de auto-evaluación que se establezca en las diversas Unidades, para dar a conocer los avances de metas en materia de vinculación y planeación y corregir las desviaciones;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XII. Acordar periódicamente con el Secretario para supervisar los avances de metas en materia de vinculación, planeación y desarrollo de las acciones y programas a cargo de la Secretaría;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XIII. Establecer y mantener un sistema estadístico, que permita determinar los indicadores de gestión de la Secretaría;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XIV. Coordinar las iniciativas de colaboración de la Secretaría, con las organizaciones de la sociedad civil que hacen uso de la infraestructura cultural del Gobierno del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XV. Promover la creación y ampliación de opciones de organización, administración y financiamiento para el impulso y fortalecimiento de las acciones culturales;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XVI. Proponer, coordinar y conducir, las acciones, instrumentos y procedimientos que propicien el apoyo, la realización de acciones, el otorgamiento de reconocimientos y el estímulo al mérito de creaciones artísticas, así como investigadores, interpretes y promotores culturales;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XVII. Administrar el Museo de la Ciudad de México y el Museo de la Revolución y programar sus actividades;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XVIII. Administrar y programar las actividades de la Orquesta Filarmónica de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
-
-XIX. Administrar y programar las actividades de los Centros Culturales Ollín Yoliztli, y José Martí;
-
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
-
-XX. Administrar y programar las actividades de los Teatros de la Ciudad de México, de las Vizcaínas, Benito Juárez y Sergio Magaña; y
-
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
-
-XXI. Administrar y programar las actividades de la Dirección Académica de las Escuelas del Centro Cultural hollín Yoliztli (Escuela de Música, Escuela de Iniciación Artística y Escuela de Danza Contemporánea).
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 97-A.
 
-Corresponde a la Coordinación Interinstitucional de la Secretaría de Cultura:
+Corresponde a la Coordinación Interinstitucional:
 
-I. Proponer al Secretario la planeación y evaluación de las actividades culturales y artísticas de la Secretaría;
+I. Vincular a la Secretaría con las instancias delegacionales, locales, federales, académicas, internacionales, así como asociaciones civiles y empresariales, para promover y ampliar la oferta de las actividades culturales y artísticas en la Ciudad de México;
 
-II. Definir las acciones a seguir en materia cultural para atender a la población del Distrito Federal, en coordinación con los Órganos Político- Administrativos, sin menoscabo de su autonomía;
+II. Aplicar criterios de política transversal en materia de cultura, definidos por la Secretaría de Cultura;
 
-III. Vincular a la Secretaría con distintas instituciones culturales para la realización conjunta o coordinada de programas o actividades culturales;
+III. Establecer una estrecha vinculación con la Coordinación de Asuntos Internacionales de la Jefatura de Gobierno;
 
-IV. Supervisar la formalización y el cumplimiento de los convenios de colaboración que se generen como resultado de las acciones de vinculación cultural;
+IV. Coadyuvar en la valoración y análisis de los informes de las organizaciones culturales que cuentan con un Permiso Administrativo Temporal Revocable;
 
-V. Procurar y concertar acuerdos con otras instituciones de cultura (públicas y privadas), nacionales y extranjeras, para ampliar la oferta de las acciones culturales, desarrollando sus objetivos en el marco del más abierto reconocimiento de la pluralidad y diversidad cultural de la ciudad y del mundo;
+V. Operar programas y proyectos con las delegaciones de la siguiente manera:
 
-VI. Promover y desarrollar acciones que permitan impulsar la participación de los habitantes de la Ciudad en la elaboración, promoción y divulgación de los proyectos culturales a cargo de la Administración Pública;
+a) Institucionalizar la coordinación y la vinculación con las áreas de cultura de las 16 demarcaciones territoriales para ampliar la cobertura de la promoción, el fomento y la difusión de las artes y la cultura para con los habitantes del Distrito Federal, a fin de potenciar los recursos y avanzar en el acceso con equidad al derecho a la cultura, desde la perspectiva de construcción de ciudadanía;
 
-VII. Establecer y coordinar el sistema de información y comunicación que promueva de manera oportuna al público en general, la oferta y demanda cultural en la Ciudad de México;
+b) Establecer una instancia de coordinación permanente con las áreas de cultura de las 16 demarcaciones y ser el vínculo con las áreas de la Secretaría de Cultura para facilitar la operación y difusión de los diversos programas, proyectos y acciones en el plano territorial;
 
-VIII. Con apego a las disposiciones legales y administrativas vigentes, alentar la creación de patronatos que aporten recursos para ampliar la labor de difusión de orquestas, museos, teatros, y programas específicos, de acuerdo con la vocación filantrópica de la ciudad;
+c) Colaborar con sus consejos delegacionales de fomento y desarrollo cultural, así como en la elaboración de sus planes de trabajo;
 
-IX. Estudiar y proponer las políticas específicas para el desarrollo de las áreas de la Secretaría, incluyendo las líneas de acción y los marcos de referencia para su ejecución;
+d) Coadyuvar, en coordinación con las áreas de la Secretaría de Cultura, en la elaboración de los catálogos, registros, diagnóstico e inventarios delegacionales que la Ley de Fomento Cultural marca como prioritarios;
 
-X. Efectuar el seguimiento de las acciones en relación con los objetivos y prioridades de los programas de la Secretaría;
+e) Elaboración de proyectos de trabajo en coordinación con las áreas de la Secretaría, para crear circuitos que respondan a la demanda de servicios culturales;
 
-XI. Coordinar el proceso de auto-evaluación que se establezca en las diversas Unidades, para dar a conocer los avances de metas en materia de vinculación y planeación y corregir las desviaciones;
+VI. Establecer vínculos, concertar apoyos y promover la celebración de convenios con las diversas áreas de la Administración Pública Federal, que tengan competencia en materia cultural y artística;
 
-XII. Acordar periódicamente con el Secretario para supervisar los avances de metas en materia de vinculación, planeación y desarrollo de las acciones y programas a cargo de la Secretaría;
+VII. Establecer vínculos de colaboración con instituciones educativas locales y nacionales que tengan competencia en materia de cultura;
 
-XIII. Establecer y mantener un sistema estadístico, que permita determinar los indicadores de gestión de la Secretaría;
+VIII. Mantener una estrecha relación con los investigadores dedicados al análisis y reflexión de temas culturales, así como recibir sus propuestas en temas relativos a las políticas culturales;
 
-XIV. Coordinar las iniciativas de colaboración de la Secretaría, con las organizaciones de la sociedad civil que hacen uso de la infraestructura cultural del Gobierno del Distrito Federal;
+IX Coadyuvar en su esfera de competencia, en el establecimiento de vínculos de cooperación con embajadas, representaciones diplomáticas bilaterales y multilaterales de carácter internacional;
 
-XV. Promover la creación y ampliación de opciones de organización, administración y financiamiento para el impulso y fortalecimiento de las acciones culturales;
+X. Promover el fortalecimiento de vínculos con ciudades hermanas y promover la celebración de convenios con ciudades afines en materia de cultura;
 
-XVI. Proponer, coordinar y conducir, las acciones, instrumentos y procedimientos que propicien el apoyo, la realización de acciones, el otorgamiento de reconocimientos y el estímulo al mérito de creaciones artísticas, así como investigadores, interpretes y promotores culturales;
+XI. Invitar a las áreas de cultura de las representaciones diplomáticas que deseen hacerlo, para que asistan a reuniones que tengan por objeto el intercambio de información y la concertación de acciones que apoyen la programación cultural y artística del Distrito Federal;
 
-XVII. Administrar el Museo de la Ciudad de México y el Museo de la Revolución y programar sus actividades;
+XII. Aprovechar el alcance de los convenios que en el ámbito cultural se tienen suscritos con gobiernos extranjeros;
 
-XVIII. Administrar y programar las actividades de la Orquesta Filarmónica de la Ciudad de México;
+XIII. Promover el diálogo con ciudades del país y del extranjero, para mejorar la calidad de la oferta cultural y artística, así como de los modelos para su diseño, implementación y evaluación;
 
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
+XIV. Proponer el establecimiento de vínculos de colaboración en materia cultural con las organizaciones internacionales que desarrollan actividades afines;
 
-XIX. Administrar y programar las actividades de los Centros Culturales Ollín Yoliztli, y José Martí;
+XV. Institucionalizar la coordinación y vinculación con las organizaciones civiles para la promoción de la cultura y las artes en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
+XVI. Dar seguimiento al cumplimiento de los convenios de colaboración que se generen como resultado de las gestiones de vinculación cultural;
 
-XX. Administrar y programar las actividades de los Teatros de la Ciudad de México, de las Vizcaínas, Benito Juárez y Sergio Magaña; y
+XVII. Proponer los criterios a partir de los cuales la Secretaría de Cultura asignará recursos a las asociaciones civiles y demás organizaciones de la sociedad civil dedicados al fomento de la cultura y las artes en el Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+XVIII. Coordinar con las áreas de la Secretaría, el apoyo a las organizaciones de la sociedad civil en materia de cultura;
 
-XXI. Administrar y programar las actividades de la Dirección Académica de las Escuelas del Centro Cultural hollín Yoliztli (Escuela de Música, Escuela de Iniciación Artística y Escuela de Danza Contemporánea).
+XIX. Elaborar y mantener actualizado un directorio de organizaciones de la sociedad civil dedicadas al área de cultura;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+XX. Ejecutar los proyectos y programas especiales que requieran de la concurrencia de diferentes niveles o instancias de gobierno, actores privados y sociales, así como de diversas áreas de la Secretaría de Cultura.
 
-###### Artículo 97- B.
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-Corresponde a la Coordinación de Vinculación Cultural:
+###### Artículo 97-B.
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+Corresponde a la Coordinación de Vinculación Cultural Comunitaria:
 
-I. Proponer las políticas relacionadas con la ejecución de los programas artísticos y culturales de la Secretaría, supervisando su cabal cumplimiento;
+I. Establecer estrategias, a partir de la promotoría cultural comunitaria, que extienda servicios culturales y artísticos a la población que vive en condiciones de marginación tales como cine clubs, fomento a la lectura, ferias y otros, así como aquellos que colaboren a la difusión de la cultura y las artes;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+II. Definir criterios para medir el impacto social de los Programas Culturales Comunitarios a su cargo;
 
-II. Fomentar las actividades artísticas y culturales de los Órganos Político-Administrativos del Distrito Federal, en sus pueblos, barrios, unidades habitacionales y comunidades;
+III. Realizar estudios sociodemográficos y socioculturales de la población en condiciones de marginación, con el objeto de orientar de mejor manera los recursos con los que cuenta la Secretaría de Cultura para la difusión de servicios culturales y artísticos;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+IV. Definir y promover la base de la oferta cultural adecuada a las necesidades de las comunidades y apoyar la gestión de recursos;
 
-III. Articular y programar las actividades artísticas y culturales que se realicen en los centros culturales de la Secretaría y en los del Gobierno del Distrito Federal, en coordinación con los Órganos Político-Administrativos, museos, casas de cultura, teatros, foros, salas de exposiciones y galerías donde se promueva y difunda el arte y la cultura en todas sus manifestaciones;
+V. Apoyar a las delegaciones en la definición e implementación de políticas culturales comunitarias;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+VI. Crear redes sociales para impulsar el intercambio cultural y artístico entre las comunidades;
 
-IV. Realizar conjuntamente con otras instituciones culturales, actividades tales como: Festivales, coloquios, mesas redondas, seminarios y encuentros, que permitan una mayor y mejor difusión del arte teatral, dancístico, escénico, literario, musical, plástico y audiovisual;
+VII. Conducir el diseño de las políticas culturales comunitarias a partir de indicadores que establezcan la relación entre desarrollo social, humano y cultura;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+VIII. Desarrollar espacios comunitarios para propiciar la convivencia social a partir de la satisfacción de las necesidades de expresión y manifestación cultural y artística;
 
-V. Organizar con instituciones públicas y privadas la realización de actividades artísticas y culturales que enriquezcan los programas de difusión y promoción de la Secretaría;
+IX. Establecer contacto con promotores sociales y culturales a fin realizar esfuerzos conjuntos para satisfacer necesidades culturales en el mayor número de comunidades;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+X. Asegurar el acceso a bienes y servicios artísticos y culturales de calidad;
 
-VI. Supervisar la planeación, organización e impartición de talleres, seminarios y cursos de formación musical para creadores y ejecutantes;
+XI. Allegar a la población de escasos recursos ofertas culturales locales, nacionales y/o extranjeras;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XII. Desarrollar metodologías e instrumentos de promoción cultural, a partir de las disciplinas de las ciencias sociales, que permitan un trabajo efectivo de promoción cultural;
 
-VII. Supervisar la planeación, programación y difusión de exposiciones de artes plásticas montadas en los centros culturales de la ciudad;
+XIII. Apoyar a la certificación de promotores culturales a fin de elevar su profesionalización;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XIV. Desarrollar métodos de evaluación y retroalimentación sobre la calidad de la prestación de los servicios culturales;
 
-VIII. Estimular la educación artística a través de los talleres de iniciación, escritura, lectura, artes plásticas, música y artes escénicas para niños y adultos;
+XV. Desarrollar metodologías para el uso adecuado de espacios públicos culturales;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XVI. Diseñar un catálogo de talleres orientados a la apreciación de las diferentes disciplinas artísticas y fomentar el gusto por las mismas;
 
-IX. Proponer, coordinar y ejecutar programas de formación cultural informal;
+XVII. Desarrollar y diseñar esquemas de operación de fábricas de artes y oficios (FAROS), que permitan su vinculación a las comunidades, como espacios orientados hacia la promoción, fomento, formación y enseñanza de las disciplinas artísticas y oficios relacionados con éstas;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XVIII. Crear una base de datos para organizar la producción artística individual y colectiva de la ciudad, vinculada con las comunidades y su profesionalización;
 
-X. Coordinar la planeación y organización de exhibiciones cinematográficas en los centros culturales de la ciudad, con el propósito de formar un público y su gusto por el cine nacional e internacional;
+XIX. Gestionar con las distintas instancias de la Administración Pública de la Ciudad, los apoyos necesarios para incrementar y asegurar la capacidad de producción creativa de la industria cultural;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+XX. Definir un plan estratégico que permita el desarrollo de la industria cultural como un sector de la economía generador de empleos;
 
-XI. Fomentar la creación de espacios dedicados a la lectura, venta y distribución de libros para propiciar su préstamo y circulación gratuita;
+XXI. Promover, en conjunto con instancias públicas, privadas y sociales, proyectos culturales y artísticos individuales o colectivos, que les permitan su permanencia; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XII. Supervisar el proyecto editorial de la Secretaría con el previo cumplimiento de las normas vigentes;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XIII. Apoyar y asistir técnicamente a los grupos que realicen actividades artísticas y culturales;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-XIV. Establecer los lineamientos para la contratación de grupos y artistas en artes visuales, música, teatro, literatura, talleres y danza;
-
-> <small>(REFORMADA, G.O. 15 DE JULIO DE 2005)</small>
-
-XV. Administrar y programar las actividades en la Fábrica de Artes y Oficios (FARO).
-
-XVI. (DEROGADA, G.O. 15 DE JULIO DE 2005).
+XXII. Fomentar la creación de espacios, dedicados a la lectura, venta y distribución de libros, para propiciar su préstamo y circulación gratuita.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -5038,13 +4948,9 @@ IV. Concertar y desarrollar, de forma conjunta con otras instituciones del secto
 
 V. Concertar y coordinar los apoyos que sean necesarios para las actividades diplomáticas del Gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+VI. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
-VI. Establecer mecanismos de coordinación con las instancias internas de la Secretaría y otras dependencias del sector público para el mejoramiento de los compromisos y asuntos del área;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-VII. Establecer comunicación con instituciones, tanto públicas como privadas, a fin de coordinar las gestiones y asuntos que tiene encomendados;
+VII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5054,17 +4960,15 @@ VIII. Definir el protocolo a aplicar en cada acto o evento cultural que se reali
 
 IX. Mantener actualizado el protocolo y supervisar su aplicación en las ceremonias cívicas y diplomáticas; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-X. Realizar las acciones necesarias para conservar, administrar y acrecentar los bienes históricos, arqueológicos y artísticos de la Ciudad de México, en los términos de las disposiciones legales y administrativas relativas;
+X. Apoyar las acciones tendientes a conservar, administrar y acrecentar los bienes históricos, arqueológicos y artísticos de la Ciudad de México, en los términos de las disposiciones legales y administrativas aplicables;
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
 
 XI. Proponer políticas y lineamientos para la salvaguarda, preservación, restauración, exhibición, uso y mantenimiento del acervo cultural e histórico de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
-
-XII. Conducir, conservar, administrar, mantener y acrecentar el patrimonio cultural del Distrito Federal, procurando el óptimo aprovechamiento de los bienes que lo integran;
+XII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
 > <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -5078,51 +4982,97 @@ XIV. Proponer las normas administrativas o legales que se requieran para asegura
 
 XV. Conducir y promover investigaciones históricas y bibliográficas;
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-XVI. Administrar y programar las actividades del Archivo Histórico del Distrito Federal;
+XVI. Coordinar, administrar y programar las actividades del Archivo Histórico del Distrito Federal y el Museo Archivo de la Fotografía;
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+XVII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
-XVII. Administrar y programar las actividades del Consejo de la Crónica de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2005)</small>
+XVIII. Coordinar y administrar el Museo de la Ciudad de México, Museo Nacional de la Revolución, Museo Panteón San Fernando, Museo de los Ferrocarrileros y programar sus actividades;
 
-XVIII. Administrar el Museo de la Ciudad de México y el Museo Nacional de la Revolución y programar sus actividades.
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XIX. Promover el rescate de espacios públicos y del Patrimonio Histórico de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XX. Coordinar, administrar y programar las actividades de los paseos culturales en tranvía;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXI. Coordinar, administrar y programar las actividades del Salón de Cabildos del antiguo Palacio del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXII. Coordinar y ejecutar el programa de publicaciones en materia cultural, que permita contribuir mediante colecciones, catálogos, iconografías demás documentos relacionados a acrecentar el acervo patrimonial de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXIII. Valorar y en su caso publicar y difundir las investigaciones sobre sitios patrimoniales de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXIV. Elaborar, actualizar y difundir el catálogo de bienes que tengan la categoría de patrimonio cultural de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXV. Apoyar las actividades del consejo de los Pueblos y Barrios Originarios;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXVI. Apoyar y promover las actividades de los cronistas de la ciudad de México y sus organizaciones;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXVII. Coadyuvar con la Dirección General (sic) la Dirección General de Patrimonio Inmobiliario en la regularización de los bienes inmuebles asignados a la Secretaría de Cultura;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXVIII. Representar a la Secretaría de Cultura ante el Comité de Patrimonio Inmobiliario del Gobierno del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XXIX. Coordinarse con las dependencias de la Administración Pública local, en las acciones de mantenimiento mayor a los inmuebles y espacios culturales de la ciudad, con la finalidad de conservar y mantener en buen estado su patrimonio histórico y cultural.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
 
 Artículo 97 D.- Corresponde a la Coordinación de Programación Artística:
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-I. Presentar oportunamente el programa anual de actividades con relación a eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
+I. Presentar oportunamente al Secretario, el programa anual de actividades con relación a eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
 
-(ADICIONADA, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-II. Coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general, previa aprobación del Secretario;
+II. Previa aprobación del Secretario, coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 III. Definir los criterios para la utilización de los diferentes foros en el Distrito Federal, para la realización de los eventos programados;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-IV. Establecer la debida coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
+IV. Establecer coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-V. Promover la obtención de apoyos externos y donativos encaminados al desarrollo de las actividades artísticas y culturales de la Secretaría;
+V. Establecer, coordinar, operar y supervisar los requerimientos de apoyo logístico a los diversos eventos culturales donde participa la Secretaría de Cultura;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-VI. Establecer el debido contacto con entidades del Gobierno Federal en el ámbito cultural, así como con instituciones y fundaciones culturales de carácter privado que coadyuven al mejor desarrollo de las actividades artísticas y culturales de la Secretaría; y
+VI. Establecer los mecanismos necesarios para proporcionar el debido mantenimiento al equipo de producción e infraestructura para los diversos eventos culturales;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades.
+VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades; y
 
-(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2007)</small>
+
+VIII. Coordinar y programar al personal artístico de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 97-D.
 
@@ -5148,29 +5098,141 @@ VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer d
 
 ###### Artículo 97-E.
 
-Corresponde a la Dirección de Promoción y Divulgación Cultural:
+Corresponde a la Dirección de Divulgación Cultural:
 
-I. Crear y preservar una política de comunicación interna y externa, así como diseñar y difundir la imagen de la Secretaría, de acuerdo a las siguientes atribuciones;
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-II. Hacer extensiva la política de comunicación a las demás instancias de Gobierno, coordinarla y ser congruente con ella;
+I. Aplicar en la Secretaría la política de comunicación social establecida por el Gobierno Central;
 
-III. Crear y preservar una política de comunicación interna y externa de la Secretaría;
+II. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+III. Identificar la información en los medios de mayor circulación con la finalidad de crear y diseñar una política de comunicación al interior de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 IV. Efectuar el seguimiento de prensa para uso interno de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+
 V. Elaborar la síntesis y análisis de prensa que sea fundamental para la política de comunicación que se pretende diseñar y preservar en la Secretaría;
 
-VI. Proponer el diseño de la imagen institucional y preservarla a través de la congruente elaboración de papelería, materiales de publicidad y de promoción;
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
-VII. Coordinar el diseño y elaboración del periódico mural de la Secretaría;
+VI. Proponer el diseño de la imagen institucional y preservarla a través de la elaboración de papelería, material de publicidad y de promoción;
+
+VII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
+
+> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
 VIII. Brindar servicio óptimo a todas las áreas que conforman la Secretaría en lo referente a la promoción, publicidad, imagen y relaciones públicas, cumpliendo la normatividad vigente; y
 
-IX. Diseñar y consolidar una estrategia de vinculación con los medios de comunicación, a través de ruedas de prensa, entrevistas exclusivas, boletines de prensa, inserciones pagadas.
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+IX. Diseñar y consolidar una estrategia de vinculación con los medios de comunicación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2007)</small>
+
+X. Promover y difundir los eventos culturales y artísticos de la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 97-F.
 
-(DEROGADO, G.O. 15 DE JULIO DE 2005)
+Corresponde a la Coordinación del Sistema de Teatros de la Ciudad de México:
+
+I. Asumir la Dirección Artística de los Teatros de la Ciudad, Benito Juárez, Sergio Magaña y Vizcaínas, integrando la programación de espectáculos y eventos que se presenten en estos espacios escénicos;
+
+II. Proponer y en su caso acordar con el Titular de la Secretaría de Cultura las políticas y lineamientos de la programación, operación y funcionamiento de los teatros;
+
+III. Crear, organizar y promover programas específicos de artes escénicas para otorgar a cada uno de los teatros un perfil definido, así como darle continuidad y consistencia a su programación;
+
+IV. Proponer el establecimiento de programas para la creación de nuevos espacios públicos;
+
+V. Promover espectáculos de carácter internacional;
+
+VI. Ofrecer una programación diversa y de calidad a los distintos sectores de la población de la Ciudad de México y a sus visitantes nacionales e internacionales;
+
+VII. Hacer de los espacios escénicos una plataforma idónea para la proyección de los trabajos profesionales de los artistas mexicanos;
+
+VIII. Abrir espacios de programación a la exploración de nuevos lenguajes escénicos y al ingreso de nuevas disciplinas artísticas a los escenarios;
+
+IX. Sugerir a la Secretaría de Cultura el establecimiento de mecanismos financieros que estimulen el trabajo profesional de artistas, promotores, instituciones privadas y públicas en un marco de corresponsabilidad;
+
+X. Crear órganos consultivos para aconsejar, evaluar y/o apoyar las actividades de los teatros;
+
+XI. Administrar los recursos asignados por parte de la Secretaría de Cultura a cada uno de los Teatros;
+
+XII. Garantizar el correcto funcionamiento de los servicios que los teatros ofrecen a promotores, artistas, instituciones públicas y privadas, y en especial al público asistente;
+
+XIII. Cuidar que los teatros cuenten con las condiciones técnicas apropiadas para la presentación de espectáculos profesionales de artes escénicos;
+
+XIV. Establecer programas de mantenimiento del patrimonio, mueble e inmueble de estos espacios escénicos;
+
+XV. Procurar la modernización y la puesta al día de los equipos de iluminación, sonido y tramoya indispensables para el adecuado funcionamiento de los teatros;
+
+XVI. Generar recursos autogenerados, a través de los diversos espacios escénicos, ya sea por uso y aprovechamiento, taquilla, recepción de donativos o patrocinios, para ser reinvertidos en las actividades y/o necesidades de los teatros;
+
+XVII. Recibir y evaluar las solicitudes de uso de los diferentes espacios escénicos y, en su caso, decidir su programación, así como elaborar los contratos o convenios respectivos;
+
+XVIII. Promover los procesos de coproducción artística con promotores, grupos artísticos y/o instituciones públicas y/o privadas;
+
+XIX. Previa autorización del Titular de la Secretaría proponer, y en su caso, llevar a cabo producciones propias, así como la contratación de artistas, promotores, instituciones públicas y privadas que se consideren adecuados, de acuerdo al perfil artístico de los teatros y a la disposición presupuestal;
+
+XX. Establecer la debida coordinación con artistas, promotores, instituciones públicas y privadas para la presentación de espectáculos, la celebración de eventos culturales y el desarrollo de programas específicos;
+
+XXI. Coordinar y evaluar el trabajo del personal adscrito a los teatros;
+
+XXII. Implementar un sistema de información que permita evaluar el funcionamiento de los teatros y sus programas; y
+
+XXIII. Desarrollar las actividades que por necesidades institucionales se requieran, así como aquellas que encomiende el Titular de la Secretaría de Cultura.
+
+> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 97-G.
+
+Corresponde a la Coordinación de Circuito de Festivales:
+
+I. Proponer el calendario de festivales, proyectos, exhibiciones y eventos que puedan formar parte de los Círculos de Festivales;
+
+II. Desarrollar cada uno de los proyectos desde su planeación, desarrollo, gestión, ejecución y evaluación;
+
+III. Llevar la oferta cultural de los festivales de primer nivel al público que no tiene acceso a ellos por carecer de los recursos necesarios para ello;
+
+IV. Recuperar espacios públicos a través de la programación de actividades artístico-culturales;
+
+V. Promover el circuito metropolitano de artes visuales y artes plásticas;
+
+VI. Promover el arte público;
+
+VII. Programar, gestionar y ejecutar las exposiciones en el circuito de galerías abiertas de la Secretaría de Cultura;
+
+VIII. Diseñar los lineamientos para la operación de los circuitos de las galerías abiertas de la Secretaría de Cultura; y
+
+IX. Promover la creación de nuevas galerías abiertas en la ciudad.
+
+> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 97-H.
+
+Corresponde a la Coordinación de Educación Artística:
+
+I. Diseñar y operar estrategias de intervención para el fortalecimiento de la vida académica y artística de la (sic) escuelas, programas, agrupaciones artísticas y grupos residentes del Centro Cultural Ollin Yoliztli;
+
+II. Proponer estrategias de participación para fortalecer la educación artística en los niveles de educación básica y media superior;
+
+III. Diseñar y operar modelos de educación artística no formal;
+
+IV. Proponer los programas de educación artística y sus mecanismos de evaluación, para las fábricas de artes y oficios (FAROS);
+
+V. Establecer las directrices de administración y de programación de actividades de los centros culturales Ollin Yoliztli, José Martí y Xavier Villaurrutia;
+
+VI. Proponer los contenidos de los programas de capacitación dirigidos a promotores y gestores culturales de la Secretaría de Cultura;
+
+VII. Gestionar ante las autoridades correspondientes la validación de los planes y programas de estudio de la Secretaría de Cultura; y
+
+VIII. Establecer convenios de capacitación con las delegaciones para fortalecer la educación artística en las Casas de Cultura.
 
 #### SECCION XII
 
@@ -7656,7 +7718,7 @@ Los titulares de los Órganos Político-Administrativos, tendrán la facultad de
 
 ###### Artículo 122
 
-BIS.- Para el despacho de los asuntos que competen a los órganos políticos-administrativos, se les adscriben las siguientes Unidades Administrativas:
+Bis.- Para el despacho de los asuntos que competen a los órganos políticos-administrativos, se les adscriben las siguientes Unidades Administrativas:
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -7920,11 +7982,15 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social;
 
-F) Dirección General de Ecología y Desarrollo Sustentable; y
+F) Dirección General de Ecología y Desarrollo Sustentable; y (sic)
 
 > <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-G) Dirección General de Cultura.
+G) Dirección General de Cultura;
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+H) Dirección General de Enlace Ciudadano.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -9286,9 +9352,7 @@ XX. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
 
 XXI. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-XXII. Vigilar el cumplimiento de las disposiciones en materia ambiental, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XXII. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
 XXIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
 
@@ -9296,13 +9360,19 @@ XXIII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
 
 XXIV. Las demás que le atribuyan los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa les asigne el titular del órgano Político Administrativo y las que se establezcan en los manuales administrativos.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 144.
 
-La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, la siguiente atribución:
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
 
 I. Prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos.
+
+> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+II. Coordinar las bibliotecas de la Delegación y fortalecer sus actividades y el servicio a la comunidad.
 
 ###### Artículo 144
 
@@ -9468,13 +9538,17 @@ III. Proponer al titular del Órgano Político–Administrativo modificaciones a
 
 IV. Promover y difundir la cultura y las artes;
 
-V. Organizar la educación artística, así como promover actividades en bibliotecas públicas y museos, y apoyar exposiciones artísticas y otros eventos de interés cultural;
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+V. Organizar la educación artística, así como promover actividades en museos y apoyar exposiciones artísticas y otros eventos de interés cultural;
 
 VI. Fomentar las relaciones de orden cultural y artístico, para realizar investigaciones o estudios en estas materias;
 
 VII. Planear, dirigir y coordinar las tareas relacionadas con las lenguas indígenas en la demarcación territorial de Coyoacán, y promover las tradiciones y el arte popular de la misma;
 
-VIII. Diseñar y promover la política editorial en materia de cultura y las artes, y proponer directrices de conformidad con los programas educativos y culturales de la demarcación territorial de Coyoacán;
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+VIII. Diseñar y promover la política editorial en materia de cultura y las artes, y proponer directrices de conformidad con los programas culturales de la demarcación territorial de Coyoacán;
 
 IX. Proponer la apertura al público y en particular a las asociaciones artísticas y culturales, de espacios para el cultivo de esas actividades;
 
@@ -9482,11 +9556,13 @@ X. Fomentar la asociación de personas dedicadas a las actividades del arte y la
 
 XI. Establecer las políticas culturales y de gestión de la Dirección General considerando las directrices marcadas por el Titular del Órgano Político–Administrativo;
 
-XII. Aprobar los programas de fomento turísticos y fortalecer la promoción del turismo en la Delegación;
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
+XII. Apoyar, desde el punto de vista cultural, la promoción del turismo en la Delegación Coyoacán;
 
 XIII. Proponer la integración a los programas de cultura de los perfiles que caracterizan la identidad cultural de los habitantes de la demarcación;
 
-XIV. Coordinar las bibliotecas de la Delegación y fortalecer sus actividades y el servicio a la comunidad;
+XIV. (DEROGADA, G.O. 26 DE OCTUBRE DE 2007)
 
 XV. Promover, apoyar e impulsar las tareas de preservación del patrimonio artístico e histórico ubicado en la demarcación territorial de Coyoacán, de conformidad con la legislación aplicable, y
 
@@ -9502,11 +9578,11 @@ XVII. Apoyar la educación artística en las escuelas primarias dependientes de 
 
 XVIII. Las demás que le atribuyan los ordenamientos jurídicos y administrativos correspondientes, así como las que de manera directa le asigne el titular del Órgano Político-Administrativo y las que establezcan los manuales administrativos.
 
-> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 145
 
-TER.- La Dirección Ejecutiva de Servicios Urbanos, tendrá además de las señaladas en el artículo 127 las siguientes atribuciones:
+TER.- La Dirección General de Servicios Urbanos, tendrá además de las señaladas en el artículo 127 las siguientes atribuciones:
 
 I. Ejecutar los Programas Delegacionales de obras para el abastecimiento de agua potable y servicio de drenaje, alcantarillado a partir de redes secundarias, así como dar mantenimiento a las mismas, conforme a la autorización y normas que al efecto expida la autoridad competente y tomando en cuenta las recomendaciones que sea factible incorporar, de la comisión que al efecto se integre;
 
@@ -9520,9 +9596,11 @@ V. Ordenar, ejecutar y supervisar las normas técnico administrativas encaminada
 
 VI. Conservar, rehabilitar y construir áreas verdes, parques y camellones, imagen urbana, así como el saneamiento del arbolado urbano, en el ámbito de su competencia;
 
-VII. Proponer e impulsar programas integrales de mejoramiento y ampliación de los servicios urbanos y en coordinación y colaboración con las otras dependencias de la Administración Pública del Distrito Federal impulsar la participación ciudadana en beneficio del interés público; y
+VII. Proponer e impulsar programas integrales de mejoramiento y ampliación de los servicios urbanos y en coordinación y colaboración con las otras dependencias de la Administración Pública del Distrito Federal impulsar la participación ciudadana en beneficio del interés público;
 
-VIII. Formular y difundir acciones de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente.
+VIII. Formular y difundir acciones de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente; y
+
+IX. Vigilar el cumplimiento de las disposiciones en materia ambiental, de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -10668,17 +10746,17 @@ XXXIII. Substanciar el procedimiento administrativo de visitas domiciliarias y a
 
 XXXIV. Intervenir en el ámbito de su competencia, en los procesos de aplicación de modelos de ordenamiento territorial y regularización de la tenencia de la tierra.
 
-> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 186.
 
-La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+Corresponde a la Dirección General de Enlace Ciudadano, las siguientes atribuciones:
 
-I. Coordinar la instrumentación de las políticas de participación ciudadana, individual y colectiva, en el marco de la cultura de la corresponsabilidad entre gobierno y sociedad, y de conformidad con las disposiciones jurídicas y administrativas aplicables;
+I. Coordinar la instrumentación de las políticas de participación ciudadana, individual y colectiva, en el marco de la cultura de la corresponsablidad (sic) entre gobierno y sociedad de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
 II. Promover una política de concertación con las instituciones políticas y organizaciones sociales, para impulsar los programas de gobierno;
 
-III. Coordinarse con los Comités Vecinales de la demarcación territorial, para apoyar la ejecución de los programas delegacionales, así como para atender sus necesidades de capacitación y asesoría;
+III. Coordinarse con los Comités Vecinales de la demarcación territorial, para apoyar la ejecución de los programas delegacionales, así como para atender sus necesidades de capacitación y asesoría; y
 
 IV. Promover la celebración de convenios con instituciones públicas y privadas, y la relación con organismos civiles y sociales que permitan fortalecer los programas y acciones delegacionales.
 
@@ -11355,3 +11433,13 @@ Segundo.- El presente decreto entrará en vigor al día siguiente de su publicac
 G.O. 26 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los recursos, humanos, materiales, técnicos y financieros de la Unidad Administrativa de la Delegación Tlalpan, que por virtud de este Decreto deja de tener algunas atribuciones, se transferirán a la Unidad Administrativa que se crea y adquiere nuevas atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
+
+TERCERO.- Los asuntos, competencia de las Coordinaciones de nueva creación de la Secretaría de Cultura, que antes de la entrada en vigor del presente decreto correspondían a otras distintas, seguirán siendo tramitados y resueltos por estas últimas, hasta en tanto las de nueva creación no inicien formalmente sus actividades.
+
+CUARTO.- A las Coordinaciones de nueva creación se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
