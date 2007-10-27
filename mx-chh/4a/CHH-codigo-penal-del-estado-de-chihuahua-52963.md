@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2006-12-27"
+last_updated: "2007-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2007.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1165,7 +1165,9 @@ Una vez otorgado el perdón, éste no podrá revocarse. El perdón solo benefici
 
 Perdón del ofendido en otros delitos
 
-Tratándose de delitos que se investigan de oficio, también procederá el perdón cuando concurran los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+Tratándose de delitos que se investigan de oficio, excepto el de Violencia Familiar, también procederá el perdón cuando concurran los siguientes requisitos:
 
 I. Que el término medio aritmético de la pena básica privativa de libertad del delito de que se trate, no exceda de cuatro años y, en todo caso, cuando no merezca prisión.
 
@@ -1895,9 +1897,11 @@ Quien por cualquier medio directo, vendiere, difundiere o exhibiere material por
 
 No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 184.
 
-A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrán las mismas penas del artículo anterior, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días de multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 ### CAPÍTULO I. ESTADO CIVIL
 
@@ -3464,3 +3468,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de diciembre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ REYES BAEZA TERRAZAS. EL SECRETARIO GENERAL DE GOBIERNO. LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 27 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
