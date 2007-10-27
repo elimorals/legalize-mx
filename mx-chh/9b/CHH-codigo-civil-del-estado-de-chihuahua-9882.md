@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2006-02-15"
+last_updated: "2007-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2007.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -573,15 +573,23 @@ III.- Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir lo hará otra persona conocida mayor de edad y vecina del lugar.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2007)</small>
 
-94.- Al escrito al que se refiere el artículo anterior, se acompañará:
+94.- Al escrito que se refiere el artículo anterior, se acompañará:
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 I.- La copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de 16 años y la mujer mayor de 14;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los Artículos 137, 138 y 139 de este Código;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 IV.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. Cuando por cualquier motivo no se acompañare el convenio y el matrimonio se celebrare bajo el régimen de sociedad conyugal, regirán dicha sociedad las reglas que establece este Código.
 
@@ -591,13 +599,21 @@ Si de acuerdo con lo dispuesto en el Artículo 173 fuere necesario que las capit
 
 V.- Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 VI.- Copia certificada de la dispensa de impedimento si lo hubo; y
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 VII.- Constancia expedida por institución médica oficial o privada en que se acredite haber recibido orientación sobre planificación familiar;
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1993)</small>
 
 VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como las sanciones a que se hacen acreedores los cónyuges en los casos de la Comisión de Delitos contra la Familia.
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+IX.- Exámenes médicos en los cuales se certifique si existe algún padecimiento o no de los futuros cónyuges, a efecto de que éstos tengan pleno conocimiento de la posible enfermedad.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -879,7 +895,7 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, la sífilis, la locura y las enfermedades crónicas e incurables, que sean además contagiosas o hereditarias;
+VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
 
 IX.- El idiotismo y la imbecilidad;
 
@@ -12348,3 +12364,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE FEBRERO DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
