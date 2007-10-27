@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2007-10-13"
+last_updated: "2007-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2007.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -453,13 +453,19 @@ Estos plazos empezarán a contar desde la fecha en que la resolución que impong
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 46.
 
 Requisitos especiales para la procedencia.
 
-Para la procedencia de las formas alternativas de justicia, además de la solicitud del adolescente, es indispensable el consentimiento expreso de su padre, madre, o ambos, o de su representante.
+Con excepción de los delitos previstos en los incisos a), b), c), d) cuando se realice por medio de la violencia física o moral, f), g), h), y en el i), todos del artículo 101 de esta ley, procederán las formas alternativas de justicia previstas en este capítulo, hasta antes de dictarse el auto de apertura a juicio.
 
-Durante la audiencia en la que se resuelva sobre la procedencia de las formas alternativas de justicia, deberán estar presentes el Ministerio Público, la víctima u ofendido, el adolescente, su defensor, su padre, su madre o ambos, o su representante.
+Para la procedencia de las formas alternativas de justicia, además de la solicitud del adolescente, es indispensable el consentimiento expreso de su padre, madre, de ambos, o del representante de aquél. Si no existe quien ejerza la patria potestad o la tutela en el adolescente; se desconoce quienes son dichas personas o su paradero, o cuando su localización sea difícil, el juez de garantía, analizando las circunstancias del caso y los términos del acuerdo reparatorio, convalidará el consentimiento otorgado por el adolescente.
+
+Durante la audiencia en la que se resuelva sobre la procedencia de las formas alternativas de justicia, deberán estar presentes el Ministerio Público, la víctima y ofendido, el adolescente, su defensor, su padre, su madre o ambos, o su representante, en su caso.
+
+Las autoridades aplicarán de forma prioritaria las formas alternativas al juicio y los modos simplificados de terminación previstos en esta ley, de conformidad con las Constituciones Federal y Local, así como en los tratados internacionales.
 
 #### Sección II
 
@@ -471,11 +477,17 @@ Principios.
 
 Los acuerdos reparatorios se regirán por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad, así como por el interés superior del adolescente.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 48.
 
 Requisito de validez.
 
-Para la validez del acuerdo reparatorio, se requerirá, además de la voluntad del adolescente infractor, el consentimiento expreso de su padre, de su madre o representante. Esta exigencia también será aplicable cuando la víctima u ofendido sea menor de edad.
+Para la validez del acuerdo reparatorio, se requerirá, además de la voluntad del adolescente infractor, el consentimiento expreso de su padre, de su madre, de ambos, o de su representante.
+
+Se exceptúan del párrafo anterior aquellos casos en los que el juez de garantía haya convalidado dicho acuerdo en los términos del artículo 46.
+
+La exigencia a que se refiere el primer párrafo del presente artículo también será aplicable cuando la víctima u ofendido sea menor de edad.
 
 ###### Artículo 49.
 
@@ -487,9 +499,15 @@ La finalidad de la restauración a la víctima u ofendido es infundir en el adol
 
 #### Sección III. Suspensión del Proceso a Prueba
 
+> <small>(REFORMADO EN SU RUBRO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 50.
 
-Condiciones por cumplir durante el período de suspensión del proceso a prueba.
+Solicitud de suspensión del proceso a prueba y condiciones por cumplir durante el período.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2007)</small>
+
+A solicitud del adolescente, de sus representantes legales o del Ministerio Público, procederá la suspensión del proceso a prueba en los casos en que el hecho típico no se sancione necesariamente con privación de libertad y con la condición de que el adolescente no esté gozando, en proceso diverso, de tal beneficio.
 
 El Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al adolescente una o varias de las condiciones que deberá cumplir, entre ellas las siguientes:
 
@@ -607,9 +625,7 @@ Serán de aplicación los criterios de oportunidad previstos por el Código de P
 
 ###### Artículo 61.
 
-Suspensión del proceso a prueba.
-
-A solicitud del adolescente, de sus representantes legales o del Ministerio Público, procederá la suspensión del proceso a prueba en los casos en que el hecho típico no se sancione necesariamente con privación de libertad y con la condición de que el adolescente no esté gozando, en proceso diverso, de tal beneficio.
+(DEROGADO, P.O. 27 DE OCTUBRE DE 2007)
 
 #### Sección II. Medidas cautelares
 
@@ -1015,39 +1031,35 @@ En los centros especializados no se podrá admitir a adolescentes sin orden prev
 
 Cuando los adolescentes cumplan la mayoría de edad durante la ejecución de la medida sancionadora, serán separados de los adolescentes y no se podrá ubicarlos conjuntamente con adultos. El organismo competente proveerá los medios necesarios para asegurar un área especial para quienes se encuentren en esta situación.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
 ###### Artículo 101.
 
 Catálogo de delitos.
 
-La medida sancionadora de privación de libertad en centro especializado para adolescentes, se aplicara solamente en los siguientes hechos típicos graves:
+La privación de libertad en centro especializado para adolescentes podrá ser aplicada únicamente en los casos de hechos típicos graves, que son los siguientes:
 
-I. Lenocinio;
+a) Homicidio doloso;
 
-II. Homicidio Doloso;
+b) Lesiones dolosas, cuando produzcan la pérdida de cualquier función orgánica de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad incorregible; o cuando pongan en peligro la vida;
 
-III. Lesiones dolosas:
+c) Secuestro;
 
-a) Que pongan en peligro la vida; o
+d) Violación;
 
-b) Que dejen una alteración de las funciones de los miembros, órganos o sistemas del cuerpo de la víctima; o
+e) Robo cometido en términos de las fracciones II y IX del artículo 211 y en todos los supuestos del artículo 212 del Código Penal;
 
-c) Que produzcan: Pérdida orgánica de una función, miembro u órgano, aun cuando éste sea doble; inutilización total o definitiva de un miembro o de un órgano, aún cuando éste sea doble; alteración mental permanente; enfermedad segura o probablemente incurable; e incapacidad permanente para el trabajo.
+f) Trata de personas;
 
-IV. Parricidio;
+g) Tortura;
 
-V. Secuestro;
+h) Desaparición forzada de personas; y
 
-VI. Tráfico de menores e incapacitados
+i) Tráfico de menores, salvo lo previsto en el artículo 167 del Código Penal.
 
-VII. Violación;
+La tentativa de estos hechos típicos, también será calificada como grave para los efectos de este artículo.
 
-VIII. Robo:
-
-d) En casa-habitación cuando el monto sea igual o mayor a 500 salarios mínimos; o
-
-e) Cuando el monto de lo sustraído sea igual o mayor a 500 salarios mínimos; o
-
-f) Con violencia en las personas, utilizándose arma de fuego u otro objeto de apariencia similar que produzca en la víctima coacción en su ánimo o bien, empleándose arma blanca u otro instrumento punzo cortante o punzo penetrante.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 102.
 
@@ -1055,9 +1067,9 @@ Medida privativa de libertad.
 
 La medida privativa de libertad en centro especializado, aplicable a los adolescentes infractores será:
 
-I. De seis meses a tres años, cuando tengan entre catorce años cumplidos y menos de dieciséis años.
+I. Hasta de tres años, cuando tengan entre catorce años cumplidos y menos de dieciocho años.
 
-II. De un año a cinco años, cuando tengan entre dieciséis años cumplidos y menos de dieciocho años.
+II. Hasta de cinco años, cuando tengan entre dieciséis años cumplidos y menos de dieciocho años.
 
 Al aplicar una medida sancionadora de privación de libertad en centro especializado, el Juez debe considerar el período de detención cautelar al que fue sometido el adolescente.
 
@@ -1295,7 +1307,9 @@ En lo no previsto en este ordenamiento, si no se opone a sus principios, derecho
 
 Artículo Primero. Inicio de Vigencia.- La presente Ley iniciará su vigencia el primero de julio del año dos mil siete, previa publicación en el Periódico Oficial del Estado, con las modalidades que en seguida se precisan.
 
-Artículo Segundo. Aplicación.- Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; en el Distrito Bravos, a partir de las cero horas del día primero de enero del año dos mil ocho; y, respecto a los hechos que se produzcan en el resto del territorio del Estado, a partir de las cero horas del primero de julio del año dos mil ocho.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+Artículo Segundo. Aplicación.- Sus disposiciones se aplicarán a hechos que ocurran en el Distrito Morelos, a partir de las cero horas del día mencionado; y, respecto a los hechos que se produzcan en el resto del territorio del Estado, a partir de las cero horas del primero de julio del año dos mil ocho.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -1360,6 +1374,12 @@ LIC. FERNANDO RODRIGUEZ MORENO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
