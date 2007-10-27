@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-creacion-del-organismo-publico-15861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-03"
-last_updated: "2000-12-02"
+last_updated: "2007-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE CREACION DEL ORGANISMO PUBLICO DESCENTRALIZADO SERVICIOS DE SALUD JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2007.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 3 de agosto de 1999.
 
@@ -143,6 +143,10 @@ Servicios de Salud Jalisco, a través de sus unidades administrativas, conducir�
 
 La integración y funcionamiento del la Junta de Gobierno, será la definida en la Ley que crea al organismo.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+La Junta de Gobierno tendrá además de las atribuciones señaladas en el artículo 8 de la Ley, expedir las Políticas, Bases y Lineamientos para la contratación de Obra Pública que ejecute el Organismo".
+
 ###### Artículo 6.
 
 El Director General del Organismo ejercerá las funciones que le señalan la Ley y el presente Reglamento.
@@ -233,9 +237,15 @@ XI. Establecer y operar el Sistema de Evaluación de los programas y servicios d
 
 XII. Coordinar, supervisar y evaluar el proceso de planeación y ejecución del desarrollo informático del Organismo, conforme a las políticas, normas y lineamientos aplicables;
 
-XIII. Participar en el subcomité sectorial de salud y seguridad social del COPLADE, y
+XIII. Participar en el subcomité sectorial de salud y seguridad social del COPLADE, y (sic)
 
-XIV. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le delegue el Director General del Organismo.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+XIV. Desarrollar un Programa para prever la planeación, programación, presupuestación y evaluación de las obras a ejecutar sobre la base del Presupuesto de Egresos aprobado por el H. Congreso del Estado de Jalisco, considerando para tal caso la posible ejecución de obras con carácter multianual, conforme lo prevé la Ley de Obra Pública del Estado de Jalisco, el cual deberá ser aprobado por la Junta de Gobierno; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+XV. las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le delegue el Director General del Organismo.
 
 ###### Artículo 10.
 
@@ -347,23 +357,37 @@ V. Proponer al Director General del Organismo la designación o remoción en su 
 
 VI. Dirigir los procesos para la adquisición, abastecimiento, obras, conservación, mantenimiento y servicios generales del Organismo, de conformidad con las disposiciones legales aplicables y las prioridades establecidas;
 
-VII. Dirigir los procesos para la regularización jurídica de los bienes inmuebles en coordinación con la Dirección de Asuntos Jurídicos;
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
 
-VIII. Fomentar y aplicar criterios y medidas que conlleven a la racionalización, austeridad, disciplina, aprovechamiento y transparencia del gasto;
+VII. Ejecutar las obras que requiera el organismo, de conformidad con la Ley de Obra Pública del Estado de Jalisco, su reglamento respectivo y en las demás disposiciones administrativas, que expidan sobre la materia;
 
-IX. Coordinar la asesoría y apoyo técnico que se otorgue a las Regiones Sanitarias y Hospitales y demás unidades administrativas del Organismo, en el ejercicio de las atribuciones que tiene conferidas;
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
 
-X. Establecer y coordinar el sistema de administración de documentos y archivo del Organismo, así como proporcionar la información institucional derivada de éste a las unidades administrativas que lo requieran;
+VIII. Proponer a la Junta de Gobierno a través del Director General del Organismo, la integración de una Comisión para la Adjudicación de Obra Pública y la emisión de las Políticas, Bases y Lineamientos para la contratación de Obra Pública;
 
-XI. Suscribir los contratos y convenios necesarios para la administración del Organismo, de conformidad con las disposiciones jurídicas aplicables, y previo dictamen solicitado a la Dirección de Asuntos Jurídicos;
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
 
-XII. Expedir y certificar las copias de documentos o constancias que existan en los archivos del Organismo;
+IX. Informar a la Contraloría del Estado del inicio de las obras, así como del avance, reportando periódicamente a dicha dependencia el proceso de las obras en ejecución para efectos de inspección y verificación, así como de la aplicación del gasto público asignado a la obra pública;
 
-XIII. Establecer y coordinar el programa de seguridad y vigilancia que requieran las unidades administrativas del Organismo;
+X. Dirigir los procesos para la regularización jurídica de los bienes inmuebles en coordinación con la Dirección de Asuntos Jurídicos;
 
-XIV. Participar en la estructuración del servicio público de carrera, que garantice la continuidad del funcionamiento administrativo, y
+XI. Fomentar y aplicar criterios y medidas que conlleven a la racionalización, austeridad, disciplina, aprovechamiento y transparencia del gasto;
 
-XV. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le delegue el Director General del Organismo.
+XII. Coordinar la asesoría y apoyo técnico que se otorgue a las Regiones Sanitarias y Hospitales y demás unidades administrativas del Organismo, en el ejercicio de las atribuciones que tiene conferidas;
+
+XIII. Establecer y coordinar el sistema de administración de documentos y archivo del Organismo, así como proporcionar la información institucional derivada de éste a las unidades administrativas que lo requieran;
+
+XIV. Suscribir los contratos y convenios necesarios para la administración del organismo, de conformidad con las disposiciones jurídicas aplicables, y previo dictamen solicitado a la Dirección de Asuntos Jurídicos;
+
+XV. Expedir y certificar las copias de documentos o constancias que existan en los archivos del Organismo;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2007)</small>
+
+XVI. Establecer y coordinar el programa de seguridad y vigilancia que requieran las unidades administrativa (sic) del Organismo;
+
+XVII. Participar en la estructuración del servicio público de carrera, que garantice la continuidad del funcionamiento administrativo; y
+
+XVIII. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios o le delegue el Director General del Organismo.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES DE ÁREA
 
@@ -973,11 +997,9 @@ XIII. Las demás que se deriven de las leyes, reglamentos, acuerdos y convenios 
 
 Se consideran como Institutos: el Instituto Jalisciense de Cirugía Reconstructiva "Dr. José Guerrero Santos", el Instituto Dermatológico de Jalisco "Dr. José Barba Rubio", el Instituto Jalisciense de Salud Mental, el Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos y los demás que con tal carácter sean creados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 41.
 
-En general, los Institutos tendrán competencia para:
+Los Institutos tienen competencia para:
 
 I. Coadyuvar al funcionamiento y consolidación del Sistema Estatal de Salud y contribuir al cumplimiento del derecho a la protección de la Salud en el ámbito de su competencia;
 
@@ -1187,8 +1209,14 @@ Se abroga el Acuerdo que crea el Instituto Jalisciense de Salud Mental, publicad
 
 ###### ARTÍCULO TERCERO.
 
-Se abroga el Acuerdo que crea el Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos publicado en el Periódico Oficial "El Estado de Jalisco" con fecha 29 de enero del año 2000.
+Se abroga el Acuerdo que crea el Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos, publicado en el Periódico Oficial "El Estado de Jalisco" con fecha 29 de enero del año 2000.
 
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 27 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su, publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Organismo Público Descentralizado Servicios de Salud Jalisco deberá integrar la Comisión para la Adjudicación de Obra Pública y emitir sus Políticas, Bases y Lineamientos para la contratación de Obra Pública, dentro de los sesenta días siguientes a la publicación del presente Acuerdo.
