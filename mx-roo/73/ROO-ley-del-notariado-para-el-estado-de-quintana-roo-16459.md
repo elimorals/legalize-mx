@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-16459"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-01"
-last_updated: "1997-10-01"
+last_updated: "2007-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 29 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 1 de octubre de 1997
 
@@ -1116,3 +1118,23 @@ EN CUMPLIMIENTO DEL O DISPUESTO EN EL ARTICULO 91 FRACCION II, DE LA CONSTITUCIO
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
 ING. MARIO E. VILLANUEVA MADRID.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2007.
+
+PRIMERO.- La presente Ley entrará en vigencia a los treinta días naturales siguientes a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley del Notariado para et Estado de Quintana Roo, contenida en el Decreto Número 78, emitido por la Octava Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial de fecha 1° de octubre de 1997, así como todas sus reformas legales.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Las Notarías Públicas creadas con anterioridad a la entrada en vigencia de la presente Ley subsistirán con las adscripciones territoriales correspondientes en los diferentes Municipios del Estado.
+
+QUINTO.- Los Notarios Públicos Titulares que actualmente se encuentren con Licencia autorizada para el desempeño de algún cargo público continuarán con la misma hasta entonces dejen de ocupa este último, debiendo reincorporarse a la Notaría Pública de la que sean titulares dentro de los treinta días naturales contados a partir de la fecha de terminación del cargo.
+
+SEXTO.- Los Notarios Suplentes que actualmente se encuentren encargados del despacho de alguna Notaría en el Estado, continuarán en el desempeño de la misma.
+
+SÉPTIMO.- Los procedimientos administrativos iniciados antes de la entrada en vigor de esta Ley, se tramitarán y resolverán de conformidad ceo la Ley que se abroga,
+
+OCTAVO.- El Consejo Directivo del Consejo de Notarios del Estado estará integrado por los mismos miembros elegidos por el Consejo de Notarios y en funciones a la fecha y deberé reintegrarse totalmente conforme al Acuerdo de la Asamblea General Extraordinaria que para tal efecto convoque el actual Presidente del Consejo Directivo, o en su caso, la Secretaría de Gobierno dentro del término de sesenta días naturales posteriores a la vigencia de la presente Ley, debiendo dar aviso de ello, al Titular del Poder Ejecutivo del Estado.
