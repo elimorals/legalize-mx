@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2007-09-26"
+last_updated: "2007-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1226,6 +1226,10 @@ Incurren en igual delito las partes en un juicio civil, cuando de común acuerdo
 ###### Artículo 126.
 
 Se entiende por ultraje toda expresión directa o indirecta o toda acción ejecutada contra algún servidor público, estatal o municipal, o contra instituciones públicas, que pueda implicar ofensa o desprecio.
+
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2007)</small>
+
+Tratándose de elementos de cualquier corporación policíaca, se requerirá además para la integración del delito, que el ultraje sea en presencia de personas ajenas a las corporaciones.
 
 ###### Artículo 127.
 
@@ -3716,3 +3720,9 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 29 DE OCTUBRE DE 2007.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
