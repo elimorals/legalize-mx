@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2007-07-03"
+last_updated: "2007-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE OCTUBRE DE 2007.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -10055,6 +10055,10 @@ I. Endeudamiento: Conjunto de créditos contratados con instituciones financiera
 
 II. Endeudamiento neto: Es el resultado de restar a las contrataciones las amortizaciones pagadas en un ejercicio fiscal. Hay endeudamiento neto cuando en un ejercicio fiscal la contratación es superior a la amortización, en caso contrario habrá desendeudamiento neto.
 
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2007)</small>
+
+La contratación de instrumentos por el Estado para garantizar pasivos a su cargo, no se considerará para efectos del cálculo a que se refiere el párrafo anterior.
+
 > <small>(REFORMADA, G.G. 4 DE JUNIO DE 2004)</small>
 
 III. Endeudamiento autorizado: Es el monto de Endeudamiento autorizado en la Ley de Ingresos o en sus modificaciones para el ejercicio fiscal correspondiente.
@@ -12692,3 +12696,13 @@ G.G. 3 DE JULIO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE OCTUBRE DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+·Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTICULO SEGUNDO.
+
+·El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
