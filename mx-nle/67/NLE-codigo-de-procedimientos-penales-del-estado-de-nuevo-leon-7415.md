@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2007-07-25"
+last_updated: "2007-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2007.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -175,11 +175,13 @@ En aquellos delitos no graves en los cuales se requiera cumplir con algún requi
 
 Dichas actas circunstanciadas se registrarán en un libro denominado de Actas Circunstanciadas y cuando aparecieren los datos que permitieran el esclarecimiento de los hechos o la individualización de los responsables, el Ministerio Público procederá a anotar esa circunstancia en el libro e iniciará la averiguación previa correspondiente;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2007)</small>
 
-XII.- Dictar acuerdos de no inicio de la preparación de la acción penal cuando de los hechos denunciados o materia de la querella se advierta que las conductas no constituyen hechos delictuosos debidamente señalados en el Código Penal vigente en el Estado, o que existe extemporaneidad o prescripción.
+XII.- Dictar acuerdos de no inicio de la preparación de la acción penal cuando de los hechos denunciados o materia de la querella se advierta que las conductas no constituyen hechos delictuosos debidamente señalados en el Código Penal vigente en el Estado, o que existe extemporaneidad o prescripción, o bien en los delitos patrimoniales de querella necesaria, cuando exista falta de personalidad o de legitimación.
 
-En estos casos el Agente del Ministerio Público dictará acuerdo fundado y motivado de No Inicio de la preparación de la acción penal, con la finalidad de cumplir con lo dispuesto en el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos referente al derecho de petición. Dicho acuerdo se deberá notificar a las partes;
+En estos casos el Agente del Ministerio Público dictará acuerdo fundado y motivado de no Inicio de la preparación de la acción penal, con la finalidad de cumplir con lo dispuesto en el Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos, referente al derecho de petición. Dicho acuerdo se deberá notificar a las partes.
+
+No podrá dictarse acuerdo de no inicio en aquellos casos en que de los hechos denunciados o materia de la querella se advierta que pudiera tratarse de delitos considerados como graves por el Código Penal;
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -5540,3 +5542,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 25 DE JULIO DE 2007.
 
 Artículo Único.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
