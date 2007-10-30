@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-64-2006-del-pleno-del-consejo-de-la-51876"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-10"
-last_updated: "2007-02-16"
+last_updated: "2007-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51876&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-09-27"
 
 ACUERDO GENERAL 64/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS LIBRES DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO Y MAGISTRADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCER TRANSITORIO DEL ACUERDO GENERAL 45/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO SE ABROGA EN LO CONDUCENTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de octubre de 2006.
 
@@ -606,3 +608,31 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación y ser�
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo General 64/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Libres de Oposición para la Designación de Jueces de Distrito y Magistrados de Circuito.
+
+D.O.F. 30 DE OCTUBRE DE 2007.
+
+ACUERDO GENERAL 44/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable para concursos que en el futuro se convoquen.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo.
+
+TERCERO. Se abrogan los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 64/2006 y 4/2007, en lo conducente.
+
+CUARTO. Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación, el texto íntegro de este Acuerdo General para los efectos a que haya lugar.
+
+QUINTO. En virtud de que el Pleno del Consejo en sesión ordinaria celebrada el 28 de febrero de dos mil siete, suspendió el Tercer Concurso de Oposición Libre para la Designación de Jueces de Distrito, se ordena cancelarlo por no ajustarse a los términos del presente Acuerdo.
+
+D.O.F. 30 DE OCTUBRE DE 2007.
+
+ACUERDO GENERAL 45/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable para concursos que en el futuro se convoquen.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo.
+
+TERCERO. Se abrogan los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 64/2006 y 4/2007, en lo conducente.
+
+CUARTO. Comuníquese al Pleno de la Suprema Corte de Justicia de la Nación el texto íntegro de este Acuerdo General, para los efectos a que haya lugar.
+
+QUINTO. En virtud de que el Pleno del Consejo en sesión ordinaria celebrada el 28 de febrero de dos mil siete, suspendió el Tercer Concurso de Oposición Libre para la Designación de Magistrados de Circuito, se ordena cancelarlo por no ajustarse a los términos del presente Acuerdo.
