@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2007-03-08"
+last_updated: "2007-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2007.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -93,7 +93,7 @@ XII. Subdirección del Centro Nacional de Control de Energía;
 
 XIII. Subdirección de Distribución;
 
-XIV. Subdirección Técnica;
+XIV. (DEROGADA, D.O.F. 30 DE OCTUBRE DE 2007)
 
 XV. Subdirección de Operación Financiera;
 
@@ -131,27 +131,57 @@ XXX. Coordinación de Transmisión;
 
 XXXI. Coordinación de Protecciones, Comunicación y Control;
 
-XXXII. Coordinación del Sistema Eléctrico Nacional;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
-XXXIII. Coordinación de Distribución;
+XXXII. Coordinación de Operación de Fibra Optica;
 
-XXXIV. Coordinación Comercial;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
-XXXV. Coordinación de Relaciones Institucionales;
+XXXIII. Coordinación del Sistema Eléctrico Nacional;
 
-XXXVI. Coordinación de Administración;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
-XXXVII. Coordinación de Proyectos Especiales y Racionalización de Activos;
+XXXIV. Coordinación de Distribución;
 
-XXXVIII. Coordinación de Proyectos Hidroeléctricos;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
-XXXIX. Coordinación de Proyectos Termoeléctricos;
+XXXV. Coordinación Comercial;
 
-XL. Coordinación de Proyectos de Transmisión y Transformación;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
-XLI. Gerencias de Oficinas Nacionales, y
+XXXVI. Coordinación de Relaciones Institucionales;
 
-XLII. Areas Administrativas Regionales.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XXXVII. Coordinación de Administración;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XXXVIII. Coordinación de Proyectos Especiales y Racionalización de Activos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XXXIX. Coordinación de Proyectos Hidroeléctricos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XL. Coordinación de Proyectos Termoeléctricos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XLI. Coordinación de Proyectos de Transmisión y Transformación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XLII. Coordinación CFE TELECOM;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XLIII. Gerencias de Oficinas Nacionales, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XLIV. Areas Administrativas Regionales.
 
 La Comisión cuenta con un Organo Interno de Control que se regirá conforme a lo dispuesto por los artículos 54 a 58 de este Estatuto.
 
@@ -411,9 +441,13 @@ I. Planear, ejecutar y supervisar los proyectos de infraestructura productiva de
 
 II. Presidir el Comité Central de Obras Públicas, Prestación de Servicios Relacionados con las Mismas y Pidiregas, y coordinar los programas correspondientes.
 
-III. Emitir las convocatorias y bases de licitación de los proyectos de infraestructura productiva de largo plazo, llevar a cabo su proceso de licitación, la firma de los contratos respectivos y supervisar las actividades de apoyo a los licitantes ganadores en el cierre financiero, y
+III. Emitir las convocatorias y bases de licitación de los proyectos de infraestructura productiva de largo plazo, llevar a cabo su proceso de licitación, la firma de los contratos respectivos y supervisar las actividades de apoyo a los licitantes ganadores en el cierre financiero, y (sic)
 
-IV. Promover la inversión privada en proyectos de infraestructura eléctrica para el corto, mediano y largo plazos.
+IV. Promover la inversión privada en proyectos de infraestructura eléctrica para el corto, mediano y largo plazos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+V. Establecer lineamientos para la elaboración de estudios técnicos referentes a proyectos, así como la evaluación del impacto ambiental de las obras y actividades de la Comisión.
 
 ###### Artículo 14.
 
@@ -421,9 +455,25 @@ A la Dirección de Modernización y Cambio Estructural le corresponden, además 
 
 I. Coordinar las acciones tendientes al proceso de modernización y cambio estructural de la Comisión.
 
-II. Proponer los mecanismos e instrumentos para la conformación de un mercado de energía, en los términos que dispongan la Secretaría de Energía y la Junta de Gobierno, y
+II. Proponer los mecanismos e instrumentos para la conformación de un mercado de energía, en los términos que dispongan la Secretaría de Energía y la Junta de Gobierno, y (sic)
 
-III. Proponer los lineamientos y acciones para la creación de las Divisiones de Negocio en las áreas de generación, transmisión, transformación, control y distribución de la Comisión.
+III. Proponer los lineamientos y acciones para la creación de las Divisiones de Negocio en las áreas de generación, transmisión, transformación, control y distribución de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+IV. Elaborar, difundir, implementar y actualizar las normas referentes a materiales, productos, equipos e instalaciones, así como para asegurar la calidad de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+V. Coordinar y normar a las áreas operativas, técnicas y administrativas de la Comisión en el diseño, adquisición y operación de los sistemas informáticos y en la adquisición de bienes y contratación de servicios en materia de telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+VI. Coordinar el apoyo tecnológico del Instituto de Investigaciones Eléctricas a la Comisión, así como el de otras instituciones similares, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+VII. Planear, dirigir, controlar, supervisar y coordinar las políticas y acciones para la comercialización, desarrollo y prestación de servicios de telecomunicaciones.
 
 ### Capítulo V. Del Abogado General y de las Subdirecciones
 
@@ -495,9 +545,13 @@ I. Establecer las normas, objetivos y metas para garantizar la disponibilidad, c
 
 II. Dirigir la planeación, estudios, proyectos, programas y presupuestos para la operación de las instalaciones de generación.
 
-III. Planear, coordinar y supervisar las acciones relacionadas con la operación y mantenimiento de las centrales generadoras que integran el Sistema Eléctrico Nacional, y
+III. Planear, coordinar y supervisar las acciones relacionadas con la operación y mantenimiento de las centrales generadoras que integran el Sistema Eléctrico Nacional, y (sic)
 
-IV. Dirigir el proceso de administración de contratos con productores externos de energía eléctrica.
+IV. Dirigir el proceso de administración de contratos con productores externos de energía eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+V. Proponer normas y procedimientos internos para asegurar la efectividad y calidad de las acciones de la Comisión en la seguridad industrial.
 
 ###### Artículo 19.
 
@@ -553,17 +607,7 @@ IV. Elaborar y supervisar el cumplimiento de las políticas, normas y procedimie
 
 ###### Artículo 23.
 
-A la Subdirección Técnica le corresponden, además de las facultades genéricas señaladas en el artículo 15 de este Estatuto, las siguientes:
-
-I. Elaborar estudios técnicos referentes a proyectos hidroeléctricos, termoeléctricos, carboeléctricos, nucleoeléctricos y geohidrológicos.
-
-II. Elaborar, difundir, implementar y actualizar las normas referentes a materiales, productos, equipos e instalaciones, así como para asegurar la calidad de los mismos.
-
-III. Proponer normas y procedimientos internos para asegurar la efectividad y calidad de las acciones de la Comisión en la seguridad industrial.
-
-IV. Apoyar a las unidades administrativas de la Comisión en el diseño y operación de sistemas informáticos y de telecomunicaciones, y
-
-V. Coordinar el apoyo tecnológico del Instituto de Investigaciones Eléctricas a la Comisión, así como el de otras instituciones similares; evaluar el impacto ambiental de las obras y actividades de la Comisión, y apoyar a las unidades administrativas respecto de las medidas técnicas de control.
+(DEROGADO, D.O.F. 30 DE OCTUBRE DE 2007)
 
 ###### Artículo 24.
 
@@ -659,9 +703,13 @@ VI. Verificar el cumplimiento de las obligaciones técnicas derivadas de los con
 
 VII. Elaborar y dar seguimiento de los programas de licitaciones de los proyectos de infraestructura productiva de largo plazo.
 
-VIII. Planear y dar seguimiento a la factibilidad del suministro y transporte de combustibles de los proyectos de infraestructura productiva de largo plazo, y
+VIII. Planear y dar seguimiento a la factibilidad del suministro y transporte de combustibles de los proyectos de infraestructura productiva de largo plazo, y (sic)
 
 IX. Integrar los anexos técnicos de los contratos de proyectos de infraestructura productiva de largo plazo.
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+X. Evaluar el impacto ambiental de las obras y actividades de la Comisión, y apoyar a las unidades administrativas respecto de las medidas técnicas de control.
 
 ###### Artículo 30.
 
@@ -677,9 +725,13 @@ IV. Dirigir la elaboración de proyectos y estudios y prestar servicios a tercer
 
 V. Supervisar la elaboración de especificaciones técnicas para las bases de licitación y participar en el proceso de evaluación de las propuestas que se reciban en las licitaciones de los proyectos de infraestructura productiva de largo plazo que le correspondan.
 
-VI. Participar en la solución de los problemas correspondientes a los aspectos sociales, de afectaciones y ambientales con el objeto de permitir la construcción de los proyectos a cargo de la Subdirección, y
+VI. Participar en la solución de los problemas correspondientes a los aspectos sociales, de afectaciones y ambientales con el objeto de permitir la construcción de los proyectos a cargo de la Subdirección, y (sic)
 
 VII. Supervisar la construcción de las obras civiles y el montaje de equipos electromecánicos de los proyectos a cargo de la Subdirección.
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+VIII. Elaborar estudios técnicos referentes a proyectos hidroeléctricos, termoeléctricos, carboeléctricos, nucleoeléctricos y geohidrológicos.
 
 ### Capítulo VI. De las Coordinaciones
 
@@ -845,9 +897,21 @@ II. Coordinar el análisis de las estadísticas de falla, de comportamiento de e
 
 III. Coordinar los estudios para mejorar los sistemas de protecciones, comunicaciones y control.
 
-> <small>(ADICIONADA, D.O.F. 28 DE MARZO DE 2006)</small>
+IV. (DEROGADA, D.O.F. 30 DE OCTUBRE DE 2007)
 
-IV. Coordinar el control, administración, gestión y operación de las actividades conexas para aprovechamiento de la infraestructura de fibra óptica interestatal y nacional de la Comisión y realizar los actos que sean necesarios para tal efecto.
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 40 Bis.
+
+A la Coordinación de Operación de Fibra Optica le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
+
+I. Coordinar el control, administración, gestión y operación de las actividades conexas para el aprovechamiento integral de la infraestructura de fibra óptica interestatal y nacional de la Comisión y realizar los actos que sean necesarios para tal efecto.
+
+II. Colaborar en la celebración de los convenios correspondientes para la adquisición de capacidad, respecto de redes de otros concesionarios de redes públicas de telecomunicaciones para la comercialización de dicha capacidad.
+
+III. Participar desde el punto de vista técnico para solicitar previamente a la Comisión Federal de Telecomunicaciones la autorización correspondiente para prestar servicios a usuarios finales, además de prestar servicios de valor agregado, así como asumir las condiciones y obligaciones que se establezcan en la autorización que en su caso se le otorgue, y
+
+IV. Mantener actualizada la red de fibra óptica, mediante la introducción de los más recientes avances tecnológicos.
 
 ###### Artículo 41.
 
@@ -961,6 +1025,22 @@ III. Coordinar el desarrollo de estudios para la selección de trayectorias y si
 
 IV. Dirigir, coordinar y administrar contratos, dictámenes, convenios, conciliaciones, estimaciones y pagos asociados a la ejecución de proyectos de subestaciones y líneas de transmisión.
 
+> <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+###### Artículo 49 Bis.
+
+A la Coordinación CFE TELECOM le corresponden, además de las facultades genéricas señaladas en el artículo 31 de este Estatuto, las siguientes:
+
+I. Establecer políticas, normas y lineamientos que regulen la comercialización de los servicios de telecomunicaciones.
+
+II. Coordinar y dirigir la comercialización de los servicios de telecomunicaciones.
+
+III. Coordinar, con las áreas técnicas y operativas, la factibilidad de la prestación de servicios de telecomunicaciones.
+
+IV. Atender los requerimientos de niveles y coberturas de servicio de telecomunicaciones de los clientes, y
+
+V. Proponer la estrategia tarifaria y la política de precios y descuentos con base en el mercado, la normatividad y el marco regulatorio aplicable en materia de telecomunicaciones.
+
 ### Capítulo VII. De las Gerencias de Oficinas Nacionales
 
 ###### Artículo 50.
@@ -989,7 +1069,7 @@ IX. Asegurar el buen uso y preservar los bienes asignados a la Gerencia a su car
 
 X. Las demás facultades que le confieran su jefe inmediato, los manuales y los ordenamientos aplicables.
 
-> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 51.
 
@@ -1007,153 +1087,165 @@ V. Asuntos Contenciosos;
 
 VI. Asuntos Legales Internacionales e Inversiones;
 
-VII. Atención para Grandes Consumidores;
+VII. Asuntos Legales y Regulatorios en materia de Telecomunicaciones;
 
-VIII. Cambio Estructural;
+VIII. Atención para Grandes Consumidores;
 
-IX. Capacitación;
+IX. Cambio Estructural;
 
-X. Centrales Nucleoeléctricas;
+X. Capacitación;
 
-XI. Combustibles Líquidos;
+XI. Centrales Nucleoeléctricas;
 
-XII. Comunicación y Control;
+XII. Combustibles Líquidos;
 
-XIII. Comunicación Social;
+XIII. Comunicación y Control;
 
-XIV. Construcción de Proyectos de Transmisión y Transformación;
+XIV. Comunicación Social;
 
-XV. Construcción de Proyectos Hidroeléctricos;
+XV. Construcción de Proyectos de Transmisión y Transformación;
 
-XVI. Construcción de Proyectos Termoeléctricos;
+XVI. Construcción de Proyectos Hidroeléctricos;
 
-XVII. Contabilidad;
+XVII. Construcción de Proyectos Termoeléctricos;
 
-XVIII. Contratos de Obra Pública;
+XVIII. Contabilidad;
 
-XIX. Control de Gestión;
+XIX. Contratos de Obra Pública;
 
-XX. Control y Evaluación Financiera;
+XX. Control de Gestión;
 
-XXI. Créditos;
+XXI. Control y Evaluación Financiera;
 
-XXII. Desarrollo Social;
+XXII. Créditos;
 
-XXIII. División para la Administración de Contratos con Productores Externos de
+XXIII. Desarrollo Social;
 
-Energía;
+XXIV. División para la Administración de Contratos con Productores Externos de Energía;
 
-XXIV. Estudios de Ingeniería Civil;
+XXV. Estudios de Ingeniería Civil;
 
-XXV. Estudios Económicos;
+XXVI. Estudios Económicos;
 
-XXVI. Evaluación de Inversiones;
+XXVII. Evaluación de Inversiones;
 
-XXVII. Evaluación y Control Divisional;
+XXVIII. Evaluación y Control Divisional;
 
-XXVIII. Fondo de la Habitación y Servicios Sociales para los Trabajadores Electricistas;
+XXIX. Fondo de la Habitación y Servicios Sociales para los Trabajadores Electricistas;
 
-XXIX. Gas Natural;
+XXX. Gas Natural;
 
-XXX. Gestión de Riesgos;
+XXXI. Gestión de Riesgos;
 
-XXXI. Información y Administración de Energía;
+XXXII. Información y Administración de Energía;
 
-XXXII. Informática y Telecomunicaciones;
+XXXIII. Informática y Telecomunicaciones;
 
-XXXIII. Ingeniería Civil;
+XXXIV. Ingeniería Civil;
 
-XXXIV. Ingeniería de Servicios al Cliente;
+XXXV. Ingeniería de Red de Fibra Optica;
 
-XXXV. Ingeniería Eléctrica;
+XXXVI. Ingeniería de Servicios al Cliente;
 
-XXXVI. Ingeniería y Desarrollo;
+XXXVII. Ingeniería Eléctrica;
 
-XXXVII. Jurídica de Asuntos Consultivos;
+XXXVIII. Ingeniería Especializada;
 
-XXXVIII. Laboratorio de Pruebas de Equipos y Materiales;
+XXXIX. Ingeniería y Desarrollo;
 
-XXXIX. Legal de Proyectos de Inversión Financiada;
+XL. Inteligencia de Mercado;
 
-XL. Licitaciones y Contratación de Proyectos de Inversión Financiada;
+XLI. Jurídica de Asuntos Consultivos;
 
-XLI. Líneas de Transmisión;
+XLII. Laboratorio de Pruebas de Equipos y Materiales;
 
-XLII. Modernización;
+XLIII. Legal de Proyectos de Inversión Financiada;
 
-XLIII. Normalización de Distribución;
+XLIV. Licitaciones y Contratación de Proyectos de Inversión Financiada;
 
-XLIV. Operación de Distribución;
+XLV. Líneas de Transmisión;
 
-XLV. Operación del Mercado;
+XLVI. Modernización;
 
-XLVI. Operación del Sistema Eléctrico Nacional;
+XLVII. Normalización de Distribución;
 
-XLVII. Operación Financiera;
+XLVIII. Operación de Distribución;
 
-XLVIII. Planeación de Distribución;
+XLIX. Operación de Red de Fibra Optica;
 
-XLIX. Planeación Financiera;
+L. Operación del Mercado;
 
-L. Planificación de Redes Eléctricas;
+LI. Operación del Sistema Eléctrico Nacional;
 
-LI. Planificación del Sistema de Generación;
+LII. Operación Financiera;
 
-LII. Presupuestos;
+LIII. Planeación de Distribución;
 
-LIII. Procesos Comerciales;
+LIV. Planeación Financiera;
 
-LIV. Producción Hidroeléctrica;
+LV. Planeación y Desarrollo de Fibra Optica;
 
-LV. Producción Termoeléctrica;
+LVI. Planificación de Redes Eléctricas;
 
-LVI. Programa de Ahorro de Energía del Sector Eléctrico;
+LVII. Planificación del Sistema de Generación;
 
-LVII. Programación y Evaluación Administrativa;
+LVIII. Presupuestos;
 
-LVIII. Programación y Evaluación Financiera;
+LIX. Procesos Comerciales;
 
-LIX. Programas Logísticos;
+LX. Producción Hidroeléctrica;
 
-LX. Prospección Tecnológica;
+LXI. Producción Termoeléctrica;
 
-LXI. Protección Ambiental;
+LXII. Programa de Ahorro de Energía del Sector Eléctrico;
 
-LXII. Protecciones;
+LXIII. Programación y Evaluación Administrativa;
 
-LXIII. Proyectos de Líneas de Transmisión y Subestaciones;
+LXIV. Programación y Evaluación Financiera;
 
-LXIV. Proyectos de Obra Pública Financiada;
+LXV. Programas Logísticos;
 
-LXV. Proyectos de Productores Externos de Energía;
+LXVI. Prospección Tecnológica;
 
-LXVI. Proyectos Geotermoeléctricos;
+LXVII. Protección Ambiental;
 
-LXVII. Relaciones Laborales;
+LXVIII. Protecciones;
 
-LXVIII. Seguimiento y Control;
+LXIX. Proyectos de Líneas de Transmisión y Subestaciones;
 
-LXXIX. Seguridad Física;
+LXX. Proyectos de Obra Pública Financiada;
 
-LXX. Seguridad Industrial;
+LXXI. Proyectos de Productores Externos de Energía;
 
-LXXI. Servicios al Cliente;
+LXXII. Proyectos Geotermoeléctricos;
 
-LXXII. Subestaciones;
+LXXIII. Relaciones Laborales;
 
-LXXIII. Técnica de Proyectos Hidroeléctricos;
+LXXIV. Seguimiento y Control;
 
-LXXIV. Técnica de Proyectos Termoeléctricos;
+LXXV. Seguridad Física;
 
-LXXV. Técnica de Proyectos de Transmisión y Transformación;
+LXXVI. Seguridad Industrial;
 
-LXXVI. Unidad de Administración de Riesgos;
+LXXVII. Servicios al Cliente;
 
-LXXVII. Unidad de Desarrollo Organizacional y Evaluación;
+LXXVIII. Servicios de Capacidad de Fibra Optica;
 
-LXXVIII. Unidad de Enlace para la Información Pública, y
+LXXIX. Subestaciones;
 
-LXXIX. Unidad de Ingeniería Especializada.
+LXXX. Técnica de Proyectos Hidroeléctricos;
+
+LXXXI. Técnica de Proyectos Termoeléctricos;
+
+LXXXII. Técnica de Proyectos de Transmisión y Transformación;
+
+LXXXIII. Ventas;
+
+LXXXIV. Unidad de Administración de Riesgos;
+
+LXXXV. Unidad de Desarrollo Organizacional y Evaluación, y
+
+LXXXVI. Unidad de Enlace para la Información Pública.
 
 ### Capítulo VIII. De las Areas Administrativas Regionales
 
@@ -1306,3 +1398,11 @@ Unico. El presente acuerdo entrará en vigor al día siguiente al de su publicac
 D.O.F. 8 DE MARZO DE 2007.
 
 Unico. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE OCTUBRE DE 2007.
+
+PRIMERO. Las presentes Reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
+
+TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que corresponda, de acuerdo a sus respectivas facultades.
