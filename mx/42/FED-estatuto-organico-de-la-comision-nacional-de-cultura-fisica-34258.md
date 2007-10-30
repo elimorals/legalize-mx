@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-cultura-fisica-342
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-10-20"
-last_updated: "2007-01-11"
+last_updated: "2007-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34258&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-25"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2007.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 20 de octubre de 2003.
 
@@ -201,6 +201,10 @@ Dirección de Alto Rendimiento
 
 Dirección de Operación Fiduciaria y Mercadotecnia
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+Dirección del Centro Nacional de Desarrollo de Talentos Deportivos y Alto Rendimiento.
+
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
 III. Subdirección General de Cultura Física
@@ -273,7 +277,9 @@ IX. Realizar aquellas tareas que le encomiende expresamente el Director General 
 
 X. Participar en el Programa de Innovación y Calidad Institucional;
 
-XI. Autorizar y controlar las acciones de infraestructura y obras, mediante la planeación, organización, programación, presupuestación, ejecución y evaluación de las mismas, estableciendo la coordinación entre el Gobierno Federal, Estatal y Municipal, para la realización de las construcciones de la infraestructura deportiva conforme a las disposiciones legales y administrativas aplicables en la materia;
+> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XI. Autorizar y controlar las acciones de infraestructura y obras, mediante la planeación, organización, programación, presupuestación y evaluación de las mismas, estableciendo la coordinación entre el Gobierno Federal, Estatal y Municipal, para la realización de las construcciones de la infraestructura deportiva conforme a las disposiciones legales y administrativas aplicables en la materia;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE MAYO DE 2006)</small>
 
@@ -289,9 +295,7 @@ XV. Administrar racionalmente los recursos informáticos existentes en la CONADE
 
 XVI. Dirigir, administrar, instruir y evaluar las actividades para la operación de la Escuela Nacional de Entrenadores Deportivos, así como para validar los planes y programas de estudio, para su autorización por parte de las instancias competentes de la Secretaría de Educación Pública;
 
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2007)</small>
-
-XVII. Administrar, facilitar y supervisar el uso de las instalaciones y estancias deportivas ubicadas en “Villas Tlalpan”.
+XVII. (DEROGADA, D.O.F. 30 DE OCTUBRE DE 2007)
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
 
@@ -323,7 +327,11 @@ X. Realizar aquellas tareas que le encomiende expresamente el Director General d
 
 > <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2007)</small>
 
-XI. Dirigir, administrar, instruir y evaluar las actividades para la operación del Centro Nacional de Desarrollo de Talentos Deportivos y Alto Rendimiento, así como establecer las acciones de coordinación con la Secretaría de Educación Pública, respecto de los programas académicos en apoyo a los Deportistas.
+XI. Dirigir, administrar, instruir y evaluar las actividades para la operación del Centro Nacional de Desarrollo de Talentos Deportivos y Alto Rendimiento, así como establecer las acciones de coordinación con la Secretaría de Educación Pública, respecto de los programas académicos en apoyo a los Deportistas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XII. Administrar, facilitar y supervisar el uso de las instalaciones y estancias deportivas ubicadas en el Centro Paralímpico Mexicano.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
 
@@ -387,9 +395,17 @@ XII. Llevar el registro de los Comités o Subcomités Técnicos Especializados q
 
 XIII. Participar en el Programa de Innovación y Calidad Institucional;
 
-XIV. Elaborar y fincar los pliegos preventivos de responsabilidades, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, y
+XIV. Elaborar y fincar los pliegos preventivos de responsabilidades, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, y (sic)
 
-XV. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
+XV. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XVI. Administrar, facilitar y supervisar el uso de las instalaciones y estancias deportivas ubicadas en el Centro Villas Tlalpan;
+
+> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2007)</small>
+
+XVII. Autorizar y controlar las acciones de infraestructura y obras en las instalaciones de la Comisión Nacional de Cultura Física y Deporte, mediante la planeación, organización, programación, presupuestación, ejecución y evaluación de las mismas, conforme a las disposiciones legales y administrativas aplicables en la materia.
 
 De las Coordinaciones
 
@@ -542,3 +558,7 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 11 DE ENERO DE 2007.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE OCTUBRE DE 2007.
+
+UNICO. Las presentes modificaciones entrarán en vigor a partir de su aprobación por la Junta Directiva de la Comisión Nacional de Cultura Física y Deporte y deberán publicarse en el Diario Oficial de la Federación.
