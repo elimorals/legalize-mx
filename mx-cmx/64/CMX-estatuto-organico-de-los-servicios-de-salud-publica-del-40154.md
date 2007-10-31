@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-los-servicios-de-salud-publica-del-40154"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-08-04"
-last_updated: "2004-08-04"
+last_updated: "2007-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40154&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-05-14"
 
 ESTATUTO ORGANICO DE LOS SERVICIOS DE SALUD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DEL ESTATUTO ORGANICO DE LOS SERVICIOS DE SALUD PUBLICA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 31 DE OCTUBRE DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de agosto de 2004.
 
@@ -651,3 +653,19 @@ SECRETARIA DE SALUD DEL DISTRITO FEDERAL
 Y PRESIDENTA DEL CONSEJO DIRECTIVO DE LOS
 
 SERVICIOS DE SALUD PÚBLICA DEL DISTRITO FEDERAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 31 DE OCTUBRE DE 2007.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- En tanto se expiden los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo. El Director General queda facultado para resolver los asuntos que éstos deben establecer.
+
+TERCERO.- Las Unidades Administrativas con denominación nueva o distinta que aparecen en el presente Estatuto y que tienen competencia que anteriormente correspondían a otras áreas o unidades, se harán cargo de las mismas hasta su resolución.
+
+CUARTO.- Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Estatuto, deba ser ejercida por alguna otra unidad, el personal y los recursos financieros con que aquella contaba, se regirán de conformidad con las disposiciones y facultades que al efecto establezcan el Consejo Directivo y autoridades competentes del Organismo.
+
+QUINTO.- Los derechos laborales de los trabajadores del Organismo serán respetados en términos de la normatividad laboral vigente.
+
+SEXTO.- Se derogan las disposiciones contenidas en el Estatuto Orgánico de los Servicios de Salud Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 04 de agosto del 2004, aprobado por el Consejo Directivo del Organismo en su 2ª sesión extraordinaria, celebrada el 14 de mayo de 2004, por acuerdo número 01-02-RE-04, presidida por la entonces Secretaria de Salud del Distrito Federal, Dra. Asa Cristina Laurell.
